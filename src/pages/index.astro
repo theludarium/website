@@ -1,0 +1,227 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Hero from '@/components/Hero.astro';
+import NewsletterForm from '@/components/NewsletterForm.astro';
+import { CATEGORIES, SITE } from '@/lib/site';
+
+const categoryTints = ['var(--brand-felt)', 'var(--brand-lamplight)', 'var(--brand-stone)', '#6e9c8d'];
+---
+
+<BaseLayout>
+  <Hero>
+    <h1>Better game nights start here.</h1>
+    <p class="hero__sub">
+      Free guides, game picks, and hosting ideas from The Ludarium, sent to your inbox. Plus first
+      word on our game lounge coming to Indianapolis.
+    </p>
+    <NewsletterForm tone="dark" id="hero-signup" />
+  </Hero>
+
+  <section class="section statement">
+    <div class="container">
+      <p class="eyebrow">Togethering</p>
+      <p class="statement__line">{SITE.tagline}</p>
+      <p class="statement__body">
+        We believe the best nights start with a game and end with friends. The Ludarium helps you
+        find the right game, learn it fast, and bring people around the table.
+      </p>
+    </div>
+  </section>
+
+  <section class="section section--tight-top">
+    <div class="container">
+      <div class="section-head">
+        <div>
+          <h2>Start reading</h2>
+          <p>Guides, ideas, and stories for every kind of player.</p>
+        </div>
+        <a class="text-link" href="/articles/">All articles</a>
+      </div>
+      <div class="grid grid--4">
+        {
+          CATEGORIES.map((category, i) => (
+            <a class="card category-card" href={`/articles/category/${category.slug}/`} style={`--tint: ${categoryTints[i]}`}>
+              <span class="category-card__mark" aria-hidden="true" />
+              <h3>{category.name}</h3>
+              <p>{category.description}</p>
+            </a>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--alt">
+    <div class="container">
+      <div class="section-head">
+        <div>
+          <h2>Free tools for your table</h2>
+          <p>Try a game before you buy it. Settle what to play tonight.</p>
+        </div>
+        <a class="text-link" href="/play/">All tools</a>
+      </div>
+      <div class="grid grid--2">
+        <a class="card tool-card" href="/rpg-demo-library/">
+          <p class="eyebrow">Tool</p>
+          <h3>RPG Demo Library</h3>
+          <p>Play a short intro adventure of a role-playing game, right in your browser, before you spend a dollar.</p>
+          <span class="card__more">Try a demo</span>
+        </a>
+        <a class="card tool-card" href="/game-night-madness/">
+          <p class="eyebrow">Tool</p>
+          <h3>Game Night Madness</h3>
+          <p>Build a bracket of games and let your group vote their way to tonight's winner.</p>
+          <span class="card__more">Start a bracket</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="lounge-band">
+    <div class="container lounge-band__inner">
+      <p class="eyebrow">Lounge No. 001 &middot; Indianapolis</p>
+      <h2>A home for players is coming to Indianapolis.</h2>
+      <p class="lounge-band__body">
+        A membership game lounge. Walk in on your own, and there is a table and someone to play
+        with. Indianapolis is first. Then the next city, and the next.
+      </p>
+      <a class="button lounge-band__cta" href="/lounges/indianapolis/">Join the Indianapolis waitlist</a>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container grid grid--2">
+      <a class="card" href="/academy/">
+        <p class="eyebrow">The Ludarium Academy</p>
+        <h3>Learn to design games, and to win them.</h3>
+        <p>Courses in game design and game strategy. Start with free lessons.</p>
+        <span class="card__more">Explore the Academy</span>
+      </a>
+      <a class="card" href="/corporate-events/">
+        <p class="eyebrow">For teams</p>
+        <h3>Leadership training, taught through tabletop games.</h3>
+        <p>Workshops that build trust, communication, and real skills. Run at your office.</p>
+        <span class="card__more">Plan an event</span>
+      </a>
+    </div>
+  </section>
+
+  <section class="section section--tight-top section--flush-bottom">
+    <div class="container">
+      <div class="newsletter-band">
+        <h2>Never miss a great game night.</h2>
+        <p>Free guides, game picks, and hosting ideas, sent to your inbox.</p>
+        <NewsletterForm id="footer-signup" />
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .section--tight-top {
+    padding-top: 0;
+  }
+
+  .section--flush-bottom {
+    padding-bottom: 0;
+  }
+
+  .section--alt {
+    background: var(--color-surface-alt);
+  }
+
+  .statement__line {
+    max-width: 22ch;
+    margin-bottom: var(--space-5);
+    font-family: var(--font-display);
+    font-size: var(--text-3xl);
+    font-weight: 500;
+    line-height: var(--leading-tight);
+    letter-spacing: -0.01em;
+    text-wrap: balance;
+  }
+
+  .statement__body {
+    max-width: 38rem;
+    font-size: var(--text-lg);
+    color: var(--color-text-muted);
+  }
+
+  .category-card__mark {
+    width: 2.5rem;
+    height: 2.5rem;
+    margin-bottom: var(--space-6);
+    border-radius: 12px;
+    background: var(--tint);
+    transform: rotate(-8deg);
+    transition: transform 240ms ease;
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    .category-card:hover .category-card__mark {
+      transform: rotate(8deg) scale(1.08);
+    }
+  }
+
+  .tool-card {
+    padding: var(--space-7) var(--space-6);
+  }
+
+  .tool-card h3 {
+    font-size: var(--text-2xl);
+  }
+
+  .lounge-band {
+    padding-block: var(--section-pad);
+    background: var(--brand-walnut);
+    color: var(--brand-parchment);
+  }
+
+  .lounge-band .eyebrow {
+    color: var(--brand-lamplight);
+  }
+
+  .lounge-band h2 {
+    max-width: 18ch;
+    margin-top: 0;
+    font-size: var(--text-4xl);
+    color: var(--brand-parchment);
+  }
+
+  .lounge-band__body {
+    max-width: 34rem;
+    margin-bottom: var(--space-6);
+    font-size: var(--text-lg);
+    color: rgb(246 239 227 / 0.82);
+  }
+
+  .lounge-band__cta:hover {
+    background: var(--brand-parchment);
+    border-color: var(--brand-parchment);
+    color: var(--brand-walnut);
+  }
+
+  .newsletter-band {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: var(--space-8) var(--space-5);
+    border-radius: var(--radius-card);
+    background: var(--color-accent-soft);
+    text-align: center;
+  }
+
+  .newsletter-band h2 {
+    margin-top: 0;
+    font-size: var(--text-3xl);
+  }
+
+  .newsletter-band > p {
+    margin-bottom: var(--space-5);
+    color: var(--color-text-muted);
+  }
+
+  .newsletter-band :global(.signup__note) {
+    margin-left: 0;
+  }
+</style>

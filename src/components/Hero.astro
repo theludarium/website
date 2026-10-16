@@ -1,0 +1,176 @@
+---
+// Full-width hero. Follows the landing page rules in CLAUDE.md: one outcome
+// headline, a subheadline that clarifies it, art that proves it, one action.
+// The art sits still, then comes alive after `aliveAfter` seconds.
+import TableScene from '@/components/TableScene.astro';
+
+interface Props {
+  aliveAfter?: number;
+}
+
+const { aliveAfter = 6 } = Astro.props;
+---
+
+<section class="hero" data-hero data-alive-after={aliveAfter}>
+  <div class="hero__media">
+    <TableScene />
+    <div class="hero__shade" aria-hidden="true"></div>
+  </div>
+
+  <div class="container hero__content">
+    <div class="hero__copy">
+      <slot />
+    </div>
+  </div>
+
+  <button class="hero__pause" type="button" data-hero-pause hidden aria-label="Pause animation">
+    <svg class="icon-pause" viewBox="0 0 16 16" width="14" height="14" aria-hidden="true">
+      <rect x="3" y="2" width="3.5" height="12" rx="1" fill="currentColor" />
+      <rect x="9.5" y="2" width="3.5" height="12" rx="1" fill="currentColor" />
+    </svg>
+    <svg class="icon-play" viewBox="0 0 16 16" width="14" height="14" aria-hidden="true">
+      <path d="M4 2.5v11l9-5.5z" fill="currentColor" />
+    </svg>
+  </button>
+</section>
+
+<style>
+  .hero {
+    position: relative;
+    isolation: isolate;
+    display: flex;
+    align-items: center;
+    min-height: clamp(36rem, 88vh, 54rem);
+    overflow: hidden;
+    background: #2b1e16;
+    color: #f6efe3;
+  }
+
+  .hero__media {
+    position: absolute;
+    inset: 0;
+    z-index: -2;
+  }
+
+  .hero__shade {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background: linear-gradient(
+      90deg,
+      rgb(28 20 15 / 0.92) 0%,
+      rgb(28 20 15 / 0.78) 32%,
+      rgb(28 20 15 / 0.15) 62%,
+      rgb(28 20 15 / 0) 100%
+    );
+  }
+
+  .hero__content {
+    position: relative;
+    pointer-events: none;
+    padding-block: var(--space-9);
+  }
+
+  .hero__copy {
+    max-width: 36rem;
+    pointer-events: auto;
+  }
+
+  .hero__copy :global(h1) {
+    color: #f6efe3;
+    font-size: var(--text-4xl);
+    max-width: 13ch;
+  }
+
+  .hero__copy :global(.hero__sub) {
+    margin-bottom: var(--space-6);
+    font-size: var(--text-lg);
+    color: rgb(246 239 227 / 0.86);
+    max-width: 32rem;
+  }
+
+  .hero__pause {
+    position: absolute;
+    right: var(--gutter);
+    bottom: var(--space-5);
+    display: inline-grid;
+    place-items: center;
+    width: 2.5rem;
+    height: 2.5rem;
+    padding: 0;
+    border: 1px solid rgb(246 239 227 / 0.35);
+    border-radius: var(--radius-pill);
+    background: rgb(28 20 15 / 0.45);
+    color: #f6efe3;
+    cursor: pointer;
+  }
+
+  .hero__pause[hidden] {
+    display: none;
+  }
+
+  .hero__pause:hover {
+    background: rgb(28 20 15 / 0.7);
+  }
+
+  .icon-play {
+    display: none;
+  }
+
+  .hero[data-paused] .icon-play {
+    display: block;
+  }
+
+  .hero[data-paused] .icon-pause {
+    display: none;
+  }
+
+  /* Small screens: art on top, words below it */
+  @media (max-width: 48rem) {
+    .hero {
+      flex-direction: column;
+      align-items: stretch;
+      min-height: 0;
+    }
+
+    .hero__media {
+      position: relative;
+      inset: auto;
+      z-index: 0;
+      height: clamp(15rem, 44svh, 24rem);
+    }
+
+    .hero__shade {
+      background: linear-gradient(180deg, rgb(43 30 22 / 0) 55%, rgb(43 30 22 / 1) 100%);
+    }
+
+    .hero__content {
+      padding-block: var(--space-4) var(--space-8);
+    }
+
+    .hero__pause {
+      top: calc(clamp(15rem, 44svh, 24rem) - 3.25rem);
+      bottom: auto;
+    }
+  }
+</style>
+
+<script>
+  document.querySelectorAll<HTMLElement>('[data-hero]').forEach((hero) => {
+    const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+    if (reduceMotion.matches) return;
+
+    const pause = hero.querySelector<HTMLButtonElement>('[data-hero-pause]');
+    const delay = Number(hero.dataset.aliveAfter ?? 6) * 1000;
+
+    window.setTimeout(() => {
+      hero.setAttribute('data-alive', '');
+      if (pause) pause.hidden = false;
+    }, delay);
+
+    pause?.addEventListener('click', () => {
+      const paused = hero.toggleAttribute('data-paused');
+      pause.setAttribute('aria-label', paused ? 'Play animation' : 'Pause animation');
+    });
+  });
+</script>

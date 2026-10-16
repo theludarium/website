@@ -1,0 +1,17 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageIntro from '@/components/PageIntro.astro';
+import ComingSoon from '@/components/ComingSoon.astro';
+---
+
+<BaseLayout
+  title="The Ludarium Academy"
+  description="The Ludarium Academy teaches game design and game strategy. Start with free lessons, then unlock every course with one monthly membership."
+>
+  <PageIntro
+    eyebrow="Learn"
+    title="The Ludarium Academy"
+    lede="Courses in game design and game strategy. Start with free lessons, then go deeper with a membership."
+  />
+  <ComingSoon />
+</BaseLayout>

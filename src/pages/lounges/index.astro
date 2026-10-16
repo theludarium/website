@@ -1,0 +1,17 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageIntro from '@/components/PageIntro.astro';
+import ComingSoon from '@/components/ComingSoon.astro';
+---
+
+<BaseLayout
+  title="The Lounges"
+  description="The Ludarium Game Lounge is a membership space for tabletop players. The first one is coming to Indianapolis."
+>
+  <PageIntro
+    eyebrow="Coming soon"
+    title="The Lounges"
+    lede="A membership game lounge: a place to come play and spend time together. One membership, every city."
+  />
+  <ComingSoon />
+</BaseLayout>

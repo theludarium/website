@@ -1,0 +1,17 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageIntro from '@/components/PageIntro.astro';
+import ComingSoon from '@/components/ComingSoon.astro';
+---
+
+<BaseLayout
+  title="RPG Demo Library"
+  description="Play short intro adventures of pen-and-paper RPGs before you buy. Free, open-license games, right in your browser."
+>
+  <PageIntro
+    eyebrow="Tool"
+    title="RPG Demo Library"
+    lede="Play a short intro adventure of a pen-and-paper RPG before you buy it."
+  />
+  <ComingSoon />
+</BaseLayout>

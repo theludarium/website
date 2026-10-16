@@ -1,0 +1,10 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageIntro from '@/components/PageIntro.astro';
+---
+
+<BaseLayout title="Page not found" description="That page rolled under the table. Head back home or browse the articles." noindex>
+  <PageIntro eyebrow="404" title="That page rolled under the table." lede="We could not find what you were looking for.">
+    <p><a class="button" href="/">Back to home</a></p>
+  </PageIntro>
+</BaseLayout>

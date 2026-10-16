@@ -1,0 +1,43 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageIntro from '@/components/PageIntro.astro';
+---
+
+<BaseLayout
+  title="Search"
+  description="Search The Ludarium for articles, game guides, tools, and Academy lessons."
+  noindex
+>
+  <PageIntro eyebrow="Search" title="Find something to play." lede="Search is coming soon. It will cover articles, guides, tools, and Academy lessons.">
+    <form class="search-form" role="search" action="/search/" method="get">
+      <label class="visually-hidden" for="search-q">Search the site</label>
+      <input id="search-q" type="search" name="q" placeholder="Try &quot;two player games&quot;" disabled />
+      <button class="button" type="submit" disabled>Search</button>
+    </form>
+  </PageIntro>
+</BaseLayout>
+
+<style>
+  .search-form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+    max-width: 36rem;
+    margin-top: var(--space-5);
+  }
+
+  .search-form input {
+    flex: 1 1 14rem;
+    padding: 0.7em 1.1em;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-pill);
+    background: var(--color-surface);
+    color: var(--color-text);
+    font: inherit;
+  }
+
+  .search-form [disabled] {
+    opacity: 0.6;
+    cursor: not-allowed;
+  }
+</style>

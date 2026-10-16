@@ -1,0 +1,17 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageIntro from '@/components/PageIntro.astro';
+import ComingSoon from '@/components/ComingSoon.astro';
+---
+
+<BaseLayout
+  title="Indianapolis"
+  description="The first Ludarium Game Lounge is coming to Indianapolis. Join the waitlist to hear first and help shape what we build."
+>
+  <PageIntro
+    eyebrow="The first lounge"
+    title="Indianapolis"
+    lede="The first Ludarium Game Lounge is coming to Indianapolis. Join the waitlist to help make it happen."
+  />
+  <ComingSoon />
+</BaseLayout>

@@ -1,0 +1,134 @@
+/*
+  Design tokens for The Ludarium.
+  Brand palette: Walnut (ink), Parchment (paper), Felt Green (primary),
+  Lamplight (calls to action), Stone (quiet structure).
+  Lamplight and Stone are too light for text on Parchment, so light mode
+  uses deeper tints of them for small text. Every text pairing passes WCAG AA.
+  Colors are set for light mode, then swapped for dark mode either by the
+  visitor's system setting or by the theme toggle (data-theme on <html>).
+*/
+:root {
+  /* Brand palette (fixed, same in both modes) */
+  --brand-walnut: #2b1e16;
+  --brand-parchment: #f6efe3;
+  --brand-felt: #2f5d50;
+  --brand-lamplight: #e0a23b;
+  --brand-stone: #b9ad9c;
+
+  /* Roles */
+  --color-bg: #f6efe3;
+  --color-surface: #fbf7ef;
+  --color-surface-alt: #eee5d6;
+  --color-text: #2b1e16;
+  --color-text-muted: #6b5d4f;
+  --color-border: #ddd3c3;
+  --color-stone: #b9ad9c;
+  --color-primary: #2f5d50;
+  --color-primary-hover: #244a40;
+  --color-on-primary: #f6efe3;
+  --color-cta: #e0a23b;
+  --color-cta-hover: #cf8f27;
+  --color-on-cta: #2b1e16;
+  --color-accent: #7f5510;
+  --color-accent-soft: #f3e2c0;
+  --color-focus: #2f5d50;
+
+  /* Type */
+  --font-display: 'Fraunces Variable', Georgia, 'Times New Roman', serif;
+  --font-body: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  --font-mono: ui-monospace, 'SF Mono', Menlo, Consolas, monospace;
+
+  --text-xs: 0.8125rem;
+  --text-sm: 0.9375rem;
+  --text-base: 1.0625rem;
+  --text-lg: 1.25rem;
+  --text-xl: clamp(1.375rem, 1.2rem + 0.8vw, 1.625rem);
+  --text-2xl: clamp(1.625rem, 1.35rem + 1.3vw, 2.125rem);
+  --text-3xl: clamp(2rem, 1.5rem + 2.4vw, 3rem);
+  --text-4xl: clamp(2.5rem, 1.7rem + 3.8vw, 4.25rem);
+
+  --leading-tight: 1.15;
+  --leading-snug: 1.35;
+  --leading-body: 1.65;
+
+  /* Spacing */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-7: 3rem;
+  --space-8: 4rem;
+  --space-9: 6rem;
+  --space-10: 8rem;
+  --section-pad: clamp(4rem, 3rem + 5vw, 8rem);
+
+  /* Layout */
+  --width-content: 42rem;
+  --width-wide: 72rem;
+  --gutter: clamp(1rem, 4vw, 2rem);
+
+  /* Shape and depth */
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --radius-card: 24px;
+  --radius-pill: 999px;
+  --shadow-sm: 0 1px 2px rgb(31 27 22 / 0.06), 0 1px 3px rgb(31 27 22 / 0.08);
+  --shadow-md: 0 4px 12px rgb(31 27 22 / 0.08), 0 2px 4px rgb(31 27 22 / 0.06);
+  --shadow-lg: 0 18px 40px rgb(31 27 22 / 0.12), 0 4px 10px rgb(31 27 22 / 0.06);
+
+  --transition: 150ms ease;
+
+  color-scheme: light;
+}
+
+/* Dark values, shared by the system setting and the toggle */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    --color-bg: #1c140f;
+    --color-surface: #2b1e16;
+    --color-surface-alt: #352820;
+    --color-text: #f6efe3;
+    --color-text-muted: #b9ad9c;
+    --color-border: #4a3b30;
+    --color-stone: #8f8272;
+    --color-primary: #8cc2b0;
+    --color-primary-hover: #a9d3c5;
+    --color-on-primary: #1c140f;
+    --color-cta: #e0a23b;
+    --color-cta-hover: #ebb65e;
+    --color-on-cta: #2b1e16;
+    --color-accent: #e0a23b;
+    --color-accent-soft: #3a2c18;
+    --color-focus: #8cc2b0;
+    --shadow-sm: 0 1px 2px rgb(0 0 0 / 0.3);
+    --shadow-md: 0 4px 12px rgb(0 0 0 / 0.35);
+    --shadow-lg: 0 18px 40px rgb(0 0 0 / 0.45);
+    color-scheme: dark;
+  }
+}
+
+:root[data-theme='dark'] {
+  --color-bg: #1c140f;
+  --color-surface: #2b1e16;
+  --color-surface-alt: #352820;
+  --color-text: #f6efe3;
+  --color-text-muted: #b9ad9c;
+  --color-border: #4a3b30;
+  --color-stone: #8f8272;
+  --color-primary: #8cc2b0;
+  --color-primary-hover: #a9d3c5;
+  --color-on-primary: #1c140f;
+  --color-cta: #e0a23b;
+  --color-cta-hover: #ebb65e;
+  --color-on-cta: #2b1e16;
+  --color-accent: #e0a23b;
+  --color-accent-soft: #3a2c18;
+  --color-focus: #8cc2b0;
+  --shadow-sm: 0 1px 2px rgb(0 0 0 / 0.3);
+  --shadow-md: 0 4px 12px rgb(0 0 0 / 0.35);
+  --shadow-lg: 0 18px 40px rgb(0 0 0 / 0.45);
+  color-scheme: dark;
+}

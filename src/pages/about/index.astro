@@ -1,0 +1,17 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageIntro from '@/components/PageIntro.astro';
+import ComingSoon from '@/components/ComingSoon.astro';
+---
+
+<BaseLayout
+  title="About"
+  description="The Ludarium exists for togethering: people coming together to share life, with a game as the reason to gather."
+>
+  <PageIntro
+    eyebrow="Togethering"
+    title="About"
+    lede="The game is the reason. The people are the point."
+  />
+  <ComingSoon />
+</BaseLayout>

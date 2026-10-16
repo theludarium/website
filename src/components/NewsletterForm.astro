@@ -1,0 +1,138 @@
+---
+// Email signup. Wired to Kit once PUBLIC_KIT_FORM_ACTION is set (build step 3).
+// Until then the form falls back to the /newsletter/ page so nothing breaks.
+interface Props {
+  buttonLabel?: string;
+  note?: string;
+  tone?: 'light' | 'dark';
+  id?: string;
+}
+
+const {
+  buttonLabel = 'Email me free game night ideas',
+  note = 'Free. No spam. Unsubscribe anytime.',
+  tone = 'light',
+  id = 'newsletter',
+} = Astro.props;
+
+const action = import.meta.env.PUBLIC_KIT_FORM_ACTION ?? '/newsletter/';
+const method = import.meta.env.PUBLIC_KIT_FORM_ACTION ? 'post' : 'get';
+---
+
+<form class:list={['signup', `signup--${tone}`]} action={action} method={method}>
+  <div class="signup__row">
+    <label class="visually-hidden" for={`${id}-email`}>Email address</label>
+    <input
+      class="signup__input"
+      id={`${id}-email`}
+      type="email"
+      name="email_address"
+      placeholder="you@example.com"
+      autocomplete="email"
+      required
+    />
+    <button class="button signup__button" type="submit">{buttonLabel}</button>
+  </div>
+  {
+    note && (
+      <p class="signup__note">
+        {note} <a href="/privacy/">Privacy</a>
+      </p>
+    )
+  }
+</form>
+
+<style>
+  .signup {
+    width: 100%;
+    max-width: 34rem;
+  }
+
+  .signup__row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+    padding: 6px;
+    border-radius: var(--radius-pill);
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    box-shadow: var(--shadow-sm);
+  }
+
+  .signup__input {
+    flex: 1 1 12rem;
+    min-width: 0;
+    padding: 0.7em 1em;
+    border: 0;
+    border-radius: var(--radius-pill);
+    background: transparent;
+    color: var(--color-text);
+    font: inherit;
+  }
+
+  .signup__input::placeholder {
+    color: var(--color-text-muted);
+  }
+
+  .signup__input:focus-visible {
+    outline-offset: 0;
+  }
+
+  .signup__button {
+    flex: 0 0 auto;
+  }
+
+  .signup__note {
+    margin: var(--space-3) 0 0 var(--space-4);
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+
+  .signup__note a {
+    color: inherit;
+  }
+
+  /* On dark backgrounds such as the hero */
+  .signup--dark .signup__row {
+    background: #f6efe3;
+    border-color: transparent;
+  }
+
+  .signup--dark .signup__input {
+    color: #2b1e16;
+  }
+
+  .signup--dark .signup__input::placeholder {
+    color: #6b5d4f;
+  }
+
+  .signup--dark .signup__button {
+    background: #e0a23b;
+    border-color: #e0a23b;
+    color: #2b1e16;
+  }
+
+  .signup--dark .signup__button:hover {
+    background: #ebb65e;
+    border-color: #ebb65e;
+  }
+
+  .signup--dark .signup__note {
+    color: rgb(246 239 227 / 0.82);
+  }
+
+  @media (max-width: 30rem) {
+    .signup__row {
+      flex-direction: column;
+      border-radius: var(--radius-card);
+    }
+
+    .signup__input {
+      flex: none;
+    }
+
+    .signup__button {
+      width: 100%;
+    }
+  }
+</style>

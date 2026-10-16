@@ -1,0 +1,17 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageIntro from '@/components/PageIntro.astro';
+import ComingSoon from '@/components/ComingSoon.astro';
+---
+
+<BaseLayout
+  title="The Newsletter"
+  description="Join The Ludarium newsletter for tabletop game ideas, new articles, free tools, and news about the Indianapolis lounge."
+>
+  <PageIntro
+    eyebrow="Every week"
+    title="The Newsletter"
+    lede="Game ideas, new articles, and Ludarium news, straight to your inbox."
+  />
+  <ComingSoon />
+</BaseLayout>

@@ -1,0 +1,23 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageIntro from '@/components/PageIntro.astro';
+import ComingSoon from '@/components/ComingSoon.astro';
+import { CATEGORIES } from '@/lib/site';
+
+export function getStaticPaths() {
+  return CATEGORIES.map((category) => ({
+    params: { category: category.slug },
+    props: { category },
+  }));
+}
+
+const { category } = Astro.props;
+---
+
+<BaseLayout
+  title={`${category.name} articles`}
+  description={`${category.name} articles from The Ludarium. ${category.description}`}
+>
+  <PageIntro eyebrow="Articles" title={category.name} lede={category.description} />
+  <ComingSoon note="The first articles in this category are on the way. Join the newsletter to read them first." />
+</BaseLayout>

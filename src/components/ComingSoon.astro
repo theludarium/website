@@ -1,0 +1,25 @@
+---
+// Temporary placeholder while a page is being built. Remove once real content lands.
+interface Props {
+  note?: string;
+}
+
+const { note = 'This page is being built. Check back soon, or join the newsletter to hear when it is ready.' } = Astro.props;
+---
+
+<div class="container">
+  <div class="coming-soon">
+    <p>{note}</p>
+    <a class="button button--ghost" href="/newsletter/">Join the newsletter</a>
+  </div>
+</div>
+
+<style>
+  .coming-soon {
+    max-width: var(--width-content);
+    padding: var(--space-5);
+    border: 1px dashed var(--color-border);
+    border-radius: var(--radius-card);
+    background: var(--color-surface);
+  }
+</style>

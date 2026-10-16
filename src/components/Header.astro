@@ -1,0 +1,439 @@
+---
+import Logo from '@/components/Logo.astro';
+import { MAIN_NAV } from '@/lib/site';
+
+const path = Astro.url.pathname;
+const matches = (href: string) => path === href || (href !== '/' && path.startsWith(href));
+---
+
+<header class="site-header" data-header>
+  <div class="container site-header__inner">
+    <Logo />
+
+    <nav class="site-nav" id="site-nav" aria-label="Main" data-nav>
+      <ul class="nav-list">
+        {
+          MAIN_NAV.map((item, i) =>
+            item.children ? (
+              <li class="nav-item has-menu" data-menu>
+                <button
+                  class:list={['nav-link', 'nav-trigger', { 'is-current': item.children.some((c) => matches(c.href)) }]}
+                  type="button"
+                  aria-expanded="false"
+                  aria-controls={`nav-menu-${i}`}
+                  data-menu-trigger
+                >
+                  {item.label}
+                  <svg class="nav-trigger__chevron" viewBox="0 0 12 12" width="12" height="12" aria-hidden="true">
+                    <path d="M2.5 4.5 6 8l3.5-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+                  </svg>
+                </button>
+                <div class="nav-panel" id={`nav-menu-${i}`}>
+                  <ul class="nav-panel__list">
+                    {item.children.map((child) => (
+                      <li>
+                        <a class="nav-panel__link" href={child.href} aria-current={path === child.href ? 'page' : undefined}>
+                          <span class="nav-panel__label">{child.label}</span>
+                          {child.description && <span class="nav-panel__desc">{child.description}</span>}
+                        </a>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              </li>
+            ) : (
+              <li class="nav-item">
+                <a class:list={['nav-link', { 'is-current': matches(item.href) }]} href={item.href} aria-current={path === item.href ? 'page' : undefined}>
+                  {item.label}
+                </a>
+              </li>
+            ),
+          )
+        }
+      </ul>
+
+      <div class="nav-actions">
+        <a class="nav-support" href="/support/">Support us</a>
+        <a class="button nav-cta" href="/newsletter/">Join the newsletter</a>
+      </div>
+    </nav>
+
+    <div class="header-tools">
+      <a class="icon-button" href="/search/" aria-label="Search">
+        <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
+          <circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2" />
+          <path d="m15.5 15.5 5 5" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+        </svg>
+      </a>
+      <button class="icon-button menu-button" type="button" aria-expanded="false" aria-controls="site-nav" data-menu-button>
+        <span class="visually-hidden">Menu</span>
+        <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true">
+          <path class="menu-button__open" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M4 7h16M4 12h16M4 17h16" />
+          <path class="menu-button__close" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M6 6l12 12M18 6L6 18" />
+        </svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<style>
+  .site-header {
+    position: sticky;
+    top: 0;
+    z-index: 50;
+    background: color-mix(in srgb, var(--color-bg) 94%, transparent);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .site-header__inner {
+    display: flex;
+    align-items: center;
+    gap: var(--space-5);
+    min-height: 4.5rem;
+  }
+
+  .nav-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .nav-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35em;
+    padding: var(--space-2) var(--space-3);
+    border: 0;
+    border-radius: var(--radius-pill);
+    background: transparent;
+    color: var(--color-text);
+    font: inherit;
+    font-weight: 550;
+    white-space: nowrap;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background var(--transition), color var(--transition);
+  }
+
+  .nav-link:hover,
+  .has-menu[data-open] > .nav-trigger {
+    color: var(--color-text);
+    background: var(--color-surface-alt);
+  }
+
+  .nav-link.is-current {
+    color: var(--color-primary);
+  }
+
+  .nav-trigger__chevron {
+    transition: transform var(--transition);
+  }
+
+  .has-menu[data-open] .nav-trigger__chevron {
+    transform: rotate(180deg);
+  }
+
+  .nav-panel__list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .nav-panel__link {
+    display: block;
+    padding: var(--space-3) var(--space-4);
+    border-radius: var(--radius-md);
+    color: var(--color-text);
+    text-decoration: none;
+  }
+
+  .nav-panel__link:hover {
+    color: var(--color-text);
+    background: var(--color-surface-alt);
+  }
+
+  .nav-panel__label {
+    display: block;
+    font-weight: 650;
+  }
+
+  .nav-panel__link[aria-current='page'] .nav-panel__label {
+    color: var(--color-primary);
+  }
+
+  .nav-panel__desc {
+    display: block;
+    margin-top: 2px;
+    font-size: var(--text-sm);
+    line-height: var(--leading-snug);
+    color: var(--color-text-muted);
+  }
+
+  .nav-support {
+    white-space: nowrap;
+    color: var(--color-text-muted);
+    font-weight: 550;
+    text-decoration: none;
+  }
+
+  .nav-support:hover {
+    color: var(--color-primary);
+    text-decoration: underline;
+  }
+
+  .header-tools {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+  }
+
+  .icon-button {
+    display: inline-grid;
+    place-items: center;
+    width: 2.75rem;
+    height: 2.75rem;
+    padding: 0;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-pill);
+    background: transparent;
+    color: var(--color-text);
+    cursor: pointer;
+    transition: background var(--transition);
+  }
+
+  .icon-button:hover {
+    color: var(--color-text);
+    background: var(--color-surface-alt);
+  }
+
+  .menu-button__close {
+    display: none;
+  }
+
+  .menu-button[aria-expanded='true'] .menu-button__open {
+    display: none;
+  }
+
+  .menu-button[aria-expanded='true'] .menu-button__close {
+    display: inline;
+  }
+
+  /* Desktop: inline nav with hover dropdowns */
+  @media (min-width: 72.01rem) {
+    .site-nav {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: var(--space-5);
+    }
+
+    .nav-list {
+      display: flex;
+      align-items: center;
+      gap: var(--space-1);
+    }
+
+    .has-menu {
+      position: relative;
+    }
+
+    .nav-panel {
+      position: absolute;
+      top: calc(100% + 0.75rem);
+      left: calc(-1 * var(--space-3));
+      width: 21rem;
+      padding: var(--space-2);
+      background: var(--color-surface);
+      border: 1px solid var(--color-border);
+      border-radius: var(--radius-lg);
+      box-shadow: var(--shadow-lg);
+      opacity: 0;
+      visibility: hidden;
+      transform: translateY(6px);
+      transition: opacity 160ms ease, transform 160ms ease, visibility 0s linear 160ms;
+    }
+
+    /* Invisible bridge so the pointer can travel from trigger to panel */
+    .nav-panel::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: -0.85rem;
+      height: 0.85rem;
+    }
+
+    .has-menu[data-open] > .nav-panel {
+      opacity: 1;
+      visibility: visible;
+      transform: none;
+      transition: opacity 160ms ease, transform 160ms ease;
+    }
+
+    .nav-actions {
+      display: flex;
+      align-items: center;
+      gap: var(--space-5);
+    }
+
+    .menu-button {
+      display: none;
+    }
+  }
+
+  /* Mobile and tablet: full-width sheet with accordion sections */
+  @media (max-width: 72rem) {
+    .site-header__inner {
+      justify-content: space-between;
+    }
+
+    .site-nav {
+      display: none;
+      position: absolute;
+      top: 100%;
+      left: 0;
+      right: 0;
+      max-height: calc(100dvh - 4.5rem);
+      overflow-y: auto;
+      padding: var(--space-3) var(--gutter) var(--space-6);
+      background: var(--color-bg);
+      border-bottom: 1px solid var(--color-border);
+      box-shadow: var(--shadow-md);
+    }
+
+    .site-nav[data-open] {
+      display: block;
+    }
+
+    .nav-item {
+      border-bottom: 1px solid var(--color-border);
+    }
+
+    .nav-link {
+      width: 100%;
+      justify-content: space-between;
+      padding: var(--space-4) var(--space-2);
+      border-radius: 0;
+      font-size: var(--text-lg);
+    }
+
+    .nav-link:hover,
+    .has-menu[data-open] > .nav-trigger {
+      background: transparent;
+    }
+
+    .nav-panel {
+      display: none;
+      padding-bottom: var(--space-3);
+    }
+
+    .has-menu[data-open] > .nav-panel {
+      display: block;
+    }
+
+    .nav-panel__link {
+      padding: var(--space-2) var(--space-2) var(--space-2) var(--space-4);
+    }
+
+    .nav-actions {
+      display: flex;
+      flex-direction: column;
+      align-items: stretch;
+      gap: var(--space-4);
+      margin-top: var(--space-5);
+      text-align: center;
+    }
+
+    .nav-cta {
+      width: 100%;
+    }
+  }
+</style>
+
+<script>
+  const header = document.querySelector<HTMLElement>('[data-header]');
+  const nav = header?.querySelector<HTMLElement>('[data-nav]');
+  const menuButton = header?.querySelector<HTMLButtonElement>('[data-menu-button]');
+  const items = Array.from(header?.querySelectorAll<HTMLElement>('[data-menu]') ?? []);
+  const desktop = window.matchMedia('(min-width: 72.01rem)');
+  const closeTimers = new Map<HTMLElement, number>();
+  let lastPointer = '';
+
+  const trigger = (item: HTMLElement) => item.querySelector<HTMLButtonElement>('[data-menu-trigger]')!;
+
+  const setOpen = (item: HTMLElement, open: boolean) => {
+    window.clearTimeout(closeTimers.get(item));
+    item.toggleAttribute('data-open', open);
+    trigger(item).setAttribute('aria-expanded', String(open));
+  };
+
+  const closeAll = (except?: HTMLElement) => {
+    items.forEach((item) => item !== except && setOpen(item, false));
+  };
+
+  const setMobileOpen = (open: boolean) => {
+    if (!nav || !menuButton) return;
+    nav.toggleAttribute('data-open', open);
+    menuButton.setAttribute('aria-expanded', String(open));
+  };
+
+  items.forEach((item) => {
+    const button = trigger(item);
+
+    button.addEventListener('pointerdown', (event) => {
+      lastPointer = event.pointerType;
+    });
+
+    button.addEventListener('click', () => {
+      const isOpen = item.hasAttribute('data-open');
+      // A mouse already opened it on hover, so a click should not close it.
+      if (desktop.matches && lastPointer === 'mouse' && isOpen) return;
+      if (desktop.matches) closeAll(item);
+      setOpen(item, !isOpen);
+      lastPointer = '';
+    });
+
+    item.addEventListener('pointerenter', (event) => {
+      if (!desktop.matches || event.pointerType !== 'mouse') return;
+      closeAll(item);
+      setOpen(item, true);
+    });
+
+    item.addEventListener('pointerleave', (event) => {
+      if (!desktop.matches || event.pointerType !== 'mouse') return;
+      closeTimers.set(item, window.setTimeout(() => setOpen(item, false), 180));
+    });
+
+    item.addEventListener('focusout', (event) => {
+      if (desktop.matches && !item.contains(event.relatedTarget as Node)) setOpen(item, false);
+    });
+  });
+
+  menuButton?.addEventListener('click', () => {
+    setMobileOpen(menuButton.getAttribute('aria-expanded') !== 'true');
+  });
+
+  document.addEventListener('keydown', (event) => {
+    if (event.key !== 'Escape') return;
+    const open = items.find((item) => item.hasAttribute('data-open'));
+    if (open && desktop.matches) {
+      setOpen(open, false);
+      trigger(open).focus();
+    } else if (menuButton?.getAttribute('aria-expanded') === 'true') {
+      setMobileOpen(false);
+      menuButton.focus();
+    }
+  });
+
+  document.addEventListener('click', (event) => {
+    if (desktop.matches && header && !header.contains(event.target as Node)) closeAll();
+  });
+
+  desktop.addEventListener('change', () => {
+    closeAll();
+    setMobileOpen(false);
+  });
+</script>
