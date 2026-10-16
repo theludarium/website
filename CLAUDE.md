@@ -6,6 +6,17 @@ This repo is the website for The Ludarium, a tabletop gaming brand that will gro
 
 The Ludarium is a business built to make money from several revenue streams. The website is its front door and the engine of its first phase.
 
+### The vision
+
+The Ludarium is the epicenter of tabletop gaming, and its Game Lounges are the network that connects tabletop players around the world.
+
+- **Every game community meets at its local Ludarium.** Local game store communities, chess clubs, Go clubs, the mahjong group that meets at the library, RPG campaigns, card leagues, game designers. All of them, as paying members.
+- **A community center, not just a game room.** Events grow from each local community: game design seminars, tournaments, and possibly intellectual seminars and debates. Each lounge grows organically into what its city needs.
+- **A place people see as part of their culture.** Somewhere locals go to socialize and belong.
+- **Bigger than games, in the end.** The game is the hook and the medium. The point is people being social with each other: togethering.
+
+Write copy that points toward this scale and warmth without overpromising what exists today. Today there are articles and tools; the first lounge is coming.
+
 **The flywheel:** content builds an audience, the audience becomes a community, and the community supports revenue. Revenue from the digital business and corporate events funds the physical lounges. The site's first job is content and community; every other stream builds on that.
 
 ### The business, in phases
@@ -25,13 +36,15 @@ The Ludarium is a business built to make money from several revenue streams. The
 
 **Phase 2: The Ludarium Game Lounge, Indianapolis**
 - A membership game lounge, like a coworking space where members come to play and spend time together instead of work
-- Members pay for what they actually want: the community and the space. The Ludarium does not sell physical games or products.
-- Like a great local game store's events and community, minus the retail
+- A community center for every kind of tabletop group: clubs, leagues, store communities, and designers hold their meetups, events, and seminars there
+- Members pay for what they actually want: the community and the space. Groups and clubs can be members too. The Ludarium does not sell physical games or products.
+- Like a great local game store's events and community, minus the retail. Game stores are natural partners: they sell, The Ludarium hosts.
 - Funded by Phase 1 revenue, not built first
 
 **Phase 3: a network of lounges**
-- Expand city by city, the way coworking brands do
+- Expand city by city, the way coworking brands do, until the lounges are the network that connects tabletop gaming worldwide
 - One membership gets access to every Ludarium lounge, so a traveling member walks in and instantly belongs to the local community
+- Each lounge reflects its city. Shared brand and membership; local programming
 
 ### What this means for the site now
 
