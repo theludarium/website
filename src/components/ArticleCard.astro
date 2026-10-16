@@ -1,0 +1,166 @@
+---
+import { Image } from 'astro:assets';
+import { MARK_PATH, MARK_VIEWBOX } from '@/lib/brand';
+import { articleUrl, categoryByName, formatDate, readingMinutes, type Article } from '@/lib/articles';
+
+interface Props {
+  article: Article;
+  variant?: 'default' | 'featured';
+  headingLevel?: 'h2' | 'h3';
+}
+
+const { article, variant = 'default', headingLevel = 'h3' } = Astro.props;
+const { title, description, pubDate, category, heroImage, heroAlt, draft } = article.data;
+const tint = categoryByName(category).tint;
+const Heading = headingLevel;
+---
+
+<a class:list={['article-card', `article-card--${variant}`]} href={articleUrl(article)}>
+  <div class="article-card__media" style={`--tint: ${tint}`}>
+    {
+      heroImage ? (
+        <Image
+          src={heroImage}
+          alt={heroAlt ?? ''}
+          widths={variant === 'featured' ? [480, 800, 1200] : [400, 640]}
+          sizes={variant === 'featured' ? '(min-width: 64rem) 60vw, 100vw' : '(min-width: 64rem) 30vw, 100vw'}
+          class="article-card__img"
+        />
+      ) : (
+        <svg class="article-card__mark" viewBox={MARK_VIEWBOX} aria-hidden="true">
+          <path fill="currentColor" fill-rule="evenodd" d={MARK_PATH} />
+        </svg>
+      )
+    }
+  </div>
+  <div class="article-card__body">
+    <p class="article-card__eyebrow">
+      <span>{category}</span>
+      {draft && <span class="draft-badge">Draft</span>}
+    </p>
+    <Heading class="article-card__title">{title}</Heading>
+    {variant === 'featured' && <p class="article-card__desc">{description}</p>}
+    <p class="article-card__meta">
+      <time datetime={pubDate.toISOString()}>{formatDate(pubDate)}</time>
+      <span aria-hidden="true">&middot;</span>
+      <span>{readingMinutes(article)} min read</span>
+    </p>
+  </div>
+</a>
+
+<style>
+  .article-card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    overflow: hidden;
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-card);
+    color: var(--color-text);
+    text-decoration: none;
+    transition: transform 200ms ease, box-shadow 200ms ease, border-color 200ms ease;
+  }
+
+  .article-card:hover {
+    color: var(--color-text);
+    border-color: transparent;
+    box-shadow: var(--shadow-lg);
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    .article-card:hover {
+      transform: translateY(-3px);
+    }
+  }
+
+  .article-card__media {
+    position: relative;
+    display: grid;
+    place-items: center;
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+    background: color-mix(in srgb, var(--tint) 22%, var(--color-surface-alt));
+  }
+
+  .article-card__img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .article-card__mark {
+    width: 28%;
+    max-width: 7rem;
+    color: var(--tint);
+    opacity: 0.9;
+    transition: transform 500ms cubic-bezier(0.2, 0.8, 0.2, 1);
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    .article-card:hover .article-card__mark {
+      transform: rotate(60deg);
+    }
+  }
+
+  .article-card__body {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding: var(--space-5);
+  }
+
+  .article-card__eyebrow {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+    margin: 0 0 var(--space-2);
+    font-size: var(--text-xs);
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--color-accent);
+  }
+
+  .article-card__title {
+    margin: 0 0 var(--space-3);
+    font-size: var(--text-xl);
+    line-height: var(--leading-snug);
+  }
+
+  .article-card__desc {
+    margin: 0 0 var(--space-4);
+    color: var(--color-text-muted);
+  }
+
+  .article-card__meta {
+    display: flex;
+    gap: var(--space-2);
+    margin: auto 0 0;
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+
+  /* Featured: image beside the words on wide screens */
+  @media (min-width: 56rem) {
+    .article-card--featured {
+      display: grid;
+      grid-template-columns: 1.4fr 1fr;
+    }
+
+    .article-card--featured .article-card__media {
+      aspect-ratio: auto;
+      min-height: 22rem;
+    }
+
+    .article-card--featured .article-card__body {
+      justify-content: center;
+      padding: var(--space-7) var(--space-6);
+    }
+
+    .article-card--featured .article-card__title {
+      font-size: var(--text-3xl);
+      line-height: var(--leading-tight);
+    }
+  }
+</style>

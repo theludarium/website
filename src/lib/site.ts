@@ -16,21 +16,25 @@ export const CATEGORIES = [
     slug: 'game-guides',
     name: 'Game Guides',
     description: 'How to play, how to teach, and how to win (sometimes).',
+    tint: 'var(--brand-felt)',
   },
   {
     slug: 'game-night',
     name: 'Game Night',
     description: 'What to play, who to invite, and how to host a night people remember.',
+    tint: 'var(--brand-lamplight)',
   },
   {
     slug: 'togethering',
     name: 'Togethering',
     description: 'Why we gather, and how games make it easier.',
+    tint: 'var(--brand-stone)',
   },
   {
     slug: 'game-culture',
     name: 'Game Culture',
     description: 'The people, stories, and ideas behind the hobby.',
+    tint: '#6e9c8d',
   },
 ] as const;
 

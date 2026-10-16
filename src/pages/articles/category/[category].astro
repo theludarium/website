@@ -1,17 +1,19 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import PageIntro from '@/components/PageIntro.astro';
-import ComingSoon from '@/components/ComingSoon.astro';
+import ArticleList from '@/components/ArticleList.astro';
+import { getArticles } from '@/lib/articles';
 import { CATEGORIES } from '@/lib/site';
 
-export function getStaticPaths() {
+export async function getStaticPaths() {
+  const articles = await getArticles();
   return CATEGORIES.map((category) => ({
     params: { category: category.slug },
-    props: { category },
+    props: { category, articles: articles.filter((a) => a.data.category === category.name) },
   }));
 }
 
-const { category } = Astro.props;
+const { category, articles } = Astro.props;
 ---
 
 <BaseLayout
@@ -19,5 +21,13 @@ const { category } = Astro.props;
   description={`${category.name} articles from The Ludarium. ${category.description}`}
 >
   <PageIntro eyebrow="Articles" title={category.name} lede={category.description} />
-  <ComingSoon note="The first articles in this category are on the way. Join the newsletter to read them first." />
+  <section class="container list-section">
+    <ArticleList articles={articles} current={category.slug} />
+  </section>
 </BaseLayout>
+
+<style>
+  .list-section {
+    padding-bottom: var(--space-8);
+  }
+</style>

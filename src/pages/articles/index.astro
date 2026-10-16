@@ -1,17 +1,24 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import PageIntro from '@/components/PageIntro.astro';
-import ComingSoon from '@/components/ComingSoon.astro';
+import ArticleList from '@/components/ArticleList.astro';
+import { getArticles } from '@/lib/articles';
+
+const articles = await getArticles();
 ---
 
 <BaseLayout
   title="Articles"
   description="Articles about tabletop games: guides, game night ideas, and stories about playing together. New pieces every week."
 >
-  <PageIntro
-    eyebrow="Read"
-    title="Articles"
-    lede="Guides, game night ideas, and stories about why we play together."
-  />
-  <ComingSoon />
+  <PageIntro eyebrow="Read" title="Articles" lede="Guides, game night ideas, and stories about why we play together." />
+  <section class="container list-section">
+    <ArticleList articles={articles} />
+  </section>
 </BaseLayout>
+
+<style>
+  .list-section {
+    padding-bottom: var(--space-8);
+  }
+</style>

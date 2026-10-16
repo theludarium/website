@@ -9,12 +9,23 @@ interface Props {
   title?: string;
   description?: string;
   noindex?: boolean;
+  /** Absolute or root-relative URL of the share image. A default branded image arrives in build step 5. */
+  image?: string;
+  imageAlt?: string;
+  /** Set for article pages: switches Open Graph to "article" and adds publish times. */
+  article?: {
+    publishedTime: Date;
+    modifiedTime?: Date;
+    section: string;
+    tags: string[];
+  };
 }
 
-const { title, description = SITE.description, noindex = false } = Astro.props;
+const { title, description = SITE.description, noindex = false, image, imageAlt, article } = Astro.props;
 
 const pageTitle = title ? `${title} | ${SITE.name}` : `${SITE.name} | ${SITE.shortMtp}`;
 const canonical = new URL(Astro.url.pathname, Astro.site);
+const imageUrl = image ? new URL(image, Astro.site).href : undefined;
 ---
 
 <!doctype html>
@@ -34,8 +45,22 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
     <meta property="og:title" content={title ?? SITE.name} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
-    <meta property="og:type" content="website" />
+    <meta property="og:type" content={article ? 'article' : 'website'} />
     <meta property="og:locale" content={SITE.locale} />
+    {imageUrl && <meta property="og:image" content={imageUrl} />}
+    {imageUrl && imageAlt && <meta property="og:image:alt" content={imageAlt} />}
+    <meta name="twitter:card" content={imageUrl ? 'summary_large_image' : 'summary'} />
+    {
+      article && (
+        <>
+          <meta property="article:published_time" content={article.publishedTime.toISOString()} />
+          {article.modifiedTime && <meta property="article:modified_time" content={article.modifiedTime.toISOString()} />}
+          <meta property="article:section" content={article.section} />
+          {article.tags.map((tag) => <meta property="article:tag" content={tag} />)}
+        </>
+      )
+    }
+    <slot name="head" />
 
     <script is:inline>
       // Apply a saved theme choice before paint so there is no flash.

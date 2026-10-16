@@ -4,7 +4,6 @@ import Hero from '@/components/Hero.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
 import { CATEGORIES, SITE } from '@/lib/site';
 
-const categoryTints = ['var(--brand-felt)', 'var(--brand-lamplight)', 'var(--brand-stone)', '#6e9c8d'];
 ---
 
 <BaseLayout>
@@ -39,8 +38,8 @@ const categoryTints = ['var(--brand-felt)', 'var(--brand-lamplight)', 'var(--bra
       </div>
       <div class="grid grid--4">
         {
-          CATEGORIES.map((category, i) => (
-            <a class="card category-card" href={`/articles/category/${category.slug}/`} style={`--tint: ${categoryTints[i]}`}>
+          CATEGORIES.map((category) => (
+            <a class="card category-card" href={`/articles/category/${category.slug}/`} style={`--tint: ${category.tint}`}>
               <span class="category-card__mark" aria-hidden="true" />
               <h3>{category.name}</h3>
               <p>{category.description}</p>

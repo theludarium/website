@@ -1,0 +1,301 @@
+---
+import { Image } from 'astro:assets';
+import { render } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import ArticleCard from '@/components/ArticleCard.astro';
+import NewsletterForm from '@/components/NewsletterForm.astro';
+import TableOfContents from '@/components/TableOfContents.astro';
+import {
+  categoryUrl,
+  formatDate,
+  getArticles,
+  readingMinutes,
+  relatedArticles,
+  wordCount,
+  type Article,
+} from '@/lib/articles';
+import { SITE } from '@/lib/site';
+import '@/styles/prose.css';
+
+export async function getStaticPaths() {
+  const articles = await getArticles();
+  return articles.map((article) => ({
+    params: { slug: article.id },
+    props: { article, all: articles },
+  }));
+}
+
+interface Props {
+  article: Article;
+  all: Article[];
+}
+
+const { article, all } = Astro.props;
+const { title, description, pubDate, updatedDate, category, tags, heroImage, heroAlt, draft } = article.data;
+const { Content, headings } = await render(article);
+
+const minutes = readingMinutes(article);
+const showToc = headings.filter((h) => h.depth === 2).length >= 3;
+const related = relatedArticles(article, all);
+const canonical = new URL(Astro.url.pathname, Astro.site).href;
+
+const structuredData = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: title,
+    description,
+    datePublished: pubDate.toISOString(),
+    dateModified: (updatedDate ?? pubDate).toISOString(),
+    mainEntityOfPage: canonical,
+    articleSection: category,
+    keywords: tags.join(', '),
+    wordCount: wordCount(article),
+    ...(heroImage && { image: new URL(heroImage.src, Astro.site).href }),
+    author: { '@type': 'Organization', name: SITE.name, url: SITE.url },
+    publisher: {
+      '@type': 'Organization',
+      name: SITE.name,
+      url: SITE.url,
+      logo: { '@type': 'ImageObject', url: `${SITE.url}/brand/ludarium-mark-felt-green.svg` },
+    },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Articles', item: `${SITE.url}/articles/` },
+      { '@type': 'ListItem', position: 2, name: category, item: new URL(categoryUrl(category), SITE.url).href },
+      { '@type': 'ListItem', position: 3, name: title, item: canonical },
+    ],
+  },
+];
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  image={heroImage?.src}
+  imageAlt={heroAlt}
+  noindex={draft}
+  article={{ publishedTime: pubDate, modifiedTime: updatedDate, section: category, tags }}
+>
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify(structuredData)} />
+
+  <article class="article">
+    <header class="container article__header">
+      <nav class="article__crumbs" aria-label="Breadcrumb">
+        <a href="/articles/">Articles</a>
+        <span aria-hidden="true">/</span>
+        <a href={categoryUrl(category)}>{category}</a>
+      </nav>
+      {draft && <p class="article__draft"><span class="draft-badge">Draft</span> Only visible on previews. Set <code>draft: false</code> to publish.</p>}
+      <h1>{title}</h1>
+      <p class="article__lede">{description}</p>
+      <p class="article__meta">
+        <time datetime={pubDate.toISOString()}>{formatDate(pubDate)}</time>
+        {
+          updatedDate && (
+            <>
+              <span aria-hidden="true">&middot;</span>
+              <span>
+                Updated <time datetime={updatedDate.toISOString()}>{formatDate(updatedDate)}</time>
+              </span>
+            </>
+          )
+        }
+        <span aria-hidden="true">&middot;</span>
+        <span>{minutes} min read</span>
+      </p>
+    </header>
+
+    {
+      heroImage && (
+        <div class="container article__hero">
+          <Image src={heroImage} alt={heroAlt ?? ''} widths={[640, 960, 1280, 1600]} sizes="(min-width: 72rem) 72rem, 100vw" loading="eager" fetchpriority="high" />
+        </div>
+      )
+    }
+
+    <div class:list={['container', 'article__layout', { 'has-toc': showToc }]}>
+      {
+        showToc && (
+          <aside class="article__toc">
+            <TableOfContents headings={headings} />
+          </aside>
+        )
+      }
+      <div class="article__body">
+        <div class="prose-article">
+          <Content />
+        </div>
+
+        {
+          tags.length > 0 && (
+            <ul class="article__tags" aria-label="Tags">
+              {tags.map((tag) => (
+                <li>{tag}</li>
+              ))}
+            </ul>
+          )
+        }
+
+        <section class="article__signup" aria-labelledby="article-signup-title">
+          <h2 id="article-signup-title">Get the next one in your inbox.</h2>
+          <p>Free guides, game picks, and hosting ideas from The Ludarium.</p>
+          <NewsletterForm id="article-signup" />
+        </section>
+      </div>
+    </div>
+  </article>
+
+  {
+    related.length > 0 && (
+      <section class="section related" aria-labelledby="related-title">
+        <div class="container">
+          <div class="section-head">
+            <h2 id="related-title">Keep reading</h2>
+            <a class="text-link" href={categoryUrl(category)}>
+              More {category}
+            </a>
+          </div>
+          <div class="related__grid">
+            {related.map((item) => (
+              <ArticleCard article={item} />
+            ))}
+          </div>
+        </div>
+      </section>
+    )
+  }
+</BaseLayout>
+
+<style>
+  .article__header {
+    max-width: calc(var(--width-content) + 2 * var(--gutter));
+    padding-top: var(--space-8);
+    padding-bottom: var(--space-6);
+  }
+
+  .article__crumbs {
+    display: flex;
+    gap: var(--space-2);
+    margin-bottom: var(--space-5);
+    font-size: var(--text-sm);
+    font-weight: 600;
+  }
+
+  .article__crumbs a {
+    text-decoration: none;
+  }
+
+  .article__crumbs a:hover {
+    text-decoration: underline;
+  }
+
+  .article__crumbs span {
+    color: var(--color-text-muted);
+  }
+
+  .article__draft {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--space-2);
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+
+  .article__header h1 {
+    font-size: var(--text-4xl);
+  }
+
+  .article__lede {
+    font-size: var(--text-xl);
+    line-height: var(--leading-snug);
+    color: var(--color-text-muted);
+  }
+
+  .article__meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+    margin: var(--space-5) 0 0;
+    padding-top: var(--space-4);
+    border-top: 1px solid var(--color-border);
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+
+  .article__hero {
+    margin-bottom: var(--space-7);
+  }
+
+  .article__hero :global(img) {
+    width: 100%;
+    border-radius: var(--radius-card);
+  }
+
+  .article__layout {
+    display: grid;
+    grid-template-columns: minmax(0, var(--width-content));
+    justify-content: center;
+    gap: var(--space-6);
+  }
+
+  .article__body {
+    min-width: 0;
+  }
+
+  .article__tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+    list-style: none;
+    margin: var(--space-7) 0 0;
+    padding: 0;
+  }
+
+  .article__tags li {
+    padding: 4px 12px;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-pill);
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+
+  .article__signup {
+    margin-top: var(--space-8);
+    padding: var(--space-6);
+    border-radius: var(--radius-card);
+    background: var(--color-accent-soft);
+  }
+
+  .article__signup h2 {
+    margin-top: 0;
+    font-size: var(--text-2xl);
+  }
+
+  .article__signup p {
+    color: var(--color-text-muted);
+  }
+
+  .related__grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 18rem), 1fr));
+    gap: var(--space-5);
+  }
+
+  /* Wide screens: contents list sits beside the article and follows you down */
+  @media (min-width: 72rem) {
+    .article__layout.has-toc {
+      grid-template-columns: 15rem minmax(0, var(--width-content)) 15rem;
+    }
+
+    .article__toc {
+      position: sticky;
+      top: 6rem;
+      align-self: start;
+    }
+  }
+</style>
