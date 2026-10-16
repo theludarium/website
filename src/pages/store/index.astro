@@ -1,17 +1,110 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
-import PageIntro from '@/components/PageIntro.astro';
-import ComingSoon from '@/components/ComingSoon.astro';
+import PreviewNote from '@/components/PreviewNote.astro';
+import { STORE_URL } from '@/lib/config';
 ---
 
 <BaseLayout
   title="Store"
-  description="The Ludarium store sells digital tabletop goods, including RPG Demo Library PDFs. Checkout runs through Lemon Squeezy."
+  description="Digital goods for your table from The Ludarium, including RPG Demo Library adventure PDFs. Checkout is handled securely by Lemon Squeezy."
 >
-  <PageIntro
-    eyebrow="Digital goods"
-    title="Store"
-    lede="PDFs and digital tools for your table, sold through our Lemon Squeezy store."
-  />
-  <ComingSoon />
+  <section class="store">
+    <div class="container store__grid">
+      <div>
+        <p class="eyebrow">The Ludarium store</p>
+        <h1>Digital goods for your table.</h1>
+        <p class="lede">
+          Adventure PDFs from the RPG Demo Library, and more tools for game night as we make them.
+          Download instantly, play tonight.
+        </p>
+        {
+          STORE_URL ? (
+            <a class="button store__cta" href={STORE_URL} rel="noopener">
+              Visit the store
+            </a>
+          ) : (
+            <>
+              <p class="store__soon">The store opens soon. Join the newsletter to hear first.</p>
+              <a class="button store__cta" href="/newsletter/">Join the newsletter</a>
+              <PreviewNote>
+                No store link yet. Send Claude your Lemon Squeezy store URL to add the button.
+              </PreviewNote>
+            </>
+          )
+        }
+        <p class="store__fine">
+          Checkout is handled by Lemon Squeezy, which processes payments and sales tax securely. Everything
+          is digital. We do not sell physical games.
+        </p>
+      </div>
+
+      <ul class="store__points">
+        <li class="card">
+          <h2>Try before you buy</h2>
+          <p>Play a free intro adventure in the <a href="/rpg-demo-library/">RPG Demo Library</a>, then grab the full PDF if you love it.</p>
+        </li>
+        <li class="card">
+          <h2>Open-license games</h2>
+          <p>We publish adventures for open-license role-playing games, made to share at any table.</p>
+        </li>
+        <li class="card">
+          <h2>Supports the lounge</h2>
+          <p>Every purchase helps fund The Ludarium Game Lounge in Indianapolis.</p>
+        </li>
+      </ul>
+    </div>
+  </section>
 </BaseLayout>
+
+<style>
+  .store {
+    padding-block: var(--space-9) var(--space-8);
+  }
+
+  .store__grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr);
+    gap: var(--space-8);
+    align-items: start;
+  }
+
+  .store h1 {
+    max-width: 14ch;
+    font-size: var(--text-4xl);
+  }
+
+  .store__cta {
+    margin-top: var(--space-5);
+  }
+
+  .store__soon {
+    margin-top: var(--space-5);
+    font-weight: 600;
+  }
+
+  .store__fine {
+    max-width: 30rem;
+    margin-top: var(--space-6);
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+
+  .store__points {
+    display: grid;
+    gap: var(--space-4);
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .store__points h2 {
+    margin: 0 0 var(--space-2);
+    font-size: var(--text-lg);
+  }
+
+  @media (max-width: 52rem) {
+    .store__grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

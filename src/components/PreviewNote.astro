@@ -1,0 +1,25 @@
+---
+// A reminder for Levi that only renders on previews and in local dev.
+// Use it for missing settings or copy he still needs to write. Never shows live.
+import { IS_PREVIEW } from '@/lib/env';
+---
+
+{
+  IS_PREVIEW && (
+    <aside class="preview-note" role="note">
+      <strong>Preview note:</strong> <slot />
+    </aside>
+  )
+}
+
+<style>
+  .preview-note {
+    margin: var(--space-4) 0;
+    padding: var(--space-3) var(--space-4);
+    border: 2px dashed var(--color-cta);
+    border-radius: var(--radius-md);
+    background: var(--color-accent-soft);
+    color: var(--color-text);
+    font-size: var(--text-sm);
+  }
+</style>

@@ -24,3 +24,18 @@ draft: true
 5. Reading time, related articles, the end-of-article signup, and the share and search metadata are all automatic.
 
 House rules: no em dashes anywhere. Plain words, short sentences. The build stops with a clear message if the description is the wrong length, the category is misspelled, or a hero image has no alt text.
+
+## Affiliate links
+
+Use an `.mdx` file, import the two components after the frontmatter, and put the notice near the top:
+
+```mdx
+import AffiliateLink from '@/components/mdx/AffiliateLink.astro';
+import AffiliateNotice from '@/components/mdx/AffiliateNotice.astro';
+
+<AffiliateNotice />
+
+Our favorite two-player game is <AffiliateLink href="https://example.com/your-link">Patchwork</AffiliateLink>.
+```
+
+`AffiliateLink` marks the link `rel="sponsored noopener"` and opens it in a new tab. `AffiliateNotice` links to the disclosure page.

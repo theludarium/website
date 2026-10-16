@@ -1,17 +1,241 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
-import PageIntro from '@/components/PageIntro.astro';
-import ComingSoon from '@/components/ComingSoon.astro';
+import NewsletterForm from '@/components/NewsletterForm.astro';
+import PreviewNote from '@/components/PreviewNote.astro';
+import { MARK_PATH, MARK_VIEWBOX } from '@/lib/brand';
+import { SITE } from '@/lib/site';
+import { IS_PREVIEW } from '@/lib/env';
+
+const roadmap = [
+  {
+    when: 'Now',
+    title: 'Content, tools, and community',
+    body: 'Guides and articles, a newsletter, free tools for game night, the Academy, and tabletop training for teams.',
+  },
+  {
+    when: 'Next',
+    title: 'The Ludarium Game Lounge, Indianapolis',
+    body: 'A membership lounge, like a coworking space for play. Walk in on your own and find a table and someone to play with.',
+  },
+  {
+    when: 'Then',
+    title: 'A lounge in every city',
+    body: 'One membership, every Ludarium. Travel anywhere and walk into a community that already feels like yours.',
+  },
+];
 ---
 
 <BaseLayout
   title="About"
-  description="The Ludarium exists for togethering: people coming together to share life, with a game as the reason to gather."
+  description="The Ludarium exists for togethering: people coming together to share life, with a game as the reason to gather. Here is what we are building, and why."
 >
-  <PageIntro
-    eyebrow="Togethering"
-    title="About"
-    lede="The game is the reason. The people are the point."
-  />
-  <ComingSoon />
+  <section class="about-hero">
+    <div class="container">
+      <p class="eyebrow">About The Ludarium</p>
+      <h1>A place for play.</h1>
+      <p class="lede">
+        The Ludarium exists for togethering: people coming together to share life, with a game as the
+        reason to gather.
+      </p>
+    </div>
+  </section>
+
+  <section class="section section--tight-top">
+    <div class="container about-split">
+      <div>
+        <h2>What is in a name</h2>
+        <p>
+          <em>Ludus</em> is Latin for play and games. Fittingly, it was also the word for a school.
+          <em>-arium</em> means a place for something, as in aquarium and planetarium.
+        </p>
+        <p>
+          Put them together and The Ludarium is simply <strong>a place for play</strong>. A place to
+          learn, too.
+        </p>
+      </div>
+      <figure class="about-mark">
+        <svg viewBox={MARK_VIEWBOX} aria-hidden="true">
+          <path fill="currentColor" fill-rule="evenodd" d={MARK_PATH} />
+        </svg>
+        <figcaption>Our mark: a game tile with a table for six inside it.</figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <section class="section section--alt">
+    <div class="container narrow">
+      <p class="eyebrow">Togethering</p>
+      <p class="about-line">{SITE.tagline}</p>
+      <p>
+        Getting friends together is harder than it should be. A game gives the evening a shape and
+        makes it easy to say yes. But nobody remembers the final score a year later. They remember the
+        bluff, the comeback, the inside joke that started over a card game and never stopped.
+      </p>
+      <p>
+        The game starts the time together. The people make it worth it. That is togethering, and it is
+        everything we build.
+      </p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-head">
+        <div>
+          <h2>What we are building</h2>
+          <p>Step by step, funded by the work before it.</p>
+        </div>
+      </div>
+      <ol class="roadmap">
+        {
+          roadmap.map((step) => (
+            <li class="card roadmap__step">
+              <p class="eyebrow">{step.when}</p>
+              <h3>{step.title}</h3>
+              <p>{step.body}</p>
+            </li>
+          ))
+        }
+      </ol>
+    </div>
+  </section>
+
+  {
+    IS_PREVIEW && (
+      <section class="section section--tight-top">
+        <div class="container narrow">
+          <h2>Who is behind it</h2>
+          <PreviewNote>
+            Levi: this is the spot for your story. Why you started The Ludarium, a game night that
+            changed something for you, and a photo if you like. A few short paragraphs is plenty. This
+            whole section stays off the live site until you write it.
+          </PreviewNote>
+        </div>
+      </section>
+    )
+  }
+
+  <section class="section section--tight-top section--flush-bottom">
+    <div class="container">
+      <div class="about-signup">
+        <h2>Come play along.</h2>
+        <p>Game picks, hosting ideas, and first word on the lounge, in your inbox.</p>
+        <NewsletterForm id="about-signup" />
+      </div>
+    </div>
+  </section>
 </BaseLayout>
+
+<style>
+  .about-hero {
+    padding-block: var(--space-9) var(--space-7);
+  }
+
+  .about-hero h1 {
+    font-size: var(--text-4xl);
+  }
+
+  .narrow {
+    max-width: calc(var(--width-content) + 2 * var(--gutter));
+  }
+
+  .about-split {
+    display: grid;
+    grid-template-columns: minmax(0, 1.3fr) minmax(0, 1fr);
+    align-items: center;
+    gap: var(--space-8);
+  }
+
+  .about-split h2 {
+    margin-top: 0;
+    font-size: var(--text-3xl);
+  }
+
+  .about-split p {
+    max-width: 36rem;
+    font-size: var(--text-lg);
+  }
+
+  .about-mark {
+    display: grid;
+    justify-items: center;
+    margin: 0;
+    padding: var(--space-7);
+    border-radius: var(--radius-card);
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+  }
+
+  .about-mark svg {
+    width: min(12rem, 60%);
+    color: var(--color-primary);
+  }
+
+  .about-mark figcaption {
+    margin-top: var(--space-4);
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+    text-align: center;
+  }
+
+  .section--alt {
+    background: var(--color-surface-alt);
+  }
+
+  .section--tight-top {
+    padding-top: 0;
+  }
+
+  .section--flush-bottom {
+    padding-bottom: 0;
+  }
+
+  .about-line {
+    margin-bottom: var(--space-5);
+    font-family: var(--font-display);
+    font-size: var(--text-3xl);
+    line-height: var(--leading-tight);
+  }
+
+  .roadmap {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 16rem), 1fr));
+    gap: var(--space-5);
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .roadmap__step .eyebrow {
+    margin-bottom: var(--space-2);
+  }
+
+  .about-signup {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: var(--space-8) var(--space-5);
+    border-radius: var(--radius-card);
+    background: var(--color-accent-soft);
+    text-align: center;
+  }
+
+  .about-signup h2 {
+    margin-top: 0;
+    font-size: var(--text-3xl);
+  }
+
+  .about-signup > p {
+    color: var(--color-text-muted);
+  }
+
+  .about-signup :global(.signup__note) {
+    margin-left: 0;
+  }
+
+  @media (max-width: 52rem) {
+    .about-split {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

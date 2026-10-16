@@ -1,17 +1,120 @@
 ---
-import BaseLayout from '@/layouts/BaseLayout.astro';
-import PageIntro from '@/components/PageIntro.astro';
-import ComingSoon from '@/components/ComingSoon.astro';
+// Plain-language privacy policy. A solid draft, not legal advice:
+// have it reviewed before relying on it. Fill the business details in src/lib/config.ts.
+import LegalPage from '@/components/LegalPage.astro';
+import PreviewNote from '@/components/PreviewNote.astro';
+import { CONTACT_EMAIL, LEGAL_LOCATION, LEGAL_NAME } from '@/lib/config';
+
+const operator = LEGAL_NAME || 'The Ludarium';
+const missing = [!LEGAL_NAME && 'legal business name', !CONTACT_EMAIL && 'contact email', !LEGAL_LOCATION && 'state or country']
+  .filter(Boolean)
+  .join(', ');
 ---
 
-<BaseLayout
-  title="Privacy"
-  description="The Ludarium privacy policy: what we collect through email signups and forms, why we collect it, and how to reach us."
+<LegalPage
+  title="Privacy Policy"
+  description="What The Ludarium collects when you join the newsletter, send an inquiry, or buy from the store, why we collect it, who helps us, and how to reach us."
+  lede="What we collect, why, who helps us handle it, and how to reach us. No legalese where we can avoid it."
+  updated="October 16, 2026"
 >
-  <PageIntro
-    eyebrow="Fine print"
-    title="Privacy"
-    lede="What we collect, why, and what we do with it."
-  />
-  <ComingSoon />
-</BaseLayout>
+  {
+    missing && (
+      <PreviewNote>
+        Missing in src/lib/config.ts: {missing}. Also have a professional review this policy before the
+        site launches on theludarium.com.
+      </PreviewNote>
+    )
+  }
+
+  <h2>Who we are</h2>
+  <p>
+    theludarium.com is run by {operator}{LEGAL_LOCATION && `, based in ${LEGAL_LOCATION}`}. In this policy,
+    "we" and "us" mean The Ludarium.
+  </p>
+
+  <h2>What we collect</h2>
+  <h3>When you join the newsletter or a waitlist</h3>
+  <p>
+    Your email address, and your first name if you give it. We also note which form you used (for
+    example, the Indianapolis lounge waitlist) so we only send you what you asked for.
+  </p>
+  <h3>When you send us an inquiry</h3>
+  <p>
+    What you type into the form, such as your name, company, role, email, team size, goals, and timing
+    for a corporate event.
+  </p>
+  <h3>When you buy from the store</h3>
+  <p>
+    Purchases are handled by Lemon Squeezy, which acts as the seller of record. Lemon Squeezy collects
+    your payment details. We receive your name, email, and what you bought, but never your full card
+    number.
+  </p>
+  <h3>When you visit the site</h3>
+  <p>
+    Our hosting provider, Cloudflare, processes basic technical information such as your IP address and
+    browser type to deliver pages and protect the site from abuse. If you switch between light and dark
+    mode, your browser remembers that choice on your device. It is never sent to us.
+  </p>
+
+  <h2>Cookies</h2>
+  <p>
+    We do not use advertising or tracking cookies. If we ever add analytics, we will choose a
+    privacy-friendly tool and update this page first. Sites you reach through
+    <a href="/affiliate-disclosure/">affiliate links</a> may set their own cookies under their own
+    policies.
+  </p>
+
+  <h2>How we use it</h2>
+  <ul>
+    <li>To send the emails you signed up for.</li>
+    <li>To answer your questions and plan events you ask about.</li>
+    <li>To deliver what you buy and help if something goes wrong.</li>
+    <li>To keep the site running and secure.</li>
+  </ul>
+
+  <h2>Who helps us</h2>
+  <p>We use a few trusted services to run The Ludarium:</p>
+  <ul>
+    <li><strong>Kit</strong> sends our newsletter and stores subscriber details.</li>
+    <li><strong>Lemon Squeezy</strong> handles store checkout, payments, and sales tax.</li>
+    <li><strong>Cloudflare</strong> hosts the site.</li>
+  </ul>
+  <p>
+    They only use your information to provide their service to us. <strong>We never sell your personal
+    information</strong>, and we never share it for advertising.
+  </p>
+
+  <h2>Your choices</h2>
+  <ul>
+    <li>Every email has an unsubscribe link. One click and you are out.</li>
+    <li>You can ask us to show you, correct, or delete the information we hold about you.</li>
+  </ul>
+
+  <h2>How long we keep it</h2>
+  <p>
+    We keep subscriber details while you are subscribed, inquiry details for as long as we are talking
+    with you about an event, and purchase records as long as tax law requires.
+  </p>
+
+  <h2>Children</h2>
+  <p>
+    The Ludarium is not directed at children under 13, and we do not knowingly collect their
+    information. If you think a child has signed up, contact us and we will remove it.
+  </p>
+
+  <h2>Changes</h2>
+  <p>If we change this policy, we will update the date at the top of this page.</p>
+
+  <h2>Contact</h2>
+  <p>
+    {
+      CONTACT_EMAIL ? (
+        <>
+          Questions or requests: <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>.
+        </>
+      ) : (
+        <>Questions or requests: reply to any email from The Ludarium.</>
+      )
+    }
+  </p>
+</LegalPage>

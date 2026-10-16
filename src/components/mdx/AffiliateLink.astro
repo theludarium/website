@@ -1,0 +1,13 @@
+---
+// Use for every affiliate link, in articles or pages:
+//   <AffiliateLink href="https://...">Buy Wingspan</AffiliateLink>
+// Marks the link as sponsored for search engines and opens it in a new tab.
+// Any article that uses it should also include <AffiliateNotice /> near the top.
+interface Props {
+  href: string;
+}
+
+const { href } = Astro.props;
+---
+
+<a class="affiliate-link" href={href} rel="sponsored noopener" target="_blank"><slot /></a>

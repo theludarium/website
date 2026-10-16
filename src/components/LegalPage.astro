@@ -1,0 +1,38 @@
+---
+// Shared layout for fine-print pages: a plain intro, then readable prose.
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageIntro from '@/components/PageIntro.astro';
+import '@/styles/prose.css';
+
+interface Props {
+  title: string;
+  description: string;
+  lede: string;
+  updated: string;
+}
+
+const { title, description, lede, updated } = Astro.props;
+---
+
+<BaseLayout title={title} description={description}>
+  <PageIntro eyebrow="Fine print" title={title} lede={lede}>
+    <p class="legal-updated">Last updated {updated}</p>
+  </PageIntro>
+  <div class="container legal-body">
+    <div class="prose-article">
+      <slot />
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .legal-updated {
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+
+  .legal-body {
+    max-width: calc(var(--width-content) + 2 * var(--gutter));
+    padding-bottom: var(--space-8);
+  }
+</style>

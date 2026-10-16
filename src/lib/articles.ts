@@ -1,5 +1,6 @@
 import { getCollection, type CollectionEntry } from 'astro:content';
 import { CATEGORIES } from '@/lib/site';
+import { IS_PREVIEW } from '@/lib/env';
 
 export type Article = CollectionEntry<'articles'>;
 export type Category = (typeof CATEGORIES)[number];
@@ -9,10 +10,7 @@ export type Category = (typeof CATEGORIES)[number];
  * Cloudflare preview builds (any branch other than main), with a Draft
  * badge, so Levi can review them at a preview URL before publishing.
  */
-const buildEnv = (globalThis as { process?: { env: Record<string, string | undefined> } }).process?.env ?? {};
-const pagesBranch = buildEnv.CF_PAGES_BRANCH; // set by Cloudflare Pages during builds
-
-export const SHOW_DRAFTS = import.meta.env.DEV || (Boolean(pagesBranch) && pagesBranch !== 'main');
+export const SHOW_DRAFTS = IS_PREVIEW;
 
 export async function getArticles(): Promise<Article[]> {
   const all = await getCollection('articles', ({ data }) => SHOW_DRAFTS || !data.draft);

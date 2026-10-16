@@ -1,17 +1,64 @@
 ---
-import BaseLayout from '@/layouts/BaseLayout.astro';
-import PageIntro from '@/components/PageIntro.astro';
-import ComingSoon from '@/components/ComingSoon.astro';
+import LegalPage from '@/components/LegalPage.astro';
+import PreviewNote from '@/components/PreviewNote.astro';
+import { CONTACT_EMAIL } from '@/lib/config';
 ---
 
-<BaseLayout
+<LegalPage
   title="Affiliate Disclosure"
-  description="How affiliate links work on The Ludarium, in plain language. We only link to things we think genuinely help you."
+  description="How affiliate links work on The Ludarium, in plain language. We may earn a small commission, it never costs you more, and it never decides what we recommend."
+  lede="Some links on this site earn us a small commission. Here is exactly how that works."
+  updated="October 16, 2026"
 >
-  <PageIntro
-    eyebrow="Fine print"
-    title="Affiliate Disclosure"
-    lede="Some links on this site earn us a small commission. Here is how that works."
-  />
-  <ComingSoon />
-</BaseLayout>
+  <h2>The short version</h2>
+  <p>
+    When we link to a game, book, or service, that link is sometimes an affiliate link. If you buy
+    something after clicking it, the seller may pay The Ludarium a small commission.
+    <strong>It never costs you anything extra.</strong>
+  </p>
+
+  <h2>Why we use them</h2>
+  <p>
+    Affiliate commissions help pay for free guides and free game tools, and they help fund our first
+    game lounge. We do not run display ads, so this is one of the quiet ways the site supports itself.
+  </p>
+
+  <h2>Our promise</h2>
+  <ul>
+    <li>We only recommend things we believe will genuinely help you and your table.</li>
+    <li>A commission never decides what we recommend or how we rate it.</li>
+    <li>If a publisher gives us a free copy of a game, we will say so in the article.</li>
+    <li>Articles with affiliate links say so near the top, with a link to this page.</li>
+  </ul>
+
+  <h2>How affiliate links are marked</h2>
+  <p>
+    Affiliate links open in a new tab and are labeled as sponsored for search engines. When you click
+    one, the seller may use a cookie to remember that you came from The Ludarium. Their own privacy
+    policy covers that cookie.
+  </p>
+
+  <h2>Our own products</h2>
+  <p>
+    When we mention something from <a href="/store/">The Ludarium store</a>, like an RPG Demo Library
+    adventure, that is our own product, not an affiliate link.
+  </p>
+
+  <PreviewNote>
+    Once you join specific programs, list them here. Some require exact wording. For example, Amazon
+    Associates requires: "As an Amazon Associate, The Ludarium earns from qualifying purchases."
+  </PreviewNote>
+
+  <h2>Questions</h2>
+  <p>
+    {
+      CONTACT_EMAIL ? (
+        <>
+          Ask us anything about this at <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>.
+        </>
+      ) : (
+        <>Ask us anything about this by replying to any email from The Ludarium.</>
+      )
+    }
+  </p>
+</LegalPage>

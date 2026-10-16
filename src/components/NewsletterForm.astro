@@ -1,6 +1,10 @@
 ---
-// Email signup. Wired to Kit once PUBLIC_KIT_FORM_ACTION is set (build step 3).
-// Until then the form falls back to the /newsletter/ page so nothing breaks.
+// Email signup. Posts straight to Kit (no JavaScript, no third-party script);
+// Kit then redirects to /newsletter/thanks/, set in the Kit form's settings.
+// Until the Kit form is set in src/lib/config.ts, it falls back to the
+// /newsletter/ page so nothing breaks.
+import { KIT_NEWSLETTER_FORM } from '@/lib/config';
+
 interface Props {
   buttonLabel?: string;
   note?: string;
@@ -15,8 +19,10 @@ const {
   id = 'newsletter',
 } = Astro.props;
 
-const action = import.meta.env.PUBLIC_KIT_FORM_ACTION ?? '/newsletter/';
-const method = import.meta.env.PUBLIC_KIT_FORM_ACTION ? 'post' : 'get';
+const configured = Boolean(KIT_NEWSLETTER_FORM.action);
+const action = configured ? KIT_NEWSLETTER_FORM.action : '/newsletter/';
+const method = configured ? 'post' : 'get';
+const emailField = KIT_NEWSLETTER_FORM.emailField;
 ---
 
 <form class:list={['signup', `signup--${tone}`]} action={action} method={method}>
@@ -26,7 +32,7 @@ const method = import.meta.env.PUBLIC_KIT_FORM_ACTION ? 'post' : 'get';
       class="signup__input"
       id={`${id}-email`}
       type="email"
-      name="email_address"
+      name={emailField}
       placeholder="you@example.com"
       autocomplete="email"
       required
