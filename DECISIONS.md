@@ -52,3 +52,9 @@ A short log of choices made and why. Newest at the bottom.
 - **Colors:** Felt Green on Parchment (default), Parchment on Walnut or Felt Green. Lighter felt `#8CC2B0` for the dark-mode favicon.
 - **Favicon:** SVG favicon of the mark. A PNG set (Apple touch icon, social share image) comes with the SEO step (build step 5).
 - **Brand files:** `public/brand/` has the mark in Felt Green, Walnut, Parchment, and Lamplight.
+
+## 2026-10-16: Code home
+
+- **Repo:** github.com/theludarium/website (public). It was first created under Levi's personal account (The-LJAW) and transferred into the `theludarium` org while still empty, per CLAUDE.md. GitHub redirects the old URL.
+- **Tooling:** GitHub CLI installed per user at `~/.local/gh` (checksum verified), signed in as The-LJAW; token kept in the macOS keychain. Git uses it through `gh auth setup-git`.
+- **Commit identity (this repo only):** Levi Wilson with GitHub's private noreply email, so no personal or work address appears in public history.
