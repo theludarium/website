@@ -58,3 +58,8 @@ A short log of choices made and why. Newest at the bottom.
 - **Repo:** github.com/theludarium/website (public). It was first created under Levi's personal account (The-LJAW) and transferred into the `theludarium` org while still empty, per CLAUDE.md. GitHub redirects the old URL.
 - **Tooling:** GitHub CLI installed per user at `~/.local/gh` (checksum verified), signed in as The-LJAW; token kept in the macOS keychain. Git uses it through `gh auth setup-git`.
 - **Commit identity (this repo only):** Levi Wilson with GitHub's private noreply email, so no personal or work address appears in public history.
+
+## 2026-10-16: Cloudflare Pages build settings
+
+- **Node pinned to 22.23.3 in `.nvmrc`.** Cloudflare's v3 build image defaults to Node 22.16.0, below Astro 7's 22.22 minimum. Pages reads `.nvmrc`, so builds match local exactly.
+- **Build settings:** production branch `main`, build command `npm run build`, output directory `dist`, no adapter (static output). Every other branch and pull request gets its own preview URL.
