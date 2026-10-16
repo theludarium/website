@@ -1,0 +1,204 @@
+---
+// Lounge waitlist. Posts straight to the city's Kit form (set in src/lib/config.ts);
+// Kit tags the signup with the city and redirects to /lounges/thanks/.
+// Five questions, so a single step (see the landing page rules in CLAUDE.md).
+import { KIT_WAITLIST_FORMS } from '@/lib/config';
+import { PLAY_OPTIONS, VISIT_OPTIONS, type Lounge } from '@/lib/lounges';
+
+interface Props {
+  lounge: Lounge;
+}
+
+const { lounge } = Astro.props;
+const kit = KIT_WAITLIST_FORMS[lounge.slug];
+const configured = Boolean(kit?.action);
+const id = `waitlist-${lounge.slug}`;
+---
+
+<form
+  class="waitlist"
+  action={configured ? kit.action : `/lounges/${lounge.slug}/`}
+  method={configured ? 'post' : 'get'}
+  data-waitlist
+>
+  <div class="waitlist__row">
+    <label>
+      First name
+      <input name="fields[first_name]" autocomplete="given-name" maxlength="80" required />
+    </label>
+    <label>
+      Email
+      <input name="email_address" type="email" autocomplete="email" maxlength="200" required />
+    </label>
+    <label class="waitlist__zip">
+      ZIP code
+      <input name="fields[zip_code]" inputmode="numeric" autocomplete="postal-code" pattern="[0-9]{5}" maxlength="5" required />
+    </label>
+  </div>
+
+  <fieldset>
+    <legend>What do you play? <span>Pick any</span></legend>
+    <div class="chips">
+      {
+        PLAY_OPTIONS.map((option, i) => (
+          <label class="chip">
+            <input type="checkbox" value={option} data-play id={`${id}-play-${i}`} />
+            <span>{option}</span>
+          </label>
+        ))
+      }
+    </div>
+    <input type="hidden" name="fields[plays]" data-plays-field />
+  </fieldset>
+
+  <fieldset>
+    <legend>How often would you come?</legend>
+    <div class="chips">
+      {
+        VISIT_OPTIONS.map((option, i) => (
+          <label class="chip">
+            <input type="radio" name="fields[visit_frequency]" value={option} required={i === 0} />
+            <span>{option}</span>
+          </label>
+        ))
+      }
+    </div>
+  </fieldset>
+
+  <button class="button waitlist__submit" type="submit">Join the {lounge.city} waitlist</button>
+  <p class="waitlist__fine">Free, no commitment. Unsubscribe anytime. <a href="/privacy/">Privacy</a></p>
+</form>
+
+<style>
+  .waitlist {
+    display: grid;
+    gap: var(--space-5);
+    padding: var(--space-6);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-card);
+    background: var(--color-surface);
+    box-shadow: var(--shadow-md);
+  }
+
+  .waitlist__row {
+    display: grid;
+    grid-template-columns: 1fr 1.4fr 0.7fr;
+    gap: var(--space-4);
+  }
+
+  .waitlist label:not(.chip) {
+    display: grid;
+    gap: var(--space-2);
+    font-size: var(--text-sm);
+    font-weight: 600;
+  }
+
+  .waitlist input:not([type='checkbox']):not([type='radio']) {
+    width: 100%;
+    padding: 0.7em 0.9em;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    background: var(--color-bg);
+    color: var(--color-text);
+    font: inherit;
+    font-weight: 400;
+  }
+
+  .waitlist fieldset {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    min-width: 0;
+  }
+
+  .waitlist legend {
+    margin-bottom: var(--space-3);
+    padding: 0;
+    font-size: var(--text-sm);
+    font-weight: 600;
+  }
+
+  .waitlist legend span {
+    font-weight: 400;
+    color: var(--color-text-muted);
+  }
+
+  .chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+  }
+
+  .chip {
+    position: relative;
+    cursor: pointer;
+  }
+
+  .chip input {
+    position: absolute;
+    opacity: 0;
+    inset: 0;
+    cursor: pointer;
+  }
+
+  .chip span {
+    display: inline-block;
+    padding: 0.45em 1em;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-pill);
+    background: var(--color-bg);
+    font-size: var(--text-sm);
+    font-weight: 600;
+    transition: background var(--transition), border-color var(--transition), color var(--transition);
+  }
+
+  .chip:hover span {
+    border-color: var(--color-primary);
+  }
+
+  .chip input:checked + span {
+    background: var(--color-primary);
+    border-color: var(--color-primary);
+    color: var(--color-on-primary);
+  }
+
+  .chip input:focus-visible + span {
+    outline: 3px solid var(--color-focus);
+    outline-offset: 2px;
+  }
+
+  .waitlist__submit {
+    justify-self: start;
+  }
+
+  .waitlist__fine {
+    margin: 0;
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+
+  @media (max-width: 40rem) {
+    .waitlist__row {
+      grid-template-columns: 1fr;
+    }
+
+    .waitlist__submit {
+      justify-self: stretch;
+    }
+  }
+</style>
+
+<script>
+  // Kit custom fields hold one value, so join the checked games into one field.
+  document.querySelectorAll<HTMLFormElement>('[data-waitlist]').forEach((form) => {
+    const field = form.querySelector<HTMLInputElement>('[data-plays-field]');
+    const sync = () => {
+      if (!field) return;
+      field.value = Array.from(form.querySelectorAll<HTMLInputElement>('[data-play]:checked'))
+        .map((box) => box.value)
+        .join(', ');
+    };
+    form.addEventListener('change', sync);
+    form.addEventListener('submit', sync);
+  });
+</script>

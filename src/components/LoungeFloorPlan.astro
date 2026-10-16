@@ -1,0 +1,143 @@
+---
+// A concept floor plan of a Ludarium Game Lounge, drawn like an architect's sketch.
+// Illustrative only: every lounge will be shaped by its building and its city.
+const hex = (cx: number, cy: number, r: number) =>
+  Array.from({ length: 6 }, (_, k) => {
+    const a = (Math.PI / 3) * k;
+    return `${(cx + r * Math.cos(a)).toFixed(1)},${(cy + r * Math.sin(a)).toFixed(1)}`;
+  }).join(' ');
+const seats = (cx: number, cy: number, r: number) =>
+  Array.from({ length: 6 }, (_, k) => {
+    const a = (Math.PI / 3) * k + Math.PI / 6;
+    return { x: cx + r * Math.cos(a), y: cy + r * Math.sin(a) };
+  });
+const tables = [
+  [292, 150],
+  [408, 150],
+  [292, 245],
+  [408, 245],
+  [292, 340],
+  [408, 340],
+];
+const audience = Array.from({ length: 24 }, (_, i) => ({ x: 52 + (i % 6) * 26, y: 92 + Math.floor(i / 6) * 22 }));
+---
+
+<figure class="plan">
+  <svg viewBox="0 0 600 400" role="img" aria-label="Concept floor plan of a Ludarium Game Lounge: an event hall, two campaign rooms, a game library, open tables for six, a cafe counter, and a lounge by the entrance.">
+    <g class="plan__fill">
+      <rect x="230" y="90" width="240" height="300" />
+    </g>
+    <g class="plan__walls" fill="none">
+      <path d="M10 10H590V330M590 380V390H10V10" />
+      <path d="M230 10V160M230 200V390" />
+      <path d="M10 200H200" />
+      <path d="M10 295H200" />
+      <path d="M230 90H520M560 90H590" />
+      <path d="M470 90V130M470 170V390" />
+      <path d="M470 250H590" />
+    </g>
+    <g class="plan__lines" fill="none">
+      <path d="M40 40H200" stroke-width="6" />
+      <path d="M250 24V76M280 24V76M310 24V76M340 24V76M370 24V76M400 24V76M430 24V76M460 24V76M490 24V76M520 24V76M550 24V76" />
+      <rect x="490" y="110" width="80" height="22" rx="4" />
+      <rect x="40" y="225" width="110" height="50" rx="6" />
+      <rect x="40" y="320" width="110" height="50" rx="6" />
+      <rect x="495" y="275" width="70" height="26" rx="8" />
+      <rect x="495" y="320" width="26" height="40" rx="8" />
+      <path d="M590 335 Q565 355 590 380" />
+    </g>
+    <g class="plan__dots">
+      {audience.map((p) => <circle cx={p.x} cy={p.y} r="3.5" />)}
+    </g>
+    {
+      tables.map(([x, y]) => (
+        <g class="plan__table">
+          <polygon points={hex(x, y, 16)} />
+          {seats(x, y, 25).map((s) => (
+            <circle cx={s.x} cy={s.y} r="4" />
+          ))}
+        </g>
+      ))
+    }
+    <g class="plan__labels">
+      <text x="120" y="190">Event hall</text>
+      <text x="95" y="215">Campaign room</text>
+      <text x="95" y="310">Campaign room</text>
+      <text x="350" y="108">Open tables</text>
+      <text x="350" y="54" class="on-shelves">Game library</text>
+      <text x="530" y="160">Cafe</text>
+      <text x="530" y="268">Lounge</text>
+      <text x="548" y="372" class="small">Entrance</text>
+    </g>
+  </svg>
+  <figcaption>Concept plan. Every lounge takes the shape of its building and its city.</figcaption>
+</figure>
+
+<style>
+  .plan {
+    margin: 0;
+    padding: var(--space-5);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-card);
+    background: var(--color-surface);
+  }
+
+  .plan svg {
+    width: 100%;
+    height: auto;
+  }
+
+  .plan__fill rect {
+    fill: color-mix(in srgb, var(--brand-felt) 8%, transparent);
+  }
+
+  .plan__walls {
+    stroke: var(--color-text);
+    stroke-width: 4;
+    stroke-linecap: square;
+  }
+
+  .plan__lines {
+    stroke: var(--color-text-muted);
+    stroke-width: 1.5;
+  }
+
+  .plan__dots circle {
+    fill: var(--color-stone);
+  }
+
+  .plan__table polygon {
+    fill: var(--color-primary);
+  }
+
+  .plan__table circle {
+    fill: var(--color-cta);
+  }
+
+  .plan__labels text {
+    fill: var(--color-text);
+    font-family: var(--font-body);
+    font-size: 13px;
+    font-weight: 600;
+    text-anchor: middle;
+  }
+
+  .plan__labels .on-shelves {
+    paint-order: stroke;
+    stroke: var(--color-surface);
+    stroke-width: 6px;
+  }
+
+  .plan__labels .small {
+    font-size: 11px;
+    font-weight: 500;
+    fill: var(--color-text-muted);
+  }
+
+  .plan figcaption {
+    margin-top: var(--space-3);
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+    text-align: center;
+  }
+</style>

@@ -1,0 +1,30 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageIntro from '@/components/PageIntro.astro';
+---
+
+<BaseLayout
+  title="Inquiry received"
+  description="Thanks for telling us about your team. The Ludarium has your corporate event inquiry and will reply by email with ideas for your session."
+  noindex
+>
+  <PageIntro
+    eyebrow="Inquiry received"
+    title="Thanks. We are on it."
+    lede="We read every inquiry personally and will reply by email with ideas for a session that fits your team."
+  >
+    <div class="thanks-actions">
+      <a class="button" href="/articles/">Read our articles</a>
+      <a class="button button--ghost" href="/about/">About The Ludarium</a>
+    </div>
+  </PageIntro>
+</BaseLayout>
+
+<style>
+  .thanks-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-3);
+    margin-top: var(--space-5);
+  }
+</style>

@@ -1,0 +1,254 @@
+---
+// Corporate event inquiry form. Posts to the Cloudflare Function at
+// functions/api/inquiry.ts, which emails Levi. Two steps when JavaScript runs
+// (the landing page rules split forms over five fields); one long form without it.
+import { TURNSTILE_SITE_KEY } from '@/lib/config';
+import { IS_PREVIEW } from '@/lib/env';
+import { TEAM_SIZES, TIMINGS } from '../../functions/api/inquiry';
+
+const TEST_SITE_KEY = '1x00000000000000000000AA'; // Cloudflare's always-pass test key
+const siteKey = TURNSTILE_SITE_KEY || (IS_PREVIEW ? TEST_SITE_KEY : '');
+---
+
+<form class="inquiry" action="/api/inquiry" method="post" data-inquiry novalidate>
+  <p class="inquiry__error" role="alert" data-inquiry-error hidden></p>
+
+  <fieldset class="inquiry__step" data-step="1">
+    <legend><span class="inquiry__count">Step 1 of 2</span> About you</legend>
+    <div class="inquiry__row">
+      <label>
+        Your name
+        <input name="name" autocomplete="name" maxlength="100" required />
+      </label>
+      <label>
+        Work email
+        <input name="email" type="email" autocomplete="email" maxlength="200" required />
+      </label>
+    </div>
+    <div class="inquiry__row">
+      <label>
+        Company
+        <input name="company" autocomplete="organization" maxlength="150" required />
+      </label>
+      <label>
+        Your role
+        <input name="role" autocomplete="organization-title" maxlength="100" placeholder="Head of L&D" required />
+      </label>
+    </div>
+    <button class="button inquiry__next" type="button" data-next hidden>Next: your team</button>
+  </fieldset>
+
+  <fieldset class="inquiry__step" data-step="2">
+    <legend><span class="inquiry__count">Step 2 of 2</span> About your team</legend>
+    <div class="inquiry__row">
+      <label>
+        Team size
+        <select name="team_size" required>
+          <option value="">Choose one</option>
+          {TEAM_SIZES.map((size) => <option>{size}</option>)}
+        </select>
+      </label>
+      <label>
+        When are you hoping to run it?
+        <select name="timing" required>
+          <option value="">Choose one</option>
+          {TIMINGS.map((timing) => <option>{timing}</option>)}
+        </select>
+      </label>
+    </div>
+    <label>
+      What do you want your team to get better at?
+      <textarea name="goals" rows="4" maxlength="3000" required placeholder="Communication across departments, decisions under pressure, trust in a new team..."></textarea>
+    </label>
+
+    <div class="inquiry__trap" aria-hidden="true">
+      <label>Leave this empty <input name="website" tabindex="-1" autocomplete="off" /></label>
+    </div>
+
+    {siteKey && <div class="cf-turnstile" data-sitekey={siteKey} data-theme="auto"></div>}
+
+    <div class="inquiry__actions">
+      <button class="button button--ghost" type="button" data-back hidden>Back</button>
+      <button class="button" type="submit">Send my inquiry</button>
+    </div>
+    <p class="inquiry__fine">We reply by email. Your details are used only to plan your event. <a href="/privacy/">Privacy</a></p>
+  </fieldset>
+</form>
+
+{siteKey && <script is:inline src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>}
+
+<style>
+  .inquiry {
+    display: grid;
+    gap: var(--space-5);
+    padding: var(--space-6);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-card);
+    background: var(--color-surface);
+    box-shadow: var(--shadow-md);
+  }
+
+  .inquiry__step {
+    display: grid;
+    gap: var(--space-4);
+    margin: 0;
+    padding: 0;
+    border: 0;
+    min-width: 0;
+  }
+
+  .inquiry legend {
+    padding: 0;
+    margin-bottom: var(--space-4);
+    font-family: var(--font-display);
+    font-size: var(--text-xl);
+  }
+
+  .inquiry__count {
+    display: block;
+    font-family: var(--font-body);
+    font-size: var(--text-xs);
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--color-accent);
+  }
+
+  .inquiry__row {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 14rem), 1fr));
+    gap: var(--space-4);
+  }
+
+  .inquiry label {
+    display: grid;
+    gap: var(--space-2);
+    font-size: var(--text-sm);
+    font-weight: 600;
+  }
+
+  .inquiry input,
+  .inquiry select,
+  .inquiry textarea {
+    width: 100%;
+    padding: 0.7em 0.9em;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    background: var(--color-bg);
+    color: var(--color-text);
+    font: inherit;
+    font-weight: 400;
+  }
+
+  .inquiry textarea {
+    resize: vertical;
+  }
+
+  .inquiry input:focus-visible,
+  .inquiry select:focus-visible,
+  .inquiry textarea:focus-visible {
+    outline: 3px solid var(--color-focus);
+    outline-offset: 1px;
+  }
+
+  .inquiry__trap {
+    position: absolute;
+    left: -10000px;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+  }
+
+  .inquiry__actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-3);
+  }
+
+  .inquiry__next {
+    justify-self: start;
+  }
+
+  .inquiry__fine {
+    margin: 0;
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+
+  .inquiry__error {
+    margin: 0;
+    padding: var(--space-3) var(--space-4);
+    border-radius: var(--radius-md);
+    background: var(--color-accent-soft);
+    font-weight: 600;
+  }
+
+  /* With JavaScript: one step at a time */
+  .inquiry.is-stepped:not(.on-step-2) [data-step='2'],
+  .inquiry.is-stepped.on-step-2 [data-step='1'] {
+    display: none;
+  }
+</style>
+
+<script>
+  const MESSAGES: Record<string, string> = {
+    missing: 'Please fill in every field.',
+    email: 'That email address does not look right. Please check it.',
+    long: 'One of your answers is a little long. Please shorten it.',
+    verify: 'We could not confirm you are human. Please try again.',
+    unavailable: 'Sorry, the form is not working right now. Please try again later.',
+  };
+
+  const form = document.querySelector<HTMLFormElement>('[data-inquiry]');
+  if (form) {
+    const errorBox = form.querySelector<HTMLElement>('[data-inquiry-error]')!;
+    const next = form.querySelector<HTMLButtonElement>('[data-next]')!;
+    const back = form.querySelector<HTMLButtonElement>('[data-back]')!;
+    const step1 = form.querySelector<HTMLElement>('[data-step="1"]')!;
+    const step2 = form.querySelector<HTMLElement>('[data-step="2"]')!;
+
+    const showError = (code: string | null) => {
+      const message = code ? MESSAGES[code] : '';
+      errorBox.textContent = message ?? '';
+      errorBox.hidden = !message;
+    };
+
+    const goTo = (step: 1 | 2) => {
+      form.classList.toggle('on-step-2', step === 2);
+      (step === 2 ? step2 : step1).querySelector<HTMLElement>('input, select, textarea')?.focus();
+    };
+
+    const valid = (scope: HTMLElement) =>
+      Array.from(scope.querySelectorAll<HTMLInputElement>('input[required], select[required], textarea[required]')).every(
+        (el) => el.reportValidity(),
+      );
+
+    form.classList.add('is-stepped');
+    next.hidden = false;
+    back.hidden = false;
+
+    next.addEventListener('click', () => {
+      if (valid(step1)) {
+        showError(null);
+        goTo(2);
+      }
+    });
+    back.addEventListener('click', () => goTo(1));
+
+    form.addEventListener('submit', (event) => {
+      if (!valid(step1)) {
+        event.preventDefault();
+        goTo(1);
+      } else if (!valid(step2)) {
+        event.preventDefault();
+      }
+    });
+
+    // Coming back from the server with a problem: say what happened.
+    const error = new URLSearchParams(location.search).get('error');
+    if (error) {
+      showError(error);
+      form.classList.add('on-step-2');
+    }
+  }
+</script>

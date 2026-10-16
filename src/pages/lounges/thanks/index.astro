@@ -1,0 +1,30 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageIntro from '@/components/PageIntro.astro';
+---
+
+<BaseLayout
+  title="You are on the list"
+  description="You joined a Ludarium Game Lounge waitlist. Check your inbox to confirm, and we will keep you posted as the lounge comes together."
+  noindex
+>
+  <PageIntro
+    eyebrow="Waitlist"
+    title="You are on the list. Check your inbox."
+    lede="Click the button in the email we just sent to confirm your spot. We will keep you posted as the lounge comes together."
+  >
+    <div class="thanks-actions">
+      <a class="button" href="/articles/">Read while you wait</a>
+      <a class="button button--ghost" href="/lounges/">More about the lounges</a>
+    </div>
+  </PageIntro>
+</BaseLayout>
+
+<style>
+  .thanks-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-3);
+    margin-top: var(--space-5);
+  }
+</style>

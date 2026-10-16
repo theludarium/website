@@ -22,3 +22,20 @@ export const LEGAL_NAME = '';
 
 /** State or country whose law the business is organized under, for the privacy policy. */
 export const LEGAL_LOCATION = '';
+
+/**
+ * Cloudflare Turnstile site key for the corporate inquiry form (public).
+ * The matching secret key lives only in the Cloudflare Pages project settings.
+ * While blank, previews use Cloudflare's always-pass test key.
+ */
+export const TURNSTILE_SITE_KEY = '';
+
+/**
+ * Kit waitlist form for each lounge city, keyed by city slug (see src/lib/lounges.ts).
+ * Copy `action` from the Kit form's HTML embed. In Kit, add a rule so this form
+ * tags subscribers with the city's tag (for example lounge-indianapolis), and create
+ * custom fields with these keys: zip_code, plays, visit_frequency.
+ */
+export const KIT_WAITLIST_FORMS: Record<string, { action: string }> = {
+  indianapolis: { action: '' },
+};
