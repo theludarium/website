@@ -1,0 +1,8 @@
+# Cloudflare Pages response headers.
+# Keep the pages.dev addresses (production and every preview) out of search
+# results, so only theludarium.com is indexed once the domain is attached.
+https://:project.pages.dev/*
+  X-Robots-Tag: noindex
+
+https://:version.:project.pages.dev/*
+  X-Robots-Tag: noindex

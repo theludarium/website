@@ -51,14 +51,9 @@ const structuredData = [
     articleSection: category,
     keywords: tags.join(', '),
     wordCount: wordCount(article),
-    ...(heroImage && { image: new URL(heroImage.src, Astro.site).href }),
-    author: { '@type': 'Organization', name: SITE.name, url: SITE.url },
-    publisher: {
-      '@type': 'Organization',
-      name: SITE.name,
-      url: SITE.url,
-      logo: { '@type': 'ImageObject', url: `${SITE.url}/brand/ludarium-mark-felt-green.svg` },
-    },
+    image: new URL(heroImage?.src ?? `/og/articles/${article.id}.png`, Astro.site).href,
+    author: { '@id': `${SITE.url}/#organization` },
+    publisher: { '@id': `${SITE.url}/#organization` },
   },
   {
     '@context': 'https://schema.org',
@@ -75,8 +70,8 @@ const structuredData = [
 <BaseLayout
   title={title}
   description={description}
-  image={heroImage?.src}
-  imageAlt={heroAlt}
+  image={heroImage?.src ?? `/og/articles/${article.id}.png`}
+  imageAlt={heroImage ? heroAlt : `${category}: ${title}`}
   noindex={draft}
   article={{ publishedTime: pubDate, modifiedTime: updatedDate, section: category, tags }}
 >

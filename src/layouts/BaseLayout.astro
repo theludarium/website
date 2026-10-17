@@ -9,7 +9,7 @@ interface Props {
   title?: string;
   description?: string;
   noindex?: boolean;
-  /** Absolute or root-relative URL of the share image. A default branded image arrives in build step 5. */
+  /** Root-relative or absolute URL of the share image. Defaults to the branded card at /og/default.png. */
   image?: string;
   imageAlt?: string;
   /** Set for article pages: switches Open Graph to "article" and adds publish times. */
@@ -25,7 +25,31 @@ const { title, description = SITE.description, noindex = false, image, imageAlt,
 
 const pageTitle = title ? `${title} | ${SITE.name}` : `${SITE.name} | ${SITE.shortMtp}`;
 const canonical = new URL(Astro.url.pathname, Astro.site);
-const imageUrl = image ? new URL(image, Astro.site).href : undefined;
+const imageUrl = new URL(image ?? '/og/default.png', Astro.site).href;
+const imageAltText = imageAlt ?? (image ? undefined : `${SITE.name}: ${SITE.tagline}`);
+
+// Site-wide structured data: who publishes the site, and the site itself.
+const siteStructuredData = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    '@id': `${SITE.url}/#organization`,
+    name: SITE.name,
+    url: SITE.url,
+    logo: `${SITE.url}/brand/ludarium-logo.png`,
+    slogan: SITE.tagline,
+    description: SITE.description,
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    '@id': `${SITE.url}/#website`,
+    name: SITE.name,
+    url: SITE.url,
+    publisher: { '@id': `${SITE.url}/#organization` },
+    inLanguage: 'en-US',
+  },
+];
 ---
 
 <!doctype html>
@@ -38,6 +62,8 @@ const imageUrl = image ? new URL(image, Astro.site).href : undefined;
     <link rel="canonical" href={canonical} />
     {noindex && <meta name="robots" content="noindex" />}
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="alternate" type="application/rss+xml" title={`${SITE.name} articles`} href="/rss.xml" />
+    <link rel="sitemap" href="/sitemap-index.xml" />
     <meta name="theme-color" content="#f6efe3" media="(prefers-color-scheme: light)" />
     <meta name="theme-color" content="#1c140f" media="(prefers-color-scheme: dark)" />
 
@@ -47,9 +73,16 @@ const imageUrl = image ? new URL(image, Astro.site).href : undefined;
     <meta property="og:url" content={canonical} />
     <meta property="og:type" content={article ? 'article' : 'website'} />
     <meta property="og:locale" content={SITE.locale} />
-    {imageUrl && <meta property="og:image" content={imageUrl} />}
-    {imageUrl && imageAlt && <meta property="og:image:alt" content={imageAlt} />}
-    <meta name="twitter:card" content={imageUrl ? 'summary_large_image' : 'summary'} />
+    <meta property="og:image" content={imageUrl} />
+    {imageUrl.includes('/og/') && <meta property="og:image:width" content="1200" />}
+    {imageUrl.includes('/og/') && <meta property="og:image:height" content="630" />}
+    {imageAltText && <meta property="og:image:alt" content={imageAltText} />}
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title ?? SITE.name} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={imageUrl} />
+    {imageAltText && <meta name="twitter:image:alt" content={imageAltText} />}
+    <script type="application/ld+json" set:html={JSON.stringify(siteStructuredData)} />
     {
       article && (
         <>
