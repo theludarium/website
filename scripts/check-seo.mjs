@@ -6,6 +6,7 @@
 // theludarium.com, exactly one h1, a share image, and alt text on images.
 // Titles and descriptions must be unique across indexable pages, and no
 // title, description, or alt text may contain an em dash (house style).
+// Published pages may not carry unfilled <!-- EDITOR: ... --> notes from the content library.
 import { readdirSync, readFileSync, statSync } from 'node:fs';
 import { join, relative } from 'node:path';
 
@@ -70,6 +71,10 @@ for (const file of htmlFiles(DIST)) {
   }
 
   if (!noindex && !is404) {
+    // Editor notes from the content library must be filled in before an article is published.
+    const editorNotes = html.match(/<!--\s*EDITOR:[^>]*-->/g) ?? [];
+    if (editorNotes.length) problem(`${editorNotes.length} unfilled EDITOR note(s), first: ${editorNotes[0].slice(0, 90)}`);
+    if (/<!--\s*(AFFILIATE|VERIFY)\s*-->/.test(html)) note('has AFFILIATE or VERIFY placeholder comments; add the links or remove the markers');
     if (seenTitles.has(title)) problem(`duplicate title, also on ${seenTitles.get(title)}`);
     else seenTitles.set(title, page);
     if (seenDescriptions.has(description)) problem(`duplicate description, also on ${seenDescriptions.get(description)}`);

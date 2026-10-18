@@ -1,0 +1,269 @@
+<title>Ludarium Calendar</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Public+Sans:wght@400;500;600&display=swap">
+<style>
+/* Layout: one column, a "next up" card on top, then upcoming events grouped by day; community chips filter everything. */
+:root{
+  --bg:#F2F4F1; --surface:#FFFFFF; --fg:#17231E; --muted:#5B6B63; --line:#D7DDD9;
+  --accent:#1F6B4C; --accent-ink:#FFFFFF; --soft:#E3EFE8; --warn:#8A4B12;
+  --display:"Bricolage Grotesque","Avenir Next",Avenir,"Helvetica Neue",Arial,sans-serif;
+  --body:"Public Sans","Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#121A16; --surface:#1A2420; --fg:#E8EEEA; --muted:#9DAEA5; --line:#2C3A33;
+  --accent:#5FC391; --accent-ink:#0E1A14; --soft:#1F3328; --warn:#E6A866; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#121A16; --surface:#1A2420; --fg:#E8EEEA; --muted:#9DAEA5; --line:#2C3A33;
+  --accent:#5FC391; --accent-ink:#0E1A14; --soft:#1F3328; --warn:#E6A866; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:16px;line-height:1.5;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:0 48px}
+.wrap{max-width:720px;margin:0 auto}
+header{padding-block:28px 12px}
+.eyebrow{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:600}
+h1{font-family:var(--display);font-weight:700;font-size:clamp(28px,6vw,40px);line-height:1.05;margin:4px 0 6px;text-wrap:balance}
+.lede{color:var(--muted);margin:0;max-width:60ch}
+.chips{display:flex;flex-wrap:wrap;gap:8px;padding-block:14px 6px}
+.chip{border:1px solid var(--line);background:var(--surface);color:var(--fg);border-radius:999px;padding:6px 12px;font:inherit;font-size:14px;cursor:pointer;display:inline-flex;align-items:center;gap:8px}
+.chip .dot{width:10px;height:10px;border-radius:50%;background:var(--c,var(--accent))}
+.chip[aria-pressed="true"]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.chip:focus-visible,button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.next{background:var(--accent);color:var(--accent-ink);border-radius:14px;padding:18px 18px 16px;margin-block:10px 22px}
+.next .eyebrow{color:inherit;opacity:.8}
+.next h2{font-family:var(--display);font-size:clamp(22px,5vw,30px);margin:4px 0 2px;line-height:1.1;text-wrap:balance}
+.next .when{font-size:17px;font-weight:600}
+.next .where,.next .notes{opacity:.92;margin:4px 0 0}
+.next .actions{margin-top:12px}
+.actions{display:flex;flex-wrap:wrap;gap:8px}
+.btn{display:inline-flex;align-items:center;gap:6px;border-radius:8px;padding:7px 12px;font:inherit;font-size:14px;font-weight:600;text-decoration:none;cursor:pointer;border:1px solid var(--line);background:var(--surface);color:var(--fg)}
+.btn.primary{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.next .btn{background:rgba(255,255,255,.18);border-color:rgba(255,255,255,.35);color:inherit}
+.next .btn.primary{background:var(--accent-ink);color:var(--accent);border-color:var(--accent-ink)}
+.day{margin-block:18px 0}
+.day h3{font-family:var(--display);font-size:15px;letter-spacing:.02em;margin:0 0 8px;color:var(--muted);font-weight:700;text-transform:uppercase}
+.ev{display:grid;grid-template-columns:72px 1fr;gap:12px;padding:12px 0;border-top:1px solid var(--line)}
+.ev:last-child{border-bottom:1px solid var(--line)}
+.ev .time{font-variant-numeric:tabular-nums;font-weight:600;padding-top:2px}
+.ev .time small{display:block;color:var(--muted);font-weight:400;font-size:12px}
+.ev .body{min-width:0}
+.pill{display:inline-flex;align-items:center;gap:6px;font-size:12px;font-weight:600;color:var(--muted)}
+.pill .dot{width:8px;height:8px;border-radius:50%;background:var(--c,var(--accent))}
+.ev .title{font-weight:600;margin:2px 0 2px;font-size:17px}
+.ev .meta{color:var(--muted);font-size:14px;margin:0}
+.ev .meta a{color:inherit}
+.ev .actions{margin-top:8px}
+.ev .btn{padding:5px 10px;font-size:13px}
+.empty{border:1px dashed var(--line);border-radius:12px;padding:22px;text-align:center;color:var(--muted);margin-block:10px}
+.empty strong{color:var(--fg);display:block;font-family:var(--display);font-size:18px;margin-bottom:4px}
+.admin{margin-top:28px;border-top:2px solid var(--line);padding-top:18px}
+.admin h2{font-family:var(--display);font-size:20px;margin:0 0 4px}
+.admin p{color:var(--muted);margin:0 0 12px;font-size:14px}
+form{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:14px;display:grid;gap:10px;margin-block:10px 16px}
+.row{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+@media (max-width:480px){.row{grid-template-columns:1fr}}
+label{display:grid;gap:4px;font-size:13px;font-weight:600;color:var(--muted);min-width:0}
+input,select,textarea{font:inherit;font-size:15px;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--fg);width:100%}
+textarea{min-height:64px;resize:vertical}
+.status{font-size:13px;color:var(--muted);min-height:1.2em}
+.status.err{color:var(--warn)}
+.manage{font-size:13px;color:var(--muted)}
+.manage button{font:inherit;font-size:13px;background:none;border:0;color:var(--accent);cursor:pointer;padding:0;text-decoration:underline}
+footer{margin-top:36px;font-size:13px;color:var(--muted)}
+footer a{color:inherit}
+@media (prefers-reduced-motion:no-preference){.next{transition:background .2s}}
+</style>
+
+<div class="wrap">
+<header>
+  <div class="eyebrow">The Ludarium · Indianapolis</div>
+  <h1>When and where we play</h1>
+  <p class="lede">Every Ludarium community on one calendar. Pick a group, see the next table, and come sit down. The game is the reason. The people are the point.</p>
+</header>
+
+<div class="chips" id="chips" role="group" aria-label="Filter by community">
+  <button class="chip" aria-pressed="true" data-slug="">All communities</button>
+</div>
+
+<section id="next" hidden></section>
+<section id="list"><div class="empty"><strong>Loading the calendar</strong>Upcoming events will appear here.</div></section>
+
+<section id="admin" class="admin" hidden>
+  <h2>Organizer tools</h2>
+  <p>Only organizers see this. Add a community once, then post its events here; members see them the moment you save.</p>
+
+  <form id="evform" autocomplete="off">
+    <div class="eyebrow">Add an event</div>
+    <div class="row">
+      <label>Community<select id="ev-community" required></select></label>
+      <label>Title<input id="ev-title" required placeholder="Weekly Cube draft"></label>
+    </div>
+    <div class="row">
+      <label>Date<input id="ev-date" type="date" required></label>
+      <label>Start time<input id="ev-time" type="time" required value="18:30"></label>
+    </div>
+    <div class="row">
+      <label>Length (minutes)<input id="ev-dur" type="number" min="15" step="15" value="180"></label>
+      <label>Repeats<select id="ev-repeat"><option value="none">One time</option><option value="weekly">Every week</option><option value="biweekly">Every two weeks</option></select></label>
+    </div>
+    <div class="row">
+      <label>Venue<input id="ev-venue" placeholder="Good Games Indianapolis"></label>
+      <label>Address<input id="ev-address" placeholder="Street, city"></label>
+    </div>
+    <div class="row">
+      <label>RSVP link (Discord post or thread)<input id="ev-rsvp" type="url" placeholder="https://discord.com/channels/..."></label>
+      <label>Repeat until (optional)<input id="ev-until" type="date"></label>
+    </div>
+    <label>Notes<textarea id="ev-notes" placeholder="Pods fire at 7:00. Bring a friend who has never drafted."></textarea></label>
+    <div class="actions"><button class="btn primary" type="submit" id="ev-submit">Save event</button><button class="btn" type="button" id="ev-cancel" hidden>Cancel edit</button></div>
+    <div class="status" id="ev-status"></div>
+  </form>
+
+  <form id="cmform" autocomplete="off">
+    <div class="eyebrow">Add a community</div>
+    <div class="row">
+      <label>Name<input id="cm-name" required placeholder="Cube Commonwealth"></label>
+      <label>Short id (letters and dashes)<input id="cm-slug" required pattern="[a-z0-9-]+" placeholder="cube-commonwealth"></label>
+    </div>
+    <div class="row">
+      <label>Color<input id="cm-color" type="color" value="#1F6B4C"></label>
+      <label>Discord or signup link<input id="cm-link" type="url" placeholder="https://discord.gg/..."></label>
+    </div>
+    <label>One line about the group<input id="cm-blurb" placeholder="Magic: The Gathering Cube draft, weekly, all skill levels"></label>
+    <div class="actions"><button class="btn primary" type="submit">Save community</button></div>
+    <div class="status" id="cm-status"></div>
+  </form>
+</section>
+
+<footer>Times are Indianapolis local. Organizers post events; members RSVP in each community's Discord. <a href="https://theludarium.com">theludarium.com</a></footer>
+</div>
+
+<script>
+(function(){
+  const TZ="America/Indiana/Indianapolis";
+  const $=s=>document.querySelector(s);
+  const state={communities:{},events:{},filter:"",canWrite:false,editing:null};
+  let db=null,user=null;
+
+  // ---- date helpers (wall-clock in TZ, no DST drift) ----
+  function todayISO(){const p=new Intl.DateTimeFormat("en-CA",{timeZone:TZ,year:"numeric",month:"2-digit",day:"2-digit"}).formatToParts(new Date());const g=t=>p.find(x=>x.type===t).value;return g("year")+"-"+g("month")+"-"+g("day");}
+  function addDays(iso,n){const [y,m,d]=iso.split("-").map(Number);const t=new Date(Date.UTC(y,m-1,d+n));return t.toISOString().slice(0,10);}
+  function tzOffsetMs(utcMs){const p=new Intl.DateTimeFormat("en-US",{timeZone:TZ,hour12:false,year:"numeric",month:"2-digit",day:"2-digit",hour:"2-digit",minute:"2-digit",second:"2-digit"}).formatToParts(new Date(utcMs));const g=t=>Number(p.find(x=>x.type===t).value);const asUTC=Date.UTC(g("year"),g("month")-1,g("day"),g("hour")%24,g("minute"),g("second"));return asUTC-utcMs;}
+  function wallToUTC(iso,time){const [y,m,d]=iso.split("-").map(Number);const [h,mi]=time.split(":").map(Number);const guess=Date.UTC(y,m-1,d,h,mi);return guess-tzOffsetMs(guess);}
+  function fmtTime(time){const [h,mi]=time.split(":").map(Number);const ap=h>=12?"pm":"am";const hh=((h+11)%12)+1;return hh+(mi?":"+String(mi).padStart(2,"0"):"")+" "+ap;}
+  function fmtDay(iso){const [y,m,d]=iso.split("-").map(Number);return new Date(Date.UTC(y,m-1,d,12)).toLocaleDateString("en-US",{timeZone:"UTC",weekday:"long",month:"long",day:"numeric"});}
+  function gcalStamp(ms){return new Date(ms).toISOString().replace(/[-:]/g,"").replace(/\.\d{3}/,"");}
+
+  // ---- expand recurring events into occurrences ----
+  function occurrences(){
+    const today=todayISO(),horizon=addDays(today,70),out=[];
+    for(const [id,ev] of Object.entries(state.events)){
+      if(!ev||!ev.date||!ev.time)continue;
+      if(state.filter&&ev.community!==state.filter)continue;
+      const step=ev.repeat==="weekly"?7:ev.repeat==="biweekly"?14:0;
+      const skips=new Set(ev.skips||[]);
+      let d=ev.date,n=0;
+      while(d<=horizon&&n<40){
+        if(d>=today&&!skips.has(d)&&(!ev.until||d<=ev.until))out.push({id,date:d,ev});
+        if(!step)break;
+        d=addDays(d,step);n++;
+        if(ev.until&&d>ev.until)break;
+      }
+    }
+    out.sort((a,b)=>(a.date+a.ev.time).localeCompare(b.date+b.ev.time));
+    return out;
+  }
+
+  function community(slug){return state.communities[slug]||{name:slug||"Community",color:"#1F6B4C"};}
+  function esc(s){return String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));}
+  function safeUrl(u){u=String(u||"");return /^https?:\/\//i.test(u)?u:"";}
+  function gcalLink(o){const start=wallToUTC(o.date,o.ev.time),end=start+(Number(o.ev.durationMin)||180)*60000;const c=community(o.ev.community);
+    const q=new URLSearchParams({action:"TEMPLATE",text:c.name+": "+o.ev.title,dates:gcalStamp(start)+"/"+gcalStamp(end),details:(o.ev.notes||"")+(o.ev.rsvpUrl?"\nRSVP: "+o.ev.rsvpUrl:""),location:[o.ev.venue,o.ev.address].filter(Boolean).join(", ")});
+    return "https://calendar.google.com/calendar/render?"+q.toString();}
+  function mapLink(o){const q=[o.ev.venue,o.ev.address].filter(Boolean).join(", ");return q?"https://www.google.com/maps/search/?api=1&query="+encodeURIComponent(q):"";}
+
+  function render(){
+    // chips
+    const chips=$("#chips");chips.querySelectorAll(".chip[data-slug]:not([data-slug=''])").forEach(c=>c.remove());
+    for(const [slug,c] of Object.entries(state.communities).sort((a,b)=>a[1].name.localeCompare(b[1].name))){
+      const b=document.createElement("button");b.className="chip";b.dataset.slug=slug;b.setAttribute("aria-pressed",String(state.filter===slug));
+      b.style.setProperty("--c",c.color||"#1F6B4C");b.innerHTML='<span class="dot"></span>'+esc(c.name);chips.appendChild(b);
+    }
+    chips.querySelector('[data-slug=""]').setAttribute("aria-pressed",String(!state.filter));
+
+    const occ=occurrences();
+    const next=$("#next"),list=$("#list");
+    if(!occ.length){
+      next.hidden=true;
+      const c=state.filter?community(state.filter):null;
+      list.innerHTML='<div class="empty"><strong>Nothing on the calendar yet</strong>'+(c?esc(c.name)+" has no upcoming events."+(c.link?' <a href="'+esc(safeUrl(c.link))+'">Join the Discord</a> to hear when the next one is posted.':""):"Organizers post events here; check back soon or ask in your community's Discord.")+'</div>';
+      return;
+    }
+    const first=occ[0],fc=community(first.ev.community);
+    next.hidden=false;
+    next.innerHTML='<div class="next"><div class="eyebrow">Next up · '+esc(fc.name)+'</div><h2>'+esc(first.ev.title)+'</h2>'+
+      '<div class="when">'+esc(fmtDay(first.date))+' · '+esc(fmtTime(first.ev.time))+'</div>'+
+      (first.ev.venue?'<p class="where">'+esc(first.ev.venue)+(first.ev.address?', '+esc(first.ev.address):'')+'</p>':'')+
+      (first.ev.notes?'<p class="notes">'+esc(first.ev.notes)+'</p>':'')+
+      '<div class="actions">'+(safeUrl(first.ev.rsvpUrl)?'<a class="btn primary" href="'+esc(safeUrl(first.ev.rsvpUrl))+'">RSVP in Discord</a>':'')+
+      '<a class="btn" href="'+esc(gcalLink(first))+'">Add to Google Calendar</a>'+(mapLink(first)?'<a class="btn" href="'+esc(mapLink(first))+'">Map</a>':'')+'</div></div>';
+
+    let html="",lastDay="";
+    for(const o of occ){
+      const c=community(o.ev.community);
+      if(o.date!==lastDay){if(lastDay)html+="</div>";html+='<div class="day"><h3>'+esc(fmtDay(o.date))+'</h3>';lastDay=o.date;}
+      html+='<div class="ev"><div class="time">'+esc(fmtTime(o.ev.time))+'<small>'+(Number(o.ev.durationMin)||180)+' min</small></div><div class="body">'+
+        '<div class="pill" style="--c:'+esc(c.color||"#1F6B4C")+'"><span class="dot"></span>'+esc(c.name)+(o.ev.repeat&&o.ev.repeat!=="none"?' · '+(o.ev.repeat==="weekly"?"weekly":"every two weeks"):"")+'</div>'+
+        '<div class="title">'+esc(o.ev.title)+'</div>'+
+        (o.ev.venue||o.ev.address?'<p class="meta">'+(mapLink(o)?'<a href="'+esc(mapLink(o))+'">':'')+esc([o.ev.venue,o.ev.address].filter(Boolean).join(", "))+(mapLink(o)?'</a>':'')+'</p>':'')+
+        (o.ev.notes?'<p class="meta">'+esc(o.ev.notes)+'</p>':'')+
+        '<div class="actions">'+(safeUrl(o.ev.rsvpUrl)?'<a class="btn" href="'+esc(safeUrl(o.ev.rsvpUrl))+'">RSVP</a>':'')+'<a class="btn" href="'+esc(gcalLink(o))+'">Google Calendar</a></div>'+
+        (state.canWrite?'<div class="manage"><button data-act="edit" data-id="'+esc(o.id)+'">Edit series</button> · <button data-act="skip" data-id="'+esc(o.id)+'" data-date="'+o.date+'">Skip this date</button> · <button data-act="delete" data-id="'+esc(o.id)+'">Delete</button></div>':'')+
+        '</div></div>';
+    }
+    if(lastDay)html+="</div>";
+    list.innerHTML=html;
+  }
+
+  // ---- interactions ----
+  $("#chips").addEventListener("click",e=>{const b=e.target.closest(".chip");if(!b)return;state.filter=b.dataset.slug||"";try{location.hash=state.filter||"";}catch(_){}render();});
+  $("#list").addEventListener("click",async e=>{
+    const b=e.target.closest("button[data-act]");if(!b||!db)return;const id=b.dataset.id,ev=state.events[id];if(!ev)return;
+    if(b.dataset.act==="edit"){fillForm(id,ev);$("#evform").scrollIntoView({behavior:"smooth"});}
+    if(b.dataset.act==="skip"){const skips=Array.from(new Set([...(ev.skips||[]),b.dataset.date]));await db.doc("events/"+id).update({skips}).catch(err=>status("ev",err.message,true));}
+    if(b.dataset.act==="delete"){if(b.textContent!=="Confirm delete"){b.textContent="Confirm delete";return;}await db.doc("events/"+id).delete().catch(err=>status("ev",err.message,true));}
+  });
+  function status(which,msg,err){const el=$("#"+which+"-status");el.textContent=msg;el.className="status"+(err?" err":"");}
+  function fillForm(id,ev){state.editing=id;$("#ev-community").value=ev.community||"";$("#ev-title").value=ev.title||"";$("#ev-date").value=ev.date||"";$("#ev-time").value=ev.time||"18:30";$("#ev-dur").value=ev.durationMin||180;$("#ev-repeat").value=ev.repeat||"none";$("#ev-venue").value=ev.venue||"";$("#ev-address").value=ev.address||"";$("#ev-rsvp").value=ev.rsvpUrl||"";$("#ev-until").value=ev.until||"";$("#ev-notes").value=ev.notes||"";$("#ev-submit").textContent="Save changes";$("#ev-cancel").hidden=false;}
+  function clearForm(){state.editing=null;$("#evform").reset();$("#ev-time").value="18:30";$("#ev-dur").value=180;$("#ev-submit").textContent="Save event";$("#ev-cancel").hidden=true;}
+  $("#ev-cancel").addEventListener("click",clearForm);
+  $("#evform").addEventListener("submit",async e=>{
+    e.preventDefault();if(!db)return;
+    const doc={community:$("#ev-community").value,title:$("#ev-title").value.trim(),date:$("#ev-date").value,time:$("#ev-time").value,durationMin:Number($("#ev-dur").value)||180,repeat:$("#ev-repeat").value,venue:$("#ev-venue").value.trim(),address:$("#ev-address").value.trim(),rsvpUrl:safeUrl($("#ev-rsvp").value.trim()),until:$("#ev-until").value||"",notes:$("#ev-notes").value.trim(),skips:state.editing?(state.events[state.editing]?.skips||[]):[],updatedAt:new Date().toISOString()};
+    if(!doc.community){status("ev","Pick a community first (add one below if the list is empty).",true);return;}
+    status("ev","Saving…");
+    try{if(state.editing)await db.doc("events/"+state.editing).set(doc);else await db.collection("events").add(doc);status("ev","Saved. Members can see it now.");clearForm();}
+    catch(err){status("ev",err.code==="invalid_argument"?"You don't have permission to post here.":"Couldn't save: "+err.message,true);}
+  });
+  $("#cmform").addEventListener("submit",async e=>{
+    e.preventDefault();if(!db)return;
+    const slug=$("#cm-slug").value.trim().toLowerCase();if(!/^[a-z0-9-]+$/.test(slug)){status("cm","Short id can only use letters, numbers and dashes.",true);return;}
+    status("cm","Saving…");
+    try{await db.doc("communities/"+slug).set({name:$("#cm-name").value.trim(),color:$("#cm-color").value,link:safeUrl($("#cm-link").value.trim()),blurb:$("#cm-blurb").value.trim()});status("cm","Saved.");$("#cmform").reset();$("#cm-color").value="#1F6B4C";}
+    catch(err){status("cm","Couldn't save: "+err.message,true);}
+  });
+  function fillCommunitySelect(){const s=$("#ev-community"),cur=s.value;s.innerHTML=Object.entries(state.communities).sort((a,b)=>a[1].name.localeCompare(b[1].name)).map(([k,c])=>'<option value="'+esc(k)+'">'+esc(c.name)+'</option>').join("");if(cur)s.value=cur;}
+
+  // ---- boot ----
+  try{const h=(location.hash||"").slice(1);if(/^[a-z0-9-]+$/.test(h))state.filter=h;}catch(_){}
+  render();
+  (async()=>{
+    if(!window.claude||!claude.use){$("#list").innerHTML='<div class="empty"><strong>Calendar unavailable here</strong>Open this page from its claude.ai link to see events.</div>';return;}
+    [db,user]=await Promise.all([claude.use("db"),claude.use("user")]);
+    if(!db){$("#list").innerHTML='<div class="empty"><strong>Sign in to see the calendar</strong>Events are visible to signed-in viewers.</div>';return;}
+    const cw=user?await user.can("data.write"):null;state.canWrite=cw!==false&&!!user&&(cw===true||(await user.isOwner()));
+    $("#admin").hidden=!state.canWrite;
+    db.collection("communities").onSnapshot(s=>{state.communities={};s.docs.forEach(d=>{state.communities[d.id]=d.data();});fillCommunitySelect();render();},err=>{console.error(err);});
+    db.collection("events").onSnapshot(s=>{state.events={};s.docs.forEach(d=>{state.events[d.id]=d.data();});render();},err=>{$("#list").innerHTML='<div class="empty"><strong>Couldn\'t load events</strong>Reload the page to try again.</div>';});
+  })();
+})();
+</script>

@@ -36,6 +36,18 @@ export const CATEGORIES = [
     description: 'The people, stories, and ideas behind the hobby.',
     tint: '#6e9c8d',
   },
+  {
+    slug: 'game-design',
+    name: 'Game Design',
+    description: 'How games work, and how to make your own.',
+    tint: '#9a7b5f',
+  },
+  {
+    slug: 'magic-and-cube',
+    name: 'Magic & Cube',
+    description: 'Cube drafting, cube building, and the Cube Commonwealth community.',
+    tint: '#7d6a92',
+  },
 ] as const;
 
 export const MAIN_NAV: NavItem[] = [

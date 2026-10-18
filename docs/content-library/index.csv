@@ -1,0 +1,362 @@
+file,slug,title,category,primary_keyword,reading_time
+articles/design-01-five-minute-teach.md,how-to-teach-a-board-game,How to Teach a Board Game in Five Minutes,Tabletop game design,how to teach a board game,7 min
+articles/design-02-worker-placement.md,worker-placement-explained,"Worker Placement Board Games, Explained With One Game",Tabletop game design,worker placement board games,8 min
+articles/design-03-comeback.md,catch-up-mechanics-board-games,Catch-Up Mechanics in Board Games: Designing the Comeback,Tabletop game design,catch-up mechanics,7 min
+articles/design-04-luck-vs-skill.md,luck-vs-skill-board-games,Luck vs Skill in Board Games: Why the Best Ones Last,Tabletop game design,luck vs skill in board games,7 min
+articles/design-05-playtesting.md,how-to-playtest-a-board-game,How to Playtest a Board Game Without Fooling Yourself,Tabletop game design,how to playtest a board game,8 min
+articles/design-06-social-deduction.md,why-social-deduction-games-work,Why Social Deduction Games Work: Hidden Roles and Good Lies,Tabletop game design,social deduction games,8 min
+articles/design-07-box-lies.md,board-game-play-time-accuracy,Board Game Play Time: Why the Box Lies and What to Do,Tabletop game design,board game play time,7 min
+articles/design-08-quarterback-problem.md,quarterback-problem-cooperative-games,"The Quarterback Problem in Cooperative Games, and Its Fixes",Tabletop game design,quarterback problem cooperative games,8 min
+articles/design-09-table-presence.md,board-game-components-table-presence,Board Game Components: Table Presence as Marketing,Tabletop game design,board game components,8 min
+articles/design-10-weekend-prototype.md,how-to-prototype-a-board-game,How to Prototype a Board Game in One Weekend,Tabletop game design,how to prototype a board game,8 min
+articles/social-01-loneliness-cure.md,loneliness-cure-board-games,Board Games and Loneliness: A Cheap Cure in a Box,Social benefits of playing in person,board games and loneliness,7 min
+articles/social-02-men-friendship.md,how-men-make-friends-board-games,How to Make Friends as an Adult Man: Start Side by Side,Social benefits of playing in person,how to make friends as an adult man,7 min
+articles/social-03-phone-basket.md,phone-free-game-night,Phone-Free Game Night: The Phone Basket Rule,Social benefits of playing in person,phone-free game night,6 min
+articles/social-04-teenagers.md,board-games-with-teenagers,Board Games for Teenagers and Parents: Neutral Ground,Social benefits of playing in person,board games for teenagers and parents,7 min
+articles/social-05-four-generations.md,multigenerational-board-games,"Board Games for All Ages: Four Generations, One Table",Social benefits of playing in person,board games for all ages,7 min
+articles/social-06-standing-game-night.md,how-to-start-a-game-night-group,How to Start a Board Game Group That Lasts,Social benefits of playing in person,how to start a board game group,7 min
+articles/social-07-good-loser.md,how-to-be-a-good-loser,How to Be a Good Loser at Games (and Why It Matters),Social benefits of playing in person,how to be a good loser at games,7 min
+articles/social-08-new-city.md,make-friends-in-a-new-city-board-games,How to Make Friends in a New City: Start at a Game Table,Social benefits of playing in person,how to make friends in a new city,7 min
+articles/social-09-team-offsite.md,board-games-team-building,Board Games for Team Building: Why Your Offsite Needs Them,Social benefits of playing in person,board games for team building,8 min
+articles/social-10-memory-dividend.md,why-game-night-memories-last,Benefits of Playing Board Games With Friends,Social benefits of playing in person,benefits of playing board games with friends,7 min
+articles2/coop-01-best-cooperative.md,best-cooperative-board-games,15 Best Cooperative Board Games for Groups Who Hate Losing,Cooperative and campaign games,best cooperative board games,8 min
+articles2/coop-02-pandemic.md,pandemic-board-game-explained,Pandemic Board Game Explained: Why It Still Works,Cooperative and campaign games,Pandemic board game,8 min
+articles2/coop-03-legacy.md,legacy-board-games-explained,Legacy Board Games Explained: Games That Change Forever,Cooperative and campaign games,legacy board games,8 min
+articles2/coop-04-gloomhaven.md,is-gloomhaven-worth-it,Is Gloomhaven Worth It? An Honest Guide for Busy Adults,Cooperative and campaign games,is Gloomhaven worth it,8 min
+articles2/coop-05-missed-session.md,campaign-game-missed-session,Campaign Board Game Missed Session: How to Keep Going,Cooperative and campaign games,campaign board game missed session,7 min
+articles2/coop-06-the-crew.md,the-crew-card-game,The Crew Card Game: The Best Teaching Game Ever Made,Cooperative and campaign games,The Crew card game,7 min
+articles2/coop-07-no-quarterback.md,co-op-games-without-quarterback-problem,Co-op Games Without a Quarterback Problem: 12 Picks,Cooperative and campaign games,cooperative games hidden information,8 min
+articles2/coop-08-semi-coop.md,semi-cooperative-board-games,Semi-Cooperative Board Games: When One of You Is Lying,Cooperative and campaign games,semi-cooperative board games,8 min
+articles2/coop-09-two-player.md,two-player-cooperative-board-games,Two Player Cooperative Board Games for Couples: 12 Picks,Cooperative and campaign games,two player cooperative board games,8 min
+articles2/coop-10-teamwork.md,cooperative-games-teamwork,Cooperative Games and Teamwork: What Meetings Never Teach,Cooperative and campaign games,cooperative games teamwork,7 min
+articles2/design2-01-deck-building.md,deck-building-games-explained,Deck Building Games Explained: Dominion and After,Tabletop game design,deck building games,7 min
+articles2/design2-02-area-control.md,area-control-board-games,Area Control Board Games Without the Bloodbath,Tabletop game design,area control board games,7 min
+articles2/design2-03-rulebook.md,how-to-write-a-board-game-rulebook,How to Write a Board Game Rulebook People Will Read,Tabletop game design,how to write a board game rulebook,7 min
+articles2/design2-04-print-and-play.md,print-and-play-board-games,Print and Play Board Games: Test for the Cost of Paper,Tabletop game design,print and play board games,7 min
+articles2/design2-05-kickstarter.md,kickstarter-board-game,Kickstarter Board Game Campaigns: A Sober Look,Tabletop game design,kickstarter board game,7 min
+articles2/design2-06-fair-math.md,board-game-balance-math,"Board Game Balance Math: Distribution, Variance, Feel",Tabletop game design,board game balance math,7 min
+articles2/design2-07-theme-vs-mechanics.md,theme-vs-mechanics,Theme vs Mechanics in Board Game Design: Which First?,Tabletop game design,theme vs mechanics board game design,7 min
+articles2/design2-08-player-count.md,player-count-design,Player Count Design: Build for the Table You Really Have,Tabletop game design,player count design,7 min
+articles2/design2-09-roll-and-write.md,roll-and-write-games,Roll and Write Games: Why the Simplest Format Is Hardest,Tabletop game design,roll and write games,7 min
+articles2/design2-10-pitch-publisher.md,how-to-pitch-a-board-game,How to Pitch a Board Game to a Publisher,Tabletop game design,how to pitch a board game,7 min
+articles2/family-01-tired-of-monopoly.md,best-family-board-games,Best Family Board Games for People Tired of Monopoly,Family and intergenerational play,best family board games,8 min
+articles2/family-02-five-year-olds.md,board-games-for-5-year-olds,Board Games for 5-Year-Olds That Adults Will Enjoy Too,Family and intergenerational play,board games for 5 year olds,7 min
+articles2/family-03-teach-kids-to-lose.md,teaching-kids-to-lose-at-games,Teaching Kids to Lose at Games (and Win) Gracefully,Family and intergenerational play,teaching kids to lose at games,7 min
+articles2/family-04-screen-free-saturday.md,screen-free-family-game-habit,Screen-Free Saturday: Build a Family Game Habit,Family and intergenerational play,screen free family activities,7 min
+articles2/family-05-grandparents.md,games-to-play-with-grandparents,Games to Play With Grandparents Who Don't Play Games,Family and intergenerational play,games to play with grandparents,7 min
+articles2/family-06-siblings.md,cooperative-games-for-kids,Cooperative Games for Kids: Picks for Siblings Who Fight,Family and intergenerational play,cooperative games for kids,7 min
+articles2/family-07-what-games-teach.md,educational-benefits-of-board-games,Educational Benefits of Board Games School Misses,Family and intergenerational play,educational benefits of board games,8 min
+articles2/family-08-game-night-rules.md,family-game-night-rules,Family Game Night Rules That Actually Keep the Peace,Family and intergenerational play,family game night rules,7 min
+articles2/family-09-thanksgiving.md,thanksgiving-board-games,Thanksgiving Board Games for Three Generations,Family and intergenerational play,Thanksgiving board games,7 min
+articles2/family-10-kid-who-has-to-win.md,kid-who-hates-losing,Kid Who Hates Losing? How to Play Games With Them,Family and intergenerational play,kid who hates losing,7 min
+articles2/health-01-dementia.md,board-games-and-dementia,Board Games and Dementia: What the Research Says,Play and health,board games and dementia,7 min
+articles2/health-02-adult-play.md,benefits-of-play-for-adults,Benefits of Play for Adults: The Case for Playing,Play and health,benefits of play for adults,7 min
+articles2/health-03-blue-zones.md,blue-zones-social-connection-games,Blue Zones Social Connection: Card Games and Long Life,Play and health,Blue Zones social connection,7 min
+articles2/health-04-stress.md,board-games-stress-relief,Board Games for Stress Relief: Why a Hard Puzzle Calms,Play and health,board games stress relief,7 min
+articles2/health-05-social-fitness.md,social-fitness,Social Fitness: Train Your Relationships Like a Muscle,Play and health,social fitness,7 min
+articles2/health-06-adhd.md,board-games-for-adhd-adults,Board Games for ADHD Adults: Why Structured Play Works,Play and health,board games for ADHD adults,7 min
+articles2/health-07-retirement.md,friendship-after-retirement,Friendship After Retirement: Why Men Lose Friends at 65,Play and health,friendship after retirement,7 min
+articles2/health-08-laughter.md,benefits-of-laughter-social,Benefits of Laughter: What Shared Humor Does to a Group,Play and health,benefits of laughter social,7 min
+articles2/health-09-togethering.md,togethering,Togethering: Why It Is a Longevity Practice,Play and health,togethering,7 min
+articles2/health-10-social-prescribing.md,social-prescribing-game-nights,Social Prescribing: Doctors Who Recommend Game Nights,Play and health,social prescribing,7 min
+articles2/host-01-checklist.md,how-to-host-a-game-night,How to Host a Game Night: The Complete Checklist,Hosting and game-night craft,how to host a game night,8 min
+articles2/host-02-snacks.md,game-night-snacks,Game Night Snacks That Won't Ruin the Cards,Hosting and game-night craft,game night snacks,7 min
+articles2/host-03-headcount.md,best-board-games-for-6-players,Best Board Games for 6 Players (and Every Headcount),Hosting and game-night craft,best board games for 6 players,8 min
+articles2/host-04-sequencing.md,game-night-lineup,"Game Night Lineup: Opener, Main Event, Closer",Hosting and game-night craft,game night lineup,7 min
+articles2/host-05-slow-player.md,analysis-paralysis-board-games,Analysis Paralysis in Board Games: What to Do,Hosting and game-night craft,analysis paralysis board games,7 min
+articles2/host-06-storage.md,board-game-storage,Board Game Storage: 100 Games in an Apartment,Hosting and game-night craft,board game storage,7 min
+articles2/host-07-room-setup.md,game-room-setup,"Game Room Setup: Lighting, Seating, and Sound",Hosting and game-night craft,game room setup,7 min
+articles2/host-08-rules-disputes.md,board-game-rules-argument,Board Game Rules Argument? How to Settle It Fast,Hosting and game-night craft,board game rules argument,7 min
+articles2/host-09-introverts.md,game-night-for-introverts,Game Night for Introverts: Host Without the Drain,Hosting and game-night craft,game night for introverts,7 min
+articles2/host-10-end-on-time.md,how-long-should-game-night-last,How Long Should Game Night Last? Ending on Time,Hosting and game-night craft,how long should game night last,7 min
+articles2/lounge-01-what-is-board-game-cafe.md,what-is-a-board-game-cafe,What Is a Board Game Cafe? Why They're Everywhere Now,Game lounges and third places,board game cafe,7 min
+articles2/lounge-02-third-place.md,third-place-problem,The Third Place Problem: Where Adults Go to Belong,Game lounges and third places,third place,7 min
+articles2/lounge-03-indianapolis-guide.md,board-game-cafes-indianapolis,Board Game Cafes in Indianapolis: The 2026 Guide,Game lounges and third places,board game cafe Indianapolis,7 min
+articles2/lounge-04-membership.md,game-lounge-membership,How a Game Lounge Membership Works (vs a Cover Charge),Game lounges and third places,game lounge membership,7 min
+articles2/lounge-05-coworking-lesson.md,coworking-vs-game-stores,What Coworking Got Right That Game Stores Got Wrong,Game lounges and third places,board game lounge business,7 min
+articles2/lounge-06-how-to-run-cafe.md,how-to-run-a-board-game-cafe,How to Run a Board Game Cafe: 12 Lessons From Owners,Game lounges and third places,how to run a board game cafe,8 min
+articles2/lounge-07-library-problem.md,board-game-cafe-library,"Board Game Cafe Library: Curating 300 Games, Not 3,000",Game lounges and third places,board game cafe library,7 min
+articles2/lounge-08-great-game-table.md,best-table-for-board-games,"Best Table for Board Games: Height, Light, and Elbow Room",Game lounges and third places,best table for board games,7 min
+articles2/lounge-09-public-game-nights.md,board-game-night-near-me,Board Game Night Near Me: How to Find a Public Game Night,Game lounges and third places,board game night near me,7 min
+articles2/lounge-10-every-city.md,why-every-city-needs-a-place-to-play,Benefits of Board Game Cafes: Why Every City Needs One,Game lounges and third places,benefits of board game cafes,7 min
+articles2/mtg-01-what-is-cube.md,what-is-a-magic-cube,What Is a Magic Cube? The Format Where Nobody Buys Packs,Magic: The Gathering and Cube,MTG cube,7 min
+articles2/mtg-02-build-first-cube.md,how-to-build-a-cube-mtg,How to Build a Cube MTG: Your First Cube Under $200,Magic: The Gathering and Cube,how to build a cube MTG,8 min
+articles2/mtg-03-cube-draft.md,cube-draft-strategy,"Cube Draft Strategy: Picks, Signals, and the Table",Magic: The Gathering and Cube,cube draft strategy,8 min
+articles2/mtg-04-teach-magic.md,how-to-teach-magic-the-gathering,How to Teach Magic the Gathering: Start With a Cube,Magic: The Gathering and Cube,how to teach Magic the Gathering,7 min
+articles2/mtg-05-pauper-vs-vintage.md,pauper-cube-vs-vintage-cube,Pauper Cube vs Vintage Cube: Which Fits Your Group?,Magic: The Gathering and Cube,pauper cube,7 min
+articles2/mtg-06-run-cube-night.md,how-to-run-a-cube-draft,"How to Run a Cube Draft: 8 Players, 3 Hours, Done Right",Magic: The Gathering and Cube,how to run a cube draft,8 min
+articles2/mtg-07-proxies.md,mtg-proxies-ethics,"MTG Proxies: Ethics, Etiquette, and Playing on a Budget",Magic: The Gathering and Cube,MTG proxies,7 min
+articles2/mtg-08-commander-politics.md,commander-politics,Commander Politics: Why Four-Player Magic Makes Enemies,Magic: The Gathering and Cube,Commander politics,7 min
+articles2/mtg-09-cube-commonwealth.md,cube-commonwealth,Cube Commonwealth: A Community Around One Cube,Magic: The Gathering and Cube,Cube Commonwealth,7 min
+articles2/mtg-10-what-magic-taught.md,magic-the-gathering-benefits,Magic the Gathering Benefits: What a Card Game Taught Us,Magic: The Gathering and Cube,Magic the Gathering benefits,7 min
+articles2/picks-01-adults.md,best-board-games-for-adults,Best Board Games for Adults Who Don't Like Board Games,What to play,best board games for adults,8 min
+articles2/picks-02-gateway.md,gateway-board-games,10 Gateway Board Games That Turn Non-Gamers Into Regulars,What to play,gateway board games,8 min
+articles2/picks-03-large-groups.md,party-games-for-large-groups,Best Party Games for Large Groups of 8 or More,What to play,party games for large groups,8 min
+articles2/picks-04-two-player.md,two-player-board-games-date-night,Best Two-Player Board Games for Date Night,What to play,two player board games,8 min
+articles2/picks-05-under-30.md,quick-board-games-under-30-minutes,Quick Board Games That Play in Under 30 Minutes,What to play,quick board games,8 min
+articles2/picks-06-card-games.md,adult-card-games,Best Adult Card Games That Aren't Cards Against Humanity,What to play,adult card games,8 min
+articles2/picks-07-nature-games.md,wingspan-vs-everdell-vs-cascadia,Wingspan vs Everdell vs Cascadia: Which Fits Your Table?,What to play,Wingspan vs Everdell,8 min
+articles2/picks-08-best-2026.md,best-board-games-2026,Best Board Games of 2026 So Far: Our Running Picks,What to play,best board games 2026,7 min
+articles2/picks-09-one-sentence.md,easiest-board-games-to-learn,Easiest Board Games to Learn: Teach Them in One Sentence,What to play,easiest board games to learn,8 min
+articles2/picks-10-ludarium-library.md,ludarium-library-50-games,The Ludarium Library: 50 Games for Every Game Lounge,What to play,board game lounge library,9 min
+articles2/rpg-01-first-dnd.md,how-to-play-dnd-for-beginners,How to Play D&D for Beginners: No Homework Required,Tabletop RPGs for beginners,how to play D&D for beginners,8 min
+articles2/rpg-02-what-is-ttrpg.md,what-is-a-tabletop-rpg,What Is a Tabletop RPG? A Plain-English Explainer,Tabletop RPGs for beginners,what is a tabletop RPG,8 min
+articles2/rpg-03-one-shot.md,dnd-one-shot-for-beginners,D&D One Shot for Beginners: Try an RPG in One Evening,Tabletop RPGs for beginners,D&D one shot for beginners,8 min
+articles2/rpg-04-find-group.md,how-to-find-a-dnd-group,How to Find a D&D Group as an Adult (7 Places That Work),Tabletop RPGs for beginners,how to find a D&D group,8 min
+articles2/rpg-05-first-dm.md,first-time-dungeon-master-tips,First Time Dungeon Master Tips: You Got Volunteered,Tabletop RPGs for beginners,first time dungeon master tips,9 min
+articles2/rpg-06-not-dnd.md,easy-tabletop-rpgs-for-beginners,Easy Tabletop RPGs for Beginners: 8 Systems Beyond D&D,Tabletop RPGs for beginners,easy tabletop RPGs for beginners,9 min
+articles2/rpg-07-roleplaying-tips.md,roleplaying-tips-for-beginners,Roleplaying Tips for Beginners: When You Freeze Up,Tabletop RPGs for beginners,roleplaying tips for beginners,8 min
+articles2/rpg-08-dice.md,dnd-dice-explained,"D&D Dice Explained: d20, d6, and Advantage",Tabletop RPGs for beginners,D&D dice explained,8 min
+articles2/rpg-09-kids.md,dnd-for-kids,D&D for Kids: Rules That Keep the Table Fun,Tabletop RPGs for beginners,D&D for kids,9 min
+articles2/rpg-10-why-pretend.md,benefits-of-tabletop-rpgs,Benefits of Tabletop RPGs: Why Adults Play Pretend,Tabletop RPGs for beginners,benefits of tabletop RPGs,9 min
+articles2/work-01-team-building-games.md,team-building-board-games,20 Team-Building Board Games That Don't Feel Forced,Games for the workplace,team building board games,8 min
+articles2/work-02-codenames.md,codenames-team-building,Codenames Team Building: What One Game Reveals,Games for the workplace,Codenames team building,7 min
+articles2/work-03-trust-fall.md,offsite-activities-for-adults,Offsite Activities for Adults That Beat the Trust Fall,Games for the workplace,offsite activities for adults,7 min
+articles2/work-04-spot-leader.md,leadership-assessment-games,Leadership Assessment Games: 45 Minutes of Pandemic,Games for the workplace,leadership assessment games,7 min
+articles2/work-05-negotiation.md,negotiation-board-games,Negotiation Board Games for Sales Teams,Games for the workplace,negotiation board games,7 min
+articles2/work-06-onboarding.md,new-hire-onboarding-game-night,New Hire Onboarding Activities: Try a Game Night,Games for the workplace,new hire onboarding activities,7 min
+articles2/work-07-remote-team.md,in-person-team-building-remote-teams,In-Person Team Building for Remote Teams: One Day,Games for the workplace,in-person team building for remote teams,7 min
+articles2/work-08-psych-safety.md,psychological-safety-team-activities,Psychological Safety Team Activities: Try a Game Table,Games for the workplace,psychological safety team activities,7 min
+articles2/work-09-lunch-club.md,workplace-game-club,Workplace Game Club: How to Run One at Lunch,Games for the workplace,workplace game club,7 min
+articles2/work-10-cost.md,corporate-team-building-cost,Corporate Team Building Cost: A Game Night Breakdown,Games for the workplace,corporate team building cost,8 min
+articles3/aud-01-couples.md,board-games-for-couples,Board Games for Couples: Beyond the Two-Player Box,Who it's for,board games for couples,7 min
+articles3/aud-02-seniors-alone.md,board-games-for-seniors-living-alone,Board Games for Seniors Who Live Alone,Who it's for,board games for seniors,8 min
+articles3/aud-03-church-groups.md,board-games-for-church-groups,Board Games for Church Groups and Youth Groups,Who it's for,board games for church groups,7 min
+articles3/aud-04-neighbors.md,neighborhood-game-night,How to Start a Neighborhood Game Night,Who it's for,neighborhood game night,7 min
+articles3/aud-05-college.md,board-games-for-college-students,Board Games for College Students: Dorm-Sized and Cheap,Who it's for,board games for college students,7 min
+articles3/aud-06-social-anxiety.md,board-games-social-anxiety,Board Games and Social Anxiety: Why the Table Helps,Who it's for,board games for social anxiety,7 min
+articles3/aud-07-solo.md,best-solo-board-games,"Best Solo Board Games: Playing Alone, Not Lonely",Who it's for,solo board games,7 min
+articles3/aud-08-new-parents.md,board-games-for-new-parents,"Board Games for New Parents: 20 Minutes, No Brain",Who it's for,board games for new parents,7 min
+articles3/aud-09-remote-friends.md,playing-board-games-with-long-distance-friends,Board Games With Long Distance Friends: Keep the Group,Who it's for,board games with long distance friends,8 min
+articles3/aud-10-non-gamers.md,board-games-for-people-who-dont-like-games,Games for People Who Don't Like Games,Who it's for,games for people who don't like games,7 min
+articles3/build-01-why-a-lounge.md,why-we-are-building-a-game-lounge,"Why We're Building a Game Lounge Business, Not a Store",Building The Ludarium,game lounge business,7 min
+articles3/build-02-membership-math.md,game-lounge-membership-model,Game Lounge Membership Model: How the Math Works,Building The Ludarium,game lounge membership model,8 min
+articles3/build-03-togethering-word.md,togethering-meaning,Togethering Meaning: Why We Needed a New Word,Building The Ludarium,togethering meaning,6 min
+articles3/build-04-first-space.md,choosing-a-space-for-a-game-lounge,Game Cafe Location: What We Want in a First Space,Building The Ludarium,game cafe location,7 min
+articles3/build-05-library-list.md,building-a-game-lounge-library,Building a Game Lounge Library: Our First 100 Games,Building The Ludarium,game lounge library,8 min
+articles3/build-06-events-first.md,corporate-game-nights-before-a-space,Corporate Game Night Business: Why Events Come First,Building The Ludarium,corporate game night business,7 min
+articles3/build-07-what-we-got-wrong.md,game-lounge-lessons-learned,Starting a Board Game Cafe: Mistakes We've Already Made,Building The Ludarium,starting a board game cafe mistakes,7 min
+articles3/build-08-not-a-store.md,why-game-lounges-dont-sell-games,Board Game Cafe vs Store: Why We Won't Sell Games,Building The Ludarium,board game cafe vs store,6 min
+articles3/build-09-city-by-city.md,game-lounge-expansion-plan,Game Lounge Franchise? Our One-Membership Long Plan,Building The Ludarium,game lounge franchise,7 min
+articles3/build-10-how-to-help.md,how-to-support-the-ludarium,How to Support a Local Game Cafe Before It Opens,Building The Ludarium,support a local game cafe,6 min
+articles3/cmp-01-catan-vs-ttr.md,catan-vs-ticket-to-ride,Catan vs Ticket to Ride: Which Gateway Game Fits You?,Comparisons,Catan vs Ticket to Ride,8 min
+articles3/cmp-02-pandemic-vs-forbidden-island.md,pandemic-vs-forbidden-island,Pandemic vs Forbidden Island: Which Co-op to Buy First,Comparisons,Pandemic vs Forbidden Island,8 min
+articles3/cmp-03-dnd-vs-pathfinder.md,dnd-vs-pathfinder-beginners,D&D vs Pathfinder for Beginners: Which to Start With,Comparisons,D&D vs Pathfinder,9 min
+articles3/cmp-04-codenames-vs-decrypto.md,codenames-vs-decrypto,"Codenames vs Decrypto: Two Word Games, Two Tables",Comparisons,Codenames vs Decrypto,8 min
+articles3/cmp-05-azul-vs-sagrada.md,azul-vs-sagrada,"Azul vs Sagrada: Pretty Tiles, Different Brains",Comparisons,Azul vs Sagrada,8 min
+articles3/cmp-06-wingspan-vs-everdell.md,wingspan-vs-everdell,Wingspan vs Everdell: Which Engine Builder Is Right?,Comparisons,Wingspan vs Everdell,8 min
+articles3/cmp-07-gloomhaven-vs-frosthaven.md,gloomhaven-vs-frosthaven,Gloomhaven vs Frosthaven vs Jaws of the Lion: Start Here,Comparisons,Gloomhaven vs Frosthaven,9 min
+articles3/cmp-08-dominion-vs-clank.md,dominion-vs-clank,Dominion vs Clank!: Pure Deck Builder or One With a Board?,Comparisons,Dominion vs Clank,8 min
+articles3/cmp-09-cube-vs-commander.md,cube-vs-commander,Cube vs Commander: Which Magic Format Fits Your Group?,Comparisons,Cube vs Commander,9 min
+articles3/cmp-10-board-game-cafe-vs-home.md,board-game-cafe-vs-home-game-night,Board Game Cafe vs Home Game Night: When Each Wins,Comparisons,board game cafe vs home,8 min
+articles3/con-01-packing.md,gen-con-packing-list,Gen Con Packing List: What to Bring for Four Days,Conventions,Gen Con packing list,7 min
+articles3/con-02-event-tickets.md,gen-con-event-registration-tips,Gen Con Event Registration: How to Get the Games You Want,Conventions,Gen Con event registration,8 min
+articles3/con-03-demo.md,how-to-demo-a-board-game-at-a-convention,How to Demo a Board Game at a Convention,Conventions,demo board game convention,8 min
+articles3/con-04-pitch-at-gen-con.md,pitch-board-game-at-gen-con,How to Pitch a Game to Publishers at Gen Con,Conventions,pitch game at Gen Con,8 min
+articles3/con-05-smaller-cons.md,board-game-conventions-midwest,Board Game Conventions in the Midwest Beyond Gen Con,Conventions,board game conventions Midwest,8 min
+articles3/con-06-with-kids.md,gen-con-with-kids,Gen Con With Kids: What Works and What Doesn't,Conventions,Gen Con with kids,7 min
+articles3/con-07-budget.md,gen-con-on-a-budget,"Gen Con on a Budget: Badges, Beds, and the Exhibit Hall",Conventions,Gen Con budget,8 min
+articles3/con-08-hotel.md,gen-con-hotel-guide,"Gen Con Hotels: The Housing Lottery, Explained",Conventions,Gen Con hotels,8 min
+articles3/con-09-introverts.md,conventions-for-introverts,Convention Tips for Introverts: A Pacing Plan,Conventions,convention tips introverts,7 min
+articles3/con-10-after-gen-con.md,what-to-do-after-gen-con,After Gen Con: Turn Four Days Into a Year of Game Nights,Conventions,after Gen Con,7 min
+articles3/gift-01-under-30.md,best-board-game-gifts-under-30,Best Board Game Gifts Under $30: 12 Picks That Get Played,Gift guides,board game gifts under $30,8 min
+articles3/gift-02-couples.md,board-game-gifts-for-couples,Board Game Gifts for Couples Who Play Together (2026),Gift guides,board game gifts for couples,8 min
+articles3/gift-03-coworker.md,board-game-gift-for-coworker,Board Game Gift for a Coworker You Barely Know: 7 Safe Picks,Gift guides,gift for coworker board game,7 min
+articles3/gift-04-grandparent.md,board-games-for-grandparents-gift,Board Games for Grandparents: 10 Gifts They'll Play,Gift guides,board games for grandparents,8 min
+articles3/gift-05-someone-who-has-everything.md,gifts-for-board-game-lovers,Gifts for Board Game Lovers Who Already Own Everything,Gift guides,gifts for board game lovers,8 min
+articles3/gift-06-black-friday.md,black-friday-board-game-deals,Black Friday Board Game Deals: What's Worth Waiting For,Gift guides,Black Friday board game deals,8 min
+articles3/gift-07-stocking-stuffers.md,board-game-stocking-stuffers,Stocking Stuffer Games: 12 Small-Box Games Under $20,Gift guides,stocking stuffer games,7 min
+articles3/gift-08-first-dnd-set.md,best-dnd-starter-set-gift,Best D&D Starter Set Gift: Which Box to Give a New Player,Gift guides,D&D starter set gift,8 min
+articles3/gift-09-accessories.md,board-game-accessories-gift-guide,Board Game Accessories Worth Gifting: Sleeves to Mats,Gift guides,board game accessories,8 min
+articles3/gift-10-teens.md,board-games-for-teenagers-gift,Board Games for Teenagers: 11 Gifts They Won't Mock,Gift guides,board games for teenagers,8 min
+articles3/gloss-01-meeple.md,what-is-a-meeple,"What Is a Meeple? The Word, the Shape, and Its Origin",Glossary,what is a meeple,7 min
+articles3/gloss-02-euro-vs-ameritrash.md,euro-games-vs-ameritrash,Euro Games vs Ameritrash: What the Labels Mean,Glossary,eurogame vs ameritrash,7 min
+articles3/gloss-03-kingmaking.md,kingmaking-board-games,Kingmaking in Board Games: Why Losers Pick the Winner,Glossary,kingmaking,7 min
+articles3/gloss-04-drafting.md,card-drafting-explained,"Card Drafting Explained: Pick, Pass, and Signal",Glossary,card drafting,7 min
+articles3/gloss-05-engine-building.md,engine-building-games,Engine Building Games: What the Term Means,Glossary,engine building games,7 min
+articles3/gloss-06-tableau.md,tableau-board-games,What Is a Tableau in Board Games? A Plain Explainer,Glossary,tableau board game,6 min
+articles3/gloss-07-rondel.md,rondel-mechanic,The Rondel Mechanic: Every Turn a Timing Puzzle,Glossary,rondel mechanic,6 min
+articles3/gloss-08-weight.md,board-game-weight-explained,Board Game Weight Explained: What a 2.5 Means,Glossary,board game weight,7 min
+articles3/gloss-09-take-that.md,take-that-games,Take-That Games: Direct Attacks and Why They Divide,Glossary,take that board games,7 min
+articles3/gloss-10-area-majority.md,area-majority-vs-area-control,Area Majority vs Area Control: The Difference,Glossary,area majority,7 min
+articles3/indy-01-game-stores.md,indianapolis-board-game-stores,Board Game Stores in Indianapolis by Neighborhood,Indianapolis,board game stores Indianapolis,7 min
+articles3/indy-02-dnd-carmel-fishers.md,dnd-groups-carmel-fishers,"D&D in Carmel, Fishers, and Westfield: Where to Play",Indianapolis,D&D Carmel Indiana,7 min
+articles3/indy-03-magic-indy.md,where-to-play-magic-indianapolis,Magic: The Gathering in Indianapolis: Where to Play,Indianapolis,Magic the Gathering Indianapolis,7 min
+articles3/indy-04-gen-con-first-timer.md,gen-con-first-timer-guide,Gen Con for First-Timers: What to Know Before You Go,Indianapolis,Gen Con first time,8 min
+articles3/indy-05-gen-con-survival.md,gen-con-survival-guide,"Gen Con Survival Guide: Food, Feet, Sleep, Exhibit Hall",Indianapolis,Gen Con survival guide,7 min
+articles3/indy-06-gen-con-locals.md,gen-con-tips-for-locals,Gen Con for Locals: Enjoy It Without a Badge,Indianapolis,Gen Con Indianapolis locals,7 min
+articles3/indy-07-game-nights-calendar.md,indianapolis-game-nights,Game Night in Indianapolis: A Weekly Public Guide,Indianapolis,game night Indianapolis,7 min
+articles3/indy-08-family-game-cafes.md,family-friendly-game-cafes-indianapolis,Family Game Cafes in Indianapolis: Where to Play,Indianapolis,family game cafe Indianapolis,7 min
+articles3/indy-09-date-night.md,board-game-date-night-indianapolis,Board Game Date Night in Indianapolis: Where to Go,Indianapolis,date night Indianapolis board games,7 min
+articles3/indy-10-hamilton-county.md,hamilton-county-tabletop-scene,"Hamilton County, Indiana Board Games: The Local Scene",Indianapolis,Hamilton County Indiana board games,7 min
+articles3/long-01-90-year-old.md,game-night-at-90,Games for 90 Year Olds: What a Real Game Night Looks Like,Play and longevity,games for 90 year olds,7 min
+articles3/long-02-lifelong-practice.md,play-as-a-lifelong-practice,"Lifelong Play: Why Play Is a Practice, Not a Phase",Play and longevity,lifelong play,7 min
+articles3/long-03-cognitive-reserve.md,cognitive-reserve-and-games,Cognitive Reserve: What It Is and Whether Games Build It,Play and longevity,cognitive reserve,8 min
+articles3/long-04-widowhood.md,games-after-losing-a-spouse,Social Activities After Losing a Spouse: Finding a Table,Play and longevity,social activities after losing a spouse,7 min
+articles3/long-05-retirement-communities.md,game-programs-retirement-communities,Retirement Community Activities: Game Programs That Work,Play and longevity,retirement community activities,8 min
+articles3/long-06-grandparent-grandchild.md,grandparent-grandchild-games,Grandparent Grandchild Activities: The Game That Bonds,Play and longevity,grandparent grandchild activities,7 min
+articles3/long-07-friendship-decline.md,why-friendships-fade-with-age,"Why Friendships Fade With Age, and the Habit That Fixes It",Play and longevity,friendships fade with age,7 min
+articles3/long-08-play-and-purpose.md,purpose-and-play-in-later-life,Purpose in Retirement: Why Play Belongs in the Second Half,Play and longevity,purpose in retirement,7 min
+articles3/long-09-caregivers.md,games-for-caregivers,Activities for Caregivers: Games for an Hour Off,Play and longevity,activities for caregivers,7 min
+articles3/long-10-lev-institute.md,lev-institute-and-the-ludarium,Longevity and Social Connection: Why LEV Runs a Game Lounge,Play and longevity,longevity and social connection,7 min
+articles3/prog-01-themed-nights.md,themed-game-night-ideas,"12 Themed Game Night Ideas Beyond \""Bring a Game\",Game night programming,themed game night ideas,7 min
+articles3/prog-02-tournament-bracket.md,how-to-run-a-board-game-tournament,How to Run a Board Game Tournament: Brackets and Seeding,Game night programming,board game tournament,8 min
+articles3/prog-03-league.md,board-game-league-format,Board Game League Format: How to Run One for a Season,Game night programming,board game league,7 min
+articles3/prog-04-trivia-night.md,how-to-host-trivia-night,How to Host Trivia Night People Actually Come Back To,Game night programming,how to host trivia night,8 min
+articles3/prog-05-puzzle-night.md,puzzle-night-ideas,"Puzzle Night Ideas: Jigsaws, Escape Boxes, Mixed Groups",Game night programming,puzzle night,7 min
+articles3/prog-06-forty-people.md,large-group-game-night,Large Group Game Night: How to Run One for 40 People,Game night programming,large group game night,8 min
+articles3/prog-07-learn-to-play.md,learn-to-play-events,Learn to Play Event: Teaching One Game to a Whole Room,Game night programming,learn to play event,7 min
+articles3/prog-08-rpg-drop-in.md,drop-in-rpg-night,Drop-In D&D Nights: Running One-Shots for Strangers,Game night programming,drop in D&D,8 min
+articles3/prog-09-kids-afternoon.md,kids-game-afternoon-program,Kids Board Game Event: A Game Afternoon Parents Love,Game night programming,kids board game event,7 min
+articles3/prog-10-seasonal-calendar.md,game-night-calendar-year,Game Night Calendar: A Full Year of Seasonal Programming,Game night programming,game night calendar,8 min
+articles3/strat-01-catan.md,how-to-win-at-catan,"How to Win at Catan: Placement, Trading, Reading the Table",Strategy guides,how to win at Catan,8 min
+articles3/strat-02-ticket-to-ride.md,ticket-to-ride-strategy,"Ticket to Ride Strategy: Routes, Blocking, Drawing Tickets",Strategy guides,Ticket to Ride strategy,8 min
+articles3/strat-03-wingspan.md,wingspan-strategy,Wingspan Strategy for Players Who Keep Losing by Ten,Strategy guides,Wingspan strategy,8 min
+articles3/strat-04-codenames.md,codenames-clue-tips,Codenames Clue Tips: Clues That Don't Get Your Team Killed,Strategy guides,Codenames tips,7 min
+articles3/strat-05-azul.md,azul-strategy,"Azul Strategy: Column Pressure, Floor Line Math, Denial",Strategy guides,Azul strategy,8 min
+articles3/strat-06-pandemic.md,pandemic-strategy,Pandemic Strategy: Beating the Game on Heroic Difficulty,Strategy guides,Pandemic board game strategy,8 min
+articles3/strat-07-7-wonders.md,7-wonders-strategy,"7 Wonders Strategy: Drafting, Neighbors, the Science Trap",Strategy guides,7 Wonders strategy,8 min
+articles3/strat-08-dominion.md,dominion-strategy-beginners,Dominion Strategy for Beginners: Big Money and Beyond,Strategy guides,Dominion strategy,8 min
+articles3/strat-09-carcassonne.md,carcassonne-strategy,"Carcassonne Strategy: Farmers, Cities, and Tile Odds",Strategy guides,Carcassonne strategy,8 min
+articles3/strat-10-splendor.md,splendor-strategy,"Splendor Strategy: The Engine, the Nobles, and Tempo",Strategy guides,Splendor strategy,8 min
+articles4/cube-01-archetypes.md,cube-archetypes-explained,Cube Archetypes Explained: The Ten Two-Color Lanes,Cube Commonwealth,cube archetypes,8 min
+articles4/cube-02-first-cube-list.md,cube-card-selection,"Cube Card Selection: Power, Role, and Fun",Cube Commonwealth,cube card selection,8 min
+articles4/cube-03-aggro-support.md,aggro-in-cube,Aggro in Cube: Why It Dies and How to Keep It Alive,Cube Commonwealth,aggro cube,8 min
+articles4/cube-04-fixing.md,cube-mana-fixing,"Cube Mana Fixing: How Much, Which Kind, Where",Cube Commonwealth,cube mana fixing,8 min
+articles4/cube-05-updating.md,how-to-update-a-cube,How to Update a Cube Without Breaking It,Cube Commonwealth,cube update,7 min
+articles4/cube-06-two-player.md,two-player-cube-formats,"Winston Draft, Grid, and Winchester: Two-Player Cube",Cube Commonwealth,Winston draft,8 min
+articles4/cube-07-sealed-and-rotisserie.md,cube-sealed-rotisserie,"Rotisserie Draft, Cube Sealed, and Team Cube Formats",Cube Commonwealth,rotisserie draft,8 min
+articles4/cube-08-themed-cubes.md,themed-cube-ideas,"Themed Cube Ideas: Set Cubes, Tribal Cubes, and More",Cube Commonwealth,themed cube,8 min
+articles4/cube-09-sleeves-storage.md,cube-sleeves-and-storage,Cube Sleeves and Storage: What Lasts Through Weekly Play,Cube Commonwealth,cube sleeves,7 min
+articles4/cube-10-cubecobra.md,cubecobra-guide,"CubeCobra Guide: Listing, Testing, and Sharing a Cube",Cube Commonwealth,CubeCobra,8 min
+articles4/cube-11-eight-players.md,how-to-get-eight-players-for-a-draft,Cube Draft Attendance: How to Get Eight Players Weekly,Cube Commonwealth,cube draft attendance,7 min
+articles4/cube-12-pod-logistics.md,running-two-draft-pods,"Draft Pod Logistics: 16 Players, Two Pods, One Host",Cube Commonwealth,draft pod logistics,7 min
+articles4/cube-13-pairings.md,draft-pairings-and-records,Cube Draft Pairings and Records Without the Tournament Feel,Cube Commonwealth,cube draft pairings,6 min
+articles4/cube-14-new-player-night.md,cube-for-new-magic-players,Learn Magic With a Cube: Our New-Player Night,Cube Commonwealth,learn Magic with cube,7 min
+articles4/cube-15-discord-setup.md,discord-setup-for-a-game-group,"Discord for a Game Group: Channels, Roles, Weekly Post",Cube Commonwealth,Discord game group,7 min
+articles4/cube-16-venue.md,where-to-host-a-cube-draft,"Where to Host a Draft: Stores, Breweries, Libraries, Homes",Cube Commonwealth,where to host a draft,7 min
+articles4/cube-17-community-cube.md,community-owned-cube,The Community Cube: Letting Members Shape the List,Cube Commonwealth,community cube,6 min
+articles4/cube-18-cube-league.md,cube-league-format,Cube League Format That Doesn't Punish Missing a Week,Cube Commonwealth,cube league,6 min
+articles4/cube-19-relaunch.md,relaunching-a-game-community,How to Relaunch a Game Group After It Went Quiet,Cube Commonwealth,relaunch game group,8 min
+articles4/cube-20-indianapolis-cube.md,cube-draft-indianapolis,Cube Draft Indianapolis: Cube Commonwealth and How to Join,Cube Commonwealth,cube draft Indianapolis,7 min
+articles5/t1-01-weekend-cube.md,build-a-cube-in-a-weekend,Build a Cube Fast: A Draftable Cube in One Weekend,Cube Commonwealth,build a cube fast,8 min
+articles5/t1-02-from-your-collection.md,cube-from-your-collection,Cube From Collection: Build With Cards You Already Own,Cube Commonwealth,cube from collection,8 min
+articles5/t1-03-color-balance.md,cube-color-balance,Cube Color Balance: Counts That Keep Every Color Open,Cube Commonwealth,cube color balance,8 min
+articles5/t1-04-mana-curve.md,cube-mana-curve,Cube Mana Curve: Why Two-Drops Decide Everything,Cube Commonwealth,cube mana curve,8 min
+articles5/t1-05-removal-suite.md,cube-removal-suite,"Cube Removal: How Much a Cube Needs, and Which Kinds",Cube Commonwealth,cube removal,8 min
+articles5/t1-06-creatures-vs-spells.md,cube-creature-count,Cube Creature Count: Getting Creatures vs Spells Right,Cube Commonwealth,cube creature count,8 min
+articles5/t1-07-first-draft-test.md,first-cube-draft-test,Cube First Draft: What to Watch and What to Fix After,Cube Commonwealth,cube first draft,8 min
+articles5/t1-08-budget-under-200.md,budget-cube-under-200,Budget Cube Under $200 That Plays Like Vintage,Cube Commonwealth,budget cube,8 min
+articles5/t1-09-common-mistakes.md,cube-building-mistakes,Cube Building Mistakes: Ten Every First Cube Makes,Cube Commonwealth,cube building mistakes,8 min
+articles5/t1-10-what-to-cut.md,cube-what-to-cut,Cube Cuts: Trimming a Cube From 600 Cards to 540,Cube Commonwealth,cube cuts,8 min
+articles5/t10-01-how-vintage-cube-updates-work.md,how-mtgo-vintage-cube-updates-work,How MTGO Vintage Cube Updates Work (2026 Cadence),Cube Commonwealth,Vintage Cube update,7 min
+articles5/t10-02-latest-update.md,mtgo-vintage-cube-latest-changes,"Vintage Cube Changes, October 2026: All 35 Swaps",Cube Commonwealth,Vintage Cube changes,8 min
+articles5/t10-03-what-paper-cubes-should-copy.md,vintage-cube-changes-for-paper,Vintage Cube Changes Worth Copying in Paper,Cube Commonwealth,Vintage Cube paper,7 min
+articles5/t10-04-archetypes-in-vintage-cube.md,vintage-cube-archetypes,Vintage Cube Archetypes Right Now (October 2026),Cube Commonwealth,Vintage Cube archetypes,8 min
+articles5/t10-05-drafting-vintage-cube.md,how-to-draft-vintage-cube,"How to Draft Vintage Cube: Power, Lanes, Discipline",Cube Commonwealth,draft Vintage Cube,8 min
+articles5/t10-06-vintage-cube-controversies.md,vintage-cube-controversies,Vintage Cube Controversies: The Arguments That Last,Cube Commonwealth,Vintage Cube controversy,8 min
+articles5/t10-07-cards-that-left.md,cards-cut-from-vintage-cube,Vintage Cube Cuts in 2026: Did They Deserve It?,Cube Commonwealth,Vintage Cube cuts,8 min
+articles5/t10-08-vintage-cube-schedule.md,when-is-vintage-cube-on-mtgo,When Is Vintage Cube on MTGO? 2026 Schedule,Cube Commonwealth,Vintage Cube schedule,7 min
+articles5/t10-09-tracking-tools.md,track-cube-changes-tools,"Track Cube Changes: CubeCobra, Diffs, and Lists",Cube Commonwealth,track cube changes,7 min
+articles5/t10-10-our-reference-cubes.md,reference-cubes-we-follow,Reference Cubes We Follow and Why (2026 List),Cube Commonwealth,reference cubes,7 min
+articles5/t2-01-360-vs-540.md,360-vs-540-cube,360 vs 540 Cube: Which Size Fits Your Group,Cube Commonwealth,360 vs 540 cube,8 min
+articles5/t2-02-180-mini-cube.md,180-card-cube,180 Card Cube: Drafting With Four Players,Cube Commonwealth,180 card cube,8 min
+articles5/t2-03-720-and-beyond.md,720-card-cube,720 Card Cube: When a Big Cube Helps and Hurts,Cube Commonwealth,720 card cube,8 min
+articles5/t2-04-sections-and-slots.md,cube-sections-and-slots,Cube Slot Design: Sections and the Spreadsheet,Cube Commonwealth,cube slot design,8 min
+articles5/t2-05-gold-and-colorless.md,cube-gold-section,Cube Gold Section: How Big Should It Be?,Cube Commonwealth,cube gold section,8 min
+articles5/t2-06-land-count.md,cube-land-count,"Cube Land Count: Fixing, Utility Lands, Basics",Cube Commonwealth,cube land count,8 min
+articles5/t2-07-pack-size.md,cube-pack-size,"Cube Pack Size: 15-Card Packs, 45 Picks, the Math",Cube Commonwealth,cube pack size,8 min
+articles5/t2-08-expanding.md,expanding-a-cube,Expand a Cube Without Diluting It: 360 to 540,Cube Commonwealth,expand a cube,8 min
+articles5/t2-09-shrinking.md,shrinking-a-cube,Shrink a Cube: The Case for 450 Cards,Cube Commonwealth,shrink a cube,8 min
+articles5/t2-10-modular-cube.md,modular-cube-design,Modular Cube Design: Swappable Sections,Cube Commonwealth,modular cube,8 min
+articles5/t3-01-how-to-read-a-set.md,how-to-evaluate-new-cards-for-cube,How to Evaluate New Cards for Cube: A Working Method,Cube Commonwealth,evaluate cards for cube,7 min
+articles5/t3-02-set-review-template.md,cube-set-review-method,"Cube Set Review Method: Slot, Test, Keep or Cut",Cube Commonwealth,cube set review,7 min
+articles5/t3-03-cube-set-review-reality-fracture.md,cube-set-review-reality-fracture,"Reality Fracture Cube Review: Walkers, Phoenix, Goyf",Cube Commonwealth,Reality Fracture cube review,8 min
+articles5/t3-04-cube-set-review-the-hobbit.md,cube-set-review-the-hobbit,"The Hobbit Cube Review: Smaug, Bilbo, and Dwarf Equipment",Cube Commonwealth,The Hobbit cube,8 min
+articles5/t3-05-cube-set-review-marvel-super-heroes.md,cube-set-review-marvel-super-heroes,"Marvel Super Heroes Cube Review: Mind Stone, Loki, Vision",Cube Commonwealth,Marvel Super Heroes cube,8 min
+articles5/t3-06-cube-set-review-secrets-of-strixhaven.md,cube-set-review-secrets-of-strixhaven,"Secrets of Strixhaven Cube Review: Erode, Emeritus, Bolt",Cube Commonwealth,Secrets of Strixhaven cube,8 min
+articles5/t3-07-cube-set-review-teenage-mutant-ninja-turtles.md,cube-set-review-teenage-mutant-ninja-turtles,"TMNT Cube Review: Sneak, Super Shredder, Casey Jones",Cube Commonwealth,Teenage Mutant Ninja Turtles cube,7 min
+articles5/t3-08-cube-set-review-lorwyn-eclipsed.md,cube-set-review-lorwyn-eclipsed,"Lorwyn Eclipsed Cube Review: Bloom Tender, Oko, Shocks",Cube Commonwealth,Lorwyn Eclipsed cube,8 min
+articles5/t3-09-year-in-cube.md,best-new-cube-cards-of-the-year,Best Cube Cards This Year: Our Keeps From Six Sets,Cube Commonwealth,best cube cards this year,8 min
+articles5/t3-10-supplemental-sets.md,supplemental-sets-for-cube,"Commander Cards in Cube: Supplemental Sets, Masters, UB",Cube Commonwealth,Commander cards in cube,8 min
+articles5/t4-01-power-tiers.md,cube-power-levels-explained,Cube Power Levels Explained: Vintage to Pauper,Cube Commonwealth,cube power level,8 min
+articles5/t4-02-too-strong-unpowered.md,cards-too-strong-for-unpowered-cube,Cards Too Strong for an Unpowered Cube,Cube Commonwealth,too strong for cube,8 min
+articles5/t4-03-fast-mana.md,fast-mana-in-cube,"Fast Mana in Cube: Moxen, Rituals, and the Line",Cube Commonwealth,fast mana cube,8 min
+articles5/t4-04-combo.md,combo-in-cube,"Combo in Cube: Supported, Tolerated, or Banned?",Cube Commonwealth,combo in cube,8 min
+articles5/t4-05-planeswalkers.md,planeswalkers-in-cube,Planeswalkers in Cube: How Many Is Too Many?,Cube Commonwealth,planeswalkers in cube,8 min
+articles5/t4-06-free-spells.md,free-spells-in-cube,Free Spells in Cube and Why They Warp a Draft,Cube Commonwealth,free spells cube,8 min
+articles5/t4-07-card-advantage.md,card-advantage-in-cube,Card Advantage in Cube: Keeping Blue Honest,Cube Commonwealth,card advantage cube,8 min
+articles5/t4-08-ban-list.md,cube-ban-list,Does Your Cube Need a Ban List?,Cube Commonwealth,cube ban list,7 min
+articles5/t4-09-power-creep.md,power-creep-and-cube,Power Creep and Cube: What to Do About It,Cube Commonwealth,power creep cube,8 min
+articles5/t4-10-fun-vs-strong.md,fun-cards-vs-strong-cards,Fun Cards vs Strong Cards: The Cube Trade-Off,Cube Commonwealth,fun cards cube,8 min
+articles5/t5-01-what-is-your-cube-for.md,what-is-your-cube-for,What Is Your Cube For? The Question Before Every Card,Cube Commonwealth,cube design philosophy,8 min
+articles5/t5-02-archetype-density.md,archetype-density,Archetype Density: How Many Lanes a Cube Can Support,Cube Commonwealth,cube archetypes count,8 min
+articles5/t5-03-signposts.md,cube-signpost-cards,Signpost Cards: Teaching Drafters What Your Cube Wants,Cube Commonwealth,signpost cards cube,8 min
+articles5/t5-04-interaction.md,interaction-in-cube,Interaction Density and Why Cube Games Feel Good,Cube Commonwealth,cube interaction,8 min
+articles5/t5-05-variance.md,variance-in-cube-design,"Variance Is a Dial, Not a Flaw: Cube Design and Luck",Cube Commonwealth,cube variance,8 min
+articles5/t5-06-nostalgia.md,nostalgia-in-cube,Nostalgia in Cube: Old Cards and Why They Belong,Cube Commonwealth,old cards in cube,8 min
+articles5/t5-07-cube-identity.md,cube-identity,Cube Identity: Giving a Cube Drafters Remember,Cube Commonwealth,cube identity,8 min
+articles5/t5-08-zeitgeist.md,cube-design-trends,Cube Design Trends: How Cubes Changed in Ten Years,Cube Commonwealth,cube design trends,8 min
+articles5/t5-09-the-cube-that-never-finishes.md,cube-is-never-finished,Cube Maintenance: A Cube Is Never Finished,Cube Commonwealth,cube maintenance,8 min
+articles5/t5-10-community-vs-owner.md,cube-owner-vs-community-design,Cube Community Design: Owner's Vision vs Wish List,Cube Commonwealth,cube community design,8 min
+articles5/t6-01-what-goes-in-a-primer.md,how-to-write-a-cube-primer,How to Write a Cube Primer People Actually Read,Cube Commonwealth,cube primer,8 min
+articles5/t6-02-archetype-section.md,cube-primer-archetypes,Cube Primer Archetypes: One Paragraph Per Lane,Cube Commonwealth,cube primer archetypes,8 min
+articles5/t6-03-house-rules.md,cube-house-rules,Cube House Rules Worth Writing Down,Cube Commonwealth,cube house rules,8 min
+articles5/t6-04-changelog.md,cube-changelog,Keeping a Cube Changelog (and Why Drafters Love It),Cube Commonwealth,cube changelog,8 min
+articles5/t6-05-visual-spoiler.md,cube-visual-spoiler,Cube Visual Spoiler: Showing Your Cube at a Glance,Cube Commonwealth,cube visual spoiler,7 min
+articles5/t6-06-draft-guide-for-new-players.md,cube-draft-guide-new-players,Cube Draft Guide: A One-Page Guide for First-Timers,Cube Commonwealth,cube draft guide,8 min
+articles5/t6-07-faq-section.md,cube-primer-faq,The Cube Primer FAQ Every Cube Needs,Cube Commonwealth,cube primer FAQ,7 min
+articles5/t6-08-primer-for-themed-cube.md,themed-cube-primer,Themed Cube Primer: Writing One for a Restricted Cube,Cube Commonwealth,themed cube primer,8 min
+articles5/t6-09-sharing-the-primer.md,sharing-a-cube-primer,"Share a Cube Primer: CubeCobra, Discord, or Print",Cube Commonwealth,share cube primer,7 min
+articles5/t6-10-commonwealth-primer.md,cube-commonwealth-primer,The Cube Commonwealth Primer,Cube Commonwealth,Cube Commonwealth cube,8 min
+articles5/t7-01-rochester.md,rochester-draft-cube,Rochester Draft for Cube: The Open-Information Format,Cube Commonwealth,Rochester draft,8 min
+articles5/t7-02-glimpse.md,glimpse-draft,"Glimpse Draft for Cube: Burn Two, Keep One",Cube Commonwealth,glimpse draft,8 min
+articles5/t7-03-grid-four-players.md,grid-draft-four-players,Grid Draft for Three and Four Players: Full Procedure,Cube Commonwealth,grid draft,8 min
+articles5/t7-04-two-headed-giant.md,two-headed-giant-cube,Two-Headed Giant Cube Draft: Rules and Procedure,Cube Commonwealth,two headed giant cube,8 min
+articles5/t7-05-team-draft.md,team-draft-cube,"3v3 Team Draft for Cube: Rules, Seating, and Scoring",Cube Commonwealth,team draft,8 min
+articles5/t7-06-chaos-and-conspiracy.md,conspiracy-cards-in-cube,Conspiracy Cards in Cube: Cogwork Librarian and Friends,Cube Commonwealth,Conspiracy cube,9 min
+articles5/t7-07-duplicate-voucher.md,duplicate-voucher-system,Duplicate Voucher Cube Rule: Drafting a Second Copy,Cube Commonwealth,duplicate voucher cube,8 min
+articles5/t7-08-pick-timers.md,draft-pick-timers,Draft Timer for Cube: Keep a Draft Under 45 Minutes,Cube Commonwealth,draft timer,8 min
+articles5/t7-09-sideboard-rules.md,cube-sideboard-rules,Cube Sideboard Rules: What Counts and What Doesn't,Cube Commonwealth,cube sideboard,8 min
+articles5/t7-10-house-rules-list.md,cube-house-rules-examples,Cube House Rules Examples: Twelve Worth Borrowing,Cube Commonwealth,cube house rules examples,9 min
+articles5/t8-01-jumpstart-cube.md,jumpstart-cube,"Jumpstart Cube: Pre-Built Packs, 15-Minute Setup",Cube Commonwealth,Jumpstart cube,8 min
+articles5/t8-02-battle-box.md,battle-box-magic,"Battle Box Magic: No Deckbuilding, Just Play",Cube Commonwealth,battle box,8 min
+articles5/t8-03-set-cube.md,set-cube,Set Cube: Recreate a Draft Format Forever,Cube Commonwealth,set cube,8 min
+articles5/t8-04-pauper-cube.md,pauper-cube-guide,"Pauper Cube Guide: Commons Only, Full Depth",Cube Commonwealth,pauper cube,9 min
+articles5/t8-05-peasant-cube.md,peasant-cube,Peasant Cube: The Uncommon Upgrade to Pauper,Cube Commonwealth,peasant cube,8 min
+articles5/t8-06-commander-cube.md,commander-cube,Commander Cube: Drafting Multiplayer Magic,Cube Commonwealth,commander cube,8 min
+articles5/t8-07-tribal-cube.md,tribal-cube,Tribal Cube: Every Deck Has a Creature Type,Cube Commonwealth,tribal cube,8 min
+articles5/t8-08-chaos-cube.md,chaos-cube,Chaos Cube: Embracing the Unfair on Purpose,Cube Commonwealth,chaos cube,8 min
+articles5/t8-09-two-player-battle-decks.md,precon-vs-cube,Precon vs Cube: Which Fits Your Table?,Cube Commonwealth,precon vs cube,8 min
+articles5/t8-10-chrome-cube.md,artifact-cube,Artifact Cube: Building Around One Card Type,Cube Commonwealth,artifact cube,8 min
+articles5/t9-01-mtgo-vintage-cube.md,mtgo-vintage-cube-explained,MTGO Vintage Cube: Why It Sets the Standard,Cube Commonwealth,MTGO Vintage Cube,8 min
+articles5/t9-02-legacy-cube.md,mtgo-legacy-cube,MTGO Legacy Cube: Vintage's Honest Cousin,Cube Commonwealth,Legacy cube,7 min
+articles5/t9-03-pauper-cube-community.md,the-pauper-cube,The Pauper Cube: A Community-Maintained Classic,Cube Commonwealth,the pauper cube,7 min
+articles5/t9-04-lucky-paper-cubes.md,lucky-paper-cube-design,Lucky Paper Cube Design: What It Taught Everyone,Cube Commonwealth,Lucky Paper cube,8 min
+articles5/t9-05-famous-themed-cubes.md,famous-themed-cubes,Five Famous Themed Cubes and What They Prove,Cube Commonwealth,famous cubes,8 min
+articles5/t9-06-how-to-read-a-cube-list.md,how-to-read-a-cube-list,How to Read a Cube List in Ten Minutes,Cube Commonwealth,read a cube list,7 min
+articles5/t9-07-steal-this.md,ideas-to-borrow-from-great-cubes,Ten Cube Design Ideas Worth Borrowing,Cube Commonwealth,cube design ideas,7 min
+articles5/t9-08-member-spotlight-template.md,cube-spotlight-template,Cube Spotlight Template: Profile a Member's Cube,Cube Commonwealth,cube spotlight,7 min
+articles5/t9-09-designer-interview-questions.md,cube-designer-interview-questions,Cube Designer Interview: 20 Questions to Ask,Cube Commonwealth,cube designer interview,7 min
+articles5/t9-10-commonwealth-cube-history.md,cube-commonwealth-cube-history,Cube Commonwealth History: Where Our Cube Came From,Cube Commonwealth,Cube Commonwealth history,7 min
+hubs/building-the-ludarium.md,building-the-ludarium,Building The Ludarium: A Game Lounge in Public,hub,game lounge business,
+hubs/comparisons.md,comparisons,Board Game Comparisons: Which One to Buy,hub,board game comparison,
+hubs/conventions.md,conventions,Gen Con and Board Game Conventions: Guides,hub,Gen Con guide,
+hubs/cooperative-and-campaign-games.md,cooperative-and-campaign-games,Cooperative and Campaign Board Games: A Guide,hub,cooperative board games,
+hubs/cube-commonwealth-community.md,cube-commonwealth-community,Cube Commonwealth: Indianapolis Cube Draft Community,hub,Cube Commonwealth,6 min
+hubs/family-and-intergenerational-play.md,family-and-intergenerational-play,Family Board Games and Intergenerational Play,hub,family board games,
+hubs/game-night-programming.md,game-night-programming,"Game Night Programming: Themes, Leagues, Events",hub,game night ideas,
+hubs/games-for-the-workplace.md,games-for-the-workplace,Team Building Board Games and Workplace Play,hub,team building board games,
+hubs/gift-guides.md,gift-guides,Board Game Gift Guides: Picks People Play,hub,board game gifts,
+hubs/glossary.md,glossary,Board Game Glossary: Terms Explained Plainly,hub,board game terms,
+hubs/hosting-and-game-night-craft.md,hosting-and-game-night-craft,How to Host a Game Night: The Ludarium Guide,hub,how to host a game night,
+hubs/indianapolis.md,indianapolis,"Indianapolis Board Games: Stores, Nights, Gen Con",hub,board games Indianapolis,
+hubs/lounges-and-third-places.md,lounges-and-third-places,Game Lounges and Third Places: The Ludarium Guide,hub,game lounge,
+hubs/magic-the-gathering-and-cube.md,magic-the-gathering-and-cube,Magic: The Gathering and Cube Draft: A Guide,hub,MTG cube,
+hubs/play-and-health.md,play-and-health,Play and Health: Why Games Are Good for You,hub,benefits of playing board games,
+hubs/play-and-longevity.md,play-and-longevity,Play and Longevity: Games Across a Long Life,hub,lifelong play,
+hubs/strategy-guides.md,strategy-guides,Board Game Strategy Guides: Win More Often,hub,board game strategy,
+hubs/tabletop-game-design.md,tabletop-game-design,"Tabletop Game Design: Mechanics, Prototyping, Pitching",hub,tabletop game design,
+hubs/tabletop-rpgs-for-beginners.md,tabletop-rpgs-for-beginners,Tabletop RPGs for Beginners: Start Here,hub,tabletop RPGs for beginners,
+hubs/what-to-play.md,what-to-play,What to Play: Curated Board Game Picks,hub,best board games,
+hubs/who-its-for.md,who-its-for,Board Games by Who Is Playing: Guides by Audience,hub,board games for,

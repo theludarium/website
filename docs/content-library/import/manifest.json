@@ -1,0 +1,2382 @@
+[
+ {
+  "src": "articles/design-01-five-minute-teach.md",
+  "slug": "how-to-teach-a-board-game-in-five-minutes",
+  "title": "How to Teach a Board Game in Five Minutes",
+  "description": "How to teach a board game in five minutes: start with the goal, walk through one turn, then save the exceptions. A simple order that gets friends playing fast.",
+  "category": "Game Design"
+ },
+ {
+  "src": "articles/design-02-worker-placement.md",
+  "slug": "worker-placement-explained",
+  "title": "Worker Placement Board Games, Explained With One Game",
+  "description": "Worker placement board games explained through Lords of Waterdeep: how blocking, scarce spaces, and pressure make every pick matter, and why players love it.",
+  "category": "Game Design"
+ },
+ {
+  "src": "articles/design-03-comeback.md",
+  "slug": "catch-up-mechanics-board-games",
+  "title": "Catch-Up Mechanics in Board Games: Designing the Comeback",
+  "description": "Catch-up mechanics in board games keep the ending in doubt without punishing the leader. How Mario Kart and Power Grid do it, and how to design a comeback.",
+  "category": "Game Design"
+ },
+ {
+  "src": "articles/design-04-luck-vs-skill.md",
+  "slug": "luck-vs-skill-board-games",
+  "title": "Luck vs Skill in Board Games: Why the Best Ones Last",
+  "description": "Luck vs skill in board games is the wrong fight. The games that last for decades let luck set the problem and skill solve it. Here is how that balance works.",
+  "category": "Game Design"
+ },
+ {
+  "src": "articles/design-05-playtesting.md",
+  "slug": "how-to-playtest-a-board-game",
+  "title": "How to Playtest a Board Game Without Fooling Yourself",
+  "description": "How to playtest a board game and hear the truth: watch what the table does, not what it says. A method for reading player behavior and fixing what matters.",
+  "category": "Game Design"
+ },
+ {
+  "src": "articles/design-06-social-deduction.md",
+  "slug": "why-social-deduction-games-work",
+  "title": "Why Social Deduction Games Work: Hidden Roles and Good Lies",
+  "description": "Why social deduction games like Werewolf and Avalon turn a quiet room loud in minutes. The hidden-role design and the psychology of a good lie, explained.",
+  "category": "Game Design"
+ },
+ {
+  "src": "articles/design-07-box-lies.md",
+  "slug": "board-game-play-time-accuracy",
+  "title": "Board Game Play Time: Why the Box Lies and What to Do",
+  "description": "Board game play time on the box rarely matches your table. Learn why the number runs short, how to estimate a real session, and why accurate times matter.",
+  "category": "Game Design"
+ },
+ {
+  "src": "articles/design-08-quarterback-problem.md",
+  "slug": "quarterback-problem-cooperative-games",
+  "title": "The Quarterback Problem in Cooperative Games, and Its Fixes",
+  "description": "The quarterback problem in cooperative games lets one player run the whole table. Why it happens, and the design tricks that give everyone a voice again.",
+  "category": "Game Design"
+ },
+ {
+  "src": "articles/design-09-table-presence.md",
+  "slug": "board-game-components-table-presence",
+  "title": "Board Game Components: Table Presence as Marketing",
+  "description": "Board game components do more than work. They sell the game from across the room. What table presence means, and how designers build pieces you want to touch.",
+  "category": "Game Design"
+ },
+ {
+  "src": "articles/design-10-weekend-prototype.md",
+  "slug": "how-to-prototype-a-board-game",
+  "title": "How to Prototype a Board Game in One Weekend",
+  "description": "How to prototype a board game in one weekend with index cards and a Sharpie. A step-by-step plan that takes you from a rough idea to a first playable copy.",
+  "category": "Game Design"
+ },
+ {
+  "src": "articles/social-01-loneliness-cure.md",
+  "slug": "loneliness-cure-board-games",
+  "title": "Board Games and Loneliness: A Cheap Cure in a Box",
+  "description": "Board games and loneliness are closer than you think. The public-health case for a weekly game night, why it works, and simple steps to start one of your own.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles/social-02-men-friendship.md",
+  "slug": "how-men-make-friends-board-games",
+  "title": "How to Make Friends as an Adult Man: Start Side by Side",
+  "description": "How to make friends as an adult man: men bond shoulder to shoulder, not face to face. Why a game table is the easy on-ramp to friendship, and how to find one.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles/social-03-phone-basket.md",
+  "slug": "phone-free-game-night",
+  "title": "Phone-Free Game Night: The Phone Basket Rule",
+  "description": "A phone-free game night changes everything about how people play and talk. Here is the phone basket rule, how to introduce it, and what you will notice.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles/social-04-teenagers.md",
+  "slug": "board-games-with-teenagers",
+  "title": "Board Games for Teenagers and Parents: Neutral Ground",
+  "description": "Board games for teenagers and parents give you something to do besides talk. How to pick the right games and play with your teen without it feeling weird.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles/social-05-four-generations.md",
+  "slug": "multigenerational-board-games",
+  "title": "Board Games for All Ages: Four Generations, One Table",
+  "description": "Board games for all ages that work from 7 to 77 at one table. Our picks for four generations playing together, and why mixed-age play is good for everyone.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles/social-06-standing-game-night.md",
+  "slug": "how-to-start-a-game-night-group",
+  "title": "How to Start a Board Game Group That Lasts",
+  "description": "How to start a board game group that still meets a year later: pick a fixed night, favor frequency over intensity, and use five rules that keep the table full.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles/social-07-good-loser.md",
+  "slug": "how-to-be-a-good-loser",
+  "title": "How to Be a Good Loser at Games (and Why It Matters)",
+  "description": "How to be a good loser at games: a practical guide to losing with grace at the table, what to say when it stings, and why the habit pays off everywhere else.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles/social-08-new-city.md",
+  "slug": "make-friends-in-a-new-city-board-games",
+  "title": "How to Make Friends in a New City: Start at a Game Table",
+  "description": "How to make friends in a new city knowing nobody. Why board games are the fastest route to a real local circle, plus a 90-day plan to build one from scratch.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles/social-09-team-offsite.md",
+  "slug": "board-games-team-building",
+  "title": "Board Games for Team Building: Why Your Offsite Needs Them",
+  "description": "Board games for team building beat trust falls and escape rooms. See what a game table reveals about trust, communication, and leadership, and how to use it.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles/social-10-memory-dividend.md",
+  "slug": "why-game-night-memories-last",
+  "title": "Benefits of Playing Board Games With Friends",
+  "description": "The benefits of playing board games with friends outlast the game. Why shared play creates the stories your group retells for decades, and how to make more.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles2/coop-01-best-cooperative.md",
+  "slug": "best-cooperative-board-games",
+  "title": "15 Best Cooperative Board Games for Groups Who Hate Losing",
+  "description": "The best cooperative board games for groups who hate losing to each other. 15 picks from Pandemic to The Crew, sorted by player count, length, and difficulty.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles2/coop-02-pandemic.md",
+  "slug": "pandemic-board-game-explained",
+  "title": "Pandemic Board Game Explained: Why It Still Works",
+  "description": "The Pandemic board game explained in plain language: how it plays, why it was the first great co-op, and whether it still belongs on your table in 2026.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles2/coop-03-legacy.md",
+  "slug": "legacy-board-games-explained",
+  "title": "Legacy Board Games Explained: Games That Change Forever",
+  "description": "Legacy board games explained: what happens when you tear up cards and sticker the board, which legacy games are worth it, and how to keep a group together.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles2/coop-04-gloomhaven.md",
+  "slug": "is-gloomhaven-worth-it",
+  "title": "Is Gloomhaven Worth It? An Honest Guide for Busy Adults",
+  "description": "Is Gloomhaven worth it if you have a job, kids, and three free evenings a month? A plain guide to the time, money, group you need, and the alternatives.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles2/coop-05-missed-session.md",
+  "slug": "campaign-game-missed-session",
+  "title": "Campaign Board Game Missed Session: How to Keep Going",
+  "description": "A campaign board game missed session does not have to stall your group. Rules for playing without someone, catching them up, and keeping the story alive.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles2/coop-06-the-crew.md",
+  "slug": "the-crew-card-game",
+  "title": "The Crew Card Game: The Best Teaching Game Ever Made",
+  "description": "The Crew card game is a cooperative trick-taker with almost no talking. Here is how it plays, why it teaches teamwork so well, and which version to buy.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles2/coop-07-no-quarterback.md",
+  "slug": "co-op-games-without-quarterback-problem",
+  "title": "Co-op Games Without a Quarterback Problem: 12 Picks",
+  "description": "Cooperative games with hidden information stop one player from running the table. Twelve co-ops where everyone has to think, and why the design works.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles2/coop-08-semi-coop.md",
+  "slug": "semi-cooperative-board-games",
+  "title": "Semi-Cooperative Board Games: When One of You Is Lying",
+  "description": "Semi-cooperative board games put a traitor or a selfish goal inside the team. How they work, why they can wreck a table, and the ones that get it right.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles2/coop-09-two-player.md",
+  "slug": "two-player-cooperative-board-games",
+  "title": "Two Player Cooperative Board Games for Couples: 12 Picks",
+  "description": "Two player cooperative board games that keep couples on the same side. Twelve picks from 15-minute card games to long campaigns, and who each one fits.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles2/coop-10-teamwork.md",
+  "slug": "cooperative-games-teamwork",
+  "title": "Cooperative Games and Teamwork: What Meetings Never Teach",
+  "description": "Cooperative games teach teamwork faster than meetings because failure is cheap and immediate. What Pandemic, The Crew, and Hanabi show a team about itself.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles2/design2-01-deck-building.md",
+  "slug": "deck-building-games-explained",
+  "title": "Deck Building Games Explained: Dominion and After",
+  "description": "How deck building games work, why Dominion started it, and what designers learned in the years since. A plain guide for players and would-be designers.",
+  "category": "Game Design"
+ },
+ {
+  "src": "articles2/design2-02-area-control.md",
+  "slug": "area-control-board-games",
+  "title": "Area Control Board Games Without the Bloodbath",
+  "description": "Area control board games can be tense without being cruel. How El Grande, Risk, and Blood Rage handle conflict, and how to design fights people enjoy.",
+  "category": "Game Design"
+ },
+ {
+  "src": "articles2/design2-03-rulebook.md",
+  "slug": "how-to-write-a-board-game-rulebook",
+  "title": "How to Write a Board Game Rulebook People Will Read",
+  "description": "How to write a board game rulebook that teaches cleanly: structure, order, examples, edge cases, and the tests that catch confusion before game night.",
+  "category": "Game Design"
+ },
+ {
+  "src": "articles2/design2-04-print-and-play.md",
+  "slug": "print-and-play-board-games",
+  "title": "Print and Play Board Games: Test for the Cost of Paper",
+  "description": "Print and play board games let designers test and share a game for the cost of paper. How to make one, where to find them, and what the format teaches.",
+  "category": "Game Design"
+ },
+ {
+  "src": "articles2/design2-05-kickstarter.md",
+  "slug": "kickstarter-board-game",
+  "title": "Kickstarter Board Game Campaigns: A Sober Look",
+  "description": "Should you run a Kickstarter board game campaign? What crowdfunding really costs in money, time, and risk, and the alternatives new designers overlook.",
+  "category": "Game Design"
+ },
+ {
+  "src": "articles2/design2-06-fair-math.md",
+  "slug": "board-game-balance-math",
+  "title": "Board Game Balance Math: Distribution, Variance, Feel",
+  "description": "Board game balance math for designers who are not mathematicians. How card distribution, dice variance, and point curves shape whether a game feels fair.",
+  "category": "Game Design"
+ },
+ {
+  "src": "articles2/design2-07-theme-vs-mechanics.md",
+  "slug": "theme-vs-mechanics",
+  "title": "Theme vs Mechanics in Board Game Design: Which First?",
+  "description": "Theme vs mechanics in board game design is a false fight. How Pandemic, Azul, and Root really began, and how to choose the right starting point for yours.",
+  "category": "Game Design"
+ },
+ {
+  "src": "articles2/design2-08-player-count.md",
+  "slug": "player-count-design",
+  "title": "Player Count Design: Build for the Table You Really Have",
+  "description": "Player count design is where many prototypes fail. Why games built for four break at three or five, how 7 Wonders and Catan scale, and how to scale yours.",
+  "category": "Game Design"
+ },
+ {
+  "src": "articles2/design2-09-roll-and-write.md",
+  "slug": "roll-and-write-games",
+  "title": "Roll and Write Games: Why the Simplest Format Is Hardest",
+  "description": "Roll and write games look easy to design and are not. What Yahtzee, Ganz Sch\u00f6n Clever, and Welcome To... get right, and how to design a sheet worth it.",
+  "category": "Game Design"
+ },
+ {
+  "src": "articles2/design2-10-pitch-publisher.md",
+  "slug": "how-to-pitch-a-board-game",
+  "title": "How to Pitch a Board Game to a Publisher",
+  "description": "How to pitch a board game to a publisher: the sell sheet, the short video, finding the right company, the meeting, and the contract terms that come after it.",
+  "category": "Game Design"
+ },
+ {
+  "src": "articles2/family-01-tired-of-monopoly.md",
+  "slug": "best-family-board-games",
+  "title": "Best Family Board Games for People Tired of Monopoly",
+  "description": "The best family board games for households done with Monopoly. Twelve picks with age ranges and play times, and how to pick one your kids ask for again.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles2/family-02-five-year-olds.md",
+  "slug": "board-games-for-5-year-olds",
+  "title": "Board Games for 5-Year-Olds That Adults Will Enjoy Too",
+  "description": "Board games for 5 year olds that a grown-up can play without faking it. Ten real picks with play times, what a five-year-old can handle, and what to skip.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles2/family-03-teach-kids-to-lose.md",
+  "slug": "teaching-kids-to-lose-at-games",
+  "title": "Teaching Kids to Lose at Games (and Win) Gracefully",
+  "description": "Teaching kids to lose at games without tears or tantrums. What to say, which games to pick, and how to make winning gracefully part of the lesson too.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles2/family-04-screen-free-saturday.md",
+  "slug": "screen-free-family-game-habit",
+  "title": "Screen-Free Saturday: Build a Family Game Habit",
+  "description": "Screen free family activities that stick: how to build a weekly family game habit, which games to start with, and the simple house rules that keep it going.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles2/family-05-grandparents.md",
+  "slug": "games-to-play-with-grandparents",
+  "title": "Games to Play With Grandparents Who Don't Play Games",
+  "description": "Games to play with grandparents who say they don't play games. Ten picks that work across sixty years of age, and how to get a reluctant one to the table.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles2/family-06-siblings.md",
+  "slug": "cooperative-games-for-kids",
+  "title": "Cooperative Games for Kids: Picks for Siblings Who Fight",
+  "description": "Cooperative games for kids who fight with each other. Ten games that put siblings on the same team, what changes when they play together, and how to run them.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles2/family-07-what-games-teach.md",
+  "slug": "educational-benefits-of-board-games",
+  "title": "Educational Benefits of Board Games School Misses",
+  "description": "The educational benefits of board games go past math and reading. Probability, negotiation, losing, and reading people, with the games that teach each one.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles2/family-08-game-night-rules.md",
+  "slug": "family-game-night-rules",
+  "title": "Family Game Night Rules That Actually Keep the Peace",
+  "description": "Family game night rules that stop the fights before they start. Ten house rules for picking games, handling phones, settling disputes, and ending on time.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles2/family-09-thanksgiving.md",
+  "slug": "thanksgiving-board-games",
+  "title": "Thanksgiving Board Games for Three Generations",
+  "description": "The best Thanksgiving board games for a table that runs from 6 to 86. Twelve picks by group size and energy level, when to bring them out, what to skip.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles2/family-10-kid-who-has-to-win.md",
+  "slug": "kid-who-hates-losing",
+  "title": "Kid Who Hates Losing? How to Play Games With Them",
+  "description": "Have a kid who hates losing so much that games end in meltdowns? A calm plan: which games to play, what to say, and how to keep playing without giving in.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles2/health-01-dementia.md",
+  "slug": "board-games-and-dementia",
+  "title": "Board Games and Dementia: What the Research Says",
+  "description": "Do board games prevent dementia? A plain look at what the research on board games and dementia shows, what it does not, and what families can do with it.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles2/health-02-adult-play.md",
+  "slug": "benefits-of-play-for-adults",
+  "title": "Benefits of Play for Adults: The Case for Playing",
+  "description": "The benefits of play for adults are real and under-used. Why play is not the opposite of work, what the research suggests, and easy ways to get more of it.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles2/health-03-blue-zones.md",
+  "slug": "blue-zones-social-connection-games",
+  "title": "Blue Zones Social Connection: Card Games and Long Life",
+  "description": "Blue Zones social connection is the least-copied part of the longevity story. What the card games of Sardinia and Okinawa suggest about living long and well.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles2/health-04-stress.md",
+  "slug": "board-games-stress-relief",
+  "title": "Board Games for Stress Relief: Why a Hard Puzzle Calms",
+  "description": "Board games for stress relief work for a specific reason. Why a hard puzzle calms the mind, what the research on flow suggests, and which games do it best.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles2/health-05-social-fitness.md",
+  "slug": "social-fitness",
+  "title": "Social Fitness: Train Your Relationships Like a Muscle",
+  "description": "Social fitness means training your relationships like a muscle, not just meaning well. What the Harvard study found, and how a weekly game night does the work.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles2/health-06-adhd.md",
+  "slug": "board-games-for-adhd-adults",
+  "title": "Board Games for ADHD Adults: Why Structured Play Works",
+  "description": "Board games for ADHD adults often work where other hobbies don't. Why structure, novelty, and short turns help, and which games tend to hold attention.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles2/health-07-retirement.md",
+  "slug": "friendship-after-retirement",
+  "title": "Friendship After Retirement: Why Men Lose Friends at 65",
+  "description": "Friendship after retirement collapses for many men, and research says it matters for health. Why it happens, and how a standing game rebuilds the circle.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles2/health-08-laughter.md",
+  "slug": "benefits-of-laughter-social",
+  "title": "Benefits of Laughter: What Shared Humor Does to a Group",
+  "description": "The social benefits of laughter go beyond the health claims you've heard. What shared laughter does to a group, and why game tables make so much of it.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles2/health-09-togethering.md",
+  "slug": "togethering",
+  "title": "Togethering: Why It Is a Longevity Practice",
+  "description": "Togethering is the practice of regularly coming together in person to share life. Why longevity research supports it, and why a game is the easiest way in.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles2/health-10-social-prescribing.md",
+  "slug": "social-prescribing-game-nights",
+  "title": "Social Prescribing: Doctors Who Recommend Game Nights",
+  "description": "Social prescribing is when a doctor refers a patient to a community activity, not just a pill. How it works, what the evidence says, and where games fit.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles2/host-01-checklist.md",
+  "slug": "how-to-host-a-game-night",
+  "title": "How to Host a Game Night: The Complete Checklist",
+  "description": "Learn how to host a game night people want to come back to. A week-by-week checklist covering invites, games, food, seating, and the first ten minutes.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles2/host-02-snacks.md",
+  "slug": "game-night-snacks",
+  "title": "Game Night Snacks That Won't Ruin the Cards",
+  "description": "The best game night snacks are dry, one-handed, and kept away from the board. What to serve, what to skip, and how to set out food so nobody ruins a card.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles2/host-03-headcount.md",
+  "slug": "best-board-games-for-6-players",
+  "title": "Best Board Games for 6 Players (and Every Headcount)",
+  "description": "The best board games for 6 players, plus what to play at 3, 4, 5, 7, and 8. Match a game to your real headcount so nobody waits 20 minutes for a turn.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles2/host-04-sequencing.md",
+  "slug": "game-night-lineup",
+  "title": "Game Night Lineup: Opener, Main Event, Closer",
+  "description": "A good game night lineup has three acts: a short opener, one main event, and a quick closer. How to sequence games so the night builds and ends on a high.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles2/host-05-slow-player.md",
+  "slug": "analysis-paralysis-board-games",
+  "title": "Analysis Paralysis in Board Games: What to Do",
+  "description": "Analysis paralysis in board games slows the whole table. Why it happens, how to help a slow player without any shame, and which games keep turns moving along.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles2/host-06-storage.md",
+  "slug": "board-game-storage",
+  "title": "Board Game Storage: 100 Games in an Apartment",
+  "description": "Board game storage for small spaces. How to fit 100 games in an apartment with the right shelves, smart culling, box downsizing, and a system you can keep.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles2/host-07-room-setup.md",
+  "slug": "game-room-setup",
+  "title": "Game Room Setup: Lighting, Seating, and Sound",
+  "description": "A game room setup guide for the parts nobody plans: how to light a table, seat six people in comfort, and manage sound so every game night feels relaxed.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles2/host-08-rules-disputes.md",
+  "slug": "board-game-rules-argument",
+  "title": "Board Game Rules Argument? How to Settle It Fast",
+  "description": "A board game rules argument can sour a whole night. A process for settling disputes in under two minutes, plus habits that keep the next one from starting.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles2/host-09-introverts.md",
+  "slug": "game-night-for-introverts",
+  "title": "Game Night for Introverts: Host Without the Drain",
+  "description": "A game night for introverts does not have to be exhausting. How to host small, choose games that carry the conversation, and leave with energy to spare.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles2/host-10-end-on-time.md",
+  "slug": "how-long-should-game-night-last",
+  "title": "How Long Should Game Night Last? Ending on Time",
+  "description": "How long should game night last? About three hours, with a stated end. Why ending on time keeps people coming back, and how to do it without being rude.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles2/lounge-01-what-is-board-game-cafe.md",
+  "slug": "what-is-a-board-game-cafe",
+  "title": "What Is a Board Game Cafe? Why They're Everywhere Now",
+  "description": "What a board game cafe is, how it works, what it costs, and why these places have spread to almost every mid-size city. A plain guide for first-timers.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles2/lounge-02-third-place.md",
+  "slug": "third-place-problem",
+  "title": "The Third Place Problem: Where Adults Go to Belong",
+  "description": "What a third place is, why adults have lost them, and how to find or build one. Ray Oldenburg's idea, the loneliness data, and the game table as a fix.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles2/lounge-03-indianapolis-guide.md",
+  "slug": "board-game-cafes-indianapolis",
+  "title": "Board Game Cafes in Indianapolis: The 2026 Guide",
+  "description": "Board game cafes in Indianapolis for 2026: how to pick one, what to expect on pricing and crowds, and where to play, plus the new game lounge coming soon.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles2/lounge-04-membership.md",
+  "slug": "game-lounge-membership",
+  "title": "How a Game Lounge Membership Works (vs a Cover Charge)",
+  "description": "How a game lounge membership works, what it usually includes, and why paying monthly beats a cover charge for players and owners alike. Costs and tiers.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles2/lounge-05-coworking-lesson.md",
+  "slug": "coworking-vs-game-stores",
+  "title": "What Coworking Got Right That Game Stores Got Wrong",
+  "description": "Why the board game lounge business should copy coworking, not the hobby shop. Membership, space design, and community lessons from WeWork's one good idea.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles2/lounge-06-how-to-run-cafe.md",
+  "slug": "how-to-run-a-board-game-cafe",
+  "title": "How to Run a Board Game Cafe: 12 Lessons From Owners",
+  "description": "How to run a board game cafe that lasts. Twelve lessons on staffing, pricing, the library, food, and community from owners who learned them the hard way.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles2/lounge-07-library-problem.md",
+  "slug": "board-game-cafe-library",
+  "title": "Board Game Cafe Library: Curating 300 Games, Not 3,000",
+  "description": "How to build a board game cafe library that gets played. Why 300 curated games beat 3,000, how to pick them, and how to keep pieces from walking away.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles2/lounge-08-great-game-table.md",
+  "slug": "best-table-for-board-games",
+  "title": "Best Table for Board Games: Height, Light, and Elbow Room",
+  "description": "What makes the best table for board games? Height, size per player, surface, lighting, and chairs, with a size chart and advice for homes and lounges.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles2/lounge-09-public-game-nights.md",
+  "slug": "board-game-night-near-me",
+  "title": "Board Game Night Near Me: How to Find a Public Game Night",
+  "description": "Searching for a board game night near me? Where public game nights hide, how to find one this week, and what to do when you walk in alone and know nobody yet.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles2/lounge-10-every-city.md",
+  "slug": "why-every-city-needs-a-place-to-play",
+  "title": "Benefits of Board Game Cafes: Why Every City Needs One",
+  "description": "The benefits of board game cafes go beyond fun. Loneliness, third places, local economies, and civic life all improve when a city has a place to play.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles2/mtg-01-what-is-cube.md",
+  "slug": "what-is-a-magic-cube",
+  "title": "What Is a Magic Cube? The Format Where Nobody Buys Packs",
+  "description": "An MTG cube is a hand-picked set of cards you draft again and again. Here's how it works, why players love it, and how to try one without buying packs.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles2/mtg-02-build-first-cube.md",
+  "slug": "how-to-build-a-cube-mtg",
+  "title": "How to Build a Cube MTG: Your First Cube Under $200",
+  "description": "Learn how to build a cube MTG players will want to draft again. A step-by-step plan for a 360-card first cube under $200, from card list to sleeves to box.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles2/mtg-03-cube-draft.md",
+  "slug": "cube-draft-strategy",
+  "title": "Cube Draft Strategy: Picks, Signals, and the Table",
+  "description": "Cube draft strategy for players who keep ending up with 46 playables in five colors. Learn a clear pick order, how to spot signals, and how to read the table.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles2/mtg-04-teach-magic.md",
+  "slug": "how-to-teach-magic-the-gathering",
+  "title": "How to Teach Magic the Gathering: Start With a Cube",
+  "description": "Wondering how to teach Magic the Gathering to a friend? Skip the starter decks and the rulebook. A cube draft teaches the game faster, and here's why.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles2/mtg-05-pauper-vs-vintage.md",
+  "slug": "pauper-cube-vs-vintage-cube",
+  "title": "Pauper Cube vs Vintage Cube: Which Fits Your Group?",
+  "description": "Pauper cube vs vintage cube: one costs under $100, the other has Black Lotus. How each one plays, which groups each suits, and which you should build first.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles2/mtg-06-run-cube-night.md",
+  "slug": "how-to-run-a-cube-draft",
+  "title": "How to Run a Cube Draft: 8 Players, 3 Hours, Done Right",
+  "description": "A host's guide to how to run a cube draft that ends on time and brings people back. Timing, seating, pairings, lands, and the small rituals that matter.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles2/mtg-07-proxies.md",
+  "slug": "mtg-proxies-ethics",
+  "title": "MTG Proxies: Ethics, Etiquette, and Playing on a Budget",
+  "description": "Are MTG proxies cheating, theft, or common sense? A clear look at the ethics, where proxies are welcome, where they are not, and how to use them well.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles2/mtg-08-commander-politics.md",
+  "slug": "commander-politics",
+  "title": "Commander Politics: Why Four-Player Magic Makes Enemies",
+  "description": "Commander politics turns a card game into a negotiation, and sometimes a grudge. Why four-player Magic breeds resentment and how to keep your friends.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles2/mtg-09-cube-commonwealth.md",
+  "slug": "cube-commonwealth",
+  "title": "Cube Commonwealth: A Community Around One Cube",
+  "description": "Cube Commonwealth is a Magic drafting community built around one shared cube. How it started, why one box of cards holds a group together, how it runs.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles2/mtg-10-what-magic-taught.md",
+  "slug": "magic-the-gathering-benefits",
+  "title": "Magic the Gathering Benefits: What a Card Game Taught Us",
+  "description": "The real Magic the Gathering benefits are not about cards. Deckbuilding, bluffing, patience: what thirty years of the game taught a generation of players.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles2/picks-01-adults.md",
+  "slug": "best-board-games-for-adults",
+  "title": "Best Board Games for Adults Who Don't Like Board Games",
+  "description": "The best board games for adults who think they hate board games. Twelve picks that fix the real complaints, with player counts, times, and why each works.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles2/picks-02-gateway.md",
+  "slug": "gateway-board-games",
+  "title": "10 Gateway Board Games That Turn Non-Gamers Into Regulars",
+  "description": "The 10 best gateway board games for turning a non-gamer into a regular, with player counts, times, and what each one leads to next. A guide for hosts.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles2/picks-03-large-groups.md",
+  "slug": "party-games-for-large-groups",
+  "title": "Best Party Games for Large Groups of 8 or More",
+  "description": "The best party games for large groups of 8, 10, or 20 people. Twelve picks that scale, with player counts, times, and how to run a big table without chaos.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles2/picks-04-two-player.md",
+  "slug": "two-player-board-games-date-night",
+  "title": "Best Two-Player Board Games for Date Night",
+  "description": "The best two player board games for date night, from calm puzzles to friendly rivalries. Twelve picks with times, play counts, and which mood each suits.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles2/picks-05-under-30.md",
+  "slug": "quick-board-games-under-30-minutes",
+  "title": "Quick Board Games That Play in Under 30 Minutes",
+  "description": "Fifteen quick board games that play in under 30 minutes, with real times, player counts, and when to use each. Fillers, openers, and closers for any night.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles2/picks-06-card-games.md",
+  "slug": "adult-card-games",
+  "title": "Best Adult Card Games That Aren't Cards Against Humanity",
+  "description": "The best adult card games that aren't Cards Against Humanity. Twelve picks that stay funny past the third round, with player counts, times, and why each works.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles2/picks-07-nature-games.md",
+  "slug": "wingspan-vs-everdell-vs-cascadia",
+  "title": "Wingspan vs Everdell vs Cascadia: Which Fits Your Table?",
+  "description": "Wingspan vs Everdell vs Cascadia, compared on weight, play time, player count, and feel. Which nature board game fits your group and which one to buy first.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles2/picks-08-best-2026.md",
+  "slug": "best-board-games-2026",
+  "title": "Best Board Games of 2026 So Far: Our Running Picks",
+  "description": "The best board games of 2026 so far, judged on teach time, table feel, and replay. How we choose, what the bar is, and which new releases have cleared it.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles2/picks-09-one-sentence.md",
+  "slug": "easiest-board-games-to-learn",
+  "title": "Easiest Board Games to Learn: Teach Them in One Sentence",
+  "description": "The easiest board games to learn, each teachable in a single sentence. Fourteen picks with that sentence, player counts, play times, and when to use each.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles2/picks-10-ludarium-library.md",
+  "slug": "ludarium-library-50-games",
+  "title": "The Ludarium Library: 50 Games for Every Game Lounge",
+  "description": "The Ludarium library: 50 games we would put in any board game lounge, sorted by the job each does, with player counts, play times, and how we chose each one.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles2/rpg-01-first-dnd.md",
+  "slug": "how-to-play-dnd-for-beginners",
+  "title": "How to Play D&D for Beginners: No Homework Required",
+  "description": "How to play D&D for beginners in one evening, no homework needed. What happens at the table, what you need, and four things to know before your first session.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles2/rpg-02-what-is-ttrpg.md",
+  "slug": "what-is-a-tabletop-rpg",
+  "title": "What Is a Tabletop RPG? A Plain-English Explainer",
+  "description": "What is a tabletop RPG? A plain-English explainer for anyone who has only seen one on Stranger Things: how it works, what you need, and why adults love it.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles2/rpg-03-one-shot.md",
+  "slug": "dnd-one-shot-for-beginners",
+  "title": "D&D One Shot for Beginners: Try an RPG in One Evening",
+  "description": "A D&D one shot for beginners is the lowest-risk way to try a tabletop RPG. What a one-shot is, how to run or join one, and how to fit it in a single night.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles2/rpg-04-find-group.md",
+  "slug": "how-to-find-a-dnd-group",
+  "title": "How to Find a D&D Group as an Adult (7 Places That Work)",
+  "description": "How to find a D&D group as an adult: seven places that reliably work, what to say when you sign up, and how to tell within one session if a table fits you.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles2/rpg-05-first-dm.md",
+  "slug": "first-time-dungeon-master-tips",
+  "title": "First Time Dungeon Master Tips: You Got Volunteered",
+  "description": "First time Dungeon Master tips for anyone who got volunteered: what to prepare, what to skip, and five friendly habits that help your first session go well.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles2/rpg-06-not-dnd.md",
+  "slug": "easy-tabletop-rpgs-for-beginners",
+  "title": "Easy Tabletop RPGs for Beginners: 8 Systems Beyond D&D",
+  "description": "Eight easy tabletop RPGs for beginners that aren't D&D, each learnable in an hour or less. What each feels like, what you need, and which to pick first.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles2/rpg-07-roleplaying-tips.md",
+  "slug": "roleplaying-tips-for-beginners",
+  "title": "Roleplaying Tips for Beginners: When You Freeze Up",
+  "description": "Roleplaying tips for beginners who freeze when the GM turns to them: six moves that always work, how to build a character you can play, and what to skip.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles2/rpg-08-dice.md",
+  "slug": "dnd-dice-explained",
+  "title": "D&D Dice Explained: d20, d6, and Advantage",
+  "description": "D&D dice explained for new players: what each of the seven dice is for, how a d20 roll works, what advantage means, and why the math feels the way it does.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles2/rpg-09-kids.md",
+  "slug": "dnd-for-kids",
+  "title": "D&D for Kids: Rules That Keep the Table Fun",
+  "description": "D&D for kids works with a few small changes. Which ages it suits, how to simplify the rules, which systems fit young players, and table rules that keep it fun.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles2/rpg-10-why-pretend.md",
+  "slug": "benefits-of-tabletop-rpgs",
+  "title": "Benefits of Tabletop RPGs: Why Adults Play Pretend",
+  "description": "The benefits of tabletop RPGs for adults: what shared imagination does for focus, empathy, friendship, and stress, and why more grown-ups are joining the hobby.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles2/work-01-team-building-games.md",
+  "slug": "team-building-board-games",
+  "title": "20 Team-Building Board Games That Don't Feel Forced",
+  "description": "The best team building board games for real offices, sorted by group size and goal. Twenty picks that never feel forced and coworkers will ask to play again.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles2/work-02-codenames.md",
+  "slug": "codenames-team-building",
+  "title": "Codenames Team Building: What One Game Reveals",
+  "description": "Codenames team building works because 15 minutes of clue-giving shows how your team really talks. What to watch for, how to run a session, and what to do next.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles2/work-03-trust-fall.md",
+  "slug": "offsite-activities-for-adults",
+  "title": "Offsite Activities for Adults That Beat the Trust Fall",
+  "description": "Offsite activities for adults should not involve falling backward. Here is what to run instead, what to avoid, and how to plan a day people thank you for.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles2/work-04-spot-leader.md",
+  "slug": "leadership-assessment-games",
+  "title": "Leadership Assessment Games: 45 Minutes of Pandemic",
+  "description": "Leadership assessment games like Pandemic show who leads, who follows, and who gets steamrolled in under an hour. What to watch and how to read it fairly.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles2/work-05-negotiation.md",
+  "slug": "negotiation-board-games",
+  "title": "Negotiation Board Games for Sales Teams",
+  "description": "Negotiation board games give sales teams real practice at reading people, making offers, and knowing when to walk away. Seven picks and how to run each one.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles2/work-06-onboarding.md",
+  "slug": "new-hire-onboarding-game-night",
+  "title": "New Hire Onboarding Activities: Try a Game Night",
+  "description": "New hire onboarding activities rarely include a game night, but they should. It does what the welcome lunch cannot: real conversations with new colleagues.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles2/work-07-remote-team.md",
+  "slug": "in-person-team-building-remote-teams",
+  "title": "In-Person Team Building for Remote Teams: One Day",
+  "description": "In-person team building for remote teams often gets one day a year. How to spend that day so people leave knowing each other well, not just knowing the agenda.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles2/work-08-psych-safety.md",
+  "slug": "psychological-safety-team-activities",
+  "title": "Psychological Safety Team Activities: Try a Game Table",
+  "description": "Psychological safety team activities usually mean workshops. A game table builds it faster, because mistakes are cheap and everyone makes them in public.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles2/work-09-lunch-club.md",
+  "slug": "workplace-game-club",
+  "title": "Workplace Game Club: How to Run One at Lunch",
+  "description": "A workplace game club needs one lunch hour a week, a shelf of short games, and one person willing to start. How to launch one and keep people coming back.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles2/work-10-cost.md",
+  "slug": "corporate-team-building-cost",
+  "title": "Corporate Team Building Cost: A Game Night Breakdown",
+  "description": "What is the real corporate team building cost for a game night? Rough per-person ranges for DIY, hosted, and full-service events, and what moves the price.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles3/aud-01-couples.md",
+  "slug": "board-games-for-couples",
+  "title": "Board Games for Couples: Beyond the Two-Player Box",
+  "description": "The best board games for couples, sorted by the kind of evening you want: quiet, competitive, cooperative, or shared with friends. Plus how to pick fairly.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles3/aud-02-seniors-alone.md",
+  "slug": "board-games-for-seniors-living-alone",
+  "title": "Board Games for Seniors Who Live Alone",
+  "description": "Board games for seniors who live alone, plus the harder part: how to get a parent, neighbor, or friend to the table, and the steps that keep them coming back.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles3/aud-03-church-groups.md",
+  "slug": "board-games-for-church-groups",
+  "title": "Board Games for Church Groups and Youth Groups",
+  "description": "Board games for church groups and youth groups: picks that work for 8 to 40 people, mixed ages, and tight budgets, plus how to run the night so it lasts.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles3/aud-04-neighbors.md",
+  "slug": "neighborhood-game-night",
+  "title": "How to Start a Neighborhood Game Night",
+  "description": "How to start a neighborhood game night: who to invite, what to say on the flyer, which games work for strangers, and how to turn one evening into a habit.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles3/aud-05-college.md",
+  "slug": "board-games-for-college-students",
+  "title": "Board Games for College Students: Dorm-Sized and Cheap",
+  "description": "Board games for college students that fit a dorm shelf, cost under $25, play on a floor, and handle whoever shows up. Plus how to find a campus group.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles3/aud-06-social-anxiety.md",
+  "slug": "board-games-social-anxiety",
+  "title": "Board Games and Social Anxiety: Why the Table Helps",
+  "description": "Why board games can make socializing easier with social anxiety: structure, shared focus, built-in exits. Which games to start with and which to skip.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles3/aud-07-solo.md",
+  "slug": "best-solo-board-games",
+  "title": "Best Solo Board Games: Playing Alone, Not Lonely",
+  "description": "The best solo board games, from 15-minute puzzles to months-long campaigns, and why playing alone can feed your social life instead of quietly replacing it.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles3/aud-08-new-parents.md",
+  "slug": "board-games-for-new-parents",
+  "title": "Board Games for New Parents: 20 Minutes, No Brain",
+  "description": "Board games for new parents with 20 minutes, no energy, and a baby who might wake up. Short, quiet, interruptible games that still feel like a night out.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles3/aud-09-remote-friends.md",
+  "slug": "playing-board-games-with-long-distance-friends",
+  "title": "Board Games With Long Distance Friends: Keep the Group",
+  "description": "Board games with long distance friends after everyone moves away: the tools that work, the games that survive a webcam, and how to plan an annual meetup.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles3/aud-10-non-gamers.md",
+  "slug": "board-games-for-people-who-dont-like-games",
+  "title": "Games for People Who Don't Like Games",
+  "description": "Games for people who don't like games: what they really dislike, from long rules to losing to being watched, and the games that sidestep each objection.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles3/build-01-why-a-lounge.md",
+  "slug": "why-we-are-building-a-game-lounge",
+  "title": "Why We're Building a Game Lounge Business, Not a Store",
+  "description": "The game lounge business we're building in Indianapolis sells belonging, not boxes. Here is why we chose a lounge over a game store, and what it costs us.",
+  "category": "Game Culture"
+ },
+ {
+  "src": "articles3/build-02-membership-math.md",
+  "slug": "game-lounge-membership-model",
+  "title": "Game Lounge Membership Model: How the Math Works",
+  "description": "The game lounge membership model, worked out in public. How many members cover rent, why churn matters more than price, and the numbers we plan around.",
+  "category": "Game Culture"
+ },
+ {
+  "src": "articles3/build-03-togethering-word.md",
+  "slug": "togethering-meaning",
+  "title": "Togethering Meaning: Why We Needed a New Word",
+  "description": "Togethering meaning, explained by those who put the word on everything: people coming together in person to share life, with a game as the reason to gather.",
+  "category": "Game Culture"
+ },
+ {
+  "src": "articles3/build-04-first-space.md",
+  "slug": "choosing-a-space-for-a-game-lounge",
+  "title": "Game Cafe Location: What We Want in a First Space",
+  "description": "Choosing a game cafe location is mostly saying no. The checklist we're using for The Ludarium's first Indianapolis space, and the trade-offs we expect.",
+  "category": "Game Culture"
+ },
+ {
+  "src": "articles3/build-05-library-list.md",
+  "slug": "building-a-game-lounge-library",
+  "title": "Building a Game Lounge Library: Our First 100 Games",
+  "description": "Building a game lounge library: how The Ludarium chose its first 100 games, the categories and ratios, which games we buy two of, and why 100 is enough to open.",
+  "category": "Game Culture"
+ },
+ {
+  "src": "articles3/build-06-events-first.md",
+  "slug": "corporate-game-nights-before-a-space",
+  "title": "Corporate Game Night Business: Why Events Come First",
+  "description": "Why The Ludarium runs a corporate game night business before opening a lounge: revenue without rent, a community before a door, and proof we can host.",
+  "category": "Game Culture"
+ },
+ {
+  "src": "articles3/build-07-what-we-got-wrong.md",
+  "slug": "game-lounge-lessons-learned",
+  "title": "Starting a Board Game Cafe: Mistakes We've Already Made",
+  "description": "Starting a board game cafe? Here are mistakes we already made. Seven things The Ludarium got wrong in planning, why we believed them, and what we changed after.",
+  "category": "Game Culture"
+ },
+ {
+  "src": "articles3/build-08-not-a-store.md",
+  "slug": "why-game-lounges-dont-sell-games",
+  "title": "Board Game Cafe vs Store: Why We Won't Sell Games",
+  "description": "Board game cafe vs store is a real choice, and we made it. Why The Ludarium will teach and recommend games but never stock them, and what that costs us.",
+  "category": "Game Culture"
+ },
+ {
+  "src": "articles3/build-09-city-by-city.md",
+  "slug": "game-lounge-expansion-plan",
+  "title": "Game Lounge Franchise? Our One-Membership Long Plan",
+  "description": "Why The Ludarium's long plan is one membership that works in every city, not a game lounge franchise. The sequence, the risks, and what must be true first.",
+  "category": "Game Culture"
+ },
+ {
+  "src": "articles3/build-10-how-to-help.md",
+  "slug": "how-to-support-the-ludarium",
+  "title": "How to Support a Local Game Cafe Before It Opens",
+  "description": "Want to support a local game cafe that doesn't exist yet? What helps The Ludarium open in Indianapolis, ranked by impact, from free to founding member.",
+  "category": "Game Culture"
+ },
+ {
+  "src": "articles3/cmp-01-catan-vs-ttr.md",
+  "slug": "catan-vs-ticket-to-ride",
+  "title": "Catan vs Ticket to Ride: Which Gateway Game Fits You?",
+  "description": "Catan vs Ticket to Ride, compared on player count, play time, teach time, and table feel. A clear verdict on which gateway board game to buy for your group.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/cmp-02-pandemic-vs-forbidden-island.md",
+  "slug": "pandemic-vs-forbidden-island",
+  "title": "Pandemic vs Forbidden Island: Which Co-op to Buy First",
+  "description": "Pandemic vs Forbidden Island: same designer, same idea, different weight. Compare players, time, teach time, and difficulty, then pick your first co-op.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/cmp-03-dnd-vs-pathfinder.md",
+  "slug": "dnd-vs-pathfinder-beginners",
+  "title": "D&D vs Pathfinder for Beginners: Which to Start With",
+  "description": "D&D vs Pathfinder for beginners, compared on learning curve, starter sets, cost, finding a group, and what each does best. A clear verdict for new players.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/cmp-04-codenames-vs-decrypto.md",
+  "slug": "codenames-vs-decrypto",
+  "title": "Codenames vs Decrypto: Two Word Games, Two Tables",
+  "description": "Codenames vs Decrypto, compared: players, time, teach time, and the very different feel of each. Which word game to buy for your party or your game group.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/cmp-05-azul-vs-sagrada.md",
+  "slug": "azul-vs-sagrada",
+  "title": "Azul vs Sagrada: Pretty Tiles, Different Brains",
+  "description": "Azul vs Sagrada compared on players, time, teach time, interaction, and feel. Two beautiful abstract games that reward very different kinds of thinking.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/cmp-06-wingspan-vs-everdell.md",
+  "slug": "wingspan-vs-everdell",
+  "title": "Wingspan vs Everdell: Which Engine Builder Is Right?",
+  "description": "Wingspan vs Everdell compared: players, time, weight, teach time, and what each engine builder does best. A clear verdict on which to buy for your group.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/cmp-07-gloomhaven-vs-frosthaven.md",
+  "slug": "gloomhaven-vs-frosthaven",
+  "title": "Gloomhaven vs Frosthaven vs Jaws of the Lion: Start Here",
+  "description": "Gloomhaven vs Frosthaven vs Jaws of the Lion, compared on price, scenarios, teach time, and commitment. Which Haven campaign to start with as a group, and why.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/cmp-08-dominion-vs-clank.md",
+  "slug": "dominion-vs-clank",
+  "title": "Dominion vs Clank!: Pure Deck Builder or One With a Board?",
+  "description": "Dominion vs Clank! compared: players, time, teach time, and what each deck builder does best. Pure card engine or dungeon crawl with a deck? Our verdict.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/cmp-09-cube-vs-commander.md",
+  "slug": "cube-vs-commander",
+  "title": "Cube vs Commander: Which Magic Format Fits Your Group?",
+  "description": "Cube vs Commander, compared on players, time, cost, and teach time, plus what each Magic format does best. A clear verdict for groups deciding how to play.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/cmp-10-board-game-cafe-vs-home.md",
+  "slug": "board-game-cafe-vs-home-game-night",
+  "title": "Board Game Cafe vs Home Game Night: When Each Wins",
+  "description": "Board game cafe vs home game night, compared on cost, library, hosting work, noise, and who shows up. When to go out, when to stay in, and how to do both.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/con-01-packing.md",
+  "slug": "gen-con-packing-list",
+  "title": "Gen Con Packing List: What to Bring for Four Days",
+  "description": "A Gen Con packing list built from what people actually run out of: shoes, snacks, a bag that works in the Exhibit Hall, and the paperwork that gets you in.",
+  "category": "Game Culture"
+ },
+ {
+  "src": "articles3/con-02-event-tickets.md",
+  "slug": "gen-con-event-registration-tips",
+  "title": "Gen Con Event Registration: How to Get the Games You Want",
+  "description": "Gen Con event registration made simple: the catalog, the wish list, the noon rush, generic tickets, and how to come away holding the events you came to play.",
+  "category": "Game Culture"
+ },
+ {
+  "src": "articles3/con-03-demo.md",
+  "slug": "how-to-demo-a-board-game-at-a-convention",
+  "title": "How to Demo a Board Game at a Convention",
+  "description": "How to demo a board game at a convention: the two-minute pitch, the ten-minute teach, table setup, and running forty demos a day without losing your voice.",
+  "category": "Game Culture"
+ },
+ {
+  "src": "articles3/con-04-pitch-at-gen-con.md",
+  "slug": "pitch-board-game-at-gen-con",
+  "title": "How to Pitch a Game to Publishers at Gen Con",
+  "description": "How to pitch a board game at Gen Con: landing meetings, the ten-minute pitch, what your prototype needs, and what publishers decide in the first minute.",
+  "category": "Game Culture"
+ },
+ {
+  "src": "articles3/con-05-smaller-cons.md",
+  "slug": "board-game-conventions-midwest",
+  "title": "Board Game Conventions in the Midwest Beyond Gen Con",
+  "description": "Board game conventions in the Midwest beyond Gen Con: eleven shows across Ohio, Wisconsin, Michigan, Missouri, and Minnesota, with dates checked on each site.",
+  "category": "Game Culture"
+ },
+ {
+  "src": "articles3/con-06-with-kids.md",
+  "slug": "gen-con-with-kids",
+  "title": "Gen Con With Kids: What Works and What Doesn't",
+  "description": "Gen Con with kids: the Child Wristband rules, the Kid Activities area, and how long a six-year-old lasts in the Exhibit Hall. What works, what to skip.",
+  "category": "Game Culture"
+ },
+ {
+  "src": "articles3/con-07-budget.md",
+  "slug": "gen-con-on-a-budget",
+  "title": "Gen Con on a Budget: Badges, Beds, and the Exhibit Hall",
+  "description": "Gen Con on a budget: real 2026 badge prices, hotels from the housing block to the suburbs, cheaper food, and how to leave the Exhibit Hall with money left.",
+  "category": "Game Culture"
+ },
+ {
+  "src": "articles3/con-08-hotel.md",
+  "slug": "gen-con-hotel-guide",
+  "title": "Gen Con Hotels: The Housing Lottery, Explained",
+  "description": "Gen Con hotels explained: the housing portal and random access times, the downtown four-night rule, deposits, and what to do if you land in the suburbs.",
+  "category": "Game Culture"
+ },
+ {
+  "src": "articles3/con-09-introverts.md",
+  "slug": "conventions-for-introverts",
+  "title": "Convention Tips for Introverts: A Pacing Plan",
+  "description": "Convention tips for introverts who love games and dread crowds: a four-day pacing plan, where to find quiet at Gen Con, and meeting people at the table.",
+  "category": "Game Culture"
+ },
+ {
+  "src": "articles3/con-10-after-gen-con.md",
+  "slug": "what-to-do-after-gen-con",
+  "title": "After Gen Con: Turn Four Days Into a Year of Game Nights",
+  "description": "What to do after Gen Con: beat the post-con crash, play the games you bought, stay close to people you met, and turn one weekend into a year of game nights.",
+  "category": "Game Culture"
+ },
+ {
+  "src": "articles3/gift-01-under-30.md",
+  "slug": "best-board-game-gifts-under-30",
+  "title": "Best Board Game Gifts Under $30: 12 Picks That Get Played",
+  "description": "The best board game gifts under $30: twelve picks people really play, with prices checked at major retailers, who each one suits, and which ones to skip.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/gift-02-couples.md",
+  "slug": "board-game-gifts-for-couples",
+  "title": "Board Game Gifts for Couples Who Play Together (2026)",
+  "description": "The best board game gifts for couples, sorted by how they play together: calm, competitive, cooperative, or campaign. Prices checked at time of writing.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/gift-03-coworker.md",
+  "slug": "board-game-gift-for-coworker",
+  "title": "Board Game Gift for a Coworker You Barely Know: 7 Safe Picks",
+  "description": "A board game gift for a coworker you barely know: seven safe picks, all under $30 and fine for any household, plus one game that works for the whole office.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/gift-04-grandparent.md",
+  "slug": "board-games-for-grandparents-gift",
+  "title": "Board Games for Grandparents: 10 Gifts They'll Play",
+  "description": "Board games for grandparents that get played: big pieces, familiar rules, short games, and picks for playing with grandkids. Prices checked and linked.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/gift-05-someone-who-has-everything.md",
+  "slug": "gifts-for-board-game-lovers",
+  "title": "Gifts for Board Game Lovers Who Already Own Everything",
+  "description": "Gifts for board game lovers who own every game: upgrades, experiences, and the small things they never buy themselves. Prices checked at time of writing.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/gift-06-black-friday.md",
+  "slug": "black-friday-board-game-deals",
+  "title": "Black Friday Board Game Deals: What's Worth Waiting For",
+  "description": "Black Friday board game deals, explained: which games drop 40 to 50 percent every year, which ones never go on sale, and when to buy now instead of waiting.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/gift-07-stocking-stuffers.md",
+  "slug": "board-game-stocking-stuffers",
+  "title": "Stocking Stuffer Games: 12 Small-Box Games Under $20",
+  "description": "Twelve stocking stuffer games that fit in a sock and get played: card games, dice games, and pocket strategy under $20, with prices checked and linked.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/gift-08-first-dnd-set.md",
+  "slug": "best-dnd-starter-set-gift",
+  "title": "Best D&D Starter Set Gift: Which Box to Give a New Player",
+  "description": "Which D&D starter set to gift someone new: Heroes of the Borderlands vs Dragons of Stormwreck Isle, what each costs, and what to add so it gets played.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/gift-09-accessories.md",
+  "slug": "board-game-accessories-gift-guide",
+  "title": "Board Game Accessories Worth Gifting: Sleeves to Mats",
+  "description": "Board game accessories worth gifting, from card sleeves and box inserts to playmats and dice trays. What to buy, what to skip, and what each one costs now.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/gift-10-teens.md",
+  "slug": "board-games-for-teenagers-gift",
+  "title": "Board Games for Teenagers: 11 Gifts They Won't Mock",
+  "description": "Board games for teenagers that survive the eye roll: fast, funny, a little mean, and good at four to eight players. Prices checked at the time of writing.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/gloss-01-meeple.md",
+  "slug": "what-is-a-meeple",
+  "title": "What Is a Meeple? The Word, the Shape, and Its Origin",
+  "description": "What is a meeple? Where the word came from, why the little wooden person has that shape, and how it grew into the friendly symbol of modern board games.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/gloss-02-euro-vs-ameritrash.md",
+  "slug": "euro-games-vs-ameritrash",
+  "title": "Euro Games vs Ameritrash: What the Labels Mean",
+  "description": "Eurogame vs Ameritrash, explained without the arguments. What each label means, where they came from, which games fit, and why most new games are both.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/gloss-03-kingmaking.md",
+  "slug": "kingmaking-board-games",
+  "title": "Kingmaking in Board Games: Why Losers Pick the Winner",
+  "description": "Kingmaking in board games is when a player who can't win decides who does. Why it happens, which games invite it, and calm ways to handle it at your table.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/gloss-04-drafting.md",
+  "slug": "card-drafting-explained",
+  "title": "Card Drafting Explained: Pick, Pass, and Signal",
+  "description": "Card drafting explained in plain terms: how pick-and-pass works, why 7 Wonders and Magic use it, the other drafting formats, and how to read the signals.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/gloss-05-engine-building.md",
+  "slug": "engine-building-games",
+  "title": "Engine Building Games: What the Term Means",
+  "description": "Engine building games explained. What an engine is, why Wingspan, Splendor and Dominion feel so good, the curve every engine follows, and where to start.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/gloss-06-tableau.md",
+  "slug": "tableau-board-games",
+  "title": "What Is a Tableau in Board Games? A Plain Explainer",
+  "description": "Tableau board game term explained. What a tableau is, how it differs from a hand or deck, why tableau builders feel good, and which games to learn it from.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/gloss-07-rondel.md",
+  "slug": "rondel-mechanic",
+  "title": "The Rondel Mechanic: Every Turn a Timing Puzzle",
+  "description": "The rondel mechanic explained. How the action wheel in Antike, Imperial and Navegador works, why every turn becomes a timing puzzle, and games that use it.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/gloss-08-weight.md",
+  "slug": "board-game-weight-explained",
+  "title": "Board Game Weight Explained: What a 2.5 Means",
+  "description": "Board game weight explained. What the BoardGameGeek complexity rating measures, what a 1.5 or 3.5 feels like at the table, and how to use it to pick games.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/gloss-09-take-that.md",
+  "slug": "take-that-games",
+  "title": "Take-That Games: Direct Attacks and Why They Divide",
+  "description": "Take that board games explained. What the term means, why Munchkin and Exploding Kittens split tables, how designers soften it, and how to choose well.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/gloss-10-area-majority.md",
+  "slug": "area-majority-vs-area-control",
+  "title": "Area Majority vs Area Control: The Difference",
+  "description": "Area majority vs area control, explained simply. Why El Grande and Risk feel nothing alike, how majority scoring works, and how it changes the way you play.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/indy-01-game-stores.md",
+  "slug": "indianapolis-board-game-stores",
+  "title": "Board Game Stores in Indianapolis by Neighborhood",
+  "description": "Board game stores in Indianapolis, sorted by neighborhood, with what each shop does best, where you can sit down and play, and how to pick the right one.",
+  "category": "Game Culture"
+ },
+ {
+  "src": "articles3/indy-02-dnd-carmel-fishers.md",
+  "slug": "dnd-groups-carmel-fishers",
+  "title": "D&D in Carmel, Fishers, and Westfield: Where to Play",
+  "description": "Where to play D&D in Carmel, Fishers, and Westfield, Indiana. Stores with RPG tables, library programs, and how to find or start a group on the north side.",
+  "category": "Game Culture"
+ },
+ {
+  "src": "articles3/indy-03-magic-indy.md",
+  "slug": "where-to-play-magic-indianapolis",
+  "title": "Magic: The Gathering in Indianapolis: Where to Play",
+  "description": "Where to play Magic: The Gathering in Indianapolis: stores with Friday Night Magic and Commander nights, sorted by area, plus how to find a local cube draft.",
+  "category": "Game Culture"
+ },
+ {
+  "src": "articles3/indy-04-gen-con-first-timer.md",
+  "slug": "gen-con-first-timer-guide",
+  "title": "Gen Con for First-Timers: What to Know Before You Go",
+  "description": "Going to Gen Con for the first time? Dates, badges, event tickets, generic tickets, and the handful of decisions that make or break your first four days.",
+  "category": "Game Culture"
+ },
+ {
+  "src": "articles3/indy-05-gen-con-survival.md",
+  "slug": "gen-con-survival-guide",
+  "title": "Gen Con Survival Guide: Food, Feet, Sleep, Exhibit Hall",
+  "description": "A Gen Con survival guide for the body, not the schedule. How to eat, walk, sleep, and work the Exhibit Hall for four days without crashing on Saturday.",
+  "category": "Game Culture"
+ },
+ {
+  "src": "articles3/indy-06-gen-con-locals.md",
+  "slug": "gen-con-tips-for-locals",
+  "title": "Gen Con for Locals: Enjoy It Without a Badge",
+  "description": "Gen Con for Indianapolis locals: what you can enjoy without a badge, when to avoid downtown traffic, and how to turn the weekend into a year of game nights.",
+  "category": "Game Culture"
+ },
+ {
+  "src": "articles3/indy-07-game-nights-calendar.md",
+  "slug": "indianapolis-game-nights",
+  "title": "Game Night in Indianapolis: A Weekly Public Guide",
+  "description": "Public game nights in Indianapolis by day of the week. Free brewery meetups, store Commander nights, library afternoons, and how to walk into any of them.",
+  "category": "Game Culture"
+ },
+ {
+  "src": "articles3/indy-08-family-game-cafes.md",
+  "slug": "family-friendly-game-cafes-indianapolis",
+  "title": "Family Game Cafes in Indianapolis: Where to Play",
+  "description": "Family-friendly places to play board games in Indianapolis, from a Greenfield game cafe to free library nights, with ages, costs, and what to ask for.",
+  "category": "Game Culture"
+ },
+ {
+  "src": "articles3/indy-09-date-night.md",
+  "slug": "board-game-date-night-indianapolis",
+  "title": "Board Game Date Night in Indianapolis: Where to Go",
+  "description": "Board game date night in Indianapolis: the best venues, what to play on a first date versus a tenth, and how to build an easy, fun evening around a game table.",
+  "category": "Game Culture"
+ },
+ {
+  "src": "articles3/indy-10-hamilton-county.md",
+  "slug": "hamilton-county-tabletop-scene",
+  "title": "Hamilton County, Indiana Board Games: The Local Scene",
+  "description": "The tabletop scene in Hamilton County, Indiana. Game stores and public game nights in Carmel, Fishers, Noblesville, and Westfield, and what is missing.",
+  "category": "Game Culture"
+ },
+ {
+  "src": "articles3/long-01-90-year-old.md",
+  "slug": "game-night-at-90",
+  "title": "Games for 90 Year Olds: What a Real Game Night Looks Like",
+  "description": "Games for 90 year olds that get played: what works for aging eyes, hands, and pace, which games to choose, and how to set up a table so everyone can join in.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles3/long-02-lifelong-practice.md",
+  "slug": "play-as-a-lifelong-practice",
+  "title": "Lifelong Play: Why Play Is a Practice, Not a Phase",
+  "description": "Lifelong play is a habit you keep, not a stage you outgrow. What research suggests about adults who keep playing, and how to build a practice that lasts.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles3/long-03-cognitive-reserve.md",
+  "slug": "cognitive-reserve-and-games",
+  "title": "Cognitive Reserve: What It Is and Whether Games Build It",
+  "description": "Cognitive reserve explained in plain words: where the idea came from, what studies of board games and card games show, what they don't, and what that means.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles3/long-04-widowhood.md",
+  "slug": "games-after-losing-a-spouse",
+  "title": "Social Activities After Losing a Spouse: Finding a Table",
+  "description": "Gentle guidance on social activities after losing a spouse: why a standing game is easier than a dinner invitation, how to find one, and when to go slowly.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles3/long-05-retirement-communities.md",
+  "slug": "game-programs-retirement-communities",
+  "title": "Retirement Community Activities: Game Programs That Work",
+  "description": "Retirement community activities residents keep coming back to: how to run a game program, which games fit best, and the common mistakes that empty the room.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles3/long-06-grandparent-grandchild.md",
+  "slug": "grandparent-grandchild-games",
+  "title": "Grandparent Grandchild Activities: The Game That Bonds",
+  "description": "The best grandparent grandchild activities are repeated, not special. Why a standing game builds a bond one turn at a time, and which games fit each age.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles3/long-07-friendship-decline.md",
+  "slug": "why-friendships-fade-with-age",
+  "title": "Why Friendships Fade With Age, and the Habit That Fixes It",
+  "description": "Friendships fade with age for predictable reasons, and the fix is not more effort. It is one standing commitment. What research says and how to build it.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles3/long-08-play-and-purpose.md",
+  "slug": "purpose-and-play-in-later-life",
+  "title": "Purpose in Retirement: Why Play Belongs in the Second Half",
+  "description": "Purpose in retirement does not have to mean a second career. Why a standing game, a group, and a role at the table can supply it, and what research says.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles3/long-09-caregivers.md",
+  "slug": "games-for-caregivers",
+  "title": "Activities for Caregivers: Games for an Hour Off",
+  "description": "Activities for caregivers who need an hour off: why a game beats rest, what to play alone or with the person you care for, and where to get real help.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles3/long-10-lev-institute.md",
+  "slug": "lev-institute-and-the-ludarium",
+  "title": "Longevity and Social Connection: Why LEV Runs a Game Lounge",
+  "description": "Longevity and social connection go hand in hand in the research. Why the LEV Institute, a longevity-ethics project, works side by side with a game lounge.",
+  "category": "Togethering"
+ },
+ {
+  "src": "articles3/prog-01-themed-nights.md",
+  "slug": "themed-game-night-ideas",
+  "title": "12 Themed Game Night Ideas Beyond \"Bring a Game\\",
+  "description": "Themed game night ideas for groups that have gone stale: twelve themes, each with the games, the setup, and the one rule that makes the whole night work.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles3/prog-02-tournament-bracket.md",
+  "slug": "how-to-run-a-board-game-tournament",
+  "title": "How to Run a Board Game Tournament: Brackets and Seeding",
+  "description": "How to run a board game tournament: choose a format (single, double, Swiss, or round robin), seed the bracket, handle tiebreaks, and keep every round on time.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles3/prog-03-league.md",
+  "slug": "board-game-league-format",
+  "title": "Board Game League Format: How to Run One for a Season",
+  "description": "A board game league format that lasts a full season: simple scoring, scheduling, handling missed weeks, and the standings rule that keeps players coming back.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles3/prog-04-trivia-night.md",
+  "slug": "how-to-host-trivia-night",
+  "title": "How to Host Trivia Night People Actually Come Back To",
+  "description": "How to host trivia night people come back to: good questions, round structure, scoring, the host's role, and the mistakes that empty a room by round four.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles3/prog-05-puzzle-night.md",
+  "slug": "puzzle-night-ideas",
+  "title": "Puzzle Night Ideas: Jigsaws, Escape Boxes, Mixed Groups",
+  "description": "Puzzle night works for groups that games split apart. Here is how to run one with jigsaws, escape boxes and paper puzzles, and why mixed groups love it.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles3/prog-06-forty-people.md",
+  "slug": "large-group-game-night",
+  "title": "Large Group Game Night: How to Run One for 40 People",
+  "description": "A large group game night for 40 needs a plan, not more games. Here is the room layout, the game mix, the staffing, and the schedule that keeps it moving.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles3/prog-07-learn-to-play.md",
+  "slug": "learn-to-play-events",
+  "title": "Learn to Play Event: Teaching One Game to a Whole Room",
+  "description": "How to run a learn to play event: pick the game, teach it once to the whole room, staff each table, and send people home ready to teach it at their own table.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles3/prog-08-rpg-drop-in.md",
+  "slug": "drop-in-rpg-night",
+  "title": "Drop-In D&D Nights: Running One-Shots for Strangers",
+  "description": "How to run drop in D&D and other RPG one-shots for people who just showed up: pregens, table size, the two-hour arc, and what the GM does differently.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles3/prog-09-kids-afternoon.md",
+  "slug": "kids-game-afternoon-program",
+  "title": "Kids Board Game Event: A Game Afternoon Parents Love",
+  "description": "How to run a kids board game event: age bands, the games that hold a table, the adult-to-kid ratio, and the two rules that keep it from becoming chaos.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles3/prog-10-seasonal-calendar.md",
+  "slug": "game-night-calendar-year",
+  "title": "Game Night Calendar: A Full Year of Seasonal Programming",
+  "description": "A game night calendar for all twelve months: one themed night per month, matched to the season, with the games and the reason each one lands when it does.",
+  "category": "Game Night"
+ },
+ {
+  "src": "articles3/strat-01-catan.md",
+  "slug": "how-to-win-at-catan",
+  "title": "How to Win at Catan: Placement, Trading, Reading the Table",
+  "description": "How to win at Catan more often: where to place your first settlements, how to trade without feeding the leader, and when to switch to development cards.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/strat-02-ticket-to-ride.md",
+  "slug": "ticket-to-ride-strategy",
+  "title": "Ticket to Ride Strategy: Routes, Blocking, Drawing Tickets",
+  "description": "Ticket to Ride strategy that holds up at a real table: picking starting tickets, when long routes beat short ones, when to block, and when to draw more.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/strat-03-wingspan.md",
+  "slug": "wingspan-strategy",
+  "title": "Wingspan Strategy for Players Who Keep Losing by Ten",
+  "description": "Wingspan strategy that closes the usual ten-point gap: build your engine in the right order, stop ignoring eggs, and start planning round four from round one.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/strat-04-codenames.md",
+  "slug": "codenames-clue-tips",
+  "title": "Codenames Clue Tips: Clues That Don't Get Your Team Killed",
+  "description": "Codenames tips for spymasters and guessers: how to find safe two-word clues, when to go for three, how to avoid the assassin, and how to guess as a team.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/strat-05-azul.md",
+  "slug": "azul-strategy",
+  "title": "Azul Strategy: Column Pressure, Floor Line Math, Denial",
+  "description": "Azul strategy for players who want to stop losing to the quiet person: how adjacency scoring works, when to take a floor penalty, and when to deny tiles.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/strat-06-pandemic.md",
+  "slug": "pandemic-strategy",
+  "title": "Pandemic Strategy: Beating the Game on Heroic Difficulty",
+  "description": "Pandemic board game strategy for the hardest setting: how to split roles, manage the infection deck, time cures, and stop losing to the outbreak chain.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/strat-07-7-wonders.md",
+  "slug": "7-wonders-strategy",
+  "title": "7 Wonders Strategy: Drafting, Neighbors, the Science Trap",
+  "description": "7 Wonders strategy for players who want to win more than one game in five: how to draft well, when to fight your neighbors, and why science often fails.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/strat-08-dominion.md",
+  "slug": "dominion-strategy-beginners",
+  "title": "Dominion Strategy for Beginners: Big Money and Beyond",
+  "description": "Dominion strategy for beginners: why Big Money beats most first-timers, how to read a kingdom, when to buy Provinces, and the mistakes that lose games.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/strat-09-carcassonne.md",
+  "slug": "carcassonne-strategy",
+  "title": "Carcassonne Strategy: Farmers, Cities, and Tile Odds",
+  "description": "Carcassonne strategy for anyone tired of losing to farms: when to place farmers, how to share or steal cities, and how to use tile counts to guess what's next.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles3/strat-10-splendor.md",
+  "slug": "splendor-strategy",
+  "title": "Splendor Strategy: The Engine, the Nobles, and Tempo",
+  "description": "Splendor strategy that wins against people who have played a hundred games: how to build an engine, when to reserve, how to read nobles, and tempo math.",
+  "category": "Game Guides"
+ },
+ {
+  "src": "articles4/cube-01-archetypes.md",
+  "slug": "cube-archetypes-explained",
+  "title": "Cube Archetypes Explained: The Ten Two-Color Lanes",
+  "description": "Cube archetypes explained for new drafters: what each of the ten two-color lanes wants, which cards signal it, and how many cards a cube needs to support it.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles4/cube-02-first-cube-list.md",
+  "slug": "cube-card-selection",
+  "title": "Cube Card Selection: Power, Role, and Fun",
+  "description": "Cube card selection for your first list: weigh raw power against the role a card fills and whether it is fun to play against, using a clear slot-by-slot method.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles4/cube-03-aggro-support.md",
+  "slug": "aggro-in-cube",
+  "title": "Aggro in Cube: Why It Dies and How to Keep It Alive",
+  "description": "Aggro cube decks fail for predictable reasons: too few one-drops, too much lifegain, slow burn. How to count, cut, and test so beatdown wins its share.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles4/cube-04-fixing.md",
+  "slug": "cube-mana-fixing",
+  "title": "Cube Mana Fixing: How Much, Which Kind, Where",
+  "description": "Cube mana fixing made clear: how many lands a 360 or 540 card cube needs, which land cycles play well, and how your fixing shapes the decks people draft.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles4/cube-05-updating.md",
+  "slug": "how-to-update-a-cube",
+  "title": "How to Update a Cube Without Breaking It",
+  "description": "A cube update process that keeps what works: when to change cards, how to swap slot for slot, how to track the results, and how to tell your drafters.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles4/cube-06-two-player.md",
+  "slug": "two-player-cube-formats",
+  "title": "Winston Draft, Grid, and Winchester: Two-Player Cube",
+  "description": "Winston draft, Grid draft, and Winchester draft explained step by step: card counts, how picks work, and which two-player cube format fits your night.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles4/cube-07-sealed-and-rotisserie.md",
+  "slug": "cube-sealed-rotisserie",
+  "title": "Rotisserie Draft, Cube Sealed, and Team Cube Formats",
+  "description": "Rotisserie draft, cube sealed, and team formats explained: how each works, how long it takes, and when to run one instead of a standard eight-player draft.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles4/cube-08-themed-cubes.md",
+  "slug": "themed-cube-ideas",
+  "title": "Themed Cube Ideas: Set Cubes, Tribal Cubes, and More",
+  "description": "Themed cube ideas that hold up at a weekly table: set cubes, tribal cubes, graveyard cubes, and budget cubes, plus the design rules that keep each one fun.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles4/cube-09-sleeves-storage.md",
+  "slug": "cube-sleeves-and-storage",
+  "title": "Cube Sleeves and Storage: What Lasts Through Weekly Play",
+  "description": "Cube sleeves and storage for a box you draft every week: which sleeves survive, when to double sleeve, how to box and sort the cards, and how to handle basics.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles4/cube-10-cubecobra.md",
+  "slug": "cubecobra-guide",
+  "title": "CubeCobra Guide: Listing, Testing, and Sharing a Cube",
+  "description": "A CubeCobra guide for cube owners: how to list your cube, build sample packs, draft against bots, keep a changelog, and share the full list with your playgroup.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles4/cube-11-eight-players.md",
+  "slug": "how-to-get-eight-players-for-a-draft",
+  "title": "Cube Draft Attendance: How to Get Eight Players Weekly",
+  "description": "Cube draft attendance is the whole problem. How Cube Commonwealth went from five-player nights to 12\u201316 every week for three years, and what we would copy.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles4/cube-12-pod-logistics.md",
+  "slug": "running-two-draft-pods",
+  "title": "Draft Pod Logistics: 16 Players, Two Pods, One Host",
+  "description": "Draft pod logistics for the night 12 to 16 people show up. How Cube Commonwealth split pods, ran two drafts with one host, and kept the whole room on time.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles4/cube-13-pairings.md",
+  "slug": "draft-pairings-and-records",
+  "title": "Cube Draft Pairings and Records Without the Tournament Feel",
+  "description": "Cube draft pairings, records, and prizes for a weekly group: what Cube Commonwealth tracked, what we dropped, and how to keep draft night friendly and relaxed.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles4/cube-14-new-player-night.md",
+  "slug": "cube-for-new-magic-players",
+  "title": "Learn Magic With a Cube: Our New-Player Night",
+  "description": "You can learn Magic with a cube faster than with any starter product. How Cube Commonwealth runs new-player night, what we slow down, and what we skip.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles4/cube-15-discord-setup.md",
+  "slug": "discord-setup-for-a-game-group",
+  "title": "Discord for a Game Group: Channels, Roles, Weekly Post",
+  "description": "Discord for a game group: the channels, roles, and weekly post that Cube Commonwealth used to get members of a 300-person local server to the table each week.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles4/cube-16-venue.md",
+  "slug": "where-to-host-a-cube-draft",
+  "title": "Where to Host a Draft: Stores, Breweries, Libraries, Homes",
+  "description": "Where to host a draft when the game store won't run cube. Stores, breweries, libraries, and homes compared on cost, hours, and whether people come back.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles4/cube-17-community-cube.md",
+  "slug": "community-owned-cube",
+  "title": "The Community Cube: Letting Members Shape the List",
+  "description": "A community cube is one box everyone has a say in. How Cube Commonwealth took member input on the list without losing the plot, and what we would change.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles4/cube-18-cube-league.md",
+  "slug": "cube-league-format",
+  "title": "Cube League Format That Doesn't Punish Missing a Week",
+  "description": "A cube league gives a weekly draft a season arc without turning it into a tournament. The Cube Commonwealth format, where missing a week costs nothing.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles4/cube-19-relaunch.md",
+  "slug": "relaunching-a-game-community",
+  "title": "How to Relaunch a Game Group After It Went Quiet",
+  "description": "How to relaunch a game group after it went quiet: the step-by-step playbook Cube Commonwealth is using to restart a 300-member community after a long pause.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles4/cube-20-indianapolis-cube.md",
+  "slug": "cube-draft-indianapolis",
+  "title": "Cube Draft Indianapolis: Cube Commonwealth and How to Join",
+  "description": "Looking for a cube draft in Indianapolis? Cube Commonwealth is a weekly Magic cube community relaunching now. How to join us, plus other local Magic venues.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t1-01-weekend-cube.md",
+  "slug": "build-a-cube-in-a-weekend",
+  "title": "Build a Cube Fast: A Draftable Cube in One Weekend",
+  "description": "Build a cube fast with a weekend plan: copy a skeleton on Friday, pull cards on Saturday, sleeve and test draft on Sunday. A draftable cube by Sunday night.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t1-02-from-your-collection.md",
+  "slug": "cube-from-your-collection",
+  "title": "Cube From Collection: Build With Cards You Already Own",
+  "description": "A cube from collection is the cheapest cube there is. How to sort boxes into a 360-card skeleton, pick a power band your cards support, and fill gaps.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t1-03-color-balance.md",
+  "slug": "cube-color-balance",
+  "title": "Cube Color Balance: Counts That Keep Every Color Open",
+  "description": "Cube color balance takes more than 50 cards per color. How to count by section, why green and white drift weak, and how to check balance after every draft.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t1-04-mana-curve.md",
+  "slug": "cube-mana-curve",
+  "title": "Cube Mana Curve: Why Two-Drops Decide Everything",
+  "description": "The cube mana curve shapes every draft. Target counts per mana value, why two-drops carry the format, and how to spot a top-heavy cube before drafters do.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t1-05-removal-suite.md",
+  "slug": "cube-removal-suite",
+  "title": "Cube Removal: How Much a Cube Needs, and Which Kinds",
+  "description": "Cube removal counts by color, the five kinds every cube needs, and why too little removal makes bombs unbeatable while too much makes creatures pointless.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t1-06-creatures-vs-spells.md",
+  "slug": "cube-creature-count",
+  "title": "Cube Creature Count: Getting Creatures vs Spells Right",
+  "description": "Cube creature count sets the pace of every game. Target ratios of creatures to spells by color, why 55 percent creatures works for most cubes, and how to test.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t1-07-first-draft-test.md",
+  "slug": "first-cube-draft-test",
+  "title": "Cube First Draft: What to Watch and What to Fix After",
+  "description": "Your cube first draft is a test, not a party. What to record during picks, deckbuilding and games, and how to turn one night into a useful change list.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t1-08-budget-under-200.md",
+  "slug": "budget-cube-under-200",
+  "title": "Budget Cube Under $200 That Plays Like Vintage",
+  "description": "A budget cube under $200 can feel like Vintage Cube: fast mana stand-ins, cheap reanimation, real archetypes. Where the money goes and where it does not.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t1-09-common-mistakes.md",
+  "slug": "cube-building-mistakes",
+  "title": "Cube Building Mistakes: Ten Every First Cube Makes",
+  "description": "Cube building mistakes nearly every first list makes, from top-heavy curves to pet cards. Ten errors, the fix for each, and how to spot them at the table.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t1-10-what-to-cut.md",
+  "slug": "cube-what-to-cut",
+  "title": "Cube Cuts: Trimming a Cube From 600 Cards to 540",
+  "description": "Cube cuts are harder than adds. A clear method for trimming a cube from 600 cards to 540: cut by section, cut by role, test the bottom, and keep the list lean.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t10-01-how-vintage-cube-updates-work.md",
+  "slug": "how-mtgo-vintage-cube-updates-work",
+  "title": "How MTGO Vintage Cube Updates Work (2026 Cadence)",
+  "description": "How MTGO Vintage Cube updates work in 2026: who curates the list, how often it changes, how big a swap list is, and where to find the official card list.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t10-02-latest-update.md",
+  "slug": "mtgo-vintage-cube-latest-changes",
+  "title": "Vintage Cube Changes, October 2026: All 35 Swaps",
+  "description": "The October 7, 2026 Vintage Cube changes explained: 35 swaps, madness out, landfall and Bomberman in, and a red prowess package. Every card, with reasons.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t10-03-what-paper-cubes-should-copy.md",
+  "slug": "vintage-cube-changes-for-paper",
+  "title": "Vintage Cube Changes Worth Copying in Paper",
+  "description": "Vintage Cube changes worth copying in paper: a simple filter for the 2026 MTGO swap lists, the cards that translate to a table, and the ones to leave online.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t10-04-archetypes-in-vintage-cube.md",
+  "slug": "vintage-cube-archetypes",
+  "title": "Vintage Cube Archetypes Right Now (October 2026)",
+  "description": "Vintage Cube archetypes in the October 7, 2026 MTGO list: Boros, Welder artifacts, Bomberman, landfall, red prowess, and Reanimator, with key cards for each.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t10-05-drafting-vintage-cube.md",
+  "slug": "how-to-draft-vintage-cube",
+  "title": "How to Draft Vintage Cube: Power, Lanes, Discipline",
+  "description": "How to draft the MTGO Vintage Cube in 2026: what to take first, when to commit to a lane, and the mistakes that lose leagues. Dated to the Oct 7 list.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t10-06-vintage-cube-controversies.md",
+  "slug": "vintage-cube-controversies",
+  "title": "Vintage Cube Controversies: The Arguments That Last",
+  "description": "Vintage Cube controversies on MTGO, dated and sourced: the 2023 overhaul, Time Vault, Hullbreacher, mid-league changes, packages, and the long fight over aggro.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t10-07-cards-that-left.md",
+  "slug": "cards-cut-from-vintage-cube",
+  "title": "Vintage Cube Cuts in 2026: Did They Deserve It?",
+  "description": "Vintage Cube cuts in 2026, from Tarmogoyf to Bazaar of Baghdad and Time Warp: the cards MTGO removed, the curator's reason for each, and our verdict on each.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t10-08-vintage-cube-schedule.md",
+  "slug": "when-is-vintage-cube-on-mtgo",
+  "title": "When Is Vintage Cube on MTGO? 2026 Schedule",
+  "description": "When is Vintage Cube on MTGO? Every 2026 league date so far, the current run from Oct 7 to Nov 4, entry costs, and how to find out when the next one starts.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t10-09-tracking-tools.md",
+  "slug": "track-cube-changes-tools",
+  "title": "Track Cube Changes: CubeCobra, Diffs, and Lists",
+  "description": "Tools to track cube changes: CubeCobra history, Lucky Paper's List Differ, plain diffs, and a routine for following the Vintage Cube and your own list.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t10-10-our-reference-cubes.md",
+  "slug": "reference-cubes-we-follow",
+  "title": "Reference Cubes We Follow and Why (2026 List)",
+  "description": "The reference cubes Cube Commonwealth tracks: MTGO Vintage Cube, The Pauper Cube, Lucky Paper, public CubeCobra lists. What each is for and when we check.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t2-01-360-vs-540.md",
+  "slug": "360-vs-540-cube",
+  "title": "360 vs 540 Cube: Which Size Fits Your Group",
+  "description": "360 vs 540 cube, decided by how you actually play: pod size, how often you draft, how many archetypes you want, and what each size costs in cards and time.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t2-02-180-mini-cube.md",
+  "slug": "180-card-cube",
+  "title": "180 Card Cube: Drafting With Four Players",
+  "description": "A 180 card cube is the right size for a four-player table. Here is the structure, the counts per color, which formats it supports, and what to leave out.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t2-03-720-and-beyond.md",
+  "slug": "720-card-cube",
+  "title": "720 Card Cube: When a Big Cube Helps and Hurts",
+  "description": "A 720 card cube seats two full pods and adds variety, but it strains archetypes and aggro. When a big cube helps, when it hurts, and how to build one well.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t2-04-sections-and-slots.md",
+  "slug": "cube-sections-and-slots",
+  "title": "Cube Slot Design: Sections and the Spreadsheet",
+  "description": "Cube slot design turns a pile of good cards into a format. How to break a cube into sections and named slots, plus the columns your spreadsheet needs.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t2-05-gold-and-colorless.md",
+  "slug": "cube-gold-section",
+  "title": "Cube Gold Section: How Big Should It Be?",
+  "description": "How big should a cube gold section be? Sizes by cube size and fixing level, how to split gold cards across color pairs, and what the colorless section owes it.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t2-06-land-count.md",
+  "slug": "cube-land-count",
+  "title": "Cube Land Count: Fixing, Utility Lands, Basics",
+  "description": "Cube land count by cube size: how many fixing lands, how many utility lands, how many basics to bring, and how the land section changes what gets drafted.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t2-07-pack-size.md",
+  "slug": "cube-pack-size",
+  "title": "Cube Pack Size: 15-Card Packs, 45 Picks, the Math",
+  "description": "Cube pack size explained: why 15 cards and 45 picks is standard, what changes with 12-card or 18-card packs, and how to size packs for any cube and pod.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t2-08-expanding.md",
+  "slug": "expanding-a-cube",
+  "title": "Expand a Cube Without Diluting It: 360 to 540",
+  "description": "How to expand a cube from 360 to 450 or 540 without weakening it: scale every section by ratio, deepen lanes before adding them, and test in three drafts.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t2-09-shrinking.md",
+  "slug": "shrinking-a-cube",
+  "title": "Shrink a Cube: The Case for 450 Cards",
+  "description": "Why and how to shrink a cube: the signs a 540 is bloated, the case for 450 as the best middle size, and a cut method that loses 90 cards but no lanes.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t2-10-modular-cube.md",
+  "slug": "modular-cube-design",
+  "title": "Modular Cube Design: Swappable Sections",
+  "description": "Modular cube design: a fixed core plus swappable modules that change the draft from night to night. How to size the core and build modules that fit cleanly.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t3-01-how-to-read-a-set.md",
+  "slug": "how-to-evaluate-new-cards-for-cube",
+  "title": "How to Evaluate New Cards for Cube: A Working Method",
+  "description": "How to evaluate new cards for cube the way experienced owners do: by slot, not by hype. A repeatable method you can use to read every new Magic set as it lands.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t3-02-set-review-template.md",
+  "slug": "cube-set-review-method",
+  "title": "Cube Set Review Method: Slot, Test, Keep or Cut",
+  "description": "The cube set review method we use for every Magic release: name the slot, test against incumbents, then keep or cut. Copy the template for your own cube.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t3-03-cube-set-review-reality-fracture.md",
+  "slug": "cube-set-review-reality-fracture",
+  "title": "Reality Fracture Cube Review: Walkers, Phoenix, Goyf",
+  "description": "Our Reality Fracture cube review: which new planeswalkers, Darklight Phoenix, Stingcaster Mage, and reprints earn a slot. Keep, test, or pass calls by tier.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t3-04-cube-set-review-the-hobbit.md",
+  "slug": "cube-set-review-the-hobbit",
+  "title": "The Hobbit Cube Review: Smaug, Bilbo, and Dwarf Equipment",
+  "description": "The Hobbit cube review: Smaug the Magnificent, Bilbo, Radagast, and the dwarf equipment suite rated by slot, with keep, test, and pass calls for each tier.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t3-05-cube-set-review-marvel-super-heroes.md",
+  "slug": "cube-set-review-marvel-super-heroes",
+  "title": "Marvel Super Heroes Cube Review: Mind Stone, Loki, Vision",
+  "description": "Marvel Super Heroes cube review: The Mind Stone, Captain America, The Vision, Loki, and Mjolnir rated by slot, with keep, test, and pass calls for each tier.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t3-06-cube-set-review-secrets-of-strixhaven.md",
+  "slug": "cube-set-review-secrets-of-strixhaven",
+  "title": "Secrets of Strixhaven Cube Review: Erode, Emeritus, Bolt",
+  "description": "Secrets of Strixhaven cube review: Erode, the Emeritus cycle with Bolt and Swords attached, Flashback, Grave Researcher and the dragons rated by slot.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t3-07-cube-set-review-teenage-mutant-ninja-turtles.md",
+  "slug": "cube-set-review-teenage-mutant-ninja-turtles",
+  "title": "TMNT Cube Review: Sneak, Super Shredder, Casey Jones",
+  "description": "Teenage Mutant Ninja Turtles cube review: sneak creatures, Super Shredder, Casey Jones, Cool but Rude, and Krang, each rated by slot for every tier of cube.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t3-08-cube-set-review-lorwyn-eclipsed.md",
+  "slug": "cube-set-review-lorwyn-eclipsed",
+  "title": "Lorwyn Eclipsed Cube Review: Bloom Tender, Oko, Shocks",
+  "description": "Lorwyn Eclipsed cube review: Bloom Tender, Bitterbloom Bearer, Hexing Squelcher, Oko, the evoke Incarnations and the shock land reprints rated by slot.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t3-09-year-in-cube.md",
+  "slug": "best-new-cube-cards-of-the-year",
+  "title": "Best Cube Cards This Year: Our Keeps From Six Sets",
+  "description": "The best cube cards this year, from Lorwyn Eclipsed through Reality Fracture: which new cards earned a lasting slot, which tests fell flat, and the reasons why.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t3-10-supplemental-sets.md",
+  "slug": "supplemental-sets-for-cube",
+  "title": "Commander Cards in Cube: Supplemental Sets, Masters, UB",
+  "description": "Commander cards in cube, Modern Horizons, Masters reprints and Universes Beyond: which supplemental sets produce real cube cards and how to review them.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t4-01-power-tiers.md",
+  "slug": "cube-power-levels-explained",
+  "title": "Cube Power Levels Explained: Vintage to Pauper",
+  "description": "Cube power level, tier by tier: what Vintage, Legacy, Modern and Pauper cubes include, which cards draw each line, and how to pick the band for your table.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t4-02-too-strong-unpowered.md",
+  "slug": "cards-too-strong-for-unpowered-cube",
+  "title": "Cards Too Strong for an Unpowered Cube",
+  "description": "Which cards are too strong for cube once the Power Nine are gone? The fast mana, lands, and engines that warp an unpowered list, and what to run instead.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t4-03-fast-mana.md",
+  "slug": "fast-mana-in-cube",
+  "title": "Fast Mana in Cube: Moxen, Rituals, and the Line",
+  "description": "Fast mana in cube, card by card: Moxen, Sol Ring, rituals, Signets, and Elves. What each one does to game speed, and four sensible places to draw your own line.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t4-04-combo.md",
+  "slug": "combo-in-cube",
+  "title": "Combo in Cube: Supported, Tolerated, or Banned?",
+  "description": "Combo in cube: the two-card kills from Splinter Twin to Thassa's Oracle, how many pieces each needs, and three clear policies to choose from for your list.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t4-05-planeswalkers.md",
+  "slug": "planeswalkers-in-cube",
+  "title": "Planeswalkers in Cube: How Many Is Too Many?",
+  "description": "Planeswalkers in cube: why they stack up fast, which ones still earn a slot at each mana value, a per-color count that works, and the signs you have too many.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t4-06-free-spells.md",
+  "slug": "free-spells-in-cube",
+  "title": "Free Spells in Cube and Why They Warp a Draft",
+  "description": "Free spells in cube, from Force of Will to the evoke elementals: how zero-mana spells break the mana system, which ones are worth it, and where to stop.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t4-07-card-advantage.md",
+  "slug": "card-advantage-in-cube",
+  "title": "Card Advantage in Cube: Keeping Blue Honest",
+  "description": "Card advantage in cube: the draw engines that take over games, from Necropotence to The One Ring, a per-color count to aim for, and how to keep blue in check.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t4-08-ban-list.md",
+  "slug": "cube-ban-list",
+  "title": "Does Your Cube Need a Ban List?",
+  "description": "Does your cube need a ban list? Usually not, since a cube is already a list. When a written exclusion rule does help, what belongs on it, and how to word it.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t4-09-power-creep.md",
+  "slug": "power-creep-and-cube",
+  "title": "Power Creep and Cube: What to Do About It",
+  "description": "Power creep is rewriting cubes: the 2019-onward cards that reset every band, what the MTGO Vintage Cube's updates show, and four ways an owner can respond.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t4-10-fun-vs-strong.md",
+  "slug": "fun-cards-vs-strong-cards",
+  "title": "Fun Cards vs Strong Cards: The Cube Trade-Off",
+  "description": "Fun cards vs strong cards in cube: why the strongest card is often the wrong pick, which cards earn a slot for play pattern, and a four-question test.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t5-01-what-is-your-cube-for.md",
+  "slug": "what-is-your-cube-for",
+  "title": "What Is Your Cube For? The Question Before Every Card",
+  "description": "Cube design philosophy starts with one question: what is this cube for? How purpose decides power level, archetypes, and which cards get cut from the list.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t5-02-archetype-density.md",
+  "slug": "archetype-density",
+  "title": "Archetype Density: How Many Lanes a Cube Can Support",
+  "description": "How many cube archetypes can a 360 or 540 list really support? A working count of cards per lane, the overlap trick, and when adding a deck removes one.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t5-03-signposts.md",
+  "slug": "cube-signpost-cards",
+  "title": "Signpost Cards: Teaching Drafters What Your Cube Wants",
+  "description": "Signpost cards in cube tell drafters which decks exist. How to pick gold signposts, where mono-colored signposts beat them, and why bad signposts lie.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t5-04-interaction.md",
+  "slug": "interaction-in-cube",
+  "title": "Interaction Density and Why Cube Games Feel Good",
+  "description": "Cube interaction density decides whether games feel like real games or races. How much removal your cube needs, and why the mix matters more than the raw count.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t5-05-variance.md",
+  "slug": "variance-in-cube-design",
+  "title": "Variance Is a Dial, Not a Flaw: Cube Design and Luck",
+  "description": "Cube variance is a dial the designer sets, not a flaw. Where luck enters a cube, which cards turn it up or down, and how to choose a level for your room.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t5-06-nostalgia.md",
+  "slug": "nostalgia-in-cube",
+  "title": "Nostalgia in Cube: Old Cards and Why They Belong",
+  "description": "Old cards in cube earn their slots differently. Which classics still play, which are there for the memory, and how to keep both without building a museum.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t5-07-cube-identity.md",
+  "slug": "cube-identity",
+  "title": "Cube Identity: Giving a Cube Drafters Remember",
+  "description": "Cube identity is what makes drafters say 'that cube' instead of 'a cube.' The four places identity lives, with examples, and why a plain staples list has none.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t5-08-zeitgeist.md",
+  "slug": "cube-design-trends",
+  "title": "Cube Design Trends: How Cubes Changed in Ten Years",
+  "description": "Cube design trends from the early 2010s to now: smaller cubes, real aggro, fewer planeswalkers, more fixing, and the tools that changed how lists get made.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t5-09-the-cube-that-never-finishes.md",
+  "slug": "cube-is-never-finished",
+  "title": "Cube Maintenance: A Cube Is Never Finished",
+  "description": "Cube maintenance without burnout: a cadence for swaps, a watch list, a rule for new sets, and when to freeze a list on purpose instead of letting it drift.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t5-10-community-vs-owner.md",
+  "slug": "cube-owner-vs-community-design",
+  "title": "Cube Community Design: Owner's Vision vs Wish List",
+  "description": "Cube community design without losing the cube: how to take requests from drafters, which to grant, which to refuse, and a process that keeps one editor.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t6-01-what-goes-in-a-primer.md",
+  "slug": "how-to-write-a-cube-primer",
+  "title": "How to Write a Cube Primer People Actually Read",
+  "description": "How to write a cube primer people read: the document that turns a card list into a draft format. What to include, what to cut, and a section order that works.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t6-02-archetype-section.md",
+  "slug": "cube-primer-archetypes",
+  "title": "Cube Primer Archetypes: One Paragraph Per Lane",
+  "description": "How to write the archetype section of a cube primer: a plan, three signposts, and one weakness per lane, with worked examples drafters can use at pick one.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t6-03-house-rules.md",
+  "slug": "cube-house-rules",
+  "title": "Cube House Rules Worth Writing Down",
+  "description": "Cube house rules worth writing down: which ones belong in your primer, how to word each so the arguments stop, and the ten rules most groups end up needing.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t6-04-changelog.md",
+  "slug": "cube-changelog",
+  "title": "Keeping a Cube Changelog (and Why Drafters Love It)",
+  "description": "A cube changelog turns every swap into a record drafters can read and argue with. The entry format, what to log, and how to use CubeCobra's blog for it.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t6-05-visual-spoiler.md",
+  "slug": "cube-visual-spoiler",
+  "title": "Cube Visual Spoiler: Showing Your Cube at a Glance",
+  "description": "A cube visual spoiler shows the whole list as card images, sorted the way drafters think. How to build one on CubeCobra, sort it, and when to print it.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t6-06-draft-guide-for-new-players.md",
+  "slug": "cube-draft-guide-new-players",
+  "title": "Cube Draft Guide: A One-Page Guide for First-Timers",
+  "description": "A one-page cube draft guide to hand a first-timer: how a draft works, what to take, how many lands to play, and the five mistakes every new drafter makes once.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t6-07-faq-section.md",
+  "slug": "cube-primer-faq",
+  "title": "The Cube Primer FAQ Every Cube Needs",
+  "description": "A cube primer FAQ answers the questions your drafters ask every week. Which questions to include, how to answer each in two sentences, and a starter list.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t6-08-primer-for-themed-cube.md",
+  "slug": "themed-cube-primer",
+  "title": "Themed Cube Primer: Writing One for a Restricted Cube",
+  "description": "A themed cube primer must explain the restriction first. How to state the rule precisely, say what it costs, and redraw the archetype section around it.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t6-09-sharing-the-primer.md",
+  "slug": "sharing-a-cube-primer",
+  "title": "Share a Cube Primer: CubeCobra, Discord, or Print",
+  "description": "Where to put a cube primer so drafters read it: CubeCobra's overview, a pinned Discord post, and a printed sheet in the box. What goes where, and why.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t6-10-commonwealth-primer.md",
+  "slug": "cube-commonwealth-primer",
+  "title": "The Cube Commonwealth Primer",
+  "description": "The primer for the Cube Commonwealth cube in Indianapolis: what the cube is, how a night runs, the archetypes, the house rules, and how to join a draft.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t7-01-rochester.md",
+  "slug": "rochester-draft-cube",
+  "title": "Rochester Draft for Cube: The Open-Information Format",
+  "description": "Rochester draft for cube, step by step: how to lay out each pack, the snake pick order, who opens next, and how long eight players need to finish the draft.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t7-02-glimpse.md",
+  "slug": "glimpse-draft",
+  "title": "Glimpse Draft for Cube: Burn Two, Keep One",
+  "description": "Glimpse draft rules for cube: pack sizes, the take-one, burn-two step, pool counts for two to four players, and why it beats Winston draft on smaller nights.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t7-03-grid-four-players.md",
+  "slug": "grid-draft-four-players",
+  "title": "Grid Draft for Three and Four Players: Full Procedure",
+  "description": "Grid draft for three and four players: pack sizes, the refill rule, what the last player gets, how many cards you need, and how to pace eighteen grids.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t7-04-two-headed-giant.md",
+  "slug": "two-headed-giant-cube",
+  "title": "Two-Headed Giant Cube Draft: Rules and Procedure",
+  "description": "Two-Headed Giant cube draft from start to finish: two cards a pick, the shared pool, 30 life, the first-turn draw rule, and what to change in your cube to fit.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t7-05-team-draft.md",
+  "slug": "team-draft-cube",
+  "title": "3v3 Team Draft for Cube: Rules, Seating, and Scoring",
+  "description": "3v3 team draft for cube: alternating seats, 270 cards, how the nine matches work, scoring to five, and why every pass to an opponent changes the picks.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t7-06-chaos-and-conspiracy.md",
+  "slug": "conspiracy-cards-in-cube",
+  "title": "Conspiracy Cards in Cube: Cogwork Librarian and Friends",
+  "description": "Conspiracy cube guide: how Cogwork Librarian, conspiracies, and hidden agendas work in a draft, which ones to include, and how to run them without stalls.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t7-07-duplicate-voucher.md",
+  "slug": "duplicate-voucher-system",
+  "title": "Duplicate Voucher Cube Rule: Drafting a Second Copy",
+  "description": "The duplicate voucher cube rule lets a drafter cash in a voucher for a second copy of a card. How it works, which cards to exclude, and how to run it fairly.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t7-08-pick-timers.md",
+  "slug": "draft-pick-timers",
+  "title": "Draft Timer for Cube: Keep a Draft Under 45 Minutes",
+  "description": "Draft timer rules for cube night: official per-pick seconds, a casual schedule that works, how to run a clock without a judge, and where drafts lose time.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t7-09-sideboard-rules.md",
+  "slug": "cube-sideboard-rules",
+  "title": "Cube Sideboard Rules: What Counts and What Doesn't",
+  "description": "Cube sideboard rules: your whole unused pool is the sideboard. How basic lands and wishes work, when to sideboard, and the house rules worth writing down.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t7-10-house-rules-list.md",
+  "slug": "cube-house-rules-examples",
+  "title": "Cube House Rules Examples: Twelve Worth Borrowing",
+  "description": "Twelve cube house rules examples from primers we admire: pick clocks, lands, mulligans, proxies, vouchers, and more, each with the exact wording to copy.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t8-01-jumpstart-cube.md",
+  "slug": "jumpstart-cube",
+  "title": "Jumpstart Cube: Pre-Built Packs, 15-Minute Setup",
+  "description": "How to build a Jumpstart cube: 20 themed 20-card packs, the pack formula, converting an existing cube, and why it is the fastest Magic setup there is.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t8-02-battle-box.md",
+  "slug": "battle-box-magic",
+  "title": "Battle Box Magic: No Deckbuilding, Just Play",
+  "description": "Battle box Magic means no deckbuilding, just play. Shared-library rules, the ten-land setup, and how to build a 150-card box that plays better than most cubes.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t8-03-set-cube.md",
+  "slug": "set-cube",
+  "title": "Set Cube: Recreate a Draft Format Forever",
+  "description": "How to build a set cube that recreates a draft format forever: rarity ratios, pack construction, duplicates, and the Innistrad example that shows the math.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t8-04-pauper-cube.md",
+  "slug": "pauper-cube-guide",
+  "title": "Pauper Cube Guide: Commons Only, Full Depth",
+  "description": "A pauper cube construction guide: section counts for 360 and 540, the ten archetypes, the commons that anchor each, and where commons-only design bends.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t8-05-peasant-cube.md",
+  "slug": "peasant-cube",
+  "title": "Peasant Cube: The Uncommon Upgrade to Pauper",
+  "description": "Peasant cube, the uncommon upgrade to Pauper: how uncommons change a commons cube, which to run or ban, section counts for 360 and 450, and ten archetypes.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t8-06-commander-cube.md",
+  "slug": "commander-cube",
+  "title": "Commander Cube: Drafting Multiplayer Magic",
+  "description": "How to build a Commander cube for multiplayer: legend density, two-card picks, 60-card decks at 40 life, pod math for 4 to 8 players, and what to leave out.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t8-07-tribal-cube.md",
+  "slug": "tribal-cube",
+  "title": "Tribal Cube: Every Deck Has a Creature Type",
+  "description": "How to build a tribal cube where every deck has a creature type: how many tribes, members, and payoffs per tribe, where changelings go, and lessons from Lorwyn.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t8-08-chaos-cube.md",
+  "slug": "chaos-cube",
+  "title": "Chaos Cube: Embracing the Unfair on Purpose",
+  "description": "How to build a chaos cube, unfair on purpose: variance as the goal, the Un-card question, chaos effects worth running, and the slots that keep games fun.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t8-09-two-player-battle-decks.md",
+  "slug": "precon-vs-cube",
+  "title": "Precon vs Cube: Which Fits Your Table?",
+  "description": "Precon vs cube: setup time, cost, player count, and skill spread compared, plus the middle options of battle box, Jumpstart, and a precon cube for your table.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t8-10-chrome-cube.md",
+  "slug": "artifact-cube",
+  "title": "Artifact Cube: Building Around One Card Type",
+  "description": "How to build an artifact cube around one card type: the colorless column, why green sits out, Bridges as the singleton exception, ten archetypes, and counts.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t9-01-mtgo-vintage-cube.md",
+  "slug": "mtgo-vintage-cube-explained",
+  "title": "MTGO Vintage Cube: Why It Sets the Standard",
+  "description": "The MTGO Vintage Cube explained: how its 540 cards are chosen, who curates it, and why every paper cube ends up measured against it. Sources linked throughout.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t9-02-legacy-cube.md",
+  "slug": "mtgo-legacy-cube",
+  "title": "MTGO Legacy Cube: Vintage's Honest Cousin",
+  "description": "The MTGO Legacy Cube is the unpowered cousin of the Vintage Cube: no Power Nine, about 600 cards, and slower games. Its history, current list, and lessons.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t9-03-pauper-cube-community.md",
+  "slug": "the-pauper-cube",
+  "title": "The Pauper Cube: A Community-Maintained Classic",
+  "description": "The Pauper Cube has run on commons only since 2008, kept up by a team and updated twice a year. How it works, its archetypes, and what it teaches builders.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t9-04-lucky-paper-cubes.md",
+  "slug": "lucky-paper-cube-design",
+  "title": "Lucky Paper Cube Design: What It Taught Everyone",
+  "description": "Lucky Paper cube design turned taste into method: four questions, the Vindicate Test, land data from 75,000 decks, and the Cube Map. The ideas, with sources.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t9-05-famous-themed-cubes.md",
+  "slug": "famous-themed-cubes",
+  "title": "Five Famous Themed Cubes and What They Prove",
+  "description": "Five famous themed cubes, from Ravnica Cube and Nega-Cube to Chromatic Cube, Tinkerer's Cube, and the all-changeling cube, and the design lesson each proves.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t9-06-how-to-read-a-cube-list.md",
+  "slug": "how-to-read-a-cube-list",
+  "title": "How to Read a Cube List in Ten Minutes",
+  "description": "Read a cube list like a designer: count the sections, find the curve, spot the fixing, name the lanes. Examples from the MTGO Vintage and Legacy Cubes.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t9-07-steal-this.md",
+  "slug": "ideas-to-borrow-from-great-cubes",
+  "title": "Ten Cube Design Ideas Worth Borrowing",
+  "description": "Ten cube design ideas worth stealing from the Vintage Cube, the Pauper Cube, Lucky Paper and the spotlight cubes: packages, polish passes, voting, more.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t9-08-member-spotlight-template.md",
+  "slug": "cube-spotlight-template",
+  "title": "Cube Spotlight Template: Profile a Member's Cube",
+  "description": "A reusable cube spotlight template for profiling a member's cube: the questions to ask, the numbers to collect, the structure, and the mistakes to avoid.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t9-09-designer-interview-questions.md",
+  "slug": "cube-designer-interview-questions",
+  "title": "Cube Designer Interview: 20 Questions to Ask",
+  "description": "Twenty cube designer interview questions, grouped by purpose, with notes on what each answer reveals. For podcasts, spotlights, or talk after the draft.",
+  "category": "Magic & Cube"
+ },
+ {
+  "src": "articles5/t9-10-commonwealth-cube-history.md",
+  "slug": "cube-commonwealth-cube-history",
+  "title": "Cube Commonwealth History: Where Our Cube Came From",
+  "description": "Cube Commonwealth history: how our cube grew from a budget list on a kitchen table into the shared cube of a 300-member Indianapolis group, version by version.",
+  "category": "Magic & Cube"
+ }
+]
