@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Synthetic test fixture shaped like BGG XML API2 output. Values are made up. -->
+<items total="2" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="1001"><name type="primary" value="Feather Engine" /><yearpublished value="2019" /></item>
+  <item type="boardgame" id="1003"><name type="alternate" value="Feather Engine: Duel" /></item>
+</items>

@@ -213,6 +213,12 @@ Two tools already exist as separate projects. They should feel like part of The 
 - During the site build, build each tool with its base path set to its URL path (for example `/rpg-demo-library/`) and copy the output into the matching folder of the final site.
 - One Cloudflare Pages deploy then serves the whole domain. A change to a tool goes live by updating its submodule here (automate with a GitHub Action later if useful).
 
+**Card Catalog (new, 2026-10-17)**
+- A library-style catalog of board games (call-number shelves plus six feel dimensions, including The Ludarium's own Table Talk) and a tracker where subscribers log plays, build a Play Profile, and get picks for a whole table
+- Prototyped as a Claude artifact; not on the site yet. Start with `docs/card-catalog/HANDOFF.md`, which lists open decisions to settle with Levi before porting (it needs per-user data, which conflicts with "no accounts" below)
+- Spec: `docs/card-catalog/catalog-system.md`. Reference files: `tools/card-catalog/`. Article draft: `src/content/articles/how-we-catalog-board-games-by-how-they-feel.md`
+- BoardGameGeek bridge: `workers/bgg/`, a separate Cloudflare Worker (its own `package.json` and tests). BGG data needs a commercial license before it appears next to affiliate links or paid features; Levi is applying
+
 If a tool cannot run under a sub-path cleanly, stop and propose alternatives (such as a Cloudflare route to a separate Pages project) rather than hacking around it. Either way, apply the shared site chrome (header, footer, design tokens) so the tools look native.
 
 ## Out of scope for now

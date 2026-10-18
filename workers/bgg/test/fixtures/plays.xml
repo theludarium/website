@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Synthetic test fixture shaped like BGG XML API2 output. Values are made up. -->
+<plays username="testuser" userid="42" total="150" page="1" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <play id="9001" date="2026-10-10" quantity="1" length="65" incomplete="0" nowinstats="0" location="Home">
+    <item name="Feather Engine" objecttype="thing" objectid="1001"><subtypes><subtype value="boardgame" /></subtypes></item>
+    <comments>Close game.</comments>
+    <players>
+      <player username="testuser" userid="42" name="Levi" startposition="1" color="" score="88" new="0" rating="0" win="1" />
+      <player username="" userid="0" name="Kego" startposition="2" color="" score="80" new="1" rating="0" win="0" />
+    </players>
+  </play>
+  <play id="9002" date="2026-10-11" quantity="2" length="0" incomplete="0" nowinstats="0" location="">
+    <item name="The Quiet Crew" objecttype="thing" objectid="1002"><subtypes><subtype value="boardgame" /></subtypes></item>
+  </play>
+</plays>

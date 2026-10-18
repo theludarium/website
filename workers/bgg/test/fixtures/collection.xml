@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- Synthetic test fixture shaped like BGG XML API2 output. Values are made up. -->
+<items totalitems="2" termsofuse="https://boardgamegeek.com/xmlapi/termsofuse" pubdate="Sat, 17 Oct 2026 12:00:00 +0000">
+  <item objecttype="thing" objectid="1001" subtype="boardgame" collid="555">
+    <name sortindex="1">Feather Engine</name>
+    <yearpublished>2019</yearpublished>
+    <image>https://example.test/i1.jpg</image>
+    <thumbnail>https://example.test/t1.jpg</thumbnail>
+    <stats minplayers="1" maxplayers="5" minplaytime="40" maxplaytime="70" playingtime="70" numowned="9000">
+      <rating value="9"><usersrated value="5000" /><average value="8.05" /><bayesaverage value="7.9" /></rating>
+    </stats>
+    <status own="1" prevowned="0" fortrade="0" want="0" wanttoplay="0" wanttobuy="0" wishlist="0" preordered="0" lastmodified="2026-01-01 10:00:00" />
+    <numplays>12</numplays>
+  </item>
+  <item objecttype="thing" objectid="1002" subtype="boardgame" collid="556">
+    <name sortindex="5">The Quiet Crew</name>
+    <yearpublished>2021</yearpublished>
+    <stats minplayers="2" maxplayers="5" playingtime="20">
+      <rating value="N/A"><usersrated value="300" /></rating>
+    </stats>
+    <status own="0" prevowned="0" fortrade="0" want="0" wanttoplay="1" wanttobuy="0" wishlist="1" wishlistpriority="3" preordered="0" lastmodified="2026-02-01 10:00:00" />
+    <numplays>0</numplays>
+  </item>
+</items>
