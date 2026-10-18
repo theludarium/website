@@ -24,7 +24,7 @@ It started from Tabletop Library's article [Making a Better Board Game Recommend
 | Catalog system spec | `docs/card-catalog/catalog-system.md` | Final for v1 |
 | Article: "How We Catalog Board Games by How They Feel" | `src/content/articles/how-we-catalog-board-games-by-how-they-feel.md` | Draft (`draft: true`). Also lives as a Claude doc: https://claude.ai/code/artifact/e861158c-097f-4b1b-af5a-2aa2be26bafd |
 | Card Catalog prototype | `tools/card-catalog/prototype-artifact.html`, live at https://claude.ai/artifact/6ChA98N3mMAc1xtNks5Mxx | Working prototype, version 3 |
-| Starter catalog, 90 games | `tools/card-catalog/catalog-seed.json` | First-draft classifications by Claude; Levi should skim them |
+| Starter catalog, 90 games | `src/data/card-catalogue.json` (moved from `tools/card-catalog/catalog-seed.json`) | First-draft classifications by Claude; Levi should skim them |
 | BGG Worker | `workers/bgg/` | Built and tested against synthetic fixtures; not deployed; no token yet |
 
 ### The prototype (reference implementation)
@@ -44,7 +44,14 @@ Data model in the prototype (per user, private): `game` docs `{slug, rating, own
 
 A Cloudflare Worker with a Durable Object that queues every BGG call 2 seconds apart, retries 202/429/5xx, and caches in SQLite. Routes: collection, plays, things (details plus community polls), search, and catalog suggestions. The token is a Worker secret. `examples/import-to-ludarium.js` turns an import into catalog records. Full details and the compliance checklist are in `workers/bgg/README.md`. Run `npm install && npm test` inside `workers/bgg/`.
 
-## Conflicts with CLAUDE.md to resolve with Levi
+## Update, 2026-10-18: ported to the site
+
+- **Conflict 1 decided by Levi: local-first.** Data lives in each visitor's browser; no accounts or database. Live at `/card-catalogue/`. Friends share a table code instead of a synced profile.
+- **Conflict 3:** the port uses the site's tokens (Walnut, Parchment, Felt Green, Lamplight, Stone, Fraunces).
+- **Conflict 4:** the article's call to action now says the catalogue is free and open to everyone, with no account. The article is published.
+- **Not ported yet:** the AI Librarian and BGG import.
+
+## Conflicts with CLAUDE.md to resolve with Levi (original list)
 
 These came out of the chat and need a decision before porting. Ask Levi; do not decide alone.
 
@@ -55,7 +62,7 @@ These came out of the chat and need a decision before porting. Ask Levi; do not 
 
 ## Suggested next steps
 
-1. Levi skims the 90 game classifications in `catalog-seed.json` (feel levels and best player counts).
+1. Levi skims the 90 game classifications in `src/data/card-catalogue.json` (feel levels and best player counts).
 2. Decide conflict 1, then build `/card-catalog/` (or `/play/card-catalog/`) in site style from the prototype.
 3. Publish the article when the tool is reachable; cross-link it from `/play/`.
 4. When the BGG token arrives: deploy `workers/bgg`, link catalog cards to BGG ids with `/api/bgg/search?exact=1`, show BGG's best player counts labeled as BGG's, add "Import from BoardGameGeek," and show the "Powered by BGG" logo linked to BoardGameGeek wherever BGG data appears.

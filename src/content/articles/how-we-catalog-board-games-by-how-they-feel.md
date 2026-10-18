@@ -3,11 +3,11 @@ title: How We Catalog Board Games by How They Feel
 description: Box categories never tell you how a game night will feel. Here is how The Ludarium catalogs board games by shelf and six dimensions of feel, Table Talk too.
 pubDate: 2026-10-17
 category: Game Guides
-tags: [card catalog, choosing games, game night, table talk]
-draft: true
+tags: [card catalogue, choosing games, game night, table talk]
+draft: false
 ---
 
-The box tells you what's inside a game. It rarely tells you what an evening with it will feel like. That gap is why we built The Ludarium Catalog: a library-style system that files every game by its form and describes it by six dimensions of feel.
+The box tells you what's inside a game. It rarely tells you what an evening with it will feel like. That gap is why we built [The Ludarium Card Catalogue](/card-catalogue/): a library-style system that files every game by its form and describes it by six dimensions of feel.
 
 You know the moment. Four friends, one shelf, twenty minutes of debate. Someone suggests the game with the best ratings. An hour later, one person is quietly miserable, two are lost in the rules, and nobody laughed.
 
@@ -73,12 +73,12 @@ A few notes on reading the levels:
 
 ## Six ways we improved the system
 
-Tabletop Library was candid about what their recommender still gets wrong. We designed The Ludarium Catalog to close those gaps from day one, and added a few ideas of our own.
+Tabletop Library was candid about what their recommender still gets wrong. We designed the Card Catalogue to close those gaps from day one, and added a few ideas of our own.
 
 1. **Table Talk, a sixth dimension.** As above. It measures the thing our mission cares about: whether people connect.
-2. **Sweet-spot player counts.** A box that says 1 to 5 players hides the truth that many games shine at one or two counts. Every card lists a "best at" range, starting from community player-count votes and refined by our own play logs.
-3. **Real play times.** Box times are guesses. Our members log how long each play actually took, how many people played, and whether someone was learning. Over time each game gets a real run time for your group size, not one number printed on a box.
-4. **Togethering outcomes.** After each play, members answer two quick questions: would you play again with this group, and how loud was the table? That closes the biggest gap in most recommenders, which only guess whether a pick looks right. We measure whether the evening actually worked.
+2. **Sweet-spot player counts.** A box that says 1 to 5 players hides the truth that many games shine at one or two counts. Every card lists a "best at" range, so the catalogue knows a game that seats five may sing at three.
+3. **Real play times.** Box times are guesses. You log how long each play actually took, how many people played, and whether someone was learning. Over time each game gets a real run time for your group size, not one number printed on a box.
+4. **Togethering outcomes.** After each play, you answer two quick questions: would you play again with this group, and how loud was the table? That closes the biggest gap in most recommenders, which only guess whether a pick looks right. We measure whether the evening actually worked.
 5. **Discovery picks.** Recommenders tend to serve twelve versions of the same game. Every set of picks we make includes one Discovery pick from a shelf you rarely visit, chosen to still fit your profile.
 6. **Occasions.** Game nights have contexts the dimensions miss. Every card is tagged for occasions like Date night, Family, New friends, Team building, Game group and Two-player.
 
@@ -123,15 +123,17 @@ Three answers usually narrow a shelf of forty games to four or five good ones.
 
 **Why only three levels per dimension?** Three is enough to separate games that feel different, and few enough that anyone can rate a game in under a minute. Finer scales invite arguments about 6 versus 7.
 
-**Who decides a game's levels?** We file the first card. Member play logs then check it. If most tables log Chess as Quiet, it stays Quiet.
+**Who decides a game's levels?** We file every card, and we revise cards as we learn. Your own play logs show how a game really runs at your table: if your group logs a "Chatty" game as Raucous every time, you'll see it.
 
 **What if a game fits two shelves?** It goes where you spend most of your turns. The six dimensions capture the rest.
 
-**Can I add a game you haven't cataloged?** Yes. In the catalog app you can file your own card, with a shelf and all six dimensions.
+**Can I add a game you haven't cataloged?** Yes. In the [Card Catalogue](/card-catalogue/) you can file your own card, with a shelf and all six dimensions.
 
 ## Start your Play Profile
 
-The Ludarium Card Catalog is open to subscribers. Log your plays, rate your games, and watch your Play Profile take shape. Subscribe to our newsletter to get access.
+[The Card Catalogue](/card-catalogue/) is free and open to everyone, with no account. Rate a few games you know, log your plays, and watch your Play Profile take shape. Your cards stay on your own device. Then bring your friends to the table: share a table code, add guests, and let the catalogue find a game everyone will enjoy.
+
+[Open the Card Catalogue](/card-catalogue/)
 
 Never stop playing.
 
