@@ -68,6 +68,7 @@ export const MAIN_NAV: NavItem[] = [
     label: 'Play',
     children: [
       { href: '/play/', label: 'All tools', description: 'Free tools for players and game nights.' },
+      { href: '/card-catalogue/', label: 'Card Catalogue', description: 'Find games by how they feel. Picks for your whole table.' },
       { href: '/rpg-demo-library/', label: 'RPG Demo Library', description: 'Try a role-playing game before you buy it.' },
       { href: '/game-night-madness/', label: 'Game Night Madness', description: 'Let a bracket pick tonight’s game.' },
       { href: '/store/', label: 'Store', description: 'PDFs and digital goods for your table.' },

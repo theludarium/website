@@ -1,0 +1,22 @@
+{
+  "name": "ludarium-bgg-worker",
+  "version": "0.1.0",
+  "private": true,
+  "description": "The Ludarium's BoardGameGeek bridge: collection import, game details, and catalog suggestions.",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "fast-xml-parser": "4.5.0"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "4.20250214.0",
+    "typescript": "5.6.3",
+    "vitest": "2.1.8",
+    "wrangler": "3.109.2"
+  }
+}

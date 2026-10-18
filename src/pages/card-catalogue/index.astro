@@ -1,0 +1,71 @@
+---
+// The Card Catalogue: a free game tool. The catalogue is rendered here so it
+// reads without JavaScript (and for search engines); the script then turns it
+// into the full app. All personal data stays in the visitor's browser.
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import catalogData from '@/data/card-catalogue.json';
+import { SHELVES, type Catalog } from '@/lib/card-catalogue/engine';
+import { cardHTML } from '@/lib/card-catalogue/render';
+import '@/styles/card-catalogue.css';
+
+const catalog = catalogData as unknown as Catalog;
+const sorted = Object.entries(catalog).sort((a, b) => a[1].call.localeCompare(b[1].call) || a[1].name.localeCompare(b[1].name));
+const tabs = [
+  ['catalogue', 'Catalogue'],
+  ['night', 'Game night'],
+  ['log', 'Log a play'],
+  ['shelf', 'My shelf'],
+  ['profile', 'Profile'],
+];
+---
+
+<BaseLayout
+  title="The Card Catalogue"
+  description="Find board games by how they feel, not just what is on the box. Rate what you play, build your Play Profile, and get game picks for your whole table. Free."
+>
+  <section class="cc-intro">
+    <div class="container">
+      <p class="eyebrow">Free tool</p>
+      <h1>The Card Catalogue</h1>
+      <p class="lede">
+        Every game filed on a library shelf and sorted by six dimensions of feel. Rate what you play, and
+        it learns your taste and picks games your whole table will enjoy.
+      </p>
+      <p class="cc-intro__fine">
+        No account needed. Your cards stay on this device. <a href="/articles/how-we-catalog-board-games-by-how-they-feel/">How the catalogue works</a>
+      </p>
+    </div>
+  </section>
+
+  <section class="container cc" id="cc-app">
+    <div class="cc-tabs" role="tablist" aria-label="Card Catalogue">
+      {
+        tabs.map(([key, label], i) => (
+          <button type="button" role="tab" id={`cc-tab-${key}`} data-tab={key} aria-selected={i === 0 ? 'true' : 'false'} aria-controls="cc-view" tabindex={i === 0 ? 0 : -1}>
+            {label}
+          </button>
+        ))
+      }
+    </div>
+
+    <div id="cc-view" role="tabpanel" aria-labelledby="cc-tab-catalogue">
+      <p class="cc-count">{sorted.length} games on {Object.keys(SHELVES).length} shelves</p>
+      <div class="cc-cards">
+        {sorted.map(([slug, g]) => <Fragment set:html={cardHTML(slug, g)} />)}
+      </div>
+      <noscript><p class="cc-note">Turn on JavaScript to rate games, log plays, and get picks for your table.</p></noscript>
+    </div>
+
+    <dialog id="cc-sheet" aria-labelledby="cc-sheet-title">
+      <div class="cc-sheet__inner">
+        <button type="button" class="cc-sheet__close" data-act="close" aria-label="Close">Close</button>
+        <div id="cc-sheet-body"></div>
+      </div>
+    </dialog>
+    <div id="cc-toast" class="cc-toast" role="status" aria-live="polite" hidden></div>
+  </section>
+</BaseLayout>
+
+<script>
+  import '@/scripts/card-catalogue';
+</script>

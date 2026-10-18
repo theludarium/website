@@ -115,6 +115,28 @@ A short log of choices made and why. Newest at the bottom.
 - **Metadata check after every build** (`scripts/check-seo.mjs`): fails the build if a page is missing a title, description, canonical on theludarium.com, exactly one h1, share image, or image alt text; if indexable pages share a title or description; or if a title, description, or alt text has an em dash. Warns on long titles and descriptions. Cloudflare runs it too, so a broken page cannot ship.
 - **`@types/node`** added as a dev dependency for the build-time code.
 
+## 2026-10-17: Card Catalog (from a Claude chat session)
+
+- **New tool: The Ludarium Card Catalog.** Built on Tabletop Library's classification and recommender write-up, with our improvements: a sixth feel dimension (Table Talk), best player counts, real play times from logs, togethering outcomes (play again, how loud the table was), Discovery picks, and occasion tags. Full summary in `docs/card-catalog/HANDOFF.md`.
+- **Prototype first as a Claude artifact,** then port to the site. Levi's choice. The prototype is the behavior reference; it is not served from this repo.
+- **Group picks use a geometric mean** of each player's fit, after hard rules in code (player count, time, vetoes, a teacher for heavy games). Table Talk weighs 1.5 times the other dimensions.
+- **Article** "How We Catalog Board Games by How They Feel" added as a draft. It credits Tabletop Library and introduces our system.
+- **BoardGameGeek bridge** built as a separate Worker in `workers/bgg/`: server-side token, one queue spacing calls 2 seconds apart, cached results, BGG values never edited, attribution on every response. Not deployed; waiting on Levi's BGG token and commercial license.
+- **Root `tsconfig.json` excludes `workers/`** so `astro check` does not type-check the Worker, which has its own config.
+- **Open:** how to host per-user tracking without breaking the "no accounts" rule. Options are in the handoff; ask Levi before choosing.
+
+
+## 2026-10-18: Card Catalogue on the site
+
+- **Local-first, Levi's choice** over accounts now or leaving it as a Claude artifact. Everything a visitor records stays in their browser (localStorage), with backup download, restore, and CSV export. Keeps the "no accounts, no database" rule; sync can come later.
+- **Group picks without accounts:** friends trade a table code (their feel profile and game lists, never notes or ratings), and guests can be added by hand.
+- **Ported faithfully:** the engine (`src/lib/card-catalogue/engine.ts`) implements the spec exactly and is tested against the full 90-game catalog: profile weights, centered fit with Table Talk at 1.5 times, hard rules, geometric-mean group fit, Discovery picks, logged play times.
+- **Readable without JavaScript:** all 90 cards are in the page HTML, so search engines index them; the script turns the page into the app.
+- **Name:** "The Card Catalogue" in the UI and URL, per Levi. Docs from the chat session keep "Card Catalog."
+- **Article published** with its claims made accurate: no community-vote data yet (that needs BoardGameGeek's commercial license), play logs stay on each device, and the call to action points to the free app.
+- **Tuning note for Levi:** with the spec's math, a game that misses only on Table Talk can still fit about 85%. If Table Talk should matter more, raise its weight above 1.5.
+- **Not yet:** the AI Librarian (needs a paid server-side Claude call) and BoardGameGeek import (waits on the token and commercial license).
+
 ## 2026-10-18: Content library import (from claude.ai chat sessions)
 
 - **339 articles added as drafts** in `src/content/articles/`, written and source-checked in chat. Nothing goes live until an article is set to `draft: false`. Notes on what was converted and why: `docs/content-library/README.md`.

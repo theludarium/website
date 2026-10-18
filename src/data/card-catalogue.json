@@ -1,0 +1,2505 @@
+{
+ "codenames": {
+  "name": "Codenames",
+  "shelf": "000",
+  "sub": "010",
+  "call": "010 COD 2015",
+  "dims": {
+   "theme": 1,
+   "luck": 2,
+   "inter": 2,
+   "learn": 1,
+   "tempo": 2,
+   "talk": 3
+  },
+  "players": [
+   2,
+   8
+  ],
+  "best": [
+   6,
+   7,
+   8
+  ],
+  "minutes": 15,
+  "occasions": [
+   "New friends",
+   "Team building",
+   "Game group"
+  ],
+  "year": 2015
+ },
+ "just-one": {
+  "name": "Just One",
+  "shelf": "000",
+  "sub": "010",
+  "call": "010 JUS 2018",
+  "dims": {
+   "theme": 1,
+   "luck": 2,
+   "inter": 2,
+   "learn": 1,
+   "tempo": 1,
+   "talk": 3
+  },
+  "players": [
+   3,
+   7
+  ],
+  "best": [
+   5,
+   6,
+   7
+  ],
+  "minutes": 20,
+  "occasions": [
+   "Family",
+   "New friends",
+   "Team building"
+  ],
+  "year": 2018
+ },
+ "hues-and-cues": {
+  "name": "Hues and Cues",
+  "shelf": "000",
+  "sub": "020",
+  "call": "020 HUE 2020",
+  "dims": {
+   "theme": 1,
+   "luck": 2,
+   "inter": 2,
+   "learn": 1,
+   "tempo": 1,
+   "talk": 3
+  },
+  "players": [
+   3,
+   10
+  ],
+  "best": [
+   5,
+   6,
+   7,
+   8
+  ],
+  "minutes": 30,
+  "occasions": [
+   "Family",
+   "New friends"
+  ],
+  "year": 2020
+ },
+ "monikers": {
+  "name": "Monikers",
+  "shelf": "000",
+  "sub": "020",
+  "call": "020 MON 2015",
+  "dims": {
+   "theme": 1,
+   "luck": 1,
+   "inter": 2,
+   "learn": 1,
+   "tempo": 1,
+   "talk": 3
+  },
+  "players": [
+   4,
+   16
+  ],
+  "best": [
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "minutes": 60,
+  "occasions": [
+   "New friends",
+   "Game group",
+   "Family"
+  ],
+  "year": 2015
+ },
+ "wavelength": {
+  "name": "Wavelength",
+  "shelf": "000",
+  "sub": "020",
+  "call": "020 WAV 2019",
+  "dims": {
+   "theme": 1,
+   "luck": 2,
+   "inter": 2,
+   "learn": 1,
+   "tempo": 1,
+   "talk": 3
+  },
+  "players": [
+   2,
+   12
+  ],
+  "best": [
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "minutes": 45,
+  "occasions": [
+   "New friends",
+   "Team building",
+   "Family"
+  ],
+  "year": 2019
+ },
+ "telestrations": {
+  "name": "Telestrations",
+  "shelf": "000",
+  "sub": "030",
+  "call": "030 TEL 2009",
+  "dims": {
+   "theme": 1,
+   "luck": 1,
+   "inter": 1,
+   "learn": 1,
+   "tempo": 1,
+   "talk": 3
+  },
+  "players": [
+   4,
+   8
+  ],
+  "best": [
+   6,
+   7,
+   8
+  ],
+  "minutes": 30,
+  "occasions": [
+   "Family",
+   "New friends"
+  ],
+  "year": 2009
+ },
+ "dixit": {
+  "name": "Dixit",
+  "shelf": "000",
+  "sub": "040",
+  "call": "040 DIX 2008",
+  "dims": {
+   "theme": 2,
+   "luck": 2,
+   "inter": 2,
+   "learn": 1,
+   "tempo": 1,
+   "talk": 2
+  },
+  "players": [
+   3,
+   6
+  ],
+  "best": [
+   5,
+   6
+  ],
+  "minutes": 30,
+  "occasions": [
+   "Family",
+   "New friends",
+   "Date night"
+  ],
+  "year": 2008
+ },
+ "crokinole": {
+  "name": "Crokinole",
+  "shelf": "000",
+  "sub": "050",
+  "call": "050 CRO 1876",
+  "dims": {
+   "theme": 1,
+   "luck": 3,
+   "inter": 3,
+   "learn": 1,
+   "tempo": 2,
+   "talk": 3
+  },
+  "players": [
+   2,
+   4
+  ],
+  "best": [
+   2,
+   3,
+   4
+  ],
+  "minutes": 30,
+  "occasions": [
+   "Family",
+   "Game group",
+   "Two-player"
+  ],
+  "year": 1876
+ },
+ "flick-em-up": {
+  "name": "Flick 'em Up!",
+  "shelf": "000",
+  "sub": "050",
+  "call": "050 FLI 2015",
+  "dims": {
+   "theme": 3,
+   "luck": 2,
+   "inter": 3,
+   "learn": 1,
+   "tempo": 1,
+   "talk": 3
+  },
+  "players": [
+   2,
+   10
+  ],
+  "best": [
+   4,
+   5,
+   6
+  ],
+  "minutes": 45,
+  "occasions": [
+   "Family",
+   "New friends"
+  ],
+  "year": 2015
+ },
+ "jenga": {
+  "name": "Jenga",
+  "shelf": "000",
+  "sub": "050",
+  "call": "050 JEN 1983",
+  "dims": {
+   "theme": 1,
+   "luck": 1,
+   "inter": 2,
+   "learn": 1,
+   "tempo": 1,
+   "talk": 3
+  },
+  "players": [
+   1,
+   8
+  ],
+  "best": [
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "minutes": 20,
+  "occasions": [
+   "Family",
+   "New friends"
+  ],
+  "year": 1983
+ },
+ "resistance-avalon": {
+  "name": "The Resistance: Avalon",
+  "shelf": "100",
+  "sub": "110",
+  "call": "110 AVA 2012",
+  "dims": {
+   "theme": 2,
+   "luck": 2,
+   "inter": 3,
+   "learn": 2,
+   "tempo": 3,
+   "talk": 3
+  },
+  "players": [
+   5,
+   10
+  ],
+  "best": [
+   7,
+   8,
+   9,
+   10
+  ],
+  "minutes": 30,
+  "occasions": [
+   "Game group",
+   "New friends"
+  ],
+  "year": 2012
+ },
+ "blood-on-the-clocktower": {
+  "name": "Blood on the Clocktower",
+  "shelf": "100",
+  "sub": "110",
+  "call": "110 BLO 2022",
+  "dims": {
+   "theme": 3,
+   "luck": 3,
+   "inter": 3,
+   "learn": 3,
+   "tempo": 3,
+   "talk": 3
+  },
+  "players": [
+   5,
+   20
+  ],
+  "best": [
+   10,
+   11,
+   12,
+   13,
+   14,
+   15
+  ],
+  "minutes": 120,
+  "occasions": [
+   "Game group"
+  ],
+  "year": 2022
+ },
+ "one-night-ultimate-werewolf": {
+  "name": "One Night Ultimate Werewolf",
+  "shelf": "100",
+  "sub": "110",
+  "call": "110 ONE 2014",
+  "dims": {
+   "theme": 2,
+   "luck": 2,
+   "inter": 3,
+   "learn": 1,
+   "tempo": 3,
+   "talk": 3
+  },
+  "players": [
+   3,
+   10
+  ],
+  "best": [
+   6,
+   7,
+   8,
+   9
+  ],
+  "minutes": 10,
+  "occasions": [
+   "New friends",
+   "Game group"
+  ],
+  "year": 2014
+ },
+ "coup": {
+  "name": "Coup",
+  "shelf": "100",
+  "sub": "120",
+  "call": "120 COU 2012",
+  "dims": {
+   "theme": 2,
+   "luck": 2,
+   "inter": 3,
+   "learn": 1,
+   "tempo": 2,
+   "talk": 3
+  },
+  "players": [
+   2,
+   6
+  ],
+  "best": [
+   5,
+   6
+  ],
+  "minutes": 15,
+  "occasions": [
+   "New friends",
+   "Game group"
+  ],
+  "year": 2012
+ },
+ "decrypto": {
+  "name": "Decrypto",
+  "shelf": "100",
+  "sub": "120",
+  "call": "120 DEC 2018",
+  "dims": {
+   "theme": 1,
+   "luck": 3,
+   "inter": 3,
+   "learn": 2,
+   "tempo": 2,
+   "talk": 3
+  },
+  "players": [
+   3,
+   8
+  ],
+  "best": [
+   4,
+   5,
+   6
+  ],
+  "minutes": 45,
+  "occasions": [
+   "Game group",
+   "Team building"
+  ],
+  "year": 2018
+ },
+ "love-letter": {
+  "name": "Love Letter",
+  "shelf": "100",
+  "sub": "120",
+  "call": "120 LOV 2012",
+  "dims": {
+   "theme": 2,
+   "luck": 1,
+   "inter": 3,
+   "learn": 1,
+   "tempo": 1,
+   "talk": 2
+  },
+  "players": [
+   2,
+   6
+  ],
+  "best": [
+   4
+  ],
+  "minutes": 20,
+  "occasions": [
+   "Date night",
+   "Family",
+   "New friends"
+  ],
+  "year": 2012
+ },
+ "skull": {
+  "name": "Skull",
+  "shelf": "100",
+  "sub": "120",
+  "call": "120 SKU 2011",
+  "dims": {
+   "theme": 1,
+   "luck": 2,
+   "inter": 3,
+   "learn": 1,
+   "tempo": 2,
+   "talk": 3
+  },
+  "players": [
+   3,
+   6
+  ],
+  "best": [
+   4,
+   5,
+   6
+  ],
+  "minutes": 30,
+  "occasions": [
+   "New friends",
+   "Game group"
+  ],
+  "year": 2011
+ },
+ "cryptid": {
+  "name": "Cryptid",
+  "shelf": "100",
+  "sub": "130",
+  "call": "130 CRY 2018",
+  "dims": {
+   "theme": 1,
+   "luck": 3,
+   "inter": 2,
+   "learn": 2,
+   "tempo": 2,
+   "talk": 1
+  },
+  "players": [
+   3,
+   5
+  ],
+  "best": [
+   4,
+   5
+  ],
+  "minutes": 50,
+  "occasions": [
+   "Game group"
+  ],
+  "year": 2018
+ },
+ "search-for-planet-x": {
+  "name": "The Search for Planet X",
+  "shelf": "100",
+  "sub": "130",
+  "call": "130 SEA 2020",
+  "dims": {
+   "theme": 2,
+   "luck": 3,
+   "inter": 2,
+   "learn": 2,
+   "tempo": 3,
+   "talk": 1
+  },
+  "players": [
+   1,
+   4
+  ],
+  "best": [
+   3,
+   4
+  ],
+  "minutes": 70,
+  "occasions": [
+   "Game group"
+  ],
+  "year": 2020
+ },
+ "dead-of-winter": {
+  "name": "Dead of Winter",
+  "shelf": "100",
+  "sub": "140",
+  "call": "140 DEA 2014",
+  "dims": {
+   "theme": 3,
+   "luck": 2,
+   "inter": 3,
+   "learn": 2,
+   "tempo": 2,
+   "talk": 3
+  },
+  "players": [
+   2,
+   5
+  ],
+  "best": [
+   4,
+   5
+  ],
+  "minutes": 120,
+  "occasions": [
+   "Game group"
+  ],
+  "year": 2014
+ },
+ "mysterium": {
+  "name": "Mysterium",
+  "shelf": "100",
+  "sub": "140",
+  "call": "140 MYS 2015",
+  "dims": {
+   "theme": 3,
+   "luck": 2,
+   "inter": 3,
+   "learn": 1,
+   "tempo": 1,
+   "talk": 2
+  },
+  "players": [
+   2,
+   7
+  ],
+  "best": [
+   5,
+   6
+  ],
+  "minutes": 45,
+  "occasions": [
+   "Family",
+   "New friends"
+  ],
+  "year": 2015
+ },
+ "pandemic": {
+  "name": "Pandemic",
+  "shelf": "200",
+  "sub": "210",
+  "call": "210 PAN 2008",
+  "dims": {
+   "theme": 2,
+   "luck": 2,
+   "inter": 3,
+   "learn": 2,
+   "tempo": 2,
+   "talk": 2
+  },
+  "players": [
+   2,
+   4
+  ],
+  "best": [
+   4
+  ],
+  "minutes": 45,
+  "occasions": [
+   "Family",
+   "Team building",
+   "Game group"
+  ],
+  "year": 2008
+ },
+ "pandemic-legacy-season-1": {
+  "name": "Pandemic Legacy: Season 1",
+  "shelf": "200",
+  "sub": "210",
+  "call": "210 PAN 2015",
+  "dims": {
+   "theme": 3,
+   "luck": 2,
+   "inter": 3,
+   "learn": 2,
+   "tempo": 3,
+   "talk": 2
+  },
+  "players": [
+   2,
+   4
+  ],
+  "best": [
+   4
+  ],
+  "minutes": 60,
+  "occasions": [
+   "Game group"
+  ],
+  "year": 2015
+ },
+ "crew-mission-deep-sea": {
+  "name": "The Crew: Mission Deep Sea",
+  "shelf": "200",
+  "sub": "220",
+  "call": "220 CRE 2021",
+  "dims": {
+   "theme": 1,
+   "luck": 3,
+   "inter": 3,
+   "learn": 1,
+   "tempo": 2,
+   "talk": 1
+  },
+  "players": [
+   2,
+   5
+  ],
+  "best": [
+   4
+  ],
+  "minutes": 20,
+  "occasions": [
+   "Game group",
+   "Team building"
+  ],
+  "year": 2021
+ },
+ "hanabi": {
+  "name": "Hanabi",
+  "shelf": "200",
+  "sub": "220",
+  "call": "220 HAN 2010",
+  "dims": {
+   "theme": 1,
+   "luck": 2,
+   "inter": 3,
+   "learn": 1,
+   "tempo": 2,
+   "talk": 1
+  },
+  "players": [
+   2,
+   5
+  ],
+  "best": [
+   3,
+   4
+  ],
+  "minutes": 25,
+  "occasions": [
+   "Team building",
+   "Family"
+  ],
+  "year": 2010
+ },
+ "mind": {
+  "name": "The Mind",
+  "shelf": "200",
+  "sub": "220",
+  "call": "220 MIN 2018",
+  "dims": {
+   "theme": 1,
+   "luck": 1,
+   "inter": 3,
+   "learn": 1,
+   "tempo": 2,
+   "talk": 1
+  },
+  "players": [
+   2,
+   4
+  ],
+  "best": [
+   4
+  ],
+  "minutes": 20,
+  "occasions": [
+   "Team building",
+   "Family",
+   "New friends"
+  ],
+  "year": 2018
+ },
+ "spirit-island": {
+  "name": "Spirit Island",
+  "shelf": "200",
+  "sub": "230",
+  "call": "230 SPI 2017",
+  "dims": {
+   "theme": 3,
+   "luck": 3,
+   "inter": 3,
+   "learn": 3,
+   "tempo": 3,
+   "talk": 2
+  },
+  "players": [
+   1,
+   4
+  ],
+  "best": [
+   2,
+   3
+  ],
+  "minutes": 120,
+  "occasions": [
+   "Game group"
+  ],
+  "year": 2017
+ },
+ "codenames-duet": {
+  "name": "Codenames: Duet",
+  "shelf": "200",
+  "sub": "240",
+  "call": "240 COD 2017",
+  "dims": {
+   "theme": 1,
+   "luck": 2,
+   "inter": 3,
+   "learn": 1,
+   "tempo": 2,
+   "talk": 2
+  },
+  "players": [
+   2,
+   2
+  ],
+  "best": [
+   2
+  ],
+  "minutes": 20,
+  "occasions": [
+   "Date night",
+   "Two-player"
+  ],
+  "year": 2017
+ },
+ "sky-team": {
+  "name": "Sky Team",
+  "shelf": "200",
+  "sub": "240",
+  "call": "240 SKY 2023",
+  "dims": {
+   "theme": 2,
+   "luck": 2,
+   "inter": 3,
+   "learn": 1,
+   "tempo": 3,
+   "talk": 1
+  },
+  "players": [
+   2,
+   2
+  ],
+  "best": [
+   2
+  ],
+  "minutes": 20,
+  "occasions": [
+   "Date night",
+   "Two-player"
+  ],
+  "year": 2023
+ },
+ "euchre": {
+  "name": "Euchre",
+  "shelf": "300",
+  "sub": "310",
+  "call": "310 EUC",
+  "dims": {
+   "theme": 1,
+   "luck": 2,
+   "inter": 3,
+   "learn": 1,
+   "tempo": 2,
+   "talk": 3
+  },
+  "players": [
+   4,
+   4
+  ],
+  "best": [
+   4
+  ],
+  "minutes": 30,
+  "occasions": [
+   "Family",
+   "Game group"
+  ]
+ },
+ "hearts": {
+  "name": "Hearts",
+  "shelf": "300",
+  "sub": "310",
+  "call": "310 HEA",
+  "dims": {
+   "theme": 1,
+   "luck": 2,
+   "inter": 3,
+   "learn": 1,
+   "tempo": 2,
+   "talk": 2
+  },
+  "players": [
+   3,
+   6
+  ],
+  "best": [
+   4
+  ],
+  "minutes": 30,
+  "occasions": [
+   "Family"
+  ]
+ },
+ "rook": {
+  "name": "Rook",
+  "shelf": "300",
+  "sub": "310",
+  "call": "310 ROO 1906",
+  "dims": {
+   "theme": 1,
+   "luck": 2,
+   "inter": 3,
+   "learn": 1,
+   "tempo": 2,
+   "talk": 2
+  },
+  "players": [
+   4,
+   4
+  ],
+  "best": [
+   4
+  ],
+  "minutes": 45,
+  "occasions": [
+   "Family"
+  ],
+  "year": 1906
+ },
+ "skull-king": {
+  "name": "Skull King",
+  "shelf": "300",
+  "sub": "310",
+  "call": "310 SKU 2013",
+  "dims": {
+   "theme": 2,
+   "luck": 2,
+   "inter": 3,
+   "learn": 1,
+   "tempo": 2,
+   "talk": 3
+  },
+  "players": [
+   2,
+   8
+  ],
+  "best": [
+   4,
+   5,
+   6
+  ],
+  "minutes": 30,
+  "occasions": [
+   "Game group",
+   "Family"
+  ],
+  "year": 2013
+ },
+ "spades": {
+  "name": "Spades",
+  "shelf": "300",
+  "sub": "310",
+  "call": "310 SPA",
+  "dims": {
+   "theme": 1,
+   "luck": 2,
+   "inter": 3,
+   "learn": 1,
+   "tempo": 2,
+   "talk": 3
+  },
+  "players": [
+   4,
+   4
+  ],
+  "best": [
+   4
+  ],
+  "minutes": 45,
+  "occasions": [
+   "Family",
+   "Game group"
+  ]
+ },
+ "cribbage": {
+  "name": "Cribbage",
+  "shelf": "300",
+  "sub": "320",
+  "call": "320 CRI",
+  "dims": {
+   "theme": 1,
+   "luck": 2,
+   "inter": 3,
+   "learn": 2,
+   "tempo": 2,
+   "talk": 2
+  },
+  "players": [
+   2,
+   4
+  ],
+  "best": [
+   2
+  ],
+  "minutes": 30,
+  "occasions": [
+   "Two-player",
+   "Date night",
+   "Family"
+  ]
+ },
+ "lost-cities": {
+  "name": "Lost Cities",
+  "shelf": "300",
+  "sub": "320",
+  "call": "320 LOS 1999",
+  "dims": {
+   "theme": 2,
+   "luck": 2,
+   "inter": 2,
+   "learn": 1,
+   "tempo": 2,
+   "talk": 1
+  },
+  "players": [
+   2,
+   2
+  ],
+  "best": [
+   2
+  ],
+  "minutes": 30,
+  "occasions": [
+   "Date night",
+   "Two-player"
+  ],
+  "year": 1999
+ },
+ "tichu": {
+  "name": "Tichu",
+  "shelf": "300",
+  "sub": "330",
+  "call": "330 TIC 1991",
+  "dims": {
+   "theme": 1,
+   "luck": 2,
+   "inter": 3,
+   "learn": 2,
+   "tempo": 2,
+   "talk": 2
+  },
+  "players": [
+   4,
+   4
+  ],
+  "best": [
+   4
+  ],
+  "minutes": 60,
+  "occasions": [
+   "Game group"
+  ],
+  "year": 1991
+ },
+ "uno": {
+  "name": "Uno",
+  "shelf": "300",
+  "sub": "330",
+  "call": "330 UNO 1971",
+  "dims": {
+   "theme": 1,
+   "luck": 1,
+   "inter": 3,
+   "learn": 1,
+   "tempo": 1,
+   "talk": 3
+  },
+  "players": [
+   2,
+   10
+  ],
+  "best": [
+   4,
+   5,
+   6
+  ],
+  "minutes": 30,
+  "occasions": [
+   "Family",
+   "New friends"
+  ],
+  "year": 1971
+ },
+ "7-wonders": {
+  "name": "7 Wonders",
+  "shelf": "400",
+  "sub": "410",
+  "call": "410 SEV 2010",
+  "dims": {
+   "theme": 2,
+   "luck": 2,
+   "inter": 2,
+   "learn": 2,
+   "tempo": 2,
+   "talk": 1
+  },
+  "players": [
+   3,
+   7
+  ],
+  "best": [
+   4,
+   5,
+   6,
+   7
+  ],
+  "minutes": 30,
+  "occasions": [
+   "Game group"
+  ],
+  "year": 2010
+ },
+ "7-wonders-duel": {
+  "name": "7 Wonders Duel",
+  "shelf": "400",
+  "sub": "410",
+  "call": "410 SEV 2015",
+  "dims": {
+   "theme": 2,
+   "luck": 3,
+   "inter": 3,
+   "learn": 2,
+   "tempo": 2,
+   "talk": 1
+  },
+  "players": [
+   2,
+   2
+  ],
+  "best": [
+   2
+  ],
+  "minutes": 30,
+  "occasions": [
+   "Two-player",
+   "Date night"
+  ],
+  "year": 2015
+ },
+ "sushi-go-party": {
+  "name": "Sushi Go Party!",
+  "shelf": "400",
+  "sub": "410",
+  "call": "410 SUS 2016",
+  "dims": {
+   "theme": 2,
+   "luck": 2,
+   "inter": 2,
+   "learn": 1,
+   "tempo": 1,
+   "talk": 2
+  },
+  "players": [
+   2,
+   8
+  ],
+  "best": [
+   4,
+   5,
+   6
+  ],
+  "minutes": 20,
+  "occasions": [
+   "Family",
+   "New friends"
+  ],
+  "year": 2016
+ },
+ "parks": {
+  "name": "Parks",
+  "shelf": "400",
+  "sub": "420",
+  "call": "420 PAR 2019",
+  "dims": {
+   "theme": 2,
+   "luck": 2,
+   "inter": 2,
+   "learn": 1,
+   "tempo": 2,
+   "talk": 1
+  },
+  "players": [
+   1,
+   5
+  ],
+  "best": [
+   2,
+   3
+  ],
+  "minutes": 60,
+  "occasions": [
+   "Date night",
+   "Family"
+  ],
+  "year": 2019
+ },
+ "point-salad": {
+  "name": "Point Salad",
+  "shelf": "400",
+  "sub": "420",
+  "call": "420 POI 2019",
+  "dims": {
+   "theme": 1,
+   "luck": 2,
+   "inter": 1,
+   "learn": 1,
+   "tempo": 1,
+   "talk": 1
+  },
+  "players": [
+   1,
+   6
+  ],
+  "best": [
+   2,
+   3,
+   4
+  ],
+  "minutes": 20,
+  "occasions": [
+   "Family",
+   "Date night"
+  ],
+  "year": 2019
+ },
+ "ticket-to-ride": {
+  "name": "Ticket to Ride",
+  "shelf": "400",
+  "sub": "420",
+  "call": "420 TIC 2004",
+  "dims": {
+   "theme": 2,
+   "luck": 2,
+   "inter": 2,
+   "learn": 1,
+   "tempo": 2,
+   "talk": 2
+  },
+  "players": [
+   2,
+   5
+  ],
+  "best": [
+   4
+  ],
+  "minutes": 60,
+  "occasions": [
+   "Family",
+   "Date night",
+   "New friends"
+  ],
+  "year": 2004
+ },
+ "clank": {
+  "name": "Clank!",
+  "shelf": "500",
+  "sub": "510",
+  "call": "510 CLA 2016",
+  "dims": {
+   "theme": 3,
+   "luck": 2,
+   "inter": 2,
+   "learn": 2,
+   "tempo": 2,
+   "talk": 2
+  },
+  "players": [
+   2,
+   4
+  ],
+  "best": [
+   4
+  ],
+  "minutes": 60,
+  "occasions": [
+   "Game group",
+   "Family"
+  ],
+  "year": 2016
+ },
+ "dominion": {
+  "name": "Dominion",
+  "shelf": "500",
+  "sub": "510",
+  "call": "510 DOM 2008",
+  "dims": {
+   "theme": 1,
+   "luck": 2,
+   "inter": 2,
+   "learn": 2,
+   "tempo": 2,
+   "talk": 1
+  },
+  "players": [
+   2,
+   4
+  ],
+  "best": [
+   3
+  ],
+  "minutes": 30,
+  "occasions": [
+   "Game group"
+  ],
+  "year": 2008
+ },
+ "star-realms": {
+  "name": "Star Realms",
+  "shelf": "500",
+  "sub": "510",
+  "call": "510 STA 2014",
+  "dims": {
+   "theme": 2,
+   "luck": 2,
+   "inter": 3,
+   "learn": 1,
+   "tempo": 2,
+   "talk": 1
+  },
+  "players": [
+   2,
+   2
+  ],
+  "best": [
+   2
+  ],
+  "minutes": 20,
+  "occasions": [
+   "Two-player"
+  ],
+  "year": 2014
+ },
+ "ark-nova": {
+  "name": "Ark Nova",
+  "shelf": "500",
+  "sub": "520",
+  "call": "520 ARK 2021",
+  "dims": {
+   "theme": 2,
+   "luck": 2,
+   "inter": 1,
+   "learn": 3,
+   "tempo": 3,
+   "talk": 1
+  },
+  "players": [
+   1,
+   4
+  ],
+  "best": [
+   2
+  ],
+  "minutes": 150,
+  "occasions": [
+   "Game group"
+  ],
+  "year": 2021
+ },
+ "forest-shuffle": {
+  "name": "Forest Shuffle",
+  "shelf": "500",
+  "sub": "520",
+  "call": "520 FOR 2023",
+  "dims": {
+   "theme": 2,
+   "luck": 2,
+   "inter": 1,
+   "learn": 2,
+   "tempo": 2,
+   "talk": 1
+  },
+  "players": [
+   2,
+   5
+  ],
+  "best": [
+   2,
+   3
+  ],
+  "minutes": 60,
+  "occasions": [
+   "Date night",
+   "Game group"
+  ],
+  "year": 2023
+ },
+ "quacks-of-quedlinburg": {
+  "name": "The Quacks of Quedlinburg",
+  "shelf": "500",
+  "sub": "520",
+  "call": "520 QUA 2018",
+  "dims": {
+   "theme": 2,
+   "luck": 1,
+   "inter": 1,
+   "learn": 1,
+   "tempo": 2,
+   "talk": 2
+  },
+  "players": [
+   2,
+   4
+  ],
+  "best": [
+   4
+  ],
+  "minutes": 45,
+  "occasions": [
+   "Family",
+   "Game group"
+  ],
+  "year": 2018
+ },
+ "terraforming-mars": {
+  "name": "Terraforming Mars",
+  "shelf": "500",
+  "sub": "520",
+  "call": "520 TER 2016",
+  "dims": {
+   "theme": 2,
+   "luck": 2,
+   "inter": 2,
+   "learn": 3,
+   "tempo": 2,
+   "talk": 1
+  },
+  "players": [
+   1,
+   5
+  ],
+  "best": [
+   3
+  ],
+  "minutes": 120,
+  "occasions": [
+   "Game group"
+  ],
+  "year": 2016
+ },
+ "wingspan": {
+  "name": "Wingspan",
+  "shelf": "500",
+  "sub": "520",
+  "call": "520 WIN 2019",
+  "dims": {
+   "theme": 2,
+   "luck": 2,
+   "inter": 1,
+   "learn": 2,
+   "tempo": 2,
+   "talk": 1
+  },
+  "players": [
+   1,
+   5
+  ],
+  "best": [
+   3,
+   4
+  ],
+  "minutes": 70,
+  "occasions": [
+   "Date night",
+   "Game group"
+  ],
+  "year": 2019
+ },
+ "brass-birmingham": {
+  "name": "Brass: Birmingham",
+  "shelf": "500",
+  "sub": "530",
+  "call": "530 BRA 2018",
+  "dims": {
+   "theme": 2,
+   "luck": 3,
+   "inter": 2,
+   "learn": 3,
+   "tempo": 3,
+   "talk": 1
+  },
+  "players": [
+   2,
+   4
+  ],
+  "best": [
+   3,
+   4
+  ],
+  "minutes": 120,
+  "occasions": [
+   "Game group"
+  ],
+  "year": 2018
+ },
+ "concordia": {
+  "name": "Concordia",
+  "shelf": "500",
+  "sub": "530",
+  "call": "530 CON 2013",
+  "dims": {
+   "theme": 2,
+   "luck": 3,
+   "inter": 2,
+   "learn": 2,
+   "tempo": 2,
+   "talk": 1
+  },
+  "players": [
+   2,
+   5
+  ],
+  "best": [
+   4
+  ],
+  "minutes": 90,
+  "occasions": [
+   "Game group"
+  ],
+  "year": 2013
+ },
+ "splendor": {
+  "name": "Splendor",
+  "shelf": "500",
+  "sub": "530",
+  "call": "530 SPL 2014",
+  "dims": {
+   "theme": 1,
+   "luck": 2,
+   "inter": 2,
+   "learn": 1,
+   "tempo": 2,
+   "talk": 1
+  },
+  "players": [
+   2,
+   4
+  ],
+  "best": [
+   3
+  ],
+  "minutes": 30,
+  "occasions": [
+   "Date night",
+   "Family"
+  ],
+  "year": 2014
+ },
+ "agricola": {
+  "name": "Agricola",
+  "shelf": "500",
+  "sub": "540",
+  "call": "540 AGR 2007",
+  "dims": {
+   "theme": 2,
+   "luck": 3,
+   "inter": 2,
+   "learn": 3,
+   "tempo": 3,
+   "talk": 1
+  },
+  "players": [
+   1,
+   4
+  ],
+  "best": [
+   3,
+   4
+  ],
+  "minutes": 120,
+  "occasions": [
+   "Game group"
+  ],
+  "year": 2007
+ },
+ "dune-imperium": {
+  "name": "Dune: Imperium",
+  "shelf": "500",
+  "sub": "540",
+  "call": "540 DUN 2020",
+  "dims": {
+   "theme": 3,
+   "luck": 2,
+   "inter": 3,
+   "learn": 3,
+   "tempo": 3,
+   "talk": 2
+  },
+  "players": [
+   1,
+   4
+  ],
+  "best": [
+   3,
+   4
+  ],
+  "minutes": 120,
+  "occasions": [
+   "Game group"
+  ],
+  "year": 2020
+ },
+ "everdell": {
+  "name": "Everdell",
+  "shelf": "500",
+  "sub": "540",
+  "call": "540 EVE 2018",
+  "dims": {
+   "theme": 2,
+   "luck": 2,
+   "inter": 2,
+   "learn": 2,
+   "tempo": 2,
+   "talk": 1
+  },
+  "players": [
+   1,
+   4
+  ],
+  "best": [
+   3
+  ],
+  "minutes": 80,
+  "occasions": [
+   "Date night",
+   "Game group"
+  ],
+  "year": 2018
+ },
+ "lords-of-waterdeep": {
+  "name": "Lords of Waterdeep",
+  "shelf": "500",
+  "sub": "540",
+  "call": "540 LOR 2012",
+  "dims": {
+   "theme": 2,
+   "luck": 2,
+   "inter": 2,
+   "learn": 2,
+   "tempo": 2,
+   "talk": 2
+  },
+  "players": [
+   2,
+   5
+  ],
+  "best": [
+   4
+  ],
+  "minutes": 75,
+  "occasions": [
+   "Game group"
+  ],
+  "year": 2012
+ },
+ "lost-ruins-of-arnak": {
+  "name": "Lost Ruins of Arnak",
+  "shelf": "500",
+  "sub": "540",
+  "call": "540 LOS 2020",
+  "dims": {
+   "theme": 3,
+   "luck": 2,
+   "inter": 2,
+   "learn": 2,
+   "tempo": 2,
+   "talk": 1
+  },
+  "players": [
+   1,
+   4
+  ],
+  "best": [
+   2,
+   3
+  ],
+  "minutes": 90,
+  "occasions": [
+   "Game group",
+   "Date night"
+  ],
+  "year": 2020
+ },
+ "viticulture": {
+  "name": "Viticulture",
+  "shelf": "500",
+  "sub": "540",
+  "call": "540 VIT 2013",
+  "dims": {
+   "theme": 3,
+   "luck": 2,
+   "inter": 2,
+   "learn": 2,
+   "tempo": 2,
+   "talk": 2
+  },
+  "players": [
+   1,
+   6
+  ],
+  "best": [
+   3,
+   4,
+   5
+  ],
+  "minutes": 90,
+  "occasions": [
+   "Game group",
+   "Date night"
+  ],
+  "year": 2013
+ },
+ "king-of-tokyo": {
+  "name": "King of Tokyo",
+  "shelf": "600",
+  "sub": "610",
+  "call": "610 KIN 2011",
+  "dims": {
+   "theme": 2,
+   "luck": 1,
+   "inter": 3,
+   "learn": 1,
+   "tempo": 1,
+   "talk": 3
+  },
+  "players": [
+   2,
+   6
+  ],
+  "best": [
+   4,
+   5
+  ],
+  "minutes": 30,
+  "occasions": [
+   "Family",
+   "New friends"
+  ],
+  "year": 2011
+ },
+ "root": {
+  "name": "Root",
+  "shelf": "600",
+  "sub": "620",
+  "call": "620 ROO 2018",
+  "dims": {
+   "theme": 3,
+   "luck": 2,
+   "inter": 3,
+   "learn": 3,
+   "tempo": 3,
+   "talk": 2
+  },
+  "players": [
+   2,
+   4
+  ],
+  "best": [
+   4
+  ],
+  "minutes": 90,
+  "occasions": [
+   "Game group"
+  ],
+  "year": 2018
+ },
+ "twilight-imperium-fourth-edition": {
+  "name": "Twilight Imperium (Fourth Edition)",
+  "shelf": "600",
+  "sub": "620",
+  "call": "620 TWI 2017",
+  "dims": {
+   "theme": 3,
+   "luck": 2,
+   "inter": 3,
+   "learn": 3,
+   "tempo": 3,
+   "talk": 3
+  },
+  "players": [
+   3,
+   6
+  ],
+  "best": [
+   6
+  ],
+  "minutes": 480,
+  "occasions": [
+   "Game group"
+  ],
+  "year": 2017
+ },
+ "scythe": {
+  "name": "Scythe",
+  "shelf": "600",
+  "sub": "630",
+  "call": "630 SCY 2016",
+  "dims": {
+   "theme": 3,
+   "luck": 2,
+   "inter": 2,
+   "learn": 3,
+   "tempo": 2,
+   "talk": 1
+  },
+  "players": [
+   1,
+   5
+  ],
+  "best": [
+   4,
+   5
+  ],
+  "minutes": 115,
+  "occasions": [
+   "Game group"
+  ],
+  "year": 2016
+ },
+ "small-world": {
+  "name": "Small World",
+  "shelf": "600",
+  "sub": "630",
+  "call": "630 SMA 2009",
+  "dims": {
+   "theme": 2,
+   "luck": 2,
+   "inter": 3,
+   "learn": 2,
+   "tempo": 2,
+   "talk": 2
+  },
+  "players": [
+   2,
+   5
+  ],
+  "best": [
+   4
+  ],
+  "minutes": 80,
+  "occasions": [
+   "Game group",
+   "Family"
+  ],
+  "year": 2009
+ },
+ "camel-up": {
+  "name": "Camel Up",
+  "shelf": "600",
+  "sub": "650",
+  "call": "650 CAM 2014",
+  "dims": {
+   "theme": 2,
+   "luck": 1,
+   "inter": 2,
+   "learn": 1,
+   "tempo": 1,
+   "talk": 3
+  },
+  "players": [
+   3,
+   8
+  ],
+  "best": [
+   5,
+   6,
+   7,
+   8
+  ],
+  "minutes": 30,
+  "occasions": [
+   "Family",
+   "New friends"
+  ],
+  "year": 2014
+ },
+ "heat-pedal-to-the-metal": {
+  "name": "Heat: Pedal to the Metal",
+  "shelf": "600",
+  "sub": "650",
+  "call": "650 HEA 2022",
+  "dims": {
+   "theme": 3,
+   "luck": 2,
+   "inter": 3,
+   "learn": 1,
+   "tempo": 3,
+   "talk": 2
+  },
+  "players": [
+   1,
+   6
+  ],
+  "best": [
+   4,
+   5,
+   6
+  ],
+  "minutes": 60,
+  "occasions": [
+   "Game group",
+   "Family"
+  ],
+  "year": 2022
+ },
+ "bohnanza": {
+  "name": "Bohnanza",
+  "shelf": "700",
+  "sub": "710",
+  "call": "710 BOH 1997",
+  "dims": {
+   "theme": 2,
+   "luck": 2,
+   "inter": 3,
+   "learn": 1,
+   "tempo": 2,
+   "talk": 3
+  },
+  "players": [
+   2,
+   7
+  ],
+  "best": [
+   4,
+   5,
+   6
+  ],
+  "minutes": 45,
+  "occasions": [
+   "New friends",
+   "Family",
+   "Game group"
+  ],
+  "year": 1997
+ },
+ "catan": {
+  "name": "Catan",
+  "shelf": "700",
+  "sub": "710",
+  "call": "710 CAT 1995",
+  "dims": {
+   "theme": 2,
+   "luck": 1,
+   "inter": 3,
+   "learn": 1,
+   "tempo": 2,
+   "talk": 3
+  },
+  "players": [
+   3,
+   4
+  ],
+  "best": [
+   4
+  ],
+  "minutes": 90,
+  "occasions": [
+   "Family",
+   "New friends"
+  ],
+  "year": 1995
+ },
+ "jaipur": {
+  "name": "Jaipur",
+  "shelf": "700",
+  "sub": "710",
+  "call": "710 JAI 2009",
+  "dims": {
+   "theme": 2,
+   "luck": 2,
+   "inter": 3,
+   "learn": 1,
+   "tempo": 2,
+   "talk": 1
+  },
+  "players": [
+   2,
+   2
+  ],
+  "best": [
+   2
+  ],
+  "minutes": 30,
+  "occasions": [
+   "Two-player",
+   "Date night"
+  ],
+  "year": 2009
+ },
+ "cosmic-encounter": {
+  "name": "Cosmic Encounter",
+  "shelf": "700",
+  "sub": "720",
+  "call": "720 COS 2008",
+  "dims": {
+   "theme": 2,
+   "luck": 2,
+   "inter": 3,
+   "learn": 2,
+   "tempo": 3,
+   "talk": 3
+  },
+  "players": [
+   3,
+   5
+  ],
+  "best": [
+   5
+  ],
+  "minutes": 90,
+  "occasions": [
+   "Game group"
+  ],
+  "year": 2008
+ },
+ "sheriff-of-nottingham": {
+  "name": "Sheriff of Nottingham",
+  "shelf": "700",
+  "sub": "720",
+  "call": "720 SHE 2014",
+  "dims": {
+   "theme": 2,
+   "luck": 2,
+   "inter": 3,
+   "learn": 1,
+   "tempo": 2,
+   "talk": 3
+  },
+  "players": [
+   3,
+   6
+  ],
+  "best": [
+   5
+  ],
+  "minutes": 60,
+  "occasions": [
+   "New friends",
+   "Game group"
+  ],
+  "year": 2014
+ },
+ "modern-art": {
+  "name": "Modern Art",
+  "shelf": "700",
+  "sub": "730",
+  "call": "730 MOD 1992",
+  "dims": {
+   "theme": 1,
+   "luck": 2,
+   "inter": 3,
+   "learn": 2,
+   "tempo": 2,
+   "talk": 2
+  },
+  "players": [
+   3,
+   5
+  ],
+  "best": [
+   4,
+   5
+  ],
+  "minutes": 45,
+  "occasions": [
+   "Game group"
+  ],
+  "year": 1992
+ },
+ "power-grid": {
+  "name": "Power Grid",
+  "shelf": "700",
+  "sub": "730",
+  "call": "730 POW 2004",
+  "dims": {
+   "theme": 2,
+   "luck": 3,
+   "inter": 3,
+   "learn": 3,
+   "tempo": 3,
+   "talk": 2
+  },
+  "players": [
+   2,
+   6
+  ],
+  "best": [
+   4,
+   5
+  ],
+  "minutes": 120,
+  "occasions": [
+   "Game group"
+  ],
+  "year": 2004
+ },
+ "azul": {
+  "name": "Azul",
+  "shelf": "800",
+  "sub": "810",
+  "call": "810 AZU 2017",
+  "dims": {
+   "theme": 1,
+   "luck": 3,
+   "inter": 2,
+   "learn": 1,
+   "tempo": 2,
+   "talk": 1
+  },
+  "players": [
+   2,
+   4
+  ],
+  "best": [
+   2,
+   3
+  ],
+  "minutes": 40,
+  "occasions": [
+   "Date night",
+   "Family"
+  ],
+  "year": 2017
+ },
+ "carcassonne": {
+  "name": "Carcassonne",
+  "shelf": "800",
+  "sub": "810",
+  "call": "810 CAR 2000",
+  "dims": {
+   "theme": 2,
+   "luck": 2,
+   "inter": 2,
+   "learn": 1,
+   "tempo": 2,
+   "talk": 2
+  },
+  "players": [
+   2,
+   5
+  ],
+  "best": [
+   2,
+   3
+  ],
+  "minutes": 40,
+  "occasions": [
+   "Family",
+   "Date night",
+   "Two-player"
+  ],
+  "year": 2000
+ },
+ "cascadia": {
+  "name": "Cascadia",
+  "shelf": "800",
+  "sub": "810",
+  "call": "810 CAS 2021",
+  "dims": {
+   "theme": 2,
+   "luck": 2,
+   "inter": 1,
+   "learn": 1,
+   "tempo": 1,
+   "talk": 1
+  },
+  "players": [
+   1,
+   4
+  ],
+  "best": [
+   2,
+   3
+  ],
+  "minutes": 40,
+  "occasions": [
+   "Family",
+   "Date night"
+  ],
+  "year": 2021
+ },
+ "kingdomino": {
+  "name": "Kingdomino",
+  "shelf": "800",
+  "sub": "810",
+  "call": "810 KIN 2016",
+  "dims": {
+   "theme": 2,
+   "luck": 2,
+   "inter": 2,
+   "learn": 1,
+   "tempo": 1,
+   "talk": 1
+  },
+  "players": [
+   2,
+   4
+  ],
+  "best": [
+   2,
+   3,
+   4
+  ],
+  "minutes": 20,
+  "occasions": [
+   "Family",
+   "Date night"
+  ],
+  "year": 2016
+ },
+ "cartographers": {
+  "name": "Cartographers",
+  "shelf": "800",
+  "sub": "820",
+  "call": "820 CAR 2019",
+  "dims": {
+   "theme": 2,
+   "luck": 2,
+   "inter": 1,
+   "learn": 1,
+   "tempo": 2,
+   "talk": 1
+  },
+  "players": [
+   1,
+   100
+  ],
+  "best": [
+   3,
+   4,
+   5,
+   6
+  ],
+  "minutes": 45,
+  "occasions": [
+   "Family",
+   "Game group"
+  ],
+  "year": 2019
+ },
+ "patchwork": {
+  "name": "Patchwork",
+  "shelf": "800",
+  "sub": "820",
+  "call": "820 PAT 2014",
+  "dims": {
+   "theme": 1,
+   "luck": 3,
+   "inter": 2,
+   "learn": 1,
+   "tempo": 2,
+   "talk": 1
+  },
+  "players": [
+   2,
+   2
+  ],
+  "best": [
+   2
+  ],
+  "minutes": 30,
+  "occasions": [
+   "Two-player",
+   "Date night"
+  ],
+  "year": 2014
+ },
+ "chess": {
+  "name": "Chess",
+  "shelf": "800",
+  "sub": "830",
+  "call": "830 CHE",
+  "dims": {
+   "theme": 1,
+   "luck": 3,
+   "inter": 3,
+   "learn": 2,
+   "tempo": 3,
+   "talk": 1
+  },
+  "players": [
+   2,
+   2
+  ],
+  "best": [
+   2
+  ],
+  "minutes": 30,
+  "occasions": [
+   "Two-player"
+  ]
+ },
+ "hive": {
+  "name": "Hive",
+  "shelf": "800",
+  "sub": "830",
+  "call": "830 HIV 2001",
+  "dims": {
+   "theme": 1,
+   "luck": 3,
+   "inter": 3,
+   "learn": 1,
+   "tempo": 3,
+   "talk": 1
+  },
+  "players": [
+   2,
+   2
+  ],
+  "best": [
+   2
+  ],
+  "minutes": 20,
+  "occasions": [
+   "Two-player"
+  ],
+  "year": 2001
+ },
+ "onitama": {
+  "name": "Onitama",
+  "shelf": "800",
+  "sub": "830",
+  "call": "830 ONI 2014",
+  "dims": {
+   "theme": 1,
+   "luck": 3,
+   "inter": 3,
+   "learn": 1,
+   "tempo": 2,
+   "talk": 1
+  },
+  "players": [
+   2,
+   2
+  ],
+  "best": [
+   2
+  ],
+  "minutes": 15,
+  "occasions": [
+   "Two-player",
+   "Date night"
+  ],
+  "year": 2014
+ },
+ "santorini": {
+  "name": "Santorini",
+  "shelf": "800",
+  "sub": "830",
+  "call": "830 SAN 2016",
+  "dims": {
+   "theme": 1,
+   "luck": 3,
+   "inter": 3,
+   "learn": 1,
+   "tempo": 2,
+   "talk": 1
+  },
+  "players": [
+   2,
+   4
+  ],
+  "best": [
+   2
+  ],
+  "minutes": 20,
+  "occasions": [
+   "Two-player",
+   "Date night",
+   "Family"
+  ],
+  "year": 2016
+ },
+ "gloomhaven-jaws-of-the-lion": {
+  "name": "Gloomhaven: Jaws of the Lion",
+  "shelf": "900",
+  "sub": "910",
+  "call": "910 GLO 2020",
+  "dims": {
+   "theme": 3,
+   "luck": 3,
+   "inter": 2,
+   "learn": 3,
+   "tempo": 2,
+   "talk": 2
+  },
+  "players": [
+   1,
+   4
+  ],
+  "best": [
+   2,
+   3
+  ],
+  "minutes": 90,
+  "occasions": [
+   "Game group"
+  ],
+  "year": 2020
+ },
+ "betrayal-at-house-on-the-hill": {
+  "name": "Betrayal at House on the Hill",
+  "shelf": "900",
+  "sub": "920",
+  "call": "920 BET 2004",
+  "dims": {
+   "theme": 3,
+   "luck": 1,
+   "inter": 3,
+   "learn": 1,
+   "tempo": 2,
+   "talk": 3
+  },
+  "players": [
+   3,
+   6
+  ],
+  "best": [
+   5,
+   6
+  ],
+  "minutes": 60,
+  "occasions": [
+   "Game group",
+   "New friends"
+  ],
+  "year": 2004
+ },
+ "mansions-of-madness-second-edition": {
+  "name": "Mansions of Madness: Second Edition",
+  "shelf": "900",
+  "sub": "920",
+  "call": "920 MAN 2016",
+  "dims": {
+   "theme": 3,
+   "luck": 2,
+   "inter": 3,
+   "learn": 2,
+   "tempo": 2,
+   "talk": 2
+  },
+  "players": [
+   1,
+   5
+  ],
+  "best": [
+   2,
+   3,
+   4
+  ],
+  "minutes": 150,
+  "occasions": [
+   "Game group"
+  ],
+  "year": 2016
+ },
+ "sherlock-holmes-consulting-detective": {
+  "name": "Sherlock Holmes Consulting Detective",
+  "shelf": "900",
+  "sub": "920",
+  "call": "920 SHE 1981",
+  "dims": {
+   "theme": 3,
+   "luck": 3,
+   "inter": 2,
+   "learn": 1,
+   "tempo": 2,
+   "talk": 3
+  },
+  "players": [
+   1,
+   8
+  ],
+  "best": [
+   2,
+   3,
+   4
+  ],
+  "minutes": 90,
+  "occasions": [
+   "Date night",
+   "Game group"
+  ],
+  "year": 1981
+ },
+ "arkham-horror-the-card-game": {
+  "name": "Arkham Horror: The Card Game",
+  "shelf": "900",
+  "sub": "930",
+  "call": "930 ARK 2016",
+  "dims": {
+   "theme": 3,
+   "luck": 2,
+   "inter": 3,
+   "learn": 3,
+   "tempo": 3,
+   "talk": 2
+  },
+  "players": [
+   1,
+   4
+  ],
+  "best": [
+   2
+  ],
+  "minutes": 120,
+  "occasions": [
+   "Two-player",
+   "Game group"
+  ],
+  "year": 2016
+ }
+}

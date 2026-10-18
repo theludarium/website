@@ -110,6 +110,7 @@ Keep it simple. No CMS, database, or user accounts. Add a dependency only when i
 | `/articles/[slug]/` | Article | The reading experience; signup at the end |
 | `/articles/category/[category]/` | Category | Articles in one category |
 | `/play/` | Tools | Directory of the game tools, one card each |
+| `/card-catalogue/` | Card Catalogue | Find games by feel; Play Profile and group picks, stored on the visitor's device |
 | `/rpg-demo-library/` | RPG Demo Library | Play intro adventures of pen-and-paper RPGs before buying |
 | `/game-night-madness/` | Game Night Madness | Tabletop game bracket app |
 | `/academy/` | Academy | What the Academy is, the course catalog, membership pitch, waitlist or join link |
@@ -212,6 +213,14 @@ Two tools already exist as separate projects. They should feel like part of The 
 - Add each tool repo as a git submodule (or pull it in a build script).
 - During the site build, build each tool with its base path set to its URL path (for example `/rpg-demo-library/`) and copy the output into the matching folder of the final site.
 - One Cloudflare Pages deploy then serves the whole domain. A change to a tool goes live by updating its submodule here (automate with a GitHub Action later if useful).
+
+**Card Catalog (new, 2026-10-17)**
+- A library-style catalog of board games (call-number shelves plus six feel dimensions, including The Ludarium's own Table Talk) and a tracker where subscribers log plays, build a Play Profile, and get picks for a whole table
+- Live at `/card-catalogue/` (Levi's spelling for the product name). **Local-first** (Levi's decision, 2026-10-18): each visitor's ratings, plays, shelves, guests, and friends live in their own browser's localStorage, with backup export and import. No accounts, no database, nothing sent to a server. Friends join a game night by trading a table code. Accounts and sync can come later without a rebuild
+- Code: engine `src/lib/card-catalogue/engine.ts` (pure, follows the spec exactly), markup `src/lib/card-catalogue/render.ts`, app `src/scripts/card-catalogue.ts`, page `src/pages/card-catalogue/index.astro`, catalog data `src/data/card-catalogue.json`
+- Spec: `docs/card-catalog/catalog-system.md`. History and original handoff: `docs/card-catalog/HANDOFF.md`. Prototype reference: `tools/card-catalog/`. Article: `src/content/articles/how-we-catalog-board-games-by-how-they-feel.md`
+- Not yet ported: the AI Librarian (needs a server-side Claude call) and BoardGameGeek import (waits on the token and commercial license)
+- BoardGameGeek bridge: `workers/bgg/`, a separate Cloudflare Worker (its own `package.json` and tests). BGG data needs a commercial license before it appears next to affiliate links or paid features; Levi is applying
 
 If a tool cannot run under a sub-path cleanly, stop and propose alternatives (such as a Cloudflare route to a separate Pages project) rather than hacking around it. Either way, apply the shared site chrome (header, footer, design tokens) so the tools look native.
 

@@ -1,0 +1,28 @@
+name = "ludarium-bgg"
+main = "src/index.ts"
+compatibility_date = "2025-02-14"
+
+# Only these sites may call the Worker from a browser. Add your preview URL while testing.
+[vars]
+ALLOWED_ORIGINS = "https://theludarium.com,https://www.theludarium.com"
+USER_AGENT = "TheLudarium/1.0 (+https://theludarium.com)"
+
+# The BGG token is a secret, never a var:  npx wrangler secret put BGG_TOKEN
+
+[[durable_objects.bindings]]
+name = "BGG_GATE"
+class_name = "BggGate"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["BggGate"]
+
+# Per-visitor limit: 30 requests a minute per IP.
+[[unsafe.bindings]]
+name = "RATE_LIMITER"
+type = "ratelimit"
+namespace_id = "1001"
+simple = { limit = 30, period = 60 }
+
+# Serve the Worker under the site, e.g. theludarium.com/api/*
+# routes = [{ pattern = "theludarium.com/api/*", zone_name = "theludarium.com" }]
