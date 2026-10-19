@@ -1,10 +1,10 @@
 ---
 title: "Board Game Balance Math: Distribution, Variance, Feel"
 description: "Board game balance math for designers who are not mathematicians. How card distribution, dice variance, and point curves shape whether a game feels fair."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Design
 tags: ["board game balance math", "game balance for designers", "probability in board games", "card distribution design", "dice variance board games", "balancing a card game", "Tabletop game design"]
-draft: true
+draft: false
 ---
 Board game balance math sounds like something you need a statistics degree for. You do not. Most of the math that matters in a card or dice game is counting, a little probability, and a clear sense of what you want the player to feel. Designers who skip it build games that seem fine for ten plays and then collapse when someone finds the one card that always wins.
 

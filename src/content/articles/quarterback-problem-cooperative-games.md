@@ -1,10 +1,10 @@
 ---
 title: "The Quarterback Problem in Cooperative Games, and Its Fixes"
 description: "The quarterback problem in cooperative games lets one player run the whole table. Why it happens, and the design tricks that give everyone a voice again."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Design
 tags: ["quarterback problem cooperative games", "alpha player problem", "cooperative board game design", "Pandemic alpha player", "hidden information co-op", "best cooperative board games", "Tabletop game design"]
-draft: true
+draft: false
 ---
 The quarterback problem in cooperative games is simple to describe and hard to fix. One player, usually the most experienced or the most confident, starts telling everyone else what to do. The rest of the table nods, moves the pieces they are told to move, and spends the evening as spectators to someone else's game. The team might win. Nobody but the quarterback had much fun.
 

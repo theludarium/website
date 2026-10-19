@@ -1,10 +1,10 @@
 ---
 title: "How to Pitch a Board Game to a Publisher"
 description: "How to pitch a board game to a publisher: the sell sheet, the short video, finding the right company, the meeting, and the contract terms that come after it."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Design
 tags: ["how to pitch a board game", "board game sell sheet", "board game publishers accepting submissions", "pitching to game publishers", "board game designer royalties", "board game pitch video", "Tabletop game design"]
-draft: true
+draft: false
 ---
 Learning how to pitch a board game is a different skill from designing one, and plenty of good designs never reach a shelf because their designers never learned it. The good news is that the process is well understood, publishers are more open to submissions than most newcomers expect, and the materials you need fit on one page and in one short video.
 

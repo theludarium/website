@@ -1,10 +1,10 @@
 ---
 title: "Worker Placement Board Games, Explained With One Game"
 description: "Worker placement board games explained through Lords of Waterdeep: how blocking, scarce spaces, and pressure make every pick matter, and why players love it."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Design
 tags: ["worker placement board games", "worker placement mechanic", "Lords of Waterdeep", "Agricola worker placement", "board game mechanics explained", "euro board games", "Tabletop game design"]
-draft: true
+draft: false
 ---
 Worker placement board games give each player a handful of pieces, a shared board full of action spaces, and one hard rule: once a space is taken, nobody else can use it this round. That is the entire mechanic. Everything interesting about it comes from what that rule does to a table of people who all want the same thing at the same time.
 

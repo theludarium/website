@@ -1,10 +1,10 @@
 ---
 title: "Codenames Clue Tips: Clues That Don't Get Your Team Killed"
 description: "Codenames tips for spymasters and guessers: how to find safe two-word clues, when to go for three, how to avoid the assassin, and how to guess as a team."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Guides
 tags: ["Codenames tips", "Codenames clue tips", "Codenames strategy", "how to be a good spymaster", "Codenames assassin", "Codenames guessing strategy", "Strategy guides"]
-draft: true
+draft: false
 ---
 The best Codenames tips are not about being clever. They are about being safe. A spymaster who gives careful two-word clues all game will beat one who swings for a brilliant four nearly every time, because the brilliant four hits the assassin once in five games and that is the game.
 

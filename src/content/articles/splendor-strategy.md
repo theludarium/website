@@ -1,10 +1,10 @@
 ---
 title: "Splendor Strategy: The Engine, the Nobles, and Tempo"
 description: "Splendor strategy that wins against people who have played a hundred games: how to build an engine, when to reserve, how to read nobles, and tempo math."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Guides
 tags: ["Splendor strategy", "Splendor tips", "how to win Splendor", "Splendor nobles strategy", "Splendor reserving cards", "Splendor engine building", "Strategy guides"]
-draft: true
+draft: false
 ---
 Splendor strategy is almost entirely about tempo. The game has no dice, no hidden information except reserved cards, and only three kinds of action. Two players making reasonable decisions will finish within a turn of each other, and the one who wasted a single turn early loses. This guide is about not wasting that turn.
 

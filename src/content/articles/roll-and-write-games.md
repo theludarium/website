@@ -1,10 +1,10 @@
 ---
 title: "Roll and Write Games: Why the Simplest Format Is Hardest"
 description: "Roll and write games look easy to design and are not. What Yahtzee, Ganz Schön Clever, and Welcome To... get right, and how to design a sheet worth it."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Design
 tags: ["roll and write games", "roll and write design", "best roll and write games", "flip and write games", "Ganz Schön Clever", "designing a score sheet", "Tabletop game design"]
-draft: true
+draft: false
 ---
 Roll and write games are exactly what the name says. Someone rolls dice, everyone writes something on a sheet, and at the end the sheets are scored. Yahtzee is the ancestor. Ganz Schön Clever, Welcome To..., and Cartographers are the modern form, and over the last decade the format has become one of the most crowded corners of the hobby.
 

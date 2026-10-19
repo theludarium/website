@@ -1,10 +1,10 @@
 ---
 title: "Theme vs Mechanics in Board Game Design: Which First?"
 description: "Theme vs mechanics in board game design is a false fight. How Pandemic, Azul, and Root really began, and how to choose the right starting point for yours."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Design
 tags: ["theme vs mechanics board game design", "board game theme", "board game mechanics", "pasted-on theme", "thematic board games", "abstract vs thematic games", "Tabletop game design"]
-draft: true
+draft: false
 ---
 The theme vs mechanics debate in board game design has been running for as long as hobbyists have argued on forums, and it is mostly a false fight. Designers have started great games from a theme, from a mechanism, from a single component, and from a feeling they wanted a table to have. The useful question is not which should come first but what each is for, and how to tell when the two have stopped talking to each other.
 
