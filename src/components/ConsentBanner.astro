@@ -1,0 +1,154 @@
+---
+// Opt-in consent for Google Analytics. Nothing from Google loads and no
+// analytics cookies are set until a visitor clicks "Allow analytics".
+// - The choice is remembered in localStorage ("ludarium-consent").
+// - Browsers that send Global Privacy Control are treated as "No thanks".
+// - Any element with data-consent-open (the footer's "Cookie settings") reopens it.
+import { GA_MEASUREMENT_ID } from '@/lib/config';
+---
+
+{
+  GA_MEASUREMENT_ID && (
+    <div class="consent" data-consent data-ga-id={GA_MEASUREMENT_ID} role="region" aria-label="Cookie choice" hidden>
+      <p class="consent__text">
+        We use Google Analytics to learn which articles and tools help people. It sets cookies only if
+        you allow it. <a href="/privacy/#cookies">Privacy policy</a>
+      </p>
+      <div class="consent__actions">
+        <button type="button" class="button consent__btn" data-consent-choice="granted">Allow analytics</button>
+        <button type="button" class="button button--ghost consent__btn" data-consent-choice="denied">No thanks</button>
+      </div>
+    </div>
+  )
+}
+
+<style>
+  .consent {
+    position: fixed;
+    left: 50%;
+    bottom: var(--space-4);
+    z-index: 90;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--space-3) var(--space-5);
+    width: min(44rem, calc(100% - 2 * var(--space-4)));
+    padding: var(--space-4) var(--space-5);
+    transform: translateX(-50%);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-card);
+    background: var(--color-surface);
+    box-shadow: var(--shadow-lg);
+  }
+
+  .consent[hidden] {
+    display: none;
+  }
+
+  .consent__text {
+    flex: 1 1 18rem;
+    margin: 0;
+    font-size: var(--text-sm);
+    color: var(--color-text);
+  }
+
+  .consent__actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+  }
+
+  .consent__btn {
+    padding: 0.5em 1.1em;
+    font-size: var(--text-sm);
+  }
+</style>
+
+<script>
+  const KEY = 'ludarium-consent';
+  const banner = document.querySelector<HTMLElement>('[data-consent]');
+
+  type Choice = 'granted' | 'denied';
+
+  const read = (): Choice | null => {
+    try {
+      const v = localStorage.getItem(KEY);
+      return v === 'granted' || v === 'denied' ? v : null;
+    } catch {
+      return null;
+    }
+  };
+
+  const write = (v: Choice) => {
+    try {
+      localStorage.setItem(KEY, v);
+    } catch {}
+  };
+
+  let loaded = false;
+  function loadAnalytics(id: string) {
+    if (loaded) return;
+    loaded = true;
+    const w = window as unknown as { dataLayer: unknown[]; gtag: (...args: unknown[]) => void };
+    w.dataLayer = w.dataLayer || [];
+    w.gtag = function () {
+      // eslint-disable-next-line prefer-rest-params
+      w.dataLayer.push(arguments);
+    };
+    w.gtag('consent', 'default', {
+      analytics_storage: 'granted',
+      ad_storage: 'denied',
+      ad_user_data: 'denied',
+      ad_personalization: 'denied',
+    });
+    w.gtag('js', new Date());
+    w.gtag('config', id);
+    const s = document.createElement('script');
+    s.async = true;
+    s.src = `https://www.googletagmanager.com/gtag/js?id=${encodeURIComponent(id)}`;
+    document.head.append(s);
+  }
+
+  // Turning analytics off after it was on: clear Google's cookies on this site and reload.
+  function clearAnalyticsCookies() {
+    for (const c of document.cookie.split(';')) {
+      const name = c.split('=')[0].trim();
+      if (name === '_ga' || name.startsWith('_ga_') || name === '_gid') {
+        for (const domain of ['', `; domain=${location.hostname}`, `; domain=.${location.hostname.replace(/^www\./, '')}`]) {
+          document.cookie = `${name}=; Max-Age=0; path=/${domain}`;
+        }
+      }
+    }
+  }
+
+  if (banner) {
+    const id = banner.dataset.gaId!;
+    const gpc = (navigator as Navigator & { globalPrivacyControl?: boolean }).globalPrivacyControl === true;
+    const choice = gpc ? 'denied' : read();
+
+    if (choice === 'granted') loadAnalytics(id);
+    else if (choice === null) banner.hidden = false;
+
+    banner.addEventListener('click', (e) => {
+      const btn = (e.target as HTMLElement).closest<HTMLButtonElement>('[data-consent-choice]');
+      if (!btn) return;
+      const next = btn.dataset.consentChoice as Choice;
+      const was = read();
+      write(next);
+      banner.hidden = true;
+      if (next === 'granted') loadAnalytics(id);
+      else if (was === 'granted') {
+        clearAnalyticsCookies();
+        location.reload();
+      }
+    });
+
+    document.querySelectorAll<HTMLElement>('[data-consent-open]').forEach((el) => {
+      el.hidden = false;
+      el.addEventListener('click', () => {
+        banner.hidden = false;
+        banner.querySelector<HTMLButtonElement>('[data-consent-choice]')?.focus();
+      });
+    });
+  }
+</script>

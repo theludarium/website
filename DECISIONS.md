@@ -153,3 +153,11 @@ A short log of choices made and why. Newest at the bottom.
 - **Links to unpublished articles render as plain text on the live site** (`src/plugins/rehype-unpublished-links.mjs`) and become links automatically when their target publishes. Previews keep them as links. This needs `@astrojs/markdown-remark`, Astro's official Markdown plugin package, because Astro 7's default processor does not run rehype plugins.
 - **The build now fails on broken internal links** (`scripts/check-seo.mjs`), so a published page cannot point at a missing page or file.
 - **Retired two early sample drafts** that duplicated library articles ("How to Host a Game Night People Talk About for Weeks" and "What Is Togethering?").
+
+## 2026-10-19: Google Search Console and Google Analytics
+
+- **Search Console:** Domain property for theludarium.com, verified with a TXT record in Cloudflare (keep it; removing it unverifies the site). Sitemap submitted. Google's one-click Cloudflare connection was skipped on purpose so Google has no standing access to the Cloudflare account.
+- **Google Analytics, Levi's choice** over cookie-free Cloudflare Web Analytics. Set up **opt-in only**: nothing from Google loads and no cookies are set until a visitor clicks "Allow analytics" in a small banner (`src/components/ConsentBanner.astro`). The choice is remembered; "Cookie settings" in the footer reopens it; switching to "No thanks" deletes the `_ga` cookies. Global Privacy Control is honored as a "No thanks." Consent Mode: analytics granted only after the click; all ad signals always denied.
+- **Tradeoff:** GA counts only visitors who allow it, so its numbers run below real traffic. Search Console counts all search visits regardless.
+- **Privacy policy rewritten** (cookies section, service list, date). It promises advertising features and Google Signals off and 14-month retention; the GA property must be set that way.
+- **The measurement ID goes in `GA_MEASUREMENT_ID`** in `src/lib/config.ts`. While blank, no banner shows and nothing loads.

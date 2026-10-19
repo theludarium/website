@@ -39,3 +39,10 @@ export const TURNSTILE_SITE_KEY = '';
 export const KIT_WAITLIST_FORMS: Record<string, { action: string }> = {
   indianapolis: { action: '' },
 };
+
+/**
+ * Google Analytics 4 measurement ID (looks like G-XXXXXXXXXX). Public.
+ * Analytics loads only after a visitor clicks "Allow analytics" in the consent
+ * banner (src/components/ConsentBanner.astro). While blank, no banner shows.
+ */
+export const GA_MEASUREMENT_ID = '';
