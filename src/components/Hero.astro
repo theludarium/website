@@ -1,19 +1,22 @@
 ---
 // Full-width hero. Follows the landing page rules in CLAUDE.md: one outcome
 // headline, a subheadline that clarifies it, art that proves it, one action.
-// The art sits still, then comes alive after `aliveAfter` seconds.
+// art="table": the illustrated game table, still at first, alive after `aliveAfter` seconds.
+// art="dots": the tile mark drawn in dots that scatter around the cursor.
 import TableScene from '@/components/TableScene.astro';
+import ParticleMark from '@/components/ParticleMark.astro';
 
 interface Props {
   aliveAfter?: number;
+  art?: 'table' | 'dots';
 }
 
-const { aliveAfter = 6 } = Astro.props;
+const { aliveAfter = 6, art = 'table' } = Astro.props;
 ---
 
-<section class="hero" data-hero data-alive-after={aliveAfter}>
+<section class:list={['hero', `hero--${art}`]} data-hero data-alive-after={art === 'table' ? aliveAfter : undefined}>
   <div class="hero__media">
-    <TableScene />
+    {art === 'dots' ? <ParticleMark /> : <TableScene />}
     <div class="hero__shade" aria-hidden="true"></div>
   </div>
 
@@ -23,7 +26,7 @@ const { aliveAfter = 6 } = Astro.props;
     </div>
   </div>
 
-  <button class="hero__pause" type="button" data-hero-pause hidden aria-label="Pause animation">
+  {art === 'table' && <button class="hero__pause" type="button" data-hero-pause hidden aria-label="Pause animation">
     <svg class="icon-pause" viewBox="0 0 16 16" width="14" height="14" aria-hidden="true">
       <rect x="3" y="2" width="3.5" height="12" rx="1" fill="currentColor" />
       <rect x="9.5" y="2" width="3.5" height="12" rx="1" fill="currentColor" />
@@ -31,7 +34,7 @@ const { aliveAfter = 6 } = Astro.props;
     <svg class="icon-play" viewBox="0 0 16 16" width="14" height="14" aria-hidden="true">
       <path d="M4 2.5v11l9-5.5z" fill="currentColor" />
     </svg>
-  </button>
+  </button>}
 </section>
 
 <style>
@@ -123,6 +126,15 @@ const { aliveAfter = 6 } = Astro.props;
 
   .hero[data-paused] .icon-pause {
     display: none;
+  }
+
+  /* Dots: the text side keeps a soft shade; the mark side stays clear. */
+  .hero--dots .hero__shade {
+    background: linear-gradient(90deg, rgb(28 20 15 / 0.55) 0%, rgb(28 20 15 / 0) 50%);
+  }
+
+  .hero--dots {
+    background: radial-gradient(ellipse at 74% 50%, #3a2a1f 0%, #2b1e16 60%);
   }
 
   /* Small screens: art on top, words below it */
