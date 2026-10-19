@@ -1,10 +1,10 @@
 ---
 title: "How to Prototype a Board Game in One Weekend"
 description: "How to prototype a board game in one weekend with index cards and a Sharpie. A step-by-step plan that takes you from a rough idea to a first playable copy."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Design
 tags: ["how to prototype a board game", "board game prototype", "paper prototype board game", "design your own board game", "first playable prototype", "board game design for beginners", "Tabletop game design"]
-draft: true
+draft: false
 ---
 If you want to know how to prototype a board game, the answer is a pack of index cards, a Sharpie, a handful of pieces borrowed from other games, and one weekend you refuse to spend making it pretty. The goal is a first playable: something you can sit down with on Sunday afternoon, play through to the end, and learn from. Not a product. Not even a good game. A thing that works well enough to tell you what is wrong with it.
 

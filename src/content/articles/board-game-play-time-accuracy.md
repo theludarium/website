@@ -1,10 +1,10 @@
 ---
 title: "Board Game Play Time: Why the Box Lies and What to Do"
 description: "Board game play time on the box rarely matches your table. Learn why the number runs short, how to estimate a real session, and why accurate times matter."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Design
 tags: ["board game play time", "how long does a board game take", "board game setup time", "game night planning", "board game length", "play time on the box", "Tabletop game design"]
-draft: true
+draft: false
 ---
 The board game play time printed on the box is almost never the time the game will take at your table. "60–90 minutes" usually means ninety minutes for a group that already knows the rules, with no setup, no teach, no bathroom break, and no one asking whether they can trade sheep for ore. For a new group on a first play, double it and add the time it takes to punch cardboard.
 

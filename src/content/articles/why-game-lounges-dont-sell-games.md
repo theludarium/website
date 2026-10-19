@@ -1,10 +1,10 @@
 ---
 title: "Board Game Cafe vs Store: Why We Won't Sell Games"
 description: "Board game cafe vs store is a real choice, and we made it. Why The Ludarium will teach and recommend games but never stock them, and what that costs us."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Culture
 tags: ["board game cafe vs store", "game lounge retail", "should a game cafe sell games", "board game cafe business model", "local game store", "The Ludarium no retail", "Building The Ludarium"]
-draft: true
+draft: false
 ---
 The board game cafe vs store question is usually answered with "both." Most cafes sell a shelf of games, and most stores have tables in the back. The Ludarium is answering it with "neither, and specifically not the store part." We will teach games, recommend them, and tell you exactly where in Indianapolis to buy them. We will not stock a single one for sale. This article explains why, including the money we are leaving on the table and why we think it is the right money to leave.
 

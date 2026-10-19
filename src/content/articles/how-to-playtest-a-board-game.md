@@ -1,10 +1,10 @@
 ---
 title: "How to Playtest a Board Game Without Fooling Yourself"
 description: "How to playtest a board game and hear the truth: watch what the table does, not what it says. A method for reading player behavior and fixing what matters."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Design
 tags: ["how to playtest a board game", "board game playtesting", "playtest feedback", "game design testing", "blind playtesting", "prototype testing", "Tabletop game design"]
-draft: true
+draft: false
 ---
 If you want to know how to playtest a board game, the first thing to accept is that most of what people tell you afterward is wrong, and most of what they do during the game is right. Playtesters are kind. They want you to succeed. They will say "that was fun" because it is what you say to a friend who just showed you something they made. Their bodies, their pace, and their choices during the game cannot be polite. That is where the information is.
 

@@ -1,10 +1,10 @@
 ---
 title: "How to Host a Game Night: The Complete Checklist"
 description: "Learn how to host a game night people want to come back to. A week-by-week checklist covering invites, games, food, seating, and the first ten minutes."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Night
 tags: ["how to host a game night", "game night checklist", "hosting a board game night", "game night ideas for adults", "first game night", "game night planning", "Hosting and game-night craft"]
-draft: true
+draft: false
 ---
 If you want to know how to host a game night, here is the short version: pick a date, invite four to six people, choose two games you already know how to teach, clear the table, and start on time. Everything else is detail. But the details are what separate a night people politely attend from a night people ask to repeat.
 

@@ -1,10 +1,10 @@
 ---
 title: "What Is a Tabletop RPG? A Plain-English Explainer"
 description: "What is a tabletop RPG? A plain-English explainer for anyone who has only seen one on Stranger Things: how it works, what you need, and why adults love it."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Guides
 tags: ["what is a tabletop RPG", "tabletop role-playing game explained", "TTRPG meaning", "how do tabletop RPGs work", "D&D explained", "pen and paper RPG", "Tabletop RPGs for beginners"]
-draft: true
+draft: false
 ---
 So, what is a tabletop RPG? It is a game where a group of people sit around a table and make up a story together, with one person describing the world and the others each playing a single character in it. Dice settle the moments where the outcome is in doubt. Dungeons & Dragons is the famous one, but it is one of hundreds.
 

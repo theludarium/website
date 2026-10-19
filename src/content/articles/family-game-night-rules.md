@@ -1,10 +1,10 @@
 ---
 title: "Family Game Night Rules That Actually Keep the Peace"
 description: "Family game night rules that stop the fights before they start. Ten house rules for picking games, handling phones, settling disputes, and ending on time."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Night
 tags: ["family game night rules", "house rules for game night", "family game night etiquette", "how to run family game night", "game night rules for kids", "board game house rules", "Family and intergenerational play"]
-draft: true
+draft: false
 ---
 Good family game night rules are not about the games. They are about the five minutes before and after: who picks, where the phones go, what happens when someone argues a rule, and when it ends. Families that settle those once, out loud, and write them on the fridge, stop having the same fight every week. The ten rules below have been tested at a lot of tables, including ones with a five-year-old and a teenager at the same time.
 

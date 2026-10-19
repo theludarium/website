@@ -1,10 +1,10 @@
 ---
 title: "How to Start a Board Game Group That Lasts"
 description: "How to start a board game group that still meets a year later: pick a fixed night, favor frequency over intensity, and use five rules that keep the table full."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Togethering
 tags: ["how to start a board game group", "standing game night", "weekly game night ideas", "recurring game night", "how to organize game night", "game night rules", "Social benefits of playing in person"]
-draft: true
+draft: false
 ---
 If you want to know how to start a board game group, the answer is less about games and more about calendars. Pick a night. Make it the same night every time. Play whatever shows up. Groups that last are not built on a great first session. They are built on the twentieth ordinary one.
 

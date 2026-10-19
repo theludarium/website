@@ -2,12 +2,12 @@
 // Errors fail the build, so a page cannot ship without the SEO basics.
 // Warnings are printed but do not fail it.
 //
-// Every built page needs: a title, a meta description, a canonical URL on
+// Every built page needs: no broken internal links, a title, a meta description, a canonical URL on
 // theludarium.com, exactly one h1, a share image, and alt text on images.
 // Titles and descriptions must be unique across indexable pages, and no
 // title, description, or alt text may contain an em dash (house style).
 // Published pages may not carry unfilled <!-- EDITOR: ... --> notes from the content library.
-import { readdirSync, readFileSync, statSync } from 'node:fs';
+import { existsSync, readdirSync, readFileSync, statSync } from 'node:fs';
 import { join, relative } from 'node:path';
 
 const DIST = 'dist';
@@ -41,6 +41,17 @@ for (const file of htmlFiles(DIST)) {
   const html = readFileSync(file, 'utf8');
   const problem = (message) => errors.push(`${page}: ${message}`);
   const note = (message) => warnings.push(`${page}: ${message}`);
+
+  // Broken internal links: every same-site href must point at a built file.
+  // Routes served by Cloudflare Functions (/api/) are not in dist, so skip them.
+  const linkTargets = new Set(
+    [...html.matchAll(/<a\b[^>]*\bhref="(\/(?!\/)[^"#?]*)/gi)].map((m) => decodeURI(m[1])),
+  );
+  for (const href of linkTargets) {
+    if (href.startsWith('/api/') || href.startsWith('/cdn-cgi/')) continue;
+    const target = href.endsWith('/') ? join(DIST, href, 'index.html') : join(DIST, href);
+    if (!existsSync(target) && !existsSync(join(DIST, href, 'index.html'))) problem(`broken internal link to ${href}`);
+  }
 
   const noindex = /<meta[^>]*name="robots"[^>]*noindex/i.test(html);
   const is404 = page === '/404.html';

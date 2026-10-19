@@ -1,10 +1,10 @@
 ---
 title: "The Third Place Problem: Where Adults Go to Belong"
 description: "What a third place is, why adults have lost them, and how to find or build one. Ray Oldenburg's idea, the loneliness data, and the game table as a fix."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Togethering
 tags: ["third place", "third place sociology", "Ray Oldenburg third place", "where to meet people as an adult", "adult loneliness", "third places examples", "Game lounges and third places"]
-draft: true
+draft: false
 ---
 A third place is somewhere you go regularly that is neither your home nor your workplace, where you are known by name and nobody needs a reason to be there. The term comes from sociologist Ray Oldenburg, who argued that these places hold communities together. Most adults today do not have one. This article explains what a third place is, why they have been disappearing, and what it takes to find or build one.
 

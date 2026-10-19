@@ -1,10 +1,10 @@
 ---
 title: "How to Find a D&D Group as an Adult (7 Places That Work)"
 description: "How to find a D&D group as an adult: seven places that reliably work, what to say when you sign up, and how to tell within one session if a table fits you."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Guides
 tags: ["how to find a D&D group", "find D&D players near me", "join a D&D campaign", "looking for group D&D", "adult D&D group", "how to find people to play D&D with", "Tabletop RPGs for beginners"]
-draft: true
+draft: false
 ---
 The hardest part of how to find a D&D group as an adult is not that groups are rare. It is that they are invisible. Nobody advertises their Tuesday night game. The five friends who have played together since college do not need a sixth. And asking a coworker "do you play Dungeons & Dragons?" feels like a confession.
 
