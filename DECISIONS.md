@@ -166,6 +166,12 @@ A short log of choices made and why. Newest at the bottom.
 - **Privacy policy rewritten** to describe this model, including a short rights section. It promises advertising features and Google Signals off and 14-month retention; the GA property must be set that way. Not legal advice; worth a professional review.
 - **The measurement ID goes in `GA_MEASUREMENT_ID`** in `src/lib/config.ts`. While blank, no banner shows and nothing loads.
 
+## 2026-10-19: Dotted hero mark on the home page
+
+- **The home hero shows the tile mark drawn in dots** (`src/components/ParticleMark.astro`), inspired by si.gov. Dots assemble on load; near the cursor or a finger they scatter and glow Lamplight, then spring back.
+- Plain canvas, no library. The animation sleeps when nothing moves or the hero is off screen; with reduced motion the mark is drawn once and stays still.
+- The table illustration stays available: `<Hero art="table">` (the default for other pages) brings it back.
+
 ## 2026-10-19: Malaphor submission page
 
 - **`/malaphors/` added** as the submission address printed in Levi's malaphor field guide (a separate book project, manuscript in `~/Developer/malaphors-book`). Levi chose a Ludarium landing page over an email address or a standalone domain.
