@@ -1,10 +1,10 @@
 ---
 title: "Analysis Paralysis in Board Games: What to Do"
 description: "Analysis paralysis in board games slows the whole table. Why it happens, how to help a slow player without any shame, and which games keep turns moving along."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Night
 tags: ["analysis paralysis board games", "slow player board games", "AP board games", "speed up game night", "player takes too long", "board game turn timer", "Hosting and game-night craft"]
-draft: true
+draft: false
 ---
 Analysis paralysis in board games is what happens when a player has too many options and too little pressure, so they freeze. Everyone has seen it: the table goes quiet, one person stares at their cards, and the other four reach for their phones. Three minutes later, they play the card they were holding at the start.
 

@@ -1,10 +1,10 @@
 ---
 title: "Learn to Play Event: Teaching One Game to a Whole Room"
 description: "How to run a learn to play event: pick the game, teach it once to the whole room, staff each table, and send people home ready to teach it at their own table."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Night
 tags: ["learn to play event", "learn to play night", "board game demo night", "teaching board games to a group", "how to run a game demo", "board game workshop", "Game night programming"]
-draft: true
+draft: false
 ---
 A learn to play event does one thing a regular game night cannot: it gets twenty people past the hardest part of a game, the first play, in a single evening. Most games that people own and never play were never played because nobody at the table knew the rules and nobody wanted to be the one to read them. A learn-to-play night removes that barrier for a whole room at once.
 

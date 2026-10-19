@@ -1,10 +1,10 @@
 ---
 title: "Game Room Setup: Lighting, Seating, and Sound"
 description: "A game room setup guide for the parts nobody plans: how to light a table, seat six people in comfort, and manage sound so every game night feels relaxed."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Night
 tags: ["game room setup", "game night lighting", "board game table lighting", "game room seating", "board game room ideas", "game night ambiance", "Hosting and game-night craft"]
-draft: true
+draft: false
 ---
 A good game room setup comes down to three things most hosts never think about: whether people can read the cards, whether their backs hurt after an hour, and whether they can hear each other. Fix those and almost any room works. Ignore them and the best game library in the world will not save the night.
 

@@ -1,10 +1,10 @@
 ---
 title: "Large Group Game Night: How to Run One for 40 People"
 description: "A large group game night for 40 needs a plan, not more games. Here is the room layout, the game mix, the staffing, and the schedule that keeps it moving."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Night
 tags: ["large group game night", "game night for 40 people", "big group game night", "game night for a crowd", "how to organize a large game night", "games for 40 people", "Game night programming"]
-draft: true
+draft: false
 ---
 A large group game night is not a regular game night with more chairs. At eight people, you can wing it. At forty, the thing that decides whether the night works is not the games; it is whether people can find a table, learn a game without you, and move to the next one when it ends. Forty people without a plan is thirty people standing near the snacks.
 

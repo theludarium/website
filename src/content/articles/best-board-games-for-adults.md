@@ -1,10 +1,10 @@
 ---
 title: "Best Board Games for Adults Who Don't Like Board Games"
 description: "The best board games for adults who think they hate board games. Twelve picks that fix the real complaints, with player counts, times, and why each works."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Guides
 tags: ["best board games for adults", "board games for adults who don't like board games", "fun board games for adults", "board games for non gamers", "adult game night games", "modern board games", "What to play"]
-draft: true
+draft: false
 ---
 Most adults who say they don't like board games are remembering Monopoly. Three hours, one person winning from the first twenty minutes, and nothing to do on anyone else's turn. The best board games for adults fix every one of those problems, and most people who try one change their minds within a single evening.
 

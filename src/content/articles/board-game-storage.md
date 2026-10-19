@@ -1,10 +1,10 @@
 ---
 title: "Board Game Storage: 100 Games in an Apartment"
 description: "Board game storage for small spaces. How to fit 100 games in an apartment with the right shelves, smart culling, box downsizing, and a system you can keep."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Night
 tags: ["board game storage", "board game shelf", "storing board games small apartment", "board game organization", "how to store board games", "game shelf ideas", "Hosting and game-night craft"]
-draft: true
+draft: false
 ---
 Board game storage in a small home comes down to three decisions: what to keep, what to shelve, and what to shrink. Get those right and a hundred games fit in the space most people give to a bookcase and a closet shelf. Get them wrong and you have a tower of boxes in the hallway and a partner who has started mentioning it.
 
