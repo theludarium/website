@@ -17,8 +17,10 @@ import { GA_MEASUREMENT_ID } from '@/lib/config';
   GA_MEASUREMENT_ID && (
     <>
       <script is:inline define:vars={{ gaId: GA_MEASUREMENT_ID }}>
-        // Runs in the head of every page, before anything else from Google.
+        // Runs on every page, before anything else from Google. Only on the real
+        // domain: previews and local dev never send visits into the stats.
         (function () {
+          if (location.hostname !== 'theludarium.com') return;
           var CONSENT_REGIONS = [
             'AT', 'BE', 'BG', 'HR', 'CY', 'CZ', 'DK', 'EE', 'FI', 'FR', 'DE', 'GR', 'HU', 'IE', 'IT',
             'LV', 'LT', 'LU', 'MT', 'NL', 'PL', 'PT', 'RO', 'SK', 'SI', 'ES', 'SE', 'IS', 'LI', 'NO',
