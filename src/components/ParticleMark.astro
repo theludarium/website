@@ -1,14 +1,19 @@
 ---
-// The Ludarium tile mark drawn in dots (inspired by si.gov's hero).
-// Dots assemble into the mark on load. When a cursor or finger passes through,
-// nearby dots scatter and glow Lamplight, then spring back into place.
-// - Canvas only, no libraries. Sleeps when everything is at rest or the hero is
-//   off screen, so it costs nothing while idle.
-// - Reduced motion: the mark is drawn once, fully assembled, and never moves.
-import { MARK_PATH } from '@/lib/brand';
+// Game pieces drawn in dots (inspired by si.gov's hero).
+// The dots cycle through the shapes in src/lib/dot-shapes.ts: the tile mark, a
+// d20, a meeple, a chess knight, a hand of cards, a mahjong tile, and back.
+// When a cursor or finger passes through, nearby dots scatter and glow
+// Lamplight, then spring back into place.
+// - Canvas only, no libraries. Sleeps between changes, and when the hero is off
+//   screen, so it costs nothing while idle.
+// - The hero's pause button stops the cycle. Reduced motion: the mark is drawn
+//   once, fully assembled, and never moves.
+import { DOT_SHAPES } from '@/lib/dot-shapes';
+
+const label = `Game pieces drawn in dots, changing every few seconds: ${DOT_SHAPES.map((s) => s.name).join(', ')}.`;
 ---
 
-<div class="particles" data-particles data-path={MARK_PATH} role="img" aria-label="The Ludarium tile mark, a hexagon with a round table and six chairs, drawn in dots">
+<div class="particles" data-particles role="img" aria-label={label}>
   <canvas aria-hidden="true"></canvas>
 </div>
 
@@ -27,17 +32,32 @@ import { MARK_PATH } from '@/lib/brand';
 </style>
 
 <script>
-  type Dot = { hx: number; hy: number; x: number; y: number; vx: number; vy: number; heat: number; tint: number };
+  import { DOT_SHAPES } from '@/lib/dot-shapes';
+
+  type Dot = {
+    hx: number;
+    hy: number;
+    x: number;
+    y: number;
+    vx: number;
+    vy: number;
+    heat: number;
+    tint: number;
+    alpha: number;
+    show: number;
+  };
 
   const PARCHMENT = [246, 239, 227];
   const LAMPLIGHT = [224, 162, 59];
   const FELT_LIGHT = [140, 194, 176];
+  const HOLD_MARK = 5000; // ms the tile mark stays before the cycle moves on
+  const HOLD_PIECE = 3200; // ms each game piece stays
 
   function setup(root: HTMLElement) {
     const canvas = root.querySelector('canvas')!;
     const ctx = canvas.getContext('2d')!;
-    const mark = new Path2D(root.dataset.path!);
     const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    const hero = root.closest<HTMLElement>('[data-hero]') ?? root;
 
     let dots: Dot[] = [];
     let width = 0;
@@ -45,9 +65,13 @@ import { MARK_PATH } from '@/lib/brand';
     let dpr = 1;
     let dotSize = 2;
     let radius = 90;
+    let box = { left: 0, top: 0, size: 0, spacing: 6 };
     let pointer = { x: -9999, y: -9999, active: false };
     let running = false;
     let lastFrame = 0;
+    let current = 0;
+    let cycleTimer = 0;
+    const cache = new Map<number, [number, number][]>();
 
     // On screen right now? Checked each frame; cheaper and more reliable during
     // page load than an IntersectionObserver.
@@ -55,9 +79,10 @@ import { MARK_PATH } from '@/lib/brand';
       const r = root.getBoundingClientRect();
       return document.visibilityState === 'visible' && r.bottom > 0 && r.top < window.innerHeight;
     };
+    const paused = () => hero.hasAttribute('data-paused');
 
-    // Where the mark sits: right side on wide screens, centered on narrow ones.
-    function layout() {
+    // Where the shapes sit: right side on wide screens, centered on narrow ones.
+    function measure() {
       const rect = root.getBoundingClientRect();
       width = rect.width;
       height = rect.height;
@@ -69,56 +94,97 @@ import { MARK_PATH } from '@/lib/brand';
       const wide = width > 768;
       const size = wide ? Math.min(height * 0.82, width * 0.42) : Math.min(height * 0.86, width * 0.78);
       const cx = wide ? width * 0.74 : width / 2;
-      const cy = height / 2;
-      const scale = size / 64; // the mark path lives on a 64 x 64 grid
       const spacing = Math.max(5, Math.round(size / 70));
+      box = { left: cx - size / 2, top: height / 2 - size / 2, size, spacing };
       dotSize = Math.max(1.6, spacing * 0.42);
       radius = Math.max(60, size * 0.2);
+      cache.clear();
+    }
 
-      // Sample the mark on a grid: every grid point inside the shape becomes a dot.
-      const probe = document.createElement('canvas').getContext('2d')!;
-      const old = new Map(dots.map((d) => [`${Math.round(d.hx)},${Math.round(d.hy)}`, d]));
-      const next: Dot[] = [];
-      const left = cx - size / 2;
-      const top = cy - size / 2;
+    // Draw a shape off screen and keep every grid point that lands inside it.
+    function sample(index: number) {
+      const hit = cache.get(index);
+      if (hit) return hit;
+      const { left, top, size, spacing } = box;
+      const px = Math.ceil(size) + 1;
+      const probe = document.createElement('canvas');
+      probe.width = px;
+      probe.height = px;
+      const p = probe.getContext('2d', { willReadFrequently: true })!;
+      p.scale(size / 64, size / 64);
+      DOT_SHAPES[index].draw(p);
+      const data = p.getImageData(0, 0, px, px).data;
+      const points: [number, number][] = [];
       for (let gy = 0; gy <= size; gy += spacing) {
         for (let gx = 0; gx <= size; gx += spacing) {
-          if (!probe.isPointInPath(mark, gx / scale, gy / scale, 'evenodd')) continue;
-          const hx = left + gx;
-          const hy = top + gy;
-          const prev = old.get(`${Math.round(hx)},${Math.round(hy)}`);
-          const tint = Math.random() < 0.08 ? 1 : 0;
-          if (prev) {
-            next.push({ ...prev, hx, hy, tint: prev.tint });
-          } else if (reduceMotion) {
-            next.push({ hx, hy, x: hx, y: hy, vx: 0, vy: 0, heat: 0, tint });
-          } else {
-            // First paint: start scattered across the canvas and fly home.
-            next.push({
-              hx,
-              hy,
-              x: Math.random() * width,
-              y: Math.random() * height,
-              vx: 0,
-              vy: 0,
-              heat: 0.6,
-              tint,
-            });
-          }
+          if (data[(Math.round(gy) * px + Math.round(gx)) * 4 + 3] > 127) points.push([left + gx, top + gy]);
         }
       }
-      dots = next;
+      cache.set(index, points);
+      return points;
+    }
+
+    // Send the dots to a shape. Dots and targets are matched by angle around the
+    // center, so the change reads as one shape turning into the next. Spare dots
+    // fade out on top of a neighbor.
+    function assign(index: number, flight: number) {
+      const points = sample(index);
+      const cx = box.left + box.size / 2;
+      const cy = box.top + box.size / 2;
+      const angle = (x: number, y: number) => Math.atan2(y - cy, x - cx);
+
+      // New dots: scattered on first paint, otherwise born on top of an existing dot.
+      const existing = dots.length;
+      while (dots.length < points.length) {
+        const from = existing ? dots[Math.floor(Math.random() * existing)] : null;
+        const x = from ? from.x : reduceMotion ? cx : Math.random() * width;
+        const y = from ? from.y : reduceMotion ? cy : Math.random() * height;
+        dots.push({ hx: x, hy: y, x, y, vx: 0, vy: 0, heat: 0, tint: Math.random() < 0.08 ? 1 : 0, alpha: 0, show: 0 });
+      }
+
+      const targets = points
+        .map((pt) => ({ pt, a: angle(pt[0], pt[1]) + Math.random() * 0.02 }))
+        .sort((a, b) => a.a - b.a)
+        .map((t) => t.pt);
+      const order = [...dots].sort((a, b) => angle(a.x, a.y) - angle(b.x, b.y));
+      const n = order.length;
+      const used = new Set<number>();
+      targets.forEach((pt, k) => {
+        const i = Math.floor((k * n) / targets.length);
+        used.add(i);
+        const d = order[i];
+        d.hx = pt[0];
+        d.hy = pt[1];
+        d.show = 1;
+      });
+      order.forEach((d, i) => {
+        if (used.has(i)) return;
+        const pt = targets[Math.floor((i * targets.length) / n)];
+        d.hx = pt[0];
+        d.hy = pt[1];
+        d.show = 0;
+      });
+      for (const d of dots) {
+        if (reduceMotion) {
+          d.x = d.hx;
+          d.y = d.hy;
+          d.alpha = d.show;
+        } else if (flight && d.show) {
+          d.heat = Math.max(d.heat, flight);
+        }
+      }
     }
 
     function draw() {
       ctx.clearRect(0, 0, width, height);
       for (const d of dots) {
+        if (d.alpha < 0.01) continue;
         const base = d.tint ? FELT_LIGHT : PARCHMENT;
         const h = Math.min(1, d.heat);
         const r = Math.round(base[0] + (LAMPLIGHT[0] - base[0]) * h);
         const g = Math.round(base[1] + (LAMPLIGHT[1] - base[1]) * h);
         const b = Math.round(base[2] + (LAMPLIGHT[2] - base[2]) * h);
-        const alpha = (d.tint ? 0.75 : 0.62) + 0.38 * h;
+        const alpha = ((d.tint ? 0.75 : 0.62) + 0.38 * h) * d.alpha;
         ctx.fillStyle = `rgba(${r},${g},${b},${alpha})`;
         const s = dotSize * (1 + 0.5 * h);
         ctx.fillRect(d.x - s / 2, d.y - s / 2, s, s);
@@ -128,7 +194,7 @@ import { MARK_PATH } from '@/lib/brand';
     function step() {
       let moving = false;
       for (const d of dots) {
-        if (pointer.active) {
+        if (pointer.active && d.show) {
           const dx = d.x - pointer.x;
           const dy = d.y - pointer.y;
           const dist2 = dx * dx + dy * dy;
@@ -146,7 +212,15 @@ import { MARK_PATH } from '@/lib/brand';
         d.x += d.vx;
         d.y += d.vy;
         d.heat *= 0.965;
-        if (Math.abs(d.vx) + Math.abs(d.vy) > 0.02 || d.heat > 0.01 || Math.abs(d.x - d.hx) > 0.3) moving = true;
+        d.alpha += (d.show - d.alpha) * 0.08;
+        if (
+          Math.abs(d.vx) + Math.abs(d.vy) > 0.02 ||
+          d.heat > 0.01 ||
+          Math.abs(d.x - d.hx) > 0.3 ||
+          Math.abs(d.show - d.alpha) > 0.01
+        ) {
+          moving = true;
+        }
       }
       draw();
       return moving;
@@ -173,7 +247,25 @@ import { MARK_PATH } from '@/lib/brand';
       requestAnimationFrame(loop);
     }
 
-    const hero = root.closest('[data-hero]') ?? root;
+    // The cycle. It waits while paused, off screen, or in a background tab.
+    function schedule() {
+      window.clearTimeout(cycleTimer);
+      if (reduceMotion || paused()) return;
+      cycleTimer = window.setTimeout(advance, current === 0 ? HOLD_MARK : HOLD_PIECE);
+    }
+
+    function advance() {
+      if (paused()) return;
+      if (onScreen() && !pointer.active) {
+        current = (current + 1) % DOT_SHAPES.length;
+        assign(current, 0.35);
+        wake();
+      }
+      schedule();
+    }
+
+    new MutationObserver(schedule).observe(hero, { attributes: true, attributeFilter: ['data-paused'] });
+
     const toLocal = (e: PointerEvent) => {
       const rect = root.getBoundingClientRect();
       pointer = { x: e.clientX - rect.left, y: e.clientY - rect.top, active: true };
@@ -198,19 +290,34 @@ import { MARK_PATH } from '@/lib/brand';
     document.addEventListener('visibilitychange', wake);
     window.addEventListener('load', wake);
 
+    // First assembly waits until the hero has a size (styles can land late).
+    function start() {
+      measure();
+      if (box.size < 10) return false;
+      assign(current, 0.6);
+      for (const d of dots) d.alpha = reduceMotion ? 1 : 0.6;
+      draw();
+      wake();
+      schedule();
+      return true;
+    }
+
+    let started = start();
     let resizeTimer = 0;
     new ResizeObserver(() => {
+      if (!started) {
+        started = start();
+        return;
+      }
       window.clearTimeout(resizeTimer);
       resizeTimer = window.setTimeout(() => {
-        layout();
+        measure();
+        assign(current, 0);
         draw();
         wake();
       }, 80);
     }).observe(root);
 
-    layout();
-    draw();
-    wake();
     // Safety net for the first assembly on slow or busy page loads.
     for (const ms of [300, 900, 2000]) window.setTimeout(wake, ms);
   }
