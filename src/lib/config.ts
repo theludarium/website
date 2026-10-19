@@ -39,3 +39,11 @@ export const TURNSTILE_SITE_KEY = '';
 export const KIT_WAITLIST_FORMS: Record<string, { action: string }> = {
   indianapolis: { action: '' },
 };
+
+/**
+ * Kit form for malaphor submissions (the /malaphors/ page, printed in the book).
+ * Copy `action` from the Kit form's HTML embed. In Kit, add a rule so this form
+ * tags subscribers `malaphors`, and create custom fields with these keys:
+ * malaphor, parents, context.
+ */
+export const KIT_MALAPHOR_FORM = { action: '' };

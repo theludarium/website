@@ -145,3 +145,9 @@ A short log of choices made and why. Newest at the bottom.
 - **SEO check now fails on unfilled `<!-- EDITOR: ... -->` notes** on published pages, and warns on leftover `AFFILIATE` markers, so placeholder text cannot ship.
 - **Built and checked in a copy of this branch:** preview build passes (drafts shown); a build with every article published passes the SEO check except for the 59 articles that still have EDITOR notes, which is the guard working.
 - **Out of scope still:** the library also includes a shared events calendar and a community page template (in `docs/content-library/`). CLAUDE.md lists a public events calendar as Phase 2, so they are reference only.
+
+## 2026-10-19: Malaphor submission page
+
+- **`/malaphors/` added** as the submission address printed in Levi's malaphor field guide (a separate book project, manuscript in `~/Developer/malaphors-book`). Levi chose a Ludarium landing page over an email address or a standalone domain.
+- **Kit, not a form service:** five fields post straight to a Kit form tagged `malaphors` with custom fields `malaphor`, `parents`, `context`, so the book builds its own list without mixing with the newsletter audience. Action URL goes in `src/lib/config.ts`; a preview note shows until it does.
+- **Not in the navigation.** The page exists for readers of the book; the site's own visitors reach it only by the printed URL.
