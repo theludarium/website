@@ -1,10 +1,10 @@
 ---
 title: "Phone-Free Game Night: The Phone Basket Rule"
 description: "A phone-free game night changes everything about how people play and talk. Here is the phone basket rule, how to introduce it, and what you will notice."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Togethering
 tags: ["phone-free game night", "phone basket", "screen-free socializing", "phones at the table", "digital distraction", "how to host a game night", "Social benefits of playing in person"]
-draft: true
+draft: false
 ---
 A phone-free game night is the single easiest upgrade you can make to any table. You need a basket, a rule, and about a week of mild discomfort. After that, the games get sharper, the conversation gets deeper, and people start to look forward to the one evening when nobody is half somewhere else. This article covers how to introduce the phone basket, why it works, and what you will notice once it does.
 

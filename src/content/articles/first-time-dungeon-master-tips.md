@@ -1,10 +1,10 @@
 ---
 title: "First Time Dungeon Master Tips: You Got Volunteered"
 description: "First time Dungeon Master tips for anyone who got volunteered: what to prepare, what to skip, and five friendly habits that help your first session go well."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Guides
 tags: ["first time dungeon master tips", "how to DM for the first time", "new dungeon master guide", "running your first D&D game", "DM prep for beginners", "game master tips", "Tabletop RPGs for beginners"]
-draft: true
+draft: false
 ---
 The most useful first time Dungeon Master tips are the ones about what not to do. Do not write a novel's worth of lore. Do not memorize the rulebook. Do not build a world. You are running one evening for a few friends who have never played, and the bar is lower and the job is simpler than the internet makes it look.
 

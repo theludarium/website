@@ -39,3 +39,7 @@ Our favorite two-player game is <AffiliateLink href="https://example.com/your-li
 ```
 
 `AffiliateLink` marks the link `rel="sponsored noopener"` and opens it in a new tab. `AffiliateNotice` links to the disclosure page.
+
+## Linking to other articles
+
+Link freely to any article with `/articles/<slug>/`, published or not. On the live site, a link to an article that is still a draft shows as plain text, and it turns into a real link automatically the day that article publishes. The build fails if a link points at a page that does not exist at all.

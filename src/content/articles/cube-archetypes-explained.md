@@ -1,10 +1,10 @@
 ---
 title: "Cube Archetypes Explained: The Ten Two-Color Lanes"
 description: "Cube archetypes explained for new drafters: what each of the ten two-color lanes wants, which cards signal it, and how many cards a cube needs to support it."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Magic & Cube
 tags: ["cube archetypes", "two-color archetypes cube", "cube draft archetypes", "how to support an archetype in cube", "guild archetypes MTG", "cube design", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Cube archetypes are the decks a cube is designed to produce. Most cubes aim for ten of them, one for each two-color pair, so that every seat at an eight-player draft has a lane that is open and a deck that works. If you have drafted a retail set, you already know the idea: Boros is aggro, Dimir is control, Golgari is graveyard. A cube just makes the designer responsible for all ten, forever, with no set designers to lean on.
 

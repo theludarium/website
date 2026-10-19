@@ -1,10 +1,10 @@
 ---
 title: "Cube Draft Guide: A One-Page Guide for First-Timers"
 description: "A one-page cube draft guide to hand a first-timer: how a draft works, what to take, how many lands to play, and the five mistakes every new drafter makes once."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Magic & Cube
 tags: ["cube draft guide", "cube draft for beginners", "first cube draft tips", "how to draft a cube", "cube draft new players", "cube deckbuilding basics", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Every cube primer needs a cube draft guide for the person who has never drafted. Not a strategy essay; a single page they can read in the car, with the five things that get a first-timer to a playable deck and a good night. The regulars will skip it. The new drafter will read it three times.
 

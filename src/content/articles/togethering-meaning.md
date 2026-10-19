@@ -1,10 +1,10 @@
 ---
 title: "Togethering Meaning: Why We Needed a New Word"
 description: "Togethering meaning, explained by those who put the word on everything: people coming together in person to share life, with a game as the reason to gather."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Culture
 tags: ["togethering meaning", "what is togethering", "togethering definition", "in-person connection", "third place", "The Ludarium mission", "Building The Ludarium"]
-draft: true
+draft: false
 ---
 The togethering meaning we use is this: people coming together, usually in person, to share life. The tabletop game is the medium that gets everyone to the table and gives the time a shape. The time together is the point. We put the word on everything The Ludarium makes, and people ask about it often enough that it deserves its own explanation, including why none of the existing words would do.
 

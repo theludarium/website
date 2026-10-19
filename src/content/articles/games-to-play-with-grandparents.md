@@ -1,10 +1,10 @@
 ---
 title: "Games to Play With Grandparents Who Don't Play Games"
 description: "Games to play with grandparents who say they don't play games. Ten picks that work across sixty years of age, and how to get a reluctant one to the table."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Night
 tags: ["games to play with grandparents", "board games for seniors and grandchildren", "games for grandparents and kids", "multigenerational games", "card games for older adults", "games for elderly parents", "Family and intergenerational play"]
-draft: true
+draft: false
 ---
 The best games to play with grandparents who "don't play games" are the ones that look like something they already do. Rummikub looks like gin rummy with tiles. Qwirkle looks like dominoes. Codenames looks like a word puzzle. Ticket to Ride looks like a map. Almost every grandparent who claims not to play games played cards, dominoes, or Scrabble for decades. They do not dislike games. They dislike learning new rules in front of grandchildren.
 

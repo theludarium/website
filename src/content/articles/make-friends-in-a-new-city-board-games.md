@@ -1,10 +1,10 @@
 ---
 title: "How to Make Friends in a New City: Start at a Game Table"
 description: "How to make friends in a new city knowing nobody. Why board games are the fastest route to a real local circle, plus a 90-day plan to build one from scratch."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Togethering
 tags: ["how to make friends in a new city", "making friends after moving", "board game meetup", "adult friendship", "new in town", "find a game group", "Social benefits of playing in person"]
-draft: true
+draft: false
 ---
 If you are trying to figure out how to make friends in a new city, the fastest route runs through a table with a board on it. Find the nearest game store or open game night, show up on the same night three weeks in a row, and say yes to whatever is being taught. Within a month you will know a dozen names. Within three, a few of them will be friends.
 

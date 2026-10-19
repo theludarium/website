@@ -1,10 +1,10 @@
 ---
 title: "Game Night for Introverts: Host Without the Drain"
 description: "A game night for introverts does not have to be exhausting. How to host small, choose games that carry the conversation, and leave with energy to spare."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Night
 tags: ["game night for introverts", "hosting for introverts", "board games for introverts", "quiet game night", "small game night", "social battery hosting", "Hosting and game-night craft"]
-draft: true
+draft: false
 ---
 A game night for introverts is not a quieter version of a regular game night. It is a differently shaped one. Smaller, shorter, more structured, with games that do the social work so the host does not have to. Done right, it is the one kind of hosting many introverts find restorative rather than depleting.
 
