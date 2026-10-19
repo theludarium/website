@@ -45,4 +45,4 @@ export const KIT_WAITLIST_FORMS: Record<string, { action: string }> = {
  * Analytics runs for every visitor, with regional consent handling in
  * src/components/ConsentBanner.astro. While blank, nothing loads.
  */
-export const GA_MEASUREMENT_ID = '';
+export const GA_MEASUREMENT_ID = 'G-38F1N7Q117';
