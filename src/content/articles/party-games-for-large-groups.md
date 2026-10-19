@@ -1,10 +1,10 @@
 ---
 title: "Best Party Games for Large Groups of 8 or More"
 description: "The best party games for large groups of 8, 10, or 20 people. Twelve picks that scale, with player counts, times, and how to run a big table without chaos."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Guides
 tags: ["party games for large groups", "board games for 8 players", "party games for 10 people", "games for big groups of adults", "large group games", "games for a crowd", "What to play"]
-draft: true
+draft: false
 ---
 Most board games stop at four or five players. That leaves a lot of hosts stuck when ten people show up. The best party games for large groups are built for a crowd: they teach in a minute, run in rounds, and keep everyone involved without waiting twenty minutes for a turn.
 

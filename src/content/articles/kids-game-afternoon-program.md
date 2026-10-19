@@ -1,10 +1,10 @@
 ---
 title: "Kids Board Game Event: A Game Afternoon Parents Love"
 description: "How to run a kids board game event: age bands, the games that hold a table, the adult-to-kid ratio, and the two rules that keep it from becoming chaos."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Night
 tags: ["kids board game event", "kids game afternoon", "board game event for children", "kids game day", "board games for a kids party", "children's game club", "Game night programming"]
-draft: true
+draft: false
 ---
 A kids board game event is one of the easiest things to get wrong and one of the most appreciated when it goes right. Parents want their children off screens and around a table with other kids. Kids want to play. The gap between those two wishes is about ninety minutes of structure, and that is what this guide is about.
 

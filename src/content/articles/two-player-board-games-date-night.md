@@ -1,10 +1,10 @@
 ---
 title: "Best Two-Player Board Games for Date Night"
 description: "The best two player board games for date night, from calm puzzles to friendly rivalries. Twelve picks with times, play counts, and which mood each suits."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Guides
 tags: ["two player board games", "board games for couples", "date night games", "best 2 player games", "two player card games", "games for two adults", "What to play"]
-draft: true
+draft: false
 ---
 The best two player board games for a date night do one thing well: they give two people a reason to sit across from each other for an hour and pay attention. No phones, no show to half-watch, just a shared problem and some light competition. This list has twelve, sorted by mood, because the right game for a Tuesday after work is not the right game for a rainy Saturday.
 

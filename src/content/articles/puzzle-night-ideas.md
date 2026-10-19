@@ -1,10 +1,10 @@
 ---
 title: "Puzzle Night Ideas: Jigsaws, Escape Boxes, Mixed Groups"
 description: "Puzzle night works for groups that games split apart. Here is how to run one with jigsaws, escape boxes and paper puzzles, and why mixed groups love it."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Night
 tags: ["puzzle night", "puzzle night ideas", "jigsaw puzzle party", "escape room board game", "puzzle party for adults", "group puzzle activities", "Game night programming"]
-draft: true
+draft: false
 ---
 A puzzle night solves the problem that a board game night cannot. Some groups are too mixed to game: a range of ages, a few people who hate competition, someone who will not learn rules, someone who does not want to be put on the spot. A puzzle has no rules to learn and nobody loses. People drift in, sit down, contribute a piece or a clue, and drift out again. The evening holds together without anyone running it.
 

@@ -1,10 +1,10 @@
 ---
 title: "Board Game Rules Argument? How to Settle It Fast"
 description: "A board game rules argument can sour a whole night. A process for settling disputes in under two minutes, plus habits that keep the next one from starting."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Night
 tags: ["board game rules argument", "board game rules dispute", "how to settle rules disagreements", "house rules board games", "board game etiquette", "rules lawyer", "Hosting and game-night craft"]
-draft: true
+draft: false
 ---
 A board game rules argument has a predictable shape. Two people are certain. The rulebook is somewhere. The other players are waiting. Five minutes later, someone is annoyed, the game has lost its momentum, and the point in dispute turns out not to matter.
 

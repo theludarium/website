@@ -1,10 +1,10 @@
 ---
 title: "How to Host Trivia Night People Actually Come Back To"
 description: "How to host trivia night people come back to: good questions, round structure, scoring, the host's role, and the mistakes that empty a room by round four."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Night
 tags: ["how to host trivia night", "trivia night questions", "trivia night format", "pub quiz format", "trivia night ideas", "running a trivia night", "Game night programming"]
-draft: true
+draft: false
 ---
 Learning how to host trivia night is mostly learning how to write questions, because the format is simple and the questions are where it goes wrong. A good trivia night has questions that most teams can argue about and some teams can get. A bad one has questions that either everyone knows or nobody does, and by round four the room is on its phones.
 

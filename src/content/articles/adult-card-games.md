@@ -1,10 +1,10 @@
 ---
 title: "Best Adult Card Games That Aren't Cards Against Humanity"
 description: "The best adult card games that aren't Cards Against Humanity. Twelve picks that stay funny past the third round, with player counts, times, and why each works."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Guides
 tags: ["adult card games", "card games for adults", "games like Cards Against Humanity", "party card games", "card games for a group", "fun card games for adults", "What to play"]
-draft: true
+draft: false
 ---
 Cards Against Humanity gets to a lot of tables because it is easy to buy, easy to explain, and reliably gets a laugh in round one. The problem is round four. The jokes are printed on the cards, so the game runs out of surprises fast. The best adult card games put the humor and the tension in the players instead, which means they stay good for years.
 

@@ -1,10 +1,10 @@
 ---
 title: "Game Night Snacks That Won't Ruin the Cards"
 description: "The best game night snacks are dry, one-handed, and kept away from the board. What to serve, what to skip, and how to set out food so nobody ruins a card."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Night
 tags: ["game night snacks", "board game snacks", "game night food ideas", "snacks for board games", "easy party snacks", "clean finger foods", "Hosting and game-night craft"]
-draft: true
+draft: false
 ---
 Good game night snacks pass a simple test: can you eat them with one hand, without a napkin, and then pick up a card without leaving a mark? Pretzels pass. Cheese puffs fail. Grapes pass. Buffalo wings fail in every way a food can fail.
 

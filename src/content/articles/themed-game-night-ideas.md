@@ -1,10 +1,10 @@
 ---
 title: "12 Themed Game Night Ideas Beyond \"Bring a Game\\"
 description: "Themed game night ideas for groups that have gone stale: twelve themes, each with the games, the setup, and the one rule that makes the whole night work."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Night
 tags: ["themed game night ideas", "game night themes", "game night ideas for adults", "board game night theme", "fun game night ideas", "how to plan a game night", "Game night programming"]
-draft: true
+draft: false
 ---
 The best themed game night ideas do one job: they make the decision for people. "Bring a game" puts the work on your guests, and the same three people bring the same three boxes. A theme tells everyone what the night is before they walk in, which means they show up ready to play instead of ready to negotiate.
 

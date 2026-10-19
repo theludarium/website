@@ -1,10 +1,10 @@
 ---
 title: "Drop-In D&D Nights: Running One-Shots for Strangers"
 description: "How to run drop in D&D and other RPG one-shots for people who just showed up: pregens, table size, the two-hour arc, and what the GM does differently."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Night
 tags: ["drop in D&D", "drop-in RPG night", "D&D one-shot for strangers", "open table D&D", "public D&D night", "how to run a one-shot", "Game night programming"]
-draft: true
+draft: false
 ---
 Drop in D&D is the format that gets people who have always wanted to try a tabletop RPG to actually try one. No campaign to join, no character to build in advance, no group of friends who have been playing together for six years. You show up, sit down at a table with four strangers and a game master, play for two hours, and leave with a story. If you liked it, you come back next week and sit at a different table.
 

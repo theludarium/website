@@ -1,10 +1,10 @@
 ---
 title: "How Long Should Game Night Last? Ending on Time"
 description: "How long should game night last? About three hours, with a stated end. Why ending on time keeps people coming back, and how to do it without being rude."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Night
 tags: ["how long should game night last", "game night end time", "how to end a game night", "game night length", "when to stop playing board games", "game night schedule", "Hosting and game-night craft"]
-draft: true
+draft: false
 ---
 How long should game night last? For most groups, about three hours, with a start and end time named in the invite and honored by the host. Shorter is fine. Longer is where game nights go to die, slowly, one person at a time, until the ones who left early feel guilty and the ones who stayed feel trapped.
 
