@@ -37,6 +37,7 @@ const year = new Date().getFullYear();
         <a href="/privacy/">Privacy</a>
         <a href="/terms/">Terms</a>
         <a href="/affiliate-disclosure/">Affiliate disclosure</a>
+        <button type="button" class="site-footer__linkbtn" data-consent-open hidden>Cookie settings</button>
         <ThemeToggle />
       </div>
     </div>
@@ -122,6 +123,16 @@ const year = new Date().getFullYear();
     flex-wrap: wrap;
     align-items: center;
     gap: var(--space-4);
+  }
+
+  .site-footer__linkbtn {
+    padding: 0;
+    border: 0;
+    background: none;
+    color: var(--color-text-muted);
+    font: inherit;
+    text-decoration: underline;
+    cursor: pointer;
   }
 
   .site-footer__legal a {

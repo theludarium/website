@@ -1,0 +1,193 @@
+---
+// Google Analytics for every visitor, with each region's rules:
+// - Most of the world (including the US): analytics runs from the first page
+//   view, disclosed in the privacy policy, with an opt-out under
+//   "Cookie settings" in the footer.
+// - EU/EEA, UK, Switzerland: no analytics cookies until the visitor allows them.
+//   Until then Google Consent Mode sends cookieless pings, so visits are still
+//   counted (Google models them) without storing anything on the device.
+// - "No thanks" or a Global Privacy Control signal: cookieless only, never cookies.
+// - Advertising signals are always denied.
+// The visitor's country comes from /api/country (a Cloudflare Function that
+// reads Cloudflare's own location data and stores nothing).
+import { GA_MEASUREMENT_ID } from '@/lib/config';
+---
+
+{
+  GA_MEASUREMENT_ID && (
+    <>
+      <script is:inline define:vars={{ gaId: GA_MEASUREMENT_ID }}>
+        // Runs on every page, before anything else from Google. Only on the real
+        // domain: previews and local dev never send visits into the stats.
+        (function () {
+          if (location.hostname !== 'theludarium.com') return;
+          var CONSENT_REGIONS = [
+            'AT', 'BE', 'BG', 'HR', 'CY', 'CZ', 'DK', 'EE', 'FI', 'FR', 'DE', 'GR', 'HU', 'IE', 'IT',
+            'LV', 'LT', 'LU', 'MT', 'NL', 'PL', 'PT', 'RO', 'SK', 'SI', 'ES', 'SE', 'IS', 'LI', 'NO',
+            'GB', 'CH',
+          ];
+          var stored = null;
+          try {
+            stored = localStorage.getItem('ludarium-consent');
+          } catch (e) {}
+          var optedOut = stored === 'denied' || navigator.globalPrivacyControl === true;
+
+          window.dataLayer = window.dataLayer || [];
+          window.gtag = function () {
+            window.dataLayer.push(arguments);
+          };
+          var ads = { ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied' };
+          if (stored === 'granted') {
+            gtag('consent', 'default', Object.assign({ analytics_storage: 'granted' }, ads));
+          } else if (optedOut) {
+            gtag('consent', 'default', Object.assign({ analytics_storage: 'denied' }, ads));
+          } else {
+            // Ask first in consent regions; on by default everywhere else.
+            gtag('consent', 'default', Object.assign({ analytics_storage: 'denied', region: CONSENT_REGIONS, wait_for_update: 500 }, ads));
+            gtag('consent', 'default', Object.assign({ analytics_storage: 'granted' }, ads));
+          }
+          gtag('js', new Date());
+          gtag('config', gaId);
+          var s = document.createElement('script');
+          s.async = true;
+          s.src = 'https://www.googletagmanager.com/gtag/js?id=' + encodeURIComponent(gaId);
+          document.head.appendChild(s);
+          window.__ludariumConsentRegions = CONSENT_REGIONS;
+        })();
+      </script>
+
+      <div class="consent" data-consent role="region" aria-label="Cookie choice" hidden>
+        <p class="consent__text" data-consent-text>
+          We use Google Analytics cookies to learn which articles and tools help people. Allow them?
+          <a href="/privacy/#cookies">Privacy policy</a>
+        </p>
+        <div class="consent__actions">
+          <button type="button" class="button consent__btn" data-consent-choice="granted">Allow analytics</button>
+          <button type="button" class="button button--ghost consent__btn" data-consent-choice="denied">No thanks</button>
+        </div>
+      </div>
+    </>
+  )
+}
+
+<style>
+  .consent {
+    position: fixed;
+    left: 50%;
+    bottom: var(--space-4);
+    z-index: 90;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--space-3) var(--space-5);
+    width: min(44rem, calc(100% - 2 * var(--space-4)));
+    padding: var(--space-4) var(--space-5);
+    transform: translateX(-50%);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-card);
+    background: var(--color-surface);
+    box-shadow: var(--shadow-lg);
+  }
+
+  .consent[hidden] {
+    display: none;
+  }
+
+  .consent__text {
+    flex: 1 1 18rem;
+    margin: 0;
+    font-size: var(--text-sm);
+    color: var(--color-text);
+  }
+
+  .consent__actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+  }
+
+  .consent__btn {
+    padding: 0.5em 1.1em;
+    font-size: var(--text-sm);
+  }
+</style>
+
+<script>
+  const KEY = 'ludarium-consent';
+  const COUNTRY_KEY = 'ludarium-country';
+  const banner = document.querySelector<HTMLElement>('[data-consent]');
+  type Choice = 'granted' | 'denied';
+  const w = window as unknown as {
+    gtag?: (...args: unknown[]) => void;
+    __ludariumConsentRegions?: string[];
+  };
+
+  const read = (key: string) => {
+    try {
+      return localStorage.getItem(key);
+    } catch {
+      return null;
+    }
+  };
+  const write = (key: string, value: string) => {
+    try {
+      localStorage.setItem(key, value);
+    } catch {}
+  };
+
+  function clearAnalyticsCookies() {
+    for (const c of document.cookie.split(';')) {
+      const name = c.split('=')[0].trim();
+      if (name === '_ga' || name.startsWith('_ga_') || name === '_gid') {
+        const base = location.hostname.replace(/^www\./, '');
+        for (const domain of ['', `; domain=${location.hostname}`, `; domain=.${base}`]) {
+          document.cookie = `${name}=; Max-Age=0; path=/${domain}`;
+        }
+      }
+    }
+  }
+
+  function choose(next: Choice) {
+    write(KEY, next);
+    w.gtag?.('consent', 'update', { analytics_storage: next });
+    if (next === 'denied') clearAnalyticsCookies();
+    if (banner) banner.hidden = true;
+  }
+
+  async function country(): Promise<string | null> {
+    const cached = read(COUNTRY_KEY);
+    if (cached) return cached;
+    try {
+      const res = await fetch('/api/country', { headers: { Accept: 'application/json' } });
+      if (!res.ok) return null;
+      const { country: code } = (await res.json()) as { country?: string };
+      if (code) write(COUNTRY_KEY, code);
+      return code ?? null;
+    } catch {
+      return null;
+    }
+  }
+
+  if (banner) {
+    banner.addEventListener('click', (e) => {
+      const btn = (e.target as HTMLElement).closest<HTMLButtonElement>('[data-consent-choice]');
+      if (btn) choose(btn.dataset.consentChoice as Choice);
+    });
+
+    document.querySelectorAll<HTMLElement>('[data-consent-open]').forEach((el) => {
+      el.hidden = false;
+      el.addEventListener('click', () => {
+        banner.hidden = false;
+        banner.querySelector<HTMLButtonElement>('[data-consent-choice]')?.focus();
+      });
+    });
+
+    // Ask only where the law requires it, and only if the visitor has not chosen.
+    const gpc = (navigator as Navigator & { globalPrivacyControl?: boolean }).globalPrivacyControl === true;
+    if (!read(KEY) && !gpc) {
+      country().then((code) => {
+        if (code && (w.__ludariumConsentRegions ?? []).includes(code)) banner.hidden = false;
+      });
+    }
+  }
+</script>

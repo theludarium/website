@@ -41,6 +41,13 @@ export const KIT_WAITLIST_FORMS: Record<string, { action: string }> = {
 };
 
 /**
+ * Google Analytics 4 measurement ID (looks like G-XXXXXXXXXX). Public.
+ * Analytics runs for every visitor, with regional consent handling in
+ * src/components/ConsentBanner.astro. While blank, nothing loads.
+ */
+export const GA_MEASUREMENT_ID = 'G-38F1N7Q117';
+
+/**
  * Kit form for malaphor submissions (the /malaphors/ page, printed in the book).
  * Copy `action` from the Kit form's HTML embed. In Kit, add a rule so this form
  * tags subscribers `malaphors`, and create custom fields with these keys:
