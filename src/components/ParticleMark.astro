@@ -1,0 +1,219 @@
+---
+// The Ludarium tile mark drawn in dots (inspired by si.gov's hero).
+// Dots assemble into the mark on load. When a cursor or finger passes through,
+// nearby dots scatter and glow Lamplight, then spring back into place.
+// - Canvas only, no libraries. Sleeps when everything is at rest or the hero is
+//   off screen, so it costs nothing while idle.
+// - Reduced motion: the mark is drawn once, fully assembled, and never moves.
+import { MARK_PATH } from '@/lib/brand';
+---
+
+<div class="particles" data-particles data-path={MARK_PATH} role="img" aria-label="The Ludarium tile mark, a hexagon with a round table and six chairs, drawn in dots">
+  <canvas aria-hidden="true"></canvas>
+</div>
+
+<style>
+  .particles {
+    position: absolute;
+    inset: 0;
+    touch-action: pan-y;
+  }
+
+  .particles canvas {
+    display: block;
+    width: 100%;
+    height: 100%;
+  }
+</style>
+
+<script>
+  type Dot = { hx: number; hy: number; x: number; y: number; vx: number; vy: number; heat: number; tint: number };
+
+  const PARCHMENT = [246, 239, 227];
+  const LAMPLIGHT = [224, 162, 59];
+  const FELT_LIGHT = [140, 194, 176];
+
+  function setup(root: HTMLElement) {
+    const canvas = root.querySelector('canvas')!;
+    const ctx = canvas.getContext('2d')!;
+    const mark = new Path2D(root.dataset.path!);
+    const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+    let dots: Dot[] = [];
+    let width = 0;
+    let height = 0;
+    let dpr = 1;
+    let dotSize = 2;
+    let radius = 90;
+    let pointer = { x: -9999, y: -9999, active: false };
+    let running = false;
+    let lastFrame = 0;
+
+    // On screen right now? Checked each frame; cheaper and more reliable during
+    // page load than an IntersectionObserver.
+    const onScreen = () => {
+      const r = root.getBoundingClientRect();
+      return document.visibilityState === 'visible' && r.bottom > 0 && r.top < window.innerHeight;
+    };
+
+    // Where the mark sits: right side on wide screens, centered on narrow ones.
+    function layout() {
+      const rect = root.getBoundingClientRect();
+      width = rect.width;
+      height = rect.height;
+      dpr = Math.min(window.devicePixelRatio || 1, 2);
+      canvas.width = Math.round(width * dpr);
+      canvas.height = Math.round(height * dpr);
+      ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+
+      const wide = width > 768;
+      const size = wide ? Math.min(height * 0.82, width * 0.42) : Math.min(height * 0.86, width * 0.78);
+      const cx = wide ? width * 0.74 : width / 2;
+      const cy = height / 2;
+      const scale = size / 64; // the mark path lives on a 64 x 64 grid
+      const spacing = Math.max(5, Math.round(size / 70));
+      dotSize = Math.max(1.6, spacing * 0.42);
+      radius = Math.max(60, size * 0.2);
+
+      // Sample the mark on a grid: every grid point inside the shape becomes a dot.
+      const probe = document.createElement('canvas').getContext('2d')!;
+      const old = new Map(dots.map((d) => [`${Math.round(d.hx)},${Math.round(d.hy)}`, d]));
+      const next: Dot[] = [];
+      const left = cx - size / 2;
+      const top = cy - size / 2;
+      for (let gy = 0; gy <= size; gy += spacing) {
+        for (let gx = 0; gx <= size; gx += spacing) {
+          if (!probe.isPointInPath(mark, gx / scale, gy / scale, 'evenodd')) continue;
+          const hx = left + gx;
+          const hy = top + gy;
+          const prev = old.get(`${Math.round(hx)},${Math.round(hy)}`);
+          const tint = Math.random() < 0.08 ? 1 : 0;
+          if (prev) {
+            next.push({ ...prev, hx, hy, tint: prev.tint });
+          } else if (reduceMotion) {
+            next.push({ hx, hy, x: hx, y: hy, vx: 0, vy: 0, heat: 0, tint });
+          } else {
+            // First paint: start scattered across the canvas and fly home.
+            next.push({
+              hx,
+              hy,
+              x: Math.random() * width,
+              y: Math.random() * height,
+              vx: 0,
+              vy: 0,
+              heat: 0.6,
+              tint,
+            });
+          }
+        }
+      }
+      dots = next;
+    }
+
+    function draw() {
+      ctx.clearRect(0, 0, width, height);
+      for (const d of dots) {
+        const base = d.tint ? FELT_LIGHT : PARCHMENT;
+        const h = Math.min(1, d.heat);
+        const r = Math.round(base[0] + (LAMPLIGHT[0] - base[0]) * h);
+        const g = Math.round(base[1] + (LAMPLIGHT[1] - base[1]) * h);
+        const b = Math.round(base[2] + (LAMPLIGHT[2] - base[2]) * h);
+        const alpha = (d.tint ? 0.75 : 0.62) + 0.38 * h;
+        ctx.fillStyle = `rgba(${r},${g},${b},${alpha})`;
+        const s = dotSize * (1 + 0.5 * h);
+        ctx.fillRect(d.x - s / 2, d.y - s / 2, s, s);
+      }
+    }
+
+    function step() {
+      let moving = false;
+      for (const d of dots) {
+        if (pointer.active) {
+          const dx = d.x - pointer.x;
+          const dy = d.y - pointer.y;
+          const dist2 = dx * dx + dy * dy;
+          if (dist2 < radius * radius) {
+            const dist = Math.sqrt(dist2) || 1;
+            const push = (1 - dist / radius) * 2.4;
+            d.vx += (dx / dist) * push;
+            d.vy += (dy / dist) * push;
+            d.heat = Math.max(d.heat, 1 - dist / radius);
+          }
+        }
+        // Spring home, with damping.
+        d.vx = (d.vx + (d.hx - d.x) * 0.045) * 0.86;
+        d.vy = (d.vy + (d.hy - d.y) * 0.045) * 0.86;
+        d.x += d.vx;
+        d.y += d.vy;
+        d.heat *= 0.965;
+        if (Math.abs(d.vx) + Math.abs(d.vy) > 0.02 || d.heat > 0.01 || Math.abs(d.x - d.hx) > 0.3) moving = true;
+      }
+      draw();
+      return moving;
+    }
+
+    function loop() {
+      lastFrame = performance.now();
+      if (!onScreen()) {
+        running = false;
+        return;
+      }
+      const moving = step();
+      if (moving || pointer.active) requestAnimationFrame(loop);
+      else running = false;
+    }
+
+    function wake() {
+      // A frame requested while the page was still loading can be dropped by the
+      // browser; if nothing has run for a moment, treat the loop as stopped.
+      if (running && performance.now() - lastFrame > 250) running = false;
+      if (reduceMotion || running || !onScreen()) return;
+      lastFrame = performance.now();
+      running = true;
+      requestAnimationFrame(loop);
+    }
+
+    const hero = root.closest('[data-hero]') ?? root;
+    const toLocal = (e: PointerEvent) => {
+      const rect = root.getBoundingClientRect();
+      pointer = { x: e.clientX - rect.left, y: e.clientY - rect.top, active: true };
+    };
+    hero.addEventListener('pointermove', (e) => {
+      toLocal(e as PointerEvent);
+      wake();
+    });
+    hero.addEventListener('pointerdown', (e) => {
+      toLocal(e as PointerEvent);
+      wake();
+    });
+    const leave = () => {
+      pointer.active = false;
+    };
+    hero.addEventListener('pointerleave', leave);
+    hero.addEventListener('pointerup', (e) => {
+      if ((e as PointerEvent).pointerType !== 'mouse') leave();
+    });
+
+    window.addEventListener('scroll', wake, { passive: true });
+    document.addEventListener('visibilitychange', wake);
+    window.addEventListener('load', wake);
+
+    let resizeTimer = 0;
+    new ResizeObserver(() => {
+      window.clearTimeout(resizeTimer);
+      resizeTimer = window.setTimeout(() => {
+        layout();
+        draw();
+        wake();
+      }, 80);
+    }).observe(root);
+
+    layout();
+    draw();
+    wake();
+    // Safety net for the first assembly on slow or busy page loads.
+    for (const ms of [300, 900, 2000]) window.setTimeout(wake, ms);
+  }
+
+  document.querySelectorAll<HTMLElement>('[data-particles]').forEach(setup);
+</script>
