@@ -1,0 +1,3 @@
+[submodule "vendor/rpg-demo-library"]
+	path = vendor/rpg-demo-library
+	url = https://github.com/theludarium/rpg-demo-library.git

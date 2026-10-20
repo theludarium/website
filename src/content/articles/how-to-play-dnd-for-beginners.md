@@ -107,4 +107,4 @@ The DM corrects it and the game moves on. Rules mistakes happen at every table, 
 
 ## Keep going
 
-The Ludarium publishes one piece like this every week for people who want more time at the table with people they like. Subscribe to the newsletter and we will also send you our free RPG one-shot demo PDFs, which are built for a first session with zero prep. Want to try a game before you buy it? The [RPG Demo Library](/rpg-demo-library/) is coming soon: short intro adventures of open-license RPGs you can play in your browser.
+The Ludarium publishes one piece like this every week for people who want more time at the table with people they like. Subscribe to the newsletter to get each one. Want to try a game before you buy it? Play a free intro adventure in the [RPG Demo Library](/rpg-demo-library/), right in your browser, by each game's real rules.

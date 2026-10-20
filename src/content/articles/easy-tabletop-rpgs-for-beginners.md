@@ -122,4 +122,4 @@ Most do. Experienced groups often run light games between campaigns or on nights
 
 ## Pick one and play it
 
-Subscribe to The Ludarium newsletter for one article a week on getting people around a table, and we will send you our free RPG one-shot demo PDFs, which are built on light rules so a group can play the night they open them. Want to try a game before you buy it? The [RPG Demo Library](/rpg-demo-library/) is coming soon: short intro adventures of open-license RPGs you can play in your browser.
+Subscribe to The Ludarium newsletter for one article a week on getting people around a table. Want to try a game before you buy it? Play a free intro adventure in the [RPG Demo Library](/rpg-demo-library/), right in your browser, by each game's real rules.
