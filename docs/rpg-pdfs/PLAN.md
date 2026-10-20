@@ -18,7 +18,7 @@ All eleven books are written and built, in the private repo `theludarium/rpg-adv
 | The Salt King's Stair (Dungeon World) | 109 | $9.99 |
 | The Glass Comet (Cypher System) | 107 | $9.99 |
 | The Sleepless Mill (Pathfinder 2e compatible) | 99 | $9.99 |
-| Encore! (Skellies, CC BY-SA) | 54 | $9.99 |
+| Encore! (Skellies, CC BY-SA) | 54 | not in the store yet |
 
 Every PDF is $9.99 (Levi's call, 2026-10-20), set in the library's `store.js`. License notes and pre-launch checks for each book are in that repo's `docs/LICENSES.md`; the print plan is in `docs/KDP-PLAN.md`.
 
