@@ -1,7 +1,7 @@
 ---
 title: How to Teach a Board Game in Five Minutes
 description: A simple five-step method for teaching any board game fast, so new players feel confident, nobody reads the rulebook aloud, and the table starts playing sooner.
-pubDate: 2026-10-19
+pubDate: 2026-10-20
 category: Game Guides
 tags: [teaching, rules, beginners, hosting]
 draft: false

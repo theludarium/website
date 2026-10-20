@@ -1,7 +1,7 @@
 ---
 title: "Board Game Balance Math: Distribution, Variance, Feel"
 description: "Board game balance math for designers who are not mathematicians. How card distribution, dice variance, and point curves shape whether a game feels fair."
-pubDate: 2026-10-19
+pubDate: 2026-10-20
 category: Game Design
 tags: ["board game balance math", "game balance for designers", "probability in board games", "card distribution design", "dice variance board games", "balancing a card game", "Tabletop game design"]
 draft: false

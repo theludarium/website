@@ -1,7 +1,7 @@
 ---
 title: "How to Write a Board Game Rulebook People Will Read"
 description: "How to write a board game rulebook that teaches cleanly: structure, order, examples, edge cases, and the tests that catch confusion before game night."
-pubDate: 2026-10-19
+pubDate: 2026-10-20
 category: Game Design
 tags: ["how to write a board game rulebook", "board game rulebook template", "rulebook structure", "writing game rules", "rules reference sheet", "blind playtesting rules", "Tabletop game design"]
 draft: false

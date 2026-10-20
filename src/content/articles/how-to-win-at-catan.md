@@ -1,7 +1,7 @@
 ---
 title: "How to Win at Catan: Placement, Trading, Reading the Table"
 description: "How to win at Catan more often: where to place your first settlements, how to trade without feeding the leader, and when to switch to development cards."
-pubDate: 2026-10-19
+pubDate: 2026-10-20
 category: Game Guides
 tags: ["how to win at Catan", "Catan strategy", "Catan starting placement", "Catan trading tips", "Settlers of Catan tips", "best Catan opening", "Strategy guides"]
 draft: false

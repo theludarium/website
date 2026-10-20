@@ -31,7 +31,7 @@ Status on 2026-10-19: 21 published at launch, 320 drafts.
 - `two-player-board-games-date-night`: Best Two-Player Board Games for Date Night
 - `wingspan-vs-everdell-vs-cascadia`: Wingspan vs Everdell vs Cascadia: Which Fits Your Table?
 
-## Batch 2: Design and strategy (24) (published 2026-10-19)
+## Batch 2: Design and strategy (24) (published 2026-10-20)
 
 - `7-wonders-strategy`: 7 Wonders Strategy: Drafting, Neighbors, the Science Trap
 - `area-control-board-games`: Area Control Board Games Without the Bloodbath

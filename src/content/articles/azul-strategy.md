@@ -1,7 +1,7 @@
 ---
 title: "Azul Strategy: Column Pressure, Floor Line Math, Denial"
 description: "Azul strategy for players who want to stop losing to the quiet person: how adjacency scoring works, when to take a floor penalty, and when to deny tiles."
-pubDate: 2026-10-19
+pubDate: 2026-10-20
 category: Game Guides
 tags: ["Azul strategy", "Azul tips", "how to win Azul", "Azul scoring explained", "Azul floor line", "Azul first player marker", "Strategy guides"]
 draft: false

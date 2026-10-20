@@ -1,7 +1,7 @@
 ---
 title: "Why Social Deduction Games Work: Hidden Roles and Good Lies"
 description: "Why social deduction games like Werewolf and Avalon turn a quiet room loud in minutes. The hidden-role design and the psychology of a good lie, explained."
-pubDate: 2026-10-19
+pubDate: 2026-10-20
 category: Game Design
 tags: ["social deduction games", "hidden role games", "bluffing board games", "how Werewolf works", "The Resistance Avalon", "One Night Ultimate Werewolf", "Tabletop game design"]
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: "Board Game Components: Table Presence as Marketing"
 description: "Board game components do more than work. They sell the game from across the room. What table presence means, and how designers build pieces you want to touch."
-pubDate: 2026-10-19
+pubDate: 2026-10-20
 category: Game Design
 tags: ["board game components", "table presence", "board game production design", "why components matter", "board game art direction", "tactile game pieces", "Tabletop game design"]
 draft: false

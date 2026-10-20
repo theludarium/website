@@ -1,7 +1,7 @@
 ---
 title: "Roll and Write Games: Why the Simplest Format Is Hardest"
 description: "Roll and write games look easy to design and are not. What Yahtzee, Ganz Schön Clever, and Welcome To... get right, and how to design a sheet worth it."
-pubDate: 2026-10-19
+pubDate: 2026-10-20
 category: Game Design
 tags: ["roll and write games", "roll and write design", "best roll and write games", "flip and write games", "Ganz Schön Clever", "designing a score sheet", "Tabletop game design"]
 draft: false

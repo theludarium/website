@@ -1,7 +1,7 @@
 ---
 title: "Codenames Clue Tips: Clues That Don't Get Your Team Killed"
 description: "Codenames tips for spymasters and guessers: how to find safe two-word clues, when to go for three, how to avoid the assassin, and how to guess as a team."
-pubDate: 2026-10-19
+pubDate: 2026-10-20
 category: Game Guides
 tags: ["Codenames tips", "Codenames clue tips", "Codenames strategy", "how to be a good spymaster", "Codenames assassin", "Codenames guessing strategy", "Strategy guides"]
 draft: false

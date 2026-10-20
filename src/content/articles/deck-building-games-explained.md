@@ -1,7 +1,7 @@
 ---
 title: "Deck Building Games Explained: Dominion and After"
 description: "How deck building games work, why Dominion started it, and what designers learned in the years since. A plain guide for players and would-be designers."
-pubDate: 2026-10-19
+pubDate: 2026-10-20
 category: Game Design
 tags: ["deck building games", "Dominion deck building", "how deck building works", "best deck building games", "deck builder mechanics", "designing a deck builder", "Tabletop game design"]
 draft: false

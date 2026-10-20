@@ -1,7 +1,7 @@
 ---
 title: "Luck vs Skill in Board Games: Why the Best Ones Last"
 description: "Luck vs skill in board games is the wrong fight. The games that last for decades let luck set the problem and skill solve it. Here is how that balance works."
-pubDate: 2026-10-19
+pubDate: 2026-10-20
 category: Game Design
 tags: ["luck vs skill in board games", "input randomness vs output randomness", "board game luck", "skill-based board games", "randomness in game design", "replayability", "Tabletop game design"]
 draft: false

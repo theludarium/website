@@ -1,7 +1,7 @@
 ---
 title: "Area Control Board Games Without the Bloodbath"
 description: "Area control board games can be tense without being cruel. How El Grande, Risk, and Blood Rage handle conflict, and how to design fights people enjoy."
-pubDate: 2026-10-19
+pubDate: 2026-10-20
 category: Game Design
 tags: ["area control board games", "area majority games", "designing conflict in board games", "El Grande area control", "Risk alternatives", "kingmaking in board games", "Tabletop game design"]
 draft: false

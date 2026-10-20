@@ -1,7 +1,7 @@
 ---
 title: "Player Count Design: Build for the Table You Really Have"
 description: "Player count design is where many prototypes fail. Why games built for four break at three or five, how 7 Wonders and Catan scale, and how to scale yours."
-pubDate: 2026-10-19
+pubDate: 2026-10-20
 category: Game Design
 tags: ["player count design", "best player count board games", "scaling board games", "board games for 3 players", "two player variant design", "player count balance", "Tabletop game design"]
 draft: false

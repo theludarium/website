@@ -1,7 +1,7 @@
 ---
 title: "Catch-Up Mechanics in Board Games: Designing the Comeback"
 description: "Catch-up mechanics in board games keep the ending in doubt without punishing the leader. How Mario Kart and Power Grid do it, and how to design a comeback."
-pubDate: 2026-10-19
+pubDate: 2026-10-20
 category: Game Design
 tags: ["catch-up mechanics", "rubber banding board games", "runaway leader problem", "board game balance", "comeback mechanics", "kingmaker problem", "Tabletop game design"]
 draft: false

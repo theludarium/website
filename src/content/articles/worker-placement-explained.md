@@ -1,7 +1,7 @@
 ---
 title: "Worker Placement Board Games, Explained With One Game"
 description: "Worker placement board games explained through Lords of Waterdeep: how blocking, scarce spaces, and pressure make every pick matter, and why players love it."
-pubDate: 2026-10-19
+pubDate: 2026-10-20
 category: Game Design
 tags: ["worker placement board games", "worker placement mechanic", "Lords of Waterdeep", "Agricola worker placement", "board game mechanics explained", "euro board games", "Tabletop game design"]
 draft: false
