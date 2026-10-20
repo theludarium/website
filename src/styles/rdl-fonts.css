@@ -1,0 +1,11 @@
+/* Display fonts for the RPG Demo Library cards (src/lib/rdl-themes.ts):
+   self-hosted, latin subset, one weight each. Loaded only on /rpg-demo-library/.
+   Fraunces (for Pathfinder) is already loaded site-wide. */
+@import '@fontsource/pirata-one/latin-400';
+@import '@fontsource/alegreya-sc/latin-800';
+@import '@fontsource/chakra-petch/latin-700';
+@import '@fontsource/uncial-antiqua/latin-400';
+@import '@fontsource/big-shoulders-display/latin-900';
+@import '@fontsource/limelight/latin-400';
+@import '@fontsource/grenze/latin-800';
+@import '@fontsource/rye/latin-400';
