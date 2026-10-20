@@ -1,10 +1,10 @@
 ---
 title: "Kid Who Hates Losing? How to Play Games With Them"
 description: "Have a kid who hates losing so much that games end in meltdowns? A calm plan: which games to play, what to say, and how to keep playing without giving in."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Night
 tags: ["kid who hates losing", "child has to win every game", "competitive child meltdown", "child cheats at board games", "sore loser kid", "how to handle a child who always has to win", "Family and intergenerational play"]
-draft: true
+draft: false
 ---
 A kid who hates losing does not need fewer games. They need more games, chosen so that losing is small, frequent, and survivable, and a parent who refuses to either throw the game or turn it into a lecture. The plan is to shrink the stakes until the child can tolerate a loss, then slowly raise them. It takes a few months. It works for most kids.
 

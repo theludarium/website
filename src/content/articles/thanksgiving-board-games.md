@@ -1,10 +1,10 @@
 ---
 title: "Thanksgiving Board Games for Three Generations"
 description: "The best Thanksgiving board games for a table that runs from 6 to 86. Twelve picks by group size and energy level, when to bring them out, what to skip."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Night
 tags: ["Thanksgiving board games", "games for Thanksgiving family gathering", "holiday board games for large groups", "games for all ages Thanksgiving", "after dinner games", "family reunion games", "Family and intergenerational play"]
-draft: true
+draft: false
 ---
 The best Thanksgiving board games handle three things most games cannot: a crowd of eight or more, an age range from kindergarten to retirement, and a room full of people who are tired, full, and did not come to learn rules. Codenames, Telestrations, Just One, Wavelength, and Rummikub all pass. They teach in two minutes, run with big uneven groups, and let people drift in and out between pie and dishes.
 

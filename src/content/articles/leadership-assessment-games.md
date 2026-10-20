@@ -1,10 +1,10 @@
 ---
 title: "Leadership Assessment Games: 45 Minutes of Pandemic"
 description: "Leadership assessment games like Pandemic show who leads, who follows, and who gets steamrolled in under an hour. What to watch and how to read it fairly."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["leadership assessment games", "Pandemic board game leadership", "identifying leaders on a team", "leadership potential signs", "cooperative games for leadership training", "informal leadership assessment", "Games for the workplace"]
-draft: true
+draft: false
 ---
 Leadership assessment games work because a cooperative board game creates a small, honest version of a crisis. In Pandemic, four people share one goal, limited time, and incomplete information. Someone has to propose a plan. Someone has to disagree. Someone has to notice the thing everyone missed. Within forty-five minutes, you will have seen each of those moments, and you will know who did what.
 
@@ -123,4 +123,4 @@ It can show leadership behavior under mild pressure in a single setting. Treat i
 
 ## Want a host who knows what to watch for?
 
-The Ludarium runs corporate tabletop events in and around Indianapolis, including leadership sessions built around cooperative games, with hosts who teach, run the table, and give you specific observations afterward. If you would like more on games and leadership, subscribe to the newsletter for one piece like this every week.
+The Ludarium runs [corporate tabletop events](/corporate-events/) in and around Indianapolis, including leadership sessions built around cooperative games, with hosts who teach, run the table, and give you specific observations afterward. If you would like more on games and leadership, subscribe to [the newsletter](/newsletter/) for one piece like this every week.

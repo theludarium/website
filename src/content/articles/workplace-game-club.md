@@ -1,10 +1,10 @@
 ---
 title: "Workplace Game Club: How to Run One at Lunch"
 description: "A workplace game club needs one lunch hour a week, a shelf of short games, and one person willing to start. How to launch one and keep people coming back."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["workplace game club", "lunch hour board games", "office game club", "employee resource group games", "workplace social club ideas", "board games at work", "Games for the workplace"]
-draft: true
+draft: false
 ---
 A workplace game club is the cheapest culture program most companies never run. It costs a shelf of short games and one hour a week. It needs no budget approval beyond a few hundred dollars and no facilitator beyond whoever is willing to send the first calendar invite. And it does what expensive programs struggle to do: it gets people from different teams talking to each other, on purpose, every week.
 
@@ -116,4 +116,4 @@ Start with two or three people and play anyway. Visibility and personal invitati
 
 ## Want a running start?
 
-The Ludarium runs corporate tabletop events in Indianapolis and the surrounding area, including kickoff sessions for new workplace game clubs: we bring a shelf, teach the first few games, and leave your team with a starter list and the confidence to run it. If you are launching one on your own, subscribe to the newsletter for one short, teachable game idea every week.
+The Ludarium runs [corporate tabletop events](/corporate-events/) in Indianapolis and the surrounding area, including kickoff sessions for new workplace game clubs: we bring a shelf, teach the first few games, and leave your team with a starter list and the confidence to run it. If you are launching one on your own, subscribe to [the newsletter](/newsletter/) for one short, teachable game idea every week.

@@ -1,10 +1,10 @@
 ---
 title: "Psychological Safety Team Activities: Try a Game Table"
 description: "Psychological safety team activities usually mean workshops. A game table builds it faster, because mistakes are cheap and everyone makes them in public."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["psychological safety team activities", "building psychological safety", "team trust exercises", "Amy Edmondson psychological safety", "safe to fail team culture", "team building for trust", "Games for the workplace"]
-draft: true
+draft: false
 ---
 Most psychological safety team activities try to build trust by talking about trust. That works slowly, if at all. A game table builds it differently: it puts everyone in a situation where mistakes are cheap, visible, and shared, and lets the group discover that nothing bad happens when someone gets it wrong. One hour of that teaches more than a workshop on vulnerability.
 
@@ -107,4 +107,4 @@ Light team-versus-team games like Codenames can. Games that require lying to or 
 
 ## Want this for your team?
 
-The Ludarium runs corporate tabletop events across Indianapolis and the surrounding area, with hosts trained to keep every voice at the table in the game. We can build a session around cooperative play for a single team or a department. If you would rather start small, subscribe to the newsletter and get one workplace game idea every week.
+The Ludarium runs [corporate tabletop events](/corporate-events/) across Indianapolis and the surrounding area, with hosts trained to keep every voice at the table in the game. We can build a session around cooperative play for a single team or a department. If you would rather start small, subscribe to [the newsletter](/newsletter/) and get one workplace game idea every week.

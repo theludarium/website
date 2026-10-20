@@ -1,10 +1,10 @@
 ---
 title: "Best Family Board Games for People Tired of Monopoly"
 description: "The best family board games for households done with Monopoly. Twelve picks with age ranges and play times, and how to pick one your kids ask for again."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Night
 tags: ["best family board games", "family board games", "board games for kids and adults", "games like Monopoly but better", "family game night games", "board games for ages 8 and up", "Family and intergenerational play"]
-draft: true
+draft: false
 ---
 The best family board games share three traits Monopoly lacks: they end in under an hour, nobody gets eliminated, and the person who is losing still has something interesting to do on their turn. Ticket to Ride, Sushi Go, Kingdomino, and Azul all pass that test. Monopoly fails all three, which is why so many family game nights end with one kid in tears and one parent quietly bankrupting themselves to make it stop.
 

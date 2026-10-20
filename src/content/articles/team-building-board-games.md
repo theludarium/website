@@ -1,10 +1,10 @@
 ---
 title: "20 Team-Building Board Games That Don't Feel Forced"
 description: "The best team building board games for real offices, sorted by group size and goal. Twenty picks that never feel forced and coworkers will ask to play again."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["team building board games", "team building games for work", "office board games", "board games for coworkers", "team bonding games", "games for team meetings", "Games for the workplace"]
-draft: true
+draft: false
 ---
 The best team building board games share one trait: nobody at the table remembers that they are supposed to be bonding. They are too busy trying to guess a clue, pass a hand of cards without talking, or keep a city from falling. The teamwork happens anyway. That is the whole trick.
 
@@ -113,4 +113,4 @@ No. Three or four well-chosen games cover most teams. Codenames, Just One, Pande
 
 ## Want someone else to run it?
 
-The Ludarium runs corporate tabletop events in Indianapolis and the surrounding area: we bring the games, the hosts who know the rules, and a plan sized to your room, from a lunch hour to a full offsite. If you would rather build your own program, subscribe to the newsletter and get one workplace-ready game idea every week, before it hits the site.
+The Ludarium runs [corporate tabletop events](/corporate-events/) in Indianapolis and the surrounding area: we bring the games, the hosts who know the rules, and a plan sized to your room, from a lunch hour to a full offsite. If you would rather build your own program, subscribe to [the newsletter](/newsletter/) and get one workplace-ready game idea every week, before it hits the site.

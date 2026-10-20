@@ -1,10 +1,10 @@
 ---
 title: "Educational Benefits of Board Games School Misses"
 description: "The educational benefits of board games go past math and reading. Probability, negotiation, losing, and reading people, with the games that teach each one."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Night
 tags: ["educational benefits of board games", "what board games teach kids", "board games and learning", "skills from board games", "board games for child development", "life skills from games", "Family and intergenerational play"]
-draft: true
+draft: false
 ---
 The educational benefits of board games are usually sold as math and reading practice, and they do deliver those. But the skills a classroom cannot easily teach are the ones a game table drills every week: judging odds under pressure, negotiating with someone who wants the same thing you do, reading a bluff, losing in public and coming back, and planning when the plan will certainly break. School is built around individual, graded, right-answer work. A game is social, ungraded, and full of problems with no right answer. That is exactly why they teach different things.
 

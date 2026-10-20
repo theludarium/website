@@ -1,10 +1,10 @@
 ---
 title: "Cooperative Games for Kids: Picks for Siblings Who Fight"
 description: "Cooperative games for kids who fight with each other. Ten games that put siblings on the same team, what changes when they play together, and how to run them."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Night
 tags: ["cooperative games for kids", "co-op board games for siblings", "sibling rivalry games", "team games for kids", "cooperative board games ages 6 and up", "games that reduce fighting", "Family and intergenerational play"]
-draft: true
+draft: false
 ---
 Cooperative games for kids work on fighting siblings because they change the question from "who won?" to "did we win?" In Outfoxed!, Forbidden Island, My First Castle Panic, and The Crew, every player is on the same side against the game. A brother who would normally gloat over a sister's loss is instead cheering her draw, because her card is his card too.
 
