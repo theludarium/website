@@ -49,7 +49,7 @@ Most rules disputes come from three sources: an undefined term, an ambiguous pro
 
 A simple test: read each rule and ask whether a hostile lawyer could find a second meaning. If so, rewrite.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How many examples do you need?
 
@@ -141,4 +141,4 @@ For a published game, yes. For a prototype, several rounds of blind testing with
 
 ## Test it on strangers
 
-Designers are welcome to bring a prototype and a draft rulebook to open playtest nights at The Ludarium in Indianapolis, where a table of people who have never seen your game will tell you more in an hour than a week of rewriting. For more on design, hosting, and play, subscribe to the newsletter. One article a week, sent to subscribers before it goes live.
+Designers are welcome to bring a prototype and a draft rulebook to open playtest nights at The Ludarium in Indianapolis, where a table of people who have never seen your game will tell you more in an hour than a week of rewriting. For more on design, hosting, and play, subscribe to the newsletter. New articles, sent to subscribers before it goes live.

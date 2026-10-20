@@ -77,7 +77,7 @@ Players try to empty a deck of numbered cards onto four shared piles, two counti
 
 A co-op with a traitor. Everyone's loyalty card is hidden. A player who tries to run the table invites suspicion, which is its own corrective. We wrote more about this style in our article on [semi-cooperative games](/articles/semi-cooperative-board-games/).
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which anti-quarterback mechanism fits your group?
 
@@ -128,4 +128,4 @@ Magic Maze and Space Alert both use a clock so nobody has time to plan for every
 
 ## Everyone thinks, everyone plays
 
-The game is the reason. The people are the point. The co-ops on this list make sure every person at the table has something only they can do. Subscribe to the Ludarium newsletter for one game-night idea a week, including which co-op to try when your group has a Dave. These games will be on the shelf at our Indianapolis lounge.
+The game is the reason. The people are the point. The co-ops on this list make sure every person at the table has something only they can do. Subscribe to the Ludarium newsletter for new game-night ideas, including which co-op to try when your group has a Dave. These games will be on the shelf at our Indianapolis lounge.

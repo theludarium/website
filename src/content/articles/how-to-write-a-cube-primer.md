@@ -53,7 +53,7 @@ In five lines or fewer, answer: how many players, what draft format, how many pa
 
 If your group drafts something other than a standard booster draft, say so here and link to the format rules rather than explaining them inline. Grid, Winston, and Rochester each deserve their own page, not a paragraph in the primer.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How much archetype detail is enough?
 
@@ -113,4 +113,4 @@ Yes, and a shorter one. The archetype section shrinks because fewer lanes are su
 
 The best primer we ever read was under a thousand words, and the owner had cut it from four thousand. Every section earned its place by answering a question a drafter had asked out loud. That is the standard. The game is the reason. The people are the point.
 
-If you are writing a primer for your own cube, subscribe to The Ludarium newsletter: this series runs weekly, and subscribers get each part first. If you are in Indianapolis, come draft ours and read its primer in person at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+If you are writing a primer for your own cube, subscribe to The Ludarium newsletter: this series continues, and subscribers get each part first. If you are in Indianapolis, come draft ours and read its primer in person at [Cube Commonwealth](/articles/cube-draft-indianapolis/).

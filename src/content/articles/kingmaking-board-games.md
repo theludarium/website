@@ -1,10 +1,10 @@
 ---
 title: "Kingmaking in Board Games: Why Losers Pick the Winner"
 description: "Kingmaking in board games is when a player who can't win decides who does. Why it happens, which games invite it, and calm ways to handle it at your table."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Guides
 tags: ["kingmaking", "kingmaker problem", "kingmaking board games", "player who can't win", "board game etiquette", "multiplayer game design", "Glossary"]
-draft: true
+draft: false
 ---
 Kingmaking happens when a player who has no chance of winning makes a move that decides which of the other players does. The kingmaker cannot be king. They can only crown one. It is one of the most common sources of hard feelings at a game table, because the winner feels their victory was handed to them and the runner-up feels it was stolen.
 
@@ -48,7 +48,7 @@ Some types are worse than others.
 
 Games with low interaction, such as Wingspan or most roll-and-writes, have little room for kingmaking because players barely touch each other. <!-- AFFILIATE --> That is a trade-off: they also have less drama and less table talk.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do designers limit kingmaking?
 
@@ -115,4 +115,4 @@ The common norm is to play for the best score you can and ignore who benefits. I
 
 Kingmaking is what happens when the game's goal stops working on one of the players. Nothing in a rulebook can fully replace that goal, because the person behind it is a person. Which is the whole point of playing with people instead of a screen. The game is the reason. The people are the point.
 
-We write about the small frictions that make or break a game group every week, and we send each piece to subscribers first. Subscribe to The Ludarium newsletter for one article a week, and keep an eye out for our membership lounge opening in Indianapolis.
+We write about the small frictions that make or break a game group, and we send each piece to subscribers first. Subscribe to The Ludarium newsletter for new articles, and keep an eye out for our membership lounge opening in Indianapolis.

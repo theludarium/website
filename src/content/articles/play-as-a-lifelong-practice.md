@@ -32,7 +32,7 @@ The evidence is still mostly correlational, and we will say so where it matters,
 
 Put together: play is associated with better mood, better thinking, and more connection, and connection is associated with living longer. None of this is proof that a Thursday game night adds years. It is a reason to treat the Thursday as something more than a hobby.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What is the difference between a phase and a practice?
 
@@ -93,4 +93,4 @@ Social, in-person play appears to carry the most benefit because it combines men
 
 ## Never stop playing
 
-That is the short form of what we are building at the Ludarium, starting with a lounge in Indianapolis where the practice has a home. The game is the reason. The people are the point. If you want help keeping the practice going, subscribe to the Ludarium newsletter: one piece a week on play and longevity, to subscribers first.
+That is the short form of what we are building at the Ludarium, starting with a lounge in Indianapolis where the practice has a home. The game is the reason. The people are the point. If you want help keeping the practice going, subscribe to the Ludarium newsletter: new pieces on play and longevity, to subscribers first.

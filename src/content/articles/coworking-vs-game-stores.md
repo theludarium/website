@@ -1,10 +1,10 @@
 ---
 title: "What Coworking Got Right That Game Stores Got Wrong"
 description: "Why the board game lounge business should copy coworking, not the hobby shop. Membership, space design, and community lessons from WeWork's one good idea."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["board game lounge business", "board game cafe business model", "coworking business model", "how game stores make money", "game lounge startup", "tabletop venue business", "Game lounges and third places"]
-draft: true
+draft: false
 ---
 The board game lounge business has a model problem. For forty years, the place you went to play games was the hobby shop, and the hobby shop made its money selling boxes. The tables in the back were a cost. Coworking, which arrived around the same time as the modern board game boom, made the opposite bet: the room is the product, and people will pay monthly to belong to it. This article looks at what coworking understood, where game stores went wrong, and what a lounge built on the better model looks like.
 
@@ -56,7 +56,7 @@ A lounge that wants adults to pay monthly needs the coworking standard applied t
 
 We go deep on the furniture question in [what makes a great game table](/articles/best-table-for-board-games/), because it turns out the table is where most of the comfort lives.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What did coworking get wrong that a lounge should avoid?
 

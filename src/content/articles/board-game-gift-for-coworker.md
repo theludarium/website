@@ -52,7 +52,7 @@ Most games fail at least one. The seven below pass all five.
 
 **Catan on the Road** <!-- AFFILIATE --> (about $8 to $10; [$9.99 at the Asmodee store](https://store.asmodee.com/products/catan-on-the-road) and [$7.99 at Miniature Market](https://www.miniaturemarket.com/Catan-On-the-Road/CN3143) at the time of writing). A fifteen-minute card version of Catan. Useful when the budget is a white elephant's $10 cap and you still want to give something with a name people recognize.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which one fits which situation?
 
@@ -105,4 +105,4 @@ Not at $15 to $25. Most of the games here cost less than a mid-range candle and 
 
 ## One pick a week, for any table
 
-Subscribe to The Ludarium newsletter for one short piece a week on games that bring people together, including the picks we are testing for our Indianapolis lounge library. If your office wants the team version of this, our corporate game nights are the easiest way to find out which games your coworkers will actually play.
+Subscribe to The Ludarium newsletter for new short pieces on games that bring people together, including the picks we are testing for our Indianapolis lounge library. If your office wants the team version of this, our corporate game nights are the easiest way to find out which games your coworkers will actually play.

@@ -42,7 +42,7 @@ Draft a habitat tile and a wildlife token together, then place both in your grow
 
 Cascadia's strength is accessibility. A table of five new players can be scoring by minute four. Its weakness is that it can feel like a solo puzzle, since the only interaction is taking the tile someone else wanted. It won the Spiel des Jahres, and it earns the award by making a deep game out of two simple actions.
 
-*If this comparison is useful, the newsletter sends one piece like it every week.*
+*If this comparison is useful, the newsletter sends more like it.*
 
 ## Which one should you buy first?
 
@@ -103,4 +103,4 @@ Yes. All three include solo modes. Wingspan's Automa is the most developed, and 
 
 ## One comparison like this, every week
 
-The Ludarium newsletter sends one short piece every week on what to play and which version fits your table. Subscribers also hear first about the Indianapolis lounge, where all three of these will be on the shelf. The game is the reason. The people are the point. Subscribe and pick your bird.
+The Ludarium newsletter sends new short pieces on what to play and which version fits your table. Subscribers also hear first about the Indianapolis lounge, where all three of these will be on the shelf. The game is the reason. The people are the point. Subscribe and pick your bird.

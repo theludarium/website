@@ -48,7 +48,7 @@ These five will carry you through the night better than any amount of rules know
 
 **5. Pull your punches, invisibly.** New players should feel danger without a character dying in their first evening. If a fight is going badly, the monster can flee, the reinforcements can arrive late, the hit points behind your screen can be a little lower than written. Nobody needs to know.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you run combat without it dragging?
 
@@ -110,4 +110,4 @@ Move the content you prepared to wherever they went, ask them what they are hopi
 
 ## Run your first one
 
-The Ludarium newsletter is written for the person who makes game night happen, with a new article every week. Want to try a game before you buy it? Play a free intro adventure in the [RPG Demo Library](/rpg-demo-library/), right in your browser, by each game's real rules.
+The Ludarium newsletter is written for the person who makes game night happen, with a new article. Want to try a game before you buy it? Play a free intro adventure in the [RPG Demo Library](/rpg-demo-library/), right in your browser, by each game's real rules.

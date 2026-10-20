@@ -45,7 +45,7 @@ Higher power usually means fewer creatures and better ones.
 
 Those bands are from lists we follow rather than a standard. If you copy a Vintage-style ratio into a peasant cube, the spells will not be good enough to justify the slots, and games will stall.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which noncreature spells deserve the slots?
 
@@ -102,4 +102,4 @@ Either you have too many or they are not good enough. Check whether the wheeling
 
 Decide whether your games should be won in combat or on the stack, then count to it. The game is the reason. The people are the point.
 
-The Ludarium newsletter sends one cube design piece a week, including the per-color creature sheet we use. Subscribe, and if you are in Indianapolis, draft with us at Cube Commonwealth and count the creatures in your deck afterward: [how to join](/articles/cube-draft-indianapolis/).
+The Ludarium newsletter sends new cube design pieces, including the per-color creature sheet we use. Subscribe, and if you are in Indianapolis, draft with us at Cube Commonwealth and count the creatures in your deck afterward: [how to join](/articles/cube-draft-indianapolis/).

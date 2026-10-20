@@ -45,7 +45,7 @@ A cube with 60 removal spells can still be badly built if they are all the same 
 
 If your cube is losing to planeswalkers, the fix is more of kind five, not more of kind one. If it is losing to the first bomb creature, it is kind one. If token decks win every week, kind three. Diagnose the kind before you add cards.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Does counterspell count as removal?
 
@@ -97,4 +97,4 @@ For balance math, count them at about two-thirds weight and bounce at about half
 
 Count the kinds before you count the cards. A cube with the right mix at the right density lets every archetype play, and that is what a removal suite is for. The game is the reason. The people are the point.
 
-The Ludarium newsletter sends one cube piece a week, including our removal tally sheet. Subscribe, and if you are in Indianapolis, bring your list to a Cube Commonwealth night and we will run the twenty-creature test together: [how to join](/articles/cube-draft-indianapolis/).
+The Ludarium newsletter sends new cube pieces, including our removal tally sheet. Subscribe, and if you are in Indianapolis, bring your list to a Cube Commonwealth night and we will run the twenty-creature test together: [how to join](/articles/cube-draft-indianapolis/).

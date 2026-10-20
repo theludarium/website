@@ -50,7 +50,7 @@ Player counts are the publishers'. Play times are our estimates with a five-year
 
 If you buy only two, make them Outfoxed! and Dragomino. One is cooperative and one is competitive, and between them they cover most moods.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you teach a board game to a 5-year-old?
 
@@ -102,4 +102,4 @@ They are easier, especially for the first year of playing. Mix in competitive ga
 
 The Ludarium is building a game lounge in Indianapolis where families can play, and the shelf for the youngest players is the one we argue about most. Every game on it has to pass the same test: a five-year-old wants to play it again, and so does the grown-up across the table. The game is the reason. The people are the point.
 
-For one tested family pick a week, with the real play time and the age it actually works at, subscribe to the newsletter at theludarium.com. Never stop playing.
+For new tested family picks, with the real play time and the age it actually works at, subscribe to the newsletter at theludarium.com. Never stop playing.

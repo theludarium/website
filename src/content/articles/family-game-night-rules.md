@@ -62,7 +62,7 @@ A younger player can ask anyone for advice on their turn. Nobody gives advice un
 
 Set the end time before you start. When it arrives, finish the current game and stop, even if everyone wants more. Especially then. "Again next week" is the feeling to leave on the table.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which rules matter most for which age?
 
@@ -119,4 +119,4 @@ About an hour for families with young kids, up to two for older ones. Set the en
 
 The Ludarium is building a game lounge in Indianapolis, and most of what we are building is a set of tables where the rules around the game are already settled so the people at it can relax and play. The game is the reason. The people are the point.
 
-Subscribe to the newsletter at theludarium.com for one family game-night idea each week, including the house rules that go with it. Never stop playing.
+Subscribe to the newsletter at theludarium.com for new family game-night ideas, including the house rules that go with it. Never stop playing.

@@ -71,7 +71,7 @@ Practical adjustments:
 - **Pair colors across the team.** The simplest build plan is one teammate in the two colors the team drafted deepest and the other in a different pair, so the team is not fighting over the same cards. A team that drafted heavy blue can give one player blue-white and the other blue-red if the pool supports it.
 - **Watch "target opponent" combat cards.** Spells that make one player's creatures unable to block only stop half the defense.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you pair the teams?
 
@@ -115,4 +115,4 @@ No. The team that plays first skips the draw step on its first turn, for both pl
 
 Two-Headed Giant is the one cube format where the person next to you is on your side. For a group that wants to bring in partners, friends, and first-timers without feeding them to the sharks, nothing else works as well. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for a weekly piece on formats and the groups that run them. Indianapolis readers who want to bring a partner to their first draft should look at [Cube Commonwealth](/articles/cube-draft-indianapolis/); 2HG night is the easiest door in.
+Subscribe to The Ludarium newsletter for new pieces on formats and the groups that run them. Indianapolis readers who want to bring a partner to their first draft should look at [Cube Commonwealth](/articles/cube-draft-indianapolis/); 2HG night is the easiest door in.

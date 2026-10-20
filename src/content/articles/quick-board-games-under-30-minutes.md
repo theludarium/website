@@ -106,7 +106,7 @@ The best two-player trading game, and it fits inside the 30-minute line with roo
 
 Right at the limit with four, under it with two. <!-- AFFILIATE --> It is the heaviest decision on this list, and it belongs here because a 30-minute game that feels like a strategy game is rare.
 
-*If this list is useful, the newsletter sends one piece like it every week.*
+*If this list is useful, the newsletter sends more like it.*
 
 ## How do you use quick board games on a game night?
 
@@ -138,4 +138,4 @@ A filler is a short game played between or around longer ones. The term comes fr
 
 ## One game idea a week, under 30 minutes to read
 
-The Ludarium newsletter sends one short piece every week on what to play and how to play it well. It takes less time to read than a round of Love Letter. Indianapolis readers also hear first about the lounge. The game is the reason. The people are the point. Subscribe and keep a filler in your bag.
+The Ludarium newsletter sends new short pieces on what to play and how to play it well. It takes less time to read than a round of Love Letter. Indianapolis readers also hear first about the lounge. The game is the reason. The people are the point. Subscribe and keep a filler in your bag.

@@ -38,7 +38,7 @@ These are the mechanics. None of them are clever. All of them matter.
 4. **The host does not cook.** If the host has to make dinner, the host burns out by month three. People eat before they come or bring something. Keep snacks simple. The table is the point, not the menu.
 5. **Hard stop.** Name an end time and keep it. People with early mornings and young kids will only keep coming if they trust they will be home by 10. A game night that reliably ends on time is one people can say yes to every week.
 
-*If this is useful, the newsletter sends one game-night idea every week.*
+*If this is useful, the newsletter sends new game-night ideas.*
 
 ## What games keep a recurring group coming back?
 
@@ -99,4 +99,4 @@ Two to three hours with a hard stop. Short enough to say yes to every week, long
 
 Pick the night this week. Text four people one sentence: "Thursdays at 7 are game night at my place, starting this week, come whenever you can." Then hold the night whether two show or six.
 
-If you want help keeping it going, The Ludarium newsletter sends one game-night idea a week, and it is where we will announce the Indianapolis lounge first. Subscribe at theludarium.com. Until then, never stop playing.
+If you want help keeping it going, The Ludarium newsletter sends new game-night ideas, and it is where we will announce the Indianapolis lounge first. Subscribe at theludarium.com. Until then, never stop playing.

@@ -42,7 +42,7 @@ Here are three paragraphs in the format, written for a generic unpowered 540-car
 
 Each is under a hundred words. A drafter can read all twelve in five minutes, which is the point.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you order the lanes?
 
@@ -90,4 +90,4 @@ Four to six sentences, under a hundred words: the plan, the signposts, the numbe
 
 A drafter who reads your archetype section before their first draft and again after their first loss has learned the cube faster than a season of play would teach them. That is what the section is for. The game is the reason. The people are the point.
 
-This series on cube primers runs weekly; subscribe to The Ludarium newsletter to get each part as it posts. If you are in Indianapolis, come see how our archetype section holds up at the table with [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+This series on cube primers continues; subscribe to The Ludarium newsletter to get each part as it posts. If you are in Indianapolis, come see how our archetype section holds up at the table with [Cube Commonwealth](/articles/cube-draft-indianapolis/).

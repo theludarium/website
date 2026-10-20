@@ -46,7 +46,7 @@ Power Grid is the gold standard here. The leader's penalties are built into the 
 
 A second test: does the mechanic preserve the meaning of the lead? If the leader cannot ever convert a lead into a win, early play stops mattering and the game becomes a sprint for the last two turns. Players figure this out fast and start coasting until the end. That is a worse problem than the one you were fixing.
 
-*If you like thinking about games this way, the newsletter sends one piece like it a week.*
+*If you like thinking about games this way, the newsletter sends new pieces like it.*
 
 ## How does the catch-up mechanic interact with kingmaking?
 
@@ -109,4 +109,4 @@ When a player who cannot win determines who does, usually by choosing whom to bl
 
 ---
 
-The best game nights are the ones where the last turn still matters. The Ludarium newsletter is one short piece a week on what makes games like that work, and on the people who gather around them. Subscribe at theludarium.com, and you will hear first when the Indianapolis lounge opens. The game is the reason. The people are the point.
+The best game nights are the ones where the last turn still matters. The Ludarium newsletter is new short pieces on what makes games like that work, and on the people who gather around them. Subscribe at theludarium.com, and you will hear first when the Indianapolis lounge opens. The game is the reason. The people are the point.

@@ -51,7 +51,7 @@ The guide also states a few numbers as design facts: about a third of white's cr
 
 The guide's most quotable idea is that commons exclude "the extremities of magic": no unconditional sweepers, no planeswalkers, no giant catch-up creatures. So most decks are two-color midrange, the gap between aggro and control is small, and games are won by "the compounding nature of small strategic decisions." If you are deciding between this style and a powered list, [pauper cube vs vintage cube](/articles/pauper-cube-vs-vintage-cube/) lays out the trade.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Why does a commons cube have this much staying power?
 
@@ -96,6 +96,6 @@ Through the project's Discord, its polling site, or the contact email listed on 
 
 ## A cube that belongs to its players
 
-The Pauper Cube is eighteen years old and still changing on schedule, which is about the best outcome a cube can have. If you want to draft inside a community that is trying to build the same kind of durability, join [Cube Commonwealth in Indianapolis](/articles/cube-draft-indianapolis/). And subscribe to The Ludarium newsletter: one cube piece a week, including a short read on each Pauper Cube update when it lands.
+The Pauper Cube is eighteen years old and still changing on schedule, which is about the best outcome a cube can have. If you want to draft inside a community that is trying to build the same kind of durability, join [Cube Commonwealth in Indianapolis](/articles/cube-draft-indianapolis/). And subscribe to The Ludarium newsletter: new cube pieces, including a short read on each Pauper Cube update when it lands.
 
 The game is the reason. The people are the point.

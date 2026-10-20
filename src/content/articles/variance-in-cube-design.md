@@ -47,7 +47,7 @@ The inverse, mostly, plus a few specific tools.
 - **Card selection.** Brainstorm, Preordain, and friends let the player choose from more of their deck.
 - **Mulligan rules.** The London mulligan is already a variance reducer. Some cubes add a free first mulligan for seven-card hands with zero or six-plus lands. That is a house rule, not a standard, and it is a clean variance dial that costs nothing.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Why would anyone want more variance?
 
@@ -102,4 +102,4 @@ Usually, yes. A casual room benefits from games any player can win and from memo
 
 Variance is going to be in your cube either way. The only question is whether you decide where. Count your fixing, look at your power gap, and move the dial toward the room you actually have. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for a weekly piece on cube design and the groups that play it. If you are in Indianapolis, come see where our dial sits at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that play it. If you are in Indianapolis, come see where our dial sits at [Cube Commonwealth](/articles/cube-draft-indianapolis/).

@@ -63,7 +63,7 @@ Pre-built packs are what turn a set cube into a 15-minute setup instead of a 45-
 
 For a set with a dedicated pack slot (Innistrad's DFC, Zendikar Rising's MDFC, a bonus sheet like the Strixhaven Mystical Archive), copy the slot. The slot is part of why the format felt the way it did.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which sets make good set cubes?
 
@@ -114,4 +114,4 @@ Innistrad is the most-built because of its ten clear archetypes and strong commo
 
 A set cube is the most sentimental thing in a cube collection and the one that gets the loudest table. The game is the reason. The people are the point.
 
-Subscribe to the Ludarium newsletter for a weekly piece on building and running cubes, and if you are near Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) runs a set cube night now and then; bring yours.
+Subscribe to the Ludarium newsletter for new pieces on building and running cubes, and if you are near Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) runs a set cube night now and then; bring yours.

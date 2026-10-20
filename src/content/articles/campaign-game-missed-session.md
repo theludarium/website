@@ -52,7 +52,7 @@ The "pilot" approach suits games where roles are simpler and public. In Pandemic
 
 The "one-shot night" is underrated. The point of the group is the group. If the campaign cannot move, play The Crew or Codenames and keep the habit alive. We wrote about this in our article on [how to start a game night group](/articles/how-to-start-a-game-night-group/): the schedule is the asset, and the game is replaceable.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you catch someone up without boring everyone?
 
@@ -110,4 +110,4 @@ Every two weeks is a sustainable rhythm for most adults. Weekly is better for mo
 
 ## Keep the people, finish the story
 
-The game is the reason. The people are the point. A campaign that finishes is rare, and it is rare because of calendars, not cardboard. The Ludarium newsletter sends one idea a week for keeping a group playing. Subscribe, and when our Indianapolis lounge opens, campaign tables you can leave set up will make the next session that much easier to show up for.
+The game is the reason. The people are the point. A campaign that finishes is rare, and it is rare because of calendars, not cardboard. The Ludarium newsletter sends new ideas for keeping a group playing. Subscribe, and when our Indianapolis lounge opens, campaign tables you can leave set up will make the next session that much easier to show up for.

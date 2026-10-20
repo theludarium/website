@@ -60,7 +60,7 @@ Here is a system that does all three.
 
 Keep the standings somewhere public and update them the same night. A shared spreadsheet is fine. A whiteboard in the room is better.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you seat the tables each week?
 
@@ -118,6 +118,6 @@ Only if the group wants a prize pool, and keep it small. A free league with a tr
 
 ## Run a season with us
 
-League nights are part of the programming plan for The Ludarium in Indianapolis, and this format is the one we will start with. Subscribe to the newsletter and you get one piece of game night programming a week, including the standings spreadsheet template when we publish it.
+League nights are part of the programming plan for The Ludarium in Indianapolis, and this format is the one we will start with. Subscribe to the newsletter and you get new game night programming, including the standings spreadsheet template when we publish it.
 
 The game is the reason. The people are the point.

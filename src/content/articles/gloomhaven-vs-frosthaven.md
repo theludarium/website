@@ -57,7 +57,7 @@ Gloomhaven's second edition, [released in May 2025](https://en.wikipedia.org/wik
 
 Buy it first if you have a group of three or four who already play heavy games weekly and have finished a campaign game before. Otherwise buy Jaws of the Lion, finish it, and then decide. Characters and rules carry over conceptually, and the [weight](/articles/board-game-weight-explained/) jump is smaller once the core system is second nature.
 
-*If this is useful, the newsletter sends one comparison like it every week.*
+*If this is useful, the newsletter sends more comparisons like it.*
 
 ## When is Frosthaven the right first buy?
 
@@ -124,7 +124,7 @@ The publisher lists 101 scenarios at one to two hours each, so a group that play
 
 ## One table, one night a week
 
-The game is the reason. The people are the point. A campaign game is a standing appointment with the same people for months, which is the most valuable thing a board game can give you. For one short piece a week on building that habit, with news from the Indianapolis lounge as it opens, subscribe to The Ludarium newsletter.
+The game is the reason. The people are the point. A campaign game is a standing appointment with the same people for months, which is the most valuable thing a board game can give you. For new short pieces on building that habit, with news from the Indianapolis lounge as it opens, subscribe to The Ludarium newsletter.
 
 ## Sources
 

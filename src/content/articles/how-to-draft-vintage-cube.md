@@ -41,7 +41,7 @@ The reason commitment matters more here than in an unpowered cube is depth. The 
 
 Aggro has a special rule. The curator said in October 2026 that Boros is still the strongest archetype after repeated trims, and the January 2026 post called white aggro "saturated." Both statements mean the same thing for a drafter: the deck is good and the slots are limited. If you see Ocelot Pride, Adeline, or Ragavan after pick three, somebody upstream is not in it, and you should be.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What are the mistakes that lose Vintage Cube drafts?
 
@@ -87,4 +87,4 @@ Two, with a light splash at most. The fixing supports more, but the format's spe
 
 ## Draft it with people
 
-The Vintage Cube on MTGO is the best practice ground there is, and it is also eight strangers and a chat box. The game is the reason. The people are the point. Subscribe to The Ludarium newsletter for one draft lesson a week, and if you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) runs powered cube nights where you can take Black Lotus first in person.
+The Vintage Cube on MTGO is the best practice ground there is, and it is also eight strangers and a chat box. The game is the reason. The people are the point. Subscribe to The Ludarium newsletter for new draft lessons, and if you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) runs powered cube nights where you can take Black Lotus first in person.

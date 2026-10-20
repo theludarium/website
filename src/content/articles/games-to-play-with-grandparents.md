@@ -53,7 +53,7 @@ Each of these has been tested at tables with a sixty-year age spread. Ages and p
 
 Rummikub deserves its spot at the top. It was designed decades ago, it is in a lot of retirement community game rooms already, and it has a quality the others lack: a grandparent might know it better than you do. Being the expert at the table for once changes everything.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you get a reluctant grandparent to the table?
 
@@ -106,4 +106,4 @@ Regular game play is linked in several studies with better mood and thinking ski
 
 The Ludarium is building a game lounge in Indianapolis, and the table we care most about is the one with three generations around it. Nothing we do matters more than a grandparent who swore they didn't play games asking, on the way out, when the next one is. The game is the reason. The people are the point.
 
-Subscribe to the newsletter at theludarium.com for one piece like this a week, on playing with the people you want to keep close. Never stop playing.
+Subscribe to the newsletter at theludarium.com for new pieces like this, on playing with the people you want to keep close. Never stop playing.

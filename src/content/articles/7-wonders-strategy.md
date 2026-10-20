@@ -47,7 +47,7 @@ Science works when nobody else at the table is interested in it, when your neigh
 
 Our suggestion for improving players: do not plan science. Fall into it. If age one hands you two green cards for free and age two offers a third, take them and see. If the neighbors start cutting you off, stop and pivot to blue and commercial cards. A half-built science strategy that pivots in time loses less than one that stubbornly continues.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How much military do you need in 7 Wonders?
 
@@ -105,4 +105,4 @@ It plays fine, and the draft is tighter because you see each hand more often. Th
 
 ## One game-night idea a week
 
-7 Wonders is a game we recommend for groups of six or seven that want everyone playing at once, which is harder to find than it sounds. The game is the reason. The people are the point. The Ludarium newsletter sends one piece a week on games like this, and on the membership lounge we are building in Indianapolis where seven-player tables will be normal. [Subscribe](/newsletter) and get the next guide first.
+7 Wonders is a game we recommend for groups of six or seven that want everyone playing at once, which is harder to find than it sounds. The game is the reason. The people are the point. The Ludarium newsletter sends new pieces on games like this, and on the membership lounge we are building in Indianapolis where seven-player tables will be normal. [Subscribe](/newsletter) and get the next guide first.

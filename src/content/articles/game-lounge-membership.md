@@ -48,7 +48,7 @@ Those numbers are illustrative, not quotes from any venue. The point is the shap
 
 That zero matters more than the savings. A member who has already paid does not debate whether to go on a rainy Tuesday. They go, because it is theirs, and because the Tuesday people will be there.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How does a membership change the economics for the lounge?
 
@@ -112,4 +112,4 @@ Yes, access to the library is the core of the offer. Some lounges also sell game
 
 A cover charge buys you a night. A membership buys you a place. The game is the reason. The people are the point.
 
-The Ludarium's Indianapolis lounge will open with a founding member tier, and subscribers to the newsletter hear about it first. One email a week on play and the places that make it possible. Join the list and we will save you a seat.
+The Ludarium's Indianapolis lounge will open with a founding member tier, and subscribers to the newsletter hear about it first. Emails on play and the places that make it possible. Join the list and we will save you a seat.

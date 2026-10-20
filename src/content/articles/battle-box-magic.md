@@ -55,7 +55,7 @@ Color balance should be even or close to it: 25 to 30 cards per color plus a sma
 
 Card examples that earn a slot in almost any box: Kitchen Finks, Flametongue Kavu, Man-o'-War, Putrid Leech, Boros Charm, Kolaghan's Command, Lightning Helix, Mulldrifter, and Shriekmaw (evoke is a mode). Each of those is a decision as well as a body. Cards that look similar but fail: Sakura-Tribe Elder (land search finds nothing) and Mortician Beetle (needs a deck around it).
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What should you keep out?
 
@@ -101,4 +101,4 @@ It is one of the best ways to teach Magic, because mana problems are gone and ev
 
 A battle box is a cube owner's second box: the one that lives in a backpack and comes out when the draft falls through. The game is the reason. The people are the point.
 
-Subscribe to the Ludarium newsletter for one format or build idea each week, and if you are in Indianapolis, bring your box to a [Cube Commonwealth](/articles/cube-draft-indianapolis/) night; there is always a side table.
+Subscribe to the Ludarium newsletter for new format or build ideas, and if you are in Indianapolis, bring your box to a [Cube Commonwealth](/articles/cube-draft-indianapolis/) night; there is always a side table.

@@ -62,7 +62,7 @@ Cube puts the building back at the table. Eight people draft together, build tog
 
 It is also fair in a way that constructed Magic cannot be. Everyone starts with the same card pool and the same budget: zero. Skill in drafting and play decides the night. A fifteen-year-old with no collection has exactly the same chance as the owner.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What do you need to start playing cube?
 
@@ -104,7 +104,7 @@ Yes. Four and six players draft fine with small adjustments to pack size, and tw
 
 ## Come draft with us
 
-Cube is the format we built a community around. If you play Magic and have never sat down to a cube draft, the Ludarium newsletter sends one piece a week on games that bring people to the table, and cube shows up often. Cube players are welcome at Cube Commonwealth, our drafting group, and when the Indianapolis lounge opens the cube will have a permanent table there.
+Cube is the format we built a community around. If you play Magic and have never sat down to a cube draft, the Ludarium newsletter sends new pieces on games that bring people to the table, and cube shows up often. Cube players are welcome at Cube Commonwealth, our drafting group, and when the Indianapolis lounge opens the cube will have a permanent table there.
 
 The game is the reason. The people are the point.
 

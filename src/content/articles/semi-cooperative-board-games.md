@@ -49,7 +49,7 @@ Times and player counts are approximate; check the box, and expect real sessions
 
 If you want one, Dead of Winter. It combines a traitor possibility with personal objectives, so even loyal players have reasons to hesitate, and its crossroads cards add small narrative moments that give the table something to talk about besides suspicion.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you run a semi-co-op without ruining friendships?
 
@@ -97,4 +97,4 @@ Yes, in a late-reveal form. Players explore cooperatively until a "haunt" trigge
 
 ## Trust, tested weekly
 
-The game is the reason. The people are the point. Semi-co-ops put friendship under a little pressure and hand it back stronger, if you run them right. Subscribe to the Ludarium newsletter for one game-night idea a week, including which traitor game to try and how to frame it. When our Indianapolis lounge opens, Dead of Winter will be waiting.
+The game is the reason. The people are the point. Semi-co-ops put friendship under a little pressure and hand it back stronger, if you run them right. Subscribe to the Ludarium newsletter for new game-night ideas, including which traitor game to try and how to frame it. When our Indianapolis lounge opens, Dead of Winter will be waiting.

@@ -48,7 +48,7 @@ The week before registration is when the real work happens.
 
 **Log in early and test your account.** Expired cards and forgotten passwords cost people their first choices every year.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What happens at noon?
 

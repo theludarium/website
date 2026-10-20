@@ -30,7 +30,7 @@ The [U.S. Surgeon General's 2023 advisory](https://www.hhs.gov/sites/default/fil
 
 If a pill produced effects of that size, every longevity project in the world would be studying it. Connection is not a pill, so it mostly gets a paragraph at the end. We decided to put it at the front.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Why games, specifically?
 
@@ -104,4 +104,4 @@ Not in a formal sense. It is a game lounge, starting in Indianapolis, that is bu
 
 ## Follow the work
 
-New writing on play, longevity, and social connection goes to subscribers first, including updates on the Indianapolis lounge as it comes together. Subscribe to the Ludarium newsletter for one piece a week on togethering for a lifetime.
+New writing on play, longevity, and social connection goes to subscribers first, including updates on the Indianapolis lounge as it comes together. Subscribe to the Ludarium newsletter for new pieces on togethering for a lifetime.

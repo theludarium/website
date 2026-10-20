@@ -44,7 +44,7 @@ Ask yourself which of these sounds like them. Then jump to that section.
 
 **Hive Pocket** <!-- AFFILIATE --> (about $19 to $26, per [ShopSavvy](https://shopsavvy.com/products/hive-pocket)). An abstract strategy game with insect tiles and no board. Surround the opposing queen bee. It rewards the kind of thinking chess rewards, in a quarter of the time, and it travels in a pocket for vacations.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## The best cooperative board games for couples
 
@@ -104,4 +104,4 @@ Under $35 covers nearly every two-player game worth owning. Campaign games run $
 
 ## One game-night idea a week, for two
 
-Subscribe to The Ludarium newsletter and we will send one short piece a week on playing together, including the two-player games we are testing for the Indianapolis lounge library. No spam, no ten-email launch sequence. Just one good idea for your next night in.
+Subscribe to The Ludarium newsletter and we will send new short pieces on playing together, including the two-player games we are testing for the Indianapolis lounge library. No spam, no ten-email launch sequence. Just one good idea for your next night in.

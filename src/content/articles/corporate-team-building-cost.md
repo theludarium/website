@@ -59,7 +59,7 @@ What you still pay for separately: the room if you do not have one, food, and dr
 
 Rough total for a 40-person hosted event in a company's own space with catered food: $2,000–$4,600, or $50–$115 per head all-in.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What does a full-service event cost?
 
@@ -134,7 +134,7 @@ Most do. Minimums are usually set as a headcount or a flat fee equal to a dozen 
 
 ## Want a quote instead of a range?
 
-The Ludarium runs corporate tabletop events in Indianapolis and the surrounding area, from a hosted lunch-hour session to a full offsite evening, and we will give you a real number for your headcount within a day. If you are still in the budgeting stage, subscribe to the newsletter for one workplace game idea each week, free, with no quote required.
+The Ludarium runs corporate tabletop events in Indianapolis and the surrounding area, from a hosted lunch-hour session to a full offsite evening, and we will give you a real number for your headcount within a day. If you are still in the budgeting stage, subscribe to the newsletter for new workplace game ideas, free, with no quote required.
 
 ## Sources
 

@@ -49,7 +49,7 @@ Notice that the pure optimization games, the quiet heads-down puzzles, show up l
 
 Campaign games deserve a special word. A D&D group that has played the same characters for two years has a shared story measured in hundreds of hours. People who played D&D together in college often describe those campaigns in the same terms others use for a season of a sports team or a tour of duty. The game gave them a shared past that nothing else in their twenties did.
 
-*For one piece like this a week, the newsletter is the place.*
+*For new pieces like this, the newsletter is the place.*
 
 ## How to earn more of the memory dividend
 
@@ -102,4 +102,4 @@ Weekly, if you can manage it. Frequency produces more stories and keeps them ali
 
 The memory dividend only pays people who show up. The Ludarium is building a lounge in Indianapolis for exactly that: a standing table, people who will be there next week, and the kind of togethering that turns ordinary nights into stories.
 
-The newsletter is the easiest way to start: one piece a week on games, memory, and the people who make both, and first word when the Indianapolis lounge opens. Subscribe at theludarium.com. Never stop playing.
+The newsletter is the easiest way to start: new pieces on games, memory, and the people who make both, and first word when the Indianapolis lounge opens. Subscribe at theludarium.com. Never stop playing.

@@ -45,7 +45,7 @@ Thursday through Sunday, roughly 9 to 11 a.m. and 5 to 7 p.m., if you are drivin
 
 If you work downtown that week, bring lunch or eat at 11. If you are coming in for the Block Party or the costumes, park north of Washington Street or on the east side near Mass Ave and walk the last ten minutes. The Cultural Trail makes that walk pleasant. Better still, take the bus or a rideshare; the garages fill and the ones with space charge event rates.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you meet the people who play here year-round?
 
@@ -97,4 +97,4 @@ Away from the convention center: east toward Mass Ave or north of Washington Str
 
 Gen Con is the week Indianapolis remembers it is a game town. The game is the reason. The people are the point.
 
-For the public game nights that run the other forty-eight weeks, Gen Con-week events as they are announced, and first word on The Ludarium's lounge downtown, subscribe to the newsletter. One short email a week.
+For the public game nights that run the other forty-eight weeks, Gen Con-week events as they are announced, and first word on The Ludarium's lounge downtown, subscribe to the newsletter. Short emails.

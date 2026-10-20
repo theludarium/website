@@ -51,7 +51,7 @@ The cube itself: <!-- EDITOR: add detail (cube size, power level, CubeCobra link
 
 <!-- EDITOR: confirm --> There is no entry fee for the draft. The cube is provided. If we are in a venue that serves food or drink, the norm is that everyone buys something, because sixteen people at a table for three hours is a cost to the venue and we want to be invited back.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Where else can you play Magic in Indianapolis?
 
@@ -106,4 +106,4 @@ Good Games downtown, Paradigm Games on N Meridian, Moonshot Games in Noblesville
 
 ## Pull up a chair
 
-The cube is back on the table. Join the Cube Commonwealth Discord <!-- EDITOR: add Discord invite link -->, react to the weekly post, and come draft with us. If you want the night's news, the open-seat announcements, and first word on The Ludarium's lounge in Indianapolis, subscribe to the newsletter. One short email a week. The game is the reason. The people are the point.
+The cube is back on the table. Join the Cube Commonwealth Discord <!-- EDITOR: add Discord invite link -->, react to the weekly post, and come draft with us. If you want the night's news, the open-seat announcements, and first word on The Ludarium's lounge in Indianapolis, subscribe to the newsletter. Short emails. The game is the reason. The people are the point.

@@ -42,7 +42,7 @@ Anything you might want to test again. Oko, Thief of Crowns is the usual example
 
 The same goes for single planeswalkers, single draw engines and single combo pieces. If the reason is "this card is too strong for this cube right now," it goes in the changelog with a date. If the reason is "cards that do this will always be too strong for what this cube is for," it goes on the list.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do the reference cubes handle this?
 
@@ -91,4 +91,4 @@ In the primer, in prose, next to the power level statement. A rule a drafter can
 
 ## Write yours in three sentences
 
-If you cannot state your cube's exclusions in three sentences, the list is doing the work the design should do. Cube Commonwealth keeps its rules short and argues about the cuts instead, every week in Indianapolis; [join a draft](/articles/cube-draft-indianapolis/) and see them in practice. Subscribe to The Ludarium newsletter for a cube design piece every week. The game is the reason. The people are the point.
+If you cannot state your cube's exclusions in three sentences, the list is doing the work the design should do. Cube Commonwealth keeps its rules short and argues about the cuts instead, every week in Indianapolis; [join a draft](/articles/cube-draft-indianapolis/) and see them in practice. Subscribe to The Ludarium newsletter for new cube design pieces. The game is the reason. The people are the point.

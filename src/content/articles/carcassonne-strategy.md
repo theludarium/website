@@ -57,7 +57,7 @@ A few patterns that recur:
 
 Shared features are not failures. A shared twelve-point city gives you twelve points and your meeple back. A sole ownership stand-off where neither player completes it gives you six points at game end and ties up a meeple all game.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How should you use the tile distribution?
 
@@ -111,4 +111,4 @@ Yes, when placed early in a gap where tiles will naturally be laid. Opponents he
 
 ## One game-night idea a week
 
-Carcassonne is the game we most often suggest to someone who says they want a step up from Ticket to Ride, and this is the guide we would hand them. The Ludarium newsletter sends one piece a week on games, the people who play them, and the lounge we are building in Indianapolis. [Subscribe](/newsletter) for the next strategy guide before it goes on the site.
+Carcassonne is the game we most often suggest to someone who says they want a step up from Ticket to Ride, and this is the guide we would hand them. The Ludarium newsletter sends new pieces on games, the people who play them, and the lounge we are building in Indianapolis. [Subscribe](/newsletter) for the next strategy guide before it goes on the site.

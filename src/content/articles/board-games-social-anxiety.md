@@ -55,7 +55,7 @@ Not all games are equal here. The best ones for an anxious first-timer share a p
 
 For someone who wants to be in the room with people without being at the center of anything, these are the games. We have more picks in [game night for introverts](/articles/game-night-for-introverts/), which overlaps with this list but is not the same thing: introversion is a preference, social anxiety is a fear, and they often get confused.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which games should you skip at first?
 
@@ -104,4 +104,4 @@ Often, yes. Public game spaces have low obligations: you can play one game and l
 
 A table with a game on it is one of the few social settings where you can be fully present without being on display. That is why we are building one in Indianapolis where showing up alone is normal. The game is the reason. The people are the point.
 
-The Ludarium newsletter sends one piece like this each week, on play, connection, and the spaces that make them easier. Subscribe if you want the next one.
+The Ludarium newsletter sends new pieces like this, on play, connection, and the spaces that make them easier. Subscribe if you want the next one.

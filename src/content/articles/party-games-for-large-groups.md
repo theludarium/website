@@ -83,7 +83,7 @@ Everyone writes a numerical guess to a trivia question, then bets poker-style on
 
 Everyone gets the same location card except the spy, who gets nothing. <!-- AFFILIATE --> Players ask each other questions to prove they know the location without giving it away. Rounds last eight minutes, and you can run several tables at once.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you run a game for ten people without chaos?
 
@@ -128,4 +128,4 @@ Ten to twenty minutes. Short rounds let people join late, leave early, and switc
 
 ## One idea for your next crowd, every week
 
-The Ludarium newsletter sends one short piece each week on what to play and how to host it well, from two players to twenty. Indianapolis readers also hear first about the lounge. The game is the reason. The people are the point. Subscribe before the next big night.
+The Ludarium newsletter sends new short pieces on what to play and how to host it well, from two players to twenty. Indianapolis readers also hear first about the lounge. The game is the reason. The people are the point. Subscribe before the next big night.

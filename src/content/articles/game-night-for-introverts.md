@@ -54,7 +54,7 @@ Games to be careful with: anything that puts one player on the spot. Charades-st
 
 Cooperative games deserve a special mention. Pandemic and The Crew put everyone on the same side, which removes the low-grade tension of competition and makes conversation easy. For many introverts, a co-op is the ideal main event.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you structure the evening to protect your energy?
 
@@ -110,4 +110,4 @@ Very. Co-ops like Pandemic and The Crew put everyone on the same side, which rem
 
 ## One quiet, useful idea a week
 
-The Ludarium newsletter sends one practical piece each week on hosting and playing in a way that fits your life, not someone else's. Subscribe and you will also hear first when our Indianapolis lounge opens, with small tables and a corner that stays quiet.
+The Ludarium newsletter sends new practical pieces on hosting and playing in a way that fits your life, not someone else's. Subscribe and you will also hear first when our Indianapolis lounge opens, with small tables and a corner that stays quiet.

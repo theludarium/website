@@ -59,7 +59,7 @@ The games for a neighborhood night need to pass three tests: teachable in three 
 
 Avoid, at least for the first few nights: anything with a 30-minute teach, anything with elimination (nobody wants to be voted out by a neighbor they just met), and anything with a reputation for ruining friendships. Save the trading games for month six.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you run the first night?
 

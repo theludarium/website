@@ -46,7 +46,7 @@ Our own cube is single sleeved with inner sleeves only on the handful of cards t
 
 Whatever you decide, do it for the whole cube or for a set of cards that cannot be identified from the back. A cube where only the expensive cards are double sleeved is a cube where thickness tells you what is coming.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How should a cube be boxed?
 
@@ -125,4 +125,4 @@ For a shared pool returned after each night, 30 to 40 of each type, sleeved to m
 
 Sleeves and boxes are the kind of thing you set up once and then forget until something fails. Set them up well, check them monthly, and the cube is ready every week for years. What you do with the box is the hard part, and the good part. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for one piece a week on cube and the groups that play it. Indianapolis readers can see our well-worn box in person at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for new pieces on cube and the groups that play it. Indianapolis readers can see our well-worn box in person at [Cube Commonwealth](/articles/cube-draft-indianapolis/).

@@ -46,7 +46,7 @@ The north suburbs have the densest cluster of shops in the metro, which tracks w
 
 Westfield does not yet have a dedicated game store we could confirm. Residents tend to drive to Carmel or Noblesville, both under 15 minutes.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which Indianapolis game stores let you play on site?
 
@@ -105,4 +105,4 @@ Not one we could confirm as of October 2026. Carmel and Noblesville stores are a
 
 Indianapolis has more good game stores than most people realize, and each one has a night that could become yours. The game is the reason. The people are the point.
 
-For the verified store list as it updates, new game nights around the city, and first word on The Ludarium's opening, subscribe to the newsletter. One short email a week.
+For the verified store list as it updates, new game nights around the city, and first word on The Ludarium's opening, subscribe to the newsletter. Short emails.

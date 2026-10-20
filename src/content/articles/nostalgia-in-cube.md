@@ -57,7 +57,7 @@ A few rules we use to keep the nostalgia section honest:
 3. **Track pick order.** If a nostalgia card is going last-pick five drafts running, it is not providing the feeling anymore. It is providing a bad pick. Swap it for a different old card and see if that one lands.
 4. **Ask the room.** The owner's nostalgia is not the group's. Someone who started in Zendikar does not feel anything about Serra Angel; they feel something about Lotus Cobra. Which is also now an old card.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What about the cards that have aged into nostalgia?
 
@@ -95,4 +95,4 @@ Ask whether it ever makes a deck better than its replacement would, for some dra
 
 A cube should feel like the game it came from, which means carrying some of the game's past. Choose the old cards that still play, add a small handful that are there for the memory, and be honest about which is which. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for a weekly piece on cube design and the groups that play it. Indianapolis drafters can come see which Djinn made the cut at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that play it. Indianapolis drafters can come see which Djinn made the cut at [Cube Commonwealth](/articles/cube-draft-indianapolis/).

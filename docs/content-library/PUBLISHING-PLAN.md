@@ -131,7 +131,7 @@ Status on 2026-10-19: 21 published at launch, 320 drafts.
 - `two-player-cooperative-board-games`: Two Player Cooperative Board Games for Couples: 12 Picks
 - `wingspan-vs-everdell`: Wingspan vs Everdell: Which Engine Builder Is Right?
 
-## Batch 6: The wider hobby (22)
+## Batch 6: The wider hobby (22) (published 2026-10-20)
 
 - `area-majority-vs-area-control`: Area Majority vs Area Control: The Difference
 - `best-table-for-board-games`: Best Table for Board Games: Height, Light, and Elbow Room

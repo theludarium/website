@@ -1,10 +1,10 @@
 ---
 title: "Benefits of Board Game Cafes: Why Every City Needs One"
 description: "The benefits of board game cafes go beyond fun. Loneliness, third places, local economies, and civic life all improve when a city has a place to play."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["benefits of board game cafes", "why board game cafes matter", "board game cafe community", "third places in cities", "social infrastructure", "places to play in cities", "Game lounges and third places"]
-draft: true
+draft: false
 ---
 The benefits of board game cafes are usually described as entertainment: a fun night out, a good first date, something to do that is not a bar. Those are real. But the stronger case is civic. A city with a place to play has a piece of social infrastructure that most cities have been losing for fifty years, and the cost of that loss shows up in loneliness data, in public health, and in how little neighbors know one another. This article makes that case.
 
@@ -43,7 +43,7 @@ A place to play is a machine for maintaining ties. It gives people a reason to b
 
 The LEV Institute, which shares a founder with The Ludarium, calls this "togethering": regular, in-person time with people you like, with an activity as the excuse. It treats the habit as a longevity practice, in the same category as sleep and exercise. The game cafe is where a city can practice it.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How does a place to play help a city's economy?
 
@@ -53,7 +53,7 @@ In small, local ways that add up.
 - **It is a local business by nature.** The format does not scale into a national chain easily, because the host and the regulars are the product. Dollars stay close.
 - **It draws across neighborhoods.** People drive to a good game night from twenty minutes away and eat dinner nearby first.
 - **It supports a small ecosystem.** Local game stores, designers, and event hosts all do better in a city with a venue to play in.
-- **It gives companies a better offsite.** A room where a team plays Pandemic for two hours and learns how it communicates is a service local employers will pay for, which is why The Ludarium runs a corporate events service in Indianapolis ahead of its lounge.
+- **It gives companies a better offsite.** A room where a team plays Pandemic for two hours and learns how it communicates is a service local employers will pay for, which is why The Ludarium offers a corporate events service in Indianapolis ahead of its lounge.
 
 None of these make a game cafe a major economic engine. They make it a healthy small business that improves its block, which is what cities are built out of.
 
@@ -114,7 +114,7 @@ Often yes, especially if it is run on memberships and weeknight programming rath
 
 A city needs places where people can show up without a reason and leave with one. A table, a shelf, and a host is enough. The game is the reason. The people are the point.
 
-The Ludarium is building that place for Indianapolis, and the newsletter is where the story unfolds: one short piece a week on play, connection, and the rooms that make both possible. Subscribe and come find us at the table.
+The Ludarium is building that place for Indianapolis, and the newsletter is where the story unfolds: new short pieces on play, connection, and the rooms that make both possible. Subscribe and come find us at the table.
 
 ## Sources
 

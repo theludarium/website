@@ -43,7 +43,7 @@ Rotisserie is cube's slow-food format. Every card is visible to everyone, and pi
 **What changes.** Decks are the best decks the cube can produce, because every player built with full knowledge. Expect combo decks to show up if your cube has the pieces, because a player who can see every piece can assemble them. Expect lanes to be fought over openly, with two players racing for the same deck and one of them pivoting late. Games are tighter than a normal draft, and more decks run clean two-color mana.
 **Rotisserie etiquette.** Decide the pick clock and the order in advance. Allow trash talk, forbid collusion. If a player cannot be present for a live pick, they may leave a short ranked list with a neighbor.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What team formats work with a cube?
 
@@ -95,4 +95,4 @@ Rotisserie lays out the whole cube and players pick from everything in snake ord
 
 The same 360 cards can be a fast sealed league, a six-hour rotisserie event, or a Two-Headed Giant night where nobody plays alone. The box does not change. The way people sit around it does. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for one piece a week on cube formats and the groups that play them. Indianapolis readers can join us for the next odd-format night at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for new pieces on cube formats and the groups that play them. Indianapolis readers can join us for the next odd-format night at [Cube Commonwealth](/articles/cube-draft-indianapolis/).

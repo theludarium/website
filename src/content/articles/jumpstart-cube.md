@@ -54,7 +54,7 @@ Instead of filling a pack entirely with its own theme, you put in two payoff car
 
 Now any two white packs overlap on purpose, and most cross-color pairs find at least one shared axis. The cost is design time: every card in every pack has to be checked against three siblings. It is worth it in a box you intend to play for a year. It is not worth it for a weekend project.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Can you convert a normal cube into a Jumpstart cube?
 
@@ -117,4 +117,4 @@ Pack selection takes a few minutes and games run 15 to 25 minutes. Three rounds 
 
 A Jumpstart cube is the format we reach for when the night is short, the table is uneven, or someone new wants to play Magic without learning to draft first. The game is the reason. The people are the point.
 
-If you want one cube-building idea like this each week, subscribe to the Ludarium newsletter. And if you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) drafts regularly and always has room for one more.
+If you want new cube-building ideas like this, subscribe to the Ludarium newsletter. And if you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) drafts regularly and always has room for one more.

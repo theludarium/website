@@ -55,7 +55,7 @@ That is the pattern: archetypes as packages, added and removed as units, with co
 
 There is also a seasonal cousin. The [No Holds Barred Vintage Cube](https://www.mtgo.com/news/no-holds-barred-vintage-cube-2025), run for one week in December 2025 by Chris Wolf, trimmed the list to 510 cards and leaned into "more power, more combo," with Time Vault, Thassa's Oracle and Demonic Consultation all in. It is the Vintage Cube with the brakes off, and it exists because the regular list has to stay playable for people who are not combo players.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Why does a cube nobody owns set the standard?
 

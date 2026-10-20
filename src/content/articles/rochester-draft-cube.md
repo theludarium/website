@@ -59,7 +59,7 @@ Budget 60 to 90 minutes for a cube Rochester with eight experienced players. Gro
 | Table talk during picks | Quiet | Constant |
 | Hate-drafting | Rare, blind | Common, visible |
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What changes about how people draft?
 
@@ -109,4 +109,4 @@ Rarely. The MTR still documents the [team version](https://blogs.magicjudges.org
 
 Rochester takes twice as long and produces half the surprises. In exchange it gives you an hour where eight people watch each other think. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for one draft format or house rule a week, written to be run from the page. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) runs an open-information night a few times a year, and the table is loud.
+Subscribe to The Ludarium newsletter for new draft formats and house rules, written to be run from the page. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) runs an open-information night a few times a year, and the table is loud.

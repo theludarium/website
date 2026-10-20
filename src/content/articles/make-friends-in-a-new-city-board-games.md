@@ -42,7 +42,7 @@ Start with the places that already exist. In most American cities of any size th
 
 A note on what to look for. Favor the group that meets weekly over the one that meets monthly. Favor open tables over closed campaigns. A D&D group that has been playing the same story for two years is a hard room to join. A Codenames table is not.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## The 90-day plan for turning a game table into friends
 
@@ -103,4 +103,4 @@ Ask at the nearest game store, check the public library's events calendar, and s
 
 The Ludarium is building a lounge here for exactly the person who just unpacked the last box and does not know anyone yet. A room with games, people who will teach them, and a standing night you can count on. That is what togethering means to us. The game is the reason. The people are the point.
 
-For one piece a week on finding your table and keeping it, subscribe to the newsletter at theludarium.com. We will announce the lounge there first. Until then, find the nearest table and sit down. Never stop playing.
+For new pieces on finding your table and keeping it, subscribe to the newsletter at theludarium.com. We will announce the lounge there first. Until then, find the nearest table and sit down. Never stop playing.

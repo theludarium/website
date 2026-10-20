@@ -68,7 +68,7 @@ Three to five minutes, no more. Phone footage is fine if the sound is clear and 
 
 Do not explain every rule. The video is not a tutorial. It is a demonstration that the game is real, the loop is clear, and you can communicate. Publishers watch dozens of these; the ones that get a reply are short and specific.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What happens in a pitch meeting?
 
@@ -139,7 +139,7 @@ Game mechanics cannot be copyrighted, and reputable publishers do not steal desi
 
 ## Get the evidence first
 
-Publishers want proof that strangers enjoyed your game, and the best way to get it is to put the game in front of strangers. Designers are welcome at open playtest nights at The Ludarium in Indianapolis. For one article a week on design, play, and the people around the table, subscribe to the newsletter. Subscribers see new pieces before anyone else.
+Publishers want proof that strangers enjoyed your game, and the best way to get it is to put the game in front of strangers. Designers are welcome at open playtest nights at The Ludarium in Indianapolis. For new articles on design, play, and the people around the table, subscribe to the newsletter. Subscribers see new pieces before anyone else.
 
 ## Sources
 

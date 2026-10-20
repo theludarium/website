@@ -50,7 +50,7 @@ Now, in the blank moment, you have a decision engine. A character who wants resp
 
 Pre-made characters usually include a personality sketch. Read it before you sit down and underline the one trait you intend to lean on. One is enough. Trying to play five traits at once is how you end up playing none.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What should you do in combat when you freeze?
 
@@ -106,4 +106,4 @@ Yes. Quiet characters are common and effective, and they suit players who would 
 
 ## Keep practicing
 
-Subscribe to The Ludarium newsletter for one piece a week on being good company at a table. Want to try a game before you buy it? Play a free intro adventure in the [RPG Demo Library](/rpg-demo-library/), right in your browser, by each game's real rules.
+Subscribe to The Ludarium newsletter for new pieces on being good company at a table. Want to try a game before you buy it? Play a free intro adventure in the [RPG Demo Library](/rpg-demo-library/), right in your browser, by each game's real rules.

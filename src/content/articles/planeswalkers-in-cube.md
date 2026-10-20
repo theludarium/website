@@ -43,7 +43,7 @@ Mana value is the sorting key. Cheap walkers come down before the board is settl
 
 The counts are a house guideline. They add up to roughly 12 to 15 walkers in a 540-card cube, or 8 to 10 in a 360. Many public lists run 20 or more, which is where the problems in the next section start.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What are the signs you have too many?
 
@@ -84,4 +84,4 @@ No planeswalker has a common printing, so a Pauper cube has none. That is part o
 
 ## Count yours this week
 
-Open your list, sort by type, and count. If the number surprises you, start by cutting five-drops. Cube Commonwealth drafts in Indianapolis, and the walker count comes up every time a new list gets passed around; [join a draft](/articles/cube-draft-indianapolis/) and argue for your favorite. Subscribe to The Ludarium newsletter for one cube design piece every week. The game is the reason. The people are the point.
+Open your list, sort by type, and count. If the number surprises you, start by cutting five-drops. Cube Commonwealth drafts in Indianapolis, and the walker count comes up every time a new list gets passed around; [join a draft](/articles/cube-draft-indianapolis/) and argue for your favorite. Subscribe to The Ludarium newsletter for new cube design pieces. The game is the reason. The people are the point.

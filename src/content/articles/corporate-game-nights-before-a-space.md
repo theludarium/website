@@ -99,4 +99,4 @@ Indianapolis and the surrounding area is home, and most sessions happen there. W
 
 If you run a team in Indianapolis and want to see what a facilitated game session does for it, get in touch about the corporate events service. That is the fastest way to help us build the room, and the best way to find out if we are any good. The game is the reason. The people are the point.
 
-For everyone else, follow the build by subscribing to the newsletter. One email a week on what we are learning, and the first word when the lounge has a door.
+For everyone else, follow the build by subscribing to the newsletter. Emails on what we are learning, and the first word when the lounge has a door.

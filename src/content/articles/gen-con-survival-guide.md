@@ -46,7 +46,7 @@ Open gaming runs past midnight, and the best pickup games start late. You will n
 
 Hotels in the downtown block sell out quickly when housing opens, usually about two weeks after badges go on sale. We cover the options in [the Gen Con hotel guide](/articles/gen-con-hotel-guide/). The short version: close and small beats far and large.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you work the Exhibit Hall without losing a day?
 
@@ -101,4 +101,4 @@ One or two. Leave at least half of each day open for the Exhibit Hall, demos, an
 
 The convention will be there all four days. Make sure you are too. The game is the reason. The people are the point.
 
-For the packing list, registration tips, and the places to play in Indianapolis the other fifty-one weeks, subscribe to The Ludarium newsletter. One short email a week, and a quiet seat at a good table when our lounge opens downtown.
+For the packing list, registration tips, and the places to play in Indianapolis the other fifty-one weeks, subscribe to The Ludarium newsletter. Short emails, and a quiet seat at a good table when our lounge opens downtown.

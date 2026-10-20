@@ -51,7 +51,7 @@ Grassland last, but not never. The grassland row is where eggs come from, and eg
 
 A warning on the "forest first" rule: if your opening hand has strong grassland birds with egg-laying powers and the round-one goal rewards eggs in the grassland, follow the hand. The rule is a default, not a law.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Are you ignoring eggs in Wingspan?
 
@@ -108,4 +108,4 @@ A bonus card you can reliably score is worth building toward. One that depends o
 
 ## A guide like this, every week
 
-Wingspan is one of the games we expect to teach most often at the Indianapolis lounge, because it is beautiful, calm, and still has room to get better at. The game is the reason. The people are the point. If you would like the next strategy guide, and one idea a week for getting people around a table, [subscribe to the Ludarium newsletter](/newsletter). One email a week, nothing else.
+Wingspan is one of the games we expect to teach most often at the Indianapolis lounge, because it is beautiful, calm, and still has room to get better at. The game is the reason. The people are the point. If you would like the next strategy guide, and new ideas for getting people around a table, [subscribe to the Ludarium newsletter](/newsletter). Emails, nothing else.

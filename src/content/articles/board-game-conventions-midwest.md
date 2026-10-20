@@ -1,10 +1,10 @@
 ---
 title: "Board Game Conventions in the Midwest Beyond Gen Con"
 description: "Board game conventions in the Midwest beyond Gen Con: eleven shows across Ohio, Wisconsin, Michigan, Missouri, and Minnesota, with dates checked on each site."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Culture
 tags: ["board game conventions Midwest", "Midwest gaming conventions", "board game conventions near Indianapolis", "Origins Game Fair", "Gamehole Con", "Geekway to the West", "Conventions"]
-draft: true
+draft: false
 ---
 The best board game conventions in the Midwest are mostly not Gen Con. Gen Con is the biggest, and it is ours, but it is also the loudest, the most expensive, and the hardest to get a hotel for. Within a day's drive of Indianapolis there are a dozen shows that cost less, book easier, and give you more hours at a table per dollar.
 
@@ -62,7 +62,7 @@ A board-game-first convention running [March 25–28, 2027](https://www.buckeyeg
 
 The board gamer's convention in the region. The main show is held at the Saint Charles Convention Center in St. Charles, Missouri, just outside St. Louis; the 2026 dates were [May 14–17](https://stcharlesconventioncenter.com/?p=2047), and the organizers also run a smaller winter event, Geekway Mini, on [January 22–24, 2027](https://www.geekway.com/). Geekway is known for its game library and its play-and-win program, where attendees who play donated copies are entered to take them home. Badges [sold out in 2025](https://tabletop.events/conventions/geekway-2025), and the show drew about 3,000 people the year before, so buy early.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ### Origins Game Fair (Columbus, Ohio)
 

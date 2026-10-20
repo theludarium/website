@@ -57,7 +57,7 @@ Three players is the awkward count. With 6 packs each you draft 270 cards and en
 
 For four players, Grid draft is the main alternative, and the [MTG Wiki's Grid page](https://mtg.wiki/page/Grid_Draft) describes a version for three and four. Our comparison is in [Grid draft for three and four players](/articles/grid-draft-four-players/).
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What makes the burn decision interesting?
 
@@ -115,4 +115,4 @@ For players who want the feel of a real pack-passing draft, yes. Winston is bett
 
 Some of our best cube nights had four players, not eight. Glimpse is the reason those nights produced real decks instead of consolation piles. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for a new format or house rule each week, each one written to be run straight from the article. Indianapolis readers who want the full eight-seat table can join [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for a new format or house rule, each one written to be run straight from the article. Indianapolis readers who want the full eight-seat table can join [Cube Commonwealth](/articles/cube-draft-indianapolis/).

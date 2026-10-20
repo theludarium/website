@@ -54,7 +54,7 @@ Session counts are approximate and depend on how often you win; Pandemic Legacy'
 
 If your group is four adults who already like Pandemic, buy Season 1 and stop reading. If your group includes children or you want something shorter, My City is a strong, cheap introduction to the format.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How long does a legacy campaign take in real life?
 
@@ -104,4 +104,4 @@ Some are. My City and Machi Koro Legacy are short, light, and designed with fami
 
 ## Start a campaign, keep the people
 
-The game is the reason. The people are the point. A legacy campaign is one of the best excuses adults have for seeing the same friends twelve times in a year. Subscribe to the Ludarium newsletter for weekly ideas on what to play and how to keep a group together, and watch for campaign tables at our Indianapolis lounge when it opens.
+The game is the reason. The people are the point. A legacy campaign is one of the best excuses adults have for seeing the same friends twelve times in a year. Subscribe to the Ludarium newsletter for ideas on what to play and how to keep a group together, and watch for campaign tables at our Indianapolis lounge when it opens.

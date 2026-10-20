@@ -52,7 +52,7 @@ This is the part most counts miss. Not all interaction creates the same decision
 
 **Creature-based interaction is underrated.** Flametongue Kavu, Shriekmaw, Ravenous Chupacabra, Skyclave Apparition, Brazen Borrower. A creature that removes a creature puts a body on the board, which means the game continues with both players having something. These are the cards that make midrange decks feel like decks.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What happens with too little interaction?
 
@@ -103,4 +103,4 @@ Games end by turn six with neither player having cast a spell at the other, and 
 
 Interaction is what makes the other player's turn matter to you. Get the density right, choose kinds that create decisions on both sides, and the games will feel like games. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for a weekly piece on cube design and the groups that play it. If you are near Indianapolis, bring your Lightning Bolts to [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that play it. If you are near Indianapolis, bring your Lightning Bolts to [Cube Commonwealth](/articles/cube-draft-indianapolis/).

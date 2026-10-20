@@ -51,7 +51,7 @@ Cube decks are built from 45 cards seen once, in a hurry. The build is a guess. 
 
 The common thread: you are not fixing your deck, you are adjusting it to the opponent in front of you. The main deck stays the same at the start of every match.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What house rules do cubes add?
 
@@ -109,4 +109,4 @@ Yes. Burning Wish, Karn, the Great Creator, and similar effects fetch from your 
 
 The main deck is a first draft. The sideboard is the editing pass, done one opponent at a time, and most of the good players at a cube table are the ones who bother to do it. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for a weekly piece on cube play and the rules that keep a table happy. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) will show you what game three looks like when both players sideboarded.
+Subscribe to The Ludarium newsletter for new pieces on cube play and the rules that keep a table happy. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) will show you what game three looks like when both players sideboarded.

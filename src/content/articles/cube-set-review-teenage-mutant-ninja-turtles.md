@@ -28,7 +28,7 @@ The four turtles each have a sneak version. They are compared with Ninja of the 
 - **Michelangelo, Weirdness to 11** ({1}{G}, 1/1; makes a Mutagen on entering; your +1/+1 counters come with one extra). **Call: pass** except in counters cubes.
 - **Dark Leo & Shredder** ({W}{B}, 1/3; sneak {W}{B}; attacking Ninjas have deathtouch; makes a Ninja on combat damage; halves a player's life at five Ninjas). **Call: pass.** Gold, tribal, slow.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which other creatures earn a test?
 

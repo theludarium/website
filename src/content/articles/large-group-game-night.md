@@ -51,7 +51,7 @@ You cannot host forty people alone. Three roles, filled by people who agreed to 
 
 Recruit these people a week out. Ask directly, name the role, and tell them which games to learn. People say yes to a specific job and no to "can you help?"
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What does the schedule look like?
 
@@ -113,6 +113,6 @@ Three hours, with a shared big-table game in the middle and a firm end time anno
 
 ## The plan, delivered
 
-Forty-person nights are the size we expect to run most weekends at The Ludarium in Indianapolis, and this plan is the one we will use. Subscribe to the newsletter for one event plan a week, with layouts, game mixes, and the staffing that makes a room work.
+Forty-person nights are the size we expect to run most weekends at The Ludarium in Indianapolis, and this plan is the one we will use. Subscribe to the newsletter for new event plans, with layouts, game mixes, and the staffing that makes a room work.
 
 The game is the reason. The people are the point.

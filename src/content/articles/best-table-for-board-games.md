@@ -1,10 +1,10 @@
 ---
 title: "Best Table for Board Games: Height, Light, and Elbow Room"
 description: "What makes the best table for board games? Height, size per player, surface, lighting, and chairs, with a size chart and advice for homes and lounges."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["best table for board games", "board game table size", "gaming table height", "board game table dimensions", "table for game night", "dining table for board games", "Game lounges and third places"]
-draft: true
+draft: false
 ---
 The best table for board games is not the most expensive one. It is the one that lets four to six adults sit for three hours with their elbows down, their cards hidden, the board in reach, and enough light to tell a blue cube from a purple one. Most dining tables fail at least one of those tests. This article covers what matters in a game table, with numbers where numbers help, whether you are picking one for your dining room or specifying forty for a lounge.
 
@@ -42,7 +42,7 @@ Options, from cheapest to most committed:
 
 Avoid patterned surfaces. A busy tablecloth makes it hard to find a small token, and a dark surface swallows dark pieces. Mid-tone, solid, matte.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How should a game table be lit?
 
@@ -114,4 +114,4 @@ No. A sturdy dining table, a playmat, and good light do the job for most groups.
 
 A great game table is mostly about removing friction: enough room, the right height, light you can read by, a chair you can forget about. Get those right and people stop noticing the furniture and start noticing each other. The game is the reason. The people are the point.
 
-The Ludarium is specifying tables for its Indianapolis lounge right now, and the newsletter will show what we chose and why. Subscribe for one short piece a week on the craft of bringing people to the table.
+The Ludarium is specifying tables for its Indianapolis lounge right now, and the newsletter will show what we chose and why. Subscribe for new short pieces on the craft of bringing people to the table.

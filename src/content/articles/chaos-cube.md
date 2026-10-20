@@ -40,7 +40,7 @@ A workable house rule: **allow anything, but write down how each physical or out
 
 If you want the chaos without the rules arguments, build from black-border only. There is more than enough: the Planar Chaos and Future Sight weirdness, Conspiracy's draft-matters cards, the Commander-set chaos (Grip of Chaos, Scrambleverse), the Ravnica Clue and Baldur's Gate dice, and the Portal and Starter one-offs.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How should the sections split?
 
@@ -105,4 +105,4 @@ More than half. A 360 needs about 200 ordinary creatures, removal, and lands at 
 
 Every group has a game it still talks about years later, and in our group most of them came out of this box. The game is the reason. The people are the point.
 
-One cube-building piece a week, first to subscribers of the Ludarium newsletter. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) breaks out the chaos cube a few times a year; subscribe to find out when.
+New cube-building pieces, first to subscribers of the Ludarium newsletter. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) breaks out the chaos cube a few times a year; subscribe to find out when.

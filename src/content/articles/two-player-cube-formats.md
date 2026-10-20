@@ -45,7 +45,7 @@ The remaining cards, three or four of them, go to a discard pile and are out of 
 
 **Common tweaks.** Some players use a 4x4 grid for larger picks. Some return the leftover cards to a pool for a final pick round. CubeCobra supports Grid draft directly in its playtest tools, which makes it the easiest format to try online.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How does Winchester draft work?
 
@@ -108,4 +108,4 @@ CubeCobra's playtest page offers Grid draft directly. For Winston and Winchester
 
 A cube does not need a full table to earn its keep. Some of the best evenings we have had were two players, one of these formats, and three matches with the decks swapped halfway. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for one piece a week on cube, draft formats, and the people who play them. Indianapolis readers who want the full eight-player experience can find it at [Cube Commonwealth](/articles/cube-draft-indianapolis/), where the pod is rarely short.
+Subscribe to The Ludarium newsletter for new pieces on cube, draft formats, and the people who play them. Indianapolis readers who want the full eight-player experience can find it at [Cube Commonwealth](/articles/cube-draft-indianapolis/), where the pod is rarely short.

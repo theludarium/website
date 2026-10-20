@@ -1,10 +1,10 @@
 ---
 title: "How to Run a Board Game Cafe: 12 Lessons From Owners"
 description: "How to run a board game cafe that lasts. Twelve lessons on staffing, pricing, the library, food, and community from owners who learned them the hard way."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["how to run a board game cafe", "how to open a board game cafe", "board game cafe business plan", "board game cafe startup costs", "running a game cafe", "board game cafe tips", "Game lounges and third places"]
-draft: true
+draft: false
 ---
 Learning how to run a board game cafe mostly means learning what not to do, and the owners who have lasted tend to repeat the same handful of lessons. This article collects twelve of them, drawn from the common experience of people who have opened cafes, kept them open, and in some cases closed them. None of this is a business plan. It is the stuff that does not show up in one.
 
@@ -51,7 +51,7 @@ Your menu is constrained by the fact that every customer has cards in the other 
 
 The owners who ignore this spend their Saturdays wiping sauce off Wingspan. The ones who plan for it have a short menu, a fast kitchen, and clean cards.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Lesson 7: Furniture is not where you save money
 
@@ -81,7 +81,7 @@ Measure it. How many first-timers came, how many came back, how many joined some
 
 Daytime hours are usually quiet, and a team of twelve from a nearby office will pay more for a two-hour facilitated session than a full Saturday night of covers. Companies want team-building that does not feel like team-building, and a well-run game of Pandemic or a round of The Crew shows a manager more about how their team communicates than a quarter of meetings.
 
-Build a simple offer: a facilitator, three games matched to the group's goals, a room, and food. Price it per head. The Ludarium runs this as a standalone service in Indianapolis even before its lounge opens, because the demand is there and the margins support everything else.
+Build a simple offer: a facilitator, three games matched to the group's goals, a room, and food. Price it per head. The Ludarium offers this as a standalone service in Indianapolis ahead of its lounge, because the demand is there and the margins support everything else.
 
 ## Lesson 12: You will be tempted to open too big
 

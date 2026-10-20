@@ -60,7 +60,7 @@ Dungeons & Dragons uses a d20 for most checks precisely because it is swingy. A 
 
 The rule of thumb: the more decisions a player makes between random events, the more variance the game can carry. A game with twenty decisions and one die roll feels fair. A game with one decision and twenty die rolls feels like a slot machine. Our article on [luck versus skill](/articles/luck-vs-skill-board-games/) takes the idea further.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you balance point values?
 
@@ -121,4 +121,4 @@ For each strategy or faction in a two-player game, roughly yes. In multiplayer g
 
 ## Count, then play
 
-If you are tuning a prototype and want numbers from people who have never seen it, bring it to open playtest nights at The Ludarium in Indianapolis. For one article a week on design, hosting, and play, with new pieces reaching subscribers first, subscribe to the newsletter.
+If you are tuning a prototype and want numbers from people who have never seen it, bring it to open playtest nights at The Ludarium in Indianapolis. For new articles on design, hosting, and play, with new pieces reaching subscribers first, subscribe to the newsletter.

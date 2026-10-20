@@ -70,7 +70,7 @@ The drafters will tell you, if you watch.
 - **The lane never gets drafted at all.** Check this with CubeCobra's draft history or just with your memory. A lane that has not been built in ten drafts is dead weight, and the dedicated cards are empty picks.
 - **The "lane" is just the two colors' good cards.** If Golgari in your cube means "the best black cards and the best green cards," it is not a lane. It is two colors sitting together. Decide whether it should be graveyard value, +1/+1 counters, or sacrifice, and give it the fifteen cards.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What is the right number for your cube?
 
@@ -104,4 +104,4 @@ It supports more distinct strategies, but each one is harder to assemble because
 
 A cube with eight real decks beats a cube with fourteen imaginary ones. Count the dedicated cards, watch what wheels, and cut the lane that is not being fed rather than starving the ones that are. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for a weekly piece on cube design and the groups that play it. Indianapolis drafters can test our lane math in person at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that play it. Indianapolis drafters can test our lane math in person at [Cube Commonwealth](/articles/cube-draft-indianapolis/).

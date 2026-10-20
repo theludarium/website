@@ -49,7 +49,7 @@ Examples from the first set: Advantageous Proclamation lowers your minimum deck 
 
 In a singleton cube a hidden agenda applies to one card, which is weak. Most Conspiracy cube builders skip them or run them as a fun-first slot.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which draft-matters cards belong in a regular cube?
 
@@ -107,4 +107,4 @@ One to three. Cogwork Librarian is the usual pick. Paliano, the High City and De
 
 Draft-matters cards take the part of cube night that usually happens in silence and give it rules, bluffs, and a few surprises. One Librarian in a box changes more conversations than ten new rares. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for a weekly piece on cube design and the formats around it. Indianapolis readers who want to try a Conspiracy night can find one at [Cube Commonwealth](/articles/cube-draft-indianapolis/); bring a pen.
+Subscribe to The Ludarium newsletter for new pieces on cube design and the formats around it. Indianapolis readers who want to try a Conspiracy night can find one at [Cube Commonwealth](/articles/cube-draft-indianapolis/); bring a pen.

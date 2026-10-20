@@ -55,7 +55,7 @@ The table shows a pattern. Each step took something a different genre did well a
 
 Deck builders also borrowed from Dominion's cousins. The idea of thinning a deck, buying cards that remove weaker cards, became a standard skill. So did the idea of cards that trigger when another card is played, which rewards building toward a plan rather than buying whatever looks strong.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What makes a deck builder feel good to play?
 

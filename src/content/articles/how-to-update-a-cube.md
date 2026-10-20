@@ -40,7 +40,7 @@ Signals a slot needs work:
 
 Keep a running list. A note on your phone works. When you have ten or more entries, you have an update.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you swap cards without wrecking the balance?
 
@@ -119,4 +119,4 @@ Draft three times and look at pick order, whether the card is cast, and whether 
 
 The cube your group loves is the one they know. Update it for reasons you can name, swap by slot, test before you commit, and keep the record. Everything else is tinkering. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for one piece a week on cube and the groups that play it. Indianapolis readers can argue our next changelog in person at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for new pieces on cube and the groups that play it. Indianapolis readers can argue our next changelog in person at [Cube Commonwealth](/articles/cube-draft-indianapolis/).

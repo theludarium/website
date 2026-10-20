@@ -58,7 +58,7 @@ Drafting principles:
 3. **Count the colors.** There are [twenty tiles of each color](https://www.dover.nh.gov/Assets/government/city-operations/library/borrow/library-of-things/azul-rulebook.pdf) in the bag. If you need three red for a line and red has been scarce all game, do not open a four-line in red hoping for the best.
 4. **Know what you cannot place.** Once a color is on a wall row, you cannot put that color in that row's pattern line again. Players forget this and end up with a pattern line they can never legally fill.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## When is a floor line penalty worth taking in Azul?
 
@@ -116,6 +116,6 @@ There is no published benchmark. Experienced players tend to finish well above b
 
 No. Once a color is on a wall row, that color can never go in that row's pattern line again. Plan your pattern lines around this early.
 
-## Get one game-night idea a week
+## Get new game-night ideas
 
-Azul is in the first ten games we would put on the shelf at the Indianapolis lounge, and this is the guide we would hand you with it. The Ludarium newsletter sends one piece a week: a strategy guide, a game night idea, or a note on the lounge as it comes together. [Subscribe](/newsletter) and get the next one first.
+Azul is in the first ten games we would put on the shelf at the Indianapolis lounge, and this is the guide we would hand you with it. The Ludarium newsletter sends new pieces: a strategy guide, a game night idea, or a note on the lounge as it comes together. [Subscribe](/newsletter) and get the next one first.

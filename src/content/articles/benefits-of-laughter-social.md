@@ -32,7 +32,7 @@ Several things, and some of them show up in the body.
 
 What the research does not support: claims that laughter cures disease, replaces exercise, or has large direct effects on the immune system. Treat anything in that direction with skepticism. The reliable finding is about connection.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Why do games produce so much laughter?
 
@@ -86,7 +86,7 @@ Party games like Telestrations, Wavelength, Just One, and Codenames are built fo
 
 ## Come laugh at our table
 
-The Ludarium is building a place in Indianapolis where the laughter is loud and the games are good. New articles on play and health go to subscribers first. Subscribe to the Ludarium newsletter for one piece a week on togethering for a lifetime.
+The Ludarium is building a place in Indianapolis where the laughter is loud and the games are good. New articles on play and health go to subscribers first. Subscribe to the Ludarium newsletter for new pieces on togethering for a lifetime.
 
 ## Sources
 

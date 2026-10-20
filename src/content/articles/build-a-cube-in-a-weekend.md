@@ -50,7 +50,7 @@ For the gaps, you have three options in order of speed:
 
 Buy basics while you are at it. Forty of each basic land is enough for eight drafters, and a bundle of basics is cheap. Forgetting basics is the single most common reason a first draft stalls at deckbuilding.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Sunday morning: sleeve and sort (two hours)
 
@@ -107,4 +107,4 @@ No. Powered and high-end unpowered cubes depend on expensive cards and a lot of 
 
 A cube that is drafted is a cube that improves. Get yours to the table, then let the table tell you what to change. The game is the reason. The people are the point.
 
-If you want one cube idea in your inbox each week, from skeletons to cut lists, subscribe to The Ludarium newsletter. And if you are near Indianapolis, bring the weekend cube to a Cube Commonwealth night and we will draft it with you. Details on [joining Cube Commonwealth](/articles/cube-draft-indianapolis/).
+If you want one cube idea in your inbox, from skeletons to cut lists, subscribe to The Ludarium newsletter. And if you are near Indianapolis, bring the weekend cube to a Cube Commonwealth night and we will draft it with you. Details on [joining Cube Commonwealth](/articles/cube-draft-indianapolis/).

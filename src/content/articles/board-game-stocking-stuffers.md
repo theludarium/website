@@ -52,7 +52,7 @@ Small boxes are where a lot of the best design in the hobby lives, because cards
 
 **Anomia** <!-- AFFILIATE --> (about $13 to $22; [$13.20 on sale at Walmart](https://www.walmart.com/ip/Anomia-Card-Game/33358572) and [$21.60 direct from Anomia Press](https://www.anomiapress.com/collections/anomia/products/anomia) at the time of writing). Flip cards; when your symbol matches someone else's, race to name an example of the category on their card. Chaotic, fast, and it makes smart people say "a type of fish" and then nothing.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which one for which stocking?
 
@@ -104,4 +104,4 @@ Most of the good ones are $8 to $20. Above $25 you are into gift territory, not 
 
 ## One small idea a week
 
-Subscribe to The Ludarium newsletter and we will send one short piece a week on games and the people who play them, including the pocket games we keep by the door of our Indianapolis lounge for the wait list. Short, useful, once a week.
+Subscribe to The Ludarium newsletter and we will send new short pieces on games and the people who play them, including the pocket games we keep by the door of our Indianapolis lounge for the wait list. Short, useful, once a week.

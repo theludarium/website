@@ -39,7 +39,7 @@ The Modern Horizons 2 cycle changed the free-spell conversation more than any se
 
 All five are in the current MTGO list. Each is individually a good card and together they do something specific to a cube: they make the color's best removal free, which means a tapped-out opponent is never safe. Fury in particular ended several aggro decks' viability in high-powered cubes, because the two-drop deck that was ahead on turn three loses its whole board to a spell that cost zero. If [aggro in cube](/articles/aggro-in-cube/) is a lane you care about, Fury is the first free spell to test cutting.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Family three: the zero-mana cantrips and pump
 
@@ -103,4 +103,4 @@ Yes. Paying two life is not a mana cost, so the spell can be cast with no lands 
 
 ## Count the zeros
 
-Sort your list by mana value and look at everything that can be cast for zero. If it is more than a dozen in a Legacy-band cube, you have more than you think. Cube Commonwealth drafts in Indianapolis every week and the Fury argument never quite ends; [come draft with us](/articles/cube-draft-indianapolis/) and take a side. Subscribe to The Ludarium newsletter for one cube design piece every week. The game is the reason. The people are the point.
+Sort your list by mana value and look at everything that can be cast for zero. If it is more than a dozen in a Legacy-band cube, you have more than you think. Cube Commonwealth drafts in Indianapolis every week and the Fury argument never quite ends; [come draft with us](/articles/cube-draft-indianapolis/) and take a side. Subscribe to The Ludarium newsletter for new cube design pieces. The game is the reason. The people are the point.

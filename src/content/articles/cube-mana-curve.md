@@ -50,7 +50,7 @@ The pattern repeats across every first cube we have seen, including ours.
 
 The fix for all four is the same: fill the curve top-down, not bottom-up. Choose the six-plus slot first, limit it to three or four per color, and discover you have lots of room below.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you measure your cube's curve?
 
@@ -101,4 +101,4 @@ They can run a little higher, since many are payoffs, but keep the gold section'
 
 Pick the top end first, cap it, and let the rest of the color be cheap. Your drafts will start on turn two and your six-drops will feel earned. The game is the reason. The people are the point.
 
-One cube-building piece a week, including our curve-count spreadsheet, goes out in The Ludarium newsletter; subscribe below. If you are in Indianapolis, come draft with Cube Commonwealth and see what a tight curve feels like: [how to join](/articles/cube-draft-indianapolis/).
+New cube-building pieces, including our curve-count spreadsheet, goes out in The Ludarium newsletter; subscribe below. If you are in Indianapolis, come draft with Cube Commonwealth and see what a tight curve feels like: [how to join](/articles/cube-draft-indianapolis/).

@@ -43,7 +43,7 @@ The bed is the biggest line and the most flexible.
 
 **Day-trip.** From anywhere within two hours, driving in for a day or two beats a hotel. Indianapolis locals do Gen Con this way as a matter of course; see [Gen Con for locals](/articles/gen-con-tips-for-locals/).
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you eat for four days without spending a fortune?
 
@@ -117,4 +117,4 @@ Gen Con states that prices are fixed and do not increase after the Ship to Me de
 
 ## Spend less, play more
 
-The Ludarium newsletter sends one practical piece a week on playing more for less: cheap games that last, free game nights around Indianapolis, and a Gen Con budget refresh every spring when prices post. Subscribe and keep the envelope method honest. We are building a membership game lounge in Indianapolis with the same idea at its center: pay once, play all month.
+The Ludarium newsletter sends new practical pieces on playing more for less: cheap games that last, free game nights around Indianapolis, and a Gen Con budget refresh every spring when prices post. Subscribe and keep the envelope method honest. We are building a membership game lounge in Indianapolis with the same idea at its center: pay once, play all month.

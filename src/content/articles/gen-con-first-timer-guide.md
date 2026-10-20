@@ -41,7 +41,7 @@ This is the part that confuses every first-timer, so here it is in plain terms.
 
 Before registration opens, the catalog is published and you build a wish list of events you want, up to a cap of several dozen. When registration opens, the system processes requests and puts what it can get into your cart, and you check out quickly before the hold lapses. We have a full guide to [Gen Con event registration](/articles/gen-con-event-registration-tips/) if you want to go deep.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What should a first-timer actually schedule?
 
@@ -99,4 +99,4 @@ Yes. Children 10 and under get a free Child Wristband; 11 and older need a badge
 
 Plan a little, wander a lot, and say yes when someone offers to teach you a game. The game is the reason. The people are the point.
 
-For a packing list, registration-day tips, and what to do in Indianapolis the rest of the year, subscribe to The Ludarium newsletter. One short email a week, and a seat at a table when our lounge opens downtown.
+For a packing list, registration-day tips, and what to do in Indianapolis the rest of the year, subscribe to The Ludarium newsletter. Short emails, and a seat at a table when our lounge opens downtown.

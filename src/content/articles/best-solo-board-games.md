@@ -63,7 +63,7 @@ This distinction matters for buying. A game with a bolted-on solo mode (often an
 
 If you plan to mostly play alone, favor the first list. If you want a game that works for a solo Tuesday and a four-player Saturday, the second list is where the value is.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you keep solo play from becoming isolation?
 
@@ -97,8 +97,8 @@ No. It is a hobby like puzzles or reading. It becomes a problem only if it repla
 
 Yes. Any cooperative game can be played solo by controlling multiple characters or hands. Pandemic, Spirit Island, and Gloomhaven all work this way and are commonly played solo.
 
-## Get one game-night idea a week
+## Get new game-night ideas
 
 A solo game is a fine way to spend an evening and a better way to prepare for one with other people. The game is the reason. The people are the point.
 
-The Ludarium newsletter sends one game-night idea a week, along with solo picks for the weeks in between. Subscribe, and when our Indianapolis lounge opens, bring your solo game and sit near the window.
+The Ludarium newsletter sends new game-night ideas, along with solo picks for the weeks in between. Subscribe, and when our Indianapolis lounge opens, bring your solo game and sit near the window.

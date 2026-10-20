@@ -1,10 +1,10 @@
 ---
 title: "Convention Tips for Introverts: A Pacing Plan"
 description: "Convention tips for introverts who love games and dread crowds: a four-day pacing plan, where to find quiet at Gen Con, and meeting people at the table."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Culture
 tags: ["convention tips introverts", "Gen Con introvert", "board game convention anxiety", "convention pacing", "quiet places at Gen Con", "how to enjoy a convention alone", "Conventions"]
-draft: true
+draft: false
 ---
 The best convention tips for introverts are not about being braver. They are about pacing. A gaming convention is a four-day marathon of noise, strangers, and decisions, and the people who enjoy it most are not the loudest ones. They are the ones who know when to step out, where the quiet rooms are, and how to let the game do the talking.
 
@@ -49,7 +49,7 @@ The Indiana Convention Center and the downtown hotels hide calm places if you kn
 
 Noise-cancelling headphones or earplugs change the Exhibit Hall from an assault to a walk. Wear them without apology.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you meet people without small talk?
 
@@ -113,4 +113,4 @@ No. Many attendees go solo, and the hobby's structures, from ticketed events to 
 
 ## One quiet idea a week
 
-The Ludarium newsletter sends one piece a week on playing well with people, written for those of us who like the table more than the lobby. Subscribe for the convention pacing plan each summer and a monthly list of low-key game nights around Indianapolis. The lounge we are building there will have a quiet room. We have already decided that.
+The Ludarium newsletter sends new pieces on playing well with people, written for those of us who like the table more than the lobby. Subscribe for the convention pacing plan each summer and a monthly list of low-key game nights around Indianapolis. The lounge we are building there will have a quiet room. We have already decided that.

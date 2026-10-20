@@ -39,7 +39,7 @@ Bomberman is the newest and the one most tied to the client. The October post cr
 
 Blue combo in the old sense is thinner. Time Vault is not on the [October 7 list](https://www.mtgo.com/vintage-cube-cardlist) and has been gone for years. High Tide left in October. What remains: Thassa's Oracle as a Doomsday kill (neither Demonic Consultation nor Tainted Pact is on the list); Underworld Breach with Brain Freeze and LED; Tendrils of Agony with the rituals; and Paradoxical Outcome, which returned in July 2026 to go with the artifact density.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What are the blue decks?
 

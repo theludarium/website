@@ -1,10 +1,10 @@
 ---
 title: "After Gen Con: Turn Four Days Into a Year of Game Nights"
 description: "What to do after Gen Con: beat the post-con crash, play the games you bought, stay close to people you met, and turn one weekend into a year of game nights."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Culture
 tags: ["after Gen Con", "post-con depression", "Gen Con follow up", "what to do with new board games", "starting a game group after a convention", "post-Gen Con", "Conventions"]
-draft: true
+draft: false
 ---
 The week after Gen Con has a shape. Sunday night you are tired and happy. Monday you are tired. By Wednesday there is a stack of shrink-wrapped boxes on the dining table, a phone full of photos of people whose names you half remember, and a flat feeling that the fun is over for another year.
 
@@ -41,7 +41,7 @@ A method that works:
 
 If you bought a campaign game like Gloomhaven: Jaws of the Lion <!-- AFFILIATE -->, it needs its own group and its own night. Recruit for it specifically. Our guide to [running a board game league that lasts a season](/articles/board-game-league-format/) covers how to keep a fixed group showing up.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## The first season: keep the people
 
@@ -108,4 +108,4 @@ Badge sales typically open in early February, with housing about two weeks later
 
 ## One game night a week, for a year
 
-The Ludarium newsletter sends one idea a week for the table: a game to try, a night to plan, a convention to book. Subscribe after Gen Con and by next August you will have had fifty game nights, not four days. We are building a game lounge in Indianapolis so that, for locals at least, the convention never quite ends.
+The Ludarium newsletter sends new ideas for the table: a game to try, a night to plan, a convention to book. Subscribe after Gen Con and by next August you will have had fifty game nights, not four days. We are building a game lounge in Indianapolis so that, for locals at least, the convention never quite ends.

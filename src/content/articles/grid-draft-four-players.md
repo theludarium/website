@@ -53,7 +53,7 @@ A 360 cube covers all three counts. A 540 covers four players twice. If you want
 
 The wiki also describes **discard grids**: shuffle the leftover cards and draft them as additional grids using the same rules. It reduces the number of fresh packs you need and gives late picks a second look at cards nobody wanted. We use it when the cube is a 360 and two groups are drafting from it at once.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Why does the refill rule matter so much?
 
@@ -108,4 +108,4 @@ Yes. The wiki suggests removing the basic land and one other card from a play bo
 
 Grid draft with four players is the most open conversation a cube can host. Nobody hides a pack. Everybody sees the choice. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for one format, house rule, or cube idea each week. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) runs small-table nights when the pod comes up short, and Grid is usually what we lay out.
+Subscribe to The Ludarium newsletter for one format, house rule, or cube idea. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) runs small-table nights when the pod comes up short, and Grid is usually what we lay out.

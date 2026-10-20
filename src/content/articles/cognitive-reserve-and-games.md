@@ -32,7 +32,7 @@ A 2003 paper in the New England Journal of Medicine, led by Joe Verghese and bas
 
 Three studies, three countries, the same direction. That is worth something. It is not the same as a trial.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Why can't researchers say games prevent decline?
 

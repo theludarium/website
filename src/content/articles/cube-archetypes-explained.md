@@ -55,7 +55,7 @@ Card names below are examples, not requirements. Your cube may run cheaper or mo
 | RW | Aggro | One-drops, burn, haste |
 | GU | Ramp, flash | Mana acceleration, card advantage |
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How many cards does an archetype need?
 

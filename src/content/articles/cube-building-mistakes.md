@@ -50,7 +50,7 @@ Each entry below names the mistake, how it shows up at the table, and the fix. N
 
 **The fix:** allow yourself five pet slots, label them in the primer as pet slots, and hold everything else to the standard of "would a drafter be happy to pick this at pick six." When a pet card wheels three drafts in a row, it goes back in the binder, pet slot or not.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## 6. The archetypes exist only in the owner's head
 
@@ -127,4 +127,4 @@ Usually because the cube does not signal it. Each color pair needs two or three 
 
 Every owner makes these. The good ones make them in the first month, count the results, and fix them. The game is the reason. The people are the point.
 
-The Ludarium newsletter sends one cube piece a week, including a printable version of this list to tape inside your cube box. Subscribe, and if you are in Indianapolis, bring your first cube to Cube Commonwealth and we will tell you kindly which of the ten you made: [how to join](/articles/cube-draft-indianapolis/).
+The Ludarium newsletter sends new cube pieces, including a printable version of this list to tape inside your cube box. Subscribe, and if you are in Indianapolis, bring your first cube to Cube Commonwealth and we will tell you kindly which of the ten you made: [how to join](/articles/cube-draft-indianapolis/).

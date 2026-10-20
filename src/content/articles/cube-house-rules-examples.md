@@ -56,7 +56,7 @@ A Rochester rule in origin, where the MTR forbids reviewing picks during a pack.
 
 This one is ours, adapted from team-draft conventions. It gives hate-drafting a cost, a ceremony, and a story. It also prevents the "I hate-drafted it, then I splashed it" play that irritates everyone. Some groups allow it only in team formats; we allow it once a night in any format and the table enjoys the reveal.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## During deck-building
 
@@ -139,4 +139,4 @@ More than a new player can hear in two minutes. Four to six core rules, read alo
 
 Every rule on this list exists to make the next person at the table comfortable: they know when to arrive, how long they have, what the proxy is, and what happens when time is called. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for one house rule or format a week, each one ready to paste into your primer. Indianapolis readers can see all twelve running at once at [Cube Commonwealth](/articles/cube-draft-indianapolis/), and argue about which ones to change.
+Subscribe to The Ludarium newsletter for new house rules and formats, each one ready to paste into your primer. Indianapolis readers can see all twelve running at once at [Cube Commonwealth](/articles/cube-draft-indianapolis/), and argue about which ones to change.

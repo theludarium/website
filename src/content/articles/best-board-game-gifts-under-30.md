@@ -57,7 +57,7 @@ Grouped by who you are shopping for. Prices are approximate, in US dollars, at t
 
 **Catan on the Road** <!-- AFFILIATE --> (about $8 to $10; [$9.99 at the Asmodee store](https://store.asmodee.com/products/catan-on-the-road) and [$7.99 at Miniature Market](https://www.miniaturemarket.com/Catan-On-the-Road/CN3143) at the time of writing). Not Catan. A tiny travel version with cards that captures the trading and building in fifteen minutes. A stocking-level price for a recognizable name.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which one should I buy if I know nothing about the person?
 

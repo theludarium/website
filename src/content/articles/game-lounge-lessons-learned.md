@@ -94,4 +94,4 @@ The hosts. A modest library with a warm, fast teacher beats a huge library with 
 
 We will keep this list updated, and the next version will probably be longer. The game is the reason. The people are the point. The mistakes are the tuition.
 
-Follow the build by subscribing to the newsletter. One email a week, including the ones where we admit something did not work, and the first invitation when the Indianapolis lounge opens its door.
+Follow the build by subscribing to the newsletter. Emails, including the ones where we admit something did not work, and the first invitation when the Indianapolis lounge opens its door.

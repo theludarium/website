@@ -65,7 +65,7 @@ Within those three to five, aim for a spread:
 
 For Boros aggro that might be Figure of Destiny as the hook, Boros Charm and Lightning Helix as the floor, and something like Forth Eorlingas! or Winota, Joiner of Forces as the label. For Golgari it might be Grist as the hook, Abrupt Decay as the floor, and Deathrite Shaman or Binding the Old Gods as the label depending on whether the plan is graveyard or value.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Can a cube signpost without gold cards?
 
@@ -111,4 +111,4 @@ Yes. Cards like Reanimate, Young Pyromancer, and Lotus Cobra signal a plan witho
 
 A signpost is the cube talking to the drafter. Pick cards that say one clear thing, make sure the thing they say is true, and let people find the decks you built for them. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for one piece a week on cube design and the groups that draft it. If you are near Indianapolis, come read our signposts in person at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that draft it. If you are near Indianapolis, come read our signposts in person at [Cube Commonwealth](/articles/cube-draft-indianapolis/).

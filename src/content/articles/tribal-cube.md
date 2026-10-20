@@ -62,7 +62,7 @@ A house guideline: **8 to 12 changelings in a 360,** each costed and sized so th
 
 Also watch the "Kindred" or tribal-type noncreature cards (Kindred Charge, Crib Swap, Nameless Inversion). They count toward the type for cards that care, and they are good removal on their own. Three or four earn a slot.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you keep removal and non-tribal cards from drowning the theme?
 
@@ -108,4 +108,4 @@ Elves, Goblins, Zombies, Merfolk, Spirits, Vampires, and Soldiers or Knights all
 
 Tribal cubes are the cubes that newer drafters love first, because the box tells you what to do. The game is the reason. The people are the point.
 
-Get one piece a week like this by subscribing to the Ludarium newsletter, and if you are near Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) would be glad to draft your tribal list.
+Get new pieces like this by subscribing to the Ludarium newsletter, and if you are near Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) would be glad to draft your tribal list.

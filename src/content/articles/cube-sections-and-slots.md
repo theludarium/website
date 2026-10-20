@@ -53,7 +53,7 @@ Gold is where slot design matters most, because gold cards are the loudest signa
 
 That structure keeps every pair legible. When a pair feels unsupported, the slot list tells you whether it is missing a signpost or just has weak payoffs, which are different fixes. [How big should the gold section be](/articles/cube-gold-section/) covers the count question in full.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What columns does the spreadsheet need?
 
@@ -124,4 +124,4 @@ Slots deliberately left without a fixed role so the owner can test new cards or 
 
 ## Keep building
 
-The newsletter sends one cube design piece a week, and subscribers get our current slot sheet as a copyable template. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) drafts the cube that sheet describes, and you are welcome at the table.
+The newsletter sends new cube design pieces, and subscribers get our current slot sheet as a copyable template. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) drafts the cube that sheet describes, and you are welcome at the table.

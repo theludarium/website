@@ -48,7 +48,7 @@ Every card above is strong. Several are in the current MTGO Vintage Cube. The qu
 
 The MTGO Vintage Cube designers named this category directly in their [May 2026 update](https://www.mtgo.com/news/sos-vintage-cube-update): the four- and five-color charms and value piles "might not necessarily clear the competitive bar fully," they wrote, but they are "of the fun variety." That is the Vintage Cube, the most power-focused cube in the game, saying out loud that some slots are for fun.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which cards are both?
 
@@ -104,4 +104,4 @@ Both, and its designers say so. The May 2026 update added multicolor charms it d
 
 ## Tell us the card
 
-Every cube owner has one card they keep for the stories and one they cut for the table's sake. Bring both to a Cube Commonwealth draft in Indianapolis and make the case; [here is how to join](/articles/cube-draft-indianapolis/). Subscribe to The Ludarium newsletter for one cube design piece every week. The game is the reason. The people are the point.
+Every cube owner has one card they keep for the stories and one they cut for the table's sake. Bring both to a Cube Commonwealth draft in Indianapolis and make the case; [here is how to join](/articles/cube-draft-indianapolis/). Subscribe to The Ludarium newsletter for new cube design pieces. The game is the reason. The people are the point.

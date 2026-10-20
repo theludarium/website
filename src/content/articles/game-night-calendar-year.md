@@ -59,7 +59,7 @@ The first evenings warm enough to open the door. Move the tables to a patio, a y
 
 Wedding season, graduation season, and the month when attendance gets unpredictable. Two-player tables handle an odd count better than anything else: set up five of them, rotate opponents every game, and nobody plays the same person twice. Patchwork <!-- AFFILIATE -->, 7 Wonders Duel <!-- AFFILIATE -->, Hive, Jaipur.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ### July: Big-Box Party Night
 

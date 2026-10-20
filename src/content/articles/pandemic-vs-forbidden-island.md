@@ -50,7 +50,7 @@ Forbidden Island on the easiest water level is very winnable, which is the point
 
 Pandemic with four Epidemics is a fair fight for a new group. Five is hard. Six is a serious problem that experienced players lose regularly. The map is big enough that you cannot be everywhere, the Epidemic reshuffle makes recently hit cities hit again, and an outbreak chain can end a game in one card flip. The [Pandemic strategy guide](/articles/pandemic-strategy/) exists because people need one.
 
-*If this is useful, the newsletter sends one comparison like it every week.*
+*If this is useful, the newsletter sends more comparisons like it.*
 
 ## Which one has the quarterbacking problem?
 
@@ -114,4 +114,4 @@ About ten minutes to explain and one game to understand. Most groups feel comfor
 
 ## One cooperative idea a week
 
-The game is the reason. The people are the point. Both of these boxes work because they make four people lean in over the same problem and talk it through. If you want more games that do that, subscribe to The Ludarium newsletter: one piece a week on playing together, with news from the Indianapolis lounge as it opens.
+The game is the reason. The people are the point. Both of these boxes work because they make four people lean in over the same problem and talk it through. If you want more games that do that, subscribe to The Ludarium newsletter: new pieces on playing together, with news from the Indianapolis lounge as it opens.

@@ -55,7 +55,7 @@ Good module ideas, each with the effect it has:
 
 The test for any module: can you describe its effect in one sentence, and does it keep the cube's proportions? A module that is all four-drops and no lands breaks whichever configuration it joins.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you keep the proportions when swapping?
 
@@ -108,4 +108,4 @@ Yes. A low-power configuration is often a marked subset of the core's strongest 
 
 ## Keep playing
 
-For one cube design piece a week, including the modules we have built and the ones we retired, subscribe to The Ludarium newsletter. And if you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) runs more than one configuration, and you are welcome to draft whichever is on the table.
+For new cube design pieces, including the modules we have built and the ones we retired, subscribe to The Ludarium newsletter. And if you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) runs more than one configuration, and you are welcome to draft whichever is on the table.

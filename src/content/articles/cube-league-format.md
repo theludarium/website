@@ -59,7 +59,7 @@ Because it is the smallest change that fixes the attendance problem, and we test
 
 Best-N-of-M sits in the right place. There is a reason to come (more nights, more chances at a good one) and no penalty for not coming. Five of eight means attending about 60 percent of the season gives you a full score. That is roughly what a committed adult with a life can manage.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Does a league change how people draft?
 
@@ -107,4 +107,4 @@ Their results count for their opponents from night one, but their own ranking st
 
 ## Pull up a chair
 
-The first relaunched season of Cube Commonwealth is about getting the Indianapolis night back to a full table; the league follows. Join the Discord <!-- EDITOR: add Discord invite link --> to be there for both. If you run a night of your own and want a season format that fits around real lives, subscribe to The Ludarium newsletter: one piece like this a week, and first word on the lounge. The game is the reason. The people are the point.
+The first relaunched season of Cube Commonwealth is about getting the Indianapolis night back to a full table; the league follows. Join the Discord <!-- EDITOR: add Discord invite link --> to be there for both. If you run a night of your own and want a season format that fits around real lives, subscribe to The Ludarium newsletter: new pieces like this, and first word on the lounge. The game is the reason. The people are the point.

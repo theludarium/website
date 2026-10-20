@@ -50,7 +50,7 @@ Here is where people argue, so let me lay out the strongest version of each side
 
 My own view is that the second case is stronger for reserved-list cards and casual play, and the first case is stronger when someone proxies a current-set card to avoid buying it from the store they play at. Proxying a Mox hurts nobody. Proxying the new mythic the store has on its shelf is a different thing, even if the rules treat them the same.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Where are proxies welcome, and where are they not?
 
@@ -105,7 +105,7 @@ Yes, always, before the game starts. Honesty is the entire difference between a 
 
 ## Play with what you have
 
-Whether your cube is made of original cards or careful printouts, the evening is the thing. The Ludarium newsletter sends one piece a week on games that bring people to the table, cube included. Cube drafters of every budget are welcome at Cube Commonwealth, our drafting community, and the Indianapolis lounge will have a cube on hand for anyone who wants to sit down and draft.
+Whether your cube is made of original cards or careful printouts, the evening is the thing. The Ludarium newsletter sends new pieces on games that bring people to the table, cube included. Cube drafters of every budget are welcome at Cube Commonwealth, our drafting community, and the Indianapolis lounge will have a cube on hand for anyone who wants to sit down and draft.
 
 The game is the reason. The people are the point.
 

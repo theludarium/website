@@ -1,10 +1,10 @@
 ---
 title: "The Rondel Mechanic: Every Turn a Timing Puzzle"
 description: "The rondel mechanic explained. How the action wheel in Antike, Imperial and Navegador works, why every turn becomes a timing puzzle, and games that use it."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Guides
 tags: ["rondel mechanic", "what is a rondel", "rondel board games", "Mac Gerdts rondel", "action selection wheel", "Imperial board game rondel", "Glossary"]
-draft: true
+draft: false
 ---
 The rondel mechanic is an action-selection system where the available actions are printed around a wheel, and you choose your action by moving a marker clockwise around it. You can move a short distance for free. Going further costs you. Because you cannot move backward, the action you take now determines which actions are cheap next turn, and the one you just left is the farthest away. Every turn becomes a question of sequence as much as choice.
 
@@ -44,7 +44,7 @@ Three things fall out of the rules, and together they give rondel games their ch
 
 The overall feel is of a game with momentum. Your marker is always moving forward. You cannot stall, cannot pass, cannot sit on a good action. The wheel turns and you turn with it.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which games use a rondel or something like it?
 
@@ -110,4 +110,4 @@ Navegador is the most approachable of the Gerdts games. Imperial is the deepest 
 
 The rondel teaches something that applies beyond games: what you just did shapes what you can afford to do next. You cannot stand still, and you cannot go back. All you can do is pick a good path and keep moving around the table with the people beside you. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter and we will send one piece a week on the mechanics and games that make a table worth sitting at. Our membership lounge is coming to Indianapolis, and Imperial will be on the shelf.
+Subscribe to The Ludarium newsletter and we will send new pieces on the mechanics and games that make a table worth sitting at. Our membership lounge is coming to Indianapolis, and Imperial will be on the shelf.

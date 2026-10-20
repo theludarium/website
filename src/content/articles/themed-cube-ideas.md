@@ -41,7 +41,7 @@ There is a design pleasure too. Choosing the best 360 cards is a research proble
 | Budget or rarity | Pauper, peasant | Cheap, teachable | Needs careful aggro support |
 | Novelty rule | All three-drops | A good night | Not a weekly cube |
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What design rules keep a constraint fun?
 
@@ -94,4 +94,4 @@ A pauper or peasant cube can. Most other themes are better as a second box that 
 
 A standard cube is a shared language. A themed cube is a dialect, and it says something about the person who built it. The best ones get pulled out on a slow night and become the thing people ask about. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for one piece a week on cube design and the people who draft it. Indianapolis readers who have a themed cube of their own are welcome to bring it to [Cube Commonwealth](/articles/cube-draft-indianapolis/); we will draft anything once.
+Subscribe to The Ludarium newsletter for new pieces on cube design and the people who draft it. Indianapolis readers who have a themed cube of their own are welcome to bring it to [Cube Commonwealth](/articles/cube-draft-indianapolis/); we will draft anything once.

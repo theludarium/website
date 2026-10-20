@@ -1,10 +1,10 @@
 ---
 title: "Gen Con With Kids: What Works and What Doesn't"
 description: "Gen Con with kids: the Child Wristband rules, the Kid Activities area, and how long a six-year-old lasts in the Exhibit Hall. What works, what to skip."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Culture
 tags: ["Gen Con with kids", "Gen Con family", "Gen Con child wristband", "Gen Con kids events", "taking children to Gen Con", "Gen Con family tips", "Conventions"]
-draft: true
+draft: false
 ---
 Gen Con with kids is a different convention from Gen Con without them. The badge rules change, the schedule shrinks, and the Exhibit Hall becomes a place you pass through rather than live in. Done well, it is one of the best family weekends in Indianapolis. Done badly, it is a long, loud, expensive meltdown with dice.
 
@@ -46,7 +46,7 @@ More than first-timers expect.
 - **Costumes.** Children love the cosplay. Budget time to stop and look, and teach the rule: ask before photographing.
 - **The outdoor Block Party.** Gen Con closes [South Street, just south of the convention center](https://gencon.zendesk.com/hc/en-us/articles/16797680652692-Gen-Con-Block-Party), for music, food trucks, and more, running from 9 a.m. to 10 p.m. Thursday through Saturday. For small kids, it is often the highlight.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you plan the day?
 
@@ -119,6 +119,6 @@ Thursday or Sunday. Both are quieter than Friday and Saturday, and Sunday single
 
 Open-gaming areas and hotel lobbies are usually calmer than the Exhibit Hall. Plan a break outside the building every two to three hours.
 
-## Parents, we send one idea a week
+## Parents, we send new ideas
 
-The Ludarium newsletter sends a short piece each week on playing together across ages, including a yearly family-day plan for Gen Con. Subscribe, and when our Indianapolis lounge opens, bring the kids on a Saturday morning.
+The Ludarium newsletter sends more on playing together across ages. Subscribe, and when our Indianapolis lounge opens, bring the kids on a Saturday morning.

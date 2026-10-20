@@ -62,7 +62,7 @@ The post groups rows by color. Pairs in the same row are not necessarily direct 
 | Gold | Avatar of Burgeoning Echoes | Arwen, Mortal Queen | Landfall reward |
 | Gold | Brightglass Gearhulk | Hogaak, Arisen Necropolis | Tutors five different combo pieces |
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which cuts matter most?
 

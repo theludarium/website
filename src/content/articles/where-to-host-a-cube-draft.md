@@ -44,7 +44,7 @@ Our best stretch was at a brewery, and we would start there again. <!-- EDITOR: 
 
 The failure mode is the venue getting busier. The slow Tuesday you were offered becomes trivia night, and now you are competing for tables. Keep the owner's number and have a conversation the moment you notice it.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do libraries and community rooms work?
 
@@ -110,4 +110,4 @@ Eight, comfortably, at a dining table. Beyond that, move to a public venue.
 
 ## Pull up a chair
 
-Cube Commonwealth is drafting again in Indianapolis. The venue and night are in the Discord <!-- EDITOR: add Discord invite link and venue -->; join and watch for the weekly post. If you are hunting for a room of your own, subscribe to The Ludarium newsletter for one piece like this every week on running a game community, and for the day the lounge opens and the venue question answers itself. The game is the reason. The people are the point.
+Cube Commonwealth is drafting again in Indianapolis. The venue and night are in the Discord <!-- EDITOR: add Discord invite link and venue -->; join and watch for the weekly post. If you are hunting for a room of your own, subscribe to The Ludarium newsletter for new pieces like this on running a game community, and for the day the lounge opens and the venue question answers itself. The game is the reason. The people are the point.

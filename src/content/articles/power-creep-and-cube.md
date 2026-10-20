@@ -34,7 +34,7 @@ The Vintage Cube is the clearest record because its designers explain every chan
 
 The lesson for paper owners is not to copy the cuts. It is that the reference cube's floor has risen enough that the designers are trimming famous cards for being too slow. If your cube's floor has not moved, your cube is now a different band than it was, whether or not you updated it. [How MTGO Vintage Cube updates work](/articles/how-mtgo-vintage-cube-updates-work/) covers reading those posts in detail.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How does creep show up in a paper cube?
 
@@ -92,4 +92,4 @@ Less, because the commons ceiling moves slowly. It still happens; the Modern Hor
 
 ## Audit the floor, not just the ceiling
 
-Open your list, sort by year of first printing, and look at the oldest fifty cards. If most of them would not make the cube today, the creep has already happened. Cube Commonwealth runs that audit on its Indianapolis cube and the arguments it starts are the good kind; [join a draft](/articles/cube-draft-indianapolis/) and bring your list. Subscribe to The Ludarium newsletter for one cube design piece every week. The game is the reason. The people are the point.
+Open your list, sort by year of first printing, and look at the oldest fifty cards. If most of them would not make the cube today, the creep has already happened. Cube Commonwealth runs that audit on its Indianapolis cube and the arguments it starts are the good kind; [join a draft](/articles/cube-draft-indianapolis/) and bring your list. Subscribe to The Ludarium newsletter for new cube design pieces. The game is the reason. The people are the point.

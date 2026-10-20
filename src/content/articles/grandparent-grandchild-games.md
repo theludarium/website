@@ -44,7 +44,7 @@ Euchre, in the Midwest, is the game that teenagers suddenly want to learn around
 
 For a longer list for the younger years, [games to play with grandparents](/articles/games-to-play-with-grandparents/) is written from the child's side.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you make the game a habit instead of an event?
 
@@ -97,4 +97,4 @@ Research associates regular social contact and non-digital game play with better
 
 ## One game a week, for a lifetime
 
-The Ludarium is building a game lounge in Indianapolis where a grandparent and a grandchild can find a table any afternoon. If you want one idea a week for keeping the generations at the same table, subscribe to the Ludarium newsletter. New pieces on play and longevity go to subscribers first.
+The Ludarium is building a game lounge in Indianapolis where a grandparent and a grandchild can find a table any afternoon. If you want new ideas for keeping the generations at the same table, subscribe to the Ludarium newsletter. New pieces on play and longevity go to subscribers first.

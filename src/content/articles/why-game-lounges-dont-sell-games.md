@@ -103,4 +103,4 @@ It should not be. The store sells games, the lounge is where people play them we
 
 Every decision like this one is a bet, and we will report on how it pays off or does not. The game is the reason. The people are the point. The shelf is somebody else's job.
 
-Follow the build by subscribing to the newsletter. One email a week, the Indianapolis store wall when we publish it, and the first word when the lounge opens.
+Follow the build by subscribing to the newsletter. Emails, the Indianapolis store wall when we publish it, and the first word when the lounge opens.

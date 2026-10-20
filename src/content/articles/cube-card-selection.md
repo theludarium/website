@@ -46,7 +46,7 @@ A role-first list also exposes gaps you cannot see any other way. If your black 
 
 The question to ask is not "is this card good?" It is "which of my decks wants this card, and what does it replace?"
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Is the card fun to play against?
 
@@ -110,4 +110,4 @@ When it is picked late three drafts running, or when it is picked early and neve
 
 A cube list is never finished, and it should not be. It is a running argument between what is powerful and what makes eight people glad they came out. Choose for the table in front of you. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for one piece a week on cube design and the groups that play it. Indianapolis readers can draft our list in person at [Cube Commonwealth](/articles/cube-draft-indianapolis/), and argue with us about what should be in it.
+Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that play it. Indianapolis readers can draft our list in person at [Cube Commonwealth](/articles/cube-draft-indianapolis/), and argue with us about what should be in it.

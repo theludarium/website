@@ -72,7 +72,7 @@ If you do seed, use the standard pattern: the top seed plays the bottom seed, se
 
 Odd numbers get a bye: one player skips the first round. Give the bye to the top seed, or draw it randomly. In Swiss, the bye counts as a win for pairing purposes.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you handle tiebreaks?
 
@@ -127,6 +127,6 @@ Not for single elimination with eight or fewer players; a sheet of paper works. 
 
 ## Get the next format guide first
 
-Tournaments are one of the recurring formats we will run at The Ludarium in Indianapolis, and the bracket tool exists because we needed it ourselves. Subscribe to the newsletter for one programming idea a week: formats, game picks, and the small rules that keep a room happy.
+Tournaments are one of the recurring formats we will run at The Ludarium in Indianapolis, and the bracket tool exists because we needed it ourselves. Subscribe to the newsletter for new programming ideas: formats, game picks, and the small rules that keep a room happy.
 
 The game is the reason. The people are the point.

@@ -53,7 +53,7 @@ Every player at a Cube draft starts with the same thing: a seat and a pack. Nobo
 
 Commander's chronic problem is the power mismatch. Four people sit down with decks built to different budgets and different intentions, and someone's deck is either far too strong or far too weak for the table. The community has built a lot of etiquette around it, a conversation before the game about what everyone is playing, a [five-level bracket system](https://magic.wizards.com/en/formats/commander) from the publisher, and it still goes wrong regularly. A single over-tuned deck can make an evening miserable for three people.
 
-*If this is useful, the newsletter sends one comparison like it every week.*
+*If this is useful, the newsletter sends more comparisons like it.*
 
 ## Which one has better social dynamics?
 
@@ -119,4 +119,4 @@ Anything from [under $100 for a pauper Cube](https://draftsim.com/pauper-cube-mt
 
 ## Draft with us, in print first
 
-The game is the reason. The people are the point. Cube Commonwealth has drafted weekly for years because the people kept coming back, and the format just gave them a reason. For one piece a week on playing together, including Cube and Commander nights at the Indianapolis lounge when it opens, subscribe to The Ludarium newsletter.
+The game is the reason. The people are the point. Cube Commonwealth has drafted weekly for years because the people kept coming back, and the format just gave them a reason. For new pieces on playing together, including Cube and Commander nights at the Indianapolis lounge when it opens, subscribe to The Ludarium newsletter.

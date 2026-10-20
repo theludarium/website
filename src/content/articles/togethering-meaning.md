@@ -99,4 +99,4 @@ Socializing usually means standing, small talk, and a party. Togethering means s
 
 ## Follow the build
 
-Every article in this series comes back to the word, because every decision in the business does. If you want to see whether we live up to it, follow the build. The newsletter goes out once a week, and it is where we will say, first, when there is a table in Indianapolis with your name on it.
+Every article in this series comes back to the word, because every decision in the business does. If you want to see whether we live up to it, follow the build. The newsletter is where we will say, first, when there is a table in Indianapolis with your name on it.

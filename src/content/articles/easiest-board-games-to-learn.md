@@ -93,7 +93,7 @@ Compare that to the usual approach: ten minutes of rules, every exception covere
 
 "I see a hidden target on this dial, I give you a clue on the spectrum, and your team guesses where the target is." <!-- AFFILIATE --> Add later: the left-right bonus guess for the other team. Optional for the first few rounds.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you teach the rest without a rulebook?
 
@@ -131,4 +131,4 @@ No. Hive, Azul, and Cascadia are all easy to learn and played seriously by peopl
 
 ## One sentence a week is all it takes
 
-The Ludarium newsletter sends one short piece each week on what to play and how to teach it well, with the one-sentence version for every game we recommend. Indianapolis readers will hear first when the lounge opens its doors. The game is the reason. The people are the point. Subscribe and start the next night in one sentence.
+The Ludarium newsletter sends new short pieces on what to play and how to teach it well, with the one-sentence version for every game we recommend. Indianapolis readers will hear first when the lounge opens its doors. The game is the reason. The people are the point. Subscribe and start the next night in one sentence.

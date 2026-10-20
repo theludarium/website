@@ -40,7 +40,7 @@ Walk into any Indianapolis store on a given night and you will most likely find 
 
 Commander is the right first night for most people because the format is casual by design and a stranger's table will usually make room. Games run an hour or more, so budget the evening, and bring a preconstructed deck if you do not own one; precons are legal, common, and nobody will think less of you. Draft nights are the other good entry point because everyone starts with the same unopened packs, which levels the table in a way constructed formats cannot. Competitive constructed events exist, but they are the minority of what the city plays on a weeknight. If you have never played Magic at all, read our piece on [how to teach Magic](/articles/how-to-teach-magic-the-gathering/) first, or ask the store which night is for beginners.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Where can you play cube draft in Indianapolis?
 
@@ -88,4 +88,4 @@ Yes, especially Commander. Tell the staff you are new; most stores will seat you
 
 Indianapolis has a Magic table for almost every night of the week, and a cube community for the nights the stores do not cover. The game is the reason. The people are the point.
 
-For the next open Cube Commonwealth draft, the verified store list as it changes, and first word on The Ludarium's lounge in Indianapolis, subscribe to the newsletter. One short email a week.
+For the next open Cube Commonwealth draft, the verified store list as it changes, and first word on The Ludarium's lounge in Indianapolis, subscribe to the newsletter. Short emails.

@@ -47,7 +47,7 @@ The key number is the fifteen minutes for rules. Do not front-load a rules lectu
 
 If the night is running long, the GM cuts the complication short, not the climax. Players forgive a skipped trap. They do not forgive missing the ending.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What makes a good one-shot adventure?
 
@@ -108,4 +108,4 @@ Yes. Experienced groups use them to try new systems, fill in when a regular play
 
 ## Try one this month
 
-The full adventure PDFs behind our [RPG Demo Library](/rpg-demo-library/) follow this template: pre-made characters, a one-sentence premise, and a three-hour shape that finishes. Subscribe to the newsletter to get them, plus one new article a week on getting people around a table. If you are in Indianapolis, come run one at the lounge.
+The full adventure PDFs behind our [RPG Demo Library](/rpg-demo-library/) follow this template: pre-made characters, a one-sentence premise, and a three-hour shape that finishes. Subscribe to the newsletter to get them, plus new articles on getting people around a table. If you are in Indianapolis, come run one at the lounge.
