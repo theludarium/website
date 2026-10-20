@@ -7,6 +7,7 @@
 // gets a canonical URL, share tags, the site's analytics snippet, and a slim
 // Ludarium bar, so it ranks, is counted, and links home.
 import { execSync } from 'node:child_process';
+import { createHash } from 'node:crypto';
 import fs from 'node:fs';
 import path from 'node:path';
 
@@ -60,6 +61,9 @@ function copyLibrary() {
   fetchLibrary();
   fs.mkdirSync(OUT, { recursive: true });
   for (const file of ['store.js', 'buy.js']) fs.copyFileSync(path.join(SRC, file), path.join(OUT, file));
+  const versions = Object.fromEntries(
+    ['store', 'buy'].map((name) => [name, createHash('sha256').update(fs.readFileSync(path.join(SRC, `${name}.js`))).digest('hex').slice(0, 10)]),
+  );
   fs.cpSync(path.join(SRC, 'games'), path.join(OUT, 'games'), { recursive: true });
 
   const nav = bar();
@@ -85,6 +89,10 @@ function copyLibrary() {
       BAR_CSS,
     ].join('\n');
     html = html.replace('</head>', `${head}\n</head>`).replace(/<body([^>]*)>/, `<body$1>\n${nav}`);
+    // Load store.js and buy.js with a version tag from their content, so a
+    // price or checkout change reaches every visitor at once instead of
+    // waiting for a browser's cached copy to expire.
+    html = html.replace(/(src="\.\.\/\.\.\/(store|buy)\.js)"/g, (_, src, name) => `${src}?v=${versions[name]}"`);
     fs.writeFileSync(file, html);
   }
   console.log(`RPG Demo Library: copied ${games.length} demos into ${OUT}/games/`);
