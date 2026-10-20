@@ -1,10 +1,10 @@
 ---
 title: "Board Games for 5-Year-Olds That Adults Will Enjoy Too"
 description: "Board games for 5 year olds that a grown-up can play without faking it. Ten real picks with play times, what a five-year-old can handle, and what to skip."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Night
 tags: ["board games for 5 year olds", "best board games for preschoolers", "kindergarten board games", "first board games for kids", "games for 5 year olds and parents", "HABA games", "Family and intergenerational play"]
-draft: true
+draft: false
 ---
 The best board games for 5 year olds give the child a real decision every turn and give the adult something to think about besides waiting. Outfoxed!, Dragomino, Rhino Hero, My First Castle Panic, and Animal Upon Animal all do that. They play in fifteen to twenty minutes, nobody needs to read, and a parent on the third play of the evening is still choosing rather than going through the motions.
 

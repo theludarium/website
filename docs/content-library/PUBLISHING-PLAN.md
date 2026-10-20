@@ -83,7 +83,7 @@ Status on 2026-10-19: 21 published at launch, 320 drafts.
 - `why-friendships-fade-with-age`: Why Friendships Fade With Age, and the Habit That Fixes It
 - `why-game-night-memories-last`: Benefits of Playing Board Games With Friends
 
-## Batch 4: Every kind of table (24)
+## Batch 4: Every kind of table (24) (published 2026-10-20)
 
 - `best-family-board-games`: Best Family Board Games for People Tired of Monopoly
 - `best-solo-board-games`: Best Solo Board Games: Playing Alone, Not Lonely

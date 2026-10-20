@@ -1,10 +1,10 @@
 ---
 title: "Games for People Who Don't Like Games"
 description: "Games for people who don't like games: what they really dislike, from long rules to losing to being watched, and the games that sidestep each objection."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Night
 tags: ["games for people who don't like games", "board games for non gamers", "games for reluctant players", "easy party games", "games for people who hate board games", "getting someone to play a game", "Who it's for"]
-draft: true
+draft: false
 ---
 Choosing games for people who don't like games starts with a question most hosts skip: what exactly do they not like? Almost nobody dislikes the whole category. They dislike one specific thing, usually from a bad experience: a two-hour Monopoly grudge match, a rules lecture, a know-it-all brother-in-law, or a game that made them look dumb in front of people. Find the thing, and there is a game that avoids it.
 

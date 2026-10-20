@@ -1,10 +1,10 @@
 ---
 title: "Codenames Team Building: What One Game Reveals"
 description: "Codenames team building works because 15 minutes of clue-giving shows how your team really talks. What to watch for, how to run a session, and what to do next."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["Codenames team building", "Codenames at work", "team communication exercise", "Codenames rules", "communication games for teams", "office icebreaker games", "Games for the workplace"]
-draft: true
+draft: false
 ---
 Codenames team building works for a simple reason: the game is nothing but communication, stripped of everything else. One person gives a one-word clue. Their teammates interpret it. Either the shared understanding was there or it was not, and everyone finds out in about ten seconds.
 

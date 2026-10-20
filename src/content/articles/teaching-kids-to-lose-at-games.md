@@ -1,10 +1,10 @@
 ---
 title: "Teaching Kids to Lose at Games (and Win) Gracefully"
 description: "Teaching kids to lose at games without tears or tantrums. What to say, which games to pick, and how to make winning gracefully part of the lesson too."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Night
 tags: ["teaching kids to lose at games", "sore loser child", "good sportsmanship for kids", "how to handle a child who cries when they lose", "kids board games losing", "gracious winner", "Family and intergenerational play"]
-draft: true
+draft: false
 ---
 Teaching kids to lose at games works best when losing is frequent, small, and followed immediately by another chance. Short games with plenty of luck, played several times in a row, give a child a dozen low-stakes losses a month. That volume of practice, plus a parent who models the behavior out loud, does more than any talk about sportsmanship ever will.
 

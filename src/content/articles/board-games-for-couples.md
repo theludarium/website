@@ -1,10 +1,10 @@
 ---
 title: "Board Games for Couples: Beyond the Two-Player Box"
 description: "The best board games for couples, sorted by the kind of evening you want: quiet, competitive, cooperative, or shared with friends. Plus how to pick fairly."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Night
 tags: ["board games for couples", "two player board games", "couples game night", "cooperative games for couples", "best games for two", "date night board games", "Who it's for"]
-draft: true
+draft: false
 ---
 The best board games for couples are not always the ones with "2 players" printed on the box. The right game depends on what kind of evening you want: a quiet half hour before bed, a real contest, a shared problem to solve, or a game that still works when another couple comes over. This guide sorts games by that question first, and by player count second.
 

@@ -1,10 +1,10 @@
 ---
 title: "Best Solo Board Games: Playing Alone, Not Lonely"
 description: "The best solo board games, from 15-minute puzzles to months-long campaigns, and why playing alone can feed your social life instead of quietly replacing it."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Night
 tags: ["solo board games", "single player board games", "best solo games", "solo mode board games", "games to play alone", "solitaire board games", "Who it's for"]
-draft: true
+draft: false
 ---
 Solo board games have gone from an afterthought to a design priority. Most new strategy games now ship with a solo mode, and a growing number are built for one player first. This guide covers the best of them, sorted by how much time you have, and it takes on the question underneath the search: whether playing alone is a retreat from people or a way back toward them.
 

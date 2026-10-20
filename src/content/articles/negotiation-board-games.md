@@ -1,10 +1,10 @@
 ---
 title: "Negotiation Board Games for Sales Teams"
 description: "Negotiation board games give sales teams real practice at reading people, making offers, and knowing when to walk away. Seven picks and how to run each one."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["negotiation board games", "sales team training games", "negotiation practice exercises", "trading board games", "sales kickoff activities", "bluffing games for work", "Games for the workplace"]
-draft: true
+draft: false
 ---
 Negotiation board games put a sales team through dozens of deals in an evening, each one with a counterpart who has real incentives and a real memory. That is more live reps than most training programs deliver in a quarter. The deals are for sheep and ore rather than annual contracts, but the skills are the same: read the other side, anchor well, know your walkaway, and do not poison the next deal to win this one.
 

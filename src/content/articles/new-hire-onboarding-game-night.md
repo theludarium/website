@@ -1,10 +1,10 @@
 ---
 title: "New Hire Onboarding Activities: Try a Game Night"
 description: "New hire onboarding activities rarely include a game night, but they should. It does what the welcome lunch cannot: real conversations with new colleagues."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["new hire onboarding activities", "onboarding game night", "new employee welcome ideas", "first week onboarding ideas", "onboarding icebreakers", "helping new hires make friends", "Games for the workplace"]
-draft: true
+draft: false
 ---
 Most new hire onboarding activities fail at the one thing that predicts whether someone stays: helping them know people. The welcome lunch is awkward. The buddy program depends on the buddy. The all-hands introduction lasts eleven seconds. A game night, done right, gives a new hire an hour of real conversation with a dozen colleagues before the end of week one.
 

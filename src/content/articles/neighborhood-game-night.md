@@ -1,10 +1,10 @@
 ---
 title: "How to Start a Neighborhood Game Night"
 description: "How to start a neighborhood game night: who to invite, what to say on the flyer, which games work for strangers, and how to turn one evening into a habit."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Night
 tags: ["neighborhood game night", "how to meet neighbors", "block game night", "games for neighbors", "community game night", "getting to know neighbors", "Who it's for"]
-draft: true
+draft: false
 ---
 A neighborhood game night is the lowest-stakes way to turn the people on your street from faces into names. You do not need a big house, a game collection, or any hosting talent. You need a date, a short invitation, three forgiving games, and the willingness to do it a second time when the first one is awkward. This article walks through each of those.
 

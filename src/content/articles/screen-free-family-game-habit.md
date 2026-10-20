@@ -1,10 +1,10 @@
 ---
 title: "Screen-Free Saturday: Build a Family Game Habit"
 description: "Screen free family activities that stick: how to build a weekly family game habit, which games to start with, and the simple house rules that keep it going."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Night
 tags: ["screen free family activities", "family game night ideas", "how to start family game night", "screen free weekend", "reduce kids screen time", "weekly family game night", "Family and intergenerational play"]
-draft: true
+draft: false
 ---
 The screen free family activities that last are the ones with a fixed time, a low bar, and a reason to come back. A weekly game hour does all three. Same morning, same table, games that take under thirty minutes, phones in a basket in another room. Families who try it for six weeks tend to keep it, because by week six the kids are asking for it.
 

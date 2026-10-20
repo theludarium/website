@@ -1,10 +1,10 @@
 ---
 title: "Board Games for Seniors Who Live Alone"
 description: "Board games for seniors who live alone, plus the harder part: how to get a parent, neighbor, or friend to the table, and the steps that keep them coming back."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Night
 tags: ["board games for seniors", "games for elderly living alone", "games for older adults", "senior game night", "games for aging parents", "social games for seniors", "Who it's for"]
-draft: true
+draft: false
 ---
 The best board games for seniors who live alone are the ones that get played, which means the game matters less than the invitation. This article covers both halves. First, which games work for older adults with a range of eyesight, dexterity, and patience for rules. Second, and more important, how to get someone who has settled into solitude to come sit at a table, and how to make that a habit instead of a one-time favor.
 

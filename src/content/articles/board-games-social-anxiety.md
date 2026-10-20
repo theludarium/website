@@ -1,10 +1,10 @@
 ---
 title: "Board Games and Social Anxiety: Why the Table Helps"
 description: "Why board games can make socializing easier with social anxiety: structure, shared focus, built-in exits. Which games to start with and which to skip."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Night
 tags: ["board games for social anxiety", "socializing with social anxiety", "games for shy people", "low pressure social activities", "making friends when anxious", "structured social activities", "Who it's for"]
-draft: true
+draft: false
 ---
 People who look for board games for social anxiety are usually looking for something more specific than a game. They want a way to be around other people that does not require constant eye contact, improvised small talk, or being the center of attention. A game table happens to provide exactly that. This article explains why, which games tend to be easier starting points, and which to avoid at first.
 
