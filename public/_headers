@@ -6,3 +6,12 @@ https://:project.pages.dev/*
 
 https://:version.:project.pages.dev/*
   X-Robots-Tag: noindex
+
+# RPG Demo Library store config and buy panel: prices and checkout links live
+# here, so browsers must recheck them on every visit (cheap: an unchanged file
+# answers 304). The demos also load them with a content-hash version tag.
+/rpg-demo-library/store.js
+  Cache-Control: public, max-age=0, must-revalidate
+
+/rpg-demo-library/buy.js
+  Cache-Control: public, max-age=0, must-revalidate

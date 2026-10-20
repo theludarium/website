@@ -173,6 +173,12 @@ A short log of choices made and why. Newest at the bottom.
 - The table illustration stays available: `<Hero art="table">` (the default for other pages) brings it back.
 - **Update: the dots cycle through game pieces** (`src/lib/dot-shapes.ts`): the tile mark, a d20, a meeple, a chess knight, a fanned hand of cards, and a mahjong tile, then back to the mark. Generic pieces only, so no publisher art. Because the cycle runs indefinitely, the hero's pause button now shows for the dots too (WCAG 2.2.2). New shapes are one draw function each on the 64 by 64 grid.
 
+## 2026-10-19: Malaphor submission page
+
+- **`/malaphors/` added** as the submission address printed in Levi's malaphor field guide (a separate book project, manuscript in `~/Developer/malaphors-book`). Levi chose a Ludarium landing page over an email address or a standalone domain.
+- **Kit, not a form service:** five fields post straight to a Kit form tagged `malaphors` with custom fields `malaphor`, `parents`, `context`, so the book builds its own list without mixing with the newsletter audience. Action URL goes in `src/lib/config.ts`; a preview note shows until it does.
+- **Not in the navigation.** The page exists for readers of the book; the site's own visitors reach it only by the printed URL.
+
 ## 2026-10-20: RPG Demo Library on theludarium.com
 
 - **Repo moved** from Levi's account (The-LJAW) to `theludarium/rpg-demo-library` (Levi's call). GitHub redirects the old URL. Its GitHub Pages copy was turned off the same day, so theludarium.com is the only copy.
@@ -189,8 +195,6 @@ A short log of choices made and why. Newest at the bottom.
 - **Print:** Levi wants paperbacks on Amazon KDP. The licenses allow it; the plan and the Amazon-side risks (freely available content, AI disclosure) are in that repo's `docs/KDP-PLAN.md`.
 - **Still to do before any book goes on sale:** Levi's playtest, the pre-launch license checks in that repo's `docs/LICENSES.md` (Cypher's new license, Paizo compatibility registration, a Pathfinder rules pass), and updating each demo's page count.
 
-## 2026-10-19: Malaphor submission page
+## 2026-10-20: Store prices reach browsers at once
 
-- **`/malaphors/` added** as the submission address printed in Levi's malaphor field guide (a separate book project, manuscript in `~/Developer/malaphors-book`). Levi chose a Ludarium landing page over an email address or a standalone domain.
-- **Kit, not a form service:** five fields post straight to a Kit form tagged `malaphors` with custom fields `malaphor`, `parents`, `context`, so the book builds its own list without mixing with the newsletter audience. Action URL goes in `src/lib/config.ts`; a preview note shows until it does.
-- **Not in the navigation.** The page exists for readers of the book; the site's own visitors reach it only by the printed URL.
+- The RPG Demo Library's `store.js` (prices and checkout links) and `buy.js` were served with Cloudflare's default 4-hour browser cache, so after the price change to $9.99 a returning visitor still saw $5. Now the demos load both with a content-hash version tag (`scripts/rpg-demo-library.mjs`), and `public/_headers` tells browsers to recheck them on every visit. Any future price or checkout-link change shows up on the next page load.
