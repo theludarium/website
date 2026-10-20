@@ -1,10 +1,10 @@
 ---
 title: "Gen Con With Kids: What Works and What Doesn't"
 description: "Gen Con with kids: the Child Wristband rules, the Kid Activities area, and how long a six-year-old lasts in the Exhibit Hall. What works, what to skip."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Culture
 tags: ["Gen Con with kids", "Gen Con family", "Gen Con child wristband", "Gen Con kids events", "taking children to Gen Con", "Gen Con family tips", "Conventions"]
-draft: true
+draft: false
 ---
 Gen Con with kids is a different convention from Gen Con without them. The badge rules change, the schedule shrinks, and the Exhibit Hall becomes a place you pass through rather than live in. Done well, it is one of the best family weekends in Indianapolis. Done badly, it is a long, loud, expensive meltdown with dice.
 

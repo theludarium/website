@@ -1,10 +1,10 @@
 ---
 title: "Convention Tips for Introverts: A Pacing Plan"
 description: "Convention tips for introverts who love games and dread crowds: a four-day pacing plan, where to find quiet at Gen Con, and meeting people at the table."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Culture
 tags: ["convention tips introverts", "Gen Con introvert", "board game convention anxiety", "convention pacing", "quiet places at Gen Con", "how to enjoy a convention alone", "Conventions"]
-draft: true
+draft: false
 ---
 The best convention tips for introverts are not about being braver. They are about pacing. A gaming convention is a four-day marathon of noise, strangers, and decisions, and the people who enjoy it most are not the loudest ones. They are the ones who know when to step out, where the quiet rooms are, and how to let the game do the talking.
 

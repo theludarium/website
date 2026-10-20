@@ -1,10 +1,10 @@
 ---
 title: "How to Demo a Board Game at a Convention"
 description: "How to demo a board game at a convention: the two-minute pitch, the ten-minute teach, table setup, and running forty demos a day without losing your voice."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Culture
 tags: ["demo board game convention", "running board game demos", "convention demo tips", "board game booth", "teaching a game fast", "Gen Con demo table", "Conventions"]
-draft: true
+draft: false
 ---
 To demo a board game at a convention well, you need to do three things in order: get a stranger to stop, get them to sit, and get them to the first interesting decision inside ten minutes. Everything else, from the booth graphics to the sell sheet, exists to support those three moments.
 

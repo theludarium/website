@@ -1,10 +1,10 @@
 ---
 title: "What Is a Tableau in Board Games? A Plain Explainer"
 description: "Tableau board game term explained. What a tableau is, how it differs from a hand or deck, why tableau builders feel good, and which games to learn it from."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Guides
 tags: ["tableau board game", "tableau building games", "what is a tableau", "tableau meaning board games", "tableau vs hand", "Race for the Galaxy tableau", "Glossary"]
-draft: true
+draft: false
 ---
 A tableau in a board game is the set of cards or tiles a player has placed face up in front of them, which stays there and keeps affecting the game. If a card in your hand is a possibility and a card in your discard pile is history, a card in your tableau is a permanent part of who you are in this game. The term "tableau board game" or "tableau builder" describes games where building that personal display is the main activity.
 

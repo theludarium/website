@@ -1,10 +1,10 @@
 ---
 title: "Board Game Night Near Me: How to Find a Public Game Night"
 description: "Searching for a board game night near me? Where public game nights hide, how to find one this week, and what to do when you walk in alone and know nobody yet."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["board game night near me", "public board game night", "open game night", "board game meetup", "where to play board games with strangers", "how to find a board game group", "Game lounges and third places"]
-draft: true
+draft: false
 ---
 If you have typed "board game night near me" into a search bar, you already know the hard part: the results are mostly stores selling games and a few event listings from 2019. Public game nights exist in almost every city, but they live in places search engines index poorly. This article tells you where to look, how to tell a good one from a bad one, and what to do when you walk in alone and do not know anyone.
 

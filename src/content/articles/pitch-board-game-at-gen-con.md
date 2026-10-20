@@ -1,10 +1,10 @@
 ---
 title: "How to Pitch a Game to Publishers at Gen Con"
 description: "How to pitch a board game at Gen Con: landing meetings, the ten-minute pitch, what your prototype needs, and what publishers decide in the first minute."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Culture
 tags: ["pitch game at Gen Con", "pitching a board game to publishers", "board game publisher meeting", "game design pitch", "sell sheet board game", "Gen Con for designers", "Conventions"]
-draft: true
+draft: false
 ---
 If you plan to pitch a game at Gen Con, the most important work happens in June, not August. Publishers who take pitches fill their meeting slots before the show, decide in the first two minutes of a meeting whether a game fits their line, and remember the designers who made the meeting easy. This guide covers how to get the meeting, what to bring, how to run the ten minutes you get, and what happens after.
 

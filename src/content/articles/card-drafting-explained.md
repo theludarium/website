@@ -1,10 +1,10 @@
 ---
 title: "Card Drafting Explained: Pick, Pass, and Signal"
 description: "Card drafting explained in plain terms: how pick-and-pass works, why 7 Wonders and Magic use it, the other drafting formats, and how to read the signals."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Guides
 tags: ["card drafting", "pick and pass drafting", "drafting mechanic board games", "7 Wonders drafting", "booster draft explained", "how to draft cards", "Glossary"]
-draft: true
+draft: false
 ---
 Card drafting is a way of dealing out cards where every player chooses what they get instead of taking what they are dealt. In the most common form, each player holds a hand, picks one card to keep, and passes the rest to a neighbor. Repeat until the cards run out. Everyone ends with a set they chose, built one decision at a time from hands that other people were also picking from.
 

@@ -1,10 +1,10 @@
 ---
 title: "The Rondel Mechanic: Every Turn a Timing Puzzle"
 description: "The rondel mechanic explained. How the action wheel in Antike, Imperial and Navegador works, why every turn becomes a timing puzzle, and games that use it."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Guides
 tags: ["rondel mechanic", "what is a rondel", "rondel board games", "Mac Gerdts rondel", "action selection wheel", "Imperial board game rondel", "Glossary"]
-draft: true
+draft: false
 ---
 The rondel mechanic is an action-selection system where the available actions are printed around a wheel, and you choose your action by moving a marker clockwise around it. You can move a short distance for free. Going further costs you. Because you cannot move backward, the action you take now determines which actions are cheap next turn, and the one you just left is the farthest away. Every turn becomes a question of sequence as much as choice.
 

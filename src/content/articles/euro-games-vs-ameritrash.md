@@ -1,10 +1,10 @@
 ---
 title: "Euro Games vs Ameritrash: What the Labels Mean"
 description: "Eurogame vs Ameritrash, explained without the arguments. What each label means, where they came from, which games fit, and why most new games are both."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Guides
 tags: ["eurogame vs ameritrash", "what is a eurogame", "Ameritrash meaning", "German style board games", "thematic board games", "hybrid board games", "Glossary"]
-draft: true
+draft: false
 ---
 The eurogame vs Ameritrash debate is the oldest argument in modern board gaming, and also the least useful. A eurogame is, roughly, a game built around efficient decisions, indirect competition, and low luck: think Catan, Agricola, or Puerto Rico. "Ameritrash" is the tongue-in-cheek label for games built around theme, direct conflict, dice, and drama: think Risk, Arkham Horror, or Twilight Imperium. Most games released today sit somewhere between the two.
 

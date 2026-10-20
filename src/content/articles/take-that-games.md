@@ -1,10 +1,10 @@
 ---
 title: "Take-That Games: Direct Attacks and Why They Divide"
 description: "Take that board games explained. What the term means, why Munchkin and Exploding Kittens split tables, how designers soften it, and how to choose well."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Guides
 tags: ["take that board games", "what is take that mechanic", "take that card games", "direct conflict board games", "Munchkin take that", "games with player attacks", "Glossary"]
-draft: true
+draft: false
 ---
 Take that board games are games where players can directly hurt each other with a card or an action aimed at one specific person. The name comes from the moment itself: you play the card, look at your target, and the unspoken line is "take that." Munchkin, Exploding Kittens, Uno's draw-four, and Sorry! all run on it. Some people love these games and some people quietly refuse to play them, and the split is one of the most reliable in the hobby.
 

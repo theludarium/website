@@ -1,10 +1,10 @@
 ---
 title: "Board Game Conventions in the Midwest Beyond Gen Con"
 description: "Board game conventions in the Midwest beyond Gen Con: eleven shows across Ohio, Wisconsin, Michigan, Missouri, and Minnesota, with dates checked on each site."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Culture
 tags: ["board game conventions Midwest", "Midwest gaming conventions", "board game conventions near Indianapolis", "Origins Game Fair", "Gamehole Con", "Geekway to the West", "Conventions"]
-draft: true
+draft: false
 ---
 The best board game conventions in the Midwest are mostly not Gen Con. Gen Con is the biggest, and it is ours, but it is also the loudest, the most expensive, and the hardest to get a hotel for. Within a day's drive of Indianapolis there are a dozen shows that cost less, book easier, and give you more hours at a table per dollar.
 

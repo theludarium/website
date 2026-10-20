@@ -1,10 +1,10 @@
 ---
 title: "Gen Con Hotels: The Housing Lottery, Explained"
 description: "Gen Con hotels explained: the housing portal and random access times, the downtown four-night rule, deposits, and what to do if you land in the suburbs."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Culture
 tags: ["Gen Con hotels", "Gen Con housing lottery", "Gen Con housing portal", "Gen Con hotel block", "where to stay for Gen Con", "Gen Con downtown hotels", "Conventions"]
-draft: true
+draft: false
 ---
 Gen Con hotels are the one part of the show that frustrates experienced attendees more than first-timers. Tens of thousands of people want a few thousand downtown rooms for the same four nights, and Gen Con's answer is a housing portal with randomly assigned access times, strict minimum stays, and non-refundable deposits. People call it the housing lottery. Gen Con does not use the word, but the odds feel like one.
 

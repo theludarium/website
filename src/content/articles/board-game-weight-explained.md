@@ -1,10 +1,10 @@
 ---
 title: "Board Game Weight Explained: What a 2.5 Means"
 description: "Board game weight explained. What the BoardGameGeek complexity rating measures, what a 1.5 or 3.5 feels like at the table, and how to use it to pick games."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Guides
 tags: ["board game weight", "BoardGameGeek weight rating", "board game complexity rating", "what is game weight", "light vs heavy board games", "board game difficulty scale", "Glossary"]
-draft: true
+draft: false
 ---
 Board game weight is a one-to-five rating of how complex a game is, as judged by the people who have played it. The scale comes from BoardGameGeek, where users rate each game's complexity and the site averages the votes. A 1.0 is Candy Land. A 5.0 is a multi-day wargame with a rulebook the size of a phone book. Most games people actually play fall between 1.5 and 3.5, and the difference between a 2.0 and a 3.0 is the difference between a good night and a frustrated one.
 

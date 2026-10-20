@@ -1,10 +1,10 @@
 ---
 title: "Benefits of Board Game Cafes: Why Every City Needs One"
 description: "The benefits of board game cafes go beyond fun. Loneliness, third places, local economies, and civic life all improve when a city has a place to play."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["benefits of board game cafes", "why board game cafes matter", "board game cafe community", "third places in cities", "social infrastructure", "places to play in cities", "Game lounges and third places"]
-draft: true
+draft: false
 ---
 The benefits of board game cafes are usually described as entertainment: a fun night out, a good first date, something to do that is not a bar. Those are real. But the stronger case is civic. A city with a place to play has a piece of social infrastructure that most cities have been losing for fifty years, and the cost of that loss shows up in loneliness data, in public health, and in how little neighbors know one another. This article makes that case.
 

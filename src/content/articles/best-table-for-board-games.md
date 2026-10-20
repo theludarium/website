@@ -1,10 +1,10 @@
 ---
 title: "Best Table for Board Games: Height, Light, and Elbow Room"
 description: "What makes the best table for board games? Height, size per player, surface, lighting, and chairs, with a size chart and advice for homes and lounges."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["best table for board games", "board game table size", "gaming table height", "board game table dimensions", "table for game night", "dining table for board games", "Game lounges and third places"]
-draft: true
+draft: false
 ---
 The best table for board games is not the most expensive one. It is the one that lets four to six adults sit for three hours with their elbows down, their cards hidden, the board in reach, and enough light to tell a blue cube from a purple one. Most dining tables fail at least one of those tests. This article covers what matters in a game table, with numbers where numbers help, whether you are picking one for your dining room or specifying forty for a lounge.
 

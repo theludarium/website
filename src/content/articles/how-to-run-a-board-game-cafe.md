@@ -1,10 +1,10 @@
 ---
 title: "How to Run a Board Game Cafe: 12 Lessons From Owners"
 description: "How to run a board game cafe that lasts. Twelve lessons on staffing, pricing, the library, food, and community from owners who learned them the hard way."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["how to run a board game cafe", "how to open a board game cafe", "board game cafe business plan", "board game cafe startup costs", "running a game cafe", "board game cafe tips", "Game lounges and third places"]
-draft: true
+draft: false
 ---
 Learning how to run a board game cafe mostly means learning what not to do, and the owners who have lasted tend to repeat the same handful of lessons. This article collects twelve of them, drawn from the common experience of people who have opened cafes, kept them open, and in some cases closed them. None of this is a business plan. It is the stuff that does not show up in one.
 

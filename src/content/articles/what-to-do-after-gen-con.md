@@ -1,10 +1,10 @@
 ---
 title: "After Gen Con: Turn Four Days Into a Year of Game Nights"
 description: "What to do after Gen Con: beat the post-con crash, play the games you bought, stay close to people you met, and turn one weekend into a year of game nights."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Culture
 tags: ["after Gen Con", "post-con depression", "Gen Con follow up", "what to do with new board games", "starting a game group after a convention", "post-Gen Con", "Conventions"]
-draft: true
+draft: false
 ---
 The week after Gen Con has a shape. Sunday night you are tired and happy. Monday you are tired. By Wednesday there is a stack of shrink-wrapped boxes on the dining table, a phone full of photos of people whose names you half remember, and a flat feeling that the fun is over for another year.
 

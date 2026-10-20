@@ -1,10 +1,10 @@
 ---
 title: "Area Majority vs Area Control: The Difference"
 description: "Area majority vs area control, explained simply. Why El Grande and Risk feel nothing alike, how majority scoring works, and how it changes the way you play."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Guides
 tags: ["area majority", "area majority vs area control", "area influence games", "El Grande area majority", "area control mechanic", "majority scoring board games", "Glossary"]
-draft: true
+draft: false
 ---
 Area majority is a scoring system where several players can have pieces in the same region at once, and the player with the most pieces there scores the most, often with smaller rewards for second and third place. Area control, in the strict sense, means one player holds a region outright and nobody else is in it. The two terms get used interchangeably, and the games they describe can look alike on the table. But the way you play them is almost opposite, and knowing which one you are sitting down to saves you from a long, confused first game.
 

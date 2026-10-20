@@ -1,10 +1,10 @@
 ---
 title: "Kingmaking in Board Games: Why Losers Pick the Winner"
 description: "Kingmaking in board games is when a player who can't win decides who does. Why it happens, which games invite it, and calm ways to handle it at your table."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Guides
 tags: ["kingmaking", "kingmaker problem", "kingmaking board games", "player who can't win", "board game etiquette", "multiplayer game design", "Glossary"]
-draft: true
+draft: false
 ---
 Kingmaking happens when a player who has no chance of winning makes a move that decides which of the other players does. The kingmaker cannot be king. They can only crown one. It is one of the most common sources of hard feelings at a game table, because the winner feels their victory was handed to them and the runner-up feels it was stolen.
 

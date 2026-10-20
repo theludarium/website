@@ -1,10 +1,10 @@
 ---
 title: "Engine Building Games: What the Term Means"
 description: "Engine building games explained. What an engine is, why Wingspan, Splendor and Dominion feel so good, the curve every engine follows, and where to start."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Guides
 tags: ["engine building games", "what is engine building", "engine builder board game", "Wingspan engine", "Splendor engine", "best engine building games", "Glossary"]
-draft: true
+draft: false
 ---
 Engine building games are games where the things you acquire early make everything you do later cheaper, faster, or more rewarding. You start weak. You spend your first turns building capacity rather than scoring. Then, somewhere past the midpoint, the pieces start feeding each other and a turn that once produced one resource produces six. That moment of acceleration is the whole appeal.
 
