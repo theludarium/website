@@ -68,7 +68,7 @@ Even with open information, a game can make each player's turn complex enough th
 
 **Gloomhaven** does something similar with a twist: each player picks two cards face down, and you may describe your plan only in vague terms ("I'm going to hit the thing near the door"). Hidden card selection plus restricted communication, inside a game where every character's deck is different.
 
-*Want more on games that give every player a real turn? That is what the newsletter is for, once a week.*
+*Want more on games that give every player a real turn? That is what the newsletter is for.*
 
 ## Which approach works best?
 
@@ -126,6 +126,6 @@ Pick games with hidden hands or limited talk, let the active player make the fin
 
 ## Play with people who get to play
 
-A cooperative game should feel like four people winning, not one person winning with help. If your group has a quarterback and nobody wants to say so, the newsletter can help: one piece a week on games that give every seat a real decision, and first word when The Ludarium's Indianapolis lounge opens. Subscribe at theludarium.com.
+A cooperative game should feel like four people winning, not one person winning with help. If your group has a quarterback and nobody wants to say so, the newsletter can help: new pieces on games that give every seat a real decision, and first word when The Ludarium's Indianapolis lounge opens. Subscribe at theludarium.com.
 
 The game is the reason. The people are the point.

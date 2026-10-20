@@ -53,7 +53,7 @@ Cooperative games put you on the same team. For couples, that changes the tone o
 
 Cooperative games have one failure mode worth naming. If one partner tends to take over and direct the other's moves, the game stops being cooperative. The Crew and Sky Team both limit communication by rule, which quietly solves this. We wrote more about that pattern in [two-player cooperative board games](/articles/two-player-cooperative-board-games/).
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which games still work when friends come over?
 
@@ -98,4 +98,4 @@ Often, but check the box. Many games have special two-player rules or play diffe
 
 A couple that plays together has a built-in reason to put the phones down and sit across from each other. The game is the reason. The people are the point.
 
-If you want more ideas like these, subscribe to The Ludarium newsletter. You get one game-night idea a week, including picks for two, and early word on what we are building for couples at our Indianapolis lounge. For date-night-specific picks, see [two-player board games for date night](/articles/two-player-board-games-date-night/).
+If you want more ideas like these, subscribe to The Ludarium newsletter. You get new game-night ideas, including picks for two, and early word on what we are building for couples at our Indianapolis lounge. For date-night-specific picks, see [two-player board games for date night](/articles/two-player-board-games-date-night/).

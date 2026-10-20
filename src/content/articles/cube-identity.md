@@ -56,7 +56,7 @@ The honest route is slow. You do not need to tear down the list. You need to mak
 3. **Choose a texture and tune toward it.** Decide whether your games should be fast or long, and move the dial: more cheap creatures and burn for fast, more sweepers and card advantage for long. Interaction density and variance are both dials, and both move texture.
 4. **Keep a few cards that are only in your cube.** Not bad cards. Cards that are good but unusual, that other lists do not run. A drafter who sees Opposition, or Squandered Resources, or Sulfuric Vortex, or Recurring Nightmare learns that this cube has an owner with opinions.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What kills identity?
 
@@ -96,4 +96,4 @@ Usually a year or more of regular drafting with the same core group. Identity co
 
 Every cube worth driving to is "the one where" something. Decide what yours is, commit to it in the list, and let your drafters finish the sentence for you. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for a weekly piece on cube design and the groups that play it. If you are near Indianapolis, draft ours and tell us what it is the one where, at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that play it. If you are near Indianapolis, draft ours and tell us what it is the one where, at [Cube Commonwealth](/articles/cube-draft-indianapolis/).

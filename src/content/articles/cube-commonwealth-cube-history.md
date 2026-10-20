@@ -67,7 +67,7 @@ Current structure, counted from the list on <!-- EDITOR: date -->:
 
 The ten lanes as they stand: <!-- EDITOR: one line per color pair: archetype and two signposts -->
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## The cards that stayed through everything
 

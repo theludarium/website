@@ -34,7 +34,7 @@ And the [Surgeon General's advisory](https://www.hhs.gov/sites/default/files/sur
 
 Put those together and togethering is not a nice-to-have. The research suggests it is one of the few things that moves the long-term numbers.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What makes togethering different from just being social?
 
@@ -101,7 +101,7 @@ Games give the gathering something to do, which makes it easier to sustain, more
 
 ## Togethering for a lifetime
 
-That is the Ludarium's mission line, and the Indianapolis lounge is where we intend to practice it. New articles on play, health, and togethering go to subscribers first. Subscribe to the Ludarium newsletter for one piece a week, and never stop playing.
+That is the Ludarium's mission line, and the Indianapolis lounge is where we intend to practice it. New articles on play, health, and togethering go to subscribers first. Subscribe to the Ludarium newsletter for new pieces, and never stop playing.
 
 ## Sources
 

@@ -51,7 +51,7 @@ Wavelength deserves a special mention. The game asks a player to give a clue tha
 
 If your teen is already into video games, do not treat that as competition. Many of the best tabletop games share DNA with what they play on a screen. Gloomhaven feels like a dungeon crawler. Dungeons & Dragons is the source code for half the games they love. Meet them there.
 
-*If this helps, the newsletter sends one piece like it every week.*
+*If this helps, the newsletter sends more like it.*
 
 ## How do you suggest it without getting an eye roll?
 
@@ -102,6 +102,6 @@ Once a week is ideal, but even twice a month builds the habit. Consistency matte
 
 ---
 
-The Ludarium is building a lounge in Indianapolis where families, including teens who would never admit they are having fun, can find a table and a game that fits. For more ideas for the table at home, one a week, subscribe to the newsletter at theludarium.com.
+The Ludarium is building a lounge in Indianapolis where families, including teens who would never admit they are having fun, can find a table and a game that fits. For more ideas for the table at home, subscribe to the newsletter at theludarium.com.
 
 The game is the reason. The people are the point.

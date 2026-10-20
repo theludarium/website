@@ -36,7 +36,7 @@ Count each deck's playables. Ask each drafter: "How many cards did you leave in 
 
 Count lands. If several players are running 18 lands in a 40-card deck, or splashing a third color with one dual, your fixing is thin. If several are at 15 and running mana rocks, your curve is low and your rocks are good. Both are notes, not fixes yet.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What should you watch during the games?
 
@@ -107,4 +107,4 @@ Mana. Thin fixing shows up as long deckbuilding, awkward splashes, and games dec
 
 The first draft is not the night your cube is judged. It is the night it starts telling you what it wants to be. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for one cube piece a week, including the printable first-draft tally sheet. And if you are in Indianapolis and want seven testers for your first draft, Cube Commonwealth will sit down with you: [how to join](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for new cube pieces, including the printable first-draft tally sheet. And if you are in Indianapolis and want seven testers for your first draft, Cube Commonwealth will sit down with you: [how to join](/articles/cube-draft-indianapolis/).

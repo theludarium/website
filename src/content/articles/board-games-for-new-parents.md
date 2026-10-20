@@ -59,7 +59,7 @@ New parents do not stop having friends, but hosting changes. The visitor comes t
 
 For more games that work at two and still scale up, see [board games for couples](/articles/board-games-for-couples/).
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you make the habit stick when you are exhausted?
 
@@ -98,8 +98,8 @@ Pick a fixed slot (usually right after bedtime), keep one game on the coffee tab
 
 Card games and games with wooden pieces on a cloth. Patchwork, Sprawlopolis, Onirim, and The Crew are all nearly silent. Avoid dice, bells, timers, and games that produce cheering.
 
-## Get one game-night idea a week
+## Get new game-night ideas
 
 Twenty minutes across a table from your partner, after the longest day, is not a small thing. It is the thing. The game is the reason. The people are the point.
 
-The Ludarium newsletter sends one game-night idea a week, including short ones for people whose nights are not their own right now. Subscribe, and when the kids are older, come see us in Indianapolis.
+The Ludarium newsletter sends new game-night ideas, including short ones for people whose nights are not their own right now. Subscribe, and when the kids are older, come see us in Indianapolis.

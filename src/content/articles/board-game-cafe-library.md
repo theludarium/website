@@ -50,7 +50,7 @@ Some excellent games are poor cafe games, and some mediocre ones are perfect. Th
 
 A good test: could a brand-new staff member on their third shift teach this to a bachelorette party? If not, it goes in the regulars' cabinet or it goes home.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you keep pieces from disappearing?
 
@@ -113,4 +113,4 @@ A small number, kept in a cabinet for regulars and requests. They rarely fit a w
 
 A library of three hundred games that every staff member can teach is a service. A library of three thousand is a storage problem with good intentions. The game is the reason. The people are the point.
 
-If you want a weekly note on what belongs on the table, and first word when The Ludarium's Indianapolis lounge opens its shelves, subscribe to the newsletter. One game-night idea a week, no filler.
+If you want new notes on what belongs on the table, and first word when The Ludarium's Indianapolis lounge opens its shelves, subscribe to the newsletter. One game-night idea a week, no filler.

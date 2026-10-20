@@ -46,7 +46,7 @@ Many games mix zones. Wingspan has a hand of bird cards and a tableau of played 
 
 Our explainer on [engine building games](/articles/engine-building-games/) covers why permanence matters so much once cards start feeding each other.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What is a tableau builder?
 
@@ -115,4 +115,4 @@ No. Dominion's cards cycle through your deck and are never permanently placed, w
 
 A tableau is a picture of a game played, visible to everyone who sat down for it. It is one of the few things in the hobby you can point to at the end of the night and say, "that is what I did." The game is the reason. The people are the point.
 
-We write one explainer like this every week, and subscribers get it first. Subscribe to The Ludarium newsletter, and if you are in Indianapolis, watch for our membership lounge, where there will be plenty of table space for a tableau that gets out of hand.
+We write new explainers like this, and subscribers get them first. Subscribe to The Ludarium newsletter, and if you are in Indianapolis, watch for our membership lounge, where there will be plenty of table space for a tableau that gets out of hand.

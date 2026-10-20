@@ -57,7 +57,7 @@ Slowly in pack one, then at nearly normal speed.
 
 **Deck building.** Twenty minutes instead of fifteen, and the guide helps with exactly one thing: the mana base. "You have 23 spells, 12 of them red, 11 white, so 9 Mountains and 8 Plains." The new player builds the rest. Our mana-fixing article, [mana fixing in cube](/articles/cube-mana-fixing/), has the details on why this matters so much.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do we run round one?
 
@@ -113,4 +113,4 @@ No. The cube is the collection. You arrive with nothing and draft from the share
 
 ## Pull up a chair
 
-If you have never played Magic and you are in Indianapolis, our next new-player night is announced in the Cube Commonwealth Discord <!-- EDITOR: add Discord invite link -->. You will be seated next to someone whose job is to help. Wherever you are, subscribe to The Ludarium newsletter; we send one piece a week on teaching, hosting, and building a table people come back to, and news on the Indianapolis lounge as it gets closer. The game is the reason. The people are the point.
+If you have never played Magic and you are in Indianapolis, our next new-player night is announced in the Cube Commonwealth Discord <!-- EDITOR: add Discord invite link -->. You will be seated next to someone whose job is to help. Wherever you are, subscribe to The Ludarium newsletter; we send new pieces on teaching, hosting, and building a table people come back to, and news on the Indianapolis lounge as it gets closer. The game is the reason. The people are the point.

@@ -59,7 +59,7 @@ Signals to watch for:
 
 Signals are probabilistic. A late bomb might mean the color is open, or it might mean the drafter upstream is color-locked and gambling. Weigh them, do not worship them.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## When should you commit to colors?
 
@@ -119,6 +119,6 @@ Have one main color by the end of pack one and a settled two-color pair by the m
 
 ## Draft better, then draft together
 
-Drafting is a skill that grows fastest at a regular table with the same cube and the same faces. The Ludarium newsletter sends one piece a week on games that build those tables, and cube drafters who want a group are welcome at Cube Commonwealth, our drafting community. The Indianapolis lounge will have a cube on the shelf when it opens.
+Drafting is a skill that grows fastest at a regular table with the same cube and the same faces. The Ludarium newsletter sends new pieces on games that build those tables, and cube drafters who want a group are welcome at Cube Commonwealth, our drafting community. The Indianapolis lounge will have a cube on the shelf when it opens.
 
 The game is the reason. The people are the point.

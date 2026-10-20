@@ -48,7 +48,7 @@ Some types are worse than others.
 
 Games with low interaction, such as Wingspan or most roll-and-writes, have little room for kingmaking because players barely touch each other. <!-- AFFILIATE --> That is a trade-off: they also have less drama and less table talk.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do designers limit kingmaking?
 
@@ -115,4 +115,4 @@ The common norm is to play for the best score you can and ignore who benefits. I
 
 Kingmaking is what happens when the game's goal stops working on one of the players. Nothing in a rulebook can fully replace that goal, because the person behind it is a person. Which is the whole point of playing with people instead of a screen. The game is the reason. The people are the point.
 
-We write about the small frictions that make or break a game group every week, and we send each piece to subscribers first. Subscribe to The Ludarium newsletter for one article a week, and keep an eye out for our membership lounge opening in Indianapolis.
+We write about the small frictions that make or break a game group, and we send each piece to subscribers first. Subscribe to The Ludarium newsletter for new articles, and keep an eye out for our membership lounge opening in Indianapolis.

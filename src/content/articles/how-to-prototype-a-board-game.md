@@ -50,7 +50,7 @@ Now make the pieces. Set a timer for three hours and do not stop to improve anyt
 
 At the end of the three hours, you should have a pile of index cards, a drawn board or none, a bag of borrowed pieces, and a one-card rulebook. That is a first playable. Stop building.
 
-*Building something? The newsletter sends one piece like this each week.*
+*Building something? The newsletter sends new pieces like this.*
 
 ## Saturday evening: can you play it alone?
 
@@ -124,6 +124,6 @@ Aim for under an hour, including the teach. If your first prototype runs longer,
 
 ## Bring your prototype to a table
 
-Every published game started as a stack of index cards in front of a few patient friends. If you have an idea, the only thing between you and a first playable is one weekend. The Ludarium newsletter sends one piece a week on design and playtesting, plus notice of prototype nights when the Indianapolis lounge opens. Subscribe at theludarium.com.
+Every published game started as a stack of index cards in front of a few patient friends. If you have an idea, the only thing between you and a first playable is one weekend. The Ludarium newsletter sends new pieces on design and playtesting, plus notice of prototype nights when the Indianapolis lounge opens. Subscribe at theludarium.com.
 
 The game is the reason. The people are the point.

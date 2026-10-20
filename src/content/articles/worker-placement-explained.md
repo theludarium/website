@@ -48,7 +48,7 @@ Four pressures stack on top of one another. Each is simple. Together they make e
 
 None of these pressures requires a complicated rule. The complexity lives in the interaction between players, not in the rulebook. This is why worker placement games are often easier to teach than their reputation suggests. If you are hosting one for the first time, the [five-minute teach](/articles/how-to-teach-a-board-game/) approach works well: the goal is points from quests, a turn is place-an-agent-and-take-the-thing, and the exceptions are a short list.
 
-*Enjoying this? The newsletter sends one piece on how games work each week.*
+*Enjoying this? The newsletter sends one piece on how games work.*
 
 ## Why do designers love this mechanic?
 

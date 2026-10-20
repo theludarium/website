@@ -36,7 +36,7 @@ A cube list is a list of card names, one per line. Two versions of it differ by 
 
 The one rule for all of them: sort the lists and normalize names first. "Fire // Ice" and "Fire / Ice" are the same card to you and different lines to a differ. The Spellchecker exists for exactly that.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you track the MTGO Vintage Cube specifically?
 

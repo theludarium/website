@@ -99,4 +99,4 @@ We do not have a date yet. We are building the community, the content, and the c
 
 We are going to write about every step of this: the space search, the library list, the membership math, the mistakes. Some of it will be useful if you ever want to build something like it. All of it will be candid. The game is the reason. The people are the point.
 
-If you want to follow the build, subscribe to the newsletter. One email a week, and the first thing we send when there is a door to walk through in Indianapolis is an invitation.
+If you want to follow the build, subscribe to the newsletter. Emails, and the first thing we send when there is a door to walk through in Indianapolis is an invitation.

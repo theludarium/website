@@ -48,7 +48,7 @@ The format, roughly:
 
 Short. Reasoned. Credited. The "credited" part is the one people cared about. Seeing your name next to a card you lobbied for is a small thing that keeps someone coming for months. The craft side of updating a list is in [how to update a cube without breaking what works](/articles/how-to-update-a-cube/); this article is about the people side.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What kinds of member input were useful?
 
@@ -110,4 +110,4 @@ Give it a set period, then evaluate it like any other card, and let the member m
 
 ## Pull up a chair
 
-The cube is back on the table in Indianapolis, the change log is back in #the-cube, and the arguments are open to anyone. Join the Cube Commonwealth Discord <!-- EDITOR: add Discord invite link --> and lobby for your card. If you curate a list of your own, subscribe to The Ludarium newsletter: one piece like this every week, and news on the lounge where the cube will eventually live. The game is the reason. The people are the point.
+The cube is back on the table in Indianapolis, the change log is back in #the-cube, and the arguments are open to anyone. Join the Cube Commonwealth Discord <!-- EDITOR: add Discord invite link --> and lobby for your card. If you curate a list of your own, subscribe to The Ludarium newsletter: new pieces like this, and news on the lounge where the cube will eventually live. The game is the reason. The people are the point.

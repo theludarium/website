@@ -37,7 +37,7 @@ The box itself is around $200 at retail; the publisher listed the [second editio
 
 Measured per hour of play, Gloomhaven is one of the cheapest entertainments a group can buy. Measured per hour of your life you have to schedule, it is one of the most expensive.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Who is Gloomhaven right for?
 
@@ -107,7 +107,7 @@ Not as a first modern board game. Play a few lighter co-ops first, then Jaws of 
 
 ## One campaign-friendly idea a week
 
-The game is the reason. The people are the point. Subscribe to the Ludarium newsletter for one article a week on co-ops, campaigns, and keeping a group together through both. Our Indianapolis lounge will have campaign tables you can leave set up, which solves the biggest Gloomhaven problem of all.
+The game is the reason. The people are the point. Subscribe to the Ludarium newsletter for new articles on co-ops, campaigns, and keeping a group together through both. Our Indianapolis lounge will have campaign tables you can leave set up, which solves the biggest Gloomhaven problem of all.
 
 ## Sources
 

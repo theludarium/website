@@ -30,7 +30,7 @@ Three structural differences, before any card is named.
 
 **The vocabulary.** "Benched," "trimmed," "on trial," "rested for now." Borrow it for your own changelog. It tells drafters whether a card is gone or just away.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What does not translate?
 

@@ -50,7 +50,7 @@ Mostly rules complexity: how much you need to hold in your head to play legally.
 
 What weight does not measure is quality, fun, or how much skill matters. A 1.5 can be a masterpiece. A 4.0 can be a mess. Our article on [luck vs skill](/articles/luck-vs-skill-board-games/) covers the separate question of how much a game rewards playing well.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Why do the numbers drift?
 
@@ -108,7 +108,7 @@ Among games with a wide audience, Twilight Imperium Fourth Edition ([around 4.3]
 
 The weight number exists to answer one question: can the people at this table enjoy this game tonight? Used that way, it is the most considerate statistic in the hobby. Used as a badge, it empties tables. The game is the reason. The people are the point.
 
-Every week we send subscribers one piece like this, on picking games for real groups and keeping those groups together. Subscribe to The Ludarium newsletter to get the next one, and if you are in Indianapolis, our membership lounge will have a shelf for every weight.
+We send subscribers more pieces like this, on picking games for real groups and keeping those groups together. Subscribe to The Ludarium newsletter to get the next one, and if you are in Indianapolis, our membership lounge will have a shelf for every weight.
 
 ## Sources
 

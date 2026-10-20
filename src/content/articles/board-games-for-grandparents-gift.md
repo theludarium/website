@@ -49,7 +49,7 @@ A game that satisfies all four is a gift that keeps paying off in phone calls th
 
 **Hues and Cues** <!-- AFFILIATE --> (about $26; [$25.95 at The Op](https://theop.games/products/hues-and-cues) at the time of writing). Guess a color from a one-word clue. No reading, no rules to remember between turns, and it seats ten, which covers a holiday table. Our article on [games to play with grandparents](/articles/games-to-play-with-grandparents/) goes deeper on what works across three generations.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which game for which grandparent?
 
@@ -103,4 +103,4 @@ Most of the games here are $7 to $40 at the time of writing. The expensive part 
 
 ## One game for the next visit, every week
 
-Subscribe to The Ludarium newsletter and we will send one short piece a week on play across generations, including the games we are choosing for the quietest corner of our Indianapolis lounge. New articles on play and health go to subscribers first.
+Subscribe to The Ludarium newsletter and we will send new short pieces on play across generations, including the games we are choosing for the quietest corner of our Indianapolis lounge. New articles on play and health go to subscribers first.

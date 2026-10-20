@@ -45,7 +45,7 @@ The paper "How to Tinker" list goes the other way: singleton, low land fixing, a
 
 The original Mirrodin artifact lands (Seat of the Synod, Vault of Whispers, Great Furnace, Ancient Den, Tree of Tales, Darksteel Citadel) belong in either version, singleton or not.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What are the archetypes?
 
@@ -98,4 +98,4 @@ Many do. The MTGO cube ran four of each nongreen Modern Horizons 2 Bridge so tha
 
 An artifact cube is the proof that a cube can be organized around something other than color and still produce ten decks. The game is the reason. The people are the point.
 
-Subscribe to the Ludarium newsletter for one cube-building piece a week, and if you are in Indianapolis, bring your artifact list to [Cube Commonwealth](/articles/cube-draft-indianapolis/); we have been wanting to draft one.
+Subscribe to the Ludarium newsletter for new cube-building pieces, and if you are in Indianapolis, bring your artifact list to [Cube Commonwealth](/articles/cube-draft-indianapolis/); we have been wanting to draft one.

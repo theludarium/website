@@ -44,7 +44,7 @@ Three things fall out of the rules, and together they give rondel games their ch
 
 The overall feel is of a game with momentum. Your marker is always moving forward. You cannot stall, cannot pass, cannot sit on a good action. The wheel turns and you turn with it.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which games use a rondel or something like it?
 
@@ -110,4 +110,4 @@ Navegador is the most approachable of the Gerdts games. Imperial is the deepest 
 
 The rondel teaches something that applies beyond games: what you just did shapes what you can afford to do next. You cannot stand still, and you cannot go back. All you can do is pick a good path and keep moving around the table with the people beside you. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter and we will send one piece a week on the mechanics and games that make a table worth sitting at. Our membership lounge is coming to Indianapolis, and Imperial will be on the shelf.
+Subscribe to The Ludarium newsletter and we will send new pieces on the mechanics and games that make a table worth sitting at. Our membership lounge is coming to Indianapolis, and Imperial will be on the shelf.

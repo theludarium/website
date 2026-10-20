@@ -46,7 +46,7 @@ An insert replaces the loose cardboard tray in a game box with molded compartmen
 
 **What to skip.** Generic "universal" inserts. They fit nothing well.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Playmats: the gift when you know nothing
 
@@ -112,4 +112,4 @@ A pack of Dragon Shield sleeves, a folding dice tray, or a set of token bowls. A
 
 ## One table upgrade a week
 
-Subscribe to The Ludarium newsletter for one short piece a week on games and the tables they are played on, including the accessories we are choosing for our Indianapolis lounge library, and why. No fluff, once a week.
+Subscribe to The Ludarium newsletter for new short pieces on games and the tables they are played on, including the accessories we are choosing for our Indianapolis lounge library, and why. No fluff, once a week.

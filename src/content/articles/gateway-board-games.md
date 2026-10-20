@@ -97,7 +97,7 @@ Roll for resources, trade with neighbors, build roads and settlements. <!-- AFFI
 
 Leads to: anything with trading or negotiation. Catan remains the most common first step into the hobby for a reason.
 
-*If this list is useful, the newsletter sends one piece like it every week.*
+*If this list is useful, the newsletter sends more like it.*
 
 ## How do you choose the right gateway for a specific person?
 
@@ -143,4 +143,4 @@ Yes, with a caveat. It is longer and luckier than newer options, so it suits gro
 
 ## Get the next game first
 
-Every week The Ludarium newsletter sends one idea for what to play and who to play it with. Subscribers hear first about new picks, the Indianapolis lounge, and the games we would put on every table. The game is the reason. The people are the point. Subscribe, and bring one non-gamer to the next night.
+The Ludarium newsletter sends ideas for what to play and who to play it with. Subscribers hear first about new picks, the Indianapolis lounge, and the games we would put on every table. The game is the reason. The people are the point. Subscribe, and bring one non-gamer to the next night.

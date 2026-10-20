@@ -49,7 +49,7 @@ Not all fixing is equal. The way a land enters the battlefield and the colors it
 
 **Enters-tapped duals with no upside (guildgates, Coastal Tower).** Fine in pauper cubes, where they are the best option available. Weak anywhere else.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Where does fixing go: lands, rocks, or creatures?
 
@@ -110,4 +110,4 @@ Yes, for green decks. Birds of Paradise and Noble Hierarch are among the stronge
 
 Nobody remembers the night their mana worked. Everyone remembers the night it did not. Fixing is the least glamorous part of a cube list and the part that most decides whether people get to play the decks they drafted. Count it, tune it, and let the games happen. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for one piece a week on cube design and the groups that play it. Indianapolis readers can see our land section in action at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that play it. Indianapolis readers can see our land section in action at [Cube Commonwealth](/articles/cube-draft-indianapolis/).

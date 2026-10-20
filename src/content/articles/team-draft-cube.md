@@ -57,7 +57,7 @@ In a normal eight-player draft, the players on either side of you are rivals for
 
 **Pool quality is lower.** Six drafters from 270 cards see less of the cube than eight from 360 do, and everyone is hate-drafting, so playables run short. Expect 40-card decks with 17 lands and a 23rd card you are not proud of. That is the format working.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you keep the rivalry friendly?
 
@@ -104,4 +104,4 @@ Not during the draft. Teammates may talk freely during deck-building and between
 
 Team draft takes the quietest part of cube night, the draft itself, and turns it into the loudest. Every pass is a small act against someone you will play in an hour. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for a weekly format or house rule you can run from the page. Indianapolis readers who want a side to be on can find one at [Cube Commonwealth](/articles/cube-draft-indianapolis/), where team night comes around once a month.
+Subscribe to The Ludarium newsletter for new formats and house rules you can run from the page. Indianapolis readers who want a side to be on can find one at [Cube Commonwealth](/articles/cube-draft-indianapolis/), where team night comes around once a month.

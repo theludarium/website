@@ -42,7 +42,7 @@ In our experience and in most published changelogs, two colors need deliberate a
 
 Blue tends to drift strong, because card draw and counterspells are flexible and every control drafter wants them. Black drifts strong when removal is plentiful. Red is the swing color: strong if the cube supports burn-plus-haste, weak if burn is the only thing red does.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you check balance after a draft?
 
@@ -91,4 +91,4 @@ Yes. Each color should appear in the same number of gold cards, usually four pai
 
 Equal counts get you to the table. Counting curves, removal, and what wheels keeps every color worth drafting. The game is the reason. The people are the point.
 
-The Ludarium newsletter sends one cube piece a week, including the post-draft tally sheet we use. Subscribe, and if you are in Indianapolis, come count colors with us at Cube Commonwealth: [how to join](/articles/cube-draft-indianapolis/).
+The Ludarium newsletter sends new cube pieces, including the post-draft tally sheet we use. Subscribe, and if you are in Indianapolis, come count colors with us at Cube Commonwealth: [how to join](/articles/cube-draft-indianapolis/).

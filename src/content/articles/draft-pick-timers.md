@@ -59,7 +59,7 @@ You do not need a judge. You need one visible timer and one rule everyone agreed
 
 Whatever you choose, say it before pack one and apply it to everyone. A clock that only ever gets called on the slowest player is a social problem, not a pacing fix.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Where does a draft actually lose time?
 
@@ -122,4 +122,4 @@ The pause between packs when players may look at their picks. Tournament rules g
 
 The draft is the part of the night people come for, and the part that eats the rest if nobody watches it. A clock the table runs for itself keeps the games in. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for a weekly piece on formats, pacing, and the people around the table. Indianapolis readers can see the 40-minute draft in practice at [Cube Commonwealth](/articles/cube-draft-indianapolis/), where the timer sits in the middle and nobody minds it.
+Subscribe to The Ludarium newsletter for new pieces on formats, pacing, and the people around the table. Indianapolis readers can see the 40-minute draft in practice at [Cube Commonwealth](/articles/cube-draft-indianapolis/), where the timer sits in the middle and nobody minds it.

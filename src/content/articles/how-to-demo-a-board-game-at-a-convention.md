@@ -45,7 +45,7 @@ A structure that works for almost any game:
 
 Prep a short script and say it the same way forty times. You will be bored by the third hour. The player is hearing it for the first time.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How should the table be set up?
 
@@ -131,4 +131,4 @@ Start a game with a friend so the table looks alive, stand at the aisle edge, an
 
 ## One idea a week, for people who run tables
 
-Whether you are demoing your own design or teaching Catan to a room, the problem is the same: get people to the fun part fast. The Ludarium newsletter sends one piece like this each week on teaching, hosting, and running game events. Subscribe, and if you are ever in Indianapolis, come run a demo at our lounge.
+Whether you are demoing your own design or teaching Catan to a room, the problem is the same: get people to the fun part fast. The Ludarium newsletter sends new pieces like this on teaching, hosting, and running game events. Subscribe, and once our Indianapolis lounge opens, come run a demo there.

@@ -64,7 +64,7 @@ A quick reference. Not exhaustive, but every pick here is one we would put on th
 
 **Eight or more.** Codenames (teams of four), Wavelength, Just One, Telestrations, social deduction games like The Resistance or Avalon. Beyond eight, split the room. Two tables of four or five are better than one table of ten. [Party games for large groups](/articles/party-games-for-large-groups/) goes deeper on this end.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What do you do when the headcount is wrong?
 
@@ -112,4 +112,4 @@ Above six or seven players, two tables almost always beats one. Downtime drops, 
 
 ## The right game for the room, every week
 
-The Ludarium newsletter sends one practical piece each week on picking, hosting, and playing well, including game picks sorted by headcount. Subscribe and you will also be first to know when our Indianapolis lounge opens with tables sized for every group.
+The Ludarium newsletter sends new practical pieces on picking, hosting, and playing well, including game picks sorted by headcount. Subscribe and you will also be first to know when our Indianapolis lounge opens with tables sized for every group.

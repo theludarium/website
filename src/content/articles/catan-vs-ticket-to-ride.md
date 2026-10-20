@@ -60,7 +60,7 @@ Ticket to Ride is quieter. Most turns are a card draw. The interaction is indire
 
 If you are picking a game for a family that bickers, Ticket to Ride's low-friction design is a feature. If you are picking for a group of friends who love to argue in good humor, Catan feeds that.
 
-*If this is useful, the newsletter sends one comparison like it every week.*
+*If this is useful, the newsletter sends more comparisons like it.*
 
 ## Which one has more luck?
 
@@ -124,4 +124,4 @@ Both have deep expansion lines. Catan's add players and new systems (Seafarers, 
 
 ## Get one game recommendation a week
 
-The game is the reason. The people are the point. Either of these boxes will get people to a table, and that is what matters. If you want help choosing the next one, subscribe to The Ludarium newsletter: one short, practical piece on games and the people who play them, every week, with updates on the Indianapolis lounge as it comes together.
+The game is the reason. The people are the point. Either of these boxes will get people to a table, and that is what matters. If you want help choosing the next one, subscribe to The Ludarium newsletter: one short, practical piece on games and the people who play them, with updates on the Indianapolis lounge as it comes together.

@@ -45,7 +45,7 @@ These three categories cover most of the misery at any convention.
 
 **Food.** Downtown Indianapolis has plenty of restaurants, but the lines at noon are long and the sit-down places fill up. Pack snacks that do not melt and do not crumble on a game board: nuts, jerky, protein bars, dried fruit. Eat a real breakfast at the hotel every day. For a fuller plan on eating and sleeping through the weekend, we wrote a separate [Gen Con survival guide](/articles/gen-con-survival-guide/).
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What small items make the biggest difference?
 
@@ -123,4 +123,4 @@ A lot. Veterans consistently describe days of many miles on concrete across the 
 
 ## Get the list before you need it
 
-We send one piece like this every week: a packing list, a game night idea, a local event. Subscribe to The Ludarium newsletter and have next year's Gen Con list in your inbox before badge registration opens. We are building a game lounge in Indianapolis, so we will be the ones on the convention center floor handing out directions.
+We send new pieces like this: a packing list, a game night idea, a local event. Subscribe to The Ludarium newsletter and have next year's Gen Con list in your inbox before badge registration opens. We are building a game lounge in Indianapolis, so we will be the ones on the convention center floor handing out directions.

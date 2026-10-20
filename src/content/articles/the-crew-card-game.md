@@ -43,7 +43,7 @@ Then there is the discipline of not talking. The rules forbid discussing your ha
 
 We have watched groups of coworkers play it and recognize their own meeting habits by mission ten. The person who always announces the plan has to sit on their hands. The person who never speaks up discovers they are the one holding the critical card. If you want to use that effect deliberately, our article on [what co-op games teach about teamwork](/articles/cooperative-games-teamwork/) goes further.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which version of The Crew should you buy?
 
@@ -100,4 +100,4 @@ Planet Nine has fifty fixed missions with a steady difficulty ramp. Mission Deep
 
 ## One mission a week
 
-The game is the reason. The people are the point. The Crew is proof that a group can learn to trust each other in an hour with a deck of cards. Subscribe to the Ludarium newsletter for one game-night idea a week, and look for The Crew on every table when our Indianapolis lounge opens.
+The game is the reason. The people are the point. The Crew is proof that a group can learn to trust each other in an hour with a deck of cards. Subscribe to the Ludarium newsletter for new game-night ideas, and look for The Crew on every table when our Indianapolis lounge opens.

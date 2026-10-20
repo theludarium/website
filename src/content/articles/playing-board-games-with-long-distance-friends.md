@@ -59,7 +59,7 @@ Not every game works remotely. The ones that do tend to share a profile: limited
 
 **Worst remotely:** anything with heavy negotiation across a crowded board (Catan is playable but loses its texture), dexterity games, and anything over two hours. Keep remote sessions to about ninety minutes. Screen fatigue is real.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you keep the standing time when people are in different time zones?
 
@@ -106,8 +106,8 @@ Monthly for live online sessions is sustainable for most adults. Add a turn-base
 
 Give it a structure that does not depend on anyone having news to share. A standing monthly game night, online or in person, is one of the most durable structures there is.
 
-## Get one game-night idea a week
+## Get new game-night ideas
 
 The friends you played with before everyone moved are still your friends. The group just needs a night on the calendar. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for one game-night idea a week, including remote-friendly picks. And when your group needs a central meeting place, Indianapolis is closer to most of the country than you think.
+Subscribe to The Ludarium newsletter for new game-night ideas, including remote-friendly picks. And when your group needs a central meeting place, Indianapolis is closer to most of the country than you think.

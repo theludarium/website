@@ -55,7 +55,7 @@ Options:
 
 The single most useful habit is to look at the assassin and the opponent's words first, before you look at your own. Build your clue from what is forbidden, not from what is possible.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How should operatives guess in Codenames?
 
@@ -103,4 +103,4 @@ Two to three operatives per team is ideal. Larger teams argue; a single operativ
 
 ## One good clue a week
 
-We play Codenames the first time a group meets, because it tells us more about how people think than an hour of conversation does. The game is the reason. The people are the point. The Ludarium newsletter sends one piece a week on games like this and on the lounge we are building in Indianapolis, where there will always be a copy on the shelf. [Subscribe](/newsletter) and bring better clues to the next game night.
+We play Codenames the first time a group meets, because it tells us more about how people think than an hour of conversation does. The game is the reason. The people are the point. The Ludarium newsletter sends new pieces on games like this and on the lounge we are building in Indianapolis, where there will always be a copy on the shelf. [Subscribe](/newsletter) and bring better clues to the next game night.

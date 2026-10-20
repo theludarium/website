@@ -54,7 +54,7 @@ What remains is a creature-centric game. The signature cards are the ones that d
 
 Modern cubes have a problem the other bands do not. Modern Horizons and Universes Beyond sets have pushed the top of the card pool so hard that a Modern cube built from 2024 onward can be more oppressive at the creature level than an older Legacy cube. See [power creep and cube](/articles/power-creep-and-cube/) for how owners handle that.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What is a Pauper or Peasant cube?
 
@@ -105,4 +105,4 @@ You can, but drafters will feel the seams. A single Sol Ring in an otherwise Leg
 
 ## Draft at every band with us
 
-Cube Commonwealth drafts in Indianapolis, and the band question comes up at nearly every table. If you want to feel the difference in person before you choose one for your own cube, [come draft with Cube Commonwealth](/articles/cube-draft-indianapolis/). Subscribe to The Ludarium newsletter for one cube design piece every week. The game is the reason. The people are the point.
+Cube Commonwealth drafts in Indianapolis, and the band question comes up at nearly every table. If you want to feel the difference in person before you choose one for your own cube, [come draft with Cube Commonwealth](/articles/cube-draft-indianapolis/). Subscribe to The Ludarium newsletter for new cube design pieces. The game is the reason. The people are the point.

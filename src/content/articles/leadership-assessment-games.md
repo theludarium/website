@@ -72,7 +72,7 @@ Experience with games is a confound. Someone who has played Pandemic twenty time
 
 Seniority is the other confound. Junior staff defer to directors at the table just as they do in meetings. If you want to see the junior staff, keep directors at a different table.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you run a leadership assessment with a game?
 
@@ -123,4 +123,4 @@ It can show leadership behavior under mild pressure in a single setting. Treat i
 
 ## Want a host who knows what to watch for?
 
-The Ludarium runs [corporate tabletop events](/corporate-events/) in and around Indianapolis, including leadership sessions built around cooperative games, with hosts who teach, run the table, and give you specific observations afterward. If you would like more on games and leadership, subscribe to [the newsletter](/newsletter/) for one piece like this every week.
+The Ludarium runs [corporate tabletop events](/corporate-events/) in and around Indianapolis, including leadership sessions built around cooperative games, with hosts who teach, run the table, and give you specific observations afterward. If you would like more on games and leadership, subscribe to [the newsletter](/newsletter/) for new pieces like this.

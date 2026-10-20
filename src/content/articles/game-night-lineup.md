@@ -55,7 +55,7 @@ The table below shows how a three-hour evening breaks down.
 
 Those numbers flex, but the shape holds for almost any group. [How to host a game night](/articles/how-to-host-a-game-night/) covers the arrivals block and the food in more detail.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What makes a good closer?
 
@@ -116,6 +116,6 @@ Sixty to ninety minutes for most groups, and never more than half the evening. S
 
 Something fast and funny with a built-in ending: Cockroach Poker, Skull, Wavelength, or Telestrations. No new rules at 10 p.m.
 
-## A lineup idea in your inbox every week
+## A lineup idea in your inbox
 
-The Ludarium newsletter sends one practical piece each week on hosting and playing well, often with a ready-made three-game lineup for a specific kind of night. Subscribe and you will also be first to hear about open play at our Indianapolis lounge.
+The Ludarium newsletter sends new practical pieces on hosting and playing well, often with a ready-made three-game lineup for a specific kind of night. Subscribe and you will also be first to hear about open play at our Indianapolis lounge.

@@ -60,7 +60,7 @@ Within each pair, a structure we use at five per pair in a 540:
 
 The two signposts are the non-negotiables. The other three can shift with the season. Our signpost-cards piece covers how those two teach a draft.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Should the gold section include three-color cards?
 
@@ -125,4 +125,4 @@ No. A hybrid card can be cast by either color, so it does not reward two-color c
 
 ## Keep playing
 
-For one cube design piece a week, including the next time we resize our own gold section and what happened after, subscribe to The Ludarium newsletter. And if you draft in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) runs a 540 with fifty gold cards and an argument about every one of them.
+For new cube design pieces, including the next time we resize our own gold section and what happened after, subscribe to The Ludarium newsletter. And if you draft in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) runs a 540 with fifty gold cards and an argument about every one of them.

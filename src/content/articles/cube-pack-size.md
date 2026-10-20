@@ -55,7 +55,7 @@ Smaller packs (eleven to thirteen cards) do four things.
 
 Smaller packs make sense when you have more players than the cube supports at fifteen, when you are short on time, or when the cube is a chaos or retail-emulation cube where weaker decks are part of the fun.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What changes when packs get bigger?
 
@@ -121,4 +121,4 @@ It decides how much of the cube is opened, how strong decks are, how readable si
 
 ## Keep playing
 
-If you like the arithmetic side of cube, the newsletter sends one piece like this a week, including the formats we try at Cube Commonwealth and whether they worked. Subscribe, and if you are in Indianapolis, come count packs with us; [here is how to join](/articles/cube-draft-indianapolis/).
+If you like the arithmetic side of cube, the newsletter sends new pieces like this, including the formats we try at Cube Commonwealth and whether they worked. Subscribe, and if you are in Indianapolis, come count packs with us; [here is how to join](/articles/cube-draft-indianapolis/).

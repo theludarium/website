@@ -39,7 +39,7 @@ Not Catan. Not anything with a thirty-minute rules explanation, direct conflict,
 
 The pattern: early dates get cooperative or conversational games; later dates can handle competition. Wavelength in particular is a better first-date tool than most questions you could ask. Our longer list of [two-player games for date night](/articles/two-player-board-games-date-night/) goes deeper.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you build the evening?
 
@@ -94,4 +94,4 @@ Often just drinks and dinner. Elf 'N Moon's tables and library are free; library
 
 The game gives you a reason to sit down together. What happens across the table is the point. The game is the reason. The people are the point.
 
-For one date-night game idea a week, new places to play as they open, and first word on couple's memberships when The Ludarium opens in Indianapolis, subscribe to the newsletter. Short and weekly.
+For new date-night game ideas, new places to play as they open, and first word on couple's memberships when The Ludarium opens in Indianapolis, subscribe to the newsletter. Short and weekly.

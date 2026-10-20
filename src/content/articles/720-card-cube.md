@@ -55,7 +55,7 @@ Two more rules that help.
 
 **Duplicate effects on purpose.** Running two near-identical cards (Lightning Bolt and Chain Lightning, Counterspell and Mana Drain) is the big cube's main tool for keeping a role reliable. Some owners go further and run actual duplicates. Either is fine at 720 and both are better than a unique card that plays the role worse.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Is 810 or 900 ever right?
 
@@ -104,4 +104,4 @@ Two 360s with different identities are usually the stronger choice for a single 
 
 ## Keep playing
 
-If you run a big cube, or are talking yourself into one, subscribe to The Ludarium newsletter for a weekly cube design piece and our own change logs. Cube Commonwealth in Indianapolis seats two pods some weeks, and we would be glad to seat you. Details at [cube draft Indianapolis](/articles/cube-draft-indianapolis/).
+If you run a big cube, or are talking yourself into one, subscribe to The Ludarium newsletter for new cube design pieces and our own change logs. Cube Commonwealth in Indianapolis seats two pods some weeks, and we would be glad to seat you. Details at [cube draft Indianapolis](/articles/cube-draft-indianapolis/).

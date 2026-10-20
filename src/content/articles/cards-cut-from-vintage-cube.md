@@ -51,7 +51,7 @@ Wrath of God leaving on October 7, 2026 got attention because it is the original
 
 Time Warp is the bigger statement. For most of the cube's life, blue extra-turn spells were automatic. The note "past its prime" means a five-mana sorcery that does nothing to the board is too slow for a format where Boros kills on turn four. Time Walk, at two mana, stays. Deserved, and we would expect Temporal Manipulation-type cards never to return.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Bazaar of Baghdad and Survival of the Fittest: the graveyard retreat
 

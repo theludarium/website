@@ -40,7 +40,7 @@ The two-drop slot got the most interesting cards in the set.
 - **Pompous Battlemage** ({R}, 1/1 prowess; enters prepared with Improvised Act, a one-mana rummage). **Call: pass.** Close, but Monastery Swiftspear and Soul-Scar Mage hold the slot.
 - **Bloodline Recollector** ({1}{B}, 2/2; becomes prepared with Ancestral Craving, "target player draws three and loses 3 life," when three creatures died in a turn). **Call: pass.** Three deaths in a turn is rare in a 40-card deck.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What about the spells and the big stuff?
 

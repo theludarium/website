@@ -54,7 +54,7 @@ Every collection built from draft leftovers has the same holes, because retail d
 
 The order of purchases is fixing first, cheap removal second, one- and two-drops third. Those are the categories where a small order of a few dozen commons and uncommons changes how the cube plays.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Should a collection cube have a theme?
 
@@ -106,4 +106,4 @@ If they are not much stronger than the uncommons around them, yes. If a rare win
 
 The cards are there. The structure is a free weekend. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for one cube-building piece a week, including the sort-and-fill templates we use with new members. If you are in Indianapolis, bring your collection cube to a Cube Commonwealth draft; see [how to join](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for new cube-building pieces, including the sort-and-fill templates we use with new members. If you are in Indianapolis, bring your collection cube to a Cube Commonwealth draft; see [how to join](/articles/cube-draft-indianapolis/).

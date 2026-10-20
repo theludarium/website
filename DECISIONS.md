@@ -192,3 +192,8 @@ A short log of choices made and why. Newest at the bottom.
 ## 2026-10-20: Store prices reach browsers at once
 
 - The RPG Demo Library's `store.js` (prices and checkout links) and `buy.js` were served with Cloudflare's default 4-hour browser cache, so after the price change to $9.99 a returning visitor still saw $5. Now the demos load both with a content-hash version tag (`scripts/rpg-demo-library.mjs`), and `public/_headers` tells browsers to recheck them on every visit. Any future price or checkout-link change shows up on the next page load.
+
+## 2026-10-20: No newsletter schedule promises
+
+- About 330 articles told readers the newsletter "sends one piece like it every week" (plus variants: "one short email a week," "a weekly piece on cube design," "continues weekly"). Kit isn't set up and no schedule is set, so Levi chose to soften them everywhere: "If this is useful, the newsletter sends more like it," "new pieces on cube design," "short emails." Specific features nobody has planned (a yearly Gen Con family-day plan, a designers' thread, a monthly cube note) are gone too. Promise a schedule once one exists.
+- Batch 6 also fixed "come run a demo at our lounge" (now: once it opens) and "The Ludarium runs" a corporate events service (now: offers).

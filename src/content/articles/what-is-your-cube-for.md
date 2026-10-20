@@ -56,7 +56,7 @@ A proving ground wants archetypes with skill gaps: Reanimator, which rewards kno
 
 The number of lanes also follows. A cube for eight sharp drafters can support ten tight two-color lanes plus a few three-color or theme decks stacked on top. A cube for a shifting group of six should probably have fewer, broader lanes, so that any two colors played together make a deck. We treat this in detail in [archetype density](/articles/archetype-density/).
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How does the purpose decide individual cards?
 
@@ -103,4 +103,4 @@ Yes. One or two sentences at the top of the primer. It keeps the owner honest an
 
 A cube is the longest answer anyone gives to a short question. Decide what the cube is for, say it plainly, and let every card earn its slot against that sentence. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for one piece a week on cube design and the groups that play it. If you are near Indianapolis, draft with us at [Cube Commonwealth](/articles/cube-draft-indianapolis/) and tell us what your cube is for.
+Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that play it. If you are near Indianapolis, draft with us at [Cube Commonwealth](/articles/cube-draft-indianapolis/) and tell us what your cube is for.

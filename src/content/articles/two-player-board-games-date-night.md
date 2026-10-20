@@ -87,7 +87,7 @@ You play two characters in a relationship, make choices, and see where the story
 
 Not strictly a two-player game, but one of the best at that count. <!-- AFFILIATE --> The tile market is tighter with two, every pick matters, and the pieces are pleasant to handle during a slow conversation.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which game fits which kind of night?
 
@@ -131,4 +131,4 @@ Some can. Azul, Splendor, and Carcassonne are good at two. Most party games and 
 
 ## One game for two, every week
 
-The Ludarium newsletter sends one short idea each week on what to play and who to play it with, including picks for two. When the Indianapolis lounge opens, subscribers will hear first about the quiet corner tables. The game is the reason. The people are the point. Subscribe, and plan the next date night around a box instead of a screen.
+The Ludarium newsletter sends new short ideas on what to play and who to play it with, including picks for two. When the Indianapolis lounge opens, subscribers will hear first about the quiet corner tables. The game is the reason. The people are the point. Subscribe, and plan the next date night around a box instead of a screen.

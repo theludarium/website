@@ -50,7 +50,7 @@ The Commander player's instincts are mostly right here, with two corrections for
 
 **Mana rocks are the ramp.** Signets, Talismans, Fellwar Stone, Mind Stone, Arcane Signet, Commander's Sphere. Twenty-five rocks in a 540 is a floor. Green's land ramp supplements it (Cultivate, Kodama's Reach, Farseek), but the colorless layer has to carry every color.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What should stay out?
 
@@ -94,4 +94,4 @@ Yes; four is the standard pod. Draft four packs of 16 or three of 20, build 60, 
 
 A Commander cube is the box that finally gets the Commander half of a game night to draft, and the draft half to play a game that lasts longer than nine turns. The game is the reason. The people are the point.
 
-Subscribe to the Ludarium newsletter for one cube-building piece a week, and if you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) runs a Commander cube pod on request; ask in the Discord.
+Subscribe to the Ludarium newsletter for new cube-building pieces, and if you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) runs a Commander cube pod on request; ask in the Discord.

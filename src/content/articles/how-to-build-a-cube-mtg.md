@@ -63,7 +63,7 @@ You do not have to support all ten equally. But each color should have at least 
 
 The second thing every archetype needs is removal. A cube without enough ways to kill creatures becomes a race, and races are boring after the third draft. A rough guideline, and it is only ours, is to make sure every color that gets removal has enough of it that a drafter can expect to see several pieces in a draft.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Where do you buy the cards cheaply?
 
@@ -120,6 +120,6 @@ Assembling a 360-card cube from a published list usually takes two to four weeke
 
 ## Build it, then bring people to it
 
-The first cube is a project. The fiftieth draft is a tradition. If you are starting one, the Ludarium newsletter sends one piece a week on building a table people come back to, and we trade cube card lists with subscribers who ask. Cube Commonwealth, our drafting community, welcomes new owners, and when our Indianapolis lounge opens there will be a cube on the shelf for anyone who wants to learn.
+The first cube is a project. The fiftieth draft is a tradition. If you are starting one, the Ludarium newsletter sends new pieces on building a table people come back to, and we trade cube card lists with subscribers who ask. Cube Commonwealth, our drafting community, welcomes new owners, and when our Indianapolis lounge opens there will be a cube on the shelf for anyone who wants to learn.
 
 The game is the reason. The people are the point.

@@ -54,7 +54,7 @@ Do not draw when the leader is under ten trains. The game ends after the round i
 
 A draw that gives you three bad options still forces you to keep one. Before you draw, look at the map and ask which tickets your network would already cover. If the answer is "not many," wait.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Build early or draw cards early?
 
@@ -128,4 +128,4 @@ Only when the locomotive completes a route you will claim next turn. Otherwise, 
 
 ## One game, one guide, once a week
 
-We write strategy guides so that someone at your table is confident enough to teach, because a taught game is a played game. The Ludarium newsletter sends one piece a week on tabletop play and the membership lounge we are building in Indianapolis. [Subscribe](/newsletter) for the next guide before it goes on the site, and bring the longest route to your next game night.
+We write strategy guides so that someone at your table is confident enough to teach, because a taught game is a played game. The Ludarium newsletter sends new pieces on tabletop play and the membership lounge we are building in Indianapolis. [Subscribe](/newsletter) for the next guide before it goes on the site, and bring the longest route to your next game night.

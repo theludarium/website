@@ -30,7 +30,7 @@ In Ikaria, the pattern Buettner describes is late nights, dominoes, and long eve
 
 The thread through all of it is ritual. Not occasional connection, but scheduled, repeated, low-effort connection with the same people. That is also, almost exactly, a description of a good game night.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Why does social connection show up in longevity research everywhere, not just the Blue Zones?
 
@@ -92,7 +92,7 @@ Start with three or four people you already like, pick a weekly time, and give i
 
 ## Build your own plaza
 
-The Ludarium in Indianapolis is designed to be the plaza: a place with tables, games, and people who show up every week. New articles on play and longevity go to subscribers first. Subscribe to the Ludarium newsletter and get one piece a week on togethering for a lifetime.
+The Ludarium in Indianapolis is designed to be the plaza: a place with tables, games, and people who show up every week. New articles on play and longevity go to subscribers first. Subscribe to the Ludarium newsletter and get new pieces on togethering for a lifetime.
 
 ## Sources
 

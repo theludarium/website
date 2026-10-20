@@ -56,7 +56,7 @@ The table hides the real difference, which is where the fun lives. In precon pla
 
 **When you want one purchase instead of many.** A cube costs more up front and nothing after. With Commander precons now carrying a [$49.99 list price](https://mtgrocks.com/mtg-lorwyn-eclipsed-price-increase/), a group that buys a set of four with each release spends more in a year or two than a budget 360 costs once.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What sits between them?
 
@@ -103,4 +103,4 @@ A battle box: one shared library of spells and ten lands per player, ready to pl
 
 Whatever lands on the table, the goal is the same: two or more people, an evening, and a game that gets them talking. The game is the reason. The people are the point.
 
-Subscribe to the Ludarium newsletter for one game-night format each week, and if you are in Indianapolis, stop by a [Cube Commonwealth](/articles/cube-draft-indianapolis/) night; we keep precons and a battle box on the side table for anyone who arrives after the draft starts.
+Subscribe to the Ludarium newsletter for one game-night format, and if you are in Indianapolis, stop by a [Cube Commonwealth](/articles/cube-draft-indianapolis/) night; we keep precons and a battle box on the side table for anyone who arrives after the draft starts.

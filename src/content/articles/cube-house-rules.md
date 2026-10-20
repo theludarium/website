@@ -41,7 +41,7 @@ These are the ones that come up at nearly every cube table we have sat at. Your 
 
 Most groups add two or three of their own on top. The rest of the list is rarely needed.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which rules should stay out of the primer?
 
@@ -97,4 +97,4 @@ In the house rules section of the primer, one or two sentences each, with a link
 
 The best house-rules sections are short, each line has a reason, and nobody at the table has read them in months because nobody has needed to. That is the goal. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for the rest of this series on cube primers, one part a week. If you are near Indianapolis, our rules are posted and our table is open at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for the rest of this series on cube primers. If you are near Indianapolis, our rules are posted and our table is open at [Cube Commonwealth](/articles/cube-draft-indianapolis/).

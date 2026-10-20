@@ -50,7 +50,7 @@ Magic has a lot of losing in it. Variance means good players lose to bad draws r
 
 If you are trying to teach a child these lessons, [how to be a good loser](/articles/how-to-be-a-good-loser/) covers the broader version of them.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What does the game teach that it does not mean to?
 
@@ -97,7 +97,7 @@ Because the game is deep enough to reward decades of play, and because the table
 
 ## Keep the lessons, keep the table
 
-If Magic taught you something that stuck, we would like to hear it. The Ludarium newsletter sends one piece a week on what games teach and why playing together matters, and we publish reader stories when they are good. Cube players and former players who want back in are welcome at Cube Commonwealth, our drafting community, and the Indianapolis lounge will have a seat for you when it opens.
+If Magic taught you something that stuck, we would like to hear it. The Ludarium newsletter sends new pieces on what games teach and why playing together matters, and we publish reader stories when they are good. Cube players and former players who want back in are welcome at Cube Commonwealth, our drafting community, and the Indianapolis lounge will have a seat for you when it opens.
 
 The game is the reason. The people are the point.
 

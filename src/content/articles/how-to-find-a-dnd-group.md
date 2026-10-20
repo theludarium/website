@@ -46,7 +46,7 @@ That message does a lot of work. "Never played" is not a weakness; most organize
 
 Do not oversell your knowledge. If you have read half the Player's Handbook, you are still a beginner, and saying so sets expectations the table will meet.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you tell a good table from a bad one?
 
@@ -104,4 +104,4 @@ One GM and three to five players is the standard. Two players and a GM works, th
 
 ## Still looking?
 
-Subscribe to The Ludarium newsletter: one article a week on getting adults around a table. Want to try a game before you buy it? Play a free intro adventure in the [RPG Demo Library](/rpg-demo-library/), right in your browser, by each game's real rules.
+Subscribe to The Ludarium newsletter: new articles on getting adults around a table. Want to try a game before you buy it? Play a free intro adventure in the [RPG Demo Library](/rpg-demo-library/), right in your browser, by each game's real rules.

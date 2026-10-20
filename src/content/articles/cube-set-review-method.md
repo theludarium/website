@@ -52,7 +52,7 @@ We use exactly three calls. More categories sound precise but produce arguments 
 
 Two rules keep this honest. First, a test always names the card it replaces. "Test it" without a cut is how cubes grow from 540 to 600 without anyone deciding to. Second, a keep is rare. In most sets we call two or three keeps and five to ten tests. If you find yourself calling eight keeps, re-read the slot comparisons.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you run the test?
 

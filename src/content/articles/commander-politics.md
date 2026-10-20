@@ -56,7 +56,7 @@ Board game designers have spent decades on the same problem, and some of their s
 
 The games that work use one of two strategies. Either they make betrayal the explicit theme so nobody is surprised, or they make threat visible and objective so attacking the leader feels like math, not malice. Commander does neither by default. The table has to supply it. The piece on [why social deduction games work](/articles/why-social-deduction-games-work/) covers how designers build betrayal into games on purpose.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you play Commander politics without making enemies?
 
@@ -106,6 +106,6 @@ Ask the table why. If it is because your deck is much stronger than theirs, play
 
 ## Keep the pod together
 
-Every Commander player has a story about a game that went sour. The point is to have more stories about the games that did not. The Ludarium newsletter sends one piece a week on playing games with people you want to keep, Magic included. If you ever want a break from four-player politics, Cube Commonwealth, our drafting community, runs clean eight-player drafts with no deals to break, and the Indianapolis lounge will have room for both.
+Every Commander player has a story about a game that went sour. The point is to have more stories about the games that did not. The Ludarium newsletter sends new pieces on playing games with people you want to keep, Magic included. If you ever want a break from four-player politics, Cube Commonwealth, our drafting community, runs clean eight-player drafts with no deals to break, and the Indianapolis lounge will have room for both.
 
 The game is the reason. The people are the point.

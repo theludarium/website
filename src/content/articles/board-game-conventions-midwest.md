@@ -62,7 +62,7 @@ A board-game-first convention running [March 25–28, 2027](https://www.buckeyeg
 
 The board gamer's convention in the region. The main show is held at the Saint Charles Convention Center in St. Charles, Missouri, just outside St. Louis; the 2026 dates were [May 14–17](https://stcharlesconventioncenter.com/?p=2047), and the organizers also run a smaller winter event, Geekway Mini, on [January 22–24, 2027](https://www.geekway.com/). Geekway is known for its game library and its play-and-win program, where attendees who play donated copies are entered to take them home. Badges [sold out in 2025](https://tabletop.events/conventions/geekway-2025), and the show drew about 3,000 people the year before, so buy early.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ### Origins Game Fair (Columbus, Ohio)
 

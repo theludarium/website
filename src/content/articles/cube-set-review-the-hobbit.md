@@ -29,7 +29,7 @@ Dwarves and Equipment in white and red, Treasure in red and black, Adventures re
 - **The Great Goblin** ({1}{B/R}{B/R}, 3/2; counters on Goblins ping for 2; Goblin deaths give impulse draw). **Call: pass** for non-tribal cubes.
 - **Bard, King of Dale** ({4}{W}{U}, 3/5 reach vigilance; doubles your draws and token creation). **Call: pass.** Six-mana gold walls do not draft.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Is the Equipment package worth it?
 

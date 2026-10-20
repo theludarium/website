@@ -52,7 +52,7 @@ Practical order of operations:
 
 Our archetype density article has the numbers for how many lanes a given size holds.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Add the lands first
 
@@ -118,4 +118,4 @@ Choosing the cards can take a few weekends. Testing and tuning takes three to si
 
 ## Keep playing
 
-We send one cube piece a week in The Ludarium newsletter, and the next expansion we make to the Commonwealth cube will be written up there, cuts and all. Subscribe, and if you are in Indianapolis, come draft the result with [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+We send new cube pieces in The Ludarium newsletter, and the next expansion we make to the Commonwealth cube will be written up there, cuts and all. Subscribe, and if you are in Indianapolis, come draft the result with [Cube Commonwealth](/articles/cube-draft-indianapolis/).

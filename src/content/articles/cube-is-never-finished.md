@@ -50,7 +50,7 @@ Ours is a spreadsheet with four columns: candidate card, the card it would repla
 3. **Cuts go on it too.** A card that has been last-picked three drafts running gets an entry as a cut candidate, with the slot it would open. Half the value of the watch list is the cuts, which owners otherwise never make.
 4. **The list is not the cube.** Thirty candidates on the watch list is normal. Thirty swaps in a month is not. The list is for thinking; the cadence is for acting.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you handle a new set?
 
@@ -112,4 +112,4 @@ A running list of candidate cards, each paired with the card it would replace an
 
 A cube is a garden, not a building. It is never done, and it does not need to be. Set a cadence, keep a watch list, let most new cards pass, and decide on purpose whether the list is allowed to move. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for a weekly piece on cube design and the groups that play it. Indianapolis drafters can see this month's swaps in person at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that play it. Indianapolis drafters can see this month's swaps in person at [Cube Commonwealth](/articles/cube-draft-indianapolis/).

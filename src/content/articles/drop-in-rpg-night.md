@@ -60,7 +60,7 @@ A one-shot for strangers has a shape, and the shape is tighter than a campaign s
 | 1:30 | Climax | Every player does one memorable thing |
 | 1:55 | Ending | A clear outcome, and one line about what happens next |
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What does the GM do differently with strangers?
 
@@ -108,6 +108,6 @@ About two hours, with a short break. That is long enough for a three-scene story
 
 ## A table waiting for you
 
-Drop-in RPG nights are the first thing we plan to run weekly at The Ludarium in Indianapolis, because they are the format that turns the curious into players. Subscribe to the newsletter and you get one piece of programming a week, including the one-shot templates and pregen sheets as we publish them.
+Drop-in RPG nights are the first thing we plan to run weekly at The Ludarium in Indianapolis, because they are the format that turns the curious into players. Subscribe to the newsletter and you get new programming, including the one-shot templates and pregen sheets as we publish them.
 
 The game is the reason. The people are the point.

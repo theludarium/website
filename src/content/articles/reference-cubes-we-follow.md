@@ -42,7 +42,7 @@ This is the one we track most closely. The specific value is the reasoning colum
 
 The Pauper Cube is the opposite of the Vintage Cube in every way that matters for a reference. Updates are rare, posted on a blog with full reasoning, and discussed on a Discord before they land. The site credits Eric Klug, Alex Ullman, Usman Jamil and Craig Sybert as contributors alongside Styborski. For an owner trying to decide how formal to make their own process, this is the mature end of the spectrum. Our piece on [the Pauper Cube](/articles/the-pauper-cube/) goes deeper.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Lucky Paper
 
@@ -108,4 +108,4 @@ No. Diff it against yours, read its reasoning, and test the changes that apply t
 
 ## Follow them with us
 
-We read all four so you can read a summary. The game is the reason. The people are the point. Subscribe to The Ludarium newsletter for a monthly note on what the reference cubes changed and what we did about it, and if you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) is where the diffs get argued over a table.
+We read all four so you can read a summary. The game is the reason. The people are the point. Subscribe to The Ludarium newsletter for notes on what the reference cubes changed and what we did about it, and if you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) is where the diffs get argued over a table.

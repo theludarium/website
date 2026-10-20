@@ -76,7 +76,7 @@ But experienced players who draft both regularly often say the pauper cube produ
 
 The honest split, in my experience, is this. Vintage cube is a better spectacle. Pauper cube is a better game. Which your group wants on a given night varies, and that is a good argument for owning or borrowing both.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What about the middle ground?
 
@@ -120,6 +120,6 @@ Most owners should build a pauper or peasant cube first. It is cheap, it gets dr
 
 ## Pick your cube, then pick your night
 
-Both cubes end the same way: eight people around a table, arguing about a pick from pack two. The Ludarium newsletter sends one piece a week on games that bring people together, and cube is a regular topic. Cube players, whatever power level you prefer, are welcome at Cube Commonwealth, our drafting community. The Indianapolis lounge will stock a pauper cube for teaching and keep a more powerful one for the regulars.
+Both cubes end the same way: eight people around a table, arguing about a pick from pack two. The Ludarium newsletter sends new pieces on games that bring people together, and cube is a regular topic. Cube players, whatever power level you prefer, are welcome at Cube Commonwealth, our drafting community. The Indianapolis lounge will stock a pauper cube for teaching and keep a more powerful one for the regulars.
 
 The game is the reason. The people are the point.

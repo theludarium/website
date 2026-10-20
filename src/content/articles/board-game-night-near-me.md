@@ -51,7 +51,7 @@ Before you commit an evening, look for three signals in the listing or the first
 
 The single strongest predictor is the host. A game night with a person whose job is to notice the stranger at the door will absorb you in two minutes. One without a host can leave you standing by the shelf for twenty.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What should you expect when you show up alone?
 
@@ -118,4 +118,4 @@ Many are, especially at libraries and breweries. Cafes and stores may charge a s
 
 Somewhere within a reasonable drive, there is a table on a Tuesday with an empty chair. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for one game-night idea a week, plus dates and locations for our public game nights around Indianapolis as they are set. If you are looking for a table, we want to help you find one.
+Subscribe to The Ludarium newsletter for new game-night ideas, plus dates and locations for our public game nights around Indianapolis as they are set. If you are looking for a table, we want to help you find one.

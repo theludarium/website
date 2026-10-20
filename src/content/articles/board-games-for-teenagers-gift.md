@@ -53,7 +53,7 @@ Games that pass all four get played until 2 a.m. Games that fail one go back on 
 
 **Dungeons & Dragons Starter Set: Heroes of the Borderlands** <!-- AFFILIATE --> (about $45 to $50; [Noble Knight listed it at $44.95](https://www.nobleknight.com/P/2148328562/Starter-Set---Heroes-of-the-Borderlands) at the time of writing). For a group, not a person. The 2025 starter set has maps, tokens, and short scenarios built so that a group of teens can run it without an experienced adult. Our [D&D starter set gift guide](/articles/best-dnd-starter-set-gift/) covers what to add to the box.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which game for which teenager?
 
@@ -101,4 +101,4 @@ At least six. Friend groups run five to eight, and a game that caps at four leav
 
 ## One idea a week for the table in the basement
 
-Subscribe to The Ludarium newsletter and we will send one short piece a week on games and getting people to play them, including the teen-tested games we are stocking for our Indianapolis lounge. New picks go to subscribers first.
+Subscribe to The Ludarium newsletter and we will send new short pieces on games and getting people to play them, including the teen-tested games we are stocking for our Indianapolis lounge. New picks go to subscribers first.

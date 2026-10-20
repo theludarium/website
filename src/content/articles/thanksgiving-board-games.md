@@ -43,7 +43,7 @@ Sorted by what the room needs. Player counts and ages are the publishers' (names
 
 Codenames is the one to own if you own only one. It plays with almost any number, divides naturally into "kids and grandparents versus parents," and a single round takes fifteen minutes.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## When should you bring the games out?
 

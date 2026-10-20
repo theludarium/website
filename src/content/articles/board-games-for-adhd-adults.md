@@ -59,7 +59,7 @@ With that in mind, some reliable picks:
 
 Games to approach carefully: anything with long, heavy turns and little to do while waiting. Some people with ADHD love Gloomhaven. Many bounce off it in session two.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you run a game table that works for ADHD?
 
@@ -102,7 +102,7 @@ Choose shorter games, keep the group small, teach by playing rather than lecturi
 
 ## Find your table
 
-The Ludarium is building a place in Indianapolis where a well-run game table is always available, with games chosen to keep everyone in it. New articles on play and health go to subscribers first. Subscribe to the Ludarium newsletter for one piece a week on playing for a lifetime.
+The Ludarium is building a place in Indianapolis where a well-run game table is always available, with games chosen to keep everyone in it. New articles on play and health go to subscribers first. Subscribe to the Ludarium newsletter for new pieces on playing for a lifetime.
 
 ## Sources
 

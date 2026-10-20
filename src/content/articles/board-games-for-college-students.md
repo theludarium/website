@@ -59,7 +59,7 @@ Most of the games above play at two, but a couple of picks are better for a quie
 
 For more two-player picks that scale up when friends come over, see [board games for couples](/articles/board-games-for-couples/). The advice carries over.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you find other people who play on campus?
 
@@ -102,8 +102,8 @@ Yes. Any card game works on a bed or the floor. Codenames, The Crew, Love Letter
 
 Search your student organizations list for "tabletop," "board game," or "gaming." Ask at the library. Or visit the nearest game store and ask about open play nights.
 
-## Get one game-night idea a week
+## Get new game-night ideas
 
 College is one of the last times you will live within walking distance of a hundred potential game partners. Use it. The game is the reason. The people are the point.
 
-The Ludarium newsletter sends one game-night idea a week, many of them cheap and small. Subscribe, and if you ever end up in Indianapolis, come find us.
+The Ludarium newsletter sends new game-night ideas, many of them cheap and small. Subscribe, and if you ever end up in Indianapolis, come find us.

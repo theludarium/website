@@ -57,7 +57,7 @@ Three devices help.
 
 Keep the gap between first and last reasonable. If the top team is winning by thirty points at the break, your questions are too hard for the room, and you should adjust the back half.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How should scoring work?
 
@@ -119,6 +119,6 @@ Ban phones during rounds, announce the penalty, and build questions that reward 
 
 ## Get the next round of ideas
 
-Trivia is one of the formats we will run at The Ludarium in Indianapolis, and the connections round is the one we will be known for. Subscribe to the newsletter for one event format a week, with the structure and the mistakes to avoid, straight to your inbox before game night.
+Trivia is one of the formats we will run at The Ludarium in Indianapolis, and the connections round is the one we will be known for. Subscribe to the newsletter for new event formats, with the structure and the mistakes to avoid, straight to your inbox before game night.
 
 The game is the reason. The people are the point.

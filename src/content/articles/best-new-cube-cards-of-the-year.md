@@ -38,7 +38,7 @@ Passing is the normal result. A sample of the cards we would pass, with the reas
 
 The pattern is the same as every year: cards that need a specific supporting lane fail in a cube that does not have the lane, no matter how strong the card looks in Standard or Commander. The slot method is in [how to evaluate new cards for cube](/articles/how-to-evaluate-new-cards-for-cube/) and it flags four of these six on paper.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which cards would we still test?
 

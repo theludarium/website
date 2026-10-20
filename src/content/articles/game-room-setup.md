@@ -58,7 +58,7 @@ Backs matter because a game runs two to three hours. Stools are fine for 20 minu
 
 Armrests are a mixed blessing. They support elbows during a long game but take up width and make it harder to squeeze six around a table built for four. Armless chairs for the sides, arms at the ends, is a reasonable compromise.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How should you handle sound at a game night?
 
@@ -107,4 +107,4 @@ Clear the table completely, bring a lamp to it, match chair heights, and put foo
 
 ## Room-tested ideas, one a week
 
-The Ludarium newsletter sends one practical piece each week on hosting and playing well, from lighting a table to picking the right lineup. Subscribe and you will also be first to hear when our Indianapolis lounge opens, where we have spent far too long thinking about chairs.
+The Ludarium newsletter sends new practical pieces on hosting and playing well, from lighting a table to picking the right lineup. Subscribe and you will also be first to hear when our Indianapolis lounge opens, where we have spent far too long thinking about chairs.

@@ -49,7 +49,7 @@ Then hold the line gently. If someone forgets, say "basket" and smile. Do not ma
 
 One exception worth naming out loud: anyone with a real reason to be reachable, like a parent with a sick kid or a doctor on call, keeps their phone with the ringer on. The rule is about scrolling, not about safety. Say that explicitly so nobody feels trapped.
 
-*One table idea a week, in the newsletter.*
+*New table ideas, in the newsletter.*
 
 ## What actually changes at a phone-free table?
 
@@ -102,7 +102,7 @@ Let them keep it with the ringer on. The rule targets scrolling, not safety, and
 
 ---
 
-Every table at The Ludarium's Indianapolis lounge will have a phone basket. It is a small thing, but it is the first thing we decided. For more small things that build a table people cannot wait to come back to, subscribe to the newsletter at theludarium.com: one idea a week, no scrolling required.
+Every table at The Ludarium's Indianapolis lounge will have a phone basket. It is a small thing, but it is the first thing we decided. For more small things that build a table people cannot wait to come back to, subscribe to the newsletter at theludarium.com: new ideas, no scrolling required.
 
 The game is the reason. The people are the point.
 

@@ -52,7 +52,7 @@ Hanabi deserves a special note. You hold your cards facing outward; you see ever
 
 For a broader list sorted by group size and goal, see [team-building board games that don't feel like team building](/articles/team-building-board-games/).
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What should a manager do during the session?
 
@@ -107,4 +107,4 @@ Light team-versus-team games like Codenames can. Games that require lying to or 
 
 ## Want this for your team?
 
-The Ludarium runs [corporate tabletop events](/corporate-events/) across Indianapolis and the surrounding area, with hosts trained to keep every voice at the table in the game. We can build a session around cooperative play for a single team or a department. If you would rather start small, subscribe to [the newsletter](/newsletter/) and get one workplace game idea every week.
+The Ludarium runs [corporate tabletop events](/corporate-events/) across Indianapolis and the surrounding area, with hosts trained to keep every voice at the table in the game. We can build a session around cooperative play for a single team or a department. If you would rather start small, subscribe to [the newsletter](/newsletter/) and get new workplace game ideas.

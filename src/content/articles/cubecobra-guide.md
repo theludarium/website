@@ -32,7 +32,7 @@ Three reasons it is worth the move from a spreadsheet:
 
 **Set up the maybeboard.** Alongside the main list is a maybeboard, a holding pen for cards you are considering. Putting candidates there instead of in a notes file means they show up in the same views as the real list, with the same filters.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What are the list views good for?
 
@@ -108,4 +108,4 @@ A second list attached to your cube for cards you are considering but have not a
 
 A cube list on CubeCobra is a thing your group can read, follow, argue with, and draft from anywhere. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for one piece a week on cube and the communities that draft it. Indianapolis readers can see our list in person at [Cube Commonwealth](/articles/cube-draft-indianapolis/), and online on CubeCobra. <!-- EDITOR: add detail: link to the Cube Commonwealth list -->
+Subscribe to The Ludarium newsletter for new pieces on cube and the communities that draft it. Indianapolis readers can see our list in person at [Cube Commonwealth](/articles/cube-draft-indianapolis/), and online on CubeCobra. <!-- EDITOR: add detail: link to the Cube Commonwealth list -->

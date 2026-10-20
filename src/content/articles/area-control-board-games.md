@@ -65,7 +65,7 @@ Blood Rage deserves a closer look because it is a Viking combat game that still 
 
 Small World pulls a different trick. When your race is overstretched, you put it into decline and pick a new one. A losing position does not get worse forever. It gets replaced.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you handle kingmaking?
 
@@ -127,4 +127,4 @@ In area majority, several players share a region and score by rank. In strict ar
 
 ## Bring the map
 
-If you are prototyping a conflict game, the open playtest table at The Ludarium in Indianapolis is a good place to find out whether your fights feel fair. For design articles like this one each week, along with notes on hosting and what to play, subscribe to the newsletter. It is free, and subscribers see new pieces first.
+If you are prototyping a conflict game, the open playtest table at The Ludarium in Indianapolis is a good place to find out whether your fights feel fair. For design articles like this one, along with notes on hosting and what to play, subscribe to the newsletter. It is free, and subscribers see new pieces first.

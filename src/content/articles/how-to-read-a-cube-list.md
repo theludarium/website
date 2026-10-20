@@ -59,7 +59,7 @@ Read all of one guild. If Boros is Lightning Helix, Figure of Destiny and Boros 
 
 The size of the section is its own signal. Six per guild, as in the Legacy Cube, says "the pairs are hints." Fifteen per guild, as in the Vintage Cube's Izzet, says "this pair is a full archetype with its own payoffs."
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Step 5: Look for the packages
 
@@ -112,6 +112,6 @@ The list. The primer tells you intent; the list tells you what was built. Compar
 
 ## Bring a list to the table
 
-Reading lists is a skill that gets faster with practice, and the best practice is reading one with the person who built it sitting across from you. Cube Commonwealth members trade lists and tear them apart over post-draft drinks, and you are welcome to [join us in Indianapolis](/articles/cube-draft-indianapolis/). The Ludarium newsletter sends one cube piece a week; subscribe and we will send a list to practice on.
+Reading lists is a skill that gets faster with practice, and the best practice is reading one with the person who built it sitting across from you. Cube Commonwealth members trade lists and tear them apart over post-draft drinks, and you are welcome to [join us in Indianapolis](/articles/cube-draft-indianapolis/). The Ludarium newsletter sends new cube pieces; subscribe and we will send a list to practice on.
 
 The game is the reason. The people are the point.

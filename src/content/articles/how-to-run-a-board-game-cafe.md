@@ -51,7 +51,7 @@ Your menu is constrained by the fact that every customer has cards in the other 
 
 The owners who ignore this spend their Saturdays wiping sauce off Wingspan. The ones who plan for it have a short menu, a fast kitchen, and clean cards.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Lesson 7: Furniture is not where you save money
 
@@ -81,7 +81,7 @@ Measure it. How many first-timers came, how many came back, how many joined some
 
 Daytime hours are usually quiet, and a team of twelve from a nearby office will pay more for a two-hour facilitated session than a full Saturday night of covers. Companies want team-building that does not feel like team-building, and a well-run game of Pandemic or a round of The Crew shows a manager more about how their team communicates than a quarter of meetings.
 
-Build a simple offer: a facilitator, three games matched to the group's goals, a room, and food. Price it per head. The Ludarium runs this as a standalone service in Indianapolis even before its lounge opens, because the demand is there and the margins support everything else.
+Build a simple offer: a facilitator, three games matched to the group's goals, a room, and food. Price it per head. The Ludarium offers this as a standalone service in Indianapolis ahead of its lounge, because the demand is there and the margins support everything else.
 
 ## Lesson 12: You will be tempted to open too big
 

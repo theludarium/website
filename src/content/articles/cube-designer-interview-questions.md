@@ -58,7 +58,7 @@ Designers will tell you about the lane that is humming. Ask about the one they a
 **12. What did you cut that your drafters still complain about?**
 This reveals the relationship between owner and group. Some designers hold the line; some reverse. Both can be right. The answer tells you which kind of cube this is.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Set 4: Power and policing
 
@@ -130,6 +130,6 @@ With their review. Quotes appear exactly as spoken, the designer sees the draft 
 
 ## Ask us
 
-Several of these questions came from being asked them badly. If you want to interview a Cube Commonwealth designer, or be interviewed, [here is how to find us in Indianapolis](/articles/cube-draft-indianapolis/). Subscribe to The Ludarium newsletter for one cube piece a week, including the designer conversations as we publish them.
+Several of these questions came from being asked them badly. If you want to interview a Cube Commonwealth designer, or be interviewed, [here is how to find us in Indianapolis](/articles/cube-draft-indianapolis/). Subscribe to The Ludarium newsletter for new cube pieces, including the designer conversations as we publish them.
 
 The game is the reason. The people are the point.

@@ -62,7 +62,7 @@ After the draft, do deck construction out loud. "Sort by mana cost. Count your c
 
 For round one, let new players play with hands revealed, or let them ask the table questions mid-game. The point is reps. Competitive integrity can wait for round two.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What rules should you teach first, and what can wait?
 
@@ -117,6 +117,6 @@ No. If someone you know owns a cube, you can learn and keep playing without buyi
 
 ## Bring someone new to the table
 
-The best Magic night I ever ran was the one where three people played their first game. If you want to teach someone, the Ludarium newsletter sends one piece a week on games that bring people together, including cube and teaching tips. New players and the friends who teach them are welcome at Cube Commonwealth, our drafting community, and the Indianapolis lounge will keep a teaching cube on hand.
+The best Magic night I ever ran was the one where three people played their first game. If you want to teach someone, the Ludarium newsletter sends new pieces on games that bring people together, including cube and teaching tips. New players and the friends who teach them are welcome at Cube Commonwealth, our drafting community, and the Indianapolis lounge will keep a teaching cube on hand.
 
 The game is the reason. The people are the point.

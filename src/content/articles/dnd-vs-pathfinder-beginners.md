@@ -52,7 +52,7 @@ The **Pathfinder Beginner Box** is a long-running product, revised for the Remas
 
 If the first session is your main concern, the D&D box gets a table going faster. If you are the person who will be running the game and you want to feel prepared, the Pathfinder box teaches more carefully.
 
-*If this is useful, the newsletter sends one comparison like it every week.*
+*If this is useful, the newsletter sends more comparisons like it.*
 
 ## Which is easier to find a group for?
 
@@ -116,4 +116,4 @@ Both have community resources for small tables. The Pathfinder Beginner Box incl
 
 ## Join the table before the lounge opens
 
-The game is the reason. The people are the point. Whichever system you choose, the goal is the same: a few people around a table, inventing a story out loud. For one short piece a week on tabletop play, including RPG nights at the Indianapolis lounge once it opens, subscribe to The Ludarium newsletter.
+The game is the reason. The people are the point. Whichever system you choose, the goal is the same: a few people around a table, inventing a story out loud. For new short pieces on tabletop play, including RPG nights at the Indianapolis lounge once it opens, subscribe to The Ludarium newsletter.

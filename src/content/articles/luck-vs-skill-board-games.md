@@ -40,7 +40,7 @@ Candy Land is the classic example because it has literally zero decisions. You d
 
 Many roll-and-move games sit near this end. These games can still be social. They cannot be interesting, and interest is what brings people back on purpose.
 
-*One piece like this a week, free, in the newsletter.*
+*New pieces like this, free, in the newsletter.*
 
 ## How do the games that last split the difference?
 
@@ -117,4 +117,4 @@ Randomness that occurs after a player decides, such as declaring an attack and t
 
 ---
 
-Games that hand you a problem and let you solve it are the ones people keep asking to play. The Ludarium newsletter sends one piece a week on how those games are built and why they hold a table, with news from the Indianapolis lounge as it comes. Subscribe at theludarium.com. The game is the reason. The people are the point.
+Games that hand you a problem and let you solve it are the ones people keep asking to play. The Ludarium newsletter sends new pieces on how those games are built and why they hold a table, with news from the Indianapolis lounge as it comes. Subscribe at theludarium.com. The game is the reason. The people are the point.

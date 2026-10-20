@@ -34,7 +34,7 @@ The pinned post is a summary, not a copy. If the full primer and the pin both ca
 
 Two more things belong in Discord and nowhere else. The weekly post, with the venue, time, and seat count, which changes and should not be in a permanent document. And a thread for primer feedback, so that questions and corrections arrive in one place instead of in direct messages to the host. The channel structure that makes this work is in [Discord for a game group](/articles/discord-setup-for-a-game-group/).
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What goes in print?
 
@@ -99,4 +99,4 @@ For drafting it, yes. For publishing, no: it is not next to the list and strange
 
 A primer is only as good as the moment it is read, and the moment is different for each reader. Put the right amount in each of the three places, keep one as the source, and the document does its job without anyone being told to go read it. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for the last part of this series, our own cube's primer, and one piece a week after that. Indianapolis drafters can find all three copies of ours, including the one in the box, at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for the last part of this series, our own cube's primer, and new pieces after that. Indianapolis drafters can find all three copies of ours, including the one in the box, at [Cube Commonwealth](/articles/cube-draft-indianapolis/).

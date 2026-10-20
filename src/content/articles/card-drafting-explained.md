@@ -50,7 +50,7 @@ The key difference is information. In pick-and-pass, you only see the hand in fr
 
 Dice drafting deserves a mention because it fixes one of the oldest complaints about dice. Rolling a bad number hurts less when you get to pick from everyone's rolls instead of being stuck with your own. Sagrada and Grand Austria Hotel both do this well. <!-- AFFILIATE -->
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What does it mean to "read signals" in a draft?
 
@@ -112,7 +112,7 @@ Partly. Taking train cards from the face-up row is an open draft, but the rest o
 
 A draft is a conversation held in cards. Every pick you make says something to the player beside you, and every hand you receive tells you what the players before you wanted. It rewards attention to other people more than almost any other mechanic in the hobby. The game is the reason. The people are the point.
 
-We send one piece like this a week to subscribers, covering the mechanics, the games, and the groups that make them worth playing. Subscribe to The Ludarium newsletter, and if you are near Indianapolis, our membership lounge will have a drafting table waiting.
+We send new pieces like this to subscribers, covering the mechanics, the games, and the groups that make them worth playing. Subscribe to The Ludarium newsletter, and if you are near Indianapolis, our membership lounge will have a drafting table waiting.
 
 ## Sources
 

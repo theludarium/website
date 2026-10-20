@@ -32,7 +32,7 @@ Creativity and problem-solving. Studies of playfulness in adults, including [wor
 
 None of this means a board game is medicine. It means play seems to do several good things at once, and most adults are getting very little of it.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Why do adults stop playing?
 
@@ -90,7 +90,7 @@ That feeling is common and it fades fast. Most people find that a few plays in, 
 
 ## Make it a habit
 
-The Ludarium is building a place in Indianapolis where adults play on purpose, every week, with people they like. New articles on play and health go to subscribers first. Subscribe to the Ludarium newsletter for one idea a week on how to keep playing for a lifetime.
+The Ludarium is building a place in Indianapolis where adults play on purpose, every week, with people they like. New articles on play and health go to subscribers first. Subscribe to the Ludarium newsletter for new ideas on how to keep playing for a lifetime.
 
 ## Sources
 

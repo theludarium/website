@@ -48,7 +48,7 @@ In the first minute, they want to know:
 
 Practice saying all of that in under a minute without a card. Then stop talking and let them ask.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What should the prototype look like?
 
@@ -123,4 +123,4 @@ Not unless the publisher raises it. The first meeting is about fit and interest;
 
 ## Designers, this one's for you
 
-Every week The Ludarium newsletter sends one piece on games, tables, and the people around them, including a running thread for designers on playtesting, pitching, and the Midwest convention circuit. Subscribe, and when our Indianapolis lounge opens, bring your prototype to a playtest night.
+The Ludarium newsletter sends more on games, tables, and the people around them. Subscribe, and when our Indianapolis lounge opens, bring your prototype to a playtest night.

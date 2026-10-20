@@ -50,7 +50,7 @@ Parents sometimes worry this teaches lying. In practice it teaches the opposite.
 
 Codenames teaches a gentler version: thinking about what another person will think. A good clue-giver has to model their teammate's mind. That is empathy as a mechanic. We have written about [why social deduction games work](/articles/why-social-deduction-games-work/) in more depth, and the psychology holds for kids as much as adults.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do games teach kids to fail?
 
@@ -106,4 +106,4 @@ Around four or five, starting with turn-taking, color matching, and handling sma
 
 The Ludarium is building a game lounge in Indianapolis, and part of what we are building is a place where families can run this curriculum on a bigger shelf than they have at home. The game is the reason. The people are the point.
 
-If you want one piece a week on what happens at a table full of people who are paying attention to each other, subscribe to the newsletter at theludarium.com. Never stop playing.
+If you want new pieces on what happens at a table full of people who are paying attention to each other, subscribe to the newsletter at theludarium.com. Never stop playing.

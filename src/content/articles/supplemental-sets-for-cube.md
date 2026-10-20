@@ -41,7 +41,7 @@ What fails: anything with "each opponent" that is costed assuming three of them,
 
 Practical process: when a Commander product releases, read the new cards once, flag anything at three mana or less that works in a two-player game, and run those through the slot comparison. Expect zero to two keeps per release. Expect zero most of the time.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What do Masters sets give a cube?
 

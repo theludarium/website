@@ -40,7 +40,7 @@ A set cube's lanes are the set's own archetypes, and the section can lean on the
 
 An artifact cube or a spells-matter cube has lanes defined by the theme's sub-strategies, and the section should list those explicitly, with the count of enablers and payoffs for each, since drafters have no color-pair instinct to fall back on.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which extra sections does a themed primer need?
 
@@ -103,4 +103,4 @@ Yes. Give the exact tool, such as a Scryfall search string or set codes, so draf
 
 A themed cube's restriction is not a limitation to explain away. It is the reason the cube exists, and the primer's job is to state it so clearly that a drafter sees what it offers before they notice what it lacks. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for the rest of this series on cube primers, one part a week. If you are in Indianapolis and run a themed cube of your own, bring it to [Cube Commonwealth](/articles/cube-draft-indianapolis/) and we will draft it.
+Subscribe to The Ludarium newsletter for the rest of this series on cube primers. If you are in Indianapolis and run a themed cube of your own, bring it to [Cube Commonwealth](/articles/cube-draft-indianapolis/) and we will draft it.

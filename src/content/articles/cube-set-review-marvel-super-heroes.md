@@ -42,7 +42,7 @@ The set's best cube material is in the two- and three-mana legends.
 - **Kang the Conqueror** ({2}{U}{U}, 4/5 flying; power-up for an extra turn). **Call: test** as a blue four-drop finisher. A 4/5 flier for four with a late extra-turn mode is a real card in blue control.
 - **Namor the Sub-Mariner** ({1}{U}{U}, */4 flying; makes Merfolk off blue spells). **Call: pass** outside tribal cubes.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What about the equipment and the big spells?
 

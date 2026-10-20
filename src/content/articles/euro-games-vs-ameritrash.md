@@ -56,7 +56,7 @@ Some players prefer "thematic game" or "American-style game" as neutral alternat
 
 Neither column is better. They produce different evenings. A euro night is quiet, focused, and ends with everyone comparing scores within a few points. An Ameritrash night is loud, swings wildly, and ends with one person triumphant and a story about the roll that did it. Both are good nights.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Why do people argue about it?
 
@@ -116,4 +116,4 @@ Neither, really. The axis is about how players compete, and co-ops remove that. 
 
 The eurogame vs Ameritrash argument is fun to have once and tiresome to have twice. What matters is whether the people at your table want control or drama, and whether you can find the game that gives them enough of each. Most games now do. The game is the reason. The people are the point.
 
-Every week we send one article like this to subscribers, on the words and the games and the habits that keep a group playing. If that sounds useful, subscribe to The Ludarium newsletter. And if you are in Indianapolis, our lounge is coming, with a library that leans both ways.
+We send more articles like this to subscribers, on the words and the games and the habits that keep a group playing. If that sounds useful, subscribe to The Ludarium newsletter. And if you are in Indianapolis, our lounge is coming, with a library that leans both ways.

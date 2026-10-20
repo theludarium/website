@@ -64,7 +64,7 @@ Enforce the direction change. Pack one passes left, pack two right, pack three l
 
 Do not allow talking about picks during the draft. Table talk about what is in the packs ruins the signaling that makes drafting interesting. Talking about anything else is fine and encouraged. If your group is new to all of this, [cube draft strategy](/articles/cube-draft-strategy/) will give them something to think about between picks.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you pair rounds fairly?
 
@@ -124,6 +124,6 @@ Random pairings are simplest. Swiss pairings, where winners play winners, give c
 
 ## Host one, then host it again
 
-The first cube night is logistics. The tenth is a tradition. If you are starting one, the Ludarium newsletter sends one piece a week on hosting tables people return to, and we are always glad to hear how a new group is going. Cube Commonwealth, our drafting community, welcomes hosts and players, and the Indianapolis lounge will have a cube table running on a schedule when it opens.
+The first cube night is logistics. The tenth is a tradition. If you are starting one, the Ludarium newsletter sends new pieces on hosting tables people return to, and we are always glad to hear how a new group is going. Cube Commonwealth, our drafting community, welcomes hosts and players, and the Indianapolis lounge will have a cube table running on a schedule when it opens.
 
 The game is the reason. The people are the point.

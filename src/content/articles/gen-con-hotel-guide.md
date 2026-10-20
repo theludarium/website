@@ -53,7 +53,7 @@ A short list that improves your odds.
 4. **Be at your computer at your access time** with a card that works. Have the second-choice list open.
 5. **If your time is late, do not despair.** Rooms open up constantly. Which brings us to the next section.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What do you do when you get a bad draw?
 

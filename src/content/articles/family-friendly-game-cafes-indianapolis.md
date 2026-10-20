@@ -47,7 +47,7 @@ A fuller list of every place to play, family or not, is in our [Indianapolis boa
 | The Game Preserve | 6 and up | Free to browse | Learn-to-play sessions |
 | Elf 'N Moon private room | Mixed ages | Room rental | Afternoon by arrangement |
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What should you ask for at the counter?
 
@@ -100,4 +100,4 @@ Moonshot Games in Noblesville has demos and a game room; Gray Gauntlet Games in 
 
 The family that plays together is building something that outlasts the game. The game is the reason. The people are the point.
 
-For one family game idea a week, new kid-friendly places as they open, and first word on The Ludarium's weekend family afternoons in Indianapolis, subscribe to the newsletter. Short, weekly, and written for parents who are tired.
+For new family game ideas, new kid-friendly places as they open, and first word on The Ludarium's weekend family afternoons in Indianapolis, subscribe to the newsletter. Short, weekly, and written for parents who are tired.

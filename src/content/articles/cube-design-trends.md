@@ -41,7 +41,7 @@ A handful of shifts, each with a cause.
 
 **The free spells question.** Force of Will was always in. Then came Force of Negation, Solitude, Grief, Fury, Endurance, Subtlety, and the pitch cycle became a design problem rather than a single card. Some cubes embraced it; some cut it to Force of Will alone. Either way, it became a decision an owner had to make, which it had not been before.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What changed in the tools?
 
@@ -102,4 +102,4 @@ Supporting aggressive decks properly. It improves every game in the cube, not ju
 
 Every cube carries the assumptions of the year it was built. Check yours against the shifts above, take the structural ones, and leave the fashion. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for a weekly piece on cube design and the groups that play it. If you are near Indianapolis, come see which decade our list is from at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that play it. If you are near Indianapolis, come see which decade our list is from at [Cube Commonwealth](/articles/cube-draft-indianapolis/).

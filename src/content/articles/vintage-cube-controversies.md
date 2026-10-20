@@ -34,7 +34,7 @@ Hullbreacher was added in December 2020 and removed quickly, which Overturf attr
 
 This one is a design-consistency argument more than a power one. If Hullbreacher's play pattern against draw-sevens is acceptable, the argument goes, why is Time Vault's not? Reasonable people disagree. Our table dislikes Hullbreacher more than Time Vault, for what that is worth, because the Vault at least ends the game.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Should the list change mid-league?
 

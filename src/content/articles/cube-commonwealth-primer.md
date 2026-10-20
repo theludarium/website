@@ -62,7 +62,7 @@ Each rule is one sentence of what and one of why. If a rule is under discussion,
 
 The rules of Magic apply everywhere these do not say otherwise.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What is the power level, and what is not here?
 
@@ -141,4 +141,4 @@ Yes. Say so in the Discord thread and sit behind a regular. If a seat opens, it 
 
 A primer is the cube's standing invitation: it tells a stranger what they are walking into and tells a regular the list is still being thought about. Ours is short on purpose and will be edited the same day the cube is. The game is the reason. The people are the point.
 
-If you want to know when the list changes, when seats open, and when The Ludarium's lounge in Indianapolis gives this cube a permanent table, subscribe to the newsletter. One short email a week. Then join the Discord, react to the weekly post, and come draft with us.
+If you want to know when the list changes, when seats open, and when The Ludarium's lounge in Indianapolis gives this cube a permanent table, subscribe to the newsletter. Short emails. Then join the Discord, react to the weekly post, and come draft with us.

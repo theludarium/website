@@ -64,7 +64,7 @@ Players invite allies into conflicts and split the spoils. Who you invite, who y
 
 For a sales kickoff, Bohnanza or For Sale as an opener and Chinatown as the main event is a reliable combination. Save Diplomacy for a leadership team that already trusts each other.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What do sales reps actually learn?
 
@@ -121,4 +121,4 @@ They give reps live practice at anchoring, reading counterparts, and protecting 
 
 ## Want it run for you?
 
-The Ludarium runs [corporate tabletop events](/corporate-events/) in and around Indianapolis, including negotiation sessions for sales teams with hosts who teach the game, observe each table, and lead the debrief. If you are planning your own kickoff, subscribe to [the newsletter](/newsletter/) for one workplace-tested game idea every week.
+The Ludarium runs [corporate tabletop events](/corporate-events/) in and around Indianapolis, including negotiation sessions for sales teams with hosts who teach the game, observe each table, and lead the debrief. If you are planning your own kickoff, subscribe to [the newsletter](/newsletter/) for new workplace-tested game ideas.

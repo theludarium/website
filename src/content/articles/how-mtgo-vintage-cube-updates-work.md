@@ -48,7 +48,7 @@ Every update article follows the same shape:
 
 The reasoning column is the part worth reading slowly. The team uses a consistent vocabulary: a card is "benched" or "resting" when they expect it back, "trimmed" when an archetype has too many slots, "given a trial" when it is new. Wrath of God was "resting" in October 2026 because white still had Damn and Sunfall. Madness was rested "for now," with the curator saying he expects it to return.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Why did the cadence change?
 

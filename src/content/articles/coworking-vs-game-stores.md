@@ -56,7 +56,7 @@ A lounge that wants adults to pay monthly needs the coworking standard applied t
 
 We go deep on the furniture question in [what makes a great game table](/articles/best-table-for-board-games/), because it turns out the table is where most of the comfort lives.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What did coworking get wrong that a lounge should avoid?
 

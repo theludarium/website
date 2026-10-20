@@ -57,7 +57,7 @@ If you want something tighter, 60 is one cycle short of this and plays as medium
 
 Count the land section against the total, not on top of it. If you add a third land cycle to a 540, ten other cards leave, and they should leave evenly across the colors.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How many basic lands should you bring?
 
@@ -115,4 +115,4 @@ More than about 2 percent of the cube, or any utility land that regularly goes u
 
 ## Keep playing
 
-Subscribe to The Ludarium newsletter for one cube piece a week; land counts and fixing debates come up more than any other topic in our Discord, and we write up the ones we settle. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) will seat you and hand you a box of basics.
+Subscribe to The Ludarium newsletter for new cube pieces; land counts and fixing debates come up more than any other topic in our Discord, and we write up the ones we settle. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) will seat you and hand you a box of basics.

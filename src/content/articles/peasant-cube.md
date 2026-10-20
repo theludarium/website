@@ -59,7 +59,7 @@ Mostly, they sharpen. The lanes are the same ones the common pool supported; the
 - **Blue-Red spells:** Fire // Ice, Izzet Charm, Electrolyze, Young Pyromancer, Thermo-Alchemist. A full prowess-tempo deck.
 - **Red-White aggro:** Boros Charm, Lightning Helix, Figure of Destiny, Adanto Vanguard, Seeker of the Way, Loxodon Warhammer. Aggro gets reach and a second Equipment payoff beyond Bonesplitter.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Is peasant better than pauper?
 
@@ -101,4 +101,4 @@ Most lists exclude Sol Ring, Ancient Tomb, Strip Mine, Wasteland, Mana Drain, an
 
 Peasant is the cube we recommend to anyone whose pauper cube has started to feel solved and who still does not want to spend a car payment on duals. The game is the reason. The people are the point.
 
-Get one cube-building piece a week by subscribing to the Ludarium newsletter, and if you are near Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) has a peasant list in rotation; come draft it.
+Get new cube-building pieces by subscribing to the Ludarium newsletter, and if you are near Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) has a peasant list in rotation; come draft it.

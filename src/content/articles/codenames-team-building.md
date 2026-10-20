@@ -64,7 +64,7 @@ The game's failure modes map cleanly onto workplace communication failures.
 
 That last row is the one to pay attention to. In Codenames, a wrong guess is almost always the clue's fault. Good spymasters know this and adjust. Teams who learn that lesson at the table are easier to lead.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you run Codenames as a team activity?
 
@@ -113,4 +113,4 @@ Yes. Several free browser versions exist, and the physical game works over video
 
 ## Want to see your team play?
 
-The Ludarium runs [corporate tabletop events](/corporate-events/) in and around Indianapolis. We bring the games and the hosts, run multiple tables at once, and leave you with observations about how your teams communicated, without a slide deck. If you would rather try it yourself first, [the newsletter](/newsletter/) sends one workplace-ready game idea every week.
+The Ludarium runs [corporate tabletop events](/corporate-events/) in and around Indianapolis. We bring the games and the hosts, run multiple tables at once, and leave you with observations about how your teams communicated, without a slide deck. If you would rather try it yourself first, [the newsletter](/newsletter/) sends new workplace-ready game ideas.

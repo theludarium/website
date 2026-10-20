@@ -49,7 +49,7 @@ The Indiana Convention Center and the downtown hotels hide calm places if you kn
 
 Noise-cancelling headphones or earplugs change the Exhibit Hall from an assault to a walk. Wear them without apology.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you meet people without small talk?
 
@@ -113,4 +113,4 @@ No. Many attendees go solo, and the hobby's structures, from ticketed events to 
 
 ## One quiet idea a week
 
-The Ludarium newsletter sends one piece a week on playing well with people, written for those of us who like the table more than the lobby. Subscribe for the convention pacing plan each summer and a monthly list of low-key game nights around Indianapolis. The lounge we are building there will have a quiet room. We have already decided that.
+The Ludarium newsletter sends new pieces on playing well with people, written for those of us who like the table more than the lobby. Subscribe for the convention pacing plan each summer and a monthly list of low-key game nights around Indianapolis. The lounge we are building there will have a quiet room. We have already decided that.

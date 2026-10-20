@@ -49,7 +49,7 @@ Sagrada's interaction is softer. You draft from a shared pool of dice, so you ca
 
 If your table enjoys a bit of friction and the occasional groan, Azul delivers it. If your table includes someone who hates being targeted, Sagrada removes the possibility.
 
-*If this is useful, the newsletter sends one comparison like it every week.*
+*If this is useful, the newsletter sends more comparisons like it.*
 
 ## Which one has more luck?
 
@@ -107,7 +107,7 @@ No. The original Azul is complete on its own. Azul: Summer Pavilion and Azul: St
 
 ## One recommendation a week, no filler
 
-The game is the reason. The people are the point. Both of these boxes earn their place because they get people to sit down together over something beautiful. For one piece a week on games and the people who play them, plus updates on the Indianapolis lounge, subscribe to The Ludarium newsletter.
+The game is the reason. The people are the point. Both of these boxes earn their place because they get people to sit down together over something beautiful. For new pieces on games and the people who play them, plus updates on the Indianapolis lounge, subscribe to The Ludarium newsletter.
 
 ## Sources
 

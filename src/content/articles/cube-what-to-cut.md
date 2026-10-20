@@ -53,7 +53,7 @@ Within each over-full section, cut in this order. Stop when you hit the number.
 
 The gold section almost always needs the deepest cuts, because every set adds gold cards and every pair's plan can be stated in three cards, not nine. For 70 gold slots across ten pairs, seven per pair: two or three clear signposts, two or three strong role-players, and one or two flexible cards.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What should you never cut to make the number?
 
@@ -108,4 +108,4 @@ Cheap creatures in aggro colors, fixing lands, and the only enabler of an archet
 
 Every cut is a sentence in the primer you have not written yet. Make them on purpose, write them down, and let the smaller list draft better. The game is the reason. The people are the point.
 
-The Ludarium newsletter sends one cube piece a week, including the section-count sheet we use for trims. Subscribe, and if you are in Indianapolis, bring your 600 to Cube Commonwealth and we will help you find the 60: [how to join](/articles/cube-draft-indianapolis/).
+The Ludarium newsletter sends new cube pieces, including the section-count sheet we use for trims. Subscribe, and if you are in Indianapolis, bring your 600 to Cube Commonwealth and we will help you find the 60: [how to join](/articles/cube-draft-indianapolis/).

@@ -42,7 +42,7 @@ Options, from cheapest to most committed:
 
 Avoid patterned surfaces. A busy tablecloth makes it hard to find a small token, and a dark surface swallows dark pieces. Mid-tone, solid, matte.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How should a game table be lit?
 
@@ -114,4 +114,4 @@ No. A sturdy dining table, a playmat, and good light do the job for most groups.
 
 A great game table is mostly about removing friction: enough room, the right height, light you can read by, a chair you can forget about. Get those right and people stop noticing the furniture and start noticing each other. The game is the reason. The people are the point.
 
-The Ludarium is specifying tables for its Indianapolis lounge right now, and the newsletter will show what we chose and why. Subscribe for one short piece a week on the craft of bringing people to the table.
+The Ludarium is specifying tables for its Indianapolis lounge right now, and the newsletter will show what we chose and why. Subscribe for new short pieces on the craft of bringing people to the table.

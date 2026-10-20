@@ -40,7 +40,7 @@ None of these are about which cards to run. They are about how to run a cube.
 
 **Paper version:** you do not need a website. Once per update cycle, post five candidate cards in the group chat and let people vote on which one gets the open slot. The owner keeps the other 539 decisions. The one shared decision is enough to make the cube feel owned by the room, which is the whole argument of [the community cube](/articles/community-owned-cube/).
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## 6. Ask the four questions before any other design work
 
@@ -96,6 +96,6 @@ A small follow-up update, a month or so after a major one, that fixes the things
 
 ## Take one and try it
 
-Pick one idea from this list and apply it to your next update. Then come tell us how it went: [Cube Commonwealth in Indianapolis](/articles/cube-draft-indianapolis/) is full of people who will have opinions. Subscribe to The Ludarium newsletter for one cube design idea a week, sourced and ready to borrow.
+Pick one idea from this list and apply it to your next update. Then come tell us how it went: [Cube Commonwealth in Indianapolis](/articles/cube-draft-indianapolis/) is full of people who will have opinions. Subscribe to The Ludarium newsletter for new cube design ideas, sourced and ready to borrow.
 
 The game is the reason. The people are the point.

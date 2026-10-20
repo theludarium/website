@@ -57,7 +57,7 @@ If your room is too small for a separate surface, use the far ends of the table,
 
 Drinks follow the same rule. Coasters at every seat, and glasses sit off the edge of any player area. A tall glass next to a hand of cards is a time bomb. Some hosts keep drinks on a separate low table behind the chairs. It feels fussy for about five minutes and then everyone appreciates it.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What are the best game night snacks for a crowd?
 
@@ -108,4 +108,4 @@ On coasters, away from the board and player areas. A separate side table for dri
 
 ## One good idea a week, no crumbs
 
-The Ludarium newsletter sends one practical piece each week on hosting and playing well, from snack tables to game lineups. Subscribe and you will also hear first when our Indianapolis lounge opens its doors, snack station included.
+The Ludarium newsletter sends new practical pieces on hosting and playing well, from snack tables to game lineups. Subscribe and you will also hear first when our Indianapolis lounge opens its doors, snack station included.

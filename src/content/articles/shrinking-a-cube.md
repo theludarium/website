@@ -53,7 +53,7 @@ Cutting ninety cards at once is paralyzing. Cutting in passes with different cri
 
 Keep every cut card in a labeled box. Some will come back when you discover a lane got too thin, and that is fine.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What should you never cut?
 
@@ -105,4 +105,4 @@ Cut utility lands in proportion, but keep fixing lands close to their original r
 
 ## Keep playing
 
-Subscribe to The Ludarium newsletter for one cube piece a week, including the cut lists when we trim our own. And if you are in Indianapolis and want to see what a tight list drafts like, [Cube Commonwealth](/articles/cube-draft-indianapolis/) has a chair.
+Subscribe to The Ludarium newsletter for new cube pieces, including the cut lists when we trim our own. And if you are in Indianapolis and want to see what a tight list drafts like, [Cube Commonwealth](/articles/cube-draft-indianapolis/) has a chair.

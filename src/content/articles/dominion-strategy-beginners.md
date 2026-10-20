@@ -52,7 +52,7 @@ A table of what a beginner should think about each base-game card type:
 | Cantrip | Laboratory, Market | Safe to add; they never hurt a hand |
 | Curser | Witch | If it is in the kingdom, someone should buy it, and it should be you |
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## When does an engine beat Big Money?
 
@@ -112,6 +112,6 @@ For a Big Money deck, one or two terminals. For an engine, as many as the Villag
 
 When the Province pile is empty, or when any three supply piles are empty. Watch the pile counts in the last third of the game.
 
-## Get one game-night idea a week
+## Get new game-night ideas
 
-Dominion will be on the shelf at the Indianapolis lounge with every expansion we can find, because it is the game that teaches people to think about a deck as a system. The Ludarium newsletter sends one piece a week on games, play, and the lounge as it comes together. [Subscribe](/newsletter) and get the next strategy guide before anyone else.
+Dominion will be on the shelf at the Indianapolis lounge with every expansion we can find, because it is the game that teaches people to think about a deck as a system. The Ludarium newsletter sends new pieces on games, play, and the lounge as it comes together. [Subscribe](/newsletter) and get the next strategy guide before anyone else.

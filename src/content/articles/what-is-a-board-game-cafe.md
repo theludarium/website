@@ -45,7 +45,7 @@ If you have never been, here is the typical arc of an evening.
 
 Nobody expects you to know anything. The whole business is built around people who do not know the games yet. If you can learn the rules of a card game at a family holiday, you can do this.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How much does a board game cafe cost?
 
@@ -112,4 +112,4 @@ Daytime hours usually are, and many cafes keep a shelf of games for younger play
 
 The board game cafe is a simple idea: a good table, a good library, and someone to teach you. It works because adults need a reason to gather, and the game is a very good reason. The game is the reason. The people are the point.
 
-If you want one game-night idea a week, plus updates as The Ludarium's Indianapolis lounge takes shape, subscribe to the newsletter. It is short, it is weekly, and it is free.
+If you want new game-night ideas, plus updates as The Ludarium's Indianapolis lounge takes shape, subscribe to the newsletter. It is short, it is weekly, and it is free.

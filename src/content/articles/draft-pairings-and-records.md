@@ -53,7 +53,7 @@ We kept less over time, and the night got better as we did.
 - **Head-to-head records.** Same problem, more personal.
 - **Any ranking that was visible during the night.** Standings on a whiteboard change how people play. We moved them to a phone and read them out only at the end.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Should a cube night have prizes?
 
@@ -103,4 +103,4 @@ Finish the current turn plus one more. If nobody has won, call it a draw and mov
 
 ## Pull up a chair
 
-Cube Commonwealth is drafting again in Indianapolis, with the trophy still in circulation. Join the Discord <!-- EDITOR: add Discord invite link --> for the weekly post and the next day's results. If you run a night of your own, subscribe to The Ludarium newsletter for one piece like this every week, plus first word on the Indianapolis lounge. The game is the reason. The people are the point.
+Cube Commonwealth is drafting again in Indianapolis, with the trophy still in circulation. Join the Discord <!-- EDITOR: add Discord invite link --> for the weekly post and the next day's results. If you run a night of your own, subscribe to The Ludarium newsletter for new pieces like this, plus first word on the Indianapolis lounge. The game is the reason. The people are the point.

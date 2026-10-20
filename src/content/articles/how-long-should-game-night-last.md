@@ -47,7 +47,7 @@ If the time comes up in conversation, a light explanation is enough: "I've found
 
 For a regular group, make the end time a standing feature. "Thursdays, 7 to 10" becomes a fixture people plan around, and the question of when to stop never arises because it was answered once, months ago.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you actually stop at the end time?
 
@@ -110,4 +110,4 @@ Early enough that three hours ends before people are tired. For adults, 7 p.m. i
 
 ## Short, useful, on time, every week
 
-The Ludarium newsletter sends one practical piece each week on hosting and playing well, and it respects your time the way a good game night does. Subscribe and you will also be the first to hear when our Indianapolis lounge opens, closing time posted on the door.
+The Ludarium newsletter sends new practical pieces on hosting and playing well, and it respects your time the way a good game night does. Subscribe and you will also be the first to hear when our Indianapolis lounge opens, closing time posted on the door.

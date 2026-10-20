@@ -52,7 +52,7 @@ In an eight-player draft a pack goes around once, more or less. In a four-player
 
 Because decks are stronger, you can build a 180 slightly less powerful than you would a 360 and still get good games. The draft does the upgrading for you.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How many archetypes can 180 cards support?
 
@@ -122,4 +122,4 @@ Very. It is cheap, builds in a weekend, every card is seen every draft, and ther
 
 ## One more thing
 
-The newsletter is where we post the current Commonwealth 180 list and the changes we make to it after each weeknight draft. Subscribe for one cube piece a week. And if you are near Indianapolis and want to try a four-player draft before building your own, [Cube Commonwealth](/articles/cube-draft-indianapolis/) runs small tables as well as big ones.
+The newsletter is where we post the current Commonwealth 180 list and the changes we make to it after each weeknight draft. Subscribe for new cube pieces. And if you are near Indianapolis and want to try a four-player draft before building your own, [Cube Commonwealth](/articles/cube-draft-indianapolis/) runs small tables as well as big ones.

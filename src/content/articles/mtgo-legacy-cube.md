@@ -49,7 +49,7 @@ We are citing a third-party article here rather than a Wizards post because the 
 
 That 2021 update is the last one the mtgo.com list reflects. Whether the Legacy Cube returns with a new curator and a new list is an open question. <!-- EDITOR: confirm current status of Legacy Cube on MTGO before publishing -->
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How does it play differently from the Vintage Cube?
 
@@ -94,6 +94,6 @@ Not exactly. Many paper cube owners use "Legacy cube" loosely to mean an unpower
 
 ## Draft the honest version
 
-If the Legacy Cube's shape sounds like your group, you are not alone; most of the best paper cubes live in this range. Ours does. Come see it at [Cube Commonwealth in Indianapolis](/articles/cube-draft-indianapolis/), and subscribe to The Ludarium newsletter for one cube piece a week, including the moment the Legacy Cube shows up on Magic Online again.
+If the Legacy Cube's shape sounds like your group, you are not alone; most of the best paper cubes live in this range. Ours does. Come see it at [Cube Commonwealth in Indianapolis](/articles/cube-draft-indianapolis/), and subscribe to The Ludarium newsletter for new cube pieces, including the moment the Legacy Cube shows up on Magic Online again.
 
 The game is the reason. The people are the point.

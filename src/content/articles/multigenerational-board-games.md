@@ -70,7 +70,7 @@ Just One is the pick when you want zero conflict. Everyone writes a one-word clu
 
 For very young players, Qwirkle and Kingdomino are the entry points. A six-year-old can play Qwirkle for real, not just as a mascot.
 
-*The newsletter sends one all-ages game idea every week.*
+*The newsletter sends new all-ages game ideas.*
 
 ## How do you run a mixed-age table?
 
@@ -120,7 +120,7 @@ Choose games with short turns and give kids a job like dealing or placing pieces
 
 ---
 
-The Ludarium is opening a game lounge in Indianapolis built for tables like this, where three generations can sit down and find a game that fits. For one all-ages game idea a week, subscribe to the newsletter at theludarium.com.
+The Ludarium is opening a game lounge in Indianapolis built for tables like this, where three generations can sit down and find a game that fits. For new all-ages game ideas, subscribe to the newsletter at theludarium.com.
 
 The game is the reason. The people are the point.
 

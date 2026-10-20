@@ -46,7 +46,7 @@ These draw a lot of cards but cost a real resource, can be interacted with, or h
 - **Esper Sentinel**, **Palantir of Orthanc**, **Mystic Confluence**: cards the MTGO designers have moved in and out, which is a good sign that they sit on the line.
 - **Prepared** creatures and **Gandalf, Goblins' Bane**: the MTGO [May 2026](https://www.mtgo.com/news/sos-vintage-cube-update) and [October 2026](https://www.mtgo.com/news/fra-vintage-cube-update) updates both talked about card advantage "stapled to creatures" as the kind they want more of. That is the design direction: draw attached to a body that can be killed.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How much card advantage does each color need?
 
@@ -94,4 +94,4 @@ Draw attached to a creature. Mulldrifter, Tireless Tracker, Wall of Omens and Da
 
 ## Count the draw, not just the cards
 
-The quickest cube audit is to sort every color by how many cards it can draw over a game. Do it once and blue will almost certainly need trimming. Then come watch a control mirror in person at a Cube Commonwealth draft in Indianapolis; [here is how to join](/articles/cube-draft-indianapolis/). Subscribe to The Ludarium newsletter for one cube design piece every week. The game is the reason. The people are the point.
+The quickest cube audit is to sort every color by how many cards it can draw over a game. Do it once and blue will almost certainly need trimming. Then come watch a control mirror in person at a Cube Commonwealth draft in Indianapolis; [here is how to join](/articles/cube-draft-indianapolis/). Subscribe to The Ludarium newsletter for new cube design pieces. The game is the reason. The people are the point.

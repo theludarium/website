@@ -38,7 +38,7 @@ The [U.S. Surgeon General's 2023 advisory](https://www.hhs.gov/sites/default/fil
 
 So the fade is not a sentimental problem. By the numbers, it belongs in the same conversation as smoking and exercise.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What is the habit that reverses the fade?
 
@@ -107,4 +107,4 @@ Research associates weak social ties and loneliness with higher risk of heart di
 
 ## Get your Thursday back
 
-The Ludarium is building a game lounge in Indianapolis so that a standing night with the same people is easy to keep, without anyone having to host. If you want one idea a week for reversing the fade, subscribe to the Ludarium newsletter. New pieces on play and longevity go to subscribers first.
+The Ludarium is building a game lounge in Indianapolis so that a standing night with the same people is easy to keep, without anyone having to host. If you want new ideas for reversing the fade, subscribe to the Ludarium newsletter. New pieces on play and longevity go to subscribers first.

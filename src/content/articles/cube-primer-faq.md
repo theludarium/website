@@ -59,7 +59,7 @@ Collected across our own table and the public primers we read, these recur almos
 
 Fifteen is a lot for an FAQ, and most primers settle at eight to twelve. Start with the ones that have actually been asked; add the others as they come.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which questions do not belong in the FAQ?
 
@@ -114,4 +114,4 @@ After each cube update, add any new question that survives three weeks of being 
 
 An FAQ written from real questions tells a new drafter that other new drafters have been here, were confused in the same ways, and were answered. That is a kind of welcome, and it is one more reason someone comes back. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for the rest of this series on cube primers, one part a week. If you are in Indianapolis and have a question this FAQ did not answer, ask it in person at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for the rest of this series on cube primers. If you are in Indianapolis and have a question this FAQ did not answer, ask it in person at [Cube Commonwealth](/articles/cube-draft-indianapolis/).

@@ -69,7 +69,7 @@ Pricing follows the same models you see nationally, and most game stores in the 
 
 The last row is the model The Ludarium is building toward, and it changes the math for regulars. If you play twice a week, a [game lounge membership](/articles/game-lounge-membership/) costs less than covers and comes with a seat that is yours.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which Indianapolis neighborhoods are best for a game night out?
 
@@ -134,4 +134,4 @@ Yes. Library game nights are free, and many breweries keep a game shelf you can 
 
 Indianapolis is a good city for a game night, and it is getting better. The game is the reason. The people are the point.
 
-For the verified venue list as it updates, new public game nights around the city, and first word on The Ludarium's opening, subscribe to the newsletter. One short email a week, nothing more.
+For the verified venue list as it updates, new public game nights around the city, and first word on The Ludarium's opening, subscribe to the newsletter. Short emails, nothing more.

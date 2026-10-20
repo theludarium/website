@@ -48,7 +48,7 @@ What we use at Cube Commonwealth, offered as one working version rather than the
 4. **Monthly, the owner posts the swaps with one line each.** Including which requests went in, which did not, and why. "Bounced Smothering Tithe for now; the request was that Orzhov needs a four-drop, but the cut would be Lingering Souls and that costs the tokens lane more than Tithe adds."
 5. **Once a year, a real vote on structure.** Not on cards. On the big things: should we add a lane, should we change the power band, should we grow to 540. The structure is the part that belongs to the group most, and the owner should be willing to lose that vote.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which requests should be granted?
 
@@ -100,4 +100,4 @@ Answer once with the reason, in writing, in the shared channel. If the reason ch
 
 A good cube has many people's fingerprints on it and one person's judgment behind it. Hear the room, hold the purpose, make the call, and say why. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for a weekly piece on cube design and the groups that play it. If you are near Indianapolis, bring a request to the thread and a deck to the table at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that play it. If you are near Indianapolis, bring a request to the thread and a deck to the table at [Cube Commonwealth](/articles/cube-draft-indianapolis/).

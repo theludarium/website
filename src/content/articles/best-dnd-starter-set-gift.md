@@ -49,7 +49,7 @@ Give **Dragons of Stormwreck Isle** if:
 
 If you have no information at all, give Heroes of the Borderlands. The extra $30 buys a much higher chance that the box gets opened and played the same week. We have written a longer piece on [how to play D&D for beginners](/articles/how-to-play-dnd-for-beginners/) that pairs well with either box.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What should you add to the box?
 
@@ -101,4 +101,4 @@ Yes. One player runs the game. Heroes of the Borderlands makes this easier with 
 
 ## One table idea a week, for new players and old
 
-Subscribe to The Ludarium newsletter for one short piece a week on getting people to the table, including the beginner RPG one-shots we are planning for our Indianapolis lounge. If you gave someone a starter set and need a first adventure to run, that is the kind of thing we send.
+Subscribe to The Ludarium newsletter for new short pieces on getting people to the table, including the beginner RPG one-shots we are planning for our Indianapolis lounge. If you gave someone a starter set and need a first adventure to run, that is the kind of thing we send.

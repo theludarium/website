@@ -36,7 +36,7 @@ The second distinction is between combos that are **hard-locked** to specific ca
 
 **Fastbond and Zuran Orb, Auriok Salvagers and Lion's Eye Diamond, Witherbloom Apprentice and Chain of Smog.** The current MTGO designers have been adding two-card infinites that few paper cubes copy. The August 2025 update kept Crucible of Worlds "to keep redundancy for the Fastbond + Zuran Orb combo" ([source](https://www.mtgo.com/news/eoe-vintage-cube-update)), and the October 2026 update added Auriok Salvagers because the client can now automate the loop. Paper cubes should notice the reasoning rather than copy the cards: supported combo means every half has backups.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How many pieces does each combo need?
 
@@ -94,4 +94,4 @@ Yes, if they are faster than aggro. Twin on turn four and Reanimator on turn two
 
 ## Pick a policy and write it down
 
-Whichever of the three you choose, put it in your primer in one sentence so drafters know what they are drafting into. Cube Commonwealth drafts in Indianapolis most weeks, and the combo lanes are a regular argument; [join a draft](/articles/cube-draft-indianapolis/) and bring your Twin deck. Subscribe to The Ludarium newsletter for a cube design piece every week. The game is the reason. The people are the point.
+Whichever of the three you choose, put it in your primer in one sentence so drafters know what they are drafting into. Cube Commonwealth drafts in Indianapolis most weeks, and the combo lanes are a regular argument; [join a draft](/articles/cube-draft-indianapolis/) and bring your Twin deck. Subscribe to The Ludarium newsletter for new cube design pieces. The game is the reason. The people are the point.

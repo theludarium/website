@@ -91,4 +91,4 @@ We are not raising from the public and have nothing to offer in that direction r
 
 ## Follow the build
 
-The whole plan rests on a list of people who said yes before there was anything to say yes to. If you have read this far, you are probably one of them. Follow the build by subscribing to the newsletter. One email a week, and the first one that matters will be the one that says the Indianapolis lounge has a door.
+The whole plan rests on a list of people who said yes before there was anything to say yes to. If you have read this far, you are probably one of them. Follow the build by subscribing to the newsletter. Emails, and the first one that matters will be the one that says the Indianapolis lounge has a door.

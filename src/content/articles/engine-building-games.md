@@ -51,7 +51,7 @@ Several things are working on you at once.
 
 There is a downside, and it is the standard criticism of the genre: engine builders can be solitary. If your engine does not touch my engine, we are playing two games side by side. Designers address this with shared markets, limited supplies, and race conditions, but the complaint has merit for some titles. Our article on the [euro vs Ameritrash divide](/articles/euro-games-vs-ameritrash/) covers why that bothers some players more than others.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Where did engine building come from?
 
@@ -112,7 +112,7 @@ Deck building is one way to build an engine, where the engine is your deck. Engi
 
 The best part of an engine builder is the turn where everything finally works, and the second best part is watching someone else have that turn. Both are better with people in the room to see it. The game is the reason. The people are the point.
 
-We write one piece like this every week on the mechanisms, games, and habits that keep tables full. Subscribe to The Ludarium newsletter to get the next one, and keep an eye out for our membership lounge in Indianapolis, where the engine builders will have a shelf of their own.
+We write new pieces like this on the mechanisms, games, and habits that keep tables full. Subscribe to The Ludarium newsletter to get the next one, and keep an eye out for our membership lounge in Indianapolis, where the engine builders will have a shelf of their own.
 
 ## Sources
 

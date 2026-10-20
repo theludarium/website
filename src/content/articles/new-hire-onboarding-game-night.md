@@ -64,7 +64,7 @@ The games for onboarding are a subset of good [team building board games](/artic
 
 Avoid heavy strategy games, anything with player elimination, and anything where a tenured employee's experience gives them a lopsided advantage. The new hire should be able to win, or at least contribute to a win, in their first game.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you structure the evening?
 
@@ -112,4 +112,4 @@ Yes, but seated at a different table from their new report for the first game. T
 
 ## Want help with your first one?
 
-The Ludarium runs [corporate tabletop events](/corporate-events/) in Indianapolis and nearby, including onboarding game nights with hosts at every table so your new hires meet colleagues instead of rulebooks. If you would rather build it in-house, subscribe to [the newsletter](/newsletter/) for one workplace game idea every week, tested on real teams.
+The Ludarium runs [corporate tabletop events](/corporate-events/) in Indianapolis and nearby, including onboarding game nights with hosts at every table so your new hires meet colleagues instead of rulebooks. If you would rather build it in-house, subscribe to [the newsletter](/newsletter/) for new workplace game ideas, tested on real teams.

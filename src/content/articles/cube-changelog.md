@@ -54,7 +54,7 @@ Three reasons, and all of them are about the group rather than the cards.
 
 Our own group's history bears this out; the change log was one of the things people argued about most, and one of the things they missed most when the night paused. The story is in [the community cube](/articles/community-owned-cube/).
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How does CubeCobra handle the changelog?
 
@@ -111,4 +111,4 @@ No. It is a record of decisions and reasons. Prices change and ratings start arg
 
 A cube with a changelog is a cube a group can talk about, because every choice has a date and a reason and a place to disagree. That turns a list into a shared thing. The game is the reason. The people are the point.
 
-This series on cube primers continues weekly; subscribe to The Ludarium newsletter to follow it. Indianapolis drafters can read our log and argue with it in person at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+This series on cube primers continues; subscribe to The Ludarium newsletter to follow it. Indianapolis drafters can read our log and argue with it in person at [Cube Commonwealth](/articles/cube-draft-indianapolis/).

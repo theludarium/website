@@ -47,7 +47,7 @@ Three things make a lie work:
 
 The flip side is reading. Most people are poor lie detectors in the abstract. Research going back to [Paul Ekman's work at the University of California, San Francisco](https://www.sciencedaily.com/releases/1999/05/990528003127.htm), found that most groups of professionals, judges and police among them, do only a little better than chance at spotting lies from demeanor alone, and a [meta-analysis of more than 200 studies](https://journals.sagepub.com/doi/10.1207/s15327957pspr1003_2) put the average person at about 54 percent. But games do not ask you to read demeanor. They ask you to read decisions. Who did this person vote for? Who did they defend? Did they pass up a chance to help their supposed team? Behavior over time is far more legible than a face, and good social deduction games generate a long trail of behavior.
 
-*If this is your kind of evening, the newsletter sends one piece like it each week.*
+*If this is your kind of evening, the newsletter sends new pieces like it.*
 
 ## Why do these games make groups bond so quickly?
 
@@ -104,6 +104,6 @@ Elimination. Being voted out in the first round means watching for the rest of t
 
 ## Bring a deck and a few friends
 
-The appeal of social deduction games is that they need almost nothing. A deck of role cards, a table, and people willing to look each other in the eye. If that is your kind of evening, subscribe to The Ludarium newsletter at theludarium.com: one piece a week on games and the people who play them, plus first word when the Indianapolis lounge opens.
+The appeal of social deduction games is that they need almost nothing. A deck of role cards, a table, and people willing to look each other in the eye. If that is your kind of evening, subscribe to The Ludarium newsletter at theludarium.com: new pieces on games and the people who play them, plus first word when the Indianapolis lounge opens.
 
 The game is the reason. The people are the point.

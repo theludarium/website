@@ -54,7 +54,7 @@ The headline was that most cubes run far less fixing than their designers think,
 
 Jett Crowdis's earlier ["Analyzing Your Own Cube Drafts"](https://luckypaper.co/articles/tireless-tracker-analyzing-your-own-cube/) from October 2019, which worked through about 400 decklists from a single cube, is the home-scale version of the same habit.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## The Cube Map
 
@@ -107,6 +107,6 @@ An interactive visualization on luckypaper.co that arranges thousands of public 
 
 ## Keep reading, then come draft
 
-Lucky Paper's best idea is that a cube should be designed on purpose and hosted with care. We try to do both at [Cube Commonwealth in Indianapolis](/articles/cube-draft-indianapolis/), and you are welcome at the table. Subscribe to The Ludarium newsletter for one piece a week on cube design and the people who play it.
+Lucky Paper's best idea is that a cube should be designed on purpose and hosted with care. We try to do both at [Cube Commonwealth in Indianapolis](/articles/cube-draft-indianapolis/), and you are welcome at the table. Subscribe to The Ludarium newsletter for new pieces on cube design and the people who play it.
 
 The game is the reason. The people are the point.

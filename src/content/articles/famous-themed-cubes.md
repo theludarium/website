@@ -34,7 +34,7 @@ For each, we give the designer where the public record names one, the concept, a
 
 **What it proves:** You can push the curve up without breaking the format, but only if you push the fixing and the early plays up with it. The Chromatic Cube's early turns are full of mana rocks, Farseeks and cheap removal precisely so the seven-drops get cast. The common failure of a "big spells" paper cube is that the owner adds the dragons and forgets the Rampant Growths. The Arena list is a working answer to the question of how much support a top-heavy cube needs.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## 4. Tinkerer's Cube: archetypes are optional
 
@@ -86,6 +86,6 @@ Because drafters value scarcity. When a theme's pieces are everywhere, the cards
 
 ## Test an idea of your own
 
-Every cube on this list started as one person asking "what if the whole cube did this?" and then letting other people draft the answer. If you want a table to test yours on, [Cube Commonwealth in Indianapolis](/articles/cube-draft-indianapolis/) hosts guest cubes. Subscribe to The Ludarium newsletter for one cube piece a week, including profiles like this one.
+Every cube on this list started as one person asking "what if the whole cube did this?" and then letting other people draft the answer. If you want a table to test yours on, [Cube Commonwealth in Indianapolis](/articles/cube-draft-indianapolis/) hosts guest cubes. Subscribe to The Ludarium newsletter for new cube pieces, including profiles like this one.
 
 The game is the reason. The people are the point.

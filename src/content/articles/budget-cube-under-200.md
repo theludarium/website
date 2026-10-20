@@ -58,7 +58,7 @@ The effect at the table is that four-mana plays happen on turn three in half the
 
 **Sneak and Show.** Sneak Attack is out of budget, but Through the Breach is sometimes within it, and Elvish Piper and Quicksilver Amulet do a slower version. Keep this one small; it is the least reliable of the four.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which fair decks need the money?
 
@@ -104,4 +104,4 @@ Roughly $150 to $250 including sleeves and basics at the time of writing, if you
 
 The feel of a powered cube is a set of decisions, not a set of price tags. Build the decisions and the drafters will forget what the cards cost. The game is the reason. The people are the point.
 
-The Ludarium newsletter sends one cube piece a week, including our budget cube list with prices checked. Subscribe, and if you are in Indianapolis, draft the real thing and the budget thing on the same night with Cube Commonwealth: [how to join](/articles/cube-draft-indianapolis/).
+The Ludarium newsletter sends new cube pieces, including our budget cube list with prices checked. Subscribe, and if you are in Indianapolis, draft the real thing and the budget thing on the same night with Cube Commonwealth: [how to join](/articles/cube-draft-indianapolis/).

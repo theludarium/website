@@ -42,7 +42,7 @@ We run every candidate through the same short list. The order matters, because e
 
 A card that answers yes to the first four questions goes into testing. A card that fails the first two almost never recovers on the strength of the last three.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you read a spoiler without wasting a weekend?
 
@@ -98,4 +98,4 @@ No. A reprint lowers the price of a card you could already run. It does not chan
 
 ## Keep reading with us
 
-New cards keep coming, and so do our reviews. The Ludarium newsletter sends one cube piece a week, including every set review the week the set drops, so you can read the slot calls before your own packs arrive. Subscribe, and if you are in Indianapolis, [join us at Cube Commonwealth](/articles/cube-draft-indianapolis/) and test the candidates with us at the table. The game is the reason. The people are the point.
+New cards keep coming, and so do our reviews. The Ludarium newsletter sends new cube pieces, including every set review the week the set drops, so you can read the slot calls before your own packs arrive. Subscribe, and if you are in Indianapolis, [join us at Cube Commonwealth](/articles/cube-draft-indianapolis/) and test the candidates with us at the table. The game is the reason. The people are the point.

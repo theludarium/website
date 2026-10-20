@@ -56,7 +56,7 @@ The full breakdown, including where to draw the line if you want some accelerati
 
 **Balance.** Two mana: each player sacrifices lands, discards cards, and sacrifices creatures down to the lowest count. A fair card in a fair deck, a one-sided wrath in a deck that empties its hand with artifacts. It lives on this list because of how often it is drafted as "my deck's removal" and played as a lock.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which newer cards belong on this list?
 
@@ -102,4 +102,4 @@ Mana Drain counters a spell and gives you its mana next turn. It is strong but i
 
 ## Keep the list honest
 
-Every card above has a fan somewhere, and the arguments are better in person than online. If you want to make the case for Sol Ring across a table in Indianapolis, [join us for a draft](/articles/cube-draft-indianapolis/). Subscribe to The Ludarium newsletter for one cube piece a week, including the next time we test a card off this list. The game is the reason. The people are the point.
+Every card above has a fan somewhere, and the arguments are better in person than online. If you want to make the case for Sol Ring across a table in Indianapolis, [join us for a draft](/articles/cube-draft-indianapolis/). Subscribe to The Ludarium newsletter for new cube pieces, including the next time we test a card off this list. The game is the reason. The people are the point.
