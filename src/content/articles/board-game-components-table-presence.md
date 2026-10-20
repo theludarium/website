@@ -1,10 +1,10 @@
 ---
 title: "Board Game Components: Table Presence as Marketing"
 description: "Board game components do more than work. They sell the game from across the room. What table presence means, and how designers build pieces you want to touch."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Design
 tags: ["board game components", "table presence", "board game production design", "why components matter", "board game art direction", "tactile game pieces", "Tabletop game design"]
-draft: true
+draft: false
 ---
 Board game components are the first thing a stranger sees and the last thing a player touches, and good designers treat them as part of the marketing budget. Walk through any busy game café or convention hall and watch where people's eyes go. They do not go to the game with the best rules. They go to the game with the wooden birds, the glowing map, or the stack of colored tiles that looks like candy. That is table presence: what a game looks like from across the room, before anyone has read a word.
 

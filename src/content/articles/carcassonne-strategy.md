@@ -1,10 +1,10 @@
 ---
 title: "Carcassonne Strategy: Farmers, Cities, and Tile Odds"
 description: "Carcassonne strategy for anyone tired of losing to farms: when to place farmers, how to share or steal cities, and how to use tile counts to guess what's next."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Guides
 tags: ["Carcassonne strategy", "Carcassonne tips", "Carcassonne farmers explained", "how to win Carcassonne", "Carcassonne meeple management", "Carcassonne tile distribution", "Strategy guides"]
-draft: true
+draft: false
 ---
 Carcassonne strategy divides into before you understand farmers and after. Before, the game is a pleasant tile-laying puzzle that the luckiest drawer wins. After, it is a game of territory, timing, and meeple economy, and the same player wins most of the time. This guide is about getting you to the second kind of game.
 
