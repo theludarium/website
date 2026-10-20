@@ -197,3 +197,10 @@ A short log of choices made and why. Newest at the bottom.
 
 - About 330 articles told readers the newsletter "sends one piece like it every week" (plus variants: "one short email a week," "a weekly piece on cube design," "continues weekly"). Kit isn't set up and no schedule is set, so Levi chose to soften them everywhere: "If this is useful, the newsletter sends more like it," "new pieces on cube design," "short emails." Specific features nobody has planned (a yearly Gen Con family-day plan, a designers' thread, a monthly cube note) are gone too. Promise a schedule once one exists.
 - Batch 6 also fixed "come run a demo at our lounge" (now: once it opens) and "The Ludarium runs" a corporate events service (now: offers).
+
+## 2026-10-20: Game Night Madness moves to The Ludarium
+
+- The repo moved from The-LJAW to the `theludarium` org and is built into the site at `/game-night-madness/`, the same way as the RPG Demo Library: a submodule, copied in after the Astro build with a canonical URL, share tags, the site's analytics, and the slim Ludarium bar. The bar code now lives in `scripts/tool-chrome.mjs`, shared by both tools.
+- Recolored in The Ludarium's palette and type (Levi's choice over keeping its purple look). Fraunces is self-hosted in the app, so it no longer loads Google Fonts.
+- The old the-ljaw.github.io address forwards to the new home, keeping bracket codes, and retires the old service worker on installed phones (Levi's choice over letting it break).
+

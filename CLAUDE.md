@@ -206,8 +206,10 @@ Two tools already exist as separate projects. They should feel like part of The 
 - No D&D 5e content. Do not add any game without confirmed permission or an open license.
 
 **Game Night Madness**
-- Levi's tabletop game bracket app; repo location to be confirmed, moving to the `theludarium` org
-- Target path: `theludarium.com/game-night-madness/`
+- Levi's tabletop game bracket app: the group votes from their phones, round by round, until one game from the organizer's BoardGameGeek shelf is left
+- Repo `theludarium/game-night-madness` (moved from Levi's personal account 2026-10-20), included as the submodule `vendor/game-night-madness` and copied in at build by `scripts/game-night-madness.mjs`. Served at `theludarium.com/game-night-madness/`, recolored in the site's palette and type
+- The old address `the-ljaw.github.io/game-night-madness/` forwards here, keeping bracket codes (repo `The-LJAW/The-LJAW.github.io`). The repo's own GitHub Pages copy was turned off 2026-10-20, so theludarium.com is the only copy
+- BGG data comes through its own helper Worker (`gnm-bgg`, in Levi's Cloudflare account), which only answers the sites in its `ALLOWED_ORIGINS`. BGG approved it as non-commercial: keep this page free of affiliate links, ads, and paid features until the commercial license comes through
 
 **Integration approach:** each tool keeps its own repo in the `theludarium` org, and this site includes them at build time:
 - Add each tool repo as a git submodule (or pull it in a build script).
