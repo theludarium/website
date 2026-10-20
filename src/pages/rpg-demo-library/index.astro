@@ -6,6 +6,8 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import PageIntro from '@/components/PageIntro.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
 import { getDemos } from '@/lib/rpg-demo-library';
+import { RDL_THEMES, themeVars } from '@/lib/rdl-themes';
+import '@/styles/rdl-fonts.css';
 
 const demos = getDemos();
 const quoted = (label: string) => label.match(/"(.+)"/)?.[1];
@@ -24,7 +26,11 @@ const quoted = (label: string) => label.match(/"(.+)"/)?.[1];
   <section class="container rdl-grid" aria-label="Playable demos">
     {
       demos.map((d) => (
-        <a class="card rdl-card" href={d.href}>
+        <a
+          class:list={['card', 'rdl-card', { 'rdl-card--themed': RDL_THEMES[d.slug] }]}
+          href={d.href}
+          style={RDL_THEMES[d.slug] && themeVars(RDL_THEMES[d.slug])}
+        >
           <p class="eyebrow">{d.product?.game ?? d.title}</p>
           <h2>{d.product?.name ?? quoted(d.playLabel) ?? d.title}</h2>
           <p>{d.blurb}</p>
@@ -124,6 +130,53 @@ const quoted = (label: string) => label.match(/"(.+)"/)?.[1];
     margin-top: var(--space-2);
     font-size: var(--text-sm);
     color: var(--color-text-muted);
+  }
+
+  /* Themed covers: each card wears its game's colors, display font, and texture. */
+  .rdl-card--themed {
+    border-color: transparent;
+    background-color: var(--c-bg);
+    background-image: var(--c-texture);
+    background-size: var(--c-texture-size);
+    color: var(--c-fg);
+  }
+
+  a.rdl-card--themed:hover {
+    color: var(--c-fg);
+    box-shadow: 0 0 0 2px var(--c-accent), 0 14px 32px rgb(0 0 0 / 0.22);
+  }
+
+  .rdl-card--themed:focus-visible {
+    outline: 3px solid var(--c-accent);
+    outline-offset: 3px;
+  }
+
+  .rdl-card--themed .eyebrow {
+    color: var(--c-accent);
+  }
+
+  .rdl-card--themed h2 {
+    color: var(--c-fg);
+    font-family: var(--c-font);
+    font-weight: var(--c-weight);
+    font-size: calc(var(--text-2xl) * var(--c-scale, 1));
+    line-height: 1.05;
+    text-transform: var(--c-upper);
+    text-shadow: var(--c-glow);
+  }
+
+  .rdl-card--themed p,
+  .rdl-card--themed .rdl-pdf {
+    color: color-mix(in srgb, var(--c-fg) 82%, transparent);
+  }
+
+  .rdl-card--themed .rdl-tags li {
+    background: var(--c-chip);
+    color: var(--c-fg);
+  }
+
+  .rdl-card--themed .card__more {
+    color: var(--c-accent);
   }
 
   .rdl-how {
