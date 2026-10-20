@@ -175,7 +175,7 @@ A short log of choices made and why. Newest at the bottom.
 
 ## 2026-10-20: RPG Demo Library on theludarium.com
 
-- **Repo moved** from Levi's account (The-LJAW) to `theludarium/rpg-demo-library` (Levi's call). GitHub redirects the old URL. Its GitHub Pages copy still runs at theludarium.github.io/rpg-demo-library; turn it off once theludarium.com serves the library.
+- **Repo moved** from Levi's account (The-LJAW) to `theludarium/rpg-demo-library` (Levi's call). GitHub redirects the old URL. Its GitHub Pages copy was turned off the same day, so theludarium.com is the only copy.
 - **Included as a git submodule** at `vendor/rpg-demo-library`. The library has no build step and only relative paths, so its pages run under `/rpg-demo-library/` unchanged. `scripts/rpg-demo-library.mjs fetch` makes sure the submodule is present (falling back to a clone); `copy` runs after `astro build` and copies the demos to `dist/rpg-demo-library/games/`.
 - **Front page rebuilt as a native page** (`src/pages/rpg-demo-library/index.astro`), reading the game list and PDF prices from the repo (`src/lib/rpg-demo-library.ts`), so a new demo in the repo appears here with no site change. The demos keep their own per-game look, plus a slim Ludarium bar, a canonical URL, share tags, and the site's analytics snippet (same consent rules) added on copy. Demo pages are in the sitemap.
 - **To ship a library change:** merge it in the library repo, then here run `git submodule update --remote vendor/rpg-demo-library`, commit, and push.
