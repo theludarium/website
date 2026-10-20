@@ -2,6 +2,26 @@
 
 Plan for the eleven paid PDFs behind the RPG Demo Library. Decided with Levi on 2026-10-20.
 
+## Status, 2026-10-20
+
+All eleven books are written and built, in the private repo `theludarium/rpg-adventures` (manuscripts in Markdown, built to PDF with Paged.js and headless Chrome; `node tools/build.mjs books/<slug>`). None has been playtested or put on sale yet. Actual page counts, which ran longer than the estimates below because every scene has every outcome written out:
+
+| Book | Pages | Suggested price |
+|---|---|---|
+| The Bell Beneath the Fen (Ironsworn) | 90 | $9 |
+| Mayday at the Glass Moon (Lasers & Feelings) | 64 | $6 |
+| The Silence at Well Nine (24XX) | 63 | $7 |
+| The Dead Baron's Mint (Knave 1e) | 64 | $7 |
+| The Long Sleep of the Lodestar (Starforged) | 111 | $10 |
+| Thunder on the Silver Meridian (Fate Condensed) | 92 | $9 |
+| The Cinderhouse Score (Forged in the Dark) | 105 | $9 |
+| The Salt King's Stair (Dungeon World) | 109 | $10 |
+| The Glass Comet (Cypher System) | 107 | $10 |
+| The Sleepless Mill (Pathfinder 2e compatible) | 99 | $12 |
+| Encore! (Skellies, CC BY-SA) | 54 | $4 |
+
+License notes and pre-launch checks for each book are in that repo's `docs/LICENSES.md`; the print plan is in `docs/KDP-PLAN.md`.
+
 ## What each PDF is
 
 **One book per game: a complete adventure plus a full player's handbook for that game's open rules.** A buyer needs nothing else to play. This keeps the promise the demos already make ("so you need nothing else to play"), and it gives each book a reason to exist next to the official rules, several of which are free.
