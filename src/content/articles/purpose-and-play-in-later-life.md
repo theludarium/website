@@ -1,10 +1,10 @@
 ---
 title: "Purpose in Retirement: Why Play Belongs in the Second Half"
 description: "Purpose in retirement does not have to mean a second career. Why a standing game, a group, and a role at the table can supply it, and what research says."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["purpose in retirement", "finding purpose after retirement", "sense of purpose and longevity", "meaning in later life", "retirement and mental health", "what to do in retirement", "Play and longevity"]
-draft: true
+draft: false
 ---
 Purpose in retirement is usually discussed as a problem to solve with a project: a second career, a nonprofit board, a book. Those work for some people. For many, they replace one kind of obligation with another and miss what was actually lost. What most people lose at retirement is not a mission. It is a place to be expected, people who notice when they are gone, and a role that is theirs.
 

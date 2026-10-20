@@ -1,10 +1,10 @@
 ---
 title: "Board Games for ADHD Adults: Why Structured Play Works"
 description: "Board games for ADHD adults often work where other hobbies don't. Why structure, novelty, and short turns help, and which games tend to hold attention."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["board games for ADHD adults", "ADHD and board games", "games for adults with ADHD", "ADHD hobbies", "ADHD friendly games", "hyperfocus and games", "Play and health"]
-draft: true
+draft: false
 ---
 Ask a room of adults with ADHD what hobbies have stuck, and board games come up more than you'd expect. Not every game, and not for everyone, but the pattern is consistent enough to be worth explaining. Board games for ADHD adults seem to work for reasons that follow directly from how attention operates when it is hard to steer: structure, novelty, immediate feedback, and other people in the room.
 

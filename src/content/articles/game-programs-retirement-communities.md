@@ -1,10 +1,10 @@
 ---
 title: "Retirement Community Activities: Game Programs That Work"
 description: "Retirement community activities residents keep coming back to: how to run a game program, which games fit best, and the common mistakes that empty the room."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["retirement community activities", "senior living activity ideas", "game night for seniors", "activity director game ideas", "assisted living board games", "resident engagement programs", "Play and longevity"]
-draft: true
+draft: false
 ---
 Game programs are the most common retirement community activities on any calendar and, in our experience, the most unevenly run. One community has a Tuesday euchre table that has met for eleven years and would riot if cancelled. The one down the road has "Game Time, 2:00, Activity Room" and three people who wander in for the cookies. The games are the same. The program is not.
 

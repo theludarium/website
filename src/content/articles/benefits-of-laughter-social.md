@@ -1,10 +1,10 @@
 ---
 title: "Benefits of Laughter: What Shared Humor Does to a Group"
 description: "The social benefits of laughter go beyond the health claims you've heard. What shared laughter does to a group, and why game tables make so much of it."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["benefits of laughter social", "laughter and social bonding", "why do we laugh with friends", "laughter and stress", "shared humor", "laughter and endorphins", "Play and health"]
-draft: true
+draft: false
 ---
 Spend an evening at any game table and you will notice that most of the laughter has nothing to do with jokes. Someone draws the worst possible card. Someone's clue in Codenames leads the whole team to the assassin. Someone confidently places a tile in the wrong spot and refuses to admit it. The social benefits of laughter are mostly about this kind, the shared, spontaneous kind, and the research suggests it does more for a group than almost anything else people do together.
 

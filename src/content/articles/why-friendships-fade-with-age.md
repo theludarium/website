@@ -1,10 +1,10 @@
 ---
 title: "Why Friendships Fade With Age, and the Habit That Fixes It"
 description: "Friendships fade with age for predictable reasons, and the fix is not more effort. It is one standing commitment. What research says and how to build it."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["friendships fade with age", "losing friends as you get older", "how to make friends after 50", "adult friendship decline", "why adults have fewer friends", "maintaining friendships in midlife", "Play and longevity"]
-draft: true
+draft: false
 ---
 Friendships fade with age for reasons that have almost nothing to do with how much people like each other. They fade because the structures that held them up are removed one at a time, and because adults rarely replace those structures on purpose. The good news is that the fix is not heroic. It is a single habit, kept for years.
 

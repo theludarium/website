@@ -1,10 +1,10 @@
 ---
 title: "Board Games for Team Building: Why Your Offsite Needs Them"
 description: "Board games for team building beat trust falls and escape rooms. See what a game table reveals about trust, communication, and leadership, and how to use it."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["board games for team building", "team building games for work", "corporate game night", "team offsite ideas", "leadership development activities", "cooperative games for teams", "Social benefits of playing in person"]
-draft: true
+draft: false
 ---
 Board games for team building work because they do the one thing most offsite activities cannot: they put real decisions, real pressure, and real disagreement on a table where everyone can see them. Nobody learns anything about their colleagues from a ropes course. Everyone learns something from watching how the VP of Sales handles a losing position in Pandemic.
 

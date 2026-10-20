@@ -1,10 +1,10 @@
 ---
 title: "How to Be a Good Loser at Games (and Why It Matters)"
 description: "How to be a good loser at games: a practical guide to losing with grace at the table, what to say when it stings, and why the habit pays off everywhere else."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["how to be a good loser at games", "losing gracefully", "sore loser", "good sportsmanship board games", "handling losing", "game night etiquette", "Social benefits of playing in person"]
-draft: true
+draft: false
 ---
 Learning how to be a good loser at games comes down to one habit: separate the result from the relationship. You lost the game. You did not lose the people at the table. Say "good game" and mean it, ask what the winner saw that you missed, and be the first to reach for the box to reset. Everything else follows from that.
 

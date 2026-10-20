@@ -1,10 +1,10 @@
 ---
 title: "Lifelong Play: Why Play Is a Practice, Not a Phase"
 description: "Lifelong play is a habit you keep, not a stage you outgrow. What research suggests about adults who keep playing, and how to build a practice that lasts."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["lifelong play", "play for adults", "benefits of play across the lifespan", "playfulness in adulthood", "how to keep playing as an adult", "play and aging", "Play and longevity"]
-draft: true
+draft: false
 ---
 Lifelong play is the idea that play is something you keep doing on purpose, across your whole life, the way you keep sleeping and eating, rather than something children do and adults grow out of. Most adults have absorbed the opposite assumption without ever examining it. Play was for before. Now there is work, and family, and later, maybe, rest.
 

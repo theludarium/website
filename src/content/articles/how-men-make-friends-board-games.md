@@ -1,10 +1,10 @@
 ---
 title: "How to Make Friends as an Adult Man: Start Side by Side"
 description: "How to make friends as an adult man: men bond shoulder to shoulder, not face to face. Why a game table is the easy on-ramp to friendship, and how to find one."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["how to make friends as an adult man", "male friendship", "men and loneliness", "making friends in your 30s", "board games for men", "adult friendships", "Social benefits of playing in person"]
-draft: true
+draft: false
 ---
 If you are searching for how to make friends as an adult man, you are not alone, and the problem is not you. Most men do not build friendships by sitting across from someone and talking. They build them by doing something next to someone, repeatedly, until the talking happens on its own. A game table is one of the best places to do that, and this article explains why and how.
 

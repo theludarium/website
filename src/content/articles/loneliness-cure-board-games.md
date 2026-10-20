@@ -1,10 +1,10 @@
 ---
 title: "Board Games and Loneliness: A Cheap Cure in a Box"
 description: "Board games and loneliness are closer than you think. The public-health case for a weekly game night, why it works, and simple steps to start one of your own."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["board games and loneliness", "loneliness epidemic", "benefits of board games for adults", "social isolation", "how to feel less lonely", "game night for adults", "Social benefits of playing in person"]
-draft: true
+draft: false
 ---
 If you have ever written off board games as something for kids or for people with too much free time, this article is for you. The link between board games and loneliness is not a cute idea. It is a practical answer to one of the most serious public-health problems in the country. A weekly game night costs less than a gym membership, needs no special skill, and gives you the one thing the research keeps pointing to: regular, in-person time with the same people.
 
