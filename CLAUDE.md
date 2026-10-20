@@ -234,7 +234,7 @@ On-site payments, user accounts, membership sign-up and billing, lounge booking,
 - Ask before decisions that are hard to reverse (hosting, domain DNS, moving a tool's repo)
 - Show progress early: get a deployable skeleton up before polishing
 - Corrections: fix the specific thing, no defense
-- Keep a short `DECISIONS.md` log of choices made and why
+- Log choices made and why in `decisions/`: one file per entry, named `YYYY-MM-DD-slug.md`, starting with a `## YYYY-MM-DD: Title` heading. Then run `node scripts/decisions-index.mjs` to regenerate the `DECISIONS.md` index (never edit the index by hand)
 
 ## Build order
 
