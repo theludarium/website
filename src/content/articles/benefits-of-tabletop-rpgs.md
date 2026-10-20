@@ -101,7 +101,7 @@ No more than joining a book club or a softball league. Millions of adults play, 
 
 ## Give it one evening
 
-The Ludarium newsletter covers play, friendship, and the health case for both, one article a week. Subscribe and we will send you our free RPG one-shot demo PDFs: single evenings, no commitment, built for a skeptic's first try. If you are in Indianapolis, the lounge is where we host them in person.
+The Ludarium newsletter covers play, friendship, and the health case for both, one article a week. Subscribe and we will send you our free RPG one-shot demo PDFs: single evenings, no commitment, built for a skeptic's first try. Want to try a game before you buy it? The [RPG Demo Library](/rpg-demo-library/) is coming soon: short intro adventures of open-license RPGs you can play in your browser.
 
 ## Sources
 

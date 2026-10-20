@@ -106,4 +106,4 @@ Yes. Quiet characters are common and effective, and they suit players who would 
 
 ## Keep practicing
 
-Subscribe to The Ludarium newsletter for one piece a week on being good company at a table, and we will send you our free RPG one-shot demo PDFs, which include pre-made characters with the want, fear, and manner already filled in. If you are in Indianapolis, the lounge runs beginner tables where freezing up is expected and forgiven.
+Subscribe to The Ludarium newsletter for one piece a week on being good company at a table, and we will send you our free RPG one-shot demo PDFs, which include pre-made characters with the want, fear, and manner already filled in. Want to try a game before you buy it? The [RPG Demo Library](/rpg-demo-library/) is coming soon: short intro adventures of open-license RPGs you can play in your browser.
