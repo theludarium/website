@@ -107,4 +107,4 @@ Light team-versus-team games like Codenames can. Games that require lying to or 
 
 ## Want this for your team?
 
-The Ludarium runs corporate tabletop events across Indianapolis and the surrounding area, with hosts trained to keep every voice at the table in the game. We can build a session around cooperative play for a single team or a department. If you would rather start small, subscribe to the newsletter and get one workplace game idea every week.
+The Ludarium runs [corporate tabletop events](/corporate-events/) across Indianapolis and the surrounding area, with hosts trained to keep every voice at the table in the game. We can build a session around cooperative play for a single team or a department. If you would rather start small, subscribe to [the newsletter](/newsletter/) and get one workplace game idea every week.

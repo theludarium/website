@@ -112,4 +112,4 @@ Yes, but seated at a different table from their new report for the first game. T
 
 ## Want help with your first one?
 
-The Ludarium runs corporate tabletop events in Indianapolis and nearby, including onboarding game nights with hosts at every table so your new hires meet colleagues instead of rulebooks. If you would rather build it in-house, subscribe to the newsletter for one workplace game idea every week, tested on real teams.
+The Ludarium runs [corporate tabletop events](/corporate-events/) in Indianapolis and nearby, including onboarding game nights with hosts at every table so your new hires meet colleagues instead of rulebooks. If you would rather build it in-house, subscribe to [the newsletter](/newsletter/) for one workplace game idea every week, tested on real teams.

@@ -121,4 +121,4 @@ They give reps live practice at anchoring, reading counterparts, and protecting 
 
 ## Want it run for you?
 
-The Ludarium runs corporate tabletop events in and around Indianapolis, including negotiation sessions for sales teams with hosts who teach the game, observe each table, and lead the debrief. If you are planning your own kickoff, subscribe to the newsletter for one workplace-tested game idea every week.
+The Ludarium runs [corporate tabletop events](/corporate-events/) in and around Indianapolis, including negotiation sessions for sales teams with hosts who teach the game, observe each table, and lead the debrief. If you are planning your own kickoff, subscribe to [the newsletter](/newsletter/) for one workplace-tested game idea every week.

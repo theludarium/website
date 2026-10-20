@@ -113,4 +113,4 @@ No. Three or four well-chosen games cover most teams. Codenames, Just One, Pande
 
 ## Want someone else to run it?
 
-The Ludarium runs corporate tabletop events in Indianapolis and the surrounding area: we bring the games, the hosts who know the rules, and a plan sized to your room, from a lunch hour to a full offsite. If you would rather build your own program, subscribe to the newsletter and get one workplace-ready game idea every week, before it hits the site.
+The Ludarium runs [corporate tabletop events](/corporate-events/) in Indianapolis and the surrounding area: we bring the games, the hosts who know the rules, and a plan sized to your room, from a lunch hour to a full offsite. If you would rather build your own program, subscribe to [the newsletter](/newsletter/) and get one workplace-ready game idea every week, before it hits the site.

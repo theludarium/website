@@ -116,4 +116,4 @@ Once or twice a year is typical. The less often you meet, the more the day shoul
 
 ## Flying everyone to Indianapolis?
 
-The Ludarium runs corporate tabletop events for distributed teams gathering in Indianapolis and the surrounding area: an afternoon game session, an evening of hosted open play, or both, sized to your headcount. If you are planning the day yourself, subscribe to the newsletter for one workplace game idea every week.
+The Ludarium runs [corporate tabletop events](/corporate-events/) for distributed teams gathering in Indianapolis and the surrounding area: an afternoon game session, an evening of hosted open play, or both, sized to your headcount. If you are planning the day yourself, subscribe to [the newsletter](/newsletter/) for one workplace game idea every week.

@@ -116,4 +116,4 @@ Start with two or three people and play anyway. Visibility and personal invitati
 
 ## Want a running start?
 
-The Ludarium runs corporate tabletop events in Indianapolis and the surrounding area, including kickoff sessions for new workplace game clubs: we bring a shelf, teach the first few games, and leave your team with a starter list and the confidence to run it. If you are launching one on your own, subscribe to the newsletter for one short, teachable game idea every week.
+The Ludarium runs [corporate tabletop events](/corporate-events/) in Indianapolis and the surrounding area, including kickoff sessions for new workplace game clubs: we bring a shelf, teach the first few games, and leave your team with a starter list and the confidence to run it. If you are launching one on your own, subscribe to [the newsletter](/newsletter/) for one short, teachable game idea every week.

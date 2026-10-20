@@ -123,4 +123,4 @@ It can show leadership behavior under mild pressure in a single setting. Treat i
 
 ## Want a host who knows what to watch for?
 
-The Ludarium runs corporate tabletop events in and around Indianapolis, including leadership sessions built around cooperative games, with hosts who teach, run the table, and give you specific observations afterward. If you would like more on games and leadership, subscribe to the newsletter for one piece like this every week.
+The Ludarium runs [corporate tabletop events](/corporate-events/) in and around Indianapolis, including leadership sessions built around cooperative games, with hosts who teach, run the table, and give you specific observations afterward. If you would like more on games and leadership, subscribe to [the newsletter](/newsletter/) for one piece like this every week.

@@ -113,4 +113,4 @@ Yes. Several free browser versions exist, and the physical game works over video
 
 ## Want to see your team play?
 
-The Ludarium runs corporate tabletop events in and around Indianapolis. We bring the games and the hosts, run multiple tables at once, and leave you with observations about how your teams communicated, without a slide deck. If you would rather try it yourself first, the newsletter sends one workplace-ready game idea every week.
+The Ludarium runs [corporate tabletop events](/corporate-events/) in and around Indianapolis. We bring the games and the hosts, run multiple tables at once, and leave you with observations about how your teams communicated, without a slide deck. If you would rather try it yourself first, [the newsletter](/newsletter/) sends one workplace-ready game idea every week.

@@ -119,4 +119,4 @@ Make participation optional and offer a low-pressure role, like keeping score or
 
 ## Planning one?
 
-The Ludarium runs corporate tabletop events across Indianapolis and the surrounding area: hosted game sessions sized for eight people or eighty, with hosts who teach the rules so your team can just play. If you are building your own plan, subscribe to the newsletter for one tested workplace activity each week.
+The Ludarium runs [corporate tabletop events](/corporate-events/) across Indianapolis and the surrounding area: hosted game sessions sized for eight people or eighty, with hosts who teach the rules so your team can just play. If you are building your own plan, subscribe to [the newsletter](/newsletter/) for one tested workplace activity each week.
