@@ -188,3 +188,7 @@ A short log of choices made and why. Newest at the bottom.
 - **Skellies gets a new adventure, Encore!, sold under CC BY-SA 4.0** as the license requires; Levi chose to sell it knowing buyers may share it.
 - **Print:** Levi wants paperbacks on Amazon KDP. The licenses allow it; the plan and the Amazon-side risks (freely available content, AI disclosure) are in that repo's `docs/KDP-PLAN.md`.
 - **Still to do before any book goes on sale:** Levi's playtest, the pre-launch license checks in that repo's `docs/LICENSES.md` (Cypher's new license, Paizo compatibility registration, a Pathfinder rules pass), and updating each demo's page count.
+
+## 2026-10-20: Store prices reach browsers at once
+
+- The RPG Demo Library's `store.js` (prices and checkout links) and `buy.js` were served with Cloudflare's default 4-hour browser cache, so after the price change to $9.99 a returning visitor still saw $5. Now the demos load both with a content-hash version tag (`scripts/rpg-demo-library.mjs`), and `public/_headers` tells browsers to recheck them on every visit. Any future price or checkout-link change shows up on the next page load.
