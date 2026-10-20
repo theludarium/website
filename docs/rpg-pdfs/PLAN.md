@@ -6,21 +6,21 @@ Plan for the eleven paid PDFs behind the RPG Demo Library. Decided with Levi on 
 
 All eleven books are written and built, in the private repo `theludarium/rpg-adventures` (manuscripts in Markdown, built to PDF with Paged.js and headless Chrome; `node tools/build.mjs books/<slug>`). None has been playtested or put on sale yet. Actual page counts, which ran longer than the estimates below because every scene has every outcome written out:
 
-| Book | Pages | Suggested price |
+| Book | Pages | PDF price |
 |---|---|---|
-| The Bell Beneath the Fen (Ironsworn) | 90 | $9 |
-| Mayday at the Glass Moon (Lasers & Feelings) | 64 | $6 |
-| The Silence at Well Nine (24XX) | 63 | $7 |
-| The Dead Baron's Mint (Knave 1e) | 64 | $7 |
-| The Long Sleep of the Lodestar (Starforged) | 111 | $10 |
-| Thunder on the Silver Meridian (Fate Condensed) | 92 | $9 |
-| The Cinderhouse Score (Forged in the Dark) | 105 | $9 |
-| The Salt King's Stair (Dungeon World) | 109 | $10 |
-| The Glass Comet (Cypher System) | 107 | $10 |
-| The Sleepless Mill (Pathfinder 2e compatible) | 99 | $12 |
-| Encore! (Skellies, CC BY-SA) | 54 | $4 |
+| The Bell Beneath the Fen (Ironsworn) | 90 | $9.99 |
+| Mayday at the Glass Moon (Lasers & Feelings) | 64 | $9.99 |
+| The Silence at Well Nine (24XX) | 63 | $9.99 |
+| The Dead Baron's Mint (Knave 1e) | 64 | $9.99 |
+| The Long Sleep of the Lodestar (Starforged) | 111 | $9.99 |
+| Thunder on the Silver Meridian (Fate Condensed) | 92 | $9.99 |
+| The Cinderhouse Score (Forged in the Dark) | 105 | $9.99 |
+| The Salt King's Stair (Dungeon World) | 109 | $9.99 |
+| The Glass Comet (Cypher System) | 107 | $9.99 |
+| The Sleepless Mill (Pathfinder 2e compatible) | 99 | $9.99 |
+| Encore! (Skellies, CC BY-SA) | 54 | $9.99 |
 
-License notes and pre-launch checks for each book are in that repo's `docs/LICENSES.md`; the print plan is in `docs/KDP-PLAN.md`.
+Every PDF is $9.99 (Levi's call, 2026-10-20), set in the library's `store.js`. License notes and pre-launch checks for each book are in that repo's `docs/LICENSES.md`; the print plan is in `docs/KDP-PLAN.md`.
 
 ## What each PDF is
 
