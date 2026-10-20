@@ -1,10 +1,10 @@
 ---
 title: "Game Night Lineup: Opener, Main Event, Closer"
 description: "A good game night lineup has three acts: a short opener, one main event, and a quick closer. How to sequence games so the night builds and ends on a high."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Night
 tags: ["game night lineup", "game night order", "what game to play first", "game night schedule", "sequencing board games", "best opener board game", "Hosting and game-night craft"]
-draft: true
+draft: false
 ---
 A good game night lineup has three parts. An opener that gets everyone talking within ten minutes. A main event that fills the middle of the evening. A closer that sends people home laughing. Three games, three jobs, in that order.
 

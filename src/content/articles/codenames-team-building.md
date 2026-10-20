@@ -1,10 +1,10 @@
 ---
 title: "Codenames Team Building: What One Game Reveals"
 description: "Codenames team building works because 15 minutes of clue-giving shows how your team really talks. What to watch for, how to run a session, and what to do next."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["Codenames team building", "Codenames at work", "team communication exercise", "Codenames rules", "communication games for teams", "office icebreaker games", "Games for the workplace"]
-draft: true
+draft: false
 ---
 Codenames team building works for a simple reason: the game is nothing but communication, stripped of everything else. One person gives a one-word clue. Their teammates interpret it. Either the shared understanding was there or it was not, and everyone finds out in about ten seconds.
 
@@ -113,4 +113,4 @@ Yes. Several free browser versions exist, and the physical game works over video
 
 ## Want to see your team play?
 
-The Ludarium runs corporate tabletop events in and around Indianapolis. We bring the games and the hosts, run multiple tables at once, and leave you with observations about how your teams communicated, without a slide deck. If you would rather try it yourself first, the newsletter sends one workplace-ready game idea every week.
+The Ludarium runs [corporate tabletop events](/corporate-events/) in and around Indianapolis. We bring the games and the hosts, run multiple tables at once, and leave you with observations about how your teams communicated, without a slide deck. If you would rather try it yourself first, [the newsletter](/newsletter/) sends one workplace-ready game idea every week.

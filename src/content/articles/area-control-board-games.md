@@ -1,10 +1,10 @@
 ---
 title: "Area Control Board Games Without the Bloodbath"
 description: "Area control board games can be tense without being cruel. How El Grande, Risk, and Blood Rage handle conflict, and how to design fights people enjoy."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Design
 tags: ["area control board games", "area majority games", "designing conflict in board games", "El Grande area control", "Risk alternatives", "kingmaking in board games", "Tabletop game design"]
-draft: true
+draft: false
 ---
 Area control board games are about presence on a map. You place pieces in regions, and whoever has the most in a region when it scores gets the reward. The genre includes Risk, where presence means armies and the loser is removed from the board, and El Grande, where presence means wooden cubes and nobody is ever eliminated. Both are area control. Only one of them ends friendships.
 

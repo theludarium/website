@@ -1,10 +1,10 @@
 ---
 title: "Ticket to Ride Strategy: Routes, Blocking, Drawing Tickets"
 description: "Ticket to Ride strategy that holds up at a real table: picking starting tickets, when long routes beat short ones, when to block, and when to draw more."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Guides
 tags: ["Ticket to Ride strategy", "Ticket to Ride tips", "Ticket to Ride destination tickets", "how to win Ticket to Ride", "Ticket to Ride blocking", "Ticket to Ride longest route", "Strategy guides"]
-draft: true
+draft: false
 ---
 Good Ticket to Ride strategy comes down to one question you ask on every turn: is it time to build, or is it time to draw? Players who lose by thirty points usually answered it wrong in the same direction every time. They either hoarded cards until someone took their route, or they built every two-train route in sight and ran out of trains with tickets unfinished.
 

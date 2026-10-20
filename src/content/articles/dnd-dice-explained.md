@@ -1,10 +1,10 @@
 ---
 title: "D&D Dice Explained: d20, d6, and Advantage"
 description: "D&D dice explained for new players: what each of the seven dice is for, how a d20 roll works, what advantage means, and why the math feels the way it does."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Guides
 tags: ["D&D dice explained", "what dice do you need for D&D", "d20 system explained", "advantage and disadvantage", "polyhedral dice set", "how to read D&D dice", "Tabletop RPGs for beginners"]
-draft: true
+draft: false
 ---
 Here is D&D dice explained in two sentences. The twenty-sided die decides whether something works; all the other dice decide how much. If you understand that split, you understand most of what happens at a D&D table, and the rest of this article is detail you can learn as you go.
 
@@ -106,4 +106,4 @@ On an attack roll, yes; it is a critical hit. On skill checks and saving throws 
 
 ## Roll with us
 
-Subscribe to The Ludarium newsletter for one short, plain explainer like this every week, and we will send you our free RPG one-shot demo PDFs, which walk a new table through its first d20 roll in play. If you are in Indianapolis, the lounge keeps spare dice at every table.
+Subscribe to The Ludarium newsletter for one short, plain explainer like this every week. Want to try a game before you buy it? Play a free intro adventure in the [RPG Demo Library](/rpg-demo-library/), right in your browser, by each game's real rules.

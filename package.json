@@ -7,8 +7,8 @@
     "node": ">=22.22.0"
   },
   "scripts": {
-    "dev": "astro dev",
-    "build": "astro build && node scripts/check-seo.mjs",
+    "dev": "node scripts/rpg-demo-library.mjs fetch && astro dev",
+    "build": "node scripts/rpg-demo-library.mjs fetch && astro build && node scripts/rpg-demo-library.mjs copy && node scripts/check-seo.mjs",
     "preview": "astro preview",
     "astro": "astro",
     "check": "astro check"

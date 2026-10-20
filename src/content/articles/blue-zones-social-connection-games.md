@@ -1,10 +1,10 @@
 ---
 title: "Blue Zones Social Connection: Card Games and Long Life"
 description: "Blue Zones social connection is the least-copied part of the longevity story. What the card games of Sardinia and Okinawa suggest about living long and well."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["Blue Zones social connection", "Blue Zones longevity", "Blue Zones habits", "moai Okinawa", "Sardinia longevity", "social rituals and aging", "Play and health"]
-draft: true
+draft: false
 ---
 When people talk about the Blue Zones, they talk about beans, olive oil, and walking up hills. They rarely mention that in Sardinia, the old men meet in the plaza every afternoon to play cards. Blue Zones social connection is the part of the longevity story that gets the least attention and may matter the most, and it often takes the form of a game.
 

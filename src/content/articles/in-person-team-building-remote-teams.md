@@ -1,10 +1,10 @@
 ---
 title: "In-Person Team Building for Remote Teams: One Day"
 description: "In-person team building for remote teams often gets one day a year. How to spend that day so people leave knowing each other well, not just knowing the agenda."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["in-person team building for remote teams", "remote team offsite", "distributed team meetup", "remote team gathering ideas", "hybrid team building", "remote team retreat agenda", "Games for the workplace"]
-draft: true
+draft: false
 ---
 In-person team building for remote teams has a constraint no office team faces: you get one day, maybe two, and then everyone flies home to a grid of video tiles. Whatever happens in that room has to last six or twelve months. That changes what the day is for. The goal is not a productive meeting. The goal is that the next Slack message from a colleague lands as a message from a person you know.
 
@@ -116,4 +116,4 @@ Once or twice a year is typical. The less often you meet, the more the day shoul
 
 ## Flying everyone to Indianapolis?
 
-The Ludarium runs corporate tabletop events for distributed teams gathering in Indianapolis and the surrounding area: an afternoon game session, an evening of hosted open play, or both, sized to your headcount. If you are planning the day yourself, subscribe to the newsletter for one workplace game idea every week.
+The Ludarium runs [corporate tabletop events](/corporate-events/) for distributed teams gathering in Indianapolis and the surrounding area: an afternoon game session, an evening of hosted open play, or both, sized to your headcount. If you are planning the day yourself, subscribe to [the newsletter](/newsletter/) for one workplace game idea every week.

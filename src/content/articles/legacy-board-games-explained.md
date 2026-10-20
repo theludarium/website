@@ -1,10 +1,10 @@
 ---
 title: "Legacy Board Games Explained: Games That Change Forever"
 description: "Legacy board games explained: what happens when you tear up cards and sticker the board, which legacy games are worth it, and how to keep a group together."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Guides
 tags: ["legacy board games", "what is a legacy board game", "Pandemic Legacy", "Risk Legacy", "best legacy board games", "campaign board games", "Cooperative and campaign games"]
-draft: true
+draft: false
 ---
 Legacy board games are games you permanently alter as you play. You tear up cards. You put stickers on the board. You open sealed boxes when the rules tell you to. After a dozen sessions, your copy is unlike anyone else's, and you cannot play it again from the start.
 

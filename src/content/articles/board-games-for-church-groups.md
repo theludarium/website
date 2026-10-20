@@ -1,10 +1,10 @@
 ---
 title: "Board Games for Church Groups and Youth Groups"
 description: "Board games for church groups and youth groups: picks that work for 8 to 40 people, mixed ages, and tight budgets, plus how to run the night so it lasts."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Night
 tags: ["board games for church groups", "youth group games", "games for small groups", "church game night", "games for mixed ages", "large group board games", "Who it's for"]
-draft: true
+draft: false
 ---
 Good board games for church groups solve a specific problem: a room of people who range from twelve to eighty, who mostly know each other a little, and who need something to do together that is not another icebreaker. The games below are sorted by group size and setting, from a small group in a living room to a fellowship hall with forty people and folding tables.
 

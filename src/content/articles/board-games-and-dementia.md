@@ -1,10 +1,10 @@
 ---
 title: "Board Games and Dementia: What the Research Says"
 description: "Do board games prevent dementia? A plain look at what the research on board games and dementia shows, what it does not, and what families can do with it."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["board games and dementia", "do board games prevent dementia", "games for brain health", "cognitive decline and games", "mental stimulation and aging", "social activity and dementia risk", "Play and health"]
-draft: true
+draft: false
 ---
 The short answer is no, nothing has been shown to prevent dementia, and board games are no exception. The longer and more interesting answer is that the research on board games and dementia keeps pointing the same direction: people who play games regularly through middle and later life tend to show slower cognitive decline than people who don't. That is an association, not a cure. But it is a consistent one, and it is worth understanding.
 

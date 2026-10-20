@@ -1,10 +1,10 @@
 ---
 title: "Catch-Up Mechanics in Board Games: Designing the Comeback"
 description: "Catch-up mechanics in board games keep the ending in doubt without punishing the leader. How Mario Kart and Power Grid do it, and how to design a comeback."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Design
 tags: ["catch-up mechanics", "rubber banding board games", "runaway leader problem", "board game balance", "comeback mechanics", "kingmaker problem", "Tabletop game design"]
-draft: true
+draft: false
 ---
 Catch-up mechanics are rules that make it easier for a trailing player to close the gap, or harder for a leader to extend it, so that the outcome stays in doubt until late in the game. They exist to solve one of the oldest problems in game design: the runaway leader. The player who gets ahead early uses that lead to get further ahead, and everyone else spends the last forty minutes knowing they have lost.
 

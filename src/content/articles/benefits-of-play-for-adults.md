@@ -1,10 +1,10 @@
 ---
 title: "Benefits of Play for Adults: The Case for Playing"
 description: "The benefits of play for adults are real and under-used. Why play is not the opposite of work, what the research suggests, and easy ways to get more of it."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["benefits of play for adults", "why adults should play", "adult play and mental health", "play and creativity", "play and stress", "how to play more as an adult", "Play and health"]
-draft: true
+draft: false
 ---
 Most adults stop playing somewhere in their twenties and never notice. Work fills the hours, then family, then the quiet exhaustion of being responsible for things. Play gets filed under childhood, like braces. That is a mistake, and the benefits of play for adults are large enough that it is worth undoing on purpose.
 

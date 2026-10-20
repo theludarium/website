@@ -1,10 +1,10 @@
 ---
 title: "Wingspan vs Everdell vs Cascadia: Which Fits Your Table?"
 description: "Wingspan vs Everdell vs Cascadia, compared on weight, play time, player count, and feel. Which nature board game fits your group and which one to buy first."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Guides
 tags: ["Wingspan vs Everdell", "Cascadia vs Wingspan", "nature board games", "Everdell vs Cascadia", "best nature themed board games", "Wingspan review", "What to play"]
-draft: true
+draft: false
 ---
 Three of the most popular board games of the last decade are about birds, forest animals, and Pacific Northwest wildlife. The Wingspan vs Everdell question comes up constantly, and Cascadia belongs in the same conversation. All three are beautiful, all three are calm, and they are not the same game. One is an engine builder, one is a worker placement game with a story, and one is a tile puzzle you can teach in three minutes.
 

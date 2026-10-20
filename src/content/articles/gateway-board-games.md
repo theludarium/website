@@ -1,10 +1,10 @@
 ---
 title: "10 Gateway Board Games That Turn Non-Gamers Into Regulars"
 description: "The 10 best gateway board games for turning a non-gamer into a regular, with player counts, times, and what each one leads to next. A guide for hosts."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Guides
 tags: ["gateway board games", "best gateway games", "board games for beginners", "entry level board games", "first board games for adults", "games for new players", "What to play"]
-draft: true
+draft: false
 ---
 Gateway board games are the ones you hand to someone who has never played anything newer than Clue. They teach fast, finish in under an hour, and leave a new player wanting the next thing. Pick the right one and a friend who "doesn't do games" becomes the person texting you on Tuesday to ask when the next night is.
 

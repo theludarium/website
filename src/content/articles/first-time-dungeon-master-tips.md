@@ -110,4 +110,4 @@ Move the content you prepared to wherever they went, ask them what they are hopi
 
 ## Run your first one
 
-The Ludarium newsletter is written for the person who makes game night happen, with a new article every week. Subscribers also get our free RPG one-shot demo PDFs, built so a first-time DM can run them with a single read-through. And if you are in Indianapolis, the lounge is a good place to run your first table where someone else handles the snacks.
+The Ludarium newsletter is written for the person who makes game night happen, with a new article every week. Want to try a game before you buy it? Play a free intro adventure in the [RPG Demo Library](/rpg-demo-library/), right in your browser, by each game's real rules.

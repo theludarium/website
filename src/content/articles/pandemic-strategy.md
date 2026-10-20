@@ -1,10 +1,10 @@
 ---
 title: "Pandemic Strategy: Beating the Game on Heroic Difficulty"
 description: "Pandemic board game strategy for the hardest setting: how to split roles, manage the infection deck, time cures, and stop losing to the outbreak chain."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Guides
 tags: ["Pandemic board game strategy", "Pandemic strategy", "how to win Pandemic", "Pandemic heroic difficulty", "Pandemic roles ranked", "Pandemic epidemic cards", "Strategy guides"]
-draft: true
+draft: false
 ---
 Pandemic board game strategy changes completely between four epidemic cards and six. At the introductory setting, a competent team wins most games by curing diseases as fast as possible. At Heroic difficulty, with six epidemics in the player deck, that approach loses to the outbreak chain before the third cure. The game stops being about curing and starts being about controlling the infection deck.
 

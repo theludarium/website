@@ -1,10 +1,10 @@
 ---
 title: "Board Games for Teenagers and Parents: Neutral Ground"
 description: "Board games for teenagers and parents give you something to do besides talk. How to pick the right games and play with your teen without it feeling weird."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["board games for teenagers and parents", "how to talk to your teenager", "family game night with teens", "games for 14 year olds", "connecting with teenagers", "parenting teens", "Social benefits of playing in person"]
-draft: true
+draft: false
 ---
 Most parents of teenagers want the same thing: a way to be in the same room, doing something together, where the conversation can happen without being forced. Board games for teenagers and parents work because they supply exactly that. The game gives you both a reason to sit down, a place to look, and something to talk about that is not grades or curfew. This article covers which games work, how to propose them without getting an eye roll, and what to expect once you are at the table.
 

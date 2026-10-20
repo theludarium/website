@@ -1,10 +1,10 @@
 ---
 title: "Board Game League Format: How to Run One for a Season"
 description: "A board game league format that lasts a full season: simple scoring, scheduling, handling missed weeks, and the standings rule that keeps players coming back."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Night
 tags: ["board game league", "board game league format", "board game league scoring", "how to start a board game league", "game night league", "season-long game night", "Game night programming"]
-draft: true
+draft: false
 ---
 A board game league is a game night with memory. Each week's results carry forward into standings, and standings give people a reason to come back on the week they would otherwise skip. Most leagues fail for one of two reasons: the scoring punishes a missed week so hard that one absence ends a player's season, or the format depends on everyone showing up every time.
 

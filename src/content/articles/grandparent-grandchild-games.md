@@ -1,10 +1,10 @@
 ---
 title: "Grandparent Grandchild Activities: The Game That Bonds"
 description: "The best grandparent grandchild activities are repeated, not special. Why a standing game builds a bond one turn at a time, and which games fit each age."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["grandparent grandchild activities", "games to play with grandchildren", "bonding with grandchildren", "intergenerational games", "grandparents and board games", "activities for grandparents and kids", "Play and longevity"]
-draft: true
+draft: false
 ---
 The best grandparent grandchild activities are not trips or outings. They are small things done over and over, and a standing game is the best of them. A grandchild who plays cribbage with a grandfather every Sunday for six years ends up with something no zoo visit provides: a relationship with its own language, its own jokes, and a reason to sit together that does not depend on anyone having something to say.
 

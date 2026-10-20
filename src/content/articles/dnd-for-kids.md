@@ -1,10 +1,10 @@
 ---
 title: "D&D for Kids: Rules That Keep the Table Fun"
 description: "D&D for kids works with a few small changes. Which ages it suits, how to simplify the rules, which systems fit young players, and table rules that keep it fun."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Guides
 tags: ["D&D for kids", "running D&D for children", "tabletop RPG for kids", "best RPG for kids", "D&D age appropriate", "family D&D", "Tabletop RPGs for beginners"]
-draft: true
+draft: false
 ---
 D&D for kids works, and it works earlier than most parents expect, as long as the adult running it changes three things: shorten everything, simplify the numbers, and let the kids drive. A seven-year-old cannot sit through a four-hour dungeon crawl. A seven-year-old can absolutely spend ninety minutes negotiating with a dragon who has lost its glasses.
 
@@ -109,4 +109,4 @@ Games designed for kids, such as No Thank You, Evil!, Hero Kids, or Amazing Tale
 
 ## Bring the kids to the table
 
-Subscribe to The Ludarium newsletter for one piece a week on playing with the people you live with, and we will send you our free RPG one-shot demo PDFs, which include notes for trimming each adventure down to a kids' table. If you are in Indianapolis, the lounge runs family RPG afternoons for exactly this.
+Subscribe to The Ludarium newsletter for one piece a week on playing with the people you live with. Want to try a game before you buy it? Play a free intro adventure in the [RPG Demo Library](/rpg-demo-library/), right in your browser, by each game's real rules.

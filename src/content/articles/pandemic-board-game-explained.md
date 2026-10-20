@@ -1,10 +1,10 @@
 ---
 title: "Pandemic Board Game Explained: Why It Still Works"
 description: "The Pandemic board game explained in plain language: how it plays, why it was the first great co-op, and whether it still belongs on your table in 2026."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Guides
 tags: ["Pandemic board game", "how to play Pandemic", "Pandemic board game rules", "Pandemic co-op", "Pandemic board game review", "Pandemic expansions", "Cooperative and campaign games"]
-draft: true
+draft: false
 ---
 The Pandemic board game puts two to four players on one team against four spreading diseases. You win by curing all four. You lose if outbreaks pile up, the deck runs out, or the disease cubes do. It came out in 2008, and nearly two decades later it is still the game most people mean when they say "a co-op."
 

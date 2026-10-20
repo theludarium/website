@@ -1,10 +1,10 @@
 ---
 title: "Best Board Games for 6 Players (and Every Headcount)"
 description: "The best board games for 6 players, plus what to play at 3, 4, 5, 7, and 8. Match a game to your real headcount so nobody waits 20 minutes for a turn."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Night
 tags: ["best board games for 6 players", "board games for large groups", "games for 5 players", "games for 7 players", "player count board games", "how many players board game", "Hosting and game-night craft"]
-draft: true
+draft: false
 ---
 The best board games for 6 players are the ones built for six, not the ones that merely allow it. That distinction is the whole article. A box that says "2 to 6 players" is making a promise about the rules, not about the experience. Catan at six with the expansion is a legal game. It is also a two-and-a-half-hour wait for your turn.
 

@@ -104,4 +104,4 @@ One GM and three to five players is the standard. Two players and a GM works, th
 
 ## Still looking?
 
-Subscribe to The Ludarium newsletter: one article a week on getting adults around a table, plus our free RPG one-shot demo PDFs, which are the easiest excuse to invite two friends over and start your own group. If you are in Indianapolis, the lounge is where new tables form on purpose.
+Subscribe to The Ludarium newsletter: one article a week on getting adults around a table. Want to try a game before you buy it? Play a free intro adventure in the [RPG Demo Library](/rpg-demo-library/), right in your browser, by each game's real rules.

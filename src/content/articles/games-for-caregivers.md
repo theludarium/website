@@ -1,10 +1,10 @@
 ---
 title: "Activities for Caregivers: Games for an Hour Off"
 description: "Activities for caregivers who need an hour off: why a game beats rest, what to play alone or with the person you care for, and where to get real help."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["activities for caregivers", "caregiver burnout", "self care for caregivers", "respite for family caregivers", "games to play with dementia patients", "caregiver support groups", "Play and longevity"]
-draft: true
+draft: false
 ---
 Most lists of activities for caregivers assume you have a free afternoon, a sitter, and the energy to use them. If you are caring for a parent, a spouse, or a child with serious needs, you probably have none of those. What you might have is an hour, now and then, and a kind of tiredness that sleep does not reach.
 

@@ -112,4 +112,4 @@ Yes. One GM and one player is a valid and intimate format, though most published
 
 ## Want to try one?
 
-Subscribe to The Ludarium newsletter and we will send you our free RPG one-shot demo PDFs: complete evenings built for people who have never played, with the rules explained as you go. New explainers like this one go to subscribers first, and if you are in Indianapolis, the lounge is where we run them in person.
+Subscribe to The Ludarium newsletter: new explainers like this one go to subscribers first. Want to try a game before you buy it? Play a free intro adventure in the [RPG Demo Library](/rpg-demo-library/), right in your browser, by each game's real rules.

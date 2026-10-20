@@ -1,10 +1,10 @@
 ---
 title: "Dominion Strategy for Beginners: Big Money and Beyond"
 description: "Dominion strategy for beginners: why Big Money beats most first-timers, how to read a kingdom, when to buy Provinces, and the mistakes that lose games."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Guides
 tags: ["Dominion strategy", "Dominion tips", "Dominion Big Money", "how to win Dominion", "Dominion deck building strategy", "Dominion for beginners", "Strategy guides"]
-draft: true
+draft: false
 ---
 The first Dominion strategy every new player should learn is the one that feels like cheating: buy Silver, buy Gold, buy Provinces, and ignore almost everything else. It is called Big Money, and it beats most people's first ten attempts at building a clever deck. Once you understand why, you understand the game.
 

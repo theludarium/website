@@ -1,10 +1,10 @@
 ---
 title: "How to Play D&D for Beginners: No Homework Required"
 description: "How to play D&D for beginners in one evening, no homework needed. What happens at the table, what you need, and four things to know before your first session."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Guides
 tags: ["how to play D&D for beginners", "first D&D session", "Dungeons and Dragons for beginners", "what to expect at a D&D game", "D&D basics", "learn D&D without reading the rulebook", "Tabletop RPGs for beginners"]
-draft: true
+draft: false
 ---
 Here is how to play D&D for beginners, in one sentence: you show up, someone hands you a character, the person running the game describes a situation, and you say what your character does. That is the whole loop. Everything else is detail that the table will teach you as it comes up.
 
@@ -107,4 +107,4 @@ The DM corrects it and the game moves on. Rules mistakes happen at every table, 
 
 ## Keep going
 
-The Ludarium publishes one piece like this every week for people who want more time at the table with people they like. Subscribe to the newsletter and we will also send you our free RPG one-shot demo PDFs, which are built for a first session with zero prep. And if you are near Indianapolis, our lounge is where we run them.
+The Ludarium publishes one piece like this every week for people who want more time at the table with people they like. Subscribe to the newsletter to get each one. Want to try a game before you buy it? Play a free intro adventure in the [RPG Demo Library](/rpg-demo-library/), right in your browser, by each game's real rules.

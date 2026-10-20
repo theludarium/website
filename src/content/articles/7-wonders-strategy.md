@@ -1,10 +1,10 @@
 ---
 title: "7 Wonders Strategy: Drafting, Neighbors, the Science Trap"
 description: "7 Wonders strategy for players who want to win more than one game in five: how to draft well, when to fight your neighbors, and why science often fails."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Guides
 tags: ["7 Wonders strategy", "7 Wonders tips", "how to win 7 Wonders", "7 Wonders science strategy", "7 Wonders military", "7 Wonders drafting", "Strategy guides"]
-draft: true
+draft: false
 ---
 Most 7 Wonders strategy advice begins with the card types. It should begin with the two people sitting next to you. In a seven-player game, you only ever interact with your left and right neighbors: you buy resources from them, you fight wars with them, and you pass them the cards you did not take. The other four players might as well be at a different table.
 

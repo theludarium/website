@@ -1,10 +1,10 @@
 ---
 title: "Quick Board Games That Play in Under 30 Minutes"
 description: "Fifteen quick board games that play in under 30 minutes, with real times, player counts, and when to use each. Fillers, openers, and closers for any night."
-pubDate: 2026-10-18
+pubDate: 2026-10-19
 category: Game Guides
 tags: ["quick board games", "short board games", "filler games", "board games under 30 minutes", "fast board games for adults", "15 minute board games", "What to play"]
-draft: true
+draft: false
 ---
 Quick board games are the ones that fill the gap: the twenty minutes before the last guest arrives, the half hour after dinner, the end of a long night when nobody wants to go home but nobody wants to learn anything either. The best of them are not lesser games. They are full games with the waiting removed.
 

@@ -1,10 +1,10 @@
 ---
 title: "Roleplaying Tips for Beginners: When You Freeze Up"
 description: "Roleplaying tips for beginners who freeze when the GM turns to them: six moves that always work, how to build a character you can play, and what to skip."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Guides
 tags: ["roleplaying tips for beginners", "how to roleplay in D&D", "getting into character RPG", "shy player D&D tips", "what to do on your turn D&D", "roleplaying for introverts", "Tabletop RPGs for beginners"]
-draft: true
+draft: false
 ---
 The most useful roleplaying tips for beginners address a single moment: the GM turns to you, the table goes quiet, and your mind goes blank. You do not know what your character would do. You are not sure you know who your character is. Everyone is waiting.
 
@@ -106,4 +106,4 @@ Yes. Quiet characters are common and effective, and they suit players who would 
 
 ## Keep practicing
 
-Subscribe to The Ludarium newsletter for one piece a week on being good company at a table, and we will send you our free RPG one-shot demo PDFs, which include pre-made characters with the want, fear, and manner already filled in. If you are in Indianapolis, the lounge runs beginner tables where freezing up is expected and forgiven.
+Subscribe to The Ludarium newsletter for one piece a week on being good company at a table. Want to try a game before you buy it? Play a free intro adventure in the [RPG Demo Library](/rpg-demo-library/), right in your browser, by each game's real rules.

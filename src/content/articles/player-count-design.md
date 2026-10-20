@@ -1,10 +1,10 @@
 ---
 title: "Player Count Design: Build for the Table You Really Have"
 description: "Player count design is where many prototypes fail. Why games built for four break at three or five, how 7 Wonders and Catan scale, and how to scale yours."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Design
 tags: ["player count design", "best player count board games", "scaling board games", "board games for 3 players", "two player variant design", "player count balance", "Tabletop game design"]
-draft: true
+draft: false
 ---
 Player count design is the part of a prototype most designers leave for last, and it is the part most likely to sink a game in the real world. The box says two to five. The designer tested it at four, every time, with the same friends. Then it reaches a table of three, and the map is too big, or a table of five, and the game takes three hours. The players do not blame the player count. They blame the game.
 

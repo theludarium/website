@@ -1,10 +1,10 @@
 ---
 title: "Board Games for Stress Relief: Why a Hard Puzzle Calms"
 description: "Board games for stress relief work for a specific reason. Why a hard puzzle calms the mind, what the research on flow suggests, and which games do it best."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["board games stress relief", "games to relieve stress", "flow state games", "relaxing board games", "puzzle games for anxiety", "how to unwind without screens", "Play and health"]
-draft: true
+draft: false
 ---
 It sounds backwards. You come home wound tight from work, and the thing that settles you is a difficult game of Azul, not a nap. But people who use board games for stress relief report this over and over: the harder the puzzle, within reason, the quieter the mind afterward. There is a reasonable explanation for why, and it has to do with where your attention goes.
 

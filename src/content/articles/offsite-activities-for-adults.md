@@ -1,10 +1,10 @@
 ---
 title: "Offsite Activities for Adults That Beat the Trust Fall"
 description: "Offsite activities for adults should not involve falling backward. Here is what to run instead, what to avoid, and how to plan a day people thank you for."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["offsite activities for adults", "corporate offsite ideas", "team offsite activities", "company retreat activities", "team building ideas for adults", "offsite agenda", "Games for the workplace"]
-draft: true
+draft: false
 ---
 The best offsite activities for adults respect two facts: the people in the room are grown professionals, and they did not ask to be there. Anything that treats them like campers at an orientation will produce polite compliance and private eye-rolling. Anything that gives them a real thing to do together, with a little stakes and a little laughter, will produce the conversations you were hoping for.
 
@@ -119,4 +119,4 @@ Make participation optional and offer a low-pressure role, like keeping score or
 
 ## Planning one?
 
-The Ludarium runs corporate tabletop events across Indianapolis and the surrounding area: hosted game sessions sized for eight people or eighty, with hosts who teach the rules so your team can just play. If you are building your own plan, subscribe to the newsletter for one tested workplace activity each week.
+The Ludarium runs [corporate tabletop events](/corporate-events/) across Indianapolis and the surrounding area: hosted game sessions sized for eight people or eighty, with hosts who teach the rules so your team can just play. If you are building your own plan, subscribe to [the newsletter](/newsletter/) for one tested workplace activity each week.
