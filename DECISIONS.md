@@ -182,6 +182,13 @@ A short log of choices made and why. Newest at the bottom.
 - **Article promises corrected:** ten RPG articles promised subscribers "free RPG one-shot demo PDFs." The free thing is Act One in the browser; full adventure PDFs are paid. They now point to the library instead, and three articles that described the Indianapolis lounge as open no longer do.
 - **Themed library cards** (2026-10-20, Levi's ask): each card on `/rpg-demo-library/` wears its game's look, taken from its demo page: background and texture, display font, accent color (`src/lib/rdl-themes.ts`). The eight display fonts are self-hosted via Fontsource (latin subset, one weight each, loaded only on that page; `src/styles/rdl-fonts.css`) rather than Google Fonts, to keep our own pages free of third-party font requests. A new demo without a theme falls back to a plain site card. All themes pass WCAG AA contrast.
 
+## 2026-10-20: The eleven RPG Demo Library books
+
+- **Written in one day, in parallel,** one agent per book, from the plan in `docs/rpg-pdfs/PLAN.md`. Each is a complete adventure plus a handbook of its game's open rules (Levi's call: one book per game, rules and adventure together). Manuscripts and the build pipeline live in the private repo `theludarium/rpg-adventures`; finished PDFs will be sold through Lemon Squeezy and never committed to a public repo.
+- **Skellies gets a new adventure, Encore!, sold under CC BY-SA 4.0** as the license requires; Levi chose to sell it knowing buyers may share it.
+- **Print:** Levi wants paperbacks on Amazon KDP. The licenses allow it; the plan and the Amazon-side risks (freely available content, AI disclosure) are in that repo's `docs/KDP-PLAN.md`.
+- **Still to do before any book goes on sale:** Levi's playtest, the pre-launch license checks in that repo's `docs/LICENSES.md` (Cypher's new license, Paizo compatibility registration, a Pathfinder rules pass), and updating each demo's page count.
+
 ## 2026-10-19: Malaphor submission page
 
 - **`/malaphors/` added** as the submission address printed in Levi's malaphor field guide (a separate book project, manuscript in `~/Developer/malaphors-book`). Levi chose a Ludarium landing page over an email address or a standalone domain.
