@@ -1,10 +1,10 @@
 ---
 title: "Games for 90 Year Olds: What a Real Game Night Looks Like"
 description: "Games for 90 year olds that get played: what works for aging eyes, hands, and pace, which games to choose, and how to set up a table so everyone can join in."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["games for 90 year olds", "board games for elderly", "large print card games", "games for seniors with poor eyesight", "easy games for nursing home", "card games for 90 year old", "Play and longevity"]
-draft: true
+draft: false
 ---
 The best games for 90 year olds are not children's games, and they are not the games a 90-year-old played at 40, played the same way. They are familiar games with the table set up differently: bigger cards, better light, a slower clock, and people who have learned not to rush. Get those right and a game night at 90 looks a lot like a game night at any age. People talk, tease, compete, and stay an hour longer than they meant to.
 

@@ -1,10 +1,10 @@
 ---
 title: "Togethering: Why It Is a Longevity Practice"
 description: "Togethering is the practice of regularly coming together in person to share life. Why longevity research supports it, and why a game is the easiest way in."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["togethering", "what is togethering", "social connection and longevity", "in-person community", "loneliness epidemic", "social health practice", "Play and health"]
-draft: true
+draft: false
 ---
 Togethering is a word we use at the Ludarium for something that doesn't have a good name: people coming together, usually in person, to share life. Not networking, not an event, not a meeting with an agenda. Just the repeated act of being in a room with people you know, doing something together, over years. The tabletop game is the medium we use to start it and guide it. But the game is not the thing. The togethering is.
 

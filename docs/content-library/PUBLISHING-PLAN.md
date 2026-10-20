@@ -58,7 +58,7 @@ Status on 2026-10-19: 21 published at launch, 320 drafts.
 - `why-social-deduction-games-work`: Why Social Deduction Games Work: Hidden Roles and Good Lies
 - `worker-placement-explained`: Worker Placement Board Games, Explained With One Game
 
-## Batch 3: Why we play (22)
+## Batch 3: Why we play (22) (published 2026-10-20)
 
 - `benefits-of-laughter-social`: Benefits of Laughter: What Shared Humor Does to a Group
 - `benefits-of-play-for-adults`: Benefits of Play for Adults: The Case for Playing

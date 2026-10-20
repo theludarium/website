@@ -1,10 +1,10 @@
 ---
 title: "Board Games for All Ages: Four Generations, One Table"
 description: "Board games for all ages that work from 7 to 77 at one table. Our picks for four generations playing together, and why mixed-age play is good for everyone."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["board games for all ages", "multigenerational games", "family reunion games", "games for grandparents and grandchildren", "intergenerational play", "family board games", "Social benefits of playing in person"]
-draft: true
+draft: false
 ---
 Finding board games for all ages, the kind that work for a seven-year-old and a seventy-seven-year-old sitting at the same table, is harder than it sounds. Most "family" games bore the adults. Most adult games lose the kids and frustrate the grandparents. But a handful of games sit in the narrow band where everyone has a real chance and a real reason to pay attention. This article lists them, explains what they have in common, and makes the case that mixed-age play is worth the effort.
 

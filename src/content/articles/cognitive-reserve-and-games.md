@@ -1,10 +1,10 @@
 ---
 title: "Cognitive Reserve: What It Is and Whether Games Build It"
 description: "Cognitive reserve explained in plain words: where the idea came from, what studies of board games and card games show, what they don't, and what that means."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["cognitive reserve", "what is cognitive reserve", "cognitive reserve and dementia", "do board games help the brain", "brain health activities for seniors", "mental stimulation and aging", "Play and longevity"]
-draft: true
+draft: false
 ---
 Cognitive reserve is the brain's ability to keep working well despite damage or aging, and it is the idea behind nearly every claim that puzzles, games, and learning protect your mind. The concept is real and well studied. What people do with it is often a stretch. This article explains where the idea came from, what the research on games shows, and where the honest line sits between "associated with" and "proven to help."
 

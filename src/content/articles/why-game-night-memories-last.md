@@ -1,10 +1,10 @@
 ---
 title: "Benefits of Playing Board Games With Friends"
 description: "The benefits of playing board games with friends outlast the game. Why shared play creates the stories your group retells for decades, and how to make more."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Togethering
 tags: ["benefits of playing board games with friends", "game night memories", "shared experiences and friendship", "why board games bring people together", "social benefits of board games", "nostalgia and friendship", "Social benefits of playing in person"]
-draft: true
+draft: false
 ---
 Ask anyone about the benefits of playing board games with friends and they will mention laughing, relaxing, maybe a sharper mind. All true. But the biggest return is one most people do not notice until years later: the stories. Every group that plays together for long enough builds up a shared stock of moments it retells for decades. The time Dan traded away the win in Catan. The Pandemic game lost on the last card. The Codenames clue that still gets quoted at weddings.
 
