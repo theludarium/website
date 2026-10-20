@@ -1,10 +1,10 @@
 ---
 title: "Two Player Cooperative Board Games for Couples: 12 Picks"
 description: "Two player cooperative board games that keep couples on the same side. Twelve picks from 15-minute card games to long campaigns, and who each one fits."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Guides
 tags: ["two player cooperative board games", "co-op games for couples", "2 player co-op board games", "best two player games for couples", "cooperative games for two", "date night board games", "Cooperative and campaign games"]
-draft: true
+draft: false
 ---
 Two player cooperative board games solve the oldest problem in couples' game night: one of you is more competitive than the other, and it shows. A co-op puts you both on the same side of the table, facing the same opponent, so the evening ends with a shared win or a shared loss rather than a quiet car ride home.
 

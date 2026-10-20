@@ -1,10 +1,10 @@
 ---
 title: "Azul vs Sagrada: Pretty Tiles, Different Brains"
 description: "Azul vs Sagrada compared on players, time, teach time, interaction, and feel. Two beautiful abstract games that reward very different kinds of thinking."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Guides
 tags: ["Azul vs Sagrada", "best abstract board game", "Sagrada or Azul", "tile laying games", "dice drafting games", "pretty board games for couples", "Comparisons"]
-draft: true
+draft: false
 ---
 Azul vs Sagrada comes up because the two games sit next to each other in every store, look like they belong in a museum gift shop, and arrived within a year of each other. Both are drafting games. Both end with a colorful pattern in front of you. Both play in under 45 minutes and both get bought as gifts for people who "like pretty things."
 

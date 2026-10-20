@@ -110,7 +110,7 @@ Status on 2026-10-19: 21 published at launch, 320 drafts.
 - `thanksgiving-board-games`: Thanksgiving Board Games for Three Generations
 - `workplace-game-club`: Workplace Game Club: How to Run One at Lunch
 
-## Batch 5: Going deeper (18)
+## Batch 5: Going deeper (18) (published 2026-10-20)
 
 - `azul-vs-sagrada`: Azul vs Sagrada: Pretty Tiles, Different Brains
 - `benefits-of-tabletop-rpgs`: Benefits of Tabletop RPGs: Why Adults Play Pretend

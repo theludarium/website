@@ -1,10 +1,10 @@
 ---
 title: "Wingspan vs Everdell: Which Engine Builder Is Right?"
 description: "Wingspan vs Everdell compared: players, time, weight, teach time, and what each engine builder does best. A clear verdict on which to buy for your group."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Guides
 tags: ["Wingspan vs Everdell", "best engine building board game", "Everdell or Wingspan", "Wingspan vs Everdell for couples", "medium weight board games", "beautiful board games for adults", "Comparisons"]
-draft: true
+draft: false
 ---
 Wingspan vs Everdell is a comparison between two of the most popular medium-weight games of the last decade, and two of the best-looking. Both are engine builders: you spend the game assembling cards that make each later turn more productive than the last. Both have gorgeous art, a nature theme, and a reputation as the game that moved people from Catan into the deeper end of the hobby.
 
