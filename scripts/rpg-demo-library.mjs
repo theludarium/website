@@ -10,8 +10,8 @@ import { execSync } from 'node:child_process';
 import { createHash } from 'node:crypto';
 import fs from 'node:fs';
 import path from 'node:path';
+import { SITE, analyticsSnippet, attr, bar, barCss } from './tool-chrome.mjs';
 
-const SITE = 'https://theludarium.com';
 const SRC = 'vendor/rpg-demo-library';
 const REPO = 'https://github.com/theludarium/rpg-demo-library.git';
 const OUT = 'dist/rpg-demo-library';
@@ -30,32 +30,10 @@ function fetchLibrary() {
   }
 }
 
-const attr = (s) => s.replace(/&/g, '&amp;').replace(/"/g, '&quot;');
-
-function bar() {
-  const brand = fs.readFileSync('src/lib/brand.ts', 'utf8');
-  const mark = brand.match(/MARK_PATH =\s*'([^']+)'/)[1];
-  return `<nav class="ldr-bar" aria-label="The Ludarium"><a class="ldr-bar__home" href="/"><svg viewBox="0 0 64 64" aria-hidden="true"><path fill="currentColor" fill-rule="evenodd" d="${mark}"/></svg><span>The Ludarium</span></a><span aria-hidden="true">/</span><a href="/rpg-demo-library/">RPG Demo Library</a></nav>`;
-}
-
-const BAR_CSS = `<style>
-.ldr-bar{position:relative;z-index:50;display:flex;align-items:center;gap:10px;padding:10px 16px;background:#2B1E16;color:#F6EFE3;font:600 14px/1.2 system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif}
-.ldr-bar a{color:inherit;text-decoration:none}
-.ldr-bar a:hover{text-decoration:underline}
-.ldr-bar a:focus-visible{outline:2px solid #E0A23B;outline-offset:3px;border-radius:4px}
-.ldr-bar__home{display:inline-flex;align-items:center;gap:8px;font-family:Georgia,"Times New Roman",serif;font-size:15px}
-.ldr-bar svg{width:22px;height:22px;flex:none}
-.ldr-bar>span{opacity:.5}
-/* Phones: the demo's PDF button sits top right, and the demo has its own "All demos" link. */
-@media (max-width:880px){.ldr-bar>span,.ldr-bar>a+span+a{display:none}}
-</style>`;
-
-// The site's own analytics snippet (consent defaults plus gtag), lifted from the
-// built home page so the demos follow exactly the same privacy rules.
-function analyticsSnippet() {
-  const home = fs.readFileSync('dist/index.html', 'utf8');
-  return home.match(/<script[^>]*>(?:(?!<\/script>)[\s\S])*ludarium-consent(?:(?!<\/script>)[\s\S])*<\/script>/)?.[0] ?? '';
-}
+const BAR_CSS = barCss(
+  '/* Phones: the demo\'s PDF button sits top right, and the demo has its own "All demos" link. */\n' +
+    '@media (max-width:880px){.ldr-bar>span,.ldr-bar>a+span+a{display:none}}\n',
+);
 
 function copyLibrary() {
   fetchLibrary();
@@ -66,7 +44,7 @@ function copyLibrary() {
   );
   fs.cpSync(path.join(SRC, 'games'), path.join(OUT, 'games'), { recursive: true });
 
-  const nav = bar();
+  const nav = bar('RPG Demo Library', '/rpg-demo-library/');
   const analytics = analyticsSnippet();
   const games = fs.readdirSync(path.join(OUT, 'games')).filter((g) => fs.existsSync(path.join(OUT, 'games', g, 'index.html')));
   for (const game of games) {

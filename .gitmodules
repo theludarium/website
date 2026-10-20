@@ -1,3 +1,6 @@
 [submodule "vendor/rpg-demo-library"]
 	path = vendor/rpg-demo-library
 	url = https://github.com/theludarium/rpg-demo-library.git
+[submodule "vendor/game-night-madness"]
+	path = vendor/game-night-madness
+	url = https://github.com/theludarium/game-night-madness.git

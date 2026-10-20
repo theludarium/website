@@ -20,6 +20,8 @@ const RDL_GAMES = 'vendor/rpg-demo-library/games';
 const rdlPages = fs.existsSync(RDL_GAMES)
   ? fs.readdirSync(RDL_GAMES).map((game) => `https://theludarium.com/rpg-demo-library/games/${game}/`)
   : [];
+// Game Night Madness is copied in the same way (scripts/game-night-madness.mjs).
+const gnmPages = fs.existsSync('vendor/game-night-madness/index.html') ? ['https://theludarium.com/game-night-madness/'] : [];
 
 export default defineConfig({
   site: 'https://theludarium.com',
@@ -31,7 +33,7 @@ export default defineConfig({
   integrations: [
     mdx(),
     sitemap({
-      customPages: rdlPages,
+      customPages: [...rdlPages, ...gnmPages],
       filter: (page) => !NOT_IN_SITEMAP.some((path) => new URL(page).pathname === path),
     }),
   ],
