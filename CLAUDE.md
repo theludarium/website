@@ -199,7 +199,7 @@ Every page whose job is one sign-up or inquiry (newsletter, lounge waitlists, Ac
 Two tools already exist as separate projects. They should feel like part of The Ludarium (shared header, footer, fonts, and colors) while staying their own apps.
 
 **RPG Demo Library**
-- Repo `theludarium/rpg-demo-library` (moved from Levi's personal account 2026-10-20), included as the submodule `vendor/rpg-demo-library` and copied in at build by `scripts/rpg-demo-library.mjs`. Its GitHub Pages copy still runs; retire it now that theludarium.com serves the library
+- Repo `theludarium/rpg-demo-library` (moved from Levi's personal account 2026-10-20), included as the submodule `vendor/rpg-demo-library` and copied in at build by `scripts/rpg-demo-library.mjs`. Its GitHub Pages copy was turned off 2026-10-20, so theludarium.com is the only copy
 - Must be served at `theludarium.com/rpg-demo-library/`, with deeper pages below that path
 - Lets visitors play a short intro adventure of a pen-and-paper RPG before buying it
 - Player dice rolls require a click to roll by default

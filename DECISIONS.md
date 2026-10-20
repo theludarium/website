@@ -175,11 +175,12 @@ A short log of choices made and why. Newest at the bottom.
 
 ## 2026-10-20: RPG Demo Library on theludarium.com
 
-- **Repo moved** from Levi's account (The-LJAW) to `theludarium/rpg-demo-library` (Levi's call). GitHub redirects the old URL. Its GitHub Pages copy still runs at theludarium.github.io/rpg-demo-library; turn it off once theludarium.com serves the library.
+- **Repo moved** from Levi's account (The-LJAW) to `theludarium/rpg-demo-library` (Levi's call). GitHub redirects the old URL. Its GitHub Pages copy was turned off the same day, so theludarium.com is the only copy.
 - **Included as a git submodule** at `vendor/rpg-demo-library`. The library has no build step and only relative paths, so its pages run under `/rpg-demo-library/` unchanged. `scripts/rpg-demo-library.mjs fetch` makes sure the submodule is present (falling back to a clone); `copy` runs after `astro build` and copies the demos to `dist/rpg-demo-library/games/`.
 - **Front page rebuilt as a native page** (`src/pages/rpg-demo-library/index.astro`), reading the game list and PDF prices from the repo (`src/lib/rpg-demo-library.ts`), so a new demo in the repo appears here with no site change. The demos keep their own per-game look, plus a slim Ludarium bar, a canonical URL, share tags, and the site's analytics snippet (same consent rules) added on copy. Demo pages are in the sitemap.
 - **To ship a library change:** merge it in the library repo, then here run `git submodule update --remote vendor/rpg-demo-library`, commit, and push.
 - **Article promises corrected:** ten RPG articles promised subscribers "free RPG one-shot demo PDFs." The free thing is Act One in the browser; full adventure PDFs are paid. They now point to the library instead, and three articles that described the Indianapolis lounge as open no longer do.
+- **Themed library cards** (2026-10-20, Levi's ask): each card on `/rpg-demo-library/` wears its game's look, taken from its demo page: background and texture, display font, accent color (`src/lib/rdl-themes.ts`). The eight display fonts are self-hosted via Fontsource (latin subset, one weight each, loaded only on that page; `src/styles/rdl-fonts.css`) rather than Google Fonts, to keep our own pages free of third-party font requests. A new demo without a theme falls back to a plain site card. All themes pass WCAG AA contrast.
 
 ## 2026-10-19: Malaphor submission page
 
