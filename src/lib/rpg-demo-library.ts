@@ -11,7 +11,7 @@ import vm from 'node:vm';
 export const RDL_DIR = path.resolve('vendor/rpg-demo-library');
 export const RDL_BASE = '/rpg-demo-library/';
 
-export type RdlProduct = { name: string; game: string; price?: string; pages?: number; demo?: string; checkout?: string };
+export type RdlProduct = { name: string; game: string; price?: string; pages?: number; demo?: string; checkout?: string; paperback?: string };
 
 export type RdlDemo = {
   slug: string;
