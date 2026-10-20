@@ -1,17 +1,155 @@
 ---
+// RPG Demo Library front page. The game list and PDF prices come from the
+// library's own repo (see src/lib/rpg-demo-library.ts); each demo page is the
+// repo's page, served at /rpg-demo-library/games/<game>/.
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import PageIntro from '@/components/PageIntro.astro';
-import ComingSoon from '@/components/ComingSoon.astro';
+import NewsletterForm from '@/components/NewsletterForm.astro';
+import { getDemos } from '@/lib/rpg-demo-library';
+
+const demos = getDemos();
+const quoted = (label: string) => label.match(/"(.+)"/)?.[1];
 ---
 
 <BaseLayout
   title="RPG Demo Library"
-  description="Play short intro adventures of pen-and-paper RPGs before you buy. Free, open-license games, right in your browser."
+  description={`Play Act One of ${demos.length} tabletop RPG adventures free in your browser. Real rules, real dice, open-license games. Try the game before you buy the book.`}
 >
   <PageIntro
-    eyebrow="Tool"
-    title="RPG Demo Library"
-    lede="Play a short intro adventure of a pen-and-paper RPG before you buy it."
+    eyebrow="Free tool"
+    title="Try the game before you buy the book."
+    lede="Play a short intro adventure of a tabletop roleplaying game, right in your browser. The page is your Game Master: you make the choices and roll the dice, by the game's real rules."
   />
-  <ComingSoon />
+
+  <section class="container rdl-grid" aria-label="Playable demos">
+    {
+      demos.map((d) => (
+        <a class="card rdl-card" href={d.href}>
+          <p class="eyebrow">{d.product?.game ?? d.title}</p>
+          <h2>{d.product?.name ?? quoted(d.playLabel) ?? d.title}</h2>
+          <p>{d.blurb}</p>
+          <ul class="rdl-tags" aria-label="At a glance">
+            {d.tags.map((t) => (
+              <li>{t}</li>
+            ))}
+          </ul>
+          <span class="card__more">{d.product ? 'Play Act One free' : 'Play it free'}</span>
+          {d.product?.price && (
+            <span class="rdl-pdf">
+              Full adventure PDF, {d.product.price}
+              {!d.product.checkout && ', coming soon'}
+            </span>
+          )}
+        </a>
+      ))
+    }
+  </section>
+
+  <section class="section">
+    <div class="container rdl-how">
+      <div>
+        <h3>Pick a game</h3>
+        <p>Each demo is an intro adventure built from that game's own rules.</p>
+      </div>
+      <div>
+        <h3>Play for 20 minutes</h3>
+        <p>Click to roll. Solo, free, and no account needed.</p>
+      </div>
+      <div>
+        <h3>Keep playing</h3>
+        <p>Every demo links to the full game from its publisher. Most continue as a complete adventure PDF.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--flush-bottom">
+    <div class="container">
+      <div class="newsletter-band">
+        <h2>New demos, first.</h2>
+        <p>Get new adventures and game night ideas in your inbox, free.</p>
+        <NewsletterForm id="rdl-signup" buttonLabel="Send me new demos" />
+      </div>
+    </div>
+  </section>
+
+  <section class="container rdl-credits">
+    <p>
+      Every demo is adapted under its game's own open license, with credit to its creators in the demo's footer. None
+      are official products or endorsed by their publishers. Pathfinder is a trademark of Paizo Inc.; Cypher System is a
+      trademark of Monte Cook Games, LLC; Fate is a trademark of Evil Hat Productions, LLC; Blades in the Dark is a
+      trademark of One Seven Design. Skellies is a trademark of The Griffon's Saddlebag B.V.
+    </p>
+  </section>
 </BaseLayout>
+
+<style>
+  .rdl-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 20rem), 1fr));
+    gap: var(--space-5);
+    padding-bottom: var(--space-6);
+  }
+
+  .rdl-card {
+    text-decoration: none;
+  }
+
+  .rdl-card h2 {
+    margin: 0 0 var(--space-2);
+    font-size: var(--text-xl);
+  }
+
+  .rdl-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+    margin: var(--space-4) 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .rdl-tags li {
+    padding: 1px 10px;
+    border-radius: var(--radius-pill);
+    background: var(--color-surface-alt);
+    font-size: var(--text-xs);
+    font-weight: 600;
+  }
+
+  .rdl-card .card__more {
+    margin-top: auto;
+  }
+
+  .rdl-pdf {
+    margin-top: var(--space-2);
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+
+  .rdl-how {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 14rem), 1fr));
+    gap: var(--space-6);
+  }
+
+  .rdl-how h3 {
+    margin: 0 0 var(--space-2);
+    font-size: var(--text-lg);
+  }
+
+  .rdl-how p {
+    margin: 0;
+    color: var(--color-text-muted);
+  }
+
+  .rdl-credits {
+    padding-block: var(--space-6) var(--space-8);
+  }
+
+  .rdl-credits p {
+    max-width: 60rem;
+    margin: 0;
+    font-size: var(--text-xs);
+    color: var(--color-text-muted);
+  }
+</style>

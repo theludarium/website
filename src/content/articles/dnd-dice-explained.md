@@ -106,4 +106,4 @@ On an attack roll, yes; it is a critical hit. On skill checks and saving throws 
 
 ## Roll with us
 
-Subscribe to The Ludarium newsletter for one short, plain explainer like this every week, and we will send you our free RPG one-shot demo PDFs, which walk a new table through its first d20 roll in play. Want to try a game before you buy it? The [RPG Demo Library](/rpg-demo-library/) is coming soon: short intro adventures of open-license RPGs you can play in your browser.
+Subscribe to The Ludarium newsletter for one short, plain explainer like this every week. Want to try a game before you buy it? Play a free intro adventure in the [RPG Demo Library](/rpg-demo-library/), right in your browser, by each game's real rules.

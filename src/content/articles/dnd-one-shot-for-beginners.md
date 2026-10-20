@@ -108,4 +108,4 @@ Yes. Experienced groups use them to try new systems, fill in when a regular play
 
 ## Try one this month
 
-The Ludarium's free RPG one-shot demo PDFs are built to this exact template: pre-made characters, a one-sentence premise, and a three-hour shape that finishes. Subscribe to the newsletter to get them, plus one new article a week on getting people around a table. If you are in Indianapolis, come run one at the lounge.
+The full adventure PDFs behind our [RPG Demo Library](/rpg-demo-library/) follow this template: pre-made characters, a one-sentence premise, and a three-hour shape that finishes. Subscribe to the newsletter to get them, plus one new article a week on getting people around a table. If you are in Indianapolis, come run one at the lounge.

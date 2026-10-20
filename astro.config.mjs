@@ -1,5 +1,6 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
+import fs from 'node:fs';
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import rehypeUnpublishedLinks from './src/plugins/rehype-unpublished-links.mjs';
@@ -13,6 +14,13 @@ const showDrafts = branch ? branch !== 'main' : !isBuild;
 // Pages that should never be in search results (also marked noindex on the page).
 const NOT_IN_SITEMAP = ['/search/', '/newsletter/thanks/', '/corporate-events/thanks/', '/lounges/thanks/'];
 
+// RPG Demo Library demos are copied in after the build (scripts/rpg-demo-library.mjs),
+// so list them for the sitemap here.
+const RDL_GAMES = 'vendor/rpg-demo-library/games';
+const rdlPages = fs.existsSync(RDL_GAMES)
+  ? fs.readdirSync(RDL_GAMES).map((game) => `https://theludarium.com/rpg-demo-library/games/${game}/`)
+  : [];
+
 export default defineConfig({
   site: 'https://theludarium.com',
   output: 'static',
@@ -23,6 +31,7 @@ export default defineConfig({
   integrations: [
     mdx(),
     sitemap({
+      customPages: rdlPages,
       filter: (page) => !NOT_IN_SITEMAP.some((path) => new URL(page).pathname === path),
     }),
   ],

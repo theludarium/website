@@ -172,3 +172,11 @@ A short log of choices made and why. Newest at the bottom.
 - Plain canvas, no library. The animation sleeps when nothing moves or the hero is off screen; with reduced motion the mark is drawn once and stays still.
 - The table illustration stays available: `<Hero art="table">` (the default for other pages) brings it back.
 - **Update: the dots cycle through game pieces** (`src/lib/dot-shapes.ts`): the tile mark, a d20, a meeple, a chess knight, a fanned hand of cards, and a mahjong tile, then back to the mark. Generic pieces only, so no publisher art. Because the cycle runs indefinitely, the hero's pause button now shows for the dots too (WCAG 2.2.2). New shapes are one draw function each on the 64 by 64 grid.
+
+## 2026-10-20: RPG Demo Library on theludarium.com
+
+- **Repo moved** from Levi's account (The-LJAW) to `theludarium/rpg-demo-library` (Levi's call). GitHub redirects the old URL. Its GitHub Pages copy still runs at theludarium.github.io/rpg-demo-library; turn it off once theludarium.com serves the library.
+- **Included as a git submodule** at `vendor/rpg-demo-library`. The library has no build step and only relative paths, so its pages run under `/rpg-demo-library/` unchanged. `scripts/rpg-demo-library.mjs fetch` makes sure the submodule is present (falling back to a clone); `copy` runs after `astro build` and copies the demos to `dist/rpg-demo-library/games/`.
+- **Front page rebuilt as a native page** (`src/pages/rpg-demo-library/index.astro`), reading the game list and PDF prices from the repo (`src/lib/rpg-demo-library.ts`), so a new demo in the repo appears here with no site change. The demos keep their own per-game look, plus a slim Ludarium bar, a canonical URL, share tags, and the site's analytics snippet (same consent rules) added on copy. Demo pages are in the sitemap.
+- **To ship a library change:** merge it in the library repo, then here run `git submodule update --remote vendor/rpg-demo-library`, commit, and push.
+- **Article promises corrected:** ten RPG articles promised subscribers "free RPG one-shot demo PDFs." The free thing is Act One in the browser; full adventure PDFs are paid. They now point to the library instead, and three articles that described the Indianapolis lounge as open no longer do.
