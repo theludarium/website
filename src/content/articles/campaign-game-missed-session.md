@@ -1,10 +1,10 @@
 ---
 title: "Campaign Board Game Missed Session: How to Keep Going"
 description: "A campaign board game missed session does not have to stall your group. Rules for playing without someone, catching them up, and keeping the story alive."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Guides
 tags: ["campaign board game missed session", "campaign board games scheduling", "playing Gloomhaven with a missing player", "legacy game absent player", "keep a game group going", "campaign game attendance", "Cooperative and campaign games"]
-draft: true
+draft: false
 ---
 A campaign board game missed session is the most common way a campaign dies. Not boredom, not a bad scenario, but one person who cannot make it and a group that does not know what to do. So nobody plays, and the next date slips, and the box goes on a shelf.
 

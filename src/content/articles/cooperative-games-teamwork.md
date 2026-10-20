@@ -1,10 +1,10 @@
 ---
 title: "Cooperative Games and Teamwork: What Meetings Never Teach"
 description: "Cooperative games teach teamwork faster than meetings because failure is cheap and immediate. What Pandemic, The Crew, and Hanabi show a team about itself."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Guides
 tags: ["cooperative games teamwork", "board games for teamwork", "co-op games team building", "what board games teach about collaboration", "teamwork lessons from games", "team communication games", "Cooperative and campaign games"]
-draft: true
+draft: false
 ---
 Cooperative games teach teamwork by making the team fail, quickly and cheaply, and then letting it try again. A meeting cannot do that. A meeting produces a plan and then everyone leaves; the feedback arrives weeks later, diluted and deniable. A co-op gives you the feedback in forty-five minutes, on a table, with nobody's job at stake.
 

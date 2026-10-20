@@ -1,10 +1,10 @@
 ---
 title: "Easy Tabletop RPGs for Beginners: 8 Systems Beyond D&D"
 description: "Eight easy tabletop RPGs for beginners that aren't D&D, each learnable in an hour or less. What each feels like, what you need, and which to pick first."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Guides
 tags: ["easy tabletop RPGs for beginners", "RPGs that aren't D&D", "rules-light RPGs", "simple roleplaying games", "best beginner TTRPG", "one-page RPGs", "Tabletop RPGs for beginners"]
-draft: true
+draft: false
 ---
 If you are looking for easy tabletop RPGs for beginners, start with this fact: D&D is one of the harder ones to learn. It is the most popular, the best supported, and the one your friends have heard of. It is also a few hundred pages of rules with a character creation process that takes a new player most of an evening.
 
