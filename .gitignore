@@ -9,3 +9,7 @@ dist/
 
 # Local editor and agent config
 .claude/
+
+# Wrangler local state and secrets
+.wrangler/
+.dev.vars

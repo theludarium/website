@@ -11,7 +11,11 @@
     "build": "node scripts/rpg-demo-library.mjs fetch && node scripts/game-night-madness.mjs fetch && astro build && node scripts/rpg-demo-library.mjs copy && node scripts/game-night-madness.mjs copy && node scripts/check-seo.mjs",
     "preview": "astro preview",
     "astro": "astro",
-    "check": "astro check"
+    "check": "astro check",
+    "test": "node --test 'tests/**/*.test.ts'",
+    "dev:functions": "wrangler pages dev dist --port 8788",
+    "db:migrate:local": "wrangler d1 migrations apply ludarium-visitors --local",
+    "db:migrate": "wrangler d1 migrations apply ludarium-visitors --remote"
   },
   "dependencies": {
     "@astrojs/markdown-remark": "7.3.3",
@@ -35,6 +39,7 @@
     "@resvg/resvg-js": "2.6.2",
     "@types/node": "22.20.5",
     "satori": "0.62.0",
-    "typescript": "6.0.3"
+    "typescript": "6.0.3",
+    "wrangler": "4.151.3"
   }
 }
