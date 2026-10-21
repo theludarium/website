@@ -7,7 +7,7 @@
  * `action` is the form's action URL; `emailField` is the name of its email input.
  */
 export const KIT_NEWSLETTER_FORM = {
-  action: '',
+  action: 'https://app.kit.com/forms/10079099/subscriptions',
   emailField: 'email_address',
 };
 
@@ -37,7 +37,7 @@ export const TURNSTILE_SITE_KEY = '';
  * custom fields with these keys: zip_code, plays, visit_frequency.
  */
 export const KIT_WAITLIST_FORMS: Record<string, { action: string }> = {
-  indianapolis: { action: '' },
+  indianapolis: { action: 'https://app.kit.com/forms/10079113/subscriptions' },
 };
 
 /**
