@@ -1,10 +1,10 @@
 ---
 title: "Cube Primer Archetypes: One Paragraph Per Lane"
 description: "How to write the archetype section of a cube primer: a plan, three signposts, and one weakness per lane, with worked examples drafters can use at pick one."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube primer archetypes", "cube archetype descriptions", "cube signpost cards", "writing cube archetypes", "cube lanes primer", "cube draft archetypes guide", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 The cube primer archetypes section is the part drafters actually use. They skim the introduction, nod at the house rules, and then read the archetype list twice: once before their first draft, and again after they lose with a deck that was not a deck. If this section is good, your cube teaches itself. If it is bad, the regulars teach it, badly, by word of mouth.
 

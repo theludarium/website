@@ -1,10 +1,10 @@
 ---
 title: "Cube First Draft: What to Watch and What to Fix After"
 description: "Your cube first draft is a test, not a party. What to record during picks, deckbuilding and games, and how to turn one night into a useful change list."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube first draft", "cube test draft", "cube playtest", "first cube draft checklist", "cube feedback", "cube changelog after draft", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 A cube first draft tells you more than the previous month of list-building did, if you pay attention to the right things. Most owners spend the night drafting their own cube, win or lose a few matches, and come away with a vague sense that "green felt weak." That is a wasted test. This article is a checklist for watching the draft, the deckbuilding, and the games, and a method for turning what you see into a short change list instead of a panicked rebuild.
 

@@ -1,10 +1,10 @@
 ---
 title: "How to Draft Vintage Cube: Power, Lanes, Discipline"
 description: "How to draft the MTGO Vintage Cube in 2026: what to take first, when to commit to a lane, and the mistakes that lose leagues. Dated to the Oct 7 list."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["draft Vintage Cube", "Vintage Cube draft strategy", "Vintage Cube pick order", "how to draft powered cube", "MTGO cube league tips", "Vintage Cube first picks", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 To draft Vintage Cube well, take the fast mana early, decide by pick five of pack one whether you are the aggro drafter or the engine drafter, and then stop taking cards that are powerful but not in your deck. Most losing Vintage Cube decks are not short on power. They are 23 strong cards that do not do one thing.
 

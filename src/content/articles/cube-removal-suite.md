@@ -1,10 +1,10 @@
 ---
 title: "Cube Removal: How Much a Cube Needs, and Which Kinds"
 description: "Cube removal counts by color, the five kinds every cube needs, and why too little removal makes bombs unbeatable while too much makes creatures pointless."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube removal", "removal count cube", "cube removal suite", "cheap removal cube", "sweepers in cube", "conditional removal", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Cube removal is the control dial for every other decision in the list. Too little, and the first bomb creature to resolve wins; too much, and creatures become irrelevant and every game turns into a card-advantage grind. The right amount depends on your power level and on how good your creatures are, but there are counts that work for most unpowered cubes, and there is a mix of kinds that matters more than the raw number.
 

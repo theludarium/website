@@ -1,10 +1,10 @@
 ---
 title: "Draft Timer for Cube: Keep a Draft Under 45 Minutes"
 description: "Draft timer rules for cube night: official per-pick seconds, a casual schedule that works, how to run a clock without a judge, and where drafts lose time."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["draft timer", "draft pick timer", "cube draft pace", "how long does a draft take", "draft time per pick", "draft clock", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 A draft timer is the difference between a cube night that ends at ten and one that ends at midnight. Eight players, three packs of fifteen, 45 picks each: at the official tournament pace that is about 30 minutes of drafting. Most casual tables take 50 to 70, and the extra time comes from a handful of picks and a handful of people.
 

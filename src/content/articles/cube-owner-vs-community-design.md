@@ -1,10 +1,10 @@
 ---
 title: "Cube Community Design: Owner's Vision vs Wish List"
 description: "Cube community design without losing the cube: how to take requests from drafters, which to grant, which to refuse, and a process that keeps one editor."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube community design", "cube owner decisions", "drafter requests cube", "community cube input", "who decides cube changes", "cube design philosophy", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Cube community design sounds like a contradiction, and it half is. A cube with one owner has a point of view. A cube built by committee has an average. But the owner who ignores the people drafting the list every week ends up with a cube that is theirs and nobody else's, and then nobody else shows up. The useful position is in between, and it is more specific than "listen to feedback."
 

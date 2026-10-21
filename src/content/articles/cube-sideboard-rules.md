@@ -1,10 +1,10 @@
 ---
 title: "Cube Sideboard Rules: What Counts and What Doesn't"
 description: "Cube sideboard rules: your whole unused pool is the sideboard. How basic lands and wishes work, when to sideboard, and the house rules worth writing down."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube sideboard", "sideboarding in cube", "limited sideboard rules", "cube sideboard size", "wish cards cube", "basic lands sideboard", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Your cube sideboard is every card you drafted that is not in your main deck, plus any basic lands you want. There is no 15-card limit, you do not have to swap one for one, and you may change your deck between every game of a match. Those three facts settle most arguments at a cube table, and the rest of this article covers the ones they do not.
 

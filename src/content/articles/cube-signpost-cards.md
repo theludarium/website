@@ -1,10 +1,10 @@
 ---
 title: "Signpost Cards: Teaching Drafters What Your Cube Wants"
 description: "Signpost cards in cube tell drafters which decks exist. How to pick gold signposts, where mono-colored signposts beat them, and why bad signposts lie."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["signpost cards cube", "cube signposts", "gold cards in cube", "cube archetype signals", "how drafters learn a cube", "cube design", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Signpost cards in a cube do one job: they tell a drafter, in the middle of pack one, that a particular deck exists and these are its colors. A drafter who opens Mayhem Devil learns that Rakdos in this cube is a sacrifice deck. One who opens Figure of Destiny learns that Boros is aggressive. The card does not have to be the best card in the lane. It has to be the clearest.
 

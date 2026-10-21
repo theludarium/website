@@ -1,10 +1,10 @@
 ---
 title: "The Cube Primer FAQ Every Cube Needs"
 description: "A cube primer FAQ answers the questions your drafters ask every week. Which questions to include, how to answer each in two sentences, and a starter list."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube primer FAQ", "cube FAQ", "cube primer questions", "cube rules questions", "common cube questions", "cube draft FAQ", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 The cube primer FAQ is where the questions go that are asked at the table every week by someone new. It is the most practical section of the primer and the easiest to write, because you do not invent the questions; you collect them. If a question has been asked twice in a month, it goes in the FAQ, with a two-sentence answer and a link if the answer is longer than that.
 

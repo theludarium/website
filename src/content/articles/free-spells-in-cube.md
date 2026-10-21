@@ -1,10 +1,10 @@
 ---
 title: "Free Spells in Cube and Why They Warp a Draft"
 description: "Free spells in cube, from Force of Will to the evoke elementals: how zero-mana spells break the mana system, which ones are worth it, and where to stop."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["free spells cube", "Force of Will cube", "evoke elementals cube", "pitch spells", "zero mana spells cube", "Daze in cube", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Free spells in a cube break the one rule the rest of the game is built on: you get one land a turn, so you get one turn's worth of action a turn. A spell that costs zero mana, or that lets you exile a card from hand instead of paying, gives its caster two actions in a turn where everyone else gets one. In a singleton draft format, the players who end up with those cards are playing with a different clock.
 

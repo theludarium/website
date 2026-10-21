@@ -1,10 +1,10 @@
 ---
 title: "Cube Set Review Method: Slot, Test, Keep or Cut"
-description: "A cube set review method for every Magic release: name the slot, test against incumbents, then keep or cut. Copy the template for your own cube."
-pubDate: 2026-10-18
+description: "A cube set review method for every new Magic release: name the slot, test it against the incumbents, then keep or cut. Copy the template for your own cube."
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube set review", "cube review template", "cube testing process", "cube changelog", "new set cube cards", "cube update", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 A cube set review is not a ranking. Rankings are for people who have to pick one card from a pack. A cube owner has to decide, for each candidate, whether it beats a specific card already in the list, and then prove it at the table. So our reviews follow one form for every card: name the slot, name the incumbent, call it pass, test, or keep, and log what happened. This article is that form, with the reasoning behind each field, so you can copy it.
 

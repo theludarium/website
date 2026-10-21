@@ -1,10 +1,10 @@
 ---
 title: "Rotisserie Draft, Cube Sealed, and Team Cube Formats"
 description: "Rotisserie draft, cube sealed, and team formats explained: how each works, how long it takes, and when to run one instead of a standard eight-player draft."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["rotisserie draft", "cube sealed", "team draft cube", "two-headed giant cube", "cube formats", "alternative cube draft", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 A rotisserie draft lays the entire cube face up on the table and has players pick one card at a time, in snake order, until everyone has a deck. It is the slowest way to draft a cube and, for the right group, the most fun. Cube sealed is the fastest: deal everyone a pile and build. Team formats sit between, and turn an individual game into something a table does together.
 

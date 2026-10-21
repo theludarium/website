@@ -1,10 +1,10 @@
 ---
 title: "Cube Mana Curve: Why Two-Drops Decide Everything"
 description: "The cube mana curve shapes every draft. Target counts per mana value, why two-drops carry the format, and how to spot a top-heavy cube before drafters do."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube mana curve", "cube curve targets", "two-drops in cube", "mana value distribution cube", "top-heavy cube", "cube one-drops", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 The cube mana curve is the single number set that most shapes how your games feel. A cube heavy at four and five mana plays slow, rewards ramp and removal, and makes aggressive decks impossible. A cube heavy at one and two plays fast, punishes stumbles, and makes six-drops look silly. Most first cubes are top-heavy without the owner noticing, because expensive cards are the exciting ones.
 

@@ -1,10 +1,10 @@
 ---
 title: "Five Famous Themed Cubes and What They Prove"
 description: "Five famous themed cubes, from Ravnica Cube and Nega-Cube to Chromatic Cube, Tinkerer's Cube, and the all-changeling cube, and the design lesson each proves."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["famous cubes", "themed cube", "Ravnica Cube", "Chromatic Cube", "Tinkerer's Cube", "Nega-Cube", "cube design lessons", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 The famous cubes are not famous because they are the strongest. They are famous because each one tested a single design idea in public, with a card list anyone could read, and the result settled an argument. This article profiles five: the Ravnica Cube, Nega-Cube, Chromatic Cube, Tinkerer's Cube and the all-changeling cube. Four ran on Magic Online or Arena; the fifth is a community cube on CubeCobra that became an example in the best essay on theme written in years.
 

@@ -1,10 +1,10 @@
 ---
 title: "Fast Mana in Cube: Moxen, Rituals, and the Line"
 description: "Fast mana in cube, card by card: Moxen, Sol Ring, rituals, Signets, and Elves. What each one does to game speed, and four sensible places to draw your own line."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["fast mana cube", "Moxen in cube", "Sol Ring cube", "rituals in cube", "mana rocks cube", "cube acceleration", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Fast mana in a cube is any card that gives you more mana this turn than it cost. The decision about how much of it to include is the single biggest lever on how fast your games end and how much the draft rewards the player who opened the right pack. This article lists the fast mana by tier, says what each tier does to a table, and gives four defensible places to stop.
 

@@ -1,10 +1,10 @@
 ---
 title: "Grid Draft for Three and Four Players: Full Procedure"
 description: "Grid draft for three and four players: pack sizes, the refill rule, what the last player gets, how many cards you need, and how to pace eighteen grids."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["grid draft", "grid draft 4 players", "grid draft 3 players", "three by three draft", "four player cube draft", "grid draft rules", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Grid draft lays nine cards face up in a three-by-three square and lets each player take a full row or column. The two-player version is well known. The three- and four-player versions add one rule, refilling the grid between picks, and that single change makes Grid the best open-information format for a small table.
 

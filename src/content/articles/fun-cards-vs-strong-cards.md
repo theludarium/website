@@ -1,10 +1,10 @@
 ---
 title: "Fun Cards vs Strong Cards: The Cube Trade-Off"
 description: "Fun cards vs strong cards in cube: why the strongest card is often the wrong pick, which cards earn a slot for play pattern, and a four-question test."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["fun cards cube", "cube play patterns", "fun cards in cube", "cube design trade-offs", "cards that are fun to play against", "cube card selection fun", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Fun cards in a cube are the ones drafters remember after the night, and strong cards are the ones that win it. The two overlap less than a power-ranked list suggests. Every cube owner, at every slot, is choosing between a card that is slightly stronger and a card that produces a better game, and the choice compounds across 540 slots into the feel of the whole cube.
 

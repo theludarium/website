@@ -1,10 +1,10 @@
 ---
 title: "Cube Power Levels Explained: Vintage to Pauper"
 description: "Cube power level, tier by tier: what Vintage, Legacy, Modern and Pauper cubes include, which cards draw each line, and how to pick the band for your table."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube power level", "vintage cube vs legacy cube", "unpowered cube", "pauper cube power level", "modern cube", "cube tiers", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Cube power level is the one decision that shapes every other one. It sets how fast games end, which cards are even eligible, and what a drafter can expect from a random pack. The four names people use most, Vintage, Legacy, Modern and Pauper, are not formal tiers. They are loose bands with fuzzy edges, borrowed from constructed formats and from the cubes Magic Online runs.
 

@@ -1,10 +1,10 @@
 ---
 title: "The Hobbit Cube Review: Smaug, Bilbo, and Dwarf Equipment"
 description: "The Hobbit cube review: Smaug the Magnificent, Bilbo, Radagast, and the dwarf equipment suite rated by slot, with keep, test, and pass calls for each tier."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["The Hobbit cube", "Hobbit MTG cube", "Smaug the Magnificent cube", "Bilbo Thief in the Night", "Universes Beyond cube", "equipment in cube", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Magic: The Gathering | The Hobbit <!-- AFFILIATE --> released on August 14, 2026 as a Standard-legal Universes Beyond set, and for The Hobbit cube question the short answer is: a handful of strong legendary creatures, an equipment package that is better than most, and a lot of Limited-only tribal glue. If your cube has an opinion about Universes Beyond cards, that opinion matters more here than any single rating; we cover the policy question in [supplemental sets and cube](/articles/supplemental-sets-for-cube/). If you run them, read on for the slot calls.
 
