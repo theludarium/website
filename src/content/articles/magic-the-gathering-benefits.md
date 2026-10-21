@@ -97,7 +97,7 @@ Because the game is deep enough to reward decades of play, and because the table
 
 ## Keep the lessons, keep the table
 
-If Magic taught you something that stuck, we would like to hear it. The Ludarium newsletter sends new pieces on what games teach and why playing together matters, and we publish reader stories when they are good. Cube players and former players who want back in are welcome at Cube Commonwealth, our drafting community, and the Indianapolis lounge will have a seat for you when it opens.
+If Magic taught you something that stuck, we would like to hear it. The Ludarium newsletter sends new pieces on what games teach and why playing together matters, If you are a former player who wants back in, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, is relaunching as part of The Ludarium. Subscribe to hear when the first night is set.
 
 The game is the reason. The people are the point.
 

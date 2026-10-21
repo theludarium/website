@@ -124,6 +124,6 @@ Random pairings are simplest. Swiss pairings, where winners play winners, give c
 
 ## Host one, then host it again
 
-The first cube night is logistics. The tenth is a tradition. If you are starting one, the Ludarium newsletter sends new pieces on hosting tables people return to, and we are always glad to hear how a new group is going. Cube Commonwealth, our drafting community, welcomes hosts and players, and the Indianapolis lounge will have a cube table running on a schedule when it opens.
+The first cube night is logistics. The tenth is a tradition. If you are starting one, the Ludarium newsletter sends new pieces on hosting tables people return to, and we are always glad to hear how a new group is going. In Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium, and it will need hosts as well as players.
 
 The game is the reason. The people are the point.

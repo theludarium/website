@@ -106,6 +106,6 @@ Ask the table why. If it is because your deck is much stronger than theirs, play
 
 ## Keep the pod together
 
-Every Commander player has a story about a game that went sour. The point is to have more stories about the games that did not. The Ludarium newsletter sends new pieces on playing games with people you want to keep, Magic included. If you ever want a break from four-player politics, Cube Commonwealth, our drafting community, runs clean eight-player drafts with no deals to break, and the Indianapolis lounge will have room for both.
+Every Commander player has a story about a game that went sour. The point is to have more stories about the games that did not. The Ludarium newsletter sends new pieces on playing games with people you want to keep, Magic included. If you ever want a break from four-player politics, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, is relaunching as part of The Ludarium: eight-player drafts, no deals to break. Subscribe to hear when the first night is set.
 
 The game is the reason. The people are the point.

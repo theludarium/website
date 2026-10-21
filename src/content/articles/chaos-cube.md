@@ -103,6 +103,6 @@ More than half. A 360 needs about 200 ordinary creatures, removal, and lands at 
 
 ## The night the Warp World hit
 
-Every group has a game it still talks about years later, and in our group most of them came out of this box. The game is the reason. The people are the point.
+Every group has a game it still talks about years later, and for a lot of cube groups, most of them came out of a box like this one. The game is the reason. The people are the point.
 
-New cube-building pieces, first to subscribers of the Ludarium newsletter. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) breaks out the chaos cube a few times a year; subscribe to find out when.
+New cube-building pieces, first to subscribers of the Ludarium newsletter. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribe to hear when the first night is set.

@@ -102,6 +102,6 @@ A campaign game like Pandemic Legacy: Season 1 or Gloomhaven: Jaws of the Lion. 
 
 Under $35 covers nearly every two-player game worth owning. Campaign games run $40 to $110 and are a different kind of gift, closer to a season of a show than a single evening.
 
-## One game-night idea a week, for two
+## Game-night ideas for two
 
 Subscribe to The Ludarium newsletter and we will send new short pieces on playing together, including the two-player games we are testing for the Indianapolis lounge library. No spam, no ten-email launch sequence. Just one good idea for your next night in.

@@ -109,6 +109,6 @@ In a [2020 European online team championship](https://www.carcassonne.cat/2020/1
 
 Yes, when placed early in a gap where tiles will naturally be laid. Opponents help you complete them. A late monastery at the map's edge is a wasted meeple.
 
-## One game-night idea a week
+## More game-night ideas
 
 Carcassonne is the game we most often suggest to someone who says they want a step up from Ticket to Ride, and this is the guide we would hand them. The Ludarium newsletter sends new pieces on games, the people who play them, and the lounge we are building in Indianapolis. [Subscribe](/newsletter) for the next strategy guide before it goes on the site.

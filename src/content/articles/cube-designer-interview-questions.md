@@ -31,7 +31,7 @@ A name chosen early is an aspiration. A name chosen late is a description. Both 
 Now the numbers. If you have read the list, as [how to read a cube list](/articles/how-to-read-a-cube-list/) suggests, you already know the answers and can ask about the reasons instead.
 
 **5. Why this size?**
-360, 450, 540, 720. Every size is a decision about how much of the cube each eight-player draft sees. The [MTGO Vintage Cube](https://www.mtgo.com/vintage-cube-cardlist) holds 540 through hundreds of swaps; the [Legacy Cube list](https://www.mtgo.com/legacy-cube-cardlist) runs 600. Ask what size the designer tried before this one.
+360, 450, 540, 720. Every size is a decision about how much of the cube each eight-player draft sees. The [MTGO Vintage Cube](https://www.mtgo.com/vintage-cube-cardlist) holds 540 through hundreds of swaps; the [Legacy Cube list](https://www.mtgo.com/legacy-cube-cardlist), last updated in 2021, runs 600. Ask what size the designer tried before this one.
 
 **6. How did you set the color counts, and are they even?**
 Even counts say "every color is a lane." Uneven counts, like the Vintage Cube's 80 blue to 56 green, say the designer has a view about which colors do the heavy lifting. Either is a design statement. Ask them to defend it.
@@ -130,6 +130,6 @@ With their review. Quotes appear exactly as spoken, the designer sees the draft 
 
 ## Ask us
 
-Several of these questions came from being asked them badly. If you want to interview a Cube Commonwealth designer, or be interviewed, [here is how to find us in Indianapolis](/articles/cube-draft-indianapolis/). Subscribe to The Ludarium newsletter for new cube pieces, including the designer conversations as we publish them.
+Subscribe to The Ludarium newsletter for new cube pieces, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, sets its first night as part of The Ludarium.
 
 The game is the reason. The people are the point.

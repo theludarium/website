@@ -107,6 +107,6 @@ Simultaneous-action games like 7 Wonders and Sushi Go, and games with few choice
 
 A soft timer with a friendly default move can help. A strict stopwatch tends to create anxiety and make the problem worse for nervous players.
 
-## One table-tested idea a week
+## More table-tested ideas
 
 The Ludarium newsletter sends new practical pieces on hosting, playing, and keeping a table happy, including the small fixes that keep a slow night moving. Subscribe and you will also be first to hear when our Indianapolis lounge opens.

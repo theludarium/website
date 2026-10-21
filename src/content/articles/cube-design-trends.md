@@ -102,4 +102,4 @@ Supporting aggressive decks properly. It improves every game in the cube, not ju
 
 Every cube carries the assumptions of the year it was built. Check yours against the shifts above, take the structural ones, and leave the fashion. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that play it. If you are near Indianapolis, come see which decade our list is from at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that play it. If you are near Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

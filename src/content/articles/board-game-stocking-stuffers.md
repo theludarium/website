@@ -102,6 +102,6 @@ Yes. The Fox in the Forest, Hive Pocket, and Love Letter (which plays two) all c
 
 Most of the good ones are $8 to $20. Above $25 you are into gift territory, not stocking territory.
 
-## One small idea a week
+## More small ideas
 
 Subscribe to The Ludarium newsletter and we will send new short pieces on games and the people who play them, including the pocket games we keep by the door of our Indianapolis lounge for the wait list. Short, useful, once a week.

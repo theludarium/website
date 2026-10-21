@@ -50,7 +50,7 @@ Even distribution is the default because an uneven gold section makes some pairs
 
 The exception is a cube with a deliberate identity. If your cube is built around four lanes and six good-stuff pairs, give the four lanes five gold cards each and the other six pairs two each. Write that down in the primer so drafters know. The unevenness is a feature when it is on purpose and announced.
 
-Within each pair, a structure we use at five per pair in a 540:
+Within each pair, a structure that works at five per pair in a 540:
 
 1. **Cheap signpost** (two mana). Visible, castable early, tells the story.
 2. **Mid signpost** (three or four mana). The card drafters build around.
@@ -125,4 +125,4 @@ No. A hybrid card can be cast by either color, so it does not reward two-color c
 
 ## Keep playing
 
-For new cube design pieces, including the next time we resize our own gold section and what happened after, subscribe to The Ludarium newsletter. And if you draft in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) runs a 540 with fifty gold cards and an argument about every one of them.
+For new cube design pieces, subscribe to The Ludarium newsletter. And if you draft in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

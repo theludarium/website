@@ -98,4 +98,4 @@ Many do. The MTGO cube ran four of each nongreen Modern Horizons 2 Bridge so tha
 
 An artifact cube is the proof that a cube can be organized around something other than color and still produce ten decks. The game is the reason. The people are the point.
 
-Subscribe to the Ludarium newsletter for new cube-building pieces, and if you are in Indianapolis, bring your artifact list to [Cube Commonwealth](/articles/cube-draft-indianapolis/); we have been wanting to draft one.
+Subscribe to the Ludarium newsletter for new cube-building pieces, and if you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium. Subscribers hear first when the first night is set.

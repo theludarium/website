@@ -97,4 +97,4 @@ In the house rules section of the primer, one or two sentences each, with a link
 
 The best house-rules sections are short, each line has a reason, and nobody at the table has read them in months because nobody has needed to. That is the goal. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for the rest of this series on cube primers. If you are near Indianapolis, our rules are posted and our table is open at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for the rest of this series on cube primers. If you are near Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

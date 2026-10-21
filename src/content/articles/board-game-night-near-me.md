@@ -92,7 +92,7 @@ Cooperative games are especially good on a first visit. You and the strangers ar
 
 ## What is The Ludarium doing about this in Indianapolis?
 
-Hosting public game nights around the city before its lounge opens, because a game night with a good host does not need a building. The format is the one described above: a named host, a "start here" stack of gateway games, a table for newcomers, and the same night every week. Dates and locations go out in the newsletter first.
+Planning public game nights around the city before its lounge opens, because a game night with a good host does not need a building. The format will be the one described above: a named host, a "start here" stack of gateway games, a table for newcomers, and the same night every week. When dates and locations are set, they go out in the newsletter first.
 
 Once the lounge opens, the public game night becomes the front door. Strangers walk in on Tuesday, play Codenames with the regulars, and some of them stay for good.
 

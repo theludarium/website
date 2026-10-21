@@ -91,4 +91,4 @@ Yes. Each color should appear in the same number of gold cards, usually four pai
 
 Equal counts get you to the table. Counting curves, removal, and what wheels keeps every color worth drafting. The game is the reason. The people are the point.
 
-The Ludarium newsletter sends new cube pieces, including the post-draft tally sheet we use. Subscribe, and if you are in Indianapolis, come count colors with us at Cube Commonwealth: [how to join](/articles/cube-draft-indianapolis/).
+The Ludarium newsletter sends new cube pieces. Subscribe, and if you are in Indianapolis, you will hear first when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, sets its first night as part of The Ludarium.

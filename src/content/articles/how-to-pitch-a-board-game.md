@@ -139,7 +139,7 @@ Game mechanics cannot be copyrighted, and reputable publishers do not steal desi
 
 ## Get the evidence first
 
-Publishers want proof that strangers enjoyed your game, and the best way to get it is to put the game in front of strangers. Designers are welcome at open playtest nights at The Ludarium in Indianapolis. For new articles on design, play, and the people around the table, subscribe to the newsletter. Subscribers see new pieces before anyone else.
+Publishers want proof that strangers enjoyed your game, and the best way to get it is to put the game in front of strangers. The Ludarium plans open playtest nights for designers once its Indianapolis lounge opens. For new articles on design, play, and the people around the table, subscribe to the newsletter. Subscribers see new pieces before anyone else.
 
 ## Sources
 

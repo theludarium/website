@@ -104,4 +104,4 @@ Two 360s with different identities are usually the stronger choice for a single 
 
 ## Keep playing
 
-If you run a big cube, or are talking yourself into one, subscribe to The Ludarium newsletter for new cube design pieces and our own change logs. Cube Commonwealth in Indianapolis seats two pods some weeks, and we would be glad to seat you. Details at [cube draft Indianapolis](/articles/cube-draft-indianapolis/).
+If you run a big cube, or are talking yourself into one, subscribe to The Ludarium newsletter for new cube design pieces. [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, is relaunching as part of The Ludarium, and subscribers hear first when the first night is set.

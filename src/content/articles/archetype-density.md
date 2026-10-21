@@ -80,7 +80,7 @@ It depends on what the cube is for, which we covered in [what is your cube for](
 - **For a weekly group of regulars:** ten pairs plus three or four stacked variants. Enough depth that the fiftieth draft still feels different from the fifth.
 - **For eight sharp players who want a test:** ten pairs plus five or six separate strategies, in a 540. Accept that some packs will have nothing for some drafters. That is part of the test.
 
-Cube Commonwealth runs the middle option. We tried the third for a season and found that the people who liked it were the people already winning. The density came down, and the attendance went up. That is not an argument against deep cubes; it is an argument for matching the count to the room.
+Most regular groups do best with the middle option. A very deep cube tends to be loved by the players who are already winning and quietly skipped by everyone else. That is not an argument against deep cubes; it is an argument for matching the count to the room.
 
 ## FAQ
 
@@ -104,4 +104,4 @@ It supports more distinct strategies, but each one is harder to assemble because
 
 A cube with eight real decks beats a cube with fourteen imaginary ones. Count the dedicated cards, watch what wheels, and cut the lane that is not being fed rather than starving the ones that are. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that play it. Indianapolis drafters can test our lane math in person at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that play it. In Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

@@ -126,6 +126,6 @@ Classic Werewolf does. Most modern choices, including One Night Ultimate Werewol
 
 Ten to twenty minutes. Short rounds let people join late, leave early, and switch games before anyone gets bored.
 
-## One idea for your next crowd, every week
+## Ideas for your next crowd
 
 The Ludarium newsletter sends new short pieces on what to play and how to host it well, from two players to twenty. Indianapolis readers also hear first about the lounge. The game is the reason. The people are the point. Subscribe before the next big night.

@@ -22,9 +22,9 @@ The second distinction is between combos that are **hard-locked** to specific ca
 
 **Sneak and Show.** Show and Tell (three mana, each player puts a card from hand onto the battlefield) or Sneak Attack (four mana, pay one red to put a creature into play with haste, sacrificed at end of turn) plus a creature worth cheating: Emrakul, the Aeons Torn, Griselbrand, Atraxa, Archon of Cruelty. Two slots, each with three to five cards. Highly draftable, and the deck still has to survive to turn three or four.
 
-**Reanimator.** A reanimation spell (Reanimate, Animate Dead, Exhume, Necromancy, Persist) plus a way to get the creature into the graveyard (Entomb, Buried Alive, Faithless Looting, Thrill of Possibility, or just discarding to hand size) plus the same creature pool as above. Three slots, each deep. The MTGO Vintage Cube's May 2026 update put Exhume back in while calling it "currently the worst reanimation spell in the Cube," specifically for redundancy ([source](https://www.mtgo.com/news/sos-vintage-cube-update)). That is what supporting combo looks like: adding a weaker piece because the lane needs a sixth copy.
+**Reanimator.** A reanimation spell (Reanimate, Animate Dead, Exhume, Necromancy, Persist) plus a way to get the creature into the graveyard (Entomb, Buried Alive, Faithless Looting, Thrill of Possibility, or just discarding to hand size) plus the same creature pool as above. Three slots, each deep. The MTGO Vintage Cube's May 2026 update put Exhume back in while calling it "currently the worst reanimation spell in the Cube," because combo-focused reanimator decks still want it ([source](https://www.mtgo.com/news/sos-vintage-cube-update)). That is what supporting combo looks like: adding a weaker piece because the lane needs depth.
 
-**Splinter Twin.** Splinter Twin or Kiki-Jiki, Mirror Breaker plus Pestermite, Deceiver Exarch, Zealous Conscripts, Restoration Angel or Felidar Guardian. Both halves are enchant-or-creature that untaps or copies. Infinite hasty tokens. Two slots, three or four cards each, and every piece is a playable card on its own, which is the gold standard for cube combo design.
+**Splinter Twin.** Splinter Twin plus Deceiver Exarch or Pestermite; Kiki-Jiki, Mirror Breaker also works with Zealous Conscripts, Restoration Angel or Felidar Guardian. Both halves are enchant-or-creature that untaps or copies. Infinite hasty tokens. Two slots, three or four cards each, and every piece is a playable card on its own, which is the gold standard for cube combo design.
 
 **Thassa's Oracle and friends.** Thassa's Oracle (two mana, enters and wins if your library is smaller than your devotion to blue) plus Demonic Consultation or Tainted Pact (exile your library to find a named card) wins on the spot for three or four mana total. The Oracle is in the current MTGO list; Consultation is not. Oracle plus Underworld Breach plus Brain Freeze is the other version.
 
@@ -34,7 +34,7 @@ The second distinction is between combos that are **hard-locked** to specific ca
 
 **Oath of Druids.** One enchantment plus any big creature plus a deck that plays no other creatures. Draftable in powered cubes, unsupportable in anything else.
 
-**Fastbond and Zuran Orb, Auriok Salvagers and Lion's Eye Diamond, Witherbloom Apprentice and Chain of Smog.** The current MTGO designers have been adding two-card infinites that few paper cubes copy. The August 2025 update kept Crucible of Worlds "to keep redundancy for the Fastbond + Zuran Orb combo" ([source](https://www.mtgo.com/news/eoe-vintage-cube-update)), and the October 2026 update added Auriok Salvagers because the client can now automate the loop. Paper cubes should notice the reasoning rather than copy the cards: supported combo means every half has backups.
+**Fastbond and Zuran Orb, Auriok Salvagers and Lion's Eye Diamond, Witherbloom Apprentice and Chain of Smog.** The current MTGO designers have been adding two-card infinites that few paper cubes copy. The August 2025 update brought back Crucible of Worlds "to maintain redundancy for the Fastbond + Zuran Orb combo" ([source](https://www.mtgo.com/news/eoe-vintage-cube-update)), and the October 2026 update added Auriok Salvagers because the client can now automate the loop. Paper cubes should notice the reasoning rather than copy the cards: supported combo means every half has backups.
 
 *If this is useful, the newsletter sends more like it.*
 
@@ -94,4 +94,4 @@ Yes, if they are faster than aggro. Twin on turn four and Reanimator on turn two
 
 ## Pick a policy and write it down
 
-Whichever of the three you choose, put it in your primer in one sentence so drafters know what they are drafting into. Cube Commonwealth drafts in Indianapolis most weeks, and the combo lanes are a regular argument; [join a draft](/articles/cube-draft-indianapolis/) and bring your Twin deck. Subscribe to The Ludarium newsletter for new cube design pieces. The game is the reason. The people are the point.
+Whichever of the three you choose, put it in your primer in one sentence so drafters know what they are drafting into. Subscribe to The Ludarium newsletter for new cube design pieces, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, sets its first night as part of The Ludarium. The game is the reason. The people are the point.

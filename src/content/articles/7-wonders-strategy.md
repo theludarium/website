@@ -103,6 +103,6 @@ As few as it takes to beat or tie each neighbor. Winning by one shield scores th
 
 It plays fine, and the draft is tighter because you see each hand more often. The game is at its best with five to seven, where the hands pass around a full table.
 
-## One game-night idea a week
+## More game-night ideas
 
 7 Wonders is a game we recommend for groups of six or seven that want everyone playing at once, which is harder to find than it sounds. The game is the reason. The people are the point. The Ludarium newsletter sends new pieces on games like this, and on the membership lounge we are building in Indianapolis where seven-player tables will be normal. [Subscribe](/newsletter) and get the next guide first.

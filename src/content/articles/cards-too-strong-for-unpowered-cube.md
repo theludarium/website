@@ -6,7 +6,7 @@ category: Magic & Cube
 tags: ["too strong for cube", "unpowered cube cuts", "cards to leave out of cube", "Sol Ring in cube", "Mana Crypt cube", "cube restricted list", "Cube Commonwealth"]
 draft: true
 ---
-Cutting the Power Nine is the easy part. The cards that are too strong for cube once the Moxen are gone are the ones that were hiding behind them: Sol Ring, Mana Crypt, Library of Alexandria, Strip Mine, and a short list of engines that are fine in a Vintage lottery but take over a Legacy-band table. This is the list we hold against every card when Cube Commonwealth considers an addition, and why each one is on it.
+Cutting the Power Nine is the easy part. The cards that are too strong for cube once the Moxen are gone are the ones that were hiding behind them: Sol Ring, Mana Crypt, Library of Alexandria, Strip Mine, and a short list of engines that are fine in a Vintage lottery but take over a Legacy-band table. This is a list worth holding against every card you consider adding, and why each one is on it.
 
 The test for every card below is the same. Does it win games on its own when nothing else in the deck is broken? In a powered cube, the answer is hidden because everything is broken. Remove Power and the answer becomes obvious at the table.
 
@@ -65,7 +65,7 @@ The old restricted list is not the whole story. A few modern designs do the same
 - **The One Ring.** Four mana, grants protection from everything for a turn, then draws an increasing number of cards each turn at the cost of life. It is Necropotence on a colorless artifact. Any deck can play it.
 - **Oko, Thief of Crowns.** Three mana for a planeswalker that enters with a high loyalty, makes a Food each turn, and turns any artifact or creature into a vanilla 3/3 Elk. Strong enough that Wizards [banned it in Legacy](https://magic.wizards.com/en/articles/archive/news/february-15-2021-banned-and-restricted-announcement), the Constructed format, in February 2021. It answers every threat and generates its own.
 - **Uro, Titan of Nature's Wrath.** Three mana to gain life, draw a card, and put a land down, then escape later as a 6/6 that does it again every attack. Card advantage, ramp and a finisher on one card.
-- **Orcish Bowmasters.** Two mana for a 1/1 that pings and grows every time an opponent draws an extra card. A one-card answer to blue's entire plan, which sounds fine until it is also a two-mana 2/2 with two bodies against aggro.
+- **Orcish Bowmasters.** Two mana for a 1/1 that pings and grows every time an opponent draws an extra card. A one-card answer to blue's entire plan, which sounds fine until it is also two power across two bodies against aggro.
 
 These four are in the current MTGO Vintage Cube. Whether they belong in yours depends on the band you chose; see [cube power levels explained](/articles/cube-power-levels-explained/) for how to decide.
 
@@ -102,4 +102,4 @@ Mana Drain counters a spell and gives you its mana next turn. It is strong but i
 
 ## Keep the list honest
 
-Every card above has a fan somewhere, and the arguments are better in person than online. If you want to make the case for Sol Ring across a table in Indianapolis, [join us for a draft](/articles/cube-draft-indianapolis/). Subscribe to The Ludarium newsletter for new cube pieces, including the next time we test a card off this list. The game is the reason. The people are the point.
+Every card above has a fan somewhere, and the arguments are better in person than online. If you want to make the case for Sol Ring across a table in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium. Subscribe to The Ludarium newsletter for new cube pieces and to hear when the first night is set. The game is the reason. The people are the point.

@@ -117,6 +117,6 @@ No. If someone you know owns a cube, you can learn and keep playing without buyi
 
 ## Bring someone new to the table
 
-The best Magic night I ever ran was the one where three people played their first game. If you want to teach someone, the Ludarium newsletter sends new pieces on games that bring people together, including cube and teaching tips. New players and the friends who teach them are welcome at Cube Commonwealth, our drafting community, and the Indianapolis lounge will keep a teaching cube on hand.
+The best Magic night I ever ran was the one where three people played their first game. If you want to teach someone, the Ludarium newsletter sends new pieces on games that bring people together, including cube and teaching tips. In Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium, and new players and the friends who teach them will be welcome.
 
 The game is the reason. The people are the point.

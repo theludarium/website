@@ -121,4 +121,4 @@ Shrink the shared supply, restrict blocking or double routes as Ticket to Ride d
 
 ## Test it at three
 
-If your prototype has only ever been played at your home count, bring it to open playtest nights at The Ludarium in Indianapolis, where tables of two, three, five, and six are easy to find. For new pieces on design, hosting, and what to play, subscribe to the newsletter. New articles reach subscribers first.
+If your prototype has only ever been played at your home count, find tables of two, three, five, and six before you call it done. The Ludarium plans open playtest nights for designers once its Indianapolis lounge opens. For new pieces on design, hosting, and what to play, subscribe to the newsletter. New articles reach subscribers first.

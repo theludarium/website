@@ -99,6 +99,6 @@ Coup or Skull for a competitive teen, 7 Wonders Duel for one with a best friend,
 
 At least six. Friend groups run five to eight, and a game that caps at four leaves someone out.
 
-## One idea a week for the table in the basement
+## More ideas for the table in the basement
 
 Subscribe to The Ludarium newsletter and we will send new short pieces on games and getting people to play them, including the teen-tested games we are stocking for our Indianapolis lounge. New picks go to subscribers first.

@@ -105,7 +105,7 @@ Jaws of the Lion. It is cheaper, teaches itself, and uses the same core system, 
 
 Not as a first modern board game. Play a few lighter co-ops first, then Jaws of the Lion, then decide.
 
-## One campaign-friendly idea a week
+## More campaign-friendly ideas
 
 The game is the reason. The people are the point. Subscribe to the Ludarium newsletter for new articles on co-ops, campaigns, and keeping a group together through both. Our Indianapolis lounge will have campaign tables you can leave set up, which solves the biggest Gloomhaven problem of all.
 

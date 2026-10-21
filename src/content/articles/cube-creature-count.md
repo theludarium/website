@@ -102,4 +102,4 @@ Either you have too many or they are not good enough. Check whether the wheeling
 
 Decide whether your games should be won in combat or on the stack, then count to it. The game is the reason. The people are the point.
 
-The Ludarium newsletter sends new cube design pieces, including the per-color creature sheet we use. Subscribe, and if you are in Indianapolis, draft with us at Cube Commonwealth and count the creatures in your deck afterward: [how to join](/articles/cube-draft-indianapolis/).
+The Ludarium newsletter sends new cube design pieces. Subscribe, and if you are in Indianapolis, you will hear first when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, sets its first night as part of The Ludarium.

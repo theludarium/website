@@ -111,6 +111,6 @@ Use the "looking for players" flags or sign-up boards in open gaming, or book ti
 
 No. Many attendees go solo, and the hobby's structures, from ticketed events to open-gaming flags, are built to seat single players.
 
-## One quiet idea a week
+## More quiet ideas
 
 The Ludarium newsletter sends new pieces on playing well with people, written for those of us who like the table more than the lobby. Subscribe for the convention pacing plan each summer and a monthly list of low-key game nights around Indianapolis. The lounge we are building there will have a quiet room. We have already decided that.

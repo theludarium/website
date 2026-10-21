@@ -114,4 +114,4 @@ They are cheap, quick to teach, play with no downtime, scale to large groups, an
 
 ## Bring a sheet
 
-If you have a roll and write prototype, print a stack and bring it to open playtest nights at The Ludarium in Indianapolis, where a table of six can test it in twenty minutes. For new articles on design, hosting, and the games worth playing, subscribe to the newsletter. Subscribers see each piece first.
+If you have a roll and write prototype, print a stack: a table of six can test it in twenty minutes. The Ludarium plans open playtest nights for designers once its Indianapolis lounge opens. For new articles on design, hosting, and the games worth playing, subscribe to the newsletter. Subscribers see each piece first.

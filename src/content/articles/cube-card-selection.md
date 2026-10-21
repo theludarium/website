@@ -8,7 +8,7 @@ draft: true
 ---
 Cube card selection comes down to three questions asked of every card: Is it strong enough for this cube? What job does it do in a deck? Is it fun to have across the table? A card that passes all three goes in. A card that passes only the first one is how cubes end up as a pile of staples that nobody enjoys drafting.
 
-This is the method we use when a slot opens up at Cube Commonwealth, and it is the method we would recommend to anyone building a first list. It assumes you already know [the basics of building a cube](/articles/how-to-build-a-cube-mtg/) and want to get better at the choosing part.
+This is a method for filling a slot when one opens up, and it is the one we would recommend to anyone building a first list. It assumes you already know [the basics of building a cube](/articles/how-to-build-a-cube-mtg/) and want to get better at the choosing part.
 
 ## What power level is your cube?
 
@@ -110,4 +110,4 @@ When it is picked late three drafts running, or when it is picked early and neve
 
 A cube list is never finished, and it should not be. It is a running argument between what is powerful and what makes eight people glad they came out. Choose for the table in front of you. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that play it. Indianapolis readers can draft our list in person at [Cube Commonwealth](/articles/cube-draft-indianapolis/), and argue with us about what should be in it.
+Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that play it. In Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

@@ -118,7 +118,7 @@ Weekly is the practical threshold. Less than that and you stay a visitor; the re
 
 The third place problem is real, and it is solvable one table at a time. The game is the reason. The people are the point.
 
-If you want help finding or building your own, subscribe to The Ludarium newsletter. One short piece a week on play, connection, and the places that make both possible, plus first word as the Indianapolis lounge opens its doors.
+If you want help finding or building your own, subscribe to The Ludarium newsletter. Short pieces on play, connection, and the places that make both possible, plus first word as the Indianapolis lounge opens its doors.
 
 ## Sources
 

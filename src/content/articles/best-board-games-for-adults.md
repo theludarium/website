@@ -140,6 +140,6 @@ Yes. The Crew, Just One, and Pandemic are fully cooperative, and Cascadia and Az
 
 Wavelength or Just One. Both handle large groups, survive interruptions, and work around a table with food and drinks on it.
 
-## One game night idea a week
+## More game night ideas
 
 The Ludarium newsletter sends one short piece on what to play and how to play it well, with no filler. If you are in Indianapolis, it is also where you will hear about the lounge first. The game is the reason. The people are the point. Subscribe and bring the skeptic.

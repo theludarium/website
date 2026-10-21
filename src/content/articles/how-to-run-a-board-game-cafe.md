@@ -115,4 +115,4 @@ It raises revenue per table and attracts an evening crowd, but it adds licensing
 
 Running a board game cafe is hard, humble work that mostly happens in the dishwasher and the staffing schedule. The owners who last remember why they started. The game is the reason. The people are the point.
 
-If you are thinking about opening a place to play, or you want to follow along as The Ludarium builds one in Indianapolis, subscribe to the newsletter. One piece a week on the craft and the business of bringing people to the table.
+If you are thinking about opening a place to play, or you want to follow along as The Ludarium builds one in Indianapolis, subscribe to the newsletter. New pieces on the craft and the business of bringing people to the table.

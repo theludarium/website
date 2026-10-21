@@ -115,4 +115,4 @@ More than about 2 percent of the cube, or any utility land that regularly goes u
 
 ## Keep playing
 
-Subscribe to The Ludarium newsletter for new cube pieces; land counts and fixing debates come up more than any other topic in our Discord, and we write up the ones we settle. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) will seat you and hand you a box of basics.
+Subscribe to The Ludarium newsletter for new cube pieces. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium, and subscribers hear first when the first night is set.

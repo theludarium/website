@@ -119,6 +119,6 @@ Have one main color by the end of pack one and a settled two-color pair by the m
 
 ## Draft better, then draft together
 
-Drafting is a skill that grows fastest at a regular table with the same cube and the same faces. The Ludarium newsletter sends new pieces on games that build those tables, and cube drafters who want a group are welcome at Cube Commonwealth, our drafting community. The Indianapolis lounge will have a cube on the shelf when it opens.
+Drafting is a skill that grows fastest at a regular table with the same cube and the same faces. The Ludarium newsletter sends new pieces on games that build those tables, and if you want a regular table in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium. Subscribe to hear when the first night is set.
 
 The game is the reason. The people are the point.

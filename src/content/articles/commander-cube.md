@@ -24,7 +24,7 @@ The Commander Cube 2024 on [CubeCobra](https://cubecobra.com/cube/overview/theco
 
 ## How many legends does a Commander cube need?
 
-More than feels right. With 20-card packs and two legends per pack, a 540-card cube needs at least 54 legendary creatures, and the lists we have drafted run closer to 80 to 100 so that the legend slots have variety (the Commander Cube 2024 itself is 840 cards). A rough section split for a 540, as a house guideline:
+More than feels right. With 20-card packs and two legends per pack, a 540-card cube needs at least 54 legendary creatures, and most lists run closer to 80 to 100 so that the legend slots have variety (the Commander Cube 2024 itself is 840 cards). A rough section split for a 540, as a house guideline:
 
 | Section | Count | Notes |
 |---|---|---|
@@ -34,7 +34,7 @@ More than feels right. With 20-card packs and two legends per pack, a 540-card c
 | Colorless | 40–50 | Mana rocks are the ramp of this format; 25+ rocks |
 | Lands | 40–50 | Command Tower in the kit lets this be fixing-light |
 
-Partner matters more than it looks. The Commander Cube 2024 lets any two mono-colored commanders, or a mono-colored and a colorless one, pair as partners even without the keyword; two-color commanders that already have partner text do not gain anything. That rule quietly solves the "I drafted red and white and my only legend is blue" problem: the drafter takes two mono-colored legends and builds Boros. We use it.
+Partner matters more than it looks. The Commander Cube 2024 lets any two mono-colored commanders, or a mono-colored and a colorless one, pair as partners even without the keyword; two-color commanders lose partner even if their card has it. That rule quietly solves the "I drafted red and white and my only legend is blue" problem: the drafter takes two mono-colored legends and builds Boros.
 
 Commander choices worth including because they teach the format at the table: Kenrith, the Returned King as a five-color anything; Sram, Senior Edificer as a mono-white value engine; Syr Konrad, the Grim for black graveyard; Wyll, Blade of Frontiers and Vial Smasher the Fierce for red; Tatyova, Benthic Druid for Simic lands. A Commander cube's legends should mostly be build-arounds with low ceilings, not Kaalia or Tergrid.
 
@@ -70,7 +70,7 @@ Pods of four and a time budget. A Commander cube draft with two-card picks runs 
 
 If you have eight players, draft as one pod of eight (so the picks feel like a normal draft) and then split into two tables of four by a random draw or by seating. Drafting as two separate pods of four loses the fun of seeing a legend wheel around the whole table.
 
-For three players, the Commander Cube 2024 suggests sealed instead of draft: six packs of 20 per player, build 60. It works well and removes the one weakness of the format at small counts, which is that three-player pods rarely produce clean color lanes.
+For three players, the Commander Cube 2024 suggests sealed instead of draft: six packs per player (up to eight for more power), build 60. It works well and removes the one weakness of the format at small counts, which is that three-player pods rarely produce clean color lanes.
 
 ## FAQ
 
@@ -88,10 +88,10 @@ At least two per pack, so 10 percent of the cube at minimum. Public lists typica
 
 ### Can you play Commander cube with four players?
 
-Yes; four is the standard pod. Draft four packs of 16 or three of 20, build 60, play one game. Three players play sealed instead.
+Yes; four is the standard pod. Draft four packs of 16, build 60, play one game. Three players play sealed instead.
 
 ## A table of four, a box of legends
 
 A Commander cube is the box that finally gets the Commander half of a game night to draft, and the draft half to play a game that lasts longer than nine turns. The game is the reason. The people are the point.
 
-Subscribe to the Ludarium newsletter for new cube-building pieces, and if you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) runs a Commander cube pod on request; ask in the Discord.
+Subscribe to the Ludarium newsletter for new cube-building pieces, and if you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium. Subscribers hear first when the first night is set.

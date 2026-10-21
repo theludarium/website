@@ -100,6 +100,6 @@ A dice tray, a set of metal or handmade dice, or a miniature of their current ch
 
 Only if you have confirmed they own the base game and do not already own the expansion. Expansions are the most-duplicated gift in the hobby.
 
-## One idea a week, for people who already love games
+## More ideas for people who already love games
 
 Subscribe to The Ludarium newsletter for new short pieces on games, tables, and the people around them, including what we are learning as we build our Indianapolis lounge. New articles go to subscribers first.
