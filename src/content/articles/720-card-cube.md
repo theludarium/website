@@ -1,10 +1,10 @@
 ---
 title: "720 Card Cube: When a Big Cube Helps and Hurts"
 description: "A 720 card cube seats two full pods and adds variety, but it strains archetypes and aggro. When a big cube helps, when it hurts, and how to build one well."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["720 card cube", "big cube", "large cube design", "720 cube", "two pod cube", "cube for 16 players", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 A 720 card cube is two full eight-player drafts in one box: sixteen players, two pods, no card opened twice. That is its best argument and, for most groups, its only necessary one. The other reasons people build big (variety, room for every pet card, never having to cut) are real but come with costs that are easy to underestimate until you have drafted the thing a dozen times.
 
@@ -104,4 +104,4 @@ Two 360s with different identities are usually the stronger choice for a single 
 
 ## Keep playing
 
-If you run a big cube, or are talking yourself into one, subscribe to The Ludarium newsletter for new cube design pieces and our own change logs. Cube Commonwealth in Indianapolis seats two pods some weeks, and we would be glad to seat you. Details at [cube draft Indianapolis](/articles/cube-draft-indianapolis/).
+If you run a big cube, or are talking yourself into one, subscribe to The Ludarium newsletter for new cube design pieces. [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, is relaunching as part of The Ludarium, and subscribers hear first when the first night is set.

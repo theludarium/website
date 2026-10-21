@@ -156,7 +156,7 @@ Status on 2026-10-19: 21 published at launch, 320 drafts.
 - `what-to-do-after-gen-con`: After Gen Con: Turn Four Days Into a Year of Game Nights
 - `why-every-city-needs-a-place-to-play`: Benefits of Board Game Cafes: Why Every City Needs One
 
-## Batch 7: Cube, part 1 (23)
+## Batch 7: Cube, part 1 (23) (published 2026-10-21)
 
 - `commander-politics`: Commander Politics: Why Four-Player Magic Makes Enemies
 - `cube-draft-strategy`: Cube Draft Strategy: Picks, Signals, and the Table

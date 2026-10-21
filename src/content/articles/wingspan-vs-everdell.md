@@ -108,7 +108,7 @@ Wingspan if you want a calm shared activity. Everdell if you want a bit of compe
 
 No. Both base games are complete and have months of play in them. Buy an expansion only after the base game starts to feel familiar.
 
-## One piece on play each week
+## More on play
 
 The game is the reason. The people are the point. Either of these boxes will give you an hour of quiet building across the table from people you like, which is what we are in this for. For new short pieces on games and the people who play them, with updates on the Indianapolis lounge, subscribe to The Ludarium newsletter.
 

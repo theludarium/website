@@ -1,10 +1,10 @@
 ---
 title: "Artifact Cube: Building Around One Card Type"
 description: "How to build an artifact cube around one card type: the colorless column, why green sits out, Bridges as the singleton exception, ten archetypes, and counts."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["artifact cube", "artifact cube list", "colorless cube", "affinity cube", "MTGO artifact cube", "artifact cube archetypes", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 An artifact cube is a cube where artifacts are the main event instead of the colorless filler. Most cards are artifacts or care about artifacts; the colored cards exist to power them, protect them, or answer them. It is the clearest example of a cube built around a card type rather than a color structure, and it drafts unlike anything else because the deepest column in the cube is the one every drafter can play.
 
@@ -98,4 +98,4 @@ Many do. The MTGO cube ran four of each nongreen Modern Horizons 2 Bridge so tha
 
 An artifact cube is the proof that a cube can be organized around something other than color and still produce ten decks. The game is the reason. The people are the point.
 
-Subscribe to the Ludarium newsletter for new cube-building pieces, and if you are in Indianapolis, bring your artifact list to [Cube Commonwealth](/articles/cube-draft-indianapolis/); we have been wanting to draft one.
+Subscribe to the Ludarium newsletter for new cube-building pieces, and if you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium. Subscribers hear first when the first night is set.

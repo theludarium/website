@@ -109,6 +109,6 @@ In memory care, sorting and matching games, dominoes, large picture cards, and s
 
 Sixty to ninety minutes in the early or mid-afternoon, with a pause, is a reliable length. Pick games that can be set aside and resumed next week.
 
-## One idea a week for your activity calendar
+## More ideas for your activity calendar
 
 The Ludarium writes about play across the whole lifespan, and the Indianapolis lounge we are building will have a standing afternoon table for exactly this crowd. If you run programs for older adults, subscribe to the Ludarium newsletter for new usable ideas on games and togethering.

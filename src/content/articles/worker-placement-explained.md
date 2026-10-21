@@ -115,4 +115,4 @@ Rarely. The interaction comes from denial and timing rather than attacking. That
 
 ---
 
-If a well-blocked space and a shared groan sound like a good evening, the newsletter is for you. One piece a week on how games work and why people keep coming back to them, plus first word when The Ludarium's Indianapolis lounge opens. Subscribe at theludarium.com. The game is the reason. The people are the point.
+If a well-blocked space and a shared groan sound like a good evening, the newsletter is for you. New pieces on how games work and why people keep coming back to them, plus first word when The Ludarium's Indianapolis lounge opens. Subscribe at theludarium.com. The game is the reason. The people are the point.

@@ -102,7 +102,7 @@ Thirty to forty-five minutes for a mixed-age table. Younger children do best wit
 
 Yes, especially for families where competition causes fights. Outfoxed!, Forbidden Island, and The Crew put everyone on one side, so the hard conversation after the game is about the plan, not the person.
 
-## One game-night idea a week
+## More game-night ideas
 
 We started The Ludarium in Indianapolis because the best part of a game was never the game. It was the hour around the kitchen table where nobody looked at a phone and the eight-year-old beat her dad at Kingdomino and would not stop talking about it. The game is the reason. The people are the point.
 

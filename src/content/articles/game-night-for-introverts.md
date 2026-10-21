@@ -108,6 +108,6 @@ Keep the group small, set an end time in the invite, have the first game set up 
 
 Very. Co-ops like Pandemic and The Crew put everyone on the same side, which removes competitive tension and makes conversation flow without effort.
 
-## One quiet, useful idea a week
+## More quiet, useful ideas
 
 The Ludarium newsletter sends new practical pieces on hosting and playing in a way that fits your life, not someone else's. Subscribe and you will also hear first when our Indianapolis lounge opens, with small tables and a corner that stays quiet.

@@ -116,4 +116,4 @@ Thin retail margins, online price competition, and the cost of providing free pl
 
 Coworking proved people will pay to belong to a room full of people doing what they love. Game stores proved the love is there. The lounge puts the two together. The game is the reason. The people are the point.
 
-If you are interested in the business of play, or you just want to know when The Ludarium opens in Indianapolis, subscribe to the newsletter. One piece a week, written for people who think a good table is worth building.
+If you are interested in the business of play, or you just want to know when The Ludarium opens in Indianapolis, subscribe to the newsletter. New pieces, written for people who think a good table is worth building.

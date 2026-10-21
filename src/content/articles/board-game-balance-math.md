@@ -121,4 +121,4 @@ For each strategy or faction in a two-player game, roughly yes. In multiplayer g
 
 ## Count, then play
 
-If you are tuning a prototype and want numbers from people who have never seen it, bring it to open playtest nights at The Ludarium in Indianapolis. For new articles on design, hosting, and play, with new pieces reaching subscribers first, subscribe to the newsletter.
+If you are tuning a prototype, numbers from people who have never seen it beat numbers from your regular group. The Ludarium plans open playtest nights for designers once its Indianapolis lounge opens. For new articles on design, hosting, and play, with new pieces reaching subscribers first, subscribe to the newsletter.

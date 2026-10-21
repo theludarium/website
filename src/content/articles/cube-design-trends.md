@@ -1,10 +1,10 @@
 ---
 title: "Cube Design Trends: How Cubes Changed in Ten Years"
 description: "Cube design trends from the early 2010s to now: smaller cubes, real aggro, fewer planeswalkers, more fixing, and the tools that changed how lists get made."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube design trends", "history of cube design", "how cube has changed", "modern cube design", "Vintage Cube evolution", "cube design philosophy", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Cube design trends move slower than Standard and faster than most owners notice. A cube built from the best public lists in 2014 and left alone would feel strange today: too many planeswalkers, too few one-drops, a storm deck nobody can assemble, a gold section twice the size it needs to be, and almost no fixing for aggressive decks. None of those were mistakes at the time. They were the consensus.
 
@@ -102,4 +102,4 @@ Supporting aggressive decks properly. It improves every game in the cube, not ju
 
 Every cube carries the assumptions of the year it was built. Check yours against the shifts above, take the structural ones, and leave the fashion. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that play it. If you are near Indianapolis, come see which decade our list is from at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that play it. If you are near Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

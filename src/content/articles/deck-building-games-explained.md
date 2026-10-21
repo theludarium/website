@@ -121,4 +121,4 @@ Most play in 30 to 60 minutes. Games with boards or campaign elements, like Clan
 
 ## Keep building
 
-Designers are welcome to bring deck-builder prototypes to open playtest nights at The Ludarium in Indianapolis, where a table of patient strangers is the best tool you will find. If you would rather start with the reading, subscribe to the newsletter. One piece a week on design, play, and the people around the table, delivered before it hits the site.
+For deck-builder prototypes, a table of patient strangers is the best tool you will find. The Ludarium plans open playtest nights for designers once its Indianapolis lounge opens. If you would rather start with the reading, subscribe to the newsletter. New pieces on design, play, and the people around the table, delivered before they hit the site.

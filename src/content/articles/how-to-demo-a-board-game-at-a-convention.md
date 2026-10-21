@@ -129,6 +129,6 @@ Gen Con sells exhibitor booths and also runs [Entrepreneurs' Avenue](https://www
 
 Start a game with a friend so the table looks alive, stand at the aisle edge, and pitch one person at a time with a specific sentence about the game.
 
-## One idea a week, for people who run tables
+## More ideas for people who run tables
 
 Whether you are demoing your own design or teaching Catan to a room, the problem is the same: get people to the fun part fast. The Ludarium newsletter sends new pieces like this on teaching, hosting, and running game events. Subscribe, and once our Indianapolis lounge opens, come run a demo there.

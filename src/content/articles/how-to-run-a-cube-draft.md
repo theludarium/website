@@ -1,10 +1,10 @@
 ---
 title: "How to Run a Cube Draft: 8 Players, 3 Hours, Done Right"
 description: "A host's guide to how to run a cube draft that ends on time and brings people back. Timing, seating, pairings, lands, and the small rituals that matter."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["how to run a cube draft", "cube night", "hosting a cube draft", "cube draft timing", "cube draft pairings", "Magic draft night", "Magic: The Gathering and Cube"]
-draft: true
+draft: false
 ---
 Knowing how to run a cube draft well is mostly knowing how to manage time and people. The cards take care of themselves. A good cube night fits eight players into about three hours: forty-five minutes to draft, twenty to build, and three rounds of fifty minutes with a little slack. The host's job is to keep that schedule without anyone feeling rushed, and to make the evening feel like something people want to repeat.
 
@@ -124,6 +124,6 @@ Random pairings are simplest. Swiss pairings, where winners play winners, give c
 
 ## Host one, then host it again
 
-The first cube night is logistics. The tenth is a tradition. If you are starting one, the Ludarium newsletter sends new pieces on hosting tables people return to, and we are always glad to hear how a new group is going. Cube Commonwealth, our drafting community, welcomes hosts and players, and the Indianapolis lounge will have a cube table running on a schedule when it opens.
+The first cube night is logistics. The tenth is a tradition. If you are starting one, the Ludarium newsletter sends new pieces on hosting tables people return to, and we are always glad to hear how a new group is going. In Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium, and it will need hosts as well as players.
 
 The game is the reason. The people are the point.

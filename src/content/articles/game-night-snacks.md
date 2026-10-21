@@ -106,6 +106,6 @@ Before. Eat, clear the table completely, then play. Food and games on the same s
 
 On coasters, away from the board and player areas. A separate side table for drinks is ideal if you have the room.
 
-## One good idea a week, no crumbs
+## More good ideas, no crumbs
 
 The Ludarium newsletter sends new practical pieces on hosting and playing well, from snack tables to game lineups. Subscribe and you will also hear first when our Indianapolis lounge opens its doors, snack station included.

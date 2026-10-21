@@ -101,7 +101,7 @@ Jigsaw nights run as an open window, three to four hours. Escape box nights take
 
 Yes, especially escape boxes. They require collaboration, produce no loser, and finish with a shared story. Our corporate events service runs them for teams that have been burned by competitive team-building.
 
-## One quiet idea a week
+## More quiet ideas
 
 Puzzle nights are the format we will run for the people who tell us they do not play games, and the jigsaw table will be a fixture at The Ludarium in Indianapolis. Subscribe to the newsletter and you get new event ideas, from puzzle hunts to tournament brackets, before it goes on the site.
 

@@ -1,10 +1,10 @@
 ---
 title: "Magic the Gathering Benefits: What a Card Game Taught Us"
 description: "The real Magic the Gathering benefits are not about cards. Deckbuilding, bluffing, patience: what thirty years of the game taught a generation of players."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["Magic the Gathering benefits", "what Magic teaches", "skills from Magic the Gathering", "is Magic good for you", "Magic and critical thinking", "lessons from card games", "Magic: The Gathering and Cube"]
-draft: true
+draft: false
 ---
 Ask anyone who played Magic: The Gathering seriously for a few years what they got out of it, and the Magic the Gathering benefits they describe rarely involve cards. They talk about learning to build a system from parts. Learning to read a person across a table. Learning to lose forty times in a row and come back. The game has been around since [1993](https://en.wikipedia.org/wiki/Magic:_The_Gathering), more than three decades, and the people who grew up on it carry its lessons into rooms that have nothing to do with dragons.
 
@@ -97,7 +97,7 @@ Because the game is deep enough to reward decades of play, and because the table
 
 ## Keep the lessons, keep the table
 
-If Magic taught you something that stuck, we would like to hear it. The Ludarium newsletter sends new pieces on what games teach and why playing together matters, and we publish reader stories when they are good. Cube players and former players who want back in are welcome at Cube Commonwealth, our drafting community, and the Indianapolis lounge will have a seat for you when it opens.
+If Magic taught you something that stuck, we would like to hear it. The Ludarium newsletter sends new pieces on what games teach and why playing together matters, If you are a former player who wants back in, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, is relaunching as part of The Ludarium. Subscribe to hear when the first night is set.
 
 The game is the reason. The people are the point.
 

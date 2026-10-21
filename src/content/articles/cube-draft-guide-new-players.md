@@ -109,4 +109,4 @@ One page, about two hundred words. Anything longer will not be read in the car o
 
 A first-timer who follows this page will build a real deck, win a game, and come back. That is all the page is for, and it is worth more than any other page in the primer. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for the rest of this series on cube primers. If you have never drafted and you are near Indianapolis, the easiest first draft we know of is at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for the rest of this series on cube primers. If you have never drafted and you are near Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium, and first-timers will be welcome. Subscribers hear first when the first night is set.

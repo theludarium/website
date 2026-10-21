@@ -94,7 +94,7 @@ Rotate games so no one always wins, and keep a cooperative game ready for nights
 
 Often, but check the box. Many games have special two-player rules or play differently at two. Azul, Wingspan, and Cascadia all work well at two without house rules.
 
-## One game night idea a week
+## More game night ideas
 
 A couple that plays together has a built-in reason to put the phones down and sit across from each other. The game is the reason. The people are the point.
 

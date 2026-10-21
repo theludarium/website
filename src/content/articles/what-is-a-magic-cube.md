@@ -104,7 +104,7 @@ Yes. Four and six players draft fine with small adjustments to pack size, and tw
 
 ## Come draft with us
 
-Cube is the format we built a community around. If you play Magic and have never sat down to a cube draft, the Ludarium newsletter sends new pieces on games that bring people to the table, and cube shows up often. Cube players are welcome at Cube Commonwealth, our drafting group, and when the Indianapolis lounge opens the cube will have a permanent table there.
+Cube is the format we built a community around. If you play Magic and have never sat down to a cube draft, the Ludarium newsletter sends new pieces on games that bring people to the table, and cube shows up often. In Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.
 
 The game is the reason. The people are the point.
 

@@ -1,10 +1,10 @@
 ---
 title: "Chaos Cube: Embracing the Unfair on Purpose"
 description: "How to build a chaos cube, unfair on purpose: variance as the goal, the Un-card question, chaos effects worth running, and the slots that keep games fun."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["chaos cube", "chaos cube design", "un-cards in cube", "chaos draft vs chaos cube", "high variance cube", "silly cube", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 A chaos cube is a cube built to produce games nobody can predict. Where a normal cube flattens variance so that skill decides more games, a chaos cube turns variance up on purpose: coin flips, Warp World, cards that trade your deck for your opponent's, Un-set cards that ask you to do a dance, and a few honest bombs that end the game out of nowhere. It is the cube for the night when eight competitive people want to laugh instead of grind.
 
@@ -103,6 +103,6 @@ More than half. A 360 needs about 200 ordinary creatures, removal, and lands at 
 
 ## The night the Warp World hit
 
-Every group has a game it still talks about years later, and in our group most of them came out of this box. The game is the reason. The people are the point.
+Every group has a game it still talks about years later, and for a lot of cube groups, most of them came out of a box like this one. The game is the reason. The people are the point.
 
-New cube-building pieces, first to subscribers of the Ludarium newsletter. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) breaks out the chaos cube a few times a year; subscribe to find out when.
+New cube-building pieces, first to subscribers of the Ludarium newsletter. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribe to hear when the first night is set.

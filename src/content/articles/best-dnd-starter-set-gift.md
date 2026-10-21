@@ -99,6 +99,6 @@ Both current sets include rules, an adventure, characters, and dice. Add a secon
 
 Yes. One player runs the game. Heroes of the Borderlands makes this easier with short scenarios and guidance in the booklets, but someone still has to volunteer.
 
-## One table idea a week, for new players and old
+## Table ideas for new players and old
 
 Subscribe to The Ludarium newsletter for new short pieces on getting people to the table, including the beginner RPG one-shots we are planning for our Indianapolis lounge. If you gave someone a starter set and need a first adventure to run, that is the kind of thing we send.

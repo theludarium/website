@@ -1,10 +1,10 @@
 ---
 title: "Cube House Rules Worth Writing Down"
 description: "Cube house rules worth writing down: which ones belong in your primer, how to word each so the arguments stop, and the ten rules most groups end up needing."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube house rules", "cube draft house rules", "cube rules primer", "cube table rules", "cube draft etiquette", "cube night rules", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Every cube group has house rules. Most of them live in one person's head, which is fine until that person misses a week and the table spends fifteen minutes arguing about whether you can take a basic land from the box during deckbuilding. Cube house rules belong in the primer, written as one sentence of what and one of why, so the question is closed before it is asked.
 
@@ -97,4 +97,4 @@ In the house rules section of the primer, one or two sentences each, with a link
 
 The best house-rules sections are short, each line has a reason, and nobody at the table has read them in months because nobody has needed to. That is the goal. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for the rest of this series on cube primers. If you are near Indianapolis, our rules are posted and our table is open at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for the rest of this series on cube primers. If you are near Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

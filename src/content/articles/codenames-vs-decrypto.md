@@ -105,6 +105,6 @@ Four to six, split into two teams of two or three. That keeps the clue rotation 
 
 Codenames, usually. It is faster to teach, scales to a big room, and the shared grid makes it easy to project or lay out for a crowd. Decrypto works for a smaller team that already knows each other.
 
-## One game-night idea a week
+## More game-night ideas
 
 The game is the reason. The people are the point. Either of these boxes will fill a room with people trying to read each other's minds, which is as good as a party game gets. If you want one new idea for the table, subscribe to The Ludarium newsletter, and follow along as the Indianapolis lounge takes shape.

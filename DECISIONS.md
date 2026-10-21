@@ -204,3 +204,8 @@ A short log of choices made and why. Newest at the bottom.
 - Recolored in The Ludarium's palette and type (Levi's choice over keeping its purple look). Fraunces is self-hosted in the app, so it no longer loads Google Fonts.
 - The old the-ljaw.github.io address forwards to the new home, keeping bracket codes, and retires the old service worker on installed phones (Levi's choice over letting it break).
 
+
+## 2026-10-21: Cube Commonwealth is "relaunching" until its details are set
+
+- The cube articles described Cube Commonwealth with details nobody has confirmed (drafts most weeks, a Commander pod on request, house rules posted, "we tried this for a season"). Levi chose to say only what is cleared: it is The Ludarium's Indianapolis cube group, it is relaunching as part of The Ludarium, and subscribers hear first when the first night is set. Invented specifics and first-person stories came out; links to its join page (`cube-draft-indianapolis`) stay and show as plain text until that page is published.
+- The same pass caught more weekly-newsletter promises (mostly section headings like "One game-night idea a week") and "open playtest nights at The Ludarium", which do not exist yet. Those now say The Ludarium plans them once the Indianapolis lounge opens. A batch 6 line saying The Ludarium hosts public game nights now says it is planning them.

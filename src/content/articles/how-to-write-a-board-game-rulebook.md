@@ -141,4 +141,4 @@ For a published game, yes. For a prototype, several rounds of blind testing with
 
 ## Test it on strangers
 
-Designers are welcome to bring a prototype and a draft rulebook to open playtest nights at The Ludarium in Indianapolis, where a table of people who have never seen your game will tell you more in an hour than a week of rewriting. For more on design, hosting, and play, subscribe to the newsletter. New articles, sent to subscribers before it goes live.
+A table of people who have never seen your game will tell you more in an hour than a week of rewriting. The Ludarium plans open playtest nights for designers once its Indianapolis lounge opens. For more on design, hosting, and play, subscribe to the newsletter. New articles, sent to subscribers before it goes live.

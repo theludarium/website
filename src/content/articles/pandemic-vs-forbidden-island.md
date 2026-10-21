@@ -112,6 +112,6 @@ Forbidden Desert is a little heavier and more varied, and most experienced playe
 
 About ten minutes to explain and one game to understand. Most groups feel comfortable by their second play and start experimenting with difficulty by the third.
 
-## One cooperative idea a week
+## More cooperative ideas
 
 The game is the reason. The people are the point. Both of these boxes work because they make four people lean in over the same problem and talk it through. If you want more games that do that, subscribe to The Ludarium newsletter: new pieces on playing together, with news from the Indianapolis lounge as it opens.

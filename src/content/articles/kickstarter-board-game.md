@@ -120,7 +120,7 @@ Typically six to eighteen months from the end of the campaign to delivery, longe
 
 ## Playtest before you pitch or launch
 
-Whichever route you choose, the game has to be ready first. Designers are welcome at open playtest nights at The Ludarium in Indianapolis, where strangers will tell you what your friends will not. For new clear-eyed pieces on design, hosting, and play, subscribe to the newsletter. Subscribers see new articles before anyone else.
+Whichever route you choose, the game has to be ready first. Strangers will tell you what your friends will not. The Ludarium plans open playtest nights for designers once its Indianapolis lounge opens. For new clear-eyed pieces on design, hosting, and play, subscribe to the newsletter. Subscribers see new articles before anyone else.
 
 ## Sources
 
