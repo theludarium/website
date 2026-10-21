@@ -3,7 +3,10 @@
 // Generic game pieces only: no publisher art, logos, or recognizable components.
 import { MARK_PATH } from '@/lib/brand';
 
-export type DotShape = { name: string; draw: (ctx: CanvasRenderingContext2D) => void };
+// `shaded` shapes may paint parts at partial opacity; the hero then thins the
+// dots there in an even pattern (more transparent, fewer dots), which reads as
+// a darker face. Other shapes keep the plain inside-or-outside test.
+export type DotShape = { name: string; shaded?: boolean; draw: (ctx: CanvasRenderingContext2D) => void };
 
 const cut = (ctx: CanvasRenderingContext2D, fn: () => void) => {
   ctx.save();
@@ -62,6 +65,40 @@ const d20: DotShape = {
       ] as [number, number][][]) {
         line(ctx, [from, to]);
       }
+    });
+  },
+};
+
+// A cube in three-quarter view: three faces split by narrow gaps, like the d20's
+// facets. The top catches the light, the left side is in half shade, and the
+// right side is darker, drawn with fewer dots.
+const cube: DotShape = {
+  name: 'a cube',
+  shaded: true,
+  draw(ctx) {
+    const top: [number, number] = [32, 5];
+    const upRight: [number, number] = [56, 18.5];
+    const lowRight: [number, number] = [56, 45.5];
+    const bottom: [number, number] = [32, 59];
+    const lowLeft: [number, number] = [8, 45.5];
+    const upLeft: [number, number] = [8, 18.5];
+    const center: [number, number] = [32, 32];
+    const face = (pts: [number, number][], alpha: number) => {
+      ctx.globalAlpha = alpha;
+      ctx.beginPath();
+      pts.forEach(([x, y], i) => (i ? ctx.lineTo(x, y) : ctx.moveTo(x, y)));
+      ctx.closePath();
+      ctx.fill();
+    };
+    face([top, upRight, center, upLeft], 1);
+    face([upLeft, center, bottom, lowLeft], 0.6);
+    face([center, upRight, lowRight, bottom], 0.32);
+    ctx.globalAlpha = 1;
+    cut(ctx, () => {
+      ctx.lineWidth = 2.4;
+      ctx.lineCap = 'round';
+      line(ctx, [upLeft, center, upRight]);
+      line(ctx, [center, bottom]);
     });
   },
 };
@@ -172,4 +209,4 @@ const mahjong: DotShape = {
 };
 
 // The cycle starts and ends on the mark.
-export const DOT_SHAPES: DotShape[] = [mark, d20, meeple, knight, cards, mahjong];
+export const DOT_SHAPES: DotShape[] = [mark, d20, meeple, knight, cube, cards, mahjong];
