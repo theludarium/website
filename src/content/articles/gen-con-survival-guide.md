@@ -1,10 +1,10 @@
 ---
 title: "Gen Con Survival Guide: Food, Feet, Sleep, Exhibit Hall"
 description: "A Gen Con survival guide for the body, not the schedule. How to eat, walk, sleep, and work the Exhibit Hall for four days without crashing on Saturday."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Game Culture
 tags: ["Gen Con survival guide", "Gen Con tips", "Gen Con food", "Gen Con Exhibit Hall tips", "Gen Con shoes", "Gen Con what to bring", "Indianapolis"]
-draft: true
+draft: false
 ---
 Every Gen Con survival guide tells you to drink water. This one tells you why Saturday afternoon is when people fall apart, and how to arrange Thursday and Friday so you do not. Gen Con is four days, [more than 74,000 people](https://boardgamewire.com/index.php/2026/08/05/gen-con-tops-74000-attendees-as-record-breaking-show-preps-for-much-needed-venue-hotel-expansion/), two connected buildings the size of several city blocks, and a downtown that runs on convention time. Your schedule is a plan. Your body is the constraint. This guide is about the constraint.
 

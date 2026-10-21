@@ -258,7 +258,7 @@ Mention prices, current releases, "this year," Gen Con dates, or Indianapolis pl
 - `best-new-cube-cards-of-the-year`: Best Cube Cards This Year: Our Keeps From Six Sets
 - `board-game-cafe-library`: Board Game Cafe Library: Curating 300 Games, Not 3,000
 - `board-game-cafe-vs-home-game-night`: Board Game Cafe vs Home Game Night: When Each Wins
-- `board-game-date-night-indianapolis`: Board Game Date Night in Indianapolis: Where to Go
+- `board-game-date-night-indianapolis`: Board Game Date Night in Indianapolis: Where to Go (published 2026-10-21)
 - `board-games-for-college-students`: Board Games for College Students: Dorm-Sized and Cheap
 - `board-games-for-new-parents`: Board Games for New Parents: 20 Minutes, No Brain
 - `budget-cube-under-200`: Budget Cube Under $200 That Plays Like Vintage
@@ -272,21 +272,21 @@ Mention prices, current releases, "this year," Gen Con dates, or Indianapolis pl
 - `cube-set-review-marvel-super-heroes`: Marvel Super Heroes Cube Review: Mind Stone, Loki, Vision
 - `cube-vs-commander`: Cube vs Commander: Which Magic Format Fits Your Group?
 - `dnd-one-shot-for-beginners`: D&D One Shot for Beginners: Try an RPG in One Evening
-- `family-friendly-game-cafes-indianapolis`: Family Game Cafes in Indianapolis: Where to Play
+- `family-friendly-game-cafes-indianapolis`: Family Game Cafes in Indianapolis: Where to Play (published 2026-10-21)
 - `game-lounge-membership`: How a Game Lounge Membership Works (vs a Cover Charge)
 - `game-night-calendar-year`: Game Night Calendar: A Full Year of Seasonal Programming
 - `games-after-losing-a-spouse`: Social Activities After Losing a Spouse: Finding a Table
-- `gen-con-event-registration-tips`: Gen Con Event Registration: How to Get the Games You Want
-- `gen-con-on-a-budget`: Gen Con on a Budget: Badges, Beds, and the Exhibit Hall
-- `gen-con-packing-list`: Gen Con Packing List: What to Bring for Four Days
-- `gen-con-survival-guide`: Gen Con Survival Guide: Food, Feet, Sleep, Exhibit Hall
-- `gen-con-tips-for-locals`: Gen Con for Locals: Enjoy It Without a Badge
+- `gen-con-event-registration-tips`: Gen Con Event Registration: How to Get the Games You Want (published 2026-10-21)
+- `gen-con-on-a-budget`: Gen Con on a Budget: Badges, Beds, and the Exhibit Hall (published 2026-10-21)
+- `gen-con-packing-list`: Gen Con Packing List: What to Bring for Four Days (published 2026-10-21)
+- `gen-con-survival-guide`: Gen Con Survival Guide: Food, Feet, Sleep, Exhibit Hall (published 2026-10-21)
+- `gen-con-tips-for-locals`: Gen Con for Locals: Enjoy It Without a Badge (published 2026-10-21)
 - `gloomhaven-vs-frosthaven`: Gloomhaven vs Frosthaven vs Jaws of the Lion: Start Here
 - `how-mtgo-vintage-cube-updates-work`: How MTGO Vintage Cube Updates Work (2026 Cadence)
 - `how-to-build-a-cube-mtg`: How to Build a Cube MTG: Your First Cube Under $200
 - `how-to-evaluate-new-cards-for-cube`: How to Evaluate New Cards for Cube: A Working Method
 - `how-to-update-a-cube`: How to Update a Cube Without Breaking It
-- `indianapolis-board-game-stores`: Board Game Stores in Indianapolis by Neighborhood
+- `indianapolis-board-game-stores`: Board Game Stores in Indianapolis by Neighborhood (published 2026-10-21)
 - `is-gloomhaven-worth-it`: Is Gloomhaven Worth It? An Honest Guide for Busy Adults
 - `kickstarter-board-game`: Kickstarter Board Game Campaigns: A Sober Look
 - `ludarium-library-50-games`: The Ludarium Library: 50 Games for Every Game Lounge
@@ -300,7 +300,7 @@ Mention prices, current releases, "this year," Gen Con dates, or Indianapolis pl
 - `set-cube`: Set Cube: Recreate a Draft Format Forever
 - `the-crew-card-game`: The Crew Card Game: The Best Teaching Game Ever Made
 - `what-is-a-board-game-cafe`: What Is a Board Game Cafe? Why They're Everywhere Now
-- `where-to-play-magic-indianapolis`: Magic: The Gathering in Indianapolis: Where to Play
+- `where-to-play-magic-indianapolis`: Magic: The Gathering in Indianapolis: Where to Play (published 2026-10-21)
 
 ## Needs Levi (59)
 

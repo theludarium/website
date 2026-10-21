@@ -1,10 +1,10 @@
 ---
 title: "Gen Con Event Registration: How to Get the Games You Want"
 description: "Gen Con event registration made simple: the catalog, the wish list, the noon rush, generic tickets, and how to come away holding the events you came to play."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Game Culture
 tags: ["Gen Con event registration", "Gen Con wish list", "Gen Con event tickets", "Gen Con generic tickets", "how to get Gen Con tickets", "Gen Con events sold out", "Conventions"]
-draft: true
+draft: false
 ---
 Gen Con event registration is a single moment in May that decides much of your August. Thousands of ticketed events go on sale at the same time, the popular ones sell out in minutes, and the people who did their homework get the seats. This guide explains how the system works, what to do before the day, and what to do when your first choice is already gone.
 

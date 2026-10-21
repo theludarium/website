@@ -1,10 +1,10 @@
 ---
 title: "Gen Con on a Budget: Badges, Beds, and the Exhibit Hall"
 description: "Gen Con on a budget: real 2026 badge prices, hotels from the housing block to the suburbs, cheaper food, and how to leave the Exhibit Hall with money left."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Game Culture
 tags: ["Gen Con budget", "Gen Con cost", "how much does Gen Con cost", "Gen Con cheap", "Gen Con badge prices", "Gen Con on the cheap", "Conventions"]
-draft: true
+draft: false
 ---
 A Gen Con budget has four lines: the badge, the bed, the food, and the hall. Three of them can be cut hard without making the weekend worse. The fourth, the Exhibit Hall, is where most people lose the money they saved on the other three.
 

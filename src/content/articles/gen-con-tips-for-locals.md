@@ -1,10 +1,10 @@
 ---
 title: "Gen Con for Locals: Enjoy It Without a Badge"
 description: "Gen Con for Indianapolis locals: what you can enjoy without a badge, when to avoid downtown traffic, and how to turn the weekend into a year of game nights."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Game Culture
 tags: ["Gen Con Indianapolis locals", "Gen Con without a badge", "Gen Con block party", "Gen Con Indianapolis residents", "Gen Con Sunday badge", "things to do during Gen Con", "Indianapolis"]
-draft: true
+draft: false
 ---
 For Gen Con, Indianapolis locals fall into two camps: the ones who have a badge and take the week off, and the ones who avoid downtown entirely until the costumes leave. There is a third option. You can have a good Gen Con without a badge, spend almost nothing, and still end up at a table with strangers who want to teach you a game. This guide is for the third camp: what is free, what is worth a single-day badge, and how to use the week to find the people who play here all year.
 

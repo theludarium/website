@@ -1,10 +1,10 @@
 ---
 title: "Board Game Stores in Indianapolis by Neighborhood"
 description: "Board game stores in Indianapolis, sorted by neighborhood, with what each shop does best, where you can sit down and play, and how to pick the right one."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Game Culture
 tags: ["board game stores Indianapolis", "Indianapolis game store", "friendly local game store Indianapolis", "where to buy board games Indianapolis", "game shops Carmel Fishers Noblesville", "Indianapolis tabletop", "Indianapolis"]
-draft: true
+draft: false
 ---
 If you are searching for board game stores in Indianapolis, the useful answer is not a ranked list. It is a map. The metro is spread out, the stores are spread out with it, and the right shop for you is usually the one you can reach on a weeknight. This guide sorts the confirmed stores by area, says what each is known for, and tells you which ones let you sit down and play.
 

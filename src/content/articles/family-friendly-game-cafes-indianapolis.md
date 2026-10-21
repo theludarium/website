@@ -1,10 +1,10 @@
 ---
 title: "Family Game Cafes in Indianapolis: Where to Play"
 description: "Family-friendly places to play board games in Indianapolis, from a Greenfield game cafe to free library nights, with ages, costs, and what to ask for."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Game Culture
 tags: ["family game cafe Indianapolis", "kid friendly board game cafe Indianapolis", "family game night Indianapolis", "places to play board games with kids Indy", "board game cafe Carmel Fishers kids", "Indianapolis rainy day activities", "Indianapolis"]
-draft: true
+draft: false
 ---
 A family game cafe in Indianapolis is a specific thing to want: a room where a nine-year-old and a grandparent can both sit down, somebody hands you a game that fits, and nobody is drinking at the next table at two in the afternoon. The city has a few places that do this well and several that do it at certain hours. This guide sorts them by what they are, says which ages they suit, and explains how to make the visit work.
 

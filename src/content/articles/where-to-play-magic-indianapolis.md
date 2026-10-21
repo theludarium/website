@@ -1,10 +1,10 @@
 ---
 title: "Magic: The Gathering in Indianapolis: Where to Play"
 description: "Where to play Magic: The Gathering in Indianapolis: stores with Friday Night Magic and Commander nights, sorted by area, plus how to find a local cube draft."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Game Culture
 tags: ["Magic the Gathering Indianapolis", "Friday Night Magic Indianapolis", "Commander night Indianapolis", "MTG stores Indianapolis", "Magic Carmel Fishers Noblesville", "cube draft Indianapolis", "Indianapolis"]
-draft: true
+draft: false
 ---
 If you want to play Magic: The Gathering in Indianapolis, you are in a good city for it. Nearly every game store in the metro runs weekly Magic events, Commander night is the most common public game night in town, and Gen Con, North America's largest tabletop convention, comes to the convention center each summer. This guide lists the confirmed places to play by area, explains the formats you will find at each, and covers the one format most stores do not run: cube.
 

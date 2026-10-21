@@ -1,10 +1,10 @@
 ---
 title: "Board Game Date Night in Indianapolis: Where to Go"
 description: "Board game date night in Indianapolis: the best venues, what to play on a first date versus a tenth, and how to build an easy, fun evening around a game table."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Game Culture
 tags: ["date night Indianapolis board games", "board game date Indianapolis", "board game bar Indianapolis", "Fountain Square date night", "two player games for a date", "first date ideas Indianapolis", "Indianapolis"]
-draft: true
+draft: false
 ---
 A date night in Indianapolis built around board games solves the problem that dinner-and-a-movie cannot: it gives two people something to do with their hands and a reason to talk. Across a table with a game between you, there is no silence to fill and no screen to stare at. The city has a handful of places that are built for it, and a few more that work if you pick the hour. This guide names them, says which night suits which stage of a relationship, and gives a plan for the evening.
 
