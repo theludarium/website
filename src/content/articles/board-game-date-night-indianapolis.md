@@ -1,10 +1,10 @@
 ---
 title: "Board Game Date Night in Indianapolis: Where to Go"
 description: "Board game date night in Indianapolis: the best venues, what to play on a first date versus a tenth, and how to build an easy, fun evening around a game table."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Game Culture
 tags: ["date night Indianapolis board games", "board game date Indianapolis", "board game bar Indianapolis", "Fountain Square date night", "two player games for a date", "first date ideas Indianapolis", "Indianapolis"]
-draft: true
+draft: false
 ---
 A date night in Indianapolis built around board games solves the problem that dinner-and-a-movie cannot: it gives two people something to do with their hands and a reason to talk. Across a table with a game between you, there is no silence to fill and no screen to stare at. The city has a handful of places that are built for it, and a few more that work if you pick the hour. This guide names them, says which night suits which stage of a relationship, and gives a plan for the evening.
 
@@ -12,13 +12,13 @@ Venues were checked against their own sites or a current listing in October 2026
 
 ## Where is the best board game date spot in Indianapolis?
 
-**[Elf 'N Moon](https://elfnmoon.com/)**, Fountain Square (1354 Shelby St). The obvious answer and the right one. Free first-come tables, a free game library, beer and wine, two rentable private rooms, and hours that run until 11 most nights. Fountain Square around it is the best date neighborhood in the city: dinner at any of a dozen places on Virginia Avenue, the duckpin bowling alley upstairs at the Fountain Square Theatre building, and a walk back to the car past the fountain. For a second date onward, this is the plan.
+**[Elf 'N Moon](https://elfnmoon.com/)**, Fountain Square (1354 Shelby St). The obvious answer and the right one. Free first-come tables, a free game library, beer (21+), two rentable private rooms, and hours that run until 11 most nights. Fountain Square around it is the best date neighborhood in the city: dinner at any of a dozen places on Virginia Avenue, the duckpin bowling alley upstairs at the Fountain Square Theatre building, and a walk back to the car past the fountain. For a second date onward, this is the plan.
 
-**[Hitherto Coffee & Gaming Parlour](http://hithertocoffee.com/)**, Greenfield (1558 N State St). The daytime date. Coffee, food, a large library. A Saturday afternoon here is lower pressure than any evening, and for a first date that is a feature. The drive from downtown is about 25 minutes, which is fine if one of you lives east.
+**[Hitherto Coffee & Gaming Parlour](http://hithertocoffee.com/)**, Greenfield (1558 N State St). The daytime date. Coffee, pastries, a large library. A Saturday afternoon here is lower pressure than any evening, and for a first date that is a feature. The drive from downtown is about 25 minutes, which is fine if one of you lives east.
 
-**[Good Games Indianapolis](https://www.goodgamesna.com/us/stores/indiana/indianapolis.html)**, downtown (111 S Meridian St). A store with roughly 3,500 square feet of play space. Not romantic, but if you are both already hobbyists, a Sunday Commander night followed by dinner on Georgia Street is a real date. Know your audience.
+**[Good Games Indianapolis](https://www.goodgamesna.com/venue/good-games-indianapolis/)**, downtown (111 S Meridian St). A store with one of the biggest play spaces downtown. Not romantic, but if you are both already hobbyists, a Sunday afternoon Commander session followed by dinner on Georgia Street is a real date. Know your audience.
 
-**Brewery game nights.** The [Indy Board Game Nomads](https://www.meetup.com/indybgnomads/) meetups at Red Lion Grog House in Fountain Square (Mondays, 21+) and St. Joseph Brewery downtown turn a weeknight into a group date. Good for couples who have run out of two-player games and want other people at the table.
+**Brewery game nights.** The [Indy Board Game Nomads](https://www.meetup.com/indybgnomads/) Monday-night meetups, which alternate between Red Lion Grog House in Fountain Square (21+) and St. Joseph Brewery downtown, turn a weeknight into a group date. Good for couples who have run out of two-player games and want other people at the table.
 
 The full list of places to play is in our [Indianapolis board game cafe guide](/articles/board-game-cafes-indianapolis/), and if you are looking for a venue in the north suburbs, Moonshot Games in downtown Noblesville is a short walk from restaurants.
 
@@ -76,7 +76,7 @@ The Ludarium is building a membership game lounge in Indianapolis with quiet day
 
 ### Where can couples play board games in Indianapolis?
 
-Elf 'N Moon in Fountain Square is the best evening option, with a free library and beer and wine. Hitherto in Greenfield suits a daytime date, and brewery meetup nights work for a group date.
+Elf 'N Moon in Fountain Square is the best evening option, with a free library and beer. Hitherto in Greenfield suits a daytime date, and brewery meetup nights work for a group date.
 
 ### What is a good board game for a first date?
 
@@ -94,4 +94,4 @@ Often just drinks and dinner. Elf 'N Moon's tables and library are free; library
 
 The game gives you a reason to sit down together. What happens across the table is the point. The game is the reason. The people are the point.
 
-For new date-night game ideas, new places to play as they open, and first word on couple's memberships when The Ludarium opens in Indianapolis, subscribe to the newsletter. Short and weekly.
+For new date-night game ideas, new places to play as they open, and first word on memberships when The Ludarium opens in Indianapolis, subscribe to the newsletter. Short emails.

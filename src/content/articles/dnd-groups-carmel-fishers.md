@@ -22,7 +22,7 @@ Game stores are the main public venue for Dungeons & Dragons <!-- AFFILIATE --> 
 
 **[Moonshot Games](https://moonshotgamestore.com/)**, downtown Noblesville (50 N 9th St). Just over the Fishers line. A game room, demo copies, and a regular events calendar.
 
-If you live in Carmel or Fishers and are willing to drive 25 minutes, the downtown Indianapolis stores add more options. [Good Games](https://www.goodgamesna.com/us/stores/indiana/indianapolis.html) on South Meridian has the largest play space in the city.
+If you live in Carmel or Fishers and are willing to drive 25 minutes, the downtown Indianapolis stores add more options. [Good Games](https://www.goodgamesna.com/venue/good-games-indianapolis/) on South Meridian has the largest play space in the city.
 
 ## Is there anywhere to play D&D in Westfield?
 

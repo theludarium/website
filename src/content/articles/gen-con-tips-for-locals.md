@@ -1,10 +1,10 @@
 ---
 title: "Gen Con for Locals: Enjoy It Without a Badge"
 description: "Gen Con for Indianapolis locals: what you can enjoy without a badge, when to avoid downtown traffic, and how to turn the weekend into a year of game nights."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Game Culture
 tags: ["Gen Con Indianapolis locals", "Gen Con without a badge", "Gen Con block party", "Gen Con Indianapolis residents", "Gen Con Sunday badge", "things to do during Gen Con", "Indianapolis"]
-draft: true
+draft: false
 ---
 For Gen Con, Indianapolis locals fall into two camps: the ones who have a badge and take the week off, and the ones who avoid downtown entirely until the costumes leave. There is a third option. You can have a good Gen Con without a badge, spend almost nothing, and still end up at a table with strangers who want to teach you a game. This guide is for the third camp: what is free, what is worth a single-day badge, and how to use the week to find the people who play here all year.
 
@@ -16,9 +16,9 @@ More than most residents think. The badge covers the convention halls, the Exhib
 
 **The Block Party.** In 2026, Gen Con ran a [free Block Party on South Street](https://www.visitindy.com/blog/post/things-to-do-in-indy-during-gen-con-2026-without-a-badge/) outside the Indiana Convention Center, with vendor booths, food trucks, cosplayers, live entertainment, and family activities, open to everyone. Gen Con's help center lists its hours as [9 a.m. to 10 p.m. Thursday through Saturday and 9 to 4 Sunday](https://gencon.zendesk.com/hc/en-us/articles/16797680652692-Gen-Con-Block-Party), with a Wednesday evening opening. It is the best single thing a local can do with kids on a Saturday afternoon of Gen Con week.
 
-**The costumes.** Georgia Street and the blocks around the convention center are an open-air parade all weekend, and the cosplay is as good as any convention in the country. Bring a camera and ask before you photograph.
+**The costumes.** South Street and the blocks around the convention center are an open-air parade all weekend, and the cosplay is as good as any convention in the country. Bring a camera and ask before you photograph.
 
-**The pop-ups and themed menus.** Downtown restaurants and bars run Gen Con menus, Sun King brews a Gen Con beer, and local businesses stage pop-ups around the weekend. The Visit Indy page above lists the year's set.
+**The pop-ups and themed menus.** Downtown restaurants and bars run Gen Con menus (in 2026, Sun King brewed the official Gen Con beer, Rage Quit), and local businesses stage pop-ups around the weekend. The Visit Indy page above lists the year's set.
 
 **The city itself.** Monument Circle, the Canal Walk, White River State Park, and the museums are all open and, on Gen Con weekend, full of people in costume. The Children's Museum and the Indiana State Museum are the easy choices with kids.
 
@@ -35,7 +35,7 @@ Often yes, and Sunday is the day.
 | Saturday, $112 | The biggest day, the most costumes, the longest lines |
 | Sunday, $41 | Locals who want the Exhibit Hall, a demo or two, and the end-of-show deals |
 
-Prices from [the 2026 announcement](https://gamingtrend.com/news/gen-con-announces-2026-registration-and-badge-prices/), plus Marion County's 10 percent admissions tax per [gencon.com](https://www.gencon.com/gen-con-indy/your_badge). Sunday is the cheapest badge and the quietest hall, and some vendors discount to avoid shipping stock home. Children 10 and under attend on a free Child Wristband, which makes Sunday a reasonable family outing. The catch: 2026 sold out, and single-day badges can go early. Buy when badges open in winter, not in July.
+Prices from [the 2026 announcement](https://gamingtrend.com/news/gen-con-announces-2026-registration-and-badge-prices/), plus Marion County's 10 percent admissions tax per [gencon.com](https://www.gencon.com/gen-con-indy/your_badge). Sunday is the cheapest badge and the quietest hall, and some vendors discount to avoid shipping stock home. Children 10 and under get in free with a Child Wristband when they come with a parent or guardian who has a paid badge, which makes Sunday a reasonable family outing. The catch: 2026 sold out, and single-day badges can go early. Buy when badges open in winter, not in July.
 
 A badge is required to purchase event tickets, so if you want to play in a scheduled game rather than browse, buy the badge first and then look at the catalog. Our [first-timer guide](/articles/gen-con-first-timer-guide/) covers that system.
 
@@ -49,12 +49,12 @@ If you work downtown that week, bring lunch or eat at 11. If you are coming in f
 
 ## How do you meet the people who play here year-round?
 
-This is the part locals underrate. Gen Con brings [more than 74,000 people](https://boardgamewire.com/index.php/2026/08/05/gen-con-tops-74000-attendees-as-record-breaking-show-preps-for-much-needed-venue-hotel-expansion/) to town, and a few thousand of them live within an hour of you. The week is a filter: anyone standing in line for a demo at a game store on Gen Con Friday is a person who plays.
+This is the part locals underrate. Gen Con brings [more than 74,000 people](https://boardgamewire.com/index.php/2026/08/05/gen-con-tops-74000-attendees-as-record-breaking-show-preps-for-much-needed-venue-hotel-expansion/) to town, and plenty of them live within an hour of you. The week is a filter: anyone standing in line for a demo at a game store on Gen Con Friday is a person who plays.
 
 1. **Go to a store event that week.** Good Games downtown, Moonshot in Noblesville, the Carmel and Fishers shops. Talk to the people at the next table and ask where they play in October.
-2. **Find the public game nights.** The Indy Board Game Nomads meetup runs [standing nights at breweries](https://www.meetup.com/indybgnomads/) across the city, and they do not stop for Gen Con. Our [weekly guide to Indianapolis game nights](/articles/indianapolis-game-nights/) has the current list.
+2. **Find the public game nights.** The Indy Board Game Nomads meetup runs [regular nights at breweries and bars](https://www.meetup.com/indybgnomads/) across the city. Our [guide to Indianapolis game nights](/articles/indianapolis-game-nights/) has the current list.
 3. **Host something.** A Gen Con-week game night at your house for the friends who could not get badges is a tradition in plenty of Indianapolis households. The people who come are your group.
-4. **Volunteer.** Gen Con and many publishers take volunteers, and some positions come with a badge. The work is social by nature.
+4. **Volunteer.** Many publishers recruit volunteers for Gen Con, and some programs include a badge. The work is social by nature.
 
 ## What should a local do on Gen Con Sunday?
 
@@ -97,4 +97,4 @@ Away from the convention center: east toward Mass Ave or north of Washington Str
 
 Gen Con is the week Indianapolis remembers it is a game town. The game is the reason. The people are the point.
 
-For the public game nights that run the other forty-eight weeks, Gen Con-week events as they are announced, and first word on The Ludarium's lounge downtown, subscribe to the newsletter. Short emails.
+For the public game nights that run the other fifty-one weeks, Gen Con-week events as they are announced, and first word on The Ludarium's lounge in Indianapolis, subscribe to the newsletter. Short emails.

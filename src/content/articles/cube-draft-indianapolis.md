@@ -59,7 +59,7 @@ Cube Commonwealth is one night a week. For the other six, Indianapolis has a sto
 
 **Downtown and near north**
 
-- **[Good Games Indianapolis](https://www.goodgamesna.com/us/stores/indiana/indianapolis.html)**, 111 S Meridian St. The largest play space downtown, with events most days and a free Casual Commander night on Sundays listed on its [public calendar](https://meetup.com/goodgames).
+- **[Good Games Indianapolis](https://www.goodgamesna.com/venue/good-games-indianapolis/)**, 111 S Meridian St. The largest play space downtown, with events most days and a free Casual Commander night on Sundays listed on its [public calendar](https://meetup.com/goodgames).
 - **[Paradigm Games](https://paradigmgames.co/)**, 2479 N Meridian St. Wizards Play Network store with Commander Night on Thursdays, Standard Showdown on Wednesdays, Friday Night Magic draft at 6:30, and free-play Commander on Tuesday afternoons and Saturdays at noon.
 
 **North suburbs**

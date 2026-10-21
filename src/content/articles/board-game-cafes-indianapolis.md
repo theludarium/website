@@ -31,7 +31,7 @@ Here is where to start, each checked against its own site or a current listing i
 
 **Game stores with play space**
 
-- [Good Games Indianapolis](https://www.goodgamesna.com/us/stores/indiana/indianapolis.html), downtown (111 S Meridian St). About 3,500 square feet of play space and events most days.
+- [Good Games Indianapolis](https://www.goodgamesna.com/venue/good-games-indianapolis/), downtown (111 S Meridian St). About 3,500 square feet of play space and events most days.
 - [Moonshot Games](https://moonshotgamestore.com/), downtown Noblesville (50 N 9th St). Demo games, a game room, and events including Friday Night Magic.
 - [Gray Gauntlet Games](https://graygauntletgames.com/), Fishers (7998 Centerpoint Dr). A play space and an events calendar for Magic, Pokémon, and painting nights.
 - [The Game Preserve](https://www.gamepreserve.com/), Greenwood (1551 E Stop 12 Rd) and near the Fashion Mall. A long-running shop with tournaments, league nights, and learn-to-play sessions.

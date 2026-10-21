@@ -1,12 +1,12 @@
 ---
 title: "Gen Con Packing List: What to Bring for Four Days"
 description: "A Gen Con packing list built from what people actually run out of: shoes, snacks, a bag that works in the Exhibit Hall, and the paperwork that gets you in."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Game Culture
 tags: ["Gen Con packing list", "what to bring to Gen Con", "Gen Con essentials", "Gen Con bag", "convention packing list", "Gen Con first time", "Conventions"]
-draft: true
+draft: false
 ---
-A good Gen Con packing list is short on gadgets and long on the boring things: shoes you have already walked ten miles in, a refillable bottle, a bag with a zipper, and a printout of your event tickets. Gen Con runs four days in downtown Indianapolis, with the next show set for [August 5–8, 2027](https://www.gencon.com/). You will be on your feet for most of it, in air conditioning that swings from cold to stale, carrying more than you planned.
+A good Gen Con packing list is short on gadgets and long on the boring things: shoes you have already walked ten miles in, a refillable bottle, a bag with a zipper, and your badge, which now carries most event tickets. Gen Con runs four days in downtown Indianapolis, with the next show set for [August 5–8, 2027](https://www.gencon.com/). You will be on your feet for most of it, in air conditioning that swings from cold to stale, carrying more than you planned.
 
 This list is organized by the problem each item solves. Pack for the problems and the rest takes care of itself.
 
@@ -15,10 +15,10 @@ This list is organized by the problem each item solves. Pack for the problems an
 Start with the things that cannot be replaced at a Target on the way.
 
 - **Your badge or your Will Call confirmation.** If you chose Ship to Me, the badge comes in the mail after the June deadline. If you chose Will Call, Gen Con says [Will Call opens at noon on the Wednesday before the convention](https://www.gencon.com/gen-con-indy/your_badge), and you need a government-issued photo ID to claim your packet.
-- **Event tickets.** Paper or on your phone. If your phone dies in the Exhibit Hall, paper still works.
+- **Event tickets.** Most events use e-tickets, scanned from your badge. Some still use paper tickets, which come in your badge packet. Bring those.
 - **Your hotel confirmation and a credit card.** Hotels in the Gen Con block charge a deposit of one night plus tax, and most downtown hotels want a card on file at check-in.
 - **A photo ID.** For Will Call, for the hotel, and for any event that checks age.
-- **A Child Wristband registration if you are bringing kids.** Gen Con requires that [every child in attendance be registered for a Child Wristband](https://www.gencon.com/gen-con-indy/your_badge), and children 11 and older need a full badge.
+- **A Child Wristband registration if you are bringing kids.** Gen Con requires that [every child 10 and under be registered for a Child Wristband](https://www.gencon.com/gen-con-indy/your_badge), and children 11 and older need a full badge.
 
 Put all of these in one envelope or one phone folder the week before. The worst Gen Con morning is the one spent searching an inbox at 7 a.m.
 
@@ -30,7 +30,7 @@ A few rules from people who have gotten it wrong:
 
 1. **Zippers, not open totes.** Open bags spill when you crouch at a demo table, and they invite loss in a crowd.
 2. **Two straps.** A single-strap messenger bag is fine for a day. By Saturday, your shoulder will tell you otherwise.
-3. **Room for a game box, but not three.** If you buy a big box in the Exhibit Hall, carry it to your hotel or the coat check rather than hauling it to events all day.
+3. **Room for a game box, but not three.** If you buy a big box in the Exhibit Hall, carry it to your hotel or the bag check rather than hauling it to events all day.
 4. **A side pocket for the water bottle.** You will refill it more often than you expect.
 
 A plain 20-liter daypack does all of this. Some people add a packable tote folded flat inside for the one afternoon they buy more than they meant to.
@@ -39,7 +39,7 @@ A plain 20-liter daypack does all of this. Some people add a packable tote folde
 
 These three categories cover most of the misery at any convention.
 
-**Shoes.** Bring two pairs you have already broken in, and alternate days. The Indiana Convention Center floor is concrete under thin carpet. Blisters start on Thursday afternoon and ruin Friday. Pack moleskin or blister bandages. Compression socks sound like overkill until you try them.
+**Shoes.** Bring two pairs you have already broken in, and alternate days. The Indiana Convention Center has long stretches of hard floor. Blisters start on Thursday afternoon and ruin Friday. Pack moleskin or blister bandages. Compression socks sound like overkill until you try them.
 
 **Water.** The convention center has fountains, and a refillable bottle beats paying for a new one every two hours. A 24-ounce bottle is the right size: big enough to matter, small enough to fit a side pocket.
 
@@ -62,7 +62,7 @@ Here is the short list, with the reason each one earns its place.
 | Cash in small bills | Some small vendors and artists prefer it, and it speeds up a line. |
 | Earplugs | For the hotel, and for the loud end of the Exhibit Hall. |
 | Lip balm and lotion | Convention air is dry in a way you notice by Friday. |
-| A small lock or luggage tag | For the coat check and for a bag you set under a table. |
+| A small lock or luggage tag | For the bag check and for a bag you set under a table. |
 
 Everything in this table fits in a quart bag. None of it is optional by day three.
 
@@ -107,15 +107,15 @@ The game is the reason. The people are the point. Pack for the people you will m
 
 ### Can I bring my own food into the Indiana Convention Center?
 
-Snacks in a bag are common and Gen Con's published [attendee policies](https://www.gencon.com/attend/policies) do not restrict them, though Lucas Oil Stadium has its own rules at the door. Check the current policies page before relying on bringing in full meals.
+Snacks in a bag are common, and Gen Con's [attendee policies](https://www.gencon.com/attend/policies) do not address outside food. Check the current policies page before relying on bringing in full meals.
 
 ### Is there a coat check or bag check at Gen Con?
 
-Yes. Gen Con runs a paid bag check through a locker vendor in [room 231 on the second floor of the convention center](https://www.gencon.com/attend/policies), open 9 a.m. to 7 p.m. Thursday through Saturday and 9 to 4 on Sunday; advance reservations were $10 per bag per day for 2026, with space limited and bags due back each day. Confirm the price on the current year's policies page.
+Yes. Gen Con runs a paid bag check through a locker vendor in [room 231 on the second floor of the convention center](https://www.gencon.com/attend/policies), open 9 a.m. to 7 p.m. Thursday through Saturday and 9 to 4 on Sunday; advance reservations were $10 per bag per day for 2026, and a bag left overnight is charged another day. Bring your badge and a photo ID. Confirm the price on the current year's policies page.
 
 ### Do I need to print my event tickets?
 
-Gen Con tickets can be shown from your account on your phone, but a paper backup costs nothing and works when your battery does not.
+Most events scan your badge, so no printout or phone is needed. Paper-ticketed events need the paper ticket from your packet.
 
 ### How much walking is Gen Con, really?
 
