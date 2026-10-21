@@ -18,8 +18,8 @@ Our standard for "keep" is that the card beats a named incumbent on the slot com
 |---|---|---|---|---|
 | Erode ({W}, instant) | Secrets of Strixhaven | W / 1 / removal | A conditional two-mana white removal spell | One mana, hits walkers, destroys rather than exiles. White needed a third one-mana answer. |
 | Bitterbloom Bearer ({B}{B}, 1/1 flash flyer) | Lorwyn Eclipsed | B / 2 / engine | A three-mana black value creature | A second Bitterblossom. Blocks, carries Equipment, is a Faerie. |
-| Bloom Tender ({1}{G}, dork) | Lorwyn Eclipsed (reprint) | G / 2 / mana | A colorless two-mana rock | Taps for two in any two-color deck from turn three. |
-| Emeritus of Conflict ({1}{R}, 2/2 first strike) | Secrets of Strixhaven | R / 2 / aggro | A vanilla-adjacent red two-drop | Playable body; a free Lightning Bolt on the turns red spells decks go off. |
+| Bloom Tender ({1}{G}, dork) | Lorwyn Eclipsed (reprint) | G / 2 / mana | A colorless two-mana rock | Taps for two once you control permanents of both your colors. |
+| Emeritus of Conflict ({1}{R}, 2/2 first strike) | Secrets of Strixhaven | R / 2 / aggro | A vanilla-adjacent red two-drop | Playable body; an extra Lightning Bolt on the turns red spells decks go off. |
 | Stingcaster Mage ({1}{R}, 2/1 haste) | Reality Fracture | R / 2 / aggro | A three-mana red spells payoff | Haste on turn two, Bolt from the graveyard on turn four. |
 | Smaug the Magnificent ({2}{R}{R}, 4/3 flying haste) | The Hobbit | R / 4 / finisher | A five-mana red dragon | Hasty flier that ramps and burns. Closes games the turn after it lands. |
 
@@ -45,37 +45,37 @@ The pattern is the same as every year: cards that need a specific supporting lan
 Some cards we would neither keep nor pass on paper as this is written in October. These are the ones we would run through three drafts before deciding.
 
 - **The Theorist, Jace Beleren** ({2}{U}{U}, Reality Fracture). Draws every opponent's draw step. Strong on paper and probably not oppressive. Leaning keep.
-- **Super Shredder** ({1}{B}, TMNT). A menace one-drop body that grows whenever anything leaves. Good in sacrifice decks, a bear elsewhere. Leaning keep as the sacrifice lane's two-drop.
+- **Super Shredder** ({1}{B}, TMNT). A 1/1 menace for two that grows whenever another permanent leaves. Good in sacrifice decks, a bear elsewhere. Leaning keep as the sacrifice lane's two-drop.
 - **Deceit** ({4}{U/B}{U/B}, Lorwyn Eclipsed). The one Incarnation that matters. Expect it to be evoked on turn two far more often than cast. Leaning keep.
 - **The Mind Stone** ({1}{W}, Marvel Super Heroes). White control players will love it; nobody else will draft it. That is fine for a rock. Leaning keep.
 - **Casey Jones, Vigilante** ({1}{R}{R}, TMNT). A 4/3 that draws three for three mana. The random discard will cost games. Undecided.
 - **Darklight Phoenix** ({3}{B}, Reality Fracture). Too new to call; it depends on how many creatures die per turn in your black decks.
-- **Garruk, Veiled Butcher** ({3}{B}{B}, Reality Fracture). Also new. The +2 should kill a two-drop most games it is played.
+- **Garruk, Veiled Butcher** ({3}{B}{B}, Reality Fracture). Also new. The +2 kills an X/1 and blanks a bigger attacker until your next turn.
 
 ## What did the year teach us about reading sets?
 
 Three lessons we are writing into the primer.
 
-**Universes Beyond sets are now Standard sets.** Three of the six releases this year carried a licensed property, and Wizards' collecting articles describe each of [Teenage Mutant Ninja Turtles](https://magic.wizards.com/en/news/feature/collecting-teenage-mutant-ninja-turtles), Marvel Super Heroes and The Hobbit as legal in all formats. If your cube's policy is "no Universes Beyond," you skipped half the year's new cards, including Smaug and the Mind Stone. That is a defensible choice, and it should be a deliberate one. We discuss the policy question in [supplemental sets and cube](/articles/supplemental-sets-for-cube/).
+**Universes Beyond sets are now Standard sets.** Three of the six releases this year carried a licensed property, and Wizards' collecting articles describe each of [Teenage Mutant Ninja Turtles](https://magic.wizards.com/en/news/feature/collecting-teenage-mutant-ninja-turtles), Marvel Super Heroes and The Hobbit as legal in all formats. If your cube's policy is "no Universes Beyond," you skipped half the year's sets, including Smaug and the Mind Stone. That is a defensible choice, and it should be a deliberate one. We discuss the policy question in [supplemental sets and cube](/articles/supplemental-sets-for-cube/).
 
-**Prepare and sneak are the mechanics that travelled.** Both put a known effect on a creature body, so the slot comparison was easy. Mechanics that need density, like empower Jace, choose-a-creature-type, and Hero tribal, produced zero keeps across all six sets. When a new mechanic appears, ask whether a single copy of the card does something. If not, skip the whole mechanic.
+**Prepare is the mechanic that travelled.** It puts a known spell on a creature body, so the slot comparison was easy. Mechanics that need density, like empower Jace, choose-a-creature-type, and Hero tribal, produced zero keeps across all six sets. When a new mechanic appears, ask whether a single copy of the card does something. If not, skip the whole mechanic.
 
 **Reprints are good news and not new cards.** Chandra, Torch of Defiance and Tarmogoyf in Reality Fracture, Bloom Tender and five shock lands in Lorwyn Eclipsed, and the five Innistrad slow lands in Secrets of Strixhaven all came back this year at Standard prices; [MTGGoldfish's set indexes](https://www.mtggoldfish.com/index/FRA-main_set) list each of them in the main set. None of that changes a list that already runs them, and all of it makes the budget version of a cube cheaper to build. If you are building a first cube now, the year's reprints are a real gift.
 
 ## How did each set rank for cube?
 
-A rough ordering by our keeps plus the cards we would still test.
+A rough ordering by our keeps plus the shortlist cards we would still test (the set reviews list more tests).
 
 | Set | Release | Keeps | Tests | Verdict |
 |---|---|---|---|---|
-| Secrets of Strixhaven | April 24 | 2 | 1 | Best set of the year for cube |
+| Secrets of Strixhaven | April 24 | 2 | 0 | Best set of the year for cube |
 | Lorwyn Eclipsed | January 23 | 2 | 1 | Strong, on the strength of two-drops |
 | Reality Fracture | October 2 | 1 | 3 | Too early; could finish first |
-| The Hobbit | August 14 | 1 | 1 | Good for a crossover |
+| The Hobbit | August 14 | 1 | 0 | Good for a crossover |
 | Teenage Mutant Ninja Turtles | March 6 | 0 | 2 | Modest |
 | Marvel Super Heroes | June 26 | 0 | 1 | Lots of near-misses |
 
-Reality Fracture may move up: it has the most cheap planeswalkers of any set in years and the two-drop creatures are strong. Ask us again in January.
+Reality Fracture may move up: it has eight planeswalkers, four of them at four mana or less, and the two-drop creatures are strong.
 
 ## FAQ
 
@@ -97,4 +97,4 @@ Red, with three keeps, all aggressive creatures. Black and white got one new kee
 
 ## Get next year's reviews first
 
-Every set review in this series goes out in the newsletter the week the set drops, and the year-end follow-up like this one goes out in January. Subscribe, and if you are near Indianapolis, [draft with Cube Commonwealth](/articles/cube-draft-indianapolis/) and help us settle the test calls. The game is the reason. The people are the point.
+Subscribe to The Ludarium newsletter for new cube pieces, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, sets its first night as part of The Ludarium. The game is the reason. The people are the point.
