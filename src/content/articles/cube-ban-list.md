@@ -1,10 +1,10 @@
 ---
 title: "Does Your Cube Need a Ban List?"
 description: "Does your cube need a ban list? Usually not, since a cube is already a list. When a written exclusion rule does help, what belongs on it, and how to word it."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube ban list", "cube banned cards", "cube exclusion rules", "cube restricted list", "cube house rules", "cube primer rules", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 A cube ban list sounds redundant. A cube is already a list; anything not in it is already banned. And yet most well-run cubes carry a short written set of exclusions, because the list of what is in changes every month and the reasons for what stays out should not. The useful question is not "should I have a ban list" but "which exclusions are rules and which are just this season's cuts."
 
@@ -28,7 +28,7 @@ Most written exclusion rules fall into six categories. Each one is a line you ca
 
 **Mechanics that do not work at a table.** Conspiracy draft-matters cards (Cogwork Librarian is the exception many cubes keep). Cards with dexterity or outside-the-game effects: Chaos Orb, Falling Star, the Wish cycle (Burning Wish, Cunning Wish, Living Wish, each of which fetches a card from outside the game, which cube has no rule for). Ante cards. Cards that reference a sideboard in a format where the sideboard is the whole draft pool.
 
-**Mechanics that do not work in singleton.** Cards that search for other copies of themselves (Squadron Hawk, Relentless Rats) or for a specific named card the cube does not contain.
+**Mechanics that do not work in singleton.** Cards that only work with several copies of themselves (Squadron Hawk searches for its copies; Relentless Rats needs a stack of them) or that search for a specific named card the cube does not contain.
 
 **Lock pieces and prison.** Many cubes write a rule against cards whose main effect is stopping the opponent from playing: Winter Orb, Stasis, Armageddon, Blood Moon, Trinisphere, Smokestack. These are not too strong in the abstract. They are excluded because a game where one player cannot untap is a game one of two people is enjoying. This is the category where the rule is about feel, and it is the one most worth writing down so drafters know it is deliberate.
 
@@ -38,7 +38,7 @@ Most written exclusion rules fall into six categories. Each one is a line you ca
 
 ## What should stay off the exclusion list?
 
-Anything you might want to test again. Oko, Thief of Crowns is the usual example. It is strong enough that many unpowered cubes leave it out, and it is also the kind of card that comes back when the format shifts. Wizards [banned it in Legacy](https://magic.wizards.com/en/articles/archive/news/february-15-2021-banned-and-restricted-announcement), the Constructed format, in February 2021; the MTGO Vintage Cube has [kept it in the list](https://www.mtgo.com/news/mtgo-vintage-cube-12142023) for years. A card that can move between cubes of adjacent power levels is a cut, not a ban.
+Anything you might want to test again. Oko, Thief of Crowns is the usual example. It is strong enough that many unpowered cubes leave it out, and it is also the kind of card that comes back when the format shifts. Wizards [banned it in Legacy](https://magic.wizards.com/en/news/announcements/february-15-2021-banned-and-restricted-announcement), an eternal Constructed format, in February 2021; the MTGO Vintage Cube has [kept it in the list](https://www.mtgo.com/vintage-cube-cardlist) for years. A card that can move between cubes of adjacent power levels is a cut, not a ban.
 
 The same goes for single planeswalkers, single draw engines and single combo pieces. If the reason is "this card is too strong for this cube right now," it goes in the changelog with a date. If the reason is "cards that do this will always be too strong for what this cube is for," it goes on the list.
 
@@ -91,4 +91,4 @@ In the primer, in prose, next to the power level statement. A rule a drafter can
 
 ## Write yours in three sentences
 
-If you cannot state your cube's exclusions in three sentences, the list is doing the work the design should do. Cube Commonwealth keeps its rules short and argues about the cuts instead, every week in Indianapolis; [join a draft](/articles/cube-draft-indianapolis/) and see them in practice. Subscribe to The Ludarium newsletter for new cube design pieces. The game is the reason. The people are the point.
+If you cannot state your cube's exclusions in three sentences, the list is doing the work the design should do. Keep the rules short and argue about the cuts instead. Subscribe to The Ludarium newsletter for new cube pieces, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, sets its first night as part of The Ludarium. The game is the reason. The people are the point.

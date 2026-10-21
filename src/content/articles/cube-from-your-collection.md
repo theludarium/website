@@ -1,14 +1,14 @@
 ---
 title: "Cube From Collection: Build With Cards You Already Own"
 description: "A cube from collection is the cheapest cube there is. How to sort boxes into a 360-card skeleton, pick a power band your cards support, and fill gaps."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube from collection", "build a cube from bulk", "free cube", "cube from draft leftovers", "sorting a collection for cube", "no-buy cube", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 A cube from collection is the one most Magic players could build this month for nothing. The boxes of draft leftovers in the closet already hold hundreds of playable cards. What they lack is a structure, and structure is free. This article is about sorting what you own into a cube that drafts well, deciding the power level your collection can actually support, and spending money only on the handful of holes that matter.
 
-We have watched a dozen Cube Commonwealth members do this, and the ones who succeed share one habit: they let the collection pick the power level, instead of picking a power level and discovering the collection cannot pay for it.
+Plenty of people build a cube this way, and the ones who succeed share one habit: they let the collection pick the power level, instead of picking a power level and discovering the collection cannot pay for it.
 
 ## Which power level does your collection support?
 
@@ -72,7 +72,7 @@ Write down the placeholders as you go. That list becomes your first shopping lis
 
 | | Collection cube | Purchased list |
 |---|---|---|
-| Cost | Near zero, plus gap fills | A few hundred dollars for peasant through budget rare; a 450-card Pauper list on [CubeCobra](https://cubecobra.com/cube/overview/mattspaupercube) prices near $245 at the time of writing |
+| Cost | Near zero, plus gap fills | A few hundred dollars for peasant through budget rare; a 450-card Pauper list on CubeCobra ([The Pauper Cube](https://cubecobra.com/cube/overview/thepaupercube)) totals roughly $150 to $200 at the time of writing |
 | Time to build | Two or three weekends of sorting | One weekend once cards arrive |
 | Balance at first draft | Lumpy; some colors deeper than others | Usually tested by the list's owner |
 | Identity | Yours from day one | Someone else's, until you edit |
@@ -106,4 +106,4 @@ If they are not much stronger than the uncommons around them, yes. If a rare win
 
 The cards are there. The structure is a free weekend. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for new cube-building pieces, including the sort-and-fill templates we use with new members. If you are in Indianapolis, bring your collection cube to a Cube Commonwealth draft; see [how to join](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for new cube-building pieces. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

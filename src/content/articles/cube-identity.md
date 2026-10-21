@@ -1,10 +1,10 @@
 ---
 title: "Cube Identity: Giving a Cube Drafters Remember"
 description: "Cube identity is what makes drafters say 'that cube' instead of 'a cube.' The four places identity lives, with examples, and why a plain staples list has none."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube identity", "memorable cube design", "what makes a cube unique", "cube personality", "cube design philosophy", "cube house style", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Cube identity is the thing a drafter can describe about your cube a month after playing it. "That's the one where Boros is always open." "That's the one with the Sneak Attack deck." "That's the one with no planeswalkers." If nobody can finish the sentence "that's the one where...", the cube does not have an identity yet. It has a list.
 
@@ -16,7 +16,7 @@ Two practical reasons, before the sentimental one.
 
 First, identity is what makes a cube draftable by regulars. A drafter who knows that your Golgari is a graveyard lane and your Izzet is a spells lane can draft with intent from pick one. A cube that is a different set of good cards every month cannot be learned, and a cube that cannot be learned rewards nothing but raw card evaluation.
 
-Second, identity is what makes a cube worth choosing. There are [more than 100,000 cubes on CubeCobra](https://luckypaper.co/articles/the-history-of-the-cube-format/). The ones that get drafted by people who do not own them tend to be the ones that do something specific: the Pauper Cube, the Vintage Cube, the well-known themed lists. A generic unpowered 540 is competing against every other generic unpowered 540, and the MTGO version is free.
+Second, identity is what makes a cube worth choosing. There are [more than 100,000 cubes on CubeCobra](https://luckypaper.co/articles/the-history-of-the-cube-format/). The ones that get drafted by people who do not own them tend to be the ones that do something specific: the Pauper Cube, the Vintage Cube, the well-known themed lists. A generic unpowered 540 is competing against every other generic unpowered 540, and the MTGO Vintage Cube list is free to copy.
 
 The sentimental reason is the real one. A cube with an identity is the owner's, and the group's, in a way a copied list is not. It is the difference between hosting a draft and hosting your draft.
 
@@ -70,9 +70,9 @@ Three things, in our experience, and they are all well-intentioned.
 
 ## How do you know it is working?
 
-Listen for the sentence. When a drafter at a different cube says "this reminds me of the Commonwealth cube because..." the "because" is your identity. When someone new sits down and a regular explains the cube to them in two sentences, those two sentences are your identity. If the regular says "it's an unpowered 540," keep working.
+Listen for the sentence. When a drafter at a different cube says "this reminds me of your cube because..." the "because" is your identity. When someone new sits down and a regular explains the cube to them in two sentences, those two sentences are your identity. If the regular says "it's an unpowered 540," keep working.
 
-Cube Commonwealth's answer, after several years, is something like: a 540 where aggro is real, the sacrifice and reanimator decks are deep, and nothing in it will make a new player feel stupid. That took us a while to say. It took longer to make true. But it is why the list is ours and not a download.
+A good answer sounds something like: a 540 where aggro is real, the sacrifice and reanimator decks are deep, and nothing in it will make a new player feel stupid. That takes a while to say, and longer to make true. But it is why a list is yours and not a download.
 
 ## FAQ
 
@@ -96,4 +96,4 @@ Usually a year or more of regular drafting with the same core group. Identity co
 
 Every cube worth driving to is "the one where" something. Decide what yours is, commit to it in the list, and let your drafters finish the sentence for you. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that play it. If you are near Indianapolis, draft ours and tell us what it is the one where, at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that play it. If you are near Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

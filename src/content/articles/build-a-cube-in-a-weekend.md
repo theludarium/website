@@ -1,14 +1,14 @@
 ---
 title: "Build a Cube Fast: A Draftable Cube in One Weekend"
 description: "Build a cube fast with a weekend plan: copy a skeleton on Friday, pull cards on Saturday, sleeve and test draft on Sunday. A draftable cube by Sunday night."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["build a cube fast", "weekend cube build", "cube skeleton", "first cube checklist", "360 card cube", "cube test draft", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 You can build a cube fast if you stop treating it as a design project and treat it as an assembly job. Friday night you pick a skeleton and a list. Saturday you pull and buy cards. Sunday you sleeve, you draft it once, and you write down what broke. The cube that exists on Sunday night is worth more than the perfect cube that never leaves the spreadsheet.
 
-This is the plan we give new members of Cube Commonwealth who want to bring a cube to the table within the week. It assumes a 360-card cube at peasant or budget-legacy power. If you want the longer, more deliberate version, start with [how to build your first cube](/articles/how-to-build-a-cube-mtg/) and come back here when you are ready to sprint.
+This is a plan for anyone who wants to bring a cube to the table within the week. It assumes a 360-card cube at peasant or budget-legacy power. If you want the longer, more deliberate version, start with [how to build your first cube](/articles/how-to-build-a-cube-mtg/) and come back here when you are ready to sprint.
 
 ## Why a weekend, and not a month?
 
@@ -32,7 +32,7 @@ A skeleton is the empty structure of the cube, before any card names. For a 360-
 | Lands | 40 | Mostly dual lands, 4 per pair |
 | **Total** | **360** | |
 
-Ryan Overturf's piece on [cards per color in cube design](https://articles.starcitygames.com/magic-the-gathering/cards-per-color-finding-your-numbers-in-magic-cube-design/) argues for 50 to 60 lands in a 360 cube and about five gold cards per color pair. We land at 40 lands for a weekend build because budget dual-land cycles are the first thing people run short on; grow the land count later if drafters complain about mana.
+Ryan Overturf's piece on [cards per color in cube design](https://articles.starcitygames.com/magic-the-gathering/cards-per-color-finding-your-numbers-in-magic-cube-design/) argues for 50 to 60 lands in a 360 cube and about five gold cards per color pair. He sets 60 as the real minimum when every land fixes only two colors, so expect to grow toward that. We land at 40 lands for a weekend build because budget dual-land cycles are the first thing people run short on; grow the land count as drafters complain about mana.
 
 Then decide one thing per archetype. Write ten lines, one per color pair, each naming the plan: white-blue flyers, blue-black control, black-red sacrifice, red-green ramp, green-white go-wide, white-black aristocrats, blue-red spells, black-green graveyard, red-white aggro, green-blue ramp or value. The lanes are described in detail in the ten two-color lanes. You are not inventing anything tonight. You are writing down defaults.
 
@@ -44,7 +44,7 @@ Saturday is physical work. Set up five piles by color plus gold, colorless, and 
 
 For the gaps, you have three options in order of speed:
 
-1. **Buy the missing cards as one order** from a single store with a cart-optimizer, so they arrive together. For scale, a full 450-card Pauper list on CubeCobra prices at roughly $245 at the time of writing ([CubeCobra](https://cubecobra.com/cube/overview/mattspaupercube)), so filling the gaps in a 360 peasant list from a half-complete collection usually comes in around $100 or less.
+1. **Buy the missing cards as one order** from a single store with a cart-optimizer, so they arrive together. For scale, a full 450-card Pauper list on CubeCobra ([The Pauper Cube](https://cubecobra.com/cube/overview/thepaupercube)) totals roughly $150 to $200 at the time of writing, so filling a half-complete 360 pauper list usually costs under $100. A peasant list with uncommons can cost twice that.
 2. **Substitute from your collection.** If the list wants a two-mana red creature with haste and you own a different two-mana red creature with haste, swap it. Same color, same mana value, same role. Do not swap a two-drop for a five-drop because the five-drop is cooler.
 3. **Proxy the stragglers** on plain paper for the test draft, and replace them when the order arrives. If that bothers you, read the piece on proxy etiquette; for a private test draft nobody minds.
 
@@ -83,7 +83,7 @@ You now have a cube, a list, a test, and a changelog. That is more than most cub
 
 A weekend cube is not the place for a theme, a restriction, or a clever power band. No tribal cube, no "only cards from 1996 to 2003," no three-color archetype map. Every one of those is a good second cube. As a first cube they multiply the decisions and the weekend runs out before the cards are sleeved.
 
-It should also not try to be finished. A cube is a living list. The cube Commonwealth drafts today has turned over a large share of its cards since the version from a few years ago. The weekend gets you to version one. Versions two through forty are the hobby.
+It should also not try to be finished. A cube is a living list. A cube drafted every week for a few years usually turns over a large share of its cards. The weekend gets you to version one. Versions two through forty are the hobby.
 
 ## FAQ
 
@@ -107,4 +107,4 @@ No. Powered and high-end unpowered cubes depend on expensive cards and a lot of 
 
 A cube that is drafted is a cube that improves. Get yours to the table, then let the table tell you what to change. The game is the reason. The people are the point.
 
-If you want one cube idea in your inbox, from skeletons to cut lists, subscribe to The Ludarium newsletter. And if you are near Indianapolis, bring the weekend cube to a Cube Commonwealth night and we will draft it with you. Details on [joining Cube Commonwealth](/articles/cube-draft-indianapolis/).
+If you want cube ideas in your inbox, from skeletons to cut lists, subscribe to The Ludarium newsletter. And if you are near Indianapolis, you will hear first when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, sets its first night as part of The Ludarium.
