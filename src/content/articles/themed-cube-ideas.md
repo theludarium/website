@@ -1,10 +1,10 @@
 ---
 title: "Themed Cube Ideas: Set Cubes, Tribal Cubes, and More"
 description: "Themed cube ideas that hold up at a weekly table: set cubes, tribal cubes, graveyard cubes, and budget cubes, plus the design rules that keep each one fun."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["themed cube", "set cube", "tribal cube", "constrained cube", "cube design ideas", "Innistrad cube", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 A themed cube is a cube built around a constraint instead of around raw card quality: every card from one plane, every creature a member of a tribe, every spell at a single mana value, every card printed before 1998. The constraint is the point. It produces drafts that a "best cards" cube cannot, and it gives a cube owner a reason to build a second box that is not just a worse version of the first.
 

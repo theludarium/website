@@ -1,10 +1,10 @@
 ---
 title: "Nostalgia in Cube: Old Cards and Why They Belong"
 description: "Old cards in cube earn their slots differently. Which classics still play, which are there for the memory, and how to keep both without building a museum."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["old cards in cube", "nostalgia cube", "classic Magic cards in cube", "Shivan Dragon cube", "cube card history", "cube design philosophy", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Old cards in a cube are there for one of two reasons, and the owner should know which. Some are old and still good: Lightning Bolt, Swords to Plowshares, Counterspell, Wrath of God, Dark Ritual. They would be in the cube if they were printed yesterday. Others are old and loved: Shivan Dragon, Serra Angel, Sengir Vampire, Erhnam Djinn. They are in because someone at the table will see them and remember being eleven.
 

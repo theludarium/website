@@ -1,10 +1,10 @@
 ---
 title: "Lucky Paper Cube Design: What It Taught Everyone"
 description: "Lucky Paper cube design turned taste into method: four questions, the Vindicate Test, land data from 75,000 decks, and the Cube Map. The ideas, with sources."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["Lucky Paper cube", "Lucky Paper Radio", "cube design philosophy", "Cube Map", "Vindicate Test", "how many lands in a cube", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Lucky Paper is a small Magic site and podcast that, over about seven years, did more to turn cube design into a discipline than any card list ever has. The Lucky Paper cube writing gave the hobby a shared set of questions, a few named tests, and the first large data sets about how cubes actually get drafted. The site's [about page](https://luckypaper.co/about/) names four people behind it: Andy Mangold, Jett Crowdis, Anthony Mattox and Parker LaMascus.
 

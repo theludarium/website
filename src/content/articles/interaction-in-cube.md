@@ -1,10 +1,10 @@
 ---
 title: "Interaction Density and Why Cube Games Feel Good"
 description: "Cube interaction density decides whether games feel like real games or races. How much removal your cube needs, and why the mix matters more than the raw count."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube interaction", "interaction density", "cube removal count", "counterspells in cube", "cube game feel", "cube design philosophy", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Cube interaction is the set of cards that let one player affect what the other is doing: removal, counterspells, discard, bounce, combat tricks, and the creatures that fight. How many of those cards a cube carries, and which kinds, decides more about how the games feel than any other single design choice. Too little and every game is two players goldfishing at each other. Too much and nothing sticks and nobody gets to do their thing.
 

@@ -1,10 +1,10 @@
 ---
 title: "Commander Cards in Cube: Supplemental Sets, Masters, UB"
 description: "Commander cards in cube, Modern Horizons, Masters reprints and Universes Beyond: which supplemental sets produce real cube cards and how to review them."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["Commander cards in cube", "supplemental sets cube", "Modern Horizons cube", "Masters sets cube", "Universes Beyond cube policy", "non-Standard cube cards", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Commander cards in cube are a question every owner answers eventually, usually the first time a friend hands them a Commander-only card and asks why it is not in the list. The answer is that supplemental sets follow different rules from Standard sets, both in how they are designed and in how a cube should read them. Some of the most important cube cards of the last decade came from non-Standard products. Most cards in those same products are built for four-player, 40-life games and do nothing in a draft. This article is how we sort them.
 

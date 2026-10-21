@@ -1,10 +1,10 @@
 ---
 title: "What Is Your Cube For? The Question Before Every Card"
 description: "Cube design philosophy starts with one question: what is this cube for? How purpose decides power level, archetypes, and which cards get cut from the list."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube design philosophy", "cube design goals", "what makes a good cube", "cube purpose", "cube owner decisions", "how to design a cube", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Every cube design philosophy fits in one sentence, and the sentence is an answer to a question: what is this cube for? Not "what power level" or "which archetypes," those come later. The first question is who sits down to draft it, how often, and what you want them to feel when they shuffle up. Answer that and most card decisions answer themselves. Skip it and you end up with a list of good cards and no idea why Mana Leak beats Counterspell for the slot.
 

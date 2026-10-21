@@ -1,10 +1,10 @@
 ---
 title: "Tribal Cube: Every Deck Has a Creature Type"
 description: "How to build a tribal cube where every deck has a creature type: how many tribes, members, and payoffs per tribe, where changelings go, and lessons from Lorwyn."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["tribal cube", "tribal cube design", "typal cube", "Lorwyn cube", "changelings in cube", "creature type cube", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 A tribal cube is a cube where the archetypes are creature types instead of strategies. Elves are the ramp deck. Goblins are the aggro deck. Zombies grind, Merfolk tempo, Spirits fly. A drafter who picks up a Goblin lord on pick two knows exactly what the next 43 picks are for, which makes tribal cubes the easiest kind of cube to draft on sight and one of the hardest to build correctly.
 

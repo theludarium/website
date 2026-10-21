@@ -1,10 +1,10 @@
 ---
 title: "Themed Cube Primer: Writing One for a Restricted Cube"
 description: "A themed cube primer must explain the restriction first. How to state the rule precisely, say what it costs, and redraw the archetype section around it."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["themed cube primer", "restricted cube primer", "pauper cube primer", "set cube primer", "tribal cube primer", "cube restriction rules", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 A themed cube primer carries one job a standard primer does not: it has to explain the restriction before a drafter can understand anything else. A Pauper cube, a set cube, a tribal cube, a cube with no cards printed after 2003, an artifact cube: in each, the rule that limits the card pool also rewrites what the archetypes are, what "a good card" means, and which questions the FAQ will field every week.
 

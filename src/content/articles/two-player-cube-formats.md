@@ -1,10 +1,10 @@
 ---
 title: "Winston Draft, Grid, and Winchester: Two-Player Cube"
 description: "Winston draft, Grid draft, and Winchester draft explained step by step: card counts, how picks work, and which two-player cube format fits your night."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["Winston draft", "grid draft", "Winchester draft", "two-player cube", "2 player draft MTG", "cube with two players", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Winston draft is the oldest and best-known way to draft a cube with two people: a shared stack of cards, three small face-down piles, and a series of take-it-or-pass decisions that turn into a forty-card deck. Grid draft and Winchester draft solve the same problem differently, with open information and fewer blind picks. All three turn a cube built for eight into a great evening for two.
 

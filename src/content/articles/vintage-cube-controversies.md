@@ -1,10 +1,10 @@
 ---
 title: "Vintage Cube Controversies: The Arguments That Last"
 description: "Vintage Cube controversies on MTGO, dated and sourced: the 2023 overhaul, Time Vault, Hullbreacher, mid-league changes, packages, and the long fight over aggro."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["Vintage Cube controversy", "Vintage Cube Time Vault", "Vintage Cube Hullbreacher", "MTGO cube criticism", "Vintage Cube 2023 overhaul", "Ryan Overturf Vintage Cube", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Every Vintage Cube controversy is the same argument in a different costume: is the MTGO Vintage Cube a museum of Magic's most powerful cards, or a play environment that happens to contain them? The August 2023 overhaul answered that question in writing, and most of the fights since have been about what follows from the answer.
 

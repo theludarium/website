@@ -1,10 +1,10 @@
 ---
 title: "Power Creep and Cube: What to Do About It"
 description: "Power creep is rewriting cubes: the 2019-onward cards that reset every band, what the MTGO Vintage Cube's updates show, and four ways an owner can respond."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["power creep cube", "power creep Magic", "Modern Horizons cube", "cube power level drift", "keeping a cube current", "cube updates power creep", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Power creep in cube is not a complaint; it is a maintenance fact. The cards printed since 2019 are stronger per mana than the cards printed before, and a cube that updates every set drifts upward in power without anyone deciding it should. A Legacy-band cube built in 2015 and kept current is a different cube now, and the difference is not the cards it added. It is the cards those additions made obsolete.
 

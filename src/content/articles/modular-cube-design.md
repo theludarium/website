@@ -1,10 +1,10 @@
 ---
 title: "Modular Cube Design: Swappable Sections"
 description: "Modular cube design: a fixed core plus swappable modules that change the draft from night to night. How to size the core and build modules that fit cleanly."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["modular cube", "cube modules", "swappable cube sections", "cube core and modules", "flexible cube design", "one cube many formats", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 A modular cube is one fixed core of cards plus two or more labeled modules that can be added or swapped to change the draft. Monday's casual night gets the core plus the low-power module. Saturday's grudge match gets the core plus power and fast mana. New-player night gets the core alone. The cube is one box, the maintenance is one list, and the group gets several formats without the owner building several cubes.
 

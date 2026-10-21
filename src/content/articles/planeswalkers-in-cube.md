@@ -1,10 +1,10 @@
 ---
 title: "Planeswalkers in Cube: How Many Is Too Many?"
 description: "Planeswalkers in cube: why they stack up fast, which ones still earn a slot at each mana value, a per-color count that works, and the signs you have too many."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["planeswalkers in cube", "cube planeswalker count", "best planeswalkers for cube", "Jace the Mind Sculptor cube", "Oko in cube", "planeswalker density", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Planeswalkers in cube are the card type most likely to be over-included and least likely to be noticed as the problem. Each one is a strong card. Twenty of them in a 540-card list turn every midrange game into a contest of who untaps with a walker first, and they quietly push out the creatures and spells that make games interactive. The right number is lower than most lists run, and the right ones are the cheap ones.
 

@@ -1,10 +1,10 @@
 ---
 title: "How to Write a Cube Primer People Actually Read"
 description: "How to write a cube primer people read: the document that turns a card list into a draft format. What to include, what to cut, and a section order that works."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube primer", "how to write a cube primer", "cube overview", "cube description CubeCobra", "cube primer template", "cube draft primer", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 A cube primer is the short document that tells a drafter what your cube is, what it rewards, and how your table plays it. A card list says what is in the box. The primer says why. Most primers fail for one reason: they are written for the owner, not the drafter, and they run three thousand words when the drafter has four minutes in the car before the night starts.
 

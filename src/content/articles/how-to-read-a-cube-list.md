@@ -1,10 +1,10 @@
 ---
 title: "How to Read a Cube List in Ten Minutes"
 description: "Read a cube list like a designer: count the sections, find the curve, spot the fixing, name the lanes. Examples from the MTGO Vintage and Legacy Cubes."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["read a cube list", "cube list analysis", "CubeCobra list", "cube section counts", "evaluate a cube", "cube list breakdown", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Learning to read a cube list is the fastest way to get better at building one. A list is 360 to 600 card names, and a new cube owner usually reads it the wrong way: scanning for the cards they recognize and judging the cube by whether it has their favorites. A designer reads it the way a chef reads a menu, for structure first and ingredients second.
 

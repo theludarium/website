@@ -1,10 +1,10 @@
 ---
 title: "Peasant Cube: The Uncommon Upgrade to Pauper"
 description: "Peasant cube, the uncommon upgrade to Pauper: how uncommons change a commons cube, which to run or ban, section counts for 360 and 450, and ten archetypes."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["peasant cube", "peasant cube list", "commons and uncommons cube", "peasant cube ban list", "pauper vs peasant cube", "peasant cube archetypes", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 A peasant cube allows every card printed at common or uncommon. That one extra rarity is a bigger change than it sounds. Uncommons are where Magic puts its signpost gold cards, its best Equipment, its playable planeswalkers of the last decade, and a handful of cards that were rares until a Masters set downshifted them. A peasant cube keeps the budget and the flat power curve of a pauper cube while gaining the tools to make every archetype feel finished.
 

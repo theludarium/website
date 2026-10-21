@@ -1,10 +1,10 @@
 ---
 title: "MTGO Vintage Cube: Why It Sets the Standard"
 description: "The MTGO Vintage Cube explained: how its 540 cards are chosen, who curates it, and why every paper cube ends up measured against it. Sources linked throughout."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["MTGO Vintage Cube", "Vintage Cube card list", "powered cube", "Magic Online cube", "Vintage Cube history", "Vintage Cube curators", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 The MTGO Vintage Cube is a 540-card, fully powered cube that Magic Online offers year-round in single-elimination queues, with leagues around each update, and it is the closest thing the cube world has to a shared reference point. Black Lotus, the Moxen, Ancestral Recall and the original dual lands are all in it. When cube players argue about whether a card is "cube-worthy," the unspoken question is usually whether it would make this list.
 

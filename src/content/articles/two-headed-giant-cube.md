@@ -1,10 +1,10 @@
 ---
 title: "Two-Headed Giant Cube Draft: Rules and Procedure"
 description: "Two-Headed Giant cube draft from start to finish: two cards a pick, the shared pool, 30 life, the first-turn draw rule, and what to change in your cube to fit."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["two headed giant cube", "Two-Headed Giant draft", "2HG cube", "team cube draft", "shared life total Magic", "Two-Headed Giant rules", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 A two headed giant cube draft seats four teams of two around the table, has each team take two cards from every pack, and ends with each pair building two decks from one shared pool. The games are played two against two with a shared 30-life total and simultaneous turns. It is the format that lets a veteran and a newcomer sit on the same side.
 

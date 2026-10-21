@@ -1,10 +1,10 @@
 ---
 title: "Rochester Draft for Cube: The Open-Information Format"
 description: "Rochester draft for cube, step by step: how to lay out each pack, the snake pick order, who opens next, and how long eight players need to finish the draft."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["Rochester draft", "Rochester draft rules", "open information draft", "cube draft formats", "how to Rochester draft", "draft with face-up packs", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Rochester draft opens one pack at a time, face up, in the middle of the table. Players take one card each in a snaking order until the pack is gone, then the next player opens the next pack. Nothing is hidden. You see every card your neighbors take, and they see yours.
 

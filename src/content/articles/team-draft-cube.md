@@ -1,10 +1,10 @@
 ---
 title: "3v3 Team Draft for Cube: Rules, Seating, and Scoring"
 description: "3v3 team draft for cube: alternating seats, 270 cards, how the nine matches work, scoring to five, and why every pass to an opponent changes the picks."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["team draft", "3v3 team draft", "team draft rules", "cube team draft", "six player cube draft", "team draft scoring", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Team draft seats two teams of three in alternating chairs, so every pack you pass goes to an opponent. After the draft, each player plays each of the three opponents, nine matches in all, and the first team to five match wins takes the night. It is the format where a cube group stops being eight individuals and becomes two sides.
 

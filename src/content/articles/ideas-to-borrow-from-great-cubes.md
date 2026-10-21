@@ -1,10 +1,10 @@
 ---
 title: "Ten Cube Design Ideas Worth Borrowing"
 description: "Ten cube design ideas worth stealing from the Vintage Cube, the Pauper Cube, Lucky Paper and the spotlight cubes: packages, polish passes, voting, more."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube design ideas", "cube design tips", "improve my cube", "cube update process", "archetype packages", "cube changelog ideas", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 The best cube design ideas are already in public, attached to lists you can open. This article pulls ten of them from cubes and writers we have profiled in this series: the MTGO Vintage Cube, the Legacy Cube, the Pauper Cube, Lucky Paper's writing, and the Magic Online and Arena spotlight cubes. Each one comes with its source and the version that fits a paper cube drafted by eight people once a month.
 

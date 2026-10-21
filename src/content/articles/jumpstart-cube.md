@@ -1,10 +1,10 @@
 ---
 title: "Jumpstart Cube: Pre-Built Packs, 15-Minute Setup"
 description: "How to build a Jumpstart cube: 20 themed 20-card packs, the pack formula, converting an existing cube, and why it is the fastest Magic setup there is."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["Jumpstart cube", "jumpstart pack formula", "jumpstart cube themes", "convert cube to jumpstart", "quick magic format", "two-pack decks", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 A Jumpstart cube is a box of themed 20-card half-decks. Each player grabs two, shuffles them together, and has a 40-card deck in the time it takes to find dice. No draft, no deckbuilding, no forty-five minutes of picks before anyone casts a spell. For a weeknight when two people show up late and one has to leave early, a Jumpstart cube is the format that still gets played.
 

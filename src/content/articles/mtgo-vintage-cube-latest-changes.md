@@ -1,10 +1,10 @@
 ---
 title: "Vintage Cube Changes, October 2026: All 35 Swaps"
 description: "The October 7, 2026 Vintage Cube changes explained: 35 swaps, madness out, landfall and Bomberman in, and a red prowess package. Every card, with reasons."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["Vintage Cube changes", "Reality Fracture Vintage Cube", "Vintage Cube October 2026", "Auriok Salvagers cube", "Vintage Cube changelist", "MTGO cube update", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 The most recent Vintage Cube changes went live on Magic Online on October 7, 2026, a week after Reality Fracture launched on MTGO. The update swaps 35 cards: the madness package leaves, landfall returns with real support, two infinite-mana combos come in, and red gets a prowess and spellslinger push. The curator's article is [Magic Online Vintage Cube | Reality Fracture Update](https://www.mtgo.com/news/fra-vintage-cube-update), posted October 2, 2026, and the full list is at [mtgo.com/vintage-cube-cardlist](https://www.mtgo.com/vintage-cube-cardlist).
 
