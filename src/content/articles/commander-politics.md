@@ -1,10 +1,10 @@
 ---
 title: "Commander Politics: Why Four-Player Magic Makes Enemies"
 description: "Commander politics turns a card game into a negotiation, and sometimes a grudge. Why four-player Magic breeds resentment and how to keep your friends."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["Commander politics", "EDH politics", "Commander kingmaking", "multiplayer Magic etiquette", "Commander table talk", "Commander threat assessment", "Magic: The Gathering and Cube"]
-draft: true
+draft: false
 ---
 Commander politics is the negotiation layer that sits on top of every four-player game of Magic: who to attack, who to spare, who to believe, and who to blame when it goes wrong. It is the reason Commander is the most popular way to play the game, and it is the reason more friendships have been strained over a Commander table than over any other format. Both things are true, and this article is about why, and what to do about it.
 

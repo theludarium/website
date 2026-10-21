@@ -1,10 +1,10 @@
 ---
 title: "Archetype Density: How Many Lanes a Cube Can Support"
 description: "How many cube archetypes can a 360 or 540 list really support? A working count of cards per lane, the overlap trick, and when adding a deck removes one."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube archetypes count", "archetype density", "cube lanes", "how many archetypes in a cube", "cube deck support", "cube design", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 The honest cube archetypes count for a 360-card list is lower than most owners think. Ten two-color pairs is the default, and ten lanes is about what 360 cards can carry if every lane shares most of its cards with its neighbors. Add a storm deck, a Lands deck, and a five-color domain pile on top and something stops working. Usually it is the quiet lane nobody checks, and it is discovered by the drafter who ends up in it on Thursday night.
 

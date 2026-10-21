@@ -1,10 +1,10 @@
 ---
 title: "Cube Card Selection: Power, Role, and Fun"
 description: "Cube card selection for your first list: weigh raw power against the role a card fills and whether it is fun to play against, using a clear slot-by-slot method."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube card selection", "how to choose cards for a cube", "cube power level", "cube slots", "first cube list", "cube design philosophy", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Cube card selection comes down to three questions asked of every card: Is it strong enough for this cube? What job does it do in a deck? Is it fun to have across the table? A card that passes all three goes in. A card that passes only the first one is how cubes end up as a pile of staples that nobody enjoys drafting.
 

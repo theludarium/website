@@ -1,10 +1,10 @@
 ---
 title: "Cube Land Count: Fixing, Utility Lands, Basics"
 description: "Cube land count by cube size: how many fixing lands, how many utility lands, how many basics to bring, and how the land section changes what gets drafted."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube land count", "how many lands in a cube", "cube utility lands", "cube basic lands", "cube land section", "lands per cube size", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Cube land count is three separate numbers that owners tend to blur into one. There is the fixing count (dual lands and their relatives, which decide how many colors a deck can play), the utility land count (lands that do something besides make mana), and the basic land count (the stack you bring to the table, which is not part of the cube at all but decides whether a draft can finish). Each has its own logic.
 

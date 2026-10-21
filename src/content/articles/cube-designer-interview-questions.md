@@ -1,10 +1,10 @@
 ---
 title: "Cube Designer Interview: 20 Questions to Ask"
 description: "Twenty cube designer interview questions, grouped by purpose, with notes on what each answer reveals. For podcasts, spotlights, or talk after the draft."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube designer interview", "questions for a cube designer", "cube interview", "cube podcast questions", "cube design conversation", "interview a cube owner", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 A good cube designer interview is not about which cards are in the cube. The list is public; anyone can read it. The interview is for the things the list cannot tell you: what the designer was trying to do, what they tried that failed, how they decide, and what they would tell themselves five years ago. These twenty questions are built for that, grouped in five sets of four, with a note on what each answer tends to reveal.
 

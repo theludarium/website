@@ -1,10 +1,10 @@
 ---
 title: "Cube Design Trends: How Cubes Changed in Ten Years"
 description: "Cube design trends from the early 2010s to now: smaller cubes, real aggro, fewer planeswalkers, more fixing, and the tools that changed how lists get made."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube design trends", "history of cube design", "how cube has changed", "modern cube design", "Vintage Cube evolution", "cube design philosophy", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Cube design trends move slower than Standard and faster than most owners notice. A cube built from the best public lists in 2014 and left alone would feel strange today: too many planeswalkers, too few one-drops, a storm deck nobody can assemble, a gold section twice the size it needs to be, and almost no fixing for aggressive decks. None of those were mistakes at the time. They were the consensus.
 

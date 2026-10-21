@@ -1,10 +1,10 @@
 ---
 title: "Cube Color Balance: Counts That Keep Every Color Open"
 description: "Cube color balance takes more than 50 cards per color. How to count by section, why green and white drift weak, and how to check balance after every draft."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube color balance", "cards per color cube", "cube color counts", "balanced cube", "weak color in cube", "cube section counts", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Cube color balance starts with equal counts, 50 cards per color in a 360-card cube, but equal counts are the beginning of the job, not the end. Two colors can have the same number of cards and wildly different draft value. This article covers the counts that work, the places balance quietly breaks, and the checks that tell you when a color is dead before your drafters start avoiding it.
 

@@ -1,10 +1,10 @@
 ---
 title: "Vintage Cube Cuts in 2026: Did They Deserve It?"
 description: "Vintage Cube cuts in 2026, from Tarmogoyf to Bazaar of Baghdad and Time Warp: the cards MTGO removed, the curator's reason for each, and our verdict on each."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["Vintage Cube cuts", "cards removed from Vintage Cube", "Vintage Cube Tarmogoyf", "Vintage Cube Bazaar of Baghdad", "Vintage Cube Time Warp", "Vintage Cube benched cards", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 The most interesting Vintage Cube cuts are not the weak cards. They are the famous ones: Tarmogoyf, Grave Titan, Wrath of God, Time Warp, Bazaar of Baghdad, Survival of the Fittest, Craterhoof Behemoth, Eternal Witness, Channel. Each left the MTGO Vintage Cube between August 2025 and October 2026, each with a one-line reason in the changelist, and each tells you something about what a powered cube looks like now.
 

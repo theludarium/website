@@ -1,10 +1,10 @@
 ---
 title: "Cube Draft Strategy: Picks, Signals, and the Table"
 description: "Cube draft strategy for players who keep ending up with 46 playables in five colors. Learn a clear pick order, how to spot signals, and how to read the table."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube draft strategy", "how to draft a cube", "reading signals in draft", "cube pick order", "draft signals", "cube drafting tips", "Magic: The Gathering and Cube"]
-draft: true
+draft: false
 ---
 Good cube draft strategy comes down to three habits: take powerful, flexible cards early, pay attention to what is and is not being passed to you, and commit to two colors by the middle of the first pack. Everything else is detail. This article explains the detail, because the gap between a player who knows those three habits and one who truly applies them is about two match wins a night.
 

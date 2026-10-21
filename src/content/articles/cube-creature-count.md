@@ -1,10 +1,10 @@
 ---
 title: "Cube Creature Count: Getting Creatures vs Spells Right"
 description: "Cube creature count sets the pace of every game. Target ratios of creatures to spells by color, why 55 percent creatures works for most cubes, and how to test."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube creature count", "creatures vs spells cube", "cube creature ratio", "noncreature spells cube", "creature density", "cube deck creature count", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 The cube creature count decides whether your games are played on the board or on the stack. A cube that is 65 percent creatures plays like a retail draft: boards get wide, combat matters, removal is premium. A cube that is 40 percent creatures plays like Legacy: the creatures that exist are threats, and the spells around them do the work. Neither is wrong. What goes wrong is building one by accident.
 

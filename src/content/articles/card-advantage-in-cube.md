@@ -1,10 +1,10 @@
 ---
 title: "Card Advantage in Cube: Keeping Blue Honest"
 description: "Card advantage in cube: the draw engines that take over games, from Necropotence to The One Ring, a per-color count to aim for, and how to keep blue in check."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["card advantage cube", "cube draw engines", "blue in cube", "card advantage per color", "Necropotence cube", "The One Ring cube", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Card advantage in cube is the resource that decides long games, and in most cubes one color has far more of it than the other four. Blue draws cards. Black pays life for them. Green attaches them to creatures. Red and white get a Wheel of Fortune and a Land Tax if they are lucky. When the engines are too strong or too concentrated, every long game becomes the same game, and the draft funnels into whichever color has the draw.
 

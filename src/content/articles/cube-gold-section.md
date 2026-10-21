@@ -1,10 +1,10 @@
 ---
 title: "Cube Gold Section: How Big Should It Be?"
 description: "How big should a cube gold section be? Sizes by cube size and fixing level, how to split gold cards across color pairs, and what the colorless section owes it."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube gold section", "multicolor cards in cube", "gold cards cube", "cube colorless section", "cube signpost gold", "cube color pairs", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 The cube gold section is the set of multicolor cards, and its size does more to shape a draft than any other single count. Too small and color pairs have no identity; drafters take the best card in every pack and the decks all look alike. Too large and gold cards go late, drafters feel punished for committing to two colors, and the "wrong" pairs feel unsupported. The common range is 5 to 12 percent of the cube, and where you land inside it depends on your fixing and your archetype count.
 

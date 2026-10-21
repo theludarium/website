@@ -1,10 +1,10 @@
 ---
 title: "Cube Building Mistakes: Ten Every First Cube Makes"
 description: "Cube building mistakes nearly every first list makes, from top-heavy curves to pet cards. Ten errors, the fix for each, and how to spot them at the table."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube building mistakes", "first cube mistakes", "cube design errors", "why my cube drafts badly", "cube pitfalls", "fixing a cube", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 The cube building mistakes in this list are not embarrassing. They are the default. Most first cubes make several of the ten, and plenty make more than half. They happen because the instincts that make someone a good deckbuilder, favoring powerful cards and personal favorites, are the wrong instincts for building a draft environment.
 

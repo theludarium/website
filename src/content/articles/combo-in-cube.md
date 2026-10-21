@@ -1,10 +1,10 @@
 ---
 title: "Combo in Cube: Supported, Tolerated, or Banned?"
 description: "Combo in cube: the two-card kills from Splinter Twin to Thassa's Oracle, how many pieces each needs, and three clear policies to choose from for your list."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["combo in cube", "cube combo decks", "Sneak and Show cube", "reanimator cube", "Thassa's Oracle cube", "cube combo policy", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Combo in cube is a policy decision, not a card decision. Every cube owner lands in one of three places: combo is a supported archetype with enough redundancy to draft on purpose, combo is tolerated as something that occasionally assembles itself, or combo is designed out. All three are defensible. What is not defensible is pretending to be in one place while the card list says another.
 

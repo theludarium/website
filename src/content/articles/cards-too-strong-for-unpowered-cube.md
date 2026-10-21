@@ -1,10 +1,10 @@
 ---
 title: "Cards Too Strong for an Unpowered Cube"
 description: "Which cards are too strong for cube once the Power Nine are gone? The fast mana, lands, and engines that warp an unpowered list, and what to run instead."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["too strong for cube", "unpowered cube cuts", "cards to leave out of cube", "Sol Ring in cube", "Mana Crypt cube", "cube restricted list", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Cutting the Power Nine is the easy part. The cards that are too strong for cube once the Moxen are gone are the ones that were hiding behind them: Sol Ring, Mana Crypt, Library of Alexandria, Strip Mine, and a short list of engines that are fine in a Vintage lottery but take over a Legacy-band table. This is a list worth holding against every card you consider adding, and why each one is on it.
 

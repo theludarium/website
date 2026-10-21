@@ -1,10 +1,10 @@
 ---
 title: "Magic the Gathering Benefits: What a Card Game Taught Us"
 description: "The real Magic the Gathering benefits are not about cards. Deckbuilding, bluffing, patience: what thirty years of the game taught a generation of players."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["Magic the Gathering benefits", "what Magic teaches", "skills from Magic the Gathering", "is Magic good for you", "Magic and critical thinking", "lessons from card games", "Magic: The Gathering and Cube"]
-draft: true
+draft: false
 ---
 Ask anyone who played Magic: The Gathering seriously for a few years what they got out of it, and the Magic the Gathering benefits they describe rarely involve cards. They talk about learning to build a system from parts. Learning to read a person across a table. Learning to lose forty times in a row and come back. The game has been around since [1993](https://en.wikipedia.org/wiki/Magic:_The_Gathering), more than three decades, and the people who grew up on it carry its lessons into rooms that have nothing to do with dragons.
 
