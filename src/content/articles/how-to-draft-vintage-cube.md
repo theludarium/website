@@ -1,10 +1,10 @@
 ---
 title: "How to Draft Vintage Cube: Power, Lanes, Discipline"
 description: "How to draft the MTGO Vintage Cube in 2026: what to take first, when to commit to a lane, and the mistakes that lose leagues. Dated to the Oct 7 list."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["draft Vintage Cube", "Vintage Cube draft strategy", "Vintage Cube pick order", "how to draft powered cube", "MTGO cube league tips", "Vintage Cube first picks", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 To draft Vintage Cube well, take the fast mana early, decide by pick five of pack one whether you are the aggro drafter or the engine drafter, and then stop taking cards that are powerful but not in your deck. Most losing Vintage Cube decks are not short on power. They are 23 strong cards that do not do one thing.
 
@@ -34,12 +34,12 @@ Earlier than in a normal cube, and by lane rather than by color. The Vintage Cub
 | Welder artifacts | Goblin Welder or Engineer pick one to three | Six artifacts worth welding and a draw engine |
 | Reanimator or Sneak | Entomb, Animate Dead, Sneak Attack, Show and Tell | Two enablers and two targets |
 | Green ramp | Natural Order, Gaea's Cradle, Oath of Druids | Four mana creatures and the payoff |
-| Red prowess (on trial) | Monastery Swiftspear plus two cheap spells late | Twelve one- and two-mana instants and sorceries |
-| Landfall (on trial) | Quirion Ranger or Carnivorous Cultivator wheeling | Three payoffs and fetch lands |
+| Red prowess (new in October 2026) | Monastery Swiftspear plus two cheap spells late | Twelve one- and two-mana instants and sorceries |
+| Landfall (refreshed in October 2026) | Quirion Ranger or Carnivorous Cultivator wheeling | Three payoffs and fetch lands |
 
-The reason commitment matters more here than in an unpowered cube is depth. The Vintage Cube has about 60 cards per mono color and gold sections of ten to fourteen. If two people fight over blue power, both lose; if two people fight over Boros, both end up with 2/2s and no Jitte. A clean lane with less raw power beats a contested lane with more.
+The reason commitment matters more here than in an unpowered cube is depth. The Vintage Cube has between 56 and 80 cards per color (blue is the biggest) and two-color sections of ten to fifteen, lands included. If two people fight over blue power, both lose; if two people fight over Boros, both end up with 2/2s and no Jitte. A clean lane with less raw power beats a contested lane with more.
 
-Aggro has a special rule. The curator said in October 2026 that Boros is still the strongest archetype after repeated trims, and the January 2026 post called white aggro "saturated." Both statements mean the same thing for a drafter: the deck is good and the slots are limited. If you see Ocelot Pride, Adeline, or Ragavan after pick three, somebody upstream is not in it, and you should be.
+Aggro has a special rule. The curator said in October 2026 that Boros is still the strongest archetype after repeated trims, and the January 2026 post called white aggro "well-saturated." Both statements mean the same thing for a drafter: the deck is good and the slots are limited. If you see Ocelot Pride, Adeline, or Ragavan after pick three, somebody upstream is not in it, and you should be.
 
 *If this is useful, the newsletter sends more like it.*
 
@@ -51,7 +51,7 @@ Aggro has a special rule. The curator said in October 2026 that Boros is still t
 
 **Overvaluing counterspells in a non-blue deck's shell.** Force of Will is a great card in a deck with 18 other blue cards to pitch. In a two-color deck with nine blue cards it is a three-mana Cancel.
 
-**Ignoring the trial lanes.** When the curator adds a ten-card package, as with red prowess in October 2026, nobody at the table has drafted it before. For the first week of a league those cards wheel. If you see Soul-Scar Mage at pick nine, the lane is open.
+**Ignoring the new lanes.** When the curator adds a new package of about ten cards, as with red prowess in October 2026, nobody at the table has drafted it before. For the first week of a league those cards wheel. If you see Soul-Scar Mage at pick nine, the lane is open.
 
 **Forgetting what left.** If your memory says Time Warp, Channel, Eternal Witness, Bazaar of Baghdad, or Survival of the Fittest are in the cube, it is out of date as of October 7, 2026. Read the changelist before each league.
 
@@ -65,7 +65,7 @@ For the engine decks, count your win conditions. Blue power with Tinker and no t
 
 ## How should you sideboard in a league?
 
-Vintage Cube leagues on MTGO are best-of-three with sideboarding from your entire pool, which matters more than in most cubes because the pool has so much narrow interaction. Cards to keep in the sideboard that come in constantly: Containment Priest and Soul-Guide Lantern against Reanimator and Sneak, Force of Vigor and Haywire Mite against the artifact decks, Pyrokinesis against aggro, Dismember as colorless removal. All six are on the October 7 list. The one-line rule for Vintage Cube is: draft the hate cards late and board them in early.
+Vintage Cube leagues on MTGO let you sideboard from your entire pool, which matters more than in most cubes because the pool has so much narrow interaction. Cards to keep in the sideboard that come in constantly: Containment Priest and Soul-Guide Lantern against Reanimator and Sneak, Force of Vigor and Haywire Mite against the artifact decks, Pyrokinesis against aggro, Dismember as colorless removal. All six are on the October 7 list. The one-line rule for Vintage Cube is: draft the hate cards late and board them in early.
 
 ## FAQ
 
@@ -87,4 +87,4 @@ Two, with a light splash at most. The fixing supports more, but the format's spe
 
 ## Draft it with people
 
-The Vintage Cube on MTGO is the best practice ground there is, and it is also eight strangers and a chat box. The game is the reason. The people are the point. Subscribe to The Ludarium newsletter for new draft lessons, and if you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) runs powered cube nights where you can take Black Lotus first in person.
+The Vintage Cube on MTGO is the best practice ground there is, and it is also eight strangers and a chat box. The game is the reason. The people are the point. Subscribe to The Ludarium newsletter for new draft lessons, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, sets its first night as part of The Ludarium.

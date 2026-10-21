@@ -1,10 +1,10 @@
 ---
 title: "Cube Sideboard Rules: What Counts and What Doesn't"
 description: "Cube sideboard rules: your whole unused pool is the sideboard. How basic lands and wishes work, when to sideboard, and the house rules worth writing down."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube sideboard", "sideboarding in cube", "limited sideboard rules", "cube sideboard size", "wish cards cube", "basic lands sideboard", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Your cube sideboard is every card you drafted that is not in your main deck, plus any basic lands you want. There is no 15-card limit, you do not have to swap one for one, and you may change your deck between every game of a match. Those three facts settle most arguments at a cube table, and the rest of this article covers the ones they do not.
 
@@ -109,4 +109,4 @@ Yes. Burning Wish, Karn, the Great Creator, and similar effects fetch from your 
 
 The main deck is a first draft. The sideboard is the editing pass, done one opponent at a time, and most of the good players at a cube table are the ones who bother to do it. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for new pieces on cube play and the rules that keep a table happy. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) will show you what game three looks like when both players sideboarded.
+Subscribe to The Ludarium newsletter for new pieces on cube play and the rules that keep a table happy. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

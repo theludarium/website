@@ -1,10 +1,10 @@
 ---
 title: "The Cube Primer FAQ Every Cube Needs"
 description: "A cube primer FAQ answers the questions your drafters ask every week. Which questions to include, how to answer each in two sentences, and a starter list."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube primer FAQ", "cube FAQ", "cube primer questions", "cube rules questions", "common cube questions", "cube draft FAQ", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 The cube primer FAQ is where the questions go that are asked at the table every week by someone new. It is the most practical section of the primer and the easiest to write, because you do not invent the questions; you collect them. If a question has been asked twice in a month, it goes in the FAQ, with a two-sentence answer and a link if the answer is longer than that.
 
@@ -114,4 +114,4 @@ After each cube update, add any new question that survives three weeks of being 
 
 An FAQ written from real questions tells a new drafter that other new drafters have been here, were confused in the same ways, and were answered. That is a kind of welcome, and it is one more reason someone comes back. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for the rest of this series on cube primers. If you are in Indianapolis and have a question this FAQ did not answer, ask it in person at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for the rest of this series on cube primers. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

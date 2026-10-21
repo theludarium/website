@@ -1,10 +1,10 @@
 ---
 title: "Cube Cuts: Trimming a Cube From 600 Cards to 540"
 description: "Cube cuts are harder than adds. A clear method for trimming a cube from 600 cards to 540: cut by section, cut by role, test the bottom, and keep the list lean."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube cuts", "what to cut from a cube", "trimming a cube", "cube too big", "cube cut list", "reducing cube size", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Cube cuts are where a list gets good. Adding cards is easy and fun; every owner has a stack of candidates. Cutting is where you learn what your cube is for, because every cut is a statement about which cards did not serve it. This piece is a method for taking an overgrown cube, in this case 600 cards, down to a tight 540, without gutting an archetype or losing a color's depth by accident.
 
@@ -108,4 +108,4 @@ Cheap creatures in aggro colors, fixing lands, and the only enabler of an archet
 
 Every cut is a sentence in the primer you have not written yet. Make them on purpose, write them down, and let the smaller list draft better. The game is the reason. The people are the point.
 
-The Ludarium newsletter sends new cube pieces, including the section-count sheet we use for trims. Subscribe, and if you are in Indianapolis, bring your 600 to Cube Commonwealth and we will help you find the 60: [how to join](/articles/cube-draft-indianapolis/).
+The Ludarium newsletter sends new cube pieces. Subscribe, and if you are in Indianapolis, you will hear first when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, sets its first night as part of The Ludarium.

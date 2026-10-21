@@ -1,10 +1,10 @@
 ---
 title: "Cube Set Review Method: Slot, Test, Keep or Cut"
-description: "The cube set review method we use for every Magic release: name the slot, test against incumbents, then keep or cut. Copy the template for your own cube."
-pubDate: 2026-10-18
+description: "A cube set review method for every new Magic release: name the slot, test it against the incumbents, then keep or cut. Copy the template for your own cube."
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube set review", "cube review template", "cube testing process", "cube changelog", "new set cube cards", "cube update", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 A cube set review is not a ranking. Rankings are for people who have to pick one card from a pack. A cube owner has to decide, for each candidate, whether it beats a specific card already in the list, and then prove it at the table. So our reviews follow one form for every card: name the slot, name the incumbent, call it pass, test, or keep, and log what happened. This article is that form, with the reasoning behind each field, so you can copy it.
 
@@ -42,7 +42,7 @@ For a worked discussion of how slots are built in the first place, see [sections
 
 ## What do pass, test, and keep mean?
 
-We use exactly three calls. More categories sound precise but produce arguments about the boundaries.
+Use exactly three calls. More categories sound precise but produce arguments about the boundaries.
 
 | Call | Meaning | What happens next |
 |---|---|---|
@@ -58,7 +58,7 @@ Two rules keep this honest. First, a test always names the card it replaces. "Te
 
 Testing a cube card is simple, and the simplicity is the point.
 
-1. **Proxy it.** A printed proxy in a sleeve is fine for testing. We do not buy a card until it has survived a test. Our view on proxies generally is in the Cube Commonwealth primer; for testing, nobody objects.
+1. **Proxy it.** A printed proxy in a sleeve is fine for testing. Do not buy a card until it has survived a test. Whatever your group thinks of proxies in general, for testing, nobody objects.
 2. **Swap, do not add.** The test card goes in, the named incumbent comes out. The cube stays the same size, so the draft stays comparable.
 3. **Run two or three drafts.** One draft is noise. Three drafts give you a card that has been seen by 24 drafters and probably played in two or three decks.
 4. **Watch two things.** Where was it picked, and what did it do when cast? A card that goes in the first five picks and does nothing when played is a trap. A card that wheels and then wins a game is worth a longer look.
@@ -68,7 +68,7 @@ Then decide. Keep means the proxy becomes a real card and the incumbent leaves. 
 
 ## What goes in the log?
 
-The log is a spreadsheet with one row per card we ever considered. The columns are: set, card, slot, call, replaced, date, result, note. It is the single most useful thing we maintain, because it answers the question "didn't we already look at this?" instantly.
+Keep the log as a spreadsheet with one row per card you ever considered. The columns are: set, card, slot, call, replaced, date, result, note. It is the most useful thing a cube owner can maintain, because it answers the question "didn't we already look at this?" instantly.
 
 Two habits make the log worth keeping. Write the row the day you make the call, not after the draft. And write the note in plain language a stranger could read: "picked 3rd and 5th, cast four times, won two games on its own, keep" is a note. "Good" is not.
 
@@ -76,7 +76,7 @@ The log also feeds the changelog that drafters see. How we publish that is cover
 
 ## How do you review a whole set in order?
 
-We do sets by color, white through green, then gold, then colorless, then lands. Within a color, we go by mana value. That order matches how most cube spreadsheets are laid out, so the incumbents are already in front of you.
+Go through a set by color, white through green, then gold, then colorless, then lands. Within a color, go by mana value. That order matches how most cube spreadsheets are laid out, so the incumbents are already in front of you.
 
 For each color, we write a two-sentence summary before the card entries: what the set gave that color, and whether it moved anything. Most of the time the honest summary is "two test candidates in the two-drop slot, nothing else." Readers can skip a color that has nothing for them.
 
@@ -114,4 +114,4 @@ Four or five per draft round is the most we recommend. More than that and you ca
 
 ## Keep the template, send us your calls
 
-Every set, we publish the review in this form the week of release, and the newsletter is where it lands first. Subscribe to get each one, and if you cube in Indianapolis, [join us at Cube Commonwealth](/articles/cube-draft-indianapolis/), where the test slots get drafted live. The game is the reason. The people are the point.
+The newsletter is where our set reviews land first. Subscribe to get them, and if you cube in Indianapolis, you will hear first when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, sets its first night as part of The Ludarium. The game is the reason. The people are the point.

@@ -1,10 +1,10 @@
 ---
 title: "Rotisserie Draft, Cube Sealed, and Team Cube Formats"
 description: "Rotisserie draft, cube sealed, and team formats explained: how each works, how long it takes, and when to run one instead of a standard eight-player draft."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["rotisserie draft", "cube sealed", "team draft cube", "two-headed giant cube", "cube formats", "alternative cube draft", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 A rotisserie draft lays the entire cube face up on the table and has players pick one card at a time, in snake order, until everyone has a deck. It is the slowest way to draft a cube and, for the right group, the most fun. Cube sealed is the fastest: deal everyone a pile and build. Team formats sit between, and turn an individual game into something a table does together.
 
@@ -21,7 +21,7 @@ Cube sealed is the simplest alternative. Shuffle the cube, deal each player a po
 **Why run it.** Three reasons:
 
 1. **Time.** A draft takes 40 to 60 minutes before anyone shuffles a deck. Sealed takes five minutes to deal. When the group has two hours instead of four, sealed gets more games played.
-2. **New players.** Drafting is a skill on top of the game. A new player at a sealed table only has to build a deck, which is a smaller ask. We use it on new-player nights.
+2. **New players.** Drafting is a skill on top of the game. A new player at a sealed table only has to build a deck, which is a smaller ask. It suits a new-player night.
 3. **Odd numbers.** Sealed works with any player count. Five people and a cube is an awkward draft and a fine sealed night.
 
 **What changes.** Sealed decks are less focused than drafted ones. You get what the shuffle gave you, and two-color decks with a splash are normal. Aggro is weaker because you cannot assemble a curve on purpose; midrange with the best removal in your pool usually does well. Expect games to be grindier and slightly longer.
@@ -95,4 +95,4 @@ Rotisserie lays out the whole cube and players pick from everything in snake ord
 
 The same 360 cards can be a fast sealed league, a six-hour rotisserie event, or a Two-Headed Giant night where nobody plays alone. The box does not change. The way people sit around it does. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for new pieces on cube formats and the groups that play them. Indianapolis readers can join us for the next odd-format night at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for new pieces on cube formats and the groups that play them. In Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

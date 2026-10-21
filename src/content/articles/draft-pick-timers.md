@@ -1,10 +1,10 @@
 ---
 title: "Draft Timer for Cube: Keep a Draft Under 45 Minutes"
 description: "Draft timer rules for cube night: official per-pick seconds, a casual schedule that works, how to run a clock without a judge, and where drafts lose time."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["draft timer", "draft pick timer", "cube draft pace", "how long does a draft take", "draft time per pick", "draft clock", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 A draft timer is the difference between a cube night that ends at ten and one that ends at midnight. Eight players, three packs of fifteen, 45 picks each: at the official tournament pace that is about 30 minutes of drafting. Most casual tables take 50 to 70, and the extra time comes from a handful of picks and a handful of people.
 
@@ -26,9 +26,9 @@ The Magic Tournament Rules set per-pick time by how many cards are left in the p
 | 4, 3, or 2 | 5 seconds |
 | 1 | none |
 
-Add that up and a 15-card pack takes about 4 minutes 10 seconds, or roughly 12 and a half minutes for three packs. Between packs there is a review period of 60 seconds after pack one and 90 after pack two. Total at tournament pace: a little over 15 minutes of pure picking, with the rest of a 30-minute draft going to opening, passing, and counting.
+Add that up and a 15-card pack takes 4 minutes 45 seconds, or about 14 and a quarter minutes for three packs. Between packs there is a review period of 60 seconds after pack one and 90 after pack two. Total at tournament pace: about 17 minutes of pure picking, with the rest of a 30-minute draft going to opening, passing, and counting.
 
-The same appendix gives Rochester draft 20 seconds to review a laid-out pack and 5 seconds per pick, and Two-Headed Giant teams a slower schedule starting at 50 seconds for a full pack because two people decide together. Recommended deck-building time is 25 minutes for draft.
+The same appendix gives Rochester draft 20 seconds to review a laid-out pack and 5 seconds per pick, and Two-Headed Giant teams a slower schedule starting at 50 seconds for a full pack because two people decide together. Recommended time for deck registration and construction is 25 minutes for draft.
 
 No casual table should run the tournament clock. It is built for players who draft the same set every week and who have a judge to enforce it. But it is the right reference, because it shows how little time a pick needs once the pack is small.
 
@@ -43,7 +43,7 @@ Our house schedule for cube, which doubles the early picks and leaves the late o
 | 7 to 5 | 20 seconds |
 | 4 to 1 | 10 seconds |
 
-That works out to just under 6 minutes per pack and about 18 minutes of picking across three packs, with a two-minute break between packs to count, sort, and get a drink. Call it 25 minutes of draft, 35 with the usual delays, and the whole thing is comfortably under 45.
+That works out to about 8 minutes per pack and about 25 minutes of picking across three packs, with a two-minute break between packs to count, sort, and get a drink. Call it 30 minutes of draft, 40 with the usual delays, and the whole thing still fits under 45.
 
 The reason for being generous early and firm late: the first three picks of a pack are where a drafter chooses a lane, and rushing those produces bad decks and resentment. The last six picks of a pack are between cards nobody wants. Thirty seconds on a choice between two filler creatures is where the minutes go.
 
@@ -63,13 +63,13 @@ Whatever you choose, say it before pack one and apply it to everyone. A clock th
 
 ## Where does a draft actually lose time?
 
-Picks are only part of it. Watching our own nights with a stopwatch produced this list, in order of damage:
+Picks are only part of it. Watch a draft night with a stopwatch and this is the list, in order of damage:
 
 1. **Starting late.** The draft is scheduled for seven and starts at seven twenty because two players are parking. Fifteen minutes lost before a pack opens. Fix: packs are dealt at seven, and whoever is not seated has their picks made by the table at pick-the-best-card speed until they arrive. Announce it once; nobody is late twice.
 2. **Opening and counting.** Eight people each count 15 cards, three times. Fix: the owner deals packs the night before and bands them. Players count once, at the start of each pack, and that is all.
 3. **The one slow pick.** One player, one pack, two minutes, usually with a planeswalker in hand and two colors to choose between. Fix: the clock. This is what it is for.
 4. **Talking.** A good table talks. The time cost is real: a joke that stops four players from passing costs the whole table 30 seconds. Fix: do not fix it. Budget for it instead.
-5. **Looking back at picks.** Players who spread their pile out mid-pack to recount their colors. Fix: picks stay face down in a stack until the pack ends. The MTR has this rule for Rochester for the same reason.
+5. **Looking back at picks.** Players who spread their pile out mid-pack to recount their colors. Fix: picks stay face down in a stack until the pack ends. The MTR has the same rule for competitive events.
 6. **Deck-building drift.** Twenty-five minutes becomes forty-five because nobody called time. Fix: a timer for building too, at 25 minutes, with a five-minute warning.
 
 Handled, those six recover more time than any pick clock. Our full setup checklist for the evening is in [how to run a cube draft](/articles/how-to-run-a-cube-draft/).
@@ -98,7 +98,7 @@ A planning schedule for an eight-player cube night with best-of-three rounds:
 | Round 3 | 50 min | 60 |
 | Total | 3 h 40 | 5 h 05 |
 
-The slips add up to nearly an hour and a half, and the draft and build are more than half of it. Hold those two blocks and the night ends when it was supposed to. Groups that need the night shorter cut round three before they cut anything else, or run single games in the third round.
+The slips add up to nearly an hour and a half, and the seating, draft and build are about two thirds of it. Hold those two blocks and the night ends when it was supposed to. Groups that need the night shorter cut round three before they cut anything else, or run single games in the third round.
 
 ## FAQ
 
@@ -122,4 +122,4 @@ The pause between packs when players may look at their picks. Tournament rules g
 
 The draft is the part of the night people come for, and the part that eats the rest if nobody watches it. A clock the table runs for itself keeps the games in. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for new pieces on formats, pacing, and the people around the table. Indianapolis readers can see the 40-minute draft in practice at [Cube Commonwealth](/articles/cube-draft-indianapolis/), where the timer sits in the middle and nobody minds it.
+Subscribe to The Ludarium newsletter for new pieces on formats, pacing, and the people around the table. In Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

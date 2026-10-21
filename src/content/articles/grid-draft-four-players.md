@@ -1,10 +1,10 @@
 ---
 title: "Grid Draft for Three and Four Players: Full Procedure"
 description: "Grid draft for three and four players: pack sizes, the refill rule, what the last player gets, how many cards you need, and how to pace eighteen grids."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["grid draft", "grid draft 4 players", "grid draft 3 players", "three by three draft", "four player cube draft", "grid draft rules", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Grid draft lays nine cards face up in a three-by-three square and lets each player take a full row or column. The two-player version is well known. The three- and four-player versions add one rule, refilling the grid between picks, and that single change makes Grid the best open-information format for a small table.
 
@@ -12,7 +12,7 @@ This article covers the three- and four-player procedure in full, with the pack 
 
 ## What does the Grid draft procedure look like with more than two players?
 
-The procedure below follows the [MTG Wiki's Grid Draft page](https://mtg.wiki/page/Grid_Draft), which gives pack sizes by player count and the refill rule. Where the wiki leaves a choice open, we say which option we use.
+The procedure below follows the [MTG Wiki's Grid Draft page](https://mtg.wiki/page/Grid_Draft), which gives pack sizes by player count and the refill rule. Where the wiki leaves a choice open, we say which option we recommend.
 
 **Pack sizes.** Build packs from the cube sized to the player count: 9 cards for two players, 12 for three, 15 for four. The 9 cards beyond the first nine are the refill reserve.
 
@@ -51,7 +51,7 @@ After 18 grids, each player has between 45 and 54 cards, depending on how many t
 
 A 360 cube covers all three counts. A 540 covers four players twice. If you want to use fewer cards, run 15 grids instead of 18 and accept pools around 40, which still builds a deck with 17 lands.
 
-The wiki also describes **discard grids**: shuffle the leftover cards and draft them as additional grids using the same rules. It reduces the number of fresh packs you need and gives late picks a second look at cards nobody wanted. We use it when the cube is a 360 and two groups are drafting from it at once.
+The wiki also describes **discard grids**: shuffle the leftover cards and draft them as additional grids using the same rules. It reduces the number of fresh packs you need and gives late picks a second look at cards nobody wanted. It is handy when the cube is a 360 and two groups are drafting from it at once.
 
 *If this is useful, the newsletter sends more like it.*
 
@@ -108,4 +108,4 @@ Yes. The wiki suggests removing the basic land and one other card from a play bo
 
 Grid draft with four players is the most open conversation a cube can host. Nobody hides a pack. Everybody sees the choice. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for one format, house rule, or cube idea. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) runs small-table nights when the pod comes up short, and Grid is usually what we lay out.
+Subscribe to The Ludarium newsletter for new formats, house rules, and cube ideas. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

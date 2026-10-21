@@ -182,7 +182,7 @@ Status on 2026-10-19: 21 published at launch, 320 drafts.
 - `cube-house-rules`: Cube House Rules Worth Writing Down
 - `cube-land-count`: Cube Land Count: Fixing, Utility Lands, Basics
 
-## Batch 8: Cube, part 2 (23)
+## Batch 8: Cube, part 2 (23) (published 2026-10-21)
 
 - `cube-mana-curve`: Cube Mana Curve: Why Two-Drops Decide Everything
 - `cube-owner-vs-community-design`: Cube Community Design: Owner's Vision vs Wish List

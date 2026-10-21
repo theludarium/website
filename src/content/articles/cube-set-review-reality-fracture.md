@@ -1,10 +1,10 @@
 ---
 title: "Reality Fracture Cube Review: Walkers, Phoenix, Goyf"
 description: "Our Reality Fracture cube review: which new planeswalkers, Darklight Phoenix, Stingcaster Mage, and reprints earn a slot. Keep, test, or pass calls by tier."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["Reality Fracture cube review", "Reality Fracture cube", "FRA cube cards", "new planeswalkers cube", "Darklight Phoenix cube", "Tarmogoyf reprint", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Reality Fracture <!-- AFFILIATE --> released on October 2, 2026 as the third main-line Standard set of the year, and this Reality Fracture cube review was the most fun to write in a while. The set is built around planeswalkers, graveyard play, and "echoed" versions of famous cards in new colors. For cube owners that means cheap walkers to evaluate, a real phoenix, a two-mana red creature that recasts your burn, and reprints of Chandra, Torch of Defiance and Tarmogoyf. Calls follow [the slot method](/articles/how-to-evaluate-new-cards-for-cube/).
 
@@ -18,12 +18,12 @@ Three mechanics matter for cube. **Prepare** attaches a spell to a creature; whi
 
 The set's headline is cheap walkers, so this is where the slot comparisons get crowded.
 
-- **The Theorist, Jace Beleren** ({2}{U}{U}, loyalty 3). You draw a card at the start of each opponent's draw step. +1 makes a 1/1 Illusion, −2 bounces an artifact or creature per opponent, −6 draws three. **Slot:** blue / 4 / card advantage. **Competes with:** Jace, the Mind Sculptor; Shark Typhoon; Mulldrifter. **Call: test** at Legacy and Vintage power. The static draw is the whole card; the token protects it and the −2 resets the board. Not a Mind Sculptor, but a fine fifth or sixth blue four-drop.
+- **The Theorist, Jace Beleren** ({2}{U}{U}, loyalty 3). You draw a card at the start of each opponent's draw step. +1 makes a 1/1 Illusion, −2 bounces an artifact or creature per opponent, −6 draws three, then puts +1/+1 counters on your creatures equal to your hand size. **Slot:** blue / 4 / card advantage. **Competes with:** Jace, the Mind Sculptor; Shark Typhoon; Mulldrifter. **Call: test** at Legacy and Vintage power. The static draw is the whole card; the token protects it and the −2 resets the board. Not a Mind Sculptor, but a fine fifth or sixth blue four-drop.
 - **Chandra, Chill of Compliance** ({1}{U}{U}, loyalty 3). +1 surveils and puts a noncreature, nonland hit into your hand; +1 adds {U} for noncreature spells; −X taps and stuns; −6 is a draw-per-spell emblem. **Slot:** blue / 3 / tempo walker. **Competes with:** Narset, Parter of Veils. **Call: test.** Three-mana blue walkers that defend themselves are scarce; the stun is the defense.
 - **Ajani Resolute** ({1}{W}, loyalty 2). Gains loyalty when you gain life; 0 gains 1; −4 makes an Ajani's Pridemate token. **Call: pass** unless your cube has a lifegain lane; then test it as a payoff.
-- **Ajani Unrelenting** ({4}{R}{R}, loyalty 5). Makes a 2/2 whenever you activate a loyalty ability; +1 gives +1/+0 and haste; −3 deals 4 to each non-token creature. **Call: pass.** Six-mana red walkers compete with Inferno Titan and lose.
+- **Ajani Unrelenting** ({4}{R}{R}, loyalty 5). Makes a 2/2 whenever you activate a loyalty ability; +1 gives +1/+0 and haste; −3 deals 4 to each creature except your own tokens. **Call: pass.** Six-mana red walkers compete with Inferno Titan and lose.
 - **Garruk, Curse Breaker** ({3}{G}{G}, loyalty 5). Draws when a power-4-or-more creature enters; +2 untaps two lands; −3 makes a 4/4 trampler. **Slot:** green / 5 / value walker. **Competes with:** Garruk Wildspeaker, Nissa, Who Shakes the World. **Call: test.** Garruk's Uprising on a beast factory. Strong in a green ramp lane; a pass where green is mostly mana elves.
-- **Garruk, Veiled Butcher** ({3}{B}{B}, loyalty 5). Exiles opponents' dying creatures; +2 gives −4/−1; −2 edicts and makes a 4/4; −3 is a two-card discard. **Slot:** black / 5 / removal walker. **Competes with:** Liliana, Death's Majesty; Ob Nixilis Reignited. **Call: test.** The +2 kills a two-power creature outright. We like this one more than the green Garruk.
+- **Garruk, Veiled Butcher** ({3}{B}{B}, loyalty 5). Exiles opponents' dying creatures; +2 gives −4/−1; −2 makes each player sacrifice a creature, and if you did, you get a 4/4 trampler; −3 is a two-card discard. **Slot:** black / 5 / removal walker. **Competes with:** Liliana, Death's Majesty; Ob Nixilis Reignited. **Call: test.** The +2 kills any one-toughness creature and takes four power off anything else until your next turn. We like this one more than the green Garruk.
 
 ## Which creatures earn a test?
 
@@ -71,7 +71,7 @@ The two-drop slot got the most interesting cards in the set.
 | Overwrite the Multiverse | B / 6 / sweeper | Test | Legacy, Modern |
 | Ajani Unrelenting, Hexhaven Invigorator, Emrakul | various | Pass | None |
 
-One keep and roughly nine tests, a generous set by our usual count. Expect two or three to stick.
+One keep and more than a dozen tests (eight in the table), a generous set for cube. Expect two or three to stick.
 
 ## FAQ
 
@@ -93,4 +93,4 @@ It is a fine green two-drop, usually a 3/4 or 4/5 by the midgame. It is not a re
 
 ## Draft it with us
 
-We will have Stingcaster Mage and the test candidates proxied for the next three Cube Commonwealth drafts in Indianapolis. [Come draft them](/articles/cube-draft-indianapolis/) and tell us which ones you would keep. Subscribe to the newsletter for the follow-up: we report what stuck a month after every set. The game is the reason. The people are the point.
+Proxy the test candidates and draft them a few times before you buy anything. Subscribe to The Ludarium newsletter for new cube pieces, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, sets its first night as part of The Ludarium. The game is the reason. The people are the point.

@@ -1,10 +1,10 @@
 ---
 title: "Fast Mana in Cube: Moxen, Rituals, and the Line"
 description: "Fast mana in cube, card by card: Moxen, Sol Ring, rituals, Signets, and Elves. What each one does to game speed, and four sensible places to draw your own line."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["fast mana cube", "Moxen in cube", "Sol Ring cube", "rituals in cube", "mana rocks cube", "cube acceleration", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Fast mana in a cube is any card that gives you more mana this turn than it cost. The decision about how much of it to include is the single biggest lever on how fast your games end and how much the draft rewards the player who opened the right pack. This article lists the fast mana by tier, says what each tier does to a table, and gives four defensible places to stop.
 
@@ -99,4 +99,4 @@ Dark Ritual has a common printing and many Pauper cubes include it. With no Necr
 
 ## See the lines at a table
 
-The argument about where to draw the line is better had across a table than in a comment thread. If you want in on it at a Cube Commonwealth draft in Indianapolis, [join a draft](/articles/cube-draft-indianapolis/). Subscribe to The Ludarium newsletter for new cube design pieces. The game is the reason. The people are the point.
+The argument about where to draw the line is better had across a table than in a comment thread. Subscribe to The Ludarium newsletter for new cube pieces, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, sets its first night as part of The Ludarium. The game is the reason. The people are the point.

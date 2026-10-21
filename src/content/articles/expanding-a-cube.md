@@ -1,10 +1,10 @@
 ---
 title: "Expand a Cube Without Diluting It: 360 to 540"
 description: "How to expand a cube from 360 to 450 or 540 without weakening it: scale every section by ratio, deepen lanes before adding them, and test in three drafts."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["expand a cube", "grow a cube", "360 to 540", "cube expansion", "adding cards to a cube", "cube upgrade", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 To expand a cube well, add cards to roles, not to the pile. The failure mode is familiar: a tight 360 grows to 540 over a year of "this is too good to leave out," and the result drafts worse than the 360 did. Aggro gets thinner, lanes get vaguer, and the owner cannot say why. The cause is almost always the same. The new 180 cards were chosen for quality and the old 360 was chosen for structure, and structure is what a draft feels.
 
@@ -118,4 +118,4 @@ Choosing the cards can take a few weekends. Testing and tuning takes three to si
 
 ## Keep playing
 
-We send new cube pieces in The Ludarium newsletter, and the next expansion we make to the Commonwealth cube will be written up there, cuts and all. Subscribe, and if you are in Indianapolis, come draft the result with [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+We send new cube pieces in The Ludarium newsletter. Subscribe, and if you are in Indianapolis, you will hear first when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, sets its first night as part of The Ludarium.

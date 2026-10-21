@@ -1,10 +1,10 @@
 ---
 title: "Cube Pack Size: 15-Card Packs, 45 Picks, the Math"
 description: "Cube pack size explained: why 15 cards and 45 picks is standard, what changes with 12-card or 18-card packs, and how to size packs for any cube and pod."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube pack size", "how many cards in a cube pack", "cube draft picks", "15 card packs", "cube draft math", "pack size for 6 players", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Cube pack size is the quiet variable behind every draft. The standard is fifteen cards per pack, three packs, forty-five picks per player, because that is what retail boosters were when cube was invented and it is what eight drafters times 360 cards divides into. Change the pack size and you change how many playables a deck sees, how loud signals are, how long the draft takes, and how much of the cube gets opened. None of those are side effects. They are the draft.
 
@@ -121,4 +121,4 @@ It decides how much of the cube is opened, how strong decks are, how readable si
 
 ## Keep playing
 
-If you like the arithmetic side of cube, the newsletter sends new pieces like this, including the formats we try at Cube Commonwealth and whether they worked. Subscribe, and if you are in Indianapolis, come count packs with us; [here is how to join](/articles/cube-draft-indianapolis/).
+If you like the arithmetic side of cube, the newsletter sends new pieces like this. Subscribe, and if you are in Indianapolis, you will hear first when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, sets its first night as part of The Ludarium.
