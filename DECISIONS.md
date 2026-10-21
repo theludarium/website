@@ -209,3 +209,11 @@ A short log of choices made and why. Newest at the bottom.
 
 - The cube articles described Cube Commonwealth with details nobody has confirmed (drafts most weeks, a Commander pod on request, house rules posted, "we tried this for a season"). Levi chose to say only what is cleared: it is The Ludarium's Indianapolis cube group, it is relaunching as part of The Ludarium, and subscribers hear first when the first night is set. Invented specifics and first-person stories came out; links to its join page (`cube-draft-indianapolis`) stay and show as plain text until that page is published.
 - The same pass caught more weekly-newsletter promises (mostly section headings like "One game-night idea a week") and "open playtest nights at The Ludarium", which do not exist yet. Those now say The Ludarium plans them once the Indianapolis lounge opens. A batch 6 line saying The Ludarium hosts public game nights now says it is planning them.
+
+## 2026-10-21: Newsletter on Kit, sent from hello@theludarium.com
+
+- Levi's choices: send from **hello@theludarium.com** (Cloudflare Email Routing forwards it to his Gmail, free; Kit verifies the domain), **double opt-in**, a **PO box or virtual mailbox** for the legally required mailing address, and a welcome email drafted by Claude (`docs/newsletter/emails.md`).
+- Step-by-step setup is in `docs/newsletter/KIT-SETUP.md`. Two Kit forms to start: the newsletter, and the Indianapolis lounge waitlist (tag `lounge-indianapolis`; fields `zip_code`, `plays`, `visit_frequency`).
+- Kit sends people to `/newsletter/thanks/` after signing up and `/newsletter/confirmed/` after they click the confirmation link. Both are noindex and out of the sitemap.
+- hello@theludarium.com is also the site's contact email (privacy and disclosure pages).
+- Built 2026-10-21: Kit forms **Ludarium Letters** (form 10079099, the newsletter's name) and **Lounge waitlist: Indianapolis** (form 10079113, custom fields zip_code, plays, visit_frequency; rule 5659971 tags `lounge-indianapolis`). Both double opt-in with the confirmation email in `docs/newsletter/emails.md`. theludarium.com is a verified sending domain in Kit (DKIM CNAMEs, `ckespa` return path, `_dmarc` p=none).
