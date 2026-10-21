@@ -40,7 +40,7 @@ Editor, not stenographer and not dictator. The editor's job has three parts.
 
 ## A process that works
 
-What we use at Cube Commonwealth, offered as one working version rather than the standard.
+One working version, offered as a starting point rather than the standard.
 
 1. **One place for requests.** A pinned thread or channel in the group's Discord. Not DMs, not conversations at the table that get forgotten. Everything in one place, visible to everyone.
 2. **Every request names a problem and a replacement.** "Add X" is bounced back with "for what, and what comes out?" This filters half the requests at the door, because the requester often realizes the slot is already full.
@@ -100,4 +100,4 @@ Answer once with the reason, in writing, in the shared channel. If the reason ch
 
 A good cube has many people's fingerprints on it and one person's judgment behind it. Hear the room, hold the purpose, make the call, and say why. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that play it. If you are near Indianapolis, bring a request to the thread and a deck to the table at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that play it. If you are near Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

@@ -34,7 +34,7 @@ The cards that define the band are the fast mana and the blue restricted list:
 - **Mana Vault** and **Grim Monolith**: artifacts that tap for three colorless but do not untap normally.
 - **Ancestral Recall** (one blue mana, draw three cards), **Time Walk** (two mana, take an extra turn), and **Timetwister** (each player shuffles hand and graveyard into their library and draws seven).
 
-Around those sit the combos: Sneak Attack and Show and Tell putting Emrakul into play, Reanimate and Animate Dead on Griselbrand, Tinker fetching a game-ending artifact, Thassa's Oracle with a card that exiles your library, Underworld Breach with Brain Freeze and Lion's Eye Diamond. The current MTGO list has every card above in it, and the October 2026 update added Auriok Salvagers specifically because the client can now automate its infinite-mana loop with Lion's Eye Diamond or Black Lotus.
+Around those sit the combos: Sneak Attack and Show and Tell putting Emrakul into play, Reanimate and Animate Dead on Griselbrand, Tinker fetching a game-ending artifact, Thassa's Oracle with Doomsday, Underworld Breach with Brain Freeze and Lion's Eye Diamond. The current MTGO list has every card above in it, and the October 2026 update added Auriok Salvagers because new automation tools on the client make its infinite-mana loop with Lion's Eye Diamond or Black Lotus practical to play out.
 
 Vintage cube games are swingy by design. The appeal is that every pick is a famous card and every game could be a story.
 
@@ -83,7 +83,7 @@ Three questions settle it.
 2. **How long do you want games to run?** Vintage games average shorter. Pauper games average longer. If your draft night has a hard stop, lower bands fit it better.
 3. **Do you want a flat power curve or a lottery?** Flat is Pauper and Legacy. Lottery is Vintage, and some groups love the lottery.
 
-There is also a middle answer that more cubes are choosing. The author of [The Changing Face of Cube](https://omniczech.bearblog.dev/the-changing-face-of-cube-as-a-format/) argues that in 2025 the dominant mode is no longer "Vintage clone" or "rarity-restricted" but experimental cubes with a theme. Power band is still a choice in those cubes; it is just not the only one. If that is the direction you lean, decide the theme first and the band second.
+There is also a middle answer that more cubes are choosing. Omniczech's May 2025 post [The Changing Face of Cube](https://omniczech.bearblog.dev/the-changing-face-of-cube-as-a-format/) argues that copies of the Magic Online cubes are rarely discussed now and rarity-restricted cubes have faded, while cubes trying something new have become the dominant mode. Power band is still a choice in those cubes; it is just not the only one. If that is the direction you lean, decide the idea first and the band second.
 
 ## FAQ
 
@@ -105,4 +105,4 @@ You can, but drafters will feel the seams. A single Sol Ring in an otherwise Leg
 
 ## Draft at every band with us
 
-Cube Commonwealth drafts in Indianapolis, and the band question comes up at nearly every table. If you want to feel the difference in person before you choose one for your own cube, [come draft with Cube Commonwealth](/articles/cube-draft-indianapolis/). Subscribe to The Ludarium newsletter for new cube design pieces. The game is the reason. The people are the point.
+The band question is easier to settle across a table than on paper. Subscribe to The Ludarium newsletter for new cube pieces, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, sets its first night as part of The Ludarium. The game is the reason. The people are the point.

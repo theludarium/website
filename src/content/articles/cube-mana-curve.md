@@ -101,4 +101,4 @@ They can run a little higher, since many are payoffs, but keep the gold section'
 
 Pick the top end first, cap it, and let the rest of the color be cheap. Your drafts will start on turn two and your six-drops will feel earned. The game is the reason. The people are the point.
 
-New cube-building pieces, including our curve-count spreadsheet, goes out in The Ludarium newsletter; subscribe below. If you are in Indianapolis, come draft with Cube Commonwealth and see what a tight curve feels like: [how to join](/articles/cube-draft-indianapolis/).
+New cube-building pieces go out in The Ludarium newsletter; subscribe below. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

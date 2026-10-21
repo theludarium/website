@@ -90,4 +90,4 @@ Four to six sentences, under a hundred words: the plan, the signposts, the numbe
 
 A drafter who reads your archetype section before their first draft and again after their first loss has learned the cube faster than a season of play would teach them. That is what the section is for. The game is the reason. The people are the point.
 
-This series on cube primers continues; subscribe to The Ludarium newsletter to get each part as it posts. If you are in Indianapolis, come see how our archetype section holds up at the table with [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+This series on cube primers continues; subscribe to The Ludarium newsletter to get each part as it posts. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

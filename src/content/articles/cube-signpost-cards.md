@@ -24,7 +24,7 @@ The gold section is where most signposts live because gold cards cannot be anyth
 
 ## Which signposts do the famous cubes use?
 
-Looking at public lists is the fastest way to see the idea in practice. The [MTGO Vintage Cube](https://mtgo.com/news/may-2024-vintage-cube-update), for example, runs gold cards like Tidehollow Sculler for Orzhov, cards that announce a plan rather than just being good. Lucky Paper's [Cube Map](https://luckypaper.co/resources/cube-map/) groups tens of thousands of CubeCobra lists into clusters and labels each with the cards that define it, which is a decent proxy for which gold cards a given kind of cube has settled on as signposts.
+Looking at public lists is the fastest way to see the idea in practice. The [MTGO Vintage Cube](https://www.mtgo.com/vintage-cube-cardlist), for example, runs gold cards like Tidehollow Sculler for Orzhov, cards that announce a plan rather than just being good. Lucky Paper's [Cube Map](https://luckypaper.co/resources/cube-map/) groups public CubeCobra lists into clusters and labels each with the cards that define it, which is a decent proxy for which gold cards a given kind of cube has settled on as signposts.
 
 A short table of the signposts we have found clearest for the traditional ten lanes, with a note on why. These are our picks, not a standard.
 
@@ -111,4 +111,4 @@ Yes. Cards like Reanimate, Young Pyromancer, and Lotus Cobra signal a plan witho
 
 A signpost is the cube talking to the drafter. Pick cards that say one clear thing, make sure the thing they say is true, and let people find the decks you built for them. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that draft it. If you are near Indianapolis, come read our signposts in person at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that draft it. If you are near Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

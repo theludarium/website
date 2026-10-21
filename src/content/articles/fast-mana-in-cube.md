@@ -99,4 +99,4 @@ Dark Ritual has a common printing and many Pauper cubes include it. With no Necr
 
 ## See the lines at a table
 
-The argument about where to draw the line is better had across a table than in a comment thread. If you want in on it at a Cube Commonwealth draft in Indianapolis, [join a draft](/articles/cube-draft-indianapolis/). Subscribe to The Ludarium newsletter for new cube design pieces. The game is the reason. The people are the point.
+The argument about where to draw the line is better had across a table than in a comment thread. Subscribe to The Ludarium newsletter for new cube pieces, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, sets its first night as part of The Ludarium. The game is the reason. The people are the point.

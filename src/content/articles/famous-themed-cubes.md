@@ -6,7 +6,7 @@ category: Magic & Cube
 tags: ["famous cubes", "themed cube", "Ravnica Cube", "Chromatic Cube", "Tinkerer's Cube", "Nega-Cube", "cube design lessons", "Cube Commonwealth"]
 draft: true
 ---
-The famous cubes are not famous because they are the strongest. They are famous because each one tested a single design idea in public, with a card list anyone could read, and the result settled an argument. This article profiles five: the Ravnica Cube, Nega-Cube, Chromatic Cube, Tinkerer's Cube and the all-changeling cube. Four ran on Magic Online or Arena; the fifth is a paper cube that became an example in the best essay on theme written in years.
+The famous cubes are not famous because they are the strongest. They are famous because each one tested a single design idea in public, with a card list anyone could read, and the result settled an argument. This article profiles five: the Ravnica Cube, Nega-Cube, Chromatic Cube, Tinkerer's Cube and the all-changeling cube. Four ran on Magic Online or Arena; the fifth is a community cube on CubeCobra that became an example in the best essay on theme written in years.
 
 For each, we give the designer where the public record names one, the concept, and the lesson. For the general case of how to build around a theme, start with [themed cube ideas](/articles/themed-cube-ideas/). This is about what the experiments showed.
 
@@ -22,7 +22,7 @@ For each, we give the designer where the public record names one, the concept, a
 
 **Designer:** Natalie Weizenbaum, per Overturf's March 2021 preview, ["Everything I Know About Nega-Cube's Magic Online Debut"](https://articles.starcitygames.com/magic-the-gathering/select/everything-i-know-about-nega-cubes-magic-online-debut/).
 
-**Concept:** A cube made only of cards that were absent from the major Magic Online cubes. A meta-cube. If a card was in the Vintage, Legacy or Modern Cube, it was out. What remained was Attrition, Blood Artist, Goblin Bombardment, Mind Control, Tidings, Esika's Chariot, Korvold, Glare of Subdual and Precursor Golem.
+**Concept:** A cube made only of cards that were absent from the major Magic Online cubes. A meta-cube. If a card was in one of the major Magic Online cubes, it was out. What remained was Attrition, Blood Artist, Goblin Bombardment, Mind Control, Tidings, Esika's Chariot, Korvold, Glare of Subdual and Precursor Golem.
 
 **What it proves:** The card pool is far deeper than the staples lists suggest, and synergy fills the gap that raw power leaves. Overturf noted the designer's write-up organized the environment by "archetype clusters" rather than the ten color pairs, and that "knowing where the archetypes overlap is every bit as important" as the signposts themselves. Rakdos Sacrifice, white tokens, blue blink and green ramp all worked without a single card most cubers would call a staple. If you have been telling yourself your budget cube needs Ragavan to be good, Nega-Cube is the counter-example.
 
@@ -32,7 +32,7 @@ For each, we give the designer where the public record names one, the concept, a
 
 **Concept:** A 540-card singleton cube of expensive, many-colored spells, with ramp, removal and early fixing arranged so that the late game arrives reliably. The 2025 update changed 45 of them. The stated goal was "allowing players to consistently play multiple colors and a higher mana value than what is typical," with two guard rails: players "can't afford to do nothing during the first four turns," and they "should not be overly penalized for ramping and playing expensive cards."
 
-**What it proves:** You can push the curve up without breaking the format, but only if you push the fixing and the early plays up with it. The Chromatic Cube's early turns are full of mana rocks, Farseeks and cheap removal precisely so the seven-drops get cast. The common failure of a "big spells" paper cube is that the owner adds the dragons and forgets the Rampant Growths. The Arena list is a working answer to the question of how much support a top-heavy cube needs.
+**What it proves:** You can push the curve up without breaking the format, but only if you push the fixing and the early plays up with it. The Chromatic Cube's early turns are full of mana rocks, ramp spells and cheap removal precisely so the seven-drops get cast. The common failure of a "big spells" paper cube is that the owner adds the dragons and forgets the Rampant Growths. The Arena list is a working answer to the question of how much support a top-heavy cube needs.
 
 *If this is useful, the newsletter sends more like it.*
 
@@ -50,7 +50,7 @@ For each, we give the designer where the public record names one, the concept, a
 
 **Concept:** A cube in which every creature has changeling, so every creature is every creature type, and the tribal payoffs all fire all the time.
 
-**What it proves:** LaMascus's point, with this cube as the lead example, is that over-supplying a theme makes the theme's enablers cheap and the answers to it precious. In a cube where every creature is a lord's best friend, the scarcest and most valuable picks are the removal spells that break the engine. "The more we warp a cube around a single conceit, the more we incentivize our players to beat that theme." He makes the same observation about a friend's two-mana-or-less cube (mana sinks become the best cards) and his own cube, which was a "mono midrange" experience in 2020 until he leaned into blue control, green ramp and combo to add variety and give midrange a reason to exist.
+**What it proves:** LaMascus's point, with this cube as the lead example, is that over-supplying a theme makes the theme's enablers cheap and the answers to it precious. In a cube where every creature is a lord's best friend, the scarcest and most valuable picks are the removal spells that break the engine. "The more we warp a cube around a single conceit, the more we incentivize our players to beat that theme." He makes the same observation about a friend's two-mana-or-less cube (mana sinks become the best cards) and his own cube, which was a "mono midrange" experience in 2020 until he added blue control, green ramp and combo to diversify the metagame.
 
 This is the most useful lesson on the list, because it predicts how every themed cube will drift. Drafters are optimizers. Whatever you make abundant, they will learn to beat, and whatever beats it becomes the real theme.
 
@@ -86,6 +86,6 @@ Because drafters value scarcity. When a theme's pieces are everywhere, the cards
 
 ## Test an idea of your own
 
-Every cube on this list started as one person asking "what if the whole cube did this?" and then letting other people draft the answer. If you want a table to test yours on, [Cube Commonwealth in Indianapolis](/articles/cube-draft-indianapolis/) hosts guest cubes. Subscribe to The Ludarium newsletter for new cube pieces, including profiles like this one.
+Every cube on this list started as one person asking "what if the whole cube did this?" and then letting other people draft the answer. Subscribe to The Ludarium newsletter for new cube pieces, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, sets its first night as part of The Ludarium.
 
 The game is the reason. The people are the point.

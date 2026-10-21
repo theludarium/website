@@ -118,4 +118,4 @@ Choosing the cards can take a few weekends. Testing and tuning takes three to si
 
 ## Keep playing
 
-We send new cube pieces in The Ludarium newsletter, and the next expansion we make to the Commonwealth cube will be written up there, cuts and all. Subscribe, and if you are in Indianapolis, come draft the result with [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+We send new cube pieces in The Ludarium newsletter. Subscribe, and if you are in Indianapolis, you will hear first when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, sets its first night as part of The Ludarium.

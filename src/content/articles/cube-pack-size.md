@@ -121,4 +121,4 @@ It decides how much of the cube is opened, how strong decks are, how readable si
 
 ## Keep playing
 
-If you like the arithmetic side of cube, the newsletter sends new pieces like this, including the formats we try at Cube Commonwealth and whether they worked. Subscribe, and if you are in Indianapolis, come count packs with us; [here is how to join](/articles/cube-draft-indianapolis/).
+If you like the arithmetic side of cube, the newsletter sends new pieces like this. Subscribe, and if you are in Indianapolis, you will hear first when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, sets its first night as part of The Ludarium.

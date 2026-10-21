@@ -108,4 +108,4 @@ Cheap creatures in aggro colors, fixing lands, and the only enabler of an archet
 
 Every cut is a sentence in the primer you have not written yet. Make them on purpose, write them down, and let the smaller list draft better. The game is the reason. The people are the point.
 
-The Ludarium newsletter sends new cube pieces, including the section-count sheet we use for trims. Subscribe, and if you are in Indianapolis, bring your 600 to Cube Commonwealth and we will help you find the 60: [how to join](/articles/cube-draft-indianapolis/).
+The Ludarium newsletter sends new cube pieces. Subscribe, and if you are in Indianapolis, you will hear first when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, sets its first night as part of The Ludarium.

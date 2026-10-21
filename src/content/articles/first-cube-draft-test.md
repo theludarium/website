@@ -63,7 +63,7 @@ A reasonable change list after a first draft is five to ten cards. If your list 
 
 ## What do first cubes usually find?
 
-In our experience watching first drafts at Cube Commonwealth, five findings come up more than any others. This is observation, not a tally.
+Watch enough first drafts and five findings come up more than any others. This is observation, not a tally.
 
 | Finding | Usual cause | Usual fix |
 |---|---|---|
@@ -107,4 +107,4 @@ Mana. Thin fixing shows up as long deckbuilding, awkward splashes, and games dec
 
 The first draft is not the night your cube is judged. It is the night it starts telling you what it wants to be. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for new cube pieces, including the printable first-draft tally sheet. And if you are in Indianapolis and want seven testers for your first draft, Cube Commonwealth will sit down with you: [how to join](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for new cube pieces, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, sets its first night as part of The Ludarium.

@@ -30,7 +30,7 @@ A short list, each with why it lands here. These are house opinions and reasonab
 - **Thassa's Oracle plus a library-exile spell.** The game ends with no board, no combat and nothing to respond to for most decks.
 - **Stasis, Winter Orb, Armageddon.** One player plays Magic. The other watches.
 - **Blood Moon.** In a cube with fetchlands and duals it either does nothing or ends the game on the spot. The variance is the problem, not the power.
-- **Mind Twist.** Four mana (one black plus X): target player discards X cards at random. Turn-two Ritual into Mind Twist for three is a game that has not started yet and is already over.
+- **Mind Twist.** X plus one black mana: target player discards X cards at random. Turn-two Ritual into Mind Twist for three is a game that has not started yet and is already over.
 - **Thieving Skydiver, Hullbreacher, Opposition Agent.** Hate cards that punish a drafter for drafting the archetype the cube told them to draft.
 
 Every card above is strong. Several are in the current MTGO Vintage Cube. The question for your cube is whether the slot could do the same job with more of the opponent in the game.
@@ -38,15 +38,15 @@ Every card above is strong. Several are in the current MTGO Vintage Cube. The qu
 ## Which cards are fun but weak?
 
 - **Sneak Attack.** Four mana for an enchantment that puts a creature into play with haste for one red, then sacrifices it at end of turn. Needs the right deck, dead otherwise, and produces the best stories in cube.
-- **Birthing Pod.** Four mana (two of them Phyrexian green): sacrifice a creature and search for one that costs exactly one more. Builds a chain of decisions every turn and is almost never the best card in the deck.
+- **Birthing Pod.** Four mana, one of them Phyrexian green: sacrifice a creature and search for one that costs exactly one more. Builds a chain of decisions every turn and is almost never the best card in the deck.
 - **Gifts Ungiven.** Four mana at instant speed: search for four cards with different names, the opponent picks two for your graveyard. A puzzle for both players.
-- **Recurring Nightmare, Survival of the Fittest, Oath of Druids.** Engines that reward building around and do nothing for the deck that did not. Survival was cut from the MTGO Vintage Cube in October 2026 as part of a wider move away from creature-cheat; it remains a joy in a cube that supports it.
+- **Recurring Nightmare, Survival of the Fittest, Oath of Druids.** Engines that reward building around and do nothing for the deck that did not. Survival was cut from the MTGO Vintage Cube in October 2026 when the curators retired the madness and discard archetype for now; it remains a joy in a cube that supports it.
 - **Goblin Welder, Daretti, Scrap Trawler.** Artifact-recursion cards that make a lane exist. Weak in a vacuum.
 - **Cogwork Librarian.** A draft-matters card: take two picks now, put Librarian back in the pack. It changes the draft rather than the game, and drafters talk about it for weeks.
 - **Chaos Warp, Warp World, Thieves' Auction.** Pure variance. A cube should have one or two of these and no more.
 - **Settle the Wreckage, Comeuppance, Deflecting Palm.** Punish cards that reward an opponent's bad read. Weak unless the opponent walks into them, and memorable when they do.
 
-The MTGO Vintage Cube designers named this category directly in their [May 2026 update](https://www.mtgo.com/news/sos-vintage-cube-update): the four- and five-color charms and value piles "might not necessarily clear the competitive bar fully," they wrote, but they are "of the fun variety." That is the Vintage Cube, the most power-focused cube in the game, saying out loud that some slots are for fun.
+The MTGO Vintage Cube designers named this category directly in their [May 2026 update](https://www.mtgo.com/news/sos-vintage-cube-update): four- and five-color "value piles" "might not necessarily clear the competitive bar fully," they wrote, but they "are certainly of the fun variety." That subtheme left again in July 2026, but the point stands: that is the Vintage Cube, the most power-focused cube in the game, saying out loud that some slots are for fun.
 
 *If this is useful, the newsletter sends more like it.*
 
@@ -76,7 +76,7 @@ When a slot comes open and two cards are close in power, ask four questions. Sco
 | Is this card different in two different archetypes? | Cards that change by deck make the draft more interesting. |
 | Would a drafter tell a story about this card? | The honest measure of fun. Sneak Attack yes; Mind Twist no. |
 
-Three or four: the card is in. Two: it is a cut candidate the next time a stronger card comes along. Zero or one: it had better be very strong, and even then it should be alone in its category. This is a house test, not a standard, and it is the one Cube Commonwealth uses when the power argument is a tie. The broader method is in [cube card selection](/articles/cube-card-selection/).
+Three or four: the card is in. Two: it is a cut candidate the next time a stronger card comes along. Zero or one: it had better be very strong, and even then it should be alone in its category. This is a house test, not a standard, and it is a good one to reach for when the power argument is a tie. The broader method is in [cube card selection](/articles/cube-card-selection/).
 
 ## Where should the balance sit?
 
@@ -100,8 +100,8 @@ Yes, in small numbers per lane. Sneak Attack, Birthing Pod and Recurring Nightma
 
 ### Is the MTGO Vintage Cube designed for fun or power?
 
-Both, and its designers say so. The May 2026 update added multicolor charms it described as not fully clearing the competitive bar but "of the fun variety."
+Both, and its designers say so. The May 2026 update added a four- and five-color subtheme it described as not fully clearing the competitive bar but "of the fun variety."
 
 ## Tell us the card
 
-Every cube owner has one card they keep for the stories and one they cut for the table's sake. Bring both to a Cube Commonwealth draft in Indianapolis and make the case; [here is how to join](/articles/cube-draft-indianapolis/). Subscribe to The Ludarium newsletter for new cube design pieces. The game is the reason. The people are the point.
+Every cube owner has one card they keep for the stories and one they cut for the table's sake. Subscribe to The Ludarium newsletter for new cube pieces, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, sets its first night as part of The Ludarium. The game is the reason. The people are the point.

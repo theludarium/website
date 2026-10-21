@@ -109,4 +109,4 @@ Yes. Burning Wish, Karn, the Great Creator, and similar effects fetch from your 
 
 The main deck is a first draft. The sideboard is the editing pass, done one opponent at a time, and most of the good players at a cube table are the ones who bother to do it. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for new pieces on cube play and the rules that keep a table happy. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) will show you what game three looks like when both players sideboarded.
+Subscribe to The Ludarium newsletter for new pieces on cube play and the rules that keep a table happy. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

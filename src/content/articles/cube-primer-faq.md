@@ -114,4 +114,4 @@ After each cube update, add any new question that survives three weeks of being 
 
 An FAQ written from real questions tells a new drafter that other new drafters have been here, were confused in the same ways, and were answered. That is a kind of welcome, and it is one more reason someone comes back. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for the rest of this series on cube primers. If you are in Indianapolis and have a question this FAQ did not answer, ask it in person at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for the rest of this series on cube primers. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

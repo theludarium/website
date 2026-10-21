@@ -12,7 +12,7 @@ This article gives those counts, breaks removal into five kinds, and explains ho
 
 ## How much removal should a cube have?
 
-As a house guideline for a 360-card unpowered cube, aim for 55 to 70 cards whose main job is removing or neutralizing a permanent, which is roughly 15 to 20 percent of the cube. That is cards like Lightning Bolt, Swords to Plowshares, Doom Blade, and Counterspell-style answers, not creatures with an enters-the-battlefield ping. The range is ours, arrived at by counting what our own drafts needed, not a published standard.
+As a house guideline for a 360-card unpowered cube, aim for 55 to 70 cards whose main job is removing or neutralizing a permanent, which is roughly 15 to 20 percent of the cube. That is cards like Lightning Bolt, Swords to Plowshares, Doom Blade, and Counterspell-style answers, not creatures with an enters-the-battlefield ping. The range is a house guideline, not a published standard.
 
 By color, it is uneven on purpose:
 
@@ -97,4 +97,4 @@ For balance math, count them at about two-thirds weight and bounce at about half
 
 Count the kinds before you count the cards. A cube with the right mix at the right density lets every archetype play, and that is what a removal suite is for. The game is the reason. The people are the point.
 
-The Ludarium newsletter sends new cube pieces, including our removal tally sheet. Subscribe, and if you are in Indianapolis, bring your list to a Cube Commonwealth night and we will run the twenty-creature test together: [how to join](/articles/cube-draft-indianapolis/).
+The Ludarium newsletter sends new cube pieces. Subscribe, and if you are in Indianapolis, you will hear first when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, sets its first night as part of The Ludarium.
