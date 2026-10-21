@@ -1,10 +1,10 @@
 ---
 title: "Lucky Paper Cube Design: What It Taught Everyone"
 description: "Lucky Paper cube design turned taste into method: four questions, the Vindicate Test, land data from 75,000 decks, and the Cube Map. The ideas, with sources."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["Lucky Paper cube", "Lucky Paper Radio", "cube design philosophy", "Cube Map", "Vindicate Test", "how many lands in a cube", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Lucky Paper is a small Magic site and podcast that, over about seven years, did more to turn cube design into a discipline than any card list ever has. The Lucky Paper cube writing gave the hobby a shared set of questions, a few named tests, and the first large data sets about how cubes actually get drafted. The site's [about page](https://luckypaper.co/about/) names four people behind it: Andy Mangold, Jett Crowdis, Anthony Mattox and Parker LaMascus.
 
@@ -45,7 +45,7 @@ The findings most cube owners now quote:
 |---|---|
 | Share of fixing lands that get maindecked | About two-thirds; the article plans with 75% |
 | Fixing in a typical CubeCobra cube | Roughly 8% to 12% of the list |
-| Suggested fixing, two-color Legacy or Modern power, 360 cards | 100 to 140 fixing lands (28% to 39%) |
+| Fixing to match two-color Legacy or Modern Constructed decks, 360 cards | 100 to 140 fixing lands (28% to 39%) |
 | Suggested minimum for two-color decks, 360 cards | About 60 fixing lands (17%) |
 | Uncastable cards per drafted pool | About 7 to 8 |
 | Total lands (all kinds) in a 360 past which drafters risk running short of spells | About 96 to 120 |
@@ -68,7 +68,7 @@ LaMascus's writing since 2022 has pushed on taste rather than numbers, and sever
 
 - ["Cube Power Level: A User's Guide"](https://luckypaper.co/articles/cube-power-level-a-users-guide/) (March 2022) made the case that power level is a design choice to be stated, not a tier to climb.
 - ["Weak Cards Are Good for Your Cube"](https://luckypaper.co/articles/weak-cards-are-good-for-your-cube/) (December 2025) argued that power upgrades do not add playable depth, they only raise the bar for what counts as playable, so weaker cards are tools for synergies, build-around quests and room for a format's pillars to stand out.
-- ["Dinner Party Cube Design"](https://luckypaper.co/articles/dinner-party-cube-design/) (March 2026) argued that a weekly cube night lives or dies on hosting, not card choice. Its two rules: "everybody drafts, at the same time and place every week," and then "Everything else is secondary, including the cube's gameplay." A footnote traces the metaphor to a conversation between Usman Jamil and Patrick Chapin.
+- ["Dinner Party Cube Design"](https://luckypaper.co/articles/dinner-party-cube-design/) (March 2026) argued that a weekly cube night lives or dies on hosting, not card choice. Its two rules: "everybody drafts, at the same time and place every week." Then: "Everything else is secondary, including the cube's gameplay." A footnote traces the metaphor to a conversation between Usman Jamil and Patrick Chapin.
 - ["The Self-Defeating Irony of Cube Conceits"](https://luckypaper.co/articles/the-self-defeating-irony-of-cube-conceits/) (September 2026) made the sharpest version of the case against single-theme cubes: "The more we warp a cube around a single conceit, the more we incentivize our players to beat that theme." When every creature is a changeling, removal becomes the scarce resource and the best pick. When every spell costs two or less, mana sinks are. Scarcity, not theme, decides what drafters value.
 
 That last piece names real cubes as examples, including Tim Myers's all-changeling cube and LaMascus's own list, which was a "mono midrange" experience in 2020 and was later pushed toward blue control, green ramp and combo to add variety and give midrange a reason to exist.
@@ -99,7 +99,7 @@ A heuristic from Andy Mangold: imagine your opponent answers your card with Vind
 
 ### How many lands does Lucky Paper say a cube should have?
 
-For a 360-card cube at Legacy or Modern power with two-color decks, roughly 100 to 140 fixing lands, with about 60 as a floor; it also warns that going past about 96 to 120 total lands is risky because drafters can run short of spells. The article admits the two ranges collide at the high end.
+To give decks the fixing of two-color Legacy or Modern Constructed decks, roughly 100 to 140 fixing lands in a 360, with about 60 as a floor; it also warns that going past about 96 to 120 total lands is risky because drafters can run short of spells. The article does not reconcile the two ranges at the high end.
 
 ### What is the Cube Map?
 
@@ -107,6 +107,6 @@ An interactive visualization on luckypaper.co that arranges thousands of public 
 
 ## Keep reading, then come draft
 
-Lucky Paper's best idea is that a cube should be designed on purpose and hosted with care. We try to do both at [Cube Commonwealth in Indianapolis](/articles/cube-draft-indianapolis/), and you are welcome at the table. Subscribe to The Ludarium newsletter for new pieces on cube design and the people who play it.
+Lucky Paper's best idea is that a cube should be designed on purpose and hosted with care. Subscribe to The Ludarium newsletter for new pieces on cube design and the people who play it, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, sets its first night as part of The Ludarium.
 
 The game is the reason. The people are the point.

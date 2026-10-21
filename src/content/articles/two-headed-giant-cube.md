@@ -1,10 +1,10 @@
 ---
 title: "Two-Headed Giant Cube Draft: Rules and Procedure"
 description: "Two-Headed Giant cube draft from start to finish: two cards a pick, the shared pool, 30 life, the first-turn draw rule, and what to change in your cube to fit."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["two headed giant cube", "Two-Headed Giant draft", "2HG cube", "team cube draft", "shared life total Magic", "Two-Headed Giant rules", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 A two headed giant cube draft seats four teams of two around the table, has each team take two cards from every pack, and ends with each pair building two decks from one shared pool. The games are played two against two with a shared 30-life total and simultaneous turns. It is the format that lets a veteran and a newcomer sit on the same side.
 
@@ -12,7 +12,7 @@ This article gives the official draft procedure, the game rules that most often 
 
 ## How does a Two-Headed Giant draft work?
 
-The procedure below follows the Two-Headed Giant tournament rules as summarized on the [MTG Wiki](https://mtg.wiki/page/2hg_play-draw_rule) and the [Magic Judges 2HG FAQ](https://blogs.magicjudges.org/2hg/faq/). The tournament rules recommend six boosters per team; for a cube we use the same count.
+The procedure below follows the Two-Headed Giant tournament rules as summarized on the [MTG Wiki](https://mtg.wiki/page/2hg_play-draw_rule) and the [Magic Judges 2HG FAQ](https://blogs.magicjudges.org/2hg/faq/). The tournament rules recommend six boosters per team; for a cube, use the same count.
 
 **Setup**
 
@@ -44,7 +44,7 @@ Two-Headed Giant has its own rules in the Comprehensive Rules, section 810. The 
 - **Shared life total of 30.** Damage and life gain happen to the individual player but apply to the team total. A team at 0 or less loses.
 - **Shared turns.** Both teammates take their untap, draw, main phases, and combat at the same time. Each player draws their own card and plays their own land.
 - **The starting team skips its first draw.** Neither player on the team that goes first draws on turn one. The team chosen at random decides play or draw before either player looks at a hand.
-- **Mulligans.** Each player takes a free first mulligan. On the second mulligan you put one card on the bottom, and so on. Teammates decide at the same time.
+- **Mulligans.** Each player takes a free first mulligan. On the second mulligan you put one card on the bottom, and so on. Teammates decide together.
 - **Poison is shared.** A team with 15 or more poison counters loses.
 - **Attacking.** Since 2018, creatures attack a specific player or planeswalker, not the team. Either defending player may block with their creatures. Damage still comes off the shared total.
 - **Open hands.** Teammates may look at each other's hands at any time and discuss anything. They may not touch each other's cards.
@@ -75,7 +75,7 @@ Practical adjustments:
 
 ## How do you pair the teams?
 
-The format exists to put a strong player next to a weak one, so pair them that way. Our approach when running a 2HG night:
+The format exists to put a strong player next to a weak one, so pair them that way. A good approach when running a 2HG night:
 
 1. Ask everyone to rate themselves 1 to 3 on draft experience. Pair 3s with 1s first, then 2s together.
 2. Put couples and friends who asked to play together on the same team regardless of rating. The social goal outranks balance.
@@ -115,4 +115,4 @@ No. The team that plays first skips the draw step on its first turn, for both pl
 
 Two-Headed Giant is the one cube format where the person next to you is on your side. For a group that wants to bring in partners, friends, and first-timers without feeding them to the sharks, nothing else works as well. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for new pieces on formats and the groups that run them. Indianapolis readers who want to bring a partner to their first draft should look at [Cube Commonwealth](/articles/cube-draft-indianapolis/); 2HG night is the easiest door in.
+Subscribe to The Ludarium newsletter for new pieces on formats and the groups that run them. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

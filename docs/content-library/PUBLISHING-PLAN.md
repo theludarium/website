@@ -208,7 +208,7 @@ Status on 2026-10-19: 21 published at launch, 320 drafts.
 - `grid-draft-four-players`: Grid Draft for Three and Four Players: Full Procedure
 - `how-to-draft-vintage-cube`: How to Draft Vintage Cube: Power, Lanes, Discipline
 
-## Batch 9: Cube, part 3 (24)
+## Batch 9: Cube, part 3 (24) (published 2026-10-21)
 
 - `how-to-read-a-cube-list`: How to Read a Cube List in Ten Minutes
 - `how-to-write-a-cube-primer`: How to Write a Cube Primer People Actually Read

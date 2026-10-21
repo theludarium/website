@@ -1,10 +1,10 @@
 ---
 title: "Rochester Draft for Cube: The Open-Information Format"
 description: "Rochester draft for cube, step by step: how to lay out each pack, the snake pick order, who opens next, and how long eight players need to finish the draft."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["Rochester draft", "Rochester draft rules", "open information draft", "cube draft formats", "how to Rochester draft", "draft with face-up packs", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Rochester draft opens one pack at a time, face up, in the middle of the table. Players take one card each in a snaking order until the pack is gone, then the next player opens the next pack. Nothing is hidden. You see every card your neighbors take, and they see yours.
 
@@ -47,7 +47,7 @@ Build 40-card decks as usual. Deck-building takes less time than normal because 
 
 ## How long does a Rochester draft take?
 
-At tournament pace, the MTR allows 20 seconds of review and 5 seconds per pick, which works out to about a minute and three-quarters per pack and roughly 40 minutes for 24 packs. No casual table plays that fast.
+At tournament pace, the MTR allows 20 seconds of review and 5 seconds per pick, which works out to about a minute and a half per pack and roughly 40 minutes for 24 packs. No casual table plays that fast.
 
 Budget 60 to 90 minutes for a cube Rochester with eight experienced players. Groups that let the table talk between picks, which is most of the fun, run closer to 90. If your night has a hard stop, plan for the draft to take twice as long as your usual one.
 
@@ -99,7 +99,7 @@ The player who opened the pack picks first, and the pick order snakes: around th
 
 ### Can you run Rochester draft with fewer than eight players?
 
-Yes. With six players and 15-card packs, the opener takes three cards and the others two, or you use 12-card packs so the counts stay even. Any even split works; just keep the opener rotating.
+Yes. With six players and 15-card packs, three players get three cards from each pack and three get two, which evens out as the opener rotates. Or use 12-card packs so everyone takes two.
 
 ### Is Rochester draft still played in tournaments?
 
@@ -109,4 +109,4 @@ Rarely. The MTR still documents the [team version](https://blogs.magicjudges.org
 
 Rochester takes twice as long and produces half the surprises. In exchange it gives you an hour where eight people watch each other think. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for new draft formats and house rules, written to be run from the page. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) runs an open-information night a few times a year, and the table is loud.
+Subscribe to The Ludarium newsletter for new draft formats and house rules, written to be run from the page. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

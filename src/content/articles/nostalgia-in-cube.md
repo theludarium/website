@@ -1,10 +1,10 @@
 ---
 title: "Nostalgia in Cube: Old Cards and Why They Belong"
 description: "Old cards in cube earn their slots differently. Which classics still play, which are there for the memory, and how to keep both without building a museum."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["old cards in cube", "nostalgia cube", "classic Magic cards in cube", "Shivan Dragon cube", "cube card history", "cube design philosophy", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Old cards in a cube are there for one of two reasons, and the owner should know which. Some are old and still good: Lightning Bolt, Swords to Plowshares, Counterspell, Wrath of God, Dark Ritual. They would be in the cube if they were printed yesterday. Others are old and loved: Shivan Dragon, Serra Angel, Sengir Vampire, Erhnam Djinn. They are in because someone at the table will see them and remember being eleven.
 
@@ -28,7 +28,7 @@ Cards from the game's first decade that are still at or near the top of their sl
 - **Card advantage:** Fact or Fiction, Ancestral Recall (if powered), Sylvan Library, Necropotence, Phyrexian Arena.
 - **Mana and acceleration:** Dark Ritual, Llanowar Elves, Birds of Paradise, Sol Ring, the original duals and fetches.
 - **Threats and engines:** Sneak Attack, Opposition, Recurring Nightmare, Survival of the Fittest, Oath of Druids, Armageddon (if your cube allows it), Balance (same).
-- **Creatures that still play:** Mother of Runes, Goblin Guide's ancestors like Jackal Pup in a pauper list, Man-o'-War, Flametongue Kavu, Ravenous Baloth, Eternal Witness, Kird Ape in the right cube.
+- **Creatures that still play:** Mother of Runes, Goblin Guide's ancestors like Jackal Pup in a pauper list, Man-o'-War, Flametongue Kavu, Ravenous Baloth, Kird Ape in the right cube.
 
 None of these need a nostalgia argument. They are good. The point of listing them is that an owner who wants an old-feeling cube can get most of the way there with cards that are also correct. The cube reads as classic without paying a power tax.
 
@@ -95,4 +95,4 @@ Ask whether it ever makes a deck better than its replacement would, for some dra
 
 A cube should feel like the game it came from, which means carrying some of the game's past. Choose the old cards that still play, add a small handful that are there for the memory, and be honest about which is which. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that play it. Indianapolis drafters can come see which Djinn made the cut at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that play it. In Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

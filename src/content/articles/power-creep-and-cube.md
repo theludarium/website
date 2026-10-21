@@ -1,10 +1,10 @@
 ---
 title: "Power Creep and Cube: What to Do About It"
 description: "Power creep is rewriting cubes: the 2019-onward cards that reset every band, what the MTGO Vintage Cube's updates show, and four ways an owner can respond."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["power creep cube", "power creep Magic", "Modern Horizons cube", "cube power level drift", "keeping a cube current", "cube updates power creep", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Power creep in cube is not a complaint; it is a maintenance fact. The cards printed since 2019 are stronger per mana than the cards printed before, and a cube that updates every set drifts upward in power without anyone deciding it should. A Legacy-band cube built in 2015 and kept current is a different cube now, and the difference is not the cards it added. It is the cards those additions made obsolete.
 
@@ -14,9 +14,9 @@ This article names the printings that did the most to move each band, uses the M
 
 Power creep in cube came in three waves, and each one reset a different part of the list.
 
-**War of the Spark and Throne of Eldraine (2019).** Three-mana planeswalkers that protect themselves: Teferi, Time Raveler; Narset, Parter of Veils; Oko, Thief of Crowns. Plus Once Upon a Time and the Eldraine adventure creatures (Bonecrusher Giant, Brazen Borrower, Murderous Rider) that are two cards in one slot. Before 2019, a three-mana walker was Liliana of the Veil and almost nothing else. After it, the three-drop slot in every color had a walker competing with creatures.
+**War of the Spark and Throne of Eldraine (2019).** Three-mana planeswalkers that protect themselves: Teferi, Time Raveler; Narset, Parter of Veils; Oko, Thief of Crowns. Plus Once Upon a Time and the Eldraine adventure creatures (Bonecrusher Giant, Brazen Borrower, Murderous Rider) that are two cards in one slot. Before 2019, a three-mana walker was Liliana of the Veil and a few others. After it, the three-drop slot in every color had a walker competing with creatures.
 
-**Theros Beyond Death and Ikoria (2020).** Uro, Titan of Nature's Wrath; Thassa's Oracle; the companions, especially Lurrus of the Dream-Den (if every permanent in your deck costs two or less, Lurrus starts in your sideboard and once per turn lets you recast a permanent from your graveyard). Uro alone made Simic the best color pair in every cube that allowed it.
+**Theros Beyond Death and Ikoria (2020).** Uro, Titan of Nature's Wrath; Thassa's Oracle; the companions, especially Lurrus of the Dream-Den (if every permanent in your deck costs two or less, Lurrus starts in your sideboard and once per turn lets you cast a permanent with mana value 2 or less from your graveyard). Uro pushed Simic to the top of many cubes that allowed it.
 
 **Modern Horizons 2 and The Lord of the Rings (2021 to 2023).** Ragavan, Nimble Pilferer (one mana, 2/1, makes a Treasure and exiles-and-lets-you-cast the top card of the opponent's library on each combat damage). The five evoke elementals (free removal, discard, sweepers and graveyard hate). Urza's Saga. Orcish Bowmasters. The One Ring. This wave did the most damage to the unpowered band, because none of it is Power and all of it is stronger than most of what the band was built on.
 
@@ -26,11 +26,11 @@ Power creep in cube came in three waves, and each one reset a different part of 
 
 The Vintage Cube is the clearest record because its designers explain every change in public. Three threads run through the last three posts.
 
-**Creatures got better, so the cube is adding fewer of them.** The [October 2026 update](https://www.mtgo.com/news/fra-vintage-cube-update) cut Robber of the Rich because the designers "didn't want to add more efficient creatures when such cards were already dominant," and said Vintage Cube "has shifted toward battlefield play with more well-statted creatures." In a format with Black Lotus, the efficient creature count is now a thing the designers actively limit.
+**Creatures got better, so the cube is adding fewer of them.** The [October 2026 update](https://www.mtgo.com/news/fra-vintage-cube-update) cut Robber of the Rich, with the designers writing that "we do not want to flood the Cube with too many efficient creatures when those cards are already dominant," and noted elsewhere that Vintage Cube "has become more focused on playing to the battlefield in recent years." In a format with Black Lotus, the efficient creature count is now a thing the designers actively limit.
 
 **Expensive planeswalkers stopped working.** The same post: "Five-mana planeswalkers are unquestionably declining in viability in modern Vintage Cube." That is power creep measured in a sentence. The five-drop walker did not get worse. The cards that answer it or race it got better.
 
-**Old combos lost to new ones.** The [August 2025 update](https://www.mtgo.com/news/eoe-vintage-cube-update) cut Channel, Eureka and Craterhoof Behemoth and said the cube was "moving away from creature-cheat and ramp." The [May 2026 update](https://www.mtgo.com/news/sos-vintage-cube-update) cut Yawgmoth, Thran Physician, Bloodghast and Gravecrawler; the October 2026 one cut High Tide, Bazaar of Baghdad and Survival of the Fittest. Cards that defined Vintage cube combo for a decade are now below the line.
+**Old combos lost to new ones.** The [August 2025 update](https://www.mtgo.com/news/eoe-vintage-cube-update) cut Channel, Eureka and Craterhoof Behemoth and said the cube was "moving away from creature-cheat and ramp." Packages rotate too: the [May 2026 update](https://www.mtgo.com/news/sos-vintage-cube-update) rested the aristocrats package (Yawgmoth, Thran Physician, Bloodghast and Gravecrawler) because it could not quite earn a permanent spot, and October cut High Tide as one of the weaker combos and rested Bazaar of Baghdad and Survival of the Fittest with madness. Cards that defined Vintage cube combo for a decade now come and go with the decks around them.
 
 The lesson for paper owners is not to copy the cuts. It is that the reference cube's floor has risen enough that the designers are trimming famous cards for being too slow. If your cube's floor has not moved, your cube is now a different band than it was, whether or not you updated it. [How MTGO Vintage Cube updates work](/articles/how-mtgo-vintage-cube-updates-work/) covers reading those posts in detail.
 
@@ -63,7 +63,7 @@ Our recommendation for a weekly Legacy-band cube is to pin the floor and revisit
 If the symptoms above describe your cube, these are the cards most likely to be causing them, with what each does in a sentence:
 
 - **Uro, Titan of Nature's Wrath**: three mana for life, a card and a land, then a recurring 6/6. Ramp, draw and finisher in one.
-- **Oko, Thief of Crowns**: three mana to answer any permanent every other turn and make a 3/3 in between.
+- **Oko, Thief of Crowns**: three mana to answer any artifact or creature every other turn and make a 3/3 in between.
 - **Ragavan, Nimble Pilferer**: a one-drop that generates mana and cards on every hit.
 - **Fury**: free four damage split among creatures. The card that most often ends aggro's night.
 - **The One Ring**: a colorless draw engine with a free turn of protection.
@@ -76,7 +76,7 @@ None of these is Power. All of them are in the current 540-card MTGO Vintage Cub
 
 ### Is power creep real in Magic?
 
-Yes. Wizards' own designers have said the Modern Horizons sets were designed above Standard power level, and the MTGO Vintage Cube's update posts describe cutting cards that were format staples for a decade because they no longer keep up.
+Yes. The Modern Horizons sets skip Standard entirely and were built for older formats, and the MTGO Vintage Cube's update posts describe cutting cards that were format staples for a decade because they no longer keep up.
 
 ### Should I stop updating my cube to avoid power creep?
 
@@ -88,8 +88,8 @@ Modern Horizons 2 is the usual answer. Ragavan, the evoke elementals and Urza's 
 
 ### Does power creep hurt Pauper cubes?
 
-Less, because the commons ceiling moves slowly. It still happens; the Modern Horizons sets and recent Standard sets have printed commons that outclass the commons of 2010, and The Pauper Cube updates about twice a year partly for that reason.
+Less, because the commons ceiling moves slowly. It still happens; the Modern Horizons sets and recent Standard sets have printed commons that outclass the commons of 2010, and The Pauper Cube updates regularly partly for that reason.
 
 ## Audit the floor, not just the ceiling
 
-Open your list, sort by year of first printing, and look at the oldest fifty cards. If most of them would not make the cube today, the creep has already happened. Cube Commonwealth runs that audit on its Indianapolis cube and the arguments it starts are the good kind; [join a draft](/articles/cube-draft-indianapolis/) and bring your list. Subscribe to The Ludarium newsletter for new cube design pieces. The game is the reason. The people are the point.
+Open your list, sort by year of first printing, and look at the oldest fifty cards. If most of them would not make the cube today, the creep has already happened. The arguments that audit starts are the good kind. Subscribe to The Ludarium newsletter for new cube pieces, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, sets its first night as part of The Ludarium. The game is the reason. The people are the point.

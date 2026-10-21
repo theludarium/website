@@ -1,10 +1,10 @@
 ---
 title: "Shrink a Cube: The Case for 450 Cards"
 description: "Why and how to shrink a cube: the signs a 540 is bloated, the case for 450 as the best middle size, and a cut method that loses 90 cards but no lanes."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["shrink a cube", "450 card cube", "cube bloat", "cutting cards from a cube", "cube too big", "trimming a cube", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Most owners never shrink a cube. Adding is fun and cutting is not, so cubes drift upward until the owner declares a size and stops counting. But the best thing many 540s could do is lose ninety cards. A tighter cube drafts more consistently, supports its lanes more reliably, and is easier to keep sharp. And 450, the size nobody plans to build, is often where a cube that grew too far should land.
 
@@ -75,7 +75,7 @@ Announce it, then draft it twice before taking feedback.
 
 Drafters notice cuts emotionally before they notice them structurally. Someone's favorite card left and the first draft after will feature a complaint about it. Let the cube play. By the third draft, the conversation is usually about how clean the lanes feel, and the missing favorite has been forgotten or has a case for coming back on merit.
 
-Publish the cut list. A changelog that says "cut for pass one: last-pick data" removes the sense that the owner played favorites. We keep ours in the primer.
+Publish the cut list. A changelog that says "cut for pass one: last-pick data" removes the sense that the owner played favorites. Keep it in the primer.
 
 ## When 450 is wrong
 
@@ -105,4 +105,4 @@ Cut utility lands in proportion, but keep fixing lands close to their original r
 
 ## Keep playing
 
-Subscribe to The Ludarium newsletter for new cube pieces, including the cut lists when we trim our own. And if you are in Indianapolis and want to see what a tight list drafts like, [Cube Commonwealth](/articles/cube-draft-indianapolis/) has a chair.
+Subscribe to The Ludarium newsletter for new cube pieces, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, sets its first night as part of The Ludarium.

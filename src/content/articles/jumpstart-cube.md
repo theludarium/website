@@ -1,10 +1,10 @@
 ---
 title: "Jumpstart Cube: Pre-Built Packs, 15-Minute Setup"
 description: "How to build a Jumpstart cube: 20 themed 20-card packs, the pack formula, converting an existing cube, and why it is the fastest Magic setup there is."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["Jumpstart cube", "jumpstart pack formula", "jumpstart cube themes", "convert cube to jumpstart", "quick magic format", "two-pack decks", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 A Jumpstart cube is a box of themed 20-card half-decks. Each player grabs two, shuffles them together, and has a 40-card deck in the time it takes to find dice. No draft, no deckbuilding, no forty-five minutes of picks before anyone casts a spell. For a weeknight when two people show up late and one has to leave early, a Jumpstart cube is the format that still gets played.
 
@@ -20,11 +20,11 @@ Each pack is monocolored. Two packs make a two-color deck, or a mono-color deck 
 
 ## How many packs does a Jumpstart cube need?
 
-Twenty is the standard starting number: four themes per color, five colors. Twenty packs produce 190 distinct two-pack pairings (20 choose 2), which is enough variety that a group can play weekly for months before a combination repeats. Twenty packs of twenty cards is 400 cards, which is a normal cube's worth of sleeves.
+Twenty is the standard starting number: four themes per color, five colors. Twenty packs produce 190 distinct two-pack pairings (20 choose 2), which is enough variety that the same pairing rarely comes up. Twenty packs of twenty cards is 400 cards, which is a normal cube's worth of sleeves.
 
 The CubeCobra guide's practical ceiling is six or seven packs per color, so 30 to 35 total. Past that the overlap design (below) stops being manageable and the pack-selection step slows down. If you want more variety than 35 packs, build a second Jumpstart cube with a different power level rather than a bigger one.
 
-Four players need eight packs in play at once. With 20 in the box, the three-then-three selection works cleanly for up to four players. For six or eight players, offer two packs per choice instead of three, or grow the box to 30.
+Four players need eight packs in play at once. With 20 in the box, the three-then-three selection works for up to four players if you shuffle unpicked packs back in before the second choice. For six or eight players, offer two packs per choice instead of three, or grow the box to 30.
 
 ## What goes in a single 20-card pack?
 
@@ -43,7 +43,7 @@ That is 12 spells and 8 lands. Two packs together give 24 spells and 16 lands, w
 Three rules keep packs honest:
 
 1. **Every pack must be able to win on its own.** A "Lifegain" pack with no way to turn life into damage is dead weight until it finds the right partner. Give it a Lone Rider or an Ajani's Pridemate so it threatens something alone.
-2. **Match removal speed to the theme.** The guide's phrasing: cheap removal for control packs, expensive removal for aggro packs. A Goblins pack with Lightning Bolt wants to be attacking anyway; it should get Fiery Temper, not Doom Blade. Give the control pack the efficient answer.
+2. **Match removal speed to the theme.** The guide's phrasing: cheap removal for control packs, expensive removal for aggro packs. A Goblins pack wants to attack anyway, so give it Fiery Temper and save Lightning Bolt for the red control pack.
 3. **Curve each pack as if it were the whole deck.** Eight creatures should look like 2-2-2-1-1 across mana values one through five, not six three-drops. Two packs with the same lopsided curve make an unplayable deck.
 
 ## What is the overlap method, and why bother?
@@ -66,13 +66,13 @@ The conversion steps:
 2. Within each color, group cards by what they want to do. Four groups per color becomes four pack themes.
 3. Move artifacts and colorless cards into the packs that want them. Mana rocks go in ramp packs, Equipment into aggro packs.
 4. Add 7 basics and one dual to each pack. Buy the duals; your cube's fetchlands and shocklands are wasted here.
-5. Name every pack. The guide suggests a three-to-one ratio of concrete nouns ("Vampires", "Walls") to abstract names ("Tempo", "Value"), because players choose packs by name and nouns are easier to picture.
+5. Name every pack. The guide suggests pack names with about three nouns for every non-noun word, and names that say what the pack does ("Sneaky Beef" is its favorite).
 
 A converted cube will have leftover rares and bombs that no pack wants. Leave them out. A Jumpstart pack should have at most one or two cards that decide a game by themselves.
 
 ## How does the power level compare to a draft cube?
 
-Lower, and that is correct. In a draft, players self-select into decks that can use a powerful card. In Jumpstart, a pack with Grave Titan in it gets paired with whatever the player picked second, and the player did not choose to be a reanimator deck. The CubeCobra guide's convert-from-retail option exists partly because retail Jumpstart runs at roughly uncommon-level power, and that level produces the most even games.
+Lower, and that is correct. In a draft, players self-select into decks that can use a powerful card. In Jumpstart, a pack with Grave Titan in it gets paired with whatever the player picked second, and the player did not choose to be a reanimator deck. The CubeCobra guide's retail option notes that official packs run at a lower power level than most cubes, and a flatter power level makes for more even games.
 
 A workable house guideline: each 20-card pack carries at most one rare that would be a first-pick in a normal cube. The other eleven spells should be the kind of uncommons and commons that a pauper or peasant cube would run. If you already own a peasant cube, you are most of the way to a Jumpstart cube.
 
@@ -117,4 +117,4 @@ Pack selection takes a few minutes and games run 15 to 25 minutes. Three rounds 
 
 A Jumpstart cube is the format we reach for when the night is short, the table is uneven, or someone new wants to play Magic without learning to draft first. The game is the reason. The people are the point.
 
-If you want new cube-building ideas like this, subscribe to the Ludarium newsletter. And if you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) drafts regularly and always has room for one more.
+If you want new cube-building ideas like this, subscribe to the Ludarium newsletter. And if you are in Indianapolis, you will hear first when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, sets its first night as part of The Ludarium.
