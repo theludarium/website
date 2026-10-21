@@ -6,15 +6,15 @@ category: Magic & Cube
 tags: ["MTGO Vintage Cube", "Vintage Cube card list", "powered cube", "Magic Online cube", "Vintage Cube history", "Vintage Cube curators", "Cube Commonwealth"]
 draft: true
 ---
-The MTGO Vintage Cube is a 540-card, fully powered cube that Magic Online runs several times a year, and it is the closest thing the cube world has to a shared reference point. Black Lotus, the Moxen, Ancestral Recall and the original dual lands are all in it. When cube players argue about whether a card is "cube-worthy," the unspoken question is usually whether it would make this list.
+The MTGO Vintage Cube is a 540-card, fully powered cube that Magic Online offers year-round in single-elimination queues, with leagues around each update, and it is the closest thing the cube world has to a shared reference point. Black Lotus, the Moxen, Ancestral Recall and the original dual lands are all in it. When cube players argue about whether a card is "cube-worthy," the unspoken question is usually whether it would make this list.
 
 This article is a profile, not a strategy guide. It covers where the Vintage Cube came from, who maintains it, how it changes, and why a cube that almost nobody owns in paper still shapes the cubes people build at kitchen tables. Every claim about dates and people below comes from a page you can open yourself.
 
 ## Where did the Vintage Cube come from?
 
-Magic Online's first official cube launched on April 7, 2012, designed by Tom LaPille and developed by Max McCall, according to the [MTG Wiki's Magic Online Cube page](https://mtg.wiki/page/Magic_Online_Cube). Later that year, on December 19, a powered "Holiday Cube" ran for the first time, and for the next few years it was a December-only event.
+Magic Online's first official cube launched on April 6, 2012, designed by Tom LaPille and developed by Max McCall, according to the [MTG Wiki's Magic Online Cube page](https://mtg.wiki/page/Magic_Online_Cube). Later that year, on December 19, a powered "Holiday Cube" ran for the first time, and for its first two years it ran only in December.
 
-The name changed on December 7, 2015, when Adam Prosak's article "The Holiday Cube is Now the Vintage Cube" gave the powered December cube the name it still carries. The wiki's [Vintage Cube page](https://mtg.wiki/page/Vintage_Cube) notes that a second summer window was added later, and that limited availability was part of the point: it kept the queues full and made each run feel like an event.
+The name changed on December 7, 2015, when Adam Prosak's article "The Holiday Cube is Now the Vintage Cube" gave the powered December cube the name it still carries. The wiki's [Vintage Cube page](https://mtg.wiki/page/Vintage_Cube) notes that a second summer window was added later, and that limited availability was part of the point: it kept the queues full and made each run feel like an event. That era is over; in 2026 the cube is available year-round.
 
 That history matters because the Vintage Cube was never a hobbyist's list that got popular. It was built by Wizards' own designers, for a digital client where price did not matter, and it inherited the Holiday Cube's premise: the best cards ever printed, one copy each.
 
@@ -30,10 +30,10 @@ The current card list is published on [mtgo.com](https://www.mtgo.com/vintage-cu
 | Red | 66 |
 | Green | 56 |
 | Two-color pairs (ten guilds) | 10 to 15 each, about 124 total |
-| Three-plus color | 20 |
+| Multicolor (mostly fixing lands) | 20 |
 | Colorless | 69 |
 
-Two things stand out. Blue is the largest color by a wide margin, which is normal for a powered environment where Ancestral Recall, Time Walk, Force of Will and the best card-draw live. And the colorless section is nearly as large as a mono-color section, because the Moxen, Sol Ring, Mana Crypt and the artifact combo pieces all sit there.
+Two things stand out. Blue is the largest color by a wide margin, which is normal for a powered environment where Ancestral Recall, Time Walk, Force of Will and the best card-draw live. And the colorless section, at 69, is bigger than every color but blue, because Sol Ring, Mana Crypt, Black Lotus, the artifact combo pieces and the colorless lands all sit there.
 
 What you will not find is a long tail of filler. The [Draftsim overview](https://draftsim.com/mtg-vintage-cube/) describes it plainly as a 540-card cube that is "always subject to change," built from the most powerful and popular cards across the game's history. If you want to compare this design to the unpowered lists most groups run, [cube power levels explained](/articles/cube-power-levels-explained/) walks through the tiers.
 
@@ -51,7 +51,7 @@ The quote from that article worth keeping is short: "Nobody is wrong about what 
 
 Each update now comes with a signed article explaining the swaps. The [May 2024 polish update](https://mtgo.com/news/may-2024-vintage-cube-update), by Chris Wolf and Ryan Spain, made 14 swaps and justified each one card by card, calling Storm "the fun gamble it has always been." The [August 2026 update](https://www.mtgo.com/news/hob-vintage-cube-update) expanded the Goblin Welder artifact package, brought Dark Depths back with Crop Rotation, Sowing Mycospawn and both Reliquary creatures to pair with the Thespian's Stage already in the list, added Painter's Servant and Grindstone, and trimmed the madness and self-mill package because, in the article's words, it "does currently take up quite a bit of space."
 
-That is the pattern: archetypes as packages, added and removed as units, with commentary. Spain's 2023 post described tagging every card in a spreadsheet by the archetype it supports and a rough power rank, so designers can filter whole packages in or out. Most paper cube owners do the same thing less formally. Our article on sections, slots and the spreadsheet behind a good cube covers how to set one up.
+That is the pattern: archetypes as packages, added and removed as units, with commentary. Spain's 2023 post described tagging cards in a spreadsheet by the archetype it supports and a rough power rank, so designers can filter whole packages in or out. Most paper cube owners do the same thing less formally. Our article on sections, slots and the spreadsheet behind a good cube covers how to set one up.
 
 There is also a seasonal cousin. The [No Holds Barred Vintage Cube](https://www.mtgo.com/news/no-holds-barred-vintage-cube-2025), run for one week in December 2025 by Chris Wolf, trimmed the list to 510 cards and leaned into "more power, more combo," with Time Vault, Thassa's Oracle and Demonic Consultation all in. It is the Vintage Cube with the brakes off, and it exists because the regular list has to stay playable for people who are not combo players.
 
@@ -88,11 +88,11 @@ Take the habits instead:
 
 ### Who designs the MTGO Vintage Cube?
 
-Ryan Spain, Daybreak's Creative Director, curates it, and Chris Wolf, a Cube Design Consultant Spain found through the MTGO Discord, does much of the design work. Update articles explaining each change are published on mtgo.com, several of them signed by both.
+Chris Wolf, now MTGO's Cube curator, writes the updates. Ryan Spain, Daybreak's Creative Director, brought him in after finding him on the MTGO Discord in 2023. Update articles explaining each change are published on mtgo.com.
 
 ### When was the Vintage Cube first run?
 
-The powered Holiday Cube first ran in December 2012. It was renamed the Vintage Cube on December 7, 2015, and gained a summer run later.
+The powered Holiday Cube first ran in December 2012. It had already added a summer run in July 2015 and was renamed the Vintage Cube on December 7, 2015.
 
 ### Is the Vintage Cube the same as the Legacy Cube?
 
@@ -100,6 +100,6 @@ No. The Legacy Cube is a separate, unpowered Magic Online cube without the Power
 
 ## Draft it with us
 
-The Vintage Cube is the measuring stick. Our own cube is not it, and that is deliberate. If you want to see how a group tunes a cube for the people in the room rather than a global queue, come draft with [Cube Commonwealth in Indianapolis](/articles/cube-draft-indianapolis/). And subscribe to The Ludarium newsletter: when the next Vintage Cube update post goes up, we read it so you get the short version.
+The Vintage Cube is the measuring stick, not the only way to build a cube. A group cube can be tuned for the people in the room rather than a global queue. Subscribe to The Ludarium newsletter for new cube pieces, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, sets its first night as part of The Ludarium.
 
 The game is the reason. The people are the point.

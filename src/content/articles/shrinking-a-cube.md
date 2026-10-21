@@ -75,7 +75,7 @@ Announce it, then draft it twice before taking feedback.
 
 Drafters notice cuts emotionally before they notice them structurally. Someone's favorite card left and the first draft after will feature a complaint about it. Let the cube play. By the third draft, the conversation is usually about how clean the lanes feel, and the missing favorite has been forgotten or has a case for coming back on merit.
 
-Publish the cut list. A changelog that says "cut for pass one: last-pick data" removes the sense that the owner played favorites. We keep ours in the primer.
+Publish the cut list. A changelog that says "cut for pass one: last-pick data" removes the sense that the owner played favorites. Keep it in the primer.
 
 ## When 450 is wrong
 
@@ -105,4 +105,4 @@ Cut utility lands in proportion, but keep fixing lands close to their original r
 
 ## Keep playing
 
-Subscribe to The Ludarium newsletter for new cube pieces, including the cut lists when we trim our own. And if you are in Indianapolis and want to see what a tight list drafts like, [Cube Commonwealth](/articles/cube-draft-indianapolis/) has a chair.
+Subscribe to The Ludarium newsletter for new cube pieces, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, sets its first night as part of The Ludarium.

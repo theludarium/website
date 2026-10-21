@@ -79,7 +79,7 @@ Interaction density is adjusted with the same tools as everything else: notes an
 3. **Watch the blue decks.** If blue wins more than its share, it is usually because blue's interaction is too good relative to the threats. The fix is usually to swap a hard counter for a soft one or a threat that dodges counters.
 4. **Ask the losers.** After a game, the loser can tell you whether they lost to a decision or to a draw. "I should not have played into Wrath" is a good loss. "I never had a chance to do anything" is a density problem.
 
-We track this in the same changelog we use for everything, described in [how to update a cube](/articles/how-to-update-a-cube/). Interaction counts go up or down one or two cards per update, never by ten.
+Track this in the same changelog you use for everything, described in [how to update a cube](/articles/how-to-update-a-cube/). Interaction counts go up or down one or two cards per update, never by ten.
 
 ## FAQ
 
@@ -103,4 +103,4 @@ Games end by turn six with neither player having cast a spell at the other, and 
 
 Interaction is what makes the other player's turn matter to you. Get the density right, choose kinds that create decisions on both sides, and the games will feel like games. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that play it. If you are near Indianapolis, bring your Lightning Bolts to [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that play it. If you are near Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

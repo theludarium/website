@@ -108,4 +108,4 @@ Yes. A low-power configuration is often a marked subset of the core's strongest 
 
 ## Keep playing
 
-For new cube design pieces, including the modules we have built and the ones we retired, subscribe to The Ludarium newsletter. And if you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) runs more than one configuration, and you are welcome to draft whichever is on the table.
+For new cube design pieces, subscribe to The Ludarium newsletter. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

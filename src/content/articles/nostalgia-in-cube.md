@@ -28,7 +28,7 @@ Cards from the game's first decade that are still at or near the top of their sl
 - **Card advantage:** Fact or Fiction, Ancestral Recall (if powered), Sylvan Library, Necropotence, Phyrexian Arena.
 - **Mana and acceleration:** Dark Ritual, Llanowar Elves, Birds of Paradise, Sol Ring, the original duals and fetches.
 - **Threats and engines:** Sneak Attack, Opposition, Recurring Nightmare, Survival of the Fittest, Oath of Druids, Armageddon (if your cube allows it), Balance (same).
-- **Creatures that still play:** Mother of Runes, Goblin Guide's ancestors like Jackal Pup in a pauper list, Man-o'-War, Flametongue Kavu, Ravenous Baloth, Eternal Witness, Kird Ape in the right cube.
+- **Creatures that still play:** Mother of Runes, Goblin Guide's ancestors like Jackal Pup in a pauper list, Man-o'-War, Flametongue Kavu, Ravenous Baloth, Kird Ape in the right cube.
 
 None of these need a nostalgia argument. They are good. The point of listing them is that an owner who wants an old-feeling cube can get most of the way there with cards that are also correct. The cube reads as classic without paying a power tax.
 
@@ -95,4 +95,4 @@ Ask whether it ever makes a deck better than its replacement would, for some dra
 
 A cube should feel like the game it came from, which means carrying some of the game's past. Choose the old cards that still play, add a small handful that are there for the memory, and be honest about which is which. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that play it. Indianapolis drafters can come see which Djinn made the cut at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that play it. In Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

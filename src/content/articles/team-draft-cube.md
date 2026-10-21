@@ -12,7 +12,7 @@ Six players is the sweet spot for a lot of groups, and team draft is the best th
 
 ## Where does team draft come from?
 
-Team Limited has been part of professional Magic since the 1999–2000 season, per the [MTG Wiki's team events page](https://mtg.wiki/page/Team_events), with Pro Tours and Grand Prix using it from 1999 to 2005 and again from 2012 to 2019. The wiki also notes that the classic 3v3 team draft runs nine rounds, with each player facing each opposing player, and that pools are not shared: you play only what you drafted.
+Team Limited has been part of professional Magic since the 1999–2000 season, per the [MTG Wiki's Team Limited page](https://mtg.wiki/page/Team_Limited), with Pro Tours using it from 1999 to 2005 and Grand Prix from 2000 to 2005 and again from 2012 to 2019. The wiki also notes that the classic 3v3 team draft runs nine rounds, with each player facing each opposing player, and that pools are not shared: you play only what you drafted.
 
 The format survived at kitchen tables after the pros moved on because it needs exactly six people, takes one evening, and produces a result everyone remembers.
 
@@ -49,9 +49,9 @@ Draft 40 to 50 minutes, build 30, three rounds of 50 minutes each. About four ho
 
 In a normal eight-player draft, the players on either side of you are rivals for colors and nothing more. In team draft, they are the people you will play tonight, and they will play your teammates. That changes the math on almost every pick.
 
-**Hate-drafting is correct more often.** The MTG Wiki calls this out directly: team draft gives players "an added reason to hate-draft." A removal spell you cannot cast is still a removal spell your opponent will not have. When the pick is between a marginal playable for you and a strong card for the player you are passing to, take the strong card. Three of your opponents' nine matches are against you; the other six are against your teammates, so a card you deny helps the whole team.
+**Hate-drafting is correct more often.** The MTG Wiki calls this out directly: team draft gives players "the added incentive of hatedrafting cards." A removal spell you cannot cast is still a removal spell your opponent will not have. When the pick is between a marginal playable for you and a strong card for the player you are passing to, take the strong card. Three of your opponents' nine matches are against you; the other six are against your teammates, so a card you deny helps the whole team.
 
-**Cutting a color on purpose works.** If you take every blue card in pack one, the opponent to your left is not in blue by pack two, and neither is anyone downstream. Your team benefits if one of your teammates is the blue drafter two seats away, since the cards you did not take will wheel past opponents who are now off blue.
+**Cutting a color on purpose works.** If you take every blue card in pack one, the opponent to your left is not in blue by pack two. The cost is that your teammate two seats down gets no blue either, so agree on it before the draft: the cutter takes the color, and teammates stay out of it.
 
 **Signals lie.** In a normal draft, a late good card is a signal that the color is open. In team draft it might be a trap: an opponent passing you a strong red card so you move into red and fight your own teammate for it. Veterans read signals from the opposing team with suspicion.
 
@@ -104,4 +104,4 @@ Not during the draft. Teammates may talk freely during deck-building and between
 
 Team draft takes the quietest part of cube night, the draft itself, and turns it into the loudest. Every pass is a small act against someone you will play in an hour. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for new formats and house rules you can run from the page. Indianapolis readers who want a side to be on can find one at [Cube Commonwealth](/articles/cube-draft-indianapolis/), where team night comes around once a month.
+Subscribe to The Ludarium newsletter for new formats and house rules you can run from the page. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

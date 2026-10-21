@@ -25,7 +25,7 @@ Every cube list breaks into sections: the five colors, gold, colorless, lands. T
 | Colorless | 69 | 56 |
 | Lands | folded into the color, gold and colorless sections | 73 |
 
-Read the Vintage column and you learn three things without opening a card: blue is the best color by design (80 against 56 for green), the gold section is large (about a quarter of the cube), and artifacts matter (69 colorless cards in a cube that also has the Moxen in that section). Read the Legacy column and you learn the opposite: colors are nearly even, gold is narrow at six per guild, and lands are tracked separately.
+Read the Vintage column and you learn three things without opening a card: blue is the best color by design (80 against 56 for green), the gold section is large (about a quarter of the cube), and artifacts matter (69 colorless cards, which include Sol Ring, Mana Crypt, Black Lotus and the colorless lands). Read the Legacy column and you learn the opposite: colors are nearly even, gold is narrow at six per guild, and lands are tracked separately.
 
 Those are two different design philosophies, and you found them in sixty seconds. If a list does not label its sections, CubeCobra's analysis tab will count them for you.
 
@@ -41,7 +41,7 @@ You do not need to count precisely. Scroll the sorted list and notice where the 
 
 ## Step 3: Count the fixing
 
-Lands are the most under-counted section in cube design, and Lucky Paper's 2022 study of more than 75,000 draft decks found most cubes run about 8% to 12% fixing when it suggested 28% to 39% for two-color decks at Legacy or Modern power. So count.
+Lands are the most under-counted section in cube design, and Lucky Paper's 2022 study of more than 75,000 draft decks found most cubes run about 8% to 12% fixing when it suggested 28% to 39% to match the fixing of two-color Legacy or Modern Constructed decks. So count.
 
 Add up every nonbasic land that produces two or more colors, plus any Signets, Talismans and Arcane Signets if the cube uses rocks as fixing. Divide by the cube size. Then ask:
 
@@ -73,7 +73,7 @@ The inverse check: find a card that looks out of place, a Goblin Bombardment in 
 
 What a list leaves out is as loud as what it includes, especially in high-power cubes.
 
-Ryan Overturf's [May 2021 read of the Legacy Cube](https://articles.starcitygames.com/magic-the-gathering/select/everything-i-know-about-legacy-cubes-return-to-magic-online/) noticed the absences first: no Mana Drain, no Strip Mine, no Prismatic Vista, few of the Signets and Talismans Vintage runs. From the absences he predicted mono-blue would be harder and Armageddon would be better, before drafting a single pack.
+Ryan Overturf's [May 2021 read of the Legacy Cube](https://articles.starcitygames.com/magic-the-gathering/select/everything-i-know-about-legacy-cubes-return-to-magic-online/) noticed the absences first: no Mana Drain, no Strip Mine, no Prismatic Vista, and no Signets or Talismans at all. From those absences he predicted mono-blue would be harder and Armageddon better.
 
 For an unpowered paper cube, the exclusions to check are: Sol Ring and Mana Crypt (is fast mana allowed at all?), Oko and the strongest planeswalkers (is the owner policing swingy cards?), free counterspells (is tempo-blue meant to be a top deck?), and Armageddon or Balance (is the owner comfortable with games that end abruptly?). Each answer places the cube on a map, and [cards too strong for an unpowered cube](/articles/cards-too-strong-for-unpowered-cube/) has the longer list.
 
@@ -104,7 +104,7 @@ Read each guild's gold cards as a sentence, then look for build-arounds with fou
 
 ### How much fixing is normal in a cube?
 
-Lucky Paper's CubeCobra data put most cubes at about 8% to 12% of the list, and argued two-color decks at Legacy or Modern power want substantially more.
+Lucky Paper's CubeCobra data put most cubes at about 8% to 12% of the list, and argued that matching the fixing of two-color Legacy or Modern Constructed decks takes substantially more.
 
 ### Should I read the primer or the list first?
 
@@ -112,6 +112,6 @@ The list. The primer tells you intent; the list tells you what was built. Compar
 
 ## Bring a list to the table
 
-Reading lists is a skill that gets faster with practice, and the best practice is reading one with the person who built it sitting across from you. Cube Commonwealth members trade lists and tear them apart over post-draft drinks, and you are welcome to [join us in Indianapolis](/articles/cube-draft-indianapolis/). The Ludarium newsletter sends new cube pieces; subscribe and we will send a list to practice on.
+Reading lists is a skill that gets faster with practice, and the best practice is reading one with the person who built it sitting across from you. Swap lists with friends and read them out loud together. Subscribe to The Ludarium newsletter for new cube pieces, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, sets its first night as part of The Ludarium.
 
 The game is the reason. The people are the point.
