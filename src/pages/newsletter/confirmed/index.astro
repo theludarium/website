@@ -1,0 +1,44 @@
+---
+// Where Kit sends people after they click the confirmation link (set as the
+// form's "Redirect after confirmation" in Kit). Not in the sitemap.
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageIntro from '@/components/PageIntro.astro';
+---
+
+<BaseLayout
+  title="You are in"
+  description="Your subscription to The Ludarium newsletter is confirmed. Here is where to start: guides for your next game night and free tools to play tonight."
+  noindex
+>
+  <PageIntro
+    eyebrow="Confirmed"
+    title="You are in. Welcome to the table."
+    lede="A welcome email is on its way with where to start. While you wait, here is a game night idea for tonight."
+  >
+    <ul class="confirmed-links">
+      <li><a href="/articles/gateway-board-games/">10 gateway games that turn non-gamers into regulars</a></li>
+      <li><a href="/articles/game-night-lineup/">Game night lineup: opener, main event, closer</a></li>
+      <li><a href="/game-night-madness/">Can't decide what to play? Let a bracket pick</a></li>
+    </ul>
+    <div class="confirmed-actions">
+      <a class="button" href="/articles/">Browse the guides</a>
+      <a class="button button--ghost" href="/play/">Try the free tools</a>
+    </div>
+  </PageIntro>
+</BaseLayout>
+
+<style>
+  .confirmed-links {
+    max-width: var(--width-content);
+    padding-left: 1.2em;
+    display: grid;
+    gap: var(--space-2);
+  }
+
+  .confirmed-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-3);
+    margin-top: var(--space-6);
+  }
+</style>

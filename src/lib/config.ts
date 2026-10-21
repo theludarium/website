@@ -15,7 +15,7 @@ export const KIT_NEWSLETTER_FORM = {
 export const STORE_URL = '';
 
 /** Where people can reach The Ludarium, including privacy requests. */
-export const CONTACT_EMAIL = '';
+export const CONTACT_EMAIL = 'hello@theludarium.com';
 
 /** Legal name of the business that runs the site, used in the privacy policy. */
 export const LEGAL_NAME = '';
