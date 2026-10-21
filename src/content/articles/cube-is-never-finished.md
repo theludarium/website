@@ -1,10 +1,10 @@
 ---
 title: "Cube Maintenance: A Cube Is Never Finished"
 description: "Cube maintenance without burnout: a cadence for swaps, a watch list, a rule for new sets, and when to freeze a list on purpose instead of letting it drift."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube maintenance", "perpetual cube design", "cube update schedule", "cube watch list", "when to stop updating a cube", "cube design philosophy", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Cube maintenance is the part of owning a cube nobody warns you about. The build is a project with an end. The upkeep is a practice with none. Six or more sets a year, each with a handful of cards that might be better than something in the list; a group whose tastes shift; a format whose consensus moves under you. The cube that was finished in March is behind by October, and the owner who does not accept that either burns out trying to keep up or quietly stops.
 

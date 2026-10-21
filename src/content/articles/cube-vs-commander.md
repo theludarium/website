@@ -1,10 +1,10 @@
 ---
 title: "Cube vs Commander: Which Magic Format Fits Your Group?"
 description: "Cube vs Commander, compared on players, time, cost, and teach time, plus what each Magic format does best. A clear verdict for groups deciding how to play."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Game Guides
 tags: ["Cube vs Commander", "Magic the Gathering formats for groups", "Cube draft explained", "Commander vs draft", "best MTG format for casual play", "how to play Cube", "Comparisons"]
-draft: true
+draft: false
 ---
 Cube vs Commander is the choice that decides what a Magic: The Gathering group becomes. They are the two most popular ways to play Magic with the same people every week without spending money on new cards each time. One asks a group to build decks on the spot from a shared pool. The other asks each player to bring a deck they built at home. The cards are the same. The evenings are not.
 

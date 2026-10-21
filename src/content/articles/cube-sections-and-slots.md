@@ -1,10 +1,10 @@
 ---
 title: "Cube Slot Design: Sections and the Spreadsheet"
 description: "Cube slot design turns a pile of good cards into a format. How to break a cube into sections and named slots, plus the columns your spreadsheet needs."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube slot design", "cube spreadsheet", "cube sections", "cube slots", "cube list structure", "how to organize a cube", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Cube slot design is the habit of deciding what a card is for before deciding which card it is. A cube with 540 good cards and no structure plays like a pile. A cube with 540 named slots, each filled by the best card for that job, plays like a format. The difference is not the cards. It is the spreadsheet behind them.
 

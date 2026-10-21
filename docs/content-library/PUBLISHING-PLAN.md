@@ -255,22 +255,22 @@ Gift guides and deals. Publish in early November, after checking every price and
 Mention prices, current releases, "this year," Gen Con dates, or Indianapolis places. Check each fact against a current source, update it, then publish.
 
 - `best-board-games-2026`: Best Board Games of 2026 So Far: Our Running Picks
-- `best-new-cube-cards-of-the-year`: Best Cube Cards This Year: Our Keeps From Six Sets
+- `best-new-cube-cards-of-the-year`: Best Cube Cards This Year: Our Keeps From Six Sets (published 2026-10-21)
 - `board-game-cafe-library`: Board Game Cafe Library: Curating 300 Games, Not 3,000
 - `board-game-cafe-vs-home-game-night`: Board Game Cafe vs Home Game Night: When Each Wins
 - `board-game-date-night-indianapolis`: Board Game Date Night in Indianapolis: Where to Go (published 2026-10-21)
 - `board-games-for-college-students`: Board Games for College Students: Dorm-Sized and Cheap
 - `board-games-for-new-parents`: Board Games for New Parents: 20 Minutes, No Brain
-- `budget-cube-under-200`: Budget Cube Under $200 That Plays Like Vintage
-- `build-a-cube-in-a-weekend`: Build a Cube Fast: A Draftable Cube in One Weekend
+- `budget-cube-under-200`: Budget Cube Under $200 That Plays Like Vintage (published 2026-10-21)
+- `build-a-cube-in-a-weekend`: Build a Cube Fast: A Draftable Cube in One Weekend (published 2026-10-21)
 - `corporate-team-building-cost`: Corporate Team Building Cost: A Game Night Breakdown
-- `cube-ban-list`: Does Your Cube Need a Ban List?
-- `cube-from-your-collection`: Cube From Collection: Build With Cards You Already Own
-- `cube-identity`: Cube Identity: Giving a Cube Drafters Remember
-- `cube-is-never-finished`: Cube Maintenance: A Cube Is Never Finished
-- `cube-sections-and-slots`: Cube Slot Design: Sections and the Spreadsheet
-- `cube-set-review-marvel-super-heroes`: Marvel Super Heroes Cube Review: Mind Stone, Loki, Vision
-- `cube-vs-commander`: Cube vs Commander: Which Magic Format Fits Your Group?
+- `cube-ban-list`: Does Your Cube Need a Ban List? (published 2026-10-21)
+- `cube-from-your-collection`: Cube From Collection: Build With Cards You Already Own (published 2026-10-21)
+- `cube-identity`: Cube Identity: Giving a Cube Drafters Remember (published 2026-10-21)
+- `cube-is-never-finished`: Cube Maintenance: A Cube Is Never Finished (published 2026-10-21)
+- `cube-sections-and-slots`: Cube Slot Design: Sections and the Spreadsheet (published 2026-10-21)
+- `cube-set-review-marvel-super-heroes`: Marvel Super Heroes Cube Review: Mind Stone, Loki, Vision (published 2026-10-21)
+- `cube-vs-commander`: Cube vs Commander: Which Magic Format Fits Your Group? (published 2026-10-21)
 - `dnd-one-shot-for-beginners`: D&D One Shot for Beginners: Try an RPG in One Evening
 - `family-friendly-game-cafes-indianapolis`: Family Game Cafes in Indianapolis: Where to Play (published 2026-10-21)
 - `game-lounge-membership`: How a Game Lounge Membership Works (vs a Cover Charge)

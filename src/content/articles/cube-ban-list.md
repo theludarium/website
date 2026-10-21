@@ -1,10 +1,10 @@
 ---
 title: "Does Your Cube Need a Ban List?"
 description: "Does your cube need a ban list? Usually not, since a cube is already a list. When a written exclusion rule does help, what belongs on it, and how to word it."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube ban list", "cube banned cards", "cube exclusion rules", "cube restricted list", "cube house rules", "cube primer rules", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 A cube ban list sounds redundant. A cube is already a list; anything not in it is already banned. And yet most well-run cubes carry a short written set of exclusions, because the list of what is in changes every month and the reasons for what stays out should not. The useful question is not "should I have a ban list" but "which exclusions are rules and which are just this season's cuts."
 

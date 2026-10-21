@@ -1,10 +1,10 @@
 ---
 title: "Cube Identity: Giving a Cube Drafters Remember"
 description: "Cube identity is what makes drafters say 'that cube' instead of 'a cube.' The four places identity lives, with examples, and why a plain staples list has none."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube identity", "memorable cube design", "what makes a cube unique", "cube personality", "cube design philosophy", "cube house style", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Cube identity is the thing a drafter can describe about your cube a month after playing it. "That's the one where Boros is always open." "That's the one with the Sneak Attack deck." "That's the one with no planeswalkers." If nobody can finish the sentence "that's the one where...", the cube does not have an identity yet. It has a list.
 

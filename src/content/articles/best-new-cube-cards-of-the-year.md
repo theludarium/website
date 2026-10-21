@@ -1,10 +1,10 @@
 ---
 title: "Best Cube Cards This Year: Our Keeps From Six Sets"
 description: "The best cube cards this year, from Lorwyn Eclipsed through Reality Fracture: which new cards earned a lasting slot, which tests fell flat, and the reasons why."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["best cube cards this year", "new cube cards 2026", "cube year in review", "cube keeps and cuts", "Standard sets for cube", "cube update log", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 The best cube cards this year came from the two-drop slot. That is the headline after six Standard-legal sets between January and October 2026 and the six set reviews in this series. Erode and Bitterbloom Bearer are the two cards we would tell any cube owner to find. Stingcaster Mage, Emeritus of Conflict, Smaug the Magnificent and Bloom Tender round out the cards we would keep outright. Below is the full accounting: what we would keep, what we would pass, what we would still test, and what the year says about where new cards are coming from.
 

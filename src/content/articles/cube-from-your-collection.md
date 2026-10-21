@@ -1,10 +1,10 @@
 ---
 title: "Cube From Collection: Build With Cards You Already Own"
 description: "A cube from collection is the cheapest cube there is. How to sort boxes into a 360-card skeleton, pick a power band your cards support, and fill gaps."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube from collection", "build a cube from bulk", "free cube", "cube from draft leftovers", "sorting a collection for cube", "no-buy cube", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 A cube from collection is the one most Magic players could build this month for nothing. The boxes of draft leftovers in the closet already hold hundreds of playable cards. What they lack is a structure, and structure is free. This article is about sorting what you own into a cube that drafts well, deciding the power level your collection can actually support, and spending money only on the handful of holes that matter.
 

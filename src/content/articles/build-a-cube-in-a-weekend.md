@@ -1,10 +1,10 @@
 ---
 title: "Build a Cube Fast: A Draftable Cube in One Weekend"
 description: "Build a cube fast with a weekend plan: copy a skeleton on Friday, pull cards on Saturday, sleeve and test draft on Sunday. A draftable cube by Sunday night."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["build a cube fast", "weekend cube build", "cube skeleton", "first cube checklist", "360 card cube", "cube test draft", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 You can build a cube fast if you stop treating it as a design project and treat it as an assembly job. Friday night you pick a skeleton and a list. Saturday you pull and buy cards. Sunday you sleeve, you draft it once, and you write down what broke. The cube that exists on Sunday night is worth more than the perfect cube that never leaves the spreadsheet.
 

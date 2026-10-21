@@ -1,10 +1,10 @@
 ---
 title: "Budget Cube Under $200 That Plays Like Vintage"
 description: "A budget cube under $200 can feel like Vintage Cube: fast mana stand-ins, cheap reanimation, real archetypes. Where the money goes and where it does not."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["budget cube", "cheap cube that plays like vintage", "budget vintage cube", "cube under 200 dollars", "budget cube card picks", "affordable cube", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 A budget cube does not have to play like a budget cube. What people love about the MTGO Vintage Cube is not the price tags; it is the feel: turn-one mana, decks that do something unfair, every archetype a real plan, games that swing. Most of that feel comes from design choices, and design is free. The famous cards cost money, but almost every famous card has a cheap cousin that produces the same decision at the table.
 
