@@ -6,13 +6,13 @@ category: Game Culture
 tags: ["Magic the Gathering Indianapolis", "Friday Night Magic Indianapolis", "Commander night Indianapolis", "MTG stores Indianapolis", "Magic Carmel Fishers Noblesville", "cube draft Indianapolis", "Indianapolis"]
 draft: true
 ---
-If you want to play Magic: The Gathering in Indianapolis, you are in a good city for it. Nearly every game store in the metro runs weekly Magic events, Commander night is the most common public game night in town, and Gen Con brings the game's biggest annual gathering to the convention center each summer. This guide lists the confirmed places to play by area, explains the formats you will find at each, and covers the one format most stores do not run: cube.
+If you want to play Magic: The Gathering in Indianapolis, you are in a good city for it. Nearly every game store in the metro runs weekly Magic events, Commander night is the most common public game night in town, and Gen Con, North America's largest tabletop convention, comes to the convention center each summer. This guide lists the confirmed places to play by area, explains the formats you will find at each, and covers the one format most stores do not run: cube.
 
 Store schedules shift. Each venue below was checked against its own site or a current listing in October 2026; confirm the night before you drive.
 
 ## Which downtown stores run Magic events?
 
-**[Good Games Indianapolis](https://www.goodgamesna.com/us/stores/indiana/indianapolis.html)**, 111 S Meridian St. The largest play space downtown, about 3,500 square feet, with events most days. The [public calendar](https://meetup.com/goodgames) lists a free Casual Commander night on Sundays. If you are new to the city or visiting, this is the easiest room to walk into with a deck.
+**[Good Games Indianapolis](https://www.goodgamesna.com/venue/good-games-indianapolis/)**, 111 S Meridian St. One of the largest play spaces downtown, with events most days. The [public calendar](https://meetup.com/goodgames) lists free Casual Commander on Sunday afternoons. If you are new to the city or visiting, this is the easiest room to walk into with a deck.
 
 **[Paradigm Games](https://paradigmgames.co/)**, 2479 N Meridian St. A Wizards Play Network store a short drive north of downtown, with free-play Commander on Tuesday afternoons and Saturdays at noon, Commander Night on Thursdays, Standard Showdown on Wednesdays, and Friday Night Magic draft at 6:30.
 
@@ -20,13 +20,13 @@ Store schedules shift. Each venue below was checked against its own site or a cu
 
 The north suburbs have the densest set of options.
 
-- **[Moonshot Games](https://moonshotgamestore.com/)**, downtown Noblesville (50 N 9th St). Friday Night Magic plus a game room and demo tables.
-- **[Hero's Emporium](https://www.visithamiltoncounty.com/listing/heros-emporium/5473/)**, Carmel. Magic nights and Commander sessions.
-- **[Next Level Games](https://www.visithamiltoncounty.com/listing/next-level-games/5751/)**, Carmel. Magic nights and game events.
-- **[Gray Gauntlet Games](https://graygauntletgames.com/)**, Fishers (7998 Centerpoint Dr). Magic on the events calendar alongside Pokémon and painting nights.
+- **[Moonshot Games](https://moonshotgamestore.com/)**, downtown Noblesville (50 N 9th St). Friday Night Magic (Commander), free Tuesday Commander, plus a game room and demo tables.
+- **[Hero's Emporium](https://heroslgs.com)**, Carmel. Commander on Thursday evenings and Saturday afternoons.
+- **[Next Level Games](https://www.nextlevelgames.store/events?location=carmel)**, Carmel. Magic nights and game events.
+- **[Gray Gauntlet Games](https://graygauntletgames.com/)**, Fishers (7998 Centerpoint Dr). A busy calendar of Commander, Pauper, drafts, and Pokémon.
 - **[Game Time](http://www.gametimeindy.com/)**, Castleton (8244 Center Run Dr). A card shop with in-store play and tournament hosting; it stays open until 10 on Fridays, the busy night, and does not post a schedule online, so call ahead.
 
-South of the city, **[The Game Preserve](https://www.gamepreserve.com/)** in Greenwood runs tournaments and league nights and has a second location near the Fashion Mall.
+South of the city, **[The Game Preserve](https://www.gamepreserve.com/)** in Greenwood and at Fashion Mall Commons: both are Wizards Play Network stores; check their Facebook page for events.
 
 ## What formats will you find at each store?
 
@@ -34,8 +34,8 @@ Walk into any Indianapolis store on a given night and you will most likely find 
 
 | Format | What it is | Where it is common | Bring |
 |---|---|---|---|
-| Commander | Four-player, 100-card singleton decks, social and long | Nearly every store; Sundays at Good Games are free | One deck, dice, patience |
-| Friday Night Magic | Weekly sanctioned event, often Standard or Draft | Moonshot Games and most WPN stores | Entry fee, a deck or nothing for draft |
+| Commander | Four-player, 100-card singleton decks, social and long | Nearly every store; Sunday afternoons at Good Games are free | One deck, dice, patience |
+| Friday Night Magic | Weekly sanctioned event, often Standard or Draft | Moonshot Games (Commander) and most WPN stores | Entry fee, a deck or nothing for draft |
 | Draft or Sealed | Open packs and build on the spot | Scheduled nights and prerelease weekends | Entry fee only |
 
 Commander is the right first night for most people because the format is casual by design and a stranger's table will usually make room. Games run an hour or more, so budget the evening, and bring a preconstructed deck if you do not own one; precons are legal, common, and nobody will think less of you. Draft nights are the other good entry point because everyone starts with the same unopened packs, which levels the table in a way constructed formats cannot. Competitive constructed events exist, but they are the minority of what the city plays on a weeknight. If you have never played Magic at all, read our piece on [how to teach Magic](/articles/how-to-teach-magic-the-gathering/) first, or ask the store which night is for beginners.
@@ -44,9 +44,9 @@ Commander is the right first night for most people because the format is casual 
 
 ## Where can you play cube draft in Indianapolis?
 
-Almost nowhere public, which is the gap that matters most to us. A cube is a curated set of cards, usually a few hundred, that a group drafts over and over without buying packs. It is the best way to play Magic cheaply and the best way to draft with the same friends for years. Stores rarely run it because nothing is sold.
+Rarely in public, which is the gap that matters most to us. Gray Gauntlet Games in Fishers runs an occasional cube draft. A cube is a curated set of cards, usually a few hundred, that a group drafts over and over without buying packs. It is the best way to play Magic cheaply and the best way to draft with the same friends for years. Stores rarely run it because nothing is sold.
 
-The Cube Commonwealth, run by The Ludarium's founder, drafts regularly around the north side of the metro. It is a private group that opens seats as it grows. If you want in, the newsletter is where the next open draft is announced. For background, start with [what a Magic cube is](/articles/what-is-a-magic-cube/).
+[Cube Commonwealth](/articles/cube-draft-indianapolis/), The Ludarium's cube group, is relaunching as part of The Ludarium. If you want in, the newsletter is where the first night will be announced. For background, start with [what a Magic cube is](/articles/what-is-a-magic-cube/).
 
 ## How do you get into an Indianapolis Magic community, not just a store?
 
@@ -70,11 +70,11 @@ For one weekend a year, usually late July or early August, the Indiana Conventio
 
 ### Where is Friday Night Magic in Indianapolis?
 
-Moonshot Games in Noblesville runs Friday Night Magic, and most Wizards Play Network stores in the metro, including Paradigm Games and the Carmel shops, run Friday events. Check each store's current calendar.
+Moonshot Games in Noblesville runs Friday Night Magic, and most Wizards Play Network stores in the metro run Friday events, including Paradigm Games and Next Level Games in Carmel. Check each store's current calendar.
 
 ### Is there a free Commander night in Indianapolis?
 
-Yes. Good Games downtown lists a free Casual Commander night on Sundays. Many other stores run Commander for free or a small fee.
+Yes. Good Games downtown lists free Casual Commander on Sunday afternoons. Many other stores run Commander for free or a small fee.
 
 ### Where can I play Magic in Carmel or Fishers?
 
@@ -88,4 +88,4 @@ Yes, especially Commander. Tell the staff you are new; most stores will seat you
 
 Indianapolis has a Magic table for almost every night of the week, and a cube community for the nights the stores do not cover. The game is the reason. The people are the point.
 
-For the next open Cube Commonwealth draft, the verified store list as it changes, and first word on The Ludarium's lounge in Indianapolis, subscribe to the newsletter. Short emails.
+For first word on Cube Commonwealth nights and The Ludarium's lounge in Indianapolis, subscribe to the newsletter. Short emails.

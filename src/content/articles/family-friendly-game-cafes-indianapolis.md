@@ -26,13 +26,13 @@ Not the same things that make it good for a Friday-night group of adults.
 
 **[Elf 'N Moon](https://elfnmoon.com/)**, Fountain Square (1354 Shelby St). Free first-come tables, a free game library, and two rentable private rooms. It serves beer, so it skews adult in the evening, but the site posts [no entry age](https://elfnmoon.com/) and no table fee, and the private rooms are a good answer for a birthday or a family of six on an afternoon.
 
-**[The Game Preserve](https://www.gamepreserve.com/)**, near the Fashion Mall on the north side and in Greenwood (1551 E Stop 12 Rd). A store rather than a cafe, but its learn-to-play sessions and family-friendly selection make it a reliable stop, and the Fashion Mall location pairs with lunch.
+**[The Game Preserve](https://www.gamepreserve.com/)**, near the Fashion Mall on the north side and in Greenwood (1551 E Stop 12 Rd). A store rather than a cafe, but its broad family-friendly selection and staff who know it make it a reliable stop, and the Fashion Mall location pairs with lunch.
 
 **[Moonshot Games](https://moonshotgamestore.com/)**, downtown Noblesville (50 N 9th St). Demo copies and a game room in a walkable downtown with ice cream nearby. Good for a Hamilton County afternoon.
 
-**[Good Games Indianapolis](https://www.goodgamesna.com/us/stores/indiana/indianapolis.html)**, downtown (111 S Meridian St). Large play space and a [Saturday Pokémon League](https://meetup.com/goodgames), which is the single best structured kid event on this list for ages seven to twelve.
+**[Good Games Indianapolis](https://www.goodgamesna.com/venue/good-games-indianapolis/)**, downtown (111 S Meridian St). Large play space and a [Saturday Pokémon League](https://meetup.com/goodgames), which is the single best structured kid event on this list for ages seven to twelve.
 
-**Public libraries.** The [Indianapolis Public Library](https://attend.indypl.org/event/16309333) runs family game nights at Central Library and branches with board, card, and dice games, all free. These are the lowest-barrier option in the city: no purchase, no cover, staff who expect children.
+**Public libraries.** The [Indianapolis Public Library](https://attend.indypl.org/events) runs free monthly family game nights and game days at branches such as College Avenue, Haughville, and Southport, with board, card, and dice games. These are the lowest-barrier option in the city: no purchase, no cover, staff who expect children.
 
 A fuller list of every place to play, family or not, is in our [Indianapolis board game cafe guide](/articles/board-game-cafes-indianapolis/).
 
@@ -42,9 +42,9 @@ A fuller list of every place to play, family or not, is in our [Indianapolis boa
 |---|---|---|---|
 | Hitherto, Greenfield | 5 and up | Food and drink | Weekend daytime |
 | Library family game nights | 4 and up | Free | Scheduled evenings |
-| Good Games Pokémon League | 7 to 12 | Check store | Saturday |
+| Good Games Pokémon League | 7 to 12 | Free | Saturday |
 | Moonshot Games, Noblesville | 6 and up | Free to browse and demo | Weekend afternoon |
-| The Game Preserve | 6 and up | Free to browse | Learn-to-play sessions |
+| The Game Preserve | 6 and up | Free to browse | Store hours |
 | Elf 'N Moon private room | Mixed ages | Room rental | Afternoon by arrangement |
 
 *If this is useful, the newsletter sends more like it.*
@@ -86,7 +86,7 @@ Hitherto Coffee & Gaming Parlour in Greenfield is the closest to a true family g
 
 ### Where can my family play board games for free in Indianapolis?
 
-Indianapolis Public Library family game nights at Central Library and branches are free, as is browsing and demoing at most game stores.
+Indianapolis Public Library family game nights at its branches are free, as is browsing and demoing at most game stores.
 
 ### What age can kids start going to a game cafe?
 
@@ -100,4 +100,4 @@ Moonshot Games in Noblesville has demos and a game room; Gray Gauntlet Games in 
 
 The family that plays together is building something that outlasts the game. The game is the reason. The people are the point.
 
-For new family game ideas, new kid-friendly places as they open, and first word on The Ludarium's weekend family afternoons in Indianapolis, subscribe to the newsletter. Short, weekly, and written for parents who are tired.
+For new family game ideas, new kid-friendly places as they open, and first word on family programming when The Ludarium opens in Indianapolis, subscribe to the newsletter. Short emails, written for parents who are tired.

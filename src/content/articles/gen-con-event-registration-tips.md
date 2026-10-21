@@ -16,7 +16,7 @@ The order of operations is fixed and the dates move by a few days each year.
 
 1. **Badges first.** You cannot buy a single event ticket without a badge. Gen Con's help center puts it plainly: [you must have already purchased a badge to purchase event tickets](https://gencon.zendesk.com/hc/en-us/articles/36967172018580-How-to-get-Event-Tickets).
 2. **The event catalog publishes.** About two weeks before registration, the full list of events appears on gencon.com. In 2026, the catalog went live in early May and [registration opened May 17](https://gencon.zendesk.com/hc/en-us/articles/360058634431-When-is-Gen-Con-opening-badge-and-event-registration).
-3. **You build a wish list.** From the catalog, you add events to a wish list, in priority order, up to a cap of several dozen events; Gen Con's [How to Find Events](https://www.gencon.com/gen-con-indy/how-to-find-events) page explains the tool and the current limit.
+3. **You build a wish list.** From the catalog, you add events to a wish list, in priority order, up to 50 events, per Gen Con's [help center](https://gencon.zendesk.com/hc/en-us/articles/15395993872276-How-to-add-events-to-your-Wish-List). The [How to Find Events](https://www.gencon.com/gen-con-indy/how-to-find-events) page explains the catalog.
 4. **Registration opens at noon Eastern.** For 2026 that was [May 17 at noon Eastern](https://gencon.zendesk.com/hc/en-us/articles/360058634431-When-is-Gen-Con-opening-badge-and-event-registration). You submit your wish list yourself. The system does not submit it for you.
 5. **Tickets land in your cart.** Whatever is still available goes into your cart on hold. You check out, pay, and the tickets are yours.
 
@@ -42,7 +42,7 @@ The week before registration is when the real work happens.
 
 **Check the event length.** A four-hour RPG slot at 8 a.m. and a two-hour board game demo at 10 a.m. look fine on paper and collide in practice.
 
-**Budget by ticket, not by badge.** Event tickets are priced per event, usually in small whole-dollar amounts set by the organizer. Twenty events at a few dollars each adds up. Decide the number before you see the cart.
+**Budget by ticket, not by badge.** Most events cost $2 per two hours of play, more if the organizer adds supplies or prizes, and some are free. Twenty events at a few dollars each adds up. Decide the number before you see the cart.
 
 **Coordinate with friends.** Most events let you buy about two tickets, and some allow more, so one person can grab seats for a pair. But if four of you want the same table, you need to split the work and all hit the same slot.
 
@@ -52,9 +52,9 @@ The week before registration is when the real work happens.
 
 ## What happens at noon?
 
-Expect a queue. Gen Con staggers server load with waiting-room systems, and the first few minutes are slow by design. Do not refresh in a panic; that can lose your place.
+Expect a slow few minutes. Submit your wish list once and wait for it to process; wish lists are handled in the order they are received.
 
-When your wish list processes, look at the cart immediately. Items are held briefly, and you have a short window to check out before they release. Pay first, admire later.
+When your wish list processes, look at the cart immediately. Tickets stay in your cart for two hours, but check out right away anyway. Pay first, admire later.
 
 Then go back and look at what you missed. The catalog shows remaining ticket counts. Many events that "sold out" in the first wave get seats back as people trim their schedules over the summer. Check again in June and July.
 
@@ -73,7 +73,7 @@ Generics turn an empty slot into a chance. For a popular game with a long line o
 
 | Ticket type | Price | Guarantees a seat? | Refund rule |
 |---|---|---|---|
-| Event ticket | Set per event by the organizer | Yes | Refundable with a [5% administrative fee](https://www.gencon.com/gen-con-indy/your_badge), or returned to system credit at no fee |
+| Event ticket | Usually $2 per two hours; more with supplies or prizes; some free | Yes | Refundable with a [5% administrative fee](https://www.gencon.com/gen-con-indy/your_badge), or returned to system credit at no fee |
 | Generic ticket | $2 each | No | Returned for system credit, no fee, before Sunday close |
 
 ## What are the common mistakes?
@@ -102,7 +102,7 @@ The game is the reason. The people are the point. Event registration gets you to
 
 ### When does Gen Con event registration open?
 
-In 2026 it opened May 17 at noon Eastern, with badges on sale from February 8. Gen Con posts each year's dates on gencon.com and in its help center; the 2027 show runs August 5–8.
+In 2026 it opened May 17 at noon Eastern, with badges on sale from February 8. Gen Con posts each year's dates on gencon.com and in its help center; the 2027 show runs August 5–8. Gen Con has not announced 2027 badge, housing, or event registration dates yet; in 2026 it announced them in mid-January.
 
 ### Do I need a badge before I can buy event tickets?
 
@@ -110,7 +110,7 @@ Yes. Gen Con's help center states you must already hold a badge before purchasin
 
 ### How many events can I put on my wish list?
 
-Several dozen; Gen Con posts the current cap in its event-finding guide each spring. Rank them in priority order, because they are processed top to bottom.
+Up to 50, according to Gen Con's help center. Check the cap again each spring. Rank them in priority order, because they are processed top to bottom.
 
 ### Can I get into a sold-out event with generic tickets?
 

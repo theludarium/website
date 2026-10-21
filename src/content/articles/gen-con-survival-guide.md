@@ -12,12 +12,12 @@ The logistics below reflect the 2026 show (July 30 to August 2) at the Indiana C
 
 ## How much walking is Gen Con, really?
 
-More than a theme park. The Indiana Convention Center is long, Lucas Oil Stadium is connected by a skywalk at the far end, and events are spread across both plus the downtown hotels. A normal day is many miles on foot for people who move between halls, and the floors are concrete under thin carpet.
+More than a theme park. The Indiana Convention Center is long, Lucas Oil Stadium is connected by an enclosed walkway at the far end, and events are spread across both plus the downtown hotels. A normal day is many miles on foot for people who move between halls, and there are long stretches of hard floor.
 
 Three rules handle most of it.
 
 1. **Shoes you have already walked in.** Not new ones. Bring two pairs and alternate days; the change in pressure points matters more than the brand.
-2. **Group your events by building.** When you build your wish list, put morning events in one building and afternoon events in the other, so you cross the skywalk once, not six times.
+2. **Group your events by building.** When you build your wish list, put morning events in one building and afternoon events in the other, so you cross the connector once, not six times.
 3. **Sit down on purpose.** Open gaming halls, hotel lobbies, and the steps outside are free. Twenty minutes off your feet every two hours is the difference between Saturday night and Saturday nap.
 
 ## What should you eat, and when?
@@ -58,13 +58,13 @@ The Exhibit Hall is the largest room in tabletop, with hundreds of publishers, d
 
 **Pass three, Sunday.** Buy. Some vendors discount on the last day to avoid shipping stock home, and you only carry your purchases for a few hours instead of three days. The exception is a convention exclusive with a limited run; buy that when you see it.
 
-Two more things. Bring a folding bag or a small rolling cart for the trip out on Sunday, and set a dollar limit before you walk in. Writing it on your hand sounds silly and works.
+Two more things. Bring a folding bag or a sturdy tote for the trip out on Sunday (carts and rolling luggage are not allowed in the Exhibit Hall), and set a dollar limit before you walk in. Writing it on your hand sounds silly and works.
 
 ## What goes in the bag?
 
 Smaller than you think. A full packing list is in [the Gen Con packing list](/articles/gen-con-packing-list/); the daily carry is this.
 
-- Badge on a lanyard, and the event tickets for the day, printed or on your phone
+- Badge on a lanyard (it carries your e-tickets), plus any paper tickets for the day
 - Water bottle, snacks, a small first-aid kit with blister pads and painkillers
 - Phone battery pack; signal in the halls is poor and the app drains it
 - Hand sanitizer, because you will touch ten thousand components
@@ -101,4 +101,4 @@ One or two. Leave at least half of each day open for the Exhibit Hall, demos, an
 
 The convention will be there all four days. Make sure you are too. The game is the reason. The people are the point.
 
-For the packing list, registration tips, and the places to play in Indianapolis the other fifty-one weeks, subscribe to The Ludarium newsletter. Short emails, and a quiet seat at a good table when our lounge opens downtown.
+For the packing list, registration tips, and the places to play in Indianapolis the other fifty-one weeks, subscribe to The Ludarium newsletter. Short emails, and first word when our Indianapolis lounge opens.
