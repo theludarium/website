@@ -219,5 +219,5 @@ A short log of choices made and why. Newest at the bottom.
 - **D1 bound through the dashboard, not a root `wrangler.toml`.** Once a root config has `pages_build_output_dir`, Wrangler makes it the source of truth for the Pages project and the dashboard's variables and secrets become read-only there. The root `wrangler.toml` therefore has no output dir and only serves `wrangler pages dev`.
 - **Digest through Resend**, already wired for the inquiry form, instead of Cloudflare's send_email binding, which now needs the domain onboarded to Email Service first. `workers/visitors-digest` runs at 12:00 UTC on Mondays (7am Eastern in winter, 8am in summer: cron triggers have no time zone).
 - **Scoring:** 10 x log2(1 + visits), 15 per distinct page, up to 30 for recency fading over 30 days, 40 for Indiana or 10 for elsewhere in the US. Out-of-region companies are kept, ranked lower.
-- **Not built:** the optional `/admin/visitors` dashboard (Levi's call: not yet). The privacy policy paragraph was drafted for Levi's review and not added.
+- **Not built:** the optional `/admin/visitors` dashboard (Levi's call: not yet). The privacy policy gained a paragraph on it (Levi approved the draft 2026-10-22) and lists IPinfo as a helper.
 - **Dependency added:** `wrangler` at the root, for `wrangler pages dev` and D1 migrations.
