@@ -8,9 +8,14 @@ import { MALAPHOR_BOOK_URL, MALAPHOR_KINDLE_URL } from '@/lib/config';
 ---
 
 <section class="book" aria-labelledby="book-title">
-  <a class="book__cover" href={MALAPHOR_BOOK_URL} rel="noopener" tabindex="-1" aria-hidden="true">
-    <Image src={cover} alt="" widths={[240, 480]} sizes="(max-width: 40rem) 60vw, 240px" />
-  </a>
+  <div class="book__cover">
+    <Image
+      src={cover}
+      alt="Cover of We'll Burn That Bridge When We Get to It: four friends around a green card table"
+      widths={[240, 480]}
+      sizes="(max-width: 40rem) 60vw, 240px"
+    />
+  </div>
 
   <div class="book__copy">
     <p class="book__eyebrow">The book</p>
