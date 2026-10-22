@@ -107,6 +107,10 @@ For people who join through the **Lounge waitlist: Indianapolis** form. It repla
 
 ### Kit setup for the two welcomes
 
+Built 2026-10-21: sequence **Welcome** (2939465, rule 5660412 from Ludarium Letters) and **Welcome: Indianapolis waitlist** (2939467, its own rule from the waitlist form, alongside tag rule 5659971). Each is one email, sent as soon as possible after confirming. Sequences are a paid Kit feature; check they still run if the account drops to the free plan.
+
+To edit an email's body in Kit's editor (Slate), select all twice (the first select-all only takes the current paragraph) before deleting or pasting.
+
 - **Sequence "Welcome"** (the newsletter welcome above). Rule: trigger **Subscribes to a form: Ludarium Letters**, action **Subscribe to sequence: Welcome**.
 - **Sequence "Welcome: Indianapolis waitlist"** (this email). Rule: trigger **Subscribes to a form: Lounge waitlist: Indianapolis**, action **Subscribe to sequence: Welcome: Indianapolis waitlist**. (The existing rule 5659971 already tags these subscribers `lounge-indianapolis`; add the sequence as a second action on it or as its own rule.)
 - Kit runs form rules only after the subscriber confirms, so each welcome arrives right after the confirm click.
