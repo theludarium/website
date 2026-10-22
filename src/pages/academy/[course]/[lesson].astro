@@ -1,0 +1,316 @@
+---
+// One Academy lesson. Reuses the article reading layout (src/styles/reading.css)
+// and adds the lesson badge, the one idea, the Level check, the next-lesson
+// teaser, previous and next links, and the course signup form.
+import { render } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import AcademyForm from '@/components/AcademyForm.astro';
+import LevelCheck from '@/components/LevelCheck.astro';
+import PreviewNote from '@/components/PreviewNote.astro';
+import TableOfContents from '@/components/TableOfContents.astro';
+import {
+  COURSES,
+  getAllLessons,
+  getLessonPages,
+  hasPage,
+  lessonMinutes,
+  lessonNumber,
+  lessonOutline,
+  lessonSlug,
+  lessonUrl,
+  levelOf,
+  type Course,
+  type Lesson,
+} from '@/lib/academy';
+import { formatDate } from '@/lib/articles';
+import { SITE } from '@/lib/site';
+import '@/styles/prose.css';
+import '@/styles/reading.css';
+
+export async function getStaticPaths() {
+  const paths = [];
+  for (const course of COURSES) {
+    const all = await getAllLessons(course.slug);
+    for (const lesson of await getLessonPages(course.slug)) {
+      paths.push({ params: { course: course.slug, lesson: lessonSlug(lesson) }, props: { lesson, all, course } });
+    }
+  }
+  return paths;
+}
+
+interface Props {
+  lesson: Lesson;
+  all: Lesson[];
+  course: Course;
+}
+
+const { lesson, all, course } = Astro.props;
+const { title, description, pubDate, updatedDate, draft, level, levelName, order, oneIdea, levelCheck, nextTeaser } = lesson.data;
+const { Content, headings } = await render(lesson);
+
+const levelInfo = levelOf(course, level);
+const index = all.findIndex((l) => l.id === lesson.id);
+const prev = index > 0 ? all[index - 1] : undefined;
+const next = index < all.length - 1 ? all[index + 1] : undefined;
+const total = all.length;
+const minutes = lessonMinutes(lesson);
+const showToc = headings.filter((h) => h.depth === 2).length >= 3;
+const outline = draft ? lessonOutline(lesson) : undefined;
+const courseUrl = `/academy/${course.slug}/`;
+const canonical = new URL(Astro.url.pathname, Astro.site).href;
+const slug = lessonSlug(lesson);
+const image = `/og/academy/${course.slug}/${slug}.png`;
+
+const structuredData = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'LearningResource',
+    name: title,
+    description,
+    url: canonical,
+    learningResourceType: 'Lesson',
+    educationalLevel: `Level ${level}: ${levelName}`,
+    teaches: oneIdea ?? description,
+    timeRequired: `PT${minutes}M`,
+    position: order,
+    inLanguage: 'en-US',
+    isAccessibleForFree: true,
+    datePublished: pubDate.toISOString(),
+    dateModified: (updatedDate ?? pubDate).toISOString(),
+    image: new URL(image, Astro.site).href,
+    isPartOf: { '@type': 'Course', name: course.title, url: new URL(courseUrl, SITE.url).href },
+    author: { '@id': `${SITE.url}/#organization` },
+    publisher: { '@id': `${SITE.url}/#organization` },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Academy', item: `${SITE.url}/academy/` },
+      { '@type': 'ListItem', position: 2, name: course.title, item: new URL(courseUrl, SITE.url).href },
+      { '@type': 'ListItem', position: 3, name: title, item: canonical },
+    ],
+  },
+];
+---
+
+<BaseLayout title={title} description={description} image={image} imageAlt={`${course.title}, lesson ${order}: ${title}`} noindex={draft}>
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify(structuredData)} />
+
+  <article class="article lesson">
+    <header class="container article__header">
+      <nav class="article__crumbs" aria-label="Breadcrumb">
+        <a href="/academy/">Academy</a>
+        <span aria-hidden="true">/</span>
+        <a href={courseUrl}>{course.title}</a>
+      </nav>
+      {draft && <p class="article__draft"><span class="draft-badge">Draft</span> Only visible on previews. Set <code>draft: false</code> to publish.</p>}
+      <p class="lesson__badge">
+        <span class="lesson__level">Level {level} &middot; {levelName}</span>
+        <span>Lesson {lessonNumber(lesson)} of {total}</span>
+      </p>
+      <h1>{title}</h1>
+      <p class="article__lede">{description}</p>
+      <p class="article__meta">
+        <span>{levelInfo.label}</span>
+        <span aria-hidden="true">&middot;</span>
+        <span>{minutes} min read</span>
+        <span aria-hidden="true">&middot;</span>
+        <time datetime={(updatedDate ?? pubDate).toISOString()}>{updatedDate ? 'Updated ' : ''}{formatDate(updatedDate ?? pubDate)}</time>
+      </p>
+    </header>
+
+    <div class:list={['container', 'article__layout', { 'has-toc': showToc }]}>
+      {
+        showToc && (
+          <aside class="article__toc">
+            <TableOfContents headings={headings} />
+          </aside>
+        )
+      }
+      <div class="article__body">
+        {
+          oneIdea && (
+            <aside class="lesson__idea" aria-label="The one idea">
+              <p class="eyebrow">The one idea</p>
+              <p class="lesson__idea-text">{oneIdea}</p>
+            </aside>
+          )
+        }
+
+        {
+          outline && (
+            <PreviewNote>
+              This lesson is a scaffold. Its outline, from the course plan:
+              <pre class="lesson__outline">{outline}</pre>
+            </PreviewNote>
+          )
+        }
+
+        <div class="prose-article">
+          <Content />
+        </div>
+
+        {levelCheck && levelCheck.length > 0 && <LevelCheck questions={levelCheck} lesson={slug} />}
+
+        {
+          next && (
+            <section class="lesson__next" aria-labelledby="lesson-next-title">
+              <p class="eyebrow">Next lesson</p>
+              <h2 id="lesson-next-title">
+                {hasPage(next) ? <a href={lessonUrl(next)}>{next.data.title}</a> : next.data.title}
+              </h2>
+              {nextTeaser && <p>{nextTeaser}</p>}
+              {!hasPage(next) && <p class="lesson__soon">Coming soon. Sign up below to get the lessons by email as they are released.</p>}
+            </section>
+          )
+        }
+
+        <nav class="lesson__pager" aria-label="Lessons">
+          {
+            prev ? (
+              <div class="lesson__pager-item">
+                <span class="lesson__pager-label">Previous</span>
+                {hasPage(prev) ? <a href={lessonUrl(prev)}>{prev.data.title}</a> : <span>{prev.data.title}</span>}
+              </div>
+            ) : (
+              <div class="lesson__pager-item">
+                <span class="lesson__pager-label">Course</span>
+                <a href={courseUrl}>All {total} lessons</a>
+              </div>
+            )
+          }
+          {
+            next ? (
+              <div class="lesson__pager-item lesson__pager-item--next">
+                <span class="lesson__pager-label">Next</span>
+                {hasPage(next) ? <a href={lessonUrl(next)}>{next.data.title}</a> : <span>{next.data.title}</span>}
+              </div>
+            ) : (
+              <div class="lesson__pager-item lesson__pager-item--next">
+                <span class="lesson__pager-label">Course</span>
+                <a href={courseUrl}>Back to the course</a>
+              </div>
+            )
+          }
+        </nav>
+
+        <section class="article__signup lesson__signup" aria-labelledby="lesson-signup-title">
+          <h2 id="lesson-signup-title">Get every lesson by email.</h2>
+          <p>{course.promise} Free, and it starts at your level.</p>
+          <AcademyForm course={course.slug} id="lesson-signup" tone="plain" />
+        </section>
+      </div>
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .lesson__badge {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+    margin: 0 0 var(--space-3);
+    font-size: var(--text-sm);
+    font-weight: 600;
+  }
+
+  .lesson__badge span {
+    padding: 4px 12px;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-pill);
+    color: var(--color-text-muted);
+  }
+
+  .lesson__badge .lesson__level {
+    border-color: var(--color-primary);
+    background: var(--color-primary);
+    color: var(--color-on-primary);
+  }
+
+  .lesson__idea {
+    margin: 0 0 var(--space-7);
+    padding: var(--space-5) var(--space-6);
+    border-left: 4px solid var(--color-cta);
+    border-radius: var(--radius-md);
+    background: var(--color-accent-soft);
+  }
+
+  .lesson__idea .eyebrow {
+    margin-bottom: var(--space-2);
+  }
+
+  .lesson__idea-text {
+    margin: 0;
+    font-family: var(--font-display);
+    font-size: var(--text-xl);
+    line-height: var(--leading-snug);
+  }
+
+  .lesson__outline {
+    margin: var(--space-3) 0 0;
+    white-space: pre-wrap;
+    font-family: inherit;
+    font-size: var(--text-sm);
+  }
+
+  .lesson__next {
+    margin-top: var(--space-8);
+    padding: var(--space-6);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-card);
+  }
+
+  .lesson__next h2 {
+    margin: 0 0 var(--space-3);
+    font-size: var(--text-2xl);
+  }
+
+  .lesson__next p:last-child {
+    margin-bottom: 0;
+  }
+
+  .lesson__soon {
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+
+  .lesson__pager {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-4);
+    margin-top: var(--space-6);
+  }
+
+  .lesson__pager-item {
+    display: grid;
+    gap: var(--space-1);
+    padding: var(--space-4) var(--space-5);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-card);
+  }
+
+  .lesson__pager-item--next {
+    text-align: right;
+  }
+
+  .lesson__pager-label {
+    font-size: var(--text-sm);
+    font-weight: 600;
+    color: var(--color-text-muted);
+  }
+
+  .lesson__signup p {
+    margin-bottom: var(--space-4);
+  }
+
+  @media (max-width: 40rem) {
+    .lesson__pager {
+      grid-template-columns: 1fr;
+    }
+
+    .lesson__pager-item--next {
+      text-align: left;
+    }
+  }
+</style>

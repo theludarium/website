@@ -1,0 +1,138 @@
+---
+// Academy course signup. Posts straight to the course's Kit form (set in
+// src/lib/config.ts). Kit tags the signup `academy` plus the course tag,
+// sends the double opt-in email, then starts the lessons at the level the
+// reader picked. Setup: docs/academy/<course>/KIT-SETUP.md.
+// Four fields (two optional in spirit), so a single step per the landing page rules.
+import PreviewNote from '@/components/PreviewNote.astro';
+import { KIT_ACADEMY_FORMS } from '@/lib/config';
+import { US_STATES } from '@/lib/us-states';
+import { courseBySlug, EXPERIENCE_OPTIONS } from '@/lib/academy';
+
+interface Props {
+  course: string;
+  /** Unique per page, so two forms on one page keep their labels apart. */
+  id: string;
+  buttonLabel?: string;
+  tone?: 'card' | 'plain';
+}
+
+const { course: courseSlug, id, buttonLabel = 'Send me lesson one, free', tone = 'card' } = Astro.props;
+const course = courseBySlug(courseSlug);
+const kit = KIT_ACADEMY_FORMS[courseSlug];
+const configured = Boolean(kit?.action);
+
+---
+
+<form
+  class:list={['academy-form', `academy-form--${tone}`]}
+  action={configured ? kit.action : `/academy/${course.slug}/`}
+  method={configured ? 'post' : 'get'}
+  data-academy-form={course.slug}
+>
+  <div class="academy-form__row">
+    <label for={`${id}-name`}>
+      First name
+      <input id={`${id}-name`} name="fields[first_name]" autocomplete="given-name" maxlength="80" required />
+    </label>
+    <label for={`${id}-email`}>
+      Email
+      <input id={`${id}-email`} name="email_address" type="email" autocomplete="email" maxlength="200" required />
+    </label>
+  </div>
+  <div class="academy-form__row">
+    <label for={`${id}-experience`}>
+      How well do you know Catan?
+      <select id={`${id}-experience`} name="fields[catan_experience]" required>
+        <option value="" disabled selected>Choose one</option>
+        {EXPERIENCE_OPTIONS.map((option) => <option value={option}>{option}</option>)}
+      </select>
+    </label>
+    <label for={`${id}-state`}>
+      <span>State <span class="academy-form__optional">optional, for local event alerts</span></span>
+      <select id={`${id}-state`} name="fields[state]" autocomplete="address-level1">
+        <option value="">Skip</option>
+        {US_STATES.map(([code, name]) => <option value={code}>{name}</option>)}
+        <option value="Outside the US">Outside the US</option>
+      </select>
+    </label>
+  </div>
+  <button class="button academy-form__submit" type="submit">{buttonLabel}</button>
+  <p class="academy-form__fine">
+    Free. Lessons start at your level, and you can pause or unsubscribe anytime. <a href="/privacy/">Privacy</a> &middot;
+    <a href="/terms/">Terms</a>
+  </p>
+  {
+    !configured && (
+      <PreviewNote>
+        The {course.title} form is not connected to Kit yet, so signups go nowhere. Follow
+        docs/academy/{course.slug}/KIT-SETUP.md, then paste the form's action URL into chat.
+      </PreviewNote>
+    )
+  }
+</form>
+
+<style>
+  .academy-form {
+    display: grid;
+    gap: var(--space-4);
+  }
+
+  .academy-form--card {
+    padding: var(--space-6);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-card);
+    background: var(--color-surface);
+    box-shadow: var(--shadow-md);
+  }
+
+  .academy-form__row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-4);
+  }
+
+  .academy-form label {
+    display: grid;
+    gap: var(--space-2);
+    font-size: var(--text-sm);
+    font-weight: 600;
+  }
+
+  .academy-form__optional {
+    font-weight: 400;
+    color: var(--color-text-muted);
+  }
+
+  .academy-form input,
+  .academy-form select {
+    width: 100%;
+    padding: 0.7em 0.9em;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    background: var(--color-bg);
+    color: var(--color-text);
+    font: inherit;
+    font-weight: 400;
+  }
+
+  .academy-form__submit {
+    justify-self: start;
+  }
+
+  .academy-form__fine {
+    margin: 0;
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+
+  @media (max-width: 40rem) {
+    .academy-form__row {
+      grid-template-columns: 1fr;
+    }
+
+    .academy-form__submit {
+      justify-self: stretch;
+    }
+  }
+</style>

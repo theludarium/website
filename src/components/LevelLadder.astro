@@ -1,0 +1,121 @@
+---
+// The course's six levels as hex tiles climbing from the kitchen table
+// (bottom) to the tournament table (top). Inline SVG in the site tokens;
+// decorative, so the level text is repeated for screen readers below it.
+import type { Level } from '@/lib/academy';
+
+interface Props {
+  levels: Level[];
+}
+
+const { levels } = Astro.props;
+
+// Flat-top hex of radius r centered at (cx, cy).
+const hex = (cx: number, cy: number, r: number) =>
+  Array.from({ length: 6 }, (_, i) => {
+    const a = (Math.PI / 3) * i;
+    return `${(cx + r * Math.cos(a)).toFixed(1)},${(cy + r * Math.sin(a)).toFixed(1)}`;
+  }).join(' ');
+
+const R = 34;
+const STEP_Y = 62;
+const top = 46;
+const count = levels.length;
+// Bottom tile is level 0; tiles alternate left and right as they climb.
+const tiles = levels.map((level, i) => {
+  const row = count - 1 - i;
+  const cx = i % 2 === 0 ? 70 : 128;
+  const cy = top + row * STEP_Y;
+  return { ...level, cx, cy, points: hex(cx, cy, R) };
+});
+const height = top + (count - 1) * STEP_Y + 50;
+---
+
+<figure class="ladder">
+  <svg viewBox={`0 0 340 ${height}`} role="img" aria-labelledby="ladder-title">
+    <title id="ladder-title">Six levels, from Settler at the kitchen table to Champion at the tournament table</title>
+    {
+      tiles.slice(0, -1).map((t, i) => (
+        <line class="ladder__road" x1={t.cx} y1={t.cy} x2={tiles[i + 1].cx} y2={tiles[i + 1].cy} />
+      ))
+    }
+    {
+      tiles.map((t, i) => (
+        <g>
+          <polygon class:list={['ladder__tile', { 'ladder__tile--top': i === count - 1 }]} points={t.points} />
+          <text class="ladder__num" x={t.cx} y={t.cy + 7} text-anchor="middle">
+            {t.level}
+          </text>
+          <text class="ladder__name" x={t.cx + R + 26} y={t.cy - 2}>
+            {t.name}
+          </text>
+          <text class="ladder__label" x={t.cx + R + 26} y={t.cy + 16}>
+            {t.label}
+          </text>
+        </g>
+      ))
+    }
+  </svg>
+  <figcaption>Kitchen table to tournament table</figcaption>
+</figure>
+
+<style>
+  .ladder {
+    margin: 0;
+    padding: var(--space-6);
+    border-radius: var(--radius-card);
+    background: var(--color-accent-soft);
+  }
+
+  .ladder svg {
+    display: block;
+    width: 100%;
+    max-width: 22rem;
+    height: auto;
+    margin-inline: auto;
+  }
+
+  .ladder__road {
+    stroke: var(--color-border-strong, var(--color-border));
+    stroke-width: 6;
+    stroke-linecap: round;
+  }
+
+  .ladder__tile {
+    fill: var(--color-surface);
+    stroke: var(--color-primary);
+    stroke-width: 3;
+  }
+
+  .ladder__tile--top {
+    fill: var(--color-cta);
+    stroke: var(--color-text);
+  }
+
+  .ladder__num {
+    font-family: var(--font-display);
+    font-size: 22px;
+    font-weight: 700;
+    fill: var(--color-text);
+  }
+
+  .ladder__name {
+    font-family: var(--font-display);
+    font-size: 19px;
+    font-weight: 600;
+    fill: var(--color-text);
+  }
+
+  .ladder__label {
+    font-size: 13px;
+    fill: var(--color-text-muted);
+  }
+
+  .ladder figcaption {
+    margin-top: var(--space-3);
+    text-align: center;
+    font-size: var(--text-sm);
+    font-weight: 600;
+    color: var(--color-text-muted);
+  }
+</style>

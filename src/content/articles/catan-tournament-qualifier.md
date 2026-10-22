@@ -119,7 +119,7 @@ Only national champions from countries that run an official CATAN Championship. 
 
 ## Follow the road to the tournament table
 
-I am turning what I learn from Saturday into a free Catan strategy course for [The Ludarium Academy](/academy/), from learning the rules to being ready for a qualifier. Subscribe to [the newsletter](/newsletter/) and you will hear first when the lessons go live, along with news on the lounge we are building in Indianapolis. And if you are in Hamilton County on Saturday, come play. Worst case, we both lose to someone who has memorized the odds of rolling an 8.
+What I learn on Saturday goes into [Road to the Catan Championship](/academy/catan/), a free Catan strategy course from The Ludarium Academy, from learning the rules to being ready for a qualifier. Sign up there and the lessons arrive by email, starting at your level. For news on the lounge we are building in Indianapolis, subscribe to [the newsletter](/newsletter/). And if you are in Hamilton County on Saturday, come play. Worst case, we both lose to someone who has memorized the odds of rolling an 8.
 
 ## Sources
 

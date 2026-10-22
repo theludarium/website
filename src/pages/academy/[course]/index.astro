@@ -1,0 +1,278 @@
+---
+// One Academy course: who it is for, the levels, every lesson grouped by
+// level, and the signup form above the fold. Follows the landing page rules
+// in CLAUDE.md for the hero. Unpublished lessons show as plain titles.
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import AcademyForm from '@/components/AcademyForm.astro';
+import LevelLadder from '@/components/LevelLadder.astro';
+import { COURSES, getAllLessons, hasPage, lessonNumber, lessonUrl, type Course, type Lesson } from '@/lib/academy';
+import { SITE } from '@/lib/site';
+
+export async function getStaticPaths() {
+  const paths = [];
+  for (const course of COURSES) {
+    paths.push({ params: { course: course.slug }, props: { course, lessons: await getAllLessons(course.slug) } });
+  }
+  return paths;
+}
+
+interface Props {
+  course: Course;
+  lessons: Lesson[];
+}
+
+const { course, lessons } = Astro.props;
+const published = lessons.filter((l) => !l.data.draft);
+const canonical = new URL(Astro.url.pathname, Astro.site).href;
+const byLevel = course.levels.map((level) => ({ ...level, lessons: lessons.filter((l) => l.data.level === level.level) }));
+const firstLesson = published[0];
+
+const structuredData = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Course',
+    name: course.title,
+    description: course.description,
+    url: canonical,
+    inLanguage: 'en-US',
+    isAccessibleForFree: true,
+    educationalLevel: 'Beginner to advanced',
+    numberOfLessons: lessons.length,
+    provider: { '@id': `${SITE.url}/#organization` },
+    offers: { '@type': 'Offer', category: 'Free', price: 0, priceCurrency: 'USD' },
+    hasCourseInstance: {
+      '@type': 'CourseInstance',
+      courseMode: 'Online',
+      courseWorkload: 'PT10M',
+      courseSchedule: { '@type': 'Schedule', repeatFrequency: 'P1W', repeatCount: 17 },
+    },
+    syllabusSections: course.levels.map((level) => ({
+      '@type': 'Syllabus',
+      name: `Level ${level.level}: ${level.name}`,
+      description: level.outcome,
+    })),
+    hasPart: published.map((lesson) => ({
+      '@type': 'LearningResource',
+      name: lesson.data.title,
+      url: new URL(lessonUrl(lesson), SITE.url).href,
+      position: lesson.data.order,
+    })),
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Academy', item: `${SITE.url}/academy/` },
+      { '@type': 'ListItem', position: 2, name: course.title, item: canonical },
+    ],
+  },
+];
+---
+
+<BaseLayout
+  title={`${course.title}: Free Course`}
+  description="A free Catan strategy course in 40 short lessons, from opening the box to what it takes to win a National Championship. Starts at your level, by email."
+>
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify(structuredData)} />
+
+  <section class="course-hero">
+    <div class="container course-hero__grid">
+      <div>
+        <p class="eyebrow">The Ludarium Academy &middot; Free course</p>
+        <h1>{course.title}</h1>
+        <p class="course-hero__sub">
+          {course.promise} Forty short lessons take you from your first game to what it takes to win a
+          National Championship. Tell us where you are, and the lessons start there.
+        </p>
+        <AcademyForm course={course.slug} id="course-signup" />
+      </div>
+      <LevelLadder levels={course.levels} />
+    </div>
+  </section>
+
+  <section class="section course-for" aria-labelledby="course-for-title">
+    <div class="container">
+      <h2 id="course-for-title">Who it is for</h2>
+      <ul class="course-for__list">
+        {course.audience.map((line) => <li>{line}</li>)}
+      </ul>
+      <p class="course-for__more">
+        New to the competitive side? Start with the story behind the course:
+        <a href={course.companionArticle.href}>{course.companionArticle.title}</a>
+      </p>
+    </div>
+  </section>
+
+  <section class="section course-levels" aria-labelledby="course-levels-title">
+    <div class="container">
+      <div class="section-head">
+        <h2 id="course-levels-title">Six levels, {lessons.length} lessons</h2>
+        {firstLesson && <a class="text-link" href={lessonUrl(firstLesson)}>Start with lesson one</a>}
+      </div>
+      <ol class="course-levels__list">
+        {
+          byLevel.map((level) => (
+            <li class="course-level" id={`level-${level.level}`}>
+              <div class="course-level__head">
+                <p class="eyebrow">
+                  Level {level.level} &middot; {level.label}
+                </p>
+                <h3>{level.name}</h3>
+                <p class="course-level__outcome">
+                  <strong>After this level:</strong> {level.outcome}
+                </p>
+              </div>
+              <ol class="course-level__lessons">
+                {level.lessons.map((lesson) => (
+                  <li>
+                    <span class="course-level__num">{lessonNumber(lesson)}</span>
+                    {hasPage(lesson) ? <a href={lessonUrl(lesson)}>{lesson.data.title}</a> : <span>{lesson.data.title}</span>}
+                    {lesson.data.draft && hasPage(lesson) && <span class="draft-badge">Draft</span>}
+                  </li>
+                ))}
+              </ol>
+            </li>
+          ))
+        }
+      </ol>
+    </div>
+  </section>
+
+  <section class="section course-faq" aria-labelledby="course-faq-title">
+    <div class="container">
+      <h2 id="course-faq-title" class="visually-hidden">Common questions</h2>
+      <ul class="course-faq__list">
+        <li>
+          <h3>Do I need to own Catan?</h3>
+          <p>It helps for the drills, but you can start without it. A friend's copy, a library copy, or the official app all work.</p>
+        </li>
+        <li>
+          <h3>How much email is it?</h3>
+          <p>One short lesson at a time, never more than a few a week. Pause or skip ahead from any email, and unsubscribe anytime.</p>
+        </li>
+        <li>
+          <h3>Is it really free?</h3>
+          <p>Yes. Every lesson in this course is free to read on the site. No card, no trial.</p>
+        </li>
+      </ul>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .course-hero {
+    padding-block: var(--space-8) var(--space-6);
+  }
+
+  .course-hero__grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1.15fr) minmax(0, 0.85fr);
+    align-items: start;
+    gap: var(--space-7);
+  }
+
+  .course-hero h1 {
+    font-size: var(--text-4xl);
+  }
+
+  .course-hero__sub {
+    max-width: 36rem;
+    margin-bottom: var(--space-6);
+    font-size: var(--text-lg);
+    color: var(--color-text-muted);
+  }
+
+  .course-for__list {
+    display: grid;
+    gap: var(--space-3);
+    max-width: var(--width-content);
+    padding-left: 1.2em;
+    font-size: var(--text-lg);
+  }
+
+  .course-for__more {
+    max-width: var(--width-content);
+    color: var(--color-text-muted);
+  }
+
+  .course-levels__list {
+    display: grid;
+    gap: var(--space-5);
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .course-level {
+    display: grid;
+    grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.2fr);
+    gap: var(--space-6);
+    padding: var(--space-6);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-card);
+    background: var(--color-surface);
+  }
+
+  .course-level h3 {
+    margin: 0 0 var(--space-3);
+    font-size: var(--text-2xl);
+  }
+
+  .course-level__outcome {
+    margin: 0;
+    color: var(--color-text-muted);
+  }
+
+  .course-level__lessons {
+    display: grid;
+    gap: var(--space-2);
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .course-level__lessons li {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: var(--space-3);
+  }
+
+  .course-level__lessons span:not(.course-level__num):not(.draft-badge) {
+    color: var(--color-text-muted);
+  }
+
+  .course-level__num {
+    flex: none;
+    min-width: 2ch;
+    font-variant-numeric: tabular-nums;
+    font-size: var(--text-sm);
+    font-weight: 600;
+    color: var(--color-text-muted);
+  }
+
+  .course-faq__list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 16rem), 1fr));
+    gap: var(--space-5);
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .course-faq__list h3 {
+    margin-top: 0;
+    font-size: var(--text-xl);
+  }
+
+  .course-faq__list p {
+    color: var(--color-text-muted);
+  }
+
+  @media (max-width: 56rem) {
+    .course-hero__grid,
+    .course-level {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
