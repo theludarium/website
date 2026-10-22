@@ -57,3 +57,6 @@ export const KIT_MALAPHOR_FORM = { action: 'https://app.kit.com/forms/10080181/s
 
 /** The malaphor field guide on Amazon (paperback page; it links the Kindle edition too). A plain link, not an affiliate link. */
 export const MALAPHOR_BOOK_URL = 'https://www.amazon.com/dp/B0HNTSXVS6';
+
+/** The same book's Kindle edition on Amazon. */
+export const MALAPHOR_KINDLE_URL = 'https://www.amazon.com/dp/B0HNTT7KKV';

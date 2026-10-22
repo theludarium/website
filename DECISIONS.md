@@ -230,3 +230,8 @@ A short log of choices made and why. Newest at the bottom.
 - **Kit form "Malaphor submissions" (10080181)**, made by duplicating the Indianapolis waitlist form so it keeps double opt-in. Custom fields `malaphor`, `parents`, `context`; rule 5660414 tags senders `malaphors`. The confirmation email was rewritten for malaphor senders. No welcome sequence for now; the page only promises a note if theirs makes the book.
 - **Own confirmed page, `/malaphors/confirmed/`.** The newsletter's confirmed page promises a welcome email these people will not get.
 - **A quiet Amazon link** below the questions and on the confirmed page (`MALAPHOR_BOOK_URL` in `src/lib/config.ts`). A plain link, not an affiliate link, so no disclosure is needed.
+
+## 2026-10-22: Book module on the malaphor page
+
+- **A Walnut panel with the cover and a "Buy on Amazon" button** sits right under the submission form on `/malaphors/` (`src/components/MalaphorBook.astro`), replacing the one-line "No copy yet?" link. Levi wanted buying the book to stand out. Walnut, not Felt Green, so the green cover stands out against it.
+- **Plain Amazon links** (paperback page, plus a Kindle link in `MALAPHOR_KINDLE_URL`); no affiliate tags, so no disclosure. No prices on the page, since KDP prices can change.
