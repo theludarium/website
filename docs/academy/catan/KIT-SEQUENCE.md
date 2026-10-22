@@ -6,6 +6,223 @@ The course: 40 free lessons in six levels. Each lesson is a page at `https://the
 
 House rules for every email here: plain words, short sentences, no em dashes, warm and a little playful. Promise only what exists. There are no Ludarium game nights, lounge, or league running yet; the practice league is "something we're starting, and you hear first."
 
+## Launch first: Level 0 only (decided 2026-10-22)
+
+Only Level 0 is written so far, so everyone starts at Level 0 for now, whatever they pick on the form. The form still saves `catan_experience`, so the level split can switch on later without asking anyone again. Build this short version first, test it, and then we merge the site. The full plan below stays the target as more levels are written.
+
+### What to build now
+
+1. **Tags and form:** done (KIT-SETUP.md).
+2. **Two sequences** (step A below, same settings):
+   - **Catan: Welcome**: one email, the interim welcome below, as soon as possible.
+   - **Catan L0: Settler**: send days every day, 8 a.m. Lesson 1 after 1 day, lessons 2 to 5 every 2 days, then the interim Level 0 wrap-up after 24 **hours**. Exclude `academy-catan-paused` only.
+3. **One link trigger** (step B below): **Catan: pause lessons** only. Skip the "Too easy?" triggers until there is a level to skip to.
+4. **Three automations** (step C below):
+   - **C1 Catan: Start (interim).** Entry **Joins a form**, Academy: Road to the Catan Championship. Then **Email sequence** Catan: Welcome. Then **Add tag** `academy-catan-settler`. No condition step yet.
+   - **C2 Catan: Level 0**, as written below, ending with **Remove tag** `academy-catan-settler` and **Add tag** `academy-catan-homesteader`.
+   - **C8 Catan: Pause**, as written below.
+5. **Test** with steps D3 (pause) and D4 (graduation, but expect the interim wrap-up and no lesson 6).
+6. **Publish** both sequences and turn on the three automations. Then tell Claude, and we merge.
+
+### When Level 1 is written
+
+Claude writes lessons 6 to 12 and their emails. Then you build **Catan L1: Homesteader** and automation **C3**, and add the "Too easy?" trigger for Level 0. People who already finished Level 0 hold the `academy-catan-homesteader` tag, but automations are not retroactive, so they will not enter C3 on their own. To start them: in **Subscribers**, filter by that tag, select all, **Remove tag** `academy-catan-homesteader`, then **Add tag** `academy-catan-homesteader` again. The re-add fires C3. When all levels are live, switch C1 to the full version with the four-path split.
+
+### Lesson email footer, for now
+
+> Busy stretch? [Pause lessons for two weeks](link trigger: Catan: pause lessons) · [Find a Catan event near you](https://theludarium.com/articles/catan-tournament-qualifier/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=events)
+
+### The interim welcome email
+
+Sequence **Catan: Welcome**, as soon as possible.
+
+**Subject:** Your road to the Catan Championship starts here
+
+**Preview text:** Your first lesson arrives tomorrow. Here's how the course works.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> Welcome to Road to the Catan Championship, the first course from The Ludarium Academy. From kitchen table to tournament table, one lesson at a time.
+>
+> **Where you start**
+>
+> Everyone starts at **Level 0: Settler**. By the end of it you'll set up and finish a game without the rulebook. If you already know the basics, Level 0 goes quickly, and it is a good refresher on the 6th Edition rules that tournaments now use. Your first lesson arrives tomorrow morning. Can't wait? [Read it now](https://theludarium.com/academy/catan/what-is-catan/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=welcome).
+>
+> **How it works**
+>
+> - 40 lessons in six levels: Settler, Homesteader, Trader, Strategist, Contender, and Champion. Level 0 is ready now, and the next levels arrive in your inbox as they are written.
+> - Each email is a two-minute read: one idea, a quick example, and one thing to try at your next game. The full lesson lives on the site, with a short Level check at the end.
+> - **Busy stretch?** "Pause lessons" in any email holds them for two weeks, then they pick up where you left off.
+>
+> **Why this course exists**
+>
+> This fall I signed up for my first official Catan qualifier, a $10 local tournament at a game store north of Indianapolis. I went looking for a clear path from casual player to tournament player and couldn't find one in one place. So we're building it, one lesson at a time. [Here's the story of how it started](https://theludarium.com/articles/catan-tournament-qualifier/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=welcome-story).
+>
+> One favor: reply and tell me how you play Catan now. Family game night, a group of friends, online? I read every reply, and it shapes the lessons.
+>
+> [Button: See all 40 lessons]
+>
+> See you at the table,
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=welcome`
+
+### The five Level 0 lesson emails
+
+Each one goes in **Catan L0: Settler** in this order, with the footer above. Button text: **Read the full lesson**.
+
+#### Lesson 1
+
+**Subject:** Welcome to the island
+
+**Preview text:** How a 1995 board game started the modern hobby, and the one goal that matters.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> Maybe you played Catan once at a friend's house, between bites of pizza, and left hooked and a little lost. That's exactly where this course starts.
+>
+> **The one idea:** Catan is a race to 10 victory points, and you get there by turning dice rolls and trades into roads, settlements, and cities.
+>
+> **A quick example:** the dice come up 8. Every settlement touching a hex marked 8 collects a card. You're one brick short of a new settlement, so you offer a neighbor two wheat for one brick. They say yes, you build, and you're a point closer to 10. That loop is the whole game.
+>
+> The lesson also covers where Catan came from, why it became everyone's first "real" board game, and which edition to learn.
+>
+> **Try it this week:** get one game on the table, start to finish. Your own copy, a friend's, a library's, or a public game night all count. Then write down one question the game left you with.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/what-is-catan/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-01`
+
+#### Lesson 2
+
+**Subject:** Your first board, built in 10 minutes
+
+**Preview text:** 19 hexes, 18 numbers, 9 ports, and the placement order that trips up new players.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> Setup is where most first games go sideways. It doesn't have to.
+>
+> **The one idea:** setup is a snake draft. Players place their first settlements in order 1, 2, 3, 4, then their second ones in reverse, 4, 3, 2, 1. Only your second settlement pays starting resources.
+>
+> **A quick example:** in a four-player game, the fourth player places two settlements in a row. That sounds unfair until you notice they also get the last say on which resources the table will be short of. And because the second settlement pays out right away, a smart player puts it next to whatever their first spot is missing.
+>
+> The full lesson walks the whole board: the 19 land hexes, the 18 number discs, the 9 ports, and fixed versus variable setups, with a diagram.
+>
+> **Try it this week:** set up a variable board alone and play out the snake draft for four imaginary players. Time yourself. The goal is under 10 minutes, no rulebook.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/catan-setup/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-02`
+
+#### Lesson 3
+
+**Subject:** Roll, trade, build, repeat
+
+**Preview text:** Every turn has three beats. Learn them once and you can teach anyone.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> Once you see the loop, every turn of Catan looks the same, in a good way.
+>
+> **The one idea:** every turn is the same loop. Roll so the island pays everyone, then trade and build as much as your cards allow.
+>
+> **A quick example:** you roll a 6. You collect a wheat and an ore, and so does your neighbor. Now it's your move: you trade four sheep to the bank for one brick (the 4:1 trade anyone can make), add your wood, and build a road toward a better spot. Then you pass the dice.
+>
+> The lesson covers trading with players, the bank, and ports, plus all four building costs in one table.
+>
+> **Try it this week:** memorize the four costs. Road is brick and wood. Settlement is a road plus wool and wheat. Development card is wool, wheat, and ore. City is 2 wheat and 3 ore. Say them out loud every morning, and play your next game with the player aid face down.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/how-a-turn-works/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-03`
+
+#### Lesson 4
+
+**Subject:** Who invited the robber?
+
+**Preview text:** What happens on a 7, why you count your cards, and what's in the development deck.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> Nobody produces on a 7. Instead, the robber shows up, and somebody loses cards.
+>
+> **The one idea:** on a 7, anyone holding 8 or more resource cards loses half, so build before you pass the dice.
+>
+> **A quick example:** you're sitting on 9 cards, saving for a city. Someone rolls a 7. You discard 4, rounded down, and the city is gone. If you had built a road and a development card last turn, you would have kept almost everything.
+>
+> The full lesson covers moving the robber and stealing, plus all 25 development cards: Knights, Victory Points, Road Building, Invention, and Monopoly, and when you're allowed to play them. One of them can even chase the robber off your best hex before you roll.
+>
+> **Try it this week:** for one whole game, count your cards out loud before every roll. Whenever you're at 8 or more, note what you could have built to stay safe.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/robber-and-development-cards/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-04`
+
+#### Lesson 5
+
+**Subject:** 10 points: here's every way to get there
+
+**Preview text:** Settlements, cities, two bonuses, and the hidden points nobody sees coming.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> Last lesson of Level 0. This one is about the finish line.
+>
+> **The one idea:** there are only five ways to score, and the game ends the moment you reach 10 points on your own turn.
+>
+> **A quick example:** you have 3 settlements, 2 cities, and Longest Route. That's 3 plus 4 plus 2: 9 points on the table. On your turn you flip the hidden Victory Point card you've been holding. That's 10, and the game ends right there, mid-turn. Nobody saw it coming.
+>
+> The lesson covers each path: settlements, cities, Longest Route, Largest Army, and Victory Point cards, plus why you must claim your win on your own turn.
+>
+> **Try it this week:** play three games and record how each winner got to 10. Five columns: settlements, cities, Longest Route, Largest Army, VP cards. You'll be surprised how different the paths are.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/how-to-win/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-05`
+
+### The interim Level 0 wrap-up
+
+Last email in **Catan L0: Settler**, 24 hours after lesson 5. It replaces graduation email 1 until Level 1 is written.
+
+**Subject:** Level 0 done. You can play Catan now.
+
+**Preview text:** Level 1 is being written now, and it comes straight to your inbox.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> That's Level 0: Settler, finished. You can set up a board, run a turn, handle the robber, and count your way to 10 points. That's more than a lot of people who own the game.
+>
+> **What's next: Level 1, Homesteader.** Seven lessons on the choices that win games before the dice do much: what the dots under the numbers mean, where your first two settlements go, and how to keep your hand out of the robber's reach. I'm writing it now. When it's ready, the first lesson comes straight to your inbox. You don't need to do anything.
+>
+> **In the meantime:** play a game or two and notice which numbers actually come up. Then reply and tell me one thing that surprised you. I read every reply.
+>
+> [Button: See the whole course]
+>
+> See you at the table,
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=grad-settler`
+
 ## What Kit can and cannot do (checked October 2026)
 
 The plan below is built only from things Kit's own help pages say it does. Where Kit is silent or vague, the plan says so and includes a test.

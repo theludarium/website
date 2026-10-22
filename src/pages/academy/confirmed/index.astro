@@ -16,7 +16,7 @@ const first = (await getLessonPages('catan')).find((l) => !l.data.draft);
   <PageIntro
     eyebrow="Confirmed"
     title="You're in."
-    lede="Your welcome email is on its way, and the lessons start at the level you picked. Want a head start? The first lesson is ready now."
+    lede="Your welcome email is on its way, and the first lesson follows soon after. Want a head start? Lesson one is ready now."
   >
     <div class="thanks-actions">
       {first && <a class="button" href={lessonUrl(first)}>Read lesson one</a>}

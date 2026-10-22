@@ -70,7 +70,7 @@ const structuredData = [
 
 <BaseLayout
   title={`${course.title}: Free Course`}
-  description="A free Catan strategy course in 40 short lessons, from opening the box to what it takes to win a National Championship. Starts at your level, by email."
+  description="A free Catan strategy course in 40 short lessons, from opening the box to what it takes to win a National Championship. One lesson at a time, by email."
 >
   <script slot="head" type="application/ld+json" set:html={JSON.stringify(structuredData)} />
 
@@ -81,7 +81,7 @@ const structuredData = [
         <h1>{course.title}</h1>
         <p class="course-hero__sub">
           {course.promise} Forty short lessons take you from your first game to what it takes to win a
-          National Championship. Tell us where you are, and the lessons start there.
+          National Championship. The first level is ready now, and new lessons arrive by email as each level is written.
         </p>
         <AcademyForm course={course.slug} id="course-signup" />
       </div>
@@ -147,7 +147,7 @@ const structuredData = [
         </li>
         <li>
           <h3>How much email is it?</h3>
-          <p>One short lesson at a time, never more than a few a week. Pause or skip ahead from any email, and unsubscribe anytime.</p>
+          <p>One short lesson at a time, never more than a few a week. Pause from any email, and unsubscribe anytime.</p>
         </li>
         <li>
           <h3>Is it really free?</h3>
