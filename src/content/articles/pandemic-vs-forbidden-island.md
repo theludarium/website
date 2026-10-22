@@ -1,10 +1,10 @@
 ---
 title: "Pandemic vs Forbidden Island: Which Co-op to Buy First"
 description: "Pandemic vs Forbidden Island: same designer, same idea, different weight. Compare players, time, teach time, and difficulty, then pick your first co-op."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Game Guides
 tags: ["Pandemic vs Forbidden Island", "best first cooperative board game", "Forbidden Island or Pandemic", "cooperative games for families", "Matt Leacock games", "co-op board games for beginners", "Comparisons"]
-draft: true
+draft: false
 ---
 Pandemic vs Forbidden Island is a fair fight because the two games share a designer, Matt Leacock, and a core idea: the board is falling apart faster than the players can fix it, and the only way to win is to talk. One is the smaller, lighter, cheaper version of the other. Which you should buy first depends on who you are buying it for.
 

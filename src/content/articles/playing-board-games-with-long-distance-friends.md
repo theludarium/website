@@ -1,10 +1,10 @@
 ---
 title: "Board Games With Long Distance Friends: Keep the Group"
 description: "Board games with long distance friends after everyone moves away: the tools that work, the games that survive a webcam, and how to plan an annual meetup."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Game Night
 tags: ["board games with long distance friends", "online board games with friends", "remote game night", "Board Game Arena", "Tabletop Simulator", "keeping friendships long distance", "Who it's for"]
-draft: true
+draft: false
 ---
 Playing board games with long distance friends is now easy enough that distance is no longer a good reason for a game group to die. The tools are mature, many of them are free, and the games that work remotely are the same ones you already love. What kills a long-distance group is not technology. It is the loss of a standing time, and the slow drift that follows. This article covers both: the tools and games, and the habits that keep the group together.
 
@@ -14,7 +14,7 @@ The underlying claim is that a game group is one of the best structures for keep
 
 Most adult friendships fade for a simple reason: nothing requires them to continue. When you lived in the same city, you saw each other because you were there. When one of you moves, the friendship has to be scheduled, and scheduled friendships compete with everything else.
 
-A game group is already scheduled. It has a night, a format, and a reason to show up that does not depend on anyone having news. That structure survives a move better than "let's get dinner sometime." Research on friendship maintenance, including [an 18-month study](https://researchonline.ljmu.ac.uk/id/eprint/7521/) by Sam Roberts and Robin Dunbar, finds that friendships decline unless people put in effort, and that regular contact and shared activities are the effort that counts. We wrote about this at length in [why friendships fade with age](/articles/why-friendships-fade-with-age/).
+A game group is already scheduled. It has a night, a format, and a reason to show up that does not depend on anyone having news. That structure survives a move better than "let's get dinner sometime." Research on friendship maintenance, including [an 18-month study](https://researchonline.ljmu.ac.uk/id/eprint/7521/) by Sam Roberts and Robin Dunbar, finds that friendships tend to fade over time, and that effort slows the fade. More contact and more shared activities were the efforts that helped most. We wrote about this at length in [why friendships fade with age](/articles/why-friendships-fade-with-age/).
 
 The practical lesson: when someone moves, do not let the game night pause "until we figure something out." Move it online the next week. The gap is where groups die.
 
@@ -24,14 +24,14 @@ There are four main ways to play board games together at a distance. Most groups
 
 | Tool | Cost | Best for | Weakness |
 |---|---|---|---|
-| Board Game Arena | Free, or [about $5/month or $42/year](https://forum.boardgamearena.com/viewtopic.php?p=215420) for premium at the time of writing | Hundreds of real games, rules enforced automatically | No physical feel; some games need premium |
+| Board Game Arena | Free, or [about $5/month or $42/year](https://forum.boardgamearena.com/viewtopic.php?p=215420) for premium at the time of writing | Over a thousand games, rules enforced automatically | No physical feel; some games need premium |
 | Tabletop Simulator | [About $20](https://store.steampowered.com/app/286160/Tabletop_Simulator/) one-time per person at the time of writing | Any game, physics-based 3D table | Clunky; no rules enforcement; learning curve |
 | Webcam + physical copies | Free | Games where each player has their own board | One person has to own and move everything |
 | Phone/video call + app | Free to cheap | Party games, word games | Limited to games with apps |
 
 **Board Game Arena (BGA)** <!-- AFFILIATE --> is where most remote groups should start. It runs in a browser, enforces the rules for you, and has a large library that includes Carcassonne, 7 Wonders, Azul, Wingspan, The Crew, and many more. Play can be real-time or turn-based over days. [Only one player](https://www.tabletopgaming.co.uk/News/you-can-now-play-ticket-to-ride-on-board-game-arena/) at the table needs a premium account to start a premium game and invite the rest.
 
-**Tabletop Simulator** <!-- AFFILIATE --> is a sandbox. It simulates a physical table where you can pick up, flip, and move pieces. Players have built digital versions of thousands of games. It is the only option for games BGA does not have, and it is also fiddly, with no rule enforcement, so it suits groups that already know a game well.
+**Tabletop Simulator** <!-- AFFILIATE --> is a sandbox. It simulates a physical table where you can pick up, flip, and move pieces. Players have built digital versions of thousands of games. It is the main option for games BGA does not have, and it is also fiddly, with no rule enforcement, so it suits groups that already know a game well.
 
 **Webcam and physical copies** works for games where each player has a personal board and the shared state is small. Cascadia, Wingspan, and roll-and-write games like Welcome To... work well this way. One person reads out the shared draw, everyone plays on their own copy. It is low-tech and surprisingly good.
 
@@ -92,7 +92,7 @@ For the in-person side, our guide to [how to host a game night](/articles/how-to
 
 ### What is the best way to play board games with friends online?
 
-Board Game Arena. It is free for most games, runs in a browser, enforces the rules, and has a large library of well-known titles. Add a video call for the social side.
+Board Game Arena. Many of its games are free, it runs in a browser, it enforces the rules, and it has a large library of well-known titles. Add a video call for the social side.
 
 ### Can you play board games over Zoom?
 

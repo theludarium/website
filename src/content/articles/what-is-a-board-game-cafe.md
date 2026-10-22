@@ -1,10 +1,10 @@
 ---
 title: "What Is a Board Game Cafe? Why They're Everywhere Now"
 description: "What a board game cafe is, how it works, what it costs, and why these places have spread to almost every mid-size city. A plain guide for first-timers."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Togethering
 tags: ["board game cafe", "board game cafe near me", "how does a board game cafe work", "board game bar", "tabletop cafe", "board game cafe cost", "Game lounges and third places"]
-draft: true
+draft: false
 ---
 A board game cafe is a cafe or bar with a library of games on the shelves, staff who can teach them, and tables built for playing rather than laptops. You pay a small cover or an hourly rate, order a coffee or a beer, and play as long as you like. Ten years ago most cities had none. Now most mid-size cities have at least one, and the model keeps spreading.
 
@@ -66,7 +66,7 @@ Several things lined up over the last fifteen years.
 
 **The games got better.** The era of Monopoly and Risk gave way to designs that play in an hour, reward everyone until the end, and teach in minutes. Catan, Carcassonne, Ticket to Ride, Codenames, and Wingspan are each better evenings than the games most of us grew up with. The product improved before the venues did.
 
-**The format was proven elsewhere first.** Board game cafes were common in parts of East Asia, where [Seoul had well over a hundred by 2004](https://en.wikipedia.org/wiki/Board_game_caf%C3%A9), well before they spread through the United States. [Snakes & Lattes in Toronto](https://en.wikipedia.org/wiki/Snakes_%26_Lattes), which opened in August 2010, was not the first in North America, but it is the example most owners cite because its model was so widely copied. Once a few places showed the numbers worked, others copied the model.
+**The format was proven elsewhere first.** Board game cafes were common in parts of East Asia, where [Seoul had about 130 by 2004](https://en.wikipedia.org/wiki/Board_game_caf%C3%A9), well before they spread through the United States. [Snakes & Lattes in Toronto](https://en.wikipedia.org/wiki/Snakes_%26_Lattes), which opened in August 2010, was not the first in North America, but it is the example most owners cite because its model was so widely copied. Once a few places showed the numbers worked, others copied the model.
 
 **Adults got lonelier and noticed.** The [U.S. Surgeon General's 2023 advisory on loneliness](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf) put the mortality impact of social disconnection on par with smoking up to 15 cigarettes a day, and greater than that of obesity or physical inactivity. People felt this before the report came out. A board game cafe is one of the few businesses whose core product is two hours of face-to-face attention with people you like.
 
