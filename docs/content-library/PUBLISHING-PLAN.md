@@ -311,8 +311,8 @@ Have `<!-- EDITOR -->` notes only Levi can fill, mostly Cube Commonwealth facts 
 - `aggro-in-cube`: Aggro in Cube: Why It Dies and How to Keep It Alive
 - `battle-box-magic`: Battle Box Magic: No Deckbuilding, Just Play
 - `board-game-cafes-indianapolis`: Board Game Cafes in Indianapolis: The 2026 Guide
-- `building-a-game-lounge-library`: Building a Game Lounge Library: Our First 100 Games
-- `choosing-a-space-for-a-game-lounge`: Game Cafe Location: What We Want in a First Space
+- `building-a-game-lounge-library`: Building a Game Lounge Library: Our First 100 Games (published 2026-10-22)
+- `choosing-a-space-for-a-game-lounge`: Game Cafe Location: What We Want in a First Space (published 2026-10-22)
 - `community-owned-cube`: The Community Cube: Letting Members Shape the List
 - `conspiracy-cards-in-cube`: Conspiracy Cards in Cube: Cogwork Librarian and Friends
 - `corporate-game-nights-before-a-space`: Corporate Game Night Business: Why Events Come First
@@ -338,9 +338,9 @@ Have `<!-- EDITOR -->` notes only Levi can fill, mostly Cube Commonwealth facts 
 - `draft-pairings-and-records`: Cube Draft Pairings and Records Without the Tournament Feel
 - `duplicate-voucher-system`: Duplicate Voucher Cube Rule: Drafting a Second Copy
 - `friendship-after-retirement`: Friendship After Retirement: Why Men Lose Friends at 65
-- `game-lounge-expansion-plan`: Game Lounge Franchise? Our One-Membership Long Plan
+- `game-lounge-expansion-plan`: Game Lounge Franchise? Our One-Membership Long Plan (published 2026-10-22)
 - `game-lounge-lessons-learned`: Starting a Board Game Cafe: Mistakes We've Already Made
-- `game-lounge-membership-model`: Game Lounge Membership Model: How the Math Works
+- `game-lounge-membership-model`: Game Lounge Membership Model: How the Math Works (published 2026-10-22)
 - `gen-con-first-timer-guide`: Gen Con for First-Timers: What to Know Before You Go
 - `glimpse-draft`: Glimpse Draft for Cube: Burn Two, Keep One
 - `hamilton-county-tabletop-scene`: Hamilton County, Indiana Board Games: The Local Scene
@@ -363,5 +363,5 @@ Have `<!-- EDITOR -->` notes only Levi can fill, mostly Cube Commonwealth facts 
 - `vintage-cube-changes-for-paper`: Vintage Cube Changes Worth Copying in Paper
 - `when-is-vintage-cube-on-mtgo`: When Is Vintage Cube on MTGO? 2026 Schedule
 - `where-to-host-a-cube-draft`: Where to Host a Draft: Stores, Breweries, Libraries, Homes
-- `why-we-are-building-a-game-lounge`: Why We're Building a Game Lounge Business, Not a Store
+- `why-we-are-building-a-game-lounge`: Why We're Building a Game Lounge Business, Not a Store (published 2026-10-22)
 - `wingspan-strategy`: Wingspan Strategy for Players Who Keep Losing by Ten
