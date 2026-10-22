@@ -1,12 +1,12 @@
 ---
 title: "Pauper Cube vs Vintage Cube: Which Fits Your Group?"
-description: "Pauper cube vs vintage cube: one costs under $100, the other has Black Lotus. How each one plays, which groups each suits, and which you should build first."
-pubDate: 2026-10-18
+description: "Pauper cube vs vintage cube: one costs about $100, the other has Black Lotus. How each one plays, which groups each suits, and which you should build first."
+pubDate: 2026-10-22
 category: Magic & Cube
 tags: ["pauper cube", "vintage cube", "powered cube", "commons only cube", "budget cube vs powered cube", "which cube to build", "Magic: The Gathering and Cube"]
-draft: true
+draft: false
 ---
-A pauper cube is built only from commons and costs less than a nice dinner out. A vintage cube is built from the most powerful cards ever printed and can cost more than a car, unless you proxy it. They are the two poles of the cube hobby, and the right one for your group depends less on your budget than on what kind of evening you want to have.
+A pauper cube is built only from commons and costs about what a nice dinner for two costs. A vintage cube is built from the most powerful cards ever printed and can cost more than a car, unless you proxy it. They are the two poles of the cube hobby, and the right one for your group depends less on your budget than on what kind of evening you want to have.
 
 I own both. The pauper cube gets drafted more. The vintage cube gets talked about more. Here is how to decide.
 
@@ -22,7 +22,7 @@ Typical features:
 - Removal is plentiful and cheap, so no creature is safe.
 - Archetypes are classic: flyers, tokens, aggro, control, graveyard.
 - Power is flat. The best card in the cube is not that much better than the twentieth best.
-- Cost to build is low, [often under $100](https://draftsim.com/pauper-cube-mtg/).
+- Cost to build is low: about $100 to $150 from singles, often less from a collection.
 
 If you want to build one, [how to build your first cube](/articles/how-to-build-a-cube-mtg/) walks through the process.
 
@@ -48,7 +48,7 @@ Here is the side-by-side that matters when you are choosing.
 
 | | Pauper cube | Vintage cube |
 |---|---|---|
-| Cost to build | Under $100 | Tens of thousands, or proxies |
+| Cost to build | About $100 to $150 | Tens of thousands, or proxies |
 | Typical game length | 10 to 20 minutes | 5 to 25 minutes, high variance |
 | What decides games | Combat, tempo, curve | Explosive starts, bombs, combo |
 | Draft difficulty | Moderate; picks are close | High ceiling; early picks are obvious, later ones are hard |
@@ -120,6 +120,6 @@ Most owners should build a pauper or peasant cube first. It is cheap, it gets dr
 
 ## Pick your cube, then pick your night
 
-Both cubes end the same way: eight people around a table, arguing about a pick from pack two. The Ludarium newsletter sends new pieces on games that bring people together, and cube is a regular topic. Cube players, whatever power level you prefer, are welcome at Cube Commonwealth, our drafting community. The Indianapolis lounge will stock a pauper cube for teaching and keep a more powerful one for the regulars.
+Both cubes end the same way: eight people around a table, arguing about a pick from pack two. The Ludarium newsletter sends new pieces on games that bring people together, and cube is a regular topic. In Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium, and cube players at every power level will be welcome.
 
 The game is the reason. The people are the point.
