@@ -32,6 +32,10 @@ Lessons 6 to 12 and their emails are done (emails below). When you're ready, bui
 
 Lessons 13 to 20 and their emails are done (emails below). Build **Catan L2: Trader** (Tuesday and Friday, 8 a.m., delays as in step A) and automation **C4** as written in step C, and add the "Too easy?" trigger for Level 1. If you build Levels 1 and 2 at the same time, end Level 1 with graduation email 2 instead of the interim Level 1 wrap-up. People who already finished Level 1 hold `academy-catan-trader`; start them by removing and re-adding that tag, the same way as Level 1. Until Level 3 is written, end the Level 2 sequence with the interim Level 2 wrap-up below, and keep C4's swap to `academy-catan-strategist` so it marks who finished.
 
+### Adding Level 3 (written 2026-10-22)
+
+Lessons 21 to 28 and their emails are done (emails below). Build **Catan L3: Strategist** (Tuesday and Friday, 8 a.m., delays as in step A) and automation **C5** as written in step C, and add the "Too easy?" trigger for Level 2. If you build Levels 2 and 3 together, end Level 2 with graduation email 3 instead of the interim Level 2 wrap-up. People who already finished Level 2 hold `academy-catan-strategist`; start them by removing and re-adding that tag. Until Level 4 is written, end the Level 3 sequence with the interim Level 3 wrap-up below, and keep C5's swap to `academy-catan-contender` so it marks who finished. Note: with C1 still in its interim form, nobody starts at Level 4 from the form yet, so the contender tag only means "finished Level 3" for now.
+
 ### Lesson email footer, for now
 
 > Busy stretch? [Pause lessons for two weeks](link trigger: Catan: pause lessons) · [Find a Catan event near you](https://theludarium.com/articles/catan-tournament-qualifier/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=events)
@@ -585,6 +589,210 @@ Button: `https://theludarium.com/academy/catan/longest-route-and-largest-army/?u
 
 Button: `https://theludarium.com/academy/catan/port-engine/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-20`
 
+### The eight Level 3 lesson emails
+
+For **Catan L3: Strategist**, built when Level 3 launches (see "Adding Level 3" above). Same footer and button as the other levels.
+
+#### Lesson 21
+
+**Subject:** You can know what they're holding
+
+**Preview text:** Track every hand at the table, plus the tournament rule to know.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> Welcome to Level 3. Until now you've been playing the board. From here on, you play the people too. And that starts with knowing what they hold.
+>
+> **The one idea:** almost every card in Catan moves in plain sight. Production rolls, trades, builds, and discards all happen in the open. Watch them, and you can know most of what each opponent is holding.
+>
+> **A quick example:** you know Green holds 2 ore, a wheat, and one card you missed. Green builds a development card: a wool, a wheat, and an ore. Green had no wool you knew of, so the mystery card was wool. Now you know Green's whole hand: 1 ore. If you roll a 7 and need ore, you know exactly whom to rob.
+>
+> The full lesson covers everything the table can see, how to estimate steals you can't see, what to track when you can't track it all, and what the official tournament rules say about keeping written records at the table.
+>
+> **Try it this week:** pick one opponent. Guess their hand before each of your turns, then ask them to show it once the game ends. How close were you?
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/card-counting/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-21`
+
+#### Lesson 22
+
+**Subject:** The robber is a weapon
+
+**Preview text:** Whom to hit, which hex, and when.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> Most players drop the robber on whoever annoyed them last. That wastes the only direct attack in the game.
+>
+> **The one idea:** every robber move is three choices: whom to hit, which hex to block, and when to move it. Each one should slow the player most likely to win, without slowing you.
+>
+> **A quick example:** Red leads. One hex is a 6 wheat field with Red's city. Another is an 8 ore field with Red's settlement and yours. Count pips: the city on the 6 is 5 times 2, or 10 of Red's pips and none of yours. The 8 costs Red 5 and you 5. Block the 6. On average the next 7 is 6 rolls away, so that block costs Red about 1.7 cards before you even steal.
+>
+> The full lesson covers picking the hand most likely to hold what you need, when to play a Knight before the roll and when to wait, and how to rob without making enemies.
+>
+> **Try it this week:** say your robber reasoning out loud for a whole game. Whom, which hex, and why now, every time.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/robber-tactics/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-22`
+
+#### Lesson 23
+
+**Subject:** The quiet player is about to win
+
+**Preview text:** Visible points lie. Here is how to spot the real leader.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> The whole table is watching the player with Longest Route. Then the quiet player builds a city, flips two Victory Point cards, and says, "I think that's ten."
+>
+> **The one idea:** the real score is visible points plus a fair guess at hidden Victory Point cards, plus how fast each player can score next. The quiet player is often closer than the loud one.
+>
+> **A quick example:** ten development cards have been played, none of them points, and you hold one more. That leaves 14 unknown cards holding all 5 Victory Points, so each hidden card is about a 36% chance of a point, not the 20% of a fresh deck. Blue shows 6 points and holds 3 hidden cards. That is about 1 hidden point on average, and Blue could be sitting at 9.
+>
+> The full lesson covers how to count every player's estimate and ceiling, how fast each player can score next, and the signs of a quiet player pulling ahead.
+>
+> **Try it this week:** write every player's estimated score each round. At the end of the game, compare your guesses with the real totals.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/threat-assessment/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-23`
+
+#### Lesson 24
+
+**Subject:** Win the table, win the game
+
+**Preview text:** Persuasion, alliances of convenience, and talking the robber elsewhere.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> Two players hold nearly the same cards. One gets every trade and never sees the robber. The other gets "not this time" all night. The board didn't decide that. The talking did.
+>
+> **The one idea:** table talk is a tool. Use true, short, friendly reasons to point the table at the real leader, and stay the player everyone is happy to deal with.
+>
+> **A quick example:** a 7 lands, and the robber might go on your settlement on the 5. Don't plead. Say one calm sentence: "Red's at 8 with a city on the 6. That's 10 pips of Red's income, and my 5 is only 4." You gave the roller a better target and a reason that helps them too.
+>
+> The full lesson covers persuasion that works, short alliances against the leader, how to stay likable without becoming the target, and what official tournaments allow: offers on another player's turn are fine, nothing is binding, and free cards are never allowed.
+>
+> **Try it this week:** talk the robber off your best hex once per game. One sentence, no cards, no pleading. Keep track of how often it works.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/table-talk-and-negotiation/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-24`
+
+#### Lesson 25
+
+**Subject:** How games actually end
+
+**Preview text:** From 7 points to 10: plan the path before you roll.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> Plenty of Catan games are lost by the player who reached 7 first. They got there, then drifted, and the table caught them.
+>
+> **The one idea:** at 7 points, stop building an engine and start closing. Write two paths to 10, favor the builds that finish fastest, and aim to jump the last two points in one quiet turn, so the table never sees you sitting at 9.
+>
+> **A quick example:** Blue shows 7 visible points, has played 2 Knights, and holds a Victory Point card face down. Her real total is 8. One more Knight takes Largest Army, and that is 10 in a single turn. The bonus tiles are the only 2-point moves in the game, which makes them the best closers.
+>
+> The full lesson compares what every build costs late in the game, shows how to keep your score off the table's radar, and covers the exact moment you win, including winning before you roll.
+>
+> **Try it this week:** when you reach 7 points, write two paths to 10 and the cards each one needs. Check them before every roll.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/endgame/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-25`
+
+#### Lesson 26
+
+**Subject:** 14 Knights, 5 points, and the odds
+
+**Preview text:** How the odds shift as the development deck thins.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> A fresh development deck gives you a Victory Point 1 time in 5. By the end of a game, it can be closer to 1 in 2. Here is why.
+>
+> **The one idea:** treat every development card you cannot see as still in the deck. Knights get played face up. Victory Points never do. So as Knights hit the table, your odds of drawing a point climb.
+>
+> **A quick example:** late in a game, 14 cards are face up: 9 Knights, both Road Buildings, both Monopolies, and 1 Invention. You cannot see 11 cards, and 5 of them are points. Your next card is a point 5/11 of the time, about 45%. Build two, and at least one is a point about 73% of the time.
+>
+> The full lesson walks through the odds mid-game, a shortcut for how many cards your next Knights will take, what it means when both copies of a card are gone, and how to count a Monopoly haul before you play it.
+>
+> **Try it this week:** track every development card built in one game. Before each one you build, say your odds of a Knight and of a point.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/development-card-math/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-26`
+
+#### Lesson 27
+
+**Subject:** Your opening was bad. Now what?
+
+**Preview text:** A weak start is not a lost game. Here is how to play from behind.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> You picked fourth, your 6 never rolls, and the leader is pulling away. Good news: that is a gap, not a verdict.
+>
+> **The one idea:** measure the gap, then build the one thing that fixes your biggest hole. Lean on ports and development cards, which need no prime land. Then stay within 2 or 3 points of the leader, and strike when they stall.
+>
+> **A quick example:** your settlements total 14 pips, about 1.6 cards per round. The leader has 24, about 2.7. That is one card a round. One good settlement or a city on your best spot can close most of it. And since nobody fears the player in last, the table will trade with you while it freezes out the leader.
+>
+> The full lesson covers which trades help most, how a port turns a lopsided hand into what you need, why development cards suit a bad start, and how to stay quietly in reach.
+>
+> **Try it this week:** play one game from a deliberately weak opening. Measure the gap after setup and track it every round.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/recovering-from-a-bad-start/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-27`
+
+#### Lesson 28
+
+**Subject:** The habit every strong player has
+
+**Preview text:** Three lines after every game. The habit that builds strong players.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> After a loss, most of us remember the dice. Strong players remember the turn they lost, because they write it down.
+>
+> **The one idea:** after every game, write three lines. How the winner reached 10. The turn you lost, and what you did. One thing to try next game. Two minutes, and every game becomes a lesson.
+>
+> **A quick example:** Red won with 3 cities, 2 settlements, and Largest Army. Round 8, you traded Red 2 ore for a wool, and Red built a city that same turn. Line 3 writes itself: no trades with anyone at 7 or more points.
+>
+> The full lesson covers what to log during a game, how to work backward from the winner's tenth point to find your lost turn, how to tell bad dice from bad choices, and how online play on Colonist or CATAN Universe gets you far more games to review. It is also the last lesson of Level 3.
+>
+> **Try it this week:** write a three-line review after every game for two weeks. Then tally your lost turns and see which kind keeps showing up.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/reviewing-your-games/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-28`
+
 ### The interim Level 1 wrap-up
 
 Last email in **Catan L1: Homesteader**, 24 hours after lesson 12, until Level 2 is written. Then switch to graduation email 2. Keep C3's tag swap to `academy-catan-trader` as written: with no Level 2 automation yet, the tag starts nothing, and it marks who finished Level 1. When Level 2 launches, start them the same way as Level 1 graduates: remove and re-add `academy-catan-trader`.
@@ -634,6 +842,31 @@ Last email in **Catan L2: Trader**, 24 hours after lesson 20, until Level 3 is w
 > The Ludarium
 
 Button: `https://theludarium.com/academy/catan/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=grad-trader`
+
+### The interim Level 3 wrap-up
+
+Last email in **Catan L3: Strategist**, 24 hours after lesson 28, until Level 4 is written. Then switch to graduation email 4.
+
+**Subject:** Level 3 done. You play the table now.
+
+**Preview text:** Level 4 is next: walking into a real CATAN qualifier.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> That's Level 3: Strategist, finished. You track what people are holding, you aim the robber on purpose, you can tell who is really winning, and you plan your last three points instead of hoping for them. You also review your own games, which is the habit that keeps all of this growing.
+>
+> **What's next: Level 4, Contender.** Seven lessons on official CATAN tournaments: how the qualifier ladder works, the tournament rules that change how you play, reading a map in five minutes, placing on the clock, and playing for points in every game. I'm writing it now. When it's ready, the first lesson comes straight to your inbox. You don't need to do anything.
+>
+> **In the meantime:** keep your three-line reviews going after every game. Then reply and tell me the turn you are proudest of this month. I read every reply.
+>
+> [Button: See the whole course]
+>
+> See you at the table,
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=grad-strategist`
 
 ### The interim Level 0 wrap-up
 
