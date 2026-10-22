@@ -36,6 +36,12 @@ Lessons 13 to 20 and their emails are done (emails below). Build **Catan L2: Tra
 
 Lessons 21 to 28 and their emails are done (emails below). Build **Catan L3: Strategist** (Tuesday and Friday, 8 a.m., delays as in step A) and automation **C5** as written in step C, and add the "Too easy?" trigger for Level 2. If you build Levels 2 and 3 together, end Level 2 with graduation email 3 instead of the interim Level 2 wrap-up. People who already finished Level 2 hold `academy-catan-strategist`; start them by removing and re-adding that tag. Until Level 4 is written, end the Level 3 sequence with the interim Level 3 wrap-up below, and keep C5's swap to `academy-catan-contender` so it marks who finished. Note: with C1 still in its interim form, nobody starts at Level 4 from the form yet, so the contender tag only means "finished Level 3" for now.
 
+### Adding Level 4 (written 2026-10-22)
+
+Lessons 29 to 34 are published and lesson 35 is written but waits for your qualifier recap (it stays a draft until then, and its email has a placeholder line). Build **Catan L4: Contender** (Tuesday and Friday, 8 a.m., delays as in step A) and automation **C6** only after lesson 35 is published, since it is the last lesson in the sequence. Add the "Too easy?" trigger for Level 3 at the same time. People who already finished Level 3 hold `academy-catan-contender`; start them by removing and re-adding that tag. Until Level 5 is written, end the Level 4 sequence with the interim Level 4 wrap-up below, and keep C6's swap to `academy-catan-champion` so it marks who finished.
+
+Once Levels 1 to 4 are all built in Kit, you can switch **C1 Catan: Start** to its full version with the four-path split on `catan_experience`, so "Played a few times", "I play regularly", and "I want to compete" start at Levels 1, 2, and 4. Then the site copy can go back to "starts at your level"; tell Claude when, and it will update the pages and the welcome email.
+
 ### Lesson email footer, for now
 
 > Busy stretch? [Pause lessons for two weeks](link trigger: Catan: pause lessons) · [Find a Catan event near you](https://theludarium.com/articles/catan-tournament-qualifier/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=events)
@@ -793,6 +799,187 @@ Button: `https://theludarium.com/academy/catan/recovering-from-a-bad-start/?utm_
 
 Button: `https://theludarium.com/academy/catan/reviewing-your-games/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-28`
 
+### The seven Level 4 lesson emails
+
+For **Catan L4: Contender**, built when Level 4 launches (see "Adding Level 4" above). Same footer and button as the other levels. Lesson 35's email has a placeholder line for your qualifier recap; fill it in when you write the recap.
+
+#### Lesson 29
+
+**Subject:** Yes, there's a Catan World Championship
+
+**Preview text:** From a local qualifier to the World Championship, step by step.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> Welcome to Level 4. You can read a board, run a plan, and close out a game. So here is a fun fact: there is a CATAN World Championship, and the road to it starts at a game store near you.
+>
+> **The one idea:** official Catan is a ladder. Win a local qualifier, place well at your Regional Preliminary, and Nationals is within reach. The U.S. National Champion goes on to the World Championship, which is next held in 2027.
+>
+> **A quick example:** I signed up for a local qualifier at Moonshot Games in Noblesville, Indiana, on October 24. Indiana sits in the Knight region. If I win, I play the Knight Regional Preliminary, where 1st place earns a bye to the Nationals semifinal and places 2 through 13 are invited to the quarterfinal. Twelve invitations per region is a lot of room.
+>
+> The full lesson covers each rung of the ladder, how local formats change with the size of the field, the three U.S. regions, the Masters Invitational, recent champions, and who can enter: anyone 18 or older who lives in the U.S.
+>
+> **Try it this week:** find the next three qualifiers within driving distance. Start at catanevents.com and click Find an Event.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/how-catan-tournaments-work/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-29`
+
+#### Lesson 30
+
+**Subject:** The robber is live on turn one
+
+**Preview text:** The official rules that differ from your kitchen table.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> Official tournaments play the same Catan you know. Same cards, same costs, same 10 points. What changes is everything around the game.
+>
+> **The one idea:** a live robber, a shared map, a clock, hidden hands, and strict trade rules reward different habits than a relaxed game night. Learn them at home, and none of them will surprise you at a qualifier.
+>
+> **A quick example:** Red rolls a 7 and, before moving the robber, asks, "Anyone want a wool for a brick?" At home, nobody blinks. At a tournament, trade talk is off limits while the robber is in play. Because Red negotiated early, the robber goes to the desert and Red steals nothing.
+>
+> The full lesson covers the shared map and timed placements, why there is no friendly robber, what you must say about your hand and what you must never show, the no-free-cards rule, off-turn offers, claiming your win, and the turn timer. CATAN Studio updates these rules each season, so the lesson links the current page.
+>
+> **Try it this week:** play one home game under official rules. Live robber from turn one, hidden hands, real trades only, and a timer for setup.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/tournament-rules/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-30`
+
+#### Lesson 31
+
+**Subject:** Five minutes to read the board
+
+**Preview text:** A five-minute checklist before anyone places a settlement.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> At a tournament, you get five minutes to study the map before anyone places. Five minutes sounds like plenty. It goes fast.
+>
+> **The one idea:** spend those five minutes on a fixed checklist. Total the pips, name the scarce resource, list your top 8 to 10 corners, mark the ports that matter, read your seat, then write two plans. You sit down to place with a decision already made.
+>
+> **A quick example:** you are seat 1. Your second settlement is the eighth placed in the game, and six settlements land in between. So your list of good corners needs to run eight to ten deep, not four. Plan A is your first pick and the spot you hope survives. Plan B is what you take when it doesn't.
+>
+> The full lesson gives you the eight steps in order with a time budget for each, what to ask from every seat, how to spot the robber's first targets, and the one sentence that wraps up your read. It builds on the 60-second board read from Lesson 13.
+>
+> **Try it this week:** run the checklist on 10 random boards with a five-minute timer. Note which step runs over, and drill that one.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/map-study/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-31`
+
+#### Lesson 32
+
+**Subject:** Two minutes. Place your settlement.
+
+**Preview text:** Two minutes per placement, three for the double. Practice makes it calm.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> At home, setup takes as long as it takes. At an official CATAN event, every placement runs on a two-minute clock.
+>
+> **The one idea:** your two minutes are not your only two minutes. You can think during the 5-minute map study and during every window that is not yours. Do the thinking early, and your window is for crossing off, confirming, and placing.
+>
+> **A quick example:** seat 4 places twice in a row and gets 3 minutes for both picks, the tightest window at the table. But seat 4 also waits through map study and three other windows first: 5 + 2 + 2 + 2 = 11 minutes of thinking time. Use it to plan two or three candidate pairs, and the 3 minutes are plenty.
+>
+> The full lesson shows how much thinking time every seat really gets, a four-step routine for your window (strike, settle, steer, set), and a fallback for when your whole shortlist is gone.
+>
+> **Try it this week:** set up a random board, then make all eight opening picks yourself with a 2-minute timer, 3 for the double. Afterward, check which picks you would change with no clock.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/placing-under-the-clock/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-32`
+
+#### Lesson 33
+
+**Subject:** Losing well is a skill
+
+**Preview text:** Tiebreakers reward every point. Here is how to lose well.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> At home, a loss is a loss. At a tournament, a 7-point loss and a 4-point loss are very different results.
+>
+> **The one idea:** standings rank wins first. Ties then break on total victory points, then on VP percentage: your points divided by your table's total, added up across your games. So when you cannot win a game, spend your last turns on the cheapest points you can reach.
+>
+> **A quick example:** Riley and Jordan each won one game with 10. Riley lost the other two with 4 and 5, for 19 points. Jordan lost with 8 and 7, for 25. Same record, and Jordan is 6 points ahead on the first tiebreaker. In a 24-player field, that can be the difference between the final table and the drive home.
+>
+> The full lesson walks through VP percentage with real numbers, how three-player tables are scored, the signs that it is time to switch from winning to scoring, and why playing for your own points is fair to the table.
+>
+> **Try it this week:** in a game you cannot win, push for the highest score you can. Then divide your score by the table total.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/play-for-points/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-33`
+
+#### Lesson 34
+
+**Subject:** Plan on their turn, act on yours
+
+**Preview text:** Do your thinking on their turn so yours is quick and clean.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> Ninety seconds is plenty for a turn, unless you start thinking when the dice land.
+>
+> **The one idea:** official CATAN tournaments can run a turn timer of 90 seconds plus a 10-minute time bank. The fix is not to think faster. It is to think earlier. On other players' turns, plan your build, your missing cards, your trade offer, and where the robber goes if you roll a 7.
+>
+> **A quick example:** Green needs 1 ore and 1 wheat for a city, and has spare wool. Green rolls a 9 and collects a wheat. "Blue, two wool for one ore?" Blue says yes. City built, "done." Forty seconds, with 50 to spare, because the plan was ready before the roll.
+>
+> The full lesson covers the two timing options in the official rules, how to spend a 10-minute bank (think three big turns, not forty seconds a turn), and the five places turns lose the most time.
+>
+> **Try it this week:** play five games with a turn timer set to 90 seconds and a 10-minute bank. After each one, write down which turns ate your bank.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/beating-the-turn-timer/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-34`
+
+#### Lesson 35
+
+**Subject:** I played my first Catan qualifier. Here's what happened.
+
+**Preview text:** Logistics, mindset, and etiquette from my first qualifier.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> On October 24, 2026, I played my first CATAN qualifier, at Moonshot Games in Noblesville, Indiana.
+>
+> [One line from Levi's recap goes here.]
+>
+> **The one idea:** your first qualifier is a day of learning, not a test. Handle the logistics early, play every game for points, and be the player everyone is glad to sit with.
+>
+> **A quick example:** Moonshot's listing on Best Coast Pairings had everything I needed: $10, cash or Venmo at the door, check-in from 10 to 10:15 a.m., a cap of 32 players, and a day that ran until about 6 p.m. Each host sets its own fee and schedule, so read the listing before you go.
+>
+> The full lesson has my recap of the day, how to register, what the day looks like, what to bring, and the etiquette that keeps a tournament table friendly. It is also the last lesson of Level 4.
+>
+> **Try it this week:** find a qualifier within driving distance on Best Coast Pairings and register for it.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/your-first-qualifier/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-35`
+
 ### The interim Level 1 wrap-up
 
 Last email in **Catan L1: Homesteader**, 24 hours after lesson 12, until Level 2 is written. Then switch to graduation email 2. Keep C3's tag swap to `academy-catan-trader` as written: with no Level 2 automation yet, the tag starts nothing, and it marks who finished Level 1. When Level 2 launches, start them the same way as Level 1 graduates: remove and re-add `academy-catan-trader`.
@@ -867,6 +1054,31 @@ Last email in **Catan L3: Strategist**, 24 hours after lesson 28, until Level 4 
 > The Ludarium
 
 Button: `https://theludarium.com/academy/catan/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=grad-strategist`
+
+### The interim Level 4 wrap-up
+
+Last email in **Catan L4: Contender**, 24 hours after lesson 35, until Level 5 is written. Then switch to graduation email 5.
+
+**Subject:** Level 4 done. You're tournament ready.
+
+**Preview text:** Level 5 is next: planning a real run at Regionals and Nationals.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> That's Level 4: Contender, finished. You know how the CATAN tournament ladder works, which rules change the game, how to read a map in five minutes, how to place on the clock, and why every point counts even in a game you can't win. You're ready to walk into a qualifier.
+>
+> **What's next: Level 5, Champion.** Five lessons on the championship path: planning a season, preparing for a Regional Preliminary, what the National Championship looks like from the inside, studying the best players, and building a group to train with. I'm writing it now. When it's ready, the first lesson comes straight to your inbox. You don't need to do anything.
+>
+> **In the meantime:** look up the next qualifier within driving distance and put it on your calendar. Then reply and tell me which one you picked. I read every reply.
+>
+> [Button: See the whole course]
+>
+> See you at the table,
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=grad-contender`
 
 ### The interim Level 0 wrap-up
 
