@@ -1,10 +1,10 @@
 ---
 title: "How a Game Lounge Membership Works (vs a Cover Charge)"
 description: "How a game lounge membership works, what it usually includes, and why paying monthly beats a cover charge for players and owners alike. Costs and tiers."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Togethering
 tags: ["game lounge membership", "board game club membership", "board game cafe membership", "membership game lounge", "game lounge pricing", "tabletop membership", "Game lounges and third places"]
-draft: true
+draft: false
 ---
 A game lounge membership is a monthly or annual fee that gives you unlimited access to a venue's tables, library, and events, the way a gym membership gives you access to the weights. Instead of paying a cover each night, you pay for belonging. This article explains how the model works, what a membership typically includes, and why it is better for both the player and the place than the cover charge most board game cafes rely on.
 
@@ -34,7 +34,7 @@ And a cover makes it hard to plan. An owner who does not know next month's reven
 
 ## How does a membership change the economics for the player?
 
-Think about what you pay for a night at a board game cafe: most charge [a small cover to sit and play](https://www.meeplemountain.com/articles/the-ultimate-guide-to-board-game-cafes), call it somewhere between $5 and $15 a head at the time of writing, plus food and drink. If you go once a month, a membership makes no sense. If you go weekly, the math flips.
+Think about what you pay for a night at a board game cafe: most charge [a small cover to sit and play](https://www.meeplemountain.com/articles/the-ultimate-guide-to-board-game-cafes), from about $5 to $15 a head at the time of writing ([The Uncommons in New York charges $15](https://uncommonsnyc.com/about/)), plus food and drink. If you go once a month, a membership makes no sense. If you go weekly, the math flips.
 
 | Visits per month | Cover model (illustrative $8 per visit) | Membership (hypothetical $40 per month) |
 |---|---|---|
@@ -72,7 +72,7 @@ A family add-on is common too, since a parent who comes alone on Tuesday wants t
 
 ## Is a game lounge membership worth it if you already own games?
 
-Owning games and having people to play them with are different problems. Most adults who own forty games play six of them, because scheduling four friends to sit at a dining table on a weeknight is the hard part, not the shelf.
+Owning games and having people to play them with are different problems. Plenty of people who own forty games play the same six, because scheduling four friends to sit at a dining table on a weeknight is the hard part, not the shelf.
 
 A membership solves the scheduling problem by solving the location problem. The table is always set. The regulars are already there. You bring your copy of Gloomhaven and leave it in your locker, and the campaign happens every other Thursday because the room makes it happen.
 
@@ -102,7 +102,7 @@ Usually yes. Most memberships include a set number of guest passes per month, an
 
 ### Is a membership better than a cover charge for occasional visitors?
 
-No. If you visit once or twice a month, pay the cover. Membership starts to pay off at roughly weekly attendance.
+No. If you visit once or twice a month, pay the cover. Membership starts to pay off at a little more than once a week.
 
 ### Do game lounge memberships include the games themselves?
 
@@ -112,4 +112,4 @@ Yes, access to the library is the core of the offer. Some lounges also sell game
 
 A cover charge buys you a night. A membership buys you a place. The game is the reason. The people are the point.
 
-The Ludarium's Indianapolis lounge will open with a founding member tier, and subscribers to the newsletter hear about it first. Emails on play and the places that make it possible. Join the list and we will save you a seat.
+Membership details for The Ludarium's Indianapolis lounge are not set yet, and newsletter subscribers hear about them first. Emails on play and the places that make it possible.

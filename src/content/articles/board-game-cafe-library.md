@@ -1,10 +1,10 @@
 ---
 title: "Board Game Cafe Library: Curating 300 Games, Not 3,000"
 description: "How to build a board game cafe library that gets played. Why 300 curated games beat 3,000, how to pick them, and how to keep pieces from walking away."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Togethering
 tags: ["board game cafe library", "board game cafe game list", "game lounge library", "how many games does a board game cafe need", "curating a game collection", "board game library management", "Game lounges and third places"]
-draft: true
+draft: false
 ---
 A board game cafe library is the shelf customers see first and the thing owners get wrong most often. The instinct is to own everything. The reality is that a few hundred well-chosen games, each one teachable in five minutes by every person on staff, will outperform a wall of three thousand every night of the week. This article is about how to build that shelf, what belongs on it, and how to keep it from quietly falling apart.
 
@@ -16,7 +16,7 @@ Three reasons, and they compound.
 
 **Staff cannot teach what they do not know.** The whole value of a cafe is a person who can explain the game you picked. If the shelf holds three thousand titles, your staff know a hundred of them, and the customer who pulls title 1,200 gets a shrug and a rulebook. That is the exact experience they came to avoid.
 
-**Choice overload is real.** A customer facing a wall of boxes freezes. A customer facing a curated shelf with clear sections and a staff recommendation relaxes. Psychologists have studied this in retail for decades. In the [best-known experiment](https://faculty.washington.edu/jdb/345/345%20Articles/Iyengar%20%26%20Lepper%20(2000).pdf), shoppers who stopped at a display of 24 jams bought one about 3 percent of the time; shoppers who saw 6 jams bought one about 30 percent of the time.
+**Choice overload is well documented.** A customer facing a wall of boxes freezes. A customer facing a curated shelf with clear sections and a staff recommendation relaxes. Psychologists have studied this in retail for decades. In the [best-known experiment](https://doi.org/10.1037/0022-3514.79.6.995), shoppers who stopped at a display of 24 jams bought one about 3 percent of the time; shoppers who saw 6 jams bought one about 30 percent of the time.
 
 The library is not a collection. It is a menu. Menus are short on purpose.
 
@@ -27,12 +27,12 @@ Start with jobs, not titles. A cafe library has to serve a handful of recurring 
 | Job the game does | Share of shelf | Examples |
 |---|---|---|
 | Teach in two minutes, play in twenty | Large | Sushi Go, Love Letter, No Thanks, Skull, Coup |
-| Party, 6 to 12 players, loud | Large | Codenames, Wavelength, Just One, Telestrations, Decrypto |
-| Gateway, 45 to 90 minutes, the main event | Large | Ticket to Ride, Catan, Azul, Carcassonne, Splendor, Kingdomino |
+| Party, 5 to 10 players, loud | Large | Codenames, Wavelength, Telestrations, Decrypto |
+| Gateway, 30 to 90 minutes, the main event | Large | Ticket to Ride, Catan, Azul, Carcassonne, Splendor, Kingdomino, Wingspan |
 | Two players, date night | Medium | Patchwork, Jaipur, Hive, 7 Wonders Duel, Lost Cities |
 | Cooperative | Medium | Pandemic, The Crew, Forbidden Island, Hanabi, Just One |
 | Kids and families | Medium | Outfoxed, Dragomino, Rhino Hero, Animal Upon Animal |
-| Meaty, 2 to 3 hours, for the regulars | Small | Wingspan, Terraforming Mars, Brass: Birmingham, Scythe |
+| Meaty, 2 to 3 hours, for the regulars | Small | Terraforming Mars, Brass: Birmingham, Scythe, Spirit Island |
 | Classics people ask for by name | Small | Chess, Scrabble, Clue, Uno, a deck of cards |
 
 The shares are a starting point, and every room is different. A cafe in a college neighborhood leans party. A suburban daytime cafe leans families. Watch what gets pulled and adjust.
@@ -89,7 +89,7 @@ The rest of the time, the best use of your acquisition budget is replacing worn 
 
 Everything flows through it. The teach your staff give is only as good as the games on the shelf. The [public game night](/articles/board-game-night-near-me/) runs on the "start here" section. The corporate events service pulls from the cooperative and party rows. The regulars who pay for a [game lounge membership](/articles/game-lounge-membership/) are there for the heavy cabinet and the people who play from it.
 
-A good library is also a statement of taste. It tells customers that someone here cares what they play, which is a different message than a wall of boxes sends. The Ludarium's own list of fifty games it would put on every table is coming; for now, the shelf above is where to start.
+A good library is also a statement of taste. It tells customers that someone here cares what they play, which is a different message than a wall of boxes sends. The Ludarium is building its own list of fifty games it would put on every table; for now, the shelf above is where to start.
 
 ## FAQ
 

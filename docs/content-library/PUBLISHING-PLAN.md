@@ -254,16 +254,16 @@ Gift guides and deals. Publish in early November, after checking every price and
 
 Mention prices, current releases, "this year," Gen Con dates, or Indianapolis places. Check each fact against a current source, update it, then publish.
 
-- `best-board-games-2026`: Best Board Games of 2026 So Far: Our Running Picks
+- `best-board-games-2026`: Best Board Games of 2026 So Far: Our Running Picks (published 2026-10-22)
 - `best-new-cube-cards-of-the-year`: Best Cube Cards This Year: Our Keeps From Six Sets (published 2026-10-21)
-- `board-game-cafe-library`: Board Game Cafe Library: Curating 300 Games, Not 3,000
-- `board-game-cafe-vs-home-game-night`: Board Game Cafe vs Home Game Night: When Each Wins
+- `board-game-cafe-library`: Board Game Cafe Library: Curating 300 Games, Not 3,000 (published 2026-10-22)
+- `board-game-cafe-vs-home-game-night`: Board Game Cafe vs Home Game Night: When Each Wins (published 2026-10-22)
 - `board-game-date-night-indianapolis`: Board Game Date Night in Indianapolis: Where to Go (published 2026-10-21)
-- `board-games-for-college-students`: Board Games for College Students: Dorm-Sized and Cheap
-- `board-games-for-new-parents`: Board Games for New Parents: 20 Minutes, No Brain
+- `board-games-for-college-students`: Board Games for College Students: Dorm-Sized and Cheap (published 2026-10-22)
+- `board-games-for-new-parents`: Board Games for New Parents: 20 Minutes, No Brain (published 2026-10-22)
 - `budget-cube-under-200`: Budget Cube Under $200 That Plays Like Vintage (published 2026-10-21)
 - `build-a-cube-in-a-weekend`: Build a Cube Fast: A Draftable Cube in One Weekend (published 2026-10-21)
-- `corporate-team-building-cost`: Corporate Team Building Cost: A Game Night Breakdown
+- `corporate-team-building-cost`: Corporate Team Building Cost: A Game Night Breakdown (published 2026-10-22)
 - `cube-ban-list`: Does Your Cube Need a Ban List? (published 2026-10-21)
 - `cube-from-your-collection`: Cube From Collection: Build With Cards You Already Own (published 2026-10-21)
 - `cube-identity`: Cube Identity: Giving a Cube Drafters Remember (published 2026-10-21)
@@ -271,11 +271,11 @@ Mention prices, current releases, "this year," Gen Con dates, or Indianapolis pl
 - `cube-sections-and-slots`: Cube Slot Design: Sections and the Spreadsheet (published 2026-10-21)
 - `cube-set-review-marvel-super-heroes`: Marvel Super Heroes Cube Review: Mind Stone, Loki, Vision (published 2026-10-21)
 - `cube-vs-commander`: Cube vs Commander: Which Magic Format Fits Your Group? (published 2026-10-21)
-- `dnd-one-shot-for-beginners`: D&D One Shot for Beginners: Try an RPG in One Evening
+- `dnd-one-shot-for-beginners`: D&D One Shot for Beginners: Try an RPG in One Evening (published 2026-10-22)
 - `family-friendly-game-cafes-indianapolis`: Family Game Cafes in Indianapolis: Where to Play (published 2026-10-21)
-- `game-lounge-membership`: How a Game Lounge Membership Works (vs a Cover Charge)
-- `game-night-calendar-year`: Game Night Calendar: A Full Year of Seasonal Programming
-- `games-after-losing-a-spouse`: Social Activities After Losing a Spouse: Finding a Table
+- `game-lounge-membership`: How a Game Lounge Membership Works (vs a Cover Charge) (published 2026-10-22)
+- `game-night-calendar-year`: Game Night Calendar: A Full Year of Seasonal Programming (published 2026-10-22)
+- `games-after-losing-a-spouse`: Social Activities After Losing a Spouse: Finding a Table (published 2026-10-22)
 - `gen-con-event-registration-tips`: Gen Con Event Registration: How to Get the Games You Want (published 2026-10-21)
 - `gen-con-on-a-budget`: Gen Con on a Budget: Badges, Beds, and the Exhibit Hall (published 2026-10-21)
 - `gen-con-packing-list`: Gen Con Packing List: What to Bring for Four Days (published 2026-10-21)

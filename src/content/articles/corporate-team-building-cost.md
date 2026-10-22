@@ -1,10 +1,10 @@
 ---
 title: "Corporate Team Building Cost: A Game Night Breakdown"
 description: "What is the real corporate team building cost for a game night? Rough per-person ranges for DIY, hosted, and full-service events, and what moves the price."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Togethering
 tags: ["corporate team building cost", "team building event pricing", "corporate game night cost", "team building budget per person", "hosted game night price", "offsite activity cost", "Games for the workplace"]
-draft: true
+draft: false
 ---
 Corporate team building cost is one of those numbers that vendors avoid putting on a website, which makes budgeting hard for the HR lead who just needs a figure for the spreadsheet. This article gives you one. More precisely, it gives you several ranges, from a do-it-yourself game night to a fully hosted event, with an explanation of what moves the price.
 
@@ -65,7 +65,7 @@ Rough total for a 40-person hosted event in a company's own space with catered f
 
 Full service bundles venue, games, hosts, food coordination, and often a structured program. It is the offsite tier.
 
-Rough per-person range: $75–$200 or more, driven mostly by the venue and the food; the [premium tier of vendor pricing guides](https://wearespin.com/how-much-do-corporate-team-building-activities-cost/) runs $130–$200+. A game lounge or event space in a mid-size city might run [$500–$2,500 for a private evening](https://www.eventective.com/riverside-ca/nevermore-game-club-802975.html). A hotel ballroom runs considerably more. Add dinner and drinks, which usually cost more per head than the activity, and the games themselves become a modest line in a much larger total.
+Rough per-person range: $75–$200 or more, driven mostly by the venue and the food; the [premium tier of vendor pricing guides](https://wearespin.com/how-much-do-corporate-team-building-activities-cost/) runs $130–$200+. A game lounge or event space in a mid-size city might run [$500–$1,000 for a private corporate evening](https://www.eventective.com/riverside-ca/nevermore-game-club-802975.html). A hotel ballroom runs considerably more. Add dinner and drinks, which usually cost more per head than the activity, and the games themselves become a modest line in a much larger total.
 
 Full service makes sense when:
 
@@ -83,10 +83,10 @@ Rough, per-person, for a two-hour activity, before food:
 | DIY game night | $5–$20 | After the one-time game purchase, near zero |
 | Hosted game night | $40–$80 | Scales to large groups easily |
 | Escape room | [$20–$60](https://fash.com/costs/escape-room-cost) | Rooms hold 2–8, so large groups need many bookings |
-| Cooking class | [$85–$150](https://teambuilding.com/activities/taste-buds-kitchen-north-andover/team-building-cooking-class) | Includes the meal, which offsets food cost |
+| Cooking class | [$85+ per person; group rates vary](https://teambuilding.com/activities/taste-buds-kitchen-north-andover/team-building-cooking-class) | Includes the meal, which offsets food cost |
 | Axe throwing or bowling | [$20–$75](https://www.thepricer.org/how-much-does-axe-throwing-cost/) | Often requires group minimums |
-| Ropes course | [$125–$300](https://www.ocbj.com/news/high-wire-antics-teambuilding-goes-the-course/) | Usually a half or full day; travel and weather dependent |
-| Improv or facilitated workshop | [$50–$250](https://www.changethroughplay.com/our-services) | Flat fees of a few thousand dollars per workshop, so per-person cost falls with headcount |
+| Ropes course | [$25–$100+](https://www.lynchburg.edu/student-life/community-development-2/outdoor-recreation/outdoor-leadership-program/adventurechallenge-courses/) | A half or full day; private operators charge more; travel and weather dependent |
+| Improv or facilitated workshop | [$70–$150](https://www.changethroughplay.com/corporate) | Flat fees of a few thousand dollars per workshop, so per-person cost falls with headcount |
 
 Game nights compare well partly because they scale. One host can run ten to sixteen people across two tables. Adding forty people adds hosts, not venues or equipment. For more on how these options stack up beyond cost, see [the trust fall is dead: better offsite activities for adults](/articles/offsite-activities-for-adults/).
 
@@ -134,7 +134,7 @@ Most do. Minimums are usually set as a headcount or a flat fee equal to a dozen 
 
 ## Want a quote instead of a range?
 
-The Ludarium runs corporate tabletop events in Indianapolis and the surrounding area, from a hosted lunch-hour session to a full offsite evening, and we will give you a real number for your headcount within a day. If you are still in the budgeting stage, subscribe to the newsletter for new workplace game ideas, free, with no quote required.
+The Ludarium offers [corporate tabletop events](/corporate-events/) in Indianapolis and the surrounding area, from a hosted lunch-hour session to a full offsite evening; send your headcount and we will reply with a real number. If you are still in the budgeting stage, subscribe to the newsletter for new workplace game ideas, free, with no quote required.
 
 ## Sources
 
@@ -143,6 +143,6 @@ The Ludarium runs corporate tabletop events in Indianapolis and the surrounding 
 - Fash: How much are escape rooms?: https://fash.com/costs/escape-room-cost
 - TeamBuilding.com: Cooking class pricing: https://teambuilding.com/activities/taste-buds-kitchen-north-andover/team-building-cooking-class
 - ThePricer: How much does axe throwing cost?: https://www.thepricer.org/how-much-does-axe-throwing-cost/
-- Orange County Business Journal: Teambuilding goes the course: https://www.ocbj.com/news/high-wire-antics-teambuilding-goes-the-course/
-- Change Through Play: Corporate workshop pricing: https://www.changethroughplay.com/our-services
+- University of Lynchburg: Adventure and challenge courses: https://www.lynchburg.edu/student-life/community-development-2/outdoor-recreation/outdoor-leadership-program/adventurechallenge-courses/
+- Change Through Play: Corporate workshop pricing: https://www.changethroughplay.com/corporate
 - Eventective: Nevermore Game Club event pricing: https://www.eventective.com/riverside-ca/nevermore-game-club-802975.html
