@@ -6,7 +6,7 @@ category: Magic & Cube
 tags: ["MTG proxies", "are proxies allowed in Magic", "proxy etiquette", "playtest cards", "proxy cube", "counterfeit vs proxy", "Magic: The Gathering and Cube"]
 draft: true
 ---
-MTG proxies are stand-in cards that represent a real Magic card you do not own. A proxy can be a basic land with "Black Lotus" written on it in marker, a color printout in a sleeve, or a professionally printed card that looks nearly like the original. They are not legal in sanctioned tournaments. In casual play, which is most Magic, whether they belong at the table is a question of ethics and etiquette, and this article tries to answer it plainly.
+MTG proxies are stand-in cards that represent a real Magic card you do not own. A proxy can be a basic land with "Black Lotus" written on it in marker, a color printout in a sleeve, or a professionally printed card that looks nearly like the original. They are not legal in sanctioned tournaments, apart from a judge-issued stand-in for a card damaged during the event. In casual play, which is most Magic, whether they belong at the table is a question of ethics and etiquette, and this article tries to answer it plainly.
 
 The short version: proxies for personal play are fine, proxies sold as real cards are fraud, and the gray area between is smaller than the internet makes it sound.
 
@@ -46,7 +46,7 @@ Here is where people argue, so let me lay out the strongest version of each side
 
 **The case against.** The publisher designs and owns these cards. Printing your own copy of their artwork and card frame, even for personal use, uses their work without paying. Players who proxy are also opting out of the market that supports game stores, which are the physical heart of the hobby. And a room full of proxies makes it easier for a counterfeit to slip through.
 
-**The case for.** The cards in question are mostly ones the publisher has publicly said it will never reprint. There is no lost sale, because there is no sale to lose. Proxying a card that only exists on the secondary market takes money from nobody except speculators. The publisher itself [said in 2016](https://magic.wizards.com/en/news/announcements/proxies-policy-and-communication-2016-01-14) that it has no desire to police playtest cards made for personal, non-commercial use, and the custom artwork and alternate-frame proxy scene is a creative community in its own right. As for game stores, cube players tend to be the regulars who buy sleeves, snacks, and the occasional booster box at the same store every week.
+**The case for.** The cards in question are mostly ones the publisher has publicly said it will never reprint. There is no lost sale, because there is no sale to lose. Proxying a card that only exists on the secondary market takes money from nobody except speculators. The publisher itself [said in 2016](https://magic.wizards.com/en/news/announcements/proxies-policy-and-communication-2016-01-14) that it has no desire to police playtest cards made for personal, non-commercial use (it meant marked basics and printouts, not reproductions made to look like real cards), and the custom artwork and alternate-frame proxy scene is a creative community in its own right. As for game stores, cube players tend to be the regulars who buy sleeves, snacks, and the occasional booster box at the same store every week.
 
 My own view is that the second case is stronger for reserved-list cards and casual play, and the first case is stronger when someone proxies a current-set card to avoid buying it from the store they play at. Proxying a Mox hurts nobody. Proxying the new mythic the store has on its shelf is a different thing, even if the rules treat them the same.
 
@@ -105,7 +105,7 @@ Yes, always, before the game starts. Honesty is the entire difference between a 
 
 ## Play with what you have
 
-Whether your cube is made of original cards or careful printouts, the evening is the thing. The Ludarium newsletter sends new pieces on games that bring people to the table, cube included. Cube drafters of every budget are welcome at Cube Commonwealth, our drafting community, and the Indianapolis lounge will have a cube on hand for anyone who wants to sit down and draft.
+Whether your cube is made of original cards or careful printouts, the evening is the thing. The Ludarium newsletter sends new pieces on games that bring people to the table, cube included. In Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium, and drafters of every budget will be welcome.
 
 The game is the reason. The people are the point.
 

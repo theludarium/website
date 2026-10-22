@@ -8,15 +8,15 @@ draft: true
 ---
 The fastest way to evaluate cards for cube is to stop asking "is this card good?" and start asking "which card in my cube does this replace?" A new set has 250 to 300 cards. Your cube has a fixed number of slots, and almost all of them are already filled by something that earned its place. A new card has to beat an incumbent, in that color, at that cost, doing that job. Once you frame it that way, 95 percent of a spoiler season evaluates itself in an afternoon.
 
-This article is the method. The next one, [our set review template](/articles/cube-set-review-method/), is the form we fill out. Together they are how Cube Commonwealth reads six or seven sets a year without panicking or missing anything.
+This article is the method. The next one, [a set review template](/articles/cube-set-review-method/), is the form to fill out. Together they let a cube owner read six or seven sets a year without panicking or missing anything.
 
 ## Why is cube evaluation different from Standard or Limited?
 
-Reviewers for Standard rate a card against a metagame. Limited reviewers rate it against the other cards in the same packs. Cube is neither. Your opponent's deck is drawn from the best cards of thirty years, and your own deck will be too.
+Reviewers for Standard rate a card against a metagame. Limited reviewers rate it against the other cards in the same packs. Cube is neither. Your opponent's deck is drawn from the best cards of more than thirty years, and your own deck will be too.
 
 That changes three things:
 
-- **The bar is the best card ever printed at that job.** A new two-mana red creature is not competing with the other red two-drops in its set. It is competing with Kari Zev, Robber of the Rich, and whatever else you already run.
+- **The bar is the best card ever printed at that job.** A new two-mana red creature is not competing with the other red two-drops in its set. It is competing with Kari Zev, Perfect Pyromancer and Robber of the Rich, and whatever else you already run.
 - **Synergy is only worth what your cube supports.** A card that is excellent in a Standard artifact deck is a blank in a cube with twelve artifacts. Read every card against your own archetype list, not against the set's themes.
 - **Rarity means nothing.** Some of the best cube pickups in any set are uncommons. Some mythics never make a list anywhere.
 
@@ -32,9 +32,9 @@ If the answer is maybe, you have a test candidate. If the answer is an immediate
 
 ## Which questions sort cards fastest?
 
-We run every candidate through the same short list. The order matters, because each question eliminates more cards than the one after it.
+Run every candidate through the same short list. The order matters, because each question eliminates more cards than the one after it.
 
-1. **Does it do its job alone?** A creature that needs another card to be good is a two-card combination. Cube decks are 40 cards drawn from 45 picks; you will not reliably assemble pairs. Cards that stand alone first and reward synergy second are the ones that stick.
+1. **Does it do its job alone?** A creature that needs another card to be good is a two-card combination. Cube decks play about 23 spells out of 45 picks; you will not reliably assemble pairs. Cards that stand alone first and reward synergy second are the ones that stick.
 2. **Is it on curve for its role?** Aggro wants its payoff by turn three. Control wants a two-for-one by turn four. A card that is one mana too expensive for its effect is usually a pass, no matter how large the effect is.
 3. **Does it play well from behind?** Cube games swing. Cards that only matter when you are already winning, like anthems with no body, rarely survive testing.
 4. **Does it fit an archetype we actually support?** Check your archetype list. If the card wants a deck you do not run, it is a pass unless it is strong enough to stand alone.
@@ -57,7 +57,7 @@ Set reviews take as long as you let them. Here is a schedule that works for a 54
 
 The first pass is where people lose time. Do not read every card's rules text closely. Read the mana cost and type line, and only slow down when the card could occupy a slot you have. In most sets, that is 30 to 50 cards out of 280.
 
-Expect to test five to ten cards per set and keep two to four. Those are house numbers from our own logs, not a standard, and sets vary. A set built around a mechanic your cube supports (artifacts, graveyard, tokens) can produce twice that. A set built around a mechanic you do not run can produce none, and that is a fine result.
+Expect to test five to ten cards per set and keep two to four. Those are house numbers, not a standard, and sets vary. A set built around a mechanic your cube supports (artifacts, graveyard, tokens) can produce twice that. A set built around a mechanic you do not run can produce none, and that is a fine result.
 
 ## What are the common evaluation mistakes?
 
@@ -68,7 +68,7 @@ We have made all of these, so this is a list from experience rather than theory.
 - **Counting reprints as free.** A reprinted staple at a new rarity is good news for your wallet. It changes nothing about whether the card belongs in your list, because you could already have run it.
 - **Testing too many at once.** Swap in twelve cards and you cannot tell which ones changed the draft. Four or five per round is enough to see each one get drafted and played.
 - **Not writing anything down.** Three sets later you will not remember why you cut a card. A one-line log entry per decision saves you re-testing the same card every year.
-- **Forgetting the color's identity in your cube.** Black in our cube is removal, recursion, and sacrifice. A black card that does something else entirely can be strong and still not fit, because nobody drafting black is looking for it.
+- **Forgetting the color's identity in your cube.** If black in your cube is removal, recursion, and sacrifice, a black card that does something else entirely can be strong and still not fit, because nobody drafting black is looking for it.
 
 ## How does this change by power level?
 
@@ -82,7 +82,7 @@ Know which of these describes your cube before spoiler season starts. It sets yo
 
 ### How many cards from a new set should make a cube?
 
-Two to four for a typical 540-card cube at Legacy or Vintage power, in our experience. Zero is a legitimate result, and more than six usually means your list had soft slots to begin with.
+Two to four for a typical 540-card cube at Legacy or Vintage power. Zero is a legitimate result, and more than six usually means your list had soft slots to begin with.
 
 ### Should I test cards before adding them permanently?
 
@@ -98,4 +98,4 @@ No. A reprint lowers the price of a card you could already run. It does not chan
 
 ## Keep reading with us
 
-New cards keep coming, and so do our reviews. The Ludarium newsletter sends new cube pieces, including every set review the week the set drops, so you can read the slot calls before your own packs arrive. Subscribe, and if you are in Indianapolis, [join us at Cube Commonwealth](/articles/cube-draft-indianapolis/) and test the candidates with us at the table. The game is the reason. The people are the point.
+New cards keep coming. Subscribe to The Ludarium newsletter for new cube pieces, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, sets its first night as part of The Ludarium. The game is the reason. The people are the point.

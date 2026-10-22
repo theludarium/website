@@ -8,7 +8,7 @@ draft: true
 ---
 A good cube update changes a handful of cards for a reason you can state, swaps them slot for slot, and gets written down so you can undo it. A bad one adds twenty new cards from the latest set, cuts whatever was nearest to hand, and leaves the group wondering why the Rakdos deck stopped working.
 
-Cubes drift. Every new set brings cards that look better than what you have, drafters ask for their favorites, and a list that was tight three years ago is a loose collection of "good cards" today. This is the process we use to keep a weekly cube current without losing the structure that made it fun. It assumes you have a list and have drafted it; if not, start with [how to build a cube](/articles/how-to-build-a-cube-mtg/).
+Cubes drift. Every new set brings cards that look better than what you have, drafters ask for their favorites, and a list that was tight three years ago is a loose collection of "good cards" today. This is a process for keeping a weekly cube current without losing the structure that made it fun. It assumes you have a list and have drafted it; if not, start with [how to build a cube](/articles/how-to-build-a-cube-mtg/).
 
 ## How often should a cube be updated?
 
@@ -52,7 +52,7 @@ A worksheet for each swap:
 
 | Out | In | Slot | Reason | Watch for |
 |---|---|---|---|---|
-| Precinct Captain | Adeline, Resplendent Cathar | White 2-drop | Captain rarely connected; Adeline makes tokens regardless | Adeline too strong for the band? |
+| Benalish Marshal | Adeline, Resplendent Cathar | White 3-drop | Marshal's WWW was hard to cast; Adeline makes tokens every attack | Adeline too strong for the band? |
 | Mind Stone | Talisman of Dominance | Colorless rock | Want fixing, not just ramp | Does it push UB control? |
 | Rolling Thunder | Fireblast | Red reach | Aggro needed cheaper finisher | Fireblast dead in midrange? |
 
@@ -70,6 +70,7 @@ A few further rules we follow:
 Three cheap tests, in order:
 
 **Paper decks.** Build each of the ten archetypes from the new list on paper, or in CubeCobra's list view. Do any of them get worse? Does any deck now have two cards that do the same thing and nothing for the slot you emptied?
+
 **Bot drafts.** CubeCobra and Draftmancer both let you draft the cube against bots. The bots are not people, but a few bot drafts will show you whether the new cards get picked in the range you expect. A card that bots take first every time is probably above your band.
 
 **Three live drafts, then judge.** Put the changes in, draft three times, and only then look at the results. One draft is noise. A new card that nobody drafts once is not a failure; a new card nobody drafts three times is.
@@ -78,7 +79,7 @@ Keep the cut cards in a separate box for at least three months. Half of them com
 
 ## How do you tell the group?
 
-Write a changelog and post it where the group reads. For us that is a Discord channel; CubeCobra's blog feature also works and attaches the changes to the list itself.
+Write a changelog and post it where the group reads. A group chat or Discord channel works; CubeCobra's blog feature also works and attaches the changes to the list itself.
 
 A changelog entry needs four things:
 
@@ -119,4 +120,4 @@ Draft three times and look at pick order, whether the card is cast, and whether 
 
 The cube your group loves is the one they know. Update it for reasons you can name, swap by slot, test before you commit, and keep the record. Everything else is tinkering. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for new pieces on cube and the groups that play it. Indianapolis readers can argue our next changelog in person at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for new pieces on cube and the groups that play it. In Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

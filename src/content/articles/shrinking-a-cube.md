@@ -24,7 +24,7 @@ Other properties of 450:
 - **Aggro holds up.** Cheap creature density stays close to what the 360 had.
 - **It fits in one box.** Which matters more than it should.
 
-Pauper cubes, among the longest-running community-maintained lists, often settle at 450; one widely copied version on CubeCobra is listed as a 450-card Pauper cube ([CubeCobra](https://cubecobra.com/cube/overview/mattspaupercube)). It is not an eccentric size. It is the size a lot of cubes become when their owners stop and count.
+Pauper cubes, among the longest-running community-maintained lists, often settle at 450; The Pauper Cube's own list on CubeCobra sits at 450 cards ([CubeCobra](https://cubecobra.com/cube/overview/thepaupercube)). It is not an eccentric size. It is the size a lot of cubes become when their owners stop and count.
 
 ## Is your cube bloated? Six signs
 
