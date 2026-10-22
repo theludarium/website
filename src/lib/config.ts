@@ -68,5 +68,5 @@ export const MALAPHOR_KINDLE_URL = 'https://www.amazon.com/dp/B0HNTT7KKV';
  * While blank, the form shows a preview note and does not submit to Kit.
  */
 export const KIT_ACADEMY_FORMS: Record<string, { action: string }> = {
-  catan: { action: '' },
+  catan: { action: 'https://app.kit.com/forms/10083674/subscriptions' },
 };
