@@ -66,6 +66,6 @@ Paste the two `action` addresses into the chat. Claude puts them in `src/lib/con
 
 ## Later
 
-- **Malaphors form** (`malaphors` tag, fields `malaphor`, `parents`, `context`): set up the same way when the malaphors page work resumes; its config slot is on the `feature/malaphors-page` branch.
+- **Malaphors form: done 2026-10-22.** Form 10080181 "Malaphor submissions" (fields `malaphor`, `parents`, `context`; rule tags `malaphors`; success redirect `/malaphors/thanks/`, after confirmation `/malaphors/confirmed/`).
 - **Academy waitlist** (`academy` plus a per-course tag such as `academy-game-design`): when the Academy page gets its form.
 - **Sending from Gmail as hello@**: needs an SMTP service; skip until replies from your Gmail address become a problem.

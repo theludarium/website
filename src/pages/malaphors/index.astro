@@ -4,7 +4,7 @@
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import MalaphorForm from '@/components/MalaphorForm.astro';
 import PreviewNote from '@/components/PreviewNote.astro';
-import { KIT_MALAPHOR_FORM } from '@/lib/config';
+import { KIT_MALAPHOR_FORM, MALAPHOR_BOOK_URL } from '@/lib/config';
 ---
 
 <BaseLayout
@@ -44,7 +44,7 @@ import { KIT_MALAPHOR_FORM } from '@/lib/config';
           <li>Seamlessness <strong>5</strong></li>
         </ul>
         <p class="ml-card__tier">Golden Pope</p>
-        <figcaption>What an entry looks like</figcaption>
+        <figcaption>An entry from the book</figcaption>
       </figure>
     </div>
   </section>
@@ -72,6 +72,10 @@ import { KIT_MALAPHOR_FORM } from '@/lib/config';
           </p>
         </li>
       </ul>
+      <p class="ml-book">
+        No copy yet? <a href={MALAPHOR_BOOK_URL} rel="noopener">We'll Burn That Bridge When We Get to It</a> is on
+        Amazon in paperback and Kindle.
+      </p>
     </div>
   </section>
 </BaseLayout>
@@ -196,6 +200,17 @@ import { KIT_MALAPHOR_FORM } from '@/lib/config';
   .ml-faq__list p {
     margin: 0;
     color: var(--color-text-muted);
+  }
+
+  .ml-book {
+    margin: var(--space-6) 0 0;
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+    text-align: center;
+  }
+
+  .ml-book a {
+    font-style: italic;
   }
 
   @media (max-width: 56rem) {

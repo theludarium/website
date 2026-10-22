@@ -53,4 +53,7 @@ export const GA_MEASUREMENT_ID = 'G-38F1N7Q117';
  * tags subscribers `malaphors`, and create custom fields with these keys:
  * malaphor, parents, context.
  */
-export const KIT_MALAPHOR_FORM = { action: '' };
+export const KIT_MALAPHOR_FORM = { action: 'https://app.kit.com/forms/10080181/subscriptions' };
+
+/** The malaphor field guide on Amazon (paperback page; it links the Kindle edition too). A plain link, not an affiliate link. */
+export const MALAPHOR_BOOK_URL = 'https://www.amazon.com/dp/B0HNTSXVS6';
