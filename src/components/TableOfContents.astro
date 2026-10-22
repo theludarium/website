@@ -2,11 +2,13 @@
 import type { MarkdownHeading } from 'astro';
 
 interface Props {
+  /** Heading for the box. Defaults to \"In this article\". */
+  title?: string;
   headings: MarkdownHeading[];
 }
 
 // Section headings (h2) with their h3 children, for long articles.
-const { headings } = Astro.props;
+const { headings, title = 'In this article' } = Astro.props;
 const sections: { heading: MarkdownHeading; children: MarkdownHeading[] }[] = [];
 for (const h of headings) {
   if (h.depth === 2) sections.push({ heading: h, children: [] });
@@ -16,7 +18,7 @@ for (const h of headings) {
 
 <nav class="toc" aria-labelledby="toc-title">
   <details class="toc__details" open>
-    <summary class="toc__title" id="toc-title">In this article</summary>
+    <summary class="toc__title" id="toc-title">{title}</summary>
     <ol class="toc__list">
       {
         sections.map(({ heading, children }) => (

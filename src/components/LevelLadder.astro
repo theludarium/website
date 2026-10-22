@@ -29,6 +29,8 @@ const tiles = levels.map((level, i) => {
   return { ...level, cx, cy, points: hex(cx, cy, R) };
 });
 const height = top + (count - 1) * STEP_Y + 50;
+// Labels line up in one column to the right of both tile columns.
+const labelX = 128 + R + 22;
 ---
 
 <figure class="ladder">
@@ -46,10 +48,10 @@ const height = top + (count - 1) * STEP_Y + 50;
           <text class="ladder__num" x={t.cx} y={t.cy + 7} text-anchor="middle">
             {t.level}
           </text>
-          <text class="ladder__name" x={t.cx + R + 26} y={t.cy - 2}>
+          <text class="ladder__name" x={labelX} y={t.cy - 2}>
             {t.name}
           </text>
-          <text class="ladder__label" x={t.cx + R + 26} y={t.cy + 16}>
+          <text class="ladder__label" x={labelX} y={t.cy + 16}>
             {t.label}
           </text>
         </g>
