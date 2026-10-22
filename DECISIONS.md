@@ -235,3 +235,10 @@ A short log of choices made and why. Newest at the bottom.
 
 - **A Walnut panel with the cover and a "Buy on Amazon" button** sits right under the submission form on `/malaphors/` (`src/components/MalaphorBook.astro`), replacing the one-line "No copy yet?" link. Levi wanted buying the book to stand out. Walnut, not Felt Green, so the green cover stands out against it.
 - **Plain Amazon links** (paperback page, plus a Kindle link in `MALAPHOR_KINDLE_URL`); no affiliate tags, so no disclosure. No prices on the page, since KDP prices can change.
+
+## 2026-10-22: A product page for the malaphor book
+
+- **`/books/well-burn-that-bridge/`**, with a small `/books/` index so new books slot in. Book facts live once in `src/lib/books.ts`. The page carries Book structured data (ISBN, pages, paperback and Kindle editions) and uses the cover as its share image.
+- **Linked from** the store page (a Books section), the footer, and the book module on `/malaphors/`. Not in the header: it is a quiet revenue path.
+- **Amazon sells and ships it**, so this is not The Ludarium selling a physical product. Plain links, no affiliate tags, no prices (KDP prices can change).
+- **Sample strips are three that passed the art check cleanly** (bridges, birds, elephant). Their alt text describes what is drawn, which differs a little from the scripts.
