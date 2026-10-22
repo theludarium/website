@@ -65,3 +65,53 @@ Notes:
 - `{{ subscriber.first_name | default: "there" }}` is Kit's Liquid tag; it prints the first name when the form collected one (the lounge waitlist does) and "there" otherwise.
 - Replies go to hello@theludarium.com and forward to Levi's Gmail.
 - Every link above points to a live page as of 2026-10-21.
+
+## Indianapolis waitlist welcome (its own sequence, sent right after confirming)
+
+For people who join through the **Lounge waitlist: Indianapolis** form. It replaces the newsletter welcome for them, so they get one welcome, not two. It promises only what the Indianapolis page promises: first word on location, opening and pricing, and a say in what gets built. No founding-member deals or dates until those exist.
+
+**Subject:** You're on the list for The Ludarium, Indianapolis
+
+**Preview text:** Lounge No. 001 is coming. Here's what being on the list means.
+
+**Body:**
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> You're on the waitlist for The Ludarium Game Lounge in Indianapolis, Lounge No. 001. Thank you. Every name on this list moves it closer.
+>
+> **What we're building**
+>
+> A membership game lounge and community center where every game community in the city meets: board game nights, RPG campaigns, card leagues, chess and Go clubs, the mahjong table, designers testing prototypes. A place you can walk into on your own and find a seat.
+>
+> **What being on the list means**
+>
+> - **You hear first.** Where it will be, when it opens, and what membership costs, before anyone else.
+> - **You get a say.** The list tells us where to build, how big, and which groups to bring in first. What you told us about what you play and how often you'd come is already part of that.
+>
+> **Help it happen sooner**
+>
+> - **Reply and tell me what group, club, or game night you're part of now.** I read every reply, and those groups are who we build around.
+> - **Know someone who'd want a seat?** Send them to [theludarium.com/lounges/indianapolis](https://theludarium.com/lounges/indianapolis/). The more people on the list, the sooner it opens.
+>
+> **While you wait**
+>
+> - [Board game stores in Indianapolis, by neighborhood](https://theludarium.com/articles/indianapolis-board-game-stores/)
+> - [How to find a public game night near you](https://theludarium.com/articles/board-game-night-near-me/)
+> - [Game Night Madness](https://theludarium.com/game-night-madness/), for the next time your group can't decide what to play
+>
+> See you at the table,
+>
+> Levi
+> The Ludarium
+
+### Kit setup for the two welcomes
+
+Built 2026-10-21: sequence **Welcome** (2939465, rule 5660412 from Ludarium Letters) and **Welcome: Indianapolis waitlist** (2939467, its own rule from the waitlist form, alongside tag rule 5659971). Each is one email, sent as soon as possible after confirming. Sequences are a paid Kit feature; check they still run if the account drops to the free plan.
+
+To edit an email's body in Kit's editor (Slate), select all twice (the first select-all only takes the current paragraph) before deleting or pasting.
+
+- **Sequence "Welcome"** (the newsletter welcome above). Rule: trigger **Subscribes to a form: Ludarium Letters**, action **Subscribe to sequence: Welcome**.
+- **Sequence "Welcome: Indianapolis waitlist"** (this email). Rule: trigger **Subscribes to a form: Lounge waitlist: Indianapolis**, action **Subscribe to sequence: Welcome: Indianapolis waitlist**. (The existing rule 5659971 already tags these subscribers `lounge-indianapolis`; add the sequence as a second action on it or as its own rule.)
+- Kit runs form rules only after the subscriber confirms, so each welcome arrives right after the confirm click.
+- Someone who joins both forms gets both welcomes, which is fine: they asked for both.
