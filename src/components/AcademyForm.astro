@@ -3,7 +3,7 @@
 // src/lib/config.ts). Kit tags the signup `academy` plus the course tag,
 // sends the double opt-in email, then starts the lessons at the level the
 // reader picked. Setup: docs/academy/<course>/KIT-SETUP.md.
-// Four fields (two optional in spirit), so a single step per the landing page rules.
+// Five fields (state is optional), so a single step per the landing page rules.
 import PreviewNote from '@/components/PreviewNote.astro';
 import { KIT_ACADEMY_FORMS } from '@/lib/config';
 import { US_STATES } from '@/lib/us-states';
@@ -35,11 +35,15 @@ const configured = Boolean(kit?.action);
       First name
       <input id={`${id}-name`} name="fields[first_name]" autocomplete="given-name" maxlength="80" required />
     </label>
-    <label for={`${id}-email`}>
-      Email
-      <input id={`${id}-email`} name="email_address" type="email" autocomplete="email" maxlength="200" required />
+    <label for={`${id}-last-name`}>
+      Last name
+      <input id={`${id}-last-name`} name="fields[last_name]" autocomplete="family-name" maxlength="80" required />
     </label>
   </div>
+  <label for={`${id}-email`}>
+    Email
+    <input id={`${id}-email`} name="email_address" type="email" autocomplete="email" maxlength="200" required />
+  </label>
   <div class="academy-form__row">
     <label for={`${id}-experience`}>
       How well do you know Catan?

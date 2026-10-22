@@ -14,6 +14,7 @@ You do not design anything in Kit. The site sends these inputs, and Kit only nee
 | --- | --- | --- |
 | `email_address` | Email | Built in |
 | `fields[first_name]` | First name | Built in |
+| `fields[last_name]` | Last name | Custom field `last_name` (step 1; skip if the waitlist setup already made it) |
 | `fields[catan_experience]` | Exactly one of: `Never played`, `Played a few times`, `I play regularly`, `I want to compete` | Custom field `catan_experience` (step 1) |
 | `fields[state]` | Optional. A two-letter US state code such as `IN`, or `Outside the US`, or blank | Custom field `state` (step 1) |
 
@@ -23,7 +24,7 @@ The four experience answers must stay spelled exactly like that, capital letters
 
 The form, custom fields, tags, and the confirmation email all work on Kit's Free plan. Everything that makes the course run (email sequences, visual automations, rules, and link triggers) needs the **Creator** plan or higher. The account is on a Creator trial now; if it drops to Free, sequences and automations stop until you upgrade again. Details and sources are in `KIT-SEQUENCE.md`.
 
-## 1. Create the two custom fields
+## 1. Create the custom fields
 
 Custom fields belong to the whole account, so you only make each one once.
 
@@ -31,6 +32,7 @@ Custom fields belong to the whole account, so you only make each one once.
 2. In the left sidebar, click the three dots next to **Custom Fields**, then **Add new**.
 3. Name it exactly `catan_experience`. Leave the value blank. Save.
 4. Repeat for a second field named exactly `state`.
+5. If there is no `last_name` field yet, add one more named exactly `last_name`. It is shared with the waitlist and malaphor forms.
 
 Use the names exactly as written: lowercase, with the underscore. Kit uses the name as the key the site posts to (`fields[catan_experience]`), and in email personalization (`{{ subscriber.catan_experience }}`). Source: [How to add and manage custom fields](https://help.kit.com/en/articles/2502504-how-to-add-and-manage-custom-fields).
 
@@ -88,7 +90,7 @@ Paste the `action` address into the chat. Claude puts it in `src/lib/config.ts` 
 1. Sign up on the preview with your own address, choosing **I want to compete** and **IN**.
 2. You should land on `/academy/thanks/`, then get the confirmation email below.
 3. Click the button. You should land on `/academy/confirmed/`.
-4. In Kit, open your subscriber profile. Check that `catan_experience` says `I want to compete`, `state` says `IN`, and the tags `academy` and `academy-catan` are there.
+4. In Kit, open your subscriber profile. Check that `last_name` holds your last name, `catan_experience` says `I want to compete`, `state` says `IN`, and the tags `academy` and `academy-catan` are there.
 
 Nothing goes live until you approve the merge.
 
