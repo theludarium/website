@@ -1,10 +1,10 @@
 ---
 title: "The Crew Card Game: The Best Teaching Game Ever Made"
 description: "The Crew card game is a cooperative trick-taker with almost no talking. Here is how it plays, why it teaches teamwork so well, and which version to buy."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Game Guides
 tags: ["The Crew card game", "The Crew Mission Deep Sea", "cooperative trick-taking game", "how to play The Crew", "The Crew Quest for Planet Nine", "best co-op card games", "Cooperative and campaign games"]
-draft: true
+draft: false
 ---
 The Crew card game is a cooperative trick-taking game for three to five players in which you cannot talk about your cards. Each mission gives the team specific tricks to win, with specific cards, sometimes in a specific order. You have one tightly rationed way to communicate. That is all.
 
@@ -12,7 +12,7 @@ We think it is the best teaching game ever made, and not just for teaching card 
 
 ## How does The Crew work?
 
-If you have played Hearts, Spades, or Euchre, you know the bones. Cards are dealt out. One player leads a card; everyone else must follow suit if they can; the highest card of the led suit wins the trick, unless a trump card was played. In The Crew, the trump suit is a small set of rocket cards (or submarine cards, in the second edition).
+If you have played Hearts, Spades, or Euchre, you know the bones. Cards are dealt out. One player leads a card; everyone else must follow suit if they can; the highest card of the led suit wins the trick, unless a trump card was played. In The Crew, the trump suit is a small set of rocket cards (or submarine cards, in Mission Deep Sea).
 
 The cooperative twist is the mission. Before play, task cards are dealt out, and each one says a specific player must win the trick containing a specific card. Mission one might be "someone must win the green 4." Mission twenty might be "these three cards must be won in this order by these three players, and nobody may win more tricks than the captain."
 
@@ -47,13 +47,13 @@ We have watched groups of coworkers play it and recognize their own meeting habi
 
 ## Which version of The Crew should you buy?
 
-There are two main editions, and both are good.
+There are two main versions, and both are good.
 
 | | The Crew: The Quest for Planet Nine | The Crew: Mission Deep Sea |
 |---|---|---|
 | Released | 2019 | 2021 |
 | Missions | 50 | 32, with variable difficulty |
-| Task system | Fixed tasks per mission | Task cards with difficulty values; the mission sets a total |
+| Task system | Each mission sets how many task cards to draw | Task cards with difficulty values; the mission sets a total |
 | Theme | Space | Underwater |
 | Players | 3–5 (2 with a variant) | 3–5 (2 with a variant) |
 | Best for | First-timers; a gentle ramp | Replay and variety; groups who finished the first |
@@ -100,4 +100,4 @@ Planet Nine has fifty fixed missions with a steady difficulty ramp. Mission Deep
 
 ## One mission a week
 
-The game is the reason. The people are the point. The Crew is proof that a group can learn to trust each other in an hour with a deck of cards. Subscribe to the Ludarium newsletter for new game-night ideas, and look for The Crew on every table when our Indianapolis lounge opens.
+The game is the reason. The people are the point. The Crew is proof that a group can learn to trust each other in an hour with a deck of cards. Subscribe to the Ludarium newsletter for new game-night ideas, plus news of our Indianapolis lounge as it takes shape.

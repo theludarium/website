@@ -281,25 +281,25 @@ Mention prices, current releases, "this year," Gen Con dates, or Indianapolis pl
 - `gen-con-packing-list`: Gen Con Packing List: What to Bring for Four Days (published 2026-10-21)
 - `gen-con-survival-guide`: Gen Con Survival Guide: Food, Feet, Sleep, Exhibit Hall (published 2026-10-21)
 - `gen-con-tips-for-locals`: Gen Con for Locals: Enjoy It Without a Badge (published 2026-10-21)
-- `gloomhaven-vs-frosthaven`: Gloomhaven vs Frosthaven vs Jaws of the Lion: Start Here
+- `gloomhaven-vs-frosthaven`: Gloomhaven vs Frosthaven vs Jaws of the Lion: Start Here (published 2026-10-22)
 - `how-mtgo-vintage-cube-updates-work`: How MTGO Vintage Cube Updates Work (2026 Cadence) (published 2026-10-22)
 - `how-to-build-a-cube-mtg`: How to Build a Cube MTG: Your First Cube Under $200 (published 2026-10-22)
 - `how-to-evaluate-new-cards-for-cube`: How to Evaluate New Cards for Cube: A Working Method (published 2026-10-22)
 - `how-to-update-a-cube`: How to Update a Cube Without Breaking It (published 2026-10-22)
 - `indianapolis-board-game-stores`: Board Game Stores in Indianapolis by Neighborhood (published 2026-10-21)
-- `is-gloomhaven-worth-it`: Is Gloomhaven Worth It? An Honest Guide for Busy Adults
-- `kickstarter-board-game`: Kickstarter Board Game Campaigns: A Sober Look
-- `ludarium-library-50-games`: The Ludarium Library: 50 Games for Every Game Lounge
+- `is-gloomhaven-worth-it`: Is Gloomhaven Worth It? An Honest Guide for Busy Adults (published 2026-10-22)
+- `kickstarter-board-game`: Kickstarter Board Game Campaigns: A Sober Look (published 2026-10-22)
+- `ludarium-library-50-games`: The Ludarium Library: 50 Games for Every Game Lounge (published 2026-10-22)
 - `mtg-proxies-ethics`: MTG Proxies: Ethics, Etiquette, and Playing on a Budget (published 2026-10-22)
-- `pandemic-vs-forbidden-island`: Pandemic vs Forbidden Island: Which Co-op to Buy First
+- `pandemic-vs-forbidden-island`: Pandemic vs Forbidden Island: Which Co-op to Buy First (published 2026-10-22)
 - `pauper-cube-guide`: Pauper Cube Guide: Commons Only, Full Depth (published 2026-10-22)
 - `pauper-cube-vs-vintage-cube`: Pauper Cube vs Vintage Cube: Which Fits Your Group? (published 2026-10-22)
-- `playing-board-games-with-long-distance-friends`: Board Games With Long Distance Friends: Keep the Group
+- `playing-board-games-with-long-distance-friends`: Board Games With Long Distance Friends: Keep the Group (published 2026-10-22)
 - `precon-vs-cube`: Precon vs Cube: Which Fits Your Table? (published 2026-10-22)
-- `print-and-play-board-games`: Print and Play Board Games: Test for the Cost of Paper
+- `print-and-play-board-games`: Print and Play Board Games: Test for the Cost of Paper (published 2026-10-22)
 - `set-cube`: Set Cube: Recreate a Draft Format Forever (published 2026-10-22)
-- `the-crew-card-game`: The Crew Card Game: The Best Teaching Game Ever Made
-- `what-is-a-board-game-cafe`: What Is a Board Game Cafe? Why They're Everywhere Now
+- `the-crew-card-game`: The Crew Card Game: The Best Teaching Game Ever Made (published 2026-10-22)
+- `what-is-a-board-game-cafe`: What Is a Board Game Cafe? Why They're Everywhere Now (published 2026-10-22)
 - `where-to-play-magic-indianapolis`: Magic: The Gathering in Indianapolis: Where to Play (published 2026-10-21)
 
 ## Needs Levi (59)

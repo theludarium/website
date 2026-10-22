@@ -1,10 +1,10 @@
 ---
 title: "The Ludarium Library: 50 Games for Every Game Lounge"
 description: "The Ludarium library: 50 games we would put in any board game lounge, sorted by the job each does, with player counts, play times, and how we chose each one."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Game Guides
 tags: ["board game lounge library", "board game cafe game list", "essential board games", "best board games for a cafe", "must have board games", "board game collection list", "What to play"]
-draft: true
+draft: false
 ---
 A board game lounge library is not a collection. A collection is what you love. A library is what works for strangers who walked in an hour ago. The two overlap, but not as much as most new owners expect. This is the list of fifty games we would put on the shelves of The Ludarium in Indianapolis on day one, and the reasoning behind each slot.
 
@@ -36,11 +36,11 @@ Games for a group that just sat down and wants to start now.
 | Just One <!-- AFFILIATE --> | 3–7 | 20 min | Cooperative, nobody looks bad |
 | Wavelength <!-- AFFILIATE --> | 2–12 | 30 min | Arguments as entertainment |
 | Sushi Go! <!-- AFFILIATE --> | 2–5 | 15 min | Teaches drafting in one pass |
-| Love Letter <!-- AFFILIATE --> | 2–4 | 15 min | Sixteen cards, endless rematches |
+| Love Letter <!-- AFFILIATE --> | 2–6 | 15–20 min | A tiny deck, endless rematches |
 | Skull <!-- AFFILIATE --> | 3–6 | 15–30 min | Bluffing with a drink in hand |
 | No Thanks! <!-- AFFILIATE --> | 3–7 | 15 min | Three rules, real agony |
 | Coup <!-- AFFILIATE --> | 2–6 | 15 min | Lie, get caught, play again |
-| 6 nimmt! <!-- AFFILIATE --> | 2–10 | 20–30 min | Handles ten people in half an hour |
+| 6 nimmt! <!-- AFFILIATE --> | 2–10 | 45 min | Handles ten people at once |
 | Telestrations <!-- AFFILIATE --> | 4–8 | 30 min | The reveal is the best part of any night |
 
 ### Shelf two: big tables and parties
@@ -114,8 +114,8 @@ Heavier games for a group that has an evening and wants to use it.
 | Dominion <!-- AFFILIATE --> | 2–4 | 30 min | Where deck building started |
 | Heat: Pedal to the Metal <!-- AFFILIATE --> | 1–6 | 45–60 min | A race that feels like a race |
 | Scythe <!-- AFFILIATE --> | 1–5 | 90–120 min | Table presence that pulls in passersby |
-| Dixit <!-- AFFILIATE --> | 3–6 | 30 min | Storytelling with pictures, works for anyone |
-| Dungeons & Dragons Starter Set <!-- AFFILIATE --> | 3–6 | 2–4 hr | One box, one evening, a first adventure |
+| Dixit <!-- AFFILIATE --> | 3–8 | 30 min | Storytelling with pictures, works for anyone |
+| Dungeons & Dragons Starter Set <!-- AFFILIATE --> | 3–5 | 1–2 hr | One box, one evening, a first adventure |
 | Chess <!-- AFFILIATE --> | 2 | varies | Some guests just want a board and a clock |
 
 *If this list is useful, the newsletter sends more like it.*
@@ -134,11 +134,11 @@ Most Kickstarter exclusives. They cannot be replaced when a piece goes missing, 
 
 ## How would this library change over time?
 
-Slowly. The plan is to swap about five games a year: pull the ones nobody has requested in six months, add new releases that passed our tests. Faster change confuses regulars and overloads staff.
+Slowly. We would swap about five games a year: pull the ones nobody has requested in six months, add new releases that passed our tests. Faster change confuses regulars and overloads staff.
 
 We would also keep extra copies of the heaviest hitters. On a Friday night, Codenames and Ticket to Ride both get asked for by more than one table.
 
-Each game gets a printed card with the one-sentence teach, the real play time, and the right player count. The game on the shelf is half the product. Getting it to the table fast is the other half.
+Each game would get a printed card with the one-sentence teach, the real play time, and the right player count. The game on the shelf is half the product. Getting it to the table fast is the other half.
 
 ## FAQ
 
@@ -160,4 +160,4 @@ Sleeve the card games, keep food away from the table, and store boxes flat. Repl
 
 ## See the shelves fill up
 
-The Ludarium newsletter is where we share what goes on the shelf, what comes off, and why, new short pieces. Subscribers in Indianapolis will be the first invited to play the library before it opens to the public. The game is the reason. The people are the point. Subscribe and help us pick game fifty-one.
+Subscribe to The Ludarium newsletter for new pieces on choosing, teaching, and caring for a game library, plus news of the Indianapolis lounge as it takes shape. The game is the reason. The people are the point. And reply to any issue with your pick for game fifty-one.

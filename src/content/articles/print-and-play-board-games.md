@@ -1,10 +1,10 @@
 ---
 title: "Print and Play Board Games: Test for the Cost of Paper"
 description: "Print and play board games let designers test and share a game for the cost of paper. How to make one, where to find them, and what the format teaches."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Game Design
 tags: ["print and play board games", "print and play games", "PnP board games", "free print and play", "board game prototype printing", "how to make a print and play", "Tabletop game design"]
-draft: true
+draft: false
 ---
 Print and play board games are games distributed as files. You download a PDF, print it, cut it out, and supply your own dice, cubes, or pencils. For players it is a cheap way to try something new. For designers it is the most powerful testing tool that exists, because a game that is a PDF can be in fifty strangers' hands by tomorrow.
 
@@ -14,7 +14,7 @@ This article covers what the format is, how to build a print-and-play version of
 
 Any game where the publisher or designer provides files instead of components. The spectrum is wide.
 
-At one end are games that need a single sheet and a pencil. Most roll-and-writes fall here. Welcome To... and many of its relatives were distributed as free print-and-play sheets during 2020, and some designs exist only in that form.
+At one end are games that need a single sheet and a pencil. Most roll-and-writes fall here. Many were shared as free print-and-play sheets during the 2020 lockdowns, and some designs exist only in that form.
 
 At the other end are full card games and board games with hundreds of pieces. Some hobbyists print on heavy cardstock, sleeve the cards with a playing card for stiffness, and produce copies that look professionally made. That takes a weekend. Most players do not go that far.
 
@@ -94,7 +94,7 @@ A game that is annoying to assemble will be assembled badly, and a badly assembl
 
 ## Which published games started as print and play?
 
-Enough that the path is proven. Many roll-and-write games, including several that later sold tens of thousands of copies, circulated first as free sheets. Small card games have gone from forum post to Kickstarter to retail on the strength of print-and-play buzz. Design contests built around the format have launched careers.
+Enough that the path is proven. Many roll-and-write games circulated first as free sheets before they were published. Small card games have gone from forum post to Kickstarter to retail on the strength of print-and-play buzz. Design contests built around the format have launched careers.
 
 The lesson is not that every PnP becomes a hit. It is that a game with a public print-and-play version has a track record. When a designer walks into a publisher meeting and says "four hundred people downloaded it and here are the feedback forms," that is evidence no sell sheet can match.
 

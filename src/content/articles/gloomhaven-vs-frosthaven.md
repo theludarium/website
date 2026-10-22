@@ -1,10 +1,10 @@
 ---
 title: "Gloomhaven vs Frosthaven vs Jaws of the Lion: Start Here"
 description: "Gloomhaven vs Frosthaven vs Jaws of the Lion, compared on price, scenarios, teach time, and commitment. Which Haven campaign to start with as a group, and why."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Game Guides
 tags: ["Gloomhaven vs Frosthaven", "Jaws of the Lion vs Gloomhaven", "which Gloomhaven to buy first", "Frosthaven for beginners", "Gloomhaven second edition", "best campaign board game", "Comparisons"]
-draft: true
+draft: false
 ---
 Gloomhaven vs Frosthaven is a comparison between two of the biggest boxes in the hobby, and anyone asking it should add a third name: Jaws of the Lion. All three are Isaac Childres' tactical campaign games, published by Cephalofair, with the same core system of card-driven combat and a story that unfolds over dozens of sessions. They differ in size, price, difficulty, and how kindly they treat a new player.
 
@@ -31,7 +31,7 @@ Between scenarios you buy items, gain experience, level up, pick new cards, work
 | Teach time | Built in: the first scenarios teach the rules | 45–60 minutes before the first scenario | 60+ minutes, more as systems unfold |
 | Scenarios | 25 | 101 | About 138 |
 | Characters | 4 | 6 starting, 18 total | 17 |
-| List price | $59.99 | $199.99 | $250 |
+| Price | $59.99 | $199.99 | $250 |
 | Box | One normal game box | Very large | Larger still |
 | What it's best at | Learning the system painlessly and finishing a campaign | The classic, with the biggest character roster | The deepest version, with building and seasons on top of combat |
 
@@ -120,7 +120,7 @@ Yes. All three games support solo play by controlling two characters. Monsters a
 
 ### How long does it take to finish Gloomhaven?
 
-The publisher lists 101 scenarios at one to two hours each, so a group that plays weekly and finishes most of the campaign is looking at a year or more. Jaws of the Lion's 25 scenarios plus the five-scenario tutorial take a few months at one session a week.
+The publisher lists 101 scenarios at one to two hours each, so a group that plays weekly and finishes most of the campaign is looking at a year or more. Jaws of the Lion's 25 scenarios, five of them a built-in tutorial, take a few months at one session a week.
 
 ## One table, one night a week
 
