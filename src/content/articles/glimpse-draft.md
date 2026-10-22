@@ -1,10 +1,10 @@
 ---
 title: "Glimpse Draft for Cube: Burn Two, Keep One"
 description: "Glimpse draft rules for cube: pack sizes, the take-one, burn-two step, pool counts for two to four players, and why it beats Winston draft on smaller nights."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Magic & Cube
 tags: ["glimpse draft", "burn draft", "glimpse draft rules", "small-group cube draft", "four player cube draft", "two player cube draft", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Glimpse draft is a pack-passing format for small groups where every pick costs the pack three cards: you keep one and remove two from the draft face down. The burned cards never come back. With two to four players, that single rule turns a thin draft into one that feels like a full pod, because the cards you pass are the cards you chose to let through.
 
@@ -12,7 +12,7 @@ This article gives the procedure, the pack math for two, three, and four players
 
 ## Where does Glimpse draft come from?
 
-Glimpse grew out of the cube community rather than Wizards of the Coast. The name and the common two-player version were worked out on the [MTG Salvation cube forum](https://www.mtgsalvation.com/forums/the-game/the-cube-forum/568751-glimpse-burnfour-draft-thread-my-and-wtwlf123s), where, in a 2014 thread, a poster named wtwlf123 merged an earlier "Burn Four" variant with his own nine-by-nine variant, and the result was named after the card Glimpse the Future. The MTG Wiki does not have a dedicated page for it as of this writing; its pages on [Grid draft](https://mtg.wiki/page/Grid_Draft) and the other small-group formats are the closest references. <!-- EDITOR: confirm -->
+Glimpse grew out of the cube community rather than Wizards of the Coast. The name and the common two-player version were worked out on the [MTG Salvation cube forum](https://www.mtgsalvation.com/forums/the-game/the-cube-forum/568751-glimpse-burnfour-draft-thread-my-and-wtwlf123s), where, in a 2014 thread, a poster named wtwlf123 merged an earlier "Burn Four" variant with his own nine-by-nine variant, and the result was named after the card Glimpse the Future. The MTG Wiki does not have a dedicated page for it as of this writing; its pages on [Grid draft](https://mtg.wiki/page/Grid_Draft) and the other small-group formats are the closest references.
 
 The family name is "burn draft." Burn Four burns four cards per pick; Glimpse burns two. Both exist because passing a 15-card pack between two people with no burn makes every pack wheel seven times, which is dull.
 
@@ -41,7 +41,7 @@ That 45-card pool is the same size as a full eight-player draft produces, which 
 
 ## How do you scale it to three or four players?
 
-The two-player version is the one with a settled procedure. For three and four, the following are house guidelines that keep the pool near 45 cards. They are ours, not a standard. <!-- EDITOR: confirm against group testing -->
+The two-player version is the one with a settled procedure. For three and four, the following are house guidelines that keep the pool near 45 cards. They are our suggestions, not a standard; adjust them after a night or two.
 
 | Players | Packs each | Pack size | Burn per pick | Cards used | Approx. pool each |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@ The two-player version is the one with a settled procedure. For three and four, 
 | 4 | 6 | 15 | 2 | 360 | 30 |
 | 4 | 9 | 15 | 2 | 540 | 45 |
 
-Four players with 9 packs each uses an entire 540 cube and produces a 45-card pool per player. Four players with 6 packs each fits a 360 cube and produces 30, which is tight; cut the burn to one card per pick for the last two steps of each pack to recover a few more playables, or deal 12 packs of 15 and accept 30-card pools with 17 lands and no sideboard.
+Four players with 9 packs each uses an entire 540 cube and produces a 45-card pool per player. Four players with 6 packs each fits a 360 cube and produces 30, which is tight; cut the burn to one card per pick for the last two steps of each pack to recover a few more playables.
 
 Three players is the awkward count. With 6 packs each you draft 270 cards and end with 30. With 9 packs each you need 405 cards, which a 540 provides. Pass left for odd-numbered packs and right for even, as in a normal draft, so each player receives from both neighbors.
 
@@ -84,7 +84,7 @@ In a normal draft you take the best card and pass the rest without much thought 
 
 Glimpse is the small-group format that feels most like drafting. You hold a pack, you read it, you pass it. Players who want a two-player night that still trains their normal draft instincts should pick it. Players who want the mind games should pick Winston, and the full breakdown of the two-player classics is in [Winston, Grid, and Winchester](/articles/two-player-cube-formats/).
 
-The cost is cube wear. A two-player Glimpse touches 270 cards, three times what Winston uses, and burns 180 of them unseen. If you want to draft twice in a night from a 360 cube, Glimpse cannot do it; Winston can.
+The cost is cube wear. A two-player Glimpse touches 270 cards, three times what Winston uses, and burns 180 of them. If you want to draft twice in a night from a 360 cube, Glimpse cannot do it; Winston can.
 
 ## What house rules do groups add?
 
@@ -115,4 +115,4 @@ For players who want the feel of a real pack-passing draft, yes. Winston is bett
 
 Some of our best cube nights had four players, not eight. Glimpse is the reason those nights produced real decks instead of consolation piles. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for a new format or house rule, each one written to be run straight from the article. Indianapolis readers who want the full eight-seat table can join [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for a new format or house rule, each one written to be run straight from the article. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.
