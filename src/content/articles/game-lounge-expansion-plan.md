@@ -1,10 +1,10 @@
 ---
 title: "Game Lounge Franchise? Our One-Membership Long Plan"
 description: "Why The Ludarium's long plan is one membership that works in every city, not a game lounge franchise. The sequence, the risks, and what must be true first."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Game Culture
 tags: ["game lounge franchise", "game lounge expansion", "multi-city membership", "board game cafe chain", "game lounge network", "The Ludarium long plan", "Building The Ludarium"]
-draft: true
+draft: false
 ---
 People ask whether The Ludarium is a game lounge franchise in the making. The short answer is that we are not planning a franchise, but we are planning more than one room. The long plan is a single membership that works in every city we are in, so a member who moves from Indianapolis to Columbus or travels to Chicago for work walks into a Ludarium there and is already home. This article lays out that plan, the order we intend to do it in, and the many ways it could fail. We are a long way from any of it. We think it is worth saying out loud anyway.
 
@@ -46,12 +46,12 @@ Slowly, and in an order designed to find out whether each step works before payi
 |---|---|---|
 | Content and newsletter | People read and subscribe | Whether the idea resonates beyond our friends |
 | Corporate events in Indianapolis | Companies pay and rebook | Whether we can host, and whether events fund the room |
-| Founding tier | A few hundred people pay before there is a door | Whether the membership math is real |
+| Early paid test | A few hundred people pay before there is a door | Whether the membership math is real |
 | First lounge, Indianapolis | It covers its fixed costs on membership within a year | Whether the room works |
 | Second room in Indianapolis, or a second city | The first room is full and churn is low | Whether the model copies |
 | Further cities | Each prior step held | Whether a network is worth more than the sum of rooms |
 
-We do not have dates for any of these. <!-- EDITOR: add detail if a timeline exists --> The honest version is that every row depends on the one above it, and we will stop at whichever row fails. The membership math in [how a game lounge can pay for itself](/articles/game-lounge-membership-model/) is the gate for the first room. The first room's churn is the gate for the second.
+We do not have dates for any of these. The honest version is that every row depends on the one above it, and we will stop at whichever row fails. The membership math in [how a game lounge can pay for itself](/articles/game-lounge-membership-model/) is the gate for the first room. The first room's churn is the gate for the second.
 
 ## Which cities, and why?
 

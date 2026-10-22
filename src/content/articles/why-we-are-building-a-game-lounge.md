@@ -1,10 +1,10 @@
 ---
 title: "Why We're Building a Game Lounge Business, Not a Store"
 description: "The game lounge business we're building in Indianapolis sells belonging, not boxes. Here is why we chose a lounge over a game store, and what it costs us."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Game Culture
 tags: ["game lounge business", "board game lounge", "game store vs game lounge", "membership game lounge", "starting a game lounge", "The Ludarium Indianapolis", "Building The Ludarium"]
-draft: true
+draft: false
 ---
 The Ludarium is a game lounge business, not a game store, and the difference is the whole plan. A store sells boxes and gives the tables away. A lounge sells the tables, the people at them, and the habit of coming back, and it does not sell boxes at all. This is the first in a series of articles where we explain, as plainly as we can, what we are building in Indianapolis and why. We will get some of it wrong. We would rather do that in public.
 
@@ -14,7 +14,7 @@ A game store is a retailer. Its revenue is product: board games, card packs, min
 
 A game lounge flips that. The room is the product. Revenue comes from people paying to belong to it, monthly, the way they pay for a gym or a coworking desk. The library of games is an amenity, like the weights or the Wi-Fi.
 
-We have written about this contrast before, in [what coworking got right that game stores got wrong](/articles/coworking-vs-game-stores/). The short version: coworking proved that people will pay to be in a room full of people doing what they do. Game stores proved the love of the hobby is there. Nobody had put the two together in our city, so we are.
+We have written about this contrast before, in [what coworking got right that game stores got wrong](/articles/coworking-vs-game-stores/). The short version: coworking proved that people will pay to be in a room full of people doing what they do. Game stores proved the love of the hobby is there. We have not found anyone doing both in our city, so we are.
 
 ## Why not just open a good game store?
 
@@ -30,7 +30,7 @@ We considered it. Plenty of people love their local store, and so do we. But thr
 
 Four things, roughly in order of how much we expect them to matter.
 
-1. **Membership.** Unlimited table time, library access, reservations, member events, guest passes. We explain the mechanics in [how a game lounge membership works](/articles/game-lounge-membership/). This is the core.
+1. **Membership.** What we expect it to include: table time, library access, reservations, member events, and guest passes. We explain the mechanics in [how a game lounge membership works](/articles/game-lounge-membership/). This is the core.
 2. **Corporate tabletop events.** Team sessions for companies, run by us, on their calendar. This comes first in time, before the room exists, because it funds the room. More on that in a later article.
 3. **Food and drink.** Coffee by day, something stronger by night, food you can eat with one hand. A real revenue line, but a supporting one.
 4. **Content and digital products.** The articles you are reading, a newsletter, RPG demo PDFs, and affiliate links when we recommend a game we love. This is how people find us before there is a door to walk through.
@@ -73,7 +73,7 @@ Several things, and we would rather say them now than pretend later.
 | Rent eats the membership | Grow into space rather than ahead of it; no lease the member count cannot carry |
 | It becomes a hobbyist clubhouse | Program for newcomers every week, not just regulars |
 | We underestimate hospitality | Treat it as a hospitality business with a membership layer, not a tech company |
-| People love the idea and do not join | Test willingness to pay with a founding tier before signing anything |
+| People love the idea and do not join | Test willingness to pay with an early membership offer before signing anything |
 
 That last one is the big one. Everyone says they want a third place. Fewer people pay for one. The only way to find out is to ask, early, and we will share what we learn.
 
@@ -93,7 +93,7 @@ No. We recommend games, teach them, and point you to local stores to buy them. W
 
 ### When does The Ludarium open in Indianapolis?
 
-We do not have a date yet. We are building the community, the content, and the corporate events service first, and the physical space follows. <!-- EDITOR: add detail if a timeline exists -->
+We do not have a date yet. We are building the community, the content, and the corporate events service first, and the physical space follows.
 
 ## Follow the build
 

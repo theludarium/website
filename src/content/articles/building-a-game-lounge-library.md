@@ -1,10 +1,10 @@
 ---
 title: "Building a Game Lounge Library: Our First 100 Games"
-description: "Building a game lounge library: how The Ludarium chose its first 100 games, the categories and ratios, which games we buy two of, and why 100 is enough to open."
-pubDate: 2026-10-18
+description: "Building a game lounge library: how The Ludarium is choosing its first 100 games, the categories and ratios, which games get two copies, and why 100 is enough."
+pubDate: 2026-10-22
 category: Game Culture
 tags: ["game lounge library", "board game cafe library", "how many games does a game cafe need", "best games for a game cafe", "curating a game library", "game library list", "Building The Ludarium"]
-draft: true
+draft: false
 ---
 A game lounge library is not a collection. It is a menu. The difference is that a collection grows by what the owner likes, and a menu is designed around who is going to sit down and what they will want in the first five minutes. We are planning The Ludarium's opening library at about 100 games, chosen by job rather than by hype, and this article lays out how we are choosing them. The specific titles will shift before we open. The structure will not.
 
@@ -28,7 +28,7 @@ By the job each game does at a table. Here is the working split, with examples o
 | Gateway games (the second game of the night) | 20 | Ticket to Ride, Catan, Azul, Carcassonne, Splendor, Kingdomino <!-- AFFILIATE --> |
 | Cooperative games | 12 | Pandemic, The Crew, Forbidden Island, Hanabi, Spirit Island <!-- AFFILIATE --> |
 | Two-player games | 10 | Patchwork, 7 Wonders Duel, Jaipur, Hive, Lost Cities <!-- AFFILIATE --> |
-| Big group and party games (6 to 12 players) | 12 | Wavelength, Telestrations, Decrypto, Blood on the Clocktower, Skull <!-- AFFILIATE --> |
+| Big group and party games (6 or more players) | 12 | Wavelength, Telestrations, Decrypto, Blood on the Clocktower, Skull <!-- AFFILIATE --> |
 | Kids and family games | 10 | Outfoxed!, Dragomino, My First Castle Panic, Ticket to Ride: First Journey <!-- AFFILIATE --> |
 | Medium-weight strategy (the regulars' shelf) | 15 | Wingspan, 7 Wonders, Everdell, Terraforming Mars, Dominion, Concordia <!-- AFFILIATE --> |
 | Heavy and long (reservation only) | 6 | Twilight Imperium, Gloomhaven: Jaws of the Lion, Brass: Birmingham, Dune: Imperium <!-- AFFILIATE --> |
@@ -69,7 +69,7 @@ Finally, the hosts get a vote that counts double. A host who can teach a game wi
 
 ## What does it cost to build a 100-game library?
 
-We have not bought it yet, so we will not pretend to a number. At the retail prices on this list, which run from about $15 for a small card game to $100 and up for the big boxes, 100 games plus duplicates and inserts would land in the low five figures at the time of writing, but publisher pricing, used copies, and donations change that a lot. <!-- EDITOR: add detail once purchased -->
+We have not bought it yet, so we will not pretend to a number. At the retail prices on this list, which run from about $15 for a small card game to $100 and up for the big boxes, 100 games plus duplicates and inserts would likely land somewhere under $10,000 at the time of writing, but publisher pricing, used copies, and donations change that a lot.
 
 What we can say is that the library is one of the smallest costs of opening a lounge. The furniture costs more. The lease costs far more. The library gets the attention because it is the fun part, and because it is the thing every visitor sees first. But a modest library with a great host beats a huge library with nobody to teach it, every night of the week.
 
@@ -81,7 +81,7 @@ Yes, with a filter. Plenty of people have games they do not play and would rathe
 
 ### How many games does a game cafe need?
 
-Enough to cover every kind of table it seats, which for most venues is 100 to 300. A smaller, well-taught library serves newcomers better than a large one nobody can navigate.
+Enough to cover every kind of table it seats. Many cafes stock several hundred games or more, but more is not always better. A smaller, well-taught library serves newcomers better than a large one nobody can navigate.
 
 ### What are the best games for a game lounge library?
 
@@ -93,7 +93,7 @@ Yes, for the handful of games that are always in use. Two copies of a game playe
 
 ### Can I bring my own games to The Ludarium?
 
-Yes. Members can bring their own games and, at higher tiers, store a campaign box or deck on site. The library is there for the nights you do not.
+Yes. We expect members to be able to bring their own games, and we would like to offer storage for a campaign box or deck on site. The library is there for the nights you do not.
 
 ## Follow the build
 

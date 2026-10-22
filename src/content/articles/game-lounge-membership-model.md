@@ -1,10 +1,10 @@
 ---
 title: "Game Lounge Membership Model: How the Math Works"
 description: "The game lounge membership model, worked out in public. How many members cover rent, why churn matters more than price, and the numbers we plan around."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Game Culture
 tags: ["game lounge membership model", "board game cafe revenue", "game lounge business plan", "membership venue economics", "board game lounge profit", "recurring revenue hospitality", "Building The Ludarium"]
-draft: true
+draft: false
 ---
 The game lounge membership model is simple to describe and hard to get right: enough people pay a monthly fee that the room covers its own costs before anyone buys a coffee. This article works through the math as we are using it to plan The Ludarium in Indianapolis. The numbers below are illustrative, not quotes, because we have not signed a lease or set a price. But the shape of the arithmetic is the shape of the business, and we would rather show it than hide it.
 
@@ -33,9 +33,9 @@ Suppose fixed monthly costs (rent, utilities, insurance, one full-time host, sof
 | $18,000 | $40 | 450 |
 | $18,000 | $60 | 300 |
 
-Those dollar figures are illustrative. Real rent in a real Indianapolis neighborhood will land where it lands, and we will share it when we know it. <!-- EDITOR: add detail once a space is identified --> But notice the range: somewhere between a couple hundred and a few hundred full-price members, before food, drink, events, or guest covers contribute anything.
+Those dollar figures are illustrative. Real rent in a real Indianapolis neighborhood will land where it lands, and we will share it when we know it. But notice the range: somewhere between a couple hundred and a few hundred full-price members, before food, drink, events, or guest covers contribute anything.
 
-That is a lot of members for a room that does not exist yet. It is also roughly the size of a healthy mid-sized gym's active base, or a coworking space's desk count, which is why we keep pointing at those models. It is a known size of community. People have built it before.
+That is a lot of members for a room that does not exist yet. It is more than a typical coworking space, which [averages about 90 desks](https://deskmag.com/en/coworking-spaces/2025-ultimate-coworking-space-trends-report-profitability-europe-north-america-market-business-survey-analysis), and far fewer than a typical gym, which averages well over a thousand members. It is a known size of community. People have built it before.
 
 ## Why is churn the number that matters most?
 
@@ -70,13 +70,13 @@ In [how a game lounge membership works](/articles/game-lounge-membership/) we de
 
 Off-peak members use the room when it would otherwise be empty, so they are close to pure margin on the building. Patron members pay more than the room costs them because they want the place to exist. Full-tier members are the core. A realistic mix might be a third off-peak, half full, and a small group of patrons, which produces an average revenue per member somewhat below the full price, but a room that is used across the whole day instead of just the evening.
 
-We will not price tiers until we have a space and a real cost base. But we will test willingness to pay before that, with a founding tier offered to people who have followed the build. The founding tier is not about the money. It is about finding out whether 300 people in Indianapolis will actually pay, before we sign anything that assumes they will.
+We will not price tiers until we have a space and a real cost base. But we want to test willingness to pay before that, likely with an early membership offer for people who have followed the build. That test is not about the money. It is about finding out whether 300 people in Indianapolis will actually pay, before we sign anything that assumes they will.
 
 ## What could break this?
 
 Three things keep us up.
 
-**Rent too high for the member count.** The coworking collapse was a lease problem, not an idea problem. Long expensive leases against short flexible memberships. We plan to grow into space, not ahead of it, even if the first room is smaller than we would like.
+**Rent too high for the member count.** [WeWork's collapse](https://commercialobserver.com/2023/11/wework-bankruptcy) was a lease problem, not an idea problem. Long expensive leases against short flexible memberships. We plan to grow into space, not ahead of it, even if the first room is smaller than we would like.
 
 **Opening before the community exists.** An empty lounge churns its first members fast, because the thing they paid for, the people, is not there yet. Content, events, and the newsletter list are how we build the community before the door.
 
@@ -90,7 +90,7 @@ It depends entirely on rent and staffing. As an illustrative range, a few hundre
 
 ### What is a reasonable price for a game lounge membership?
 
-Most venues using the model land near a gym membership in the same city. We have not set ours and will publish it when we do.
+Board game cafe memberships we have seen run about $15 to $40 a month, often less than a gym. We have not set ours and will publish it when we do.
 
 ### Why not just charge a cover like a board game cafe?
 
@@ -104,4 +104,4 @@ The main risks are signing a lease the membership cannot carry and opening befor
 
 We will update this math as it becomes real: the lease, the price, the member count, the churn. If the numbers get ugly, you will read about it here first. The game is the reason. The people are the point.
 
-Follow the build by subscribing to the newsletter. Emails, and when the founding tier opens in Indianapolis, subscribers hear before anyone else.
+Follow the build by subscribing to the newsletter. Emails, and first word on membership in Indianapolis when there is something to announce.
