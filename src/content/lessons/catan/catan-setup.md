@@ -1,5 +1,5 @@
 ---
-title: "Catan Setup Explained: The Board, the Numbers, the Harbors"
+title: "Catan Setup Explained: The Board, the Numbers, the Ports"
 description: "How to set up Catan: the 19 land hexes, 18 number discs, and 9 ports, fixed versus variable boards, and the snake draft for placing your first two settlements."
 course: catan
 level: 0

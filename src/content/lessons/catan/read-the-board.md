@@ -1,6 +1,6 @@
 ---
 title: "Read Any Catan Board in 60 Seconds"
-description: "Read any Catan board in 60 seconds: total the pips per resource, spot what is scarce, find the best intersections, and see which harbors really matter."
+description: "Read any Catan board in 60 seconds: total the pips per resource, spot what is scarce, find the best intersections, and see which ports really matter most."
 course: catan
 level: 2
 levelName: Trader
@@ -12,7 +12,7 @@ draft: true
 <!--
 OUTLINE (scaffold, not written yet)
 Lesson 13 of 40, Level 2: Trader
-Covers: Pips per resource, what is scarce on this map, the best intersections, and harbors that matter. Sets up the map-study lesson in Level 4.
+Covers: Pips per resource, what is scarce on this map, the best intersections, and ports that matter. Sets up the map-study lesson in Level 4.
 Try it this week: Name the scarcest resource before each game.
 Email subject: Every board tells you what's valuable
 

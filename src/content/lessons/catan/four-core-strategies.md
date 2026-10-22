@@ -1,6 +1,6 @@
 ---
 title: "The Four Core Strategies: Cities, Roads, Ports, and Balance"
-description: "The four core Catan strategies explained: the ore-wheat city plan, the wood-brick road plan, the harbor engine, and a balanced build. Pick your lane early."
+description: "The four core Catan strategies explained: the ore-wheat city plan, the wood-brick road plan, the port engine, and a balanced build. Pick your lane early."
 course: catan
 level: 2
 levelName: Trader
@@ -12,7 +12,7 @@ draft: true
 <!--
 OUTLINE (scaffold, not written yet)
 Lesson 14 of 40, Level 2: Trader
-Covers: Ore-wheat-sheep, wood-brick, the harbor engine, and balanced.
+Covers: Ore-wheat-sheep, wood-brick, the port engine, and balanced.
 Try it this week: Play four games, one strategy each.
 Email subject: Pick a lane
 

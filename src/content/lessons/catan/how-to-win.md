@@ -1,6 +1,6 @@
 ---
-title: "How to Win: Victory Points, Longest Road, and Largest Army"
-description: "Every way to score in Catan: settlements, cities, Longest Road, Largest Army, and hidden Victory Point cards, and why you must declare a win on your own turn."
+title: "How to Win: Victory Points, Longest Route, and Largest Army"
+description: "Every way to score in Catan: settlements, cities, Longest Route, Largest Army, and hidden Victory Point cards, and why you must declare a win on your own turn."
 course: catan
 level: 0
 levelName: Settler
@@ -54,7 +54,7 @@ The piece limits shape the endgame:
 - You have only **4 cities**.
 - So the most you can ever score from buildings is 4 cities (8 points) plus 5 settlements (5 points), or **13 points**. In practice you will usually win with far fewer buildings, plus a bonus or two.
 
-## How does Longest Road work?
+## How does Longest Route work?
 
 The first player to build a **continuous route of at least 5 roads** takes the Longest Route tile and its 2 points.
 

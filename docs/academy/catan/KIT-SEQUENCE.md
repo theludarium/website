@@ -282,14 +282,14 @@ The events link points to the qualifier article for now. It will change to an ev
 | # | Level | Subject | Preview line | Lesson URL | Sends | Example day |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | 0 Settler | Welcome to the island | How a 1995 board game started the modern hobby, and the one goal that matters. | `https://theludarium.com/academy/catan/what-is-catan/` | 1 day after the welcome | 1 (Tue) |
-| 2 | 0 Settler | Your first board, built in 10 minutes | 19 hexes, 18 numbers, 9 harbors, and the placement order that trips up new players. | `https://theludarium.com/academy/catan/catan-setup/` | 2 days after the previous lesson | 3 (Thu) |
+| 2 | 0 Settler | Your first board, built in 10 minutes | 19 hexes, 18 numbers, 9 ports, and the placement order that trips up new players. | `https://theludarium.com/academy/catan/catan-setup/` | 2 days after the previous lesson | 3 (Thu) |
 | 3 | 0 Settler | Roll, trade, build, repeat | Every turn has three beats. Learn them once and you can teach anyone. | `https://theludarium.com/academy/catan/how-a-turn-works/` | 2 days after the previous lesson | 5 (Sat) |
 | 4 | 0 Settler | Who invited the robber? | What happens on a 7, why you count your cards, and what is in the development deck. | `https://theludarium.com/academy/catan/robber-and-development-cards/` | 2 days after the previous lesson | 7 (Mon) |
 | 5 | 0 Settler | 10 points: here's every way to get there | Settlements, cities, two bonuses, and the hidden points nobody sees coming. | `https://theludarium.com/academy/catan/how-to-win/` | 2 days after the previous lesson | 9 (Wed) |
 | 6 | 1 Homesteader | Those little dots are the whole game | Why a 6 comes up five times as often as a 2, in plain English. | `https://theludarium.com/academy/catan/number-probability/` | Next Tue or Fri, at least 1 day after the level starts | 11 (Fri) |
 | 7 | 1 Homesteader | The 90 seconds that decide most games | A five-point checklist for the two placements that shape your whole game. | `https://theludarium.com/academy/catan/opening-settlements/` | Next Tue or Fri | 15 (Tue) |
 | 8 | 1 Homesteader | Why brick feels like gold on turn 4 | What you need on turn 4 is not what you need on turn 24. | `https://theludarium.com/academy/catan/resource-value-over-time/` | Next Tue or Fri | 18 (Fri) |
-| 9 | 1 Homesteader | Stop feeding the bank | When 4:1 is fine, and when it quietly hands someone else the win. | `https://theludarium.com/academy/catan/bank-and-harbor-trades/` | Next Tue or Fri | 22 (Tue) |
+| 9 | 1 Homesteader | Stop feeding the bank | When 4:1 is fine, and when it quietly hands someone else the win. | `https://theludarium.com/academy/catan/bank-and-port-trades/` | Next Tue or Fri | 22 (Tue) |
 | 10 | 1 Homesteader | The discard you didn't have to make | Eight cards is the danger line. Here is how to stay under it. | `https://theludarium.com/academy/catan/hand-management/` | Next Tue or Fri | 25 (Fri) |
 | 11 | 1 Homesteader | The cards everyone underrates | When a development card beats a road, and when to play each kind. | `https://theludarium.com/academy/catan/development-cards-for-beginners/` | Next Tue or Fri | 29 (Tue) |
 | 12 | 1 Homesteader | Seven ways you're losing (and how to stop) | Road spam, hoarding, feeding the leader, and four more habits to drop. | `https://theludarium.com/academy/catan/beginner-mistakes/` | Next Tue or Fri | 32 (Fri) |
@@ -299,8 +299,8 @@ The events link points to the qualifier article for now. It will change to an ev
 | 16 | 2 Trader | Plan your next two settlements now | Mark your next two spots before you roll, then race for them. | `https://theludarium.com/academy/catan/expansion-planning/` | Next Tue or Fri | 46 (Fri) |
 | 17 | 2 Trader | Every trade has a winner | Lopsided offers, specific asks, and why you never feed the leader. | `https://theludarium.com/academy/catan/art-of-the-trade/` | Next Tue or Fri | 50 (Tue) |
 | 18 | 2 Trader | The math behind the city rush | Expected cards per turn, and the moment a city beats a settlement. | `https://theludarium.com/academy/catan/cities-first/` | Next Tue or Fri | 53 (Fri) |
-| 19 | 2 Trader | Two points that change hands | Two 2-point bonuses. When to chase, when to contest, when to let go. | `https://theludarium.com/academy/catan/longest-road-and-largest-army/` | Next Tue or Fri | 57 (Tue) |
-| 20 | 2 Trader | Build your own bank | Turn one 2:1 harbor into your own private bank. | `https://theludarium.com/academy/catan/harbor-engine/` | Next Tue or Fri | 60 (Fri) |
+| 19 | 2 Trader | Two points that change hands | Two 2-point bonuses. When to chase, when to contest, when to let go. | `https://theludarium.com/academy/catan/longest-route-and-largest-army/` | Next Tue or Fri | 57 (Tue) |
+| 20 | 2 Trader | Build your own bank | Turn one 2:1 port into your own private bank. | `https://theludarium.com/academy/catan/port-engine/` | Next Tue or Fri | 60 (Fri) |
 | 21 | 3 Strategist | You can know what they're holding | Track every hand at the table, plus the tournament rule to know. | `https://theludarium.com/academy/catan/card-counting/` | Next Tue or Fri, at least 1 day after the level starts | 64 (Tue) |
 | 22 | 3 Strategist | The robber is a weapon | Whom to hit, which hex, and when. | `https://theludarium.com/academy/catan/robber-tactics/` | Next Tue or Fri | 67 (Fri) |
 | 23 | 3 Strategist | The quiet player is about to win | Visible points lie. Here is how to spot the real leader. | `https://theludarium.com/academy/catan/threat-assessment/` | Next Tue or Fri | 71 (Tue) |

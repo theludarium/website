@@ -1,6 +1,6 @@
 ---
-title: "Longest Road and Largest Army: Chase, Contest, or Ignore"
-description: "Longest Road and Largest Army in Catan: when the two 2-point bonuses are worth chasing, when to contest them, and when to let someone else have them for now."
+title: "Longest Route and Largest Army: Chase, Contest, or Ignore"
+description: "Longest Route and Largest Army in Catan: when the two 2-point bonuses are worth chasing, when to contest them, and when to let someone else have them for now."
 course: catan
 level: 2
 levelName: Trader

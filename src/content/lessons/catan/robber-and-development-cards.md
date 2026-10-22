@@ -22,7 +22,7 @@ levelCheck:
     options: ["A development card", "A settlement", "A random resource card"]
     answer: "C"
     explain: "The robber takes 1 random resource card from a player with a building on its new hex. Development cards are safe from the robber."
-nextTeaser: "Next, the finish line. Lesson 5 lays out every way to score, from settlements and cities to Longest Road, Largest Army, and hidden Victory Point cards."
+nextTeaser: "Next, the finish line. Lesson 5 lays out every way to score, from settlements and cities to Longest Route, Largest Army, and hidden Victory Point cards."
 ---
 Every Catan table has felt it. Someone rolls, the dice show 7, and half the table groans. Nobody collects, somebody loses cards, and a small gray robber goes looking for a victim. This lesson explains exactly what happens on a 7, then covers the development cards, which are the other big source of surprises.
 
