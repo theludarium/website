@@ -310,7 +310,7 @@ Have `<!-- EDITOR -->` notes only Levi can fill, mostly Cube Commonwealth facts 
 - `360-vs-540-cube`: 360 vs 540 Cube: Which Size Fits Your Group
 - `aggro-in-cube`: Aggro in Cube: Why It Dies and How to Keep It Alive
 - `battle-box-magic`: Battle Box Magic: No Deckbuilding, Just Play
-- `board-game-cafes-indianapolis`: Board Game Cafes in Indianapolis: The 2026 Guide
+- `board-game-cafes-indianapolis`: Board Game Cafes in Indianapolis: The 2026 Guide (published 2026-10-22)
 - `building-a-game-lounge-library`: Building a Game Lounge Library: Our First 100 Games
 - `choosing-a-space-for-a-game-lounge`: Game Cafe Location: What We Want in a First Space
 - `community-owned-cube`: The Community Cube: Letting Members Shape the List
@@ -333,29 +333,29 @@ Have `<!-- EDITOR -->` notes only Levi can fill, mostly Cube Commonwealth facts 
 - `cube-visual-spoiler`: Cube Visual Spoiler: Showing Your Cube at a Glance
 - `cubecobra-guide`: CubeCobra Guide: Listing, Testing, and Sharing a Cube
 - `discord-setup-for-a-game-group`: Discord for a Game Group: Channels, Roles, Weekly Post
-- `dnd-groups-carmel-fishers`: D&D in Carmel, Fishers, and Westfield: Where to Play
-- `dnd-vs-pathfinder-beginners`: D&D vs Pathfinder for Beginners: Which to Start With
+- `dnd-groups-carmel-fishers`: D&D in Carmel, Fishers, and Westfield: Where to Play (published 2026-10-22)
+- `dnd-vs-pathfinder-beginners`: D&D vs Pathfinder for Beginners: Which to Start With (published 2026-10-22)
 - `draft-pairings-and-records`: Cube Draft Pairings and Records Without the Tournament Feel
 - `duplicate-voucher-system`: Duplicate Voucher Cube Rule: Drafting a Second Copy
-- `friendship-after-retirement`: Friendship After Retirement: Why Men Lose Friends at 65
+- `friendship-after-retirement`: Friendship After Retirement: Why Men Lose Friends at 65 (published 2026-10-22)
 - `game-lounge-expansion-plan`: Game Lounge Franchise? Our One-Membership Long Plan
 - `game-lounge-lessons-learned`: Starting a Board Game Cafe: Mistakes We've Already Made
 - `game-lounge-membership-model`: Game Lounge Membership Model: How the Math Works
-- `gen-con-first-timer-guide`: Gen Con for First-Timers: What to Know Before You Go
+- `gen-con-first-timer-guide`: Gen Con for First-Timers: What to Know Before You Go (published 2026-10-22)
 - `glimpse-draft`: Glimpse Draft for Cube: Burn Two, Keep One
 - `hamilton-county-tabletop-scene`: Hamilton County, Indiana Board Games: The Local Scene
 - `how-to-get-eight-players-for-a-draft`: Cube Draft Attendance: How to Get Eight Players Weekly
-- `how-to-run-a-board-game-tournament`: How to Run a Board Game Tournament: Brackets and Seeding
+- `how-to-run-a-board-game-tournament`: How to Run a Board Game Tournament: Brackets and Seeding (published 2026-10-22)
 - `how-to-support-the-ludarium`: How to Support a Local Game Cafe Before It Opens
-- `indianapolis-game-nights`: Game Night in Indianapolis: A Weekly Public Guide
+- `indianapolis-game-nights`: Game Night in Indianapolis: A Weekly Public Guide (published 2026-10-22)
 - `lev-institute-and-the-ludarium`: Longevity and Social Connection: Why LEV Runs a Game Lounge
 - `mtgo-legacy-cube`: MTGO Legacy Cube: Vintage's Honest Cousin
 - `reference-cubes-we-follow`: Reference Cubes We Follow and Why (2026 List)
 - `relaunching-a-game-community`: How to Relaunch a Game Group After It Went Quiet
 - `running-two-draft-pods`: Draft Pod Logistics: 16 Players, Two Pods, One Host
 - `sharing-a-cube-primer`: Share a Cube Primer: CubeCobra, Discord, or Print
-- `social-fitness`: Social Fitness: Train Your Relationships Like a Muscle
-- `social-prescribing-game-nights`: Social Prescribing: Doctors Who Recommend Game Nights
+- `social-fitness`: Social Fitness: Train Your Relationships Like a Muscle (published 2026-10-22)
+- `social-prescribing-game-nights`: Social Prescribing: Doctors Who Recommend Game Nights (published 2026-10-22)
 - `the-pauper-cube`: The Pauper Cube: A Community-Maintained Classic
 - `track-cube-changes-tools`: Track Cube Changes: CubeCobra, Diffs, and Lists
 - `variance-in-cube-design`: Variance Is a Dial, Not a Flaw: Cube Design and Luck
@@ -364,4 +364,4 @@ Have `<!-- EDITOR -->` notes only Levi can fill, mostly Cube Commonwealth facts 
 - `when-is-vintage-cube-on-mtgo`: When Is Vintage Cube on MTGO? 2026 Schedule
 - `where-to-host-a-cube-draft`: Where to Host a Draft: Stores, Breweries, Libraries, Homes
 - `why-we-are-building-a-game-lounge`: Why We're Building a Game Lounge Business, Not a Store
-- `wingspan-strategy`: Wingspan Strategy for Players Who Keep Losing by Ten
+- `wingspan-strategy`: Wingspan Strategy for Players Who Keep Losing by Ten (published 2026-10-22)

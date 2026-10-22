@@ -1,10 +1,10 @@
 ---
 title: "Wingspan Strategy for Players Who Keep Losing by Ten"
 description: "Wingspan strategy that closes the usual ten-point gap: build your engine in the right order, stop ignoring eggs, and start planning round four from round one."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Game Guides
 tags: ["Wingspan strategy", "Wingspan tips", "how to win Wingspan", "Wingspan engine building", "Wingspan eggs strategy", "Wingspan bonus cards", "Strategy guides"]
-draft: true
+draft: false
 ---
 Most Wingspan strategy advice is about which birds are best. That is not why you keep losing by ten. You are losing by ten because your engine comes online one round too late, you treat eggs as an afterthought, and you spend round four doing the same thing you did in round one.
 
@@ -71,7 +71,7 @@ If you ever find yourself with a round-four action and nothing good to play, lay
 
 At setup you keep one of two bonus cards. Pick the one you can reach with the birds you are likely to see, not the one with the biggest payout.
 
-Bonus cards fall into rough groups. Some reward bird types you can easily find, such as birds with a particular nest type or wingspan range, and those are reliable. Some reward narrow traits, like birds whose names contain a specific word, and those are a gamble unless your opening hand already has two. A bonus card that scores five points reliably beats one that might score twelve and might score zero.
+Bonus cards fall into rough groups. Some reward bird types you can easily find, such as birds with a particular nest type or wingspan range, and those are reliable. Some reward narrow traits, like birds with a color or a body part in their name, and those are a gamble unless your opening hand already has two. A bonus card that scores five points reliably beats one that might score twelve and might score zero.
 
 Birds that let you draw more bonus cards in play are worth more than their printed points suggest. A second bonus card scored at the end is a free five to eight points, and it is the most common way an experienced player pulls ahead quietly.
 
@@ -100,7 +100,7 @@ The forest early, because food is the first bottleneck. By round three a develop
 
 ### How many birds should you play in a game of Wingspan?
 
-There is no published benchmark, but a competitive board usually fills most of its fifteen habitat slots without filling all of them. Far fewer birds than that usually means a weak engine, and a full board usually means too many actions spent playing low-value birds late. <!-- EDITOR: could not source; softened -->
+There is no published benchmark, but a competitive board usually fills most of its fifteen habitat slots without filling all of them. Far fewer birds than that usually means a weak engine, and a full board usually means too many actions spent playing low-value birds late.
 
 ### Are bonus cards worth chasing in Wingspan?
 

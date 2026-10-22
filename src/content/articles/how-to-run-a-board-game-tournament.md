@@ -1,20 +1,20 @@
 ---
 title: "How to Run a Board Game Tournament: Brackets and Seeding"
 description: "How to run a board game tournament: choose a format (single, double, Swiss, or round robin), seed the bracket, handle tiebreaks, and keep every round on time."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Game Night
 tags: ["board game tournament", "tournament bracket", "Swiss tournament format", "round robin tournament", "double elimination bracket", "how to run a tournament", "Game night programming"]
-draft: true
+draft: false
 ---
 A board game tournament is the easiest way to turn a casual group into an event. People who skip a normal game night show up for a bracket, because a bracket has stakes, a story, and an ending. The hard part is not the games. It is the format, the timing, and the three rules nobody thinks about until a tie happens at 10:40 p.m.
 
-This guide covers the four formats that work for tabletop, when each fits, how to seed, how to break ties, and how to keep the whole thing from running two hours over. The Ludarium also has a free bracket tool at [/tools/bracket](/game-night-madness/) <!-- EDITOR: confirm path --> that handles the drawing and the math.
+This guide covers the four formats that work for tabletop, when each fits, how to seed, how to break ties, and how to keep the whole thing from running two hours over. And if the hard part is agreeing on which game to play, [Game Night Madness](/game-night-madness/), The Ludarium's free bracket app, lets the group vote its way down to one.
 
 ## Which game should you run a tournament for?
 
 The game matters more than the format. A good tournament game has four properties.
 
-1. **Short matches.** Twenty minutes or less, including setup. Love Letter <!-- AFFILIATE -->, Hive <!-- AFFILIATE -->, Jaipur <!-- AFFILIATE -->, Patchwork <!-- AFFILIATE -->, Star Realms <!-- AFFILIATE -->, and 7 Wonders Duel <!-- AFFILIATE --> all qualify. Catan does not, unless you have all day.
+1. **Short matches.** About twenty to thirty minutes, including setup. Love Letter <!-- AFFILIATE -->, Hive <!-- AFFILIATE -->, Jaipur <!-- AFFILIATE -->, Patchwork <!-- AFFILIATE -->, Star Realms <!-- AFFILIATE -->, and 7 Wonders Duel <!-- AFFILIATE --> all qualify. Catan does not, unless you have all day.
 2. **A clear winner.** Games that end in scores are fine. Games that end in "we sort of ran out of time" are not.
 3. **A fixed player count.** Two-player games make brackets simple. Three- and four-player games work but need a scoring system rather than a knockout.
 4. **Low learning cost.** If half the field is learning the game in round one, round one is a demo, not a match.
@@ -37,7 +37,7 @@ You must lose twice to go out. Losers from the main bracket drop to a second bra
 
 **When it fits:** a game with real luck in it, like Love Letter or anything with dice. One bad draw should not end someone's night. Double elimination also keeps everyone playing at least two matches, which is the minimum for a tournament to feel like one.
 
-**The cost:** roughly twice as many matches as single elimination, and the bracket is confusing to run by hand. The bracket tool handles it, or a printed template does. The grand final has a quirk: the player from the losers' bracket has to beat the undefeated player twice, since the undefeated player has not yet lost. Decide in advance whether you honor that rule or play a single final. Say it out loud before round one.
+**The cost:** roughly twice as many matches as single elimination, and the bracket is confusing to run by hand. A printed template helps, or a free app like Challonge. The grand final has a quirk: the player from the losers' bracket has to beat the undefeated player twice, since the undefeated player has not yet lost. Decide in advance whether you honor that rule or play a single final. Say it out loud before round one.
 
 ### Swiss
 
@@ -70,7 +70,7 @@ Seed deliberately when two things are true: you know who the strong players are,
 
 If you do seed, use the standard pattern: the top seed plays the bottom seed, second plays second-to-last, and so on. A bracket of eight goes 1 vs 8, 4 vs 5, 2 vs 7, 3 vs 6, so that 1 and 2 can only meet in the final.
 
-Odd numbers get a bye: one player skips the first round. Give the bye to the top seed, or draw it randomly. In Swiss, the bye counts as a win for pairing purposes.
+If the field is not 8, 16, or 32, some players get a bye and skip the first round. Give byes to the top seeds, or draw them randomly. In Swiss, the bye counts as a win for pairing purposes.
 
 *If this is useful, the newsletter sends more like it.*
 
@@ -81,7 +81,7 @@ Ties happen in Swiss and round robin, and they happen in the standings that matt
 A reasonable order for a casual tournament:
 
 1. **Head-to-head.** If the tied players played each other, the winner of that match ranks higher.
-2. **Opponents' win percentage.** Add up the records of everyone each tied player faced. The player who beat stronger opponents ranks higher. This is the standard Swiss tiebreak, and the bracket tool computes it.
+2. **Opponents' win percentage.** Add up the records of everyone each tied player faced. The player who beat stronger opponents ranks higher. This is the standard Swiss tiebreak.
 3. **Point differential** (for games with scores). Total points scored minus total points conceded, across all matches.
 4. **A single sudden-death match**, if time allows and the tie is for first place.
 
@@ -123,10 +123,10 @@ Use Swiss with table seating by record. Each round, group players with similar r
 
 ### Do you need software to run a board game tournament?
 
-Not for single elimination with eight or fewer players; a sheet of paper works. For double elimination or Swiss with more than eight, a tool saves real time and prevents pairing mistakes. The Ludarium's bracket tool is free at [/tools/bracket](/game-night-madness/) <!-- EDITOR: confirm path -->.
+Not for single elimination with eight or fewer players; a sheet of paper works. For double elimination or Swiss with more than eight, a tool saves real time and prevents pairing mistakes. Free tournament apps such as [Challonge](https://challonge.com/) handle brackets and Swiss pairings.
 
-## Get the next format guide first
+## More formats
 
-Tournaments are one of the recurring formats we will run at The Ludarium in Indianapolis, and the bracket tool exists because we needed it ourselves. Subscribe to the newsletter for new programming ideas: formats, game picks, and the small rules that keep a room happy.
+Tournaments are one of the formats we want to host at The Ludarium in Indianapolis. Subscribe to the newsletter for new programming ideas: formats, game picks, and the small rules that keep a room happy.
 
 The game is the reason. The people are the point.
