@@ -25,14 +25,19 @@ const configured = Boolean(KIT_MALAPHOR_FORM.action);
 
   <div class="malaphor__row">
     <label>
-      Your name <span>For the credit</span>
-      <input name="fields[first_name]" autocomplete="name" maxlength="80" required />
+      First name <span>For the credit</span>
+      <input name="fields[first_name]" autocomplete="given-name" maxlength="80" required />
     </label>
     <label>
-      Email
-      <input name="email_address" type="email" autocomplete="email" maxlength="200" required />
+      Last name
+      <input name="fields[last_name]" autocomplete="family-name" maxlength="80" required />
     </label>
   </div>
+
+  <label>
+    Email
+    <input name="email_address" type="email" autocomplete="email" maxlength="200" required />
+  </label>
 
   <button class="button malaphor__submit" type="submit">Send my malaphor</button>
   <p class="malaphor__fine">
@@ -54,7 +59,7 @@ const configured = Boolean(KIT_MALAPHOR_FORM.action);
 
   .malaphor__row {
     display: grid;
-    grid-template-columns: 1fr 1.4fr;
+    grid-template-columns: 1fr 1fr;
     gap: var(--space-4);
   }
 
