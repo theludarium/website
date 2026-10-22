@@ -28,6 +28,10 @@ Only Level 0 is written so far, so everyone starts at Level 0 for now, whatever 
 
 Lessons 6 to 12 and their emails are done (emails below). When you're ready, build **Catan L1: Homesteader** and automation **C3**, and add the "Too easy?" trigger for Level 0. People who already finished Level 0 hold the `academy-catan-homesteader` tag, but automations are not retroactive, so they will not enter C3 on their own. To start them: in **Subscribers**, filter by that tag, select all, **Remove tag** `academy-catan-homesteader`, then **Add tag** `academy-catan-homesteader` again. The re-add fires C3. When all levels are live, switch C1 to the full version with the four-path split.
 
+### Adding Level 2 (written 2026-10-22)
+
+Lessons 13 to 20 and their emails are done (emails below). Build **Catan L2: Trader** (Tuesday and Friday, 8 a.m., delays as in step A) and automation **C4** as written in step C, and add the "Too easy?" trigger for Level 1. If you build Levels 1 and 2 at the same time, end Level 1 with graduation email 2 instead of the interim Level 1 wrap-up. People who already finished Level 1 hold `academy-catan-trader`; start them by removing and re-adding that tag, the same way as Level 1. Until Level 3 is written, end the Level 2 sequence with the interim Level 2 wrap-up below, and keep C4's swap to `academy-catan-strategist` so it marks who finished.
+
 ### Lesson email footer, for now
 
 > Busy stretch? [Pause lessons for two weeks](link trigger: Catan: pause lessons) · [Find a Catan event near you](https://theludarium.com/articles/catan-tournament-qualifier/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=events)
@@ -377,6 +381,210 @@ Button: `https://theludarium.com/academy/catan/development-cards-for-beginners/?
 
 Button: `https://theludarium.com/academy/catan/beginner-mistakes/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-12`
 
+### The eight Level 2 lesson emails
+
+For **Catan L2: Trader**, built when Level 2 launches (see "Adding Level 2" above). Same footer and button as the other levels.
+
+#### Lesson 13
+
+**Subject:** Every board tells you what's valuable
+
+**Preview text:** Four questions, sixty seconds, and you know what this map rewards.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> Welcome to Level 2. Every Catan board is telling you something. One map is short on brick. Another is drowning in wheat. The players who notice first get to place with a plan.
+>
+> **The one idea:** before anyone places, total the pips for each resource, name the scarcest one, find the best corners, and check which ports have a strong supply nearby.
+>
+> **A quick example:** on one board, the four forests add up to 13 pips and the four pastures only 10, because one pasture sits on the 2. Wool is usually the cheap card everyone has extra of. Not on that board. Settlements and development cards will be slower for everyone, and the player with good wool gets to set the price.
+>
+> The full lesson walks through all four questions on a real board, shows what a "normal" total looks like for each resource, and explains why a hot number does not always make a hot corner.
+>
+> **Try it this week:** before each game, total the pips for each resource and name the scarcest one out loud. During the game, tally which card people beg for most. See if you called it.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/read-the-board/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-13`
+
+#### Lesson 14
+
+**Subject:** Pick a lane
+
+**Preview text:** Cities, roads, ports, or balance. Each can win. Mixing them often can't.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> Ask a few strong Catan players how they won, and you'll hear a few different stories. But nearly all of them fit one of four plans.
+>
+> **The one idea:** there are four proven roads to 10 points: the ore-wheat-wool city plan, the wood-brick road plan, the port engine, and a balanced build. The board and your opening tell you which one to commit to early.
+>
+> **A quick example:** you build 3 roads toward Longest Route, then change your mind and rush cities. Those roads cost 3 brick and 3 wood. That's 6 cards that scored nothing, one more card than a whole city costs. Switching once, on purpose, can be fine. Switching every few turns is how games slip away.
+>
+> The full lesson covers what each lane needs, a simple path to 10 for each one, its weak spot, and how to read the board and the table to choose yours.
+>
+> **Try it this week:** play four games, one lane each. Pick the lane before setup and stick to it, even if the board fights you. After each game, write down where your points came from.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/four-core-strategies/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-14`
+
+#### Lesson 15
+
+**Subject:** Fourth pick isn't a curse
+
+**Preview text:** How first, second, third, and fourth pick change your plan.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> Seat 4 has a bad reputation. The best corners are gone before you place, and you roll last. Plenty of players sit down there and sigh. They shouldn't.
+>
+> **The one idea:** your seat decides how many settlements land between your two picks, so plan your first pick around what will still be open at your second.
+>
+> **A quick example:** in seat 1, six settlements land between your picks, so take what is hardest to replace, like the board's best ore. In seat 4, nothing lands between them. If seats 1 to 3 all grab ore and wheat, you can take the best brick and the best wood back to back, and everyone has to come to you for roads.
+>
+> The full lesson covers each seat's edge, its trap, and what to place first, plus how much turn order matters once the dice start rolling.
+>
+> **Try it this week:** over four games, play once from each seat. After each setup, write down both spots, their pips, and whether the second spot you hoped for was still open.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/seat-position/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-15`
+
+#### Lesson 16
+
+**Subject:** Plan your next two settlements now
+
+**Preview text:** Mark your next two spots before you roll, then race for them.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> The open corner next to you looks safe. Then the player on your right builds two roads in one turn and settles on it. It happens in nearly every game.
+>
+> **The one idea:** pick your next two settlement spots before your first roll, count who can reach them first, and point every road at one of them.
+>
+> **A quick example:** you need 2 roads to reach a corner. Your neighbor needs 1, and plays right after you. Build your 2 roads without the settlement, and they build 1 road and settle there anyway. Reaching a spot is not owning it. Either arrive and settle in one turn, or turn toward your other target early.
+>
+> The full lesson covers how the distance rule shapes your options, how to win a road race, and when a blocking road is worth it and when it's just road spam.
+>
+> **Try it this week:** after setup, before anyone rolls, write down Target 1 and Target 2. Aim every road at one of them. When one is taken, name a new one before your turn ends.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/expansion-planning/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-16`
+
+#### Lesson 17
+
+**Subject:** Every trade has a winner
+
+**Preview text:** Lopsided offers, specific asks, and why you never feed the leader.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> Two players swap a wheat for a brick. It looks even. Then one of them builds a settlement, and the other is still a card short. That trade had a winner.
+>
+> **The one idea:** every trade helps both players, so the real question is who it helps more. Before you say yes, ask what each of you can build afterward, and make your offers specific enough that the answer is you.
+>
+> **A quick example:** you need brick and have wool to spare. "Anyone have brick?" lets the table set the price, and tells the leader what you need. "Sam, two wool for your brick?" sets the price yourself and picks your partner. Even at 2-for-1, it costs you 1 card net. The bank would cost you 3.
+>
+> The full lesson covers when to offer 2-for-1 and when to ask for it, how to make offers on other players' turns, and the one question that keeps you from feeding the leader.
+>
+> **Try it this week:** make every offer specific. Name what you give, what you want, and who. After each game, mark every trade W or L, and aim for more Ws.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/art-of-the-trade/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-17`
+
+#### Lesson 18
+
+**Subject:** The math behind the city rush
+
+**Preview text:** Expected cards per turn, and the moment a city beats a settlement.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> A city and a settlement are both worth 1 point. So which one should you build? There is a real answer, and it takes about ten seconds.
+>
+> **The one idea:** divide a spot's pips by 9 to get its expected cards per round in a four-player game. Then build whatever adds the most pips for the cards you spend.
+>
+> **A quick example:** your best settlement has 13 pips. An open 9-pip spot is one road away. The city adds 13 pips for 5 cards, about 2.6 pips per card. The settlement plus its road adds 9 pips for 6 cards, just 1.5 per card. The city wins, and it pays for itself in about half the time.
+>
+> The full lesson shows how to count your income at any point in a game, why early builds pay more than late ones, when a settlement is worth taking anyway, and how much ore a city rush really needs.
+>
+> **Try it this week:** after setup, add up your pips and divide by 9. Do it again in the middle of the game. Did your income double?
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/cities-first/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-18`
+
+#### Lesson 19
+
+**Subject:** Two points that change hands
+
+**Preview text:** Two 2-point bonuses. When to chase, when to contest, when to let go.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> Most points in Catan stay put. Longest Route and Largest Army do not. You can lose them, and you can take them.
+>
+> **The one idea:** when a bonus changes hands, you gain 2 points and the old holder loses 2. That is a 4-point swing. Chase a bonus when your plan already builds toward it, contest it when the leader holds it, and ignore it when the price is too high.
+>
+> **A quick example:** the leader has 8 points, including Longest Route on 6 roads. You have 7 points and a route of 5. Two more roads give you 7, which beats 6. Now you have 9 and the leader has 6. You went from 1 behind to 3 ahead for 4 cards.
+>
+> The full lesson covers what each bonus really costs, how a single settlement can break a route, when to stay out of a road war, and how to hold a bonus once it is yours.
+>
+> **Try it this week:** contest one bonus every game. Track every player's route and Knights, and make your move when the leader holds the tile or you are one step away.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/longest-route-and-largest-army/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-19`
+
+#### Lesson 20
+
+**Subject:** Build your own bank
+
+**Preview text:** Turn one 2:1 port into your own private bank.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> Most players land on a port by accident. A few build their whole game around one.
+>
+> **The one idea:** a 2:1 port doubles the value of every spare card of its resource compared with the bank. It becomes an engine only when strong production of that one resource feeds it.
+>
+> **A quick example:** your cities sit on a 6 wheat field and an 8 wheat field. That is about 20 wheat every 36 rolls. Keep 8 for your own builds, and 12 are spare. At the bank, those 12 become 3 cards. Through the 2:1 wheat port, they become 6 cards of anything you want.
+>
+> The full lesson covers how much production a port needs, when a 2:1 port beats a 3:1, which port to pick, and how to protect your engine from the robber. It is also the last lesson of Level 2.
+>
+> **Try it this week:** build one game around a 2:1 port. Pick it before setup ends, point a road at it, and count every card you get through it.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/port-engine/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-20`
+
 ### The interim Level 1 wrap-up
 
 Last email in **Catan L1: Homesteader**, 24 hours after lesson 12, until Level 2 is written. Then switch to graduation email 2. Keep C3's tag swap to `academy-catan-trader` as written: with no Level 2 automation yet, the tag starts nothing, and it marks who finished Level 1. When Level 2 launches, start them the same way as Level 1 graduates: remove and re-add `academy-catan-trader`.
@@ -401,6 +609,31 @@ Last email in **Catan L1: Homesteader**, 24 hours after lesson 12, until Level 2
 > The Ludarium
 
 Button: `https://theludarium.com/academy/catan/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=grad-homesteader`
+
+### The interim Level 2 wrap-up
+
+Last email in **Catan L2: Trader**, 24 hours after lesson 20, until Level 3 is written. Then switch to graduation email 3.
+
+**Subject:** Level 2 done. You play with a plan now.
+
+**Preview text:** Level 3 is next: playing the people, not just the board.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> That's Level 2: Trader, finished. You can read a board in a minute, pick a strategy that fits it, plan your next settlements before you need them, and make trades that leave you ahead. That's the difference between playing Catan and playing it on purpose.
+>
+> **What's next: Level 3, Strategist.** Eight lessons on the other players: tracking what they hold, using the robber as a weapon, spotting who is really winning, and closing out games. I'm writing it now. When it's ready, the first lesson comes straight to your inbox. You don't need to do anything.
+>
+> **In the meantime:** before each game, name the scarcest resource and your plan out loud. After the game, check whether the plan held. Then reply and tell me which strategy won most often at your table. I read every reply.
+>
+> [Button: See the whole course]
+>
+> See you at the table,
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=grad-trader`
 
 ### The interim Level 0 wrap-up
 
