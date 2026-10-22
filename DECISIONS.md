@@ -173,6 +173,12 @@ A short log of choices made and why. Newest at the bottom.
 - The table illustration stays available: `<Hero art="table">` (the default for other pages) brings it back.
 - **Update: the dots cycle through game pieces** (`src/lib/dot-shapes.ts`): the tile mark, a d20, a meeple, a chess knight, a fanned hand of cards, and a mahjong tile, then back to the mark. Generic pieces only, so no publisher art. Because the cycle runs indefinitely, the hero's pause button now shows for the dots too (WCAG 2.2.2). New shapes are one draw function each on the 64 by 64 grid.
 
+## 2026-10-19: Malaphor submission page
+
+- **`/malaphors/` added** as the submission address printed in Levi's malaphor field guide (a separate book project, manuscript in `~/Developer/malaphors-book`). Levi chose a Ludarium landing page over an email address or a standalone domain.
+- **Kit, not a form service:** five fields post straight to a Kit form tagged `malaphors` with custom fields `malaphor`, `parents`, `context`, so the book builds its own list without mixing with the newsletter audience. Action URL goes in `src/lib/config.ts`; a preview note shows until it does.
+- **Not in the navigation.** The page exists for readers of the book; the site's own visitors reach it only by the printed URL.
+
 ## 2026-10-20: RPG Demo Library on theludarium.com
 
 - **Repo moved** from Levi's account (The-LJAW) to `theludarium/rpg-demo-library` (Levi's call). GitHub redirects the old URL. Its GitHub Pages copy was turned off the same day, so theludarium.com is the only copy.
@@ -217,3 +223,10 @@ A short log of choices made and why. Newest at the bottom.
 - Kit sends people to `/newsletter/thanks/` after signing up and `/newsletter/confirmed/` after they click the confirmation link. Both are noindex and out of the sitemap.
 - hello@theludarium.com is also the site's contact email (privacy and disclosure pages).
 - Built 2026-10-21: Kit forms **Ludarium Letters** (form 10079099, the newsletter's name) and **Lounge waitlist: Indianapolis** (form 10079113, custom fields zip_code, plays, visit_frequency; rule 5659971 tags `lounge-indianapolis`). Both double opt-in with the confirmation email in `docs/newsletter/emails.md`. theludarium.com is a verified sending domain in Kit (DKIM CNAMEs, `ckespa` return path, `_dmarc` p=none).
+
+## 2026-10-22: Malaphor page goes live
+
+- **The book is on Amazon** (paperback ASIN B0HNTSXVS6, Kindle B0HNTT7KKV), so `/malaphors/` had to stop returning 404.
+- **Kit form "Malaphor submissions" (10080181)**, made by duplicating the Indianapolis waitlist form so it keeps double opt-in. Custom fields `malaphor`, `parents`, `context`; rule 5660414 tags senders `malaphors`. The confirmation email was rewritten for malaphor senders. No welcome sequence for now; the page only promises a note if theirs makes the book.
+- **Own confirmed page, `/malaphors/confirmed/`.** The newsletter's confirmed page promises a welcome email these people will not get.
+- **A quiet Amazon link** below the questions and on the confirmed page (`MALAPHOR_BOOK_URL` in `src/lib/config.ts`). A plain link, not an affiliate link, so no disclosure is needed.

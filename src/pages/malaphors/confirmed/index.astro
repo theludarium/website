@@ -1,0 +1,33 @@
+---
+// Where Kit sends malaphor senders after they click the confirmation link
+// (the Malaphor submissions form's "Redirect after confirmation"). Not in the sitemap.
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageIntro from '@/components/PageIntro.astro';
+import { MALAPHOR_BOOK_URL } from '@/lib/config';
+---
+
+<BaseLayout
+  title="Malaphor confirmed"
+  description="Your email is confirmed, so The Ludarium can tell you if your malaphor makes the next volume of the field guide."
+  noindex
+>
+  <PageIntro
+    eyebrow="Confirmed"
+    title="Confirmed. Your malaphor is in the pile."
+    lede="We read every one. If yours makes the next volume, you will hear from us first."
+  >
+    <div class="confirmed-actions">
+      <a class="button" href="/malaphors/">Send another</a>
+      <a class="button button--ghost" href={MALAPHOR_BOOK_URL} rel="noopener">Get the book on Amazon</a>
+    </div>
+  </PageIntro>
+</BaseLayout>
+
+<style>
+  .confirmed-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-3);
+    margin-top: var(--space-6);
+  }
+</style>

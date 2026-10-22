@@ -46,3 +46,14 @@ export const KIT_WAITLIST_FORMS: Record<string, { action: string }> = {
  * src/components/ConsentBanner.astro. While blank, nothing loads.
  */
 export const GA_MEASUREMENT_ID = 'G-38F1N7Q117';
+
+/**
+ * Kit form for malaphor submissions (the /malaphors/ page, printed in the book).
+ * Copy `action` from the Kit form's HTML embed. In Kit, add a rule so this form
+ * tags subscribers `malaphors`, and create custom fields with these keys:
+ * malaphor, parents, context.
+ */
+export const KIT_MALAPHOR_FORM = { action: 'https://app.kit.com/forms/10080181/subscriptions' };
+
+/** The malaphor field guide on Amazon (paperback page; it links the Kindle edition too). A plain link, not an affiliate link. */
+export const MALAPHOR_BOOK_URL = 'https://www.amazon.com/dp/B0HNTSXVS6';

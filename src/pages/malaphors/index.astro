@@ -1,0 +1,227 @@
+---
+// Landing page printed in the malaphor field guide. Follows the landing page
+// rules in CLAUDE.md: one outcome, one action, three objections, legal links.
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import MalaphorForm from '@/components/MalaphorForm.astro';
+import PreviewNote from '@/components/PreviewNote.astro';
+import { KIT_MALAPHOR_FORM, MALAPHOR_BOOK_URL } from '@/lib/config';
+---
+
+<BaseLayout
+  title="Send Us a Malaphor"
+  description="Heard two idioms collide? Send the malaphor to The Ludarium and it could appear in the next volume of the field guide, with your name on the entry."
+>
+  <section class="ml-hero">
+    <div class="container ml-hero__grid">
+      <div class="ml-hero__copy">
+        <p class="eyebrow">The malaphor field guide</p>
+        <h1>Your malaphor could be in the next book.</h1>
+        <p class="ml-hero__sub">
+          Heard someone mash two idioms into one? Send it in. The best ones go in the next volume, with your
+          name on the entry if you want it.
+        </p>
+        <MalaphorForm />
+        {
+          !KIT_MALAPHOR_FORM.action && (
+            <PreviewNote>
+              The Kit form is not connected yet, so submissions go nowhere. Paste Kit's HTML embed code to
+              Claude to finish it. Do not merge to main until this note is gone.
+            </PreviewNote>
+          )
+        }
+      </div>
+
+      <figure class="ml-card" aria-label="What an entry in the book looks like">
+        <p class="ml-card__title">We'll burn that bridge when we get to it.</p>
+        <p class="ml-card__line"><em>The Parents:</em> Cross that bridge when we come to it + Burn your bridges</p>
+        <p class="ml-card__line">
+          <em>How They Collided:</em> "Bridge" is the pivot. The speaker started one idiom, arrived at the
+          bridge, and the other idiom's verb was waiting there.
+        </p>
+        <ul class="ml-card__scores" aria-label="Scores">
+          <li>Sense-o-Meter <strong>5</strong></li>
+          <li>Mental Image <strong>4</strong></li>
+          <li>Seamlessness <strong>5</strong></li>
+        </ul>
+        <p class="ml-card__tier">Golden Pope</p>
+        <figcaption>An entry from the book</figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <section class="section ml-faq" aria-labelledby="ml-faq-title">
+    <div class="container">
+      <h2 id="ml-faq-title" class="visually-hidden">Common questions</h2>
+      <ul class="ml-faq__list">
+        <li>
+          <h3>What counts as a malaphor?</h3>
+          <p>
+            Two real idioms, one accidental sentence. "It's not rocket surgery." "That's the way the cookie
+            bounces." A mixed metaphor or a misheard lyric is close, but not quite it.
+          </p>
+        </li>
+        <li>
+          <h3>Do I need to know the two idioms?</h3>
+          <p>No. Send the sentence exactly as you heard it, before your brain fixes it. We will work out the parents.</p>
+        </li>
+        <li>
+          <h3>What do you do with my email?</h3>
+          <p>
+            Tell you if yours makes the book, and send the occasional note from The Ludarium. Never sold or shared.
+            Read the <a href="/privacy/">privacy policy</a>.
+          </p>
+        </li>
+      </ul>
+      <p class="ml-book">
+        No copy yet? <a href={MALAPHOR_BOOK_URL} rel="noopener">We'll Burn That Bridge When We Get to It</a> is on
+        Amazon in paperback and Kindle.
+      </p>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .ml-hero {
+    padding-block: var(--space-8) var(--space-7);
+  }
+
+  .ml-hero__grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1.15fr) minmax(0, 0.85fr);
+    align-items: start;
+    gap: var(--space-8);
+  }
+
+  .ml-hero h1 {
+    max-width: 14ch;
+    font-size: var(--text-4xl);
+  }
+
+  .ml-hero__sub {
+    max-width: 34rem;
+    margin-bottom: var(--space-6);
+    font-size: var(--text-lg);
+    color: var(--color-text-muted);
+  }
+
+  /* The proof: one entry from the book */
+  .ml-card {
+    position: sticky;
+    top: var(--space-6);
+    margin: 0;
+    padding: var(--space-6);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-card);
+    background: var(--color-surface);
+    box-shadow: var(--shadow-lg);
+    transform: rotate(-1.5deg);
+  }
+
+  .ml-card__title {
+    margin: 0 0 var(--space-4);
+    font-family: var(--font-display);
+    font-size: var(--text-2xl);
+    line-height: var(--leading-snug);
+  }
+
+  .ml-card__line {
+    margin: 0 0 var(--space-3);
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+
+  .ml-card__line em {
+    color: var(--color-text);
+  }
+
+  .ml-card__scores {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+    margin: var(--space-4) 0 var(--space-3);
+    padding: 0;
+    list-style: none;
+  }
+
+  .ml-card__scores li {
+    padding: 0.35em 0.8em;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-pill);
+    font-size: var(--text-xs);
+    font-weight: 600;
+  }
+
+  .ml-card__scores strong {
+    margin-left: 0.3em;
+    color: var(--color-primary);
+  }
+
+  .ml-card__tier {
+    margin: 0;
+    font-size: var(--text-xs);
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--color-accent);
+  }
+
+  .ml-card figcaption {
+    margin-top: var(--space-4);
+    font-size: var(--text-xs);
+    color: var(--color-text-muted);
+    text-align: center;
+  }
+
+  .ml-faq {
+    padding-top: var(--space-6);
+  }
+
+  .ml-faq__list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr));
+    gap: var(--space-5);
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .ml-faq__list li {
+    padding: var(--space-5);
+    border-top: 3px solid var(--color-primary);
+    background: var(--color-surface);
+    border-radius: 0 0 var(--radius-card) var(--radius-card);
+  }
+
+  .ml-faq__list h3 {
+    margin: 0 0 var(--space-2);
+    font-size: var(--text-lg);
+  }
+
+  .ml-faq__list p {
+    margin: 0;
+    color: var(--color-text-muted);
+  }
+
+  .ml-book {
+    margin: var(--space-6) 0 0;
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+    text-align: center;
+  }
+
+  .ml-book a {
+    font-style: italic;
+  }
+
+  @media (max-width: 56rem) {
+    .ml-hero__grid {
+      grid-template-columns: 1fr;
+      gap: var(--space-7);
+    }
+
+    .ml-card {
+      position: static;
+      transform: none;
+    }
+  }
+</style>

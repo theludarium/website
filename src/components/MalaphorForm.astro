@@ -1,0 +1,105 @@
+---
+// Malaphor submissions for the book. Posts straight to Kit (set in src/lib/config.ts);
+// Kit tags the signup `malaphors` and redirects to /malaphors/thanks/.
+// Five fields, so a single step (see the landing page rules in CLAUDE.md).
+import { KIT_MALAPHOR_FORM } from '@/lib/config';
+
+const configured = Boolean(KIT_MALAPHOR_FORM.action);
+---
+
+<form class="malaphor" action={configured ? KIT_MALAPHOR_FORM.action : '/malaphors/'} method={configured ? 'post' : 'get'}>
+  <label>
+    The malaphor, word for word
+    <textarea name="fields[malaphor]" rows="2" maxlength="300" required placeholder="We'll burn that bridge when we get to it."></textarea>
+  </label>
+
+  <label>
+    The two idioms it mixes <span>Optional, if you can spot them</span>
+    <input name="fields[parents]" maxlength="200" placeholder="Cross that bridge when we come to it + Burn your bridges" />
+  </label>
+
+  <label>
+    Who said it, and where <span>Optional. No names needed</span>
+    <input name="fields[context]" maxlength="300" placeholder="My boss, in a budget meeting, around 4 p.m." />
+  </label>
+
+  <div class="malaphor__row">
+    <label>
+      Your name <span>For the credit</span>
+      <input name="fields[first_name]" autocomplete="name" maxlength="80" required />
+    </label>
+    <label>
+      Email
+      <input name="email_address" type="email" autocomplete="email" maxlength="200" required />
+    </label>
+  </div>
+
+  <button class="button malaphor__submit" type="submit">Send my malaphor</button>
+  <p class="malaphor__fine">
+    We email you only if yours goes in the book, plus the occasional note from The Ludarium. Unsubscribe anytime.{' '}
+    <a href="/privacy/">Privacy</a>
+  </p>
+</form>
+
+<style>
+  .malaphor {
+    display: grid;
+    gap: var(--space-5);
+    padding: var(--space-6);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-card);
+    background: var(--color-surface);
+    box-shadow: var(--shadow-md);
+  }
+
+  .malaphor__row {
+    display: grid;
+    grid-template-columns: 1fr 1.4fr;
+    gap: var(--space-4);
+  }
+
+  .malaphor label {
+    display: grid;
+    gap: var(--space-2);
+    font-size: var(--text-sm);
+    font-weight: 600;
+  }
+
+  .malaphor label span {
+    font-weight: 400;
+    color: var(--color-text-muted);
+  }
+
+  .malaphor input,
+  .malaphor textarea {
+    width: 100%;
+    padding: 0.7em 0.9em;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    background: var(--color-bg);
+    color: var(--color-text);
+    font: inherit;
+    font-weight: 400;
+    resize: vertical;
+  }
+
+  .malaphor__submit {
+    justify-self: start;
+  }
+
+  .malaphor__fine {
+    margin: 0;
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+
+  @media (max-width: 40rem) {
+    .malaphor__row {
+      grid-template-columns: 1fr;
+    }
+
+    .malaphor__submit {
+      justify-self: stretch;
+    }
+  }
+</style>

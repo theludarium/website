@@ -1,0 +1,40 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageIntro from '@/components/PageIntro.astro';
+---
+
+<BaseLayout
+  title="Malaphor received"
+  description="Thanks for sending a malaphor to The Ludarium. Confirm your email so we can reach you if it goes in the next volume of the field guide."
+  noindex
+>
+  <PageIntro
+    eyebrow="Got it"
+    title="Thank you. That one is going in the pile."
+    lede="One more step: open the email we just sent and click the button inside, so we can reach you if yours makes the book."
+  >
+    <ul class="thanks-tips">
+      <li>Do not see it? Check your spam or promotions folder.</li>
+      <li>Heard another one already? Send as many as you like.</li>
+    </ul>
+    <div class="thanks-actions">
+      <a class="button" href="/malaphors/">Send another</a>
+      <a class="button button--ghost" href="/articles/">Read something while you wait</a>
+    </div>
+  </PageIntro>
+</BaseLayout>
+
+<style>
+  .thanks-tips {
+    max-width: var(--width-content);
+    padding-left: 1.2em;
+    color: var(--color-text-muted);
+  }
+
+  .thanks-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-3);
+    margin-top: var(--space-6);
+  }
+</style>
