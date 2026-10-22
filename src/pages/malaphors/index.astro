@@ -4,7 +4,8 @@
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import MalaphorForm from '@/components/MalaphorForm.astro';
 import PreviewNote from '@/components/PreviewNote.astro';
-import { KIT_MALAPHOR_FORM, MALAPHOR_BOOK_URL } from '@/lib/config';
+import MalaphorBook from '@/components/MalaphorBook.astro';
+import { KIT_MALAPHOR_FORM } from '@/lib/config';
 ---
 
 <BaseLayout
@@ -49,6 +50,10 @@ import { KIT_MALAPHOR_FORM, MALAPHOR_BOOK_URL } from '@/lib/config';
     </div>
   </section>
 
+  <div class="container ml-book-wrap">
+    <MalaphorBook />
+  </div>
+
   <section class="section ml-faq" aria-labelledby="ml-faq-title">
     <div class="container">
       <h2 id="ml-faq-title" class="visually-hidden">Common questions</h2>
@@ -72,10 +77,6 @@ import { KIT_MALAPHOR_FORM, MALAPHOR_BOOK_URL } from '@/lib/config';
           </p>
         </li>
       </ul>
-      <p class="ml-book">
-        No copy yet? <a href={MALAPHOR_BOOK_URL} rel="noopener">We'll Burn That Bridge When We Get to It</a> is on
-        Amazon in paperback and Kindle.
-      </p>
     </div>
   </section>
 </BaseLayout>
@@ -202,15 +203,8 @@ import { KIT_MALAPHOR_FORM, MALAPHOR_BOOK_URL } from '@/lib/config';
     color: var(--color-text-muted);
   }
 
-  .ml-book {
-    margin: var(--space-6) 0 0;
-    font-size: var(--text-sm);
-    color: var(--color-text-muted);
-    text-align: center;
-  }
-
-  .ml-book a {
-    font-style: italic;
+  .ml-book-wrap {
+    padding-block: var(--space-4) var(--space-2);
   }
 
   @media (max-width: 56rem) {
