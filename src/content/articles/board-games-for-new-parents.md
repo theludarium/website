@@ -1,10 +1,10 @@
 ---
 title: "Board Games for New Parents: 20 Minutes, No Brain"
 description: "Board games for new parents with 20 minutes, no energy, and a baby who might wake up. Short, quiet, interruptible games that still feel like a night out."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Game Night
 tags: ["board games for new parents", "games for tired parents", "quick two player games", "games to play after baby sleeps", "couples games with a newborn", "interruptible board games", "Who it's for"]
-draft: true
+draft: false
 ---
 The best board games for new parents are short, quiet, easy to pause, and forgiving of a mind running on four hours of sleep. They also need to deliver something a phone does not: twenty minutes of sitting across from your partner or a friend, doing something together, before someone cries. This list is built for exactly that window.
 

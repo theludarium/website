@@ -1,10 +1,10 @@
 ---
 title: "Board Games for College Students: Dorm-Sized and Cheap"
 description: "Board games for college students that fit a dorm shelf, mostly cost under $25, play on a floor, and handle whoever shows up. Plus how to find a campus group."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Game Night
 tags: ["board games for college students", "dorm room games", "cheap board games", "small box games", "games for roommates", "campus board game club", "Who it's for"]
-draft: true
+draft: false
 ---
 The best board games for college students meet three constraints that most game lists ignore: they fit on a shelf the width of a textbook, they cost less than a week of coffee, and they work on a floor or a bed because there is no table. Everything below passes those tests. Most also handle a flexible player count, since "who's around" is the real number of players in a dorm.
 

@@ -1,10 +1,10 @@
 ---
 title: "How a Game Lounge Membership Works (vs a Cover Charge)"
 description: "How a game lounge membership works, what it usually includes, and why paying monthly beats a cover charge for players and owners alike. Costs and tiers."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Togethering
 tags: ["game lounge membership", "board game club membership", "board game cafe membership", "membership game lounge", "game lounge pricing", "tabletop membership", "Game lounges and third places"]
-draft: true
+draft: false
 ---
 A game lounge membership is a monthly or annual fee that gives you unlimited access to a venue's tables, library, and events, the way a gym membership gives you access to the weights. Instead of paying a cover each night, you pay for belonging. This article explains how the model works, what a membership typically includes, and why it is better for both the player and the place than the cover charge most board game cafes rely on.
 

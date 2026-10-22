@@ -1,10 +1,10 @@
 ---
 title: "Board Game Cafe vs Home Game Night: When Each Wins"
 description: "Board game cafe vs home game night, compared on cost, library, hosting work, noise, and who shows up. When to go out, when to stay in, and how to do both."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Game Guides
 tags: ["board game cafe vs home", "board game cafe worth it", "hosting game night at home", "game cafe pros and cons", "where to play board games", "game night ideas", "Comparisons"]
-draft: true
+draft: false
 ---
 Board game cafe vs home is a question most groups answer by habit rather than by thinking. Some groups always meet at someone's house. Some always go out. Both are missing something, because the two settings are good at different things, and the best game groups we know use each for what it does well.
 

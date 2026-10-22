@@ -1,10 +1,10 @@
 ---
 title: "Social Activities After Losing a Spouse: Finding a Table"
 description: "Gentle guidance on social activities after losing a spouse: why a standing game is easier than a dinner invitation, how to find one, and when to go slowly."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Togethering
 tags: ["social activities after losing a spouse", "widowed and lonely", "making friends after being widowed", "grief and isolation", "activities for widows", "rebuilding social life after loss", "Play and longevity"]
-draft: true
+draft: false
 ---
 Social activities after losing a spouse are hard to start for a reason nobody says out loud: most of them were built for two. The dinner party, the couples' trip, the Sunday visit. When one person is gone, the invitations keep coming for a while, then quietly stop, and the person left behind is expected to rebuild a social life from scratch at the worst possible time.
 

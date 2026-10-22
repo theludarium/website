@@ -1,10 +1,10 @@
 ---
 title: "Board Game Cafe Library: Curating 300 Games, Not 3,000"
 description: "How to build a board game cafe library that gets played. Why 300 curated games beat 3,000, how to pick them, and how to keep pieces from walking away."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Togethering
 tags: ["board game cafe library", "board game cafe game list", "game lounge library", "how many games does a board game cafe need", "curating a game collection", "board game library management", "Game lounges and third places"]
-draft: true
+draft: false
 ---
 A board game cafe library is the shelf customers see first and the thing owners get wrong most often. The instinct is to own everything. The reality is that a few hundred well-chosen games, each one teachable in five minutes by every person on staff, will outperform a wall of three thousand every night of the week. This article is about how to build that shelf, what belongs on it, and how to keep it from quietly falling apart.
 

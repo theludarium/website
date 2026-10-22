@@ -1,10 +1,10 @@
 ---
 title: "Corporate Team Building Cost: A Game Night Breakdown"
 description: "What is the real corporate team building cost for a game night? Rough per-person ranges for DIY, hosted, and full-service events, and what moves the price."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Togethering
 tags: ["corporate team building cost", "team building event pricing", "corporate game night cost", "team building budget per person", "hosted game night price", "offsite activity cost", "Games for the workplace"]
-draft: true
+draft: false
 ---
 Corporate team building cost is one of those numbers that vendors avoid putting on a website, which makes budgeting hard for the HR lead who just needs a figure for the spreadsheet. This article gives you one. More precisely, it gives you several ranges, from a do-it-yourself game night to a fully hosted event, with an explanation of what moves the price.
 

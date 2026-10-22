@@ -1,10 +1,10 @@
 ---
 title: "Game Night Calendar: A Full Year of Seasonal Programming"
 description: "A game night calendar for all twelve months: one themed night per month, matched to the season, with the games and the reason each one lands when it does."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Game Night
 tags: ["game night calendar", "seasonal game night ideas", "monthly game night themes", "year of game nights", "game night planning", "annual game night schedule", "Game night programming"]
-draft: true
+draft: false
 ---
 A game night calendar does for a group what a syllabus does for a class: it tells people what is coming, so they can decide to come. Most game groups program one week at a time, which means every week is a fresh negotiation about what to play and whether to bother. A calendar set once, in January, removes that friction for twelve months.
 

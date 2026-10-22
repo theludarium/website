@@ -1,10 +1,10 @@
 ---
 title: "Best Board Games of 2026 So Far: Our Running Picks"
 description: "The best board games of 2026 so far, judged on teach time, table feel, and replay. How we choose, what the bar is, and which new releases have cleared it."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Game Guides
 tags: ["best board games 2026", "new board games 2026", "top board games this year", "best new board games", "board game releases 2026", "board games worth buying 2026", "What to play"]
-draft: true
+draft: false
 ---
 A list of the best board games of 2026 should answer one question: which new releases are worth a place on a table that already has Codenames, Wingspan, and Ticket to Ride on it? The bar is high. Hundreds of games come out every year, and most of them are fine. A handful change what a game night looks like.
 
