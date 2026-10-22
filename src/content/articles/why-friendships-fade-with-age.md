@@ -14,7 +14,7 @@ This article explains the mechanics of the fade, what the research says about wh
 
 Think about how your closest friendships formed. Almost certainly in a setting that put you in the same room as the same people, repeatedly, without anyone having to plan it. School, a dorm, a first job, a team, a neighborhood full of young parents.
 
-Sociologists who study friendship point to a few conditions under which it forms: proximity, repeated unplanned interaction, and a setting that encourages people to let their guard down. Adult life removes all three in sequence.
+The sociologist Rebecca G. Adams [told The New York Times](https://www.nytimes.com/2012/07/15/fashion/the-challenge-of-making-friends-as-an-adult.html) that sociologists since the 1950s have seen three conditions as key to close friendship: proximity, repeated unplanned interaction, and a setting that encourages people to let their guard down. Adult life removes all three in sequence.
 
 **Proximity goes first.** People move for jobs and partners. The friend who was ten minutes away is now a flight away.
 

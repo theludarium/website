@@ -22,7 +22,7 @@ It is worth saying that the Blue Zones framing has critics. The Oxford researche
 
 More than you'd expect, once you look for it.
 
-In Sardinia, Buettner [describes](https://danbuettner.com/2022/03/sardinias-blue-zone-lessons/) elders who gather in the street each afternoon to laugh with and at each other, and a University of Cagliari researcher who studies the island's centenarians [told The Telegraph](https://media.blacktomato.com/2023/11/The-Telegraph-13.08.22-The-secret-of-a-long-life-Ask-a-Sardinian.pdf) that the old people in his village meet in the square after lunch to chat and play cards. The game is the excuse. The daily contact with the same people is the substance.
+In Sardinia, Buettner [describes](https://danbuettner.com/2022/03/sardinias-blue-zone-lessons/) men who gather in the street each afternoon to laugh with and at each other, and a University of Cagliari researcher who studies the island's centenarians [told CNN](https://www.cnn.com/2018/02/06/health/sardinia-centenarian-village-tiana/index.html) that the old people in his village meet in the square after lunch to chat and play cards. The game is the excuse. The daily contact with the same people is the substance.
 
 In Okinawa, the key institution is the moai, a small group of friends who commit to each other for life, meeting regularly, pooling money when someone needs it, and showing up in illness and grief. [Buettner's organization reports](https://www.bluezones.com/2018/08/moai-this-tradition-is-why-okinawan-people-live-longer-better/) moai that have lasted more than 90 years, with members visiting a couple of days a week for tea and conversation. Not every moai plays games, but the structure is the same one a weekly card table creates: fixed people, fixed time, no agenda beyond being there.
 
@@ -100,7 +100,7 @@ The Ludarium in Indianapolis is designed to be the plaza: a place with tables, g
 - Power 9, Blue Zones: https://www.bluezones.com/2016/11/power-9/
 - Do people in blue zones actually live longer?, Popular Science: https://www.popsci.com/health/do-people-in-blue-zones-actually-live-longer/
 - Sardinia's Blue Zone Lessons, Dan Buettner: https://danbuettner.com/2022/03/sardinias-blue-zone-lessons/
-- The secret of a long life? Ask a Sardinian, The Telegraph (reprint): https://media.blacktomato.com/2023/11/The-Telegraph-13.08.22-The-secret-of-a-long-life-Ask-a-Sardinian.pdf
+- Socializing is helping these Sardinians live longer, CNN: https://www.cnn.com/2018/02/06/health/sardinia-centenarian-village-tiana/index.html
 - Moai: This Tradition is Why Okinawan People Live Longer, Better, Blue Zones: https://www.bluezones.com/2018/08/moai-this-tradition-is-why-okinawan-people-live-longer-better/
 - Social Relationships and Mortality Risk: A Meta-analytic Review, PLOS Medicine: https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316
 - Good genes are nice, but joy is better, Harvard Gazette: https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/

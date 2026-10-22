@@ -1,10 +1,10 @@
 ---
 title: "Game Night in Indianapolis: A Weekly Public Guide"
 description: "Public game nights in Indianapolis by day of the week. Free brewery meetups, store Commander nights, library afternoons, and how to walk into any of them."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Game Culture
 tags: ["game night Indianapolis", "board game night Indianapolis", "Indianapolis board game meetup", "public game night near me Indianapolis", "brewery board game night Indy", "free game night Indianapolis", "Indianapolis"]
-draft: true
+draft: false
 ---
 If you want a game night in Indianapolis this week and do not have a group, there is a public table for you on almost every night of the week. Some are free meetups in brewery back rooms. Some are store events with a small fee. One is a library afternoon for adults only. This guide sorts the confirmed ones by day so you can match a night to your calendar, then explains how to walk into a room of strangers and leave with a game.
 
@@ -24,26 +24,26 @@ Three kinds, and they feel different.
 
 | Day | Event | Where | Cost |
 |---|---|---|---|
-| Monday | Indy Board Game Nomads at Red Lion Grog House (21+) | Fountain Square | Free |
+| Monday (every other week) | Indy Board Game Nomads at Red Lion Grog House (21+), 6:30 p.m. | 1043 Virginia Ave, Fountain Square | Free |
 | Monday (every other week) | Indy Board Game Nomads at St. Joseph Brewery, Choir Hall upstairs | 540 N College Ave, downtown | Free |
 | Tuesday | [Game Night Social](https://www.garageindy.com/entertainment) at The Garage food hall, 6–9 p.m., hosted by Lou Harry | 906 Carrollton Ave, Bottleworks | Free, all ages |
 | Wednesday | Lorcana league at Good Games | 111 S Meridian St, downtown | Check store |
-| Thursday | Indy Board Game Nomads at Voodoo Brewing | Fishers | Free |
+| Thursday (every other week) | Indy Board Game Nomads at Voodoo Brewing, 6:30 p.m. | 8729 Front St, Fishers | Free, all ages |
 | First Thursday, 2 to 4 p.m. | Shuffle & Roll, adults only | Hamilton East Public Library, Fishers | Free |
 | Friday | Friday Night Magic at Moonshot Games | 50 N 9th St, Noblesville | Entry fee |
 | Saturday | Pokémon League at Good Games | Downtown | Check store |
 | Sunday | Free Casual Commander at Good Games | Downtown | Free |
 
-Sources: [Indy Board Game Nomads](https://www.meetup.com/indybgnomads/), [Good Games calendar](https://meetup.com/goodgames), [Shuffle & Roll](https://fishersin.gov/event/shuffle-roll/), [Moonshot Games](https://moonshotgamestore.com/), [Indianapolis Monthly](https://www.indianapolismonthly.com/arts-and-culture/circle-city/fun-gen-con-alternatives/) for The Garage. The Indianapolis Public Library also runs [family game nights at Central Library](https://attend.indypl.org/event/16309333) and branches; dates vary, so check the calendar.
+Sources: [Indy Board Game Nomads](https://www.meetup.com/indybgnomads/), [Good Games calendar](https://meetup.com/goodgames), [Shuffle & Roll](https://fishersin.gov/event/shuffle-roll/), [Moonshot Games](https://moonshotgamestore.com/), [The Garage](https://www.garageindy.com/entertainment). The Indianapolis Public Library also runs [family game nights](https://attend.indypl.org/) at branches such as College Avenue and Haughville; dates vary, so check the calendar.
 
 ## Which night is right for a first-timer?
 
 It depends on what you want the night to feel like.
 
 - **You want to learn without pressure.** Shuffle & Roll at the Fishers library. Daytime, adults, free, and the staff bring the games.
-- **You want a beer and a big table.** Any Indy Board Game Nomads night. Monday at St. Joseph Brewery has a dedicated upstairs room and food; Thursday at Voodoo in Fishers is the north-side option.
+- **You want a beer and a big table.** Any Indy Board Game Nomads night. Every other Monday at St. Joseph Brewery has a dedicated upstairs room and food; Every other Thursday at Voodoo in Fishers is the north-side option.
 - **You already have a Commander deck.** Sunday at Good Games. Free, casual, and downtown.
-- **You are bringing kids.** The Garage on a Tuesday evening or a library family night. Brewery nights are adult rooms.
+- **You are bringing kids.** The Garage on a Tuesday evening or a library family night. Red Lion is 21+, but the Voodoo night in Fishers is listed as all ages.
 - **You want a specific hobby game.** Store events. See our [Indianapolis store guide](/articles/indianapolis-board-game-stores/) for the full list by neighborhood.
 
 *If this is useful, the newsletter sends more like it.*
@@ -65,17 +65,15 @@ A longer version of this, including what to do if the table is cliquey, is in ou
 
 Look at the table again and two gaps stand out.
 
-**Weekend evenings.** Friday and Saturday nights have store events for Magic and Pokémon but no confirmed general board game meetup. Most people are free on exactly those nights.
+**Weekend evenings.** Saturday nights have store events for Magic and Pokémon but no confirmed general board game meetup. Friday has one: a weekly board game night at Family Time Games on Michigan Road. Most people are free on exactly those nights.
 
-**Westfield and the far north.** Fishers and Noblesville are covered. Carmel has store nights. Westfield has nothing public we could confirm. <!-- EDITOR: add if verified. -->
+**Westfield and the far north.** Fishers and Noblesville are covered. Carmel has store nights. Westfield has no public board game night, game store, or game cafe we could confirm. The Westfield library does host regular euchre, mahjong, and bridge afternoons for adults.
 
 Gaps like these are usually filled by one person willing to be at the same table at the same time every week for two months. If you are that person, we wrote [how to start a game night group](/articles/how-to-start-a-game-night-group/). Tell us when you do and we will list it.
 
-## What is The Ludarium adding to the calendar?
+## What would The Ludarium add to the calendar?
 
-The missing nights. The Ludarium is building a membership game lounge in Indianapolis, and the first thing it adds to the city, before the doors open, is public game nights: Friday and Saturday evenings, taught tables for beginners, and a standing north-side night. When the lounge opens, the public nights continue; members get the reserved seats and the library, and the city gets a room that is for playing and nothing else.
-
-The schedule will be announced in the newsletter as each night is set.
+The missing nights. The Ludarium is building a membership game lounge in Indianapolis, and the gaps above are the ones we most want it to fill: weekend evenings, taught tables for beginners, and a standing north-side night. Members would get reserved seats and the library, and the city would get a room that is for playing and nothing else.
 
 ## FAQ
 
@@ -85,7 +83,7 @@ Yes. Indy Board Game Nomads runs free meetups at Red Lion Grog House, St. Joseph
 
 ### Where is a board game night in Fishers or Carmel?
 
-Thursdays at Voodoo Brewing in Fishers with Indy Board Game Nomads, and the first-Thursday Shuffle & Roll at the Fishers library. Carmel's options are store events at Hero's Emporium and Next Level Games.
+Every other Thursday at Voodoo Brewing in Fishers with Indy Board Game Nomads, and the first-Thursday Shuffle & Roll at the Fishers library. Carmel's options are store events at Hero's Emporium and Next Level Games.
 
 ### Do I need to bring a game to a public game night?
 
@@ -93,10 +91,10 @@ No. Most groups and venues have games on hand. Bringing one short, teachable gam
 
 ### Are Indianapolis game nights kid-friendly?
 
-Brewery meetups are adult rooms, and Red Lion is 21+. The Garage food hall's Tuesday night and library family nights welcome kids.
+Most brewery meetups are adult rooms, and Red Lion is 21+. The Garage food hall's Tuesday night and library family nights welcome kids.
 
 ## Pick a night
 
 There is a table in this city with a seat open for you tonight or tomorrow. The game is the reason. The people are the point.
 
-For the calendar as it changes, new public nights as they start, and The Ludarium's own game nights before the lounge opens, subscribe to the newsletter. Short emails with one night worth leaving the house for.
+For new Indianapolis pieces and news of The Ludarium's lounge as it takes shape, subscribe to the newsletter. Short emails, and it is free.
