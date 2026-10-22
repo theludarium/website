@@ -1,10 +1,10 @@
 ---
 title: "Pauper Cube Guide: Commons Only, Full Depth"
 description: "A pauper cube construction guide: section counts for 360 and 540, the ten archetypes, the commons that anchor each, and where commons-only design bends."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Magic & Cube
 tags: ["pauper cube", "pauper cube list", "commons only cube", "pauper cube archetypes", "pauper cube section counts", "build a pauper cube", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 A pauper cube is a cube where every card has been printed at common at least once. That single rule removes nearly every bomb, most of the planeswalkers, and all of the fast mana, and leaves a format where games are decided by sequencing, combat, and card selection. It is the second cube most owners build, and for a lot of groups it becomes the first one they reach for.
 

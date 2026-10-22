@@ -1,10 +1,10 @@
 ---
 title: "How MTGO Vintage Cube Updates Work (2026 Cadence)"
 description: "How MTGO Vintage Cube updates work in 2026: who curates the list, how often it changes, how big a swap list is, and where to find the official card list."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Magic & Cube
 tags: ["Vintage Cube update", "MTGO Vintage Cube changelist", "Vintage Cube curator", "Vintage Cube card list", "Chris Wolf Vintage Cube", "Magic Online cube", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 A Vintage Cube update on Magic Online is a set-timed swap list. A week or a few after a new Magic set arrives on MTGO, the Cube curator posts an article on mtgo.com with the cards coming in, the cards going out, and a short reason for each. The new list goes live when the next Vintage Cube League starts, usually the following Wednesday.
 

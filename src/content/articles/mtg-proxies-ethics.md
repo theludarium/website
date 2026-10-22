@@ -1,10 +1,10 @@
 ---
 title: "MTG Proxies: Ethics, Etiquette, and Playing on a Budget"
 description: "Are MTG proxies cheating, theft, or common sense? A clear look at the ethics, where proxies are welcome, where they are not, and how to use them well."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Magic & Cube
 tags: ["MTG proxies", "are proxies allowed in Magic", "proxy etiquette", "playtest cards", "proxy cube", "counterfeit vs proxy", "Magic: The Gathering and Cube"]
-draft: true
+draft: false
 ---
 MTG proxies are stand-in cards that represent a real Magic card you do not own. A proxy can be a basic land with "Black Lotus" written on it in marker, a color printout in a sleeve, or a professionally printed card that looks nearly like the original. They are not legal in sanctioned tournaments, apart from a judge-issued stand-in for a card damaged during the event. In casual play, which is most Magic, whether they belong at the table is a question of ethics and etiquette, and this article tries to answer it plainly.
 

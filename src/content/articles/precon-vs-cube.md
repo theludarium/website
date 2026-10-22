@@ -1,10 +1,10 @@
 ---
 title: "Precon vs Cube: Which Fits Your Table?"
 description: "Precon vs cube: setup time, cost, player count, and skill spread compared, plus the middle options of battle box, Jumpstart, and a precon cube for your table."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Magic & Cube
 tags: ["precon vs cube", "preconstructed decks magic", "battle decks vs cube", "best way to play magic casually", "precon cube", "two player magic options", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Preconstructed decks and cubes are the two ways a group plays Magic without anyone building a deck at home. A precon is a finished deck in a box: open it, shuffle, play. A cube is a box of singles you draft into decks at the table. One takes two minutes to start and the other takes an hour before the first game, and the hour is the part cube players love and precon players dread.
 

@@ -1,10 +1,10 @@
 ---
 title: "How to Update a Cube Without Breaking It"
 description: "A cube update process that keeps what works: when to change cards, how to swap slot for slot, how to track the results, and how to tell your drafters."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Magic & Cube
 tags: ["cube update", "how to update a cube", "cube changelog", "cube maintenance", "cube testing", "cube new set review", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 A good cube update changes a handful of cards for a reason you can state, swaps them slot for slot, and gets written down so you can undo it. A bad one adds twenty new cards from the latest set, cuts whatever was nearest to hand, and leaves the group wondering why the Rakdos deck stopped working.
 

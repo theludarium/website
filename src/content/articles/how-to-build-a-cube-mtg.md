@@ -1,10 +1,10 @@
 ---
 title: "How to Build a Cube MTG: Your First Cube Under $200"
 description: "Learn how to build a cube MTG players will want to draft again. A step-by-step plan for a 360-card first cube under $200, from card list to sleeves to box."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Magic & Cube
 tags: ["how to build a cube MTG", "budget cube", "first cube", "360 card cube", "cube card list", "cube on a budget", "Magic: The Gathering and Cube"]
-draft: true
+draft: false
 ---
 If you want to know how to build a cube MTG friends will actually ask to draft again, start small, copy a proven list, and resist the urge to make it clever. A 360-card cube supports eight drafters, can cost under $200 if you build at the pauper level, and will be ready to shuffle in a few weekends. This guide walks through every decision in order, from card count to the box it lives in.
 

@@ -1,10 +1,10 @@
 ---
 title: "How to Evaluate New Cards for Cube: A Working Method"
 description: "How to evaluate new cards for cube the way experienced owners do: by slot, not by hype. A repeatable method you can use to read every new Magic set as it lands."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Magic & Cube
 tags: ["evaluate cards for cube", "cube card evaluation", "new set cube", "cube testing", "cube power level", "cube slot", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 The fastest way to evaluate cards for cube is to stop asking "is this card good?" and start asking "which card in my cube does this replace?" A new set has 250 to 300 cards. Your cube has a fixed number of slots, and almost all of them are already filled by something that earned its place. A new card has to beat an incumbent, in that color, at that cost, doing that job. Once you frame it that way, 95 percent of a spoiler season evaluates itself in an afternoon.
 

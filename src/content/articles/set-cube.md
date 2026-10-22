@@ -1,10 +1,10 @@
 ---
 title: "Set Cube: Recreate a Draft Format Forever"
 description: "How to build a set cube that recreates a draft format forever: rarity ratios, pack construction, duplicates, and the Innistrad example that shows the math."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Magic & Cube
 tags: ["set cube", "set cube rarity ratio", "recreate draft format", "Innistrad set cube", "triple set cube", "booster cube", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 A set cube is a cube that rebuilds one retail draft format so you can draft it whenever you like, long after the boosters are gone. Triple Innistrad. Khans of Tarkir. Rise of the Eldrazi. Modern Horizons 2. The best draft formats last about three months in stores, and a set cube is how a playgroup keeps one.
 

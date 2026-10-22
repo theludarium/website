@@ -1,10 +1,10 @@
 ---
 title: "Pauper Cube vs Vintage Cube: Which Fits Your Group?"
-description: "Pauper cube vs vintage cube: one costs a little over $100, the other has Black Lotus. How each one plays, which groups each suits, and which you should build first."
-pubDate: 2026-10-18
+description: "Pauper cube vs vintage cube: one costs about $100, the other has Black Lotus. How each one plays, which groups each suits, and which you should build first."
+pubDate: 2026-10-22
 category: Magic & Cube
 tags: ["pauper cube", "vintage cube", "powered cube", "commons only cube", "budget cube vs powered cube", "which cube to build", "Magic: The Gathering and Cube"]
-draft: true
+draft: false
 ---
 A pauper cube is built only from commons and costs about what a nice dinner for two costs. A vintage cube is built from the most powerful cards ever printed and can cost more than a car, unless you proxy it. They are the two poles of the cube hobby, and the right one for your group depends less on your budget than on what kind of evening you want to have.
 
