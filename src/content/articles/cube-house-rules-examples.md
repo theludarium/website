@@ -1,12 +1,12 @@
 ---
 title: "Cube House Rules Examples: Twelve Worth Borrowing"
 description: "Twelve cube house rules examples from primers we admire: pick clocks, lands, mulligans, proxies, vouchers, and more, each with the exact wording to copy."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Magic & Cube
 tags: ["cube house rules examples", "cube house rules", "cube draft rules", "cube primer rules", "casual Magic house rules", "cube night rules", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
-The best cube house rules examples share one trait: they are written down. A rule that lives in the owner's head is a surprise for every new drafter. A rule in the primer is a promise. Below are twelve rules we have borrowed, adapted, or envied from public cube primers, with the wording we use and the reason each exists.
+The best cube house rules examples share one trait: they are written down. A rule that lives in the owner's head is a surprise for every new drafter. A rule in the primer is a promise. Below are twelve rules we have borrowed, adapted, or envied from public cube primers, with wording you can use and the reason each exists.
 
 None of these is a standard. Every one is a choice, and the point of collecting them is to show what the choices are. For how to write the rules into your own primer, see [house rules worth writing down](/articles/cube-house-rules/); this article is the list that article asks you to fill in.
 
@@ -34,7 +34,7 @@ Borrowed from the way online drafts auto-pick for a disconnected player. It is t
 
 *Wording:* "Proxies are allowed for any card. They are printed in color, sleeved to match, and listed in the primer as proxies. Nobody is asked to buy a card to play here."
 
-The majority of power cubes run proxies for the expensive slots, and the honest ones say so on the first page of the primer. Declaring it removes the awkward conversation when a new drafter opens a pack with a photocopy of a Mox in it. The ethics are covered in our proxies article.
+Many power cubes run proxies for the expensive slots, and the honest ones say so on the first page of the primer. Declaring it removes the awkward conversation when a new drafter opens a pack with a photocopy of a Mox in it. The ethics are covered in our proxies article.
 
 ## During the draft
 
@@ -48,13 +48,13 @@ Adapted from the tournament schedule in MTR Appendix B, which starts at 40 secon
 
 *Wording:* "Keep your picks in a face-down stack. You may look at them between packs, not during."
 
-A Rochester rule in origin, where the MTR forbids reviewing picks during a pack. It stops the mid-pack spread-and-recount that costs the table a minute every time, and it forces drafters to hold their plan in their head, which is a skill.
+It matches the booster draft rule at Competitive level, where the MTR lets players review picks only between packs. It stops the mid-pack spread-and-recount that costs the table a minute every time, and it forces drafters to hold their plan in their head, which is a skill.
 
 **6. One hate-draft is announced.**
 
 *Wording:* "Once per draft, a player may announce 'hate' as they take a card. The card is shown to the table and placed face up. It may not be played in that player's main deck, only sideboarded in."
 
-This one is ours, adapted from team-draft conventions. It gives hate-drafting a cost, a ceremony, and a story. It also prevents the "I hate-drafted it, then I splashed it" play that irritates everyone. Some groups allow it only in team formats; we allow it once a night in any format and the table enjoys the reveal.
+This one is adapted from team-draft conventions. It gives hate-drafting a cost, a ceremony, and a story. It also prevents the "I hate-drafted it, then I splashed it" play that irritates everyone. Some groups allow it only in team formats; once a night in any format works too, and the table enjoys the reveal.
 
 *If this is useful, the newsletter sends more like it.*
 
@@ -64,7 +64,7 @@ This one is ours, adapted from team-draft conventions. It gives hate-drafting a 
 
 *Wording:* "Basic lands are provided, as many as you need. Each basic type comes in two arts so you can tell your deck's lands from a borrowed set."
 
-Every cube provides basics. The two-art rule is from a well-organized community cube whose owner got tired of sorting mixed Islands at midnight. <!-- EDITOR: confirm attribution or leave generic --> Small, practical, and it saves ten minutes of clean-up.
+Every cube provides basics. The two-art rule is a common fix for owners tired of sorting mixed Islands at midnight. Small, practical, and it saves ten minutes of clean-up.
 
 **8. Twenty-five minutes to build, then a five-minute warning.**
 
@@ -90,13 +90,13 @@ Multiplayer formats, Two-Headed Giant included, [already give a free first mulli
 
 *Wording:* "Matches are best of three with sideboarding. Two minutes between games. Before each new match, return to the deck you built."
 
-This is the tournament rule, stated so nobody has to ask. The reset matters: it keeps the drafted deck the deck of record, and it stops a player from rebuilding into a different deck for round two. Sideboard specifics are in our sideboarding article.
+This mirrors Competitive tournaments, where decks are registered and reset before each match. Casual events without decklists let players change decks between matches, so the reset needs saying. The reset matters: it keeps the drafted deck the deck of record, and it stops a player from rebuilding into a different deck for round two. Sideboard specifics are in our sideboarding article.
 
 **12. Rounds end at the clock, and the game on the table finishes.**
 
 *Wording:* "Rounds are 50 minutes. When the clock ends, finish the game in progress with five extra turns. Unfinished matches are draws. Nobody plays to the end of a match after time."
 
-The tournament procedure gives five turns after time is called; we use five because three, the Two-Headed Giant number, is too few for a board stall. The draw rule removes the slow-play incentive, and the group's standing record treats a draw as half a win. How we keep records without it feeling like a tournament is in our pairings-and-records article.
+The tournament procedure gives five turns after time is called; five is better than three, the Two-Headed Giant number, which is too few for a board stall. The draw rule removes the slow-play incentive, and a standing record can treat a draw as half a win.
 
 ## Which of these should you adopt?
 
@@ -139,4 +139,4 @@ More than a new player can hear in two minutes. Four to six core rules, read alo
 
 Every rule on this list exists to make the next person at the table comfortable: they know when to arrive, how long they have, what the proxy is, and what happens when time is called. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for new house rules and formats, each one ready to paste into your primer. Indianapolis readers can see all twelve running at once at [Cube Commonwealth](/articles/cube-draft-indianapolis/), and argue about which ones to change.
+Subscribe to The Ludarium newsletter for new house rules and formats, each one ready to paste into your primer. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

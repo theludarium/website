@@ -1,18 +1,18 @@
 ---
 title: "TMNT Cube Review: Sneak, Super Shredder, Casey Jones"
 description: "Teenage Mutant Ninja Turtles cube review: sneak creatures, Super Shredder, Casey Jones, Cool but Rude, and Krang, each rated by slot for every tier of cube."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Magic & Cube
 tags: ["Teenage Mutant Ninja Turtles cube", "TMNT MTG cube", "sneak mechanic cube", "Super Shredder cube", "Krang Utrom Warlord cube", "Universes Beyond cube", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Magic: The Gathering | Teenage Mutant Ninja Turtles <!-- AFFILIATE --> released on March 6, 2026, and the Teenage Mutant Ninja Turtles cube question has a clear answer: a small set with a few sharp cards and a mechanic, sneak, that cubes with ninja-style tempo decks will like. It is a shorter review than most because the set is smaller, 190 cards in the draftable main set per [Beckett's checklist](https://www.beckett.com/news/magic-the-gathering-teenage-mutant-ninja-turtles-tcg-checklist-and-set-details/), and because most of its legends are built for Commander. Calls below follow [the slot method](/articles/how-to-evaluate-new-cards-for-cube/).
 
-Set code TMT, tabletop release March 6, 2026, legal in all formats including Standard, per the [Wizards collecting article](https://magic.wizards.com/en/news/feature/collecting-teenage-mutant-ninja-turtles). Card text is paraphrased from Card Kingdom and mtg.wtf listings.
+Set code TMT, tabletop release March 6, 2026, legal in Standard, Pioneer, Modern, Legacy and Vintage, per the [Wizards collecting article](https://magic.wizards.com/en/news/feature/collecting-teenage-mutant-ninja-turtles). Card text is paraphrased from Card Kingdom and mtg.wtf listings.
 
 ## What does the set do, in one paragraph?
 
-**Sneak** is ninjutsu by another name: during combat, return an unblocked attacker to hand and put the sneak creature onto the battlefield attacking, for its sneak cost. **Mutagen** tokens are artifacts that sacrifice for a +1/+1 counter. **Classes** return as leveling enchantments. Several legends care about artifacts and +1/+1 counters. For cube, sneak is the mechanic that travels, because it slots into existing tempo lanes, and the artifact-matters cards travel if you have an artifact theme.
+**Sneak** is ninjutsu cast as a spell: during the declare blockers step, return an unblocked attacker to hand and cast the sneak card for its sneak cost. A creature enters tapped and attacking. **Mutagen** tokens are artifacts that sacrifice for a +1/+1 counter. **Classes** return as leveling enchantments. Several legends care about artifacts and +1/+1 counters. For cube, sneak is the mechanic that travels, because it slots into existing tempo lanes, and the artifact-matters cards travel if you have an artifact theme.
 
 ## Which sneak creatures are cube cards?
 
@@ -49,7 +49,7 @@ The four turtles each have a sneak version. They are compared with Ninja of the 
 - **Cool but Rude** ({1}{R}, Class; level 1: discard to draw on attack; level 2 for {1}{R}: 2 damage to each opponent per discard; level 3 for {1}{R}: tutor then discard at random). **Slot:** red / 2 / aggro engine. **Call: test.** A two-mana enchantment that filters every attack and later turns each discard into a Shock. Red decks with Faithless Looting effects want this.
 - **Ninja Teen** ({2}{B}, Class; drain 1 when your creature leaves; level 2 for {1}{B}: +1/+0 and menace; level 3 for {B}: creature cards in your graveyard have sneak {3}{B}). **Call: pass** for most cubes; test in black aristocrats.
 - **Splinter's Technique** ({3}{B}, sorcery; sneak {1}{B}; search your library for a card). **Slot:** black / 4 / tutor. **Call: test.** A four-mana Demonic Tutor, or a two-mana one when you have an unblocked attacker to return. The cheap mode is often available in a tempo deck.
-- **The Ooze** ({2}, legendary artifact; makes Mutagen tokens when a countered creature leaves; tap to exile a card from a graveyard and make a Mutagen). **Call: pass.** The graveyard hate mode is slow.
+- **The Ooze** ({2}, legendary artifact; makes Mutagen tokens when your creature with +1/+1 counters leaves; tap to exile a card from a graveyard and make a Mutagen). **Call: pass.** The graveyard hate mode is slow.
 - **Improvised Arsenal** ({1}{R}, Equipment: +1/+0 per artifact you control; equip {R}; {4}{R} copies itself). **Call:** test in artifact cubes, pass elsewhere.
 - **Ravenous Robots** ({1}{R}, 2/1 artifact creature; makes a 1/1 Robot when you cast an artifact; {R}, tap: your tokens gain haste). **Call: test** in artifact aggro lanes.
 - **Turtles in Time** ({5}{U}{U}, sorcery: bounce all creatures, each player may shuffle hand and graveyard into library and draw seven). **Call: pass.** Timetwister with a seven-mana price.
@@ -88,8 +88,8 @@ Only as a cheat target. Nine mana is not a cost cube decks pay. If your cube run
 
 ### Which TMNT cards fit a Pauper cube?
 
-We confirmed only rares and mythics for this review, so we are not making common-level calls here. Check the full spoiler against your list. <!-- EDITOR: confirm -->
+We focused on rares and mythics, but a few commons stand out. Manhole Missile ({1}{R} instant: 3 damage to a creature, plus an optional rummage) is efficient removal. Anchovy & Banana Pizza ({2}{B}{B} artifact: destroy a creature on entry, later gain 3) is removal that leaves a Food. Buzz Bots ({1}{U} flying, vigilance artifact creature that draws when it dies) is an evasive two-drop that replaces itself. Frog Butler ({1}{G} deathtouch dork that taps for any color) fixes and blocks.
 
 ## Test them at the table
 
-Super Shredder, Casey Jones and Cool but Rude are proxied for the next three Cube Commonwealth nights in Indianapolis. [Come draft with us](/articles/cube-draft-indianapolis/) and tell us which turtle you would keep. Subscribe to the newsletter for the one-month follow-up. The game is the reason. The people are the point.
+If your group allows Universes Beyond cards, Super Shredder, Casey Jones and Cool but Rude are the three to try first, proxied for a few drafts before you buy. Subscribe to The Ludarium newsletter for new set reviews, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, sets its first night as part of The Ludarium. The game is the reason. The people are the point.

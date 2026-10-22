@@ -314,23 +314,23 @@ Have `<!-- EDITOR -->` notes only Levi can fill, mostly Cube Commonwealth facts 
 - `building-a-game-lounge-library`: Building a Game Lounge Library: Our First 100 Games
 - `choosing-a-space-for-a-game-lounge`: Game Cafe Location: What We Want in a First Space
 - `community-owned-cube`: The Community Cube: Letting Members Shape the List
-- `conspiracy-cards-in-cube`: Conspiracy Cards in Cube: Cogwork Librarian and Friends
+- `conspiracy-cards-in-cube`: Conspiracy Cards in Cube: Cogwork Librarian and Friends (published 2026-10-22)
 - `corporate-game-nights-before-a-space`: Corporate Game Night Business: Why Events Come First
-- `cube-changelog`: Keeping a Cube Changelog (and Why Drafters Love It)
+- `cube-changelog`: Keeping a Cube Changelog (and Why Drafters Love It) (published 2026-10-22)
 - `cube-commonwealth`: Cube Commonwealth: A Community Around One Cube
 - `cube-commonwealth-cube-history`: Cube Commonwealth History: Where Our Cube Came From
 - `cube-commonwealth-primer`: The Cube Commonwealth Primer
 - `cube-draft-indianapolis`: Cube Draft Indianapolis: Cube Commonwealth and How to Join
 - `cube-for-new-magic-players`: Learn Magic With a Cube: Our New-Player Night
-- `cube-house-rules-examples`: Cube House Rules Examples: Twelve Worth Borrowing
+- `cube-house-rules-examples`: Cube House Rules Examples: Twelve Worth Borrowing (published 2026-10-22)
 - `cube-league-format`: Cube League Format That Doesn't Punish Missing a Week
 - `cube-mana-fixing`: Cube Mana Fixing: How Much, Which Kind, Where
-- `cube-set-review-lorwyn-eclipsed`: Lorwyn Eclipsed Cube Review: Bloom Tender, Oko, Shocks
-- `cube-set-review-secrets-of-strixhaven`: Secrets of Strixhaven Cube Review: Erode, Emeritus, Bolt
-- `cube-set-review-teenage-mutant-ninja-turtles`: TMNT Cube Review: Sneak, Super Shredder, Casey Jones
+- `cube-set-review-lorwyn-eclipsed`: Lorwyn Eclipsed Cube Review: Bloom Tender, Oko, Shocks (published 2026-10-22)
+- `cube-set-review-secrets-of-strixhaven`: Secrets of Strixhaven Cube Review: Erode, Emeritus, Bolt (published 2026-10-22)
+- `cube-set-review-teenage-mutant-ninja-turtles`: TMNT Cube Review: Sneak, Super Shredder, Casey Jones (published 2026-10-22)
 - `cube-sleeves-and-storage`: Cube Sleeves and Storage: What Lasts Through Weekly Play
 - `cube-spotlight-template`: Cube Spotlight Template: Profile a Member's Cube
-- `cube-visual-spoiler`: Cube Visual Spoiler: Showing Your Cube at a Glance
+- `cube-visual-spoiler`: Cube Visual Spoiler: Showing Your Cube at a Glance (published 2026-10-22)
 - `cubecobra-guide`: CubeCobra Guide: Listing, Testing, and Sharing a Cube
 - `discord-setup-for-a-game-group`: Discord for a Game Group: Channels, Roles, Weekly Post
 - `dnd-groups-carmel-fishers`: D&D in Carmel, Fishers, and Westfield: Where to Play
@@ -342,26 +342,26 @@ Have `<!-- EDITOR -->` notes only Levi can fill, mostly Cube Commonwealth facts 
 - `game-lounge-lessons-learned`: Starting a Board Game Cafe: Mistakes We've Already Made
 - `game-lounge-membership-model`: Game Lounge Membership Model: How the Math Works
 - `gen-con-first-timer-guide`: Gen Con for First-Timers: What to Know Before You Go
-- `glimpse-draft`: Glimpse Draft for Cube: Burn Two, Keep One
+- `glimpse-draft`: Glimpse Draft for Cube: Burn Two, Keep One (published 2026-10-22)
 - `hamilton-county-tabletop-scene`: Hamilton County, Indiana Board Games: The Local Scene
 - `how-to-get-eight-players-for-a-draft`: Cube Draft Attendance: How to Get Eight Players Weekly
 - `how-to-run-a-board-game-tournament`: How to Run a Board Game Tournament: Brackets and Seeding
 - `how-to-support-the-ludarium`: How to Support a Local Game Cafe Before It Opens
 - `indianapolis-game-nights`: Game Night in Indianapolis: A Weekly Public Guide
 - `lev-institute-and-the-ludarium`: Longevity and Social Connection: Why LEV Runs a Game Lounge
-- `mtgo-legacy-cube`: MTGO Legacy Cube: Vintage's Honest Cousin
+- `mtgo-legacy-cube`: MTGO Legacy Cube: Vintage's Honest Cousin (published 2026-10-22)
 - `reference-cubes-we-follow`: Reference Cubes We Follow and Why (2026 List)
 - `relaunching-a-game-community`: How to Relaunch a Game Group After It Went Quiet
 - `running-two-draft-pods`: Draft Pod Logistics: 16 Players, Two Pods, One Host
-- `sharing-a-cube-primer`: Share a Cube Primer: CubeCobra, Discord, or Print
+- `sharing-a-cube-primer`: Share a Cube Primer: CubeCobra, Discord, or Print (published 2026-10-22)
 - `social-fitness`: Social Fitness: Train Your Relationships Like a Muscle
 - `social-prescribing-game-nights`: Social Prescribing: Doctors Who Recommend Game Nights
 - `the-pauper-cube`: The Pauper Cube: A Community-Maintained Classic
-- `track-cube-changes-tools`: Track Cube Changes: CubeCobra, Diffs, and Lists
+- `track-cube-changes-tools`: Track Cube Changes: CubeCobra, Diffs, and Lists (published 2026-10-22)
 - `variance-in-cube-design`: Variance Is a Dial, Not a Flaw: Cube Design and Luck
 - `vintage-cube-archetypes`: Vintage Cube Archetypes Right Now (October 2026)
 - `vintage-cube-changes-for-paper`: Vintage Cube Changes Worth Copying in Paper
-- `when-is-vintage-cube-on-mtgo`: When Is Vintage Cube on MTGO? 2026 Schedule
+- `when-is-vintage-cube-on-mtgo`: When Is Vintage Cube on MTGO? 2026 Schedule (published 2026-10-22)
 - `where-to-host-a-cube-draft`: Where to Host a Draft: Stores, Breweries, Libraries, Homes
 - `why-we-are-building-a-game-lounge`: Why We're Building a Game Lounge Business, Not a Store
 - `wingspan-strategy`: Wingspan Strategy for Players Who Keep Losing by Ten
