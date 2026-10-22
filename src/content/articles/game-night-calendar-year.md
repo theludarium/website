@@ -8,7 +8,7 @@ draft: true
 ---
 A game night calendar does for a group what a syllabus does for a class: it tells people what is coming, so they can decide to come. Most game groups program one week at a time, which means every week is a fresh negotiation about what to play and whether to bother. A calendar set once, in January, removes that friction for twelve months.
 
-This is the calendar we use. One featured night per month, matched to the season, with regular nights in between. Each entry has the theme, the games, and the reason it lands in that month and not another. Use it as written or swap months to fit your group.
+This is the calendar we plan to run. One featured night per month, matched to the season, with regular nights in between. Each entry has the theme, the games, and the reason it lands in that month and not another. Use it as written or swap months to fit your group.
 
 ## Why match game nights to the season?
 
@@ -53,7 +53,7 @@ Spring cleaning, applied to games. Everyone brings one game they own and have ne
 
 ### May: Outdoor and Dexterity
 
-The first evenings warm enough to open the door. Move the tables to a patio, a yard, or a park shelter. Dexterity games that do not mind wind: Crokinole if anyone owns a board, Klask <!-- AFFILIATE -->, Jenga, Rhino Hero <!-- AFFILIATE -->, Molkky <!-- AFFILIATE --> or cornhole for the lawn. Card games stay inside this month.
+The first evenings warm enough to open the door. Move the tables to a patio, a yard, or a park shelter. Dexterity games that do not mind wind: Crokinole if anyone owns a board, Klask <!-- AFFILIATE -->, Jenga, Rhino Hero <!-- AFFILIATE -->, Mölkky <!-- AFFILIATE --> or cornhole for the lawn. Card games stay inside this month.
 
 ### June: Two-Player Night
 
@@ -67,7 +67,7 @@ Holiday weekends mean half the group is away and the other half has visiting rel
 
 ### August: Gen Con Debrief
 
-Gen Con runs in Indianapolis around the turn of July and August each year ([August 5–8 in 2027](https://www.gencon.com/)), and whether your group goes or not, August is when the new releases land and the people who went come back with stories. Everyone who attended brings one new game and teaches it. Everyone who did not gets to play things that are a month old. If your group is anywhere near Indiana, this is the month to plan a trip around.
+Gen Con runs in Indianapolis in late July or early August ([August 5–8 in 2027](https://www.gencon.com/)), and whether your group goes or not, August is when the new releases land and the people who went come back with stories. Everyone who attended brings one new game and teaches it. Everyone who did not gets to play things that are only weeks old. If your group is anywhere near Indiana, this is the month to plan a trip around.
 
 ### September: League Kickoff
 
@@ -123,6 +123,6 @@ Set the featured night for every month once a year, with dates. Regular nights n
 
 ## The calendar, one month at a time
 
-This is the first-year programming calendar for The Ludarium in Indianapolis, adjusted for a room that holds more than a living room does. Subscribe to the newsletter and you get the coming month's featured night, with the games and the setup, a week before it happens, all year.
+This is the kind of first-year calendar we are planning for The Ludarium's Indianapolis lounge, adjusted for a room that holds more than a living room does. Subscribe to the newsletter for new game-night ideas and first word as the lounge comes together.
 
 The game is the reason. The people are the point.

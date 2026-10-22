@@ -20,7 +20,7 @@ For this article, "cafe" means any of those: a place you go to play games that i
 
 | | Home game night | Board game cafe or lounge |
 |---|---|---|
-| Cost per person | Food and drink, shared or hosted; games already owned | Cover charge or minimum spend, often around [$10 per person](https://en.wikipedia.org/wiki/The_Uncommons) at the time of writing, plus food |
+| Cost per person | Food and drink, shared or hosted; games already owned | Cover charge or minimum spend, often [$5 to $15 per person](https://uncommonsnyc.com/about/) at the time of writing, plus food |
 | Game library | Whatever the group owns | Hundreds of titles, including ones nobody would buy |
 | Setup and cleanup | Host does it all | None; you leave the table |
 | Teaching | Someone in the group must know the game | Staff can teach, at most cafes |
@@ -101,7 +101,7 @@ For trying new games, playing with a large group, or avoiding hosting, yes. For 
 
 ### How much does a board game cafe cost?
 
-Most charge an [entry fee or table rental](https://en.wikipedia.org/wiki/Board_game_caf%C3%A9) for the library, or ask for a minimum spend instead. New York's [The Uncommons](https://en.wikipedia.org/wiki/The_Uncommons) charges a $10 cover for three hours; at the time of writing a few dollars either side of that is common. Membership lounges charge a flat monthly fee. Check the specific venue.
+Most charge an [entry fee or table rental](https://en.wikipedia.org/wiki/Board_game_caf%C3%A9) for the library, or ask for a minimum spend instead. New York's [The Uncommons](https://uncommonsnyc.com/about/) charges $15 a person, with a three-hour limit at busy times; smaller-city cafes often charge less. Membership lounges charge a flat monthly fee. Check the specific venue.
 
 ### Can you bring your own games to a board game cafe?
 

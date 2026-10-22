@@ -20,7 +20,7 @@ We do not score on novelty, art, or buzz. We score on what happens at a table of
 4. The table. Did people talk, laugh, or lean in? Or did four people silently solve four puzzles?
 5. The shelf test. Three months later, does it still come out? Most releases fail here.
 
-A game has to pass all five to make this list. Several very good 2026 releases passed four.
+A game has to pass all five to make this list. For summer releases, the shelf test is still running, and we will drop any that fail it. Several very good 2026 releases passed four.
 
 ## What counts as a 2026 release?
 
@@ -41,7 +41,7 @@ To make the standard concrete, here are games from the last few years that passe
 | Heat: Pedal to the Metal | 1–6 | 45–60 min | Racing with hand management, loud and close |
 | Ark Nova | 1–4 | 90–150 min | A heavy game that still earns the second play |
 
-Cascadia is the model for a light game: two actions, a changing scoring puzzle, and it won the Spiel des Jahres for exactly that. <!-- AFFILIATE --> The Crew proved a trick-taking game could be cooperative and that the format could sell millions. <!-- AFFILIATE --> Sky Team showed that a two-player cooperative game could create more tension in fifteen minutes than most games manage in two hours. <!-- AFFILIATE -->
+Cascadia is the model for a light game: two actions, a changing scoring puzzle, and it won the Spiel des Jahres for exactly that. <!-- AFFILIATE --> The Crew proved a trick-taking game could be cooperative, and won the 2020 Kennerspiel des Jahres doing it. <!-- AFFILIATE --> Sky Team showed that a two-player cooperative game could create more tension in fifteen minutes than most games manage in two hours. <!-- AFFILIATE -->
 
 Wavelength is the party game that converted the people who hated party games. <!-- AFFILIATE --> Heat made a racing game that is both a real strategy game and a shouting match. <!-- AFFILIATE --> Ark Nova is the exception on the list, a heavy game, included because it proved that a 2-hour game can still pass the "did anyone ask for it again" test. <!-- AFFILIATE -->
 
@@ -63,23 +63,23 @@ A 2026 game does not need to beat these. It needs to belong next to them.
 
 ### Dino Racer
 
-[Dino Racer](https://dicetower.com/board-game/462945) <!-- AFFILIATE --> is Marceline Leiman's card-driven racing game from Underdog Games: bet on dinosaurs, push them around a short track, shout. A race takes ten minutes, the teach under three, and upsets are constant. Wargamer gave it a [perfect score](https://www.wargamer.com/dino-racer/board-game-review). The easiest opener of the year.
+[Dino Racer](https://dicetower.com/board-game/462945) <!-- AFFILIATE --> is Marceline Leiman's card-driven racing game from Underdog Games: you draft cards that bet on five dinosaurs while flipped cards move them along a short track, and everyone shouts. A game takes ten to twenty minutes, the teach under three, and upsets are constant. Wargamer gave it a [perfect score](https://www.wargamer.com/dino-racer/board-game-review); copies have been hard to find outside conventions so far. The easiest opener of the year.
 
 ### JinxO
 
-[JinxO](https://www.boardgameoracle.com/en-GB/boardgame/price/y5ByU6gzru/jinxo) <!-- AFFILIATE --> is Martin Ang's word-association party game: fill a three-by-three grid with answers to a category, score when they match. Published in Indonesia in 2024, it reached Europe as Dito! and won the [2026 Spiel des Jahres](https://boardgamewire.com/index.php/2026/07/13/jinxo-wins-2026-spiel-des-jahres-rebirth-secures-historic-triple-for-reiner-knizia/). It passes the second-play test almost every time, because the fun is learning how your friends think.
+[JinxO](https://www.spiel-des-jahres.de/en/?p=36862) <!-- AFFILIATE --> is the one exception to our 2026 rule. Martin Ang's word-association party game (fill a three-by-three grid with answers to a category, score when they match) first came out in Indonesia in 2024, and its German edition, Dito!, won the [2026 Spiel des Jahres](https://boardgamewire.com/index.php/2026/07/13/jinxo-wins-2026-spiel-des-jahres-rebirth-secures-historic-triple-for-reiner-knizia/). It passes the second-play test almost every time, because the fun is learning how your friends think.
 
 ### Cozy Stickerville
 
-[Cozy Stickerville](https://boardgamegeek.com/thread/3671496/review-cozy-stickerville) <!-- AFFILIATE --> is Corey Konieczka's cooperative legacy game from Unexpected Games, released in February: build a village with more than 800 stickers over a short campaign. A Spiel des Jahres nominee. The teach happens as you play, the clearest pass of test one this year. Best for families and couples.
+[Cozy Stickerville](https://www.wargamer.com/cozy-stickerville/board-game-review) <!-- AFFILIATE --> is Corey Konieczka's cooperative legacy game from Unexpected Games, released in February: build a village with more than 800 stickers over a ten-session campaign. A Spiel des Jahres nominee. The teach happens as you play, the clearest pass of test one this year. Best for families and couples.
 
 ### Flip 7: With a Vengeance
 
-[Flip 7: With a Vengeance](https://theop.games/products/flip-7-with-a-vengeance) <!-- AFFILIATE --> from The Op is a standalone follow-up to the push-your-luck hit, adding action cards that steal, force draws, and cut scores. It trades innocence for interaction, which is what groups who found Flip 7 too polite wanted. The teach is still under five minutes.
+[Flip 7: With a Vengeance](https://theop.games/products/flip-7-with-a-vengeance) <!-- AFFILIATE --> from The Op (a Walmart exclusive in the US) is a standalone follow-up to the push-your-luck hit, adding action cards that steal, force draws, and cut scores. It trades innocence for interaction, which is what groups who found Flip 7 too polite wanted. The teach is still under five minutes.
 
 ### Wingspan Pocket
 
-[Wingspan Pocket](https://stonemaiergames.com/games/wingspan/wingspan-pocket/) <!-- AFFILIATE --> is Elizabeth Hargrave's compact take on her own engine builder, a twenty-dollar box released by Stonemaier in July. It is not Wingspan and does not try to be; it is the game you bring when half the table is new and you have half an hour. It passed the shelf test fastest of anything here.
+[Wingspan Pocket](https://stonemaiergames.com/games/wingspan/wingspan-pocket/) <!-- AFFILIATE --> is Elizabeth Hargrave's compact take on her own engine builder, a twenty-dollar box released on Stonemaier's store in July and in shops in August. It is not Wingspan and does not try to be; it is the game you bring when half the table is new and you have half an hour.
 
 ### The Two Towers Trick-Taking Game
 
@@ -129,4 +129,4 @@ Five tests: a short teach, a clever first play, a requested second play, a livel
 
 ## Get the list as it grows
 
-The Ludarium newsletter sends new short pieces on what to play, and subscribers get every update to this list first, along with news from the Indianapolis lounge as it opens. The game is the reason. The people are the point. Subscribe and tell us what we missed.
+The Ludarium newsletter sends new short pieces on what to play, along with news from the Indianapolis lounge as it comes together. The game is the reason. The people are the point. Subscribe and tell us what we missed.

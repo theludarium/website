@@ -8,7 +8,7 @@ draft: true
 ---
 A D&D one shot for beginners is a complete adventure that starts and finishes in one sitting. No campaign, no commitment, no "see you next Tuesday for the next eighteen months." You sit down at seven, you have a story with a beginning, middle, and end by eleven, and you decide afterward whether you want more.
 
-If the main thing standing between you and trying a tabletop RPG is the fear that it is a lifestyle, this is the format built for you. It is also the format we built our free demo PDFs around, for the same reason.
+If the main thing standing between you and trying a tabletop RPG is the fear that it is a lifestyle, this is the format built for you. It is also the format behind our free RPG Demo Library, for the same reason.
 
 ## What is a one-shot, exactly?
 
@@ -108,4 +108,4 @@ Yes. Experienced groups use them to try new systems, fill in when a regular play
 
 ## Try one this month
 
-The full adventure PDFs behind our [RPG Demo Library](/rpg-demo-library/) follow this template: pre-made characters, a one-sentence premise, and a three-hour shape that finishes. Subscribe to the newsletter to get them, plus new articles on getting people around a table. If you are in Indianapolis, come run one at the lounge.
+The demos in our [RPG Demo Library](/rpg-demo-library/) follow this template: pre-made characters, a one-sentence premise, and a short shape that finishes. Play one free, and subscribe to the newsletter for new demos as they arrive, plus new articles on getting people around a table.
