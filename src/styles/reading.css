@@ -195,3 +195,13 @@
 .hexmap__num.hexmap__token--hot {
   font-weight: 800;
 }
+
+/* Dot chart of how often each number rolls (lesson diagrams). */
+.pipchart__dot { fill: var(--color-stone); }
+.pipchart__dot--hot { fill: var(--color-cta); }
+.pipchart__dot--seven { fill: none; stroke: var(--color-text-muted); stroke-width: 1.5; stroke-dasharray: 3 2; }
+.pipchart__num { font-size: 16px; font-weight: 700; text-anchor: middle; fill: var(--color-text); }
+.pipchart__num--hot { fill: var(--color-accent); }
+.pipchart__num--seven { fill: var(--color-text-muted); }
+.pipchart__count { font-size: 10px; text-anchor: middle; fill: var(--color-text-muted); }
+.pipchart__base { stroke: var(--color-border); stroke-width: 2; }

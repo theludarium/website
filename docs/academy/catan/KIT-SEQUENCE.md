@@ -24,9 +24,9 @@ Only Level 0 is written so far, so everyone starts at Level 0 for now, whatever 
 5. **Test** with steps D3 (pause) and D4 (graduation, but expect the interim wrap-up and no lesson 6).
 6. **Publish** both sequences and turn on the three automations. Then tell Claude, and we merge.
 
-### When Level 1 is written
+### Adding Level 1 (written 2026-10-22)
 
-Claude writes lessons 6 to 12 and their emails. Then you build **Catan L1: Homesteader** and automation **C3**, and add the "Too easy?" trigger for Level 0. People who already finished Level 0 hold the `academy-catan-homesteader` tag, but automations are not retroactive, so they will not enter C3 on their own. To start them: in **Subscribers**, filter by that tag, select all, **Remove tag** `academy-catan-homesteader`, then **Add tag** `academy-catan-homesteader` again. The re-add fires C3. When all levels are live, switch C1 to the full version with the four-path split.
+Lessons 6 to 12 and their emails are done (emails below). When you're ready, build **Catan L1: Homesteader** and automation **C3**, and add the "Too easy?" trigger for Level 0. People who already finished Level 0 hold the `academy-catan-homesteader` tag, but automations are not retroactive, so they will not enter C3 on their own. To start them: in **Subscribers**, filter by that tag, select all, **Remove tag** `academy-catan-homesteader`, then **Add tag** `academy-catan-homesteader` again. The re-add fires C3. When all levels are live, switch C1 to the full version with the four-path split.
 
 ### Lesson email footer, for now
 
@@ -135,7 +135,7 @@ Button: `https://theludarium.com/academy/catan/catan-setup/?utm_source=kit&utm_m
 >
 > **The one idea:** every turn is the same loop. Roll so the island pays everyone, then trade and build as much as your cards allow.
 >
-> **A quick example:** you roll a 6. You collect a wheat and an ore, and so does your neighbor. Now it's your move: you trade four sheep to the bank for one brick (the 4:1 trade anyone can make), add your wood, and build a road toward a better spot. Then you pass the dice.
+> **A quick example:** you roll a 6. You collect a wheat and an ore, and so does your neighbor. Now it's your move: you trade four wool to the bank for one brick (the 4:1 trade anyone can make), add your wood, and build a road toward a better spot. Then you pass the dice.
 >
 > The lesson covers trading with players, the bank, and ports, plus all four building costs in one table.
 >
@@ -198,19 +198,223 @@ Button: `https://theludarium.com/academy/catan/robber-and-development-cards/?utm
 
 Button: `https://theludarium.com/academy/catan/how-to-win/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-05`
 
+### The seven Level 1 lesson emails
+
+For **Catan L1: Homesteader**, built when Level 1 launches (see "Adding Level 1" above). Same footer and button as Level 0. When Level 1 launches, also add the "Too easy?" link to the Level 0 emails.
+
+#### Lesson 6
+
+**Subject:** Those little dots are the whole game
+
+**Preview text:** Why a 6 comes up five times as often as a 2, in plain English.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> Welcome to Level 1. Look under any number disc and you'll see a few small dots. Most players never notice them. This lesson is about why you should.
+>
+> **The one idea:** the dots under each number count how many of the 36 dice combinations roll it, so adding them up tells you how often a spot will pay you.
+>
+> **A quick example:** a corner touching a 6, a 9, and an 11 has 5 plus 4 plus 2 dots, or 11 pips. On average, a settlement there collects about 11 cards every 36 rolls. A corner on 2, 12, and 3 has just 4 pips. Same price to build, about a third of the income.
+>
+> The full lesson explains why two dice favor the middle numbers, gives you a quick way to remember every number's dots, and shows what counts as a good spot. It also covers why the 8 is never "due."
+>
+> **Try it this week:** total the pips on every spot you consider during setup. After the game, compare each player's starting pips with the final scores.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/number-probability/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-06`
+
+#### Lesson 7
+
+**Subject:** The 90 seconds that decide most games
+
+**Preview text:** A five-point checklist for the two placements that shape your whole game.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> Your two starting settlements pay you, or fail to pay you, for the rest of the game. So it helps to have a way to score them before you place.
+>
+> **The one idea:** a strong opening passes five checks: plenty of pips, a mix of resources, a mix of numbers, early brick and wood, and room to expand.
+>
+> **A quick example:** your first settlement sits on 6 wheat, 9 ore, and 4 wool. For your second, one spot has 13 pips on wheat, ore, and wool. Another has 10 pips on wood, brick, and wool. The first looks richer, but it leaves you with no brick or wood, so you'd trade for every road. The second scores 5 out of 5.
+>
+> The full lesson walks through each check, shows how to split the work between your first and second picks, and scores that example step by step.
+>
+> **Try it this week:** after every game, score your opening against the checklist, one point per check. Score the winner's too. By the end of the week, you'll know which check you miss most.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/opening-settlements/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-07`
+
+#### Lesson 8
+
+**Subject:** Why brick feels like gold on turn 4
+
+**Preview text:** What you need on turn 4 is not what you need on turn 24.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> On your fourth turn, you'd trade almost anything for one brick. By your twentieth, you might hold three that nobody wants. Same card, different game.
+>
+> **The one idea:** a card's value changes as the game moves. Brick and wood fuel your early growth, and ore and wheat build the cities and cards that finish it.
+>
+> **A quick example:** early on, every open spot is up for grabs, and reaching one takes roads plus a settlement. That's two or three bricks for a single new settlement. Later the board fills up, and your points come from cities, which need no new space at all. Building all four takes 8 wheat and 12 ore.
+>
+> The full lesson covers why brick and ore are the scarcest resources (only 3 hexes each), where wool fits, and how to plan your settlements and trades around the shift.
+>
+> **Try it this week:** keep a scrap of paper by your seat. On your turns 5, 15, and 25, write down the resource you needed most right then. After the game, see how your list changed.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/resource-value-over-time/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-08`
+
+#### Lesson 9
+
+**Subject:** Stop feeding the bank
+
+**Preview text:** When 4:1 is fine, and when it quietly hands someone else the win.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> The bank never says no. That's exactly what makes it dangerous.
+>
+> **The one idea:** a bank or port trade earns its cost when it lets you build something this turn. Trading just to reshuffle your hand mostly leaks cards.
+>
+> **A quick example:** a 4:1 trade costs you 3 cards for good. A settlement on 11 pips needs about 13 rolls to earn 4 cards back, which is more than three trips around a four-player table. Trade 4 wool for the brick that finishes a settlement, and that's a great deal. Trade 4 wool for an ore you might use next turn, and you've thrown away three rounds of that settlement's income.
+>
+> The full lesson covers when 4:1 is the right call, the habits that quietly drain your hand, and when a 3:1 or 2:1 port is worth building toward.
+>
+> **Try it this week:** no 4:1 trades unless they build something that turn. Before you reach for the bank, name what you're building. Tally the trades you skipped, and see if any of them really cost you.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/bank-and-port-trades/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-09`
+
+#### Lesson 10
+
+**Subject:** The discard you didn't have to make
+
+**Preview text:** Eight cards is the danger line. Here is how to stay under it.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> You were one turn from a city. Then a 7 landed, and four cards went back to the supply.
+>
+> **The one idea:** seven cards is safe and eight is not. When a 7 is rolled, anyone holding 8 or more resource cards loses half, so spend down to 7 or fewer before you pass the dice.
+>
+> **A quick example:** in a four-player game, four rolls happen before you can build again: three opponents, then you. There is about a 52% chance at least one of them is a 7. End your turn at 8 cards and you are flipping a coin on losing 4 of them. Build a development card instead and you are at 5, with nothing for the robber to take.
+>
+> The full lesson covers why a hand of 7 keeps more cards than a hand of 12 after a 7, the order to spend down in, and when holding 8 or more is a smart choice.
+>
+> **Try it this week:** end every turn at 7 or fewer. Count your hand out loud before you pass the dice, and if you choose to hold more, name the cards you would discard.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/hand-management/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-10`
+
+#### Lesson 11
+
+**Subject:** The cards everyone underrates
+
+**Preview text:** When a development card beats a road, and when to play each kind.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> Most players either ignore the development pile or dump leftover cards into it. Both leave points on the table.
+>
+> **The one idea:** a development card rarely beats a good settlement, but it often beats a road to nowhere. And each kind has one right moment to play it.
+>
+> **A quick example:** you hold a wool, a wheat, and an ore, and your next open spot is three roads away. Build the card. More than half the deck is Knights, and one in five cards is a hidden point. Draw a Knight, and next turn you can play it before you roll to chase the robber off your best hex.
+>
+> The full lesson covers what is in the 25-card deck, the odds of each draw, and the best moment for Knights, Victory Points, Road Building, Invention, and Monopoly.
+>
+> **Try it this week:** build three development cards in one game. Write down when you built each one, when you played it, and what it did. Then ask whether a road would have done more.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/development-cards-for-beginners/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-11`
+
+#### Lesson 12
+
+**Subject:** Seven ways you're losing (and how to stop)
+
+**Preview text:** Road spam, hoarding, feeding the leader, and four more habits to drop.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> Most Catan games are not lost to bad dice. They are lost to the same few habits, game after game.
+>
+> **The one idea:** a handful of repeat mistakes sink most beginners, and each one has a simple fix you can check every turn.
+>
+> **A quick example:** the leader shows 8 points and offers you 2 wool for 1 ore. It feels like a bargain. But that ore may be the last card of their winning city. Say no, and find your wool from someone else, a port, or the bank.
+>
+> The full lesson covers all seven: road spam, waiting too long on cities, trading with the leader, hoarding, robbing the weakest player, card timing slips, and getting boxed in. It is also the last lesson of Level 1.
+>
+> **Try it this week:** ask a friend to spot for you. Give them the list of seven, and have them tap the table and call the number each time you slip. After the game, the mistake with the most marks is your focus for next time.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/beginner-mistakes/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-12`
+
+### The interim Level 1 wrap-up
+
+Last email in **Catan L1: Homesteader**, 24 hours after lesson 12, until Level 2 is written. Then switch to graduation email 2. Keep C3's tag swap to `academy-catan-trader` as written: with no Level 2 automation yet, the tag starts nothing, and it marks who finished Level 1. When Level 2 launches, start them the same way as Level 1 graduates: remove and re-add `academy-catan-trader`.
+
+**Subject:** Level 1 done. Your openings have reasons now.
+
+**Preview text:** Level 2 is next: reading any board in 60 seconds.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> That's Level 1: Homesteader, finished. You know what the dots mean, you can score an opening before you place it, you trade with a plan, and you keep your hand under the robber's reach. Most casual players never get this far.
+>
+> **What's next: Level 2, Trader.** Eight lessons on reading a board, picking a strategy, and winning trades on purpose. I'm writing it now. When it's ready, the first lesson comes straight to your inbox. You don't need to do anything.
+>
+> **In the meantime:** play a few games and score every opening at the table against the Lesson 7 checklist, yours and everyone else's. Then reply and tell me the best opening you saw. I read every reply.
+>
+> [Button: See the whole course]
+>
+> See you at the table,
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=grad-homesteader`
+
 ### The interim Level 0 wrap-up
 
-Last email in **Catan L0: Settler**, 24 hours after lesson 5. It replaces graduation email 1 until Level 1 is written.
+Last email in **Catan L0: Settler**, 24 hours after lesson 5. Use it until the Level 1 sequence is built in Kit; then switch to graduation email 1. (Level 1's lessons are written and on the site as of 2026-10-22, and their emails are above.)
 
 **Subject:** Level 0 done. You can play Catan now.
 
-**Preview text:** Level 1 is being written now, and it comes straight to your inbox.
+**Preview text:** Next up: Homesteader, where the setup mistakes stop.
 
 > Hi {{ subscriber.first_name | default: "there" }},
 >
 > That's Level 0: Settler, finished. You can set up a board, run a turn, handle the robber, and count your way to 10 points. That's more than a lot of people who own the game.
 >
-> **What's next: Level 1, Homesteader.** Seven lessons on the choices that win games before the dice do much: what the dots under the numbers mean, where your first two settlements go, and how to keep your hand out of the robber's reach. I'm writing it now. When it's ready, the first lesson comes straight to your inbox. You don't need to do anything.
+> **What's next: Level 1, Homesteader.** Seven lessons on the choices that win games before the dice do much: what the dots under the numbers mean, where your first two settlements go, and how to keep your hand out of the robber's reach. The first lesson comes straight to your inbox soon, and you don't need to do anything. Can't wait? [Lesson 6 is on the site now](https://theludarium.com/academy/catan/number-probability/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=grad-settler-early).
 >
 > **In the meantime:** play a game or two and notice which numbers actually come up. Then reply and tell me one thing that surprised you. I read every reply.
 >
