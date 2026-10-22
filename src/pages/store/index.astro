@@ -2,6 +2,9 @@
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import PreviewNote from '@/components/PreviewNote.astro';
 import { STORE_URL } from '@/lib/config';
+import { Image } from 'astro:assets';
+import { MALAPHOR_BOOK as book } from '@/lib/books';
+import cover from '@/assets/books/malaphors-cover.jpg';
 ---
 
 <BaseLayout
@@ -54,6 +57,20 @@ import { STORE_URL } from '@/lib/config';
       </ul>
     </div>
   </section>
+
+  <section class="section store-books" aria-labelledby="store-books-title">
+    <div class="container">
+      <h2 id="store-books-title">Books</h2>
+      <a class="card store-book" href={`/books/${book.slug}/`}>
+        <Image src={cover} alt={`Cover of ${book.title}`} widths={[160, 320]} sizes="160px" />
+        <div>
+          <h3>{book.title}</h3>
+          <p>{book.blurb}</p>
+          <span class="card__more">Paperback and Kindle on Amazon</span>
+        </div>
+      </a>
+    </div>
+  </section>
 </BaseLayout>
 
 <style>
@@ -102,9 +119,40 @@ import { STORE_URL } from '@/lib/config';
     font-size: var(--text-lg);
   }
 
+  .store-books {
+    padding-top: 0;
+  }
+
+  .store-books h2 {
+    margin: 0 0 var(--space-5);
+    font-size: var(--text-2xl);
+  }
+
+  .store-book {
+    flex-direction: row;
+    align-items: center;
+    gap: var(--space-6);
+    max-width: 48rem;
+  }
+
+  .store-book img {
+    flex: none;
+    width: 7.5rem;
+    height: auto;
+    border-radius: var(--radius-sm);
+    box-shadow: var(--shadow-md);
+  }
+
   @media (max-width: 52rem) {
     .store__grid {
       grid-template-columns: 1fr;
+    }
+  }
+
+  @media (max-width: 36rem) {
+    .store-book {
+      flex-direction: column;
+      align-items: flex-start;
     }
   }
 </style>

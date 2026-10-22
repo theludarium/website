@@ -95,6 +95,7 @@ export const FOOTER_NAV: { title: string; links: NavLink[] }[] = [
       { href: '/play/', label: 'Game tools' },
       { href: '/academy/', label: 'Academy' },
       { href: '/store/', label: 'Store' },
+      { href: '/books/', label: 'Books' },
       { href: '/search/', label: 'Search' },
     ],
   },

@@ -30,7 +30,9 @@ import { MALAPHOR_BOOK_URL, MALAPHOR_KINDLE_URL } from '@/lib/config';
       <a class="button book__buy" href={MALAPHOR_BOOK_URL} rel="noopener">Buy on Amazon</a>
       <a class="book__kindle" href={MALAPHOR_KINDLE_URL} rel="noopener">Or get the Kindle edition</a>
     </div>
-    <p class="book__meta">Paperback and Kindle. By Levi JA Wilson.</p>
+    <p class="book__meta">
+      Paperback and Kindle. By Levi JA Wilson. <a href="/books/well-burn-that-bridge/">More about the book</a>
+    </p>
   </div>
 </section>
 
@@ -123,6 +125,15 @@ import { MALAPHOR_BOOK_URL, MALAPHOR_KINDLE_URL } from '@/lib/config';
   }
 
   .book__kindle:hover {
+    color: var(--brand-lamplight);
+  }
+
+  .book__meta a {
+    color: var(--brand-parchment);
+    text-underline-offset: 0.2em;
+  }
+
+  .book__meta a:hover {
     color: var(--brand-lamplight);
   }
 

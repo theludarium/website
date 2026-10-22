@@ -1,0 +1,91 @@
+---
+// Books from The Ludarium's people. Each card opens the book's own page.
+import { Image } from 'astro:assets';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageIntro from '@/components/PageIntro.astro';
+import { BOOKS } from '@/lib/books';
+import malaphorsCover from '@/assets/books/malaphors-cover.jpg';
+
+const covers: Record<string, ImageMetadata> = { 'well-burn-that-bridge': malaphorsCover };
+---
+
+<BaseLayout
+  title="Books"
+  description="Books from The Ludarium, about the words, games and people around the table. Each one is sold in paperback and Kindle on Amazon."
+>
+  <PageIntro
+    eyebrow="Books"
+    title="Books for the table."
+    lede="Written by the people behind The Ludarium. Sold and shipped by Amazon, in paperback and Kindle."
+  />
+
+  <section class="section books">
+    <div class="container">
+      <ul class="books__list">
+        {
+          BOOKS.map((b) => (
+            <li>
+              <a class="card books__card" href={`/books/${b.slug}/`}>
+                <Image src={covers[b.slug]} alt={`Cover of ${b.title}`} widths={[200, 400]} sizes="200px" />
+                <div>
+                  <h2>{b.title}</h2>
+                  <p class="books__sub">{b.subtitle}</p>
+                  <p>{b.blurb}</p>
+                  <span class="card__more">About the book</span>
+                </div>
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .books {
+    padding-top: 0;
+  }
+
+  .books__list {
+    display: grid;
+    gap: var(--space-6);
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .books__card {
+    flex-direction: row;
+    align-items: center;
+    gap: var(--space-6);
+    max-width: 52rem;
+  }
+
+  .books__card img {
+    flex: none;
+    width: 9rem;
+    height: auto;
+    border-radius: var(--radius-sm);
+    box-shadow: var(--shadow-md);
+  }
+
+  .books__card h2 {
+    margin: 0;
+    font-size: var(--text-2xl);
+  }
+
+  .books__sub {
+    margin: var(--space-2) 0 var(--space-3);
+    font-family: var(--font-display);
+    font-style: italic;
+    color: var(--color-text);
+  }
+
+  @media (max-width: 36rem) {
+    .books__card {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  }
+</style>
