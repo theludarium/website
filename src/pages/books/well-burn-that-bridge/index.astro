@@ -5,7 +5,10 @@ import { Image, getImage } from 'astro:assets';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import { MALAPHOR_BOOK as book } from '@/lib/books';
 import cover from '@/assets/books/malaphors-cover.jpg';
-import cast from '@/assets/books/malaphors/cast.jpg';
+import gus from '@/assets/books/malaphors/friend-gus.jpg';
+import pete from '@/assets/books/malaphors/friend-pete.jpg';
+import teddy from '@/assets/books/malaphors/friend-teddy.jpg';
+import walt from '@/assets/books/malaphors/friend-walt.jpg';
 import stripBridges from '@/assets/books/malaphors/strip-bridges.jpg';
 import stripBirds from '@/assets/books/malaphors/strip-birds.jpg';
 import stripElephant from '@/assets/books/malaphors/strip-elephant.jpg';
@@ -50,10 +53,30 @@ const parts = [
 ];
 
 const friends = [
-  { name: 'Gus', text: 'Says most of the malaphors. Has never noticed a single one.' },
-  { name: 'Pete', text: 'Writes every one down in a pocket notebook. Can read back what you said in March.' },
-  { name: 'Teddy', text: 'Pictures every blend literally, so you will see the Pope in the woods.' },
-  { name: 'Walt', text: 'Knows where every idiom came from. Or thinks he does.' },
+  {
+    name: 'Gus',
+    text: 'Says most of the malaphors. Has never noticed a single one.',
+    image: gus,
+    alt: 'Gus, bald with a big mustache, his shirt dotted with rain, waving a hand mid-sentence.',
+  },
+  {
+    name: 'Pete',
+    text: 'Writes every one down in a pocket notebook. Can read back what you said in March.',
+    image: pete,
+    alt: 'Pete, in round glasses, writing in his notebook at the table.',
+  },
+  {
+    name: 'Teddy',
+    text: 'Pictures every blend literally, so you will see the Pope in the woods.',
+    image: teddy,
+    alt: 'Teddy, curly-haired and wide-eyed, holding a drink at the table.',
+  },
+  {
+    name: 'Walt',
+    text: 'Knows where every idiom came from. Or thinks he does.',
+    image: walt,
+    alt: 'Walt, gray-haired with glasses on his forehead, holding a die and a coffee mug.',
+  },
 ];
 
 const chapters = [
@@ -154,19 +177,15 @@ const chapters = [
           <p>Four old friends, one game night, and no malaphor goes unpunished.</p>
         </div>
       </div>
-      <Image
-        class="bk-table__art"
-        src={cast}
-        alt="The four friends drawn in a row: Gus, bald with a big mustache; Pete, in glasses with a notebook; Teddy, curly-haired and puzzled, holding a drink; Walt, gray-haired in a cardigan, holding a mug."
-        widths={[640, 1280]}
-        sizes="(max-width: 75rem) 100vw, 1180px"
-      />
       <ul class="bk-friends">
         {
           friends.map((f) => (
-            <li>
-              <h3>{f.name}</h3>
-              <p>{f.text}</p>
+            <li class="bk-friend">
+              <Image class="bk-friend__art" src={f.image} alt={f.alt} widths={[160, 320]} sizes="160px" />
+              <div>
+                <h3>{f.name}</h3>
+                <p>{f.text}</p>
+              </div>
             </li>
           ))
         }
@@ -355,8 +374,7 @@ const chapters = [
   }
 
   .bk-sample img,
-  .bk-strips img,
-  .bk-table__art {
+  .bk-strips img {
     display: block;
     width: 100%;
     height: auto;
@@ -396,18 +414,35 @@ const chapters = [
     background: var(--color-surface-alt);
   }
 
-  .bk-table__art {
-    border-radius: var(--radius-card);
-    box-shadow: var(--shadow-sm);
-  }
-
   .bk-friends {
     display: grid;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
+    grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: var(--space-5);
-    margin: var(--space-6) 0 0;
+    margin: 0;
     padding: 0;
     list-style: none;
+  }
+
+  .bk-friend {
+    display: grid;
+    grid-template-columns: 8.5rem minmax(0, 1fr);
+    align-items: center;
+    gap: var(--space-5);
+    padding: var(--space-4);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-card);
+    background: var(--color-surface);
+  }
+
+  .bk-friend__art {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 4 / 5;
+    object-fit: cover;
+    object-position: top center;
+    border-radius: var(--radius-lg);
+    background: var(--brand-parchment);
   }
 
   .bk-friends h3 {
@@ -544,7 +579,7 @@ const chapters = [
     }
 
     .bk-friends {
-      grid-template-columns: repeat(2, minmax(0, 1fr));
+      grid-template-columns: 1fr;
     }
 
     .bk-strips__grid {
@@ -557,8 +592,9 @@ const chapters = [
   }
 
   @media (max-width: 30rem) {
-    .bk-friends {
-      grid-template-columns: 1fr;
+    .bk-friend {
+      grid-template-columns: 6.5rem minmax(0, 1fr);
+      gap: var(--space-4);
     }
 
     .bk-actions .button {
