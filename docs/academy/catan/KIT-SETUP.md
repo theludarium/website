@@ -112,9 +112,8 @@ Kit sends this the moment someone signs up. Its only job is the click.
 
 Button text in Kit: **Yes, start my Catan lessons**. The button's destination is Kit's confirmation link, which then redirects to `https://theludarium.com/academy/confirmed/`.
 
-The greeting is a plain "Hi," on purpose, the same as the newsletter's confirmation email. Some Kit confirmation emails do not fill in personalization, and "Hi there" reads better than a blank name.
+The greeting is a plain "Hi," on purpose, the same as the newsletter's confirmation email. Some Kit confirmation emails do not fill in personalization, and a plain "Hi," reads better than a blank name.
 
 ## Later
 
-- **The thanks page wording.** `/academy/thanks/` says the first lesson follows right after confirming. With the cadence in `KIT-SEQUENCE.md`, the welcome email follows right away and links to the first lesson; the first lesson email arrives the next morning (Level 0) or the next Tuesday or Friday morning (other levels). Ask Claude to adjust the page if you want the words to match exactly.
 - **Other Academy courses** reuse this pattern: one form per course, the `academy` tag plus a course tag (`academy-<course>`), and level tags named `academy-<course>-<level>`.
