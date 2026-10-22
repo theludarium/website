@@ -31,7 +31,7 @@ Here is where to start, each checked against its own site or a current listing i
 
 **Game stores with play space**
 
-- [Good Games Indianapolis](https://www.goodgamesna.com/us/stores/indiana/indianapolis.html), downtown (111 S Meridian St). About 3,500 square feet of play space and events most days.
+- [Good Games Indianapolis](https://www.goodgamesna.com/venue/good-games-indianapolis/), downtown (111 S Meridian St). About 3,500 square feet of play space and events most days.
 - [Moonshot Games](https://moonshotgamestore.com/), downtown Noblesville (50 N 9th St). Demo games, a game room, and events including Friday Night Magic.
 - [Gray Gauntlet Games](https://graygauntletgames.com/), Fishers (7998 Centerpoint Dr). A play space and an events calendar for Magic, Pokémon, and painting nights.
 - [The Game Preserve](https://www.gamepreserve.com/), Greenwood (1551 E Stop 12 Rd) and near the Fashion Mall. A long-running shop with tournaments, league nights, and learn-to-play sessions.
@@ -69,7 +69,7 @@ Pricing follows the same models you see nationally, and most game stores in the 
 
 The last row is the model The Ludarium is building toward, and it changes the math for regulars. If you play twice a week, a [game lounge membership](/articles/game-lounge-membership/) costs less than covers and comes with a seat that is yours.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which Indianapolis neighborhoods are best for a game night out?
 
@@ -134,4 +134,4 @@ Yes. Library game nights are free, and many breweries keep a game shelf you can 
 
 Indianapolis is a good city for a game night, and it is getting better. The game is the reason. The people are the point.
 
-For the verified venue list as it updates, new public game nights around the city, and first word on The Ludarium's opening, subscribe to the newsletter. One short email a week, nothing more.
+For the verified venue list as it updates, new public game nights around the city, and first word on The Ludarium's opening, subscribe to the newsletter. Short emails, nothing more.

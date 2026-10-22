@@ -118,7 +118,7 @@ Heavier games for a group that has an evening and wants to use it.
 | Dungeons & Dragons Starter Set <!-- AFFILIATE --> | 3–6 | 2–4 hr | One box, one evening, a first adventure |
 | Chess <!-- AFFILIATE --> | 2 | varies | Some guests just want a board and a clock |
 
-*If this list is useful, the newsletter sends one piece like it every week.*
+*If this list is useful, the newsletter sends more like it.*
 
 ## What did we leave out, and why?
 
@@ -160,4 +160,4 @@ Sleeve the card games, keep food away from the table, and store boxes flat. Repl
 
 ## See the shelves fill up
 
-The Ludarium newsletter is where we share what goes on the shelf, what comes off, and why, one short piece a week. Subscribers in Indianapolis will be the first invited to play the library before it opens to the public. The game is the reason. The people are the point. Subscribe and help us pick game fifty-one.
+The Ludarium newsletter is where we share what goes on the shelf, what comes off, and why, new short pieces. Subscribers in Indianapolis will be the first invited to play the library before it opens to the public. The game is the reason. The people are the point. Subscribe and help us pick game fifty-one.

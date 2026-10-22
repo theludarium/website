@@ -51,7 +51,7 @@ When a loss goes badly, skip "don't be a sore loser." Try "You really wanted to 
 
 Afterward, when things are calm, you can talk about what to do differently. Keep it short.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What do you do in the moment when a kid melts down?
 
@@ -114,4 +114,4 @@ Treat it calmly and address it once the game is over, not mid-turn. Cheating at 
 
 The Ludarium is a game lounge coming to Indianapolis, and a lot of what we care about comes down to this: a table is one of the only places a person practices losing in public, in front of people who like them, and then gets dealt back in. Kids who get that practice early carry it for life. The game is the reason. The people are the point.
 
-For one piece a week on playing well with the people you love, subscribe to the newsletter at theludarium.com. Never stop playing.
+For new pieces on playing well with the people you love, subscribe to the newsletter at theludarium.com. Never stop playing.

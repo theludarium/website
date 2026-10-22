@@ -42,7 +42,7 @@ The broader evidence on social connection is firmer. The [Harvard Study of Adult
 
 An RPG group is one of the most reliable relationship engines adults have. It meets on a schedule. It has a reason to exist that is not "let's catch up," which is the phrase that kills most adult friendships. And it generates shared history, week after week. That is the mechanism. Whether the dice themselves do anything is a smaller question than whether the table does.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do the benefits show up in real life?
 
@@ -101,7 +101,7 @@ No more than joining a book club or a softball league. Millions of adults play, 
 
 ## Give it one evening
 
-The Ludarium newsletter covers play, friendship, and the health case for both, one article a week. Want to try a game before you buy it? Play a free intro adventure in the [RPG Demo Library](/rpg-demo-library/), right in your browser, by each game's real rules.
+The Ludarium newsletter covers play, friendship, and the health case for both, new articles. Want to try a game before you buy it? Play a free intro adventure in the [RPG Demo Library](/rpg-demo-library/), right in your browser, by each game's real rules.
 
 ## Sources
 

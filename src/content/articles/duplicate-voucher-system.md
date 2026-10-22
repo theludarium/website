@@ -54,7 +54,7 @@ What is deliberately **allowed**: creatures with mana value three or less, remov
 
 For an unpowered or Legacy-level cube, delete the rows that do not apply and add any card the group considers the cube's ceiling. The question to ask about each card: would two of this in one deck make the game about that card? If yes, exclude it.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What does the voucher do to drafting?
 
@@ -106,4 +106,4 @@ No. The proxy is removed at the end of the night. The cube's list does not chang
 
 The voucher is a small rule. It fixes one specific problem without touching the list, and it hands each drafter a choice that reveals how well they understand their deck. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for one house rule or format a week, written to be run at the table. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) can show you the voucher in use; ask whoever is doubling their Goblin Guide.
+Subscribe to The Ludarium newsletter for new house rules and formats, written to be run at the table. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) can show you the voucher in use; ask whoever is doubling their Goblin Guide.

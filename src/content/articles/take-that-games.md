@@ -1,10 +1,10 @@
 ---
 title: "Take-That Games: Direct Attacks and Why They Divide"
 description: "Take that board games explained. What the term means, why Munchkin and Exploding Kittens split tables, how designers soften it, and how to choose well."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Guides
 tags: ["take that board games", "what is take that mechanic", "take that card games", "direct conflict board games", "Munchkin take that", "games with player attacks", "Glossary"]
-draft: true
+draft: false
 ---
 Take that board games are games where players can directly hurt each other with a card or an action aimed at one specific person. The name comes from the moment itself: you play the card, look at your target, and the unspoken line is "take that." Munchkin, Exploding Kittens, Uno's draw-four, and Sorry! all run on it. Some people love these games and some people quietly refuse to play them, and the split is one of the most reliable in the hobby.
 
@@ -59,7 +59,7 @@ There is also a quieter third group: people who do not mind the mechanic but min
 
 None of these camps is wrong. They are different answers to the question "what do I want from the next hour," and a game night that contains all three needs more than one kind of game. Our article on [kingmaking](/articles/kingmaking-board-games/) covers the related problem of players who cannot win choosing who does, which take-that games make especially common.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do designers soften take-that?
 
@@ -113,4 +113,4 @@ Sorry!, Uno, and King of Tokyo are the usual picks, because the attacks are smal
 
 A take-that card is a tiny act of aggression aimed at someone you presumably like. Whether that is delightful or miserable depends entirely on who is sitting across from you and what kind of night they came for. The game is the reason. The people are the point.
 
-We send one piece like this a week to subscribers, on choosing games that fit real tables. Subscribe to The Ludarium newsletter, and if you are in Indianapolis, our membership lounge will have Munchkin on the shelf, next to a sign suggesting you ask first.
+We send new pieces like this to subscribers, on choosing games that fit real tables. Subscribe to The Ludarium newsletter, and if you are in Indianapolis, our membership lounge will have Munchkin on the shelf, next to a sign suggesting you ask first.

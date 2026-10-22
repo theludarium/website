@@ -54,7 +54,7 @@ The host cannot be in two places, so the goal is a process that runs without the
 
 **Rounds.** Both pods start round one together. After that, they will drift apart in time, and that is fine. Each pod runs its own rounds independently. The host posts pairings for each pod on its own table, physically or in a per-pod Discord thread, so nobody has to find the host to learn who they play. Our full approach to pairings is in [pairings, records, and prizes](/articles/draft-pairings-and-records/).
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you keep the whole room on time?
 
@@ -105,4 +105,4 @@ About three and a half hours: 45 minutes to draft, 20 to build, and three 50-min
 
 ## Pull up a chair
 
-Cube Commonwealth is drafting again in Indianapolis, and a two-pod night is what we are aiming for. Join the Discord <!-- EDITOR: add Discord invite link --> to see the weekly headcount. If you host your own drafts, subscribe to The Ludarium newsletter: one piece a week on running game nights that last, and news on the Indianapolis lounge as it comes. The game is the reason. The people are the point.
+Cube Commonwealth is drafting again in Indianapolis, and a two-pod night is what we are aiming for. Join the Discord <!-- EDITOR: add Discord invite link --> to see the weekly headcount. If you host your own drafts, subscribe to The Ludarium newsletter: new pieces on running game nights that last, and news on the Indianapolis lounge as it comes. The game is the reason. The people are the point.

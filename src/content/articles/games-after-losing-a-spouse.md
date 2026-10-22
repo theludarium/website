@@ -38,7 +38,7 @@ Because a game changes the shape of the time together in ways that happen to fit
 
 People who have been through this often describe the game group as the first place they felt normal again, precisely because nobody there needed them to perform being okay. We cannot promise that. We can say it is a common experience.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you find a game group when you don't have one?
 
@@ -101,4 +101,4 @@ Games do not treat grief, but a regular group can reduce isolation, give the wee
 
 ## A chair when you want it
 
-The Ludarium is building a game lounge in Indianapolis where a single person can always find a table, and we think about this situation more than most. If a gentle piece like this once a week would help, subscribe to the Ludarium newsletter. No pressure, and you can read it whenever you are ready.
+The Ludarium is building a game lounge in Indianapolis where a single person can always find a table, and we think about this situation more than most. If more gentle pieces like this would help, subscribe to the Ludarium newsletter. No pressure, and you can read it whenever you are ready.

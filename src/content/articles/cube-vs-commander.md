@@ -1,20 +1,20 @@
 ---
 title: "Cube vs Commander: Which Magic Format Fits Your Group?"
 description: "Cube vs Commander, compared on players, time, cost, and teach time, plus what each Magic format does best. A clear verdict for groups deciding how to play."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Game Guides
 tags: ["Cube vs Commander", "Magic the Gathering formats for groups", "Cube draft explained", "Commander vs draft", "best MTG format for casual play", "how to play Cube", "Comparisons"]
-draft: true
+draft: false
 ---
 Cube vs Commander is the choice that decides what a Magic: The Gathering group becomes. They are the two most popular ways to play Magic with the same people every week without spending money on new cards each time. One asks a group to build decks on the spot from a shared pool. The other asks each player to bring a deck they built at home. The cards are the same. The evenings are not.
 
-We have a stake in this one. The Ludarium's founder runs Cube Commonwealth, a Cube community that has drafted weekly for years. So we will say up front: we love Cube. We will also be fair to Commander, because it is the format most Magic players actually play, and for good reasons.
+We have a stake in this one. The Ludarium's founder started Cube Commonwealth, a Cube community that met weekly for about three years and is relaunching as part of The Ludarium. So we will say up front: we love Cube. We will also be fair to Commander, because it is the format most Magic players actually play, and for good reasons.
 
 ## What is Commander?
 
-**Commander** <!-- AFFILIATE --> is a multiplayer format, usually four players, where each player brings a 100-card deck built around a single legendary creature, the commander. Every other card in the deck must be a different card (singleton) and must match the commander's colors. Players start at 40 life instead of 20. The commander sits in a special zone, can be cast from there, and returns there when it dies, at a rising cost. Games are free-for-all: last player standing wins, with the social politics that implies.
+**Commander** <!-- AFFILIATE --> is a multiplayer format, usually four players, where each player brings a 100-card deck built around a single legendary creature, the commander. Every other card in the deck must be a different card (singleton) and must match the commander's colors. Players start at 40 life instead of 20. The commander sits in a special zone, can be cast from there, and can return there when it dies or is exiled, at a rising cost. Games are free-for-all: last player standing wins, with the social politics that implies.
 
-It is Magic's flagship casual format, with a formal ban list [managed by Wizards of the Coast since late 2024](https://en.wikipedia.org/wiki/Commander_(Magic:_The_Gathering)). Preconstructed Commander decks are sold in stores, so a new player can buy a deck and play that night.
+It is Magic's flagship casual format, with a formal ban list [managed by Wizards of the Coast since September 2024](https://en.wikipedia.org/wiki/Commander_(Magic:_The_Gathering)). Preconstructed Commander decks are sold in stores, so a new player can buy a deck and play that night.
 
 ## What is Cube?
 
@@ -53,7 +53,7 @@ Every player at a Cube draft starts with the same thing: a seat and a pack. Nobo
 
 Commander's chronic problem is the power mismatch. Four people sit down with decks built to different budgets and different intentions, and someone's deck is either far too strong or far too weak for the table. The community has built a lot of etiquette around it, a conversation before the game about what everyone is playing, a [five-level bracket system](https://magic.wizards.com/en/formats/commander) from the publisher, and it still goes wrong regularly. A single over-tuned deck can make an evening miserable for three people.
 
-*If this is useful, the newsletter sends one comparison like it every week.*
+*If this is useful, the newsletter sends more comparisons like it.*
 
 ## Which one has better social dynamics?
 
@@ -71,7 +71,7 @@ Cube, by far, for everyone except the Cube owner.
 
 A Commander player typically owns several decks and upgrades them as new cards release. It is a hobby with an ongoing bill, and it is easy to spend more on Commander in a year than a modest Cube costs to build.
 
-A Cube is a single expense, and it can be as small as the owner wants. A Cube of commons and uncommons costs little and plays beautifully. After it is built, every draft night is free. Cube Commonwealth has run weekly for years on the same core collection with occasional updates.
+A Cube is a single expense, and it can be as small as the owner wants. A Cube of commons and uncommons costs little and plays beautifully. After it is built, every draft night is free. Cube Commonwealth met weekly for about three years, and nobody paid for packs.
 
 The catch is that the cost is concentrated on one person, who also carries the box, maintains the card list, and keeps the sleeves clean. In a healthy group the others chip in, bring food, or build a second Cube.
 
@@ -97,7 +97,7 @@ Cube wants eight people at the same time and a three-hour block. It can run with
 - One person is willing to build and maintain the Cube, and the rest will help.
 - You want a format that costs nothing after the first investment and never gets stale.
 
-**Play both if** you can. Many groups do: Cube on the scheduled night, Commander when fewer people show up or when someone brings a friend. They solve different problems. Commander is the format of the game store. Cube is the format of the standing group. The Ludarium plans to host both in Indianapolis, and Cube Commonwealth's drafts will be the model for the Cube nights.
+**Play both if** you can. Many groups do: Cube on the scheduled night, Commander when fewer people show up or when someone brings a friend. They solve different problems. Commander is the format of the game store. Cube is the format of the standing group. The Ludarium plans to host both in Indianapolis, starting with Cube Commonwealth's relaunch.
 
 ## FAQ
 
@@ -107,7 +107,7 @@ Yes, if they already know how to play Magic. Drafting and building a 40-card dec
 
 ### How many players do you need for Cube?
 
-Eight is ideal for a full draft with three rounds of matches. Six works. Four works with grid draft or other two-pack variants. Two players can play a Cube with a format called Winston draft.
+Eight is ideal for a full draft with three rounds of matches. Six works. Four works with a smaller pod and more packs per player. Two players can use Winston draft or grid draft.
 
 ### Is Commander good for new Magic players?
 
@@ -115,8 +115,8 @@ It is the most accessible way to find a game, because preconstructed decks are s
 
 ### How much does it cost to build a Cube?
 
-Anything from [under $100 for a pauper Cube](https://draftsim.com/pauper-cube-mtg/) of commons to many thousands for a [vintage Cube](https://mtg.wiki/page/Vintage_Cube) with the Power Nine, which is why most paper vintage Cubes use proxies. The format works at every budget because everyone drafts from the same pool.
+Anything from [under $100 for a pauper Cube](https://draftsim.com/pauper-cube-mtg/) of commons to tens of thousands of dollars or more for a [vintage Cube](https://mtg.wiki/page/Vintage_Cube) with the Power Nine, which is why most paper vintage Cubes use proxies. The format works at every budget because everyone drafts from the same pool.
 
 ## Draft with us, in print first
 
-The game is the reason. The people are the point. Cube Commonwealth has drafted weekly for years because the people kept coming back, and the format just gave them a reason. For one piece a week on playing together, including Cube and Commander nights at the Indianapolis lounge when it opens, subscribe to The Ludarium newsletter.
+The game is the reason. The people are the point. Cube Commonwealth met weekly for about three years because the people kept coming back, and the format just gave them a reason. For new pieces on playing together, including Cube and Commander nights at the Indianapolis lounge when it opens, subscribe to The Ludarium newsletter.

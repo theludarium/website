@@ -46,7 +46,7 @@ Clank!. The dungeon is shared, artifacts are limited, and the race to grab the d
 
 Dominion's interaction depends entirely on which cards are in the supply. Some setups include Attack cards (Militia, Witch, Bureaucrat) that hit every opponent, and those games are tense. Other setups have none, and the game becomes a parallel race where you watch the pile counts and little else. Many players prefer it that way.
 
-*If this is useful, the newsletter sends one comparison like it every week.*
+*If this is useful, the newsletter sends more comparisons like it.*
 
 ## Which one has more luck?
 
@@ -104,7 +104,7 @@ Thirty to sixty minutes, longer with four new players. The escape countdown keep
 
 ## One deck, one week, one newsletter
 
-The game is the reason. The people are the point. Both of these games give a table something to argue about on the way to the car, and that is the sign of a good evening. For one short piece a week on games and the people who play them, plus updates on the Indianapolis lounge, subscribe to The Ludarium newsletter.
+The game is the reason. The people are the point. Both of these games give a table something to argue about on the way to the car, and that is the sign of a good evening. For new short pieces on games and the people who play them, plus updates on the Indianapolis lounge, subscribe to The Ludarium newsletter.
 
 ## Sources
 

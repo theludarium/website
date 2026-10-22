@@ -53,7 +53,7 @@ Publishers have understood this for a long time. The shift from cardboard chits 
 
 Designers often resist this. The rules are the game, they say. Half right. The rules are the game once you are playing. The components are the reason you sat down.
 
-*The newsletter covers one game worth a second look every week.*
+*The newsletter covers one game worth a second look.*
 
 ## When do components hurt a game?
 
@@ -109,6 +109,6 @@ Sculpted plastic miniatures cost far more to produce than wooden or cardboard pi
 
 ## Come see what is on the table
 
-Table presence is why a game lounge works. People see something they have never seen before and ask to play. The Ludarium newsletter is built on the same idea: one piece a week on a game worth looking at twice, and updates on the shelf we are choosing for the Indianapolis lounge. Subscribe at theludarium.com.
+Table presence is why a game lounge works. People see something they have never seen before and ask to play. The Ludarium newsletter is built on the same idea: new pieces on a game worth looking at twice, and updates on the shelf we are choosing for the Indianapolis lounge. Subscribe at theludarium.com.
 
 The game is the reason. The people are the point.

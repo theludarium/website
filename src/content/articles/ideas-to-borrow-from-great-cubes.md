@@ -1,10 +1,10 @@
 ---
 title: "Ten Cube Design Ideas Worth Borrowing"
 description: "Ten cube design ideas worth stealing from the Vintage Cube, the Pauper Cube, Lucky Paper and the spotlight cubes: packages, polish passes, voting, more."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube design ideas", "cube design tips", "improve my cube", "cube update process", "archetype packages", "cube changelog ideas", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 The best cube design ideas are already in public, attached to lists you can open. This article pulls ten of them from cubes and writers we have profiled in this series: the MTGO Vintage Cube, the Legacy Cube, the Pauper Cube, Lucky Paper's writing, and the Magic Online and Arena spotlight cubes. Each one comes with its source and the version that fits a paper cube drafted by eight people once a month.
 
@@ -12,7 +12,7 @@ None of these are about which cards to run. They are about how to run a cube.
 
 ## 1. Add archetypes as packages, not cards
 
-**From:** the MTGO Vintage Cube. Ryan Spain's December 2023 post on [the future of the Vintage Cube](https://www.mtgo.com/news/mtgo-futureofvintagecube-12142023) described tagging every card in the cube's spreadsheet by the archetype it supports and a rough power rank, so the cards for a whole archetype can be filtered in or out together. The [August 2026 update](https://www.mtgo.com/news/hob-vintage-cube-update) is the method in practice: Dark Depths came back with four new supporting cards, not alone.
+**From:** the MTGO Vintage Cube. Ryan Spain's December 2023 post on [the future of the Vintage Cube](https://www.mtgo.com/news/mtgo-futureofvintagecube-12142023) described tagging cards in the cube's spreadsheet by the archetype it supports and a rough power rank, so the cards for a whole archetype can be filtered in or out together. The [August 2026 update](https://www.mtgo.com/news/hob-vintage-cube-update) is the method in practice: Dark Depths came back with four returning supporting cards, not alone.
 
 **Paper version:** add a tag column to your list. When you want to try Reanimator, add the whole package in one update and remove it as a unit if it fails. One build-around without support is a slot that will disappoint whoever takes it.
 
@@ -40,7 +40,7 @@ None of these are about which cards to run. They are about how to run a cube.
 
 **Paper version:** you do not need a website. Once per update cycle, post five candidate cards in the group chat and let people vote on which one gets the open slot. The owner keeps the other 539 decisions. The one shared decision is enough to make the cube feel owned by the room, which is the whole argument of [the community cube](/articles/community-owned-cube/).
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## 6. Ask the four questions before any other design work
 
@@ -84,7 +84,7 @@ A build-around card plus the supporting cards it needs, added and removed as a u
 
 ### How often should a cube be updated?
 
-The Pauper Cube updates twice a year on a published schedule; the MTGO Vintage Cube runs four major updates with polish passes between. For a paper cube, two to four scheduled updates a year is a reasonable house guideline.
+The Pauper Cube updates twice a year on a published schedule; the MTGO Vintage Cube planned four major updates a year with polish passes in 2024, and in 2026 has updated with nearly every set. For a paper cube, two to four scheduled updates a year is a reasonable house guideline.
 
 ### Should cube drafters get a vote on changes?
 
@@ -96,6 +96,6 @@ A small follow-up update, a month or so after a major one, that fixes the things
 
 ## Take one and try it
 
-Pick one idea from this list and apply it to your next update. Then come tell us how it went: [Cube Commonwealth in Indianapolis](/articles/cube-draft-indianapolis/) is full of people who will have opinions. Subscribe to The Ludarium newsletter for one cube design idea a week, sourced and ready to borrow.
+Pick one idea from this list and apply it to your next update. Then watch what changes at the table. Subscribe to The Ludarium newsletter for new cube pieces, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, sets its first night as part of The Ludarium.
 
 The game is the reason. The people are the point.

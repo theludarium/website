@@ -40,7 +40,7 @@ The comparison is Solitude, Grief, Fury, Subtlety and Endurance, and these are d
 - **Formidable Speaker** ({2}{G}, 2/4; discard to tutor a creature on entering; {1}, tap: untap another permanent). **Call: test** in green creature decks.
 - **Twilight Diviner** ({2}{B}, 3/3; surveil 2 on entering; once a turn, copy a creature that entered from a graveyard). **Call: test** in reanimator lanes; pass elsewhere.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What about the planeswalkers and the big cards?
 

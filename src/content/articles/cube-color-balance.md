@@ -1,10 +1,10 @@
 ---
 title: "Cube Color Balance: Counts That Keep Every Color Open"
 description: "Cube color balance takes more than 50 cards per color. How to count by section, why green and white drift weak, and how to check balance after every draft."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube color balance", "cards per color cube", "cube color counts", "balanced cube", "weak color in cube", "cube section counts", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Cube color balance starts with equal counts, 50 cards per color in a 360-card cube, but equal counts are the beginning of the job, not the end. Two colors can have the same number of cards and wildly different draft value. This article covers the counts that work, the places balance quietly breaks, and the checks that tell you when a color is dead before your drafters start avoiding it.
 
@@ -42,7 +42,7 @@ In our experience and in most published changelogs, two colors need deliberate a
 
 Blue tends to drift strong, because card draw and counterspells are flexible and every control drafter wants them. Black drifts strong when removal is plentiful. Red is the swing color: strong if the cube supports burn-plus-haste, weak if burn is the only thing red does.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you check balance after a draft?
 
@@ -91,4 +91,4 @@ Yes. Each color should appear in the same number of gold cards, usually four pai
 
 Equal counts get you to the table. Counting curves, removal, and what wheels keeps every color worth drafting. The game is the reason. The people are the point.
 
-The Ludarium newsletter sends one cube piece a week, including the post-draft tally sheet we use. Subscribe, and if you are in Indianapolis, come count colors with us at Cube Commonwealth: [how to join](/articles/cube-draft-indianapolis/).
+The Ludarium newsletter sends new cube pieces. Subscribe, and if you are in Indianapolis, you will hear first when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, sets its first night as part of The Ludarium.

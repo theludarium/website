@@ -46,7 +46,7 @@ Everdell. Worker placement means that when you take a location, nobody else can 
 
 Wingspan is close to solitaire. You share a bird market and a dice tower, and the round goals create a quiet race, but you cannot block anyone and nothing you do removes options from another player in a targeted way. For some tables this is the whole appeal. For others it is the complaint.
 
-*If this is useful, the newsletter sends one comparison like it every week.*
+*If this is useful, the newsletter sends more comparisons like it.*
 
 ## Which one has more luck?
 
@@ -108,9 +108,9 @@ Wingspan if you want a calm shared activity. Everdell if you want a bit of compe
 
 No. Both base games are complete and have months of play in them. Buy an expansion only after the base game starts to feel familiar.
 
-## One piece on play each week
+## More on play
 
-The game is the reason. The people are the point. Either of these boxes will give you an hour of quiet building across the table from people you like, which is what we are in this for. For one short piece a week on games and the people who play them, with updates on the Indianapolis lounge, subscribe to The Ludarium newsletter.
+The game is the reason. The people are the point. Either of these boxes will give you an hour of quiet building across the table from people you like, which is what we are in this for. For new short pieces on games and the people who play them, with updates on the Indianapolis lounge, subscribe to The Ludarium newsletter.
 
 ## Sources
 

@@ -50,7 +50,7 @@ Players use "pasted on" for a theme that does not change how the game feels. Swa
 
 The test is simple. Describe the game without naming the theme. Then describe it without naming any mechanics. If the first description is complete and the second is empty, the theme is decoration. That might be fine. Just know it.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Why do themes help new players more than veterans?
 
@@ -116,4 +116,4 @@ Yes. Abstract games like Go, Hive, and Santorini have little or no theme and suc
 
 ## Bring the idea, whichever half you have
 
-If you have a mechanism without a story, or a story without a game, bring it to open playtest nights at The Ludarium in Indianapolis and see what a table makes of it. For one article a week on design, play, and the people around the table, subscribe to the newsletter. Subscribers get new pieces first.
+If you have a mechanism without a story, or a story without a game, put it in front of a table and see what they make of it. The Ludarium plans open playtest nights for designers once its Indianapolis lounge opens. For new articles on design, play, and the people around the table, subscribe to the newsletter. Subscribers get new pieces first.

@@ -46,7 +46,7 @@ It depends on what you want the night to feel like.
 - **You are bringing kids.** The Garage on a Tuesday evening or a library family night. Brewery nights are adult rooms.
 - **You want a specific hobby game.** Store events. See our [Indianapolis store guide](/articles/indianapolis-board-game-stores/) for the full list by neighborhood.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you walk into a game night where you know nobody?
 
@@ -99,4 +99,4 @@ Brewery meetups are adult rooms, and Red Lion is 21+. The Garage food hall's Tue
 
 There is a table in this city with a seat open for you tonight or tomorrow. The game is the reason. The people are the point.
 
-For the weekly calendar as it changes, new public nights as they start, and The Ludarium's own game nights before the lounge opens, subscribe to the newsletter. One short email a week with one night worth leaving the house for.
+For the calendar as it changes, new public nights as they start, and The Ludarium's own game nights before the lounge opens, subscribe to the newsletter. Short emails with one night worth leaving the house for.

@@ -50,7 +50,7 @@ Start with structure, not people. Rules that apply to everyone are easier to acc
 
 **Make turns visible.** A small token that passes to the active player, or just saying "Dana, you're up." The distracted player is not slow at deciding. They are slow at noticing. Fix the noticing.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## When should you say something directly?
 
@@ -107,6 +107,6 @@ Simultaneous-action games like 7 Wonders and Sushi Go, and games with few choice
 
 A soft timer with a friendly default move can help. A strict stopwatch tends to create anxiety and make the problem worse for nervous players.
 
-## One table-tested idea a week
+## More table-tested ideas
 
-The Ludarium newsletter sends one practical piece each week on hosting, playing, and keeping a table happy, including the small fixes that keep a slow night moving. Subscribe and you will also be first to hear when our Indianapolis lounge opens.
+The Ludarium newsletter sends new practical pieces on hosting, playing, and keeping a table happy, including the small fixes that keep a slow night moving. Subscribe and you will also be first to hear when our Indianapolis lounge opens.

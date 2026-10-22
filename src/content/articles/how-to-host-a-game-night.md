@@ -57,7 +57,7 @@ Rules for choosing:
 
 If you need to brush up, [how to teach a board game](/articles/how-to-teach-a-board-game/) is worth reading the day before.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What food works at a game night?
 
@@ -119,6 +119,6 @@ Ask them to bring one if they like, but plan as though they will not. You remain
 
 Clear one table completely, pick games with small footprints like Azul or The Crew, and cap the group at four or five. Space matters more than square footage.
 
-## Get one hosting idea a week
+## Get new hosting ideas
 
-The Ludarium newsletter sends one practical piece on hosting, playing, and gathering every week, with first word on game nights at our Indianapolis lounge as it opens. If this checklist helped, subscribe and we will keep them coming.
+The Ludarium newsletter sends one practical piece on hosting, playing, and gathering, with first word on game nights at our Indianapolis lounge as it opens. If this checklist helped, subscribe and we will keep them coming.

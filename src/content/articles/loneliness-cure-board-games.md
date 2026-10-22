@@ -42,7 +42,7 @@ The honest answer is that the strongest evidence is for social connection in gen
 
 What makes games unusual compared to other group activities is the ratio of structure to talk. A book club needs everyone to have done homework. A sports league needs fitness and a field. A dinner party needs a host who cooks. A game of Codenames needs a table and 20 minutes. The barrier is low enough that the habit sticks.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What kind of games work best for connection?
 

@@ -22,7 +22,7 @@ Game stores are the main public venue for Dungeons & Dragons <!-- AFFILIATE --> 
 
 **[Moonshot Games](https://moonshotgamestore.com/)**, downtown Noblesville (50 N 9th St). Just over the Fishers line. A game room, demo copies, and a regular events calendar.
 
-If you live in Carmel or Fishers and are willing to drive 25 minutes, the downtown Indianapolis stores add more options. [Good Games](https://www.goodgamesna.com/us/stores/indiana/indianapolis.html) on South Meridian has the largest play space in the city.
+If you live in Carmel or Fishers and are willing to drive 25 minutes, the downtown Indianapolis stores add more options. [Good Games](https://www.goodgamesna.com/venue/good-games-indianapolis/) on South Meridian has the largest play space in the city.
 
 ## Is there anywhere to play D&D in Westfield?
 
@@ -36,7 +36,7 @@ Hamilton County's library systems are active and worth checking directly. [Hamil
 
 Library tables have two advantages over store tables. They are free, and they are built for beginners. The disadvantage is that most are for teens; adult programming is rarer.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you find a private D&D group on the north side?
 
@@ -92,4 +92,4 @@ Yes. Free RPG days, library programs, and one-shots are designed for first-timer
 
 The north side has the players and the stores. It will have the rooms. The game is the reason. The people are the point.
 
-If you want a note when a new public D&D table opens in Hamilton County, and first word on The Ludarium's own standing campaign nights, subscribe to the newsletter. One short email a week, and the Indianapolis venue list updated as it changes.
+If you want a note when a new public D&D table opens in Hamilton County, and first word on The Ludarium's own standing campaign nights, subscribe to the newsletter. Short emails, and the Indianapolis venue list updated as it changes.

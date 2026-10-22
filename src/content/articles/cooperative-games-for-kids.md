@@ -51,7 +51,7 @@ Ages and player counts are the publishers' (names link to the publisher where on
 
 For siblings under eight, start with Outfoxed! and My First Castle Panic. For eight to twelve, Forbidden Island and then The Crew. The Crew in particular is special: it forces kids to pay attention to what their sibling needs without being allowed to say it out loud, which is a skill most adults lack. We have a whole piece on [why The Crew is such a good teaching game](/articles/the-crew-card-game/).
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you run a co-op so one kid doesn't take over?
 
@@ -99,4 +99,4 @@ Yes, and they should once they know the rules. Play the first few games together
 
 The Ludarium is building a game lounge in Indianapolis, and one of the scenes we picture most is two kids who fight in the car the whole way there, then spend forty minutes saving the same sinking island. The game is the reason. The people are the point.
 
-For one piece a week on playing well with the people you live with, subscribe to the newsletter at theludarium.com. Never stop playing.
+For new pieces on playing well with the people you live with, subscribe to the newsletter at theludarium.com. Never stop playing.

@@ -55,7 +55,7 @@ The table shows a pattern. Each step took something a different genre did well a
 
 Deck builders also borrowed from Dominion's cousins. The idea of thinning a deck, buying cards that remove weaker cards, became a standard skill. So did the idea of cards that trigger when another card is played, which rewards building toward a plan rather than buying whatever looks strong.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What makes a deck builder feel good to play?
 
@@ -121,4 +121,4 @@ Most play in 30 to 60 minutes. Games with boards or campaign elements, like Clan
 
 ## Keep building
 
-Designers are welcome to bring deck-builder prototypes to open playtest nights at The Ludarium in Indianapolis, where a table of patient strangers is the best tool you will find. If you would rather start with the reading, subscribe to the newsletter. One piece a week on design, play, and the people around the table, delivered before it hits the site.
+For deck-builder prototypes, a table of patient strangers is the best tool you will find. The Ludarium plans open playtest nights for designers once its Indianapolis lounge opens. If you would rather start with the reading, subscribe to the newsletter. New pieces on design, play, and the people around the table, delivered before they hit the site.

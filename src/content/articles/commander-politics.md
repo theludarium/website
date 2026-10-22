@@ -1,10 +1,10 @@
 ---
 title: "Commander Politics: Why Four-Player Magic Makes Enemies"
 description: "Commander politics turns a card game into a negotiation, and sometimes a grudge. Why four-player Magic breeds resentment and how to keep your friends."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["Commander politics", "EDH politics", "Commander kingmaking", "multiplayer Magic etiquette", "Commander table talk", "Commander threat assessment", "Magic: The Gathering and Cube"]
-draft: true
+draft: false
 ---
 Commander politics is the negotiation layer that sits on top of every four-player game of Magic: who to attack, who to spare, who to believe, and who to blame when it goes wrong. It is the reason Commander is the most popular way to play the game, and it is the reason more friendships have been strained over a Commander table than over any other format. Both things are true, and this article is about why, and what to do about it.
 
@@ -56,7 +56,7 @@ Board game designers have spent decades on the same problem, and some of their s
 
 The games that work use one of two strategies. Either they make betrayal the explicit theme so nobody is surprised, or they make threat visible and objective so attacking the leader feels like math, not malice. Commander does neither by default. The table has to supply it. The piece on [why social deduction games work](/articles/why-social-deduction-games-work/) covers how designers build betrayal into games on purpose.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you play Commander politics without making enemies?
 
@@ -106,6 +106,6 @@ Ask the table why. If it is because your deck is much stronger than theirs, play
 
 ## Keep the pod together
 
-Every Commander player has a story about a game that went sour. The point is to have more stories about the games that did not. The Ludarium newsletter sends one piece a week on playing games with people you want to keep, Magic included. If you ever want a break from four-player politics, Cube Commonwealth, our drafting community, runs clean eight-player drafts with no deals to break, and the Indianapolis lounge will have room for both.
+Every Commander player has a story about a game that went sour. The point is to have more stories about the games that did not. The Ludarium newsletter sends new pieces on playing games with people you want to keep, Magic included. If you ever want a break from four-player politics, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, is relaunching as part of The Ludarium: eight-player drafts, no deals to break. Subscribe to hear when the first night is set.
 
 The game is the reason. The people are the point.

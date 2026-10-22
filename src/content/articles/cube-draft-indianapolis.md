@@ -51,7 +51,7 @@ The cube itself: <!-- EDITOR: add detail (cube size, power level, CubeCobra link
 
 <!-- EDITOR: confirm --> There is no entry fee for the draft. The cube is provided. If we are in a venue that serves food or drink, the norm is that everyone buys something, because sixteen people at a table for three hours is a cost to the venue and we want to be invited back.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Where else can you play Magic in Indianapolis?
 
@@ -59,7 +59,7 @@ Cube Commonwealth is one night a week. For the other six, Indianapolis has a sto
 
 **Downtown and near north**
 
-- **[Good Games Indianapolis](https://www.goodgamesna.com/us/stores/indiana/indianapolis.html)**, 111 S Meridian St. The largest play space downtown, with events most days and a free Casual Commander night on Sundays listed on its [public calendar](https://meetup.com/goodgames).
+- **[Good Games Indianapolis](https://www.goodgamesna.com/venue/good-games-indianapolis/)**, 111 S Meridian St. The largest play space downtown, with events most days and a free Casual Commander night on Sundays listed on its [public calendar](https://meetup.com/goodgames).
 - **[Paradigm Games](https://paradigmgames.co/)**, 2479 N Meridian St. Wizards Play Network store with Commander Night on Thursdays, Standard Showdown on Wednesdays, Friday Night Magic draft at 6:30, and free-play Commander on Tuesday afternoons and Saturdays at noon.
 
 **North suburbs**
@@ -106,4 +106,4 @@ Good Games downtown, Paradigm Games on N Meridian, Moonshot Games in Noblesville
 
 ## Pull up a chair
 
-The cube is back on the table. Join the Cube Commonwealth Discord <!-- EDITOR: add Discord invite link -->, react to the weekly post, and come draft with us. If you want the night's news, the open-seat announcements, and first word on The Ludarium's lounge in Indianapolis, subscribe to the newsletter. One short email a week. The game is the reason. The people are the point.
+The cube is back on the table. Join the Cube Commonwealth Discord <!-- EDITOR: add Discord invite link -->, react to the weekly post, and come draft with us. If you want the night's news, the open-seat announcements, and first word on The Ludarium's lounge in Indianapolis, subscribe to the newsletter. Short emails. The game is the reason. The people are the point.

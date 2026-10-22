@@ -46,7 +46,7 @@ Each week, one person chooses the game from the family shelf. Youngest first. A 
 
 Stop at the hour even if everyone wants more. Especially if everyone wants more. "Again next week" is the feeling you want to leave in the room.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What games should a family start with?
 
@@ -109,8 +109,8 @@ One hour. Two or three short games with a snack in the middle. Longer sessions a
 
 Pick games the youngest can play and the oldest does not mind, like Kingdomino or Outfoxed!, and pair the youngest with a parent as a team when needed.
 
-## Get one game-night idea a week
+## Get new game-night ideas
 
 The Ludarium is building a place in Indianapolis where families can do this on a bigger table, with a bigger shelf, and other families at the next one over. Until then, your kitchen table works fine. The game is the reason. The people are the point.
 
-Subscribe to the newsletter at theludarium.com for one short family game-night idea every week, timed to land before Saturday. Never stop playing.
+Subscribe to the newsletter at theludarium.com for new short family game-night ideas, timed to land before Saturday. Never stop playing.

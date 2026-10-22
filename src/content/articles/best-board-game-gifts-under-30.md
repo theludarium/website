@@ -57,7 +57,7 @@ Grouped by who you are shopping for. Prices are approximate, in US dollars, at t
 
 **Catan on the Road** <!-- AFFILIATE --> (about $8 to $10; [$9.99 at the Asmodee store](https://store.asmodee.com/products/catan-on-the-road) and [$7.99 at Miniature Market](https://www.miniaturemarket.com/Catan-On-the-Road/CN3143) at the time of writing). Not Catan. A tiny travel version with cards that captures the trading and building in fifteen minutes. A stocking-level price for a recognizable name.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which one should I buy if I know nothing about the person?
 
@@ -107,4 +107,4 @@ Amazon and Target usually have the lowest everyday prices on mass-market titles,
 
 ## Get one game recommendation a week
 
-If you would like picks like these in your inbox, subscribe to The Ludarium newsletter. One short piece each week on games, the people who play them, and how to get more of both into your life. When our Indianapolis lounge opens, every game on this list will be on the shelf for you to try before you buy. See also our list of [quick board games under 30 minutes](/articles/quick-board-games-under-30-minutes/) for the ones that fit a weeknight.
+If you would like picks like these in your inbox, subscribe to The Ludarium newsletter. New pieces on games, the people who play them, and how to get more of both into your life. When our Indianapolis lounge opens, every game on this list will be on the shelf for you to try before you buy. See also our list of [quick board games under 30 minutes](/articles/quick-board-games-under-30-minutes/) for the ones that fit a weeknight.

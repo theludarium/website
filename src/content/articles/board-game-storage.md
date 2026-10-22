@@ -48,7 +48,7 @@ Cube-style units are the common choice because the cubes happen to be close to a
 | Under-bed bins | Expansions, flat boxes | Hard to browse; good for archive |
 | Drawer or cabinet | Small card games, dice, sleeves | Easy to lose track of what is inside |
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you cut a collection down without regret?
 
@@ -111,6 +111,6 @@ Cull first, then use a deep adjustable shelf for the games you play most, downsi
 
 A tall bookcase with adjustable shelves holds somewhere in the range of 40 to 60 mixed-size games stored flat, depending on how many are small card games and how deep the shelves are. The common [31-by-80-inch bookcase](https://www.ikea.com/us/en/p/billy-bookcase-white-00263850/) is only 11 inches deep, so a 12-inch box overhangs by an inch; measure before you buy.
 
-## One shelf-worthy idea a week
+## More shelf-worthy ideas
 
-The Ludarium newsletter sends one practical piece each week on hosting, storing, and playing well, with no filler and no twelve-game listicles. Subscribe and you will also hear first when our Indianapolis lounge opens, with a library you can play from instead of storing at home.
+The Ludarium newsletter sends new practical pieces on hosting, storing, and playing well, with no filler and no twelve-game listicles. Subscribe and you will also hear first when our Indianapolis lounge opens, with a library you can play from instead of storing at home.

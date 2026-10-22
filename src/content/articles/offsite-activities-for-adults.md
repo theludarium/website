@@ -69,7 +69,7 @@ Here is a shortlist of options that have worked for real teams, grouped by that 
 
 Costs vary a lot by city and vendor. If you need numbers, see [what a corporate game night costs](/articles/corporate-team-building-cost/) for rough ranges.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How should you structure the day?
 
@@ -119,4 +119,4 @@ Make participation optional and offer a low-pressure role, like keeping score or
 
 ## Planning one?
 
-The Ludarium runs [corporate tabletop events](/corporate-events/) across Indianapolis and the surrounding area: hosted game sessions sized for eight people or eighty, with hosts who teach the rules so your team can just play. If you are building your own plan, subscribe to [the newsletter](/newsletter/) for one tested workplace activity each week.
+The Ludarium runs [corporate tabletop events](/corporate-events/) across Indianapolis and the surrounding area: hosted game sessions sized for eight people or eighty, with hosts who teach the rules so your team can just play. If you are building your own plan, subscribe to [the newsletter](/newsletter/) for new tested workplace activitys.

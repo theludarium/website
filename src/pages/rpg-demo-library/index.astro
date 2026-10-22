@@ -44,6 +44,7 @@ const quoted = (label: string) => label.match(/"(.+)"/)?.[1];
             <span class="rdl-pdf">
               Full adventure PDF, {d.product.price}
               {!d.product.checkout && ', coming soon'}
+              {d.product.paperback && '. Also in paperback.'}
             </span>
           )}
         </a>

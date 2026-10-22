@@ -32,7 +32,7 @@ The proposed mechanisms are still being studied, but researchers point to chroni
 
 So social fitness is not a soft concept. By the numbers, it is in the same conversation as exercise and diet.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Why is friendship so hard to maintain as an adult?
 
@@ -94,7 +94,7 @@ Yes. A weekly game night provides fixed people, a fixed time, repeated interacti
 
 ## Start training this week
 
-The Ludarium in Indianapolis is a place to do your social fitness the way you'd do any other kind: regularly, with people, and without having to host. New articles on play and health go to subscribers first. Subscribe to the Ludarium newsletter for one piece a week on togethering for a lifetime.
+The Ludarium in Indianapolis is a place to do your social fitness the way you'd do any other kind: regularly, with people, and without having to host. New articles on play and health go to subscribers first. Subscribe to the Ludarium newsletter for new pieces on togethering for a lifetime.
 
 ## Sources
 

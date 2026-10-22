@@ -49,7 +49,7 @@ Avoid games over forty-five minutes, games with long setups, and anything that n
 
 Keep food in mind too. Card games and greasy sandwiches are enemies. Sleeve cards or steer the room toward games with chunky tiles on sandwich days.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you run the hour?
 
@@ -116,4 +116,4 @@ Start with two or three people and play anyway. Visibility and personal invitati
 
 ## Want a running start?
 
-The Ludarium runs [corporate tabletop events](/corporate-events/) in Indianapolis and the surrounding area, including kickoff sessions for new workplace game clubs: we bring a shelf, teach the first few games, and leave your team with a starter list and the confidence to run it. If you are launching one on your own, subscribe to [the newsletter](/newsletter/) for one short, teachable game idea every week.
+The Ludarium runs [corporate tabletop events](/corporate-events/) in Indianapolis and the surrounding area, including kickoff sessions for new workplace game clubs: we bring a shelf, teach the first few games, and leave your team with a starter list and the confidence to run it. If you are launching one on your own, subscribe to [the newsletter](/newsletter/) for new short, teachable game ideas.

@@ -41,7 +41,7 @@ The building method that fits on one line: lay out all the cards in your two col
 
 For the cube's own archetypes, the guide should name three that are easy for a first-timer and say so: usually a two-color aggro deck, a two-color midrange deck with removal, and whatever the cube's most forgiving control lane is. Combo and graveyard decks are for the third draft. The primer's archetype section describes all the lanes; the first-timer page should just point at the easy three.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What five mistakes does everyone make once?
 
@@ -109,4 +109,4 @@ One page, about two hundred words. Anything longer will not be read in the car o
 
 A first-timer who follows this page will build a real deck, win a game, and come back. That is all the page is for, and it is worth more than any other page in the primer. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for the rest of this series on cube primers, one part a week. If you have never drafted and you are near Indianapolis, the easiest first draft we know of is at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for the rest of this series on cube primers. If you have never drafted and you are near Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium, and first-timers will be welcome. Subscribers hear first when the first night is set.

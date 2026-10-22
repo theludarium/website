@@ -1,10 +1,10 @@
 ---
 title: "Cube Gold Section: How Big Should It Be?"
 description: "How big should a cube gold section be? Sizes by cube size and fixing level, how to split gold cards across color pairs, and what the colorless section owes it."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube gold section", "multicolor cards in cube", "gold cards cube", "cube colorless section", "cube signpost gold", "cube color pairs", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 The cube gold section is the set of multicolor cards, and its size does more to shape a draft than any other single count. Too small and color pairs have no identity; drafters take the best card in every pack and the decks all look alike. Too large and gold cards go late, drafters feel punished for committing to two colors, and the "wrong" pairs feel unsupported. The common range is 5 to 12 percent of the cube, and where you land inside it depends on your fixing and your archetype count.
 
@@ -50,7 +50,7 @@ Even distribution is the default because an uneven gold section makes some pairs
 
 The exception is a cube with a deliberate identity. If your cube is built around four lanes and six good-stuff pairs, give the four lanes five gold cards each and the other six pairs two each. Write that down in the primer so drafters know. The unevenness is a feature when it is on purpose and announced.
 
-Within each pair, a structure we use at five per pair in a 540:
+Within each pair, a structure that works at five per pair in a 540:
 
 1. **Cheap signpost** (two mana). Visible, castable early, tells the story.
 2. **Mid signpost** (three or four mana). The card drafters build around.
@@ -60,7 +60,7 @@ Within each pair, a structure we use at five per pair in a 540:
 
 The two signposts are the non-negotiables. The other three can shift with the season. Our signpost-cards piece covers how those two teach a draft.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Should the gold section include three-color cards?
 
@@ -125,4 +125,4 @@ No. A hybrid card can be cast by either color, so it does not reward two-color c
 
 ## Keep playing
 
-For one cube design piece a week, including the next time we resize our own gold section and what happened after, subscribe to The Ludarium newsletter. And if you draft in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) runs a 540 with fifty gold cards and an argument about every one of them.
+For new cube design pieces, subscribe to The Ludarium newsletter. And if you draft in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

@@ -1,10 +1,10 @@
 ---
 title: "Themed Cube Primer: Writing One for a Restricted Cube"
 description: "A themed cube primer must explain the restriction first. How to state the rule precisely, say what it costs, and redraw the archetype section around it."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["themed cube primer", "restricted cube primer", "pauper cube primer", "set cube primer", "tribal cube primer", "cube restriction rules", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 A themed cube primer carries one job a standard primer does not: it has to explain the restriction before a drafter can understand anything else. A Pauper cube, a set cube, a tribal cube, a cube with no cards printed after 2003, an artifact cube: in each, the rule that limits the card pool also rewrites what the archetypes are, what "a good card" means, and which questions the FAQ will field every week.
 
@@ -24,7 +24,7 @@ Be specific about the three things most restrictions affect:
 
 - **Removal.** A Pauper cube has plenty of cheap removal but almost no sweepers. A set cube has whatever the set had, which may be very little. Say what kind of removal exists and what kind does not.
 - **Finishers.** Without rares, games end differently. Name how. In Pauper it is usually evasion, go-wide, or a card advantage edge that grinds the opponent out. In a tribal cube it is the lord effects.
-- **Fixing.** Restrictions often gut the mana. A commons-only cube runs on gain-lands and bounce lands. A pre-2003 cube has pain lands and little else. Say how many colors a drafter can expect to play, and whether splashing is realistic.
+- **Fixing.** Restrictions often gut the mana. A commons-only cube runs on gain-lands and bounce lands. A pre-2003 cube has pain lands, original duals and the first fetch lands, but the duals are expensive. Say how many colors a drafter can expect to play, and whether splashing is realistic.
 
 Then say what the restriction buys. Every good themed cube trades power for something: closer games, a set's nostalgia, a tribe's identity, a lower cost to build. Name it, because it is the reason the cube exists, and a drafter who knows the trade will enjoy the result instead of resenting the absence.
 
@@ -40,7 +40,7 @@ A set cube's lanes are the set's own archetypes, and the section can lean on the
 
 An artifact cube or a spells-matter cube has lanes defined by the theme's sub-strategies, and the section should list those explicitly, with the count of enablers and payoffs for each, since drafters have no color-pair instinct to fall back on.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which extra sections does a themed primer need?
 
@@ -65,7 +65,7 @@ The five mistakes everyone makes once also change. Rewrite them for the theme. T
 | Theme | The rule, precisely | What it costs | The lane unit |
 |---|---|---|---|
 | Pauper | Printed at common in a paper set | Sweepers, bombs, fixing | Color pair plus engine |
-| Peasant | Common or uncommon | Mythic-level finishers, planeswalkers | Color pair |
+| Peasant | Common or uncommon | Mythic-level finishers, most planeswalkers | Color pair |
 | Set cube | Cards from named set codes only | Everything the set lacked | The set's own archetypes |
 | Tribal | Each deck has a creature type | Flexibility, mid-draft pivots | The tribe |
 | Date-restricted | Printed before a named set | Modern card quality, fixing | Color pair, era-adjusted |
@@ -103,4 +103,4 @@ Yes. Give the exact tool, such as a Scryfall search string or set codes, so draf
 
 A themed cube's restriction is not a limitation to explain away. It is the reason the cube exists, and the primer's job is to state it so clearly that a drafter sees what it offers before they notice what it lacks. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for the rest of this series on cube primers, one part a week. If you are in Indianapolis and run a themed cube of your own, bring it to [Cube Commonwealth](/articles/cube-draft-indianapolis/) and we will draft it.
+Subscribe to The Ludarium newsletter for the rest of this series on cube primers. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

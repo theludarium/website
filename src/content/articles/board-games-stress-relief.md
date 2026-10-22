@@ -32,7 +32,7 @@ There is also research on laughter, which we cover separately in [what shared hu
 
 Put together, the research suggests that a board game stacks three things that each seem to help: absorption, company, and laughter. That is a reasonable explanation for why people walk away from a game night lighter than they arrived, even after losing badly.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Why doesn't scrolling do the same thing?
 
@@ -100,7 +100,7 @@ Partly. Absorption works alone, and solo modes in games like Wingspan and Cascad
 
 ## One game a week, before you need it
 
-The Ludarium is building a place in Indianapolis where a hard, calming game and good company are always available. New articles on play and health go to subscribers first. Subscribe to the Ludarium newsletter for one piece a week on playing for a lifetime.
+The Ludarium is building a place in Indianapolis where a hard, calming game and good company are always available. New articles on play and health go to subscribers first. Subscribe to the Ludarium newsletter for new pieces on playing for a lifetime.
 
 ## Sources
 

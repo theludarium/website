@@ -55,7 +55,7 @@ Then something happens. Someone rolls badly at a bad moment, or the quiet player
 
 If you freeze when the DM turns to you, the cheapest move is to ask a question in character. "What does the room look like?" "Does the guard seem nervous?" Questions are always a legal turn. We cover more options for the stuck moment in [what to do when you don't know what your character would do](/articles/roleplaying-tips-for-beginners/).
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How is D&D different from a board game?
 
@@ -107,4 +107,4 @@ The DM corrects it and the game moves on. Rules mistakes happen at every table, 
 
 ## Keep going
 
-The Ludarium publishes one piece like this every week for people who want more time at the table with people they like. Subscribe to the newsletter to get each one. Want to try a game before you buy it? Play a free intro adventure in the [RPG Demo Library](/rpg-demo-library/), right in your browser, by each game's real rules.
+The Ludarium publishes new pieces like this for people who want more time at the table with people they like. Subscribe to the newsletter to get each one. Want to try a game before you buy it? Play a free intro adventure in the [RPG Demo Library](/rpg-demo-library/), right in your browser, by each game's real rules.

@@ -54,7 +54,7 @@ Ask one person at a time if you can. Group feedback converges on whoever speaks 
 
 When someone offers a solution, thank them and ask what problem it solves. "A trading phase, interesting. What were you hoping trading would let you do?" Then write down the problem, not the solution.
 
-*Designers: the newsletter sends one piece like this every week.*
+*Designers: the newsletter sends new pieces like this.*
 
 ## How do you separate a bad test from a bad game?
 
@@ -126,4 +126,4 @@ Ask specific questions like "what was the most interesting decision you made" an
 
 ---
 
-If you are testing a game of your own, the newsletter is the easiest way to keep up: one piece a week on design, playtesting, and the tables games get played at, plus first notice of open prototype nights when The Ludarium opens in Indianapolis. Subscribe at theludarium.com. The game is the reason. The people are the point.
+If you are testing a game of your own, the newsletter is the easiest way to keep up: new pieces on design, playtesting, and the tables games get played at, plus first notice of open prototype nights when The Ludarium opens in Indianapolis. Subscribe at theludarium.com. The game is the reason. The people are the point.

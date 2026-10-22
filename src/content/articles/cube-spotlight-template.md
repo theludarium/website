@@ -77,7 +77,7 @@ Copy from here down.
 
 <!-- EDITOR: the answer to question 6, one paragraph. The card, why it was cut, why the owner still thinks about it. This is often the most human part of the piece. -->
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## The biggest change
 

@@ -49,7 +49,7 @@ Ages and player counts are the publishers' (game names link to the publisher's p
 | [Forbidden Island](https://gamewright.com/product/Forbidden-Island) | 10+ | 2–4 | 30 min | Cooperative treasure hunt on a sinking island. Pandemic's gentler cousin. |
 | [Sleeping Queens](https://gamewright.com/product/Sleeping-Queens) | 8+ | 2–5 | 20 min | A card game designed by a six-year-old. Wake queens, play knights, do a little addition. |
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which family board game should you buy first?
 
@@ -102,8 +102,8 @@ Thirty to forty-five minutes for a mixed-age table. Younger children do best wit
 
 Yes, especially for families where competition causes fights. Outfoxed!, Forbidden Island, and The Crew put everyone on one side, so the hard conversation after the game is about the plan, not the person.
 
-## One game-night idea a week
+## More game-night ideas
 
 We started The Ludarium in Indianapolis because the best part of a game was never the game. It was the hour around the kitchen table where nobody looked at a phone and the eight-year-old beat her dad at Kingdomino and would not stop talking about it. The game is the reason. The people are the point.
 
-If you want one tested family game pick in your inbox each week, with the age range and the honest play time, subscribe to the newsletter at theludarium.com. Never stop playing.
+If you want one tested family game pick in your inbox, with the age range and the honest play time, subscribe to the newsletter at theludarium.com. Never stop playing.

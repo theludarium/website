@@ -47,7 +47,7 @@ The simplest workable combination is rulebook first, then host or teacher. If th
 
 Some groups like a "ruling goes against whoever raised it" rule for ambiguous cases, on the theory that it discourages fishing for favorable readings. It works for competitive regulars. It is harsh for new players, who raise questions because they are learning. Know your table.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you handle a rules lawyer?
 
@@ -109,4 +109,4 @@ Apply a fixed process evenly: short rulebook check, then a named final authority
 
 ## Fewer arguments, better nights
 
-The Ludarium newsletter sends one practical piece each week on hosting and playing well, including the small procedures that keep a table friendly. Subscribe and you will also be first to hear when our Indianapolis lounge opens, where the host always has the rulebook handy.
+The Ludarium newsletter sends new practical pieces on hosting and playing well, including the small procedures that keep a table friendly. Subscribe and you will also be first to hear when our Indianapolis lounge opens, where the host always has the rulebook handy.

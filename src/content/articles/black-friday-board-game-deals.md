@@ -48,7 +48,7 @@ Also wait on:
 - **Mass-market party games.** Exploding Kittens, Hues and Cues, and the like. Tom's Guide tracked Exploding Kittens: The Board Game at [$9 against a $24 list](https://www.tomsguide.com/gaming/black-friday-2025-board-games-card-games-deals) in 2025.
 - **Previous editions.** When a publisher refreshes a game, as Catan did with its sixth edition in 2025, the old edition clears out cheaply. The play is identical.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What is not worth waiting for?
 
@@ -105,4 +105,4 @@ Probably not. Stonemaier sells it direct at a fairly stable price. Watch the pub
 
 ## One good deal a week, and the reason behind it
 
-Subscribe to The Ludarium newsletter and we will send one short piece a week on games worth owning, including a note in November on which deals are real. When our Indianapolis lounge opens, you can play the whole list before you buy any of it.
+Subscribe to The Ludarium newsletter and we will send new short pieces on games worth owning, including a note in November on which deals are real. When our Indianapolis lounge opens, you can play the whole list before you buy any of it.

@@ -1,10 +1,10 @@
 ---
 title: "What Is a Tableau in Board Games? A Plain Explainer"
 description: "Tableau board game term explained. What a tableau is, how it differs from a hand or deck, why tableau builders feel good, and which games to learn it from."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Guides
 tags: ["tableau board game", "tableau building games", "what is a tableau", "tableau meaning board games", "tableau vs hand", "Race for the Galaxy tableau", "Glossary"]
-draft: true
+draft: false
 ---
 A tableau in a board game is the set of cards or tiles a player has placed face up in front of them, which stays there and keeps affecting the game. If a card in your hand is a possibility and a card in your discard pile is history, a card in your tableau is a permanent part of who you are in this game. The term "tableau board game" or "tableau builder" describes games where building that personal display is the main activity.
 
@@ -46,7 +46,7 @@ Many games mix zones. Wingspan has a hand of bird cards and a tableau of played 
 
 Our explainer on [engine building games](/articles/engine-building-games/) covers why permanence matters so much once cards start feeding each other.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What is a tableau builder?
 
@@ -115,4 +115,4 @@ No. Dominion's cards cycle through your deck and are never permanently placed, w
 
 A tableau is a picture of a game played, visible to everyone who sat down for it. It is one of the few things in the hobby you can point to at the end of the night and say, "that is what I did." The game is the reason. The people are the point.
 
-We write one explainer like this every week, and subscribers get it first. Subscribe to The Ludarium newsletter, and if you are in Indianapolis, watch for our membership lounge, where there will be plenty of table space for a tableau that gets out of hand.
+We write new explainers like this, and subscribers get them first. Subscribe to The Ludarium newsletter, and if you are in Indianapolis, watch for our membership lounge, where there will be plenty of table space for a tableau that gets out of hand.

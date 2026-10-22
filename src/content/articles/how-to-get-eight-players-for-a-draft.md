@@ -46,7 +46,7 @@ Our 300-member Discord sounds like the asset. It was not. The asset was six peop
 
 If you have three true regulars, your real job is to turn three into six. Everything else is secondary.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you turn occasional players into regulars?
 
@@ -108,4 +108,4 @@ Size matters less than the core. A reliable six regulars plus a trustworthy week
 
 ## Pull up a chair
 
-If you are in Indianapolis and want to draft with us, Cube Commonwealth is open again. Join the Discord <!-- EDITOR: add Discord invite link --> and watch for the weekly post. If you are building your own night somewhere else, subscribe to The Ludarium newsletter; we send one piece like this every week on running game communities, and first word on the lounge in Indianapolis. The game is the reason. The people are the point.
+If you are in Indianapolis and want to draft with us, Cube Commonwealth is open again. Join the Discord <!-- EDITOR: add Discord invite link --> and watch for the weekly post. If you are building your own night somewhere else, subscribe to The Ludarium newsletter; we send new pieces like this on running game communities, and first word on the lounge in Indianapolis. The game is the reason. The people are the point.

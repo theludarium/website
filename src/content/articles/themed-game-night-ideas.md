@@ -92,7 +92,7 @@ Choose a single game with legs and play it three or four times in a row. Catan <
 
 **The rule:** between games, two minutes of open talk about what worked. Repetition is how people get good, and getting good at a game together is a bond.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you pick a theme for your group?
 
@@ -140,6 +140,6 @@ Once a month is a good rhythm. Regular nights in between give people their comfo
 
 ## One idea a month, delivered
 
-We publish a seasonal version of this list as a [year of game nights](/articles/game-night-calendar-year/), and when The Ludarium opens in Indianapolis, these themes are the programming calendar. Subscribe to the newsletter and you get one game night idea a week, with the games and the setup, before it goes on the site.
+We publish a seasonal version of this list as a [year of game nights](/articles/game-night-calendar-year/), and when The Ludarium opens in Indianapolis, these themes are the programming calendar. Subscribe to the newsletter and you get new game night ideas, with the games and the setup, before it goes on the site.
 
 The game is the reason. The people are the point.

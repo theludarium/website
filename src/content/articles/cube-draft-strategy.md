@@ -1,10 +1,10 @@
 ---
 title: "Cube Draft Strategy: Picks, Signals, and the Table"
 description: "Cube draft strategy for players who keep ending up with 46 playables in five colors. Learn a clear pick order, how to spot signals, and how to read the table."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube draft strategy", "how to draft a cube", "reading signals in draft", "cube pick order", "draft signals", "cube drafting tips", "Magic: The Gathering and Cube"]
-draft: true
+draft: false
 ---
 Good cube draft strategy comes down to three habits: take powerful, flexible cards early, pay attention to what is and is not being passed to you, and commit to two colors by the middle of the first pack. Everything else is detail. This article explains the detail, because the gap between a player who knows those three habits and one who truly applies them is about two match wins a night.
 
@@ -59,7 +59,7 @@ Signals to watch for:
 
 Signals are probabilistic. A late bomb might mean the color is open, or it might mean the drafter upstream is color-locked and gambling. Weigh them, do not worship them.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## When should you commit to colors?
 
@@ -119,6 +119,6 @@ Have one main color by the end of pack one and a settled two-color pair by the m
 
 ## Draft better, then draft together
 
-Drafting is a skill that grows fastest at a regular table with the same cube and the same faces. The Ludarium newsletter sends one piece a week on games that build those tables, and cube drafters who want a group are welcome at Cube Commonwealth, our drafting community. The Indianapolis lounge will have a cube on the shelf when it opens.
+Drafting is a skill that grows fastest at a regular table with the same cube and the same faces. The Ludarium newsletter sends new pieces on games that build those tables, and if you want a regular table in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium. Subscribe to hear when the first night is set.
 
 The game is the reason. The people are the point.

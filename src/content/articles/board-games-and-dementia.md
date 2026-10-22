@@ -32,7 +32,7 @@ Researchers try to handle this by excluding anyone diagnosed within the first fe
 
 There is also the question of what, exactly, is doing the work. A game of Codenames involves language, memory, inference, reading other people, and laughter. Which part helps? Nobody knows. The research suggests it may be the combination.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Is it the game or the company?
 
@@ -92,7 +92,7 @@ If you or someone close to you notices memory lapses that interfere with daily l
 
 The Ludarium exists because we believe play is a lifelong practice, not a childhood phase. Our work with the LEV Institute looks at games the way others look at diet and exercise: as a social and mental health habit worth building on purpose. The game is the reason. The people are the point.
 
-New articles on play and health go to subscribers first. Subscribe to the Ludarium newsletter for one piece a week, and if you're in Indianapolis, come find a table at the lounge.
+New articles on play and health go to subscribers first. Subscribe to the Ludarium newsletter for new pieces, and if you're in Indianapolis, come find a table at the lounge.
 
 ## Sources
 

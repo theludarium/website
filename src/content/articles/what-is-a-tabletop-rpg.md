@@ -53,7 +53,7 @@ No. Fantasy is the biggest slice because D&D got there first, but there is a tab
 
 Some of these are as rules-light as a single page. We ranked the easiest ones in [RPGs that aren't D&D](/articles/easy-tabletop-rpgs-for-beginners/). If dragons leave you cold, that is not a reason to skip the hobby. It is a reason to pick a different book.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Why do grown adults do this?
 

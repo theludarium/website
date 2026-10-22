@@ -42,7 +42,7 @@ Youth groups are louder, more energetic, and more likely to have a cluster of ki
 
 A practical note: with teenagers, the first ten minutes decide the night. Start the game within five minutes of the official start time, before phones come out. Do not wait for stragglers. They will join.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What works for a fellowship hall of 30 to 40?
 
@@ -90,8 +90,8 @@ Use games that run on conversation and judgment rather than speed, trivia, or de
 
 Ninety minutes to two hours. Long enough for a few games or a full station rotation, short enough that families with young kids can come.
 
-## Get one game-night idea a week
+## Get new game-night ideas
 
 A church game night is one of the few events where a twelve-year-old and an eighty-year-old can sit at the same table as equals. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for one game-night idea each week, including formats for groups like yours. And if you run a group in the Indianapolis area, we would like to hear what has worked.
+Subscribe to The Ludarium newsletter for new game-night ideas, including formats for groups like yours. And if you run a group in the Indianapolis area, we would like to hear what has worked.

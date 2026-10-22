@@ -51,7 +51,7 @@ You do not have to use D&D. Several games were built for children and do a bette
 
 For a mixed-age family table, simplified D&D is often the best compromise. The older kids get the brand they asked for, the younger kids get a sheet with four numbers, and the GM runs both at once. We go deeper on [RPGs that aren't D&D](/articles/easy-tabletop-rpgs-for-beginners/) for adults, and several of those scale down well too.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What table rules keep a kids' game fun?
 
@@ -109,4 +109,4 @@ Games designed for kids, such as No Thank You, Evil!, Hero Kids, or Amazing Tale
 
 ## Bring the kids to the table
 
-Subscribe to The Ludarium newsletter for one piece a week on playing with the people you live with. Want to try a game before you buy it? Play a free intro adventure in the [RPG Demo Library](/rpg-demo-library/), right in your browser, by each game's real rules.
+Subscribe to The Ludarium newsletter for new pieces on playing with the people you live with. Want to try a game before you buy it? Play a free intro adventure in the [RPG Demo Library](/rpg-demo-library/), right in your browser, by each game's real rules.

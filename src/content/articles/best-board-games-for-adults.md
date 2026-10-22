@@ -98,7 +98,7 @@ Two players compete to build the best quilt from Tetris-shaped pieces, paying wi
 
 Teams pass coded three-digit messages using shared keywords, trying to be clear to their side and opaque to the other. <!-- AFFILIATE --> It rewards the clever adult who found Codenames too easy.
 
-*If this list is useful, the newsletter sends one piece like it every week.*
+*If this list is useful, the newsletter sends more like it.*
 
 ## How do you pick the right one for your group?
 
@@ -140,6 +140,6 @@ Yes. The Crew, Just One, and Pandemic are fully cooperative, and Cascadia and Az
 
 Wavelength or Just One. Both handle large groups, survive interruptions, and work around a table with food and drinks on it.
 
-## One game night idea a week
+## More game night ideas
 
-The Ludarium newsletter sends one short piece on what to play and how to play it well, every week, with no filler. If you are in Indianapolis, it is also where you will hear about the lounge first. The game is the reason. The people are the point. Subscribe and bring the skeptic.
+The Ludarium newsletter sends one short piece on what to play and how to play it well, with no filler. If you are in Indianapolis, it is also where you will hear about the lounge first. The game is the reason. The people are the point. Subscribe and bring the skeptic.

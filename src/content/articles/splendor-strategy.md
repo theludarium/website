@@ -51,7 +51,7 @@ A rough priority order for the opening:
 
 Taking two of the same color is usually worse than taking three different colors, because three tokens is more buying power than two. The exception is when a specific card needs four or five of one color and nothing else does.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## When should you reserve a card in Splendor?
 
@@ -120,4 +120,4 @@ Nobles come to you automatically at the end of your turn once your permanent bon
 
 ## New guides first, to subscribers
 
-Splendor is in the Indianapolis lounge's first-ten list for exactly the reasons above: it teaches in five minutes and rewards a hundred plays. The Ludarium newsletter sends one piece a week on games, the people who play them, and the lounge as it comes together. [Subscribe](/newsletter) and get the next strategy guide before it goes on the site.
+Splendor is in the Indianapolis lounge's first-ten list for exactly the reasons above: it teaches in five minutes and rewards a hundred plays. The Ludarium newsletter sends new pieces on games, the people who play them, and the lounge as it comes together. [Subscribe](/newsletter) and get the next strategy guide before it goes on the site.

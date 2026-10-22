@@ -36,7 +36,7 @@ The jigsaw deserves emphasis. A puzzle left out on a card table is the most inte
 
 If you want more options, [solo board games](/articles/best-solo-board-games/) goes deeper into playing alone without it feeling lonely.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What can you play with the person you care for?
 
@@ -102,4 +102,4 @@ Area Agencies on Aging, hospices, the Alzheimer's Association, the Family Caregi
 
 ## One hour, every week
 
-The Ludarium is building a game lounge in Indianapolis where a caregiver can walk in alone and be handed a seat. If one short piece a week on play, rest, and togethering would help, subscribe to the Ludarium newsletter. Read it in the waiting room. We will keep it short.
+The Ludarium is building a game lounge in Indianapolis where a caregiver can walk in alone and be handed a seat. If new short pieces on play, rest, and togethering would help, subscribe to the Ludarium newsletter. Read it in the waiting room. We will keep it short.

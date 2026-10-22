@@ -37,7 +37,7 @@ The game also surfaces the quarterback: the one person who takes over planning f
 
 A team that plays Pandemic three times fixes most of this without being told. By the third game, people say "let's look at the discard pile first" and "what do you have in hand?" before deciding. They learned it from losing, not from a slide.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What does The Crew show a team about communication?
 
@@ -110,4 +110,4 @@ About two hours total: ninety minutes of play across two or three games and a sh
 
 ## Fail together, weekly
 
-The game is the reason. The people are the point. If your team could use an afternoon of failing cheaply together, The Ludarium runs corporate game events in Indianapolis built around exactly these games. And for everyone else, the Ludarium newsletter delivers one article a week on play, people, and what the table teaches. Subscribe and see what your group learns.
+The game is the reason. The people are the point. If your team could use an afternoon of failing cheaply together, The Ludarium runs corporate game events in Indianapolis built around exactly these games. And for everyone else, the Ludarium newsletter delivers new articles on play, people, and what the table teaches. Subscribe and see what your group learns.

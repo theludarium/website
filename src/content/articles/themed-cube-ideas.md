@@ -1,10 +1,10 @@
 ---
 title: "Themed Cube Ideas: Set Cubes, Tribal Cubes, and More"
 description: "Themed cube ideas that hold up at a weekly table: set cubes, tribal cubes, graveyard cubes, and budget cubes, plus the design rules that keep each one fun."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["themed cube", "set cube", "tribal cube", "constrained cube", "cube design ideas", "Innistrad cube", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 A themed cube is a cube built around a constraint instead of around raw card quality: every card from one plane, every creature a member of a tribe, every spell at a single mana value, every card printed before 1998. The constraint is the point. It produces drafts that a "best cards" cube cannot, and it gives a cube owner a reason to build a second box that is not just a worse version of the first.
 
@@ -41,7 +41,7 @@ There is a design pleasure too. Choosing the best 360 cards is a research proble
 | Budget or rarity | Pauper, peasant | Cheap, teachable | Needs careful aggro support |
 | Novelty rule | All three-drops | A good night | Not a weekly cube |
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What design rules keep a constraint fun?
 
@@ -94,4 +94,4 @@ A pauper or peasant cube can. Most other themes are better as a second box that 
 
 A standard cube is a shared language. A themed cube is a dialect, and it says something about the person who built it. The best ones get pulled out on a slow night and become the thing people ask about. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for one piece a week on cube design and the people who draft it. Indianapolis readers who have a themed cube of their own are welcome to bring it to [Cube Commonwealth](/articles/cube-draft-indianapolis/); we will draft anything once.
+Subscribe to The Ludarium newsletter for new pieces on cube design and the people who draft it. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

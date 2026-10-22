@@ -48,7 +48,7 @@ Three rules for helpers.
 
 Helpers should have played the game at least three times. That is the threshold for knowing which questions are coming.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you make people able to teach it afterward?
 
@@ -106,6 +106,6 @@ About two hours: fifteen minutes to teach, ten minutes of guided play, an hour o
 
 ## The next game we teach
 
-Learn-to-play nights are how we expect new members to find their footing at The Ludarium in Indianapolis, one game at a time. Subscribe to the newsletter and you get the teach sheet for each game we cover, one a week, before the night it is used.
+Learn-to-play nights are how we expect new members to find their footing at The Ludarium in Indianapolis, one game at a time. Subscribe to the newsletter and you get the teach sheet for each game we cover, before the night it is used.
 
 The game is the reason. The people are the point.

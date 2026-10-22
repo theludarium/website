@@ -1,10 +1,10 @@
 ---
 title: "Cube Creature Count: Getting Creatures vs Spells Right"
 description: "Cube creature count sets the pace of every game. Target ratios of creatures to spells by color, why 55 percent creatures works for most cubes, and how to test."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube creature count", "creatures vs spells cube", "cube creature ratio", "noncreature spells cube", "creature density", "cube deck creature count", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 The cube creature count decides whether your games are played on the board or on the stack. A cube that is 65 percent creatures plays like a retail draft: boards get wide, combat matters, removal is premium. A cube that is 40 percent creatures plays like Legacy: the creatures that exist are threats, and the spells around them do the work. Neither is wrong. What goes wrong is building one by accident.
 
@@ -45,7 +45,7 @@ Higher power usually means fewer creatures and better ones.
 
 Those bands are from lists we follow rather than a standard. If you copy a Vintage-style ratio into a peasant cube, the spells will not be good enough to justify the slots, and games will stall.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which noncreature spells deserve the slots?
 
@@ -102,4 +102,4 @@ Either you have too many or they are not good enough. Check whether the wheeling
 
 Decide whether your games should be won in combat or on the stack, then count to it. The game is the reason. The people are the point.
 
-The Ludarium newsletter sends one cube design piece a week, including the per-color creature sheet we use. Subscribe, and if you are in Indianapolis, draft with us at Cube Commonwealth and count the creatures in your deck afterward: [how to join](/articles/cube-draft-indianapolis/).
+The Ludarium newsletter sends new cube design pieces. Subscribe, and if you are in Indianapolis, you will hear first when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, sets its first night as part of The Ludarium.

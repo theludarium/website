@@ -28,7 +28,7 @@ On the clinical side, UK commentators have long noted that a meaningful share of
 
 The [Harvard Study of Adult Development](https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/) adds the long view: the people most satisfied in their relationships at 50 were the healthiest at 80, a better predictor than their midlife cholesterol. If that is true, then connecting a 60-year-old to a weekly group is preventive care in a real sense.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What does the evidence say about whether social prescribing works?
 
@@ -100,7 +100,7 @@ Not as a national program, but pilots are growing, and the Surgeon General's 202
 
 ## Be the Tuesday on someone's list
 
-The Ludarium is building a place in Indianapolis that a doctor, a link worker, or a lonely neighbor could point someone toward. New articles on play and health go to subscribers first. Subscribe to the Ludarium newsletter for one piece a week on togethering for a lifetime.
+The Ludarium is building a place in Indianapolis that a doctor, a link worker, or a lonely neighbor could point someone toward. New articles on play and health go to subscribers first. Subscribe to the Ludarium newsletter for new pieces on togethering for a lifetime.
 
 ## Sources
 

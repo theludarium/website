@@ -52,6 +52,13 @@ const label = `Game pieces drawn in dots, changing every few seconds: ${DOT_SHAP
   const FELT_LIGHT = [140, 194, 176];
   const HOLD_MARK = 5000; // ms the tile mark stays before the cycle moves on
   const HOLD_PIECE = 3200; // ms each game piece stays
+  // Ordered-dither thresholds for shaded shapes (see sample()).
+  const BAYER = [
+    [0, 8, 2, 10],
+    [12, 4, 14, 6],
+    [3, 11, 1, 9],
+    [15, 7, 13, 5],
+  ];
 
   function setup(root: HTMLElement) {
     const canvas = root.querySelector('canvas')!;
@@ -112,12 +119,17 @@ const label = `Game pieces drawn in dots, changing every few seconds: ${DOT_SHAP
       probe.height = px;
       const p = probe.getContext('2d', { willReadFrequently: true })!;
       p.scale(size / 64, size / 64);
-      DOT_SHAPES[index].draw(p);
+      const shape = DOT_SHAPES[index];
+      shape.draw(p);
       const data = p.getImageData(0, 0, px, px).data;
       const points: [number, number][] = [];
-      for (let gy = 0; gy <= size; gy += spacing) {
-        for (let gx = 0; gx <= size; gx += spacing) {
-          if (data[(Math.round(gy) * px + Math.round(gx)) * 4 + 3] > 127) points.push([left + gx, top + gy]);
+      for (let gy = 0, iy = 0; gy <= size; gy += spacing, iy++) {
+        for (let gx = 0, ix = 0; gx <= size; gx += spacing, ix++) {
+          const a = data[(Math.round(gy) * px + Math.round(gx)) * 4 + 3];
+          // Shaded shapes: keep a share of the dots equal to the opacity, spread
+          // evenly with a 4 x 4 ordered pattern. Plain shapes: inside or out.
+          const keep = shape.shaded ? a / 255 > (BAYER[iy & 3][ix & 3] + 0.5) / 16 : a > 127;
+          if (keep) points.push([left + gx, top + gy]);
         }
       }
       cache.set(index, points);

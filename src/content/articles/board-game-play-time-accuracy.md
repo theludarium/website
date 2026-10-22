@@ -54,7 +54,7 @@ Not all games lie by the same amount. The gap between the box and the table depe
 
 These are estimates from experience, not measurements, and your group will vary. The pattern holds: the more unique text in the game, the further the box drifts from the table.
 
-*Find this practical? The newsletter sends one piece like it every week.*
+*Find this practical? The newsletter sends more like it.*
 
 ## Why does an honest play time matter?
 
@@ -110,6 +110,6 @@ Set up before guests arrive, teach from a short script, use a turn timer only if
 
 ## Plan the evening, not just the game
 
-Picking a game that fits the time you have is one of the small skills that keeps a group playing together for years. The Ludarium newsletter sends one piece like this a week, practical and short, with real session times for the games we cover. Subscribe at theludarium.com, and we will tell you when the Indianapolis lounge opens.
+Picking a game that fits the time you have is one of the small skills that keeps a group playing together for years. The Ludarium newsletter sends new pieces like this, practical and short, with real session times for the games we cover. Subscribe at theludarium.com, and we will tell you when the Indianapolis lounge opens.
 
 The game is the reason. The people are the point.

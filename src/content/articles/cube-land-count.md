@@ -1,10 +1,10 @@
 ---
 title: "Cube Land Count: Fixing, Utility Lands, Basics"
 description: "Cube land count by cube size: how many fixing lands, how many utility lands, how many basics to bring, and how the land section changes what gets drafted."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube land count", "how many lands in a cube", "cube utility lands", "cube basic lands", "cube land section", "lands per cube size", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Cube land count is three separate numbers that owners tend to blur into one. There is the fixing count (dual lands and their relatives, which decide how many colors a deck can play), the utility land count (lands that do something besides make mana), and the basic land count (the stack you bring to the table, which is not part of the cube at all but decides whether a draft can finish). Each has its own logic.
 
@@ -57,7 +57,7 @@ If you want something tighter, 60 is one cycle short of this and plays as medium
 
 Count the land section against the total, not on top of it. If you add a third land cycle to a 540, ten other cards leave, and they should leave evenly across the colors.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How many basic lands should you bring?
 
@@ -115,4 +115,4 @@ More than about 2 percent of the cube, or any utility land that regularly goes u
 
 ## Keep playing
 
-Subscribe to The Ludarium newsletter for one cube piece a week; land counts and fixing debates come up more than any other topic in our Discord, and we write up the ones we settle. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) will seat you and hand you a box of basics.
+Subscribe to The Ludarium newsletter for new cube pieces. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium, and subscribers hear first when the first night is set.

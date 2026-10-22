@@ -1,10 +1,10 @@
 ---
 title: "Modular Cube Design: Swappable Sections"
 description: "Modular cube design: a fixed core plus swappable modules that change the draft from night to night. How to size the core and build modules that fit cleanly."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["modular cube", "cube modules", "swappable cube sections", "cube core and modules", "flexible cube design", "one cube many formats", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 A modular cube is one fixed core of cards plus two or more labeled modules that can be added or swapped to change the draft. Monday's casual night gets the core plus the low-power module. Saturday's grudge match gets the core plus power and fast mana. New-player night gets the core alone. The cube is one box, the maintenance is one list, and the group gets several formats without the owner building several cubes.
 
@@ -55,7 +55,7 @@ Good module ideas, each with the effect it has:
 
 The test for any module: can you describe its effect in one sentence, and does it keep the cube's proportions? A module that is all four-drops and no lands breaks whichever configuration it joins.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you keep the proportions when swapping?
 
@@ -108,4 +108,4 @@ Yes. A low-power configuration is often a marked subset of the core's strongest 
 
 ## Keep playing
 
-For one cube design piece a week, including the modules we have built and the ones we retired, subscribe to The Ludarium newsletter. And if you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) runs more than one configuration, and you are welcome to draft whichever is on the table.
+For new cube design pieces, subscribe to The Ludarium newsletter. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

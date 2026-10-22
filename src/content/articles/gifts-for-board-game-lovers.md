@@ -42,7 +42,7 @@ Our full [board game accessories gift guide](/articles/board-game-accessories-gi
 
 **Good lighting.** No gamer buys a lamp. A warm, bright, adjustable table lamp changes how every game looks, and it is the upgrade visitors notice first. Our piece on [game room setup](/articles/game-room-setup/) has the specifics.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What about experiences instead of objects?
 
@@ -100,6 +100,6 @@ A dice tray, a set of metal or handmade dice, or a miniature of their current ch
 
 Only if you have confirmed they own the base game and do not already own the expansion. Expansions are the most-duplicated gift in the hobby.
 
-## One idea a week, for people who already love games
+## More ideas for people who already love games
 
-Subscribe to The Ludarium newsletter for one short piece a week on games, tables, and the people around them, including what we are learning as we build our Indianapolis lounge. New articles go to subscribers first.
+Subscribe to The Ludarium newsletter for new short pieces on games, tables, and the people around them, including what we are learning as we build our Indianapolis lounge. New articles go to subscribers first.

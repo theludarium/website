@@ -52,7 +52,7 @@ The commons-only pool supports the standard ten-pair structure well, and most pu
 
 Each pair needs two or three gold signposts a drafter can read at a glance. Kathari Bomber, Agony Warp, Wee Dragonauts, and Armadillo Cloak were all common and each points at exactly one lane. Lightning Helix, exactly the kind of card you want, has [only ever been uncommon or rare](https://mtg.wtf/card?q=!%22Lightning+Helix%22) and stays out. Audit the gold section against your lanes and cut anything that does not point at one.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How much removal, and which commons?
 
@@ -104,4 +104,4 @@ The full free-artifact-creature package is strong enough that most lists trim it
 
 A pauper cube is the cube you can hand to a stranger, draft with a new player, and still lose to a friend who has drafted it two hundred times. The game is the reason. The people are the point.
 
-Subscribe to the Ludarium newsletter for a cube-building piece every week, and if you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) drafts pauper on alternating nights; come find out why.
+Subscribe to the Ludarium newsletter for new cube-building pieces, and if you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) drafts pauper on alternating nights; come find out why.

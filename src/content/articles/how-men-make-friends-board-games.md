@@ -42,7 +42,7 @@ A game night solves the specific problems men run into when trying to make frien
 
 **It permits competition and warmth at once.** Men often show affection through trash talk. A game is the one setting where that is the expected register. You can tell your friend his trade was idiotic and both of you will be smiling.
 
-*Want more like this? The newsletter sends one piece a week, no fluff.*
+*Want more like this? The newsletter sends new pieces, no fluff.*
 
 ## What games work for a group of men who barely know each other?
 
@@ -97,7 +97,7 @@ It is a friendship built through a shared activity rather than direct conversati
 
 ---
 
-The Ludarium exists to make the first move easier. The newsletter sends one piece a week on getting people to a table and keeping them there, and it is the first place we will announce the Indianapolis lounge. Subscribe at theludarium.com.
+The Ludarium exists to make the first move easier. The newsletter sends new pieces on getting people to a table and keeping them there, and it is the first place we will announce the Indianapolis lounge. Subscribe at theludarium.com.
 
 The game is the reason. The people are the point.
 

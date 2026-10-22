@@ -1,10 +1,10 @@
 ---
 title: "Cube Primer Archetypes: One Paragraph Per Lane"
 description: "How to write the archetype section of a cube primer: a plan, three signposts, and one weakness per lane, with worked examples drafters can use at pick one."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube primer archetypes", "cube archetype descriptions", "cube signpost cards", "writing cube archetypes", "cube lanes primer", "cube draft archetypes guide", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 The cube primer archetypes section is the part drafters actually use. They skim the introduction, nod at the house rules, and then read the archetype list twice: once before their first draft, and again after they lose with a deck that was not a deck. If this section is good, your cube teaches itself. If it is bad, the regulars teach it, badly, by word of mouth.
 
@@ -42,7 +42,7 @@ Here are three paragraphs in the format, written for a generic unpowered 540-car
 
 Each is under a hundred words. A drafter can read all twelve in five minutes, which is the point.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you order the lanes?
 
@@ -90,4 +90,4 @@ Four to six sentences, under a hundred words: the plan, the signposts, the numbe
 
 A drafter who reads your archetype section before their first draft and again after their first loss has learned the cube faster than a season of play would teach them. That is what the section is for. The game is the reason. The people are the point.
 
-This series on cube primers runs weekly; subscribe to The Ludarium newsletter to get each part as it posts. If you are in Indianapolis, come see how our archetype section holds up at the table with [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+This series on cube primers continues; subscribe to The Ludarium newsletter to get each part as it posts. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

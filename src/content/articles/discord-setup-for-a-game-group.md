@@ -6,7 +6,7 @@ category: Magic & Cube
 tags: ["Discord game group", "Discord server for board game group", "Discord setup for Magic group", "game night Discord channels", "weekly game night post", "Discord roles for a club", "Cube Commonwealth"]
 draft: true
 ---
-A Discord game group lives or dies on one post a week. Everything else in the server exists to make that post land. Cube Commonwealth ran a roughly 300-member, mostly local Discord in Indianapolis for about three years, and it turned a cube and a Thursday into 12 to 16 players a week. Most of the server was clutter. A small part of it did all the work. This is the small part, written so you can copy it in an afternoon.
+A Discord game group lives or dies on new posts. Everything else in the server exists to make that post land. Cube Commonwealth ran a roughly 300-member, mostly local Discord in Indianapolis for about three years, and it turned a cube and a Thursday into 12 to 16 players a week. Most of the server was clutter. A small part of it did all the work. This is the small part, written so you can copy it in an afternoon.
 
 ## What is a Discord server for, in a game group?
 
@@ -65,7 +65,7 @@ Roles in Discord do two things: permissions and pings. You want very few of each
 
 We did not have moderator roles beyond the hosts, because a 300-member local server with a clear purpose rarely needs them. In three years we removed a handful of people, all for the same reason, which was being unkind at the table rather than anything they typed.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you onboard someone without doing it by hand?
 
@@ -123,4 +123,4 @@ Rarely, if the server has a clear purpose and a small set of hosts. Most problem
 
 ## Pull up a chair
 
-If you are in Indianapolis, the Cube Commonwealth server is open again and the weekly post is back in #this-week. Join <!-- EDITOR: add Discord invite link --> and react when you can make it. If you are setting up a server for your own group, subscribe to The Ludarium newsletter: one piece like this every week on running a game community, and first word when the lounge opens here. The game is the reason. The people are the point.
+If you are in Indianapolis, the Cube Commonwealth server is open again and the weekly post is back in #this-week. Join <!-- EDITOR: add Discord invite link --> and react when you can make it. If you are setting up a server for your own group, subscribe to The Ludarium newsletter: new pieces like this on running a game community, and first word when the lounge opens here. The game is the reason. The people are the point.

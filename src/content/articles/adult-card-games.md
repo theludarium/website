@@ -87,7 +87,7 @@ Everyone holds numbered cards, and the table must play them in ascending order w
 
 Technically a board game, but the card deck of spectrums is the heart of it. <!-- AFFILIATE --> "Bad habit to good habit": where does coffee land? The argument is the point.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you move a group off Cards Against Humanity?
 
@@ -125,4 +125,4 @@ It is a fine first-round icebreaker. The complaint is that the jokes are on the 
 
 ## Get a better deck, one idea at a time
 
-The Ludarium newsletter sends one short piece every week on what to play and how to host it, including the games we keep on the shelf at the Indianapolis lounge. The game is the reason. The people are the point. Subscribe and retire the black box.
+The Ludarium newsletter sends new short pieces on what to play and how to host it, including the games we keep on the shelf at the Indianapolis lounge. The game is the reason. The people are the point. Subscribe and retire the black box.

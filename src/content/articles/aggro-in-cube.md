@@ -46,7 +46,7 @@ Quality within the slot matters as much as the count. The best cube one-drops do
 
 A one-drop that is a vanilla 2/1 is fine in pauper and nearly unplayable in a powered cube. Match the quality to your band.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What should you cut to give aggro room?
 
@@ -109,4 +109,4 @@ No. Too much lifegain concentrated on value creatures is. Count how much inciden
 
 A cube where aggro works is a cube where every drafter has to respect the clock, where removal has a purpose, and where the player who takes a risk on turn one can be rewarded. It takes counting and it takes trimming cards you like. Do it anyway. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for one piece a week on cube and the communities that draft it. If you are in Indianapolis, bring your aggro deck to [Cube Commonwealth](/articles/cube-draft-indianapolis/) and prove the format wrong.
+Subscribe to The Ludarium newsletter for new pieces on cube and the communities that draft it. If you are in Indianapolis, bring your aggro deck to [Cube Commonwealth](/articles/cube-draft-indianapolis/) and prove the format wrong.

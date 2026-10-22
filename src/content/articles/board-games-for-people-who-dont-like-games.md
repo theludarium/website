@@ -55,7 +55,7 @@ Some people do not dislike games. They dislike losing, or more precisely, they d
 
 There is also a middle option: games where losing does not feel like losing. Sushi Go! and Azul have final scores, but the gap is small, the game is short, and nobody remembers who won ten minutes later. For someone with a competitive scar, that is the right next step. We have more on this in [how to be a good loser](/articles/how-to-be-a-good-loser/), which is really about building tables where losing is cheap.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which games avoid the spotlight?
 
@@ -117,8 +117,8 @@ Start the game with willing players and let them watch. Give them the lowest-pre
 
 Cooperative games: Just One, The Crew, Hanabi, and Telestrations (which nobody scores). Everyone wins or loses together.
 
-## Get one game-night idea a week
+## Get new game-night ideas
 
 Almost everyone who says they do not like games has simply not met the right one at the right table. The game is the reason. The people are the point.
 
-The Ludarium newsletter sends one game-night idea a week, many of them chosen for exactly this person. Subscribe, and when our Indianapolis lounge opens, bring them. We will have Wavelength on the table.
+The Ludarium newsletter sends new game-night ideas, many of them chosen for exactly this person. Subscribe, and when our Indianapolis lounge opens, bring them. We will have Wavelength on the table.

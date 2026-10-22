@@ -1,10 +1,10 @@
 ---
 title: "Interaction Density and Why Cube Games Feel Good"
 description: "Cube interaction density decides whether games feel like real games or races. How much removal your cube needs, and why the mix matters more than the raw count."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube interaction", "interaction density", "cube removal count", "counterspells in cube", "cube game feel", "cube design philosophy", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Cube interaction is the set of cards that let one player affect what the other is doing: removal, counterspells, discard, bounce, combat tricks, and the creatures that fight. How many of those cards a cube carries, and which kinds, decides more about how the games feel than any other single design choice. Too little and every game is two players goldfishing at each other. Too much and nothing sticks and nobody gets to do their thing.
 
@@ -52,7 +52,7 @@ This is the part most counts miss. Not all interaction creates the same decision
 
 **Creature-based interaction is underrated.** Flametongue Kavu, Shriekmaw, Ravenous Chupacabra, Skyclave Apparition, Brazen Borrower. A creature that removes a creature puts a body on the board, which means the game continues with both players having something. These are the cards that make midrange decks feel like decks.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What happens with too little interaction?
 
@@ -79,7 +79,7 @@ Interaction density is adjusted with the same tools as everything else: notes an
 3. **Watch the blue decks.** If blue wins more than its share, it is usually because blue's interaction is too good relative to the threats. The fix is usually to swap a hard counter for a soft one or a threat that dodges counters.
 4. **Ask the losers.** After a game, the loser can tell you whether they lost to a decision or to a draw. "I should not have played into Wrath" is a good loss. "I never had a chance to do anything" is a density problem.
 
-We track this in the same changelog we use for everything, described in [how to update a cube](/articles/how-to-update-a-cube/). Interaction counts go up or down one or two cards per update, never by ten.
+Track this in the same changelog you use for everything, described in [how to update a cube](/articles/how-to-update-a-cube/). Interaction counts go up or down one or two cards per update, never by ten.
 
 ## FAQ
 
@@ -103,4 +103,4 @@ Games end by turn six with neither player having cast a spell at the other, and 
 
 Interaction is what makes the other player's turn matter to you. Get the density right, choose kinds that create decisions on both sides, and the games will feel like games. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for a weekly piece on cube design and the groups that play it. If you are near Indianapolis, bring your Lightning Bolts to [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that play it. If you are near Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

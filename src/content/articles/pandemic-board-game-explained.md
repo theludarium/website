@@ -44,7 +44,7 @@ We covered this at length in our [article on the quarterback problem](/articles/
 
 Later co-ops fixed the problem by design, mostly by hiding information. Hanabi, The Crew, and Mysterium all owe something to Pandemic's success and something to its biggest flaw. If you want games that sidestep it entirely, see our list of [co-op games without a quarterback problem](/articles/co-op-games-without-quarterback-problem/).
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How hard is Pandemic, and how do you adjust it?
 
@@ -96,6 +96,6 @@ The box says ages 8 and up, and that is about right for children playing alongsi
 
 Legacy uses the same core rules but adds a campaign where cards are torn, stickers are placed, and the board changes permanently over twelve months of in-game time.
 
-## Cure one thing a week
+## Cure new things
 
-The game is the reason. The people are the point. The Ludarium newsletter sends one article like this every week, on what to play and how to get more out of it. Subscribe, and when the Indianapolis lounge opens, there will be a copy of Pandemic waiting on the first table.
+The game is the reason. The people are the point. The Ludarium newsletter sends new articles like this, on what to play and how to get more out of it. Subscribe, and when the Indianapolis lounge opens, there will be a copy of Pandemic waiting on the first table.

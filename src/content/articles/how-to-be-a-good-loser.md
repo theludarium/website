@@ -42,7 +42,7 @@ These are things to do, not attitudes to have. Do them enough and the attitude f
 
 There is a sixth habit for cooperative games, where everyone loses together. In Pandemic or The Crew, the good loser resists the urge to assign blame, even when one move clearly sank the team. "We'll get it next time" is the whole script.
 
-*More like this, once a week, in the newsletter.*
+*More like this in the newsletter.*
 
 ## Does being a good loser mean not caring about winning?
 
@@ -101,4 +101,4 @@ Model good losing yourself, run cooperative games for a few weeks, and talk to t
 
 Nobody gets good at losing alone. It takes a table, a regular one, with people who will beat you and then hand you the next deal. That is what The Ludarium is building in Indianapolis, and what we mean by togethering.
 
-The game is the reason. The people are the point. For one short piece a week on being better company at the table, subscribe to the newsletter at theludarium.com. Never stop playing.
+The game is the reason. The people are the point. For new short pieces on being better company at the table, subscribe to the newsletter at theludarium.com. Never stop playing.

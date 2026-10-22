@@ -66,7 +66,7 @@ This is the hard part. A few things that work better than "do you want to play a
 
 If they decline, do not push. Ask again in a week or two with a different game. Sometimes the second ask works because the first one planted the idea.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you turn one game into a habit?
 
@@ -102,4 +102,4 @@ Many people who say this mean they do not like losing, or do not like learning r
 
 A standing game is one of the simplest things you can set up for someone who lives alone. It gives the week a shape. The game is the reason. The people are the point.
 
-The Ludarium newsletter sends one piece like this each week, including what we are learning as we build an Indianapolis lounge where every generation has a seat. Subscribe if you want the next one.
+The Ludarium newsletter sends new pieces like this, including what we are learning as we build an Indianapolis lounge where every generation has a seat. Subscribe if you want the next one.

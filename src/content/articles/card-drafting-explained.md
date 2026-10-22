@@ -1,10 +1,10 @@
 ---
 title: "Card Drafting Explained: Pick, Pass, and Signal"
 description: "Card drafting explained in plain terms: how pick-and-pass works, why 7 Wonders and Magic use it, the other drafting formats, and how to read the signals."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Guides
 tags: ["card drafting", "pick and pass drafting", "drafting mechanic board games", "7 Wonders drafting", "booster draft explained", "how to draft cards", "Glossary"]
-draft: true
+draft: false
 ---
 Card drafting is a way of dealing out cards where every player chooses what they get instead of taking what they are dealt. In the most common form, each player holds a hand, picks one card to keep, and passes the rest to a neighbor. Repeat until the cards run out. Everyone ends with a set they chose, built one decision at a time from hands that other people were also picking from.
 
@@ -50,7 +50,7 @@ The key difference is information. In pick-and-pass, you only see the hand in fr
 
 Dice drafting deserves a mention because it fixes one of the oldest complaints about dice. Rolling a bad number hurts less when you get to pick from everyone's rolls instead of being stuck with your own. Sagrada and Grand Austria Hotel both do this well. <!-- AFFILIATE -->
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What does it mean to "read signals" in a draft?
 
@@ -112,7 +112,7 @@ Partly. Taking train cards from the face-up row is an open draft, but the rest o
 
 A draft is a conversation held in cards. Every pick you make says something to the player beside you, and every hand you receive tells you what the players before you wanted. It rewards attention to other people more than almost any other mechanic in the hobby. The game is the reason. The people are the point.
 
-We send one piece like this a week to subscribers, covering the mechanics, the games, and the groups that make them worth playing. Subscribe to The Ludarium newsletter, and if you are near Indianapolis, our membership lounge will have a drafting table waiting.
+We send new pieces like this to subscribers, covering the mechanics, the games, and the groups that make them worth playing. Subscribe to The Ludarium newsletter, and if you are near Indianapolis, our membership lounge will have a drafting table waiting.
 
 ## Sources
 

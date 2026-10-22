@@ -53,7 +53,7 @@ In every band, one adult should be the floor host who is not attached to a table
 
 Recruit the table adults from the parents. Most will say yes to "can you sit at the Kingdomino table for the first half hour" when they would not volunteer for "can you help."
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What are the two rules that keep it from becoming chaos?
 
@@ -120,6 +120,6 @@ Ninety minutes for children under ten, two hours for ten to twelve. End with the
 
 ## Something for the Saturday calendar
 
-Kids' afternoons are part of the plan for The Ludarium in Indianapolis, with a parents' table in the corner. Subscribe to the newsletter and you get one event plan a week, including the printable game list by age band when we publish it.
+Kids' afternoons are part of the plan for The Ludarium in Indianapolis, with a parents' table in the corner. Subscribe to the newsletter and you get new event plans, including the printable game list by age band when we publish it.
 
 The game is the reason. The people are the point.

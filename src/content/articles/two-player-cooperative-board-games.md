@@ -68,7 +68,7 @@ Gloomhaven's smaller sibling, and the best way for a couple to try a tactical ca
 
 An escape-room-in-a-box series. One hour, one play, and entirely cooperative. Not replayable, but cheap, and the shared "oh!" when a puzzle clicks is worth it. Good for couples who like puzzles more than tactics.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which two-player co-op fits your evening?
 
@@ -124,6 +124,6 @@ Codenames: Duet and Sky Team both fit, and a single mission of The Crew (with th
 
 Pandemic Legacy: Season 1 for a story-driven campaign, and Jaws of the Lion for a tactical one. Both play well at two and finish in a few months.
 
-## One table, one side, one idea a week
+## One table, new side, one ideas
 
-The game is the reason. The people are the point. The best two-player co-op is the one that leaves you both on the same side when the box closes. Subscribe to the Ludarium newsletter for one game-night idea a week, including picks for two. And when our Indianapolis lounge opens, the small tables by the window are for exactly this.
+The game is the reason. The people are the point. The best two-player co-op is the one that leaves you both on the same side when the box closes. Subscribe to the Ludarium newsletter for new game-night ideas, including picks for two. And when our Indianapolis lounge opens, the small tables by the window are for exactly this.

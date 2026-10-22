@@ -1,12 +1,12 @@
 ---
 title: "Cube Maintenance: A Cube Is Never Finished"
 description: "Cube maintenance without burnout: a cadence for swaps, a watch list, a rule for new sets, and when to freeze a list on purpose instead of letting it drift."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube maintenance", "perpetual cube design", "cube update schedule", "cube watch list", "when to stop updating a cube", "cube design philosophy", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
-Cube maintenance is the part of owning a cube nobody warns you about. The build is a project with an end. The upkeep is a practice with none. Four or five sets a year, each with a handful of cards that might be better than something in the list; a group whose tastes shift; a format whose consensus moves under you. The cube that was finished in March is behind by October, and the owner who does not accept that either burns out trying to keep up or quietly stops.
+Cube maintenance is the part of owning a cube nobody warns you about. The build is a project with an end. The upkeep is a practice with none. Six or more sets a year, each with a handful of cards that might be better than something in the list; a group whose tastes shift; a format whose consensus moves under you. The cube that was finished in March is behind by October, and the owner who does not accept that either burns out trying to keep up or quietly stops.
 
 This is about how to run a cube as a thing that is never done, without it becoming a second job. Most of it is about deciding in advance how much the cube is allowed to change, and then holding to that.
 
@@ -14,7 +14,7 @@ This is about how to run a cube as a thing that is never done, without it becomi
 
 Three forces, and none of them stop.
 
-**New cards.** Wizards releases several Standard sets a year plus supplemental products, and to many owners it feels as though each one brings more cube-relevant cards than sets used to. Even an owner who wants only two new cards per set is looking at ten swaps a year, every year.
+**New cards.** Wizards releases several Standard sets a year plus supplemental products, and to many owners it feels as though each one brings more cube-relevant cards than sets used to. Even an owner who wants only two new cards per set is looking at twelve or more swaps a year, every year.
 
 **The group.** The people who draft the cube change what they want from it. A group that loved the storm deck in year one is tired of it in year three. New regulars arrive with new favorite decks. The eight people who were there at the start are five by year four, and three new ones have different histories with the game. The cube that fit the first group is slightly wrong for the current one, always.
 
@@ -50,7 +50,7 @@ Ours is a spreadsheet with four columns: candidate card, the card it would repla
 3. **Cuts go on it too.** A card that has been last-picked three drafts running gets an entry as a cut candidate, with the slot it would open. Half the value of the watch list is the cuts, which owners otherwise never make.
 4. **The list is not the cube.** Thirty candidates on the watch list is normal. Thirty swaps in a month is not. The list is for thinking; the cadence is for acting.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you handle a new set?
 
@@ -61,7 +61,7 @@ New sets are the main pressure on perpetual design, and the honest answer is tha
 - **Test two to four.** Put them in for a month. Watch pick order and whether they end up in finished decks.
 - **Keep what earned it.** Usually one or two. Sometimes zero. Zero is a fine number.
 
-The failure mode is treating each set as a mandatory update. A cube that adds six cards per set adds thirty cards a year, and in three years it is a different cube, drifted toward whatever the current design philosophy happens to be. This is how cubes lose their identity without anyone deciding to change it.
+The failure mode is treating each set as a mandatory update. A cube that adds six cards per set adds close to forty cards a year, and in three years it is a different cube, drifted toward whatever the current design philosophy happens to be. This is how cubes lose their identity without anyone deciding to change it.
 
 ## When should you freeze a cube?
 
@@ -76,7 +76,7 @@ Freezing makes sense when:
 
 A frozen cube is not a dead one. It is drafted, enjoyed, and known. Some of the most loved cubes in the hobby are ones that stopped changing. What it gives up is the ability to absorb the group's shifting tastes, which is why a weekly cube for a growing community probably should not freeze, and a cube for eight old friends probably could.
 
-A middle option: freeze the structure and let the cards move. The lanes, the counts, the exclusions, and the purpose are fixed; only the individual cards within slots change. This is roughly how we run Cube Commonwealth's main list. The skeleton has not changed in years. The skin changes every month.
+A middle option: freeze the structure and let the cards move. The lanes, the counts, the exclusions, and the purpose are fixed; only the individual cards within slots change. Many long-running group cubes settle here: the skeleton stays for years while the skin changes every month.
 
 ## How do you keep upkeep from becoming a job?
 
@@ -112,4 +112,4 @@ A running list of candidate cards, each paired with the card it would replace an
 
 A cube is a garden, not a building. It is never done, and it does not need to be. Set a cadence, keep a watch list, let most new cards pass, and decide on purpose whether the list is allowed to move. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for a weekly piece on cube design and the groups that play it. Indianapolis drafters can see this month's swaps in person at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that play it. In Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

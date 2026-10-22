@@ -72,7 +72,7 @@ Do not rebuild the Discord from scratch. The history is an asset. Do prune it.
 
 The server should look alive and small, not big and dusty. Our full layout is in [Discord for a game group](/articles/discord-setup-for-a-game-group/).
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Step 6: Run the first night as the hundredth night
 
@@ -142,4 +142,4 @@ Play anyway, with a smaller format. Cancelling the first relaunched night tells 
 
 ## Pull up a chair
 
-If you drafted with Cube Commonwealth before, or never got the chance, the night is back in Indianapolis. Join the Discord <!-- EDITOR: add Discord invite link --> and react to the weekly post. If you are relaunching a group of your own, subscribe to The Ludarium newsletter; we will report how this playbook holds up, one piece a week, along with news on the lounge. The game is the reason. The people are the point.
+If you drafted with Cube Commonwealth before, or never got the chance, the night is back in Indianapolis. Join the Discord <!-- EDITOR: add Discord invite link --> and react to the weekly post. If you are relaunching a group of your own, subscribe to The Ludarium newsletter; we will report how this playbook holds up, new pieces, along with news on the lounge. The game is the reason. The people are the point.

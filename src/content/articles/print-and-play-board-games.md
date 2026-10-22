@@ -62,7 +62,7 @@ One PDF, rules first. Testers lose separate files. Put a version number and date
 
 A one-page questionnaire at the end, or a link to one, raises your response rate sharply. Ask what they would change, where they were confused, how long it took, and whether they would play again.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How does a print and play file compare to a physical prototype?
 
@@ -130,4 +130,4 @@ It works best for card games, roll-and-writes, and games with small boards and c
 
 ## Print one, bring it
 
-If you have a print-and-play prototype, bring a printed copy to open playtest nights at The Ludarium in Indianapolis, where there is always a table willing to try something new. And for one article a week on design, play, and the people who gather around it, subscribe to the newsletter. Subscribers get new pieces first.
+If you have a print-and-play prototype, put a printed copy in front of strangers as early as you can. The Ludarium plans open playtest nights for designers once its Indianapolis lounge opens. And for new articles on design, play, and the people who gather around it, subscribe to the newsletter. Subscribers get new pieces first.

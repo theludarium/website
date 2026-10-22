@@ -1,10 +1,10 @@
 ---
 title: "Area Majority vs Area Control: The Difference"
 description: "Area majority vs area control, explained simply. Why El Grande and Risk feel nothing alike, how majority scoring works, and how it changes the way you play."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Guides
 tags: ["area majority", "area majority vs area control", "area influence games", "El Grande area majority", "area control mechanic", "majority scoring board games", "Glossary"]
-draft: true
+draft: false
 ---
 Area majority is a scoring system where several players can have pieces in the same region at once, and the player with the most pieces there scores the most, often with smaller rewards for second and third place. Area control, in the strict sense, means one player holds a region outright and nobody else is in it. The two terms get used interchangeably, and the games they describe can look alike on the table. But the way you play them is almost opposite, and knowing which one you are sitting down to saves you from a long, confused first game.
 
@@ -67,7 +67,7 @@ The election comparison is useful. In an area control game you invade. In an are
 
 Our article on [area control board games](/articles/area-control-board-games/) goes deeper on the control side and its design history.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How does the difference change how you play?
 
@@ -125,4 +125,4 @@ Another name for area majority. It stresses that players are adding influence to
 
 Area majority is a quiet lesson in not needing to own everything. You can share a region, score second, and still win the game, which is a better description of how people actually get along than most war games manage. The game is the reason. The people are the point.
 
-We publish one explainer like this each week, and subscribers get it first. Subscribe to The Ludarium newsletter for the next one, and if you are in Indianapolis, our membership lounge will have a copy of El Grande on the shelf and a table big enough for Spain.
+We publish new explainers like this, and subscribers get them first. Subscribe to The Ludarium newsletter for the next one, and if you are in Indianapolis, our membership lounge will have a copy of El Grande on the shelf and a table big enough for Spain.

@@ -32,7 +32,7 @@ The mythic cycle of five "Emeritus" creatures each carries a reserved-list-adjac
 
 Read the table carefully, because the conditions matter more than the spells. Emeritus of Conflict does not enter prepared; you have to cast three spells in a turn to turn on the Bolt. In a red spells deck that happens, and a 2/2 first striker for two is already a playable body, so it is a keep on body plus upside. Emeritus of Truce enters unprepared too unless you are behind on board, which is exactly when white wants a Swords, so it is a test for control and midrange. Woe enters prepared, so it is a four-mana 5/4 with a Demonic Tutor attached, which is good; it is the body that is below rate for black fours, hence test rather than keep. Ideation enters prepared, so five mana gets a 5/5 flier with ward and an Ancestral Recall; that is strong, and it is the five-drop slot in blue that is the obstacle. Abundance gives the opponent a Regrowth-level effect you will almost never re-trigger, and a 3/4 vigilance for three is fine, not special.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which other creatures earn a test?
 

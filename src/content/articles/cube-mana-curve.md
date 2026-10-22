@@ -1,10 +1,10 @@
 ---
 title: "Cube Mana Curve: Why Two-Drops Decide Everything"
 description: "The cube mana curve shapes every draft. Target counts per mana value, why two-drops carry the format, and how to spot a top-heavy cube before drafters do."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube mana curve", "cube curve targets", "two-drops in cube", "mana value distribution cube", "top-heavy cube", "cube one-drops", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 The cube mana curve is the single number set that most shapes how your games feel. A cube heavy at four and five mana plays slow, rewards ramp and removal, and makes aggressive decks impossible. A cube heavy at one and two plays fast, punishes stumbles, and makes six-drops look silly. Most first cubes are top-heavy without the owner noticing, because expensive cards are the exciting ones.
 
@@ -50,7 +50,7 @@ The pattern repeats across every first cube we have seen, including ours.
 
 The fix for all four is the same: fill the curve top-down, not bottom-up. Choose the six-plus slot first, limit it to three or four per color, and discover you have lots of room below.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you measure your cube's curve?
 
@@ -101,4 +101,4 @@ They can run a little higher, since many are payoffs, but keep the gold section'
 
 Pick the top end first, cap it, and let the rest of the color be cheap. Your drafts will start on turn two and your six-drops will feel earned. The game is the reason. The people are the point.
 
-One cube-building piece a week, including our curve-count spreadsheet, goes out in The Ludarium newsletter; subscribe below. If you are in Indianapolis, come draft with Cube Commonwealth and see what a tight curve feels like: [how to join](/articles/cube-draft-indianapolis/).
+New cube-building pieces go out in The Ludarium newsletter; subscribe below. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

@@ -86,7 +86,7 @@ Learn time: an hour for players. Investigative horror in which the characters ar
 
 If you are not sure, run Lasers & Feelings or Honey Heist first. They cost nothing, they finish in two hours, and they answer the question "does this group enjoy making things up together?" If the answer is yes, every other game on this list is open to you.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What do these games teach that D&D does not?
 
@@ -122,4 +122,4 @@ Most do. Experienced groups often run light games between campaigns or on nights
 
 ## Pick one and play it
 
-Subscribe to The Ludarium newsletter for one article a week on getting people around a table. Want to try a game before you buy it? Play a free intro adventure in the [RPG Demo Library](/rpg-demo-library/), right in your browser, by each game's real rules.
+Subscribe to The Ludarium newsletter for new articles on getting people around a table. Want to try a game before you buy it? Play a free intro adventure in the [RPG Demo Library](/rpg-demo-library/), right in your browser, by each game's real rules.

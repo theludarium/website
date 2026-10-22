@@ -1,10 +1,10 @@
 ---
 title: "How to Write a Cube Primer People Actually Read"
 description: "How to write a cube primer people read: the document that turns a card list into a draft format. What to include, what to cut, and a section order that works."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube primer", "how to write a cube primer", "cube overview", "cube description CubeCobra", "cube primer template", "cube draft primer", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 A cube primer is the short document that tells a drafter what your cube is, what it rewards, and how your table plays it. A card list says what is in the box. The primer says why. Most primers fail for one reason: they are written for the owner, not the drafter, and they run three thousand words when the drafter has four minutes in the car before the night starts.
 
@@ -22,7 +22,7 @@ Write for the first reader at the top, the second in the middle, and the third a
 
 ## What sections does a cube primer need?
 
-Here is the order we use, with a length target for each. The targets are a house guideline, not a standard; they are tuned to the reader above, and they total roughly 1,200 to 1,500 words for a 540-card unthemed cube before the FAQ.
+Here is the order we recommend, with a length target for each. The targets are a house guideline, not a standard; they are tuned to the reader above, and they total roughly 1,200 to 1,500 words for a 540-card unthemed cube before the FAQ.
 
 | Section | Length | Who it is for |
 |---|---|---|
@@ -53,7 +53,7 @@ In five lines or fewer, answer: how many players, what draft format, how many pa
 
 If your group drafts something other than a standard booster draft, say so here and link to the format rules rather than explaining them inline. Grid, Winston, and Rochester each deserve their own page, not a paragraph in the primer.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How much archetype detail is enough?
 
@@ -113,4 +113,4 @@ Yes, and a shorter one. The archetype section shrinks because fewer lanes are su
 
 The best primer we ever read was under a thousand words, and the owner had cut it from four thousand. Every section earned its place by answering a question a drafter had asked out loud. That is the standard. The game is the reason. The people are the point.
 
-If you are writing a primer for your own cube, subscribe to The Ludarium newsletter: this series runs weekly, and subscribers get each part first. If you are in Indianapolis, come draft ours and read its primer in person at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+If you are writing a primer for your own cube, subscribe to The Ludarium newsletter: this series continues, and subscribers get each part first. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

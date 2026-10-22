@@ -58,7 +58,7 @@ Most game nights with 90-year-olds fail at the setup, not the game. Fix the envi
 
 **Memory.** Keep a one-page rules card in large print on the table. Nobody is embarrassed to glance at it, and it saves the same question from being asked five times.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Why does a game night matter at this age?
 
@@ -104,4 +104,4 @@ Long-term studies such as the Lothian Birth Cohort have associated regular non-d
 
 ## Keep the table going
 
-The Ludarium is building a game lounge in Indianapolis for every age, and the afternoon card table is part of the plan. If you want one idea a week for keeping the people you love at a table, subscribe to the Ludarium newsletter. New pieces on play and longevity go to subscribers first.
+The Ludarium is building a game lounge in Indianapolis for every age, and the afternoon card table is part of the plan. If you want new ideas for keeping the people you love at a table, subscribe to the Ludarium newsletter. New pieces on play and longevity go to subscribers first.

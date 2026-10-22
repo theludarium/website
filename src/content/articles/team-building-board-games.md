@@ -79,7 +79,7 @@ Some teams want a real game, not a party. These are heavier but still teach quic
 | Azul | 2–4 | 40 min | Calm, focused teams |
 | Cascadia | 1–4 | 45 min | Conflict-averse groups |
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you run one of these at work without it falling flat?
 
@@ -113,4 +113,4 @@ No. Three or four well-chosen games cover most teams. Codenames, Just One, Pande
 
 ## Want someone else to run it?
 
-The Ludarium runs [corporate tabletop events](/corporate-events/) in Indianapolis and the surrounding area: we bring the games, the hosts who know the rules, and a plan sized to your room, from a lunch hour to a full offsite. If you would rather build your own program, subscribe to [the newsletter](/newsletter/) and get one workplace-ready game idea every week, before it hits the site.
+The Ludarium runs [corporate tabletop events](/corporate-events/) in Indianapolis and the surrounding area: we bring the games, the hosts who know the rules, and a plan sized to your room, from a lunch hour to a full offsite. If you would rather build your own program, subscribe to [the newsletter](/newsletter/) and get new workplace-ready game ideas, before it hits the site.

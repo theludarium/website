@@ -1,10 +1,10 @@
 ---
 title: "Cube Slot Design: Sections and the Spreadsheet"
 description: "Cube slot design turns a pile of good cards into a format. How to break a cube into sections and named slots, plus the columns your spreadsheet needs."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube slot design", "cube spreadsheet", "cube sections", "cube slots", "cube list structure", "how to organize a cube", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Cube slot design is the habit of deciding what a card is for before deciding which card it is. A cube with 540 good cards and no structure plays like a pile. A cube with 540 named slots, each filled by the best card for that job, plays like a format. The difference is not the cards. It is the spreadsheet behind them.
 
@@ -53,7 +53,7 @@ Gold is where slot design matters most, because gold cards are the loudest signa
 
 That structure keeps every pair legible. When a pair feels unsupported, the slot list tells you whether it is missing a signpost or just has weak payoffs, which are different fixes. [How big should the gold section be](/articles/cube-gold-section/) covers the count question in full.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What columns does the spreadsheet need?
 
@@ -77,7 +77,7 @@ Most owners start with one column: the card name. Here is the minimum that makes
 
 With these columns a pivot table answers every structural question in seconds: how many one-drops per color, how many removal spells at two mana, how many cards does the blue-red lane actually have, how many "on notice" cards are there in green. Without them, you answer those questions by laying out the cube on a table, which people do, once, and then never update.
 
-CubeCobra supports tags and custom fields that cover most of this inside the site, and its analysis tab shows curves and type counts per color without any spreadsheet at all ([cubecobra.com](https://cubecobra.com)). We still keep a sheet because tags are faster to query in bulk, but either works. Our CubeCobra guide covers the tagging side.
+CubeCobra's tags, notes and status field cover most of this inside the site, it records each card's date added, and its analysis tab shows curves and type counts per color without any spreadsheet at all ([cubecobra.com](https://cubecobra.com)). We still keep a sheet because tags are faster to query in bulk, but either works.
 
 ## How do slots change the way you update?
 
@@ -95,10 +95,10 @@ The one danger is rigidity. A slot list is a model of the cube you want, not a l
 
 If you want a template to copy, here is a complete section breakdown that we have used as a base. Adjust the counts for your power level and fixing philosophy. Every number is a house guideline.
 
-- **Each color (70):** 26 aggro creatures, 12 midrange creatures, 10 to 14 removal or interaction (more in black and red, fewer in green, which gets ramp instead), 3 to 5 draw or card advantage, 3 to 4 wipes or sweeper-equivalents (white and black and red), 4 hate and utility, 6 flex.
+- **Each color (70):** 26 aggro creatures, 12 midrange creatures, 10 to 14 removal or interaction (more in black and red, fewer in green, which gets ramp instead), 3 to 5 draw or card advantage, 3 to 4 wipes or sweeper-equivalents (white and black and red), 3 equipment or auras, 4 hate and utility, and flex slots to reach 70 (green spends its missing removal and wipes on ramp).
 - **Gold (60):** six per pair, structured as above.
 - **Colorless (40):** 12 mana rocks, 8 equipment, 10 artifact creatures, 10 utility.
-- **Lands (90):** two full dual cycles (20), fetchable or fast cycle (10), five-color and utility lands (10), and the rest in a third cycle or creature lands. Fifty of these slots are fixing, forty are flexible.
+- **Lands (90):** two full dual cycles (20), a fetchable or fast cycle (10), three more dual cycles (30), a creature-land cycle (10), five-color lands (10), and utility lands (10). Most of these slots fix mana; the utility lands are the flexible ones.
 
 Adding those up gives 350 + 60 + 40 + 90 = 540. Argue with any line. The point is that you can.
 
@@ -124,4 +124,4 @@ Slots deliberately left without a fixed role so the owner can test new cards or 
 
 ## Keep building
 
-The newsletter sends one cube design piece a week, and subscribers get our current slot sheet as a copyable template. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) drafts the cube that sheet describes, and you are welcome at the table.
+The newsletter sends new cube design pieces. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

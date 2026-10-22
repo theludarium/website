@@ -40,7 +40,7 @@ Older men also face a particular risk that is uncomfortable to discuss. [CDC dat
 
 The point is not to frighten anyone. It is to say that rebuilding a social circle after retirement is as important as anything else on the retirement checklist, and more important than most of it.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Why does a game work better than "making friends"?
 
@@ -101,7 +101,7 @@ Euchre, cribbage, dominoes, and poker are classics that need no explanation. Tic
 
 ## Build the Tuesday before you need it
 
-The Ludarium is building a place in Indianapolis where a standing game is easy to join and nobody has to host. New articles on play and health go to subscribers first. Subscribe to the Ludarium newsletter for one piece a week on togethering for a lifetime.
+The Ludarium is building a place in Indianapolis where a standing game is easy to join and nobody has to host. New articles on play and health go to subscribers first. Subscribe to the Ludarium newsletter for new pieces on togethering for a lifetime.
 
 ## Sources
 

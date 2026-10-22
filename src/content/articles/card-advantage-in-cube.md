@@ -1,10 +1,10 @@
 ---
 title: "Card Advantage in Cube: Keeping Blue Honest"
 description: "Card advantage in cube: the draw engines that take over games, from Necropotence to The One Ring, a per-color count to aim for, and how to keep blue in check."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["card advantage cube", "cube draw engines", "blue in cube", "card advantage per color", "Necropotence cube", "The One Ring cube", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Card advantage in cube is the resource that decides long games, and in most cubes one color has far more of it than the other four. Blue draws cards. Black pays life for them. Green attaches them to creatures. Red and white get a Wheel of Fortune and a Land Tax if they are lucky. When the engines are too strong or too concentrated, every long game becomes the same game, and the draft funnels into whichever color has the draw.
 
@@ -30,7 +30,7 @@ These are the cards that, left alone for three turns, win regardless of what els
 - **Library of Alexandria.** A land that draws a card every turn if you hold exactly seven. Free, uncounterable, colorless.
 - **Ancestral Recall.** One blue: draw three. The best single draw spell ever printed, but it is a one-shot, which is why it belongs in the next tier for format impact despite being Power.
 
-Necropotence, The One Ring, Sylvan Library, Jace, Library of Alexandria and Ancestral Recall are all in the current MTGO Vintage Cube ([list](https://www.mtgo.com/vintage-cube-cardlist)). An unpowered cube should keep Sylvan Library and Jace and test the rest one at a time.
+The One Ring, Jace, Library of Alexandria and Ancestral Recall are all in the current MTGO Vintage Cube ([list](https://www.mtgo.com/vintage-cube-cardlist)); Necropotence and Sylvan Library are not. An unpowered cube should keep Sylvan Library and Jace and test the rest one at a time.
 
 ## Which engines are strong but fair?
 
@@ -43,10 +43,10 @@ These draw a lot of cards but cost a real resource, can be interacted with, or h
 - **Tireless Tracker**, **Courser of Kruphix**, **Rofellos** era green value creatures: card advantage on bodies that die to removal.
 - **Wheel of Fortune** (three red: each player discards hand and draws seven) and **Timetwister**: symmetrical refills that favor the aggro deck that emptied its hand first.
 - **Land Tax**: one white, when an opponent has more lands, fetch three basics each upkeep. Thins the deck and never misses a land drop; strong in two-player, often underrated.
-- **Esper Sentinel**, **Palantir of Orthanc**, **Mystic Confluence**: cards the MTGO designers have moved in and out, which is a good sign that they sit on the line.
-- **Prepared** creatures and **Gandalf, Goblins' Bane**: the MTGO [May 2026](https://www.mtgo.com/news/sos-vintage-cube-update) and [October 2026](https://www.mtgo.com/news/fra-vintage-cube-update) updates both talked about card advantage "stapled to creatures" as the kind they want more of. That is the design direction: draw attached to a body that can be killed.
+- **Palantir of Orthanc**, **Mystic Confluence**: cards the MTGO designers have moved in and out, which is a good sign that they sit on the line.
+- **Prepared** creatures and **Gandalf, Goblins' Bane**: the MTGO [May 2026](https://www.mtgo.com/news/sos-vintage-cube-update) and [October 2026](https://www.mtgo.com/news/fra-vintage-cube-update) updates point the same way: May said "card advantage stapled to creatures is always nice to have," and October added Gandalf for "affordable card advantage" on a body. That is the design direction: draw attached to a body that can be killed.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How much card advantage does each color need?
 
@@ -57,7 +57,7 @@ The goal is that every color has a reason to go long, and no color has three tim
 | White | 1 (Land Tax or Sram) | 2 (Council's Judgment style two-for-ones) | 4 (Wall of Omens, Thraben Inspector, Palace Jailer) | 7 |
 | Blue | 3 (Jace, a planeswalker, one enchantment) | 6 (FoF, Cruise, Compulsive Research) | 5 (Mulldrifter, Cryomancer, Sphinxes) | 14 |
 | Black | 2 (Arena, Confidant) | 3 (Night's Whisper, Sign in Blood, Painful Truths) | 4 (Bone Shredder, Gonti, Graveyard Trespasser) | 9 |
-| Red | 1 (Wheel or Experimental Frenzy) | 2 (Light Up the Stage, Faithless Looting) | 4 (Bomat Courier, Glorybringer, Goblin Rabblemaster as virtual) | 7 |
+| Red | 1 (Wheel or Experimental Frenzy) | 2 (Light Up the Stage, Faithless Looting) | 4 (Bomat Courier, Fable of the Mirror-Breaker, Goblin Rabblemaster as virtual) | 7 |
 | Green | 2 (Sylvan Library, Garruk) | 1 (Harmonize) | 6 (Tracker, Courser, Eternal Witness, Oracle of Mul Daya) | 9 |
 | Colorless | 1 to 2 (One Ring or Skullclamp, not both) | 0 | 2 (Solemn Simulacrum, Burnished Hart) | 3 |
 
@@ -94,4 +94,4 @@ Draw attached to a creature. Mulldrifter, Tireless Tracker, Wall of Omens and Da
 
 ## Count the draw, not just the cards
 
-The quickest cube audit is to sort every color by how many cards it can draw over a game. Do it once and blue will almost certainly need trimming. Then come watch a control mirror in person at a Cube Commonwealth draft in Indianapolis; [here is how to join](/articles/cube-draft-indianapolis/). Subscribe to The Ludarium newsletter for one cube design piece every week. The game is the reason. The people are the point.
+The quickest cube audit is to sort every color by how many cards it can draw over a game. Do it once and blue will almost certainly need trimming. Subscribe to The Ludarium newsletter for new cube design pieces, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, sets its first night as part of The Ludarium. The game is the reason. The people are the point.

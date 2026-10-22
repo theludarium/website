@@ -1,12 +1,12 @@
 ---
 title: "Cube Building Mistakes: Ten Every First Cube Makes"
 description: "Cube building mistakes nearly every first list makes, from top-heavy curves to pet cards. Ten errors, the fix for each, and how to spot them at the table."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube building mistakes", "first cube mistakes", "cube design errors", "why my cube drafts badly", "cube pitfalls", "fixing a cube", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
-The cube building mistakes in this list are not embarrassing. They are the default. Our first cube made eight of the ten, and most lists we see from new Cube Commonwealth members make at least five. They happen because the instincts that make someone a good deckbuilder, favoring powerful cards and personal favorites, are the wrong instincts for building a draft environment.
+The cube building mistakes in this list are not embarrassing. They are the default. Most first cubes make several of the ten, and plenty make more than half. They happen because the instincts that make someone a good deckbuilder, favoring powerful cards and personal favorites, are the wrong instincts for building a draft environment.
 
 Each entry below names the mistake, how it shows up at the table, and the fix. None of the fixes requires spending money.
 
@@ -50,7 +50,7 @@ Each entry below names the mistake, how it shows up at the table, and the fix. N
 
 **The fix:** allow yourself five pet slots, label them in the primer as pet slots, and hold everything else to the standard of "would a drafter be happy to pick this at pick six." When a pet card wheels three drafts in a row, it goes back in the binder, pet slot or not.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## 6. The archetypes exist only in the owner's head
 
@@ -103,7 +103,7 @@ Each entry below names the mistake, how it shows up at the table, and the fix. N
 | Uneven power | Turns drafts into lotteries | A hard look at the list |
 | The other five | Slow erosion | Habits, not swaps |
 
-If you fix only the first three, your cube is already better than most first cubes, including the one we started with.
+If you fix only the first three, your cube is already better than most first cubes.
 
 ## FAQ
 
@@ -127,4 +127,4 @@ Usually because the cube does not signal it. Each color pair needs two or three 
 
 Every owner makes these. The good ones make them in the first month, count the results, and fix them. The game is the reason. The people are the point.
 
-The Ludarium newsletter sends one cube piece a week, including a printable version of this list to tape inside your cube box. Subscribe, and if you are in Indianapolis, bring your first cube to Cube Commonwealth and we will tell you kindly which of the ten you made: [how to join](/articles/cube-draft-indianapolis/).
+The Ludarium newsletter sends new cube pieces. Subscribe, and if you are in Indianapolis, you will hear first when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, sets its first night as part of The Ludarium.

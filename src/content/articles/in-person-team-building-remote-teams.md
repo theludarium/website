@@ -46,7 +46,7 @@ Games also solve the initiation problem. Nobody at a remote-team meetup wants to
 
 And games produce the shared memory. The moment someone drew a catastrophically bad picture in Telestrations, or the table lost Pandemic on the last turn, will come up in Slack for months. For a longer list of options, see [team-building board games that don't feel like team building](/articles/team-building-board-games/).
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which games fit a remote team's one day?
 
@@ -116,4 +116,4 @@ Once or twice a year is typical. The less often you meet, the more the day shoul
 
 ## Flying everyone to Indianapolis?
 
-The Ludarium runs [corporate tabletop events](/corporate-events/) for distributed teams gathering in Indianapolis and the surrounding area: an afternoon game session, an evening of hosted open play, or both, sized to your headcount. If you are planning the day yourself, subscribe to [the newsletter](/newsletter/) for one workplace game idea every week.
+The Ludarium runs [corporate tabletop events](/corporate-events/) for distributed teams gathering in Indianapolis and the surrounding area: an afternoon game session, an evening of hosted open play, or both, sized to your headcount. If you are planning the day yourself, subscribe to [the newsletter](/newsletter/) for new workplace game ideas.

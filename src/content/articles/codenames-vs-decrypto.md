@@ -55,7 +55,7 @@ Decrypto spreads the thinking around. Every round, everyone on both teams is wor
 
 Players who love puzzles tend to prefer Decrypto. Players who love people tend to prefer Codenames. Both camps are right about themselves.
 
-*If this is useful, the newsletter sends one comparison like it every week.*
+*If this is useful, the newsletter sends more comparisons like it.*
 
 ## Which one goes wrong more often?
 
@@ -105,6 +105,6 @@ Four to six, split into two teams of two or three. That keeps the clue rotation 
 
 Codenames, usually. It is faster to teach, scales to a big room, and the shared grid makes it easy to project or lay out for a crowd. Decrypto works for a smaller team that already knows each other.
 
-## One game-night idea a week
+## More game-night ideas
 
-The game is the reason. The people are the point. Either of these boxes will fill a room with people trying to read each other's minds, which is as good as a party game gets. If you want one new idea for the table each week, subscribe to The Ludarium newsletter, and follow along as the Indianapolis lounge takes shape.
+The game is the reason. The people are the point. Either of these boxes will fill a room with people trying to read each other's minds, which is as good as a party game gets. If you want one new idea for the table, subscribe to The Ludarium newsletter, and follow along as the Indianapolis lounge takes shape.

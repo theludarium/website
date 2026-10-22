@@ -1,10 +1,10 @@
 ---
 title: "Gen Con on a Budget: Badges, Beds, and the Exhibit Hall"
 description: "Gen Con on a budget: real 2026 badge prices, hotels from the housing block to the suburbs, cheaper food, and how to leave the Exhibit Hall with money left."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Game Culture
 tags: ["Gen Con budget", "Gen Con cost", "how much does Gen Con cost", "Gen Con cheap", "Gen Con badge prices", "Gen Con on the cheap", "Conventions"]
-draft: true
+draft: false
 ---
 A Gen Con budget has four lines: the badge, the bed, the food, and the hall. Three of them can be cut hard without making the weekend worse. The fourth, the Exhibit Hall, is where most people lose the money they saved on the other three.
 
@@ -33,9 +33,9 @@ One more line item: event tickets. They are priced per event in small amounts, a
 
 The bed is the biggest line and the most flexible.
 
-**The Gen Con housing block.** Discounted rooms open in February through Gen Con's housing portal, with access times assigned at random to badge purchasers. In 2026, housing opened [February 22](https://gencon.zendesk.com/hc/en-us/articles/360058184732-When-is-Gen-Con-opening-hotel-registration). Downtown hotels in the block require [four or more consecutive nights including Wednesday through Saturday](https://www.gencon.com/gen-con-indy/housing_travel), and the hotel charges a non-refundable deposit of one night plus tax. Downtown rooms go first, and most people land in the suburbs. We explain the whole system in [the Gen Con hotel problem](/articles/gen-con-hotel-guide/).
+**The Gen Con housing block.** Discounted rooms open in February through Gen Con's housing portal, with access times assigned at random to badge purchasers. In 2026, housing opened [February 22](https://gencon.zendesk.com/hc/en-us/articles/360058184732-When-is-Gen-Con-opening-hotel-registration). Downtown hotels in the block require [four or more consecutive nights including Wednesday through Saturday](https://www.gencon.com/gen-con-indy/housing_travel), and the hotel charges a non-refundable deposit of one night plus tax. Downtown rooms go fast. We explain the whole system in [the Gen Con hotel problem](/articles/gen-con-hotel-guide/).
 
-**Suburban hotels with a shuttle or a drive.** The block includes hotels outside downtown with fewer restrictions. A room 15 minutes out usually costs far less than a connected downtown hotel, and Gen Con notes that [suburban hotels generally carry no minimum-night rule](https://www.gencon.com/gen-con-indy/housing_travel). Parking downtown adds a daily charge, so budget for it or use the shuttle if your hotel offers one.
+**Suburban hotels with a shuttle or a drive.** The block includes hotels outside downtown with fewer restrictions. A room 15 minutes out usually costs far less than a connected downtown hotel, and Gen Con notes that [suburban hotels generally carry no minimum-night rule](https://www.gencon.com/gen-con-indy/housing_travel). Parking downtown adds a daily charge, so budget for it, or park at Gen Con's official iPark lots by Lucas Oil Stadium, which run a free shuttle to the convention center.
 
 **Split a room.** Four people in a two-queen room is the oldest Gen Con budget trick. Gen Con allows a purchaser to request one room per one to two badges, so coordinate who books.
 
@@ -43,7 +43,7 @@ The bed is the biggest line and the most flexible.
 
 **Day-trip.** From anywhere within two hours, driving in for a day or two beats a hotel. Indianapolis locals do Gen Con this way as a matter of course; see [Gen Con for locals](/articles/gen-con-tips-for-locals/).
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you eat for four days without spending a fortune?
 
@@ -55,7 +55,7 @@ Downtown Indianapolis restaurant prices are normal city prices, and during Gen C
 - **Food trucks at the [Block Party](https://gencon.zendesk.com/hc/en-us/articles/16797680652692-Gen-Con-Block-Party)** on South Street are faster than sit-down and usually cheaper.
 - **A grocery run on Wednesday** for the whole group: water, snacks, breakfast. Downtown has a few options and the suburbs have everything.
 
-A reasonable food budget on this plan is $25 to $35 a day. Without a plan, double it.
+A reasonable food budget on this plan is $25 to $40 a day. Without a plan, double it.
 
 ## How do you survive the Exhibit Hall with money left?
 
@@ -72,7 +72,7 @@ Games that give the most play per dollar at Gen Con prices are the small-box one
 
 ## Sample budgets
 
-Three ways to do Gen Con 2026, per person, excluding travel to Indianapolis. All figures are estimates from the prices above; your numbers will differ.
+Three ways to do Gen Con, using 2026 prices, per person, excluding travel to Indianapolis. All figures are estimates from the prices above; your numbers will differ.
 
 | Line | The full weekend | The long weekend, shared room | The one-day sprint |
 |---|---|---|---|
@@ -81,7 +81,7 @@ Three ways to do Gen Con 2026, per person, excluding travel to Indianapolis. All
 | Food | 4 days at $40 | 3 days at $30 | 1 day at $25 |
 | Events | $50 | $30 | $0, generics only |
 | Hall | $150 | $100 | $50 |
-| Parking | Hotel valet or garage | Shuttle or one car split | One day downtown |
+| Parking | Hotel valet or garage | iPark shuttle lot or one car split | One day downtown |
 
 The first column is where the money goes. The second column is how most regulars actually do it. The third costs less than a nice dinner and gives you the Exhibit Hall, the costumes, and an afternoon of open gaming.
 
@@ -117,4 +117,4 @@ Gen Con states that prices are fixed and do not increase after the Ship to Me de
 
 ## Spend less, play more
 
-The Ludarium newsletter sends one practical piece a week on playing more for less: cheap games that last, free game nights around Indianapolis, and a Gen Con budget refresh every spring when prices post. Subscribe and keep the envelope method honest. We are building a membership game lounge in Indianapolis with the same idea at its center: pay once, play all month.
+The Ludarium newsletter sends new practical pieces on playing more for less: cheap games that last, free game nights around Indianapolis, and a Gen Con budget refresh every spring when prices post. Subscribe and keep the envelope method honest. We are building a membership game lounge in Indianapolis with the same idea at its center: pay once, play all month.

@@ -53,7 +53,7 @@ The cheering is partly math and partly ritual. The odds of any specific face on 
 
 Note that in the standard rules the automatic critical applies to attack rolls specifically. Whether a natural 20 on a skill check is an automatic success is a common house rule, and tables vary. Ask your GM. It is a good first rules question because every GM has an opinion.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What do advantage and disadvantage mean?
 
@@ -106,4 +106,4 @@ On an attack roll, yes; it is a critical hit. On skill checks and saving throws 
 
 ## Roll with us
 
-Subscribe to The Ludarium newsletter for one short, plain explainer like this every week. Want to try a game before you buy it? Play a free intro adventure in the [RPG Demo Library](/rpg-demo-library/), right in your browser, by each game's real rules.
+Subscribe to The Ludarium newsletter for new short, plain explainers like this. Want to try a game before you buy it? Play a free intro adventure in the [RPG Demo Library](/rpg-demo-library/), right in your browser, by each game's real rules.

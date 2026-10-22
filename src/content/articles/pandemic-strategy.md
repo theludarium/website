@@ -54,7 +54,7 @@ The team you want on Heroic is usually some combination of Quarantine Specialist
 
 If you are dealt roles without a card engine, slow down. You will cure diseases later than you would like, and your actions will go mostly to cube control. That is fine. The game is won by curing four diseases, not by curing them fast.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you use the event cards on Heroic?
 
@@ -110,4 +110,4 @@ Because a city in the infection discard pile reached three cubes before the next
 
 ## New guides first, to subscribers
 
-We think Pandemic is the best teaching game for groups who want to learn to plan together, and we will have it on the table at the Indianapolis lounge the day we open. The Ludarium newsletter sends one piece a week on games and the people who play them. [Subscribe](/newsletter) if you want the next strategy guide before it goes on the site.
+We think Pandemic is the best teaching game for groups who want to learn to plan together, and we will have it on the table at the Indianapolis lounge the day we open. The Ludarium newsletter sends new pieces on games and the people who play them. [Subscribe](/newsletter) if you want the next strategy guide before it goes on the site.

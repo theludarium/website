@@ -1,10 +1,10 @@
 ---
 title: "Commander Cards in Cube: Supplemental Sets, Masters, UB"
 description: "Commander cards in cube, Modern Horizons, Masters reprints and Universes Beyond: which supplemental sets produce real cube cards and how to review them."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["Commander cards in cube", "supplemental sets cube", "Modern Horizons cube", "Masters sets cube", "Universes Beyond cube policy", "non-Standard cube cards", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Commander cards in cube are a question every owner answers eventually, usually the first time a friend hands them a Commander-only card and asks why it is not in the list. The answer is that supplemental sets follow different rules from Standard sets, both in how they are designed and in how a cube should read them. Some of the most important cube cards of the last decade came from non-Standard products. Most cards in those same products are built for four-player, 40-life games and do nothing in a draft. This article is how we sort them.
 
@@ -21,7 +21,7 @@ For cube purposes there are four families, and they behave differently.
 | Masters and reprint sets | Ultimate Masters, Double Masters, Ravnica Remastered | Reprints at eternal power | No new cards; cheaper copies of staples |
 | Universes Beyond | Lord of the Rings, Warhammer 40,000, Final Fantasy, and the 2026 Standard-legal crossovers | Varies | Depends entirely on whether the set was tuned for Limited |
 
-The 2026 crossovers blur the last line: Teenage Mutant Ninja Turtles, Marvel Super Heroes and The Hobbit were [Standard-legal](https://mtg.wiki/page/Standard) and drafted like Standard sets, so we reviewed them as such. Earlier Universes Beyond sets like Warhammer 40,000 were Commander-only, so they belong in the first row. Check which kind you are holding before applying a rule.
+Since Final Fantasy in 2025, Universes Beyond sets have mostly been [Standard-legal](https://mtg.wiki/page/Standard): Final Fantasy, Spider-Man and Avatar in 2025, then Teenage Mutant Ninja Turtles, Marvel Super Heroes and The Hobbit in 2026. They draft like Standard sets, so review them as such. Earlier Universes Beyond sets like Warhammer 40,000 were Commander-only, so they belong in the first row. Check which kind you are holding before applying a rule.
 
 ## Why do Modern Horizons sets matter most?
 
@@ -35,13 +35,13 @@ Our house rule: Modern Horizons sets get a full review, every card, the same as 
 
 The filter is simple and brutal: does the card do its job against one opponent at 20 life? Most Commander designs fail it. A card that triggers on each opponent, drains each opponent, or scales with the number of players is doing a third of its work in cube.
 
-Cards from Commander products that have passed the filter in Legacy-power cubes include True-Name Nemesis and Toxic Deluge, both from [Commander 2013](https://mtg.wiki/page/Commander_2013), and Dockside Extortionist from [Commander 2019](https://mtg.wiki/page/Commander_2019), in cubes with enough artifacts and Treasures. Note what they share: none of them mentions a commander. Cards that do lose text in cube. Arcane Signet makes no mana, because [the rules leave a missing commander's color identity undefined](https://mtg.wiki/page/Color_identity), and the [Commander 2020 free spells](https://mtg.wiki/page/C20) like Fierce Guardianship are free only while you control a commander, so in a draft Fierce Guardianship is a three-mana counterspell.
+Cards from Commander products that have passed the filter in Legacy-power cubes include True-Name Nemesis and Toxic Deluge, both from [Commander 2013](https://mtg.wiki/page/Commander_2013), and Dockside Extortionist from [Commander 2019](https://mtg.wiki/page/Commander_2019), in cubes with enough artifacts and Treasures. Note what they share: none of them mentions a commander. Cards that do lose text in cube. Arcane Signet makes no mana, because [the rules leave a missing commander's color identity undefined](https://mtg.wiki/page/Color_identity), and the [Commander 2020 free spells](https://mtg.wiki/page/C20) like Fierce Guardianship are free only while you control a commander, so in a draft Fierce Guardianship is a three-mana counterspell for noncreature spells.
 
 What fails: anything with "each opponent" that is costed assuming three of them, anything that needs a commander in the command zone, political cards, monarch and initiative cards unless your cube is specifically built for them, and most legendary creatures above four mana. A six-mana legend that is a Commander house favorite is almost always a five-mana cube card with an extra mana on it.
 
 Practical process: when a Commander product releases, read the new cards once, flag anything at three mana or less that works in a two-player game, and run those through the slot comparison. Expect zero to two keeps per release. Expect zero most of the time.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What do Masters sets give a cube?
 
@@ -89,4 +89,4 @@ Decide once and write it down. Including them gets you the best card for each sl
 
 ## Keep up with every product type
 
-We review each Standard set the week it drops and scan every Commander and Masters release for cube cards; both go out in the newsletter first. Subscribe, and if you are in Indianapolis, [join Cube Commonwealth](/articles/cube-draft-indianapolis/) and draft the results. The game is the reason. The people are the point.
+Subscribe to The Ludarium newsletter for new cube pieces, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, sets its first night as part of The Ludarium. The game is the reason. The people are the point.

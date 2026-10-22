@@ -1,10 +1,10 @@
 ---
 title: "Cube Community Design: Owner's Vision vs Wish List"
 description: "Cube community design without losing the cube: how to take requests from drafters, which to grant, which to refuse, and a process that keeps one editor."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube community design", "cube owner decisions", "drafter requests cube", "community cube input", "who decides cube changes", "cube design philosophy", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Cube community design sounds like a contradiction, and it half is. A cube with one owner has a point of view. A cube built by committee has an average. But the owner who ignores the people drafting the list every week ends up with a cube that is theirs and nobody else's, and then nobody else shows up. The useful position is in between, and it is more specific than "listen to feedback."
 
@@ -40,7 +40,7 @@ Editor, not stenographer and not dictator. The editor's job has three parts.
 
 ## A process that works
 
-What we use at Cube Commonwealth, offered as one working version rather than the standard.
+One working version, offered as a starting point rather than the standard.
 
 1. **One place for requests.** A pinned thread or channel in the group's Discord. Not DMs, not conversations at the table that get forgotten. Everything in one place, visible to everyone.
 2. **Every request names a problem and a replacement.** "Add X" is bounced back with "for what, and what comes out?" This filters half the requests at the door, because the requester often realizes the slot is already full.
@@ -48,7 +48,7 @@ What we use at Cube Commonwealth, offered as one working version rather than the
 4. **Monthly, the owner posts the swaps with one line each.** Including which requests went in, which did not, and why. "Bounced Smothering Tithe for now; the request was that Orzhov needs a four-drop, but the cut would be Lingering Souls and that costs the tokens lane more than Tithe adds."
 5. **Once a year, a real vote on structure.** Not on cards. On the big things: should we add a lane, should we change the power band, should we grow to 540. The structure is the part that belongs to the group most, and the owner should be willing to lose that vote.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which requests should be granted?
 
@@ -100,4 +100,4 @@ Answer once with the reason, in writing, in the shared channel. If the reason ch
 
 A good cube has many people's fingerprints on it and one person's judgment behind it. Hear the room, hold the purpose, make the call, and say why. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for a weekly piece on cube design and the groups that play it. If you are near Indianapolis, bring a request to the thread and a deck to the table at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that play it. If you are near Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

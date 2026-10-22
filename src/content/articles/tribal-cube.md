@@ -1,10 +1,10 @@
 ---
 title: "Tribal Cube: Every Deck Has a Creature Type"
 description: "How to build a tribal cube where every deck has a creature type: how many tribes, members, and payoffs per tribe, where changelings go, and lessons from Lorwyn."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["tribal cube", "tribal cube design", "typal cube", "Lorwyn cube", "changelings in cube", "creature type cube", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 A tribal cube is a cube where the archetypes are creature types instead of strategies. Elves are the ramp deck. Goblins are the aggro deck. Zombies grind, Merfolk tempo, Spirits fly. A drafter who picks up a Goblin lord on pick two knows exactly what the next 43 picks are for, which makes tribal cubes the easiest kind of cube to draft on sight and one of the hardest to build correctly.
 
@@ -20,13 +20,13 @@ Fewer than you want. The arithmetic for a 360-card, eight-player cube:
 
 That is 30 to 40 cards per tribe. In a 360, after lands and removal, that density leaves room for at most eight tribes, and comfortably for fewer. Eight is also the number Lorwyn used (Kithkin, Merfolk, Faeries, Elves, Goblins, Treefolk, Giants, Elementals), which is not a coincidence; the designers were solving the same problem for a 15-card booster.
 
-The public Lorwyn-Morningtide cube discussed at [Riptide Lab](https://riptidelab.com/forum/threads/soshis-lorwyn-morningtide-cube.398) started with five major tribes and four minor groups at a little over 300 cards, and after the first playtests its designer reported that the cube felt powerful but rarely let anyone run a single tribe; one reviewer had already suggested cutting to four or five tribes. That is the signature failure of a tribal cube with too many tribes: everyone ends up with a two-tribe pile and no lord that works.
+The public Lorwyn-Morningtide cube discussed at [Riptide Lab](https://riptidelab.com/forum/threads/soshis-lorwyn-morningtide-cube.398) started with five major tribes and four minor groups at under 300 cards, growing to about 306 after revisions, and after the first playtests its designer reported that the cube felt powerful but rarely let anyone run a single tribe; one reviewer had already suggested cutting to four or five tribes. That is the signature failure of a tribal cube with too many tribes: everyone ends up with a two-tribe pile and no lord that works.
 
 Our recommendation for a first tribal cube: **six tribes at 360, eight at 540.** Each tribe gets a primary color and a secondary color, arranged so that the ten pairs are covered and each color hosts two or three tribes.
 
 ## Which tribes have enough cards?
 
-A tribe needs 25 to 30 playable creatures within one or two colors at a flat power level, plus 6 to 10 payoffs. Not every famous tribe qualifies. The ones we consider deep enough, from our own list-building:
+A tribe needs 25 to 30 playable creatures within one or two colors at a flat power level, plus 6 to 10 payoffs. Not every famous tribe qualifies. The ones deep enough for a cube:
 
 | Tribe | Colors | Depth | Payoff examples |
 |---|---|---|---|
@@ -35,10 +35,10 @@ A tribe needs 25 to 30 playable creatures within one or two colors at a flat pow
 | Zombies | B, Ub | Very deep | Lord of the Accursed, Diregraf Captain, Cemetery Reaper |
 | Humans | W, Wx | Very deep (too broad) | Thalia's Lieutenant, Champion of the Parish, Hanweir Militia Captain |
 | Merfolk | U, Ug | Deep | Lord of Atlantis, Master of the Pearl Trident, Merrow Reejerey |
-| Spirits | WU | Deep since Innistrad | Supreme Phantom, Rattlechains, Spectral Sailor |
+| Spirits | WU | Deep since Innistrad | Supreme Phantom, Rattlechains, Drogskol Captain |
 | Vampires | BR, Bw | Deep | Legion Lieutenant, Stromkirk Captain, Vampire Nocturnus |
-| Wizards | UR | Moderate | Naban, Dean of Iteration; Wizard's Lightning; Vodalian Hexcatcher |
-| Soldiers / Knights | W, Wr | Deep | Field Marshal, Knight Exemplar, Benalish Marshal |
+| Wizards | UR | Moderate | Naban, Dean of Iteration; Wizard's Lightning; Wizard's Retort |
+| Soldiers / Knights | W, Wr | Deep | Field Marshal, Knight Exemplar |
 | Slivers | 5c | Deep but warping | Every Sliver is a lord; see below |
 
 Dinosaurs, Dragons, Angels, and Demons have depth but sit at four to six mana, which makes a whole deck of them a curve problem. Faeries and Rogues are deep but make a tempo deck rather than a tribal one. Slivers deserve a line of their own: a Sliver deck is nine lords and nothing else, and it either dominates or gets every lord Bolted. Most tribal cubes leave Slivers out or run them as a splashable colorless-style changeling package.
@@ -60,9 +60,9 @@ Changelings (every creature type at once) are the glue of a tribal cube and the 
 
 A house guideline: **8 to 12 changelings in a 360,** each costed and sized so that it is a fine playable without a tribe (Universal Automaton, <!-- AFFILIATE --> Changeling Outcast, Mothdust Changeling, Taurean Mauler, Chameleon Colossus, Mirror Entity, Shapesharer). Put the cheap ones in and leave the expensive ones out, because a cheap changeling helps the tribe hit its density and an expensive one is just a good creature. The Lorwyn cube above ran duplicates of its changelings and wondered how many to include; that question never fully resolves and that is fine.
 
-Also watch the "Kindred" or tribal-type noncreature cards (Kindred Charge, Crib Swap, Nameless Inversion). They count toward the type for cards that care, and they are good removal on their own. Three or four earn a slot.
+Also watch the "Kindred" or tribal-type noncreature cards (Crib Swap, Nameless Inversion). They count toward the type for cards that care, and they are good removal on their own. Three or four earn a slot.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you keep removal and non-tribal cards from drowning the theme?
 
@@ -108,4 +108,4 @@ Elves, Goblins, Zombies, Merfolk, Spirits, Vampires, and Soldiers or Knights all
 
 Tribal cubes are the cubes that newer drafters love first, because the box tells you what to do. The game is the reason. The people are the point.
 
-Get one piece a week like this by subscribing to the Ludarium newsletter, and if you are near Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/) would be glad to draft your tribal list.
+Get new pieces like this by subscribing to the Ludarium newsletter, and if you are near Indianapolis, you will hear first when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, sets its first night as part of The Ludarium.

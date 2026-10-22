@@ -82,7 +82,7 @@ Players are spirits defending an island from colonizers. Complex powers, deep pl
 
 The campaign co-op, with dozens of scenarios, character retirement, and a box you will need two hands for. Not for everyone, and we wrote an [honest guide to whether Gloomhaven is worth it](/articles/is-gloomhaven-worth-it/) for busy adults.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which cooperative game fits your group?
 
@@ -140,4 +140,4 @@ Most co-ops ship with difficulty settings, usually by adding threat cards or rem
 
 ## One list a week, no losing
 
-The game is the reason. The people are the point. If you want one tested game-night idea each week, including which co-op to try next and how to set it up so nobody takes over, subscribe to the Ludarium newsletter. When our Indianapolis lounge opens, subscribers hear first.
+The game is the reason. The people are the point. If you want new tested game-night ideas, including which co-op to try next and how to set it up so nobody takes over, subscribe to the Ludarium newsletter. When our Indianapolis lounge opens, subscribers hear first.

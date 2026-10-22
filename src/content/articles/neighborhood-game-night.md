@@ -59,7 +59,7 @@ The games for a neighborhood night need to pass three tests: teachable in three 
 
 Avoid, at least for the first few nights: anything with a 30-minute teach, anything with elimination (nobody wants to be voted out by a neighbor they just met), and anything with a reputation for ruining friendships. Save the trading games for month six.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How do you run the first night?
 
@@ -102,8 +102,8 @@ Decide and say so on the flyer. A family-friendly night with a kids' table (Sush
 
 Monthly is the right starting cadence. Weekly is too much for people who are still deciding whether they like it, and quarterly is too rare to become a habit.
 
-## One game-night idea a week
+## More game-night ideas
 
 A neighborhood where people know each other's names is safer, friendlier, and more fun to live in, and it starts with one person putting out a folding table. The game is the reason. The people are the point.
 
-If you want help keeping yours going, subscribe to The Ludarium newsletter. One game-night idea a week, plus what we are learning as we build a place for exactly this kind of gathering in Indianapolis.
+If you want help keeping yours going, subscribe to The Ludarium newsletter. Game-night ideas, plus what we are learning as we build a place for exactly this kind of gathering in Indianapolis.

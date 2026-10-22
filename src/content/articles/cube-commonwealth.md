@@ -63,7 +63,7 @@ Several things, and the mistakes are more useful than the successes.
 
 **We played too many rounds.** Four rounds felt proper. It also ended at midnight on a work night. Two or three rounds and a hard stop made people more willing to come back.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What makes a shared cube hold a group together?
 
@@ -114,6 +114,6 @@ Yes. Cube is one of the best formats for learning Magic, and most cube groups, o
 
 ## Pull up a chair
 
-If you draft, want to learn to draft, or just want to see what a community built around one box of cards looks like, you are welcome at Cube Commonwealth. The Ludarium newsletter sends one piece a week on games that bring people together, and it is where we post cube news, card changes, and lounge updates first. Subscribe, and we will save you a seat in Indianapolis.
+If you draft, want to learn to draft, or just want to see what a community built around one box of cards looks like, you are welcome at Cube Commonwealth. The Ludarium newsletter sends new pieces on games that bring people together, and it is where we post cube news, card changes, and lounge updates first. Subscribe, and we will save you a seat in Indianapolis.
 
 The game is the reason. The people are the point.

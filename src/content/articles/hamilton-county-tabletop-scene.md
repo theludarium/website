@@ -46,7 +46,7 @@ Nothing we could confirm as of October 2026, which is the most important line in
 
 Westfield is the [fastest-growing city in Indiana](https://westfieldin.gov/CivicAlerts.aspx?AID=123) by the city's reading of Census estimates, with Grand Park drawing youth sports families every weekend and a downtown that is being rebuilt around Grand Junction Plaza. The population is young, the households are large, and the nearest public table is a drive to Carmel or Noblesville. For a game night, a library program, or a lounge, Westfield is the open seat in the county.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How does the county compare, town by town?
 
@@ -107,4 +107,4 @@ Not one we could confirm as of October 2026. Carmel and Noblesville stores are w
 
 Hamilton County has the players, the stores, and most of the nights. The rooms are coming. The game is the reason. The people are the point.
 
-For the county's game nights as they change, Westfield and Carmel venues the moment they are confirmed, and first word on where The Ludarium opens, subscribe to the newsletter. One short email a week, written from the north side.
+For the county's game nights as they change, Westfield and Carmel venues the moment they are confirmed, and first word on where The Ludarium opens, subscribe to the newsletter. Short emails, written from the north side.

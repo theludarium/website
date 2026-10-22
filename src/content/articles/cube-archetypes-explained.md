@@ -55,7 +55,7 @@ Card names below are examples, not requirements. Your cube may run cheaper or mo
 | RW | Aggro | One-drops, burn, haste |
 | GU | Ramp, flash | Mana acceleration, card advantage |
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How many cards does an archetype need?
 
@@ -109,4 +109,4 @@ Aggro, because it needs the most redundancy at one and two mana, and sacrifice d
 
 Archetypes are a planning tool, and the plan is for people. Ten working lanes means eight players each go home having built a deck they chose, not one they were forced into. That is what keeps a group coming back. The game is the reason. The people are the point.
 
-If you want more on cube design and the groups that play it, subscribe to The Ludarium newsletter. One piece a week, and cube comes up often. Readers in Indianapolis can draft with us at [Cube Commonwealth](/articles/cube-draft-indianapolis/), where these lanes get tested every week.
+If you want more on cube design and the groups that play it, subscribe to The Ludarium newsletter. Cube comes up often. In Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

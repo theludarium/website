@@ -7,7 +7,7 @@
  * `action` is the form's action URL; `emailField` is the name of its email input.
  */
 export const KIT_NEWSLETTER_FORM = {
-  action: '',
+  action: 'https://app.kit.com/forms/10079099/subscriptions',
   emailField: 'email_address',
 };
 
@@ -15,7 +15,7 @@ export const KIT_NEWSLETTER_FORM = {
 export const STORE_URL = '';
 
 /** Where people can reach The Ludarium, including privacy requests. */
-export const CONTACT_EMAIL = '';
+export const CONTACT_EMAIL = 'hello@theludarium.com';
 
 /** Legal name of the business that runs the site, used in the privacy policy. */
 export const LEGAL_NAME = '';
@@ -37,7 +37,7 @@ export const TURNSTILE_SITE_KEY = '';
  * custom fields with these keys: zip_code, plays, visit_frequency.
  */
 export const KIT_WAITLIST_FORMS: Record<string, { action: string }> = {
-  indianapolis: { action: '' },
+  indianapolis: { action: 'https://app.kit.com/forms/10079113/subscriptions' },
 };
 
 /**

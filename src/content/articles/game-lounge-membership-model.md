@@ -104,4 +104,4 @@ The main risks are signing a lease the membership cannot carry and opening befor
 
 We will update this math as it becomes real: the lease, the price, the member count, the churn. If the numbers get ugly, you will read about it here first. The game is the reason. The people are the point.
 
-Follow the build by subscribing to the newsletter. One email a week, and when the founding tier opens in Indianapolis, subscribers hear before anyone else.
+Follow the build by subscribing to the newsletter. Emails, and when the founding tier opens in Indianapolis, subscribers hear before anyone else.

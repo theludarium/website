@@ -35,7 +35,7 @@ Notice that the losses are structural, not emotional. Most retirees are not grie
 
 Friendship compounds the problem. For many adults, especially men, the workplace was the last setting in which they saw the same people repeatedly. Retirement ends that, and the friendships fade with it. [Why friendships fade with age](/articles/why-friendships-fade-with-age/) covers that mechanism. [Friendship after retirement](/articles/friendship-after-retirement/) covers the rebuild.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How does play supply purpose?
 
@@ -94,4 +94,4 @@ Volunteering, mentoring, teaching, caring for grandchildren, and running or belo
 
 ## Something to look forward to, every week
 
-The Ludarium is building a game lounge in Indianapolis where a standing table and a role in it are easy to find. If you want one piece a week on play, purpose, and the second half of life, subscribe to the Ludarium newsletter. New articles go to subscribers first.
+The Ludarium is building a game lounge in Indianapolis where a standing table and a role in it are easy to find. If you want new pieces on play, purpose, and the second half of life, subscribe to the Ludarium newsletter. New articles go to subscribers first.

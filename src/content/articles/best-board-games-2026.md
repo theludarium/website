@@ -47,7 +47,7 @@ Wavelength is the party game that converted the people who hated party games. <!
 
 A 2026 game does not need to beat these. It needs to belong next to them.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## The best board games of 2026 so far
 
@@ -129,4 +129,4 @@ Five tests: a short teach, a clever first play, a requested second play, a livel
 
 ## Get the list as it grows
 
-The Ludarium newsletter sends one short piece each week on what to play, and subscribers get every update to this list first, along with news from the Indianapolis lounge as it opens. The game is the reason. The people are the point. Subscribe and tell us what we missed.
+The Ludarium newsletter sends new short pieces on what to play, and subscribers get every update to this list first, along with news from the Indianapolis lounge as it opens. The game is the reason. The people are the point. Subscribe and tell us what we missed.

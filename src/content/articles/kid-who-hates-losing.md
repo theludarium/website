@@ -52,7 +52,7 @@ Kingdomino, Ticket to Ride, Azul. Nobody knows who is winning until the end, so 
 
 Catan, Carcassonne, whatever the family likes. By now the child has lost dozens of times in low-stakes settings and has a script for it. Some losses will still sting. That is fine. That is everybody.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What do you say when it happens anyway?
 
@@ -115,4 +115,4 @@ Correct it calmly in the moment without accusing, switch to cooperative games fo
 
 The Ludarium is building a game lounge in Indianapolis, and the kid who has to win is welcome at every table. Most of the adults we know who are good at losing were that kid once, and somebody kept dealing them in. The game is the reason. The people are the point.
 
-Subscribe to the newsletter at theludarium.com for one piece a week on playing well with the people you love, including the hard ones. Never stop playing.
+Subscribe to the newsletter at theludarium.com for new pieces on playing well with the people you love, including the hard ones. Never stop playing.

@@ -1,14 +1,14 @@
 ---
 title: "What Is Your Cube For? The Question Before Every Card"
 description: "Cube design philosophy starts with one question: what is this cube for? How purpose decides power level, archetypes, and which cards get cut from the list."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["cube design philosophy", "cube design goals", "what makes a good cube", "cube purpose", "cube owner decisions", "how to design a cube", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Every cube design philosophy fits in one sentence, and the sentence is an answer to a question: what is this cube for? Not "what power level" or "which archetypes," those come later. The first question is who sits down to draft it, how often, and what you want them to feel when they shuffle up. Answer that and most card decisions answer themselves. Skip it and you end up with a list of good cards and no idea why Mana Leak beats Counterspell for the slot.
 
-This piece is about that first question. It is the one we ask at Cube Commonwealth before any swap, and it is the one most first-time builders never ask out loud.
+This piece is about that first question. It is the one worth asking before any swap, and it is the one most first-time builders never ask out loud.
 
 ## Why does a cube need a purpose?
 
@@ -34,7 +34,7 @@ Most cubes land on one of a handful of purposes. Naming yours helps, even if the
 
 **The art project.** The cube says something. A cube of only cards printed before 1998. A cube where every creature is a Human. A cube with no removal at all, to see what happens. The purpose is the idea, and whether it is good Magic is a secondary question the owner has chosen to accept.
 
-**The weekly engine.** The cube is the thing a community runs on. It needs to be fair enough that regulars keep coming, fresh enough that they do not get bored, and forgiving enough that a new face can sit down. This is the hardest purpose because it has to balance the other four, and it is what Cube Commonwealth's main list is for.
+**The weekly engine.** The cube is the thing a community runs on. It needs to be fair enough that regulars keep coming, fresh enough that they do not get bored, and forgiving enough that a new face can sit down. This is the hardest purpose because it has to balance the other four.
 
 Most real cubes are two of these. Pick the primary one and let it break ties.
 
@@ -56,7 +56,7 @@ A proving ground wants archetypes with skill gaps: Reanimator, which rewards kno
 
 The number of lanes also follows. A cube for eight sharp drafters can support ten tight two-color lanes plus a few three-color or theme decks stacked on top. A cube for a shifting group of six should probably have fewer, broader lanes, so that any two colors played together make a deck. We treat this in detail in [archetype density](/articles/archetype-density/).
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How does the purpose decide individual cards?
 
@@ -79,7 +79,7 @@ It will. A proving ground for eight friends becomes a weekly engine when the gro
 
 When that happens, do not patch the list. Ask the question again, out loud, and write the new answer down. Then make the changes the new answer requires, even if it means cutting a card you love. The cube that refuses to change its purpose becomes the cube nobody drafts.
 
-Cube Commonwealth's list has shifted purpose at least twice as the group changed, and each time the cards followed. The lesson we took is that the list is downstream of the people. Change the people, and the list has to change. The mechanics of the swap are a separate problem; the decision to swap comes from here.
+A group cube's purpose shifts as the group changes, and the cards have to follow. The list is downstream of the people. Change the people, and the list has to change. The mechanics of the swap are a separate problem; the decision to swap comes from here.
 
 ## FAQ
 
@@ -103,4 +103,4 @@ Yes. One or two sentences at the top of the primer. It keeps the owner honest an
 
 A cube is the longest answer anyone gives to a short question. Decide what the cube is for, say it plainly, and let every card earn its slot against that sentence. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for one piece a week on cube design and the groups that play it. If you are near Indianapolis, draft with us at [Cube Commonwealth](/articles/cube-draft-indianapolis/) and tell us what your cube is for.
+Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that play it. If you are near Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

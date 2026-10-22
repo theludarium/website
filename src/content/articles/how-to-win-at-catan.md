@@ -58,7 +58,7 @@ A few principles that hold up:
 
 Late in the game, expect the table to stop trading with you if you are winning. That is not rudeness. That is the game working. Plan for it by stockpiling what you need two turns before you need it.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## When should you buy development cards?
 
@@ -116,8 +116,8 @@ Settlements first, as a rule, because each new settlement adds new hexes to your
 
 Build toward a port. A two-to-one port removes your dependence on the table and turns one plentiful resource into anything you need.
 
-## Get one game-night idea a week
+## Get new game-night ideas
 
-We write guides like this one because a game you understand is a game you can teach, and a game you can teach is an excuse to get people around a table. The Ludarium newsletter sends one piece a week on games, play, and the lounge we are building in Indianapolis. If you want the Ticket to Ride guide and the next one after it before anyone else, [subscribe](/newsletter). No spam, one email, unsubscribe any time.
+We write guides like this one because a game you understand is a game you can teach, and a game you can teach is an excuse to get people around a table. The Ludarium newsletter sends new pieces on games, play, and the lounge we are building in Indianapolis. If you want the Ticket to Ride guide and the next one after it before anyone else, [subscribe](/newsletter). No spam, one email, unsubscribe any time.
 
 For a different kind of planning puzzle, our [Ticket to Ride strategy guide](/articles/ticket-to-ride-strategy/) covers the other game most tables learn first.

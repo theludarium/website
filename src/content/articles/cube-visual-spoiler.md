@@ -39,7 +39,7 @@ The sorting you choose on your own view is the one visitors see by default, so s
 
 For a cube that is not on CubeCobra, a spreadsheet with image formulas works but is slow to load and awkward to share. The general CubeCobra setup, including importing a list, is in the [CubeCobra guide](/articles/cubecobra-guide/).
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## When is a printed visual spoiler worth it?
 

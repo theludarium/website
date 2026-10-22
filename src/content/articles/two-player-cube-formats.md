@@ -1,10 +1,10 @@
 ---
 title: "Winston Draft, Grid, and Winchester: Two-Player Cube"
 description: "Winston draft, Grid draft, and Winchester draft explained step by step: card counts, how picks work, and which two-player cube format fits your night."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["Winston draft", "grid draft", "Winchester draft", "two-player cube", "2 player draft MTG", "cube with two players", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Winston draft is the oldest and best-known way to draft a cube with two people: a shared stack of cards, three small face-down piles, and a series of take-it-or-pass decisions that turn into a forty-card deck. Grid draft and Winchester draft solve the same problem differently, with open information and fewer blind picks. All three turn a cube built for eight into a great evening for two.
 
@@ -39,13 +39,13 @@ Grid draft is fully open information. There are no hidden piles and no blind pic
 
 The remaining cards, three or four of them, go to a discard pile and are out of the draft. Lay out the next grid. The player who picked second now picks first, and this alternates every grid.
 
-**End.** After 18 grids, each player has roughly 45 cards and builds a 40-card deck.
+**End.** After 18 grids, each player has 45 to 54 cards and builds a 40-card deck.
 
 **Why it is good.** Every decision is a small puzzle with full information. Do you take the row with the bomb and two blanks, or the column with three solid playables? Can you take a line that also denies the opponent the card they want? Because the leftover cards are discarded, the draft also teaches hate-drafting in miniature.
 
 **Common tweaks.** Some players use a 4x4 grid for larger picks. Some return the leftover cards to a pool for a final pick round. CubeCobra supports Grid draft directly in its playtest tools, which makes it the easiest format to try online.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## How does Winchester draft work?
 
@@ -76,7 +76,7 @@ A few recommendations from running all three:
 
 - **New to cube, or one player is new to Magic:** Grid. Everything is visible, nobody gets a surprise pile, and the puzzle of rows and columns is fun on its own. It pairs well with the approach in [how to teach Magic](/articles/how-to-teach-magic-the-gathering/).
 - **Two experienced players with an hour:** Winston. The hidden information makes the draft itself the game, and good players find it deeper than it looks.
-- **Thirty minutes and you want to play more than draft:** Winchester. It is the fastest, and the face-up piles mean no agonizing over invisible cards.
+- **Thirty minutes and you want to play more than draft:** Grid or Winchester. Both are quick, and the face-up cards mean no agonizing over invisible ones.
 
 All three produce decks that are a little weaker and a little less coherent than an eight-player draft produces, because you see fewer cards and your opponent is cutting you from every color at once. Expect two-color decks with a splash to be normal, and expect to play 17 lands in a format where you may not have your best curve.
 
@@ -94,7 +94,7 @@ If the cube is big enough, draft twice. A 540-card cube has enough cards for two
 
 ### Is Grid draft better than Winston draft?
 
-Neither is better. Grid is fully open information and easier to teach. Winston has hidden piles and rewards reading your opponent. Winchester sits between them and is the fastest.
+Neither is better. Grid is fully open information and easier to teach. Winston has hidden piles and rewards reading your opponent. Winchester sits between them.
 
 ### Can you do a two-player draft without a cube?
 
@@ -108,4 +108,4 @@ CubeCobra's playtest page offers Grid draft directly. For Winston and Winchester
 
 A cube does not need a full table to earn its keep. Some of the best evenings we have had were two players, one of these formats, and three matches with the decks swapped halfway. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for one piece a week on cube, draft formats, and the people who play them. Indianapolis readers who want the full eight-player experience can find it at [Cube Commonwealth](/articles/cube-draft-indianapolis/), where the pod is rarely short.
+Subscribe to The Ludarium newsletter for new pieces on cube, draft formats, and the people who play them. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

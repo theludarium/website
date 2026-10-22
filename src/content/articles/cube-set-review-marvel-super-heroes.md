@@ -1,10 +1,10 @@
 ---
 title: "Marvel Super Heroes Cube Review: Mind Stone, Loki, Vision"
 description: "Marvel Super Heroes cube review: The Mind Stone, Captain America, The Vision, Loki, and Mjolnir rated by slot, with keep, test, and pass calls for each tier."
-pubDate: 2026-10-18
+pubDate: 2026-10-21
 category: Magic & Cube
 tags: ["Marvel Super Heroes cube", "Marvel MTG cube", "Mind Stone Infinity Stone cube", "Loki God of Mischief cube", "Universes Beyond cube review", "MSH cube cards", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Magic: The Gathering | Marvel Super Heroes <!-- AFFILIATE --> released on June 26, 2026, and the Marvel Super Heroes cube conversation splits into two questions: do you run Universes Beyond cards at all, and if so, which of these are worth a slot? The first question is yours. For the second, the set has one colorless artifact that any cube can consider, several cheap legends in white and blue that are properly costed, and a lot of six-mana heroes that are built for Commander. Our calls follow [the slot method](/articles/how-to-evaluate-new-cards-for-cube/).
 
@@ -12,11 +12,11 @@ Set facts from the [Wizards collecting article](https://magic.wizards.com/en/new
 
 ## What does the set do, in one paragraph?
 
-"Heroes" and "Villains" are creature types the set cares about. **Power-up** is a repeatable activated ability that puts counters on a legend and does something else. **Teamwork** is a cost-reduction mechanic for spells. The Infinity Stones are legendary artifacts that tap for mana and have a late-game "harness" mode. For cube, the mechanics mostly do not travel. The individual cards do, and a few are efficient enough to ignore the typeline.
+"Heroes" and "Villains" are creature types the set cares about. **Power-up** is a one-time activated ability that puts counters on a legend and does something else. **Teamwork** is an optional extra cost: tap creatures with enough total power and the spell gets stronger. The Mind Stone, the set's Infinity Stone, is a legendary artifact that taps for mana and has a late-game "harness" mode. For cube, the mechanics mostly do not travel. The individual cards do, and a few are efficient enough to ignore the typeline.
 
 ## Is The Mind Stone a cube card?
 
-**The Mind Stone** ({1}{W}, legendary artifact, indestructible; tap for {W}; {5}{W}, tap: harness, after which it blinks one other nonland permanent you control each end step). **Slot:** white / 2 / mana rock. **Competes with:** nothing, really. White does not get two-mana rocks in most cubes; the closest comparisons are the colorless Mind Stone and Talismans. **Call: test** at every unpowered tier. A two-mana indestructible rock that only white decks can use is an odd object. It ramps white control into its four-drops a turn early, and the blink mode is a real late-game engine with any enters-the-battlefield creature. It is also the card the wider market has noticed: [MTGGoldfish](https://www.mtggoldfish.com/index/MSH-main_set) listed it near $49 as of October 17, 2026, so proxy it for testing.
+**The Mind Stone** ({1}{W}, legendary artifact, indestructible; tap for {W}; {5}{W}, tap: harness, after which it blinks one other nonland permanent you control each end step). **Slot:** white / 2 / mana rock. **Competes with:** nothing, really. White does not get two-mana rocks in most cubes; the closest comparisons are the colorless Mind Stone and Talismans. **Call: test** at every unpowered tier. A two-mana indestructible rock that only white decks can use is an odd object. It ramps white control into its four-drops a turn early, and the blink mode is a real late-game engine with any enters-the-battlefield creature. It is also the card the wider market has noticed: [MTGGoldfish](https://www.mtggoldfish.com/index/MSH-main_set) listed it at about $49 as of October 21, 2026, so proxy it for testing.
 
 ## Which cheap legends are properly costed?
 
@@ -42,11 +42,11 @@ The set's best cube material is in the two- and three-mana legends.
 - **Kang the Conqueror** ({2}{U}{U}, 4/5 flying; power-up for an extra turn). **Call: test** as a blue four-drop finisher. A 4/5 flier for four with a late extra-turn mode is a real card in blue control.
 - **Namor the Sub-Mariner** ({1}{U}{U}, */4 flying; makes Merfolk off blue spells). **Call: pass** outside tribal cubes.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What about the equipment and the big spells?
 
-- **Mjölnir, Hammer of Thor** ({3}{R} legendary Equipment; deals 4 to a creature on entering; doubles the equipped creature's damage; equip worthy {1}; {2}{R}, discard: 2 to each creature). **Slot:** red / 4 / removal with upside. **Call: test.** A four-mana Flametongue Kavu effect that stays on the battlefield as a damage doubler. The "worthy" equip condition limits who picks it up cheaply, so expect the hard equip in most games.
+- **Mjölnir, Hammer of Thor** ({3}{R} legendary Equipment; deals 4 to a creature on entering; doubles the equipped creature's damage; equip worthy {1}; {2}{R}, discard: 2 to each creature). **Slot:** red / 4 / removal with upside. **Call: test.** A four-mana Flametongue Kavu effect that stays on the battlefield as a damage doubler. Only a worthy creature, a legendary non-Villain that is red or white, can carry it, so in most cube decks it is a four-mana Flametongue Kavu with a sweeper mode attached.
 - **Iron Man Armor** ({3} Equipment; attaches on entering; +2/+1 and flying; {2} animates it as a Construct scaled to your artifacts; equip {2}). **Call: test** in artifact cubes, pass elsewhere.
 - **Cosmic Cube** ({5} artifact, ward {2}; on attack, look at six and cast one free with mana value up to your biggest attacker's power). **Call: pass.** Does nothing until you attack with something large.
 - **Avengers Assemble!**, **Multiversal Incursion**, **Earth's Mightiest Heroes**: all pass. Tribal or six-plus mana.
@@ -63,10 +63,11 @@ The set's best cube material is in the two- and three-mana legends.
 | Kang the Conqueror | U / 4 / finisher | Test | Legacy, Modern |
 | Mjölnir, Hammer of Thor | R / 4 / removal | Test | Legacy, Modern |
 | King T'Challa | WU / 3 / value | Test | Legacy |
+| The Mighty Thor, Jane Foster | WU / 3 / tempo | Test | Legacy |
 | M.O.D.O.K. | B / 5 / lock piece | Test | Legacy |
 | Thanos, Doom, Cosmic Cube, Hulk | various | Pass | None |
 
-No keeps, nine tests. That is unusual: the set has a lot of cards that are close to the line and none that clear it on paper. Expect two or three to survive three drafts.
+No keeps, ten tests (plus Iron Man Armor in artifact cubes). That is unusual: the set has a lot of cards that are close to the line and none that clear it on paper. Expect two or three to survive three drafts.
 
 ## FAQ
 
@@ -88,4 +89,4 @@ In cube, yes. A 540-card list will not have enough Heroes for the tribal payoffs
 
 ## Test them with us
 
-The Mind Stone, Captain America and The Vision are in our proxy pile for the next Cube Commonwealth drafts in Indianapolis. [Come draft them](/articles/cube-draft-indianapolis/) and argue with us about the Sentry. Subscribe to the newsletter for the follow-up on which tests became keeps, and for the next [set review in this series](/articles/cube-set-review-the-hobbit/). The game is the reason. The people are the point.
+Proxy The Mind Stone, Captain America and The Vision and draft them a few times before you buy. The next [set review in this series](/articles/cube-set-review-the-hobbit/) covers The Hobbit. Subscribe to The Ludarium newsletter for new cube pieces, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, sets its first night as part of The Ludarium. The game is the reason. The people are the point.

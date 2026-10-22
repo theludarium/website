@@ -55,7 +55,7 @@ A practical note on structure. Cooperative games first, competitive games second
 
 Avoid party games built on deception for a first session. Werewolf and The Resistance are great games, but asking people to lie to coworkers they do not fully trust yet produces a strange afternoon.
 
-*If this is useful to you as a manager, the newsletter sends one piece like it every week.*
+*If this is useful to you as a manager, the newsletter sends more like it.*
 
 ## How to run a board game team-building session
 
@@ -110,4 +110,4 @@ Two to three hours: one cooperative game, a written debrief, one lighter communi
 
 The Ludarium runs tabletop sessions for teams, from a single afternoon at your offsite to a recurring program for leadership groups. We bring the games, teach from the front, and run the debrief so the session produces something your team can use on Monday. Facilitators are based in Indianapolis and travel.
 
-If your next offsite needs something better than a ropes course, reach out through theludarium.com and ask about corporate tabletop events. While you are there, subscribe to the newsletter for one piece a week on what a game table shows you about a team. The game is the reason. The people are the point.
+If your next offsite needs something better than a ropes course, reach out through theludarium.com and ask about corporate tabletop events. While you are there, subscribe to the newsletter for new pieces on what a game table shows you about a team. The game is the reason. The people are the point.

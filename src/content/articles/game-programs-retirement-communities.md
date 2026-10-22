@@ -34,7 +34,7 @@ We asked that question of everyone we could, and the answers cluster into six th
 
 **6. There is no timer and no fuss.** A slow turn is fine. An unfinished game is fine. A program that makes people feel rushed or tested loses the people who most need it.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## Which games work in a retirement community?
 
@@ -109,6 +109,6 @@ In memory care, sorting and matching games, dominoes, large picture cards, and s
 
 Sixty to ninety minutes in the early or mid-afternoon, with a pause, is a reliable length. Pick games that can be set aside and resumed next week.
 
-## One idea a week for your activity calendar
+## More ideas for your activity calendar
 
-The Ludarium writes about play across the whole lifespan, and the Indianapolis lounge we are building will have a standing afternoon table for exactly this crowd. If you run programs for older adults, subscribe to the Ludarium newsletter for one usable idea a week on games and togethering.
+The Ludarium writes about play across the whole lifespan, and the Indianapolis lounge we are building will have a standing afternoon table for exactly this crowd. If you run programs for older adults, subscribe to the Ludarium newsletter for new usable ideas on games and togethering.

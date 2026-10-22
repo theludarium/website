@@ -1,10 +1,10 @@
 ---
 title: "What Is a Meeple? The Word, the Shape, and Its Origin"
 description: "What is a meeple? Where the word came from, why the little wooden person has that shape, and how it grew into the friendly symbol of modern board games."
-pubDate: 2026-10-18
+pubDate: 2026-10-20
 category: Game Guides
 tags: ["what is a meeple", "meeple meaning", "meeple origin", "Carcassonne meeple", "wooden board game pieces", "meeple definition", "Glossary"]
-draft: true
+draft: false
 ---
 A meeple is a small wooden figure shaped like a simplified person, with a round head, stubby arms, and a solid base where the legs would be. It is the standard playing piece in Carcassonne and has since spread to hundreds of other games. If you have ever asked "what is a meeple" after someone at the table used the word like everyone should know it, this is the answer, along with the story of how a joke became the most recognizable object in the hobby.
 
@@ -34,7 +34,7 @@ The result is a figure that is both abstract and human. It has no gender, no age
 
 Hans im Glück has treated the specific figure as part of its brand: it holds an EU trademark on the shape of the original Carcassonne meeple and has [registered the word itself](https://en.wikipedia.org/wiki/Meeple) in some territories, though not in the United States. That is why other publishers' "meeples" often have slightly different proportions: a rounder head, wider arms, a taller base. They are close relatives, not copies.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What counts as a meeple and what doesn't?
 
@@ -101,7 +101,7 @@ The Carcassonne follower is [about 16 mm tall](https://www.carcassonnecentral.co
 
 The meeple is a small thing with a big job. It turns a flat map into a place where you have a stake, and it does it in one piece of painted wood. That is also what a game does for the people around it: a reason to sit down, a stake in the next hour, and someone to share it with. The game is the reason. The people are the point.
 
-We write one piece like this every week on the words, games, and habits that make tables work, and we are building a membership game lounge in Indianapolis to put them into practice. Subscribe to The Ludarium newsletter and we will send the next one straight to you.
+We write new pieces like this on the words, games, and habits that make tables work, and we are building a membership game lounge in Indianapolis to put them into practice. Subscribe to The Ludarium newsletter and we will send the next one straight to you.
 
 ## Sources
 

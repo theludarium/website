@@ -55,7 +55,7 @@ The old rhythm, documented on the [MTG Wiki](https://mtg.wiki/page/Vintage_Cube)
 
 Because each league is tied to a set, the simplest way to predict the next Vintage Cube is to find the next MTGO set release date and count back five days for the article. We are not going to name that date here because no post has, and release calendars move.
 
-*If this is useful, the newsletter sends one piece like it every week.*
+*If this is useful, the newsletter sends more like it.*
 
 ## What does Vintage Cube cost on MTGO?
 

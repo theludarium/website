@@ -54,7 +54,7 @@ For this article, "cafe" means any of those: a place you go to play games that i
 
 **When you need a reason to leave the house.** This one is less tangible and more important. A standing night out, at a place that expects you, is a different kind of commitment than "we should play sometime." It gets people off the couch. Some of us need that.
 
-*If this is useful, the newsletter sends one comparison like it every week.*
+*If this is useful, the newsletter sends more comparisons like it.*
 
 ## What are the real costs of each?
 
@@ -113,5 +113,5 @@ Rotate hosts, keep a shared list of games people want to try, buy or borrow one 
 
 ## One night a week, wherever the table is
 
-The game is the reason. The people are the point. Whether the table is in your kitchen or in a lounge in Indianapolis, the thing that matters is that it is set and that people come. For one short piece a week on building that habit, and updates on the lounge as it opens, subscribe to The Ludarium newsletter.
+The game is the reason. The people are the point. Whether the table is in your kitchen or in a lounge in Indianapolis, the thing that matters is that it is set and that people come. For new short pieces on building that habit, and updates on the lounge as it opens, subscribe to The Ludarium newsletter.
 
