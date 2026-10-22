@@ -89,7 +89,7 @@ Standings rank **wins first**. Ties break on total victory points across your ga
 - **No free cards.** Trades must be real trades. Gifting a resource, or a chain of trades that nets someone a free card, counts as collusion.
 - **Off-turn offers are fine, but nothing is binding.** Players waiting for their turn can float trade ideas while the active player deals.
 - **Claim your win on your turn.** Hit 10 points and forget to say so, and you wait a full round.
-- **No AI help.** Using AI software at the table is banned outright. (Yes, I noticed.)
+- **No AI help.** Using AI software at the table is banned outright.
 
 If you want a refresher on openings and trading before a tournament, start with our guide on [how to win at Catan](/articles/how-to-win-at-catan/).
 
