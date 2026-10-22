@@ -42,6 +42,10 @@ Lessons 29 to 34 are published and lesson 35 is written but waits for your quali
 
 Once Levels 1 to 4 are all built in Kit, you can switch **C1 Catan: Start** to its full version with the four-path split on `catan_experience`, so "Played a few times", "I play regularly", and "I want to compete" start at Levels 1, 2, and 4. Then the site copy can go back to "starts at your level"; tell Claude when, and it will update the pages and the welcome email.
 
+### Adding Level 5 (written 2026-10-22)
+
+Lessons 36 to 40 and their emails are done (emails below), so the whole course is written except your recap in lesson 35. Build **Catan L5: Champion** (Tuesday and Friday, 8 a.m., delays as in step A) and automation **C7** as written in step C, and add the "Too easy?" trigger for Level 4. Level 5 needs no interim wrap-up: end it with graduation email 6 and then the course-complete email, both drafted below, plus the **Catan: league interest** link trigger from step B. People who already finished Level 4 hold `academy-catan-champion`; start them by removing and re-adding that tag. Once all six levels are built, switch every level sequence from its interim wrap-up to its real graduation email.
+
 ### Lesson email footer, for now
 
 > Busy stretch? [Pause lessons for two weeks](link trigger: Catan: pause lessons) · [Find a Catan event near you](https://theludarium.com/articles/catan-tournament-qualifier/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=events)
@@ -980,6 +984,137 @@ Button: `https://theludarium.com/academy/catan/beating-the-turn-timer/?utm_sourc
 
 Button: `https://theludarium.com/academy/catan/your-first-qualifier/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-35`
 
+### The five Level 5 lesson emails
+
+For **Catan L5: Champion**, built when Level 5 launches (see "Adding Level 5" above). Same footer and button as the other levels, minus the "Too easy?" link (there is no level above).
+
+#### Lesson 36
+
+**Subject:** Plan your season like a pro
+
+**Preview text:** Local qualifiers, the regional, and the calendar, in one plan.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> Welcome to Level 5, the last level. You have played a qualifier. Now let's plan a real run.
+>
+> **The one idea:** a championship run is a season, not a Saturday. Choose your locals by region, pencil in the Regional Preliminary and Nationals, budget the travel, and train for whichever event comes next.
+>
+> **A quick example:** say you live in Indianapolis and win a local in Ohio. Both are Knight states, so Knight locals are closed to you for the season. But you can still qualify in the Merchant and Pirate regions, one qualification in each. A second region is a second shot at Regional Champion, the player who gets a bye to the Nationals semifinal and a travel voucher. It is not a way to stack invitations: place in the top 13 twice, and your first finish is voided.
+>
+> The full lesson covers how last season's calendar ran, how to pick locals by drive time, field size, and spacing, why a second-place finish at a local can still matter, a simple travel budget, and how to split your practice into phases. The 2027 Regional and Nationals dates are not announced yet, so it shows you how to plan in pencil.
+>
+> **Try it this week:** map a full season of target events. Three to five locals, a summer window for your Regional, and a budget with a ceiling.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/planning-a-season/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-36`
+
+#### Lesson 37
+
+**Subject:** Four games. No final table.
+
+**Preview text:** Four steady games beat one brilliant one.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> A local qualifier has a safety net: sneak into the final table and everything resets. A Regional Preliminary takes the net away.
+>
+> **The one idea:** four games, a cut for zero-win players after game 3, and then the standings decide everything. Wins first, then total points, then VP percentage. So build a plan with a high floor, earn one win before the cut, and treat every point as part of your result.
+>
+> **A quick example:** Casey and Morgan each win one game. Casey's three losses score 4, 3, and 5. Morgan's score 8, 7, and 8. Same record, and Morgan finishes 11 points ahead. In a crowded one-win pack, that gap can be the difference between a Nationals invitation and the drive home.
+>
+> The full lesson covers the odds of the zero-win cut (an average player has about a 42% chance of going three games without a win), when a bold play is the right play, and how to handle food, breaks, and focus over a long day of tournament Catan.
+>
+> **Try it this week:** play four games in one day under tournament conditions. Keep a real score sheet and aim for 28 points or more.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/regional-preliminary-prep/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-37`
+
+#### Lesson 38
+
+**Subject:** What it takes to win Nationals
+
+**Preview text:** The format, the seat choice on the clock, and serpentine seating.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> Locals and Regionals reward wins and points. Nationals asks for something narrower: win one game, then win one more.
+>
+> **The one idea:** the 2027 U.S. National Championship has 52 players. The three Regional Champions and the top U.S. player from the Masters Invitational go straight to the semifinal. The other 48 play a quarterfinal for the last 12 seats. Then four semifinal tables, and the four table winners meet at one final. No points race. Only the win moves you on.
+>
+> **A quick example:** in an official semifinal, players are seated serpentine style, so the top-ranked player shares a table with ranks 8, 9, and 16. Then, during map study, players pick their play order in rank order on a two-minute clock. You have to read the board and choose your seat at the same time.
+>
+> The full lesson covers the four paths to Nationals, how the bracket runs over two days, what the official page does and does not say about seating, the spectator side of the event, and what it really takes to win.
+>
+> **Try it this week:** watch a Nationals final on CATAN's YouTube channel. Pause at the map reveal and predict each player's plan, then see how close you got.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/inside-the-national-championship/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-38`
+
+#### Lesson 39
+
+**Subject:** Learn from the world champions
+
+**Preview text:** Watch a championship final turn by turn, the way a coach would.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> The best Catan coaching in the world is free, and it is on YouTube.
+>
+> **The one idea:** CATAN's official YouTube channel has championship finals, from U.S. Nationals to the World Championship. Watch one like a coach, not a fan. Pause at the map reveal, predict each player's plan, then compare. Every gap between your guess and their move is something to learn.
+>
+> **A quick example:** you pause the final and predict that seat 2 goes for ore and wheat. Instead, they take a wood and brick corner next to a 2:1 brick port. You write one line: what happened, why you think they did it, and what you would have done. Ten lines like that teach more than ten games played on autopilot.
+>
+> The full lesson links finals on the official channel, shows the three passes (predict, compare, annotate), lists the five things to note turn by turn, and gives you an annotation format with examples.
+>
+> **Try it this week:** annotate one final turn by turn. Then pick the one pattern that showed up most, and try it in your next three games.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/study-championship-finals/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-39`
+
+#### Lesson 40
+
+**Subject:** You're not training alone
+
+**Preview text:** Masters, international events, and the group that keeps you sharp.
+
+> Hi {{ subscriber.first_name | default: "there" }},
+>
+> This is the last lesson of Road to the Catan Championship. Thank you for walking the whole road.
+>
+> **The one idea:** a Catan career is measured in seasons, not single events. Above Nationals sit the Masters Invitational and the World Championship, next held in 2027. The players who get there usually train with a group: weekly games under tournament rules, reviewed together.
+>
+> **A quick example:** four friends meet every Thursday. Ten minutes of map study on the same board, one game with a live robber and a turn timer, then three lines of review from each player. The turn you lost is often obvious to the player sitting next to you.
+>
+> The full lesson covers the Masters Invitational and its road into Nationals, the World Championship and the continental events, how to build a training group, and a look back at all six levels.
+>
+> One more thing: The Ludarium is starting a Catan practice league for players who want to train together. It isn't running yet. Subscribers will be the first to hear when it opens.
+>
+> **Try it this week:** start or join a weekly practice group. Two yeses is enough to begin.
+>
+> [Button: Read the full lesson]
+>
+> Levi
+> The Ludarium
+
+Button: `https://theludarium.com/academy/catan/the-long-game/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=lesson-40`
+
 ### The interim Level 1 wrap-up
 
 Last email in **Catan L1: Homesteader**, 24 hours after lesson 12, until Level 2 is written. Then switch to graduation email 2. Keep C3's tag swap to `academy-catan-trader` as written: with no Level 2 automation yet, the tag starts nothing, and it marks who finished Level 1. When Level 2 launches, start them the same way as Level 1 graduates: remove and re-add `academy-catan-trader`.
@@ -1656,7 +1791,7 @@ Last email in **Catan L5: Champion**, delay 1 day (lands on the next Tuesday or 
 >
 > You've finished Road to the Catan Championship. Here's what comes next.
 >
-> **The practice league.** The Ludarium is starting a Catan practice league: a standing group of players who want to get better together, like the training group from the last lesson. It isn't running yet. Course graduates hear about it first, and if you want in, the button below puts your name down. No commitment.
+> **The practice league.** The Ludarium is starting a Catan practice league: a standing group of players who want to get better together, like the training group from the last lesson. It isn't running yet. Subscribers will be the first to hear when it opens, and if you want in, the button below puts your name down. No commitment.
 >
 > **Find a qualifier.** Local qualifiers run at game stores and conventions all season. [Here's how the ladder works and how to find one near you](https://theludarium.com/articles/catan-tournament-qualifier/?utm_source=kit&utm_medium=email&utm_campaign=academy-catan&utm_content=complete-qualifier).
 >
