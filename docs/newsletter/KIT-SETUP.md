@@ -52,7 +52,7 @@ This lets Kit send as hello@theludarium.com without landing in spam.
 2. Same incentive setting (double opt-in) and confirmation email.
    - **Redirect after confirmation**: `https://theludarium.com/newsletter/confirmed/`
    - **Success** redirect: `https://theludarium.com/lounges/thanks/`
-3. Custom fields: in **Grow > Subscribers**, open the field settings and add three custom fields with exactly these keys: `zip_code`, `plays`, `visit_frequency`. (First name and email are built in.)
+3. Custom fields: in **Grow > Subscribers**, open the field settings and add four custom fields with exactly these keys: `last_name`, `zip_code`, `plays`, `visit_frequency`. (First name and email are built in; Kit has no built-in last name.)
 4. Tag: in **Automate > Rules**, add a rule: trigger **Subscribes to a form: Lounge waitlist: Indianapolis**, action **Add tag: `lounge-indianapolis`**. Future cities reuse the pattern (`lounge-<city>`).
 5. Copy its `action` address from **Embed > HTML**, as above.
 
@@ -66,6 +66,10 @@ Paste the two `action` addresses into the chat. Claude puts them in `src/lib/con
 
 ## Later
 
-- **Malaphors form: done 2026-10-22.** Form 10080181 "Malaphor submissions" (fields `malaphor`, `parents`, `context`; rule tags `malaphors`; success redirect `/malaphors/thanks/`, after confirmation `/malaphors/confirmed/`).
+- **Malaphors form: done 2026-10-22.** Form 10080181 "Malaphor submissions" (fields `last_name`, `malaphor`, `parents`, `context`; rule tags `malaphors`; success redirect `/malaphors/thanks/`, after confirmation `/malaphors/confirmed/`).
 - **Academy waitlist** (`academy` plus a per-course tag such as `academy-game-design`): when the Academy page gets its form.
 - **Sending from Gmail as hello@**: needs an SMTP service; skip until replies from your Gmail address become a problem.
+
+## Last names (added 2026-10-22)
+
+The waitlist, malaphor, and Academy forms ask for first and last name. Kit stores first name on its own, but last name is a custom field: create it once, in **Subscribers**, open any profile, **Custom Fields > Add new**, named exactly `last_name`. Every form then fills it. Until it exists, Kit quietly drops the last name and the signup still works.
