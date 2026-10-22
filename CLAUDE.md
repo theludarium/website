@@ -123,6 +123,7 @@ Keep it simple. No CMS, database, or user accounts. Add a dependency only when i
 | `/store/` | Store | Short intro, then a link to the Lemon Squeezy store |
 | `/support/` | Support | How to support The Ludarium (Patreon or similar) |
 | `/search/` | Search | Site search (static index, such as Pagefind); search analytics later |
+| `/malaphors/` | Malaphors | Submission page printed in the malaphor field guide; Kit form tagged `malaphors` |
 | `/affiliate-disclosure/` | Disclosure | Plain-language affiliate disclosure |
 | `/privacy/` | Privacy | Privacy policy covering email signups and forms |
 | `/terms/` | Terms | Terms of use |
