@@ -95,9 +95,12 @@ A few honest notes. Some players find the two-player game less exciting than the
 
 ## The 90 songs on the cards
 
-The cards are real songs. Dan Hughes put every one of them in a [Spotify playlist](https://open.spotify.com/playlist/7AbaN2hSruNxrOB1gEYSYp), and there are 90 tracks.
+The cards are real songs, all 90 of them. We built a free [YouTube playlist of every song on the cards](https://www.youtube.com/playlist?list=PLRKN7hPJmLu0), in the same order as the list below, so anyone can play the soundtrack with no subscription.
 
-We also built a free [YouTube playlist of all 90 songs](https://www.youtube.com/playlist?list=PLRKN7hPJmLu0), in the same order, so anyone can play the soundtrack with no subscription.
+<aside class="prose-band" aria-label="The I Made You a Mixtape playlist">
+<p><strong>Play all 90 songs.</strong> The whole deck as one free playlist, ready for your next game night.</p>
+<a class="button button--ghost" href="https://www.youtube.com/playlist?list=PLRKN7hPJmLu0" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true" fill="currentColor"><path d="M8 5.5v13a1 1 0 0 0 1.5.86l10.5-6.5a1 1 0 0 0 0-1.72L9.5 4.64A1 1 0 0 0 8 5.5z"/></svg>Play the playlist on YouTube</a>
+</aside>
 
 A fun detail for sharp-eared players: the game is set in the early '90s, but Dan DiLisio's collection is ahead of its time. "All the Small Things," "Genie in a Bottle," and "Say My Name" did not come out until 1999. Maybe he has been leaping through time with Scott Bakula.
 
