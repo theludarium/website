@@ -4,7 +4,7 @@ description: "I Made You a Mixtape is a card game about building the perfect tap
 pubDate: 2026-10-23
 category: Game Design
 tags: [i made you a mixtape, card games, indianapolis game designers, music games, game night, i split you choose]
-draft: true
+draft: false
 offer: mixtape-j-card
 ---
 
