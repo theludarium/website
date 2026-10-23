@@ -10,6 +10,8 @@ House rules for every email here: plain words, short sentences, no em dashes, wa
 
 Only Level 0 is written so far, so everyone starts at Level 0 for now, whatever they pick on the form. The form still saves `catan_experience`, so the level split can switch on later without asking anyone again. Build this short version first, test it, and then we merge the site. The full plan below stays the target as more levels are written.
 
+**Built in Kit on 2026-10-22 and switched on:** sequences **Catan: Welcome** (2940900) and **Catan L0: Settler** (2940904, six emails, every day at 8 a.m. Indiana time, excluding `academy-catan-paused`); automations **Catan: Start** (2123973), **Catan: Level 0** (2123982), and **Catan: Pause** (2124001); link trigger **Catan: pause lessons** in every lesson footer. Lesson buttons are bold text links rather than Kit button blocks. A second, unnamed pause trigger exists with the same action (adds `academy-catan-paused`); either works.
+
 ### What to build now
 
 1. **Tags and form:** done (KIT-SETUP.md).
@@ -68,7 +70,7 @@ Sequence **Catan: Welcome**, as soon as possible.
 >
 > **How it works**
 >
-> - 40 lessons in six levels: Settler, Homesteader, Trader, Strategist, Contender, and Champion. Level 0 is ready now, and the next levels arrive in your inbox as they are written.
+> - 40 lessons in six levels: Settler, Homesteader, Trader, Strategist, Contender, and Champion. Level 0 starts now, and the next levels follow in your inbox.
 > - Each email is a two-minute read: one idea, a quick example, and one thing to try at your next game. The full lesson lives on the site, with a short Level check at the end.
 > - **Busy stretch?** "Pause lessons" in any email holds them for two weeks, then they pick up where you left off.
 >
