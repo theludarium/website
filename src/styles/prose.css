@@ -115,6 +115,31 @@
   text-align: left;
 }
 
+/* Tables scroll sideways on narrow screens (wrapper added by rehype-table-scroll). */
+.prose-article .table-scroll {
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.prose-article .table-scroll:focus-visible {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 4px;
+}
+
+/* Tables with four or more columns keep a readable width and scroll instead. */
+.prose-article .table-scroll table:has(th:nth-child(4)) {
+  min-width: 40rem;
+}
+
+/* The brand line inside an article: <span class="brand-line">The game is the reason. The people are the point.</span> */
+.prose-article .brand-line {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 600;
+  color: var(--color-primary);
+}
+
 /* A band inside an article: one short line and one link button, for example
    a playlist or a free tool. Write it as raw HTML in Markdown:
    <aside class="prose-band"><p>...</p><a class="button button--ghost" href="...">...</a></aside>

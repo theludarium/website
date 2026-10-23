@@ -4,6 +4,7 @@ import fs from 'node:fs';
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import rehypeUnpublishedLinks from './src/plugins/rehype-unpublished-links.mjs';
+import rehypeTableScroll from './src/plugins/rehype-table-scroll.mjs';
 
 // Same rule as src/lib/env.ts: local dev and preview branches show drafts;
 // main (production) and plain local builds do not.
@@ -39,6 +40,6 @@ export default defineConfig({
   ],
   markdown: {
     shikiConfig: { theme: 'github-light' },
-    rehypePlugins: [[rehypeUnpublishedLinks, { showDrafts }]],
+    rehypePlugins: [[rehypeUnpublishedLinks, { showDrafts }], rehypeTableScroll],
   },
 });
