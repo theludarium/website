@@ -34,7 +34,8 @@ interface Props {
 }
 
 const { article, all } = Astro.props;
-const { title, description, pubDate, updatedDate, category, tags, heroImage, heroAlt, draft, offer: offerKey } = article.data;
+const { title, seoTitle, description, pubDate, updatedDate, category, tags, heroImage, heroAlt, draft, offer: offerKey } =
+  article.data;
 // A newsletter offer (see KIT_OFFER_FORMS) replaces the generic end-of-article signup copy and form.
 const offer = offerKey ? { key: offerKey, ...KIT_OFFER_FORMS[offerKey] } : undefined;
 const { Content, headings } = await render(article);
@@ -73,7 +74,7 @@ const structuredData = [
 ---
 
 <BaseLayout
-  title={title}
+  title={seoTitle ?? title}
   description={description}
   image={heroImage?.src ?? `/og/articles/${article.id}.png`}
   imageAlt={heroImage ? heroAlt : `${category}: ${title}`}

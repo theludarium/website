@@ -37,6 +37,12 @@ export const CATEGORIES = [
     tint: '#6e9c8d',
   },
   {
+    slug: 'game-shelf',
+    name: 'Game Shelf',
+    description: 'Building, sharing, and organizing a game collection worth playing.',
+    tint: '#a0824f',
+  },
+  {
     slug: 'game-design',
     name: 'Game Design',
     description: 'How games work, and how to make your own.',
