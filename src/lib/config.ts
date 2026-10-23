@@ -21,7 +21,8 @@ export const KIT_NEWSLETTER_FORM = {
  */
 export const KIT_OFFER_FORMS = {
   'mixtape-j-card': {
-    action: '',
+    // Kit form "Offer: Mixtape J-card" (10088125); rule 5664112 tags mixtape-j-card.
+    action: 'https://app.kit.com/forms/10088125/subscriptions',
     heading: 'Get the free Mixtape J-card.',
     lede: 'A printable, real-size cassette insert for the winning tape. Join The Ludarium newsletter and it arrives when you confirm your email.',
     buttonLabel: 'Send me the free J-card',
