@@ -12,6 +12,24 @@ Only Level 0 is written so far, so everyone starts at Level 0 for now, whatever 
 
 **Built in Kit on 2026-10-22 and switched on:** sequences **Catan: Welcome** (2940900) and **Catan L0: Settler** (2940904, six emails, every day at 8 a.m. Indiana time, excluding `academy-catan-paused`); automations **Catan: Start** (2123973), **Catan: Level 0** (2123982), and **Catan: Pause** (2124001); link trigger **Catan: pause lessons** in every lesson footer. Lesson buttons are bold text links rather than Kit button blocks. A second, unnamed pause trigger exists with the same action (adds `academy-catan-paused`); either works.
 
+**All six levels built in Kit on 2026-10-22 and switched on.** The "Adding Level N" notes below are kept for history; this is what is live now.
+
+| Level | Sequence (ID) | Emails | Automation (ID) | When the sequence ends |
+| --- | --- | --- | --- | --- |
+| 0 | Catan L0: Settler (2940904) | lessons 1 to 5, graduation email 1 | Catan: Level 0 (2123982) | remove `settler`, add `homesteader` |
+| 1 | Catan L1: Homesteader (2940993) | lessons 6 to 12, graduation email 2 | Catan: Level 1 (2124434) | remove `homesteader`, add `trader` |
+| 2 | Catan L2: Trader (2941004) | lessons 13 to 20, graduation email 3 | Catan: Level 2 (2124447) | remove `trader`, add `strategist` |
+| 3 | Catan L3: Strategist (2941009) | lessons 21 to 28, graduation email 4 | Catan: Level 3 (2124458) | remove `strategist`, add `contender` |
+| 4 | Catan L4: Contender (2941012) | lessons 29 to 35, graduation email 5 | Catan: Level 4 (2124472) | remove `contender`, add `champion` |
+| 5 | Catan L5: Champion (2941015) | lessons 36 to 40, graduation email 6, course-complete email | Catan: Level 5 (2124482) | remove `champion`, add `complete` |
+
+- **Schedule:** Level 0 sends every day at 8 a.m. Indiana time. Levels 1 to 5 send Tuesday and Friday at 8 a.m. Indiana time. Lessons go out 1 day after the one before (Kit holds them for the next Tuesday or Friday); each graduation email goes 24 hours after the last lesson; the course-complete email goes 1 day after graduation email 6.
+- **Exclusions:** every level sequence skips `academy-catan-paused`, every higher level tag, and `academy-catan-complete`. That is what makes "Jump to the next level" stop the current level.
+- **Lesson 35** is in Catan L4 as a **draft**, so Kit skips it for now. After your recap, replace the placeholder line and publish that email.
+- **Link triggers** (Rules): Catan: skip to Homesteader (5662590), skip to Trader (5662591), skip to Strategist (5662592), skip to Contender (5662593), skip to Champion (5662594), league interest (5662595), pause lessons (5662449, plus the unnamed duplicate 5662463). Kit matches a link trigger by its exact URL, so the footer links fire them as long as the URL stays exactly the same. If you edit a footer link, re-pick the trigger in the link popover.
+- **Footer:** lessons 1 to 35 end with "Too easy? Jump to the next level · Busy stretch? Pause lessons for two weeks · Find a Catan event near you". Lessons 36 to 40 drop the skip link.
+- **Still interim:** C1 Catan: Start puts everyone in Level 0. Switching it to the four-path split on `catan_experience` is the next step when you want it.
+
 ### What to build now
 
 1. **Tags and form:** done (KIT-SETUP.md).
