@@ -11,6 +11,27 @@ export const KIT_NEWSLETTER_FORM = {
   emailField: 'email_address',
 };
 
+/**
+ * Newsletter offers: a free download delivered by its own Kit form. An article
+ * opts in with `offer: <key>` in its frontmatter, and its end-of-article signup
+ * then shows this copy and posts to this form. In Kit, each form uses double
+ * opt-in with the download as its incentive, tags subscribers with the key,
+ * and redirects to /newsletter/thanks/. While `action` is blank, the signup
+ * posts to the general newsletter form and previews show a reminder.
+ */
+export const KIT_OFFER_FORMS = {
+  'mixtape-j-card': {
+    // Kit form "Offer: Mixtape J-card" (10088125); rule 5664112 tags mixtape-j-card.
+    action: 'https://app.kit.com/forms/10088125/subscriptions',
+    heading: 'Get the free Mixtape J-card.',
+    lede: 'A printable, real-size cassette insert for the winning tape. Join The Ludarium newsletter and it arrives when you confirm your email.',
+    buttonLabel: 'Send me the free J-card',
+  },
+} satisfies Record<string, { action: string; heading: string; lede: string; buttonLabel: string }>;
+
+export type KitOfferKey = keyof typeof KIT_OFFER_FORMS;
+export const KIT_OFFER_KEYS = Object.keys(KIT_OFFER_FORMS) as [KitOfferKey, ...KitOfferKey[]];
+
 /** Public URL of the Lemon Squeezy store, for example https://theludarium.lemonsqueezy.com */
 export const STORE_URL = 'https://theludarium.lemonsqueezy.com';
 

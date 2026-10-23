@@ -3,6 +3,7 @@ import { glob } from 'astro/loaders';
 import { z } from 'astro/zod';
 import { CATEGORIES } from '@/lib/site';
 import { LEVEL_NAMES } from '@/lib/academy-levels';
+import { KIT_OFFER_KEYS } from '@/lib/config';
 
 const categoryNames = CATEGORIES.map((c) => c.name) as [string, ...string[]];
 
@@ -25,6 +26,9 @@ const articles = defineCollection({
         heroImage: image().optional(),
         heroAlt: z.string().optional(),
         draft: z.boolean().default(false),
+        // Optional newsletter offer (a key of KIT_OFFER_FORMS in src/lib/config.ts):
+        // swaps the end-of-article signup for that offer's copy and Kit form.
+        offer: z.enum(KIT_OFFER_KEYS).optional(),
       })
       .refine((data) => !data.heroImage || (data.heroAlt && data.heroAlt.length > 0), {
         message: 'heroAlt is required when heroImage is set.',

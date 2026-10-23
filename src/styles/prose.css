@@ -114,3 +114,36 @@
   border-bottom: 1px solid var(--color-border);
   text-align: left;
 }
+
+/* A band inside an article: one short line and one link button, for example
+   a playlist or a free tool. Write it as raw HTML in Markdown:
+   <aside class="prose-band"><p>...</p><a class="button button--ghost" href="...">...</a></aside>
+   Felt Green button, so Lamplight stays saved for the newsletter call to action. */
+.prose-article .prose-band {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-4);
+  margin-block: 2em;
+  padding: var(--space-5) var(--space-6);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-card);
+  background: var(--color-surface-alt);
+}
+
+.prose-article .prose-band p {
+  flex: 1 1 18rem;
+  margin: 0;
+  line-height: 1.5;
+}
+
+.prose-article .prose-band .button {
+  flex: none;
+  text-decoration: none;
+}
+
+.prose-article .prose-band .button svg {
+  width: 1.1em;
+  height: 1.1em;
+}
