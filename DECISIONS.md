@@ -254,6 +254,13 @@ A short log of choices made and why. Newest at the bottom.
 - **Structured data:** `Course` on the course page (free offer, one syllabus section per level), `LearningResource` on lesson pages.
 - **Launch with Level 0 only.** Everyone starts at Level 0 until later levels are written, whatever they pick on the form; the form still saves `catan_experience` so the level split can switch on later. Site copy promises one lesson at a time, not a starting level. Kit build order is in the "Launch first" section of `docs/academy/catan/KIT-SEQUENCE.md`.
 
+## 2026-10-23: The store opens with ten adventure PDFs
+
+- **Lemon Squeezy store "The Ludarium" is live** at `theludarium.lemonsqueezy.com` (live mode, not test mode). `STORE_URL` in `src/lib/config.ts` points there.
+- **Ten products, all $9.99, tax category eBook,** one per RPG Demo Library game, each with its front cover and the PDF from `theludarium/rpg-adventures` (`lemon-squeezy-upload/`, rebuilt from current source on 2026-10-23). Product names are the bare titles, so no game trademark sits in a product name; each description names its game and license, links the free demo, and carries the AI-assistance credit. Encore! (Skellies) is not in the store yet.
+- **Checkout links live in the library's `store.js`,** which switches every demo's buy button and the `/rpg-demo-library/` cards from "coming soon" to "Buy the PDF". `/store/` lists the ten PDFs (cover, game, pages, Buy, Play Act One free); covers are in `src/assets/rpg-pdfs/<demo slug>.jpg`.
+- **Levi's pre-launch calls:** all ten are playtested, so the "edited and playtested by Levi Wilson" line stands; The Glass Comet keeps the older Cypher System Open License for now; The Sleepless Mill drops "compatible with Pathfinder Second Edition" (cover, store, library card, demo) until Levi registers for Paizo's compatibility license. The ORC attribution naming Paizo's books stays, since the license requires it.
+
 ## 2026-10-21: Visiting-company tracker for the corporate events pages
 
 - **Why:** see which companies, especially around Indianapolis, read the corporate events pages, so Levi can reach their HR and L&D leaders. Levi's spec; built on `feature/visiting-companies`.

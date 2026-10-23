@@ -2,6 +2,10 @@
 
 Plan for the eleven paid PDFs behind the RPG Demo Library. Decided with Levi on 2026-10-20.
 
+## Status, 2026-10-23
+
+Ten books are on sale in the Lemon Squeezy store at $9.99 each (all but Encore!). See DECISIONS.md, 2026-10-23. The Sleepless Mill sells without the Pathfinder compatibility wording until the Paizo compatibility license is in place.
+
 ## Status, 2026-10-20
 
 All eleven books are written and built, in the private repo `theludarium/rpg-adventures` (manuscripts in Markdown, built to PDF with Paged.js and headless Chrome; `node tools/build.mjs books/<slug>`). None has been playtested or put on sale yet. Actual page counts, which ran longer than the estimates below because every scene has every outcome written out:

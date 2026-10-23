@@ -5,6 +5,15 @@ import { STORE_URL } from '@/lib/config';
 import { Image } from 'astro:assets';
 import { MALAPHOR_BOOK as book } from '@/lib/books';
 import cover from '@/assets/books/malaphors-cover.jpg';
+import { getDemos } from '@/lib/rpg-demo-library';
+import type { ImageMetadata } from 'astro';
+
+// Adventure PDFs: one per RPG Demo Library game whose store.js entry has a
+// Lemon Squeezy checkout link. Covers live in src/assets/rpg-pdfs/<demo slug>.jpg.
+const covers = import.meta.glob<{ default: ImageMetadata }>('/src/assets/rpg-pdfs/*.jpg', { eager: true });
+const pdfs = getDemos()
+  .filter((d) => d.product?.checkout)
+  .map((d) => ({ ...d, product: d.product!, cover: covers[`/src/assets/rpg-pdfs/${d.slug}.jpg`]?.default }));
 ---
 
 <BaseLayout
@@ -57,6 +66,42 @@ import cover from '@/assets/books/malaphors-cover.jpg';
       </ul>
     </div>
   </section>
+
+  {
+    pdfs.length > 0 && (
+      <section class="section store-pdfs" aria-labelledby="store-pdfs-title">
+        <div class="container">
+          <h2 id="store-pdfs-title">Adventure PDFs</h2>
+          <p class="store-pdfs__lede">
+            Each one is a complete solo adventure plus the rules you need to play it. Play Act One free first, then
+            keep going.
+          </p>
+          <ul class="store-pdfs__grid">
+            {pdfs.map((d) => (
+              <li class="card store-pdf">
+                {d.cover && (
+                  <Image src={d.cover} alt={`Cover of ${d.product.name}`} widths={[200, 400]} sizes="200px" />
+                )}
+                <div class="store-pdf__body">
+                  <p class="eyebrow">{d.product.game}</p>
+                  <h3>{d.product.name}</h3>
+                  <p class="store-pdf__meta">
+                    PDF{d.product.pages ? `, ${d.product.pages} pages` : ''}
+                  </p>
+                  <div class="store-pdf__actions">
+                    <a class="button" href={d.product.checkout} rel="noopener">
+                      Buy the PDF, {d.product.price}
+                    </a>
+                    <a href={d.href}>Play Act One free</a>
+                  </div>
+                </div>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </section>
+    )
+  }
 
   <section class="section store-books" aria-labelledby="store-books-title">
     <div class="container">
@@ -117,6 +162,70 @@ import cover from '@/assets/books/malaphors-cover.jpg';
   .store__points h2 {
     margin: 0 0 var(--space-2);
     font-size: var(--text-lg);
+  }
+
+  .store-pdfs {
+    padding-top: 0;
+  }
+
+  .store-pdfs h2 {
+    margin: 0 0 var(--space-2);
+    font-size: var(--text-2xl);
+  }
+
+  .store-pdfs__lede {
+    max-width: 40rem;
+    margin: 0 0 var(--space-6);
+    color: var(--color-text-muted);
+  }
+
+  .store-pdfs__grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 22rem), 1fr));
+    gap: var(--space-5);
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .store-pdf {
+    flex-direction: row;
+    align-items: flex-start;
+    gap: var(--space-5);
+  }
+
+  .store-pdf img {
+    flex: none;
+    width: 6.5rem;
+    height: auto;
+    border-radius: var(--radius-sm);
+    box-shadow: var(--shadow-md);
+  }
+
+  .store-pdf h3 {
+    margin: 0;
+    font-size: var(--text-lg);
+  }
+
+  .store-pdf .eyebrow {
+    margin: 0 0 var(--space-1);
+  }
+
+  .store-pdf__meta {
+    margin: var(--space-1) 0 var(--space-4);
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+
+  .store-pdf__actions {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--space-3) var(--space-4);
+  }
+
+  .store-pdf__actions a:not(.button) {
+    font-size: var(--text-sm);
   }
 
   .store-books {
