@@ -237,7 +237,7 @@ We made a printable one for game night. It is a real-size cassette insert with l
 - **[We're Not Wizards, Season 9, Episode 536](https://www.werenotwizards.co.uk/s9-ep536-i-made-you-a-mixtape-danny-micky-gary-ricky-and-luke/)**, an interview with both designers about the game and music nostalgia.
 - **[The official rules and how-to-play page](https://massiveasterisk.com/i-made-you-a-mixtape)** from Massive Asterisk, including a solo walkthrough from DiLisio.
 - **[The free Tabletop Simulator version](https://steamcommunity.com/sharedfiles/filedetails/?id=2897477042)**, if you want to try before you buy.
-- **The playlists:** [Spotify](https://open.spotify.com/playlist/7AbaN2hSruNxrOB1gEYSYp) and [YouTube](https://www.youtube.com/playlist?list=PLRKN7hPJmLu0).
+- **[Our free YouTube playlist](https://www.youtube.com/playlist?list=PLRKN7hPJmLu0)** of all 90 songs on the cards.
 
 ## Where to buy it in Indianapolis
 
@@ -261,7 +261,7 @@ It is an "I split, you choose" card drafting game with set collection. You split
 
 ### Are the songs on the cards real?
 
-Yes. All 90 cards are real songs, mostly from the '80s and '90s. The full list is above, and there are playlists on Spotify and YouTube.
+Yes. All 90 cards are real songs, mostly from the '80s and '90s. The full list is above, and you can play all 90 in our [free YouTube playlist](https://www.youtube.com/playlist?list=PLRKN7hPJmLu0).
 
 ### Who designed I Made You a Mixtape?
 
