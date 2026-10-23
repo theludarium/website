@@ -1,5 +1,5 @@
 ---
-title: "I Made You a Mixtape: The Board Game, Its Indy Designer, and a 90-Song Playlist"
+title: "I Made You a Mixtape: The Card Game and Its 90 Songs"
 description: "I Made You a Mixtape is a card game about building the perfect tape. Meet its designers, learn how it plays, and get the 90-song playlist and a free J-card."
 pubDate: 2026-10-23
 category: Game Design
