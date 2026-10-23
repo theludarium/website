@@ -27,7 +27,7 @@ Write copy that points toward this scale and warmth without overpromising what e
 - Digital products sold through the Lemon Squeezy store, such as the RPG Demo Library PDFs and future tools
 - The Ludarium Academy: courses in Game Design and Game Strategy for a specific set of games. Free lessons live on the site; a paid monthly membership that unlocks all courses runs on a hosted course platform
 - Affiliate links to games, publishers and platforms where they genuinely help the reader
-- Reader support (Patreon or similar) for people who want to back The Ludarium. Support is a thank-you, never a paywall on community content
+- No tip jar or Patreon (decided 2026-10-23). People who want to back The Ludarium do it by buying something real: a PDF, an Academy membership, and later a lounge membership
 
 **Phase 1, in parallel: corporate events**
 - A service for HR and L&D leaders: leadership development and team training taught through tabletop games
@@ -67,7 +67,7 @@ Success, in order:
 
 ### Ruled out
 
-Physical product or game sales, display advertising, and paywalled community content. Do not build toward any of these. (Paid Academy courses are allowed; they are structured lessons, not community. Community stays free.)
+Physical product or game sales, display advertising, donation or Patreon-style asks, and paywalled community content. Do not build toward any of these. (Paid Academy courses are allowed; they are structured lessons, not community. Community stays free.)
 
 ## Brand
 
@@ -121,7 +121,6 @@ Keep it simple. No CMS, database, or user accounts. Add a dependency only when i
 | `/about/` | About | Togethering, the mission, the story |
 | `/newsletter/` | Newsletter | Dedicated signup page |
 | `/store/` | Store | Short intro, then a link to the Lemon Squeezy store |
-| `/support/` | Support | How to support The Ludarium (Patreon or similar) |
 | `/search/` | Search | Site search (static index, such as Pagefind); search analytics later |
 | `/malaphors/` | Malaphors | Submission page printed in the malaphor field guide; Kit form tagged `malaphors` |
 | `/affiliate-disclosure/` | Disclosure | Plain-language affiliate disclosure |
@@ -160,7 +159,7 @@ Each article page needs: reading time, a table of contents for long pieces, rela
 
 ## Landing pages
 
-Every page whose job is one sign-up or inquiry (newsletter, lounge waitlists, Academy waitlist, corporate events, support) follows these rules. The home page hero follows the above-the-fold rules too.
+Every page whose job is one sign-up or inquiry (newsletter, lounge waitlists, Academy waitlist, corporate events) follows these rules. The home page hero follows the above-the-fold rules too.
 
 **Above the fold**
 1. **Headline:** stop the scroll and promise one clear outcome. Nothing more.

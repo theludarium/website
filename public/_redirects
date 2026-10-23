@@ -1,0 +1,4 @@
+# Cloudflare Pages redirects (https://developers.cloudflare.com/pages/configuration/redirects/)
+# Support page retired 2026-10-23: support comes through memberships, so send people to the lounge vision.
+/support /lounges/ 301
+/support/ /lounges/ 301
