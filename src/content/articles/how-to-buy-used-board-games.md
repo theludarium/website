@@ -4,6 +4,7 @@ description: "Learn how to buy used board games with confidence: where to look, 
 pubDate: 2026-10-23
 category: Game Shelf
 tags: ["buy used board games", "used board games", "secondhand board games", "board game completeness checklist"]
+offer: game-shelf
 draft: false
 ---
 

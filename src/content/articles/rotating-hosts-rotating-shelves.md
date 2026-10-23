@@ -5,6 +5,7 @@ description: "A rotating host schedule for game night spreads the work, moves th
 pubDate: 2026-10-23
 category: Game Night
 tags: ["rotating host game night", "game night hosting schedule", "who hosts board game night", "board game group rotation", "shared game shelf"]
+offer: game-shelf
 draft: false
 ---
 

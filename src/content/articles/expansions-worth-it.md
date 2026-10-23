@@ -5,6 +5,7 @@ description: "Are board game expansions worth it? Learn the four types, the one 
 pubDate: 2026-10-23
 category: Game Shelf
 tags: ["board game expansions", "are expansions worth it", "best board game expansions", "expansion vs new game"]
+offer: game-shelf
 draft: false
 ---
 

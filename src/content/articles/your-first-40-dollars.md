@@ -4,6 +4,7 @@ description: "Your first $40 should buy one anchor board game your group will pl
 pubDate: 2026-10-23
 category: Game Shelf
 tags: ["first board game to buy", "anchor board game", "best first board game", "how to choose a board game"]
+offer: game-shelf
 draft: false
 ---
 

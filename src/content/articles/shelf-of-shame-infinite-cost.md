@@ -5,6 +5,7 @@ description: "Your shelf of shame, the unplayed board games, costs more than any
 pubDate: 2026-10-23
 category: Game Shelf
 tags: ["shelf of shame", "unplayed board games", "board games never played", "board game backlog"]
+offer: game-shelf
 draft: false
 ---
 

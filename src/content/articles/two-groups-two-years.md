@@ -5,6 +5,7 @@ description: "A shared board game library case study: two four-person groups spe
 pubDate: 2026-10-23
 category: Game Shelf
 tags: ["shared board game library", "board game group collection", "one copy rule", "board game budget"]
+offer: game-shelf
 draft: false
 ---
 

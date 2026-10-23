@@ -5,6 +5,7 @@ description: "A group shelf pools your friends' board game collections into one 
 pubDate: 2026-10-23
 category: Game Shelf
 tags: ["shared board game library", "board game group collection tracker", "track friends board games", "group board game inventory"]
+offer: game-shelf
 draft: true
 ---
 

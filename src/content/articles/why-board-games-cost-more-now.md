@@ -5,6 +5,7 @@ description: "Why do board games cost more now? Tariffs on components made in Ch
 pubDate: 2026-10-23
 category: Game Shelf
 tags: ["why board games cost more", "board game prices", "board game tariffs", "board games getting expensive"]
+offer: game-shelf
 draft: false
 ---
 

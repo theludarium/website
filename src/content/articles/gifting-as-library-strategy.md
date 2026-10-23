@@ -5,6 +5,7 @@ description: "Board game expansions make the best gifts for a play group: a $25 
 pubDate: 2026-10-23
 category: Game Shelf
 tags: ["board game expansion gifts", "board game gift ideas for friends", "group wishlist board games", "one copy rule"]
+offer: game-shelf
 draft: false
 ---
 

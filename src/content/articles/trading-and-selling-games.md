@@ -4,6 +4,7 @@ description: "Selling board games you no longer play? Learn how to decide what g
 pubDate: 2026-10-23
 category: Game Shelf
 tags: ["selling board games", "trade board games", "where to sell board games", "board game math trade"]
+offer: game-shelf
 draft: false
 ---
 

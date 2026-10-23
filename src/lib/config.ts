@@ -27,6 +27,14 @@ export const KIT_OFFER_FORMS = {
     lede: 'A printable, real-size cassette insert for the winning tape. Join The Ludarium newsletter and it arrives when you confirm your email.',
     buttonLabel: 'Send me the free J-card',
   },
+  'game-shelf': {
+    // Kit form "Offer: Game Shelf series" (10089038). Its rule tags game-shelf and
+    // game-shelf-shared-shelf (which starts the six chained sequences) and adds Welcome.
+    action: 'https://app.kit.com/forms/10089038/subscriptions',
+    heading: 'Get the whole series by email.',
+    lede: 'All six series, two short emails a week, each one a quick read that links to the full article. Join The Ludarium newsletter and the first one arrives tomorrow morning.',
+    buttonLabel: 'Send me the series',
+  },
 } satisfies Record<string, { action: string; heading: string; lede: string; buttonLabel: string }>;
 
 export type KitOfferKey = keyof typeof KIT_OFFER_FORMS;
