@@ -29,6 +29,9 @@ const articles = defineCollection({
         // Optional newsletter offer (a key of KIT_OFFER_FORMS in src/lib/config.ts):
         // swaps the end-of-article signup for that offer's copy and Kit form.
         offer: z.enum(KIT_OFFER_KEYS).optional(),
+        // Optional shorter title for the browser tab and search results (the site
+        // name is appended, so aim for 55 characters or fewer). The H1 stays `title`.
+        seoTitle: z.string().max(60).optional(),
       })
       .refine((data) => !data.heroImage || (data.heroAlt && data.heroAlt.length > 0), {
         message: 'heroAlt is required when heroImage is set.',
