@@ -12,7 +12,7 @@ export const KIT_NEWSLETTER_FORM = {
 };
 
 /** Public URL of the Lemon Squeezy store, for example https://theludarium.lemonsqueezy.com */
-export const STORE_URL = '';
+export const STORE_URL = 'https://theludarium.lemonsqueezy.com';
 
 /** Where people can reach The Ludarium, including privacy requests. */
 export const CONTACT_EMAIL = 'hello@theludarium.com';
