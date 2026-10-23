@@ -106,7 +106,6 @@ export const FOOTER_NAV: { title: string; links: NavLink[] }[] = [
       { href: '/lounges/', label: 'The lounges' },
       { href: '/lounges/indianapolis/', label: 'Indianapolis' },
       { href: '/corporate-events/', label: 'Corporate events' },
-      { href: '/support/', label: 'Support us' },
     ],
   },
   {

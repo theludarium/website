@@ -261,6 +261,12 @@ A short log of choices made and why. Newest at the bottom.
 - **Checkout links live in the library's `store.js`,** which switches every demo's buy button and the `/rpg-demo-library/` cards from "coming soon" to "Buy the PDF". `/store/` lists the ten PDFs (cover, game, pages, Buy, Play Act One free); covers are in `src/assets/rpg-pdfs/<demo slug>.jpg`.
 - **Levi's pre-launch calls:** all ten are playtested, so the "edited and playtested by Levi Wilson" line stands; The Glass Comet keeps the older Cypher System Open License for now; The Sleepless Mill drops "compatible with Pathfinder Second Edition" (cover, store, library card, demo) until Levi registers for Paizo's compatibility license. The ORC attribution naming Paizo's books stays, since the license requires it.
 
+## 2026-10-23: No "Support us"; support comes through memberships
+
+- **Removed "Support us" from the header and footer** and deleted `/support/`, which was only a "coming soon" page. Levi's call: a tip jar or Patreon feels like asking for money; he would rather offer memberships people pay for because they get something.
+- **`/support/` redirects to `/lounges/`** (301, `public/_redirects`, the site's first Cloudflare Pages redirect), so old links land on the membership vision.
+- **The plan changes:** reader support (Patreon or similar) is off the Phase 1 list and "donation or Patreon-style asks" joins Ruled out in `CLAUDE.md`. People who want to back The Ludarium buy a PDF now, and later an Academy or lounge membership.
+
 ## 2026-10-21: Visiting-company tracker for the corporate events pages
 
 - **Why:** see which companies, especially around Indianapolis, read the corporate events pages, so Levi can reach their HR and L&D leaders. Levi's spec; built on `feature/visiting-companies`.
