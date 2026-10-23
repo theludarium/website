@@ -266,3 +266,10 @@ A short log of choices made and why. Newest at the bottom.
 - **Removed "Support us" from the header and footer** and deleted `/support/`, which was only a "coming soon" page. Levi's call: a tip jar or Patreon feels like asking for money; he would rather offer memberships people pay for because they get something.
 - **`/support/` redirects to `/lounges/`** (301, `public/_redirects`, the site's first Cloudflare Pages redirect), so old links land on the membership vision.
 - **The plan changes:** reader support (Patreon or similar) is off the Phase 1 list and "donation or Patreon-style asks" joins Ruled out in `CLAUDE.md`. People who want to back The Ludarium buy a PDF now, and later an Academy or lounge membership.
+
+## 2026-10-23: I Made You a Mixtape article and the J-card offer
+
+- **New article, `i-made-you-a-mixtape-board-game`, in Game Design,** added as written and kept `draft: true` until Levi approves. Drafts already render on branch previews (noindex), so no special build is needed. Levi's "At our table" section is a placeholder comment.
+- **The free Mixtape J-card is a Kit incentive** (Levi's choice, option A): the PDF lives in Kit, not in this repo, and Kit delivers it when the subscriber confirms. Fully gated.
+- **One Kit form per offer.** `KIT_OFFER_FORMS` in `src/lib/config.ts` holds each offer's Kit form, heading, lede, and button label. An article opts in with `offer: <key>` in its frontmatter (validated by the schema), and its end-of-article signup swaps to that offer. Same no-JavaScript `NewsletterForm`, now with a `formAction` prop. Until the J-card form's action URL is filled in, the signup posts to the general newsletter form and previews show a reminder.
+- **No `/mixtape-j-card/` landing page for now** (Levi's call); the article sells the offer.

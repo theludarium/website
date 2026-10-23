@@ -2,7 +2,8 @@
 // Email signup. Posts straight to Kit (no JavaScript, no third-party script);
 // Kit then redirects to /newsletter/thanks/, set in the Kit form's settings.
 // Until the Kit form is set in src/lib/config.ts, it falls back to the
-// /newsletter/ page so nothing breaks.
+// /newsletter/ page so nothing breaks. Pass `formAction` to post to a
+// different Kit form (a newsletter offer); a blank one uses the general form.
 import { KIT_NEWSLETTER_FORM } from '@/lib/config';
 
 interface Props {
@@ -10,6 +11,7 @@ interface Props {
   note?: string;
   tone?: 'light' | 'dark';
   id?: string;
+  formAction?: string;
 }
 
 const {
@@ -17,10 +19,12 @@ const {
   note = 'Free. No spam. Unsubscribe anytime.',
   tone = 'light',
   id = 'newsletter',
+  formAction,
 } = Astro.props;
 
-const configured = Boolean(KIT_NEWSLETTER_FORM.action);
-const action = configured ? KIT_NEWSLETTER_FORM.action : '/newsletter/';
+const kitAction = formAction || KIT_NEWSLETTER_FORM.action;
+const configured = Boolean(kitAction);
+const action = configured ? kitAction : '/newsletter/';
 const method = configured ? 'post' : 'get';
 const emailField = KIT_NEWSLETTER_FORM.emailField;
 ---
