@@ -1,10 +1,10 @@
 ---
 title: "Friendship After Retirement: Why Men Lose Friends at 65"
 description: "Friendship after retirement collapses for many men, and research says it matters for health. Why it happens, and how a standing game rebuilds the circle."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Togethering
 tags: ["friendship after retirement", "retired men loneliness", "how to make friends after retirement", "retirement and social isolation", "men's friendships aging", "hobbies for retired men", "Play and health"]
-draft: true
+draft: false
 ---
 For a lot of men, the last day of work is also the last day of their social life, and they don't find out for about a year. Friendship after retirement is not a topic most people plan for. They plan the finances, maybe the travel. They do not plan for the fact that the twelve people they spoke to every day are about to disappear at once, and that nothing will replace them unless they build it.
 
@@ -24,7 +24,7 @@ A few other things pile on:
 - **Men rarely initiate.** Asking another man to spend time together, without an activity as cover, feels strange to many men who grew up without models for it.
 - **Mobility and loss.** Friends move to be near grandchildren. Friends die. Each loss shrinks the circle, and nothing refills it.
 
-Friendship researchers broadly agree that close ties decay without regular contact, and faster than most people expect. Retirement cuts most men's contact frequency from daily to near zero overnight. <!-- EDITOR: could not reach a Dunbar primary source for the weekly/monthly figure; softened -->
+Close ties fade without regular contact, and fast. Robin Dunbar, the Oxford psychologist behind "Dunbar's number," [notes](https://pmc.ncbi.nlm.nih.gov/articles/PMC7482201/) that friendships lose emotional closeness within a few months if they are not kept up, while family ties hold up far better. Retirement cuts most men's contact with work friends from daily to almost none overnight.
 
 
 
@@ -58,7 +58,7 @@ Look at the features side by side.
 | Mild competition and status | Mild competition and status |
 | A schedule you didn't have to make | A schedule you set once |
 
-The Blue Zones research by Dan Buettner [describes](https://danbuettner.com/2022/03/sardinias-blue-zone-lessons/) exactly this pattern in Sardinia, where elders gather in the street each afternoon to laugh with and at each other, and a Sardinian centenarian researcher [describes](https://media.blacktomato.com/2023/11/The-Telegraph-13.08.22-The-secret-of-a-long-life-Ask-a-Sardinian.pdf) the old people in his village meeting in the square after lunch for a chat and a game of cards. They did not set out to maintain their social health. They set out to play cards. The health came along. We cover this more in [the Blue Zones have card games](/articles/blue-zones-social-connection-games/).
+The Blue Zones research by Dan Buettner [describes](https://danbuettner.com/2022/03/sardinias-blue-zone-lessons/) exactly this pattern in Sardinia, where men gather in the street each afternoon to laugh with and at each other, and a University of Cagliari researcher who studies centenarians [told CNN](https://www.cnn.com/2018/02/06/health/sardinia-centenarian-village-tiana/index.html) that older people in his village meet in the square after lunch for a chat and a game of cards. They did not set out to maintain their social health. They set out to play cards. The health came along. We cover this more in [the Blue Zones have card games](/articles/blue-zones-social-connection-games/).
 
 ## How do you build a game group after retirement?
 
@@ -110,4 +110,5 @@ The Ludarium is building a place in Indianapolis where a standing game is easy t
 - Good genes are nice, but joy is better, Harvard Gazette: https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/
 - Suicide Mortality in the United States, 2002–2022, NCHS Data Brief 509: https://www.cdc.gov/nchs/products/databriefs/db509.htm
 - Sardinia's Blue Zone Lessons, Dan Buettner: https://danbuettner.com/2022/03/sardinias-blue-zone-lessons/
-- The secret of a long life? Ask a Sardinian, The Telegraph (reprint): https://media.blacktomato.com/2023/11/The-Telegraph-13.08.22-The-secret-of-a-long-life-Ask-a-Sardinian.pdf
+- Socializing is helping these Sardinians live longer, CNN: https://www.cnn.com/2018/02/06/health/sardinia-centenarian-village-tiana/index.html
+- Dunbar, Structural and cognitive solutions to prevent group fragmentation in humans and nonhuman primates, Proceedings of the Royal Society A (2020): https://pmc.ncbi.nlm.nih.gov/articles/PMC7482201/

@@ -1,10 +1,10 @@
 ---
 title: "Is Gloomhaven Worth It? An Honest Guide for Busy Adults"
 description: "Is Gloomhaven worth it if you have a job, kids, and three free evenings a month? A plain guide to the time, money, group you need, and the alternatives."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Game Guides
 tags: ["is Gloomhaven worth it", "Gloomhaven review", "Gloomhaven vs Jaws of the Lion", "Gloomhaven time commitment", "Gloomhaven for beginners", "Frosthaven", "Cooperative and campaign games"]
-draft: true
+draft: false
 ---
 Is Gloomhaven worth it? For most busy adults, the answer is: the smaller version is, and the big one usually is not. Gloomhaven is a brilliant game that asks for a hundred-plus hours and a group that shows up every time. Jaws of the Lion gives you most of the experience in a quarter of the box and a fraction of the commitment.
 
@@ -24,9 +24,9 @@ Characters retire when they complete a personal goal, and a retirement opens a s
 
 This is the question that matters for busy adults, so here are the numbers, hedged.
 
-- **Scenarios:** The base campaign has [95 scenarios](https://en.wikipedia.org/wiki/Gloomhaven), though you will not play all of them on one run.
+- **Scenarios:** The first edition has [95 scenarios](https://en.wikipedia.org/wiki/Gloomhaven) and the second edition lists [101](https://cephalofair.com/products/gloomhaven-board-game-2nd-edition), though you will not play all of them on one run.
 - **Per scenario:** Two to three hours including setup and teardown, in our experience. Faster once you are practiced.
-- **A full campaign:** Well over a hundred hours. The publisher's stated time is [90 to 115 minutes per scenario](https://en.wikipedia.org/wiki/Gloomhaven), and a run through the campaign takes dozens of scenarios.
+- **A full campaign:** Well over a hundred hours. The publisher lists [one to two hours or more per scenario](https://cephalofair.com/products/gloomhaven-board-game-2nd-edition), and a run through the campaign takes dozens of scenarios.
 - **Setup:** Fifteen to thirty minutes per scenario for the tiles, monsters, and tokens, unless you buy or build organizers.
 
 Put that against a real calendar. If your group meets every other week for three hours, that is a two-year campaign. Most groups do not finish. The players who love Gloomhaven most are the ones who accepted that going in.
@@ -55,14 +55,14 @@ If that describes your group, Gloomhaven may become the best thing you play toge
 | | Gloomhaven | Jaws of the Lion | Frosthaven |
 |---|---|---|---|
 | Players | 1–4 | 1–4 | 1–4 |
-| Scenarios (approx.) | ~95 | 25 | ~140 |
+| Scenarios (approx.) | 95 to 101 | 25 | ~138 |
 | Campaign length | 100+ hrs | 30–50 hrs | Longer than Gloomhaven |
 | Teach | Steep | Tutorial-driven; first scenarios teach the rules | Steep, assumes experience |
 | Setup | Modular tiles, long | Scenario book is the map; fast | Modular, plus town building |
 | Price tier | High | Low-mid | Highest |
 | Best for | Committed groups | Busy adults, first-timers | Veterans who finished Gloomhaven |
 
-Figures are approximate and vary by edition; the [Gloomhaven and Frosthaven scenario counts](https://en.wikipedia.org/wiki/Gloomhaven) are the published ones, the hour estimates are ours.
+Figures are approximate and vary by edition; the [Gloomhaven](https://cephalofair.com/products/gloomhaven-board-game-2nd-edition) and [Frosthaven](https://cephalofair.com/products/frosthaven-bundles) scenario counts are the publisher's, the hour estimates are ours.
 
 Jaws of the Lion is the recommendation for almost everyone reading an article titled "is Gloomhaven worth it." It uses the same combat system. It teaches the rules across the first five scenarios instead of in a manual. The map is printed in a spiral-bound book, so setup takes five minutes. You can finish it in a few months of casual play.
 
@@ -72,10 +72,10 @@ If you finish Jaws of the Lion and want more, buy Gloomhaven with confidence. Yo
 
 Plenty of games scratch the campaign itch with less weight.
 
-- **Pandemic Legacy: Season 1** is twelve to twenty-four sessions of forty-five minutes each and tells a tighter story. We explain how it works in our [legacy games explainer](/articles/legacy-board-games-explained/).
+- **Pandemic Legacy: Season 1** is twelve to twenty-four sessions of about an hour each and tells a tighter story. We explain how it works in our [legacy games explainer](/articles/legacy-board-games-explained/).
 - **Sleeping Gods** is an open-world exploration campaign with lighter combat and a strong atlas-based map.
 - **Forgotten Waters** is a pirate campaign with an app that narrates, and it is funny.
-- **Oathsworn** and **Too Many Bones** are heavier but shorter per campaign.
+- **Oathsworn** is heavier but has a shorter campaign, and **Too Many Bones** plays as one-off adventures.
 
 And if your group's real problem is attendance rather than weight, read our piece on [keeping a campaign going when someone misses a session](/articles/campaign-game-missed-session/). The game is rarely the issue. The calendar is.
 
@@ -107,10 +107,10 @@ Not as a first modern board game. Play a few lighter co-ops first, then Jaws of 
 
 ## More campaign-friendly ideas
 
-The game is the reason. The people are the point. Subscribe to the Ludarium newsletter for new articles on co-ops, campaigns, and keeping a group together through both. Our Indianapolis lounge will have campaign tables you can leave set up, which solves the biggest Gloomhaven problem of all.
+The game is the reason. The people are the point. Subscribe to the Ludarium newsletter for new articles on co-ops, campaigns, and keeping a group together through both, plus news of the Indianapolis lounge as it takes shape.
 
 ## Sources
 
 - Wikipedia, Gloomhaven: https://en.wikipedia.org/wiki/Gloomhaven
 - Cephalofair Games store, Gloomhaven Second Edition: https://cephalofair.com/collections/all
-- Wikipedia, Frosthaven: https://en.wikipedia.org/wiki/Frosthaven
+- Cephalofair, Frosthaven: https://cephalofair.com/products/frosthaven-bundles

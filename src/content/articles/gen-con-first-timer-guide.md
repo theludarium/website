@@ -1,10 +1,10 @@
 ---
 title: "Gen Con for First-Timers: What to Know Before You Go"
 description: "Going to Gen Con for the first time? Dates, badges, event tickets, generic tickets, and the handful of decisions that make or break your first four days."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Game Culture
 tags: ["Gen Con first time", "Gen Con guide", "Gen Con badges explained", "Gen Con event tickets", "Gen Con Indianapolis", "what is Gen Con", "Indianapolis"]
-draft: true
+draft: false
 ---
 If this is your first time at Gen Con, the most useful thing to know is that it is two conventions at once. One is a four-day schedule of ticketed games you plan months in advance. The other is a city-sized hallway where you wander, demo, and bump into people. First-timers who understand that split have a good weekend. First-timers who treat it as one or the other burn out or feel they missed it. This guide covers the dates, the badge system, the event tickets, and the few decisions that matter most.
 
@@ -25,7 +25,7 @@ A badge gets you into the convention. It is the first thing you buy, and in a so
 - **Trade Day.** A Wednesday badge for industry and education professionals, not for first-timers.
 - **Kids.** Children 10 and under attend on a free Child Wristband registered at purchase; children 11 and older need a badge. A wristband covers kid activities; joining non-kids events requires a badge. ([Badge information](https://www.gencon.com/gen-con-indy/your_badge))
 
-For 2026, badge prices were [$164 for the 4-Day, $83 for Thursday or Friday, $112 for Saturday, and $41 for Sunday](https://gamingtrend.com/news/gen-con-announces-2026-registration-and-badge-prices/), before Marion County's 10 percent admissions tax, which gencon.com notes applies to every badge type. Prices for 2027 had not been posted when we checked. <!-- EDITOR: update when 2027 prices are announced. -->
+For 2026, badge prices were [$164 for the 4-Day, $83 for Thursday or Friday, $112 for Saturday, and $41 for Sunday](https://gamingtrend.com/news/gen-con-announces-2026-registration-and-badge-prices/), before Marion County's 10 percent admissions tax, which gencon.com notes applies to every badge type. Prices for 2027 had not been posted when we checked.
 
 Badges went on sale in early February for the 2026 show, with hotel housing opening about two weeks later and event registration in mid-May. The sequence matters: badge, then hotel, then events.
 
@@ -68,7 +68,7 @@ A few specifics for the first visit:
 The same five things every year.
 
 - **Overbooking.** Back-to-back events in buildings fifteen minutes apart, with no lunch. See our [Gen Con survival guide](/articles/gen-con-survival-guide/) for the physical side.
-- **Skipping the hotel block.** Downtown rooms go in minutes when housing opens. Staying far out means driving in and parking, which is its own event.
+- **Skipping the hotel block.** Downtown rooms in the housing block go within hours when housing opens. Staying far out means driving in and parking, which is its own event.
 - **Buying on day one.** The thing you want on Thursday will still be there Sunday, often cheaper, and you will not have carried it for three days.
 - **Not talking to anyone.** The room is full of people who want to teach you their favorite game. Let them.
 - **Treating Sunday as a throwaway.** It is the quietest day, the best for a last demo, and the cheapest badge.
@@ -99,4 +99,4 @@ Yes. Children 10 and under get a free Child Wristband; 11 and older need a badge
 
 Plan a little, wander a lot, and say yes when someone offers to teach you a game. The game is the reason. The people are the point.
 
-For a packing list, registration-day tips, and what to do in Indianapolis the rest of the year, subscribe to The Ludarium newsletter. Short emails, and a seat at a table when our lounge opens downtown.
+For a packing list, registration-day tips, and what to do in Indianapolis the rest of the year, subscribe to The Ludarium newsletter. Short emails, plus news of our Indianapolis lounge as it takes shape.

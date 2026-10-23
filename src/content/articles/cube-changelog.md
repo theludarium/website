@@ -1,14 +1,14 @@
 ---
 title: "Keeping a Cube Changelog (and Why Drafters Love It)"
 description: "A cube changelog turns every swap into a record drafters can read and argue with. The entry format, what to log, and how to use CubeCobra's blog for it."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Magic & Cube
 tags: ["cube changelog", "cube change log", "CubeCobra blog", "cube update log", "tracking cube changes", "cube swap record", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 A cube changelog is a dated record of every card that entered or left the list, with one line on why. It is the least glamorous part of a cube primer and the one regulars read most. Owners think of it as bookkeeping. Drafters read it as news: what is new to look for, what pet card is gone, and what the owner is trying to fix.
 
-This article covers the entry format we use, what belongs in an entry and what does not, how CubeCobra handles it for you, and why a visible changelog changes how a group talks about its cube. The mechanics of deciding what to change are a separate question, covered in [how to update a cube](/articles/how-to-update-a-cube/). This is about writing the change down.
+This article covers the entry format we recommend, what belongs in an entry and what does not, how CubeCobra handles it for you, and why a visible changelog changes how a group talks about its cube. The mechanics of deciding what to change are a separate question, covered in [how to update a cube](/articles/how-to-update-a-cube/). This is about writing the change down.
 
 ## What does a good changelog entry contain?
 
@@ -22,9 +22,9 @@ Five things, in a fixed order, so the entries can be skimmed.
 
 An entry in that format is two to four lines. A batch of ten swaps after a set release is a short list with a paragraph above it. Here is the shape:
 
-> **14 October 2026.** Set update, six swaps. Goal: add two-drops to red and white without raising the power level.
-> - OUT Goblin Guide, IN <!-- EDITOR: card --> (red). Guide was the best one-drop and the worst topdeck; trying something with a late-game mode.
-> - OUT Seal of Cleansing, IN <!-- EDITOR: card --> (white). Artifact hate was under-used; the slot becomes a creature.
+> **14 October 2026.** Update, six swaps, two shown. Goal: add two-drops to red and white without raising the power level.
+> - OUT Goblin Guide, IN Bloodthirsty Adversary (red). Guide was the best one-drop and the worst topdeck; trying something with a late-game mode.
+> - OUT Seal of Cleansing, IN Adanto Vanguard (white). Artifact hate was under-used; the slot becomes a creature.
 > Watch: red aggro's win rate through November. Cube stays at 540.
 
 ## What belongs in the reason, and what does not?
@@ -58,9 +58,9 @@ Our own group's history bears this out; the change log was one of the things peo
 
 ## How does CubeCobra handle the changelog?
 
-CubeCobra records every edit to a cube as a blog post, automatically, with the cards added and removed listed. You can write a title and a body on each post before publishing, and that is where the reason goes. The automatic diff handles items one, two, and five from the list above; you supply three and four. <!-- EDITOR: confirm against the live CubeCobra interface before publishing -->
+CubeCobra records every saved edit in the cube's changelog, automatically, with the date and the cards added and removed. If you tick Create Blog Post when you save, a title and a body field appear, and that is where the reason goes. The automatic record handles items one and two; you supply three, four, and five.
 
-Two habits make this work well. First, batch your edits so one post covers one decision, instead of ten posts for ten single swaps made over an afternoon. Second, write the body before you hit publish, because an empty post with a card diff is a changelog nobody can argue with, which sounds like a feature and is not.
+Two habits make this work well. First, batch your edits so one post covers one decision, instead of ten posts for ten single swaps made over an afternoon. Second, write the body before you hit Save Changes, because an empty post with a card diff is a changelog nobody can argue with, which sounds like a feature and is not.
 
 If your list is not on CubeCobra, a pinned Discord thread or a dated section at the bottom of a shared document does the same job with more typing. The format above works in any of them.
 
@@ -97,7 +97,7 @@ The date, the exact cards in and out, one sentence of reason, an optional note o
 
 ### Does CubeCobra keep a changelog automatically?
 
-Yes. Each edit to a cube becomes a blog post listing the cards added and removed; you add the title and the reasoning before publishing. <!-- EDITOR: confirm against the live site -->
+Yes. Every saved edit gets a changelog entry listing the cards added and removed. Tick Create Blog Post when you save to add a title and your reasoning.
 
 ### How often should a cube changelog be updated?
 
@@ -111,4 +111,4 @@ No. It is a record of decisions and reasons. Prices change and ratings start arg
 
 A cube with a changelog is a cube a group can talk about, because every choice has a date and a reason and a place to disagree. That turns a list into a shared thing. The game is the reason. The people are the point.
 
-This series on cube primers continues; subscribe to The Ludarium newsletter to follow it. Indianapolis drafters can read our log and argue with it in person at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+This series on cube primers continues; subscribe to The Ludarium newsletter to follow it, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, sets its first night as part of The Ludarium.

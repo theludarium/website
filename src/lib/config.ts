@@ -34,7 +34,7 @@ export const TURNSTILE_SITE_KEY = '';
  * Kit waitlist form for each lounge city, keyed by city slug (see src/lib/lounges.ts).
  * Copy `action` from the Kit form's HTML embed. In Kit, add a rule so this form
  * tags subscribers with the city's tag (for example lounge-indianapolis), and create
- * custom fields with these keys: zip_code, plays, visit_frequency.
+ * custom fields with these keys: last_name, zip_code, plays, visit_frequency.
  */
 export const KIT_WAITLIST_FORMS: Record<string, { action: string }> = {
   indianapolis: { action: 'https://app.kit.com/forms/10079113/subscriptions' },
@@ -51,7 +51,7 @@ export const GA_MEASUREMENT_ID = 'G-38F1N7Q117';
  * Kit form for malaphor submissions (the /malaphors/ page, printed in the book).
  * Copy `action` from the Kit form's HTML embed. In Kit, add a rule so this form
  * tags subscribers `malaphors`, and create custom fields with these keys:
- * malaphor, parents, context.
+ * last_name, malaphor, parents, context.
  */
 export const KIT_MALAPHOR_FORM = { action: 'https://app.kit.com/forms/10080181/subscriptions' };
 
@@ -60,3 +60,13 @@ export const MALAPHOR_BOOK_URL = 'https://www.amazon.com/dp/B0HNTSXVS6';
 
 /** The same book's Kindle edition on Amazon. */
 export const MALAPHOR_KINDLE_URL = 'https://www.amazon.com/dp/B0HNTT7KKV';
+
+/**
+ * Kit form for each Academy course, keyed by course slug (see src/lib/academy.ts).
+ * Copy `action` from the Kit form's HTML embed. Setup steps, tags, and custom
+ * fields (catan_experience, state) are in docs/academy/catan/KIT-SETUP.md.
+ * While blank, the form shows a preview note and does not submit to Kit.
+ */
+export const KIT_ACADEMY_FORMS: Record<string, { action: string }> = {
+  catan: { action: 'https://app.kit.com/forms/10083674/subscriptions' },
+};

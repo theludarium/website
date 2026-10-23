@@ -1,12 +1,12 @@
 ---
 title: "Social Fitness: Train Your Relationships Like a Muscle"
 description: "Social fitness means training your relationships like a muscle, not just meaning well. What the Harvard study found, and how a weekly game night does the work."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Togethering
 tags: ["social fitness", "what is social fitness", "Harvard Study of Adult Development", "how to maintain friendships", "social health", "relationship habits", "Play and health"]
-draft: true
+draft: false
 ---
-Social fitness is a simple idea with an uncomfortable implication. Relationships, like muscles, weaken when you stop using them, and most adults have been skipping the workout for years. The term comes from Robert Waldinger and Marc Schulz, the current directors of the Harvard Study of Adult Development, who used it to describe what their 85 years of data kept showing: the people who aged best were the ones who kept actively tending their relationships, not the ones who happened to have good ones at 30.
+Social fitness is a simple idea with an uncomfortable implication. Relationships, like muscles, weaken when you stop using them, and most adults have been skipping the workout for years. The term comes from Robert Waldinger and Marc Schulz, the director and associate director of the Harvard Study of Adult Development, who used it to describe what more than 85 years of data kept showing: the people who aged best were the ones who kept actively tending their relationships, not the ones who happened to have good ones at 30.
 
 This article explains what social fitness means, what the research suggests about why it matters, and why a weekly game night is one of the best training programs available. It is not a replacement for a therapist or a doctor. It is a way of thinking about friendship that makes it easier to keep.
 
@@ -16,7 +16,7 @@ The [Harvard Study of Adult Development](https://news.harvard.edu/gazette/story/
 
 Its headline finding, which Waldinger has repeated in talks and in the book The Good Life, is that satisfaction in close relationships in midlife best predicted who would be healthy and happy at 80, a better predictor than cholesterol or blood pressure at 50.
 
-The second finding is the one that leads to social fitness. Relationships don't maintain themselves. The study's participants who stayed connected did so through repeated small acts: calls, visits, standing plans. The ones who drifted did not usually have a falling-out. They just stopped. Waldinger and Schulz coined "social fitness" to make the point that connection is a practice, not a possession.
+The second finding is the one that leads to social fitness. Relationships don't maintain themselves. Waldinger puts it plainly: "Our social life is a living system, and it needs maintenance too." Waldinger and Schulz use the term "social fitness" to make the point that connection is a practice, not a possession.
 
 That framing changes what you do about it. You don't wait to feel like calling a friend any more than you wait to feel like going to the gym.
 
@@ -40,7 +40,7 @@ Because adult life removes every structure that made it automatic.
 
 School put you in a room with the same people every day. Early jobs and apartments did a version of the same thing. By your mid-thirties, most of those structures are gone. People move, have kids, change jobs. Friendship goes from a default to a project, and most adults never pick up the project.
 
-Sociologists who study friendship point to a few conditions under which it forms: proximity, repeated unplanned interaction, and a setting that encourages people to let their guard down. Adult life has almost none of those by default. If you want them, you have to build them. <!-- EDITOR: could not reach a primary source for the Rebecca Adams attribution; softened to unattributed -->
+Rebecca G. Adams, a sociologist at the University of North Carolina at Greensboro, [told The New York Times](https://www.nytimes.com/2012/07/15/fashion/the-challenge-of-making-friends-as-an-adult.html) in 2012 that sociologists since the 1950s have seen three conditions as key to close friendship: proximity, repeated unplanned interaction, and a setting that encourages people to let their guard down. Adult life has almost none of those by default. If you want them, you have to build them.
 
 Which is why the fitness metaphor is useful. Nobody expects to stay strong without a routine. Social fitness says the same about friendship: pick a routine, show up, repeat.
 
@@ -58,7 +58,7 @@ Look at what a good training program needs and compare it to a standing game nig
 
 The last row is the one most social advice misses. "Call a friend" is good advice that almost nobody follows, because an open-ended call has no structure. A game supplies the structure. You do not need something to talk about. You need to decide whether to take the blue tiles.
 
-Games also give repeated unplanned interaction, which friendship researchers treat as the engine of the whole thing. Over six months of Thursdays, you learn how a person handles losing, what makes them laugh, when they're tired, when something is wrong. That is intimacy built sideways, which is how most adult men in particular are willing to build it. The piece on [how men make friends over board games](/articles/how-men-make-friends-board-games/) goes further on that.
+Games also give repeated interaction, plus the unplanned talk around it, which friendship researchers treat as the engine of the whole thing. Over six months of Thursdays, you learn how a person handles losing, what makes them laugh, when they're tired, when something is wrong. That is intimacy built sideways, which is how most adult men in particular are willing to build it. The piece on [how men make friends over board games](/articles/how-men-make-friends-board-games/) goes further on that.
 
 ## What does a social fitness routine look like in practice?
 
@@ -67,7 +67,7 @@ Keep it as plain as a workout plan.
 1. **One standing weekly commitment with the same people.** This is the main lift. A game night, a run club, a dinner. Games have the lowest barrier and the most built-in structure.
 2. **A few small reps during the week.** A text about the game. A link. A "you coming Thursday?" These are the warm-up sets. They keep the connection alive between sessions.
 3. **One stretch goal a month.** Invite someone new. Have one real conversation past the surface. Reach out to someone you've drifted from.
-4. **Track it loosely.** Waldinger suggests a simple inventory: who are the people you'd call at 3 a.m., and when did you last see them? If the answer is "months," that's a muscle you've stopped training.
+4. **Track it loosely.** Waldinger suggests a simple inventory: who could you call in the middle of the night if you were sick or scared? Then ask when you last saw them. If the answer is "months," that's a muscle you've stopped training.
 5. **Expect it to feel effortful at first.** Like any training, the first few weeks are the hardest. Social fitness compounds; the tenth Thursday is easy in a way the first is not.
 
 If you don't have a group yet, [how to start a game night group](/articles/how-to-start-a-game-night-group/) walks through it step by step.
@@ -94,7 +94,7 @@ Yes. A weekly game night provides fixed people, a fixed time, repeated interacti
 
 ## Start training this week
 
-The Ludarium in Indianapolis is a place to do your social fitness the way you'd do any other kind: regularly, with people, and without having to host. New articles on play and health go to subscribers first. Subscribe to the Ludarium newsletter for new pieces on togethering for a lifetime.
+The Ludarium is building a place in Indianapolis to do your social fitness the way you'd do any other kind: regularly, with people, and without having to host. New articles on play and health go to subscribers first. Subscribe to the Ludarium newsletter for new pieces on togethering for a lifetime.
 
 ## Sources
 
@@ -102,3 +102,4 @@ The Ludarium in Indianapolis is a place to do your social fitness the way you'd 
 - Social Relationships and Mortality Risk: A Meta-analytic Review, PLOS Medicine: https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316
 - Loneliness and Social Isolation as Risk Factors for Mortality, Perspectives on Psychological Science: https://www.psychologicalscience.org/journals/perspectives/1745691614568352/
 - Our Epidemic of Loneliness and Isolation, U.S. Surgeon General: https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf
+- Friends of a Certain Age, The New York Times (2012): https://www.nytimes.com/2012/07/15/fashion/the-challenge-of-making-friends-as-an-adult.html

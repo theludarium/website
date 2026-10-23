@@ -1,10 +1,10 @@
 ---
 title: "Kickstarter Board Game Campaigns: A Sober Look"
 description: "Should you run a Kickstarter board game campaign? What crowdfunding really costs in money, time, and risk, and the alternatives new designers overlook."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Game Design
 tags: ["kickstarter board game", "crowdfunding a board game", "board game Kickstarter costs", "self-publishing board games", "Gamefound board games", "board game manufacturing cost", "Tabletop game design"]
-draft: true
+draft: false
 ---
 A Kickstarter board game campaign looks like the obvious path for a designer with a finished prototype. Tabletop projects had raised [close to $700 million](https://www.tabletopgaming.co.uk/?p=1536) on the platform by 2019, some campaigns for millions of dollars each, and the stories of first-time designers who did it are everywhere. What is less visible is the designer who funded, spent a year on fulfillment, and finished with a garage full of boxes and a smaller bank account than when they started.
 
@@ -33,7 +33,7 @@ Figures vary enormously by game size, print run, and component quality, so treat
 | Manufacturing | Printing, components, assembly, packaging | Per-unit cost drops sharply with run size |
 | Freight and customs | Shipping pallets from the factory to regional hubs | Volatile; has swung widely in recent years |
 | Fulfillment | Warehousing and shipping each copy to a backer | Charged per unit plus storage |
-| Platform and payment fees | Kickstarter's cut plus payment processing | [5 percent platform fee plus 3 percent and 30 cents per pledge](https://www.kickstarter.com/help/fees) in the US, so roughly a twelfth of what you raise |
+| Platform and payment fees | Kickstarter's cut plus payment processing | [5 percent platform fee plus payment processing of roughly 3 to 5 percent](https://updates.kickstarter.com/kickstarter-fees-a-comprehensive-guide-for-creators/), so about 8 to 10 percent of what you raise |
 | Marketing | Ads, previews, convention demos | Easy to underestimate; easy to overspend |
 | Taxes | Income tax on funds raised, sales tax or VAT in some regions | Frequently forgotten until it is due |
 
@@ -104,11 +104,11 @@ A campaign is one way to get a game in front of people. It is not the only one, 
 
 ### How much does it cost to Kickstart a board game?
 
-It varies enormously, from a few thousand dollars for a small card game to six figures for a large game with miniatures. Art, manufacturing, freight, and fulfillment are the major lines, and shipping is the most often underestimated; one publisher's [early budgeting walkthrough](https://stonemaiergames.com/?p=495) put a modest 1,000-copy run near $40,000 before shipping.
+It varies enormously, from a few thousand dollars for a small card game to six figures for a large game with miniatures. Art, manufacturing, freight, and fulfillment are the major lines, and shipping is the most often underestimated; one publisher's [2013 budgeting walkthrough](https://stonemaiergames.com/?p=495) put the amount needed for a standard 1,000-copy game near $40,000, and costs have risen since.
 
 ### What percentage of board game Kickstarters succeed?
 
-The tabletop category has historically funded at a higher rate than Kickstarter overall, [roughly two-thirds versus under four in ten](https://www.tabletopgaming.co.uk/?p=1536), but established publishers account for much of that. First-time creators without an audience fund far less often.
+The tabletop category has historically funded at a higher rate than Kickstarter overall, [roughly two-thirds](https://www.tabletopgaming.co.uk/?p=1536) versus [under four in ten](https://thehustle.co/kickstarter-crowdfunding-chances-of-success), but established publishers account for much of that. First-time creators without an audience fund far less often.
 
 ### Should a first-time designer self-publish or pitch to a publisher?
 
@@ -124,7 +124,7 @@ Whichever route you choose, the game has to be ready first. Strangers will tell 
 
 ## Sources
 
-- Kickstarter, Fees: https://www.kickstarter.com/help/fees
+- Kickstarter, Fees guide for creators: https://updates.kickstarter.com/kickstarter-fees-a-comprehensive-guide-for-creators/
 - Tabletop Gaming, Games have now made $1 billion on Kickstarter (2019): https://www.tabletopgaming.co.uk/?p=1536
 - The Hustle, chances of success on Kickstarter (2024): https://thehustle.co/kickstarter-crowdfunding-chances-of-success
 - Stonemaier Games, The Current State of Freight Shipping (2021): https://stonemaiergames.com/?p=18664

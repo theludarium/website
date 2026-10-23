@@ -1,28 +1,28 @@
 ---
 title: "D&D in Carmel, Fishers, and Westfield: Where to Play"
 description: "Where to play D&D in Carmel, Fishers, and Westfield, Indiana. Stores with RPG tables, library programs, and how to find or start a group on the north side."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Game Culture
 tags: ["D&D Carmel Indiana", "D&D Fishers Indiana", "Dungeons and Dragons Westfield", "Hamilton County D&D group", "find a D&D group near Carmel", "RPG night Carmel Fishers", "Indianapolis"]
-draft: true
+draft: false
 ---
 Finding D&D in Carmel, Indiana, or anywhere else in Hamilton County, is easier than it was five years ago and harder than it should be. The players are here. The suburbs north of Indianapolis are full of people who played in college, parents whose kids want to try it, and adults who watched a streaming show and wondered. What is thin is the public infrastructure that connects them. This guide lists the confirmed places to sit down at a table, then explains how to find a group when no public table fits.
 
-Venues change. Everything below was checked against its own site or a current listing in October 2026. <!-- EDITOR: recheck before publishing. -->
+Venues change. Everything below was checked against its own site or a current listing in October 2026.
 
 ## Which stores in Carmel and Fishers host D&D?
 
 Game stores are the main public venue for Dungeons & Dragons <!-- AFFILIATE --> on the north side, as they are in most American suburbs.
 
-**[Hero's Emporium](https://www.visithamiltoncounty.com/listing/heros-emporium/5473/)**, Carmel. A tabletop, card, and RPG store that hosts free RPG days alongside its Magic nights and Commander sessions. The free RPG days are the best starting point for someone who has never played; they are built for walk-ins.
+**[Hero's Emporium](https://www.visithamiltoncounty.com/listing/heros-emporium/5473/)**, Carmel. A tabletop, card, and RPG store at 12697 N Pennsylvania St with weekly Magic Commander play on Thursdays at 6 p.m. and Saturdays at 2 p.m. It lists no regular RPG night online, so ask at the counter about campaigns and open tables.
 
 **[Next Level Games](https://www.visithamiltoncounty.com/listing/next-level-games/5751/)**, Carmel. A family game store with tabletop, card, video, and RPG stock. It does not post an RPG schedule online, so ask the staff whether an open table is running; schedules vary by season.
 
-**[Gray Gauntlet Games](https://graygauntletgames.com/)**, Fishers (7998 Centerpoint Dr). Play space and an events calendar that leans toward Magic, Pokémon, and painting nights. Worth checking for RPG one-shots, and a good place to ask about local groups even when no table is listed.
+**[Gray Gauntlet Games](https://graygauntletgames.com/)**, northeast Indianapolis near Fishers (7998 Centerpoint Dr). Play space and an events calendar that leans toward Magic, Pokémon, and Lorcana. Worth checking for RPG one-shots, and a good place to ask about local groups even when no table is listed.
 
-**[Moonshot Games](https://moonshotgamestore.com/)**, downtown Noblesville (50 N 9th St). Just over the Fishers line. A game room, demo copies, and a regular events calendar.
+**[Moonshot Games](https://moonshotgamestore.com/)**, downtown Noblesville (50 N 9th St). A short drive north of Fishers. A community room, a busy events calendar, and occasional D&D events, such as a Learn to Play Dungeons & Dragons session (about $10) on November 21, 2026.
 
-If you live in Carmel or Fishers and are willing to drive 25 minutes, the downtown Indianapolis stores add more options. [Good Games](https://www.goodgamesna.com/venue/good-games-indianapolis/) on South Meridian has the largest play space in the city.
+If you live in Carmel or Fishers and are willing to drive 25 minutes, the downtown Indianapolis stores add more options. [Good Games](https://www.goodgamesna.com/venue/good-games-indianapolis/) on South Meridian has 3,500 square feet of play space downtown.
 
 ## Is there anywhere to play D&D in Westfield?
 
@@ -68,17 +68,17 @@ Running your first session is less frightening than it sounds, and our guide for
 
 Rooms. The players exist; the stores are generous with their tables but are stores first, and the libraries serve teens well and adults less so. What is missing is a place built for a five-hour campaign session: a reserved table, a door that closes, a kettle, and no one needing the space for a tournament at seven.
 
-That is one of the specific reasons The Ludarium is building a membership game lounge in the Indianapolis area. Campaign groups are the ideal member: they show up on the same night for years. When the doors open, a standing D&D table will be one of the first things on the calendar, and north-side players will hear about it first through the newsletter.
+That is one of the specific reasons The Ludarium is building a membership game lounge in the Indianapolis area. Campaign groups are the ideal member: they show up on the same night for years. When the doors open, we want a standing D&D table to be one of the first things on the calendar.
 
 ## FAQ
 
 ### Where can I play D&D in Carmel, Indiana?
 
-Hero's Emporium hosts free RPG days and is the most beginner-friendly public table in Carmel. Next Level Games is the other store in town with RPG stock and events.
+Hero's Emporium stocks RPGs and runs weekly Commander nights; ask the staff about campaigns looking for players. Next Level Games is the other store in town with RPG stock and events.
 
 ### Is there D&D in Fishers?
 
-Gray Gauntlet Games in Fishers has play space and an events calendar; Hamilton East Public Library runs a monthly adult game afternoon where you can meet players. Moonshot Games in Noblesville is a short drive.
+Gray Gauntlet Games, in northeast Indianapolis near Fishers, has play space and an events calendar; Hamilton East Public Library runs a monthly adult game afternoon where you can meet players. Moonshot Games in Noblesville is a short drive.
 
 ### How do I find a D&D group near Westfield?
 
@@ -92,4 +92,4 @@ Yes. Free RPG days, library programs, and one-shots are designed for first-timer
 
 The north side has the players and the stores. It will have the rooms. The game is the reason. The people are the point.
 
-If you want a note when a new public D&D table opens in Hamilton County, and first word on The Ludarium's own standing campaign nights, subscribe to the newsletter. Short emails, and the Indianapolis venue list updated as it changes.
+For new pieces on finding and running a table, and news of The Ludarium's lounge as it takes shape, subscribe to the newsletter. Short emails, and it is free.

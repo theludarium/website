@@ -1,10 +1,10 @@
 ---
 title: "D&D vs Pathfinder for Beginners: Which to Start With"
 description: "D&D vs Pathfinder for beginners, compared on learning curve, starter sets, cost, finding a group, and what each does best. A clear verdict for new players."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Game Guides
 tags: ["D&D vs Pathfinder", "Pathfinder 2e vs D&D 5e", "best RPG for beginners", "D&D starter set vs Pathfinder Beginner Box", "Pathfinder for new players", "tabletop RPG for beginners", "Comparisons"]
-draft: true
+draft: false
 ---
 D&D vs Pathfinder is the question almost every new tabletop roleplayer asks within a month of getting interested. The two games look alike. Both are fantasy, both use a twenty-sided die, both have classes, levels, spells, and a Game Master who runs the world. They grew from the same root. But they have drifted into two different philosophies, and a beginner will feel the difference in the first session.
 
@@ -38,7 +38,7 @@ Player counts and session lengths are typical practice, not publisher rules.
 
 D&D, for the player. The 2024 rules are built so that a new player with a pregenerated sheet can understand their turn in a few minutes: move, take one action, maybe a bonus action. Advantage and disadvantage mean you rarely add up modifiers. The number of decisions a first-level character makes in combat is small by design.
 
-Pathfinder's three-action system is elegant once it clicks, and many players prefer it, but it asks more at the start. Attacking three times in a row gets progressively harder (the multiple attack penalty), so a new player has to learn that two attacks and a Raise Shield usually beats three swings. Conditions are more numerous and more precisely defined. Spellcasting has more moving parts. None of this is hard for someone who likes systems. All of it is friction for someone who does not.
+Pathfinder's three-action system is elegant once it clicks, and many players prefer it, but it asks more at the start. Attacking three times in a row gets progressively harder (the multiple attack penalty), so a new player has to learn that two attacks and a Raise a Shield usually beats three swings. Conditions are more numerous and more precisely defined. Spellcasting has more moving parts. None of this is hard for someone who likes systems. All of it is friction for someone who does not.
 
 For the Game Master the gap is smaller and arguably reversed. D&D's rules leave more to the GM's judgment, which is freeing for an experienced GM and stressful for a new one. Pathfinder's rules cover more situations explicitly, so a new GM can look things up instead of improvising. Its encounter-building math is also more reliable, which means fewer accidental party wipes.
 
@@ -46,9 +46,9 @@ For the Game Master the gap is smaller and arguably reversed. D&D's rules leave 
 
 Both publishers sell a boxed introduction, and both are good.
 
-The **D&D Starter Set: Heroes of the Borderlands** was released in September 2025 at a list price around $50 ([EN World](https://www.enworld.org/posts/9706779/)). It uses the 2024 rules and takes a board-game approach: class boards, cards for species, backgrounds, and equipment, map tiles, and three adventure booklets built around a classic location, the Keep on the Borderlands. It is designed to reduce page-flipping and to let a group start playing with very little reading. <!-- EDITOR: confirm current price -->
+The **D&D Starter Set: Heroes of the Borderlands** was released in September 2025 at a list price around $50 ([EN World](https://www.enworld.org/posts/9706779/)). It uses the 2024 rules and takes a board-game approach: class boards, cards for species, backgrounds, and equipment, poster maps, and three adventure booklets built around a classic location, the Keep on the Borderlands. It is designed to reduce page-flipping and to let a group start playing with very little reading.
 
-The **Pathfinder Beginner Box** is a long-running product, revised for the Remaster, with a Heroes' Handbook, a Game Master's Guide, a full dice set, pregenerated characters, a flip-mat, and over a hundred cardboard pawns ([Paizo](https://paizo.com/pathfinder/beginnerbox)). Its first adventure is a solo tutorial you can play alone before you run anything for friends, which is a thoughtful touch for the nervous first-time GM. Paizo's store listed it at [$36 to $45](https://store.paizo.com/pathfinder-beginner-box) at the time of writing; a revised box, Secrets of the Unlit Star, lists at $49.99.
+The **Pathfinder Beginner Box** has a new Remaster version, Secrets of the Unlit Star, released in May 2026, with a Heroes' Handbook, a Game Master's Guide, a full dice set, pregenerated characters, a flip-mat, and over a hundred cardboard pawns ([Paizo](https://paizo.com/pathfinder/beginnerbox)). Its first adventure is a solo tutorial you can play alone before you run anything for friends, which is a thoughtful touch for the nervous first-time GM. [Paizo lists it](https://paizo.com/pathfinder/beginnerbox) at about $50 at the time of writing. The older box it replaced is out of stock.
 
 If the first session is your main concern, the D&D box gets a table going faster. If you are the person who will be running the game and you want to feel prepared, the Pathfinder box teaches more carefully.
 
@@ -58,7 +58,7 @@ If the first session is your main concern, the D&D box gets a table going faster
 
 D&D, by a wide margin, and this matters more than most beginners expect.
 
-D&D is the default. Most game stores run D&D Adventurers League nights. Most online looking-for-group boards are mostly D&D. Most of your friends who "used to play" played D&D. If you learn D&D you will never struggle to find a table.
+D&D is the default. Many game stores run weekly D&D nights. Most online looking-for-group boards are mostly D&D. Most of your friends who "used to play" played D&D. If you learn D&D you will never struggle to find a table.
 
 Pathfinder has a loyal and organized community through Pathfinder Society, Paizo's organized play program, and in a city the size of Indianapolis you will find tables. But there are fewer of them, and in a smaller town there may be none. [Finding a D&D group in Carmel, Fishers, or Westfield](/articles/dnd-groups-carmel-fishers/) is a solved problem. Finding a Pathfinder group can take a few weeks.
 

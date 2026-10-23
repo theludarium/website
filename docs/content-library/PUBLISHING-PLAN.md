@@ -254,16 +254,16 @@ Gift guides and deals. Publish in early November, after checking every price and
 
 Mention prices, current releases, "this year," Gen Con dates, or Indianapolis places. Check each fact against a current source, update it, then publish.
 
-- `best-board-games-2026`: Best Board Games of 2026 So Far: Our Running Picks
+- `best-board-games-2026`: Best Board Games of 2026 So Far: Our Running Picks (published 2026-10-22)
 - `best-new-cube-cards-of-the-year`: Best Cube Cards This Year: Our Keeps From Six Sets (published 2026-10-21)
-- `board-game-cafe-library`: Board Game Cafe Library: Curating 300 Games, Not 3,000
-- `board-game-cafe-vs-home-game-night`: Board Game Cafe vs Home Game Night: When Each Wins
+- `board-game-cafe-library`: Board Game Cafe Library: Curating 300 Games, Not 3,000 (published 2026-10-22)
+- `board-game-cafe-vs-home-game-night`: Board Game Cafe vs Home Game Night: When Each Wins (published 2026-10-22)
 - `board-game-date-night-indianapolis`: Board Game Date Night in Indianapolis: Where to Go (published 2026-10-21)
-- `board-games-for-college-students`: Board Games for College Students: Dorm-Sized and Cheap
-- `board-games-for-new-parents`: Board Games for New Parents: 20 Minutes, No Brain
+- `board-games-for-college-students`: Board Games for College Students: Dorm-Sized and Cheap (published 2026-10-22)
+- `board-games-for-new-parents`: Board Games for New Parents: 20 Minutes, No Brain (published 2026-10-22)
 - `budget-cube-under-200`: Budget Cube Under $200 That Plays Like Vintage (published 2026-10-21)
 - `build-a-cube-in-a-weekend`: Build a Cube Fast: A Draftable Cube in One Weekend (published 2026-10-21)
-- `corporate-team-building-cost`: Corporate Team Building Cost: A Game Night Breakdown
+- `corporate-team-building-cost`: Corporate Team Building Cost: A Game Night Breakdown (published 2026-10-22)
 - `cube-ban-list`: Does Your Cube Need a Ban List? (published 2026-10-21)
 - `cube-from-your-collection`: Cube From Collection: Build With Cards You Already Own (published 2026-10-21)
 - `cube-identity`: Cube Identity: Giving a Cube Drafters Remember (published 2026-10-21)
@@ -271,35 +271,35 @@ Mention prices, current releases, "this year," Gen Con dates, or Indianapolis pl
 - `cube-sections-and-slots`: Cube Slot Design: Sections and the Spreadsheet (published 2026-10-21)
 - `cube-set-review-marvel-super-heroes`: Marvel Super Heroes Cube Review: Mind Stone, Loki, Vision (published 2026-10-21)
 - `cube-vs-commander`: Cube vs Commander: Which Magic Format Fits Your Group? (published 2026-10-21)
-- `dnd-one-shot-for-beginners`: D&D One Shot for Beginners: Try an RPG in One Evening
+- `dnd-one-shot-for-beginners`: D&D One Shot for Beginners: Try an RPG in One Evening (published 2026-10-22)
 - `family-friendly-game-cafes-indianapolis`: Family Game Cafes in Indianapolis: Where to Play (published 2026-10-21)
-- `game-lounge-membership`: How a Game Lounge Membership Works (vs a Cover Charge)
-- `game-night-calendar-year`: Game Night Calendar: A Full Year of Seasonal Programming
-- `games-after-losing-a-spouse`: Social Activities After Losing a Spouse: Finding a Table
+- `game-lounge-membership`: How a Game Lounge Membership Works (vs a Cover Charge) (published 2026-10-22)
+- `game-night-calendar-year`: Game Night Calendar: A Full Year of Seasonal Programming (published 2026-10-22)
+- `games-after-losing-a-spouse`: Social Activities After Losing a Spouse: Finding a Table (published 2026-10-22)
 - `gen-con-event-registration-tips`: Gen Con Event Registration: How to Get the Games You Want (published 2026-10-21)
 - `gen-con-on-a-budget`: Gen Con on a Budget: Badges, Beds, and the Exhibit Hall (published 2026-10-21)
 - `gen-con-packing-list`: Gen Con Packing List: What to Bring for Four Days (published 2026-10-21)
 - `gen-con-survival-guide`: Gen Con Survival Guide: Food, Feet, Sleep, Exhibit Hall (published 2026-10-21)
 - `gen-con-tips-for-locals`: Gen Con for Locals: Enjoy It Without a Badge (published 2026-10-21)
-- `gloomhaven-vs-frosthaven`: Gloomhaven vs Frosthaven vs Jaws of the Lion: Start Here
-- `how-mtgo-vintage-cube-updates-work`: How MTGO Vintage Cube Updates Work (2026 Cadence)
-- `how-to-build-a-cube-mtg`: How to Build a Cube MTG: Your First Cube Under $200
-- `how-to-evaluate-new-cards-for-cube`: How to Evaluate New Cards for Cube: A Working Method
-- `how-to-update-a-cube`: How to Update a Cube Without Breaking It
+- `gloomhaven-vs-frosthaven`: Gloomhaven vs Frosthaven vs Jaws of the Lion: Start Here (published 2026-10-22)
+- `how-mtgo-vintage-cube-updates-work`: How MTGO Vintage Cube Updates Work (2026 Cadence) (published 2026-10-22)
+- `how-to-build-a-cube-mtg`: How to Build a Cube MTG: Your First Cube Under $200 (published 2026-10-22)
+- `how-to-evaluate-new-cards-for-cube`: How to Evaluate New Cards for Cube: A Working Method (published 2026-10-22)
+- `how-to-update-a-cube`: How to Update a Cube Without Breaking It (published 2026-10-22)
 - `indianapolis-board-game-stores`: Board Game Stores in Indianapolis by Neighborhood (published 2026-10-21)
-- `is-gloomhaven-worth-it`: Is Gloomhaven Worth It? An Honest Guide for Busy Adults
-- `kickstarter-board-game`: Kickstarter Board Game Campaigns: A Sober Look
-- `ludarium-library-50-games`: The Ludarium Library: 50 Games for Every Game Lounge
-- `mtg-proxies-ethics`: MTG Proxies: Ethics, Etiquette, and Playing on a Budget
-- `pandemic-vs-forbidden-island`: Pandemic vs Forbidden Island: Which Co-op to Buy First
-- `pauper-cube-guide`: Pauper Cube Guide: Commons Only, Full Depth
-- `pauper-cube-vs-vintage-cube`: Pauper Cube vs Vintage Cube: Which Fits Your Group?
-- `playing-board-games-with-long-distance-friends`: Board Games With Long Distance Friends: Keep the Group
-- `precon-vs-cube`: Precon vs Cube: Which Fits Your Table?
-- `print-and-play-board-games`: Print and Play Board Games: Test for the Cost of Paper
-- `set-cube`: Set Cube: Recreate a Draft Format Forever
-- `the-crew-card-game`: The Crew Card Game: The Best Teaching Game Ever Made
-- `what-is-a-board-game-cafe`: What Is a Board Game Cafe? Why They're Everywhere Now
+- `is-gloomhaven-worth-it`: Is Gloomhaven Worth It? An Honest Guide for Busy Adults (published 2026-10-22)
+- `kickstarter-board-game`: Kickstarter Board Game Campaigns: A Sober Look (published 2026-10-22)
+- `ludarium-library-50-games`: The Ludarium Library: 50 Games for Every Game Lounge (published 2026-10-22)
+- `mtg-proxies-ethics`: MTG Proxies: Ethics, Etiquette, and Playing on a Budget (published 2026-10-22)
+- `pandemic-vs-forbidden-island`: Pandemic vs Forbidden Island: Which Co-op to Buy First (published 2026-10-22)
+- `pauper-cube-guide`: Pauper Cube Guide: Commons Only, Full Depth (published 2026-10-22)
+- `pauper-cube-vs-vintage-cube`: Pauper Cube vs Vintage Cube: Which Fits Your Group? (published 2026-10-22)
+- `playing-board-games-with-long-distance-friends`: Board Games With Long Distance Friends: Keep the Group (published 2026-10-22)
+- `precon-vs-cube`: Precon vs Cube: Which Fits Your Table? (published 2026-10-22)
+- `print-and-play-board-games`: Print and Play Board Games: Test for the Cost of Paper (published 2026-10-22)
+- `set-cube`: Set Cube: Recreate a Draft Format Forever (published 2026-10-22)
+- `the-crew-card-game`: The Crew Card Game: The Best Teaching Game Ever Made (published 2026-10-22)
+- `what-is-a-board-game-cafe`: What Is a Board Game Cafe? Why They're Everywhere Now (published 2026-10-22)
 - `where-to-play-magic-indianapolis`: Magic: The Gathering in Indianapolis: Where to Play (published 2026-10-21)
 
 ## Needs Levi (59)
@@ -310,58 +310,58 @@ Have `<!-- EDITOR -->` notes only Levi can fill, mostly Cube Commonwealth facts 
 - `360-vs-540-cube`: 360 vs 540 Cube: Which Size Fits Your Group
 - `aggro-in-cube`: Aggro in Cube: Why It Dies and How to Keep It Alive
 - `battle-box-magic`: Battle Box Magic: No Deckbuilding, Just Play
-- `board-game-cafes-indianapolis`: Board Game Cafes in Indianapolis: The 2026 Guide
-- `building-a-game-lounge-library`: Building a Game Lounge Library: Our First 100 Games
-- `choosing-a-space-for-a-game-lounge`: Game Cafe Location: What We Want in a First Space
+- `board-game-cafes-indianapolis`: Board Game Cafes in Indianapolis: The 2026 Guide (published 2026-10-22)
+- `building-a-game-lounge-library`: Building a Game Lounge Library: Our First 100 Games (published 2026-10-22)
+- `choosing-a-space-for-a-game-lounge`: Game Cafe Location: What We Want in a First Space (published 2026-10-22)
 - `community-owned-cube`: The Community Cube: Letting Members Shape the List
-- `conspiracy-cards-in-cube`: Conspiracy Cards in Cube: Cogwork Librarian and Friends
+- `conspiracy-cards-in-cube`: Conspiracy Cards in Cube: Cogwork Librarian and Friends (published 2026-10-22)
 - `corporate-game-nights-before-a-space`: Corporate Game Night Business: Why Events Come First
-- `cube-changelog`: Keeping a Cube Changelog (and Why Drafters Love It)
+- `cube-changelog`: Keeping a Cube Changelog (and Why Drafters Love It) (published 2026-10-22)
 - `cube-commonwealth`: Cube Commonwealth: A Community Around One Cube
 - `cube-commonwealth-cube-history`: Cube Commonwealth History: Where Our Cube Came From
 - `cube-commonwealth-primer`: The Cube Commonwealth Primer
 - `cube-draft-indianapolis`: Cube Draft Indianapolis: Cube Commonwealth and How to Join
 - `cube-for-new-magic-players`: Learn Magic With a Cube: Our New-Player Night
-- `cube-house-rules-examples`: Cube House Rules Examples: Twelve Worth Borrowing
+- `cube-house-rules-examples`: Cube House Rules Examples: Twelve Worth Borrowing (published 2026-10-22)
 - `cube-league-format`: Cube League Format That Doesn't Punish Missing a Week
 - `cube-mana-fixing`: Cube Mana Fixing: How Much, Which Kind, Where
-- `cube-set-review-lorwyn-eclipsed`: Lorwyn Eclipsed Cube Review: Bloom Tender, Oko, Shocks
-- `cube-set-review-secrets-of-strixhaven`: Secrets of Strixhaven Cube Review: Erode, Emeritus, Bolt
-- `cube-set-review-teenage-mutant-ninja-turtles`: TMNT Cube Review: Sneak, Super Shredder, Casey Jones
+- `cube-set-review-lorwyn-eclipsed`: Lorwyn Eclipsed Cube Review: Bloom Tender, Oko, Shocks (published 2026-10-22)
+- `cube-set-review-secrets-of-strixhaven`: Secrets of Strixhaven Cube Review: Erode, Emeritus, Bolt (published 2026-10-22)
+- `cube-set-review-teenage-mutant-ninja-turtles`: TMNT Cube Review: Sneak, Super Shredder, Casey Jones (published 2026-10-22)
 - `cube-sleeves-and-storage`: Cube Sleeves and Storage: What Lasts Through Weekly Play
 - `cube-spotlight-template`: Cube Spotlight Template: Profile a Member's Cube
-- `cube-visual-spoiler`: Cube Visual Spoiler: Showing Your Cube at a Glance
+- `cube-visual-spoiler`: Cube Visual Spoiler: Showing Your Cube at a Glance (published 2026-10-22)
 - `cubecobra-guide`: CubeCobra Guide: Listing, Testing, and Sharing a Cube
 - `discord-setup-for-a-game-group`: Discord for a Game Group: Channels, Roles, Weekly Post
-- `dnd-groups-carmel-fishers`: D&D in Carmel, Fishers, and Westfield: Where to Play
-- `dnd-vs-pathfinder-beginners`: D&D vs Pathfinder for Beginners: Which to Start With
+- `dnd-groups-carmel-fishers`: D&D in Carmel, Fishers, and Westfield: Where to Play (published 2026-10-22)
+- `dnd-vs-pathfinder-beginners`: D&D vs Pathfinder for Beginners: Which to Start With (published 2026-10-22)
 - `draft-pairings-and-records`: Cube Draft Pairings and Records Without the Tournament Feel
 - `duplicate-voucher-system`: Duplicate Voucher Cube Rule: Drafting a Second Copy
-- `friendship-after-retirement`: Friendship After Retirement: Why Men Lose Friends at 65
-- `game-lounge-expansion-plan`: Game Lounge Franchise? Our One-Membership Long Plan
+- `friendship-after-retirement`: Friendship After Retirement: Why Men Lose Friends at 65 (published 2026-10-22)
+- `game-lounge-expansion-plan`: Game Lounge Franchise? Our One-Membership Long Plan (published 2026-10-22)
 - `game-lounge-lessons-learned`: Starting a Board Game Cafe: Mistakes We've Already Made
-- `game-lounge-membership-model`: Game Lounge Membership Model: How the Math Works
-- `gen-con-first-timer-guide`: Gen Con for First-Timers: What to Know Before You Go
-- `glimpse-draft`: Glimpse Draft for Cube: Burn Two, Keep One
+- `game-lounge-membership-model`: Game Lounge Membership Model: How the Math Works (published 2026-10-22)
+- `gen-con-first-timer-guide`: Gen Con for First-Timers: What to Know Before You Go (published 2026-10-22)
+- `glimpse-draft`: Glimpse Draft for Cube: Burn Two, Keep One (published 2026-10-22)
 - `hamilton-county-tabletop-scene`: Hamilton County, Indiana Board Games: The Local Scene
 - `how-to-get-eight-players-for-a-draft`: Cube Draft Attendance: How to Get Eight Players Weekly
-- `how-to-run-a-board-game-tournament`: How to Run a Board Game Tournament: Brackets and Seeding
+- `how-to-run-a-board-game-tournament`: How to Run a Board Game Tournament: Brackets and Seeding (published 2026-10-22)
 - `how-to-support-the-ludarium`: How to Support a Local Game Cafe Before It Opens
-- `indianapolis-game-nights`: Game Night in Indianapolis: A Weekly Public Guide
+- `indianapolis-game-nights`: Game Night in Indianapolis: A Weekly Public Guide (published 2026-10-22)
 - `lev-institute-and-the-ludarium`: Longevity and Social Connection: Why LEV Runs a Game Lounge
-- `mtgo-legacy-cube`: MTGO Legacy Cube: Vintage's Honest Cousin
+- `mtgo-legacy-cube`: MTGO Legacy Cube: Vintage's Honest Cousin (published 2026-10-22)
 - `reference-cubes-we-follow`: Reference Cubes We Follow and Why (2026 List)
 - `relaunching-a-game-community`: How to Relaunch a Game Group After It Went Quiet
 - `running-two-draft-pods`: Draft Pod Logistics: 16 Players, Two Pods, One Host
-- `sharing-a-cube-primer`: Share a Cube Primer: CubeCobra, Discord, or Print
-- `social-fitness`: Social Fitness: Train Your Relationships Like a Muscle
-- `social-prescribing-game-nights`: Social Prescribing: Doctors Who Recommend Game Nights
+- `sharing-a-cube-primer`: Share a Cube Primer: CubeCobra, Discord, or Print (published 2026-10-22)
+- `social-fitness`: Social Fitness: Train Your Relationships Like a Muscle (published 2026-10-22)
+- `social-prescribing-game-nights`: Social Prescribing: Doctors Who Recommend Game Nights (published 2026-10-22)
 - `the-pauper-cube`: The Pauper Cube: A Community-Maintained Classic
-- `track-cube-changes-tools`: Track Cube Changes: CubeCobra, Diffs, and Lists
+- `track-cube-changes-tools`: Track Cube Changes: CubeCobra, Diffs, and Lists (published 2026-10-22)
 - `variance-in-cube-design`: Variance Is a Dial, Not a Flaw: Cube Design and Luck
 - `vintage-cube-archetypes`: Vintage Cube Archetypes Right Now (October 2026)
 - `vintage-cube-changes-for-paper`: Vintage Cube Changes Worth Copying in Paper
-- `when-is-vintage-cube-on-mtgo`: When Is Vintage Cube on MTGO? 2026 Schedule
+- `when-is-vintage-cube-on-mtgo`: When Is Vintage Cube on MTGO? 2026 Schedule (published 2026-10-22)
 - `where-to-host-a-cube-draft`: Where to Host a Draft: Stores, Breweries, Libraries, Homes
-- `why-we-are-building-a-game-lounge`: Why We're Building a Game Lounge Business, Not a Store
-- `wingspan-strategy`: Wingspan Strategy for Players Who Keep Losing by Ten
+- `why-we-are-building-a-game-lounge`: Why We're Building a Game Lounge Business, Not a Store (published 2026-10-22)
+- `wingspan-strategy`: Wingspan Strategy for Players Who Keep Losing by Ten (published 2026-10-22)

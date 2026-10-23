@@ -1,0 +1,169 @@
+---
+// "Level check" quiz at the end of an Academy lesson. Questions come from the
+// lesson's frontmatter (levelCheck). No JavaScript is needed to use it: each
+// answer sits in a <details> that opens on click. A small script reports to
+// Google Analytics when a reader reveals every answer (event:
+// level_check_complete, with the lesson slug), so quiz completions can be measured.
+interface Question {
+  question: string;
+  options: string[];
+  answer: string;
+  explain: string;
+}
+
+interface Props {
+  questions: Question[];
+  /** Lesson slug, sent with the analytics event. */
+  lesson: string;
+}
+
+const { questions, lesson } = Astro.props;
+const letter = (i: number) => String.fromCharCode(65 + i);
+---
+
+<section class="level-check" aria-labelledby="level-check-title" data-level-check={lesson}>
+  <p class="eyebrow">Level check</p>
+  <h2 id="level-check-title">Did it stick?</h2>
+  <p class="level-check__intro">Answer in your head, then open each answer to check yourself.</p>
+  <ol class="level-check__list">
+    {
+      questions.map((q, i) => (
+        <li class="level-check__item">
+          <p class="level-check__question">{q.question}</p>
+          <ul class="level-check__options">
+            {q.options.map((option, j) => (
+              <li>
+                <span class="level-check__letter" aria-hidden="true">
+                  {letter(j)}
+                </span>
+                <span class="visually-hidden">{letter(j)}.</span> {option}
+              </li>
+            ))}
+          </ul>
+          <details class="level-check__answer" data-level-check-answer>
+            <summary>Show answer {i + 1}</summary>
+            <p>
+              <strong>
+                {q.answer}. {q.options[q.answer.charCodeAt(0) - 65]}
+              </strong>{' '}
+              {q.explain}
+            </p>
+          </details>
+        </li>
+      ))
+    }
+  </ol>
+  <p class="level-check__done" data-level-check-done hidden>Nice work. That is this lesson's Level check done.</p>
+</section>
+
+<style>
+  .level-check {
+    margin-top: var(--space-8);
+    padding: var(--space-6);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-card);
+    background: var(--color-surface);
+  }
+
+  .level-check h2 {
+    margin-top: 0;
+    font-size: var(--text-2xl);
+  }
+
+  .level-check__intro {
+    color: var(--color-text-muted);
+  }
+
+  .level-check__list {
+    display: grid;
+    gap: var(--space-6);
+    margin: var(--space-5) 0 0;
+    padding-left: 1.4em;
+  }
+
+  .level-check__question {
+    margin: 0 0 var(--space-3);
+    font-weight: 600;
+  }
+
+  .level-check__options {
+    display: grid;
+    gap: var(--space-2);
+    margin: 0 0 var(--space-3);
+    padding: 0;
+    list-style: none;
+  }
+
+  .level-check__options li {
+    display: flex;
+    gap: var(--space-3);
+    align-items: baseline;
+  }
+
+  .level-check__letter {
+    flex: none;
+    display: inline-grid;
+    place-items: center;
+    width: 1.6em;
+    height: 1.6em;
+    border: 1px solid var(--color-border);
+    border-radius: 50%;
+    font-size: var(--text-sm);
+    font-weight: 600;
+  }
+
+  .level-check__answer summary {
+    display: inline-block;
+    cursor: pointer;
+    padding: 0.35em 0.9em;
+    border: 1px solid var(--color-primary);
+    border-radius: var(--radius-pill);
+    color: var(--color-primary);
+    font-size: var(--text-sm);
+    font-weight: 600;
+  }
+
+  .level-check__answer summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .level-check__answer[open] summary {
+    background: var(--color-primary);
+    color: var(--color-on-primary);
+  }
+
+  .level-check__answer p {
+    margin: var(--space-3) 0 0;
+    padding: var(--space-3) var(--space-4);
+    border-left: 3px solid var(--color-primary);
+    background: var(--color-bg);
+  }
+
+  .level-check__done {
+    margin: var(--space-5) 0 0;
+    font-weight: 600;
+    color: var(--color-primary);
+  }
+</style>
+
+<script>
+  type Gtag = (...args: unknown[]) => void;
+
+  document.querySelectorAll<HTMLElement>('[data-level-check]').forEach((block) => {
+    const lesson = block.dataset.levelCheck ?? '';
+    const answers = Array.from(block.querySelectorAll<HTMLDetailsElement>('[data-level-check-answer]'));
+    const done = block.querySelector<HTMLElement>('[data-level-check-done]');
+    let reported = false;
+
+    answers.forEach((details) => {
+      details.addEventListener('toggle', () => {
+        if (details.open) details.dataset.seen = 'true';
+        if (reported || !answers.every((a) => a.dataset.seen === 'true')) return;
+        reported = true;
+        if (done) done.hidden = false;
+        const gtag = (window as unknown as { gtag?: Gtag }).gtag;
+        if (typeof gtag === 'function') gtag('event', 'level_check_complete', { lesson });
+      });
+    });
+  });
+</script>

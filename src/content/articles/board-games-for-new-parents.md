@@ -1,10 +1,10 @@
 ---
 title: "Board Games for New Parents: 20 Minutes, No Brain"
 description: "Board games for new parents with 20 minutes, no energy, and a baby who might wake up. Short, quiet, interruptible games that still feel like a night out."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Game Night
 tags: ["board games for new parents", "games for tired parents", "quick two player games", "games to play after baby sleeps", "couples games with a newborn", "interruptible board games", "Who it's for"]
-draft: true
+draft: false
 ---
 The best board games for new parents are short, quiet, easy to pause, and forgiving of a mind running on four hours of sleep. They also need to deliver something a phone does not: twenty minutes of sitting across from your partner or a friend, doing something together, before someone cries. This list is built for exactly that window.
 
@@ -43,7 +43,7 @@ Most games fail at least one of these. The ones below pass all of them.
 
 **Lost Cities** <!-- AFFILIATE --> is a card game about funding expeditions. The only real decision is whether to commit to a color, and the game is good enough that the designer's name (Reiner Knizia) is on the box as a selling point. Setup is a shuffle.
 
-**The Fox in the Forest** <!-- AFFILIATE --> is a two-player trick-taking game, like a tiny version of Hearts with special cards. If you grew up playing card games with family, it feels familiar immediately.
+**The Fox in the Forest** <!-- AFFILIATE --> is a two-player trick-taking game, a bit like a pocket version of Spades with special cards. If you grew up playing card games with family, it feels familiar immediately.
 
 **Sprawlopolis** <!-- AFFILIATE --> is eighteen cards in a wallet-sized box. You build a city by overlapping cards to meet three scoring conditions. It is cooperative, silent, and fits in a diaper bag. It also plays solo for the nights your partner falls asleep on the couch at 8:15.
 
@@ -102,4 +102,4 @@ Card games and games with wooden pieces on a cloth. Patchwork, Sprawlopolis, Oni
 
 Twenty minutes across a table from your partner, after the longest day, is not a small thing. It is the thing. The game is the reason. The people are the point.
 
-The Ludarium newsletter sends new game-night ideas, including short ones for people whose nights are not their own right now. Subscribe, and when the kids are older, come see us in Indianapolis.
+The Ludarium newsletter sends new game-night ideas, including short ones for people whose nights are not their own right now. Subscribe, and when the kids are older, come find us at The Ludarium's Indianapolis lounge once it opens.

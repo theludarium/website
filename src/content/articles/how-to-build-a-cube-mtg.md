@@ -1,12 +1,12 @@
 ---
 title: "How to Build a Cube MTG: Your First Cube Under $200"
 description: "Learn how to build a cube MTG players will want to draft again. A step-by-step plan for a 360-card first cube under $200, from card list to sleeves to box."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Magic & Cube
 tags: ["how to build a cube MTG", "budget cube", "first cube", "360 card cube", "cube card list", "cube on a budget", "Magic: The Gathering and Cube"]
-draft: true
+draft: false
 ---
-If you want to know how to build a cube MTG friends will actually ask to draft again, start small, copy a proven list, and resist the urge to make it clever. A 360-card cube supports eight drafters, can cost well under $200 if you choose the right power level, and will be ready to shuffle in a few weekends. This guide walks through every decision in order, from card count to the box it lives in.
+If you want to know how to build a cube MTG friends will actually ask to draft again, start small, copy a proven list, and resist the urge to make it clever. A 360-card cube supports eight drafters, can cost under $200 if you build at the pauper level, and will be ready to shuffle in a few weekends. This guide walks through every decision in order, from card count to the box it lives in.
 
 I built my first cube from a shoebox of commons and a printed list. It was not good. It was drafted thirty times anyway, because the people at the table did not care about the card list. They cared about the Tuesday.
 
@@ -24,13 +24,13 @@ Price in a cube comes almost entirely from a handful of expensive cards. Pick a 
 
 | Cube style | Rough cost to build | Best for |
 |---|---|---|
-| Pauper (commons only) | [Under $100](https://draftsim.com/pauper-cube-mtg/) | Teaching, casual groups, tight budgets |
-| Peasant (commons and uncommons) | Low hundreds | Most first cubes; a clear step up in power |
+| Pauper (commons only) | About $100 to $150 from singles, less from a collection | Teaching, casual groups, tight budgets |
+| Peasant (commons and uncommons) | A few hundred dollars | Most first cubes; a clear step up in power |
 | Budget "legacy" (no reserved list cards) | Several hundred | Groups that want strong rares without the famous price tags |
 | Unpowered legacy | Four figures | Experienced owners |
 | Powered vintage | Tens of thousands (one [Unlimited Black Lotus](https://www.mtggoldfish.com/price/Unlimited+Edition/Black+Lotus) listed above $20,000 in October 2026), or proxies | Collectors, or anyone comfortable with proxies |
 
-For a first cube under $200, peasant is the sweet spot. Uncommons add bombs and build-arounds without blowing the budget, and the gap between a good common and a good uncommon is where most of the interesting draft decisions live. If you want something to play with new players, a pure pauper cube is even cheaper and we compare the two in [pauper cube vs vintage cube](/articles/pauper-cube-vs-vintage-cube/).
+For a first cube under $200, pauper is the one that fits. Peasant is the better first cube if you can stretch to a few hundred dollars, or if friends' bulk covers part of it: uncommons add bombs and build-arounds, and the gap between a good common and a good uncommon is where many of the interesting draft decisions live. We compare the power levels in [pauper cube vs vintage cube](/articles/pauper-cube-vs-vintage-cube/).
 
 If your heart is set on the famous cards, read the piece on [proxies and playing Magic without going broke](/articles/mtg-proxies-ethics/) first. A proxied vintage cube can be built for the cost of printing.
 
@@ -86,7 +86,7 @@ The cards are the cube. These make it playable.
 - **A way to make packs.** The simplest method is to shuffle the entire cube and deal fifteen cards into twenty-four piles. Some owners deal by color to guarantee balanced packs, but random works fine for a first cube.
 - **Tokens and dice.** A handful of each. Whatever the list uses most.
 
-Total for the extras: call it $40 or so at the time of writing. That leaves roughly $160 for cards, which is comfortable for a peasant list.
+Total for the extras: call it $40 to $60 at the time of writing. That leaves roughly $140 to $160 for cards, enough for a pauper list from singles, or a peasant list if much of it comes from your own collection.
 
 ## How do you know if the cube is working?
 
@@ -108,7 +108,7 @@ Three hundred and sixty cards supports a full eight-player draft of three fiftee
 
 ### Can I build a Magic cube for under $100?
 
-Yes. A pauper cube made only of commons can be built for [under $100](https://draftsim.com/pauper-cube-mtg/), often from cards you or your friends already own.
+Yes. Often, yes, if part of it comes from cards you or your friends already own. A pauper cube made only of commons runs about $100 to $150 from singles at the time of writing.
 
 ### Should a cube be singleton?
 
@@ -120,6 +120,6 @@ Assembling a 360-card cube from a published list usually takes two to four weeke
 
 ## Build it, then bring people to it
 
-The first cube is a project. The fiftieth draft is a tradition. If you are starting one, the Ludarium newsletter sends new pieces on building a table people come back to, and we trade cube card lists with subscribers who ask. Cube Commonwealth, our drafting community, welcomes new owners, and when our Indianapolis lounge opens there will be a cube on the shelf for anyone who wants to learn.
+The first cube is a project. The fiftieth draft is a tradition. If you are starting one, the Ludarium newsletter sends new pieces on building a table people come back to. In Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium, and new owners will be welcome.
 
 The game is the reason. The people are the point.

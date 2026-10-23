@@ -1,10 +1,10 @@
 ---
 title: "Social Prescribing: Doctors Who Recommend Game Nights"
 description: "Social prescribing is when a doctor refers a patient to a community activity, not just a pill. How it works, what the evidence says, and where games fit."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Togethering
 tags: ["social prescribing", "what is social prescribing", "social prescribing examples", "link worker", "loneliness and health care", "community activities for health", "Play and health"]
-draft: true
+draft: false
 ---
 In parts of the United Kingdom, a patient who visits a general practitioner feeling low, isolated, or stuck can leave with a referral not to a specialist but to a gardening club, a walking group, or a weekly board game session at the library. The practice is called social prescribing, and it has gone from a fringe idea to a formal part of the National Health Service in about a decade. The United States is starting to catch up.
 
@@ -24,7 +24,7 @@ Because the research on social connection and health has become too strong to ig
 
 The [U.S. Surgeon General's 2023 advisory](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf) on loneliness summarized evidence associating social isolation with higher risk of heart disease, stroke, dementia, depression, anxiety, and early death, and made mobilizing the health sector one of its six pillars for a response. Julianne Holt-Lunstad's [2010 meta-analysis](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316), which underpins much of the advisory, found that people with stronger social ties had about a 50 percent greater likelihood of survival over the study periods, an effect the authors described as comparable to quitting smoking and exceeding obesity.
 
-On the clinical side, UK commentators have long noted that a meaningful share of GP appointments are driven by social problems rather than medical ones. A doctor with ten minutes and a prescription pad has little to offer for loneliness. A link worker with a list of Tuesday groups does. <!-- EDITOR: could not reach the Citizens Advice source for the one-in-five figure; softened -->
+On the clinical side, a 2015 [Citizens Advice survey](https://web.archive.org/web/20231204030428/https://www.citizensadvice.org.uk/about-us/our-work/policy/policy-research-topics/health-and-care-policy-research/public-services-policy-research/a-very-general-practice-how-much-time-do-gps-spend-on-issues-other-than-health/) found that GPs in England say they spend almost a fifth of their consultation time on patients' non-health issues, such as relationships, housing, and work. A doctor with ten minutes and a prescription pad has little to offer for loneliness. A link worker with a list of Tuesday groups does.
 
 The [Harvard Study of Adult Development](https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/) adds the long view: the people most satisfied in their relationships at 50 were the healthiest at 80, a better predictor than their midlife cholesterol. If that is true, then connecting a 60-year-old to a weekly group is preventive care in a real sense.
 
@@ -34,11 +34,11 @@ The [Harvard Study of Adult Development](https://news.harvard.edu/gazette/story/
 
 Promising, but not settled. It is important to be careful here.
 
-[Evaluations of UK social prescribing programs](https://www.kingsfund.org.uk/insight-and-analysis/long-reads/social-prescribing) have generally reported improvements in patients' self-reported wellbeing, and a report covering nine local health systems found fewer GP appointments and less urgent care use afterward, especially among frequent users; one university study, though, found no effect on loneliness. A [2017 systematic review](https://bmjopen.bmj.com/content/7/4/e013384) found that of 15 evaluations, only one was a randomized trial, most had fewer than 100 participants, the before-and-after designs were all at high risk of bias, and the evidence was insufficient to judge effectiveness or value for money.
+[Evaluations of UK social prescribing programs](https://www.kingsfund.org.uk/insight-and-analysis/long-reads/social-prescribing) have generally reported improvements in patients' self-reported wellbeing, and a report covering nine local health systems found fewer GP appointments and less urgent care use afterward, especially among frequent users; one university study, though, found no evidence of an effect on loneliness. A [2017 systematic review](https://bmjopen.bmj.com/content/7/4/e013384) found that of 15 evaluations, only one was a randomized trial, most had fewer than 100 participants, all were rated at high risk of bias, and the evidence was insufficient to judge effectiveness or value for money.
 
 So the fair summary is: the research suggests social prescribing is associated with better wellbeing and may reduce pressure on health services, and the underlying science on social connection is strong, but the rigorous trial evidence on the prescribing model itself is still being built. Expect the picture to sharpen over the next several years.
 
-What is not in dispute is the direction. A [2023 report](https://socialprescribingacademy.org.uk/media/4lbdy5ip/social-prescribing-around-the-world.pdf) from the UK's National Academy for Social Prescribing counted activity in two dozen countries, including a national institute in Canada, a pilot running in Singapore since 2019, state-level programs in Australia, and growing interest in the United States, and the Surgeon General's advisory called on the health sector to treat social connection as part of care.
+What is not in dispute is the direction. A [2023 report](https://socialprescribingacademy.org.uk/media/4lbdy5ip/social-prescribing-around-the-world.pdf) from the UK's National Academy for Social Prescribing counted activity in two dozen countries, including a national institute in Canada, a pilot running in Singapore since 2019, initiatives in several Australian states, and growing interest in the United States, and the Surgeon General's advisory called on the health sector to treat social connection as part of care.
 
 ## Where do games fit into social prescribing?
 
@@ -63,7 +63,7 @@ The feature that matters most is the one we keep coming back to: a game gives th
 
 Less than in the UK, but more than a few years ago.
 
-There is no national program. But the [same international report](https://socialprescribingacademy.org.uk/media/4lbdy5ip/social-prescribing-around-the-world.pdf) points to growing federal and state interest in the social determinants of health, including the Centers for Medicare and Medicaid Services' Accountable Health Communities model launched in 2016 and Kaiser Permanente's community health work, and the Surgeon General's advisory asked the health sector to take social connection seriously. Some U.S. programs use community health workers in a role similar to the UK link worker.
+There is no national program. But the [same international report](https://socialprescribingacademy.org.uk/media/4lbdy5ip/social-prescribing-around-the-world.pdf) points to growing federal and state interest in the social determinants of health, including the Centers for Medicare and Medicaid Services' Accountable Health Communities model, created in 2016 and Kaiser Permanente's community health work, and the Surgeon General's advisory asked the health sector to take social connection seriously. Some U.S. programs use community health workers in a role similar to the UK link worker.
 
 What the United States mostly lacks is not the research but the directory: the local list of Tuesday things that a doctor or a patient can point to. That is a gap third places can fill. A game lounge with a weekly open night, a library with a standing game session, a church hall with a card club. The infrastructure of social prescribing is, in the end, just a map of places where people regularly come together.
 
@@ -88,7 +88,7 @@ Social prescribing is when a health professional refers a patient to a non-medic
 
 ### Does social prescribing work?
 
-Evaluations generally report improved wellbeing and reduced loneliness, and the research on social connection and health is strong. Rigorous controlled trials of the prescribing model itself are still limited, so the evidence is promising rather than settled.
+Evaluations generally report improved wellbeing, though results on loneliness are mixed, and the research on social connection and health is strong. Rigorous controlled trials of the prescribing model itself are still limited, so the evidence is promising rather than settled.
 
 ### Can a doctor prescribe a board game night?
 
@@ -111,3 +111,4 @@ The Ludarium is building a place in Indianapolis that a doctor, a link worker, o
 - Good genes are nice, but joy is better, Harvard Gazette: https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/
 - Social prescribing: less rhetoric and more reality. A systematic review of the evidence, BMJ Open: https://bmjopen.bmj.com/content/7/4/e013384
 - Social Prescribing Around the World, National Academy for Social Prescribing: https://socialprescribingacademy.org.uk/media/4lbdy5ip/social-prescribing-around-the-world.pdf
+- A very general practice, Citizens Advice (2015, archived): https://web.archive.org/web/20231204030428/https://www.citizensadvice.org.uk/about-us/our-work/policy/policy-research-topics/health-and-care-policy-research/public-services-policy-research/a-very-general-practice-how-much-time-do-gps-spend-on-issues-other-than-health/

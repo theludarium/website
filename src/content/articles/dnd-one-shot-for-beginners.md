@@ -1,14 +1,14 @@
 ---
 title: "D&D One Shot for Beginners: Try an RPG in One Evening"
 description: "A D&D one shot for beginners is the lowest-risk way to try a tabletop RPG. What a one-shot is, how to run or join one, and how to fit it in a single night."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Game Guides
 tags: ["D&D one shot for beginners", "what is a D&D one shot", "one shot adventure", "single session RPG", "try D&D without a campaign", "beginner RPG session", "Tabletop RPGs for beginners"]
-draft: true
+draft: false
 ---
 A D&D one shot for beginners is a complete adventure that starts and finishes in one sitting. No campaign, no commitment, no "see you next Tuesday for the next eighteen months." You sit down at seven, you have a story with a beginning, middle, and end by eleven, and you decide afterward whether you want more.
 
-If the main thing standing between you and trying a tabletop RPG is the fear that it is a lifestyle, this is the format built for you. It is also the format we built our free demo PDFs around, for the same reason.
+If the main thing standing between you and trying a tabletop RPG is the fear that it is a lifestyle, this is the format built for you. It is also the format behind our free RPG Demo Library, for the same reason.
 
 ## What is a one-shot, exactly?
 
@@ -108,4 +108,4 @@ Yes. Experienced groups use them to try new systems, fill in when a regular play
 
 ## Try one this month
 
-The full adventure PDFs behind our [RPG Demo Library](/rpg-demo-library/) follow this template: pre-made characters, a one-sentence premise, and a three-hour shape that finishes. Subscribe to the newsletter to get them, plus new articles on getting people around a table. If you are in Indianapolis, come run one at the lounge.
+The demos in our [RPG Demo Library](/rpg-demo-library/) follow this template: pre-made characters, a one-sentence premise, and a short shape that finishes. Play one free, and subscribe to the newsletter for new demos as they arrive, plus new articles on getting people around a table.

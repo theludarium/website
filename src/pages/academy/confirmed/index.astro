@@ -1,0 +1,35 @@
+---
+// Where Kit sends people after they click the confirm button in the double
+// opt-in email. Not in search results or the sitemap.
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageIntro from '@/components/PageIntro.astro';
+import { getLessonPages, lessonUrl } from '@/lib/academy';
+
+const first = (await getLessonPages('catan')).find((l) => !l.data.draft);
+---
+
+<BaseLayout
+  title="You're in"
+  description="You are subscribed to Road to the Catan Championship from The Ludarium Academy. Your welcome email is on its way, and you can read the first lesson right now."
+  noindex
+>
+  <PageIntro
+    eyebrow="Confirmed"
+    title="You're in."
+    lede="Your welcome email is on its way, and the first lesson follows soon after. Want a head start? Lesson one is ready now."
+  >
+    <div class="thanks-actions">
+      {first && <a class="button" href={lessonUrl(first)}>Read lesson one</a>}
+      <a class="button button--ghost" href="/academy/catan/">See all 40 lessons</a>
+    </div>
+  </PageIntro>
+</BaseLayout>
+
+<style>
+  .thanks-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-3);
+    margin-top: var(--space-6);
+  }
+</style>

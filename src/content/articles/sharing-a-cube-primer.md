@@ -1,10 +1,10 @@
 ---
 title: "Share a Cube Primer: CubeCobra, Discord, or Print"
 description: "Where to put a cube primer so drafters read it: CubeCobra's overview, a pinned Discord post, and a printed sheet in the box. What goes where, and why."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Magic & Cube
 tags: ["share cube primer", "cube primer CubeCobra", "cube primer Discord", "print cube primer", "where to post cube primer", "cube overview page", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 You wrote the primer. Now the question is how to share a cube primer so the people who need it find it, in the thirty seconds they are willing to spend looking. The answer is almost always three places, each holding a different amount: the full document on CubeCobra, a short version pinned in Discord, and one printed sheet in the box.
 
@@ -20,15 +20,15 @@ The cost is maintenance, and the next section is about keeping that cost low. Th
 
 ## What goes on CubeCobra?
 
-The full primer, as the cube's overview. CubeCobra gives every cube a description field on its main page that accepts formatted text, and that field is where the complete document lives: the one-line description at the top, then every section in order, down to the FAQ and links. <!-- EDITOR: confirm the overview field's formatting support against the live CubeCobra site -->
+The full primer, on CubeCobra. Every cube has a Primer on its About tab. It is written in Markdown, with headings, tables, and `[[Card Name]]` links that show the card on hover, up to 100,000 characters. That is where the complete document lives: the one-line description at the top, then every section in order, down to the FAQ and links.
 
-This is the source copy, for three reasons. It sits next to the list, so a reader can move between the primer and the cards without leaving the page. It is public and searchable, so the stranger finds it. And the changelog is already there as the cube's blog, so the primer's "last three changes" section can simply link to it. The setup of the page itself is in the [CubeCobra guide](/articles/cubecobra-guide/).
+This is the source copy, for three reasons. It is one tab away from the list, so a reader can move between the primer and the cards in a click. It is public and searchable, so the stranger finds it. And the changelog is already there on the same About tab, so the primer's "last three changes" section can simply link to it. The setup of the page itself is in the [CubeCobra guide](/articles/cubecobra-guide/).
 
 Two habits: put the date of last update in the first line, and put the Discord invite and the visual spoiler link in both the first paragraph and the footer. People do not scroll to footers.
 
 ## What goes in Discord?
 
-A pinned post in the cube's channel with the short version: the one-line description, how a night works, the archetype list with one line each, the house rules, and a link to the full primer on CubeCobra. About four hundred words, which is the most a pinned Discord post can hold and still be read on a phone.
+A pinned post in the cube's channel with the short version: the one-line description, how a night works, the archetype list with one line each, the house rules, and a link to the full primer on CubeCobra. About three hundred words, which fits in one Discord message (2,000 characters without Nitro) and can still be read on a phone.
 
 The pinned post is a summary, not a copy. If the full primer and the pin both carry the full house rules and one gets edited, the two disagree within a month. The pin carries the rules because drafters check them on the night; it says at the top "full primer and current list: [link]" so anyone who finds a gap knows where the answer is.
 
@@ -58,8 +58,8 @@ The habit: when you post a changelog entry, ask whether the change touches anyth
 
 | Location | Holds | Length | Changes when |
 |---|---|---|---|
-| CubeCobra overview | Full primer, source copy | 1,200 to 1,800 words | Any edit |
-| Discord pin | Summary: description, night, lanes, rules, link | About 400 words | Rules, lanes, size, format change |
+| CubeCobra primer | Full primer, source copy | 1,200 to 1,800 words | Any edit |
+| Discord pin | Summary: description, night, lanes, rules, link | About 300 words | Rules, lanes, size, format change |
 | Printed first-timer sheet | One-page draft guide | About 200 words | Almost never |
 | Printed rules sheet | House rules, description, QR code | Half a page | Rules change |
 
@@ -71,8 +71,8 @@ A blog or a personal site is a good home for the philosophy section and for long
 
 ## What mistakes leave a primer unread?
 
-- **Posting the full primer in Discord.** A two-thousand-word message is scrolled past. Pin the summary and link out.
-- **No link from the list to the primer.** If the CubeCobra description is empty and the primer is somewhere else, the stranger never finds it.
+- **Posting the full primer in Discord.** Discord caps a message at 2,000 characters, so a full primer becomes a dozen messages, and those are scrolled past. Pin the summary and link out.
+- **No link from the list to the primer.** If the CubeCobra primer is empty and the primer is somewhere else, the stranger never finds it.
 - **No date.** An undated primer is assumed to be old.
 - **Three independent copies.** They disagree within a month and the drafters stop trusting all three.
 - **No feedback path.** If there is nowhere to say "this section is wrong," the corrections arrive during round two, out loud.
@@ -81,7 +81,7 @@ A blog or a personal site is a good home for the philosophy section and for long
 
 ### Where should a cube primer be posted?
 
-The full version on the cube's CubeCobra overview, a four-hundred-word summary pinned in the group's Discord channel, and a one-page first-timer guide printed and kept in the box.
+The full version on the cube's CubeCobra primer, a three-hundred-word summary pinned in the group's Discord channel, and a one-page first-timer guide printed and kept in the box.
 
 ### Should the whole primer be pinned in Discord?
 
@@ -99,4 +99,4 @@ For drafting it, yes. For publishing, no: it is not next to the list and strange
 
 A primer is only as good as the moment it is read, and the moment is different for each reader. Put the right amount in each of the three places, keep one as the source, and the document does its job without anyone being told to go read it. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for the last part of this series, our own cube's primer, and new pieces after that. Indianapolis drafters can find all three copies of ours, including the one in the box, at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for new cube pieces, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, sets its first night as part of The Ludarium.

@@ -1,10 +1,10 @@
 ---
 title: "Board Games for College Students: Dorm-Sized and Cheap"
-description: "Board games for college students that fit a dorm shelf, cost under $25, play on a floor, and handle whoever shows up. Plus how to find a campus group."
-pubDate: 2026-10-18
+description: "Board games for college students that fit a dorm shelf, mostly cost under $25, play on a floor, and handle whoever shows up. Plus how to find a campus group."
+pubDate: 2026-10-22
 category: Game Night
 tags: ["board games for college students", "dorm room games", "cheap board games", "small box games", "games for roommates", "campus board game club", "Who it's for"]
-draft: true
+draft: false
 ---
 The best board games for college students meet three constraints that most game lists ignore: they fit on a shelf the width of a textbook, they cost less than a week of coffee, and they work on a floor or a bed because there is no table. Everything below passes those tests. Most also handle a flexible player count, since "who's around" is the real number of players in a dorm.
 
@@ -15,7 +15,7 @@ This is not a list of the deepest games. It is a list of games that will actuall
 A dorm is a specific environment. Small space, no table, inconsistent group size, a budget that tops out around $25, and friends who drop by unannounced. A game that does well in a dorm has these traits:
 
 - **Small box.** Card-deck sized or close to it. A big box ends up under the bed and never comes out.
-- **Cheap.** Under $25 is the target, under $20 is better.
+- **Cheap.** Under $25 is the target for most picks, under $20 is better.
 - **Plays on soft surfaces.** No big boards, no delicate stacks, no fiddly tokens that roll under the dresser.
 - **Flexible player count.** Two to six or more. A game that only works at exactly four will sit unplayed.
 - **Three-minute teach.** Whoever walks in should be able to join by the next round.
@@ -26,10 +26,10 @@ A dorm is a specific environment. Small space, no table, inconsistent group size
 | Game | Players | Time | Box | Why |
 |---|---|---|---|---|
 | Codenames | 4–8+ | 15 min | Small | The best party game, period |
-| The Crew | 3–5 | 20 min | Card deck | Co-op trick-taking, endlessly replayable |
+| The Crew | 3–5 (2 with a variant) | 20 min | Card deck | Co-op trick-taking, endlessly replayable |
 | Sushi Go! | 2–5 | 15 min | Tin | Fast, cute, cheap |
-| Love Letter | 2–6 | 10 min | Pouch | 16 cards, a full game |
-| Skull | 3–6 | 15 min | Small | Bluffing with coasters |
+| Love Letter | 2–6 | 10 min | Pouch | 21 cards, a full game |
+| Skull | 3–6 | 30 min | Small | Bluffing with coasters |
 | No Thanks! | 3–7 | 15 min | Small | Simple push-your-luck, teaches in a minute |
 | Coup | 2–6 | 15 min | Small | Lying and accusations |
 | Hanabi | 2–5 | 25 min | Small | Cooperative, hold cards facing out |
@@ -41,7 +41,7 @@ Notes on the picks:
 
 **The Crew: The Quest for Planet Nine** <!-- AFFILIATE --> is a cooperative trick-taking game in a deck-sized box. If your friends know Euchre, Spades, or Hearts, they already know how to play. It has fifty missions, so it lasts a semester.
 
-**Love Letter** <!-- AFFILIATE --> is sixteen cards in a velvet pouch. It is a bluffing and deduction game that plays in ten minutes and fits in a jacket pocket. Pocket games get played more than shelf games.
+**Love Letter** <!-- AFFILIATE --> is a small deck of cards in a velvet bag. It is a bluffing and deduction game that plays in ten minutes and fits in a jacket pocket. Pocket games get played more than shelf games.
 
 **Skull** <!-- AFFILIATE --> is a bluffing game played with coasters. Each player has three flowers and one skull. You stack them face down and bid on how many you can flip without hitting a skull. It is tense, simple, and very funny when someone's confidence collapses.
 
@@ -53,7 +53,7 @@ Notes on the picks:
 
 Most of the games above play at two, but a couple of picks are better for a quiet night with one roommate.
 
-- **Jaipur** <!-- AFFILIATE --> is a two-player trading card game that plays in twenty minutes. It is one of the best two-player card games ever made and costs about the same as a sandwich.
+- **Jaipur** <!-- AFFILIATE --> is a two-player trading card game that plays in twenty minutes. It is one of the best two-player card games ever made and costs less than a pizza for two.
 - **Hive Pocket** <!-- AFFILIATE --> is an abstract strategy game with no board. The pocket edition is tiny. It plays like fast chess and takes about fifteen minutes.
 - **Star Realms** <!-- AFFILIATE --> is a deck-building game in a small box. You attack each other directly, which makes it a good grudge game between roommates.
 
@@ -66,7 +66,7 @@ For more two-player picks that scale up when friends come over, see [board games
 Buying the games is the easy part. Here is how to find the table.
 
 1. **Check the student activities list.** Most campuses have a tabletop, board game, or "strategy games" club. They usually have a library of games far bigger than anything you could fit in a dorm, and they meet weekly.
-2. **Check the library.** Many university libraries now lend board games; [Central Michigan](https://www.cmich.edu/blog/university-libraries/2025/02/18/library-s-board-game-collection-is-expanding) circulates more than 300 and [Princeton's science library](https://library.princeton.edu/about/library-news/2023/board-games-and-lendable-learning-kits-available-lewis-science-and) lends more than 50. Ask at the desk.
+2. **Check the library.** Many university libraries now lend board games; [Central Michigan](https://www.cmich.edu/blog/university-libraries/2025/02/18/library-s-board-game-collection-is-expanding) added more than 300 games to its lending collection in 2025, and [Princeton's science library](https://library.princeton.edu/about/library-news/2023/board-games-and-lendable-learning-kits-available-lewis-science-and) listed more than 50 in 2023. Ask at the desk.
 3. **Look for the D&D group.** Tabletop RPG groups are often the hub of a campus gaming scene, and they know where the board game people are. If you have never played, see [how to play D&D for beginners](/articles/how-to-play-dnd-for-beginners/).
 4. **Put a game on the floor lounge table.** Codenames on a common-area table at 9 p.m. with two people playing it is an invitation. People will stop and ask. This is the lowest-effort way to start a floor game night.
 5. **Check the local game store.** Most college towns have one, and most game stores run open play nights. They are free, and they are full of people who want to teach you their favorite game.
@@ -106,4 +106,4 @@ Search your student organizations list for "tabletop," "board game," or "gaming.
 
 College is one of the last times you will live within walking distance of a hundred potential game partners. Use it. The game is the reason. The people are the point.
 
-The Ludarium newsletter sends new game-night ideas, many of them cheap and small. Subscribe, and if you ever end up in Indianapolis, come find us.
+The Ludarium newsletter sends new game-night ideas, many of them cheap and small. Subscribe, and if you are in Indianapolis, you will hear first when The Ludarium's lounge opens.

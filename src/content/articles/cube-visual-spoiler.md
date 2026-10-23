@@ -1,10 +1,10 @@
 ---
 title: "Cube Visual Spoiler: Showing Your Cube at a Glance"
 description: "A cube visual spoiler shows the whole list as card images, sorted the way drafters think. How to build one on CubeCobra, sort it, and when to print it."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Magic & Cube
 tags: ["cube visual spoiler", "cube spoiler view", "CubeCobra visual spoiler", "cube list images", "cube overview image", "cube card grid", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 A cube visual spoiler is the whole list laid out as card images, sorted by color and cost, on one scrolling page. For a drafter it is worth more than the primer and the changelog combined, because Magic players read card frames faster than they read card names. Ten seconds over a visual spoiler tells you how aggressive the red section is, how many planeswalkers blue has, and whether the gold cards are signposts or good-stuff.
 
@@ -26,16 +26,16 @@ The default on most tools is color, then mana value, then name, and that is righ
 
 Two refinements worth making:
 
-- **Split creatures from non-creatures within each color.** CubeCobra can sort by type inside the color column. With that split, the creature curve and the spell curve are visible separately, which is what a drafter building an aggro deck wants to see.
+- **Split creatures from non-creatures within each color.** CubeCobra can sort by type inside each color, and its Curve view splits creatures from non-creatures by mana value. With that split, the creature curve and the spell curve are visible separately, which is what a drafter building an aggro deck wants to see.
 - **Sort the gold section by color pair, not alphabetically.** Ten clusters of three to five cards each shows the archetypes. One alphabetical block of forty hides them.
 
 What not to do: sort by set, rarity, or price. Those are collector views. Nobody drafts by set.
 
 ## How do you build one on CubeCobra?
 
-Your cube page on CubeCobra has a visual spoiler view as one of the ways to display the list, alongside the table and curve views. It renders every card as an image in columns and lets you choose the primary, secondary, and tertiary sort. Setting the primary sort to color category, the secondary to type, and the tertiary to mana value gives the layout described above. The view is public if the cube is, so the link belongs in the primer. <!-- EDITOR: confirm view names and sort options against the live CubeCobra interface -->
+Your cube page on CubeCobra has a visual spoiler view as one of the ways to display the list, alongside the Table, Curve, and Stacks views. It renders every card as an image in one grid, in your sort order, with 1 to 12 cards per row. The Display panel has four sorts: primary, secondary, tertiary, and a final ordered sort. The default, Color Category, then Types-Multicolor, then Mana Value, already gives the order described above. For color columns, use the Stacks view. For creatures split from spells by mana value in each color, use the Curve view. Anyone who can see the cube can see the view. Add `?display=spoiler` to the list URL so the link opens straight to it, and put that link in the primer.
 
-The sorting you choose on your own view is the one visitors see by default, so set it once and leave it. If you change the sort to investigate something, change it back.
+Visitors see the cube's saved default sort. Set your sorts, click Save as Default Sort, and leave it. Sorting you do while browsing is not saved for anyone else.
 
 For a cube that is not on CubeCobra, a spreadsheet with image formulas works but is slow to load and awkward to share. The general CubeCobra setup, including importing a list, is in the [CubeCobra guide](/articles/cubecobra-guide/).
 
@@ -51,7 +51,7 @@ Three cases.
 
 **The cube's own identity.** Some owners keep a printed spoiler in the box as a kind of manifest, updated at each change. It is not practical, exactly, but it makes the cube feel like a designed object, and that is not nothing.
 
-For printing, a six-by-five grid of thirty reduced card images per letter-size page is a workable size in our experience; at that density a 540-card cube is eighteen pages and a 360 is twelve, plus a page or two if you break sections onto fresh pages. Print in color, single-sided, and bind with a clip so the pages can be swapped when the cube changes. A screenshot per column from the web view, printed at full width, is the fastest method.
+For printing, a six-by-five grid of thirty reduced card images per letter-size page is a workable size in our experience; at that density a 540-card cube is eighteen pages and a 360 is twelve, plus a page or two if you break sections onto fresh pages. Print in color, single-sided, and bind with a clip so the pages can be swapped when the cube changes. A screenshot of each color section from the web view, printed at full width, is the fastest method.
 
 ## What goes on the one-page version?
 
@@ -68,16 +68,16 @@ Keep it current. A one-pager that shows three cards you cut last spring tells th
 | Overall shape and curve | Color | Mana value |
 | Aggro support per color | Color | Type, then mana value |
 | Archetype signposts | Color (gold by pair) | Mana value |
-| Fixing count and kind | Type (lands first) | Color identity |
+| Fixing count and kind (filter t:land) | Color Identity | Type |
 | Recent changes | Date added | Color |
 
-The last row is useful for the week after an update: sort by date added and the new cards cluster at the top, which is the view regulars want.
+The last row is useful for the week after an update: sort by date added and the new cards cluster together at the end, since CubeCobra sorts dates oldest first, which is the view regulars want.
 
 ## What are the common mistakes?
 
 - **Hiding the spoiler behind a login.** If the cube is public, the spoiler should be reachable from the primer with one click and no account.
 - **Mixing printings in the images.** A list that shows one card as a 1995 frame and the next as a modern one is harder to scan. Choose a default printing style, or at least a consistent one per section.
-- **Letting the sort drift.** Every time an owner investigates something and leaves the view sorted by price, a visitor sees a collector's list.
+- **Saving a collector sort.** If an owner clicks Save as Default Sort while sorted by price, every visitor sees a collector's list.
 - **No link from the primer.** The spoiler is the most useful page you have. Link to it in the first paragraph, not the footer.
 
 ## FAQ
@@ -88,7 +88,7 @@ The whole cube list shown as card images in columns, usually sorted by color and
 
 ### How do I make a visual spoiler on CubeCobra?
 
-Open your cube, switch the list display to the visual spoiler view, and set the sort to color, then type, then mana value. The view is public if the cube is. <!-- EDITOR: confirm against the live site -->
+Open your cube's list, switch the display to Visual Spoiler, and keep the default sort: Color Category, then Types-Multicolor, then Mana Value. Anyone who can see the cube can see the view.
 
 ### Should I print a visual spoiler for my cube?
 
@@ -102,4 +102,4 @@ Color in WUBRG order, then multicolor, colorless, and lands; within each color, 
 
 A good visual spoiler lets a new drafter understand your cube before they have read a word of the primer, and that is the kind of document that gets people to the table. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for the rest of this series on cube primers. Indianapolis readers can see our spoiler on the table, in print, at [Cube Commonwealth](/articles/cube-draft-indianapolis/).
+Subscribe to The Ludarium newsletter for the rest of this series on cube primers, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, sets its first night as part of The Ludarium.

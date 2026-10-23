@@ -1,10 +1,10 @@
 ---
 title: "Precon vs Cube: Which Fits Your Table?"
 description: "Precon vs cube: setup time, cost, player count, and skill spread compared, plus the middle options of battle box, Jumpstart, and a precon cube for your table."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Magic & Cube
 tags: ["precon vs cube", "preconstructed decks magic", "battle decks vs cube", "best way to play magic casually", "precon cube", "two player magic options", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
 Preconstructed decks and cubes are the two ways a group plays Magic without anyone building a deck at home. A precon is a finished deck in a box: open it, shuffle, play. A cube is a box of singles you draft into decks at the table. One takes two minutes to start and the other takes an hour before the first game, and the hour is the part cube players love and precon players dread.
 
@@ -14,9 +14,9 @@ This article compares the two across the things that decide a game night: setup 
 
 "Precon" covers a lot of ground, and the products differ enough that the comparison changes:
 
-- **Commander precons.** <!-- AFFILIATE --> The four-deck sets Wizards ships with most releases. 100 cards, multiplayer, 40 life, built for what Wizards itself calls [Magic's most popular multiplayer format](https://wpn.wizards.com/en/news/how-to-run-successful-commander-events-and-grow-your-community) and, in our experience, the most common way new players enter the game today.
-- **Starter and Challenger decks.** Sixty-card two-player decks. The Starter Kit two-deck boxes are built to teach; the Challenger decks (when printed) are Standard-legal competitive shells.
-- **Game Night and Battle Decks.** Game Night boxes ship five 60-card decks built to play against each other; third-party "battle decks" from retailers like Card Kingdom are [60-card decks at a fixed low price](https://blog.cardkingdom.com/preconstructed-decks-for-new-magic-players/) (about $12 each at the time of writing) meant to be played against one another.
+- **Commander precons.** <!-- AFFILIATE --> The Commander decks Wizards ships with most releases, usually two to four per set. 100 cards, multiplayer, 40 life, built for what Wizards itself calls [Magic's most popular multiplayer format](https://wpn.wizards.com/en/news/how-to-run-successful-commander-events-and-grow-your-community) and one of the most common ways new players enter the game today.
+- **Starter and Challenger decks.** Sixty-card two-player decks. The Starter Kit two-deck boxes are built to teach; the Challenger decks (when printed) are competitive constructed decks for Standard or Pioneer.
+- **Game Night and Battle Decks.** Game Night boxes ship five 60-card decks built to play against each other; third-party "battle decks" from retailers like Card Kingdom are [60-card decks at a fixed low price](https://blog.cardkingdom.com/preconstructed-decks-for-new-magic-players/) (about $12 each when last listed) meant to be played against one another.
 - **Jumpstart boosters.** Twenty-card half-decks, pair two.
 
 "Cube" here means a drafted singleton cube of any size, though a 360 is the comparison point. The [battle box guide](/articles/battle-box-magic/) covers the format that sits closest to precons.
@@ -26,7 +26,7 @@ This article compares the two across the things that decide a game night: setup 
 | | Precons | Cube |
 |---|---|---|
 | Time to first game | 2–5 minutes | 45–75 minutes (draft + build) |
-| Cost to start | $12–$50 per deck | Anywhere from under $100 (pauper) to several hundred (unpowered) for a 360, plus sleeves, at the time of writing |
+| Cost to start | $12–$50 per deck | Anywhere from about $100 to $150 (pauper) to a few hundred (peasant or budget) for a 360, plus sleeves, at the time of writing |
 | Players | 2 (60-card) or 4 (Commander) | 2–8 per cube, 8 ideal |
 | Decks per night | Fixed set, swap between games | New decks every draft |
 | Skill spread | Evens out mismatches | Rewards the better drafter twice |
@@ -42,7 +42,7 @@ The table hides the real difference, which is where the fun lives. In precon pla
 
 **When time is short or uncertain.** A precon night can start when two people arrive and absorb a third at the next game. A cube draft needs the whole pod present before pick one.
 
-**When someone is learning.** Preconstructed decks are how nearly everyone learns Magic now, and the Starter Kit decks are built so that a first-time player can read the deck's plan off the cards. In our own teaching nights, precons are step one and a cube is step three.
+**When someone is learning.** Preconstructed decks are how nearly everyone learns Magic now, and the Starter Kit decks are built so that a first-time player can read the deck's plan off the cards. For teaching, precons are a good step one and a cube a good step three.
 
 **When the group plays Commander.** Commander precons are a format of their own with a huge community and reliable matchups within a release. A four-pod of the same release's precons is one of the most balanced games in Magic.
 
@@ -54,7 +54,7 @@ The table hides the real difference, which is where the fun lives. In precon pla
 
 **When the drafting is the point.** For a lot of players it is. The 45 picks are the game they came for and the matches are the scoreboard.
 
-**When you want one purchase instead of many.** A cube costs more up front and nothing after. With Commander precons now carrying a [$49.99 list price](https://mtgrocks.com/mtg-lorwyn-eclipsed-price-increase/), a group that buys a set of four with each release spends more in a year or two than a budget 360 costs once.
+**When you want one purchase instead of many.** A cube costs more up front and nothing after. With Commander precons now carrying a [$49.99 list price](https://mtgrocks.com/mtg-lorwyn-eclipsed-price-increase/), a group that buys every Commander deck from each release spends more in a year than a budget 360 costs once.
 
 *If this is useful, the newsletter sends more like it.*
 
@@ -89,7 +89,7 @@ For a regular group of six to eight, a cube offers far more variety and a shared
 
 ### How much does a cube cost compared to precons?
 
-A 360-card unpowered cube costs roughly the price of four to eight Commander precons up front, and nothing after. Precon costs recur with each release a group buys.
+A budget 360-card cube costs roughly the price of two to eight Commander decks up front, and nothing after. Precon costs recur with each release a group buys.
 
 ### What is a precon cube?
 
@@ -103,4 +103,4 @@ A battle box: one shared library of spells and ten lands per player, ready to pl
 
 Whatever lands on the table, the goal is the same: two or more people, an evening, and a game that gets them talking. The game is the reason. The people are the point.
 
-Subscribe to the Ludarium newsletter for one game-night format, and if you are in Indianapolis, stop by a [Cube Commonwealth](/articles/cube-draft-indianapolis/) night; we keep precons and a battle box on the side table for anyone who arrives after the draft starts.
+Subscribe to the Ludarium newsletter for new game-night formats. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

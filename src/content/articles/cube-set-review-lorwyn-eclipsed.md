@@ -1,12 +1,12 @@
 ---
 title: "Lorwyn Eclipsed Cube Review: Bloom Tender, Oko, Shocks"
 description: "Lorwyn Eclipsed cube review: Bloom Tender, Bitterbloom Bearer, Hexing Squelcher, Oko, the evoke Incarnations and the shock land reprints rated by slot."
-pubDate: 2026-10-18
+pubDate: 2026-10-22
 category: Magic & Cube
 tags: ["Lorwyn Eclipsed cube", "Lorwyn Eclipsed cube review", "Bloom Tender cube", "Bitterbloom Bearer cube", "evoke Incarnations cube", "ECL cube cards", "Cube Commonwealth"]
-draft: true
+draft: false
 ---
-Lorwyn Eclipsed <!-- AFFILIATE --> released on January 23, 2026, opening the year's Standard rotation, and the Lorwyn Eclipsed cube question is the one we were asked most during spoiler season: are the new Incarnations as good as the originals? Mostly no, with one exception, and the set's best cube cards are elsewhere: a one-mana-cheaper Bitterblossom on a body, a returning Bloom Tender, a two-mana red creature that turns off counterspells, and five shock land reprints that lower the price of fixing. Calls below follow [the slot method](/articles/how-to-evaluate-new-cards-for-cube/).
+Lorwyn Eclipsed <!-- AFFILIATE --> released on January 23, 2026, and the Lorwyn Eclipsed cube question is the one we were asked most during spoiler season: are the new Incarnations as good as the originals? Mostly no, with one exception, and the set's best cube cards are elsewhere: a Bitterblossom on a body, a returning Bloom Tender, a two-mana red creature that turns off counterspells, and five shock land reprints that lower the price of fixing. Calls below follow [the slot method](/articles/how-to-evaluate-new-cards-for-cube/).
 
 Set facts from the [MTG Wiki](https://mtg.wiki/page/Lorwyn_Eclipsed): tabletop release January 23, 2026, set code ECL, 283 regular cards including 15 basics, with a separate 20-card Special Guests sheet. Card text is paraphrased from Card Kingdom and mtg.wtf listings.
 
@@ -16,16 +16,17 @@ Lorwyn's original tribal frame returns with a twist: many cards say "choose a cr
 
 ## Are the new Incarnations cube cards?
 
-Each costs {4} plus two hybrid mana, has evoke for the two hybrid mana, and does one or two things depending on which colors you spent.
+Each costs {3} or {4} plus two hybrid mana, has evoke for the two hybrid mana, and does one or two things depending on which colors you spent.
 
 | Card | Colors, body | Effect if first color spent | Effect if second color spent | Call |
 |---|---|---|---|---|
 | Deceit | U/B, 5/5 | {U}{U}: bounce a nonland permanent | {B}{B}: opponent reveals hand, discards a nonland card you choose | Test |
 | Emptiness | W/B, 3/5 | {W}{W}: reanimate a creature with mana value 3 or less | {B}{B}: three −1/−1 counters on a creature | Test |
-| Wistfulness | G/U, 6/5 | {G}{G}: exile an opponent's artifact or enchantment | {U}: draw two, discard one | Pass |
+| Wistfulness | G/U, 6/5 | {G}{G}: exile an opponent's artifact or enchantment | {U}{U}: draw two, discard one | Pass |
 | Catharsis | R/W, 3/4 | {W}{W}: two 1/1 Kithkin | {R}{R}: team +1/+1 and haste | Pass |
+| Vibrance | R/G, 4/4 | {R}{R}: 3 damage to any target | {G}{G}: search for a land card, gain 2 life | Test |
 
-The comparison is Solitude, Grief, Fury, Subtlety and Endurance, and these are deliberately weaker. The evoke cost is two colored mana rather than a card, so you cannot evoke on turn one. Deceit is the best of the four: a Thoughtseize plus a bounce for {U/B}{U/B} on turn two, or a 5/5 that does both on turn six. Emptiness is a test because a two-mana shrink effect that can instead reanimate is flexible. Wistfulness and Catharsis are Limited cards. The hybrid costs make all four draftable by a single color, so they never clog a gold slot.
+The comparison is Solitude, Grief, Fury, Subtlety and Endurance, and these are deliberately weaker. The evoke cost is two colored mana rather than a card, so you cannot evoke on turn one. Deceit is the best of the five: a Thoughtseize or a bounce for {U/B}{U/B} on turn two, or a 5/5 that does both on turn six. Emptiness is a test because a two-mana shrink effect that can instead reanimate is flexible. Wistfulness and Catharsis are Limited cards. The hybrid costs make all four draftable by a single color, so they never clog a gold slot.
 
 ## Which cheap cards are the real pickups?
 
@@ -50,7 +51,7 @@ The comparison is Solitude, Grief, Fury, Subtlety and Endurance, and these are d
 - **Soul Immolation** ({3}{R}{R}, sorcery: blight X, up to your greatest toughness; X damage to each opponent and each of their creatures). **Call: pass.** A one-sided sweeper that needs a big creature of yours to carry the counters.
 - **Glen Elendra's Answer** ({2}{U}{U} uncounterable: counter all opposing spells and abilities). **Call: pass.** Four-mana counterspells do not draft.
 - **Curious Colossus** ({5}{W}{W}, 7/7; an opponent's creatures become 1/1s with no abilities). **Call: pass.** Seven mana.
-- **Aurora Awakener**, **Chronicle of Victory**, **Bloodline Bidding**, **Collective Inferno**, **Harmonized Crescendo**, **Sunderflock**, **Selfless Safewright**, **Morningtide's Light**: all pass. They cost six or more, or care about creature types.
+- **Aurora Awakener**, **Chronicle of Victory**, **Bloodline Bidding**, **Collective Inferno**, **Harmonized Crescendo**, **Sunderflock**, **Selfless Safewright**, **Morningtide's Light**: all pass. Most cost six or more or care about creature types.
 
 ## Which reprints matter?
 
@@ -72,7 +73,7 @@ Five shock lands: Steam Vents, Overgrown Tomb, Blood Crypt, Hallowed Fountain an
 | Moonshadow | B / 1 / graveyard threat | Test | Graveyard cubes |
 | Curious Colossus, Sunderflock, Soul Immolation | various | Pass | None |
 
-Two keeps, nine tests. A strong opening to the year, mostly on the back of the two-drop slot.
+Two keeps and a handful of tests. A strong opening to the year, mostly on the back of the two-drop slot.
 
 ## FAQ
 
@@ -90,8 +91,8 @@ Worth testing in cubes where blue control is strong. It turns off counterspells 
 
 ### Which Lorwyn Eclipsed cards fit a Pauper cube?
 
-We confirmed rares and mythics for this review plus a few uncommons. Spell Snare is uncommon, so it is a Peasant card, not a Pauper one. Check the commons against your own list. <!-- EDITOR: confirm -->
+We confirmed rares and mythics for this review plus a few uncommons. Spell Snare is uncommon, so it is a Peasant card, not a Pauper one. The commons worth a look: Bogslither's Embrace ({1}{B} sorcery: exile a creature, plus blight 1 or pay {3}), cheap black removal. Blight Rot ({2}{B} instant: four −1/−1 counters), which kills almost anything. Great Forest Druid ({1}{G} dork that taps for any color), Pauper fixing on a body. Glamermite ({2}{U} flash flier that taps or untaps a creature), a tempo two-for-one.
 
-## Draft the keeps with us
+## Test the keeps
 
-Bitterbloom Bearer and Bloom Tender went into the Cube Commonwealth list in February; the tests rotated through our spring drafts in Indianapolis, and the follow-up is in [the best new cube cards of the year](/articles/best-new-cube-cards-of-the-year/). [Join us](/articles/cube-draft-indianapolis/) for the next one, and subscribe to the newsletter to get every review in this series the week the set drops. The game is the reason. The people are the point.
+If you test only two cards from this set, make them Bitterbloom Bearer and Bloom Tender. How the year's new cards held up is in [the best new cube cards of the year](/articles/best-new-cube-cards-of-the-year/). Subscribe to The Ludarium newsletter for new set reviews, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, sets its first night as part of The Ludarium. The game is the reason. The people are the point.

@@ -243,6 +243,17 @@ A short log of choices made and why. Newest at the bottom.
 - **Amazon sells and ships it**, so this is not The Ludarium selling a physical product. Plain links, no affiliate tags, no prices (KDP prices can change).
 - **Sample strips are three that passed the art check cleanly** (bridges, birds, elephant). Their alt text describes what is drawn, which differs a little from the scripts.
 
+## 2026-10-22: First Academy course, Road to the Catan Championship
+
+- **The first course is free:** 40 lessons in six levels (Settler, Homesteader, Trader, Strategist, Contender, Champion), from opening the box to a National Championship run. Its job is newsletter subscribers and traffic to articles. A paid Academy membership comes later, on the course platform.
+- **Lessons are a content collection, `lessons`,** in `src/content/lessons/<course>/<slug>.md`, validated like articles: `course`, `level` 0 to 5 with a matching `levelName`, `order` 1 to 40, `emailSubject`, and a 150 to 160 character description. A published lesson must also have `oneIdea` and a 2 or 3 question `levelCheck`; `nextTeaser` holds the teaser for the next lesson. Drafts can be bare scaffolds (the outline sits in an HTML comment and shows on previews). Paid lessons never live in this repo.
+- **The quiz lives in frontmatter, not MDX.** The page renders it with the `LevelCheck` component: answers sit in `<details>`, so it works with no JavaScript and no new dependency. A small script sends a Google Analytics `level_check_complete` event (with the lesson slug) when every answer has been opened.
+- **URLs:** `/academy/` (landing page and catalog), `/academy/<course>/` (course page), `/academy/<course>/<lesson>/` (lesson). Course pages and lesson pages are generated from `src/lib/academy.ts`, so new courses slot in. `/academy/thanks/` and `/academy/confirmed/` are the Kit redirects, kept out of search and the sitemap. Unpublished lessons show as plain titles on the live site, and links to them in Markdown render as plain text, the same as unpublished articles.
+- **Lesson pages reuse the article reading layout.** The article page's styles moved to `src/styles/reading.css` so both share it.
+- **One Kit form per course, double opt-in:** "Academy: Road to the Catan Championship", tagged `academy` and `academy-catan`. Fields: first name, email, `catan_experience` (Never played / Played a few times / I play regularly / I want to compete) and an optional `state` for regional event alerts. The answer sets the starting level tag: `academy-catan-settler`, `-homesteader`, `-trader`, or `-contender`; `-strategist` and `-champion` are reached by graduating. Form action goes in `KIT_ACADEMY_FORMS` in `src/lib/config.ts`. Setup and automation plan: `docs/academy/catan/`.
+- **Structured data:** `Course` on the course page (free offer, one syllabus section per level), `LearningResource` on lesson pages.
+- **Launch with Level 0 only.** Everyone starts at Level 0 until later levels are written, whatever they pick on the form; the form still saves `catan_experience` so the level split can switch on later. Site copy promises one lesson at a time, not a starting level. Kit build order is in the "Launch first" section of `docs/academy/catan/KIT-SEQUENCE.md`.
+
 ## 2026-10-21: Visiting-company tracker for the corporate events pages
 
 - **Why:** see which companies, especially around Indianapolis, read the corporate events pages, so Levi can reach their HR and L&D leaders. Levi's spec; built on `feature/visiting-companies`.
