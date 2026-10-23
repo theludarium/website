@@ -1,0 +1,42 @@
+---
+// Where Kit sends people right after they submit an Academy form (set in the
+// Kit form's settings). Not in search results or the sitemap.
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageIntro from '@/components/PageIntro.astro';
+---
+
+<BaseLayout
+  title="Check your inbox"
+  description="One more step: open the email from The Ludarium and click the button to confirm. Your welcome email and first Academy lesson link follow right after that."
+  noindex
+>
+  <PageIntro
+    eyebrow="Almost there"
+    title="Check your inbox."
+    lede="We just sent you an email. Click the button inside to confirm, and your welcome email follows right after, with a link to your first lesson."
+  >
+    <ul class="thanks-tips">
+      <li>Do not see it? Check your spam or promotions folder.</li>
+      <li>It comes from hello@theludarium.com. Add that address to your contacts so your lessons never land in spam.</li>
+    </ul>
+    <div class="thanks-actions">
+      <a class="button" href="/academy/catan/">See the whole course</a>
+      <a class="button button--ghost" href="/articles/catan-tournament-qualifier/">Read how it started</a>
+    </div>
+  </PageIntro>
+</BaseLayout>
+
+<style>
+  .thanks-tips {
+    max-width: var(--width-content);
+    padding-left: 1.2em;
+    color: var(--color-text-muted);
+  }
+
+  .thanks-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-3);
+    margin-top: var(--space-6);
+  }
+</style>

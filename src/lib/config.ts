@@ -60,3 +60,13 @@ export const MALAPHOR_BOOK_URL = 'https://www.amazon.com/dp/B0HNTSXVS6';
 
 /** The same book's Kindle edition on Amazon. */
 export const MALAPHOR_KINDLE_URL = 'https://www.amazon.com/dp/B0HNTT7KKV';
+
+/**
+ * Kit form for each Academy course, keyed by course slug (see src/lib/academy.ts).
+ * Copy `action` from the Kit form's HTML embed. Setup steps, tags, and custom
+ * fields (catan_experience, state) are in docs/academy/catan/KIT-SETUP.md.
+ * While blank, the form shows a preview note and does not submit to Kit.
+ */
+export const KIT_ACADEMY_FORMS: Record<string, { action: string }> = {
+  catan: { action: 'https://app.kit.com/forms/10083674/subscriptions' },
+};
