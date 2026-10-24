@@ -3,11 +3,13 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import PageIntro from '@/components/PageIntro.astro';
 import ArticleList from '@/components/ArticleList.astro';
 import { getArticles } from '@/lib/articles';
+import { GAME_SHELF_CATEGORY_SLUG } from '@/lib/game-shelf';
 import { CATEGORIES } from '@/lib/site';
 
 export async function getStaticPaths() {
   const articles = await getArticles();
-  return CATEGORIES.map((category) => ({
+  // Game Shelf has its own page (game-shelf.astro), a hub for its six series.
+  return CATEGORIES.filter((category) => category.slug !== GAME_SHELF_CATEGORY_SLUG).map((category) => ({
     params: { category: category.slug },
     props: { category, articles: articles.filter((a) => a.data.category === category.name) },
   }));

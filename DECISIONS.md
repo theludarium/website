@@ -292,6 +292,13 @@ A short log of choices made and why. Newest at the bottom.
 - **Same mechanics as the Catan course:** visual automations swap a series tag to move people along, footer links let readers skip to the next series or pause for two weeks, and the sequences exclude the pause, complete, and later series tags. IDs and links in `docs/newsletter/GAME-SHELF-SERIES.md`; the email copy in `docs/newsletter/game-shelf-emails.json`.
 - **The two draft articles' emails wait unpublished** in series 6 and go live with their articles.
 
+## 2026-10-23: The Game Shelf category page is the series hub
+
+- **`/articles/category/game-shelf/` now works like the Catan course page:** the series email signup above the fold, then the six series in reading order, each with its articles numbered and given a one-line summary. Levi's call. A 34-article cluster needs a "start here," and the newest-first category grid could not give one.
+- **How it is built:** a static route, `src/pages/articles/category/game-shelf.astro`, which wins over the dynamic `[category]` route (that route now skips the slug). Series order and every line live in `src/lib/game-shelf.ts`. Cluster articles filed under other categories (Running a Play Group in Game Night, the Cube article in Magic & Cube) are on the hub too, and any later Game Shelf article outside the series gets a "More from the Game Shelf" grid. The category filter pills moved into `CategoryFilters.astro` so the hub and `ArticleList` share them.
+- **Drafts keep their place** as plain titles marked "Coming soon" on the live site, and link with a Draft badge on previews, like unpublished Catan lessons.
+- **The summaries were written from the articles, then checked.** One writer per series read every article in full and drafted the lines; a second pass tested each line against the article text (claims, numbers, length, banned words, nothing implying game nights, a lounge, a league, or the app exist) and fixed seven. Lines are 55 to 100 characters and add to the title rather than repeat it.
+
 ## 2026-10-21: Visiting-company tracker for the corporate events pages
 
 - **Why:** see which companies, especially around Indianapolis, read the corporate events pages, so Levi can reach their HR and L&D leaders. Levi's spec; built on `feature/visiting-companies`.
