@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-labelledby="t d">
+  <title id="t">King of Tokyo setup</title>
+  <desc id="d">The Tokyo board in the middle with Tokyo City and Tokyo Bay, which is used only with 5 or 6 players. Below it, the six black dice, and the two green dice set aside. The Power card deck with three cards face up and the tokens on the left, the Energy cube pool on the right, and a Monster board at each corner with Life at 10 and Victory Points at 0.</desc>
+  <defs>
+    <!-- One Monster board: two dials and the cardboard figure beside them -->
+    <g id="board">
+      <rect width="128" height="56" rx="8" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.5"/>
+      <text x="10" y="18" font-size="12" font-weight="700">Monster board</text>
+      <circle cx="20" cy="38" r="10" fill="#2F5D50"/>
+      <text x="20" y="41.5" font-size="10" font-weight="700" text-anchor="middle" fill="#F6EFE3">10</text>
+      <text x="34" y="42" font-size="12">Life</text>
+      <circle cx="72" cy="38" r="10" fill="#E0A23B" stroke="#2B1E16" stroke-width="1"/>
+      <text x="72" y="41.5" font-size="10" font-weight="700" text-anchor="middle">0</text>
+      <text x="86" y="42" font-size="12">VP</text>
+      <path d="M107 46 L107 31 L109 25 L112 29 L114 22 L116 29 L119 25 L121 31 L121 46 Z" fill="#2B1E16"/>
+      <circle cx="111.5" cy="34" r="1.6" fill="#E0A23B"/>
+      <circle cx="116.5" cy="34" r="1.6" fill="#E0A23B"/>
+      <rect x="104" y="46" width="20" height="4" rx="1" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.8"/>
+    </g>
+    <rect id="die" width="18" height="18" rx="3.5" fill="#2B1E16"/>
+    <rect id="gdie" width="18" height="18" rx="3.5" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+    <!-- One face-up Power card: cost, name, text -->
+    <g id="card">
+      <rect width="26" height="40" rx="4" fill="#F6EFE3" stroke="#2F5D50" stroke-width="1.5"/>
+      <circle cx="7" cy="8" r="4.5" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+      <rect x="13" y="6" width="9" height="3" rx="1" fill="#2B1E16"/>
+      <rect x="4" y="21" width="18" height="2" rx="1" fill="#B9AD9C"/>
+      <rect x="4" y="26" width="18" height="2" rx="1" fill="#B9AD9C"/>
+      <rect x="4" y="31" width="12" height="2" rx="1" fill="#B9AD9C"/>
+    </g>
+    <rect id="cube" width="9" height="9" rx="1.5" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+  </defs>
+
+  <rect width="480" height="320" fill="#F6EFE3"/>
+  <g font-family="system-ui, sans-serif" font-size="12" fill="#2B1E16">
+
+    <!-- Monster boards, one per player (four shown) -->
+    <use href="#board" x="12" y="12"/>
+    <use href="#board" x="340" y="12"/>
+    <use href="#board" x="12" y="252"/>
+    <use href="#board" x="340" y="252"/>
+
+    <!-- Tokyo board: Tokyo City always, Tokyo Bay with 5 or 6 players -->
+    <rect x="152" y="12" width="176" height="104" rx="10" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.5"/>
+    <text x="240" y="30" font-size="13" font-weight="700" text-anchor="middle">Tokyo board</text>
+    <rect x="158" y="38" width="80" height="52" rx="6" fill="#2F5D50"/>
+    <text x="198" y="61" font-weight="700" text-anchor="middle" fill="#F6EFE3">Tokyo City</text>
+    <text x="198" y="77" font-size="11" text-anchor="middle" fill="#F6EFE3">always used</text>
+    <rect x="242" y="38" width="80" height="52" rx="6" fill="#F6EFE3" stroke="#2F5D50" stroke-width="1.5" stroke-dasharray="4 3"/>
+    <text x="282" y="61" font-weight="700" text-anchor="middle">Tokyo Bay</text>
+    <text x="282" y="77" font-size="11" text-anchor="middle">5 to 6 players</text>
+    <text x="240" y="108" font-size="11" text-anchor="middle" fill="#2F5D50" font-weight="700">Empty at the start</text>
+
+    <!-- Six black dice, showing the six faces: 1, 2, 3, Energy, Heal, Smash -->
+    <g transform="translate(176 126)">
+      <use href="#die"/>
+      <text x="9" y="13.5" font-size="11" font-weight="700" text-anchor="middle" fill="#F6EFE3">1</text>
+    </g>
+    <g transform="translate(198 126)">
+      <use href="#die"/>
+      <text x="9" y="13.5" font-size="11" font-weight="700" text-anchor="middle" fill="#F6EFE3">2</text>
+    </g>
+    <g transform="translate(220 126)">
+      <use href="#die"/>
+      <text x="9" y="13.5" font-size="11" font-weight="700" text-anchor="middle" fill="#F6EFE3">3</text>
+    </g>
+    <g transform="translate(242 126)">
+      <use href="#die"/>
+      <path d="M10.5 2.5 L4.5 10 L8.5 10 L7 15.5 L13.5 7.5 L9.5 7.5 Z" fill="#E0A23B"/>
+    </g>
+    <g transform="translate(264 126)">
+      <use href="#die"/>
+      <path d="M9 14.5 C3 10.5 3.5 4.8 6.6 4.8 C8 4.8 8.8 5.8 9 7 C9.2 5.8 10 4.8 11.4 4.8 C14.5 4.8 15 10.5 9 14.5 Z" fill="#F6EFE3"/>
+    </g>
+    <g transform="translate(286 126)" stroke="#F6EFE3" stroke-width="1.8" stroke-linecap="round">
+      <use href="#die" stroke="none"/>
+      <path d="M5 13.5 L8 4.5 M8.5 14 L11.5 5 M12 14 L14 7.5" fill="none"/>
+    </g>
+    <text x="240" y="160" font-weight="700" text-anchor="middle">6 black dice</text>
+    <text x="240" y="174" font-size="11" text-anchor="middle">faces: 1, 2, 3, Energy, Heal, Smash</text>
+
+    <!-- Two green dice, set aside -->
+    <rect x="196" y="186" width="88" height="40" rx="8" fill="none" stroke="#B9AD9C" stroke-width="1.2" stroke-dasharray="4 3"/>
+    <use href="#gdie" x="219" y="197"/>
+    <use href="#gdie" x="243" y="197"/>
+    <text x="240" y="244" font-weight="700" text-anchor="middle">2 green dice, set aside</text>
+    <text x="240" y="258" font-size="11" text-anchor="middle">only some Power cards use them</text>
+
+    <!-- Power cards: the deck and three face up -->
+    <text x="16" y="90" font-weight="700">Power cards</text>
+    <rect x="22" y="106" width="28" height="40" rx="4" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="19" y="103" width="28" height="40" rx="4" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="16" y="100" width="28" height="40" rx="4" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <use href="#card" x="60" y="100"/>
+    <use href="#card" x="89" y="100"/>
+    <use href="#card" x="118" y="100"/>
+    <text x="33" y="162" font-size="11" text-anchor="middle">deck</text>
+    <text x="102" y="162" font-size="11" text-anchor="middle">3 face up</text>
+
+    <!-- Tokens nearby -->
+    <text x="16" y="192" font-weight="700">Tokens nearby</text>
+    <circle cx="24" cy="208" r="6.5" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <circle cx="40" cy="208" r="6.5" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+    <circle cx="56" cy="208" r="6.5" fill="#E0A23B" stroke="#2B1E16" stroke-width="1"/>
+    <circle cx="72" cy="208" r="6.5" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <text x="16" y="232" font-size="11">used by some Power cards</text>
+
+    <!-- Energy cube pool -->
+    <text x="344" y="90" font-weight="700">Energy cube pool</text>
+    <rect x="344" y="98" width="124" height="64" rx="10" fill="none" stroke="#B9AD9C" stroke-width="1.2" stroke-dasharray="4 3"/>
+    <use href="#cube" x="356" y="108"/><use href="#cube" x="372" y="112"/><use href="#cube" x="390" y="106"/>
+    <use href="#cube" x="408" y="112"/><use href="#cube" x="426" y="107"/><use href="#cube" x="445" y="113"/>
+    <use href="#cube" x="360" y="126"/><use href="#cube" x="379" y="130"/><use href="#cube" x="397" y="124"/>
+    <use href="#cube" x="416" y="130"/><use href="#cube" x="434" y="126"/><use href="#cube" x="452" y="132"/>
+    <use href="#cube" x="366" y="144"/><use href="#cube" x="386" y="147"/><use href="#cube" x="405" y="143"/>
+    <use href="#cube" x="424" y="147"/><use href="#cube" x="443" y="145"/>
+    <text x="344" y="178" font-size="11">everyone takes from here</text>
+
+    <!-- Monster figures -->
+    <text x="344" y="206" font-weight="700">Monster figures</text>
+    <text x="344" y="222" font-size="11">wait beside your board</text>
+    <text x="344" y="236" font-size="11">until you enter Tokyo</text>
+
+    <text x="240" y="300" font-size="11" text-anchor="middle" fill="#2F5D50" font-weight="700">2 to 6 players, four shown</text>
+  </g>
+</svg>

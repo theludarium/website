@@ -48,6 +48,9 @@ const articles = await getCollection('articles', ({ data }) => !data.draft);
 const related = d.related.map((slug) => articles.find((a) => a.id === slug)).filter((a) => a !== undefined);
 const lessonCount = lessons.length;
 const pdf = teachSheetPdfUrl(course);
+// The layout appends " | The Ludarium"; take the first title that keeps the whole under 70 characters.
+const pageTitle =
+  [`${d.title}: Free ${d.game} Course`, `Free ${d.game} Course: ${d.title}`, `${d.title}: A Free Course`, d.title].find((t) => t.length <= 55) ?? d.title;
 
 const structuredData = [
   {
@@ -83,7 +86,7 @@ const structuredData = [
 ];
 ---
 
-<BaseLayout title={`${d.title}: Free ${d.game} Course`} description={d.description} noindex={d.draft}>
+<BaseLayout title={pageTitle} description={d.description} noindex={d.draft}>
   <script slot="head" type="application/ld+json" set:html={JSON.stringify(structuredData)} />
 
   <section class="course-hero">
@@ -92,7 +95,7 @@ const structuredData = [
         <p class="eyebrow">The Ludarium Academy &middot; {FORMAT_LABEL[d.format]} &middot; Free</p>
         {d.draft && <p><span class="draft-badge">Draft</span> Only visible on previews.</p>}
         <h1>{d.title}</h1>
-        <p class="course-hero__game">An unofficial {isTcg ? 'beginner’s course' : 'course'} for {d.game}</p>
+        <p class="course-hero__game">An unofficial {d.game} course{isTcg ? ' for beginners' : ''}</p>
         <p class="course-hero__sub">{d.promise}</p>
         <CourseForm
           course={course.id}

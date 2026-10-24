@@ -20,10 +20,11 @@ const { course } = Astro.props;
 const d = course.data;
 const s = d.teachSheet;
 const home = courseUrl(course);
+const pageTitle = [`${d.game} Teach Sheet: Teach It in Ten Minutes`, `${d.game} Teach Sheet`, `Teach Sheet: ${d.title}`].find((t) => t.length <= 55) ?? `${d.game} Teach Sheet`;
 ---
 
 <BaseLayout
-  title={`${d.game} Teach Sheet: Teach It in Ten Minutes`}
+  title={pageTitle}
   description={`A free one-page ${d.game} teach sheet from The Ludarium: setup, a turn, scoring, and three tips, ready to print for your next game night.`.slice(0, 160)}
   noindex={d.draft}
 >
@@ -253,8 +254,26 @@ const home = courseUrl(course);
       padding: 0;
       border: 0;
       background: #fff;
-      font-size: 9.5pt;
-      line-height: 1.35;
+      font-size: 9pt;
+      line-height: 1.3;
+    }
+
+    .sheet h1 {
+      font-size: 18pt;
+    }
+
+    .sheet h2 {
+      font-size: 10.5pt;
+      margin-bottom: 3pt;
+    }
+
+    .sheet li + li {
+      margin-top: 1.5pt;
+    }
+
+    .sheet__diagram img {
+      max-height: 2.3in;
+      object-fit: contain;
     }
 
     .sheet__goal {
