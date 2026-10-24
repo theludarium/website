@@ -3,6 +3,7 @@ title: "Magic the Gathering Benefits: What a Card Game Taught Us"
 description: "The real Magic the Gathering benefits are not about cards. Deckbuilding, bluffing, patience: what thirty years of the game taught a generation of players."
 pubDate: 2026-10-21
 category: Magic & Cube
+games: [magic-the-gathering]
 tags: ["Magic the Gathering benefits", "what Magic teaches", "skills from Magic the Gathering", "is Magic good for you", "Magic and critical thinking", "lessons from card games", "Magic: The Gathering and Cube"]
 draft: false
 ---

@@ -3,6 +3,7 @@ title: "Codenames vs Decrypto: Two Word Games, Two Tables"
 description: "Codenames vs Decrypto, compared: players, time, teach time, and the very different feel of each. Which word game to buy for your party or your game group."
 pubDate: 2026-10-20
 category: Game Guides
+games: [codenames]
 tags: ["Codenames vs Decrypto", "best word party game", "Decrypto or Codenames", "team word games for adults", "Codenames alternatives", "word games for game night", "Comparisons"]
 draft: false
 ---
