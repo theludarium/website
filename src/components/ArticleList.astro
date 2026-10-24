@@ -20,11 +20,11 @@ const [featured, ...rest] = articles;
 {
   featured ? (
     <>
-      <div class="featured">
+      <div class="featured" data-pagefind-ignore>
         <ArticleCard article={featured} variant="featured" headingLevel="h2" />
       </div>
       {rest.length > 0 && (
-        <div class="article-grid">
+        <div class="article-grid" data-pagefind-ignore>
           {rest.map((article) => (
             <ArticleCard article={article} headingLevel="h2" />
           ))}

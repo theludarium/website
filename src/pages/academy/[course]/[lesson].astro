@@ -102,10 +102,12 @@ const structuredData = [
       <nav class="article__crumbs" aria-label="Breadcrumb">
         <a href="/academy/">Academy</a>
         <span aria-hidden="true">/</span>
-        <a href={courseUrl}>{course.title}</a>
+        <a href={courseUrl} data-pagefind-meta="category">
+          {course.title}
+        </a>
       </nav>
       {draft && <p class="article__draft"><span class="draft-badge">Draft</span> Only visible on previews. Set <code>draft: false</code> to publish.</p>}
-      <p class="lesson__badge">
+      <p class="lesson__badge" data-pagefind-ignore>
         <span class="lesson__level">Level {level} &middot; {levelName}</span>
         <span>Lesson {lessonNumber(lesson)} of {total}</span>
       </p>
@@ -123,7 +125,7 @@ const structuredData = [
     <div class:list={['container', 'article__layout', { 'has-toc': showToc }]}>
       {
         showToc && (
-          <aside class="article__toc">
+          <aside class="article__toc" data-pagefind-ignore>
             <TableOfContents headings={headings} title="In this lesson" />
           </aside>
         )
@@ -155,7 +157,7 @@ const structuredData = [
 
         {
           next && (
-            <section class="lesson__next" aria-labelledby="lesson-next-title">
+            <section class="lesson__next" aria-labelledby="lesson-next-title" data-pagefind-ignore>
               <p class="eyebrow">Next lesson</p>
               <h2 id="lesson-next-title">
                 {hasPage(next) ? <a href={lessonUrl(next)}>{next.data.title}</a> : next.data.title}
@@ -166,7 +168,7 @@ const structuredData = [
           )
         }
 
-        <nav class="lesson__pager" aria-label="Lessons">
+        <nav class="lesson__pager" aria-label="Lessons" data-pagefind-ignore>
           {
             prev ? (
               <div class="lesson__pager-item">
@@ -195,7 +197,7 @@ const structuredData = [
           }
         </nav>
 
-        <section class="article__signup lesson__signup" aria-labelledby="lesson-signup-title">
+        <section class="article__signup lesson__signup" aria-labelledby="lesson-signup-title" data-pagefind-ignore>
           <h2 id="lesson-signup-title">Get every lesson by email.</h2>
           <p>{course.promise} Free, one short lesson at a time.</p>
           <AcademyForm course={course.slug} id="lesson-signup" tone="plain" />

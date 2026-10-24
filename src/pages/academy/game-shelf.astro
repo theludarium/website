@@ -116,7 +116,7 @@ const structuredData = [
         <h2 id="hub-series-title">Six series, {total} articles</h2>
         {firstArticle.hasPage && <a class="text-link" href={articleUrl(firstArticle.article)}>Start with the first one</a>}
       </div>
-      <ol class="hub-series__list">
+      <ol class="hub-series__list" data-pagefind-ignore>
         {
           series.map((s) => (
             <li class="series" id={s.slug}>

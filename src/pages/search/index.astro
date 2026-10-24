@@ -1,43 +1,547 @@
 ---
+// Site search. Pagefind indexes the finished site at the end of `npm run build`
+// (dist/pagefind/), so search works on the live site and on previews but not
+// in `astro dev`, where the page says so. Results render in the site's own
+// style through Pagefind's JS API instead of its stock widget. The query and
+// section filter live in the URL (?q=, ?in=) so a search can be shared, the
+// back button works, and the header can link straight to a query.
 import BaseLayout from '@/layouts/BaseLayout.astro';
-import PageIntro from '@/components/PageIntro.astro';
+
+const suggestions = ['Catan', 'two player', 'cost per play', 'party games', 'cube draft', 'game night'];
+const browse = [
+  { href: '/articles/', title: 'Articles', text: 'Guides, game night ideas, and the Game Shelf.' },
+  { href: '/academy/', title: 'The Academy', text: 'Free courses, one short lesson at a time.' },
+  { href: '/card-catalogue/', title: 'Card Catalogue', text: 'Find a game by how it feels at the table.' },
+  { href: '/play/', title: 'Game tools', text: 'Brackets, RPG demos, and more to play with.' },
+];
 ---
 
-<BaseLayout
-  title="Search"
-  description="Search The Ludarium for articles, game guides, tools, and Academy lessons."
-  noindex
->
-  <PageIntro eyebrow="Search" title="Find something to play." lede="Search is coming soon. It will cover articles, guides, tools, and Academy lessons.">
-    <form class="search-form" role="search" action="/search/" method="get">
-      <label class="visually-hidden" for="search-q">Search the site</label>
-      <input id="search-q" type="search" name="q" placeholder="Try &quot;two player games&quot;" disabled />
-      <button class="button" type="submit" disabled>Search</button>
-    </form>
-  </PageIntro>
+<BaseLayout title="Search" description="Search The Ludarium for articles, Academy lessons, game tools, and more." noindex>
+  <section class="search-hero">
+    <div class="container">
+      <p class="eyebrow">Search</p>
+      <h1>Find something to play.</h1>
+      <form class="search-form" role="search" action="/search/" method="get" data-search-form>
+        <label class="visually-hidden" for="search-q">Search the site</label>
+        <div class="search-form__row">
+          <input
+            id="search-q"
+            type="search"
+            name="q"
+            placeholder="Try &quot;two player games&quot;"
+            autocomplete="off"
+            autocapitalize="off"
+            spellcheck="false"
+            enterkeyhint="search"
+          />
+          <button class="button" type="submit">Search</button>
+        </div>
+      </form>
+      <p class="search-status" data-search-status aria-live="polite"></p>
+    </div>
+  </section>
+
+  <section class="container search-body">
+    <div class="search-filters" data-search-filters hidden></div>
+
+    <ol class="search-results" data-search-results aria-label="Search results"></ol>
+
+    <p class="search-more">
+      <button class="button button--ghost" type="button" data-search-more hidden>Show more results</button>
+    </p>
+
+    <div class="search-none" data-search-none hidden>
+      <h2>Nothing matched &ldquo;<span data-search-none-query></span>&rdquo;.</h2>
+      <p>Try fewer words, a different spelling, or one of the searches below.</p>
+    </div>
+
+    <div class="search-empty" data-search-empty>
+      <h2>Not sure where to start?</h2>
+      <ul class="search-chips" aria-label="Suggested searches">
+        {
+          suggestions.map((s) => (
+            <li>
+              <a href={`/search/?q=${encodeURIComponent(s)}`} data-q={s}>
+                {s}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+      <div class="search-browse">
+        {
+          browse.map((b) => (
+            <a class="card search-browse__card" href={b.href}>
+              <h3>{b.title}</h3>
+              <p>{b.text}</p>
+            </a>
+          ))
+        }
+      </div>
+    </div>
+
+    <noscript>
+      <p class="search-noscript">Search needs JavaScript. In the meantime, <a href="/articles/">browse the articles</a> or <a href="/academy/">the Academy</a>.</p>
+    </noscript>
+  </section>
 </BaseLayout>
 
+<script>
+  import { SEARCH_SECTIONS } from '@/lib/search';
+
+  interface SubResult {
+    title: string;
+    url: string;
+    excerpt: string;
+  }
+  interface ResultData {
+    url: string;
+    excerpt: string;
+    meta: Record<string, string>;
+    sub_results: SubResult[];
+  }
+  interface Result {
+    id: string;
+    data: () => Promise<ResultData>;
+  }
+  interface Response {
+    results: Result[];
+    unfilteredResultCount: number;
+    totalFilters: Record<string, Record<string, number>>;
+  }
+  interface Pagefind {
+    init: () => Promise<void>;
+    filters: () => Promise<Record<string, Record<string, number>>>;
+    debouncedSearch: (query: string, options?: Record<string, unknown>, debounceMs?: number) => Promise<Response | null>;
+  }
+
+  const form = document.querySelector<HTMLFormElement>('[data-search-form]');
+  const input = document.querySelector<HTMLInputElement>('#search-q');
+  const statusEl = document.querySelector<HTMLElement>('[data-search-status]');
+  const filtersEl = document.querySelector<HTMLElement>('[data-search-filters]');
+  const resultsEl = document.querySelector<HTMLOListElement>('[data-search-results]');
+  const moreBtn = document.querySelector<HTMLButtonElement>('[data-search-more]');
+  const emptyEl = document.querySelector<HTMLElement>('[data-search-empty]');
+  const noneEl = document.querySelector<HTMLElement>('[data-search-none]');
+  const noneQuery = document.querySelector<HTMLElement>('[data-search-none-query]');
+
+  if (form && input && statusEl && filtersEl && resultsEl && moreBtn && emptyEl && noneEl && noneQuery) {
+    const PAGE = 10;
+    let pagefind: Pagefind | null = null;
+    let results: Result[] = [];
+    let shown = 0;
+    let section = '';
+    let ticket = 0;
+
+    const el = <K extends keyof HTMLElementTagNameMap>(tag: K, className?: string, text?: string) => {
+      const node = document.createElement(tag);
+      if (className) node.className = className;
+      if (text !== undefined) node.textContent = text;
+      return node;
+    };
+
+    const readUrl = () => {
+      const params = new URLSearchParams(location.search);
+      return { q: params.get('q') ?? '', section: params.get('in') ?? '' };
+    };
+
+    const writeUrl = (q: string, replace: boolean) => {
+      const params = new URLSearchParams();
+      if (q) params.set('q', q);
+      if (section) params.set('in', section);
+      const next = params.toString() ? `${location.pathname}?${params}` : location.pathname;
+      if (next === `${location.pathname}${location.search}`) return;
+      history[replace ? 'replaceState' : 'pushState'](null, '', next);
+    };
+
+    const renderFilters = (res: Response) => {
+      const counts = res.totalFilters.section ?? {};
+      filtersEl.replaceChildren();
+      const pill = (label: string, value: string, count: number) => {
+        const button = el('button', 'search-filter');
+        button.type = 'button';
+        button.setAttribute('aria-pressed', value === section ? 'true' : 'false');
+        button.append(label, ' ', el('span', 'search-filter__count', String(count)));
+        button.addEventListener('click', () => {
+          section = value === section ? '' : value;
+          writeUrl(input.value.trim(), false);
+          void run(input.value);
+        });
+        return button;
+      };
+      filtersEl.append(pill('All', '', res.unfilteredResultCount));
+      for (const name of SEARCH_SECTIONS) {
+        const count = counts[name] ?? 0;
+        if (count > 0 || name === section) filtersEl.append(pill(name, name, count));
+      }
+      filtersEl.hidden = res.unfilteredResultCount === 0;
+    };
+
+    const renderResult = (data: ResultData) => {
+      const item = el('li', 'result');
+      const eyebrow = [data.meta.section, data.meta.category].filter(Boolean).join(' · ');
+      if (eyebrow) item.append(el('p', 'eyebrow result__eyebrow', eyebrow));
+      const heading = el('h2', 'result__title');
+      const link = el('a');
+      link.href = data.url;
+      link.textContent = data.meta.title || data.url;
+      heading.append(link);
+      item.append(heading);
+      const excerpt = el('p', 'result__excerpt');
+      excerpt.innerHTML = data.excerpt; // Pagefind's excerpt: escaped text from our own pages, with <mark> around matches.
+      item.append(excerpt);
+      const subs = (data.sub_results ?? []).filter((s) => s.url.includes('#') && s.title).slice(0, 3);
+      if (subs.length > 0) {
+        const list = el('ul', 'result__subs');
+        list.setAttribute('aria-label', 'Matching sections');
+        for (const sub of subs) {
+          const li = el('li');
+          const a = el('a');
+          a.href = sub.url;
+          a.textContent = sub.title;
+          li.append(a);
+          list.append(li);
+        }
+        item.append(list);
+      }
+      return item;
+    };
+
+    const renderMore = async (myTicket: number) => {
+      const batch = results.slice(shown, shown + PAGE);
+      const data = await Promise.all(batch.map((r) => r.data()));
+      if (myTicket !== ticket) return;
+      for (const d of data) resultsEl.append(renderResult(d));
+      shown += batch.length;
+      moreBtn.hidden = shown >= results.length;
+    };
+
+    const showEmpty = () => {
+      results = [];
+      shown = 0;
+      resultsEl.replaceChildren();
+      filtersEl.hidden = true;
+      moreBtn.hidden = true;
+      noneEl.hidden = true;
+      emptyEl.hidden = false;
+      statusEl.textContent = '';
+      document.title = 'Search | The Ludarium';
+    };
+
+    const run = async (raw: string) => {
+      const q = raw.trim();
+      const myTicket = ++ticket;
+      if (!q) {
+        showEmpty();
+        return;
+      }
+      if (!pagefind) return;
+      document.title = `${q}: Search | The Ludarium`;
+      const res = await pagefind.debouncedSearch(q, section ? { filters: { section } } : {}, 200);
+      if (res === null || myTicket !== ticket) return;
+      results = res.results;
+      shown = 0;
+      resultsEl.replaceChildren();
+      renderFilters(res);
+      const n = results.length;
+      statusEl.textContent = n > 0 ? `${n} ${n === 1 ? 'result' : 'results'}${section ? ` in ${section}` : ''} for “${q}”` : '';
+      emptyEl.hidden = true;
+      noneEl.hidden = n > 0;
+      if (n === 0) noneQuery.textContent = q;
+      await renderMore(myTicket);
+    };
+
+    const load = async () => {
+      try {
+        // A variable path keeps Vite and TypeScript from resolving the module at build time; it only exists in dist/.
+        const path = '/pagefind/pagefind.js';
+        const mod = (await import(/* @vite-ignore */ path)) as Pagefind;
+        await mod.init();
+        // Loads the filter index once, so searches report per-section counts for the pills.
+        await mod.filters();
+        pagefind = mod;
+      } catch {
+        statusEl.textContent =
+          'Search is not available in this build. The index is made when the site is published, so it works on the live site and on previews.';
+        input.disabled = true;
+      }
+    };
+
+    input.addEventListener('input', () => {
+      writeUrl(input.value.trim(), true);
+      void run(input.value);
+    });
+    form.addEventListener('submit', (event) => {
+      event.preventDefault();
+      writeUrl(input.value.trim(), false);
+      void run(input.value);
+    });
+    moreBtn.addEventListener('click', () => void renderMore(ticket));
+    window.addEventListener('popstate', () => {
+      const state = readUrl();
+      section = state.section;
+      input.value = state.q;
+      void run(state.q);
+    });
+    // Suggested searches run in place instead of reloading the page.
+    emptyEl.addEventListener('click', (event) => {
+      const link = (event.target as Element).closest<HTMLAnchorElement>('a[data-q]');
+      if (!link) return;
+      event.preventDefault();
+      section = '';
+      input.value = link.dataset.q ?? '';
+      writeUrl(input.value, false);
+      void run(input.value);
+      input.focus();
+    });
+    document.addEventListener('keydown', (event) => {
+      if (event.key === '/' && document.activeElement !== input && !(event.target instanceof HTMLInputElement)) {
+        event.preventDefault();
+        input.focus();
+      }
+    });
+
+    const start = readUrl();
+    section = start.section;
+    input.value = start.q;
+    void load().then(() => {
+      if (pagefind && start.q) void run(start.q);
+      if (!input.disabled) input.focus();
+    });
+  }
+</script>
+
 <style>
+  .search-hero {
+    padding-block: var(--space-8) var(--space-5);
+  }
+
+  .search-hero h1 {
+    font-size: var(--text-4xl);
+  }
+
   .search-form {
+    max-width: 40rem;
+  }
+
+  .search-form__row {
     display: flex;
     flex-wrap: wrap;
     gap: var(--space-2);
-    max-width: 36rem;
-    margin-top: var(--space-5);
+    padding: 6px;
+    border-radius: var(--radius-pill);
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    box-shadow: var(--shadow-sm);
   }
 
   .search-form input {
-    flex: 1 1 14rem;
-    padding: 0.7em 1.1em;
-    border: 1px solid var(--color-border);
+    flex: 1 1 12rem;
+    min-width: 0;
+    padding: 0.7em 1em;
+    border: 0;
     border-radius: var(--radius-pill);
-    background: var(--color-surface);
+    background: transparent;
     color: var(--color-text);
     font: inherit;
+    font-size: var(--text-lg);
   }
 
-  .search-form [disabled] {
+  .search-form input::placeholder {
+    color: var(--color-text-muted);
+  }
+
+  .search-form input:focus-visible {
+    outline-offset: 0;
+  }
+
+  .search-form input:disabled {
     opacity: 0.6;
-    cursor: not-allowed;
+  }
+
+  .search-status {
+    min-height: 1.5em;
+    margin: var(--space-4) 0 0 var(--space-4);
+    color: var(--color-text-muted);
+  }
+
+  .search-body {
+    padding-bottom: var(--space-8);
+  }
+
+  .search-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+    margin-bottom: var(--space-6);
+  }
+
+  .search-filters[hidden] {
+    display: none;
+  }
+
+  .search-results {
+    display: grid;
+    gap: var(--space-4);
+    max-width: 48rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .search-more {
+    margin: var(--space-6) 0 0;
+  }
+
+  .search-more button[hidden] {
+    display: none;
+  }
+
+  .search-none h2,
+  .search-empty h2 {
+    margin: 0 0 var(--space-3);
+    font-size: var(--text-2xl);
+  }
+
+  .search-none p {
+    color: var(--color-text-muted);
+  }
+
+  .search-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+    margin: 0 0 var(--space-6);
+    padding: 0;
+    list-style: none;
+  }
+
+  .search-chips a {
+    display: inline-block;
+    padding: 0.45em 1em;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-pill);
+    color: var(--color-text);
+    font-size: var(--text-sm);
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .search-chips a:hover {
+    border-color: var(--color-primary);
+  }
+
+  .search-browse {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 16rem), 1fr));
+    gap: var(--space-4);
+  }
+
+  .search-browse__card {
+    text-decoration: none;
+  }
+
+  .search-browse__card h3 {
+    margin: 0 0 var(--space-2);
+    font-size: var(--text-xl);
+  }
+
+  .search-browse__card p {
+    margin: 0;
+    color: var(--color-text-muted);
+  }
+
+  .search-noscript {
+    color: var(--color-text-muted);
+  }
+</style>
+
+<!-- Results and filter pills are built by the script above, so Astro's scoped
+     styles cannot reach them. These rules are global, kept under .search-body. -->
+<style is:global>
+  .search-body .search-filter {
+    padding: 0.45em 1em;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-pill);
+    background: transparent;
+    color: var(--color-text);
+    font: inherit;
+    font-size: var(--text-sm);
+    font-weight: 600;
+    cursor: pointer;
+    transition: background var(--transition), border-color var(--transition);
+  }
+
+  .search-body .search-filter:hover {
+    border-color: var(--color-primary);
+  }
+
+  .search-body .search-filter[aria-pressed='true'] {
+    background: var(--color-primary);
+    border-color: var(--color-primary);
+    color: var(--color-on-primary);
+  }
+
+  .search-body .search-filter__count {
+    opacity: 0.7;
+    font-weight: 500;
+  }
+
+  .search-body .result {
+    padding: var(--space-5) var(--space-6);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-card);
+    background: var(--color-surface);
+  }
+
+  .search-body .result__eyebrow {
+    margin-bottom: var(--space-2);
+  }
+
+  .search-body .result__title {
+    margin: 0;
+    font-size: var(--text-xl);
+  }
+
+  .search-body .result__title a {
+    text-decoration: none;
+  }
+
+  .search-body .result__title a:hover {
+    text-decoration: underline;
+  }
+
+  .search-body .result__excerpt {
+    margin: var(--space-2) 0 0;
+    color: var(--color-text-muted);
+  }
+
+  .search-body .result__excerpt mark {
+    padding: 0 0.15em;
+    border-radius: 4px;
+    background: var(--color-accent-soft);
+    color: var(--color-text);
+  }
+
+  .search-body .result__subs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+    margin: var(--space-3) 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .search-body .result__subs a {
+    display: inline-block;
+    padding: 0.25em 0.75em;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-pill);
+    font-size: var(--text-sm);
+    text-decoration: none;
+  }
+
+  .search-body .result__subs a:hover {
+    border-color: var(--color-primary);
   }
 </style>
