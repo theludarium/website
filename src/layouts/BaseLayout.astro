@@ -21,9 +21,19 @@ interface Props {
     section: string;
     tags: string[];
   };
+  /**
+   * Games this page is about, as On the Table slugs. Becomes <meta name="ott:games">,
+   * which /ott.js counts as an engaged view of each game (15 seconds visible or half the page scrolled).
+   */
+  games?: string[];
+  /**
+   * Set on a Kit form's thanks page (its success state): the games the signup is for.
+   * /ott.js counts one signup for each when the page loads.
+   */
+  ottSignup?: string[];
 }
 
-const { title, description = SITE.description, noindex = false, image, imageAlt, article } = Astro.props;
+const { title, description = SITE.description, noindex = false, image, imageAlt, article, games = [], ottSignup = [] } = Astro.props;
 
 const pageTitle = title ? `${title} | ${SITE.name}` : `${SITE.name} | ${SITE.shortMtp}`;
 // Site search (Pagefind) indexes <main> on every page except noindex ones, tagged with its section.
@@ -98,6 +108,9 @@ const siteStructuredData = [
         </>
       )
     }
+    {games.length > 0 && <meta name="ott:games" content={games.join(',')} />}
+    {ottSignup.length > 0 && <meta name="ott:signup" content={ottSignup.join(',')} />}
+    <script is:inline defer src="/ott.js"></script>
     <slot name="head" />
 
     <script is:inline>

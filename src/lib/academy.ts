@@ -36,6 +36,8 @@ export interface Course {
   levels: Level[];
   /** The article the course grew out of. */
   companionArticle: { href: string; title: string };
+  /** The games the course teaches, as On the Table slugs (see `games` in src/content.config.ts). */
+  games: string[];
 }
 
 export const COURSES: Course[] = [
@@ -63,6 +65,7 @@ export const COURSES: Course[] = [
       href: '/articles/catan-tournament-qualifier/',
       title: 'I Came to Cube. I’m Staying for Catan.',
     },
+    games: ['catan'],
   },
 ];
 
@@ -70,6 +73,11 @@ export function courseBySlug(slug: string): Course {
   const found = COURSES.find((c) => c.slug === slug);
   if (!found) throw new Error(`Unknown Academy course: ${slug}`);
   return found;
+}
+
+/** A lesson page's games: its course's, plus any the lesson lists itself. */
+export function lessonGames(course: Course, lesson: Lesson): string[] {
+  return [...new Set([...course.games, ...lesson.data.games])];
 }
 
 /** The lesson's URL slug: the file name without its course folder. */
