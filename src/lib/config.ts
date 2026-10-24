@@ -32,7 +32,7 @@ export const KIT_OFFER_FORMS = {
     // game-shelf-shared-shelf (which starts the six chained sequences) and adds Welcome.
     action: 'https://app.kit.com/forms/10089038/subscriptions',
     heading: 'Get the whole series by email.',
-    lede: 'All six series, two short emails a week, each one a quick read that links to the full article. Join The Ludarium newsletter and the first one arrives tomorrow morning.',
+    lede: 'All six series, two short emails a week, each one a quick read that links to the full article. Join The Ludarium newsletter and the first one arrives the next Tuesday or Friday morning.',
     buttonLabel: 'Send me the series',
   },
 } satisfies Record<string, { action: string; heading: string; lede: string; buttonLabel: string }>;
