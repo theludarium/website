@@ -71,6 +71,7 @@ const structuredData = [
 <BaseLayout
   title={`${course.title}: Free Course`}
   description="A free Catan strategy course in 40 short lessons, from opening the box to what it takes to win a National Championship. One lesson at a time, by email."
+  games={course.games}
 >
   <script slot="head" type="application/ld+json" set:html={JSON.stringify(structuredData)} />
 

@@ -3,6 +3,7 @@ title: "How to Teach Magic the Gathering: Start With a Cube"
 description: "Wondering how to teach Magic the Gathering to a friend? Skip the starter decks and the rulebook. A cube draft teaches the game faster, and here's why."
 pubDate: 2026-10-21
 category: Magic & Cube
+games: [magic-the-gathering]
 tags: ["how to teach Magic the Gathering", "learn Magic the Gathering", "teaching Magic to beginners", "best way to learn MTG", "Magic for new players", "cube for beginners", "Magic: The Gathering and Cube"]
 draft: false
 ---

@@ -3,6 +3,7 @@ title: "Pandemic Strategy: Beating the Game on Heroic Difficulty"
 description: "Pandemic board game strategy for the hardest setting: how to split roles, manage the infection deck, time cures, and stop losing to the outbreak chain."
 pubDate: 2026-10-20
 category: Game Guides
+games: [pandemic]
 tags: ["Pandemic board game strategy", "Pandemic strategy", "how to win Pandemic", "Pandemic heroic difficulty", "Pandemic roles ranked", "Pandemic epidemic cards", "Strategy guides"]
 draft: false
 ---

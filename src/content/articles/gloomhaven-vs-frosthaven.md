@@ -3,6 +3,7 @@ title: "Gloomhaven vs Frosthaven vs Jaws of the Lion: Start Here"
 description: "Gloomhaven vs Frosthaven vs Jaws of the Lion, compared on price, scenarios, teach time, and commitment. Which Haven campaign to start with as a group, and why."
 pubDate: 2026-10-22
 category: Game Guides
+games: [gloomhaven, frosthaven, gloomhaven-jaws-of-the-lion]
 tags: ["Gloomhaven vs Frosthaven", "Jaws of the Lion vs Gloomhaven", "which Gloomhaven to buy first", "Frosthaven for beginners", "Gloomhaven second edition", "best campaign board game", "Comparisons"]
 draft: false
 ---

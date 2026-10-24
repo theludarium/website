@@ -3,6 +3,7 @@ title: "Ticket to Ride Strategy: Routes, Blocking, Drawing Tickets"
 description: "Ticket to Ride strategy that holds up at a real table: picking starting tickets, when long routes beat short ones, when to block, and when to draw more."
 pubDate: 2026-10-20
 category: Game Guides
+games: [ticket-to-ride]
 tags: ["Ticket to Ride strategy", "Ticket to Ride tips", "Ticket to Ride destination tickets", "how to win Ticket to Ride", "Ticket to Ride blocking", "Ticket to Ride longest route", "Strategy guides"]
 draft: false
 ---
