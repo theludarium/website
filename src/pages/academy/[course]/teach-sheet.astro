@@ -1,0 +1,277 @@
+---
+// The printable teach sheet for a game course: setup, a turn, scoring, the end
+// of the game, and three tips on one page, with the original setup diagram,
+// the unofficial notice, and the site URL. On screen it adds a print button,
+// the PDF link, and the course signup; in print only the sheet shows.
+// scripts/teach-sheets.mjs prints these pages to PDFs in public/academy/<slug>/.
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import CourseForm from '@/components/CourseForm.astro';
+import { courseUrl, getGameCourses, setupDiagramUrl, teachSheetPdfUrl, type GameCourse } from '@/lib/courses';
+
+export async function getStaticPaths() {
+  return (await getGameCourses()).map((course) => ({ params: { course: course.id }, props: { course } }));
+}
+
+interface Props {
+  course: GameCourse;
+}
+
+const { course } = Astro.props;
+const d = course.data;
+const s = d.teachSheet;
+const home = courseUrl(course);
+---
+
+<BaseLayout
+  title={`${d.game} Teach Sheet: Teach It in Ten Minutes`}
+  description={`A free one-page ${d.game} teach sheet from The Ludarium: setup, a turn, scoring, and three tips, ready to print for your next game night.`.slice(0, 160)}
+  noindex={d.draft}
+>
+  <div class="container sheet-tools" data-pagefind-ignore>
+    <a href={home}>&larr; {d.title}</a>
+    <span class="sheet-tools__actions">
+      <button class="button button--ghost" type="button" onclick="window.print()">Print</button>
+      <a class="button" href={teachSheetPdfUrl(course)} download>Download PDF</a>
+    </span>
+  </div>
+
+  <article class="sheet" aria-labelledby="sheet-title">
+    <header class="sheet__head">
+      <div>
+        <p class="sheet__eyebrow">The Ludarium &middot; Teach sheet</p>
+        <h1 id="sheet-title">Teach {d.game} in ten minutes</h1>
+        <p class="sheet__facts">{d.players} players &middot; {d.playTime}{d.ages ? ` · ${d.ages}` : ''}</p>
+      </div>
+    </header>
+
+    <p class="sheet__goal"><strong>The goal:</strong> {s.goal}</p>
+
+    <div class="sheet__grid">
+      <div class="sheet__col">
+        <figure class="sheet__diagram">
+          <img src={setupDiagramUrl(course)} alt={d.diagramAlt} width="480" height="320" />
+        </figure>
+        <section>
+          <h2>On your turn</h2>
+          <ol>{s.turn.map((step) => <li>{step}</li>)}</ol>
+        </section>
+        <section class="sheet__tips">
+          <h2>Three tips for your first game</h2>
+          <ol>{s.tips.map((tip) => <li>{tip}</li>)}</ol>
+        </section>
+      </div>
+      <div class="sheet__col">
+        <section>
+          <h2>Setup</h2>
+          <ol>{s.setup.map((step) => <li>{step}</li>)}</ol>
+        </section>
+        <section>
+          <h2>Scoring</h2>
+          <ul>{s.scoring.map((line) => <li>{line}</li>)}</ul>
+          <p class="sheet__end"><strong>Game end:</strong> {s.endGame}</p>
+        </section>
+      </div>
+    </div>
+
+    <footer class="sheet__foot">
+      <p>Free course: theludarium.com{home}</p>
+      <p>{d.notice} Rules as of the {d.rulesEdition}.</p>
+    </footer>
+  </article>
+
+  <section class="container sheet-signup" data-pagefind-ignore>
+    <h2>Want the rest of the course?</h2>
+    <p>{d.promise}</p>
+    <CourseForm course={course.id} id="sheet-signup" buttonLabel={d.format === 'tcg' ? 'Send me the course' : 'Send me lesson one, free'} />
+  </section>
+</BaseLayout>
+
+<style>
+  .sheet-tools {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-3);
+    padding-block: var(--space-6) var(--space-4);
+  }
+
+  .sheet-tools__actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+  }
+
+  .sheet {
+    max-width: 52rem;
+    margin: 0 auto var(--space-7);
+    padding: var(--space-6);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-card);
+    background: var(--brand-parchment);
+    color: var(--brand-walnut);
+    font-size: 0.95rem;
+    line-height: 1.45;
+  }
+
+  .sheet__eyebrow {
+    margin: 0;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #7f5510;
+  }
+
+  .sheet h1 {
+    margin: var(--space-1) 0 var(--space-1);
+    font-size: clamp(1.6rem, 1.2rem + 1.5vw, 2.2rem);
+    color: var(--brand-walnut);
+  }
+
+  .sheet__facts {
+    margin: 0;
+    font-weight: 600;
+    color: #6b5d4f;
+  }
+
+  .sheet__goal {
+    margin: var(--space-4) 0;
+    padding: var(--space-3) var(--space-4);
+    border-left: 4px solid var(--brand-lamplight);
+    background: #f3e2c0;
+  }
+
+  .sheet__grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-4) var(--space-5);
+  }
+
+  .sheet__col {
+    display: grid;
+    gap: var(--space-4);
+    align-content: start;
+  }
+
+  .sheet h2 {
+    margin: 0 0 var(--space-2);
+    font-size: 1.1rem;
+    color: var(--brand-felt);
+  }
+
+  .sheet ol,
+  .sheet ul {
+    margin: 0;
+    padding-left: 1.2em;
+  }
+
+  .sheet li + li {
+    margin-top: 0.25em;
+  }
+
+  .sheet__diagram {
+    margin: 0;
+  }
+
+  .sheet__diagram img {
+    width: 100%;
+    height: auto;
+    border: 1px solid #ddd3c3;
+    border-radius: var(--radius-md);
+  }
+
+  .sheet__end {
+    margin: var(--space-2) 0 0;
+  }
+
+  .sheet__tips {
+    padding: var(--space-3) var(--space-4);
+    border: 1px solid var(--brand-felt);
+    border-radius: var(--radius-md);
+  }
+
+  .sheet__foot {
+    margin-top: var(--space-5);
+    padding-top: var(--space-3);
+    border-top: 1px solid #ddd3c3;
+    font-size: 0.75rem;
+    color: #6b5d4f;
+  }
+
+  .sheet__foot p {
+    margin: 0;
+  }
+
+  .sheet__foot p:first-child {
+    font-weight: 700;
+    color: var(--brand-felt);
+  }
+
+  .sheet-signup {
+    max-width: calc(var(--width-content) + 2 * var(--gutter));
+    padding-bottom: var(--space-8);
+  }
+
+  .sheet-signup h2 {
+    font-size: var(--text-2xl);
+  }
+
+  @media (max-width: 40rem) {
+    .sheet__grid {
+      grid-template-columns: 1fr;
+    }
+
+    .sheet {
+      padding: var(--space-4);
+    }
+  }
+
+  @media print {
+    @page {
+      size: letter;
+      margin: 0.45in;
+    }
+
+    :global(.site-header),
+    :global(.site-footer),
+    :global(.consent),
+    :global(.skip-link),
+    :global(.preview-note),
+    .sheet-tools,
+    .sheet-signup {
+      display: none !important;
+    }
+
+    :global(body) {
+      background: #fff !important;
+    }
+
+    .sheet {
+      max-width: none;
+      margin: 0;
+      padding: 0;
+      border: 0;
+      background: #fff;
+      font-size: 9.5pt;
+      line-height: 1.35;
+    }
+
+    .sheet__goal {
+      margin: 8pt 0;
+    }
+
+    .sheet__col {
+      gap: 9pt;
+    }
+
+    .sheet__grid {
+      grid-template-columns: 1fr 1fr;
+    }
+
+    .sheet section,
+    .sheet__diagram {
+      break-inside: avoid;
+    }
+  }
+</style>

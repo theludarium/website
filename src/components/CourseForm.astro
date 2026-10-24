@@ -1,0 +1,85 @@
+---
+// Signup for a game course (src/content/courses/). Posts straight to the
+// course's Kit form; until that form exists (KIT_COURSE_FORMS in
+// src/lib/config.ts), it posts to the general newsletter form so the email is
+// kept, and previews say so. `kind` picks the course form or the TCG set-alerts form.
+import PreviewNote from '@/components/PreviewNote.astro';
+import { KIT_COURSE_FORMS, KIT_NEWSLETTER_FORM } from '@/lib/config';
+
+interface Props {
+  course: string;
+  /** Unique per page. */
+  id: string;
+  buttonLabel?: string;
+  kind?: 'course' | 'alerts';
+  note?: string;
+}
+
+const { course, id, buttonLabel = 'Send me lesson one, free', kind = 'course', note = 'Free. Unsubscribe anytime.' } = Astro.props;
+const kit = KIT_COURSE_FORMS[course];
+const own = kind === 'alerts' ? kit?.alerts : kit?.action;
+const action = own || KIT_NEWSLETTER_FORM.action || '/newsletter/';
+const method = own || KIT_NEWSLETTER_FORM.action ? 'post' : 'get';
+---
+
+<form class="course-form" action={action} method={method}>
+  <div class="course-form__row">
+    <label for={`${id}-name`}>
+      First name
+      <input id={`${id}-name`} name="fields[first_name]" autocomplete="given-name" maxlength="80" required />
+    </label>
+    <label for={`${id}-email`}>
+      Email
+      <input id={`${id}-email`} name="email_address" type="email" autocomplete="email" maxlength="200" required />
+    </label>
+  </div>
+  <button class="button" type="submit">{buttonLabel}</button>
+  <p class="course-form__note">{note} <a href="/privacy/">Privacy</a></p>
+</form>
+{
+  !own && (
+    <PreviewNote>
+      The Kit form for this course is not set yet, so this signup joins the general newsletter. Add
+      the {kind === 'alerts' ? 'alerts' : 'course'} form for "{course}" to KIT_COURSE_FORMS in src/lib/config.ts.
+    </PreviewNote>
+  )
+}
+
+<style>
+  .course-form {
+    display: grid;
+    gap: var(--space-3);
+    justify-items: start;
+    max-width: 34rem;
+  }
+
+  .course-form__row {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 12rem), 1fr));
+    gap: var(--space-3);
+    width: 100%;
+  }
+
+  .course-form label {
+    display: grid;
+    gap: var(--space-1);
+    font-size: var(--text-sm);
+    font-weight: 600;
+  }
+
+  .course-form input {
+    padding: 0.7em 1em;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    background: var(--color-surface);
+    color: var(--color-text);
+    font: inherit;
+    font-weight: 400;
+  }
+
+  .course-form__note {
+    margin: 0;
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+</style>

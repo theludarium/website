@@ -99,3 +99,27 @@ export const MALAPHOR_KINDLE_URL = 'https://www.amazon.com/dp/B0HNTT7KKV';
 export const KIT_ACADEMY_FORMS: Record<string, { action: string }> = {
   catan: { action: 'https://app.kit.com/forms/10083674/subscriptions' },
 };
+
+/**
+ * Kit forms for the game courses (src/content/courses/), keyed by course slug.
+ * `action` is the "Academy: <Game>" form (tags course-<slug>, or tcg-<slug> for
+ * trading card games); `alerts` is the optional set-alerts form for TCG courses.
+ * Until a course has an entry, its signup posts to the general newsletter form
+ * so no email is lost, and previews show a reminder.
+ */
+export const KIT_COURSE_FORMS: Record<string, { action: string; alerts?: string }> = {};
+
+/**
+ * The Ludometer: The Ludarium's weekly game index (workers/ludometer/README.md).
+ * Its pages build only on previews until `live` is true, which waits on BGG's
+ * written approval of the commercial license. `api` is the ludometer Worker's
+ * origin (workers/ludometer/), blank until it is deployed. `weeklyForm` is the
+ * Kit form tagged index-weekly; `watchForm` the "Watch this game" form.
+ */
+export const LUDOMETER = {
+  live: false,
+  api: '',
+  weeklyForm: '',
+  watchForm: '',
+};
+

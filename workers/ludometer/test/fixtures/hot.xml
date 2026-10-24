@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Synthetic test fixture shaped like BGG XML API2 /hot output. Values are made up. -->
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item id="1001" rank="1">
+    <thumbnail value="https://example.test/t1.jpg" />
+    <name value="Feather Engine" />
+    <yearpublished value="2019" />
+  </item>
+  <item id="1002" rank="2">
+    <thumbnail value="https://example.test/t2.jpg" />
+    <name value="The Quiet Crew &amp; Friends" />
+    <yearpublished value="2021" />
+  </item>
+  <item id="1005" rank="3">
+    <thumbnail value="https://example.test/t5.jpg" />
+    <name value="Lantern Harbor" />
+  </item>
+</items>

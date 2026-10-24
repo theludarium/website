@@ -8,8 +8,11 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import { COURSES, getAllLessons, lessonUrl } from '@/lib/academy';
 import { articleUrl, SHOW_DRAFTS } from '@/lib/articles';
 import { GAME_SHELF_COURSE, GAME_SHELF_SERIES } from '@/lib/game-shelf';
+import { FORMAT_LABEL, courseLessonUrl, courseTrack, courseUrl, getCourseLessons, getGameCourses, lessonHasPage } from '@/lib/courses';
 
 interface CatalogCard {
+  /** Catalog section the card sits in. */
+  group: 'Board games' | 'Trading card games' | 'Game library';
   track: string;
   title: string;
   href: string;
@@ -26,6 +29,7 @@ const lessonCourses: CatalogCard[] = await Promise.all(
     const live = lessons.filter((l) => !l.data.draft);
     const first = live[0];
     return {
+      group: 'Board games' as const,
       track: 'Game strategy',
       title: course.title,
       href: `/academy/${course.slug}/`,
@@ -41,6 +45,7 @@ const shelfSlugs = GAME_SHELF_SERIES.flatMap((s) => s.articles.map((a) => a.slug
 const shelfLive = shelfSlugs.filter((slug) => articles.find((a) => a.id === slug && !a.data.draft));
 const shelfFirst = articles.find((a) => a.id === shelfSlugs[0]);
 const shelfCourse: CatalogCard = {
+  group: 'Game library',
   track: GAME_SHELF_COURSE.track,
   title: GAME_SHELF_COURSE.title,
   href: `/academy/${GAME_SHELF_COURSE.slug}/`,
@@ -52,7 +57,27 @@ const shelfCourse: CatalogCard = {
       : undefined,
 };
 
-const catalog = [...lessonCourses, shelfCourse];
+const gameCourses: CatalogCard[] = await Promise.all(
+  (await getGameCourses()).map(async (course) => {
+    const lessons = await getCourseLessons(course.id);
+    const first = lessons.find((l) => l.data.order === 1);
+    const d = course.data;
+    return {
+      group: courseTrack(course),
+      track: `${d.game} · ${FORMAT_LABEL[d.format]}`,
+      title: d.title,
+      href: courseUrl(course),
+      description: d.description,
+      meta: d.format === 'teach-tonight' ? 'A printable teach sheet and two short emails.' : `${lessons.length} lessons and a printable teach sheet.`,
+      first: first && lessonHasPage(first) ? { label: 'Read lesson one', href: courseLessonUrl(first) } : undefined,
+    };
+  }),
+);
+
+const catalog = [...lessonCourses, ...gameCourses, shelfCourse];
+const groups = (['Board games', 'Trading card games', 'Game library'] as const)
+  .map((name) => ({ name, cards: catalog.filter((c) => c.group === name) }))
+  .filter((g) => g.cards.length > 0);
 ---
 
 <BaseLayout
@@ -77,27 +102,32 @@ const catalog = [...lessonCourses, shelfCourse];
         <h2 id="academy-catalog-title">Courses</h2>
         <p>Every course is free to read, start to finish.</p>
       </div>
-      <div class="academy-catalog__grid">
-        {
-          catalog.map((course) => (
-            <article class="card academy-course">
-              <p class="eyebrow">
-                {course.track} &middot; Free
-              </p>
-              <h3>
-                <a href={course.href}>{course.title}</a>
-              </h3>
-              <p>{course.description}</p>
-              <p class="academy-course__meta">{course.meta}</p>
-              {course.first && (
-                <a class="text-link" href={course.first.href}>
-                  {course.first.label}
-                </a>
-              )}
-            </article>
-          ))
-        }
-      </div>
+      {
+        groups.map((group) => (
+          <div class="academy-group">
+            {groups.length > 1 && <h3 class="academy-group__title">{group.name}</h3>}
+            <div class="academy-catalog__grid">
+              {group.cards.map((course) => (
+                <article class="card academy-course">
+                  <p class="eyebrow">
+                    {course.track} &middot; Free
+                  </p>
+                  <h3>
+                    <a href={course.href}>{course.title}</a>
+                  </h3>
+                  <p>{course.description}</p>
+                  <p class="academy-course__meta">{course.meta}</p>
+                  {course.first && (
+                    <a class="text-link" href={course.first.href}>
+                      {course.first.label}
+                    </a>
+                  )}
+                </article>
+              ))}
+            </div>
+          </div>
+        ))
+      }
       <p class="academy-catalog__note">
         More courses are in the works, in game strategy, game libraries, and game design. Subscribers hear first.
       </p>
@@ -117,8 +147,8 @@ const catalog = [...lessonCourses, shelfCourse];
           <p>Sign up on a course page and the lessons arrive on a schedule. Pause from any email when life gets busy, and pick up where you left off.</p>
         </li>
         <li>
-          <h3>All of it on the site.</h3>
-          <p>Every lesson has a page here, so you can read ahead, go back, or skip the inbox entirely and work through a course on your own.</p>
+          <h3>Start reading right here.</h3>
+          <p>The first lessons of every course are on the site, and every trading card game lesson is too, so you can see how a course teaches before you sign up.</p>
         </li>
       </ul>
     </div>
@@ -130,7 +160,7 @@ const catalog = [...lessonCourses, shelfCourse];
       <ul class="academy-faq__list">
         <li>
           <h3>Is it really free?</h3>
-          <p>Yes. Every lesson is free to read on the site, and the emails are free too. No card, no trial.</p>
+          <p>Yes. Every lesson is free, on the site or by email. No card, no trial.</p>
         </li>
         <li>
           <h3>I am new to this. Is it for me?</h3>
@@ -160,6 +190,15 @@ const catalog = [...lessonCourses, shelfCourse];
     margin: 0;
     font-size: var(--text-lg);
     color: var(--color-text-muted);
+  }
+
+  .academy-group + .academy-group {
+    margin-top: var(--space-7);
+  }
+
+  .academy-group__title {
+    margin: 0 0 var(--space-4);
+    font-size: var(--text-2xl);
   }
 
   .academy-catalog__grid {

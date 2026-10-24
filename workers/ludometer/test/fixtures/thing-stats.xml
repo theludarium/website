@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Synthetic test fixture shaped like BGG XML API2 /thing?stats=1 output. Values are made up. -->
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+  <item type="boardgame" id="1001">
+    <thumbnail>https://example.test/t1.jpg</thumbnail>
+    <image>https://example.test/i1.jpg</image>
+    <name type="primary" sortindex="1" value="Feather Engine" />
+    <name type="alternate" sortindex="1" value="Moteur de Plumes" />
+    <description>A test game.</description>
+    <yearpublished value="2019" />
+    <minplayers value="1" />
+    <maxplayers value="5" />
+    <playingtime value="70" />
+    <link type="boardgamemechanic" id="2041" value="Open Drafting" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="51234" />
+        <average value="8.05123" />
+        <bayesaverage value="7.90211" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="25" bayesaverage="7.90211" />
+          <rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="18" bayesaverage="7.9" />
+        </ranks>
+        <stddev value="1.3" />
+        <median value="0" />
+        <owned value="90012" />
+        <trading value="800" />
+        <wanting value="1200" />
+        <wishing value="15000" />
+        <numcomments value="7000" />
+        <numweights value="800" />
+        <averageweight value="2.45" />
+      </ratings>
+    </statistics>
+  </item>
+  <item type="boardgame" id="1005">
+    <name type="primary" sortindex="1" value="Lantern Harbor" />
+    <yearpublished value="2026" />
+    <statistics page="1">
+      <ratings>
+        <usersrated value="87" />
+        <average value="7.6" />
+        <bayesaverage value="0" />
+        <ranks>
+          <rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+        </ranks>
+        <owned value="310" />
+      </ratings>
+    </statistics>
+  </item>
+</items>

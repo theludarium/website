@@ -91,4 +91,80 @@ const lessons = defineCollection({
     }),
 });
 
-export const collections = { articles, lessons };
+// Game courses (everything in the Academy except the level-based Catan course).
+// One YAML file per course in src/content/courses/<slug>.yaml; its lessons live
+// in src/content/course-lessons/<slug>/<lesson-slug>.md. See docs/academy/COURSES.md.
+const description150 = z
+  .string()
+  .min(150, 'Description should be 150 to 160 characters (it becomes the search snippet).')
+  .max(160, 'Description should be 150 to 160 characters (it becomes the search snippet).');
+
+const courses = defineCollection({
+  loader: glob({ pattern: '*.yaml', base: './src/content/courses' }),
+  schema: z.object({
+    /** The Ludarium's own course title; the game is named in `game`. */
+    title: z.string().min(1),
+    game: z.string().min(1),
+    /** full: 8 lessons. masterclass: 7. teach-tonight: a teach sheet and 2 lessons. tcg: 8 public lessons. */
+    format: z.enum(['full', 'masterclass', 'teach-tonight', 'tcg']),
+    /** Sort order in the Academy catalog, lowest first. */
+    order: z.number().int(),
+    wave: z.string(),
+    draft: z.boolean().default(false),
+    publisher: z.string().min(1),
+    notice: z.string().min(1),
+    rulesEdition: z.string().min(1),
+    rulesSource: z.url(),
+    players: z.string(),
+    playTime: z.string(),
+    ages: z.string().optional(),
+    promise: z.string().min(1),
+    /** Course page meta description and catalog card text. */
+    description: description150,
+    audience: z.array(z.string()).min(2).max(4),
+    afterLesson3: z.string().min(1),
+    afterLesson8: z.string().min(1),
+    faq: z.array(z.object({ q: z.string(), a: z.string() })).min(3).max(6),
+    teachSheet: z.object({
+      goal: z.string(),
+      setup: z.array(z.string()).min(2).max(8),
+      turn: z.array(z.string()).min(2).max(8),
+      scoring: z.array(z.string()).min(1).max(8),
+      endGame: z.string(),
+      tips: z.array(z.string()).length(3),
+    }),
+    /** Alt text for the original setup diagram at public/academy/<slug>/setup.svg. */
+    diagramAlt: z.string().min(1),
+    /** Article slugs that pair with the course. */
+    related: z.array(z.string()).default([]),
+    /** YouTube video id, once the teach video exists. */
+    videoId: z.string().optional(),
+    tcg: z
+      .object({
+        starter: z.string(),
+        firstEvent: z.string(),
+        rulesAsOf: z.string(),
+      })
+      .optional(),
+  }),
+});
+
+const courseLessons = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/course-lessons' }),
+  schema: z.object({
+    title: z.string().min(1),
+    description: description150,
+    course: z.string().min(1),
+    order: z.number().int().min(1).max(8),
+    emailSubject: z.string().min(1),
+    pubDate: z.coerce.date(),
+    updatedDate: z.coerce.date().optional(),
+    draft: z.boolean().default(false),
+    oneIdea: z.string().min(1),
+    /** The "do this at your next game" line every lesson ends with. */
+    tryThis: z.string().min(1),
+    nextTeaser: z.string().optional(),
+  }),
+});
+
+export const collections = { articles, lessons, courses, courseLessons };
