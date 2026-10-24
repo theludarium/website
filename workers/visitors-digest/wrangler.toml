@@ -1,0 +1,24 @@
+# Weekly visiting-companies digest. A small Worker with a cron trigger that
+# reads the same D1 database the site's middleware writes to and emails the
+# top companies through Resend.
+name = "ludarium-visitors-digest"
+main = "src/index.ts"
+# No public *.workers.dev URL: this Worker only runs on its schedule (and locally).
+workers_dev = false
+compatibility_date = "2026-08-01"
+
+# Cron triggers run in UTC. 12:00 UTC is 7am Eastern in winter and 8am in summer.
+[triggers]
+crons = ["0 12 * * 1"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "ludarium-visitors"
+# The same id as in the root wrangler.toml, from `npx wrangler d1 create ludarium-visitors`.
+database_id = "00000000-0000-0000-0000-000000000000"
+
+# Secrets, set with `npx wrangler secret put NAME` from this folder:
+#   RESEND_API_KEY   Resend key with sending access (the same one the inquiry form uses)
+#   DIGEST_TO        where the digest goes
+# Optional var:
+#   DIGEST_FROM      sender, default "The Ludarium <onboarding@resend.dev>"
