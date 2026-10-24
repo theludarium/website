@@ -121,7 +121,7 @@ const structuredData = [
                   <strong>After this level:</strong> {level.outcome}
                 </p>
               </div>
-              <ol class="course-level__lessons">
+              <ol class="course-level__lessons" data-pagefind-ignore>
                 {level.lessons.map((lesson) => (
                   <li>
                     <span class="course-level__num">{lessonNumber(lesson)}</span>

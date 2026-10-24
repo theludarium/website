@@ -88,13 +88,17 @@ const structuredData = [
       <nav class="article__crumbs" aria-label="Breadcrumb">
         <a href="/articles/">Articles</a>
         <span aria-hidden="true">/</span>
-        <a href={categoryUrl(category)}>{category}</a>
+        <a href={categoryUrl(category)} data-pagefind-filter="category" data-pagefind-meta="category">
+          {category}
+        </a>
       </nav>
       {draft && <p class="article__draft"><span class="draft-badge">Draft</span> Only visible on previews. Set <code>draft: false</code> to publish.</p>}
       <h1>{title}</h1>
       <p class="article__lede">{description}</p>
       <p class="article__meta">
-        <time datetime={pubDate.toISOString()}>{formatDate(pubDate)}</time>
+        <time datetime={pubDate.toISOString()} data-pagefind-sort="date[datetime]">
+          {formatDate(pubDate)}
+        </time>
         {
           updatedDate && (
             <>
@@ -121,7 +125,7 @@ const structuredData = [
     <div class:list={['container', 'article__layout', { 'has-toc': showToc }]}>
       {
         showToc && (
-          <aside class="article__toc">
+          <aside class="article__toc" data-pagefind-ignore>
             <TableOfContents headings={headings} />
           </aside>
         )
@@ -141,7 +145,7 @@ const structuredData = [
           )
         }
 
-        <section class="article__signup" aria-labelledby="article-signup-title">
+        <section class="article__signup" aria-labelledby="article-signup-title" data-pagefind-ignore>
           {
             offer ? (
               <>
@@ -170,7 +174,7 @@ const structuredData = [
 
   {
     related.length > 0 && (
-      <section class="section related" aria-labelledby="related-title">
+      <section class="section related" aria-labelledby="related-title" data-pagefind-ignore>
         <div class="container">
           <div class="section-head">
             <h2 id="related-title">Keep reading</h2>

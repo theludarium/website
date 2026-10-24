@@ -121,7 +121,7 @@ Keep it simple. No CMS, database, or user accounts. Add a dependency only when i
 | `/about/` | About | Togethering, the mission, the story |
 | `/newsletter/` | Newsletter | Dedicated signup page |
 | `/store/` | Store | Short intro, then a link to the Lemon Squeezy store |
-| `/search/` | Search | Site search (static index, such as Pagefind); search analytics later |
+| `/search/` | Search | Site search on Pagefind, built from the finished site at build time (`src/lib/search.ts` sets each page's section); search analytics later |
 | `/malaphors/` | Malaphors | Submission page printed in the malaphor field guide; Kit form tagged `malaphors` |
 | `/affiliate-disclosure/` | Disclosure | Plain-language affiliate disclosure |
 | `/privacy/` | Privacy | Privacy policy covering email signups and forms |

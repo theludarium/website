@@ -10,7 +10,7 @@ interface Props {
 const { current } = Astro.props;
 ---
 
-<nav class="filters" aria-label="Article categories">
+<nav class="filters" aria-label="Article categories" data-pagefind-ignore>
   <a class="filter" href="/articles/" aria-current={!current ? 'page' : undefined}>All</a>
   {
     CATEGORIES.map((c) => (

@@ -8,7 +8,7 @@
   },
   "scripts": {
     "dev": "node scripts/rpg-demo-library.mjs fetch && node scripts/game-night-madness.mjs fetch && astro dev",
-    "build": "node scripts/rpg-demo-library.mjs fetch && node scripts/game-night-madness.mjs fetch && astro build && node scripts/rpg-demo-library.mjs copy && node scripts/game-night-madness.mjs copy && node scripts/check-seo.mjs",
+    "build": "node scripts/rpg-demo-library.mjs fetch && node scripts/game-night-madness.mjs fetch && astro build && node scripts/rpg-demo-library.mjs copy && node scripts/game-night-madness.mjs copy && pagefind --site dist && node scripts/check-seo.mjs",
     "preview": "astro preview",
     "astro": "astro",
     "check": "astro check",
@@ -38,6 +38,7 @@
     "@fontsource/fraunces": "5.3.0",
     "@resvg/resvg-js": "2.6.2",
     "@types/node": "22.20.5",
+    "pagefind": "^1.5.2",
     "satori": "0.62.0",
     "typescript": "6.0.3",
     "wrangler": "4.151.3"
