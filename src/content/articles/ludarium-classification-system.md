@@ -5,6 +5,7 @@ description: "Meet the Ludarium Classification System: a library-style code for 
 pubDate: 2026-10-23
 category: Game Shelf
 tags: ["board game classification system", "how to categorize board games", "board game catalog", "tabletop game taxonomy"]
+offer: game-shelf
 draft: true
 ---
 

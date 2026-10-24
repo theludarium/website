@@ -4,6 +4,7 @@ description: "A second copy of a board game is worth it only when it creates pla
 pubDate: 2026-10-23
 category: Game Shelf
 tags: ["second copy of a board game", "one copy rule", "duplicate board games", "should i buy two copies of a board game"]
+offer: game-shelf
 draft: false
 ---
 

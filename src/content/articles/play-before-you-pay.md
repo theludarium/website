@@ -5,6 +5,7 @@ description: "Play before you pay is the $0 first step to a board game collectio
 pubDate: 2026-10-23
 category: Game Shelf
 tags: ["play before you pay", "start a board game collection", "try board games before buying", "board game taste log"]
+offer: game-shelf
 draft: false
 ---
 

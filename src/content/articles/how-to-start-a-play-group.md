@@ -5,6 +5,7 @@ description: "Learn how to start a board game play group: find players, pick a n
 pubDate: 2026-10-23
 category: Game Night
 tags: ["how to start a board game play group", "board game group", "start a game night", "find board game players", "game night schedule"]
+offer: game-shelf
 draft: false
 ---
 

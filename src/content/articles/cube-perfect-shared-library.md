@@ -4,6 +4,7 @@ description: "A Magic Cube is one person's curated card pool that eight players 
 pubDate: 2026-10-23
 category: Magic & Cube
 tags: ["magic cube", "what is a magic cube draft", "shared board game library", "one copy rule"]
+offer: game-shelf
 draft: false
 ---
 

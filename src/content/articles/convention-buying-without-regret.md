@@ -5,6 +5,7 @@ description: "Convention board game buying is where regret happens. Use a shelf 
 pubDate: 2026-10-23
 category: Game Shelf
 tags: ["convention board game buying", "board game convention tips", "what to buy at a board game convention", "con exclusives"]
+offer: game-shelf
 draft: false
 ---
 

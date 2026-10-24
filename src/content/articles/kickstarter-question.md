@@ -5,6 +5,7 @@ description: "Should you back board games on Kickstarter? Weigh the real pros an
 pubDate: 2026-10-23
 category: Game Shelf
 tags: ["kickstarter board games", "crowdfunding board games", "should i back a board game", "board game deluxe edition"]
+offer: game-shelf
 draft: false
 ---
 

@@ -5,6 +5,7 @@ description: "Grow your board game collection from $300 to $1,000 on purpose: fi
 pubDate: 2026-10-23
 category: Game Shelf
 tags: ["grow your board game collection", "board game expansions", "cost per play board games", "board game library"]
+offer: game-shelf
 draft: false
 ---
 

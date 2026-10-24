@@ -5,6 +5,7 @@ description: "Start tracking board game plays and you'll learn your real taste i
 pubDate: 2026-10-23
 category: Game Shelf
 tags: ["tracking board game plays", "board game play log", "how to log board game plays", "board game collection tracker"]
+offer: game-shelf
 draft: false
 ---
 

@@ -5,6 +5,7 @@ description: "A shared board game collection needs a few plain agreements: who s
 pubDate: 2026-10-23
 category: Game Shelf
 tags: ["shared board game collection", "game group rules", "borrowing board games etiquette", "one copy rule"]
+offer: game-shelf
 draft: false
 ---
 

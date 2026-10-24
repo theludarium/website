@@ -5,6 +5,7 @@ description: "Claim a Lane is how a play group builds a 20-game shared library: 
 pubDate: 2026-10-23
 category: Game Shelf
 tags: ["claim a lane", "shared board game library", "how to build a board game collection with friends", "one copy rule"]
+offer: game-shelf
 draft: false
 ---
 

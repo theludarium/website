@@ -5,6 +5,7 @@ description: "Choosing board games for your group means buying for the players y
 pubDate: 2026-10-23
 category: Game Night
 tags: ["choosing board games for your group", "best board games for my group", "board game player count", "games for casual gamers", "board game session length"]
+offer: game-shelf
 draft: false
 ---
 

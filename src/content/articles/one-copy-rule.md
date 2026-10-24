@@ -5,6 +5,7 @@ description: "The One Copy Rule: a play group needs one copy of a game, not one 
 pubDate: 2026-10-23
 category: Game Shelf
 tags: ["one copy rule", "shared board game collection", "board game cost per play", "play group game library"]
+offer: game-shelf
 draft: false
 ---
 

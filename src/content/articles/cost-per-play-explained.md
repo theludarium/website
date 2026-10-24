@@ -5,6 +5,7 @@ description: "Cost per play is the one formula that tells you what a board game 
 pubDate: 2026-10-23
 category: Game Shelf
 tags: ["cost per play", "board game cost per play", "board game value", "how much does a board game cost per hour"]
+offer: game-shelf
 draft: false
 ---
 

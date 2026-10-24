@@ -5,6 +5,7 @@ description: "Board games you can teach in five minutes keep a play group moving
 pubDate: 2026-10-23
 category: Game Night
 tags: ["board games you can teach in five minutes", "easy to teach board games", "how to teach a board game", "quick board games for groups", "gateway board games"]
+offer: game-shelf
 draft: false
 ---
 

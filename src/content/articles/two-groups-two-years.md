@@ -1,10 +1,11 @@
 ---
 title: "Two Groups, Two Years, Same Money: A Shared Shelf Case Study"
 seoTitle: "Shared Shelf Case Study: Two Groups, Same Money"
-description: "A shared board game library case study: two four-person groups spend the same $200 per person per year for two years. One ends with 12 games, one with 38."
+description: "A shared board game library case study: two four-person groups spend the same $200 per person per year for two years. One ends with about 17 games, one with 34."
 pubDate: 2026-10-23
 category: Game Shelf
 tags: ["shared board game library", "board game group collection", "one copy rule", "board game budget"]
+offer: game-shelf
 draft: false
 ---
 
