@@ -123,3 +123,14 @@ export const LUDOMETER = {
   watchForm: '',
 };
 
+/**
+ * Kit forms for the recurring stories (docs/stories/README.md): `dataset` is
+ * the Shelf Life CSV download (tag dataset), `ledger` the industry readers form
+ * (tag ledger). Blank until the forms exist in Kit; until then signups join the
+ * general newsletter.
+ */
+export const KIT_STORY_FORMS = {
+  dataset: '',
+  ledger: '',
+};
+

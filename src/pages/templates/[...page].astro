@@ -1,0 +1,90 @@
+---
+// Preview-only gallery of the report and buying-guide blocks (docs/stories/README.md),
+// with sample data, so the templates can be reviewed before the first real issue.
+// Never built on the live site.
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PreviewNote from '@/components/PreviewNote.astro';
+import ScatterChart from '@/components/mdx/ScatterChart.astro';
+import BarChart from '@/components/mdx/BarChart.astro';
+import FiveNumbers from '@/components/mdx/FiveNumbers.astro';
+import GatedDownload from '@/components/mdx/GatedDownload.astro';
+import BuyBlock from '@/components/mdx/BuyBlock.astro';
+import { IS_PREVIEW } from '@/lib/env';
+import '@/styles/prose.css';
+
+export function getStaticPaths() {
+  return IS_PREVIEW ? [{ params: { page: undefined } }] : [];
+}
+---
+
+<BaseLayout title="Report templates (preview)" description="Preview-only gallery of the report and buying-guide blocks with sample data, for review before the first real issue of each recurring story." noindex>
+  <section class="container prose-article tpl">
+    <p class="eyebrow">Templates &middot; preview only</p>
+    <h1>Report and buying blocks</h1>
+    <PreviewNote>Every number on this page is made-up sample data, to show the layout. This page never builds on the live site.</PreviewNote>
+
+    <h2>Shelf Life: the cohort chart</h2>
+    <ScatterChart
+      title="Sample cohort at three months"
+      subtitle="Each dot is one game. Sample data."
+      xLabel="Rating count growth"
+      xSuffix="x"
+      yLabel="Average rating change"
+      groups={['Graduated', 'Faded', 'Too early']}
+      points={[
+        { label: 'Game A', x: 4.1, y: 0.05, group: 'Graduated' },
+        { label: 'Game B', x: 3.3, y: -0.1, group: 'Graduated' },
+        { label: 'Game C', x: 5.6, y: 0.12, group: 'Graduated' },
+        { label: 'Game D', x: 1.2, y: -0.45, group: 'Faded' },
+        { label: 'Game E', x: 1.6, y: -0.3, group: 'Faded' },
+        { label: 'Game F', x: 0.9, y: -0.6, group: 'Faded' },
+        { label: 'Game G', x: 2.2, y: 0.02, group: 'Too early' },
+        { label: 'Game H', x: 2.6, y: -0.15, group: 'Too early' },
+      ]}
+      labelled={['Game C', 'Game F']}
+      source="Sample data."
+    />
+    <GatedDownload kind="dataset" title="Get the cohort data" text="Every game in the cohort, every measure, as a CSV." />
+
+    <h2>The Ledger: five numbers and one chart</h2>
+    <FiveNumbers
+      period="Sample quarter"
+      numbers={[
+        { label: 'Hobby games market', value: '$3.66B', change: '+40%', vs: 'the year before', source: 'Sample', url: '#' },
+        { label: 'TCG share of hobby dollars', value: 'About 2/3', source: 'Sample', url: '#' },
+        { label: 'Hobby store sales', value: '+32%', source: 'Sample', url: '#' },
+        { label: 'Crowdfunding raised', value: '$0M', change: '+0%', vs: 'last quarter', source: 'Sample', url: '#' },
+        { label: 'Average game price', value: '$0', source: 'Sample', url: '#' },
+      ]}
+    />
+    <BarChart
+      title="Sample measure by company"
+      subtitle="One series, so the title names it. Sample data."
+      bars={[
+        { label: 'Company A', value: 1240 },
+        { label: 'Company B', value: 860 },
+        { label: 'Company C', value: 410 },
+        { label: 'Company D', value: 95 },
+      ]}
+      prefix="$"
+      suffix="M"
+      source="Sample data."
+    />
+    <GatedDownload kind="ledger" title="Get the Ledger first" text="The industry edition arrives a day before the public column." />
+
+    <h2>Gift and buying guides</h2>
+    <BuyBlock
+      items={[
+        { name: 'Carcassonne', why: 'Sample copy: a tile game the whole family can learn in ten minutes.', players: '2 to 5', time: '35 to 45 min', price: 'about $35', course: '/academy/carcassonne/', href: '#', affiliate: true },
+        { name: 'Sample game', why: 'Sample copy for a game without a course or an affiliate link.', players: '2 to 4', time: '20 min', href: '#' },
+      ]}
+    />
+  </section>
+</BaseLayout>
+
+<style>
+  .tpl {
+    padding-block: var(--space-8);
+    max-width: 52rem;
+  }
+</style>
