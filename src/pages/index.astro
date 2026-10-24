@@ -44,7 +44,7 @@ const latest = (await getArticles()).slice(0, 3);
               </div>
               <a class="text-link" href="/articles/">All articles</a>
             </div>
-            <div class="latest-grid">
+            <div class="latest-grid" data-pagefind-ignore>
               {latest.map((article) => (
                 <ArticleCard article={article} />
               ))}
