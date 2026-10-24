@@ -1,0 +1,53 @@
+---
+// Category filter pills shared by the articles index, category pages, and
+// series hubs. `current` is the slug of the category being shown, if any.
+import { CATEGORIES } from '@/lib/site';
+
+interface Props {
+  current?: string;
+}
+
+const { current } = Astro.props;
+---
+
+<nav class="filters" aria-label="Article categories">
+  <a class="filter" href="/articles/" aria-current={!current ? 'page' : undefined}>All</a>
+  {
+    CATEGORIES.map((c) => (
+      <a class="filter" href={`/articles/category/${c.slug}/`} aria-current={current === c.slug ? 'page' : undefined}>
+        {c.name}
+      </a>
+    ))
+  }
+</nav>
+
+<style>
+  .filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+    margin-bottom: var(--space-6);
+  }
+
+  .filter {
+    padding: 0.45em 1em;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-pill);
+    color: var(--color-text);
+    font-size: var(--text-sm);
+    font-weight: 600;
+    text-decoration: none;
+    transition: background var(--transition), border-color var(--transition);
+  }
+
+  .filter:hover {
+    color: var(--color-text);
+    border-color: var(--color-primary);
+  }
+
+  .filter[aria-current='page'] {
+    background: var(--color-primary);
+    border-color: var(--color-primary);
+    color: var(--color-on-primary);
+  }
+</style>
