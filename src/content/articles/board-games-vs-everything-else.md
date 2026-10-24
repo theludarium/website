@@ -4,6 +4,7 @@ description: "How does board game cost per hour compare to a ballgame, a movie n
 pubDate: 2026-10-23
 category: Game Shelf
 tags: ["board game cost per hour", "cheap hobbies", "cost of entertainment per hour", "are board games expensive"]
+offer: game-shelf
 draft: false
 ---
 

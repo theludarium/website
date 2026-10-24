@@ -5,6 +5,7 @@ description: "Build a starter board game collection of six games under $300, one
 pubDate: 2026-10-23
 category: Game Shelf
 tags: ["starter board game collection", "how to build a board game collection", "board games for every occasion", "essential board games"]
+offer: game-shelf
 draft: false
 ---
 

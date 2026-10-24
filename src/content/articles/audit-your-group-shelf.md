@@ -5,6 +5,7 @@ description: "Audit your group's game shelf in one evening: pool every collectio
 pubDate: 2026-10-23
 category: Game Shelf
 tags: ["audit your group's game shelf", "shared board game collection template", "board game inventory", "one copy rule"]
+offer: game-shelf
 draft: false
 ---
 

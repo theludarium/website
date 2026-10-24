@@ -285,6 +285,13 @@ A short log of choices made and why. Newest at the bottom.
 - **Two articles held as drafts** for Levi's review: `ludarium-classification-system` describes a five-part code (role, weight, players, length, style) that differs from the Card Catalogue's call numbers and six feel dimensions already published on the site, and `group-shelf-feature` describes "the Ludarium app, in development" at length while the Card Catalogue is live. Five other articles mention the app in one sentence each; left as written, flagged to Levi.
 - **Descriptions** under the schema's 150-character floor (17 of them) were lengthened by a few words; en dashes in ranges became "to".
 
+## 2026-10-23: The Game Shelf email series
+
+- **A dedicated opt-in on all 34 Game Shelf articles** (`offer: game-shelf`), not the general newsletter form, so the series only goes to people who asked for it. Existing subscribers are not added automatically. New opt-ins also get the newsletter Welcome.
+- **Six chained sequences, one per series, Tuesday and Friday at 8 a.m. Indiana time.** Each email teases one article and links to it; each series ends with a wrap-up that previews the next. Two emails a week keeps the 38 published emails to about four and a half months.
+- **Same mechanics as the Catan course:** visual automations swap a series tag to move people along, footer links let readers skip to the next series or pause for two weeks, and the sequences exclude the pause, complete, and later series tags. IDs and links in `docs/newsletter/GAME-SHELF-SERIES.md`; the email copy in `docs/newsletter/game-shelf-emails.json`.
+- **The two draft articles' emails wait unpublished** in series 6 and go live with their articles.
+
 ## 2026-10-21: Visiting-company tracker for the corporate events pages
 
 - **Why:** see which companies, especially around Indianapolis, read the corporate events pages, so Levi can reach their HR and L&D leaders. Levi's spec; built on `feature/visiting-companies`.

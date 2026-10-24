@@ -5,6 +5,7 @@ description: "Build a lifetime board game library: games you will still play in 
 pubDate: 2026-10-23
 category: Game Shelf
 tags: ["lifetime board game library", "board games that last", "evergreen board games", "classic board games for families"]
+offer: game-shelf
 draft: false
 ---
 

@@ -5,6 +5,7 @@ description: "Managing a board game collection past $1,000 means a shelf cap, on
 pubDate: 2026-10-23
 category: Game Shelf
 tags: ["managing a board game collection", "board game shelf cap", "one in one out board games", "board game collection review"]
+offer: game-shelf
 draft: false
 ---
 

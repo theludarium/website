@@ -5,6 +5,7 @@ description: "Learn how to organize board games by the role each one plays on ga
 pubDate: 2026-10-23
 category: Game Shelf
 tags: ["organize board games", "board game shelf organization", "board game storage ideas", "how to organize a board game collection"]
+offer: game-shelf
 draft: false
 ---
 

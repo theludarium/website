@@ -5,6 +5,7 @@ description: "How much do board gamers spend per year? About 6% spend under $100
 pubDate: 2026-10-23
 category: Game Shelf
 tags: ["how much do board gamers spend", "board game budget", "board game spending per year", "how much to spend on board games"]
+offer: game-shelf
 draft: false
 ---
 

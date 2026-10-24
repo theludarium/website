@@ -5,6 +5,7 @@ description: "Keeping a board game group together through kids, moves, and job c
 pubDate: 2026-10-23
 category: Game Night
 tags: ["keeping a board game group together", "long-term game group", "revive a game night", "game group attendance", "board game group rituals"]
+offer: game-shelf
 draft: false
 ---
 

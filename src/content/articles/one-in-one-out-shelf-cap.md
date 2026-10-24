@@ -4,6 +4,7 @@ description: "A board game shelf cap makes your collection better, not smaller. 
 pubDate: 2026-10-23
 category: Game Shelf
 tags: ["board game shelf cap", "one in one out board games", "board game collection limit", "cull board game collection"]
+offer: game-shelf
 draft: false
 ---
 
