@@ -312,6 +312,11 @@ A short log of choices made and why. Newest at the bottom.
 - **The page uses Pagefind's JS API, not its stock widget,** so results look like the rest of the site: section and category eyebrow, title, excerpt with highlighted matches, and up to three "jump to heading" links per result. Results arrive as you type, ten at a time with "Show more"; pills filter by section with live counts; the query and filter live in the URL (`?q=`, `?in=`) so searches can be shared and the back button works; "/" focuses the box; the empty state offers suggested searches and four places to browse. Styles for the script-built pieces are global under `.search-body`, because Astro's scoped styles cannot reach elements made at runtime.
 - **Search analytics stay a later step,** as planned in CLAUDE.md.
 
+## 2026-10-24: The game tools are in search too
+
+- **The index is now built by `scripts/search-index.mjs`** (Pagefind's Node API) instead of the CLI. It indexes `dist/` the same way, then adds one record per RPG demo and one for Game Night Madness. Levi's ask: the demos should be searchable by game.
+- **Why records instead of indexing their pages:** the demos are single-file apps whose adventure text renders by script, so their HTML holds little to index and what it holds is story prose, which would match "night" or "door" searches with noise. Each record instead carries the adventure title, its game system (from `store.js`), the library card's subtitle, blurb and tags, and the demo page's own description, so "Ironsworn", "Forged in the Dark" or "Weird West" land on the right demo. Results show as Play with the game as the category. The library stays the one source of truth: add a demo there and it enters the index on the next build.
+
 ## 2026-10-21: Visiting-company tracker for the corporate events pages
 
 - **Why:** see which companies, especially around Indianapolis, read the corporate events pages, so Levi can reach their HR and L&D leaders. Levi's spec; built on `feature/visiting-companies`.
