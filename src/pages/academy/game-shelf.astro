@@ -1,18 +1,17 @@
 ---
-// The Game Shelf category page is also the hub for the six-series Game Shelf
-// cluster: the email series signup above the fold, then every series in
-// reading order with its articles numbered and summarized. Cluster articles
-// filed under other categories (Game Night, Magic & Cube) are listed here too.
-// Draft articles show as plain titles until they publish. This static route
-// wins over [category].astro, which skips the game-shelf slug.
+// The Game Shelf course: the six-series Game Shelf article cluster, read in
+// order. Like the Catan course page: the series email signup above the fold,
+// then every series in reading order with its articles numbered and
+// summarized. The articles themselves live in the articles collection (most
+// in the Game Shelf category, a few in Game Night and Magic & Cube). Drafts
+// hold their place as plain titles until they publish. This static route
+// wins over [course]/index.astro, which only knows lesson-based courses.
 import { getCollection } from 'astro:content';
 import BaseLayout from '@/layouts/BaseLayout.astro';
-import ArticleCard from '@/components/ArticleCard.astro';
-import CategoryFilters from '@/components/CategoryFilters.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
 import { KIT_OFFER_FORMS } from '@/lib/config';
-import { articleUrl, getArticles, SHOW_DRAFTS } from '@/lib/articles';
-import { GAME_SHELF_CATEGORY_SLUG, GAME_SHELF_SERIES } from '@/lib/game-shelf';
+import { articleUrl, categoryUrl, SHOW_DRAFTS } from '@/lib/articles';
+import { GAME_SHELF_CATEGORY_SLUG, GAME_SHELF_COURSE, GAME_SHELF_SERIES } from '@/lib/game-shelf';
 import { CATEGORIES, SITE } from '@/lib/site';
 
 const category = CATEGORIES.find((c) => c.slug === GAME_SHELF_CATEGORY_SLUG);
@@ -35,16 +34,12 @@ const series = GAME_SHELF_SERIES.map((s, i) => ({
 const total = series.reduce((n, s) => n + s.articles.length, 0);
 const firstArticle = series[0].articles[0];
 
-// Game Shelf articles outside the six series, newest first (none yet; ready for later ones).
-const inSeries = new Set(series.flatMap((s) => s.articles.map((a) => a.slug)));
-const others = (await getArticles()).filter((a) => a.data.category === category.name && !inSeries.has(a.id));
-
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 const structuredData = [
   {
     '@context': 'https://schema.org',
     '@type': 'CollectionPage',
-    name: 'Game Shelf',
+    name: GAME_SHELF_COURSE.title,
     description: category.description,
     url: canonical,
     isPartOf: { '@id': `${SITE.url}/#website` },
@@ -67,24 +62,24 @@ const structuredData = [
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'Articles', item: `${SITE.url}/articles/` },
-      { '@type': 'ListItem', position: 2, name: category.name, item: canonical },
+      { '@type': 'ListItem', position: 1, name: 'Academy', item: `${SITE.url}/academy/` },
+      { '@type': 'ListItem', position: 2, name: GAME_SHELF_COURSE.title, item: canonical },
     ],
   },
 ];
 ---
 
 <BaseLayout
-  title="Game Shelf: Six Series on Building a Game Library"
-  description="Six article series on building, sharing, and organizing a board game collection: one copy per group, cost per play, smart buying, play groups, and more."
+  title={`${GAME_SHELF_COURSE.title}: Six Series on Building a Game Library`}
+  description="A free course in six article series on building, sharing, and organizing a board game collection: one copy per group, cost per play, smart buying, and more."
 >
   <script slot="head" type="application/ld+json" set:html={JSON.stringify(structuredData)} />
 
   <section class="hub-hero">
     <div class="container hub-hero__grid">
       <div>
-        <p class="eyebrow">Articles &middot; {category.name}</p>
-        <h1>{category.name}</h1>
+        <p class="eyebrow">The Ludarium Academy &middot; Free course</p>
+        <h1>{GAME_SHELF_COURSE.title}</h1>
         <p class="hub-hero__sub">
           {category.description} Six series and {total} short articles, in an order that builds. Read them here, or
           get one per email on Tuesday and Friday mornings.
@@ -113,10 +108,6 @@ const structuredData = [
         </ol>
       </nav>
     </div>
-  </section>
-
-  <section class="container">
-    <CategoryFilters current={category.slug} />
   </section>
 
   <section class="section hub-series" aria-labelledby="hub-series-title">
@@ -157,26 +148,11 @@ const structuredData = [
           ))
         }
       </ol>
+      <p class="hub-series__more">
+        Want the newest first instead? <a href={categoryUrl(category.name)}>Browse the {category.name} category</a>.
+      </p>
     </div>
   </section>
-
-  {
-    others.length > 0 && (
-      <section class="section hub-more" aria-labelledby="hub-more-title">
-        <div class="container">
-          <div class="section-head">
-            <h2 id="hub-more-title">More from the Game Shelf</h2>
-            <p>Newer pieces that stand on their own, outside the six series.</p>
-          </div>
-          <div class="hub-more__grid">
-            {others.map((article) => (
-              <ArticleCard article={article} headingLevel="h3" />
-            ))}
-          </div>
-        </div>
-      </section>
-    )
-  }
 
   <section class="section hub-signup" aria-labelledby="hub-signup-title">
     <div class="container hub-signup__inner">
@@ -273,6 +249,11 @@ const structuredData = [
     list-style: none;
   }
 
+  .hub-series__more {
+    margin: var(--space-6) 0 0;
+    color: var(--color-text-muted);
+  }
+
   .series {
     display: grid;
     grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.2fr);
@@ -353,12 +334,6 @@ const structuredData = [
   .series__line {
     margin-top: var(--space-1);
     color: var(--color-text-muted);
-  }
-
-  .hub-more__grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(min(100%, 18rem), 1fr));
-    gap: var(--space-5);
   }
 
   .hub-signup {

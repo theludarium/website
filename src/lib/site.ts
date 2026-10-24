@@ -11,7 +11,17 @@ export const SITE = {
 export type NavLink = { href: string; label: string; description?: string };
 export type NavItem = NavLink & { children?: NavLink[] };
 
-export const CATEGORIES = [
+export interface ArticleCategory {
+  slug: string;
+  name: string;
+  description: string;
+  /** Accent used on category tags and cards. */
+  tint: string;
+  /** An Academy course that reads this category's articles in order; drawn as a band on the category page. */
+  course?: { title: string; href: string };
+}
+
+export const CATEGORIES: ArticleCategory[] = [
   {
     slug: 'game-guides',
     name: 'Game Guides',
@@ -41,6 +51,7 @@ export const CATEGORIES = [
     name: 'Game Shelf',
     description: 'Building, sharing, and organizing a game collection worth playing.',
     tint: '#a0824f',
+    course: { title: 'The Game Shelf', href: '/academy/game-shelf/' },
   },
   {
     slug: 'game-design',
