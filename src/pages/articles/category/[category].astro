@@ -3,13 +3,11 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import PageIntro from '@/components/PageIntro.astro';
 import ArticleList from '@/components/ArticleList.astro';
 import { getArticles } from '@/lib/articles';
-import { GAME_SHELF_CATEGORY_SLUG } from '@/lib/game-shelf';
 import { CATEGORIES } from '@/lib/site';
 
 export async function getStaticPaths() {
   const articles = await getArticles();
-  // Game Shelf has its own page (game-shelf.astro), a hub for its six series.
-  return CATEGORIES.filter((category) => category.slug !== GAME_SHELF_CATEGORY_SLUG).map((category) => ({
+  return CATEGORIES.map((category) => ({
     params: { category: category.slug },
     props: { category, articles: articles.filter((a) => a.data.category === category.name) },
   }));
@@ -23,12 +21,48 @@ const { category, articles } = Astro.props;
   description={`${category.name} articles from The Ludarium. ${category.description}`}
 >
   <PageIntro eyebrow="Articles" title={category.name} lede={category.description} />
+  {
+    category.course && (
+      <section class="container">
+        <aside class="course-band">
+          <p>
+            <strong>Reading in order?</strong> {category.course.title} is a free Academy course that puts every series
+            in sequence, with the articles numbered and summarized, and sends them two a week by email.
+          </p>
+          <a class="button button--ghost" href={category.course.href}>
+            Open the course
+          </a>
+        </aside>
+      </section>
+    )
+  }
   <section class="container list-section">
     <ArticleList articles={articles} current={category.slug} />
   </section>
 </BaseLayout>
 
 <style>
+  .course-band {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-4);
+    margin-bottom: var(--space-6);
+    padding: var(--space-5) var(--space-6);
+    border-radius: var(--radius-card);
+    background: var(--color-accent-soft);
+  }
+
+  .course-band p {
+    flex: 1 1 24rem;
+    margin: 0;
+  }
+
+  .course-band .button {
+    flex: none;
+  }
+
   .list-section {
     padding-bottom: var(--space-8);
   }

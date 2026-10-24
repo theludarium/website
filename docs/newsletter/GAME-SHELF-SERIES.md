@@ -10,7 +10,7 @@ The email copy (subject, preview, HTML for all 40 emails) is in `game-shelf-emai
 2. **Rule 5664600:** subscribes to form 10089038 → add tag `game-shelf`, add tag `game-shelf-shared-shelf`, subscribe to Welcome (2939465).
 3. **Six visual automations chain the six sequences.** Each one: tag `game-shelf-<series>` added → the series sequence → remove that tag → add the next series tag. The last adds `game-shelf-complete`.
 4. **Footer links** in every article email: skip to the next series (not in series 6), pause for two weeks, browse the whole series.
-5. **The hub** at `/articles/category/game-shelf/` offers the same form above the fold and lists the six series in order with a one-line summary per article (`src/lib/game-shelf.ts`). The emails' "Browse the whole series" link lands there.
+5. **The course page** at `/academy/game-shelf/` offers the same form above the fold and lists the six series in order with a one-line summary per article (`src/lib/game-shelf.ts`). The emails' "Browse the whole series" link lands on the Game Shelf category page, which points to the course.
 
 | # | Series | Entry tag | Sequence | Automation | Emails |
 |---|---|---|---|---|---|

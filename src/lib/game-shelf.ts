@@ -1,10 +1,20 @@
-// The Game Shelf cluster: six article series in reading order, with the
-// one-line summaries shown on the series hub at /articles/category/game-shelf/.
-// The hub is also where the Game Shelf email series (Kit) is offered; see
+// The Game Shelf course: six article series in reading order, with the
+// one-line summaries shown on the course page at /academy/game-shelf/. That
+// page is also where the Game Shelf email series (Kit) is offered; see
 // docs/newsletter/GAME-SHELF-SERIES.md. Keep slugs in step with the files in
 // src/content/articles/.
 
 export const GAME_SHELF_CATEGORY_SLUG = 'game-shelf';
+
+/** How the course appears in the Academy catalog. */
+export const GAME_SHELF_COURSE = {
+  slug: 'game-shelf',
+  title: 'The Game Shelf',
+  /** The Academy track, shown as the card eyebrow. */
+  track: 'Game library',
+  description:
+    'Six series on building, sharing, and organizing a game collection worth playing, from the One Copy Rule to library science for gamers. One short article at a time, by email and on the site.',
+};
 
 export interface GameShelfSeries {
   /** Anchor on the hub page. */
