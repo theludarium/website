@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 420" role="img" aria-labelledby="t d">
+  <title id="t">Mock One Piece style Character card</title>
+  <desc id="d">An invented Character card, Marlo, Lantern Cook, with every part labeled: cost 3 in the upper left, power 5000 and the Strike attribute in the upper right, a plus 1000 Counter along the left edge, the art box, an effect text box with an On Play effect and a Trigger line, the card category, name, and type at the bottom, the color hexagon in the lower left, and the card number and rarity in the lower right.</desc>
+  <rect width="300" height="420" fill="#F6EFE3"/>
+  <g font-family="system-ui, sans-serif" fill="#2B1E16">
+    <!-- Card body -->
+    <rect x="14" y="8" width="272" height="404" rx="14" fill="#F6EFE3" stroke="#2B1E16" stroke-width="2"/>
+
+    <!-- Cost -->
+    <circle cx="48" cy="44" r="22" fill="#2F5D50" stroke="#2B1E16" stroke-width="1.5"/>
+    <text x="48" y="52" text-anchor="middle" font-size="22" font-weight="700" fill="#F6EFE3">3</text>
+    <text x="78" y="40" font-size="11" font-weight="700" fill="#2F5D50">COST</text>
+    <text x="78" y="53" font-size="10">DON!! to rest</text>
+
+    <!-- Power and attribute -->
+    <text x="270" y="44" text-anchor="end" font-size="24" font-weight="700">5000</text>
+    <text x="270" y="58" text-anchor="end" font-size="11" font-weight="700" fill="#2F5D50">POWER</text>
+    <rect x="198" y="66" width="72" height="20" rx="10" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <text x="234" y="80" text-anchor="middle" font-size="11" font-weight="700">Strike</text>
+    <text x="192" y="80" text-anchor="end" font-size="11" font-weight="700" fill="#2F5D50">ATTRIBUTE</text>
+
+    <!-- Counter strip on the left edge -->
+    <rect x="22" y="96" width="26" height="148" rx="6" fill="#E0A23B" stroke="#2B1E16" stroke-width="1"/>
+    <text transform="translate(40 236) rotate(-90)" font-size="12" font-weight="700">+1000 COUNTER</text>
+
+    <!-- Art box -->
+    <rect x="56" y="96" width="222" height="148" rx="8" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <circle cx="167" cy="150" r="22" fill="#E0A23B" opacity="0.8"/>
+    <rect x="152" y="172" width="30" height="34" rx="6" fill="#2B1E16" opacity="0.35"/>
+    <text x="167" y="232" text-anchor="middle" font-size="11">Illustration (no effect on play)</text>
+
+    <!-- Effect text box -->
+    <rect x="56" y="252" width="222" height="84" rx="8" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <text x="64" y="267" font-size="10" font-weight="700" fill="#2F5D50">EFFECT TEXT</text>
+    <text x="64" y="283" font-size="11"><tspan font-weight="700">[On Play]</tspan> Draw 1 card, then</text>
+    <text x="64" y="297" font-size="11">trash 1 card from your hand.</text>
+    <line x1="64" y1="306" x2="270" y2="306" stroke="#B9AD9C" stroke-width="1"/>
+    <text x="64" y="324" font-size="11"><tspan font-weight="700">[Trigger]</tspan> Draw 1 card.</text>
+    <text x="270" y="324" text-anchor="end" font-size="10" font-weight="700" fill="#2F5D50">TRIGGER</text>
+
+    <!-- Color hexagon, lower left: six sections, upper right filled -->
+    <g transform="translate(40 372)">
+      <polygon points="0,-16 13.9,-8 13.9,8 0,16 -13.9,8 -13.9,-8" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+      <polygon points="0,0 0,-16 13.9,-8" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+      <g stroke="#2B1E16" stroke-width="0.6">
+        <line x1="0" y1="0" x2="0" y2="-16"/><line x1="0" y1="0" x2="13.9" y2="-8"/><line x1="0" y1="0" x2="13.9" y2="8"/>
+        <line x1="0" y1="0" x2="0" y2="16"/><line x1="0" y1="0" x2="-13.9" y2="8"/><line x1="0" y1="0" x2="-13.9" y2="-8"/>
+      </g>
+    </g>
+    <text x="40" y="401" text-anchor="middle" font-size="10" font-weight="700" fill="#2F5D50">COLOR</text>
+
+    <!-- Category, name, type -->
+    <text x="145" y="352" text-anchor="middle" font-size="10" font-weight="700" letter-spacing="1">CHARACTER</text>
+    <text x="145" y="371" text-anchor="middle" font-size="15" font-weight="700">Marlo, Lantern Cook</text>
+    <text x="145" y="387" text-anchor="middle" font-size="11">Lamplight Crew</text>
+    <text x="140" y="402" text-anchor="middle" font-size="9" fill="#2F5D50">category / name / type</text>
+
+    <!-- Card number, rarity, block -->
+    <text x="276" y="384" text-anchor="end" font-size="10" font-weight="700">XX01-023</text>
+    <rect x="252" y="388" width="9" height="9" rx="2" fill="#2B1E16"/>
+    <text x="276" y="397" text-anchor="end" font-size="10">C</text>
+    <text x="276" y="406" text-anchor="end" font-size="8" fill="#2F5D50">no., rarity, block</text>
+  </g>
+</svg>

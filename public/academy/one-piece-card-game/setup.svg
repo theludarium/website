@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-labelledby="t d">
+  <title id="t">One Piece Card Game play area</title>
+  <desc id="d">One player's side of the play area at setup, laid out like the official playsheet: a row of five empty Character slots across the top, face-down Life cards on the left, the Leader face up in the middle row with an empty Stage slot and the deck beside it, the 10-card DON!! deck at the bottom left, the empty cost area along the bottom, and the empty trash at the bottom right.</desc>
+  <defs>
+    <g id="down">
+      <rect width="40" height="56" rx="4" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+      <rect x="6" y="6" width="28" height="44" rx="2" fill="none" stroke="#2B1E16" stroke-width="0.6" opacity="0.5"/>
+    </g>
+    <g id="life">
+      <rect width="56" height="34" rx="4" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    </g>
+    <g id="don">
+      <rect width="40" height="56" rx="4" fill="#E0A23B" stroke="#2B1E16" stroke-width="1"/>
+    </g>
+    <g id="slot">
+      <rect width="40" height="56" rx="4" fill="none" stroke="#B9AD9C" stroke-width="1.2" stroke-dasharray="3 3"/>
+    </g>
+  </defs>
+  <rect width="480" height="320" fill="#F6EFE3"/>
+  <g font-family="system-ui, sans-serif" font-size="12" fill="#2B1E16">
+
+    <text x="16" y="17" font-size="12" fill="#2F5D50" font-weight="700">Your side of the table</text>
+    <text x="464" y="17" font-size="11" text-anchor="end">Your opponent sits across, mirrored</text>
+
+    <!-- Life area -->
+    <rect x="16" y="26" width="92" height="182" rx="10" fill="none" stroke="#2B1E16" stroke-width="1.2"/>
+    <text x="62" y="43" text-anchor="middle" font-weight="700">Life</text>
+    <use href="#life" x="34" y="54"/>
+    <use href="#life" x="34" y="66"/>
+    <use href="#life" x="34" y="78"/>
+    <use href="#life" x="34" y="90"/>
+    <use href="#life" x="34" y="102"/>
+    <text x="62" y="158" text-anchor="middle" font-size="11">face down,</text>
+    <text x="62" y="172" text-anchor="middle" font-size="11">as many as</text>
+    <text x="62" y="186" text-anchor="middle" font-size="10">your Leader's Life</text>
+
+    <!-- Character area -->
+    <rect x="116" y="26" width="348" height="94" rx="10" fill="none" stroke="#2F5D50" stroke-width="1.2"/>
+    <text x="290" y="43" text-anchor="middle" font-weight="700" fill="#2F5D50">Character area: up to 5</text>
+    <use href="#slot" x="174" y="54"/>
+    <use href="#slot" x="222" y="54"/>
+    <use href="#slot" x="270" y="54"/>
+    <use href="#slot" x="318" y="54"/>
+    <use href="#slot" x="366" y="54"/>
+
+    <!-- Leader and Stage -->
+    <rect x="186" y="130" width="44" height="62" rx="4" fill="#2F5D50" stroke="#2B1E16" stroke-width="1.2"/>
+    <rect x="192" y="136" width="32" height="30" rx="2" fill="#F6EFE3" opacity="0.25"/>
+    <text x="208" y="183" text-anchor="middle" font-size="10" fill="#F6EFE3" font-weight="700">LEADER</text>
+    <text x="208" y="207" text-anchor="middle" font-weight="700">Leader, face up</text>
+    <use href="#slot" x="262" y="133"/>
+    <text x="282" y="207" text-anchor="start" font-size="11" dx="-20">Stage: up to 1</text>
+
+    <!-- Deck, beside the Stage as on the official playsheet -->
+    <rect x="372" y="130" width="92" height="78" rx="10" fill="none" stroke="#2B1E16" stroke-width="1.2"/>
+    <text x="418" y="146" text-anchor="middle" font-weight="700">Deck</text>
+    <use href="#down" transform="translate(405 158) scale(0.8)"/>
+    <use href="#down" transform="translate(402 155) scale(0.8)"/>
+    <use href="#down" transform="translate(399 152) scale(0.8)"/>
+
+    <!-- DON!! deck -->
+    <rect x="16" y="218" width="92" height="88" rx="10" fill="none" stroke="#2B1E16" stroke-width="1.2"/>
+    <text x="62" y="235" text-anchor="middle" font-weight="700">DON!! deck</text>
+    <use href="#don" x="30" y="248"/>
+    <use href="#don" x="27" y="245"/>
+    <use href="#don" x="24" y="242"/>
+    <text x="88" y="272" text-anchor="middle" font-size="14" font-weight="700">10</text>
+    <text x="88" y="287" text-anchor="middle" font-size="11">cards</text>
+
+    <!-- Cost area -->
+    <rect x="116" y="218" width="248" height="88" rx="10" fill="none" stroke="#E0A23B" stroke-width="1.5" stroke-dasharray="5 4"/>
+    <text x="240" y="235" text-anchor="middle" font-weight="700">Cost area</text>
+    <text x="240" y="254" text-anchor="middle" font-size="11">Empty at setup. Add 2 DON!! a turn</text>
+    <text x="240" y="268" text-anchor="middle" font-size="11">(first player: 1 on turn one).</text>
+    <text x="240" y="282" text-anchor="middle" font-size="11">Rest them to pay, or give them</text>
+    <text x="240" y="296" text-anchor="middle" font-size="11">for +1000 power on your turn.</text>
+
+    <!-- Trash, bottom right as on the official playsheet -->
+    <rect x="372" y="218" width="92" height="88" rx="10" fill="none" stroke="#B9AD9C" stroke-width="1.2" stroke-dasharray="4 4"/>
+    <text x="418" y="235" text-anchor="middle" font-weight="700">Trash</text>
+    <text x="418" y="262" text-anchor="middle" font-size="11">face up,</text>
+    <text x="418" y="276" text-anchor="middle" font-size="11">empty at start</text>
+
+    <text x="240" y="316" text-anchor="middle" font-size="11" fill="#2F5D50">Your hand: 5 cards, held, not on the table</text>
+  </g>
+</svg>

@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 420" role="img" aria-labelledby="t d">
+  <title id="t">An invented Magic-style card with every part labeled</title>
+  <desc id="d">A made-up legendary green creature card named Tamsin, Table Warden, not a real card. It costs two generic mana and one green mana. Labels point out the name, mana cost, illustration, type line, expansion symbol, text box, reminder text, rules text, flavor text, power and toughness, and the collector information below the text box.</desc>
+  <rect width="300" height="420" fill="#F6EFE3"/>
+
+  <!-- Card border and frame -->
+  <rect x="8" y="8" width="284" height="404" rx="14" fill="#2B1E16"/>
+  <rect x="18" y="18" width="264" height="368" rx="8" fill="#2F5D50"/>
+
+  <g font-family="system-ui, sans-serif" fill="#2B1E16">
+    <!-- Name bar and mana cost -->
+    <rect x="24" y="24" width="252" height="28" rx="14" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <text x="36" y="43" font-size="14" font-weight="700">Tamsin, Table Warden</text>
+    <circle cx="242" cy="38" r="9" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <text x="242" y="42" font-size="11" font-weight="700" text-anchor="middle">2</text>
+    <circle cx="263" cy="38" r="9" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+    <text x="263" y="42" font-size="11" font-weight="700" text-anchor="middle" fill="#F6EFE3">G</text>
+
+    <!-- Illustration: original art, a round table and six chairs on a hex tile -->
+    <rect x="28" y="56" width="244" height="150" rx="4" fill="#B9AD9C"/>
+    <path d="M202 131 L176 86 L124 86 L98 131 L124 176 L176 176 Z" fill="#E0A23B" stroke="#2B1E16" stroke-width="1.5"/>
+    <circle cx="150" cy="131" r="19" fill="#2F5D50"/>
+    <circle cx="177.7" cy="147" r="6" fill="#2F5D50"/>
+    <circle cx="150" cy="163" r="6" fill="#2F5D50"/>
+    <circle cx="122.3" cy="147" r="6" fill="#2F5D50"/>
+    <circle cx="122.3" cy="115" r="6" fill="#2F5D50"/>
+    <circle cx="150" cy="99" r="6" fill="#2F5D50"/>
+    <circle cx="177.7" cy="115" r="6" fill="#2F5D50"/>
+    <text x="150" y="196" font-size="8.5" font-style="italic" text-anchor="middle">Made-up card for teaching. Not a real Magic card.</text>
+
+    <!-- Type line, with the dash drawn as a line -->
+    <rect x="24" y="210" width="252" height="24" rx="12" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <text x="36" y="226.5" font-size="12" font-weight="700">Legendary Creature</text>
+    <line x1="162" y1="222.5" x2="174" y2="222.5" stroke="#2B1E16" stroke-width="1.5"/>
+    <text x="180" y="226.5" font-size="12" font-weight="700">Elf Druid</text>
+    <!-- Expansion symbol: gold means rare -->
+    <path d="M272 222 L267 213.5 L257 213.5 L252 222 L257 230.5 L267 230.5 Z" fill="#E0A23B" stroke="#2B1E16" stroke-width="1"/>
+
+    <!-- Text box -->
+    <rect x="28" y="238" width="244" height="110" rx="4" fill="#F6EFE3"/>
+    <text x="36" y="266" font-size="10.5"><tspan font-weight="700">Vigilance</tspan><tspan font-style="italic"> (Attacking doesn't cause this</tspan></text>
+    <text x="36" y="279" font-size="10.5" font-style="italic">creature to tap.)</text>
+    <text x="36" y="297" font-size="10.5">Whenever another creature you control</text>
+    <text x="36" y="310" font-size="10.5">enters, you gain 1 life.</text>
+    <line x1="36" y1="318" x2="264" y2="318" stroke="#B9AD9C" stroke-width="1"/>
+    <text x="36" y="332" font-size="10.5" font-style="italic">The game is the reason.</text>
+    <text x="36" y="344" font-size="10.5" font-style="italic">The people are the point.</text>
+
+    <!-- Power and toughness -->
+    <rect x="222" y="352" width="54" height="28" rx="6" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <text x="249" y="371.5" font-size="16" font-weight="700" text-anchor="middle">2/4</text>
+
+    <!-- Collector information, in the border -->
+    <text x="22" y="398" font-size="8.5" fill="#F6EFE3">0007/0210 R</text>
+    <text x="22" y="408" font-size="8.5" fill="#F6EFE3">LDR • EN</text>
+    <path d="M66 407 L72 400 L73.5 401.5 L67.5 408.5 Z" fill="#F6EFE3"/>
+    <text x="77" y="408" font-size="8.5" fill="#F6EFE3">The Ludarium</text>
+
+    <!-- Label tags (Lamplight pills) -->
+    <g font-size="7.5" font-weight="700" letter-spacing="0.4" text-anchor="middle">
+      <rect x="34" y="60" width="38" height="12" rx="6" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.6"/><text x="53" y="68.8">NAME</text>
+      <rect x="206" y="60" width="62" height="12" rx="6" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.6"/><text x="237" y="68.8">MANA COST</text>
+      <rect x="34" y="150" width="72" height="12" rx="6" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.6"/><text x="70" y="158.8">ILLUSTRATION</text>
+      <rect x="34" y="198" width="58" height="12" rx="6" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.6"/><text x="63" y="206.8">TYPE LINE</text>
+      <rect x="168" y="198" width="104" height="12" rx="6" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.6"/><text x="220" y="206.8">EXPANSION SYMBOL</text>
+      <rect x="32" y="242" width="54" height="12" rx="6" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.6"/><text x="59" y="250.8">TEXT BOX</text>
+      <rect x="178" y="270" width="88" height="12" rx="6" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.6"/><text x="222" y="278.8">REMINDER TEXT</text>
+      <rect x="190" y="301" width="76" height="12" rx="6" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.6"/><text x="228" y="309.8">RULES TEXT</text>
+      <rect x="186" y="335" width="80" height="12" rx="6" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.6"/><text x="226" y="343.8">FLAVOR TEXT</text>
+      <rect x="96" y="360" width="120" height="12" rx="6" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.6"/><text x="156" y="368.8">POWER / TOUGHNESS</text>
+      <rect x="178" y="394" width="98" height="12" rx="6" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.6"/><text x="227" y="402.8">COLLECTOR INFO</text>
+    </g>
+  </g>
+</svg>

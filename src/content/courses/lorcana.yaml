@@ -1,0 +1,78 @@
+title: "First Ink"
+game: "Disney Lorcana"
+format: tcg
+order: 540
+wave: "TCG B"
+draft: false
+publisher: "Ravensburger"
+# No fan content policy with a required notice was found. The content creation FAQ points only to the Ambassador Program and the press kit, and the site's legal notice reserves all content. The resources page also links a "Digital Assets and Use Policy" (a Disney Lorcana Media Guide on brand.ravensburger-group.com) that would not load as text, so it is unread. Default notice pattern; Levi to confirm wording.
+notice: "Unofficial. Not affiliated with or endorsed by Ravensburger or Disney. Disney Lorcana is published by Ravensburger, an official licensee of Disney. Disney characters and names are trademarks of Disney."
+# Fact check 2026-10-24: the October 2026 PDF (version 2.3.0, effective October 16, 2026; posted on the resources page October 8, 2026) was read in full, with the Tournament Rules effective July 14, 2026, the Hyperia City set notes, and the Hyperia City store kits.
+rulesEdition: "Disney Lorcana TCG Comprehensive Rules, version 2.3.0 (effective October 16, 2026, for Hyperia City)"
+rulesSource: "https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf"
+players: "2 (3 or more with the multiplayer rules)"
+# VERIFY: play time and age on the 2-Player Starter Set box.
+playTime: "About 20 to 30 minutes a game"
+ages: "Ages 8 and up"
+promise: "Pick the right first product, learn how a turn works, read any card, and walk into your first weekly play night and prerelease ready to play."
+description: "A free beginner's course for the Disney Lorcana TCG: what to buy, how a turn works, reading cards, teaching a friend, upgrades, and your first store night."
+audience:
+  - "New players who want to learn Disney Lorcana the right way, from the first ink."
+  - "Disney fans and parents buying a first product, maybe for two people at once."
+  - "Collectors with a stack of shiny cards who are curious about the game itself."
+  - "Anyone nervous about walking into a game store's weekly play night for the first time."
+afterLesson3: "Buy the right first product, play a full game by the current rules, and read every part of a card without help."
+afterLesson8: "Teach the game, upgrade a deck on a budget, play your first weekly play night and prerelease, and know what the competitive path looks like."
+faq:
+  - q: "What is the best way to start playing Disney Lorcana?"
+    a: "Start with a product made for two new players, such as the 2-Player Starter Set: two ready-to-play 60-card decks, lore trackers, and a rulebook. Learn with a friend first, then visit a store's weekly play."
+  - q: "How do you win a game of Disney Lorcana?"
+    a: "Be the first player to reach 20 lore. You gain lore mostly by sending your characters on quests. A player who ends their turn with no cards left in their deck loses."
+  - q: "How many cards are in a Disney Lorcana deck?"
+    a: "A constructed deck has at least 60 cards, uses no more than two ink types, and holds no more than 4 copies of a card with the same full name. Sealed decks at a prerelease need only 40 cards."
+  - q: "Does the first player draw a card in Disney Lorcana?"
+    a: "No. The player who takes the first turn skips the draw on that turn. Everyone else draws at the start of every turn."
+  - q: "What does exerted mean in Disney Lorcana?"
+    a: "An exerted card is turned sideways because it has been used this turn, for questing, challenging, singing, or paying ink. Only exerted characters can be challenged, so questing leaves your character open to attack."
+  - q: "What is an ink drop in Disney Lorcana?"
+    a: "Ink drops arrived with Hyperia City. Some cards give you one, and you put an ink drop counter in your inkwell. Each one pays for 1 ink, then leaves the game once you use it."
+teachSheet:
+  goal: "Be the first to reach 20 lore, mostly by sending your characters on quests."
+  setup:
+    - "Pick the starting player at random, with a coin or a die."
+    - "Shuffle your 60-card deck and offer your opponent a cut."
+    - "Set your lore tracker to 0 and draw 7 cards."
+    - "Mulligan once: put any cards on the bottom, draw back to 7, shuffle."
+    - "Keep your inkwell behind the space where your characters will go."
+  turn:
+    - "Ready: turn all your cards and ink upright."
+    - "Set: new characters are dry now; gain lore from your locations."
+    - "Draw 1 card. The first player skips this on turn one."
+    - "Once per turn, put a card with the inkwell symbol facedown in your inkwell."
+    - "Play cards by exerting ink equal to their cost."
+    - "Quest: exert a dry character to gain its lore."
+    - "Challenge: exert a dry character to fight an exerted opposing character."
+    - "Sing a song free by exerting a dry character with enough cost."
+  scoring:
+    - "A quest gains lore equal to the character's lore value."
+    - "Locations give you their lore at the start of your turn."
+    - "In a challenge, each character deals damage equal to its Strength."
+    - "Damage stays. Damage equal to its Willpower or more banishes the character."
+    - "Each ink drop pays 1 ink, then leaves the game."
+  endGame: "You win the moment you reach 20 lore. A player who ends their turn with no cards left in their deck loses."
+  tips:
+    - "Put a card in your inkwell almost every turn, especially early."
+    - "Anything you exert can be challenged on your opponent's turn."
+    - "Watch your opponent's lore. Near 20, challenge their best questers."
+diagramAlt: "The Disney Lorcana play area for two players. On each side: a lore tracker starting at 0, the play zone with characters, an item, and a location, the inkwell behind it with facedown ink cards, some exerted sideways, and the deck and discard pile to one side. Each player's hand stays off the table, hidden."
+related:
+  - "indianapolis-game-nights"
+  - "indianapolis-board-game-stores"
+  - "board-game-cafes-indianapolis"
+  - "how-to-teach-a-board-game"
+  - "card-drafting-explained"
+  - "how-to-be-a-good-loser"
+tcg:
+  starter: "Disney Lorcana 2-Player Starter Set"
+  firstEvent: "Weekly Play at a store listed on the Ravensburger Play Hub"
+  rulesAsOf: "Hyperia City (Comprehensive Rules version 2.3.0, effective October 16, 2026), ahead of Into the Inkdark on February 12, 2027"
