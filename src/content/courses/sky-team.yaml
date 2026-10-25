@@ -69,6 +69,7 @@ teachSheet:
     - "Every die you place is a message. Ask what your partner will read from it."
     - "Need speed? Hold the Flaps. Need to stay put? Lower the Landing Gear."
 diagramAlt: "Sky Team setup, drawn as a simple map of the Control Panel. Above it, the Montreal Approach Track with Airplane tokens and the Altitude Track at 6000 with a Reroll token. On the Pilot's side: one Radio space and three Landing Gear spaces. On the Co-Pilot's side: two Radio spaces and four Flaps spaces, used in order. In the middle: the Axis disc with one space on each side, the speed gauge with both Aerodynamics markers, the two Engines spaces, the Brake track with its marker left of the 2, the three Brakes spaces, and three shared Concentration spaces beside the empty Coffee spaces. The Pilot sits on the left and the Co-Pilot on the right, each with 4 dice and a screen, and the Coffee reserve waits beside the board."
+games: [sky-team]
 related:
   - "two-player-cooperative-board-games"
   - "co-op-games-without-quarterback-problem"

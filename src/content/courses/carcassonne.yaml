@@ -59,6 +59,7 @@ teachSheet:
     - "Never spend your last meeple on a feature that cannot finish."
     - "Count farms before the last few tiles; they swing the game."
 diagramAlt: "Carcassonne setup: the start tile in the middle of the table, four face-down stacks of land tiles around it, a scoreboard track with every player's score meeple on 0, and each player's supply of 7 meeples at the table edge."
+games: [carcassonne]
 related:
   - "carcassonne-strategy"
   - "what-is-a-meeple"

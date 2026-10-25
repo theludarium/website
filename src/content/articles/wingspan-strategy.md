@@ -3,6 +3,7 @@ title: "Wingspan Strategy for Players Who Keep Losing by Ten"
 description: "Wingspan strategy that closes the usual ten-point gap: build your engine in the right order, stop ignoring eggs, and start planning round four from round one."
 pubDate: 2026-10-22
 category: Game Guides
+games: [wingspan]
 tags: ["Wingspan strategy", "Wingspan tips", "how to win Wingspan", "Wingspan engine building", "Wingspan eggs strategy", "Wingspan bonus cards", "Strategy guides"]
 draft: false
 ---

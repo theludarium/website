@@ -62,6 +62,7 @@ teachSheet:
     - "Build two or three colors that the nobles and level 3 cards want."
     - "Before you reach 15, check what everyone after you can score."
 diagramAlt: "Splendor setup for four players: three face-down development decks in a column with level 1 at the bottom, four face-up cards beside each deck, five noble tiles in a row above the cards, the supply of six stacks (7 each of Diamond, Sapphire, Emerald, Ruby, and Onyx, plus 5 Gold), and the First Player marker."
+games: [splendor]
 related:
   - "splendor-strategy"
   - "engine-building-games"

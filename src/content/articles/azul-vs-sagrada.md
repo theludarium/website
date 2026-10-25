@@ -3,6 +3,7 @@ title: "Azul vs Sagrada: Pretty Tiles, Different Brains"
 description: "Azul vs Sagrada compared on players, time, teach time, interaction, and feel. Two beautiful abstract games that reward very different kinds of thinking."
 pubDate: 2026-10-20
 category: Game Guides
+games: [azul, sagrada]
 tags: ["Azul vs Sagrada", "best abstract board game", "Sagrada or Azul", "tile laying games", "dice drafting games", "pretty board games for couples", "Comparisons"]
 draft: false
 ---

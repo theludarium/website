@@ -3,6 +3,7 @@ title: "Is Gloomhaven Worth It? An Honest Guide for Busy Adults"
 description: "Is Gloomhaven worth it if you have a job, kids, and three free evenings a month? A plain guide to the time, money, group you need, and the alternatives."
 pubDate: 2026-10-22
 category: Game Guides
+games: [gloomhaven]
 tags: ["is Gloomhaven worth it", "Gloomhaven review", "Gloomhaven vs Jaws of the Lion", "Gloomhaven time commitment", "Gloomhaven for beginners", "Frosthaven", "Cooperative and campaign games"]
 draft: false
 ---

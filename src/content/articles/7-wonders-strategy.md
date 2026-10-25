@@ -3,6 +3,7 @@ title: "7 Wonders Strategy: Drafting, Neighbors, the Science Trap"
 description: "7 Wonders strategy for players who want to win more than one game in five: how to draft well, when to fight your neighbors, and why science often fails."
 pubDate: 2026-10-20
 category: Game Guides
+games: [7-wonders]
 tags: ["7 Wonders strategy", "7 Wonders tips", "how to win 7 Wonders", "7 Wonders science strategy", "7 Wonders military", "7 Wonders drafting", "Strategy guides"]
 draft: false
 ---

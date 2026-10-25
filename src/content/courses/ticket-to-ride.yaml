@@ -61,6 +61,7 @@ teachSheet:
     - "Claim the routes others want first. Draw cards for the safe ones."
     - "Stop drawing new tickets once anyone is down to about 12 trains."
 diagramAlt: "Ticket to Ride setup: the board in the middle with every scoring marker on 0, the face-down train deck with 5 train cards face up beside it, the ticket deck and the longest path bonus card next to the board, and each player's 45 trains, 4 train cards, and 4 tickets."
+games: [ticket-to-ride]
 related:
   - "ticket-to-ride-strategy"
   - "catan-vs-ticket-to-ride"

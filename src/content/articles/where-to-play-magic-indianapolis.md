@@ -3,6 +3,7 @@ title: "Magic: The Gathering in Indianapolis: Where to Play"
 description: "Where to play Magic: The Gathering in Indianapolis: stores with Friday Night Magic and Commander nights, sorted by area, plus how to find a local cube draft."
 pubDate: 2026-10-21
 category: Game Culture
+games: [magic-the-gathering]
 tags: ["Magic the Gathering Indianapolis", "Friday Night Magic Indianapolis", "Commander night Indianapolis", "MTG stores Indianapolis", "Magic Carmel Fishers Noblesville", "cube draft Indianapolis", "Indianapolis"]
 draft: false
 ---

@@ -108,21 +108,6 @@ export const KIT_ACADEMY_FORMS: Record<string, { action: string }> = {
  * so no email is lost, and previews show a reminder.
  */
 export const KIT_COURSE_FORMS: Record<string, { action: string; alerts?: string }> = {};
-
-/**
- * The Ludometer: The Ludarium's weekly game index (workers/ludometer/README.md).
- * Its pages build only on previews until `live` is true, which waits on BGG's
- * written approval of the commercial license. `api` is the ludometer Worker's
- * origin (workers/ludometer/), blank until it is deployed. `weeklyForm` is the
- * Kit form tagged index-weekly; `watchForm` the "Watch this game" form.
- */
-export const LUDOMETER = {
-  live: false,
-  api: '',
-  weeklyForm: '',
-  watchForm: '',
-};
-
 /**
  * Kit forms for the recurring stories (docs/stories/README.md): `dataset` is
  * the Shelf Life CSV download (tag dataset), `ledger` the industry readers form

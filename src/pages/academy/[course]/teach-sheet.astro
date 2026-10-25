@@ -27,12 +27,15 @@ const pageTitle = [`${d.game} Teach Sheet: Teach It in Ten Minutes`, `${d.game} 
   title={pageTitle}
   description={`A free one-page ${d.game} teach sheet from The Ludarium: setup, a turn, scoring, and three tips, ready to print for your next game night.`.slice(0, 160)}
   noindex={d.draft}
+  games={d.games}
 >
   <div class="container sheet-tools" data-pagefind-ignore>
     <a href={home}>&larr; {d.title}</a>
     <span class="sheet-tools__actions">
       <button class="button button--ghost" type="button" onclick="window.print()">Print</button>
-      <a class="button" href={teachSheetPdfUrl(course)} download>Download PDF</a>
+      <a class="button" href={teachSheetPdfUrl(course)} download data-ott-event="download" data-ott-game={d.games.join(',') || undefined}>
+        Download PDF
+      </a>
     </span>
   </div>
 

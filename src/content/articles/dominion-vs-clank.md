@@ -3,6 +3,7 @@ title: "Dominion vs Clank!: Pure Deck Builder or One With a Board?"
 description: "Dominion vs Clank! compared: players, time, teach time, and what each deck builder does best. Pure card engine or dungeon crawl with a deck? Our verdict."
 pubDate: 2026-10-20
 category: Game Guides
+games: [dominion, clank]
 tags: ["Dominion vs Clank", "best deck building game", "Clank or Dominion", "deck builder for beginners", "Dominion second edition", "deck building games with a board", "Comparisons"]
 draft: false
 ---

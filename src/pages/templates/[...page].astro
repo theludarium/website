@@ -27,19 +27,18 @@ export function getStaticPaths() {
     <ScatterChart
       title="Sample cohort at three months"
       subtitle="Each dot is one game. Sample data."
-      xLabel="Rating count growth"
-      xSuffix="x"
-      yLabel="Average rating change"
+      xLabel="Weeks on the list"
+      yLabel="Rank change since entry"
       groups={['Graduated', 'Faded', 'Too early']}
       points={[
-        { label: 'Game A', x: 4.1, y: 0.05, group: 'Graduated' },
-        { label: 'Game B', x: 3.3, y: -0.1, group: 'Graduated' },
-        { label: 'Game C', x: 5.6, y: 0.12, group: 'Graduated' },
-        { label: 'Game D', x: 1.2, y: -0.45, group: 'Faded' },
-        { label: 'Game E', x: 1.6, y: -0.3, group: 'Faded' },
-        { label: 'Game F', x: 0.9, y: -0.6, group: 'Faded' },
-        { label: 'Game G', x: 2.2, y: 0.02, group: 'Too early' },
-        { label: 'Game H', x: 2.6, y: -0.15, group: 'Too early' },
+        { label: 'Game A', x: 11, y: 8, group: 'Graduated' },
+        { label: 'Game B', x: 9, y: 3, group: 'Graduated' },
+        { label: 'Game C', x: 12, y: 14, group: 'Graduated' },
+        { label: 'Game D', x: 3, y: -12, group: 'Faded' },
+        { label: 'Game E', x: 4, y: -7, group: 'Faded' },
+        { label: 'Game F', x: 2, y: -18, group: 'Faded' },
+        { label: 'Game G', x: 6, y: 1, group: 'Too early' },
+        { label: 'Game H', x: 5, y: -3, group: 'Too early' },
       ]}
       labelled={['Game C', 'Game F']}
       source="Sample data."
