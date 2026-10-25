@@ -255,13 +255,26 @@ const groups = (['Board games', 'Trading card games', 'Game library'] as const)
     color: var(--color-text-muted);
   }
 
+  /* Six picks: one, two, or three across, so the rows always come out even. */
   .academy-start__grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(min(100%, 14rem), 1fr));
+    grid-template-columns: 1fr;
     gap: var(--space-4);
     margin: 0;
     padding: 0;
     list-style: none;
+  }
+
+  @media (min-width: 34rem) {
+    .academy-start__grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (min-width: 52rem) {
+    .academy-start__grid {
+      grid-template-columns: repeat(3, 1fr);
+    }
   }
 
   .academy-start__card {
