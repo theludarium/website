@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-labelledby="t d">
+  <title id="t">Power Grid Recharged setup</title>
+  <desc id="d">The board with four connected regions in play for four players, every player's house on 0 of the cities track, a random turn order, the resource market stocked for setup, the power plant market with four current and four future plants, the draw pile, the discount token and auction hammer, the refill card, and each player's houses, 50 Elektro, and payout card.</desc>
+  <defs>
+    <path id="h" d="M0 5 L5 0 L10 5 L10 11 L0 11 Z"/>
+    <g id="c-on">
+      <g stroke="#2B1E16" stroke-width="1"><line x1="8" y1="7" x2="26" y2="6"/><line x1="26" y1="6" x2="46" y2="9"/><line x1="8" y1="7" x2="15" y2="20"/><line x1="26" y1="6" x2="35" y2="19"/><line x1="15" y1="20" x2="35" y2="19"/><line x1="46" y1="9" x2="35" y2="19"/><line x1="15" y1="20" x2="9" y2="31"/><line x1="35" y1="19" x2="42" y2="31"/><line x1="9" y1="31" x2="42" y2="31"/></g>
+      <g fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"><circle cx="8" cy="7" r="3"/><circle cx="26" cy="6" r="3"/><circle cx="46" cy="9" r="3"/><circle cx="15" cy="20" r="3"/><circle cx="35" cy="19" r="3"/><circle cx="9" cy="31" r="3"/><circle cx="42" cy="31" r="3"/></g>
+    </g>
+    <g id="c-off">
+      <g stroke="#B9AD9C" stroke-width="1"><line x1="8" y1="7" x2="26" y2="6"/><line x1="26" y1="6" x2="46" y2="9"/><line x1="8" y1="7" x2="15" y2="20"/><line x1="26" y1="6" x2="35" y2="19"/><line x1="15" y1="20" x2="35" y2="19"/><line x1="46" y1="9" x2="35" y2="19"/><line x1="15" y1="20" x2="9" y2="31"/><line x1="35" y1="19" x2="42" y2="31"/><line x1="9" y1="31" x2="42" y2="31"/></g>
+      <g fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"><circle cx="8" cy="7" r="3"/><circle cx="26" cy="6" r="3"/><circle cx="46" cy="9" r="3"/><circle cx="15" cy="20" r="3"/><circle cx="35" cy="19" r="3"/><circle cx="9" cy="31" r="3"/><circle cx="42" cy="31" r="3"/></g>
+    </g>
+  </defs>
+  <rect width="480" height="320" fill="#F6EFE3"/>
+  <g font-family="system-ui, sans-serif" font-size="12" fill="#2B1E16">
+
+    <!-- Board -->
+    <rect x="8" y="8" width="296" height="250" rx="12" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.5"/>
+    <text x="18" y="25" font-size="13" font-weight="700">Board: Germany side</text>
+    <!-- Connected cities track, every house on 0 -->
+    <rect x="18" y="31" width="34" height="13" rx="3" fill="#F6EFE3" stroke="#2B1E16"/>
+    <use href="#h" transform="translate(20 33) scale(0.7)" fill="#2F5D50"/>
+    <use href="#h" transform="translate(28 33) scale(0.7)" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+    <use href="#h" transform="translate(36 33) scale(0.7)" fill="#2B1E16"/>
+    <use href="#h" transform="translate(44 33) scale(0.7)" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.8"/>
+    <g fill="#F6EFE3" stroke="#B9AD9C"><rect x="56" y="31" width="13" height="13" rx="3"/><rect x="71" y="31" width="13" height="13" rx="3"/><rect x="86" y="31" width="13" height="13" rx="3"/><rect x="101" y="31" width="13" height="13" rx="3"/><rect x="116" y="31" width="13" height="13" rx="3"/><rect x="131" y="31" width="13" height="13" rx="3"/><rect x="146" y="31" width="13" height="13" rx="3"/><rect x="161" y="31" width="13" height="13" rx="3"/><rect x="176" y="31" width="13" height="13" rx="3"/><rect x="191" y="31" width="13" height="13" rx="3"/><rect x="206" y="31" width="13" height="13" rx="3"/><rect x="221" y="31" width="13" height="13" rx="3"/></g>
+    <text x="243" y="42" font-size="12">…</text>
+    <text x="18" y="57" font-size="11">Cities track: every player's house starts on 0</text>
+    <!-- Map: six regions, four connected regions in play -->
+    <rect x="18" y="64" width="56" height="38" rx="8" fill="#2F5D50" fill-opacity="0.22" stroke="#2F5D50" stroke-width="1.2"/>
+    <use href="#c-on" x="18" y="64"/>
+    <rect x="78" y="64" width="56" height="38" rx="8" fill="#2F5D50" fill-opacity="0.22" stroke="#2F5D50" stroke-width="1.2"/>
+    <use href="#c-on" x="78" y="64"/>
+    <rect x="138" y="64" width="56" height="38" rx="8" fill="none" stroke="#B9AD9C" stroke-width="1.2" stroke-dasharray="4 3"/>
+    <use href="#c-off" x="138" y="64"/>
+    <rect x="18" y="106" width="56" height="38" rx="8" fill="#2F5D50" fill-opacity="0.22" stroke="#2F5D50" stroke-width="1.2"/>
+    <use href="#c-on" x="18" y="106"/>
+    <rect x="78" y="106" width="56" height="38" rx="8" fill="#2F5D50" fill-opacity="0.22" stroke="#2F5D50" stroke-width="1.2"/>
+    <use href="#c-on" x="78" y="106"/>
+    <rect x="138" y="106" width="56" height="38" rx="8" fill="none" stroke="#B9AD9C" stroke-width="1.2" stroke-dasharray="4 3"/>
+    <use href="#c-off" x="138" y="106"/>
+    <g stroke="#2B1E16" stroke-width="1"><line x1="64" y1="73" x2="86" y2="71"/><line x1="64" y1="115" x2="86" y2="113"/><line x1="27" y1="95" x2="26" y2="112"/><line x1="120" y1="95" x2="124" y2="115"/></g>
+    <g stroke="#B9AD9C" stroke-width="1"><line x1="124" y1="73" x2="146" y2="71"/><line x1="124" y1="115" x2="146" y2="113"/></g>
+    <text x="18" y="157" font-size="11">In play: 4 connected green regions. Dashed: out.</text>
+    <!-- Resource legend -->
+    <g font-size="11"><rect x="18" y="164" width="6" height="6" fill="#2B1E16"/><text x="28" y="170">coal</text><circle cx="69" cy="167" r="3" fill="#2F5D50"/><text x="76" y="170">oil</text><rect x="98" y="164" width="6" height="6" fill="#E0A23B"/><text x="108" y="170">garbage</text><circle cx="166" cy="167" r="3.5" fill="#E0A23B" stroke="#2B1E16" stroke-width="1.4"/><text x="173" y="170">uranium</text><rect x="226" y="164" width="6" height="6" fill="none" stroke="#B9AD9C"/><text x="236" y="170">empty</text></g>
+    <!-- Turn order track -->
+    <text x="206" y="76" font-weight="700">Turn order</text>
+    <g fill="#F6EFE3" stroke="#B9AD9C"><rect x="206" y="82" width="12" height="12" rx="2"/><rect x="220" y="82" width="12" height="12" rx="2"/><rect x="234" y="82" width="12" height="12" rx="2"/><rect x="248" y="82" width="12" height="12" rx="2"/><rect x="262" y="82" width="12" height="12" rx="2"/><rect x="276" y="82" width="12" height="12" rx="2"/><rect x="206" y="98" width="12" height="12" rx="2"/><rect x="220" y="98" width="12" height="12" rx="2"/><rect x="234" y="98" width="12" height="12" rx="2"/><rect x="248" y="98" width="12" height="12" rx="2"/><rect x="262" y="98" width="12" height="12" rx="2"/><rect x="276" y="98" width="12" height="12" rx="2"/></g>
+    <use href="#h" transform="translate(207.5 83.5) scale(0.82)" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+    <use href="#h" transform="translate(221.5 83.5) scale(0.82)" fill="#2B1E16"/>
+    <use href="#h" transform="translate(235.5 83.5) scale(0.82)" fill="#2F5D50"/>
+    <use href="#h" transform="translate(249.5 83.5) scale(0.82)" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.8"/>
+    <text x="206" y="122" font-size="11">Top row: one</text>
+    <text x="206" y="134" font-size="11">house each,</text>
+    <text x="206" y="146" font-size="11">random order</text>
+    <!-- Resource market at setup -->
+    <rect x="16" y="176" width="282" height="78" rx="8" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <text x="24" y="190" font-weight="700">Resource market</text>
+    <text x="128" y="190" font-size="11">stocked for setup</text>
+    <g><text x="36" y="202" font-size="11" text-anchor="middle">1</text><text x="61" y="202" font-size="11" text-anchor="middle">2</text><text x="86" y="202" font-size="11" text-anchor="middle">3</text><text x="111" y="202" font-size="11" text-anchor="middle">4</text><text x="136" y="202" font-size="11" text-anchor="middle">5</text><text x="161" y="202" font-size="11" text-anchor="middle">6</text><text x="186" y="202" font-size="11" text-anchor="middle">7</text><text x="211" y="202" font-size="11" text-anchor="middle">8</text></g>
+    <text x="236" y="202" font-size="11" text-anchor="middle">10</text>
+    <text x="253" y="202" font-size="11" text-anchor="middle">12</text>
+    <text x="270" y="202" font-size="11" text-anchor="middle">14</text>
+    <text x="287" y="202" font-size="11" text-anchor="middle">16</text>
+    <g><rect x="27" y="206" width="6" height="6" fill="#2B1E16"/><rect x="34" y="206" width="6" height="6" fill="#2B1E16"/><rect x="41" y="206" width="6" height="6" fill="#2B1E16"/><circle cx="30" cy="219" r="3" fill="none" stroke="#B9AD9C" stroke-width="1"/><circle cx="37" cy="219" r="3" fill="none" stroke="#B9AD9C" stroke-width="1"/><circle cx="44" cy="219" r="3" fill="none" stroke="#B9AD9C" stroke-width="1"/><rect x="27" y="226" width="6" height="6" fill="none" stroke="#B9AD9C" stroke-width="1"/><rect x="34" y="226" width="6" height="6" fill="none" stroke="#B9AD9C" stroke-width="1"/><rect x="41" y="226" width="6" height="6" fill="none" stroke="#B9AD9C" stroke-width="1"/><circle cx="37" cy="240" r="3.5" fill="none" stroke="#B9AD9C" stroke-width="1"/></g>
+    <g><rect x="52" y="206" width="6" height="6" fill="#2B1E16"/><rect x="59" y="206" width="6" height="6" fill="#2B1E16"/><rect x="66" y="206" width="6" height="6" fill="#2B1E16"/><circle cx="55" cy="219" r="3" fill="none" stroke="#B9AD9C" stroke-width="1"/><circle cx="62" cy="219" r="3" fill="none" stroke="#B9AD9C" stroke-width="1"/><circle cx="69" cy="219" r="3" fill="none" stroke="#B9AD9C" stroke-width="1"/><rect x="52" y="226" width="6" height="6" fill="none" stroke="#B9AD9C" stroke-width="1"/><rect x="59" y="226" width="6" height="6" fill="none" stroke="#B9AD9C" stroke-width="1"/><rect x="66" y="226" width="6" height="6" fill="none" stroke="#B9AD9C" stroke-width="1"/><circle cx="62" cy="240" r="3.5" fill="none" stroke="#B9AD9C" stroke-width="1"/></g>
+    <g><rect x="77" y="206" width="6" height="6" fill="#2B1E16"/><rect x="84" y="206" width="6" height="6" fill="#2B1E16"/><rect x="91" y="206" width="6" height="6" fill="#2B1E16"/><circle cx="80" cy="219" r="3" fill="#2F5D50"/><circle cx="87" cy="219" r="3" fill="#2F5D50"/><circle cx="94" cy="219" r="3" fill="#2F5D50"/><rect x="77" y="226" width="6" height="6" fill="none" stroke="#B9AD9C" stroke-width="1"/><rect x="84" y="226" width="6" height="6" fill="none" stroke="#B9AD9C" stroke-width="1"/><rect x="91" y="226" width="6" height="6" fill="none" stroke="#B9AD9C" stroke-width="1"/><circle cx="87" cy="240" r="3.5" fill="none" stroke="#B9AD9C" stroke-width="1"/></g>
+    <g><rect x="102" y="206" width="6" height="6" fill="#2B1E16"/><rect x="109" y="206" width="6" height="6" fill="#2B1E16"/><rect x="116" y="206" width="6" height="6" fill="#2B1E16"/><circle cx="105" cy="219" r="3" fill="#2F5D50"/><circle cx="112" cy="219" r="3" fill="#2F5D50"/><circle cx="119" cy="219" r="3" fill="#2F5D50"/><rect x="102" y="226" width="6" height="6" fill="none" stroke="#B9AD9C" stroke-width="1"/><rect x="109" y="226" width="6" height="6" fill="none" stroke="#B9AD9C" stroke-width="1"/><rect x="116" y="226" width="6" height="6" fill="none" stroke="#B9AD9C" stroke-width="1"/><circle cx="112" cy="240" r="3.5" fill="none" stroke="#B9AD9C" stroke-width="1"/></g>
+    <g><rect x="127" y="206" width="6" height="6" fill="#2B1E16"/><rect x="134" y="206" width="6" height="6" fill="#2B1E16"/><rect x="141" y="206" width="6" height="6" fill="#2B1E16"/><circle cx="130" cy="219" r="3" fill="#2F5D50"/><circle cx="137" cy="219" r="3" fill="#2F5D50"/><circle cx="144" cy="219" r="3" fill="#2F5D50"/><rect x="127" y="226" width="6" height="6" fill="none" stroke="#B9AD9C" stroke-width="1"/><rect x="134" y="226" width="6" height="6" fill="none" stroke="#B9AD9C" stroke-width="1"/><rect x="141" y="226" width="6" height="6" fill="none" stroke="#B9AD9C" stroke-width="1"/><circle cx="137" cy="240" r="3.5" fill="none" stroke="#B9AD9C" stroke-width="1"/></g>
+    <g><rect x="152" y="206" width="6" height="6" fill="#2B1E16"/><rect x="159" y="206" width="6" height="6" fill="#2B1E16"/><rect x="166" y="206" width="6" height="6" fill="#2B1E16"/><circle cx="155" cy="219" r="3" fill="#2F5D50"/><circle cx="162" cy="219" r="3" fill="#2F5D50"/><circle cx="169" cy="219" r="3" fill="#2F5D50"/><rect x="152" y="226" width="6" height="6" fill="#E0A23B"/><rect x="159" y="226" width="6" height="6" fill="#E0A23B"/><rect x="166" y="226" width="6" height="6" fill="#E0A23B"/><circle cx="162" cy="240" r="3.5" fill="none" stroke="#B9AD9C" stroke-width="1"/></g>
+    <g><rect x="177" y="206" width="6" height="6" fill="#2B1E16"/><rect x="184" y="206" width="6" height="6" fill="#2B1E16"/><rect x="191" y="206" width="6" height="6" fill="#2B1E16"/><circle cx="180" cy="219" r="3" fill="#2F5D50"/><circle cx="187" cy="219" r="3" fill="#2F5D50"/><circle cx="194" cy="219" r="3" fill="#2F5D50"/><rect x="177" y="226" width="6" height="6" fill="#E0A23B"/><rect x="184" y="226" width="6" height="6" fill="#E0A23B"/><rect x="191" y="226" width="6" height="6" fill="#E0A23B"/><circle cx="187" cy="240" r="3.5" fill="none" stroke="#B9AD9C" stroke-width="1"/></g>
+    <g><rect x="202" y="206" width="6" height="6" fill="#2B1E16"/><rect x="209" y="206" width="6" height="6" fill="#2B1E16"/><rect x="216" y="206" width="6" height="6" fill="#2B1E16"/><circle cx="205" cy="219" r="3" fill="#2F5D50"/><circle cx="212" cy="219" r="3" fill="#2F5D50"/><circle cx="219" cy="219" r="3" fill="#2F5D50"/><rect x="202" y="226" width="6" height="6" fill="#E0A23B"/><rect x="209" y="226" width="6" height="6" fill="#E0A23B"/><rect x="216" y="226" width="6" height="6" fill="#E0A23B"/><circle cx="212" cy="240" r="3.5" fill="none" stroke="#B9AD9C" stroke-width="1"/></g>
+    <circle cx="236" cy="240" r="3.5" fill="none" stroke="#B9AD9C" stroke-width="1"/>
+    <circle cx="253" cy="240" r="3.5" fill="none" stroke="#B9AD9C" stroke-width="1"/>
+    <circle cx="270" cy="240" r="3.5" fill="#E0A23B" stroke="#2B1E16" stroke-width="1.4"/>
+    <circle cx="287" cy="240" r="3.5" fill="#E0A23B" stroke="#2B1E16" stroke-width="1.4"/>
+
+    <!-- Power plant market -->
+    <rect x="312" y="8" width="160" height="148" rx="12" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.5"/>
+    <text x="322" y="25" font-size="13" font-weight="700">Power plant market</text>
+    <text x="322" y="41" font-size="11">Current market: smallest 4</text>
+    <rect x="322" y="46" width="30" height="36" rx="4" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/><text x="337" y="68" text-anchor="middle" font-weight="700" fill="#2F5D50">03</text>
+    <rect x="358" y="46" width="30" height="36" rx="4" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/><text x="373" y="68" text-anchor="middle" font-weight="700" fill="#2F5D50">04</text>
+    <rect x="394" y="46" width="30" height="36" rx="4" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/><text x="409" y="68" text-anchor="middle" font-weight="700" fill="#2F5D50">05</text>
+    <rect x="430" y="46" width="30" height="36" rx="4" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/><text x="445" y="68" text-anchor="middle" font-weight="700" fill="#2F5D50">07</text>
+    <text x="322" y="99" font-size="11">Future market: next 4</text>
+    <rect x="322" y="104" width="30" height="36" rx="4" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/><text x="337" y="126" text-anchor="middle" font-weight="700" fill="#2F5D50">10</text>
+    <rect x="358" y="104" width="30" height="36" rx="4" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/><text x="373" y="126" text-anchor="middle" font-weight="700" fill="#2F5D50">13</text>
+    <rect x="394" y="104" width="30" height="36" rx="4" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/><text x="409" y="126" text-anchor="middle" font-weight="700" fill="#2F5D50">14</text>
+    <rect x="430" y="104" width="30" height="36" rx="4" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/><text x="445" y="126" text-anchor="middle" font-weight="700" fill="#2F5D50">15</text>
+    <text x="392" y="152" font-size="11" text-anchor="middle">Random 8 from 03 to 15</text>
+
+    <!-- Draw pile -->
+    <rect x="324" y="170" width="28" height="34" rx="4" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="321" y="167" width="28" height="34" rx="4" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="318" y="164" width="28" height="34" rx="4" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <g fill="#2B1E16"><rect x="326" y="176" width="12" height="9" rx="2"/><rect x="328" y="171" width="2" height="5"/><rect x="334" y="171" width="2" height="5"/><rect x="331" y="185" width="2" height="5"/></g>
+    <text x="358" y="176" font-weight="700">Draw pile</text>
+    <text x="358" y="190" font-size="11">plug back on top,</text>
+    <text x="358" y="203" font-size="11">Step 3 card at bottom</text>
+
+    <!-- Discount token and auction hammer -->
+    <circle cx="326" cy="224" r="8" fill="#E0A23B" stroke="#2B1E16" stroke-width="1.2"/>
+    <g fill="#2B1E16"><rect x="338" y="215" width="14" height="7" rx="2"/><rect x="343" y="222" width="4" height="12" rx="1.5"/></g>
+    <text x="358" y="222" font-size="11">Discount token and</text>
+    <text x="358" y="235" font-size="11">auction hammer</text>
+
+    <!-- Refill card -->
+    <rect x="318" y="242" width="32" height="18" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/>
+    <g stroke="#B9AD9C" stroke-width="1.5"><line x1="322" y1="248" x2="346" y2="248"/><line x1="322" y1="254" x2="340" y2="254"/></g>
+    <text x="358" y="250" font-size="11">Refill card for your</text>
+    <text x="358" y="262" font-size="11">player count</text>
+
+    <!-- Each player -->
+    <rect x="8" y="268" width="464" height="46" rx="12" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.5"/>
+    <text x="18" y="286" font-weight="700">Each player takes</text>
+    <use href="#h" x="130" y="276" fill="#2F5D50"/>
+    <text x="145" y="286">22 houses</text>
+    <rect x="212" y="277" width="18" height="10" rx="2" fill="#2F5D50" fill-opacity="0.22" stroke="#2F5D50"/>
+    <text x="235" y="286">50 Elektro</text>
+    <rect x="306" y="274" width="10" height="14" rx="2" fill="#F6EFE3" stroke="#2B1E16"/>
+    <text x="321" y="286">payout card</text>
+    <use href="#h" x="412" y="276" fill="#2F5D50"/>
+    <use href="#h" x="426" y="276" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+    <use href="#h" x="440" y="276" fill="#2B1E16"/>
+    <use href="#h" x="454" y="276" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.8"/>
+    <text x="18" y="305" font-size="11">Bank: money beside the board. Supply: the spare resource markers beside the market.</text>
+  </g>
+</svg>
