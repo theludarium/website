@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-labelledby="t d">
+  <title id="t">Flip 7 setup</title>
+  <desc id="d">The start of a round: a face-down draw deck in the middle of the table with a set-aside pile beside it, one face-up card dealt to each of four players, a sample line of number cards with a modifier and an action card above it, a score sheet racing to 200, and a key to the 94-card deck.</desc>
+  <defs>
+    <rect id="card" width="22" height="30" rx="3"/>
+    <rect id="big" width="26" height="36" rx="3"/>
+  </defs>
+  <rect width="480" height="320" fill="#F6EFE3"/>
+  <g font-family="system-ui, sans-serif" font-size="12" fill="#2B1E16">
+
+    <!-- Deck key -->
+    <rect x="16" y="8" width="448" height="84" rx="10" fill="none" stroke="#2B1E16" stroke-width="1.5"/>
+    <text x="28" y="27" font-size="13" font-weight="700">The deck: 94 cards</text>
+
+    <rect x="28" y="36" width="10" height="14" rx="2" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <text x="44" y="47" font-weight="700">79 Number cards</text>
+    <text x="28" y="64">Twelve 12s, eleven 11s,</text>
+    <text x="28" y="79">down to one 1, plus a 0</text>
+
+    <rect x="174" y="36" width="10" height="14" rx="2" fill="#E0A23B" stroke="#2B1E16" stroke-width="1"/>
+    <text x="190" y="47" font-weight="700">6 Modifier cards</text>
+    <text x="174" y="64">+2, +4, +6, +8, +10</text>
+    <text x="174" y="79">and one x2</text>
+
+    <rect x="312" y="36" width="10" height="14" rx="2" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+    <text x="328" y="47" font-weight="700">9 Action cards</text>
+    <text x="312" y="64">3 Freeze, 3 Flip Three,</text>
+    <text x="312" y="79">3 Second Chance</text>
+
+    <!-- Table: the start of a round -->
+    <rect x="16" y="100" width="284" height="212" rx="14" fill="none" stroke="#B9AD9C" stroke-width="1.2" stroke-dasharray="4 4"/>
+    <text x="28" y="119" fill="#2F5D50" font-weight="700">Start of a round</text>
+    <text x="28" y="134" fill="#2F5D50">1 card face up each</text>
+
+    <!-- Draw deck, face down -->
+    <g stroke="#2B1E16" stroke-width="1" fill="#B9AD9C">
+      <rect x="106" y="170" width="30" height="42" rx="4"/>
+      <rect x="103" y="167" width="30" height="42" rx="4"/>
+      <rect x="100" y="164" width="30" height="42" rx="4"/>
+    </g>
+    <text x="118" y="232" text-anchor="middle" font-weight="700">Draw deck</text>
+    <text x="118" y="246" text-anchor="middle">face down</text>
+
+    <!-- Set-aside pile, empty at the start -->
+    <rect x="194" y="164" width="30" height="42" rx="4" fill="none" stroke="#2B1E16" stroke-width="1" stroke-dasharray="3 3"/>
+    <text x="209" y="232" text-anchor="middle" font-weight="700">Set aside</text>
+    <text x="209" y="246" text-anchor="middle">used cards</text>
+
+    <!-- Player 2, top: a modifier card -->
+    <use href="#card" x="152" y="108" fill="#E0A23B" stroke="#2B1E16" stroke-width="1"/>
+    <text x="163" y="128" text-anchor="middle" font-weight="700">+6</text>
+    <text x="182" y="127">Player 2</text>
+
+    <!-- Player 1, left -->
+    <use href="#card" x="34" y="168" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/>
+    <text x="45" y="188" text-anchor="middle" font-weight="700">9</text>
+    <text x="28" y="218">Player 1</text>
+
+    <!-- Player 3, right -->
+    <use href="#card" x="258" y="168" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/>
+    <text x="269" y="188" text-anchor="middle" font-weight="700">12</text>
+    <text x="290" y="218" text-anchor="end">Player 3</text>
+
+    <!-- Dealer, bottom -->
+    <use href="#card" x="152" y="264" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/>
+    <text x="163" y="284" text-anchor="middle" font-weight="700">4</text>
+    <text x="182" y="276" font-weight="700">Dealer</text>
+    <text x="182" y="291">(Player 4)</text>
+
+    <!-- One player's line -->
+    <rect x="312" y="100" width="152" height="212" rx="10" fill="none" stroke="#2B1E16" stroke-width="1.5"/>
+    <text x="324" y="119" font-size="13" font-weight="700">One player's line</text>
+
+    <use href="#big" x="324" y="128" fill="#E0A23B" stroke="#2B1E16" stroke-width="1"/>
+    <text x="337" y="151" text-anchor="middle" font-weight="700">+4</text>
+    <use href="#big" x="356" y="128" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+    <path d="M369 136 L377 139 L377 146 Q377 153 369 157 Q361 153 361 146 L361 139 Z" fill="#F6EFE3"/>
+    <text x="390" y="139">Modifier</text>
+    <text x="390" y="152">and action</text>
+    <text x="390" y="165">cards above</text>
+
+    <use href="#big" x="324" y="174" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/>
+    <text x="337" y="197" text-anchor="middle" font-weight="700">3</text>
+    <use href="#big" x="356" y="174" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/>
+    <text x="369" y="197" text-anchor="middle" font-weight="700">8</text>
+    <use href="#big" x="388" y="174" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/>
+    <text x="401" y="197" text-anchor="middle" font-weight="700">11</text>
+    <rect x="420" y="174" width="26" height="36" rx="3" fill="none" stroke="#B9AD9C" stroke-width="1.2" stroke-dasharray="3 3"/>
+    <text x="433" y="197" text-anchor="middle" fill="#2F5D50" font-weight="700">?</text>
+
+    <text x="324" y="228">Number cards: one row</text>
+    <text x="324" y="242">Repeat a number: bust</text>
+    <text x="324" y="260" font-weight="700">3 + 8 + 11 + 4 = 26</text>
+
+    <!-- Score sheet -->
+    <rect x="324" y="270" width="16" height="22" rx="2" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <path d="M327 276 H337 M327 281 H337 M327 286 H334" stroke="#B9AD9C" stroke-width="1.2"/>
+    <text x="346" y="280" font-weight="700">Score sheet</text>
+    <text x="346" y="294">race to 200</text>
+  </g>
+</svg>

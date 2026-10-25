@@ -1,0 +1,81 @@
+---
+// A horizontal bar chart for report articles (the Ludarium Ledger: one measure
+// across a few companies, years, or categories). One series, so no legend: the
+// title names it. Bars are at most 24px thick, grow from one baseline, have a
+// 4px rounded end, and carry their value at the tip. Hover and focus show the
+// tooltip; the table view holds every value. Usage in MDX:
+//   <BarChart title="Tabletop funding on Kickstarter, by year" bars={[{ label: '2025', value: 250 }]} prefix="$" suffix="M" />
+import { compact } from '@/lib/chart';
+
+interface Props {
+  title: string;
+  subtitle?: string;
+  bars: { label: string; value: number }[];
+  prefix?: string;
+  suffix?: string;
+  source?: string;
+}
+
+const { title, subtitle, bars, prefix = '', suffix = '', source } = Astro.props;
+const W = 640;
+const labelW = 150;
+const band = 36;
+const thick = 22;
+const H = bars.length * band + 8;
+const max = Math.max(...bars.map((b) => b.value), 0);
+const plotW = W - labelW - 70;
+const len = (v: number) => (max > 0 ? (Math.max(v, 0) / max) * plotW : 0);
+const fmt = (v: number) => `${prefix}${compact(v)}${suffix}`;
+// A bar with a 4px rounded data end and a square baseline.
+const bar = (x: number, y: number, w: number) => {
+  const r = Math.min(4, w);
+  return `M${x},${y} h${w - r} a${r},${r} 0 0 1 ${r},${r} v${thick - 2 * r} a${r},${r} 0 0 1 -${r},${r} h-${w - r} z`;
+};
+---
+
+<figure class="chart" data-chart>
+  <figcaption class="chart__head">
+    <span class="chart__title">{title}</span>
+    {subtitle && <span class="chart__subtitle">{subtitle}</span>}
+  </figcaption>
+  <div class="chart__plot">
+    <svg viewBox={`0 0 ${W} ${H}`} role="img" aria-label={`${title}. ${bars.map((b) => `${b.label} ${fmt(b.value)}`).join(', ')}`}>
+      <line class="chart__zero" x1={labelW} x2={labelW} y1="0" y2={H} />
+      {
+        bars.map((b, i) => {
+          const y = i * band + (band - thick) / 2 + 4;
+          const w = len(b.value);
+          return (
+            <g class="chart__point" tabindex="0" data-tip={`${b.label}: ${fmt(b.value)}`}>
+              <text class="chart__tick" x={labelW - 10} y={y + thick / 2 + 4} text-anchor="end">{b.label}</text>
+              <rect class="chart__hit" x={labelW} y={y - 6} width={plotW + 60} height={thick + 12} />
+              {w > 0 && <path class="chart__bar" d={bar(labelW + 1, y, w)} />}
+              <text class="chart__value" x={labelW + w + 8} y={y + thick / 2 + 4}>{fmt(b.value)}</text>
+            </g>
+          );
+        })
+      }
+    </svg>
+    <div class="chart__tip" role="status" hidden />
+  </div>
+  <details class="chart__table">
+    <summary>Show the data as a table</summary>
+    <table>
+      <tbody>
+        {bars.map((b) => <tr><th scope="row">{b.label}</th><td>{fmt(b.value)}</td></tr>)}
+      </tbody>
+    </table>
+  </details>
+  {source && <p class="chart__source">Source: {source}</p>}
+</figure>
+
+<style is:global>
+  .chart__bar {
+    fill: var(--chart-1);
+  }
+
+  .chart__point:hover .chart__bar,
+  .chart__point:focus .chart__bar {
+    opacity: 0.85;
+  }
+</style>

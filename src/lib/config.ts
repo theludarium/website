@@ -99,3 +99,23 @@ export const MALAPHOR_KINDLE_URL = 'https://www.amazon.com/dp/B0HNTT7KKV';
 export const KIT_ACADEMY_FORMS: Record<string, { action: string }> = {
   catan: { action: 'https://app.kit.com/forms/10083674/subscriptions' },
 };
+
+/**
+ * Kit forms for the game courses (src/content/courses/), keyed by course slug.
+ * `action` is the "Academy: <Game>" form (tags course-<slug>, or tcg-<slug> for
+ * trading card games); `alerts` is the optional set-alerts form for TCG courses.
+ * Until a course has an entry, its signup posts to the general newsletter form
+ * so no email is lost, and previews show a reminder.
+ */
+export const KIT_COURSE_FORMS: Record<string, { action: string; alerts?: string }> = {};
+/**
+ * Kit forms for the recurring stories (docs/stories/README.md): `dataset` is
+ * the Shelf Life CSV download (tag dataset), `ledger` the industry readers form
+ * (tag ledger). Blank until the forms exist in Kit; until then signups join the
+ * general newsletter.
+ */
+export const KIT_STORY_FORMS = {
+  dataset: '',
+  ledger: '',
+};
+

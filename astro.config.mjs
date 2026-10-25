@@ -24,6 +24,24 @@ const rdlPages = fs.existsSync(RDL_GAMES)
 // Game Night Madness is copied in the same way (scripts/game-night-madness.mjs).
 const gnmPages = fs.existsSync('vendor/game-night-madness/index.html') ? ['https://theludarium.com/game-night-madness/'] : [];
 
+// Game course lessons past the course's public ones are reached from the emails
+// and stay out of the sitemap. Same rule as PUBLIC_LESSONS in src/lib/courses.ts.
+/** @type {Record<string, number>} */
+const PUBLIC_LESSONS = { full: 2, masterclass: 1, 'teach-tonight': 2, tcg: 8 };
+const COURSE_DIR = 'src/content/courses';
+const LESSON_DIR = 'src/content/course-lessons';
+const emailOnlyLessons = new Set();
+if (fs.existsSync(LESSON_DIR)) {
+  for (const course of fs.readdirSync(LESSON_DIR)) {
+    const yaml = `${COURSE_DIR}/${course}.yaml`;
+    const format = fs.existsSync(yaml) ? (fs.readFileSync(yaml, 'utf8').match(/^format:\s*['"]?([\w-]+)/m)?.[1] ?? 'full') : 'full';
+    for (const file of fs.readdirSync(`${LESSON_DIR}/${course}`).filter((f) => f.endsWith('.md'))) {
+      const order = Number(fs.readFileSync(`${LESSON_DIR}/${course}/${file}`, 'utf8').match(/^order:\s*(\d+)/m)?.[1] ?? 0);
+      if (order > (PUBLIC_LESSONS[format] ?? 2)) emailOnlyLessons.add(`/academy/${course}/${file.replace(/\.md$/, '')}/`);
+    }
+  }
+}
+
 export default defineConfig({
   site: 'https://theludarium.com',
   output: 'static',
@@ -35,7 +53,10 @@ export default defineConfig({
     mdx(),
     sitemap({
       customPages: [...rdlPages, ...gnmPages],
-      filter: (page) => !NOT_IN_SITEMAP.some((path) => new URL(page).pathname === path),
+      filter: (page) => {
+        const path = new URL(page).pathname;
+        return !NOT_IN_SITEMAP.includes(path) && !emailOnlyLessons.has(path);
+      },
     }),
   ],
   markdown: {

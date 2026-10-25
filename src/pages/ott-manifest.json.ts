@@ -6,9 +6,11 @@
 //
 // kind is one of article | course | teach_sheet | hub | product. A course's own
 // page and its lessons are all `course`; the course page is /academy/<course>/.
+// Game courses (src/content/courses/) add their printable teach sheet as `teach_sheet`.
 import type { APIRoute } from 'astro';
 import { articleUrl, getArticles } from '@/lib/articles';
 import { COURSES, getLessonPages, lessonGames, lessonUrl } from '@/lib/academy';
+import { courseLessonGames, courseLessonUrl, courseUrl, getCourseLessons, getGameCourses, lessonHasPage, teachSheetUrl } from '@/lib/courses';
 
 interface ManifestItem {
   path: string;
@@ -37,6 +39,22 @@ export const GET: APIRoute = async () => {
     for (const lesson of lessons) {
       const games = lessonGames(course, lesson);
       if (games.length) items.push({ path: lessonUrl(lesson), kind: 'course', title: lesson.data.title, published_on: day(lesson.data.pubDate), games });
+    }
+  }
+
+  for (const course of await getGameCourses()) {
+    const { title, games } = course.data;
+    const lessons = (await getCourseLessons(course.id)).filter(lessonHasPage);
+    const first = lessons.map((l) => l.data.pubDate).sort((a, b) => a.getTime() - b.getTime())[0];
+    if (games.length && first) {
+      items.push({ path: courseUrl(course), kind: 'course', title, published_on: day(first), games });
+      items.push({ path: teachSheetUrl(course), kind: 'teach_sheet', title: `${course.data.game} teach sheet`, published_on: day(first), games });
+    }
+    for (const lesson of lessons) {
+      const lessonGames = courseLessonGames(course, lesson);
+      if (lessonGames.length) {
+        items.push({ path: courseLessonUrl(lesson), kind: 'course', title: lesson.data.title, published_on: day(lesson.data.pubDate), games: lessonGames });
+      }
     }
   }
 

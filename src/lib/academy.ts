@@ -36,6 +36,8 @@ export interface Course {
   levels: Level[];
   /** The article the course grew out of. */
   companionArticle: { href: string; title: string };
+  /** Unofficial-content notice shown on the course page and every lesson. */
+  notice: string;
   /** The games the course teaches, as On the Table slugs (see `games` in src/content.config.ts). */
   games: string[];
 }
@@ -65,6 +67,7 @@ export const COURSES: Course[] = [
       href: '/articles/catan-tournament-qualifier/',
       title: 'I Came to Cube. I’m Staying for Catan.',
     },
+    notice: 'Unofficial. Not affiliated with CATAN GmbH or Catan Studio. CATAN is a trademark of CATAN GmbH.',
     games: ['catan'],
   },
 ];

@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-labelledby="t d">
+  <title id="t">Wingspan setup</title>
+  <desc id="d">A shared area with the bird deck, the bird tray holding 3 face-up birds, the birdfeeder with 5 food dice, the goal board with 4 goal tiles for rounds 1 to 4, the bonus card deck, and the food and egg supply. Below, one player's mat with egg costs over the 5 columns and empty forest, grassland, and wetland rows, beside that player's 8 action cubes, 5 starting birds and 5 food, 2 bonus cards, and the first-player token.</desc>
+  <defs>
+    <g id="card">
+      <rect width="30" height="42" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+      <circle cx="15" cy="17" r="7" fill="#2F5D50"/>
+      <rect x="6" y="30" width="18" height="3" rx="1.5" fill="#B9AD9C"/>
+    </g>
+    <g id="back">
+      <rect width="30" height="42" rx="3" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    </g>
+    <g id="mini">
+      <rect width="12" height="17" rx="2" fill="#F6EFE3" stroke="#2B1E16" stroke-width="0.8"/>
+      <circle cx="6" cy="7" r="3" fill="#2F5D50"/>
+    </g>
+    <g id="die">
+      <rect width="8" height="8" rx="1.5" fill="#F6EFE3" stroke="#2B1E16" stroke-width="0.8"/>
+      <circle cx="4" cy="4" r="1.4" fill="#2B1E16"/>
+    </g>
+    <g id="slot">
+      <rect width="40" height="28" rx="4" fill="none" stroke-width="1" stroke-dasharray="3 3"/>
+    </g>
+  </defs>
+  <rect width="480" height="320" fill="#F6EFE3"/>
+  <g font-family="system-ui, sans-serif" font-size="12" fill="#2B1E16">
+
+    <!-- Shared area -->
+    <rect x="8" y="8" width="464" height="132" rx="12" fill="none" stroke="#B9AD9C" stroke-width="1" stroke-dasharray="4 4"/>
+    <text x="18" y="24" fill="#2F5D50" font-weight="700" font-size="13">Shared area</text>
+
+    <!-- Bird deck, face down -->
+    <use href="#back" x="26" y="34"/>
+    <use href="#back" x="23" y="37"/>
+    <use href="#back" x="20" y="40"/>
+    <text x="40" y="104" text-anchor="middle" font-weight="700">Bird deck</text>
+    <text x="40" y="118" text-anchor="middle">face down</text>
+
+    <!-- Bird tray with 3 face-up birds -->
+    <rect x="72" y="36" width="106" height="50" rx="6" fill="#B9AD9C" fill-opacity="0.45" stroke="#2B1E16" stroke-width="1"/>
+    <use href="#card" x="76" y="40"/>
+    <use href="#card" x="110" y="40"/>
+    <use href="#card" x="144" y="40"/>
+    <text x="125" y="104" text-anchor="middle" font-weight="700">Bird tray</text>
+    <text x="125" y="118" text-anchor="middle">3 face-up birds</text>
+
+    <!-- Birdfeeder dice tower with 5 food dice in its tray -->
+    <polygon points="198,40 216,26 234,40" fill="#2B1E16"/>
+    <rect x="202" y="38" width="28" height="46" rx="3" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="188" y="80" width="56" height="16" rx="4" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <use href="#die" x="192" y="84"/>
+    <use href="#die" x="202.5" y="84"/>
+    <use href="#die" x="213" y="84"/>
+    <use href="#die" x="223.5" y="84"/>
+    <use href="#die" x="234" y="84"/>
+    <text x="216" y="112" text-anchor="middle" font-weight="700">Birdfeeder</text>
+    <text x="216" y="126" text-anchor="middle">5 food dice</text>
+
+    <!-- Goal board with 4 goal tiles -->
+    <rect x="254" y="32" width="140" height="62" rx="6" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/>
+    <g fill="#E0A23B" stroke="#2B1E16" stroke-width="1">
+      <rect x="260" y="38" width="28" height="28" rx="3"/>
+      <rect x="294" y="38" width="28" height="28" rx="3"/>
+      <rect x="328" y="38" width="28" height="28" rx="3"/>
+      <rect x="362" y="38" width="28" height="28" rx="3"/>
+    </g>
+    <g text-anchor="middle" font-weight="700">
+      <text x="274" y="56">R1</text><text x="308" y="56">R2</text><text x="342" y="56">R3</text><text x="376" y="56">R4</text>
+    </g>
+    <text x="324" y="86" text-anchor="middle" font-size="11">green or blue side up</text>
+    <text x="324" y="112" text-anchor="middle" font-weight="700">Goal board</text>
+    <text x="324" y="126" text-anchor="middle">1 goal per round</text>
+
+    <!-- Bonus card deck -->
+    <rect x="419" y="30" width="24" height="34" rx="3" fill="#E0A23B" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="416" y="33" width="24" height="34" rx="3" fill="#E0A23B" stroke="#2B1E16" stroke-width="1"/>
+    <text x="432" y="82" text-anchor="middle" font-weight="700">Bonus deck</text>
+
+    <!-- Supply: food tokens and eggs -->
+    <circle cx="410" cy="96" r="5" fill="#2F5D50"/>
+    <circle cx="422" cy="96" r="5" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.6"/>
+    <circle cx="434" cy="96" r="5" fill="#2B1E16"/>
+    <ellipse cx="446" cy="96" rx="4" ry="5.5" fill="#F6EFE3" stroke="#2B1E16" stroke-width="0.8"/>
+    <ellipse cx="456" cy="96" rx="4" ry="5.5" fill="#F6EFE3" stroke="#2B1E16" stroke-width="0.8"/>
+    <text x="432" y="118" text-anchor="middle" font-weight="700">Supply</text>
+    <text x="432" y="132" text-anchor="middle" font-size="11">food and eggs</text>
+
+    <!-- Player mat -->
+    <rect x="8" y="146" width="310" height="168" rx="10" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.5"/>
+    <text x="16" y="161" font-weight="700" font-size="13">Your player mat</text>
+
+    <!-- Play a bird row: egg cost over each column -->
+    <text x="16" y="177" font-weight="700">Play a bird</text>
+    <text x="16" y="188" font-size="11">egg cost</text>
+    <g text-anchor="middle" font-size="11">
+      <text x="120" y="181">free</text><text x="163" y="181">1 egg</text><text x="206" y="181">1 egg</text><text x="249" y="181">2 eggs</text><text x="292" y="181">2 eggs</text>
+    </g>
+
+    <!-- Forest row -->
+    <rect x="12" y="192" width="302" height="36" rx="6" fill="#2F5D50"/>
+    <text x="18" y="207" fill="#F6EFE3" font-weight="700">Forest</text>
+    <text x="18" y="221" fill="#F6EFE3">Gain food</text>
+    <g stroke="#F6EFE3">
+      <use href="#slot" x="100" y="196"/><use href="#slot" x="143" y="196"/><use href="#slot" x="186" y="196"/><use href="#slot" x="229" y="196"/><use href="#slot" x="272" y="196"/>
+    </g>
+
+    <!-- Grassland row -->
+    <rect x="12" y="232" width="302" height="36" rx="6" fill="#E0A23B"/>
+    <text x="18" y="247" font-weight="700">Grassland</text>
+    <text x="18" y="261">Lay eggs</text>
+    <g stroke="#2B1E16">
+      <use href="#slot" x="100" y="236"/><use href="#slot" x="143" y="236"/><use href="#slot" x="186" y="236"/><use href="#slot" x="229" y="236"/><use href="#slot" x="272" y="236"/>
+    </g>
+
+    <!-- Wetland row -->
+    <rect x="12" y="272" width="302" height="36" rx="6" fill="#B9AD9C"/>
+    <text x="18" y="287" font-weight="700">Wetland</text>
+    <text x="18" y="301">Draw cards</text>
+    <g stroke="#2B1E16">
+      <use href="#slot" x="100" y="276"/><use href="#slot" x="143" y="276"/><use href="#slot" x="186" y="276"/><use href="#slot" x="229" y="276"/><use href="#slot" x="272" y="276"/>
+    </g>
+
+    <!-- The player's own pieces -->
+    <text x="326" y="161" font-weight="700" font-size="13">Your pieces</text>
+
+    <g fill="#2F5D50">
+      <rect x="326" y="168" width="10" height="10" rx="1.5"/><rect x="340" y="168" width="10" height="10" rx="1.5"/><rect x="354" y="168" width="10" height="10" rx="1.5"/><rect x="368" y="168" width="10" height="10" rx="1.5"/>
+      <rect x="382" y="168" width="10" height="10" rx="1.5"/><rect x="396" y="168" width="10" height="10" rx="1.5"/><rect x="410" y="168" width="10" height="10" rx="1.5"/><rect x="424" y="168" width="10" height="10" rx="1.5"/>
+    </g>
+    <text x="326" y="194">8 action cubes</text>
+
+    <use href="#mini" x="326" y="202"/><use href="#mini" x="341" y="202"/><use href="#mini" x="356" y="202"/><use href="#mini" x="371" y="202"/><use href="#mini" x="386" y="202"/>
+    <circle cx="412" cy="210" r="5" fill="#2F5D50"/>
+    <circle cx="424" cy="210" r="5" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.6"/>
+    <circle cx="436" cy="210" r="5" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.6"/>
+    <circle cx="448" cy="210" r="5" fill="#2B1E16"/>
+    <circle cx="460" cy="210" r="5" fill="#F6EFE3" stroke="#2B1E16" stroke-width="0.8"/>
+    <text x="326" y="234">5 birds and 5 food:</text>
+    <text x="326" y="248" font-size="11">pay 1 food per bird kept</text>
+
+    <rect x="326" y="256" width="12" height="17" rx="2" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+    <rect x="342" y="256" width="12" height="17" rx="2" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+    <text x="362" y="264" font-size="11">Keep 1 of 2</text>
+    <text x="362" y="277" font-size="11">bonus cards</text>
+
+    <circle cx="333" cy="298" r="7" fill="#2B1E16"/>
+    <text x="333" y="302" text-anchor="middle" font-size="9" font-weight="700" fill="#F6EFE3">1</text>
+    <text x="346" y="302" font-size="11">Random first player</text>
+  </g>
+</svg>

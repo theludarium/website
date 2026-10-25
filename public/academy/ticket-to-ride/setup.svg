@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-labelledby="t d">
+  <title id="t">Ticket to Ride setup</title>
+  <desc id="d">The board in the middle with every scoring marker on 0, the face-down train deck with 5 train cards face up beside it, the ticket deck and the longest path bonus card next to the board, and each player's 45 trains, 4 train cards, and 4 tickets.</desc>
+  <defs>
+    <g id="train"><rect width="10" height="6" rx="1.5"/></g>
+    <g id="tcard"><rect width="12" height="17" rx="2" stroke="#2B1E16" stroke-width="0.8"/></g>
+    <g id="ticket"><rect width="18" height="12" rx="2" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.8"/></g>
+  </defs>
+  <rect width="480" height="320" fill="#F6EFE3"/>
+  <g font-family="system-ui, sans-serif" font-size="12" fill="#2B1E16">
+
+    <!-- Board with the scoring track around its edge -->
+    <rect x="12" y="10" width="300" height="190" rx="10" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.5"/>
+    <rect x="19" y="17" width="286" height="176" rx="6" fill="none" stroke="#B9AD9C" stroke-width="8" stroke-dasharray="8 2"/>
+    <rect x="27" y="25" width="270" height="160" rx="5" fill="#B9AD9C" fill-opacity="0.2"/>
+
+    <!-- Scoring markers, one per color, all on the 0 space -->
+    <rect x="24" y="11.5" width="49" height="11" rx="2" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <circle cx="30" cy="17" r="3.4" fill="#2F5D50"/>
+    <circle cx="39" cy="17" r="3.4" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.6"/>
+    <circle cx="48" cy="17" r="3.4" fill="#2B1E16"/>
+    <circle cx="57" cy="17" r="3.4" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.6"/>
+    <circle cx="66" cy="17" r="3.4" fill="#F6EFE3" stroke="#2B1E16" stroke-width="0.8"/>
+    <text x="36" y="42">Scoring track: every marker starts on 0</text>
+
+    <!-- A simplified map: cities joined by routes of train spaces -->
+    <g fill="none" stroke-width="7" stroke-dasharray="11 3">
+      <line x1="60" y1="90" x2="120" y2="68" stroke="#2F5D50"/>
+      <line x1="120" y1="68" x2="185" y2="92" stroke="#E0A23B"/>
+      <line x1="185" y1="92" x2="255" y2="70" stroke="#B9AD9C"/>
+      <line x1="255" y1="70" x2="270" y2="140" stroke="#2B1E16"/>
+      <line x1="185" y1="92" x2="175" y2="150" stroke="#2F5D50"/>
+      <line x1="60" y1="90" x2="95" y2="145" stroke="#E0A23B"/>
+      <line x1="95" y1="145" x2="175" y2="150" stroke="#B9AD9C"/>
+      <line x1="175.5" y1="154.5" x2="270.5" y2="144.5" stroke="#E0A23B" stroke-width="5"/>
+      <line x1="174.5" y1="145.5" x2="269.5" y2="135.5" stroke="#2F5D50" stroke-width="5"/>
+    </g>
+    <g fill="#F6EFE3" stroke="#2B1E16" stroke-width="2">
+      <circle cx="60" cy="90" r="5"/>
+      <circle cx="120" cy="68" r="5"/>
+      <circle cx="185" cy="92" r="5"/>
+      <circle cx="255" cy="70" r="5"/>
+      <circle cx="270" cy="140" r="5"/>
+      <circle cx="95" cy="145" r="5"/>
+      <circle cx="175" cy="150" r="5"/>
+    </g>
+    <text x="162" y="178" text-anchor="middle" font-size="13" font-weight="700">Game board (map simplified)</text>
+
+    <!-- Train deck, face down -->
+    <rect x="332" y="22" width="26" height="36" rx="3" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="329" y="19" width="26" height="36" rx="3" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="326" y="16" width="26" height="36" rx="3" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+    <text x="368" y="32" font-weight="700">Train deck</text>
+    <text x="368" y="47">face down</text>
+
+    <!-- Five face-up train cards, one a locomotive -->
+    <g stroke="#2B1E16" stroke-width="1">
+      <rect x="326" y="68" width="24" height="34" rx="3" fill="#E0A23B"/>
+      <rect x="354" y="68" width="24" height="34" rx="3" fill="#F6EFE3"/>
+      <rect x="382" y="68" width="24" height="34" rx="3" fill="#2F5D50"/>
+      <rect x="410" y="68" width="24" height="34" rx="3" fill="#2B1E16"/>
+      <rect x="438" y="68" width="24" height="34" rx="3" fill="#F6EFE3"/>
+    </g>
+    <rect x="441" y="72" width="18" height="8" rx="1" fill="#E0A23B"/>
+    <rect x="441" y="81" width="18" height="8" rx="1" fill="#2F5D50"/>
+    <rect x="441" y="90" width="18" height="8" rx="1" fill="#B9AD9C"/>
+    <text x="326" y="118">5 face-up train cards</text>
+
+    <!-- Ticket deck, face down -->
+    <rect x="332" y="134" width="40" height="26" rx="3" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="329" y="131" width="40" height="26" rx="3" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="326" y="128" width="40" height="26" rx="3" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <text x="382" y="142" font-weight="700">Ticket deck</text>
+    <text x="382" y="156">face down</text>
+
+    <!-- Longest path bonus card -->
+    <rect x="326" y="168" width="46" height="28" rx="4" fill="#E0A23B" stroke="#2B1E16" stroke-width="1"/>
+    <text x="349" y="187" text-anchor="middle" font-size="14" font-weight="700">10</text>
+    <text x="382" y="180" font-weight="700">Longest path</text>
+    <text x="382" y="194">bonus card</text>
+
+    <!-- Player 1 -->
+    <rect x="12" y="208" width="224" height="88" rx="10" fill="none" stroke="#B9AD9C" stroke-width="1.2"/>
+    <text x="24" y="226" font-size="13" font-weight="700">Player 1</text>
+    <g fill="#2F5D50">
+      <use href="#train" x="24" y="234"/><use href="#train" x="36" y="234"/><use href="#train" x="48" y="234"/><use href="#train" x="60" y="234"/>
+      <use href="#train" x="24" y="243"/><use href="#train" x="36" y="243"/><use href="#train" x="48" y="243"/><use href="#train" x="60" y="243"/>
+    </g>
+    <text x="80" y="245">45 trains</text>
+    <use href="#tcard" x="24" y="254" fill="#E0A23B"/>
+    <use href="#tcard" x="31" y="254" fill="#2F5D50"/>
+    <use href="#tcard" x="38" y="254" fill="#2B1E16"/>
+    <use href="#tcard" x="45" y="254" fill="#F6EFE3"/>
+    <text x="80" y="267">4 train cards in hand</text>
+    <use href="#ticket" x="24" y="277"/><use href="#ticket" x="31" y="277"/><use href="#ticket" x="38" y="277"/><use href="#ticket" x="45" y="277"/>
+    <text x="80" y="287">4 tickets, keep 2 or more</text>
+
+    <!-- Player 2 -->
+    <rect x="244" y="208" width="224" height="88" rx="10" fill="none" stroke="#B9AD9C" stroke-width="1.2"/>
+    <text x="256" y="226" font-size="13" font-weight="700">Player 2</text>
+    <g fill="#E0A23B" stroke="#2B1E16" stroke-width="0.6">
+      <use href="#train" x="256" y="234"/><use href="#train" x="268" y="234"/><use href="#train" x="280" y="234"/><use href="#train" x="292" y="234"/>
+      <use href="#train" x="256" y="243"/><use href="#train" x="268" y="243"/><use href="#train" x="280" y="243"/><use href="#train" x="292" y="243"/>
+    </g>
+    <text x="312" y="245">45 trains</text>
+    <use href="#tcard" x="256" y="254" fill="#2B1E16"/>
+    <use href="#tcard" x="263" y="254" fill="#F6EFE3"/>
+    <use href="#tcard" x="270" y="254" fill="#E0A23B"/>
+    <use href="#tcard" x="277" y="254" fill="#2F5D50"/>
+    <text x="312" y="267">4 train cards in hand</text>
+    <use href="#ticket" x="256" y="277"/><use href="#ticket" x="263" y="277"/><use href="#ticket" x="270" y="277"/><use href="#ticket" x="277" y="277"/>
+    <text x="312" y="287">4 tickets, keep 2 or more</text>
+
+    <text x="240" y="313" text-anchor="middle" fill="#2F5D50">Players 3 to 5 set up the same way. Older boxes deal 3 tickets.</text>
+  </g>
+</svg>

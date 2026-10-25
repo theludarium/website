@@ -85,7 +85,8 @@ for (const file of htmlFiles(DIST)) {
     // Editor notes from the content library must be filled in before an article is published.
     const editorNotes = html.match(/<!--\s*EDITOR:[^>]*-->/g) ?? [];
     if (editorNotes.length) problem(`${editorNotes.length} unfilled EDITOR note(s), first: ${editorNotes[0].slice(0, 90)}`);
-    if (/<!--\s*(AFFILIATE|VERIFY)\s*-->/.test(html)) note('has AFFILIATE or VERIFY placeholder comments; add the links or remove the markers');
+    if (/<!--\s*(AFFILIATE|VERIFY)\b[^>]*-->/.test(html)) note('has AFFILIATE or VERIFY placeholder comments; add the links or remove the markers');
+    if (/<!--\s*AT OUR TABLE\b/.test(html)) note('has an AT OUR TABLE placeholder; add Levi’s notes from play or remove the marker');
     if (seenTitles.has(title)) problem(`duplicate title, also on ${seenTitles.get(title)}`);
     else seenTitles.set(title, page);
     if (seenDescriptions.has(description)) problem(`duplicate description, also on ${seenDescriptions.get(description)}`);

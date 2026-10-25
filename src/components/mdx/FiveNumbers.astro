@@ -1,0 +1,79 @@
+---
+// The Ledger's "five numbers that moved this quarter": stat tiles with a
+// value, an optional signed change against a named period, and a linked
+// source for each. Usage in MDX:
+//   <FiveNumbers period="Q4 2026" numbers={[{ label: 'Hobby games market, 2025', value: '$3.66B', change: '+40%', vs: '2024', source: 'ICv2', url: 'https://...' }]} />
+interface Num {
+  label: string;
+  value: string;
+  change?: string;
+  vs?: string;
+  source: string;
+  url: string;
+}
+interface Props {
+  period: string;
+  numbers: Num[];
+}
+const { period, numbers } = Astro.props;
+---
+
+<section class="five-numbers" aria-label={`Five numbers that moved, ${period}`}>
+  <p class="eyebrow">Five numbers that moved &middot; {period}</p>
+  <ul>
+    {
+      numbers.map((n) => (
+        <li>
+          <span class="five-numbers__label">{n.label}</span>
+          <span class="five-numbers__value">{n.value}</span>
+          {n.change && (
+            <span class="five-numbers__change">
+              {n.change}
+              {n.vs && ` vs ${n.vs}`}
+            </span>
+          )}
+          <a class="five-numbers__source" href={n.url} rel="noopener">
+            {n.source}
+          </a>
+        </li>
+      ))
+    }
+  </ul>
+</section>
+
+<style>
+  .five-numbers {
+    margin: var(--space-6) 0;
+  }
+
+  .five-numbers ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 11rem), 1fr));
+    gap: var(--space-3);
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .five-numbers li {
+    display: grid;
+    gap: 2px;
+    align-content: start;
+    padding: var(--space-4);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    background: var(--color-surface);
+  }
+
+  .five-numbers__label,
+  .five-numbers__change,
+  .five-numbers__source {
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+
+  .five-numbers__value {
+    font-size: var(--text-2xl);
+    font-weight: 650;
+  }
+</style>
