@@ -62,6 +62,7 @@ teachSheet:
     - "Every flight spends a card you might need for a cure."
     - "Each player decides their own turn. Advise, never order."
 diagramAlt: "Pandemic setup for four players: the board with one research station and all four pawns in Atlanta, nine cities starting with 3, 2, or 1 disease cubes, the infection rate marker on the first 2, the outbreaks marker on 0, cure markers beside the cure indicators, the Infection deck and its discard pile of 9 cards, the Player deck with one Epidemic in each pile, the cube supply in four colors, five spare research stations, and each player's role card, reference card, and 2-card hand."
+games: [pandemic]
 related:
   - "pandemic-board-game-explained"
   - "pandemic-strategy"

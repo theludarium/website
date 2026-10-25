@@ -64,6 +64,7 @@ teachSheet:
     - "Grow one big corridor per habitat instead of scattered patches."
     - "A kept nature token is 1 point; spend it only for more."
 diagramAlt: "Cascadia setup: five wildlife scoring cards in a row, face-down habitat tile stacks, a display of four habitat tiles each paired with a wildlife token, the cloth bag of wildlife tokens, the nature token supply, and a starter habitat tile in front of each of four players."
+games: [cascadia]
 related:
   - "wingspan-vs-everdell-vs-cascadia"
   - "easiest-board-games-to-learn"
