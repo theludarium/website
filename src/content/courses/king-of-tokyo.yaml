@@ -65,6 +65,7 @@ teachSheet:
     - "Do not ignore Energy. Power cards are how Monsters pull ahead."
     - "Watch the leader. A Monster at 17 or more can win on one good turn."
 diagramAlt: "King of Tokyo setup: the Tokyo board in the middle with Tokyo City and Tokyo Bay, used only with 5 or 6 players. Below it, the six black dice and the two green dice set aside. The Power card deck with three cards face up, the tokens, the Energy cube pool, and a Monster board at each corner with Life at 10 and Victory Points at 0."
+games: [king-of-tokyo]
 related:
   - "gateway-board-games"
   - "take-that-games"

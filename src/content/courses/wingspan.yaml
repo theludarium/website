@@ -61,6 +61,7 @@ teachSheet:
     - "Read all four round goals before you play your first bird."
     - "In round 4, eggs are often the most points per turn."
 diagramAlt: "Wingspan setup: a shared area with the face-down bird deck, the bird tray holding 3 face-up birds, the birdfeeder with 5 food dice, the goal board with goal tiles for rounds 1 to 4, the bonus card deck, and the food and egg supply. Below, one player's mat with egg costs over its 5 columns (free, 1 egg, 1 egg, 2 eggs, 2 eggs) and empty forest, grassland, and wetland rows, beside that player's 8 action cubes, 5 starting birds and 5 food, 2 bonus cards to choose from, and the first-player token."
+games: [wingspan]
 related:
   - "wingspan-strategy"
   - "wingspan-vs-everdell"

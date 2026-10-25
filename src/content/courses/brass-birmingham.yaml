@@ -65,6 +65,7 @@ teachSheet:
     - "Develop past level 1 so your tiles survive and can score twice."
     - "Keep a brewery of your own; most sales need beer."
 diagramAlt: "Brass: Birmingham setup for four players: the board with the draw deck and the face-up wild cards, merchant tiles, three of them blank, with beer barrels beside the others at Warrington, Nottingham, Shrewsbury, Gloucester, and Oxford, the coal market with one £1 space empty, the iron market with both £1 spaces empty, the turn order track, and markers on the progress track. Below the board sit the general supply and the bank, and beside it one player's area: player mat, £17, 14 link tiles, a hand of 8 cards, and a face-down discard."
+games: [brass-birmingham]
 related:
   - "board-game-weight-explained"
   - "how-to-teach-a-board-game"

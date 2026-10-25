@@ -67,6 +67,7 @@ teachSheet:
     - "Close small regions early. The phase bonus shrinks every phase."
     - "Ships pay twice: goods to sell, and an earlier turn next round."
 diagramAlt: "The Castles of Burgundy setup for four players. The game board shows face-down goods stacks on phases A to E, six numbered depots around the black depot, the bridge with every turn piece stacked on space 1, the bonus tiles, and every score marker on 0. Beside it are the supply of silver coins, workers, and the white die, and face-down hex tile piles sorted by color. Below are two player areas, each with a duchy board, a castle on the center space, 3 goods, 1 silver, 2 dice, workers, tile storage, and an overview board."
+games: [castles-of-burgundy]
 related:
   - "luck-vs-skill-board-games"
   - "board-game-weight-explained"

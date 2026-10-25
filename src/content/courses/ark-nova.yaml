@@ -66,6 +66,7 @@ teachSheet:
     - "Early appeal is income. Late conservation is points."
     - "Take a partner zoo that matches your animals. It saves 3 money per continent icon."
 diagramAlt: "Ark Nova setup: the game board with the appeal and conservation tracks running toward each other, the 6-card display, the reputation and break tracks, the association board with base projects below, and your zoo map with 7 tokens, a kiosk, an empty 3-space enclosure, 1 worker, 25 money, and Animals in action slot 1."
+games: [ark-nova]
 related:
   - "best-board-games-2026"
   - "board-game-weight-explained"

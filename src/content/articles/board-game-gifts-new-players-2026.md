@@ -4,6 +4,7 @@ description: "Seven board game gifts for new players this holiday, from Carcasso
 pubDate: 2026-10-24
 category: Game Guides
 tags: ["board game gifts for new players", "board game gift guide 2026", "best board games for beginners", "holiday board game gifts", "board games for families", "board games for couples", "Gift guides"]
+games: [ticket-to-ride, carcassonne, azul, wingspan, codenames, king-of-tokyo, flip-7]
 draft: false
 ---
 The best board game gift for a new player is not the cleverest game on the shelf. It is the one that gets opened on the day, taught that week, and played again the next. Most gifted games fail at the second step. The box sits in the closet because nobody in the house wants to read the rulebook.

@@ -5,6 +5,7 @@ description: "Nine great board and card games under $20 for stockings and small 
 pubDate: 2026-10-24
 category: Game Guides
 tags: ["board games under $20", "card games under 20 dollars", "cheap board game gifts", "stocking stuffer games", "small gift games", "games for white elephant", "Gift guides"]
+games: [flip-7, hanabi, coup, the-crew-mission-deep-sea, love-letter, sushi-go, the-mind, skull]
 draft: false
 ---
 Some of the best games ever made cost less than a movie ticket. Cards are cheap to print, so small boxes are where designers get to be clever instead of lavish. That makes the under-$20 shelf the best place to shop for stockings, office swaps, teacher gifts, and the friend who says they "don't really play games."

@@ -64,6 +64,7 @@ teachSheet:
     - "Before you say a clue, check it against the assassin."
     - "Operatives: guess your surest word first, and stop when you are unsure."
 diagramAlt: "Codenames setup: a 5 by 5 grid of 25 word cards in the middle of the table. Both spymasters sit on one side with the key card in its stand between them. The red spymaster has 8 agent tiles plus the double agent, the blue spymaster has 8 agent tiles, and the 7 bystanders and the assassin sit in the middle. The red and blue operatives sit across the table."
+games: [codenames]
 related:
   - "codenames-clue-tips"
   - "codenames-vs-decrypto"

@@ -14,6 +14,7 @@ import {
   getAllLessons,
   getLessonPages,
   hasPage,
+  lessonGames,
   lessonMinutes,
   lessonNumber,
   lessonOutline,
@@ -90,7 +91,14 @@ const structuredData = [
 ];
 ---
 
-<BaseLayout title={title} description={description} image={image} imageAlt={`${course.title}, lesson ${order}: ${title}`} noindex={draft}>
+<BaseLayout
+  title={title}
+  description={description}
+  image={image}
+  imageAlt={`${course.title}, lesson ${order}: ${title}`}
+  noindex={draft}
+  games={lessonGames(course, lesson)}
+>
   <script slot="head" type="application/ld+json" set:html={JSON.stringify(structuredData)} />
 
   <article class="article lesson">

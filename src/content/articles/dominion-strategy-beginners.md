@@ -3,6 +3,7 @@ title: "Dominion Strategy for Beginners: Big Money and Beyond"
 description: "Dominion strategy for beginners: why Big Money beats most first-timers, how to read a kingdom, when to buy Provinces, and the mistakes that lose games."
 pubDate: 2026-10-20
 category: Game Guides
+games: [dominion]
 tags: ["Dominion strategy", "Dominion tips", "Dominion Big Money", "how to win Dominion", "Dominion deck building strategy", "Dominion for beginners", "Strategy guides"]
 draft: false
 ---

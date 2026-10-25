@@ -11,7 +11,8 @@
     "build": "node scripts/rpg-demo-library.mjs fetch && node scripts/game-night-madness.mjs fetch && astro build && node scripts/rpg-demo-library.mjs copy && node scripts/game-night-madness.mjs copy && node scripts/search-index.mjs && node scripts/check-seo.mjs",
     "preview": "astro preview",
     "astro": "astro",
-    "check": "astro check"
+    "check": "astro check",
+    "test": "node --test 'tests/**/*.test.{mjs,ts}'"
   },
   "dependencies": {
     "@astrojs/markdown-remark": "7.3.3",

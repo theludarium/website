@@ -63,6 +63,7 @@ teachSheet:
     - "Heat left in your Engine at the finish is wasted, so spend it."
     - "Slipstream through corners: those 2 Spaces never count toward your Speed."
 diagramAlt: "Heat: Pedal to the Metal setup: the game board with cars on the starting grid behind the finish line, a corner with its Speed Limit and Corner Line, the track info and Hall of Fame; the Stress reserve and a hand of 7 cards beside it; and a player mat with the face-down draw deck, 6 Heat cards on the Engine, an empty discard pile, and the Gear pawn in 1st gear."
+games: [heat-pedal-to-the-metal]
 related:
   - "ludarium-library-50-games"
   - "best-board-games-2026"

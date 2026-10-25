@@ -3,6 +3,7 @@ title: "Wingspan vs Everdell vs Cascadia: Which Fits Your Table?"
 description: "Wingspan vs Everdell vs Cascadia, compared on weight, play time, player count, and feel. Which nature board game fits your group and which one to buy first."
 pubDate: 2026-10-19
 category: Game Guides
+games: [wingspan, everdell, cascadia]
 tags: ["Wingspan vs Everdell", "Cascadia vs Wingspan", "nature board games", "Everdell vs Cascadia", "best nature themed board games", "Wingspan review", "What to play"]
 draft: false
 ---

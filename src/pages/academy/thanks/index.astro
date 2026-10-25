@@ -3,12 +3,17 @@
 // Kit form's settings). Not in search results or the sitemap.
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import PageIntro from '@/components/PageIntro.astro';
+import { courseBySlug } from '@/lib/academy';
+
+// This page is the Catan form's success state, so /ott.js counts a signup for its games.
+const signupGames = courseBySlug('catan').games;
 ---
 
 <BaseLayout
   title="Check your inbox"
   description="One more step: open the email from The Ludarium and click the button to confirm. Your welcome email and first Academy lesson link follow right after that."
   noindex
+  ottSignup={signupGames}
 >
   <PageIntro
     eyebrow="Almost there"

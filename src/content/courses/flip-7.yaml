@@ -65,6 +65,7 @@ teachSheet:
     - "Freeze yourself to lock in a big row without another flip."
     - "Aim Flip Three at a long row, unless that player is one number from Flip 7."
 diagramAlt: "Flip 7 at the start of a round: a face-down draw deck in the middle of the table with an empty set-aside pile beside it, one face-up card dealt to each of four players, a sample row of number cards 3, 8, and 11 with a +4 modifier and an action card above it, a score sheet racing to 200, and a key to the 94-card deck."
+games: [flip-7]
 related:
   - "best-board-games-2026"
   - "how-to-teach-a-board-game"
