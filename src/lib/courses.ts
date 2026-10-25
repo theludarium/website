@@ -11,9 +11,6 @@ export type CourseFormat = GameCourse['data']['format'];
 /** How many lessons each format has. */
 export const LESSON_COUNT: Record<CourseFormat, number> = { full: 8, masterclass: 7, 'teach-tonight': 2, tcg: 8 };
 
-/** Lessons up to this number are public pages that can rank; later ones are unlisted and reached from the emails. */
-export const PUBLIC_LESSONS: Record<CourseFormat, number> = { full: 2, masterclass: 1, 'teach-tonight': 2, tcg: 8 };
-
 export const FORMAT_LABEL: Record<CourseFormat, string> = {
   full: 'Full course',
   masterclass: 'Masterclass',
@@ -57,11 +54,6 @@ export async function getCourseLessons(course: string): Promise<CourseLesson[]> 
 /** True when the lesson has a page on this build. */
 export function lessonHasPage(lesson: CourseLesson): boolean {
   return SHOW_DRAFTS || !lesson.data.draft;
-}
-
-/** True when the lesson is a public page (linked from the course page, indexed); false for email-only lessons. */
-export function lessonIsPublic(course: GameCourse, lesson: CourseLesson): boolean {
-  return lesson.data.order <= PUBLIC_LESSONS[course.data.format];
 }
 
 const WORDS_PER_MINUTE = 230;

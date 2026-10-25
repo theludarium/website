@@ -29,7 +29,7 @@ Below are seven picks, grouped by who you are shopping for. Prices are approxima
 
 ## How the free courses work
 
-There are two kinds. Ticket to Ride, Carcassonne, Azul, and Wingspan get a full course: the first two lessons (how to play, and how to teach it in ten minutes) are free to read on the site, and the rest arrive by email one short lesson at a time, from first-game mistakes to openings and scoring. Codenames, King of Tokyo, and Flip 7 get a teach-tonight course: a printable teach sheet and two lessons, built for the host who wants to run a great first game the same evening.
+There are two kinds. Ticket to Ride, Carcassonne, Azul, and Wingspan get a full course: eight short lessons, from how to play and how to teach it in ten minutes to first-game mistakes, openings and scoring, all free to read on the site or sent by email one at a time. Codenames, King of Tokyo, and Flip 7 get a teach-tonight course: a printable teach sheet and two lessons, built for the host who wants to run a great first game the same evening.
 
 Every course on this list is free. The person you give the game to signs up if they want the emails, and unsubscribes whenever they like.
 
