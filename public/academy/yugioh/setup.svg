@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-labelledby="t d">
+  <title id="t">Yu-Gi-Oh! TCG field for two players</title>
+  <desc id="d">Each player has 5 Main Monster Zones in front of 5 Spell and Trap Zones. The leftmost and rightmost Spell and Trap Zones double as Pendulum Zones. Each side has a Field Zone and Extra Deck on one end and a Graveyard and Deck on the other. The opponent's side is a mirror image. Between the two sides are 2 shared Extra Monster Zones, and each player normally uses only one.</desc>
+  <rect width="480" height="320" fill="#F6EFE3"/>
+  <g font-family="system-ui, sans-serif" font-size="12" fill="#2B1E16">
+    <!-- Center line between the two halves of the field -->
+    <line x1="14" y1="124" x2="466" y2="124" stroke="#B9AD9C" stroke-width="1" stroke-dasharray="4 4"/>
+    <rect x="14" y="98" width="128" height="52" rx="6" fill="#F6EFE3"/>
+    <text x="23" y="118" font-weight="700" fill="#2F5D50">Opponent above</text>
+    <text x="23" y="140" font-weight="700" fill="#2F5D50">You below</text>
+    <rect x="336" y="98" width="130" height="58" rx="6" fill="#F6EFE3"/>
+    <text x="342" y="118">Extra Monster Zones:</text>
+    <text x="342" y="134">shared, each player</text>
+    <text x="342" y="150">normally uses 1</text>
+    <rect x="21" y="164" width="60" height="36" rx="5" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.5"/><text x="51.0" y="180" text-anchor="middle" fill="#2B1E16">Field</text><text x="51.0" y="193" text-anchor="middle" fill="#2B1E16">Zone</text>
+    <rect x="84" y="164" width="60" height="36" rx="5" fill="#F6EFE3" stroke="#2F5D50" stroke-width="1.5"/><text x="114.0" y="180" text-anchor="middle" fill="#2B1E16">Monster</text><text x="114.0" y="193" text-anchor="middle" fill="#2B1E16">Zone</text>
+    <rect x="147" y="164" width="60" height="36" rx="5" fill="#F6EFE3" stroke="#2F5D50" stroke-width="1.5"/><text x="177.0" y="180" text-anchor="middle" fill="#2B1E16">Monster</text><text x="177.0" y="193" text-anchor="middle" fill="#2B1E16">Zone</text>
+    <rect x="210" y="164" width="60" height="36" rx="5" fill="#F6EFE3" stroke="#2F5D50" stroke-width="1.5"/><text x="240.0" y="180" text-anchor="middle" fill="#2B1E16">Monster</text><text x="240.0" y="193" text-anchor="middle" fill="#2B1E16">Zone</text>
+    <rect x="273" y="164" width="60" height="36" rx="5" fill="#F6EFE3" stroke="#2F5D50" stroke-width="1.5"/><text x="303.0" y="180" text-anchor="middle" fill="#2B1E16">Monster</text><text x="303.0" y="193" text-anchor="middle" fill="#2B1E16">Zone</text>
+    <rect x="336" y="164" width="60" height="36" rx="5" fill="#F6EFE3" stroke="#2F5D50" stroke-width="1.5"/><text x="366.0" y="180" text-anchor="middle" fill="#2B1E16">Monster</text><text x="366.0" y="193" text-anchor="middle" fill="#2B1E16">Zone</text>
+    <rect x="399" y="164" width="60" height="36" rx="5" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.5"/><text x="429.0" y="186" text-anchor="middle" fill="#2B1E16">GY</text>
+    <rect x="24" y="207" width="60" height="36" rx="5" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/><rect x="21" y="204" width="60" height="36" rx="5" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.5"/><text x="51.0" y="220" text-anchor="middle" fill="#2B1E16">Extra</text><text x="51.0" y="233" text-anchor="middle" fill="#2B1E16">Deck</text>
+    <rect x="84" y="204" width="60" height="36" rx="5" fill="#E0A23B" stroke="#2B1E16" stroke-width="1.5"/><text x="114.0" y="220" text-anchor="middle" fill="#2B1E16" letter-spacing="-0.4">Pendulum</text><text x="114.0" y="233" text-anchor="middle" fill="#2B1E16">+ S &amp; T</text>
+    <rect x="147" y="204" width="60" height="36" rx="5" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1.5"/><text x="177.0" y="220" text-anchor="middle" fill="#2B1E16">Spell &amp;</text><text x="177.0" y="233" text-anchor="middle" fill="#2B1E16">Trap</text>
+    <rect x="210" y="204" width="60" height="36" rx="5" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1.5"/><text x="240.0" y="220" text-anchor="middle" fill="#2B1E16">Spell &amp;</text><text x="240.0" y="233" text-anchor="middle" fill="#2B1E16">Trap</text>
+    <rect x="273" y="204" width="60" height="36" rx="5" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1.5"/><text x="303.0" y="220" text-anchor="middle" fill="#2B1E16">Spell &amp;</text><text x="303.0" y="233" text-anchor="middle" fill="#2B1E16">Trap</text>
+    <rect x="336" y="204" width="60" height="36" rx="5" fill="#E0A23B" stroke="#2B1E16" stroke-width="1.5"/><text x="366.0" y="220" text-anchor="middle" fill="#2B1E16" letter-spacing="-0.4">Pendulum</text><text x="366.0" y="233" text-anchor="middle" fill="#2B1E16">+ S &amp; T</text>
+    <rect x="402" y="207" width="60" height="36" rx="5" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/><rect x="399" y="204" width="60" height="36" rx="5" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.5"/><text x="429.0" y="226" text-anchor="middle" fill="#2B1E16">Deck</text>
+    <rect x="399" y="48" width="60" height="36" rx="5" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.5"/><text x="429.0" y="64" text-anchor="middle" fill="#2B1E16">Field</text><text x="429.0" y="77" text-anchor="middle" fill="#2B1E16">Zone</text>
+    <rect x="84" y="48" width="60" height="36" rx="5" fill="#F6EFE3" stroke="#2F5D50" stroke-width="1.5"/><text x="114.0" y="64" text-anchor="middle" fill="#2B1E16">Monster</text><text x="114.0" y="77" text-anchor="middle" fill="#2B1E16">Zone</text>
+    <rect x="147" y="48" width="60" height="36" rx="5" fill="#F6EFE3" stroke="#2F5D50" stroke-width="1.5"/><text x="177.0" y="64" text-anchor="middle" fill="#2B1E16">Monster</text><text x="177.0" y="77" text-anchor="middle" fill="#2B1E16">Zone</text>
+    <rect x="210" y="48" width="60" height="36" rx="5" fill="#F6EFE3" stroke="#2F5D50" stroke-width="1.5"/><text x="240.0" y="64" text-anchor="middle" fill="#2B1E16">Monster</text><text x="240.0" y="77" text-anchor="middle" fill="#2B1E16">Zone</text>
+    <rect x="273" y="48" width="60" height="36" rx="5" fill="#F6EFE3" stroke="#2F5D50" stroke-width="1.5"/><text x="303.0" y="64" text-anchor="middle" fill="#2B1E16">Monster</text><text x="303.0" y="77" text-anchor="middle" fill="#2B1E16">Zone</text>
+    <rect x="336" y="48" width="60" height="36" rx="5" fill="#F6EFE3" stroke="#2F5D50" stroke-width="1.5"/><text x="366.0" y="64" text-anchor="middle" fill="#2B1E16">Monster</text><text x="366.0" y="77" text-anchor="middle" fill="#2B1E16">Zone</text>
+    <rect x="21" y="48" width="60" height="36" rx="5" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.5"/><text x="51.0" y="70" text-anchor="middle" fill="#2B1E16">GY</text>
+    <rect x="402" y="11" width="60" height="36" rx="5" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/><rect x="399" y="8" width="60" height="36" rx="5" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.5"/><text x="429.0" y="24" text-anchor="middle" fill="#2B1E16">Extra</text><text x="429.0" y="37" text-anchor="middle" fill="#2B1E16">Deck</text>
+    <rect x="84" y="8" width="60" height="36" rx="5" fill="#E0A23B" stroke="#2B1E16" stroke-width="1.5"/><text x="114.0" y="24" text-anchor="middle" fill="#2B1E16" letter-spacing="-0.4">Pendulum</text><text x="114.0" y="37" text-anchor="middle" fill="#2B1E16">+ S &amp; T</text>
+    <rect x="147" y="8" width="60" height="36" rx="5" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1.5"/><text x="177.0" y="24" text-anchor="middle" fill="#2B1E16">Spell &amp;</text><text x="177.0" y="37" text-anchor="middle" fill="#2B1E16">Trap</text>
+    <rect x="210" y="8" width="60" height="36" rx="5" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1.5"/><text x="240.0" y="24" text-anchor="middle" fill="#2B1E16">Spell &amp;</text><text x="240.0" y="37" text-anchor="middle" fill="#2B1E16">Trap</text>
+    <rect x="273" y="8" width="60" height="36" rx="5" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1.5"/><text x="303.0" y="24" text-anchor="middle" fill="#2B1E16">Spell &amp;</text><text x="303.0" y="37" text-anchor="middle" fill="#2B1E16">Trap</text>
+    <rect x="336" y="8" width="60" height="36" rx="5" fill="#E0A23B" stroke="#2B1E16" stroke-width="1.5"/><text x="366.0" y="24" text-anchor="middle" fill="#2B1E16" letter-spacing="-0.4">Pendulum</text><text x="366.0" y="37" text-anchor="middle" fill="#2B1E16">+ S &amp; T</text>
+    <rect x="24" y="11" width="60" height="36" rx="5" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/><rect x="21" y="8" width="60" height="36" rx="5" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.5"/><text x="51.0" y="30" text-anchor="middle" fill="#2B1E16">Deck</text>
+    <rect x="147" y="106" width="60" height="36" rx="5" fill="#2F5D50" stroke="#2B1E16" stroke-width="1.5"/><text x="177.0" y="122" text-anchor="middle" fill="#F6EFE3">Extra</text><text x="177.0" y="135" text-anchor="middle" fill="#F6EFE3">Monster</text>
+    <rect x="273" y="106" width="60" height="36" rx="5" fill="#2F5D50" stroke="#2B1E16" stroke-width="1.5"/><text x="303.0" y="122" text-anchor="middle" fill="#F6EFE3">Extra</text><text x="303.0" y="135" text-anchor="middle" fill="#F6EFE3">Monster</text>
+    <!-- Legend -->
+    <g font-size="12">
+      <text x="23" y="262">S &amp; T: Spell &amp; Trap Zone. The two end zones double as Pendulum Zones.</text>
+      <text x="23" y="279">GY: Graveyard, face up and public. Deck and Extra Deck stay face down.</text>
+      <text x="23" y="296">Hand: held and hidden. Banished cards: set apart, out of play.</text>
+      <text x="23" y="313" fill="#2F5D50" font-weight="700">Each player starts with 8000 LP and draws 5 cards.</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,75 @@
+title: "Conquer and Hold"
+game: "Riftbound"
+format: tcg
+order: 550
+wave: "TCG C"
+# Stays a draft until Riot Games gives written OK under its fan policy.
+draft: true
+publisher: "Riot Games"
+notice: 'Conquer and Hold was created under Riot Games'' "Legal Jibber Jabber" policy using assets owned by Riot Games. Riot Games does not endorse or sponsor this project.'
+rulesEdition: "Riftbound Core Rules, last updated October 9, 2026 (the Radiance update, effective October 16, 2026), with the Tournament Rules of the same date and the official How to Play quick start"
+rulesSource: "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf"
+players: "2 to 4"
+playTime: "Varies; the Tournament Rules recommend 60-minute rounds for best-of-three matches"
+promise: "Pick the right first box, learn to conquer and hold battlefields, teach a friend, and walk into your first Nexus Night or Pre-Rift ready to play."
+description: "An unofficial beginner's course for Riftbound, the League of Legends card game: pick a first box, learn a turn, read a card, teach it, and play a store night."
+audience:
+  - "League of Legends fans who want to play their favorite champions at a table."
+  - "Board gamers curious about a card game where the fight is over places, not life totals."
+  - "New players with a Proving Grounds box who want the rules clear before a store night."
+  - "Friends and parents teaching someone their first trading card game."
+afterLesson3: "Play a full game from a preconstructed deck, pay for cards with energy and power, and read every part of a card."
+afterLesson8: "Teach the game, upgrade a deck on a budget, play a Nexus Night and a Pre-Rift, and know the road from there to Regionals."
+faq:
+  - q: "How do you win at Riftbound?"
+    a: "Score 8 points before anyone else. You score 1 point when you conquer a battlefield and 1 point for each battlefield you still hold at the start of your turn. A conquer only gives you the winning point if you scored every battlefield that turn; otherwise you draw a card instead."
+  - q: "What is the difference between energy and power in Riftbound?"
+    a: "Both come from runes. Exhaust a rune, turning it sideways, to add 1 energy for the number in a card's cost. Recycle a rune, putting it on the bottom of your Rune Deck, to add 1 power of its domain for the symbols in the cost."
+  - q: "Which Riftbound product should a beginner buy?"
+    a: "Proving Grounds is the box made for learning: four ready-to-play decks for 2 to 4 players. Proving Grounds, 2nd Edition is due February 19, 2027, with four new decks. A single Champion Deck is the other easy start."
+  - q: "How many cards are in a Riftbound deck?"
+    a: "A Main Deck of at least 40 cards, including your Chosen Champion, plus a 12-card Rune Deck, 1 Champion Legend, and your battlefields. You can run up to 3 copies of a card. Tournament Main Decks must be exactly 40."
+  - q: "What is a Riftbound Nexus Night?"
+    a: "Nexus Nights are weekly casual events at local game stores, on whatever day each store picks. Find one in the event search on playriftbound.com, where you sign up with a Riot ID. Prizes are small Nexus Night packs."
+  - q: "Can you play Riftbound with more than two players?"
+    a: "Yes. The rules support three-player and four-player free-for-all games to 8 points, and 2v2 teams to 11 points. In every mode, only two players can fight at the same battlefield at once."
+teachSheet:
+  goal: "Score 8 points first by conquering and holding battlefields with your units."
+  setup:
+    - "Each player: Legend and Chosen Champion face up; 39-card Main Deck and 12-card Rune Deck shuffled."
+    - "Each player brings 3 battlefields and picks 1 at random. Put both in the middle."
+    - "Choose a first player at random."
+    - "Draw 4. Set aside up to 2, draw that many, then recycle the set-aside cards."
+    - "The second player channels 3 runes on their first turn instead of 2."
+  turn:
+    - "Awaken: ready everything you control."
+    - "Beginning: start of turn effects, then score 1 point per battlefield you hold."
+    - "Channel: put the top 2 runes of your Rune Deck into play, ready."
+    - "Draw 1. Empty deck? Burn out: shuffle in your trash, and an opponent gains 1 point."
+    - "Action: play cards, use abilities, and exhaust units to move, in any order."
+    - "End: every unit heals, and this-turn effects end."
+  scoring:
+    - "Energy: exhaust a rune for 1. Power: recycle a rune for 1 of its domain."
+    - "Units enter exhausted, at your base or a battlefield you control."
+    - "Move: exhaust a unit to go from base to a battlefield, or back."
+    - "Empty battlefield: move in and conquer it for 1 point."
+    - "Enemy units there: a showdown for Actions and Reactions, then the fight."
+    - "Each side deals its total Might. Lethal to one unit before the next; Tank first."
+    - "Only attackers left: they conquer. Defenders left: surviving attackers go home."
+  endGame: "Reach 8 points with more than anyone else. A conquer only gives the final point if you scored every battlefield that turn."
+  tips:
+    - "Units enter exhausted, so plan your moves a turn ahead."
+    - "Holding pays every turn; conquering pays once."
+    - "Recycling runes for power leaves fewer runes on the table next turn."
+diagramAlt: "One player's side of a two-player Riftbound game. Across the top, the opponent's side mirrors yours. In the middle, the battlefield zone holds two battlefields, one from each player, each with a facedown slot for one hidden card. Below, your side: the Legend and Chosen Champion on the left with your hand of 4, your base in the center holding units, gear, and channeled runes, and on the right your Main Deck, Rune Deck, trash, and a score tracker counting to 8."
+related:
+  - "how-to-teach-a-board-game"
+  - "card-drafting-explained"
+  - "how-to-start-a-play-group"
+  - "indianapolis-board-game-stores"
+  - "how-to-run-a-board-game-tournament"
+  - "trading-and-selling-games"
+tcg:
+  starter: "Proving Grounds, the 2 to 4 player box set; Proving Grounds, 2nd Edition is due February 19, 2027"
+  firstEvent: "Nexus Nights, the weekly casual store event, and Pre-Rift sealed events the week before each set, found in the event search on playriftbound.com"
+  rulesAsOf: "Radiance (Core Rules last updated October 9, 2026, effective October 16, 2026)"

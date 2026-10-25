@@ -1,0 +1,78 @@
+title: "First Land to First Draft"
+game: "Magic: The Gathering"
+format: tcg
+order: 530
+wave: "TCG B"
+draft: false
+publisher: "Wizards of the Coast"
+# Wizards Fan Content Policy notice, word for word (company.wizards.com/en/legal/fancontentpolicy). No Wizards logos, no email gate.
+notice: "First Land to First Draft is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC."
+rulesEdition: "Magic: The Gathering Comprehensive Rules, effective September 25, 2026"
+rulesSource: "https://magic.wizards.com/en/rules"
+players: "2 (Commander: 3 to 5, usually 4)"
+playTime: "About 20 minutes a game; Commander about 20 minutes per player"
+# VERIFY: the age rating printed on the Foundations Beginner Box, then add an ages line.
+promise: "Pick the right first box, learn how a turn works, read any card, and walk into your first Magic Academy, Commander night, prerelease, and draft ready to play."
+description: "A free beginner's course for Magic: The Gathering: your first box, how a turn works, reading a card, store nights, Commander, prereleases, and your first draft."
+audience:
+  - "New players who want to learn Magic from the first land, without a rulebook read aloud."
+  - "Friends of a Magic player who keep getting invited to Commander night."
+  - "Lapsed players coming back after years away who want to know what changed."
+  - "Anyone nervous about walking into a game store's Magic night for the first time."
+afterLesson3: "Buy the right first product, play a full two-player game by the current rules, and read every part of a card without help."
+afterLesson8: "Teach the game, upgrade a deck on a budget, play your first store night, Commander game, prerelease, and draft, and choose where to go next."
+faq:
+  - q: "What is the best way to start playing Magic: The Gathering?"
+    a: "The Foundations Beginner Box is built to teach: two ordered tutorial decks walk two players through a first game turn by turn, then all ten 20-card theme decks mix and match in pairs. A free Magic Academy event at a local store is the other great start."
+  - q: "How many cards are in a Magic deck?"
+    a: "A constructed deck has at least 60 cards, with no more than four of any card except basic lands. Draft and sealed decks have at least 40. A Commander deck is exactly 100 cards, its commander included, with only one copy of each card except basic lands."
+  - q: "Does the player who goes first draw a card?"
+    a: "Not in a two-player game. The starting player skips the draw step of their first turn. In multiplayer games like Commander, nobody skips it."
+  - q: "What is Magic Academy?"
+    a: "Magic Academy is a set of new-player events at local game stores. Learn to Play events teach the basic rules with simple decks, and Deck Building events show you how to build your first deck. They run about one to two hours, and the store provides the cards."
+  - q: "How does Commander work?"
+    a: "Each player starts at 40 life with a 100-card deck led by a legendary commander, which waits in the command zone. Casting it costs 2 more for each time you have already cast it from there, and a player dealt 21 or more combat damage by one commander loses."
+  - q: "Is Friday Night Magic good for beginners?"
+    a: "Yes. Wizards says Friday Night Magic welcomes players of all levels. The format changes from store to store, often Commander, Booster Draft, or Standard, so ask your store which one it runs."
+teachSheet:
+  goal: "Bring your opponent from 20 life to 0 before they do the same to you."
+  setup:
+    - "Each player takes a deck. Two Beginner Box theme decks shuffled together make one."
+    - "Set both life totals to 20. Pick who goes first."
+    - "Shuffle and draw 7 cards. Your deck is now your library, face down."
+    - "Mulligan: reshuffle, draw 7, put 1 on the bottom per mulligan taken."
+  turn:
+    - "Untap everything you control, then draw a card."
+    - "The first player skips their draw on turn one."
+    - "Main phase: play up to 1 land and cast creatures and sorceries."
+    - "Tap lands for mana to pay each card's cost, top right corner."
+    - "Attack with untapped creatures you have controlled since your turn began."
+    - "The defender chooses blockers. Creatures deal damage equal to their power."
+    - "Second main phase, then end your turn. Over 7 cards in hand? Discard down to 7."
+    - "Instants can be cast any time you have priority, even on others' turns."
+  scoring:
+    - "Unblocked attackers deal their damage to the defending player's life."
+    - "A creature with damage at least equal to its toughness is destroyed."
+    - "Damage on creatures wears off at the end of every turn."
+    - "Unused mana empties at the end of each step and phase."
+  endGame: "A player loses at 0 life, when they must draw from an empty library, or at 10 poison counters. The last player standing wins."
+  tips:
+    - "Play a land every turn you can."
+    - "Before you attack, check what your opponent can block with."
+    - "Read each card aloud the first time it hits the table."
+diagramAlt: "The Magic play area for two players. Each player has a side of the shared battlefield, with a row of lands nearest the player and a row of creatures and other permanents in front of it, one creature turned sideways to show it is tapped, and a life total of 20. Next to each side sit the library face down, the graveyard face up, exile, and the command zone, used mostly in Commander. Each hand is held off the table and hidden. The stack, where spells wait to resolve, sits on the center line between the players."
+related:
+  - "how-to-teach-magic-the-gathering"
+  - "where-to-play-magic-indianapolis"
+  - "magic-the-gathering-benefits"
+  - "commander-politics"
+  - "cube-vs-commander"
+  - "precon-vs-cube"
+  - "card-drafting-explained"
+  - "what-is-a-magic-cube"
+  - "cube-draft-guide-new-players"
+  - "how-to-run-a-cube-draft"
+tcg:
+  starter: "Magic: The Gathering Foundations Beginner Box"
+  firstEvent: "Magic Academy at a Wizards Play Network store, then Friday Night Magic and Commander nights"
+  rulesAsOf: "Reality Fracture (Comprehensive Rules effective September 25, 2026), ahead of Star Trek on November 13, 2026"

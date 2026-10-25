@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-labelledby="t d">
+  <title id="t">How packs pass in an eight-player Cube draft</title>
+  <desc id="d">Eight seats around one table, numbered clockwise from your seat. Packs 1 and 3 pass to the left, clockwise around the table. Pack 2 passes to the right, counterclockwise. A 360-card Cube makes 24 packs of 15, three for each drafter, so everyone ends with 45 picks and builds a 40-card deck.</desc>
+  <rect width="480" height="320" fill="#F6EFE3"/>
+  <g font-family="system-ui, sans-serif" font-size="12" fill="#2B1E16">
+
+    <!-- Legend, top corners -->
+    <line x1="10" y1="16" x2="34" y2="16" stroke="#2F5D50" stroke-width="3"/>
+    <path d="M34 11 L42 16 L34 21 Z" fill="#2F5D50"/>
+    <text x="48" y="20" font-weight="700">Packs 1 and 3 pass left</text>
+    <text x="48" y="35">clockwise</text>
+
+    <line x1="470" y1="16" x2="446" y2="16" stroke="#E0A23B" stroke-width="3"/>
+    <path d="M446 11 L438 16 L446 21 Z" fill="#E0A23B"/>
+    <text x="432" y="20" font-weight="700" text-anchor="end">Pack 2 passes right</text>
+    <text x="432" y="35" text-anchor="end">counterclockwise</text>
+
+    <!-- Outer ring: packs 1 and 3, clockwise -->
+    <ellipse cx="240" cy="165" rx="172" ry="128" fill="none" stroke="#2F5D50" stroke-width="2.5"/>
+    <g fill="#2F5D50">
+      <path d="M232 31 L246 37 L232 43 Z"/>
+      <path d="M406 157 L412 171 L418 157 Z"/>
+      <path d="M248 287 L234 293 L248 299 Z"/>
+      <path d="M62 173 L68 159 L74 173 Z"/>
+    </g>
+
+    <!-- The table -->
+    <rect x="150" y="100" width="180" height="130" rx="30" fill="#2F5D50" stroke="#2B1E16" stroke-width="1.5"/>
+
+    <!-- Inner ring: pack 2, counterclockwise -->
+    <ellipse cx="240" cy="165" rx="72" ry="44" fill="none" stroke="#E0A23B" stroke-width="2.5"/>
+    <g fill="#E0A23B">
+      <path d="M248 115 L234 121 L248 127 Z"/>
+      <path d="M232 203 L246 209 L232 215 Z"/>
+      <path d="M162 158 L168 172 L174 158 Z"/>
+      <path d="M306 172 L312 158 L318 172 Z"/>
+    </g>
+    <text x="240" y="160" text-anchor="middle" font-weight="700" fill="#F6EFE3">The Cube</text>
+    <text x="240" y="176" text-anchor="middle" fill="#F6EFE3">360 cards = 24 packs</text>
+    <text x="240" y="190" text-anchor="middle" font-size="11" fill="#F6EFE3">of 15, three per seat</text>
+
+    <!-- Eight seats, numbered clockwise from you -->
+    <g stroke="#2B1E16" stroke-width="1.5" fill="#F6EFE3">
+      <circle cx="240" cy="262" r="17" fill="#E0A23B"/>
+      <circle cx="160" cy="250" r="17"/>
+      <circle cx="110" cy="165" r="17"/>
+      <circle cx="160" cy="80" r="17"/>
+      <circle cx="240" cy="68" r="17"/>
+      <circle cx="320" cy="80" r="17"/>
+      <circle cx="370" cy="165" r="17"/>
+      <circle cx="320" cy="250" r="17"/>
+    </g>
+    <g text-anchor="middle" font-weight="700" font-size="13">
+      <text x="240" y="266" font-size="11">You</text>
+      <text x="160" y="255">2</text>
+      <text x="110" y="170">3</text>
+      <text x="160" y="85">4</text>
+      <text x="240" y="73">5</text>
+      <text x="320" y="85">6</text>
+      <text x="370" y="170">7</text>
+      <text x="320" y="255">8</text>
+    </g>
+
+    <!-- Bottom notes -->
+    <text x="10" y="300" font-weight="700">Each drafter</text>
+    <text x="10" y="315">3 packs, 45 picks</text>
+    <text x="470" y="300" text-anchor="end" font-weight="700">Then build</text>
+    <text x="470" y="315" text-anchor="end">a 40-card deck</text>
+  </g>
+</svg>
