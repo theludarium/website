@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-labelledby="t d">
+  <title id="t">Splendor setup</title>
+  <desc id="d">Setup for four players: three face-down development decks in a column with level 1 at the bottom, four face-up cards beside each deck, five noble tiles in a row above the cards, the supply of six stacks (7 each of Diamond, Sapphire, Emerald, Ruby, and Onyx, plus 5 Gold), and the First Player marker.</desc>
+  <defs>
+    <g id="deck">
+      <rect x="4" y="4" width="52" height="46" rx="5" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+      <rect x="2" y="2" width="52" height="46" rx="5" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+      <rect x="0" y="0" width="52" height="46" rx="5" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+    </g>
+    <rect id="card" width="40" height="50" rx="4" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <g id="noble">
+      <rect width="38" height="38" rx="5" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+      <rect x="4" y="20" width="9" height="13" rx="2" fill="#F6EFE3" stroke="#2B1E16" stroke-width="0.8"/>
+      <rect x="15" y="20" width="9" height="13" rx="2" fill="#F6EFE3" stroke="#2B1E16" stroke-width="0.8"/>
+    </g>
+    <circle id="dot" r="3" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.6"/>
+  </defs>
+  <rect width="480" height="320" fill="#F6EFE3"/>
+  <g font-family="system-ui, sans-serif" font-size="12" fill="#2B1E16">
+
+    <!-- Nobles: one more than the number of players, in a row above the cards -->
+    <use href="#noble" x="84" y="10"/>
+    <use href="#noble" x="128" y="10"/>
+    <use href="#noble" x="172" y="10"/>
+    <use href="#noble" x="216" y="10"/>
+    <use href="#noble" x="260" y="10"/>
+    <g font-size="12" font-weight="700">
+      <text x="89" y="24">3</text><text x="133" y="24">3</text><text x="177" y="24">3</text><text x="221" y="24">3</text><text x="265" y="24">3</text>
+    </g>
+    <text x="312" y="26" font-size="13" font-weight="700">Nobles</text>
+    <text x="312" y="42">5 face up (players + 1)</text>
+
+    <!-- Development decks: level 3 on top, level 1 at the bottom -->
+    <use href="#deck" x="16" y="62"/>
+    <use href="#deck" x="16" y="118"/>
+    <use href="#deck" x="16" y="174"/>
+    <g fill="#F6EFE3" font-weight="700" text-anchor="middle">
+      <text x="42" y="83">Level 3</text><text x="42" y="98" font-weight="400">deck</text>
+      <text x="42" y="139">Level 2</text><text x="42" y="154" font-weight="400">deck</text>
+      <text x="42" y="195">Level 1</text><text x="42" y="210" font-weight="400">deck</text>
+    </g>
+
+    <!-- Four face-up cards beside each deck -->
+    <g>
+      <use href="#card" x="84" y="62"/><use href="#card" x="130" y="62"/><use href="#card" x="176" y="62"/><use href="#card" x="222" y="62"/>
+      <use href="#card" x="84" y="118"/><use href="#card" x="130" y="118"/><use href="#card" x="176" y="118"/><use href="#card" x="222" y="118"/>
+      <use href="#card" x="84" y="174"/><use href="#card" x="130" y="174"/><use href="#card" x="176" y="174"/><use href="#card" x="222" y="174"/>
+    </g>
+    <!-- Prestige points, top left -->
+    <g font-weight="700">
+      <text x="89" y="77">4</text><text x="135" y="77">3</text><text x="181" y="77">5</text><text x="227" y="77">4</text>
+      <text x="89" y="133">2</text><text x="135" y="133">1</text><text x="181" y="133">3</text><text x="227" y="133">2</text>
+      <text x="135" y="189">1</text>
+    </g>
+    <!-- Bonus gem, top right -->
+    <g stroke="#2B1E16" stroke-width="0.8">
+      <circle cx="116" cy="72" r="5" fill="#2F5D50"/><circle cx="162" cy="72" r="5" fill="#2B1E16"/><circle cx="208" cy="72" r="5" fill="#B9AD9C"/><circle cx="254" cy="72" r="5" fill="#F6EFE3"/>
+      <circle cx="116" cy="128" r="5" fill="#F6EFE3"/><circle cx="162" cy="128" r="5" fill="#B9AD9C"/><circle cx="208" cy="128" r="5" fill="#2F5D50"/><circle cx="254" cy="128" r="5" fill="#2B1E16"/>
+      <circle cx="116" cy="184" r="5" fill="#B9AD9C"/><circle cx="162" cy="184" r="5" fill="#2F5D50"/><circle cx="208" cy="184" r="5" fill="#2B1E16"/><circle cx="254" cy="184" r="5" fill="#F6EFE3"/>
+    </g>
+    <!-- Cost, lower left -->
+    <g>
+      <use href="#dot" x="90" y="92"/><use href="#dot" x="90" y="100"/><use href="#dot" x="90" y="108"/>
+      <use href="#dot" x="136" y="84"/><use href="#dot" x="136" y="92"/><use href="#dot" x="136" y="100"/><use href="#dot" x="136" y="108"/>
+      <use href="#dot" x="182" y="100"/><use href="#dot" x="182" y="108"/>
+      <use href="#dot" x="228" y="108"/>
+      <use href="#dot" x="90" y="156"/><use href="#dot" x="90" y="164"/>
+      <use href="#dot" x="136" y="148"/><use href="#dot" x="136" y="156"/><use href="#dot" x="136" y="164"/>
+      <use href="#dot" x="182" y="164"/>
+      <use href="#dot" x="228" y="156"/><use href="#dot" x="228" y="164"/>
+      <use href="#dot" x="90" y="212"/><use href="#dot" x="90" y="220"/>
+      <use href="#dot" x="136" y="220"/>
+      <use href="#dot" x="182" y="204"/><use href="#dot" x="182" y="212"/><use href="#dot" x="182" y="220"/>
+      <use href="#dot" x="228" y="212"/><use href="#dot" x="228" y="220"/>
+    </g>
+    <text x="84" y="242">4 face-up cards per level</text>
+
+    <!-- Supply: five gem colors and Gold -->
+    <rect x="292" y="58" width="176" height="178" rx="12" fill="none" stroke="#B9AD9C" stroke-width="1" stroke-dasharray="4 4"/>
+    <text x="304" y="76" font-size="13" font-weight="700" fill="#2F5D50">Supply</text>
+    <text x="304" y="91">7 of each gem, 5 Gold</text>
+
+    <g stroke="#2B1E16" stroke-width="1">
+      <circle cx="322" cy="118" r="12" fill="#F6EFE3"/><circle cx="322" cy="114" r="12" fill="#F6EFE3"/><circle cx="322" cy="110" r="12" fill="#F6EFE3"/>
+      <circle cx="381" cy="118" r="12" fill="#B9AD9C"/><circle cx="381" cy="114" r="12" fill="#B9AD9C"/><circle cx="381" cy="110" r="12" fill="#B9AD9C"/>
+      <circle cx="440" cy="118" r="12" fill="#2F5D50"/><circle cx="440" cy="114" r="12" fill="#2F5D50"/><circle cx="440" cy="110" r="12" fill="#2F5D50"/>
+      <circle cx="322" cy="184" r="12" fill="#B9AD9C"/><circle cx="322" cy="180" r="12" fill="#B9AD9C"/><circle cx="322" cy="176" r="12" fill="#B9AD9C"/>
+      <circle cx="381" cy="184" r="12" fill="#2B1E16" stroke="#B9AD9C"/><circle cx="381" cy="180" r="12" fill="#2B1E16" stroke="#B9AD9C"/><circle cx="381" cy="176" r="12" fill="#2B1E16" stroke="#B9AD9C"/>
+      <circle cx="440" cy="184" r="12" fill="#E0A23B"/><circle cx="440" cy="180" r="12" fill="#E0A23B"/><circle cx="440" cy="176" r="12" fill="#E0A23B"/>
+    </g>
+    <g text-anchor="middle">
+      <text x="322" y="146">Diamond</text><text x="381" y="146">Sapphire</text><text x="440" y="146">Emerald</text>
+      <text x="322" y="212">Ruby</text><text x="381" y="212">Onyx</text><text x="440" y="212" font-weight="700">Gold</text>
+    </g>
+    <g text-anchor="middle" font-size="11" fill="#2F5D50">
+      <text x="322" y="158">white</text><text x="381" y="158">blue</text><text x="440" y="158">green</text>
+      <text x="322" y="224">red</text><text x="381" y="224">black</text><text x="440" y="224">wild</text>
+    </g>
+
+    <!-- First Player marker -->
+    <polygon points="24,252 33,262 24,272 15,262" fill="#E0A23B" stroke="#2B1E16" stroke-width="1"/>
+    <text x="40" y="266">First Player marker: the youngest player</text>
+
+    <text x="240" y="288" text-anchor="middle">Players start with no pieces and no cards.</text>
+    <text x="240" y="310" text-anchor="middle" fill="#2F5D50">3 players: 5 of each gem, 4 nobles. 2 players: 4 of each, 3 nobles.</text>
+  </g>
+</svg>

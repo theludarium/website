@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-labelledby="t d">
+  <title id="t">Heat: Pedal to the Metal setup</title>
+  <desc id="d">The game board with the cars on the starting grid behind the finish line, a corner with its Speed Limit and Corner Line, the track info and the Hall of Fame. Beside the board, the Stress reserve and a hand of 7 cards. Below, a player mat with the face-down draw deck of 12 Basic cards, 3 Starting Upgrades and 3 Stress cards, 6 Heat cards face up on the Engine, an empty discard pile, and the Gear pawn in 1st gear.</desc>
+  <rect width="480" height="320" fill="#F6EFE3"/>
+  <g font-family="system-ui, sans-serif" font-size="12" fill="#2B1E16">
+
+    <!-- Game board -->
+    <rect x="16" y="8" width="308" height="178" rx="12" fill="#B9AD9C" fill-opacity="0.18" stroke="#2B1E16" stroke-width="1.5"/>
+    <text x="28" y="27" font-size="13" font-weight="700">Game board</text>
+
+    <!-- Track info and Hall of Fame -->
+    <rect x="24" y="38" width="108" height="64" rx="6" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <g>
+      <text text-anchor="middle" x="78" y="53" font-weight="700">Track info</text>
+      <text text-anchor="middle" x="78" y="67">Laps per race,</text>
+      <text text-anchor="middle" x="78" y="81">Heat and Stress</text>
+      <text text-anchor="middle" x="78" y="95">per car</text>
+    </g>
+    <rect x="24" y="112" width="108" height="26" rx="6" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <text x="78" y="129" text-anchor="middle" font-weight="700">Hall of Fame</text>
+
+    <!-- Track loop -->
+    <rect x="150" y="46" width="150" height="100" rx="42" fill="#2F5D50" fill-opacity="0.15" stroke="#2B1E16" stroke-width="22"/>
+
+    <!-- Corner: Corner Line across the track and its Speed Limit -->
+    <line x1="289" y1="96" x2="311" y2="96" stroke="#E0A23B" stroke-width="3"/>
+    <circle cx="276" cy="96" r="9" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/>
+    <text x="276" y="100" text-anchor="middle" font-weight="700">4</text>
+    <g>
+      <text text-anchor="end" x="262" y="92">Speed Limit</text>
+      <text text-anchor="end" x="262" y="106">and Corner Line</text>
+    </g>
+
+    <!-- Finish line -->
+    <rect x="234" y="135" width="6" height="22" fill="#F6EFE3"/>
+    <g fill="#2B1E16">
+      <rect x="234" y="135" width="3" height="5.5"/>
+      <rect x="237" y="140.5" width="3" height="5.5"/>
+      <rect x="234" y="146" width="3" height="5.5"/>
+      <rect x="237" y="151.5" width="3" height="5.5"/>
+    </g>
+
+    <!-- Starting grid: cars placed at random, two Spots per Space -->
+    <rect x="220" y="137" width="12" height="7" rx="2" fill="#2F5D50" stroke="#F6EFE3" stroke-width="0.8"/>
+    <rect x="220" y="148" width="12" height="7" rx="2" fill="#E0A23B" stroke="#F6EFE3" stroke-width="0.8"/>
+    <rect x="204" y="137" width="12" height="7" rx="2" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="0.8"/>
+    <rect x="204" y="148" width="12" height="7" rx="2" fill="#B9AD9C" stroke="#F6EFE3" stroke-width="0.8"/>
+
+    <line x1="237" y1="159" x2="237" y2="166" stroke="#2B1E16" stroke-width="1"/>
+    <text x="228" y="176" text-anchor="end">Starting grid</text>
+    <text x="242" y="176">Finish line</text>
+
+    <!-- Stress reserve -->
+    <rect x="386" y="18" width="26" height="36" rx="3" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="389" y="21" width="26" height="36" rx="3" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="392" y="24" width="26" height="36" rx="3" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <g>
+      <text text-anchor="middle" x="400" y="78" font-weight="700">Stress reserve</text>
+      <text text-anchor="middle" x="400" y="92">face up</text>
+    </g>
+
+    <!-- Hand of 7 cards -->
+    <g fill="#F6EFE3" stroke="#2F5D50" stroke-width="1.2">
+      <rect x="338" y="108" width="16" height="24" rx="3"/>
+      <rect x="355" y="108" width="16" height="24" rx="3"/>
+      <rect x="372" y="108" width="16" height="24" rx="3"/>
+      <rect x="389" y="108" width="16" height="24" rx="3"/>
+      <rect x="406" y="108" width="16" height="24" rx="3"/>
+      <rect x="423" y="108" width="16" height="24" rx="3"/>
+      <rect x="440" y="108" width="16" height="24" rx="3"/>
+    </g>
+    <g>
+      <text text-anchor="middle" x="400" y="152" font-weight="700">Your hand</text>
+      <text text-anchor="middle" x="400" y="166">draw 7 cards</text>
+    </g>
+
+    <!-- Player mat -->
+    <rect x="16" y="196" width="448" height="104" rx="12" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.5"/>
+    <text x="28" y="215" font-size="13" font-weight="700">Your player mat</text>
+
+    <!-- Gear track with the pawn in 1st gear -->
+    <text x="344" y="217" text-anchor="end">Gear pawn in 1st</text>
+    <circle cx="356" cy="213" r="9" fill="#2F5D50" stroke="#2B1E16" stroke-width="1.2"/>
+    <circle cx="380" cy="213" r="9" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <circle cx="404" cy="213" r="9" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <circle cx="428" cy="213" r="9" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <g font-weight="700">
+      <text text-anchor="middle" x="356" y="217" fill="#F6EFE3">1</text>
+      <text text-anchor="middle" x="380" y="217">2</text>
+      <text text-anchor="middle" x="404" y="217">3</text>
+      <text text-anchor="middle" x="428" y="217">4</text>
+    </g>
+
+    <!-- Draw deck, face down, on the left -->
+    <rect x="32" y="228" width="34" height="46" rx="4" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="35" y="231" width="34" height="46" rx="4" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="38" y="234" width="34" height="46" rx="4" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+    <text x="84" y="240" font-weight="700">Draw deck, face down</text>
+    <text x="84" y="255">12 Basic cards</text>
+    <text x="84" y="269">3 Starting Upgrades</text>
+    <text x="84" y="283">3 Stress cards</text>
+
+    <!-- Engine in the middle: 6 Heat face up -->
+    <rect x="232" y="224" width="108" height="70" rx="6" fill="none" stroke="#B9AD9C" stroke-width="1.2"/>
+    <g fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8">
+      <rect x="240" y="232" width="14" height="22" rx="2"/>
+      <rect x="256" y="232" width="14" height="22" rx="2"/>
+      <rect x="272" y="232" width="14" height="22" rx="2"/>
+      <rect x="288" y="232" width="14" height="22" rx="2"/>
+      <rect x="304" y="232" width="14" height="22" rx="2"/>
+      <rect x="320" y="232" width="14" height="22" rx="2"/>
+    </g>
+    <g>
+      <text text-anchor="middle" x="286" y="272" font-weight="700">Engine</text>
+      <text text-anchor="middle" x="286" y="287">6 Heat, face up</text>
+    </g>
+
+    <!-- Discard pile, empty at the start -->
+    <rect x="369" y="228" width="34" height="46" rx="4" fill="none" stroke="#B9AD9C" stroke-width="1.2" stroke-dasharray="4 3"/>
+    <text x="386" y="288" text-anchor="middle" font-weight="700">Discard pile</text>
+
+    <text x="240" y="314" text-anchor="middle" fill="#2F5D50">First race: USA track, try 1 lap. Advanced modules stay in the box.</text>
+  </g>
+</svg>

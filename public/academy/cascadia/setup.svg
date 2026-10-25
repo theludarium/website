@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-labelledby="t d">
+  <title id="t">Cascadia setup</title>
+  <desc id="d">Five wildlife scoring cards in a row, face-down habitat tile stacks, a display of four habitat tiles each paired with a wildlife token, the cloth bag of wildlife tokens, the nature token supply, and a starter habitat tile in front of each of four players.</desc>
+  <defs>
+    <path id="hx" d="M0 -18 L15.59 -9 L15.59 9 L0 18 L-15.59 9 L-15.59 -9 Z"/>
+    <path id="hxL" d="M0 -18 L0 18 L-15.59 9 L-15.59 -9 Z"/>
+    <ellipse id="cone" rx="5.5" ry="7.5"/>
+  </defs>
+  <rect width="480" height="320" fill="#F6EFE3"/>
+  <g font-family="system-ui, sans-serif" font-size="12" fill="#2B1E16">
+
+    <!-- Wildlife scoring cards: one per animal -->
+    <text x="26" y="19" font-weight="700">Wildlife scoring cards: one per animal (first game: the A cards)</text>
+    <g fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2">
+      <rect x="26" y="27" width="76" height="42" rx="6"/>
+      <rect x="114" y="27" width="76" height="42" rx="6"/>
+      <rect x="202" y="27" width="76" height="42" rx="6"/>
+      <rect x="290" y="27" width="76" height="42" rx="6"/>
+      <rect x="378" y="27" width="76" height="42" rx="6"/>
+    </g>
+    <g text-anchor="middle">
+      <text x="64" y="44">Bear</text><text x="152" y="44">Elk</text><text x="240" y="44">Salmon</text><text x="328" y="44">Hawk</text><text x="416" y="44">Fox</text>
+    </g>
+    <g text-anchor="middle" font-size="14" font-weight="700" fill="#2F5D50">
+      <text x="64" y="62">A</text><text x="152" y="62">A</text><text x="240" y="62">A</text><text x="328" y="62">A</text><text x="416" y="62">A</text>
+    </g>
+
+    <!-- Face-down habitat tile stacks -->
+    <g fill="#B9AD9C" stroke="#2B1E16" stroke-width="1.2">
+      <use href="#hx" transform="translate(70 136)"/>
+      <use href="#hx" transform="translate(67 133)"/>
+      <use href="#hx" transform="translate(64 130)"/>
+    </g>
+    <text x="66" y="172" text-anchor="middle">Habitat tile</text>
+    <text x="66" y="186" text-anchor="middle">stacks, face down</text>
+
+    <!-- The display: four tile and token pairs -->
+    <rect x="140" y="82" width="200" height="120" rx="12" fill="none" stroke="#B9AD9C" stroke-width="1" stroke-dasharray="4 4"/>
+    <text x="150" y="97" font-weight="700" fill="#2F5D50">Display</text>
+
+    <g stroke="#2B1E16" stroke-width="1.2">
+      <g transform="translate(180 128)"><use href="#hx" fill="#B9AD9C"/><use href="#hxL" fill="#E0A23B" stroke="none"/><use href="#hx" fill="none"/></g>
+      <g transform="translate(220 128)"><use href="#hx" fill="#2F5D50"/></g>
+      <g transform="translate(260 128)"><use href="#hx" fill="#E0A23B"/><use href="#hxL" fill="#2F5D50" stroke="none"/><use href="#hx" fill="none"/></g>
+      <g transform="translate(300 128)"><use href="#hx" fill="#B9AD9C"/><use href="#hxL" fill="#2F5D50" stroke="none"/><use href="#hx" fill="none"/></g>
+    </g>
+    <g fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2">
+      <circle cx="180" cy="164" r="10"/><circle cx="220" cy="164" r="10"/><circle cx="260" cy="164" r="10"/><circle cx="300" cy="164" r="10"/>
+    </g>
+    <g text-anchor="middle" font-weight="700">
+      <text x="180" y="168">E</text><text x="220" y="168">S</text><text x="260" y="168">B</text><text x="300" y="168">F</text>
+    </g>
+    <text x="240" y="194" text-anchor="middle">4 tile and token pairs</text>
+
+    <!-- Cloth bag of wildlife tokens -->
+    <path d="M396 106 Q410 101 424 106 L421 113 Q444 128 440 150 Q437 166 410 166 Q383 166 380 150 Q376 128 399 113 Z" fill="#2F5D50" stroke="#2B1E16" stroke-width="1.2"/>
+    <path d="M399 113 Q410 117 421 113" fill="none" stroke="#F6EFE3" stroke-width="1.5"/>
+    <text x="410" y="182" text-anchor="middle">Cloth bag of</text>
+    <text x="410" y="196" text-anchor="middle">wildlife tokens</text>
+
+    <!-- Starter habitat tiles: one per player -->
+    <g stroke="#2B1E16" stroke-width="1.2">
+      <g transform="translate(56 236)"><use href="#hx" fill="#2F5D50"/></g>
+      <g transform="translate(40.41 263)"><use href="#hx" fill="#B9AD9C"/><use href="#hxL" fill="#E0A23B" stroke="none"/><use href="#hx" fill="none"/></g>
+      <g transform="translate(71.59 263)"><use href="#hx" fill="#E0A23B"/><use href="#hxL" fill="#2F5D50" stroke="none"/><use href="#hx" fill="none"/></g>
+
+      <g transform="translate(150 236)"><use href="#hx" fill="#E0A23B"/></g>
+      <g transform="translate(134.41 263)"><use href="#hx" fill="#2F5D50"/><use href="#hxL" fill="#B9AD9C" stroke="none"/><use href="#hx" fill="none"/></g>
+      <g transform="translate(165.59 263)"><use href="#hx" fill="#B9AD9C"/><use href="#hxL" fill="#E0A23B" stroke="none"/><use href="#hx" fill="none"/></g>
+
+      <g transform="translate(330 236)"><use href="#hx" fill="#B9AD9C"/></g>
+      <g transform="translate(314.41 263)"><use href="#hx" fill="#E0A23B"/><use href="#hxL" fill="#2F5D50" stroke="none"/><use href="#hx" fill="none"/></g>
+      <g transform="translate(345.59 263)"><use href="#hx" fill="#2F5D50"/><use href="#hxL" fill="#B9AD9C" stroke="none"/><use href="#hx" fill="none"/></g>
+
+      <g transform="translate(424 236)"><use href="#hx" fill="#2F5D50"/></g>
+      <g transform="translate(408.41 263)"><use href="#hx" fill="#B9AD9C"/><use href="#hxL" fill="#2F5D50" stroke="none"/><use href="#hx" fill="none"/></g>
+      <g transform="translate(439.59 263)"><use href="#hx" fill="#E0A23B"/><use href="#hxL" fill="#B9AD9C" stroke="none"/><use href="#hx" fill="none"/></g>
+    </g>
+    <g text-anchor="middle">
+      <text x="56" y="298">Player 1</text><text x="150" y="298">Player 2</text><text x="330" y="298">Player 3</text><text x="424" y="298">Player 4</text>
+    </g>
+
+    <!-- Nature token supply -->
+    <g fill="#E0A23B" stroke="#2B1E16" stroke-width="1">
+      <use href="#cone" x="226" y="238"/><use href="#cone" x="240" y="234"/><use href="#cone" x="254" y="238"/>
+      <use href="#cone" x="233" y="254"/><use href="#cone" x="247" y="254"/><use href="#cone" x="240" y="270"/>
+    </g>
+    <text x="240" y="298" text-anchor="middle">Nature tokens</text>
+
+    <text x="240" y="314" text-anchor="middle" fill="#2F5D50">Each player starts with 1 starter habitat tile, face up</text>
+  </g>
+</svg>
