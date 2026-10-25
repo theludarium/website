@@ -2,13 +2,14 @@
 title: "The Dominion Midgame: Money, Engines, and Tempo"
 description: "Dominion midgame strategy: money density, how Village and Smithy engines work, when an engine beats Big Money, tempo across shuffles, and reading other decks."
 course: dominion
-order: 5
+order: 8
+level: 2
 emailSubject: "Money deck or engine? How to tell"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "In the midgame, every buy either raises the average hand or builds a turn that draws your whole deck. Know which plan you are on, and buy for it."
 tryThis: "At your next game, pause once around turn 8 and count your deck's total money divided by its card count. Do it again at turn 14, and see how the number moved."
-nextTeaser: "Next, the endgame and scoring math: when to buy Provinces, when Duchies beat Gold, and how to end the game on your terms."
+nextTeaser: "Next, trashing: why a smaller deck plays its best cards more often, and how Chapel, Moneylender, Remodel, and Sentry get you there."
 ---
 By turn 5 or so, everyone has shuffled twice and the decks start to look different. One player has three Silvers and a Smithy. Another has two Villages and a Market. The midgame is where those plans either come together or fall apart, and it is where most games are won.
 

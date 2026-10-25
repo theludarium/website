@@ -2,13 +2,14 @@
 title: "Your First Three Games of Carcassonne"
 description: "Carcassonne beginner mistakes, from rules slips like meeples on old tiles to strategy traps like stranded knights and early farmers, and how to fix each one."
 course: carcassonne
-order: 3
+order: 4
+level: 1
 emailSubject: "The mistakes every new Carcassonne table makes"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Most first-game trouble comes from two places: small rules slips about where meeples can go, and meeples stranded on features that will never finish."
 tryThis: "After each of your next three games, count how many meeples each player had left on unfinished features. Whoever stranded the fewest usually learned the most."
-nextTeaser: "Next, openings. We look at the first few turns, where to put your early meeples, and how to keep them coming home."
+nextTeaser: "Next, the meeple economy: how many turns you get, how many meeples you have, and why the ratio decides most games."
 ---
 Your first three games of Carcassonne are where habits form. Some are rules mistakes, quietly played wrong because nobody checked. Others are legal moves that cost a lot of points. This lesson covers both, checked against the current rulebook and supplemental rulesheet.
 

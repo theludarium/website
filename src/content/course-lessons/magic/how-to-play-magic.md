@@ -3,6 +3,7 @@ title: "How to Play Magic: How a Turn Works"
 description: "How to play Magic: The Gathering, one turn at a time: the play area, opening hands and mulligans, lands and mana, the five phases, combat, and how games end."
 course: magic
 order: 2
+level: 0
 emailSubject: "Untap, draw, play a land"
 pubDate: 2026-10-24
 draft: false
@@ -12,7 +13,7 @@ nextTeaser: "Next, reading a card: every part of a Magic card, labeled on a card
 ---
 Magic looks complicated from the outside because there are tens of thousands of different cards. The structure underneath them is small. Two players, 20 life each, and a turn that runs the same way every time. Cards bend those rules in specific ways, and each card tells you how.
 
-This lesson covers a two-player game, checked against the Comprehensive Rules effective September 25, 2026. Commander changes a few numbers, and lesson 6 covers those.
+This lesson covers a two-player game, checked against the Comprehensive Rules effective September 25, 2026. Commander changes a few numbers, and the [store night lesson](/academy/magic/first-friday-night-magic/) covers those.
 
 ## The play area
 
@@ -87,4 +88,4 @@ You lose if:
 
 You can also concede at any time. The last player standing wins.
 
-That is the whole shape of a turn. The cards bring the variety, and lesson 3 shows you how to read them. If you would rather learn by drafting your first deck instead of borrowing one, our piece on [what a Magic cube is](/articles/what-is-a-magic-cube/) shows another way in.
+That is the whole shape of a turn. The cards bring the variety, and the next lesson shows you how to read them. If you would rather learn by drafting your first deck instead of borrowing one, our piece on [what a Magic cube is](/articles/what-is-a-magic-cube/) shows another way in.

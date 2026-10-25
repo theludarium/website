@@ -3,12 +3,13 @@ title: "How to Teach Dune: Imperium"
 description: "How to teach Dune: Imperium in ten minutes: a host script in the order you say it, what to leave out of the first game, Uprising notes, and a teach sheet."
 course: dune-imperium
 order: 2
+level: 0
 emailSubject: "Teach Dune: Imperium without the glazed eyes"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Teach the two kinds of turns with a real card in your hand. Once the table sees one card go out as an Agent and another come back as Persuasion and swords, every other rule has somewhere to hang."
 tryThis: "Before your next teach, pick the one card you will use for your demo Agent turn and the one board space you will send it to, so the example is ready before anyone sits down."
-nextTeaser: "Next, your first three games: the rules slips and strategy traps that catch almost every new table, so you can spot them early."
+nextTeaser: "Next, reading the board: the seven Agent icons, every space by area, and what each one costs."
 ---
 Dune: Imperium has a reputation as a heavy game, and its board does look busy: four Factions, a Landsraad, a city, a desert, and a pile of tokens. Our [game weight guide](/articles/board-game-weight-explained/) puts it in the medium band, and that is the right frame for a teach. The rules are not long. They are just unfamiliar, because the game mixes a deck builder with worker placement.
 
@@ -20,7 +21,7 @@ Set up completely, so the teach starts with the game ready. Conflict deck built,
 
 Hand out Leaders with one icon after their names. The rulebook recommends them for a first game: Paul Atreides, Glossu "The Beast" Rabban, Earl Memnon Thorvald, and Count Ilban Richese. Ask each player to read their own Leader once. Do not explain all four out loud.
 
-Teaching Uprising? Leave the CHOAM contracts in the box for the first game, as the Uprising rulebook and [Dire Wolf's contracts diary] both recommend(https://news.direwolfdigital.com/dune-imperium-uprising-design-diary-4-contracts). Without the module, the contract icon simply pays 2 Solari.
+Teaching Uprising? Leave the CHOAM contracts in the box for the first game, as the Uprising rulebook and [Dire Wolf's contracts diary](https://news.direwolfdigital.com/dune-imperium-uprising-design-diary-4-contracts) both recommend. Without the module, the contract icon simply pays 2 Solari.
 
 ## Minute 1: the goal
 

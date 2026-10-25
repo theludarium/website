@@ -3,12 +3,13 @@ title: "How to Play Spirit Island"
 description: "How to play Spirit Island: setup, the five phases of a turn, Ravage, Build, and Explore, Blight, Fear and Terror Levels, how to win or lose, and how to teach."
 course: spirit-island
 order: 1
+level: 0
 emailSubject: "Spirit Island, from setup to the first Ravage"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Spirit Island is a race between two engines. The Invaders grow on a schedule you can read turns ahead, and your Spirits grow by spreading Presence and gaining Powers. Learn the five phases and that schedule, and the rest is detail."
 tryThis: "Before your first game, set up a one-board Island and run two Invader Phases alone, saying out loud which lands Ravage, Build, and Explore each time."
-nextTeaser: "Next, the Invader cards in depth: how the Explore, Build, Ravage track shows you the future, and how to aim Fast and Slow Powers at it."
+nextTeaser: "Next, how to teach Spirit Island: a host script in the order you say it, so a whole table learns a heavy co-op in one sitting."
 ---
 Spirit Island turns the usual colonization game around. You are not the settlers. You are the spirits of an island where settlers, the Invaders, have just landed. With the Dahan, the people who already live there, you grow in power and drive the Invaders off before they ruin the land. The whole table wins or loses together.
 
@@ -74,7 +75,7 @@ The Invader Phase runs in a fixed order.
 5. **Explore.** Reveal the top Invader card. Add 1 Explorer to each land of that type that has a Town or City, or touches a Town, a City, or the Ocean.
 6. **Advance.** Slide each card one space left: Ravage to the discard, Build to Ravage, Explore to Build.
 
-That slide is the heart of the game. A land type Explored this turn Builds next turn and Ravages the turn after. [Lesson 2](/academy/spirit-island/spirit-island-invader-cards/) shows how to use it.
+That slide is the heart of the game. A land type Explored this turn Builds next turn and Ravages the turn after. The [Invader cards lesson](/academy/spirit-island/spirit-island-invader-cards/) shows how to use it.
 
 ## What does Blight do?
 
@@ -92,7 +93,7 @@ You win the moment the Island meets the current Terror Level's condition:
 - **Terror Level 2:** no Towns or Cities.
 - **Terror Level 3:** no Cities.
 
-Earn the last Fear Card and you win outright. [Lesson 3](/academy/spirit-island/spirit-island-fear-and-terror-levels/) covers Fear in depth.
+Earn the last Fear Card and you win outright. The [Fear lesson](/academy/spirit-island/spirit-island-fear-and-terror-levels/) covers it in depth.
 
 You lose if the Blight Card runs out and says so, if any Spirit has no Presence left on the Island, or if you need to Explore and the Invader Deck is empty.
 

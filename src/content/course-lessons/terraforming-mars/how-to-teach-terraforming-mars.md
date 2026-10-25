@@ -3,12 +3,13 @@ title: "How to Teach Terraforming Mars"
 description: "How to teach Terraforming Mars in ten minutes: a host script in the order you say it, what to leave out of game one, and a printable teach sheet for the table."
 course: terraforming-mars
 order: 2
+level: 0
 emailSubject: "Teach Terraforming Mars without the lecture"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Teach the loop, not the cards. Raise a parameter, gain TR, get paid more. Once that clicks, the 208 project cards are just different ways to do it."
 tryThis: "Print the teach sheet, hand every new player a Beginner Corporation, and stop talking at the ten-minute mark, even if you have not covered awards."
-nextTeaser: "Next, your first three games. We cover the rules slips almost every new table makes, so you can catch them before they cost anyone points."
+nextTeaser: "Next, reading a project card: cost, requirement, tags, colors, red borders, and victory points, so any of the 208 cards makes sense at a glance."
 ---
 Terraforming Mars has a reputation as a long teach. Our piece on [play time](/articles/board-game-play-time-accuracy/) notes that explaining it can take twenty-five minutes. Much of that time tends to go to cards nobody has drawn yet.
 

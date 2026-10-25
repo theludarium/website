@@ -3,6 +3,7 @@ title: "How a Turn Works in Riftbound"
 description: "Riftbound rules in plain words: setup, the Awaken, Beginning, Channel, and Draw steps, paying with runes, moving units, combat, conquering, and holding."
 course: riftbound
 order: 2
+level: 0
 emailSubject: "Conquer it once, hold it every turn"
 pubDate: 2026-10-24
 draft: false

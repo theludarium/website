@@ -2,14 +2,16 @@
 title: "Competitive Riftbound: From Store Nights to Regionals"
 description: "Competitive Riftbound: event levels, how constructed tournaments run, the 2027 Regionals in Madrid and Philadelphia, the Dallas Continental, and local play."
 course: riftbound
-order: 8
+order: 21
+level: 5
 emailSubject: "The road from your store to a Riftbound Regional"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Competitive Riftbound is the same game you play at a Nexus Night, with exact deck rules, a clock, and stricter calls. The path up is open to anyone with a legal deck."
 tryThis: "Register your deck as a list this month, exactly 40 cards plus runes and three battlefields, and play it unchanged at three store events. Track your record."
+nextTeaser: "Last, a practice plan: six weeks of games, matchups, clocked best-of-three matches, and review to get you ready for your first Regional."
 ---
-Riftbound has a full competitive ladder, from weekly store nights to a world championship. You never need to climb it to enjoy the game. But knowing how it works helps you choose events, and a few of its habits make you a better player at any table.
+Welcome to Level 5, the championship path. Riftbound has a full competitive ladder, from weekly store nights to a world championship. You never need to climb it to enjoy the game. But knowing how it works helps you choose events, and a few of its habits make you a better player at any table.
 
 ## The three levels of play
 
@@ -19,7 +21,7 @@ Every event has an **Organized Play Level**, and the Tournament Rules define thr
 - **Competitive.** Events with real rewards, such as invitations to bigger events. Players are expected to know the Core Rules and the Tournament Rules, and penalties are stricter.
 - **Professional.** The top events, with the highest standard of precise play.
 
-The step from Casual to Competitive is mostly about care: exact decklists, sleeves required, and fewer take-backs.
+The step from Casual to Competitive is mostly about care: exact decklists, sleeves required, and fewer take-backs. The [Tournament Rules lesson](/academy/riftbound/riftbound-tournament-rules/) covers each procedure in detail.
 
 ## How constructed tournaments run
 
@@ -30,11 +32,11 @@ Competitive Riftbound is mostly **constructed**: you bring a deck you built befo
 - **Deck registration** is required at Competitive and Professional events. You play the deck you registered.
 - **Best of three.** Most matches are won by the first player to take two games. Each game, players choose a battlefield they have not used in a game someone already won.
 - **Swiss rounds, then a playoff.** Swiss pairs players with the same record each round. The rules recommend 60 minutes per Swiss round. If time runs out, the current turn finishes, three more turns are played, and a player with a lead of two or more points wins the game.
-- **Only the current format.** Standard is the main constructed format. Riot says every set made so far is legal in it, and it plans to start rotating older sets out in 2028. Riot also keeps a banned list.
+- **Only the current format.** Standard is the main constructed format. The Tournament Rules list every set made so far as legal in it, and Riot has said rotation will start no earlier than 2028. Riot also keeps a banned list.
 
 Riot is testing changes to the going-second bonus at a few events, aiming for closer win rates between going first and second. It plans to announce a decision with the Legacy patch notes.
 
-<!-- VERIFY: the result of the start-of-game test once the Legacy patch notes publish, and update lesson 2 if the rule changes. -->
+<!-- VERIFY: the result of the start-of-game test once the Legacy patch notes publish, and update the turn lesson and the best-of-three lesson if the rule changes. -->
 
 ## The ladder for 2027
 
@@ -42,7 +44,7 @@ Riot reshaped the competitive path for 2027 in its August 2026 State of Play:
 
 - **Summoner Skirmish** events, the old store-level competitive tier, retire after Radiance. They are replaced by the **Riftbound Challenge Series**, a new on-ramp to competitive play, and the **Nexus Cup**, a monthly local event.
 - **Showdown Series** events, run by third-party organizers, expand to more regions.
-- **Riftbound Regionals,** formerly Regional Qualifiers, run three to four times per set. They need no invitation, and they qualify players for Continentals.
+- **Riftbound Regionals,** formerly Regional Qualifiers, run generally three to four times per set, and they qualify players for Continentals. <!-- VERIFY: whether Regionals need an invitation or are open entry. -->
 - **Riftbound Continentals,** formerly Regional Championships, run four times a year, one per set. Day one is an open qualifier for players without an invitation.
 - **The Riftbound World Championship** caps the season. Riot has not yet posted a date or place.
 
@@ -84,4 +86,4 @@ If you are near Indianapolis, our list of [board game stores in Indianapolis](/a
 - **Keep a short log.** Opponent, result, and the turn the game turned.
 - **Review your losses.** Which battlefield did you fail to hold, and when could you have defended it?
 
-That is the end of the course. You can now pick a first box, play and teach a full game, read any card, upgrade a deck, enjoy a store night and a Pre-Rift, and find your way up the ladder if you want to. The game is the reason. The people across the table are the point.
+The last lesson turns all of this into a plan: six weeks of practice aimed at your first Regional.

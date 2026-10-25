@@ -3,12 +3,13 @@ title: "How to Teach Heat: Pedal to the Metal"
 description: "How to teach Heat: Pedal to the Metal in ten minutes: a host script in the order you say it, what to leave in the box, and a teach sheet for the table."
 course: heat
 order: 2
+level: 0
 emailSubject: "Teach Heat before the engines cool"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Teach the loop, not the nine steps: gear, cards, move, and the bill at each corner. Run one real round out loud and let the other steps arrive when the race needs them."
 tryThis: "Print the teach sheet, set up a 1-lap race on the USA track, and start the first round by minute ten, even if someone still has a question."
-nextTeaser: "Next, your first three races: the rules slips almost every new table makes, and the habits that waste Heat without anyone noticing."
+nextTeaser: "Next, the last piece of Level 0: corners worked through one example at a time, so every bill at every Corner Line gets paid right."
 ---
 A round of Heat has nine steps, and the temptation is to read all nine aloud before anyone touches a card. Resist it. Five of those steps only happen sometimes, and the race will show you when. New drivers need the loop, one corner, and three ways to get a little extra. The rest can wait for the moment it comes up.
 
@@ -68,7 +69,7 @@ Teach the rest the first time it happens:
 
 ## What to leave out
 
-- **Upgrades, Legends, weather, and the Championship.** All good, all for later. [Lesson 7](/academy/heat/heat-expansions/) walks through them.
+- **Upgrades, Legends, weather, and the Championship.** All good, all for later. [The modules lesson](/academy/heat/heat-expansions/) walks through them.
 - **Strategy.** Let people discover that hoarding Heat loses races. It sticks better.
 - **Tournament Mode.** Save it for players who want a sharper game.
 

@@ -3,6 +3,7 @@ title: "How to Start Playing Riftbound"
 description: "How to start playing Riftbound: what a deck needs, why Proving Grounds is the best first box, when the 2nd Edition arrives, and what new players can skip."
 course: riftbound
 order: 1
+level: 0
 emailSubject: "Your first Riftbound box, without the guesswork"
 pubDate: 2026-10-24
 draft: false
@@ -35,7 +36,7 @@ You do not need to build any of that yourself to start. A preconstructed deck co
 
 So which one? If you want to play this month, buy the first edition. The rules are the same game either way. If you are shopping for a gift in early 2027, the 2nd Edition is the newer box. This course teaches the rules as they stand today.
 
-Both boxes work for store play too. The first edition's cards are legal in Standard, the main tournament format, and Riot's [rules hub](https://playriftbound.com/en-us/rules-hub/) says it plans to start rotating older sets out of Standard in 2028.
+Both boxes work for store play too. The first edition's cards are legal in Standard, the main tournament format, and Riot has said older sets will start rotating out of Standard no earlier than 2028. <!-- VERIFY: Riot's own post on the first Standard rotation; the rules hub's Tournament Rules do not give a date. -->
 
 ## What if you only need one deck?
 
@@ -56,7 +57,7 @@ There is no wrong first deck. Your second deck will be a better choice because o
 
 ## What to skip for now
 
-- **Booster boxes.** Opening packs is fun, but random cards improve a deck less reliably than buying the few cards you need. Lesson 5 covers that.
+- **Booster boxes.** Opening packs is fun, but random cards improve a deck less reliably than buying the few cards you need. The [budget upgrades lesson](/academy/riftbound/riftbound-deck-upgrades/) covers that.
 - **Bundles and collector products.** They are made for people who already play and collect. Enjoy them later if you love the art.
 - **A paid playmat.** Proving Grounds includes playmats, and any table works.
 
@@ -66,4 +67,4 @@ One thing not to skip once you plan to play at a store: **card sleeves**. The to
 
 Riot's [How to Play page](https://playriftbound.com/en-us/news/rules-and-releases/how-to-play-get-started/) links a short quick start guide, and the [rules hub](https://playriftbound.com/en-us/rules-hub/) keeps the full Core Rules. You do not need the full rules to begin; the quick start covers a first game. The next lesson does the same, in plain words.
 
-If you want help finding a store nearby, our list of [board game stores in Indianapolis](/articles/indianapolis-board-game-stores/) is a start for central Indiana, and lesson 6 shows how to find a store night anywhere.
+If you want help finding a store nearby, our list of [board game stores in Indianapolis](/articles/indianapolis-board-game-stores/) is a start for central Indiana, and the [Nexus Night lesson](/academy/riftbound/riftbound-nexus-night/) shows how to find a store night anywhere.

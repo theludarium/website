@@ -3,12 +3,13 @@ title: "How to Teach Magic in Ten Minutes"
 description: "How to teach Magic: The Gathering in ten minutes: a host script in the order you say it, what to leave out, using the Beginner Box, and a printable teach sheet."
 course: magic
 order: 4
+level: 0
 emailSubject: "Teach Magic without reading the rules aloud"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Teach lands, creatures, and combat, then play. Every other rule waits until a card on the table asks for it."
 tryThis: "Print the teach sheet and teach your next new player with two Beginner Box decks. Stop talking by minute ten, even if you have not mentioned instants yet."
-nextTeaser: "Next, your first upgrades: how to buy single cards on a budget, and what to change first in a starter or Commander deck."
+nextTeaser: "Level 1 starts with your first ten games: the rules slips and timing habits almost every new player falls into, and how to fix each one."
 ---
 Magic has a reputation as a hard game to teach, and most of that comes from how people teach it. A host who loves the game explains the stack, priority, every card type, and three formats before the new player has played a land. By then the new player is nodding politely and wondering when the fun starts.
 

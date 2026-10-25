@@ -2,13 +2,14 @@
 title: "Brass: Birmingham Link Scoring Math"
 description: "Brass: Birmingham link scoring explained with numbers: link icons on flipped tiles, merchants worth 2, canal and rail costs, and how to value a link early."
 course: brass-birmingham
-order: 6
+order: 9
+level: 2
 emailSubject: "Count the link before you build it"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "A link scores the link icons in the two locations it touches when the era ends, whoever owns the tiles there. Count those icons, and the flips still to come, before you spend the action."
 tryThis: "Before each link in your next game, say its value out loud: the icons it touches now, plus the flips you expect before the era ends."
-nextTeaser: "Last lesson: endgame planning, from counting your final actions to the last-turn loan, plus where to play Brass: Birmingham in tournaments."
+nextTeaser: "Next, the six industries tile by tile: what each level costs, what it pays, and which ones earn their place in each era."
 ---
 There are only two ways to score in Brass: Birmingham. Industries score what you built. Links score what everyone built at the ends of your routes. The second one is easy to undercount, and it rewards players who do the arithmetic before they place a link.
 
@@ -18,7 +19,7 @@ At the end of each era, each of your links scores 1 VP for each link icon in the
 
 The icons come from two places:
 
-- **Flipped industry tiles.** The link icons sit in the top right corner of a tile's flipped side. Unflipped tiles show none. Ownership does not matter: a rival's flipped tile pays your link.
+- **Flipped industry tiles.** The link icons are printed on a tile's flipped side. Unflipped tiles show none. Ownership does not matter: a rival's flipped tile pays your link.
 - **Merchant locations.** Each one shows 2 link icons on the board.
 
 Links score before industries, and then they leave the board. In the Canal Era, flipped level 1 tiles still count for your canals, because they are only removed after scoring.

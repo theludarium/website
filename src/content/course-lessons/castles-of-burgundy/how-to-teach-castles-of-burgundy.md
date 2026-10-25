@@ -3,12 +3,13 @@ title: "How to Teach The Castles of Burgundy"
 description: "How to teach The Castles of Burgundy in ten minutes: a host script in the order you say it, what to skip in the first game, and a printable teach sheet."
 course: castles-of-burgundy
 order: 2
+level: 0
 emailSubject: "Teach Castles of Burgundy before the snacks run out"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Teach the dice, not the tiles. Once the table knows what a die can do, the overview board explains the rest, one tile at a time."
 tryThis: "Print the teach sheet, set up before anyone sits down, and narrate the first round out loud with every die face up."
-nextTeaser: "Next, your first three games: the rules slips and planning traps almost every new table hits, and how to spot them before they cost points."
+nextTeaser: "Next, the last piece of Level 0: one full round walked through turn by turn, so you can see how dice, workers, tiles, and the bridge fit together."
 ---
 The Castles of Burgundy has a reputation as a hard teach. It is not hard. It is wide. There are six tile colors, eight buildings, and a stack of monastery powers, and a host who explains all of them before the first roll loses the table by the second building.
 

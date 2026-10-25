@@ -3,6 +3,7 @@ title: "How to Play Heat: Pedal to the Metal"
 description: "How to play Heat: Pedal to the Metal: setup, gears and cards, the nine steps of a round, corners and Heat, slipstream, spinning out, and how the race is won."
 course: heat
 order: 1
+level: 0
 emailSubject: "Heat in nine steps, four of them every round"
 pubDate: 2026-10-24
 draft: false
@@ -12,7 +13,7 @@ nextTeaser: "Next, the ten-minute teach. You get a host script in the order you 
 ---
 Heat: Pedal to the Metal is a racing game where your car is a deck of cards. Each round you pick a gear, play that many cards, and move your car the total. Straights reward speed. Corners punish it, unless you are willing to burn Heat from your engine to get through faster. Push past what your engine can pay and you spin out.
 
-Heat plays 1 to 6 in about an hour. This lesson follows the core Rules booklet in the box (version 1.1). The second booklet, with the advanced modules and the Championship, is covered in [lesson 7](/academy/heat/heat-expansions/).
+Heat plays 1 to 6 in about an hour. This lesson follows the core Rules booklet in the box (version 1.1). The second booklet, with the advanced modules and the Championship, is covered in [the modules lesson](/academy/heat/heat-expansions/) at Level 1.
 
 ## What is in the box?
 

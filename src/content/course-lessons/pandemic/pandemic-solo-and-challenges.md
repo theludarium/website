@@ -2,7 +2,8 @@
 title: "Pandemic Solo Play, Challenges, and Finding a Table"
 description: "Pandemic beyond the box: official solo rules, online play, a challenge ladder up to Heroic, the old Pandemic Survival format, and finding local co-op play."
 course: pandemic
-order: 8
+order: 17
+level: 4
 emailSubject: "Pandemic has no big tournament circuit, and that is fine"
 pubDate: 2026-10-24
 draft: false
@@ -51,7 +52,7 @@ Without a circuit, you set your own goals. A ladder that works for most groups:
 1. Win at 4 Epidemics with hands open.
 2. Win at 5 Epidemics with hands private.
 3. Win at Heroic, 6 Epidemics.
-4. Solve Z-Man's ten free puzzles from the [Pandemic page](https://www.zmangames.com/game/pandemic/).
+4. Solve Z-Man's ten free puzzles from the [Pandemic page](https://www.zmangames.com/game/pandemic/), using the method in the [puzzles lesson](/academy/pandemic/pandemic-puzzles-and-scenarios/).
 5. Play the free scenarios, starting with "Isolation."
 6. With On the Brink, add its challenges one at a time. The Bio-Terrorist puts one player against the team, the closest the family comes to head-to-head play.
 
@@ -75,4 +76,4 @@ When your group wants more co-ops after Pandemic, our list of [co-op games witho
 - **Rotate who leads the planning.** The quietest player often sees what the loudest one missed.
 - **Count out loud.** The Infection discard pile, the cards to the next Epidemic, the turns left.
 
-That is the end of the course. You can now play, teach, open, read the Infection deck, count the endgame, choose your next box, and set your own challenges. The game is the reason. The people across the table are the point.
+That is the end of the course. You can now play, teach, open, use every role, read the Infection deck, put odds on the next Epidemic, count the endgame, beat Heroic, choose your next box, solve the puzzles, and set your own challenges. The game is the reason. The people across the table are the point.

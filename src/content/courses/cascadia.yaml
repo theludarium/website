@@ -18,8 +18,29 @@ audience:
   - "Hosts who teach Cascadia to family, friends, or a quiet new group."
   - "Players who love the puzzle but keep finishing a few points short."
   - "Anyone curious about the B, C, and D cards, solo scenarios, and tournaments."
+levels:
+  - level: 0
+    name: "Wanderer"
+    label: "Learn to play"
+    outcome: "Set up, teach, and score a full game of Cascadia by hand, overpopulation and nature tokens included, without opening the rulebook."
+  - level: 1
+    name: "Hiker"
+    label: "Beginner"
+    outcome: "Commit to two or three animals, build around the A cards, and grow corridors big enough to win habitat bonuses."
+  - level: 2
+    name: "Tracker"
+    label: "Intermediate"
+    outcome: "Read any set of the twenty scoring cards, lay tiles as landing spots, work the shared display, and spend nature tokens only when they pay."
+  - level: 3
+    name: "Naturalist"
+    label: "Advanced"
+    outcome: "Put odds on the bag, beat the hardest cards, win the two-player duel, and clear the solo scenarios that set the bar at 100."
+  - level: 4
+    name: "Ranger"
+    label: "Tournament ready"
+    outcome: "Play a two-hour, four-player tournament game to win your table, and plan a path to the World Boardgaming Championships."
 afterLesson3: "Teach and play a clean game of Cascadia, overpopulation and nature tokens included, without the rules slips that trip up most new tables."
-afterLesson8: "Read any set of scoring cards, plan an opening, time your nature tokens, count corridor bonuses, pick a variant or expansion, and find a tournament or online game."
+afterLesson8: "Score a game by hand, build around the A cards, grow corridors that win bonuses, pick a variant, and read any set of scoring cards to plan an opening."
 faq:
   - q: "How many turns do you get in Cascadia?"
     a: "Exactly 20. Setup uses 20 habitat tiles per player plus 3, and the game ends at the end of the turn when a taken tile cannot be replaced from the stacks. Solo games also last 20 turns."

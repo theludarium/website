@@ -20,8 +20,33 @@ audience:
   - "Hosts who teach Dune: Imperium to friends who have never played a deck builder."
   - "Players who keep losing Conflicts and Alliance races and want to know why."
   - "Anyone choosing between the original and Uprising, or curious about expansions and tournaments."
-afterLesson3: "Teach and play a clean game of either version, without the troop, combat, and Alliance slips that trip up most new tables."
-afterLesson8: "Plan an opening, trim a deck, read a Conflict before you commit, count every point in the endgame, pick a version and expansions, and find a tournament."
+levels:
+  - level: 0
+    name: "Recruit"
+    label: "Learn to play"
+    outcome: "Set up, teach, and finish a game of either version, reading every board space and card without the guide."
+  - level: 1
+    name: "Envoy"
+    label: "Beginner"
+    outcome: "Plan each hand, run a steady spice, Solari, and water economy, and open toward a third Agent without the classic troop slips."
+  - level: 2
+    name: "Smuggler"
+    label: "Intermediate"
+    outcome: "Build a lean deck, fight only the Conflicts worth winning, race the Alliance tracks, and count every point in the last round."
+  - level: 3
+    name: "Advisor"
+    label: "Advanced"
+    outcome: "Time your Intrigue, play Uprising's spies and worms well, put odds on your draws, and beat the Rivals at one or two players."
+  - level: 4
+    name: "Warlord"
+    label: "Tournament ready"
+    outcome: "Read a full four-player table, play Rise of Ix and Epic mode, and finish a timed game under event scoring."
+  - level: 5
+    name: "Sovereign"
+    label: "The championship path"
+    outcome: "Choose an event, train with its exact boxes, and walk into a WBC Heat or a Gen Con qualifier with a six-week plan behind you."
+afterLesson3: "Teach and play a clean game of either version, and read every board space, icon, and cost without the guide."
+afterLesson8: "Plan a hand, run your economy, avoid the common troop and card slips, open toward a third Agent, and buy and trash cards on purpose."
 faq:
   - q: "What is the difference between Dune: Imperium and Uprising?"
     a: "Uprising is a standalone game on the same engine. It drops the Mentat, reworks the board, and adds spies, optional CHOAM contracts, sandworms that double Conflict rewards, and a six-player team mode. If you know one, the other takes a few minutes to learn."
@@ -79,3 +104,7 @@ related:
   - "expansions-worth-it"
   - "player-count-design"
   - "how-to-start-a-play-group"
+  - "engine-building-games"
+  - "luck-vs-skill-board-games"
+  - "kingmaking-board-games"
+  - "how-to-run-a-board-game-tournament"

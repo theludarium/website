@@ -2,7 +2,8 @@
 title: "Root Eyrie Dynasties Strategy: Build a Decree That Holds"
 description: "Root Eyrie Dynasties strategy: how the Decree works, choosing a leader, birds versus suited cards, surviving turmoil, and keeping roosts alive to score."
 course: root
-order: 3
+order: 5
+level: 1
 emailSubject: "Never promise more than you can do"
 pubDate: 2026-10-24
 draft: false

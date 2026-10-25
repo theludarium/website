@@ -2,7 +2,8 @@
 title: "Root Marquise de Cat Strategy: Wood, Workshops, and Rule"
 description: "Root Marquise de Cat strategy: how her buildings score, stretching three actions, keeping wood connected, using Field Hospitals, and surviving as the target."
 course: root
-order: 2
+order: 4
+level: 1
 emailSubject: "The cats are short on time"
 pubDate: 2026-10-24
 draft: false

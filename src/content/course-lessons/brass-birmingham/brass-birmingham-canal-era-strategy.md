@@ -2,7 +2,8 @@
 title: "Brass: Birmingham Canal Era Strategy"
 description: "Brass: Birmingham Canal Era strategy: what survives into the Rail Era, why level 2 tiles score twice, cheap canals, early income, and clearing level 1 tiles."
 course: brass-birmingham
-order: 2
+order: 6
+level: 1
 emailSubject: "What survives the Canal Era"
 pubDate: 2026-10-24
 draft: false
@@ -67,6 +68,6 @@ Pick Canal Era towns that will still help you in the Rail Era: close to merchant
 
 ## The first round
 
-Everyone takes one action, in random order. What you spend sets the next round's order: least spent goes first. An action that spends little, such as a Loan or a single canal, tends to put you earlier in round 2. Lesson 5 covers turn order in depth.
+Everyone takes one action, in random order. What you spend sets the next round's order: least spent goes first. An action that spends little, such as a Loan or a single canal, tends to put you earlier in round 2. The [loans and turn order lesson](/academy/brass-birmingham/brass-birmingham-loans-and-money/) in Level 2 covers this in depth, and the [openings lesson](/academy/brass-birmingham/brass-birmingham-opening-strategy/) in Level 3 plans the first rounds in detail.
 
 Brass: Birmingham is a classic eurogame in style: little luck in the moves, lots of planning. If your group is new to that style, our explainer on [euro games and their labels](/articles/euro-games-vs-ameritrash/) sets expectations before the first canal goes down.

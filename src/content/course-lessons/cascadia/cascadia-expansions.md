@@ -3,12 +3,13 @@ title: "Cascadia Player Counts, Variants, and Expansions"
 description: "Cascadia at 1 to 4 players, solo mode, the Family and Intermediate variants, scenarios and achievements, plus Landmarks, Cascadia Rolling, and Cascadia Junior."
 course: cascadia
 order: 7
+level: 1
 emailSubject: "Cascadia solo, with kids, and with six"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "The base box already holds several games: the standard game, solo mode, the Family and Intermediate variants, and fifteen scenarios. Play through those before you buy more."
 tryThis: "Play solo scenario 1 this week. If you pass it, try scenario 2 with the B cards, and note which animal gave you the most trouble."
-nextTeaser: "Last lesson: how to compete. The World Boardgaming Championships event, how tournament games run, and where to play online or nearby."
+nextTeaser: "Next, Level 2 begins with openings: all twenty scoring cards, what each one rewards, and how the five on the table should shape your first turns."
 ---
 Cascadia stays fresh longer than most games its size, because the scoring cards change what you are building every game. Before reaching for an expansion, it is worth knowing how much is already in the [base game](https://www.alderac.com/cascadia/): a solo mode, two simpler variants for families, and a whole achievement system with scenarios. This lesson covers all of it, then the products in the wider Cascadia family.
 

@@ -2,7 +2,8 @@
 title: "Upgrading Your First Disney Lorcana Deck on a Budget"
 description: "How to upgrade a Disney Lorcana starter deck on a budget: the deck rules, Core rotation, which singles to buy first, where to find them, and how to test them."
 course: lorcana
-order: 5
+order: 8
+level: 1
 emailSubject: "Ten cards that fix a starter deck"
 pubDate: 2026-10-24
 draft: false
@@ -67,7 +68,7 @@ When you want more cards at once, these are the usual next steps:
 
 <!-- AFFILIATE: Disney Lorcana Hyperia City booster packs -->
 
-**The [Hyperia City Illumineer's Trove](https://www.disneylorcana.com/en-US/product/hyperia-city)** holds 8 booster packs and damage dice in a full art box. It suits a sealed game at home, which lesson 7 explains.
+**The [Hyperia City Illumineer's Trove](https://www.disneylorcana.com/en-US/product/hyperia-city)** holds 8 booster packs and damage dice in a full art box. It suits a sealed game at home, which the [prerelease lesson](/academy/lorcana/lorcana-prerelease-guide/) explains.
 
 <!-- AFFILIATE: Disney Lorcana Hyperia City Illumineer's Trove -->
 

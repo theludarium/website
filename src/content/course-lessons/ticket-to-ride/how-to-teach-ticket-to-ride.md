@@ -3,12 +3,13 @@ title: "How to Teach Ticket to Ride"
 description: "How to teach Ticket to Ride in ten minutes: a host script in the order you say it, what to save for later, and a printable teach sheet to keep on the table."
 course: ticket-to-ride
 order: 2
+level: 0
 emailSubject: "Teach Ticket to Ride before the snacks run out"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Teach the three choices and the tickets, then start. Everything else in Ticket to Ride can be taught the first time it comes up."
 tryThis: "Print the teach sheet, set it by the board, and start the game the moment everyone has chosen their tickets, even if you skipped something."
-nextTeaser: "Next, your first three games. We cover the rules slips and ticket traps almost every new table runs into, so you can spot them early."
+nextTeaser: "Next, the last piece of Level 0: scoring a full game by hand, so the ticket reveal and the longest path count are calm, quick, and correct."
 ---
 Ticket to Ride is one of the best games to teach, and one of the easiest to over-teach. The rules are short, so hosts read them all out, double routes and tie-breakers included, while new players stare at a map full of cities they have not found yet.
 

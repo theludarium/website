@@ -2,13 +2,14 @@
 title: "Castles of Burgundy Player Counts, Variants, and Expansions"
 description: "The Castles of Burgundy at 1 to 4 players, random duchies for veterans, and every expansion in the current box, from the Inns and White Castles to Shields."
 course: castles-of-burgundy
-order: 7
+order: 12
+level: 2
 emailSubject: "Your Castles of Burgundy box holds more than one game"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "The current box is a small shelf of its own. Learn the base game on duchy 1 or 2, then add one thing at a time: random duchies first, then one expansion per game night."
 tryThis: "Play your next game with random duchies, as the rulebook suggests for experienced players, and the one after that with the Inns."
-nextTeaser: "Last lesson: how to compete. The World Boardgaming Championships event, ranked online play, and where to find opponents near you."
+nextTeaser: "Level 3 opens with random duchies: how to read a board you have never seen, and how to choose its side and your starting castle."
 ---
 The current Ravensburger and alea edition of The Castles of Burgundy packs the base game and a whole set of expansions into one box. That is a gift and a trap. Add everything at once and the clean two-dice turn disappears under special rules. Add one module at a time and the game can stay fresh for years.
 
@@ -65,7 +66,7 @@ The current edition is Ravensburger's [The Castles of Burgundy](https://www.rave
 
 <!-- VERIFY: the ravensburger.us product link blocked automated checks; open it in a browser and confirm it loads. Item 26925 is confirmed on ravensburger.de (1 to 4 players, ages 12 and up, 90 to 120 minutes). -->
 
-A deluxe Special Edition, made by Ravensburger with Awaken Realms, came out in 2023 with new art and deluxe components. It is a premium box for groups who already love the game. <!-- AFFILIATE: The Castles of Burgundy: Special Edition -->
+A deluxe Special Edition, made by Ravensburger with Awaken Realms, came out in 2023 with new art and deluxe components. It is a premium box for groups who already love the game. <!-- AFFILIATE: The Castles of Burgundy: Special Edition --> <!-- VERIFY: the Special Edition year; its crowdfunding campaign and its retail release may fall in different years. -->
 
 <!-- VERIFY: find the publisher's own product page for the Special Edition (Ravensburger or Awaken Realms) and add a plain link, and confirm what that box includes. -->
 

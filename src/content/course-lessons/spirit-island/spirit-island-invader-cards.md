@@ -2,7 +2,8 @@
 title: "Spirit Island Invader Cards: Ravage, Build, Explore"
 description: "Spirit Island Invader cards explained: the Explore, Build, Ravage track, the Stage I to III deck, Ravage and Blight math, and how to time Fast and Slow Powers."
 course: spirit-island
-order: 2
+order: 4
+level: 1
 emailSubject: "See the Invaders coming three turns out"
 pubDate: 2026-10-24
 draft: false
@@ -10,7 +11,7 @@ oneIdea: "The Invader track is a forecast. Every land type walks the same path, 
 tryThis: "At the start of every Spirit Phase in your next game, have one player read the Ravage and Build cards out loud and point at every land that matches."
 nextTeaser: "Next, Fear and Terror Levels: how Fear Cards are earned, why the win condition gets easier, and when Fear is worth more than Damage."
 ---
-The Invaders in Spirit Island have no hidden hand and roll no dice. Their next two moves sit face up on the Invader board. That makes them predictable, and predictable enemies can be beaten. It pays to spend as much time reading the Invader cards as your own hand.
+Welcome to Level 1. You can play the game; now you learn to see it coming. The Invaders in Spirit Island have no hidden hand and roll no dice. Their next two moves sit face up on the Invader board. That makes them predictable, and predictable enemies can be beaten. It pays to spend as much time reading the Invader cards as your own hand.
 
 ## How the track moves
 
@@ -31,7 +32,7 @@ Every Island board has exactly two lands of each terrain: Jungle, Mountain, Sand
 
 Do the arithmetic once and you know the shape of every game without an adversary. Setup reveals card 1. Turn 1 reveals card 2, and so on. Stage II cards start appearing on turn 3, Stage III on turn 7, and turn 11 reveals the last card. On turn 12, the Explore step finds no card, and you lose. Your win has to come before then.
 
-Most Stage II cards also carry a flag icon. Without an adversary, ignore it. With one, the flag triggers the adversary's Escalation, usually right when the card is revealed, before the Explore. Lesson 6 covers adversaries.
+Most Stage II cards also carry a flag icon. Without an adversary, ignore it. With one, the flag triggers the adversary's Escalation, usually right when the card is revealed, before the Explore. The adversaries lesson at Level 3 covers them.
 
 ## Explore: where Explorers land
 

@@ -3,6 +3,7 @@ title: "How to Play Azul"
 description: "How to play Azul: setup, taking tiles from the factory displays, filling pattern lines, wall scoring, the floor line, and the end bonuses, in plain words."
 course: azul
 order: 1
+level: 0
 emailSubject: "Azul, from the box to your first round"
 pubDate: 2026-10-24
 draft: false
@@ -18,9 +19,9 @@ This lesson follows the current Next Move Games rulebook.
 
 ## What is in the box?
 
-You get 100 resin tiles, 20 in each of five colors. There are 4 player boards, 9 factory displays, 4 scoring markers, 1 starting player marker, and a linen bag for the tiles.
+You get 100 resin tiles, 20 in each of five colors. There are 4 player boards, 9 factory displays, 4 scoring markers, 1 starting player marker, and a cloth bag for the tiles.
 
-Each board has a colored wall on one side for the standard game. The gray side is a variant that [lesson 7](/academy/azul/azul-expansions/) covers. Every board has four parts:
+Each board has a colored wall on one side for the standard game. The gray side is a variant that the [variants lesson](/academy/azul/azul-expansions/) covers. Every board has four parts:
 
 - **The score track** along the top.
 - **The pattern lines** on the left: a staircase of five lines that hold 1, 2, 3, 4, and 5 tiles.

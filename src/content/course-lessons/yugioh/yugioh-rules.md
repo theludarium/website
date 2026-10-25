@@ -3,6 +3,7 @@ title: "How a Yu-Gi-Oh! Turn Works Now: Phases, Zones, and Summons"
 description: "How a Yu-Gi-Oh! turn works today: the field and Extra Monster Zone, the six phases, Normal and Special Summons, Link and Pendulum, battle math, and Chains."
 course: yugioh
 order: 2
+level: 0
 emailSubject: "The Extra Monster Zone, explained once"
 pubDate: 2026-10-24
 draft: false

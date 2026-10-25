@@ -18,8 +18,29 @@ audience:
   - "Hosts who teach Ticket to Ride to family, friends, or a new group."
   - "Players who keep finishing with tickets in the red and want to know why."
   - "Anyone curious about other maps, online play, and tournaments."
-afterLesson3: "Teach and play a clean game of Ticket to Ride without the rules slips and ticket traps that cost most new tables."
-afterLesson8: "Choose tickets with a plan, time your draws and claims, count the endgame, pick your next map, and find a tournament or online game."
+levels:
+  - level: 0
+    name: "Passenger"
+    label: "Learn to play"
+    outcome: "Set up, teach, and score a full game by hand, longest path included, without opening the rulebook."
+  - level: 1
+    name: "Brakeman"
+    label: "Beginner"
+    outcome: "Keep tickets that build one railroad, draw cards with a plan, and claim the tight spots on the USA map before anyone else."
+  - level: 2
+    name: "Engineer"
+    label: "Intermediate"
+    outcome: "Read what every rival is building, judge a ticket by the trains it needs, draw new tickets at the right moment, and count the endgame."
+  - level: 3
+    name: "Dispatcher"
+    label: "Advanced"
+    outcome: "Put odds on your draws, win the two-player race, block only when it pays, and know when big routes beat a ticket plan."
+  - level: 4
+    name: "Stationmaster"
+    label: "Tournament ready"
+    outcome: "Play the USA 1910 Mega Game under tournament rules, and plan a path to the WBC event or a Gen Con qualifier."
+afterLesson3: "Teach, play, and score a clean game of Ticket to Ride by hand, ticket reveal and longest path included."
+afterLesson8: "Keep tickets that build one railroad, avoid the classic first-game traps, draw cards with a plan, claim the USA map's tight spots first, and pick your next map."
 faq:
   - q: "How many destination tickets do you keep in Ticket to Ride?"
     a: "In the current edition you are dealt 4 tickets at the start and must keep at least 2. Older printings deal 3 and you keep at least 2. When you draw tickets during the game, you draw 3 and keep at least 1."

@@ -2,13 +2,14 @@
 title: "Dune: Imperium Endgame and Scoring Math"
 description: "Dune: Imperium scoring math for the endgame: every Victory Point source, the 10 point trigger, Alliance swings, the last Conflict, and the tiebreakers."
 course: dune-imperium
-order: 6
+order: 12
+level: 2
 emailSubject: "Reaching 10 points does not end the game"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "The game ends at the end of a round, not the moment someone reaches 10. Knowing which round is the last one, and spending everything in it, wins more games than any single card."
 tryThis: "At the start of each round in your next game, say how many Conflict cards are left and who could reach 10 this round. When the answer is yes, play that round as the last."
-nextTeaser: "Next, Uprising in depth, plus player counts and expansions: what changes with spies, contracts, worms, and six players, and which boxes to add."
+nextTeaser: "Level 3 starts next: Intrigue cards, the hidden information that decides close Conflicts."
 ---
 Dune: Imperium scores are small. Ten points ends the game, and most points come one at a time. That makes every point visible, and most of them countable before the last round starts. This lesson lists where points come from, which ones can be taken away, and how to spend the round that decides the game.
 

@@ -3,6 +3,7 @@ title: "How to Read a Yu-Gi-Oh! Card: Every Part, Labeled"
 description: "How to read a Yu-Gi-Oh! card: name, Attribute, Level and Rank, type line, effect text with colons and semicolons, Link Arrows, Pendulum Scales, and password."
 course: yugioh
 order: 3
+level: 0
 emailSubject: "What the colon on a Yu-Gi-Oh! card means"
 pubDate: 2026-10-24
 draft: false

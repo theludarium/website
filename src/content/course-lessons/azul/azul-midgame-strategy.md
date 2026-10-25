@@ -2,13 +2,14 @@
 title: "The Azul Midgame: Reading the Table"
 description: "Azul midgame strategy: read every board before you pick, count the colors left, use the center pile, deny tiles when the swing is worth it, and stay flexible."
 course: azul
-order: 5
+order: 8
+level: 2
 emailSubject: "What everyone else at the Azul table needs"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "In the midgame, every pick does two things: it gives you tiles, and it decides what everyone else can take next. Read the other boards before you read the displays."
 tryThis: "Before each pick in your next game, name one thing the next player wants. Then check whether your pick gives it to them."
-nextTeaser: "Next, the endgame and scoring math: what the bonuses cost to build, who controls the end, and how to play a last round with nothing wasted."
+nextTeaser: "Next, tile counting: what a fresh display usually holds, when the bag runs out, and why the refill is short on the colors everyone has been placing."
 ---
 By the middle of a game of Azul, every wall has a shape and every board has a plan. The opening was about your own wall. The midgame is about the whole table. This is where Azul stops being a quiet puzzle and starts being a contest, even if nobody raises their voice.
 

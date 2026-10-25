@@ -3,6 +3,7 @@ title: "How to Read a Disney Lorcana Card, Part by Part"
 description: "How to read a Disney Lorcana card: cost and the inkwell symbol, ink type, name and version, Strength, Willpower, lore, keywords, and the four card types."
 course: lorcana
 order: 3
+level: 0
 emailSubject: "What every number on a Lorcana card means"
 pubDate: 2026-10-24
 draft: false
@@ -65,7 +66,7 @@ Hyperia City added **Adventurous**, which works like a mirror of Reckless: the c
 
 ## The bottom line: where it is from
 
-The artist, the collector number, the set number, the language, and the rarity symbol. None of it affects play. It helps you look a card up, sort a binder, or check which set a card came from, which matters for rotation (lesson 5).
+The artist, the collector number, the set number, the language, and the rarity symbol. None of it affects play. It helps you look a card up, sort a binder, or check which set a card came from, which matters for rotation (see the [upgrades lesson](/academy/lorcana/lorcana-deck-upgrades/)).
 
 ## The other three card types
 

@@ -2,13 +2,14 @@
 title: "Ticket to Ride Openings: Tickets and First Turns"
 description: "Ticket to Ride opening strategy: which starting tickets to keep, how to draw your first cards, which routes to claim early, and how to plan one railroad."
 course: ticket-to-ride
-order: 4
+order: 5
+level: 1
 emailSubject: "Which tickets would you keep?"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Your opening is decided before your first turn. Keep tickets that build one railroad, then spend your first turns collecting the colors for its most contested routes."
 tryThis: "Before your first turn next game, trace your kept tickets on the board with a finger and name the one route on that path you most fear losing. Claim it first."
-nextTeaser: "Next, the midgame: managing your hand, choosing when to claim, and reading what every other player is building."
+nextTeaser: "Next, train cards: when to take a face-up card, when to draw blind, and when a locomotive is worth your whole turn."
 ---
 Ticket to Ride has no fixed opening the way chess does. Your tickets and cards are different every game. But strong openings follow the same pattern: keep tickets that work together, find the routes everyone will fight over, and get your trains onto those routes before anyone else.
 
@@ -64,7 +65,7 @@ Tickets that branch off the spine are fine. Tickets that need a second, separate
 
 ## Player count changes the opening
 
-With 2 or 3 players, only one route of each double pair can ever be claimed. The map is tighter than it looks, and the first player to reach a bottleneck owns it. Claim earlier.
+With 2 or 3 players, only one route of each double pair can ever be claimed. The bottlenecks are tighter than they look, and the first player to reach a bottleneck owns it. Claim earlier.
 
 With 4 or 5 players, both routes of a pair are open to different players, but more players are looking for the same cities. Watch the face-up row closely; it shows what everyone is collecting.
 

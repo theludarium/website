@@ -2,7 +2,8 @@
 title: "Your First Three Games of Terraforming Mars"
 description: "Terraforming Mars beginner mistakes, from rules slips like forgotten TR and event tags to strategy traps like buying too many cards, and how to fix each one."
 course: terraforming-mars
-order: 3
+order: 4
+level: 1
 emailSubject: "The Terraforming Mars mistakes everyone makes once"
 pubDate: 2026-10-24
 draft: false

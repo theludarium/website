@@ -2,7 +2,8 @@
 title: "Competitive Azul: Tournaments and Local Play"
 description: "Competitive Azul: how the World Boardgaming Championships event runs, the 2024 Azul World Championship, online play on Board Game Arena, and local games."
 course: azul
-order: 8
+order: 13
+level: 3
 emailSubject: "Yes, people play Azul for a title"
 pubDate: 2026-10-24
 draft: false
@@ -30,7 +31,7 @@ The [2026 event preview](https://www.boardgamers.org/wbc26/previews/azl.html) la
 
 - **Beginners welcome.** The event is marked as open to beginning players, which makes it one of the friendliest ways to try a real tournament.
 - **Three heats, then a quarterfinal, a semifinal, and a final.** Each round runs one hour.
-- **Four-player tables first.** The heats seat four players where possible, with some three-player games as needed. Heat wins decide who moves on, and close second places can fill the last spots.
+- **Four-player tables first.** The heats seat four players where possible, with some three-player games as needed. Players with at least one heat win fill the quarterfinal, ranked by wins and then finishes, and close second places can help fill the semifinal.
 - **The original game on the colored side.**
 
 The preview also lists a few special procedures:
@@ -79,4 +80,4 @@ If you are near Indianapolis, join the [Indianapolis list](/lounges/indianapolis
 - **Score one player at a time.** It is how the WBC does it, and it catches scoring slips.
 - **Review your losses.** How many points did you lose on the floor? Which round did someone else end the game before you were ready?
 
-That is the end of the course. You now know how to play, teach, open, read the table, count the end, choose a variant or a new Azul, and find a tournament. The game is the reason. The people across the table are the point.
+That is the end of the course. You now know how to play, teach, and score, open and plan a wall, read the table and count the bag, control the end, win the duel, master the gray side, and find a tournament. The game is the reason. The people across the table are the point.

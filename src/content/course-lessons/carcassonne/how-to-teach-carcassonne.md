@@ -3,12 +3,13 @@ title: "How to Teach Carcassonne"
 description: "How to teach Carcassonne in ten minutes: a host script in the order you say it, what to leave out of the first game, and a printable teach sheet for the table."
 course: carcassonne
 order: 2
+level: 0
 emailSubject: "Teach Carcassonne in ten minutes flat"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Teach the rhythm, not the rulebook. Show one turn, let people play, and add each rule at the moment the table needs it."
 tryThis: "Print the teach sheet, put it in the middle of the table, and keep your teach under ten minutes by stopping after the first example turn."
-nextTeaser: "Next, your first three games. We cover the mistakes almost every new table makes, so you can spot them before they cost anyone points."
+nextTeaser: "Next, the last piece of Level 0: scoring a full game by hand, so the final count is calm, quick, and correct."
 ---
 Carcassonne is one of the easiest games to teach badly. The rules are short, so hosts read them all out, farmers and final scoring included, before anyone has touched a tile. The table's eyes glaze over by the second coat of arms.
 

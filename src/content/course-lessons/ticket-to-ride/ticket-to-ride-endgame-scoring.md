@@ -2,13 +2,14 @@
 title: "Ticket to Ride Endgame and Scoring Math"
 description: "Ticket to Ride endgame scoring math: how the final round works, counting trains, the real cost of a failed ticket, the longest path bonus, and your last turn."
 course: ticket-to-ride
-order: 6
+order: 12
+level: 2
 emailSubject: "Count the trains before someone else does"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "The last third of Ticket to Ride is a countdown you can measure. Count everyone's trains and your own unfinished tickets, and the final round stops being a surprise."
 tryThis: "When the first player drops below 15 trains, stop and count: your trains, the trains your unfinished tickets need, and the longest path for you and your nearest rival."
-nextTeaser: "Next, player counts, variants, and other maps: what changes at 2 players, what the USA 1910 expansion adds, and which map to try next."
+nextTeaser: "Level 3 opens with odds: how likely the cards you need are to come, worked out from the 110 cards in the deck."
 ---
 Ticket to Ride's final scoring is where games flip. A player who led the scoring track all game reveals two failed tickets and drops to third. Another flips over a pile of finished tickets and takes the longest path bonus too. None of it has to be a surprise. You can count most of it before the last turn.
 
@@ -45,7 +46,7 @@ How to count yours:
 
 1. Find the single longest line of your trains. It may loop and pass through a city twice, but no train counts twice.
 2. Count trains, not routes. A 6-train route adds 6.
-3. Ignore branches. Only the longer side of a fork counts.
+3. Ignore spurs. At a fork the line carries on down only one branch, so the shorter spur is left out.
 
 Compare with your nearest rival late in the game. If you are close, a short route on the end of your line can win 10 points for 1 or 2 trains. If you are far behind, do not chase it. Spend those trains on routes and tickets.
 

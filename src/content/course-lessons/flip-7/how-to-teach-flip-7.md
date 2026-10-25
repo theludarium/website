@@ -3,11 +3,13 @@ title: "How to Teach Flip 7 and Run a Great First Game"
 description: "How to teach Flip 7 in five minutes: a host script, action card questions to settle live, the bust math worth sharing, and where to play next, online or off."
 course: flip-7
 order: 2
+level: 0
 emailSubject: "Teach Flip 7 before the snacks are out"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Teach hit, stay, and bust, then deal. Flip 7 teaches itself in play, so save each action card's details for the moment it first shows up."
 tryThis: "Time your teach. Stop talking at five minutes, deal the first round, and explain each action card the first time it turns up."
+nextTeaser: "Level 1 starts with your first three games: the rules slips almost every new table makes, from counting modifiers toward seven to the x2, and the habit of chasing the bonus."
 ---
 Flip 7 is one of the fastest teaches on any shelf. The risk is not that the rules are hard. It is that a host explains Flip Three edge cases to people who have not flipped a card yet. Teach the question, deal, and let the deck bring up the rest.
 
@@ -109,4 +111,4 @@ If your group wants more bite, [Flip 7: With a Vengeance](https://theop.games/pr
 
 <!-- AFFILIATE: Flip 7: With a Vengeance -->
 
-That is the course: a five-minute teach, the odd cases settled as they come, and a simple way to think about the odds. The game is the reason. The people around the table are the point.
+That is the teach: five minutes, the odd cases settled as they come, and a simple way to think about the odds. The rest of the course goes deeper, starting with the mistakes new tables make in their first three games. The game is the reason. The people around the table are the point.

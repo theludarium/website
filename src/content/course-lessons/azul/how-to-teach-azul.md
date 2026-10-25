@@ -3,12 +3,13 @@ title: "How to Teach Azul"
 description: "How to teach Azul in ten minutes: a host script in the order you say it, why you score the first round together, and a printable teach sheet for the table."
 course: azul
 order: 2
+level: 0
 emailSubject: "Teach Azul in ten minutes flat"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Teach the pick, not the scoring. Get tiles into hands fast, then score the first round together slowly, so everyone learns adjacency by seeing it."
 tryThis: "Print the teach sheet, keep your teach under ten minutes, and at the end of round one have every player score their own wall out loud while the table checks."
-nextTeaser: "Next, your first three games. We cover the rules slips and strategy traps almost every new table hits, so you can spot them early."
+nextTeaser: "Next, the last piece of Level 0: scoring a full game by hand, so every wall, floor, and final bonus adds up."
 ---
 Azul is a gift game. It gets unwrapped, admired, and set up on the table while someone reads the rulebook aloud. Then the teach drifts into scoring examples before anyone has touched a tile, and the room goes quiet in the wrong way.
 

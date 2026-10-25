@@ -2,13 +2,14 @@
 title: "Terraforming Mars Openings: Corporation, Hand, and the First Generations"
 description: "Terraforming Mars opening strategy: picking a corporation and starting hand, how many cards to keep, why production comes first, and where your first tiles go."
 course: terraforming-mars
-order: 4
+order: 5
+level: 1
 emailSubject: "The most important choice happens before turn one"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Your corporation and starting hand are one decision, not two. Pick the pair that gets production running fastest, and keep only the cards that pair can play soon."
 tryThis: "Before revealing your corporation in your next game, write down how much money you will have left after buying cards. If it is under 10 M€, put a card back."
-nextTeaser: "Next, the midgame: growing an engine, racing for milestones, funding awards, and reading who wants the game to end."
+nextTeaser: "Next, the standard projects and conversions: the price list printed on the board, and what each one is really worth to you."
 ---
 Terraforming Mars has no fixed opening, because every game deals you different cards. But the first few generations follow patterns, and most of the important choices happen before anyone takes an action. This lesson is about those choices.
 
@@ -80,4 +81,4 @@ There is no perfect target. As a rough check after three generations, a strong o
 - A hand you can afford to play, not a pile of waiting cards.
 - A clear idea of what your corporation wants: cities, space, plants, or heat.
 
-If you have big income and no plan, that is fine. The midgame lesson covers how to turn an engine into points. The [engine building explainer](/articles/engine-building-games/) covers the bigger idea behind it.
+If you have big income and no plan, that is fine. Level 2 covers how to pick a path and turn an engine into points. The [engine building explainer](/articles/engine-building-games/) covers the bigger idea behind it.

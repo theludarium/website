@@ -2,13 +2,14 @@
 title: "Pandemic Endgame Math: Counting to the Last Turn"
 description: "Pandemic endgame strategy: count the Player deck to find your last turn, check whether each cure is still possible, and watch cubes and outbreaks to the end."
 course: pandemic
-order: 6
+order: 13
+level: 3
 emailSubject: "Count the Pandemic deck before it counts you"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Pandemic has no points, but it has numbers. Late in the game, count the Player deck, the cards left in each color, the cubes, and the outbreaks, and the last few turns stop being a surprise."
 tryThis: "When the Player deck drops to about a dozen cards, stop and count out loud: turns left, cards needed for each remaining cure, and outbreaks left before you lose."
-nextTeaser: "Next, player counts, variants, and expansions: how the game changes from 2 to 4 players, and which box to add first."
+nextTeaser: "Next, Heroic: what six Epidemics change, what they do not, and how to plan a game that survives them."
 ---
 Pandemic does not keep score, so it is easy to think the endgame is all feel. It is not. Every way to win or lose is a number on the table, and every one can be counted. The teams that win close games are the ones that count before the last turn, not during it.
 

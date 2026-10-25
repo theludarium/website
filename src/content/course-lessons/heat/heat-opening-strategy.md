@@ -2,13 +2,14 @@
 title: "Heat Openings: Planning the First Lap"
 description: "Heat: Pedal to the Metal opening strategy: your first gear shifts, the first corner, a Heat budget for lap one, grid position, and which cards to keep or cycle."
 course: heat
-order: 4
+order: 5
+level: 1
 emailSubject: "Your first lap of Heat, planned"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "The opening is about rhythm, not raw speed. Get up through the gears, take the first corner cleanly, and finish lap one with Heat to spare and a hand that still works."
 tryThis: "In your next race, note how much Heat is in your Engine as you finish lap one. Then compare it with how your second lap went."
-nextTeaser: "Next, the midgame: the Heat cycle, when to cool down, slipstreaming through corners, and reading what every other driver can afford."
+nextTeaser: "Next, hand management: what to keep, what to discard, and how to read seven cards as a plan for the next three rounds."
 ---
 Heat has no fixed opening. The track, your grid spot, and your first seven cards change every race. But the first lap still follows patterns, and drivers who handle it well tend to do the same things: get into gear quickly, take the first corner without drama, and keep their engine healthy for the laps that decide the race.
 

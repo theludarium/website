@@ -2,13 +2,14 @@
 title: "Your First Three Games of Pandemic"
 description: "Pandemic beginner mistakes, from rules slips like replacing an Epidemic card to habits like treating every cube, and how to fix each one before game three."
 course: pandemic
-order: 3
+order: 4
+level: 1
 emailSubject: "The rules slips every new Pandemic table makes"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Most early trouble comes from two places: small rules slips that quietly change the difficulty, and a team that spends every action on cubes instead of cures."
 tryThis: "After each of your next three games, say out loud which of the three losing conditions you were closest to. That answer tells you what to fix in the next game."
-nextTeaser: "Next, openings: what to read on the board before turn one, and why the first Epidemic is the moment your whole opening plans for."
+nextTeaser: "Next, the seven roles: what each one changes, the turn where it shines, and the habit that wastes it."
 ---
 Your first three games of Pandemic are where your group's habits form. Some of those habits are rules slips, played wrong because nobody checked. They make the game easier or harder than it should be, and you never find out which. Others are legal choices that lose games. This lesson covers both, checked against the current rulebook, which has its own short box of commonly overlooked rules.
 
@@ -36,7 +37,7 @@ Your first three games of Pandemic are where your group's habits form. Some of t
 
 ## The habits that lose early games
 
-**Treating everything.** A board full of cubes feels like an emergency, so new teams spend every action cleaning. Meanwhile nobody cures, and the Player deck runs out. Treat the cities likely to outbreak soon, and spend the rest on cures. [Lesson 5](/academy/pandemic/pandemic-midgame-strategy/) shows how to tell which cities those are.
+**Treating everything.** A board full of cubes feels like an emergency, so new teams spend every action cleaning. Meanwhile nobody cures, and the Player deck runs out. Treat the cities likely to outbreak soon, and spend the rest on cures. The [midgame lesson](/academy/pandemic/pandemic-midgame-strategy/) shows how to tell which cities those are.
 
 **Flying away your cures.** Every Direct or Charter Flight discards a City card. Before you fly, ask the table: "Does anyone need this card for a cure?"
 

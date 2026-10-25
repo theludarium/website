@@ -3,6 +3,7 @@ title: "How to Read a Magic Card, Part by Part"
 description: "How to read a Magic: The Gathering card: name, mana cost, mana value, the type line, rarity, rules text, reminder and flavor text, and power and toughness."
 course: magic
 order: 3
+level: 0
 emailSubject: "What every part of a Magic card means"
 pubDate: 2026-10-24
 draft: false
@@ -79,7 +80,7 @@ Below the text box, in the border, sits information with no effect on play:
 - the artist credit, after a small paintbrush icon,
 - and the legal text.
 
-The set code and collector number together name the exact printing. That helps when you buy single cards in lesson 5.
+The set code and collector number together name the exact printing. That helps when you buy single cards, which the [budget upgrades lesson](/academy/magic/magic-budget-upgrades/) covers at Level 1.
 
 ## When a card and the rules disagree
 

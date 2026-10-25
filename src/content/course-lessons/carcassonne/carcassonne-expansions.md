@@ -2,13 +2,14 @@
 title: "Carcassonne Player Counts, Variants, and Expansions"
 description: "Carcassonne at 2 to 5 players, the River and Abbot mini-expansions in the box, and which expansions to try first, from Inns & Cathedrals to the Big Box."
 course: carcassonne
-order: 7
+order: 8
+level: 1
 emailSubject: "Which Carcassonne expansion first?"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Play the base game until your group knows it well, then add one thing at a time: the river and abbot first, then a single expansion box."
 tryThis: "Play your next game with the River, and the one after with the Abbot. Note which one your group asks for again."
-nextTeaser: "Last lesson: how to compete. Tournament formats, the national and world championships, and where to find local and online play."
+nextTeaser: "Next, Level 2 begins with the midgame: merging into cities, blocking with awkward tiles, and reading what everyone else needs."
 ---
 Carcassonne has more expansions than almost any game on the shelf. That is a gift and a trap. Add too much at once and the clean three-step turn disappears under special pieces. Add one thing at a time and the game can grow with your group for years.
 

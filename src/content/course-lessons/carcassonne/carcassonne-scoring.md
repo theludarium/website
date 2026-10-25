@@ -2,13 +2,14 @@
 title: "Carcassonne Endgame and Scoring Math"
 description: "Carcassonne scoring math for the endgame: field and farmer counts, half-value cities, when to finish or abandon a feature, and how to spend your last meeples."
 course: carcassonne
-order: 6
+order: 12
+level: 2
 emailSubject: "Count the farms before the last tile"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "In the last third of the game, every meeple and every tile has a price you can count. Count it, and the final scoring stops being a surprise."
 tryThis: "When about ten tiles remain, count each field's value and who controls it. Then make your last meeple placements based on those numbers."
-nextTeaser: "Next, player counts, variants, and expansions: what the river and abbot add, and which expansion boxes to try first."
+nextTeaser: "Next, Level 3 opens with odds: how likely you are to draw the tile that closes your feature, worked out with a few plain numbers."
 ---
 Carcassonne's final scoring is where games flip. A player who looked behind on the scoreboard turns out to own the big field, and fifteen points arrive at once. Nothing about it is hidden, though. You can count it before the last tile, and adjust.
 

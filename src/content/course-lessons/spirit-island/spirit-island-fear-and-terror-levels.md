@@ -2,7 +2,8 @@
 title: "Spirit Island Fear and Terror Levels"
 description: "Spirit Island Fear explained: how Fear is generated, how the Fear Pool earns Fear Cards, what each Terror Level changes, and how to plan a win around Fear."
 course: spirit-island
-order: 3
+order: 5
+level: 1
 emailSubject: "The win condition gets easier"
 pubDate: 2026-10-24
 draft: false

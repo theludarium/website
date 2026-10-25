@@ -2,13 +2,14 @@
 title: "The Wingspan Midgame: Engines, Tempo, and Reading the Table"
 description: "Wingspan midgame strategy: when your engine is big enough, how to use brown and pink powers, when to start scoring, and how to read the tray, feeder, and goals."
 course: wingspan
-order: 5
+order: 8
+level: 2
 emailSubject: "When to stop building your Wingspan engine"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Each bird you play later in the game is worth less as an engine and more as points. The midgame is where you decide, round by round, when building stops paying."
 tryThis: "At the start of round 3 in your next game, count your remaining turns and write down a plan for each one. At the end, check how close you came."
-nextTeaser: "Next, the endgame and scoring math: what each action is worth in round four, how goal ties pay out, and the tiebreaker that decided a championship."
+nextTeaser: "Next, the scoring powers: birds that tuck, cache, and hunt, and how to tell which ones will pay for themselves."
 ---
 By round 2, every player has a few birds on their mat and a rough shape to their game. Some have a forest that pours out food. Some have a wetland that draws three cards a turn. The opening was about getting your engine started. The midgame is about running it, and about deciding when to stop adding parts.
 
@@ -61,7 +62,7 @@ There is no single turn to switch, but a common rhythm:
 
 - **Round 2:** keep building. Play the birds that make your main row stronger.
 - **Round 3:** start blending. Play your last strong birds, lay eggs where they also help a goal, and look at your bonus card count.
-- **Round 4:** score. That is the next lesson.
+- **Round 4:** score. The [endgame scoring lesson](/academy/wingspan/wingspan-scoring/) later in this level does that math.
 
 A useful test for any midgame bird: will it fire at least three more times, or is its printed value higher than the eggs it costs? If neither, laying eggs or drawing toward a better bird is usually the stronger turn.
 

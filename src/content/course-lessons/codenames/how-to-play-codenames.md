@@ -3,6 +3,7 @@ title: "How to Play Codenames"
 description: "How to play Codenames: setup, spymasters and the key card, one-word clues, guessing and the plus one rule, the assassin, and which clues count, in plain words."
 course: codenames
 order: 1
+level: 0
 emailSubject: "Codenames in one word and one number"
 pubDate: 2026-10-24
 draft: false

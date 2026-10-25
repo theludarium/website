@@ -3,6 +3,7 @@ title: "How to Play The Castles of Burgundy"
 description: "How to play The Castles of Burgundy: setup, the two-dice turn, the four actions, what each tile color does, region scoring, and the final count, in plain words."
 course: castles-of-burgundy
 order: 1
+level: 0
 emailSubject: "Two dice, four choices, one duchy"
 pubDate: 2026-10-24
 draft: false
@@ -12,7 +13,7 @@ nextTeaser: "Next, the ten-minute teach. You get a host script in the order you 
 ---
 The Castles of Burgundy is a game about turning dice into a kingdom, one hexagon at a time. You are a duke in 15th century Burgundy. Over 25 rounds you roll two dice, and each die buys one action: take a tile, build a tile, sell goods, or hire workers. By the end, your board is a patchwork of castles, towns, rivers, pastures, and mines, and the best-scoring patchwork wins.
 
-This lesson follows the current Ravensburger and alea edition, the reissue with several expansions in the box. Everything here is the base game. Leave the expansions out for now; [lesson 7](/academy/castles-of-burgundy/castles-of-burgundy-expansions/) covers them.
+This lesson follows the current Ravensburger and alea edition, the reissue with several expansions in the box. Everything here is the base game. Leave the expansions out for now; the [expansions lesson](/academy/castles-of-burgundy/castles-of-burgundy-expansions/) covers them at Level 2.
 
 ## What is in the box?
 

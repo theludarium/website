@@ -2,13 +2,14 @@
 title: "The Cascadia Midgame: Drafting, Tempo, and the Bag"
 description: "Cascadia midgame strategy: reading the shared display, when to hate-draft, timing nature tokens, using overpopulation wipes, and when to pivot to a new animal."
 course: cascadia
-order: 5
+order: 10
+level: 2
 emailSubject: "The pick that helps you and hurts your neighbor"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "In the midgame, the display is shared and the bag is finite. Read what the next player needs and what is left in the bag before you read your own board."
 tryThis: "On each turn of your next game, before you pick, name the pair the next player most wants. Take it whenever it is nearly as good for you as your first choice."
-nextTeaser: "Next, the endgame and scoring math: counting corridors and bonuses, valuing each token by its card, and when to spend or save your last nature tokens."
+nextTeaser: "Next, nature tokens in depth: how to earn them on purpose, what each one is worth, and the turns when spending one pays you back."
 ---
 Cascadia looks like five people doing five separate puzzles. In the opening, that is mostly true. By the midgame, around turns 7 to 14, the puzzles start pulling on the same four pairs in the middle of the table. This is where good players turn a pleasant solo puzzle into a quiet contest.
 

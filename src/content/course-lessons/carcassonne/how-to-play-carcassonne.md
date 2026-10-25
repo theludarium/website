@@ -3,6 +3,7 @@ title: "How to Play Carcassonne"
 description: "How to play Carcassonne: setup, the three-step turn, scoring roads, cities, and monasteries, how farmers and fields work, and final scoring, in plain words."
 course: carcassonne
 order: 1
+level: 0
 emailSubject: "Carcassonne in three steps"
 pubDate: 2026-10-24
 draft: false
@@ -16,7 +17,7 @@ This lesson covers the rules in the current Z-Man Games edition. The rulebook sp
 
 ## What is in the box?
 
-You get a start tile with a dark back, a large set of land tiles with normal backs, a scoreboard, and meeples in five colors, 8 per color. There are also 12 river tiles (dark backs) and 5 abbots. Those are the two mini-expansions included in the box. Leave both out for now; [lesson 7](/academy/carcassonne/carcassonne-expansions/) covers them.
+You get a start tile with a dark back, a large set of land tiles with normal backs, a scoreboard, and meeples in five colors, 8 per color. There are also 12 river tiles (dark backs) and 5 abbots. Those are the two mini-expansions included in the box. Leave both out for now; the [expansions lesson](/academy/carcassonne/carcassonne-expansions/) in Level 1 covers them.
 
 ## How do you set up?
 

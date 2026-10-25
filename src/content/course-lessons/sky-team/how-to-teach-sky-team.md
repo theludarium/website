@@ -3,11 +3,13 @@ title: "How to Teach Sky Team and Run a Great First Flight"
 description: "How to teach Sky Team in five minutes and run a great first flight: a host script, rules to explain as they come up, first-game slips, and where to fly next."
 course: sky-team
 order: 2
+level: 0
 emailSubject: "Teach Sky Team in five minutes"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Teach the round and the silence, then let the plane teach the rest. A crash is part of learning Sky Team, and the game is short enough to fly again right away."
 tryThis: "Keep your teach under five minutes. After the flight, crash or landing, ask each other one question: which of my dice told you the most?"
+nextTeaser: "Next, your first three flights: the rules slips and strategy traps that crash new crews, and a three-question briefing that fixes most of them."
 ---
 Sky Team is easy to over-teach. The Control Panel has seven zones, and it is tempting to explain every one, plus the landing, before anyone rolls a die. Instead, teach the round and the two jobs that matter every round, then start flying and explain the rest when the plane needs it.
 
@@ -72,29 +74,6 @@ Crash or landing, take one minute to compare notes on a single die each: the one
 
 ## Where to fly next
 
-**The Flight Log.** Once you land in Montreal, open it. Its 21 scenarios are color coded from Routine Landing up to Heroic Landing, and most add a twist: heavy traffic, fuel, wind, an intern to train, or a 60-second timer.
+Once you land in Montreal, the Flight Log's 21 scenarios are waiting, and the rest of this course follows you there. Lesson 3 finishes Level 0 with the mistakes that crash first flights. Level 1 walks through the first rounds, the approach, and the landing. Level 2 adds the dice odds, a whole-flight plan, and the Flight Log's first modules. Level 3 takes you to the Heroic Landings, and the course ends with online play and finding other pilots.
 
-**Free extra scenarios.** The publisher's [Sky Team downloads page](https://www.scorpionmasque.com/Skyteam/?lang=en) has Ready to Play scenarios that revisit the airports in the box with new combinations.
-
-**The expansion.** The [Turbulence expansion](https://www.scorpionmasque.com/en/sky-team-turbulence) adds 20 harder scenarios and new modules such as Turbulence, Low Visibility, and Alarms, plus new destinations such as Beijing, Sydney, and Cape Town. It needs the base game, and its contents fit in the base box.
-
-<!-- AFFILIATE: Sky Team: Turbulence expansion -->
-<!-- VERIFY: the expansion's English retail name; the publisher page says "Alarms and Turbulences" and the rulebook says "Sky Team Turbulence". -->
-
-**Online.** The publisher links to Sky Team on [Board Game Arena](https://boardgamearena.com/gamepanel?game=skyteam), handy for a co-pilot in another city.
-
-## Is there competitive Sky Team?
-
-Not in the usual sense. You play against the game, and we found no official tournament circuit for it. Your ladder is the Flight Log: climb the colors to Heroic Landing, then add the Real-Time module's 60-second timer.
-
-<!-- VERIFY: whether Le Scorpion Masqué or any convention (for example the World Boardgaming Championships) runs Sky Team challenge events worth listing here. The writer reported no Sky Team event in the WBC previews for 2024 to 2026; the fact check could not reopen those pages. -->
-
-## Finding local play
-
-Ask your local game store about open game nights; Sky Team teaches fast and plays in about 20 minutes. To build a regular group of your own, our guide on [how to start a play group](/articles/how-to-start-a-play-group/) walks through it.
-
-<!-- VERIFY: whether Le Scorpion Masqué or its US distributor has a store locator to link here. -->
-
-If you are near Indianapolis, join the [Indianapolis list](/lounges/indianapolis/) for first word on local learn-to-play nights as The Ludarium grows.
-
-That is the course: set up, teach, and land Sky Team from a single sheet. The game is the reason. The person in the other seat is the point.
+The game is the reason. The person in the other seat is the point.

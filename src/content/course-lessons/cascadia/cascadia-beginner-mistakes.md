@@ -2,15 +2,16 @@
 title: "Your First Three Games of Cascadia"
 description: "Cascadia beginner mistakes, from rules slips like skipping overpopulation and misplaced tokens to strategy traps like chasing every animal, and how to fix each."
 course: cascadia
-order: 3
+order: 4
+level: 1
 emailSubject: "The Cascadia mistakes almost everyone makes"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Most first-game trouble comes from two places: small rules slips about where tokens can go, and spreading twenty turns across too many goals."
 tryThis: "After each of your next three games, compare your wildlife total with your habitat total on the scorepad. If habitats are well under a third of your score, grow fewer, bigger corridors next time."
-nextTeaser: "Next, openings. We read all twenty scoring cards, what each one rewards, and how the five on the table should shape your first turns."
+nextTeaser: "Next, the A cards in depth: what each first-game card rewards, which two or three to build around, and how to plan the shapes from turn one."
 ---
-Your first three games of Cascadia are where habits form. Some of them are rules slips, quietly played wrong because nobody checked. Others are legal choices that cost a lot of points. This lesson covers both, checked against the current rulebook.
+Welcome to Level 1. Your first three games of Cascadia are where habits form. Some of them are rules slips, quietly played wrong because nobody checked. Others are legal choices that cost a lot of points. This lesson covers both, checked against the current rulebook.
 
 ## Rules slips to catch early
 

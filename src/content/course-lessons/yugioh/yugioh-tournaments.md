@@ -2,18 +2,20 @@
 title: "Competitive Yu-Gi-Oh!: From Locals to the World Championship"
 description: "The competitive Yu-Gi-Oh! path: OTS Championships, Regional Qualifiers, the YCS, World Championship Qualifiers, Remote Duel, Genesys, and local stores."
 course: yugioh
-order: 8
+order: 21
+level: 5
 emailSubject: "Yes, you can still make it to Worlds"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Competitive Yu-Gi-Oh! is a ladder with a step at every level, and the bottom step is your store's weekly tournament. You never have to climb, but it helps to know the ladder is there."
 tryThis: "Look up the next OTS Championship or Regional Qualifier within driving distance, put the date on your calendar, and play your store's locals every week until then."
+nextTeaser: "Last, the YCS weekend: registration and check-in, how Day 1 and Day 2 work, what earns a World Championship Qualifier invite, and a four-week plan to get ready."
 ---
 Yu-Gi-Oh! organized play is built as a ladder. Each step earns invitations to the next, all the way to a World Championship. Most players never go past their store, and that is a fine way to enjoy the game. But knowing the ladder exists changes how you look at a Tuesday night tournament.
 
 ## Step 1: locals at your store
 
-Everything starts at an **Official Tournament Store**. Weekly store tournaments are where you learn your deck, meet regulars, and find out how you handle a clock. Lesson 6 covers your first night. Find a store with Konami's [OTS locator](https://www.yugioh-card.com/en/events/ots-locations/).
+Everything starts at an **Official Tournament Store**. Weekly store tournaments are where you learn your deck, meet regulars, and find out how you handle a clock. Lesson 11 covers your first night. Find a store with Konami's [OTS locator](https://www.yugioh-card.com/en/events/ots-locations/).
 
 ## Step 2: OTS Championships
 
@@ -50,14 +52,14 @@ Official Tournament Stores can also run **Remote Duel** tournaments, hosted on D
 ## Two formats
 
 - **Advanced** is the standard format, using the current Forbidden and Limited list.
-- **Genesys** drops Link and Pendulum Monsters, plays on the original field with no Extra Monster Zones, and caps decks with points instead of the usual list. Konami calls it a fully supported tournament system, and stores can host Genesys events. The August 2026 OTS Championship was Advanced only, so check the format of any ladder event before you build. For a returning player, Genesys can be a gentle way back into competition.
+- **Genesys** drops Link and Pendulum Monsters, plays on the original field with no Extra Monster Zones, and caps decks with points instead of the usual list. Konami calls it a fully supported tournament system, and stores can host Genesys events. The August 2026 OTS Championship was Advanced only, so check the format of any ladder event before you build. For a returning player, Genesys can be a gentle way back into competition, and lesson 19 covers building for it.
 
 ## How to practice like a competitor
 
 - **Play the same deck for a season.** Knowing every line of one deck beats owning five.
 - **Practice going first and going second.** Many decks play very differently on each side of the coin flip. Know your plan for both.
 - **Play on a clock.** Time a few practice matches at 50 minutes to learn your pace.
-- **Learn the rules deeply.** The Chain and Damage Step rules from lesson 2 decide close games. Konami takes rules questions by email, and judges at events are there to help.
+- **Learn the rules deeply.** The Chain rules from lesson 6 and the Damage Step rulings from lesson 16 decide close games. Konami takes rules questions by email, and judges at events are there to help.
 - **Review your losses.** Which card did you wish you had drawn? Which play did you rush?
 
 ## Finding people to play with
@@ -69,5 +71,3 @@ You do not need a tournament to find good opponents:
 - **Friends with old binders.** Lesson 4's teach script and the 2-Player Starter Set make it easy to bring a friend back with you.
 
 If you are near Indianapolis, our guides to [Indianapolis board game stores](/articles/indianapolis-board-game-stores/) and [running a tournament](/articles/how-to-run-a-board-game-tournament/) are good next reads, and the [Indianapolis list](/lounges/indianapolis/) gets first word on local learn-to-play nights as The Ludarium grows.
-
-That is the end of the course. You know what changed, how a modern turn works, how to read any card, how to teach it, how to upgrade, and where the road goes from your first store night. The game is the reason. The people across the table are the point.

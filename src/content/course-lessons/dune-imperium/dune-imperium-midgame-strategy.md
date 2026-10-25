@@ -2,13 +2,14 @@
 title: "The Dune: Imperium Midgame: Deck, Tempo, and Conflicts"
 description: "Dune: Imperium midgame strategy: trimming your deck, Agent tempo and blocking, reading every garrison before a Conflict, Alliance races, and Uprising worms."
 course: dune-imperium
-order: 5
+order: 9
+level: 2
 emailSubject: "Count their garrison before you commit"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "In the midgame, information is power. The player who places Agents in the right order, reveals at the right moment, and counts what everyone else can still add to the Conflict wins fights they could not win by force."
 tryThis: "Before you deploy troops in your next game, count each opponent's possible strength out loud or in your head: troops in the Conflict, troops in the garrison, and Agents left."
-nextTeaser: "Next, the endgame and scoring math: every source of Victory Points, the 10-point trigger, Alliance swings, and how to spend the last round."
+nextTeaser: "Next, Conflicts in depth: what a troop really costs, which prize to chase, and when to sit out."
 ---
 The middle rounds of Dune: Imperium are where the Conflict II cards arrive, the Imperium Row gets expensive, and every Faction track has a race on it. The opening was about building your own engine. The midgame is about everyone else's: what they need, what they can still do this round, and what you can take from them.
 
@@ -59,11 +60,11 @@ If you hold Control of Arrakeen, Carthag, or Imperial Basin and a Conflict for t
 
 Four tracks, four Alliance tokens, and every one can change hands. Watch who is at 3 when you hold 4, and who is at 4 when you hold 5. Dire Wolf's [designer diary on politics](https://news.direwolfdigital.com/dune-imperium-designer-diary-2-power-economics-and-politics/) points out that some cards jump two steps on a track at once, so a one-step lead is not a safe lead.
 
-Sometimes the right move is to let an Alliance go and take two steps elsewhere. Lesson 6 does the math.
+Sometimes the right move is to let an Alliance go and take two steps elsewhere. The [endgame lesson](/academy/dune-imperium/dune-imperium-endgame-scoring/) does the math, and the [Influence lesson](/academy/dune-imperium/dune-imperium-influence-alliances/) covers the races.
 
 ## Intrigue as a threat
 
-Champion Povisils also said he likes to keep at least one Intrigue card in hand, because it keeps opponents unsure what he can do in Combat. Just do not let it climb to four. The Secrets space takes one at random from anyone holding four or more.
+Champion Povisils also said that holding Intrigue cards matters even when you do not play them, because it keeps opponents unsure what you can do in Combat. Just do not let it climb to four. The Secrets space takes one at random from anyone holding four or more.
 
 ## Uprising: the midgame changes
 

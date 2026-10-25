@@ -2,7 +2,8 @@
 title: "Your First Three Games of Azul"
 description: "Azul beginner mistakes, from rules slips like splitting a pick or clearing unfinished lines to strategy traps like scattered walls and overfilled floors."
 course: azul
-order: 3
+order: 4
+level: 1
 emailSubject: "The mistakes every new Azul table makes"
 pubDate: 2026-10-24
 draft: false
@@ -44,7 +45,7 @@ New players see a display with four tiles of one color and grab them all. Then t
 
 The fix is a habit, not a rule. Before you take tiles, count them, then point at the line they will go into. If more than one would fall, look for another pick.
 
-A floor tile or two is fine when it buys something. Lesson 4 covers when. But in early games, most floor points are lost by accident.
+A floor tile or two is fine when it buys something. The openings lesson, next, covers when. But in early games, most floor points are lost by accident.
 
 ## The scattered wall
 

@@ -2,15 +2,16 @@
 title: "How to Build a Cube: Size, CubeCobra, Budget, and Proxies"
 description: "How to build your own Magic Cube: choosing a size, copying a proven list on CubeCobra, building on a budget, sleeves and basics, and where proxies fit."
 course: cube-draft
-order: 7
+order: 17
+level: 4
 emailSubject: "Your own Cube, without the second mortgage"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Start small and copy a proven list. A cheap, balanced Cube that gets drafted beats an ambitious one that never leaves the shelf."
 tryThis: "Find a 360-card Cube list on CubeCobra that fits your budget, and use its solo draft against bots twice before you buy a single card."
-nextTeaser: "Last lesson: what comes next. Other draft formats, other kinds of Cubes, and where to draft locally and online."
+nextTeaser: "Next, designing your Cube: which two-color decks it supports, how to balance the colors, and the signpost cards that tell drafters what to build."
 ---
-Sooner or later, many Cube drafters want a box of their own. It is one of the best projects in the hobby: part collection, part game design, part hosting. It is also easy to overbuild. This lesson is the short path to a first Cube your friends will want to draft.
+Welcome to Level 4. Up to now you have been a drafter at someone else's table. Sooner or later, many Cube drafters want a box of their own. It is one of the best projects in the hobby: part collection, part game design, part hosting. It is also easy to overbuild. This lesson is the short path to a first Cube your friends will want to draft, and the rest of the level shows how to balance it, improve it, and host it.
 
 ## Start with what it is for
 
@@ -73,6 +74,6 @@ So in a casual Cube, playtest cards are the owner's choice. Keep them plainly no
 
 ## A Cube is never finished
 
-Your first list is a draft, in both senses. After each night, note what nobody picked and what everyone fought over, then swap five to ten cards. Keep a short changelog so your drafters can see the Cube grow. Our pieces on [Cube maintenance](/articles/cube-is-never-finished/) and [updating a Cube](/articles/how-to-update-a-cube/) show how to keep it fresh without breaking it.
+Your first list is a draft, in both senses. After each night, note what nobody picked and what everyone fought over, then swap five to ten cards. Keep a short changelog so your drafters can see the Cube grow. Our pieces on [Cube maintenance](/articles/cube-is-never-finished/) and [updating a Cube](/articles/how-to-update-a-cube/) show how to keep it fresh without breaking it, and the [curation lesson](/academy/cube-draft/cube-curation-playtesting/) later in this level turns that habit into a routine.
 
 <!-- AT OUR TABLE: one line from Levi on how the Cube Commonwealth Cube started, such as its first size or the first change the group asked for. -->

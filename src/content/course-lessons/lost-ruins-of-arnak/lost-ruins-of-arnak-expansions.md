@@ -2,15 +2,16 @@
 title: "Arnak Player Counts, Solo Play, and Expansions"
 description: "Lost Ruins of Arnak at 1 to 4 players, the solo rival, the Snake Temple side, free downloads, and the expansions from Expedition Leaders to Twisted Paths."
 course: lost-ruins-of-arnak
-order: 7
+order: 15
+level: 4
 emailSubject: "Which Arnak expansion first?"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "The base box already holds three ways to change the game: player count, the solo rival, and the Snake Temple side. Play those before you buy anything, then add one expansion at a time."
 tryThis: "Play your next game on the Snake Temple side, or try a solo game against the rival at difficulty 2, before you decide whether you need an expansion."
-nextTeaser: "Last, competitive Arnak: where to find strong opponents online, what tournament play looks like, and how to find players near you."
+nextTeaser: "Next, the hardest opponent in the box: how the solo rival plays, and how to beat it with all five red tiles."
 ---
-Lost Ruins of Arnak shifts with player count and board side, and there is a whole solo game in the base box. Before you shop for expansions, it is worth knowing what you already own. For a general way to think about add-ons, our guide to [when expansions are worth it](/articles/expansions-worth-it/) has a simple test.
+Welcome to Level 4. You have the core game down, so this level is about the hardest challenges Arnak offers. It starts with what changes it: player count, board side, the solo rival in the base box, and the expansions. Before you shop for expansions, it is worth knowing what you already own. For a general way to think about add-ons, our guide to [when expansions are worth it](/articles/expansions-worth-it/) has a simple test.
 
 ## Two, three, or four players
 

@@ -1,6 +1,6 @@
 title: "One Word, One Number"
 game: "Codenames"
-format: teach-tonight
+format: full
 order: 150
 wave: "1"
 draft: false
@@ -11,15 +11,32 @@ rulesSource: "https://filemanager.czechgames.com/storage/files/codenames/rules/C
 players: "4 to 8 or more"
 playTime: "About 15 minutes"
 ages: "Ages 10 and up"
-promise: "Learn Codenames, teach it in five minutes from one printed page, and host a first game that ends with everyone asking for a rematch."
-description: "A free Codenames course: the rules in plain words, a one-page teach sheet to print, and how to host a first game where spymasters and guessers all have fun."
+promise: "Learn Codenames, teach it in five minutes, then give clues your team gets, guess with nerve, win the endgame, and find more people to play with."
+description: "A free Codenames course: learn and teach the rules, then master clue giving, guessing, the endgame, Duet and other versions, and where to play more games."
 audience:
   - "New players who want the rules clear before the first clue."
   - "Hosts who need a party game that teaches in minutes for a big or mixed group."
   - "Anyone nervous about sitting in the spymaster's chair for the first time."
   - "Families and teams who keep arguing about which clues are allowed."
-afterLesson3: "Teach Codenames from the teach sheet and play a full game, spymasters and operatives included, without stopping for the rulebook."
-afterLesson8: "Host a smooth first Codenames night: pick spymasters, agree on clue rules, keep the pace up, and know where to play next."
+levels:
+  - level: 0
+    name: "Recruit"
+    label: "Learn to play"
+    outcome: "Set up, teach, and finish a full game of Codenames without opening the rulebook."
+  - level: 1
+    name: "Field Agent"
+    label: "Beginner"
+    outcome: "Give safe clues for two, guess as a team, skip the common slips, and pick the right Codenames for your group."
+  - level: 2
+    name: "Handler"
+    label: "Intermediate"
+    outcome: "Pick links your team will read, land clues for three, play the race on purpose, and count your way through the endgame."
+  - level: 3
+    name: "Mastermind"
+    label: "Expert"
+    outcome: "Win turns with zero and unlimited clues, beat Duet on a tight clock, and run a Codenames night or home tournament."
+afterLesson3: "Teach Codenames from the teach sheet, host a full game without stopping for the rulebook, and skip the slips that trip up most new tables."
+afterLesson8: "Give safe clues for two and three, guess as a team, pick the right version for any group, and choose the kind of link your team will read."
 faq:
   - q: "How many players do you need for Codenames?"
     a: "At least four: two teams, each with a spymaster and at least one operative. Czech Games Edition lists 4 to 8 or more players. For two players, the cooperative Codenames: Duet is the version to reach for."
@@ -74,3 +91,9 @@ related:
   - "easiest-board-games-to-learn"
   - "gateway-board-games"
   - "best-cooperative-board-games"
+  - "two-player-cooperative-board-games"
+  - "large-group-game-night"
+  - "analysis-paralysis-board-games"
+  - "playing-board-games-with-long-distance-friends"
+  - "how-to-start-a-play-group"
+  - "board-game-night-near-me"

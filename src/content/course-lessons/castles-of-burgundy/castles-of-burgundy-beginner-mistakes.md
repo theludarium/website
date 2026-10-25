@@ -2,13 +2,14 @@
 title: "Your First Three Games of The Castles of Burgundy"
 description: "Castles of Burgundy beginner mistakes, from rules slips like tiles placed straight from a depot to planning traps like clogged storage, and how to fix each one."
 course: castles-of-burgundy
-order: 3
+order: 4
+level: 1
 emailSubject: "The mistakes every new Castles of Burgundy table makes"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "First-game trouble comes from two places: small rules slips about dice, storage, and buildings, and plans that spread across so many regions that none of them finish."
 tryThis: "After each of your next three games, count your unfinished regions and the workers left in your supply. Fewer of both usually means a better game."
-nextTeaser: "Next, openings. We look at how to read your duchy before the first roll, and how to make phase A, the richest phase, count."
+nextTeaser: "Next, the dice math: what each roll can reach, how many workers a plan really costs, and the odds of hitting the number you need."
 ---
 Your first three games of The Castles of Burgundy are where habits form. Some of those habits are rules played wrong because nobody checked. Others are legal moves that quietly cost a lot of points. This lesson covers both, checked against the current rulebook.
 

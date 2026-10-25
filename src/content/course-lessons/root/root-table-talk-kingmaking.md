@@ -2,13 +2,14 @@
 title: "Root Table Talk: Reading Threat, Making Deals, and Kingmaking"
 description: "Root table talk and kingmaking: what the Law allows in deals, how to read who is winning, when to hit the leader, and calm, fair ways to handle a kingmaker."
 course: root
-order: 6
+order: 10
+level: 2
 emailSubject: "Who should we all be hitting?"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Root needs the table to police the leader, because one faction often cannot stop a runaway alone. Talk about the board out loud, keep your deals honest, and agree on a kingmaking norm before the game starts."
 tryThis: "In your next game, each time play comes back to the first player, have someone read every score aloud and name the faction most likely to score big next turn."
-nextTeaser: "Last lesson: the expansion factions, from the Riverfolk Company to the Knaves of the Deepwood, and where to play Root in tournaments and online."
+nextTeaser: "Next, Root at two and three players: which faction mixes the guide recommends, what the reach numbers say, and how the game changes with fewer seats."
 ---
 In most games, you win by playing your own position well. In Root, that is only half the job. Four factions score in four different ways, the game ends the instant someone reaches 30, and one faction often cannot stop a runaway leader alone. The table has to talk, and it has to act together. That is what makes Root feel alive, and it is also where most of its arguments start.
 

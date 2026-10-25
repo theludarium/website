@@ -19,8 +19,29 @@ audience:
   - "Hosts who teach Arnak to friends who have never played a deck builder."
   - "Players who keep ending games with a hand full of Fear and want to know why."
   - "Solo explorers, and anyone curious about the expansions and online play."
-afterLesson3: "Teach and play a clean game of Arnak, guardians and Fear included, without the rules slips that trip up most new tables."
-afterLesson8: "Plan your first two rounds, balance your deck against the research track, count the final score before it happens, choose expansions, and find opponents online."
+levels:
+  - level: 0
+    name: "Deckhand"
+    label: "Learn to play"
+    outcome: "Set up, teach, and play a full game, travel costs and the end of each round included, without opening the rulebook."
+  - level: 1
+    name: "Scout"
+    label: "Beginner"
+    outcome: "Open with a plan, climb the research track from round I, and finish games with fewer Fear cards than you started with."
+  - level: 2
+    name: "Cartographer"
+    label: "Intermediate"
+    outcome: "Choose cards, sites, and guardian fights on purpose, and count the final score before round V begins."
+  - level: 3
+    name: "Scholar"
+    label: "Advanced"
+    outcome: "Know which cards you will draw next round, win the two-player duel, and time your climb to take the Lost Temple's best spaces."
+  - level: 4
+    name: "Trailblazer"
+    label: "Expert"
+    outcome: "Beat the solo rival with all five red tiles, add expansions and campaigns, and hold your own against strong players online."
+afterLesson3: "Teach and play a clean game of Arnak, with travel costs, guardians, Fear, and the end of each round handled correctly."
+afterLesson8: "Plan your first two rounds, research every round, keep Fear out of your deck, and turn the midgame into points."
 faq:
   - q: "How do you get rid of Fear cards in Lost Ruins of Arnak?"
     a: "Exile them. Any effect that lets you exile a card can send a Fear card from your hand or play area back to the Fear supply. Overcoming a guardian also stops that site from handing out new Fear at the end of the round. Every Fear card you still own at the end costs 1 point."

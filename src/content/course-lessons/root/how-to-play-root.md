@@ -1,18 +1,19 @@
 ---
 title: "How to Play Root"
-description: "How to play Root and teach it: setup, Birdsong, Daylight, and Evening, rule and battle, crafting, the four factions, and which of three rulebooks to read."
+description: "How to play Root: setup, Birdsong, Daylight, and Evening, rule, moving and battle, crafting, how the four factions score, and which of three rulebooks to read."
 course: root
 order: 1
+level: 0
 emailSubject: "Root, learned and taught in one evening"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Root is one shared skeleton with four different factions hung on it. Teach the skeleton to everyone at once, then let each player learn their own faction from its board."
 tryThis: "For your first game, seat four players with the four base factions and play through the Walking Through Root booklet, reading each turn aloud before anyone plays from a private hand."
-nextTeaser: "Next, the Marquise de Cat: how her wood economy works, why she is the faction most starved for actions, and how to keep the table from picking her apart."
+nextTeaser: "Next, how to teach Root: a host script for the shared rules, the walkthrough route, and how to get four different factions moving in the first round."
 ---
 Root is a war game about woodland animals, and it is also four different games sharing one board. The Marquise de Cat builds an industry. The Eyrie Dynasties follow a decree. The Woodland Alliance stirs up a revolt. The Vagabond wanders between them all. Each faction scores in its own way, but they all move, fight, and craft by the same shared rules.
 
-That split is the key to learning Root and to teaching it. This lesson does both at once, using the current Leder Games rules: the Law of Root dated October 13, 2025, and the Learning to Play guide.
+That split is the key to learning Root and to teaching it. This lesson covers them from the current Leder Games books: the Law of Root dated October 13, 2025, and the Learning to Play guide.
 
 ## Which rulebook should you read?
 
@@ -69,19 +70,7 @@ There is one other path. Four dominance cards let a player with at least 10 poin
 
 ## How do you teach it?
 
-The guide offers two routes. If your group learns by doing, use Walking Through Root: set up as its first pages say, then pass the booklet from player to player and read each turn aloud. It is written for four players; with fewer, someone plays two factions.
-
-If your group likes to hear the rules first, teach in this order:
-
-1. The goal: 30 points, with each faction scoring differently.
-2. The map, suits, and rule.
-3. Moving and battle, with one example.
-4. Cards, birds, and crafting.
-5. Then stop. Hand each player their faction board and give them a few minutes with it. The guide notes the boards are designed to answer most faction questions.
-
-Ideally, one person reads the guide before the group meets, so they can answer "what can I do now?" for any faction. Print the [Root teach sheet](/academy/root/teach-sheet/) for the middle of the table. Our guide on [how to teach a board game](/articles/how-to-teach-a-board-game/) covers pacing in general.
-
-<!-- AT OUR TABLE: one line on how Levi splits the teach between shared rules and faction boards, and how long the first round takes. -->
+Teach the shared rules to everyone at once, then hand each player their faction board and let it do the rest. The [next lesson](/academy/root/how-to-teach-root/) gives a full host script, both of the guide's teaching routes, and how to run the first round. Print the [Root teach sheet](/academy/root/teach-sheet/) for the middle of the table.
 
 ## Two players, and later games
 

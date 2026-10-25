@@ -21,8 +21,33 @@ audience:
   - "Disney fans and parents buying a first product, maybe for two people at once."
   - "Collectors with a stack of shiny cards who are curious about the game itself."
   - "Anyone nervous about walking into a game store's weekly play night for the first time."
+levels:
+  - level: 0
+    name: "Lamplighter"
+    label: "Learn to play"
+    outcome: "Pick the right first product, play a full game by the current rules, read every part of a card, and teach a friend in ten minutes."
+  - level: 1
+    name: "Scribe"
+    label: "Beginner"
+    outcome: "Skip the common rules slips, ink with a plan, choose quest or challenge on purpose, upgrade a starter deck, and enjoy your first weekly play night."
+  - level: 2
+    name: "Storyteller"
+    label: "Intermediate"
+    outcome: "Pick an ink pair, build a legal 60-card deck from scratch, win trades for the board, and build a solid 40-card deck at a prerelease."
+  - level: 3
+    name: "Enchanter"
+    label: "Advanced"
+    outcome: "Put real odds on your opening hand and mulligans, count the lore race in turns, weigh cards against tempo, and read your opponent's ink and hand."
+  - level: 4
+    name: "Contender"
+    label: "Tournament ready"
+    outcome: "Play a timed best-of-three under the official tournament rules, register a legal deck, and choose and tune it for a Set Championship field."
+  - level: 5
+    name: "Loremaster"
+    label: "The championship path"
+    outcome: "Know every rung from Set Championships to the World Championship, and follow a six-week practice plan toward your next qualifier."
 afterLesson3: "Buy the right first product, play a full game by the current rules, and read every part of a card without help."
-afterLesson8: "Teach the game, upgrade a deck on a budget, play your first weekly play night and prerelease, and know what the competitive path looks like."
+afterLesson8: "Avoid the common first-game slips, ink with a plan, choose between questing and challenging on purpose, and upgrade a starter deck on a budget."
 faq:
   - q: "What is the best way to start playing Disney Lorcana?"
     a: "Start with a product made for two new players, such as the 2-Player Starter Set: two ready-to-play 60-card decks, lore trackers, and a rulebook. Learn with a friend first, then visit a store's weekly play."

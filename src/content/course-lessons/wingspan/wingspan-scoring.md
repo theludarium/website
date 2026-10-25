@@ -2,7 +2,8 @@
 title: "Wingspan Endgame and Scoring Math"
 description: "Wingspan scoring math for the endgame: what each round four action is worth, egg room, goal ties and rounding, bonus card steps, and the unused food tiebreaker."
 course: wingspan
-order: 6
+order: 11
+level: 2
 emailSubject: "What one Wingspan turn is worth in round four"
 pubDate: 2026-10-24
 draft: false

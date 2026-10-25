@@ -25,8 +25,33 @@ audience:
   - "Hosts who teach heavy co-ops and want a clean, accurate teach of this one."
   - "Players who know the rules but keep losing to Blight or running out of time."
   - "Groups who want to climb the adversary levels together, without one player running the table."
-afterLesson3: "Teach and play a full game, read the Invader cards three turns ahead, and turn Fear into an earlier, easier win."
-afterLesson8: "Plan Growth and Energy turn by turn, get the best from each starter Spirit, choose and climb adversaries and scenarios, and play as one team at home or online."
+levels:
+  - level: 0
+    name: "Seedling"
+    label: "Learn to play"
+    outcome: "Set up, teach, and play a full game with the Blight, Fear, and Ravage rules right, without opening the rulebook."
+  - level: 1
+    name: "Sapling"
+    label: "Beginner"
+    outcome: "Read the Invader track ahead, race the Fear Deck, grow your Spirit without stalling, and pick a starter team that covers the Island."
+  - level: 2
+    name: "Grove"
+    label: "Intermediate"
+    outcome: "Open each game with a plan, use the Dahan as allies, choose Power Cards and Elements on purpose, and play all eight Spirits in the box."
+  - level: 3
+    name: "Wildwood"
+    label: "Advanced"
+    outcome: "Hold Blight in check, count the Invader Deck, plan a win turns ahead, play well solo, and beat your first adversary."
+  - level: 4
+    name: "Tempest"
+    label: "Expert"
+    outcome: "Climb Brandenburg-Prussia, England, and Sweden toward level 6, knowing what each one punishes and how to answer it."
+  - level: 5
+    name: "Ancient"
+    label: "Mastery"
+    outcome: "Win on the thematic map and stacked challenges, score and log your games, and keep a whole table of Spirits playing as one."
+afterLesson3: "Teach and play a full game, and avoid the Blight, Fear, and Ravage misplays most new tables make."
+afterLesson8: "Read the Invader cards ahead, race the Fear Deck, plan Growth and Energy, choose a starter team, and open every game with a plan."
 faq:
   - q: "What is the phase order in Spirit Island?"
     a: "Every turn runs the Spirit Phase, Fast Powers, the Invader Phase, Slow Powers, then Time Passes. In the Spirit Phase you Grow, gain Energy, then play and pay for Power Cards. The Invader Phase resolves any Blighted Island effect, then earned Fear Cards, then Ravage, Build, and Explore, then the Invader cards slide one space."

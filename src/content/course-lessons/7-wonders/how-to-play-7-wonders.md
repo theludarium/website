@@ -3,6 +3,7 @@ title: "How to Play 7 Wonders and 7 Wonders Duel"
 description: "How to play 7 Wonders: setup, the pick-and-pass turn, buying from neighbors, military and science scoring, plus the full rules of 7 Wonders Duel for two."
 course: 7-wonders
 order: 1
+level: 0
 emailSubject: "7 Wonders in one pick and one pass"
 pubDate: 2026-10-24
 draft: false

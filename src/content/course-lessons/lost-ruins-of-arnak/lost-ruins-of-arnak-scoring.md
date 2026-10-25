@@ -2,13 +2,14 @@
 title: "Lost Ruins of Arnak Endgame and Scoring Math"
 description: "Lost Ruins of Arnak scoring math: temple tile costs, idol slot trade-offs, guardian and Fear values, and how to spend round V so no resource goes to waste."
 course: lost-ruins-of-arnak
-order: 6
+order: 11
+level: 2
 emailSubject: "Count your Arnak score before round V"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Leftover resources score nothing, and a card bought in round V is mostly worth its printed points. Plan the last round as a conversion: turn everything you hold into points."
 tryThis: "At the start of round V, list every resource you hold and decide where each one becomes points. Then play the round to that list."
-nextTeaser: "Next, player counts, variants, and expansions: the two-player board, the solo rival, the Snake Temple side, and which expansion to try first."
+nextTeaser: "Level 3 opens with deck math: which cards you are sure to draw next round, and the odds on the rest."
 ---
 Lost Ruins of Arnak ends after round V, and the scoring is easy to see coming. Almost every point sits on the table where everyone can see it, and the cards in each deck were bought in plain view. If you count before the last round, the final tally holds no surprises, and you can make round V your best round.
 

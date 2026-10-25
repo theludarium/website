@@ -131,3 +131,39 @@ Affiliate programs are not confirmed yet. Mention products by name and link to t
 An original SVG, `viewBox="0 0 480 320"`, drawn from simple shapes: the table layout at setup (TCG: the play area zones). Label every zone in a plain sans-serif font (`font-family="system-ui, sans-serif"`), 12 to 14px. Use the brand palette: Parchment `#F6EFE3` background, Walnut `#2B1E16` ink and labels, Felt Green `#2F5D50`, Lamplight `#E0A23B`, Stone `#B9AD9C`. No embedded images, no publisher art, no logos. It must be accurate to the setup the rules describe.
 
 The TCG mock card (`mock-card.svg`, viewBox `0 0 300 420`) is an invented card in the game's layout with every part labeled (name, cost, type, text box, stats), using made-up card text.
+
+## Level ladders (October 25, 2026)
+
+Every game course grows into a Catan-style ladder: levels from Level 0 (learn to play) up to the championship path, each with its own name, a plain label, and an "after this level" outcome. The course page groups lessons by level and each lesson shows its level. A course with levels has 10 to 30 lessons; `check-course.mjs` enforces the rules below.
+
+**Depth decides the ladder.** No lesson is padding.
+
+| Tier | Games | Levels | Lessons |
+| --- | --- | --- | --- |
+| Light | Azul, Splendor, Codenames, King of Tokyo, Flip 7, Sky Team | 0 to 3 (four levels) | 12 to 14 |
+| Medium | Carcassonne, Ticket to Ride, Wingspan, Pandemic, 7 Wonders, Cascadia, Heat, Everdell, Lost Ruins of Arnak | 0 to 4 (five levels) | 17 to 20 |
+| Deep | Terraforming Mars, Dune: Imperium, The Castles of Burgundy, Dominion, Power Grid, Ark Nova, Brass: Birmingham, Root, Spirit Island, and the TCG courses | 0 to 5 (six levels) | 21 to 24 |
+
+**Labels**, in order: Learn to play, Beginner, Intermediate, Advanced, Tournament ready, The championship path. For a game without a real tournament scene (most cooperative games, Sky Team, Flip 7), the top labels are "Expert" and "Mastery" instead, and the top level is about the hardest challenges, campaigns and variants rather than tournaments. Light games end at Level 3 labeled "Expert".
+
+**Names** are themed to the game, short and warm (Catan's are Settler, Homesteader, Trader, Strategist, Contender, Champion). Never use a trademarked term from the game as a level name if it reads as official branding; plain thematic words are fine.
+
+**In the YAML:**
+
+```yaml
+levels:
+  - level: 0
+    name: "Apprentice"
+    label: "Learn to play"
+    outcome: "Set up and finish a game without opening the rulebook."
+  - level: 1
+    name: "..."
+    label: "Beginner"
+    outcome: "..."
+```
+
+The `afterLesson3` and `afterLesson8` fields stay (the schema needs them) but the page shows the level outcomes instead; keep them true.
+
+**In each lesson:** `level: N` in the frontmatter, and `order` runs 1 to N across the whole course with no gaps, never going down a level. Each level has at least 2 lessons. Lessons 1 and 2 (how to play, how to teach) are always Level 0. Keep every existing lesson, renumbered to its place in the ladder; edit any text or `nextTeaser` that refers to lesson numbers or "the last lesson". The old lesson 8 (compete or play more) belongs at the top level.
+
+**Writing the new lessons:** same rules as every lesson (600 to 900 words, one idea, `oneIdea`, `tryThis`, `nextTeaser`, sources, VERIFY markers, no first-person play stories, no em dashes). Each level builds on the one below: a reader finishing Level 1 should have something real to do better at Level 2. Advanced and top-level lessons can go deep (specific openings, card or tile evaluation, probability, timing, reading opponents, tournament formats and rules, practice plans), but every claim about strategy must be defensible and every rule claim sourced. Link the game's existing Ludarium articles where they help.

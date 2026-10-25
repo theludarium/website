@@ -3,6 +3,7 @@ title: "How to Play Splendor"
 description: "How to play Splendor: setup for 2 to 4 players, the four actions, how card bonuses work, attracting nobles, the ten-piece limit, and the race to 15 points."
 course: splendor
 order: 1
+level: 0
 emailSubject: "Splendor in four actions"
 pubDate: 2026-10-24
 draft: false
@@ -89,4 +90,4 @@ When a player ends their turn with 15 or more prestige points, the end is trigge
 
 Add up the points on your cards and nobles. Most points wins. If players tie, the one who bought the fewest development cards wins. If that is still tied, they share the victory.
 
-That is all of Splendor. If you want a head start on strategy, our [Splendor strategy guide](/articles/splendor-strategy/) picks up from here, and lessons 4 to 6 of this course go deeper.
+That is all of Splendor. If you want a head start on strategy, our [Splendor strategy guide](/articles/splendor-strategy/) picks up from here, and Levels 1 and 2 of this course go deeper.

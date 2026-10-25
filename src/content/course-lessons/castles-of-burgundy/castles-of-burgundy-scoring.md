@@ -2,7 +2,8 @@
 title: "Castles of Burgundy Endgame and Scoring Math"
 description: "Castles of Burgundy scoring math for the endgame: region values by phase, bonus tile races, selling versus holding goods, and how to spend your final workers."
 course: castles-of-burgundy
-order: 6
+order: 11
+level: 2
 emailSubject: "Count your regions before phase E"
 pubDate: 2026-10-24
 draft: false

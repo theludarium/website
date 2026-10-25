@@ -2,13 +2,14 @@
 title: "Disney Lorcana Prerelease Survival Guide"
 description: "Disney Lorcana prerelease guide for new players: what the box holds, how Sealed and Pack Rush work, building a 40-card deck from six packs, and what to bring."
 course: lorcana
-order: 7
+order: 13
+level: 2
 emailSubject: "Play the new Lorcana set a week early"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "A prerelease levels the field. Everyone opens the same number of brand-new packs and builds on the spot, so knowing how to build a solid 40-card deck matters more than how big your collection is."
 tryThis: "Before the event, practice with a friend: open four to six packs each, build 40-card decks in thirty minutes, and play. A practice run takes the nerves out of the real one."
-nextTeaser: "Last lesson: what comes next. Core and Infinity, Set Championships, the Disney Lorcana Challenge, and where to find your next game."
+nextTeaser: "Level 3 opens with odds: how likely you are to draw a card by each turn, how many cards to send back in a mulligan, and how many inkable cards a deck needs."
 ---
 A prerelease is the party at the start of every set. Stores open the new cards about a week before they reach big retailers, and everyone plays with them for the first time together. It is one of the best events for a new player, because nobody has an advantage from a big collection. Everybody starts from the same sealed product.
 
@@ -72,6 +73,6 @@ Some Hyperia City cards also give you **ink drops**, a temporary ink. If your po
 
 ## After the prerelease
 
-Your sealed pool is the start of a collection. Keep your favorite cards from the new set together; many will be playable in Core for years. Then take what you learned back to lesson 5 and start shopping for the singles your weekly deck needs.
+Your sealed pool is the start of a collection. Keep your favorite cards from the new set together; many will be playable in Core for years. Then take what you learned back to the [upgrades lesson](/academy/lorcana/lorcana-deck-upgrades/) and start shopping for the singles your weekly deck needs.
 
 If drafting appeals to you, our explainer on [card drafting](/articles/card-drafting-explained/) covers how pick-and-pass works. Lorcana's Draft format builds a deck the same way.

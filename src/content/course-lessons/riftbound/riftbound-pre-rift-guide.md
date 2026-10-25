@@ -2,13 +2,14 @@
 title: "Riftbound Pre-Rift Survival: Build a Sealed Deck"
 description: "A Riftbound Pre-Rift guide: what is in the kit, the sealed deck rules, a simple recipe for building in under an hour, and what changes with Legacy and draft."
 course: riftbound
-order: 7
+order: 13
+level: 2
 emailSubject: "Open your packs, build a deck, have a great night"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "A sealed deck wins on units, not rares. Pick the two domains with the most solid units, fill the low end of the curve, and add whatever removal you opened."
 tryThis: "At your first Pre-Rift, sort your cards by domain before you read a single rare. Count the units in each pile, and let the counts pick your colors."
-nextTeaser: "Last lesson: what comes next. The competitive path from store nights to Regionals, and how to find good local play."
+nextTeaser: "Level 3 opens with tempo and card advantage: the trades under every decision, and why damage that does not kill is usually wasted."
 ---
 A **Pre-Rift** is the first chance to play a new Riftbound set, the week before it releases. You open fresh product at your local store, build a deck from only what you opened, and play it right away. Riot describes these events as fun, social, and casual, with the focus on learning the new cards. Everything you open is yours to keep.
 
@@ -21,6 +22,8 @@ Kits change from set to set. For Radiance, Riot listed:
 - **Five Radiance booster packs.**
 - **A champion pack** themed around one of nine Legends, holding a Legend, a Rare champion, a battlefield, and supporting cards.
 - **A promo card** that can't go in your sealed deck. A normal copy of the same card that you open can.
+
+That kit is Riot's Pre-Rift package, not the standard sealed pool. The Tournament Rules' default sealed format gives each player 6 booster packs, so a sealed event outside a Pre-Rift may hand out 6 boosters and no champion pack. The deck building rules below are the same either way.
 
 The organizer provides extra runes, and tokens can be anything handy. If you don't like your battlefields, you can use a facedown card as a blank battlefield with no text.
 
@@ -67,6 +70,6 @@ The next set, **Legacy**, has Pre-Rift events January 22 to 28, 2027, and releas
 
 Draft already has rules. In the Tournament Rules, each player gets **three packs**. Groups of about eight sit around a table, open a pack, take one card, and pass the rest to the left. Pack two passes right, pack three passes left again. Each player ends with a 39-card pool, and a draft Main Deck needs at least 20 cards. The three-domain rule and the no-copy-limit rule from sealed apply too.
 
-If draft is new to you, our explainer on [card drafting](/articles/card-drafting-explained/) covers how pick-and-pass works and how to read what your neighbors are taking.
+If draft is new to you, our explainer on [card drafting](/articles/card-drafting-explained/) covers how pick-and-pass works and how to read what your neighbors are taking. The [draft strategy lesson](/academy/riftbound/riftbound-draft-strategy/) in Level 3 goes deeper.
 
 <!-- VERIFY: whether stores run Legacy draft events at launch, and whether the Legacy Pre-Rift itself is sealed or draft. -->

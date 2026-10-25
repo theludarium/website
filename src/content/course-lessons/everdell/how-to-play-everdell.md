@@ -3,6 +3,7 @@ title: "How to Play Everdell"
 description: "How to play Everdell: setup, the three actions, where workers go, playing Critters and Constructions, the seasons, and final scoring, explained in plain words."
 course: everdell
 order: 1
+level: 0
 emailSubject: "Everdell in three actions"
 pubDate: 2026-10-24
 draft: false

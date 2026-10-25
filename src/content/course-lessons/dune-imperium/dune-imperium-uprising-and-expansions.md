@@ -2,13 +2,14 @@
 title: "Dune: Imperium Uprising, Player Counts, and Expansions"
 description: "Dune: Imperium Uprising explained: spies, contracts, sandworms, and six-player teams, plus player counts, solo and two-player rules, and every expansion."
 course: dune-imperium
-order: 7
+order: 14
+level: 3
 emailSubject: "Original or Uprising? Here is the difference"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Uprising is the same engine with sharper edges: spies get around blocks, worms double rewards, and contracts pay for visits. Learn the original or Uprising first, then add one new system at a time."
 tryThis: "If you own Uprising, play your next game without the CHOAM contracts. Add them the game after, and note what your group spends its Agents on differently."
-nextTeaser: "Last lesson: how to compete. The World Boardgaming Championships event, Dire Wolf's North American Championship at Gen Con, online play, and local games."
+nextTeaser: "Next, Uprising strategy: where to post Spies, the sandworm path, and when to blow up the Shield Wall."
 ---
 Dune: Imperium now comes in two boxes that share one engine, and a shelf of expansions that work with one or both. This lesson covers what changes with player count, then Uprising in depth, then the expansions and how to choose.
 
@@ -84,7 +85,9 @@ Both were built for the original, and Uprising's rules explain how to add them.
 
 **[Bloodlines](https://www.direwolfdigital.com/dune-imperium-bloodlines/)** expands both games with Sardaukar Commanders, new tech tiles, Leaders, contracts, and cards. <!-- AFFILIATE: Dune: Imperium Bloodlines -->
 
-**[Conspiracy](https://www.direwolfdigital.com/dune-imperium-conspiracy/)** is next. Dire Wolf says pre-orders open October 26, 2026. It works with both games and adds six Leaders, 46 Imperium cards, Conspiracy cards, Raids, and an Overthrow mode where one player is the Emperor against two or three others. <!-- AFFILIATE: Dune: Imperium Conspiracy -->
+**[Conspiracy](https://www.direwolfdigital.com/dune-imperium-conspiracy/)** is next, and Dire Wolf's page already takes pre-orders. It works with both games and adds Conspiracy cards, Raids, Imperial Edicts, and an Overthrow mode where one player is the Emperor against two or three others.
+
+<!-- VERIFY: Conspiracy's release date and its counts of new Leaders and Imperium cards; Dire Wolf's product page lists neither, and retail listings disagree. --> <!-- AFFILIATE: Dune: Imperium Conspiracy -->
 
 ## Which box first?
 

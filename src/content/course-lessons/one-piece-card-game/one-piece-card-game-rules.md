@@ -3,6 +3,7 @@ title: "How a Turn Works in the One Piece Card Game"
 description: "One Piece Card Game rules in plain words: the Leader card, the DON!! deck, setup, the five phases of a turn, how battles and Life cards work, and how you win."
 course: one-piece-card-game
 order: 2
+level: 0
 emailSubject: "Leader, DON!!, attack: the whole turn"
 pubDate: 2026-10-24
 draft: false

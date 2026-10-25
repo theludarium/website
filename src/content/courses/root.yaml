@@ -11,15 +11,40 @@ rulesSource: "https://cdn.shopify.com/s/files/1/0106/0162/7706/files/Root_Base_L
 players: "2 to 4"
 playTime: "60 to 90 minutes"
 ages: "Ages 14 and up"
-promise: "Learn Root and teach it in one sitting, then go deep on each base faction, the table talk that decides games, and the expansion factions beyond them."
-description: "A free Root masterclass: learn and teach the rules, then go deep on the Marquise, Eyrie, Alliance, and Vagabond, table talk, kingmaking, and expansion factions."
+promise: "Learn Root and teach it in one sitting, master each base faction, then climb to battle odds, dominance, the faction draft, and your first Root tournament."
+description: "A free Root course: learn and teach the rules, master the four base factions, battle odds and dominance, then draft, read new maps, and enter a tournament."
 audience:
   - "New players who want the shared rules clear before they pick a faction."
   - "Hosts who teach Root and want the whole table playing by the second round."
   - "Players who keep losing with one faction and want to know why."
   - "Groups ready for expansion factions, tournaments, or online play."
-afterLesson3: "Teach a first game from the Learning to Play guide, and play the Marquise de Cat and the Eyrie Dynasties with a plan instead of a hope."
-afterLesson8: "Play all four base factions with purpose, handle table talk and kingmaking fairly, build a balanced mix of expansion factions, and find a tournament or online game."
+levels:
+  - level: 0
+    name: "Sapling"
+    label: "Learn to play"
+    outcome: "Set up, teach, and finish a four-faction game with the shared rules right and nobody lost on their own faction board."
+  - level: 1
+    name: "Forager"
+    label: "Beginner"
+    outcome: "Play each of the four base factions with a plan: how it scores, what it fears, and what its first turns should do."
+  - level: 2
+    name: "Pathfinder"
+    label: "Intermediate"
+    outcome: "Pick fights with known odds, craft with purpose, read who is leading, and set up fair games at two and three players."
+  - level: 3
+    name: "Warden"
+    label: "Advanced"
+    outcome: "Time a dominance card, track ambushes and hands, count every faction's race to 30, and build balanced games with expansion factions."
+  - level: 4
+    name: "Contender"
+    label: "Tournament ready"
+    outcome: "Draft factions under Advanced Setup, play any map with its landmarks, and know the Exiles and Partisans deck that events use."
+  - level: 5
+    name: "Champion"
+    label: "The championship path"
+    outcome: "Find a Root tournament, practice online with purpose, and follow a six-week plan into your first competitive event."
+afterLesson3: "Teach a first game from the Learning to Play guide and play it without the rules slips that trip up most new tables."
+afterLesson8: "Play all four base factions with a plan, and choose your battles knowing the odds before the dice roll."
 faq:
   - q: "How many players does Root need?"
     a: "The base game plays 2 to 4. The Learning to Play guide drops the Vagabond for three players, and also the Woodland Alliance for two, which leaves the Marquise de Cat against the Eyrie Dynasties. The expansions add factions and pieces for up to six."

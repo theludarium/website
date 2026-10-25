@@ -3,12 +3,13 @@ title: "How to Teach Lost Ruins of Arnak"
 description: "How to teach Lost Ruins of Arnak in ten minutes: a host script in the order you say it, what to save for later, and a printable teach sheet for the table."
 course: lost-ruins-of-arnak
 order: 2
+level: 0
 emailSubject: "Teach Arnak in ten minutes"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Teach the shape of a round and the travel rule, then let the board teach the rest. Arnak's icons explain themselves once people are holding cards."
 tryThis: "Print the teach sheet, deal everyone's starting hand before you start talking, and stop your teach the moment you finish one example turn."
-nextTeaser: "Next, your first three games: the rules slips almost every new table makes, and the habits that keep a deck from filling up with Fear."
+nextTeaser: "Next, the last piece of Level 0: travel costs and icons in detail, so every payment at the table is right the first time."
 ---
 Lost Ruins of Arnak has a lot of pieces on the table, and that tempts hosts to explain every one of them before anyone moves. Assistants, idol slots, guardian boons, temple tiles: by the time the host reaches the research track, half the table has stopped listening.
 

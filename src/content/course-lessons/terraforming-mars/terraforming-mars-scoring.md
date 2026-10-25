@@ -2,7 +2,8 @@
 title: "Terraforming Mars Endgame and Scoring Math"
 description: "Terraforming Mars scoring math for the endgame: how to spot the last generation, the points each standard project buys, the final greenery, and counting cities."
 course: terraforming-mars
-order: 6
+order: 11
+level: 2
 emailSubject: "What 23 megacredits buys you in the last round"
 pubDate: 2026-10-24
 draft: false

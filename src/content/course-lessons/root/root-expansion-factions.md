@@ -1,17 +1,19 @@
 ---
-title: "Root Expansion Factions, and Where to Play Root Competitively"
-description: "Root expansion factions explained, from Riverfolk to Homeland, using reach to build a fair mix, and where to play Root competitively, in person and online."
+title: "Root Expansion Factions: Building a Fair Mix"
+description: "Root expansion factions explained, from the Riverfolk Company to the Knaves of the Deepwood, and how to use the reach numbers in the Law to build a fair mix."
 course: root
-order: 7
+order: 15
+level: 3
 emailSubject: "Nine more ways to fight for the Woodland"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Add factions one box at a time, and use the reach numbers in the Law to build a mix where every faction has someone to push against."
 tryThis: "Before your next game with new factions, add up their reach values and check the total against the Law's chart for your player count."
+nextTeaser: "Level 4 starts with Advanced Setup: the faction draft, the five-card opening hand, and how competitive tables choose who plays what."
 ---
-The base game's four factions are only the start. Leder Games has added nine more across four big expansions, plus new maps, decks, Vagabonds, and hired helpers. Each new faction is its own small rulebook, so the same advice from lesson 1 holds: teach the shared rules once, then let each player learn their own board.
+The base game's four factions are only the start. Leder Games has added nine more across four big expansions, plus new maps, decks, Vagabonds, and hired helpers. Each new faction is its own small rulebook, so the same advice from the first lesson holds: teach the shared rules once, then let each player learn their own board.
 
-This lesson walks through the expansion factions, shows how to pick a fair mix, and ends with where Root is played competitively.
+This lesson walks through the expansion factions and shows how to pick a fair mix.
 
 ## How do you pick a fair mix?
 
@@ -74,25 +76,13 @@ The box also adds three Vagabond characters, a second Vagabond board for games w
 
 ## Smaller ways to grow
 
-- **Advanced Setup** in the Law adds a faction draft using faction setup cards, a choice of map and deck, and optional hirelings and landmarks. The WBC Root event below uses it.
+- **Advanced Setup** in the Law adds a faction draft using faction setup cards, a choice of map and deck, and optional hirelings and landmarks. Tournament play uses it, as Level 4 explains.
 - **[The Exiles and Partisans Deck](https://ledergames.com/products/root-the-exiles-and-partisans-deck)** and **[The Squires and Disciples Deck](https://ledergames.com/products/root-the-squires-and-disciples-deck)** each replace the 54-card shared deck. <!-- AFFILIATE: Root: The Exiles and Partisans Deck; Root: The Squires and Disciples Deck -->
 - **[The Vagabond Pack](https://ledergames.com/products/root-the-vagabond-pack)** adds three more Vagabond characters. **[The Landmarks Pack](https://ledergames.com/products/root-landmark-pack)** adds landmarks that change the map. <!-- AFFILIATE: Root: The Vagabond Pack; Root: Landmarks Pack -->
 - **[The Clockwork Expansion 2](https://ledergames.com/products/root-the-clockwork-expansion-2)** adds four automated bot factions to round out a small game or to play cooperatively. It needs the Riverfolk or Underworld expansion. <!-- AFFILIATE: Root: The Clockwork Expansion 2 -->
 
 Our guide to [whether expansions are worth it](/articles/expansions-worth-it/) can help you decide where to start.
 
-## Where is Root played competitively?
+## When to add a new faction
 
-**The World Boardgaming Championships.** The [WBC](https://www.boardgamers.org/) is an annual tournament convention, held in recent years at Seven Springs Mountain Resort in Pennsylvania. Root has had an event there every year since 2022, and Felicia Alfieri is on the [2026 winners list](https://www.boardgamers.org/wbc_results.html). The [2026 event](https://www.boardgamers.org/wbc26/previews/rot.html) was a Trial event in the coached class, open to new players, with the game taught at the scheduled start. It used Advanced Setup, the Exiles and Partisans deck, random maps after the first heat, no hirelings, and no coalitions. Trial events are voted on by members each year, and WBC 2027 runs July 24 to August 1, 2027.
-
-<!-- VERIFY: whether Root makes the WBC 2027 Trial ballot vote (ballot due November 25, 2026), and its 2027 format. -->
-
-**Online.** [Root digital](https://www.direwolfdigital.com/root/), by Dire Wolf, runs on PC through Steam, Nintendo Switch, iOS, and Android, with online cross-platform multiplayer and several expansions as add-ons. It is a quick way to get many games in. <!-- AFFILIATE: Root digital edition (Dire Wolf) -->
-
-<!-- VERIFY: check for a current community-run online Root league or tournament (for example through the Leder Games Discord) with an official link before naming one. -->
-
-**Rules help.** Leder Games' [FAQ](https://ledergames.com/pages/faqs) points rules questions to the BoardGameGeek Root forum and its own Discord community.
-
-**Local play.** Leder Games has a [store locator](https://ledergames.com/pages/store-locator) for shops that carry its games, and many game stores host open play nights. If you are near Indianapolis, join the [Indianapolis list](/lounges/indianapolis/) for first word on local learn-to-play nights as The Ludarium grows.
-
-That is the end of the course. You can teach Root, play all four base factions with a plan, talk the table through a close finish, and pick new factions with care. The game is the reason. The people across the Woodland are the point.
+Add one new faction at a time, to a table that already knows the base four. Seat the new faction with the player who most wants to read a new board, and give everyone else a short tour of how it scores and what it fears, using the same questions the [table talk lesson](/academy/root/root-table-talk-kingmaking/) asks of the base factions. Check the reach total before every game. Once your group is drafting from several boxes, the [Advanced Setup lesson](/academy/root/root-advanced-setup-draft/) at Level 4 shows how competitive tables choose factions.

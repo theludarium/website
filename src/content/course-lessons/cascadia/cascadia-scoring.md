@@ -2,13 +2,14 @@
 title: "Cascadia Endgame and Scoring Math"
 description: "Cascadia scoring math for the endgame: habitat corridors and majority bonuses, what each token is worth on its card, nature token value, and a final checklist."
 course: cascadia
-order: 6
+order: 12
+level: 2
 emailSubject: "Count the corridors before turn 20"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Every point in Cascadia is countable before the last turn. In the final five turns, compare what each pair adds to your score, wildlife and habitat together, and take the biggest number."
 tryThis: "With five turns left in your next game, jot down your score for each animal and each habitat. On each remaining turn, take the pair that adds the most."
-nextTeaser: "Next, player counts, variants, and expansions: solo mode, the Family and Intermediate cards, scenarios and achievements, Landmarks, and the rest of the Cascadia family."
+nextTeaser: "Next, Level 3 opens with the bag: how many of each animal are left, the real odds of overpopulation, and how to tell if the token you need will come."
 ---
 Cascadia games are often close. In the rulebook's own three-player scoring example, the final scores are 98, 97, and 95. Games that tight are decided by a habitat bonus, a single nature token, or one token placed in the right spot on the last turn. The good news is that nothing is hidden. You can count all of it before the end.
 
@@ -42,9 +43,7 @@ So one more tile in a habitat can be worth 1 point, or it can move a bonus by 2 
 Tokens are worth what their card says, and the jump from one shape to the next is where endgame points live. A few numbers from the rulebook and the cards:
 
 - **Elk A:** a line of two scores 5, a line of three scores 9. That third elk is worth 4 points.
-- **Salmon A:** a run of four scores 12 in the rulebook's example, and the table keeps climbing up to a run of seven. Check the card to see whether one long run beats two short ones.
-
-<!-- VERIFY: Salmon A point values for runs of three and six (the draft said 8 and 20) against a physical card; the rulebook PDF's card images are too small to read. -->
+- **Salmon A:** a run of four scores 12 in the rulebook's example, and the table keeps climbing up to a run of seven. Per Dire Wolf's [salmon spotlight](https://news.direwolfdigital.com/cascadia-animal-spotlight-chinook-salmon), six salmon in one run score 20, while two runs of three score 16.
 - **Bears B:** a group of exactly three scores 10. The third bear is worth all 10; the first two are worth nothing until it arrives.
 - **Hawks C:** each line of sight between two hawks is worth 3, and one new hawk can create more than one line.
 

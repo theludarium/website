@@ -2,14 +2,16 @@
 title: "Pokémon TCG Tournaments: What Comes Next"
 description: "What comes after League in the Pokémon TCG: Standard and rotation, League Challenges and Cups, Championship Points, age divisions, and the road to Worlds."
 course: pokemon-tcg
-order: 8
+order: 20
+level: 5
 emailSubject: "From League night to the World Championships"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "The competitive path is a ladder, and every rung is optional. Each step up asks a little more of your deck and your time, and League is always there when you want a casual game."
 tryThis: "Ask the person who runs your League when the next League Challenge is, and watch a round or two before deciding whether to enter one."
+nextTeaser: "Next, Championship Points: how they are earned, the limits on how many results count, and how to plan a season that fits your life."
 ---
-By now you can play a full game, read any card, and hold your own on League night. Some players stop there for years, and that is a great place to stay. Others feel the pull of a tournament. This lesson maps the whole path so you can choose how far to go.
+Welcome to Level 5. You can play a clean game, build and test a deck, and handle a timed match. Some players stop at League for years, and that is a great place to stay. Others feel the pull of the bigger events. This lesson maps the whole path so you can choose how far to go.
 
 ## Formats: which cards are allowed
 
@@ -21,7 +23,7 @@ At home you can play any cards you both agree on. Sanctioned events use a **form
 
 Ask your store which regulation marks are legal right now. <!-- VERIFY: the regulation marks legal in Standard this season and the next rotation date. -->
 
-New sets join Standard a short time after release. For **Mega Evolution: Delta Reign**, out November 6, 2026, Play! Pokémon posted a rules announcement that takes effect November 20, 2026, with no new cards banned in either format. <!-- VERIFY: the Delta Reign release date and the November 20 announcement with its no-ban detail (read by the writer on pokemon.com sites the fact check could not open), and the date Delta Reign becomes legal for sanctioned Standard play. -->
+New sets join Standard a short time after release: the tournament rules make new cards legal on the second Friday after the set's US release. For **Mega Evolution: Delta Reign**, out November 6, 2026, that points to November 20, 2026. Check the official banned list whenever a set arrives. <!-- VERIFY: the Delta Reign legal date (November 20, 2026, worked out from the December 2024 rules handbook's second-Friday rule) and the writer's report that the Delta Reign rules announcement banned no new cards, on the official Play! Pokémon rules pages, which the fact check could not open. -->
 
 ## Age divisions
 
@@ -51,15 +53,15 @@ The official [Championship Series site](https://championships.pokemon.com/en-us/
 
 ## What changes at a tournament
 
-- **You need a Play! Pokémon Player ID.** Lesson 6 covers it.
+- **You need a Play! Pokémon Player ID.** The [League night lesson](/academy/pokemon-tcg/pokemon-league-first-night/) covers it.
 - **You write a deck list.** Every card in your 60-card deck, submitted before play. Official deck list sheets are on the Play! Pokémon documents page.
 - **Your deck must be legal** in the event's format, card by card.
 - **Rounds are timed,** and you play several rounds against different opponents.
-- **Judges handle rules questions.** Raise your hand and ask. It is what they are there for.
+- **Judges handle rules questions.** Raise your hand and ask. It is what they are there for. The [tournament rules lesson](/academy/pokemon-tcg/pokemon-tcg-tournament-rules/) covers time, ties, and deck lists in detail.
 
 Read the Play! Pokémon Standards of Conduct before your first event. It sets the tone for every sanctioned table.
 
-## Getting ready for your first League Challenge
+## A quick checklist before any event
 
 1. **Play the same deck for a few weeks.** Knowing your deck beats a stronger deck you have never played.
 2. **Check legality.** Regulation marks first, then the banned list.

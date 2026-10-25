@@ -2,13 +2,14 @@
 title: "The Pandemic Midgame: Reading the Infection Deck"
 description: "Pandemic midgame strategy: read the Infection discard pile, time the next Epidemic from the Player deck, balance cures against cubes, and use Event cards well."
 course: pandemic
-order: 5
+order: 8
+level: 2
 emailSubject: "The pile that tells you where Pandemic strikes next"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "The Infection discard pile is a map of the future. After each Epidemic, those exact cities come back first, so the team that reads the pile knows where to spend its actions."
 tryThis: "At the next Epidemic in your game, have one player read the Infection discard pile aloud before the shuffle. Then treat or guard any city on that list with 3 cubes."
-nextTeaser: "Next, the endgame math: counting the Player deck down to your last turn, and knowing when a cure is still possible."
+nextTeaser: "Next, card flow: how to plan Share Knowledge a turn ahead, pick a collector for each color, and stop the hand limit from eating your cures."
 ---
 After the first Epidemic, Pandemic changes. The opening was about defusing the setup cities. The midgame is about tempo: every action either buys time or moves the team toward a cure, and you never have enough of either. The teams that win are the ones that know which cities are coming next.
 

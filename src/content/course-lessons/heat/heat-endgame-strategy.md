@@ -2,13 +2,14 @@
 title: "Heat Endgame: The Final Lap and Championship Math"
 description: "Heat: Pedal to the Metal endgame strategy: the finish line rules, spending your last Heat, planning the final lap backward, and the math of Championship points."
 course: heat
-order: 6
+order: 11
+level: 2
 emailSubject: "Empty the engine on the last lap"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "On the final lap, Heat left in your Engine is speed you never used. Plan the last few rounds backward from the finish line, and aim to cross it with nothing left."
 tryThis: "As you start the final lap of your next race, count your Heat and the corners left. Give each corner a Heat budget before you play a card, and stick to it."
-nextTeaser: "Next, player counts, variants, and expansions: Legends, Garage upgrades, weather, the full Championship, and what the expansion boxes add."
+nextTeaser: "Level 3 opens with the odds: what a Boost or a Stress card is likely to add, and how much Heat a risky corner really costs on average."
 ---
 The final lap is where Heat races are won and lost. Drivers who were cautious all race suddenly have a full Engine and nothing to spend it on. Drivers who were reckless find a tight corner between them and the line with no Heat to pay for it. Both problems can be solved before the last lap begins, with a little counting.
 
@@ -72,4 +73,4 @@ The season winner has the most Championship points. Ties go to whoever placed be
 3. Will any Heat be left in my Engine at the finish? If so, where can I spend it?
 4. Could a rival finish in the same round, and how deep past the line do I need to be?
 
-[Lesson 7](/academy/heat/heat-expansions/) covers the full Championship setup, along with the other modules in the box.
+[The modules lesson](/academy/heat/heat-expansions/) covers the full Championship setup, along with the other modules in the box.

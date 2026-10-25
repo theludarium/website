@@ -3,12 +3,13 @@ title: "How to Play Ark Nova"
 description: "How to play Ark Nova: setup, the five action cards and their strength, breaks, appeal and conservation scoring, plus a short script for teaching new players."
 course: ark-nova
 order: 1
+level: 0
 emailSubject: "Ark Nova, one action card at a time"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Every turn you use one of five action cards, and the slot it sits in sets its strength. You grow appeal and conservation on two tracks that run toward each other, and the game ends when they meet."
 tryThis: "Play your first game on Map A with the official starting decks, a free PDF on Capstone's Ark Nova page, so nobody spends twenty minutes choosing 4 cards out of 8."
-nextTeaser: "Next, the action cards up close: how the row moves, what each slot buys you, and how to plan two turns ahead."
+nextTeaser: "Next, the fifteen-minute teach: a host script in the order you say it, what to leave out, and how to coach a first game."
 ---
 Ark Nova is a game about building a modern zoo. You build enclosures, bring in animals, hire sponsors, and support conservation projects around the world. Every turn is one action, chosen from a row of five cards. Underneath the animals sits a clever timing puzzle.
 
@@ -54,7 +55,7 @@ On side I:
 - **Association.** Send a worker to one task whose value is no higher than the strength: 2 reputation (value 2), a partner zoo (3), a university (4), or a conservation project (5). If one of your workers is already on that task, it takes two.
 - **Sponsors.** Play 1 sponsor card with a level no higher than the strength, or move the Break token that many spaces and take that much money.
 
-During the game you can flip some action cards to a stronger side II. The next lesson covers which ones to choose.
+During the game you can flip some action cards to a stronger side II. The [action cards lesson](/academy/ark-nova/ark-nova-action-cards/) covers which ones to choose.
 
 ## What happens at a break?
 
@@ -82,6 +83,6 @@ Ark Nova has a lot of icons, so teach the rhythm and let the cards explain thems
 3. **The five actions.** One sentence each, pointing at each card. Animals first; it is the fun part.
 4. **Money.** "You get paid at breaks, and more appeal means more money."
 
-Leave out the side II details, donations, releasing animals, and the Final Scoring card discard. Teach each when it comes up. Our guide on [how to teach any board game](/articles/how-to-teach-a-board-game/) covers the general method.
+Leave out the side II details, donations, releasing animals, and the Final Scoring card discard. Teach each when it comes up. The [next lesson](/academy/ark-nova/how-to-teach-ark-nova/) turns this into a full host script, and our guide on [how to teach any board game](/articles/how-to-teach-a-board-game/) covers the general method.
 
 <!-- AT OUR TABLE: one line on how long Levi's real Ark Nova teach takes and the one rule new players most often forget. -->

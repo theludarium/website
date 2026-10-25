@@ -3,6 +3,7 @@ title: "How to Start Playing Disney Lorcana: Your First Product"
 description: "How to start playing Disney Lorcana: why the 2-Player Starter Set is the best first buy, which free tools to try, and which shiny boxes beginners can skip."
 course: lorcana
 order: 1
+level: 0
 emailSubject: "Before you buy a single Lorcana pack"
 pubDate: 2026-10-24
 draft: false
@@ -58,7 +59,7 @@ Three ways to try Lorcana before you spend much:
 
 ## What to skip for now
 
-**Booster packs as a way to build a deck.** Each pack is random. Open them for fun, not as a plan. Lesson 5 shows how to add cards on purpose.
+**Booster packs as a way to build a deck.** Each pack is random. Open them for fun, not as a plan. The [upgrades lesson](/academy/lorcana/lorcana-deck-upgrades/) shows how to add cards on purpose.
 
 **Illumineer's Trove boxes.** The Hyperia City trove holds 8 booster packs and damage dice in a full art box. It makes a lovely gift for someone who already plays, and a good kit for a sealed game at home. It is not a first deck.
 
@@ -78,6 +79,6 @@ If you are unsure, buy for playing first. A kid who knows the game gets more joy
 
 ## Keep the first purchase small
 
-Whatever you choose, stop there for a few weeks. Play both decks until everyone knows them. The upgrades in lesson 5 make far more sense once you know which cards you wish you had.
+Whatever you choose, stop there for a few weeks. Play both decks until everyone knows them. The upgrades in Level 1 make far more sense once you know which cards you wish you had.
 
 If you are in central Indiana and want to see the game played before you buy, our list of [Indianapolis game nights](/articles/indianapolis-game-nights/) shows a weekly Lorcana night downtown.

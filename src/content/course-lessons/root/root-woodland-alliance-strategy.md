@@ -2,7 +2,8 @@
 title: "Root Woodland Alliance Strategy: Sympathy, Outrage, and Revolt"
 description: "Root Woodland Alliance strategy: spreading sympathy, gathering supporters through Outrage, timing a revolt, training officers, and keeping bases on the map."
 course: root
-order: 4
+order: 6
+level: 1
 emailSubject: "Slow, quiet, then everywhere"
 pubDate: 2026-10-24
 draft: false

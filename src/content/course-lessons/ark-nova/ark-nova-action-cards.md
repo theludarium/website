@@ -2,7 +2,8 @@
 title: "Ark Nova Action Cards: Rotation, Strength, and Upgrades"
 description: "Ark Nova action card strategy: how the row rotates, what each slot buys on side I, when to spend X-tokens, which upgrades come first, and how to plan ahead."
 course: ark-nova
-order: 2
+order: 5
+level: 1
 emailSubject: "Your action row is a clock"
 pubDate: 2026-10-24
 draft: false
@@ -62,7 +63,7 @@ You get four chances to flip a card to side II: reaching 2 on the Conservation t
 
 What each upgrade adds:
 
-- **Animals II:** play animals from the display within your reputation range, gain 1 reputation at strength 5, and play animals that require the upgrade. It also plays an animal from slot 1.
+- **Animals II:** play animals from the display within your reputation range, gain 1 reputation at strength 5, and play animals that require the upgrade. It also plays an animal from slot 1. <!-- VERIFY: check the Animals II table on the card for the number of animals at each strength, including slot 1 and slot 4. -->
 - **Cards II:** draw from the display within your reputation range, snap from strength 3, and push reputation to 10 and beyond.
 - **Build II:** several different buildings in one action, the Reptile House and Large Bird Aviary, and the spaces marked for upgraded builders.
 - **Association II:** several different tasks in one action up to the strength, one donation for conservation, and a third and fourth partner zoo.
@@ -82,6 +83,6 @@ Before you act, picture the row after this turn and after the next one. If the s
 
 ## Cards that move your row
 
-A few animal abilities rearrange the row. **Clever** lets you put any action card on slot 1 after your action. **Boost** puts a named card on slot 1 or 5. **Multiplier** tokens let you do an action twice. Rival animals can hit your row too: **Constriction** puts tokens on your highest slots that cut those actions by 2 strength, and **Venom** puts tokens on your lowest slots and charges you 2 money at the end of any turn where you did not clear one. Lesson 7 covers how to play around them.
+A few animal abilities rearrange the row. **Clever** lets you put any action card on slot 1 after your action. **Boost** puts a named card on slot 1 or 5. **Multiplier** tokens let you do an action twice. Rival animals can hit your row too: **Constriction** puts tokens on your highest slots that cut those actions by 2 strength, and **Venom** puts tokens on your lowest slots and charges you 2 money at the end of any turn where you did not clear one. The [competitive play lesson](/academy/ark-nova/ark-nova-competitive-play/) covers how to play around them.
 
 <!-- AT OUR TABLE: one line on the row-planning habit that helped Levi most, or the upgrade he flips first and why. -->

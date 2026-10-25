@@ -2,12 +2,14 @@
 title: "Competitive Castles of Burgundy: Tournaments and Online Play"
 description: "Competitive Castles of Burgundy: the World Boardgaming Championships event, the World Series of Board Gaming, ranked play on Board Game Arena, and local games."
 course: castles-of-burgundy
-order: 8
+order: 20
+level: 5
 emailSubject: "Where Castles of Burgundy players go to compete"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Competitive Castles of Burgundy is the game you already know, played at four, on a clock, often on a duchy you did not choose. The skills that win are the ones this course has been building."
 tryThis: "Play five online games this month with identical random duchies, and after each one compare your score with the winner's. The gap is the clearest measure of how your play is improving."
+nextTeaser: "Next, studying the game online: ranked play, replays, and how to learn from the games of stronger players."
 ---
 The Castles of Burgundy looks like a quiet game of building your own board, and it is one. It is also a game people travel to compete in, with a long-running championship at the World Boardgaming Championships, a ring event at the World Series of Board Gaming, and a busy ranked scene online. You do not need to enter any of them. But knowing how competitive play works sharpens how you play at home.
 
@@ -80,4 +82,4 @@ If you are near Indianapolis, join the [Indianapolis list](/lounges/indianapolis
 - **Play on a clock** sometimes. A time limit forces you to plan during other players' turns.
 - **Review your losses.** Which region did you fail to close? Which tile did a rival take first, and could a ship have stopped it?
 
-That is the end of the course. You now know how to play, teach, open, run a midgame engine, count the endgame, choose expansions, and find a tournament. The game is the reason. The people across the table are the point.
+Level 4 covered the table skills: [reading the table](/academy/castles-of-burgundy/castles-of-burgundy-reading-the-table/), [playing on a clock](/academy/castles-of-burgundy/castles-of-burgundy-playing-on-a-clock/), and [playing to win a heat](/academy/castles-of-burgundy/castles-of-burgundy-playing-to-win/). The last two lessons turn this map into a plan: first how to study the game online, then a six-week practice plan for your first event.

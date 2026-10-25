@@ -2,14 +2,16 @@
 title: "Competitive One Piece: From Store Events to Worlds"
 description: "The One Piece Card Game competitive path: Store Championships, Treasure Cups, Regionals, Finals, and the World Championship, plus how to find good local play."
 course: one-piece-card-game
-order: 8
+order: 20
+level: 5
 emailSubject: "Yes, there is a One Piece world championship"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Competitive One Piece is a ladder with a step for every level of interest. Most players stay happily on the first rung, and the ones who climb do it by playing one deck many times."
 tryThis: "Pick one deck and play it at three store events in a row. After each event, write down the one game you lost and the turn where it turned."
+nextTeaser: "Next, your first Regional: registration, deck lists, a long day of Swiss rounds, and what changes if you make the top cut."
 ---
-You have a deck, you have played a store event, and you might be wondering how far this goes. The answer: all the way to a World Championship in Japan. You do not need to aim there to enjoy the game. But knowing the ladder helps you pick the next step that fits you.
+Welcome to Level 5. You have a deck you know, a practice habit, and a few store events behind you, and you might be wondering how far this goes. The answer: all the way to a World Championship in Japan. You do not need to aim there to enjoy the game. But knowing the ladder helps you pick the next step that fits you.
 
 ## The three levels
 
@@ -55,6 +57,8 @@ For players near Indianapolis, two recent dates stand out on Bandai's [Regionals
 
 ## How to practice like a competitor
 
+The [six-week practice plan](/academy/one-piece-card-game/one-piece-card-game-tournament-practice/) at Level 4 turns these habits into a schedule. In short:
+
 - **Play one deck.** Dozens of games with one Leader teach you more than a few games with many.
 - **Practice on a clock.** A 35-minute game goes faster than it sounds. Learn to make routine choices quickly so you have time for the hard ones.
 - **Review your losses.** Where did you take damage you could have countered? When did you rest a Character and lose it?
@@ -73,6 +77,6 @@ If you are near Indianapolis, browse [Indianapolis board game stores](/articles/
 
 <!-- AT OUR TABLE: one line on which kind of event Levi would suggest after a new player's first three store nights. -->
 
-## The end of the course
+## Where this level goes
 
-You now know how to pick a starter, play a turn, read a card, teach a friend, upgrade on a budget, play a store event, build a sealed deck, and find the next step. Whether you stop at Friday nights or chase an invite, the game is the same: a Leader, a crew, and a person across the table. The game is the reason. The people are the point.
+The rest of Level 5 follows the ladder upward. The next lesson walks through a Regional from registration to the top cut. The last one covers what keeps a competitive player sharp from year to year: new sets, the yearly rotation, and the banned list.

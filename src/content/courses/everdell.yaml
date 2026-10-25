@@ -18,8 +18,29 @@ audience:
   - "Hosts who teach Everdell to family, friends, or a new group."
   - "Players who finish autumn with a half-built city and want to know why."
   - "Anyone curious about solo play, expansions, and tournaments."
-afterLesson3: "Teach and play a clean game of Everdell, with the seasons, free Critters, the hand limit, and Events done right, and skip the slips most new tables make."
-afterLesson8: "Plan your winter and spring, time your engine through summer, count every point in autumn, pick an expansion, and find a tournament or online table."
+levels:
+  - level: 0
+    name: "Sprout"
+    label: "Learn to play"
+    outcome: "Set up, teach, and finish a game of Everdell, and read any card at a glance, without opening the rulebook."
+  - level: 1
+    name: "Forager"
+    label: "Beginner"
+    outcome: "Open with green cards, make every worker pay for a card you can name, and claim basic Events before anyone else."
+  - level: 2
+    name: "Carpenter"
+    label: "Intermediate"
+    outcome: "Make summer pay with combos and discounts, fill all 15 spaces on purpose, and count your score before autumn ends."
+  - level: 3
+    name: "Steward"
+    label: "Advanced"
+    outcome: "Pick a scoring path from your opening, judge what each city space is worth, time every season change, and win the two-player game."
+  - level: 4
+    name: "Elder"
+    label: "Tournament ready"
+    outcome: "Play a four-player base game inside two hours, score it cleanly with a checker, and train for the WBC Everdell event."
+afterLesson3: "Set up, teach, and play a clean game of Everdell, and read every part of a card, from its cost to the Critter it lets in for free."
+afterLesson8: "Skip the common slips, open with green cards, make each worker pay for a card, race the table for Events, and make summer pay with blue cards and Destinations."
 faq:
   - q: "How many cards can you have in your city in Everdell?"
     a: "Fifteen. Each Critter or Construction takes one space. Events do not count toward the limit, the Wanderer takes no space, and a Harvester and Gatherer can share one space."

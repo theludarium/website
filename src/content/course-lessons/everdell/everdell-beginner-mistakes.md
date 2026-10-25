@@ -2,7 +2,8 @@
 title: "Your First Three Games of Everdell"
 description: "Everdell beginner mistakes, from rules slips like summer Production and the hand limit to strategy traps like hoarded resources and a full city, with fixes."
 course: everdell
-order: 3
+order: 4
+level: 1
 emailSubject: "The slips every new Everdell table makes"
 pubDate: 2026-10-24
 draft: false

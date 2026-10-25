@@ -3,12 +3,13 @@ title: "How to Teach Dominion"
 description: "How to teach Dominion in ten minutes: a host script in the order you say it, a demo turn, what to leave out of the first game, and a printable teach sheet."
 course: dominion
 order: 2
+level: 0
 emailSubject: "Teach Dominion in ten minutes flat"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Teach the loop, not the cards. Once people see a card go from the Supply to the discard pile and come back on a shuffle, the ten Kingdom cards explain themselves."
 tryThis: "Print the teach sheet, set up the First Game kingdom before anyone sits down, and play one demo turn from a real hand before you explain a single Kingdom card."
-nextTeaser: "Next, your first three games. We cover the rules slips and strategy traps almost every new table falls into, so you can spot them early."
+nextTeaser: "Next, the last piece of Level 0: the ten First Game cards one by one, what each does, and the rulings that trip up new tables."
 ---
 Dominion has a reputation as a game with a lot of reading. It is not. Most of the reading is on the cards, and the cards stay on the table where everyone can see them. The rules underneath are short: draw five, play, buy one, discard, draw five.
 

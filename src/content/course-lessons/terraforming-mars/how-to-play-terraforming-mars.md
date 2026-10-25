@@ -3,6 +3,7 @@ title: "How to Play Terraforming Mars"
 description: "How to play Terraforming Mars: setup, the four phases of a generation, your seven actions, tiles, milestones and awards, and the final scoring, in plain words."
 course: terraforming-mars
 order: 1
+level: 0
 emailSubject: "Terraforming Mars, minus the rulebook fog"
 pubDate: 2026-10-24
 draft: false
@@ -32,7 +33,7 @@ When all three parameters reach their goals, the game ends after that generation
 
 1. Put the board in the middle. Stack the 9 ocean tiles on their space. Put white markers on 0% oxygen and -30 °C, and the generation marker on 1 on the TR track.
 2. Put the other tiles and the resource cubes where everyone can reach them.
-3. Remove the Corporate Era cards, marked with a small red and white icon in the lower left corner. They make a longer game, covered in [lesson 7](/academy/terraforming-mars/terraforming-mars-expansions/). Shuffle the project cards and leave room for a discard pile.
+3. Remove the Corporate Era cards, marked with a small red and white icon in the lower left corner. They make a longer game, covered in the [variants and expansions lesson](/academy/terraforming-mars/terraforming-mars-expansions/). Shuffle the project cards and leave room for a discard pile.
 4. The player who most recently won a game of Terraforming Mars takes the first player marker.
 5. Each player takes a player board and a color, marks 1 production on all six tracks, and puts a marker on 20 on the TR track.
 6. **New players** each take a Beginner Corporation: 42 M€ (megacredits, the money) and 10 project cards, free.

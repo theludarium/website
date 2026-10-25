@@ -2,13 +2,14 @@
 title: "Splendor Player Counts, Variants, and Expansions"
 description: "Splendor at 2, 3, and 4 players, the Silk Road and Sun Never Sets expansions, and when to try Splendor Duel or Splendor Marvel instead of the original game."
 course: splendor
-order: 7
+order: 6
+level: 1
 emailSubject: "Which Splendor box comes next?"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "The base game changes more than you think when the player count changes. Explore that first, then add one expansion module at a time."
 tryThis: "Play your next two games of Splendor at different player counts. Note which one your group asks for again before you buy anything new."
-nextTeaser: "Last lesson: how to compete. The official tournament format, the Splendor event at the World Boardgaming Championships, and where to find local and online play."
+nextTeaser: "Level 2 begins with the midgame: turning bonuses into points, reading what everyone else can buy, and denying without wasting turns."
 ---
 Splendor is a small game that has grown a family: two expansion boxes, a two-player version, and a Marvel edition. Each is good. None replaces the original, and the original changes more than you might expect just by changing how many people sit down.
 
@@ -30,7 +31,7 @@ If your group loves careful planning, try two. If it likes a busier table, play 
 
 ## Variants
 
-The base rulebook has no variants. Space Cowboys publishes a tournament guide that adds a 45-minute time limit for event play, and lesson 8 covers it. For more variety, the expansions are the place to look.
+The base rulebook has no variants. Space Cowboys publishes a tournament guide that adds a 45-minute time limit for event play, and the tournament lesson at Level 3 covers it. For more variety, the expansions are the place to look.
 
 Both expansion boxes hold two modules each. You can play any module alone with the base game, or combine them.
 

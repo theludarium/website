@@ -3,6 +3,7 @@ title: "How to Play Sky Team"
 description: "How to play Sky Team: setup, the silent dice round, what each cockpit zone does, coffee and rerolls, and the four conditions for a safe landing, in plain words."
 course: sky-team
 order: 1
+level: 0
 emailSubject: "Two pilots, eight dice, no talking"
 pubDate: 2026-10-24
 draft: false

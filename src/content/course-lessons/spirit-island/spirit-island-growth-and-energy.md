@@ -2,7 +2,8 @@
 title: "Spirit Island Growth, Energy, and Card Plays"
 description: "Spirit Island Growth and Energy: choosing Growth options, which Presence Track to empty first, Reclaim timing, Minor or Major Powers, and using Elements."
 course: spirit-island
-order: 4
+order: 6
+level: 1
 emailSubject: "Energy or Card Plays first?"
 pubDate: 2026-10-24
 draft: false

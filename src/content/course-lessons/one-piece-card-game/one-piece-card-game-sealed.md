@@ -2,13 +2,14 @@
 title: "One Piece Release Events and Sealed: Build From Six Packs"
 description: "How One Piece Card Game sealed works at a release event: six packs, your own Leader, a 40-card deck in any colors, and a simple plan to build a deck that wins."
 course: one-piece-card-game
-order: 7
+order: 12
+level: 2
 emailSubject: "Six packs, one Leader, forty cards"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Sealed rewards a deck that does the basics well: enough cheap Characters, plenty of Counters, a way to remove threats, and a Leader whose text helps rather than limits."
 tryThis: "Before your first sealed event, pick the Leader you will bring and read its text twice. Write down which colors, types, or costs it cares about, so you know what to look for when you open packs."
-nextTeaser: "Last lesson: what comes next. The path from store events to Regionals and the World Championship, and how to find good local play."
+nextTeaser: "Welcome to Level 3 next: attack math. How many Counters an attack forces, and how to count whether your turn is lethal."
 ---
 When a new set comes out, stores hold events where you play with the new cards before most people have seen them. Some of those events are **sealed**: you open packs at the table and build a deck from only what you opened. It is the most level playing field in the game. Nobody brings a finished deck, so a new player and a veteran start the night with the same kind of pile.
 
@@ -67,4 +68,4 @@ Bandai's tournament rules also list a **draft** format: players get six booster 
 
 ## After the event
 
-You will walk home with a pile of new cards. Look through them with your constructed deck in mind. A sealed night often turns up the one or two singles your deck was missing, which is the most fun way to make the upgrades from lesson 5.
+You will walk home with a pile of new cards. Look through them with your constructed deck in mind. A sealed night often turns up the one or two singles your deck was missing, which is the most fun way to make the [budget upgrades](/academy/one-piece-card-game/one-piece-card-game-deck-upgrades/) from Level 1.

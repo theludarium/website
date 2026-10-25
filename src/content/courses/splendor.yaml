@@ -18,8 +18,25 @@ audience:
   - "Hosts who teach Splendor to family, friends, or a new group."
   - "Players who build a big engine and still lose the race to 15."
   - "Anyone curious about expansions, Splendor Duel, and tournament play."
+levels:
+  - level: 0
+    name: "Prospector"
+    label: "Learn to play"
+    outcome: "Set up, teach, and play a clean game, with no slips on gems, Gold, nobles, or the final round."
+  - level: 1
+    name: "Gem Cutter"
+    label: "Beginner"
+    outcome: "Open from the setup with two or three target colors, reserve and spend Gold on purpose, and pick the right player count for your group."
+  - level: 2
+    name: "Jeweler"
+    label: "Intermediate"
+    outcome: "Read every player's next buy, choose a noble race you can win, count the finish to the turn, and hold your own in a two-player duel."
+  - level: 3
+    name: "Merchant Prince"
+    label: "Expert"
+    outcome: "Plan from what is left in the decks, play a clocked game under the official tournament guide, and train toward a faster finish."
 afterLesson3: "Teach and play a clean game of Splendor, with no rules slips on gems, gold, nobles, or the final round."
-afterLesson8: "Plan an opening from the setup, read the table in the midgame, time the finish to the turn, choose expansions, and find a tournament or online rating to chase."
+afterLesson8: "Plan an opening from the setup, reserve and spend Gold on purpose, choose a player count or expansion, read the table in the midgame, and pick a noble race you can win."
 faq:
   - q: "Can you take two gems of the same color in Splendor?"
     a: "Yes, but only if at least 4 gems of that color are in the supply before you take them. You can never take Gold this way; Gold comes only from reserving a card."

@@ -2,12 +2,14 @@
 title: "Competitive 7 Wonders and Duel: Tournaments and Local Play"
 description: "Competitive 7 Wonders and 7 Wonders Duel: how the World Boardgaming Championships events run, where to play online, and how to find opponents near you."
 course: 7-wonders
-order: 8
+order: 16
+level: 4
 emailSubject: "Yes, people play 7 Wonders for a title"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Competitive play for both games is mostly the base game, played many times against strong opponents. The World Boardgaming Championships runs events for both, and online play gets you the practice."
 tryThis: "Play ten games of 7 Wonders Duel online this month, five as first player and five as second, and note how each one ended: military, science, or points."
+nextTeaser: "Next, the tournament rules that change how you play: bidding points for a Wonder in the 7 Wonders semifinal and final, and the balanced draft in Duel."
 ---
 7 Wonders and Duel are easy to teach and quick to play, which makes them good tournament games. You can play many rounds in a day, and skill shows up over many games even when the cards are random. You do not need to win anything to enjoy competing. But knowing how tournaments run changes how you look at the game at home.
 
@@ -82,4 +84,4 @@ If you are near Indianapolis, join the [Indianapolis list](/lounges/indianapolis
 - **Duel: play both seats.** Track your results as first and second player separately.
 - **Review your losses.** In 7 Wonders, which neighbor beat you, and with what? In Duel, which pick opened the card that beat you?
 
-That is the end of the course. You can now play and teach both games, open with a plan, read your neighbors and the Duel layout, count the endgame, choose expansions, and find a tournament. The game is the reason. The people across the table are the point.
+The next two lessons go deeper: the tournament rules that change your decisions, then a practice plan that gets you from here to your first event.

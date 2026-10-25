@@ -3,12 +3,13 @@ title: "How to Teach Power Grid"
 description: "How to teach Power Grid in ten minutes: a host script in the order you say it, the loop that makes it click, what to hold back, and a printable teach sheet."
 course: power-grid
 order: 2
+level: 0
 emailSubject: "Teach Power Grid in ten minutes"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Teach the loop first: plants make power, fuel runs plants, cities pay you, money buys more of everything. Every rule after that is a detail inside the loop."
 tryThis: "Print the teach sheet, run the bank and the markets yourself in the first game, and let everyone else think only about their own company."
-nextTeaser: "Next, your first three games: the rules slips and money traps that catch almost every new Power Grid table, and how to spot them early."
+nextTeaser: "Next, the last piece of Level 0: running bureaucracy, so payouts, fuel refills, and the plant market work the way the rules intend."
 ---
 Power Grid has a reputation as a heavy game, and a slow teach makes it feel heavier. Hosts read every step of bureaucracy and every Step 3 edge case before anyone has bid on a plant. By the time the auction starts, the table has forgotten why it wants plants at all.
 

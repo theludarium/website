@@ -2,13 +2,14 @@
 title: "Terraforming Mars Player Counts, Variants, and Expansions"
 description: "Terraforming Mars player counts, solo play, Corporate Era, the draft variant, and which expansion to add first, from Prelude and Hellas & Elysium to Turmoil."
 course: terraforming-mars
-order: 7
+order: 12
+level: 3
 emailSubject: "Which Terraforming Mars expansion first?"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Grow the game in the order the rulebook hints at: base game first, then Corporate Era and the draft, then one expansion at a time, starting with Prelude."
 tryThis: "Play your next game with Corporate Era added, and the one after with the draft. Note which change your group asks to keep."
-nextTeaser: "Last lesson: how to compete. Tournament formats, the World Boardgaming Championships, and where to play online or nearby."
+nextTeaser: "Next, draft strategy: what to take, what to pass, when to deny a card, and how the cards you are passed tell you what your neighbors are building."
 ---
 Terraforming Mars grows well. The base box already holds two variants, Corporate Era and the draft, and the expansions add maps, new phases, and whole new systems. The trick is adding them one at a time, so your group always knows which change made the game better.
 

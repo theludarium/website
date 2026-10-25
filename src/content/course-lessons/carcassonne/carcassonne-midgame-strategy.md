@@ -2,13 +2,14 @@
 title: "The Carcassonne Midgame: Merges, Blocks, and Tempo"
 description: "Carcassonne midgame strategy: how to join or steal a city, defend your own, block with awkward tiles, place your first farmer, and read what every player needs."
 course: carcassonne
-order: 5
+order: 9
+level: 2
 emailSubject: "How to take a city that isn't yours"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "In the midgame, the map is shared. Every tile you place either helps you, hurts someone else, or both, so read the table before you read your tile."
 tryThis: "Before placing each tile in your next game, name out loud (or in your head) which open feature on the board each other player most wants to finish."
-nextTeaser: "Next, the endgame and scoring math: how to count farms, when to finish and when to abandon, and how to spend your last meeples."
+nextTeaser: "Next, farming in depth: how fields join and split, when a farmer pays, and how to win the biggest field on the board."
 ---
 By the middle of a Carcassonne game, the map is crowded with half-built cities, roads that wander, and monasteries with gaps around them. The opening was about your own tempo. The midgame is about everyone's. This is where Carcassonne turns from a puzzle into a contest.
 

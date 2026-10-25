@@ -2,13 +2,14 @@
 title: "Azul Endgame and Scoring Math"
 description: "Azul scoring math for the endgame: what row, column, and color bonuses cost to build, who controls the end, floor line totals, and how to play the last round."
 course: azul
-order: 6
+order: 10
+level: 2
 emailSubject: "Count the bonuses before the last round"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "The end bonuses decide close games, and each one has a price in tiles you can count. Know the price, know who can end the game, and the last round stops being a surprise."
 tryThis: "At the start of each round in your next game, check every wall for a row with 4 tiles. If one exists, play that round as if it is the last."
-nextTeaser: "Next, player counts, variants, and the Azul family: the gray side of the board, the add-ons, and which standalone Azul to try next."
+nextTeaser: "Level 3 opens with the two-player duel: judging picks by the gap, counting the picks left in a round, and steering the last forced pick to your opponent."
 ---
 Azul's final scoring is where games flip. A player who looked behind on the score track adds three column bonuses and a full color, and 31 points arrive at once. Nothing about it is hidden, though. You can count it rounds ahead, and play for it.
 

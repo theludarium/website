@@ -2,13 +2,14 @@
 title: "The Power Grid Midgame: Turn Order, Fuel, and Step 2"
 description: "Power Grid midgame strategy: use turn order as a resource, read the fuel market, time Step 2, upgrade plants within the three-plant limit, and claim the map."
 course: power-grid
-order: 5
+order: 8
+level: 2
 emailSubject: "Why second place buys cheaper coal"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "In the midgame, every choice moves you on three dials at once: turn order, fuel prices, and the map. Read all three before you bid, buy, or build."
 tryThis: "Before each fuel purchase in your next game, count how many markers of your fuel the players ahead of you in buying order can store, and buy with that number in mind."
-nextTeaser: "Next, the endgame: when Step 3 arrives, how the end trigger works, and how to count the final round so you power the most cities with money to spare."
+nextTeaser: "Next, the resource market in depth: how many markers exist, how fast each fuel comes back, and when stockpiling pays."
 ---
 By the middle of a game of Power Grid, everyone has two or three plants, a small network, and opinions about coal. The opening was about your own company. The midgame is about everyone's, because every Elektro you save comes from a choice someone else made first.
 

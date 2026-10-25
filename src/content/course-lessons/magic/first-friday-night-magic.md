@@ -2,7 +2,8 @@
 title: "Your First Magic Store Night: Academy, FNM, Commander"
 description: "Your first Magic: The Gathering store night: Magic Academy for new players, how Friday Night Magic and Commander nights run, what to bring, and table etiquette."
 course: magic
-order: 6
+order: 8
+level: 1
 emailSubject: "What to bring to your first Friday Night Magic"
 pubDate: 2026-10-24
 draft: false
@@ -32,7 +33,7 @@ They run about one to two hours, including the tutorial and games. You do not ne
 Before you go, check which format your store runs that week:
 
 - **Commander:** bring your Commander deck.
-- **Booster Draft:** bring the entry fee. The store supplies the packs, and lesson 7 covers how a draft works.
+- **Booster Draft:** bring the entry fee. The store supplies the packs, and the [prerelease lesson](/academy/magic/magic-prerelease-guide/) covers how a draft works.
 - **Standard:** you need a deck of at least 60 recent cards. As a new player, try one of the other two first.
 
 ## Commander nights

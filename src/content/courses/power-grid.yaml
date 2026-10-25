@@ -15,14 +15,39 @@ players: "2 to 6"
 playTime: "About 120 minutes"
 ages: "Ages 12 and up"
 promise: "Learn Power Grid Recharged, teach it in ten minutes, and win the auctions, fuel fights, and city races that decide who keeps the lights on."
-description: "A free Power Grid course: learn the Recharged rules, teach them in ten minutes, then master auctions, fuel, turn order, endgame math, expansions, and WBC play."
+description: "A free Power Grid course: learn the Recharged rules, teach them in ten minutes, then master auctions, fuel, turn order, endgame math, maps, and WBC play."
 audience:
   - "New players who want the five phases clear before the first auction."
   - "Hosts who teach Power Grid to a group that has never seen it."
   - "Players who keep finishing one Elektro short and want to know why."
   - "Anyone curious about expansion maps, two-player rules, and tournament play."
-afterLesson3: "Teach and play a clean game of Power Grid Recharged, without the rules slips and money traps that catch most new tables."
-afterLesson8: "Plan your first three rounds, read the fuel market and turn order in the midgame, count the final round to the Elektro, choose expansion maps, and find a tournament."
+levels:
+  - level: 0
+    name: "Lineworker"
+    label: "Learn to play"
+    outcome: "Set up, teach, and run a full game of Power Grid Recharged, bureaucracy and fuel refills included, without opening the rulebook."
+  - level: 1
+    name: "Operator"
+    label: "Beginner"
+    outcome: "Avoid the beginner traps, price any build in the right order, open with a plan, and keep cities, plants, and fuel in step."
+  - level: 2
+    name: "Engineer"
+    label: "Intermediate"
+    outcome: "Use turn order on purpose, forecast fuel prices, value plants in the auction, and choose maps and expansions for your group."
+  - level: 3
+    name: "Dispatcher"
+    label: "Advanced"
+    outcome: "Count the final round, track the plant deck to Step 3, win the two-player game, and read every rival's cash and needs."
+  - level: 4
+    name: "Director"
+    label: "Tournament ready"
+    outcome: "Play the five-player tournament table, read a new map in five minutes, and finish a clean game in under two and a half hours."
+  - level: 5
+    name: "Magnate"
+    label: "The championship path"
+    outcome: "Know how the WBC event runs, solve final-round puzzles, and follow a six-week plan into your first tournament heat."
+afterLesson3: "Teach and play a clean game of Power Grid Recharged, and run bureaucracy, payouts, and fuel refills without the rulebook."
+afterLesson8: "Avoid the beginner traps, price any build, plan your first three rounds, read the payout card, and steer the midgame with turn order and fuel."
 faq:
   - q: "What is the phase order in Power Grid?"
     a: "Every round has five phases: determine player order, auction power plants, buy resources, build, and bureaucracy. The leader goes first in the auction, but last when buying resources and building. That is the game's built-in catch-up."

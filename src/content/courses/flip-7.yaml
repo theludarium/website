@@ -1,6 +1,6 @@
 title: "One More Card"
 game: "Flip 7"
-format: teach-tonight
+format: full
 order: 152
 wave: "1"
 draft: false
@@ -11,15 +11,32 @@ rulesSource: "https://cdn.shopify.com/s/files/1/0611/3958/3198/files/25_FLIP_7_T
 players: "3 or more"
 playTime: "About 20 minutes"
 ages: "Ages 8 and up"
-promise: "Learn Flip 7 in one sitting, teach it in five minutes, and run a first game where every action card lands cleanly and the table asks for another round."
-description: "A free Flip 7 course: learn the rules, teach them in five minutes, settle Freeze, Flip Three, and Second Chance, and run a first game your table asks for again."
+promise: "Learn Flip 7, teach it in five minutes, then count your odds, aim every action card, and win the race to 200 with a plan instead of a hunch."
+description: "A free Flip 7 course: learn the rules, teach them in five minutes, then master bust odds, Freeze and Flip Three, the race to 200, editions, and where to play."
 audience:
   - "Hosts who want a quick, lively opener that teaches in five minutes."
   - "Families and big groups looking for a card game that holds a crowd."
   - "Players who keep arguing over how Flip Three and Second Chance work."
   - "Anyone who has busted on a second 12 and wondered when to stop."
-afterLesson3: "Play and score a full round of Flip 7, action cards included, without opening the rulebook."
-afterLesson8: "Teach Flip 7 in five minutes, run a smooth first game, judge your odds of busting, and find online play or a tournament table."
+levels:
+  - level: 0
+    name: "Dealer"
+    label: "Learn to play"
+    outcome: "Deal, teach, and score a full game of Flip 7, every action card included, without opening the rulebook."
+  - level: 1
+    name: "Counter"
+    label: "Beginner"
+    outcome: "Skip the first-game slips, count the cards that can bust you, and know when your modifiers say stop."
+  - level: 2
+    name: "Shark"
+    label: "Intermediate"
+    outcome: "Aim every action card, track the deck across rounds, chase the bonus only when it pays, and play the race to 200 by the gap."
+  - level: 3
+    name: "High Roller"
+    label: "Expert"
+    outcome: "Beat a benchmark in the solo challenge, hold your own in With a Vengeance, and find a tournament or a crowd to play with."
+afterLesson3: "Teach and play a clean game of Flip 7, action cards and scoring included, without the rules slips and bonus chasing that trip up new tables."
+afterLesson8: "Count your bust odds, play your modifiers, aim Freeze and Flip Three, track the deck across rounds, and know when the Flip 7 bonus is worth chasing."
 faq:
   - q: "What happens when you flip 7 in Flip 7?"
     a: "Getting seven different number cards in your row ends the round at once, for everyone. You score your cards plus a 15-point bonus. Modifier and action cards do not count toward the seven, but the 0 does."
@@ -31,8 +48,8 @@ faq:
     a: "No. The x2 doubles only the total of your number cards. Add your other modifiers after doubling, then the 15-point bonus if you flipped 7."
   - q: "How many players can play Flip 7?"
     a: "The box says 3 or more. The rulebook recommends a second deck for more than 18 players. With two or fewer, it suggests a challenge: count how many rounds it takes you to reach 200."
-  - q: "What happens if players tie at 200 or more?"
-    a: "The publisher's official FAQ says everyone, not only the tied players, keeps playing more rounds until there is one winner."
+  - q: "When should you stay in Flip 7?"
+    a: "Count the cards that can bust you: each number from 1 to 12 in your row has its value minus one copies left. In a fresh deck, staying once your row reaches about 20 to 25 points gives the best average round. Near the end, play the score gap instead."
 teachSheet:
   goal: "Have the most points when someone reaches 200, by flipping cards each round and stopping before a number repeats."
   setup:
@@ -72,3 +89,5 @@ related:
   - "luck-vs-skill-board-games"
   - "quick-board-games-under-30-minutes"
   - "party-games-for-large-groups"
+  - "board-games-under-20-dollars"
+  - "board-game-gifts-new-players-2026"

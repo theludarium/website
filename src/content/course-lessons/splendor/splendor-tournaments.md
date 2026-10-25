@@ -2,12 +2,14 @@
 title: "Competitive Splendor: Tournaments and Local Play"
 description: "Competitive Splendor: the official tournament format, the World Boardgaming Championships event, online play on Board Game Arena, and how to find local games."
 course: splendor
-order: 8
+order: 12
+level: 3
 emailSubject: "Yes, people play Splendor for a title"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Competitive Splendor is the same game you play at home, with three or four players, a clock, and the end trigger counted to the turn. The path from your table to a title is shorter than you think."
 tryThis: "Play five games this month with a 45-minute clock and three or more players, and track how many turns you take to reach 15. It is the clearest measure of how your play is improving."
+nextTeaser: "Last, a practice plan: how to train for a clocked tournament game over a month, online and across the table, and what to write on your one sheet of notes."
 ---
 Splendor looks like a quiet family game, and it is one. It is also a tournament game, with an official event format from its publisher, a long-running championship at the World Boardgaming Championships, and a busy online scene. You do not need to enter any of them. But knowing how competitive play works sharpens how you play at home.
 
@@ -70,4 +72,4 @@ If you are near Indianapolis, join the [Indianapolis list](/lounges/indianapolis
 - **Count your turns.** Track how many turns you take to reach 15. Fewer is better, and the number shows whether your opening is improving.
 - **Review your losses.** Which card did someone take before you could buy it? Which noble did you miss by one turn? Who did you let have the last turn?
 
-That is the end of the course. You now know how to play, teach, open, read the table, time the finish, choose an expansion, and find a tournament. The game is the reason. The people across the table are the point.
+You now know where competitive Splendor happens and how it is scored. The final lesson turns that into a plan for the weeks before your first event.

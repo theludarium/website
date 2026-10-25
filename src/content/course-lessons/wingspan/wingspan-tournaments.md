@@ -2,12 +2,14 @@
 title: "Competitive Wingspan: Tournaments and Online Play"
 description: "Competitive Wingspan: how tournament games run, the World Boardgaming Championships event and its four set-aside birds, online play, and finding local games."
 course: wingspan
-order: 8
+order: 17
+level: 4
 emailSubject: "Yes, there is a Wingspan championship"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Competitive Wingspan is the same game you play at home, usually at four players, with the rules for ties and set-aside cards written down in advance. The skills that win are the ones this course has built."
 tryThis: "Play three four-player games this month with the four birds the WBC sets aside removed, and record each player's score by category on the scorepad."
+nextTeaser: "Last, a practice plan: how to train for a four-player heat over the weeks before an event, online and across the table."
 ---
 Wingspan has a gentle reputation, and it earns it. It is also a game people compete at seriously, with a championship event that draws a couple of hundred players, online tournaments between conventions, and plenty of ways to play strangers from your couch. You do not need to enter any of them to enjoy them. But knowing how they work sharpens how you play at home.
 
@@ -52,7 +54,7 @@ The Boardgame Players Association, which runs the WBC, also holds online tournam
 
 ## Playing online
 
-- **[Board Game Arena](https://boardgamearena.com/gamepanel?game=wingspan)** has Wingspan in your browser, free to play against other people. It is the quickest way to get many games in.
+- **[Board Game Arena](https://boardgamearena.com/gamepanel?game=wingspan)** has Wingspan in your browser against other people. It is a Premium game there, so a free account can join tables but starting one needs a paid membership. It is the quickest way to get many games in.
 - **The digital edition by Monster Couch** runs on computers, consoles, and phones, with an AI opponent and the European, Oceania, and Asia expansions available. Stonemaier lists every platform on its [digital versions page](https://stonemaiergames.com/games/wingspan/digital-versions/).
 - **Stonemaier's [high score leaderboard](https://stonemaiergames.com/games/wingspan/leaderboard/)** posts top scores by month and player count. It is just for fun, and scores from the digital edition have appeared on it.
 
@@ -71,7 +73,7 @@ If you are near Indianapolis, join the [Indianapolis list](/lounges/indianapolis
 
 - **Play at four.** That is the tournament count, and it changes how fast the tray and feeder move.
 - **Use the green goal side.** Ranked goals and tie math are where close games are won.
-- **Fill in every scorepad row.** Birds, bonus cards, goals, eggs, food, and tucked cards. Your weakest row is your next lesson.
+- **Fill in every scorepad row.** Birds, bonus cards, goals, eggs, food, and tucked cards. Your weakest row is what to practice next.
 - **Keep spare food in round 4.** A championship was decided by it.
 
-That is the end of the course. You now know how to play, teach, open, run an engine, count the finish, choose expansions, and find a tournament. The game is the reason. The people across the table are the point.
+You now know where competitive Wingspan happens and how its rules differ from home play. The last lesson turns that into a plan: what to practice, in what order, and how to measure it.

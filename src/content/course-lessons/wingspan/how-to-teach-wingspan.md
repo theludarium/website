@@ -3,12 +3,13 @@ title: "How to Teach Wingspan"
 description: "How to teach Wingspan in ten minutes: a host script in the order you say it, what to leave out of the first game, and a printable teach sheet for the table."
 course: wingspan
 order: 2
+level: 0
 emailSubject: "Teach Wingspan in ten minutes"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Teach the player mat, not the rulebook. Once people see that each row gets stronger as birds fill it, every other rule has a place to land."
 tryThis: "Print the teach sheet, set up before anyone sits down, and stop your teach after one example of each action. Teach the rest as it comes up."
-nextTeaser: "Next, your first three games. We cover the rules slips and strategy traps most new tables run into, so you can catch them before they cost points."
+nextTeaser: "Next, the last piece of Level 0: how to read a bird card, corner by corner, so every icon on the table makes sense."
 ---
 Wingspan has a lot of small rules, and almost all of them are printed on the player mat. That is good news for a host. Hosts who read the rulebook front to back lose the table somewhere around the birdfeeder. Hosts who point at the mat and say "this row gets bigger" have the table playing in ten minutes.
 

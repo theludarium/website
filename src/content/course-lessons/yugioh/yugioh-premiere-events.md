@@ -2,13 +2,14 @@
 title: "Yu-Gi-Oh! Premiere! Events and Sealed Play: New Set Weekends"
 description: "How Yu-Gi-Oh! Premiere! events work today, the next sets on the calendar, and how to build a playable Sealed deck from a stack of fresh packs with friends."
 course: yugioh
-order: 7
+order: 12
+level: 2
 emailSubject: "New Yu-Gi-Oh! set weekend: what to expect"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "A new set weekend is about the packs and the people. Know what kind of event your store is running, and if you crack packs, decide before you open them whether you are playing or collecting."
 tryThis: "Next time you open packs with friends, build quick decks from what you pulled and play a round of Sealed Duels before anyone files a card away."
-nextTeaser: "Last lesson: the competitive path, from your store's OTS Championship to Regional Qualifiers, the YCS, and the World Championship."
+nextTeaser: "Level 3 begins with hand traps: the cards you play on your opponent's turn, and how to choose the moment to spend one."
 ---
 If you played years ago, you may remember new-set weekends where everyone opened packs and built a deck on the spot. Today's new-set events work differently, and each store runs them its own way. This lesson covers what Konami's official pages describe now, and how to get the fun of building from fresh packs anyway.
 
@@ -43,9 +44,9 @@ From Konami's booster list:
 
 ## Sealed play: build from what you open
 
-Sealed is the oldest way to play with fresh packs: everyone opens the same number of packs and builds a deck from only what they pulled. It is not an official Konami event format on the pages above, so treat it as a house game with friends, or ask your store whether it runs one.
+Sealed is the oldest way to play with fresh packs: everyone opens the same number of packs and builds a deck from only what they pulled. Konami's Tournament Policy still has rules for Sealed events: a Main Deck of at least 20 cards, and no 3-copy limit as long as every copy came from your own product. None of the Premiere! pages above run it, though, so treat it as a house game with friends, or ask your store whether it runs one.
 
-**Agree on house rules first.** A few packs rarely give anyone 40 playable cards, so pick a smaller deck minimum together, such as 20 cards. Keep the normal rules for everything else: 8000 Life Points, 5-card opening hands, the usual phases.
+**Agree on house rules first.** A few packs rarely give anyone 40 playable cards, so borrow the policy's 20-card minimum. Keep the normal rules for everything else: 8000 Life Points, 5-card opening hands, the usual phases.
 
 ## How to build a Sealed deck in ten minutes
 
@@ -64,7 +65,7 @@ Packs are fun. A few habits keep them fun:
 - **Decide before you open.** Playing or collecting? It changes what you do with the cards next.
 - **Sleeve anything valuable right away.** Pack-fresh foils scratch easily.
 - **Look up unfamiliar cards** in Konami's official card database before you trade them.
-- **Set a pack budget for the weekend,** and buy the singles you need for your deck after. Lesson 5 explains why.
+- **Set a pack budget for the weekend,** and buy the singles you need for your deck after. Lesson 8 explains why.
 
 <!-- AT OUR TABLE: one line on how Levi's group runs a pack-opening Sealed night, if they have tried it. -->
 

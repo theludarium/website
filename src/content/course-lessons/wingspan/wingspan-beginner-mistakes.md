@@ -2,7 +2,8 @@
 title: "Your First Three Games of Wingspan"
 description: "Wingspan beginner mistakes, from rules slips like wrong egg costs and missed pink powers to traps like late engines and unused eggs, and how to fix each one."
 course: wingspan
-order: 3
+order: 4
+level: 1
 emailSubject: "The mistakes every new Wingspan table makes"
 pubDate: 2026-10-24
 draft: false

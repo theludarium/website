@@ -2,7 +2,8 @@
 title: "The Terraforming Mars Midgame: Engines, Milestones, and Tempo"
 description: "Terraforming Mars midgame strategy: when to stop growing your engine, racing for milestones, which awards to fund, and how to read who wants the game to end."
 course: terraforming-mars
-order: 5
+order: 10
+level: 2
 emailSubject: "When to stop building your engine"
 pubDate: 2026-10-24
 draft: false

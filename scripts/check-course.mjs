@@ -42,8 +42,16 @@ else {
 
 const dir = `src/content/course-lessons/${slug}`;
 const files = fs.existsSync(dir) ? fs.readdirSync(dir).filter((f) => f.endsWith('.md')) : [];
-if (format && files.length !== COUNT[format]) err(`${files.length} lessons; a ${format} course has ${COUNT[format]}`);
+// A course with a level ladder (`levels:` in the YAML) has 10 to 30 lessons, every one tagged with a level.
+const levelNums = [...yaml.matchAll(/^\s*-\s*level:\s*(\d)/gm)].map((m) => Number(m[1]));
+const leveled = /^levels:/m.test(yaml);
+if (leveled) {
+  if (files.length < 10 || files.length > 30) err(`${files.length} lessons; a course with levels has 10 to 30`);
+  levelNums.forEach((n, i) => { if (n !== i) err(`levels must run 0, 1, 2 ... in order (found ${levelNums.join(', ')})`); });
+  if (levelNums.length < 3 || levelNums.length > 6) err(`${levelNums.length} levels; a course has 3 to 6`);
+} else if (format && files.length !== COUNT[format]) err(`${files.length} lessons; a ${format} course has ${COUNT[format]}`);
 const orders = new Set();
+const byOrder = [];
 for (const file of files) {
   const text = fs.readFileSync(path.join(dir, file), 'utf8');
   const fm = text.split('---')[1] ?? '';
@@ -56,11 +64,23 @@ for (const file of files) {
   const order = Number(get('order'));
   if (orders.has(order)) err(`${file}: duplicate order ${order}`);
   orders.add(order);
+  if (leveled) {
+    const lv = get('level');
+    if (lv === undefined) err(`${file}: missing level (this course has levels)`);
+    else if (!levelNums.includes(Number(lv))) err(`${file}: level ${lv} is not one of the course's levels`);
+    byOrder.push([order, Number(lv), file]);
+  }
   const words = body.replace(/<!--[\s\S]*?-->/g, ' ').replace(/<svg[\s\S]*?<\/svg>/g, ' ').replace(/<[^>]+>/g, ' ').split(/\s+/).filter(Boolean).length;
   if (format !== 'teach-tonight' && (words < 500 || words > 1200)) note(`${file}: ${words} words (aim for 600 to 900)`);
   if (/<!--\s*AT OUR TABLE/.test(body)) note(`${file}: has an AT OUR TABLE placeholder for Levi`);
   if (/<!--\s*VERIFY/.test(body)) note(`${file}: has a VERIFY marker`);
   if (/<!--\s*AFFILIATE/.test(body)) note(`${file}: has an AFFILIATE marker`);
+}
+if (leveled) {
+  byOrder.sort((a, b) => a[0] - b[0]);
+  byOrder.forEach(([o], i) => { if (o !== i + 1) err(`lesson orders must run 1 to ${byOrder.length} with no gaps (found ${o} at position ${i + 1})`); });
+  for (let i = 1; i < byOrder.length; i++) if (byOrder[i][1] < byOrder[i - 1][1]) err(`${byOrder[i][2]}: level goes down from the lesson before it`);
+  for (const n of levelNums) { const c = byOrder.filter((b) => b[1] === n).length; if (c < 2) err(`level ${n} has ${c} lessons; each level needs at least 2`); }
 }
 for (const file of [yamlPath, ...files.map((f) => path.join(dir, f))].filter((f) => fs.existsSync(f))) {
   const text = fs.readFileSync(file, 'utf8').replace(/<!--[\s\S]*?-->/g, '');

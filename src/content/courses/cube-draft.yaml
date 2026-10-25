@@ -20,7 +20,32 @@ audience:
   - "Newer players who know a little Magic and want a welcoming first draft."
   - "Collectors and tinkerers curious about building a Cube of their own."
 afterLesson3: "Explain what a Cube is, follow a draft from the first pick to the last, read every part of a card, and make sound early picks."
-afterLesson8: "Host a Cube draft night, build a solid 40-card deck, be a welcome guest at any Cube, start your own, and find drafts locally and online."
+afterLesson8: "Host a Cube draft night, build a solid 40-card deck, be a welcome guest at any Cube, dodge the classic first-draft mistakes, and choose your deck's speed on purpose."
+levels:
+  - level: 0
+    name: "Guest"
+    label: "Learn to play"
+    outcome: "Explain what a Cube is, follow a draft from the first pick to the last, read any card, and teach the draft to a friend in ten minutes."
+  - level: 1
+    name: "Drafter"
+    label: "Beginner"
+    outcome: "Build a two-color, 40-card deck that casts its spells on time, dodge the classic first-draft mistakes, and choose your deck's speed on purpose."
+  - level: 2
+    name: "Reader"
+    label: "Intermediate"
+    outcome: "Read signals from what passes and what wheels, rank picks by the job they do, build a mana base by the numbers, and win the long games."
+  - level: 3
+    name: "Strategist"
+    label: "Advanced"
+    outcome: "Draft aggro and control on purpose, adjust your picks for two to seven drafters, and keep your discipline in a high-power Cube."
+  - level: 4
+    name: "Curator"
+    label: "Expert"
+    outcome: "Build and balance a Cube of your own, improve it with real draft data, and host a regular night people come back to."
+  - level: 5
+    name: "Keeper"
+    label: "Mastery"
+    outcome: "Give your Cube an identity of its own, sharpen your drafting with a practice plan, and grow the community around the box."
 faq:
   - q: "What is a Cube draft in Magic: The Gathering?"
     a: "A Cube is a set of hand-picked Magic cards, usually 360 or more, that one owner keeps for drafting. Players deal it into packs of 15, draft them like booster packs, build 40-card decks, and play. At the end of the night, every card goes back in the box."
@@ -33,7 +58,7 @@ faq:
   - q: "Can you Cube draft with fewer than eight players?"
     a: "Yes. Four to seven players can draft three packs of 15 each as usual, since each pack simply comes around more often, and two players can use formats such as Winston draft or Grid draft. Eight is the classic count because 360 cards divide evenly."
   - q: "Are proxies allowed in a Cube?"
-    a: "In a casual Cube, that is the owner's call, and it should be said out loud before anyone drafts. Player-made proxies are not legal in sanctioned tournaments, and a fake made to pass as a real card is a counterfeit. Lesson 7 covers the details."
+    a: "In a casual Cube, that is the owner's call, and it should be said out loud before anyone drafts. Player-made proxies are not legal in sanctioned tournaments, and a fake made to pass as a real card is a counterfeit. The lesson on building a Cube covers the details."
 teachSheet:
   goal: "Draft a deck from one shared box of cards, then beat the other drafters with it. Nobody keeps the cards."
   setup:

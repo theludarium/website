@@ -1,6 +1,6 @@
 title: "Who Holds Tokyo"
 game: "King of Tokyo"
-format: teach-tonight
+format: full
 order: 151
 wave: "1"
 draft: false
@@ -11,15 +11,32 @@ rulesSource: "https://iellogames.com/wp-content/uploads/2021/10/KOT_Rules_EN_11-
 players: "2 to 6"
 playTime: "About 30 minutes"
 ages: "Ages 8 and up"
-promise: "Learn King of Tokyo from one printable sheet, teach it in five minutes, and run a first game your table wants to play again right away."
-description: "A free King of Tokyo course: a printable teach sheet, the rules in plain words, and a host's plan for a loud, fast first game where every Monster has a shot."
+promise: "Learn King of Tokyo from one printable sheet, teach it in five minutes, then learn when to hold Tokyo, when to run, what to buy, and how to close out a win."
+description: "A free King of Tokyo course: the rules, a five-minute teach, first-game slips, dice odds, when to hold Tokyo, kill math, big tables, and tournament play."
 audience:
   - "Hosts who want a loud, fast game they can teach in five minutes."
   - "Families with kids 8 and up who love dice, monsters, and a little friendly trash talk."
   - "Groups of up to six who want short turns and big moments."
-  - "Players who learned it once and want the Tokyo rules straight."
-afterLesson3: "Teach King of Tokyo from the sheet and play a clean game, Tokyo and Power cards included."
-afterLesson8: "Run a first game that ends in a rematch, and know where to find online opponents and tournaments."
+  - "Players who know the rules and want to know when to hold Tokyo and when to run."
+levels:
+  - level: 0
+    name: "Hatchling"
+    label: "Learn to play"
+    outcome: "Set up, teach, and play a full game, Tokyo Bay included, without opening the rulebook."
+  - level: 1
+    name: "Stomper"
+    label: "Beginner"
+    outcome: "Play a game with no rules slips, open with a plan, and buy Power cards that pay you back."
+  - level: 2
+    name: "Brawler"
+    label: "Intermediate"
+    outcome: "Keep the right dice, hold or Yield Tokyo on purpose, and count the knockout before you roll."
+  - level: 3
+    name: "Titan"
+    label: "Expert"
+    outcome: "Steer a table of five or six, price every card in the row, pick expansions, and sit down at a tournament table."
+afterLesson3: "Teach King of Tokyo from the sheet and play a clean first game, entering, holding, and leaving Tokyo by the rules."
+afterLesson8: "Skip the common rules slips, open with a plan, buy Power cards that pay, keep the right dice, and hold or Yield Tokyo on purpose."
 faq:
   - q: "Can you heal while you are in Tokyo?"
     a: "No. Heal results do nothing while you are in Tokyo, though Power cards can still give you Life. Outside Tokyo, each Heal result gives you 1 Life, up to your maximum of 10."
@@ -74,3 +91,4 @@ related:
   - "euro-games-vs-ameritrash"
   - "ludarium-library-50-games"
   - "kids-game-afternoon-program"
+  - "analysis-paralysis-board-games"

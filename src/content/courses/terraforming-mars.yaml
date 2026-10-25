@@ -12,14 +12,39 @@ players: "1 to 5"
 playTime: "90 to 120 minutes"
 ages: "Ages 12 and up"
 promise: "Learn Terraforming Mars, teach it in ten minutes, and build a corporation that turns a frozen planet into a pile of points."
-description: "A free Terraforming Mars course: learn the rules, teach them in ten minutes, then master openings, engines, endgame math, expansions, and tournament play."
+description: "A free Terraforming Mars course in six levels: learn the rules, teach them fast, then master openings, card value, the draft, expansions, and tournament play."
 audience:
   - "New players who want the rules clear before the first card is bought."
   - "Hosts who teach Terraforming Mars to friends or a new group."
   - "Players who build a big engine and still lose by ten points."
   - "Anyone curious about Prelude, the draft, expansions, and tournaments."
-afterLesson3: "Teach and play a clean game of Terraforming Mars, without the rules slips that quietly cost new players TR, money, and points."
-afterLesson8: "Choose a corporation and opening hand, build an engine, time the end, count the score, pick expansions, and find a tournament or online table."
+levels:
+  - level: 0
+    name: "Colonist"
+    label: "Learn to play"
+    outcome: "Set up, teach, and finish a full game, reading every project card at a glance and scoring it by the rulebook."
+  - level: 1
+    name: "Pioneer"
+    label: "Beginner"
+    outcome: "Skip the classic rules slips, keep a starting hand you can afford, and know what every standard project and map space is worth."
+  - level: 2
+    name: "Engineer"
+    label: "Intermediate"
+    outcome: "Pick a strategy path that fits your cards, price any card in M€, know when to stop building, and win the last generation."
+  - level: 3
+    name: "Director"
+    label: "Advanced"
+    outcome: "Play with Corporate Era, the draft, and Prelude, use the draft and the table to your advantage, and win the two-player duel."
+  - level: 4
+    name: "Executive"
+    label: "Tournament ready"
+    outcome: "Play the tournament expansion set well: build and trade with colonies, work the Venus track, and read a new map and its milestones at setup."
+  - level: 5
+    name: "Visionary"
+    label: "The championship path"
+    outcome: "Enter a tournament knowing its format, procedures, and clock, with a practice plan that gets your game ready for it."
+afterLesson3: "Teach and play a clean game of Terraforming Mars, read any project card at a glance, and score it by the rulebook."
+afterLesson8: "Choose a corporation and opening hand, avoid the common slips, price standard projects and map spaces, and follow a strategy path that fits your cards."
 faq:
   - q: "How does Terraforming Mars end?"
     a: "The game ends when oxygen reaches 14%, the temperature reaches +8 °C, and all 9 oceans are on the map. Players finish that generation, including production. Then everyone gets one last chance to turn plants into greenery tiles, and the final scoring begins."

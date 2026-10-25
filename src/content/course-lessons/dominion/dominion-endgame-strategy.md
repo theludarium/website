@@ -2,13 +2,14 @@
 title: "Dominion Endgame and Scoring Math"
 description: "Dominion endgame strategy: when to buy Provinces and Duchies, the penultimate Province rule, three-pile endings, the tiebreaker, and how to count the score."
 course: dominion
-order: 6
+order: 11
+level: 2
 emailSubject: "Don't buy that second-to-last Province"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "The endgame is a race you can count. Know how many Provinces are left, how far ahead or behind you are, and whether your buy ends the game or hands it to someone else."
 tryThis: "In your next game, once 4 Provinces are left, say the score gap out loud before every buy, then decide between Province, Duchy, and Gold."
-nextTeaser: "Next, player counts, variants, and expansions: how the game changes from 2 to 6 players, and which expansion to try first."
+nextTeaser: "Level 3 opens with odds: the chance your key card shows up, the chance two terminals collide, and how often your deck hits $8."
 ---
 Dominion games are often decided in the last four or five turns. One player buys a Duchy where another bought a Gold. Someone ends the game on three piles while everyone else watched the Provinces. None of this is luck. The endgame runs on numbers you can see.
 

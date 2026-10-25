@@ -2,13 +2,14 @@
 title: "Dominion Openings: Your First Two Buys"
 description: "Dominion opening strategy: the 4/3 and 5/2 splits, why your first two buys collide, the best openings in the First Game kingdom, and how to read a new kingdom."
 course: dominion
-order: 4
+order: 6
+level: 1
 emailSubject: "Your first two Dominion buys, by the numbers"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Your first two turns always add up to $7, and the two cards you buy come back together on turns 3 and 4. Pick two cards that work well side by side."
 tryThis: "Before your next game starts, decide what you will buy with $4 and $3, and with $5 and $2, so your opening turns take seconds instead of minutes."
-nextTeaser: "Next, the midgame: money decks and engines, tempo, and how to read what everyone else is building."
+nextTeaser: "Next, attacks: Militia, Witch, Bandit, and Bureaucrat, what each one costs you, and how to defend."
 ---
 Dominion openings are the closest thing the game has to chess theory. Every player starts with the same ten cards, so the first two turns follow patterns you can learn once and use forever. The kingdom changes every game, but the math of the opening does not.
 
@@ -62,7 +63,7 @@ Once your group moves past the First Game set, read the ten piles before anyone 
 1. **A strong attack.** Witch, which gives every other player a Curse each time it is played, is the big one in the base set. If it is out, plan to get one early.
 2. **Trashing.** Chapel trashes up to 4 cards from your hand. Opening Chapel and Silver, then trashing Coppers and Estates hard, builds a small deck that plays its best cards every turn. It feels slow for a few turns, and that is normal.
 3. **A good $4 terminal.** Smithy, Militia, and Moneylender all pair well with Silver.
-4. **Villages and +Buy.** These matter for engines, the subject of the next lesson.
+4. **Villages and +Buy.** These matter for engines, which the midgame lesson at Level 2 takes up.
 
 If none of the first three show up, open Silver and Silver, and take a strong card at $5 when you can.
 

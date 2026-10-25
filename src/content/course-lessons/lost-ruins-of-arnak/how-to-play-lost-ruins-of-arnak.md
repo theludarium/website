@@ -3,6 +3,7 @@ title: "How to Play Lost Ruins of Arnak"
 description: "How to play Lost Ruins of Arnak: setup, the five-round flow, main and free actions, travel icons, sites and guardians, buying cards, research, and scoring."
 course: lost-ruins-of-arnak
 order: 1
+level: 0
 emailSubject: "Arnak in five rounds"
 pubDate: 2026-10-24
 draft: false

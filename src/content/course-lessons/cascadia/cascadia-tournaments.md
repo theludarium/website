@@ -2,12 +2,14 @@
 title: "Competitive Cascadia: Tournaments and Online Play"
 description: "Competitive Cascadia: how the World Boardgaming Championships event runs, tournament rules and tiebreaks, practicing with scenarios, and where to play near you."
 course: cascadia
-order: 8
+order: 17
+level: 4
 emailSubject: "Yes, there is a Cascadia tournament"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Competitive Cascadia is the same game you play at home, at a four-player table with random cards and a two-hour round. The skills that win are the ones this course covered: reading cards, counting corridors, and saving nature tokens."
 tryThis: "Play five games this month with all five scoring cards drawn at random, as tournaments do, and track your average score from game to game."
+nextTeaser: "Last, tournament strategy: how a winners-only heat changes your goals, how to use the two-hour round, and a six-week plan to get ready."
 ---
 Cascadia looks like a gentle family game, and it is one. It also has a real tournament at the World Boardgaming Championships, and a digital version where you can play people around the world. You do not need to win anything to enjoy them. But knowing they exist changes how you look at the game at home.
 
@@ -15,7 +17,7 @@ Cascadia looks like a gentle family game, and it is one. It also has a real tour
 
 The best documented tournament is the World Boardgaming Championships event. Its 2026 rules, from the [event preview](https://www.boardgamers.org/wbc26/Previews/cas.html), give a good picture of competitive play:
 
-- **The original game only.** No promo cards and no expansions.
+- **The original game and rules.** No promo cards.
 - **Random cards.** Wildlife scoring cards are drawn at random for each game. Any player at a table may ask to leave the Hawk C card, the one that scores lines of sight, out of the draw.
 - **Four-player tables** where possible, with some three-player games when the numbers require it.
 - **Two-hour rounds**, with seats and the first player set at check-in.
@@ -69,4 +71,4 @@ If you are near Indianapolis, join the [Indianapolis list](/lounges/indianapolis
 - **Run the scenarios.** The fifteen in the rulebook are drills with a clear pass line.
 - **Review the scorepad.** After each game, find the bonus you lost, the shape you left unfinished, and the nature token you spent for nothing.
 
-That is the end of the course. You can now play, teach, read any set of cards, plan an opening, work the shared display, count the endgame, choose a variant, and find a tournament. The game is the reason. The people across the table are the point.
+The last lesson turns these rules into a plan: how to play a heat you must win outright, and how to practice in the weeks before the event.

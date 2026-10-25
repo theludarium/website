@@ -2,13 +2,14 @@
 title: "Carcassonne Openings: The First Ten Turns"
 description: "Carcassonne opening strategy: where to place early meeples, why small cities beat big ones, when a monastery pays, and how to keep your meeples cycling home."
 course: carcassonne
-order: 4
+order: 6
+level: 1
 emailSubject: "Your first ten turns of Carcassonne"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "The opening is about tempo, not size. Claim features that finish fast, get your meeples home, and let the big fights come to you later."
 tryThis: "In your next game, aim to score at least two completed features in your first five turns, and note how many meeples you hold at turn ten."
-nextTeaser: "Next, the midgame: merging into cities, blocking with awkward tiles, and reading what everyone else needs."
+nextTeaser: "Next, monasteries: the six tiles that let the whole table do your building for you, if you place them at the right time."
 ---
 Carcassonne has no fixed opening the way chess does. The tiles come out in a different order every game. But the first ten turns still follow patterns, and the players who win most often treat them the same way: score early, keep meeples moving, and build a position for the fights to come.
 
@@ -48,7 +49,7 @@ Two warnings. Place it where open spaces around it are likely to fill, not on th
 
 ## Farmers in the opening
 
-Hold them. A farmer placed on turn three is one of seven meeples gone for good. In a two-player game you have more turns to recover, but in a four or five player game you take fewer turns each, so every meeple counts more.
+Hold them. A farmer placed on turn three is one of seven meeples gone for good. In a two-player game you take about 35 turns, so the six meeples you have left must cycle many times. In a four or five player game you take far fewer turns, so you run short less often, but every turn spent on a farmer is a turn not spent scoring now.
 
 The exception: a tile that places a farmer on a field already touching two or three cities that are about to close. That is rare in the first ten turns.
 
@@ -68,6 +69,6 @@ There is no perfect target. As a rough check for a four-player game, after ten t
 - Four or five meeples in your supply.
 - One feature in progress that you expect to finish soon.
 
-If you have zero meeples in your supply at turn ten, the opening got away from you. The midgame lesson shows how to recover.
+If you have zero meeples in your supply at turn ten, the opening got away from you. The [meeple economy lesson](/academy/carcassonne/carcassonne-meeple-management/) shows how to recover.
 
 For more on reading the tile mix and deciding what to chase, the [Carcassonne strategy guide](/articles/carcassonne-strategy/) has a section on tile odds.

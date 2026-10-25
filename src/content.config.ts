@@ -149,6 +149,25 @@ const courses = defineCollection({
     related: z.array(z.string()).default([]),
     /** The games the course teaches, as On the Table slugs; every course page, lesson and teach sheet carries them. */
     games,
+    /**
+     * The course's level ladder, like Catan's: Level 0 (learn to play) up to at most
+     * Level 5 (the championship path). Light games stop earlier. Each lesson names its level.
+     */
+    levels: z
+      .array(
+        z.object({
+          level: z.number().int().min(0).max(5),
+          /** The level's own name, themed to the game (Catan's are Settler to Champion). */
+          name: z.string().min(1),
+          /** Plain label: Learn to play, Beginner, Intermediate, Advanced, Tournament ready, The championship path. */
+          label: z.string().min(1),
+          /** What a reader can do after the level. */
+          outcome: z.string().min(1),
+        }),
+      )
+      .min(3)
+      .max(6)
+      .optional(),
     /** YouTube video id, once the teach video exists. */
     videoId: z.string().optional(),
     tcg: z
@@ -167,7 +186,9 @@ const courseLessons = defineCollection({
     title: z.string().min(1),
     description: description150,
     course: z.string().min(1),
-    order: z.number().int().min(1).max(8),
+    order: z.number().int().min(1).max(40),
+    /** The lesson's level, when the course has a level ladder. */
+    level: z.number().int().min(0).max(5).optional(),
     emailSubject: z.string().min(1),
     pubDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),

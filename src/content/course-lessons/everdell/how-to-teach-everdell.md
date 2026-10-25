@@ -3,12 +3,13 @@ title: "How to Teach Everdell"
 description: "How to teach Everdell in ten minutes: a host script in the order you say it, what to leave out of the first game, and a printable teach sheet for the table."
 course: everdell
 order: 2
+level: 0
 emailSubject: "Teach Everdell in ten minutes flat"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Teach the three actions and the season changes, then let the cards explain themselves. Every card's power is printed on it, so your job is the rhythm, not the card text."
 tryThis: "Print the teach sheet, set it in the middle of the table, and stop talking after your example turn. Answer everything else the moment it comes up."
-nextTeaser: "Next, your first three games: the rules slips and strategy traps nearly every new table falls into, and how to spot them early."
+nextTeaser: "Next, the last piece of Level 0: reading an Everdell card corner by corner, so every card in the Meadow makes sense at a glance."
 ---
 Everdell looks busy. There is a tree, a river, four piles of resources, eight cards in the Meadow, and Forest cards on both sides. Hosts see all that and feel they must explain every piece before anyone moves. They don't. The game has three actions and three season changes. Almost everything else is printed on a card.
 
@@ -65,7 +66,7 @@ Then the line that saves the most confusion: "We don't change seasons together. 
 
 ## Minute 10: the end, and go
 
-Say: "Autumn is the last season. When you are out of moves, you pass. Then we add up card points, point tokens, purple bonuses, and Events." Then start.
+Say: "Autumn is the last season. When you are out of moves, you pass. Then we add up card points, point tokens, purple bonuses, the autumn trail, and Events." Then start.
 
 ## Teach the rest live
 

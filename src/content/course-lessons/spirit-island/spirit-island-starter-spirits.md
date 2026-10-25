@@ -2,13 +2,14 @@
 title: "The Four Starter Spirits in Spirit Island"
 description: "Spirit Island starter Spirits: how Lightning's Swift Strike, River Surges in Sunlight, Vital Strength of the Earth, and Shadows Flicker Like Flame play."
 course: spirit-island
-order: 5
+order: 7
+level: 1
 emailSubject: "Which Spirit should you pick first?"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Each starter Spirit solves one problem very well and leaves others for its friends. Choose for what your team lacks, not for raw power, and the whole Island gets covered."
 tryThis: "Before your next game, have each player read the Play Style text on the back of their Spirit panel out loud, then agree in one sentence what each Spirit will handle."
-nextTeaser: "Next, adversaries and scenarios: what Brandenburg-Prussia, England, and Sweden change, how their levels stack, and how to climb them as a group."
+nextTeaser: "Level 2 begins with the opening: what the first three turns look like, and how to spend them so your Spirit is ready when Stage II arrives."
 ---
 The base game has eight Spirits. The rulebook singles out four as low complexity and recommends them for your first game or two: Lightning's Swift Strike, Vital Strength of the Earth, River Surges in Sunlight, and Shadows Flicker Like Flame. The box includes a Power Progression card for each of them, and the rulebook calls Shadows the trickiest of the four.
 
@@ -49,11 +50,13 @@ Vital Strength is the Island's shield. Its Special Rule gives Defend 3 in every 
 
 The rulebook names it as a Spirit that can prevent Ravages, and for that reason calls Sweden easier for it. Build Sacred Sites in the lands the Ravage card is heading for, and keep Dahan alive there: Defend protects them too, and surviving Dahan fight back. A team with Vital Strength can afford to let its damage dealers grow.
 
+<!-- VERIFY: check Vital Strength of the Earth's panel: the Special Rule (Defend 3 in each land with its Sacred Site?) and the Innate Power (Repeat a Power Card by paying its cost again, with a cost limit set by Elements?). -->
+
 ## Shadows Flicker Like Flame
 
 Shadows is fear and trickery. Its Special Rule lets it pay Energy to reach any land with Dahan, however far away, so it can show up where nobody expects. Its Innate Power, fueled by Moon and Fire, picks off Explorers and generates Fear.
 
-The rulebook calls Shadows the trickiest starter and notes that it relies on moving and destroying Explorers to stop Invader Builds. That makes it great at keeping lands clean early, and the rulebook marks England, which builds relentlessly, as harder for it. Shadows also feeds the Fear race from lesson 3, so the whole team reaches higher Terror Levels sooner.
+The rulebook calls Shadows the trickiest starter and notes that it relies on moving and destroying Explorers to stop Invader Builds. That makes it great at keeping lands clean early, and the rulebook marks England, which builds relentlessly, as harder for it. Shadows also feeds the Fear race from the Fear lesson, so the whole team reaches higher Terror Levels sooner.
 
 <!-- VERIFY: check Shadows Flicker Like Flame's panel: the Special Rule (pay 1 Energy to target a land with Dahan regardless of Range?) and the Innate Power's Moon and Fire thresholds. -->
 

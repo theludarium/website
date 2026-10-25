@@ -2,7 +2,8 @@
 title: "Ark Nova Conservation Projects: Levels, Bonuses, and Races"
 description: "Ark Nova conservation projects: base projects and project cards, which level to take, the zoo map bonuses they reveal, releases, and the track bonus races."
 course: ark-nova
-order: 4
+order: 8
+level: 2
 emailSubject: "The bottom level is not a consolation prize"
 pubDate: 2026-10-24
 draft: false
@@ -42,7 +43,7 @@ You start with one active association worker. Repeating a task you have already 
 
 More workers come from bonuses such as one option at 2 conservation, a space on the Reputation track, and animals with the Full-throated ability. Each extra worker is roughly one more task per break.
 
-On side I, project work needs Association at strength 5. Plan your row so that Association arrives at 5 right after you have the icons, which is a nice use of the row planning from lesson 2.
+On side I, project work needs Association at strength 5. Plan your row so that Association arrives at 5 right after you have the icons, which is a nice use of the row planning from the [action cards lesson](/academy/ark-nova/ark-nova-action-cards/).
 
 ## Races on the Conservation track
 

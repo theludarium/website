@@ -2,13 +2,14 @@
 title: "Everdell Openings: Winter and Spring"
 description: "Everdell opening strategy: how to spend your first two workers, why early green Production cards pay three times, free Critter pairs, and reading the Meadow."
 course: everdell
-order: 4
+order: 5
+level: 1
 emailSubject: "Why your first green card matters most"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "In Everdell, early cards are worth more than late ones, because green cards pay again every spring and autumn. Spend winter building the part of your city that keeps paying."
 tryThis: "In your next game, play at least one green Production card before you prepare for spring, and count how many times it pays out by the end."
-nextTeaser: "Next, the midgame: summer, the blue cards that reward or discount, Destinations, and reading what the rest of the table needs."
+nextTeaser: "Next, where your workers go: the basic locations, the Forest cards, and the Haven, and how to make every placement pay for a card."
 ---
 Everdell has no fixed opening. Your starting hand, the Meadow, and the Forest cards change every game. But the first two seasons still follow patterns, and they all come from one fact: a card played early works for you longer than a card played late.
 

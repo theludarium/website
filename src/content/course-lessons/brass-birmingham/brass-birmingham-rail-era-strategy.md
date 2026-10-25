@@ -2,13 +2,14 @@
 title: "Brass: Birmingham Rail Era Strategy"
 description: "Brass: Birmingham Rail Era strategy: rebuilding your network after the reset, coal for every rail, double rails with beer, stacked towns, and big late tiles."
 course: brass-birmingham
-order: 3
+order: 7
+level: 1
 emailSubject: "Every rail needs coal"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "The Rail Era starts with no links on the board and ends with the biggest scores of the game. Rebuild around coal first, then put your money into high-level tiles and your rails into towns that will be crowded with flipped industry."
 tryThis: "At the start of your next Rail Era, before your first action, trace where your first two rails will get their coal. If the answer is the market, plan a coal mine."
-nextTeaser: "Next, the logistics lesson: every rule for coal, iron, and beer in one place, including the connection rules that are easiest to get wrong."
+nextTeaser: "Level 2 opens with money: when a loan pays off, how the income track works, and how what you spend decides turn order."
 ---
 The Rail Era runs from 1830 to 1870 and has the same number of rounds as the Canal Era. Everything else gets bigger. Links cost more, tiles reach higher levels, and the final scoring counts both. The Canal Era set the table; the Rail Era is where the largest scores land.
 
@@ -57,7 +58,7 @@ The level 1 Pottery is the only level 1 tile you can still build in the Rail Era
 
 ## Pacing the era
 
-The rounds run out the same way they did in the Canal Era: once the deck is empty, every action shrinks your hand. Lesson 7 covers the final rounds in detail. For now, a rule of thumb: secure coal and build your big tiles early in the era, and leave room late for the sells and rails that score them.
+The rounds run out the same way they did in the Canal Era: once the deck is empty, every action shrinks your hand. The [endgame lesson](/academy/brass-birmingham/brass-birmingham-endgame-strategy/) in Level 4 covers the final rounds in detail. For now, a rule of thumb: secure coal and build your big tiles early in the era, and leave room late for the sells and rails that score them.
 
 <!-- AT OUR TABLE: one line on the Rail Era mistake Levi sees most often, such as a player with no coal access for their first rails. -->
 

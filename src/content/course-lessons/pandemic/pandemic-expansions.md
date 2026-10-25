@@ -2,13 +2,14 @@
 title: "Pandemic Player Counts, Variants, and Expansions"
 description: "Pandemic at 2 to 4 players, the difficulty dials in the box, free scenarios and puzzles, the three expansions, Pandemic Legacy, and the standalone spin-offs."
 course: pandemic
-order: 7
+order: 15
+level: 4
 emailSubject: "Which Pandemic box comes next?"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Turn the dials in the box before you buy anything: more Epidemics, closed hands, the free scenarios. Then add one expansion or one Legacy season at a time."
 tryThis: "Once your group wins at 4 Epidemics, play the next game at 5 with hands kept private, and notice how the conversation changes."
-nextTeaser: "Last lesson: solo play, challenge play, and how to find people to play with, including the competitive format Z-Man once ran."
+nextTeaser: "Next, the free puzzles and scenarios: set positions with one goal and four actions a turn, the best practice the game offers."
 ---
 Pandemic is a family of games, not just one box. There are expansions, Legacy campaigns, standalone versions, and free extras on the publisher's site. That is a lot to choose from. The good news: the base game has plenty of room to grow before you spend anything.
 
@@ -34,7 +35,7 @@ You have three settings before you buy anything:
 
 The [Pandemic page](https://www.zmangames.com/game/pandemic/) on Z-Man's site has free downloads beyond the rulebook:
 
-- **Official solo rules.** You lead three roles who share one hand. [Lesson 8](/academy/pandemic/pandemic-solo-and-challenges/) walks through them.
+- **Official solo rules.** You lead three roles who share one hand. The [solo and challenges lesson](/academy/pandemic/pandemic-solo-and-challenges/) walks through them.
 - **Two scenarios.** "Isolation," a four-player scenario by Matt Leacock, locks down four cities and gives each player a set role and starting cards. "Government Shutdown" is the second.
 - **Ten puzzles.** Each sets up a position for you to solve, with the solution on a later page. Some use roles from the expansions.
 

@@ -2,13 +2,14 @@
 title: "Your First Three Games of Dune: Imperium"
 description: "Dune: Imperium beginner mistakes, from rules slips like extra garrison troops and swords without troops to traps like empty decks and hoarded Intrigue."
 course: dune-imperium
-order: 3
+order: 4
+level: 1
 emailSubject: "The troop rule every new Dune table gets wrong"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Most first-game trouble comes from the Conflict: troops deployed from the wrong space, too many pulled from the garrison, or swords counted with no troops in the fight. Get the troop rules right and the rest of the game settles down."
 tryThis: "For your next three games, have each player say out loud where every deployed troop came from: recruited this turn, or one of their two from the garrison."
-nextTeaser: "Next, openings. We look at the first few rounds: picking a direction, when to buy your third Agent, and what your first cards should do."
+nextTeaser: "Next, planning a hand: which cards send Agents, which stay for your Reveal, and when to reveal early."
 ---
 Your first three games of Dune: Imperium are where habits form. Some are rules slips, played wrong because nobody checked. Others are legal plays that quietly cost points. This lesson covers both, checked against the rulebook and Dire Wolf's [official FAQ](https://d19y2ttatozxjp.cloudfront.net/pdfs/DUNE_IMPERIUM_FAQ_25-1-13.pdf), with an Uprising section at the end.
 
@@ -34,7 +35,7 @@ Your first three games of Dune: Imperium are where habits form. Some are rules s
 
 ## Combat and Intrigue slips
 
-**Handing out a third reward in a three-player game.** The third reward goes only to third place in a four-player game. With fewer players, it appears only when two players tie for second.
+**Handing out a third reward in a three-player game.** The third reward goes only to third place in a four-player game. With fewer players, it is given only when two or more players tie for second.
 
 **Playing Intrigue cards at the wrong time.** Plot cards on your own turns. Combat cards only in the Combat phase. Endgame cards at the end. Cards that trigger "when you win a Conflict" are played after you win, and the FAQ says a tie for first is not a win.
 

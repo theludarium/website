@@ -3,12 +3,13 @@ title: "How to Teach the Pokémon TCG in Ten Minutes"
 description: "How to teach the Pokémon TCG in ten minutes: a host script in the order you say it, open-hand practice games, what to leave out, and a printable teach sheet."
 course: pokemon-tcg
 order: 4
+level: 0
 emailSubject: "Teach a kid Pokémon cards in ten minutes"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Teach the turn, not the card pool. Play the first game with hands face up, talk through every choice, and let the cards teach the details as they come up."
 tryThis: "Play your next teaching game with both hands face up on the table, and stop after each attack to ask the learner what they think the other player will do next."
-nextTeaser: "Next, your first upgrades: how to improve a starter deck one card at a time, buy singles on a budget, and check that cards are legal for store play."
+nextTeaser: "Level 1 begins next: the mistakes almost every new player makes in their first ten games, and the one habit that fixes each."
 ---
 The Pokémon TCG has a reputation for being complicated. Part of that is the card pool: thousands of cards, each with its own text. But you never teach the card pool. You teach a turn, and the turn is short.
 
@@ -68,7 +69,7 @@ Flip the coin and play. These come up later, and each is easier to teach when it
 
 ## What to leave out
 
-- **Deck building.** The decks are already built. Save it for lesson 5.
+- **Deck building.** The decks are already built. Save it for the [budget upgrades lesson](/academy/pokemon-tcg/pokemon-tcg-deck-upgrades/).
 - **The mulligan rule,** unless someone has no Basic Pokémon in their opening hand.
 - **Formats, regulation marks, and tournaments.** None of it matters at the kitchen table.
 - **Every card's text in advance.** Read cards when they are played.

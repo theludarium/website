@@ -3,6 +3,7 @@ title: "What Is a Cube Draft? The Best Way to Play Magic With Friends"
 description: "What a Magic: The Gathering Cube draft is, how a Cube night runs, and why one shared box of cards is the best way to play Magic with friends, no packs needed."
 course: cube-draft
 order: 1
+level: 0
 emailSubject: "One box of cards, eight friends, no packs"
 pubDate: 2026-10-24
 draft: false
@@ -12,7 +13,7 @@ nextTeaser: "Next, how a draft works: eight seats, three packs, and the left, ri
 ---
 Most ways to play Magic: The Gathering ask each player to bring something. A deck, a collection, a budget for packs. A Cube asks for nothing. One person owns a box of cards, everyone sits down around it, and for one night the whole box belongs to the table.
 
-This course is an unofficial guide to Cube drafting. It covers how a draft works, how to read a card and make good picks, how to build a deck, how to host a night, and how to build a Cube of your own. Every lesson is free and public.
+This course is an unofficial guide to Cube drafting, built as a ladder of six levels. It starts with how a draft works, how to read a card, and how to host a night. It climbs through deckbuilding, signals, mana, and archetypes, and ends with building, curating, and running a Cube of your own, then giving it an identity and sharpening your drafting with a practice plan. Every lesson is free and public.
 
 ## What is a Cube?
 
@@ -33,7 +34,7 @@ A full night has four parts:
 3. **The games.** Two or three rounds of matches, usually best of three games.
 4. **Cleanup.** Every card goes back into the Cube.
 
-Plan on about three hours for two rounds, and closer to four for three. [Lesson 2](/academy/cube-draft/how-cube-draft-works/) walks through the draft pick by pick.
+Plan on about three hours for two rounds, and closer to four for three. [The next lesson](/academy/cube-draft/how-cube-draft-works/) walks through the draft pick by pick.
 
 ## Why is Cube the best way to play Magic with friends?
 

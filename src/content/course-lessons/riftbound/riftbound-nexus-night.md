@@ -2,19 +2,20 @@
 title: "Your First Riftbound Nexus Night"
 description: "Your first Riftbound Nexus Night: find a store event with a Riot ID, what to bring, how a casual night runs, the formats you might play, and table etiquette."
 course: riftbound
-order: 6
+order: 8
+level: 1
 emailSubject: "What to bring to your first Nexus Night"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Nexus Nights are built for learning. Bring a legal deck, say what you are doing as you do it, and ask questions; nobody expects perfect play."
 tryThis: "Find one Nexus Night within driving distance this week, register with your Riot ID, and tell the organizer it is your first time when you check in."
-nextTeaser: "Next, Pre-Rift survival: opening a sealed kit at a new set's first event and building a deck from it in under an hour."
+nextTeaser: "Level 2 begins with runes: how many you will have each turn, what recycling for power really costs, and when to hold runes up for your opponent's turn."
 ---
 Your first store event is a bigger step than your hundredth kitchen table game. New room, new people, and a quiet worry that everyone else knows something you don't. For Riftbound, the gentlest first step is a **Nexus Night**, and it was designed to be exactly that.
 
 ## What is a Nexus Night?
 
-Riot's organized play overview describes Nexus Nights as **weekly** events at local game stores, on whatever day each store picks. They are the store's regular casual night. The format is up to the store, and players can play one-on-one, two-on-two, or free-for-all. Prizes are small Nexus Night packs, which hold three cards and can include promos.
+Riot's organized play overview describes Nexus Nights as **weekly** events at local game stores, on whatever day each store picks. They are the store's regular casual night. The format is up to the store, and players can play one-on-one, two-on-two, or free-for-all. Prizes are small Nexus Night packs, which hold three cards and can include promos. <!-- VERIFY: Riot source for Nexus Night formats (one-on-one, two-on-two, free-for-all) and the three-card pack size; Riot's Unleashed Nexus Night packs post lists the card pool but not cards per pack. -->
 
 Every Riftbound event has an Organized Play Level. Nexus Nights run at **Casual**, the lowest. The Tournament Rules say that at this level the focus is on education and sportsmanship, with no priority on technically precise play. You are expected to know most of the rules, and help is part of the deal.
 

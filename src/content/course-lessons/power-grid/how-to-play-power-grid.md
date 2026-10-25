@@ -3,6 +3,7 @@ title: "How to Play Power Grid"
 description: "How to play Power Grid Recharged: setup, the five phases of a round, plant auctions, the resource market, building cities, the three steps, and who wins."
 course: power-grid
 order: 1
+level: 0
 emailSubject: "Power Grid in five phases"
 pubDate: 2026-10-24
 draft: false
@@ -12,7 +13,7 @@ nextTeaser: "Next, the ten-minute teach: a host script in the order you would sa
 ---
 Power Grid is a game about running a power company. You buy power plants at auction, buy fuel to run them, and wire cities into your network across a map. Each round, the cities you power pay you, and you spend that money to grow. Whoever powers the most cities when the game ends wins.
 
-This lesson teaches Power Grid Recharged, the current edition. 2F-Spiele publishes it in Germany as Funkenschlag, and Rio Grande Games publishes it in English. If you learned an older edition, a few rules have changed; [lesson 3](/academy/power-grid/power-grid-beginner-mistakes/) lists them.
+This lesson teaches Power Grid Recharged, the current edition. 2F-Spiele publishes it in Germany as Funkenschlag, and Rio Grande Games publishes it in English. If you learned an older edition, a few rules have changed; the [first three games lesson](/academy/power-grid/power-grid-beginner-mistakes/) lists them.
 
 ## What is in the box?
 
@@ -77,4 +78,4 @@ The refill card has a column for each step, so the market refills differently as
 
 It ends after the build phase in which someone reaches 18 cities with 2 players, 17 with 3 or 4, 15 with 5, or 14 with 6. Then comes one last bureaucracy, and the player who powers the most cities wins. Not the most connected cities: the most powered. Ties go to the most money left.
 
-Each side of the board has one special rule, and two players add a rival company. [Lesson 7](/academy/power-grid/power-grid-expansions/) covers both.
+Each side of the board has one special rule, and two players add a rival company. The [player counts and expansions lesson](/academy/power-grid/power-grid-expansions/) covers both.

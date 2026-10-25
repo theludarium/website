@@ -3,6 +3,7 @@ title: "How to Play Ticket to Ride"
 description: "How to play Ticket to Ride: setup, the three turn options, claiming routes, locomotives, destination tickets, the final round, and scoring, all in plain words."
 course: ticket-to-ride
 order: 1
+level: 0
 emailSubject: "Ticket to Ride in three choices"
 pubDate: 2026-10-24
 draft: false

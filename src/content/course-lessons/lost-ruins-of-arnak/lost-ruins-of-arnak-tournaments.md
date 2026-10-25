@@ -2,7 +2,8 @@
 title: "Competitive Arnak: Online Play and Local Tables"
 description: "Competitive Lost Ruins of Arnak: online play on Board Game Arena, the digital edition, tournaments you can run yourself, and how to find Arnak players near you."
 course: lost-ruins-of-arnak
-order: 8
+order: 17
+level: 4
 emailSubject: "Where the strongest Arnak players are"
 pubDate: 2026-10-24
 draft: false
@@ -23,9 +24,9 @@ The World Boardgaming Championships, the long-running tournament convention in P
 
 ## Board Game Arena
 
-[Board Game Arena](https://en.boardgamearena.com/gamepanel?game=arnak) has hosted Lost Ruins of Arnak since 2021. It plays in your browser for 2 to 4 players, with friends or with players from around the world.
+[Board Game Arena](https://en.boardgamearena.com/gamepanel?game=arnak) has hosted Lost Ruins of Arnak since 2021. It plays in your browser for 2 to 4 players, with friends or with players from around the world. Its game page lists a tutorial, real-time and turn-based play, and ranked games.
 
-<!-- VERIFY: confirm on Board Game Arena whether Arnak has a tutorial, real-time and turn-based modes, ranked (ELO) play, and site tournaments, then add the ones that check out. -->
+<!-- VERIFY: check whether Board Game Arena runs site tournaments for Arnak, and add them here if it does. -->
 
 There is no solo mode there, so solo practice stays on the table with the rival tiles.
 
@@ -63,4 +64,4 @@ If you are near Indianapolis, join the [Indianapolis list](/lounges/indianapolis
 - **Play the solo rival at higher difficulty.** Add red action tiles until it beats you about half the time. It is a patient sparring partner.
 - **Switch boards.** The Snake Temple side tests whether you know the game or only one layout of it.
 
-That is the end of the course. You now know how to play, teach, open, manage the midgame, count the end, choose expansions, and find stronger opponents. The game is the reason. The people across the table are the point.
+That is the end of the course. You now know how to play and teach, open and climb, keep Fear out of your deck, read the card row, count the end, predict your next hand, win the duel, beat the solo rival, choose expansions, and find stronger opponents. The game is the reason. The people across the table are the point.

@@ -3,6 +3,7 @@ title: "How to Play Dune: Imperium and Uprising"
 description: "How to play Dune: Imperium: setup, Agent turns, the Reveal turn, Conflicts and combat, Influence and Alliances, and the end, with what changes in Uprising."
 course: dune-imperium
 order: 1
+level: 0
 emailSubject: "Dune: Imperium in two kinds of turns"
 pubDate: 2026-10-24
 draft: false
@@ -12,7 +13,7 @@ nextTeaser: "Next, the ten-minute teach: a host script in the order you would sa
 ---
 Dune: Imperium is two games in one box. It is a deck builder: everyone starts with the same ten weak cards and buys better ones. It is also a worker placement game: you play those cards to send Agents to a shared board, and a space with an Agent on it is closed to everyone else. If either style is new to you, our explainers on [deck building](/articles/deck-building-games-explained/) and [worker placement](/articles/worker-placement-explained/) cover the basics.
 
-Uprising is the newer, standalone version, played the same way on a reworked board. This lesson teaches the original from the [Dune: Imperium rulebook](https://d19y2ttatozxjp.cloudfront.net/pdfs/DUNE_IMPERIUM_Rules_2020_10_26.pdf), then flags each place the [Uprising rulebook](https://d19y2ttatozxjp.cloudfront.net/pdfs/DUNE_IMPERIUM_UPRISING_Main_Rulebook_23-10-12.pdf) differs. [Lesson 7](/academy/dune-imperium/dune-imperium-uprising-and-expansions/) covers Uprising in depth. For rulings, Dire Wolf keeps an [official FAQ](https://d19y2ttatozxjp.cloudfront.net/pdfs/DUNE_IMPERIUM_FAQ_25-1-13.pdf) that covers both.
+Uprising is the newer, standalone version, played the same way on a reworked board. This lesson teaches the original from the [Dune: Imperium rulebook](https://d19y2ttatozxjp.cloudfront.net/pdfs/DUNE_IMPERIUM_Rules_2020_10_26.pdf), then flags each place the [Uprising rulebook](https://d19y2ttatozxjp.cloudfront.net/pdfs/DUNE_IMPERIUM_UPRISING_Main_Rulebook_23-10-12.pdf) differs. The [Uprising lesson](/academy/dune-imperium/dune-imperium-uprising-and-expansions/) in Level 3 covers it in depth. For rulings, Dire Wolf keeps an [official FAQ](https://d19y2ttatozxjp.cloudfront.net/pdfs/DUNE_IMPERIUM_FAQ_25-1-13.pdf) that covers both.
 
 ## How do you set up?
 

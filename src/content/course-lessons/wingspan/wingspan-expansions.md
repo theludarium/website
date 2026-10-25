@@ -2,13 +2,14 @@
 title: "Wingspan Player Counts, Variants, and Expansions"
 description: "Wingspan from solo to five players, official variants, and which expansion to add first, from the European Expansion to Oceania, Wingspan Asia, and Americas."
 course: wingspan
-order: 7
+order: 12
+level: 2
 emailSubject: "Which Wingspan expansion first?"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Learn the base game well, then add one box at a time. Each expansion changes something different, so choose the one that gives your group more of what it already enjoys."
 tryThis: "Play your next game on the other side of the goal board from the one you usually use, and ask the table afterward whether they want more competition or less."
-nextTeaser: "Last lesson: how to compete. Tournament formats, the Wingspan event at the World Boardgaming Championships, and where to play online or nearby."
+nextTeaser: "Level 3 begins with bird evaluation: how to price any bird in turns, eggs, and points, so the right card stands out in your hand."
 ---
 Wingspan has grown into a whole aviary: four expansions, a standalone small-box game, promo packs, and accessories. That is a gift and a trap. Add too much at once and a new player faces a pile of rules before the first bird lands. Add one thing at a time and the game can grow with your group for years.
 
