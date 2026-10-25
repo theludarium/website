@@ -3,6 +3,7 @@
 // catalog. Each course has its own page with its signup, so this page carries
 // no form. Lesson-based courses come from COURSES (src/lib/academy.ts); the
 // Game Shelf course is the Game Shelf article series (src/lib/game-shelf.ts).
+import fs from 'node:fs';
 import { getCollection } from 'astro:content';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import { COURSES, getAllLessons, lessonUrl } from '@/lib/academy';
@@ -21,7 +22,12 @@ interface CatalogCard {
   meta: string;
   /** The first lesson, when it has a page. */
   first?: { label: string; href: string };
+  /** Original card art at public/academy/<slug>/card.svg, shown across the top of the card. */
+  image?: string;
 }
+
+/** A course's card art, when its file exists. */
+const cardArt = (slug: string) => (fs.existsSync(`public/academy/${slug}/card.svg`) ? `/academy/${slug}/card.svg` : undefined);
 
 const lessonCourses: CatalogCard[] = await Promise.all(
   COURSES.map(async (course) => {
@@ -36,6 +42,7 @@ const lessonCourses: CatalogCard[] = await Promise.all(
       description: course.description,
       meta: `${lessons.length} lessons in six levels${live.length < lessons.length ? `. ${live.length} ready to read now, more added as they are written.` : '.'}`,
       first: first && { label: 'Read lesson one', href: lessonUrl(first) },
+      image: cardArt(course.slug),
     };
   }),
 );
@@ -55,6 +62,7 @@ const shelfCourse: CatalogCard = {
     shelfFirst && (!shelfFirst.data.draft || SHOW_DRAFTS)
       ? { label: 'Read the first article', href: articleUrl(shelfFirst) }
       : undefined,
+  image: cardArt(GAME_SHELF_COURSE.slug),
 };
 
 const gameCourses: CatalogCard[] = await Promise.all(
@@ -70,6 +78,7 @@ const gameCourses: CatalogCard[] = await Promise.all(
       description: d.description,
       meta: d.format === 'teach-tonight' ? 'A printable teach sheet and two short emails.' : `${lessons.length} lessons and a printable teach sheet.`,
       first: first && lessonHasPage(first) ? { label: 'Read lesson one', href: courseLessonUrl(first) } : undefined,
+      image: cardArt(course.id),
     };
   }),
 );
@@ -109,6 +118,7 @@ const groups = (['Board games', 'Trading card games', 'Game library'] as const)
             <div class="academy-catalog__grid">
               {group.cards.map((course) => (
                 <article class="card academy-course">
+                  {course.image && <img class="academy-course__art" src={course.image} alt="" width="640" height="360" loading="lazy" />}
                   <p class="eyebrow">
                     {course.track} &middot; Free
                   </p>
@@ -205,6 +215,17 @@ const groups = (['Board games', 'Trading card games', 'Game library'] as const)
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(min(100%, 22rem), 1fr));
     gap: var(--space-5);
+  }
+
+  .academy-course__art {
+    display: block;
+    width: calc(100% + 2 * var(--space-6));
+    max-width: none;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    margin: calc(-1 * var(--space-6)) calc(-1 * var(--space-6)) var(--space-5);
+    border-radius: calc(var(--radius-card) - 1px) calc(var(--radius-card) - 1px) 0 0;
+    object-fit: cover;
   }
 
   .academy-course h3 {

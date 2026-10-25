@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="t">
+<title id="t">An original illustration of an industrial network map: towns joined by blue canals and dark railways, with factory, mill and pottery tiles in their slots, a few link tokens, and a smoking factory chimney</title>
+<defs><radialGradient id="felt" cx="50%" cy="45%" r="75%"><stop offset="0" stop-color="#3a6e60"/><stop offset="1" stop-color="#2a5246"/></radialGradient></defs>
+<rect width="640" height="360" fill="url(#felt)"/>
+<rect x="112" y="38" width="416" height="284" rx="22" fill="#efe4cf" stroke="#f6efe3" stroke-width="3"/>
+<rect x="120" y="46" width="400" height="268" rx="16" fill="none" stroke="#b9ad9c" stroke-width="1.5"/>
+<line x1="190" y1="110" x2="320" y2="92" stroke="#3f7384" stroke-width="10" stroke-linecap="round"/>
+<line x1="190" y1="110" x2="320" y2="92" stroke="#5f93a3" stroke-width="4" stroke-linecap="round"/>
+<line x1="320" y1="92" x2="360" y2="198" stroke="#3f7384" stroke-width="10" stroke-linecap="round"/>
+<line x1="320" y1="92" x2="360" y2="198" stroke="#5f93a3" stroke-width="4" stroke-linecap="round"/>
+<line x1="232" y1="232" x2="360" y2="198" stroke="#3f7384" stroke-width="10" stroke-linecap="round"/>
+<line x1="232" y1="232" x2="360" y2="198" stroke="#5f93a3" stroke-width="4" stroke-linecap="round"/>
+<line x1="190" y1="110" x2="170" y2="282" stroke="#3f7384" stroke-width="10" stroke-linecap="round"/>
+<line x1="190" y1="110" x2="170" y2="282" stroke="#5f93a3" stroke-width="4" stroke-linecap="round"/>
+<line x1="320" y1="92" x2="452" y2="124" stroke="#2b1e16" stroke-width="9" stroke-dasharray="2 6"/>
+<line x1="320" y1="92" x2="452" y2="124" stroke="#2b1e16" stroke-width="2.5"/>
+<line x1="360" y1="198" x2="470" y2="262" stroke="#2b1e16" stroke-width="9" stroke-dasharray="2 6"/>
+<line x1="360" y1="198" x2="470" y2="262" stroke="#2b1e16" stroke-width="2.5"/>
+<line x1="452" y1="124" x2="360" y2="198" stroke="#2b1e16" stroke-width="9" stroke-dasharray="2 6"/>
+<line x1="452" y1="124" x2="360" y2="198" stroke="#2b1e16" stroke-width="2.5"/>
+<line x1="190" y1="110" x2="232" y2="232" stroke="#2b1e16" stroke-width="9" stroke-dasharray="2 6"/>
+<line x1="190" y1="110" x2="232" y2="232" stroke="#2b1e16" stroke-width="2.5"/>
+<line x1="232" y1="232" x2="170" y2="282" stroke="#2b1e16" stroke-width="9" stroke-dasharray="2 6"/>
+<line x1="232" y1="232" x2="170" y2="282" stroke="#2b1e16" stroke-width="2.5"/>
+<rect x="330.0" y="138.0" width="20" height="14" rx="4" fill="#b4623c" stroke="#2b1e16" stroke-width="1.5"/>
+<rect x="396.0" y="154.0" width="20" height="14" rx="4" fill="#7a6a8c" stroke="#2b1e16" stroke-width="1.5"/>
+<rect x="201.0" y="164.0" width="20" height="14" rx="4" fill="#b4623c" stroke="#2b1e16" stroke-width="1.5"/>
+<circle cx="190" cy="110" r="27" fill="#2b1e16" stroke="#f6efe3" stroke-width="2.5"/>
+<rect x="169" y="100" width="20" height="20" rx="3.5" fill="#b4623c" stroke="#f6efe3" stroke-width="1.5"/>
+<path d="M173,116 v-6 l4,-3 v3 l4,-3 v3 l4,-3 v9 z" fill="#2b1e16" opacity=".75"/>
+<rect x="191" y="100" width="20" height="20" rx="3.5" fill="#8e8b86" stroke="#f6efe3" stroke-width="1.5"/>
+<circle cx="201" cy="110" r="5" fill="none" stroke="#2b1e16" stroke-width="2" opacity=".8"/>
+<circle cx="320" cy="92" r="27" fill="#2b1e16" stroke="#f6efe3" stroke-width="2.5"/>
+<rect x="299" y="82" width="20" height="20" rx="3.5" fill="#e2b85b" stroke="#f6efe3" stroke-width="1.5"/>
+<path d="M309,86 v12 M304,91 h10" stroke="#2b1e16" stroke-width="2" opacity=".75"/>
+<rect x="321" y="82" width="20" height="20" rx="3.5" fill="none" stroke="#b9ad9c" stroke-width="1.5" stroke-dasharray="3 2"/>
+<circle cx="452" cy="124" r="27" fill="#2b1e16" stroke="#f6efe3" stroke-width="2.5"/>
+<rect x="431" y="114" width="20" height="20" rx="3.5" fill="none" stroke="#b9ad9c" stroke-width="1.5" stroke-dasharray="3 2"/>
+<rect x="453" y="114" width="20" height="20" rx="3.5" fill="#b4623c" stroke="#f6efe3" stroke-width="1.5"/>
+<path d="M457,130 v-6 l4,-3 v3 l4,-3 v3 l4,-3 v9 z" fill="#2b1e16" opacity=".75"/>
+<circle cx="232" cy="232" r="27" fill="#2b1e16" stroke="#f6efe3" stroke-width="2.5"/>
+<rect x="211" y="222" width="20" height="20" rx="3.5" fill="#8e8b86" stroke="#f6efe3" stroke-width="1.5"/>
+<circle cx="221" cy="232" r="5" fill="none" stroke="#2b1e16" stroke-width="2" opacity=".8"/>
+<rect x="233" y="222" width="20" height="20" rx="3.5" fill="#e2b85b" stroke="#f6efe3" stroke-width="1.5"/>
+<path d="M243,226 v12 M238,231 h10" stroke="#2b1e16" stroke-width="2" opacity=".75"/>
+<circle cx="360" cy="198" r="27" fill="#2b1e16" stroke="#f6efe3" stroke-width="2.5"/>
+<rect x="339" y="188" width="20" height="20" rx="3.5" fill="#b4623c" stroke="#f6efe3" stroke-width="1.5"/>
+<path d="M343,204 v-6 l4,-3 v3 l4,-3 v3 l4,-3 v9 z" fill="#2b1e16" opacity=".75"/>
+<rect x="361" y="188" width="20" height="20" rx="3.5" fill="none" stroke="#b9ad9c" stroke-width="1.5" stroke-dasharray="3 2"/>
+<circle cx="470" cy="262" r="27" fill="#2b1e16" stroke="#f6efe3" stroke-width="2.5"/>
+<rect x="449" y="252" width="20" height="20" rx="3.5" fill="#e2b85b" stroke="#f6efe3" stroke-width="1.5"/>
+<path d="M459,256 v12 M454,261 h10" stroke="#2b1e16" stroke-width="2" opacity=".75"/>
+<rect x="471" y="252" width="20" height="20" rx="3.5" fill="#8e8b86" stroke="#f6efe3" stroke-width="1.5"/>
+<circle cx="481" cy="262" r="5" fill="none" stroke="#2b1e16" stroke-width="2" opacity=".8"/>
+<circle cx="170" cy="282" r="27" fill="#2b1e16" stroke="#f6efe3" stroke-width="2.5"/>
+<rect x="149" y="272" width="20" height="20" rx="3.5" fill="none" stroke="#b9ad9c" stroke-width="1.5" stroke-dasharray="3 2"/>
+<rect x="171" y="272" width="20" height="20" rx="3.5" fill="none" stroke="#b9ad9c" stroke-width="1.5" stroke-dasharray="3 2"/>
+<g fill="#2b1e16" opacity=".9"><path d="M286,304 v-22 l14,-9 v9 l14,-9 v9 l14,-9 v31 z"/><rect x="332" y="254" width="10" height="50"/><rect x="330" y="251" width="14" height="5" rx="1"/></g>
+<g fill="#b9ad9c" opacity=".85"><circle cx="343" cy="241" r="6"/><circle cx="354" cy="233" r="7.5"/><circle cx="368" cy="228" r="8.5"/></g>
+</svg>
