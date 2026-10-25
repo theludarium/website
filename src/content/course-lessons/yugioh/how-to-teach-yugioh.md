@@ -3,12 +3,13 @@ title: "How to Teach Yu-Gi-Oh! in Ten Minutes"
 description: "How to teach Yu-Gi-Oh! in ten minutes: a host script in the order you say it, what to skip in the first Duel, the starter comic, and a printable teach sheet."
 course: yugioh
 order: 4
+level: 0
 emailSubject: "Teach Yu-Gi-Oh! before the snacks run out"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Teach the Duel you grew up with first: Summon, Set, attack. Add the Extra Deck only after the new player has won or lost a battle on their own."
 tryThis: "Print the teach sheet, put it between the two decks, and stop your teach the moment you reach the first Battle Phase. Teach the rest as it comes up."
-nextTeaser: "Next, your first upgrades: how to turn a starter into a real deck by buying singles, without chasing every shiny card."
+nextTeaser: "Level 1 begins with your first ten Duels: the rules slips almost every returning player makes, and how to fix each one."
 ---
 Returning players make great teachers. You remember what it felt like to learn, and you know the classic turn by heart. The trap is wanting to teach everything you just relearned, Link Arrows and Chains included, before the new player has drawn a card.
 

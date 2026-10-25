@@ -18,8 +18,29 @@ audience:
   - "Hosts who teach Wingspan to family, friends, or a new group."
   - "Players who love the game but keep finishing a few points behind."
   - "Anyone curious about solo play, expansions, and tournaments."
-afterLesson3: "Teach and play a clean game of Wingspan, with egg costs, the birdfeeder, and goal scoring done right, and skip the slips most new tables make."
-afterLesson8: "Read an opening hand, time your engine, count every point in round four, pick an expansion, and find a tournament or online table."
+levels:
+  - level: 0
+    name: "Fledgling"
+    label: "Learn to play"
+    outcome: "Set up, teach, and finish a full game, and read every part of a bird card at a glance, without opening the rulebook."
+  - level: 1
+    name: "Birdwatcher"
+    label: "Beginner"
+    outcome: "Dodge the common rules slips, keep a hand you can play, run the birdfeeder well, and plan for all four round goals from turn one."
+  - level: 2
+    name: "Naturalist"
+    label: "Intermediate"
+    outcome: "Time your engine, pick scoring powers and bonus cards that pay, count every point in round four, and choose your first expansion."
+  - level: 3
+    name: "Ornithologist"
+    label: "Advanced"
+    outcome: "Price any bird in turns and points, put odds on dice and draws, read the whole table, and beat the Automa on its hardest setting."
+  - level: 4
+    name: "Big Year"
+    label: "Tournament ready"
+    outcome: "Play a four-player game under World Boardgaming Championships rules inside two hours, and follow a practice plan toward a heat win."
+afterLesson3: "Teach and play a clean game of Wingspan, with egg costs, the birdfeeder, and goal scoring done right, and read every part of a bird card at a glance."
+afterLesson8: "Dodge the common slips, read an opening hand, run the birdfeeder, plan for the round goals, and know when your engine is big enough to start scoring."
 faq:
   - q: "How many turns do you get in Wingspan?"
     a: "You get 8 turns in round 1, 7 in round 2, 6 in round 3, and 5 in round 4, for 26 in all. At the end of each round, one of your action cubes stays on the goal board to mark your score, so you have one fewer cube to play."

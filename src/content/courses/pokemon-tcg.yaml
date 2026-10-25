@@ -13,15 +13,40 @@ players: "2"
 # VERIFY: play time and age on the Battle Academy box.
 playTime: "About 20 to 30 minutes a game"
 ages: "Ages 6 and up"
-promise: "Pick the right first product, learn how a turn works, read any card, and walk into your first Pokémon League night and prerelease ready to play."
-description: "A free beginner's course for the Pokémon TCG: what to buy first, how a turn works, reading a card, teaching kids, budget upgrades, and your first League night."
+promise: "Pick the right first product, learn how a turn works, read any card, then build decks, win the Prize trade, and walk into League night, a prerelease, and a tournament ready to play."
+description: "A free Pokémon TCG course from your first box to the championship path: reading cards, budget upgrades, League night, deck building, odds, and tournaments."
 audience:
   - "New players who want to learn the Pokémon TCG the right way, from the first turn."
   - "Parents buying a first product, and learning alongside a kid who wants to play."
-  - "Collectors with a binder full of cards who are curious about the game itself."
   - "Anyone nervous about walking into a store's Pokémon League for the first time."
+  - "League regulars ready for their first League Challenge, and players eyeing a Regional Championship."
+levels:
+  - level: 0
+    name: "Rookie"
+    label: "Learn to play"
+    outcome: "Pick the right first product, play a full game by the current rules, read every part of a card, and teach it to someone new."
+  - level: 1
+    name: "Explorer"
+    label: "Beginner"
+    outcome: "Skip the classic early mistakes, play every turn in the right order, upgrade a starter on a budget, and enjoy your first League night."
+  - level: 2
+    name: "Battler"
+    label: "Intermediate"
+    outcome: "Build a 60-card deck from scratch, plan games around the Prize trade, choose first or second with a reason, and hold your own at a prerelease."
+  - level: 3
+    name: "Tactician"
+    label: "Advanced"
+    outcome: "Put odds on your opening hand and Prize cards, read what your opponent can do next turn, and tune a deck for the decks you will face."
+  - level: 4
+    name: "Contender"
+    label: "Tournament ready"
+    outcome: "Play a timed best-of-three match under Play! Pokémon rules, test a deck with purpose, and run a calm, clean tournament day."
+  - level: 5
+    name: "Veteran"
+    label: "The championship path"
+    outcome: "Map the road from League Challenge to the World Championships, plan a season of Championship Points, and follow a six-week plan to a Regional."
 afterLesson3: "Buy the right first product, play a full game by the current rules, and read every part of a card without help."
-afterLesson8: "Teach the game, upgrade a deck on a budget, play your first League night and prerelease, and know what the competitive path looks like."
+afterLesson8: "Teach the game, skip the classic beginner mistakes, play each turn in the right order, upgrade a starter on a budget, and enjoy your first League night."
 faq:
   - q: "What is the best way to start playing the Pokémon TCG?"
     a: "The official Play! Pokémon getting-started page points new players to Battle Academy: balanced decks with a board that leads you through the game. For one player who wants a deck to bring to a store, the official rulebook suggests a Mega Battle Deck."
@@ -66,6 +91,7 @@ teachSheet:
     - "Count your opponent's Prize cards before you play a Pokémon ex."
 diagramAlt: "The Pokémon TCG play area for two players. On each side: the Active Spot in the middle, a Bench of up to 5 Pokémon behind it, 6 face-down Prize cards on the left, and the deck and discard pile on the right. A shared Stadium spot sits by the center line, and each player's hand stays off the table, hidden."
 related:
+  - "pokemon-tcg-parents-guide"
   - "family-friendly-game-cafes-indianapolis"
   - "indianapolis-board-game-stores"
   - "indianapolis-game-nights"

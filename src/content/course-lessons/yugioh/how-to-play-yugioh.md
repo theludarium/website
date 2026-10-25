@@ -3,6 +3,7 @@ title: "How to Start Playing Yu-Gi-Oh! Again: Your First Product"
 description: "Getting back into Yu-Gi-Oh! after years away: what changed, why the 2-Player Starter Set is the best first buy, what to do with old cards, and what to skip."
 course: yugioh
 order: 1
+level: 0
 emailSubject: "Back to Yu-Gi-Oh! after all these years"
 pubDate: 2026-10-24
 draft: false
@@ -22,7 +23,7 @@ Here is the short list. Lesson 2 walks through each one in full.
 - **A new zone in the middle.** The Extra Monster Zone sits between the two players. It controls where some monsters from your Extra Deck can go.
 - **The first player does not draw.** The player who goes first skips their draw on turn one, and cannot attack that turn either.
 - **New words for old ideas.** "Removed from play" is now "banished." The Graveyard is written "GY" on cards. What some remember as Multi-Trigger effects are now called Quick Effects.
-- **A faster game.** Modern decks Special Summon many monsters in a single turn. A strong first turn can build a board full of monsters that stop your plays. Lesson 2 shows how the rules allow it, and lesson 6 shows what to expect at a store.
+- **A faster game.** Modern decks Special Summon many monsters in a single turn. A strong first turn can build a board full of monsters that stop your plays. Lesson 2 shows how the rules allow it, and lesson 11 shows what to expect at a store.
 
 None of this is as hard as it sounds. It just helps to relearn it in the right order.
 
@@ -59,16 +60,16 @@ Most old cards are still legal to play. Three things to check first:
 
 1. **The Forbidden and Limited list.** Some cards are Forbidden (no copies), Limited (1 copy), or Semi-Limited (2 copies) at official events. Konami posts the [current list](https://www.yugioh-card.com/en/limited/) on its site, and it changes regularly.
 2. **The current card text.** Rules and wording have shifted over the years. Look up any old card in Konami's official card database before you rely on what the printed text seems to say.
-3. **The pace.** A deck of old favorites can still be a joy at home. Against a modern store deck, it will likely struggle. That is fine. Lesson 5 covers how to upgrade.
+3. **The pace.** A deck of old favorites can still be a joy at home. Against a modern store deck, it will likely struggle. That is fine. Lesson 8 covers how to upgrade.
 
 ## What to skip for now
 
 **Booster packs as a deck plan.** Packs are random. Open them for fun, not to build a deck.
 
-**Structure Decks as a first buy.** Konami's own [New to Yu-Gi-Oh! page](https://www.yugioh-card.com/en/about/new-to-ygo/) aims Structure Decks at more advanced players, while noting that customizing one is a good way to learn deck building. That makes them a great second step, which lesson 5 covers.
+**Structure Decks as a first buy.** Konami's own [New to Yu-Gi-Oh! page](https://www.yugioh-card.com/en/about/new-to-ygo/) aims Structure Decks at more advanced players, while noting that customizing one is a good way to learn deck building. That makes them a great second step, which lesson 8 covers.
 
 **Speed Duel products,** unless you want them on purpose. Speed Duel is a simplified format based on the Duel Links ruleset, with its own Skill Cards. It is fun, but it is not the full game this course teaches.
 
 ## Keep the first purchase small
 
-Buy the starter, play both decks until they feel easy, and stop there for a few weeks. Once you know which cards you wish you had, the upgrades in lesson 5 will make far more sense.
+Buy the starter, play both decks until they feel easy, and stop there for a few weeks. Once you know which cards you wish you had, the upgrades in lesson 8 will make far more sense.

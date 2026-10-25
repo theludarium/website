@@ -3,6 +3,7 @@ title: "How to Read a One Piece Card"
 description: "How to read a One Piece card: cost, power, Counter, color, type, attribute, effect timing brackets, Triggers, and keywords like Blocker, Rush, and Banish."
 course: one-piece-card-game
 order: 3
+level: 0
 emailSubject: "What every number on a One Piece card means"
 pubDate: 2026-10-24
 draft: false

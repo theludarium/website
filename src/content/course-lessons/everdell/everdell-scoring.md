@@ -2,7 +2,8 @@
 title: "Everdell Endgame and Scoring Math"
 description: "Everdell scoring math for autumn: six workers, purple Prosperity bonuses, point tokens, Events, the autumn trail, filling your last spaces, and the tiebreakers."
 course: everdell
-order: 6
+order: 10
+level: 2
 emailSubject: "Count your city before autumn ends"
 pubDate: 2026-10-24
 draft: false

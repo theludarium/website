@@ -2,13 +2,14 @@
 title: "Your First One Piece Store Tournament"
 description: "Your first One Piece Card Game Store Tournament: finding one in Bandai TCG+, what to bring, how rounds and timing work, and table etiquette new players need."
 course: one-piece-card-game
-order: 6
+order: 9
+level: 2
 emailSubject: "What to bring to your first One Piece tournament"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "A Store Tournament is a casual event built for learning. Bring a legal deck in sleeves, say your actions out loud, and call staff the moment you are unsure."
 tryThis: "Before your first event, play one full practice game against a friend on a 35-minute timer, saying every action out loud as you would at the store."
-nextTeaser: "Next, release events and sealed play: opening packs at the table and building a 40-card deck from only what you opened."
+nextTeaser: "Next, the first choice of every game: going first or second. What each side gets, what it gives up, and how to decide."
 ---
 Walking into your first card store event can feel like walking into someone else's living room. Everyone seems to know each other, and the words fly fast. The good news: the One Piece Card Game's entry-level event is designed for exactly your situation, and the rules behind it expect you to be learning.
 
@@ -36,7 +37,7 @@ TCG+ also shows your pairings and results on the day, so keep it on your phone.
 
 From Bandai's tournament rules, for a constructed event:
 
-- **A legal deck.** 1 Leader, a 50-card deck in your Leader's colors with no more than 4 of any card number, and a 10-card DON!! deck. A recent starter deck qualifies as it comes. Older ones can hold cards that have left the Standard format (lesson 5).
+- **A legal deck.** 1 Leader, a 50-card deck in your Leader's colors with no more than 4 of any card number, and a 10-card DON!! deck. A recent starter deck qualifies as it comes. Older ones can hold cards that have left the Standard format (see the [budget upgrades lesson](/academy/one-piece-card-game/one-piece-card-game-deck-upgrades/)).
 - **Opaque sleeves** on all 50 deck cards, all identical. Your Leader and DON!! cards must be sleeved or unsleeved so they look different from your deck.
 - **Spare sleeves**, in case one splits.
 - **Dice or counters** if your deck needs them to track power or effects. Dice must be clearly marked and unweighted.

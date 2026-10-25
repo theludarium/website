@@ -2,13 +2,14 @@
 title: "Root Vagabond Strategy: Items, Aid, Quests, and Hostility"
 description: "Root Vagabond strategy: picking a character, managing items, aiding factions toward alliance, completing quests, and deciding when to turn a faction Hostile."
 course: root
-order: 5
+order: 7
+level: 1
 emailSubject: "Everyone's friend, until he isn't"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "The Vagabond's items are his actions. Every turn, decide which items the next two turns need, and spend the rest on friendships and quests."
 tryThis: "On your first turn as the Vagabond, write down which faction you plan to befriend and which items your face-up quests need. Check the note every few turns."
-nextTeaser: "Next, table talk and kingmaking: how to read threat in Root, make fair deals, and handle the player who decides who wins."
+nextTeaser: "Level 2 starts with battle odds: what two Root dice really do, how warrior counts cap your hits, and when an attack is worth the risk."
 ---
 The Vagabond is one pawn against whole armies, and that is his strength. He cannot rule a clearing, but he also cannot be removed from the map. He can move no matter who rules a clearing. He plays every side of the war, trading favors with one faction and picking fights with another, and he scores from both.
 
@@ -71,4 +72,4 @@ In battle, you can roll at most as many hits as you have undamaged swords. Each 
 
 The Vagabond can never win with a dominance card the normal way. Instead, in games with four or more players, he can activate one (with at least 10 points, like anyone) to form a coalition with the player in last place. He stops scoring, and if that player wins, he wins too. A coalition can even reset a Hostile faction to Indifferent.
 
-Coalitions are also where the Vagabond meets kingmaking, which is the subject of the next lesson.
+Coalitions are also where the Vagabond meets kingmaking, which the [table talk lesson](/academy/root/root-table-talk-kingmaking/) covers at Level 2.

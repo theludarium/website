@@ -3,12 +3,13 @@ title: "How to Teach a Cube Draft in Ten Minutes"
 description: "How to teach a Cube draft in ten minutes: a host script for a draft night, from dealing packs to the first round, plus a printable teach sheet for the table."
 course: cube-draft
 order: 4
+level: 0
 emailSubject: "Run a Cube night without a lecture"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Teach the draft in two minutes, start picking, and teach everything else at the moment the table needs it. A Cube night is learned by doing."
 tryThis: "Print the teach sheet, put a copy at every other seat, and start the draft within ten minutes of the last person sitting down."
-nextTeaser: "Next, building your deck after the draft: how to turn 45 picks into a 40-card deck that casts its spells on time."
+nextTeaser: "Level 1 begins with building your deck after the draft: how to turn 45 picks into a 40-card deck that casts its spells on time."
 ---
 The fastest way to lose a table on Cube night is to explain everything before anyone touches a card. Draft rules, deckbuilding, the turn, sideboards, pairings: by the time the host finishes, the pizza is cold and the new player has decided this is homework.
 

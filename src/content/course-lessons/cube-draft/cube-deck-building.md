@@ -3,6 +3,7 @@ title: "Cube Deck Building: From 45 Picks to a 40-Card Deck"
 description: "Cube deck building after the draft: the 40-card rule, choosing two colors, a curve that casts spells on time, 17 lands, splashes, and sideboarding in a match."
 course: cube-draft
 order: 5
+level: 1
 emailSubject: "Turn 45 picks into a deck that works"
 pubDate: 2026-10-24
 draft: false

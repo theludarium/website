@@ -2,7 +2,8 @@
 title: "Upgrading a One Piece Starter Deck on a Budget"
 description: "How to upgrade a One Piece Card Game starter deck on a budget: buying singles instead of packs, what to cut first, counters, and checking cards are legal."
 course: one-piece-card-game
-order: 5
+order: 8
+level: 1
 emailSubject: "Make your starter deck better for the price of a pizza"
 pubDate: 2026-10-24
 draft: false

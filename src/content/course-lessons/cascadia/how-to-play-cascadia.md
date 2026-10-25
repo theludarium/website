@@ -3,6 +3,7 @@ title: "How to Play Cascadia"
 description: "How to play Cascadia: setup, drafting a habitat tile and wildlife token, placement rules, nature tokens, overpopulation, and final scoring, all in plain words."
 course: cascadia
 order: 1
+level: 0
 emailSubject: "Cascadia in one pick and two placements"
 pubDate: 2026-10-24
 draft: false
@@ -73,7 +74,7 @@ If, at the end of a turn, the stacks are empty and the tile just taken cannot be
 
 The scorepad has four parts.
 
-1. **Wildlife.** Score each animal by its card. Bears score in groups, elk in lines or shapes, salmon in runs, hawks spread apart, and foxes by their neighbors. [Lesson 4](/academy/cascadia/cascadia-strategy-openings/) walks through all twenty cards.
+1. **Wildlife.** Score each animal by its card. Bears score in groups, elk in lines or shapes, salmon in runs, hawks spread apart, and foxes by their neighbors. The [openings lesson](/academy/cascadia/cascadia-strategy-openings/) at Level 2 walks through all twenty cards.
 2. **Habitat corridors.** For each habitat, find your largest connected group of it. Tiles connect when matching habitat edges touch. Score 1 point per tile in that group.
 3. **Corridor bonuses.** Compare each habitat's largest group around the table.
    - Three or four players: the largest gets 3 points and the second largest 1. If two tie for largest, each gets 2 and nobody scores second. If three or four tie for largest, each gets 1. A tie for second scores nothing.

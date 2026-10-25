@@ -2,12 +2,14 @@
 title: "Competitive Everdell: Tournaments and Online Play"
 description: "Competitive Everdell: how the World Boardgaming Championships event runs, its tournament rules and tiebreakers, digital play online, and finding games near you."
 course: everdell
-order: 8
+order: 16
+level: 4
 emailSubject: "Everdell has a championship, and beginners are welcome"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Competitive Everdell is the base game at four players, played briskly and scored carefully. Every part of that is something you can practice at your own table."
 tryThis: "Play your next four-player game inside two hours with a written score sheet, and have a second player check each category before any cards go back in the box."
+nextTeaser: "Next, four-player Everdell the way tournaments play it: seat order, the second Forest spaces, the race for Events, and why second place still scores."
 ---
 Everdell looks like a cozy game, and it is one. It is also a game people play for a title, with an annual tournament at the World Boardgaming Championships and a digital version for playing strangers online. You never need to enter either. But the way tournaments run tells you a lot about how to play well at home.
 
@@ -72,4 +74,4 @@ If you are near Indianapolis, join the [Indianapolis list](/lounges/indianapolis
 - **Score on paper.** Fill in each category for every player and check each other.
 - **Review your city.** After each game, look at your 15 spaces. Which card scored the least for the space it took, and what could have gone there instead?
 
-That is the end of the course. You can now play, teach, open, build an engine through summer, count every point in autumn, choose an expansion, and find a tournament. The game is the reason. The people around the tree are the point.
+The rest of Level 4 builds on this: how four-player tournament games play differently, and a practice plan that turns these habits into a routine before your first event.

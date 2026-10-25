@@ -2,7 +2,8 @@
 title: "7 Wonders Endgame and Scoring Math"
 description: "7 Wonders scoring math for Age III: science squares and sets, military swings, guilds, and coins, plus how to close out a Duel game or stop a sudden win."
 course: 7-wonders
-order: 6
+order: 11
+level: 2
 emailSubject: "The math behind a 7 Wonders win"
 pubDate: 2026-10-24
 draft: false

@@ -2,7 +2,8 @@
 title: "Upgrading a Riftbound Deck on a Budget"
 description: "Upgrade a Riftbound deck on a budget: the deck building rules, which cards to cut first, buying singles over packs, tuning runes and battlefields, and trading."
 course: riftbound
-order: 5
+order: 7
+level: 1
 emailSubject: "Make your first Riftbound deck better for the price of lunch"
 pubDate: 2026-10-24
 draft: false
@@ -72,4 +73,4 @@ If you need extra basic runes for a second deck, bundle products are one source.
 
 ## When to build your own deck
 
-Once you have upgraded a deck a few times, you will have opinions: which champion you enjoy, which domains feel right, which cards you wish you had more of. That is the moment to build a deck from scratch. Until then, upgrading teaches you the same lessons with less risk.
+Once you have upgraded a deck a few times, you will have opinions: which champion you enjoy, which domains feel right, which cards you wish you had more of. That is the moment to build a deck from scratch. The [deck building lesson](/academy/riftbound/riftbound-deck-building/) in Level 2 walks through it step by step. Until then, upgrading teaches you the same lessons with less risk.

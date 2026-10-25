@@ -3,12 +3,13 @@ title: "Azul Player Counts, Variants, and the Azul Family"
 description: "Azul at 2, 3, and 4 players, the gray wall variant in the box, add-ons like Crystal Mosaic, and which standalone Azul to try next, from Summer Pavilion to Duel."
 course: azul
 order: 7
+level: 1
 emailSubject: "Which Azul comes next?"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "The original Azul has more to give than most people find. Play it at different counts and try the gray side before you buy anything, then add one new box at a time."
 tryThis: "Play your next game on the gray side of the boards, and the one after at a different player count. Note which one your group asks for again."
-nextTeaser: "Last lesson: how to compete. The Azul event at the World Boardgaming Championships, the 2024 Azul World Championship, and where to find local and online play."
+nextTeaser: "Level 2 begins with the midgame: reading every board at the table, counting colors, and deciding what to leave in the center for someone else."
 ---
 Azul is a family now. Since the original won the Spiel des Jahres in 2018, Next Move Games has added standalone sequels, a two-player version, a travel size, and a handful of add-ons. That is a gift and a trap. Each new box is good, but none of them replace the original, and the original still has corners most players never explore.
 

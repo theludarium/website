@@ -3,6 +3,7 @@ title: "How to Play Wingspan"
 description: "How to play Wingspan: setup, the four actions, egg costs, the birdfeeder, bird powers, end-of-round goals, and final scoring, explained in plain words."
 course: wingspan
 order: 1
+level: 0
 emailSubject: "Wingspan in four actions"
 pubDate: 2026-10-24
 draft: false
@@ -12,7 +13,7 @@ nextTeaser: "Next, the ten-minute teach. You will get a host script in the order
 ---
 Wingspan is a game about attracting birds to your wildlife preserves. Each bird you play lands in one of three habitats on your player mat: forest, grassland, or wetland. Each habitat is also an action. The more birds live in a row, the more that action gives you, and their powers fire along with it. That growing machine is why people call Wingspan an engine builder.
 
-This lesson follows the current Stonemaier Games rulebook, its appendix, and the official Rules and FAQ page. Expansions wait until [lesson 7](/academy/wingspan/wingspan-expansions/).
+This lesson follows the current Stonemaier Games rulebook, its appendix, and the official Rules and FAQ page. Expansions wait until [the expansions lesson](/academy/wingspan/wingspan-expansions/) at Level 2.
 
 ## What is in the box?
 
@@ -60,7 +61,6 @@ After those three actions, slide your cube right to left along the row. Each bir
 ## How does the birdfeeder work?
 
 Dice you take stay out until the feeder is refilled. If it is empty, toss all 5 dice back in. If every die left shows the same face, even a single die, you may toss all 5 back in before you gain food. The two-food face counts as its own face.
-<!-- VERIFY: confirm in the rulebook's birdfeeder section that the invertebrate/seed face does not match a plain invertebrate or seed face for the reroll. -->
 
 ## What do the bird powers mean?
 

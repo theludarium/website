@@ -3,6 +3,7 @@ title: "How to Start Playing the One Piece Card Game"
 description: "How to start playing the One Piece Card Game: what a deck needs, which starter deck to buy first, including ST-37 and ST-38, and what to skip for now."
 course: one-piece-card-game
 order: 1
+level: 0
 emailSubject: "Your first One Piece deck, without the guesswork"
 pubDate: 2026-10-24
 draft: false
@@ -22,7 +23,7 @@ Every player needs three things, and the official rules are exact about them:
 - **A 50-card deck** of Characters, Events, and Stages. Every card must share a color with your Leader, and you can run no more than 4 cards with the same card number.
 - **A 10-card DON!! deck.** DON!! cards are your resource. They are a separate stack, not part of the 50.
 
-A starter deck gives you all three. That is the main reason to begin with one: a recent starter is legal right out of the box, so you can learn the game and play at a store with no deck building at all. Very old starters can hold cards that have rotated out of the main tournament format, which lesson 5 explains.
+A starter deck gives you all three. That is the main reason to begin with one: a recent starter is legal right out of the box, so you can learn the game and play at a store with no deck building at all. Very old starters can hold cards that have rotated out of the main tournament format, which the [budget upgrades lesson](/academy/one-piece-card-game/one-piece-card-game-deck-upgrades/) explains.
 
 ## Which starter should you buy?
 
@@ -55,7 +56,7 @@ There is no wrong first deck. Your second deck will be a better choice because o
 
 ## What to skip for now
 
-- **Booster boxes.** Packs are fun to open, but random cards do not make a starter better as reliably as buying the few cards you need. Lesson 5 covers that.
+- **Booster boxes.** Packs are fun to open, but random cards do not make a starter better as reliably as buying the few cards you need. The [budget upgrades lesson](/academy/one-piece-card-game/one-piece-card-game-deck-upgrades/) covers that.
 - **Premium collections and gift sets.** They are made for collectors. Enjoy them later if you like the art.
 - **A playmat.** The tournament rules say playmats are not required, and your starter's playsheet does the same job.
 
@@ -65,4 +66,4 @@ One thing not to skip: **card sleeves**, once you plan to play at a store. The t
 
 Bandai has an official [Teaching App](https://app.onepiece-cardgame.com/en/) that walks you through a practice game, in your browser or on your phone, and a [How to Play page](https://en.onepiece-cardgame.com/beginners/how-to-play.php) with a video and a quick beginner's guide. Try a few games there, and you will walk into the store already knowing the turn.
 
-If you want help finding a store nearby, our list of [board game stores in Indianapolis](/articles/indianapolis-board-game-stores/) is a start for central Indiana, and lesson 6 shows how to find a store event anywhere.
+If you want help finding a store nearby, our list of [board game stores in Indianapolis](/articles/indianapolis-board-game-stores/) is a start for central Indiana, and the [store tournament lesson](/academy/one-piece-card-game/one-piece-card-game-store-tournament/) shows how to find a store event anywhere.

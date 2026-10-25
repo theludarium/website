@@ -2,13 +2,14 @@
 title: "Your First Three Games of Power Grid"
 description: "Power Grid beginner mistakes, from rules slips like overfilled plants and wrong refills to money traps like racing to lead early, and how to fix each one."
 course: power-grid
-order: 3
+order: 4
+level: 1
 emailSubject: "The mistakes every new Power Grid table makes"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Most first-game trouble comes from two places: small rules slips in the markets, and spending money on one leg of the company while the others fall behind."
 tryThis: "At the end of each round in your next game, compare three numbers for every player: cities connected, cities their plants can power, and fuel on hand."
-nextTeaser: "Next, openings. We look at the first three rounds: your first plant, your first city, and why the first auction quietly sets turn order."
+nextTeaser: "Next, route math: how connection costs add up, why the order you build in matters, and how to price a whole build phase before you pay."
 ---
 Your first three games of Power Grid are where habits form. Some habits are rules played wrong because nobody checked. Others are legal moves that leave you short of money at the worst moment. This lesson covers both, checked against the current Recharged rulebook.
 
@@ -43,7 +44,7 @@ If someone at the table learned an older edition, watch for these. In Recharged:
 - The starting market is a random 8 of plants 03 to 15.
 - Every game uses the discount token. The classic edition had none, and Power Grid Deluxe used it only on its North America map.
 - A player's city count no longer removes small plants from the market.
-- Two players use special rules with a rival company, covered in [lesson 7](/academy/power-grid/power-grid-expansions/).
+- Two players use special rules with a rival company, covered in the [player counts and expansions lesson](/academy/power-grid/power-grid-expansions/).
 
 ## The end-of-game misread
 

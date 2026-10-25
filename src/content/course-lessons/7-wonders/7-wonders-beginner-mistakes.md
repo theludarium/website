@@ -2,7 +2,8 @@
 title: "Your First Three Games of 7 Wonders and Duel"
 description: "7 Wonders beginner mistakes, from rules slips like buying from the wrong player to traps like chasing science alone, plus the Duel errors new players make most."
 course: 7-wonders
-order: 3
+order: 4
+level: 1
 emailSubject: "The mistakes every new 7 Wonders table makes"
 pubDate: 2026-10-24
 draft: false

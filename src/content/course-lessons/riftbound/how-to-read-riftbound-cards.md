@@ -3,6 +3,7 @@ title: "How to Read a Riftbound Card"
 description: "How to read a Riftbound card: energy and power costs, Might, name, type and tags, rules text, keywords like Tank and Accelerate, and the domain symbol."
 course: riftbound
 order: 3
+level: 0
 emailSubject: "Every corner of a Riftbound card, explained"
 pubDate: 2026-10-24
 draft: false

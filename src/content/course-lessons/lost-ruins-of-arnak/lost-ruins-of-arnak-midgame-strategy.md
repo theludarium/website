@@ -2,13 +2,14 @@
 title: "The Arnak Midgame: Deck, Research, and Tempo"
 description: "Lost Ruins of Arnak midgame strategy for rounds II to IV: keep your deck lean, time your pass, use assistants well, pick guardian fights, and read the table."
 course: lost-ruins-of-arnak
-order: 5
+order: 8
+level: 2
 emailSubject: "When to pass in Arnak, and why it matters"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "In the midgame, your deck, your research, and your turns all compete for the same few resources. Decide each round which one you are feeding, and feed it on purpose."
 tryThis: "At the start of each round in your next game, say one sentence about your plan for that round, such as two research steps and one guardian, and check it when you pass."
-nextTeaser: "Next, the endgame and scoring math: temple tile costs, idol slot math, and why an item bought in round V is worth only its points."
+nextTeaser: "Next, the card row: how to judge an item against an artifact, and how the moon staff changes what each card is worth."
 ---
 By round II, the island has opened up. New sites are on the board, guardians sit on some of them, and the card row is shifting from items toward artifacts. The opening was about building capacity. The midgame, rounds II to IV, is about turning that capacity into points without falling behind on the research track. It is where a lot of the game is won or lost.
 

@@ -2,13 +2,14 @@
 title: "Dune: Imperium Openings: The First Three Rounds"
 description: "Dune: Imperium opening strategy: picking a direction, when to buy the Swordmaster or High Council seat, water and spice, early buys, and Uprising spies."
 course: dune-imperium
-order: 4
+order: 7
+level: 1
 emailSubject: "When to buy your third Agent"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "The opening is about permanent upgrades. Anything that helps you every round, like a third Agent, a High Council seat, or a better card, is worth the most when you buy it early."
 tryThis: "In your next game, write down the round you get your third Agent and the round you take your High Council seat, if you do. Compare them with the winner's."
-nextTeaser: "Next, the midgame: trimming your deck, using your Agents to block, and reading every garrison before you commit to a Conflict."
+nextTeaser: "Level 2 starts next: building your deck, from judging a card in the Imperium Row to knowing when to trash."
 ---
 Dune: Imperium has no fixed opening. The Imperium Row is different every game, your Leader pulls you one way, and the first Conflict card changes what the round is worth. But the first three rounds still follow patterns, and they all come from one fact: the game lasts at most ten rounds, one per Conflict card. Anything that pays you every round is worth more the sooner you have it.
 
@@ -79,4 +80,4 @@ There is no perfect target. After three rounds, a strong opening often looks lik
 - 2 Influence with at least one Faction.
 - Troops in your garrison for the first big Conflict.
 
-The midgame lesson shows what to do with them.
+Level 2 shows what to do with them.

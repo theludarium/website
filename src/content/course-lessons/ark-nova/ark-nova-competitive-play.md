@@ -2,14 +2,16 @@
 title: "Competitive Ark Nova: Reading Opponents and Tournaments"
 description: "Competitive Ark Nova: reading each rival zoo, interactive animals, races for shared cards and projects, plus WBC, online play, and the 2027 world championship."
 course: ark-nova
-order: 7
+order: 20
+level: 5
 emailSubject: "Ark Nova has a world championship now"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Ark Nova looks like everyone building alone, but the display, the projects, the partner zoos, and the end trigger are all shared. Read the other zoos as closely as your own."
 tryThis: "Before each turn in your next game, look at the player with the highest appeal and name the card in the display they want most. Then decide whether to take it first."
+nextTeaser: "Next, playing online like a competitor: Board Game Arena and Ark Nova Digital, turn clocks, ranked play, and reviewing your own games."
 ---
-Ark Nova has a reputation as a game where everyone builds their own zoo and barely looks up. Watch a strong player and you will see the opposite. They glance at every rival's action row before choosing their own. This last lesson is about that glance: what is shared, how to read each kind of opponent, and where to test yourself once your home table is not enough.
+Ark Nova has a reputation as a game where everyone builds their own zoo and barely looks up. Watch a strong player and you will see the opposite. They glance at every rival's action row before choosing their own. This lesson is about that glance: what is shared, how to read each kind of opponent, and where to test yourself once your home table is not enough.
 
 ## What is shared at the table?
 
@@ -54,7 +56,7 @@ Venom and Constriction tokens leave at the next break. If your group would rathe
 
 ## The World Boardgaming Championships
 
-The [World Boardgaming Championships](https://www.boardgamers.org/) in Pennsylvania ran its fourth Ark Nova tournament in 2026. Admission comes with most memberships in the Boardgame Players Association. Per the [2026 event preview](https://www.boardgamers.org/wbc26/Previews/akn.html), it was listed for experienced players, with two heats, then a quarterfinal, semifinal, and final, in 3-hour rounds at four-player tables. Heat winners advanced. In the heats, players chose from a set of advanced zoo maps in reverse turn order, and scoring used the official change that adds 100.
+The [World Boardgaming Championships](https://www.boardgamers.org/) in Pennsylvania ran its fourth Ark Nova tournament in 2026. Per the [2026 event preview](https://www.boardgamers.org/wbc26/Previews/akn.html), it was listed for experienced players, with two heats, then a quarterfinal, semifinal, and final, in 3-hour rounds at four-player tables. Heat winners advanced. In the heats, players chose from a set of advanced zoo maps in reverse turn order, and scoring used the official change that adds 100.
 
 The [2026 winners list](https://www.boardgamers.org/wbc_results.html) names Richard Miller as Ark Nova champion. The [2025 report](https://www.boardgamers.org/yearbook25/akn.html) counted 113 players, and Jonathan Naylor won.
 
@@ -91,4 +93,4 @@ Capstone's [store finder](https://capstone-games.com/pages/find-stores-around-th
 - After each game, find the turn where your row let you down, and replay it in your head.
 - Play the rulebook's solo game to drill the row. Our list of [the best solo board games](/articles/best-solo-board-games/) counts Ark Nova among the best solo modes on a multiplayer game.
 
-That is the end of the masterclass. You can teach the game, run the row, read the gap, work the projects, fund the zoo, time the crossing, and read the table. The game is the reason. The people across the table are the point.
+Reading the table is the core skill of the top level. The next two lessons put it to work: first online, where the volume of games is, then in a practice plan for a real event.

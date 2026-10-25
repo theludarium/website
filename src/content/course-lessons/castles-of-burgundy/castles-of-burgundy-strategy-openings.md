@@ -2,13 +2,14 @@
 title: "Castles of Burgundy Openings: Making Phase A Count"
 description: "Castles of Burgundy opening strategy: read your duchy before the first roll, close small regions while the bonus is 10, and build income that pays all game."
 course: castles-of-burgundy
-order: 4
+order: 6
+level: 1
 emailSubject: "Phase A is worth more than you think"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Phase A pays the most for every region you close and pays longest for every mine and lasting power you build. Spend it on small finishes and long-term income, not one big plan."
 tryThis: "Before your next game, find every region of one or two spaces within reach of your castle, and aim to close two of them in phase A."
-nextTeaser: "Next, the midgame: workers as currency, the bridge as a weapon, and how to read what every other duke needs."
+nextTeaser: "Next, the eight buildings: what each one does for you, when it is worth a die, and how to fill a town without a clash."
 ---
 The Castles of Burgundy has no fixed opening. The tiles in the depots and the dice change every game. But the first phase still follows patterns, because the rules make phase A the richest phase of the game. Every region closed now earns the biggest bonus, and every source of income placed now pays out the most times.
 
@@ -69,6 +70,6 @@ There is no perfect target, and duchies differ. As a rough check, a strong phase
 - At least one worker in hand.
 - No more than one tile waiting in storage.
 
-If you end phase A with no completed regions, the opening got away from you. That is fine. The midgame lesson shows how to catch up.
+If you end phase A with no completed regions, the opening got away from you. That is fine. The [midgame lesson](/academy/castles-of-burgundy/castles-of-burgundy-midgame-strategy/) at Level 2 shows how to catch up.
 
 Castles of Burgundy rewards this kind of patient planning because the dice set the problem and you solve it. Our piece on [luck and skill](/articles/luck-vs-skill-board-games/) explains why that balance keeps the game fresh.

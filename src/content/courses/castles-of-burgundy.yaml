@@ -19,8 +19,33 @@ audience:
   - "Hosts who teach Castles of Burgundy and want the teach to fit before the snacks run out."
   - "Players who finish games with half-built regions and want to know where the points went."
   - "Anyone curious about the expansions in the box, solo play, online ladders, and tournaments."
-afterLesson3: "Teach and play a clean game, with tiles, workers, goods, and the black depot all handled by the book, and dodge the mistakes most new tables make."
-afterLesson8: "Plan a phase A opening, run a worker and silver economy, count region and final scores, add the boxed expansions, and find a tournament or online ladder."
+levels:
+  - level: 0
+    name: "Villager"
+    label: "Learn to play"
+    outcome: "Set up, teach, and play a full game by the book, with every die, worker, tile, and goods sale handled without the rulebook."
+  - level: 1
+    name: "Steward"
+    label: "Beginner"
+    outcome: "Know what each roll can reach and what a worker buys, open phase A for quick finishes and income, and use every building well."
+  - level: 2
+    name: "Merchant"
+    label: "Intermediate"
+    outcome: "Turn two dice into three or four actions, pick the right monasteries, run livestock and goods as engines, and count the endgame."
+  - level: 3
+    name: "Baron"
+    label: "Advanced"
+    outcome: "Read a random duchy before the first roll, track which tiles are left, win the color bonus races, and handle the two-player duel."
+  - level: 4
+    name: "Count"
+    label: "Tournament ready"
+    outcome: "Read a four-player table, finish a game well inside a time limit, and play every heat to win rather than to place."
+  - level: 5
+    name: "Duke"
+    label: "The championship path"
+    outcome: "Choose an event, study the game online with replays and ranked play, and follow a six-week plan into your first tournament."
+afterLesson3: "Set up, teach, and play a clean first game, with dice, workers, tiles, goods, and the black depot all handled by the book."
+afterLesson8: "Spend dice and workers with a plan, open phase A for quick finishes and income, use each building well, and get three or four actions from a turn."
 faq:
   - q: "How do workers work in The Castles of Burgundy?"
     a: "Each worker you return to the supply changes one die by 1, up or down. A 6 can become a 1 and a 1 can become a 6, and you can spend several workers on one die. You can also spend any die to take 2 workers."
@@ -77,4 +102,5 @@ related:
   - "expansions-worth-it"
   - "best-solo-board-games"
   - "how-to-start-a-play-group"
+  - "how-to-run-a-board-game-tournament"
   - "playing-board-games-with-long-distance-friends"

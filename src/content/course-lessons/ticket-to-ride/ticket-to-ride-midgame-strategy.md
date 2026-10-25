@@ -2,13 +2,14 @@
 title: "The Ticket to Ride Midgame: Hand, Tempo, and Table"
 description: "Ticket to Ride midgame strategy: managing your hand, the turn math behind long routes, when to draw more tickets, when to block, and reading other players."
 course: ticket-to-ride
-order: 5
+order: 9
+level: 2
 emailSubject: "What the face-up cards are telling you"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "In the midgame, every turn is a trade between building your hand and claiming the board. Read what the other players are collecting before you decide which side of the trade you need."
 tryThis: "For one whole game, note out loud (or in your head) every face-up color another player takes. By the midgame, try to name where each opponent is building."
-nextTeaser: "Next, the endgame and scoring math: counting trains, timing the final round, and deciding when a ticket is worth the risk."
+nextTeaser: "Next, ticket values: why the number on a ticket is close to the trains it needs, and how to judge a hand of tickets at a glance."
 ---
 By the middle of a Ticket to Ride game, the map has filled in. The obvious routes are gone, every player has a railroad taking shape, and the face-up row has become a window into everyone's plans. The opening was about your tickets. The midgame is about everyone's.
 

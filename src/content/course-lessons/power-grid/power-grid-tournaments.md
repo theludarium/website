@@ -2,12 +2,14 @@
 title: "Competitive Power Grid: WBC and Local Play"
 description: "Competitive Power Grid: how the World Boardgaming Championships event runs, its Recharged rules and table habits, past champions, and finding games near you."
 course: power-grid
-order: 8
+order: 19
+level: 5
 emailSubject: "Power Grid has a championship table"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Competitive Power Grid is the same game you play at home, played at five-player tables, on rotating maps, against a clock. The habits that win there make any home game sharper."
 tryThis: "Set up a five-player game on a map you have never played, use the WBC table habits from this lesson, and aim to finish in two and a half hours."
+nextTeaser: "Next, final-round puzzles: three worked last rounds where one city or one Elektro decides the game, and how to make puzzles from your own games."
 ---
 Power Grid is a long game with a lot of arithmetic, which makes it a natural tournament game. Every number is on the table, and the best players are the ones who count it fastest and most carefully. You do not need to enter a tournament to enjoy that. But knowing how the serious tables play changes how you see your own.
 
@@ -27,7 +29,7 @@ From the [2026 event preview](https://www.boardgamers.org/wbc26/previews/pgd.htm
 - **Tables:** five players by preference, four only when needed.
 - **Time:** three-hour rounds, with most games expected to finish in under two and a half.
 - **Rules:** Recharged rules on every map, without the preset start cities variant.
-- **Maps:** each round has its own maps. In 2026 the heats offered South Africa or Bremen, the United Kingdom or the Middle East, and Manhattan or Northern Europe. The semifinal was Brazil and the final was Spain and Portugal. Any map is allowed if the whole table agrees.
+- **Maps:** each round has its own maps. The 2026 preview offered South Africa or Bremen, the United Kingdom or the Middle East, and Manhattan or Northern Europe for the heats, Brazil for the semifinal, and Spain and Portugal for the final. Any map is allowed if the whole table agrees.
 - **Who wins a game:** most cities powered, then most money, then most cities, then the highest plant number.
 
 The event is listed for experienced players only, but the preview also offers a demo to learn the game. If you have played the base game a few times, you can get ready from there.
@@ -76,4 +78,4 @@ If you are near Indianapolis, join the [Indianapolis list](/lounges/indianapolis
 - **Play on time.** Aim for two and a half hours. It forces faster counting and cleaner decisions.
 - **Review the last round.** After each game, check what you could power, what you could afford, and who had more money if you tied.
 
-That is the end of the course. You now know how to play, teach, open, steer the midgame, count the final round, choose a map, and find a tournament table. The game is the reason. The people across the table are the point.
+The rest of Level 5 is practice: final-round puzzles, then a plan for the weeks before your first heat.

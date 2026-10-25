@@ -3,6 +3,7 @@ title: "How to Read a Magic Card and Make Good Cube Picks"
 description: "How to read a Magic card part by part, from mana cost and type line to power and toughness, then how to judge Cube picks: power, cost, removal, and color."
 course: cube-draft
 order: 3
+level: 0
 emailSubject: "What every part of a Magic card tells you"
 pubDate: 2026-10-24
 draft: false

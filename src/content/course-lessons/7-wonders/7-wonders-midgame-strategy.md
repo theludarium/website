@@ -2,13 +2,14 @@
 title: "The 7 Wonders Midgame: Neighbors, Chains, and Tempo"
 description: "7 Wonders midgame strategy for Age II: reading neighbors as the pass flips, chains, trading income, and military, plus Duel tempo, science pairs, and pressure."
 course: 7-wonders
-order: 5
+order: 8
+level: 2
 emailSubject: "Age II is where 7 Wonders gets won"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "The midgame is about the people next to you. In 7 Wonders, read what your neighbors are building; in Duel, read what each card you take leaves behind."
 tryThis: "In Age II of your next 7 Wonders game, before each pick, look at the city of the neighbor you pass to and name one card in your hand they want."
-nextTeaser: "Next, the endgame and scoring math: Age III guilds, science sets, military swings, and in Duel, how to close a game or stop a sudden win."
+nextTeaser: "Next, the 7 Wonders track: coins, trading, and yellow cards, and how to turn your neighbors into a source of income."
 ---
 By Age II, every city has a shape. You can see who is collecting shields, who has three green cards, and who is sitting on a pile of coins. The opening was about your own economy. The midgame is about reading everyone else's, and both games reward the player who looks up from their own cards.
 

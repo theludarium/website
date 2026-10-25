@@ -18,8 +18,29 @@ audience:
   - "Hosts who teach Carcassonne to family, friends, or a new group."
   - "Casual players who keep losing to farmers and want to know why."
   - "Anyone curious about expansions, online play, and championships."
-afterLesson3: "Teach and play a clean game, farmers included, without the rules mistakes that trip up most new tables."
-afterLesson8: "Plan openings, manage your meeples, count farms and final scores, pick expansions, and find a tournament or online ladder."
+levels:
+  - level: 0
+    name: "Apprentice"
+    label: "Learn to play"
+    outcome: "Set up, teach, and score a full game by hand, farmers included, without opening the rulebook."
+  - level: 1
+    name: "Mason"
+    label: "Beginner"
+    outcome: "Open with tempo, keep your meeples coming home, and stop stranding points on features that never finish."
+  - level: 2
+    name: "Builder"
+    label: "Intermediate"
+    outcome: "Win city and field fights on purpose, and know which tiles can still close every open feature."
+  - level: 3
+    name: "Architect"
+    label: "Advanced"
+    outcome: "Put odds on your open features, win the two-player duel, and track the last tiles to steer final scoring."
+  - level: 4
+    name: "Castellan"
+    label: "Tournament ready"
+    outcome: "Play a clocked game under World Championship rules, and plan a path to a national or online qualifier."
+afterLesson3: "Teach and play a clean game, farmers included, and score it by hand without missing a point."
+afterLesson8: "Open with tempo, keep your meeples cycling home, time your monasteries, and add the River and Abbot when your group is ready."
 faq:
   - q: "How do farmers work in Carcassonne?"
     a: "A farmer lies down on a field and stays there until the end of the game. At final scoring, each field is worth 3 points for every completed city it touches, and the player with the most farmers on that field scores it. Tied players all score the full points."

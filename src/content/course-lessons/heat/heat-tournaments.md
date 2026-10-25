@@ -2,12 +2,14 @@
 title: "Competitive Heat: Tournaments and Online Play"
 description: "Competitive Heat: Pedal to the Metal: the official Tournament Mode, the World Boardgaming Championships event, ring events, online play, and local races."
 course: heat
-order: 8
+order: 16
+level: 4
 emailSubject: "Yes, people race Heat for titles"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Competitive Heat is the same race with drafted upgrades, weather, full tables, and a gear you reveal only with your cards. The road from your kitchen table to a convention final is shorter than it looks."
 tryThis: "Play your next three races in Tournament Mode with Garage upgrades drafted, and note how often seeing your own hand changes the gear you would have picked."
+nextTeaser: "Next, Tournament Mode in depth: choosing your gear and cards as one decision, driving without seeing rivals shift, and the cost of a miscounted jump."
 ---
 Heat looks like a family racing game, and it is one. It also has a real competitive scene: an official Tournament Mode in the rulebook, an event at the World Boardgaming Championships, convention ring events, and online play. You do not need to enter any of them to enjoy the game. But knowing how serious drivers race changes how you look at your own races.
 
@@ -87,4 +89,4 @@ If you are near Indianapolis, join the [Indianapolis list](/lounges/indianapolis
 - **Race tougher Legends.** Add 1 or 2 to their Top Speed, as the designers do.
 - **Review every race.** Where did you pay Heat? Did you spin out? How much Heat was left at the finish?
 
-That is the end of the course. You now know how to play, teach, open, manage the midgame, empty your engine on the final lap, pick modules and expansions, and find a race worth entering. The game is the reason. The people across the table are the point.
+The next two lessons go deeper: how to drive under Tournament Mode, and a practice plan for the weeks before an event.

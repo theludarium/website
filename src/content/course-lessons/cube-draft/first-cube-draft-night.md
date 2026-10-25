@@ -3,12 +3,13 @@ title: "Your First Cube Draft Night: Etiquette, Timing, and Giving the Cards Bac
 description: "Your first Cube draft night: what to bring, how long it runs, draft and game etiquette, handling someone else's cards, and how to return every card at the end."
 course: cube-draft
 order: 6
+level: 1
 emailSubject: "How to be the guest every Cube owner invites back"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "At a Cube night you are playing with someone else's collection. Treat the cards with care, keep the draft moving, and give every card back, and you will be invited again."
 tryThis: "At the end of your first draft night, count your cards before you hand them back: your deck plus your sideboard, minus the basic lands, should come to the number of picks you made."
-nextTeaser: "Next, building your own Cube: how big, where to find a list, what it costs, and where proxies fit."
+nextTeaser: "Next, your first three drafts: the mistakes almost every new drafter makes, and the simple fix for each one."
 ---
 A Cube night is part game, part dinner party. Someone opened their home or reserved a table, and someone else built the box of cards that everyone is about to shuffle. Most of the etiquette comes down to one idea: you are borrowing something that took a lot of care to make.
 

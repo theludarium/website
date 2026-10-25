@@ -2,13 +2,14 @@
 title: "Arnak Openings: Your First Two Rounds"
 description: "Lost Ruins of Arnak opening strategy: reading your seat, spending your starting deck, first archaeologist moves, early research, and what to buy in round I."
 course: lost-ruins-of-arnak
-order: 4
+order: 5
+level: 1
 emailSubject: "Your first two rounds of Arnak"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Rounds I and II are about building capacity, not points. Every card, assistant, and research step you add early gets used again in every round that follows."
 tryThis: "Before your first turn of round I, plan both archaeologist moves and one research step, then check which cards in your hand will pay for them."
-nextTeaser: "Next, the midgame: thinning your deck, timing your pass, and reading who is racing to the Lost Temple."
+nextTeaser: "Next, the research track up close: how the glass and notebook climb, what the rows give you, and why assistants pay best when recruited early."
 ---
 Lost Ruins of Arnak has no fixed opening. The card row, the idols, and the site tiles change every game. But the first two rounds still follow patterns. The idea under all of them is simple: anything you gain early gets used again later. An item bought in round I can be drawn in rounds II through V. An assistant recruited in round I can be used once in every round from then on. A point scored in round I is just a point.
 

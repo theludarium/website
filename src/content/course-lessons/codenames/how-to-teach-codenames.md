@@ -3,11 +3,13 @@ title: "How to Teach Codenames and Run a Great First Game"
 description: "How to teach Codenames in five minutes and run a great first game: choosing spymasters, seating, house rules for clues, keeping pace, and coaching new players."
 course: codenames
 order: 2
+level: 0
 emailSubject: "Your first Codenames night, start to finish"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "A great first game of Codenames is decided before the first clue: who sits as spymaster and which clue rules the table agrees on. Get those two right and the game mostly runs itself."
 tryThis: "Before the first clue, have both spymasters agree out loud on names, abbreviations, and two-word clues. After each game, swap spymasters so someone new gets the key."
+nextTeaser: "Level 1 starts with your first three games: the rules slips and beginner habits that cost new tables the most, and how to fix each one."
 ---
 Codenames teaches in minutes, which makes it easy to under-prepare. First games tend to go wrong in the same few ways: a spymaster frozen for five minutes, one loud operative making every guess, and an argument over whether a clue was allowed. A little planning prevents all three.
 
@@ -75,17 +77,9 @@ Flip the 25 cards over for a fresh grid, draw a new key, and swap spymasters. A 
 
 Before the rematch, ask the operatives one question: "What did you think that clue meant?" It is the fastest way for a spymaster to improve. Our [Codenames clue tips](/articles/codenames-clue-tips/) go deeper for both roles, and [Codenames for team building](/articles/codenames-team-building/) shows how much one game reveals about the way a group talks.
 
-## Where to go next
+## Where the course goes next
 
-For two players, [Codenames: Duet](https://www.czechgames.com/games/codenames-duet) is the cooperative version, for 2 or more. Its 400 words can be mixed with the original's.
-
-<!-- AFFILIATE: Codenames: Duet -->
-
-For a table that would rather read pictures than words, [Codenames: Pictures](https://www.czechgames.com/games/codenames-pictures) plays 4 to 8 or more with picture cards.
-
-<!-- AFFILIATE: Codenames: Pictures -->
-
-For friends far away, Czech Games Edition runs [codenames.game](https://codenames.game/): open a room, share the link, and talk over your usual video call. For a harder word game, see [Codenames vs Decrypto](/articles/codenames-vs-decrypto/).
+The rest of this course climbs level by level: the mistakes new tables make, how spymasters build clues, how operatives guess, the kinds of links that land, the race math, the endgame, and the expert clues. Playing with two? The [lesson on versions and editions](/academy/codenames/codenames-variants-and-editions/) introduces Codenames: Duet, and [Duet strategy](/academy/codenames/codenames-duet-strategy/) comes at the top level. Friends far away? The [final lesson](/academy/codenames/codenames-game-nights/) covers free online play. For a harder word game, see [Codenames vs Decrypto](/articles/codenames-vs-decrypto/).
 
 For local play, ask your game store about open game nights. Near Indianapolis? Join the [Indianapolis list](/lounges/indianapolis/) for first word on local learn-to-play nights as The Ludarium grows.
 

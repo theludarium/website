@@ -3,6 +3,7 @@ title: "How to Play Disney Lorcana: How a Turn Works"
 description: "How to play Disney Lorcana: setup, the play area, the inkwell, questing for lore, challenging, songs, items, locations, ink drops, and the race to 20 lore."
 course: lorcana
 order: 2
+level: 0
 emailSubject: "Ink, quest, challenge: a Lorcana turn"
 pubDate: 2026-10-24
 draft: false
@@ -88,4 +89,4 @@ Hyperia City added **ink drops**, a temporary ink. When a card says you get one,
 
 ## The heart of the game
 
-Here is the tension that makes Lorcana work. Questing exerts your character, and an exerted character can be challenged on your opponent's turn. So every quest asks: is this lore worth the risk? Lesson 3 shows how to read a card, so you can answer that question at a glance.
+Here is the tension that makes Lorcana work. Questing exerts your character, and an exerted character can be challenged on your opponent's turn. So every quest asks: is this lore worth the risk? The next lesson shows how to read a card, so you can answer that question at a glance.

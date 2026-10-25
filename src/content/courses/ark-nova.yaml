@@ -18,8 +18,33 @@ audience:
   - "Hosts teaching Ark Nova to a group that has never opened the box."
   - "Players who finish games but keep landing short of where their tracks cross."
   - "Competitive players eyeing the online ladders, WBC, or the world championship qualifiers."
-afterLesson3: "Teach and play a full game by the book, read your action row like a schedule, and know how far apart your two tracks are at any moment."
-afterLesson8: "Plan your projects and sponsors, time the crossing, read every rival zoo at the table, and find an online ladder, a WBC event, or a championship qualifier."
+levels:
+  - level: 0
+    name: "Volunteer"
+    label: "Learn to play"
+    outcome: "Set up, teach, and finish a full game by the book, and read any animal, sponsor, or project card at a glance."
+  - level: 1
+    name: "Keeper"
+    label: "Beginner"
+    outcome: "Dodge the common first-game traps, run your action row like a schedule, read the gap between your tracks, and lay out a zoo map that pays."
+  - level: 2
+    name: "Curator"
+    label: "Intermediate"
+    outcome: "Work conservation projects for points and bonuses, fund your zoo with sponsors and kiosks, and use reputation and your hand to see more of the display."
+  - level: 3
+    name: "Director"
+    label: "Advanced"
+    outcome: "Open with a plan for the first break, price any animal in gap closed per money and action, pick an advanced map, and time the crossing."
+  - level: 4
+    name: "Ranger"
+    label: "Tournament ready"
+    outcome: "Control the break, win the two-player race, steer your Final Scoring card, and drill the row in solo games."
+  - level: 5
+    name: "Steward"
+    label: "The championship path"
+    outcome: "Read every rival zoo at a four-player table, play ranked games online with a clock, and follow a practice plan toward WBC or a world championship qualifier."
+afterLesson3: "Teach and play a full game by the book, and read any animal, sponsor, or project card at a glance."
+afterLesson8: "Avoid the common first-game traps, run your action row like a schedule, read the gap between your tracks, lay out a zoo map that pays, and work conservation projects for both their points and their bonuses."
 faq:
   - q: "How does scoring work in Ark Nova?"
     a: "Your appeal counter climbs one track while your conservation counter climbs toward it from the other end. At the end, add your appeal to the small number printed on your conservation space. Each conservation point counts for 2 appeal up to 10 points, then 3 each after that."

@@ -2,11 +2,13 @@
 title: "Competitive Dominion: Tournaments and Local Play"
 description: "Competitive Dominion: how the World Boardgaming Championships event runs, online ladders and championships, and where to find Dominion players near you."
 course: dominion
-order: 8
+order: 19
+level: 5
 emailSubject: "Yes, there is a Dominion championship"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Competitive Dominion is the game you already know, played with random kingdoms and a clock. The skill that wins is reading a new set of ten cards fast."
+nextTeaser: "Next, the tournament rules in detail: the one-hour round, randomizing the kingdom, bidding for your seat, and how ties break."
 tryThis: "Play five two-player games with random kingdoms this month. Before each one, give yourself two minutes to name your opening and your plan, then check how it went."
 ---
 Dominion looks like a quiet card game, and it is one. It also has a long competitive life: a championship event at the World Boardgaming Championships since 2009, official online championships, team events between countries, and ranked ladders you can join tonight. You do not need to win any of them to enjoy them. Knowing how they work changes how you play at home.
@@ -72,4 +74,4 @@ If you are near Indianapolis, join the [Indianapolis list](/lounges/indianapolis
 - **Race the benchmark.** The Dominion Strategy site [reports](https://dominionstrategy.com/big-money) that plain Big Money averages 4 Provinces by around turn 17. Play a kingdom alone and see whether your plan gets there sooner.
 - **Review your losses.** Where did your opponent pull ahead: the opening, the first Gold, or the last few buys?
 
-That is the end of the course. You now know how to play, teach, open, build, close out a game, choose expansions, and find a tournament. The game is the reason. The people across the table are the point.
+The rest of Level 5 turns this into a plan: the tournament rules in detail, a way to review your own games, and a six-week practice schedule.

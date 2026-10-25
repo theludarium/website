@@ -3,12 +3,13 @@ title: "How to Teach the One Piece Card Game"
 description: "How to teach the One Piece Card Game in ten minutes: a host script in the order you say it, what to leave out of the first game, and a printable teach sheet."
 course: one-piece-card-game
 order: 4
+level: 0
 emailSubject: "Teach One Piece to a friend in ten minutes"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Teach the Leader, DON!!, and one attack, then play with both hands face up. New players learn a card game by seeing choices, not by hearing rules."
 tryThis: "Print the teach sheet, play your friend's first game with both hands face up, and narrate your own choices out loud as you make them."
-nextTeaser: "Next, your first upgrades. How to make a starter deck stronger with a few single cards, without opening a pile of packs."
+nextTeaser: "Welcome to Level 1 next: your first three games. The rules slips nearly every new table makes, and the habits that fix them."
 ---
 Trading card games have a reputation for being hard to teach. Most of that comes from the cards: there are hundreds of them, and each one bends a rule. The One Piece Card Game has a short, regular turn underneath all that text. Teach the turn and let the cards explain themselves one at a time.
 

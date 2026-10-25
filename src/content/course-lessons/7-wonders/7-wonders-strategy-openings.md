@@ -2,13 +2,14 @@
 title: "7 Wonders and Duel Openings: Age I and the Wonder Draft"
 description: "7 Wonders opening strategy for Age I: resources, reading your Wonder board, early shields, and chains, plus how to draft Wonders and open Age I in Duel."
 course: 7-wonders
-order: 4
+order: 5
+level: 1
 emailSubject: "What to take with your first pick"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "In both games, Age I builds the economy everything else runs on. Read your Wonders before the first pick, take resources early, and keep your coins working."
 tryThis: "Before your next first pick, name the two resources your Wonder stages need most, and decide how you will get each one: build it, or buy it from a neighbor."
-nextTeaser: "Next, the midgame: reading neighbors when the passing flips, chains that pay off, and the tempo of the Duel layout."
+nextTeaser: "Next, the 7 Wonders track: how to read any Wonder board, Day or Night, and turn its stages into a plan for all three Ages."
 ---
 Neither game has a fixed opening the way chess does. The cards come out in a different order every time. But the first Age follows patterns in both, and players who win often treat it the same way: build the economy first, and let the points come later.
 

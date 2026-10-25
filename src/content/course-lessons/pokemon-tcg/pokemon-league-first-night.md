@@ -2,13 +2,14 @@
 title: "Your First Pokémon League Night: What to Expect"
 description: "Your first Pokémon League night at a Play! Pokémon store: how to find one, what to bring, how League runs, a Player ID, table manners, and tips for parents."
 course: pokemon-tcg
-order: 6
+order: 8
+level: 1
 emailSubject: "Your first Pokémon League night"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Pokémon League is built for beginners. Nobody expects you to know everything; they expect you to show up, shake hands, and play."
 tryThis: "Find one League near you on the official Event Locator, check its day and time, and put it on the calendar for the next two weeks."
-nextTeaser: "Next, prerelease survival: how a prerelease works, what is in the Build & Battle Box, and how to build a 40-card deck in under half an hour."
+nextTeaser: "Level 2 begins next: building a 60-card deck from scratch, with a skeleton that tells you what goes in before you pick a single favorite."
 ---
 Walking into a game store for the first time can feel like walking into someone else's living room. Everyone seems to know each other. The good news: Pokémon League exists for exactly this moment. The official Play! Pokémon site describes it as a casual space to meet, trade, and battle, and says plainly that everyone is welcome.
 
@@ -76,4 +77,4 @@ Stay for the first visit. Watch a game or two, meet whoever runs League, and dec
 
 ## After your first night
 
-Write down two things: a card that beat you, and a question you could not answer. The card points to your next upgrade from lesson 5. The question is perfect to ask next week.
+Write down two things: a card that beat you, and a question you could not answer. The card points to your next [upgrade](/academy/pokemon-tcg/pokemon-tcg-deck-upgrades/). The question is perfect to ask next week.

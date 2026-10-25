@@ -2,17 +2,18 @@
 title: "Pokémon TCG Prerelease Survival Guide"
 description: "Pokémon TCG prerelease guide for new players: what the Build & Battle Box holds, how to build a 40-card deck from it, the Limited rules, and what to bring."
 course: pokemon-tcg
-order: 7
+order: 12
+level: 2
 emailSubject: "Play the new set before it's out"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "At a prerelease, everyone starts with the same kind of box and nobody knows the cards yet. Start from the deck in the box and swap in only what clearly helps."
 tryThis: "Before the event, build a practice 40-card deck from cards you already own, by swapping cards one for one into a smaller deck, and play two games with it."
-nextTeaser: "Last lesson: what comes next. League Challenges, League Cups, Championship Points, age divisions, and the path from your local store to the World Championships."
+nextTeaser: "Level 3 begins next: the odds behind your opening hand, mulligans, and Prize cards, worked out from the real numbers in a 60-card deck."
 ---
 A **prerelease** is a store event held before a new set reaches shelves. You get a box of the new cards, build a deck from it, and play a few casual games. Everyone starts on the same footing, which makes it one of the friendliest events in the game for new players.
 
-## The next one: Mega Evolution: Delta Reign
+## The current one: Mega Evolution: Delta Reign
 
 The official Pokémon TCG site lists **Mega Evolution: Delta Reign** for **November 6, 2026**. Its expansion page says Build & Battle Boxes are available at Play! Pokémon store prerelease events starting **October 24, 2026**. <!-- VERIFY: the November 6 release date and October 24 prerelease start were read on tcg.pokemon.com by the writer; the fact check could not open it (it blocks automated reading). Play! Pokémon's news page does confirm Delta Reign Build & Battle Boxes come early at prerelease events. -->
 
@@ -26,9 +27,9 @@ So at the event you have two piles: a ready-to-play deck, and four packs of fres
 
 ## How is a prerelease game different?
 
-A prerelease uses **Limited** rules: you play with only the cards from your box, plus Basic Energy. The decks are 40 cards, not 60. The basic turn is the same game you learned in lesson 2.
+A prerelease uses **Limited** rules: you play with only the cards from your box, plus Basic Energy. The decks are 40 cards, not 60. The basic turn is the same game you learned in [how a turn works](/academy/pokemon-tcg/how-to-play-pokemon-tcg/).
 
-Prerelease games usually use fewer Prize cards than a normal game, which keeps them quick. The organizer will confirm the details at the start. <!-- VERIFY: the current Limited rules for prereleases (deck size 40, number of Prize cards, any change to the 4-copy rule) in the Play! Pokémon League Challenges, Cups, and Prerelease Guide. -->
+The Play! Pokémon Tournament Rules Handbook sets Limited games at **4 Prize cards** instead of 6, which keeps them quick, and it drops the usual limit of 4 copies of a card, unless a card's own text sets a limit. The organizer will confirm the details at the start. <!-- VERIFY: Limited rules (40 cards, 4 Prize cards, no copy limit) were read in the December 2024 Tournament Rules Handbook; confirm in the current Play! Pokémon TCG rules document. -->
 
 ## Building your deck in under half an hour
 

@@ -2,7 +2,8 @@
 title: "Your First Yu-Gi-Oh! Store Night: Locals Without the Nerves"
 description: "Your first Yu-Gi-Oh! locals: find an Official Tournament Store, register in NEURON, what to bring, how Swiss rounds and Side Decks work, and table etiquette."
 course: yugioh
-order: 6
+order: 11
+level: 2
 emailSubject: "What to bring to your first Yu-Gi-Oh! locals"
 pubDate: 2026-10-24
 draft: false

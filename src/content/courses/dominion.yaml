@@ -20,8 +20,33 @@ audience:
   - "Hosts who teach Dominion to family, friends, or a new group."
   - "Players who build clever decks and still lose to plain Silver and Gold."
   - "Anyone curious about expansions, online play, and the WBC tournament."
+levels:
+  - level: 0
+    name: "Tenant"
+    label: "Learn to play"
+    outcome: "Set up, teach, and finish a game with the First Game kingdom, every card played right, without opening the rulebook."
+  - level: 1
+    name: "Landholder"
+    label: "Beginner"
+    outcome: "Open with a plan, use Big Money plus one card as your yardstick, and blunt every attack in the base set."
+  - level: 2
+    name: "Lord"
+    label: "Intermediate"
+    outcome: "Trash down to a lean deck, build a Village and draw engine that pays off, and time your Provinces and Duchies."
+  - level: 3
+    name: "Earl"
+    label: "Advanced"
+    outcome: "Put odds on your next hands, read any kingdom in two minutes, and run or stop a Gardens rush and a three-pile ending."
+  - level: 4
+    name: "Regent"
+    label: "Tournament ready"
+    outcome: "Win the two-player duel, track an opponent's deck from what is public, and play a steady diet of ranked games online."
+  - level: 5
+    name: "Monarch"
+    label: "The championship path"
+    outcome: "Play under World Boardgaming Championships rules, bid for your seat, review every game, and follow a six-week plan to your first heat."
 afterLesson3: "Teach and play a clean game with the First Game kingdom, with the shuffle, the Action count, and the end of the game all handled right."
-afterLesson8: "Open well in any kingdom, choose between money and an engine, time your Provinces and Duchies, pick expansions, and find a tournament or online ladder."
+afterLesson8: "Open with a plan, measure your deck against Big Money, answer the base set's attacks, and choose between money and an engine in the midgame."
 faq:
   - q: "How many Action cards can you play in a Dominion turn?"
     a: "One, unless your cards give you more. A card that says +1 Action or +2 Actions adds to how many Action cards you may play, but you finish the current card before you play the next one."

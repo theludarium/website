@@ -3,12 +3,13 @@ title: "How to Teach Disney Lorcana in Ten Minutes"
 description: "How to teach Disney Lorcana in ten minutes: a host script in the order you say it, an open-hand first game, what to leave out, and a printable teach sheet."
 course: lorcana
 order: 4
+level: 0
 emailSubject: "Teach Lorcana to a friend in ten minutes"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Teach the race and the risk. Lore wins the game, exerting exposes you, and everything else can wait until a card on the table asks for it."
 tryThis: "Play your next teaching game with both hands face up on the table, and talk through every choice out loud for the first three turns."
-nextTeaser: "Next, your first upgrades: how to improve a starter deck one card at a time, buy singles on a budget, and check what is legal at the store."
+nextTeaser: "Level 1 starts with your first ten games: the rules slips and strategy traps almost every new player falls into, and how to fix each one."
 ---
 Lorcana is easy to teach badly. The cards are full of keywords, the deck is full of favorite characters, and it is tempting to explain every ability before anyone has played a card. Ten minutes later, nobody remembers what Evasive does or why it mattered.
 
@@ -73,7 +74,7 @@ Teach these the first time they come up:
 
 ## What to leave out
 
-- **Deck building.** Two inks, 60 cards, 4 copies: save it for lesson 5.
+- **Deck building.** Two inks, 60 cards, 4 copies: save it for Level 2 and the [deck building lesson](/academy/lorcana/lorcana-deck-building/).
 - **Shift,** until a Shift card is in someone's hand.
 - **Formats and tournaments.** Nobody needs them for a first game.
 

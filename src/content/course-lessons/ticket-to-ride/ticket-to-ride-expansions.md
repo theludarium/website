@@ -2,13 +2,14 @@
 title: "Ticket to Ride Player Counts, Variants, and Maps"
 description: "Ticket to Ride at 2 to 5 players, the USA 1910 expansion and its three variants, Europe, the Map Collection, and which Ticket to Ride map to try after the USA."
 course: ticket-to-ride
-order: 7
+order: 8
+level: 1
 emailSubject: "Which Ticket to Ride map next?"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Play the USA map until your group knows it well, then change one thing at a time: new tickets first, then a new map with one new rule."
 tryThis: "Before you buy anything new, play one game at a player count you rarely use. Two players on the USA map feels like a different game."
-nextTeaser: "Last lesson: how to compete. The World Boardgaming Championships, the Train Gamers Association events at Gen Con, and where to play online or nearby."
+nextTeaser: "Next, Level 2 begins with the midgame: managing your hand, choosing when to claim, and reading what every other player is building."
 ---
 Ticket to Ride has grown into a whole family: new tickets for the original map, new maps with their own twists, standalone editions, a legacy campaign, and kids' versions. That is a gift and a trap. Add too much at once and the clean three-choice turn gets buried. Change one thing at a time and the game grows with your group for years.
 
@@ -16,7 +17,7 @@ Ticket to Ride has grown into a whole family: new tickets for the original map, 
 
 The base game plays 2 to 5.
 
-- **Two players:** only one route of each double pair can be claimed, so the map stays tight even with two railroads. Bottlenecks matter most.
+- **Two players:** only one route of each double pair can be claimed, so the few true bottlenecks, cities with only two or three ways in, matter most, even though most of the board stays open.
 - **Three players:** the same double-route rule, with a third railroad competing for the same space. Every bottleneck now has two rivals.
 - **Four or five players:** both routes of a double pair open up, but more players want the same cities. More happens between your turns, so routes disappear fast.
 

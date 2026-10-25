@@ -3,6 +3,7 @@ title: "How to Play Flip 7"
 description: "How to play Flip 7: the 94-card deck, hit or stay, busting, Freeze, Flip Three, Second Chance, modifiers, the Flip 7 bonus, and scoring to 200, in plain words."
 course: flip-7
 order: 1
+level: 0
 emailSubject: "One more card, or stop?"
 pubDate: 2026-10-24
 draft: false
@@ -89,7 +90,7 @@ Busted players score nothing. A row of 3, 8, and 11 with a +4 above it scores 26
 
 Set every card from the round aside. Do not shuffle them back in. Pass the rest of the deck to the left; that player is the new dealer. When the deck runs out, shuffle the set-aside cards into a new deck. If that happens mid-round, leave the cards in front of players where they are, busted players included.
 
-So the deck changes from round to round: a round full of 12s leaves fewer for the next. Lesson 2 shows how to use that.
+So the deck changes from round to round: a round full of 12s leaves fewer for the next. Lesson 7 shows how to use that.
 
 ## How does the game end?
 

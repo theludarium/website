@@ -2,13 +2,14 @@
 title: "Power Grid Endgame: Step 3 and the Final Round Math"
 description: "Power Grid endgame strategy: how Step 3 arrives, how the end trigger works, how to count powered cities and cash for the final round, and how money breaks ties."
 course: power-grid
-order: 6
+order: 12
+level: 3
 emailSubject: "Count the last round before it starts"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "The final score is one number: cities you can power that last round. Count it for every player before the final auction, and the ending stops being a surprise."
 tryThis: "When someone is within four cities of the end trigger, write down each player's cities, plant capacity, and a guess at their cash. Update it every round until the game ends."
-nextTeaser: "Next, player counts, variants, and expansions: two-player rules with the rival company, the two map sides, and which expansion maps to try first."
+nextTeaser: "Next, the plant deck: what is in it at each player count, how fast it shrinks, and how to see the Step 3 card coming."
 ---
 Power Grid's ending looks sudden. Someone builds a pile of cities, the trigger is crossed, and the game is over. But nothing about it is hidden. Plants are face up, cities are on the board, and fuel sits on everyone's plants. You can count the finish a round or two ahead, and plan for it.
 

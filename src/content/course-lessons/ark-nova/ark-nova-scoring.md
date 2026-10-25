@@ -2,13 +2,14 @@
 title: "Ark Nova Scoring: Appeal, Conservation, and the Crossing"
 description: "Ark Nova scoring explained: how appeal and conservation tracks meet, why conservation is worth 3 appeal after 10, appeal as income, and how to read the gap."
 course: ark-nova
-order: 3
+order: 6
+level: 1
 emailSubject: "Two tracks, one finish line"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Appeal pays you at every break; conservation pays you at the end. Early appeal builds income, and late conservation, worth 3 appeal a point after 10, closes the gap fastest."
 tryThis: "At every break in your next game, write down your appeal, your conservation, and how many appeal spaces still separate your two counters."
-nextTeaser: "Next, conservation projects: which level to take, when the bottom level is the smart one, and how to race for the track bonuses."
+nextTeaser: "Next, the last piece of Level 1: laying out your zoo map so enclosures, kiosks, and placement bonuses all pay you back."
 ---
 Ark Nova's scoring looks strange the first time: two tracks, running in opposite directions, around the same board. Once you see them as one number, the gap between your two counters, most decisions get easier. This lesson shows how the tracks fit, what each point is worth, and how to read your position at a glance.
 
@@ -16,7 +17,7 @@ Ark Nova's scoring looks strange the first time: two tracks, running in opposite
 
 Your appeal counter starts near 0 and climbs. Your conservation counter starts at 0 on the far end of the same board and climbs back toward it. The board is cut into **scoring areas**: each is one conservation space plus the appeal spaces beside it.
 
-When your two counters sit in the same scoring area, or pass each other, the end of the game is triggered. Lesson 6 covers the timing. For now, think of the game as a race to close your own gap, and then to push past it.
+When your two counters sit in the same scoring area, or pass each other, the end of the game is triggered. The [endgame lesson](/academy/ark-nova/ark-nova-endgame/) covers the timing. For now, think of the game as a race to close your own gap, and then to push past it.
 
 ## What is each point worth?
 
@@ -39,7 +40,7 @@ The space your appeal counter sits on also shows the money you collect at every 
 
 Notice the slope. From 7 to 11 appeal, income rises by 2. From 11 to 14, by 1. Early appeal pays you again at every break for the rest of the game. Late appeal is mostly points.
 
-One caution: at 5 appeal, your zoo becomes a legal target for the interactive animal abilities. Lesson 7 covers them.
+One caution: at 5 appeal, your zoo becomes a legal target for the interactive animal abilities. The [competitive play lesson](/academy/ark-nova/ark-nova-competitive-play/) covers them.
 
 ## Conservation is points that grow late
 
@@ -50,7 +51,7 @@ Conservation comes from:
 - donations, once your Association card is upgraded,
 - your Final Scoring card at the end, worth 1 to 4.
 
-Early conservation counts less as points, but the track pays you along the way. At 2 you flip an action card or gain a worker. At 5 and 8 you take 5 money or a Bonus tile. And the first player to reach 10 makes everyone discard one of their two Final Scoring cards. Lesson 4 covers those races.
+Early conservation counts less as points, but the track pays you along the way. At 2 you flip an action card or gain a worker. At 5 and 8 you take 5 money or a Bonus tile. And the first player to reach 10 makes everyone discard one of their two Final Scoring cards. The [conservation projects lesson](/academy/ark-nova/ark-nova-conservation-projects/) covers those races.
 
 ## Read the gap
 
@@ -70,7 +71,7 @@ There is no fixed script, but many games follow a three-part shape:
 2. **Middle.** Appeal keeps rising. You race for the 5 and 8 bonuses, and you plan for the moment someone reaches 10.
 3. **Late.** Conservation is worth 3 a point. High project levels, releases into the wild, and your Final Scoring card close the gap quickly.
 
-For a sense of scale, the WBC 2025 event report mentions winning scores from 110 up to the event high of 148, at four-player tables.
+For a sense of scale, the WBC 2025 event report lists table-winning scores from 110 to 132.5 in the later rounds, and an event high of 148.
 
 <!-- AT OUR TABLE: one line on typical final scores in Levi's group, so readers can compare their own games. -->
 

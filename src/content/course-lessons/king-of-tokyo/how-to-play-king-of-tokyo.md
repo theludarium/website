@@ -3,6 +3,7 @@ title: "How to Play King of Tokyo"
 description: "How to play King of Tokyo: setup, what each die face does, scoring, when to enter or yield Tokyo, buying Power cards, and how the game ends, in plain words."
 course: king-of-tokyo
 order: 1
+level: 0
 emailSubject: "King of Tokyo on one page"
 pubDate: 2026-10-24
 draft: false

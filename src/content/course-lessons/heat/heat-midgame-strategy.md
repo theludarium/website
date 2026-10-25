@@ -2,13 +2,14 @@
 title: "The Heat Midgame: Cooldowns, Slipstream, and Tempo"
 description: "Heat: Pedal to the Metal midgame strategy: the Heat cycle, cooling down on time, slipstreaming through corners, blocked Spaces, Adrenaline, and when to Boost."
 course: heat
-order: 5
+order: 8
+level: 2
 emailSubject: "The Heat you spend comes back"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Every Heat you pay comes back around as a dead card in your hand. The midgame is about timing that loop: spend Heat where it buys the most Spaces, and cool down where it costs the least."
 tryThis: "In your next race, say out loud each time you cool down, and what gear you were in. At the end, count how many Heat went back to your Engine over the whole race."
-nextTeaser: "Next, the endgame: planning the final lap backward from the finish line, emptying your engine, and the points math of a Championship season."
+nextTeaser: "Next, the Garage draft: how to judge an Upgrade card, what its mandatory symbols really cost, and which picks fit the track."
 ---
 By the middle of a race, the field has spread out, every driver has paid for a corner or two, and the first Heat cards are turning up in hands. The opening was about your own rhythm. The midgame is about managing a loop you started on lap one, and about the cars around you.
 

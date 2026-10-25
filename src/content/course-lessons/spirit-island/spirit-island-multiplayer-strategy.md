@@ -2,7 +2,8 @@
 title: "Spirit Island Multiplayer Strategy and Teamwork"
 description: "Spirit Island multiplayer strategy: splitting the Island, stacking Damage, timing Fast Powers together, avoiding a quarterback, and where to find more players."
 course: spirit-island
-order: 7
+order: 23
+level: 5
 emailSubject: "Four Spirits, one plan"
 pubDate: 2026-10-24
 draft: false
@@ -61,7 +62,7 @@ In a solo game, one Island board is the whole Island. You may target yourself wi
 
 ## Beyond your table
 
-Spirit Island is cooperative, so there is no tournament ladder in the usual sense. It is not among the current events in the [World Boardgaming Championships event history](https://www.boardgamers.org/eventhistory/index.html). The challenge lives in the adversary levels and the rulebook's scoring, from lesson 6.
+Spirit Island is cooperative, so there is no tournament ladder in the usual sense. It is not among the current events in the [World Boardgaming Championships event history](https://www.boardgamers.org/eventhistory/index.html). The challenge lives in the adversary levels and the rulebook's scoring, covered in the [adversaries lesson](/academy/spirit-island/spirit-island-adversaries-and-scenarios/) and the [practice plan](/academy/spirit-island/spirit-island-practice-plan/).
 
 Big events do exist. At Gen Con 2024, Greater Than Games ran three Spirit Island Mega events, where many tables each played their own Island against one shared Invader board. The [publisher's report](https://shop.greaterthangames.com/blogs/news/spirit-island-at-gen-con-more) says all three ended in victory.
 

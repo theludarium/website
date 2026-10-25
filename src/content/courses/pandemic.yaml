@@ -18,8 +18,29 @@ audience:
   - "Hosts who bring Pandemic to game night and want every player, not just one, to have a say."
   - "Groups who keep losing to outbreak chains and want to know why."
   - "Anyone curious about Legacy, solo play, and harder challenges."
-afterLesson3: "Teach and play a clean game of Pandemic, without the rules slips that quietly make it easier or harder than it should be."
-afterLesson8: "Plan the opening, read the infection deck, count the player deck down to the last turn, pick expansions, and find solo challenges and people to play with."
+levels:
+  - level: 0
+    name: "Volunteer"
+    label: "Learn to play"
+    outcome: "Set up, teach, and run a full game, Epidemics and chain reactions included, without opening the rulebook."
+  - level: 1
+    name: "Responder"
+    label: "Beginner"
+    outcome: "Catch the common rules slips, play every role to its strength, open well before the first Epidemic, and build stations that save cards."
+  - level: 2
+    name: "Field Lead"
+    label: "Intermediate"
+    outcome: "Read the Infection discard pile, get cards to the right hand on time, play each Event at its best moment, and plan as a team with hands closed."
+  - level: 3
+    name: "Tactician"
+    label: "Expert"
+    outcome: "Put odds on the next Epidemic and the next outbreak, count the endgame to the last turn, and beat six Epidemics."
+  - level: 4
+    name: "Veteran"
+    label: "Mastery"
+    outcome: "Pick your next expansion or Legacy season, solve the official puzzles and scenarios, play solo, and set your own challenge ladder."
+afterLesson3: "Teach and play a clean game of Pandemic, Epidemics, outbreaks, and chain reactions included, without opening the rulebook."
+afterLesson8: "Plan the opening, play every role to its strength, build a useful station network, and read the Infection discard pile to know which cities come next."
 faq:
   - q: "How do you win Pandemic?"
     a: "Discover cures for all four diseases. Your team wins the moment the fourth cure is found, even with cubes still on the board. You do not need to eradicate anything."

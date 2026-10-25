@@ -3,12 +3,13 @@ title: "Heat Player Counts, Modules, and Expansions"
 description: "Heat: Pedal to the Metal player counts, the Legends, Garage, weather, and Championship modules, and what the Heavy Rain and Tunnel Vision expansions add."
 course: heat
 order: 7
+level: 1
 emailSubject: "Which Heat module first?"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "The base box already holds a whole season of variety. Add one module at a time, Garage upgrades first, and save the expansion boxes for when your group wants new tracks."
 tryThis: "Play your next race with the Garage quick start: deal 3 random Regular Upgrade cards to each player, and note which ones your group talks about afterward."
-nextTeaser: "Last lesson: how to compete. Tournament Mode, the World Boardgaming Championships, online play, and where to find local races."
+nextTeaser: "Level 2 begins with the midgame: the Heat cycle, cooling down on time, slipstreaming through corners, and reading what every driver can afford."
 ---
 Heat's second rulebook, Advanced Play and Championship System, holds four modules you can add one at a time or all together. Then come the expansion boxes, each with new tracks and a new twist. This lesson covers player counts, the modules in the base box, and the first two expansions, Heavy Rain and Tunnel Vision.
 
@@ -63,7 +64,7 @@ Before each race, the Event card names the track and lists the setup steps:
 - **Weather and Road Conditions:** drawn fresh for each race.
 - **Event:** a special rule or challenge for this race only.
 
-Points come from the Hall of Fame after each race; [lesson 6](/academy/heat/heat-endgame-strategy/) covers the math. For a very long evening, the GOAT challenge races 1961, 1962, and 1963 back to back. The booklet's last section, Tournament Mode, is in [lesson 8](/academy/heat/heat-tournaments/).
+Points come from the Hall of Fame after each race; [the endgame lesson](/academy/heat/heat-endgame-strategy/) covers the math. For a very long evening, the GOAT challenge races 1961, 1962, and 1963 back to back. The booklet's last section, Tournament Mode, waits at Level 4, in [competitive Heat](/academy/heat/heat-tournaments/). Two Level 2 lessons go deeper on what you add here: [drafting Garage upgrades](/academy/heat/heat-garage-upgrades/) and [racing Legends](/academy/heat/heat-solo-legends/).
 
 ## Heat: Heavy Rain
 

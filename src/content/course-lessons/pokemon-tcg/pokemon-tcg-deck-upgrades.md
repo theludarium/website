@@ -2,7 +2,8 @@
 title: "Upgrading Your First Pokémon Deck on a Budget"
 description: "How to upgrade a Pokémon TCG starter deck on a budget: target deck numbers, which singles to buy first, where to find them, and how to check Standard legality."
 course: pokemon-tcg
-order: 5
+order: 7
+level: 1
 emailSubject: "Ten cards that fix a starter deck"
 pubDate: 2026-10-24
 draft: false

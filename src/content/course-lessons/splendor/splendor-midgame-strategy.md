@@ -2,13 +2,14 @@
 title: "The Splendor Midgame: Engine, Tempo, and Reading the Table"
 description: "Splendor midgame strategy: turning bonuses into points, reading every player's engine, racing for nobles, reserving to deny, and using the gem supply wisely."
 course: splendor
-order: 5
+order: 7
+level: 2
 emailSubject: "What is everyone else about to buy?"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "In the midgame, the best purchase does two jobs: it scores and it builds. Find those cards, and check what every other player can buy before you choose."
 tryThis: "Before each turn in your next game, name one card each other player could buy right now. If one of them is the card you want, act on it this turn."
-nextTeaser: "Next, the endgame and scoring math: how the final round works, what cards are worth per gem, and how to count your path to 15."
+nextTeaser: "Next, nobles in depth: the two shapes every noble comes in, the color wheel behind them, and how to pick a race you can win."
 ---
 By the middle of a Splendor game, every player has a handful of cards and a direction. The opening was about your own engine. The midgame is about turning that engine into points, while watching everyone else's.
 

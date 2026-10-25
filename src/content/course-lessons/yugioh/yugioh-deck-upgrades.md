@@ -2,13 +2,14 @@
 title: "Upgrading Your First Yu-Gi-Oh! Deck on a Budget"
 description: "Upgrading a Yu-Gi-Oh! deck on a budget: pick one strategy, buy singles instead of packs, use Structure Decks well, check the ban list, and keep the deck at 40."
 course: yugioh
-order: 5
+order: 8
+level: 1
 emailSubject: "Stop buying packs. Buy these instead."
 pubDate: 2026-10-24
 draft: false
 oneIdea: "A deck gets better when you pick one plan and buy the exact cards that plan needs. Singles do that. Packs mostly do not."
 tryThis: "Before you spend a dollar, write a list of the 5 cards you most often wish you had drawn in your last few Duels. That list is your first shopping trip."
-nextTeaser: "Next, your first store night: finding an Official Tournament Store, what to bring, and how a local tournament runs from sign-up to the last round."
+nextTeaser: "Level 2 begins with consistency: how many starters a 40-card deck needs, and the real odds of opening one."
 ---
 Your starter decks are a fine way to learn. Sooner or later, though, you will want a deck of your own. The good news: a strong, fun deck does not have to cost much, as long as you spend on purpose. This lesson is about spending on purpose.
 
@@ -70,7 +71,7 @@ Your Extra Deck holds up to 15 cards: Fusion, Synchro, Xyz, and Link Monsters. M
 
 ## A format that rewards older cards
 
-Some Official Tournament Stores now run **Genesys**, an official format with no Link or Pendulum Monsters and no Extra Monster Zones. Instead of the usual ban list, some cards cost points and a deck must stay within a point cap, usually 100. If your old collection is mostly Fusion, Synchro, and Xyz, Genesys can be a friendly way back in. The [Genesys page](https://www.yugioh-card.com/en/genesys/) has the point list.
+Some Official Tournament Stores now run **Genesys**, an official format with no Link or Pendulum Monsters and no Extra Monster Zones. Instead of the usual ban list, some cards cost points and a deck must stay within a point cap, usually 100. If your old collection is mostly Fusion, Synchro, and Xyz, Genesys can be a friendly way back in. The [Genesys page](https://www.yugioh-card.com/en/genesys/) has the point list, and lesson 19 covers building for it.
 
 ## Sleeves and the rest
 

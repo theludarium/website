@@ -2,13 +2,14 @@
 title: "Power Grid Openings: The First Three Rounds"
 description: "Power Grid opening strategy: what the first auction does to turn order, when the discount plant pays, how to pick a start city, and how to budget 50 Elektro."
 course: power-grid
-order: 4
+order: 6
+level: 1
 emailSubject: "Your first auction sets the turn order"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "In round 1, the plant you buy also buys your seat in turn order. A big plant puts you first in the next auction and last for fuel and cities, so choose the seat on purpose."
 tryThis: "In your next first auction, before you bid, say which seat you want for round 1's fuel and building phases, and bid to land there."
-nextTeaser: "Next, the midgame: turn order as a resource, reading the fuel market, timing Step 2, and growing the three legs of your company together."
+nextTeaser: "Next, the payout card read as a curve: when a new city pays for itself, why capacity beats cities, and how to plan cash a round ahead."
 ---
 Power Grid has no fixed opening. The starting market is a random 8 plants from 03 to 15, and the play area changes every game. But the first three rounds follow patterns, and the players who handle them well treat them the same way: buy a seat, not just a plant, start where the map is quiet, and keep enough money to fuel what they own.
 
@@ -84,4 +85,4 @@ There is no perfect target, and player count changes everything. As a rough chec
 - A start area with room to grow before Step 2.
 - Enough cash that next round's fuel is not a worry.
 
-If you lead the cities track after round 3 and have no cash, the opening got away from you. The next lesson shows how to steer the midgame.
+If you lead the cities track after round 3 and have no cash, the opening got away from you. Level 2 shows how to steer the midgame.

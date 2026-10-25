@@ -2,13 +2,14 @@
 title: "Wingspan Openings: Your Starting Hand and Round One"
 description: "Wingspan opening strategy: what to keep from your first five cards, how to read your bonus card and the round goals, and how to spend round one's eight turns."
 course: wingspan
-order: 4
+order: 5
+level: 1
 emailSubject: "Your first eight turns of Wingspan"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Your opening starts before your first turn. Keep a hand you can play right away, then spend round one making your actions bigger rather than scoring points."
 tryThis: "In your next game, aim to have three birds on your mat by the end of round one, and keep a tally of which row you used most."
-nextTeaser: "Next, the midgame: how to tell when your engine is big enough, when to switch from building to scoring, and how to read what everyone else is doing."
+nextTeaser: "Next, food: how the birdfeeder dice really behave, when to reroll, and how to keep your pantry matched to your hand."
 ---
 Wingspan has no fixed opening. Your five birds are random, the tray is random, and the birdfeeder rolls fresh every few turns. But strong openings still look alike. They start with a hand that can be played, they spend round one growing, and they keep an eye on goals that will not score for an hour.
 

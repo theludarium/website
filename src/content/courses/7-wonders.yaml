@@ -19,8 +19,29 @@ audience:
   - "Hosts who teach 7 Wonders to a big group, or Duel to a partner."
   - "Players who keep finishing in the middle of the pack and want to know why."
   - "Anyone curious about expansions, online play, and the World Boardgaming Championships."
-afterLesson3: "Teach and play clean games of both 7 Wonders and Duel, without the trading and passing slips that trip up most new tables."
-afterLesson8: "Draft with a plan in both games, read your neighbors and the Duel layout, count science and military, pick expansions, and find a tournament."
+levels:
+  - level: 0
+    name: "Stonecutter"
+    label: "Learn to play"
+    outcome: "Set up, teach, and score a full game of 7 Wonders and of Duel without opening the rulebook."
+  - level: 1
+    name: "Merchant"
+    label: "Beginner"
+    outcome: "Play clean games of both, open Age I with a plan, and read your Wonder board and your Duel Wonders before the first card."
+  - level: 2
+    name: "Scholar"
+    label: "Intermediate"
+    outcome: "Read your neighbors and the Duel layout through the midgame, run a coin economy, choose Progress tokens with a reason, and count the endgame."
+  - level: 3
+    name: "Strategos"
+    label: "Advanced"
+    outcome: "Track every hand and hate-draft on purpose, control who opens the Duel layout, and see a supremacy win coming turns ahead."
+  - level: 4
+    name: "Sovereign"
+    label: "Tournament ready"
+    outcome: "Play both World Boardgaming Championships formats, bid for a Wonder with a number in mind, and follow a practice plan to your first event."
+afterLesson3: "Teach, play, and score a full game of both 7 Wonders and Duel by hand, without opening the rulebook."
+afterLesson8: "Play clean games of both, open with a plan, read your Wonder board and your Duel Wonders, and read your neighbors and the Duel layout through the midgame."
 faq:
   - q: "How many players does 7 Wonders need?"
     a: "The current edition of 7 Wonders plays 3 to 7. For two players, the publisher makes 7 Wonders Duel, a separate game built for exactly two, with its own cards and three ways to win."

@@ -29,7 +29,7 @@ Below are seven picks, grouped by who you are shopping for. Prices are approxima
 
 ## How the free courses work
 
-There are two kinds. Ticket to Ride, Carcassonne, Azul, and Wingspan get a full course: eight short lessons, from how to play and how to teach it in ten minutes to first-game mistakes, openings and scoring, all free to read on the site or sent by email one at a time. Codenames, King of Tokyo, and Flip 7 get a teach-tonight course: a printable teach sheet and two lessons, built for the host who wants to run a great first game the same evening.
+Every game on this list comes with a free Ludarium course: how to play, how to teach it in ten minutes, then the mistakes, strategy and tricks that make the next game better, level by level. Each one has a printable teach sheet, and every lesson is free to read on the site or sent by email one at a time.
 
 Every course on this list is free. The person you give the game to signs up if they want the emails, and unsubscribes whenever they like.
 
@@ -113,7 +113,7 @@ Two teams face a grid of 25 words. A spymaster on each team gives a one-word clu
 
 **Price:** about $20 to $25. <!-- VERIFY: Board Game Oracle showed $19.99 to $24.99 at major retailers including Target and Miniature Market (October 2026) --> See the [Codenames page at Czech Games Edition](https://czechgames.com/games/codenames).
 
-**The free teacher:** [One Word, One Number](/academy/codenames/), a teach-tonight course with a one-page teach sheet the host can print. For tips on giving better clues, see [Codenames clue tips](/articles/codenames-clue-tips/).
+**The free teacher:** [One Word, One Number](/academy/codenames/), a free course with a one-page teach sheet the host can print. For tips on giving better clues, see [Codenames clue tips](/articles/codenames-clue-tips/).
 
 <!-- AFFILIATE: Codenames -->
 
@@ -127,7 +127,7 @@ Each player is a giant monster rolling six dice up to three times, keeping what 
 
 **Price:** about $32 to $45, depending on retailer. <!-- VERIFY: Board Game Oracle showed $31.99 to $45.99 for the current edition (October 2026), with Target at $45.99 --> See the [King of Tokyo page at IELLO](https://iellogames.com/jeux/king-of-tokyo/).
 
-**The free teacher:** [Who Holds Tokyo](/academy/king-of-tokyo/), a teach-tonight course with a printable sheet and a five-minute teach.
+**The free teacher:** [Who Holds Tokyo](/academy/king-of-tokyo/), a free course with a printable sheet and a five-minute teach.
 
 <!-- AFFILIATE: King of Tokyo -->
 
@@ -141,7 +141,7 @@ A push-your-luck card game. On your turn you flip a card or stop. Each number ca
 
 **Price:** about $8. <!-- VERIFY: Board Game Oracle showed $7.95 to $7.99 at Walmart, Miniature Market, and Game Nerdz (October 2026) --> See the [Flip 7 page at The Op](https://theop.games/products/flip-7).
 
-**The free teacher:** [One More Card](/academy/flip-7/), a teach-tonight course that settles the action cards everyone argues about.
+**The free teacher:** [One More Card](/academy/flip-7/), a free course that settles the action cards everyone argues about.
 
 <!-- VERIFY: relink [stocking stuffer games](/articles/board-game-stocking-stuffers/) once that article is published; it is draft: true, and a link to it fails the build's broken-link check -->
 
@@ -183,7 +183,7 @@ Ticket to Ride for a family, Azul for a couple, and Codenames for a group. All t
 
 ### What is a good board game gift under $10?
 
-Flip 7. It costs about $8, plays three or more, and takes about 20 minutes. It comes with a free teach-tonight course too.
+Flip 7. It costs about $8, plays three or more, and takes about 20 minutes. It comes with a free course too.
 
 ### Is Wingspan too hard for a new player?
 

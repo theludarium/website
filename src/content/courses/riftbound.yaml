@@ -18,8 +18,33 @@ audience:
   - "Board gamers curious about a card game where the fight is over places, not life totals."
   - "New players with a Proving Grounds box who want the rules clear before a store night."
   - "Friends and parents teaching someone their first trading card game."
+levels:
+  - level: 0
+    name: "Recruit"
+    label: "Learn to play"
+    outcome: "Pick a first box, play a full game from preconstructed decks, read every part of a card, and teach a friend in ten minutes."
+  - level: 1
+    name: "Scout"
+    label: "Beginner"
+    outcome: "Play clean games without rules slips, predict every fight before you start it, upgrade your deck with a few singles, and enjoy your first Nexus Night."
+  - level: 2
+    name: "Raider"
+    label: "Intermediate"
+    outcome: "Spend runes with a plan, count the race to 8, build a deck from scratch, play free-for-all and 2v2, and build a sealed deck at a Pre-Rift."
+  - level: 3
+    name: "Tactician"
+    label: "Advanced"
+    outcome: "Weigh cards, tempo, and points in every trade, read and bluff in showdowns, put odds on your draws, and draft a deck with intent."
+  - level: 4
+    name: "Vanguard"
+    label: "Tournament ready"
+    outcome: "Register a legal list, play under the Tournament Rules without penalties, plan battlefields and sideboards across a best of three, and choose a deck for your field."
+  - level: 5
+    name: "Conqueror"
+    label: "The championship path"
+    outcome: "Know the road from store events to Regionals and Continentals, and follow a six-week plan to arrive at your first premier event ready."
 afterLesson3: "Play a full game from a preconstructed deck, pay for cards with energy and power, and read every part of a card."
-afterLesson8: "Teach the game, upgrade a deck on a budget, play a Nexus Night and a Pre-Rift, and know the road from there to Regionals."
+afterLesson8: "Teach the game, avoid the common beginner slips, predict a fight, upgrade a deck on a budget, and play your first Nexus Night."
 faq:
   - q: "How do you win at Riftbound?"
     a: "Score 8 points before anyone else. You score 1 point when you conquer a battlefield and 1 point for each battlefield you still hold at the start of your turn. A conquer only gives you the winning point if you scored every battlefield that turn; otherwise you draw a card instead."

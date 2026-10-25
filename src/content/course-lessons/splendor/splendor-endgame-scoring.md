@@ -2,13 +2,14 @@
 title: "Splendor Endgame and Scoring Math"
 description: "Splendor endgame and scoring math: points per gem by level, how the final round works, counting your path to 15, noble timing, and the fewest-cards tiebreaker."
 course: splendor
-order: 6
+order: 9
+level: 2
 emailSubject: "Count to fifteen before anyone else does"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "The end of Splendor is a counting problem. Know who gets another turn, what each player can score on it, and you can choose the turn you finish instead of hoping."
 tryThis: "When any player reaches 10 points in your next game, count how many turns you need to reach 15 and how many turns everyone else needs. Then play to that count."
-nextTeaser: "Next, player counts, variants, and expansions: what changes at two, three, and four players, and which Splendor box to try after the base game."
+nextTeaser: "Next, the two-player duel: a tighter supply, three nobles, and one opponent whose every move you can track."
 ---
 Splendor ends faster than people expect. One turn, everyone is building. The next, someone is at 12 and two cards from the finish. The players who win close games are the ones who counted before that moment arrived.
 
@@ -25,7 +26,7 @@ Before you trigger the end, count what each player after you can score on their 
 
 ## What cards are worth per gem
 
-Card values before any discounts, from player-written [strategy notes on Board Game Arena](https://en.doc.boardgamearena.com/Tips_splendor):
+Card values before any discounts, from player-written [strategy notes on Board Game Arena](https://en.doc.boardgamearena.com/Tips_splendor), checked against a full card list:
 
 | Level | Gem cost | Points |
 | --- | --- | --- |
@@ -34,7 +35,7 @@ Card values before any discounts, from player-written [strategy notes on Board G
 | 2 | 5 | 2 |
 | 2 | 6 | 3 |
 | 2 | 7 or 8 | 2 |
-| 2 | 8 | 1 |
+| 2 | 7 or 8 | 1 |
 | 3 | 7 | 4 |
 | 3 | 10 | 5 |
 | 3 | 12 | 4 |

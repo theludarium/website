@@ -2,13 +2,14 @@
 title: "The Everdell Midgame: Summer, Discounts, and the Meadow"
 description: "Everdell midgame strategy: making summer count, blue Governance rewards and discounts, Destinations, the Meadow, Events, and reading what each player needs."
 course: everdell
-order: 5
+order: 8
+level: 2
 emailSubject: "How to make summer count in Everdell"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Summer is when your city starts paying you to play cards. Blue cards and red Destinations turn each card you play into more cards, more resources, or more points."
 tryThis: "Before each card you play this summer, check whether a blue card in your city or a Destination you own could make it cheaper or give you something back."
-nextTeaser: "Next, the endgame and scoring math: autumn's six workers, purple bonuses, the autumn trail, and how to fill your last spaces."
+nextTeaser: "Next, card combos: the Construction and Critter pairs, Production chains, and reward cards that make each card in your city better."
 ---
 By summer, every city at the table has a shape. Some players have green cards humming. Others have a pile of resources and a plan. The opening was about investing. The midgame is about making each card you play do two jobs, and about watching what everyone else is about to do.
 

@@ -3,6 +3,7 @@ title: "How to Start Playing Magic: Your First Product"
 description: "How to start playing Magic: The Gathering: why the Foundations Beginner Box comes first, the free ways to learn, a first Commander deck, and what to skip."
 course: magic
 order: 1
+level: 0
 emailSubject: "The one box to buy before anything else"
 pubDate: 2026-10-24
 draft: false
@@ -12,7 +13,7 @@ nextTeaser: "Next, how a turn works: the play area, the phases in order, lands a
 ---
 Magic: The Gathering has been in print since 1993, and the shelf at a game store shows it. Play Boosters, Collector Boosters, Bundles, Commander decks, Jumpstart packs, and a new set every few months. For a new player, the hardest part is often not the rules. It is knowing what to buy first.
 
-This is an unofficial beginner's course for Magic. It runs from your first box to your first Commander night and your first draft. Lesson one is light on rules and heavy on one decision: where to start.
+This is an unofficial beginner's course for Magic. It runs from your first box to your first Commander night, your first draft, and on up the ladder to competitive play. Lesson one is light on rules and heavy on one decision: where to start.
 
 ## Start with the Foundations Beginner Box
 
@@ -36,7 +37,7 @@ The box is listed on Wizards' [Foundations product page](https://magic.wizards.c
 
 Two free routes are worth knowing before you spend anything.
 
-**Magic Academy.** These are new-player events at local game stores. Wizards describes two kinds: Learn to Play events teach the basic rules with simple decks, and Deck Building events show you how to build your first deck. They run about one to two hours, the store provides the cards, and kids are welcome. Find one with the [Wizards store and event locator](https://locator.wizards.com). Lesson 6 covers what to expect.
+**Magic Academy.** These are new-player events at local game stores. Wizards describes two kinds: Learn to Play events teach the basic rules with simple decks, and Deck Building events show you how to build your first deck. They run about one to two hours, the store provides the cards, and kids are welcome. Find one with the [Wizards store and event locator](https://locator.wizards.com). The [store night lesson](/academy/magic/first-friday-night-magic/) covers what to expect.
 
 **MTG Arena.** Wizards' digital version of Magic is free on desktop and mobile, with tutorials built in. It is a good way to practice the order of a turn on your own time. It does not replace sitting across from a person, which is the part of Magic that keeps people playing for decades.
 
@@ -60,7 +61,7 @@ Each box holds a 100-card deck, a foil commander, ten double-sided tokens, a ref
 
 - **Collector Boosters.** Wizards' own product guide calls them a "shortcut to the coolest cards": foils, special frames, and alternate art. They are built for collecting, not for learning to play.
 - **A full box of packs.** Opening a box is fun once. It is a slow and costly way to build a deck you can actually play.
-- **Single cards before you have a plan.** The cards people pay the most for are usually strong in one specific kind of deck. Wait until you know which deck is yours. Lesson 5 covers singles.
+- **Single cards before you have a plan.** The cards people pay the most for are usually strong in one specific kind of deck. Wait until you know which deck is yours. The [budget upgrades lesson](/academy/magic/magic-budget-upgrades/) covers singles.
 - **Every new set.** A new set arrives every few months. You do not need to follow them to have fun, and your Beginner Box cards still play next year.
 
 ## A simple buying order

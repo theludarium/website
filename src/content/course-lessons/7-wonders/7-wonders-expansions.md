@@ -2,13 +2,14 @@
 title: "7 Wonders Player Counts, Variants, and Expansions"
 description: "7 Wonders at 3 to 7 players, why a table of two should reach for Duel, and which expansions to try first: Leaders, Cities, Armada, Edifice, Pantheon, and Agora."
 course: 7-wonders
-order: 7
+order: 12
+level: 2
 emailSubject: "Which 7 Wonders expansion first?"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Learn each base game well, then add one expansion at a time. Each one adds a single new layer, and the base game is still underneath it."
 tryThis: "Play your next 7 Wonders game on the Night sides of the Wonder boards. It is a free variant already in the box."
-nextTeaser: "Last lesson: how to compete. The World Boardgaming Championships events for both games, online play, and finding opponents near you."
+nextTeaser: "Level 3 starts on the 7 Wonders track: card memory and hate-drafting, or how to know what is in every hand before it reaches you."
 ---
 7 Wonders and Duel both have a small, well-chosen set of expansions. That makes choosing easier than for games with dozens of boxes. This lesson starts with what changes at different player counts, then the free variants already in your box, then each expansion and spin-off worth knowing.
 

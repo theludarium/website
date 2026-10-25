@@ -3,6 +3,7 @@ title: "How to Read a Pokémon Card, Part by Part"
 description: "How to read a Pokémon card: Stage, HP, type, Abilities, attack costs and damage, Weakness, Resistance, Retreat Cost, regulation marks, and the ex rule box."
 course: pokemon-tcg
 order: 3
+level: 0
 emailSubject: "What every number on a Pokémon card means"
 pubDate: 2026-10-24
 draft: false
@@ -50,7 +51,7 @@ Remember: Weakness and Resistance apply only to the Active Pokémon, never to Be
 
 ## The very bottom: where it is from
 
-**Regulation mark.** The small letter in the bottom left. Since 2020, every card carries one, and tournaments use these letters to decide which cards are legal in the Standard format. Lesson 8 covers formats.
+**Regulation mark.** The small letter in the bottom left. Since 2020, every card carries one, and tournaments use these letters to decide which cards are legal in the Standard format. The [tournaments lesson](/academy/pokemon-tcg/pokemon-tcg-tournaments/) covers formats.
 
 **Set code and card number.** Which expansion the card came from, and its number in that set. Handy for looking up a card or checking whether a store has a copy.
 

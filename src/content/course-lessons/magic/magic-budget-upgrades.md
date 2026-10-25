@@ -2,7 +2,8 @@
 title: "Your First Magic Upgrades: Singles on a Budget"
 description: "Upgrade your first Magic: The Gathering deck on a budget: why singles beat packs, what to swap first in a Commander deck, card condition, and printings."
 course: magic
-order: 5
+order: 7
+level: 1
 emailSubject: "Stop buying packs to fix your deck"
 pubDate: 2026-10-24
 draft: false
@@ -29,7 +30,7 @@ A good rule: never buy a card the same day you first hear about it. Prices move 
 If your first deck is a Foundations Commander deck or another ready-to-play deck, play it unchanged for five to ten games first. Then upgrade in this order:
 
 1. **Cut the cards that never do anything.** Your list of dead cards from the try-this box is the start. A card that is always too slow, too small, or too narrow for your deck is your first swap.
-2. **Make sure you can cast your spells.** Count your lands and your ways to find more mana. A deck that stalls on three lands loses to every deck that does not.
+2. **Make sure you can cast your spells.** Count your lands and your ways to find more mana, using the starting numbers from the [land count lesson](/academy/magic/magic-mana-curve-land-count/). A deck that stalls on three lands loses to every deck that does not.
 3. **Add ways to draw cards.** Commander games run long, and running out of cards in hand is a common way to fall behind.
 4. **Add answers.** A few cards that remove a threatening creature or artifact help in every game.
 5. **Then add more of your theme.** If your deck is about Dragons, more good Dragons. Keep the plan that made you choose the deck.
@@ -53,7 +54,7 @@ Upgrades can quietly move your deck up a bracket. That is fine, as long as you t
 
 Marketplaces grade condition, usually from Near Mint down through Lightly Played and worse. For a card that lives in a sleeve, a lightly played copy plays exactly the same and often costs less.
 
-Many cards have been printed several times, with different art, frames, or foil. Every printing of a card plays by the same official rules text, even when an older printing words it differently, so the plainest printing is usually the cheapest way to play it. When a listing matters, the set code and collector number from lesson 3 tell you exactly which printing you are getting.
+Many cards have been printed several times, with different art, frames, or foil. Every printing of a card plays by the same official rules text, even when an older printing words it differently, so the plainest printing is usually the cheapest way to play it. When a listing matters, the set code and collector number from the [card reading lesson](/academy/magic/how-to-read-a-magic-card/) tell you exactly which printing you are getting.
 
 ## If you want to play Standard
 

@@ -3,12 +3,13 @@ title: "How to Teach Pandemic"
 description: "How to teach Pandemic in ten minutes: a host script in the order you say it, what to hold back, how to keep one player from running the game, and a teach sheet."
 course: pandemic
 order: 2
+level: 0
 emailSubject: "Teach Pandemic in ten minutes"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Teach the threat before the tools. Once the table sees how infection and Epidemics work, every action makes sense, and everyone can join the planning."
 tryThis: "Print the teach sheet, set up before anyone sits down, and have each player read their own role card aloud during the teach."
-nextTeaser: "Next, your first three games: the rules slips almost every new table makes, and the habits that lose games early."
+nextTeaser: "Next, the last piece of Level 0: Epidemics, outbreaks, and chain reactions resolved step by step, so the scariest moments of the game run cleanly."
 ---
 Pandemic is a great game to host because the board shows the problem. Cubes pile up, everyone can see where, and the table starts talking without being asked. The teach goes wrong in two ways. The host reads out all eight actions and seven roles before anyone moves. Or the host knows the game best and ends up playing everyone's turns.
 

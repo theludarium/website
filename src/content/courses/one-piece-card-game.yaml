@@ -17,8 +17,33 @@ audience:
   - "Board gamers curious about a trading card game with a steady, predictable resource."
   - "New players with a starter deck who want the rules clear before a store event."
   - "Friends and parents teaching someone their first game."
-afterLesson3: "Play a full game from a starter deck, read every part of a card, and know when to block, counter, or take the hit."
-afterLesson8: "Teach the game, upgrade a starter on a budget, play a store tournament and a sealed release event, and know the road from there to Regionals."
+afterLesson3: "Pick a starter deck, play a full game from it, and read every part of a card."
+afterLesson8: "Teach the game, play clean games, budget your DON!!, defend with Blockers and Counters, and upgrade a starter on a budget."
+levels:
+  - level: 0
+    name: "Stowaway"
+    label: "Learn to play"
+    outcome: "Pick a starter deck, play a full game from it, read every part of a card, and teach a friend in ten minutes."
+  - level: 1
+    name: "Deckhand"
+    label: "Beginner"
+    outcome: "Play clean games, budget your DON!! every turn, know when to block, counter, or take the hit, and upgrade a starter on a budget."
+  - level: 2
+    name: "Navigator"
+    label: "Intermediate"
+    outcome: "Play a Store Tournament with confidence, choose first or second on purpose, keep your hand stocked, and build a sealed deck at a release event."
+  - level: 3
+    name: "First Mate"
+    label: "Advanced"
+    outcome: "Count lethal through Counters, read what an opponent can still do, put odds on your draws, and build a 50-card deck from scratch."
+  - level: 4
+    name: "Captain"
+    label: "Tournament ready"
+    outcome: "Play a clocked match under the Tournament Rules Manual, choose a deck for the field, and follow a six-week plan into a competitive event."
+  - level: 5
+    name: "Commodore"
+    label: "The championship path"
+    outcome: "Know the road from Store Championships to Regionals, Finals, and Worlds, handle a long Regional day, and stay sharp through every new set and rotation."
 faq:
   - q: "What is DON!! in the One Piece Card Game?"
     a: "DON!! cards are your resource. You keep a separate 10-card DON!! deck and add 2 to your cost area each turn. You rest DON!! to pay costs, or give them to your Leader or Characters for 1000 extra power each during your turn."
@@ -65,6 +90,7 @@ related:
   - "card-drafting-explained"
   - "how-to-run-a-board-game-tournament"
   - "trading-and-selling-games"
+  - "card-advantage-in-cube"
 tcg:
   starter: "STARTER DECK -The Desert Princess and the Pirates- [ST-37] and STARTER DECK -Baroque Works- [ST-38], due December 2026"
   firstEvent: "Store Tournament, found and joined in the Bandai TCG+ app"

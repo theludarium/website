@@ -2,15 +2,16 @@
 title: "Cascadia Openings: Reading All Twenty Scoring Cards"
 description: "Cascadia opening strategy and all twenty wildlife scoring cards, A to D for bears, elk, salmon, hawks, and foxes, with what each card rewards from turn one."
 course: cascadia
-order: 4
+order: 8
+level: 2
 emailSubject: "What the five cards on the table are telling you"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Your opening starts before turn one, when you read the five scoring cards. Each card asks for a shape, and the best openings commit to the two or three shapes this set makes easiest."
 tryThis: "Before your next game, sort the five cards into forgiving and demanding, and pick your two main animals before anyone takes a tile."
-nextTeaser: "Next, the midgame: reading the display, timing nature tokens, and knowing when to drop an animal everyone else wants."
+nextTeaser: "Next, tile placement: how to lay tiles as landing spots for the shapes you want, and how to keep your best spots open until the right token comes."
 ---
-Cascadia has four scoring cards for each of its five animals, lettered A to D. One of each goes on the table, so there are 1,024 possible card sets. That is why no two games open the same way. The tiles change, but more than that, the shapes worth building change.
+Welcome to Level 2. At Level 1 you learned the A cards. Cascadia has four scoring cards for each of its five animals, lettered A to D. One of each goes on the table, so there are 1,024 possible card sets. That is why no two games open the same way. The tiles change, but more than that, the shapes worth building change.
 
 This lesson reads all twenty cards, in the rulebook's own terms, then turns them into a plan for your first five turns. The exact point tables are printed on the cards; where the rulebook's scoring example gives a number, we use it.
 
@@ -51,8 +52,10 @@ A run is a group of salmon where each one touches no more than two other salmon.
 
 - **A:** each run scores by size, up to a maximum of seven. A run of four scores 12 in the rulebook's example.
 - **B:** each run scores by size, up to a maximum of five.
-- **C:** only runs of three to five score.
+- **C:** only runs of three or more score, and the table tops out at five.
 - **D:** each run scores 1 point per salmon, plus 1 point for each animal token next to it, of any kind.
+
+<!-- VERIFY: Dire Wolf's salmon spotlight says Salmon D needs runs of at least three; the rulebook text gives no minimum. Check a physical Salmon D card. -->
 
 Salmon A wants one long, snaking run. Salmon D wants runs surrounded by other animals, so it pairs well with cards that crowd animals together.
 

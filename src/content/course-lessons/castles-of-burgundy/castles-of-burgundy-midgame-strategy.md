@@ -2,13 +2,14 @@
 title: "The Castles of Burgundy Midgame: Workers, Tempo, and the Bridge"
 description: "Castles of Burgundy midgame strategy: turn two dice into more actions, spend workers and silver well, use ships for tempo, and read what every rival duke needs."
 course: castles-of-burgundy
-order: 5
+order: 8
+level: 2
 emailSubject: "Two dice are never just two actions"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "In the midgame, your two dice are the floor, not the ceiling. Castles, town halls, the black depot, and well-spent workers turn a two-action turn into three or four."
 tryThis: "In your next game, count your actions each turn in phases B and C. Look for at least one turn per phase where you take three or more."
-nextTeaser: "Next, the endgame and scoring math: what each region is worth by phase, and how to spend every last worker, silver, and good."
+nextTeaser: "Next, the monastery tiles: all 26 sorted by when they pay, and how to tell a strong one from a pretty trap."
 ---
 By phase B, every duchy at the table has a shape. Regions are half built, storage spaces hold plans, and a few players have a worker pile or some silver. The opening was about laying foundations. The midgame is about tempo: getting more done per turn than the dice alone allow, and doing it before someone else takes the tile you need.
 
@@ -52,7 +53,7 @@ A good habit: before you buy, know where the tile will go and which die will pla
 
 Every ship moves your piece forward on the bridge, and if that space is occupied, your piece goes on top. Going first in a round means first pick of every depot.
 
-That matters most when depots are rich, early in a phase, and when two players want the same tile. If a rival needs the last castle in depot 5, and a ship this round moves you ahead of them for the next, you get goods, points from the sale, and first claim on that castle. You do not need the castle to want it. Denying a rival a region-closing tile can be worth as much as scoring one yourself.
+That matters most when depots are rich, early in a phase, and when two players want the same tile. If a rival needs the last castle in depot 6, and a ship this round moves you ahead of them for the next, you get goods, points from the sale, and first claim on that castle. You do not need the castle to want it. Denying a rival a region-closing tile can be worth as much as scoring one yourself.
 
 ## Selling goods well
 

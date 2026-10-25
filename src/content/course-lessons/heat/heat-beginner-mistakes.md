@@ -2,13 +2,14 @@
 title: "Your First Three Races of Heat"
 description: "Heat: Pedal to the Metal beginner mistakes, from rules slips like counting slipstream in corners to traps like hoarding Heat or playing Stress into corners."
 course: heat
-order: 3
+order: 4
+level: 1
 emailSubject: "The mistakes every new Heat table makes"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "First-race trouble comes from two places: small rules slips about what counts as Speed, and Heat spent in the wrong places, or never spent at all."
 tryThis: "After each of your next three races, note how much Heat was left in your Engine at the finish. Most of the time, the right number is zero or close to it."
-nextTeaser: "Next, openings. We plan the first lap: your first gear shifts, the first corner, and a Heat budget that still leaves you something for lap two."
+nextTeaser: "Next, openings. Plan the first lap: your first gear shifts, the first corner, and a Heat budget that still leaves you something for lap two."
 ---
 Your first three races of Heat are where habits form. Some are rules slips, quietly played wrong because nobody checked. Others are legal moves that cost Spaces, and in a race, Spaces are everything. This lesson covers both, checked against the current Rules booklet.
 
@@ -46,7 +47,7 @@ New drivers treat Heat like health. They brake for every corner and cross the fi
 
 Heat is a budget. Every point you go over a Speed Limit is a Space you gained by paying for it. The goal is not to save Heat. It is to spend it where it buys the most, and to cool down often enough that you never run dry at the wrong corner.
 
-The opposite mistake shows up too: a driver who spends it all on the first lap and spends the second lap creeping through corners in 1st gear. [Lesson 4](/academy/heat/heat-opening-strategy/) gives you a simple budget for each lap.
+The opposite mistake shows up too: a driver who spends it all on the first lap and spends the second lap creeping through corners in 1st gear. [The openings lesson](/academy/heat/heat-opening-strategy/) gives you a simple budget for each lap.
 
 ## Not counting the Spaces
 

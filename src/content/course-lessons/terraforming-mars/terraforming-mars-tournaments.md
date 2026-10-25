@@ -2,12 +2,14 @@
 title: "Competitive Terraforming Mars: Tournaments and Local Play"
 description: "Competitive Terraforming Mars: how tournament games run, the World Boardgaming Championships event, national qualifiers, and where to play online or near you."
 course: terraforming-mars
-order: 8
+order: 20
+level: 5
 emailSubject: "Yes, people play Terraforming Mars on a clock"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Competitive Terraforming Mars is the game you know, played at four-player tables with a draft, usually Prelude, and a time limit. Practice that setup and you are ready for your first event."
 tryThis: "Play your next three games with four players, Prelude, and the draft, and aim to finish each in under two hours. Write down your final score by category every time."
+nextTeaser: "Next, tournament rules and procedure: the clock, the end-of-time rule, announcing your actions, handling mistakes, and how ties are broken."
 ---
 Terraforming Mars is a long game, and that shapes its competitive scene. Tournaments run fewer rounds, give each game hours instead of minutes, and often add expansions. You do not need to play in one to enjoy the game. But knowing how they run is a good map for where your own play can go.
 
@@ -21,7 +23,7 @@ Events set their own rules, but a few patterns show up again and again:
 - **Drafting.** WBC 2025 drafted the starting project cards, drafted every generation from generation 2, and drafted Preludes too.
 - **No training wheels.** WBC played with the Corporate Era cards, did not allow Beginner Corporations, and banned a few corporations outright.
 
-If you want to practice for an event, the [variants and expansions lesson](/academy/terraforming-mars/terraforming-mars-expansions/) covers Prelude and the draft.
+If you want to practice for an event, Level 3 covers [Prelude](/academy/terraforming-mars/terraforming-mars-prelude-strategy/) and [the draft](/academy/terraforming-mars/terraforming-mars-draft-strategy/), and Level 4 covers [Colonies](/academy/terraforming-mars/terraforming-mars-colonies-strategy/), [Venus Next](/academy/terraforming-mars/terraforming-mars-venus-next-strategy/), and [the other maps](/academy/terraforming-mars/terraforming-mars-hellas-elysium-maps/).
 
 ## The World Boardgaming Championships
 
@@ -47,7 +49,7 @@ Many conventions also run one-off Terraforming Mars tournaments, each with its o
 
 ## Online play
 
-[Board Game Arena](https://boardgamearena.com/gamepanel?game=terraformingmars) has had Terraforming Mars since March 2024. You play in your browser, with options for Corporate Era, Prelude, Colonies, and several maps. The site tracks the rules and the bookkeeping for you, which makes it a good place to learn hundreds of cards without slowing a table down.
+[Board Game Arena](https://boardgamearena.com/gamepanel?game=terraformingmars) has had Terraforming Mars since March 2024. You play in your browser, with options for Corporate Era, Prelude, Colonies, and several maps. <!-- VERIFY: confirm the Board Game Arena launch date and its current expansion options. --> The site tracks the rules and the bookkeeping for you, which makes it a good place to learn hundreds of cards without slowing a table down.
 
 There is also a digital edition [on Steam](https://store.steampowered.com/app/800270/Terraforming_Mars/), with online multiplayer.
 
@@ -69,4 +71,4 @@ If you are near Indianapolis, join the [Indianapolis list](/lounges/indianapolis
 - **Score by category.** After each game, split your total into TR, map, milestones and awards, and cards. Your weakest category is your next lesson.
 - **Review your switch.** Find the generation you stopped building and started scoring. Was it too late?
 
-That is the end of the course. You now know how to play, teach, open, run a midgame, count the end, choose expansions, and find a tournament. Mars takes a whole table to terraform. That is the best part.
+That is the map. The next two lessons get you ready to sit down at one of these tables: first the tournament rules and procedure, then a practice plan to get your game where it needs to be.

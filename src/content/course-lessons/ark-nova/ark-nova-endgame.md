@@ -2,13 +2,14 @@
 title: "Ark Nova Endgame: Timing the Crossing"
 description: "Ark Nova endgame strategy: how the end is triggered, who gets one more turn, counting Final Scoring cards, when to release, and lining up your last actions."
 course: ark-nova
-order: 6
+order: 15
+level: 3
 emailSubject: "Who gets the last turn in Ark Nova?"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Ark Nova ends on someone's crossing, not on a round count. Know who can trigger it, line up your strongest action for your final turn, and count your end scoring before you pull the trigger."
 tryThis: "The first time any player gets close to crossing in your next game, write down your remaining turns and which card will sit in slot 5 for each one."
-nextTeaser: "Last lesson: reading the other zoos at the table, and the competitive path from Board Game Arena to the 2027 world championship."
+nextTeaser: "Level 4 begins with the break: who it helps, when to push it, and how to arrive at every payday ready to spend."
 ---
 Ark Nova has no fixed number of rounds. The game ends when someone's appeal and conservation counters meet, and that moment can arrive sooner than the table expects. Players who plan for it finish with their best action loaded. Players who do not finish with a hand of animals they never played.
 
@@ -19,7 +20,7 @@ The end is checked at two moments: at the end of a player's turn, and during a b
 - **Triggered at the end of your turn:** every other player takes one more turn. You do not.
 - **Triggered during a break:** everyone takes one more turn, you included.
 
-Then comes final scoring. A counter that crosses on someone else's turn, say from a sponsor that pays you appeal when rivals play certain animals, still waits for the end of your turn or the next break before it triggers anything.
+Then comes final scoring. A counter that crosses on someone else's turn, say from a card effect that fires on a rival's turn, still waits for the end of your turn or the next break before it triggers anything.
 
 ## Who gets the last turn?
 
@@ -40,7 +41,7 @@ Then add their Final Scoring card, which can be worth up to 4 conservation. You 
 
 ## Line up your last turns
 
-Once someone is close, start counting turns. Use lesson 2's row planning in reverse: decide which action you want for your final turn, then pick earlier actions that leave it in slot 5.
+Once someone is close, start counting turns. Use the row planning from the [action cards lesson](/academy/ark-nova/ark-nova-action-cards/) in reverse: decide which action you want for your final turn, then pick earlier actions that leave it in slot 5.
 
 Three things almost never score at the end: money, X-tokens, and cards in hand. Plan to spend them. A last turn that uses three X-tokens to push Animals or Association to a higher strength is often the biggest turn of your game.
 

@@ -3,6 +3,7 @@ title: "How to Play Dominion"
 description: "How to play Dominion: setup, the Action, Buy, and Clean-up turn, how your deck shuffles and grows, the First Game kingdom, and how a game ends, in plain words."
 course: dominion
 order: 1
+level: 0
 emailSubject: "Dominion in three letters: A, B, C"
 pubDate: 2026-10-24
 draft: false

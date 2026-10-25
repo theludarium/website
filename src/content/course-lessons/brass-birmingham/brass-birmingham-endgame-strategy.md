@@ -1,13 +1,15 @@
 ---
-title: "Brass: Birmingham Endgame Planning and Tournaments"
-description: "Brass: Birmingham endgame strategy: count your final actions, spend every pound, time the last loan, flip what scores, and find tournaments like the WBC."
+title: "Brass: Birmingham Endgame Planning"
+description: "Brass: Birmingham endgame strategy: count your final actions, spend every pound, time the last loan, flip what scores, and choose your last-round turn order."
 course: brass-birmingham
-order: 7
+order: 16
+level: 4
 emailSubject: "Your last eight cards"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Once the deck runs out, the end of the game is a countdown you can see. Count your remaining actions, turn every pound into points, and leave nothing unflipped that could have scored."
 tryThis: "When the draw deck runs out in your next Rail Era, write down your remaining actions and plan each one before you play it."
+nextTeaser: "Next, the clock: how to finish a four-player game inside a three-hour tournament round without rushing the turns that matter."
 ---
 The last rounds of Brass: Birmingham are the most predictable part of the game. The deck is gone, every hand is a number you can count, and most of the board is set. That makes them the best place to win points with planning instead of luck.
 
@@ -44,29 +46,10 @@ Ties go to the higher income level, then to more money. If players are still tie
 
 <!-- AT OUR TABLE: one line on a final-round habit Levi recommends, such as writing the last eight actions on a scrap of paper. -->
 
-## Where to play competitively
+## Count the rivals too
 
-The [World Boardgaming Championships](https://www.boardgamers.org/) (WBC) runs a Brass tournament, and its [winners list](https://www.boardgamers.org/winners/BRS.html) goes back to 2010. For 2026, the [event preview](https://www.boardgamers.org/wbc26/Previews/brs.html) named Brass: Birmingham as the default version. It listed the event as open to beginning players, with three heats of three-hour rounds, the top 16 moving on to a semifinal, and the semifinal winners to a four-player final. WBC 2026 was held at Seven Springs Mountain Resort in Pennsylvania.
+Every player runs out of cards in the same round, so once the deck is gone you know exactly how many actions each rival has left: the same number as you. That turns guesses into short lists. If a rival has two unflipped cotton mills and two actions left, a Sell is coming, and the merchant beer they need is the barrel you might take first. If nobody else has a brewery with beer on it, your own barrels are about to become very popular, and every one a rival uses moves your brewery closer to flipping.
 
-<!-- VERIFY: check the WBC 2027 event list for the Brass event's dates, version, and format before the next convention. -->
+Watch the character tiles in the last rounds as well. The money on them shows what each player has spent so far this round, so before your own turn you can tell roughly where you will land in the next round's order.
 
-For online play, check the game's [BoardGameGeek page](https://boardgamegeek.com/boardgame/224517/brass-birmingham) and [Roxley's page for the game](https://roxley.com/products/brass-birmingham) for the current options.
-
-<!-- VERIFY: confirm a current official or licensed way to play Brass: Birmingham online, and name it here with a link. -->
-
-For local play:
-
-- **Your local game store.** Ask whether anyone plays heavy economic games at its open game nights.
-- **Roxley's fan community.** Roxley's site links to a [Brass fan group on Facebook](https://www.facebook.com/groups/brassfans/), a good place to ask about players near you.
-- **Start your own.** Our guide on [how to start a play group](/articles/how-to-start-a-play-group/) walks through it, from the first invite to a regular night.
-
-If you are near Indianapolis, join the [Indianapolis list](/lounges/indianapolis/) for first word on local learn-to-play nights as The Ludarium grows.
-
-## What to play next
-
-Roxley publishes two more games on the same system. [Brass: Lancashire](https://roxley.com/products/brass-lancashire) is Martin Wallace's original, and Roxley's edition tweaks the rules and improves the 2 and 3 player game. [Brass: Pittsburgh](https://roxley.com/products/brass-pittsburgh) is a new sequel by Gavan Brown and Martin Wallace, set in America's Gilded Age; at the time of writing it was in late pledge on Gamefound.
-
-<!-- AFFILIATE: Brass: Lancashire -->
-<!-- AFFILIATE: Brass: Pittsburgh -->
-
-That is the end of the masterclass. You can teach the game, play both eras with a plan, route every resource correctly, time your loans, count your links, and plan the last rounds to the action. The game is the reason. The people across the table are the point.
+The rest of Level 4 picks up from here: finishing on time and reviewing each game. Level 5 then covers how the World Boardgaming Championships runs its Brass event, where to find serious games, and a practice plan for the weeks before a tournament.

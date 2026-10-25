@@ -2,13 +2,14 @@
 title: "Brass: Birmingham Coal, Iron, and Beer Rules"
 description: "Brass: Birmingham coal, iron, and beer rules made exact: network versus connection, the closest coal mine, both markets, merchant beer, and the gift economy."
 course: brass-birmingham
-order: 4
+order: 3
+level: 0
 emailSubject: "Coal, iron, and beer, exactly"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Each resource has its own connection rule. Coal must be connected, iron never needs to be, and beer depends on whose barrel it is. Once those three rules are automatic, your attention is free for strategy."
 tryThis: "In your next game, before each Build, Sell, or rail, say where every coal, iron, and beer is coming from. Fix any mistake on the spot."
-nextTeaser: "Next, money: when a loan pays off, how the income track works, and how spending decides turn order."
+nextTeaser: "Level 1 starts with your first three games: the rules slips and strategy traps nearly every new table falls into, and how to fix each one."
 ---
 Most rules questions in Brass: Birmingham come down to where a cube or a barrel may come from. The answers are all in the rulebook, and they are short. This lesson puts them in one place, then shows how they shape the game.
 

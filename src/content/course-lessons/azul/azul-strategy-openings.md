@@ -2,13 +2,14 @@
 title: "Azul Openings: Your First Two Rounds"
 description: "Azul opening strategy: where your first tiles land on the wall, exact picks for short lines, starting the long lines, and when the first player marker pays."
 course: azul
-order: 4
+order: 5
+level: 1
 emailSubject: "Your first two rounds of Azul"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "In the opening, choosing a pattern line is choosing a spot on your wall. Pick lines that land your first tiles near the middle and near each other, so every later tile has something to touch."
 tryThis: "In your next game, before each pick in round one, point to the wall space where that tile will land. Aim to end the round with at least two wall tiles touching."
-nextTeaser: "Next, the midgame: reading every board at the table, counting colors, and deciding what to leave in the center for someone else."
+nextTeaser: "Next, wall planning: why rows grow slowly and columns grow fast, how to price every pattern line, and how to grow one block that scores more each round."
 ---
 Azul has no fixed opening the way chess does. The bag deals out different tiles every game. But the first two rounds still follow patterns, and strong players tend to treat them the same way: fill lines exactly, place tiles where they will connect, and keep the floor clean.
 

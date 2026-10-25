@@ -2,12 +2,14 @@
 title: "Competitive Ticket to Ride: Tournaments and Local Play"
 description: "Competitive Ticket to Ride: how tournament games run, the World Boardgaming Championships event, Train Gamers Association events at Gen Con, and where to play."
 course: ticket-to-ride
-order: 8
+order: 17
+level: 4
 emailSubject: "Yes, people play Ticket to Ride for a title"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Competitive Ticket to Ride is the game you already play, with four players at a table, public counts, a time limit, and often the USA 1910 Mega Game. Beginners are welcome at the World Boardgaming Championships event."
 tryThis: "Play three four-player games this month and keep score sheets. Note your ticket score and whether you had the longest path in each. Those two numbers show where your game is growing."
+nextTeaser: "Next, the USA 1910 Mega Game: the format WBC plays in its later rounds, and how more tickets change what you keep and when you draw."
 ---
 Ticket to Ride looks like a family game, and it is one. It is also a serious tournament game, with a long-running event at the World Boardgaming Championships, a full weekend of events at Gen Con in Indianapolis, and a busy online scene. You do not need to win any of them to enjoy them. But knowing they exist changes how you look at the game at home.
 
@@ -19,7 +21,7 @@ Rules vary by event. Here is how the World Boardgaming Championships runs it:
 - **A time limit.** Each round is scheduled for 2 hours.
 - **Count your trains.** Every player confirms they have exactly 45 before the game starts.
 - **Public counts.** Each player's number of trains, train cards, and tickets is public information.
-- **More tickets.** Later rounds use the USA 1910 Mega Game from lesson 7, with every ticket in play and both bonus cards.
+- **More tickets.** Later rounds use the USA 1910 Mega Game from the [player counts and maps lesson](/academy/ticket-to-ride/ticket-to-ride-expansions/), with every ticket in play and both bonus cards.
 - **Event tie-breakers.** Instead of the rulebook's order, the event breaks a tied game by the longest path award, then most tickets made, then ticket score, then route score, then later turn order.
 
 ## The World Boardgaming Championships
@@ -87,4 +89,4 @@ If you are near Indianapolis, join the [Indianapolis list](/lounges/indianapolis
 - **Keep score sheets.** Write down route points, ticket points, and the longest path every game, not just the total.
 - **Review your losses.** Which ticket failed, and when could you have seen it coming? Which route did you lose, and to whom?
 
-That is the end of the course. You now know how to play, teach, open, manage the midgame, count the end, choose your next map, and find a tournament. The game is the reason. The people across the table are the point.
+Two lessons remain in Level 4. The next one goes deep on the Mega Game itself, and the last turns all of this into a six-week plan for your first event.

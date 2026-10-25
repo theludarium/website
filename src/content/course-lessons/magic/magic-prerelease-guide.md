@@ -2,13 +2,14 @@
 title: "Magic Prerelease and First Draft Survival Guide"
 description: "A Magic: The Gathering prerelease and first draft survival guide: building a 40-card sealed deck, counting lands and creatures, and picking cards in a draft."
 course: magic
-order: 7
+order: 9
+level: 1
 emailSubject: "Six packs, one deck, about four hours"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Sealed and draft ask the same question: which two colors give you the most good creatures and the most removal? Answer it, then add about 17 lands."
 tryThis: "At your first prerelease, sort your cards by color before you read any of them closely. Count the playable creatures and removal in each color, then build from the two deepest."
-nextTeaser: "Last lesson: what comes next. The competitive path, deeper Commander, the next sets on the calendar, and where Cube fits in."
+nextTeaser: "Level 2 begins with combat: when to attack, when to block, how to count a race, and how first strike, deathtouch, and trample change every trade."
 ---
 A prerelease is the best party in Magic. A new set is days from release, the store is full, everyone is opening the same unfamiliar cards, and nobody knows the best deck yet. That last part is the gift. At a prerelease, a new player and a ten-year veteran start the evening knowing the same amount about the set.
 

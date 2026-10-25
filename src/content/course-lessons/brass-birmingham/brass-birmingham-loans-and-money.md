@@ -2,7 +2,8 @@
 title: "Brass: Birmingham Loans, Income, and Turn Order"
 description: "Brass: Birmingham money strategy: when a £30 loan pays off, how the income track works, spending to set turn order, double turns, and paying negative income."
 course: brass-birmingham
-order: 5
+order: 8
+level: 2
 emailSubject: "When to take the loan"
 pubDate: 2026-10-24
 draft: false

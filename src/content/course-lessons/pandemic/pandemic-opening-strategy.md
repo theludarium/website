@@ -2,13 +2,14 @@
 title: "Pandemic Opening Strategy: Before the First Epidemic"
 description: "Pandemic opening strategy: read the board before turn one, use the calm before the first Epidemic, defuse 3-cube cities, and line up your first cure early."
 course: pandemic
-order: 4
+order: 6
+level: 1
 emailSubject: "Why your first Pandemic turns are the calm before the storm"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Before the first Epidemic, an ordinary infection cannot cause an outbreak. Use that calm to defuse the 3-cube cities and line up your first cure before the storm arrives."
 tryThis: "In your next game, before anyone moves, name the three 3-cube cities out loud and agree which player will deal with each one before the first Epidemic."
-nextTeaser: "Next, the midgame: reading the Infection discard pile, timing the next Epidemic, and building the card flow that wins."
+nextTeaser: "Next, getting around: what each kind of move really costs, and where research stations save the team the most cards."
 ---
 Pandemic has no fixed opening. The cities, roles, and cards change every game. But the first few turns follow a pattern that the rules themselves create, and once you see it, your opening stops being a scramble.
 
@@ -41,7 +42,7 @@ Your top job is to bring each 3-cube setup city down to 2 cubes or fewer before 
 - The **Quarantine Specialist** protects her city and every connected city from new cubes. Parked next to a 3-cube city, she guards it without treating.
 - Anyone can spend an action or two treating a 3-cube city on their way somewhere useful.
 
-The 2-cube setup cities can wait a little. After the first Epidemic, one more hit takes them to 3, but their card then sits in the discard pile until the next Epidemic. They become the danger at the second Epidemic, which [lesson 5](/academy/pandemic/pandemic-midgame-strategy/) covers.
+The 2-cube setup cities can wait a little. After the first Epidemic, one more hit takes them to 3, but their card then sits in the discard pile until the next Epidemic. They become the danger at the second Epidemic, which the [midgame lesson](/academy/pandemic/pandemic-midgame-strategy/) covers.
 
 ## Pick your first cure early
 
@@ -69,7 +70,7 @@ The **Operations Expert** builds without discarding, so a station on their first
 
 ## Hold your Events
 
-Event cards are strongest right after an Epidemic, when the danger is highest. In the opening, keep them. The one easy exception is a card that builds a research station for you, like Government Grant, if you know exactly where you want it.
+Event cards are strongest right after an Epidemic, when the danger is highest. In the opening, keep them. The one easy exception is Government Grant, which builds a research station for you, if you know exactly where you want it.
 
 ## A good opening, in plain terms
 

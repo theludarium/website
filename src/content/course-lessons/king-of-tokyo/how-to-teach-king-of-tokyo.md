@@ -3,11 +3,13 @@ title: "How to Teach King of Tokyo and Run a Great First Game"
 description: "How to teach King of Tokyo in five minutes: a host script, rules to explain as they come up, first-game slips to catch, and where to play online or compete."
 course: king-of-tokyo
 order: 2
+level: 0
 emailSubject: "Teach King of Tokyo in five minutes"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Teach the dice and the hot seat, then start rolling. King of Tokyo explains itself once the first Monster moves into Tokyo and takes a beating."
 tryThis: "Keep your next teach under five minutes. After the game, ask each player one question: when should you have left Tokyo?"
+nextTeaser: "Next, the last piece of Level 0: a first game played out turn by turn, so you can see every rule in motion before your own table sits down."
 ---
 King of Tokyo is easy to teach and easy to over-teach. Hosts read out every face, both card types, Tokyo Bay, and the edge cases before anyone touches a die, and nobody remembers any of it. Teach the turn, start playing, and explain the rest the moment it happens.
 
@@ -78,6 +80,8 @@ For groups where direct attacks sting, our piece on [take-that games](/articles/
 IELLO makes more for tables that want it. The [Halloween expansion](https://iellogames.com/jeux/king-of-tokyo-halloween/) adds two new Monsters and costume cards. Monster packs such as [Cthulhu](https://iellogames.com/jeux/king-of-tokyo-monster-pack-cthulhu/) and [King Kong](https://iellogames.com/jeux/king-of-tokyo-king-kong-monster-pack/) each add a new Monster. The [Monster Box](https://iellogames.com/jeux/king-of-tokyo-monster-box/) collects the base game with the Power Up! and Halloween expansions.
 
 <!-- AFFILIATE: King of Tokyo Halloween expansion, Cthulhu Monster Pack, King Kong Monster Pack, King of Tokyo Monster Box -->
+
+The [expansions lesson](/academy/king-of-tokyo/king-of-tokyo-expansions/) covers player counts, variants, and every expansion in more detail.
 <!-- VERIFY: product details on IELLO's own pages (Halloween contents, one Monster per pack, Monster Box contents); iellogames.com stopped loading during research and these came from retailer listings. -->
 
 For online play, IELLO lists King of Tokyo on [Board Game Arena](https://boardgamearena.com/gamepanel?game=kingoftokyo), which the rulebook says runs regular tournaments.
@@ -107,4 +111,4 @@ Ask your local game store whether it runs open game nights; King of Tokyo is an 
 
 If you are near Indianapolis, join the [Indianapolis list](/lounges/indianapolis/) for first word on local learn-to-play nights as The Ludarium grows.
 
-That is the course: set up, teach, and host King of Tokyo from a single sheet. The game is the reason. The people around the table, groaning and cheering at every roll, are the point.
+That is the host's side: set up, teach, and run King of Tokyo from a single sheet. The rest of the course is about playing well, from your first three games to the endgame math, and the [final lesson](/academy/king-of-tokyo/king-of-tokyo-tournaments/) goes further into online play and tournaments. The game is the reason. The people around the table, groaning and cheering at every roll, are the point.

@@ -3,12 +3,13 @@ title: "Splendor Openings: The First Ten Turns"
 description: "Splendor opening strategy: how to read the setup, pick your colors, choose between taking three gems or two, buy cheap level 1 cards, and when to reserve early."
 course: splendor
 order: 4
+level: 1
 emailSubject: "Your first ten turns of Splendor"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "The opening is about bonuses, not points. Read the nobles and level 3 cards, pick two or three colors, and buy cheap cards in those colors as fast as you can."
 tryThis: "Before turn one of your next game, name your two target colors out loud based on the nobles and level 3 row. Then see how many cards in those colors you own by turn eight."
-nextTeaser: "Next, the midgame: turning bonuses into points, reading what everyone else can buy, and racing for nobles."
+nextTeaser: "Next, the fourth action: when a reserve is worth a whole turn, and how to spend Gold where it counts most."
 ---
 Splendor has no fixed opening. The cards come out in a new order every game. But strong players treat the first turns the same way: read the setup, pick colors, and buy cards for their bonuses as fast as possible.
 

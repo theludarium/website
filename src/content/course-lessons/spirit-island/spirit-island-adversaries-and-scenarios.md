@@ -2,13 +2,14 @@
 title: "Spirit Island Adversaries and Scenarios"
 description: "Spirit Island adversaries and scenarios: Brandenburg-Prussia, England, and Sweden, how levels and Escalation work, the difficulty chart, and the expansions."
 course: spirit-island
-order: 6
+order: 17
+level: 3
 emailSubject: "Your first adversary: Brandenburg-Prussia"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Adversaries and scenarios are a difficulty dial with personality. Each one changes how the Invaders behave, so climbing them teaches your group new habits, not just harder math."
 tryThis: "After your next win without an adversary, play the Kingdom of Brandenburg-Prussia at its base level, and use the rulebook's scoring to compare the two games."
-nextTeaser: "Last lesson: playing as one team. How to split the Island, stack your Powers, keep one player from running the table, and where to find more Spirit Island players."
+nextTeaser: "Level 4 begins with Brandenburg-Prussia in depth: every level from Fast Start to the top, how each one reshapes the Invader Deck, and how to stay ahead of it."
 ---
 Winning without an adversary is a milestone. It is also where Spirit Island starts to open up. The base game includes three adversaries and four scenarios, and both are optional. Add them when your group is ready for more, one step at a time.
 

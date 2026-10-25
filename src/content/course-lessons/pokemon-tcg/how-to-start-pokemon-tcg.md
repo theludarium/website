@@ -3,6 +3,7 @@ title: "How to Start Playing the Pokémon TCG: Your First Product"
 description: "How to start playing the Pokémon TCG: why Battle Academy is the best first buy, when a Mega Battle Deck fits better, and what new players and parents can skip."
 course: pokemon-tcg
 order: 1
+level: 0
 emailSubject: "Before you buy a single Pokémon pack"
 pubDate: 2026-10-24
 draft: false
@@ -47,7 +48,7 @@ The official product guide lists [Mega Battle Decks](https://tcg.pokemon.com/en-
 Two free ways to try the game first:
 
 - **Pokémon TCG Live.** The official free online game has an interactive tutorial. It is the fastest way to see whether the rhythm of a turn clicks.
-- **Pokémon League.** Play! Pokémon stores run League, a casual play time where everyone is welcome. The official parents' page notes that Leagues often have cards for beginners. Lesson 6 covers it in full.
+- **Pokémon League.** Play! Pokémon stores run League, a casual play time where everyone is welcome. The official parents' page notes that Leagues often have cards for beginners. The [League night lesson](/academy/pokemon-tcg/pokemon-league-first-night/) covers it in full.
 
 ## What to skip for now
 
@@ -55,7 +56,7 @@ Two free ways to try the game first:
 
 **League Battle Decks.** These are strong, tournament-style decks. The official Play! Pokémon getting-started page pitches them at players with a bit more experience, built on higher-power cards common in tournament play. They are a great second or third deck and a big step for a first one.
 
-**Build & Battle Boxes.** These hold a smaller 40-card deck plus packs. They are made for prerelease events, which lesson 7 covers. Not the best first product.
+**Build & Battle Boxes.** These hold a smaller 40-card deck plus packs. They are made for prerelease events, which the [prerelease lesson](/academy/pokemon-tcg/pokemon-tcg-prerelease-guide/) covers. Not the best first product.
 
 **Elite Trainer Boxes.** These are collector boxes with packs, sleeves, Energy cards, and a player's guide. A lovely gift for a kid who already plays. As a way to learn, they do less than they appear to.
 
@@ -71,4 +72,4 @@ If you are unsure, buy for playing first. A kid who knows the game gets more joy
 
 ## Keep the first purchase small
 
-Whatever you choose, stop there for a few weeks. Play the decks until everyone knows them. The upgrades in lesson 5 make far more sense once you know which cards you wish you had.
+Whatever you choose, stop there for a few weeks. Play the decks until everyone knows them. The [budget upgrades](/academy/pokemon-tcg/pokemon-tcg-deck-upgrades/) at Level 1 make far more sense once you know which cards you wish you had.

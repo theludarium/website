@@ -3,12 +3,13 @@ title: "How to Teach Riftbound"
 description: "How to teach Riftbound in ten minutes: a host script in the order you say it, what to leave out of the first game, and a printable teach sheet for the table."
 course: riftbound
 order: 4
+level: 0
 emailSubject: "Teach Riftbound in ten minutes flat"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Teach the goal and the turn, then play. Combat details, keywords, and hidden cards make more sense the first time they happen on the table."
 tryThis: "Print the teach sheet, deal two preconstructed decks, and stop talking after the first example turn. Teach everything else as it comes up."
-nextTeaser: "Next, your first upgrades. We look at how to improve a preconstructed deck one small purchase at a time."
+nextTeaser: "Level 1 starts with your first five games: the rules slips and habits that trip up almost every new player, and how to fix each one."
 ---
 Trading card games have a reputation for long teaches, and Riftbound has plenty of words that sound technical: channel, recycle, showdown, domain identity. The good news is that a new player needs almost none of them to start. They need the goal, the four start-of-turn steps, and how a fight works.
 

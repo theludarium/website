@@ -21,7 +21,32 @@ audience:
   - "Anyone with a box of old cards who is curious whether they still work."
   - "Duelists nervous about walking into an Official Tournament Store for the first time in years."
 afterLesson3: "Pick the right first product, play a full Duel by today's rules, Extra Monster Zone included, and read any modern card."
-afterLesson8: "Teach the game, upgrade a deck on a budget, play your first store event and Premiere! weekend, and know the path from locals to a World Championship Qualifier."
+afterLesson8: "Teach the game, resolve Chains and Extra Deck Summons correctly, avoid the classic slips, and upgrade a starter into a focused deck on a budget."
+levels:
+  - level: 0
+    name: "Returner"
+    label: "Learn to play"
+    outcome: "Pick the right first product, play a full Duel by today's rules, read any modern card, and teach a friend in ten minutes."
+  - level: 1
+    name: "Rival"
+    label: "Beginner"
+    outcome: "Play clean Duels at home: build and resolve Chains correctly, make every Extra Deck Summon by hand, and turn a starter into a focused deck."
+  - level: 2
+    name: "Tactician"
+    label: "Intermediate"
+    outcome: "Build a consistent 40-card deck with real odds behind it, choose first or second on purpose, and play your first locals and new set weekend."
+  - level: 3
+    name: "Strategist"
+    label: "Advanced"
+    outcome: "Spend hand traps at the right moment, break a full board, side well between Duels, and handle the rulings that decide close games."
+  - level: 4
+    name: "Contender"
+    label: "Tournament ready"
+    outcome: "Play a clocked Match under Konami's Tournament Policy without penalties, read the metagame, build for Genesys, and play to your outs."
+  - level: 5
+    name: "Champion"
+    label: "The championship path"
+    outcome: "Know the road from your store to the World Championship, and prepare for a YCS weekend from check-in to Day 2."
 faq:
   - q: "What is the best way to get back into Yu-Gi-Oh!?"
     a: "Start with the 2-Player Starter Set. It has two ready-to-play decks and a 64-page teaching comic that walks you through a scripted Duel, Synchro and Xyz Summons included. Then find an Official Tournament Store near you with Konami's locator."

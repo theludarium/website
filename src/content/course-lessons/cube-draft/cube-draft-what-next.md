@@ -2,14 +2,15 @@
 title: "What Comes Next: Cube Formats, Local Drafts, and Online Play"
 description: "What comes after your first Cube drafts: draft formats for any group size, other kinds of Cubes, finding local drafts and store events, and drafting online."
 course: cube-draft
-order: 8
+order: 23
+level: 5
 emailSubject: "Where Cube goes from here"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Once you can draft and build, Cube opens in three directions: new ways to draft the same box, new kinds of Cubes, and new tables to play at, in person and online."
 tryThis: "Pick one new thing to try this month: a two-player draft with a friend, a different kind of Cube, or one new local table. Then go back to your regular Cube and notice what changed."
 ---
-You can now draft a pack, read a card, build a deck, run a night, and start a Cube of your own. That is the whole loop. This last lesson is a map of where to take it next. Cube has no single path forward; it widens.
+You can now draft a pack, read a card, build a deck, read signals, plan a mana base, draft aggro or control on purpose, and build, curate, and host a Cube of your own. That is the whole ladder. This last lesson is a map of where to take it next. Cube has no official championship to climb toward; it widens instead.
 
 ## New ways to draft the same box
 

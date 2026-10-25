@@ -3,12 +3,13 @@ title: "Your First Three Games of Splendor"
 description: "Splendor beginner mistakes, from rules slips like taking Gold or counting gems toward nobles, to strategy traps like hoarding pieces, and how to fix each one."
 course: splendor
 order: 3
+level: 0
 emailSubject: "The mistakes every new Splendor table makes"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Most first-game trouble comes from two places: small rules slips about gems, Gold, and nobles, and the habit of collecting pieces instead of buying cards."
 tryThis: "After each of your next three games, count how many turns each player spent taking gems versus buying cards. Then check whether the winner bought more often."
-nextTeaser: "Next, openings. We look at how to read the setup before turn one, pick your colors, and get your first cards on the table fast."
+nextTeaser: "Level 1 starts with openings. We look at how to read the setup before turn one, pick your colors, and get your first cards on the table fast."
 ---
 Your first three games of Splendor are where habits form. Some are rules slips, played wrong for months because nobody checked. Others are legal moves that quietly cost you the race. This lesson covers both, checked against the current rulebook.
 
@@ -44,7 +45,7 @@ Pieces do nothing until you spend them. A card does something every turn for the
 
 ## Spreading your colors too thin
 
-A player with one card of every color has a small discount everywhere and a real discount nowhere. Many of the best cards ask for a lot of one or two colors, and so do the nobles. Pick two or three colors and lean into them. Lesson 4 shows how to choose.
+A player with one card of every color has a small discount everywhere and a real discount nowhere. Many of the best cards ask for a lot of one or two colors, and so do the nobles. Pick two or three colors and lean into them. The [openings lesson](/academy/splendor/splendor-opening-strategy/) shows how to choose.
 
 ## Reserving out of worry
 

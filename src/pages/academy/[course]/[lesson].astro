@@ -54,6 +54,7 @@ const total = all.length;
 const minutes = courseLessonMinutes(lesson);
 const showToc = headings.filter((h) => h.depth === 2).length >= 3;
 const home = courseUrl(course);
+const levelInfo = d.levels?.find((l) => l.level === lesson.data.level);
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 const image = `/og/academy/${course.id}/${courseLessonSlug(lesson)}.png`;
 const linkable = (l: CourseLesson) => lessonHasPage(l);
@@ -110,7 +111,7 @@ const structuredData = [
       </nav>
       {draft && <p class="article__draft"><span class="draft-badge">Draft</span> Only visible on previews. Set <code>draft: false</code> to publish.</p>}
       <p class="lesson__badge" data-pagefind-ignore>
-        <span class="lesson__level">{d.game}</span>
+        <span class="lesson__level">{levelInfo ? `Level ${levelInfo.level} · ${levelInfo.name}` : d.game}</span>
         <span>Lesson {order} of {total}</span>
       </p>
       <h1>{title}</h1>

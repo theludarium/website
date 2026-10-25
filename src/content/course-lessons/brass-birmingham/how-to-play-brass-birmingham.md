@@ -3,12 +3,13 @@ title: "How to Play Brass: Birmingham"
 description: "How to play Brass: Birmingham: setup, the six actions, coal, iron, and beer, the Canal and Rail Eras, end of era scoring, and how to teach it to a new table."
 course: brass-birmingham
 order: 1
+level: 0
 emailSubject: "Brass: Birmingham, from setup to final score"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Brass: Birmingham is one system played twice. In each era you build industries and links, then score the industries you flipped and the link icons your links touch. Learn six actions and three resources, and the rest follows."
 tryThis: "Before your first game, set up alone and play two turns for one imaginary player, saying out loud where every coal, iron, and beer comes from."
-nextTeaser: "Next, the Canal Era in depth: what survives into the Rail Era, why level 2 tiles can score twice, and how to spend a short, cheap era well."
+nextTeaser: "Next, the teach itself: a host script in the order you would say it, with one example for each resource and the Rail Era rules saved for the break."
 ---
 Brass: Birmingham puts you in the West Midlands during the Industrial Revolution, from 1770 to 1870. You build industries, link towns with canals and then railways, and score victory points (VPs). Roxley calls it the number 1 game on BoardGameGeek. Each rule counts.
 
@@ -56,7 +57,7 @@ Your **network** is every town that holds one of your industry tiles or touches 
 
 ## Where do coal, iron, and beer come from?
 
-Lesson 4 covers these in full.
+The [coal, iron, and beer lesson](/academy/brass-birmingham/brass-birmingham-coal-iron-beer/) in this level covers these in full.
 
 - **Coal** must be connected to where it is used. Take it free from the closest connected coal mine that still has coal, whoever owns it. If none is connected, buy from the coal market, cheapest first, which needs a connection to a merchant location. An empty market still sells coal at £8.
 - **Iron** never needs a connection. Take it free from any iron works with iron on it. If none has any, buy from the iron market, cheapest first, or at £6 if it is empty.
@@ -81,9 +82,9 @@ After the Rail Era, most VPs wins. Ties go to higher income, then more money.
 
 ## How do you teach it?
 
-With the teach sheet in the middle of the table, teach in this order: the goal, a turn, Build, Network, and Sell, then Develop, Loan, and Scout, then coal, iron, and beer with one example each, and last the end of an era. Before the first turn, repeat three rules that are easy to miss: one tile per town in the Canal Era, coal needs a connection while iron never does, and merchant beer only works when you sell to that merchant.
+With the teach sheet in the middle of the table, the short version runs in this order: the goal, a turn, Build, Network, and Sell, then Develop, Loan, and Scout, then coal, iron, and beer with one example each, and last the end of an era. Before the first turn, repeat three rules that are easy to miss: one tile per town in the Canal Era, coal needs a connection while iron never does, and merchant beer only works when you sell to that merchant.
 
-For a gentler start, the rulebook has an introductory game: play the Canal Era only, then add 1 VP per £4 you hold (up to 15), VPs equal to your income level, and the VPs of your level 2 and higher tiles a second time.
+The [teaching lesson](/academy/brass-birmingham/how-to-teach-brass-birmingham/) turns this into a full host script. For a gentler start, the rulebook has an introductory game: play the Canal Era only, then add 1 VP per £4 you hold (up to 15), VPs equal to your income level, and the VPs of your level 2 and higher tiles a second time.
 
 <!-- AT OUR TABLE: one line on how Levi teaches beer to new players, or how his group handled its first full game. -->
 

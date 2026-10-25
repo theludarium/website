@@ -76,7 +76,12 @@ const gameCourses: CatalogCard[] = await Promise.all(
       title: d.title,
       href: courseUrl(course),
       description: d.description,
-      meta: d.format === 'teach-tonight' ? 'A printable teach sheet and two short emails.' : `${lessons.length} lessons and a printable teach sheet.`,
+      meta:
+        d.format === 'teach-tonight'
+          ? 'A printable teach sheet and two short emails.'
+          : d.levels
+            ? `${lessons.length} lessons in ${['zero', 'one', 'two', 'three', 'four', 'five', 'six'][d.levels.length]} levels, and a printable teach sheet.`
+            : `${lessons.length} lessons and a printable teach sheet.`,
       first: first && lessonHasPage(first) ? { label: 'Read lesson one', href: courseLessonUrl(first) } : undefined,
       image: cardArt(course.id),
     };

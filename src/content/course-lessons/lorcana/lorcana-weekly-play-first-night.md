@@ -2,13 +2,14 @@
 title: "Your First Disney Lorcana Weekly Play Night"
 description: "Your first Disney Lorcana weekly play night: find an event on the Ravensburger Play Hub, what to bring, how the night runs, table manners, and tips for parents."
 course: lorcana
-order: 6
+order: 9
+level: 1
 emailSubject: "Your first Lorcana night at the store"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Weekly play is built for people like you. Store events at the entry level are meant to be fun and educational, and the organizer's job is to make newer players welcome."
 tryThis: "Find one weekly play event on the Ravensburger Play Hub this month, message or call the store to ask which format it runs, and go with the deck you already know."
-nextTeaser: "Next, prerelease survival: how a sealed event works, what is in the box, and how to build a 40-card deck from six packs in under half an hour."
+nextTeaser: "Level 2 begins with the six inks: what each one tends to do, and how to pick a pair whose strengths cover each other's gaps."
 ---
 Walking into a game store for the first time can feel like walking into a party where everyone already knows each other. Here is the good news: in Lorcana, the weekly event is designed for you. The official tournament rules sort events into levels, and the entry level is meant to be relaxed, fun, and educational, with organizers responsible for making less experienced players feel welcome.
 
@@ -69,4 +70,4 @@ The official Community Code expects everyone in the Lorcana community, of every 
 
 ## After your first night
 
-Write down two things: the card that beat you, and the turn you wish you could take back. Those two notes are next week's lesson, and lesson 5 shows how to turn them into upgrades.
+Write down two things: the card that beat you, and the turn you wish you could take back. Those two notes are next week's lesson, and the [upgrades lesson](/academy/lorcana/lorcana-deck-upgrades/) shows how to turn them into upgrades.

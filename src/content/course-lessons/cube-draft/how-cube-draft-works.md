@@ -3,6 +3,7 @@ title: "How a Cube Draft Works: Eight Seats, Three Packs, 45 Picks"
 description: "How a Cube draft works, pick by pick: dealing packs of 15, passing left, right, then left, what you may look at, pick timing, and drafting with fewer players."
 course: cube-draft
 order: 2
+level: 0
 emailSubject: "Left, right, left: how a draft works"
 pubDate: 2026-10-24
 draft: false
@@ -70,7 +71,7 @@ It matters because it tells you something. If a strong red card is still in your
 
 ## After the last pick
 
-After pack 3, you have 45 cards. You build a deck of at least 40 cards from them, adding as many basic lands as you like. Every card you do not play is your sideboard for the night. [Lesson 5](/academy/cube-draft/cube-deck-building/) covers building in detail.
+After pack 3, you have 45 cards. You build a deck of at least 40 cards from them, adding as many basic lands as you like. Every card you do not play is your sideboard for the night. The [deckbuilding lesson](/academy/cube-draft/cube-deck-building/) that opens Level 1 covers building in detail.
 
 ## What if you do not have eight?
 

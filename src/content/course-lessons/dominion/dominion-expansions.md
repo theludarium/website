@@ -2,13 +2,14 @@
 title: "Dominion Player Counts, Variants, and Expansions"
 description: "Dominion at 2 to 6 players, the recommended kingdoms in the base box, solo practice, and which expansion to add first, from Intrigue and Seaside to Prosperity."
 course: dominion
-order: 7
+order: 15
+level: 3
 emailSubject: "Which Dominion expansion first?"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "The base box already holds hundreds of different games. Play its recommended kingdoms and random ones first, then add one expansion at a time."
 tryThis: "Play the rulebook's Size Distortion kingdom next, then a fully random kingdom from the randomizer cards. Note which one your group wants to replay."
-nextTeaser: "Last lesson: how to compete. The World Boardgaming Championships, online ladders and championships, and where to find local play."
+nextTeaser: "Level 4 begins with the two-player duel: why one opponent changes the math, from the Province split to who wins a tie."
 ---
 Dominion has more expansions than most players will ever own. That is a gift, and it can be a trap. The base box alone has 26 Kingdom cards, and any 10 of them make a game. Before buying anything, it helps to see how much the base box can do, and how the game shifts as your group grows.
 
@@ -40,7 +41,7 @@ Besides the First Game set, the rulebook lists five more kingdoms using only bas
 - **Improvements:** cards that upgrade other cards, such as Remodel and Mine, with Artisan, Moneylender, and Witch alongside.
 - **Silver & Gold:** a Treasure-focused set with Bandit, Bureaucrat, Mine, and Merchant.
 
-After those, shuffle the randomizer cards and turn over 10. Every random kingdom is a new puzzle, and reading it is the skill the openings lesson covered.
+After those, shuffle the randomizer cards and turn over 10. Every random kingdom is a new puzzle, and [reading it fast](/academy/dominion/dominion-kingdom-reading/) is a skill of its own.
 
 ## Variants and house rules
 

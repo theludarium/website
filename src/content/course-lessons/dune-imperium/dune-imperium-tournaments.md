@@ -2,12 +2,14 @@
 title: "Competitive Dune: Imperium: Tournaments and Local Play"
 description: "Competitive Dune: Imperium: the World Boardgaming Championships event, the North American Championship at Gen Con, online play, and finding local games."
 course: dune-imperium
-order: 8
+order: 21
+level: 5
 emailSubject: "Dune has a championship, and it meets in Indianapolis"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Competitive Dune: Imperium is the game you already know, played at four-player tables against a clock. Two big events in the United States welcome newcomers, and online play is the fastest way to get ready."
 tryThis: "Play three four-player games this month and time each one. Tournament rounds run about three hours, so learn what pace your group plays at."
+nextTeaser: "Last, a six-week practice plan: the right boxes, digital volume, timed games, drills, and how to review a loss."
 ---
 Dune: Imperium has a real competitive scene in the United States. It has an event at the World Boardgaming Championships, and Dire Wolf runs its own North American Championship at Gen Con in Indianapolis. You do not need to win either to enjoy them. But knowing how they run changes how you look at your games at home.
 
@@ -30,15 +32,13 @@ From the [2026 event preview](https://www.boardgamers.org/wbc26/previews/DNI.htm
 - **Format:** three Heats, then a Semifinal and a Final.
 - **Tables:** the Heats are three and four player games.
 - **Time:** Heats and the Semifinal are three-hour rounds; the Final runs four hours.
-- **Game:** the original Dune: Imperium with the Rise of Ix expansion, plus Rise of Ix's Family Atomics rule. A Heat table may play the base game alone only if everyone at it agrees, or Rise of Ix is not available.
+- **Game:** the original Dune: Imperium with the Rise of Ix expansion, plus a Family Atomics rule (a once-per-game refresh of the Imperium Row, covered in the [Rise of Ix lesson](/academy/dune-imperium/dune-imperium-rise-of-ix-epic-mode/)). A Heat table may play the base game alone only if everyone at it agrees, or Rise of Ix is not available.
 - **Advancing:** Heat finishes earn points, and the top 16 move on to the Semifinal. Semifinal winners play the Final in Rise of Ix's Epic mode, which plays to 12 points.
 - **Class:** marked as welcoming beginning players.
 
-That beginner welcome makes it one of the friendliest ways to try a real tournament.
+That beginner welcome makes it one of the friendliest ways to try a real tournament. WBC 2027 runs July 24 to August 1, 2027, according to the [WBC page](https://www.boardgamers.org/wbcindex.html).
 
-WBC lists its 2027 convention for July 24 to August 1, 2027.
-
-<!-- VERIFY: check the 2027 Dune Imperium event preview once WBC posts it; formats can change. -->
+<!-- VERIFY: the 2027 Dune Imperium event preview once WBC posts it; formats can change. -->
 
 ## Dire Wolf's North American Championship
 
@@ -76,4 +76,4 @@ If you are near Indianapolis, join the [Indianapolis list](/lounges/indianapolis
 - **Watch the clock.** A three-hour round is plenty for a four-player game at a steady pace, and not enough for a slow one.
 - **Review your losses.** Which Conflict did you overpay for? Which Alliance did you let go, and was it worth it?
 
-That is the end of the course. You can now play, teach, open, read the midgame, count the end, choose between the two boxes and their expansions, and find a tournament. The game is the reason. The people across the table are the point.
+That is the map. The last lesson turns it into a plan: six weeks of practice aimed at one of these events.

@@ -46,6 +46,9 @@ const articles = await getCollection('articles', ({ data }) => !data.draft);
 const related = d.related.map((slug) => articles.find((a) => a.id === slug)).filter((a) => a !== undefined);
 const lessonCount = lessons.length;
 const pdf = teachSheetPdfUrl(course);
+// With a level ladder, lessons are grouped by level like the Catan course.
+const levels = d.levels?.map((level) => ({ ...level, lessons: lessons.filter((l) => l.data.level === level.level) }));
+const levelWords = ['Zero', 'One', 'Two', 'Three', 'Four', 'Five', 'Six'];
 // The layout appends " | The Ludarium"; take the first title that keeps the whole under 70 characters.
 const pageTitle =
   [`${d.title}: Free ${d.game} Course`, `Free ${d.game} Course: ${d.title}`, `${d.title}: A Free Course`, d.title].find((t) => t.length <= 55) ?? d.title;
@@ -113,7 +116,7 @@ const structuredData = [
   </section>
 
   {
-    d.format !== 'teach-tonight' && (
+    !levels && d.format !== 'teach-tonight' && (
       <section class="section course-outcomes" aria-labelledby="course-outcomes-title">
         <div class="container">
           <h2 id="course-outcomes-title" class="visually-hidden">What you will be able to do</h2>
@@ -135,10 +138,40 @@ const structuredData = [
   <section class="section course-lessons" aria-labelledby="course-lessons-title">
     <div class="container">
       <div class="section-head">
-        <h2 id="course-lessons-title">{lessonCount} {lessonCount === 1 ? 'lesson' : 'lessons'}</h2>
+        <h2 id="course-lessons-title">
+          {levels ? `${levelWords[levels.length]} levels, ${lessonCount} lessons` : `${lessonCount} ${lessonCount === 1 ? 'lesson' : 'lessons'}`}
+        </h2>
         {first && lessonHasPage(first) && <a class="text-link" href={courseLessonUrl(first)}>Start with lesson one</a>}
       </div>
-      <ol class="course-lessons__list">
+      {
+        levels && (
+          <ol class="course-levels__list">
+            {levels.map((level) => (
+              <li class="course-level" id={`level-${level.level}`}>
+                <div class="course-level__head">
+                  <p class="eyebrow">
+                    Level {level.level} &middot; {level.label}
+                  </p>
+                  <h3>{level.name}</h3>
+                  <p class="course-level__outcome">
+                    <strong>After this level:</strong> {level.outcome}
+                  </p>
+                </div>
+                <ol class="course-level__lessons" data-pagefind-ignore>
+                  {level.lessons.map((lesson) => (
+                    <li>
+                      <span class="course-level__num">{String(lesson.data.order).padStart(2, '0')}</span>
+                      {lessonHasPage(lesson) ? <a href={courseLessonUrl(lesson)}>{lesson.data.title}</a> : <span>{lesson.data.title}</span>}
+                      {lesson.data.draft && lessonHasPage(lesson) && <span class="draft-badge">Draft</span>}
+                    </li>
+                  ))}
+                </ol>
+              </li>
+            ))}
+          </ol>
+        )
+      }
+      <ol class="course-lessons__list" hidden={!!levels}>
         {
           lessons.map((lesson) => {
             const linked = lessonHasPage(lesson);
@@ -344,6 +377,63 @@ const structuredData = [
     font-size: var(--text-lg);
   }
 
+  .course-levels__list {
+    display: grid;
+    gap: var(--space-5);
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .course-level {
+    display: grid;
+    grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.2fr);
+    gap: var(--space-6);
+    padding: var(--space-6);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-card);
+    background: var(--color-surface);
+    scroll-margin-top: var(--space-6);
+  }
+
+  .course-level h3 {
+    margin: 0 0 var(--space-3);
+    font-size: var(--text-2xl);
+  }
+
+  .course-level__outcome {
+    margin: 0;
+    color: var(--color-text-muted);
+  }
+
+  .course-level__lessons {
+    display: grid;
+    gap: var(--space-2);
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .course-level__lessons li {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: var(--space-3);
+  }
+
+  .course-level__num {
+    flex: none;
+    min-width: 2ch;
+    font-variant-numeric: tabular-nums;
+    font-size: var(--text-sm);
+    font-weight: 600;
+    color: var(--color-text-muted);
+  }
+
+  .course-lessons__list[hidden] {
+    display: none;
+  }
+
   .course-lessons__list {
     display: grid;
     gap: var(--space-3);
@@ -488,7 +578,8 @@ const structuredData = [
 
   @media (max-width: 56rem) {
     .course-hero__grid,
-    .course-for__grid {
+    .course-for__grid,
+    .course-level {
       grid-template-columns: 1fr;
     }
   }

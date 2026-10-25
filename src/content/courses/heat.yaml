@@ -18,8 +18,29 @@ audience:
   - "Hosts who teach Heat to family, friends, or a new group."
   - "Players who keep spinning out, or keep finishing with Heat they never used."
   - "Anyone curious about the Championship, Legends, expansions, and tournament play."
-afterLesson3: "Teach and race a clean game of Heat, without the rules slips and Heat mistakes that trip up most new tables."
-afterLesson8: "Plan a first lap, time your cooldowns, slipstream through corners, empty your engine on the final lap, run a Championship season, and find a tournament."
+levels:
+  - level: 0
+    name: "Pit Crew"
+    label: "Learn to play"
+    outcome: "Set up, teach, and race a full game, paying every corner, Boost, and spin out by the rules without opening the booklet."
+  - level: 1
+    name: "Rookie"
+    label: "Beginner"
+    outcome: "Get through the first lap without a spin out, keep a hand that still works, and add the box's modules one at a time."
+  - level: 2
+    name: "Racer"
+    label: "Intermediate"
+    outcome: "Time your cooldowns, slipstream through corners, draft upgrades that fit the track, beat Legends, and empty your engine on the final lap."
+  - level: 3
+    name: "Ace"
+    label: "Advanced"
+    outcome: "Put odds on every Boost, plan a lap corner by corner, drive the weather, and predict where your rivals will land."
+  - level: 4
+    name: "Front Row"
+    label: "Tournament ready"
+    outcome: "Race a full table under Tournament Mode with drafted upgrades and weather, and follow a practice plan to your first event."
+afterLesson3: "Teach and race a clean game of Heat, with every corner, Boost, slipstream, and spin out paid exactly as the rules say."
+afterLesson8: "Plan a first lap, keep a working hand, add the box's modules one at a time, and time your cooldowns and slipstreams through corners."
 faq:
   - q: "How do you win Heat: Pedal to the Metal?"
     a: "Be the first car to cross the finish line after the number of laps shown on the board. If several cars finish in the same round, the car furthest ahead wins. Side by side, the car on the Spot closer to the Race Line wins."

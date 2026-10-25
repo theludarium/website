@@ -3,6 +3,7 @@ title: "How to Play the Pokémon TCG: How a Turn Works"
 description: "How to play the Pokémon TCG: setup, the play area, the six things you can do each turn, attacking and Knock Outs, Special Conditions, and the three ways to win."
 course: pokemon-tcg
 order: 2
+level: 0
 emailSubject: "Draw, do stuff, attack: a Pokémon turn"
 pubDate: 2026-10-24
 draft: false
@@ -93,4 +94,4 @@ Only an Active Pokémon can have a Special Condition. Moving to the Bench or evo
 
 ## Build your own deck later
 
-When you build a deck of your own, it must be exactly 60 cards, with no more than 4 copies of any card with the same name except Basic Energy, and at least one Basic Pokémon. You can have only one ACE SPEC card in the whole deck. Lesson 5 has more on deck building.
+When you build a deck of your own, it must be exactly 60 cards, with no more than 4 copies of any card with the same name except Basic Energy, and at least one Basic Pokémon. You can have only one ACE SPEC card in the whole deck. The [deck building lesson](/academy/pokemon-tcg/pokemon-tcg-deck-building/) at Level 2 has more.

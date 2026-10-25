@@ -3,6 +3,7 @@ title: "How to Play Pandemic"
 description: "How to play Pandemic: setup, the eight actions, Epidemics, infections and outbreaks, the seven roles, and how your team wins or loses, in plain words."
 course: pandemic
 order: 1
+level: 0
 emailSubject: "Pandemic, one turn at a time"
 pubDate: 2026-10-24
 draft: false

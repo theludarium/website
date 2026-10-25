@@ -2,7 +2,8 @@
 title: "Your First Three Games of Ticket to Ride"
 description: "Ticket to Ride beginner mistakes, from rules slips like two face-up locomotives to strategy traps like hoarding cards and late tickets, and how to fix each one."
 course: ticket-to-ride
-order: 3
+order: 4
+level: 1
 emailSubject: "The mistakes every new Ticket to Ride table makes"
 pubDate: 2026-10-24
 draft: false
@@ -30,7 +31,7 @@ Your first three games of Ticket to Ride are where habits form. Some are rules s
 
 **Ending the game a turn early.** When a player ends a turn with 2 or fewer trains, everyone gets one more turn, and that includes the player who triggered it. That last turn for the triggering player is easy to forget.
 
-**Counting branches in the longest path.** The bonus goes to the longest single continuous line of your trains. It can loop and revisit cities, but no train counts twice, so a fork only counts its longer branch.
+**Counting branches in the longest path.** The bonus goes to the longest single continuous line of your trains. It can loop and revisit cities, but no train counts twice, so at a fork the line carries on down only one branch, and the other is left out.
 
 **Forgetting the three-locomotive reset.** Any time 3 of the 5 face-up cards are locomotives, discard all 5 and deal 5 new ones.
 

@@ -1,7 +1,7 @@
 # VERIFY: no fan content or IP policy from Le Scorpion Masqué turned up in research. The rulebook's copyright line says the artwork, the title Sky Team, and the publisher's name and logo may not be used without written consent. Confirm this descriptive notice is enough, or ask the publisher.
 title: "Cleared to Land"
 game: "Sky Team"
-format: teach-tonight
+format: full
 order: 260
 wave: "2"
 draft: false
@@ -12,15 +12,32 @@ rulesSource: "https://www.scorpionmasque.com/sites/scorpionmasque.com/files/st_r
 players: "Exactly 2"
 playTime: "About 20 minutes"
 ages: "Ages 14 and up"
-promise: "Learn Sky Team from one printable sheet, teach it in five minutes, and fly a first game that ends with both pilots asking for another landing."
-description: "A free Sky Team course: a printable teach sheet, the cockpit rules in plain words, and a host's plan for a tense, quiet first flight with your co-pilot."
+promise: "Learn Sky Team, teach it in five minutes, then fly every approach and landing with a calm plan, from Montreal to the hardest scenarios in the Flight Log."
+description: "A free Sky Team course: learn the rules, teach them in five minutes, then master silent dice, the approach, the landing, the modules, and Flight Log scenarios."
 audience:
   - "Couples, friends, and pairs who want a short co-op made for exactly two."
   - "Hosts teaching Sky Team to a partner, a friend, or a brand new co-pilot."
   - "Players who crashed in Montreal and want the rules straight before the next flight."
   - "Anyone curious how a game played in silence can feel this tense."
-afterLesson3: "Teach Sky Team from the sheet and fly a clean first game, Axis, Engines, and the landing round included."
-afterLesson8: "Run a first flight that ends in a rematch, then move on to the Flight Log scenarios, online play, and the expansion."
+levels:
+  - level: 0
+    name: "Cadet"
+    label: "Learn to play"
+    outcome: "Set up, teach, and fly Montreal from the teach sheet, free of the rules slips that crash most new crews."
+  - level: 1
+    name: "First Officer"
+    label: "Beginner"
+    outcome: "Run a real briefing, keep the Axis calm, time gear and flaps to the track, and land in Montreal more often than not."
+  - level: 2
+    name: "Captain"
+    label: "Intermediate"
+    outcome: "Put odds on your four dice, budget a whole flight before takeoff, and land the Routine Landings with Kerosene and the Intern."
+  - level: 3
+    name: "Ace"
+    label: "Expert"
+    outcome: "Read your partner from what they place and what they hold back, and land with Wind, Ice Brakes, and the clock, up to the Heroic scenarios."
+afterLesson3: "Teach Sky Team from the sheet, fly a clean first game, and avoid the rules slips and strategy traps that crash most new crews."
+afterLesson8: "Plan each approach in the briefing, send a clear signal with every die, land on the final round, put odds on your four dice, and budget every die of a flight."
 faq:
   - q: "Can you talk while playing Sky Team?"
     a: "Only before the dice are rolled. Each round opens with a strategy talk, but you may not discuss dice values. Once you roll, both players stay silent until all 8 dice are placed, except to point out a rules mistake."
@@ -79,3 +96,5 @@ related:
   - "best-cooperative-board-games"
   - "how-to-teach-a-board-game"
   - "team-building-board-games"
+  - "board-game-gifts-for-couples"
+  - "board-game-date-night-indianapolis"

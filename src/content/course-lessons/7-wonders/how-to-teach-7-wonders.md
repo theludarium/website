@@ -3,12 +3,13 @@ title: "How to Teach 7 Wonders and 7 Wonders Duel"
 description: "How to teach 7 Wonders in ten minutes and 7 Wonders Duel in five: host scripts in the order you say them, what to skip, and a printable teach sheet for both."
 course: 7-wonders
 order: 2
+level: 0
 emailSubject: "Teach 7 Wonders before the pizza gets cold"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Teach the loop, not the card list. Pick, play, pass is the whole of 7 Wonders; the colors and icons make sense once real cards are in hands."
 tryThis: "Deal the first hand before you start talking, and let everyone hold real cards while you explain the three ways to play one."
-nextTeaser: "Next, your first three games of each. We cover the rules slips and strategy traps nearly every new table falls into, so you can spot them early."
+nextTeaser: "Next, the last piece of Level 0: scoring both games by hand, category by category, so the final count is quick and right."
 ---
 7 Wonders has a reputation for icons. A host picks up a card, starts explaining every symbol on it, and loses the table before the first pick. Duel has the same trap, with a layout of twenty cards to explain on top.
 

@@ -2,13 +2,14 @@
 title: "Ark Nova Sponsors and Money: Building an Economy"
 description: "Ark Nova money strategy: break income from appeal and kiosks, partner zoo discounts, which sponsors pay you back, and when the Sponsors action should take cash."
 course: ark-nova
-order: 5
+order: 9
+level: 2
 emailSubject: "Where Ark Nova money comes from"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Money in Ark Nova arrives in waves at each break. Spend before the wave, discount what you can, and treat each sponsor as an engine that should pay back the action it cost."
 tryThis: "Before each break in your next game, count the money you expect from appeal, kiosks, and income icons, and spend down toward zero before it arrives."
-nextTeaser: "Next, the endgame: when to trigger the crossing, who gets the last turns, and how to line up your final actions."
+nextTeaser: "Next, reputation and the display: how your reputation decides which cards you can reach, what universities add, and why 9 is a wall."
 ---
 A common first-game wall in Ark Nova: a hand full of great animals and 4 money. The animals are the exciting part, but money decides how many of them you can actually play. This lesson is about the economy behind the zoo: where money comes from, where it goes, and how sponsor cards turn into engines.
 

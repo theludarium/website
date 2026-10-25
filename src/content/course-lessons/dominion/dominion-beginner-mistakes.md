@@ -2,13 +2,14 @@
 title: "Your First Three Games of Dominion"
 description: "Dominion beginner mistakes: rules slips like early shuffles and late Treasures, strategy traps like too many Actions and early Duchies, and how to fix each one."
 course: dominion
-order: 3
+order: 4
+level: 1
 emailSubject: "The mistakes every new Dominion table makes"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Most first-game trouble comes from two places: small timing slips in the rules, and decks stuffed with cards that cannot all be played."
 tryThis: "After each of your next three games, spread out your deck and count three things: Action cards, Treasures, and Victory cards. Compare with the winner's deck."
-nextTeaser: "Next, openings. Your first two buys shape the whole game, and a little math tells you which pairs work best."
+nextTeaser: "Next, Big Money: the plain Silver, Gold, Province plan that every clever deck has to beat, and how to use it as your yardstick."
 ---
 Your first three games of Dominion are where habits form. Some of those habits are rules played a little wrong because nobody checked. Others are legal choices that quietly lose. This lesson covers both, checked against the second edition rulebook.
 

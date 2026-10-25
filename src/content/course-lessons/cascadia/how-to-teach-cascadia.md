@@ -3,12 +3,13 @@ title: "How to Teach Cascadia"
 description: "How to teach Cascadia in ten minutes: a host script in the order you say it, how to explain the five scoring cards, and a printable teach sheet for the table."
 course: cascadia
 order: 2
+level: 0
 emailSubject: "A ten-minute Cascadia teach"
 pubDate: 2026-10-24
 draft: false
 oneIdea: "Teach the turn in one breath, then teach the scoring cards one animal at a time, pointing at each card. The cards are the game; the turn is just how you get there."
 tryThis: "Print the teach sheet, set the five A cards in a row facing the newest player, and finish before minute ten by saving overpopulation and keystones for when they come up."
-nextTeaser: "Next, your first three games: the rules slips and strategy traps nearly every new table falls into, and how to spot them early."
+nextTeaser: "Next, the last piece of Level 0: scoring a full game by hand with the scorepad, so the final count is calm, quick, and correct."
 ---
 Cascadia's turn takes about thirty seconds to explain. The teach goes long somewhere else: at the five scoring cards, where hosts read every card in full, then the habitat bonuses, then the tie rules, while new players stare at a pile of hexes and wonder what any of it looks like.
 
@@ -18,7 +19,7 @@ The fix is to teach the turn fast, then spend most of your ten minutes on the ca
 
 Set up first, so the teach starts with the game ready. Tokens in the bag. The right number of tiles in face-down stacks. Four pairs in the display. A starter habitat tile in front of each seat. Nature tokens in a pile.
 
-Pick the cards. For a first game, use the five A cards, as the rulebook recommends. With young kids or players who are new to modern games, the Family variant card is gentler: every animal scores the same way, by the size of its group. [Lesson 7](/academy/cascadia/cascadia-expansions/) covers it.
+Pick the cards. For a first game, use the five A cards, as the rulebook recommends. With young kids or players who are new to modern games, the Family variant card is gentler: every animal scores the same way, by the size of its group. The [variants lesson](/academy/cascadia/cascadia-expansions/) covers it.
 
 ## Minute 1: the goal
 

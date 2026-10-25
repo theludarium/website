@@ -3,6 +3,7 @@ title: "How to Teach Splendor"
 description: "How to teach Splendor in ten minutes: a host script in the order you say it, the one moment to show with real pieces, what to skip, and a printable teach sheet."
 course: splendor
 order: 2
+level: 0
 emailSubject: "Teach Splendor in ten minutes flat"
 pubDate: 2026-10-24
 draft: false
