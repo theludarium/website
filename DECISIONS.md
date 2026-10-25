@@ -367,3 +367,11 @@ Levi liked Catan's Level 0 to 5 structure (learn to play up to expert) and asked
 - **Biggest audiences first.** Within each group the Academy cards now run by audience size and beginner appeal (Ticket to Ride, Wingspan, Codenames, Azul, Carcassonne, Pandemic first; Power Grid and Castles of Burgundy last), not by the wave they were written in. The first cards on a long page get most clicks, and newcomers sign up most. Card games lead with Pokémon and Magic.
 - **A "Start here" row** above the groups shows Catan, Ticket to Ride, Wingspan, Codenames, Pokémon and Magic, so the two biggest card games are not buried under 26 board game cards. Each still appears in its group.
 - **The order is an estimate.** Once On the Table has a few months of views and signups per game, those numbers should set it. Notes in the "Catalog order" section of `docs/academy/COURSES.md`.
+
+## 2026-10-25: Dinosaur Island course
+
+- **A new game course, "Room to Roar",** for Dinosaur Island (Jonathan Gilmour and Brian Lewis, Pandasaurus Games), at Levi's request. Medium ladder, Levels 0 to 4, 18 lessons, with a teach sheet, setup diagram and card art. Written by one agent from the official Rulebook 2.0 (2019) and fact checked by a second.
+- **Top level is Expert, not Tournament ready:** no official tournament or organized play was found.
+- **No original title from film.** The first draft borrowed a famous Jurassic Park line; course titles stay original.
+- **Objective claiming:** the rulebook does not say whether a player may decline or delay a claim, so the timing lesson teaches choosing when to complete an objective instead, and a VERIFY asks for a ruling.
+- **Untagged in On the Table** until Dinosaur Island joins its game list. Catalog order 285, among the strong and growing games.

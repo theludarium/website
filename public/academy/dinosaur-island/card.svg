@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="t">
+<title id="t">An original illustration of a friendly long-necked dinosaur peeking over a park fence beside a small park gate, with dice, a DNA strand, and round tokens on the table below</title>
+<defs><radialGradient id="felt" cx="50%" cy="45%" r="75%"><stop offset="0" stop-color="#3a6e60"/><stop offset="1" stop-color="#2a5246"/></radialGradient></defs>
+<rect width="640" height="360" fill="url(#felt)"/>
+<ellipse cx="330" cy="290" rx="250" ry="16" fill="#2a4c40" opacity=".7"/>
+<path d="M548,286 q-6,-60 4,-118" fill="none" stroke="#6b4a33" stroke-width="8" stroke-linecap="round"/>
+<path transform="translate(552 168) rotate(-150)" d="M0,0 Q22,-12 44,0 Q22,10 0,0 Z" fill="#4f7a4b" stroke="#f6efe3" stroke-width="1.2"/>
+<path transform="translate(552 168) rotate(-30)" d="M0,0 Q22,-12 44,0 Q22,10 0,0 Z" fill="#4f7a4b" stroke="#f6efe3" stroke-width="1.2"/>
+<path transform="translate(552 168) rotate(-95)" d="M0,0 Q20,-10 38,0 Q20,9 0,0 Z" fill="#a8c27e" stroke="#f6efe3" stroke-width="1.2"/>
+<path transform="translate(552 168) rotate(15)" d="M0,0 Q20,-10 38,0 Q20,9 0,0 Z" fill="#a8c27e" stroke="#f6efe3" stroke-width="1.2"/>
+<path transform="translate(552 168) rotate(-195)" d="M0,0 Q20,-10 38,0 Q20,9 0,0 Z" fill="#a8c27e" stroke="#f6efe3" stroke-width="1.2"/>
+<path d="M470,226 Q520,214 540,182 Q532,224 476,250 Z" fill="#a8c27e" stroke="#f6efe3" stroke-width="2" stroke-linejoin="round"/>
+<rect x="348" y="236" width="24" height="52" rx="10" fill="#8fae6a" stroke="#f6efe3" stroke-width="2"/>
+<rect x="430" y="236" width="24" height="52" rx="10" fill="#8fae6a" stroke="#f6efe3" stroke-width="2"/>
+<path d="M352,206 Q330,150 316,112 L344,104 Q354,150 382,194 Z" fill="#a8c27e" stroke="#f6efe3" stroke-width="2" stroke-linejoin="round"/>
+<ellipse cx="410" cy="224" rx="84" ry="46" fill="#a8c27e" stroke="#f6efe3" stroke-width="2"/>
+<ellipse cx="318" cy="98" rx="30" ry="20" transform="rotate(-10 318 98)" fill="#a8c27e" stroke="#f6efe3" stroke-width="2"/>
+<circle cx="312" cy="92" r="4.5" fill="#2b1e16"/><circle cx="313.5" cy="90.5" r="1.4" fill="#f6efe3"/>
+<path d="M294,104 Q304,112 316,108" fill="none" stroke="#2b1e16" stroke-width="2" stroke-linecap="round"/>
+<circle cx="296" cy="96" r="1.6" fill="#2b1e16"/>
+<circle cx="326" cy="103" r="5" fill="#e2b85b" opacity=".55"/>
+<circle cx="392" cy="196" r="8" fill="#e2b85b" opacity=".85"/>
+<circle cx="420" cy="190" r="10" fill="#e2b85b" opacity=".85"/>
+<circle cx="450" cy="200" r="7" fill="#e2b85b" opacity=".85"/>
+<circle cx="344" cy="150" r="5" fill="#e2b85b" opacity=".85"/>
+<circle cx="336" cy="128" r="4" fill="#e2b85b" opacity=".85"/>
+<g fill="#8a6a4a" stroke="#f6efe3" stroke-width="1.6">
+<rect x="208" y="226" width="352" height="9" rx="4"/>
+<rect x="208" y="256" width="352" height="9" rx="4"/>
+<rect x="210" y="210" width="14" height="80" rx="4"/>
+<rect x="266" y="210" width="14" height="80" rx="4"/>
+<rect x="322" y="210" width="14" height="80" rx="4"/>
+<rect x="378" y="210" width="14" height="80" rx="4"/>
+<rect x="434" y="210" width="14" height="80" rx="4"/>
+<rect x="490" y="210" width="14" height="80" rx="4"/>
+<rect x="546" y="210" width="14" height="80" rx="4"/>
+</g>
+<rect x="96" y="148" width="20" height="142" rx="5" fill="#6b4a33" stroke="#f6efe3" stroke-width="2"/>
+<rect x="180" y="148" width="20" height="142" rx="5" fill="#6b4a33" stroke="#f6efe3" stroke-width="2"/>
+<path d="M90,154 Q148,104 206,154 L206,166 Q148,120 90,166 Z" fill="#e0a23b" stroke="#f6efe3" stroke-width="2" stroke-linejoin="round"/>
+<path d="M148,118 V92" stroke="#f6efe3" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M148,92 L170,99 L148,106 Z" fill="#b4623c" stroke="#f6efe3" stroke-width="1.2" stroke-linejoin="round"/>
+<path d="M120,200 H176 M120,228 H176 M120,256 H176 M134,190 V282 M162,190 V282" stroke="#c9b99c" stroke-width="3" stroke-linecap="round"/>
+<g transform="rotate(-8 214.0 318.0)"><rect x="194" y="301" width="40" height="40" rx="8" fill="#2b1e16" opacity=".3"/><rect x="194" y="298" width="40" height="40" rx="8" fill="#f6efe3" stroke="#f6efe3" stroke-width="2"/><circle cx="204" cy="308" r="3.6" fill="#2b1e16"/><circle cx="214" cy="318" r="3.6" fill="#2b1e16"/><circle cx="224" cy="328" r="3.6" fill="#2b1e16"/></g>
+<g transform="rotate(6 264.0 320.0)"><rect x="244" y="303" width="40" height="40" rx="8" fill="#2b1e16" opacity=".3"/><rect x="244" y="300" width="40" height="40" rx="8" fill="#f6efe3" stroke="#f6efe3" stroke-width="2"/><circle cx="254" cy="310" r="3.6" fill="#2b1e16"/><circle cx="274" cy="310" r="3.6" fill="#2b1e16"/><circle cx="254" cy="330" r="3.6" fill="#2b1e16"/><circle cx="274" cy="330" r="3.6" fill="#2b1e16"/></g>
+<g transform="translate(316 322) rotate(-12)">
+<path d="M0,0 C15,-14 30,14 45,0 S75,-14 90,0 S120,14 135,0" fill="none" stroke="#e0a23b" stroke-width="4" stroke-linecap="round"/>
+<path d="M0,0 C15,14 30,-14 45,0 S75,14 90,0 S120,-14 135,0" fill="none" stroke="#f6efe3" stroke-width="4" stroke-linecap="round"/>
+<path d="M11,-6 V6 M34,-6 V6 M56,-6 V6 M79,-6 V6 M101,-6 V6 M124,-6 V6" stroke="#c9b99c" stroke-width="2.5" stroke-linecap="round"/>
+</g>
+<circle cx="490" cy="318" r="13" fill="#3f7384" stroke="#f6efe3" stroke-width="2"/><circle cx="490" cy="318" r="5" fill="#f6efe3" opacity=".5"/>
+<circle cx="522" cy="326" r="13" fill="#b4623c" stroke="#f6efe3" stroke-width="2"/><circle cx="522" cy="326" r="5" fill="#f6efe3" opacity=".5"/>
+<circle cx="508" cy="302" r="13" fill="#e2b85b" stroke="#f6efe3" stroke-width="2"/><circle cx="508" cy="302" r="5" fill="#f6efe3" opacity=".5"/>
+</svg>

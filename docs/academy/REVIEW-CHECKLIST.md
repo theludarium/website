@@ -6,51 +6,7 @@ Every marker the course writers and fact checkers left for Levi, by course, gene
 - **VERIFY:** a fact the checkers could not confirm from an official source, often a 2027 date that is not posted yet or a number printed only on a physical component.
 - **AFFILIATE:** a product mention waiting for an affiliate link and the disclosure line.
 
-Totals: 370 AT OUR TABLE, 323 VERIFY, 253 AFFILIATE.
-
-## Carcassonne (Tile by Tile)
-
-- [ ] **VERIFY** `how-to-score-carcassonne.md`: check whether the 2021 Z-Man box includes 50/100 point tiles or a rule for laps on the scoreboard, and name it here if so.
-- [ ] **AT OUR TABLE** `how-to-score-carcassonne.md`: how Levi runs the final count at his own table, such as who reads the scores out and how the group checks the fields.
-- [ ] **AT OUR TABLE** `carcassonne-beginner-mistakes.md`: one line on the most common first-game mistake Levi sees new players make, and how he coaches it.
-- [ ] **VERIFY** `carcassonne-meeple-management.md`: the 71 drawable tiles assume the 2021 box has the same 72-tile base set as earlier editions; confirm against the tile overview in the box.
-- [ ] **VERIFY** `carcassonne-monastery-strategy.md`: confirm 4 plain and 2 road monasteries in the 2021 box's tile overview.
-- [ ] **AFFILIATE** `carcassonne-expansions.md`: Carcassonne base game
-- [ ] **VERIFY** `carcassonne-expansions.md`: read the solo rules PDF and add one or two lines on how solo play works, if worth including.
-- [ ] **AFFILIATE** `carcassonne-expansions.md`: Carcassonne: Inns & Cathedrals
-- [ ] **AFFILIATE** `carcassonne-expansions.md`: Carcassonne: Traders & Builders
-- [ ] **AFFILIATE** `carcassonne-expansions.md`: Carcassonne: The Princess & The Dragon
-- [ ] **AFFILIATE** `carcassonne-expansions.md`: Carcassonne Big Box 2022
-- [ ] **AFFILIATE** `carcassonne-expansions.md`: Carcassonne spin-offs (Hunters & Gatherers, Amazonas, Safari, Gold Rush)
-- [ ] **AFFILIATE** `carcassonne-expansions.md`: My First Carcassonne
-- [ ] **AT OUR TABLE** `carcassonne-farmer-strategy.md`: a field fight Levi sees often at his own table, such as the moment a group first realizes a field can be stolen, and how it changes their play.
-- [ ] **VERIFY** `carcassonne-tile-counting.md`: check these counts against the tile overview in the 2021 Z-Man box. The 2021 rulebook mentions 84 land tiles and 12 river tiles but gives no count per shape.
-- [ ] **VERIFY** `carcassonne-endgame-tile-tracking.md`: the 71 drawable tiles assume the 2021 box has the same 72-tile base set as earlier editions; confirm against the box before publishing.
-- [ ] **VERIFY** `carcassonne-tournaments.md`: results of the 2026 final (held October 24, 2026), and update the paragraph above once they are posted.
-- [ ] **VERIFY** `carcassonne-tournaments.md`: check the WBC 2027 event list for the Carcassonne event's dates and format before the next convention.
-- [ ] **VERIFY** `carcassonne-tournament-rules.md`: check the current US National Carcassonne Championship rules on its Board Game Arena group for its timer and format, and add a line on how they differ.
-
-## Azul (Wall to Wall)
-
-- [ ] **AT OUR TABLE** `how-to-score-azul.md`: one line on how Levi runs the final count at his table (who scores, out loud or on paper), and the slip he catches most often.
-- [ ] **AT OUR TABLE** `azul-beginner-mistakes.md`: one line on the most common first-game mistake Levi sees new Azul players make, and how he coaches it.
-- [ ] **AT OUR TABLE** `azul-wall-planning.md`: one line on how Levi teaches newer players to see the block, for example a phrase he uses or the moment it clicked for his group.
-- [ ] **AFFILIATE** `azul-expansions.md`: Azul
-- [ ] **AFFILIATE** `azul-expansions.md`: Azul Mini
-- [ ] **AFFILIATE** `azul-expansions.md`: Azul Crystal Mosaic
-- [ ] **AFFILIATE** `azul-expansions.md`: Azul Promo Collection
-- [ ] **VERIFY** `azul-expansions.md`: how the Promo Collection is sold or given away (retail, convention promo, or with a purchase) before pointing readers to buy it.
-- [ ] **AFFILIATE** `azul-expansions.md`: Azul Master Chocolatier
-- [ ] **AFFILIATE** `azul-expansions.md`: Azul Stained Glass of Sintra
-- [ ] **AFFILIATE** `azul-expansions.md`: Azul Summer Pavilion
-- [ ] **AFFILIATE** `azul-expansions.md`: Azul Queen's Garden
-- [ ] **AFFILIATE** `azul-expansions.md`: Azul Duel
-- [ ] **VERIFY** `azul-tile-counting.md`: whether the WBC or other tournament rules say anything about players looking into the box lid during play.
-- [ ] **AT OUR TABLE** `azul-tile-counting.md`: one line on whether Levi's group tracks colors on paper or by eye, and whether they treat note-taking as fair at a casual table.
-- [ ] **AT OUR TABLE** `two-player-azul-strategy.md`: one line on a two-player Azul habit Levi uses, such as how he spots the last-pick moment, in his own words.
-- [ ] **AT OUR TABLE** `azul-gray-wall-strategy.md`: one line on whether Levi's group plays the gray side regularly, and the first dead space or dead line someone hit.
-- [ ] **VERIFY** `azul-tournaments.md`: check the WBC 2027 event list for the Azul event's dates and format before the next convention.
-- [ ] **VERIFY** `azul-tournaments.md`: whether Plan B Games or Asmodee has announced another Azul World Championship, and its dates and qualifier path, before publishing.
+Totals: 385 AT OUR TABLE, 334 VERIFY, 258 AFFILIATE.
 
 ## Ticket to Ride (Coast to Coast)
 
@@ -148,6 +104,73 @@ Totals: 370 AT OUR TABLE, 323 VERIFY, 253 AFFILIATE.
 - [ ] **VERIFY** `codenames-game-nights.md`: when the Codenames Discord Activity launched, from the CGE news post.
 - [ ] **AFFILIATE** `codenames-game-nights.md`: Codenames app
 
+## Azul (Wall to Wall)
+
+- [ ] **AT OUR TABLE** `how-to-score-azul.md`: one line on how Levi runs the final count at his table (who scores, out loud or on paper), and the slip he catches most often.
+- [ ] **AT OUR TABLE** `azul-beginner-mistakes.md`: one line on the most common first-game mistake Levi sees new Azul players make, and how he coaches it.
+- [ ] **AT OUR TABLE** `azul-wall-planning.md`: one line on how Levi teaches newer players to see the block, for example a phrase he uses or the moment it clicked for his group.
+- [ ] **AFFILIATE** `azul-expansions.md`: Azul
+- [ ] **AFFILIATE** `azul-expansions.md`: Azul Mini
+- [ ] **AFFILIATE** `azul-expansions.md`: Azul Crystal Mosaic
+- [ ] **AFFILIATE** `azul-expansions.md`: Azul Promo Collection
+- [ ] **VERIFY** `azul-expansions.md`: how the Promo Collection is sold or given away (retail, convention promo, or with a purchase) before pointing readers to buy it.
+- [ ] **AFFILIATE** `azul-expansions.md`: Azul Master Chocolatier
+- [ ] **AFFILIATE** `azul-expansions.md`: Azul Stained Glass of Sintra
+- [ ] **AFFILIATE** `azul-expansions.md`: Azul Summer Pavilion
+- [ ] **AFFILIATE** `azul-expansions.md`: Azul Queen's Garden
+- [ ] **AFFILIATE** `azul-expansions.md`: Azul Duel
+- [ ] **VERIFY** `azul-tile-counting.md`: whether the WBC or other tournament rules say anything about players looking into the box lid during play.
+- [ ] **AT OUR TABLE** `azul-tile-counting.md`: one line on whether Levi's group tracks colors on paper or by eye, and whether they treat note-taking as fair at a casual table.
+- [ ] **AT OUR TABLE** `two-player-azul-strategy.md`: one line on a two-player Azul habit Levi uses, such as how he spots the last-pick moment, in his own words.
+- [ ] **AT OUR TABLE** `azul-gray-wall-strategy.md`: one line on whether Levi's group plays the gray side regularly, and the first dead space or dead line someone hit.
+- [ ] **VERIFY** `azul-tournaments.md`: check the WBC 2027 event list for the Azul event's dates and format before the next convention.
+- [ ] **VERIFY** `azul-tournaments.md`: whether Plan B Games or Asmodee has announced another Azul World Championship, and its dates and qualifier path, before publishing.
+
+## Carcassonne (Tile by Tile)
+
+- [ ] **VERIFY** `how-to-score-carcassonne.md`: check whether the 2021 Z-Man box includes 50/100 point tiles or a rule for laps on the scoreboard, and name it here if so.
+- [ ] **AT OUR TABLE** `how-to-score-carcassonne.md`: how Levi runs the final count at his own table, such as who reads the scores out and how the group checks the fields.
+- [ ] **AT OUR TABLE** `carcassonne-beginner-mistakes.md`: one line on the most common first-game mistake Levi sees new players make, and how he coaches it.
+- [ ] **VERIFY** `carcassonne-meeple-management.md`: the 71 drawable tiles assume the 2021 box has the same 72-tile base set as earlier editions; confirm against the tile overview in the box.
+- [ ] **VERIFY** `carcassonne-monastery-strategy.md`: confirm 4 plain and 2 road monasteries in the 2021 box's tile overview.
+- [ ] **AFFILIATE** `carcassonne-expansions.md`: Carcassonne base game
+- [ ] **VERIFY** `carcassonne-expansions.md`: read the solo rules PDF and add one or two lines on how solo play works, if worth including.
+- [ ] **AFFILIATE** `carcassonne-expansions.md`: Carcassonne: Inns & Cathedrals
+- [ ] **AFFILIATE** `carcassonne-expansions.md`: Carcassonne: Traders & Builders
+- [ ] **AFFILIATE** `carcassonne-expansions.md`: Carcassonne: The Princess & The Dragon
+- [ ] **AFFILIATE** `carcassonne-expansions.md`: Carcassonne Big Box 2022
+- [ ] **AFFILIATE** `carcassonne-expansions.md`: Carcassonne spin-offs (Hunters & Gatherers, Amazonas, Safari, Gold Rush)
+- [ ] **AFFILIATE** `carcassonne-expansions.md`: My First Carcassonne
+- [ ] **AT OUR TABLE** `carcassonne-farmer-strategy.md`: a field fight Levi sees often at his own table, such as the moment a group first realizes a field can be stolen, and how it changes their play.
+- [ ] **VERIFY** `carcassonne-tile-counting.md`: check these counts against the tile overview in the 2021 Z-Man box. The 2021 rulebook mentions 84 land tiles and 12 river tiles but gives no count per shape.
+- [ ] **VERIFY** `carcassonne-endgame-tile-tracking.md`: the 71 drawable tiles assume the 2021 box has the same 72-tile base set as earlier editions; confirm against the box before publishing.
+- [ ] **VERIFY** `carcassonne-tournaments.md`: results of the 2026 final (held October 24, 2026), and update the paragraph above once they are posted.
+- [ ] **VERIFY** `carcassonne-tournaments.md`: check the WBC 2027 event list for the Carcassonne event's dates and format before the next convention.
+- [ ] **VERIFY** `carcassonne-tournament-rules.md`: check the current US National Carcassonne Championship rules on its Board Game Arena group for its timer and format, and add a line on how they differ.
+
+## Pandemic (Four Actions, Four Cures)
+
+- [ ] **AT OUR TABLE** `pandemic-epidemics-and-outbreaks.md`: how Levi has the table run the first Epidemic of a teaching game, who reads the steps, and the moment new players usually understand the game.
+- [ ] **AT OUR TABLE** `pandemic-beginner-mistakes.md`: one line on the first-game mistake Levi sees most often when new players learn Pandemic, and how he coaches it.
+- [ ] **AT OUR TABLE** `pandemic-roles-guide.md`: which role new players at Levi's table enjoy most, and which one they most often misplay.
+- [ ] **AT OUR TABLE** `pandemic-research-stations.md`: where Levi's table usually builds the second station, and how that choice played out at the first Epidemic.
+- [ ] **AT OUR TABLE** `pandemic-share-knowledge-strategy.md`: a short line on how Levi's table names collectors, and whether they say it at setup or wait for the first draws.
+- [ ] **AT OUR TABLE** `pandemic-event-cards.md`: one line on the Event card Levi's table most often holds too long, and the turn they learned to let it go.
+- [ ] **AT OUR TABLE** `pandemic-team-communication.md`: how Levi's table splits the "watch the discard pile" and "count the deck" jobs, and how new players respond to being given one.
+- [ ] **AT OUR TABLE** `pandemic-heroic-strategy.md`: how many tries Levi's group took to win its first Heroic game, and which losing condition came closest along the way.
+- [ ] **AFFILIATE** `pandemic-expansions.md`: Pandemic base game
+- [ ] **AFFILIATE** `pandemic-expansions.md`: Pandemic: On the Brink
+- [ ] **AFFILIATE** `pandemic-expansions.md`: Pandemic: In the Lab
+- [ ] **AFFILIATE** `pandemic-expansions.md`: Pandemic: State of Emergency
+- [ ] **AFFILIATE** `pandemic-expansions.md`: Pandemic Legacy: Season 1
+- [ ] **AFFILIATE** `pandemic-expansions.md`: Pandemic Legacy: Season 2 and Season 0
+- [ ] **AFFILIATE** `pandemic-expansions.md`: Pandemic spin-offs (Iberia, Fall of Rome, The Cure, Hot Zone: North America, Hot Zone: Europe)
+- [ ] **VERIFY** `pandemic-expansions.md`: Fall of Rome and Hot Zone availability on Z-Man's site before publishing; all three pages said "Currently Unavailable" on 2026-10-24.
+- [ ] **AFFILIATE** `pandemic-puzzles-and-scenarios.md`: Pandemic: On the Brink
+- [ ] **AT OUR TABLE** `pandemic-puzzles-and-scenarios.md`: which of the ten puzzles stumped Levi's group longest, without giving away its solution.
+- [ ] **VERIFY** `pandemic-solo-and-challenges.md`: check the WBC 2027 event list in case a Pandemic event is added.
+- [ ] **VERIFY** `pandemic-solo-and-challenges.md`: whether Z-Man or Asmodee runs any current Pandemic Survival season or other organized Pandemic event.
+
 ## King of Tokyo (Who Holds Tokyo)
 
 - [ ] **AFFILIATE** `how-to-play-king-of-tokyo.md`: King of Tokyo
@@ -187,6 +210,49 @@ Totals: 370 AT OUR TABLE, 323 VERIFY, 253 AFFILIATE.
 - [ ] **VERIFY** `king-of-tokyo-tournaments.md`: the WBC 2027 event list and King of Tokyo preview, for format and schedule, once they are posted.
 - [ ] **VERIFY** `king-of-tokyo-tournaments.md`: whether IELLO or its US distributor runs a current King of Tokyo organized play program, store tournament kit, or national championship worth listing here, and check the Berlin Con news link still loads.
 
+## Splendor (Gem by Gem)
+
+- [ ] **AT OUR TABLE** `splendor-beginner-mistakes.md`: one line on the most common first-game Splendor mistake Levi sees new players make, and how he coaches it.
+- [ ] **AFFILIATE** `splendor-expansions.md`: Splendor: The Silk Road
+- [ ] **AFFILIATE** `splendor-expansions.md`: Splendor: The Sun Never Sets
+- [ ] **VERIFY** `splendor-expansions.md`: whether the older Cities of Splendor box (2017) mixes cleanly with the 10th anniversary base game, given the new card art.
+- [ ] **AFFILIATE** `splendor-expansions.md`: Splendor Duel
+- [ ] **AFFILIATE** `splendor-expansions.md`: Splendor Duel: The Counterfeiters
+- [ ] **AFFILIATE** `splendor-expansions.md`: Splendor Marvel
+- [ ] **AFFILIATE** `splendor-expansions.md`: Splendor (base game)
+- [ ] **VERIFY** `splendor-nobles-strategy.md`: that the 10th anniversary edition keeps the same ten noble requirements as the original game.
+- [ ] **AT OUR TABLE** `two-player-splendor-strategy.md`: one line on how two-player Splendor feels different at Levi's own table, and the move that most often decides a duel there.
+- [ ] **AFFILIATE** `two-player-splendor-strategy.md`: Splendor Duel
+- [ ] **VERIFY** `splendor-card-deck-odds.md`: that the 10th anniversary edition keeps the same card costs and points as the original 2014 cards.
+- [ ] **VERIFY** `splendor-tournaments.md`: check the WBC 2027 event list for the Splendor event's dates and format before the next convention.
+- [ ] **VERIFY** `splendor-tournaments.md`: whether Splendor is on the WSBG 2027 ring game list.
+- [ ] **AT OUR TABLE** `splendor-tournament-practice.md`: one line on how Levi times a clocked game at his own table, and the habit that keeps turns short.
+
+## Cascadia (Wild Corridors)
+
+- [ ] **AT OUR TABLE** `how-to-score-cascadia.md`: who keeps score at Levi's table, and whether he reads the rows aloud or lets each player fill in their own column.
+- [ ] **AT OUR TABLE** `cascadia-beginner-mistakes.md`: one line on the most common first-game mistake Levi sees new Cascadia players make, and how he coaches it.
+- [ ] **AT OUR TABLE** `cascadia-a-cards-strategy.md`: which A card new players at Levi's table most often fall in love with, and which one they most often break by accident.
+- [ ] **AFFILIATE** `cascadia-expansions.md`: Cascadia base game
+- [ ] **AFFILIATE** `cascadia-expansions.md`: Cascadia: Landmarks
+- [ ] **AFFILIATE** `cascadia-expansions.md`: Cascadia: Rolling Hills and Cascadia: Rolling Rivers
+- [ ] **AFFILIATE** `cascadia-expansions.md`: Cascadia Junior
+- [ ] **VERIFY** `cascadia-expansions.md`: Cascadia Junior's player count, play time, and age range; AEG's page does not list them.
+- [ ] **VERIFY** `cascadia-strategy-openings.md`: Dire Wolf's salmon spotlight says Salmon D needs runs of at least three; the rulebook text gives no minimum. Check a physical Salmon D card.
+- [ ] **AT OUR TABLE** `cascadia-tile-placement.md`: a short note on how Levi's own environments tend to look by turn ten, compact or sprawling, and which works better for him.
+- [ ] **AT OUR TABLE** `cascadia-nature-tokens.md`: whether Levi's group tends to hoard nature tokens or spend them freely, and which habit wins more often there.
+- [ ] **VERIFY** `cascadia-hardest-scoring-cards.md`: on a physical Salmon C card, that the top row reads 5+ (a run of six scores the same as five), as the rulebook's small card image suggests.
+- [ ] **AT OUR TABLE** `cascadia-hardest-scoring-cards.md`: which card Levi's group finds hardest, and whether they ever house-rule it out of the draw.
+- [ ] **AT OUR TABLE** `two-player-cascadia-strategy.md`: how two-player Cascadia feels at Levi's table, and whether couples or friends there play it more competitively than four-player games.
+- [ ] **AFFILIATE** `cascadia-solo-strategy.md`: Cascadia Digital
+- [ ] **AT OUR TABLE** `cascadia-solo-strategy.md`: Levi's best solo score or the scenario that took him the most tries.
+- [ ] **VERIFY** `cascadia-tournaments.md`: check the WBC 2027 event list for the Cascadia event's dates, format, and Century status before the next convention.
+- [ ] **VERIFY** `cascadia-tournaments.md`: check whether AEG or Flatout Games has announced an official Cascadia championship or online qualifier, and add it here if so.
+- [ ] **AFFILIATE** `cascadia-tournaments.md`: Cascadia Digital
+- [ ] **VERIFY** `cascadia-tournament-strategy.md`: recheck the WBC Cascadia preview for the next convention (format, round length, Hawk C rule, tiebreaks, and advancement) before relying on these details.
+- [ ] **AFFILIATE** `cascadia-tournament-strategy.md`: Cascadia Digital
+- [ ] **AT OUR TABLE** `cascadia-tournament-strategy.md`: one habit Levi would add to the plan, or how his group might run a mock heat.
+
 ## Flip 7 (One More Card)
 
 - [ ] **AT OUR TABLE** `how-to-teach-flip-7.md`: one line on how Levi's group handles the first Freeze or Flip Three aimed at a new player, so it lands as fun.
@@ -213,46 +279,54 @@ Totals: 370 AT OUR TABLE, 323 VERIFY, 253 AFFILIATE.
 - [ ] **VERIFY** `where-to-play-flip-7.md`: whether Flip 7 is on the WBC 2027 event list after the trial vote, and its format.
 - [ ] **VERIFY** `where-to-play-flip-7.md`: check theop.games again for any official Flip 7 tournament, league, or organized play before publishing.
 
-## Pandemic (Four Actions, Four Cures)
+## Sky Team (Cleared to Land)
 
-- [ ] **AT OUR TABLE** `pandemic-epidemics-and-outbreaks.md`: how Levi has the table run the first Epidemic of a teaching game, who reads the steps, and the moment new players usually understand the game.
-- [ ] **AT OUR TABLE** `pandemic-beginner-mistakes.md`: one line on the first-game mistake Levi sees most often when new players learn Pandemic, and how he coaches it.
-- [ ] **AT OUR TABLE** `pandemic-roles-guide.md`: which role new players at Levi's table enjoy most, and which one they most often misplay.
-- [ ] **AT OUR TABLE** `pandemic-research-stations.md`: where Levi's table usually builds the second station, and how that choice played out at the first Epidemic.
-- [ ] **AT OUR TABLE** `pandemic-share-knowledge-strategy.md`: a short line on how Levi's table names collectors, and whether they say it at setup or wait for the first draws.
-- [ ] **AT OUR TABLE** `pandemic-event-cards.md`: one line on the Event card Levi's table most often holds too long, and the turn they learned to let it go.
-- [ ] **AT OUR TABLE** `pandemic-team-communication.md`: how Levi's table splits the "watch the discard pile" and "count the deck" jobs, and how new players respond to being given one.
-- [ ] **AT OUR TABLE** `pandemic-heroic-strategy.md`: how many tries Levi's group took to win its first Heroic game, and which losing condition came closest along the way.
-- [ ] **AFFILIATE** `pandemic-expansions.md`: Pandemic base game
-- [ ] **AFFILIATE** `pandemic-expansions.md`: Pandemic: On the Brink
-- [ ] **AFFILIATE** `pandemic-expansions.md`: Pandemic: In the Lab
-- [ ] **AFFILIATE** `pandemic-expansions.md`: Pandemic: State of Emergency
-- [ ] **AFFILIATE** `pandemic-expansions.md`: Pandemic Legacy: Season 1
-- [ ] **AFFILIATE** `pandemic-expansions.md`: Pandemic Legacy: Season 2 and Season 0
-- [ ] **AFFILIATE** `pandemic-expansions.md`: Pandemic spin-offs (Iberia, Fall of Rome, The Cure, Hot Zone: North America, Hot Zone: Europe)
-- [ ] **VERIFY** `pandemic-expansions.md`: Fall of Rome and Hot Zone availability on Z-Man's site before publishing; all three pages said "Currently Unavailable" on 2026-10-24.
-- [ ] **AFFILIATE** `pandemic-puzzles-and-scenarios.md`: Pandemic: On the Brink
-- [ ] **AT OUR TABLE** `pandemic-puzzles-and-scenarios.md`: which of the ten puzzles stumped Levi's group longest, without giving away its solution.
-- [ ] **VERIFY** `pandemic-solo-and-challenges.md`: check the WBC 2027 event list in case a Pandemic event is added.
-- [ ] **VERIFY** `pandemic-solo-and-challenges.md`: whether Z-Man or Asmodee runs any current Pandemic Survival season or other organized Pandemic event.
+- [ ] **AFFILIATE** `how-to-play-sky-team.md`: Sky Team
+- [ ] **AT OUR TABLE** `how-to-teach-sky-team.md`: one line on how Levi debriefs a crashed first flight so neither pilot feels blamed.
+- [ ] **VERIFY** `sky-team-beginner-mistakes.md`: where the red Brake marker sits after the first and third brakes (the booklet's example puts it between the 4 and the 5 after the second).
+- [ ] **AT OUR TABLE** `sky-team-beginner-mistakes.md`: one line on the crash Levi sees most often in a new crew's first three flights, and the briefing question that fixes it.
+- [ ] **VERIFY** `sky-team-approach-speed-flaps-landing-gear.md`: whether advancing 2 spaces past a plane in the next space (not the Current Position) is a collision under the Landing Procedure, or only the Current Position counts.
+- [ ] **AT OUR TABLE** `sky-team-dice-budget-planning.md`: one line on what Levi and his co-pilot actually write on their scrap of paper before round 1.
+- [ ] **VERIFY** `sky-team-scenarios-modules-expansion.md`: what the Print and Play file contains, and what the Haneda (HND) rebalancing changes, before describing either in more detail.
+- [ ] **AFFILIATE** `sky-team-scenarios-modules-expansion.md`: Sky Team: Turbulence
+- [ ] **VERIFY** `sky-team-scenarios-modules-expansion.md`: the expansion's English retail name; the publisher's page uses both "Alarms and Turbulences" and "Turbulence", and retailers list "Sky Team: Turbulence".
+- [ ] **AFFILIATE** `sky-team-scenarios-modules-expansion.md`: Sky Team
+- [ ] **VERIFY** `sky-team-kerosene-intern-traffic-strategy.md`: how many Intern tokens and spaces the Intern board has, so the lesson can say how many trainings a flight needs.
+- [ ] **AFFILIATE** `sky-team-kerosene-intern-traffic-strategy.md`: Sky Team
+- [ ] **AT OUR TABLE** `sky-team-reading-your-partner.md`: one line on a placement Levi's co-pilot made that said more than words would have, and how the round turned on it.
+- [ ] **VERIFY** `sky-team-wind-ice-brakes-heroic-landings.md`: the full set of values on the Wind ring, including whether it has negative values that slow the plane, before saying which way to steer it.
+- [ ] **VERIFY** `sky-team-wind-ice-brakes-heroic-landings.md`: whether each Ice Brakes space is limited to one player's color, and how many steps the track has.
+- [ ] **AT OUR TABLE** `sky-team-wind-ice-brakes-heroic-landings.md`: one line on which Special Ability Levi reaches for first on a hard scenario, and why.
+- [ ] **AFFILIATE** `sky-team-wind-ice-brakes-heroic-landings.md`: Sky Team: Turbulence
+- [ ] **VERIFY** `play-sky-team-online-and-more.md`: Board Game Arena lists Sky Team as a Premium game; check whether one player at the table needs a paid account, and whether the Turbulence scenarios are available there.
+- [ ] **VERIFY** `play-sky-team-online-and-more.md`: whether Le Scorpion Masqué, a convention, or Board Game Arena runs Sky Team challenge events or arena seasons worth listing here. No Sky Team event was found in the World Boardgaming Championships previews for 2024 to 2026.
+- [ ] **VERIFY** `play-sky-team-online-and-more.md`: whether Le Scorpion Masqué or its US distributor has a store locator to link here.
 
-## Splendor (Gem by Gem)
+## Heat: Pedal to the Metal (Hot Laps)
 
-- [ ] **AT OUR TABLE** `splendor-beginner-mistakes.md`: one line on the most common first-game Splendor mistake Levi sees new players make, and how he coaches it.
-- [ ] **AFFILIATE** `splendor-expansions.md`: Splendor: The Silk Road
-- [ ] **AFFILIATE** `splendor-expansions.md`: Splendor: The Sun Never Sets
-- [ ] **VERIFY** `splendor-expansions.md`: whether the older Cities of Splendor box (2017) mixes cleanly with the 10th anniversary base game, given the new card art.
-- [ ] **AFFILIATE** `splendor-expansions.md`: Splendor Duel
-- [ ] **AFFILIATE** `splendor-expansions.md`: Splendor Duel: The Counterfeiters
-- [ ] **AFFILIATE** `splendor-expansions.md`: Splendor Marvel
-- [ ] **AFFILIATE** `splendor-expansions.md`: Splendor (base game)
-- [ ] **VERIFY** `splendor-nobles-strategy.md`: that the 10th anniversary edition keeps the same ten noble requirements as the original game.
-- [ ] **AT OUR TABLE** `two-player-splendor-strategy.md`: one line on how two-player Splendor feels different at Levi's own table, and the move that most often decides a duel there.
-- [ ] **AFFILIATE** `two-player-splendor-strategy.md`: Splendor Duel
-- [ ] **VERIFY** `splendor-card-deck-odds.md`: that the 10th anniversary edition keeps the same card costs and points as the original 2014 cards.
-- [ ] **VERIFY** `splendor-tournaments.md`: check the WBC 2027 event list for the Splendor event's dates and format before the next convention.
-- [ ] **VERIFY** `splendor-tournaments.md`: whether Splendor is on the WSBG 2027 ring game list.
-- [ ] **AT OUR TABLE** `splendor-tournament-practice.md`: one line on how Levi times a clocked game at his own table, and the habit that keeps turns short.
+- [ ] **AT OUR TABLE** `heat-corners-speed-limits.md`: the corner on Levi's favorite base track where new drivers most often pay a double bill, and what he tells them as they approach it.
+- [ ] **AT OUR TABLE** `heat-beginner-mistakes.md`: one line on the most common first-race mistake Levi sees new Heat drivers make, and how he coaches it.
+- [ ] **AT OUR TABLE** `heat-hand-management.md`: how many Heat cards in hand Levi treats as his signal to plan a cooldown, and how he spots it in other drivers.
+- [ ] **AFFILIATE** `heat-expansions.md`: Heat: Pedal to the Metal
+- [ ] **AFFILIATE** `heat-expansions.md`: Heat: Heavy Rain
+- [ ] **AFFILIATE** `heat-expansions.md`: Heat: Tunnel Vision
+- [ ] **AFFILIATE** `heat-expansions.md`: Heat: Rocky Roads and Heat: Legends
+- [ ] **AT OUR TABLE** `heat-garage-upgrades.md`: the Regular Upgrade Levi drafts first whenever he sees it, and the one new drivers overrate.
+- [ ] **AT OUR TABLE** `heat-solo-legends.md`: the Top Speed bonus Levi races Legends at, and roughly how often he beats them there.
+- [ ] **AFFILIATE** `heat-solo-legends.md`: Heat: Legends
+- [ ] **VERIFY** `heat-solo-legends.md`: whether the Heat: Legends expansion replaces or adds to the base Legends deck, and its player count (its page lists 1 to 5).
+- [ ] **VERIFY** `heat-endgame-strategy.md`: the Hall of Fame points for 6th place and below (the Advanced booklet's illustration shows 9, 6, 4, 3, 2 and hides the rest).
+- [ ] **AT OUR TABLE** `heat-track-planning.md`: one base-game track Levi would walk a new player through with these labels, and the corner on it he calls the race's turning point.
+- [ ] **AT OUR TABLE** `heat-weather-road-conditions.md`: the Weather and Road Conditions combination Levi has found hardest to drive, and how he changed his plan for it.
+- [ ] **AT OUR TABLE** `heat-reading-rivals.md`: one tell Levi watches for in other drivers, such as how they hold or count their cards before a corner.
+- [ ] **VERIFY** `heat-tournaments.md`: whether Heat is on the WBC 2027 event list, its format, and the 2027 venue.
+- [ ] **VERIFY** `heat-tournaments.md`: whether the World Series of Board Gaming has a Heat ring event on its 2027 schedule.
+- [ ] **VERIFY** `heat-tournaments.md`: UK Games Expo listed a Heat tournament run by the Mind Sports Olympiad for May 2026; the listing could not be opened. Confirm and add a line if it returns.
+- [ ] **VERIFY** `heat-tournaments.md`: whether Days of Wonder or Asmodee has announced an official Heat championship or organized-play program.
+- [ ] **VERIFY** `heat-tournaments.md`: no Days of Wonder store locator or organized-play finder was found; add a link here if one appears.
+- [ ] **AT OUR TABLE** `heat-tournament-mode-strategy.md`: one situation where Tournament Mode changed the gear Levi would have chosen under the standard rules.
+- [ ] **VERIFY** `heat-tournament-practice.md`: the format of the specific event Levi points readers to (WBC 2027 or another), and update the five-item example above if it changes.
+- [ ] **AT OUR TABLE** `heat-tournament-practice.md`: where Levi finds full-table Heat practice near Indianapolis, or how he gathers six drivers for a practice night.
 
 ## 7 Wonders and 7 Wonders Duel (Pick, Pass, and Duel)
 
@@ -288,79 +362,42 @@ Totals: 370 AT OUR TABLE, 323 VERIFY, 253 AFFILIATE.
 - [ ] **AT OUR TABLE** `7-wonders-tournament-practice.md`: one line on the review question that has taught Levi the most, or how his group talks through a game after it ends.
 - [ ] **AFFILIATE** `7-wonders-tournament-practice.md`: 7 Wonders (second edition) and 7 Wonders Duel
 
-## Cascadia (Wild Corridors)
+## Everdell (Four Seasons, Fifteen Spaces)
 
-- [ ] **AT OUR TABLE** `how-to-score-cascadia.md`: who keeps score at Levi's table, and whether he reads the rows aloud or lets each player fill in their own column.
-- [ ] **AT OUR TABLE** `cascadia-beginner-mistakes.md`: one line on the most common first-game mistake Levi sees new Cascadia players make, and how he coaches it.
-- [ ] **AT OUR TABLE** `cascadia-a-cards-strategy.md`: which A card new players at Levi's table most often fall in love with, and which one they most often break by accident.
-- [ ] **AFFILIATE** `cascadia-expansions.md`: Cascadia base game
-- [ ] **AFFILIATE** `cascadia-expansions.md`: Cascadia: Landmarks
-- [ ] **AFFILIATE** `cascadia-expansions.md`: Cascadia: Rolling Hills and Cascadia: Rolling Rivers
-- [ ] **AFFILIATE** `cascadia-expansions.md`: Cascadia Junior
-- [ ] **VERIFY** `cascadia-expansions.md`: Cascadia Junior's player count, play time, and age range; AEG's page does not list them.
-- [ ] **VERIFY** `cascadia-strategy-openings.md`: Dire Wolf's salmon spotlight says Salmon D needs runs of at least three; the rulebook text gives no minimum. Check a physical Salmon D card.
-- [ ] **AT OUR TABLE** `cascadia-tile-placement.md`: a short note on how Levi's own environments tend to look by turn ten, compact or sprawling, and which works better for him.
-- [ ] **AT OUR TABLE** `cascadia-nature-tokens.md`: whether Levi's group tends to hoard nature tokens or spend them freely, and which habit wins more often there.
-- [ ] **VERIFY** `cascadia-hardest-scoring-cards.md`: on a physical Salmon C card, that the top row reads 5+ (a run of six scores the same as five), as the rulebook's small card image suggests.
-- [ ] **AT OUR TABLE** `cascadia-hardest-scoring-cards.md`: which card Levi's group finds hardest, and whether they ever house-rule it out of the draw.
-- [ ] **AT OUR TABLE** `two-player-cascadia-strategy.md`: how two-player Cascadia feels at Levi's table, and whether couples or friends there play it more competitively than four-player games.
-- [ ] **AFFILIATE** `cascadia-solo-strategy.md`: Cascadia Digital
-- [ ] **AT OUR TABLE** `cascadia-solo-strategy.md`: Levi's best solo score or the scenario that took him the most tries.
-- [ ] **VERIFY** `cascadia-tournaments.md`: check the WBC 2027 event list for the Cascadia event's dates, format, and Century status before the next convention.
-- [ ] **VERIFY** `cascadia-tournaments.md`: check whether AEG or Flatout Games has announced an official Cascadia championship or online qualifier, and add it here if so.
-- [ ] **AFFILIATE** `cascadia-tournaments.md`: Cascadia Digital
-- [ ] **VERIFY** `cascadia-tournament-strategy.md`: recheck the WBC Cascadia preview for the next convention (format, round length, Hawk C rule, tiebreaks, and advancement) before relying on these details.
-- [ ] **AFFILIATE** `cascadia-tournament-strategy.md`: Cascadia Digital
-- [ ] **AT OUR TABLE** `cascadia-tournament-strategy.md`: one habit Levi would add to the plan, or how his group might run a mock heat.
-
-## Heat: Pedal to the Metal (Hot Laps)
-
-- [ ] **AT OUR TABLE** `heat-corners-speed-limits.md`: the corner on Levi's favorite base track where new drivers most often pay a double bill, and what he tells them as they approach it.
-- [ ] **AT OUR TABLE** `heat-beginner-mistakes.md`: one line on the most common first-race mistake Levi sees new Heat drivers make, and how he coaches it.
-- [ ] **AT OUR TABLE** `heat-hand-management.md`: how many Heat cards in hand Levi treats as his signal to plan a cooldown, and how he spots it in other drivers.
-- [ ] **AFFILIATE** `heat-expansions.md`: Heat: Pedal to the Metal
-- [ ] **AFFILIATE** `heat-expansions.md`: Heat: Heavy Rain
-- [ ] **AFFILIATE** `heat-expansions.md`: Heat: Tunnel Vision
-- [ ] **AFFILIATE** `heat-expansions.md`: Heat: Rocky Roads and Heat: Legends
-- [ ] **AT OUR TABLE** `heat-garage-upgrades.md`: the Regular Upgrade Levi drafts first whenever he sees it, and the one new drivers overrate.
-- [ ] **AT OUR TABLE** `heat-solo-legends.md`: the Top Speed bonus Levi races Legends at, and roughly how often he beats them there.
-- [ ] **AFFILIATE** `heat-solo-legends.md`: Heat: Legends
-- [ ] **VERIFY** `heat-solo-legends.md`: whether the Heat: Legends expansion replaces or adds to the base Legends deck, and its player count (its page lists 1 to 5).
-- [ ] **VERIFY** `heat-endgame-strategy.md`: the Hall of Fame points for 6th place and below (the Advanced booklet's illustration shows 9, 6, 4, 3, 2 and hides the rest).
-- [ ] **AT OUR TABLE** `heat-track-planning.md`: one base-game track Levi would walk a new player through with these labels, and the corner on it he calls the race's turning point.
-- [ ] **AT OUR TABLE** `heat-weather-road-conditions.md`: the Weather and Road Conditions combination Levi has found hardest to drive, and how he changed his plan for it.
-- [ ] **AT OUR TABLE** `heat-reading-rivals.md`: one tell Levi watches for in other drivers, such as how they hold or count their cards before a corner.
-- [ ] **VERIFY** `heat-tournaments.md`: whether Heat is on the WBC 2027 event list, its format, and the 2027 venue.
-- [ ] **VERIFY** `heat-tournaments.md`: whether the World Series of Board Gaming has a Heat ring event on its 2027 schedule.
-- [ ] **VERIFY** `heat-tournaments.md`: UK Games Expo listed a Heat tournament run by the Mind Sports Olympiad for May 2026; the listing could not be opened. Confirm and add a line if it returns.
-- [ ] **VERIFY** `heat-tournaments.md`: whether Days of Wonder or Asmodee has announced an official Heat championship or organized-play program.
-- [ ] **VERIFY** `heat-tournaments.md`: no Days of Wonder store locator or organized-play finder was found; add a link here if one appears.
-- [ ] **AT OUR TABLE** `heat-tournament-mode-strategy.md`: one situation where Tournament Mode changed the gear Levi would have chosen under the standard rules.
-- [ ] **VERIFY** `heat-tournament-practice.md`: the format of the specific event Levi points readers to (WBC 2027 or another), and update the five-item example above if it changes.
-- [ ] **AT OUR TABLE** `heat-tournament-practice.md`: where Levi finds full-table Heat practice near Indianapolis, or how he gathers six drivers for a practice night.
-
-## Sky Team (Cleared to Land)
-
-- [ ] **AFFILIATE** `how-to-play-sky-team.md`: Sky Team
-- [ ] **AT OUR TABLE** `how-to-teach-sky-team.md`: one line on how Levi debriefs a crashed first flight so neither pilot feels blamed.
-- [ ] **VERIFY** `sky-team-beginner-mistakes.md`: where the red Brake marker sits after the first and third brakes (the booklet's example puts it between the 4 and the 5 after the second).
-- [ ] **AT OUR TABLE** `sky-team-beginner-mistakes.md`: one line on the crash Levi sees most often in a new crew's first three flights, and the briefing question that fixes it.
-- [ ] **VERIFY** `sky-team-approach-speed-flaps-landing-gear.md`: whether advancing 2 spaces past a plane in the next space (not the Current Position) is a collision under the Landing Procedure, or only the Current Position counts.
-- [ ] **AT OUR TABLE** `sky-team-dice-budget-planning.md`: one line on what Levi and his co-pilot actually write on their scrap of paper before round 1.
-- [ ] **VERIFY** `sky-team-scenarios-modules-expansion.md`: what the Print and Play file contains, and what the Haneda (HND) rebalancing changes, before describing either in more detail.
-- [ ] **AFFILIATE** `sky-team-scenarios-modules-expansion.md`: Sky Team: Turbulence
-- [ ] **VERIFY** `sky-team-scenarios-modules-expansion.md`: the expansion's English retail name; the publisher's page uses both "Alarms and Turbulences" and "Turbulence", and retailers list "Sky Team: Turbulence".
-- [ ] **AFFILIATE** `sky-team-scenarios-modules-expansion.md`: Sky Team
-- [ ] **VERIFY** `sky-team-kerosene-intern-traffic-strategy.md`: how many Intern tokens and spaces the Intern board has, so the lesson can say how many trainings a flight needs.
-- [ ] **AFFILIATE** `sky-team-kerosene-intern-traffic-strategy.md`: Sky Team
-- [ ] **AT OUR TABLE** `sky-team-reading-your-partner.md`: one line on a placement Levi's co-pilot made that said more than words would have, and how the round turned on it.
-- [ ] **VERIFY** `sky-team-wind-ice-brakes-heroic-landings.md`: the full set of values on the Wind ring, including whether it has negative values that slow the plane, before saying which way to steer it.
-- [ ] **VERIFY** `sky-team-wind-ice-brakes-heroic-landings.md`: whether each Ice Brakes space is limited to one player's color, and how many steps the track has.
-- [ ] **AT OUR TABLE** `sky-team-wind-ice-brakes-heroic-landings.md`: one line on which Special Ability Levi reaches for first on a hard scenario, and why.
-- [ ] **AFFILIATE** `sky-team-wind-ice-brakes-heroic-landings.md`: Sky Team: Turbulence
-- [ ] **VERIFY** `play-sky-team-online-and-more.md`: Board Game Arena lists Sky Team as a Premium game; check whether one player at the table needs a paid account, and whether the Turbulence scenarios are available there.
-- [ ] **VERIFY** `play-sky-team-online-and-more.md`: whether Le Scorpion Masqué, a convention, or Board Game Arena runs Sky Team challenge events or arena seasons worth listing here. No Sky Team event was found in the World Boardgaming Championships previews for 2024 to 2026.
-- [ ] **VERIFY** `play-sky-team-online-and-more.md`: whether Le Scorpion Masqué or its US distributor has a store locator to link here.
+- [ ] **VERIFY** `how-to-play-everdell.md`: the rules PDF linked from the 3rd edition product page is marked as the 2nd edition (© 2018 to 2021). Confirm the printed 3rd edition rulebook has no rule changes that affect this lesson.
+- [ ] **VERIFY** `how-to-play-everdell.md`: the rulebook and board call the autumn trail the "Journey". This course calls it the autumn trail because the house style check bans that word. Decide whether to allow the game term and rename it across the course.
+- [ ] **AT OUR TABLE** `how-to-teach-everdell.md`: one line on how Levi handles the first player who tries to prepare for season with a worker still at home.
+- [ ] **VERIFY** `how-to-read-an-everdell-card.md`: check a physical card for where the "cards in deck" count sits and how it is drawn, and update this section if the 3rd edition layout differs from the rulebook's diagram.
+- [ ] **AT OUR TABLE** `how-to-read-an-everdell-card.md`: one line on the card new players at Levi's table most often misread, and which part of the card they skipped.
+- [ ] **AT OUR TABLE** `everdell-beginner-mistakes.md`: one line on the most common first-game mistake Levi sees new Everdell players make, and how he coaches it.
+- [ ] **VERIFY** `everdell-worker-placement.md`: confirm which basic locations are exclusive and which are shared against the board's paw symbols; the table follows a published review's reading of the board, not the rulebook text.
+- [ ] **AT OUR TABLE** `everdell-worker-placement.md`: one line on the placement Levi sees new players skip most often, and why it is better than it looks.
+- [ ] **AT OUR TABLE** `everdell-events.md`: one line on a special Event pairing Levi's table chases often, and what makes it reachable.
+- [ ] **AT OUR TABLE** `everdell-midgame-strategy.md`: one line on a summer engine Levi has seen win, and the card that started it.
+- [ ] **VERIFY** `everdell-card-combos.md`: confirm each named Construction and Critter pair against the printed cards before publishing. Only Courthouse and Judge, and the Ever Tree's any-Critter link, are confirmed in the rulebook text. Also confirm that Farm and Mine are Common Constructions.
+- [ ] **AT OUR TABLE** `everdell-card-combos.md`: one line on the base-game combo that wins most often at Levi's table, and the card that usually starts it.
+- [ ] **AT OUR TABLE** `everdell-scoring.md`: one line on the biggest final-scoring swing Levi has seen, and what caused it.
+- [ ] **AFFILIATE** `everdell-expansions.md`: Everdell Standard Edition (3rd edition)
+- [ ] **AFFILIATE** `everdell-expansions.md`: Everdell Pearlbrook
+- [ ] **AFFILIATE** `everdell-expansions.md`: Everdell Spirecrest
+- [ ] **AFFILIATE** `everdell-expansions.md`: Everdell Bellfaire
+- [ ] **AFFILIATE** `everdell-expansions.md`: Everdell Newleaf
+- [ ] **AFFILIATE** `everdell-expansions.md`: Everdell Mistwood
+- [ ] **AFFILIATE** `everdell-expansions.md`: Everdell Complete Collection
+- [ ] **AFFILIATE** `everdell-expansions.md`: Everdell Duo; Everdell Farshore; Everdell Silverfrost; Everdell Emerland; Welcome to Everdell
+- [ ] **AT OUR TABLE** `everdell-strategy-paths.md`: one line on which path Levi sees new players drift into by default, and which one tends to beat it.
+- [ ] **AT OUR TABLE** `everdell-card-evaluation.md`: one line on a card Levi's group used to overrate or underrate, and what changed their minds.
+- [ ] **AT OUR TABLE** `everdell-season-timing.md`: one line on the timing mistake Levi sees most from players who already know the rules well.
+- [ ] **AFFILIATE** `two-player-everdell-strategy.md`: Everdell Duo
+- [ ] **AT OUR TABLE** `two-player-everdell-strategy.md`: one line on how two-player games at Levi's table differ from four-player ones, and which habit had to change.
+- [ ] **VERIFY** `everdell-tournaments.md`: check tycoongames.com and Starling Games announcements for any official Everdell tournament or organized play program before publishing.
+- [ ] **VERIFY** `everdell-tournaments.md`: check the WBC 2027 event list for the Everdell event's dates, format, and game master before the next convention.
+- [ ] **VERIFY** `everdell-tournaments.md`: Steam and the Dire Wolf page list it as of 2026-10-24; confirm the app store and eShop listings are live and that online matchmaking is still active.
+- [ ] **VERIFY** `four-player-everdell-strategy.md`: the WBC preview says setup follows the rules except for choosing the start player but does not say how the start player is chosen; check with the GM or the event's posted rules before the next WBC.
+- [ ] **VERIFY** `four-player-everdell-strategy.md`: the WBC preview lists "leftover cards in hand" as a tiebreaker without saying more or fewer wins; confirm with the GM that more cards wins.
+- [ ] **AT OUR TABLE** `four-player-everdell-strategy.md`: one line on how Levi's four-player games changed once the group started tracking each other's Event colors.
+- [ ] **AFFILIATE** `everdell-tournament-practice.md`: Everdell digital edition
+- [ ] **AT OUR TABLE** `everdell-tournament-practice.md`: one line on how Levi's group runs a timed practice game, and what changed after the first one.
 
 ## Terraforming Mars (From Red to Green)
 
@@ -403,42 +440,39 @@ Totals: 370 AT OUR TABLE, 323 VERIFY, 253 AFFILIATE.
 - [ ] **VERIFY** `terraforming-mars-tournament-practice.md`: confirm Board Game Arena's Terraforming Mars options (draft, Prelude, Colonies, Corporate Era, maps).
 - [ ] **AT OUR TABLE** `terraforming-mars-tournament-practice.md`: one line on the practice habit Levi would recommend to someone heading to their first Terraforming Mars event.
 
-## Everdell (Four Seasons, Fifteen Spaces)
+## Dinosaur Island (Room to Roar)
 
-- [ ] **VERIFY** `how-to-play-everdell.md`: the rules PDF linked from the 3rd edition product page is marked as the 2nd edition (© 2018 to 2021). Confirm the printed 3rd edition rulebook has no rule changes that affect this lesson.
-- [ ] **VERIFY** `how-to-play-everdell.md`: the rulebook and board call the autumn trail the "Journey". This course calls it the autumn trail because the house style check bans that word. Decide whether to allow the game term and rename it across the course.
-- [ ] **AT OUR TABLE** `how-to-teach-everdell.md`: one line on how Levi handles the first player who tries to prepare for season with a worker still at home.
-- [ ] **VERIFY** `how-to-read-an-everdell-card.md`: check a physical card for where the "cards in deck" count sits and how it is drawn, and update this section if the 3rd edition layout differs from the rulebook's diagram.
-- [ ] **AT OUR TABLE** `how-to-read-an-everdell-card.md`: one line on the card new players at Levi's table most often misread, and which part of the card they skipped.
-- [ ] **AT OUR TABLE** `everdell-beginner-mistakes.md`: one line on the most common first-game mistake Levi sees new Everdell players make, and how he coaches it.
-- [ ] **VERIFY** `everdell-worker-placement.md`: confirm which basic locations are exclusive and which are shared against the board's paw symbols; the table follows a published review's reading of the board, not the rulebook text.
-- [ ] **AT OUR TABLE** `everdell-worker-placement.md`: one line on the placement Levi sees new players skip most often, and why it is better than it looks.
-- [ ] **AT OUR TABLE** `everdell-events.md`: one line on a special Event pairing Levi's table chases often, and what makes it reachable.
-- [ ] **AT OUR TABLE** `everdell-midgame-strategy.md`: one line on a summer engine Levi has seen win, and the card that started it.
-- [ ] **VERIFY** `everdell-card-combos.md`: confirm each named Construction and Critter pair against the printed cards before publishing. Only Courthouse and Judge, and the Ever Tree's any-Critter link, are confirmed in the rulebook text. Also confirm that Farm and Mine are Common Constructions.
-- [ ] **AT OUR TABLE** `everdell-card-combos.md`: one line on the base-game combo that wins most often at Levi's table, and the card that usually starts it.
-- [ ] **AT OUR TABLE** `everdell-scoring.md`: one line on the biggest final-scoring swing Levi has seen, and what caused it.
-- [ ] **AFFILIATE** `everdell-expansions.md`: Everdell Standard Edition (3rd edition)
-- [ ] **AFFILIATE** `everdell-expansions.md`: Everdell Pearlbrook
-- [ ] **AFFILIATE** `everdell-expansions.md`: Everdell Spirecrest
-- [ ] **AFFILIATE** `everdell-expansions.md`: Everdell Bellfaire
-- [ ] **AFFILIATE** `everdell-expansions.md`: Everdell Newleaf
-- [ ] **AFFILIATE** `everdell-expansions.md`: Everdell Mistwood
-- [ ] **AFFILIATE** `everdell-expansions.md`: Everdell Complete Collection
-- [ ] **AFFILIATE** `everdell-expansions.md`: Everdell Duo; Everdell Farshore; Everdell Silverfrost; Everdell Emerland; Welcome to Everdell
-- [ ] **AT OUR TABLE** `everdell-strategy-paths.md`: one line on which path Levi sees new players drift into by default, and which one tends to beat it.
-- [ ] **AT OUR TABLE** `everdell-card-evaluation.md`: one line on a card Levi's group used to overrate or underrate, and what changed their minds.
-- [ ] **AT OUR TABLE** `everdell-season-timing.md`: one line on the timing mistake Levi sees most from players who already know the rules well.
-- [ ] **AFFILIATE** `two-player-everdell-strategy.md`: Everdell Duo
-- [ ] **AT OUR TABLE** `two-player-everdell-strategy.md`: one line on how two-player games at Levi's table differ from four-player ones, and which habit had to change.
-- [ ] **VERIFY** `everdell-tournaments.md`: check tycoongames.com and Starling Games announcements for any official Everdell tournament or organized play program before publishing.
-- [ ] **VERIFY** `everdell-tournaments.md`: check the WBC 2027 event list for the Everdell event's dates, format, and game master before the next convention.
-- [ ] **VERIFY** `everdell-tournaments.md`: Steam and the Dire Wolf page list it as of 2026-10-24; confirm the app store and eShop listings are live and that online matchmaking is still active.
-- [ ] **VERIFY** `four-player-everdell-strategy.md`: the WBC preview says setup follows the rules except for choosing the start player but does not say how the start player is chosen; check with the GM or the event's posted rules before the next WBC.
-- [ ] **VERIFY** `four-player-everdell-strategy.md`: the WBC preview lists "leftover cards in hand" as a tiebreaker without saying more or fewer wins; confirm with the GM that more cards wins.
-- [ ] **AT OUR TABLE** `four-player-everdell-strategy.md`: one line on how Levi's four-player games changed once the group started tracking each other's Event colors.
-- [ ] **AFFILIATE** `everdell-tournament-practice.md`: Everdell digital edition
-- [ ] **AT OUR TABLE** `everdell-tournament-practice.md`: one line on how Levi's group runs a timed practice game, and what changed after the first one.
+- [ ] **AT OUR TABLE** `dinosaur-island-beginner-mistakes.md`: one line on the most common first-game mistake Levi sees new Dinosaur Island players make, and how he coaches it.
+- [ ] **VERIFY** `dinosaur-island-opening-strategy.md`: whether most herbivore recipes need only basic DNA; check the recipe tiles before stating this more firmly.
+- [ ] **AT OUR TABLE** `dinosaur-island-opening-strategy.md`: one line on the round-one plan Levi uses most often, and which first recipe he likes.
+- [ ] **VERIFY** `dinosaur-island-dna-research.md`: the conversions and slots printed on the DNA Refinement II tile, before adding refinement math to this lesson. DNA Refinement I (one worker slot, three conversions) was read from the lab board in the Rulebook 2.0 setup picture.
+- [ ] **AT OUR TABLE** `dinosaur-island-dna-research.md`: one line on a research phase decision Levi's group argues about, such as when to spend the level 3 scientist on storage.
+- [ ] **VERIFY** `dinosaur-island-market-specialists.md`: the exact abilities printed on Dino Research II and DNA Refinement II tiles, before describing what each adds.
+- [ ] **AT OUR TABLE** `dinosaur-island-market-specialists.md`: one line on the specialist Levi's group fights over most, and why.
+- [ ] **AT OUR TABLE** `dinosaur-island-midgame-strategy.md`: one line on how many workers Levi usually has by the midgame in a game he wins.
+- [ ] **VERIFY** `dinosaur-island-dinosaur-recipes.md`: compare the excitement and VP values on herbivore and carnivore recipe tiles before stating how much more carnivores give.
+- [ ] **AT OUR TABLE** `dinosaur-island-dinosaur-recipes.md`: one line on Levi's favorite recipe to build around and why.
+- [ ] **AT OUR TABLE** `dinosaur-island-attractions-visitors.md`: one line on the attraction Levi's group always wants, and whether it is worth the rush.
+- [ ] **AT OUR TABLE** `dinosaur-island-endgame-scoring.md`: one line on a typical winning score at Levi's table for a medium-length game, as a benchmark for readers.
+- [ ] **VERIFY** `dinosaur-island-objectives-timing.md`: the Rulebook 2.0 says a player who fulfills an objective "claims" it by placing a corporation token, and does not say whether a player may decline or delay a claim. This lesson treats claiming as automatic and puts the choice in when you meet the objective; if Pandasaurus rules that claims are optional, add a line saying so.
+- [ ] **AT OUR TABLE** `dinosaur-island-objectives-timing.md`: one line on whether Levi's group prefers short, medium, or long objectives, and why.
+- [ ] **AT OUR TABLE** `dinosaur-island-reading-opponents.md`: one line on the most effective denial move Levi has seen at his table, research or market.
+- [ ] **VERIFY** `dinosaur-island-visitor-odds.md`: the threat pip faces on each DNA die, to add the odds that the leftover dice include a 3 pip face.
+- [ ] **AT OUR TABLE** `dinosaur-island-visitor-odds.md`: one line on the worst bag luck Levi has seen and whether better planning would have saved it.
+- [ ] **AT OUR TABLE** `dinosaur-island-player-counts-variants.md`: one line on Levi's favorite player count for Dinosaur Island, and why.
+- [ ] **VERIFY** `dinosaur-island-player-counts-variants.md`: under Chaos Threat Theory, whether a reroll is made when no die was set aside; the rule text assumes a die is in the holding area.
+- [ ] **VERIFY** `dinosaur-island-solo-mode.md`: whether a solo objective that was true when completed must still be true in the Cleanup Phase you score it, for objectives like "Make sure no patrons are eaten this round."
+- [ ] **AT OUR TABLE** `dinosaur-island-solo-mode.md`: one line on Levi's best solo score and the seven objectives he picked that game.
+- [ ] **AFFILIATE** `dinosaur-island-expansions.md`: Dinosaur Island
+- [ ] **AFFILIATE** `dinosaur-island-expansions.md`: Dinosaur Island: Totally Liquid
+- [ ] **VERIFY** `dinosaur-island-expansions.md`: no current Pandasaurus product page for Totally Liquid was found on 2026-10-25; link one if it exists. Also read the Totally Liquid rulebook and confirm each module's rules, the five player setup, and how the extra dice are used before this lesson says more.
+- [ ] **AT OUR TABLE** `dinosaur-island-expansions.md`: one line on which Totally Liquid module Levi's group keeps in, and which one stays in the box.
+- [ ] **AFFILIATE** `dinosaur-island-expansions.md`: Duelosaur Island
+- [ ] **AFFILIATE** `dinosaur-island-expansions.md`: Dinosaur Island: Rawr 'n Write
+- [ ] **AFFILIATE** `dinosaur-island-expansions.md`: Dinosaur World
+- [ ] **VERIFY** `dinosaur-island-expansions.md`: current Pandasaurus product pages for Duelosaur Island, Rawr 'n Write, and Dinosaur World; none were found on the publisher's store on 2026-10-25. Confirm Rawr 'n Write's player count before adding it.
+- [ ] **VERIFY** `dinosaur-island-practice-plan.md`: recheck for any official Dinosaur Island tournament, convention event, or Pandasaurus organized play before publishing; none was found on 2026-10-25.
+- [ ] **AT OUR TABLE** `dinosaur-island-practice-plan.md`: one line on the habit that improved Levi's Dinosaur Island scores the most.
 
 ## Dune: Imperium and Dune: Imperium Uprising (Agents and Alliances)
 
@@ -478,40 +512,6 @@ Totals: 370 AT OUR TABLE, 323 VERIFY, 253 AFFILIATE.
 - [ ] **VERIFY** `dune-imperium-tournament-practice.md`: which expansions Dune: Imperium Digital currently includes, so readers know whether it matches their event's box list.
 - [ ] **AT OUR TABLE** `dune-imperium-tournament-practice.md`: one line on how Levi would fit this plan around a regular weekly game night.
 
-## The Castles of Burgundy (Two Dice, One Duchy)
-
-- [ ] **AT OUR TABLE** `castles-of-burgundy-first-round-walkthrough.md`: one line on how Levi narrates the first round out loud for a new table, and which turn usually makes the game click for them.
-- [ ] **VERIFY** `castles-of-burgundy-beginner-mistakes.md`: which edition and duchy setup the current BGA ranked Arena season uses.
-- [ ] **AT OUR TABLE** `castles-of-burgundy-beginner-mistakes.md`: one line on the mistake Levi sees most often from new Castles of Burgundy players, and how he coaches it.
-- [ ] **AT OUR TABLE** `castles-of-burgundy-buildings-guide.md`: one line on the building chain Levi finds new players enjoy most once they see it, such as town hall into castle.
-- [ ] **AT OUR TABLE** `castles-of-burgundy-monastery-tiles.md`: one line on the monastery Levi's group fights over most, and why.
-- [ ] **VERIFY** `castles-of-burgundy-livestock-and-goods.md`: duchy 1 region sizes (pastures of 5 and 1, rivers of 3 and 3, six blue spaces) were read from the duchy pictured on page 3 of the 2020 English rulebook; confirm against a physical duchy 1 board.
-- [ ] **AFFILIATE** `castles-of-burgundy-expansions.md`: The Castles of Burgundy (Ravensburger item 26925)
-- [ ] **VERIFY** `castles-of-burgundy-expansions.md`: the ravensburger.us product link blocked automated checks; open it in a browser and confirm it loads. Item 26925 is confirmed on ravensburger.de (1 to 4 players, ages 12 and up, 90 to 120 minutes).
-- [ ] **AFFILIATE** `castles-of-burgundy-expansions.md`: The Castles of Burgundy: Special Edition
-- [ ] **VERIFY** `castles-of-burgundy-expansions.md`: the Special Edition year; its crowdfunding campaign and its retail release may fall in different years.
-- [ ] **VERIFY** `castles-of-burgundy-expansions.md`: find the publisher's own product page for the Special Edition (Ravensburger or Awaken Realms) and add a plain link, and confirm what that box includes.
-- [ ] **AFFILIATE** `castles-of-burgundy-expansions.md`: The Castles of Burgundy: The Card Game; The Castles of Burgundy: The Dice Game
-- [ ] **VERIFY** `castles-of-burgundy-expansions.md`: confirm the card game and dice game are still in print in English, and link each to the publisher's product page if one exists.
-- [ ] **AT OUR TABLE** `castles-of-burgundy-random-duchies.md`: one line on which duchy or castle choice Levi's group argues about most when playing random duchies.
-- [ ] **VERIFY** `castles-of-burgundy-tile-tracking.md`: count the colors of the inner 12 depot spaces (2 players) and the "3" spaces (3 players) on the back of the board, and how many black depot spaces a three-player game uses, then add per-phase mixes for those counts.
-- [ ] **VERIFY** `castles-of-burgundy-bonus-tile-races.md`: duchy 1 color counts and region sizes were read from the duchy pictured on page 3 of the 2020 English rulebook (it matches the rulebook's own description of duchy 1's towns); confirm against a physical duchy 1 board.
-- [ ] **AT OUR TABLE** `castles-of-burgundy-bonus-tile-races.md`: one line on a color race that Levi has seen swing a close game, kept general.
-- [ ] **AT OUR TABLE** `two-player-castles-of-burgundy-strategy.md`: one line on how two-player games feel different from four-player ones in Levi's group.
-- [ ] **AT OUR TABLE** `castles-of-burgundy-reading-the-table.md`: one line on the tell Levi watches for most when reading a rival's board.
-- [ ] **VERIFY** `castles-of-burgundy-playing-on-a-clock.md`: check the time options Board Game Arena offers for Castles of Burgundy tables (real-time speeds and turn-based) before naming specific settings.
-- [ ] **AT OUR TABLE** `castles-of-burgundy-playing-on-a-clock.md`: one line on how long a typical four-player game runs at Levi's table, for comparison with the tournament budget.
-- [ ] **VERIFY** `castles-of-burgundy-playing-to-win.md`: check the WBC 2027 preview for any change to the heat format or advancement numbers before the next convention.
-- [ ] **VERIFY** `castles-of-burgundy-tournaments.md`: check the WBC 2027 event list for the Castles of Burgundy event's dates, boards, and format before the next convention.
-- [ ] **VERIFY** `castles-of-burgundy-tournaments.md`: check the 2027 WSBG ring games list to confirm The Castles of Burgundy is still one of the 16 ring games.
-- [ ] **VERIFY** `castles-of-burgundy-tournaments.md`: confirm Ravensburger or alea does not run an official Castles of Burgundy championship or store event program, and add it here if one exists.
-- [ ] **VERIFY** `castles-of-burgundy-tournaments.md`: check the current BGA Arena season settings (edition, duchy setup) and whether seasons crown a champion before describing them.
-- [ ] **VERIFY** `castles-of-burgundy-online-study.md`: check the current BGA rating system and Arena season rules for Castles of Burgundy before naming levels, seasons, or rating numbers.
-- [ ] **VERIFY** `castles-of-burgundy-online-study.md`: confirm how replay controls currently work on BGA (stepping forward and back) and where finished games of other players are listed.
-- [ ] **AT OUR TABLE** `castles-of-burgundy-online-study.md`: one line on the kind of mistake Levi's own loss reviews turn up most, kept general.
-- [ ] **VERIFY** `castles-of-burgundy-tournament-practice-plan.md`: before publishing dates, check the WBC 2027 event list and the WSBG 2027 ring games for The Castles of Burgundy.
-- [ ] **AT OUR TABLE** `castles-of-burgundy-tournament-practice-plan.md`: one line on how Levi's group could run a practice night with four-player tables and a clock, kept as a suggestion rather than an event.
-
 ## Ark Nova (Where the Tracks Cross)
 
 - [ ] **AT OUR TABLE** `how-to-play-ark-nova.md`: one line on how long Levi's real Ark Nova teach takes and the one rule new players most often forget.
@@ -547,6 +547,44 @@ Totals: 370 AT OUR TABLE, 323 VERIFY, 253 AFFILIATE.
 - [ ] **VERIFY** `ark-nova-tournament-practice-plan.md`: check the WBC 2027 event preview for its heat format, map pool, and any change to seat bidding before using this plan for that event.
 - [ ] **AT OUR TABLE** `ark-nova-tournament-practice-plan.md`: one line on the part of this plan Levi would keep if he only had one hour a week.
 
+## Root (Four Factions, One Forest)
+
+- [ ] **AT OUR TABLE** `how-to-teach-root.md`: one line on how Levi splits the teach between shared rules and faction boards, and how long the first round takes.
+- [ ] **AT OUR TABLE** `root-rules-mistakes.md`: one line on the rules slip Levi sees most often at a first Root game, and how he catches it.
+- [ ] **AT OUR TABLE** `root-eyrie-dynasties-strategy.md`: one line on the Decree mistake Levi sees most often from first-time Eyrie players, and how he coaches it.
+- [ ] **VERIFY** `root-battle-odds.md`: confirm on a physical die that each battle die shows 0, 1, 2, and 3 on three faces each (the Law calls them battle dice but does not list faces).
+- [ ] **AT OUR TABLE** `root-crafting-cards.md`: one line on the crafted card Levi's group fights over most, and why.
+- [ ] **AT OUR TABLE** `root-table-talk-kingmaking.md`: one line on a table-talk norm Levi's group uses for Root deals, and why it works.
+- [ ] **AFFILIATE** `root-player-counts.md`: Root: The Clockwork Expansion 2
+- [ ] **AT OUR TABLE** `root-dominance-cards.md`: one line on a dominance win (or a stopped one) that taught Levi's group to watch for it.
+- [ ] **AT OUR TABLE** `root-card-tracking.md`: one line on how Levi tracks played ambushes at the table (a note, a habit, or a shared rule) without slowing the game.
+- [ ] **AT OUR TABLE** `root-endgame-race-to-30.md`: one line on the most surprising Root finish Levi has seen, and what the table missed in the turn before it.
+- [ ] **AFFILIATE** `root-expansion-factions.md`: Root: The Riverfolk Expansion
+- [ ] **AFFILIATE** `root-expansion-factions.md`: Root: The Underworld Expansion
+- [ ] **AFFILIATE** `root-expansion-factions.md`: Root: The Marauder Expansion
+- [ ] **AFFILIATE** `root-expansion-factions.md`: Root: The Homeland Expansion
+- [ ] **AFFILIATE** `root-expansion-factions.md`: Root: The Exiles and Partisans Deck; Root: The Squires and Disciples Deck
+- [ ] **AFFILIATE** `root-expansion-factions.md`: Root: The Vagabond Pack; Root: Landmarks Pack
+- [ ] **AFFILIATE** `root-expansion-factions.md`: Root: The Clockwork Expansion 2
+- [ ] **AT OUR TABLE** `root-advanced-setup-draft.md`: one line on which faction Levi's group drafts first most often under Advanced Setup, and whether that has held up.
+- [ ] **VERIFY** `root-maps-landmarks.md`: check the Homeland rules for any further Marsh or Gorge setup details before adding strategy notes for these maps.
+- [ ] **AFFILIATE** `root-maps-landmarks.md`: Root: Landmarks Pack
+- [ ] **VERIFY** `root-maps-landmarks.md`: read each landmark card in the Landmarks Pack before describing what the Black Market, Elder Treetop, Legendary Forge, and Lost City do.
+- [ ] **AT OUR TABLE** `root-maps-landmarks.md`: one line on which map Levi's group finds most surprising after the Autumn map, and why.
+- [ ] **AFFILIATE** `root-exiles-partisans-deck.md`: Root: The Exiles and Partisans Deck
+- [ ] **VERIFY** `root-exiles-partisans-deck.md`: confirm the full Exiles and Partisans card list and counts (which cards appear twice) against the Leder card library or a physical deck before naming any further cards.
+- [ ] **AT OUR TABLE** `root-exiles-partisans-deck.md`: one line on which Exiles and Partisans card most surprised Levi's group, and how it changed a game.
+- [ ] **AFFILIATE** `root-exiles-partisans-deck.md`: Root: The Squires and Disciples Deck
+- [ ] **VERIFY** `root-tournaments.md`: whether Root makes the WBC 2027 Trial ballot, its class, and its 2027 format, once the WBC 2027 event list is published.
+- [ ] **AFFILIATE** `root-tournaments.md`: Root digital edition (Dire Wolf)
+- [ ] **VERIFY** `root-tournaments.md`: find a current community-run Root league or tournament with an official link (for example through the Woodland Warriors Discord) before naming one.
+- [ ] **AT OUR TABLE** `root-tournaments.md`: one line on whether Levi has played Root at a convention or store event, and what surprised him about it.
+- [ ] **AFFILIATE** `root-online-practice.md`: Root digital edition (Dire Wolf)
+- [ ] **VERIFY** `root-online-practice.md`: check Dire Wolf's current Root page for any newer add-ons (for example Homeland factions) and whether digital supports Advanced Setup's faction draft, before saying either way.
+- [ ] **AFFILIATE** `root-online-practice.md`: Root: The Clockwork Expansion 2
+- [ ] **AT OUR TABLE** `root-online-practice.md`: one line on whether Levi plays Root digital, which faction he practices most there, and what it taught him.
+- [ ] **AT OUR TABLE** `root-tournament-practice-plan.md`: one line on how Levi would prepare a newcomer from his group for their first Root tournament.
+
 ## Brass: Birmingham (Canals, Coal, and Beer)
 
 - [ ] **AFFILIATE** `how-to-play-brass-birmingham.md`: Brass: Birmingham
@@ -577,6 +615,53 @@ Totals: 370 AT OUR TABLE, 323 VERIFY, 253 AFFILIATE.
 - [ ] **AFFILIATE** `brass-birmingham-where-to-play.md`: Brass: Birmingham
 - [ ] **AFFILIATE** `brass-birmingham-where-to-play.md`: Iron Clays
 - [ ] **AT OUR TABLE** `brass-birmingham-practice-plan.md`: one line on a practice habit Levi's own group uses, or would like to try, for heavy games like Brass.
+
+## Spirit Island (Ravage, Build, Explore)
+
+- [ ] **AFFILIATE** `how-to-play-spirit-island.md`: Spirit Island
+- [ ] **AT OUR TABLE** `how-to-play-spirit-island.md`: one line on how Levi walks a new table through its first Invader Phase.
+- [ ] **AT OUR TABLE** `how-to-teach-spirit-island.md`: one line on how Levi hands out Spirits to a new table, or the sentence he uses to explain Fast and Slow.
+- [ ] **AT OUR TABLE** `spirit-island-rules-mistakes.md`: one line on which of these rules Levi's table misplayed longest, and what finally made it stick.
+- [ ] **AT OUR TABLE** `spirit-island-fear-and-terror-levels.md`: one line on the Fear rule Levi's group got wrong most often when learning, and how they fixed it.
+- [ ] **VERIFY** `spirit-island-starter-spirits.md`: check Lightning's Swift Strike's panel: the Special Rule (Slow Powers used as Fast, one per Air?). The Innate Power and the low Energy track were checked against the publisher's product photo of the panel.
+- [ ] **VERIFY** `spirit-island-starter-spirits.md`: check River Surges in Sunlight's panel: the Special Rule (Presence in Wetlands counts as a Sacred Site?) and the Innate Power's Sun and Water thresholds and effects.
+- [ ] **VERIFY** `spirit-island-starter-spirits.md`: check Vital Strength of the Earth's panel: the Special Rule (Defend 3 in each land with its Sacred Site?) and the Innate Power (Repeat a Power Card by paying its cost again, with a cost limit set by Elements?).
+- [ ] **VERIFY** `spirit-island-starter-spirits.md`: check Shadows Flicker Like Flame's panel: the Special Rule (pay 1 Energy to target a land with Dahan regardless of Range?) and the Innate Power's Moon and Fire thresholds.
+- [ ] **AT OUR TABLE** `spirit-island-starter-spirits.md`: one line on which starter Spirit new players at Levi's table enjoy most, and why.
+- [ ] **AFFILIATE** `spirit-island-starter-spirits.md`: Horizons of Spirit Island
+- [ ] **AT OUR TABLE** `spirit-island-opening-turns.md`: one line on the opening habit Levi's table relies on, such as who clears which board on turn one.
+- [ ] **AT OUR TABLE** `spirit-island-dahan-strategy.md`: one line on a Dahan move Levi's table now makes by habit, such as Gathering them into the next Ravage land.
+- [ ] **AT OUR TABLE** `spirit-island-power-cards.md`: one line on a Power Card choice Levi's table argues about most, such as when to take the first Major.
+- [ ] **AT OUR TABLE** `spirit-island-elements-innate-powers.md`: one line on the Innate Power Levi's table most often forgets to use, and the habit that fixed it.
+- [ ] **VERIFY** `spirit-island-base-game-spirits.md`: check the complexity rating printed on each of these four panels (believed to be Moderate for Rampant Green and Thunderspeaker, High for Bringer and Ocean) before adding them to this lesson.
+- [ ] **VERIFY** `spirit-island-base-game-spirits.md`: check A Spread of Rampant Green's panel for the exact wording of Steady Regeneration and Choke the Land with Green.
+- [ ] **VERIFY** `spirit-island-base-game-spirits.md`: check Thunderspeaker's panel for the exact wording of Ally of the Dahan and Sworn to Victory (within 1 land?).
+- [ ] **VERIFY** `spirit-island-base-game-spirits.md`: check Bringer of Dreams and Nightmares's panel for the exact wording of To Dream a Thousand Deaths, including the Fear generated per Explorer, Town, and City.
+- [ ] **VERIFY** `spirit-island-base-game-spirits.md`: check Ocean's Hungry Grasp's panel for its setup instructions and the exact wording of Ocean in Play and Drowning.
+- [ ] **AT OUR TABLE** `spirit-island-base-game-spirits.md`: one line on which of these four Spirits Levi's table found most rewarding once the starters felt familiar.
+- [ ] **VERIFY** `spirit-island-blight-management.md`: read both core Blight Cards and add the name and Healthy and Blighted Blight counts for each, plus the second card's Blighted Island effect.
+- [ ] **AT OUR TABLE** `spirit-island-blight-management.md`: one line on the moment Levi's table first chose to let the Blight Card flip, and whether it paid off.
+- [ ] **VERIFY** `spirit-island-invader-deck-odds.md`: confirm on the physical cards that the Stage II Coastal card is the only Stage II card without the Escalation flag.
+- [ ] **AT OUR TABLE** `spirit-island-invader-deck-odds.md`: one line on how Levi's table keeps track of revealed Invader cards, such as a discard row laid out in order.
+- [ ] **AT OUR TABLE** `spirit-island-endgame.md`: one line on how Levi's table calls the all-in turn, such as a phrase someone says when the target turn arrives.
+- [ ] **VERIFY** `spirit-island-solo.md`: compare these solo notes with each starter's Play Style text on the back of its panel before publishing.
+- [ ] **AT OUR TABLE** `spirit-island-solo.md`: one line on Levi's favorite solo Spirit, or whether he plays one Spirit or two when alone.
+- [ ] **AFFILIATE** `spirit-island-solo.md`: Spirit Island digital edition (Handelabra)
+- [ ] **VERIFY** `spirit-island-adversaries-and-scenarios.md`: read the four core scenario panels (Blitz, Guard the Isle's Heart, Rituals of Terror, Dahan Insurrection) and add one line each on what they change.
+- [ ] **AFFILIATE** `spirit-island-adversaries-and-scenarios.md`: Spirit Island: Branch & Claw, Jagged Earth, Feather and Flame, and Nature Incarnate
+- [ ] **VERIFY** `spirit-island-brandenburg-prussia.md`: check the level names, rules, and Fear Card splits against the physical Brandenburg-Prussia panel. They come from a community transcription of the panel, and the Difficulty numbers match the core rulebook's chart.
+- [ ] **AT OUR TABLE** `spirit-island-brandenburg-prussia.md`: one line on the Brandenburg-Prussia level where Levi's table first lost, and what changed on the next try.
+- [ ] **VERIFY** `spirit-island-england.md`: check the names, rules, and Fear Card splits against the physical England panel; they come from a community transcription. That transcription lists level 6 at Difficulty 11, while the core rulebook's chart says 10. Check which a current printing uses.
+- [ ] **AT OUR TABLE** `spirit-island-england.md`: one line on the closest Levi's table came to losing to England's capital, and how they spotted it.
+- [ ] **VERIFY** `spirit-island-sweden.md`: check the level names, rules, and Fear Card splits against the physical Sweden panel; they come from a community transcription. The Difficulty numbers match the core rulebook's chart.
+- [ ] **AT OUR TABLE** `spirit-island-sweden.md`: one line on the Sweden level that surprised Levi's table most, and the habit it taught them.
+- [ ] **VERIFY** `spirit-island-thematic-map-and-high-difficulty.md`: read the four core scenario panels and add one plain line each on what they change; the same check is open in the adversaries lesson.
+- [ ] **AT OUR TABLE** `spirit-island-thematic-map-and-high-difficulty.md`: one line on the hardest setup Levi's table has beaten, with its Difficulty number.
+- [ ] **AT OUR TABLE** `spirit-island-practice-plan.md`: one line on how Levi's group keeps its log, and one thing the log showed them that they had not noticed.
+- [ ] **AFFILIATE** `spirit-island-practice-plan.md`: Spirit Island digital edition (Handelabra)
+- [ ] **AT OUR TABLE** `spirit-island-multiplayer-strategy.md`: one line on how Levi's group runs its planning talk each turn, or how it splits the Island.
+- [ ] **VERIFY** `spirit-island-multiplayer-strategy.md`: check whether Spirit Island Mega events ran at Gen Con 2025 or 2026, or are announced for 2027, and add dates if so. The publisher blog's newest post is from April 2025, and Spirit Island now sits with Flat River Group, not the relaunched Greater Than Games.
+- [ ] **AFFILIATE** `spirit-island-multiplayer-strategy.md`: Spirit Island digital edition (Handelabra)
 
 ## Dominion (Shuffle by Shuffle)
 
@@ -640,6 +725,40 @@ Totals: 370 AT OUR TABLE, 323 VERIFY, 253 AFFILIATE.
 - [ ] **VERIFY** `lost-ruins-of-arnak-tournaments.md`: check whether Board Game Arena runs site tournaments for Arnak, and add them here if it does.
 - [ ] **VERIFY** `lost-ruins-of-arnak-tournaments.md`: check the Steam page for a release date and update this paragraph once the digital edition launches.
 
+## The Castles of Burgundy (Two Dice, One Duchy)
+
+- [ ] **AT OUR TABLE** `castles-of-burgundy-first-round-walkthrough.md`: one line on how Levi narrates the first round out loud for a new table, and which turn usually makes the game click for them.
+- [ ] **VERIFY** `castles-of-burgundy-beginner-mistakes.md`: which edition and duchy setup the current BGA ranked Arena season uses.
+- [ ] **AT OUR TABLE** `castles-of-burgundy-beginner-mistakes.md`: one line on the mistake Levi sees most often from new Castles of Burgundy players, and how he coaches it.
+- [ ] **AT OUR TABLE** `castles-of-burgundy-buildings-guide.md`: one line on the building chain Levi finds new players enjoy most once they see it, such as town hall into castle.
+- [ ] **AT OUR TABLE** `castles-of-burgundy-monastery-tiles.md`: one line on the monastery Levi's group fights over most, and why.
+- [ ] **VERIFY** `castles-of-burgundy-livestock-and-goods.md`: duchy 1 region sizes (pastures of 5 and 1, rivers of 3 and 3, six blue spaces) were read from the duchy pictured on page 3 of the 2020 English rulebook; confirm against a physical duchy 1 board.
+- [ ] **AFFILIATE** `castles-of-burgundy-expansions.md`: The Castles of Burgundy (Ravensburger item 26925)
+- [ ] **VERIFY** `castles-of-burgundy-expansions.md`: the ravensburger.us product link blocked automated checks; open it in a browser and confirm it loads. Item 26925 is confirmed on ravensburger.de (1 to 4 players, ages 12 and up, 90 to 120 minutes).
+- [ ] **AFFILIATE** `castles-of-burgundy-expansions.md`: The Castles of Burgundy: Special Edition
+- [ ] **VERIFY** `castles-of-burgundy-expansions.md`: the Special Edition year; its crowdfunding campaign and its retail release may fall in different years.
+- [ ] **VERIFY** `castles-of-burgundy-expansions.md`: find the publisher's own product page for the Special Edition (Ravensburger or Awaken Realms) and add a plain link, and confirm what that box includes.
+- [ ] **AFFILIATE** `castles-of-burgundy-expansions.md`: The Castles of Burgundy: The Card Game; The Castles of Burgundy: The Dice Game
+- [ ] **VERIFY** `castles-of-burgundy-expansions.md`: confirm the card game and dice game are still in print in English, and link each to the publisher's product page if one exists.
+- [ ] **AT OUR TABLE** `castles-of-burgundy-random-duchies.md`: one line on which duchy or castle choice Levi's group argues about most when playing random duchies.
+- [ ] **VERIFY** `castles-of-burgundy-tile-tracking.md`: count the colors of the inner 12 depot spaces (2 players) and the "3" spaces (3 players) on the back of the board, and how many black depot spaces a three-player game uses, then add per-phase mixes for those counts.
+- [ ] **VERIFY** `castles-of-burgundy-bonus-tile-races.md`: duchy 1 color counts and region sizes were read from the duchy pictured on page 3 of the 2020 English rulebook (it matches the rulebook's own description of duchy 1's towns); confirm against a physical duchy 1 board.
+- [ ] **AT OUR TABLE** `castles-of-burgundy-bonus-tile-races.md`: one line on a color race that Levi has seen swing a close game, kept general.
+- [ ] **AT OUR TABLE** `two-player-castles-of-burgundy-strategy.md`: one line on how two-player games feel different from four-player ones in Levi's group.
+- [ ] **AT OUR TABLE** `castles-of-burgundy-reading-the-table.md`: one line on the tell Levi watches for most when reading a rival's board.
+- [ ] **VERIFY** `castles-of-burgundy-playing-on-a-clock.md`: check the time options Board Game Arena offers for Castles of Burgundy tables (real-time speeds and turn-based) before naming specific settings.
+- [ ] **AT OUR TABLE** `castles-of-burgundy-playing-on-a-clock.md`: one line on how long a typical four-player game runs at Levi's table, for comparison with the tournament budget.
+- [ ] **VERIFY** `castles-of-burgundy-playing-to-win.md`: check the WBC 2027 preview for any change to the heat format or advancement numbers before the next convention.
+- [ ] **VERIFY** `castles-of-burgundy-tournaments.md`: check the WBC 2027 event list for the Castles of Burgundy event's dates, boards, and format before the next convention.
+- [ ] **VERIFY** `castles-of-burgundy-tournaments.md`: check the 2027 WSBG ring games list to confirm The Castles of Burgundy is still one of the 16 ring games.
+- [ ] **VERIFY** `castles-of-burgundy-tournaments.md`: confirm Ravensburger or alea does not run an official Castles of Burgundy championship or store event program, and add it here if one exists.
+- [ ] **VERIFY** `castles-of-burgundy-tournaments.md`: check the current BGA Arena season settings (edition, duchy setup) and whether seasons crown a champion before describing them.
+- [ ] **VERIFY** `castles-of-burgundy-online-study.md`: check the current BGA rating system and Arena season rules for Castles of Burgundy before naming levels, seasons, or rating numbers.
+- [ ] **VERIFY** `castles-of-burgundy-online-study.md`: confirm how replay controls currently work on BGA (stepping forward and back) and where finished games of other players are listed.
+- [ ] **AT OUR TABLE** `castles-of-burgundy-online-study.md`: one line on the kind of mistake Levi's own loss reviews turn up most, kept general.
+- [ ] **VERIFY** `castles-of-burgundy-tournament-practice-plan.md`: before publishing dates, check the WBC 2027 event list and the WSBG 2027 ring games for The Castles of Burgundy.
+- [ ] **AT OUR TABLE** `castles-of-burgundy-tournament-practice-plan.md`: one line on how Levi's group could run a practice night with four-player tables and a clock, kept as a suggestion rather than an event.
+
 ## Power Grid (Bid, Burn, Build)
 
 - [ ] **VERIFY** `power-grid-bureaucracy.md`: the Step 2 and Step 3 columns of the 5-player refill card (read from the rulebook's card image as coal 7 and 5, oil 5 and 6, garbage 3 and 5, uranium 3 and 2) against a physical card before quoting them in later lessons.
@@ -675,91 +794,6 @@ Totals: 370 AT OUR TABLE, 323 VERIFY, 253 AFFILIATE.
 - [ ] **AT OUR TABLE** `power-grid-endgame-puzzles.md`: one final-round position from a game Levi played, written up as a puzzle with its answer.
 - [ ] **VERIFY** `power-grid-tournament-practice.md`: the WBC 2027 Power Grid preview for its maps, rules, and schedule once it is posted, and update weeks 3 to 5 to match.
 - [ ] **AT OUR TABLE** `power-grid-tournament-practice.md`: one line on how Levi would gather five players for a regular Power Grid practice night.
-
-## Root (Four Factions, One Forest)
-
-- [ ] **AT OUR TABLE** `how-to-teach-root.md`: one line on how Levi splits the teach between shared rules and faction boards, and how long the first round takes.
-- [ ] **AT OUR TABLE** `root-rules-mistakes.md`: one line on the rules slip Levi sees most often at a first Root game, and how he catches it.
-- [ ] **AT OUR TABLE** `root-eyrie-dynasties-strategy.md`: one line on the Decree mistake Levi sees most often from first-time Eyrie players, and how he coaches it.
-- [ ] **VERIFY** `root-battle-odds.md`: confirm on a physical die that each battle die shows 0, 1, 2, and 3 on three faces each (the Law calls them battle dice but does not list faces).
-- [ ] **AT OUR TABLE** `root-crafting-cards.md`: one line on the crafted card Levi's group fights over most, and why.
-- [ ] **AT OUR TABLE** `root-table-talk-kingmaking.md`: one line on a table-talk norm Levi's group uses for Root deals, and why it works.
-- [ ] **AFFILIATE** `root-player-counts.md`: Root: The Clockwork Expansion 2
-- [ ] **AT OUR TABLE** `root-dominance-cards.md`: one line on a dominance win (or a stopped one) that taught Levi's group to watch for it.
-- [ ] **AT OUR TABLE** `root-card-tracking.md`: one line on how Levi tracks played ambushes at the table (a note, a habit, or a shared rule) without slowing the game.
-- [ ] **AT OUR TABLE** `root-endgame-race-to-30.md`: one line on the most surprising Root finish Levi has seen, and what the table missed in the turn before it.
-- [ ] **AFFILIATE** `root-expansion-factions.md`: Root: The Riverfolk Expansion
-- [ ] **AFFILIATE** `root-expansion-factions.md`: Root: The Underworld Expansion
-- [ ] **AFFILIATE** `root-expansion-factions.md`: Root: The Marauder Expansion
-- [ ] **AFFILIATE** `root-expansion-factions.md`: Root: The Homeland Expansion
-- [ ] **AFFILIATE** `root-expansion-factions.md`: Root: The Exiles and Partisans Deck; Root: The Squires and Disciples Deck
-- [ ] **AFFILIATE** `root-expansion-factions.md`: Root: The Vagabond Pack; Root: Landmarks Pack
-- [ ] **AFFILIATE** `root-expansion-factions.md`: Root: The Clockwork Expansion 2
-- [ ] **AT OUR TABLE** `root-advanced-setup-draft.md`: one line on which faction Levi's group drafts first most often under Advanced Setup, and whether that has held up.
-- [ ] **VERIFY** `root-maps-landmarks.md`: check the Homeland rules for any further Marsh or Gorge setup details before adding strategy notes for these maps.
-- [ ] **AFFILIATE** `root-maps-landmarks.md`: Root: Landmarks Pack
-- [ ] **VERIFY** `root-maps-landmarks.md`: read each landmark card in the Landmarks Pack before describing what the Black Market, Elder Treetop, Legendary Forge, and Lost City do.
-- [ ] **AT OUR TABLE** `root-maps-landmarks.md`: one line on which map Levi's group finds most surprising after the Autumn map, and why.
-- [ ] **AFFILIATE** `root-exiles-partisans-deck.md`: Root: The Exiles and Partisans Deck
-- [ ] **VERIFY** `root-exiles-partisans-deck.md`: confirm the full Exiles and Partisans card list and counts (which cards appear twice) against the Leder card library or a physical deck before naming any further cards.
-- [ ] **AT OUR TABLE** `root-exiles-partisans-deck.md`: one line on which Exiles and Partisans card most surprised Levi's group, and how it changed a game.
-- [ ] **AFFILIATE** `root-exiles-partisans-deck.md`: Root: The Squires and Disciples Deck
-- [ ] **VERIFY** `root-tournaments.md`: whether Root makes the WBC 2027 Trial ballot, its class, and its 2027 format, once the WBC 2027 event list is published.
-- [ ] **AFFILIATE** `root-tournaments.md`: Root digital edition (Dire Wolf)
-- [ ] **VERIFY** `root-tournaments.md`: find a current community-run Root league or tournament with an official link (for example through the Woodland Warriors Discord) before naming one.
-- [ ] **AT OUR TABLE** `root-tournaments.md`: one line on whether Levi has played Root at a convention or store event, and what surprised him about it.
-- [ ] **AFFILIATE** `root-online-practice.md`: Root digital edition (Dire Wolf)
-- [ ] **VERIFY** `root-online-practice.md`: check Dire Wolf's current Root page for any newer add-ons (for example Homeland factions) and whether digital supports Advanced Setup's faction draft, before saying either way.
-- [ ] **AFFILIATE** `root-online-practice.md`: Root: The Clockwork Expansion 2
-- [ ] **AT OUR TABLE** `root-online-practice.md`: one line on whether Levi plays Root digital, which faction he practices most there, and what it taught him.
-- [ ] **AT OUR TABLE** `root-tournament-practice-plan.md`: one line on how Levi would prepare a newcomer from his group for their first Root tournament.
-
-## Spirit Island (Ravage, Build, Explore)
-
-- [ ] **AFFILIATE** `how-to-play-spirit-island.md`: Spirit Island
-- [ ] **AT OUR TABLE** `how-to-play-spirit-island.md`: one line on how Levi walks a new table through its first Invader Phase.
-- [ ] **AT OUR TABLE** `how-to-teach-spirit-island.md`: one line on how Levi hands out Spirits to a new table, or the sentence he uses to explain Fast and Slow.
-- [ ] **AT OUR TABLE** `spirit-island-rules-mistakes.md`: one line on which of these rules Levi's table misplayed longest, and what finally made it stick.
-- [ ] **AT OUR TABLE** `spirit-island-fear-and-terror-levels.md`: one line on the Fear rule Levi's group got wrong most often when learning, and how they fixed it.
-- [ ] **VERIFY** `spirit-island-starter-spirits.md`: check Lightning's Swift Strike's panel: the Special Rule (Slow Powers used as Fast, one per Air?). The Innate Power and the low Energy track were checked against the publisher's product photo of the panel.
-- [ ] **VERIFY** `spirit-island-starter-spirits.md`: check River Surges in Sunlight's panel: the Special Rule (Presence in Wetlands counts as a Sacred Site?) and the Innate Power's Sun and Water thresholds and effects.
-- [ ] **VERIFY** `spirit-island-starter-spirits.md`: check Vital Strength of the Earth's panel: the Special Rule (Defend 3 in each land with its Sacred Site?) and the Innate Power (Repeat a Power Card by paying its cost again, with a cost limit set by Elements?).
-- [ ] **VERIFY** `spirit-island-starter-spirits.md`: check Shadows Flicker Like Flame's panel: the Special Rule (pay 1 Energy to target a land with Dahan regardless of Range?) and the Innate Power's Moon and Fire thresholds.
-- [ ] **AT OUR TABLE** `spirit-island-starter-spirits.md`: one line on which starter Spirit new players at Levi's table enjoy most, and why.
-- [ ] **AFFILIATE** `spirit-island-starter-spirits.md`: Horizons of Spirit Island
-- [ ] **AT OUR TABLE** `spirit-island-opening-turns.md`: one line on the opening habit Levi's table relies on, such as who clears which board on turn one.
-- [ ] **AT OUR TABLE** `spirit-island-dahan-strategy.md`: one line on a Dahan move Levi's table now makes by habit, such as Gathering them into the next Ravage land.
-- [ ] **AT OUR TABLE** `spirit-island-power-cards.md`: one line on a Power Card choice Levi's table argues about most, such as when to take the first Major.
-- [ ] **AT OUR TABLE** `spirit-island-elements-innate-powers.md`: one line on the Innate Power Levi's table most often forgets to use, and the habit that fixed it.
-- [ ] **VERIFY** `spirit-island-base-game-spirits.md`: check the complexity rating printed on each of these four panels (believed to be Moderate for Rampant Green and Thunderspeaker, High for Bringer and Ocean) before adding them to this lesson.
-- [ ] **VERIFY** `spirit-island-base-game-spirits.md`: check A Spread of Rampant Green's panel for the exact wording of Steady Regeneration and Choke the Land with Green.
-- [ ] **VERIFY** `spirit-island-base-game-spirits.md`: check Thunderspeaker's panel for the exact wording of Ally of the Dahan and Sworn to Victory (within 1 land?).
-- [ ] **VERIFY** `spirit-island-base-game-spirits.md`: check Bringer of Dreams and Nightmares's panel for the exact wording of To Dream a Thousand Deaths, including the Fear generated per Explorer, Town, and City.
-- [ ] **VERIFY** `spirit-island-base-game-spirits.md`: check Ocean's Hungry Grasp's panel for its setup instructions and the exact wording of Ocean in Play and Drowning.
-- [ ] **AT OUR TABLE** `spirit-island-base-game-spirits.md`: one line on which of these four Spirits Levi's table found most rewarding once the starters felt familiar.
-- [ ] **VERIFY** `spirit-island-blight-management.md`: read both core Blight Cards and add the name and Healthy and Blighted Blight counts for each, plus the second card's Blighted Island effect.
-- [ ] **AT OUR TABLE** `spirit-island-blight-management.md`: one line on the moment Levi's table first chose to let the Blight Card flip, and whether it paid off.
-- [ ] **VERIFY** `spirit-island-invader-deck-odds.md`: confirm on the physical cards that the Stage II Coastal card is the only Stage II card without the Escalation flag.
-- [ ] **AT OUR TABLE** `spirit-island-invader-deck-odds.md`: one line on how Levi's table keeps track of revealed Invader cards, such as a discard row laid out in order.
-- [ ] **AT OUR TABLE** `spirit-island-endgame.md`: one line on how Levi's table calls the all-in turn, such as a phrase someone says when the target turn arrives.
-- [ ] **VERIFY** `spirit-island-solo.md`: compare these solo notes with each starter's Play Style text on the back of its panel before publishing.
-- [ ] **AT OUR TABLE** `spirit-island-solo.md`: one line on Levi's favorite solo Spirit, or whether he plays one Spirit or two when alone.
-- [ ] **AFFILIATE** `spirit-island-solo.md`: Spirit Island digital edition (Handelabra)
-- [ ] **VERIFY** `spirit-island-adversaries-and-scenarios.md`: read the four core scenario panels (Blitz, Guard the Isle's Heart, Rituals of Terror, Dahan Insurrection) and add one line each on what they change.
-- [ ] **AFFILIATE** `spirit-island-adversaries-and-scenarios.md`: Spirit Island: Branch & Claw, Jagged Earth, Feather and Flame, and Nature Incarnate
-- [ ] **VERIFY** `spirit-island-brandenburg-prussia.md`: check the level names, rules, and Fear Card splits against the physical Brandenburg-Prussia panel. They come from a community transcription of the panel, and the Difficulty numbers match the core rulebook's chart.
-- [ ] **AT OUR TABLE** `spirit-island-brandenburg-prussia.md`: one line on the Brandenburg-Prussia level where Levi's table first lost, and what changed on the next try.
-- [ ] **VERIFY** `spirit-island-england.md`: check the names, rules, and Fear Card splits against the physical England panel; they come from a community transcription. That transcription lists level 6 at Difficulty 11, while the core rulebook's chart says 10. Check which a current printing uses.
-- [ ] **AT OUR TABLE** `spirit-island-england.md`: one line on the closest Levi's table came to losing to England's capital, and how they spotted it.
-- [ ] **VERIFY** `spirit-island-sweden.md`: check the level names, rules, and Fear Card splits against the physical Sweden panel; they come from a community transcription. The Difficulty numbers match the core rulebook's chart.
-- [ ] **AT OUR TABLE** `spirit-island-sweden.md`: one line on the Sweden level that surprised Levi's table most, and the habit it taught them.
-- [ ] **VERIFY** `spirit-island-thematic-map-and-high-difficulty.md`: read the four core scenario panels and add one plain line each on what they change; the same check is open in the adversaries lesson.
-- [ ] **AT OUR TABLE** `spirit-island-thematic-map-and-high-difficulty.md`: one line on the hardest setup Levi's table has beaten, with its Difficulty number.
-- [ ] **AT OUR TABLE** `spirit-island-practice-plan.md`: one line on how Levi's group keeps its log, and one thing the log showed them that they had not noticed.
-- [ ] **AFFILIATE** `spirit-island-practice-plan.md`: Spirit Island digital edition (Handelabra)
-- [ ] **AT OUR TABLE** `spirit-island-multiplayer-strategy.md`: one line on how Levi's group runs its planning talk each turn, or how it splits the Island.
-- [ ] **VERIFY** `spirit-island-multiplayer-strategy.md`: check whether Spirit Island Mega events ran at Gen Con 2025 or 2026, or are announced for 2027, and add dates if so. The publisher blog's newest post is from April 2025, and Spirit Island now sits with Flat River Group, not the relaunched Greater Than Games.
-- [ ] **AFFILIATE** `spirit-island-multiplayer-strategy.md`: Spirit Island digital edition (Handelabra)
 
 ## Pokémon TCG (First League Night)
 
@@ -800,6 +834,25 @@ Totals: 370 AT OUR TABLE, 323 VERIFY, 253 AFFILIATE.
 - [ ] **VERIFY** `pokemon-tcg-championship-points.md`: exact dates; news reports of the August 30, 2026 announcement give August 13 to 15, 2027.
 - [ ] **AT OUR TABLE** `pokemon-tcg-championship-points.md`: one line from Levi on how he would plan a first competitive season from Indianapolis, such as which nearby events he would pick.
 
+## Magic: The Gathering (First Land to First Draft)
+
+- [ ] **AFFILIATE** `how-to-start-playing-magic.md`: Magic: The Gathering Foundations Beginner Box
+- [ ] **AFFILIATE** `how-to-start-playing-magic.md`: Foundations Commander decks (Calling All Angels, Keen Engineering, Wretched Ranks, Reign of Dragons, Tramplesaurus Rex)
+- [ ] **AT OUR TABLE** `how-to-read-a-magic-card.md`: one line on the card Levi hands a new player to practice reading, and what it teaches.
+- [ ] **AT OUR TABLE** `magic-beginner-mistakes.md`: the one slip Levi sees most often from new players at his table, and the quick reminder he uses.
+- [ ] **AFFILIATE** `magic-budget-upgrades.md`: online singles marketplace (for example TCGplayer or Card Kingdom)
+- [ ] **AT OUR TABLE** `first-friday-night-magic.md`: one line on what Levi says when he sits down at a new Commander table.
+- [ ] **AFFILIATE** `magic-prerelease-guide.md`: Draft Night (Pick-Two Draft kit for four players)
+- [ ] **AT OUR TABLE** `magic-combat-strategy.md`: one line on the combat trick Levi has watched turn a sealed game around, and why the timing worked.
+- [ ] **AFFILIATE** `magic-draft-strategy.md`: Draft Night box (Pick-Two Draft for four players)
+- [ ] **AT OUR TABLE** `build-a-commander-deck.md`: one line on the first commander Levi built a deck around, and the card that made the deck click.
+- [ ] **AFFILIATE** `build-a-commander-deck.md`: Foundations Commander decks
+- [ ] **VERIFY** `whos-the-beatdown-magic.md`: the year and publication of Mike Flores's "Who's the Beatdown?" article (widely cited as 1999).
+- [ ] **AT OUR TABLE** `whos-the-beatdown-magic.md`: one line on a matchup where Levi's group often misjudges who is the beatdown, and the tell that gives it away.
+- [ ] **AT OUR TABLE** `magic-tournament-rules.md`: one line on the first time Levi called a judge, and what it taught him about tournament play.
+- [ ] **AT OUR TABLE** `magic-store-championship-rcq.md`: one line on how Levi spends the gap between rounds at a long event, and why it helps.
+- [ ] **AT OUR TABLE** `magic-pro-tour-path.md`: one line on what Levi would tell a friend weighing their first RCQ, from the stands or the table.
+
 ## One Piece Card Game (Your First Crew)
 
 - [ ] **AFFILIATE** `how-to-play-one-piece-card-game.md`: STARTER DECK -The Desert Princess and the Pirates- [ST-37]
@@ -833,52 +886,6 @@ Totals: 370 AT OUR TABLE, 323 VERIFY, 253 AFFILIATE.
 - [ ] **AFFILIATE** `one-piece-card-game-rotation.md`: ONE PIECE CARD GAME Booster Pack OP-18 The Dominance of God
 - [ ] **AT OUR TABLE** `one-piece-card-game-rotation.md`: one line on how Levi keeps up with a new set: the first thing he reads, or the first deck he tries.
 
-## Magic: The Gathering (First Land to First Draft)
-
-- [ ] **AFFILIATE** `how-to-start-playing-magic.md`: Magic: The Gathering Foundations Beginner Box
-- [ ] **AFFILIATE** `how-to-start-playing-magic.md`: Foundations Commander decks (Calling All Angels, Keen Engineering, Wretched Ranks, Reign of Dragons, Tramplesaurus Rex)
-- [ ] **AT OUR TABLE** `how-to-read-a-magic-card.md`: one line on the card Levi hands a new player to practice reading, and what it teaches.
-- [ ] **AT OUR TABLE** `magic-beginner-mistakes.md`: the one slip Levi sees most often from new players at his table, and the quick reminder he uses.
-- [ ] **AFFILIATE** `magic-budget-upgrades.md`: online singles marketplace (for example TCGplayer or Card Kingdom)
-- [ ] **AT OUR TABLE** `first-friday-night-magic.md`: one line on what Levi says when he sits down at a new Commander table.
-- [ ] **AFFILIATE** `magic-prerelease-guide.md`: Draft Night (Pick-Two Draft kit for four players)
-- [ ] **AT OUR TABLE** `magic-combat-strategy.md`: one line on the combat trick Levi has watched turn a sealed game around, and why the timing worked.
-- [ ] **AFFILIATE** `magic-draft-strategy.md`: Draft Night box (Pick-Two Draft for four players)
-- [ ] **AT OUR TABLE** `build-a-commander-deck.md`: one line on the first commander Levi built a deck around, and the card that made the deck click.
-- [ ] **AFFILIATE** `build-a-commander-deck.md`: Foundations Commander decks
-- [ ] **VERIFY** `whos-the-beatdown-magic.md`: the year and publication of Mike Flores's "Who's the Beatdown?" article (widely cited as 1999).
-- [ ] **AT OUR TABLE** `whos-the-beatdown-magic.md`: one line on a matchup where Levi's group often misjudges who is the beatdown, and the tell that gives it away.
-- [ ] **AT OUR TABLE** `magic-tournament-rules.md`: one line on the first time Levi called a judge, and what it taught him about tournament play.
-- [ ] **AT OUR TABLE** `magic-store-championship-rcq.md`: one line on how Levi spends the gap between rounds at a long event, and why it helps.
-- [ ] **AT OUR TABLE** `magic-pro-tour-path.md`: one line on what Levi would tell a friend weighing their first RCQ, from the stands or the table.
-
-## Magic Cube draft (One Box, Eight Friends)
-
-- [ ] **AFFILIATE** `how-to-play-cube-draft.md`: Magic: The Gathering Starter Kit
-- [ ] **AT OUR TABLE** `how-to-play-cube-draft.md`: one line from Levi on what Cube Commonwealth taught him about why people keep coming back to a Cube.
-- [ ] **AT OUR TABLE** `how-to-read-a-magic-card.md`: one line on the card part new drafters most often misread (Levi's pick, perhaps colored symbols on gold cards) and how he points it out.
-- [ ] **AT OUR TABLE** `how-to-teach-cube-draft.md`: one line from Levi on how Cube Commonwealth paired rounds and why that choice worked for the group.
-- [ ] **AT OUR TABLE** `first-cube-draft-night.md`: one line from Levi on the most common etiquette slip he saw at Cube Commonwealth and how the group handled it kindly.
-- [ ] **AT OUR TABLE** `cube-draft-beginner-mistakes.md`: one line from Levi on the first-draft mistake he saw most often at Cube Commonwealth, and the one sentence he used to help a new drafter fix it.
-- [ ] **AT OUR TABLE** `cube-aggro-midrange-control.md`: one line from Levi on which speed won most often in the Cube Commonwealth Cube, and why he thinks it did.
-- [ ] **AT OUR TABLE** `cube-draft-signals.md`: one line from Levi on any signal specific to the Cube Commonwealth Cube, such as a color that often seemed open, if there was one.
-- [ ] **AT OUR TABLE** `cube-pick-order.md`: one line from Levi on a card in the Cube Commonwealth Cube that new drafters overvalued, or one that regulars learned to take much earlier.
-- [ ] **AT OUR TABLE** `drafting-aggro-in-cube.md`: one line from Levi on how aggro decks tended to do in the Cube Commonwealth Cube, if he remembers, and why.
-- [ ] **AT OUR TABLE** `drafting-control-in-cube.md`: one line from Levi on a slow deck regulars liked drafting in the Cube Commonwealth Cube, if one stands out, and the card that held it together.
-- [ ] **AT OUR TABLE** `cube-draft-small-tables.md`: one line from Levi, if Cube Commonwealth ever drafted short-handed, on what the group did and whether it worked.
-- [ ] **VERIFY** `how-to-build-a-cube.md`: that a CubeCobra account and list are free, and the current way to copy or clone another owner's list.
-- [ ] **AT OUR TABLE** `how-to-build-a-cube.md`: one line from Levi on how the Cube Commonwealth Cube started, such as its first size or the first change the group asked for.
-- [ ] **AT OUR TABLE** `cube-design-color-balance.md`: one line from Levi on a balance problem the Cube Commonwealth Cube had, if any, and how it came to light.
-- [ ] **AT OUR TABLE** `cube-curation-playtesting.md`: one line from Levi on whether drafter feedback ever changed the Cube Commonwealth Cube, and how that went.
-- [ ] **AT OUR TABLE** `hosting-a-regular-cube-night.md`: one line from Levi on how Cube Commonwealth handled odd player counts or latecomers, and what he would keep.
-- [ ] **AT OUR TABLE** `signature-cube-design.md`: one line from Levi on what gave the Cube Commonwealth Cube its identity, in the words a regular would use.
-- [ ] **VERIFY** `cube-draft-practice-plan.md`: Draftmancer still imports CubeCobra lists by Cube ID.
-- [ ] **VERIFY** `cube-draft-practice-plan.md`: whether MTG Arena is running a Cube event this season, and when.
-- [ ] **AFFILIATE** `cube-draft-practice-plan.md`: Magic Online; MTG Arena
-- [ ] **AT OUR TABLE** `cube-draft-practice-plan.md`: one line from Levi on how the strongest drafters at Cube Commonwealth practiced, or what they did that made the group better.
-- [ ] **VERIFY** `cube-draft-what-next.md`: whether MTG Arena is running a Cube event this season (Arena Cube or similar) and when.
-- [ ] **VERIFY** `cube-draft-what-next.md`: whether any current Wizards organized-play events use Cube, and the path from store play to Regional Championships this season.
-
 ## Disney Lorcana (First Ink)
 
 - [ ] **AFFILIATE** `how-to-start-lorcana.md`: Disney Lorcana 2-Player Starter Set
@@ -911,6 +918,37 @@ Totals: 370 AT OUR TABLE, 323 VERIFY, 253 AFFILIATE.
 - [ ] **AT OUR TABLE** `lorcana-tournament-deck.md`: one line from Levi on how he reads the field at his local store, or the deck he would recommend a first-time Set Championship player bring.
 - [ ] **VERIFY** `lorcana-tournaments.md`: how many invites each Challenge event, Local Qualifier, and regional Championship awards for the 2026 to 2027 season, and the 2027 World Championship dates and location, once Ravensburger publishes them.
 - [ ] **AT OUR TABLE** `lorcana-tournament-practice.md`: one line from Levi on the practice habit that helped him most before a Lorcana event, or what he would tell a first-time competitor the night before.
+
+## Yu-Gi-Oh! TCG (Back to the Duel)
+
+- [ ] **AFFILIATE** `how-to-play-yugioh.md`: Yu-Gi-Oh! TRADING CARD GAME 2-Player Starter Set
+- [ ] **VERIFY** `how-to-play-yugioh.md`: that the 2-Player Starter Set is still easy to find in stores in late 2026. In October 2026 it was still the newest product on Konami's Starter Decks page.
+- [ ] **AT OUR TABLE** `how-to-teach-yugioh.md`: one line on how Levi teaches the Extra Deck to a brand new player, and which starter deck he hands them.
+- [ ] **AT OUR TABLE** `yugioh-beginner-mistakes.md`: one line on which of these slips Levi sees most often when a returning player sits down for the first time.
+- [ ] **AT OUR TABLE** `yugioh-chains.md`: one line on how Levi teaches a new player to physically stack a Chain, if he uses markers, dice, or sliding cards.
+- [ ] **AT OUR TABLE** `yugioh-extra-deck-summoning.md`: one line on the first Synchro or Link Summon Levi teaches with the 2-Player Starter Set decks, if there is a favorite.
+- [ ] **AFFILIATE** `yugioh-deck-upgrades.md`: Structure Deck: Blue-Eyes White Destiny
+- [ ] **AT OUR TABLE** `yugioh-deck-ratios.md`: one line on how Levi tests opening hands, if he uses a quick routine before a store night.
+- [ ] **AT OUR TABLE** `yugioh-going-first-or-second.md`: one line on whether Levi's own favorite deck prefers first or second, and why.
+- [ ] **VERIFY** `yugioh-locals.md`: the Duel Day locations list showed no stores in October 2026; check it, or ask Konami how Learn to Play events are scheduled now.
+- [ ] **AT OUR TABLE** `yugioh-locals.md`: one line on a welcoming Indianapolis store for Yu-Gi-Oh! locals, if Levi has been.
+- [ ] **AFFILIATE** `yugioh-premiere-events.md`: Yu-Gi-Oh! Glorious Victors and Immortal Phoenix booster packs
+- [ ] **VERIFY** `yugioh-premiere-events.md`: whether Konami lists Premiere! events for Glorious Victors or Immortal Phoenix, and their dates.
+- [ ] **AT OUR TABLE** `yugioh-premiere-events.md`: one line on how Levi's group runs a pack-opening Sealed night, if they have tried it.
+- [ ] **AT OUR TABLE** `yugioh-hand-traps.md`: one line on the hand trap Levi likes teaching first, and the moment he tells new players to look for.
+- [ ] **AT OUR TABLE** `yugioh-breaking-boards.md`: one line on the hardest board Levi has watched someone break at a store, described without naming players.
+- [ ] **AT OUR TABLE** `yugioh-side-deck.md`: one line on how Levi decides his Side Deck before a store night, if he has a routine.
+- [ ] **VERIFY** `yugioh-advanced-rules.md`: the Damage Step page linked in the Version 10 rulebook (yugioh-card.com/en/gameplay/damage_step/) returned an empty page in October 2026; link a current Konami page if one exists.
+- [ ] **VERIFY** `yugioh-advanced-rules.md`: missing the timing is a long-standing Konami ruling but is not spelled out in the Version 10 rulebook text; link an official Konami ruling page if one exists.
+- [ ] **AT OUR TABLE** `yugioh-advanced-rules.md`: one line on the ruling Levi most often has to look up at the table.
+- [ ] **AT OUR TABLE** `yugioh-tournament-rules.md`: one line on the policy rule Levi thinks returning players are most surprised by.
+- [ ] **VERIFY** `yugioh-metagame.md`: whether Konami's YCS coverage currently publishes Top 8 deck lists, and where.
+- [ ] **AT OUR TABLE** `yugioh-metagame.md`: one line on how Levi learns what his local store is playing, if he has a routine.
+- [ ] **AT OUR TABLE** `yugioh-genesys-format.md`: one line on whether Levi plays Genesys, and an older strategy he would like to see return in it.
+- [ ] **AT OUR TABLE** `yugioh-playing-to-your-outs.md`: one line on a type of comeback Levi has seen at a store, described without naming players.
+- [ ] **VERIFY** `yugioh-tournaments.md`: dates and city for the 2027 North America WCQ once Konami posts them.
+- [ ] **VERIFY** `yugioh-ycs-weekend.md`: what a Top finish in a YCS Genesys Main Event earns, and any Genesys Championship dates.
+- [ ] **AT OUR TABLE** `yugioh-ycs-weekend.md`: one line on what Levi would tell a first-time YCS player, if he has been to one.
 
 ## Riftbound (Conquer and Hold), draft
 
@@ -961,36 +999,32 @@ Totals: 370 AT OUR TABLE, 323 VERIFY, 253 AFFILIATE.
 - [ ] **VERIFY** `riftbound-regional-practice-plan.md`: competitor badge prices, registration dates, and the format for the 2027 Regionals and the Dallas Continental, once Riot posts them.
 - [ ] **AT OUR TABLE** `riftbound-regional-practice-plan.md`: one line on Levi's own routine at a big event, or what he would tell a friend before their first Regional.
 
-## Yu-Gi-Oh! TCG (Back to the Duel)
+## Magic Cube draft (One Box, Eight Friends)
 
-- [ ] **AFFILIATE** `how-to-play-yugioh.md`: Yu-Gi-Oh! TRADING CARD GAME 2-Player Starter Set
-- [ ] **VERIFY** `how-to-play-yugioh.md`: that the 2-Player Starter Set is still easy to find in stores in late 2026. In October 2026 it was still the newest product on Konami's Starter Decks page.
-- [ ] **AT OUR TABLE** `how-to-teach-yugioh.md`: one line on how Levi teaches the Extra Deck to a brand new player, and which starter deck he hands them.
-- [ ] **AT OUR TABLE** `yugioh-beginner-mistakes.md`: one line on which of these slips Levi sees most often when a returning player sits down for the first time.
-- [ ] **AT OUR TABLE** `yugioh-chains.md`: one line on how Levi teaches a new player to physically stack a Chain, if he uses markers, dice, or sliding cards.
-- [ ] **AT OUR TABLE** `yugioh-extra-deck-summoning.md`: one line on the first Synchro or Link Summon Levi teaches with the 2-Player Starter Set decks, if there is a favorite.
-- [ ] **AFFILIATE** `yugioh-deck-upgrades.md`: Structure Deck: Blue-Eyes White Destiny
-- [ ] **AT OUR TABLE** `yugioh-deck-ratios.md`: one line on how Levi tests opening hands, if he uses a quick routine before a store night.
-- [ ] **AT OUR TABLE** `yugioh-going-first-or-second.md`: one line on whether Levi's own favorite deck prefers first or second, and why.
-- [ ] **VERIFY** `yugioh-locals.md`: the Duel Day locations list showed no stores in October 2026; check it, or ask Konami how Learn to Play events are scheduled now.
-- [ ] **AT OUR TABLE** `yugioh-locals.md`: one line on a welcoming Indianapolis store for Yu-Gi-Oh! locals, if Levi has been.
-- [ ] **AFFILIATE** `yugioh-premiere-events.md`: Yu-Gi-Oh! Glorious Victors and Immortal Phoenix booster packs
-- [ ] **VERIFY** `yugioh-premiere-events.md`: whether Konami lists Premiere! events for Glorious Victors or Immortal Phoenix, and their dates.
-- [ ] **AT OUR TABLE** `yugioh-premiere-events.md`: one line on how Levi's group runs a pack-opening Sealed night, if they have tried it.
-- [ ] **AT OUR TABLE** `yugioh-hand-traps.md`: one line on the hand trap Levi likes teaching first, and the moment he tells new players to look for.
-- [ ] **AT OUR TABLE** `yugioh-breaking-boards.md`: one line on the hardest board Levi has watched someone break at a store, described without naming players.
-- [ ] **AT OUR TABLE** `yugioh-side-deck.md`: one line on how Levi decides his Side Deck before a store night, if he has a routine.
-- [ ] **VERIFY** `yugioh-advanced-rules.md`: the Damage Step page linked in the Version 10 rulebook (yugioh-card.com/en/gameplay/damage_step/) returned an empty page in October 2026; link a current Konami page if one exists.
-- [ ] **VERIFY** `yugioh-advanced-rules.md`: missing the timing is a long-standing Konami ruling but is not spelled out in the Version 10 rulebook text; link an official Konami ruling page if one exists.
-- [ ] **AT OUR TABLE** `yugioh-advanced-rules.md`: one line on the ruling Levi most often has to look up at the table.
-- [ ] **AT OUR TABLE** `yugioh-tournament-rules.md`: one line on the policy rule Levi thinks returning players are most surprised by.
-- [ ] **VERIFY** `yugioh-metagame.md`: whether Konami's YCS coverage currently publishes Top 8 deck lists, and where.
-- [ ] **AT OUR TABLE** `yugioh-metagame.md`: one line on how Levi learns what his local store is playing, if he has a routine.
-- [ ] **AT OUR TABLE** `yugioh-genesys-format.md`: one line on whether Levi plays Genesys, and an older strategy he would like to see return in it.
-- [ ] **AT OUR TABLE** `yugioh-playing-to-your-outs.md`: one line on a type of comeback Levi has seen at a store, described without naming players.
-- [ ] **VERIFY** `yugioh-tournaments.md`: dates and city for the 2027 North America WCQ once Konami posts them.
-- [ ] **VERIFY** `yugioh-ycs-weekend.md`: what a Top finish in a YCS Genesys Main Event earns, and any Genesys Championship dates.
-- [ ] **AT OUR TABLE** `yugioh-ycs-weekend.md`: one line on what Levi would tell a first-time YCS player, if he has been to one.
+- [ ] **AFFILIATE** `how-to-play-cube-draft.md`: Magic: The Gathering Starter Kit
+- [ ] **AT OUR TABLE** `how-to-play-cube-draft.md`: one line from Levi on what Cube Commonwealth taught him about why people keep coming back to a Cube.
+- [ ] **AT OUR TABLE** `how-to-read-a-magic-card.md`: one line on the card part new drafters most often misread (Levi's pick, perhaps colored symbols on gold cards) and how he points it out.
+- [ ] **AT OUR TABLE** `how-to-teach-cube-draft.md`: one line from Levi on how Cube Commonwealth paired rounds and why that choice worked for the group.
+- [ ] **AT OUR TABLE** `first-cube-draft-night.md`: one line from Levi on the most common etiquette slip he saw at Cube Commonwealth and how the group handled it kindly.
+- [ ] **AT OUR TABLE** `cube-draft-beginner-mistakes.md`: one line from Levi on the first-draft mistake he saw most often at Cube Commonwealth, and the one sentence he used to help a new drafter fix it.
+- [ ] **AT OUR TABLE** `cube-aggro-midrange-control.md`: one line from Levi on which speed won most often in the Cube Commonwealth Cube, and why he thinks it did.
+- [ ] **AT OUR TABLE** `cube-draft-signals.md`: one line from Levi on any signal specific to the Cube Commonwealth Cube, such as a color that often seemed open, if there was one.
+- [ ] **AT OUR TABLE** `cube-pick-order.md`: one line from Levi on a card in the Cube Commonwealth Cube that new drafters overvalued, or one that regulars learned to take much earlier.
+- [ ] **AT OUR TABLE** `drafting-aggro-in-cube.md`: one line from Levi on how aggro decks tended to do in the Cube Commonwealth Cube, if he remembers, and why.
+- [ ] **AT OUR TABLE** `drafting-control-in-cube.md`: one line from Levi on a slow deck regulars liked drafting in the Cube Commonwealth Cube, if one stands out, and the card that held it together.
+- [ ] **AT OUR TABLE** `cube-draft-small-tables.md`: one line from Levi, if Cube Commonwealth ever drafted short-handed, on what the group did and whether it worked.
+- [ ] **VERIFY** `how-to-build-a-cube.md`: that a CubeCobra account and list are free, and the current way to copy or clone another owner's list.
+- [ ] **AT OUR TABLE** `how-to-build-a-cube.md`: one line from Levi on how the Cube Commonwealth Cube started, such as its first size or the first change the group asked for.
+- [ ] **AT OUR TABLE** `cube-design-color-balance.md`: one line from Levi on a balance problem the Cube Commonwealth Cube had, if any, and how it came to light.
+- [ ] **AT OUR TABLE** `cube-curation-playtesting.md`: one line from Levi on whether drafter feedback ever changed the Cube Commonwealth Cube, and how that went.
+- [ ] **AT OUR TABLE** `hosting-a-regular-cube-night.md`: one line from Levi on how Cube Commonwealth handled odd player counts or latecomers, and what he would keep.
+- [ ] **AT OUR TABLE** `signature-cube-design.md`: one line from Levi on what gave the Cube Commonwealth Cube its identity, in the words a regular would use.
+- [ ] **VERIFY** `cube-draft-practice-plan.md`: Draftmancer still imports CubeCobra lists by Cube ID.
+- [ ] **VERIFY** `cube-draft-practice-plan.md`: whether MTG Arena is running a Cube event this season, and when.
+- [ ] **AFFILIATE** `cube-draft-practice-plan.md`: Magic Online; MTG Arena
+- [ ] **AT OUR TABLE** `cube-draft-practice-plan.md`: one line from Levi on how the strongest drafters at Cube Commonwealth practiced, or what they did that made the group better.
+- [ ] **VERIFY** `cube-draft-what-next.md`: whether MTG Arena is running a Cube event this season (Arena Cube or similar) and when.
+- [ ] **VERIFY** `cube-draft-what-next.md`: whether any current Wizards organized-play events use Cube, and the path from store play to Regional Championships this season.
 
 ## Article: board-game-gifts-new-players-2026
 
