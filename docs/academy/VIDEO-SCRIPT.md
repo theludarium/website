@@ -10,7 +10,7 @@ One 10 to 20 minute teach video per course on @theludarium, with Levi's own copy
 6. **Three tips (2 minutes).** The teach sheet's three tips, each shown on the table.
 7. **Where to go next (30 seconds).** "The free course walks you from here to your first tournament. Lesson one is in the description." End card to the course page.
 
-**Two Shorts per course:** the 60-second teach (steps 2, 4 and 5 compressed) and one tip from lesson 3. Thursday Shorts link the week's Ludometer mover once the index runs.
+**Two Shorts per course:** the 60-second teach (steps 2, 4 and 5 compressed) and one tip from lesson 3. Thursday Shorts link the week's top mover on On the Table once its public list runs.
 
 **Description template:**
 

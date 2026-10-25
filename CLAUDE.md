@@ -116,7 +116,6 @@ Keep it simple. No CMS, database, or user accounts. Add a dependency only when i
 | `/academy/` | Academy | What the Academy is, the course catalog, membership pitch, waitlist or join link |
 | `/academy/[course]/` | Course | One game course from `src/content/courses/` (Catan and the Game Shelf have their own pages): outcomes, lessons, teach sheet, signup, FAQ, unofficial notice. Plan and writer's guide: `docs/academy/COURSES.md` |
 | `/academy/[course]/teach-sheet/` | Teach sheet | One-page printable for each game course; `scripts/teach-sheets.mjs` prints the PDFs |
-| `/ludometer/` | The Ludometer | The weekly game index; builds on previews only until BGG approves the license (`LUDOMETER.live`) |
 | `/corporate-events/` | Corporate Events | Leadership and team training through tabletop games; inquiry form |
 | `/lounges/` | The Lounges | The membership lounge vision and the network idea |
 | `/lounges/indianapolis/` | Indianapolis | The first lounge: what it will be, plus a waitlist signup |

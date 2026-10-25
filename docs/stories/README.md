@@ -1,31 +1,33 @@
 # The recurring stories
 
-Three stories run on a fixed calendar from the Ludometer and the industry pages (plan sections 7 and 8). They need data that does not exist yet: the Ludometer's own snapshots start the day the Worker is deployed, and the first Shelf Life report checks the SPIEL 2026 cohort at three months on January 26, 2027. This file holds the templates and checklists so each issue is assembly, not invention.
+Three stories run on a fixed calendar from On the Table and the industry pages (plan sections 7 and 8, where the index is called the Ludometer; it is On the Table, the tracker in `theludarium/on-the-table`). They need history that does not exist yet: On the Table's first public chart is planned for Monday, January 4, 2027, after eight weeks of history, and the first Shelf Life report checks the SPIEL 2026 cohort at three months on January 26, 2027. This file holds the templates and checklists so each issue is assembly, not invention.
+
+**What a story may say about the list.** On the Table's ground rules limit public output to rank, last week's rank, movement, weeks on the list, the game's name, year and publisher, the "why it's moving" tag, and Ludarium links. Never quote scores, weights or sub-scores. BoardGameGeek numbers stay out of every story until BGG approves in writing; quoting BGG's own public Hotness page as editorial comment is fine.
 
 | Story | Cadence | First issue | Where |
 | --- | --- | --- | --- |
-| Ludometer Reading | Weekly, Tuesday 7 am ET | November 3, 2026 (by hand from BGG's public Hotness page until the license) | Ludarium Letters section; mirrored on /ludometer once live |
+| On the Table this week | Weekly, Tuesday 7 am ET | November 3, 2026 (by hand until the public list runs) | Ludarium Letters section, pointing to /on-the-table once it is public |
 | Shelf Life | Quarterly, last Tuesday of Jan, Apr, Jul, Oct | January 26, 2027 | Site article (Game Culture), newsletter summary, video |
 | The Ludarium Ledger | Quarterly, last Thursday of Jan, Apr, Jul, Oct | January 28, 2027 | Site column (Game Culture), newsletter summary |
 
-## Ludometer Reading (400 to 600 words)
+## On the Table this week (400 to 600 words)
 
 1. One-sentence read of the week.
-2. Three to five movers. For each: the game, what moved (attention rank and Ludarium plays), the trigger (release, award, convention, video, crowdfunding), a verdict (hot or lasting), and one action (teach sheet, course, Watch this game).
-3. Hot against played: one game high on attention but not on tables, and one the reverse.
+2. Three to five movers. For each: the game, how it moved (rank and weeks on the list), the trigger (release, award, convention, video, crowdfunding: On the Table's "why it's moving" tag), a verdict (hot or lasting), and one action (teach sheet, course, article).
+3. Hot against played: one game drawing attention that few readers are learning or logging, and one the reverse.
 4. Next week's triggers.
 
-**Verdict rule** (say which one fired): *hot* when the trigger is a one-off event and the rating count is still small; *lasting* when the rating count has grown three weeks running and plays show up in the app.
+**Verdict rule** (say which one fired): *hot* when the trigger is a one-off event and the game is new to the list; *lasting* when it has held the list three weeks running and readers are taking its course or printing its teach sheet.
 
-**Monday, about 90 minutes:** pull the movers (the Worker's admin page, or BGG's public Hotness page by hand until then) · find each trigger and link it · write 60 words per mover, the pair, and next week · paste into the Kit broadcast template (the Worker's `/api/ludometer/admin/broadcast` drafts it) and schedule for Tuesday 7 am ET · Thursday: one Short on the top mover.
+**Monday, about 90 minutes:** read the week's chart and movers in the On the Table watch app (until the public list runs, write from the watch app and BGG's public Hotness page as editorial comment) · find each trigger and link it · write 60 words per mover, the pair, and next week · paste into the Kit broadcast template and schedule for Tuesday 7 am ET · Thursday: one Short on the top mover.
 
 The first five issues are decided: November 3 (what stuck after SPIEL), November 10 and 17 (the pre-BGG.CON watch, with Wave 1 courses as the actions), November 24 (BGG.CON, November 18 to 22), December 8 (PAX Unplugged, December 4 to 6).
 
 ## Shelf Life (1,200 words, one chart, one dataset)
 
-The cohort is every game that entered the attention list in a quarter, revisited at 3, 6 and 12 months: rank then and now, rating-count growth, average-rating change, owner growth, Ludarium plays, and a verdict (graduated, faded, too early). Open with the cohort's graduation rate, show the chart, name the three graduates and the three biggest fades, close with what the pattern says about next quarter. Say plainly how far back the data goes.
+The cohort is every game that entered On the Table in a quarter, revisited at 3, 6 and 12 months: rank then and now, weeks on the list, what readers did with it on the site (courses started, teach sheets printed), and a verdict (graduated, faded, too early). BGG measures such as rating-count growth join only once BGG approves their use in writing. Open with the cohort's graduation rate, show the chart, name the three graduates and the three biggest fades, close with what the pattern says about next quarter. Say plainly how far back the data goes.
 
-**Working graduation rule** (calibrate after two reports): still inside BGG's top 500, rating count at least three times its first-week figure, average rating within 0.2 points of where it started.
+**Working graduation rule** (calibrate after two reports): still on the list, or back on it, at the check; held the list at least six of its first twelve weeks; and still drawing course or teach sheet use. Add the BGG test (still in BGG's top 500, rating count at least three times its first-week figure, average within 0.2 points) if BGG approves.
 
 **Components (MDX article):**
 
@@ -35,18 +37,18 @@ import GatedDownload from '@/components/mdx/GatedDownload.astro';
 
 <ScatterChart
   title="SPIEL 2026 cohort at three months"
-  xLabel="Rating count growth" xSuffix="x"
-  yLabel="Average rating change"
+  xLabel="Weeks on the list"
+  yLabel="Rank change since entry"
   groups={['Graduated', 'Faded', 'Too early']}
-  points={[{ label: 'Game', x: 3.4, y: 0.05, group: 'Graduated' }]}
+  points={[{ label: 'Game', x: 9, y: 6, group: 'Graduated' }]}
   labelled={['Game']}
-  source="The Ludarium's daily snapshots of BGG data. Powered by BGG."
+  source="On the Table, The Ludarium's weekly chart."
 />
 
 <GatedDownload kind="dataset" title="Get the cohort data" text="Every game in the cohort, every measure, as a CSV." />
 ```
 
-**Two days:** day 1 pull the cohort and export the CSV · day 2 compute the rate, chart, write, QA every figure against the data, publish with the gated CSV, send the summary, record the video.
+**Two days:** day 1 pull the cohort from the watch app and export the CSV (public fields only) · day 2 compute the rate, chart, write, QA every figure against the data, publish with the gated CSV, send the summary, record the video.
 
 ## The Ludarium Ledger (1,000 words, one chart)
 
