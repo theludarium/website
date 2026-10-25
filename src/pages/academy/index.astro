@@ -139,7 +139,11 @@ const groups = (['Board games', 'Trading card games', 'Game library'] as const)
             <ul class="academy-start__grid">
               {startHere.map((course) => (
                 <li class="card academy-start__card">
-                  {course.image && <img class="academy-start__art" src={course.image} alt="" width="640" height="360" loading="lazy" />}
+                  {course.image && (
+                    <a class="academy-art-link" href={course.href} tabindex="-1" aria-hidden="true">
+                      <img class="academy-start__art" src={course.image} alt="" width="640" height="360" loading="lazy" />
+                    </a>
+                  )}
                   <p class="eyebrow">{course.game}</p>
                   <h4>
                     <a href={course.href}>{course.title}</a>
@@ -162,7 +166,11 @@ const groups = (['Board games', 'Trading card games', 'Game library'] as const)
             <div class="academy-catalog__grid">
               {group.cards.map((course) => (
                 <article class="card academy-course">
-                  {course.image && <img class="academy-course__art" src={course.image} alt="" width="640" height="360" loading="lazy" />}
+                  {course.image && (
+                    <a class="academy-art-link" href={course.href} tabindex="-1" aria-hidden="true">
+                      <img class="academy-course__art" src={course.image} alt="" width="640" height="360" loading="lazy" />
+                    </a>
+                  )}
                   <p class="eyebrow">
                     {course.track} &middot; Free
                   </p>
@@ -244,6 +252,20 @@ const groups = (['Board games', 'Trading card games', 'Game library'] as const)
     margin: 0;
     font-size: var(--text-lg);
     color: var(--color-text-muted);
+  }
+
+  /* The card art links to the course too. It is skipped by keyboard and screen
+     readers, since the title link right below goes to the same page. */
+  .academy-art-link {
+    display: block;
+  }
+
+  .academy-art-link img {
+    transition: opacity 0.2s ease;
+  }
+
+  .academy-art-link:hover img {
+    opacity: 0.9;
   }
 
   .academy-start {
