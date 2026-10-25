@@ -12,6 +12,10 @@ import { GAME_SHELF_COURSE, GAME_SHELF_SERIES } from '@/lib/game-shelf';
 import { FORMAT_LABEL, courseLessonUrl, courseTrack, courseUrl, getCourseLessons, getGameCourses, lessonHasPage } from '@/lib/courses';
 
 interface CatalogCard {
+  /** The course slug, used to pick the Start here cards. */
+  slug: string;
+  /** The game's name, for the Start here cards. */
+  game: string;
   /** Catalog section the card sits in. */
   group: 'Board games' | 'Trading card games' | 'Game library';
   track: string;
@@ -35,6 +39,8 @@ const lessonCourses: CatalogCard[] = await Promise.all(
     const live = lessons.filter((l) => !l.data.draft);
     const first = live[0];
     return {
+      slug: course.slug,
+      game: course.shortTitle,
       group: 'Board games' as const,
       track: 'Game strategy',
       title: course.title,
@@ -52,6 +58,8 @@ const shelfSlugs = GAME_SHELF_SERIES.flatMap((s) => s.articles.map((a) => a.slug
 const shelfLive = shelfSlugs.filter((slug) => articles.find((a) => a.id === slug && !a.data.draft));
 const shelfFirst = articles.find((a) => a.id === shelfSlugs[0]);
 const shelfCourse: CatalogCard = {
+  slug: GAME_SHELF_COURSE.slug,
+  game: GAME_SHELF_COURSE.title,
   group: 'Game library',
   track: GAME_SHELF_COURSE.track,
   title: GAME_SHELF_COURSE.title,
@@ -71,6 +79,8 @@ const gameCourses: CatalogCard[] = await Promise.all(
     const first = lessons.find((l) => l.data.order === 1);
     const d = course.data;
     return {
+      slug: course.id,
+      game: d.game,
       group: courseTrack(course),
       track: `${d.game} · ${FORMAT_LABEL[d.format]}`,
       title: d.title,
@@ -89,6 +99,11 @@ const gameCourses: CatalogCard[] = await Promise.all(
 );
 
 const catalog = [...lessonCourses, ...gameCourses, shelfCourse];
+
+// The Start here row: the games with the biggest audiences, including the two
+// largest card games, so newcomers see them first. Each still appears in its group.
+const START_HERE = ['catan', 'ticket-to-ride', 'wingspan', 'codenames', 'pokemon-tcg', 'magic'];
+const startHere = START_HERE.map((slug) => catalog.find((c) => c.slug === slug)).filter((c): c is CatalogCard => Boolean(c));
 const groups = (['Board games', 'Trading card games', 'Game library'] as const)
   .map((name) => ({ name, cards: catalog.filter((c) => c.group === name) }))
   .filter((g) => g.cards.length > 0);
@@ -116,6 +131,30 @@ const groups = (['Board games', 'Trading card games', 'Game library'] as const)
         <h2 id="academy-catalog-title">Courses</h2>
         <p>Every course is free to read, start to finish.</p>
       </div>
+      {
+        startHere.length > 0 && (
+          <div class="academy-start">
+            <h3 class="academy-group__title">Start here</h3>
+            <p class="academy-start__sub">The games most players already own, each from lesson one.</p>
+            <ul class="academy-start__grid">
+              {startHere.map((course) => (
+                <li class="card academy-start__card">
+                  {course.image && <img class="academy-start__art" src={course.image} alt="" width="640" height="360" loading="lazy" />}
+                  <p class="eyebrow">{course.game}</p>
+                  <h4>
+                    <a href={course.href}>{course.title}</a>
+                  </h4>
+                  {course.first && (
+                    <a class="text-link" href={course.first.href}>
+                      {course.first.label}
+                    </a>
+                  )}
+                </li>
+              ))}
+            </ul>
+          </div>
+        )
+      }
       {
         groups.map((group) => (
           <div class="academy-group">
@@ -205,6 +244,62 @@ const groups = (['Board games', 'Trading card games', 'Game library'] as const)
     margin: 0;
     font-size: var(--text-lg);
     color: var(--color-text-muted);
+  }
+
+  .academy-start {
+    margin-bottom: var(--space-7);
+  }
+
+  .academy-start__sub {
+    margin: calc(-1 * var(--space-2)) 0 var(--space-4);
+    color: var(--color-text-muted);
+  }
+
+  .academy-start__grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 14rem), 1fr));
+    gap: var(--space-4);
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .academy-start__card {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-2);
+  }
+
+  .academy-start__card .eyebrow {
+    margin: 0;
+  }
+
+  .academy-start__card h4 {
+    margin: 0;
+    font-size: var(--text-lg);
+  }
+
+  .academy-start__card h4 a {
+    text-decoration: none;
+  }
+
+  .academy-start__card h4 a:hover {
+    text-decoration: underline;
+  }
+
+  .academy-start__card .text-link {
+    margin-top: auto;
+  }
+
+  .academy-start__art {
+    display: block;
+    width: calc(100% + 2 * var(--space-6));
+    max-width: none;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    margin: calc(-1 * var(--space-6)) calc(-1 * var(--space-6)) var(--space-3);
+    border-radius: calc(var(--radius-card) - 1px) calc(var(--radius-card) - 1px) 0 0;
+    object-fit: cover;
   }
 
   .academy-group + .academy-group {

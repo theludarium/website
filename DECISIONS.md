@@ -361,3 +361,9 @@ Levi liked Catan's Level 0 to 5 structure (learn to play up to expert) and asked
 - **How it is built:** `levels` in the course YAML and `level` on each lesson. The course page groups lessons by level, each lesson shows its level, and `check-course.mjs` enforces the ladder (orders 1 to N, levels never step down, at least 2 lessons a level). The guide is the "Level ladders" section of `docs/academy/COURSES.md`.
 - **Same quality bar as the first push.** Every course was extended by one agent and then checked by a second that re-read the official rules, recomputed every probability, and fixed or marked what it could not confirm. Several real rules errors were caught that way (Codenames Duet guessing, Cascadia's Salmon C, King of Tokyo knockout math, Lorcana's ink and keywords, Castles of Burgundy's depots). Open questions stay as VERIFY markers, Levi's own notes as AT OUR TABLE markers.
 - **Riftbound stays a draft** until Riot answers in writing.
+
+## 2026-10-25: Academy catalog ordered for reach
+
+- **Biggest audiences first.** Within each group the Academy cards now run by audience size and beginner appeal (Ticket to Ride, Wingspan, Codenames, Azul, Carcassonne, Pandemic first; Power Grid and Castles of Burgundy last), not by the wave they were written in. The first cards on a long page get most clicks, and newcomers sign up most. Card games lead with Pokémon and Magic.
+- **A "Start here" row** above the groups shows Catan, Ticket to Ride, Wingspan, Codenames, Pokémon and Magic, so the two biggest card games are not buried under 26 board game cards. Each still appears in its group.
+- **The order is an estimate.** Once On the Table has a few months of views and signups per game, those numbers should set it. Notes in the "Catalog order" section of `docs/academy/COURSES.md`.
