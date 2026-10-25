@@ -52,7 +52,7 @@ Check a course before handing it in: `node scripts/check-course.mjs <slug>`. Zer
 title: "Tile by Tile"                      # our own course title; the game is named in `game`
 game: "Carcassonne"
 format: full                               # full | masterclass | teach-tonight | tcg
-order: 110                                 # catalog order: wave * 100 + position
+order: 110                                 # catalog order: biggest audience first (see Catalog order below)
 wave: "1"
 draft: false
 publisher: "Z-Man Games"
@@ -167,3 +167,7 @@ The `afterLesson3` and `afterLesson8` fields stay (the schema needs them) but th
 **In each lesson:** `level: N` in the frontmatter, and `order` runs 1 to N across the whole course with no gaps, never going down a level. Each level has at least 2 lessons. Lessons 1 and 2 (how to play, how to teach) are always Level 0. Keep every existing lesson, renumbered to its place in the ladder; edit any text or `nextTeaser` that refers to lesson numbers or "the last lesson". The old lesson 8 (compete or play more) belongs at the top level.
 
 **Writing the new lessons:** same rules as every lesson (600 to 900 words, one idea, `oneIdea`, `tryThis`, `nextTeaser`, sources, VERIFY markers, no first-person play stories, no em dashes). Each level builds on the one below: a reader finishing Level 1 should have something real to do better at Level 2. Advanced and top-level lessons can go deep (specific openings, card or tile evaluation, probability, timing, reading opponents, tournament formats and rules, practice plans), but every claim about strategy must be defensible and every rule claim sourced. Link the game's existing Ludarium articles where they help.
+
+## Catalog order (October 25, 2026)
+
+The Academy page is ordered for reach, not by when a course was written. Within each group, the course `order` puts the games with the biggest audiences first, then the strong and growing ones, then the hobby favorites: the first cards on a long page get most of the clicks, and newcomers are the readers most likely to sign up. A new course slots in by audience size. A "Start here" row above the groups shows six picks (`START_HERE` in `src/pages/academy/index.astro`), including the two biggest card games, so they are not buried under the board games. Once On the Table has a few months of views and signups per game, let those numbers set the order instead of this estimate.
