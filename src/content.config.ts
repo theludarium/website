@@ -7,6 +7,13 @@ import { KIT_OFFER_KEYS } from '@/lib/config';
 
 const categoryNames = CATEGORIES.map((c) => c.name) as [string, ...string[]];
 
+// The games a page is about, as On the Table slugs (the tracker's game list,
+// theludarium/on-the-table data/games_seed.csv). Each page lists every game it
+// covers; they become <meta name="ott:games"> and the page's /ott-manifest.json entry.
+const games = z
+  .array(z.string().regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/, 'Game slugs are lowercase words joined by hyphens, like "ticket-to-ride".'))
+  .default([]);
+
 // Frontmatter contract for every article (see CLAUDE.md, "Article content model").
 // Files live in src/content/articles/; the file name becomes the URL slug.
 const articles = defineCollection({
@@ -26,6 +33,7 @@ const articles = defineCollection({
         heroImage: image().optional(),
         heroAlt: z.string().optional(),
         draft: z.boolean().default(false),
+        games,
         // Optional newsletter offer (a key of KIT_OFFER_FORMS in src/lib/config.ts):
         // swaps the end-of-article signup for that offer's copy and Kit form.
         offer: z.enum(KIT_OFFER_KEYS).optional(),
@@ -73,6 +81,8 @@ const lessons = defineCollection({
       pubDate: z.coerce.date(),
       updatedDate: z.coerce.date().optional(),
       draft: z.boolean().default(false),
+      // Games beyond the course's own (a lesson's page lists both).
+      games,
       oneIdea: z.string().optional(),
       levelCheck: z.array(levelCheckQuestion).max(3).optional(),
       nextTeaser: z.string().optional(),

@@ -3,6 +3,7 @@ title: "How to Build a Cube MTG: Your First Cube Under $200"
 description: "Learn how to build a cube MTG players will want to draft again. A step-by-step plan for a 360-card first cube under $200, from card list to sleeves to box."
 pubDate: 2026-10-22
 category: Magic & Cube
+games: [magic-the-gathering]
 tags: ["how to build a cube MTG", "budget cube", "first cube", "360 card cube", "cube card list", "cube on a budget", "Magic: The Gathering and Cube"]
 draft: false
 ---

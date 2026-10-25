@@ -12,7 +12,7 @@
     "preview": "astro preview",
     "astro": "astro",
     "check": "astro check",
-    "test": "node --test 'tests/**/*.test.ts'",
+    "test": "node --test 'tests/**/*.test.{mjs,ts}'",
     "dev:functions": "wrangler pages dev dist --port 8788",
     "db:migrate:local": "wrangler d1 migrations apply ludarium-visitors --local",
     "db:migrate": "wrangler d1 migrations apply ludarium-visitors --remote"
