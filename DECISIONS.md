@@ -344,3 +344,9 @@ Levi's "Ludarium Content Plan: Academy, TCGs, and the Hotness" (October 24, 2026
 - **One game index: On the Table.** The plan's index, called the Ludometer there, is the On the Table tracker that was already live (`theludarium/on-the-table`). Levi's call on 2026-10-24: one engine and one name. A BGG-based Ludometer Worker and preview-only `/ludometer/` pages were built on this branch first and then removed before merging; the useful parts are written up for On the Table's later phases in that repo. The plan's weekly section becomes "On the Table this week".
 - **The Catan course now carries an unofficial notice** on the course page and every lesson.
 - **Every course carries On the Table game tags** (`games` in the course YAML): its course page, lessons and teach sheet get `ott:games`, the teach sheet PDF links count as downloads, and `/ott-manifest.json` lists them (teach sheets as `teach_sheet`). The Pokémon, One Piece, Lorcana, Riftbound and Yu-Gi-Oh! courses stay untagged until those games join On the Table's game list.
+
+## 2026-10-25: Every Academy lesson is open
+
+- **All lessons of every game course are public pages,** indexed, in the sitemap and in site search. Until now board game lessons past the first two (the first one for masterclasses) were noindex pages reached only from the emails. Levi's call: readers should see they have the whole course, and the email is for people who want the course paced over time, not a gate. The signup stays on every course page and lesson.
+- **What changed:** the `PUBLIC_LESSONS` limit and the matching sitemap filter are gone, every lesson on a course page links, and the course page says every lesson is free to read and that signing up sends them one at a time. The Academy page and the Wave 1 gift guide say the same.
+- **One thing to revisit:** the plan drafts paid strategy guides from the masterclass lessons. Those lessons are now free in full, so a paid guide has to add something beyond them.

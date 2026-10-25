@@ -2,8 +2,7 @@
 // One game course lesson. Same reading layout as articles and the Catan
 // lessons: the lesson badge, the one idea, the body, the "at your next game"
 // line, the next-lesson teaser, the pager, the signup, and the unofficial
-// notice. Lessons past the course's public ones are noindex (they are reached
-// from the emails), and stay out of the sitemap and site search.
+// notice. Every lesson is a public page.
 import { render } from 'astro:content';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import CourseForm from '@/components/CourseForm.astro';
@@ -18,7 +17,6 @@ import {
   getCourseLessons,
   getGameCourses,
   lessonHasPage,
-  lessonIsPublic,
   type CourseLesson,
   type GameCourse,
 } from '@/lib/courses';
@@ -56,11 +54,9 @@ const total = all.length;
 const minutes = courseLessonMinutes(lesson);
 const showToc = headings.filter((h) => h.depth === 2).length >= 3;
 const home = courseUrl(course);
-const isPublic = lessonIsPublic(course, lesson);
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 const image = `/og/academy/${course.id}/${courseLessonSlug(lesson)}.png`;
-// A neighbor is linked when it has a page and is public, or when this lesson is itself email-only (the reader has the course).
-const linkable = (l: CourseLesson) => lessonHasPage(l) && (lessonIsPublic(course, l) || !isPublic || l.data.draft);
+const linkable = (l: CourseLesson) => lessonHasPage(l);
 
 const structuredData = [
   {
@@ -100,7 +96,7 @@ const structuredData = [
   description={description}
   image={image}
   imageAlt={`${d.title}, lesson ${order}: ${title}`}
-  noindex={draft || d.draft || !isPublic}
+  noindex={draft || d.draft}
   games={courseLessonGames(course, lesson)}
 >
   <script slot="head" type="application/ld+json" set:html={JSON.stringify(structuredData)} />
@@ -154,7 +150,7 @@ const structuredData = [
               <p class="eyebrow">Next lesson</p>
               <h2 id="lesson-next-title">{linkable(next) ? <a href={courseLessonUrl(next)}>{next.data.title}</a> : next.data.title}</h2>
               {nextTeaser && <p>{nextTeaser}</p>}
-              {!linkable(next) && <p class="lesson__soon">Lessons {next.data.order} to {total} arrive by email. Sign up below and lesson one arrives right away.</p>}
+              {!linkable(next) && <p class="lesson__soon">Coming soon. Sign up below to get the lessons by email as they are released.</p>}
             </section>
           )
         }

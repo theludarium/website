@@ -17,12 +17,12 @@ Check a course before handing it in: `node scripts/check-course.mjs <slug>`. Zer
 
 ## Formats
 
-| Format | Lessons | Public lessons | Notes |
-| --- | --- | --- | --- |
-| `full` | 8 | 1 and 2 | Lessons 3 to 8 are unlisted pages reached from the emails |
-| `masterclass` | 7 | 1 | Lesson 1 is learn and teach together; lessons 2 to 7 go deep (they draft a paid guide later, but the free lessons must stand on their own) |
-| `teach-tonight` | 2 | both | The teach sheet is the product. Lesson 1: how to play, walking the sheet. Lesson 2: run a great first game |
-| `tcg` | 8 | all | Every lesson is public, never gated |
+| Format | Lessons | Notes |
+| --- | --- | --- |
+| `full` | 8 | Every lesson in every format is a public page; the emails pace the same lessons |
+| `masterclass` | 7 | Lesson 1 is learn and teach together; lessons 2 to 7 go deep (they draft a paid guide later, but the free lessons must stand on their own) |
+| `teach-tonight` | 2 | The teach sheet is the product. Lesson 1: how to play, walking the sheet. Lesson 2: run a great first game |
+| `tcg` | 8 | |
 
 ### Full course lessons
 

@@ -4,9 +4,8 @@
 // docs/academy/COURSES.md: hero with the signup and the teach sheet, outcomes
 // after lesson 3 and lesson 8, the lesson list, the video slot, who it is for,
 // the FAQ (with FAQPage schema), related articles, and the unofficial notice.
-// Board game lessons past the public ones are listed by title only; they are
-// reached from the emails. TCG lessons are all public, and TCG pages add a
-// set-alerts form and a local-play link.
+// Every lesson is a public page; the emails pace the same lessons over time.
+// TCG pages add a set-alerts form and a local-play link.
 import { getCollection } from 'astro:content';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import CourseForm from '@/components/CourseForm.astro';
@@ -17,7 +16,6 @@ import {
   getCourseLessons,
   getGameCourses,
   lessonHasPage,
-  lessonIsPublic,
   setupDiagramUrl,
   teachSheetPdfUrl,
   teachSheetUrl,
@@ -67,7 +65,7 @@ const structuredData = [
     offers: { '@type': 'Offer', category: 'Free', price: 0, priceCurrency: 'USD' },
     hasCourseInstance: { '@type': 'CourseInstance', courseMode: 'Online', courseWorkload: `PT${Math.max(1, lessonCount) * 6}M` },
     hasPart: lessons
-      .filter((l) => !l.data.draft && lessonIsPublic(course, l))
+      .filter((l) => !l.data.draft)
       .map((l) => ({ '@type': 'LearningResource', name: l.data.title, url: new URL(courseLessonUrl(l), SITE.url).href, position: l.data.order })),
   },
   {
@@ -143,27 +141,23 @@ const structuredData = [
       <ol class="course-lessons__list">
         {
           lessons.map((lesson) => {
-            const linked = lessonHasPage(lesson) && (lessonIsPublic(course, lesson) || lesson.data.draft);
+            const linked = lessonHasPage(lesson);
             return (
               <li>
                 <span class="course-lessons__num">{lesson.data.order}</span>
                 <span class="course-lessons__text">
                   {linked ? <a href={courseLessonUrl(lesson)}>{lesson.data.title}</a> : <span>{lesson.data.title}</span>}
                   {lesson.data.draft && lessonHasPage(lesson) && <span class="draft-badge">Draft</span>}
-                  {!lessonIsPublic(course, lesson) && <span class="course-lessons__email">By email</span>}
                 </span>
               </li>
             );
           })
         }
       </ol>
-      {
-        lessons.some((l) => !lessonIsPublic(course, l)) && (
-          <p class="course-lessons__note">
-            Lessons 1 and 2 are free to read here. The rest arrive by email, one at a time, when you sign up.
-          </p>
-        )
-      }
+      <p class="course-lessons__note">
+        Every lesson is free to read here, any time. Sign up and they also arrive by email, one at a time, so the
+        course keeps you learning between game nights.
+      </p>
     </div>
   </section>
 
@@ -387,13 +381,6 @@ const structuredData = [
     color: var(--color-text);
   }
 
-  .course-lessons__email {
-    font-size: var(--text-xs);
-    font-weight: 700;
-    letter-spacing: 0.06em;
-    text-transform: uppercase;
-    color: var(--color-text-muted);
-  }
 
   .course-lessons__note {
     margin-top: var(--space-5);
