@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-labelledby="t d">
+  <title id="t">Root setup on the Autumn map, in the abstract</title>
+  <desc id="d">Twelve clearings linked by simplified paths. The Marquise keep, a sawmill, and one Marquise warrior sit in the top-left corner, with a workshop and a recruiter in clearings next to it and one Marquise warrior in every clearing except the bottom-right corner. The Eyrie roost and six warriors hold the bottom-right corner. The Vagabond pawn stands in a forest. A side panel lists what goes off the map.</desc>
+  <defs>
+    <circle id="mw" r="4" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+    <rect id="mb" width="10" height="10" rx="1.5" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+    <circle id="ew" r="3.2" fill="#2F5D50" stroke="#2B1E16" stroke-width="0.6"/>
+    <g id="pawn" fill="#2B1E16">
+      <circle cx="0" cy="0" r="4.5"/>
+      <path d="M-6 16 L-3.5 5 L3.5 5 L6 16 Z"/>
+    </g>
+  </defs>
+  <rect width="480" height="320" fill="#F6EFE3"/>
+  <g font-family="system-ui, sans-serif" font-size="12" fill="#2B1E16">
+
+    <!-- Map panel -->
+    <rect x="10" y="10" width="290" height="300" rx="12" fill="#2F5D50" fill-opacity="0.08" stroke="#B9AD9C" stroke-width="1.5"/>
+    <text x="22" y="28" font-size="13" font-weight="700">The Autumn map, in the abstract</text>
+    <text x="22" y="44" font-size="12" fill="#2F5D50">Paths simplified: follow your printed board</text>
+
+    <!-- Paths between clearings (simplified) -->
+    <g stroke="#B9AD9C" stroke-width="4" stroke-linecap="round">
+      <line x1="42" y1="90" x2="118" y2="82"/>
+      <line x1="118" y1="82" x2="196" y2="84"/>
+      <line x1="196" y1="84" x2="270" y2="92"/>
+      <line x1="42" y1="90" x2="66" y2="162"/>
+      <line x1="118" y1="82" x2="146" y2="154"/>
+      <line x1="196" y1="84" x2="232" y2="166"/>
+      <line x1="270" y1="92" x2="232" y2="166"/>
+      <line x1="66" y1="162" x2="146" y2="154"/>
+      <line x1="146" y1="154" x2="232" y2="166"/>
+      <line x1="66" y1="162" x2="42" y2="276"/>
+      <line x1="66" y1="162" x2="108" y2="228"/>
+      <line x1="146" y1="154" x2="192" y2="222"/>
+      <line x1="232" y1="166" x2="270" y2="276"/>
+      <line x1="108" y1="228" x2="192" y2="222"/>
+      <line x1="108" y1="228" x2="42" y2="276"/>
+      <line x1="108" y1="228" x2="142" y2="284"/>
+      <line x1="192" y1="222" x2="270" y2="276"/>
+      <line x1="42" y1="276" x2="142" y2="284"/>
+      <line x1="142" y1="284" x2="270" y2="276"/>
+    </g>
+
+    <!-- Twelve clearings -->
+    <g fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.5">
+      <circle cx="42" cy="90" r="18"/>
+      <circle cx="118" cy="82" r="18"/>
+      <circle cx="196" cy="84" r="18"/>
+      <circle cx="270" cy="92" r="18"/>
+      <circle cx="66" cy="162" r="18"/>
+      <circle cx="146" cy="154" r="18"/>
+      <circle cx="232" cy="166" r="18"/>
+      <circle cx="108" cy="228" r="18"/>
+      <circle cx="192" cy="222" r="18"/>
+      <circle cx="42" cy="276" r="18"/>
+      <circle cx="142" cy="284" r="18"/>
+      <circle cx="270" cy="276" r="18"/>
+    </g>
+
+    <!-- Marquise: keep and sawmill in the corner, workshop and recruiter next door -->
+    <path d="M35 93.5 L39.5 98 L35 102.5 L30.5 98 Z" fill="#E0A23B" stroke="#2B1E16" stroke-width="1"/>
+    <use href="#mb" x="30" y="79"/>
+    <use href="#mb" x="106" y="71"/>
+    <use href="#mb" x="54" y="151"/>
+    <text x="42" y="66" font-size="12" text-anchor="middle" font-weight="700">Keep</text>
+
+    <!-- One Marquise warrior in every clearing except the far corner (11) -->
+    <use href="#mw" x="50" y="96"/>
+    <use href="#mw" x="126" y="88"/>
+    <use href="#mw" x="204" y="90"/>
+    <use href="#mw" x="278" y="98"/>
+    <use href="#mw" x="74" y="168"/>
+    <use href="#mw" x="154" y="160"/>
+    <use href="#mw" x="240" y="172"/>
+    <use href="#mw" x="116" y="234"/>
+    <use href="#mw" x="200" y="228"/>
+    <use href="#mw" x="50" y="282"/>
+    <use href="#mw" x="150" y="290"/>
+
+    <!-- Eyrie: roost and 6 warriors in the diagonally opposite corner -->
+    <rect x="265" y="271" width="10" height="10" rx="1.5" fill="#2F5D50" stroke="#2B1E16" stroke-width="0.8"/>
+    <use href="#ew" x="281" y="276"/>
+    <use href="#ew" x="275.5" y="285.5"/>
+    <use href="#ew" x="264.5" y="285.5"/>
+    <use href="#ew" x="259" y="276"/>
+    <use href="#ew" x="264.5" y="266.5"/>
+    <use href="#ew" x="275.5" y="266.5"/>
+    <text x="248" y="304" text-anchor="end" font-weight="700">Eyrie start</text>
+
+    <!-- Vagabond pawn in a forest -->
+    <use href="#pawn" x="178" y="100"/>
+    <text x="178" y="130" text-anchor="middle" font-size="12" font-weight="700">Vagabond</text>
+
+    <!-- Side panel: off the map -->
+    <rect x="308" y="10" width="162" height="300" rx="12" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.5"/>
+    <text x="318" y="30" font-size="13" font-weight="700">Off the map</text>
+    <text x="318" y="50">Scores: all on 0</text>
+    <text x="318" y="68">Item supply: 12 items</text>
+    <text x="318" y="86">Each player: 3 cards</text>
+    <text x="318" y="104">Alliance: 3 supporters,</text>
+    <text x="318" y="119" font-size="12">none on the map yet</text>
+    <text x="318" y="137">Vagabond: 3 quests,</text>
+    <text x="318" y="152" font-size="12">an item under each ruin</text>
+    <text x="318" y="170">Ruins: 4, on R slots</text>
+    <line x1="318" y1="182" x2="460" y2="182" stroke="#B9AD9C" stroke-width="1"/>
+
+    <!-- Legend -->
+    <use href="#mw" x="322" y="196"/>
+    <text x="334" y="200">Marquise warrior</text>
+    <use href="#mb" x="317" y="209"/>
+    <text x="334" y="218">Marquise building</text>
+    <path d="M322 227.5 L326.5 232 L322 236.5 L317.5 232 Z" fill="#E0A23B" stroke="#2B1E16" stroke-width="1"/>
+    <text x="334" y="236">Keep token</text>
+    <use href="#ew" x="322" y="250"/>
+    <text x="334" y="254">Eyrie warrior</text>
+    <rect x="317" y="263" width="10" height="10" rx="1.5" fill="#2F5D50" stroke="#2B1E16" stroke-width="0.8"/>
+    <text x="334" y="272">Eyrie roost</text>
+    <g transform="translate(322 283) scale(0.8)"><use href="#pawn"/></g>
+    <text x="334" y="294">Vagabond pawn</text>
+  </g>
+</svg>

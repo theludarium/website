@@ -1,0 +1,73 @@
+title: "Bid, Burn, Build"
+game: "Power Grid"
+format: full
+order: 430
+wave: "4"
+draft: false
+publisher: "2F-Spiele; published in English by Rio Grande Games"
+# VERIFY: no 2F-Spiele or Rio Grande Games fan content or IP policy was found (2f-spiele.de and 2f-games.com show none, and riograndegames.com could not be opened by the research tools). The trademark owner of "Power Grid" and "Funkenschlag" was not confirmed in a trademark database, so this uses "their respective owners". Confirm before launch.
+notice: "Unofficial. Not affiliated with 2F-Spiele or Rio Grande Games. Power Grid and Funkenschlag are trademarks of their respective owners."
+# Recharged is the current edition: 2F-Spiele's game family page lists it as the Recharged Version of 2019, its newest core game, and names Rio Grande Games among its licensed partners for that version.
+# VERIFY: the English Rio Grande rulebook could not be opened (riograndegames.com blocks the research tools), so the lessons follow 2F-Spiele's official German Recharged rulebook and the April 2020 errata. Check the English terms against Rio Grande's rulebook: the phase names, "discount token", "payout card", "refill card", and the name of the two-player rival company.
+rulesEdition: "Power Grid Recharged (Funkenschlag Recharged Version), the current edition: 2F-Spiele rulebook, rules copyright 2018, plus 2F-Spiele's 2020 errata for older expansions. Rio Grande Games publishes the English edition."
+rulesSource: "https://2f-spiele.de/pdf/funkenschlag-recharged-anleitung_de.pdf"
+players: "2 to 6"
+playTime: "About 120 minutes"
+ages: "Ages 12 and up"
+promise: "Learn Power Grid Recharged, teach it in ten minutes, and win the auctions, fuel fights, and city races that decide who keeps the lights on."
+description: "A free Power Grid course: learn the Recharged rules, teach them in ten minutes, then master auctions, fuel, turn order, endgame math, expansions, and WBC play."
+audience:
+  - "New players who want the five phases clear before the first auction."
+  - "Hosts who teach Power Grid to a group that has never seen it."
+  - "Players who keep finishing one Elektro short and want to know why."
+  - "Anyone curious about expansion maps, two-player rules, and tournament play."
+afterLesson3: "Teach and play a clean game of Power Grid Recharged, without the rules slips and money traps that catch most new tables."
+afterLesson8: "Plan your first three rounds, read the fuel market and turn order in the midgame, count the final round to the Elektro, choose expansion maps, and find a tournament."
+faq:
+  - q: "What is the phase order in Power Grid?"
+    a: "Every round has five phases: determine player order, auction power plants, buy resources, build, and bureaucracy. The leader goes first in the auction, but last when buying resources and building. That is the game's built-in catch-up."
+  - q: "Who wins Power Grid?"
+    a: "The game ends after the build phase in which someone reaches the end trigger, such as 17 cities with 3 or 4 players. The winner is whoever powers the most cities in that final bureaucracy, not whoever has the most cities. Ties go to the player with the most money left."
+  - q: "How does the resource market refill in Power Grid?"
+    a: "In bureaucracy, you add markers from the supply as the refill card for your player count and step shows. You fill the most expensive empty spaces first. Fuel that players burn goes back to the supply, not straight onto the market."
+  - q: "How much does it cost to build a city in Power Grid?"
+    a: "You pay the city space, 10, 15, or 20 Elektro, plus the cheapest route of connections from a city already in your network. In Step 1 each city holds one house, two in Step 2, and three in Step 3, and you always take the cheapest open space."
+  - q: "What changed in Power Grid Recharged?"
+    a: "Compared with the classic edition, Recharged starts with a random market of plants 03 to 15, puts a discount token on the smallest plant every auction phase, and adds two-player rules with a rival company. Plants also no longer leave the market when a player's city count reaches their number."
+teachSheet:
+  goal: "Power the most cities when the game ends. Ties go to the player with the most money left."
+  setup:
+    - "Play on connected regions: 3 for 2 or 3 players, 4 for 4, 5 for 5 or 6."
+    - "Each player: 22 houses, 50 Elektro, a payout card, and a house on 0 of the cities track."
+    - "Draw a random turn order onto the top row of the turn order track."
+    - "Stock the market: coal 1 to 8, oil 3 to 8, garbage 6 to 8, uranium 14 and 16."
+    - "Deal 8 random plants from 03 to 15: smallest 4 are the current market, next 4 the future market."
+    - "Remove plants for your player count. Step 3 card on the bottom, one plug-back plant on top."
+  turn:
+    - "Player order: most cities first. Ties go to the higher-numbered plant."
+    - "Auction, leader first: pick a current plant, bid at least its number. At most one plant each."
+    - "Discount token: the smallest current plant opens at 1 Elektro."
+    - "Resources, last place first: a plant stores up to double its fuel."
+    - "Build, last place first: cheapest route plus 10, 15, or 20 per city."
+    - "Bureaucracy: power cities, get paid, refill the market, update the plant market."
+  scoring:
+    - "A plant powers its cities with exactly its fuel, once per round."
+    - "The payout card pays for each city you power. Powering none still pays 10."
+    - "Step 2 starts at 7 cities (6 with 6 players): second house in a city costs 15."
+    - "Step 3 starts the phase after its card is drawn: third house costs 20, all 6 plants for sale."
+  endGame: "After the build phase where someone reaches 18 cities (2 players), 17 (3 or 4), 15 (5), or 14 (6), run bureaucracy. Most cities powered wins; ties go to the most money left."
+  tips:
+    - "Do not rush the lead: last place buys fuel and builds first."
+    - "Pick plants that burn a fuel your neighbors do not."
+    - "Save cash for the final round: it is the biggest build of the game."
+diagramAlt: "Power Grid Recharged setup: the board with four connected regions in play for four players, every house on 0 of the cities track, a random turn order, the resource market stocked with coal, oil, garbage, and uranium, the power plant market with four current and four future plants, the draw pile, the discount token and auction hammer, the refill card, and each player's 22 houses, 50 Elektro, and payout card."
+related:
+  - "catch-up-mechanics-board-games"
+  - "board-game-balance-math"
+  - "kingmaking-board-games"
+  - "engine-building-games"
+  - "how-to-teach-a-board-game"
+  - "expansions-worth-it"
+  - "how-to-run-a-board-game-tournament"
+  - "how-to-start-a-play-group"
+  - "board-game-night-near-me"
