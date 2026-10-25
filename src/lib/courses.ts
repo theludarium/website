@@ -77,6 +77,11 @@ export function courseLessonMinutes(lesson: CourseLesson): number {
   return Math.max(1, Math.round(words / WORDS_PER_MINUTE));
 }
 
+/** A lesson page's On the Table games: its course's, plus any the lesson lists itself. */
+export function courseLessonGames(course: GameCourse, lesson: CourseLesson): string[] {
+  return [...new Set([...course.data.games, ...lesson.data.games])];
+}
+
 /** Diagram files live in public/academy/<slug>/. */
 export function setupDiagramUrl(course: GameCourse): string {
   return `/academy/${course.id}/setup.svg`;

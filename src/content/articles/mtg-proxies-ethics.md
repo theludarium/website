@@ -3,6 +3,7 @@ title: "MTG Proxies: Ethics, Etiquette, and Playing on a Budget"
 description: "Are MTG proxies cheating, theft, or common sense? A clear look at the ethics, where proxies are welcome, where they are not, and how to use them well."
 pubDate: 2026-10-22
 category: Magic & Cube
+games: [magic-the-gathering]
 tags: ["MTG proxies", "are proxies allowed in Magic", "proxy etiquette", "playtest cards", "proxy cube", "counterfeit vs proxy", "Magic: The Gathering and Cube"]
 draft: false
 ---

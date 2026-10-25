@@ -10,6 +10,7 @@ import CourseForm from '@/components/CourseForm.astro';
 import CourseNotice from '@/components/CourseNotice.astro';
 import TableOfContents from '@/components/TableOfContents.astro';
 import {
+  courseLessonGames,
   courseLessonMinutes,
   courseLessonSlug,
   courseLessonUrl,
@@ -100,6 +101,7 @@ const structuredData = [
   image={image}
   imageAlt={`${d.title}, lesson ${order}: ${title}`}
   noindex={draft || d.draft || !isPublic}
+  games={courseLessonGames(course, lesson)}
 >
   <script slot="head" type="application/ld+json" set:html={JSON.stringify(structuredData)} />
 
