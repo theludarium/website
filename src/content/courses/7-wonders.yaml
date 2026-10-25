@@ -61,6 +61,7 @@ teachSheet:
     - "Watch your neighbors: you trade with them, fight them, and feed them cards."
     - "Duel: before you take a card, check what it uncovers."
 diagramAlt: "7 Wonders setup for four players: the Age I, II, and III decks, a discard space, the coin reserve, and the Conflict tokens in the middle of the table, and each player's Wonder board, Day side up, with a starting resource and 3 coins on it. Your left and right neighbors are marked; Ages I and III pass left, Age II passes right."
+games: [7-wonders, 7-wonders-duel]
 related:
   - "7-wonders-strategy"
   - "card-drafting-explained"

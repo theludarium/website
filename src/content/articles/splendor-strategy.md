@@ -3,6 +3,7 @@ title: "Splendor Strategy: The Engine, the Nobles, and Tempo"
 description: "Splendor strategy that wins against people who have played a hundred games: how to build an engine, when to reserve, how to read nobles, and tempo math."
 pubDate: 2026-10-20
 category: Game Guides
+games: [splendor]
 tags: ["Splendor strategy", "Splendor tips", "how to win Splendor", "Splendor nobles strategy", "Splendor reserving cards", "Splendor engine building", "Strategy guides"]
 draft: false
 ---

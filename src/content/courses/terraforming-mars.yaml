@@ -66,6 +66,7 @@ teachSheet:
     - "Keep only cards you can play soon. Each one costs 3 M€ just to keep."
     - "Watch the three tracks. When they near the top, switch from engine to points."
 diagramAlt: "Terraforming Mars setup: the game board with the oxygen marker on 0 percent, the temperature marker on minus 30 degrees, the 9 ocean tiles stacked on their space, and every TR marker on 20; the project deck, tile supply, and resource cubes beside it; and two player boards with production at 1 on all six tracks."
+games: [terraforming-mars]
 related:
   - "engine-building-games"
   - "tableau-board-games"

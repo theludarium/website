@@ -68,6 +68,7 @@ teachSheet:
     - "Deploy late when you can: the last player to commit knows the most."
     - "Watch the Alliance races; one step on a track can swing two points."
 diagramAlt: "Dune: Imperium setup: the game board with every player's cube at the bottom of the four Influence tracks and an Alliance token on each 4 space, three troops in each garrison around the Conflict area, the 10-card Conflict deck, the Mentat, and the score track. Below the board sit the Imperium deck, the five-card Imperium Row, the Intrigue deck, and the Reserve stacks. Each player has a Leader with two Agents, a 10-card deck, 1 water, and a Swordmaster beside the board."
+games: [dune-imperium, dune-imperium-uprising]
 related:
   - "deck-building-games-explained"
   - "worker-placement-explained"

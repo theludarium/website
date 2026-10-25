@@ -3,6 +3,7 @@ title: "Pandemic Board Game Explained: Why It Still Works"
 description: "The Pandemic board game explained in plain language: how it plays, why it was the first great co-op, and whether it still belongs on your table in 2026."
 pubDate: 2026-10-20
 category: Game Guides
+games: [pandemic]
 tags: ["Pandemic board game", "how to play Pandemic", "Pandemic board game rules", "Pandemic co-op", "Pandemic board game review", "Pandemic expansions", "Cooperative and campaign games"]
 draft: false
 ---

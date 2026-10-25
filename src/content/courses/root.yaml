@@ -66,6 +66,7 @@ teachSheet:
     - "Scores are public. Before each turn, check who is closest to 30 and who can stop them."
     - "Explain dominance cards when someone reaches 10 points, not before."
 diagramAlt: "An abstract Root setup on the Autumn map: twelve clearings linked by simplified paths. The Marquise keep and a sawmill sit in the top-left corner, with a workshop and a recruiter in the clearings next to it and one Marquise warrior in every clearing except the bottom-right corner. The Eyrie roost and six warriors hold the bottom-right corner, and the Vagabond pawn stands in a forest. A side panel lists the scores at 0, the 12-item supply, three cards for each player, the Alliance's three supporters, the Vagabond's three quests, and the four ruins."
+games: [root]
 related:
   - "area-control-board-games"
   - "area-majority-vs-area-control"

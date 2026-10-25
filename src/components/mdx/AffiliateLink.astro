@@ -3,11 +3,15 @@
 //   <AffiliateLink href="https://...">Buy Wingspan</AffiliateLink>
 // Marks the link as sponsored for search engines and opens it in a new tab.
 // Any article that uses it should also include <AffiliateNotice /> near the top.
+// /ott.js counts each click for the game it names (game="wingspan"), or for the
+// page's own games when it names none.
 interface Props {
   href: string;
+  /** On the Table slug(s) of the game this link sells, comma-separated. */
+  game?: string;
 }
 
-const { href } = Astro.props;
+const { href, game } = Astro.props;
 ---
 
-<a class="affiliate-link" href={href} rel="sponsored noopener" target="_blank"><slot /></a>
+<a class="affiliate-link" href={href} rel="sponsored noopener" target="_blank" data-ott-event="affiliate_click" data-ott-game={game}><slot /></a>

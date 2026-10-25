@@ -75,6 +75,7 @@ teachSheet:
     - "Clear lone Explorers before they Build. One Explorer is easy to stop; a Town is not."
     - "Keep Presence out of lands about to Ravage. The Blight it adds destroys Presence."
 diagramAlt: "Spirit Island setup for two players. On the left, the Invader board: 8 Fear markers in the Fear Pool, the 9-card Fear Deck in three groups of 3 split by two Terror Level dividers, Terror Level 1, and the Blight Card Healthy side up with Blight on it. Below those, the Ravage space is empty, the first Invader card sits face up on Build, and the Invader Deck sits on Explore, with an arrow showing the cards slide toward Ravage. On the right, the Island: two boards of eight lands each, side by side, with Ocean on the outer edges, each player's starting Presence, and Invaders and Dahan in some lands. Below the Island, the Minor and Major Power decks with space for discards, and the supply of Energy, Dahan, and Invaders. Along the bottom, each player's Spirit panel with Presence filling both tracks except the leftmost space, and a hand of 4 Unique Power Cards."
+games: [spirit-island]
 related:
   - "best-cooperative-board-games"
   - "quarterback-problem-cooperative-games"

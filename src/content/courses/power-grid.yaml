@@ -61,6 +61,7 @@ teachSheet:
     - "Pick plants that burn a fuel your neighbors do not."
     - "Save cash for the final round: it is the biggest build of the game."
 diagramAlt: "Power Grid Recharged setup: the board with four connected regions in play for four players, every house on 0 of the cities track, a random turn order, the resource market stocked with coal, oil, garbage, and uranium, the power plant market with four current and four future plants, the draw pile, the discount token and auction hammer, the refill card, and each player's 22 houses, 50 Elektro, and payout card."
+games: [power-grid]
 related:
   - "catch-up-mechanics-board-games"
   - "board-game-balance-math"

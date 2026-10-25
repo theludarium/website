@@ -86,7 +86,7 @@ const structuredData = [
 ];
 ---
 
-<BaseLayout title={pageTitle} description={d.description} noindex={d.draft}>
+<BaseLayout title={pageTitle} description={d.description} noindex={d.draft} games={d.games}>
   <script slot="head" type="application/ld+json" set:html={JSON.stringify(structuredData)} />
 
   <section class="course-hero">
@@ -262,7 +262,8 @@ const structuredData = [
 
   <section class="container course-notice-wrap">
     <p class="course-sheet-links">
-      <a href={teachSheetUrl(course)}>Teach sheet</a> &middot; <a href={pdf} download>PDF</a> &middot; Rules as described in
+      <a href={teachSheetUrl(course)}>Teach sheet</a> &middot;{' '}
+      <a href={pdf} download data-ott-event="download" data-ott-game={d.games.join(',') || undefined}>PDF</a> &middot; Rules as described in
       the {d.rulesEdition}; <a href={d.rulesSource} rel="noopener">official rules</a>.
     </p>
     <CourseNotice text={d.notice} />

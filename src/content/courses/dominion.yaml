@@ -64,6 +64,7 @@ teachSheet:
     - "Early on, Silver beats a cheap Action card you have no plan for."
     - "Without Villages, one or two Smithies is plenty."
 diagramAlt: "Dominion setup for two players: the Supply of 17 face-up piles, with 7 Base card piles (46 Copper, 40 Silver, 30 Gold, 8 Estates, 8 Duchies, 8 Provinces, 10 Curses) and the 10 First Game Kingdom piles sorted by cost, the Trash mat beside them, and each player's shuffled deck of 7 Coppers and 3 Estates with a hand of 5 cards drawn."
+games: [dominion]
 related:
   - "dominion-strategy-beginners"
   - "dominion-vs-clank"

@@ -63,6 +63,7 @@ teachSheet:
     - "Build a Construction first, then play its Critter for free."
     - "Count your open city spaces in summer and plan what fills the last ones."
 diagramAlt: "Everdell setup for four players: the Ever Tree at the top of the board with waiting workers on its spring, summer, and autumn branches, 4 special Events on its lower branches, and the deck in its trunk; 4 basic Events on the river; resource piles and 8 basic locations along the path; the Meadow of 8 face-up cards between 4 Forest cards; the autumn trail, discard pile, and Haven along the bottom; point and occupied tokens beside the board; and each player with 2 workers and a starting hand of 5, 6, 7, or 8 cards."
+games: [everdell]
 related:
   - "wingspan-vs-everdell"
   - "wingspan-vs-everdell-vs-cascadia"
