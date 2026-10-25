@@ -1,0 +1,214 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-labelledby="t d">
+  <title id="t">The Castles of Burgundy setup</title>
+  <desc id="d">The game board with face-down goods stacks on phases A to E, six numbered depots around the black depot, the bridge with every turn piece on space 1, the bonus tiles, and every score marker on 0. Beside it, the supply of silver coins, workers, and the white die, and face-down hex tile piles sorted by color. Below, two player areas, each with a duchy board, a castle on the center space, 3 goods, 1 silver, workers, 2 dice, three storage spaces, and an overview board.</desc>
+<rect width="480" height="320" fill="#F6EFE3"/>
+<g font-family="system-ui, sans-serif" font-size="12" fill="#2B1E16">
+<!-- Supply -->
+<text x="10" y="24" font-size="13" font-weight="700">Supply</text>
+<circle cx="18" cy="40" r="6" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.8"/>
+<circle cx="31" cy="40" r="6" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.8"/>
+<circle cx="44" cy="40" r="6" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.8"/>
+<text x="10" y="62">24 silver coins</text>
+<rect x="12" y="72" width="10" height="10" rx="2.5" fill="#2F5D50"/>
+<rect x="25" y="72" width="10" height="10" rx="2.5" fill="#2F5D50"/>
+<rect x="38" y="72" width="10" height="10" rx="2.5" fill="#2F5D50"/>
+<text x="10" y="98">26 workers</text>
+<rect x="12" y="110" width="18" height="18" rx="3.6" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.4"/>
+<circle cx="16.9" cy="114.9" r="1.6" fill="#2B1E16"/>
+<circle cx="21.0" cy="119.0" r="1.6" fill="#2B1E16"/>
+<circle cx="25.1" cy="123.1" r="1.6" fill="#2B1E16"/>
+<text x="36" y="123">White die</text>
+<text x="36" y="137" font-size="11">(start player)</text>
+<!-- Game board, 4-player side -->
+<rect x="112" y="8" width="256" height="188" rx="12" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.5"/>
+<rect x="118" y="14" width="244" height="176" rx="8" fill="none" stroke="#B9AD9C" stroke-width="1" stroke-dasharray="3 3"/>
+<circle cx="126" cy="22" r="3.6" fill="#2F5D50"/>
+<circle cx="135" cy="22" r="3.6" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.6"/>
+<circle cx="126" cy="31" r="3.6" fill="#2B1E16"/>
+<circle cx="135" cy="31" r="3.6" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.6"/>
+<text x="144" y="26" font-size="11">Score track:</text>
+<text x="144" y="38" font-size="11">all on 0</text>
+<rect x="218" y="18" width="16" height="16" rx="2" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.6"/>
+<rect x="216" y="16" width="16" height="16" rx="2" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.8"/>
+<text x="224" y="28" font-size="11" text-anchor="middle" font-weight="700">A</text>
+<rect x="236" y="18" width="16" height="16" rx="2" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.6"/>
+<rect x="234" y="16" width="16" height="16" rx="2" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.8"/>
+<text x="242" y="28" font-size="11" text-anchor="middle" font-weight="700">B</text>
+<rect x="254" y="18" width="16" height="16" rx="2" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.6"/>
+<rect x="252" y="16" width="16" height="16" rx="2" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.8"/>
+<text x="260" y="28" font-size="11" text-anchor="middle" font-weight="700">C</text>
+<rect x="272" y="18" width="16" height="16" rx="2" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.6"/>
+<rect x="270" y="16" width="16" height="16" rx="2" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.8"/>
+<text x="278" y="28" font-size="11" text-anchor="middle" font-weight="700">D</text>
+<rect x="290" y="18" width="16" height="16" rx="2" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.6"/>
+<rect x="288" y="16" width="16" height="16" rx="2" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.8"/>
+<text x="296" y="28" font-size="11" text-anchor="middle" font-weight="700">E</text>
+<text x="260" y="48" font-size="11" text-anchor="middle">Phases A to E</text>
+<text x="260" y="60" font-size="11" text-anchor="middle">5 goods each</text>
+<rect x="206" y="106" width="68" height="24" rx="5" fill="#2B1E16"/>
+<text x="240" y="122" font-size="11" text-anchor="middle" fill="#F6EFE3">Black depot</text>
+<polygon points="240.0,69.0 251.3,75.5 251.3,88.5 240.0,95.0 228.7,88.5 228.7,75.5" fill="#F6EFE3" stroke="#2F5D50" stroke-width="1.5"/>
+<text x="240" y="86" text-anchor="middle" font-weight="700" fill="#2F5D50">1</text>
+<polygon points="290.0,86.0 301.3,92.5 301.3,105.5 290.0,112.0 278.7,105.5 278.7,92.5" fill="#F6EFE3" stroke="#2F5D50" stroke-width="1.5"/>
+<text x="290" y="103" text-anchor="middle" font-weight="700" fill="#2F5D50">2</text>
+<polygon points="290.0,124.0 301.3,130.5 301.3,143.5 290.0,150.0 278.7,143.5 278.7,130.5" fill="#F6EFE3" stroke="#2F5D50" stroke-width="1.5"/>
+<text x="290" y="141" text-anchor="middle" font-weight="700" fill="#2F5D50">3</text>
+<polygon points="240.0,141.0 251.3,147.5 251.3,160.5 240.0,167.0 228.7,160.5 228.7,147.5" fill="#F6EFE3" stroke="#2F5D50" stroke-width="1.5"/>
+<text x="240" y="158" text-anchor="middle" font-weight="700" fill="#2F5D50">4</text>
+<polygon points="190.0,124.0 201.3,130.5 201.3,143.5 190.0,150.0 178.7,143.5 178.7,130.5" fill="#F6EFE3" stroke="#2F5D50" stroke-width="1.5"/>
+<text x="190" y="141" text-anchor="middle" font-weight="700" fill="#2F5D50">5</text>
+<polygon points="190.0,86.0 201.3,92.5 201.3,105.5 190.0,112.0 178.7,105.5 178.7,92.5" fill="#F6EFE3" stroke="#2F5D50" stroke-width="1.5"/>
+<text x="190" y="103" text-anchor="middle" font-weight="700" fill="#2F5D50">6</text>
+<text x="124" y="104">Depots</text>
+<text x="124" y="118">1 to 6</text>
+<text x="336" y="26" text-anchor="middle" font-weight="700">Bridge</text>
+<rect x="326" y="34" width="20" height="12" rx="2" fill="#F6EFE3" stroke="#2B1E16" stroke-width="0.8"/>
+<rect x="326" y="48" width="20" height="12" rx="2" fill="#F6EFE3" stroke="#2B1E16" stroke-width="0.8"/>
+<rect x="326" y="62" width="20" height="12" rx="2" fill="#F6EFE3" stroke="#2B1E16" stroke-width="0.8"/>
+<rect x="326" y="76" width="20" height="12" rx="2" fill="#F6EFE3" stroke="#2B1E16" stroke-width="0.8"/>
+<rect x="326" y="90" width="20" height="12" rx="2" fill="#F6EFE3" stroke="#2B1E16" stroke-width="0.8"/>
+<rect x="326" y="104" width="20" height="12" rx="2" fill="#F6EFE3" stroke="#2B1E16" stroke-width="0.8"/>
+<circle cx="330.5" cy="40" r="3" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.6"/>
+<circle cx="334.5" cy="40" r="3" fill="#2B1E16" stroke="#F6EFE3" stroke-width="0.4"/>
+<circle cx="338.5" cy="40" r="3" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.6"/>
+<circle cx="342.5" cy="40" r="3" fill="#2F5D50" stroke="#F6EFE3" stroke-width="0.4"/>
+<text x="336" y="128" font-size="11" text-anchor="middle">turn order</text>
+<text x="336" y="141" font-size="11" text-anchor="middle">all on</text>
+<text x="336" y="154" font-size="11" text-anchor="middle">space 1</text>
+<text x="124" y="166">Bonus tiles</text>
+<rect x="126" y="174" width="10" height="10" rx="1.5" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.6"/>
+<rect x="124" y="172" width="10" height="10" rx="1.5" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+<rect x="140" y="174" width="10" height="10" rx="1.5" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.6"/>
+<rect x="138" y="172" width="10" height="10" rx="1.5" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+<rect x="154" y="174" width="10" height="10" rx="1.5" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.6"/>
+<rect x="152" y="172" width="10" height="10" rx="1.5" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+<rect x="168" y="174" width="10" height="10" rx="1.5" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.6"/>
+<rect x="166" y="172" width="10" height="10" rx="1.5" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+<rect x="182" y="174" width="10" height="10" rx="1.5" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.6"/>
+<rect x="180" y="172" width="10" height="10" rx="1.5" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+<rect x="196" y="174" width="10" height="10" rx="1.5" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.6"/>
+<rect x="194" y="172" width="10" height="10" rx="1.5" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+<text x="354" y="184" font-size="11" text-anchor="end">4-player side shown</text>
+<!-- Hex tile piles -->
+<text x="378" y="24" font-size="13" font-weight="700">Hex tiles</text>
+<text x="378" y="39" font-size="11">face down, sorted</text>
+<text x="378" y="52" font-size="11">by back color</text>
+<polygon points="390.0,61.5 395.6,64.8 395.6,71.2 390.0,74.5 384.4,71.2 384.4,64.8" fill="#2F5D50" stroke="#2B1E16" stroke-width="0.8"/>
+<polygon points="388.0,63.5 393.6,66.8 393.6,73.2 388.0,76.5 382.4,73.2 382.4,66.8" fill="#2F5D50" stroke="#2B1E16" stroke-width="0.8"/>
+<text x="400" y="74">Castles</text>
+<polygon points="390.0,78.5 395.6,81.8 395.6,88.2 390.0,91.5 384.4,88.2 384.4,81.8" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.8"/>
+<polygon points="388.0,80.5 393.6,83.8 393.6,90.2 388.0,93.5 382.4,90.2 382.4,83.8" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.8"/>
+<text x="400" y="91">Mines</text>
+<polygon points="390.0,95.5 395.6,98.8 395.6,105.2 390.0,108.5 384.4,105.2 384.4,98.8" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+<polygon points="388.0,97.5 393.6,100.8 393.6,107.2 388.0,110.5 382.4,107.2 382.4,100.8" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+<text x="400" y="108">Monasteries</text>
+<polygon points="390.0,112.5 395.6,115.8 395.6,122.2 390.0,125.5 384.4,122.2 384.4,115.8" fill="#2F5D50" fill-opacity="0.45" stroke="#2B1E16" stroke-width="0.8"/>
+<polygon points="388.0,114.5 393.6,117.8 393.6,124.2 388.0,127.5 382.4,124.2 382.4,117.8" fill="#2F5D50" fill-opacity="0.45" stroke="#2B1E16" stroke-width="0.8"/>
+<text x="400" y="125">Ships</text>
+<polygon points="390.0,129.5 395.6,132.8 395.6,139.2 390.0,142.5 384.4,139.2 384.4,132.8" fill="#E0A23B" fill-opacity="0.45" stroke="#2B1E16" stroke-width="0.8"/>
+<polygon points="388.0,131.5 393.6,134.8 393.6,141.2 388.0,144.5 382.4,141.2 382.4,134.8" fill="#E0A23B" fill-opacity="0.45" stroke="#2B1E16" stroke-width="0.8"/>
+<text x="400" y="142">Livestock</text>
+<polygon points="390.0,146.5 395.6,149.8 395.6,156.2 390.0,159.5 384.4,156.2 384.4,149.8" fill="#F6EFE3" stroke="#2B1E16" stroke-width="0.8"/>
+<polygon points="388.0,148.5 393.6,151.8 393.6,158.2 388.0,161.5 382.4,158.2 382.4,151.8" fill="#F6EFE3" stroke="#2B1E16" stroke-width="0.8"/>
+<text x="400" y="159">Buildings</text>
+<polygon points="390.0,163.5 395.6,166.8 395.6,173.2 390.0,176.5 384.4,173.2 384.4,166.8" fill="#2B1E16" stroke="#2B1E16" stroke-width="0.8"/>
+<polygon points="388.0,165.5 393.6,168.8 393.6,175.2 388.0,178.5 382.4,175.2 382.4,168.8" fill="#2B1E16" stroke="#2B1E16" stroke-width="0.8"/>
+<text x="400" y="176">Black backs</text>
+<!-- Player 1 -->
+<rect x="8" y="202" width="228" height="106" rx="10" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+<text x="18" y="218" font-weight="700">Player 1</text>
+<text x="74" y="218" font-size="11">castle on the center space</text>
+<polygon points="22.6,249.0 28.7,252.5 28.7,259.5 22.6,263.0 16.6,259.5 16.6,252.5" fill="#2F5D50" fill-opacity="0.22" stroke="#B9AD9C" stroke-width="0.8"/>
+<polygon points="29.5,260.9 35.5,264.4 35.5,271.4 29.5,274.9 23.4,271.4 23.4,264.4" fill="#2F5D50" fill-opacity="0.22" stroke="#B9AD9C" stroke-width="0.8"/>
+<polygon points="36.3,272.7 42.4,276.2 42.4,283.2 36.3,286.7 30.3,283.2 30.3,276.2" fill="#2F5D50" fill-opacity="0.22" stroke="#B9AD9C" stroke-width="0.8"/>
+<polygon points="29.5,237.2 35.5,240.7 35.5,247.7 29.5,251.2 23.4,247.7 23.4,240.7" fill="#2F5D50" fill-opacity="0.22" stroke="#B9AD9C" stroke-width="0.8"/>
+<polygon points="36.3,249.0 42.4,252.5 42.4,259.5 36.3,263.0 30.3,259.5 30.3,252.5" fill="#2F5D50" fill-opacity="0.22" stroke="#B9AD9C" stroke-width="0.8"/>
+<polygon points="43.2,260.9 49.2,264.4 49.2,271.4 43.2,274.9 37.1,271.4 37.1,264.4" fill="#E0A23B" fill-opacity="0.35" stroke="#B9AD9C" stroke-width="0.8"/>
+<polygon points="50.0,272.7 56.1,276.2 56.1,283.2 50.0,286.7 43.9,283.2 43.9,276.2" fill="#E0A23B" fill-opacity="0.35" stroke="#B9AD9C" stroke-width="0.8"/>
+<polygon points="36.3,225.3 42.4,228.8 42.4,235.8 36.3,239.3 30.3,235.8 30.3,228.8" fill="#B9AD9C" fill-opacity="0.6" stroke="#B9AD9C" stroke-width="0.8"/>
+<polygon points="43.2,237.2 49.2,240.7 49.2,247.7 43.2,251.2 37.1,247.7 37.1,240.7" fill="#B9AD9C" fill-opacity="0.6" stroke="#B9AD9C" stroke-width="0.8"/>
+<polygon points="50.0,249.0 56.1,252.5 56.1,259.5 50.0,263.0 43.9,259.5 43.9,252.5" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+<polygon points="56.8,260.9 62.9,264.4 62.9,271.4 56.8,274.9 50.8,271.4 50.8,264.4" fill="#E0A23B" fill-opacity="0.35" stroke="#B9AD9C" stroke-width="0.8"/>
+<polygon points="63.7,272.7 69.7,276.2 69.7,283.2 63.7,286.7 57.6,283.2 57.6,276.2" fill="#E0A23B" fill-opacity="0.35" stroke="#B9AD9C" stroke-width="0.8"/>
+<polygon points="50.0,225.3 56.1,228.8 56.1,235.8 50.0,239.3 43.9,235.8 43.9,228.8" fill="#B9AD9C" fill-opacity="0.6" stroke="#B9AD9C" stroke-width="0.8"/>
+<polygon points="56.8,237.2 62.9,240.7 62.9,247.7 56.8,251.2 50.8,247.7 50.8,240.7" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="0.8"/>
+<polygon points="63.7,249.0 69.7,252.5 69.7,259.5 63.7,263.0 57.6,259.5 57.6,252.5" fill="#E0A23B" fill-opacity="0.35" stroke="#B9AD9C" stroke-width="0.8"/>
+<polygon points="70.5,260.9 76.6,264.4 76.6,271.4 70.5,274.9 64.5,271.4 64.5,264.4" fill="#E0A23B" fill-opacity="0.35" stroke="#B9AD9C" stroke-width="0.8"/>
+<polygon points="63.7,225.3 69.7,228.8 69.7,235.8 63.7,239.3 57.6,235.8 57.6,228.8" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="0.8"/>
+<polygon points="70.5,237.2 76.6,240.7 76.6,247.7 70.5,251.2 64.5,247.7 64.5,240.7" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="0.8"/>
+<polygon points="77.4,249.0 83.4,252.5 83.4,259.5 77.4,263.0 71.3,259.5 71.3,252.5" fill="#E0A23B" fill-opacity="0.35" stroke="#B9AD9C" stroke-width="0.8"/>
+<rect x="88" y="231" width="9" height="9" rx="1.5" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.7"/>
+<rect x="99" y="231" width="9" height="9" rx="1.5" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.7"/>
+<rect x="110" y="231" width="9" height="9" rx="1.5" fill="#2F5D50" stroke="#2B1E16" stroke-width="0.7"/>
+<text x="126" y="240" font-size="11">3 goods</text>
+<circle cx="93" cy="250" r="5" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.8"/>
+<text x="103" y="254" font-size="11">1 silver</text>
+<rect x="88" y="259" width="9" height="9" rx="2" fill="#2F5D50"/>
+<text x="103" y="268" font-size="11">1 worker</text>
+<polygon points="93.0,273.2 97.2,275.6 97.2,280.4 93.0,282.8 88.8,280.4 88.8,275.6" fill="none" stroke="#2B1E16" stroke-width="0.8"/>
+<polygon points="104.0,273.2 108.2,275.6 108.2,280.4 104.0,282.8 99.8,280.4 99.8,275.6" fill="none" stroke="#2B1E16" stroke-width="0.8"/>
+<polygon points="115.0,273.2 119.2,275.6 119.2,280.4 115.0,282.8 110.8,280.4 110.8,275.6" fill="none" stroke="#2B1E16" stroke-width="0.8"/>
+<text x="124" y="282" font-size="11">3 storage spaces</text>
+<rect x="176" y="230" width="14" height="14" rx="2.8" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+<circle cx="179.8" cy="233.8" r="1.3" fill="#F6EFE3"/>
+<circle cx="186.2" cy="233.8" r="1.3" fill="#F6EFE3"/>
+<circle cx="183.0" cy="237.0" r="1.3" fill="#F6EFE3"/>
+<circle cx="179.8" cy="240.2" r="1.3" fill="#F6EFE3"/>
+<circle cx="186.2" cy="240.2" r="1.3" fill="#F6EFE3"/>
+<rect x="194" y="230" width="14" height="14" rx="2.8" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+<circle cx="197.8" cy="233.8" r="1.3" fill="#F6EFE3"/>
+<circle cx="204.2" cy="240.2" r="1.3" fill="#F6EFE3"/>
+<text x="176" y="258" font-size="11">2 dice</text>
+<rect x="18" y="290" width="208" height="14" rx="3" fill="#B9AD9C" fill-opacity="0.35" stroke="#B9AD9C" stroke-width="1"/>
+<text x="122" y="300.5" font-size="11" text-anchor="middle">Overview board</text>
+<!-- Player 2 -->
+<rect x="244" y="202" width="228" height="106" rx="10" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+<text x="254" y="218" font-weight="700">Player 2</text>
+<text x="310" y="218" font-size="11">castle on the center space</text>
+<polygon points="258.6,249.0 264.7,252.5 264.7,259.5 258.6,263.0 252.6,259.5 252.6,252.5" fill="#2F5D50" fill-opacity="0.22" stroke="#B9AD9C" stroke-width="0.8"/>
+<polygon points="265.5,260.9 271.5,264.4 271.5,271.4 265.5,274.9 259.4,271.4 259.4,264.4" fill="#2F5D50" fill-opacity="0.22" stroke="#B9AD9C" stroke-width="0.8"/>
+<polygon points="272.3,272.7 278.4,276.2 278.4,283.2 272.3,286.7 266.3,283.2 266.3,276.2" fill="#2F5D50" fill-opacity="0.22" stroke="#B9AD9C" stroke-width="0.8"/>
+<polygon points="265.5,237.2 271.5,240.7 271.5,247.7 265.5,251.2 259.4,247.7 259.4,240.7" fill="#2F5D50" fill-opacity="0.22" stroke="#B9AD9C" stroke-width="0.8"/>
+<polygon points="272.3,249.0 278.4,252.5 278.4,259.5 272.3,263.0 266.3,259.5 266.3,252.5" fill="#2F5D50" fill-opacity="0.22" stroke="#B9AD9C" stroke-width="0.8"/>
+<polygon points="279.2,260.9 285.2,264.4 285.2,271.4 279.2,274.9 273.1,271.4 273.1,264.4" fill="#E0A23B" fill-opacity="0.35" stroke="#B9AD9C" stroke-width="0.8"/>
+<polygon points="286.0,272.7 292.1,276.2 292.1,283.2 286.0,286.7 279.9,283.2 279.9,276.2" fill="#E0A23B" fill-opacity="0.35" stroke="#B9AD9C" stroke-width="0.8"/>
+<polygon points="272.3,225.3 278.4,228.8 278.4,235.8 272.3,239.3 266.3,235.8 266.3,228.8" fill="#B9AD9C" fill-opacity="0.6" stroke="#B9AD9C" stroke-width="0.8"/>
+<polygon points="279.2,237.2 285.2,240.7 285.2,247.7 279.2,251.2 273.1,247.7 273.1,240.7" fill="#B9AD9C" fill-opacity="0.6" stroke="#B9AD9C" stroke-width="0.8"/>
+<polygon points="286.0,249.0 292.1,252.5 292.1,259.5 286.0,263.0 279.9,259.5 279.9,252.5" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+<polygon points="292.8,260.9 298.9,264.4 298.9,271.4 292.8,274.9 286.8,271.4 286.8,264.4" fill="#E0A23B" fill-opacity="0.35" stroke="#B9AD9C" stroke-width="0.8"/>
+<polygon points="299.7,272.7 305.7,276.2 305.7,283.2 299.7,286.7 293.6,283.2 293.6,276.2" fill="#E0A23B" fill-opacity="0.35" stroke="#B9AD9C" stroke-width="0.8"/>
+<polygon points="286.0,225.3 292.1,228.8 292.1,235.8 286.0,239.3 279.9,235.8 279.9,228.8" fill="#B9AD9C" fill-opacity="0.6" stroke="#B9AD9C" stroke-width="0.8"/>
+<polygon points="292.8,237.2 298.9,240.7 298.9,247.7 292.8,251.2 286.8,247.7 286.8,240.7" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="0.8"/>
+<polygon points="299.7,249.0 305.7,252.5 305.7,259.5 299.7,263.0 293.6,259.5 293.6,252.5" fill="#E0A23B" fill-opacity="0.35" stroke="#B9AD9C" stroke-width="0.8"/>
+<polygon points="306.5,260.9 312.6,264.4 312.6,271.4 306.5,274.9 300.5,271.4 300.5,264.4" fill="#E0A23B" fill-opacity="0.35" stroke="#B9AD9C" stroke-width="0.8"/>
+<polygon points="299.7,225.3 305.7,228.8 305.7,235.8 299.7,239.3 293.6,235.8 293.6,228.8" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="0.8"/>
+<polygon points="306.5,237.2 312.6,240.7 312.6,247.7 306.5,251.2 300.5,247.7 300.5,240.7" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="0.8"/>
+<polygon points="313.4,249.0 319.4,252.5 319.4,259.5 313.4,263.0 307.3,259.5 307.3,252.5" fill="#E0A23B" fill-opacity="0.35" stroke="#B9AD9C" stroke-width="0.8"/>
+<rect x="324" y="231" width="9" height="9" rx="1.5" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.7"/>
+<rect x="335" y="231" width="9" height="9" rx="1.5" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.7"/>
+<rect x="346" y="231" width="9" height="9" rx="1.5" fill="#2F5D50" stroke="#2B1E16" stroke-width="0.7"/>
+<text x="362" y="240" font-size="11">3 goods</text>
+<circle cx="329" cy="250" r="5" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.8"/>
+<text x="339" y="254" font-size="11">1 silver</text>
+<rect x="324" y="259" width="9" height="9" rx="2" fill="#2F5D50"/>
+<rect x="335" y="259" width="9" height="9" rx="2" fill="#2F5D50"/>
+<text x="350" y="268" font-size="11">2 workers</text>
+<polygon points="329.0,273.2 333.2,275.6 333.2,280.4 329.0,282.8 324.8,280.4 324.8,275.6" fill="none" stroke="#2B1E16" stroke-width="0.8"/>
+<polygon points="340.0,273.2 344.2,275.6 344.2,280.4 340.0,282.8 335.8,280.4 335.8,275.6" fill="none" stroke="#2B1E16" stroke-width="0.8"/>
+<polygon points="351.0,273.2 355.2,275.6 355.2,280.4 351.0,282.8 346.8,280.4 346.8,275.6" fill="none" stroke="#2B1E16" stroke-width="0.8"/>
+<text x="360" y="282" font-size="11">3 storage spaces</text>
+<rect x="412" y="230" width="14" height="14" rx="2.8" fill="#E0A23B" stroke="#2B1E16" stroke-width="1"/>
+<circle cx="415.8" cy="233.8" r="1.3" fill="#2B1E16"/>
+<circle cx="422.2" cy="233.8" r="1.3" fill="#2B1E16"/>
+<circle cx="419.0" cy="237.0" r="1.3" fill="#2B1E16"/>
+<circle cx="415.8" cy="240.2" r="1.3" fill="#2B1E16"/>
+<circle cx="422.2" cy="240.2" r="1.3" fill="#2B1E16"/>
+<rect x="430" y="230" width="14" height="14" rx="2.8" fill="#E0A23B" stroke="#2B1E16" stroke-width="1"/>
+<circle cx="433.8" cy="233.8" r="1.3" fill="#2B1E16"/>
+<circle cx="440.2" cy="240.2" r="1.3" fill="#2B1E16"/>
+<text x="412" y="258" font-size="11">2 dice</text>
+<rect x="254" y="290" width="208" height="14" rx="3" fill="#B9AD9C" fill-opacity="0.35" stroke="#B9AD9C" stroke-width="1"/>
+<text x="358" y="300.5" font-size="11" text-anchor="middle">Overview board</text>
+<text x="240" y="317" font-size="11" text-anchor="middle" fill="#2F5D50">Players 3 and 4 set up the same way, with 3 and 4 workers</text>
+</g>
+</svg>
