@@ -67,6 +67,7 @@ teachSheet:
     - "Research early: each bonus tile goes to whoever reaches its space first."
     - "Plan both archaeologists at the start of each round, then spend cards around them."
 diagramAlt: "Lost Ruins of Arnak four-player setup on the Bird Temple side: the card row with the artifact deck, Fear cards, and item deck above 1 artifact, the moon staff on round I, and 5 items; the island with level II sites holding a face-up and a face-down idol, level I sites holding 1 face-up idol, and 5 starting sites; the research track with the Lost Temple's temple tile stacks and every player's magnifying glass on their notebook at the start; the supply board with resources, site tiles, guardians, and 3 assistant stacks; and each player's 6-card deck, 2 archaeologists, 4 idol slots, and starting coins and compasses by seat."
+games: [lost-ruins-of-arnak]
 related:
   - "deck-building-games-explained"
   - "worker-placement-explained"
