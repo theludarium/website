@@ -61,6 +61,7 @@ teachSheet:
     - "Place tiles next to each other. Connected tiles score more."
     - "Watch what you push to the center. Someone has to take it."
 diagramAlt: "Azul setup for two players: five factory displays with 4 tiles each in a circle around the center of the table, two player boards with the score marker on 0, empty pattern lines, the colored wall and the floor line, plus the starting player marker, the bag of 100 tiles, and the box lid."
+games: [azul]
 related:
   - "azul-strategy"
   - "azul-vs-sagrada"

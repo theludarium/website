@@ -3,6 +3,7 @@ title: "Catan Creators to Watch: Who's Bringing Players Together"
 description: "A guide to the Catan YouTubers and streamers worth following, from DyLighted and DandyDrew to ThePhantom and Catan Jack, and how each brings players together."
 pubDate: 2026-10-23
 category: Game Culture
+games: [catan]
 tags: [catan, content creators, youtube, discord, competitive catan, community]
 draft: false
 ---

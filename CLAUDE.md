@@ -144,6 +144,7 @@ tags: string[]
 heroImage: string          # optional, with heroAlt
 heroAlt: string
 draft: boolean             # drafts are not built
+games: string[]            # optional, On the Table slugs of every game the page covers (see DECISIONS.md, 2026-10-24)
 ```
 
 Each article page needs: reading time, a table of contents for long pieces, related articles, an end-of-article Kit signup, and correct Open Graph and Article structured data.

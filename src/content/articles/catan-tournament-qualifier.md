@@ -3,6 +3,7 @@ title: "I Came to Cube. I'm Staying for Catan."
 description: "A casual player signs up for a $10 Catan qualifier in Noblesville: the history of Catan, how the CATAN Championship ladder works, and the rules that surprise."
 pubDate: 2026-10-22
 category: Game Culture
+games: [catan]
 tags: ["Catan tournament", "Catan qualifier", "Catan World Championship", "CATAN Championship rules", "Catan Nationals", "Noblesville", "Competitive play"]
 draft: false
 ---

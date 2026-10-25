@@ -3,6 +3,7 @@ title: "Wingspan vs Everdell: Which Engine Builder Is Right?"
 description: "Wingspan vs Everdell compared: players, time, weight, teach time, and what each engine builder does best. A clear verdict on which to buy for your group."
 pubDate: 2026-10-20
 category: Game Guides
+games: [wingspan, everdell]
 tags: ["Wingspan vs Everdell", "best engine building board game", "Everdell or Wingspan", "Wingspan vs Everdell for couples", "medium weight board games", "beautiful board games for adults", "Comparisons"]
 draft: false
 ---

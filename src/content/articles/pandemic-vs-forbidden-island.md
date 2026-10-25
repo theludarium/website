@@ -3,6 +3,7 @@ title: "Pandemic vs Forbidden Island: Which Co-op to Buy First"
 description: "Pandemic vs Forbidden Island: same designer, same idea, different weight. Compare players, time, teach time, and difficulty, then pick your first co-op."
 pubDate: 2026-10-22
 category: Game Guides
+games: [pandemic, forbidden-island]
 tags: ["Pandemic vs Forbidden Island", "best first cooperative board game", "Forbidden Island or Pandemic", "cooperative games for families", "Matt Leacock games", "co-op board games for beginners", "Comparisons"]
 draft: false
 ---

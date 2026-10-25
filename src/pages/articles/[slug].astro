@@ -34,7 +34,7 @@ interface Props {
 }
 
 const { article, all } = Astro.props;
-const { title, seoTitle, description, pubDate, updatedDate, category, tags, heroImage, heroAlt, draft, offer: offerKey } =
+const { title, seoTitle, description, pubDate, updatedDate, category, tags, heroImage, heroAlt, draft, offer: offerKey, games } =
   article.data;
 // A newsletter offer (see KIT_OFFER_FORMS) replaces the generic end-of-article signup copy and form.
 const offer = offerKey ? { key: offerKey, ...KIT_OFFER_FORMS[offerKey] } : undefined;
@@ -80,6 +80,7 @@ const structuredData = [
   imageAlt={heroImage ? heroAlt : `${category}: ${title}`}
   noindex={draft}
   article={{ publishedTime: pubDate, modifiedTime: updatedDate, section: category, tags }}
+  games={games}
 >
   <script slot="head" type="application/ld+json" set:html={JSON.stringify(structuredData)} />
 
