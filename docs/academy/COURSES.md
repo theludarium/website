@@ -80,6 +80,7 @@ teachSheet:
   tips: ["exactly", "three", "tips"]
 diagramAlt: "What the setup diagram shows, for screen readers."
 related: ["article-slug"]                 # existing articles in src/content/articles about this game
+games: [carcassonne]                      # On the Table slugs (theludarium/on-the-table data/games_seed.csv); leave out games not in that list
 tcg:                                       # TCG only
   starter: "The beginner product"
   firstEvent: "The entry-level store event"
