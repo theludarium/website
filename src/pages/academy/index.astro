@@ -62,6 +62,7 @@ const shelfCourse: CatalogCard = {
     shelfFirst && (!shelfFirst.data.draft || SHOW_DRAFTS)
       ? { label: 'Read the first article', href: articleUrl(shelfFirst) }
       : undefined,
+  image: cardArt(GAME_SHELF_COURSE.slug),
 };
 
 const gameCourses: CatalogCard[] = await Promise.all(

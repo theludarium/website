@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="t">
+<title id="t">An original illustration of a mosaic tile wall: a five by five grid partly filled with patterned tiles, beside a round display holding four tiles</title>
+<defs><radialGradient id="felt" cx="50%" cy="45%" r="75%"><stop offset="0" stop-color="#3a6e60"/><stop offset="1" stop-color="#2a5246"/></radialGradient></defs>
+<rect width="640" height="360" fill="url(#felt)"/>
+<rect x="92" y="42" width="272" height="272" rx="14" fill="#24493f" stroke="#f6efe3" stroke-width="2.5"/>
+<g><rect x="106" y="56" width="44" height="44" rx="5" fill="#3f7384" stroke="#f6efe3" stroke-width="2"/>
+<path d="M128.0,68.32 L137.68,78.0 L128.0,87.68 L118.32,78.0 Z" fill="none" stroke="#f6efe3" stroke-width="1.6" opacity=".7"/></g>
+<g><rect x="156" y="56" width="44" height="44" rx="5" fill="#e2b85b" stroke="#f6efe3" stroke-width="2"/>
+<circle cx="178.0" cy="78.0" r="7.26" fill="none" stroke="#2b1e16" stroke-width="1.6" opacity=".45"/></g>
+<g><rect x="206" y="56" width="44" height="44" rx="5" fill="#b4623c" stroke="#f6efe3" stroke-width="2"/>
+<rect x="218.32" y="68.32" width="19.36" height="19.36" fill="none" stroke="#f6efe3" stroke-width="1.6" opacity=".6"/></g>
+<rect x="256" y="56" width="44" height="44" rx="5" fill="#2b1e16" opacity=".22"/>
+<g><rect x="306" y="56" width="44" height="44" rx="5" fill="#9cc3c0" stroke="#f6efe3" stroke-width="2"/>
+<path d="M318.32,78.0 H337.68 M328.0,68.32 V87.68" stroke="#3f7384" stroke-width="1.8" opacity=".7"/></g>
+<g><rect x="106" y="106" width="44" height="44" rx="5" fill="#9cc3c0" stroke="#f6efe3" stroke-width="2"/>
+<path d="M118.32,128.0 H137.68 M128.0,118.32 V137.68" stroke="#3f7384" stroke-width="1.8" opacity=".7"/></g>
+<g><rect x="156" y="106" width="44" height="44" rx="5" fill="#3f7384" stroke="#f6efe3" stroke-width="2"/>
+<path d="M178.0,118.32 L187.68,128.0 L178.0,137.68 L168.32,128.0 Z" fill="none" stroke="#f6efe3" stroke-width="1.6" opacity=".7"/></g>
+<rect x="206" y="106" width="44" height="44" rx="5" fill="#e2b85b" opacity=".22"/>
+<g><rect x="256" y="106" width="44" height="44" rx="5" fill="#b4623c" stroke="#f6efe3" stroke-width="2"/>
+<rect x="268.32" y="118.32" width="19.36" height="19.36" fill="none" stroke="#f6efe3" stroke-width="1.6" opacity=".6"/></g>
+<g><rect x="306" y="106" width="44" height="44" rx="5" fill="#2b1e16" stroke="#f6efe3" stroke-width="2"/>
+<circle cx="318.32" cy="128" r="2.2" fill="#e0a23b" opacity=".8"/><circle cx="337.68" cy="128" r="2.2" fill="#e0a23b" opacity=".8"/><circle cx="328" cy="118.32" r="2.2" fill="#e0a23b" opacity=".8"/><circle cx="328" cy="137.68" r="2.2" fill="#e0a23b" opacity=".8"/></g>
+<rect x="106" y="156" width="44" height="44" rx="5" fill="#2b1e16" opacity=".22"/>
+<g><rect x="156" y="156" width="44" height="44" rx="5" fill="#9cc3c0" stroke="#f6efe3" stroke-width="2"/>
+<path d="M168.32,178.0 H187.68 M178.0,168.32 V187.68" stroke="#3f7384" stroke-width="1.8" opacity=".7"/></g>
+<g><rect x="206" y="156" width="44" height="44" rx="5" fill="#3f7384" stroke="#f6efe3" stroke-width="2"/>
+<path d="M228.0,168.32 L237.68,178.0 L228.0,187.68 L218.32,178.0 Z" fill="none" stroke="#f6efe3" stroke-width="1.6" opacity=".7"/></g>
+<rect x="256" y="156" width="44" height="44" rx="5" fill="#e2b85b" opacity=".22"/>
+<rect x="306" y="156" width="44" height="44" rx="5" fill="#b4623c" opacity=".22"/>
+<g><rect x="106" y="206" width="44" height="44" rx="5" fill="#b4623c" stroke="#f6efe3" stroke-width="2"/>
+<rect x="118.32" y="218.32" width="19.36" height="19.36" fill="none" stroke="#f6efe3" stroke-width="1.6" opacity=".6"/></g>
+<rect x="156" y="206" width="44" height="44" rx="5" fill="#2b1e16" opacity=".22"/>
+<g><rect x="206" y="206" width="44" height="44" rx="5" fill="#9cc3c0" stroke="#f6efe3" stroke-width="2"/>
+<path d="M218.32,228.0 H237.68 M228.0,218.32 V237.68" stroke="#3f7384" stroke-width="1.8" opacity=".7"/></g>
+<rect x="256" y="206" width="44" height="44" rx="5" fill="#3f7384" opacity=".22"/>
+<rect x="306" y="206" width="44" height="44" rx="5" fill="#e2b85b" opacity=".22"/>
+<rect x="106" y="256" width="44" height="44" rx="5" fill="#e2b85b" opacity=".22"/>
+<rect x="156" y="256" width="44" height="44" rx="5" fill="#b4623c" opacity=".22"/>
+<rect x="206" y="256" width="44" height="44" rx="5" fill="#2b1e16" opacity=".22"/>
+<g><rect x="256" y="256" width="44" height="44" rx="5" fill="#9cc3c0" stroke="#f6efe3" stroke-width="2"/>
+<path d="M268.32,278.0 H287.68 M278.0,268.32 V287.68" stroke="#3f7384" stroke-width="1.8" opacity=".7"/></g>
+<rect x="306" y="256" width="44" height="44" rx="5" fill="#3f7384" opacity=".22"/>
+<circle cx="474" cy="184" r="80" fill="#2b1e16" opacity=".25"/>
+<circle cx="474" cy="180" r="80" fill="#e8d6a6" stroke="#f6efe3" stroke-width="2.5"/>
+<circle cx="474" cy="180" r="68" fill="none" stroke="#b9ad9c" stroke-width="1.5"/>
+<g transform="rotate(-6 450.0 156.0)"><rect x="430" y="136" width="40" height="40" rx="5" fill="#3f7384" stroke="#f6efe3" stroke-width="2"/>
+<path d="M450.0,147.2 L458.8,156.0 L450.0,164.8 L441.2,156.0 Z" fill="none" stroke="#f6efe3" stroke-width="1.6" opacity=".7"/></g>
+<g transform="rotate(5 498.0 154.0)"><rect x="478" y="134" width="40" height="40" rx="5" fill="#3f7384" stroke="#f6efe3" stroke-width="2"/>
+<path d="M498.0,145.2 L506.8,154.0 L498.0,162.8 L489.2,154.0 Z" fill="none" stroke="#f6efe3" stroke-width="1.6" opacity=".7"/></g>
+<g transform="rotate(4 452.0 204.0)"><rect x="432" y="184" width="40" height="40" rx="5" fill="#b4623c" stroke="#f6efe3" stroke-width="2"/>
+<rect x="443.2" y="195.2" width="17.6" height="17.6" fill="none" stroke="#f6efe3" stroke-width="1.6" opacity=".6"/></g>
+<g transform="rotate(-5 500.0 202.0)"><rect x="480" y="182" width="40" height="40" rx="5" fill="#9cc3c0" stroke="#f6efe3" stroke-width="2"/>
+<path d="M491.2,202.0 H508.8 M500.0,193.2 V210.8" stroke="#3f7384" stroke-width="1.8" opacity=".7"/></g>
+</svg>
