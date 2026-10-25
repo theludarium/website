@@ -1,0 +1,73 @@
+title: "Pick, Pass, and Duel"
+game: "7 Wonders and 7 Wonders Duel"
+format: full
+order: 230
+wave: "2"
+draft: false
+publisher: "Repos Production (Asmodee)"
+# No Repos Production fan content policy was found (the Asmodee North America IP policy does not list Repos), so this is the default pattern.
+notice: "Unofficial. Not affiliated with Repos Production or Asmodee. 7 Wonders and 7 Wonders Duel are trademarks of Repos Production."
+rulesEdition: "7 Wonders second edition rulebook (2020) and 7 Wonders Duel rulebook (2015), Repos Production"
+rulesSource: "https://cdn.svc.asmodee.net/production-rprod/storage/downloads/games/7wonders/en/sev-en02-rules-1716388903zBEZx.pdf"
+players: "3 to 7 (Duel: 2)"
+playTime: "About 30 minutes each"
+ages: "Ages 10 and up"
+promise: "Learn 7 Wonders for the full table and 7 Wonders Duel for two, teach both in minutes, and draft every card like it matters."
+description: "A free two-track course for 7 Wonders and 7 Wonders Duel: learn and teach both, then openings, midgame reads, scoring math, expansions, and tournament play."
+audience:
+  - "New players who want 7 Wonders or Duel clear before the first card is picked."
+  - "Hosts who teach 7 Wonders to a big group, or Duel to a partner."
+  - "Players who keep finishing in the middle of the pack and want to know why."
+  - "Anyone curious about expansions, online play, and the World Boardgaming Championships."
+afterLesson3: "Teach and play clean games of both 7 Wonders and Duel, without the trading and passing slips that trip up most new tables."
+afterLesson8: "Draft with a plan in both games, read your neighbors and the Duel layout, count science and military, pick expansions, and find a tournament."
+faq:
+  - q: "How many players does 7 Wonders need?"
+    a: "The current edition of 7 Wonders plays 3 to 7. For two players, the publisher makes 7 Wonders Duel, a separate game built for exactly two, with its own cards and three ways to win."
+  - q: "What is the difference between 7 Wonders and 7 Wonders Duel?"
+    a: "In 7 Wonders, 3 to 7 players pick a card from their hand at the same time and pass the rest. In Duel, two players take turns choosing cards from a shared layout, buy resources from the bank, and can win early through military or science."
+  - q: "Who can you buy resources from in 7 Wonders?"
+    a: "Only your two neighbors, the players directly to your left and right. Each resource costs 2 coins, paid to that neighbor (some yellow cards cut that to 1), and you can buy only what their brown cards, grey cards, and Wonder board's starting resource produce."
+  - q: "How does science scoring work in 7 Wonders?"
+    a: "Each of the three science symbols scores its count squared: 1, 4, 9, 16, and so on. Every complete set of three different symbols scores 7 more points on top."
+  - q: "How do you win 7 Wonders Duel?"
+    a: "Push the Conflict pawn into your opponent's capital, or collect 6 different science symbols, and you win at once. If neither happens, the player with the most victory points after Age III wins."
+teachSheet:
+  goal: "7 Wonders: most points after three Ages. Duel: win early by military or science, or on points."
+  setup:
+    - "7 Wonders: each player takes a random Wonder board, Day side up for a first game."
+    - "Put 3 coins on each board. Other coins and the Conflict tokens go in the middle."
+    - "Keep only the Age cards marked for your player count or fewer."
+    - "Shuffle random guilds into Age III: the number of players plus 2."
+    - "Duel: Conflict pawn in the middle, 4 Military tokens out, 5 random Progress tokens face up."
+    - "Duel: 7 coins each, draft 4 Wonders each, remove 3 cards per Age, add 3 guilds."
+  turn:
+    - "7 Wonders: everyone picks 1 card from their hand at the same time."
+    - "Build it, tuck it under your next Wonder stage, or sell it for 3 coins."
+    - "Missing a resource? Buy it from a neighbor for 2 coins."
+    - "Pass the rest: left in Ages I and III, right in Age II."
+    - "Sixth turn: play 1 of your last 2 cards and discard the other."
+    - "Duel: take 1 uncovered card from the layout and use it the same three ways."
+    - "Duel: buy from the bank; selling pays 2 coins plus 1 per yellow card."
+  scoring:
+    - "Military: beat a neighbor for 1, 3, or 5 by Age; lose for minus 1."
+    - "Coins: 1 point per 3."
+    - "Wonder stages, blue, yellow, and purple cards: as printed."
+    - "Science: each symbol's count squared, plus 7 per set of three different."
+    - "Duel: 0, 2, 5, or 10 for the pawn, plus cards, Wonders, Progress, and coins."
+  endGame: "7 Wonders ends after Age III's battles; most points wins, most coins breaks a tie. Duel ends at once on supremacy, or after Age III."
+  tips:
+    - "Take resources in Age I; everything later costs them."
+    - "Watch your neighbors: you trade with them, fight them, and feed them cards."
+    - "Duel: before you take a card, check what it uncovers."
+diagramAlt: "7 Wonders setup for four players: the Age I, II, and III decks, a discard space, the coin reserve, and the Conflict tokens in the middle of the table, and each player's Wonder board, Day side up, with a starting resource and 3 coins on it. Your left and right neighbors are marked; Ages I and III pass left, Age II passes right."
+games: [7-wonders, 7-wonders-duel]
+related:
+  - "7-wonders-strategy"
+  - "card-drafting-explained"
+  - "two-player-board-games-date-night"
+  - "tableau-board-games"
+  - "best-board-games-for-6-players"
+  - "player-count-design"
+  - "how-to-run-a-board-game-tournament"
+  - "expansions-worth-it"
