@@ -66,6 +66,7 @@ teachSheet:
     - "Take cheap removal and two-mana creatures over big, flashy cards."
     - "Return every card sorted, and thank the Cube's owner."
 diagramAlt: "An eight-player Cube draft seen from above: eight seats around one table, numbered clockwise from your seat. Packs 1 and 3 pass to the left, clockwise. Pack 2 passes to the right, counterclockwise. A 360-card Cube makes 24 packs of 15, three per drafter, for 45 picks each and a 40-card deck."
+games: [magic-the-gathering]
 related:
   - "what-is-a-magic-cube"
   - "cube-draft-guide-new-players"

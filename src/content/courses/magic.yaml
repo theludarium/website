@@ -61,6 +61,7 @@ teachSheet:
     - "Before you attack, check what your opponent can block with."
     - "Read each card aloud the first time it hits the table."
 diagramAlt: "The Magic play area for two players. Each player has a side of the shared battlefield, with a row of lands nearest the player and a row of creatures and other permanents in front of it, one creature turned sideways to show it is tapped, and a life total of 20. Next to each side sit the library face down, the graveyard face up, exile, and the command zone, used mostly in Commander. Each hand is held off the table and hidden. The stack, where spells wait to resolve, sits on the center line between the players."
+games: [magic-the-gathering]
 related:
   - "how-to-teach-magic-the-gathering"
   - "where-to-play-magic-indianapolis"
