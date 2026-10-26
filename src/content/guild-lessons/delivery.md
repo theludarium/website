@@ -28,7 +28,7 @@ games: [ticket-to-ride]
 
 You can write a perfect teach script and still lose the table. Delivery is where the script meets real people, with drinks in hand and phones nearby. The good news: delivery is a handful of habits, and every one of them can be practiced.
 
-This lesson closes Module 3. If you want the short version of the whole five-minute teach to keep on your phone, it lives in the article [How to Teach a Board Game in Five Minutes](/articles/how-to-teach-a-board-game/).
+This lesson closes Module 3.
 
 ## Pace: short sentences, then stop
 
@@ -48,7 +48,7 @@ When someone asks, thank them for it. "Good question" is not filler. It tells th
 
 ## Three things to leave out
 
-- **The rulebook, read aloud.** Reading puts your eyes on the page and your voice in a flat, careful tone. Paraphrase. Keep the book closed beside you for the one rule you need to check.
+- **The rulebook, read aloud.** Reading puts your eyes on the page and your voice in a flat, careful tone. Paraphrase. Keep the book beside you, open to the summary, for the one rule you need to check.
 - **Strategy tips.** "A good move early is to..." is a second lesson on top of the first, and it takes away the pleasure of finding things out. If a gamer at the table offers one, thank them and say strategy can wait until after the first game.
 - **The gamers' questions.** A hobbyist asking about an edge case can pull the teach into a corner the newcomer cannot follow. "Let's catch that one when it comes up" works for them too.
 

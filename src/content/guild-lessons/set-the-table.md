@@ -24,7 +24,7 @@ games: [ticket-to-ride]
 
 Picture the start of most game nights. Guests arrive, someone opens the box, and the teacher starts punching tokens, sorting cards and reading setup steps while everyone else watches. Ten minutes pass. Nobody has learned anything yet, and the newcomer has already decided this is going to take a while.
 
-Setup is not part of the teach. It is the part before it, and it belongs before the doorbell. The [Pre-Flight Checklist](/academy/guild/toolkit/pre-flight-checklist/) is one page you run through with the game in front of you. This lesson covers why each item is on it.
+Setup is not part of the teach. It is the part before it, and it belongs before the doorbell. The [Pre-Flight Checklist](/academy/guild/toolkit/pre-flight-checklist/) is one page you run through with the game in front of you. This lesson covers the six items that change the teach most, and why each one is there.
 
 ## The checklist, and what each item buys you
 
@@ -51,7 +51,7 @@ The board goes in the middle with every scoring marker on 0. Each seat gets 45 t
 
 Then deal the destination tickets before anyone sits, face down at each seat. Current editions deal 4 and you keep at least 2; older boxes deal 3, so check yours. The tickets are what usually slows the start, because choosing which to keep takes a minute and new players want to look at the map while they decide.
 
-But there is a catch the course teach points out: if people read their tickets during the teach, they stop listening. So the tickets stay face down. Your teach covers the three turn choices first, and then you say "now flip your tickets." That moment becomes the first real decision of the game, and it feels like an event, not a chore.
+But there is a catch, and the Ticket to Ride course's own teach holds the tickets back entirely because of it: if people read their tickets during the teach, they stop listening. Dealing face down gets you the same thing. The tickets stay face down until you call for them. Your teach covers the three turn choices first, and then you say "now flip your tickets." That moment becomes the first real decision of the game, and it feels like an event, not a chore.
 
 ## The ten minutes that pay for themselves
 

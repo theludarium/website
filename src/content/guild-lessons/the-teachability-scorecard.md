@@ -46,7 +46,7 @@ The [Teachability Scorecard](/academy/guild/toolkit/teachability-scorecard/) ask
 
 **7. Good at your player count?** Not the count on the box. The count at your table tonight.
 
-Score one point for each yes. Six or seven: ready tonight. Four or five: ready with care. Three or fewer: put it later on the ladder.
+Score one point for each yes. Six or seven: ready tonight. Four or five: better a little later, or tonight with a practice round. Three or fewer: not for a first game, so put it later on the ladder.
 
 ## A worked example: Ticket to Ride against Catan
 
@@ -64,12 +64,12 @@ These are the two most common answers to "what should I play with a beginner?" H
 Six out of seven. Ready tonight.
 
 **[Catan](/academy/catan/).**
-1. One core action: no. A turn is roll, then trade, then build, and other players act during it.
+1. One core action: no. A turn is a roll, then trading and building in any order, and other players act during it.
 2. Few exceptions: no. The seven, the discard, the robber, and when you may play a development card all need explaining.
 3. Visible progress: mostly yes. Settlements and cities are on the board, though Victory Point cards stay hidden until the end.
 4. Not mean: no. The robber lets you steal a card from a chosen player and block their hex.
 5. Forgiving: no. Your two starting settlements shape the whole game, and they are placed before a newcomer has seen a single roll.
-6. Under 45 minutes: no. Plan on 60 to 90.
+6. Under 45 minutes: no. A first game with new players runs well past that.
 7. Good at four: yes.
 
 Two out of seven, maybe three.

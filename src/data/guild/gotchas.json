@@ -93,7 +93,7 @@
   {
     "game": "Heat: Pedal to the Metal",
     "course": "heat",
-    "gotcha": "Heat cards can never be played or discarded. Once Heat comes back into your hand, the only way out is to cool down, which your gear gives you only in 1st gear (3) and 2nd gear (1).",
+    "gotcha": "Heat cards can never be played or discarded. Once Heat comes back into your hand, the only way out is to cool down. Your gear gives Cooldown only in 1st gear (3) and 2nd gear (1); Adrenaline adds 1 for the car in last.",
     "say": "Heat you spend comes back to clog your hand, and you can only clear it by slowing down.",
     "why": "In most card games a bad card can be dumped, so a hand full of dead Heat comes as a shock."
   },
@@ -142,7 +142,7 @@
   {
     "game": "Spirit Island",
     "course": "spirit-island",
-    "gotcha": "Each Invader card acts in lands of its type, then slides one space left. So the lands that Explore this turn Build next turn and Ravage the turn after.",
+    "gotcha": "Each Invader card acts in lands of its type, then slides one space toward Ravage. So the lands that Explore this turn Build next turn and Ravage the turn after.",
     "say": "Watch this track: whatever they explore now, they build on next turn, and they attack the turn after that.",
     "why": "It is the hardest idea in the game, and new players read each card as a one-time event instead of a three-turn warning."
   },

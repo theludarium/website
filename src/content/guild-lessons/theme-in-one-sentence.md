@@ -33,7 +33,7 @@ Start with a sentence that tells them who they are and what they want. That is t
 
 Memory is not a shelf where facts sit side by side. It is closer to a web, and new facts stick when they hook onto something already there. A list of rules with no story has nothing to hook onto. The same rules inside a story each get a place: this is how I build, this is how I steal, this is why I am worried about my neighbor.
 
-That is the first principle of the program, frame before facts. The theme sentence is the frame. Every rule you say after it answers a question the story raised.
+That is the first principle of the program, Frame before facts. The theme sentence is the frame. Every rule you say after it answers a question the story raised.
 
 It also does something for the newcomer's mood. A sentence like "you are rival bakers racing to fill orders before the shop closes" is an invitation to play pretend. It tells your guest this will be a bit silly, a bit fun, and about something they can picture. For someone nervous about games, that matters more than any rule.
 
@@ -55,7 +55,7 @@ Here is how the opening of [Carcassonne](/academy/carcassonne/) often sounds: "C
 
 Every word of that is true, and almost none of it is useful. Tile-laying and meeples are hobby words. "Features" is a rulebook word. And there is no role, no goal, nothing to picture.
 
-Here it is with all three parts: "We are building a medieval landscape together, one tile at a time, and competing to get credit for its cities, roads and fields."
+Here it is with all three parts: "We are building a medieval landscape together, one tile at a time, and competing to get credit for its cities, roads and monasteries."
 
 - **Role:** builders of a medieval countryside.
 - **Goal:** get credit for the best bits of it.

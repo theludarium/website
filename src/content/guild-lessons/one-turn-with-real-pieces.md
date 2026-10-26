@@ -37,7 +37,7 @@ Three habits make the difference:
 
 - **Say "you," never "a player."** "You take all the red tiles" puts the newcomer in the chair. "A player takes all tiles of one color" puts them in a classroom.
 - **Point and move as you speak.** Each sentence goes with one motion. If a sentence has no motion, ask whether it belongs in the turn at all.
-- **Eyes on the table.** Put the rulebook face down. When everyone is looking at the pieces, nobody is looking at you waiting to be quizzed.
+- **Eyes on the table.** Set the rulebook down beside you, open to the summary, and leave it there. When everyone is looking at the pieces, nobody is looking at you waiting to be quizzed.
 
 ## Pick the boring turn
 

@@ -61,7 +61,7 @@ Brief the helper too: help with the rules and the reference, not the decisions. 
 
 Picture a four-player game of [Ticket to Ride](/academy/ticket-to-ride/): you, two regulars, and a newcomer. Halfway through, one regular reaches for the second of two parallel routes between the same cities. The other regular objects. "You can't take that, the other one's taken." "That's only with two or three players." "No, it's always." A third rule gets dragged in. The newcomer watches, holding their cards, quietly deciding this game has hidden traps.
 
-The rule is clear, as it happens. One player can never claim both routes of a double pair. With 4 or 5 players, both routes can be used, by different players. With 2 or 3, once one is taken, the other closes. The regular is right.
+The rule is clear, as it happens. One player can never claim both routes of a double pair. With 4 or 5 players, both routes can be used, by different players. With 2 or 3, once one is taken, the other closes. At four players, the regular reaching for the route is right.
 
 But the right answer is not the point. The argument is. The fix is a quick ruling: "Four players, so both routes are open, just not to the same person. Go ahead." Then move on. If anyone still disagrees, "Let's check the book after the game" ends it without a winner.
 

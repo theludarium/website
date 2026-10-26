@@ -8,7 +8,7 @@ pubDate: 2026-10-26
 draft: false
 oneIdea: "Party games are learned by watching a round, not by hearing the rules. Give sixty seconds of rules, play one demo that does not count, and let the first real round finish the teach."
 drill: "Teach a party game in under a minute of talking. Time it. Then run one demo round that does not count, and start the real game."
-nextTeaser: "Next, the opposite problem: heavier games that run two hours or more, and how to teach one in two sittings so nobody has to swallow the whole rulebook at once."
+nextTeaser: "Next, the opposite problem: heavier games that run an hour or more, and how to teach one in two sittings so nobody has to swallow the whole rulebook at once."
 check:
   - question: "Why does a party game need a demo round more than a strategy game does?"
     options: ["Party games have more rules", "The fun is in a feeling the rules cannot describe, and newcomers fear performing in public", "Demo rounds make the game last longer"]

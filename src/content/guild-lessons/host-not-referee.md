@@ -52,13 +52,13 @@ Picture yourself holding your phone, about to explain [Ticket to Ride](/academy/
 
 "OK, so you have three options a turn. You can draw two train cards, from the face-up five or the deck, but if you take a face-up locomotive that's your whole draw. Or you claim a route by playing matching cards, gray routes take any one color, and double routes only open one side with two or three players. Or you draw three tickets and keep at least one. Unfinished tickets count against you. Longest path gets ten. The game ends when someone's down to two trains or fewer."
 
-Every word of that is correct. Play it back and count: locomotive, gray routes, double routes, longest path. Four rules a newcomer does not need in minute one. And the most important sentence, what you are trying to do, never arrives.
+Every word of that is correct. Play it back and count: locomotives, gray routes, double routes. Three rules a newcomer does not need in minute one. And the most important sentence, what you are trying to do, never arrives.
 
 Now the host version:
 
-"We are building railroads across America. You have secret tickets that say connect these two cities. Each turn you do one thing: pick up train cards, or spend matching cards to put trains on the map, or take more tickets. Finish your tickets, you score them. Fail one, you lose those points. Most points at the end wins. Let me show you a turn."
+"We are building railroads across America. You have secret tickets that say connect these two cities. Each turn you do one thing: pick up train cards, or spend matching cards to put trains on the map, or take more tickets. Finish your tickets, you score them. Fail one, you lose those points. Most points at the end wins, and the longest railroad gets a bonus. Let me show you a turn."
 
-That one has two game words, both pointed at a piece on the table. It says who you are, what you want, and what you do. Gray routes, locomotives, and the longest path can each wait until the moment they come up.
+That one has two game words, both pointed at a piece on the table. It says who you are, what you want, and what you do. Gray routes, locomotives, and double routes can each wait until the moment they come up.
 
 ## What the host hands over
 

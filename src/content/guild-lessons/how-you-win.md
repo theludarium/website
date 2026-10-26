@@ -55,16 +55,16 @@ Three ways, about thirty seconds. And now listen to how the turn sounds afterwar
 
 Every rule now answers a question the win sentence raised. Your guest is not memorizing; they are filling in a plan.
 
-The ticket penalty is worth naming here, right in the win, rather than saving it. It is the part that surprises people at the end, and it changes how they play from the first turn. A newcomer who learns at the final count that unfinished tickets cost points feels tricked. One who heard it up front feels warned. That warning is also a preview of [the one gotcha](/academy/guild/toolkit/gotcha-index/), which Module 3 comes back to.
+The ticket penalty is worth naming here, right in the win, rather than saving it. It is the part that surprises people at the end, and it changes how they play from the first turn. A newcomer who learns at the final count that unfinished tickets cost points feels tricked. One who heard it up front feels warned. That warning is also a preview of [the one gotcha](/academy/guild/the-one-gotcha/), which Module 3 comes back to.
 
 ## Why the end comes before the middle
 
-This is the principle frame before facts, applied a second time. The theme told your guest who they are. The win tells them what they want. Now they are ready for the rules, because each rule is a tool for getting what they want.
+This is the principle Frame before facts, applied a second time. The theme told your guest who they are. The win tells them what they want. Now they are ready for the rules, because each rule is a tool for getting what they want.
 
-There is a quieter benefit too. A newcomer who knows the scoring can tell when they did something good. That is how the first win early happens: they claim a long route, see the score jump, and know it was a smart move. Without the win sentence, a good move looks the same as any other.
+There is a quieter benefit too. A newcomer who knows the scoring can tell when they did something good. That is how First win early happens: they claim a long route, see the score jump, and know it was a smart move. Without the win sentence, a good move looks the same as any other.
 
 ## Keep it short, even when the game is not
 
-Some games score many ways. [Wingspan](/academy/wingspan/) scores birds, bonus cards, goals, eggs, stored food and tucked cards. You do not need all six in the win sentence. "Most points after four rounds. Most of your points come from the birds you play" is enough to start. The rest arrives as it happens, which is the next principle in action: just in time, not just in case.
+Some games score many ways. [Wingspan](/academy/wingspan/) scores birds, bonus cards, goals, eggs, stored food and tucked cards. You do not need all six in the win sentence. "Most points after four rounds. Most of your points come from the birds you play" is enough to start. The rest arrives as it happens, which is the next principle in action: Just in time, not just in case.
 
 If a game has a sudden-death ending, like the assassin in [Codenames](/academy/codenames/), it goes in the win sentence. Anything that can end the game early is part of how the game ends.

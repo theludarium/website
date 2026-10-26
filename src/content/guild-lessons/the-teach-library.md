@@ -16,7 +16,7 @@ check:
     answer: B
     explain: "A sheet read aloud is the rulebook in a smaller font. Your voice carries the teach; the page is something to point at."
   - question: "A teach sheet lists every setup step and the full scoring. Which of these should you say before the first turn?"
-    options: ["All of it, since it fits on one page", "The goal, the turn, the gotcha, and the ending in one sentence", "Only the three tips"]
+    options: ["All of it, since it fits on one page", "The hook, the win with how it ends, the turn, and the gotcha", "Only the three tips"]
     answer: B
     explain: "The sheet is complete so you can look things up. Your teach is not complete on purpose. Setup is already done, and rare scoring rules wait until they matter."
   - question: "What is the best first edit to make on a printed teach sheet?"
@@ -26,7 +26,7 @@ check:
 games: [ticket-to-ride]
 ---
 
-Every game course in the Ludarium Academy comes with a one-page teach sheet. They live together in [the Teach Library](/academy/guild/toolkit/teach-library/), ready to print. That means for most gateway games, the hardest prep work is already done. You are about to teach your first game from a finished page.
+Nearly every game course in the Ludarium Academy comes with a one-page teach sheet. They live together in [the Teach Library](/academy/guild/toolkit/teach-library/), ready to print. That means for most gateway games, the hardest prep work is already done. You are about to teach your first game from a finished page.
 
 A finished page is a gift and a trap. This lesson shows you how to take the gift.
 
@@ -57,15 +57,15 @@ Use it like this instead.
 
 ## Worked example: Ticket to Ride from its sheet
 
-Picture teaching [Ticket to Ride](/academy/ticket-to-ride/) to your father-in-law, using its [teach sheet](/academy/ticket-to-ride/teach-sheet/). You have set up everything from the setup lines except the tickets.
+Picture teaching [Ticket to Ride](/academy/ticket-to-ride/) to your father-in-law, using its [teach sheet](/academy/ticket-to-ride/teach-sheet/). You have set up everything from the setup lines, with each seat's tickets dealt face down.
 
-You do not start with the sheet's goal line. You start with a hook: "We are railroad barons racing to connect cities across North America." Then the win, short: "Points come from claiming routes, finishing your secret tickets, and the longest railroad."
+You do not start with the sheet's goal line. You start with a hook: "We are railroad barons racing to connect cities across North America." Then the win, short, with the ending in it: "When anyone gets down to two trains or fewer, everyone gets one more turn, and most points wins. Points come from claiming routes, finishing your secret tickets, and the longest railroad."
 
 Now you look at the turn section. It has seven lines. You say three of them: "On your turn, do one thing. Draw two cards, or claim a route by playing matching cards, or draw new tickets." You show a claim with real cards and trains. You add the locomotive line, because it trips people up: a face-up locomotive is your only card that turn.
 
-Then you deal the tickets and say the one rule that surprises people: unfinished tickets cost you their points at the end. The sheet's scoring section has the route values. You point at them and keep going. The rule about double routes with two or three players waits until someone looks at a double route.
+Then everyone flips their tickets, and you say the one rule that surprises people: unfinished tickets cost you their points at the end. The sheet's scoring section has the route values. You point at them and keep going. The rule about double routes with two or three players waits until someone looks at a double route.
 
-Last, the ending in one sentence: "When anyone gets down to two trains, everyone gets one more turn." Then play. You said about a third of the sheet. The other two thirds were there the whole time, on the table, for whoever needed them.
+Then play. You said about a third of the sheet. The other two thirds were there the whole time, on the table, for whoever needed them.
 
 ## Make the sheet yours
 

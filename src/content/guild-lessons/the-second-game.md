@@ -55,8 +55,8 @@ When you keep score on the Second Game, your choices change. You leave rare rule
 
 ## How this program is built
 
-The Guild of Game Teachers follows a game night from start to finish. After this mindset module come five moves: **Pick** the right game, **Prep** before anyone arrives, **Teach** in five minutes, **Play** the first game as part of the teach, and **Close** with the next game on the calendar. Then a field guide for special situations, and a capstone where you teach one non-gamer and earn the title Expert Game Teacher.
+The Guild of Game Teachers follows a game night from start to finish. After this mindset module come five moves: **Pick** the right game, **Prep** before anyone arrives, **Teach** in five minutes, **Play** the first game as part of the teach, and **Close** with the next game on the calendar. Then a field guide for special situations, and a capstone where you teach one non-gamer and earn the title Expert Game Teacher. Along the way you can claim two ranks: Apprentice after Module 2, and Journeyman after Module 5.
 
-Under every lesson sit five principles you will hear again and again: frame before facts, just in time not just in case, first win early, protect dignity, and end on a high. Each one is a way of winning the Second Game.
+Under every lesson sit five principles you will hear again and again: **Frame before facts. Just in time, not just in case. First win early. Protect dignity. End on a high.** Each one is a way of winning the Second Game.
 
 <!-- AT OUR TABLE: one line from Levi about a time a teach won or lost him a second game with someone he wanted to play with -->

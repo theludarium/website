@@ -53,19 +53,18 @@ If they say no, that is not a failure of the program. It is information. Look at
 
 Picture a capstone built on [Azul](/academy/azul/), taught to a neighbor who likes puzzles. Here is the form, field by field.
 
-- **Your name and email.** So Levi can send the certificate.
+- **Your name and email,** and the name to print on the certificate if it is different.
 - **The game you taught.** Azul.
-- **Who the newcomer was to you.** No names needed. "A neighbor who does jigsaw puzzles and has never played a modern board game."
+- **Who the newcomer was to you.** Pick from a short list; a neighbor is "Someone else." No names needed.
 - **Your ten Self-Assessment scores.** Hook 4, goal 5, turn demo 5, gotcha 4, holding back 4, pace 5, checks 3, open round 5, blowout control 4, close 5.
-- **The newcomer's Feedback Card answers.** Copied in their words, not yours.
-- **Did they agree to a second game?** Yes. Cascadia, next Thursday.
-- **A few sentences on what you would change.** "Checks was my lowest line. I asked for questions after the turn demo, but I did not wait long enough. My gotcha was the floor line, and I said it at the start, but I should have said it again when they first had extra tiles. Next time I will pause after the demo and point at the floor line when it happens."
+- **The newcomer's Feedback Card answers.** Copied in their words, not yours. The last question asks whether they would play again. Their answer: yes, Cascadia, next Thursday.
+- **What you would change, in a few sentences.** Optional, but worth writing. "Checks was my lowest line. I asked for questions after the turn demo, but I did not wait long enough. My gotcha was the floor line, and I said it at the start, but I should have said it again when they first had extra tiles. Next time I will pause after the demo and point at the floor line when it happens."
 
-Notice what makes that a strong submission. The scores are honest, including the threes. The change is specific: a line, a moment, and a fix. And the second game has a name and a day.
+Notice what makes that a strong submission. The scores are honest, including the three on checks. The change is specific: a line, a moment, and a fix. And the second game has a name and a day.
 
 ## What happens next
 
-Levi reviews each submission by hand. A review takes about a week. When your capstone is accepted, he emails you your Expert Game Teacher certificate.
+Levi reviews each submission by hand, and a review takes about a week. If your newcomer said yes to another game, he emails you your Expert Game Teacher certificate.
 
 That is the whole process. No test, no fee, no trick questions. Just one person, one game, and an honest account of how it went.
 

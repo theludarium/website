@@ -67,11 +67,11 @@ Picture a teach of [Ticket to Ride](/academy/ticket-to-ride/) to a coworker who 
 - **Holding back: 5.** Double routes waited until someone looked at one.
 - **Pace: 4.** Six minutes, by the timer.
 - **Checks: 2.** You said "Any questions?" and started before anyone could answer.
-- **Open round: 4.** Hands stayed closed, but you thought aloud about your own first move.
+- **Open round: 3.** Hands stayed closed, but you thought aloud about your own first move.
 - **Blowout control: 4.** You won by 22, but the newcomer finished a long ticket and was in it until the end.
 - **Close: 3.** You asked their favorite moment, but did not name a next game.
 
-Total: 39 out of 50. A solid teach. But the total is the least useful number on the page.
+Total: 38 out of 50. A solid teach. But the total is the least useful number on the page.
 
 ## Fix the lowest line first
 
