@@ -15,6 +15,8 @@ Heat: Pedal to the Metal is a racing game where your car is a deck of cards. Eac
 
 Heat plays 1 to 6 in about an hour. This lesson follows the core Rules booklet in the box (version 1.1). The second booklet, with the advanced modules and the Championship, is covered in [the modules lesson](/academy/heat/heat-expansions/) at Level 1.
 
+**Prefer to watch first?** Watch It Played teaches the rules on video in its [Heat How To Play video](https://www.youtube.com/watch?v=Ychy0Tgegjk). Watch it, then come back here for the rules in writing and the rest of the course.
+
 ## What is in the box?
 
 For the core game you need:

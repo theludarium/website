@@ -15,6 +15,8 @@ The Castles of Burgundy is a game about turning dice into a kingdom, one hexagon
 
 This lesson follows the current Ravensburger and alea edition, the reissue with several expansions in the box. Everything here is the base game. Leave the expansions out for now; the [expansions lesson](/academy/castles-of-burgundy/castles-of-burgundy-expansions/) covers them at Level 2.
 
+**Prefer to watch first?** Watch It Played teaches the rules on video in its [Castles of Burgundy How To Play video](https://www.youtube.com/watch?v=UVa31MPbm6g). Watch it, then come back here for the rules in writing and the rest of the course.
+
 ## What is in the box?
 
 A double-sided game board (one side for 4 players, the back for 2 or 3), 164 hex tiles in six colors, 42 goods tiles, silver coins, worker chips, bonus tiles, 16 duchy boards, overview boards, and 9 dice: 2 per player plus a white one. Some hex tiles have black backs; they stock the black depot in the center of the board.

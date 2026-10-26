@@ -15,6 +15,8 @@ Brass: Birmingham puts you in the West Midlands during the Industrial Revolution
 
 This lesson follows the current Roxley rulebook and doubles as your teaching script. The [teach sheet](/academy/brass-birmingham/teach-sheet/) puts the whole game on one printed page.
 
+**Prefer to watch first?** Watch It Played teaches the rules on video in its [Brass: Birmingham How To Play video](https://www.youtube.com/watch?v=Lzxf4tfq9as). Watch it, then come back here for the rules in writing and the rest of the course.
+
 ## What is in the box?
 
 [Brass: Birmingham](https://roxley.com/products/brass-birmingham) plays 2 to 4, ages 14 and up, in 60 to 120 minutes by Roxley's count. You get a board with a day side and a night side (use either), player mats, industry and link tiles in four colors, merchant tiles, cards, coal, iron, beer, and money.

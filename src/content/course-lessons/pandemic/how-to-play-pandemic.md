@@ -15,6 +15,8 @@ Pandemic puts everyone at the table on one team against four diseases spreading 
 
 This lesson covers the current Z-Man Games edition in our own words, with official terms in bold to match the [rulebook](https://cdn.svc.asmodee.net/production-zman/uploads/2024/09/Pandemic_Rulebook.pdf). Our [Pandemic explainer](/articles/pandemic-board-game-explained/) covers why it works.
 
+**Prefer to watch first?** Watch It Played teaches the rules on video in its [Pandemic How To Play video](https://www.youtube.com/watch?v=ojkScPkdgsk). Watch it, then come back here for the rules in writing and the rest of the course.
+
 ## What is in the box?
 
 A board of 48 cities linked by lines, in four colors. Each color is a disease: blue, yellow, black, and red. You also get 96 disease cubes (24 per color), 6 research stations, 7 roles with matching pawns, and markers for the infection rate, outbreaks, and cures.

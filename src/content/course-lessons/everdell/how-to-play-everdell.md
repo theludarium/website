@@ -17,6 +17,8 @@ This lesson follows the rulebook Starling Games links from its current Standard 
 
 <!-- VERIFY: the rules PDF linked from the 3rd edition product page is marked as the 2nd edition (© 2018 to 2021). Confirm the printed 3rd edition rulebook has no rule changes that affect this lesson. -->
 
+**Prefer to watch first?** Watch It Played teaches the rules on video in its [Everdell How To Play video](https://www.youtube.com/watch?v=1b9zQz7COxs). Watch it, then come back here for the rules in writing and the rest of the course.
+
 ## How do you set up?
 
 ![Everdell setup: the Ever Tree with waiting workers, basic Events on the river, the Meadow between Forest cards, and each player's starting hand](/academy/everdell/setup.svg)

@@ -15,6 +15,8 @@ Dune: Imperium is two games in one box. It is a deck builder: everyone starts wi
 
 Uprising is the newer, standalone version, played the same way on a reworked board. This lesson teaches the original from the [Dune: Imperium rulebook](https://d19y2ttatozxjp.cloudfront.net/pdfs/DUNE_IMPERIUM_Rules_2020_10_26.pdf), then flags each place the [Uprising rulebook](https://d19y2ttatozxjp.cloudfront.net/pdfs/DUNE_IMPERIUM_UPRISING_Main_Rulebook_23-10-12.pdf) differs. The [Uprising lesson](/academy/dune-imperium/dune-imperium-uprising-and-expansions/) in Level 3 covers it in depth. For rulings, Dire Wolf keeps an [official FAQ](https://d19y2ttatozxjp.cloudfront.net/pdfs/DUNE_IMPERIUM_FAQ_25-1-13.pdf) that covers both.
 
+**Prefer to watch first?** Watch It Played teaches the rules on video: [Dune: Imperium](https://www.youtube.com/watch?v=nvX9EYxQEfY) and [Uprising](https://www.youtube.com/watch?v=3cwzF63F0ks). Watch them, then come back here for the rules in writing and the rest of the course.
+
 ## How do you set up?
 
 ![The game board with cubes at the bottom of the four Influence tracks, Alliance tokens on the 4 spaces, three troops in each garrison, the Conflict deck, and the score track, with the Imperium Row, decks, and each player's Leader, deck, and water around it](/academy/dune-imperium/setup.svg)
