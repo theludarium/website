@@ -121,9 +121,9 @@ const action = mode === 'join' ? `${WWP_API}/submit` : `${WWP_API}/edit`;
     font-weight: 600;
   }
 
-  /* display: grid above would beat the hidden attribute; keep hidden meaning hidden. */
+  /* The label rule above outranks the hidden attribute; keep hidden meaning hidden. */
   .wwp-form [hidden] {
-    display: none;
+    display: none !important;
   }
 
   .wwp-form small {
