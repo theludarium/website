@@ -1,0 +1,101 @@
+---
+// The Newcomer Feedback Card: five questions after a teach. Kit tool, and part of the capstone.
+import GuildToolLayout from '@/layouts/GuildToolLayout.astro';
+import { FEEDBACK } from '../../../../../functions/api/guild-capstone';
+import '@/styles/guild-tools.css';
+---
+
+<GuildToolLayout
+  tool="feedback-card"
+  title="The Newcomer Feedback Card"
+  description="Five quick questions a new player answers after you teach them a board game, so you learn what worked, where they got lost, and whether they will play again."
+  lesson={{ href: '/academy/guild/delivery/', title: 'Delivery' }}
+>
+  <p class="card-intro">
+    Hand this over after the game, or read the questions aloud. Tell them first: "I am learning to teach games better, and
+    honest answers help me most." Take what they say without arguing.
+  </p>
+  <div class="feedback-cards">
+    {
+      [0, 1].map(() => (
+        <div class="feedback-card">
+          <p class="feedback-card__title">How was my teach?</p>
+          <ol>
+            {FEEDBACK.map((q) => (
+              <li>
+                <p>{q.question}</p>
+                {q.kind === 'choice' ? (
+                  <p class="feedback-card__choices">
+                    {q.options.map((o) => (
+                      <span>&#9711; {o}</span>
+                    ))}
+                  </p>
+                ) : (
+                  <div class="ws-lines">
+                    <span />
+                  </div>
+                )}
+              </li>
+            ))}
+          </ol>
+        </div>
+      ))
+    }
+  </div>
+</GuildToolLayout>
+
+<style>
+  .card-intro {
+    margin-top: 0;
+  }
+
+  .feedback-cards {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: var(--space-4);
+  }
+
+  .feedback-card {
+    padding: var(--space-4);
+    border: 1.5px dashed var(--color-border-strong, var(--color-border));
+    border-radius: var(--radius-md);
+    break-inside: avoid;
+  }
+
+  .feedback-card__title {
+    margin: 0 0 var(--space-2);
+    font-family: var(--font-display);
+    font-size: var(--text-xl);
+    font-weight: 600;
+  }
+
+  .feedback-card ol {
+    display: grid;
+    gap: var(--space-3);
+    margin: 0;
+    padding-left: 1.2em;
+    font-size: var(--text-sm);
+  }
+
+  .feedback-card li p {
+    margin: 0;
+  }
+
+  .feedback-card__choices {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-4);
+    margin-top: var(--space-1) !important;
+    color: var(--color-text-muted);
+  }
+
+  @media (max-width: 40rem) {
+    .feedback-cards {
+      grid-template-columns: 1fr;
+    }
+
+    .feedback-card + .feedback-card {
+      display: none;
+    }
+  }
+</style>

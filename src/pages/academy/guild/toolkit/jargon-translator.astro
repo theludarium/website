@@ -1,0 +1,105 @@
+---
+// The Jargon Translator: hobby words and what to say instead. Public tool.
+// Data: src/data/guild/jargon.json.
+import GuildToolLayout from '@/layouts/GuildToolLayout.astro';
+import jargon from '@/data/guild/jargon.json';
+import '@/styles/guild-tools.css';
+
+const GROUPS = ['Mechanics', 'Turns and rounds', 'Cards', 'Scoring and winning', 'Table talk'];
+const groups = GROUPS.map((name) => ({ name, terms: jargon.filter((t) => t.group === name) })).filter((g) => g.terms.length);
+---
+
+<GuildToolLayout
+  tool="jargon-translator"
+  title="Board Game Jargon in Plain English: The Jargon Translator"
+  description={`${jargon.length} board game words, from worker placement to kingmaking, each in plain English with what to say instead when you teach a game to a newcomer.`}
+  lesson={{ href: '/academy/guild/translate-the-jargon/', title: 'Translate the Jargon' }}
+>
+  <p class="jt-intro">
+    Every hobby word is a small cost to a newcomer: one more thing to decode while they are trying to learn. Use the left
+    column to understand a word. Use the right column at the table instead of the word.
+  </p>
+  <label class="ws-filter">
+    Find a word
+    <input type="search" placeholder="Try drafting or engine" data-jt-filter />
+  </label>
+  {
+    groups.map((g) => (
+      <section class="ws-section" data-jt-group>
+        <h2>{g.name}</h2>
+        <table class="ws-table jt-table">
+          <thead>
+            <tr>
+              <th scope="col">Word</th>
+              <th scope="col">What it means</th>
+              <th scope="col">Say this instead</th>
+            </tr>
+          </thead>
+          <tbody>
+            {g.terms.map((t) => (
+              <tr data-jt-row={`${t.term} ${t.plain}`.toLowerCase()}>
+                <th scope="row">{t.term}</th>
+                <td>{t.plain}</td>
+                <td class="jt-say">“{t.say}”</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </section>
+    ))
+  }
+</GuildToolLayout>
+
+<script>
+  const input = document.querySelector<HTMLInputElement>('[data-jt-filter]');
+  input?.addEventListener('input', () => {
+    const q = input.value.trim().toLowerCase();
+    document.querySelectorAll<HTMLElement>('[data-jt-group]').forEach((group) => {
+      let shown = 0;
+      group.querySelectorAll<HTMLElement>('[data-jt-row]').forEach((row) => {
+        const on = !q || (row.dataset.jtRow ?? '').includes(q);
+        row.hidden = !on;
+        if (on) shown++;
+      });
+      group.hidden = shown === 0;
+    });
+  });
+</script>
+
+<style>
+  .jt-intro {
+    margin-top: 0;
+  }
+
+  .jt-table th[scope='row'] {
+    width: 22%;
+  }
+
+  .jt-table td {
+    width: 39%;
+  }
+
+  .jt-say {
+    font-style: italic;
+  }
+
+  @media (max-width: 40rem) {
+    .jt-table thead {
+      display: none;
+    }
+
+    .jt-table tr {
+      display: grid;
+      gap: var(--space-1);
+      padding: var(--space-3) 0;
+      border-bottom: 1px solid var(--color-border);
+    }
+
+    .jt-table th,
+    .jt-table td {
+      width: auto !important;
+      padding: 0;
+      border: 0;
+    }
+  }
+</style>
