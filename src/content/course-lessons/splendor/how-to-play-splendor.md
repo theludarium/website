@@ -15,7 +15,7 @@ Splendor is a race. Everyone starts with nothing. You take gem pieces, spend the
 
 This lesson follows the current rulebook from Space Cowboys, the 10th anniversary edition. Older boxes have different art and call the pieces "tokens," but the turn works the same way.
 
-**Prefer to watch first?** Watch It Played teaches the rules on video in its [Splendor How To Play video](https://www.youtube.com/watch?v=rue8-jvbc9I). Watch it, then come back here for the rules in writing and the rest of the course.
+**Prefer to watch first?** Watch It Played teaches the rules on video in its <a href="https://www.youtube.com/watch?v=rue8-jvbc9I" target="_blank" rel="noopener">Splendor How To Play video</a>. Watch it, then come back here for the rules in writing and the rest of the course.
 
 ## What is in the box?
 

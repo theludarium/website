@@ -15,7 +15,7 @@ Wingspan is a game about attracting birds to your wildlife preserves. Each bird 
 
 This lesson follows the current Stonemaier Games rulebook, its appendix, and the official Rules and FAQ page. Expansions wait until [the expansions lesson](/academy/wingspan/wingspan-expansions/) at Level 2.
 
-**Prefer to watch first?** Watch It Played teaches the rules on video in its [Wingspan How To Play video](https://www.youtube.com/watch?v=lgDgcLI2B0U). Watch it, then come back here for the rules in writing and the rest of the course.
+**Prefer to watch first?** Watch It Played teaches the rules on video in its <a href="https://www.youtube.com/watch?v=lgDgcLI2B0U" target="_blank" rel="noopener">Wingspan How To Play video</a>. Watch it, then come back here for the rules in writing and the rest of the course.
 
 ## What is in the box?
 

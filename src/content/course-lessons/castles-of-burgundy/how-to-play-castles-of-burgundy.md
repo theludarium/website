@@ -15,7 +15,7 @@ The Castles of Burgundy is a game about turning dice into a kingdom, one hexagon
 
 This lesson follows the current Ravensburger and alea edition, the reissue with several expansions in the box. Everything here is the base game. Leave the expansions out for now; the [expansions lesson](/academy/castles-of-burgundy/castles-of-burgundy-expansions/) covers them at Level 2.
 
-**Prefer to watch first?** Watch It Played teaches the rules on video in its [Castles of Burgundy How To Play video](https://www.youtube.com/watch?v=UVa31MPbm6g). Watch it, then come back here for the rules in writing and the rest of the course.
+**Prefer to watch first?** Watch It Played teaches the rules on video in its <a href="https://www.youtube.com/watch?v=UVa31MPbm6g" target="_blank" rel="noopener">Castles of Burgundy How To Play video</a>. Watch it, then come back here for the rules in writing and the rest of the course.
 
 ## What is in the box?
 

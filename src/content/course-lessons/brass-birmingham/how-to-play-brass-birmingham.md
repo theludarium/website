@@ -15,7 +15,7 @@ Brass: Birmingham puts you in the West Midlands during the Industrial Revolution
 
 This lesson follows the current Roxley rulebook and doubles as your teaching script. The [teach sheet](/academy/brass-birmingham/teach-sheet/) puts the whole game on one printed page.
 
-**Prefer to watch first?** Watch It Played teaches the rules on video in its [Brass: Birmingham How To Play video](https://www.youtube.com/watch?v=Lzxf4tfq9as). Watch it, then come back here for the rules in writing and the rest of the course.
+**Prefer to watch first?** Watch It Played teaches the rules on video in its <a href="https://www.youtube.com/watch?v=Lzxf4tfq9as" target="_blank" rel="noopener">Brass: Birmingham How To Play video</a>. Watch it, then come back here for the rules in writing and the rest of the course.
 
 ## What is in the box?
 

@@ -15,7 +15,7 @@ Carcassonne is a game about building a map together and arguing, politely, over 
 
 This lesson covers the rules in the current Z-Man Games edition. The rulebook splits them in two: the core rules, then a supplemental sheet for farmers and two small extras. We follow the same order.
 
-**Prefer to watch first?** Watch It Played teaches the rules on video in its [Carcassonne How To Play video](https://www.youtube.com/watch?v=R1qh-lhxy9s). Watch it, then come back here for the rules in writing and the rest of the course.
+**Prefer to watch first?** Watch It Played teaches the rules on video in its <a href="https://www.youtube.com/watch?v=R1qh-lhxy9s" target="_blank" rel="noopener">Carcassonne How To Play video</a>. Watch it, then come back here for the rules in writing and the rest of the course.
 
 ## What is in the box?
 

@@ -28,7 +28,7 @@ Maybe you played Catan once at a friend's house. Someone handed you a pile of sh
 
 Road to the Catan Championship is 40 free lessons, in six levels, that take you from opening the box to understanding what it takes to win a National Championship. Level 0 has one goal: set up and finish a game without reaching for the rulebook. This first lesson is the map. What the game is, where it came from, and the single goal every game shares.
 
-**Prefer to watch first?** Watch It Played teaches the rules on video in its [Catan How To Play video](https://www.youtube.com/watch?v=oiQ6SgBzfqY). Watch it, then come back here: the next four lessons walk the same rules in writing, one step at a time.
+**Prefer to watch first?** Watch It Played teaches the rules on video in its <a href="https://www.youtube.com/watch?v=oiQ6SgBzfqY" target="_blank" rel="noopener">Catan How To Play video</a>. Watch it, then come back here: the next four lessons walk the same rules in writing, one step at a time.
 
 ## What is Catan, in plain words?
 

@@ -15,7 +15,7 @@ Dinosaur Island puts you in charge of a dinosaur theme park. You research DNA, b
 
 The game plays 1 to 4 in one to two hours. This lesson follows the official Rulebook 2.0 from Pandasaurus Games. Solo play has its own lesson at [Level 4](/academy/dinosaur-island/dinosaur-island-solo-mode/).
 
-**Prefer to watch first?** Watch It Played teaches the rules on video in its [Dinosaur Island How To Play video](https://www.youtube.com/watch?v=dY3gdGNP698). Watch it, then come back here for the rules in writing and the rest of the course.
+**Prefer to watch first?** Watch It Played teaches the rules on video in its <a href="https://www.youtube.com/watch?v=dY3gdGNP698" target="_blank" rel="noopener">Dinosaur Island How To Play video</a>. Watch it, then come back here for the rules in writing and the rest of the course.
 
 ## What is in the box?
 
