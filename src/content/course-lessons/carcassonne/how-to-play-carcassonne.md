@@ -15,6 +15,8 @@ Carcassonne is a game about building a map together and arguing, politely, over 
 
 This lesson covers the rules in the current Z-Man Games edition. The rulebook splits them in two: the core rules, then a supplemental sheet for farmers and two small extras. We follow the same order.
 
+**Prefer to watch first?** Watch It Played teaches the rules on video in its [Carcassonne How To Play video](https://www.youtube.com/watch?v=R1qh-lhxy9s). Watch it, then come back here for the rules in writing and the rest of the course.
+
 ## What is in the box?
 
 You get a start tile with a dark back, a large set of land tiles with normal backs, a scoreboard, and meeples in five colors, 8 per color. There are also 12 river tiles (dark backs) and 5 abbots. Those are the two mini-expansions included in the box. Leave both out for now; the [expansions lesson](/academy/carcassonne/carcassonne-expansions/) in Level 1 covers them.

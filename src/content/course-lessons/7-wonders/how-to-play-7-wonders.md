@@ -15,6 +15,8 @@ nextTeaser: "Next, the teach. You get a ten-minute host script for 7 Wonders, a 
 
 This lesson covers both, from the current Repos Production rulebooks: the [7 Wonders second edition rules](https://cdn.svc.asmodee.net/production-rprod/storage/downloads/games/7wonders/en/sev-en02-rules-1716388903zBEZx.pdf) and the [7 Wonders Duel rules](https://cdn.svc.asmodee.net/production-rprod/storage/downloads/games/7wonders-duel/en/7du-rules-us-15990558193s5I6.pdf). Learn the big game first. Duel will feel familiar after.
 
+**Prefer to watch first?** Watch It Played teaches the rules on video: [7 Wonders (second edition)](https://www.youtube.com/watch?v=QVLUu7qkLWI) and [7 Wonders Duel](https://www.youtube.com/watch?v=SxQkMRUvCJ8). Watch them, then come back here for the rules in writing and the rest of the course.
+
 ## 7 Wonders: setup
 
 ![A four-player 7 Wonders table: the three Age decks, discard space, coin reserve, and Conflict tokens in the middle, and each player's Wonder board with 3 coins](/academy/7-wonders/setup.svg)

@@ -15,6 +15,8 @@ Flip 7 is a card game about one question, asked over and over: one more card, or
 
 This lesson walks the [Flip 7 teach sheet](/academy/flip-7/teach-sheet/) in order. It follows the publisher's current rulebook, Ruleset Edition 3.1, and its official FAQ.
 
+**Prefer to watch first?** Watch It Played teaches the rules on video in its [Flip 7 How To Play video](https://www.youtube.com/watch?v=rX9BG34YOT0). Watch it, then come back here for the rules in writing and the rest of the course.
+
 ## What is in the deck?
 
 Flip 7 is one deck of 94 cards, in three kinds.
