@@ -1,6 +1,6 @@
 ---
 title: "Keep the Streak"
-description: "How to turn one board game night into a regular habit: a fixed night, the same people, one new game a month, and a new player who teaches a game to someone else."
+description: "How to turn one board game night into a regular habit: a fixed night, the same people, one new game a month, and a new player who teaches a game to someone new."
 module: 5
 order: 25
 emailSubject: "Same night, same people, one new game"

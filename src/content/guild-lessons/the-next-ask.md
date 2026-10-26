@@ -1,6 +1,6 @@
 ---
 title: "The Next Ask"
-description: "How to turn one good board game night into a second one: propose the next game before anyone stands up, make it specific, and give the newcomer a reason to say yes."
+description: "How to turn one good board game night into a second: propose the next game before anyone stands up, make it specific, and give the newcomer a reason to say yes."
 module: 5
 order: 24
 emailSubject: "Get the date before they get their coat"

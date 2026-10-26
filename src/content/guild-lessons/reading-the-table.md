@@ -1,6 +1,6 @@
 ---
 title: "Reading the Table Mid-Game"
-description: "How to tell when a new player has checked out of a board game, and what to do next: shorten it, call it at a natural stop, or switch to a short game that ends well."
+description: "How to tell when a new player has checked out of a board game, and what to do: shorten it, call it at a natural stop, or switch to a short game that ends well."
 module: 4
 order: 22
 emailSubject: "When to call the game early"

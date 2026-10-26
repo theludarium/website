@@ -13,7 +13,11 @@ const isBuild = process.argv.includes('build');
 const showDrafts = branch ? branch !== 'main' : !isBuild;
 
 // Pages that should never be in search results (also marked noindex on the page).
-const NOT_IN_SITEMAP = ['/search/', '/newsletter/thanks/', '/newsletter/confirmed/', '/corporate-events/thanks/', '/lounges/thanks/', '/malaphors/thanks/', '/malaphors/confirmed/', '/academy/thanks/', '/academy/confirmed/'];
+const NOT_IN_SITEMAP = ['/search/', '/newsletter/thanks/', '/newsletter/confirmed/', '/corporate-events/thanks/', '/lounges/thanks/', '/malaphors/thanks/', '/malaphors/confirmed/', '/academy/thanks/', '/academy/confirmed/',
+  // Guild of Game Teachers pages kept out of search: the email kit, the email-only toolkit printables, the capstone thanks page and Levi's certificate maker (see src/lib/guild-tools.ts).
+  '/academy/guild/kit/', '/academy/guild/certificate/', '/academy/guild/capstone/thanks/',
+  '/academy/guild/toolkit/teach-script/', '/academy/guild/toolkit/game-ladder/', '/academy/guild/toolkit/pre-flight-checklist/',
+  '/academy/guild/toolkit/feedback-card/', '/academy/guild/toolkit/self-assessment/'];
 
 // RPG Demo Library demos are copied in after the build (scripts/rpg-demo-library.mjs),
 // so list them for the sitemap here.

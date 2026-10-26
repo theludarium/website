@@ -1,6 +1,6 @@
 ---
 title: "A Full Table of Newcomers"
-description: "How to teach a board game when nobody else at the table has played: sit in and play slowly, recruit your fastest learner as a helper, and pick a team or party game first."
+description: "How to teach a board game when nobody else at the table has played: play slowly, recruit your fastest learner as a helper, and start with a team game."
 module: 6
 order: 26
 emailSubject: "Five new players and one of you"

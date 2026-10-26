@@ -1,6 +1,6 @@
 ---
 title: "Mixed Tables"
-description: "How to teach a board game when experienced gamers and newcomers share a table: one voice teaches, strategy talk waits, and the seating turns gamers into helpers."
+description: "How to teach a board game when experienced gamers and newcomers share a table: one voice teaches, strategy talk waits, and seating turns gamers into helpers."
 module: 6
 order: 27
 emailSubject: "When the gamers start teaching over you"

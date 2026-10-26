@@ -1,6 +1,6 @@
 ---
 title: "Teaching Kids"
-description: "How to teach a board game to kids, with practical rules of thumb by age: short games and hands on pieces for little ones, full rules for older kids, and adult teens."
+description: "How to teach a board game to kids, with rules of thumb by age: short games and hands on pieces for little ones, full rules for older kids, and adult teens."
 module: 6
 order: 28
 emailSubject: "Teaching a game to a six-year-old"
