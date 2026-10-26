@@ -378,7 +378,7 @@ Levi liked Catan's Level 0 to 5 structure (learn to play up to expert) and asked
 
 ## 2026-10-26: Course lessons by email, starting with the Start here courses
 
-- **Every course page signup now gets its lessons by email** for Ticket to Ride, Wingspan, Codenames, Pokémon and Magic (Catan already had its own). Until now those signups joined the general newsletter and got no lessons. The other courses follow in batches with the same setup; until then their signups still join the general newsletter.
+- **Every course page signup now gets its lessons by email** for Ticket to Ride, Wingspan, Codenames, Pokémon and Magic (Catan already had its own). Until now those signups joined the general newsletter and got no lessons. The other 26 courses got the same setup later the same day, so every published game course now sends its lessons by email (Riftbound joins when it is published).
 - **One Kit form, tag and sequence per course,** one email per lesson built from the lesson files (`scripts/course-emails.mjs`, template in `docs/academy/LESSON-EMAIL.md`). The map is `docs/academy/COURSE-EMAILS.md`.
 - **Pace, Levi's call: two lessons a week.** Lesson 1 sends as soon as the reader confirms, then Tuesdays and Fridays at about 8 a.m. Indiana time.
 - **One shared pause.** "Pause your Academy lessons for two weeks" in every email pauses every course the reader is taking, then resumes on its own, rather than a pause per course.
