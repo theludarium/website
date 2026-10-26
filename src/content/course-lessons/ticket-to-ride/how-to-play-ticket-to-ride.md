@@ -15,7 +15,7 @@ Ticket to Ride is a game about building railroads across North America and quiet
 
 This lesson follows the current Days of Wonder rulebook, the 2025 edition of the original USA map. Older boxes differ in one setup detail, noted below.
 
-**Prefer to watch first?** Watch It Played teaches the rules on video in its [Ticket to Ride How To Play video](https://www.youtube.com/watch?v=4JhFhyvGdik). Watch it, then come back here for the rules in writing and the rest of the course.
+**Prefer to watch first?** Watch It Played teaches the rules on video in its <a href="https://www.youtube.com/watch?v=4JhFhyvGdik" target="_blank" rel="noopener">Ticket to Ride How To Play video</a>. Watch it, then come back here for the rules in writing and the rest of the course.
 
 ## What is in the box?
 

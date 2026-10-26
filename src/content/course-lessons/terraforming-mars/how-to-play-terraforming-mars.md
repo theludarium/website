@@ -15,7 +15,7 @@ Terraforming Mars puts you in charge of a corporation, centuries from now, paid 
 
 This lesson covers the standard game from the current FryxGames rulebook: no Corporate Era cards, no draft, no expansions.
 
-**Prefer to watch first?** Watch It Played teaches the rules on video in its [Terraforming Mars How To Play video](https://www.youtube.com/watch?v=n3yVpsiVwL8). Watch it, then come back here for the rules in writing and the rest of the course.
+**Prefer to watch first?** Watch It Played teaches the rules on video in its <a href="https://www.youtube.com/watch?v=n3yVpsiVwL8" target="_blank" rel="noopener">Terraforming Mars How To Play video</a>. Watch it, then come back here for the rules in writing and the rest of the course.
 
 ## What are you trying to do?
 
