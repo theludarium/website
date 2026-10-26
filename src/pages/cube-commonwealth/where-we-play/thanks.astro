@@ -1,0 +1,53 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageIntro from '@/components/PageIntro.astro';
+import WhereWePlayResults from '@/components/WhereWePlayResults.astro';
+import { WWP_BASE } from '@/lib/where-we-play/shared';
+---
+
+<BaseLayout
+  title="Location received"
+  description="Thanks for sharing where you drive from. Check your email for your private link, then see which venues the Cube Commonwealth can reach."
+  noindex
+>
+  <PageIntro eyebrow="Where We Play" title="Thanks. Check your email." lede="Your confirmation is on its way with a private link to update or delete your entry any time.">
+    <p class="wwp-thanks__note" data-wwp-thanks hidden></p>
+    <div class="wwp-thanks__actions">
+      <a class="button button--ghost" href={WWP_BASE + '/'}>Back to Where We Play</a>
+    </div>
+  </PageIntro>
+  <WhereWePlayResults heading="Where the group can reach so far" />
+</BaseLayout>
+
+<style>
+  .wwp-thanks__note {
+    max-width: var(--width-content);
+    margin: var(--space-4) 0 0;
+    padding: var(--space-3) var(--space-4);
+    border-radius: var(--radius-md);
+    background: var(--color-accent-soft);
+    font-weight: 600;
+  }
+
+  .wwp-thanks__actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-3);
+    margin-top: var(--space-5);
+  }
+</style>
+
+<script>
+  const params = new URLSearchParams(location.search);
+  const note = document.querySelector<HTMLElement>('[data-wwp-thanks]');
+  if (note) {
+    const lines: string[] = [];
+    if (params.get('updated')) lines.push('We already had an entry for that email, so we updated it and sent you a fresh link.');
+    if (params.get('geocode') === 'failed') lines.push('We could not place that address on the map. The admin will take a look; you can also fix it from your link.');
+    if (params.get('email') === 'failed') lines.push('The confirmation email could not be sent just now. Your entry is saved; the admin can resend your link.');
+    if (lines.length) {
+      note.textContent = lines.join(' ');
+      note.hidden = false;
+    }
+  }
+</script>

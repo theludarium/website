@@ -13,7 +13,7 @@ const isBuild = process.argv.includes('build');
 const showDrafts = branch ? branch !== 'main' : !isBuild;
 
 // Pages that should never be in search results (also marked noindex on the page).
-const NOT_IN_SITEMAP = ['/search/', '/newsletter/thanks/', '/newsletter/confirmed/', '/corporate-events/thanks/', '/lounges/thanks/', '/malaphors/thanks/', '/malaphors/confirmed/', '/academy/thanks/', '/academy/confirmed/'];
+const NOT_IN_SITEMAP = ['/search/', '/newsletter/thanks/', '/newsletter/confirmed/', '/corporate-events/thanks/', '/lounges/thanks/', '/malaphors/thanks/', '/malaphors/confirmed/', '/academy/thanks/', '/academy/confirmed/', '/cube-commonwealth/where-we-play/thanks/', '/cube-commonwealth/where-we-play/edit/', '/cube-commonwealth/where-we-play/admin/'];
 
 // RPG Demo Library demos are copied in after the build (scripts/rpg-demo-library.mjs),
 // so list them for the sitemap here.

@@ -1,0 +1,295 @@
+---
+// The Where We Play member form. On the member page it posts to
+// /api/where-we-play/submit; on the edit page it is prefilled by script and
+// posts to /api/where-we-play/edit with the private token.
+import { TURNSTILE_SITE_KEY } from '@/lib/config';
+import { IS_PREVIEW } from '@/lib/env';
+import { LIMITS, PRIVACY_LINE, SLOTS, WWP_API } from '@/lib/where-we-play/shared';
+
+interface Props {
+  mode?: 'join' | 'edit';
+}
+
+const { mode = 'join' } = Astro.props;
+const TEST_SITE_KEY = '1x00000000000000000000AA'; // Cloudflare's always-pass test key
+const siteKey = mode === 'join' ? TURNSTILE_SITE_KEY || (IS_PREVIEW ? TEST_SITE_KEY : '') : '';
+const action = mode === 'join' ? `${WWP_API}/submit` : `${WWP_API}/edit`;
+---
+
+<form class="wwp-form" action={action} method="post" data-wwp-form data-mode={mode} novalidate>
+  <p class="wwp-form__error" role="alert" data-wwp-error hidden></p>
+  {mode === 'edit' && <input type="hidden" name="t" data-token />}
+
+  <div class="wwp-form__row">
+    <label>
+      Email <span class="wwp-form__req">required</span>
+      <input name="email" type="email" autocomplete="email" maxlength={LIMITS.email} required readonly={mode === 'edit'} />
+      <small>For your confirmation and your private edit link. Nothing else.</small>
+    </label>
+    <label>
+      Discord handle <span class="wwp-form__opt">optional</span>
+      <input name="discord_handle" autocomplete="off" maxlength={LIMITS.discordHandle} placeholder="cubeplayer" />
+    </label>
+  </div>
+
+  <div class="wwp-form__row">
+    <label>
+      First name <span class="wwp-form__opt">optional</span>
+      <input name="first_name" autocomplete="given-name" maxlength={LIMITS.firstName} />
+    </label>
+    <label class="wwp-form__zip">
+      Zip code <span class="wwp-form__req">required</span>
+      <input name="zip" inputmode="numeric" autocomplete="postal-code" pattern="[0-9]{5}" maxlength="5" required />
+    </label>
+  </div>
+
+  <label>
+    Street address <span class="wwp-form__opt">optional, but it makes the drive times real</span>
+    <input name="street_address" autocomplete="street-address" maxlength={LIMITS.streetAddress} placeholder="123 Main St, Carmel, IN" data-street />
+  </label>
+
+  <label data-cross hidden>
+    Nearest cross street <span class="wwp-form__opt">optional</span>
+    <input name="cross_street" autocomplete="off" maxlength={LIMITS.crossStreet} placeholder="Main St and 116th St" />
+    <small>Lets a map show you at the corner instead of at your house.</small>
+  </label>
+
+  <fieldset>
+    <legend>When can you usually play? <span>Pick any</span></legend>
+    <div class="chips">
+      {
+        SLOTS.map((slot) => (
+          <label class="chip">
+            <input type="checkbox" name="availability" value={slot.key} />
+            <span>{slot.label}</span>
+          </label>
+        ))
+      }
+    </div>
+  </fieldset>
+
+  {
+    mode === 'join' && (
+      <div class="wwp-form__trap" aria-hidden="true">
+        <label>
+          Leave this empty <input name="website" tabindex="-1" autocomplete="off" />
+        </label>
+      </div>
+    )
+  }
+
+  {siteKey && <div class="cf-turnstile" data-sitekey={siteKey} data-theme="auto"></div>}
+
+  <div class="wwp-form__actions">
+    <button class="button" type="submit">{mode === 'join' ? 'Share my location' : 'Save my changes'}</button>
+    {
+      mode === 'edit' && (
+        <button class="button button--ghost wwp-form__delete" type="button" data-delete>
+          Delete my entry
+        </button>
+      )
+    }
+  </div>
+  <p class="wwp-form__fine">
+    {PRIVACY_LINE} <a href="/privacy/">Privacy</a> <span aria-hidden="true">·</span> <a href="/terms/">Terms</a>
+  </p>
+</form>
+
+{siteKey && <script is:inline src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>}
+
+<style>
+  .wwp-form {
+    display: grid;
+    gap: var(--space-5);
+    padding: var(--space-6);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-card);
+    background: var(--color-surface);
+    box-shadow: var(--shadow-md);
+  }
+
+  .wwp-form__row {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 14rem), 1fr));
+    gap: var(--space-4);
+  }
+
+  .wwp-form label:not(.chip) {
+    display: grid;
+    gap: var(--space-2);
+    font-size: var(--text-sm);
+    font-weight: 600;
+  }
+
+  /* display: grid above would beat the hidden attribute; keep hidden meaning hidden. */
+  .wwp-form [hidden] {
+    display: none;
+  }
+
+  .wwp-form small {
+    font-weight: 400;
+    color: var(--color-text-muted);
+  }
+
+  .wwp-form__req,
+  .wwp-form__opt {
+    font-weight: 400;
+    color: var(--color-text-muted);
+  }
+
+  .wwp-form input:not([type='checkbox']) {
+    width: 100%;
+    padding: 0.7em 0.9em;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    background: var(--color-bg);
+    color: var(--color-text);
+    font: inherit;
+    font-weight: 400;
+  }
+
+  .wwp-form input[readonly] {
+    color: var(--color-text-muted);
+  }
+
+  .wwp-form input:focus-visible {
+    outline: 3px solid var(--color-focus);
+    outline-offset: 1px;
+  }
+
+  .wwp-form fieldset {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    min-width: 0;
+  }
+
+  .wwp-form legend {
+    margin-bottom: var(--space-3);
+    padding: 0;
+    font-size: var(--text-sm);
+    font-weight: 600;
+  }
+
+  .wwp-form legend span {
+    font-weight: 400;
+    color: var(--color-text-muted);
+  }
+
+  .chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+  }
+
+  .chip {
+    position: relative;
+    cursor: pointer;
+  }
+
+  .chip input {
+    position: absolute;
+    opacity: 0;
+    inset: 0;
+    cursor: pointer;
+  }
+
+  .chip span {
+    display: inline-block;
+    padding: 0.45em 1em;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-pill);
+    background: var(--color-bg);
+    font-size: var(--text-sm);
+    font-weight: 600;
+    transition: background var(--transition), border-color var(--transition), color var(--transition);
+  }
+
+  .chip:hover span {
+    border-color: var(--color-primary);
+  }
+
+  .chip input:checked + span {
+    background: var(--color-primary);
+    border-color: var(--color-primary);
+    color: var(--color-on-primary);
+  }
+
+  .chip input:focus-visible + span {
+    outline: 3px solid var(--color-focus);
+    outline-offset: 2px;
+  }
+
+  .wwp-form__trap {
+    position: absolute;
+    left: -10000px;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+  }
+
+  .wwp-form__actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-3);
+  }
+
+  .wwp-form__fine {
+    margin: 0;
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+
+  .wwp-form__error {
+    margin: 0;
+    padding: var(--space-3) var(--space-4);
+    border-radius: var(--radius-md);
+    background: var(--color-accent-soft);
+    font-weight: 600;
+  }
+
+  @media (max-width: 40rem) {
+    .wwp-form {
+      padding: var(--space-5);
+    }
+
+    .wwp-form__actions .button {
+      width: 100%;
+    }
+  }
+</style>
+
+<script>
+  const MESSAGES: Record<string, string> = {
+    missing: 'Please give at least your email and zip code.',
+    email: 'That email address does not look right. Please check it.',
+    zip: 'Zip codes are five digits.',
+    long: 'One of your answers is a little long. Please shorten it.',
+    verify: 'We could not confirm you are human. Please try again.',
+    slow: 'That is a lot of submissions from one place. Please wait an hour and try again.',
+    unavailable: 'Sorry, the form is not working right now. Please try again later.',
+  };
+
+  for (const form of document.querySelectorAll<HTMLFormElement>('[data-wwp-form]')) {
+    const errorBox = form.querySelector<HTMLElement>('[data-wwp-error]')!;
+    const street = form.querySelector<HTMLInputElement>('[data-street]')!;
+    const cross = form.querySelector<HTMLElement>('[data-cross]')!;
+
+    // The cross street only matters once there is a street address to hide.
+    const syncCross = () => {
+      cross.hidden = street.value.trim() === '';
+    };
+    street.addEventListener('input', syncCross);
+    syncCross();
+
+    const error = new URLSearchParams(location.search).get('error');
+    if (error && MESSAGES[error]) {
+      errorBox.textContent = MESSAGES[error];
+      errorBox.hidden = false;
+    }
+
+    form.addEventListener('submit', (event) => {
+      if (!form.reportValidity()) event.preventDefault();
+    });
+  }
+</script>

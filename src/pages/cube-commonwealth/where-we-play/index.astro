@@ -1,0 +1,314 @@
+---
+// Where We Play, member page. Follows the landing page rules in CLAUDE.md:
+// one outcome (share your location), one action, three objections, legal links.
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PreviewNote from '@/components/PreviewNote.astro';
+import WhereWePlayForm from '@/components/WhereWePlayForm.astro';
+import WhereWePlayResults from '@/components/WhereWePlayResults.astro';
+import { TURNSTILE_SITE_KEY } from '@/lib/config';
+import { IS_PREVIEW } from '@/lib/env';
+import { LIMITS, WWP_API } from '@/lib/where-we-play/shared';
+
+const TEST_SITE_KEY = '1x00000000000000000000AA';
+const siteKey = TURNSTILE_SITE_KEY || (IS_PREVIEW ? TEST_SITE_KEY : '');
+---
+
+<BaseLayout
+  title="Where We Play"
+  description="Help the Cube Commonwealth pick where to meet. Share your zip or address, privately, and we find the game stores, libraries, and pubs with the shortest drive for the most people."
+>
+  <section class="wwp-hero">
+    <div class="container wwp-hero__grid">
+      <div>
+        <p class="eyebrow">Cube Commonwealth</p>
+        <h1>Help us pick where we play.</h1>
+        <p class="wwp-hero__sub">
+          Share where you live, privately, and we will find the venues with the shortest drive for the
+          most people. The group only ever sees drive-time summaries.
+        </p>
+        <a class="button" href="#join">Share my location</a>
+        <p class="wwp-hero__fine">Takes a minute. Zip code is enough. Built by The Ludarium for the Cube Commonwealth first, other groups next.</p>
+      </div>
+      <div class="wwp-hero__art" aria-hidden="true">
+        <svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg" role="img">
+          <title>Member dots around a venue, with drive-time rings</title>
+          <rect width="400" height="300" rx="24" fill="var(--color-surface-alt)" />
+          <g stroke="var(--color-border)" stroke-width="2" fill="none" opacity="0.9">
+            <path d="M0 110 C 90 100, 160 140, 400 120" />
+            <path d="M0 200 C 120 210, 220 170, 400 190" />
+            <path d="M120 0 C 130 90, 110 200, 140 300" />
+            <path d="M270 0 C 250 110, 290 190, 260 300" />
+          </g>
+          <g fill="none" stroke="var(--color-cta)" stroke-width="2" opacity="0.6">
+            <circle cx="210" cy="150" r="52" />
+            <circle cx="210" cy="150" r="96" stroke-dasharray="6 8" />
+          </g>
+          <g fill="var(--color-primary)">
+            <circle cx="92" cy="78" r="7" />
+            <circle cx="150" cy="60" r="7" />
+            <circle cx="300" cy="72" r="7" />
+            <circle cx="338" cy="140" r="7" />
+            <circle cx="248" cy="232" r="7" />
+            <circle cx="120" cy="214" r="7" />
+            <circle cx="70" cy="160" r="7" />
+            <circle cx="184" cy="248" r="7" />
+            <circle cx="290" cy="196" r="7" />
+            <circle cx="180" cy="108" r="7" />
+          </g>
+          <g transform="translate(210 150)">
+            <path d="M0 -34 C 18 -34, 26 -20, 26 -8 C 26 8, 8 22, 0 36 C -8 22, -26 8, -26 -8 C -26 -20, -18 -34, 0 -34 Z" fill="var(--color-cta)" />
+            <circle r="9" cy="-8" fill="var(--color-on-cta)" />
+          </g>
+        </svg>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--tight-top" id="join" aria-labelledby="join-title">
+    <div class="container wwp-join">
+      <div class="wwp-join__intro">
+        <h2 id="join-title">Where do you drive from?</h2>
+        <p>Email and zip are all we need. A street address makes your drive times real instead of a guess from the middle of your zip.</p>
+        {
+          !TURNSTILE_SITE_KEY && (
+            <PreviewNote>
+              Previews use a spam check that always passes and, without a Resend key, log the confirmation
+              email instead of sending it.
+            </PreviewNote>
+          )
+        }
+      </div>
+      <WhereWePlayForm mode="join" />
+    </div>
+  </section>
+
+  <section class="section wwp-points" aria-labelledby="wwp-points-title">
+    <div class="container">
+      <h2 id="wwp-points-title" class="visually-hidden">Common questions</h2>
+      <ul class="wwp-points__list">
+        <li>
+          <h3>Who sees my address?</h3>
+          <p>Only the app's admin, to compute your drive times. It is never shared and never shown. Everyone else sees summaries like "a median 14 minute drive for 40 members."</p>
+        </li>
+        <li>
+          <h3>What if I only give a zip?</h3>
+          <p>That works. We use the center of your zip, which is close enough to rank venues. A street address or a nearby cross street makes it sharper.</p>
+        </li>
+        <li>
+          <h3>What do I get out of it?</h3>
+          <p>Meetups closer to you. The more people share, the better the pick, and your availability helps set the night too.</p>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <WhereWePlayResults />
+
+  <section class="section section--tight-top" id="suggest" aria-labelledby="suggest-title">
+    <div class="container wwp-suggest">
+      <div class="wwp-suggest__intro">
+        <h2 id="suggest-title">Know a good spot?</h2>
+        <p>A game store with open tables, a library room, a brewery that would not mind a Cube draft. Suggest it and the admin will check it out.</p>
+      </div>
+      <form class="wwp-suggest__form" action={`${WWP_API}/suggest-venue`} method="post" data-wwp-suggest data-pagefind-ignore>
+        <p class="wwp-suggest__msg" role="status" data-wwp-suggest-msg hidden></p>
+        <label>
+          Venue name
+          <input name="venue_name" maxlength={LIMITS.venueName} required />
+        </label>
+        <label>
+          Address
+          <input name="venue_address" maxlength={LIMITS.venueAddress} placeholder="Street, city" required />
+        </label>
+        <label>
+          Anything we should know? <span>optional</span>
+          <textarea name="venue_note" rows="3" maxlength={LIMITS.note} placeholder="Open until 11, eight big tables, ask for Sam"></textarea>
+        </label>
+        <div class="wwp-suggest__trap" aria-hidden="true">
+          <label>Leave this empty <input name="website" tabindex="-1" autocomplete="off" /></label>
+        </div>
+        {siteKey && <div class="cf-turnstile" data-sitekey={siteKey} data-theme="auto"></div>}
+        <button class="button button--ghost" type="submit">Suggest this venue</button>
+      </form>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .wwp-hero {
+    padding-block: var(--space-8) var(--space-6);
+  }
+
+  .wwp-hero__grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1.1fr) minmax(0, 0.9fr);
+    align-items: center;
+    gap: var(--space-8);
+  }
+
+  .wwp-hero h1 {
+    max-width: 14ch;
+    font-size: var(--text-4xl);
+  }
+
+  .wwp-hero__sub {
+    max-width: 34rem;
+    margin-bottom: var(--space-6);
+    font-size: var(--text-lg);
+    color: var(--color-text-muted);
+  }
+
+  .wwp-hero__fine {
+    margin: var(--space-4) 0 0;
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+
+  .wwp-hero__art svg {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: var(--radius-card);
+    box-shadow: var(--shadow-lg);
+  }
+
+  .wwp-join,
+  .wwp-suggest {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1.4fr);
+    gap: var(--space-7);
+    align-items: start;
+  }
+
+  .wwp-join__intro p,
+  .wwp-suggest__intro p {
+    color: var(--color-text-muted);
+  }
+
+  .wwp-points {
+    padding-top: var(--space-6);
+  }
+
+  .wwp-points__list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr));
+    gap: var(--space-5);
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .wwp-points__list li {
+    padding: var(--space-5);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-card);
+    background: var(--color-surface);
+  }
+
+  .wwp-points__list h3 {
+    margin: 0 0 var(--space-2);
+    font-size: var(--text-lg);
+  }
+
+  .wwp-points__list p {
+    margin: 0;
+    color: var(--color-text-muted);
+  }
+
+  .wwp-suggest__form {
+    display: grid;
+    gap: var(--space-4);
+    padding: var(--space-6);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-card);
+    background: var(--color-surface);
+  }
+
+  .wwp-suggest__form label {
+    display: grid;
+    gap: var(--space-2);
+    font-size: var(--text-sm);
+    font-weight: 600;
+  }
+
+  .wwp-suggest__form label span {
+    font-weight: 400;
+    color: var(--color-text-muted);
+  }
+
+  .wwp-suggest__form input,
+  .wwp-suggest__form textarea {
+    width: 100%;
+    padding: 0.7em 0.9em;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    background: var(--color-bg);
+    color: var(--color-text);
+    font: inherit;
+    font-weight: 400;
+  }
+
+  .wwp-suggest__form textarea {
+    resize: vertical;
+  }
+
+  .wwp-suggest__form input:focus-visible,
+  .wwp-suggest__form textarea:focus-visible {
+    outline: 3px solid var(--color-focus);
+    outline-offset: 1px;
+  }
+
+  .wwp-suggest__form .button {
+    justify-self: start;
+  }
+
+  .wwp-suggest__trap {
+    position: absolute;
+    left: -10000px;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+  }
+
+  .wwp-suggest__msg {
+    margin: 0;
+    padding: var(--space-3) var(--space-4);
+    border-radius: var(--radius-md);
+    background: var(--color-accent-soft);
+    font-weight: 600;
+  }
+
+  @media (max-width: 56rem) {
+    .wwp-hero__grid,
+    .wwp-join,
+    .wwp-suggest {
+      grid-template-columns: 1fr;
+    }
+
+    .wwp-hero__art {
+      max-width: 28rem;
+    }
+  }
+</style>
+
+<script>
+  const MESSAGES: Record<string, string> = {
+    missing: 'Please give the venue a name and an address.',
+    long: 'One of your answers is a little long. Please shorten it.',
+    verify: 'We could not confirm you are human. Please try again.',
+    slow: 'That is a lot of suggestions from one place. Please wait an hour and try again.',
+    unavailable: 'Sorry, the form is not working right now. Please try again later.',
+  };
+  const params = new URLSearchParams(location.search);
+  const msg = document.querySelector<HTMLElement>('[data-wwp-suggest-msg]');
+  if (msg) {
+    const error = params.get('venue_error');
+    if (params.get('suggested')) {
+      msg.textContent = 'Thanks. Your suggestion is in the queue for the admin to check out.';
+      msg.hidden = false;
+    } else if (error && MESSAGES[error]) {
+      msg.textContent = MESSAGES[error];
+      msg.hidden = false;
+    }
+  }
+</script>

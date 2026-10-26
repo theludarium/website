@@ -1,0 +1,15 @@
+# Local development only.
+#
+# This file lets `npx wrangler pages dev dist` run the Pages Functions with a
+# local D1 database. It has no `pages_build_output_dir` on purpose: with that
+# key Wrangler would treat this file as the deployed project's configuration
+# and the dashboard's bindings, variables, and secrets would become read-only.
+# Production bindings stay in the Cloudflare dashboard (see README.md).
+name = "theludarium"
+compatibility_date = "2026-08-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "ludarium-site"
+# Paste the id that `npx wrangler d1 create ludarium-site` prints.
+database_id = "00000000-0000-0000-0000-000000000000"
