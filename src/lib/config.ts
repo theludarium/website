@@ -103,11 +103,17 @@ export const KIT_ACADEMY_FORMS: Record<string, { action: string }> = {
 /**
  * Kit forms for the game courses (src/content/courses/), keyed by course slug.
  * `action` is the "Academy: <Game>" form (tags course-<slug>, or tcg-<slug> for
- * trading card games); `alerts` is the optional set-alerts form for TCG courses.
+ * trading card games, and starts the course's sequence; see docs/academy/COURSE-EMAILS.md); `alerts` is the optional set-alerts form for TCG courses.
  * Until a course has an entry, its signup posts to the general newsletter form
  * so no email is lost, and previews show a reminder.
  */
-export const KIT_COURSE_FORMS: Record<string, { action: string; alerts?: string }> = {};
+export const KIT_COURSE_FORMS: Record<string, { action: string; alerts?: string }> = {
+  'ticket-to-ride': { action: 'https://app.kit.com/forms/10098564/subscriptions' },
+  wingspan: { action: 'https://app.kit.com/forms/10098569/subscriptions' },
+  codenames: { action: 'https://app.kit.com/forms/10098583/subscriptions' },
+  'pokemon-tcg': { action: 'https://app.kit.com/forms/10098588/subscriptions' },
+  magic: { action: 'https://app.kit.com/forms/10098589/subscriptions' },
+};
 /**
  * Kit forms for the recurring stories (docs/stories/README.md): `dataset` is
  * the Shelf Life CSV download (tag dataset), `ledger` the industry readers form
