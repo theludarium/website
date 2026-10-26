@@ -114,14 +114,24 @@ const groups = (['Board games', 'Trading card games', 'Game library'] as const)
   description="Free courses from The Ludarium, one short lesson at a time by email and on the site: Catan strategy from table to championship, and building a game library."
 >
   <section class="academy-hero">
-    <div class="container">
-      <p class="eyebrow">The Ludarium Academy</p>
-      <h1>Get good at the games you love.</h1>
-      <p class="academy-hero__sub">
-        Free courses for tabletop players, taught one short lesson at a time, by email and on the site. Strategy for
-        the games you keep coming back to, and the craft around the table: building a game library, running a play
-        group, and soon, designing games. Pick a course, start with lesson one, and go at your own pace.
-      </p>
+    <div class="container academy-hero__grid">
+      <div class="academy-hero__text">
+        <p class="eyebrow">The Ludarium Academy</p>
+        <h1>Get good at the games you love.</h1>
+        <p class="academy-hero__sub">
+          Free courses for tabletop players, taught one short lesson at a time, by email and on the site. Strategy for
+          the games you keep coming back to, and the craft around the table: building a game library, running a play
+          group, and soon, designing games. Pick a course, start with lesson one, and go at your own pace.
+        </p>
+      </div>
+      <img
+        class="academy-hero__art"
+        src="/academy/hero.svg"
+        alt="Six hex tiles climbing from level 0 to level 5, with a meeple at the start and a trophy at the top: six levels from first game to championship, one lesson at a time."
+        width="560"
+        height="480"
+        fetchpriority="high"
+      />
     </div>
   </section>
 
@@ -245,6 +255,33 @@ const groups = (['Board games', 'Trading card games', 'Game library'] as const)
   .academy-hero h1 {
     max-width: 18ch;
     font-size: var(--text-4xl);
+  }
+
+  /* Text on the left, the level ladder art on the right; stacked on small screens. */
+  .academy-hero__grid {
+    display: grid;
+    gap: var(--space-6);
+    align-items: center;
+  }
+
+  .academy-hero__art {
+    display: block;
+    width: 100%;
+    max-width: 26rem;
+    height: auto;
+    border-radius: var(--radius-card);
+  }
+
+  @media (min-width: 56rem) {
+    .academy-hero__grid {
+      grid-template-columns: minmax(0, 1fr) minmax(0, 30rem);
+      gap: var(--space-8);
+    }
+
+    .academy-hero__art {
+      max-width: none;
+      justify-self: end;
+    }
   }
 
   .academy-hero__sub {
