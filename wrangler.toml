@@ -11,5 +11,5 @@ compatibility_date = "2026-08-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "ludarium-site"
-# Paste the id that `npx wrangler d1 create ludarium-site` prints.
-database_id = "00000000-0000-0000-0000-000000000000"
+# From `npx wrangler d1 create ludarium-site` (2026-10-26).
+database_id = "085f2cab-09e9-40f8-9f4d-6ea08e830cfa"
