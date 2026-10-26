@@ -1,0 +1,55 @@
+---
+// Where Kit sends people right after they submit a game course's form (set in
+// that course's Kit form settings). Not in search results or the sitemap.
+// It is the form's success state, so /ott.js counts a signup for the course's games.
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageIntro from '@/components/PageIntro.astro';
+import { courseUrl, getGameCourses, type GameCourse } from '@/lib/courses';
+
+export async function getStaticPaths() {
+  return (await getGameCourses()).map((course) => ({ params: { course: course.id }, props: { course } }));
+}
+
+interface Props {
+  course: GameCourse;
+}
+
+const { course } = Astro.props;
+const d = course.data;
+---
+
+<BaseLayout
+  title="Check your inbox"
+  description={`One more step: open the email from The Ludarium and click the button to confirm. Your ${d.game} lessons start right after that.`}
+  noindex
+  ottSignup={d.games ?? []}
+>
+  <PageIntro
+    eyebrow="Almost there"
+    title="Check your inbox."
+    lede={`We just sent you an email. Click the button inside to confirm, and your ${d.game} lessons start arriving, two a week.`}
+  >
+    <ul class="thanks-tips">
+      <li>Do not see it? Check your spam or promotions folder.</li>
+      <li>It comes from hello@theludarium.com. Add that address to your contacts so your lessons never land in spam.</li>
+    </ul>
+    <div class="thanks-actions">
+      <a class="button" href={courseUrl(course)}>See the whole course</a>
+    </div>
+  </PageIntro>
+</BaseLayout>
+
+<style>
+  .thanks-tips {
+    max-width: var(--width-content);
+    padding-left: 1.2em;
+    color: var(--color-text-muted);
+  }
+
+  .thanks-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-3);
+    margin-top: var(--space-6);
+  }
+</style>

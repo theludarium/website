@@ -37,7 +37,8 @@ export default defineConfig({
       customPages: [...rdlPages, ...gnmPages],
       filter: (page) => {
         const path = new URL(page).pathname;
-        return !NOT_IN_SITEMAP.includes(path);
+        // Every game course's signup pages (/academy/<course>/thanks/ and /confirmed/) stay out too.
+        return !NOT_IN_SITEMAP.includes(path) && !/^\/academy\/[^/]+\/(thanks|confirmed)\/$/.test(path);
       },
     }),
   ],

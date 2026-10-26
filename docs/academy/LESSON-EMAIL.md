@@ -4,6 +4,8 @@ One email per lesson, in each course's Kit sequence. The lesson lives on theluda
 
 ## Timing
 
+Level ladder courses (October 2026 on): lesson 1 as soon as the reader confirms, then every lesson one day after the last, on Tuesdays and Fridays only, around 8 a.m. Indiana time. See `COURSE-EMAILS.md`. The table below is the original plan for the 8-lesson formats.
+
 | Format | Sequence |
 | --- | --- |
 | Full course (8) | Lesson 1 at once, lessons 2 and 3 on days 2 and 4, lessons 4 to 8 weekly |
