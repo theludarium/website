@@ -14,11 +14,10 @@ import { writeFileSync, mkdtempSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 import { straightLineSeconds } from '../src/lib/where-we-play/engine.ts';
-import zips from '../src/data/indiana-zips.json' with { type: 'json' };
+import ZIPS from '../src/data/indiana-zips.ts';
 
 const DB = 'ludarium-site';
 const GROUP = 'cube-commonwealth';
-const ZIPS = zips as Record<string, [number, number]>;
 
 const q = (v: string | number | null) => (v === null ? 'NULL' : typeof v === 'number' ? String(v) : `'${v.replace(/'/g, "''")}'`);
 const nudge = (zip: string, dLat: number, dLng: number) => {

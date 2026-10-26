@@ -2,7 +2,7 @@
 // cross streets, a bundled Census table for zip centroids. Every Nominatim
 // answer is cached in D1 by its normalized query, and calls within one request
 // are spaced a second apart, which is what Nominatim's usage policy asks.
-import indianaZips from '../../data/indiana-zips.json' with { type: 'json' };
+import INDIANA_ZIPS from '../../data/indiana-zips.ts';
 import type { Point } from '../../lib/where-we-play/engine.ts';
 import { publicPoint } from '../../lib/where-we-play/engine.ts';
 import type { D1 } from './env.ts';
@@ -14,11 +14,9 @@ const NOMINATIM = 'https://nominatim.openstreetmap.org/search';
 const VIEWBOX = '-88.1,41.8,-84.7,37.7';
 const MIN_GAP_MS = 1100;
 
-const ZIPS = indianaZips as unknown as Record<string, [number, number]>;
-
 /** Centroid of a zip from the bundled Census ZCTA table (Indiana only). */
 export function zipCentroid(zip: string): Point | null {
-  const hit = ZIPS[zip];
+  const hit = INDIANA_ZIPS[zip];
   return hit ? { lat: hit[0], lng: hit[1] } : null;
 }
 
