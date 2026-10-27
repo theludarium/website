@@ -55,9 +55,9 @@ export const LEGAL_LOCATION = '';
 /**
  * Cloudflare Turnstile site key for the corporate inquiry form (public).
  * The matching secret key lives only in the Cloudflare Pages project settings.
- * While blank, previews use Cloudflare's always-pass test key.
+ * Previews and local dev always use Cloudflare's always-pass test key instead.
  */
-export const TURNSTILE_SITE_KEY = '';
+export const TURNSTILE_SITE_KEY = '0x4AAAAAAFn938ZOMnd8PSUH';
 
 /**
  * Kit waitlist form for each lounge city, keyed by city slug (see src/lib/lounges.ts).
