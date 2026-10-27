@@ -60,9 +60,10 @@ import { WWP_API, WWP_BASE } from '@/lib/where-we-play/shared';
 
 <script>
   interface Entry {
-    email: string;
+    email: string | null;
     discord_handle: string | null;
     first_name: string | null;
+    last_name: string | null;
     zip: string;
     street_address: string | null;
     cross_street: string | null;
@@ -104,9 +105,10 @@ import { WWP_API, WWP_BASE } from '@/lib/where-we-play/shared';
       fetch(`${root.dataset.api}/edit?t=${encodeURIComponent(token)}`)
         .then((res) => (res.ok ? res.json() : Promise.reject(res.status)))
         .then((entry: Entry) => {
-          field('email').value = entry.email;
+          field('email').value = entry.email ?? '';
           field('discord_handle').value = entry.discord_handle ?? '';
           field('first_name').value = entry.first_name ?? '';
+          field('last_name').value = entry.last_name ?? '';
           field('zip').value = entry.zip;
           field('street_address').value = entry.street_address ?? '';
           field('cross_street').value = entry.cross_street ?? '';

@@ -22,7 +22,7 @@ export interface SaveResult {
 }
 
 /**
- * Creates the member, or updates the one with that email. Geocodes only when
+ * Creates the member, or updates the existing one. Geocodes only when
  * the location changed, so an availability tweak costs no lookups.
  */
 export async function saveMember(env: WwpEnv, form: MemberForm, existing: MemberRow | null): Promise<SaveResult> {
@@ -37,8 +37,10 @@ export async function saveMember(env: WwpEnv, form: MemberForm, existing: Member
       };
 
   const fields = {
+    email: form.email,
     discord_handle: form.discordHandle,
     first_name: form.firstName,
+    last_name: form.lastName,
     zip: form.zip,
     street_address: form.streetAddress,
     cross_street: form.crossStreet,
@@ -58,7 +60,7 @@ export async function saveMember(env: WwpEnv, form: MemberForm, existing: Member
   }
 
   const token = newToken();
-  const id = await insertMember(db, { group: WWP_GROUP, email: form.email, ...fields }, await hashToken(token));
+  const id = await insertMember(db, { group: WWP_GROUP, ...fields }, await hashToken(token));
   const member = (await getMemberById(db, id))!;
   return { member, created: true, token, relocated: true };
 }

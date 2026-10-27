@@ -22,9 +22,19 @@ const action = mode === 'join' ? `${WWP_API}/submit` : `${WWP_API}/edit`;
 
   <div class="wwp-form__row">
     <label>
-      Email <span class="wwp-form__req">required</span>
-      <input name="email" type="email" autocomplete="email" maxlength={LIMITS.email} required readonly={mode === 'edit'} />
-      <small>For your confirmation and your private edit link. Nothing else.</small>
+      First name <span class="wwp-form__opt">optional</span>
+      <input name="first_name" autocomplete="given-name" maxlength={LIMITS.firstName} />
+    </label>
+    <label>
+      Last name <span class="wwp-form__opt">optional</span>
+      <input name="last_name" autocomplete="family-name" maxlength={LIMITS.lastName} />
+    </label>
+  </div>
+
+  <div class="wwp-form__row">
+    <label class="wwp-form__zip">
+      Zip code <span class="wwp-form__req">required</span>
+      <input name="zip" inputmode="numeric" autocomplete="postal-code" pattern="[0-9]{5}" maxlength="5" required />
     </label>
     <label>
       Discord handle <span class="wwp-form__opt">optional</span>
@@ -32,16 +42,11 @@ const action = mode === 'join' ? `${WWP_API}/submit` : `${WWP_API}/edit`;
     </label>
   </div>
 
-  <div class="wwp-form__row">
-    <label>
-      First name <span class="wwp-form__opt">optional</span>
-      <input name="first_name" autocomplete="given-name" maxlength={LIMITS.firstName} />
-    </label>
-    <label class="wwp-form__zip">
-      Zip code <span class="wwp-form__req">required</span>
-      <input name="zip" inputmode="numeric" autocomplete="postal-code" pattern="[0-9]{5}" maxlength="5" required />
-    </label>
-  </div>
+  <label>
+    Email <span class="wwp-form__opt">optional</span>
+    <input name="email" type="email" autocomplete="email" maxlength={LIMITS.email} />
+    <small>Only the admin sees it. No mailing list.</small>
+  </label>
 
   <label>
     Street address <span class="wwp-form__opt">optional, but it makes the drive times real</span>
@@ -261,7 +266,7 @@ const action = mode === 'join' ? `${WWP_API}/submit` : `${WWP_API}/edit`;
 
 <script>
   const MESSAGES: Record<string, string> = {
-    missing: 'Please give at least your email and zip code.',
+    missing: 'Please give at least your zip code.',
     email: 'That email address does not look right. Please check it.',
     zip: 'Zip codes are five digits.',
     long: 'One of your answers is a little long. Please shorten it.',

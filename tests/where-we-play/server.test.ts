@@ -4,7 +4,7 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { parseEventBody, parseMemberForm, parseSuggestion, parseVenueBody } from '../../src/server/where-we-play/validate.ts';
 import { driveTimeMatrix, routePairs } from '../../src/server/where-we-play/routing.ts';
-import { PRIVACY_LINE } from '../../src/lib/where-we-play/shared.ts';
+import { fullName, PRIVACY_LINE } from '../../src/lib/where-we-play/shared.ts';
 import { requireAdmin, verifyAccessJwt } from '../../src/server/where-we-play/access.ts';
 import { zipCentroid, neighborhoodFromAddress, normalizeQuery } from '../../src/server/where-we-play/geocode.ts';
 import { hashToken, newToken, TOKEN_PATTERN } from '../../src/server/where-we-play/tokens.ts';
@@ -24,8 +24,23 @@ test('parseMemberForm: cleans, lowercases the email, keeps only known slots', ()
   assert.equal(parsed.crossStreet, null);
 });
 
+test('parseMemberForm: email is optional, last name is kept', () => {
+  const parsed = parseMemberForm(form({ email: '  ', zip: '46032', first_name: 'Ada', last_name: ' Lovelace ' }));
+  assert.ok(!('error' in parsed));
+  assert.equal(parsed.email, null);
+  assert.equal(parsed.firstName, 'Ada');
+  assert.equal(parsed.lastName, 'Lovelace');
+});
+
+test('fullName joins whichever names are given', () => {
+  assert.equal(fullName({ first_name: 'Ada', last_name: 'Lovelace' }), 'Ada Lovelace');
+  assert.equal(fullName({ first_name: null, last_name: 'Lovelace' }), 'Lovelace');
+  assert.equal(fullName({ first_name: null, last_name: null }), null);
+});
+
 test('parseMemberForm: names the first problem', () => {
-  assert.deepEqual(parseMemberForm(form({ email: '', zip: '46032' })), { error: 'missing' });
+  assert.deepEqual(parseMemberForm(form({ email: 'a@b.co', zip: '' })), { error: 'missing' });
+  assert.deepEqual(parseMemberForm(form({ zip: '46032', last_name: 'x'.repeat(81) })), { error: 'long' });
   assert.deepEqual(parseMemberForm(form({ email: 'nope', zip: '46032' })), { error: 'email' });
   assert.deepEqual(parseMemberForm(form({ email: 'a@b.co', zip: '4603' })), { error: 'zip' });
   assert.deepEqual(parseMemberForm(form({ email: 'a@b.co', zip: '46032', first_name: 'x'.repeat(81) })), { error: 'long' });

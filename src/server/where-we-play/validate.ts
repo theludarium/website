@@ -4,9 +4,10 @@ import { EMAIL_PATTERN, LIMITS, SLOT_KEYS, VENUE_STATUSES, ZIP_PATTERN } from '.
 import { field, oneLine, orNull } from './http.ts';
 
 export interface MemberForm {
-  email: string;
+  email: string | null;
   discordHandle: string | null;
   firstName: string | null;
+  lastName: string | null;
   zip: string;
   streetAddress: string | null;
   crossStreet: string | null;
@@ -15,24 +16,26 @@ export interface MemberForm {
 
 /** Returns the cleaned member form, or the name of the first problem. */
 export function parseMemberForm(form: FormData): MemberForm | { error: string } {
-  const email = oneLine(field(form, 'email')).toLowerCase();
+  const email = orNull(oneLine(field(form, 'email')).toLowerCase());
   const zip = field(form, 'zip');
   const member: MemberForm = {
     email,
     discordHandle: orNull(oneLine(field(form, 'discord_handle')).replace(/^@/, '')),
     firstName: orNull(oneLine(field(form, 'first_name'))),
+    lastName: orNull(oneLine(field(form, 'last_name'))),
     zip,
     streetAddress: orNull(oneLine(field(form, 'street_address'))),
     crossStreet: orNull(oneLine(field(form, 'cross_street'))),
     availability: form.getAll('availability').map(String).filter((key) => (SLOT_KEYS as string[]).includes(key)),
   };
-  if (!member.email || !member.zip) return { error: 'missing' };
-  if (!EMAIL_PATTERN.test(member.email)) return { error: 'email' };
+  if (!member.zip) return { error: 'missing' };
+  if (member.email && !EMAIL_PATTERN.test(member.email)) return { error: 'email' };
   if (!ZIP_PATTERN.test(member.zip)) return { error: 'zip' };
   if (
-    member.email.length > LIMITS.email ||
+    (member.email?.length ?? 0) > LIMITS.email ||
     (member.discordHandle?.length ?? 0) > LIMITS.discordHandle ||
     (member.firstName?.length ?? 0) > LIMITS.firstName ||
+    (member.lastName?.length ?? 0) > LIMITS.lastName ||
     (member.streetAddress?.length ?? 0) > LIMITS.streetAddress ||
     (member.crossStreet?.length ?? 0) > LIMITS.crossStreet
   ) {
