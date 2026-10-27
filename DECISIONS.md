@@ -429,3 +429,10 @@ Levi's call: keep collecting emails, but stop sending automated emails to the pe
 - Catalog order by audience: Sushi Go! 145 and Kingdomino 155 among the biggest family games, The Crew 225 with the strong and growing ones.
 - Rules come from the official rulebooks (Gamewright 2014 printing; Blue Orange 2016 rules checked against the 2024 edition; the Thames & Kosmos English rulebook and logbook). Open questions the rulebooks do not settle are left as VERIFY markers rather than guessed.
 - Kit forms for the three courses come after merge, the same way as the other 31; until then their signups fall back to the general newsletter.
+
+## 2026-10-27: Services section
+
+- **"Services" replaces "For Teams" in the top nav.** It opens a menu like Lounges: All services, then one link per service. Levi plans more services later (coaching for players, coaching for designers, and others not decided yet).
+- **One list drives it.** `src/lib/services.ts` holds every service; the `/services/` hub and the header menu both read it. A new service is one entry there plus its own page.
+- **For Teams keeps its address, `/corporate-events/`.** Ten articles link to it, the inquiry form returns to it, and search engines already know it. It joins Services through the menu, the hub, and the search section (now "Services" instead of "For teams"). Moving it under `/services/` later is a redirect in `public/_redirects` plus a find and replace.
+- **The hub names only what exists.** Future services get a single "more on the way" line, not named placeholders, until Levi decides what they are.
