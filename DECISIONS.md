@@ -385,6 +385,21 @@ Levi liked Catan's Level 0 to 5 structure (learn to play up to expert) and asked
 - **Each course has its own signup pages,** `/academy/<course>/thanks/` and `/confirmed/`, kept out of search and the sitemap. The thanks page counts the signup for the course's games in On the Table.
 - **Kit's paid plan:** sequences and rules need it. The billing page still showed the Creator trial ending on 2026-11-04 when this was built.
 
+## 2026-10-26: Where We Play, for the Cube Commonwealth
+
+Where We Play helps the Cube Commonwealth (about 300 Cube drafters, most on the north side of Indianapolis) pick venues by drive time. Members share where they live at `/cube-commonwealth/where-we-play/`; Levi vets venues and reads the rankings at `/cube-commonwealth/where-we-play/admin/`. Spec: `docs/cube-commonwealth/where-we-play-prompt.md`.
+
+- **Pages Functions and D1, not a separate Worker.** The site already runs its inquiry form as a Pages Function with Resend, so the member form, the admin API and the drive-time work live under `functions/api/where-we-play/`, with every table prefixed `wwp_` in one D1 database (`ludarium-site`, bound as `DB` through the dashboard). One deploy, one database, nothing new to host. The root `wrangler.toml` exists only so `wrangler pages dev` can run the functions locally; it has no `pages_build_output_dir` on purpose, because with that key Wrangler makes the file the project's source of truth and the dashboard's variables and secrets become read-only. The visiting-companies branch, still unmerged, uses the same arrangement under the name `ludarium-visitors`; whichever lands second should point at the one database.
+- **The private edit link is the whole identity system.** No accounts. Submitting makes a 32-byte token; the database keeps only its hash, and the confirmation email carries the link. The link updates or deletes the entry. Submitting again with the same email updates the row and sends a fresh link, which retires the old one. This matches the site's "no accounts" rule and costs nothing to forget.
+- **Privacy model.** Raw addresses are read only by the admin routes, which sit behind Cloudflare Access at the edge and verify Access's JWT themselves (`src/server/where-we-play/access.ts`), so a gap in the Access policy fails closed. Members see only aggregate cards ("a median 14 minute drive for 40 members"), and nothing at all until five people have a location. Every member also gets a public point, snapped to the cross street or the zip centroid, which is what any member-facing map would use; the admin map has a toggle to see that view. The privacy statement uses "the app's admin", not Levi's name, at his request.
+- **Free services only.** Nominatim (OpenStreetMap) geocodes addresses and cross streets, one request a second with a real User-Agent, every answer cached in `wwp_geocode_cache`. Zip centroids come from the Census 2023 ZCTA gazetteer, bundled for Indiana in `src/data/indiana-zips.ts`, so a zip-only member costs no lookup. Drive times come from OSRM's public demo server through its `table` service, one call per new member or venue, cached per pair in `wwp_drive_times` and never recomputed unless someone moves. When OSRM is down, the pair gets a straight-line estimate (great-circle distance times 1.3, at 28 mph) marked `straight_line`, and the admin page offers "Retry OSRM" to replace them. Google and Mapbox were ruled out: no budget, and the demo server is enough at this scale.
+- **Leaflet for the admin map**, loaded from unpkg at a pinned version with integrity hashes, the one front-end dependency. OpenStreetMap tiles. It is the admin page only; members get no map in version one.
+- **Rankings.** Median drive time is the ranking key, with the 75th percentile and the count under 20 minutes beside it so a venue that strands the far side of town shows up. An availability slot filter limits the numbers to the members who can make that night. Percentiles use nearest rank; the math is in `src/lib/where-we-play/engine.ts` with tests under `tests/where-we-play/`.
+- **Events** are a minimal record (date, venue, headcount, notes) so attendance data exists from the first meetup. Site-selection research waits on it.
+- **Previews.** Cloudflare Access is not in front of preview deployments, so the admin routes also accept `WWP_ADMIN_PREVIEW_TOKEN` in an `X-Admin-Token` header; the page asks for it once per tab. The variable is set for the Preview environment only, so production never has it.
+- **Not built, on purpose:** Discord integration, a newsletter checkbox, accounts, per-event RSVP optimization, multi-city support, lounge site selection, paid routing APIs.
+- **Dependency added:** `wrangler` at the root, for `wrangler pages dev` and D1 migrations.
+
 ## 2026-10-26: The Ludarium Guild of Game Guides
 
 Levi asked to turn the article "How to Teach a Board Game in Five Minutes" into a full training program, built from his blueprint ("The Ludarium Guild of Game Guides: Program Blueprint", a Claude doc). His calls: the name, graduates certified as Expert Game Guides, lessons public, assets gated.
@@ -398,6 +413,15 @@ Levi asked to turn the article "How to Teach a Board Game in Five Minutes" into 
 - **Email:** one lesson each weekday (about seven weeks), not the courses' Tuesday and Friday, which would take 17. `scripts/guild-emails.mjs` builds the emails; Kit setup is in `docs/academy/guild/KIT-SETUP.md`. Until the form exists, signups join the general newsletter.
 - **Links in:** a feature band on the Academy page, and course boxes at the top and bottom of the original article.
 - **Renamed 2026-10-27, Levi's call:** "The Ludarium Guild of Game Guides", and graduates are "Expert Game Guides". URLs stay under `/academy/guild/`, so nothing needs redirects. The site also has an article category called Game Guides; the program and the category now share a word, which suits the original article living in that category.
+
+## 2026-10-27: No automated emails to people; form notices through Cloudflare
+
+Levi's call: keep collecting emails, but stop sending automated emails to the people who fill out forms. Resend was never set up and is no longer used.
+
+- **Where We Play shows the private edit link on the thanks page** instead of emailing it. The token travels in the URL fragment, which browsers never send to a server, and the page offers a copy button.
+- **A repeat email is turned away, not replaced.** With the link on screen, replacing an entry would let anyone who knows a member's email take it over and read their address. Lost links go through the admin: "New link" makes a fresh one to pass on by hand.
+- **Inquiry and Guild capstone notices still reach Levi**, through a small Worker (`ludarium-notify`, `workers/notify/`) bound to the Pages project as `NOTIFY`. Pages Functions cannot send email; the Worker sends through Cloudflare Email Routing, which only delivers to verified addresses, so it cannot email anyone else. No new account or dependency. The destination is a Worker secret because this repo is public.
+- **Turnstile** has one widget for theludarium.com. Previews and local dev always use Cloudflare's always-pass test key, so preview URLs never need registering.
 
 ## 2026-10-27: Sushi Go!, Kingdomino and The Crew courses
 

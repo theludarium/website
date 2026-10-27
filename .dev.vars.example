@@ -1,0 +1,9 @@
+# Copy to .dev.vars (ignored by git) for `npx wrangler pages dev`.
+# Production values are set in the Cloudflare Pages dashboard, never here.
+
+# Where We Play: lets the admin page work locally without Cloudflare Access.
+# Any long random string; the admin page asks for it once and keeps it for the tab.
+WWP_ADMIN_PREVIEW_TOKEN=local-admin
+
+# Optional: salt for the submission rate limit's hashed IPs.
+WWP_HASH_SALT=

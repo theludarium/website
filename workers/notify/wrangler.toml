@@ -1,0 +1,22 @@
+# ludarium-notify: sends form notices (corporate inquiries, Guild capstones)
+# to the site owner's inbox through Cloudflare Email Routing. Pages Functions
+# cannot send email themselves, so the site calls this Worker through the
+# NOTIFY service binding on the Pages project. It has no public URL.
+#
+# Deploy:  npx wrangler deploy -c workers/notify/wrangler.toml
+# Secret:  npx wrangler secret put NOTIFY_TO -c workers/notify/wrangler.toml
+#          (a destination address verified in Email Routing; kept out of this
+#          public repo on purpose)
+name = "ludarium-notify"
+main = "src/index.ts"
+compatibility_date = "2026-10-01"
+workers_dev = false
+preview_urls = false
+
+[vars]
+# Must be an address on theludarium.com, the zone with Email Routing turned on.
+NOTIFY_FROM = "notices@theludarium.com"
+
+# Only verified Email Routing destinations can receive mail from this binding.
+[[send_email]]
+name = "MAILER"

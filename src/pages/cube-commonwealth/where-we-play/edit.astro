@@ -1,0 +1,125 @@
+---
+// A member's private edit page. The token in ?t= is the whole identity: the
+// script fetches the entry with it, fills the form, and the form posts it back.
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageIntro from '@/components/PageIntro.astro';
+import WhereWePlayForm from '@/components/WhereWePlayForm.astro';
+import { WWP_API, WWP_BASE } from '@/lib/where-we-play/shared';
+---
+
+<BaseLayout title="Update your location" description="Update or delete your Where We Play entry with your private link." noindex>
+  <PageIntro eyebrow="Where We Play" title="Your entry" lede="Update where you drive from or when you can play, or delete your entry.">
+    <p class="wwp-edit__msg" role="status" data-wwp-edit-msg hidden></p>
+  </PageIntro>
+
+  <section class="section section--tight-top">
+    <div class="container wwp-edit" data-wwp-edit data-api={WWP_API} data-base={WWP_BASE}>
+      <div data-wwp-edit-form>
+        <WhereWePlayForm mode="edit" />
+      </div>
+      <div class="wwp-edit__invalid" data-wwp-edit-invalid hidden>
+        <h2>This link is not valid.</h2>
+        <p>It may have been replaced by a newer one, or the entry was deleted. If you lost your link, ask the admin in the Cube Commonwealth Discord for a new one.</p>
+        <a class="button" href={WWP_BASE + '/#join'}>Back to the form</a>
+      </div>
+      <div class="wwp-edit__gone" data-wwp-edit-gone hidden>
+        <h2>Your entry is deleted.</h2>
+        <p>Your address and drive times are gone. Thanks for being part of the group; come back any time.</p>
+        <a class="button button--ghost" href={WWP_BASE + '/'}>Back to Where We Play</a>
+      </div>
+      <noscript><p>Turn on JavaScript to load your entry.</p></noscript>
+    </div>
+  </section>
+
+  <form method="post" action={`${WWP_API}/delete`} data-wwp-delete-form hidden>
+    <input type="hidden" name="t" data-token />
+  </form>
+</BaseLayout>
+
+<style>
+  .wwp-edit {
+    max-width: var(--width-content);
+  }
+
+  .wwp-edit__invalid,
+  .wwp-edit__gone {
+    display: grid;
+    gap: var(--space-3);
+    justify-items: start;
+  }
+
+  .wwp-edit__msg {
+    max-width: var(--width-content);
+    margin: var(--space-4) 0 0;
+    padding: var(--space-3) var(--space-4);
+    border-radius: var(--radius-md);
+    background: var(--color-accent-soft);
+    font-weight: 600;
+  }
+</style>
+
+<script>
+  interface Entry {
+    email: string;
+    discord_handle: string | null;
+    first_name: string | null;
+    zip: string;
+    street_address: string | null;
+    cross_street: string | null;
+    availability: string[];
+    geocode_source: string;
+  }
+
+  const root = document.querySelector<HTMLElement>('[data-wwp-edit]');
+  if (root) {
+    const params = new URLSearchParams(location.search);
+    const token = params.get('t');
+    const msg = document.querySelector<HTMLElement>('[data-wwp-edit-msg]')!;
+    const formWrap = root.querySelector<HTMLElement>('[data-wwp-edit-form]')!;
+    const invalid = root.querySelector<HTMLElement>('[data-wwp-edit-invalid]')!;
+    const gone = root.querySelector<HTMLElement>('[data-wwp-edit-gone]')!;
+    const form = formWrap.querySelector<HTMLFormElement>('form')!;
+    const deleteForm = document.querySelector<HTMLFormElement>('[data-wwp-delete-form]')!;
+
+    const say = (text: string) => {
+      msg.textContent = text;
+      msg.hidden = false;
+    };
+    const show = (which: 'form' | 'invalid' | 'gone') => {
+      formWrap.hidden = which !== 'form';
+      invalid.hidden = which !== 'invalid';
+      gone.hidden = which !== 'gone';
+    };
+
+    if (params.get('deleted')) {
+      show('gone');
+    } else if (!token) {
+      show('invalid');
+    } else {
+      for (const input of document.querySelectorAll<HTMLInputElement>('[data-token]')) input.value = token;
+      if (params.get('saved')) say('Saved. If you moved, your drive times are being worked out again.');
+      if (params.get('error') === 'unavailable') say('Sorry, saving did not work just now. Please try again later.');
+
+      const field = (name: string) => form.querySelector<HTMLInputElement>(`[name="${name}"]`)!;
+      fetch(`${root.dataset.api}/edit?t=${encodeURIComponent(token)}`)
+        .then((res) => (res.ok ? res.json() : Promise.reject(res.status)))
+        .then((entry: Entry) => {
+          field('email').value = entry.email;
+          field('discord_handle').value = entry.discord_handle ?? '';
+          field('first_name').value = entry.first_name ?? '';
+          field('zip').value = entry.zip;
+          field('street_address').value = entry.street_address ?? '';
+          field('cross_street').value = entry.cross_street ?? '';
+          field('street_address').dispatchEvent(new Event('input'));
+          for (const box of form.querySelectorAll<HTMLInputElement>('[name="availability"]')) box.checked = entry.availability.includes(box.value);
+          if (entry.geocode_source === 'failed') say('We could not place your address on the map. Check it below and save again.');
+          show('form');
+        })
+        .catch(() => show('invalid'));
+
+      form.querySelector<HTMLButtonElement>('[data-delete]')?.addEventListener('click', () => {
+        if (confirm('Delete your entry? Your address and drive times will be removed.')) deleteForm.submit();
+      });
+    }
+  }
+</script>

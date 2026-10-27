@@ -10,7 +10,7 @@ import { IS_PREVIEW } from '@/lib/env';
 import { FEEDBACK, RELATIONSHIPS, RUBRIC } from '../../../../../functions/api/guild-capstone';
 
 const TEST_SITE_KEY = '1x00000000000000000000AA'; // Cloudflare's always-pass test key
-const siteKey = TURNSTILE_SITE_KEY || (IS_PREVIEW ? TEST_SITE_KEY : '');
+const siteKey = IS_PREVIEW ? TEST_SITE_KEY : TURNSTILE_SITE_KEY;
 ---
 
 <BaseLayout

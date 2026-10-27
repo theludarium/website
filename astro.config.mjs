@@ -17,7 +17,8 @@ const NOT_IN_SITEMAP = ['/search/', '/newsletter/thanks/', '/newsletter/confirme
   // Guild of Game Guides pages kept out of search: the email kit, the email-only toolkit printables, the capstone thanks page and Levi's certificate maker (see src/lib/guild-tools.ts).
   '/academy/guild/kit/', '/academy/guild/certificate/', '/academy/guild/capstone/thanks/',
   '/academy/guild/toolkit/teach-script/', '/academy/guild/toolkit/game-ladder/', '/academy/guild/toolkit/pre-flight-checklist/',
-  '/academy/guild/toolkit/feedback-card/', '/academy/guild/toolkit/self-assessment/'];
+  '/academy/guild/toolkit/feedback-card/', '/academy/guild/toolkit/self-assessment/',
+  '/cube-commonwealth/where-we-play/thanks/', '/cube-commonwealth/where-we-play/edit/', '/cube-commonwealth/where-we-play/admin/'];
 
 // RPG Demo Library demos are copied in after the build (scripts/rpg-demo-library.mjs),
 // so list them for the sitemap here.

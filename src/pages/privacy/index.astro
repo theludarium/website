@@ -15,7 +15,7 @@ const missing = [!LEGAL_NAME && 'legal business name', !CONTACT_EMAIL && 'contac
   title="Privacy Policy"
   description="What The Ludarium collects when you join the newsletter, send an inquiry, or buy from the store, why we collect it, who helps us, and how to reach us."
   lede="What we collect, why, who helps us handle it, and how to reach us. No legalese where we can avoid it."
-  updated="October 24, 2026"
+  updated="October 27, 2026"
 >
   {
     missing && (
@@ -60,6 +60,18 @@ const missing = [!LEGAL_NAME && 'legal business name', !CONTACT_EMAIL && 'contac
     Your ratings, logged plays, shelves, and guests are stored only in your own browser on your
     device. We never receive them. A table code you choose to share contains your feel profile and game
     lists, never your notes or ratings, and goes only to the people you send it to.
+  </p>
+  <h3>When you use Where We Play</h3>
+  <p>
+    Where We Play helps a gaming group pick venues by drive time. If you share where you live, we
+    store your email, your zip code, and, if you give them, your Discord handle, first name, street
+    address, nearest cross street, and the days you can play. Only the app's admin can see your
+    address, to work out your drive time to each candidate venue, and it is never shared or shown.
+    Other members see only summaries, such as the median drive time to a venue for the group. We turn
+    addresses into map points with OpenStreetMap's Nominatim service and get drive times from the
+    OSRM routing project; both receive the address or coordinates and nothing about you. After you
+    submit, you get a private link that lets you update or delete your entry at any time. We do not
+    email it to you.
   </p>
 
   <h2 id="cookies">Cookies and analytics</h2>
@@ -149,7 +161,8 @@ const missing = [!LEGAL_NAME && 'legal business name', !CONTACT_EMAIL && 'contac
   <ul>
     <li><strong>Kit</strong> sends our newsletter and stores subscriber details.</li>
     <li><strong>Lemon Squeezy</strong> handles store checkout, payments, and sales tax.</li>
-    <li><strong>Cloudflare</strong> hosts the site and runs our cookieless game counts.</li>
+    <li><strong>Cloudflare</strong> hosts the site, runs our cookieless game counts, stores Where We Play entries, and delivers inquiry notices to our inbox.</li>
+    <li><strong>OpenStreetMap (Nominatim) and OSRM</strong> turn Where We Play addresses into map points and drive times.</li>
     <li><strong>Google Analytics</strong> measures how the site is used, as described above.</li>
   </ul>
   <p>
@@ -168,7 +181,8 @@ const missing = [!LEGAL_NAME && 'legal business name', !CONTACT_EMAIL && 'contac
     We keep subscriber details while you are subscribed, inquiry details for as long as we are talking
     with you about an event, and purchase records as long as tax law requires. The scrambled codes
     behind our game counts last one day at most; the daily totals per game, which hold no personal
-    information, we keep.
+    information, we keep. Where We Play entries stay until you delete them with your private link or
+    ask us to.
   </p>
 
   <h2>Children</h2>

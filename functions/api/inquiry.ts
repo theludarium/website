@@ -3,20 +3,18 @@
 // A Cloudflare Pages Function. It runs on Cloudflare, not in the browser.
 // 1. Drops obvious bots (hidden honeypot field) and checks Cloudflare Turnstile.
 // 2. Validates the fields.
-// 3. Emails the inquiry to Levi through Resend, with reply-to set to the sender.
+// 3. Emails the inquiry to Levi through the ludarium-notify Worker (Cloudflare
+//    Email Routing), with reply-to set to the sender.
 // 4. Redirects to /corporate-events/thanks/, or back to the form with an error code.
 //
-// Settings live in the Cloudflare Pages project (Settings > Variables and Secrets):
-//   RESEND_API_KEY        secret   Resend API key with sending access
+// Settings live in the Cloudflare Pages project (Settings > Bindings, Variables and Secrets):
+//   NOTIFY                service  binding to the ludarium-notify Worker (workers/notify/)
 //   TURNSTILE_SECRET_KEY  secret   Turnstile widget secret key
-//   INQUIRY_TO            text     where inquiries are sent
-//   INQUIRY_FROM          text     optional sender, default "The Ludarium <onboarding@resend.dev>"
+import { notify, type NotifyBinding } from '../../src/server/notify.ts';
 
 export interface Env {
-  RESEND_API_KEY?: string;
+  NOTIFY?: NotifyBinding;
   TURNSTILE_SECRET_KEY?: string;
-  INQUIRY_TO?: string;
-  INQUIRY_FROM?: string;
 }
 
 interface Context {
@@ -117,8 +115,8 @@ export async function onRequestPost({ request, env }: Context): Promise<Response
   // Honeypot: people never see this field; bots tend to fill it. Pretend it worked.
   if (field(form, 'website')) return redirect(request, '/corporate-events/thanks/');
 
-  if (!env.RESEND_API_KEY || !env.TURNSTILE_SECRET_KEY || !env.INQUIRY_TO) {
-    console.error('Inquiry form is missing RESEND_API_KEY, TURNSTILE_SECRET_KEY, or INQUIRY_TO');
+  if (!env.NOTIFY || !env.TURNSTILE_SECRET_KEY) {
+    console.error('Inquiry form is missing the NOTIFY binding or TURNSTILE_SECRET_KEY');
     return back(request, 'unavailable');
   }
 
@@ -129,22 +127,12 @@ export async function onRequestPost({ request, env }: Context): Promise<Response
   const inquiry = parseInquiry(form);
   if ('error' in inquiry) return back(request, inquiry.error);
 
-  const sent = await fetch('https://api.resend.com/emails', {
-    method: 'POST',
-    headers: { Authorization: `Bearer ${env.RESEND_API_KEY}`, 'Content-Type': 'application/json' },
-    body: JSON.stringify({
-      from: env.INQUIRY_FROM || 'The Ludarium <onboarding@resend.dev>',
-      to: [env.INQUIRY_TO],
-      reply_to: inquiry.email,
-      subject: `Corporate event inquiry: ${inquiry.company} (${inquiry.teamSize})`,
-      text: emailText(inquiry),
-    }),
+  const sent = await notify(env.NOTIFY, {
+    replyTo: inquiry.email,
+    subject: `Corporate event inquiry: ${inquiry.company} (${inquiry.teamSize})`,
+    text: emailText(inquiry),
   });
-
-  if (!sent.ok) {
-    console.error('Resend rejected the inquiry email', sent.status, await sent.text());
-    return back(request, 'unavailable');
-  }
+  if (!sent) return back(request, 'unavailable');
 
   return redirect(request, '/corporate-events/thanks/');
 }
