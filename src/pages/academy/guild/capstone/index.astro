@@ -1,0 +1,337 @@
+---
+// The capstone: the last step to the Expert Game Guide title. The student
+// teaches one non-gamer, then sends their Self-Assessment scores and the
+// newcomer's Feedback Card answers. Posts to functions/api/guild-capstone.ts,
+// which emails Levi to review by hand.
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageIntro from '@/components/PageIntro.astro';
+import { TURNSTILE_SITE_KEY } from '@/lib/config';
+import { IS_PREVIEW } from '@/lib/env';
+import { FEEDBACK, RELATIONSHIPS, RUBRIC } from '../../../../../functions/api/guild-capstone';
+
+const TEST_SITE_KEY = '1x00000000000000000000AA'; // Cloudflare's always-pass test key
+const siteKey = TURNSTILE_SITE_KEY || (IS_PREVIEW ? TEST_SITE_KEY : '');
+---
+
+<BaseLayout
+  title="The Capstone: Become an Expert Game Guide"
+  description="Teach one person who does not play board games, then send in your teach for review. If they said yes to the next game, you earn the title Expert Game Guide."
+>
+  <PageIntro
+    eyebrow="The Ludarium Guild of Game Guides"
+    title="The capstone."
+    lede="Teach one person who does not play board games. Score your teach, ask them five questions, and send it in. If they said yes to another game, you earn the title Expert Game Guide."
+  />
+
+  <section class="container capstone">
+    <ol class="capstone-steps">
+      <li>
+        <strong>Teach one newcomer.</strong> Someone who does not play board games: a partner, a parent, a coworker. Any game you like.
+      </li>
+      <li>
+        <strong>Score yourself</strong> right after, with the <a href="/academy/guild/toolkit/self-assessment/">Self-Assessment</a>.
+      </li>
+      <li>
+        <strong>Ask them</strong> the five questions on the <a href="/academy/guild/toolkit/feedback-card/">Newcomer Feedback Card</a>.
+      </li>
+      <li>
+        <strong>Send it in below.</strong> We read every capstone and reply within about a week. If your newcomer said yes to another game, your certificate comes with the reply.
+      </li>
+    </ol>
+
+    <form class="capstone-form" id="capstone-form" action="/api/guild-capstone" method="post" data-capstone>
+      <p class="capstone-form__error" role="alert" data-capstone-error hidden></p>
+
+      <fieldset>
+        <legend><span class="capstone-form__count">Part 1 of 3</span> You and your teach</legend>
+        <div class="capstone-form__row">
+          <label>
+            Your name
+            <input name="name" autocomplete="name" maxlength="100" required />
+          </label>
+          <label>
+            Email
+            <input name="email" type="email" autocomplete="email" maxlength="200" required />
+          </label>
+        </div>
+        <label>
+          <span>Name for your certificate <span class="capstone-form__optional">if different</span></span>
+          <input name="cert_name" maxlength="100" />
+        </label>
+        <div class="capstone-form__row">
+          <label>
+            The game you taught
+            <input name="game" maxlength="120" required placeholder="Ticket to Ride" />
+          </label>
+          <label>
+            Your newcomer was a
+            <select name="relationship" required>
+              <option value="">Choose one</option>
+              {RELATIONSHIPS.map((r) => <option>{r}</option>)}
+            </select>
+          </label>
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend><span class="capstone-form__count">Part 2 of 3</span> Your Self-Assessment</legend>
+        <p class="capstone-form__hint">Score each line from 1 to 5. A five looks like the description.</p>
+        <ul class="capstone-rubric">
+          {
+            RUBRIC.map((line) => (
+              <li>
+                <div>
+                  <strong>{line.name}</strong>
+                  <span>{line.five}</span>
+                </div>
+                <fieldset class="capstone-score">
+                  <legend class="visually-hidden">{line.name}, 1 to 5</legend>
+                  {[1, 2, 3, 4, 5].map((n) => (
+                    <label>
+                      <input type="radio" name={`rubric_${line.key}`} value={n} required />
+                      <span>{n}</span>
+                    </label>
+                  ))}
+                </fieldset>
+              </li>
+            ))
+          }
+        </ul>
+      </fieldset>
+
+      <fieldset>
+        <legend><span class="capstone-form__count">Part 3 of 3</span> Your newcomer’s answers</legend>
+        <p class="capstone-form__hint">In their words, as close as you can. No names needed.</p>
+        {
+          FEEDBACK.map((q) =>
+            q.kind === 'choice' ? (
+              <label>
+                {q.question}
+                <select name={`fb_${q.key}`} required>
+                  <option value="">Choose one</option>
+                  {q.options.map((o) => (
+                    <option>{o}</option>
+                  ))}
+                </select>
+              </label>
+            ) : (
+              <label>
+                {q.question}
+                <textarea name={`fb_${q.key}`} rows="2" maxlength="1500" required />
+              </label>
+            ),
+          )
+        }
+        <label>
+          <span>What would you change next time? <span class="capstone-form__optional">optional</span></span>
+          <textarea name="change" rows="3" maxlength="1500"></textarea>
+        </label>
+        <div class="capstone-form__trap" aria-hidden="true">
+          <label>Leave this empty <input name="website" tabindex="-1" autocomplete="off" /></label>
+        </div>
+        {siteKey && <div class="cf-turnstile" data-sitekey={siteKey} data-theme="auto"></div>}
+        <button class="button" type="submit">Send my capstone</button>
+        <p class="capstone-form__fine">We use your answers only to review your capstone and send your certificate. <a href="/privacy/">Privacy</a></p>
+      </fieldset>
+    </form>
+  </section>
+</BaseLayout>
+{siteKey && <script is:inline src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>}
+
+<script>
+  const MESSAGES: Record<string, string> = {
+    missing: 'Please fill in your name, email, the game and who your newcomer was.',
+    email: 'That email address does not look right. Please check it.',
+    scores: 'Please score every line of the Self-Assessment from 1 to 5.',
+    feedback: 'Please fill in all five of your newcomer’s answers.',
+    long: 'One of your answers is too long. Please shorten it.',
+    verify: 'The spam check did not go through. Please try again.',
+    unavailable: 'Sorry, the form is not working right now. Please email hello@theludarium.com instead.',
+  };
+  const box = document.querySelector<HTMLElement>('[data-capstone-error]');
+  const error = new URLSearchParams(location.search).get('error');
+  if (box && error) {
+    box.textContent = MESSAGES[error] ?? MESSAGES.unavailable;
+    box.hidden = false;
+  }
+</script>
+
+<style>
+  .capstone {
+    max-width: 48rem;
+    padding-bottom: var(--space-8);
+  }
+
+  .capstone-steps {
+    display: grid;
+    gap: var(--space-3);
+    margin: 0 0 var(--space-7);
+    padding-left: 1.3em;
+    font-size: var(--text-lg);
+  }
+
+  .capstone-form {
+    display: grid;
+    gap: var(--space-6);
+    padding: var(--space-6);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-card);
+    background: var(--color-surface);
+    box-shadow: var(--shadow-md);
+  }
+
+  .capstone-form > fieldset {
+    display: grid;
+    gap: var(--space-4);
+    min-width: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+
+  .capstone-form legend {
+    margin-bottom: var(--space-4);
+    padding: 0;
+    font-family: var(--font-display);
+    font-size: var(--text-xl);
+  }
+
+  .capstone-form__count {
+    display: block;
+    font-family: var(--font-body);
+    font-size: var(--text-xs);
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--color-accent);
+  }
+
+  .capstone-form__row {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 14rem), 1fr));
+    gap: var(--space-4);
+  }
+
+  .capstone-form label {
+    display: grid;
+    gap: var(--space-2);
+    font-size: var(--text-sm);
+    font-weight: 600;
+  }
+
+  .capstone-form input:not([type='radio']),
+  .capstone-form select,
+  .capstone-form textarea {
+    width: 100%;
+    padding: 0.7em 0.9em;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    background: var(--color-bg);
+    color: var(--color-text);
+    font: inherit;
+    font-weight: 400;
+  }
+
+  .capstone-form__optional,
+  .capstone-form__hint,
+  .capstone-form__fine {
+    font-weight: 400;
+    color: var(--color-text-muted);
+  }
+
+  .capstone-form__hint,
+  .capstone-form__fine {
+    margin: 0;
+    font-size: var(--text-sm);
+  }
+
+  .capstone-rubric {
+    display: grid;
+    gap: var(--space-3);
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .capstone-rubric > li {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: var(--space-4);
+    align-items: center;
+    padding-bottom: var(--space-3);
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .capstone-rubric span {
+    display: block;
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+
+  .capstone-score {
+    display: flex;
+    gap: 2px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+
+  .capstone-score label {
+    position: relative;
+    display: block;
+  }
+
+  .capstone-score input {
+    position: absolute;
+    opacity: 0;
+  }
+
+  .capstone-score span {
+    display: inline-grid !important;
+    place-items: center;
+    width: 2rem;
+    height: 2rem;
+    border: 1px solid var(--color-border);
+    border-radius: 50%;
+    color: var(--color-text) !important;
+    cursor: pointer;
+    font-size: var(--text-sm) !important;
+    font-weight: 700;
+  }
+
+  .capstone-score input:checked + span {
+    border-color: var(--color-primary);
+    background: var(--color-primary);
+    color: var(--color-on-primary) !important;
+  }
+
+  .capstone-score input:focus-visible + span {
+    outline: 3px solid var(--color-focus);
+  }
+
+  .capstone-form__trap {
+    position: absolute;
+    left: -10000px;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+  }
+
+  .capstone-form button {
+    justify-self: start;
+  }
+
+  .capstone-form__error {
+    margin: 0;
+    padding: var(--space-3) var(--space-4);
+    border-radius: var(--radius-md);
+    background: var(--color-accent-soft);
+    font-weight: 600;
+  }
+
+  @media (max-width: 40rem) {
+    .capstone-rubric > li {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

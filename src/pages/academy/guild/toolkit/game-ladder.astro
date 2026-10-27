@@ -1,0 +1,154 @@
+---
+// The Game Ladder Worksheet: four games for one person, each adding one idea. Kit tool.
+import GuildToolLayout from '@/layouts/GuildToolLayout.astro';
+import '@/styles/guild-tools.css';
+
+// Sample ladders, each rung a game with an Academy course. "Adds" is the one new idea that rung brings.
+const ladders = [
+  {
+    likes: 'Card games',
+    rungs: [
+      ['Flip 7', 'flip-7', 'Push your luck: one more card, or stop?'],
+      ['Splendor', 'splendor', 'Build up: what you buy makes the next buy cheaper.'],
+      ['7 Wonders', '7-wonders', 'Pick one card, pass the rest, and everyone plays at once.'],
+      ['Dominion', 'dominion', 'Your deck is your engine: buy cards that improve every hand.'],
+    ],
+  },
+  {
+    likes: 'Puzzles',
+    rungs: [
+      ['Azul', 'azul', 'Take tiles, fill rows, and keep the floor empty.'],
+      ['Cascadia', 'cascadia', 'Place a tile and an animal, and score patterns.'],
+      ['Carcassonne', 'carcassonne', 'A shared map, and pieces you commit to it.'],
+      ['Wingspan', 'wingspan', 'An engine: cards that make your next turns stronger.'],
+    ],
+  },
+  {
+    likes: 'Talking and laughing together',
+    rungs: [
+      ['Codenames', 'codenames', 'Teams, and one-word clues.'],
+      ['King of Tokyo', 'king-of-tokyo', 'Dice you can reroll, and a hill to hold.'],
+      ['Ticket to Ride', 'ticket-to-ride', 'Collect matching cards to claim routes.'],
+      ['Pandemic', 'pandemic', 'Everyone wins or loses together.'],
+    ],
+  },
+  {
+    likes: 'Maps and building',
+    rungs: [
+      ['Ticket to Ride', 'ticket-to-ride', 'Claim routes and finish secret tickets.'],
+      ['Carcassonne', 'carcassonne', 'Build the map together, tile by tile.'],
+      ['Catan', 'catan', 'Trade with each other for what you need.'],
+      ['Everdell', 'everdell', 'Workers, resources, and cards that combine.'],
+    ],
+  },
+];
+---
+
+<GuildToolLayout
+  tool="game-ladder"
+  title="The Game Ladder Worksheet"
+  description="Plan four board games for one person you want to play with more, each adding one new idea, so every game night is a small step up and never a leap."
+  lesson={{ href: '/academy/guild/build-a-game-ladder/', title: 'Build a Ladder, Not a List' }}
+>
+  <div class="ws-grid">
+    <div class="ws-box"><h2>Who this ladder is for</h2><div class="ws-lines"><span></span></div></div>
+    <div class="ws-box"><h2>What they already enjoy</h2><div class="ws-lines"><span></span></div></div>
+  </div>
+  <ol class="ladder-rungs">
+    {
+      [4, 3, 2, 1].map((n) => (
+        <li class="ws-box ladder-rung" value={n}>
+          <h2>
+            <span class="ws-box__num">{n}</span>
+            Rung {n}
+            {n === 1 && <span class="ladder-rung__hint"> (start here: short and simple)</span>}
+          </h2>
+          <div class="ladder-rung__fields">
+            <p>Game</p>
+            <div class="ws-lines"><span /></div>
+            <p>The one new idea it adds</p>
+            <div class="ws-lines"><span /></div>
+            <p>When we will play it</p>
+            <div class="ws-lines"><span /></div>
+          </div>
+        </li>
+      ))
+    }
+  </ol>
+  <section class="ws-section">
+    <h2>Sample ladders</h2>
+    <p class="ws-box__hint">Start from what they already like. Each rung adds one idea; never skip two.</p>
+    <div class="ladder-samples">
+      {
+        ladders.map((l) => (
+          <div class="ladder-sample">
+            <h3>If they like {l.likes.toLowerCase()}</h3>
+            <ol>
+              {l.rungs.map(([game, slug, adds]) => (
+                <li>
+                  <a href={`/academy/${slug}/`}>{game}</a>: {adds}
+                </li>
+              ))}
+            </ol>
+          </div>
+        ))
+      }
+    </div>
+  </section>
+</GuildToolLayout>
+
+<style>
+  .ladder-rungs {
+    display: grid;
+    gap: var(--space-3);
+    margin: var(--space-5) 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .ladder-rung__hint {
+    font-family: var(--font-body);
+    font-size: var(--text-sm);
+    font-weight: 400;
+    color: var(--color-text-muted);
+  }
+
+  .ladder-rung__fields {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    gap: var(--space-1) var(--space-3);
+    align-items: end;
+  }
+
+  .ladder-rung__fields p {
+    margin: 0;
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+
+  .ladder-samples {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: var(--space-4);
+  }
+
+  .ladder-sample h3 {
+    margin: 0 0 var(--space-2);
+    font-size: var(--text-lg);
+  }
+
+  .ladder-sample ol {
+    display: grid;
+    gap: var(--space-1);
+    margin: 0;
+    padding-left: 1.3em;
+    font-size: var(--text-sm);
+  }
+
+  @media (max-width: 40rem) {
+    .ladder-samples,
+    .ladder-rung__fields {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

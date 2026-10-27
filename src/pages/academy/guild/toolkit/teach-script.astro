@@ -1,0 +1,56 @@
+---
+// The Five-Minute Teach Script: one page per game. Kit tool (sent with the email course).
+import GuildToolLayout from '@/layouts/GuildToolLayout.astro';
+import '@/styles/guild-tools.css';
+
+const fields = [
+  { name: 'The theme in one sentence', hint: 'Who are we, and what do we want? "We are ___, trying to ___."', lines: 2 },
+  { name: 'How you win', hint: '"The game ends when ___. The winner has the most ___." Then the ways to score, biggest first.', lines: 3 },
+  { name: 'The turn', hint: '"On your turn, you do one of these things." Show it with real pieces.', lines: 4 },
+  { name: 'The one gotcha', hint: 'The rule that surprises people. Say it now, and again when it first happens.', lines: 2 },
+  { name: 'What to skip', hint: 'Rare rules, exceptions and strategy. Teach each one when it first comes up.', lines: 3 },
+  { name: 'The first-round plan', hint: 'Open hands or a practice round? Which two good moves will you point out?', lines: 3 },
+];
+---
+
+<GuildToolLayout
+  tool="teach-script"
+  title="The Five-Minute Teach Script"
+  description="A one-page script for teaching any board game in five minutes: the theme, how you win, one turn, the gotcha, what to skip, and the first-round plan."
+  lesson={{ href: '/academy/guild/write-your-teach-script/', title: 'Write the Five-Minute Teach Script' }}
+>
+  <div class="ws-grid">
+    <div class="ws-box">
+      <h2>Game</h2>
+      <div class="ws-lines"><span></span></div>
+    </div>
+    <div class="ws-box">
+      <h2>Teaching it to</h2>
+      <div class="ws-lines"><span></span></div>
+    </div>
+    {
+      fields.map((f, i) => (
+        <div class="ws-box ws-box--wide">
+          <h2>
+            <span class="ws-box__num">{i + 1}</span>
+            {f.name}
+          </h2>
+          <p class="ws-box__hint">{f.hint}</p>
+          <div class="ws-lines">{Array.from({ length: f.lines }, () => <span />)}</div>
+        </div>
+      ))
+    }
+    <div class="ws-box ws-box--wide">
+      <h2>Timed run</h2>
+      <p class="ws-box__hint">Say it aloud with a timer. Cut until the first move comes in under five minutes.</p>
+      <p class="script-times">First try: ______ min &nbsp;&nbsp; Second try: ______ min &nbsp;&nbsp; Final: ______ min</p>
+    </div>
+  </div>
+</GuildToolLayout>
+
+<style>
+  .script-times {
+    margin: var(--space-2) 0 0;
+    font-variant-numeric: tabular-nums;
+  }
+</style>

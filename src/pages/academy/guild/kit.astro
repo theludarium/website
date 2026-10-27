@@ -1,0 +1,55 @@
+---
+// The course kit: every toolkit printable on one page. The welcome email links
+// here. Kept out of search and the sitemap.
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageIntro from '@/components/PageIntro.astro';
+import { GUILD_TOOLS, guildToolUrl } from '@/lib/guild-tools';
+---
+
+<BaseLayout
+  title="Your Guild Toolkit"
+  description="Every printable in The Ludarium Guild of Game Guides toolkit, for students of the free training: scripts, checklists, worksheets and the capstone."
+  noindex
+>
+  <PageIntro
+    eyebrow="The Ludarium Guild of Game Guides"
+    title="Your toolkit."
+    lede="Every printable and tool from the training, in one place. Bookmark this page: each lesson tells you which one its drill uses."
+  />
+  <section class="container kit">
+    <ol class="kit-list">
+      {
+        GUILD_TOOLS.map((t) => (
+          <li>
+            <a href={guildToolUrl(t.slug)}>{t.name}</a>
+            <span>{t.blurb}</span>
+          </li>
+        ))
+      }
+    </ol>
+  </section>
+</BaseLayout>
+
+<style>
+  .kit {
+    max-width: var(--width-content);
+    padding-bottom: var(--space-8);
+  }
+
+  .kit-list {
+    display: grid;
+    gap: var(--space-4);
+    padding-left: 1.3em;
+    font-size: var(--text-lg);
+  }
+
+  .kit-list a {
+    font-weight: 600;
+  }
+
+  .kit-list span {
+    display: block;
+    font-size: var(--text-base);
+    color: var(--color-text-muted);
+  }
+</style>

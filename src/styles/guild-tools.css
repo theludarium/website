@@ -1,0 +1,157 @@
+/* Worksheet parts for the Guild of Game Guides toolkit pages. */
+
+.ws-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: var(--space-4);
+}
+
+.ws-box {
+  display: grid;
+  align-content: start;
+  gap: var(--space-2);
+  padding: var(--space-4);
+  border: 1.5px solid var(--color-border-strong, var(--color-border));
+  border-radius: var(--radius-md);
+  break-inside: avoid;
+}
+
+.ws-box--wide {
+  grid-column: 1 / -1;
+}
+
+.ws-box h2,
+.ws-box h3 {
+  margin: 0;
+  font-size: var(--text-lg);
+}
+
+.ws-box__num {
+  display: inline-grid;
+  place-items: center;
+  width: 1.7rem;
+  height: 1.7rem;
+  margin-right: var(--space-2);
+  border-radius: 50%;
+  background: var(--color-primary);
+  color: var(--color-on-primary);
+  font-family: var(--font-body);
+  font-size: var(--text-sm);
+  font-weight: 700;
+  vertical-align: 0.1em;
+}
+
+.ws-box__hint {
+  margin: 0;
+  font-size: var(--text-sm);
+  color: var(--color-text-muted);
+}
+
+.ws-lines {
+  display: grid;
+  gap: 0;
+}
+
+.ws-lines span {
+  display: block;
+  height: 1.9rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.ws-check {
+  display: grid;
+  gap: var(--space-3);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.ws-check li {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: var(--space-3);
+  align-items: start;
+  break-inside: avoid;
+}
+
+.ws-check input[type='checkbox'] {
+  width: 1.15rem;
+  height: 1.15rem;
+  margin-top: 0.2em;
+  accent-color: var(--color-primary);
+}
+
+.ws-check strong {
+  display: block;
+}
+
+.ws-check span {
+  color: var(--color-text-muted);
+}
+
+.ws-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: var(--text-sm);
+}
+
+.ws-table th,
+.ws-table td {
+  padding: var(--space-2) var(--space-3);
+  border-bottom: 1px solid var(--color-border);
+  text-align: left;
+  vertical-align: top;
+}
+
+.ws-table th {
+  font-weight: 700;
+}
+
+.ws-section {
+  margin-top: var(--space-7);
+}
+
+.ws-section > h2 {
+  margin: 0 0 var(--space-3);
+  font-size: var(--text-2xl);
+}
+
+.ws-filter {
+  display: grid;
+  gap: var(--space-2);
+  max-width: 24rem;
+  margin-bottom: var(--space-5);
+  font-size: var(--text-sm);
+  font-weight: 600;
+}
+
+.ws-filter input {
+  padding: 0.65em 0.9em;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  background: var(--color-bg);
+  color: var(--color-text);
+  font: inherit;
+  font-weight: 400;
+}
+
+@media (max-width: 40rem) {
+  .ws-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media print {
+  .ws-filter {
+    display: none;
+  }
+
+  .ws-box {
+    border-color: #8a7a6a;
+  }
+
+  .ws-lines span {
+    height: 0.32in;
+    border-color: #b9ad9c;
+  }
+}

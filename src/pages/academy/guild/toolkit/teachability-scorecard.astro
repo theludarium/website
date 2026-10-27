@@ -1,0 +1,171 @@
+---
+// The Teachability Scorecard: seven yes-or-no questions about a game. Public tool.
+// On paper you count the yeses; on screen it scores as you answer.
+import GuildToolLayout from '@/layouts/GuildToolLayout.astro';
+import '@/styles/guild-tools.css';
+
+const questions = [
+  ['One core action a turn', 'Can a new player say what they do on a turn in one sentence?'],
+  ['Few exceptions', 'Could you list every special case on one hand?'],
+  ['Visible progress', 'Can a newcomer see, from the table, whether they are doing well?'],
+  ['Kind interaction', 'Can players affect each other without one person being picked on?'],
+  ['Forgiving decisions', 'Can an early mistake be recovered from, so nobody is out of it by turn three?'],
+  ['Short', 'Does a first game take under 45 minutes, teach included?'],
+  ['Right for the count', 'Does it play well at the number of people you will have tonight?'],
+];
+---
+
+<GuildToolLayout
+  tool="teachability-scorecard"
+  title="The Teachability Scorecard: Is This Game Easy to Teach?"
+  description="Seven yes-or-no questions that tell you whether a board game is ready for a newcomer tonight, based on how easy it is to teach, not how light it looks on the box."
+  lesson={{ href: '/academy/guild/the-teachability-scorecard/', title: 'The Teachability Scorecard' }}
+>
+  <div class="ws-box ws-box--wide sc-game">
+    <h2>Game</h2>
+    <div class="ws-lines"><span></span></div>
+  </div>
+  <ol class="sc-list" data-scorecard>
+    {
+      questions.map(([name, text], i) => (
+        <li class="sc-q">
+          <div>
+            <strong>{name}</strong>
+            <span>{text}</span>
+          </div>
+          <fieldset class="sc-yn">
+            <legend class="visually-hidden">{name}</legend>
+            <label><input type="radio" name={`q${i}`} value="1" /> <span>Yes</span></label>
+            <label><input type="radio" name={`q${i}`} value="0" /> <span>No</span></label>
+          </fieldset>
+        </li>
+      ))
+    }
+  </ol>
+  <div class="sc-result" aria-live="polite">
+    <p class="sc-score"><span data-sc-score>__</span> out of 7</p>
+    <ul class="sc-key">
+      <li data-band="6"><strong>6 or 7: teach it tonight.</strong> Any newcomer can learn this in five minutes.</li>
+      <li data-band="4"><strong>4 or 5: teach it later.</strong> Good once they have played one or two easier games, or with a practice round.</li>
+      <li data-band="0"><strong>3 or fewer: not for a first game.</strong> Save it for a player who asks for something bigger.</li>
+    </ul>
+  </div>
+</GuildToolLayout>
+
+<script>
+  const list = document.querySelector<HTMLElement>('[data-scorecard]');
+  const score = document.querySelector<HTMLElement>('[data-sc-score]');
+  const bands = [...document.querySelectorAll<HTMLElement>('[data-band]')];
+  list?.addEventListener('change', () => {
+    const answers = [...list.querySelectorAll<HTMLInputElement>('input:checked')];
+    const yes = answers.filter((a) => a.value === '1').length;
+    if (score) score.textContent = answers.length ? String(yes) : '__';
+    const band = yes >= 6 ? '6' : yes >= 4 ? '4' : '0';
+    bands.forEach((b) => b.classList.toggle('is-on', answers.length === 7 && b.dataset.band === band));
+  });
+</script>
+
+<style>
+  .sc-game {
+    margin-bottom: var(--space-5);
+  }
+
+  .sc-list {
+    display: grid;
+    gap: var(--space-3);
+    margin: 0;
+    padding-left: 1.4em;
+  }
+
+  .sc-q {
+    padding-bottom: var(--space-3);
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .sc-q > div {
+    display: inline-grid;
+    gap: 2px;
+    width: calc(100% - 9rem);
+    vertical-align: middle;
+  }
+
+  .sc-q span {
+    color: var(--color-text-muted);
+  }
+
+  .sc-yn {
+    display: inline-flex;
+    gap: var(--space-2);
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: middle;
+  }
+
+  .sc-yn label {
+    position: relative;
+  }
+
+  .sc-yn input {
+    position: absolute;
+    opacity: 0;
+  }
+
+  .sc-yn span {
+    display: inline-block;
+    padding: 0.35em 0.9em;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-pill);
+    color: var(--color-text);
+    cursor: pointer;
+    font-weight: 600;
+  }
+
+  .sc-yn input:checked + span {
+    border-color: var(--color-primary);
+    background: var(--color-primary);
+    color: var(--color-on-primary);
+  }
+
+  .sc-yn input:focus-visible + span {
+    outline: 3px solid var(--color-focus);
+  }
+
+  .sc-result {
+    margin-top: var(--space-6);
+    padding: var(--space-5);
+    border-radius: var(--radius-md);
+    background: var(--color-accent-soft);
+  }
+
+  .sc-score {
+    margin: 0 0 var(--space-3);
+    font-family: var(--font-display);
+    font-size: var(--text-2xl);
+  }
+
+  .sc-key {
+    display: grid;
+    gap: var(--space-2);
+    margin: 0;
+    padding-left: 1.2em;
+  }
+
+  .sc-key .is-on {
+    font-weight: 600;
+    color: var(--color-text);
+  }
+
+  .sc-key .is-on strong {
+    text-decoration: underline;
+    text-decoration-color: var(--color-cta);
+    text-decoration-thickness: 3px;
+  }
+
+  @media (max-width: 40rem) {
+    .sc-q > div {
+      width: 100%;
+      margin-bottom: var(--space-2);
+    }
+  }
+</style>

@@ -1,0 +1,39 @@
+---
+// Where Kit sends people right after they submit the Guild signup form. Not in
+// search results or the sitemap. Set it as the success URL of the Kit form
+// (docs/academy/guild/KIT-SETUP.md).
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageIntro from '@/components/PageIntro.astro';
+---
+
+<BaseLayout
+  title="Check your inbox"
+  description="One more step: open the email from The Ludarium and click the button to confirm. Your Guild of Game Guides lessons and toolkit start right after."
+  noindex
+>
+  <PageIntro
+    eyebrow="Almost there"
+    title="Check your inbox."
+    lede="We just sent you an email. Click the button inside to confirm, and your first lesson arrives with the toolkit."
+  >
+    <ul class="thanks-tips">
+      <li>Do not see it? Check your spam or promotions folder.</li>
+      <li>It comes from hello@theludarium.com. Add that address to your contacts so your lessons never land in spam.</li>
+    </ul>
+    <div class="thanks-actions">
+      <a class="button" href="/academy/guild/">See the whole program</a>
+    </div>
+  </PageIntro>
+</BaseLayout>
+
+<style>
+  .thanks-tips {
+    max-width: var(--width-content);
+    padding-left: 1.2em;
+    color: var(--color-text-muted);
+  }
+
+  .thanks-actions {
+    margin-top: var(--space-6);
+  }
+</style>

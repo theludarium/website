@@ -384,3 +384,18 @@ Levi liked Catan's Level 0 to 5 structure (learn to play up to expert) and asked
 - **One shared pause.** "Pause your Academy lessons for two weeks" in every email pauses every course the reader is taking, then resumes on its own, rather than a pause per course.
 - **Each course has its own signup pages,** `/academy/<course>/thanks/` and `/confirmed/`, kept out of search and the sitemap. The thanks page counts the signup for the course's games in On the Table.
 - **Kit's paid plan:** sequences and rules need it. The billing page still showed the Creator trial ending on 2026-11-04 when this was built.
+
+## 2026-10-26: The Ludarium Guild of Game Guides
+
+Levi asked to turn the article "How to Teach a Board Game in Five Minutes" into a full training program, built from his blueprint ("The Ludarium Guild of Game Guides: Program Blueprint", a Claude doc). His calls: the name, graduates certified as Expert Game Guides, lessons public, assets gated.
+
+- **Its own system beside the game courses.** It teaches the teacher, not a game, so it does not fit the course YAML (no rules source, setup diagram or teach sheet). Lessons live in their own collection, `src/content/guild-lessons/`; the program, modules, ranks and principles in `src/lib/guild.ts`; pages under `/academy/guild/`. Writer's guide: `docs/academy/GUILD.md`; checker: `scripts/check-guild.mjs`.
+- **Eight modules, 35 lessons.** A mindset module, the five moves (Pick, Prep, Teach, Play, Close), a field guide, and the capstone. Each lesson has one idea, a worked example on a widely owned game, a drill, and a two or three question self-check (the Catan Level check component, relabeled).
+- **Ranks:** Apprentice after Modules 0 to 2, Journeyman after 3 to 5, Expert Game Guide after the capstone. Only the last is reviewed.
+- **Certification by hand.** The capstone form posts to a new Pages Function (`functions/api/guild-capstone.ts`) that emails Levi through Resend, reusing the inquiry form's settings, so no new service. Levi makes the certificate at `/academy/guild/certificate/` (noindex) and replies with it. The title needs the newcomer's yes to a second game. No badge, roster or public directory yet.
+- **Toolkit.** Public and indexed, because each answers a search on its own: the Teachability Scorecard, the Jargon Translator, the Gotcha Index (one gotcha per Academy board game, sourced from the course files), the Teach Library (the existing course teach sheets) and the capstone. Sent with the email course and kept out of search: the teach script, the game ladder, the pre-flight checklist, the feedback card and the self-assessment. Static site, so the "gate" is only noindex plus the email link (`/academy/guild/kit/`); that matches Levi's call to keep lessons public and gate the assets lightly.
+- **Written the same way as the courses:** a pilot lesson set the model, five writers took the rest, rules claims were checked against the Academy course files, and Levi's own stories are left as AT OUR TABLE markers.
+- **Email:** one lesson each weekday (about seven weeks), not the courses' Tuesday and Friday, which would take 17. `scripts/guild-emails.mjs` builds the emails; Kit setup is in `docs/academy/guild/KIT-SETUP.md`. Until the form exists, signups join the general newsletter.
+- **Links in:** a feature band on the Academy page, and course boxes at the top and bottom of the original article.
+- **Renamed 2026-10-27, Levi's call:** "The Ludarium Guild of Game Guides", and graduates are "Expert Game Guides". URLs stay under `/academy/guild/`, so nothing needs redirects. The site also has an article category called Game Guides; the program and the category now share a word, which suits the original article living in that category.
+

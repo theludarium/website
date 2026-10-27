@@ -1,0 +1,302 @@
+[
+  {
+    "term": "Action selection",
+    "plain": "Each turn you pick one action from a short menu of choices, and that is your turn.",
+    "say": "On your turn, pick one of these four things to do.",
+    "group": "Mechanics"
+  },
+  {
+    "term": "Area control",
+    "plain": "Players compete to have the most pieces in places on the map. Whoever has the most in a place usually scores it or controls it.",
+    "say": "Whoever has the most pieces in a region owns it, so try to outnumber everyone there.",
+    "group": "Mechanics"
+  },
+  {
+    "term": "Auction",
+    "plain": "Players bid against each other for something, and the highest bid wins it and pays.",
+    "say": "We go around and offer money for this. Raise the price or drop out, and the last one in gets it.",
+    "group": "Mechanics"
+  },
+  {
+    "term": "Cooperative",
+    "plain": "Everyone plays on one team against the game itself. You all win together or lose together.",
+    "say": "We're all on the same side tonight, and the game is trying to beat us.",
+    "group": "Mechanics"
+  },
+  {
+    "term": "Deck building",
+    "plain": "Everyone starts with a small, plain deck of cards and adds better cards over the game. Your deck gets stronger as you play.",
+    "say": "You start with a weak pile of cards, and every turn you can buy a better one to shuffle in.",
+    "group": "Mechanics"
+  },
+  {
+    "term": "Dice rolling",
+    "plain": "Dice decide some of what happens, so luck plays a part.",
+    "say": "Roll these, and the numbers tell you what you get.",
+    "group": "Mechanics"
+  },
+  {
+    "term": "Drafting",
+    "plain": "Players take turns picking from a shared set of options. You pick one and pass the rest along.",
+    "say": "Pick one card you like and pass the rest to your left.",
+    "group": "Mechanics"
+  },
+  {
+    "term": "Engine building",
+    "plain": "You build up a set of things that make more stuff for you each turn, so later turns are bigger than early ones.",
+    "say": "Early on, buy things that give you more things. By the end, your turns get big.",
+    "group": "Mechanics"
+  },
+  {
+    "term": "Hand management",
+    "plain": "Choosing well what to play, what to keep, and when, from the cards you hold.",
+    "say": "These cards are your options. Think about which to use now and which to save.",
+    "group": "Mechanics"
+  },
+  {
+    "term": "Legacy",
+    "plain": "A game you play as a series of sessions, where the rules and pieces change for good as you go. Stickers go on the board and some cards get torn up.",
+    "say": "This game changes every time we play. What we do tonight sticks for next time.",
+    "group": "Mechanics"
+  },
+  {
+    "term": "Pick up and deliver",
+    "plain": "You collect goods in one place and carry them to another place that wants them.",
+    "say": "Grab cargo here and drop it off where someone needs it.",
+    "group": "Mechanics"
+  },
+  {
+    "term": "Push your luck",
+    "plain": "You keep going for a bigger reward, but each step risks losing what you have built up that turn.",
+    "say": "You can keep going for more, but if it goes wrong you lose this round's points. Stop whenever you like.",
+    "group": "Mechanics"
+  },
+  {
+    "term": "Roll and write",
+    "plain": "Someone rolls dice and everyone uses the result to fill in their own sheet with a pencil.",
+    "say": "Each roll, everyone picks how to use the numbers and marks it on their own sheet.",
+    "group": "Mechanics"
+  },
+  {
+    "term": "Set collection",
+    "plain": "You score by gathering groups of matching or related things.",
+    "say": "Collect sets of the same kind. Bigger sets score more.",
+    "group": "Mechanics"
+  },
+  {
+    "term": "Social deduction",
+    "plain": "Some players have secret roles, and the table tries to work out who is who by talking.",
+    "say": "A few of us are secretly on the other side. Watch what people do and figure out who.",
+    "group": "Mechanics"
+  },
+  {
+    "term": "Tile laying",
+    "plain": "You place tiles to build a shared map or your own area, and how they fit together matters.",
+    "say": "Draw a tile and add it so it fits next to the others.",
+    "group": "Mechanics"
+  },
+  {
+    "term": "Trick taking",
+    "plain": "Each player plays one card, and the best card wins that set of cards, called a trick. Like Spades or Hearts.",
+    "say": "Everyone plays one card, and the highest card of the color that was led takes the pile.",
+    "group": "Mechanics"
+  },
+  {
+    "term": "Variable player powers",
+    "plain": "Each player has a special ability or rule that the others do not have, so everyone plays a little differently. Also called asymmetric play.",
+    "say": "Your character has a special trick nobody else has. Read it and we'll see how it helps.",
+    "group": "Mechanics"
+  },
+  {
+    "term": "Worker placement",
+    "plain": "You put one of your pieces on a spot to claim that action. Once a spot is taken, others usually cannot use it this round.",
+    "say": "You get a few people. Each turn, send one to a spot on the board to do that job, and nobody else can go there this round.",
+    "group": "Mechanics"
+  },
+  {
+    "term": "Action economy",
+    "plain": "How many useful things you can do in a turn or a game. Extra actions are valuable.",
+    "say": "Anything that lets you do one more thing on your turn is a big deal.",
+    "group": "Turns and rounds"
+  },
+  {
+    "term": "First player token",
+    "plain": "A marker that shows who goes first. In some games it moves each round, or you can take it as an action.",
+    "say": "Whoever has this goes first. It moves around as we play.",
+    "group": "Turns and rounds"
+  },
+  {
+    "term": "Phase",
+    "plain": "One part of a round. Many games split each round into steps done in the same order every time.",
+    "say": "Every round goes in the same order: first we do this, then this, then this.",
+    "group": "Turns and rounds"
+  },
+  {
+    "term": "Round",
+    "plain": "One full pass around the table, or one set of steps everyone does, depending on the game.",
+    "say": "Once everybody has had a go, that's one round.",
+    "group": "Turns and rounds"
+  },
+  {
+    "term": "Tempo",
+    "plain": "Being a step ahead of others in timing, so you get to things first or force them to react to you.",
+    "say": "Getting there first matters here, so a quick move now can beat a big move later.",
+    "group": "Turns and rounds"
+  },
+  {
+    "term": "Turn order",
+    "plain": "The order players take their turns in. Some games change it every round.",
+    "say": "We go clockwise, starting with you.",
+    "group": "Turns and rounds"
+  },
+  {
+    "term": "Upkeep",
+    "plain": "A housekeeping step, often at the start or end of a round, where you refresh, pay, or reset things.",
+    "say": "Before the next round, we all do a little cleanup: refill this and pay for that.",
+    "group": "Turns and rounds"
+  },
+  {
+    "term": "Discard pile",
+    "plain": "The face-up stack where used or thrown-away cards go.",
+    "say": "Done with a card? It goes face up on this pile.",
+    "group": "Cards"
+  },
+  {
+    "term": "Draw pile",
+    "plain": "The face-down stack you take new cards from. Also called the deck.",
+    "say": "New cards come off the top of this stack.",
+    "group": "Cards"
+  },
+  {
+    "term": "Hand limit",
+    "plain": "The most cards you can hold. If you go over, you discard down to the limit, usually at a set time.",
+    "say": "You can hold up to this many cards. Any extra go back.",
+    "group": "Cards"
+  },
+  {
+    "term": "Mulligan",
+    "plain": "Throwing back your starting hand and drawing a new one, sometimes with a small cost.",
+    "say": "Don't like your first hand? You can swap it once.",
+    "group": "Cards"
+  },
+  {
+    "term": "Tableau",
+    "plain": "The cards you have played in front of you, which stay out and usually help you for the rest of the game.",
+    "say": "Cards you play stay in front of you and keep helping you.",
+    "group": "Cards"
+  },
+  {
+    "term": "Tap or exhaust",
+    "plain": "Turning a card sideways to show you have used it. It comes back at a set time, often your next turn.",
+    "say": "Turn this card sideways once you've used it. It's ready again next turn.",
+    "group": "Cards"
+  },
+  {
+    "term": "End-game trigger",
+    "plain": "The thing that starts the end of the game, like a track filling up or a pile running out. Often play finishes the round after it.",
+    "say": "When someone reaches this, we finish the round and then count up.",
+    "group": "Scoring and winning"
+  },
+  {
+    "term": "Kingmaking",
+    "plain": "When a player who cannot win still decides who does, by choosing whom to help or hurt.",
+    "say": "If you can't win, it's fine to just play your best move. Nobody has to pick the winner.",
+    "group": "Scoring and winning"
+  },
+  {
+    "term": "Point salad",
+    "plain": "A game where almost everything you do scores a few points in a different way, so there are many paths to win.",
+    "say": "Nearly everything here gets you points, so do what looks fun and you'll score.",
+    "group": "Scoring and winning"
+  },
+  {
+    "term": "Runaway leader",
+    "plain": "A player who gets ahead early and keeps getting further ahead, because being ahead makes it easier to stay ahead.",
+    "say": "If someone pulls way ahead, it's worth teaming up to slow them down.",
+    "group": "Scoring and winning"
+  },
+  {
+    "term": "Tiebreaker",
+    "plain": "The rule that decides the winner when scores are equal. It differs from game to game.",
+    "say": "If we tie, the one with more of these wins.",
+    "group": "Scoring and winning"
+  },
+  {
+    "term": "Victory points",
+    "plain": "The points that decide who wins. Most points at the end wins.",
+    "say": "Whoever has the most points at the end wins. These are the points.",
+    "group": "Scoring and winning"
+  },
+  {
+    "term": "Ameritrash or thematic game",
+    "plain": "A game built around story, theme, and drama, often with dice, fighting, and big swings. Ameritrash is an old hobby nickname; thematic game is the kinder term.",
+    "say": "This one is about the story, so expect big moments, lucky rolls, and some chaos.",
+    "group": "Table talk"
+  },
+  {
+    "term": "Analysis paralysis",
+    "plain": "When a player gets stuck thinking about a move for a long time because there are so many options. Often shortened to AP.",
+    "say": "Take your time. If it helps, tell me the two moves you're stuck between.",
+    "group": "Table talk"
+  },
+  {
+    "term": "BGG",
+    "plain": "BoardGameGeek, a large website with a database of board games, forums, and ratings.",
+    "say": "There's a big website where people rate games, if you want to find more like this one.",
+    "group": "Table talk"
+  },
+  {
+    "term": "Euro",
+    "plain": "A style of game, first popular in Germany, with little luck, little direct conflict, and many ways to score points.",
+    "say": "Nobody attacks anybody in this one. We're each building our own thing and comparing points at the end.",
+    "group": "Table talk"
+  },
+  {
+    "term": "FLGS",
+    "plain": "Friendly local game store, the hobby shop where people buy and often play games.",
+    "say": "There's a game shop nearby where you can try games before you buy them.",
+    "group": "Table talk"
+  },
+  {
+    "term": "Gateway game",
+    "plain": "A game that is easy to learn and fun for new players, often someone's first modern board game.",
+    "say": "This one's quick to learn, and it's a nice first step into newer games.",
+    "group": "Table talk"
+  },
+  {
+    "term": "House rule",
+    "plain": "A change to the official rules that a group agrees to use at their table.",
+    "say": "The book says one thing, but tonight let's play it this way. Everyone okay with that?",
+    "group": "Table talk"
+  },
+  {
+    "term": "Meeple",
+    "plain": "A small wooden person-shaped playing piece. The word blends my and people.",
+    "say": "These little wooden people are your pieces.",
+    "group": "Table talk"
+  },
+  {
+    "term": "Quarterback or alpha player",
+    "plain": "In a team game, one player who tells everyone else what to do on their turns.",
+    "say": "We can all share ideas, but on your turn, you make the call.",
+    "group": "Table talk"
+  },
+  {
+    "term": "Rules lawyer",
+    "plain": "A player who holds the table closely to the exact rules, sometimes more than the moment needs.",
+    "say": "Let's play it this way for now and check the book after the game.",
+    "group": "Table talk"
+  },
+  {
+    "term": "Take that",
+    "plain": "Moves that directly hurt another player, like stealing from them or wrecking their plans.",
+    "say": "Some cards let you mess with other people. It's part of the fun, not personal.",
+    "group": "Table talk"
+  },
+  {
+    "term": "Weight",
+    "plain": "How complex or heavy a game is to learn and play. A light game is simple; a heavy game has many rules and long turns.",
+    "say": "This one's on the lighter side, so we'll be playing in a few minutes.",
+    "group": "Table talk"
+  }
+]
