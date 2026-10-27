@@ -1,0 +1,204 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-labelledby="t d">
+  <title id="t">Ark Nova setup</title>
+  <desc id="d">The game board with the appeal track counting up and the conservation track counting the other way, the display of 6 face-up cards, the reputation and break tracks, the deck and discard. Beside it, the association board with base conservation projects below. Below, your zoo map with 7 tokens, a kiosk and an empty 3-space enclosure, 1 active worker and 25 money, your 5 action cards with Animals in slot 1, your hand of 4, and 2 secret Final Scoring cards.</desc>
+  <defs>
+    <path id="hx" d="M0 -9 L7.8 -4.5 L7.8 4.5 L0 9 L-7.8 4.5 L-7.8 -4.5 Z"/>
+    <g id="w">
+      <circle cx="5" cy="2.8" r="2.6"/>
+      <path d="M0.8 14 L1.4 8 Q5 5.6 8.6 8 L9.2 14 Z"/>
+    </g>
+    <path id="pent" d="M0 -5 L4.8 -1.5 L3 4.2 L-3 4.2 L-4.8 -1.5 Z"/>
+  </defs>
+  <rect width="480" height="320" fill="#F6EFE3"/>
+  <g font-family="system-ui, sans-serif" font-size="12" fill="#2B1E16">
+
+    <!-- Game board -->
+    <rect x="10" y="6" width="460" height="134" rx="12" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.5"/>
+    <text x="20" y="22" font-size="13" font-weight="700">Game board</text>
+
+    <!-- Appeal track: counts up, counters start on 0 to 3 by seat -->
+    <rect x="20" y="28" width="440" height="16" rx="8" fill="#2F5D50"/>
+    <circle cx="30" cy="36" r="4" fill="#E0A23B"/>
+    <circle cx="40" cy="36" r="4" fill="#F6EFE3"/>
+    <circle cx="50" cy="36" r="4" fill="#B9AD9C"/>
+    <circle cx="60" cy="36" r="4" fill="#2B1E16" stroke="#F6EFE3" stroke-width="1"/>
+    <text x="72" y="40" fill="#F6EFE3">Appeal track counts up →  (start: 0, 1, 2, 3 in seat order)</text>
+
+    <!-- Conservation track: counts up the other way, Bonus tiles near its start -->
+    <rect x="20" y="50" width="440" height="16" rx="8" fill="#F6EFE3" stroke="#2F5D50" stroke-width="1.5"/>
+    <text x="30" y="62">← Conservation track counts up the other way</text>
+    <text x="312" y="62">4 Bonus tiles</text>
+    <g fill="#E0A23B" stroke="#2B1E16" stroke-width="0.6">
+      <use href="#pent" x="396" y="58"/>
+      <use href="#pent" x="407" y="58"/>
+      <use href="#pent" x="418" y="58"/>
+      <use href="#pent" x="429" y="58"/>
+    </g>
+    <circle cx="446" cy="55" r="3" fill="#E0A23B"/>
+    <circle cx="453" cy="55" r="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="0.6"/>
+    <circle cx="446" cy="61" r="3" fill="#B9AD9C"/>
+    <circle cx="453" cy="61" r="3" fill="#2B1E16"/>
+
+    <!-- Display: 6 face-up cards in folders 1 to 6 -->
+    <g stroke="#2F5D50" stroke-width="1">
+      <rect x="20" y="74" width="26" height="36" rx="3" fill="#F6EFE3"/>
+      <rect x="52" y="74" width="26" height="36" rx="3" fill="#F6EFE3"/>
+      <rect x="84" y="74" width="26" height="36" rx="3" fill="#F6EFE3"/>
+      <rect x="116" y="74" width="26" height="36" rx="3" fill="#F6EFE3"/>
+      <rect x="148" y="74" width="26" height="36" rx="3" fill="#F6EFE3"/>
+      <rect x="180" y="74" width="26" height="36" rx="3" fill="#F6EFE3"/>
+    </g>
+    <g fill="#E0A23B">
+      <rect x="21" y="75" width="24" height="6" rx="2"/>
+      <rect x="53" y="75" width="24" height="6" rx="2"/>
+      <rect x="85" y="75" width="24" height="6" rx="2"/>
+      <rect x="117" y="75" width="24" height="6" rx="2"/>
+      <rect x="149" y="75" width="24" height="6" rx="2"/>
+      <rect x="181" y="75" width="24" height="6" rx="2"/>
+    </g>
+    <g font-weight="700" text-anchor="middle">
+      <text x="33" y="100">1</text><text x="65" y="100">2</text><text x="97" y="100">3</text>
+      <text x="129" y="100">4</text><text x="161" y="100">5</text><text x="193" y="100">6</text>
+    </g>
+    <text x="20" y="126">Display: 6 face-up cards</text>
+
+    <!-- Reputation track -->
+    <g fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1">
+      <rect x="222" y="78" width="8" height="10"/><rect x="230" y="78" width="8" height="10"/><rect x="238" y="78" width="8" height="10"/>
+      <rect x="246" y="78" width="8" height="10"/><rect x="254" y="78" width="8" height="10"/><rect x="262" y="78" width="8" height="10"/>
+      <rect x="270" y="78" width="8" height="10"/><rect x="278" y="78" width="8" height="10"/><rect x="286" y="78" width="8" height="10"/>
+      <rect x="294" y="78" width="8" height="10"/><rect x="302" y="78" width="8" height="10"/><rect x="310" y="78" width="8" height="10"/>
+      <rect x="318" y="78" width="8" height="10"/><rect x="326" y="78" width="8" height="10"/><rect x="334" y="78" width="8" height="10"/>
+    </g>
+    <circle cx="226" cy="83" r="3" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.6"/>
+    <text x="222" y="101">Reputation track</text>
+
+    <!-- Break track with the Break token on its start space -->
+    <g fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1">
+      <rect x="222" y="108" width="12" height="10"/><rect x="234" y="108" width="12" height="10"/><rect x="246" y="108" width="12" height="10"/>
+      <rect x="258" y="108" width="12" height="10"/><rect x="270" y="108" width="12" height="10"/><rect x="282" y="108" width="12" height="10"/>
+      <rect x="294" y="108" width="12" height="10"/><rect x="306" y="108" width="12" height="10"/><rect x="318" y="108" width="12" height="10"/>
+      <rect x="330" y="108" width="12" height="10"/>
+    </g>
+    <rect x="248" y="109" width="8" height="8" rx="1.5" fill="#2B1E16"/>
+    <text x="222" y="131">Break track</text>
+
+    <!-- Deck and discard -->
+    <rect x="378" y="80" width="26" height="36" rx="3" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="375" y="77" width="26" height="36" rx="3" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="372" y="74" width="26" height="36" rx="3" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <text x="387" y="131" text-anchor="middle">Deck</text>
+    <rect x="420" y="74" width="26" height="36" rx="3" fill="none" stroke="#2B1E16" stroke-width="1" stroke-dasharray="3 3"/>
+    <text x="433" y="131" text-anchor="middle">Discard</text>
+
+    <!-- Your zoo map -->
+    <rect x="10" y="148" width="244" height="114" rx="10" fill="#F6EFE3" stroke="#2F5D50" stroke-width="1.5"/>
+    <text x="16" y="166" font-size="13" font-weight="700">Your zoo map (Map A)</text>
+
+    <!-- 7 player tokens on the left edge -->
+    <g fill="#E0A23B" stroke="#2B1E16" stroke-width="0.6">
+      <rect x="18" y="172" width="8" height="8" rx="1.5"/>
+      <rect x="18" y="182" width="8" height="8" rx="1.5"/>
+      <rect x="18" y="192" width="8" height="8" rx="1.5"/>
+      <rect x="18" y="202" width="8" height="8" rx="1.5"/>
+      <rect x="18" y="212" width="8" height="8" rx="1.5"/>
+      <rect x="18" y="222" width="8" height="8" rx="1.5"/>
+      <rect x="18" y="232" width="8" height="8" rx="1.5"/>
+    </g>
+    <text x="14" y="258">7 tokens</text>
+
+    <!-- Building spaces, a kiosk, and an empty 3-space enclosure beside it -->
+    <g fill="none" stroke="#B9AD9C" stroke-width="1">
+      <use href="#hx" x="46" y="182"/><use href="#hx" x="61.6" y="182"/><use href="#hx" x="77.2" y="182"/>
+      <use href="#hx" x="53.8" y="195.5"/>
+      <use href="#hx" x="46" y="209"/>
+      <use href="#hx" x="53.8" y="222.5"/><use href="#hx" x="69.4" y="222.5"/><use href="#hx" x="85" y="222.5"/>
+    </g>
+    <g fill="#E0A23B" stroke="#2B1E16" stroke-width="1">
+      <use href="#hx" x="69.4" y="195.5"/>
+      <use href="#hx" x="61.6" y="209"/>
+      <use href="#hx" x="77.2" y="209"/>
+    </g>
+    <use href="#hx" x="85" y="195.5" fill="#2B1E16" stroke="#2B1E16" stroke-width="1"/>
+    <text x="98" y="200">← Kiosk</text>
+    <text x="98" y="214">← Empty</text>
+    <text x="98" y="227">3-space</text>
+    <text x="98" y="240">enclosure</text>
+
+    <!-- Notepad: 1 active worker and 25 money; 3 workers waiting -->
+    <rect x="186" y="172" width="62" height="46" rx="5" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1"/>
+    <text x="192" y="186" font-weight="700">Notepad</text>
+    <text x="192" y="201">1 worker</text>
+    <text x="192" y="214">25 money</text>
+    <g fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.6">
+      <use href="#w" x="196" y="226"/>
+      <use href="#w" x="212" y="226"/>
+      <use href="#w" x="228" y="226"/>
+    </g>
+    <text x="190" y="254">3 waiting</text>
+
+    <!-- Action cards, side I up, Animals in slot 1 -->
+    <g fill="#2F5D50">
+      <rect x="10" y="268" width="60" height="32" rx="4"/>
+      <rect x="75" y="268" width="60" height="32" rx="4"/>
+      <rect x="140" y="268" width="60" height="32" rx="4"/>
+      <rect x="205" y="268" width="60" height="32" rx="4"/>
+      <rect x="270" y="268" width="60" height="32" rx="4"/>
+    </g>
+    <g fill="#E0A23B" font-size="10" font-weight="700">
+      <text x="15" y="279">1</text><text x="80" y="279">2</text><text x="145" y="279">3</text><text x="210" y="279">4</text><text x="275" y="279">5</text>
+    </g>
+    <g fill="#F6EFE3" text-anchor="middle">
+      <text x="40" y="294">Animals</text>
+      <text x="105" y="294">Random</text>
+      <text x="170" y="294">Random</text>
+      <text x="235" y="294">Random</text>
+      <text x="300" y="294">Random</text>
+    </g>
+    <text x="10" y="314">Side I up. Slot number is strength.</text>
+
+    <!-- Your hand and secret Final Scoring cards -->
+    <g fill="#F6EFE3" stroke="#2B1E16" stroke-width="1">
+      <rect x="342" y="266" width="10" height="18" rx="2"/>
+      <rect x="355" y="266" width="10" height="18" rx="2"/>
+      <rect x="368" y="266" width="10" height="18" rx="2"/>
+      <rect x="381" y="266" width="10" height="18" rx="2"/>
+    </g>
+    <text x="400" y="280">Hand: 4</text>
+    <g fill="#2B1E16">
+      <rect x="342" y="292" width="10" height="18" rx="2"/>
+      <rect x="355" y="292" width="10" height="18" rx="2"/>
+    </g>
+    <text x="372" y="302">2 Final Scoring</text>
+    <text x="372" y="315">cards, secret</text>
+
+    <!-- Room above the association board for project cards -->
+    <rect x="264" y="148" width="206" height="18" rx="5" fill="none" stroke="#B9AD9C" stroke-width="1" stroke-dasharray="4 3"/>
+    <text x="367" y="161" text-anchor="middle">Row for new project cards</text>
+
+    <!-- Association board -->
+    <rect x="264" y="170" width="206" height="54" rx="8" fill="#F6EFE3" stroke="#2F5D50" stroke-width="1.5"/>
+    <text x="274" y="185" font-weight="700">Association board</text>
+    <g fill="#2F5D50">
+      <rect x="274" y="192" width="9" height="9" rx="1.5"/><rect x="286" y="192" width="9" height="9" rx="1.5"/>
+      <rect x="298" y="192" width="9" height="9" rx="1.5"/><rect x="310" y="192" width="9" height="9" rx="1.5"/>
+      <rect x="322" y="192" width="9" height="9" rx="1.5"/>
+    </g>
+    <text x="340" y="201">partner zoos</text>
+    <g fill="#E0A23B" stroke="#2B1E16" stroke-width="0.6">
+      <circle cx="278.5" cy="212" r="4.5"/><circle cx="290.5" cy="212" r="4.5"/><circle cx="302.5" cy="212" r="4.5"/>
+    </g>
+    <text x="340" y="216">universities</text>
+
+    <!-- Base conservation projects below the association board -->
+    <g fill="#2F5D50" stroke="#2B1E16" stroke-width="1">
+      <rect x="268" y="230" width="20" height="28" rx="3"/>
+      <rect x="292" y="230" width="20" height="28" rx="3"/>
+      <rect x="316" y="230" width="20" height="28" rx="3"/>
+    </g>
+    <rect x="340" y="230" width="20" height="28" rx="3" fill="none" stroke="#2F5D50" stroke-width="1" stroke-dasharray="3 3"/>
+    <text x="370" y="242">3 base projects</text>
+    <text x="370" y="256">4 at 4 players</text>
+
+  </g>
+</svg>

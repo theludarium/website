@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-labelledby="t d">
+  <title id="t">Sky Team setup</title>
+  <desc id="d">A simple map of the Sky Team Control Panel at setup. Above it, the Montreal Approach Track with Airplane tokens and the Altitude Track at 6000 with a Reroll token. Pilot spaces on the left, Co-Pilot spaces on the right, shared Axis, Engines, Brakes and Concentration in the middle. The Pilot sits on the left and the Co-Pilot on the right, each with 4 dice and a screen, and the Coffee reserve waits beside the board.</desc>
+  <defs>
+    <g id="pl">
+      <path d="M5 0 L6 3.5 L10 5.5 L10 6.8 L6 6 L6 8.6 L7.6 9.8 L7.6 10.8 L5 10.1 L2.4 10.8 L2.4 9.8 L4 8.6 L4 6 L0 6.8 L0 5.5 L4 3.5 Z"/>
+    </g>
+    <clipPath id="cs"><rect width="22" height="22" rx="4"/></clipPath>
+    <g id="split">
+      <g clip-path="url(#cs)">
+        <rect width="11" height="22" fill="#2F5D50"/>
+        <rect x="11" width="11" height="22" fill="#E0A23B"/>
+      </g>
+      <rect width="22" height="22" rx="4" fill="none" stroke="#2B1E16" stroke-width="1"/>
+    </g>
+  </defs>
+  <rect width="480" height="320" fill="#F6EFE3"/>
+  <g font-family="system-ui, sans-serif" font-size="12" fill="#2B1E16">
+
+    <!-- Approach Track: the airport at the far end, traffic on the way -->
+    <rect x="124" y="4" width="80" height="60" rx="6" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="128" y="8" width="72" height="16" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="0.8"/>
+    <rect x="144" y="14" width="40" height="4" fill="#2B1E16"/>
+    <rect x="128" y="26" width="72" height="16" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="0.8"/>
+    <use href="#pl" x="148" y="28.5"/><use href="#pl" x="170" y="28.5"/>
+    <rect x="128" y="44" width="72" height="16" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="0.8"/>
+    <use href="#pl" x="159" y="46.5"/>
+    <text x="116" y="20" text-anchor="end" font-weight="700">Approach Track</text>
+    <text x="116" y="34" text-anchor="end">(YUL Montreal)</text>
+    <text x="116" y="48" text-anchor="end">planes on icons</text>
+
+    <!-- Altitude Track: green and yellow side, 6000 in the screen -->
+    <rect x="280" y="4" width="76" height="60" rx="6" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="284" y="8" width="68" height="16" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="0.8"/>
+    <text x="318" y="20" text-anchor="middle">3000</text>
+    <rect x="284" y="26" width="68" height="16" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="0.8"/>
+    <text x="318" y="38" text-anchor="middle">4000</text>
+    <rect x="284" y="44" width="68" height="16" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="0.8"/>
+    <text x="318" y="56" text-anchor="middle">5000</text>
+    <text x="364" y="20" font-weight="700">Altitude Track</text>
+    <text x="364" y="34">at 6000, with 2</text>
+    <text x="364" y="48">Reroll tokens</text>
+
+    <!-- Control Panel -->
+    <rect x="64" y="62" width="352" height="234" rx="14" fill="#B9AD9C" fill-opacity="0.3" stroke="#2B1E16" stroke-width="1.5"/>
+
+    <!-- Screens row -->
+    <rect x="70" y="66" width="48" height="20" rx="4" fill="none" stroke="#2B1E16" stroke-width="1" stroke-dasharray="3 2"/>
+    <text x="94" y="80" text-anchor="middle">Reroll</text>
+    <rect x="128" y="66" width="72" height="20" rx="4" fill="#2B1E16"/>
+    <text x="164" y="80" text-anchor="middle" fill="#F6EFE3">Position</text>
+    <rect x="284" y="66" width="68" height="20" rx="4" fill="#2B1E16"/>
+    <text x="310" y="80" text-anchor="middle" fill="#F6EFE3">6000</text>
+    <circle cx="340" cy="76" r="6" fill="#E0A23B" stroke="#F6EFE3" stroke-width="1"/>
+
+    <!-- Pilot side: Radio and Landing Gear -->
+    <rect x="72" y="94" width="22" height="22" rx="4" fill="#2F5D50"/>
+    <text x="100" y="109">Radio</text>
+    <text x="72" y="138" font-weight="700">Landing Gear</text>
+    <g font-size="11" fill="#F6EFE3" text-anchor="middle">
+      <rect x="72" y="144" width="22" height="22" rx="4" fill="#2F5D50"/><text x="83" y="159">1/2</text>
+      <rect x="72" y="170" width="22" height="22" rx="4" fill="#2F5D50"/><text x="83" y="185">3/4</text>
+      <rect x="72" y="196" width="22" height="22" rx="4" fill="#2F5D50"/><text x="83" y="211">5/6</text>
+    </g>
+    <text x="100" y="159">any order</text>
+
+    <!-- Axis: disc, arrow straight up, one space each side -->
+    <text x="240" y="99" text-anchor="middle" font-weight="700">Axis</text>
+    <path d="M235 103 L245 103 L240 109 Z" fill="#2B1E16"/>
+    <rect x="186" y="119" width="22" height="22" rx="4" fill="#2F5D50"/>
+    <rect x="272" y="119" width="22" height="22" rx="4" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+    <circle cx="240" cy="130" r="18" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.5"/>
+    <line x1="224" y1="131" x2="256" y2="131" stroke="#2B1E16" stroke-width="2"/>
+    <line x1="240" y1="131" x2="240" y2="115" stroke="#2B1E16" stroke-width="1.5"/>
+    <path d="M236.5 118 L240 112.5 L243.5 118 Z" fill="#2B1E16"/>
+    <g stroke="#2B1E16" stroke-width="1.6">
+      <line x1="215.6" y1="114.8" x2="221" y2="120.2"/><line x1="221" y1="114.8" x2="215.6" y2="120.2"/>
+      <line x1="259" y1="114.8" x2="264.4" y2="120.2"/><line x1="264.4" y1="114.8" x2="259" y2="120.2"/>
+    </g>
+
+    <!-- Speed gauge with both Aerodynamics markers -->
+    <path d="M210 130 A30 30 0 0 0 270 130" fill="none" stroke="#2B1E16" stroke-width="7"/>
+    <circle cx="218.8" cy="151.2" r="4.5" fill="#2F5D50" stroke="#F6EFE3" stroke-width="1.2"/>
+    <circle cx="253.6" cy="156.7" r="4.5" fill="#E0A23B" stroke="#F6EFE3" stroke-width="1.2"/>
+    <text x="274" y="160">Speed gauge</text>
+
+    <!-- Engines -->
+    <text x="200" y="183" text-anchor="end" font-weight="700">Engines</text>
+    <rect x="206" y="168" width="22" height="22" rx="4" fill="#2F5D50"/>
+    <text x="240" y="183" text-anchor="middle">+</text>
+    <rect x="252" y="168" width="22" height="22" rx="4" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+
+    <!-- Brake track: marker left of the 2 -->
+    <g font-size="10" text-anchor="middle">
+      <text x="214" y="202">2</text><text x="230" y="202">3</text><text x="246" y="202">4</text><text x="262" y="202">5</text><text x="278" y="202">6</text>
+    </g>
+    <rect x="200" y="205" width="88" height="6" rx="3" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.8"/>
+    <rect x="201" y="202" width="6" height="12" rx="1.5" fill="#2B1E16"/>
+    <text x="194" y="212" text-anchor="end">Brake track</text>
+
+    <!-- Brakes, in order -->
+    <text x="194" y="234" text-anchor="end" font-weight="700">Brakes</text>
+    <g fill="#F6EFE3" text-anchor="middle">
+      <rect x="200" y="218" width="22" height="22" rx="4" fill="#2F5D50"/><text x="211" y="233">2</text>
+      <rect x="230" y="218" width="22" height="22" rx="4" fill="#2F5D50"/><text x="241" y="233">4</text>
+      <rect x="260" y="218" width="22" height="22" rx="4" fill="#2F5D50"/><text x="271" y="233">6</text>
+    </g>
+    <path d="M224 225.5 L228 229 L224 232.5 Z M254 225.5 L258 229 L254 232.5 Z" fill="#2B1E16"/>
+
+    <!-- Concentration and the Coffee spaces -->
+    <text x="104" y="258" text-anchor="middle">Coffee spaces</text>
+    <g fill="none" stroke="#2B1E16" stroke-width="1" stroke-dasharray="2 2">
+      <circle cx="84" cy="273" r="7"/><circle cx="104" cy="273" r="7"/><circle cx="124" cy="273" r="7"/>
+    </g>
+    <text x="240" y="256" text-anchor="middle" font-weight="700">Concentration (anyone)</text>
+    <use href="#split" x="200" y="262"/>
+    <use href="#split" x="229" y="262"/>
+    <use href="#split" x="258" y="262"/>
+
+    <!-- Co-Pilot side: two Radio spaces and the Flaps -->
+    <text x="382" y="124" text-anchor="end">Radio</text>
+    <rect x="388" y="94" width="22" height="22" rx="4" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+    <rect x="388" y="120" width="22" height="22" rx="4" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+    <text x="410" y="160" text-anchor="end" font-weight="700">Flaps</text>
+    <g font-size="11" text-anchor="middle">
+      <rect x="388" y="166" width="22" height="22" rx="4" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/><text x="399" y="181">1/2</text>
+      <rect x="388" y="192" width="22" height="22" rx="4" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/><text x="399" y="207">2/3</text>
+      <rect x="388" y="218" width="22" height="22" rx="4" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/><text x="399" y="233">4/5</text>
+      <rect x="388" y="244" width="22" height="22" rx="4" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/><text x="399" y="259">5/6</text>
+    </g>
+    <text x="382" y="207" text-anchor="end">in order</text>
+
+    <!-- Pilot seat, left -->
+    <text x="31" y="150" text-anchor="middle" font-weight="700">Pilot</text>
+    <g fill="#2F5D50">
+      <rect x="15" y="158" width="14" height="14" rx="3"/><rect x="33" y="158" width="14" height="14" rx="3"/>
+      <rect x="15" y="176" width="14" height="14" rx="3"/><rect x="33" y="176" width="14" height="14" rx="3"/>
+    </g>
+    <text x="31" y="206" text-anchor="middle">4 dice,</text>
+    <text x="31" y="220" text-anchor="middle">screen</text>
+
+    <!-- Coffee reserve beside the board -->
+    <g fill="#F6EFE3" stroke="#2B1E16" stroke-width="1">
+      <circle cx="17" cy="262" r="6"/><circle cx="31" cy="262" r="6"/><circle cx="45" cy="262" r="6"/>
+    </g>
+    <text x="31" y="282" text-anchor="middle">Coffee</text>
+    <text x="31" y="295" text-anchor="middle">reserve</text>
+
+    <!-- Co-Pilot seat, right -->
+    <text x="449" y="150" text-anchor="middle" font-weight="700">Co-Pilot</text>
+    <g fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8">
+      <rect x="433" y="158" width="14" height="14" rx="3"/><rect x="451" y="158" width="14" height="14" rx="3"/>
+      <rect x="433" y="176" width="14" height="14" rx="3"/><rect x="451" y="176" width="14" height="14" rx="3"/>
+    </g>
+    <text x="449" y="206" text-anchor="middle">4 dice,</text>
+    <text x="449" y="220" text-anchor="middle">screen</text>
+
+    <!-- Legend -->
+    <rect x="72" y="302" width="11" height="11" rx="2" fill="#2F5D50"/>
+    <text x="88" y="312">Pilot spaces (blue in the box)</text>
+    <rect x="262" y="302" width="11" height="11" rx="2" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+    <text x="278" y="312">Co-Pilot spaces (orange)</text>
+  </g>
+</svg>

@@ -1,0 +1,105 @@
+title: "First League Night"
+game: "Pokémon TCG"
+format: tcg
+order: 510
+wave: "TCG A"
+draft: false
+publisher: "The Pokémon Company International"
+# VERIFY: no Pokémon fan content policy could be read (pokemon.com blocks automated reading). Default notice pattern; the trademark line follows the official rulebook credit ("TM, ®, and character names are trademarks of Nintendo"). Levi to confirm wording.
+notice: "Unofficial. Not affiliated with or endorsed by The Pokémon Company International, Nintendo, Creatures, or GAME FREAK. Pokémon is a trademark of Nintendo."
+rulesEdition: "Pokémon Trading Card Game Web Rulebook, Mega Evolution Series (ME05), last updated July 2026"
+rulesSource: "https://d1i787aglh9bmb.cloudfront.net/assets/img/global/tcg-rulebook/ME05_Web_Rulebook_en.pdf"
+players: "2"
+# VERIFY: play time and age on the Battle Academy box.
+playTime: "About 20 to 30 minutes a game"
+ages: "Ages 6 and up"
+promise: "Pick the right first product, learn how a turn works, read any card, then build decks, win the Prize trade, and walk into League night, a prerelease, and a tournament ready to play."
+description: "A free Pokémon TCG course from your first box to the championship path: reading cards, budget upgrades, League night, deck building, odds, and tournaments."
+audience:
+  - "New players who want to learn the Pokémon TCG the right way, from the first turn."
+  - "Parents buying a first product, and learning alongside a kid who wants to play."
+  - "Anyone nervous about walking into a store's Pokémon League for the first time."
+  - "League regulars ready for their first League Challenge, and players eyeing a Regional Championship."
+levels:
+  - level: 0
+    name: "Rookie"
+    label: "Learn to play"
+    outcome: "Pick the right first product, play a full game by the current rules, read every part of a card, and teach it to someone new."
+  - level: 1
+    name: "Explorer"
+    label: "Beginner"
+    outcome: "Skip the classic early mistakes, play every turn in the right order, upgrade a starter on a budget, and enjoy your first League night."
+  - level: 2
+    name: "Battler"
+    label: "Intermediate"
+    outcome: "Build a 60-card deck from scratch, plan games around the Prize trade, choose first or second with a reason, and hold your own at a prerelease."
+  - level: 3
+    name: "Tactician"
+    label: "Advanced"
+    outcome: "Put odds on your opening hand and Prize cards, read what your opponent can do next turn, and tune a deck for the decks you will face."
+  - level: 4
+    name: "Contender"
+    label: "Tournament ready"
+    outcome: "Play a timed best-of-three match under Play! Pokémon rules, test a deck with purpose, and run a calm, clean tournament day."
+  - level: 5
+    name: "Veteran"
+    label: "The championship path"
+    outcome: "Map the road from League Challenge to the World Championships, plan a season of Championship Points, and follow a six-week plan to a Regional."
+afterLesson3: "Buy the right first product, play a full game by the current rules, and read every part of a card without help."
+afterLesson8: "Teach the game, skip the classic beginner mistakes, play each turn in the right order, upgrade a starter on a budget, and enjoy your first League night."
+faq:
+  - q: "What is the best way to start playing the Pokémon TCG?"
+    a: "The official Play! Pokémon getting-started page points new players to Battle Academy: balanced decks with a board that leads you through the game. For one player who wants a deck to bring to a store, the official rulebook suggests a Mega Battle Deck."
+  - q: "How many cards are in a Pokémon TCG deck?"
+    a: "A deck is exactly 60 cards. You can have only 4 copies of any card with the same name, except Basic Energy, and the deck needs at least one Basic Pokémon."
+  - q: "Can you attack on the first turn in the Pokémon TCG?"
+    a: "The player who goes first cannot attack or play a Supporter card on that first turn. The second player can attack on their first turn. Neither player can evolve a Pokémon on their own first turn."
+  - q: "How do you win a game of the Pokémon TCG?"
+    a: "Take all 6 of your Prize cards, Knock Out your opponent's last Pokémon in play, or have your opponent start their turn with no cards left to draw."
+  - q: "What is Pokémon League?"
+    a: "Pokémon League is casual play at Play! Pokémon stores, open to everyone. No experience is needed, and someone is usually there to help new players. Find one with the official Event Locator."
+  - q: "Do Pokémon ex give up more Prize cards?"
+    a: "Yes. When a Pokémon ex is Knocked Out, your opponent takes 2 Prize cards. A Mega Evolution Pokémon ex gives up 3."
+teachSheet:
+  goal: "Take all 6 of your Prize cards before your opponent takes theirs."
+  setup:
+    - "Shake hands. Flip a coin; the winner chooses who goes first."
+    - "Shuffle your 60-card deck and draw 7 cards."
+    - "Place 1 Basic Pokémon face down as your Active Pokémon."
+    - "Place up to 5 more Basic Pokémon face down on your Bench."
+    - "No Basic Pokémon? Reveal, reshuffle, draw 7 again. Each time, your opponent may draw 1 extra card."
+    - "Set the top 6 cards aside face down as your Prize cards."
+    - "Flip all Pokémon face up and begin."
+  turn:
+    - "Draw a card. No card to draw means you lose."
+    - "Bench Basic Pokémon, as many as you like, up to 5 on the Bench."
+    - "Evolve Pokémon that were in play when your turn began. Nobody evolves on their first turn."
+    - "Attach 1 Energy card from your hand, once per turn."
+    - "Play Items and Tools freely; only 1 Supporter and 1 Stadium."
+    - "Retreat once: discard Energy equal to the Retreat Cost."
+    - "Attack to end your turn. On turn 1, the first player cannot attack or play a Supporter."
+    - "Pokémon Checkup between turns: Poisoned, Burned, Asleep, Paralyzed."
+  scoring:
+    - "Each 10 damage is 1 damage counter."
+    - "Weakness doubles damage; Resistance lowers it by the printed amount."
+    - "Damage at least equal to HP means Knocked Out: take 1 Prize card."
+    - "Pokémon ex give 2 Prize cards; Mega Evolution Pokémon ex give 3."
+  endGame: "You win by taking your last Prize card, Knocking Out your opponent's last Pokémon in play, or when your opponent cannot draw at the start of their turn."
+  tips:
+    - "Fill your Bench early so one Knock Out never ends your game."
+    - "Attach an Energy every turn, even to a Benched Pokémon."
+    - "Count your opponent's Prize cards before you play a Pokémon ex."
+diagramAlt: "The Pokémon TCG play area for two players. On each side: the Active Spot in the middle, a Bench of up to 5 Pokémon behind it, 6 face-down Prize cards on the left, and the deck and discard pile on the right. A shared Stadium spot sits by the center line, and each player's hand stays off the table, hidden."
+related:
+  - "pokemon-tcg-parents-guide"
+  - "family-friendly-game-cafes-indianapolis"
+  - "indianapolis-board-game-stores"
+  - "indianapolis-game-nights"
+  - "how-to-teach-a-board-game"
+  - "teaching-kids-to-lose-at-games"
+  - "how-to-be-a-good-loser"
+tcg:
+  starter: "Pokémon TCG Battle Academy"
+  firstEvent: "Pokémon League at a Play! Pokémon store"
+  # VERIFY: the set name Pitch Black (the rulebook file is ME05) and the Delta Reign date came from tcg.pokemon.com, which blocked automated reading during the fact check.
+  rulesAsOf: "Mega Evolution: Pitch Black (web rulebook updated July 2026), ahead of Mega Evolution: Delta Reign on November 6, 2026"

@@ -230,8 +230,8 @@ A short log of choices made and why. Newest at the bottom.
 - **First party only.** A Pages middleware at `functions/corporate-events/_middleware.ts` logs the view after the page is served, inside `waitUntil`, with every error swallowed. No pixel, no script in the browser. Placing the middleware in that folder (not at `functions/_middleware.ts`) means no other page invokes a function.
 - **"Company" means the network owner.** IPinfo's company dataset is Enterprise only, so the tracker uses the ASN organization: Cloudflare's `request.cf.asOrganization` on every request plus one free IPinfo Lite call for the domain. A company with its own IP range shows up by name; a small firm on Comcast Business shows up as Comcast and is dropped. No vendor fixes that. `IPINFO_PLAN=core` ($26 a month) adds IPinfo's `type` field and VPN, hosting and mobile flags; the code prefers them when present.
 - **No raw IPs stored.** Visits and the lookup cache are keyed by a salted SHA-256 (`VISITOR_HASH_SALT`), so there is nothing to purge. Cache rows older than 30 days are ignored and deleted weekly.
-- **D1 bound through the dashboard, not a root `wrangler.toml`.** Once a root config has `pages_build_output_dir`, Wrangler makes it the source of truth for the Pages project and the dashboard's variables and secrets become read-only there. The root `wrangler.toml` therefore has no output dir and only serves `wrangler pages dev`.
-- **Digest through Resend**, already wired for the inquiry form, instead of Cloudflare's send_email binding, which now needs the domain onboarded to Email Service first. `workers/visitors-digest` runs at 12:00 UTC on Mondays (7am Eastern in winter, 8am in summer: cron triggers have no time zone).
+- **One database.** Where We Play landed first with `ludarium-site` bound as `DB` through the dashboard, so the tracker uses that database too (2026-10-27 merge), with its tables prefixed `vc_` next to `wwp_`. The root `wrangler.toml` stays local-dev only, for the reason recorded under Where We Play.
+- **Digest through `ludarium-notify`.** The first version emailed through Resend; main dropped Resend for the notify Worker on Cloudflare Email Routing, so the digest Worker calls the same Worker through a service binding and needs no secrets of its own. `workers/visitors-digest` runs at 12:00 UTC on Mondays (7am Eastern in winter, 8am in summer: cron triggers have no time zone).
 - **Scoring:** 10 x log2(1 + visits), 15 per distinct page, up to 30 for recency fading over 30 days, 40 for Indiana or 10 for elsewhere in the US. Out-of-region companies are kept, ranked lower.
 - **Not built:** the optional `/admin/visitors` dashboard (Levi's call: not yet). The privacy policy gained a paragraph on it (Levi approved the draft 2026-10-22) and lists IPinfo as a helper.
 - **Dependency added:** `wrangler` at the root, for `wrangler pages dev` and D1 migrations.
@@ -341,3 +341,103 @@ On the Table is the private daily ranking of the tabletop games gaining attentio
 - **`/ott-manifest.json` lists every page with games** (path, kind, title, publish date, games), built from the same content as the pages. Pages without games are left out, since the tracker has no use for them.
 - **The Pages Function `functions/api/ott/e.ts` answers 204 at once and forwards through the `OTT` service binding** to `https://ott.internal/api/ott/e`, a host the tracker serves only to its binding. The visitor's IP and network travel in the request body, so no request log holds them. Without the binding (previews, local builds) it does nothing, so the site can deploy before the binding exists.
 - **The privacy policy describes the cookieless counting**: what a note holds, the daily scrambled code, nightly deletion, and that GPC and Do Not Track stop it entirely.
+
+## 2026-10-24: The Academy content plan, built as one push
+
+Levi's "Ludarium Content Plan: Academy, TCGs, and the Hotness" (October 24, 2026) asks for 20 board game courses, 6 TCG courses, a weekly game index, and the recurring stories. Levi said to build it all rather than follow the timeline, branch per wave with his approval, site first and Kit after, and to write lesson 3 from the rulebook with a placeholder for his own table notes.
+
+- **A general course system beside Catan.** Catan keeps its six-level design (its pages moved to `src/pages/academy/catan/`). Every other course is one YAML file in `src/content/courses/`, a folder of lessons in `src/content/course-lessons/<slug>/`, and an original diagram in `public/academy/<slug>/`. The `[course]` route renders the course page, the lessons and a printable teach sheet. Four formats: full (8 lessons), masterclass (7), Teach It Tonight (sheet plus 2), and TCG (8, all public). The writer's guide is `docs/academy/COURSES.md`; `scripts/check-course.mjs` checks a course before a build.
+- **Lessons 1 and 2 are public; board game lessons past that arrive by email,** as the plan says: their pages exist for the emails but are noindex and kept out of the sitemap and search, and the course page lists them as "By email." TCG lessons are all public, because Wizards forbids an email gate for Magic and the plan applies that rule to every TCG. The Academy page copy changed to match.
+- **Teach sheets** are a page per course with print styles; `scripts/teach-sheets.mjs` prints them to one-page PDFs with headless Chrome on Levi's Mac (Cloudflare's build has no browser), and the PDFs are committed.
+- **Placeholders, not guesses.** No first-person play stories; `<!-- AT OUR TABLE -->` marks where Levi's notes go. Unconfirmed facts carry `<!-- VERIFY -->`, product mentions carry `<!-- AFFILIATE -->` until programs are confirmed. The build lists all three.
+- **Every course was written by one agent and then attacked by a second** that re-read the official rules and fixed what it could not confirm. Carcassonne was the pilot that set the model.
+- **Signups post to the general newsletter until each course has its Kit form** (`KIT_COURSE_FORMS`), so no email is lost; previews show a reminder. Kit forms and sequences come after the site, once Levi picks a paid plan.
+- **Riftbound is built but stays a draft** until Riot answers in writing, as the plan requires.
+- **One game index: On the Table.** The plan's index, called the Ludometer there, is the On the Table tracker that was already live (`theludarium/on-the-table`). Levi's call on 2026-10-24: one engine and one name. A BGG-based Ludometer Worker and preview-only `/ludometer/` pages were built on this branch first and then removed before merging; the useful parts are written up for On the Table's later phases in that repo. The plan's weekly section becomes "On the Table this week".
+- **The Catan course now carries an unofficial notice** on the course page and every lesson.
+- **Every course carries On the Table game tags** (`games` in the course YAML): its course page, lessons and teach sheet get `ott:games`, the teach sheet PDF links count as downloads, and `/ott-manifest.json` lists them (teach sheets as `teach_sheet`). The Pokémon, One Piece, Lorcana, Riftbound and Yu-Gi-Oh! courses stay untagged until those games join On the Table's game list.
+
+## 2026-10-25: Every Academy lesson is open
+
+- **All lessons of every game course are public pages,** indexed, in the sitemap and in site search. Until now board game lessons past the first two (the first one for masterclasses) were noindex pages reached only from the emails. Levi's call: readers should see they have the whole course, and the email is for people who want the course paced over time, not a gate. The signup stays on every course page and lesson.
+- **What changed:** the `PUBLIC_LESSONS` limit and the matching sitemap filter are gone, every lesson on a course page links, and the course page says every lesson is free to read and that signing up sends them one at a time. The Academy page and the Wave 1 gift guide say the same.
+- **One thing to revisit:** the plan drafts paid strategy guides from the masterclass lessons. Those lessons are now free in full, so a paid guide has to add something beyond them.
+
+## 2026-10-25: Every game course is a level ladder
+
+Levi liked Catan's Level 0 to 5 structure (learn to play up to expert) and asked for it in every course. His calls: scale the ladder by how deep the game is, and aim for about 20 lessons on the deep games.
+
+- **Three depths.** Light games (Azul, Splendor, Codenames, King of Tokyo, Flip 7, Sky Team) run Levels 0 to 3 with 13 lessons. Medium games run 0 to 4 with 17 to 19. Deep games and the trading card games run 0 to 5 with 21 to 23. 31 courses, 591 lessons. Each level has a name themed to the game, a plain label, and an "after this level" outcome.
+- **Labels:** Learn to play, Beginner, Intermediate, Advanced, Tournament ready, The championship path. Games without a real tournament scene (Sky Team, Flip 7, Codenames, Pandemic, Spirit Island, Lost Ruins of Arnak, Cube) top out at Expert and Mastery instead. Level names avoid words a publisher uses as an official title, so Pokémon's top level is Veteran and Lorcana's is Loremaster.
+- **Teach It Tonight is folded in.** Codenames, King of Tokyo, Flip 7 and Sky Team grew from 2 lessons to 8 and then onto their ladders; the teach sheet stays their quick start.
+- **How it is built:** `levels` in the course YAML and `level` on each lesson. The course page groups lessons by level, each lesson shows its level, and `check-course.mjs` enforces the ladder (orders 1 to N, levels never step down, at least 2 lessons a level). The guide is the "Level ladders" section of `docs/academy/COURSES.md`.
+- **Same quality bar as the first push.** Every course was extended by one agent and then checked by a second that re-read the official rules, recomputed every probability, and fixed or marked what it could not confirm. Several real rules errors were caught that way (Codenames Duet guessing, Cascadia's Salmon C, King of Tokyo knockout math, Lorcana's ink and keywords, Castles of Burgundy's depots). Open questions stay as VERIFY markers, Levi's own notes as AT OUR TABLE markers.
+- **Riftbound stays a draft** until Riot answers in writing.
+
+## 2026-10-25: Academy catalog ordered for reach
+
+- **Biggest audiences first.** Within each group the Academy cards now run by audience size and beginner appeal (Ticket to Ride, Wingspan, Codenames, Azul, Carcassonne, Pandemic first; Power Grid and Castles of Burgundy last), not by the wave they were written in. The first cards on a long page get most clicks, and newcomers sign up most. Card games lead with Pokémon and Magic.
+- **A "Start here" row** above the groups shows Catan, Ticket to Ride, Wingspan, Codenames, Pokémon and Magic, so the two biggest card games are not buried under 26 board game cards. Each still appears in its group.
+- **The order is an estimate.** Once On the Table has a few months of views and signups per game, those numbers should set it. Notes in the "Catalog order" section of `docs/academy/COURSES.md`.
+
+## 2026-10-25: Dinosaur Island course
+
+- **A new game course, "Room to Roar",** for Dinosaur Island (Jonathan Gilmour and Brian Lewis, Pandasaurus Games), at Levi's request. Medium ladder, Levels 0 to 4, 18 lessons, with a teach sheet, setup diagram and card art. Written by one agent from the official Rulebook 2.0 (2019) and fact checked by a second.
+- **Top level is Expert, not Tournament ready:** no official tournament or organized play was found.
+- **No original title from film.** The first draft borrowed a famous Jurassic Park line; course titles stay original.
+- **Objective claiming:** the rulebook does not say whether a player may decline or delay a claim, so the timing lesson teaches choosing when to complete an objective instead, and a VERIFY asks for a ruling.
+- **Untagged in On the Table** until Dinosaur Island joins its game list. Catalog order 285, among the strong and growing games.
+
+## 2026-10-26: Course lessons by email, starting with the Start here courses
+
+- **Every course page signup now gets its lessons by email** for Ticket to Ride, Wingspan, Codenames, Pokémon and Magic (Catan already had its own). Until now those signups joined the general newsletter and got no lessons. The other 26 courses got the same setup later the same day, so every published game course now sends its lessons by email (Riftbound joins when it is published).
+- **One Kit form, tag and sequence per course,** one email per lesson built from the lesson files (`scripts/course-emails.mjs`, template in `docs/academy/LESSON-EMAIL.md`). The map is `docs/academy/COURSE-EMAILS.md`.
+- **Pace, Levi's call: two lessons a week.** Lesson 1 sends as soon as the reader confirms, then Tuesdays and Fridays at about 8 a.m. Indiana time.
+- **One shared pause.** "Pause your Academy lessons for two weeks" in every email pauses every course the reader is taking, then resumes on its own, rather than a pause per course.
+- **Each course has its own signup pages,** `/academy/<course>/thanks/` and `/confirmed/`, kept out of search and the sitemap. The thanks page counts the signup for the course's games in On the Table.
+- **Kit's paid plan:** sequences and rules need it. The billing page still showed the Creator trial ending on 2026-11-04 when this was built.
+
+## 2026-10-26: Where We Play, for the Cube Commonwealth
+
+Where We Play helps the Cube Commonwealth (about 300 Cube drafters, most on the north side of Indianapolis) pick venues by drive time. Members share where they live at `/cube-commonwealth/where-we-play/`; Levi vets venues and reads the rankings at `/cube-commonwealth/where-we-play/admin/`. Spec: `docs/cube-commonwealth/where-we-play-prompt.md`.
+
+- **Pages Functions and D1, not a separate Worker.** The site already runs its inquiry form as a Pages Function with Resend, so the member form, the admin API and the drive-time work live under `functions/api/where-we-play/`, with every table prefixed `wwp_` in one D1 database (`ludarium-site`, bound as `DB` through the dashboard). One deploy, one database, nothing new to host. The root `wrangler.toml` exists only so `wrangler pages dev` can run the functions locally; it has no `pages_build_output_dir` on purpose, because with that key Wrangler makes the file the project's source of truth and the dashboard's variables and secrets become read-only. The visiting-companies branch, still unmerged, uses the same arrangement under the name `ludarium-visitors`; whichever lands second should point at the one database.
+- **The private edit link is the whole identity system.** No accounts. Submitting makes a 32-byte token; the database keeps only its hash, and the confirmation email carries the link. The link updates or deletes the entry. Submitting again with the same email updates the row and sends a fresh link, which retires the old one. This matches the site's "no accounts" rule and costs nothing to forget.
+- **Privacy model.** Raw addresses are read only by the admin routes, which sit behind Cloudflare Access at the edge and verify Access's JWT themselves (`src/server/where-we-play/access.ts`), so a gap in the Access policy fails closed. Members see only aggregate cards ("a median 14 minute drive for 40 members"), and nothing at all until five people have a location. Every member also gets a public point, snapped to the cross street or the zip centroid, which is what any member-facing map would use; the admin map has a toggle to see that view. The privacy statement uses "the app's admin", not Levi's name, at his request.
+- **Free services only.** Nominatim (OpenStreetMap) geocodes addresses and cross streets, one request a second with a real User-Agent, every answer cached in `wwp_geocode_cache`. Zip centroids come from the Census 2023 ZCTA gazetteer, bundled for Indiana in `src/data/indiana-zips.ts`, so a zip-only member costs no lookup. Drive times come from OSRM's public demo server through its `table` service, one call per new member or venue, cached per pair in `wwp_drive_times` and never recomputed unless someone moves. When OSRM is down, the pair gets a straight-line estimate (great-circle distance times 1.3, at 28 mph) marked `straight_line`, and the admin page offers "Retry OSRM" to replace them. Google and Mapbox were ruled out: no budget, and the demo server is enough at this scale.
+- **Leaflet for the admin map**, loaded from unpkg at a pinned version with integrity hashes, the one front-end dependency. OpenStreetMap tiles. It is the admin page only; members get no map in version one.
+- **Rankings.** Median drive time is the ranking key, with the 75th percentile and the count under 20 minutes beside it so a venue that strands the far side of town shows up. An availability slot filter limits the numbers to the members who can make that night. Percentiles use nearest rank; the math is in `src/lib/where-we-play/engine.ts` with tests under `tests/where-we-play/`.
+- **Events** are a minimal record (date, venue, headcount, notes) so attendance data exists from the first meetup. Site-selection research waits on it.
+- **Previews.** Cloudflare Access is not in front of preview deployments, so the admin routes also accept `WWP_ADMIN_PREVIEW_TOKEN` in an `X-Admin-Token` header; the page asks for it once per tab. The variable is set for the Preview environment only, so production never has it.
+- **Not built, on purpose:** Discord integration, a newsletter checkbox, accounts, per-event RSVP optimization, multi-city support, lounge site selection, paid routing APIs.
+- **Dependency added:** `wrangler` at the root, for `wrangler pages dev` and D1 migrations.
+
+## 2026-10-26: The Ludarium Guild of Game Guides
+
+Levi asked to turn the article "How to Teach a Board Game in Five Minutes" into a full training program, built from his blueprint ("The Ludarium Guild of Game Guides: Program Blueprint", a Claude doc). His calls: the name, graduates certified as Expert Game Guides, lessons public, assets gated.
+
+- **Its own system beside the game courses.** It teaches the teacher, not a game, so it does not fit the course YAML (no rules source, setup diagram or teach sheet). Lessons live in their own collection, `src/content/guild-lessons/`; the program, modules, ranks and principles in `src/lib/guild.ts`; pages under `/academy/guild/`. Writer's guide: `docs/academy/GUILD.md`; checker: `scripts/check-guild.mjs`.
+- **Eight modules, 35 lessons.** A mindset module, the five moves (Pick, Prep, Teach, Play, Close), a field guide, and the capstone. Each lesson has one idea, a worked example on a widely owned game, a drill, and a two or three question self-check (the Catan Level check component, relabeled).
+- **Ranks:** Apprentice after Modules 0 to 2, Journeyman after 3 to 5, Expert Game Guide after the capstone. Only the last is reviewed.
+- **Certification by hand.** The capstone form posts to a new Pages Function (`functions/api/guild-capstone.ts`) that emails Levi through Resend, reusing the inquiry form's settings, so no new service. Levi makes the certificate at `/academy/guild/certificate/` (noindex) and replies with it. The title needs the newcomer's yes to a second game. No badge, roster or public directory yet.
+- **Toolkit.** Public and indexed, because each answers a search on its own: the Teachability Scorecard, the Jargon Translator, the Gotcha Index (one gotcha per Academy board game, sourced from the course files), the Teach Library (the existing course teach sheets) and the capstone. Sent with the email course and kept out of search: the teach script, the game ladder, the pre-flight checklist, the feedback card and the self-assessment. Static site, so the "gate" is only noindex plus the email link (`/academy/guild/kit/`); that matches Levi's call to keep lessons public and gate the assets lightly.
+- **Written the same way as the courses:** a pilot lesson set the model, five writers took the rest, rules claims were checked against the Academy course files, and Levi's own stories are left as AT OUR TABLE markers.
+- **Email:** one lesson each weekday (about seven weeks), not the courses' Tuesday and Friday, which would take 17. `scripts/guild-emails.mjs` builds the emails; Kit setup is in `docs/academy/guild/KIT-SETUP.md`. Until the form exists, signups join the general newsletter.
+- **Links in:** a feature band on the Academy page, and course boxes at the top and bottom of the original article.
+- **Renamed 2026-10-27, Levi's call:** "The Ludarium Guild of Game Guides", and graduates are "Expert Game Guides". URLs stay under `/academy/guild/`, so nothing needs redirects. The site also has an article category called Game Guides; the program and the category now share a word, which suits the original article living in that category.
+
+## 2026-10-27: No automated emails to people; form notices through Cloudflare
+
+Levi's call: keep collecting emails, but stop sending automated emails to the people who fill out forms. Resend was never set up and is no longer used.
+
+- **Where We Play shows the private edit link on the thanks page** instead of emailing it. The token travels in the URL fragment, which browsers never send to a server, and the page offers a copy button.
+- **A repeat email is turned away, not replaced.** With the link on screen, replacing an entry would let anyone who knows a member's email take it over and read their address. Lost links go through the admin: "New link" makes a fresh one to pass on by hand.
+- **Inquiry and Guild capstone notices still reach Levi**, through a small Worker (`ludarium-notify`, `workers/notify/`) bound to the Pages project as `NOTIFY`. Pages Functions cannot send email; the Worker sends through Cloudflare Email Routing, which only delivers to verified addresses, so it cannot email anyone else. No new account or dependency. The destination is a Worker secret because this repo is public.
+- **Turnstile** has one widget for theludarium.com. Previews and local dev always use Cloudflare's always-pass test key, so preview URLs never need registering.
+
+## 2026-10-27: Sushi Go!, Kingdomino and The Crew courses
+
+- Three new Light courses (levels 0 to 3, 13 lessons each), asked for by Levi: Sushi Go! "Pick and Pass", Kingdomino "Every Crown Counts", and The Crew: The Quest for Planet Nine "The Right Trick". They are classic first games for newcomers, so they also feed the Guild of Game Guides.
+- Catalog order by audience: Sushi Go! 145 and Kingdomino 155 among the biggest family games, The Crew 225 with the strong and growing ones.
+- Rules come from the official rulebooks (Gamewright 2014 printing; Blue Orange 2016 rules checked against the 2024 edition; the Thames & Kosmos English rulebook and logbook). Open questions the rulebooks do not settle are left as VERIFY markers rather than guessed.
+- Kit forms for the three courses come after merge, the same way as the other 31; until then their signups fall back to the general newsletter.

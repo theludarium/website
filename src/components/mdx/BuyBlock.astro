@@ -1,0 +1,100 @@
+---
+// The gift guide and buying guide block: one card per game with who it suits,
+// players and time, an optional course link, and the buy link. A buy link
+// marked `affiliate` uses AffiliateLink (rel="sponsored") and the block adds
+// the disclosure line beside it. Usage in MDX:
+//   <BuyBlock items={[{ name: 'Azul', why: '...', players: '2 to 4', time: '30 to 45 min', course: '/academy/azul/', href: 'https://...', affiliate: false }]} />
+import AffiliateLink from '@/components/mdx/AffiliateLink.astro';
+
+interface Item {
+  name: string;
+  why: string;
+  players: string;
+  time: string;
+  /** Typical US price as text, e.g. "about $40". */
+  price?: string;
+  course?: string;
+  href?: string;
+  affiliate?: boolean;
+}
+interface Props {
+  items: Item[];
+}
+const { items } = Astro.props;
+const anyAffiliate = items.some((i) => i.affiliate && i.href);
+---
+
+<div class="buy-block">
+  {
+    items.map((i) => (
+      <article class="buy-block__item">
+        <h3>{i.name}</h3>
+        <p class="buy-block__facts">
+          {i.players} players &middot; {i.time}
+          {i.price && <> &middot; {i.price}</>}
+        </p>
+        <p>{i.why}</p>
+        <p class="buy-block__links">
+          {i.course && <a href={i.course}>Free course</a>}
+          {i.href &&
+            (i.affiliate ? (
+              <AffiliateLink href={i.href}>Buy {i.name}</AffiliateLink>
+            ) : (
+              <a href={i.href} rel="noopener">
+                {i.name} from the publisher
+              </a>
+            ))}
+        </p>
+      </article>
+    ))
+  }
+  {
+    anyAffiliate && (
+      <p class="buy-block__disclosure">
+        Buy links marked here are affiliate links: The Ludarium may earn a small commission at no extra cost to you.{' '}
+        <a href="/affiliate-disclosure/">How affiliate links work here</a>.
+      </p>
+    )
+  }
+</div>
+
+<style>
+  .buy-block {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 16rem), 1fr));
+    gap: var(--space-4);
+    margin: var(--space-6) 0;
+  }
+
+  .buy-block__item {
+    padding: var(--space-4) var(--space-5);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-card);
+    background: var(--color-surface);
+  }
+
+  .buy-block__item h3 {
+    margin: 0 0 var(--space-1);
+  }
+
+  .buy-block__facts {
+    margin: 0 0 var(--space-2);
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+
+  .buy-block__links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-3);
+    margin-bottom: 0;
+    font-weight: 600;
+  }
+
+  .buy-block__disclosure {
+    grid-column: 1 / -1;
+    margin: 0;
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+</style>

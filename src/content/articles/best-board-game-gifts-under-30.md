@@ -107,4 +107,4 @@ Amazon and Target usually have the lowest everyday prices on mass-market titles,
 
 ## Get one game recommendation a week
 
-If you would like picks like these in your inbox, subscribe to The Ludarium newsletter. New pieces on games, the people who play them, and how to get more of both into your life. When our Indianapolis lounge opens, every game on this list will be on the shelf for you to try before you buy. See also our list of [quick board games under 30 minutes](/articles/quick-board-games-under-30-minutes/) for the ones that fit a weeknight.
+If you would like picks like these in your inbox, subscribe to The Ludarium newsletter. New pieces on games, the people who play them, and how to get more of both into your life. When our Indianapolis lounge opens, every game on this list will be on the shelf for you to try before you buy. See also our list of [quick board games under 30 minutes](/articles/quick-board-games-under-30-minutes/) for the ones that fit a weeknight. For stocking stuffers, see [great board and card games under $20](/articles/board-games-under-20-dollars/).

@@ -1,0 +1,98 @@
+title: "Hot Laps"
+game: "Heat: Pedal to the Metal"
+format: full
+order: 250
+wave: "2"
+draft: false
+publisher: "Days of Wonder"
+notice: "Unofficial. Not affiliated with Days of Wonder or Asmodee. Heat: Pedal to the Metal is a trademark of Days of Wonder."
+rulesEdition: "Heat: Pedal to the Metal Rules v1.1 and Advanced Play and Championship System Rules v1.1 (Days of Wonder)"
+rulesSource: "https://cdn.svc.asmodee.net/staging-daysofwonder/uploads/2024/07/9101-HT-Rules-EN.pdf"
+players: "1 to 6"
+playTime: "About 60 minutes"
+ages: "Ages 10 and up"
+promise: "Learn Heat, teach it in ten minutes, and take every corner knowing exactly what your engine can afford."
+description: "A free Heat: Pedal to the Metal course: learn the rules, teach them in ten minutes, then master corners, Heat, slipstream, the final lap, and tournament play."
+audience:
+  - "New drivers who want the nine steps of a round clear before the first race."
+  - "Hosts who teach Heat to family, friends, or a new group."
+  - "Players who keep spinning out, or keep finishing with Heat they never used."
+  - "Anyone curious about the Championship, Legends, expansions, and tournament play."
+levels:
+  - level: 0
+    name: "Pit Crew"
+    label: "Learn to play"
+    outcome: "Set up, teach, and race a full game, paying every corner, Boost, and spin out by the rules without opening the booklet."
+  - level: 1
+    name: "Rookie"
+    label: "Beginner"
+    outcome: "Get through the first lap without a spin out, keep a hand that still works, and add the box's modules one at a time."
+  - level: 2
+    name: "Racer"
+    label: "Intermediate"
+    outcome: "Time your cooldowns, slipstream through corners, draft upgrades that fit the track, beat Legends, and empty your engine on the final lap."
+  - level: 3
+    name: "Ace"
+    label: "Advanced"
+    outcome: "Put odds on every Boost, plan a lap corner by corner, drive the weather, and predict where your rivals will land."
+  - level: 4
+    name: "Front Row"
+    label: "Tournament ready"
+    outcome: "Race a full table under Tournament Mode with drafted upgrades and weather, and follow a practice plan to your first event."
+afterLesson3: "Teach and race a clean game of Heat, with every corner, Boost, slipstream, and spin out paid exactly as the rules say."
+afterLesson8: "Plan a first lap, keep a working hand, add the box's modules one at a time, and time your cooldowns and slipstreams through corners."
+faq:
+  - q: "How do you win Heat: Pedal to the Metal?"
+    a: "Be the first car to cross the finish line after the number of laps shown on the board. If several cars finish in the same round, the car furthest ahead wins. Side by side, the car on the Spot closer to the Race Line wins."
+  - q: "What happens if you take a corner too fast in Heat?"
+    a: "You pay 1 Heat from your Engine for every point your Speed is over the corner's Speed Limit. If you cannot pay it all, you spin out: you move back before the corner, take Stress cards, and drop to 1st gear."
+  - q: "Does slipstreaming count toward your Speed in a corner?"
+    a: "No. Slipstream moves you 2 extra Spaces, but it never adds to your Speed when you check a corner. Boost and the Adrenaline extra Space do count."
+  - q: "Can you play Heat solo?"
+    a: "Yes. The Legends module in the base box gives you automated rival cars run by a small deck of cards. You race against them alone, or add them to a small group."
+  - q: "How does the Championship mode work in Heat?"
+    a: "You race a season of 3 or 4 races, improving your car with one new Upgrade card before each race. Event cards, weather, and sponsors change every race, and Championship points from the Hall of Fame decide the season."
+teachSheet:
+  goal: "Be the first car across the finish line after the laps shown on the board."
+  setup:
+    - "Board in the middle. First race: USA track, and consider 1 lap instead of 2."
+    - "Each player takes a car, mat, Gear pawn, 12 Basic cards, and 3 Starting Upgrades."
+    - "Check the board for Heat and Stress per car, usually 6 Heat and 3 Stress."
+    - "Shuffle Basic, Starting Upgrade, and Stress cards into a face-down deck on your mat's left."
+    - "Heat cards face up on your Engine. Gear pawn in 1st gear."
+    - "Remaining Stress cards go face up near the board as a reserve."
+    - "Place cars on the starting grid at random. Everyone draws 7 cards."
+  turn:
+    - "All at once: stay in gear or shift one gear. Two gears costs 1 Heat."
+    - "All at once: play face down exactly as many cards as your gear number."
+    - "Front car first: reveal, add up your Speed, move exactly that many Spaces."
+    - "Last car (last two with 5 or more cars): Adrenaline, +1 Space and +1 Cooldown."
+    - "React: Cooldown in 1st or 2nd gear. Boost once for 1 Heat in any gear."
+    - "Next to a car or right behind one? Slipstream 2 more Spaces."
+    - "Crossed a Corner Line? Pay 1 Heat per point over the Speed Limit."
+    - "Discard if you like (never Heat or Stress), then draw back up to 7."
+  scoring:
+    - "First car across the finish line on the final lap wins."
+    - "Same round: furthest ahead wins. Side by side, the Spot nearer the Race Line wins."
+    - "Speed Limits stop counting past the finish line. No slipstreaming across it."
+    - "Cannot pay a corner? Pay all your Heat and spin out."
+    - "Spin out: back before the corner, take 1 Stress (2 in 3rd or 4th), drop to 1st."
+    - "Championship: points by finishing place, 9 for first, from the Hall of Fame."
+  endGame: "The winner is the first car home. Keep racing until every car crosses the line, filling the Hall of Fame in order."
+  tips:
+    - "Count the Spaces to the next corner before you choose your gear."
+    - "Heat left in your Engine at the finish is wasted, so spend it."
+    - "Slipstream through corners: those 2 Spaces never count toward your Speed."
+diagramAlt: "Heat: Pedal to the Metal setup: the game board with cars on the starting grid behind the finish line, a corner with its Speed Limit and Corner Line, the track info and Hall of Fame; the Stress reserve and a hand of 7 cards beside it; and a player mat with the face-down draw deck, 6 Heat cards on the Engine, an empty discard pile, and the Gear pawn in 1st gear."
+games: [heat-pedal-to-the-metal]
+related:
+  - "ludarium-library-50-games"
+  - "best-board-games-2026"
+  - "how-to-teach-a-board-game"
+  - "luck-vs-skill-board-games"
+  - "catch-up-mechanics-board-games"
+  - "best-board-games-for-6-players"
+  - "best-solo-board-games"
+  - "expansions-worth-it"
+  - "how-to-start-a-play-group"
+  - "how-to-run-a-board-game-tournament"

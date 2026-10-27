@@ -1,0 +1,182 @@
+---
+// Member-facing results: approved venues ranked by median drive time, filled
+// by script from /api/where-we-play/results. Nothing identifying, by design.
+import { MIN_MEMBERS_FOR_RESULTS, WWP_API } from '@/lib/where-we-play/shared';
+
+interface Props {
+  heading?: string;
+}
+
+const { heading = 'Where the group can reach' } = Astro.props;
+---
+
+<section class="wwp-results" aria-labelledby="wwp-results-title" data-wwp-results data-api={`${WWP_API}/results`} data-pagefind-ignore>
+  <div class="container">
+    <div class="section-head">
+      <h2 id="wwp-results-title">{heading}</h2>
+      <p data-wwp-results-lede>Venues ranked by the median drive for everyone who has shared a location.</p>
+    </div>
+    <p class="wwp-results__note" data-wwp-results-note>
+      Results appear once {MIN_MEMBERS_FOR_RESULTS} people have shared a location.
+    </p>
+    <ol class="wwp-results__list" data-wwp-results-list hidden></ol>
+  </div>
+</section>
+
+<style>
+  .wwp-results {
+    padding-block: var(--space-7);
+  }
+
+  .wwp-results__note {
+    max-width: var(--width-content);
+    color: var(--color-text-muted);
+  }
+
+  .wwp-results__list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr));
+    gap: var(--space-4);
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    counter-reset: venue;
+  }
+
+  .wwp-results [hidden] {
+    display: none;
+  }
+</style>
+
+<style is:global>
+  /* Script-built cards; Astro's scoped styles cannot reach them. */
+  .wwp-results__card {
+    display: grid;
+    gap: var(--space-2);
+    padding: var(--space-5);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-card);
+    background: var(--color-surface);
+    box-shadow: var(--shadow-sm);
+  }
+
+  .wwp-results__card h3 {
+    margin: 0;
+    font-size: var(--text-lg);
+  }
+
+  .wwp-results__card h3 a {
+    color: inherit;
+  }
+
+  .wwp-results__where {
+    margin: 0;
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+
+  .wwp-results__drive {
+    margin: var(--space-2) 0 0;
+    font-family: var(--font-display);
+    font-size: var(--text-xl);
+    line-height: var(--leading-tight);
+  }
+
+  .wwp-results__meta {
+    margin: 0;
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+</style>
+
+<script>
+  interface ResultVenue {
+    name: string;
+    neighborhood: string | null;
+    address: string | null;
+    website: string | null;
+    status: string;
+    tableCount: number | null;
+    hours: string | null;
+    medianMinutes: number | null;
+    routed: number;
+    underNearPct: number;
+  }
+  interface Results {
+    ready: boolean;
+    members: number;
+    minimum: number;
+    nearMinutes?: number;
+    venues: ResultVenue[];
+  }
+
+  const root = document.querySelector<HTMLElement>('[data-wwp-results]');
+  if (root) {
+    const note = root.querySelector<HTMLElement>('[data-wwp-results-note]')!;
+    const list = root.querySelector<HTMLElement>('[data-wwp-results-list]')!;
+    const lede = root.querySelector<HTMLElement>('[data-wwp-results-lede]')!;
+
+    const el = <K extends keyof HTMLElementTagNameMap>(tag: K, className: string, text?: string) => {
+      const node = document.createElement(tag);
+      node.className = className;
+      if (text !== undefined) node.textContent = text;
+      return node;
+    };
+
+    const render = (data: Results) => {
+      if (!data.ready) {
+        note.textContent =
+          data.members > 0
+            ? `${data.members} of ${data.minimum} people have shared a location so far. Results appear at ${data.minimum}.`
+            : `Results appear once ${data.minimum} people have shared a location.`;
+        return;
+      }
+      if (!data.venues.length) {
+        note.textContent = `${data.members} people have shared a location. Confirmed venues will show here as soon as there are some.`;
+        return;
+      }
+      lede.textContent = `Venues ranked by the median drive for the ${data.members} people who have shared a location.`;
+      note.hidden = true;
+      list.hidden = false;
+      list.replaceChildren(
+        ...data.venues.map((v) => {
+          const card = el('li', 'wwp-results__card');
+          const title = el('h3', '');
+          if (v.website) {
+            const link = document.createElement('a');
+            link.href = v.website;
+            link.rel = 'noopener';
+            link.textContent = v.name;
+            title.append(link);
+          } else {
+            title.textContent = v.name;
+          }
+          card.append(title);
+          const where = v.address ?? v.neighborhood;
+          if (where) card.append(el('p', 'wwp-results__where', where));
+          card.append(
+            el(
+              'p',
+              'wwp-results__drive',
+              v.medianMinutes === null ? 'Drive times coming' : `A median ${v.medianMinutes} minute drive for ${v.routed} ${v.routed === 1 ? 'member' : 'members'}`,
+            ),
+          );
+          const meta: string[] = [];
+          if (data.nearMinutes) meta.push(`${v.underNearPct}% within ${data.nearMinutes} minutes`);
+          if (v.tableCount) meta.push(`${v.tableCount} ${v.tableCount === 1 ? 'table' : 'tables'}`);
+          if (v.hours) meta.push(v.hours);
+          if (v.status === 'played here') meta.push('We have played here');
+          if (meta.length) card.append(el('p', 'wwp-results__meta', meta.join(' · ')));
+          return card;
+        }),
+      );
+    };
+
+    fetch(root.dataset.api!)
+      .then((res) => (res.ok ? res.json() : Promise.reject(res.status)))
+      .then(render)
+      .catch(() => {
+        note.textContent = 'Results are not available right now.';
+      });
+  }
+</script>

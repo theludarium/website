@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="t">
+<title id="t">An original illustration of a land tile map: square tiles joined by a winding road, a walled city, a cloister and two meeples</title>
+<defs><radialGradient id="felt" cx="50%" cy="45%" r="75%"><stop offset="0" stop-color="#3a6e60"/><stop offset="1" stop-color="#2a5246"/></radialGradient></defs>
+<rect width="640" height="360" fill="url(#felt)"/>
+<g transform="translate(320 180) scale(1.04) translate(-320 -180)">
+<rect x="236" y="54.0" width="84" height="84" fill="#a8c27e"/>
+<rect x="320" y="54.0" width="84" height="84" fill="#9cb874"/>
+<rect x="152" y="138.0" width="84" height="84" fill="#a8c27e"/>
+<rect x="236" y="138.0" width="84" height="84" fill="#9cb874"/>
+<rect x="320" y="138.0" width="84" height="84" fill="#a8c27e"/>
+<rect x="404" y="138.0" width="84" height="84" fill="#9cb874"/>
+<rect x="236" y="222.0" width="84" height="84" fill="#a8c27e"/>
+<rect x="320" y="222.0" width="84" height="84" fill="#9cb874"/>
+<rect x="404" y="222.0" width="84" height="84" fill="#a8c27e"/>
+<path d="M236,54.0 H404 V89.28 Q320,133.8 236,89.28 Z" fill="#e8d6a6"/>
+<path d="M404,89.28 Q320,133.8 236,89.28" fill="none" stroke="#8e8b86" stroke-width="6"/>
+<rect x="391.7" y="86.0" width="6" height="6" fill="#8e8b86"/>
+<rect x="373.0" y="93.6" width="6" height="6" fill="#8e8b86"/>
+<rect x="354.3" y="99.1" width="6" height="6" fill="#8e8b86"/>
+<rect x="335.7" y="102.4" width="6" height="6" fill="#8e8b86"/>
+<rect x="317.0" y="103.5" width="6" height="6" fill="#8e8b86"/>
+<rect x="298.3" y="102.4" width="6" height="6" fill="#8e8b86"/>
+<rect x="279.7" y="99.1" width="6" height="6" fill="#8e8b86"/>
+<rect x="261.0" y="93.6" width="6" height="6" fill="#8e8b86"/>
+<rect x="242.3" y="86.0" width="6" height="6" fill="#8e8b86"/>
+<path d="M267,82.0 v-9 l9,-8 l9,8 v9 z" fill="#b4623c" stroke="#f6efe3" stroke-width="1"/>
+<path d="M293,96.0 v-9 l9,-8 l9,8 v9 z" fill="#b4623c" stroke="#f6efe3" stroke-width="1"/>
+<path d="M327,86.0 v-9 l9,-8 l9,8 v9 z" fill="#b4623c" stroke="#f6efe3" stroke-width="1"/>
+<path d="M355,100.0 v-9 l9,-8 l9,8 v9 z" fill="#b4623c" stroke="#f6efe3" stroke-width="1"/>
+<path d="M488,146.0 Q454,180.0 488,214.0 Z" fill="#e8d6a6"/>
+<path d="M488,146.0 Q454,180.0 488,214.0" fill="none" stroke="#8e8b86" stroke-width="5"/>
+<path d="M474,188.0 v-8 l7,-7 l7,7 v8 z" fill="#b4623c" stroke="#f6efe3" stroke-width="1"/>
+<path d="M174,180.0 H464 M278.0,180.0 V250.0 Q278.0,264.0 292.0,264.0 H420.0" fill="none" stroke="#2b1e16" stroke-opacity=".35" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M174,180.0 H464 M278.0,180.0 V250.0 Q278.0,264.0 292.0,264.0 H420.0" fill="none" stroke="#f6efe3" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M162,188.0 v-9 l9,-8 l9,8 v9 z" fill="#b4623c" stroke="#f6efe3" stroke-width="1"/>
+<rect x="432.0" y="254.0" width="28" height="22" fill="#e8d6a6" stroke="#2b1e16" stroke-width="1.2"/>
+<path d="M428.0,256.0 L446.0,240.0 L464.0,256.0 Z" fill="#b4623c" stroke="#2b1e16" stroke-width="1.2"/>
+<rect x="442.0" y="266.0" width="8" height="10" fill="#2b1e16" opacity=".7"/>
+<rect x="454.0" y="228.0" width="6" height="14" fill="#e8d6a6" stroke="#2b1e16" stroke-width="1"/>
+<path d="M170,146.0 l5,9 h-10 z" fill="#35583a" opacity=".85"/>
+<path d="M192,194.0 l5,9 h-10 z" fill="#35583a" opacity=".85"/>
+<path d="M340,198.0 l5,9 h-10 z" fill="#35583a" opacity=".85"/>
+<path d="M416,232.0 l5,9 h-10 z" fill="#35583a" opacity=".85"/>
+<path d="M470,282.0 l5,9 h-10 z" fill="#35583a" opacity=".85"/>
+<path d="M250,252.0 l5,9 h-10 z" fill="#35583a" opacity=".85"/>
+<path d="M376,232.0 l5,9 h-10 z" fill="#35583a" opacity=".85"/>
+<path d="M350,144.0 l5,9 h-10 z" fill="#35583a" opacity=".85"/>
+<path d="M296,282.0 l5,9 h-10 z" fill="#35583a" opacity=".85"/>
+<rect x="236" y="54.0" width="84" height="84" fill="none" stroke="#f6efe3" stroke-width="2.5"/>
+<rect x="320" y="54.0" width="84" height="84" fill="none" stroke="#f6efe3" stroke-width="2.5"/>
+<rect x="152" y="138.0" width="84" height="84" fill="none" stroke="#f6efe3" stroke-width="2.5"/>
+<rect x="236" y="138.0" width="84" height="84" fill="none" stroke="#f6efe3" stroke-width="2.5"/>
+<rect x="320" y="138.0" width="84" height="84" fill="none" stroke="#f6efe3" stroke-width="2.5"/>
+<rect x="404" y="138.0" width="84" height="84" fill="none" stroke="#f6efe3" stroke-width="2.5"/>
+<rect x="236" y="222.0" width="84" height="84" fill="none" stroke="#f6efe3" stroke-width="2.5"/>
+<rect x="320" y="222.0" width="84" height="84" fill="none" stroke="#f6efe3" stroke-width="2.5"/>
+<rect x="404" y="222.0" width="84" height="84" fill="none" stroke="#f6efe3" stroke-width="2.5"/>
+<path transform="translate(362.0 176.0) scale(1.15)" d="M0,-12 c4,0 5,3 5,5 c0,2 -1,3 -2,4 l8,3 c2,1 2,4 0,4 l-6,0 l5,9 c1,2 0,3 -2,3 l-4,0 l-4,-6 l-4,6 l-4,0 c-2,0 -3,-1 -2,-3 l5,-9 l-6,0 c-2,0 -2,-3 0,-4 l8,-3 c-1,-1 -2,-2 -2,-4 c0,-2 1,-5 5,-5 z" fill="#e0a23b" stroke="#2b1e16" stroke-width="1.04" stroke-linejoin="round"/>
+<path transform="translate(312 96.0) scale(1.15)" d="M0,-12 c4,0 5,3 5,5 c0,2 -1,3 -2,4 l8,3 c2,1 2,4 0,4 l-6,0 l5,9 c1,2 0,3 -2,3 l-4,0 l-4,-6 l-4,6 l-4,0 c-2,0 -3,-1 -2,-3 l5,-9 l-6,0 c-2,0 -2,-3 0,-4 l8,-3 c-1,-1 -2,-2 -2,-4 c0,-2 1,-5 5,-5 z" fill="#f6efe3" stroke="#2b1e16" stroke-width="1.04" stroke-linejoin="round"/>
+</g>
+</svg>

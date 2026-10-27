@@ -1,0 +1,89 @@
+title: "Every Crown Counts"
+game: "Kingdomino"
+format: full
+order: 155
+wave: "1"
+draft: false
+publisher: "Blue Orange Games"
+notice: "Unofficial. Not affiliated with Blue Orange Games. Kingdomino is a trademark of Blue Orange Edition."
+rulesEdition: "Kingdomino rulebook (Blue Orange, 2016), checked against the 2024 Blue Orange Edition rulebook"
+rulesSource: "https://blueorangegames.eu/wp-content/uploads/2017/04/KINGDOMINO_rules_ML.pdf"
+players: "2 to 4"
+playTime: "About 15 to 20 minutes"
+ages: "Ages 8 and up"
+promise: "Learn Kingdomino, teach it in five minutes, then draft with a plan, count the crowns left in the box, and build a kingdom that scores every square."
+description: "A free Kingdomino course: learn the rules, teach them in five minutes, then master the draft, crown math, kingdom layout, the Mighty Duel, and where to play."
+audience:
+  - "Families who want a game the kids and the grandparents can both win."
+  - "Hosts looking for a fifteen-minute game that teaches itself after one round."
+  - "Players who keep ending up with a big kingdom and a small score."
+  - "Anyone ready to move from picking pretty tiles to drafting with a plan."
+levels:
+  - level: 0
+    name: "Squire"
+    label: "Learn to play"
+    outcome: "Set up, teach, and score a full game of Kingdomino, at any player count, without opening the rulebook."
+  - level: 1
+    name: "Landholder"
+    label: "Beginner"
+    outcome: "Skip the first-game slips, score any kingdom in your head, and weigh a better domino against an earlier pick next round."
+  - level: 2
+    name: "Baron"
+    label: "Intermediate"
+    outcome: "Count the crowns left in the box, plan a 5 by 5 that never discards, read what your rivals need, and finish strong in the last rounds."
+  - level: 3
+    name: "Sovereign"
+    label: "Expert"
+    outcome: "Win at two and three players, hold your own in the 7 by 7 Mighty Duel, pick the right variant or sequel, and find a table to play at."
+afterLesson3: "Teach and play a clean game of Kingdomino, connection rule and scoring included, without the slips that cost new tables points."
+afterLesson8: "Score any kingdom at a glance, draft for value and turn order, count the crowns still in the box, plan a full 5 by 5, and read your rivals' needs."
+faq:
+  - q: "How does scoring work in Kingdomino?"
+    a: "Each territory, a group of connected squares of one terrain, scores its number of squares times the number of crowns in it. A territory with no crowns scores nothing. Add up every territory for your score."
+  - q: "Does a new domino have to match on both ends in Kingdomino?"
+    a: "No. One of its two squares must touch your castle tile or a matching terrain, side to side. The other square can sit next to anything, as long as the whole kingdom still fits in a 5 by 5 grid."
+  - q: "What happens if you cannot place a domino in Kingdomino?"
+    a: "If it cannot be placed by the connection rule or it would break the 5 by 5 limit, you discard it and score nothing for it. If it can be placed legally, you must place it, even if it hurts you."
+  - q: "How do you play Kingdomino with 2 players?"
+    a: "In the original rules, remove 24 dominoes at random, give each player two kings, and lay out 4 dominoes a round. Each player places and picks twice per round, over 6 rounds, and builds a 5 by 5. The Mighty Duel uses all 48 dominoes for a 7 by 7 instead."
+  - q: "Who goes first each round in Kingdomino?"
+    a: "The king on the lowest-numbered domino in the line goes first, then the next, and so on. So a low-numbered domino is usually a weaker tile, but it buys you the first pick of the next line."
+  - q: "How is a tie broken in Kingdomino?"
+    a: "The player with the biggest single territory wins. If that is tied, the player with the most crowns wins. If it is still tied, the players share the victory."
+teachSheet:
+  goal: "Have the most prestige points after building a 5 by 5 kingdom of connected dominoes."
+  setup:
+    - "Each player takes a castle, a starting tile, and kings in their color."
+    - "Two players: two kings each. Three or four players: one king each."
+    - "Shuffle the dominoes number side up. Two players use 24, three use 36, four use all 48."
+    - "Lay out one domino per king, lowest number nearest the box, then flip them face up."
+    - "Draw kings at random; each king's owner places it on a free domino."
+    - "Lay out the next line the same way beside the first."
+  turn:
+    - "The king on the lowest-numbered domino goes first, then the next, down the line."
+    - "Place your domino in your kingdom, then move your king to a free domino in the new line."
+    - "Each new domino must touch your castle tile, or match a terrain on one side."
+    - "Everything must fit in a 5 by 5 grid, castle included."
+    - "Cannot place it legally? Discard it. Can place it? You must."
+    - "When every king has moved, lay out a new line and play the next round."
+  scoring:
+    - "A territory is connected squares of one terrain, side to side."
+    - "Each territory scores its squares times its crowns."
+    - "A territory with no crowns scores 0."
+    - "Add up all your territories."
+    - "Optional: Middle Kingdom, 10 points for a centered castle."
+    - "Optional: Harmony, 5 points for a full 5 by 5 with no discards."
+  endGame: "When the last line is laid out, players pick from it as usual, then place those dominoes in a final turn and score. Most points wins. Ties go to the biggest territory, then the most crowns, then a shared win."
+  tips:
+    - "One big territory with several crowns beats many small ones."
+    - "The lowest-numbered domino buys you the first pick next round."
+    - "Mines and swamps are rare, but they carry the most crowns per square."
+diagramAlt: "Kingdomino at the start of a four-player game: the box holding the face-down draw pile, a line of four face-up dominoes in number order with the lowest beside the box, a king on each, a second line of four dominoes waiting beside it, and four players' castles on their starting tiles, with a 5 by 5 outline around one castle and a key to the six terrains."
+games: [kingdomino]
+related:
+  - "best-family-board-games"
+  - "easiest-board-games-to-learn"
+  - "gateway-board-games"
+  - "quick-board-games-under-30-minutes"
+  - "family-game-night-rules"
+  - "how-to-teach-a-board-game"

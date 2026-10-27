@@ -1,0 +1,97 @@
+title: "Wild Corridors"
+game: "Cascadia"
+format: full
+order: 220
+wave: "2"
+draft: false
+publisher: "Flatout Games and AEG"
+notice: "Unofficial. Not affiliated with Flatout Games or AEG. Cascadia is a trademark of Flatout Games."
+rulesEdition: "Cascadia rulebook, English edition (AEG and Flatout Games, rules copyright 2021), current PDF from AEG's Cascadia page"
+rulesSource: "https://www.alderac.com/wp-content/uploads/2025/04/Cascadia_BaseGame_Rulebook_Optimized.pdf"
+players: "1 to 4"
+playTime: "About 45 minutes"
+ages: "Ages 10 and up"
+promise: "Learn Cascadia, teach it in ten minutes, and read every scoring card like a trail map, from your first draft to your last corridor."
+description: "A free Cascadia course: learn the rules, teach them in ten minutes, and master all twenty scoring cards, drafting, nature tokens, habitat math, and tournaments."
+audience:
+  - "New players who want the rules clear before the first token leaves the bag."
+  - "Hosts who teach Cascadia to family, friends, or a quiet new group."
+  - "Players who love the puzzle but keep finishing a few points short."
+  - "Anyone curious about the B, C, and D cards, solo scenarios, and tournaments."
+levels:
+  - level: 0
+    name: "Wanderer"
+    label: "Learn to play"
+    outcome: "Set up, teach, and score a full game of Cascadia by hand, overpopulation and nature tokens included, without opening the rulebook."
+  - level: 1
+    name: "Hiker"
+    label: "Beginner"
+    outcome: "Commit to two or three animals, build around the A cards, and grow corridors big enough to win habitat bonuses."
+  - level: 2
+    name: "Tracker"
+    label: "Intermediate"
+    outcome: "Read any set of the twenty scoring cards, lay tiles as landing spots, work the shared display, and spend nature tokens only when they pay."
+  - level: 3
+    name: "Naturalist"
+    label: "Advanced"
+    outcome: "Put odds on the bag, beat the hardest cards, win the two-player duel, and clear the solo scenarios that set the bar at 100."
+  - level: 4
+    name: "Ranger"
+    label: "Tournament ready"
+    outcome: "Play a two-hour, four-player tournament game to win your table, and plan a path to the World Boardgaming Championships."
+afterLesson3: "Teach and play a clean game of Cascadia, overpopulation and nature tokens included, without the rules slips that trip up most new tables."
+afterLesson8: "Score a game by hand, build around the A cards, grow corridors that win bonuses, pick a variant, and read any set of scoring cards to plan an opening."
+faq:
+  - q: "How many turns do you get in Cascadia?"
+    a: "Exactly 20. Setup uses 20 habitat tiles per player plus 3, and the game ends at the end of the turn when a taken tile cannot be replaced from the stacks. Solo games also last 20 turns."
+  - q: "What happens when three or four wildlife tokens in Cascadia are the same?"
+    a: "If all four tokens in the display show the same animal, they are wiped automatically and replaced from the bag, and that can happen more than once in a turn. If exactly three match, the active player may wipe those three, once per turn."
+  - q: "What do nature tokens do in Cascadia?"
+    a: "You take one when you place a wildlife token on a keystone tile showing that animal. Before you pick, you may spend one to take any tile with any token, or to wipe and replace any number of tokens. Each one you keep is worth 1 point at the end."
+  - q: "Do habitat tiles have to match when you place them?"
+    a: "No. A new tile only has to touch a tile already in your environment. Matching edges are not a placement rule, but they connect habitat corridors, and your largest corridor of each habitat scores 1 point per tile."
+  - q: "Which scoring cards should you use for your first game of Cascadia?"
+    a: "The rulebook recommends the A cards, one for each animal. After that, draw one card per animal at random. For young or brand-new players, the Family variant card scores every animal the same simple way."
+  - q: "How do the habitat bonuses work in Cascadia?"
+    a: "With three or four players, the largest corridor of each habitat earns 3 bonus points and the second largest earns 1. If two players tie for largest, each gets 2 and nobody scores second. With two players, the largest earns 2, and a tie gives 1 each."
+teachSheet:
+  goal: "Score the most points by arranging wildlife in the patterns on the scoring cards and growing big habitat corridors."
+  setup:
+    - "Put all the wildlife tokens in the bag and shake it."
+    - "Shuffle 20 habitat tiles per player, plus 3, into face-down stacks."
+    - "Lay out one scoring card per animal. First game: the A cards."
+    - "Give each player a random starter habitat tile, face up."
+    - "Reveal 4 habitat tiles; pair each with a token drawn from the bag."
+    - "Put the nature tokens within reach and choose a first player."
+  turn:
+    - "Four matching tokens are wiped. Three matching: you may wipe them, once."
+    - "Optional: spend a nature token to take any tile and any token, or wipe tokens."
+    - "Take one tile and the token paired with it."
+    - "Place the tile touching your environment. No stacking, no moving."
+    - "Place the token on an empty tile showing that animal, or return it."
+    - "Matching token on a keystone tile: take a nature token."
+    - "Refill the gaps in the display from the stacks and the bag."
+  scoring:
+    - "Each animal scores by the pattern on its card."
+    - "Each habitat: 1 point per tile in your largest corridor."
+    - "3 or 4 players: largest corridor +3, second largest +1."
+    - "Two tied for largest get 2 each; nobody scores second."
+    - "Three or four tied for largest: 1 each. A tie for second scores 0."
+    - "2 players: largest corridor +2; a tie gives 1 each."
+    - "Each unspent nature token: 1 point."
+  endGame: "The game ends when a taken tile cannot be replaced, so everyone plays exactly 20 turns. Most points wins; ties go to most nature tokens."
+  tips:
+    - "Build toward two or three animals; twenty turns cannot feed all five."
+    - "Grow one big corridor per habitat instead of scattered patches."
+    - "A kept nature token is 1 point; spend it only for more."
+diagramAlt: "Cascadia setup: five wildlife scoring cards in a row, face-down habitat tile stacks, a display of four habitat tiles each paired with a wildlife token, the cloth bag of wildlife tokens, the nature token supply, and a starter habitat tile in front of each of four players."
+games: [cascadia]
+related:
+  - "wingspan-vs-everdell-vs-cascadia"
+  - "easiest-board-games-to-learn"
+  - "best-solo-board-games"
+  - "board-games-stress-relief"
+  - "board-games-for-couples"
+  - "gateway-board-games"
+  - "board-game-weight-explained"
+  - "how-to-teach-a-board-game"

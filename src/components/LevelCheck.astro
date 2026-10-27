@@ -15,14 +15,16 @@ interface Props {
   questions: Question[];
   /** Lesson slug, sent with the analytics event. */
   lesson: string;
+  /** What the quiz is called on this page (the Guild calls it a self-check). */
+  label?: string;
 }
 
-const { questions, lesson } = Astro.props;
+const { questions, lesson, label = 'Level check' } = Astro.props;
 const letter = (i: number) => String.fromCharCode(65 + i);
 ---
 
 <section class="level-check" aria-labelledby="level-check-title" data-level-check={lesson}>
-  <p class="eyebrow">Level check</p>
+  <p class="eyebrow">{label}</p>
   <h2 id="level-check-title">Did it stick?</h2>
   <p class="level-check__intro">Answer in your head, then open each answer to check yourself.</p>
   <ol class="level-check__list">
@@ -53,7 +55,7 @@ const letter = (i: number) => String.fromCharCode(65 + i);
       ))
     }
   </ol>
-  <p class="level-check__done" data-level-check-done hidden>Nice work. That is this lesson's Level check done.</p>
+  <p class="level-check__done" data-level-check-done hidden>Nice work. That is this lesson's {label} done.</p>
 </section>
 
 <style>

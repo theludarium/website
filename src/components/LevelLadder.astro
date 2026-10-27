@@ -2,13 +2,18 @@
 // The course's six levels as hex tiles climbing from the kitchen table
 // (bottom) to the tournament table (top). Inline SVG in the site tokens;
 // decorative, so the level text is repeated for screen readers below it.
-import type { Level } from '@/lib/academy';
-
 interface Props {
-  levels: Level[];
+  levels: { level: number; name: string; label: string }[];
+  /** Spoken description of the ladder. */
+  title?: string;
+  caption?: string;
 }
 
-const { levels } = Astro.props;
+const {
+  levels,
+  title = 'Six levels, from Settler at the kitchen table to Champion at the tournament table',
+  caption = 'Kitchen table to tournament table',
+} = Astro.props;
 
 // Flat-top hex of radius r centered at (cx, cy).
 const hex = (cx: number, cy: number, r: number) =>
@@ -35,7 +40,7 @@ const labelX = 128 + R + 22;
 
 <figure class="ladder">
   <svg viewBox={`0 0 340 ${height}`} role="img" aria-labelledby="ladder-title">
-    <title id="ladder-title">Six levels, from Settler at the kitchen table to Champion at the tournament table</title>
+    <title id="ladder-title">{title}</title>
     {
       tiles.slice(0, -1).map((t, i) => (
         <line class="ladder__road" x1={t.cx} y1={t.cy} x2={tiles[i + 1].cx} y2={tiles[i + 1].cy} />
@@ -58,7 +63,7 @@ const labelX = 128 + R + 22;
       ))
     }
   </svg>
-  <figcaption>Kitchen table to tournament table</figcaption>
+  <figcaption>{caption}</figcaption>
 </figure>
 
 <style>

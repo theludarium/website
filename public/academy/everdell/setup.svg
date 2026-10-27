@@ -1,0 +1,217 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-labelledby="t d">
+  <title id="t">Everdell setup</title>
+  <desc id="d">Everdell setup for four players: the Ever Tree at the top of the board with waiting workers on its spring, summer, and autumn branches, 4 special Events on its lower branches, and the deck in its trunk; 4 basic Events on the river; resource piles and 8 basic locations along the path; the Meadow of 8 face-up cards between 4 Forest cards; the autumn trail, discard pile, and Haven along the bottom; point and occupied tokens beside the board; and each player with 2 workers and a starting hand of 5, 6, 7, or 8 cards.</desc>
+  <defs>
+    <!-- A worker critter, about 10 wide and 14 tall -->
+    <g id="w">
+      <circle cx="2.6" cy="1.6" r="1.4"/>
+      <circle cx="7.4" cy="1.6" r="1.4"/>
+      <circle cx="5" cy="4.4" r="3.2"/>
+      <path d="M1 14 Q1 7.4 5 7.4 Q9 7.4 9 14 Z"/>
+    </g>
+    <!-- A face-down card in a starting hand -->
+    <rect id="cb" width="14" height="20" rx="2" fill="#2F5D50" stroke="#2B1E16" stroke-width="0.8"/>
+    <!-- A face-up Meadow card -->
+    <g id="mc">
+      <rect width="26" height="30" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+      <rect x="3" y="3" width="20" height="13" rx="2" fill="#B9AD9C"/>
+      <circle cx="19" cy="23" r="3.4" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.6"/>
+    </g>
+    <!-- A Forest card: two worker spaces, the second only for four players -->
+    <g id="fc">
+      <rect width="60" height="26" rx="4" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+      <ellipse cx="18" cy="14" rx="10" ry="5.5" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+      <ellipse cx="42" cy="14" rx="10" ry="5.5" fill="none" stroke="#2B1E16" stroke-width="1" stroke-dasharray="2 2"/>
+    </g>
+    <!-- A special Event card hanging on a branch -->
+    <g id="se">
+      <rect width="22" height="28" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+      <circle cx="11" cy="20" r="3.4" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.6"/>
+    </g>
+    <!-- A basic Event tile on the river -->
+    <g id="be">
+      <rect width="28" height="14" rx="5" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+      <circle cx="21" cy="7" r="3.2" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.6"/>
+    </g>
+    <!-- A worker space on the path -->
+    <ellipse id="paw" rx="8" ry="4.5" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+  </defs>
+
+  <rect width="480" height="320" fill="#F6EFE3"/>
+
+  <g font-family="system-ui, sans-serif" font-size="12" fill="#2B1E16">
+
+    <!-- The board -->
+    <rect x="88" y="4" width="304" height="312" rx="24" fill="#2F5D50" fill-opacity="0.1" stroke="#2B1E16" stroke-width="1.5"/>
+
+    <!-- Ever Tree: upper branches hold the waiting workers -->
+    <text x="240" y="16" text-anchor="middle" font-weight="700">Ever Tree</text>
+    <g fill="#2F5D50" stroke="#2B1E16" stroke-width="1">
+      <rect x="150" y="22" width="58" height="18" rx="9"/>
+      <rect x="211" y="22" width="58" height="18" rx="9"/>
+      <rect x="272" y="22" width="58" height="18" rx="9"/>
+    </g>
+    <g fill="#F6EFE3" font-size="11" text-anchor="middle">
+      <text x="179" y="35">Spring 1</text>
+      <text x="240" y="35">Summer 1</text>
+      <text x="301" y="35">Autumn 2</text>
+    </g>
+    <text x="146" y="27" text-anchor="end" font-size="11">Waiting</text>
+    <text x="146" y="40" text-anchor="end" font-size="11">workers</text>
+
+    <!-- Trunk with the deck inside, and lower branches with special Events -->
+    <path d="M226 60 L166 60 M254 60 L314 60" stroke="#2B1E16" stroke-width="3" stroke-linecap="round"/>
+    <rect x="225" y="41" width="30" height="52" rx="4" fill="#2B1E16"/>
+    <text x="240" y="71" text-anchor="middle" font-size="11" font-weight="700" fill="#F6EFE3">Deck</text>
+    <use href="#se" x="170" y="48"/>
+    <use href="#se" x="197" y="48"/>
+    <use href="#se" x="261" y="48"/>
+    <use href="#se" x="288" y="48"/>
+    <text x="164" y="60" text-anchor="end">4 special</text>
+    <text x="164" y="74" text-anchor="end">Events</text>
+
+    <!-- River with the 4 basic Events -->
+    <rect x="94" y="98" width="292" height="20" rx="10" fill="#B9AD9C" fill-opacity="0.55"/>
+    <use href="#be" x="102" y="101"/>
+    <use href="#be" x="140" y="101"/>
+    <use href="#be" x="312" y="101"/>
+    <use href="#be" x="350" y="101"/>
+    <text x="240" y="112" text-anchor="middle">4 basic Events</text>
+
+    <!-- Resource piles along the river bank -->
+    <g fill="#2B1E16">
+      <rect x="110" y="124" width="22" height="3" rx="1.5"/>
+      <rect x="113" y="129" width="22" height="3" rx="1.5"/>
+      <rect x="108" y="134" width="22" height="3" rx="1.5"/>
+    </g>
+    <g fill="#E0A23B" stroke="#2B1E16" stroke-width="0.6">
+      <rect x="176" y="125" width="7" height="7" rx="2"/>
+      <rect x="185" y="127" width="7" height="7" rx="2"/>
+      <rect x="180" y="132" width="7" height="7" rx="2"/>
+    </g>
+    <g fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.8">
+      <ellipse cx="288" cy="128" rx="5" ry="3.5"/>
+      <ellipse cx="299" cy="130" rx="5" ry="3.5"/>
+      <ellipse cx="293" cy="135" rx="5" ry="3.5"/>
+    </g>
+    <g fill="#2F5D50" stroke="#2B1E16" stroke-width="0.6">
+      <circle cx="353" cy="128" r="3.5"/>
+      <circle cx="361" cy="128" r="3.5"/>
+      <circle cx="357" cy="134" r="3.5"/>
+      <circle cx="365" cy="134" r="3.5"/>
+    </g>
+    <g font-size="11" text-anchor="middle">
+      <text x="121" y="150">Twigs</text>
+      <text x="184" y="150">Resin</text>
+      <text x="293" y="150">Pebbles</text>
+      <text x="359" y="150">Berries</text>
+    </g>
+    <text x="240" y="136" text-anchor="middle" font-weight="700">Resources</text>
+
+    <!-- 8 basic locations along the path -->
+    <use href="#paw" x="150" y="160"/>
+    <use href="#paw" x="176" y="160"/>
+    <use href="#paw" x="202" y="160"/>
+    <use href="#paw" x="228" y="160"/>
+    <use href="#paw" x="254" y="160"/>
+    <use href="#paw" x="280" y="160"/>
+    <use href="#paw" x="306" y="160"/>
+    <use href="#paw" x="332" y="160"/>
+    <text x="240" y="178" text-anchor="middle">8 basic locations</text>
+
+    <!-- Forest cards on both sides of the Meadow -->
+    <text x="128" y="191" text-anchor="middle" font-weight="700">Forest</text>
+    <text x="352" y="191" text-anchor="middle" font-weight="700">Forest</text>
+    <use href="#fc" x="98" y="198"/>
+    <use href="#fc" x="98" y="230"/>
+    <use href="#fc" x="322" y="198"/>
+    <use href="#fc" x="322" y="230"/>
+
+    <!-- The Meadow: 8 face-up cards -->
+    <text x="240" y="191" text-anchor="middle" font-weight="700">Meadow: 8 face up</text>
+    <use href="#mc" x="179" y="196"/>
+    <use href="#mc" x="211" y="196"/>
+    <use href="#mc" x="243" y="196"/>
+    <use href="#mc" x="275" y="196"/>
+    <use href="#mc" x="179" y="230"/>
+    <use href="#mc" x="211" y="230"/>
+    <use href="#mc" x="243" y="230"/>
+    <use href="#mc" x="275" y="230"/>
+
+    <!-- Autumn trail, bottom left -->
+    <text x="104" y="277" font-weight="700">Autumn trail</text>
+    <g fill="#F6EFE3" stroke="#2B1E16" stroke-width="1">
+      <ellipse cx="112" cy="291" rx="9" ry="6"/>
+      <ellipse cx="134" cy="291" rx="9" ry="6"/>
+      <ellipse cx="156" cy="291" rx="9" ry="6"/>
+      <ellipse cx="178" cy="291" rx="9" ry="6"/>
+    </g>
+    <g font-size="11" text-anchor="middle" font-weight="700">
+      <text x="112" y="295">2</text><text x="134" y="295">3</text><text x="156" y="295">4</text><text x="178" y="295">5</text>
+    </g>
+    <text x="104" y="310" font-size="11">open in autumn only</text>
+
+    <!-- Discard pile, bottom center -->
+    <rect x="214" y="268" width="52" height="36" rx="6" fill="none" stroke="#2B1E16" stroke-width="1" stroke-dasharray="4 3"/>
+    <text x="240" y="283" text-anchor="middle" font-size="11">Discard</text>
+    <text x="240" y="297" text-anchor="middle" font-size="11">pile</text>
+
+    <!-- Haven, bottom right: a shared space inside a ring of stones -->
+    <text x="380" y="277" text-anchor="end" font-weight="700">Haven (shared)</text>
+    <ellipse cx="342" cy="294" rx="12" ry="6" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <g fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.6">
+      <circle cx="322" cy="294" r="2.6"/>
+      <circle cx="327" cy="285" r="2.6"/>
+      <circle cx="342" cy="281" r="2.6"/>
+      <circle cx="357" cy="285" r="2.6"/>
+      <circle cx="362" cy="294" r="2.6"/>
+      <circle cx="357" cy="303" r="2.6"/>
+      <circle cx="342" cy="307" r="2.6"/>
+      <circle cx="327" cy="303" r="2.6"/>
+    </g>
+
+    <!-- Player 1, top left: 2 workers, 5 cards -->
+    <text x="8" y="16" font-weight="700">Player 1</text>
+    <g fill="#2F5D50"><use href="#w" x="10" y="22"/><use href="#w" x="24" y="22"/></g>
+    <use href="#cb" x="8" y="42"/><use href="#cb" x="15" y="42"/><use href="#cb" x="22" y="42"/><use href="#cb" x="29" y="42"/><use href="#cb" x="36" y="42"/>
+    <text x="8" y="78" font-size="11">5 cards</text>
+
+    <!-- Player 2, top right: 2 workers, 6 cards -->
+    <text x="400" y="16" font-weight="700">Player 2</text>
+    <g fill="#E0A23B" stroke="#2B1E16" stroke-width="0.6"><use href="#w" x="402" y="22"/><use href="#w" x="416" y="22"/></g>
+    <use href="#cb" x="400" y="42"/><use href="#cb" x="407" y="42"/><use href="#cb" x="414" y="42"/><use href="#cb" x="421" y="42"/><use href="#cb" x="428" y="42"/><use href="#cb" x="435" y="42"/>
+    <text x="400" y="78" font-size="11">6 cards</text>
+
+    <!-- Player 3, bottom right: 2 workers, 7 cards -->
+    <text x="400" y="252" font-weight="700">Player 3</text>
+    <g fill="#2B1E16"><use href="#w" x="402" y="258"/><use href="#w" x="416" y="258"/></g>
+    <use href="#cb" x="400" y="278"/><use href="#cb" x="407" y="278"/><use href="#cb" x="414" y="278"/><use href="#cb" x="421" y="278"/><use href="#cb" x="428" y="278"/><use href="#cb" x="435" y="278"/><use href="#cb" x="442" y="278"/>
+    <text x="400" y="312" font-size="11">7 cards</text>
+
+    <!-- Player 4, bottom left: 2 workers, 8 cards -->
+    <text x="8" y="252" font-weight="700">Player 4</text>
+    <g fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.6"><use href="#w" x="10" y="258"/><use href="#w" x="24" y="258"/></g>
+    <use href="#cb" x="8" y="278"/><use href="#cb" x="15" y="278"/><use href="#cb" x="22" y="278"/><use href="#cb" x="29" y="278"/><use href="#cb" x="36" y="278"/><use href="#cb" x="43" y="278"/><use href="#cb" x="50" y="278"/><use href="#cb" x="57" y="278"/>
+    <text x="8" y="312" font-size="11">8 cards</text>
+
+    <!-- Tokens beside the board -->
+    <g fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8">
+      <circle cx="16" cy="124" r="6"/><circle cx="31" cy="124" r="6"/><circle cx="46" cy="124" r="6"/>
+    </g>
+    <text x="8" y="146" font-size="11">Point tokens</text>
+    <g fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.8">
+      <circle cx="16" cy="170" r="6"/><circle cx="31" cy="170" r="6"/><circle cx="46" cy="170" r="6"/>
+    </g>
+    <text x="8" y="192" font-size="11">Occupied</text>
+    <text x="8" y="205" font-size="11">tokens</text>
+
+    <!-- Notes -->
+    <g font-size="11" fill="#2F5D50">
+      <text x="400" y="118">2 players:</text>
+      <text x="400" y="131">3 Forest cards</text>
+      <text x="400" y="170">Most humble</text>
+      <text x="400" y="183">player goes</text>
+      <text x="400" y="196">first</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,97 @@
+title: "Your First Crew"
+game: "One Piece Card Game"
+format: tcg
+order: 530
+wave: "TCG A"
+draft: false
+publisher: "Bandai"
+notice: "Unofficial. Not affiliated with or endorsed by Bandai, Shueisha, or Toei Animation. The ONE PIECE CARD GAME is published by Bandai. ONE PIECE © Eiichiro Oda/Shueisha, Toei Animation."
+rulesEdition: "ONE PIECE CARD GAME Comprehensive Rules, version 1.2.1 (last updated August 28, 2026), with the Official Rule Manual and Tournament Rules Manual"
+rulesSource: "https://en.onepiece-cardgame.com/pdf/rule_comprehensive.pdf?20260828"
+players: "2"
+playTime: "Varies; store events allow 35 minutes a game"
+promise: "Pick the right starter, learn the Leader and DON!! rhythm, teach a friend, and walk into your first store tournament ready to play."
+description: "An unofficial beginner's course for the One Piece Card Game: pick a starter deck, learn DON!! and battles, read a card, teach a friend, and play a store event."
+audience:
+  - "Anime and manga fans who want to play the card game their favorite crew lives in."
+  - "Board gamers curious about a trading card game with a steady, predictable resource."
+  - "New players with a starter deck who want the rules clear before a store event."
+  - "Friends and parents teaching someone their first game."
+afterLesson3: "Pick a starter deck, play a full game from it, and read every part of a card."
+afterLesson8: "Teach the game, play clean games, budget your DON!!, defend with Blockers and Counters, and upgrade a starter on a budget."
+levels:
+  - level: 0
+    name: "Stowaway"
+    label: "Learn to play"
+    outcome: "Pick a starter deck, play a full game from it, read every part of a card, and teach a friend in ten minutes."
+  - level: 1
+    name: "Deckhand"
+    label: "Beginner"
+    outcome: "Play clean games, budget your DON!! every turn, know when to block, counter, or take the hit, and upgrade a starter on a budget."
+  - level: 2
+    name: "Navigator"
+    label: "Intermediate"
+    outcome: "Play a Store Tournament with confidence, choose first or second on purpose, keep your hand stocked, and build a sealed deck at a release event."
+  - level: 3
+    name: "First Mate"
+    label: "Advanced"
+    outcome: "Count lethal through Counters, read what an opponent can still do, put odds on your draws, and build a 50-card deck from scratch."
+  - level: 4
+    name: "Captain"
+    label: "Tournament ready"
+    outcome: "Play a clocked match under the Tournament Rules Manual, choose a deck for the field, and follow a six-week plan into a competitive event."
+  - level: 5
+    name: "Commodore"
+    label: "The championship path"
+    outcome: "Know the road from Store Championships to Regionals, Finals, and Worlds, handle a long Regional day, and stay sharp through every new set and rotation."
+faq:
+  - q: "What is DON!! in the One Piece Card Game?"
+    a: "DON!! cards are your resource. You keep a separate 10-card DON!! deck and add 2 to your cost area each turn. You rest DON!! to pay costs, or give them to your Leader or Characters for 1000 extra power each during your turn."
+  - q: "How do you win the One Piece Card Game?"
+    a: "Attack your opponent's Leader. Each hit moves one of their Life cards to their hand. If their Leader takes damage when they have 0 Life cards left, you win. A player with 0 cards in their deck also loses."
+  - q: "Which One Piece starter deck should a beginner buy?"
+    a: "Two new players learning together do well with a two-deck learning set, such as the Set Sail Deck Set. A single player can start with any starter deck. ST-37 and ST-38, both due in December 2026, are the newest."
+  - q: "Can you attack on your first turn in the One Piece Card Game?"
+    a: "No. Neither player can battle on their own first turn. After that, a Character still cannot attack on the turn it is played unless its text says so, as with Rush."
+  - q: "How many cards are in a One Piece Card Game deck?"
+    a: "You need 1 Leader card, a 50-card deck, and a 10-card DON!! deck. Every card in the deck must share a color with your Leader, and you can run up to 4 cards with the same card number."
+  - q: "Where can I play the One Piece Card Game near me?"
+    a: "Download the Bandai TCG+ app, set the game title to ONE PIECE CARD GAME, and search the store list for stores near you. Store Tournaments are the regular entry-level event. Confirm your spot with the store as well."
+teachSheet:
+  goal: "Attack the opposing Leader until it takes damage when its player has no Life cards left."
+  setup:
+    - "Each player: Leader face up, 50-card deck shuffled, 10 DON!! cards in a stack."
+    - "Rock-paper-scissors. The winner chooses to go first or second."
+    - "Draw 5. Each player may redraw once; the first player decides first."
+    - "Put cards equal to your Leader's Life face down as your Life cards."
+  turn:
+    - "Refresh: given DON!! return to your cost area; stand every card up."
+    - "Draw 1 card. The first player skips this on turn one."
+    - "DON!!: add 2 to your cost area. The first player adds 1 on turn one."
+    - "Main: play cards, use effects, give DON!!, and attack, in any order."
+    - "End: resolve end of turn effects, then pass the turn."
+  scoring:
+    - "Attack: rest your Leader or a Character. Target their Leader or a rested Character."
+    - "The defender may use one Blocker, then play Counters from hand."
+    - "Attacker's power equal to or higher than the target's wins."
+    - "Leader hit: the top Life card goes to hand, or its Trigger is used."
+    - "Character hit: it is K.O.'d and goes to the trash."
+    - "Each given DON!! adds 1000 power, on your own turn only."
+  endGame: "A player loses when their Leader takes damage with 0 Life cards left, or when their deck has 0 cards."
+  tips:
+    - "No battles on either player's first turn, and new Characters wait a turn to attack."
+    - "Save Counter cards in hand as your Life runs low."
+    - "A rested Character can be attacked, so think before you swing with it."
+diagramAlt: "One player's side of the One Piece Card Game play area, laid out like the official playsheet: a row of five Character slots across the top, the face-down Life cards on the left, the Leader in the middle row with the Stage and the deck beside it, the 10-card DON!! deck at the bottom left, the cost area for DON!! along the bottom, and the trash at the bottom right."
+related:
+  - "how-to-teach-a-board-game"
+  - "how-to-start-a-play-group"
+  - "indianapolis-board-game-stores"
+  - "card-drafting-explained"
+  - "how-to-run-a-board-game-tournament"
+  - "trading-and-selling-games"
+  - "card-advantage-in-cube"
+tcg:
+  starter: "STARTER DECK -The Desert Princess and the Pirates- [ST-37] and STARTER DECK -Baroque Works- [ST-38], due December 2026"
+  firstEvent: "Store Tournament, found and joined in the Bandai TCG+ app"
+  rulesAsOf: "OP-17 The World's Strongest Warriors (Comprehensive Rules version 1.2.1, August 28, 2026)"

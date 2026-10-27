@@ -1,0 +1,184 @@
+[
+  {
+    "game": "7 Wonders and 7 Wonders Duel",
+    "course": "7-wonders",
+    "gotcha": "In the base game you deal only with your two neighbors. You can buy resources only from the players on your left and right, and military compares shields only with those same two players.",
+    "say": "Everything in this game happens with the two people next to you: you buy from them and you fight them, nobody else.",
+    "why": "Everyone plays at once around a big table, so it feels like the whole table is one market and one war."
+  },
+  {
+    "game": "Ark Nova",
+    "course": "ark-nova",
+    "gotcha": "After you use an action card, it goes back to slot 1, and only the cards that were to its left slide one step right. Cards to its right stay where they are.",
+    "say": "The card you just used drops to the weakest spot, and the ones you skipped get a little stronger.",
+    "why": "It looks like a simple shuffle along the row, so new tables slide every card and end up with the wrong strengths."
+  },
+  {
+    "game": "Azul",
+    "course": "azul",
+    "gotcha": "All the tiles you take go into one pattern line. Any that do not fit, or that you choose not to place, drop to your floor line and cost you points at the end of the round.",
+    "say": "Whatever you grab has to fit in one row, and anything left over falls on the floor and costs you points.",
+    "why": "Taking a big handful feels like a good haul until the extras land on the floor."
+  },
+  {
+    "game": "Brass: Birmingham",
+    "course": "brass-birmingham",
+    "gotcha": "Coal must reach your build through a connection, and you must use the closest connected coal mine, even a rival's. You buy coal from the market only when no mine with coal is connected, and you need a connection to a merchant location to do it.",
+    "say": "Coal travels along the canals, so you take it from the nearest connected mine, even if it belongs to someone else.",
+    "why": "Iron goes anywhere with no connection, so players assume coal works the same way, or that they can always buy from the market."
+  },
+  {
+    "game": "Carcassonne",
+    "course": "carcassonne",
+    "gotcha": "You cannot place a meeple on a road or city that already has a meeple on it, even if that meeple is several tiles away. You may only place a meeple on the tile you just placed.",
+    "say": "If someone already has a person on that road or city anywhere along it, you can't add yours to it.",
+    "why": "The other meeple can be far away, so the feature looks open from where you are placing."
+  },
+  {
+    "game": "Cascadia",
+    "course": "cascadia",
+    "gotcha": "The wildlife token you take can go on any tile in your area that shows that animal and has no token yet, not only on the tile you just placed.",
+    "say": "Your animal can go on any of your tiles that pictures it, not just the new one.",
+    "why": "The tile and the animal are taken as a pair, so it feels like they have to be placed together."
+  },
+  {
+    "game": "Catan",
+    "course": "catan",
+    "gotcha": "When someone rolls a 7, nobody collects, and every player holding 8 or more resource cards returns half of them, rounded down. Then the roller moves the robber and steals a card.",
+    "say": "When a 7 comes up, anyone holding 8 or more cards loses half, so build before you pass the dice.",
+    "why": "Saving cards for a big build feels smart, and the 7 is the most common roll."
+  },
+  {
+    "game": "Codenames",
+    "course": "codenames",
+    "gotcha": "A clue is one word and one number, and nothing else. The spymaster may not add hints, react to guesses, or bring up missed words.",
+    "say": "Spymasters get one word and one number, then they keep a straight face while we argue.",
+    "why": "Spymasters want to help their team, so a sigh, a smile, or an extra word slips out."
+  },
+  {
+    "game": "Dinosaur Island",
+    "course": "dinosaur-island",
+    "gotcha": "In the Park Phase, if your threat is higher than your security, dinosaurs eat one visitor for each point of difference, and you lose 1 VP for each. Your threat that round also counts the threat pips on the leftover die in the holding area.",
+    "say": "Every dinosaur makes your park more dangerous, and if danger beats your security, dinosaurs eat your visitors.",
+    "why": "Building dinosaurs feels like pure progress, and the leftover die quietly adds to everyone's threat."
+  },
+  {
+    "game": "Dominion",
+    "course": "dominion",
+    "gotcha": "You may play only one Action card each turn. To play another, the first card has to give you +Action.",
+    "say": "You get to play one action card a turn, unless a card you play says plus one action.",
+    "why": "Your hand can hold three great action cards, and it seems natural to play them all."
+  },
+  {
+    "game": "Dune: Imperium and Dune: Imperium Uprising",
+    "course": "dune-imperium",
+    "gotcha": "Every card does one job each round: you play it to send an Agent and use its Agent box, or you keep it to reveal and use its Reveal box. Never both.",
+    "say": "Each card either sends one of your agents out now, or stays in your hand for the big reveal at the end. You choose one.",
+    "why": "Both boxes are printed on the same card, so it looks like you get both."
+  },
+  {
+    "game": "Everdell",
+    "course": "everdell",
+    "gotcha": "Players do not change seasons together. You prepare for the next season on your own turn, and only once all of your workers are placed.",
+    "say": "Seasons are personal here: you move on when your workers are all out, even if I'm still in spring.",
+    "why": "In most games the whole table moves to the next round at once."
+  },
+  {
+    "game": "Flip 7",
+    "course": "flip-7",
+    "gotcha": "Flip seven different number cards and the round ends for everyone, right then, and you get 15 bonus points. Only number cards count toward seven, and the 0 counts.",
+    "say": "If anyone gets seven different numbers, the round stops for all of us on the spot.",
+    "why": "Players who stayed or are still pushing their luck expect to finish their own run, and modifier cards look like they should count."
+  },
+  {
+    "game": "Heat: Pedal to the Metal",
+    "course": "heat",
+    "gotcha": "Heat cards can never be played or discarded. Once Heat comes back into your hand, the only way out is to cool down. Your gear gives Cooldown only in 1st gear (3) and 2nd gear (1); Adrenaline adds 1 for the car in last.",
+    "say": "Heat you spend comes back to clog your hand, and you can only clear it by slowing down.",
+    "why": "In most card games a bad card can be dumped, so a hand full of dead Heat comes as a shock."
+  },
+  {
+    "game": "King of Tokyo",
+    "course": "king-of-tokyo",
+    "gotcha": "Heart results do nothing while you are in Tokyo. Only Power cards can give you Life there.",
+    "say": "While you're in Tokyo, hearts don't heal you, so you'll have to leave to get better.",
+    "why": "Hearts are on the dice every roll, so it feels like they should always work."
+  },
+  {
+    "game": "Lost Ruins of Arnak",
+    "course": "lost-ruins-of-arnak",
+    "gotcha": "Each card is either spent for the travel icon in its corner or played for its effect. Never both.",
+    "say": "Every card can pay for your trip or do its thing, but not both.",
+    "why": "The travel icon and the effect sit on the same card, so it seems like one play gives you both."
+  },
+  {
+    "game": "Pandemic",
+    "course": "pandemic",
+    "gotcha": "When an Epidemic hits, the Infect step draws from the bottom of the Infection deck. Then only the Infection discard pile is shuffled and put back on top, so cities already hit come up again soon.",
+    "say": "When an epidemic comes, the cities that already got sick get shuffled back on top, so they get hit again.",
+    "why": "Players expect the deck to be fully reshuffled, and the danger of the same cities coming back is easy to miss."
+  },
+  {
+    "game": "Power Grid",
+    "course": "power-grid",
+    "gotcha": "Whoever has the most cities goes first in the auction, but last when buying fuel and building. Fuel and building start with the player in last place.",
+    "say": "Being ahead costs you: the leader picks plants first but buys fuel and builds last.",
+    "why": "In most games going first is a perk, so players race to the front without seeing the price."
+  },
+  {
+    "game": "Root",
+    "course": "root",
+    "gotcha": "To move, you must rule the clearing you leave, the clearing you enter, or both. Rule means having more warriors and buildings there than anyone else.",
+    "say": "You can move from a spot you control or into a spot you control, but not from one enemy spot into another.",
+    "why": "The map looks open, and the rule is a condition on where you are and where you are going, not on the path."
+  },
+  {
+    "game": "Sky Team",
+    "course": "sky-team",
+    "gotcha": "You may plan out loud before the dice are rolled, but never talk about dice. Once you roll, both pilots stay silent until all 8 dice are placed. The only exception is pointing out a rules mistake.",
+    "say": "We can make a plan, but no dice talk, and once we roll we go quiet until all the dice are down.",
+    "why": "It is a two-player team game, so the natural thing is to talk through every choice."
+  },
+  {
+    "game": "Spirit Island",
+    "course": "spirit-island",
+    "gotcha": "Each Invader card acts in lands of its type, then slides one space toward Ravage. So the lands that Explore this turn Build next turn and Ravage the turn after.",
+    "say": "Watch this track: whatever they explore now, they build on next turn, and they attack the turn after that.",
+    "why": "It is the hardest idea in the game, and new players read each card as a one-time event instead of a three-turn warning."
+  },
+  {
+    "game": "Splendor",
+    "course": "splendor",
+    "gotcha": "You may take two gems of the same color only if at least 4 of that color are in the supply before you take them.",
+    "say": "You can grab two of the same gem only when there are at least four of that color left in the pile.",
+    "why": "Taking two of a kind is one of the main moves, so players forget it has a condition."
+  },
+  {
+    "game": "Terraforming Mars",
+    "course": "terraforming-mars",
+    "gotcha": "Your income each generation is your TR plus your M€ production. Every step you raise the temperature, oxygen, or oceans raises your TR, so it pays you every round and scores at the end.",
+    "say": "Every time you help warm up Mars, your rating goes up, and that rating is paid to you as money every round.",
+    "why": "TR looks like a score track, so players miss that it is also their biggest source of money."
+  },
+  {
+    "game": "The Castles of Burgundy",
+    "course": "castles-of-burgundy",
+    "gotcha": "A tile you take from a depot always goes to a storage space first. It never goes straight onto your board, even if you place it with your other die the same turn.",
+    "say": "Tiles you take go into your storage first, and placing one on your board is a separate action.",
+    "why": "Taking a tile feels like building it, so players skip the storage step."
+  },
+  {
+    "game": "Ticket to Ride",
+    "course": "ticket-to-ride",
+    "gotcha": "At the end, every ticket you kept adds its value if you connected both cities with your own trains, and subtracts its value if you did not.",
+    "say": "Tickets are a promise: finish them and you score the number, miss them and you lose it.",
+    "why": "Tickets look like bonus goals, so taking more seems free until the minus points show up."
+  },
+  {
+    "game": "Wingspan",
+    "course": "wingspan",
+    "gotcha": "The egg cost to play a bird comes from the column it lands in: the first column is free, columns 2 and 3 cost 1 egg, and columns 4 and 5 cost 2. The egg icons on the card are how many eggs it can hold, not its price.",
+    "say": "Birds further along the row cost eggs to play, and the eggs on the card just show how many it can hold.",
+    "why": "The egg icons sit right on the card, so they read like a price."
+  }
+]

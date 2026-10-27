@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 420" role="img" aria-labelledby="t d">
+  <title id="t">Mock Riftbound style unit card</title>
+  <desc id="d">An invented unit card, Hearthside Tactician, with every part labeled: an energy cost of 3 with one power symbol below it in the upper left, Might 4 in the upper right, the illustration, the card name, the type and tag line reading Unit and Tavernfolk, a rules text box with the Tank keyword and a conquer trigger, a line of flavor text, and the domain symbol in the lower right.</desc>
+  <rect width="300" height="420" fill="#F6EFE3"/>
+  <g font-family="system-ui, sans-serif" fill="#2B1E16">
+    <!-- Card body -->
+    <rect x="14" y="8" width="272" height="404" rx="14" fill="#F6EFE3" stroke="#2B1E16" stroke-width="2"/>
+
+    <!-- Cost: energy number, power symbol below -->
+    <circle cx="44" cy="40" r="20" fill="#2B1E16"/>
+    <text x="44" y="48" text-anchor="middle" font-size="22" font-weight="700" fill="#F6EFE3">3</text>
+    <polygon points="44,66 54,74 54,86 44,94 34,86 34,74" fill="#2F5D50" stroke="#2B1E16" stroke-width="1.2"/>
+    <circle cx="44" cy="80" r="4" fill="#F6EFE3"/>
+    <text x="72" y="36" font-size="11" font-weight="700" fill="#2F5D50">ENERGY</text>
+    <text x="72" y="49" font-size="10">exhaust 3 runes</text>
+    <text x="64" y="78" font-size="11" font-weight="700" fill="#2F5D50">POWER</text>
+    <text x="64" y="91" font-size="10">recycle 1 matching rune</text>
+
+    <!-- Might -->
+    <text x="268" y="46" text-anchor="end" font-size="28" font-weight="700">4</text>
+    <text x="268" y="62" text-anchor="end" font-size="11" font-weight="700" fill="#2F5D50">MIGHT</text>
+
+    <!-- Illustration -->
+    <rect x="28" y="102" width="244" height="120" rx="8" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <circle cx="150" cy="150" r="22" fill="#E0A23B" opacity="0.85"/>
+    <rect x="134" y="170" width="32" height="30" rx="6" fill="#2B1E16" opacity="0.35"/>
+    <text x="150" y="214" text-anchor="middle" font-size="11">Illustration (no effect on play)</text>
+
+    <!-- Name and type line -->
+    <text x="150" y="246" text-anchor="middle" font-size="17" font-weight="700">Hearthside Tactician</text>
+    <text x="150" y="263" text-anchor="middle" font-size="11" letter-spacing="1">UNIT · TAVERNFOLK</text>
+    <text x="276" y="246" text-anchor="end" font-size="9" font-weight="700" fill="#2F5D50">NAME</text>
+    <text x="276" y="263" text-anchor="end" font-size="9" font-weight="700" fill="#2F5D50">TYPE, TAG</text>
+
+    <!-- Rules text box -->
+    <rect x="28" y="272" width="244" height="104" rx="8" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <text x="36" y="287" font-size="9" font-weight="700" fill="#2F5D50">RULES TEXT</text>
+    <rect x="36" y="294" width="40" height="17" rx="8.5" fill="#2F5D50"/>
+    <text x="56" y="306" text-anchor="middle" font-size="11" font-weight="700" fill="#F6EFE3">Tank</text>
+    <text x="82" y="306" font-size="10">(I'm assigned combat damage first.)</text>
+    <text x="250" y="287" text-anchor="end" font-size="9" font-weight="700" fill="#2F5D50">KEYWORD</text>
+    <text x="36" y="328" font-size="11">When I conquer, draw 1.</text>
+    <line x1="36" y1="340" x2="264" y2="340" stroke="#B9AD9C" stroke-width="1"/>
+    <text x="36" y="357" font-size="10" font-style="italic">"Pull up a chair. The battle can wait."</text>
+    <text x="36" y="370" font-size="9" font-weight="700" fill="#2F5D50">FLAVOR TEXT (no effect)</text>
+
+    <!-- Domain symbol, lower right -->
+    <polygon points="258,382 268,390 268,402 258,410 248,402 248,390" fill="#2F5D50" stroke="#2B1E16" stroke-width="1.2"/>
+    <circle cx="258" cy="396" r="4" fill="#F6EFE3"/>
+    <text x="242" y="400" text-anchor="end" font-size="10" font-weight="700" fill="#2F5D50">DOMAIN</text>
+
+    <!-- Invented card note -->
+    <text x="28" y="400" font-size="9">Invented card for teaching</text>
+  </g>
+</svg>

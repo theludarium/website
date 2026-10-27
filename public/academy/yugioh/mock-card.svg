@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 420" role="img" aria-labelledby="t d">
+  <title id="t">An invented Yu-Gi-Oh!-style card with every part labeled</title>
+  <desc id="d">A made-up Level 4 LIGHT Spellcaster Tuner Effect Monster named Hexwarden, not a real card. Labels point out the name, Attribute, Level, illustration, card number, type line, effect text, ATK and DEF, password, and edition.</desc>
+  <rect width="300" height="420" fill="#F6EFE3"/>
+
+  <!-- Card frame: an Effect Monster frame, in Lamplight -->
+  <rect x="8" y="8" width="284" height="404" rx="12" fill="#E0A23B" stroke="#2B1E16" stroke-width="1.5"/>
+
+  <g font-family="system-ui, sans-serif" fill="#2B1E16">
+    <!-- Name bar -->
+    <rect x="18" y="18" width="264" height="30" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <text x="25" y="39" font-size="18" font-weight="700">Hexwarden</text>
+
+    <!-- Attribute -->
+    <circle cx="263" cy="33" r="12.5" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+    <text x="263" y="35.5" font-size="7" font-weight="700" fill="#F6EFE3" text-anchor="middle">LIGHT</text>
+
+    <!-- Level stars: 4 -->
+    <g fill="#2B1E16">
+      <circle cx="266" cy="61" r="7"/>
+      <circle cx="248" cy="61" r="7"/>
+      <circle cx="230" cy="61" r="7"/>
+      <circle cx="212" cy="61" r="7"/>
+    </g>
+    <g fill="#E0A23B">
+      <path d="M266 56.5 L267.3 59.6 L270.5 59.8 L268 61.9 L268.8 65 L266 63.3 L263.2 65 L264 61.9 L261.5 59.8 L264.7 59.6 Z"/>
+      <path d="M248 56.5 L249.3 59.6 L252.5 59.8 L250 61.9 L250.8 65 L248 63.3 L245.2 65 L246 61.9 L243.5 59.8 L246.7 59.6 Z"/>
+      <path d="M230 56.5 L231.3 59.6 L234.5 59.8 L232 61.9 L232.8 65 L230 63.3 L227.2 65 L228 61.9 L225.5 59.8 L228.7 59.6 Z"/>
+      <path d="M212 56.5 L213.3 59.6 L216.5 59.8 L214 61.9 L214.8 65 L212 63.3 L209.2 65 L210 61.9 L207.5 59.8 L210.7 59.6 Z"/>
+    </g>
+
+    <!-- Illustration window: original abstract art -->
+    <rect x="34" y="76" width="232" height="194" rx="3" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+    <path d="M150 104 L196 130.5 L196 183.5 L150 210 L104 183.5 L104 130.5 Z" fill="#E0A23B" stroke="#2B1E16" stroke-width="1.5"/>
+    <circle cx="150" cy="157" r="20" fill="#2F5D50"/>
+    <circle cx="150" cy="125" r="5.5" fill="#2F5D50"/>
+    <circle cx="150" cy="189" r="5.5" fill="#2F5D50"/>
+    <circle cx="122.5" cy="141" r="5.5" fill="#2F5D50"/>
+    <circle cx="177.5" cy="141" r="5.5" fill="#2F5D50"/>
+    <circle cx="122.5" cy="173" r="5.5" fill="#2F5D50"/>
+    <circle cx="177.5" cy="173" r="5.5" fill="#2F5D50"/>
+    <text x="150" y="262" font-size="8.5" font-style="italic" text-anchor="middle" fill="#F6EFE3">Made-up card for teaching. Not a real Yu-Gi-Oh! card.</text>
+
+    <!-- Card number -->
+    <text x="268" y="284" font-size="9.5" font-weight="700" text-anchor="end">LUDA-EN001</text>
+
+    <!-- Text box -->
+    <rect x="18" y="290" width="264" height="98" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <text x="25" y="305" font-size="10.5" font-weight="700">[Spellcaster / Tuner / Effect]</text>
+    <g font-size="9.5">
+      <text x="25" y="320">If this card is Normal Summoned: You can add</text>
+      <text x="25" y="332">1 Level 4 or lower monster from your Deck to</text>
+      <text x="25" y="344">your hand. You can only use this effect of</text>
+      <text x="25" y="356">"Hexwarden" once per turn.</text>
+    </g>
+    <line x1="25" y1="365" x2="275" y2="365" stroke="#2B1E16" stroke-width="0.8"/>
+    <text x="275" y="381" font-size="11.5" font-weight="700" text-anchor="end">ATK/1600  DEF/1200</text>
+
+    <!-- Bottom edge -->
+    <text x="20" y="404" font-size="9" font-weight="700">00000000</text>
+    <text x="138" y="404" font-size="9" font-weight="700">1st Edition</text>
+    <rect x="270" y="394" width="12" height="12" rx="2" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.8"/>
+
+    <!-- Label pills (Walnut, so they stand apart from the card) -->
+    <g font-size="8" font-weight="700" letter-spacing="0.4" text-anchor="middle">
+      <rect x="128" y="27" width="38" height="12" rx="6" fill="#2B1E16"/><text x="147" y="36" fill="#F6EFE3">NAME</text>
+      <rect x="184" y="27" width="60" height="12" rx="6" fill="#2B1E16"/><text x="214" y="36" fill="#F6EFE3">ATTRIBUTE</text>
+      <rect x="156" y="55" width="40" height="12" rx="6" fill="#2B1E16"/><text x="176" y="64" fill="#F6EFE3">LEVEL</text>
+      <rect x="40" y="82" width="76" height="12" rx="6" fill="#2B1E16"/><text x="78" y="91" fill="#F6EFE3">ILLUSTRATION</text>
+      <rect x="114" y="275" width="78" height="12" rx="6" fill="#2B1E16"/><text x="153" y="284" fill="#F6EFE3">CARD NUMBER</text>
+      <rect x="212" y="296" width="64" height="12" rx="6" fill="#2B1E16"/><text x="244" y="305" fill="#F6EFE3">TYPE LINE</text>
+      <rect x="182" y="347" width="88" height="12" rx="6" fill="#2B1E16"/><text x="226" y="356" fill="#F6EFE3">EFFECT TEXT</text>
+      <rect x="25" y="371" width="64" height="12" rx="6" fill="#2B1E16"/><text x="57" y="380" fill="#F6EFE3">ATK / DEF</text>
+      <rect x="72" y="395" width="58" height="12" rx="6" fill="#2B1E16"/><text x="101" y="404" fill="#F6EFE3">PASSWORD</text>
+      <rect x="194" y="395" width="52" height="12" rx="6" fill="#2B1E16"/><text x="220" y="404" fill="#F6EFE3">EDITION</text>
+    </g>
+  </g>
+</svg>

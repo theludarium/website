@@ -7,7 +7,7 @@ import { IS_PREVIEW } from '@/lib/env';
 import { TEAM_SIZES, TIMINGS } from '../../functions/api/inquiry';
 
 const TEST_SITE_KEY = '1x00000000000000000000AA'; // Cloudflare's always-pass test key
-const siteKey = TURNSTILE_SITE_KEY || (IS_PREVIEW ? TEST_SITE_KEY : '');
+const siteKey = IS_PREVIEW ? TEST_SITE_KEY : TURNSTILE_SITE_KEY;
 ---
 
 <form class="inquiry" action="/api/inquiry" method="post" data-inquiry novalidate>

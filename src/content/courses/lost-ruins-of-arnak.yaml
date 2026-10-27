@@ -1,0 +1,102 @@
+title: "Five Rounds to the Lost Temple"
+game: "Lost Ruins of Arnak"
+format: full
+order: 370
+wave: "4"
+draft: false
+publisher: "Czech Games Edition"
+# VERIFY: no Czech Games Edition fan content or IP policy turned up. The brand guidelines site (brand.czechgames.com) and the terms page have none, and the rulebook credits "© Czech Games Edition". The notice follows the same pattern as the Codenames course.
+notice: "Unofficial. Not affiliated with Czech Games Edition. Lost Ruins of Arnak is a trademark of Czech Games Edition."
+rulesEdition: "Lost Ruins of Arnak rulebook, English (Czech Games Edition, October 2020 rules, current download file from August 2021)"
+rulesSource: "https://filemanager.czechgames.com/storage/files/lost-ruins-of-arnak/rules/lost-ruins-of-arnak-rules-en.pdf"
+players: "1 to 4"
+playTime: "About 30 minutes per player"
+ages: "Ages 12 and up"
+promise: "Learn Lost Ruins of Arnak, teach it in ten minutes, and turn a six-card deck and two archaeologists into a real run at the Lost Temple."
+description: "A free Lost Ruins of Arnak course: learn the rules, teach them in ten minutes, then master openings, deck and research tempo, scoring math, and expansions."
+audience:
+  - "New players who want the rules clear before the first archaeologist leaves camp."
+  - "Hosts who teach Arnak to friends who have never played a deck builder."
+  - "Players who keep ending games with a hand full of Fear and want to know why."
+  - "Solo explorers, and anyone curious about the expansions and online play."
+levels:
+  - level: 0
+    name: "Deckhand"
+    label: "Learn to play"
+    outcome: "Set up, teach, and play a full game, travel costs and the end of each round included, without opening the rulebook."
+  - level: 1
+    name: "Scout"
+    label: "Beginner"
+    outcome: "Open with a plan, climb the research track from round I, and finish games with fewer Fear cards than you started with."
+  - level: 2
+    name: "Cartographer"
+    label: "Intermediate"
+    outcome: "Choose cards, sites, and guardian fights on purpose, and count the final score before round V begins."
+  - level: 3
+    name: "Scholar"
+    label: "Advanced"
+    outcome: "Know which cards you will draw next round, win the two-player duel, and time your climb to take the Lost Temple's best spaces."
+  - level: 4
+    name: "Trailblazer"
+    label: "Expert"
+    outcome: "Beat the solo rival with all five red tiles, add expansions and campaigns, and hold your own against strong players online."
+afterLesson3: "Teach and play a clean game of Arnak, with travel costs, guardians, Fear, and the end of each round handled correctly."
+afterLesson8: "Plan your first two rounds, research every round, keep Fear out of your deck, and turn the midgame into points."
+faq:
+  - q: "How do you get rid of Fear cards in Lost Ruins of Arnak?"
+    a: "Exile them. Any effect that lets you exile a card can send a Fear card from your hand or play area back to the Fear supply. Overcoming a guardian also stops that site from handing out new Fear at the end of the round. Every Fear card you still own at the end costs 1 point."
+  - q: "Can you use a card for travel and for its effect in Arnak?"
+    a: "No. Each card in your hand does one job. You either spend it for the travel icon in its corner or play it for its effect. A Fear card has no effect, but its boot still pays for travel."
+  - q: "When do the items you buy show up in your hand?"
+    a: "An item goes face down to the bottom of your deck, so you usually draw it next round. Artifacts work differently: they go straight to your play area, and you may use the effect right away without paying the tablet cost in the corner."
+  - q: "How many rounds are in Lost Ruins of Arnak?"
+    a: "Five. Each round, everyone draws up to 5 cards and takes turns until every player has passed. After round V, you go straight to final scoring."
+  - q: "What happens when you reach the Lost Temple?"
+    a: "Only your magnifying glass can get there. Earlier arrivals score more, and you choose one bonus tile from the stack. After that, researching with your magnifying glass lets you pay for temple tiles worth 2, 6, or 11 points."
+  - q: "Which side of the Arnak board should you use first?"
+    a: "The Bird Temple side. The rulebook recommends it for your first game. The Snake Temple side changes travel costs and the research track and adds a few special rules, so save it for later."
+teachSheet:
+  goal: "Score the most points by exploring sites, overcoming guardians, building your deck, and researching toward the Lost Temple."
+  setup:
+    - "Bird Temple side up. Card row: 1 artifact, the moon staff on I, then 5 items."
+    - "Idols: 1 face up on each level I site; 1 up and 1 down on each level II site."
+    - "3 players: block the two-boot space at 3 random starting sites. 2 players: at all 5."
+    - "Temple tile and bonus stacks get 1 tile per player. Bonus tiles go face up on the track."
+    - "Supply board: resources, site tiles, guardians, and 3 stacks of 4 assistants, silver side up."
+    - "Each player: board, 2 archaeologists, and magnifying glass on notebook at the research start."
+    - "Shuffle your deck: 2 Funding, 2 Exploration, 2 Fear."
+    - "Seats 1 to 4 start with: 2 coins; coin and compass; 2 coins and compass; coin and 2 compasses."
+  turn:
+    - "Round start: everyone draws up to 5 cards."
+    - "Your turn: exactly 1 main action, plus any free actions (lightning icon)."
+    - "Main actions: dig, discover a site, overcome a guardian, buy a card, play a card, research, or pass."
+    - "A card pays its travel icon or does its effect, never both. 2 coins make a plane."
+    - "Items cost coins and go under your deck. Artifacts cost compasses and work right away."
+    - "Round end: archaeologists come home, plus 1 Fear each from a guardian's site. Shuffle play area under deck."
+    - "Exile the 2 cards beside the moon staff, move it right, refill. Start player passes left."
+  scoring:
+    - "Research tokens: the points on their row. Earliest Lost Temple arrival scores most."
+    - "Temple tiles: 2, 6, or 11 points."
+    - "Idols: 3 each, plus the points on any empty idol slots."
+    - "Guardians overcome: 5 each."
+    - "Items and artifacts: the points in their corner."
+    - "Fear cards: minus 1 each."
+    - "Ties: first to the Lost Temple wins. If no one got there, highest research score."
+  endGame: "The game ends after round V. Bring archaeologists home, take any Fear from guardians, then score. Most points wins."
+  tips:
+    - "Exile Fear whenever you can. Each one clogs a hand and costs a point."
+    - "Research early: each bonus tile goes to whoever reaches its space first."
+    - "Plan both archaeologists at the start of each round, then spend cards around them."
+diagramAlt: "Lost Ruins of Arnak four-player setup on the Bird Temple side: the card row with the artifact deck, Fear cards, and item deck above 1 artifact, the moon staff on round I, and 5 items; the island with level II sites holding a face-up and a face-down idol, level I sites holding 1 face-up idol, and 5 starting sites; the research track with the Lost Temple's temple tile stacks and every player's magnifying glass on their notebook at the start; the supply board with resources, site tiles, guardians, and 3 assistant stacks; and each player's 6-card deck, 2 archaeologists, 4 idol slots, and starting coins and compasses by seat."
+games: [lost-ruins-of-arnak]
+related:
+  - "deck-building-games-explained"
+  - "worker-placement-explained"
+  - "engine-building-games"
+  - "how-to-teach-a-board-game"
+  - "best-solo-board-games"
+  - "board-game-weight-explained"
+  - "analysis-paralysis-board-games"
+  - "expansions-worth-it"
+  - "how-to-run-a-board-game-tournament"
+  - "gen-con-first-timer-guide"

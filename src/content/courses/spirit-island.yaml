@@ -1,0 +1,113 @@
+title: "Ravage, Build, Explore"
+game: "Spirit Island"
+format: masterclass
+order: 350
+wave: "4"
+draft: false
+publisher: "Greater Than Games"
+# Greater Than Games publishes no fan content policy that we could find on its site, so this uses
+# the default notice pattern. The current rulebook (version 23.08) says "Spirit Island is the
+# property of Flat River Group, LLC", so the owner line names Flat River Group. In 2026 the Greater
+# Than Games brand went back to its founders (greaterthan.games), and www.greaterthangames.com now
+# calls shop.greaterthangames.com, where Spirit Island is sold, "the Flat River Group Store" for
+# "Former Catalog Titles". So the notice no longer says who publishes it today. Levi: confirm the
+# owner wording with Flat River Group before launch.
+notice: "Unofficial. Not affiliated with Greater Than Games or Flat River Group. Spirit Island is the property of Flat River Group, LLC."
+rulesEdition: "Spirit Island core rulebook, version 23.08 (Greater Than Games digital rulebook)"
+rulesSource: "https://www.dropbox.com/scl/fi/q7owk55mwa1knl576m7a0/SISL-CORE_Rulebook.pdf?rlkey=rnf8ic41t19kdhkbq0b9y79mz&st=857uytyr&dl=0"
+players: "1 to 4"
+playTime: "90 to 120 minutes"
+ages: "Ages 14 and up"
+promise: "Learn and teach Spirit Island in one sitting, then read the Invader cards ahead, spend Fear and Energy well, play the starter Spirits, and climb the adversaries together."
+description: "A free Spirit Island masterclass: learn and teach the rules, then master the Invader cards, Fear, Growth and Energy, the starter Spirits, and adversaries."
+audience:
+  - "New players who want the rules clear before the first Explorer lands."
+  - "Hosts who teach heavy co-ops and want a clean, accurate teach of this one."
+  - "Players who know the rules but keep losing to Blight or running out of time."
+  - "Groups who want to climb the adversary levels together, without one player running the table."
+levels:
+  - level: 0
+    name: "Seedling"
+    label: "Learn to play"
+    outcome: "Set up, teach, and play a full game with the Blight, Fear, and Ravage rules right, without opening the rulebook."
+  - level: 1
+    name: "Sapling"
+    label: "Beginner"
+    outcome: "Read the Invader track ahead, race the Fear Deck, grow your Spirit without stalling, and pick a starter team that covers the Island."
+  - level: 2
+    name: "Grove"
+    label: "Intermediate"
+    outcome: "Open each game with a plan, use the Dahan as allies, choose Power Cards and Elements on purpose, and play all eight Spirits in the box."
+  - level: 3
+    name: "Wildwood"
+    label: "Advanced"
+    outcome: "Hold Blight in check, count the Invader Deck, plan a win turns ahead, play well solo, and beat your first adversary."
+  - level: 4
+    name: "Tempest"
+    label: "Expert"
+    outcome: "Climb Brandenburg-Prussia, England, and Sweden toward level 6, knowing what each one punishes and how to answer it."
+  - level: 5
+    name: "Ancient"
+    label: "Mastery"
+    outcome: "Win on the thematic map and stacked challenges, score and log your games, and keep a whole table of Spirits playing as one."
+afterLesson3: "Teach and play a full game, and avoid the Blight, Fear, and Ravage misplays most new tables make."
+afterLesson8: "Read the Invader cards ahead, race the Fear Deck, plan Growth and Energy, choose a starter team, and open every game with a plan."
+faq:
+  - q: "What is the phase order in Spirit Island?"
+    a: "Every turn runs the Spirit Phase, Fast Powers, the Invader Phase, Slow Powers, then Time Passes. In the Spirit Phase you Grow, gain Energy, then play and pay for Power Cards. The Invader Phase resolves any Blighted Island effect, then earned Fear Cards, then Ravage, Build, and Explore, then the Invader cards slide one space."
+  - q: "How does Blight work in Spirit Island?"
+    a: "A Ravage that deals 2 or more Damage to a land adds 1 Blight there, however much Damage it deals. After setup, each added Blight destroys 1 Presence of every Spirit in that land, and if the land already had Blight, 1 more Blight cascades into an adjacent land. If the Blight Card runs out, follow its instructions."
+  - q: "How do you win Spirit Island?"
+    a: "Meet the victory condition for the current Terror Level. At Terror Level 1 you must clear every Invader, at Level 2 every Town and City, and at Level 3 every City. Earning Fear Cards raises the Terror Level, and earning the whole Fear Deck wins outright."
+  - q: "Which Spirit should a beginner play in Spirit Island?"
+    a: "The rulebook names four low-complexity Spirits: Lightning's Swift Strike, Vital Strength of the Earth, River Surges in Sunlight, and Shadows Flicker Like Flame, the trickiest of the four. For your first game or two, use that Spirit's Power Progression card."
+  - q: "What is the best first adversary in Spirit Island?"
+    a: "The rulebook recommends the Kingdom of Brandenburg-Prussia, because it mostly changes setup rather than adding new rules. England and Sweden make deeper changes to how the Invaders work."
+  - q: "Can you play Spirit Island solo?"
+    a: "Yes. A solo game uses one Island board as the whole Island. You may target yourself with Powers that target another Spirit, but you do not get the extra benefits some of them give when used on someone else."
+teachSheet:
+  goal: "Work together to drive the Invaders off the Island before Blight, a lost Spirit, or time beats you."
+  setup:
+    - "Invader board: put 4 Fear markers per player in the Fear Pool."
+    - "Fear Deck: 9 cards in 3 groups of 3, split by the Terror Level 2 and 3 dividers."
+    - "Invader Deck on Explore: 3 Stage I cards on top, then 4 Stage II, then 5 Stage III."
+    - "Blight Card Healthy side up (all players new: the printed space). Add the Blight shown, plus 1."
+    - "One Island board per player. Add the Invaders, Dahan, and Blight shown in each land."
+    - "Each player takes a Spirit panel, its 4 Unique Power Cards, and follows the panel's Setup."
+    - "Fill both Presence Tracks, leaving the leftmost number on each uncovered."
+    - "Invaders start: reveal 1 Invader card, Explore there, then put that card on Build."
+  turn:
+    - "Spirit Phase, everyone at once: Grow, gain Energy, then play and pay for Power Cards."
+    - "Energy and Card Plays come from the highest uncovered number on each Presence Track."
+    - "Fast Powers: resolve Fast Power Cards and Fast Innate Powers."
+    - "Invader Phase: any Blighted Island effect, then resolve earned Fear Cards in order."
+    - "Ravage, then Build, then Explore, each only in the lands its card shows."
+    - "Slide each Invader card one space toward the discard."
+    - "Slow Powers: resolve Slow Power Cards and Slow Innate Powers."
+    - "Time Passes: discard played cards. Damage and Elements go away."
+  scoring:
+    - "The whole table wins or loses together. Scoring is optional."
+    - "Explorer: 1 Health, 1 Damage. Town: 2 and 2. City: 3 and 3."
+    - "Destroying a Town generates 1 Fear; destroying a City generates 2 Fear."
+    - "Dahan: 2 Health. After a Ravage, each surviving Dahan deals 2 Damage."
+    - "A Ravage dealing 2 or more Damage to a land adds 1 Blight."
+    - "Added Blight destroys 1 Presence of each Spirit there, and cascades if the land had Blight."
+    - "Empty Fear Pool: earn the top Fear Card and reset the markers."
+    - "Terror Level 1: win with no Invaders. Level 2: no Towns or Cities. Level 3: no Cities."
+  endGame: "You win the moment the current Terror Level's condition is met, or when you earn the last Fear Card. You lose if the last Blight leaves the Blight Card and it says you lose, if any Spirit has no Presence on the Island, or if you must Explore with an empty Invader Deck."
+  tips:
+    - "Read the track: lands that Explore now will Build next turn and Ravage the turn after."
+    - "Clear lone Explorers before they Build. One Explorer is easy to stop; a Town is not."
+    - "Keep Presence out of lands about to Ravage. The Blight it adds destroys Presence."
+diagramAlt: "Spirit Island setup for two players. On the left, the Invader board: 8 Fear markers in the Fear Pool, the 9-card Fear Deck in three groups of 3 split by two Terror Level dividers, Terror Level 1, and the Blight Card Healthy side up with Blight on it. Below those, the Ravage space is empty, the first Invader card sits face up on Build, and the Invader Deck sits on Explore, with an arrow showing the cards slide toward Ravage. On the right, the Island: two boards of eight lands each, side by side, with Ocean on the outer edges, each player's starting Presence, and Invaders and Dahan in some lands. Below the Island, the Minor and Major Power decks with space for discards, and the supply of Energy, Dahan, and Invaders. Along the bottom, each player's Spirit panel with Presence filling both tracks except the leftmost space, and a hand of 4 Unique Power Cards."
+games: [spirit-island]
+related:
+  - "best-cooperative-board-games"
+  - "quarterback-problem-cooperative-games"
+  - "co-op-games-without-quarterback-problem"
+  - "best-solo-board-games"
+  - "two-player-cooperative-board-games"
+  - "board-game-weight-explained"
+  - "how-to-teach-a-board-game"
+  - "engine-building-games"
+  - "expansions-worth-it"

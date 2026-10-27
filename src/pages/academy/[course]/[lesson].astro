@@ -1,28 +1,25 @@
 ---
-// One Academy lesson. Reuses the article reading layout (src/styles/reading.css)
-// and adds the lesson badge, the one idea, the Level check, the next-lesson
-// teaser, previous and next links, and the course signup form.
+// One game course lesson. Same reading layout as articles and the Catan
+// lessons: the lesson badge, the one idea, the body, the "at your next game"
+// line, the next-lesson teaser, the pager, the signup, and the unofficial
+// notice. Every lesson is a public page.
 import { render } from 'astro:content';
 import BaseLayout from '@/layouts/BaseLayout.astro';
-import AcademyForm from '@/components/AcademyForm.astro';
-import LevelCheck from '@/components/LevelCheck.astro';
-import PreviewNote from '@/components/PreviewNote.astro';
+import CourseForm from '@/components/CourseForm.astro';
+import CourseNotice from '@/components/CourseNotice.astro';
 import TableOfContents from '@/components/TableOfContents.astro';
 import {
-  COURSES,
-  getAllLessons,
-  getLessonPages,
-  hasPage,
-  lessonGames,
-  lessonMinutes,
-  lessonNumber,
-  lessonOutline,
-  lessonSlug,
-  lessonUrl,
-  levelOf,
-  type Course,
-  type Lesson,
-} from '@/lib/academy';
+  courseLessonGames,
+  courseLessonMinutes,
+  courseLessonSlug,
+  courseLessonUrl,
+  courseUrl,
+  getCourseLessons,
+  getGameCourses,
+  lessonHasPage,
+  type CourseLesson,
+  type GameCourse,
+} from '@/lib/courses';
 import { formatDate } from '@/lib/articles';
 import { SITE } from '@/lib/site';
 import '@/styles/prose.css';
@@ -30,37 +27,37 @@ import '@/styles/reading.css';
 
 export async function getStaticPaths() {
   const paths = [];
-  for (const course of COURSES) {
-    const all = await getAllLessons(course.slug);
-    for (const lesson of await getLessonPages(course.slug)) {
-      paths.push({ params: { course: course.slug, lesson: lessonSlug(lesson) }, props: { lesson, all, course } });
+  for (const course of await getGameCourses()) {
+    const all = await getCourseLessons(course.id);
+    for (const lesson of all.filter(lessonHasPage)) {
+      paths.push({ params: { course: course.id, lesson: courseLessonSlug(lesson) }, props: { lesson, all, course } });
     }
   }
   return paths;
 }
 
 interface Props {
-  lesson: Lesson;
-  all: Lesson[];
-  course: Course;
+  lesson: CourseLesson;
+  all: CourseLesson[];
+  course: GameCourse;
 }
 
 const { lesson, all, course } = Astro.props;
-const { title, description, pubDate, updatedDate, draft, level, levelName, order, oneIdea, levelCheck, nextTeaser } = lesson.data;
+const { title, description, pubDate, updatedDate, draft, order, oneIdea, tryThis, nextTeaser } = lesson.data;
 const { Content, headings } = await render(lesson);
+const d = course.data;
 
-const levelInfo = levelOf(course, level);
 const index = all.findIndex((l) => l.id === lesson.id);
 const prev = index > 0 ? all[index - 1] : undefined;
 const next = index < all.length - 1 ? all[index + 1] : undefined;
 const total = all.length;
-const minutes = lessonMinutes(lesson);
+const minutes = courseLessonMinutes(lesson);
 const showToc = headings.filter((h) => h.depth === 2).length >= 3;
-const outline = draft ? lessonOutline(lesson) : undefined;
-const courseUrl = `/academy/${course.slug}/`;
+const home = courseUrl(course);
+const levelInfo = d.levels?.find((l) => l.level === lesson.data.level);
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
-const slug = lessonSlug(lesson);
-const image = `/og/academy/${course.slug}/${slug}.png`;
+const image = `/og/academy/${course.id}/${courseLessonSlug(lesson)}.png`;
+const linkable = (l: CourseLesson) => lessonHasPage(l);
 
 const structuredData = [
   {
@@ -70,16 +67,16 @@ const structuredData = [
     description,
     url: canonical,
     learningResourceType: 'Lesson',
-    educationalLevel: `Level ${level}: ${levelName}`,
-    teaches: oneIdea ?? description,
+    teaches: oneIdea,
     timeRequired: `PT${minutes}M`,
     position: order,
     inLanguage: 'en-US',
     isAccessibleForFree: true,
+    about: d.game,
     datePublished: pubDate.toISOString(),
     dateModified: (updatedDate ?? pubDate).toISOString(),
     image: new URL(image, Astro.site).href,
-    isPartOf: { '@type': 'Course', name: course.title, url: new URL(courseUrl, SITE.url).href },
+    isPartOf: { '@type': 'Course', name: d.title, url: new URL(home, SITE.url).href },
     author: { '@id': `${SITE.url}/#organization` },
     publisher: { '@id': `${SITE.url}/#organization` },
   },
@@ -88,7 +85,7 @@ const structuredData = [
     '@type': 'BreadcrumbList',
     itemListElement: [
       { '@type': 'ListItem', position: 1, name: 'Academy', item: `${SITE.url}/academy/` },
-      { '@type': 'ListItem', position: 2, name: course.title, item: new URL(courseUrl, SITE.url).href },
+      { '@type': 'ListItem', position: 2, name: d.title, item: new URL(home, SITE.url).href },
       { '@type': 'ListItem', position: 3, name: title, item: canonical },
     ],
   },
@@ -99,9 +96,9 @@ const structuredData = [
   title={title}
   description={description}
   image={image}
-  imageAlt={`${course.title}, lesson ${order}: ${title}`}
-  noindex={draft}
-  games={lessonGames(course, lesson)}
+  imageAlt={`${d.title}, lesson ${order}: ${title}`}
+  noindex={draft || d.draft}
+  games={courseLessonGames(course, lesson)}
 >
   <script slot="head" type="application/ld+json" set:html={JSON.stringify(structuredData)} />
 
@@ -110,21 +107,19 @@ const structuredData = [
       <nav class="article__crumbs" aria-label="Breadcrumb">
         <a href="/academy/">Academy</a>
         <span aria-hidden="true">/</span>
-        <a href={courseUrl} data-pagefind-meta="category">
-          {course.title}
-        </a>
+        <a href={home} data-pagefind-meta="category">{d.title}</a>
       </nav>
       {draft && <p class="article__draft"><span class="draft-badge">Draft</span> Only visible on previews. Set <code>draft: false</code> to publish.</p>}
       <p class="lesson__badge" data-pagefind-ignore>
-        <span class="lesson__level">Level {level} &middot; {levelName}</span>
-        <span>Lesson {lessonNumber(lesson)} of {total}</span>
+        <span class="lesson__level">{levelInfo ? `Level ${levelInfo.level} · ${levelInfo.name}` : d.game}</span>
+        <span>Lesson {order} of {total}</span>
       </p>
       <h1>{title}</h1>
       <p class="article__lede">{description}</p>
       <p class="article__meta">
-        <span>{levelInfo.label}</span>
-        <span aria-hidden="true">&middot;</span>
         <span>{minutes} min read</span>
+        <span aria-hidden="true">&middot;</span>
+        <span>Rules as of {d.tcg?.rulesAsOf ?? d.rulesEdition}</span>
         <span aria-hidden="true">&middot;</span>
         <time datetime={(updatedDate ?? pubDate).toISOString()}>{updatedDate ? 'Updated ' : ''}{formatDate(updatedDate ?? pubDate)}</time>
       </p>
@@ -139,77 +134,61 @@ const structuredData = [
         )
       }
       <div class="article__body">
-        {
-          oneIdea && (
-            <aside class="lesson__idea" aria-label="The one idea">
-              <p class="eyebrow">The one idea</p>
-              <p class="lesson__idea-text">{oneIdea}</p>
-            </aside>
-          )
-        }
-
-        {
-          outline && (
-            <PreviewNote>
-              This lesson is a scaffold. Its outline, from the course plan:
-              <pre class="lesson__outline">{outline}</pre>
-            </PreviewNote>
-          )
-        }
-
+        <aside class="lesson__idea" aria-label="The one idea">
+          <p class="eyebrow">The one idea</p>
+          <p class="lesson__idea-text">{oneIdea}</p>
+        </aside>
         <div class="prose-article">
           <Content />
         </div>
-
-        {levelCheck && levelCheck.length > 0 && <LevelCheck questions={levelCheck} lesson={slug} />}
-
+        <aside class="lesson__try" aria-label="At your next game">
+          <p class="eyebrow">At your next game</p>
+          <p>{tryThis}</p>
+        </aside>
         {
           next && (
             <section class="lesson__next" aria-labelledby="lesson-next-title" data-pagefind-ignore>
               <p class="eyebrow">Next lesson</p>
-              <h2 id="lesson-next-title">
-                {hasPage(next) ? <a href={lessonUrl(next)}>{next.data.title}</a> : next.data.title}
-              </h2>
+              <h2 id="lesson-next-title">{linkable(next) ? <a href={courseLessonUrl(next)}>{next.data.title}</a> : next.data.title}</h2>
               {nextTeaser && <p>{nextTeaser}</p>}
-              {!hasPage(next) && <p class="lesson__soon">Coming soon. Sign up below to get the lessons by email as they are released.</p>}
+              {!linkable(next) && <p class="lesson__soon">Coming soon. Sign up below to get the lessons by email as they are released.</p>}
             </section>
           )
         }
-
         <nav class="lesson__pager" aria-label="Lessons" data-pagefind-ignore>
           {
-            prev ? (
+            prev && linkable(prev) ? (
               <div class="lesson__pager-item">
                 <span class="lesson__pager-label">Previous</span>
-                {hasPage(prev) ? <a href={lessonUrl(prev)}>{prev.data.title}</a> : <span>{prev.data.title}</span>}
+                <a href={courseLessonUrl(prev)}>{prev.data.title}</a>
               </div>
             ) : (
               <div class="lesson__pager-item">
                 <span class="lesson__pager-label">Course</span>
-                <a href={courseUrl}>All {total} lessons</a>
+                <a href={home}>All {total} lessons</a>
               </div>
             )
           }
           {
-            next ? (
+            next && linkable(next) ? (
               <div class="lesson__pager-item lesson__pager-item--next">
                 <span class="lesson__pager-label">Next</span>
-                {hasPage(next) ? <a href={lessonUrl(next)}>{next.data.title}</a> : <span>{next.data.title}</span>}
+                <a href={courseLessonUrl(next)}>{next.data.title}</a>
               </div>
             ) : (
               <div class="lesson__pager-item lesson__pager-item--next">
                 <span class="lesson__pager-label">Course</span>
-                <a href={courseUrl}>Back to the course</a>
+                <a href={home}>Back to the course</a>
               </div>
             )
           }
         </nav>
-
         <section class="article__signup lesson__signup" aria-labelledby="lesson-signup-title" data-pagefind-ignore>
-          <h2 id="lesson-signup-title">Get every lesson by email.</h2>
-          <p>{course.promise} Free, one short lesson at a time.</p>
-          <AcademyForm course={course.slug} id="lesson-signup" tone="plain" />
+          <h2 id="lesson-signup-title">{d.format === 'tcg' ? 'Want the course by email?' : 'Get every lesson by email.'}</h2>
+          <p>{d.promise} Free, one short lesson at a time.</p>
+          <CourseForm course={course.id} id="lesson-signup" buttonLabel={d.format === 'tcg' ? 'Send me the course' : 'Send me the lessons'} />
         </section>
+        <CourseNotice text={d.notice} />
       </div>
     </div>
   </article>
@@ -238,15 +217,26 @@ const structuredData = [
     color: var(--color-on-primary);
   }
 
+  .lesson__idea,
+  .lesson__try {
+    padding: var(--space-5) var(--space-6);
+    border-radius: var(--radius-md);
+  }
+
   .lesson__idea {
     margin: 0 0 var(--space-7);
-    padding: var(--space-5) var(--space-6);
     border-left: 4px solid var(--color-cta);
-    border-radius: var(--radius-md);
     background: var(--color-accent-soft);
   }
 
-  .lesson__idea .eyebrow {
+  .lesson__try {
+    margin: var(--space-7) 0 0;
+    border: 1px solid var(--color-primary);
+    background: var(--color-surface);
+  }
+
+  .lesson__idea .eyebrow,
+  .lesson__try .eyebrow {
     margin-bottom: var(--space-2);
   }
 
@@ -257,11 +247,9 @@ const structuredData = [
     line-height: var(--leading-snug);
   }
 
-  .lesson__outline {
-    margin: var(--space-3) 0 0;
-    white-space: pre-wrap;
-    font-family: inherit;
-    font-size: var(--text-sm);
+  .lesson__try p:last-child {
+    margin: 0;
+    font-size: var(--text-lg);
   }
 
   .lesson__next {
@@ -295,9 +283,6 @@ const structuredData = [
   .lesson__pager-item {
     display: grid;
     gap: var(--space-1);
-    padding: var(--space-4) var(--space-5);
-    border: 1px solid var(--color-border);
-    border-radius: var(--radius-card);
   }
 
   .lesson__pager-item--next {
@@ -305,22 +290,14 @@ const structuredData = [
   }
 
   .lesson__pager-label {
-    font-size: var(--text-sm);
-    font-weight: 600;
+    font-size: var(--text-xs);
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
     color: var(--color-text-muted);
   }
 
-  .lesson__signup p {
-    margin-bottom: var(--space-4);
-  }
-
-  @media (max-width: 40rem) {
-    .lesson__pager {
-      grid-template-columns: 1fr;
-    }
-
-    .lesson__pager-item--next {
-      text-align: left;
-    }
+  .lesson__signup {
+    margin-top: var(--space-8);
   }
 </style>

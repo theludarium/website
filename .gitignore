@@ -10,6 +10,6 @@ dist/
 # Local editor and agent config
 .claude/
 
-# Wrangler local state and secrets
-.wrangler/
+# Local Cloudflare state (wrangler pages dev, local D1)
 .dev.vars
+.wrangler/

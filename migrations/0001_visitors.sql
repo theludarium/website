@@ -1,9 +1,10 @@
--- Visiting-company tracker. Apply with:
---   npx wrangler d1 migrations apply ludarium-visitors --local    (your machine)
---   npx wrangler d1 migrations apply ludarium-visitors --remote   (Cloudflare)
+-- Visiting-company tracker. Tables are prefixed vc_ because they share the
+-- ludarium-site database with Where We Play (wwp_). Apply with:
+--   npx wrangler d1 migrations apply ludarium-site --local    (your machine)
+--   npx wrangler d1 migrations apply ludarium-site --remote   (Cloudflare)
 
 -- One row per logged page view. No IP address is stored, only a salted hash.
-CREATE TABLE visits (
+CREATE TABLE vc_visits (
   id           INTEGER PRIMARY KEY AUTOINCREMENT,
   at           TEXT    NOT NULL,          -- ISO 8601, UTC
   path         TEXT    NOT NULL,
@@ -17,15 +18,15 @@ CREATE TABLE visits (
   region       TEXT,
   region_code  TEXT,
   city         TEXT,
-  company_id   INTEGER REFERENCES companies(id)  -- NULL when the network was an ISP, host, or VPN
+  company_id   INTEGER REFERENCES vc_companies(id)  -- NULL when the network was an ISP, host, or VPN
 );
-CREATE INDEX visits_at ON visits (at);
-CREATE INDEX visits_company_at ON visits (company_id, at);
+CREATE INDEX vc_visits_at ON vc_visits (at);
+CREATE INDEX vc_visits_company_at ON vc_visits (company_id, at);
 
 -- What we learned about a network, keyed by the same hash. Rows older than
 -- 30 days are ignored and purged by the digest Worker, so a lookup is paid
 -- for at most once a month per visitor.
-CREATE TABLE ip_cache (
+CREATE TABLE vc_ip_cache (
   ip_hash      TEXT    PRIMARY KEY,
   looked_up_at TEXT    NOT NULL,
   asn          TEXT,
@@ -36,10 +37,10 @@ CREATE TABLE ip_cache (
   kind         TEXT,                      -- business, education, government
   reason       TEXT                       -- why it was kept or dropped
 );
-CREATE INDEX ip_cache_looked_up_at ON ip_cache (looked_up_at);
+CREATE INDEX vc_ip_cache_looked_up_at ON vc_ip_cache (looked_up_at);
 
 -- One row per company, kept current on every visit.
-CREATE TABLE companies (
+CREATE TABLE vc_companies (
   id          INTEGER PRIMARY KEY AUTOINCREMENT,
   key         TEXT    NOT NULL UNIQUE,    -- domain, else ASN, else name
   name        TEXT    NOT NULL,
@@ -55,4 +56,4 @@ CREATE TABLE companies (
   visit_count INTEGER NOT NULL DEFAULT 0,
   pages       TEXT    NOT NULL DEFAULT '[]'  -- JSON array of distinct paths viewed
 );
-CREATE INDEX companies_last_seen ON companies (last_seen);
+CREATE INDEX vc_companies_last_seen ON vc_companies (last_seen);

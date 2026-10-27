@@ -1,0 +1,287 @@
+---
+// A scatter chart for report articles (Shelf Life: rating-count growth against
+// average-rating change, one point per game). Up to three groups in fixed
+// order (--chart-1..3), a legend, a zero line on y, selective direct labels,
+// a hover and focus tooltip, and a table view. Usage in MDX:
+//   <ScatterChart title="..." xLabel="..." yLabel="..." groups={['Graduated','Faded','Too early']}
+//     points={[{ label: 'Game', x: 3.2, y: 0.1, group: 'Graduated' }]} labelled={['Game']} />
+import { compact, niceTicks } from '@/lib/chart';
+
+interface Point {
+  label: string;
+  x: number;
+  y: number;
+  group: string;
+}
+
+interface Props {
+  title: string;
+  subtitle?: string;
+  xLabel: string;
+  yLabel: string;
+  groups: string[];
+  points: Point[];
+  /** Point labels to print beside their dots; keep it to the few the story is about. */
+  labelled?: string[];
+  xSuffix?: string;
+  ySuffix?: string;
+  source?: string;
+}
+
+const { title, subtitle, xLabel, yLabel, groups, points, labelled = [], xSuffix = '', ySuffix = '', source } = Astro.props;
+if (groups.length > 3) throw new Error('ScatterChart: at most three groups; fold the rest into one');
+
+const W = 640;
+const H = 400;
+const m = { top: 16, right: 24, bottom: 52, left: 64 };
+const xs = points.map((p) => p.x);
+const ys = points.map((p) => p.y);
+const xTicks = niceTicks(Math.min(0, ...xs), Math.max(...xs));
+const yTicks = niceTicks(Math.min(0, ...ys), Math.max(0, ...ys));
+const [x0, x1] = [xTicks[0], xTicks[xTicks.length - 1]];
+const [y0, y1] = [yTicks[0], yTicks[yTicks.length - 1]];
+const sx = (v: number) => m.left + ((v - x0) / (x1 - x0)) * (W - m.left - m.right);
+const sy = (v: number) => H - m.bottom - ((v - y0) / (y1 - y0)) * (H - m.top - m.bottom);
+const color = (g: string) => `var(--chart-${groups.indexOf(g) + 1})`;
+const fmt = (v: number, suffix: string) => `${compact(v)}${suffix}`;
+const id = `scatter-${Math.abs([...title].reduce((h, c) => (h * 31 + c.charCodeAt(0)) | 0, 7))}`;
+---
+
+<figure class="chart" id={id} data-chart>
+  <figcaption class="chart__head">
+    <span class="chart__title">{title}</span>
+    {subtitle && <span class="chart__subtitle">{subtitle}</span>}
+  </figcaption>
+  <ul class="chart__legend" aria-label="Legend">
+    {
+      groups.map((g) => (
+        <li>
+          <span class="chart__swatch" style={`background:${color(g)}`} aria-hidden="true" />
+          {g}
+        </li>
+      ))
+    }
+  </ul>
+  <div class="chart__plot">
+    <svg viewBox={`0 0 ${W} ${H}`} role="img" aria-label={`${title}. ${points.length} points; see the table below for every value.`}>
+      {
+        yTicks.map((t) => (
+          <g>
+            <line class={t === 0 ? 'chart__zero' : 'chart__grid'} x1={m.left} x2={W - m.right} y1={sy(t)} y2={sy(t)} />
+            <text class="chart__tick" x={m.left - 8} y={sy(t) + 4} text-anchor="end">{fmt(t, ySuffix)}</text>
+          </g>
+        ))
+      }
+      {
+        xTicks.map((t) => (
+          <g>
+            <line class="chart__grid" x1={sx(t)} x2={sx(t)} y1={m.top} y2={H - m.bottom} />
+            <text class="chart__tick" x={sx(t)} y={H - m.bottom + 18} text-anchor="middle">{fmt(t, xSuffix)}</text>
+          </g>
+        ))
+      }
+      <text class="chart__axis" x={(m.left + W - m.right) / 2} y={H - 10} text-anchor="middle">{xLabel}</text>
+      <text class="chart__axis" transform={`translate(16 ${(m.top + H - m.bottom) / 2}) rotate(-90)`} text-anchor="middle">{yLabel}</text>
+      {
+        points.map((p) => (
+          <g
+            class="chart__point"
+            tabindex="0"
+            data-tip={`${p.label}: ${xLabel} ${compact(p.x)}${xSuffix}, ${yLabel} ${p.y > 0 ? '+' : ''}${compact(p.y)}${ySuffix} (${p.group})`}
+            aria-label={`${p.label}, ${p.group}: ${compact(p.x)}${xSuffix}, ${p.y > 0 ? '+' : ''}${compact(p.y)}${ySuffix}`}
+          >
+            <circle class="chart__hit" cx={sx(p.x)} cy={sy(p.y)} r="12" />
+            <circle class="chart__dot" cx={sx(p.x)} cy={sy(p.y)} r="5" style={`fill:${color(p.group)}`} />
+            {labelled.includes(p.label) && (
+              <text class="chart__label" x={sx(p.x) + 9} y={sy(p.y) - 8}>
+                {p.label}
+              </text>
+            )}
+          </g>
+        ))
+      }
+    </svg>
+    <div class="chart__tip" role="status" hidden />
+  </div>
+  <details class="chart__table">
+    <summary>Show the data as a table</summary>
+    <table>
+      <thead><tr><th scope="col">Game</th><th scope="col">Group</th><th scope="col">{xLabel}</th><th scope="col">{yLabel}</th></tr></thead>
+      <tbody>
+        {points.map((p) => <tr><td>{p.label}</td><td>{p.group}</td><td>{compact(p.x)}{xSuffix}</td><td>{p.y > 0 ? '+' : ''}{compact(p.y)}{ySuffix}</td></tr>)}
+      </tbody>
+    </table>
+  </details>
+  {source && <p class="chart__source">Source: {source}</p>}
+</figure>
+
+<script>
+  // One shared tooltip per chart: follows the hovered or focused mark.
+  for (const chart of document.querySelectorAll<HTMLElement>('[data-chart]')) {
+    const tip = chart.querySelector<HTMLElement>('.chart__tip');
+    const plot = chart.querySelector<HTMLElement>('.chart__plot');
+    if (!tip || !plot) continue;
+    const show = (mark: Element) => {
+      const dot = mark.querySelector('.chart__dot, .chart__bar') as SVGGraphicsElement | null;
+      if (!dot) return;
+      const box = dot.getBoundingClientRect();
+      const host = plot.getBoundingClientRect();
+      tip.textContent = mark.getAttribute('data-tip');
+      tip.hidden = false;
+      const left = Math.min(Math.max(box.left - host.left + box.width / 2, 80), host.width - 80);
+      tip.style.left = `${left}px`;
+      tip.style.top = `${box.top - host.top - 8}px`;
+    };
+    for (const mark of chart.querySelectorAll('[data-tip]')) {
+      mark.addEventListener('pointerenter', () => show(mark));
+      mark.addEventListener('focus', () => show(mark));
+      mark.addEventListener('pointerleave', () => (tip.hidden = true));
+      mark.addEventListener('blur', () => (tip.hidden = true));
+    }
+  }
+</script>
+
+<style is:global>
+  .chart {
+    margin: var(--space-6) 0;
+    padding: var(--space-5);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-card);
+    background: var(--color-surface);
+  }
+
+  .chart__head {
+    display: grid;
+    gap: 2px;
+    margin-bottom: var(--space-3);
+  }
+
+  .chart__title {
+    font-weight: 700;
+  }
+
+  .chart__subtitle,
+  .chart__source {
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+
+  .chart__legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2) var(--space-4);
+    margin: 0 0 var(--space-3);
+    padding: 0;
+    list-style: none;
+    font-size: var(--text-sm);
+  }
+
+  .chart__legend li {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-2);
+  }
+
+  .chart__swatch {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+  }
+
+  .chart__plot {
+    position: relative;
+  }
+
+  .chart__plot svg {
+    display: block;
+    width: 100%;
+    height: auto;
+    overflow: visible;
+  }
+
+  .chart__grid {
+    stroke: var(--chart-grid);
+    stroke-width: 1;
+  }
+
+  .chart__zero {
+    stroke: var(--color-stone);
+    stroke-width: 1;
+  }
+
+  .chart__tick,
+  .chart__axis,
+  .chart__label,
+  .chart__value {
+    fill: var(--color-text-muted);
+    font-family: var(--font-body);
+    font-size: 12px;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .chart__axis {
+    font-size: 13px;
+  }
+
+  .chart__label,
+  .chart__value {
+    fill: var(--color-text);
+    font-size: 12px;
+  }
+
+  .chart__dot {
+    stroke: var(--color-surface);
+    stroke-width: 2;
+  }
+
+  .chart__hit {
+    fill: transparent;
+  }
+
+  .chart__point:focus {
+    outline: none;
+  }
+
+  .chart__point:focus .chart__dot,
+  .chart__point:hover .chart__dot {
+    stroke: var(--color-text);
+  }
+
+  .chart__tip {
+    position: absolute;
+    z-index: 2;
+    max-width: 18rem;
+    padding: var(--space-2) var(--space-3);
+    border-radius: var(--radius-md);
+    background: var(--color-text);
+    color: var(--color-bg);
+    font-size: var(--text-sm);
+    line-height: 1.35;
+    transform: translate(-50%, -100%);
+    pointer-events: none;
+  }
+
+  .chart__table {
+    margin-top: var(--space-3);
+    font-size: var(--text-sm);
+  }
+
+  .chart__table summary {
+    cursor: pointer;
+    color: var(--color-text-muted);
+  }
+
+  .chart__table table {
+    width: 100%;
+    margin-top: var(--space-2);
+    border-collapse: collapse;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .chart__table th,
+  .chart__table td {
+    padding: 4px 8px;
+    border-bottom: 1px solid var(--color-border);
+    text-align: left;
+  }
+</style>

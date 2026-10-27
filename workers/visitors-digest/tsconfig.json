@@ -10,5 +10,5 @@
     "skipLibCheck": true,
     "lib": ["ESNext", "DOM"]
   },
-  "include": ["src/**/*", "../../src/server/visitors/**/*"]
+  "include": ["src/**/*", "../../src/server/visitors/**/*", "../../src/server/notify.ts"]
 }

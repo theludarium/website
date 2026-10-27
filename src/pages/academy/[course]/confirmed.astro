@@ -1,0 +1,46 @@
+---
+// Where Kit sends people after they click the confirm button in a game
+// course's double opt-in email. Not in search results or the sitemap.
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageIntro from '@/components/PageIntro.astro';
+import { courseLessonUrl, courseUrl, getCourseLessons, getGameCourses, lessonHasPage, type GameCourse } from '@/lib/courses';
+
+export async function getStaticPaths() {
+  return (await getGameCourses()).map((course) => ({ params: { course: course.id }, props: { course } }));
+}
+
+interface Props {
+  course: GameCourse;
+}
+
+const { course } = Astro.props;
+const d = course.data;
+const lessons = await getCourseLessons(course.id);
+const first = lessons.find((l) => l.data.order === 1);
+---
+
+<BaseLayout
+  title="You're in"
+  description={`You are subscribed to ${d.title}, the free ${d.game} course from The Ludarium Academy. Lesson one is ready to read now.`}
+  noindex
+>
+  <PageIntro
+    eyebrow="Confirmed"
+    title="You're in."
+    lede={`Your ${d.game} lessons arrive by email, two a week. Want a head start? Lesson one is ready now.`}
+  >
+    <div class="thanks-actions">
+      {first && lessonHasPage(first) && <a class="button" href={courseLessonUrl(first)}>Read lesson one</a>}
+      <a class="button button--ghost" href={courseUrl(course)}>See all {lessons.length} lessons</a>
+    </div>
+  </PageIntro>
+</BaseLayout>
+
+<style>
+  .thanks-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-3);
+    margin-top: var(--space-6);
+  }
+</style>

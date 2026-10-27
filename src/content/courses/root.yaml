@@ -1,0 +1,103 @@
+title: "Four Factions, One Forest"
+game: "Root"
+format: masterclass
+order: 330
+wave: "4"
+draft: false
+publisher: "Leder Games"
+notice: "Unofficial. Not affiliated with or authorized by Leder Games. Root is a trademark of Leder Games."
+rulesEdition: "The Law of Root (October 13, 2025) and the Learning to Play guide (Leder Games)"
+rulesSource: "https://cdn.shopify.com/s/files/1/0106/0162/7706/files/Root_Base_Law_Oct_2025.pdf?v=1774903756"
+players: "2 to 4"
+playTime: "60 to 90 minutes"
+ages: "Ages 14 and up"
+promise: "Learn Root and teach it in one sitting, master each base faction, then climb to battle odds, dominance, the faction draft, and your first Root tournament."
+description: "A free Root course: learn and teach the rules, master the four base factions, battle odds and dominance, then draft, read new maps, and enter a tournament."
+audience:
+  - "New players who want the shared rules clear before they pick a faction."
+  - "Hosts who teach Root and want the whole table playing by the second round."
+  - "Players who keep losing with one faction and want to know why."
+  - "Groups ready for expansion factions, tournaments, or online play."
+levels:
+  - level: 0
+    name: "Sapling"
+    label: "Learn to play"
+    outcome: "Set up, teach, and finish a four-faction game with the shared rules right and nobody lost on their own faction board."
+  - level: 1
+    name: "Forager"
+    label: "Beginner"
+    outcome: "Play each of the four base factions with a plan: how it scores, what it fears, and what its first turns should do."
+  - level: 2
+    name: "Pathfinder"
+    label: "Intermediate"
+    outcome: "Pick fights with known odds, craft with purpose, read who is leading, and set up fair games at two and three players."
+  - level: 3
+    name: "Warden"
+    label: "Advanced"
+    outcome: "Time a dominance card, track ambushes and hands, count every faction's race to 30, and build balanced games with expansion factions."
+  - level: 4
+    name: "Contender"
+    label: "Tournament ready"
+    outcome: "Draft factions under Advanced Setup, play any map with its landmarks, and know the Exiles and Partisans deck that events use."
+  - level: 5
+    name: "Champion"
+    label: "The championship path"
+    outcome: "Find a Root tournament, practice online with purpose, and follow a six-week plan into your first competitive event."
+afterLesson3: "Teach a first game from the Learning to Play guide and play it without the rules slips that trip up most new tables."
+afterLesson8: "Play all four base factions with a plan, and choose your battles knowing the odds before the dice roll."
+faq:
+  - q: "How many players does Root need?"
+    a: "The base game plays 2 to 4. The Learning to Play guide drops the Vagabond for three players, and also the Woodland Alliance for two, which leaves the Marquise de Cat against the Eyrie Dynasties. The expansions add factions and pieces for up to six."
+  - q: "What is the difference between the Law of Root and the Learning to Play guide?"
+    a: "The Learning to Play guide teaches the game in a friendly voice with many examples. The Law of Root is the complete, numbered reference. If they disagree, follow the Law, and if a card disagrees with the Law, follow the card."
+  - q: "How do you win Root?"
+    a: "The first player to reach 30 victory points wins immediately, even in the middle of a turn. A player with at least 10 points can instead activate a dominance card and win by meeting its goal, such as ruling three clearings of its suit, at the start of their Birdsong."
+  - q: "What does it mean to rule a clearing in Root?"
+    a: "You rule a clearing when you have more warriors and buildings there than any other player. Tokens and the Vagabond pawn do not count. On a tie nobody rules, except that the Eyrie rule clearings where they are tied for the most."
+  - q: "Can you play Root with two players?"
+    a: "Yes. The guide recommends the Marquise against the Eyrie, with the four dominance cards removed. It also suggests playing two games, swapping factions in between, and adding both scores to find the winner."
+teachSheet:
+  goal: "Be the first to 30 victory points, with each faction scoring its own way, or win with an activated dominance card."
+  setup:
+    - "Pick factions: all four for four players. Drop the Vagabond for three, and the Alliance too for two."
+    - "Seat players and pick the first player at random. Put every score marker on 0."
+    - "Shuffle the 54-card deck and deal 3 cards each. With two players, remove the dominance cards first."
+    - "Put 4 ruins on the map slots marked R and 12 items on the item supply."
+    - "Set up in order: Marquise, Eyrie, Alliance, Vagabond, following the back of each faction board."
+    - "Marquise: keep in a corner, a warrior in every clearing but the far corner, 3 buildings nearby."
+    - "Eyrie: a roost and 6 warriors in the opposite corner. Alliance: 3 cards as supporters."
+    - "Vagabond: pick a character, pawn in any forest, 3 quests face up, an item under each ruin."
+  turn:
+    - "Birdsong: do the start-of-turn steps on your faction board."
+    - "Daylight: take your main actions, crafting included, as your faction board lists them."
+    - "Evening: finish your faction's steps, draw cards, then discard down to 5."
+    - "Move: warriors go from one clearing to an adjacent one. You must rule the start or the end."
+    - "Rule: most warriors plus buildings in a clearing. On a tie, nobody rules, except the Eyrie."
+    - "Battle: roll both dice. Attacker deals the higher, defender the lower, capped by warriors present."
+    - "Craft: activate your crafting pieces in clearings matching the suits on the card's corner."
+    - "Birds are wild: a bird card counts as fox, rabbit, or mouse."
+  scoring:
+    - "First to 30 victory points wins immediately."
+    - "Anyone: 1 point per enemy building or token removed."
+    - "Anyone: crafted items score the points on the card (the Eyrie score 1)."
+    - "Marquise: points for each building placed, rising as each track empties."
+    - "Eyrie: points each Evening for the roosts on the map."
+    - "Alliance: points for each sympathy token placed."
+    - "Vagabond: aiding factions, quests, exploring ruins, and battling Hostile factions."
+    - "Dominance: at 10 or more points, trade your score for a goal of ruling clearings."
+  endGame: "The game ends the moment a player reaches 30 points, mid-turn included, or meets an activated dominance card's goal at the start of their Birdsong."
+  tips:
+    - "Teach the shared rules together, then give each player a few minutes with their own faction board."
+    - "Scores are public. Before each turn, check who is closest to 30 and who can stop them."
+    - "Explain dominance cards when someone reaches 10 points, not before."
+diagramAlt: "An abstract Root setup on the Autumn map: twelve clearings linked by simplified paths. The Marquise keep and a sawmill sit in the top-left corner, with a workshop and a recruiter in the clearings next to it and one Marquise warrior in every clearing except the bottom-right corner. The Eyrie roost and six warriors hold the bottom-right corner, and the Vagabond pawn stands in a forest. A side panel lists the scores at 0, the 12-item supply, three cards for each player, the Alliance's three supporters, the Vagabond's three quests, and the four ruins."
+games: [root]
+related:
+  - "area-control-board-games"
+  - "area-majority-vs-area-control"
+  - "kingmaking-board-games"
+  - "take-that-games"
+  - "euro-games-vs-ameritrash"
+  - "theme-vs-mechanics"
+  - "how-to-teach-a-board-game"
+  - "expansions-worth-it"

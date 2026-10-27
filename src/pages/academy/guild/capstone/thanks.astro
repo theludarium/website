@@ -1,0 +1,28 @@
+---
+// After a capstone is sent. Not in search results or the sitemap.
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageIntro from '@/components/PageIntro.astro';
+---
+
+<BaseLayout
+  title="Capstone received"
+  description="Your Guild of Game Guides capstone is in. We read every one and reply within about a week, with your Expert Game Guide certificate if you earned it."
+  noindex
+>
+  <PageIntro
+    eyebrow="Capstone received"
+    title="Thank you for teaching."
+    lede="We read every capstone and reply by email within about a week. If your newcomer said yes to another game, your Expert Game Guide certificate comes with the reply."
+  >
+    <p class="capstone-thanks">In the meantime, put that next game on the calendar. That is the whole point.</p>
+    <a class="button" href="/academy/guild/">Back to the Guild</a>
+  </PageIntro>
+</BaseLayout>
+
+<style>
+  .capstone-thanks {
+    max-width: var(--width-content);
+    margin-bottom: var(--space-6);
+    color: var(--color-text-muted);
+  }
+</style>

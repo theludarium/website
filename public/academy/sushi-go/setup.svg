@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-labelledby="t d">
+  <title id="t">Sushi Go! setup</title>
+  <desc id="d">Sushi Go! for four players at the start of a round: a face-down draw pile in the middle with a discard pile beside it, a secret hand of 8 cards in front of each player, arrows showing hands passed to the left, a score sheet, a hand-size chart by player count, and a key to the 108-card deck.</desc>
+  <rect width="480" height="320" fill="#F6EFE3"/>
+  <g font-family="system-ui, sans-serif" font-size="12" fill="#2B1E16">
+
+    <!-- Deck key -->
+    <rect x="16" y="8" width="448" height="92" rx="10" fill="none" stroke="#2B1E16" stroke-width="1.5"/>
+    <text x="28" y="27" font-size="13" font-weight="700">The deck: 108 cards</text>
+    <text x="28" y="46">14 Tempura</text>
+    <text x="28" y="62">14 Sashimi</text>
+    <text x="28" y="78">14 Dumpling</text>
+    <text x="28" y="94">10 Pudding</text>
+    <text x="140" y="46">6 Maki (1 roll)</text>
+    <text x="140" y="62">12 Maki (2 rolls)</text>
+    <text x="140" y="78">8 Maki (3 rolls)</text>
+    <text x="140" y="94">6 Wasabi</text>
+    <text x="268" y="46">10 Salmon Nigiri</text>
+    <text x="268" y="62">5 Squid Nigiri</text>
+    <text x="268" y="78">5 Egg Nigiri</text>
+    <text x="268" y="94">4 Chopsticks</text>
+    <rect x="384" y="36" width="70" height="58" rx="6" fill="#2F5D50"/>
+    <text x="419" y="52" fill="#F6EFE3" text-anchor="middle" font-weight="700" font-size="11">Cards each</text>
+    <text x="419" y="66" fill="#F6EFE3" text-anchor="middle" font-size="11">2 players: 10</text>
+    <text x="419" y="78" fill="#F6EFE3" text-anchor="middle" font-size="11">3: 9  4: 8</text>
+    <text x="419" y="90" fill="#F6EFE3" text-anchor="middle" font-size="11">5 players: 7</text>
+
+    <!-- Table -->
+    <rect x="16" y="108" width="318" height="204" rx="14" fill="none" stroke="#B9AD9C" stroke-width="1.2" stroke-dasharray="4 4"/>
+    <text x="28" y="127" fill="#2F5D50" font-weight="700">Four players, start of a round</text>
+
+    <!-- Draw pile -->
+    <g stroke="#2B1E16" stroke-width="1" fill="#B9AD9C">
+      <rect x="138" y="190" width="28" height="38" rx="4"/>
+      <rect x="135" y="187" width="28" height="38" rx="4"/>
+      <rect x="132" y="184" width="28" height="38" rx="4"/>
+    </g>
+    <text x="146" y="242" text-anchor="middle" font-weight="700">Draw pile</text>
+    <!-- Discard -->
+    <rect x="196" y="184" width="28" height="38" rx="4" fill="none" stroke="#2B1E16" stroke-dasharray="3 3"/>
+    <text x="210" y="242" text-anchor="middle">Discard</text>
+
+    <!-- Hands: top, right, bottom, left -->
+    <g fill="#2F5D50" stroke="#F6EFE3" stroke-width="1">
+      <rect x="150" y="134" width="14" height="20" rx="2"/><rect x="160" y="134" width="14" height="20" rx="2"/><rect x="170" y="134" width="14" height="20" rx="2"/><rect x="180" y="134" width="14" height="20" rx="2"/>
+      <rect x="150" y="270" width="14" height="20" rx="2"/><rect x="160" y="270" width="14" height="20" rx="2"/><rect x="170" y="270" width="14" height="20" rx="2"/><rect x="180" y="270" width="14" height="20" rx="2"/>
+      <rect x="44" y="180" width="20" height="14" rx="2"/><rect x="44" y="190" width="20" height="14" rx="2"/><rect x="44" y="200" width="20" height="14" rx="2"/><rect x="44" y="210" width="20" height="14" rx="2"/>
+      <rect x="282" y="180" width="20" height="14" rx="2"/><rect x="282" y="190" width="20" height="14" rx="2"/><rect x="282" y="200" width="20" height="14" rx="2"/><rect x="282" y="210" width="20" height="14" rx="2"/>
+    </g>
+    <text x="172" y="304" text-anchor="middle" font-weight="700">Your hand: 8 cards, secret</text>
+
+    <!-- Pass-left arrows (clockwise when you sit at the bottom) -->
+    <g fill="none" stroke="#E0A23B" stroke-width="2.5" stroke-linecap="round">
+      <path d="M120 270 Q 84 262 74 236"/>
+      <path d="M74 170 Q 84 146 120 140"/>
+      <path d="M226 140 Q 262 146 272 170"/>
+      <path d="M272 236 Q 262 262 226 270"/>
+    </g>
+    <g fill="#E0A23B">
+      <path d="M70 238 L74 228 L80 238 Z"/>
+      <path d="M120 135 L130 140 L120 145 Z"/>
+      <path d="M268 168 L272 178 L278 168 Z"/>
+      <path d="M226 265 L216 270 L226 275 Z"/>
+    </g>
+    <text x="238" y="127" fill="#8a5a12" font-weight="700">Pass hands left</text>
+  </g>
+
+  <!-- Side panel: a turn and scoring -->
+  <g font-family="system-ui, sans-serif" font-size="12" fill="#2B1E16">
+    <rect x="344" y="108" width="120" height="204" rx="12" fill="#FFFFFF" stroke="#2B1E16" stroke-width="1.2"/>
+    <text x="356" y="127" font-weight="700">Each turn</text>
+    <text x="356" y="144">1. Pick 1 card,</text>
+    <text x="356" y="158">face down</text>
+    <text x="356" y="174">2. All reveal</text>
+    <text x="356" y="188">at once</text>
+    <text x="356" y="204">3. Pass the rest</text>
+    <text x="356" y="218">to your left</text>
+    <line x1="356" y1="230" x2="452" y2="230" stroke="#B9AD9C"/>
+    <text x="356" y="248" font-weight="700">3 rounds</text>
+    <text x="356" y="264">Score each round</text>
+    <text x="356" y="280">Keep pudding until</text>
+    <text x="356" y="294">the game ends</text>
+  </g>
+</svg>

@@ -1,0 +1,99 @@
+title: "Back to the Duel"
+game: "Yu-Gi-Oh! TCG"
+format: tcg
+order: 550
+wave: "TCG C"
+draft: false
+publisher: "Konami"
+# No Konami fan content policy for the TCG was found, so this uses the default notice pattern: game named descriptively, no logos or card art. Konami's Terms of Use say "YU-GI-OH!" is owned by "Konami or its licensors". Levi to confirm wording.
+notice: "Unofficial. Not affiliated with or endorsed by Konami. Yu-Gi-Oh! is a trademark of Konami or its licensors."
+rulesEdition: "Yu-Gi-Oh! TCG Official Rulebook, Version 10, read with Konami's 2021 Rules Update"
+rulesSource: "https://img.yugioh-card.com/en/downloads/rulebook/SD_RuleBook_EN_10.pdf"
+players: "2"
+playTime: "Store events give each best-of-three match a 50-minute round"
+# Konami's FAQ for Parents says the TCG "is designed for kids ages 6+". VERIFY: the age rating printed on the 2-Player Starter Set box matches.
+ages: "Ages 6 and up"
+promise: "Come back to Yu-Gi-Oh! after years away, catch up on Link and Pendulum Summoning and the modern pace, and walk into an Official Tournament Store ready to duel."
+description: "A free course for players returning to the Yu-Gi-Oh! TCG: the starter to buy, what changed with Link and Pendulum, reading a card, and your first store event."
+audience:
+  - "Players who loved Yu-Gi-Oh! years ago and want to know what changed before they buy back in."
+  - "Parents and older siblings who learned the old rules and want to play with a kid who knows the new ones."
+  - "Anyone with a box of old cards who is curious whether they still work."
+  - "Duelists nervous about walking into an Official Tournament Store for the first time in years."
+afterLesson3: "Pick the right first product, play a full Duel by today's rules, Extra Monster Zone included, and read any modern card."
+afterLesson8: "Teach the game, resolve Chains and Extra Deck Summons correctly, avoid the classic slips, and upgrade a starter into a focused deck on a budget."
+levels:
+  - level: 0
+    name: "Returner"
+    label: "Learn to play"
+    outcome: "Pick the right first product, play a full Duel by today's rules, read any modern card, and teach a friend in ten minutes."
+  - level: 1
+    name: "Rival"
+    label: "Beginner"
+    outcome: "Play clean Duels at home: build and resolve Chains correctly, make every Extra Deck Summon by hand, and turn a starter into a focused deck."
+  - level: 2
+    name: "Tactician"
+    label: "Intermediate"
+    outcome: "Build a consistent 40-card deck with real odds behind it, choose first or second on purpose, and play your first locals and new set weekend."
+  - level: 3
+    name: "Strategist"
+    label: "Advanced"
+    outcome: "Spend hand traps at the right moment, break a full board, side well between Duels, and handle the rulings that decide close games."
+  - level: 4
+    name: "Contender"
+    label: "Tournament ready"
+    outcome: "Play a clocked Match under Konami's Tournament Policy without penalties, read the metagame, build for Genesys, and play to your outs."
+  - level: 5
+    name: "Champion"
+    label: "The championship path"
+    outcome: "Know the road from your store to the World Championship, and prepare for a YCS weekend from check-in to Day 2."
+faq:
+  - q: "What is the best way to get back into Yu-Gi-Oh!?"
+    a: "Start with the 2-Player Starter Set. It has two ready-to-play decks and a 64-page teaching comic that walks you through a scripted Duel, Synchro and Xyz Summons included. Then find an Official Tournament Store near you with Konami's locator."
+  - q: "What is the Extra Monster Zone in Yu-Gi-Oh!?"
+    a: "It is a pair of zones in the middle of the field, between the two players. Each player normally uses only one. Since the 2021 rules update, Fusion, Synchro, and Xyz Monsters can go straight to your Main Monster Zones, but Link Monsters and face-up Pendulum Monsters from the Extra Deck still need the Extra Monster Zone or a zone a Link Monster points to."
+  - q: "Do you draw a card on the first turn in Yu-Gi-Oh!?"
+    a: "No. The player who goes first skips their draw on their first turn and cannot conduct a Battle Phase that turn. Both players start with 5 cards and 8000 Life Points."
+  - q: "Can I still use my old Yu-Gi-Oh! cards?"
+    a: "Most older cards are still legal, but some are Forbidden or Limited on the current list, and older wording can read differently from today's text. Check each card on the official Forbidden and Limited list and in Konami's card database before you build."
+  - q: "What is Genesys in Yu-Gi-Oh!?"
+    a: "Genesys is an official format with no Link or Pendulum Monsters, played on the original field with no Extra Monster Zones. Instead of the usual Forbidden and Limited list, some cards cost points and a deck must stay within a point cap, usually 100. Some Official Tournament Stores run it."
+teachSheet:
+  goal: "Drop your opponent's Life Points from 8000 to 0 before they do it to you."
+  setup:
+    - "Each player brings a 40 to 60 card Deck and an Extra Deck of up to 15."
+    - "Shuffle your Deck; you may shuffle or cut your opponent's."
+    - "Place Decks and Extra Decks face down in their zones."
+    - "Rock-paper-scissors or a coin flip; the winner chooses first or second."
+    - "Both players start at 8000 LP and draw 5 cards."
+  turn:
+    - "Draw Phase: draw 1 card. The first player skips this on turn one."
+    - "Standby Phase: resolve any card that says Standby Phase."
+    - "Main Phase 1: one Normal Summon or Set, plus Special Summons, Spells, and Set cards."
+    - "Level 5 or 6 needs 1 Tribute; Level 7 or higher needs 2."
+    - "Battle Phase: each Attack Position monster may attack once. Not on the Duel's first turn."
+    - "Main Phase 2: same as Main Phase 1, for anything you have left."
+    - "End Phase: discard down to 6 cards in hand."
+  scoring:
+    - "ATK beats ATK: destroy it, and the loser takes the difference."
+    - "Equal ATK: both monsters are destroyed, no damage."
+    - "ATK beats DEF: destroy it, no damage to anyone."
+    - "ATK below DEF: the attacker's controller takes the difference."
+    - "No monsters on their side: attack directly for full ATK."
+  endGame: "You win when your opponent hits 0 LP, cannot draw when they must, or a card says you win. Both at 0 together is a draw."
+  tips:
+    - "Set Traps early; they cannot be activated the turn you Set them."
+    - "Ask before you resolve: your opponent may respond with a Chain."
+    - "Link and Pendulum from the Extra Deck need the Extra Monster Zone or a Link Arrow."
+diagramAlt: "The Yu-Gi-Oh! TCG field for two players. Each side has a row of 5 Main Monster Zones in front of a row of 5 Spell and Trap Zones, whose leftmost and rightmost zones double as Pendulum Zones. Each side also has a Field Zone and Extra Deck on one end, and a Graveyard and Deck on the other. Between the two sides sit the 2 shared Extra Monster Zones, and each player normally uses only one."
+related:
+  - "how-to-teach-a-board-game"
+  - "learn-to-play-events"
+  - "indianapolis-board-game-stores"
+  - "indianapolis-game-nights"
+  - "how-to-run-a-board-game-tournament"
+  - "trading-and-selling-games"
+tcg:
+  starter: "Yu-Gi-Oh! TRADING CARD GAME 2-Player Starter Set"
+  firstEvent: "A local tournament at an Official Tournament Store"
+  rulesAsOf: "Beyond the Brave (October 9, 2026), ahead of Glorious Victors on December 4, 2026"

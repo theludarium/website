@@ -1,0 +1,101 @@
+title: "Shuffle by Shuffle"
+game: "Dominion"
+format: full
+order: 360
+wave: "4"
+draft: false
+publisher: "Rio Grande Games"
+# VERIFY: no Rio Grande Games fan content or IP policy was found; this is the default notice pattern.
+notice: "Unofficial. Not affiliated with Rio Grande Games. Dominion is a trademark of Rio Grande Games."
+rulesEdition: "Dominion rulebook, second edition (Rio Grande Games, 2016)"
+# The official PDF, linked as the manual by the licensed Temple Gates digital edition. The copy on riograndegames.com could not be opened.
+rulesSource: "https://store.steampowered.com/manual/1131620"
+players: "2 to 4 (5 or 6 with the Base Cards set)"
+# VERIFY: play time and ages from the second edition box or the Rio Grande product page.
+playTime: "About 30 minutes"
+promise: "Learn Dominion, teach it in ten minutes, and turn seven Coppers and three Estates into a deck that buys Provinces on time."
+description: "A free Dominion course: learn the rules, teach them in ten minutes, then master openings, engines, Big Money, Province math, expansions, and tournament play."
+audience:
+  - "New players who want the rules clear before the first shuffle."
+  - "Hosts who teach Dominion to family, friends, or a new group."
+  - "Players who build clever decks and still lose to plain Silver and Gold."
+  - "Anyone curious about expansions, online play, and the WBC tournament."
+levels:
+  - level: 0
+    name: "Tenant"
+    label: "Learn to play"
+    outcome: "Set up, teach, and finish a game with the First Game kingdom, every card played right, without opening the rulebook."
+  - level: 1
+    name: "Landholder"
+    label: "Beginner"
+    outcome: "Open with a plan, use Big Money plus one card as your yardstick, and blunt every attack in the base set."
+  - level: 2
+    name: "Lord"
+    label: "Intermediate"
+    outcome: "Trash down to a lean deck, build a Village and draw engine that pays off, and time your Provinces and Duchies."
+  - level: 3
+    name: "Earl"
+    label: "Advanced"
+    outcome: "Put odds on your next hands, read any kingdom in two minutes, and run or stop a Gardens rush and a three-pile ending."
+  - level: 4
+    name: "Regent"
+    label: "Tournament ready"
+    outcome: "Win the two-player duel, track an opponent's deck from what is public, and play a steady diet of ranked games online."
+  - level: 5
+    name: "Monarch"
+    label: "The championship path"
+    outcome: "Play under World Boardgaming Championships rules, bid for your seat, review every game, and follow a six-week plan to your first heat."
+afterLesson3: "Teach and play a clean game with the First Game kingdom, with the shuffle, the Action count, and the end of the game all handled right."
+afterLesson8: "Open with a plan, measure your deck against Big Money, answer the base set's attacks, and choose between money and an engine in the midgame."
+faq:
+  - q: "How many Action cards can you play in a Dominion turn?"
+    a: "One, unless your cards give you more. A card that says +1 Action or +2 Actions adds to how many Action cards you may play, but you finish the current card before you play the next one."
+  - q: "When do you shuffle your deck in Dominion?"
+    a: "Only when you need a card from your deck and it is empty or too small. Then you shuffle your discard pile and put it under whatever is left of your deck. Never shuffle early."
+  - q: "How does a game of Dominion end?"
+    a: "At the end of any turn in which the Province pile is empty or any three Supply piles are empty. Every pile counts, including Curses, Copper, Estates, and the Kingdom piles."
+  - q: "Which ten Kingdom cards should you use for your first game of Dominion?"
+    a: "The rulebook's First Game set: Cellar, Market, Merchant, Militia, Mine, Moat, Remodel, Smithy, Village, and Workshop. It shows the main ideas of the game without any card that is hard to explain."
+  - q: "Who wins a tie in Dominion?"
+    a: "The tied player who took fewer turns. If the tied players also took the same number of turns, they share the win."
+  - q: "Can you play Treasures after you buy a card?"
+    a: "No. In your Buy phase you play the Treasures you want first, then you buy. Once you have bought a card, you cannot add more Treasures that turn."
+teachSheet:
+  goal: "Build a better deck as you play, then use it to collect the most victory points by the end."
+  setup:
+    - "Each player shuffles 7 Coppers and 3 Estates face down as their deck."
+    - "Lay out the 7 Base piles: Copper, Silver, Gold, Estate, Duchy, Province, Curse."
+    - "Estates, Duchies, Provinces: 8 each for 2 players, 12 each for 3 or 4."
+    - "Curses: 10 for 2 players, 20 for 3, 30 for 4."
+    - "First game: Cellar, Market, Merchant, Militia, Mine, Moat, Remodel, Smithy, Village, Workshop."
+    - "Put out 10 of each Kingdom card (Gardens: 8 for 2 players, 12 for 3 or 4)."
+    - "Put the Trash mat nearby."
+    - "Pick a first player at random. Everyone draws 5 cards."
+  turn:
+    - "Action: you may play 1 Action card. +Actions let you play more."
+    - "Finish each card, top to bottom, before you play the next."
+    - "Buy: play any Treasures, then buy 1 card costing up to your total."
+    - "Bought cards go to your discard pile. +Buys let you buy more."
+    - "Clean-up: discard your hand and every card you played."
+    - "Draw 5. If your deck runs short, shuffle your discard pile under it."
+  scoring:
+    - "Copper is worth $1 to spend, Silver $2, Gold $3."
+    - "Estate 1 point, Duchy 3, Province 6. Each Curse is minus 1."
+    - "At the end, count every card you own: hand, deck, and discard."
+    - "Most points wins. A tie goes to whoever took fewer turns."
+  endGame: "The game ends after any turn in which the Province pile is empty or any three Supply piles are empty."
+  tips:
+    - "Buy a Province whenever you have $8."
+    - "Early on, Silver beats a cheap Action card you have no plan for."
+    - "Without Villages, one or two Smithies is plenty."
+diagramAlt: "Dominion setup for two players: the Supply of 17 face-up piles, with 7 Base card piles (46 Copper, 40 Silver, 30 Gold, 8 Estates, 8 Duchies, 8 Provinces, 10 Curses) and the 10 First Game Kingdom piles sorted by cost, the Trash mat beside them, and each player's shuffled deck of 7 Coppers and 3 Estates with a hand of 5 cards drawn."
+games: [dominion]
+related:
+  - "dominion-strategy-beginners"
+  - "dominion-vs-clank"
+  - "deck-building-games-explained"
+  - "engine-building-games"
+  - "board-game-balance-math"
+  - "expansions-worth-it"
+  - "board-game-league-format"
+  - "tableau-board-games"

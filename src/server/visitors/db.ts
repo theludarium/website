@@ -30,7 +30,7 @@ const daysAgo = (days: number, now: Date) => new Date(now.getTime() - days * DAY
 /** The cached lookup for this hash, if it is younger than maxAgeDays. */
 export async function getCachedLookup(db: D1, ipHash: string, maxAgeDays: number, now = new Date()) {
   return db
-    .prepare('SELECT asn, org, domain, type, keep, kind, reason, looked_up_at FROM ip_cache WHERE ip_hash = ?1 AND looked_up_at >= ?2')
+    .prepare('SELECT asn, org, domain, type, keep, kind, reason, looked_up_at FROM vc_ip_cache WHERE ip_hash = ?1 AND looked_up_at >= ?2')
     .bind(ipHash, daysAgo(maxAgeDays, now))
     .first<CachedLookup>();
 }
@@ -38,7 +38,7 @@ export async function getCachedLookup(db: D1, ipHash: string, maxAgeDays: number
 export async function saveLookup(db: D1, ipHash: string, row: Omit<CachedLookup, 'looked_up_at'>, now = new Date()) {
   await db
     .prepare(
-      `INSERT INTO ip_cache (ip_hash, looked_up_at, asn, org, domain, type, keep, kind, reason)
+      `INSERT INTO vc_ip_cache (ip_hash, looked_up_at, asn, org, domain, type, keep, kind, reason)
        VALUES (?1, ?2, ?3, ?4, ?5, ?6, ?7, ?8, ?9)
        ON CONFLICT(ip_hash) DO UPDATE SET looked_up_at = excluded.looked_up_at, asn = excluded.asn,
          org = excluded.org, domain = excluded.domain, type = excluded.type, keep = excluded.keep,
@@ -50,7 +50,7 @@ export async function saveLookup(db: D1, ipHash: string, row: Omit<CachedLookup,
 
 /** Drops cache rows older than maxAgeDays. The digest Worker runs this weekly. */
 export async function purgeCache(db: D1, maxAgeDays: number, now = new Date()) {
-  await db.prepare('DELETE FROM ip_cache WHERE looked_up_at < ?1').bind(daysAgo(maxAgeDays, now)).run();
+  await db.prepare('DELETE FROM vc_ip_cache WHERE looked_up_at < ?1').bind(daysAgo(maxAgeDays, now)).run();
 }
 
 export interface CompanyInput {
@@ -71,18 +71,18 @@ export interface CompanyInput {
 export async function upsertCompany(db: D1, c: CompanyInput, now = new Date()): Promise<number | null> {
   const row = await db
     .prepare(
-      `INSERT INTO companies (key, name, domain, asn, kind, country, region, region_code, city,
+      `INSERT INTO vc_companies (key, name, domain, asn, kind, country, region, region_code, city,
          first_seen, last_seen, visit_count, pages)
        VALUES (?1, ?2, ?3, ?4, ?5, ?6, ?7, ?8, ?9, ?10, ?10, 1, json_array(?11))
        ON CONFLICT(key) DO UPDATE SET
          name = excluded.name,
-         domain = coalesce(excluded.domain, companies.domain),
+         domain = coalesce(excluded.domain, vc_companies.domain),
          country = excluded.country, region = excluded.region, region_code = excluded.region_code, city = excluded.city,
          last_seen = excluded.last_seen,
-         visit_count = companies.visit_count + 1,
+         visit_count = vc_companies.visit_count + 1,
          pages = CASE
-           WHEN EXISTS (SELECT 1 FROM json_each(companies.pages) WHERE value = ?11) THEN companies.pages
-           ELSE json_insert(companies.pages, '$[#]', ?11)
+           WHEN EXISTS (SELECT 1 FROM json_each(vc_companies.pages) WHERE value = ?11) THEN vc_companies.pages
+           ELSE json_insert(vc_companies.pages, '$[#]', ?11)
          END
        RETURNING id`,
     )
@@ -109,7 +109,7 @@ export interface VisitInput {
 export async function insertVisit(db: D1, v: VisitInput, now = new Date()) {
   await db
     .prepare(
-      `INSERT INTO visits (at, path, referrer, utm_source, utm_medium, utm_campaign, user_agent, ip_hash,
+      `INSERT INTO vc_visits (at, path, referrer, utm_source, utm_medium, utm_campaign, user_agent, ip_hash,
          country, region, region_code, city, company_id)
        VALUES (?1, ?2, ?3, ?4, ?5, ?6, ?7, ?8, ?9, ?10, ?11, ?12, ?13)`,
     )
@@ -146,10 +146,10 @@ export async function recentCompanies(db: D1, days: number, now = new Date()): P
          COUNT(v.id) AS visits,
          COUNT(DISTINCT v.path) AS distinct_pages,
          GROUP_CONCAT(DISTINCT v.path) AS paths,
-         (SELECT coalesce(utm_source, referrer) FROM visits
+         (SELECT coalesce(utm_source, referrer) FROM vc_visits
             WHERE company_id = c.id AND at >= ?1 ORDER BY at LIMIT 1) AS source
-       FROM companies c
-       JOIN visits v ON v.company_id = c.id
+       FROM vc_companies c
+       JOIN vc_visits v ON v.company_id = c.id
        WHERE v.at >= ?1
        GROUP BY c.id`,
     )

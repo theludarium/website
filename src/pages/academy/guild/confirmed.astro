@@ -1,0 +1,34 @@
+---
+// Where Kit sends people after they confirm the Guild signup. Not in search results or the sitemap.
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageIntro from '@/components/PageIntro.astro';
+import { getGuildLessons, guildLessonUrl } from '@/lib/guild';
+
+const first = (await getGuildLessons()).find((l) => !l.data.draft);
+---
+
+<BaseLayout
+  title="Welcome to the Guild"
+  description="You are in The Ludarium Guild of Game Guides. Your lessons arrive by email, and lesson one and the full toolkit are ready now."
+  noindex
+>
+  <PageIntro
+    eyebrow="Confirmed"
+    title="Welcome to the Guild."
+    lede="Your lessons arrive by email, one each weekday. Want a head start? Lesson one and your toolkit are ready now."
+  >
+    <div class="confirmed-actions">
+      {first && <a class="button" href={guildLessonUrl(first)}>Read lesson one</a>}
+      <a class="button button--ghost" href="/academy/guild/kit/">Open your toolkit</a>
+    </div>
+  </PageIntro>
+</BaseLayout>
+
+<style>
+  .confirmed-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-3);
+    margin-top: var(--space-6);
+  }
+</style>

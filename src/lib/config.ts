@@ -55,9 +55,9 @@ export const LEGAL_LOCATION = '';
 /**
  * Cloudflare Turnstile site key for the corporate inquiry form (public).
  * The matching secret key lives only in the Cloudflare Pages project settings.
- * While blank, previews use Cloudflare's always-pass test key.
+ * Previews and local dev always use Cloudflare's always-pass test key instead.
  */
-export const TURNSTILE_SITE_KEY = '';
+export const TURNSTILE_SITE_KEY = '0x4AAAAAAFn938ZOMnd8PSUH';
 
 /**
  * Kit waitlist form for each lounge city, keyed by city slug (see src/lib/lounges.ts).
@@ -99,3 +99,59 @@ export const MALAPHOR_KINDLE_URL = 'https://www.amazon.com/dp/B0HNTT7KKV';
 export const KIT_ACADEMY_FORMS: Record<string, { action: string }> = {
   catan: { action: 'https://app.kit.com/forms/10083674/subscriptions' },
 };
+
+/**
+ * Kit forms for the game courses (src/content/courses/), keyed by course slug.
+ * `action` is the "Academy: <Game>" form (tags course-<slug>, or tcg-<slug> for
+ * trading card games, and starts the course's sequence; see docs/academy/COURSE-EMAILS.md); `alerts` is the optional set-alerts form for TCG courses.
+ * Until a course has an entry, its signup posts to the general newsletter form
+ * so no email is lost, and previews show a reminder.
+ */
+export const KIT_COURSE_FORMS: Record<string, { action: string; alerts?: string }> = {
+  'ticket-to-ride': { action: 'https://app.kit.com/forms/10098564/subscriptions' },
+  wingspan: { action: 'https://app.kit.com/forms/10098569/subscriptions' },
+  codenames: { action: 'https://app.kit.com/forms/10098583/subscriptions' },
+  'pokemon-tcg': { action: 'https://app.kit.com/forms/10098588/subscriptions' },
+  magic: { action: 'https://app.kit.com/forms/10098589/subscriptions' },
+  azul: { action: 'https://app.kit.com/forms/10099858/subscriptions' },
+  carcassonne: { action: 'https://app.kit.com/forms/10099859/subscriptions' },
+  pandemic: { action: 'https://app.kit.com/forms/10099861/subscriptions' },
+  'king-of-tokyo': { action: 'https://app.kit.com/forms/10099862/subscriptions' },
+  splendor: { action: 'https://app.kit.com/forms/10099864/subscriptions' },
+  cascadia: { action: 'https://app.kit.com/forms/10099865/subscriptions' },
+  'flip-7': { action: 'https://app.kit.com/forms/10099867/subscriptions' },
+  'sky-team': { action: 'https://app.kit.com/forms/10099870/subscriptions' },
+  heat: { action: 'https://app.kit.com/forms/10099872/subscriptions' },
+  '7-wonders': { action: 'https://app.kit.com/forms/10099875/subscriptions' },
+  everdell: { action: 'https://app.kit.com/forms/10099878/subscriptions' },
+  'terraforming-mars': { action: 'https://app.kit.com/forms/10099879/subscriptions' },
+  'dinosaur-island': { action: 'https://app.kit.com/forms/10099884/subscriptions' },
+  'dune-imperium': { action: 'https://app.kit.com/forms/10099889/subscriptions' },
+  'ark-nova': { action: 'https://app.kit.com/forms/10099892/subscriptions' },
+  root: { action: 'https://app.kit.com/forms/10099897/subscriptions' },
+  'brass-birmingham': { action: 'https://app.kit.com/forms/10099901/subscriptions' },
+  'spirit-island': { action: 'https://app.kit.com/forms/10099905/subscriptions' },
+  dominion: { action: 'https://app.kit.com/forms/10099909/subscriptions' },
+  'lost-ruins-of-arnak': { action: 'https://app.kit.com/forms/10099912/subscriptions' },
+  'castles-of-burgundy': { action: 'https://app.kit.com/forms/10099915/subscriptions' },
+  'power-grid': { action: 'https://app.kit.com/forms/10099916/subscriptions' },
+  'one-piece-card-game': { action: 'https://app.kit.com/forms/10099920/subscriptions' },
+  lorcana: { action: 'https://app.kit.com/forms/10099924/subscriptions' },
+  yugioh: { action: 'https://app.kit.com/forms/10099926/subscriptions' },
+  'cube-draft': { action: 'https://app.kit.com/forms/10099930/subscriptions' },
+  'sushi-go': { action: 'https://app.kit.com/forms/10104635/subscriptions' },
+  kingdomino: { action: 'https://app.kit.com/forms/10104638/subscriptions' },
+  'the-crew': { action: 'https://app.kit.com/forms/10104641/subscriptions' },
+  guild: { action: 'https://app.kit.com/forms/10104085/subscriptions' },
+};
+/**
+ * Kit forms for the recurring stories (docs/stories/README.md): `dataset` is
+ * the Shelf Life CSV download (tag dataset), `ledger` the industry readers form
+ * (tag ledger). Blank until the forms exist in Kit; until then signups join the
+ * general newsletter.
+ */
+export const KIT_STORY_FORMS = {
+  dataset: '',
+  ledger: '',
+};
+

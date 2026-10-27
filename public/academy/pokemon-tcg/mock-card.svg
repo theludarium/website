@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 420" role="img" aria-labelledby="t d">
+  <title id="t">An invented Pokémon-style card with every part labeled</title>
+  <desc id="d">A made-up Basic Pokémon card named Hexling, not a real card. Labels point out the Stage, name, HP, type, illustration, Ability, attack cost, attack name, damage, attack text, Weakness, Resistance, Retreat Cost, regulation mark, set code, and card number.</desc>
+  <rect width="300" height="420" fill="#F6EFE3"/>
+  <!-- Card frame -->
+  <rect x="6" y="6" width="288" height="408" rx="16" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1.5"/>
+  <rect x="16" y="16" width="268" height="388" rx="10" fill="#F6EFE3"/>
+
+  <g font-family="system-ui, sans-serif" fill="#2B1E16">
+    <!-- Label tags (Lamplight pills) -->
+    <g font-size="8" font-weight="700" letter-spacing="0.4" text-anchor="middle">
+      <rect x="22" y="19" width="40" height="12" rx="6" fill="#E0A23B"/><text x="42" y="28">STAGE</text>
+      <rect x="78" y="19" width="38" height="12" rx="6" fill="#E0A23B"/><text x="97" y="28">NAME</text>
+      <rect x="200" y="19" width="26" height="12" rx="6" fill="#E0A23B"/><text x="213" y="28">HP</text>
+      <rect x="244" y="19" width="34" height="12" rx="6" fill="#E0A23B"/><text x="261" y="28">TYPE</text>
+    </g>
+
+    <!-- Header -->
+    <rect x="22" y="36" width="48" height="18" rx="9" fill="#2F5D50"/>
+    <text x="46" y="48.5" font-size="10" font-weight="700" fill="#F6EFE3" text-anchor="middle">BASIC</text>
+    <text x="78" y="52" font-size="19" font-weight="700">Hexling</text>
+    <text x="238" y="52" text-anchor="end"><tspan font-size="9" font-weight="700">HP </tspan><tspan font-size="19" font-weight="700">70</tspan></text>
+    <circle cx="261" cy="45" r="11" fill="#2F5D50"/>
+    <path d="M255.5 45 L258.25 40.2 L263.75 40.2 L266.5 45 L263.75 49.8 L258.25 49.8 Z" fill="#F6EFE3"/>
+
+    <!-- Illustration window: original abstract art -->
+    <rect x="26" y="62" width="248" height="122" rx="6" fill="#2F5D50"/>
+    <path d="M150 82 L183 101 L183 141 L150 160 L117 141 L117 101 Z" fill="#E0A23B" stroke="#2B1E16" stroke-width="1.5"/>
+    <circle cx="150" cy="121" r="14" fill="#2F5D50"/>
+    <circle cx="150" cy="99" r="4" fill="#2F5D50"/>
+    <circle cx="150" cy="143" r="4" fill="#2F5D50"/>
+    <circle cx="131" cy="110" r="4" fill="#2F5D50"/>
+    <circle cx="169" cy="110" r="4" fill="#2F5D50"/>
+    <circle cx="131" cy="132" r="4" fill="#2F5D50"/>
+    <circle cx="169" cy="132" r="4" fill="#2F5D50"/>
+    <rect x="32" y="68" width="74" height="12" rx="6" fill="#E0A23B"/>
+    <text x="69" y="77" font-size="8" font-weight="700" letter-spacing="0.4" text-anchor="middle">ILLUSTRATION</text>
+    <text x="150" y="196" font-size="8.5" font-style="italic" text-anchor="middle" fill="#2F5D50">Made-up card for teaching. Not a real Pokémon card.</text>
+
+    <!-- Ability -->
+    <rect x="22" y="204" width="58" height="12" rx="6" fill="#E0A23B"/>
+    <text x="51" y="213" font-size="8" font-weight="700" letter-spacing="0.4" text-anchor="middle">TEXT BOX</text>
+    <rect x="26" y="222" width="46" height="16" rx="4" fill="#2B1E16"/>
+    <text x="49" y="233.5" font-size="9.5" font-weight="700" fill="#F6EFE3" text-anchor="middle">Ability</text>
+    <text x="80" y="234" font-size="12.5" font-weight="700">Warm Welcome</text>
+    <text x="26" y="252" font-size="9.5">Once during your turn, you may draw a card.</text>
+    <line x1="26" y1="262" x2="274" y2="262" stroke="#B9AD9C" stroke-width="1"/>
+
+    <!-- Attack labels -->
+    <g font-size="8" font-weight="700" letter-spacing="0.4" text-anchor="middle">
+      <rect x="22" y="266" width="36" height="12" rx="6" fill="#E0A23B"/><text x="40" y="275">COST</text>
+      <rect x="78" y="266" width="70" height="12" rx="6" fill="#E0A23B"/><text x="113" y="275">ATTACK NAME</text>
+      <rect x="226" y="266" width="50" height="12" rx="6" fill="#E0A23B"/><text x="251" y="275">DAMAGE</text>
+    </g>
+
+    <!-- Attack 1: one Colorless -->
+    <circle cx="36" cy="290" r="7.5" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <path d="M36 285 L37.5 288.5 L41 288.8 L38.3 291 L39.2 294.5 L36 292.6 L32.8 294.5 L33.7 291 L31 288.8 L34.5 288.5 Z" fill="#F6EFE3"/>
+    <text x="78" y="294.5" font-size="13" font-weight="700">Table Tap</text>
+    <text x="270" y="295" font-size="16" font-weight="700" text-anchor="end">20</text>
+
+    <!-- Attack 2: one type Energy plus one Colorless -->
+    <circle cx="36" cy="314" r="7.5" fill="#2F5D50"/>
+    <path d="M31.5 314 L33.75 310.1 L38.25 310.1 L40.5 314 L38.25 317.9 L33.75 317.9 Z" fill="#F6EFE3"/>
+    <circle cx="54" cy="314" r="7.5" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <path d="M54 309 L55.5 312.5 L59 312.8 L56.3 315 L57.2 318.5 L54 316.6 L50.8 318.5 L51.7 315 L49 312.8 L52.5 312.5 Z" fill="#F6EFE3"/>
+    <text x="78" y="318.5" font-size="13" font-weight="700">Lamplight Glow</text>
+    <text x="270" y="319" font-size="16" font-weight="700" text-anchor="end">40+</text>
+    <text x="26" y="336" font-size="9.5">Flip a coin. If heads, this attack does 30 more damage.</text>
+    <line x1="26" y1="344" x2="274" y2="344" stroke="#B9AD9C" stroke-width="1"/>
+
+    <!-- Weakness, Resistance, Retreat -->
+    <g font-size="8" font-weight="700" letter-spacing="0.4" text-anchor="middle">
+      <rect x="26" y="349" width="64" height="12" rx="6" fill="#E0A23B"/><text x="58" y="358">WEAKNESS</text>
+      <rect x="116" y="349" width="70" height="12" rx="6" fill="#E0A23B"/><text x="151" y="358">RESISTANCE</text>
+      <rect x="208" y="349" width="66" height="12" rx="6" fill="#E0A23B"/><text x="241" y="358">RETREAT</text>
+    </g>
+    <circle cx="48" cy="373" r="6.5" fill="#E0A23B" stroke="#2B1E16" stroke-width="1"/>
+    <text x="59" y="377" font-size="11" font-weight="700">×2</text>
+    <text x="151" y="377" font-size="11" text-anchor="middle">none</text>
+    <circle cx="241" cy="373" r="6.5" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <path d="M241 368.6 L242.3 371.7 L245.4 372 L243 373.9 L243.8 377 L241 375.3 L238.2 377 L239 373.9 L236.6 372 L239.7 371.7 Z" fill="#F6EFE3"/>
+
+    <!-- Footer: regulation mark, set code, number -->
+    <rect x="26" y="386" width="12" height="12" rx="2" fill="#2B1E16"/>
+    <text x="32" y="395" font-size="8.5" font-weight="700" fill="#F6EFE3" text-anchor="middle">L</text>
+    <text x="44" y="395" font-size="8.5" font-weight="700">LDR</text>
+    <text x="68" y="395" font-size="8.5">001/060</text>
+    <text x="274" y="395" font-size="8" fill="#2F5D50" text-anchor="end">regulation mark, set code, card number</text>
+  </g>
+</svg>

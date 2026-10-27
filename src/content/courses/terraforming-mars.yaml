@@ -1,0 +1,102 @@
+title: "From Red to Green"
+game: "Terraforming Mars"
+format: full
+order: 280
+wave: "3"
+draft: false
+publisher: "FryxGames; published in the US by Stronghold Games"
+notice: "Unofficial. Not affiliated with FryxGames or Stronghold Games. Terraforming Mars is a trademark of FryxGames."
+rulesEdition: "Terraforming Mars rulebook, English (FryxGames and Stronghold Games, 2016), the current PDF on the FryxGames game page"
+rulesSource: "https://fryxgames.se/wp-content/uploads/2023/04/TMRULESFINAL.pdf"
+players: "1 to 5"
+playTime: "90 to 120 minutes"
+ages: "Ages 12 and up"
+promise: "Learn Terraforming Mars, teach it in ten minutes, and build a corporation that turns a frozen planet into a pile of points."
+description: "A free Terraforming Mars course in six levels: learn the rules, teach them fast, then master openings, card value, the draft, expansions, and tournament play."
+audience:
+  - "New players who want the rules clear before the first card is bought."
+  - "Hosts who teach Terraforming Mars to friends or a new group."
+  - "Players who build a big engine and still lose by ten points."
+  - "Anyone curious about Prelude, the draft, expansions, and tournaments."
+levels:
+  - level: 0
+    name: "Colonist"
+    label: "Learn to play"
+    outcome: "Set up, teach, and finish a full game, reading every project card at a glance and scoring it by the rulebook."
+  - level: 1
+    name: "Pioneer"
+    label: "Beginner"
+    outcome: "Skip the classic rules slips, keep a starting hand you can afford, and know what every standard project and map space is worth."
+  - level: 2
+    name: "Engineer"
+    label: "Intermediate"
+    outcome: "Pick a strategy path that fits your cards, price any card in M€, know when to stop building, and win the last generation."
+  - level: 3
+    name: "Director"
+    label: "Advanced"
+    outcome: "Play with Corporate Era, the draft, and Prelude, use the draft and the table to your advantage, and win the two-player duel."
+  - level: 4
+    name: "Executive"
+    label: "Tournament ready"
+    outcome: "Play the tournament expansion set well: build and trade with colonies, work the Venus track, and read a new map and its milestones at setup."
+  - level: 5
+    name: "Visionary"
+    label: "The championship path"
+    outcome: "Enter a tournament knowing its format, procedures, and clock, with a practice plan that gets your game ready for it."
+afterLesson3: "Teach and play a clean game of Terraforming Mars, read any project card at a glance, and score it by the rulebook."
+afterLesson8: "Choose a corporation and opening hand, avoid the common slips, price standard projects and map spaces, and follow a strategy path that fits your cards."
+faq:
+  - q: "How does Terraforming Mars end?"
+    a: "The game ends when oxygen reaches 14%, the temperature reaches +8 °C, and all 9 oceans are on the map. Players finish that generation, including production. Then everyone gets one last chance to turn plants into greenery tiles, and the final scoring begins."
+  - q: "What is terraform rating in Terraforming Mars?"
+    a: "Terraform rating, or TR, starts at 20 and goes up 1 step each time you raise the temperature, the oxygen, or place an ocean. Each generation it is added to your M€ production as income, and at the end every step is worth 1 victory point."
+  - q: "Should new players use the Beginner Corporation?"
+    a: "The rulebook says yes. A new player takes a Beginner Corporation, starts with 42 M€, and draws 10 project cards for free instead of choosing between two corporations and paying for cards."
+  - q: "What is Corporate Era, and should you play with it?"
+    a: "Corporate Era is a set of extra cards about economy and technology, marked with a red and white icon. With them in, nobody starts with extra production. The rulebook says it makes the game longer and does not recommend it for new players."
+  - q: "Can you play a card if the global parameter it raises is already maxed?"
+    a: "Yes. You may still play the card and use its other effects. You just ignore the maxed part, and you do not gain TR for it."
+  - q: "Can Terraforming Mars be played solo?"
+    a: "Yes. The rulebook has a solo variant, written for the Corporate Era game. You start at TR 14 without the extra starting production, there are no milestones or awards, and you must finish terraforming by the end of generation 14 to win."
+teachSheet:
+  goal: "Have the most victory points when Mars is terraformed: from TR, tiles, cards, milestones, and awards."
+  setup:
+    - "Board: oxygen on 0%, temperature on -30 °C, 9 ocean tiles on their space."
+    - "Take the Corporate Era cards (red and white icon) out of both decks."
+    - "Each player: a player board with production at 1 on all six tracks."
+    - "TR markers on 20, generation marker on 1. Last game's winner goes first."
+    - "New players: a Beginner Corporation, 42 M€, and 10 free project cards."
+    - "Others: deal 2 corporations and 10 cards. Keep 1 corporation; cards cost 3 M€ each."
+    - "In player order, reveal corporations, take starting resources, pay for kept cards."
+    - "Generation 1 starts straight with the action phase."
+  turn:
+    - "Player order: first player marker moves clockwise, generation marker moves up 1."
+    - "Research: draw 4 cards, buy any of them for 3 M€ each."
+    - "Actions: take 1 or 2 actions on your turn, or pass for the rest of the generation."
+    - "Actions are: play a card, standard project, milestone, award, blue card action."
+    - "Also actions: 8 plants become a greenery, 8 heat raises the temperature."
+    - "Production: energy becomes heat, then take M€ equal to TR plus M€ production."
+    - "Then take every other resource you produce. Clear markers from used blue cards."
+  scoring:
+    - "Every step you raise temperature, oxygen, or oceans: +1 TR."
+    - "End: 1 VP per TR."
+    - "Greenery: 1 VP. City: 1 VP per adjacent greenery, any owner."
+    - "Milestone: 5 VP. Claim for 8 M€; only 3 of 5 can be claimed."
+    - "Award: fund for 8, then 14, then 20 M€; only 3. First 5 VP, second 2 VP (none with 2 players)."
+    - "Cards: printed VPs, including VPs from resources on cards."
+    - "Tie: most M€ wins."
+  endGame: "When oxygen is 14%, temperature is +8 °C, and all 9 oceans are placed, finish the generation. After production, everyone may turn plants into greenery one last time. Then score."
+  tips:
+    - "Buy production early. It pays you every generation that is left."
+    - "Keep only cards you can play soon. Each one costs 3 M€ just to keep."
+    - "Watch the three tracks. When they near the top, switch from engine to points."
+diagramAlt: "Terraforming Mars setup: the game board with the oxygen marker on 0 percent, the temperature marker on minus 30 degrees, the 9 ocean tiles stacked on their space, and every TR marker on 20; the project deck, tile supply, and resource cubes beside it; and two player boards with production at 1 on all six tracks."
+games: [terraforming-mars]
+related:
+  - "engine-building-games"
+  - "tableau-board-games"
+  - "analysis-paralysis-board-games"
+  - "board-game-weight-explained"
+  - "board-game-play-time-accuracy"
+  - "best-solo-board-games"
+  - "expansions-worth-it"

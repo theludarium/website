@@ -1,0 +1,86 @@
+title: "Pick and Pass"
+game: "Sushi Go!"
+format: full
+order: 145
+wave: "1"
+draft: false
+publisher: "Gamewright"
+notice: "Unofficial. Not affiliated with Gamewright, Ceaco, or Phil Walker-Harding. Sushi Go! is a trademark of Gamewright, a division of Ceaco, Inc."
+rulesEdition: "Sushi Go! rules of play (Gamewright, 2014 printing, 108 cards), including the official variants"
+rulesSource: "https://gamewright.com/pdfs/Rules/SushiGoTM-RULES.pdf"
+players: "2 to 5"
+playTime: "About 15 minutes"
+ages: "Ages 8 and up"
+promise: "Learn Sushi Go!, teach it in five minutes, then read every hand that comes your way, win the maki and pudding races, and pick like a chef."
+description: "A free Sushi Go! course: learn the rules, teach them in five minutes, then master card values, wasabi and chopsticks, maki and pudding, and Sushi Go Party!."
+audience:
+  - "Hosts who want a five-minute teach that works for kids, grandparents, and coworkers alike."
+  - "Families who play Sushi Go! often and want the next level of the game."
+  - "Players who keep losing the pudding race without knowing why."
+  - "Anyone moving up to Sushi Go Party! and its many menus."
+levels:
+  - level: 0
+    name: "Guest"
+    label: "Learn to play"
+    outcome: "Deal, teach, and score a full three-round game of Sushi Go!, wasabi, chopsticks, and pudding included, without opening the rulebook."
+  - level: 1
+    name: "Regular"
+    label: "Beginner"
+    outcome: "Skip the first-game slips, know what every card is worth to you right now, and time wasabi and chopsticks so they pay."
+  - level: 2
+    name: "Line Cook"
+    label: "Intermediate"
+    outcome: "Read the hands coming your way, play the set odds for your player count, and win the maki and pudding races on purpose."
+  - level: 3
+    name: "Head Chef"
+    label: "Expert"
+    outcome: "Track every card in a round, adjust for two to five players, build Sushi Go Party! menus, and find a table to play at."
+afterLesson3: "Teach and play a clean game of Sushi Go!, scoring every card correctly, without the rules slips that trip up new tables."
+afterLesson8: "Value every pick, time wasabi and chopsticks, read the hands coming your way, and win the maki and pudding races when they matter."
+faq:
+  - q: "How many cards do you deal in Sushi Go!?"
+    a: "It depends on the number of players: 10 cards each for 2 players, 9 for 3, 8 for 4, and 7 for 5. You deal the same number again at the start of rounds 2 and 3."
+  - q: "How do chopsticks work in Sushi Go!?"
+    a: "If you already have chopsticks face up in front of you, on a later turn you can say \"Sushi Go!\" and take a second card from your hand. Then put the chopsticks back into your hand, so they pass on to the next player. You can use only one chopsticks card per turn."
+  - q: "How does wasabi work in Sushi Go!?"
+    a: "When you take a nigiri and already have a wasabi in front of you, the nigiri goes on the wasabi and scores triple: squid 9, salmon 6, egg 3. Each wasabi holds only one nigiri, and a wasabi with no nigiri scores nothing."
+  - q: "When is pudding scored in Sushi Go!?"
+    a: "Only at the end of the game. Keep your pudding cards in front of you through all three rounds. Most pudding scores 6, fewest pudding loses 6, and ties split the points. With 2 players, no one loses points for pudding."
+  - q: "Who wins a tie in Sushi Go!?"
+    a: "The player with the most points after three rounds wins. If players tie on points, the one with the most pudding cards wins."
+teachSheet:
+  goal: "Have the most points after three rounds by picking cards that score together."
+  setup:
+    - "Shuffle all 108 cards well."
+    - "Deal each player a hand: 10 cards for 2 players, 9 for 3, 8 for 4, 7 for 5."
+    - "Put the rest face down in the middle as the draw pile."
+    - "Grab paper and a pencil, and pick a scorekeeper."
+  turn:
+    - "Everyone picks 1 card from their hand and puts it face down."
+    - "Everyone reveals at the same time."
+    - "Pass your hand face down to the player on your left."
+    - "Wasabi: your next nigiri goes on top of it and scores triple."
+    - "Chopsticks: on a later turn, say \"Sushi Go!\" and take 2 cards. Then put the chopsticks in your hand."
+    - "When hands run out, score the round, discard, and deal new hands."
+  scoring:
+    - "Maki: most rolls scores 6, second most scores 3. Split ties."
+    - "Tempura: 5 for each pair. Sashimi: 10 for each set of 3."
+    - "Dumplings: 1, 3, 6, 10, or 15 for 1, 2, 3, 4, or 5 or more."
+    - "Nigiri: squid 3, salmon 2, egg 1. Triple on wasabi."
+    - "Wasabi alone and chopsticks score nothing."
+    - "Pudding: keep it all game. Most scores 6, fewest loses 6."
+  endGame: "After the third round, score pudding. Most points wins. Tied on points? Most pudding wins. With 2 players, no one loses points for fewest pudding."
+  tips:
+    - "A lone tempura or two sashimi score nothing, so finish sets you can finish."
+    - "Remember what was in each hand; it comes back around."
+    - "Grab one pudding before round 3 to avoid the minus 6."
+diagramAlt: "Sushi Go! for four players at the start of a round: a face-down draw pile in the middle with a discard pile beside it, a secret hand of 8 cards in front of each player, arrows showing hands passed to the left, a turn summary, a hand-size chart by player count, and a key to the 108-card deck."
+games: [sushi-go, sushi-go-party]
+related:
+  - "card-drafting-explained"
+  - "easiest-board-games-to-learn"
+  - "quick-board-games-under-30-minutes"
+  - "best-family-board-games"
+  - "gateway-board-games"
+  - "board-games-under-20-dollars"
+  - "large-group-game-night"

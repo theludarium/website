@@ -1,0 +1,40 @@
+---
+// The gated download block for report articles: Shelf Life's cohort data as a
+// CSV, delivered by Kit after signup (tag dataset), or the Ledger's industry
+// edition (tag ledger). The article itself is never gated, only the extra file.
+// Usage in MDX: <GatedDownload kind="dataset" title="Get the cohort data" text="..." />
+import NewsletterForm from '@/components/NewsletterForm.astro';
+import PreviewNote from '@/components/PreviewNote.astro';
+import { KIT_STORY_FORMS } from '@/lib/config';
+
+interface Props {
+  kind: 'dataset' | 'ledger';
+  title: string;
+  text: string;
+  button?: string;
+}
+const { kind, title, text, button = kind === 'dataset' ? 'Send me the CSV' : 'Send me the Ledger first' } = Astro.props;
+const action = KIT_STORY_FORMS[kind];
+---
+
+<aside class="gated" data-pagefind-ignore>
+  <p class="eyebrow">{kind === 'dataset' ? 'The data' : 'For publishers and store owners'}</p>
+  <h2>{title}</h2>
+  <p>{text}</p>
+  <NewsletterForm id={`gated-${kind}`} formAction={action} buttonLabel={button} />
+  {!action && <PreviewNote>The Kit form for "{kind}" is not set yet (KIT_STORY_FORMS in src/lib/config.ts), so this posts to the general newsletter.</PreviewNote>}
+</aside>
+
+<style>
+  .gated {
+    margin: var(--space-7) 0;
+    padding: var(--space-5) var(--space-6);
+    border-radius: var(--radius-card);
+    background: var(--color-accent-soft);
+  }
+
+  .gated h2 {
+    margin-top: 0;
+    font-size: var(--text-2xl);
+  }
+</style>

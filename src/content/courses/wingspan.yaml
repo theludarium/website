@@ -1,0 +1,96 @@
+title: "From Feeder to Flock"
+game: "Wingspan"
+format: full
+order: 120
+wave: "1"
+draft: false
+publisher: "Stonemaier Games"
+notice: "Unofficial. Not affiliated with Stonemaier Games. This is not an official Stonemaier product. Wingspan is a trademark of Stonemaier LLC."
+rulesEdition: "Wingspan rulebook and appendix, English (Stonemaier Games, 2019), checked against the official Rulepop reference and the Rules and FAQ page, October 2026"
+rulesSource: "https://stonemaiergames.com/games/wingspan/rules/"
+players: "1 to 5"
+playTime: "40 to 70 minutes"
+ages: "Ages 10 and up"
+promise: "Learn Wingspan, teach it in ten minutes, and build a bird engine that keeps scoring, from your first five cards to your last egg."
+description: "A free Wingspan course: learn the rules, teach them in ten minutes, then master openings, engines, eggs, scoring math, expansions, and tournament play."
+audience:
+  - "New players who want the rules clear before the first bird lands."
+  - "Hosts who teach Wingspan to family, friends, or a new group."
+  - "Players who love the game but keep finishing a few points behind."
+  - "Anyone curious about solo play, expansions, and tournaments."
+levels:
+  - level: 0
+    name: "Fledgling"
+    label: "Learn to play"
+    outcome: "Set up, teach, and finish a full game, and read every part of a bird card at a glance, without opening the rulebook."
+  - level: 1
+    name: "Birdwatcher"
+    label: "Beginner"
+    outcome: "Dodge the common rules slips, keep a hand you can play, run the birdfeeder well, and plan for all four round goals from turn one."
+  - level: 2
+    name: "Naturalist"
+    label: "Intermediate"
+    outcome: "Time your engine, pick scoring powers and bonus cards that pay, count every point in round four, and choose your first expansion."
+  - level: 3
+    name: "Ornithologist"
+    label: "Advanced"
+    outcome: "Price any bird in turns and points, put odds on dice and draws, read the whole table, and beat the Automa on its hardest setting."
+  - level: 4
+    name: "Big Year"
+    label: "Tournament ready"
+    outcome: "Play a four-player game under World Boardgaming Championships rules inside two hours, and follow a practice plan toward a heat win."
+afterLesson3: "Teach and play a clean game of Wingspan, with egg costs, the birdfeeder, and goal scoring done right, and read every part of a bird card at a glance."
+afterLesson8: "Dodge the common slips, read an opening hand, run the birdfeeder, plan for the round goals, and know when your engine is big enough to start scoring."
+faq:
+  - q: "How many turns do you get in Wingspan?"
+    a: "You get 8 turns in round 1, 7 in round 2, 6 in round 3, and 5 in round 4, for 26 in all. At the end of each round, one of your action cubes stays on the goal board to mark your score, so you have one fewer cube to play."
+  - q: "How much does it cost to play a bird in Wingspan?"
+    a: "You pay the food cost in the top left of the card, plus an egg cost set by the column. The first column is free, columns 2 and 3 cost 1 egg, and columns 4 and 5 cost 2 eggs. When you play a bird, any 2 food tokens can stand in for 1 food of any type."
+  - q: "When can you reroll the birdfeeder in Wingspan?"
+    a: "If every die in the birdfeeder shows the same face, including when only one die is left, you may reroll all 5 dice before you gain food. If the birdfeeder is empty, roll all 5 dice back in."
+  - q: "How do ties work for end-of-round goals in Wingspan?"
+    a: "On the green side of the goal board, tied players add the points for their place and the next place, divide by the number of tied players, and round down. The next place is not awarded to anyone else."
+  - q: "Who wins a tie in Wingspan?"
+    a: "The player with the most unused food tokens wins. If players are still tied, they share the victory."
+  - q: "Can you play Wingspan solo?"
+    a: "Yes. The base game includes the Automa, a solo opponent run by a small deck of cards. You always take the first turn of each round, and the Automa always takes the last."
+teachSheet:
+  goal: "Score the most points by attracting birds to three habitats and building an engine that grows every round."
+  setup:
+    - "Shuffle the bird deck. Put 3 birds face up on the bird tray."
+    - "Toss the 5 food dice into the birdfeeder. Put food and eggs in a shared supply."
+    - "Place the goal board (blue side for new players) and 4 random goal tiles."
+    - "Each player takes a mat, 8 cubes, 2 bonus cards, 5 birds, and 5 food (1 of each)."
+    - "Keep up to 5 birds, paying 1 food for each bird you keep."
+    - "Keep 1 bonus card. Pick a random first player."
+  turn:
+    - "Place 1 action cube and take 1 of 4 actions."
+    - "Play a bird: pay its food cost and the column's egg cost. Use any when played power."
+    - "Or gain food (forest), lay eggs (grassland), or draw birds (wetland) from your leftmost open slot."
+    - "Then move your cube right to left, using that row's brown powers. All are optional."
+    - "Pink powers fire on other players' turns, once between each of your turns."
+    - "Refill the bird tray at the end of your turn."
+  scoring:
+    - "Each bird scores its printed points."
+    - "Bonus cards score as printed on the card."
+    - "End-of-round goals score as marked on the goal board."
+    - "1 point for each egg, each cached food, and each tucked card."
+    - "Tie: most unused food tokens wins. Still tied: share the win."
+  endGame: "The game ends after round 4. Rounds give 8, 7, 6, then 5 turns, since each round's goal keeps 1 cube."
+  tips:
+    - "Build early. A bird played in round 1 can fire all game."
+    - "Read all four round goals before you play your first bird."
+    - "In round 4, eggs are often the most points per turn."
+diagramAlt: "Wingspan setup: a shared area with the face-down bird deck, the bird tray holding 3 face-up birds, the birdfeeder with 5 food dice, the goal board with goal tiles for rounds 1 to 4, the bonus card deck, and the food and egg supply. Below, one player's mat with egg costs over its 5 columns (free, 1 egg, 1 egg, 2 eggs, 2 eggs) and empty forest, grassland, and wetland rows, beside that player's 8 action cubes, 5 starting birds and 5 food, 2 bonus cards to choose from, and the first-player token."
+games: [wingspan]
+related:
+  - "wingspan-strategy"
+  - "wingspan-vs-everdell"
+  - "wingspan-vs-everdell-vs-cascadia"
+  - "engine-building-games"
+  - "tableau-board-games"
+  - "how-to-teach-a-board-game"
+  - "luck-vs-skill-board-games"
+  - "best-solo-board-games"
+  - "expansions-worth-it"
+  - "how-to-start-a-play-group"
