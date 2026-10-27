@@ -139,6 +139,7 @@ export const KIT_COURSE_FORMS: Record<string, { action: string; alerts?: string 
   lorcana: { action: 'https://app.kit.com/forms/10099924/subscriptions' },
   yugioh: { action: 'https://app.kit.com/forms/10099926/subscriptions' },
   'cube-draft': { action: 'https://app.kit.com/forms/10099930/subscriptions' },
+  guild: { action: 'https://app.kit.com/forms/10104085/subscriptions' },
 };
 /**
  * Kit forms for the recurring stories (docs/stories/README.md): `dataset` is
