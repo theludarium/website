@@ -1,0 +1,91 @@
+title: "The Right Trick"
+game: "The Crew"
+format: full
+order: 225
+wave: "1"
+draft: false
+publisher: "KOSMOS"
+notice: "Unofficial. Not affiliated with KOSMOS or Thames & Kosmos. The Crew is a trademark of Franckh-Kosmos Verlags-GmbH & Co. KG."
+rulesEdition: "The Crew: The Quest for Planet Nine rulebook and logbook, English edition (Thames & Kosmos, 2019, item 691868)"
+rulesSource: "https://www.thamesandkosmos.com/manuals/full/691868_Crew_Manual.pdf"
+players: "3 to 5, with a 2-player variant"
+playTime: "About 20 minutes per session"
+ages: "Ages 10 and up"
+promise: "Learn The Crew, teach it in five minutes, then read every signal, count the rockets, plan your task order, and fly all 50 missions without a word about your cards."
+description: "A free The Crew course: learn the rules, teach them in five minutes, then master signals, task picks, rockets, card counting, the 50 missions, and Deep Sea."
+audience:
+  - "Hosts who want a short co-op that makes a whole table pull together."
+  - "Card players who know trick-taking and want a new reason to love it."
+  - "Crews stuck on a mission who want a plan instead of another reshuffle."
+  - "Anyone who has lost a mission because a teammate won the wrong card."
+levels:
+  - level: 0
+    name: "Recruit"
+    label: "Learn to play"
+    outcome: "Deal, teach, and fly your first missions of The Crew, signals and tasks included, without opening the rulebook."
+  - level: 1
+    name: "Navigator"
+    label: "Beginner"
+    outcome: "Skip the first-mission slips, send a signal that says more than one card, and pick tasks your hand can actually win."
+  - level: 2
+    name: "Pilot"
+    label: "Intermediate"
+    outcome: "Spend your rockets on purpose, count what is left in each color, play task tokens in order, and read the signals nobody sends."
+  - level: 3
+    name: "Explorer"
+    label: "Expert"
+    outcome: "Fly the campaign at any player count, decide when to call for help, take on Mission Deep Sea, and find more crews to fly with."
+afterLesson3: "Teach and play a clean mission of The Crew, following suit, signaling, and claiming tasks by the rules, without the slips that fail new crews."
+afterLesson8: "Send clear signals, choose tasks your hand can win, spend rockets on purpose, count the colors, and fulfill task tokens in the right order."
+faq:
+  - q: "Can you talk during The Crew?"
+    a: "You can talk, but never about the cards in your hand. You may not show, say, or hint at what you hold. Your only way to share card information is your one radio communication per mission attempt."
+  - q: "How does communication work in The Crew?"
+    a: "Once per mission attempt, before a trick and never during one, you place one color card face up in front of you. Your radio token goes on top if it is your highest card of that color, in the middle if it is your only one, and at the bottom if it is your lowest. Rocket cards can never be communicated."
+  - q: "Who is the commander in The Crew?"
+    a: "Whoever holds the 4 rocket. The commander takes the first task card, leads the first trick, and handles any special rule the mission sets. A new commander is found on every attempt, after the deal."
+  - q: "Can you play The Crew with two players?"
+    a: "Yes, with the variant in the rulebook. A third crew member called JARVIS is made from a double row of 14 cards, and the commander picks JARVIS's tasks and plays its face-up cards without discussion."
+  - q: "What is the distress signal in The Crew?"
+    a: "An optional help before the first trick. Everyone passes one card to a neighbor, all in the same direction, and rockets can never be passed. It stays on for every attempt of that mission and adds one to the attempts you record in the logbook."
+  - q: "What is the difference between The Crew and The Crew: Mission Deep Sea?"
+    a: "Both use the same trick-taking and communication rules. The Quest for Planet Nine gives you 50 missions built from cards to win in a set order. Mission Deep Sea uses new task cards with difficulty ratings, so tasks can ask for things like winning a set number of tricks."
+teachSheet:
+  goal: "Complete the mission together: each player wins the tricks holding the cards on their own task cards."
+  setup:
+    - "Shuffle all 40 large cards and deal them all out face down."
+    - "With three players, one player gets an extra card; it stays unplayed at the end."
+    - "Each player takes a radio token, green side up, and has a reminder card nearby."
+    - "Place the distress signal token face down."
+    - "Shuffle the 36 small task cards into a face-down pile. Keep task tokens handy."
+    - "Read the mission in the logbook; turn up that many task cards."
+    - "Whoever holds the 4 rocket is commander and takes the commander token."
+  turn:
+    - "Commander takes a task card first, then players take one each, clockwise, until none are left."
+    - "Commander leads the first trick; whoever wins a trick leads the next."
+    - "Follow the suit led if you can. If you cannot, play any card."
+    - "Highest card of the suit led wins, unless a rocket was played."
+    - "Rockets are trumps: the highest rocket in a trick wins it."
+    - "Never talk about your cards. You do not have to win a trick."
+    - "Once per mission, before a trick: show one color card with your radio token."
+    - "Token at top: your highest of that color. Middle: your only one. Bottom: your lowest."
+  scoring:
+    - "Win a trick holding your task's card: flip that task card over. It is done."
+    - "Anyone wins a card on someone else's task: the mission fails. Reshuffle and try again."
+    - "All tasks done: mission complete. Record your attempts in the logbook."
+    - "Used the distress signal? Add one to the attempts you record."
+  endGame: "A mission ends the moment every task is fulfilled, or the moment it fails. Failed missions start over with a new deal and new tasks. The campaign ends when your crew completes mission 50."
+  tips:
+    - "No signal is a signal: if nobody speaks up, chase your tasks directly."
+    - "Low task cards are easiest to win when you do not hold them."
+    - "Holding only an 8 and 9 of a color? Signal the 8 as lowest."
+diagramAlt: "The Crew at the start of a four-player mission: each player's hand of ten cards with a green radio token in front, the commander token by the player holding the 4 rocket, task cards face up in the middle with a task token, the face-down task deck, the distress signal token, and a key to the 40-card deck of four colors from 1 to 9 plus rockets 1 to 4."
+games: [the-crew-planet-nine, the-crew-mission-deep-sea]
+related:
+  - "the-crew-card-game"
+  - "cooperative-games-teamwork"
+  - "co-op-games-without-quarterback-problem"
+  - "quarterback-problem-cooperative-games"
+  - "best-cooperative-board-games"
+  - "board-games-under-20-dollars"
+  - "how-to-teach-a-board-game"
