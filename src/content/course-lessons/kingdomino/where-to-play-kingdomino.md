@@ -4,7 +4,7 @@ description: "Where to play Kingdomino: online on Board Game Arena, the official
 course: kingdomino
 order: 13
 level: 3
-emailSubject: "Yes, there is a Kingdomino world championship"
+emailSubject: "Kingdomino has had a world championship"
 pubDate: 2026-10-27
 draft: false
 oneIdea: "Kingdomino rewards volume: short games, many of them. Online play builds your counting and pricing fast, and a small Dynasty tournament at home brings the same sharpness to the table."
