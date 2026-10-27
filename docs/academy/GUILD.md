@@ -1,6 +1,6 @@
-# The Ludarium Guild of Game Teachers: writer's guide
+# The Ludarium Guild of Game Guides: writer's guide
 
-The Guild is the Academy's skills program on how to teach a board game. Every other Academy course teaches one game; this one teaches the teacher. It grew out of the article [How to Teach a Board Game in Five Minutes](../../src/content/articles/how-to-teach-a-board-game.md) and Levi's course blueprint ("The Ludarium Guild of Game Teachers: Program Blueprint", a Claude doc, October 26, 2026). Decisions are logged in `DECISIONS.md` (2026-10-26).
+The Guild is the Academy's skills program on how to teach a board game. Every other Academy course teaches one game; this one teaches the teacher. It grew out of the article [How to Teach a Board Game in Five Minutes](../../src/content/articles/how-to-teach-a-board-game.md) and Levi's course blueprint ("The Ludarium Guild of Game Guides: Program Blueprint", a Claude doc, October 26, 2026). Decisions are logged in `DECISIONS.md` (2026-10-26).
 
 ## Who it is for
 
@@ -41,7 +41,7 @@ Use these names exactly. Lessons refer back to them often, so a student hears th
 
 - **Apprentice** after Modules 0 to 2.
 - **Journeyman** after Modules 3 to 5.
-- **Expert Game Teacher** after Modules 6 and 7 and an accepted capstone: the student teaches one non-gamer, fills in the Self-Assessment and the newcomer's Feedback Card, and submits them. Levi reviews it and sends the certificate. The title is earned only when the newcomer agreed to a second game.
+- **Expert Game Guide** after Modules 6 and 7 and an accepted capstone: the student teaches one non-gamer, fills in the Self-Assessment and the newcomer's Feedback Card, and submits them. Levi reviews it and sends the certificate. The title is earned only when the newcomer agreed to a second game.
 
 The first two ranks are milestones the student claims; only the last is reviewed. Do not promise a badge, a roster, or anything else that does not exist yet.
 

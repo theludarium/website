@@ -203,7 +203,7 @@ const courseLessons = defineCollection({
   }),
 });
 
-// The Ludarium Guild of Game Teachers (src/lib/guild.ts): the Academy's skills
+// The Ludarium Guild of Game Guides (src/lib/guild.ts): the Academy's skills
 // program on teaching board games. One file per lesson in
 // src/content/guild-lessons/<slug>.md, published at /academy/guild/<slug>/.
 // Writer's guide: docs/academy/GUILD.md.

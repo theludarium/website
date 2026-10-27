@@ -1,5 +1,5 @@
 ---
-// The Ludarium Guild of Game Teachers: the program page. Hero with the signup
+// The Ludarium Guild of Game Guides: the program page. Hero with the signup
 // and the certificate (the hero image is proof of what a student earns), three
 // objections, the method, the ranks, every lesson grouped by module, the
 // toolkit, and the FAQ. Follows the landing page rules in CLAUDE.md above the
@@ -34,7 +34,7 @@ const faq = [
   },
   {
     q: 'What does it mean to be certified?',
-    a: 'Finish the lessons, teach one person who does not play board games, and send in your capstone: your own scores and the newcomer’s answers. The Ludarium reviews it by hand. If your newcomer said yes to another game, you receive the Expert Game Teacher certificate by email.',
+    a: 'Finish the lessons, teach one person who does not play board games, and send in your capstone: your own scores and the newcomer’s answers. The Ludarium reviews it by hand. If your newcomer said yes to another game, you receive the Expert Game Guide certificate by email.',
   },
   {
     q: 'How long does it take?',
@@ -93,7 +93,7 @@ const structuredData = [
   title="How to Teach a Board Game: Free Training"
   description={GUILD.description}
   image="/og/academy/guild.png"
-  imageAlt="The Ludarium Guild of Game Teachers: teach any board game in five minutes"
+  imageAlt="The Ludarium Guild of Game Guides: teach any board game in five minutes"
 >
   <script slot="head" type="application/ld+json" set:html={JSON.stringify(structuredData)} />
 
@@ -105,7 +105,7 @@ const structuredData = [
         <p class="guild-hero__sub">
           A free training program for the person who always wants to play more. Learn to pick the right game, teach
           it fast, and run a first game that ends with a yes to the next one. Then teach one newcomer and earn the
-          title Expert Game Teacher.
+          title Expert Game Guide.
         </p>
         <CourseForm course="guild" id="guild-signup" buttonLabel="Start the training, free" note="35 short lessons by email, plus the printable toolkit. Free. Unsubscribe anytime." />
       </div>
@@ -167,7 +167,7 @@ const structuredData = [
 
   <section class="section guild-ranks" aria-labelledby="guild-ranks-title">
     <div class="container">
-      <h2 id="guild-ranks-title">From Apprentice to Expert Game Teacher</h2>
+      <h2 id="guild-ranks-title">From Apprentice to Expert Game Guide</h2>
       <ol class="guild-ranks__list">
         {
           RANKS.map((r, i) => (

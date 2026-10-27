@@ -1,5 +1,5 @@
 ---
-// The Expert Game Teacher certificate. On the Guild page it is a preview (the
+// The Expert Game Guide certificate. On the Guild page it is a preview (the
 // hero image: proof of what a student earns). On /academy/guild/certificate/
 // Levi fills in a name, date and number and prints it to PDF for a student
 // whose capstone he accepted.
@@ -16,18 +16,18 @@ interface Props {
 const { name = 'Your name here', date = '', number = '', preview = false } = Astro.props;
 ---
 
-<figure class:list={['cert', { 'cert--preview': preview }]} aria-label={preview ? 'A preview of the Expert Game Teacher certificate' : undefined}>
+<figure class:list={['cert', { 'cert--preview': preview }]} aria-label={preview ? 'A preview of the Expert Game Guide certificate' : undefined}>
   <div class="cert__frame">
     <svg class="cert__seal" viewBox="0 0 64 64" aria-hidden="true">
       <circle cx="32" cy="32" r="31" class="cert__seal-hex" />
       <circle cx="32" cy="32" r="27.5" class="cert__seal-inner" />
       <path d={MARK_PATH} fill-rule="evenodd" transform="translate(12.8 12.8) scale(0.6)" class="cert__seal-mark" />
     </svg>
-    <p class="cert__org">The Ludarium Guild of Game Teachers</p>
+    <p class="cert__org">The Ludarium Guild of Game Guides</p>
     <p class="cert__line">This certifies that</p>
     <p class="cert__name" data-cert-name>{name}</p>
-    <p class="cert__line">has completed the Guild’s training and capstone, taught a newcomer who said yes to the next game, and is a</p>
-    <p class="cert__title">Expert Game Teacher</p>
+    <p class="cert__line">has completed the Guild’s training and capstone, taught a newcomer who said yes to the next game, and is an</p>
+    <p class="cert__title">Expert Game Guide</p>
     <div class="cert__foot">
       <span><strong>Date</strong> <span data-cert-date>{date || ' '}</span></span>
       <span class="cert__motto">The game is the reason. The people are the point.</span>

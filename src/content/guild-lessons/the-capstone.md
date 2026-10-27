@@ -1,6 +1,6 @@
 ---
 title: "The Capstone: Earn the Title"
-description: "The Guild capstone: teach one non-gamer a board game, score your teach, collect their feedback card, and submit both to earn the Expert Game Teacher title."
+description: "The Guild capstone: teach one non-gamer a board game, score your teach, collect their feedback card, and submit both to earn the Expert Game Guide title."
 module: 7
 order: 35
 emailSubject: "One newcomer, one game, one yes"
@@ -10,7 +10,7 @@ oneIdea: "To earn the title, teach one person who does not play games, and repor
 drill: "Choose your newcomer and your game this week, put the date on the calendar, and print the Self-Assessment and the Feedback Card. After the game, submit the capstone."
 tool: capstone
 check:
-  - question: "What decides whether a capstone earns the Expert Game Teacher title?"
+  - question: "What decides whether a capstone earns the Expert Game Guide title?"
     options: ["A perfect score on the Self-Assessment", "The newcomer agreed to a second game", "The newcomer won the game"]
     answer: B
     explain: "The Second Game has been the score since lesson one. Your scores and their answers show how you got there, but the yes is the title."
@@ -27,7 +27,7 @@ games: [azul]
 
 You have learned to pick a game, prep it, teach it in five minutes, run the first game, and close with the next one on the calendar. Now you do all of it once, for one person, and tell the Guild how it went.
 
-That is the capstone. It is one evening and one form. At the end of it, you can earn the title Expert Game Teacher.
+That is the capstone. It is one evening and one form. At the end of it, you can earn the title Expert Game Guide.
 
 ## The assignment
 
@@ -64,7 +64,7 @@ Notice what makes that a strong submission. The scores are honest, including the
 
 ## What happens next
 
-Levi reviews each submission by hand, and a review takes about a week. If your newcomer said yes to another game, he emails you your Expert Game Teacher certificate.
+Levi reviews each submission by hand, and a review takes about a week. If your newcomer said yes to another game, he emails you your Expert Game Guide certificate.
 
 That is the whole process. No test, no fee, no trick questions. Just one person, one game, and an honest account of how it went.
 

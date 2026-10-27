@@ -12,7 +12,7 @@ The person who teaches the game has more power over the night than the person wh
 
 You do not need to be a rules expert. You need a plan.
 
-> **This is the five-minute version.** The full training is free: [The Ludarium Guild of Game Teachers](/academy/guild/) takes you from picking the right game to running a first game newcomers love, in 35 short lessons. Finish the capstone and earn the title Expert Game Teacher.
+> **This is the five-minute version.** The full training is free: [The Ludarium Guild of Game Guides](/academy/guild/) takes you from picking the right game to running a first game newcomers love, in 35 short lessons. Finish the capstone and earn the title Expert Game Guide.
 
 ## Know it before they arrive
 
@@ -40,4 +40,4 @@ The goal of a teach is not perfect understanding. It is getting everyone playing
 
 ## Go further
 
-Every step above is a lesson in [The Ludarium Guild of Game Teachers](/academy/guild/), our free training program, with a printable [teach script](/academy/guild/write-your-teach-script/), a [Gotcha Index](/academy/guild/toolkit/gotcha-index/) of the rule new players miss in popular games, and finished [one-page teach sheets](/academy/guild/toolkit/teach-library/). Start with [lesson one](/academy/guild/the-second-game/).
+Every step above is a lesson in [The Ludarium Guild of Game Guides](/academy/guild/), our free training program, with a printable [teach script](/academy/guild/write-your-teach-script/), a [Gotcha Index](/academy/guild/toolkit/gotcha-index/) of the rule new players miss in popular games, and finished [one-page teach sheets](/academy/guild/toolkit/teach-library/). Start with [lesson one](/academy/guild/the-second-game/).

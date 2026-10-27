@@ -1,4 +1,4 @@
-// Builds the Kit sequence emails for The Ludarium Guild of Game Teachers, one
+// Builds the Kit sequence emails for The Ludarium Guild of Game Guides, one
 // email per lesson, following docs/academy/LESSON-EMAIL.md with the Guild's
 // own lines (the drill, the toolkit, new modules and ranks, the capstone).
 // Writes guild.json (for loading into Kit) and guild.html (a preview to read
@@ -61,7 +61,7 @@ const emails = lessons.map((l, i) => {
   let ps = '';
   if (n === 1) ps = `Your toolkit is ready: <a href="${SITE}/academy/guild/kit/?${utm('kit')}">every printable from the training</a>, in one place. Bookmark it; each lesson tells you which one its drill uses.`;
   else if (n === 2) ps = 'Hit reply and tell me who you most want to play games with. I read every reply.';
-  else if (n === total) ps = `This is the last lesson. Your final step is the <a href="${SITE}/academy/guild/capstone/?${utm('capstone')}">capstone</a>: teach one newcomer and tell us how it went. If they said yes to another game, you earn the title Expert Game Teacher.`;
+  else if (n === total) ps = `This is the last lesson. Your final step is the <a href="${SITE}/academy/guild/capstone/?${utm('capstone')}">capstone</a>: teach one newcomer and tell us how it went. If they said yes to another game, you earn the title Expert Game Guide.`;
   const rank = newModule && RANK_AT[l.module];
   const parts = [
     `<p>Hi {{ subscriber.first_name | default: "there" }},</p>`,
@@ -84,7 +84,7 @@ const emails = lessons.map((l, i) => {
 });
 
 fs.mkdirSync(out, { recursive: true });
-fs.writeFileSync(path.join(out, 'guild.json'), JSON.stringify({ slug: 'guild', title: 'The Ludarium Guild of Game Teachers', emails }, null, 1));
+fs.writeFileSync(path.join(out, 'guild.json'), JSON.stringify({ slug: 'guild', title: 'The Ludarium Guild of Game Guides', emails }, null, 1));
 fs.writeFileSync(
   path.join(out, 'guild.html'),
   `<meta charset="utf-8"><body style="max-width:640px;margin:auto;font-family:system-ui">` +

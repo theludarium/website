@@ -1,5 +1,5 @@
 ---
-// Page shell for the Guild of Game Teachers toolkit (src/lib/guild-tools.ts).
+// Page shell for the Guild of Game Guides toolkit (src/lib/guild-tools.ts).
 // Public tools are indexed; kit tools (sent with the email course) are noindex
 // and left out of the sitemap. On screen: a back link, a print button and the
 // program signup. In print: only the sheet.
@@ -23,7 +23,7 @@ const info = guildTool(tool);
 <BaseLayout title={title} description={description} noindex={info.access === 'kit'}>
   <div class="container tool-bar" data-pagefind-ignore>
     <nav class="tool-bar__crumbs" aria-label="Breadcrumb">
-      <a href="/academy/guild/">Guild of Game Teachers</a>
+      <a href="/academy/guild/">Guild of Game Guides</a>
       <span aria-hidden="true">/</span>
       <a href="/academy/guild/toolkit/">Toolkit</a>
     </nav>
@@ -32,7 +32,7 @@ const info = guildTool(tool);
 
   <article class="container tool-sheet">
     <header class="tool-sheet__head">
-      <p class="eyebrow">The Ludarium Guild of Game Teachers &middot; Toolkit</p>
+      <p class="eyebrow">The Ludarium Guild of Game Guides &middot; Toolkit</p>
       <h1>{info.name}</h1>
       <p class="tool-sheet__lede">{info.blurb}</p>
     </header>
@@ -48,7 +48,7 @@ const info = guildTool(tool);
     )}
     <div class="tool-after__signup">
       <h2>Get the whole toolkit, and the training, free.</h2>
-      <p>35 short lessons on teaching any board game, with every printable. Finish with the capstone to earn the title Expert Game Teacher.</p>
+      <p>35 short lessons on teaching any board game, with every printable. Finish with the capstone to earn the title Expert Game Guide.</p>
       <CourseForm course="guild" id="tool-signup" buttonLabel="Start the training, free" />
     </div>
   </aside>

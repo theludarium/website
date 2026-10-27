@@ -1,11 +1,11 @@
-// Guild of Game Teachers capstone submissions: POST /api/guild-capstone
+// Guild of Game Guides capstone submissions: POST /api/guild-capstone
 //
 // A Cloudflare Pages Function, the same shape as functions/api/inquiry.ts.
 // 1. Drops obvious bots (hidden honeypot field) and checks Cloudflare Turnstile.
 // 2. Validates the submission: the student's details, the ten Self-Assessment
 //    scores, and the newcomer's Feedback Card answers.
 // 3. Emails it to Levi through Resend, with reply-to set to the student, so he
-//    can review it and send the Expert Game Teacher certificate.
+//    can review it and send the Expert Game Guide certificate.
 // 4. Redirects to /academy/guild/capstone/thanks/, or back to the form with an error code.
 //
 // It reuses the inquiry form's settings in the Cloudflare Pages project:
@@ -110,7 +110,7 @@ export const totalScore = (c: Capstone) => Object.values(c.scores).reduce((a, b)
 
 export function emailText(c: Capstone): string {
   return [
-    'New Guild of Game Teachers capstone from theludarium.com',
+    'New Guild of Game Guides capstone from theludarium.com',
     '',
     `Student:          ${c.name}`,
     `Name to print:    ${c.certName}`,

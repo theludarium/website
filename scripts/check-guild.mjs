@@ -1,4 +1,4 @@
-// Checks the Guild of Game Teachers lessons before a build:
+// Checks the Guild of Game Guides lessons before a build:
 //   node scripts/check-guild.mjs            all lessons
 //   node scripts/check-guild.mjs <slug> ...  only these lessons (plus the program-wide checks)
 // Frontmatter fields, description lengths, word counts, no em or en dashes, no

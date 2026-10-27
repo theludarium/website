@@ -1,4 +1,4 @@
-// Tests for functions/api/guild-capstone.ts, the Guild of Game Teachers
+// Tests for functions/api/guild-capstone.ts, the Guild of Game Guides
 // capstone form. Run: npm test
 import assert from 'node:assert/strict';
 import { test } from 'node:test';

@@ -1,8 +1,8 @@
-// The Ludarium Guild of Game Teachers: the Academy's skills program on how to
+// The Ludarium Guild of Game Guides: the Academy's skills program on how to
 // teach a board game. Unlike the game courses it teaches the teacher, so it has
 // its own lessons collection (src/content/guild-lessons/), its own pages under
 // /academy/guild/, a toolkit of printables, and a capstone that Levi reviews by
-// hand before a student is certified as an Expert Game Teacher.
+// hand before a student is certified as an Expert Game Guide.
 // Writer's guide: docs/academy/GUILD.md. Decision log: DECISIONS.md, 2026-10-26.
 import { getCollection, type CollectionEntry } from 'astro:content';
 import { SHOW_DRAFTS } from '@/lib/articles';
@@ -14,13 +14,13 @@ export type GuildLesson = CollectionEntry<'guildLessons'>;
 
 export const GUILD = {
   slug: 'guild',
-  title: 'The Ludarium Guild of Game Teachers',
-  shortTitle: 'Guild of Game Teachers',
+  title: 'The Ludarium Guild of Game Guides',
+  shortTitle: 'Guild of Game Guides',
   /** The title graduates earn. */
-  credential: 'Expert Game Teacher',
+  credential: 'Expert Game Guide',
   promise: 'Teach any board game in five minutes, and get a yes to the next game night.',
   description:
-    'A free training program in 35 short lessons: pick the right game, teach it in five minutes, run a first game newcomers love, and earn the Expert Game Teacher title.',
+    'A free training program in 35 short lessons: pick the right game, teach it in five minutes, run a first game newcomers love, and earn the Expert Game Guide title.',
   audience: [
     'You always want to play more, and the people you love mostly do not play board games.',
     'You have watched a newcomer’s eyes glaze over during your rules explanation, and you know the game deserved better.',
@@ -50,14 +50,14 @@ export const MODULES: GuildModule[] = [
   { module: 4, name: 'Play', label: 'The first game', outcome: 'Run a first game where the newcomer makes a good move early and nobody gets crushed.' },
   { module: 5, name: 'Close', label: 'After the game', outcome: 'Leave every game night with the next one on the calendar.' },
   { module: 6, name: 'The Field Guide', label: 'Special situations', outcome: 'Teach kids, cooperative games, party games, heavy games, mixed tables, and games you have never played.' },
-  { module: 7, name: 'The Capstone', label: 'Certification', outcome: 'Teach one non-gamer, score your own teach, and earn the title Expert Game Teacher.' },
+  { module: 7, name: 'The Capstone', label: 'Certification', outcome: 'Teach one non-gamer, score your own teach, and earn the title Expert Game Guide.' },
 ];
 
 /** Ranks a student passes on the way to certification. The last one is earned only through the capstone. */
 export const RANKS = [
   { name: 'Apprentice', after: 'Modules 0 to 2', text: 'You know why teaches fail and you can prepare one that will not.' },
   { name: 'Journeyman', after: 'Modules 3 to 5', text: 'You can teach, run, and close a first game from start to finish.' },
-  { name: 'Expert Game Teacher', after: 'Modules 6 and 7, and the capstone', text: 'You have taught a non-gamer who said yes to the next game, and the Guild has reviewed it.' },
+  { name: 'Expert Game Guide', after: 'Modules 6 and 7, and the capstone', text: 'You have taught a non-gamer who said yes to the next game, and the Guild has reviewed it.' },
 ];
 
 /** The five principles under every lesson. */
