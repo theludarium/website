@@ -1,0 +1,100 @@
+---
+// The Services hub: one card per service from src/lib/services.ts.
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageIntro from '@/components/PageIntro.astro';
+import { MARK_PATH, MARK_VIEWBOX } from '@/lib/brand';
+import { SERVICES } from '@/lib/services';
+---
+
+<BaseLayout
+  title="Services"
+  description="Work with The Ludarium. Leadership and team training taught through tabletop games, with more services for players and designers on the way."
+>
+  <PageIntro
+    eyebrow="Services"
+    title="Work with The Ludarium"
+    lede="The same games we write about, put to work for you. Pick a service to see how it runs and get in touch."
+  />
+
+  <section class="container service-list">
+    {
+      SERVICES.map((s) => (
+        <article class="card service">
+          <svg class="service__mark" viewBox={MARK_VIEWBOX} aria-hidden="true">
+            <path fill="currentColor" fill-rule="evenodd" d={MARK_PATH} />
+          </svg>
+          <div>
+            <p class="eyebrow">{s.audience}</p>
+            <h2>
+              <a href={s.href}>{s.name}</a>
+            </h2>
+            <p>{s.blurb}</p>
+            <p class="service__link">
+              <a class="text-link" href={s.href}>
+                {s.cta}
+              </a>
+            </p>
+          </div>
+        </article>
+      ))
+    }
+
+    <p class="service-list__more">
+      More services are on the way. <a href="/newsletter/">Join the newsletter</a> to hear when they open.
+    </p>
+  </section>
+</BaseLayout>
+
+<style>
+  .service-list {
+    display: grid;
+    gap: var(--space-5);
+    padding-bottom: var(--space-8);
+  }
+
+  .service {
+    display: grid;
+    grid-template-columns: 4rem 1fr;
+    gap: var(--space-5);
+    align-items: start;
+  }
+
+  .service__mark {
+    width: 4rem;
+    color: var(--color-primary);
+  }
+
+  .service h2 {
+    margin: 0 0 var(--space-2);
+    font-size: var(--text-2xl);
+  }
+
+  .service h2 a {
+    color: var(--color-text);
+    text-decoration: none;
+  }
+
+  .service h2 a:hover {
+    color: var(--color-primary);
+  }
+
+  .service__link {
+    margin: var(--space-3) 0 0;
+    font-weight: 600;
+  }
+
+  .service-list__more {
+    margin: var(--space-3) 0 0;
+    color: var(--color-text-muted);
+  }
+
+  @media (max-width: 36rem) {
+    .service {
+      grid-template-columns: 1fr;
+    }
+
+    .service__mark {
+      width: 3rem;
+    }
+  }
+</style>

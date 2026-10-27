@@ -1,3 +1,5 @@
+import { SERVICES } from './services';
+
 export const SITE = {
   name: 'The Ludarium',
   url: 'https://theludarium.com',
@@ -100,7 +102,14 @@ export const MAIN_NAV: NavItem[] = [
       { href: '/lounges/indianapolis/', label: 'Indianapolis', description: 'Lounge No. 001. Join the waitlist.' },
     ],
   },
-  { href: '/corporate-events/', label: 'For Teams' },
+  {
+    href: '/services/',
+    label: 'Services',
+    children: [
+      { href: '/services/', label: 'All services', description: 'Ways to work with The Ludarium.' },
+      ...SERVICES.map((s) => ({ href: s.href, label: s.name, description: s.menuLine })),
+    ],
+  },
   { href: '/about/', label: 'About' },
 ];
 
@@ -122,7 +131,8 @@ export const FOOTER_NAV: { title: string; links: NavLink[] }[] = [
       { href: '/about/', label: 'About' },
       { href: '/lounges/', label: 'The lounges' },
       { href: '/lounges/indianapolis/', label: 'Indianapolis' },
-      { href: '/corporate-events/', label: 'Corporate events' },
+      { href: '/services/', label: 'Services' },
+      { href: '/corporate-events/', label: 'For teams' },
     ],
   },
   {

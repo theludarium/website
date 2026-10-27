@@ -117,6 +117,7 @@ Keep it simple. No CMS, database, or user accounts. Add a dependency only when i
 | `/academy/[course]/` | Course | One game course from `src/content/courses/` (Catan and the Game Shelf have their own pages): outcomes, lessons, teach sheet, signup, FAQ, unofficial notice. Plan and writer's guide: `docs/academy/COURSES.md` |
 | `/academy/guild/` | Guild of Game Guides | The Academy's skills program on teaching board games: 35 lessons in `src/content/guild-lessons/`, a toolkit at `/academy/guild/toolkit/`, and a capstone reviewed by hand for the Expert Game Guide certificate. Guide: `docs/academy/GUILD.md` |
 | `/academy/[course]/teach-sheet/` | Teach sheet | One-page printable for each game course; `scripts/teach-sheets.mjs` prints the PDFs |
+| `/services/` | Services | Hub for everything The Ludarium sells as a service; one card per entry in `src/lib/services.ts`, which also fills the Services menu |
 | `/corporate-events/` | Corporate Events | Leadership and team training through tabletop games; inquiry form |
 | `/lounges/` | The Lounges | The membership lounge vision and the network idea |
 | `/lounges/indianapolis/` | Indianapolis | The first lounge: what it will be, plus a waitlist signup |
