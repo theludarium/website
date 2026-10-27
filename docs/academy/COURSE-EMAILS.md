@@ -48,6 +48,9 @@ The pause URL must stay exactly `https://theludarium.com/academy/?utm_source=kit
 | Lorcana | Academy: Lorcana 10099924 | tcg-lorcana 25047033 | Course: Lorcana 2945041 | 22 | 5668829 |
 | Yu-Gi-Oh! | Academy: Yu-Gi-Oh! 10099926 | tcg-yugioh 25047041 | Course: Yu-Gi-Oh! 2945043 | 22 | 5668830 |
 | Cube draft | Academy: Cube draft 10099930 | tcg-cube-draft 25047043 | Course: Cube draft 2945044 | 23 | 5668833 |
+| Sushi Go! | Academy: Sushi Go! 10104635 | course-sushi-go 25084099 | Course: Sushi Go! 2946348 | 13 | 5670717 |
+| Kingdomino | Academy: Kingdomino 10104638 | course-kingdomino 25084112 | Course: Kingdomino 2946349 | 13 | 5670718 |
+| The Crew | Academy: The Crew 10104641 | course-the-crew 25084117 | Course: The Crew 2946350 | 13 | 5670719 |
 
 Shared: tag `academy-paused` 25038863, pause rule 5668327, automation Academy: Pause 2139548. Catan keeps its own level-based setup (`docs/academy/catan/`).
 

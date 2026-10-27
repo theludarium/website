@@ -139,6 +139,9 @@ export const KIT_COURSE_FORMS: Record<string, { action: string; alerts?: string 
   lorcana: { action: 'https://app.kit.com/forms/10099924/subscriptions' },
   yugioh: { action: 'https://app.kit.com/forms/10099926/subscriptions' },
   'cube-draft': { action: 'https://app.kit.com/forms/10099930/subscriptions' },
+  'sushi-go': { action: 'https://app.kit.com/forms/10104635/subscriptions' },
+  kingdomino: { action: 'https://app.kit.com/forms/10104638/subscriptions' },
+  'the-crew': { action: 'https://app.kit.com/forms/10104641/subscriptions' },
   guild: { action: 'https://app.kit.com/forms/10104085/subscriptions' },
 };
 /**
