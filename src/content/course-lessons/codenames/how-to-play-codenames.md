@@ -17,6 +17,8 @@ This lesson follows the current 2025 rulebook from Czech Games Edition for [Code
 
 <!-- AFFILIATE: Codenames -->
 
+**Prefer to watch first?** Watch It Played teaches the rules on video in its <a href="https://www.youtube.com/watch?v=J8RWBooJivg" target="_blank" rel="noopener">Codenames How To Play video</a>. Watch it, then come back here for the rules in writing and the rest of the course.
+
 ## How do you set up?
 
 In the box: 200 word cards with a word on each side, 8 red and 8 blue agent tiles, a double agent tile (red on one side, blue on the other), 7 innocent bystanders, 1 assassin, 40 key cards, and a card stand.

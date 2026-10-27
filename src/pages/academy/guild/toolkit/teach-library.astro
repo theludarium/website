@@ -1,0 +1,97 @@
+---
+// The Teach Library: every Academy game course's one-page teach sheet. Public tool.
+// The first ten are the gateway games the Guild recommends teaching first.
+import GuildToolLayout from '@/layouts/GuildToolLayout.astro';
+import { courseTrack, courseUrl, getGameCourses, teachSheetPdfUrl, teachSheetUrl } from '@/lib/courses';
+import '@/styles/guild-tools.css';
+
+const STARTERS = ['ticket-to-ride', 'codenames', 'azul', 'carcassonne', 'wingspan', 'pandemic', 'splendor', 'king-of-tokyo', 'cascadia', 'flip-7'];
+const courses = await getGameCourses();
+const starters = STARTERS.map((s) => courses.find((c) => c.id === s)).filter((c) => c !== undefined);
+const rest = courses.filter((c) => !STARTERS.includes(c.id));
+const boardGames = rest.filter((c) => courseTrack(c) === 'Board games');
+const cardGames = rest.filter((c) => courseTrack(c) === 'Trading card games');
+const shelves = [
+  { name: 'Start with these ten', note: 'Gateway games most people can learn in five minutes.', courses: starters },
+  { name: 'More board games', note: 'For newcomers who have played a few games already.', courses: boardGames },
+  { name: 'Trading card games', note: 'Teach sheets for the starter decks and a first game.', courses: cardGames },
+].filter((s) => s.courses.length);
+---
+
+<GuildToolLayout
+  tool="teach-library"
+  title="Free One-Page Board Game Teach Sheets"
+  description={`Free one-page teach sheets for ${courses.length} board and card games, from Ticket to Ride to Wingspan: the goal, setup, a turn, scoring and three tips, ready to print.`}
+  lesson={{ href: '/academy/guild/the-teach-library/', title: 'The Teach Library' }}
+  printable={false}
+>
+  <p class="tl-intro">
+    Each sheet holds a whole teach on one printed page: how you win, setup, a turn, scoring, how the game ends, and three
+    tips. Read it before your guests arrive, then keep it on the table, face up, for questions.
+  </p>
+  {
+    shelves.map((shelf) => (
+      <section class="ws-section">
+        <h2>{shelf.name}</h2>
+        <p class="ws-box__hint">{shelf.note}</p>
+        <ul class="tl-grid">
+          {shelf.courses.map((c) => (
+            <li class="tl-item">
+              <h3>{c.data.game}</h3>
+              <p>{c.data.teachSheet.goal}</p>
+              <p class="tl-links">
+                <a href={teachSheetUrl(c)}>Teach sheet</a>
+                <a href={teachSheetPdfUrl(c)} download data-ott-event="download" data-ott-game={c.data.games.join(',') || undefined}>
+                  PDF
+                </a>
+                <a href={courseUrl(c)}>Full course</a>
+              </p>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))
+  }
+</GuildToolLayout>
+
+<style>
+  .tl-intro {
+    margin-top: 0;
+  }
+
+  .tl-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 14rem), 1fr));
+    gap: var(--space-3);
+    margin: var(--space-3) 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .tl-item {
+    display: grid;
+    align-content: start;
+    gap: var(--space-2);
+    padding: var(--space-4);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+  }
+
+  .tl-item h3 {
+    margin: 0;
+    font-size: var(--text-lg);
+  }
+
+  .tl-item p {
+    margin: 0;
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+
+  .tl-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-3);
+    font-weight: 600;
+  }
+</style>

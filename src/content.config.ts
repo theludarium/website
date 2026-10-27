@@ -4,6 +4,7 @@ import { z } from 'astro/zod';
 import { CATEGORIES } from '@/lib/site';
 import { LEVEL_NAMES } from '@/lib/academy-levels';
 import { KIT_OFFER_KEYS } from '@/lib/config';
+import { GUILD_TOOL_SLUGS } from '@/lib/guild-tools';
 
 const categoryNames = CATEGORIES.map((c) => c.name) as [string, ...string[]];
 
@@ -202,4 +203,39 @@ const courseLessons = defineCollection({
   }),
 });
 
-export const collections = { articles, lessons, courses, courseLessons };
+// The Ludarium Guild of Game Guides (src/lib/guild.ts): the Academy's skills
+// program on teaching board games. One file per lesson in
+// src/content/guild-lessons/<slug>.md, published at /academy/guild/<slug>/.
+// Writer's guide: docs/academy/GUILD.md.
+const guildLessons = defineCollection({
+  loader: glob({ pattern: '*.md', base: './src/content/guild-lessons' }),
+  schema: z
+    .object({
+      title: z.string().min(1),
+      description: description150,
+      /** Module 0 (mindset) to 7 (the capstone). */
+      module: z.number().int().min(0).max(7),
+      /** Position in the whole program, 1 to 35, never stepping back a module. */
+      order: z.number().int().min(1).max(40),
+      emailSubject: z.string().min(1),
+      pubDate: z.coerce.date(),
+      updatedDate: z.coerce.date().optional(),
+      draft: z.boolean().default(false),
+      oneIdea: z.string().min(1),
+      /** The drill: one thing to do before the next lesson. */
+      drill: z.string().min(1),
+      nextTeaser: z.string().optional(),
+      /** The toolkit item the drill uses, shown in a box on the lesson. */
+      tool: z.enum(GUILD_TOOL_SLUGS).optional(),
+      /** Two or three self-check questions, same shape as the Catan Level check. */
+      check: z.array(levelCheckQuestion).min(2).max(3),
+      // Games the lesson uses as worked examples, as On the Table slugs.
+      games,
+    })
+    .refine((d) => d.module === 7 || (d.nextTeaser && d.nextTeaser.length > 0), {
+      message: 'Every lesson before the capstone module needs a nextTeaser.',
+      path: ['nextTeaser'],
+    }),
+});
+
+export const collections = { articles, lessons, courses, courseLessons, guildLessons };

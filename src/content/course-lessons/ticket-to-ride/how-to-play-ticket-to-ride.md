@@ -15,6 +15,8 @@ Ticket to Ride is a game about building railroads across North America and quiet
 
 This lesson follows the current Days of Wonder rulebook, the 2025 edition of the original USA map. Older boxes differ in one setup detail, noted below.
 
+**Prefer to watch first?** Watch It Played teaches the rules on video in its <a href="https://www.youtube.com/watch?v=4JhFhyvGdik" target="_blank" rel="noopener">Ticket to Ride How To Play video</a>. Watch it, then come back here for the rules in writing and the rest of the course.
+
 ## What is in the box?
 
 A board with a map of North America and a scoring track around its edge. Trains and a scoring marker in 5 colors; each player uses exactly 45 trains, and the extras are spares. 110 train cards: 12 in each of 8 route colors, plus 14 locomotives, which are wild. 33 tickets, each naming two cities and a point value. And 1 longest path bonus card.

@@ -15,6 +15,8 @@ Wingspan is a game about attracting birds to your wildlife preserves. Each bird 
 
 This lesson follows the current Stonemaier Games rulebook, its appendix, and the official Rules and FAQ page. Expansions wait until [the expansions lesson](/academy/wingspan/wingspan-expansions/) at Level 2.
 
+**Prefer to watch first?** Watch It Played teaches the rules on video in its <a href="https://www.youtube.com/watch?v=lgDgcLI2B0U" target="_blank" rel="noopener">Wingspan How To Play video</a>. Watch it, then come back here for the rules in writing and the rest of the course.
+
 ## What is in the box?
 
 The box holds 170 bird cards, 26 bonus cards, 8 double-sided goal tiles, a goal board, 5 player mats, 40 action cubes in 5 colors, food tokens, eggs, 5 food dice, a birdfeeder dice tower, a bird tray, and a small Automa deck for solo play. Current printings add a Swift-Start pack for learning games: 10 birds with grey corners and 4 player guides.

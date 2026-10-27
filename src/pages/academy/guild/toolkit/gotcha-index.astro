@@ -1,0 +1,104 @@
+---
+// The Gotcha Index: the one surprising rule per game. Public tool.
+// Data: src/data/guild/gotchas.json, sourced from each game's Academy course.
+import GuildToolLayout from '@/layouts/GuildToolLayout.astro';
+import gotchas from '@/data/guild/gotchas.json';
+import '@/styles/guild-tools.css';
+
+const href = (course: string) => `/academy/${course}/`;
+---
+
+<GuildToolLayout
+  tool="gotcha-index"
+  title="The Gotcha Index: Rules New Players Miss"
+  description={`The one rule that surprises new players in ${gotchas.length} popular board games, from Azul to Wingspan, with exactly what to say out loud when you teach it.`}
+  lesson={{ href: '/academy/guild/the-one-gotcha/', title: 'The One Gotcha' }}
+  printable={false}
+>
+  <p class="gi-intro">
+    Most games have one rule that surprises people. Say it out loud during the teach, then say it again the first time
+    it happens. Everything else can wait until it comes up.
+  </p>
+  <label class="ws-filter">
+    Find a game
+    <input type="search" placeholder="Try Azul" data-gi-filter />
+  </label>
+  <ul class="gi-list">
+    {
+      gotchas.map((g) => (
+        <li class="gi-item" id={g.course} data-gi-row={g.game.toLowerCase()}>
+          <h2>
+            <a href={href(g.course)}>{g.game}</a>
+          </h2>
+          <p class="gi-gotcha">{g.gotcha}</p>
+          <p class="gi-say">
+            <strong>Say:</strong> “{g.say}”
+          </p>
+          <p class="gi-why">
+            <strong>Why it trips people:</strong> {g.why}
+          </p>
+        </li>
+      ))
+    }
+  </ul>
+  <p class="gi-note">Gotchas come from each game’s Academy course, written from the official rules. Spot one we should add? Tell us at hello@theludarium.com.</p>
+</GuildToolLayout>
+
+<script>
+  const input = document.querySelector<HTMLInputElement>('[data-gi-filter]');
+  input?.addEventListener('input', () => {
+    const q = input.value.trim().toLowerCase();
+    document.querySelectorAll<HTMLElement>('[data-gi-row]').forEach((row) => {
+      row.hidden = Boolean(q) && !(row.dataset.giRow ?? '').includes(q);
+    });
+  });
+</script>
+
+<style>
+  .gi-intro {
+    margin-top: 0;
+  }
+
+  .gi-list {
+    display: grid;
+    gap: var(--space-4);
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .gi-item {
+    padding: var(--space-5);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    scroll-margin-top: var(--space-8);
+  }
+
+  .gi-item h2 {
+    margin: 0 0 var(--space-2);
+    font-size: var(--text-xl);
+  }
+
+  .gi-item p {
+    margin: 0 0 var(--space-2);
+  }
+
+  .gi-say {
+    padding: var(--space-3) var(--space-4);
+    border-left: 4px solid var(--color-cta);
+    border-radius: var(--radius-sm, 6px);
+    background: var(--color-accent-soft);
+  }
+
+  .gi-why {
+    margin-bottom: 0 !important;
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+
+  .gi-note {
+    margin-top: var(--space-6);
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+</style>

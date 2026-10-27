@@ -1,0 +1,93 @@
+---
+// The Guild toolkit index. Public tools link straight through; kit tools are
+// listed with a note that they come with the email course.
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PageIntro from '@/components/PageIntro.astro';
+import CourseForm from '@/components/CourseForm.astro';
+import { GUILD_TOOLS, guildToolUrl } from '@/lib/guild-tools';
+
+const pub = GUILD_TOOLS.filter((t) => t.access === 'public');
+const kit = GUILD_TOOLS.filter((t) => t.access === 'kit');
+---
+
+<BaseLayout
+  title="Toolkit for Teaching Board Games: Free Printables"
+  description="Free tools for teaching board games to newcomers: the Teachability Scorecard, the Jargon Translator, the Gotcha Index, one-page teach sheets and more."
+>
+  <PageIntro
+    eyebrow="The Ludarium Guild of Game Guides"
+    title="The toolkit."
+    lede="Tools and printables for teaching any board game in five minutes. Use them on their own, or with the training they come from."
+  />
+  <section class="container tk">
+    <h2>Free to use now</h2>
+    <ul class="tk-grid">
+      {
+        pub.map((t) => (
+          <li class="card tk-item">
+            <h3>
+              <a href={guildToolUrl(t.slug)}>{t.name}</a>
+            </h3>
+            <p>{t.blurb}</p>
+          </li>
+        ))
+      }
+    </ul>
+    <h2>With the email course</h2>
+    <p class="tk-note">These printables arrive with lesson one when you start the free training.</p>
+    <ul class="tk-grid">
+      {
+        kit.map((t) => (
+          <li class="card tk-item tk-item--kit">
+            <h3>{t.name}</h3>
+            <p>{t.blurb}</p>
+          </li>
+        ))
+      }
+    </ul>
+    <div class="tk-signup">
+      <CourseForm course="guild" id="toolkit-signup" buttonLabel="Start the training, free" note="35 short lessons and the full toolkit by email. Free. Unsubscribe anytime." />
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .tk {
+    padding-bottom: var(--space-8);
+  }
+
+  .tk h2 {
+    margin-top: var(--space-7);
+  }
+
+  .tk-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 17rem), 1fr));
+    gap: var(--space-4);
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .tk-item h3 {
+    margin-top: 0;
+    font-size: var(--text-lg);
+  }
+
+  .tk-item p {
+    margin-bottom: 0;
+    color: var(--color-text-muted);
+  }
+
+  .tk-item--kit {
+    background: var(--color-accent-soft);
+  }
+
+  .tk-note {
+    color: var(--color-text-muted);
+  }
+
+  .tk-signup {
+    margin-top: var(--space-6);
+  }
+</style>

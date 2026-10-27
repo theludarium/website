@@ -1,0 +1,146 @@
+---
+// The Self-Assessment: score a teach on ten lines. Kit tool, and part of the capstone.
+// Works on paper; on screen it adds up the score as you tap.
+import GuildToolLayout from '@/layouts/GuildToolLayout.astro';
+import { RUBRIC } from '../../../../../functions/api/guild-capstone';
+import '@/styles/guild-tools.css';
+---
+
+<GuildToolLayout
+  tool="self-assessment"
+  title="The Self-Assessment: Score Your Board Game Teach"
+  description="Score your own board game teach on ten lines from 1 to 5, with what a five looks like on each, from the hook and the goal to the close and the next game."
+  lesson={{ href: '/academy/guild/score-your-teach/', title: 'Score Your Teach' }}
+>
+  <p class="sa-intro">
+    Score yourself right after the game, while it is fresh. 1 means you skipped it, 3 means you did it but it wobbled,
+    5 means it looked like the description. Be honest: the score is for you.
+  </p>
+  <div class="sa-meta ws-grid">
+    <div class="ws-box"><h2>Game</h2><div class="ws-lines"><span></span></div></div>
+    <div class="ws-box"><h2>Date and newcomer</h2><div class="ws-lines"><span></span></div></div>
+  </div>
+  <table class="ws-table sa-table" data-self-assessment>
+    <thead>
+      <tr>
+        <th scope="col">Line</th>
+        <th scope="col">What a five looks like</th>
+        <th scope="col" class="sa-score-col">Score</th>
+      </tr>
+    </thead>
+    <tbody>
+      {
+        RUBRIC.map((line, i) => (
+          <tr>
+            <th scope="row">
+              {i + 1}. {line.name}
+            </th>
+            <td>{line.five}</td>
+            <td>
+              <fieldset class="sa-score">
+                <legend class="visually-hidden">Score for {line.name}</legend>
+                {[1, 2, 3, 4, 5].map((n) => (
+                  <label>
+                    <input type="radio" name={`sa-${line.key}`} value={n} />
+                    <span>{n}</span>
+                  </label>
+                ))}
+              </fieldset>
+            </td>
+          </tr>
+        ))
+      }
+    </tbody>
+    <tfoot>
+      <tr>
+        <th scope="row" colspan="2">Total, out of 50</th>
+        <td class="sa-total" data-sa-total>____</td>
+      </tr>
+    </tfoot>
+  </table>
+  <div class="ws-box ws-box--wide sa-next">
+    <h2>One thing to change next time</h2>
+    <p class="ws-box__hint">Pick your lowest line. Write the one thing you will do differently.</p>
+    <div class="ws-lines"><span></span><span></span></div>
+  </div>
+</GuildToolLayout>
+
+<script>
+  const table = document.querySelector<HTMLTableElement>('[data-self-assessment]');
+  const total = document.querySelector<HTMLElement>('[data-sa-total]');
+  table?.addEventListener('change', () => {
+    const picked = [...table.querySelectorAll<HTMLInputElement>('input[type=radio]:checked')];
+    if (total) total.textContent = picked.length ? `${picked.reduce((a, el) => a + Number(el.value), 0)} (${picked.length} of 10 scored)` : '____';
+  });
+</script>
+
+<style>
+  .sa-intro {
+    margin-top: 0;
+  }
+
+  .sa-meta {
+    margin-bottom: var(--space-5);
+  }
+
+  .sa-table th[scope='row'] {
+    white-space: nowrap;
+  }
+
+  .sa-score-col {
+    width: 11rem;
+  }
+
+  .sa-score {
+    display: flex;
+    gap: 2px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+
+  .sa-score label {
+    position: relative;
+  }
+
+  .sa-score input {
+    position: absolute;
+    opacity: 0;
+  }
+
+  .sa-score span {
+    display: inline-grid;
+    place-items: center;
+    width: 1.9rem;
+    height: 1.9rem;
+    border: 1px solid var(--color-border);
+    border-radius: 50%;
+    cursor: pointer;
+    font-weight: 600;
+  }
+
+  .sa-score input:checked + span {
+    border-color: var(--color-primary);
+    background: var(--color-primary);
+    color: var(--color-on-primary);
+  }
+
+  .sa-score input:focus-visible + span {
+    outline: 3px solid var(--color-focus);
+  }
+
+  .sa-total {
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .sa-next {
+    margin-top: var(--space-5);
+  }
+
+  @media (max-width: 40rem) {
+    .sa-table th[scope='row'] {
+      white-space: normal;
+    }
+  }
+</style>

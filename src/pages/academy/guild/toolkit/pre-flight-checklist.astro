@@ -1,0 +1,61 @@
+---
+// The Pre-Flight Checklist: twelve things ready before guests arrive. Kit tool.
+import GuildToolLayout from '@/layouts/GuildToolLayout.astro';
+import '@/styles/guild-tools.css';
+
+const groups = [
+  {
+    name: 'The game',
+    items: [
+      ['Played it solo first', 'At least three turns alone, so you know where people will stumble.'],
+      ['Script written and timed', 'Your one-page teach, under five minutes aloud.'],
+      ['Set up before anyone sits', 'Board out, decks shuffled, starting pieces dealt.'],
+      ['Expansions and variants back in the box', 'First game, base rules. Every extra rule is a cost.'],
+    ],
+  },
+  {
+    name: 'The table',
+    items: [
+      ['Pieces sorted by player', 'Each seat gets its own colors and starting stuff in front of it.'],
+      ['Reference cards where people can see them', 'Or a summary you wrote, one per player if you can.'],
+      ['Rulebook beside you, open to the summary page', 'Nearby for questions, never read aloud.'],
+      ['Newcomer seated beside you', 'Close enough to point at their pieces without reaching across the table.'],
+    ],
+  },
+  {
+    name: 'The night',
+    items: [
+      ['Plan B ready', 'A fifteen-minute game in case energy is low or people arrive late.'],
+      ['Drinks and snacks away from the board', 'A side table saves the cards.'],
+      ['Phones and the TV sorted', 'Music low, screens off the table.'],
+      ['Your first-round plan', 'Open hands or a practice round, and the two good moves you will point out.'],
+    ],
+  },
+];
+---
+
+<GuildToolLayout
+  tool="pre-flight-checklist"
+  title="The Pre-Flight Checklist for Teaching a Board Game"
+  description="Twelve things to have ready before the first guest sits down, so your board game teach starts on time and your newcomer feels welcome from the first minute."
+  lesson={{ href: '/academy/guild/set-the-table/', title: 'Set the Table Before They Arrive' }}
+>
+  {
+    groups.map((g) => (
+      <section class="ws-section">
+        <h2>{g.name}</h2>
+        <ul class="ws-check">
+          {g.items.map(([name, text]) => (
+            <li>
+              <input type="checkbox" aria-label={name} />
+              <div>
+                <strong>{name}</strong>
+                <span>{text}</span>
+              </div>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))
+  }
+</GuildToolLayout>
