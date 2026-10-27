@@ -140,7 +140,7 @@ Every game course grows into a Catan-style ladder: levels from Level 0 (learn to
 
 | Tier | Games | Levels | Lessons |
 | --- | --- | --- | --- |
-| Light | Azul, Splendor, Codenames, King of Tokyo, Flip 7, Sky Team | 0 to 3 (four levels) | 12 to 14 |
+| Light | Azul, Splendor, Codenames, Sushi Go!, Kingdomino, King of Tokyo, Flip 7, Sky Team, The Crew | 0 to 3 (four levels) | 12 to 14 |
 | Medium | Carcassonne, Ticket to Ride, Wingspan, Pandemic, 7 Wonders, Cascadia, Heat, Everdell, Lost Ruins of Arnak | 0 to 4 (five levels) | 17 to 20 |
 | Deep | Terraforming Mars, Dune: Imperium, The Castles of Burgundy, Dominion, Power Grid, Ark Nova, Brass: Birmingham, Root, Spirit Island, and the TCG courses | 0 to 5 (six levels) | 21 to 24 |
 

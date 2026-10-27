@@ -6,6 +6,8 @@ Until the Kit form exists, every Guild signup form posts to the general newslett
 
 ## Signup: form, tag, sequence, rule
 
+**Live since 2026-10-27:** form "Academy: Guild of Game Guides" 10104085, tag `course-guild` 25081798, sequence "Course: Guild of Game Guides" 2946196 (35 emails), rule 5670545. The confirmation email reads "One click to start your Guild training", with the button "Start my training".
+
 1. **Emails.** `node scripts/guild-emails.mjs <out-dir>` writes `guild.json` (subject, preview text and HTML for each of the 35 lessons) and `guild.html` (read this first).
 2. **Tag:** `course-guild`.
 3. **Form:** duplicate an "Academy: <Game>" form and name it "Academy: Guild of Game Guides". Redirect after signup: `https://theludarium.com/academy/guild/thanks/`. Redirect after confirming: `https://theludarium.com/academy/guild/confirmed/`. Confirmation email subject: "One click to start your Guild training". Button: "Start my training".

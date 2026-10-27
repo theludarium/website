@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-labelledby="t d">
+<title id="t">Kingdomino setup for four players</title>
+<desc id="d">The box holds the face-down draw pile. Beside it, a first line of four face-up dominoes sorted by number, lowest next to the box, with a king on each, and a second line of four dominoes laid out after the kings are placed. Four players each have a castle on a starting tile. One castle is shown inside the 5 by 5 frame every kingdom must fit in. A key names the six terrains and shows a crown.</desc>
+<rect width="480" height="320" rx="14" fill="#F6EFE3"/>
+<rect x="150" y="70" width="58" height="104" rx="6" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1.5"/>
+<rect x="158" y="78" width="42" height="11" rx="2" fill="#F6EFE3" stroke="#2B1E16" stroke-width="0.8"/>
+<rect x="158" y="93" width="42" height="11" rx="2" fill="#F6EFE3" stroke="#2B1E16" stroke-width="0.8"/>
+<rect x="158" y="108" width="42" height="11" rx="2" fill="#F6EFE3" stroke="#2B1E16" stroke-width="0.8"/>
+<rect x="158" y="123" width="42" height="11" rx="2" fill="#F6EFE3" stroke="#2B1E16" stroke-width="0.8"/>
+<rect x="158" y="138" width="42" height="11" rx="2" fill="#F6EFE3" stroke="#2B1E16" stroke-width="0.8"/>
+<rect x="158" y="153" width="42" height="11" rx="2" fill="#F6EFE3" stroke="#2B1E16" stroke-width="0.8"/>
+<text x="179" y="188" font-family="system-ui, sans-serif" font-size="11" font-weight="400" fill="#2B1E16" text-anchor="middle">Box: draw pile</text>
+<text x="179" y="201" font-family="system-ui, sans-serif" font-size="11" font-weight="400" fill="#2B1E16" text-anchor="middle">Lowest number</text>
+<text x="179" y="214" font-family="system-ui, sans-serif" font-size="11" font-weight="400" fill="#2B1E16" text-anchor="middle">lines up by the box</text>
+<rect x="220.5" y="82.5" width="43" height="23" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/><rect x="222" y="84" width="20" height="20" fill="#E8C46A" stroke="#2B1E16" stroke-width="0.8"/><rect x="242" y="84" width="20" height="20" fill="#2F5D50" stroke="#2B1E16" stroke-width="0.8"/>
+<g transform="translate(242 72)"><path d="M-6,8 L-6,-2 L-3,1 L0,-5 L3,1 L6,-2 L6,8 Z" fill="#3E6E8E" stroke="#F6EFE3" stroke-width="1.2"/></g>
+<text x="242" y="118" font-family="system-ui, sans-serif" font-size="10" font-weight="400" fill="#6b5f52" text-anchor="middle">13</text>
+<rect x="268.5" y="82.5" width="43" height="23" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/><rect x="270" y="84" width="20" height="20" fill="#2F5D50" stroke="#2B1E16" stroke-width="0.8"/><path transform="translate(280.0 94.0) scale(1)" d="M-4,2 L-4,-2 L-2,0 L0,-3 L2,0 L4,-2 L4,2 Z" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.6"/><rect x="290" y="84" width="20" height="20" fill="#E8C46A" stroke="#2B1E16" stroke-width="0.8"/>
+<g transform="translate(290 72)"><path d="M-6,8 L-6,-2 L-3,1 L0,-5 L3,1 L6,-2 L6,8 Z" fill="#B4623C" stroke="#F6EFE3" stroke-width="1.2"/></g>
+<text x="290" y="118" font-family="system-ui, sans-serif" font-size="10" font-weight="400" fill="#6b5f52" text-anchor="middle">26</text>
+<rect x="316.5" y="82.5" width="43" height="23" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/><rect x="318" y="84" width="20" height="20" fill="#5B8A9A" stroke="#2B1E16" stroke-width="0.8"/><path transform="translate(328.0 94.0) scale(1)" d="M-4,2 L-4,-2 L-2,0 L0,-3 L2,0 L4,-2 L4,2 Z" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.6"/><rect x="338" y="84" width="20" height="20" fill="#2F5D50" stroke="#2B1E16" stroke-width="0.8"/>
+<g transform="translate(338 72)"><path d="M-6,8 L-6,-2 L-3,1 L0,-5 L3,1 L6,-2 L6,8 Z" fill="#E0A23B" stroke="#F6EFE3" stroke-width="1.2"/></g>
+<text x="338" y="118" font-family="system-ui, sans-serif" font-size="10" font-weight="400" fill="#6b5f52" text-anchor="middle">33</text>
+<rect x="364.5" y="82.5" width="43" height="23" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/><rect x="366" y="84" width="20" height="20" fill="#8C7A5B" stroke="#2B1E16" stroke-width="0.8"/><rect x="386" y="84" width="20" height="20" fill="#5A4A40" stroke="#2B1E16" stroke-width="0.8"/><path transform="translate(392.0 94.0) scale(1)" d="M-4,2 L-4,-2 L-2,0 L0,-3 L2,0 L4,-2 L4,2 Z" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.6"/><path transform="translate(400.0 94.0) scale(1)" d="M-4,2 L-4,-2 L-2,0 L0,-3 L2,0 L4,-2 L4,2 Z" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.6"/>
+<g transform="translate(386 72)"><path d="M-6,8 L-6,-2 L-3,1 L0,-5 L3,1 L6,-2 L6,8 Z" fill="#2F5D50" stroke="#F6EFE3" stroke-width="1.2"/></g>
+<text x="386" y="118" font-family="system-ui, sans-serif" font-size="10" font-weight="400" fill="#6b5f52" text-anchor="middle">46</text>
+<text x="222" y="60" font-family="system-ui, sans-serif" font-size="11" font-weight="400" fill="#2B1E16" text-anchor="start">Line 1: a king on each domino</text>
+<rect x="220.5" y="132.5" width="43" height="23" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/><rect x="222" y="134" width="20" height="20" fill="#E8C46A" stroke="#2B1E16" stroke-width="0.8"/><rect x="242" y="134" width="20" height="20" fill="#E8C46A" stroke="#2B1E16" stroke-width="0.8"/>
+<text x="242" y="168" font-family="system-ui, sans-serif" font-size="10" font-weight="400" fill="#6b5f52" text-anchor="middle">2</text>
+<rect x="268.5" y="132.5" width="43" height="23" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/><rect x="270" y="134" width="20" height="20" fill="#A8C27E" stroke="#2B1E16" stroke-width="0.8"/><rect x="290" y="134" width="20" height="20" fill="#2F5D50" stroke="#2B1E16" stroke-width="0.8"/>
+<text x="290" y="168" font-family="system-ui, sans-serif" font-size="10" font-weight="400" fill="#6b5f52" text-anchor="middle">18</text>
+<rect x="316.5" y="132.5" width="43" height="23" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/><rect x="318" y="134" width="20" height="20" fill="#E8C46A" stroke="#2B1E16" stroke-width="0.8"/><path transform="translate(328.0 144.0) scale(1)" d="M-4,2 L-4,-2 L-2,0 L0,-3 L2,0 L4,-2 L4,2 Z" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.6"/><rect x="338" y="134" width="20" height="20" fill="#5B8A9A" stroke="#2B1E16" stroke-width="0.8"/>
+<text x="338" y="168" font-family="system-ui, sans-serif" font-size="10" font-weight="400" fill="#6b5f52" text-anchor="middle">20</text>
+<rect x="364.5" y="132.5" width="43" height="23" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/><rect x="366" y="134" width="20" height="20" fill="#5B8A9A" stroke="#2B1E16" stroke-width="0.8"/><rect x="386" y="134" width="20" height="20" fill="#A8C27E" stroke="#2B1E16" stroke-width="0.8"/><path transform="translate(392.0 144.0) scale(1)" d="M-4,2 L-4,-2 L-2,0 L0,-3 L2,0 L4,-2 L4,2 Z" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.6"/><path transform="translate(400.0 144.0) scale(1)" d="M-4,2 L-4,-2 L-2,0 L0,-3 L2,0 L4,-2 L4,2 Z" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.6"/>
+<text x="386" y="168" font-family="system-ui, sans-serif" font-size="10" font-weight="400" fill="#6b5f52" text-anchor="middle">42</text>
+<text x="222" y="186" font-family="system-ui, sans-serif" font-size="11" font-weight="400" fill="#2B1E16" text-anchor="start">Line 2: picks for next round</text>
+<text x="222" y="204" font-family="system-ui, sans-serif" font-size="11" font-weight="600" fill="#2F5D50" text-anchor="start">Lowest number goes first</text>
+<rect x="26" y="206" width="70" height="70" fill="none" stroke="#2F5D50" stroke-width="1.5" stroke-dasharray="4 3"/>
+<line x1="40" y1="206" x2="40" y2="276" stroke="#B9AD9C" stroke-width="0.6"/>
+<line x1="26" y1="220" x2="96" y2="220" stroke="#B9AD9C" stroke-width="0.6"/>
+<line x1="54" y1="206" x2="54" y2="276" stroke="#B9AD9C" stroke-width="0.6"/>
+<line x1="26" y1="234" x2="96" y2="234" stroke="#B9AD9C" stroke-width="0.6"/>
+<line x1="68" y1="206" x2="68" y2="276" stroke="#B9AD9C" stroke-width="0.6"/>
+<line x1="26" y1="248" x2="96" y2="248" stroke="#B9AD9C" stroke-width="0.6"/>
+<line x1="82" y1="206" x2="82" y2="276" stroke="#B9AD9C" stroke-width="0.6"/>
+<line x1="26" y1="262" x2="96" y2="262" stroke="#B9AD9C" stroke-width="0.6"/>
+<rect x="54" y="234" width="14" height="14" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/><path transform="translate(61.0 241.0)" d="M-7,7 L-7,-4 L-4,-4 L-4,-7 L-1.5,-7 L-1.5,-4 L1.5,-4 L1.5,-7 L4,-7 L4,-4 L7,-4 L7,7 Z" fill="#2F5D50" stroke="#2B1E16" stroke-width="0.8"/>
+<text x="26" y="292" font-family="system-ui, sans-serif" font-size="11" font-weight="400" fill="#2B1E16" text-anchor="start">Every kingdom fits</text>
+<text x="26" y="305" font-family="system-ui, sans-serif" font-size="11" font-weight="400" fill="#2B1E16" text-anchor="start">in a 5 by 5 frame</text>
+<rect x="30" y="40" width="22" height="22" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/><path transform="translate(41.0 51.0)" d="M-7,7 L-7,-4 L-4,-4 L-4,-7 L-1.5,-7 L-1.5,-4 L1.5,-4 L1.5,-7 L4,-7 L4,-4 L7,-4 L7,7 Z" fill="#B4623C" stroke="#2B1E16" stroke-width="0.8"/>
+<rect x="436" y="40" width="22" height="22" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/><path transform="translate(447.0 51.0)" d="M-7,7 L-7,-4 L-4,-4 L-4,-7 L-1.5,-7 L-1.5,-4 L1.5,-4 L1.5,-7 L4,-7 L4,-4 L7,-4 L7,7 Z" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+<rect x="436" y="232" width="22" height="22" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/><path transform="translate(447.0 243.0)" d="M-7,7 L-7,-4 L-4,-4 L-4,-7 L-1.5,-7 L-1.5,-4 L1.5,-4 L1.5,-7 L4,-7 L4,-4 L7,-4 L7,7 Z" fill="#3E6E8E" stroke="#2B1E16" stroke-width="0.8"/>
+<text x="30" y="80" font-family="system-ui, sans-serif" font-size="11" font-weight="400" fill="#2B1E16" text-anchor="start">Player 2: castle</text>
+<text x="30" y="93" font-family="system-ui, sans-serif" font-size="11" font-weight="400" fill="#2B1E16" text-anchor="start">on starting tile</text>
+<text x="447" y="80" font-family="system-ui, sans-serif" font-size="11" font-weight="400" fill="#2B1E16" text-anchor="middle">Player 3</text>
+<text x="447" y="272" font-family="system-ui, sans-serif" font-size="11" font-weight="400" fill="#2B1E16" text-anchor="middle">Player 4</text>
+<text x="61" y="198" font-family="system-ui, sans-serif" font-size="11" font-weight="400" fill="#2B1E16" text-anchor="middle">Player 1</text>
+<rect x="186" y="230" width="214" height="70" rx="8" fill="#FFFFFF" fill-opacity=".5" stroke="#B9AD9C"/>
+<text x="196" y="244" font-family="system-ui, sans-serif" font-size="11" font-weight="600" fill="#2B1E16" text-anchor="start">Terrains</text>
+<rect x="196" y="252" width="12" height="12" fill="#E8C46A" stroke="#2B1E16" stroke-width="0.8"/>
+<text x="214" y="262" font-family="system-ui, sans-serif" font-size="11" font-weight="400" fill="#2B1E16" text-anchor="start">Wheat field</text>
+<rect x="296" y="252" width="12" height="12" fill="#2F5D50" stroke="#2B1E16" stroke-width="0.8"/>
+<text x="314" y="262" font-family="system-ui, sans-serif" font-size="11" font-weight="400" fill="#2B1E16" text-anchor="start">Forest</text>
+<rect x="196" y="268" width="12" height="12" fill="#5B8A9A" stroke="#2B1E16" stroke-width="0.8"/>
+<text x="214" y="278" font-family="system-ui, sans-serif" font-size="11" font-weight="400" fill="#2B1E16" text-anchor="start">Lake</text>
+<rect x="296" y="268" width="12" height="12" fill="#A8C27E" stroke="#2B1E16" stroke-width="0.8"/>
+<text x="314" y="278" font-family="system-ui, sans-serif" font-size="11" font-weight="400" fill="#2B1E16" text-anchor="start">Grassland</text>
+<rect x="196" y="284" width="12" height="12" fill="#8C7A5B" stroke="#2B1E16" stroke-width="0.8"/>
+<text x="214" y="294" font-family="system-ui, sans-serif" font-size="11" font-weight="400" fill="#2B1E16" text-anchor="start">Swamp</text>
+<rect x="296" y="284" width="12" height="12" fill="#5A4A40" stroke="#2B1E16" stroke-width="0.8"/>
+<text x="314" y="294" font-family="system-ui, sans-serif" font-size="11" font-weight="400" fill="#2B1E16" text-anchor="start">Mine</text>
+<path transform="translate(324 240) scale(1.2)" d="M-4,2 L-4,-2 L-2,0 L0,-3 L2,0 L4,-2 L4,2 Z" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.6"/>
+<text x="334" y="244" font-family="system-ui, sans-serif" font-size="11" font-weight="400" fill="#2B1E16" text-anchor="start">= crown</text>
+</svg>

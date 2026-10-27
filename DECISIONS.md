@@ -414,7 +414,6 @@ Levi asked to turn the article "How to Teach a Board Game in Five Minutes" into 
 - **Links in:** a feature band on the Academy page, and course boxes at the top and bottom of the original article.
 - **Renamed 2026-10-27, Levi's call:** "The Ludarium Guild of Game Guides", and graduates are "Expert Game Guides". URLs stay under `/academy/guild/`, so nothing needs redirects. The site also has an article category called Game Guides; the program and the category now share a word, which suits the original article living in that category.
 
-
 ## 2026-10-27: No automated emails to people; form notices through Cloudflare
 
 Levi's call: keep collecting emails, but stop sending automated emails to the people who fill out forms. Resend was never set up and is no longer used.
@@ -423,3 +422,10 @@ Levi's call: keep collecting emails, but stop sending automated emails to the pe
 - **A repeat email is turned away, not replaced.** With the link on screen, replacing an entry would let anyone who knows a member's email take it over and read their address. Lost links go through the admin: "New link" makes a fresh one to pass on by hand.
 - **Inquiry and Guild capstone notices still reach Levi**, through a small Worker (`ludarium-notify`, `workers/notify/`) bound to the Pages project as `NOTIFY`. Pages Functions cannot send email; the Worker sends through Cloudflare Email Routing, which only delivers to verified addresses, so it cannot email anyone else. No new account or dependency. The destination is a Worker secret because this repo is public.
 - **Turnstile** has one widget for theludarium.com. Previews and local dev always use Cloudflare's always-pass test key, so preview URLs never need registering.
+
+## 2026-10-27: Sushi Go!, Kingdomino and The Crew courses
+
+- Three new Light courses (levels 0 to 3, 13 lessons each), asked for by Levi: Sushi Go! "Pick and Pass", Kingdomino "Every Crown Counts", and The Crew: The Quest for Planet Nine "The Right Trick". They are classic first games for newcomers, so they also feed the Guild of Game Guides.
+- Catalog order by audience: Sushi Go! 145 and Kingdomino 155 among the biggest family games, The Crew 225 with the strong and growing ones.
+- Rules come from the official rulebooks (Gamewright 2014 printing; Blue Orange 2016 rules checked against the 2024 edition; the Thames & Kosmos English rulebook and logbook). Open questions the rulebooks do not settle are left as VERIFY markers rather than guessed.
+- Kit forms for the three courses come after merge, the same way as the other 31; until then their signups fall back to the general newsletter.
