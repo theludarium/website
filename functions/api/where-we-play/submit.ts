@@ -2,16 +2,21 @@
 //
 // 1. Drops bots (honeypot, Turnstile) and rate limits by hashed IP.
 // 2. Validates the fields, geocodes the location, stores the member.
-// 3. Emails the private edit link through Resend.
-// 4. Redirects to the thanks page; drive times are routed afterwards in waitUntil.
+// 3. Redirects to the thanks page with the private edit token in the URL
+//    fragment, which browsers never send to a server. Nothing is emailed.
+// 4. Drive times are routed afterwards in waitUntil.
 //
-// Settings: DB (D1 binding), RESEND_API_KEY, INQUIRY_FROM, TURNSTILE_SECRET_KEY,
-// WWP_HASH_SALT (optional). See README.md, "Where We Play".
+// An email that already has an entry is turned away rather than replaced:
+// the new link shows on screen, so replacing would let anyone who knows a
+// member's email take over their entry and see their address.
+//
+// Settings: DB (D1 binding), TURNSTILE_SECRET_KEY, WWP_HASH_SALT (optional).
+// See README.md, "Where We Play".
 import { WWP_BASE } from '../../../src/lib/where-we-play/shared.ts';
 import type { Context } from '../../../src/server/where-we-play/env.ts';
 import { allowSubmission } from '../../../src/server/where-we-play/db.ts';
 import { clientIp, field, redirect, sha256Hex, verifyTurnstile } from '../../../src/server/where-we-play/http.ts';
-import { editUrl, findByEmail, reissueToken, routeMemberLater, saveMember, sendConfirmation } from '../../../src/server/where-we-play/members.ts';
+import { findByEmail, routeMemberLater, saveMember } from '../../../src/server/where-we-play/members.ts';
 import { parseMemberForm } from '../../../src/server/where-we-play/validate.ts';
 
 const SUBMISSIONS_PER_HOUR = 8;
@@ -47,23 +52,11 @@ export async function onRequestPost({ request, env, waitUntil }: Context): Promi
   if ('error' in parsed) return back(request, parsed.error);
 
   try {
-    const existing = await findByEmail(env, parsed.email);
-    const saved = await saveMember(env, parsed, existing);
-    // A returning member gets a fresh link; the old one stops working.
-    const token = saved.token ?? (await reissueToken(env, saved.member));
-    const sent = await sendConfirmation(env, {
-      to: saved.member.email,
-      firstName: saved.member.first_name,
-      editUrl: editUrl(request, token),
-      updated: !saved.created,
-    });
-    if (saved.relocated) waitUntil(routeMemberLater(env, saved.member));
-    const query = new URLSearchParams();
-    if (!saved.created) query.set('updated', '1');
-    if (!sent) query.set('email', 'failed');
-    if (saved.member.geocode_source === 'failed') query.set('geocode', 'failed');
-    const qs = query.toString();
-    return redirect(request, `${WWP_BASE}/thanks/${qs ? `?${qs}` : ''}`);
+    if (await findByEmail(env, parsed.email)) return back(request, 'exists');
+    const saved = await saveMember(env, parsed, null);
+    waitUntil(routeMemberLater(env, saved.member));
+    const qs = saved.member.geocode_source === 'failed' ? '?geocode=failed' : '';
+    return redirect(request, `${WWP_BASE}/thanks/${qs}#t=${saved.token}`);
   } catch (err) {
     console.error('Where We Play submission failed', err);
     return back(request, 'unavailable');

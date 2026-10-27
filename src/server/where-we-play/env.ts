@@ -17,10 +17,6 @@ export interface D1 {
 export interface WwpEnv {
   /** D1 binding, Settings > Bindings on the Pages project. */
   DB?: D1;
-  /** Same Resend key the inquiry form uses. Confirmation emails go through it. */
-  RESEND_API_KEY?: string;
-  /** Optional sender, default "The Ludarium <onboarding@resend.dev>". Shared with the inquiry form. */
-  INQUIRY_FROM?: string;
   /** Turnstile widget secret, shared with the inquiry form. */
   TURNSTILE_SECRET_KEY?: string;
   /** Cloudflare Access team domain, for example "theludarium" (for theludarium.cloudflareaccess.com). */

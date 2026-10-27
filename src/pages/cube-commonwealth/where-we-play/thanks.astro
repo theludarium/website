@@ -7,10 +7,18 @@ import { WWP_BASE } from '@/lib/where-we-play/shared';
 
 <BaseLayout
   title="Location received"
-  description="Thanks for sharing where you drive from. Check your email for your private link, then see which venues the Cube Commonwealth can reach."
+  description="Thanks for sharing where you drive from. Save your private link, then see which venues the Cube Commonwealth can reach."
   noindex
 >
-  <PageIntro eyebrow="Where We Play" title="Thanks. Check your email." lede="Your confirmation is on its way with a private link to update or delete your entry any time.">
+  <PageIntro eyebrow="Where We Play" title="Thanks. Save your link." lede="This private link is the only way to update or delete your entry. We do not email it, so bookmark it or copy it somewhere safe now.">
+    <div class="wwp-link" data-wwp-link hidden>
+      <label class="wwp-link__label" for="wwp-link-url">Your private link</label>
+      <div class="wwp-link__row">
+        <input class="wwp-link__url" id="wwp-link-url" type="text" readonly data-wwp-link-url />
+        <button class="button" type="button" data-wwp-copy>Copy link</button>
+      </div>
+      <p class="wwp-link__hint" role="status" data-wwp-copied></p>
+    </div>
     <p class="wwp-thanks__note" data-wwp-thanks hidden></p>
     <div class="wwp-thanks__actions">
       <a class="button button--ghost" href={WWP_BASE + '/'}>Back to Where We Play</a>
@@ -20,6 +28,44 @@ import { WWP_BASE } from '@/lib/where-we-play/shared';
 </BaseLayout>
 
 <style>
+  .wwp-link {
+    max-width: var(--width-content);
+    margin: var(--space-5) 0 0;
+    padding: var(--space-4);
+    border-radius: var(--radius-md);
+    background: var(--color-accent-soft);
+  }
+
+  .wwp-link__label {
+    display: block;
+    margin-bottom: var(--space-2);
+    font-weight: 600;
+  }
+
+  .wwp-link__row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-3);
+  }
+
+  .wwp-link__url {
+    flex: 1 1 16rem;
+    min-width: 0;
+    padding: var(--space-2) var(--space-3);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-sm);
+    background: var(--color-bg);
+    color: var(--color-text);
+    font: inherit;
+    font-size: var(--text-sm);
+  }
+
+  .wwp-link__hint {
+    min-height: 1.5em;
+    margin: var(--space-2) 0 0;
+    font-size: var(--text-sm);
+  }
+
   .wwp-thanks__note {
     max-width: var(--width-content);
     margin: var(--space-4) 0 0;
@@ -38,16 +84,32 @@ import { WWP_BASE } from '@/lib/where-we-play/shared';
 </style>
 
 <script>
+  import { WWP_BASE } from '@/lib/where-we-play/shared';
+
+  // The submit route puts the token in the fragment, which never reaches a server.
+  const token = new URLSearchParams(location.hash.slice(1)).get('t');
+  const box = document.querySelector<HTMLElement>('[data-wwp-link]');
+  const input = document.querySelector<HTMLInputElement>('[data-wwp-link-url]');
+  const hint = document.querySelector<HTMLElement>('[data-wwp-copied]');
+  if (token && /^[A-Za-z0-9_-]{20,}$/.test(token) && box && input) {
+    input.value = new URL(`${WWP_BASE}/edit/?t=${token}`, location.origin).toString();
+    box.hidden = false;
+    input.addEventListener('focus', () => input.select());
+    document.querySelector('[data-wwp-copy]')?.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(input.value);
+        if (hint) hint.textContent = 'Copied. Paste it somewhere you will find it later.';
+      } catch {
+        input.select();
+        if (hint) hint.textContent = 'Press Ctrl+C or Command+C to copy it.';
+      }
+    });
+  }
+
   const params = new URLSearchParams(location.search);
   const note = document.querySelector<HTMLElement>('[data-wwp-thanks]');
-  if (note) {
-    const lines: string[] = [];
-    if (params.get('updated')) lines.push('We already had an entry for that email, so we updated it and sent you a fresh link.');
-    if (params.get('geocode') === 'failed') lines.push('We could not place that address on the map. The admin will take a look; you can also fix it from your link.');
-    if (params.get('email') === 'failed') lines.push('The confirmation email could not be sent just now. Your entry is saved; the admin can resend your link.');
-    if (lines.length) {
-      note.textContent = lines.join(' ');
-      note.hidden = false;
-    }
+  if (note && params.get('geocode') === 'failed') {
+    note.textContent = 'We could not place that address on the map. The admin will take a look; you can also fix it from your link.';
+    note.hidden = false;
   }
 </script>

@@ -17,7 +17,7 @@ The shared pause (tag `academy-paused`, rule 5668327, automation Academy: Pause 
 
 ## Capstone: email, not Kit
 
-The capstone form at `/academy/guild/capstone/` posts to the Pages Function `functions/api/guild-capstone.ts`, which emails the submission to Levi through Resend, with reply-to set to the student. It uses the corporate inquiry form's settings (`RESEND_API_KEY`, `TURNSTILE_SECRET_KEY`, `INQUIRY_TO`), so it works as soon as those are set. Set `GUILD_TO` in the Cloudflare Pages project to send capstones somewhere else.
+The capstone form at `/academy/guild/capstone/` posts to the Pages Function `functions/api/guild-capstone.ts`, which emails the submission to Levi through the `ludarium-notify` Worker and Cloudflare Email Routing, with reply-to set to the student. It uses the corporate inquiry form's settings (the `NOTIFY` service binding and `TURNSTILE_SECRET_KEY`); see "Form notices" in the README.
 
 **Reviewing one:** the email shows the student's ten scores and the newcomer's five answers.
 - If the newcomer said yes to another game and the teach holds up, open `/academy/guild/certificate/?name=<name>&date=<date>&no=<number>`, print it to PDF (landscape, no headers), and reply to the email with it attached. Number certificates in order from 0001 and keep a list.

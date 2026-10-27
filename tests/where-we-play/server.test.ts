@@ -1,10 +1,10 @@
 // Server pieces that need no database: form parsing, routing with a fake
-// router, the confirmation email, and the Access token check. Run: npm test
+// router, the privacy line, and the Access token check. Run: npm test
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { parseEventBody, parseMemberForm, parseSuggestion, parseVenueBody } from '../../src/server/where-we-play/validate.ts';
 import { driveTimeMatrix, routePairs } from '../../src/server/where-we-play/routing.ts';
-import { confirmationText, confirmationHtml } from '../../src/server/where-we-play/email.ts';
+import { PRIVACY_LINE } from '../../src/lib/where-we-play/shared.ts';
 import { requireAdmin, verifyAccessJwt } from '../../src/server/where-we-play/access.ts';
 import { zipCentroid, neighborhoodFromAddress, normalizeQuery } from '../../src/server/where-we-play/geocode.ts';
 import { hashToken, newToken, TOKEN_PATTERN } from '../../src/server/where-we-play/tokens.ts';
@@ -87,16 +87,11 @@ test('routePairs falls back to straight-line estimates when OSRM is down or has 
   assert.equal(partial[1].source, 'straight_line');
 });
 
-test('confirmation email carries the link, the privacy line, and no em dashes', () => {
-  const c = { to: 'a@b.co', firstName: 'Ada', editUrl: 'https://theludarium.com/cube-commonwealth/where-we-play/edit/?t=abc', updated: false };
-  const text = confirmationText(c);
-  assert.ok(text.startsWith('Hi Ada,'));
-  assert.ok(text.includes(c.editUrl));
-  assert.ok(text.includes("Only the app's admin can see your address"));
-  assert.ok(!text.includes('—'));
-  const html = confirmationHtml({ ...c, firstName: '<b>' });
-  assert.ok(html.includes('Hi &lt;b&gt;,'));
-  assert.ok(confirmationText({ ...c, updated: true }).includes('is updated'));
+test('privacy line keeps the admin wording and no longer promises an email', () => {
+  assert.ok(PRIVACY_LINE.includes("Only the app's admin can see your address"));
+  assert.ok(PRIVACY_LINE.includes('private link'));
+  assert.ok(!/email/i.test(PRIVACY_LINE));
+  assert.ok(!PRIVACY_LINE.includes('\u2014'));
 });
 
 test('geocode helpers: zip centroids, neighborhoods, query normalization', () => {

@@ -5,9 +5,5 @@
 # Any long random string; the admin page asks for it once and keeps it for the tab.
 WWP_ADMIN_PREVIEW_TOKEN=local-admin
 
-# Optional locally. Without a Resend key, confirmation emails are logged instead of sent.
-RESEND_API_KEY=
-INQUIRY_FROM=
-
 # Optional: salt for the submission rate limit's hashed IPs.
 WWP_HASH_SALT=

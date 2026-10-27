@@ -539,10 +539,18 @@ if (root) {
           el(
             'div',
             { class: 'actions' },
-            btn('Resend link', '', () =>
+            btn('New link', '', () =>
               guard(async () => {
-                await api(`/members/${m.id}/resend`, { method: 'POST' });
-                say(`A fresh edit link is on its way to ${m.email}.`);
+                if (!confirm(`Make a new private link for ${m.email}? Their old link stops working.`)) return;
+                const { url } = await api<{ url: string }>(`/members/${m.id}/link`, { method: 'POST' });
+                let copied = false;
+                try {
+                  await navigator.clipboard.writeText(url);
+                  copied = true;
+                } catch {
+                  // Clipboard can be blocked; the link is in the message either way.
+                }
+                say(`New link for ${m.email}${copied ? ' (copied)' : ''}. Send it to them yourself: ${url}`);
               }),
             ),
             btn('Delete', 'wwp-btn--danger', () =>

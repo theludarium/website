@@ -4,20 +4,18 @@
 // 1. Drops obvious bots (hidden honeypot field) and checks Cloudflare Turnstile.
 // 2. Validates the submission: the student's details, the ten Self-Assessment
 //    scores, and the newcomer's Feedback Card answers.
-// 3. Emails it to Levi through Resend, with reply-to set to the student, so he
-//    can review it and send the Expert Game Guide certificate.
+// 3. Emails it to Levi through the ludarium-notify Worker (Cloudflare Email
+//    Routing), with reply-to set to the student, so he can review it and send
+//    the Expert Game Guide certificate.
 // 4. Redirects to /academy/guild/capstone/thanks/, or back to the form with an error code.
 //
 // It reuses the inquiry form's settings in the Cloudflare Pages project:
-//   RESEND_API_KEY, TURNSTILE_SECRET_KEY, INQUIRY_TO, INQUIRY_FROM (optional)
-// GUILD_TO (optional) sends capstones somewhere other than INQUIRY_TO.
+//   NOTIFY (service binding to ludarium-notify) and TURNSTILE_SECRET_KEY.
+import { notify, type NotifyBinding } from '../../src/server/notify.ts';
 
 export interface Env {
-  RESEND_API_KEY?: string;
+  NOTIFY?: NotifyBinding;
   TURNSTILE_SECRET_KEY?: string;
-  INQUIRY_TO?: string;
-  INQUIRY_FROM?: string;
-  GUILD_TO?: string;
 }
 
 interface Context {
@@ -160,9 +158,8 @@ export async function onRequestPost({ request, env }: Context): Promise<Response
   // Honeypot: people never see this field; bots tend to fill it. Pretend it worked.
   if (field(form, 'website')) return redirect(request, THANKS);
 
-  const to = env.GUILD_TO || env.INQUIRY_TO;
-  if (!env.RESEND_API_KEY || !env.TURNSTILE_SECRET_KEY || !to) {
-    console.error('Capstone form is missing RESEND_API_KEY, TURNSTILE_SECRET_KEY, or INQUIRY_TO');
+  if (!env.NOTIFY || !env.TURNSTILE_SECRET_KEY) {
+    console.error('Capstone form is missing the NOTIFY binding or TURNSTILE_SECRET_KEY');
     return back(request, 'unavailable');
   }
 
@@ -173,22 +170,12 @@ export async function onRequestPost({ request, env }: Context): Promise<Response
   const capstone = parseCapstone(form);
   if ('error' in capstone) return back(request, capstone.error);
 
-  const sent = await fetch('https://api.resend.com/emails', {
-    method: 'POST',
-    headers: { Authorization: `Bearer ${env.RESEND_API_KEY}`, 'Content-Type': 'application/json' },
-    body: JSON.stringify({
-      from: env.INQUIRY_FROM || 'The Ludarium <onboarding@resend.dev>',
-      to: [to],
-      reply_to: capstone.email,
-      subject: `Guild capstone: ${capstone.name}, ${capstone.game} (${totalScore(capstone)}/50, second game: ${capstone.feedback.again})`,
-      text: emailText(capstone),
-    }),
+  const sent = await notify(env.NOTIFY, {
+    replyTo: capstone.email,
+    subject: `Guild capstone: ${capstone.name}, ${capstone.game} (${totalScore(capstone)}/50, second game: ${capstone.feedback.again})`,
+    text: emailText(capstone),
   });
-
-  if (!sent.ok) {
-    console.error('Resend rejected the capstone email', sent.status, await sent.text());
-    return back(request, 'unavailable');
-  }
+  if (!sent) return back(request, 'unavailable');
 
   return redirect(request, THANKS);
 }

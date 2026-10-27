@@ -35,7 +35,7 @@ Run these from the repo root. Nothing here is automated on purpose.
 
 3. **Bind the database to the Pages project.** Cloudflare dashboard: Workers & Pages > theludarium > Settings > Bindings > Add > D1 database. Variable name `DB`, database `ludarium-site`. Do it for Production and Preview.
 
-4. **Set the Pages variables and secrets.** Settings > Variables and Secrets. `RESEND_API_KEY`, `TURNSTILE_SECRET_KEY` and `INQUIRY_FROM` are already there for the inquiry form and are reused. Add:
+4. **Set the Pages variables and secrets.** Settings > Variables and Secrets. `TURNSTILE_SECRET_KEY` is already there for the inquiry form and is reused. Add:
 
    | Name | Type | Environment | Value |
    | --- | --- | --- | --- |
@@ -46,9 +46,7 @@ Run these from the repo root. Nothing here is automated on purpose.
 
 5. **Guard the admin paths with Cloudflare Access.** Zero Trust > Access > Applications > Add an application > Self-hosted. Name "Where We Play admin". Add two public hostnames, both on `theludarium.com`: path `cube-commonwealth/where-we-play/admin` and path `api/where-we-play/admin`. Policy: Allow, include Emails, your address. Save, then copy the application's Audience (AUD) tag from its Overview into `ACCESS_AUD`. Access adds a signed token to every request it lets through; the admin routes verify it and refuse anything without it.
 
-6. **Resend.** Confirmation emails go to members, so the sending domain matters: `onboarding@resend.dev` only delivers to the Resend account's own address. Verify `theludarium.com` in Resend and set `INQUIRY_FROM` to something like `The Ludarium <hello@theludarium.com>` before sharing the form.
-
-7. Redeploy (push to `main`, or Retry deployment) so the binding and variables take effect.
+6. Redeploy (push to `main`, or Retry deployment) so the binding and variables take effect.
 
 ### Run it locally
 
@@ -70,7 +68,21 @@ npm run build && npm run dev:functions   # site plus functions at http://localho
 
 Open http://localhost:8788/cube-commonwealth/where-we-play/ for the member page and http://localhost:8788/cube-commonwealth/where-we-play/admin/ for the admin page, which asks for the token in `.dev.vars` (`local-admin` by default). The seed adds twelve sample members across the north side, five sample venues, one suggestion in the queue and one event, with straight-line drive times; "Retry OSRM" on the admin page replaces them with routed times. `npm run wwp:seed -- --clear` empties the local tables. The seed script can only touch the local database.
 
-Without `RESEND_API_KEY` in `.dev.vars`, confirmation emails are printed to the terminal instead of sent, edit link included.
+Where We Play sends no email. After submitting, the member's private edit link shows once on the thanks page (the token rides in the URL fragment, which never reaches a server). A second submission with the same email is turned away. A member who loses the link asks the admin, whose "New link" button makes a fresh one to copy and pass on by hand.
+
+## Form notices
+
+The corporate inquiry form and the Guild capstone form email each submission to the site owner. Pages Functions cannot send email, so they call a small Worker, `ludarium-notify` (`workers/notify/`), through the `NOTIFY` service binding. The Worker sends through Cloudflare Email Routing, which only delivers to verified destination addresses, so it can only ever reach the owner's inbox. It has no public URL.
+
+```bash
+npx wrangler deploy -c workers/notify/wrangler.toml
+```
+
+```bash
+npx wrangler secret put NOTIFY_TO -c workers/notify/wrangler.toml
+```
+
+`NOTIFY_TO` is a destination address verified under Email Routing; it is a secret only to keep it out of this public repo. Then bind the Worker to the Pages project as `NOTIFY` (Settings > Bindings > Service binding) for Production and Preview. Locally, without the binding, both forms answer "not working right now".
 
 ### Tests
 

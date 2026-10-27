@@ -53,6 +53,6 @@ export const LIMITS = {
 export const EMAIL_PATTERN = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 export const ZIP_PATTERN = /^\d{5}$/;
 
-/** The privacy line shown under the form and in the confirmation email. Exact wording from Levi. */
+/** The privacy line shown under the form. Levi's wording; the last sentence changed when the email went away (2026-10-27). */
 export const PRIVACY_LINE =
-  "Only the app's admin can see your address, and it is never shared. Members see only drive-time summaries. Update or delete it any time with the link in your email.";
+  "Only the app's admin can see your address, and it is never shared. Members see only drive-time summaries. Update or delete it any time with your private link.";

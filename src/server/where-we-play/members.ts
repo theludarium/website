@@ -1,10 +1,9 @@
 // The member flow shared by the submit and edit routes: geocode, store,
-// email the edit link, and route drive times after the response is sent.
+// and route drive times after the response is sent.
 import { WWP_BASE, WWP_GROUP } from '../../lib/where-we-play/shared.ts';
 import type { WwpEnv } from './env.ts';
 import { computeForMember } from './compute.ts';
 import { deleteDriveTimesForMember, getMemberByEmail, getMemberById, insertMember, setMemberTokenHash, updateMember, type MemberRow } from './db.ts';
-import { sendConfirmation } from './email.ts';
 import { geocodeMember } from './geocode.ts';
 import { hashToken, newToken } from './tokens.ts';
 import type { MemberForm } from './validate.ts';
@@ -17,7 +16,7 @@ const moved = (before: MemberRow, form: MemberForm) =>
 export interface SaveResult {
   member: MemberRow;
   created: boolean;
-  /** Set when a fresh edit link was made (new member, or a resend). */
+  /** The new member's edit token; null when an existing entry was updated. */
   token: string | null;
   relocated: boolean;
 }
@@ -83,4 +82,3 @@ export async function routeMemberLater(env: WwpEnv, member: MemberRow): Promise<
 /** The member row for an email in this group, if any. */
 export const findByEmail = (env: WwpEnv, email: string) => getMemberByEmail(env.DB!, WWP_GROUP, email);
 
-export { sendConfirmation };

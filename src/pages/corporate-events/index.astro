@@ -5,7 +5,6 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import InquiryForm from '@/components/InquiryForm.astro';
 import PreviewNote from '@/components/PreviewNote.astro';
 import TableScene from '@/components/TableScene.astro';
-import { TURNSTILE_SITE_KEY } from '@/lib/config';
 ---
 
 <BaseLayout
@@ -59,14 +58,6 @@ import { TURNSTILE_SITE_KEY } from '@/lib/config';
           Levi: confirm the workshop formats, typical length, and how you price them, and send any
           testimonials once you have them. The objections above assume you bring all materials.
         </PreviewNote>
-        {
-          !TURNSTILE_SITE_KEY && (
-            <PreviewNote>
-              The form is not connected yet. It needs the Resend and Turnstile setup in Cloudflare
-              before it can email you. Previews use a test spam check that always passes.
-            </PreviewNote>
-          )
-        }
       </div>
       <InquiryForm />
     </div>

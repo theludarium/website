@@ -414,3 +414,12 @@ Levi asked to turn the article "How to Teach a Board Game in Five Minutes" into 
 - **Links in:** a feature band on the Academy page, and course boxes at the top and bottom of the original article.
 - **Renamed 2026-10-27, Levi's call:** "The Ludarium Guild of Game Guides", and graduates are "Expert Game Guides". URLs stay under `/academy/guild/`, so nothing needs redirects. The site also has an article category called Game Guides; the program and the category now share a word, which suits the original article living in that category.
 
+
+## 2026-10-27: No automated emails to people; form notices through Cloudflare
+
+Levi's call: keep collecting emails, but stop sending automated emails to the people who fill out forms. Resend was never set up and is no longer used.
+
+- **Where We Play shows the private edit link on the thanks page** instead of emailing it. The token travels in the URL fragment, which browsers never send to a server, and the page offers a copy button.
+- **A repeat email is turned away, not replaced.** With the link on screen, replacing an entry would let anyone who knows a member's email take it over and read their address. Lost links go through the admin: "New link" makes a fresh one to pass on by hand.
+- **Inquiry and Guild capstone notices still reach Levi**, through a small Worker (`ludarium-notify`, `workers/notify/`) bound to the Pages project as `NOTIFY`. Pages Functions cannot send email; the Worker sends through Cloudflare Email Routing, which only delivers to verified addresses, so it cannot email anyone else. No new account or dependency. The destination is a Worker secret because this repo is public.
+- **Turnstile** has one widget for theludarium.com. Previews and local dev always use Cloudflare's always-pass test key, so preview URLs never need registering.
