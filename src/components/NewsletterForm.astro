@@ -56,6 +56,9 @@ const emailField = KIT_NEWSLETTER_FORM.emailField;
   .signup {
     width: 100%;
     max-width: 38rem;
+    /* Stack by the form's own width, not the screen's: the form sits in
+       narrow boxes (the end of an article) as well as wide heroes. */
+    container-type: inline-size;
   }
 
   .signup__row {
@@ -131,7 +134,7 @@ const emailField = KIT_NEWSLETTER_FORM.emailField;
     color: rgb(246 239 227 / 0.82);
   }
 
-  @media (max-width: 30rem) {
+  @container (max-width: 34rem) {
     .signup__row {
       flex-direction: column;
       border-radius: var(--radius-card);
