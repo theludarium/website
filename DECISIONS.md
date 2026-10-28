@@ -442,3 +442,10 @@ Levi's call: keep collecting emails, but stop sending automated emails to the pe
 - **Both run now.** Cloudflare Web Analytics was turned on for theludarium.com (automatic setup, 2026-10-19) next to Google Analytics. It is cookieless and counts visitors whose browsers block Google, so it is a second, rougher count; GA stays the source for events and paths.
 - **The privacy policy now says so**, in "When you visit the site."
 - **Reading the numbers:** Claude reads Search Console, Google Analytics, and Cloudflare Web Analytics through Levi's signed-in Chrome. No API keys or service accounts.
+
+## 2026-10-28: Founder section on About
+
+- **The About page now has a "Who is behind it" section** for Levi JA Wilson, Founder, Indianapolis: why he started The Ludarium (in his words, shaped for the page), his background drawn only from what the site already shows (Magic player, built Game Night Madness and the RPG Demo Library, wrote the malaphor book, For Teams), and contact links.
+- **Photos:** the professional headshot leads; three fun ones (MagicFest, the stairs, sunglasses) sit in a row below to show range. All WebP in `public/images/about/`, under 100 KB each.
+- **Founder facts live in `FOUNDER` in `src/lib/site.ts`.** The site-wide Organization structured data now names him as founder, with his LinkedIn in `sameAs`.
+- **Contact email is `lwilson@ludarium.com`** (ludarium.com, which forwards through Porkbun), Levi's choice.
