@@ -1,10 +1,8 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
-import PreviewNote from '@/components/PreviewNote.astro';
 import { MARK_PATH, MARK_VIEWBOX } from '@/lib/brand';
-import { SITE } from '@/lib/site';
-import { IS_PREVIEW } from '@/lib/env';
+import { FOUNDER, SITE } from '@/lib/site';
 
 const roadmap = [
   {
@@ -45,7 +43,7 @@ const roadmap = [
       <div>
         <h2>What is in a name</h2>
         <p>
-          <em>Ludus</em> is Latin for play and games. Fittingly, it was also the word for a school.
+          <em>Ludus</em> is Latin for play and games. Fittingly, it was also the word for a school.{' '}
           <em>-arium</em> means a place for something, as in aquarium and planetarium.
         </p>
         <p>
@@ -105,20 +103,98 @@ const roadmap = [
     </div>
   </section>
 
-  {
-    IS_PREVIEW && (
-      <section class="section section--tight-top">
-        <div class="container narrow">
-          <h2>Who is behind it</h2>
-          <PreviewNote>
-            Levi: this is the spot for your story. Why you started The Ludarium, a game night that
-            changed something for you, and a photo if you like. A few short paragraphs is plenty. This
-            whole section stays off the live site until you write it.
-          </PreviewNote>
-        </div>
-      </section>
-    )
-  }
+  <section class="section section--tight-top" id="founder" aria-labelledby="founder-title">
+    <div class="container founder">
+      <figure class="founder__portrait">
+        <img
+          src={FOUNDER.photo}
+          alt="Levi JA Wilson, founder of The Ludarium, in a blue suit with his arms crossed, smiling"
+          width="800"
+          height="1000"
+          loading="lazy"
+          decoding="async"
+        />
+      </figure>
+      <div class="founder__text">
+        <p class="eyebrow">Who is behind it</p>
+        <h2 id="founder-title">{FOUNDER.name}</h2>
+        <p class="founder__role">{FOUNDER.role}, The Ludarium. {FOUNDER.city}.</p>
+        <p>
+          Levi started The Ludarium to build a world he wanted to live in: one where tabletop games
+          are about playing them, not owning them. A shelf of games is nice. A table full of people
+          playing one is the point.
+        </p>
+        <p>
+          It goes one layer deeper. Even playing is not quite the point. What matters is the time
+          itself: people who share your interests, living life together. That is togethering, and it
+          is why The Ludarium exists.
+        </p>
+        <p>
+          He is a player first. You will find him at a Magic: The Gathering table with his deck
+          sleeved and his playmat out. He built the first tools on this site himself:{' '}
+          <a href="/game-night-madness/">Game Night Madness</a>, a bracket that settles what to play
+          tonight, and the <a href="/rpg-demo-library/">RPG Demo Library</a>, where you can try a
+          role-playing game before you buy the book. He also wrote{' '}
+          <a href="/books/well-burn-that-bridge/"><em>We'll Burn That Bridge When We Get to It</em></a>,
+          a field guide to mixed-up sayings, which tells you most of what you need to know about his
+          sense of humor.
+        </p>
+        <p>
+          The suit comes out for <a href="/corporate-events/">For Teams</a>, where The Ludarium
+          brings leadership and team training to the workplace through tabletop games. Same table,
+          different stakes.
+        </p>
+        <ul class="founder__contact">
+          <li><a class="text-link" href={`mailto:${FOUNDER.email}`}>{FOUNDER.email}</a></li>
+          <li><a class="text-link" href={FOUNDER.linkedin} rel="me noopener" target="_blank">LinkedIn</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="container">
+      <ul class="founder__moods" aria-label="More photos of Levi">
+        <li>
+          <figure class="card founder__mood">
+            <img
+              src="/images/about/levi-at-magicfest.webp"
+              alt="Levi grinning at a crowded MagicFest table, his hand resting on a Magic playmat next to a sleeved deck"
+              width="720"
+              height="871"
+              loading="lazy"
+              decoding="async"
+            />
+            <figcaption>At the table, where he is happiest.</figcaption>
+          </figure>
+        </li>
+        <li>
+          <figure class="card founder__mood">
+            <img
+              src="/images/about/levi-on-the-stairs.webp"
+              alt="Levi crouched on a wooden staircase, chin on his fist, giving the camera a skeptical look"
+              width="720"
+              height="870"
+              loading="lazy"
+              decoding="async"
+            />
+            <figcaption>Thinking about your next move.</figcaption>
+          </figure>
+        </li>
+        <li>
+          <figure class="card founder__mood">
+            <img
+              src="/images/about/levi-in-sunglasses.webp"
+              alt="Levi in dark sunglasses and a plaid coat, taking a selfie under green leaves"
+              width="400"
+              height="300"
+              loading="lazy"
+              decoding="async"
+            />
+            <figcaption>Off the clock.</figcaption>
+          </figure>
+        </li>
+      </ul>
+    </div>
+  </section>
 
   <section class="section section--tight-top section--flush-bottom">
     <div class="container">
@@ -236,6 +312,94 @@ const roadmap = [
 
   .about-signup :global(.signup__note) {
     margin-left: 0;
+  }
+
+  .founder {
+    display: grid;
+    grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.2fr);
+    gap: var(--space-8);
+    align-items: start;
+  }
+
+  .founder__portrait {
+    margin: 0;
+  }
+
+  .founder__portrait img,
+  .founder__mood img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: var(--radius-card);
+  }
+
+  .founder__text h2 {
+    margin: 0;
+    font-size: var(--text-3xl);
+  }
+
+  .founder__role {
+    margin: var(--space-2) 0 var(--space-5);
+    color: var(--color-text-muted);
+    font-weight: 600;
+  }
+
+  .founder__text p {
+    max-width: 38rem;
+  }
+
+  .founder__contact {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-5);
+    margin: var(--space-5) 0 0;
+    padding: 0;
+    list-style: none;
+    font-weight: 600;
+  }
+
+  .founder__moods {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: var(--space-5);
+    margin: var(--space-8) 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .founder__mood {
+    margin: 0;
+    padding: var(--space-3);
+    height: 100%;
+  }
+
+  .founder__mood img {
+    aspect-ratio: 4 / 5;
+    object-fit: cover;
+  }
+
+  .founder__mood figcaption {
+    margin-top: var(--space-3);
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+    text-align: center;
+  }
+
+  @media (max-width: 52rem) {
+    .founder {
+      grid-template-columns: 1fr;
+    }
+
+    .founder__portrait {
+      max-width: 22rem;
+    }
+  }
+
+  @media (max-width: 36rem) {
+    .founder__moods {
+      grid-template-columns: 1fr;
+      max-width: 22rem;
+    }
   }
 
   @media (max-width: 52rem) {

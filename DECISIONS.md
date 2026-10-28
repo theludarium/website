@@ -436,3 +436,23 @@ Levi's call: keep collecting emails, but stop sending automated emails to the pe
 - With no emails sent, the email was only an identity check. The repeat-entry guard still runs when an email is given; entries without one are not checked. The private link is still the only way back into an entry.
 - Members can add or change their email on the edit page, unless another entry already uses it.
 - Migration 0003 rebuilds `wwp_members` (SQLite cannot drop NOT NULL in place) and keeps drive times and venue suggesters across the rebuild. The live table was empty when it was written.
+
+## 2026-10-27: Services section
+
+- **"Services" replaces "For Teams" in the top nav.** It opens a menu like Lounges: All services, then one link per service. Levi plans more services later (coaching for players, coaching for designers, and others not decided yet).
+- **One list drives it.** `src/lib/services.ts` holds every service; the `/services/` hub and the header menu both read it. A new service is one entry there plus its own page.
+- **For Teams keeps its address, `/corporate-events/`.** Ten articles link to it, the inquiry form returns to it, and search engines already know it. It joins Services through the menu, the hub, and the search section (now "Services" instead of "For teams"). Moving it under `/services/` later is a redirect in `public/_redirects` plus a find and replace.
+- **The hub names only what exists.** Future services get a single "more on the way" line, not named placeholders, until Levi decides what they are.
+
+## 2026-10-28: Cloudflare Web Analytics alongside Google Analytics
+
+- **Both run now.** Cloudflare Web Analytics was turned on for theludarium.com (automatic setup, 2026-10-19) next to Google Analytics. It is cookieless and counts visitors whose browsers block Google, so it is a second, rougher count; GA stays the source for events and paths.
+- **The privacy policy now says so**, in "When you visit the site."
+- **Reading the numbers:** Claude reads Search Console, Google Analytics, and Cloudflare Web Analytics through Levi's signed-in Chrome. No API keys or service accounts.
+
+## 2026-10-28: Founder section on About
+
+- **The About page now has a "Who is behind it" section** for Levi JA Wilson, Founder, Indianapolis: why he started The Ludarium (in his words, shaped for the page), his background drawn only from what the site already shows (Magic player, built Game Night Madness and the RPG Demo Library, wrote the malaphor book, For Teams), and contact links.
+- **Photos:** the professional headshot leads; three fun ones (MagicFest, the stairs, sunglasses) sit in a row below to show range. All WebP in `public/images/about/`, under 100 KB each.
+- **Founder facts live in `FOUNDER` in `src/lib/site.ts`.** The site-wide Organization structured data now names him as founder, with his LinkedIn in `sameAs`.
+- **Contact email is `lwilson@ludarium.com`** (ludarium.com, which forwards through Porkbun), Levi's choice.
