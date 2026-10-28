@@ -10,6 +10,15 @@ export const SITE = {
   locale: 'en_US',
 };
 
+export const FOUNDER = {
+  name: 'Levi JA Wilson',
+  role: 'Founder',
+  city: 'Indianapolis, Indiana',
+  email: 'lwilson@ludarium.com',
+  linkedin: 'https://www.linkedin.com/in/levijawilson/',
+  photo: '/images/about/levi-wilson.webp',
+};
+
 export type NavLink = { href: string; label: string; description?: string };
 export type NavItem = NavLink & { children?: NavLink[] };
 
