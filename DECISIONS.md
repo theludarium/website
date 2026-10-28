@@ -436,3 +436,9 @@ Levi's call: keep collecting emails, but stop sending automated emails to the pe
 - **One list drives it.** `src/lib/services.ts` holds every service; the `/services/` hub and the header menu both read it. A new service is one entry there plus its own page.
 - **For Teams keeps its address, `/corporate-events/`.** Ten articles link to it, the inquiry form returns to it, and search engines already know it. It joins Services through the menu, the hub, and the search section (now "Services" instead of "For teams"). Moving it under `/services/` later is a redirect in `public/_redirects` plus a find and replace.
 - **The hub names only what exists.** Future services get a single "more on the way" line, not named placeholders, until Levi decides what they are.
+
+## 2026-10-28: Cloudflare Web Analytics alongside Google Analytics
+
+- **Both run now.** Cloudflare Web Analytics was turned on for theludarium.com (automatic setup, 2026-10-19) next to Google Analytics. It is cookieless and counts visitors whose browsers block Google, so it is a second, rougher count; GA stays the source for events and paths.
+- **The privacy policy now says so**, in "When you visit the site."
+- **Reading the numbers:** Claude reads Search Console, Google Analytics, and Cloudflare Web Analytics through Levi's signed-in Chrome. No API keys or service accounts.
