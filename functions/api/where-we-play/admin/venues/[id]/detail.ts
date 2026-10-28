@@ -1,7 +1,7 @@
 // GET /api/where-we-play/admin/venues/:id/detail?slot=<key>: histogram and
 // the member list by drive time for one venue.
 import { availableIn, histogram, minutes, venueStats } from '../../../../../../src/lib/where-we-play/engine.ts';
-import { NEAR_MINUTES, SLOT_KEYS, WWP_GROUP } from '../../../../../../src/lib/where-we-play/shared.ts';
+import { fullName, NEAR_MINUTES, SLOT_KEYS, WWP_GROUP } from '../../../../../../src/lib/where-we-play/shared.ts';
 import type { Context } from '../../../../../../src/server/where-we-play/env.ts';
 import { getVenue, listDriveTimes, listMembers, parseAvailability } from '../../../../../../src/server/where-we-play/db.ts';
 import { fail, json } from '../../../../../../src/server/where-we-play/http.ts';
@@ -40,7 +40,7 @@ export async function onRequestGet({ request, env, params }: Context<{ id: strin
         const m = byId.get(r.member_id);
         return {
           id: r.member_id,
-          label: m?.first_name || (m?.discord_handle ? `@${m.discord_handle}` : `Member ${r.member_id}`),
+          label: (m && fullName(m)) || (m?.discord_handle ? `@${m.discord_handle}` : `Member ${r.member_id}`),
           zip: m?.zip ?? null,
           minutes: minutes(r.seconds),
           source: r.source,

@@ -6,7 +6,8 @@
 //    fragment, which browsers never send to a server. Nothing is emailed.
 // 4. Drive times are routed afterwards in waitUntil.
 //
-// An email that already has an entry is turned away rather than replaced:
+// An email that already has an entry is turned away (email is optional; no
+// email, no check) rather than replaced:
 // the new link shows on screen, so replacing would let anyone who knows a
 // member's email take over their entry and see their address.
 //
@@ -52,7 +53,7 @@ export async function onRequestPost({ request, env, waitUntil }: Context): Promi
   if ('error' in parsed) return back(request, parsed.error);
 
   try {
-    if (await findByEmail(env, parsed.email)) return back(request, 'exists');
+    if (parsed.email && (await findByEmail(env, parsed.email))) return back(request, 'exists');
     const saved = await saveMember(env, parsed, null);
     waitUntil(routeMemberLater(env, saved.member));
     const qs = saved.member.geocode_source === 'failed' ? '?geocode=failed' : '';

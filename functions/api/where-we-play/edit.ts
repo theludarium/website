@@ -4,7 +4,7 @@ import { WWP_BASE } from '../../../src/lib/where-we-play/shared.ts';
 import type { Context } from '../../../src/server/where-we-play/env.ts';
 import { getMemberByTokenHash, parseAvailability, type MemberRow } from '../../../src/server/where-we-play/db.ts';
 import { fail, field, json, redirect } from '../../../src/server/where-we-play/http.ts';
-import { routeMemberLater, saveMember } from '../../../src/server/where-we-play/members.ts';
+import { findByEmail, routeMemberLater, saveMember } from '../../../src/server/where-we-play/members.ts';
 import { hashToken, TOKEN_PATTERN } from '../../../src/server/where-we-play/tokens.ts';
 import { parseMemberForm } from '../../../src/server/where-we-play/validate.ts';
 
@@ -21,6 +21,7 @@ export async function onRequestGet({ request, env }: Context): Promise<Response>
     email: member.email,
     discord_handle: member.discord_handle,
     first_name: member.first_name,
+    last_name: member.last_name,
     zip: member.zip,
     street_address: member.street_address,
     cross_street: member.cross_street,
@@ -45,10 +46,12 @@ export async function onRequestPost({ request, env, waitUntil }: Context): Promi
 
   const parsed = parseMemberForm(form);
   if ('error' in parsed) return back(request, token, parsed.error);
-  // The email on the link wins; the field is shown read-only and ignored here.
-  parsed.email = member.email;
-
   try {
+    // A member may add or change their email, but not to one another entry uses.
+    if (parsed.email && parsed.email !== member.email) {
+      const other = await findByEmail(env, parsed.email);
+      if (other && other.id !== member.id) return back(request, token, 'exists');
+    }
     const saved = await saveMember(env, parsed, member);
     if (saved.relocated) waitUntil(routeMemberLater(env, saved.member));
     return redirect(request, `${WWP_BASE}/edit/?t=${token}&saved=1`);

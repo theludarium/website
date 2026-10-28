@@ -5,9 +5,10 @@ import type { DriveTime } from '../../lib/where-we-play/engine.ts';
 export interface MemberRow {
   id: number;
   group: string;
-  email: string;
+  email: string | null;
   discord_handle: string | null;
   first_name: string | null;
+  last_name: string | null;
   zip: string;
   street_address: string | null;
   cross_street: string | null;
@@ -63,7 +64,7 @@ export interface EventRow {
 }
 
 const MEMBER_COLUMNS =
-  'id, "group", email, discord_handle, first_name, zip, street_address, cross_street, lat, lng, geocode_source, public_lat, public_lng, availability, edit_token_hash, created_at, updated_at';
+  'id, "group", email, discord_handle, first_name, last_name, zip, street_address, cross_street, lat, lng, geocode_source, public_lat, public_lng, availability, edit_token_hash, created_at, updated_at';
 const VENUE_COLUMNS =
   'id, "group", name, address, lat, lng, neighborhood, table_count, hours, website, call_ahead, notes, status, address_public, suggested_by_member_id, suggestion_note, approved, created_at, updated_at';
 
@@ -96,9 +97,10 @@ export async function listMembers(db: D1, group: string) {
 
 export interface MemberInput {
   group: string;
-  email: string;
+  email: string | null;
   discord_handle: string | null;
   first_name: string | null;
+  last_name: string | null;
   zip: string;
   street_address: string | null;
   cross_street: string | null;
@@ -114,15 +116,16 @@ export async function insertMember(db: D1, input: MemberInput, tokenHash: string
   const at = now.toISOString();
   const result = await db
     .prepare(
-      `INSERT INTO wwp_members ("group", email, discord_handle, first_name, zip, street_address, cross_street, lat, lng,
+      `INSERT INTO wwp_members ("group", email, discord_handle, first_name, last_name, zip, street_address, cross_street, lat, lng,
          geocode_source, public_lat, public_lng, availability, edit_token_hash, created_at, updated_at)
-       VALUES (?1, ?2, ?3, ?4, ?5, ?6, ?7, ?8, ?9, ?10, ?11, ?12, ?13, ?14, ?15, ?15)`,
+       VALUES (?1, ?2, ?3, ?4, ?5, ?6, ?7, ?8, ?9, ?10, ?11, ?12, ?13, ?14, ?15, ?16, ?16)`,
     )
     .bind(
       input.group,
       input.email,
       input.discord_handle,
       input.first_name,
+      input.last_name,
       input.zip,
       input.street_address,
       input.cross_street,
@@ -139,18 +142,21 @@ export async function insertMember(db: D1, input: MemberInput, tokenHash: string
   return Number(result.meta?.last_row_id ?? 0);
 }
 
-/** Updates everything but the email, group, and token. */
-export async function updateMember(db: D1, id: number, input: Omit<MemberInput, 'group' | 'email'>, now = new Date()) {
+/** Updates everything but the group and token. */
+export async function updateMember(db: D1, id: number, input: Omit<MemberInput, 'group'>, now = new Date()) {
   await db
     .prepare(
-      `UPDATE wwp_members SET discord_handle = ?2, first_name = ?3, zip = ?4, street_address = ?5, cross_street = ?6,
-         lat = ?7, lng = ?8, geocode_source = ?9, public_lat = ?10, public_lng = ?11, availability = ?12, updated_at = ?13
+      `UPDATE wwp_members SET email = ?2, discord_handle = ?3, first_name = ?4, last_name = ?5, zip = ?6, street_address = ?7,
+         cross_street = ?8, lat = ?9, lng = ?10, geocode_source = ?11, public_lat = ?12, public_lng = ?13, availability = ?14,
+         updated_at = ?15
        WHERE id = ?1`,
     )
     .bind(
       id,
+      input.email,
       input.discord_handle,
       input.first_name,
+      input.last_name,
       input.zip,
       input.street_address,
       input.cross_street,

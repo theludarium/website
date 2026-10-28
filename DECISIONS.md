@@ -430,6 +430,13 @@ Levi's call: keep collecting emails, but stop sending automated emails to the pe
 - Rules come from the official rulebooks (Gamewright 2014 printing; Blue Orange 2016 rules checked against the 2024 edition; the Thames & Kosmos English rulebook and logbook). Open questions the rulebooks do not settle are left as VERIFY markers rather than guessed.
 - Kit forms for the three courses come after merge, the same way as the other 31; until then their signups fall back to the general newsletter.
 
+## 2026-10-27: Where We Play email is optional; last name added
+
+- Levi asked for it: only the zip code is required now. Email, first name, last name, Discord handle, and street address are all optional.
+- With no emails sent, the email was only an identity check. The repeat-entry guard still runs when an email is given; entries without one are not checked. The private link is still the only way back into an entry.
+- Members can add or change their email on the edit page, unless another entry already uses it.
+- Migration 0003 rebuilds `wwp_members` (SQLite cannot drop NOT NULL in place) and keeps drive times and venue suggesters across the rebuild. The live table was empty when it was written.
+
 ## 2026-10-27: Services section
 
 - **"Services" replaces "For Teams" in the top nav.** It opens a menu like Lounges: All services, then one link per service. Levi plans more services later (coaching for players, coaching for designers, and others not decided yet).

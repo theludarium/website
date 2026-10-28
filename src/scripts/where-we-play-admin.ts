@@ -1,6 +1,6 @@
 // The Where We Play admin page. Reads everything from /api/where-we-play/admin
 // and builds the sections in place. See src/pages/cube-commonwealth/where-we-play/admin.astro.
-import { SLOTS, VENUE_STATUSES } from '@/lib/where-we-play/shared';
+import { fullName, SLOTS, VENUE_STATUSES } from '@/lib/where-we-play/shared';
 
 declare global {
   interface Window {
@@ -52,9 +52,10 @@ interface Venue {
 
 interface Member {
   id: number;
-  email: string;
+  email: string | null;
   discord_handle: string | null;
   first_name: string | null;
+  last_name: string | null;
   zip: string;
   street_address: string | null;
   cross_street: string | null;
@@ -63,6 +64,9 @@ interface Member {
   availability: string[];
   created_at: string;
 }
+
+/** How confirmations and messages name a member: name, then handle, then email. */
+const who = (m: Member) => fullName(m) ?? (m.discord_handle ? `@${m.discord_handle}` : m.email) ?? `member ${m.id}`;
 
 interface Event {
   id: number;
@@ -524,9 +528,9 @@ if (root) {
       el(
         'tr',
         {},
-        el('td', { text: m.first_name ?? '' }),
+        el('td', { text: fullName(m) ?? '' }),
         el('td', { text: m.discord_handle ? `@${m.discord_handle}` : '' }),
-        el('td', { text: m.email }),
+        el('td', { text: m.email ?? '' }),
         el('td', { text: m.zip }),
         el('td', { text: m.street_address ?? '' }),
         el('td', { text: m.cross_street ?? '' }),
@@ -541,7 +545,7 @@ if (root) {
             { class: 'actions' },
             btn('New link', '', () =>
               guard(async () => {
-                if (!confirm(`Make a new private link for ${m.email}? Their old link stops working.`)) return;
+                if (!confirm(`Make a new private link for ${who(m)}? Their old link stops working.`)) return;
                 const { url } = await api<{ url: string }>(`/members/${m.id}/link`, { method: 'POST' });
                 let copied = false;
                 try {
@@ -550,12 +554,12 @@ if (root) {
                 } catch {
                   // Clipboard can be blocked; the link is in the message either way.
                 }
-                say(`New link for ${m.email}${copied ? ' (copied)' : ''}. Send it to them yourself: ${url}`);
+                say(`New link for ${who(m)}${copied ? ' (copied)' : ''}. Send it to them yourself: ${url}`);
               }),
             ),
             btn('Delete', 'wwp-btn--danger', () =>
               guard(async () => {
-                if (!confirm(`Delete ${m.email} and their drive times?`)) return;
+                if (!confirm(`Delete ${who(m)} and their drive times?`)) return;
                 await api(`/members/${m.id}`, { method: 'DELETE' });
                 await loadAll();
               }),

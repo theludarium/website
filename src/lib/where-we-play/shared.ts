@@ -40,6 +40,7 @@ export const LIMITS = {
   email: 200,
   discordHandle: 60,
   firstName: 80,
+  lastName: 80,
   streetAddress: 200,
   crossStreet: 120,
   venueName: 120,
@@ -49,6 +50,10 @@ export const LIMITS = {
   website: 300,
   notes: 3000,
 } as const;
+
+/** A member's name for lists: first and last, either one, or null. */
+export const fullName = (m: { first_name: string | null; last_name: string | null }) =>
+  [m.first_name, m.last_name].filter(Boolean).join(' ') || null;
 
 export const EMAIL_PATTERN = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 export const ZIP_PATTERN = /^\d{5}$/;
