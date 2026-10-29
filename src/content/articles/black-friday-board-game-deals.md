@@ -56,7 +56,7 @@ Most of the hobby. Specifically:
 
 **Small-publisher and direct-sales games.** Stonemaier Games sells Wingspan through its own store and sets its own prices; [the publisher's store listed it at $55 against a $65 regular price](https://store.stonemaiergames.com/products/wingspan) at the time of writing, which is about where it sits most of the year. Publishers like this rarely join the Amazon price war.
 
-**New releases.** A game released in the autumn is not going to be discounted at its first holiday. If it is on the list, buy it from a local store and get it over with.
+**New releases.** A game released in the autumn is not going to be discounted at its first holiday. If it is on the list, buy it from a local store and get it over with. Our running list of the [best board games of 2026](/articles/best-board-games-2026/) shows which new ones are worth it.
 
 **Anything already under $20.** The Black Friday discount on a $16 card game is three dollars. Love Letter at 16 percent off is still Love Letter at $14. The wait costs more than the saving.
 

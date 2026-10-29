@@ -9,7 +9,7 @@ draft: false
 ---
 Pandemic vs Forbidden Island is a fair fight because the two games share a designer, Matt Leacock, and a core idea: the board is falling apart faster than the players can fix it, and the only way to win is to talk. One is the smaller, lighter, cheaper version of the other. Which you should buy first depends on who you are buying it for.
 
-The quick answer: Forbidden Island for families, younger kids, or a group that has never played a cooperative game. Pandemic for adults, teenagers, and anyone who wants a game they will still be losing to in a year.
+The quick answer: Forbidden Island for families, younger kids, or a group that has never played a cooperative game. Pandemic for adults, teenagers, and anyone who wants a game they will still be losing to in a year. For more picks for a mixed-age table, see our [best family board games](/articles/best-family-board-games/).
 
 ## How do the two games work?
 

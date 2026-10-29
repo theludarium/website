@@ -52,7 +52,7 @@ The loser says "good game." The winner says "good game." No gloating, no sulking
 
 ### 8. Everyone plays to the end
 
-Nobody quits a game because they are losing, and nobody is eliminated, which means picking games without elimination. If a game has to stop early for bedtime, it stops for everyone.
+Nobody quits a game because they are losing, and nobody is eliminated, which means picking games without elimination. Every game on our list of the [best family board games](/articles/best-family-board-games/) passes that test. If a game has to stop early for bedtime, it stops for everyone.
 
 ### 9. Help is allowed when asked for
 
@@ -109,7 +109,7 @@ Decide the rules in advance on a calm day, write them down, and apply them the s
 
 ### Should kids be allowed to pick the game?
 
-Yes, in a fixed rotation with the youngest first. A child who picked the game is invested in it going well, and the rotation ends the argument about whose turn it is to choose.
+Yes, in a fixed rotation with the youngest first. A child who picked the game is invested in it going well, and the rotation ends the argument about whose turn it is to choose. If the youngest is five, give them two choices from our [board games for 5-year-olds](/articles/board-games-for-5-year-olds/).
 
 ### How long should family game night last?
 

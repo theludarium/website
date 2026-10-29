@@ -92,7 +92,7 @@ Rummikub. It is familiar, the tiles are large, turns are simple, and many grandp
 
 ### What games can grandparents play with young grandchildren?
 
-Qwirkle, Sequence, Outfoxed!, and Zingo! all work with children as young as five or six and are easy on an adult of any age.
+Qwirkle, Sequence, Outfoxed!, and Zingo! all work with children as young as five or six and are easy on an adult of any age. Our list of [board games for 5-year-olds](/articles/board-games-for-5-year-olds/) has more.
 
 ### How do you get older parents interested in board games?
 
