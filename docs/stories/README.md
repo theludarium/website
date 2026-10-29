@@ -68,7 +68,7 @@ import GatedDownload from '@/components/mdx/GatedDownload.astro';
 <GatedDownload kind="ledger" title="Get the Ledger first" text="The industry edition arrives a day before the public column." />
 ```
 
-**Two days:** day 1 pull filings and trade reports and fill the five numbers · day 2 chart, write, QA every figure against its source, publish, send to the ledger tag first and the main list second.
+**Two days:** day 1 pull filings and trade reports and fill the five numbers · day 2 chart, write, QA every figure against its source, publish, send to the Industry letter (segment LL - Industry) first and the General letter second.
 
 ## Shared QA (every piece)
 

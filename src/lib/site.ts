@@ -1,4 +1,5 @@
 import { SERVICES } from './services';
+import type { LettersKey } from './config';
 
 export const SITE = {
   name: 'The Ludarium',
@@ -30,11 +31,18 @@ export interface ArticleCategory {
   tint: string;
   /** An Academy course that reads this category's articles in order; drawn as a band on the category page. */
   course?: { title: string; href: string };
+  /**
+   * Which Ludarium Letter the end-of-article signup offers for this category
+   * (a key of KIT_LETTERS_FORMS in src/lib/config.ts). Unset means the general
+   * letter. An article can override it with `letters:` in its frontmatter.
+   */
+  letters?: LettersKey;
 }
 
 export const CATEGORIES: ArticleCategory[] = [
   {
     slug: 'game-guides',
+    letters: 'tabletop',
     name: 'Game Guides',
     description: 'How to play, how to teach, and how to win (sometimes).',
     tint: 'var(--brand-felt)',
@@ -59,6 +67,7 @@ export const CATEGORIES: ArticleCategory[] = [
   },
   {
     slug: 'game-shelf',
+    letters: 'tabletop',
     name: 'Game Shelf',
     description: 'Building, sharing, and organizing a game collection worth playing.',
     tint: '#a0824f',
@@ -66,12 +75,14 @@ export const CATEGORIES: ArticleCategory[] = [
   },
   {
     slug: 'game-design',
+    letters: 'tabletop',
     name: 'Game Design',
     description: 'How games work, and how to make your own.',
     tint: '#9a7b5f',
   },
   {
     slug: 'magic-and-cube',
+    letters: 'cube',
     name: 'Magic & Cube',
     description: 'Cube drafting, cube building, and the Cube Commonwealth community.',
     tint: '#7d6a92',

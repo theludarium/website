@@ -1,12 +1,16 @@
 ---
 // Email signup. Posts straight to Kit (no JavaScript, no third-party script);
 // Kit then redirects to /newsletter/thanks/, set in the Kit form's settings.
-// Until the Kit form is set in src/lib/config.ts, it falls back to the
-// /newsletter/ page so nothing breaks. Pass `formAction` to post to a
-// different Kit form (a newsletter offer); a blank one uses the general form.
-import { KIT_NEWSLETTER_FORM } from '@/lib/config';
+// `letters` picks which Ludarium Letter the form joins (KIT_LETTERS_FORMS in
+// src/lib/config.ts); the default is the general letter, and each letter
+// brings its own button label and note unless the page passes them.
+// Pass `formAction` to post to a different Kit form instead (a newsletter
+// offer); a blank one falls back to the chosen letter's form. Until a form
+// is set in config, it falls back to the /newsletter/ page so nothing breaks.
+import { KIT_LETTERS_FORMS, KIT_NEWSLETTER_FORM, type LettersKey } from '@/lib/config';
 
 interface Props {
+  letters?: LettersKey;
   buttonLabel?: string;
   note?: string;
   tone?: 'light' | 'dark';
@@ -14,22 +18,19 @@ interface Props {
   formAction?: string;
 }
 
-const {
-  buttonLabel = 'Email me free game night ideas',
-  note = 'Free. No spam. Unsubscribe anytime.',
-  tone = 'light',
-  id = 'newsletter',
-  formAction,
-} = Astro.props;
+const { letters = 'general', tone = 'light', id = 'newsletter', formAction } = Astro.props;
+const letter = KIT_LETTERS_FORMS[letters];
+const buttonLabel = Astro.props.buttonLabel ?? letter.buttonLabel;
+const note = Astro.props.note ?? letter.note;
 
-const kitAction = formAction || KIT_NEWSLETTER_FORM.action;
+const kitAction = formAction || letter.action;
 const configured = Boolean(kitAction);
 const action = configured ? kitAction : '/newsletter/';
 const method = configured ? 'post' : 'get';
 const emailField = KIT_NEWSLETTER_FORM.emailField;
 ---
 
-<form class:list={['signup', `signup--${tone}`]} action={action} method={method}>
+<form class:list={['signup', `signup--${tone}`]} action={action} method={method} data-letters={formAction ? undefined : letters}>
   <div class="signup__row">
     <label class="visually-hidden" for={`${id}-email`}>Email address</label>
     <input

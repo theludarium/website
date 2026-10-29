@@ -3,11 +3,57 @@
 // builds (never on the live site) so nothing ships half wired.
 
 /**
- * Kit newsletter form, copied from Kit's HTML embed code (Embed > HTML).
+ * Ludarium Letters: one Kit form per newsletter, each posting straight from
+ * NewsletterForm.astro (no script, no API key). All four use double opt-in,
+ * send people to /newsletter/thanks/ after signup and /newsletter/confirmed/
+ * after they confirm. In Kit, each form gets a rule that adds its tag
+ * (LL: General, LL: Cube, LL: Tabletop, LL: Industry) and starts its welcome
+ * sequence; each letter's broadcasts go to the segment built on that tag.
+ * Setup notes: docs/newsletter/KIT-SETUP.md ("Ludarium Letters").
+ * `buttonLabel`, `note` and `lede` are the signup copy a page gets unless it
+ * passes its own.
+ */
+export const KIT_LETTERS_FORMS = {
+  general: {
+    name: 'Ludarium Letters - General',
+    action: 'https://app.kit.com/forms/10079099/subscriptions',
+    buttonLabel: 'Email me free game night ideas',
+    note: 'Free. No spam. Unsubscribe anytime.',
+    lede: 'Free guides, game picks, and hosting ideas from The Ludarium.',
+  },
+  cube: {
+    name: 'Ludarium Letters - Cube',
+    action: 'https://app.kit.com/forms/10111145/subscriptions',
+    buttonLabel: 'Send me the Cube letter',
+    note: 'Cube news, drafts, and guides. Free. Unsubscribe anytime.',
+    lede: 'Cube news, draft guides, and Cube Commonwealth updates from The Ludarium.',
+  },
+  tabletop: {
+    name: 'Ludarium Letters - Tabletop',
+    action: 'https://app.kit.com/forms/10111160/subscriptions',
+    buttonLabel: 'Send me the Tabletop letter',
+    note: 'Board game picks and guides. Free. Unsubscribe anytime.',
+    lede: 'Board game picks, strategy, and shelf advice from The Ludarium.',
+  },
+  industry: {
+    name: 'Ludarium Letters - Industry',
+    action: 'https://app.kit.com/forms/10111152/subscriptions',
+    buttonLabel: 'Send me the Industry letter',
+    note: 'Tabletop industry news and analysis. Free. Unsubscribe anytime.',
+    lede: 'What the tabletop industry is doing and where the money goes, from The Ludarium.',
+  },
+} satisfies Record<string, { name: string; action: string; buttonLabel: string; note: string; lede: string }>;
+
+export type LettersKey = keyof typeof KIT_LETTERS_FORMS;
+export const LETTERS_KEYS = Object.keys(KIT_LETTERS_FORMS) as [LettersKey, ...LettersKey[]];
+
+/**
+ * The general letter's form: the site-wide default signup. Kept as its own
+ * export because most pages only ever need this one.
  * `action` is the form's action URL; `emailField` is the name of its email input.
  */
 export const KIT_NEWSLETTER_FORM = {
-  action: 'https://app.kit.com/forms/10079099/subscriptions',
+  action: KIT_LETTERS_FORMS.general.action,
   emailField: 'email_address',
 };
 
@@ -145,13 +191,16 @@ export const KIT_COURSE_FORMS: Record<string, { action: string; alerts?: string 
   guild: { action: 'https://app.kit.com/forms/10104085/subscriptions' },
 };
 /**
- * Kit forms for the recurring stories (docs/stories/README.md): `dataset` is
- * the Shelf Life CSV download (tag dataset), `ledger` the industry readers form
- * (tag ledger). Blank until the forms exist in Kit; until then signups join the
- * general newsletter.
+ * Kit forms for the recurring stories (docs/stories/README.md). `dataset` is
+ * the Shelf Life CSV download (its own form, since the download is delivered
+ * by that form's after-confirmation setting; tag dataset), blank until the
+ * form exists in Kit, so signups join the general newsletter for now.
+ * `ledger` is the Industry letter: the people who want the Ledger a day early
+ * are the Industry readers, so the Ledger's early edition is an Industry
+ * broadcast (decided 2026-10-28) and no separate form, tag or segment exists.
  */
 export const KIT_STORY_FORMS = {
   dataset: '',
-  ledger: '',
+  ledger: KIT_LETTERS_FORMS.industry.action,
 };
 
