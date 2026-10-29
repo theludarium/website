@@ -44,12 +44,12 @@ The games for a neighborhood night need to pass three tests: teachable in three 
 
 | Game | Players | Why it works for neighbors |
 |---|---|---|
-| Codenames | 4–8+ | Team-based, all conversation, easy to join mid-game |
-| Wavelength | 2–12 | Runs on opinions; everyone has one |
-| Telestrations | 4–8 (12 with the big box) | Drawing badly is the fun; zero skill barrier |
-| Just One | 3–7 | Cooperative, gentle, nobody loses |
-| Sushi Go Party! | 2–8 | Fast card game, cute, three-minute teach |
-| Azul | 2–4 | For a quieter side table |
+| Codenames | 4 to 8+ | Team-based, all conversation, easy to join mid-game |
+| Wavelength | 2 to 12 | Runs on opinions; everyone has one |
+| Telestrations | 4 to 8 (12 with the big box) | Drawing badly is the fun; zero skill barrier |
+| Just One | 3 to 7 | Cooperative, gentle, nobody loses |
+| Sushi Go Party! | 2 to 8 | Fast card game, cute, three-minute teach |
+| Azul | 2 to 4 | For a quieter side table |
 
 **Codenames** <!-- AFFILIATE --> is the anchor. Put it on the main table and keep it running all night. It makes two teams out of strangers, and the arguments about whether "orange" connects to "fruit" and "Netherlands" are the conversations that turn neighbors into acquaintances.
 

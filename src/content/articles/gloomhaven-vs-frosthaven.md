@@ -25,11 +25,11 @@ Between scenarios you buy items, gain experience, level up, pick new cards, work
 
 | | Jaws of the Lion | Gloomhaven (2nd edition) | Frosthaven |
 |---|---|---|---|
-| Players | 1–4 | 1–4 | 1–4 |
-| Time per scenario | 1–2 hours | 1–2+ hours | 2–3 hours |
+| Players | 1 to 4 | 1 to 4 | 1 to 4 |
+| Time per scenario | 1 to 2 hours | 1 to 2+ hours | 2 to 3 hours |
 | Ages (box) | 14+ | 13+ | 13+ |
 | Weight (complexity) | Medium-heavy | Heavy | Heavy, plus outpost management |
-| Teach time | Built in: the first scenarios teach the rules | 45–60 minutes before the first scenario | 60+ minutes, more as systems unfold |
+| Teach time | Built in: the first scenarios teach the rules | 45 to 60 minutes before the first scenario | 60+ minutes, more as systems unfold |
 | Scenarios | 25 | 101 | About 138 |
 | Characters | 4 | 6 starting, 18 total | 17 |
 | Price | $59.99 | $199.99 | $250 |

@@ -37,8 +37,8 @@ Draftsim's overview finds 360 the most common size, with 450 and 720 for larger 
 
 | Section | 360 | 450 | What changes from pauper |
 |---|---|---|---|
-| Each color (×5) | 50 | 62 | Slightly fewer creatures (50–55%), more spells |
-| Gold | 40 | 50 | Larger: 4–5 per pair, mostly uncommon signposts |
+| Each color (×5) | 50 | 62 | Slightly fewer creatures (50 to 55%), more spells |
+| Gold | 40 | 50 | Larger: 4 to 5 per pair, mostly uncommon signposts |
 | Colorless | 20 | 25 | Equipment and mana rocks become real |
 | Lands | 50 | 65 | Uncommon fixing: tri-lands, bounce lands, gain lands, Thriving lands |
 

@@ -63,7 +63,7 @@ At five Epidemics, the normal setting, an experienced table in our experience wi
 | On the Brink | More roles, a fifth player, a Bio-Terrorist variant | Groups who want variety |
 | In the Lab | Lab-based cure puzzle, team mode | Veterans who want more steps |
 | State of Emergency | Emergency events, harder challenges | Groups who win too often |
-| Pandemic Legacy: Season 1 | A 12-month campaign that permanently changes the board | Committed groups of 2–4 |
+| Pandemic Legacy: Season 1 | A 12-month campaign that permanently changes the board | Committed groups of 2 to 4 |
 | Pandemic Iberia | 1848 Spain, railroads, no cures | People who want a fresh map |
 | Pandemic: Hot Zone | A smaller, faster version on one region | Travel, families, short nights |
 

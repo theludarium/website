@@ -25,15 +25,15 @@ A dorm is a specific environment. Small space, no table, inconsistent group size
 
 | Game | Players | Time | Box | Why |
 |---|---|---|---|---|
-| Codenames | 4–8+ | 15 min | Small | The best party game, period |
-| The Crew | 3–5 (2 with a variant) | 20 min | Card deck | Co-op trick-taking, endlessly replayable |
-| Sushi Go! | 2–5 | 15 min | Tin | Fast, cute, cheap |
-| Love Letter | 2–6 | 10 min | Pouch | 21 cards, a full game |
-| Skull | 3–6 | 30 min | Small | Bluffing with coasters |
-| No Thanks! | 3–7 | 15 min | Small | Simple push-your-luck, teaches in a minute |
-| Coup | 2–6 | 15 min | Small | Lying and accusations |
-| Hanabi | 2–5 | 25 min | Small | Cooperative, hold cards facing out |
-| Wavelength | 2–12 | 30 min | Medium | Worth the bigger box |
+| Codenames | 4 to 8+ | 15 min | Small | The best party game, period |
+| The Crew | 3 to 5 (2 with a variant) | 20 min | Card deck | Co-op trick-taking, endlessly replayable |
+| Sushi Go! | 2 to 5 | 15 min | Tin | Fast, cute, cheap |
+| Love Letter | 2 to 6 | 10 min | Pouch | 21 cards, a full game |
+| Skull | 3 to 6 | 30 min | Small | Bluffing with coasters |
+| No Thanks! | 3 to 7 | 15 min | Small | Simple push-your-luck, teaches in a minute |
+| Coup | 2 to 6 | 15 min | Small | Lying and accusations |
+| Hanabi | 2 to 5 | 25 min | Small | Cooperative, hold cards facing out |
+| Wavelength | 2 to 12 | 30 min | Medium | Worth the bigger box |
 
 Notes on the picks:
 

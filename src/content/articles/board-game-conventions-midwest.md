@@ -40,49 +40,49 @@ Details on each follow.
 
 ### Con of the North (Bloomington, Minnesota)
 
-A February weekend at the DoubleTree Minneapolis South, with hours that run from Friday noon to the small hours each night. The next show is listed as [February 12–14, 2027](https://www.conofthenorth.org/). A good excuse to see the Twin Cities in winter, if you need one.
+A February weekend at the DoubleTree Minneapolis South, with hours that run from Friday noon to the small hours each night. The next show is listed as [February 12 to 14, 2027](https://www.conofthenorth.org/). A good excuse to see the Twin Cities in winter, if you need one.
 
 ### CincyCon (Hamilton, Ohio)
 
-A community-run convention at the [Butler County Fairgrounds in Hamilton](https://www.cincycon.org/location), north of Cincinnati and roughly two hours from Indianapolis. The next dates are [February 26–28, 2027](https://www.cincycon.org/). Closer to Indianapolis than most entries on this list.
+A community-run convention at the [Butler County Fairgrounds in Hamilton](https://www.cincycon.org/location), north of Cincinnati and roughly two hours from Indianapolis. The next dates are [February 26 to 28, 2027](https://www.cincycon.org/). Closer to Indianapolis than most entries on this list.
 
 ### Midwest GameFest (Kansas City)
 
-Held each spring in Kansas City and set for [March 4–7, 2027](https://www.midwestgamefest.org/) at what the organizers describe as a new, larger location. A long drive from Indiana, but a solid pick if you have family in the area.
+Held each spring in Kansas City and set for [March 4 to 7, 2027](https://www.midwestgamefest.org/) at what the organizers describe as a new, larger location. A long drive from Indiana, but a solid pick if you have family in the area.
 
 ### Gary Con (Lake Geneva, Wisconsin)
 
-Named for Gary Gygax and held in the town where Dungeons & Dragons was born. Gary Con XIX runs [March 18–21, 2027](https://www.garycon.com/) at the Grand Geneva Resort, with additional event rooms at Harbor Shores. If you play RPGs, this is a pilgrimage; if you play board games only, it is still a very good weekend.
+Named for Gary Gygax and held in the town where Dungeons & Dragons was born. Gary Con XIX runs [March 18 to 21, 2027](https://www.garycon.com/) at the Grand Geneva Resort, with additional event rooms at Harbor Shores. If you play RPGs, this is a pilgrimage; if you play board games only, it is still a very good weekend.
 
 ### Buckeye Game Fest (central Ohio)
 
-A board-game-first convention running [March 25–28, 2027](https://www.buckeyegamefest.com/) at [The Ohioan Hotel & Event Center](https://www.buckeyegamefest.com/hotel/), formerly the Nationwide Conference Center, in Lewis Center, north of Columbus. Known for a large lending library and a relaxed open-gaming floor.
+A board-game-first convention running [March 25 to 28, 2027](https://www.buckeyegamefest.com/) at [The Ohioan Hotel & Event Center](https://www.buckeyegamefest.com/hotel/), formerly the Nationwide Conference Center, in Lewis Center, north of Columbus. Known for a large lending library and a relaxed open-gaming floor.
 
 ### Geekway to the West (St. Louis area)
 
-The board gamer's convention in the region. The main show is held at the Saint Charles Convention Center in St. Charles, Missouri, just outside St. Louis; the 2026 dates were [May 14–17](https://stcharlesconventioncenter.com/?p=2047), and the organizers also run a smaller winter event, Geekway Mini, on [January 22–24, 2027](https://www.geekway.com/). Geekway is known for its game library and its play-and-win program, where attendees who play donated copies are entered to take them home. Badges [sold out in 2025](https://tabletop.events/conventions/geekway-2025), and the show drew about 3,000 people the year before, so buy early.
+The board gamer's convention in the region. The main show is held at the Saint Charles Convention Center in St. Charles, Missouri, just outside St. Louis; the 2026 dates were [May 14 to 17](https://stcharlesconventioncenter.com/?p=2047), and the organizers also run a smaller winter event, Geekway Mini, on [January 22 to 24, 2027](https://www.geekway.com/). Geekway is known for its game library and its play-and-win program, where attendees who play donated copies are entered to take them home. Badges [sold out in 2025](https://tabletop.events/conventions/geekway-2025), and the show drew about 3,000 people the year before, so buy early.
 
 *If this is useful, the newsletter sends more like it.*
 
 ### Origins Game Fair (Columbus, Ohio)
 
-The second-largest tabletop convention in the Midwest and, for many people, a better experience than Gen Con. Origins runs [June 9–13, 2027](https://www.originsgamefair.com/) at the Greater Columbus Convention Center, less than three hours from Indianapolis. Big exhibit hall, big open gaming, and hotel rooms that can actually be booked.
+The second-largest tabletop convention in the Midwest and, for many people, a better experience than Gen Con. Origins runs [June 9 to 13, 2027](https://www.originsgamefair.com/) at the Greater Columbus Convention Center, less than three hours from Indianapolis. Big exhibit hall, big open gaming, and hotel rooms that can actually be booked.
 
 ### GrandCon (Grand Rapids, Michigan)
 
-A downtown convention at DeVos Place, scheduled for [September 3–5, 2027](https://www.grand-con.com/). Grand Rapids is a walkable city with good food, and the show has grown steadily while staying easy to navigate.
+A downtown convention at DeVos Place, scheduled for [September 3 to 5, 2027](https://www.grand-con.com/). Grand Rapids is a walkable city with good food, and the show has grown steadily while staying easy to navigate.
 
 ### Gamehole Con (Madison, Wisconsin)
 
-An October show at the Alliant Energy Center, next set for [October 15–18, 2026](https://www.gameholecon.com/). It began as an RPG convention and still leans that way, but the board game hall has grown into a destination of its own. Madison in October is worth the drive by itself.
+An October show at the Alliant Energy Center, next set for [October 15 to 18, 2026](https://www.gameholecon.com/). It began as an RPG convention and still leans that way, but the board game hall has grown into a destination of its own. Madison in October is worth the drive by itself.
 
 ### Chicago Toy & Game Fair (Rosemont, Illinois)
 
-A different kind of show: part public toy fair, part designer and publisher gathering, held in Rosemont near O'Hare. The 2026 fair runs [November 7–8](https://www.choosechicago.com/event/2026-chicago-toy-game-fair-tickets/2026-11-07/) at the Donald E. Stephens Convention Center. Good for families and for designers interested in the mass-market side of the hobby.
+A different kind of show: part public toy fair, part designer and publisher gathering, held in Rosemont near O'Hare. The 2026 fair runs [November 7 to 8](https://www.choosechicago.com/event/2026-chicago-toy-game-fair-tickets/2026-11-07/) at the Donald E. Stephens Convention Center. Good for families and for designers interested in the mass-market side of the hobby.
 
 ### U-Con (Ypsilanti, Michigan)
 
-A compact November convention at the Ann Arbor Marriott Ypsilanti at Eagle Crest, running [November 13–15, 2026](https://www.ucon-gaming.org/). Small, friendly, and close enough to Ann Arbor for a dinner out.
+A compact November convention at the Ann Arbor Marriott Ypsilanti at Eagle Crest, running [November 13 to 15, 2026](https://www.ucon-gaming.org/). Small, friendly, and close enough to Ann Arbor for a dinner out.
 
 ## How do you pick one?
 

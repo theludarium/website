@@ -6,7 +6,7 @@ category: Game Design
 tags: ["board game play time", "how long does a board game take", "board game setup time", "game night planning", "board game length", "play time on the box", "Tabletop game design"]
 draft: false
 ---
-The board game play time printed on the box is almost never the time the game will take at your table. "60–90 minutes" usually means ninety minutes for a group that already knows the rules, with no setup, no teach, no bathroom break, and no one asking whether they can trade sheep for ore. For a new group on a first play, double it and add the time it takes to punch cardboard.
+The board game play time printed on the box is almost never the time the game will take at your table. "60 to 90 minutes" usually means ninety minutes for a group that already knows the rules, with no setup, no teach, no bathroom break, and no one asking whether they can trade sheep for ore. For a new group on a first play, double it and add the time it takes to punch cardboard.
 
 This is not a scandal. It is a measurement problem, and once you understand how the number gets on the box, you can plan game nights that end on time and pick games that fit the evening you have. Here is what the number means, what it leaves out, and how to estimate the real thing.
 
@@ -43,14 +43,14 @@ Not all games lie by the same amount. The gap between the box and the table depe
 
 | Game | Box play time | Realistic first-play session (4 players) | Where the time goes |
 |---|---|---|---|
-| Codenames | 15 min | 20–30 min | Almost honest. Teach is two minutes. |
-| Azul | 30–45 min | 45–60 min | Short teach, fast setup, a little analysis paralysis late. |
-| Ticket to Ride | 30–60 min | 60–90 min | Teach is easy; the first game runs long because nobody blocks early. |
-| Catan | 60–120 min | 90–150 min | Board setup, trading, and the slow player who keeps the dice. |
-| Pandemic | 45 min | 75–100 min | Group discussion on every turn roughly doubles the clock. |
-| Wingspan | 40–70 min | 120–150 min | Card text, engine building, sorting at the end. |
-| Terraforming Mars | 120 min | 180–240 min | Long teach, 200-plus unique cards, significant downtime. |
-| Gloomhaven (one scenario) | 60–120 min | 150–200 min | Setup alone can take thirty minutes. |
+| Codenames | 15 min | 20 to 30 min | Almost honest. Teach is two minutes. |
+| Azul | 30 to 45 min | 45 to 60 min | Short teach, fast setup, a little analysis paralysis late. |
+| Ticket to Ride | 30 to 60 min | 60 to 90 min | Teach is easy; the first game runs long because nobody blocks early. |
+| Catan | 60 to 120 min | 90 to 150 min | Board setup, trading, and the slow player who keeps the dice. |
+| Pandemic | 45 min | 75 to 100 min | Group discussion on every turn roughly doubles the clock. |
+| Wingspan | 40 to 70 min | 120 to 150 min | Card text, engine building, sorting at the end. |
+| Terraforming Mars | 120 min | 180 to 240 min | Long teach, 200-plus unique cards, significant downtime. |
+| Gloomhaven (one scenario) | 60 to 120 min | 150 to 200 min | Setup alone can take thirty minutes. |
 
 These are estimates from experience, not measurements, and your group will vary. The pattern holds: the more unique text in the game, the further the box drifts from the table.
 

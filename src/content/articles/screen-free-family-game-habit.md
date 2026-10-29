@@ -55,11 +55,11 @@ Short, teachable in minutes, and good across a wide age range. A starter shelf o
 | Game | Ages | Play time | Best for |
 |---|---|---|---|
 | Sushi Go! | 8+ | 15 min | The bad weeks. Fast, cheerful, fits in a pocket. |
-| Dragomino / Kingdomino | 5+ / 8+ | 15–20 min | The youngest picker. Real decisions, no reading. |
+| Dragomino / Kingdomino | 5+ / 8+ | 15 to 20 min | The youngest picker. Real decisions, no reading. |
 | Outfoxed! | 5+ | 20 min | Families where competition causes tears. Cooperative. |
-| Ticket to Ride: First Journey | 6+ | 20–30 min | The "we're a game family" moment. |
-| Rhino Hero | 5+ | 10–15 min | Loud fun. Towers fall, everyone laughs. |
-| Codenames: Pictures | 10+ | 15–20 min | Bigger families, grandparents visiting, teams. |
+| Ticket to Ride: First Journey | 6+ | 20 to 30 min | The "we're a game family" moment. |
+| Rhino Hero | 5+ | 10 to 15 min | Loud fun. Towers fall, everyone laughs. |
+| Codenames: Pictures | 10+ | 15 to 20 min | Bigger families, grandparents visiting, teams. |
 | The Crew | 10+ | 20 min | Older kids. Cooperative, quiet, and the best game on this list. |
 
 Resist the urge to buy ten games at once. A shelf with five games that everyone knows gets used more than a shelf with thirty that nobody has learned.

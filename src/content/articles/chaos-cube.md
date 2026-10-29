@@ -49,12 +49,12 @@ A chaos cube still needs to be a Magic cube underneath, or the games do not reac
 | Slot | Count | What goes there |
 |---|---|---|
 | Normal playables (creatures, removal, fixing) | ~200 | A peasant-level backbone; cheap removal and two-drops so decks function |
-| Symmetric upheaval | 15–20 | Warp World, Possibility Storm, Scrambleverse, Thieves' Auction, Timesifter |
-| Randomizers | 30–40 | Coin flips, die rolls, cascade and discover, Chaos Warp, Mana Clash |
-| Hidden-information and minigame cards | 10–15 | Goblin Game, Illusionary Mask, Unhinged naming effects |
-| Draft-matters and conspiracies | 15–20 | Cogwork Librarian, Lore Seeker, conspiracies, Paliano cards |
-| Honest bombs | 10–15 | One-card wins, spread across colors, none below six mana |
-| Un-cards and physical effects | 20–30 | Your choice of eras; proxies for destructive ones |
+| Symmetric upheaval | 15 to 20 | Warp World, Possibility Storm, Scrambleverse, Thieves' Auction, Timesifter |
+| Randomizers | 30 to 40 | Coin flips, die rolls, cascade and discover, Chaos Warp, Mana Clash |
+| Hidden-information and minigame cards | 10 to 15 | Goblin Game, Illusionary Mask, Unhinged naming effects |
+| Draft-matters and conspiracies | 15 to 20 | Cogwork Librarian, Lore Seeker, conspiracies, Paliano cards |
+| Honest bombs | 10 to 15 | One-card wins, spread across colors, none below six mana |
+| Un-cards and physical effects | 20 to 30 | Your choice of eras; proxies for destructive ones |
 | Lands | 40 | Normal fixing plus a few strange lands (Maze of Ith, Thawing Glaciers, Mirrorpool) |
 
 The important number is the first one. Over half the cube should be ordinary good cards at a modest power level, because chaos needs a stable surface to happen on. If every card is a gag, no one can attack, and a chaos game that does not end is the worst kind.

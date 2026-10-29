@@ -42,9 +42,9 @@ You do not have to use D&D. Several games were built for children and do a bette
 
 | System | Best ages | Why it works |
 |---|---|---|
-| No Thank You, Evil! | 5–9 | Built for kids; simple dice, bright components, a creature called a "snarf" |
-| Hero Kids | 4–10 | Very simple, short adventures, one page of rules for players |
-| Amazing Tales | 4–8 | A single die per skill and a story built with the child; parent-and-kid format |
+| No Thank You, Evil! | 5 to 9 | Built for kids; simple dice, bright components, a creature called a "snarf" |
+| Hero Kids | 4 to 10 | Very simple, short adventures, one page of rules for players |
+| Amazing Tales | 4 to 8 | A single die per skill and a story built with the child; parent-and-kid format |
 | Kids on Bikes | 10+ | Small-town mystery; collaborative town-building that kids love |
 | Simplified D&D | 8+ | The real thing, trimmed; good when kids already know the brand |
 | Full D&D (starter set) | 11+ | Standard rules with a patient GM |

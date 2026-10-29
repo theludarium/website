@@ -118,7 +118,7 @@ if (root) {
     return b;
   };
 
-  const fmtMin = (m: number | null) => (m === null ? '–' : `${m} min`);
+  const fmtMin = (m: number | null) => (m === null ? 'n/a' : `${m} min`);
   const fmtDate = (iso: string) => new Date(iso).toLocaleDateString(undefined, { year: 'numeric', month: 'short', day: 'numeric' });
 
   // Requests. A 401 on a preview or local host asks for the preview token.
@@ -181,7 +181,7 @@ if (root) {
       stat(String(summary.members.located), `members located (of ${summary.members.total} total, ${summary.members.withAddress} with a street address)`),
       stat(String(venues.filter((v) => v.approved).length), `venues (${venues.filter((v) => !v.approved).length} waiting in the queue)`),
       stat(String(summary.driveTimes.total), `drive times cached (${summary.driveTimes.estimated} straight-line estimates)`),
-      stat(summary.center ? `${summary.center.lat.toFixed(3)}, ${summary.center.lng.toFixed(3)}` : '–', 'group center (average of member points)'),
+      stat(summary.center ? `${summary.center.lat.toFixed(3)}, ${summary.center.lng.toFixed(3)}` : 'n/a', 'group center (average of member points)'),
       actions,
     );
   }
@@ -223,7 +223,7 @@ if (root) {
         el('td', {}, el('span', { class: 'wwp-status', 'data-status': v.status, text: v.status }), v.approved ? null : el('span', { text: ' queue' })),
         el('td', { class: 'num', text: fmtMin(v.medianMinutes) }),
         el('td', { class: 'num', text: fmtMin(v.p75Minutes) }),
-        el('td', { class: 'num', text: v.routed ? `${v.underNear} (${v.underNearPct}%)` : '–' }),
+        el('td', { class: 'num', text: v.routed ? `${v.underNear} (${v.underNearPct}%)` : 'n/a' }),
         el('td', { class: 'num', text: v.estimated ? `${v.routed} (${v.estimated} est.)` : String(v.routed) }),
       );
       row.addEventListener('click', () => {

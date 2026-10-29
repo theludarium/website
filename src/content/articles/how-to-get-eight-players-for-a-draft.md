@@ -1,6 +1,6 @@
 ---
 title: "Cube Draft Attendance: How to Get Eight Players Weekly"
-description: "Cube draft attendance is the whole problem. How Cube Commonwealth went from five-player nights to 12–16 every week for three years, and what we would copy."
+description: "Cube draft attendance is the whole problem. How Cube Commonwealth went from five-player nights to 12 to 16 every week for three years, and what we would copy."
 pubDate: 2026-10-18
 category: Magic & Cube
 tags: ["cube draft attendance", "how to get eight players for a draft", "weekly cube night", "Magic draft group turnout", "cube group size", "game night attendance", "Cube Commonwealth"]

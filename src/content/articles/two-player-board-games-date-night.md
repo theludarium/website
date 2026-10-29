@@ -12,7 +12,7 @@ Every pick here is built for two, not a four-player game that happens to allow t
 
 ## What makes a board game good for two people?
 
-Plenty of games say "2–4 players" on the box and are dull at two. The games that work for a couple share a few traits:
+Plenty of games say "2 to 4 players" on the box and are dull at two. The games that work for a couple share a few traits:
 
 - Designed for two, or with a two-player mode the designer took seriously.
 - 20 to 60 minutes. Long enough to settle in, short enough to play twice.
@@ -26,18 +26,18 @@ One more thing. If one of you is far more competitive than the other, that will 
 
 | Game | Players | Time | Why it works |
 |---|---|---|---|
-| Patchwork | 2 | 20–30 min | A quilt puzzle with quiet tension |
+| Patchwork | 2 | 20 to 30 min | A quilt puzzle with quiet tension |
 | Jaipur | 2 | 30 min | Fast trading, close scores, instant rematch |
 | 7 Wonders Duel | 2 | 30 min | Deep strategy without a long teach |
 | Lost Cities | 2 | 30 min | Push-your-luck expeditions, pure card game |
-| Codenames: Duet | 2 | 15–30 min | Cooperative word clues for two |
+| Codenames: Duet | 2 | 15 to 30 min | Cooperative word clues for two |
 | The Fox in the Forest | 2 | 30 min | Trick-taking built for exactly two |
 | Hive | 2 | 20 min | Chess-like bugs, no board required |
 | Star Realms | 2 | 20 min | Fast deck-building duel |
-| Sky Team | 2 | 15–20 min | Land a plane together, barely talking |
+| Sky Team | 2 | 15 to 20 min | Land a plane together, barely talking |
 | Targi | 2 | 60 min | Worker placement for two, clever and tight |
-| Fog of Love | 2 | 60–120 min | A romantic comedy you play through |
-| Azul | 2–4 | 30 min | Excellent at two, calm and tactile |
+| Fog of Love | 2 | 60 to 120 min | A romantic comedy you play through |
+| Azul | 2 to 4 | 30 min | Excellent at two, calm and tactile |
 
 ### Patchwork
 

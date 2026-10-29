@@ -54,13 +54,13 @@ Players invite allies into conflicts and split the spoils. Who you invite, who y
 
 | Game | Players | Time | Core skill | Intensity |
 |---|---|---|---|---|
-| Catan | 3–4 | 75 min | Relationship over single deal | Medium |
-| Chinatown | 3–5 | 60 min | Pricing and anchoring | High |
-| Bohnanza | 3–7 | 45 min | Solving the other side's problem | Low |
-| Sheriff of Nottingham | 3–5 | 60 min | Credibility and reading people | Medium |
-| For Sale | 3–6 | 20 min | Bidding discipline | Low |
-| Diplomacy (short) | 5–7 | 2 hrs+ | Trust and commitment | Very high |
-| Cosmic Encounter | 3–5 | 90 min | Coalitions | Medium |
+| Catan | 3 to 4 | 75 min | Relationship over single deal | Medium |
+| Chinatown | 3 to 5 | 60 min | Pricing and anchoring | High |
+| Bohnanza | 3 to 7 | 45 min | Solving the other side's problem | Low |
+| Sheriff of Nottingham | 3 to 5 | 60 min | Credibility and reading people | Medium |
+| For Sale | 3 to 6 | 20 min | Bidding discipline | Low |
+| Diplomacy (short) | 5 to 7 | 2 hrs+ | Trust and commitment | Very high |
+| Cosmic Encounter | 3 to 5 | 90 min | Coalitions | Medium |
 
 For a sales kickoff, Bohnanza or For Sale as an opener and Chinatown as the main event is a reliable combination. Save Diplomacy for a leadership team that already trusts each other.
 

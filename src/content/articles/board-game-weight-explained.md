@@ -24,13 +24,13 @@ The numbers below are approximate bands, placed from BoardGameGeek community rat
 
 | Weight | Label people use | What it feels like | Examples |
 |---|---|---|---|
-| 1.0–1.5 | Light | Rules in two minutes; decisions are obvious or fun rather than hard | Codenames, Sushi Go!, Love Letter |
-| 1.5–2.0 | Light-medium | Rules in five to ten minutes; a few real choices per turn | Ticket to Ride, Azul, Kingdomino, Carcassonne |
-| 2.0–2.5 | Medium-light | Rules in ten to fifteen minutes; strategy matters; a new player can still enjoy the first game | Catan, Wingspan, Splendor, Pandemic |
-| 2.5–3.0 | Medium | Rules in twenty minutes; planning two or three turns ahead; the first game is a learning game | 7 Wonders Duel, Everdell, Scythe, Dune: Imperium |
-| 3.0–3.5 | Medium-heavy | Rules in thirty minutes or more; many systems interact; lots to track | Terraforming Mars, Agricola, Gloomhaven, Brass: Birmingham |
-| 3.5–4.0 | Heavy | Dedicated teach; serious players; first play is an investment | Gaia Project, Food Chain Magnate |
-| 4.0–5.0 | Very heavy | Long rulebooks, long sessions, often simulations or wargames | Twilight Imperium, Advanced Squad Leader, Campaign for North Africa |
+| 1.0 to 1.5 | Light | Rules in two minutes; decisions are obvious or fun rather than hard | Codenames, Sushi Go!, Love Letter |
+| 1.5 to 2.0 | Light-medium | Rules in five to ten minutes; a few real choices per turn | Ticket to Ride, Azul, Kingdomino, Carcassonne |
+| 2.0 to 2.5 | Medium-light | Rules in ten to fifteen minutes; strategy matters; a new player can still enjoy the first game | Catan, Wingspan, Splendor, Pandemic |
+| 2.5 to 3.0 | Medium | Rules in twenty minutes; planning two or three turns ahead; the first game is a learning game | 7 Wonders Duel, Everdell, Scythe, Dune: Imperium |
+| 3.0 to 3.5 | Medium-heavy | Rules in thirty minutes or more; many systems interact; lots to track | Terraforming Mars, Agricola, Gloomhaven, Brass: Birmingham |
+| 3.5 to 4.0 | Heavy | Dedicated teach; serious players; first play is an investment | Gaia Project, Food Chain Magnate |
+| 4.0 to 5.0 | Very heavy | Long rulebooks, long sessions, often simulations or wargames | Twilight Imperium, Advanced Squad Leader, Campaign for North Africa |
 
 A 2.5, the number in this article's title, is roughly the center of the hobby. It is a game you can teach to a willing adult in a quarter of an hour, where the first game will be a bit of a muddle and the second game will be good. Catan, Wingspan, and Pandemic all hover around this mark. <!-- AFFILIATE --> It is the weight most game nights for mixed groups should aim at.
 

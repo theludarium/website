@@ -26,18 +26,18 @@ A good adult card game needs three things:
 
 | Game | Players | Time | Why it works |
 |---|---|---|---|
-| Codenames | 4–8+ | 15 min | One-word clues from your friends, not a deck |
-| Skull | 3–6 | 15–30 min | Bluffing with coasters, best with a drink |
-| Coup | 2–6 | 15 min | Lie about your role and dare them to call it |
-| Monikers | 4–16 | 30–60 min | Celebrity with a curated deck and three rounds |
-| The Crew | 2–5 | 20 min | Cooperative trick-taking with silent teamwork |
-| Love Letter | 2–4 | 15 min | Sixteen cards of pure deduction |
-| Decrypto | 3–8 | 30 min | Coded messages your opponents try to crack |
-| Hanabi | 2–5 | 25 min | Hold your cards backward and trust the table |
-| Sushi Go Party! | 2–8 | 20 min | Drafting for a bigger group |
-| Cockroach Poker | 2–6 | 20 min | Pass a card face down and lie about it |
-| The Mind | 2–4 | 20 min | Play cards in order without speaking |
-| Wavelength (card-based variant) | 2–12 | 30 min | A spectrum, a clue, and a long argument |
+| Codenames | 4 to 8+ | 15 min | One-word clues from your friends, not a deck |
+| Skull | 3 to 6 | 15 to 30 min | Bluffing with coasters, best with a drink |
+| Coup | 2 to 6 | 15 min | Lie about your role and dare them to call it |
+| Monikers | 4 to 16 | 30 to 60 min | Celebrity with a curated deck and three rounds |
+| The Crew | 2 to 5 | 20 min | Cooperative trick-taking with silent teamwork |
+| Love Letter | 2 to 4 | 15 min | Sixteen cards of pure deduction |
+| Decrypto | 3 to 8 | 30 min | Coded messages your opponents try to crack |
+| Hanabi | 2 to 5 | 25 min | Hold your cards backward and trust the table |
+| Sushi Go Party! | 2 to 8 | 20 min | Drafting for a bigger group |
+| Cockroach Poker | 2 to 6 | 20 min | Pass a card face down and lie about it |
+| The Mind | 2 to 4 | 20 min | Play cards in order without speaking |
+| Wavelength (card-based variant) | 2 to 12 | 30 min | A spectrum, a clue, and a long argument |
 
 ### Codenames
 

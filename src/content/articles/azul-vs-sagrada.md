@@ -21,11 +21,11 @@ They are not the same game. Azul is a sharp, interactive puzzle where you can hu
 
 | | Azul | Sagrada |
 |---|---|---|
-| Players | 2–4 | 1–4 (5–6 with the [Panorama expansion](https://floodgate.games/products/sagrada-5-6-player-expansion)) |
-| Time | 30–45 minutes | 30–45 minutes |
+| Players | 2 to 4 | 1 to 4 (5 to 6 with the [Panorama expansion](https://floodgate.games/products/sagrada-5-6-player-expansion)) |
+| Time | 30 to 45 minutes | 30 to 45 minutes |
 | Ages (box) | 8+ | 10+ |
 | Weight (complexity) | Light-medium | Light-medium |
-| Teach time | 5–7 minutes | 7–10 minutes |
+| Teach time | 5 to 7 minutes | 7 to 10 minutes |
 | Drafting | Tiles from shared factories | Dice from a shared pool |
 | Player interaction | High: you can dump bad tiles on others | Low: you can only take the die someone wanted |
 | Luck | Tile draw from bag | Dice rolls each round |

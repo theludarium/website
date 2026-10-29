@@ -39,13 +39,13 @@ Here is a short list that reliably works across ages 13 to 18, grouped by what k
 | Game | Players | Time | Best for |
 |---|---|---|---|
 | Codenames | 4+ | 15 min | Teams, quick laughs, mixed friends and family |
-| The Crew | 3–5 | 20 min | Quiet cooperation, no arguing |
+| The Crew | 3 to 5 | 20 min | Quiet cooperation, no arguing |
 | Wavelength | 2+ | 30 min | Learning how your teen actually thinks |
-| Skull | 3–6 | 15 min | Bluffing, nerve, almost no rules |
-| Catan | 3–4 | 60 min | Negotiation, a little conflict |
-| Azul | 2–4 | 30 min | Calm, pretty, surprisingly cutthroat |
-| Pandemic | 2–4 | 45 min | Shared stakes, a real challenge |
-| Coup | 3–6 | 15 min | Lying to each other and loving it |
+| Skull | 3 to 6 | 15 min | Bluffing, nerve, almost no rules |
+| Catan | 3 to 4 | 60 min | Negotiation, a little conflict |
+| Azul | 2 to 4 | 30 min | Calm, pretty, surprisingly cutthroat |
+| Pandemic | 2 to 4 | 45 min | Shared stakes, a real challenge |
+| Coup | 3 to 6 | 15 min | Lying to each other and loving it |
 
 Wavelength deserves a special mention. The game asks a player to give a clue that places a concept between two extremes, like "hot to cold" or "overrated to underrated." You learn more about how your teenager sees the world in one round than in a month of dinners.
 

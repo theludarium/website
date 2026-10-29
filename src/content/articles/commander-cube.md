@@ -28,11 +28,11 @@ More than feels right. With 20-card packs and two legends per pack, a 540-card c
 
 | Section | Count | Notes |
 |---|---|---|
-| Legendary creatures | 80–100 | Spread across colors and pairs; include 10–15 mono-color partners |
-| Nonlegendary colored (×5) | 60–70 per color | Multiplayer-rated: ETB value, lifegain, blockers with upside |
-| Gold | 40–50 | Mostly legends live here; keep nonlegendary gold small |
-| Colorless | 40–50 | Mana rocks are the ramp of this format; 25+ rocks |
-| Lands | 40–50 | Command Tower in the kit lets this be fixing-light |
+| Legendary creatures | 80 to 100 | Spread across colors and pairs; include 10 to 15 mono-color partners |
+| Nonlegendary colored (×5) | 60 to 70 per color | Multiplayer-rated: ETB value, lifegain, blockers with upside |
+| Gold | 40 to 50 | Mostly legends live here; keep nonlegendary gold small |
+| Colorless | 40 to 50 | Mana rocks are the ramp of this format; 25+ rocks |
+| Lands | 40 to 50 | Command Tower in the kit lets this be fixing-light |
 
 Partner matters more than it looks. The Commander Cube 2024 lets any two mono-colored commanders, or a mono-colored and a colorless one, pair as partners even without the keyword; two-color commanders lose partner even if their card has it. That rule quietly solves the "I drafted red and white and my only legend is blue" problem: the drafter takes two mono-colored legends and builds Boros.
 

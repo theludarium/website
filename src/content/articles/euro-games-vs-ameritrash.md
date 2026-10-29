@@ -49,7 +49,7 @@ Some players prefer "thematic game" or "American-style game" as neutral alternat
 | Where luck sits | Before your decision | After your decision |
 | How you compete | Indirectly, for shared things | Directly, against people |
 | Elimination | Almost never | Common |
-| Typical length | 60–120 minutes | 2–4+ hours |
+| Typical length | 60 to 120 minutes | 2 to 4+ hours |
 | What drives the design | The system | The story |
 | Components | Wood, cardboard, cubes | Plastic, miniatures, lots of cards |
 | Classic example | Agricola | Twilight Imperium |

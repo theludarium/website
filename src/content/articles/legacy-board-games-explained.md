@@ -39,16 +39,16 @@ A short, opinionated list. Every game here is real and widely available; descrip
 
 | Game | Type | Sessions (approx.) | Players | Notes |
 |---|---|---|---|---|
-| Pandemic Legacy: Season 1 | Co-op | 12–24 | 2–4 | The standard. Start here. |
-| Pandemic Legacy: Season 2 | Co-op | 12–24 | 2–4 | Harder, darker, more open-ended. |
-| Pandemic Legacy: Season 0 | Co-op | 12–24 | 2–4 | Cold War spy theme; prequel. |
-| Risk Legacy | Competitive | 15 | 3–5 | The original; rough but historic. |
-| Gloomhaven | Co-op campaign | 50+ | 1–4 | Stickers and sealed boxes, but scenarios are replayable. |
-| Betrayal Legacy | Semi-co-op | 13 | 3–5 | Haunted-house horror across generations. |
-| Charterstone | Competitive | 12 | 1–6 | Village-building; leaves a playable board at the end. |
-| My City | Competitive | 24 | 2–4 | Short, light, family-friendly. |
-| Clank! Legacy | Competitive | 10+ | 2–4 | Deck-building with humor and a story. |
-| Machi Koro Legacy | Competitive | 10 | 2–4 | Light, quick, good for families. |
+| Pandemic Legacy: Season 1 | Co-op | 12 to 24 | 2 to 4 | The standard. Start here. |
+| Pandemic Legacy: Season 2 | Co-op | 12 to 24 | 2 to 4 | Harder, darker, more open-ended. |
+| Pandemic Legacy: Season 0 | Co-op | 12 to 24 | 2 to 4 | Cold War spy theme; prequel. |
+| Risk Legacy | Competitive | 15 | 3 to 5 | The original; rough but historic. |
+| Gloomhaven | Co-op campaign | 50+ | 1 to 4 | Stickers and sealed boxes, but scenarios are replayable. |
+| Betrayal Legacy | Semi-co-op | 13 | 3 to 5 | Haunted-house horror across generations. |
+| Charterstone | Competitive | 12 | 1 to 6 | Village-building; leaves a playable board at the end. |
+| My City | Competitive | 24 | 2 to 4 | Short, light, family-friendly. |
+| Clank! Legacy | Competitive | 10+ | 2 to 4 | Deck-building with humor and a story. |
+| Machi Koro Legacy | Competitive | 10 | 2 to 4 | Light, quick, good for families. |
 
 Session counts are approximate and depend on how often you win; Pandemic Legacy's [twelve-month campaign](https://en.wikipedia.org/wiki/Pandemic_Legacy) runs twelve to twenty-four games, and Risk Legacy's [changes stop after fifteen](https://www.shutupandsitdown.com/retrospective-risk-legacy).
 

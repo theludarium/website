@@ -88,21 +88,21 @@ The campaign co-op, with dozens of scenarios, character retirement, and a box yo
 
 | Game | Players | Approx. time | Weight | Best for |
 |---|---|---|---|---|
-| Just One | 3–7 | 20 min | Very light | Parties, mixed ages |
-| The Mind | 2–4 | 20 min | Very light | A quiet, strange laugh |
-| Forbidden Island | 2–4 | 30 min | Light | Families, first co-op |
-| Hanabi | 2–5 | 25 min | Light | Thinkers, small groups |
-| The Crew | 3–5 | 20 min/mission | Light-medium | Teaching teamwork |
+| Just One | 3 to 7 | 20 min | Very light | Parties, mixed ages |
+| The Mind | 2 to 4 | 20 min | Very light | A quiet, strange laugh |
+| Forbidden Island | 2 to 4 | 30 min | Light | Families, first co-op |
+| Hanabi | 2 to 5 | 25 min | Light | Thinkers, small groups |
+| The Crew | 3 to 5 | 20 min/mission | Light-medium | Teaching teamwork |
 | Codenames: Duet | 2 | 15 min | Light | Couples |
-| Pandemic | 2–4 | 45 min | Medium | The standard game night |
-| Horrified | 1–5 | 60 min | Light-medium | Family, theme lovers |
-| Flash Point | 2–6 | 45 min | Medium | Bigger groups |
-| Mysterium | 2–7 | 45 min | Medium | Artsy, social tables |
+| Pandemic | 2 to 4 | 45 min | Medium | The standard game night |
+| Horrified | 1 to 5 | 60 min | Light-medium | Family, theme lovers |
+| Flash Point | 2 to 6 | 45 min | Medium | Bigger groups |
+| Mysterium | 2 to 7 | 45 min | Medium | Artsy, social tables |
 | Sky Team | 2 | 20 min | Light-medium | Couples, tense fun |
-| Burgle Bros | 1–4 | 60 min | Medium | Planners |
-| Robinson Crusoe | 1–4 | 2+ hrs | Heavy | Story and suffering |
-| Spirit Island | 1–4 | 90+ min | Heavy | Strategy veterans |
-| Gloomhaven | 1–4 | Campaign | Very heavy | Committed groups |
+| Burgle Bros | 1 to 4 | 60 min | Medium | Planners |
+| Robinson Crusoe | 1 to 4 | 2+ hrs | Heavy | Story and suffering |
+| Spirit Island | 1 to 4 | 90+ min | Heavy | Strategy veterans |
+| Gloomhaven | 1 to 4 | Campaign | Very heavy | Committed groups |
 
 Times and player counts are approximate and vary by edition. Check the box.
 

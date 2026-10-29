@@ -82,7 +82,7 @@ A workable house guideline: each 20-card pack carries at most one rare that woul
 | Pack size | 20 cards | Two make a 40-card deck |
 | Spells per pack | 12 | 8 creatures, 2 removal, 2 flex |
 | Lands per pack | 8 | 7 basics + 1 dual |
-| Rares per pack | 0–1 | Keeps pairings fair |
+| Rares per pack | 0 to 1 | Keeps pairings fair |
 | Selection | Pick 1 of 3, twice | Choice without a draft |
 
 ## What are the common mistakes?

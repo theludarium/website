@@ -56,9 +56,9 @@ A whole-congregation game night is a different kind of event. The room is big, t
 
 | Group size | Best format | Games to own |
 |---|---|---|
-| 6–10 | One table, one game at a time | Codenames, Wavelength, Just One |
-| 15–25 | Two or three parallel tables | Telestrations, Werewolf, Sushi Go Party! |
-| 30–40+ | Station rotation or one room-wide game | Add Azul, Ticket to Ride, Qwirkle |
+| 6 to 10 | One table, one game at a time | Codenames, Wavelength, Just One |
+| 15 to 25 | Two or three parallel tables | Telestrations, Werewolf, Sushi Go Party! |
+| 30 to 40+ | Station rotation or one room-wide game | Add Azul, Ticket to Ride, Qwirkle |
 
 For a detailed plan on the large-room format, see [how to run a game night for 40 people](/articles/large-group-game-night/).
 

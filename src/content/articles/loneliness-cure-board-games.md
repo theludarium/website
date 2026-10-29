@@ -50,11 +50,11 @@ Not all games are equal here. A game that rewards the most studious player can m
 
 | Game | Players | Time | Why it works |
 |---|---|---|---|
-| Codenames | 4–8+ | 15 min | Teams, laughter, no reading rules |
-| Wavelength | 2–12 | 30 min | You learn how your friends think |
-| Just One | 3–7 | 20 min | Cooperative, zero elimination |
-| Ticket to Ride | 2–5 | 60 min | Easy to teach, enough to talk over |
-| The Crew | 3–5 | 20 min | Quiet teamwork, builds trust fast |
+| Codenames | 4 to 8+ | 15 min | Teams, laughter, no reading rules |
+| Wavelength | 2 to 12 | 30 min | You learn how your friends think |
+| Just One | 3 to 7 | 20 min | Cooperative, zero elimination |
+| Ticket to Ride | 2 to 5 | 60 min | Easy to teach, enough to talk over |
+| The Crew | 3 to 5 | 20 min | Quiet teamwork, builds trust fast |
 
 Avoid games that eliminate players early or run past two hours until the group knows each other. Nobody bonds while sitting out.
 

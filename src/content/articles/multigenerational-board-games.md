@@ -49,16 +49,16 @@ Here are the games that pass the test, grouped by what they are good at.
 
 | Game | Ages | Players | Time | Why it works across generations |
 |---|---|---|---|---|
-| Ticket to Ride | 8+ | 2–5 | 45–60 min | Collect colors, claim routes. Grandparents love the map. |
-| Azul | 8+ | 2–4 | 30 min | Beautiful tiles, simple drafting, real strategy underneath. |
+| Ticket to Ride | 8+ | 2 to 5 | 45 to 60 min | Collect colors, claim routes. Grandparents love the map. |
+| Azul | 8+ | 2 to 4 | 30 min | Beautiful tiles, simple drafting, real strategy underneath. |
 | Codenames | 10+ | 4+ | 15 min | Teams mix ages. Everyone contributes a guess. |
-| Sushi Go | 8+ | 2–5 | 15 min | Pass cards, collect sets. Teaches in two minutes. |
-| Kingdomino | 8+ | 2–4 | 15 min | Dominoes meets map-building. Almost no text. |
-| Just One | 8+ | 3–7 | 20 min | Cooperative word game. Nobody loses alone. |
-| Qwirkle | 6+ | 2–4 | 45 min | Shapes and colors. Accessible to the youngest and oldest. |
-| Carcassonne | 7+ | 2–5 | 35 min | Tile laying. Kids love placing meeples; adults love the scoring. |
-| Catan | 10+ | 3–4 | 60–90 min | Trading creates talk. Best when the youngest is 10 or older. |
-| Wingspan | 10+ | 1–5 | 60 min | Gorgeous bird cards. Grandparents who like birds are hooked. |
+| Sushi Go | 8+ | 2 to 5 | 15 min | Pass cards, collect sets. Teaches in two minutes. |
+| Kingdomino | 8+ | 2 to 4 | 15 min | Dominoes meets map-building. Almost no text. |
+| Just One | 8+ | 3 to 7 | 20 min | Cooperative word game. Nobody loses alone. |
+| Qwirkle | 6+ | 2 to 4 | 45 min | Shapes and colors. Accessible to the youngest and oldest. |
+| Carcassonne | 7+ | 2 to 5 | 35 min | Tile laying. Kids love placing meeples; adults love the scoring. |
+| Catan | 10+ | 3 to 4 | 60 to 90 min | Trading creates talk. Best when the youngest is 10 or older. |
+| Wingspan | 10+ | 1 to 5 | 60 min | Gorgeous bird cards. Grandparents who like birds are hooked. |
 
 A few notes on using this list.
 

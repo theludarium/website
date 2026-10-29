@@ -36,18 +36,18 @@ Ages and player counts are the publishers' (game names link to the publisher's p
 
 | Game | Ages | Players | Play time | Why it works |
 |---|---|---|---|---|
-| [Ticket to Ride](https://en.wikipedia.org/wiki/Ticket_to_Ride_(board_game)) (or First Journey) | 8+ (6+ for First Journey) | 2–5 | 45–60 min | Collect colored cards, claim train routes across a map. Simple turns, real tension. |
-| [Sushi Go!](https://gamewright.com/product/Sushi-Go) | 8+ | 2–5 | 15 min | Pass hands of cards, keep one each time. Set collection in a tiny box. |
-| [Kingdomino](https://en.wikipedia.org/wiki/Kingdomino) | 8+ | 2–4 | 15–20 min | Draft domino tiles and build a 5x5 kingdom. The 2017 Spiel des Jahres winner, and it plays in the time it takes to boil pasta. |
-| [Azul](https://en.wikipedia.org/wiki/Azul_(board_game)) | 8+ | 2–4 | 30–45 min | Draft tiles, fill rows, score patterns. Beautiful, tactile, and sneakily deep. |
-| [Carcassonne](https://www.zmangames.com/game/carcassonne/) | 7+ | 2–5 | 30–45 min | Draw a tile, place it, maybe put a meeple on it. The map grows every game. |
-| Catan Junior / [Catan](https://www.catan.com/catan) | 6+ / 10+ | 2–4 / 3–4 | 30 / 60–90 min | Trading and building. Junior strips the math; full Catan is the next step. |
-| [Outfoxed!](https://gamewright.com/product/Outfoxed) | 5+ | 2–4 | 20 min | A cooperative whodunit. Everyone hunts the thief together. |
-| [Dragomino](https://www.blueorangegames.com/games/dragomino) | 5+ | 2–4 | 15 min | Kingdomino's younger sibling. Match terrain, hatch dragon eggs. |
-| [Codenames: Pictures](https://czechgames.com/en/codenames-pictures/) | 10+ | 4–8+ | 15–20 min | Team word-and-picture association. Works with big families. |
-| [Dixit](https://www.libellud.com/game/dixit/) | 8+ | 3–8 | 30 min | Give a clue for a dreamlike picture card. Rewards imagination over strategy. |
-| [Forbidden Island](https://gamewright.com/product/Forbidden-Island) | 10+ | 2–4 | 30 min | Cooperative treasure hunt on a sinking island. Pandemic's gentler cousin. |
-| [Sleeping Queens](https://gamewright.com/product/Sleeping-Queens) | 8+ | 2–5 | 20 min | A card game designed by a six-year-old. Wake queens, play knights, do a little addition. |
+| [Ticket to Ride](https://en.wikipedia.org/wiki/Ticket_to_Ride_(board_game)) (or First Journey) | 8+ (6+ for First Journey) | 2 to 5 | 45 to 60 min | Collect colored cards, claim train routes across a map. Simple turns, real tension. |
+| [Sushi Go!](https://gamewright.com/product/Sushi-Go) | 8+ | 2 to 5 | 15 min | Pass hands of cards, keep one each time. Set collection in a tiny box. |
+| [Kingdomino](https://en.wikipedia.org/wiki/Kingdomino) | 8+ | 2 to 4 | 15 to 20 min | Draft domino tiles and build a 5x5 kingdom. The 2017 Spiel des Jahres winner, and it plays in the time it takes to boil pasta. |
+| [Azul](https://en.wikipedia.org/wiki/Azul_(board_game)) | 8+ | 2 to 4 | 30 to 45 min | Draft tiles, fill rows, score patterns. Beautiful, tactile, and sneakily deep. |
+| [Carcassonne](https://www.zmangames.com/game/carcassonne/) | 7+ | 2 to 5 | 30 to 45 min | Draw a tile, place it, maybe put a meeple on it. The map grows every game. |
+| Catan Junior / [Catan](https://www.catan.com/catan) | 6+ / 10+ | 2 to 4 / 3 to 4 | 30 / 60 to 90 min | Trading and building. Junior strips the math; full Catan is the next step. |
+| [Outfoxed!](https://gamewright.com/product/Outfoxed) | 5+ | 2 to 4 | 20 min | A cooperative whodunit. Everyone hunts the thief together. |
+| [Dragomino](https://www.blueorangegames.com/games/dragomino) | 5+ | 2 to 4 | 15 min | Kingdomino's younger sibling. Match terrain, hatch dragon eggs. |
+| [Codenames: Pictures](https://czechgames.com/en/codenames-pictures/) | 10+ | 4 to 8+ | 15 to 20 min | Team word-and-picture association. Works with big families. |
+| [Dixit](https://www.libellud.com/game/dixit/) | 8+ | 3 to 8 | 30 min | Give a clue for a dreamlike picture card. Rewards imagination over strategy. |
+| [Forbidden Island](https://gamewright.com/product/Forbidden-Island) | 10+ | 2 to 4 | 30 min | Cooperative treasure hunt on a sinking island. Pandemic's gentler cousin. |
+| [Sleeping Queens](https://gamewright.com/product/Sleeping-Queens) | 8+ | 2 to 5 | 20 min | A card game designed by a six-year-old. Wake queens, play knights, do a little addition. |
 
 *If this is useful, the newsletter sends more like it.*
 

@@ -22,10 +22,10 @@ The decision happens at the door, not in advance, because the final count is nev
 
 | Players | What we did |
 |---|---|
-| 6–9 | One pod. Nine drafts as one table with a bye in each round, or as nine with a round-robin build. |
-| 10–11 | Two uneven pods (5 and 5, or 6 and 5). Thin signals, but two tables beats one slow one. |
-| 12–14 | Two pods of 6–7. The most common night for us. |
-| 15–16 | Two pods of 8, or 8 and 7. The best night, and the hardest to run. |
+| 6 to 9 | One pod. Nine drafts as one table with a bye in each round, or as nine with a round-robin build. |
+| 10 to 11 | Two uneven pods (5 and 5, or 6 and 5). Thin signals, but two tables beats one slow one. |
+| 12 to 14 | Two pods of 6 to 7. The most common night for us. |
+| 15 to 16 | Two pods of 8, or 8 and 7. The best night, and the hardest to run. |
 | 17+ | Three pods, and you need a second host. See the last section. |
 
 Set a cutoff time for the split, announce it in the weekly post, and hold it. Ours was ten minutes after start. <!-- EDITOR: add detail --> A latecomer joins the smaller pod if it has not opened packs, and otherwise waits for a second-round bye or plays a side game. Holding the cutoff felt harsh the first few times. It was the single most popular rule we had, because it protected the people who came on time.

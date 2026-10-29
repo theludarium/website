@@ -55,9 +55,9 @@ If that describes your group, Gloomhaven may become the best thing you play toge
 
 | | Gloomhaven | Jaws of the Lion | Frosthaven |
 |---|---|---|---|
-| Players | 1–4 | 1–4 | 1–4 |
+| Players | 1 to 4 | 1 to 4 | 1 to 4 |
 | Scenarios (approx.) | 95 to 101 | 25 | ~138 |
-| Campaign length | 100+ hrs | 30–50 hrs | Longer than Gloomhaven |
+| Campaign length | 100+ hrs | 30 to 50 hrs | Longer than Gloomhaven |
 | Teach | Steep | Tutorial-driven; first scenarios teach the rules | Steep, assumes experience |
 | Setup | Modular tiles, long | Scenario book is the map; fast | Modular, plus town building |
 | Price tier | High | Low-mid | Highest |

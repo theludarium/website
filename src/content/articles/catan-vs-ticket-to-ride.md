@@ -21,11 +21,11 @@ The short version: Ticket to Ride is easier to teach, plays more people, and alm
 
 | | Catan | Ticket to Ride |
 |---|---|---|
-| Players | 3–4 ([5–6 with extension](https://en.wikipedia.org/wiki/Catan)) | 2–5 |
-| Time | 60–90 minutes | 30–60 minutes |
+| Players | 3 to 4 ([5 to 6 with extension](https://en.wikipedia.org/wiki/Catan)) | 2 to 5 |
+| Time | 60 to 90 minutes | 30 to 60 minutes |
 | Ages (box) | 10+ | 8+ |
 | Weight (complexity) | Light-medium | Light |
-| Teach time | 10–15 minutes, with questions | 3–5 minutes |
+| Teach time | 10 to 15 minutes, with questions | 3 to 5 minutes |
 | Player interaction | High: trading, blocking, the robber | Medium: route blocking only |
 | Luck | Dice each turn, dev card draws | Card draws, ticket draws |
 | Downtime | Low; you collect on everyone's roll | Low; turns take seconds |

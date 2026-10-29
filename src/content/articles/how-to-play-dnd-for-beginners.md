@@ -65,7 +65,7 @@ Many people arrive at D&D through board games, and the shift is worth naming. Th
 |---|---|---|
 | Goal | Win, usually against each other | Tell a story together; there is no "winner" |
 | Legal moves | Listed in the rules | Anything you can describe |
-| Length | 30–120 minutes | 3–4 hours per session, often ongoing |
+| Length | 30 to 120 minutes | 3 to 4 hours per session, often ongoing |
 | Referee | The rulebook | A person (the DM) who adjudicates on the fly |
 | What ends it | Victory condition | Reaching a stopping point in the story |
 

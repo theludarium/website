@@ -52,13 +52,13 @@ And games produce the shared memory. The moment someone drew a catastrophically 
 
 The constraint is time. Nobody should spend twenty minutes learning rules when they have six hours to build a year's worth of connection. A short list:
 
-**For the early-afternoon reset (15–30 min each):**
+**For the early-afternoon reset (15 to 30 min each):**
 
 - Just One. Cooperative, fast, impossible to embarrass yourself.
 - Wavelength. Produces opinions and laughter immediately.
 - Codenames. Mixed teams, quick rounds, reveals thinking styles.
 
-**For the main activity (60–120 min):**
+**For the main activity (60 to 120 min):**
 
 - A hosted game session with three or four games rotating across mixed tables. This works for any headcount and lets people find their own pace.
 - Blood on the Clocktower for groups of ten to twenty, with a skilled storyteller. It is the single most memorable large-group game we know.

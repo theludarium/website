@@ -21,11 +21,11 @@ But they produce different rooms. Codenames is a party game that happens to be c
 
 | | Codenames | Decrypto |
 |---|---|---|
-| Players | 4–8+ (2–3 with variant rules) | 3–8 |
-| Time | 15 minutes | 15–45 minutes |
+| Players | 4 to 8+ (2 to 3 with variant rules) | 3 to 8 |
+| Time | 15 minutes | 15 to 45 minutes |
 | Ages (box) | 10+ | 12+ |
 | Weight (complexity) | Light | Light-medium |
-| Teach time | 3 minutes | 7–10 minutes, plus one practice round |
+| Teach time | 3 minutes | 7 to 10 minutes, plus one practice round |
 | Who gives clues | One spymaster per team, all game | Rotates every round |
 | Core skill | Finding one word that links several | Being clear to friends and vague to strangers at once |
 | Downtime | Teams watch each other; low | Everyone works every round; very low |

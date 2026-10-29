@@ -39,14 +39,14 @@ Not all games do this equally. Competitive games with direct conflict can reduce
 
 | Game | Players | What it practices |
 |---|---|---|
-| Just One | 3–7 | Contributing in public with no way to be singled out |
-| Hanabi | 2–5 | Giving and receiving incomplete information gracefully |
-| The Crew | 2–5 | Trusting teammates to act on minimal signals |
-| Wavelength | 4–12 | Voicing opinions that others may disagree with |
-| So Clover! | 3–6 | Explaining your reasoning after the fact |
-| Telestrations | 4–8 | Being bad at something in front of everyone |
-| Magic Maze | 1–8 | Coordinating without being able to correct each other |
-| Pandemic | 2–4 | Disagreeing about a plan under pressure |
+| Just One | 3 to 7 | Contributing in public with no way to be singled out |
+| Hanabi | 2 to 5 | Giving and receiving incomplete information gracefully |
+| The Crew | 2 to 5 | Trusting teammates to act on minimal signals |
+| Wavelength | 4 to 12 | Voicing opinions that others may disagree with |
+| So Clover! | 3 to 6 | Explaining your reasoning after the fact |
+| Telestrations | 4 to 8 | Being bad at something in front of everyone |
+| Magic Maze | 1 to 8 | Coordinating without being able to correct each other |
+| Pandemic | 2 to 4 | Disagreeing about a plan under pressure |
 
 Hanabi deserves a special note. You hold your cards facing outward; you see everyone's hand except your own. Teammates give you limited hints. You must act on partial information and trust that the hints were well-intended. It is the most direct simulation of "trusting your team with incomplete information" that exists in a box, and it is humbling for everyone.
 

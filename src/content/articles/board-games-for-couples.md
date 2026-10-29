@@ -16,7 +16,7 @@ Before buying anything, agree on which of these four you want most often. Most c
 
 | Evening type | What it feels like | Good fits |
 |---|---|---|
-| Quiet | Low talk, low stakes, 20–30 minutes | Patchwork, Jaipur, Lost Cities |
+| Quiet | Low talk, low stakes, 20 to 30 minutes | Patchwork, Jaipur, Lost Cities |
 | Competitive | Real head-to-head, bragging rights | 7 Wonders Duel, Star Realms, Hive |
 | Cooperative | Same side, shared win or loss | The Crew, Codenames: Duet, Sky Team |
 | Hosting | Works at two, better at four | Azul, Wingspan, Cascadia |

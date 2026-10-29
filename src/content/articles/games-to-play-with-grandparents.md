@@ -40,16 +40,16 @@ Each of these has been tested at tables with a sixty-year age spread. Ages and p
 
 | Game | Ages | Players | Play time | What it looks like to a grandparent |
 |---|---|---|---|---|
-| Rummikub | 8+ | 2–4 | 45 min | Gin rummy with big tiles. The most reliable pick on the list. |
-| Qwirkle | 6+ | 2–4 | 30–45 min | Dominoes with colors and shapes. No reading at all. |
-| [Codenames](https://czechgames.com/en/codenames/) (or Pictures) | 10+ | 4–8+ | 15–20 min | A word association puzzle. Grandparents are often the best clue-givers. |
-| Ticket to Ride | 8+ | 2–5 | 60 min | A train map. Set collection they can picture. |
-| Azul | 8+ | 2–4 | 30–40 min | Tile laying. Heavy, pretty pieces that feel good in the hand. |
-| Sequence | 7+ | 2–12 | 30 min | Cards plus a board. Five in a row. Practically a classic already. |
-| [Dixit](https://www.libellud.com/game/dixit/) | 8+ | 3–8 | 30 min | Storytelling with pictures. Rewards a lifetime of references. |
-| Wingspan | 10+ | 1–5 | 60–90 min | Birds. Any grandparent with a feeder outside will stop pretending not to care. |
-| Skull King | 8+ | 2–6 | 30 min | Trick-taking like euchre or spades, with pirates. Bidding feels familiar. |
-| [Telestrations](https://theop.games/collections/telestrations) | 12+ (younger kids manage fine) | 4–8 | 30 min | Telephone with drawings. Nobody is good at it, which is the point. |
+| Rummikub | 8+ | 2 to 4 | 45 min | Gin rummy with big tiles. The most reliable pick on the list. |
+| Qwirkle | 6+ | 2 to 4 | 30 to 45 min | Dominoes with colors and shapes. No reading at all. |
+| [Codenames](https://czechgames.com/en/codenames/) (or Pictures) | 10+ | 4 to 8+ | 15 to 20 min | A word association puzzle. Grandparents are often the best clue-givers. |
+| Ticket to Ride | 8+ | 2 to 5 | 60 min | A train map. Set collection they can picture. |
+| Azul | 8+ | 2 to 4 | 30 to 40 min | Tile laying. Heavy, pretty pieces that feel good in the hand. |
+| Sequence | 7+ | 2 to 12 | 30 min | Cards plus a board. Five in a row. Practically a classic already. |
+| [Dixit](https://www.libellud.com/game/dixit/) | 8+ | 3 to 8 | 30 min | Storytelling with pictures. Rewards a lifetime of references. |
+| Wingspan | 10+ | 1 to 5 | 60 to 90 min | Birds. Any grandparent with a feeder outside will stop pretending not to care. |
+| Skull King | 8+ | 2 to 6 | 30 min | Trick-taking like euchre or spades, with pirates. Bidding feels familiar. |
+| [Telestrations](https://theop.games/collections/telestrations) | 12+ (younger kids manage fine) | 4 to 8 | 30 min | Telephone with drawings. Nobody is good at it, which is the point. |
 
 Rummikub deserves its spot at the top. It was designed decades ago, it is in a lot of retirement community game rooms already, and it has a quality the others lack: a grandparent might know it better than you do. Being the expert at the table for once changes everything.
 

@@ -36,14 +36,14 @@ The constraints are strict: teach in under five minutes, play in under forty, su
 
 | Game | Players | Time | Why it works at lunch |
 |---|---|---|---|
-| Codenames | 4–8+ | 15 min | Two or three rounds in an hour; absorbs latecomers |
-| Just One | 3–7 | 20 min | Cooperative, zero pressure, fits a shy crowd |
-| Sushi Go! | 2–5 | 15 min | Teaches in one sentence, plays while eating |
-| Azul | 2–4 | 35 min | A real game that still ends on time |
-| The Crew | 2–5 | 20 min | Short missions; stop after any one |
-| Wavelength | 4–12 | 30 min | Scales up when the room gets crowded |
-| Cascadia | 1–4 | 40 min | Quiet and thoughtful for a calmer day |
-| Skull | 3–6 | 15 min | Bluffing in a tiny box; a reliable hit |
+| Codenames | 4 to 8+ | 15 min | Two or three rounds in an hour; absorbs latecomers |
+| Just One | 3 to 7 | 20 min | Cooperative, zero pressure, fits a shy crowd |
+| Sushi Go! | 2 to 5 | 15 min | Teaches in one sentence, plays while eating |
+| Azul | 2 to 4 | 35 min | A real game that still ends on time |
+| The Crew | 2 to 5 | 20 min | Short missions; stop after any one |
+| Wavelength | 4 to 12 | 30 min | Scales up when the room gets crowded |
+| Cascadia | 1 to 4 | 40 min | Quiet and thoughtful for a calmer day |
+| Skull | 3 to 6 | 15 min | Bluffing in a tiny box; a reliable hit |
 
 Avoid games over forty-five minutes, games with long setups, and anything that needs a dedicated teacher who knows a sixty-page rulebook. Save Gloomhaven for the weekend. For a broader list with more context, see [team-building board games that don't feel like team building](/articles/team-building-board-games/).
 
@@ -57,7 +57,7 @@ A format that keeps things moving:
 
 1. **Arrive and pick (first 5 min).** Whoever is there by five past picks a game based on headcount. Do not wait for stragglers.
 2. **Teach (5 min).** The person who knows it teaches. If nobody does, pick a different game. Reading a rulebook aloud kills the hour.
-3. **Play (30–40 min).** One game, or two short ones.
+3. **Play (30 to 40 min).** One game, or two short ones.
 4. **Late arrivals.** Seat them for the next round, or start a second table if there are enough. Never make someone wait twenty minutes.
 5. **End on time (last 5 min).** Pack up at five to the hour even if the game is not done. People need to trust that the club respects their afternoon.
 

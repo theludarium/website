@@ -30,21 +30,21 @@ The times below are for a table where at least one person has played before and 
 
 | Game | Players | Time | Why it works |
 |---|---|---|---|
-| Love Letter | 2–4 | 15 min | Sixteen cards, deduction, instant rematch |
-| Sushi Go! | 2–5 | 15 min | Card drafting with a tin and a smile |
-| Skull | 3–6 | 15–30 min | Bluffing with four discs per player |
-| No Thanks! | 3–7 | 15 min | Take the card or pay a chip. That is the game |
-| Coup | 2–6 | 15 min | Bluff about your roles and call the liars |
-| Kingdomino | 2–4 | 15–20 min | Build a five-by-five kingdom from dominoes |
-| Codenames | 4–8+ | 15 min | Team word clues, teaches in a minute |
-| The Crew | 2–5 | 20 min | Cooperative trick-taking, one mission at a time |
-| Just One | 3–7 | 20 min | Cooperative one-word clues |
-| Hanabi | 2–5 | 25 min | Fireworks cards you hold facing out |
-| Point Salad | 2–6 | 15–30 min | Draft vegetables, score sets, done |
-| 6 nimmt! | 2–10 | 20–30 min | Simultaneous card play, avoid the bull heads |
-| For Sale | 3–6 | 20 min | Buy houses, sell them, two tight auctions |
+| Love Letter | 2 to 4 | 15 min | Sixteen cards, deduction, instant rematch |
+| Sushi Go! | 2 to 5 | 15 min | Card drafting with a tin and a smile |
+| Skull | 3 to 6 | 15 to 30 min | Bluffing with four discs per player |
+| No Thanks! | 3 to 7 | 15 min | Take the card or pay a chip. That is the game |
+| Coup | 2 to 6 | 15 min | Bluff about your roles and call the liars |
+| Kingdomino | 2 to 4 | 15 to 20 min | Build a five-by-five kingdom from dominoes |
+| Codenames | 4 to 8+ | 15 min | Team word clues, teaches in a minute |
+| The Crew | 2 to 5 | 20 min | Cooperative trick-taking, one mission at a time |
+| Just One | 3 to 7 | 20 min | Cooperative one-word clues |
+| Hanabi | 2 to 5 | 25 min | Fireworks cards you hold facing out |
+| Point Salad | 2 to 6 | 15 to 30 min | Draft vegetables, score sets, done |
+| 6 nimmt! | 2 to 10 | 20 to 30 min | Simultaneous card play, avoid the bull heads |
+| For Sale | 3 to 6 | 20 min | Buy houses, sell them, two tight auctions |
 | Jaipur | 2 | 30 min | Two-player trading at its fastest |
-| Azul | 2–4 | 30 min | Right at the limit, worth every minute |
+| Azul | 2 to 4 | 30 min | Right at the limit, worth every minute |
 
 ### Love Letter
 

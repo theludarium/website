@@ -52,7 +52,7 @@ Set reviews take as long as you let them. Here is a schedule that works for a 54
 |---|---|---|---|
 | First pass | Spoiler complete | Scan all cards by color. Mark anything that names a slot you run. | 45 min |
 | Slot comparison | Same week | For each mark, list the incumbents. Decide pass, test, or keep. | 1 hour |
-| Proxy and test | Release week | Print or proxy the test cards, swap them in, run two or three drafts. | 2–3 drafts |
+| Proxy and test | Release week | Print or proxy the test cards, swap them in, run two or three drafts. | 2 to 3 drafts |
 | Decision | Two to four weeks after release | Keep, cut, or extend testing. Log the result. | 20 min |
 
 The first pass is where people lose time. Do not read every card's rules text closely. Read the mana cost and type line, and only slow down when the card could occupy a slot you have. In most sets, that is 30 to 50 cards out of 280.

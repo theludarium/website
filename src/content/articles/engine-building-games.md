@@ -68,11 +68,11 @@ Splendor (2014) stripped the idea to its bones: gems buy cards, cards give perma
 | Game | Engine made of | Length | Why start here |
 |---|---|---|---|
 | Splendor | Gem cards that discount future cards | 30 min | The purest, shortest version of the curve |
-| Wingspan | Birds with row-triggered powers | 60–90 min | The warmest theme; the engine is visible and pretty |
-| Century: Spice Road | Trade cards that convert cubes | 30–45 min | Hand of cards you cycle; teaches conversion timing |
+| Wingspan | Birds with row-triggered powers | 60 to 90 min | The warmest theme; the engine is visible and pretty |
+| Century: Spice Road | Trade cards that convert cubes | 30 to 45 min | Hand of cards you cycle; teaches conversion timing |
 | Dominion | Your own deck | 30 min | The deck-builder origin; endless setup variety |
-| Race for the Galaxy | Tableau of planets and developments | 30–45 min | Deep and fast once learned; dense iconography |
-| Terraforming Mars | Project cards and production tracks | 2–3 hours | The long form; the engine is a planet |
+| Race for the Galaxy | Tableau of planets and developments | 30 to 45 min | Deep and fast once learned; dense iconography |
+| Terraforming Mars | Project cards and production tracks | 2 to 3 hours | The long form; the engine is a planet |
 
 Splendor is the best teacher because there is nothing else in it. Every decision is an engine decision. Once the curve makes sense there, it makes sense everywhere.
 

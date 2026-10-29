@@ -31,7 +31,7 @@ None of these are sad. A solo game is, in most cases, a hobby in the same catego
 | 30 min | Cascadia (solo mode) | Habitat tile puzzle with a scoring target |
 | 45 min | Wingspan (Automa) | Engine builder against a cardboard opponent |
 | 60 min | Spirit Island | Heavy co-op, excellent at one player |
-| 60–90 min | Mage Knight | The famous brain-burner, best alone |
+| 60 to 90 min | Mage Knight | The famous brain-burner, best alone |
 | Campaign | Gloomhaven: Jaws of the Lion | Dungeon crawl, 25 scenarios, solo-friendly |
 | Campaign | Sleeping Gods | Open-world exploration over many sessions |
 
