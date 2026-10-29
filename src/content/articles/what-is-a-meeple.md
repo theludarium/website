@@ -1,14 +1,15 @@
 ---
-title: "What Is a Meeple? The Word, the Shape, and Its Origin"
-description: "What is a meeple? Where the word came from, why the little wooden person has that shape, and how it grew into the friendly symbol of modern board games."
+title: "Meeple: What It Means and Where the Word Came From"
+description: "A meeple is the little wooden person from Carcassonne. What the word means, why they are called meeples, who coined it, and how it became the hobby's symbol."
 pubDate: 2026-10-20
+updatedDate: 2026-10-29
 category: Game Guides
 tags: ["what is a meeple", "meeple meaning", "meeple origin", "Carcassonne meeple", "wooden board game pieces", "meeple definition", "Glossary"]
 draft: false
 ---
 A meeple is a small wooden figure shaped like a simplified person, with a round head, stubby arms, and a solid base where the legs would be. It is the standard playing piece in Carcassonne and has since spread to hundreds of other games. If you have ever asked "what is a meeple" after someone at the table used the word like everyone should know it, this is the answer, along with the story of how a joke became the most recognizable object in the hobby.
 
-The short version: the word is a blend of "my" and "people," coined at a game table in 2000. The shape came from the first edition of Carcassonne. Everything else is what happened when a lot of people decided they liked both.
+**The quick answer:** "meeple" is a blend of "my" and "people," coined at a game table in 2000. The shape came from the first edition of Carcassonne. Everything else is what happened when a lot of people decided they liked both.
 
 ## Where did the word "meeple" come from?
 
@@ -84,6 +85,14 @@ Dictionary inclusion is a lagging indicator. By the time lexicographers notice a
 ### What does meeple stand for?
 
 Nothing officially. It is a blend of "my" and "people," [coined in 2000](https://en.wikipedia.org/wiki/Meeple) by a Carcassonne player who ran the two words together.
+
+### Why are they called meeples?
+
+Because a player reaching for her pieces in a game of Carcassonne said "my people" too fast. It came out "meeple," her group kept saying it, and the rest of the hobby followed.
+
+### Who invented the meeple?
+
+The shape came from Carcassonne, designed by Klaus-Jürgen Wrede and published by Hans im Glück in 2000. The word came from Alison Hansel, a player, later that same year.
 
 ### What is the plural of meeple?
 

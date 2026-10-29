@@ -42,7 +42,7 @@ Neither game is hard. The difference is that Codenames can be taught to someone 
 
 ## Which one handles bigger groups?
 
-Codenames scales up without limit because extra players just join a team's discussion. Eight, ten, twelve people can play. The downside is that in a large group, the quieter people stop participating and two or three voices make every guess.
+Codenames scales up without limit because extra players just join a team's discussion. Eight, ten, twelve people can play, which is why it leads our list of [party games for large groups](/articles/party-games-for-large-groups/). The downside is that in a large group, the quieter people stop participating and two or three voices make every guess.
 
 Decrypto is best at four to six, with two or three per team. At eight it still works but the clue-giving rotation takes longer to come around. Below four it uses variant rules and loses some of its spark. If you regularly host [large game nights](/articles/large-group-game-night/), Codenames is the one to own; Decrypto is for the smaller standing group.
 

@@ -49,7 +49,7 @@ Think about where games get discovered:
 3. **Game nights at home.** The host's shelf is the showroom. A guest sees a game, asks about it, and buys it the next week.
 4. **Social media.** Photographs of games mid-play. A game that photographs well spreads; a game that looks like a spreadsheet does not, regardless of quality.
 
-Publishers have understood this for a long time. The shift from cardboard chits to wooden pieces in European games in the 1990s, the arrival of custom-shaped meeples, and the Kickstarter-era race toward miniatures are all the same move: spend on the thing the bystander sees.
+Publishers have understood this for a long time. The shift from cardboard chits to wooden pieces in European games in the 1990s, the arrival of custom-shaped [meeples](/articles/what-is-a-meeple/), and the Kickstarter-era race toward miniatures are all the same move: spend on the thing the bystander sees.
 
 Designers often resist this. The rules are the game, they say. Half right. The rules are the game once you are playing. The components are the reason you sat down.
 

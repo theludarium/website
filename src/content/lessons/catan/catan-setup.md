@@ -1,12 +1,13 @@
 ---
-title: "Catan Setup Explained: The Board, the Numbers, the Ports"
-description: "How to set up Catan: the 19 land hexes, 18 number discs, and 9 ports, fixed versus variable boards, and the snake draft for placing your first two settlements."
+title: "How to Set Up Catan: Board, Number Order, and Ports"
+description: "How to set up Settlers of Catan: the 19 land hexes, the number disc order from A to R, the 9 ports, and the snake draft for your first two settlements."
 course: catan
 level: 0
 levelName: Settler
 order: 2
 emailSubject: "Your first board, built in 10 minutes"
 pubDate: 2026-10-22
+updatedDate: 2026-10-29
 draft: false
 oneIdea: "Setup is a snake draft: pick in order 1-2-3-4-4-3-2-1, and your second settlement pays you starting resources."
 levelCheck:
@@ -25,6 +26,8 @@ levelCheck:
 nextTeaser: "Next, the game starts moving. Lesson 3 breaks a turn into roll, trade, and build, and gives you the four building costs you will use every game."
 ---
 A Catan board looks busy the first time you see it: hexes, numbers, ships, a robber, four colors of wood. Underneath, it is a simple system. By the end of this lesson you will be able to build a fresh island, place starting settlements, and hand out starting cards without opening the rulebook.
+
+**The quick answer:** connect the sea frame, lay the 19 land hexes inside it in rows of 3, 4, 5, 4, and 3, and spiral the number discs in letter order from one corner. Put the robber on the desert. Then each player places a settlement and a road in order 1, 2, 3, 4, and again in order 4, 3, 2, 1. Your second settlement pays your starting cards.
 
 ## What comes in the box?
 
@@ -176,6 +179,24 @@ The rulebook gives you two ways to build the island.
 5. **Set out the supply.** Sort the resource cards into five face-up piles. Shuffle the development cards into a face-down pile. Put the two bonus tiles nearby.
 
 The letter spiral matters. It spreads the numbers out so the high-rolling 6s and 8s are not crowded together. Some groups skip the letters and place discs at random, usually with a house rule that no two red numbers can touch. Older rulebooks printed that red-number rule; the 6th Edition base rulebook leaves it out and simply uses the letter spiral.
+
+## What order do the Catan numbers go in?
+
+Every number disc has a letter from A to R on its back. Laid out in letter order, the numbers come out like this:
+
+| Letter | Number | Letter | Number |
+| --- | --- | --- | --- |
+| A | 5 | J | 4 |
+| B | 2 | K | 8 |
+| C | 6 | L | 10 |
+| D | 3 | M | 9 |
+| E | 8 | N | 4 |
+| F | 10 | O | 5 |
+| G | 9 | P | 6 |
+| H | 12 | Q | 3 |
+| I | 11 | R | 11 |
+
+Put A on a corner hex of the outer ring. Go counterclockwise around the outer ring with B through L, then continue around the inner ring with M through R, and finish in the center. When the spiral reaches the desert, skip it and give that letter to the next hex. If the letters on your discs ever disagree with this table, trust the discs.
 
 ## How do you place your starting settlements?
 

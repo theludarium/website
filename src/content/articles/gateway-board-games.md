@@ -26,16 +26,16 @@ Catan is the classic example. Its trading and building taught a generation that 
 
 | Game | Players | Time | Why it works |
 |---|---|---|---|
-| Ticket to Ride | 2–5 | 45–60 min | Collect, claim, connect. Instantly clear |
-| Codenames | 4–8+ | 15 min | Word clues, team play, zero setup |
-| Azul | 2–4 | 30–45 min | One rule, gorgeous tiles, real decisions |
-| Carcassonne | 2–5 | 35–45 min | Place a tile, place a meeple, build France |
-| Splendor | 2–4 | 30 min | A first taste of engine building |
-| Sushi Go! | 2–5 | 15 min | Card drafting in a quarter hour |
-| Kingdomino | 2–4 | 15–20 min | Dominoes meets kingdom building |
-| Pandemic | 2–4 | 45 min | The cooperative game everyone should try once |
-| King of Tokyo | 2–6 | 30 min | Yahtzee with monsters |
-| Catan | 3–4 | 60–90 min | The original, still the best at trading |
+| Ticket to Ride | 2 to 5 | 45 to 60 min | Collect, claim, connect. Instantly clear |
+| Codenames | 4 to 8+ | 15 min | Word clues, team play, zero setup |
+| Azul | 2 to 4 | 30 to 45 min | One rule, gorgeous tiles, real decisions |
+| Carcassonne | 2 to 5 | 35 to 45 min | Place a tile, place a [meeple](/articles/what-is-a-meeple/), build France |
+| Splendor | 2 to 4 | 30 min | A first taste of engine building |
+| Sushi Go! | 2 to 5 | 15 min | Card drafting in a quarter hour |
+| Kingdomino | 2 to 4 | 15 to 20 min | Dominoes meets kingdom building |
+| Pandemic | 2 to 4 | 45 min | The cooperative game everyone should try once |
+| King of Tokyo | 2 to 6 | 30 min | Yahtzee with monsters |
+| Catan | 3 to 4 | 60 to 90 min | The original, still the best at trading |
 
 ### Ticket to Ride
 

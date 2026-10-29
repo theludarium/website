@@ -7,7 +7,7 @@ games: [catan]
 tags: ["how to win at Catan", "Catan strategy", "Catan starting placement", "Catan trading tips", "Settlers of Catan tips", "best Catan opening", "Strategy guides"]
 draft: false
 ---
-If you want to know how to win at Catan, start with the uncomfortable truth: most games are decided in the first five minutes, before anyone rolls. Your two starting settlements set your income for the whole game. Everything after that, trading, building, and development cards, is about making the most of what those first placements gave you.
+If you want to know how to win at Catan, start with the uncomfortable truth: most games are decided in the first five minutes, before anyone rolls. Your two starting settlements set your income for the whole game. Everything after that, trading, building, and development cards, is about making the most of what those first placements gave you. If you need the rules for that first part, our lesson on [how to set up Catan](/academy/catan/catan-setup/) covers the board, the number order, and the snake draft.
 
 This guide covers the three skills that separate players who win a third of the time from players who win once a year. None of it requires memorizing anything. It requires looking at the board a little longer than everyone else.
 

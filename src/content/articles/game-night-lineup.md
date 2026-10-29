@@ -68,7 +68,7 @@ The ideal closer:
 - Has a built-in ending, so it does not drift
 - Creates at least one moment worth retelling
 
-Cockroach Poker, Skull, Wavelength, Telestrations, Just One, and a quick hand of The Crew all close well. Codenames can close if it did not open. Party games with a bluffing or drawing element are especially good here because they produce stories.
+Cockroach Poker, Skull, Wavelength, Telestrations, Just One, and a quick hand of The Crew all close well. Codenames can close if it did not open. Party games with a bluffing or drawing element are especially good here because they produce stories. When the crowd tops eight, pull from our [party games for large groups](/articles/party-games-for-large-groups/).
 
 The closer is also your safety valve. If the main event runs long, you cut the closer and nobody feels shortchanged. If the main event runs short, the closer fills the gap. Keep one on the shelf and visible so the transition is seamless.
 
