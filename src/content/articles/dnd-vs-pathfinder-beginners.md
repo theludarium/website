@@ -22,10 +22,10 @@ Both games can tell the same stories. The difference is in how much the rules sa
 
 | | D&D (2024 rules) | Pathfinder Second Edition |
 |---|---|---|
-| Players | 1 GM + 3–6 players (typical) | 1 GM + 3–5 players (typical) |
-| Session time | 2–4 hours | 2–4 hours |
+| Players | 1 GM + 3 to 6 players (typical) | 1 GM + 3 to 5 players (typical) |
+| Session time | 2 to 4 hours | 2 to 4 hours |
 | Weight (complexity) | Medium | Medium-heavy |
-| Teach time for a player | 20–30 minutes with a pregenerated character | 30–45 minutes with a pregenerated character |
+| Teach time for a player | 20 to 30 minutes with a pregenerated character | 30 to 45 minutes with a pregenerated character |
 | Teach time for a new GM | Hours of reading; many video guides | More reading; the rules answer more questions for you |
 | Character options | Moderate; choices mostly at creation and a few levels | Very many; a meaningful choice at almost every level |
 | Free rules | Basic rules free online | Complete rules free online |

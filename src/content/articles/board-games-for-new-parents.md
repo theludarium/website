@@ -32,10 +32,10 @@ Most games fail at least one of these. The ones below pass all of them.
 | Jaipur | 2 | 20 min | Quiet | Yes |
 | Lost Cities | 2 | 20 min | Quiet | Yes |
 | The Fox in the Forest | 2 | 20 min | Quiet | Yes |
-| Sushi Go! | 2–5 | 15 min | Quiet | Yes |
+| Sushi Go! | 2 to 5 | 15 min | Quiet | Yes |
 | Hive Pocket | 2 | 15 min | Quiet | Yes |
-| Sprawlopolis | 1–4 | 15 min | Silent | Yes |
-| Onirim | 1–2 | 15 min | Silent | Yes |
+| Sprawlopolis | 1 to 4 | 15 min | Silent | Yes |
+| Onirim | 1 to 2 | 15 min | Silent | Yes |
 
 **Patchwork** <!-- AFFILIATE --> is the first recommendation for almost every exhausted couple. You take turns buying fabric pieces and fitting them onto a personal quilt board. It is quiet, there is almost no interaction to argue about, and it is the kind of puzzle a tired brain can still enjoy. If the baby wakes, the board sits there until you come back.
 

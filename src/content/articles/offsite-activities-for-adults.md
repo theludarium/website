@@ -59,11 +59,11 @@ Here is a shortlist of options that have worked for real teams, grouped by that 
 
 | Activity | Group size | Cost level | Fair across personalities? | Memorable? |
 |---|---|---|---|---|
-| Hosted game session | 8–100+ | Low to medium | Yes | Yes |
-| Escape room | 4–8 per room | Medium | Partly | Sometimes |
-| Ropes course | 10–30 | Medium to high | No | Sometimes |
-| Cooking class | 8–30 | Medium | Yes | Yes |
-| Improv workshop | 8–20 | Medium | No | Rarely |
+| Hosted game session | 8 to 100+ | Low to medium | Yes | Yes |
+| Escape room | 4 to 8 per room | Medium | Partly | Sometimes |
+| Ropes course | 10 to 30 | Medium to high | No | Sometimes |
+| Cooking class | 8 to 30 | Medium | Yes | Yes |
+| Improv workshop | 8 to 20 | Medium | No | Rarely |
 | Volunteer project | Any | Low | Yes | Yes |
 | Trust fall | Any | Free | No | For the wrong reasons |
 

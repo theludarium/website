@@ -26,8 +26,8 @@ Nobody buys anything. The Cube owner curated it once; the group plays it forever
 
 | | Cube | Commander |
 |---|---|---|
-| Players | 4–8 drafting (8 ideal), then pairs | 3–5, usually 4 at a table |
-| Time | 3–4 hours for a draft and three rounds | 1–2 hours per game, often two games a night |
+| Players | 4 to 8 drafting (8 ideal), then pairs | 3 to 5, usually 4 at a table |
+| Time | 3 to 4 hours for a draft and three rounds | 1 to 2 hours per game, often two games a night |
 | Weight (complexity) | Heavy: drafting plus deckbuilding plus play | Heavy: large decks and long board states |
 | Teach time | Needs players who already know Magic; drafting itself takes 10 minutes to explain | Needs players who already know Magic; format rules take 5 minutes |
 | What you bring | Nothing; the Cube owner brings everything | Your own deck |

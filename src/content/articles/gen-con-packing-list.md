@@ -6,7 +6,7 @@ category: Game Culture
 tags: ["Gen Con packing list", "what to bring to Gen Con", "Gen Con essentials", "Gen Con bag", "convention packing list", "Gen Con first time", "Conventions"]
 draft: false
 ---
-A good Gen Con packing list is short on gadgets and long on the boring things: shoes you have already walked ten miles in, a refillable bottle, a bag with a zipper, and your badge, which now carries most event tickets. Gen Con runs four days in downtown Indianapolis, with the next show set for [August 5–8, 2027](https://www.gencon.com/). You will be on your feet for most of it, in air conditioning that swings from cold to stale, carrying more than you planned.
+A good Gen Con packing list is short on gadgets and long on the boring things: shoes you have already walked ten miles in, a refillable bottle, a bag with a zipper, and your badge, which now carries most event tickets. Gen Con runs four days in downtown Indianapolis, with the next show set for [August 5 to 8, 2027](https://www.gencon.com/). You will be on your feet for most of it, in air conditioning that swings from cold to stale, carrying more than you planned.
 
 This list is organized by the problem each item solves. Pack for the problems and the rest takes care of itself.
 

@@ -12,7 +12,7 @@ Six players is the sweet spot for a lot of groups, and team draft is the best th
 
 ## Where does team draft come from?
 
-Team Limited has been part of professional Magic since the 1999–2000 season, per the [MTG Wiki's Team Limited page](https://mtg.wiki/page/Team_Limited), with Pro Tours using it from 1999 to 2005 and Grand Prix from 2000 to 2005 and again from 2012 to 2019. The wiki also notes that the classic 3v3 team draft runs nine rounds, with each player facing each opposing player, and that pools are not shared: you play only what you drafted.
+Team Limited has been part of professional Magic since the 1999 to 2000 season, per the [MTG Wiki's Team Limited page](https://mtg.wiki/page/Team_Limited), with Pro Tours using it from 1999 to 2005 and Grand Prix from 2000 to 2005 and again from 2012 to 2019. The wiki also notes that the classic 3v3 team draft runs nine rounds, with each player facing each opposing player, and that pools are not shared: you play only what you drafted.
 
 The format survived at kitchen tables after the pros moved on because it needs exactly six people, takes one evening, and produces a result everyone remembers.
 

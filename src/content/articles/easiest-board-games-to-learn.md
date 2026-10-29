@@ -22,20 +22,20 @@ Compare that to the usual approach: ten minutes of rules, every exception covere
 
 | Game | Players | Time | Why it works |
 |---|---|---|---|
-| Codenames | 4–8+ | 15 min | One word, one number, guess your team's words |
-| Sushi Go! | 2–5 | 15 min | Pick a card, pass the rest |
-| No Thanks! | 3–7 | 15 min | Take the card or pay a chip |
-| Kingdomino | 2–4 | 15–20 min | Place dominoes to build a kingdom |
-| Skull | 3–6 | 15–30 min | Stack coasters, bid on flowers, avoid skulls |
-| Love Letter | 2–4 | 15 min | Draw one, play one, last one standing wins |
-| Just One | 3–7 | 20 min | Write one clue, matching clues vanish |
-| Cascadia | 1–4 | 30–45 min | Take a tile and an animal, place both |
-| Azul | 2–4 | 30–45 min | Take all of one color, fill a row |
-| Ticket to Ride | 2–5 | 45–60 min | Collect colors, claim routes, connect cities |
+| Codenames | 4 to 8+ | 15 min | One word, one number, guess your team's words |
+| Sushi Go! | 2 to 5 | 15 min | Pick a card, pass the rest |
+| No Thanks! | 3 to 7 | 15 min | Take the card or pay a chip |
+| Kingdomino | 2 to 4 | 15 to 20 min | Place dominoes to build a kingdom |
+| Skull | 3 to 6 | 15 to 30 min | Stack coasters, bid on flowers, avoid skulls |
+| Love Letter | 2 to 4 | 15 min | Draw one, play one, last one standing wins |
+| Just One | 3 to 7 | 20 min | Write one clue, matching clues vanish |
+| Cascadia | 1 to 4 | 30 to 45 min | Take a tile and an animal, place both |
+| Azul | 2 to 4 | 30 to 45 min | Take all of one color, fill a row |
+| Ticket to Ride | 2 to 5 | 45 to 60 min | Collect colors, claim routes, connect cities |
 | Hive | 2 | 20 min | Surround the other queen bee |
-| Carcassonne | 2–5 | 35–45 min | Draw a tile, add it to the map, maybe place a meeple |
-| 6 nimmt! | 2–10 | 20–30 min | Play a card, avoid being sixth in a row |
-| Wavelength | 2–12 | 30 min | Give a clue, the team guesses where it sits on the dial |
+| Carcassonne | 2 to 5 | 35 to 45 min | Draw a tile, add it to the map, maybe place a meeple |
+| 6 nimmt! | 2 to 10 | 20 to 30 min | Play a card, avoid being sixth in a row |
+| Wavelength | 2 to 12 | 30 min | Give a clue, the team guesses where it sits on the dial |
 
 ### Codenames
 

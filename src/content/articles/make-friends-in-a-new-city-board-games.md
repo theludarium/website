@@ -48,13 +48,13 @@ A note on what to look for. Favor the group that meets weekly over the one that 
 
 Showing up once produces nothing. Here is a schedule that produces a circle.
 
-**Weeks 1–3: Be the reliable stranger.** Pick one night and go every week. Same night, same place. Introduce yourself to whoever is running it and say you are new in town. Play whatever is being taught. Do not try to make friends yet. Try to become a face people expect.
+**Weeks 1 to 3: Be the reliable stranger.** Pick one night and go every week. Same night, same place. Introduce yourself to whoever is running it and say you are new in town. Play whatever is being taught. Do not try to make friends yet. Try to become a face people expect.
 
-**Weeks 4–6: Learn names and use them.** By now you recognize the regulars. Start greeting them by name. Ask one small follow-up each week: how was the trip, did the job thing work out. Bring one game you know well and offer to teach it. Teaching is the fastest way to become someone people want at the table.
+**Weeks 4 to 6: Learn names and use them.** By now you recognize the regulars. Start greeting them by name. Ask one small follow-up each week: how was the trip, did the job thing work out. Bring one game you know well and offer to teach it. Teaching is the fastest way to become someone people want at the table.
 
-**Weeks 7–9: Move one step off the schedule.** Invite two or three of the people you click with to something outside the group night. A different game store's event, a two-player game at a coffee shop, a bigger game at your place on a Saturday. This is the moment a group acquaintance becomes a personal one.
+**Weeks 7 to 9: Move one step off the schedule.** Invite two or three of the people you click with to something outside the group night. A different game store's event, a two-player game at a coffee shop, a bigger game at your place on a Saturday. This is the moment a group acquaintance becomes a personal one.
 
-**Weeks 10–13: Start your own table.** You now know enough people to host. A standing night at your place, same time every week, does for your new circle what the store night did for you. There is a [whole playbook for running one that lasts](/articles/how-to-start-a-game-night-group/), and it works even better when the hosts are the ones who know what it felt like to be new.
+**Weeks 10 to 13: Start your own table.** You now know enough people to host. A standing night at your place, same time every week, does for your new circle what the store night did for you. There is a [whole playbook for running one that lasts](/articles/how-to-start-a-game-night-group/), and it works even better when the hosts are the ones who know what it felt like to be new.
 
 By day 90 you have something most people do not have two years after a move: a weekly event, six or eight people who expect you there, and two or three you would call if something went wrong.
 

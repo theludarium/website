@@ -102,7 +102,7 @@ The game is the reason. The people are the point. Event registration gets you to
 
 ### When does Gen Con event registration open?
 
-In 2026 it opened May 17 at noon Eastern, with badges on sale from February 8. Gen Con posts each year's dates on gencon.com and in its help center; the 2027 show runs August 5–8. Gen Con has not announced 2027 badge, housing, or event registration dates yet; in 2026 it announced them in mid-January.
+In 2026 it opened May 17 at noon Eastern, with badges on sale from February 8. Gen Con posts each year's dates on gencon.com and in its help center; the 2027 show runs August 5 to 8. Gen Con has not announced 2027 badge, housing, or event registration dates yet; in 2026 it announced them in mid-January.
 
 ### Do I need a badge before I can buy event tickets?
 

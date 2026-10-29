@@ -21,11 +21,11 @@ The difference is what the deck is for. In Dominion, the deck is the game. In Cl
 
 | | Dominion | Clank! |
 |---|---|---|
-| Players | 2–4 | 2–4 |
-| Time | 20–30 minutes | 30–60 minutes |
+| Players | 2 to 4 | 2 to 4 |
+| Time | 20 to 30 minutes | 30 to 60 minutes |
 | Ages (box) | [13+](https://www.nobleknight.com/P/2147646469/Dominion-2nd-Edition) (14+ on some printings) | [12+](https://www.nobleknight.com/P/2147643945) |
 | Weight (complexity) | Medium-light | Medium-light |
-| Teach time | 10 minutes | 12–15 minutes |
+| Teach time | 10 minutes | 12 to 15 minutes |
 | Board | None | Dungeon map with two sides |
 | Player interaction | Attack cards in some setups; otherwise low | Racing for artifacts, pushing the dragon onto others |
 | Luck | Shuffle order | Shuffle order, market row, dragon bag draws |

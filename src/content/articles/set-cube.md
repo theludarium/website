@@ -42,8 +42,8 @@ You do not have to go that big. A lighter build that still serves an eight-playe
 | Common | 3 | 100 × 3 | 300 |
 | Uncommon | 2 | 60 × 2 | 120 |
 | Rare | 1 | 53 | 53 |
-| Mythic | 1 (or rotate half) | 8–15 | 8–15 |
-| Total | | | ~480–490 |
+| Mythic | 1 (or rotate half) | 8 to 15 | 8 to 15 |
+| Total | | | ~480 to 490 |
 
 That builds 24 packs of 15 cards (10 commons, 3 uncommons, 1 rare or mythic, 1 land or flex) with about 120 cards left over, which lets you rebuild packs with a different mix next time. It will not perfectly mimic retail, where a given common shows up more rarely relative to its pool, but the texture is close and the box fits in a normal 540 case.
 

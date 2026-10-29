@@ -34,16 +34,16 @@ That is also why they can go wrong. If one player takes the accusation personall
 
 | Game | Type | Players | Approx. time | Notes |
 |---|---|---|---|---|
-| Dead of Winter | Traitor + personal goals | 2–5 | 1–2 hrs | Zombie colony; crossroads cards add story. The best of both kinds. |
-| Battlestar Galactica | Traitor | 3–6 | 2–3 hrs | Out of print and pricey, but the gold standard. Unfathomable is its spiritual reprint. |
-| Shadows over Camelot | Traitor (maybe) | 3–7 | 90 min | Possibly no traitor at all, which is the trick. |
-| Unfathomable | Traitor | 3–6 | 2–3 hrs | Battlestar's engine with a Lovecraftian ocean liner. |
-| The Resistance / Avalon | Traitor, pure deduction | 5–10 | 30 min | No board; just missions and lies. Great for groups. |
-| Betrayal at House on the Hill | Late-reveal traitor | 3–6 | 60 min | Co-op until the haunt begins, then one player turns. |
-| Nemesis | Personal goals | 1–5 | 2–3 hrs | Alien on a ship; your objective may require someone else's death. |
-| Saboteur | Traitor, card game | 3–10 | 30 min | Dwarves dig for gold; saboteurs misdirect. Light and cheap. |
-| Archipelago | Personal goals + shared threat | 2–5 | 2–3 hrs | Economic game where everyone loses if rebellion wins. |
-| Spyfall | Traitor, party | 3–8 | 10 min | One player does not know the location; everyone asks questions. |
+| Dead of Winter | Traitor + personal goals | 2 to 5 | 1 to 2 hrs | Zombie colony; crossroads cards add story. The best of both kinds. |
+| Battlestar Galactica | Traitor | 3 to 6 | 2 to 3 hrs | Out of print and pricey, but the gold standard. Unfathomable is its spiritual reprint. |
+| Shadows over Camelot | Traitor (maybe) | 3 to 7 | 90 min | Possibly no traitor at all, which is the trick. |
+| Unfathomable | Traitor | 3 to 6 | 2 to 3 hrs | Battlestar's engine with a Lovecraftian ocean liner. |
+| The Resistance / Avalon | Traitor, pure deduction | 5 to 10 | 30 min | No board; just missions and lies. Great for groups. |
+| Betrayal at House on the Hill | Late-reveal traitor | 3 to 6 | 60 min | Co-op until the haunt begins, then one player turns. |
+| Nemesis | Personal goals | 1 to 5 | 2 to 3 hrs | Alien on a ship; your objective may require someone else's death. |
+| Saboteur | Traitor, card game | 3 to 10 | 30 min | Dwarves dig for gold; saboteurs misdirect. Light and cheap. |
+| Archipelago | Personal goals + shared threat | 2 to 5 | 2 to 3 hrs | Economic game where everyone loses if rebellion wins. |
+| Spyfall | Traitor, party | 3 to 8 | 10 min | One player does not know the location; everyone asks questions. |
 
 Times and player counts are approximate; check the box, and expect real sessions with new players to run longer.
 

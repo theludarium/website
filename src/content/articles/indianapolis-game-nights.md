@@ -26,7 +26,7 @@ Three kinds, and they feel different.
 |---|---|---|---|
 | Monday (every other week) | Indy Board Game Nomads at Red Lion Grog House (21+), 6:30 p.m. | 1043 Virginia Ave, Fountain Square | Free |
 | Monday (every other week) | Indy Board Game Nomads at St. Joseph Brewery, Choir Hall upstairs | 540 N College Ave, downtown | Free |
-| Tuesday | [Game Night Social](https://www.garageindy.com/entertainment) at The Garage food hall, 6–9 p.m., hosted by Lou Harry | 906 Carrollton Ave, Bottleworks | Free, all ages |
+| Tuesday | [Game Night Social](https://www.garageindy.com/entertainment) at The Garage food hall, 6 to 9 p.m., hosted by Lou Harry | 906 Carrollton Ave, Bottleworks | Free, all ages |
 | Wednesday | Lorcana league at Good Games | 111 S Meridian St, downtown | Check store |
 | Thursday (every other week) | Indy Board Game Nomads at Voodoo Brewing, 6:30 p.m. | 8729 Front St, Fishers | Free, all ages |
 | First Thursday, 2 to 4 p.m. | Shuffle & Roll, adults only | Hamilton East Public Library, Fishers | Free |

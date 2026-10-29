@@ -55,7 +55,7 @@ There are two main versions, and both are good.
 | Missions | 50 | 32, with variable difficulty |
 | Task system | Each mission sets how many task cards to draw | Task cards with difficulty values; the mission sets a total |
 | Theme | Space | Underwater |
-| Players | 3–5 (2 with a variant) | 3–5 (2 with a variant) |
+| Players | 3 to 5 (2 with a variant) | 3 to 5 (2 with a variant) |
 | Best for | First-timers; a gentle ramp | Replay and variety; groups who finished the first |
 
 Mission Deep Sea is the more flexible design, because the difficulty of each mission depends on which task cards come out. The same mission number plays differently every time. The Quest for Planet Nine has a steadier ramp and a slightly simpler teach.

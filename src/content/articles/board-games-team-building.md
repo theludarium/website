@@ -42,14 +42,14 @@ Not all of them. A game that takes forty minutes to teach or lets one person dom
 
 | Game | Players | Time | What it surfaces |
 |---|---|---|---|
-| Pandemic | 2–4 per copy | 45 min | Planning under pressure, quarterback problem, shared failure |
-| The Crew | 3–5 per copy | 20 min per mission | Coordination with limited communication |
-| Codenames | 4–12 | 15 min | Trust, shared language, how your team reads each other |
-| Wavelength | 4–12 | 30 min | Empathy, how well people model each other's thinking |
-| Just One | 3–7 | 20 min | Collaboration without duplication, humility |
+| Pandemic | 2 to 4 per copy | 45 min | Planning under pressure, quarterback problem, shared failure |
+| The Crew | 3 to 5 per copy | 20 min per mission | Coordination with limited communication |
+| Codenames | 4 to 12 | 15 min | Trust, shared language, how your team reads each other |
+| Wavelength | 4 to 12 | 30 min | Empathy, how well people model each other's thinking |
+| Just One | 3 to 7 | 20 min | Collaboration without duplication, humility |
 | Captain Sonar | 8 | 45 min | Real-time roles, information flow between functions |
-| Decrypto | 4–8 | 30 min | Encoding and decoding, communication clarity |
-| Catan or Ticket to Ride | 3–5 per copy | 60–90 min | Negotiation, competing for scarce resources |
+| Decrypto | 4 to 8 | 30 min | Encoding and decoding, communication clarity |
+| Catan or Ticket to Ride | 3 to 5 per copy | 60 to 90 min | Negotiation, competing for scarce resources |
 
 A practical note on structure. Cooperative games first, competitive games second. Starting with a game where colleagues beat each other can set an edge. Starting with one where they lose together to the game sets the opposite. Shared failure is one of the fastest known routes to trust, and losing a game of Pandemic as a group gets a team there in about an hour.
 

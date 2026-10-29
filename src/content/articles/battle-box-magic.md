@@ -44,12 +44,12 @@ Then fill the shared pile. A house breakdown that has worked for us, for 150 car
 
 | Slot | Count | Notes |
 |---|---|---|
-| Creatures | 85–95 | Roughly 17–19 per color, curve centered on 2–4 mana |
-| Removal | 20–25 | Mostly conditional: Journey to Nowhere, Searing Spear, Doom Blade effects |
-| Tricks and modal spells | 15–20 | Charms, Commands, kicker spells, combat tricks |
-| Card advantage | 8–12 | Divination-rate draw, small value creatures |
-| Artifacts and Equipment | 5–8 | A Bonesplitter, a mana rock or two, no bombs |
-| Sweepers and bombs | 2–4 | One per color at most; several boxes run zero sweepers |
+| Creatures | 85 to 95 | Roughly 17 to 19 per color, curve centered on 2 to 4 mana |
+| Removal | 20 to 25 | Mostly conditional: Journey to Nowhere, Searing Spear, Doom Blade effects |
+| Tricks and modal spells | 15 to 20 | Charms, Commands, kicker spells, combat tricks |
+| Card advantage | 8 to 12 | Divination-rate draw, small value creatures |
+| Artifacts and Equipment | 5 to 8 | A Bonesplitter, a mana rock or two, no bombs |
+| Sweepers and bombs | 2 to 4 | One per color at most; several boxes run zero sweepers |
 
 Color balance should be even or close to it: 25 to 30 cards per color plus a small gold section. Gold cards are fine here because mana is perfect; DeMars notes they make for swingy, memorable turns. Keep them to the ten two-color pairs rather than three-color cards, which still take until turn six or seven to cast.
 

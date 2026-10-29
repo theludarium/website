@@ -83,7 +83,7 @@ An escape-room-in-a-box series. One hour, one play, and entirely cooperative. No
 | Spirit Island | 90+ min | Heavy | Open | Strategy couples |
 | Burgle Bros | 60 min | Medium | Open | Planners |
 | Horrified | 45 min | Light-medium | Open | Theme lovers |
-| Pandemic Legacy | 45 min x 12–24 | Medium | Open | A shared project |
+| Pandemic Legacy | 45 min x 12 to 24 | Medium | Open | A shared project |
 | Jaws of the Lion | 90 min x 25 | Medium-heavy | Open | Tactical campaigns |
 | Exit: The Game | 60 min | Light-medium | Open | Puzzle nights |
 

@@ -37,16 +37,16 @@ Player counts are the publishers'. Play times are our estimates with a five-year
 
 | Game | Players | Play time | Type | What the adult gets out of it |
 |---|---|---|---|---|
-| [Outfoxed!](https://gamewright.com/product/Outfoxed) | 2–4 | 20 min | Cooperative deduction | Real logic puzzle. You eliminate suspects by clues, like a gentle Clue. |
-| [Dragomino](https://www.blueorangegames.com/games/dragomino) | 2–4 | 15 min | Tile placement | Tile-matching with a push-your-luck twist. Kingdomino lite. |
-| Rhino Hero | 2–5 | 10–15 min | Dexterity, card stacking | Building a tower of cards that will fall. Tense for everyone. |
-| Animal Upon Animal | 2–4 | 15 min | Dexterity, stacking | Wooden animals, steady hands, real laughs when it collapses. |
-| My First Castle Panic | 1–4 | 20 min | Cooperative defense | Match color and shape to stop monsters. Teaches reading a shared board. |
-| Zingo! | 2–6 | 10 min | Matching, speed | Bingo with a tile slider. Fast and loud. Surprisingly fun race. |
-| Hoot Owl Hoot! | 2–4 | 15 min | Cooperative color-matching | Get all the owls home before sunrise. Simple, and the choice of which owl matters. |
-| Sneaky Snacky Squirrel | 2–4 | 15 min | Spinner, fine motor | Low on decisions, high on tweezers. Good for a four-and-a-half-year-old. |
-| Monza | 2–6 | 10 min | Dice, color racing | Roll six dice, chain colors to move your race car. Little planning puzzle each turn. |
-| Go Away Monster! | 2–4 | 10 min | Feel-and-match | Reach into a bag, feel for the right shape. Pure delight at this age. |
+| [Outfoxed!](https://gamewright.com/product/Outfoxed) | 2 to 4 | 20 min | Cooperative deduction | Real logic puzzle. You eliminate suspects by clues, like a gentle Clue. |
+| [Dragomino](https://www.blueorangegames.com/games/dragomino) | 2 to 4 | 15 min | Tile placement | Tile-matching with a push-your-luck twist. Kingdomino lite. |
+| Rhino Hero | 2 to 5 | 10 to 15 min | Dexterity, card stacking | Building a tower of cards that will fall. Tense for everyone. |
+| Animal Upon Animal | 2 to 4 | 15 min | Dexterity, stacking | Wooden animals, steady hands, real laughs when it collapses. |
+| My First Castle Panic | 1 to 4 | 20 min | Cooperative defense | Match color and shape to stop monsters. Teaches reading a shared board. |
+| Zingo! | 2 to 6 | 10 min | Matching, speed | Bingo with a tile slider. Fast and loud. Surprisingly fun race. |
+| Hoot Owl Hoot! | 2 to 4 | 15 min | Cooperative color-matching | Get all the owls home before sunrise. Simple, and the choice of which owl matters. |
+| Sneaky Snacky Squirrel | 2 to 4 | 15 min | Spinner, fine motor | Low on decisions, high on tweezers. Good for a four-and-a-half-year-old. |
+| Monza | 2 to 6 | 10 min | Dice, color racing | Roll six dice, chain colors to move your race car. Little planning puzzle each turn. |
+| Go Away Monster! | 2 to 4 | 10 min | Feel-and-match | Reach into a bag, feel for the right shape. Pure delight at this age. |
 
 If you buy only two, make them Outfoxed! and Dragomino. One is cooperative and one is competitive, and between them they cover most moods.
 

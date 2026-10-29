@@ -29,7 +29,7 @@ Section counts are a house guideline, not a standard, but these are what we woul
 | Section | 360 | 450 | 540 | Notes |
 |---|---|---|---|---|
 | Each color (×5) | 52 | 66 | 80 | Creature-heavy: ~30 creatures at 52 |
-| Gold (ten pairs) | 30 | 40 | 50 | 3–5 per pair, including signposts |
+| Gold (ten pairs) | 30 | 40 | 50 | 3 to 5 per pair, including signposts |
 | Colorless | 20 | 25 | 30 | Equipment, artifact creatures, Prophetic Prism effects |
 | Lands | 50 | 55 | 60 | See below; most pauper cubes run heavier fixing than this |
 

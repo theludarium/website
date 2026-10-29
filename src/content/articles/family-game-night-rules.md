@@ -70,9 +70,9 @@ Not every rule pulls equal weight at every stage. Here is roughly where the emph
 
 | Age of youngest | Rules to enforce hardest | Rules to relax |
 |---|---|---|
-| 4–6 | Picker rotates, practice game, help when asked, ends on time | Take-backs (give them a few), rules disputes (just decide) |
-| 7–9 | Good game both ways, no quitting, phones | Practice game (they learn fast now) |
-| 10–12 | Rules disputes by coin, no take-backs, short teach | Help when asked (they want to do it alone) |
+| 4 to 6 | Picker rotates, practice game, help when asked, ends on time | Take-backs (give them a few), rules disputes (just decide) |
+| 7 to 9 | Good game both ways, no quitting, phones | Practice game (they learn fast now) |
+| 10 to 12 | Rules disputes by coin, no take-backs, short teach | Help when asked (they want to do it alone) |
 | Teens | Phones, picker rotates (their pick counts), ends on time | Nearly everything else. Treat them as a peer. |
 
 The phone rule is the only one that never relaxes. If anything it gets stricter as the kids get older, and parents are the ones who most often break it.

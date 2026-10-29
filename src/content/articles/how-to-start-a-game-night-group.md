@@ -49,8 +49,8 @@ A small shelf covers most nights. Something like this:
 | Player count | Reliable picks | Teach time |
 |---|---|---|
 | 2 | Patchwork, Jaipur, 7 Wonders Duel | 5 min |
-| 3–4 | Azul, Wingspan, The Crew, Cascadia | 5–15 min |
-| 5–6 | Codenames, Wavelength, Just One, Ticket to Ride | 5 min |
+| 3 to 4 | Azul, Wingspan, The Crew, Cascadia | 5 to 15 min |
+| 5 to 6 | Codenames, Wavelength, Just One, Ticket to Ride | 5 min |
 | 7+ | Codenames, Wavelength, Decrypto, Skull | 5 min |
 
 Notice what is missing. No four-hour games. Nothing with a forty-minute rules teach. Those have a place, but not on the recurring night. Save the big boxes for a scheduled Saturday once the group has proven it exists.

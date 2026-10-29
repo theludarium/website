@@ -54,13 +54,13 @@ The games for onboarding are a subset of good [team building board games](/artic
 
 | Game | Players | Time | Why it works for new hires |
 |---|---|---|---|
-| Just One | 3–7 | 20 min | Everyone contributes equally; no way to look foolish |
-| Wavelength | 4–12 | 30 min | Produces personal opinions and laughter fast |
-| Codenames | 4–8 | 15 min | Reveals how people think; easy to rotate |
-| Telestrations | 4–8 | 30 min | Drawing badly is the point; a great equalizer |
-| So Clover! | 3–6 | 25 min | Cooperative and quiet enough for introverts |
-| The Crew | 2–5 | 20 min | Teaches cooperation under constraint |
-| Sushi Go! | 2–5 | 15 min | A gentle, fast card game for a mixed table |
+| Just One | 3 to 7 | 20 min | Everyone contributes equally; no way to look foolish |
+| Wavelength | 4 to 12 | 30 min | Produces personal opinions and laughter fast |
+| Codenames | 4 to 8 | 15 min | Reveals how people think; easy to rotate |
+| Telestrations | 4 to 8 | 30 min | Drawing badly is the point; a great equalizer |
+| So Clover! | 3 to 6 | 25 min | Cooperative and quiet enough for introverts |
+| The Crew | 2 to 5 | 20 min | Teaches cooperation under constraint |
+| Sushi Go! | 2 to 5 | 15 min | A gentle, fast card game for a mixed table |
 
 Avoid heavy strategy games, anything with player elimination, and anything where a tenured employee's experience gives them a lopsided advantage. The new hire should be able to win, or at least contribute to a win, in their first game.
 

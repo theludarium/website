@@ -38,7 +38,7 @@ There is no application, no tryout, and no card requirement. If you have never p
 |---|---|---|
 | Arrive | Find the table, say hello, a pack is already waiting at your seat | Before start |
 | Draft | Three packs of fifteen, pass left, right, left. A veteran on your right answers questions | About 45 minutes |
-| Build | Pick roughly 23 spells in two colors, add 17 lands from the land box | 15–20 minutes |
+| Build | Pick roughly 23 spells in two colors, add 17 lands from the land box | 15 to 20 minutes |
 | Round one | Random pairing, or a designated teacher if you are new | 50 minutes |
 | Rounds two and three | Winners play winners; standings stay private until the end | 50 minutes each |
 | Debrief | What you drafted, what should get cut, who takes the trophy home | 5 minutes |

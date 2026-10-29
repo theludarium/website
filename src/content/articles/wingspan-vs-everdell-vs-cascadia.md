@@ -19,11 +19,11 @@ That shared gentleness is why they are often lumped together, and why people ass
 
 ## How do Wingspan, Everdell, and Cascadia compare?
 
-| Game | Players | Time | Weight (1–5) | Why it works |
+| Game | Players | Time | Weight (1 to 5) | Why it works |
 |---|---|---|---|---|
-| Wingspan | 1–5 | 40–70 min | 2.5 | Build a bird engine, feel it hum by round three |
-| Everdell | 1–4 | 40–80 min | 3 | Worker placement with a city you watch grow |
-| Cascadia | 1–4 | 30–45 min | 2 | Tile and token puzzle, teaches in three minutes |
+| Wingspan | 1 to 5 | 40 to 70 min | 2.5 | Build a bird engine, feel it hum by round three |
+| Everdell | 1 to 4 | 40 to 80 min | 3 | Worker placement with a city you watch grow |
+| Cascadia | 1 to 4 | 30 to 45 min | 2 | Tile and token puzzle, teaches in three minutes |
 
 ### Wingspan
 

@@ -37,18 +37,18 @@ The last point matters most. Adults want to feel smart. A game that lets a first
 
 | Game | Players | Time | Why it works |
 |---|---|---|---|
-| Codenames | 4–8+ | 15 min | One-word clues, team play, instant laughter |
-| Wavelength | 2–12 | 30 min | Argue about where "a hot dog" sits on a sandwich scale |
-| Azul | 2–4 | 30–45 min | Beautiful tiles, one simple rule, surprising depth |
-| Ticket to Ride | 2–5 | 45–60 min | Collect cards, build train routes, feel clever |
-| The Crew | 2–5 | 20 min | A card game where you win or lose together |
-| Just One | 3–7 | 20 min | Cooperative word game, no one looks bad |
-| Splendor | 2–4 | 30 min | Gem chips and a satisfying engine |
-| Sushi Go! | 2–5 | 15 min | Pass cards, collect sets, done in a quarter hour |
-| Skull | 3–6 | 15–30 min | Pure bluffing with four discs each |
-| Cascadia | 1–4 | 30–45 min | Calm tile placement, nature theme, no conflict |
-| Patchwork | 2 | 20–30 min | A two-player quilt puzzle with real tension |
-| Decrypto | 3–8 | 30 min | Codenames for people who want to think harder |
+| Codenames | 4 to 8+ | 15 min | One-word clues, team play, instant laughter |
+| Wavelength | 2 to 12 | 30 min | Argue about where "a hot dog" sits on a sandwich scale |
+| Azul | 2 to 4 | 30 to 45 min | Beautiful tiles, one simple rule, surprising depth |
+| Ticket to Ride | 2 to 5 | 45 to 60 min | Collect cards, build train routes, feel clever |
+| The Crew | 2 to 5 | 20 min | A card game where you win or lose together |
+| Just One | 3 to 7 | 20 min | Cooperative word game, no one looks bad |
+| Splendor | 2 to 4 | 30 min | Gem chips and a satisfying engine |
+| Sushi Go! | 2 to 5 | 15 min | Pass cards, collect sets, done in a quarter hour |
+| Skull | 3 to 6 | 15 to 30 min | Pure bluffing with four discs each |
+| Cascadia | 1 to 4 | 30 to 45 min | Calm tile placement, nature theme, no conflict |
+| Patchwork | 2 | 20 to 30 min | A two-player quilt puzzle with real tension |
+| Decrypto | 3 to 8 | 30 min | Codenames for people who want to think harder |
 
 ### Codenames
 

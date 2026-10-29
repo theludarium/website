@@ -25,12 +25,12 @@ This article compares the two across the things that decide a game night: setup 
 
 | | Precons | Cube |
 |---|---|---|
-| Time to first game | 2–5 minutes | 45–75 minutes (draft + build) |
-| Cost to start | $12–$50 per deck | Anywhere from about $100 to $150 (pauper) to a few hundred (peasant or budget) for a 360, plus sleeves, at the time of writing |
-| Players | 2 (60-card) or 4 (Commander) | 2–8 per cube, 8 ideal |
+| Time to first game | 2 to 5 minutes | 45 to 75 minutes (draft + build) |
+| Cost to start | $12 to $50 per deck | Anywhere from about $100 to $150 (pauper) to a few hundred (peasant or budget) for a 360, plus sleeves, at the time of writing |
+| Players | 2 (60-card) or 4 (Commander) | 2 to 8 per cube, 8 ideal |
 | Decks per night | Fixed set, swap between games | New decks every draft |
 | Skill spread | Evens out mismatches | Rewards the better drafter twice |
-| Replay | Fades after 5–10 plays per pair | Hundreds of drafts |
+| Replay | Fades after 5 to 10 plays per pair | Hundreds of drafts |
 | Teaching | Excellent | Hard until the player can draft |
 | Storage | One box per deck | One box total |
 

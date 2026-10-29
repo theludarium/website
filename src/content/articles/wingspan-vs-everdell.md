@@ -21,11 +21,11 @@ They play differently. Wingspan is a card-tableau game with a dice tower and a g
 
 | | Wingspan | Everdell |
 |---|---|---|
-| Players | 1–5 | 1–4 |
-| Time | 40–70 minutes | 40–80 minutes |
+| Players | 1 to 5 | 1 to 4 |
+| Time | 40 to 70 minutes | 40 to 80 minutes |
 | Ages (box) | [10+](https://shop.imboardgames.com/products/wingspan) | [13+ on earlier printings, 10+ on the third edition](https://www.boardgamebliss.com/collections/all/products/everdell-3rd-edition) |
 | Weight (complexity) | Medium | Medium, a notch heavier |
-| Teach time | 15 minutes | 15–20 minutes |
+| Teach time | 15 minutes | 15 to 20 minutes |
 | Core mechanism | Tableau building, dice-driven food | Worker placement, card combos |
 | Player interaction | Low: shared bird market and dice, round-goal races | Medium: blocking locations, snatching meadow cards |
 | Pace of turns | Steady; every turn feels similar | Uneven; some turns are huge, some are tiny |

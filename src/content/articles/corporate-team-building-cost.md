@@ -22,11 +22,11 @@ Here is how they compare on rough per-person cost.
 
 | Tier | Rough cost per person | Best for | What you still handle |
 |---|---|---|---|
-| DIY | $5–$20 | Small teams, tight budgets, a staffer who loves games | Everything |
-| Hosted | $40–$80 | 10–100 people, a venue you already have | Room, food, invites |
-| Full service | $75–$200+ | Offsites, leadership sessions, large groups | Approving the plan |
+| DIY | $5 to $20 | Small teams, tight budgets, a staffer who loves games | Everything |
+| Hosted | $40 to $80 | 10 to 100 people, a venue you already have | Room, food, invites |
+| Full service | $75 to $200+ | Offsites, leadership sessions, large groups | Approving the plan |
 
-These are rough estimates for a 90-minute to 2-hour event, at the time of writing. The DIY figure is the amortized cost of the games worked out below; the hosted and full-service figures sit inside the $40–$200 per person that [vendor pricing guides](https://wearespin.com/how-much-do-corporate-team-building-activities-cost/) quote for facilitated corporate activities. Food, alcohol, and venue rental are extra in the first two tiers and are usually the largest variable in the total.
+These are rough estimates for a 90-minute to 2-hour event, at the time of writing. The DIY figure is the amortized cost of the games worked out below; the hosted and full-service figures sit inside the $40 to $200 per person that [vendor pricing guides](https://wearespin.com/how-much-do-corporate-team-building-activities-cost/) quote for facilitated corporate activities. Food, alcohol, and venue rental are extra in the first two tiers and are usually the largest variable in the total.
 
 ## What does a DIY game night cost?
 
@@ -34,12 +34,12 @@ The DIY route is the right call for a team of eight to twenty with at least one 
 
 Rough budget for a 20-person DIY game night:
 
-- **Games: $150–$300 one-time.** Six to eight short games cover four tables. Codenames, Just One, Wavelength, Telestrations, The Crew, Sushi Go!, Azul, and Skull would be a strong shelf for roughly that range; most of them [list for about $15–$35 each](https://www.target.com/s/azul) at major retailers. These are reusable, so the per-event cost drops to zero after the first one.
+- **Games: $150 to $300 one-time.** Six to eight short games cover four tables. Codenames, Just One, Wavelength, Telestrations, The Crew, Sushi Go!, Azul, and Skull would be a strong shelf for roughly that range; most of them [list for about $15 to $35 each](https://www.target.com/s/azul) at major retailers. These are reusable, so the per-event cost drops to zero after the first one.
 - **Venue: $0.** Your own conference room or break room.
-- **Food: $10–$35 per person.** Pizza at the low end, [catered boxed meals](https://zerocater.com/blog/boxed-lunch-catering-meetings/) at the high end, before delivery and service fees.
+- **Food: $10 to $35 per person.** Pizza at the low end, [catered boxed meals](https://zerocater.com/blog/boxed-lunch-catering-meetings/) at the high end, before delivery and service fees.
 - **Staff time: the hidden cost.** Someone spends two to four hours planning, an hour setting up, and the whole event teaching instead of participating. If that person is a manager, the real cost is their salary for those hours.
 
-Total for a first event: roughly $350–$1,000 for 20 people, or about $18–$50 per head, dropping to the food cost alone for repeat events.
+Total for a first event: roughly $350 to $1,000 for 20 people, or about $18 to $50 per head, dropping to the food cost alone for repeat events.
 
 The DIY risk is not money. It is a flat event. If the teacher is unsure of the rules or the games are wrong for the room, you get an hour of polite confusion. For games that minimize that risk, see [team-building board games that don't feel like team building](/articles/team-building-board-games/).
 
@@ -49,7 +49,7 @@ A hosted event means a vendor brings the library and the people who know how to 
 
 What drives the price:
 
-- **Headcount.** Vendors typically price per person with a minimum, or per host with a host handling one or two tables. Rough range: $40–$80 per person, and most vendors set a minimum that amounts to the price of a dozen or so attendees, so very small groups pay more per head.
+- **Headcount.** Vendors typically price per person with a minimum, or per host with a host handling one or two tables. Rough range: $40 to $80 per person, and most vendors set a minimum that amounts to the price of a dozen or so attendees, so very small groups pay more per head.
 - **Duration.** Ninety minutes is the common baseline. A half-day costs more, but not proportionally; much of the cost is the setup and the hosts' travel.
 - **Customization.** A standard mixed-table session is the base price. A session built around a specific goal, such as the leadership observation described in [how to spot a leader in 45 minutes of Pandemic](/articles/leadership-assessment-games/), usually adds a planning fee or a higher rate.
 - **Travel.** Vendors within their home city usually include travel. Outside it, expect mileage or a flat travel fee.
@@ -57,7 +57,7 @@ What drives the price:
 
 What you still pay for separately: the room if you do not have one, food, and drinks.
 
-Rough total for a 40-person hosted event in a company's own space with catered food: $2,000–$4,600, or $50–$115 per head all-in.
+Rough total for a 40-person hosted event in a company's own space with catered food: $2,000 to $4,600, or $50 to $115 per head all-in.
 
 *If this is useful, the newsletter sends more like it.*
 
@@ -65,7 +65,7 @@ Rough total for a 40-person hosted event in a company's own space with catered f
 
 Full service bundles venue, games, hosts, food coordination, and often a structured program. It is the offsite tier.
 
-Rough per-person range: $75–$200 or more, driven mostly by the venue and the food; the [premium tier of vendor pricing guides](https://wearespin.com/how-much-do-corporate-team-building-activities-cost/) runs $130–$200+. A game lounge or event space in a mid-size city might run [$500–$1,000 for a private corporate evening](https://www.eventective.com/riverside-ca/nevermore-game-club-802975.html). A hotel ballroom runs considerably more. Add dinner and drinks, which usually cost more per head than the activity, and the games themselves become a modest line in a much larger total.
+Rough per-person range: $75 to $200 or more, driven mostly by the venue and the food; the [premium tier of vendor pricing guides](https://wearespin.com/how-much-do-corporate-team-building-activities-cost/) runs $130 to $200+. A game lounge or event space in a mid-size city might run [$500 to $1,000 for a private corporate evening](https://www.eventective.com/riverside-ca/nevermore-game-club-802975.html). A hotel ballroom runs considerably more. Add dinner and drinks, which usually cost more per head than the activity, and the games themselves become a modest line in a much larger total.
 
 Full service makes sense when:
 
@@ -80,13 +80,13 @@ Rough, per-person, for a two-hour activity, before food:
 
 | Activity | Rough per-person cost | Notes |
 |---|---|---|
-| DIY game night | $5–$20 | After the one-time game purchase, near zero |
-| Hosted game night | $40–$80 | Scales to large groups easily |
-| Escape room | [$20–$60](https://fash.com/costs/escape-room-cost) | Rooms hold 2–8, so large groups need many bookings |
+| DIY game night | $5 to $20 | After the one-time game purchase, near zero |
+| Hosted game night | $40 to $80 | Scales to large groups easily |
+| Escape room | [$20 to $60](https://fash.com/costs/escape-room-cost) | Rooms hold 2 to 8, so large groups need many bookings |
 | Cooking class | [$85+ per person; group rates vary](https://teambuilding.com/activities/taste-buds-kitchen-north-andover/team-building-cooking-class) | Includes the meal, which offsets food cost |
-| Axe throwing or bowling | [$20–$75](https://www.thepricer.org/how-much-does-axe-throwing-cost/) | Often requires group minimums |
-| Ropes course | [$25–$100+](https://www.lynchburg.edu/student-life/community-development-2/outdoor-recreation/outdoor-leadership-program/adventurechallenge-courses/) | A half or full day; private operators charge more; travel and weather dependent |
-| Improv or facilitated workshop | [$70–$150](https://www.changethroughplay.com/corporate) | Flat fees of a few thousand dollars per workshop, so per-person cost falls with headcount |
+| Axe throwing or bowling | [$20 to $75](https://www.thepricer.org/how-much-does-axe-throwing-cost/) | Often requires group minimums |
+| Ropes course | [$25 to $100+](https://www.lynchburg.edu/student-life/community-development-2/outdoor-recreation/outdoor-leadership-program/adventurechallenge-courses/) | A half or full day; private operators charge more; travel and weather dependent |
+| Improv or facilitated workshop | [$70 to $150](https://www.changethroughplay.com/corporate) | Flat fees of a few thousand dollars per workshop, so per-person cost falls with headcount |
 
 Game nights compare well partly because they scale. One host can run ten to sixteen people across two tables. Adding forty people adds hosts, not venues or equipment. For more on how these options stack up beyond cost, see [the trust fall is dead: better offsite activities for adults](/articles/offsite-activities-for-adults/).
 
@@ -118,11 +118,11 @@ Spend less on the activity and more on the host. The games themselves are cheap.
 
 ### How much should a company budget for team building per person?
 
-For a game night, rough estimates run $5–$20 per person DIY, $40–$80 hosted, and $75–$200 full service, before food and venue, which is in line with the [$40–$200 per person](https://wearespin.com/how-much-do-corporate-team-building-activities-cost/) typical of facilitated corporate activities. Food is usually the biggest variable.
+For a game night, rough estimates run $5 to $20 per person DIY, $40 to $80 hosted, and $75 to $200 full service, before food and venue, which is in line with the [$40 to $200 per person](https://wearespin.com/how-much-do-corporate-team-building-activities-cost/) typical of facilitated corporate activities. Food is usually the biggest variable.
 
 ### Is a hosted game night cheaper than an escape room?
 
-For groups over about twelve, usually yes, because one host covers two tables while escape rooms cap at six to eight per booking. For small groups, [escape rooms average $30–$40 per person](https://fash.com/costs/escape-room-cost), which overlaps the hosted game night range.
+For groups over about twelve, usually yes, because one host covers two tables while escape rooms cap at six to eight per booking. For small groups, [escape rooms average $30 to $40 per person](https://fash.com/costs/escape-room-cost), which overlaps the hosted game night range.
 
 ### What is the cheapest corporate team building activity?
 

@@ -38,16 +38,16 @@ Ages and player counts are the publishers' (names link to the publisher where on
 
 | Game | Ages | Players | Play time | What you do together |
 |---|---|---|---|---|
-| [Outfoxed!](https://gamewright.com/product/Outfoxed) | 5+ | 2–4 | 20 min | Catch the fox who stole the pie by ruling out suspects. Gentle deduction. |
-| My First Castle Panic | 4+ | 1–4 | 20 min | Match cards to stop monsters reaching the castle. Simple, tense, no reading. |
-| Hoot Owl Hoot! | 4+ | 2–4 | 15 min | Get all the owls home before sunrise. Teaches "which move helps the team." |
-| Race to the Treasure | 5+ | 2–4 | 15 min | Build a path to the treasure before the ogre arrives. |
-| [Forbidden Island](https://gamewright.com/product/Forbidden-Island) | 10+ (8+ with help) | 2–4 | 30 min | Collect four treasures and escape a sinking island. The classic starter co-op. |
-| Castle Panic | 10+ (8+ with help) | 1–6 | 45–60 min | Defend the castle from waves of monsters. Lots of trading cards between players. |
-| The Crew: Mission Deep Sea | 10+ | 2–5 | 20 min | A card game where you win tricks on purpose, together, with almost no talking. |
-| Magic Maze | 8+ | 1–8 | 15 min | Everyone moves the same pieces, in real time, without speaking. Chaotic and hilarious. |
-| [Mysterium](https://www.libellud.com/game/mysterium/) | 10+ | 3–7 | 45 min | One player is a ghost giving picture clues. The rest solve a murder. |
-| [Pandemic](https://www.zmangames.com/game/pandemic/) | 8+ | 2–4 | 45–60 min | Cure four diseases before they spread. The one that started the modern co-op wave. |
+| [Outfoxed!](https://gamewright.com/product/Outfoxed) | 5+ | 2 to 4 | 20 min | Catch the fox who stole the pie by ruling out suspects. Gentle deduction. |
+| My First Castle Panic | 4+ | 1 to 4 | 20 min | Match cards to stop monsters reaching the castle. Simple, tense, no reading. |
+| Hoot Owl Hoot! | 4+ | 2 to 4 | 15 min | Get all the owls home before sunrise. Teaches "which move helps the team." |
+| Race to the Treasure | 5+ | 2 to 4 | 15 min | Build a path to the treasure before the ogre arrives. |
+| [Forbidden Island](https://gamewright.com/product/Forbidden-Island) | 10+ (8+ with help) | 2 to 4 | 30 min | Collect four treasures and escape a sinking island. The classic starter co-op. |
+| Castle Panic | 10+ (8+ with help) | 1 to 6 | 45 to 60 min | Defend the castle from waves of monsters. Lots of trading cards between players. |
+| The Crew: Mission Deep Sea | 10+ | 2 to 5 | 20 min | A card game where you win tricks on purpose, together, with almost no talking. |
+| Magic Maze | 8+ | 1 to 8 | 15 min | Everyone moves the same pieces, in real time, without speaking. Chaotic and hilarious. |
+| [Mysterium](https://www.libellud.com/game/mysterium/) | 10+ | 3 to 7 | 45 min | One player is a ghost giving picture clues. The rest solve a murder. |
+| [Pandemic](https://www.zmangames.com/game/pandemic/) | 8+ | 2 to 4 | 45 to 60 min | Cure four diseases before they spread. The one that started the modern co-op wave. |
 
 For siblings under eight, start with Outfoxed! and My First Castle Panic. For eight to twelve, Forbidden Island and then The Crew. The Crew in particular is special: it forces kids to pay attention to what their sibling needs without being allowed to say it out loud, which is a skill most adults lack. We have a whole piece on [why The Crew is such a good teaching game](/articles/the-crew-card-game/).
 

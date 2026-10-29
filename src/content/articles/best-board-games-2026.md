@@ -34,12 +34,12 @@ To make the standard concrete, here are games from the last few years that passe
 
 | Game | Players | Time | Why it set the bar |
 |---|---|---|---|
-| Cascadia | 1–4 | 30–45 min | Three-minute teach, deep puzzle, no conflict |
-| The Crew | 2–5 | 20 min | Cooperative trick-taking that teaches itself |
-| Sky Team | 2 | 15–20 min | Two players land a plane, barely speaking |
-| Wavelength | 2–12 | 30 min | A party game adults argue about for an hour |
-| Heat: Pedal to the Metal | 1–6 | 45–60 min | Racing with hand management, loud and close |
-| Ark Nova | 1–4 | 90–150 min | A heavy game that still earns the second play |
+| Cascadia | 1 to 4 | 30 to 45 min | Three-minute teach, deep puzzle, no conflict |
+| The Crew | 2 to 5 | 20 min | Cooperative trick-taking that teaches itself |
+| Sky Team | 2 | 15 to 20 min | Two players land a plane, barely speaking |
+| Wavelength | 2 to 12 | 30 min | A party game adults argue about for an hour |
+| Heat: Pedal to the Metal | 1 to 6 | 45 to 60 min | Racing with hand management, loud and close |
+| Ark Nova | 1 to 4 | 90 to 150 min | A heavy game that still earns the second play |
 
 Cascadia is the model for a light game: two actions, a changing scoring puzzle, and it won the Spiel des Jahres for exactly that. <!-- AFFILIATE --> The Crew proved a trick-taking game could be cooperative, and won the 2020 Kennerspiel des Jahres doing it. <!-- AFFILIATE --> Sky Team showed that a two-player cooperative game could create more tension in fifteen minutes than most games manage in two hours. <!-- AFFILIATE -->
 
@@ -53,13 +53,13 @@ A 2026 game does not need to beat these. It needs to belong next to them.
 
 | Game | Players | Time | Why it made the list |
 |---|---|---|---|
-| Dino Racer | 2–6 | 10–20 min | A ten-minute race that gets a whole table shouting |
-| JinxO | 3–7 | 30 min | Word-matching party game, Spiel des Jahres 2026 |
-| Cozy Stickerville | 1–6 | 30–60 min | A legacy game that teaches itself with stickers |
+| Dino Racer | 2 to 6 | 10 to 20 min | A ten-minute race that gets a whole table shouting |
+| JinxO | 3 to 7 | 30 min | Word-matching party game, Spiel des Jahres 2026 |
+| Cozy Stickerville | 1 to 6 | 30 to 60 min | A legacy game that teaches itself with stickers |
 | Flip 7: With a Vengeance | 3+ | 20 min | Push-your-luck with a mean streak |
-| Wingspan Pocket | 1–5 | 25–35 min | Wingspan in a small box and half an hour |
-| The Two Towers Trick-Taking Game | 1–4 | 20 min | Cooperative trick-taking with a story |
-| Duel of Meloch | 1–2 | 45 min | A tight two-player duel in the Scythe world |
+| Wingspan Pocket | 1 to 5 | 25 to 35 min | Wingspan in a small box and half an hour |
+| The Two Towers Trick-Taking Game | 1 to 4 | 20 min | Cooperative trick-taking with a story |
+| Duel of Meloch | 1 to 2 | 45 min | A tight two-player duel in the Scythe world |
 
 ### Dino Racer
 

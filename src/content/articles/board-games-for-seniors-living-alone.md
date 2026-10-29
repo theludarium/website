@@ -36,13 +36,13 @@ These picks are sorted by how much they ask of the player. Start at the top and 
 
 | Game | Players | Time | Why it fits |
 |---|---|---|---|
-| Qwirkle | 2–4 | 30–45 min | Big wooden tiles, match colors and shapes, no reading |
-| Rummikub | 2–4 | 45 min | Familiar rummy logic with chunky tiles |
-| Sequence | 2–12 | 30 min | Cards plus a board, plays with a crowd |
-| Azul | 2–4 | 30–45 min | Beautiful tiles, simple rules, surprising depth |
-| Ticket to Ride | 2–5 | 45–60 min | Collect cards, claim routes, a clear map |
-| Codenames | 4–8 | 15–30 min | Word association, all talking, no components to handle |
-| Wavelength | 2–12 | 30 min | A guessing game that runs on opinions and stories |
+| Qwirkle | 2 to 4 | 30 to 45 min | Big wooden tiles, match colors and shapes, no reading |
+| Rummikub | 2 to 4 | 45 min | Familiar rummy logic with chunky tiles |
+| Sequence | 2 to 12 | 30 min | Cards plus a board, plays with a crowd |
+| Azul | 2 to 4 | 30 to 45 min | Beautiful tiles, simple rules, surprising depth |
+| Ticket to Ride | 2 to 5 | 45 to 60 min | Collect cards, claim routes, a clear map |
+| Codenames | 4 to 8 | 15 to 30 min | Word association, all talking, no components to handle |
+| Wavelength | 2 to 12 | 30 min | A guessing game that runs on opinions and stories |
 
 A few notes on these.
 

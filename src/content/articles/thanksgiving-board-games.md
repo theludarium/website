@@ -28,18 +28,18 @@ Sorted by what the room needs. Player counts and ages are the publishers' (names
 
 | Game | Players | Ages | Play time | Energy | Why it works on the holiday |
 |---|---|---|---|---|---|
-| [Codenames](https://czechgames.com/en/codenames/) (or Pictures) | 4–8+ | 10+ | 15–20 min | Medium | Teams, word clues, scales to twelve with bigger teams. Grandparents are often the best clue-givers. |
-| [Telestrations](https://theop.games/collections/telestrations) | 4–8 (12 with the big box) | 12+ (10+ for the 12-player box; younger kids manage fine) | 30 min | High | Telephone with drawings. Nobody is good at it, everyone laughs. |
-| [Just One](https://www.rprod.com/en/games/just-one) | 3–7 | 8+ | 20 min | Medium | Cooperative word clues. Zero pressure, short rounds, easy to join late. |
-| Wavelength | 2–12 | 10+ | 30 min | Medium | Teams guess where a concept sits on a spectrum. Produces the best arguments of the day. |
-| Rummikub | 2–4 | 8+ | 45 min | Low | The quiet-table game. Grandparents may already know it. |
-| Qwirkle | 2–4 | 6+ | 30–45 min | Low | No reading. Perfect for a grandparent and a young grandchild together. |
-| [Sushi Go Party!](https://gamewright.com/product/Sushi-Go-Party) | 2–8 | 8+ | 20–30 min | Medium | Card drafting for a full table. Quick, cheerful, easy. |
-| Skull King | 2–6 | 8+ | 30 min | Medium | Trick-taking that feels like euchre. Good for the card-playing side of the family. |
-| [Dixit](https://www.libellud.com/game/dixit/) | 3–8 | 8+ | 30 min | Low | Picture clues and storytelling. Kids and grandparents compete evenly. |
-| Happy Salmon | 3–6 (12 with two sets) | 6+ | 2 min | Very high | A two-minute shouting match. Run it before dessert to wake everyone up. |
-| Anomia | 3–6 | 10+ | 20 min | High | Fast category-naming. Loud, fast, funny. |
-| Ticket to Ride | 2–5 | 8+ | 60 min | Low | For the five who want a real game once the crowd thins. |
+| [Codenames](https://czechgames.com/en/codenames/) (or Pictures) | 4 to 8+ | 10+ | 15 to 20 min | Medium | Teams, word clues, scales to twelve with bigger teams. Grandparents are often the best clue-givers. |
+| [Telestrations](https://theop.games/collections/telestrations) | 4 to 8 (12 with the big box) | 12+ (10+ for the 12-player box; younger kids manage fine) | 30 min | High | Telephone with drawings. Nobody is good at it, everyone laughs. |
+| [Just One](https://www.rprod.com/en/games/just-one) | 3 to 7 | 8+ | 20 min | Medium | Cooperative word clues. Zero pressure, short rounds, easy to join late. |
+| Wavelength | 2 to 12 | 10+ | 30 min | Medium | Teams guess where a concept sits on a spectrum. Produces the best arguments of the day. |
+| Rummikub | 2 to 4 | 8+ | 45 min | Low | The quiet-table game. Grandparents may already know it. |
+| Qwirkle | 2 to 4 | 6+ | 30 to 45 min | Low | No reading. Perfect for a grandparent and a young grandchild together. |
+| [Sushi Go Party!](https://gamewright.com/product/Sushi-Go-Party) | 2 to 8 | 8+ | 20 to 30 min | Medium | Card drafting for a full table. Quick, cheerful, easy. |
+| Skull King | 2 to 6 | 8+ | 30 min | Medium | Trick-taking that feels like euchre. Good for the card-playing side of the family. |
+| [Dixit](https://www.libellud.com/game/dixit/) | 3 to 8 | 8+ | 30 min | Low | Picture clues and storytelling. Kids and grandparents compete evenly. |
+| Happy Salmon | 3 to 6 (12 with two sets) | 6+ | 2 min | Very high | A two-minute shouting match. Run it before dessert to wake everyone up. |
+| Anomia | 3 to 6 | 10+ | 20 min | High | Fast category-naming. Loud, fast, funny. |
+| Ticket to Ride | 2 to 5 | 8+ | 60 min | Low | For the five who want a real game once the crowd thins. |
 
 Codenames is the one to own if you own only one. It plays with almost any number, divides naturally into "kids and grandparents versus parents," and a single round takes fifteen minutes.
 

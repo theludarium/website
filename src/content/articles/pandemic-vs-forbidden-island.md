@@ -23,13 +23,13 @@ The family resemblance is obvious once you have played both. Forbidden Island is
 
 | | Pandemic | Forbidden Island |
 |---|---|---|
-| Players | 2–4 | 2–4 |
+| Players | 2 to 4 | 2 to 4 |
 | Time | 45 minutes (often 60 for new groups) | 30 minutes |
 | Ages (box) | 8+ | 10+ |
 | Weight (complexity) | Medium-light | Light |
-| Teach time | 10–12 minutes | 5 minutes |
+| Teach time | 10 to 12 minutes | 5 minutes |
 | Price range | [$49.99 list](https://store.asmodee.com/products/pandemic) at the time of writing | [$26 list](https://www.nobleknight.com/P/2147428909/Forbidden-Island) at the time of writing |
-| Difficulty settings | 4, 5, or 6 Epidemic cards | Starting water level 1–4+ |
+| Difficulty settings | 4, 5, or 6 Epidemic cards | Starting water level 1 to 4+ |
 | Roles | 7 | 6 |
 | What it's best at | A real puzzle adults keep losing and keep replaying | Teaching the idea of co-op fast, to anyone |
 
