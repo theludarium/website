@@ -20,7 +20,7 @@ A quick summary for shared understanding.
 - **Monasteries:** nine points when surrounded by eight tiles; one per tile present at game end.
 - **Farms:** three points per completed city touching the farm, scored only at game end, to the player with the most farmers on that farm.
 
-You have seven meeples. A meeple placed on a road, city, or monastery comes back when that feature is completed. A farmer never comes back. That last rule is the heart of the game.
+You have seven [meeples](/articles/what-is-a-meeple/). A meeple placed on a road, city, or monastery comes back when that feature is completed. A farmer never comes back. That last rule is the heart of the game.
 
 ## When should you place a farmer in Carcassonne?
 

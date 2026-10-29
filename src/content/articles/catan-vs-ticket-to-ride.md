@@ -73,7 +73,7 @@ In Ticket to Ride, luck lives in the card market and the ticket draws. You may w
 
 ## Which one holds up over many plays?
 
-Catan's variable board setup means the island is different each game, and the trading dynamic changes with every group. Twenty plays in, it still feels like Catan but rarely feels solved.
+Catan's [variable board setup](/academy/catan/catan-setup/) means the island is different each game, and the trading dynamic changes with every group. Twenty plays in, it still feels like Catan but rarely feels solved.
 
 Ticket to Ride's base map is fixed. After a dozen games most players know the strong routes and the game becomes more about reading opponents and drawing well. The expansions and alternate maps (Europe, Nordic Countries, and many more) fix this entirely, but that is a second purchase.
 

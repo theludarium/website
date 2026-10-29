@@ -25,7 +25,7 @@ A good mix for a room of forty:
 | Dexterity or quick-fire | 2 | Rhino Hero <!-- AFFILIATE -->, Klask <!-- AFFILIATE -->, Jenga | Standing tables, no commitment |
 | One big-table game | 1 | Werewolf, Two Rooms and a Boom <!-- AFFILIATE --> | A 15-to-20-person event in the second hour |
 
-Nothing on the table should take longer than 45 minutes. Nothing should take more than five minutes to teach. Catan and Wingspan stay home tonight, not because they are bad but because a 90-minute game locks a table and splits the room into people who are in and people who are waiting.
+For more picks that teach fast and scale, see our list of [party games for large groups](/articles/party-games-for-large-groups/). Nothing on the table should take longer than 45 minutes. Nothing should take more than five minutes to teach. Catan and Wingspan stay home tonight, not because they are bad but because a 90-minute game locks a table and splits the room into people who are in and people who are waiting.
 
 ## How should the room be laid out?
 

@@ -1,14 +1,17 @@
 ---
-title: "Best Party Games for Large Groups of 8 or More"
-description: "The best party games for large groups of 8, 10, or 20 people. Twelve picks that scale, with player counts, times, and how to run a big table without chaos."
+title: "Best Party Games for Large Groups of 8 to 20 People"
+description: "Party games for large groups of adults: the best picks for 8, 10, 12, or 20 people, games that need no equipment, and how to host a big table without chaos."
 pubDate: 2026-10-19
+updatedDate: 2026-10-29
 category: Game Guides
 tags: ["party games for large groups", "board games for 8 players", "party games for 10 people", "games for big groups of adults", "large group games", "games for a crowd", "What to play"]
 draft: false
 ---
 Most board games stop at four or five players. That leaves a lot of hosts stuck when ten people show up. The best party games for large groups are built for a crowd: they teach in a minute, run in rounds, and keep everyone involved without waiting twenty minutes for a turn.
 
-This guide covers twelve of them, sorted by how many people they handle, and then explains how to run a big table so it stays fun rather than loud.
+**The quick answer:** for 8 to 12 people, play Codenames or Wavelength in two teams. For 12 to 20, play Monikers or Telestrations with the Party Pack. For 20 or more, play Two Rooms and a Boom, or split into tables. No box at all? Play Fishbowl with paper and a bowl.
+
+This guide covers twelve games, a quick pick for each group size, a few that need no equipment, and how to run a big table so it stays fun rather than loud.
 
 ## What makes a party game work for a large group?
 
@@ -26,18 +29,18 @@ The most common mistake is trying to stretch a four-player game to eight. It is 
 
 | Game | Players | Time | Why it works |
 |---|---|---|---|
-| Codenames | 4–8+ | 15 min | Two teams, any size, one grid of words |
-| Wavelength | 2–12 | 30 min | Debate where a clue lands on a spectrum |
-| Just One | 3–7 (more with house rules) | 20 min | Cooperative clues, big laughs |
-| Telestrations | 4–8 (12 with Party Pack) | 30 min | Telephone meets Pictionary |
-| Monikers | 4–16 | 30–60 min | Celebrity in three escalating rounds |
-| Werewolf / One Night Ultimate Werewolf | 3–10 | 10 min | Hidden roles, accusations, ten-minute rounds |
-| The Resistance / Avalon | 5–10 | 30 min | Secret traitors and team votes |
-| Decrypto | 3–8 | 30 min | Coded messages between two teams |
-| Two Rooms and a Boom | 6–30 | 15 min | Hidden roles across two physical rooms |
-| Wits & Wagers | 3–7 (teams scale higher) | 25 min | Bet on everyone's trivia guesses |
-| Spyfall | 3–8 | 10 min | Find the spy who doesn't know the location |
-| Cards Against Humanity alternatives | 4–20 | varies | See our card game list for better options |
+| Codenames | 4 to 8+ | 15 min | Two teams, any size, one grid of words |
+| Wavelength | 2 to 12 | 30 min | Debate where a clue lands on a spectrum |
+| Just One | 3 to 7 (more with house rules) | 20 min | Cooperative clues, big laughs |
+| Telestrations | 4 to 8 (12 with Party Pack) | 30 min | Telephone meets Pictionary |
+| Monikers | 4 to 16 | 30 to 60 min | Celebrity in three escalating rounds |
+| Werewolf / One Night Ultimate Werewolf | 3 to 10 | 10 min | Hidden roles, accusations, ten-minute rounds |
+| The Resistance / Avalon | 5 to 10 | 30 min | Secret traitors and team votes |
+| Decrypto | 3 to 8 | 30 min | Coded messages between two teams |
+| Two Rooms and a Boom | 6 to 30 | 15 min | Hidden roles across two physical rooms |
+| Wits & Wagers | 3 to 7 (teams scale higher) | 25 min | Bet on everyone's trivia guesses |
+| Spyfall | 3 to 8 | 10 min | Find the spy who doesn't know the location |
+| Cards Against Humanity alternatives | 4 to 20 | varies | See our card game list for better options |
 
 ### Codenames
 
@@ -85,6 +88,27 @@ Everyone gets the same location card except the spy, who gets nothing. <!-- AFFI
 
 *If this is useful, the newsletter sends more like it.*
 
+## What is the best game for your group size?
+
+The table above covers the range. Here is the short pick for the headcount you actually have.
+
+**8 people.** Codenames in two teams of four, or Decrypto. Both are built for exactly this size. Spyfall and Just One also hit their best at eight.
+
+**10 people.** Wavelength or The Resistance. The Resistance tops out at ten, and ten is when it is at its best: more suspects, more arguing. One Night Ultimate Werewolf also plays ten in a single box.
+
+**12 people.** Telestrations with the 12-player Party Pack, or Wavelength, which is rated up to twelve. Codenames works too if you split into three teams of four and rotate.
+
+**20 people or more.** Two Rooms and a Boom is the one game here that wants a crowd that big. Otherwise, play Monikers or Wits & Wagers in teams, or split into two or three tables and swap games every few rounds.
+
+## Games for large groups with no equipment
+
+Sometimes the box is at home. These need paper, a pen, or nothing at all, and they all scale past ten.
+
+- **Fishbowl** (also called Celebrity). Everyone writes three names on slips and drops them in a bowl. Two teams play three rounds with the same slips: describe freely, then one word only, then charades. Monikers is the boxed version of this game.
+- **Mafia.** The ancestor of Werewolf. A moderator hands out secret roles on slips of paper or playing cards, and the town tries to find the mafia before it is too late.
+- **Contact.** One player thinks of a word and reveals the first letter. Everyone else gives clues for other words that start the same way. When two players solve the same clue on a count of three, the word-keeper has to reveal the next letter.
+- **Charades.** Still works, and it gets better with a timer and two teams keeping score.
+
 ## How do you run a game for ten people without chaos?
 
 Game choice is half the job. The rest is hosting.
@@ -95,7 +119,7 @@ Game choice is half the job. The rest is hosting.
 4. Run short rounds and announce a stopping point. "Three rounds, then we switch" keeps energy up.
 5. Split into two tables when the group passes twelve. Two games of six beat one game of twelve.
 
-For room setup, seating, and sound at a big table, see [game room setup](/articles/game-room-setup/). The short version is that everyone needs to see the clue-giver and hear each other, and that rules out most kitchens.
+For room setup, seating, and sound at a big table, see [game room setup](/articles/game-room-setup/). The short version is that everyone needs to see the clue-giver and hear each other, and that rules out most kitchens. Hosting thirty or forty? Our plan for a [large group game night](/articles/large-group-game-night/) covers tables, staff, and a schedule.
 
 ## Which party games should you avoid with a big crowd?
 
@@ -117,6 +141,10 @@ Codenames or Wavelength. Both split into teams of any size, teach in under two m
 ### What party games work for 20 or more people?
 
 Two Rooms and a Boom handles up to thirty. For other games, split into two or three tables and rotate every few rounds.
+
+### What games can 8 people play with no equipment?
+
+Fishbowl, Mafia, and Contact. Fishbowl needs only paper and a bowl, Mafia needs slips of paper or a deck of cards, and Contact needs nothing but words.
 
 ### Do party games for large groups need a moderator?
 
