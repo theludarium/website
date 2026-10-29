@@ -6,8 +6,9 @@ import ArticleCard from '@/components/ArticleCard.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
 import PreviewNote from '@/components/PreviewNote.astro';
 import TableOfContents from '@/components/TableOfContents.astro';
-import { KIT_OFFER_FORMS } from '@/lib/config';
+import { KIT_LETTERS_FORMS, KIT_OFFER_FORMS } from '@/lib/config';
 import {
+  categoryByName,
   categoryUrl,
   formatDate,
   getArticles,
@@ -38,6 +39,10 @@ const { title, seoTitle, description, pubDate, updatedDate, category, tags, hero
   article.data;
 // A newsletter offer (see KIT_OFFER_FORMS) replaces the generic end-of-article signup copy and form.
 const offer = offerKey ? { key: offerKey, ...KIT_OFFER_FORMS[offerKey] } : undefined;
+// Otherwise the signup joins the article's Ludarium Letter: its own `letters`
+// frontmatter, else its category's letter, else the general letter.
+const lettersKey = article.data.letters ?? categoryByName(category).letters ?? 'general';
+const letter = KIT_LETTERS_FORMS[lettersKey];
 const { Content, headings } = await render(article);
 
 const minutes = readingMinutes(article);
@@ -163,8 +168,8 @@ const structuredData = [
             ) : (
               <>
                 <h2 id="article-signup-title">Get the next one in your inbox.</h2>
-                <p>Free guides, game picks, and hosting ideas from The Ludarium.</p>
-                <NewsletterForm id="article-signup" />
+                <p>{letter.lede}</p>
+                <NewsletterForm id="article-signup" letters={lettersKey} />
               </>
             )
           }

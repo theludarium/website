@@ -3,7 +3,7 @@ import { glob } from 'astro/loaders';
 import { z } from 'astro/zod';
 import { CATEGORIES } from '@/lib/site';
 import { LEVEL_NAMES } from '@/lib/academy-levels';
-import { KIT_OFFER_KEYS } from '@/lib/config';
+import { KIT_OFFER_KEYS, LETTERS_KEYS } from '@/lib/config';
 import { GUILD_TOOL_SLUGS } from '@/lib/guild-tools';
 
 const categoryNames = CATEGORIES.map((c) => c.name) as [string, ...string[]];
@@ -38,6 +38,9 @@ const articles = defineCollection({
         // Optional newsletter offer (a key of KIT_OFFER_FORMS in src/lib/config.ts):
         // swaps the end-of-article signup for that offer's copy and Kit form.
         offer: z.enum(KIT_OFFER_KEYS).optional(),
+        // Optional Ludarium Letter for the end-of-article signup (a key of
+        // KIT_LETTERS_FORMS). Unset means the category's letter, or general.
+        letters: z.enum(LETTERS_KEYS).optional(),
         // Optional shorter title for the browser tab and search results (the site
         // name is appended, so aim for 55 characters or fewer). The H1 stays `title`.
         seoTitle: z.string().max(60).optional(),

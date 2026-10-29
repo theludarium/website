@@ -64,6 +64,27 @@ In **Automate > Sequences**, create a sequence **Welcome**, paste the welcome em
 
 Paste the two `action` addresses into the chat. Claude puts them in `src/lib/config.ts`, builds a preview, and tests a real signup with you. Nothing goes live until you approve the merge.
 
+## Ludarium Letters: four newsletters, four forms (2026-10-28)
+
+Ludarium Letters is four newsletters, each a weekly broadcast on its own day to its own Kit segment, so a reader only gets the letters they asked for. Course signups (the Academy forms) never join a letter.
+
+| Letter | Kit form | Tag | Segment | Send day |
+| --- | --- | --- | --- | --- |
+| Ludarium Letters - General | 10079099 (the original newsletter form, renamed) | `LL: General` | LL - General | Friday |
+| Ludarium Letters - Cube | 10111145 | `LL: Cube` | LL - Cube | Wednesday |
+| Ludarium Letters - Industry | 10111152 | `LL: Industry` | LL - Industry | Thursday |
+| Ludarium Letters - Tabletop | 10111160 | `LL: Tabletop` | LL - Tabletop | Tuesday |
+
+All four forms are inline (Clare template; the site uses its own design), with **Send confirmation email** on (double opt-in), success redirect `https://theludarium.com/newsletter/thanks/`, and after-confirmation redirect `https://theludarium.com/newsletter/confirmed/`. The tags and the segments (each one filter: has that tag) already exist in Kit.
+
+On the site, `KIT_LETTERS_FORMS` in `src/lib/config.ts` holds the four form addresses. `NewsletterForm.astro` takes `letters="cube"` (or `tabletop`, `industry`); with nothing passed it joins General. `/newsletter/` has the General form in its hero and a card with a form for each letter below it (anchors `#general`, `#cube`, `#tabletop`, `#industry`). Article pages pick the letter from the category (`letters` on each entry in `src/lib/site.ts`: Magic & Cube joins Cube; Game Guides, Game Shelf and Game Design join Tabletop; the rest join General), and an article can override that with `letters:` in its frontmatter.
+
+Still to do in Kit, one per letter:
+
+1. **Automate > Rules**: trigger **Subscribes to a form: Ludarium Letters - Cube**, actions **Add tag: `LL: Cube`** and **Subscribe to sequence: Welcome - Cube** (once that sequence exists). Same for General, Tabletop and Industry. A Visual Automation with the form as its entry point does the same job.
+2. **Automate > Sequences**: a three-email welcome sequence per letter, written in `letters-welcome-emails.md` with the Kit settings for each. The General one is the existing "Welcome" sequence (2939465), renamed and extended. Publish each email and set the sequence to Active, or nothing sends.
+3. Send each weekly broadcast to its segment only, never to All subscribers.
+
 ## Later
 
 - **Malaphors form: done 2026-10-22.** Form 10080181 "Malaphor submissions" (fields `last_name`, `malaphor`, `parents`, `context`; rule tags `malaphors`; success redirect `/malaphors/thanks/`, after confirmation `/malaphors/confirmed/`).

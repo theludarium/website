@@ -1,21 +1,56 @@
 ---
 // Landing page: follows the landing page rules in CLAUDE.md.
-// One outcome, one action, three objections, legal links. Nothing else.
+// One outcome and one action above the fold (the General letter), then the
+// four letters with a form each (the welcome emails link to #cube and friends),
+// three objections, legal links. Nothing else.
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
 import PreviewNote from '@/components/PreviewNote.astro';
-import { KIT_NEWSLETTER_FORM } from '@/lib/config';
+import { KIT_NEWSLETTER_FORM, type LettersKey } from '@/lib/config';
 import { MARK_PATH, MARK_VIEWBOX } from '@/lib/brand';
+
+// The four Ludarium Letters. Send days are also named in the welcome emails
+// (docs/newsletter/letters-welcome-emails.md); change both together.
+const LETTERS: { key: LettersKey; title: string; day: string; blurb: string }[] = [
+  {
+    key: 'general',
+    title: 'The General letter',
+    day: 'Friday',
+    blurb:
+      'The big picture. One idea about playing together, one game and who it is for, the best of what we published, and the week\'s highlights from the other three letters.',
+  },
+  {
+    key: 'tabletop',
+    title: 'The Tabletop letter',
+    day: 'Tuesday',
+    blurb:
+      'The games themselves. One game worth trying and who it is for, one hosting or teaching idea, the newest guides, and new free Academy lessons.',
+  },
+  {
+    key: 'cube',
+    title: 'The Cube letter',
+    day: 'Wednesday',
+    blurb:
+      'Magic Cube, every week. What\'s new from us, one Cube or creator worth your attention, what moved in the Cube world, and Cube Commonwealth news.',
+  },
+  {
+    key: 'industry',
+    title: 'The Industry letter',
+    day: 'Thursday',
+    blurb:
+      'The business of tabletop. The week\'s news and what it means, one number worth knowing, one company or creator doing something smart, and open jobs when we find them.',
+  },
+];
 ---
 
 <BaseLayout
-  title="The Newsletter"
-  description="Join The Ludarium newsletter for tabletop game picks, game night hosting ideas, new guides, and first word on our Indianapolis game lounge. Free."
+  title="Ludarium Letters"
+  description="Ludarium Letters: four weekly emails on tabletop games, Magic Cube, and the tabletop industry, plus the big-picture General letter. Pick what you want. Free."
 >
   <section class="nl-hero">
     <div class="container nl-hero__grid">
       <div class="nl-hero__copy">
-        <p class="eyebrow">The Ludarium newsletter</p>
+        <p class="eyebrow">Ludarium Letters</p>
         <h1>Never wonder what to play again.</h1>
         <p class="nl-hero__sub">
           Game picks, game night ideas, and quick guides, sent to your inbox. Free, with first word on
@@ -24,6 +59,10 @@ import { MARK_PATH, MARK_VIEWBOX } from '@/lib/brand';
         <NewsletterForm id="newsletter-page" />
         <p class="nl-hero__why">
           Every issue: one game worth trying, one idea for your next night, and the newest guides.
+        </p>
+        <p class="nl-hero__why">
+          This is the General letter, every Friday. Want just Cube, tabletop games, or the industry?
+          <a href="#letters">Pick your letters below.</a>
         </p>
         {
           !KIT_NEWSLETTER_FORM.action && (
@@ -61,13 +100,34 @@ import { MARK_PATH, MARK_VIEWBOX } from '@/lib/brand';
     </div>
   </section>
 
+  <section class="section nl-letters" id="letters" aria-labelledby="nl-letters-title">
+    <div class="container">
+      <div class="section-head">
+        <h2 id="nl-letters-title">Four letters. Pick yours.</h2>
+        <p>Each one is its own weekly email. Sign up for one or all four, and you only get what you pick.</p>
+      </div>
+      <ul class="nl-letters__list">
+        {
+          LETTERS.map((letter) => (
+            <li class="nl-letter" id={letter.key}>
+              <p class="eyebrow">Every {letter.day}</p>
+              <h3>{letter.title}</h3>
+              <p>{letter.blurb}</p>
+              <NewsletterForm id={`letter-${letter.key}`} letters={letter.key} note="Free. Unsubscribe anytime." />
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+  </section>
+
   <section class="section nl-faq" aria-labelledby="nl-faq-title">
     <div class="container">
       <h2 id="nl-faq-title" class="visually-hidden">Common questions</h2>
       <ul class="nl-faq__list">
         <li>
           <h3>Will you fill my inbox?</h3>
-          <p>No. Short issues, only when we have something worth your time. Unsubscribe in one click, anytime.</p>
+          <p>No. Each letter is one short email a week, and you only get the letters you picked. Unsubscribe in one click, anytime.</p>
         </li>
         <li>
           <h3>I am new to board games. Is this for me?</h3>
@@ -215,6 +275,42 @@ import { MARK_PATH, MARK_VIEWBOX } from '@/lib/brand';
     font-size: var(--text-xs);
     color: var(--color-text-muted);
     text-align: center;
+  }
+
+  .nl-letters {
+    padding-top: var(--space-6);
+  }
+
+  .nl-letters__list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 20rem), 1fr));
+    gap: var(--space-5);
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .nl-letter {
+    padding: var(--space-5);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-card);
+    background: var(--color-surface);
+    /* Room for the sticky header when a welcome email links to #cube and friends. */
+    scroll-margin-top: 6rem;
+  }
+
+  .nl-letter .eyebrow {
+    margin: 0;
+  }
+
+  .nl-letter h3 {
+    margin: var(--space-2) 0;
+    font-size: var(--text-lg);
+  }
+
+  .nl-letter p:not(.eyebrow) {
+    margin: 0 0 var(--space-4);
+    color: var(--color-text-muted);
   }
 
   .nl-faq {

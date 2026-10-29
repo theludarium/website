@@ -24,6 +24,8 @@ Button text in Kit: **Yes, send me game night ideas**. The button's destination 
 
 ## Welcome email (Welcome sequence, email 1, sent right after confirming)
 
+Superseded 2026-10-28: the General letter's welcome is now a three-email sequence in `letters-welcome-emails.md`, alongside the Cube, Tabletop and Industry welcomes. Its email 1 is this email with one new section. Kept here for the record.
+
 **Subject:** Welcome to the table
 
 **Preview text:** What to read first, what to play tonight, and what we're building in Indianapolis.
