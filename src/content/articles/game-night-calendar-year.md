@@ -67,7 +67,7 @@ Holiday weekends mean half the group is away and the other half has visiting rel
 
 ### August: Gen Con Debrief
 
-Gen Con runs in Indianapolis in late July or early August ([August 5 to 8 in 2027](https://www.gencon.com/)), and whether your group goes or not, August is when the new releases land and the people who went come back with stories. Everyone who attended brings one new game and teaches it. Everyone who did not gets to play things that are only weeks old. If your group is anywhere near Indiana, this is the month to plan a trip around.
+Gen Con runs in Indianapolis in late July or early August ([August 5 to 8 in 2027](https://www.gencon.com/)), and whether your group goes or not, August is when the [new releases](/articles/best-board-games-2026/) land and the people who went come back with stories. Everyone who attended brings one new game and teaches it. Everyone who did not gets to play things that are only weeks old. If your group is anywhere near Indiana, this is the month to plan a trip around.
 
 ### September: League Kickoff
 

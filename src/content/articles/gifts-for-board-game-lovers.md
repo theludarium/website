@@ -18,7 +18,7 @@ Three reasons, from experience on both sides of the wrapping paper.
 2. **Taste.** Gamers have strong, specific preferences. They may dislike exactly the kind of game you picked, and they will be polite about it, which is worse.
 3. **Backlog.** Most collectors have a shelf of unplayed games already. Another box adds guilt, not joy.
 
-The exceptions are a game they have specifically named, or a brand-new release they have not had time to buy. If you have either, go ahead. Otherwise, read on.
+The exceptions are a game they have specifically named, or a [brand-new release](/articles/best-board-games-2026/) they have not had time to buy. If you have either, go ahead. Otherwise, read on.
 
 ## What do gamers never buy for themselves?
 

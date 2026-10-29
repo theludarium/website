@@ -59,7 +59,7 @@ Because you can only trade on your turn and you often lack the one resource you 
 
 Ticket to Ride is quieter. Most turns are a card draw. The interaction is indirect: someone claims a route you needed and you reroute without a word. It suits a group that wants to play alongside each other, chat about other things, and not negotiate.
 
-If you are picking a game for a family that bickers, Ticket to Ride's low-friction design is a feature. If you are picking for a group of friends who love to argue in good humor, Catan feeds that.
+If you are picking a game for a family that bickers, Ticket to Ride's low-friction design is a feature. If you are picking for a group of friends who love to argue in good humor, Catan feeds that. Both make our list of the [best family board games](/articles/best-family-board-games/).
 
 *If this is useful, the newsletter sends more comparisons like it.*
 
@@ -83,7 +83,7 @@ Both have deep expansion lines. Both will keep a casual group happy for years. I
 
 Ticket to Ride's box says 8 and up and that is honest. A seven-year-old who can count and match colors can play with light help. The strategy of tickets is the only tricky part.
 
-Catan's 10-and-up is also honest. Younger kids can roll and build, but the trading and the decision of where to place settlements are beyond most of them, and a child who gets robbed repeatedly can have a rough night. For a family with younger children, [the Catan Junior and Ticket to Ride: First Journey versions](/articles/board-games-for-teenagers-gift/) exist for this reason, but between the two adult games, Ticket to Ride is the kid-friendly one.
+Catan's 10-and-up is also honest. Younger kids can roll and build, but the trading and the decision of where to place settlements are beyond most of them, and a child who gets robbed repeatedly can have a rough night. For a family with younger children, [the Catan Junior and Ticket to Ride: First Journey versions](/articles/board-games-for-5-year-olds/#what-are-good-board-games-for-5-to-7-year-olds) exist for this reason, but between the two adult games, Ticket to Ride is the kid-friendly one.
 
 ## Verdict: which should you buy?
 

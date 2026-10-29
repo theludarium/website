@@ -1,12 +1,15 @@
 ---
-title: "Best Board Games of 2026 So Far: Our Running Picks"
-description: "The best board games of 2026 so far, judged on teach time, table feel, and replay. How we choose, what the bar is, and which new releases have cleared it."
+title: "Best Board Games of 2026 for Families and Adults"
+description: "The best board games of 2026 so far, sorted by who is playing: families, adults, kids, party crowds, and couples. Seven new releases and how we judge them."
 pubDate: 2026-10-22
+updatedDate: 2026-10-29
 category: Game Guides
 tags: ["best board games 2026", "new board games 2026", "top board games this year", "best new board games", "board game releases 2026", "board games worth buying 2026", "What to play"]
 draft: false
 ---
 A list of the best board games of 2026 should answer one question: which new releases are worth a place on a table that already has Codenames, Wingspan, and Ticket to Ride on it? The bar is high. Hundreds of games come out every year, and most of them are fine. A handful change what a game night looks like.
+
+**The quick answer:** Cozy Stickerville for families, JinxO for a party of adults, Dino Racer for a mixed table that wants ten loud minutes, and Duel of Meloch for two players who want strategy.
 
 This is a running list. We update it as the year goes on and as our own plays pile up. Before the picks, here is how we judge, so you can argue with us.
 
@@ -88,6 +91,22 @@ A 2026 game does not need to beat these. It needs to belong next to them.
 ### Duel of Meloch
 
 [Duel of Meloch](https://stonemaiergames.com/games/duel-of-meloch/) <!-- AFFILIATE --> is Jamey Stegmaier's standalone two-player game in the Scythe world, released in August: five-minute setup, a small map, a race to four stars. The heaviest game here and the one that most clearly earned the second play, tense and short enough to run back. For couples who have worn out Sky Team.
+
+## Which 2026 board game is best for your table?
+
+The same seven games, sorted by who is playing.
+
+**Families.** Cozy Stickerville is the family pick of the year: cooperative, a campaign you build together, and the rules arrive as you play. Dino Racer is the quick one to open the evening. For proven family games that are not new this year, see our [best family board games](/articles/best-family-board-games/).
+
+**Adults.** JinxO for a group that likes words and arguing about answers. Flip 7: With a Vengeance for a group that likes to take points away from each other.
+
+**Kids.** Dino Racer. Short, loud, and simple enough for younger players. For the youngest, our [board games for 5-year-olds](/articles/board-games-for-5-year-olds/) has picks built for that age.
+
+**Party crowds.** JinxO plays up to seven and Dino Racer up to six. For bigger groups, see our [party games for large groups](/articles/party-games-for-large-groups/).
+
+**Strategy.** Duel of Meloch, the heaviest game on the list.
+
+**Two players.** Duel of Meloch for a head-to-head fight. The Two Towers Trick-Taking Game if you would rather work together, or Wingspan Pocket for a calm half hour.
 
 ## Which 2026 trends are we seeing at the table?
 
