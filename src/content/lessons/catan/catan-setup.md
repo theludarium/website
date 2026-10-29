@@ -184,14 +184,17 @@ The letter spiral matters. It spreads the numbers out so the high-rolling 6s and
 
 Every number disc has a letter from A to R on its back. Laid out in letter order, the numbers come out like this:
 
-| Letter | Number | Letter | Number | Letter | Number |
-| --- | --- | --- | --- | --- | --- |
-| A | 5 | G | 9 | M | 9 |
-| B | 2 | H | 12 | N | 4 |
-| C | 6 | I | 11 | O | 5 |
-| D | 3 | J | 4 | P | 6 |
-| E | 8 | K | 8 | Q | 3 |
-| F | 10 | L | 10 | R | 11 |
+| Letter | Number | Letter | Number |
+| --- | --- | --- | --- |
+| A | 5 | J | 4 |
+| B | 2 | K | 8 |
+| C | 6 | L | 10 |
+| D | 3 | M | 9 |
+| E | 8 | N | 4 |
+| F | 10 | O | 5 |
+| G | 9 | P | 6 |
+| H | 12 | Q | 3 |
+| I | 11 | R | 11 |
 
 Put A on a corner hex of the outer ring. Go counterclockwise around the outer ring with B through L, then continue around the inner ring with M through R, and finish in the center. When the spiral reaches the desert, skip it and give that letter to the next hex. If the letters on your discs ever disagree with this table, trust the discs.
 
