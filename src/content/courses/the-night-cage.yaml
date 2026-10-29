@@ -1,0 +1,88 @@
+title: "Candles in the Dark"
+game: "The Night Cage"
+format: full
+order: 245
+wave: "5"
+draft: false
+publisher: "Smirk & Dagger Games"
+# VERIFY: Smirk & Dagger has no published fan-content policy; confirm the trademark owner and notice wording with the publisher (Curt Covert).
+notice: "Unofficial. Not affiliated with Smirk & Dagger Games or Smirk & Laughter Games. The Night Cage is a trademark of Smirk & Dagger Games."
+rulesEdition: "The Night Cage official rules on Dized, maintained by the publisher, with the official FAQ"
+rulesSource: "https://rules.dized.com/game/q9XiaNOwTECchKRb8oszag/the-night-cage"
+players: "1 to 5"
+playTime: "About 50 minutes"
+ages: "Ages 14 and up"
+promise: "Learn The Night Cage, teach it in ten minutes, then make every tile of candlelight count: dodge the Wax Eaters, keep your Keys, spend Nerve well, and escape before Final Flickers."
+description: "A free The Night Cage course: learn the rules, teach them in ten minutes, then master light, Wax Eaters, Keys, Nerve, Final Flickers, and the advanced game."
+audience:
+  - "Hosts who want a short, spooky co-op for a table of four."
+  - "Groups that keep losing to the dark and want a plan for the Draw Stack."
+  - "Solo players running all four Prisoners who want to lose less often."
+  - "Anyone who has watched a Wax Eater wipe out half the table in one move."
+levels:
+  - level: 0
+    name: "Spark"
+    label: "Learn to play"
+    outcome: "Set up, teach, and play a full game of The Night Cage at any player count without opening the rulebook."
+  - level: 1
+    name: "Candle"
+    label: "Beginner"
+    outcome: "Avoid the rules slips that sink new groups, treat every tile as wax, and read a Wax Eater's line of sight before you move."
+  - level: 2
+    name: "Lantern"
+    label: "Intermediate"
+    outcome: "Use Pits and falling on purpose, protect and pass Keys, spend Nerve at the right moment, and recover fast from Lights Out."
+  - level: 3
+    name: "Beacon"
+    label: "Expert"
+    outcome: "Plan a clean escape through Final Flickers, beat the Advanced game and the Boss Monsters, and run The Night Cage at every count, solo included."
+afterLesson3: "Teach and play a full game of The Night Cage by the rules, without the crumbling, Staying, and Key mistakes that sink new groups."
+afterLesson8: "Treat the Draw Stack as your clock, read every Wax Eater's reach, use Pits and Keys on purpose, and decide when to Stay and spend Nerve."
+faq:
+  - q: "How do you win The Night Cage?"
+    a: "Every Prisoner must collect a Key, then all of you must gather on the same Gate tile at the same time, each holding a Key. Gate tiles are the only tiles that can hold more than one Prisoner."
+  - q: "How do you lose The Night Cage?"
+    a: "You lose if all four Gate tiles are lost, if the Prisoners cannot each collect a Key, or if the darkness cuts someone off before everyone reaches a Gate with their Key. A Prisoner who is falling with no tiles left to land on also ends the game in a loss."
+  - q: "How many players can play The Night Cage?"
+    a: "One to five. There are always four Prisoners in a 1 to 4 player game: one player runs all four, two players run two each, and three players share the fourth. A five-player game uses five Prisoners and the 7x7 side of the board."
+  - q: "What happens when you go Lights Out in The Night Cage?"
+    a: "Your candle goes out. You only see the tile you stand on, you must Move every turn unless you spend a Nerve to Stay, and you draw a tile only for the space you move into. You are relit as soon as you are next to a lit Prisoner through a connected Passage."
+  - q: "What is Nerve in The Night Cage?"
+    a: "Nerve is a token you can spend to bend the rules: Move Again, Stay while Lights Out, Block an attack to discard 2 tiles instead of 3, Charge onto a Monster, or Sustain during Final Flickers. You start with one, gain one each time you Stay, and can hold two."
+  - q: "What is Final Flickers in The Night Cage?"
+    a: "The endgame. It starts at the end of the turn in which the last tile is drawn from the Draw Stack. No new tiles come in, and after every Prisoner's turn you must also remove one more lit tile from anywhere on the board unless that Prisoner spends Nerve to Sustain."
+teachSheet:
+  goal: "Everyone collects a Key, then all Prisoners gather on one Gate tile together to escape."
+  setup:
+    - "Remove the advanced tiles. Keep 6 Keys and 12 Wax Eaters (5 players: 7 Keys, 10 Wax Eaters)."
+    - "Use the 6x6 board side (7x7 for 5 players). Key and Nerve tokens go on their corners."
+    - "Each Prisoner gets a status card, a candle token, a Start tile, and 1 Nerve."
+    - "Set aside 4 T, 2 four-way, 2 straight Passages (5, 3, 2 for 5 players). Shuffle them."
+    - "Shuffle the rest Pit side up into the Tile Holder. Put the set-aside stack on top."
+    - "The host goes first; play goes clockwise. First turn: place your Start tile on any empty, unlit space."
+  turn:
+    - "Stay or Move. Stay: discard 1 Draw Stack tile; gain 1 Nerve at the end of your turn."
+    - "Move: go 1 space along a connected Passage. Only Gates hold more than one Prisoner."
+    - "Staying draws a Monster? It must replace a tile connected to you instead of being discarded."
+    - "You light one space around, no diagonals: fill newly lit Passages, discard tiles nobody lights."
+    - "Crumbling tiles (cracked edges) become Pits on your next turn after stepping on them. Stay and you Fall."
+    - "Falling: next turn, land on a fresh tile in an empty, unlit space in the Pit's row or column."
+    - "Move or Fall in a Wax Eater's straight line and it attacks every Prisoner still in that line."
+    - "Spend Nerve to Move Again, Block, Charge, Sustain, or Stay while Lights Out."
+  scoring:
+    - "Step onto a Key tile: take a Key token. One Key per Prisoner. Adjacent connected Prisoners may pass Keys."
+    - "Hit by a Monster: discard 3 tiles from the Draw Stack and go Lights Out."
+    - "Lights Out: see only your tile, Move every turn, relight when a Passage connects you to a lit Prisoner."
+    - "Win: every Prisoner on the same Gate at once, each holding a Key."
+  endGame: "When the Draw Stack runs out, Final Flickers begins: after every turn, remove one more lit tile from the board unless Nerve is spent to Sustain. Escape before the dark isolates anyone, or you lose together."
+  tips:
+    - "Every tile is wax. Move where you light the fewest new Passages you do not need."
+    - "Before you Move, trace each Wax Eater's straight lines, including around the edges."
+    - "Grab a Key the moment it appears; Key tiles crumble once you walk through."
+diagramAlt: "The Night Cage after the first round of a four-player game: a 6x6 board with four Start tiles, each with a candle-shaped Prisoner token and the Passages its two exits light, the Tile Holder with the Draw Stack, the discard board, the Key and Nerve tokens on the corners, and a key to Passage, Crumbling, Key, Gate, and Wax Eater tiles."
+related:
+  - "best-cooperative-board-games"
+  - "quarterback-problem-cooperative-games"
+  - "co-op-games-without-quarterback-problem"
+  - "cooperative-games-teamwork"
+  - "theme-vs-mechanics"
