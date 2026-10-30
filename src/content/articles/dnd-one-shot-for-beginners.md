@@ -16,7 +16,7 @@ The term comes from the contrast with a campaign. A campaign is an ongoing story
 
 Think of it as the short film to the campaign's television series. The characters are often pre-made. The plot is tight: a problem is presented in the first ten minutes, the group works on it, there is a climax, and it resolves. Nobody needs to remember anything next week because there is no next week, unless everyone wants one.
 
-Experienced groups run one-shots too, as palate cleansers between campaigns, when a regular player is away, or to test a new system. But the format was made for first-timers. It answers the question "what is this like?" without asking for anything beyond an evening.
+Experienced groups run one-shots too, as palate cleansers between campaigns, when a regular player is away, or to test a new system, such as one of these [easy tabletop RPGs for beginners](/articles/easy-tabletop-rpgs-for-beginners/). But the format was made for first-timers. It answers the question "what is this like?" without asking for anything beyond an evening.
 
 ## Why is a one-shot the right first RPG?
 
