@@ -482,3 +482,10 @@ Levi's call: keep collecting emails, but stop sending automated emails to the pe
 - **Published all at once, not one per holiday.** Google needs a few weeks to rank new pages, so the Christmas and New Year's pieces need to be live by early November anyway.
 - **Mancala is written about the game**, with its African roots sourced, and says plainly it is not a Kwanzaa tradition. The dreidel and Hanukkah pieces explain the game and cite Jewish educational sources rather than speaking for the holiday.
 - **Prices are dated "at the time of writing"** and linked, mostly to publisher stores or US price trackers, because Walmart, Target, and Amazon pages blocked automated checks. Recheck prices before Black Friday.
+
+## 2026-10-30: Amazon affiliate links, trial on one article
+
+- **Trial on `/articles/best-board-game-gifts-for-kids-by-age/`**: each of the 11 games links to Amazon through the `AffiliateLink` component (`rel="sponsored noopener"`, new tab, click counted), with `AffiliateNotice` near the top. The article moved from `.md` to `.mdx` to use the components.
+- **Links are SiteStripe short links** (`link.amazon/...`) made in Levi's Associates account, tracking ID `cubecommonw0a-20`. Each was checked to land on the right product, on a listing from the publisher or sold by Amazon.
+- **No Amazon prices on the page.** Amazon's operating agreement does not allow showing Amazon prices that are not pulled live from its API, so price lines cite Board Game Oracle and other retailers only.
+- **Disclosure:** the Amazon Associates statement is on `/affiliate-disclosure/` and in the article notice. If the trial works, roll out to the other gift guides by replacing their `<!-- AFFILIATE -->` markers the same way.
