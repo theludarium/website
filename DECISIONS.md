@@ -489,3 +489,10 @@ Levi's call: keep collecting emails, but stop sending automated emails to the pe
 - **Links are SiteStripe short links** (`link.amazon/...`) made in Levi's Associates account, tracking ID `cubecommonw0a-20`. Each was checked to land on the right product, on a listing from the publisher or sold by Amazon.
 - **No Amazon prices on the page.** Amazon's operating agreement does not allow showing Amazon prices that are not pulled live from its API, so price lines cite Board Game Oracle and other retailers only.
 - **Disclosure:** the Amazon Associates statement is on `/affiliate-disclosure/` and in the article notice. If the trial works, roll out to the other gift guides by replacing their `<!-- AFFILIATE -->` markers the same way.
+
+## 2026-10-30: Amazon links on the gift guides, and only Amazon
+
+- **Levi's rule: gift guides link games to Amazon and to no other store.** No links to publisher stores, publisher product pages, other retailers, or price sites such as Board Game Oracle. News sources that report prices (Wargamer, Tom's Guide) stay as citations. Prices stay as plain "about $X at the time of writing", never cited to Amazon.
+- **Rolled out to seven guides:** Black Friday deals, under $30, under $50, stocking stuffers, last-minute, gifts for dad, and new players 2026, each moved to `.mdx` with `AffiliateNotice` near the top.
+- **Tagged links instead of SiteStripe for most games.** SiteStripe kept tripping Amazon's "I am human" check, so most links are standard tagged product links, `https://www.amazon.com/dp/<ASIN>?tag=cubecommonw0a-20`, which credit the account the same way. The SiteStripe short links already made stay. Each product ID was checked for the right title and in stock on 2026-10-30.
+- **The link class is `game-link`, not `affiliate-link`.** Ad blockers hide anything with class `affiliate-link`, which blanked the game names for readers using one.
