@@ -58,7 +58,7 @@ For a collector, the scarce resource is not games. It is time at the table with 
 
 ## What about the small, cheap, and right?
 
-If the budget is a stocking or a desk drop, these work.
+If the budget is a stocking or a desk drop, these work. For more, see our [best board games under $20](/articles/board-games-under-20-dollars/).
 
 | Gift | Approximate price | Why it lands |
 |---|---|---|

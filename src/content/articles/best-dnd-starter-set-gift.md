@@ -69,7 +69,7 @@ Nice but optional:
 
 The **D&D Essentials Kit** (2019) was a middle option with a DM screen, a longer adventure, and rules for playing with just one player and one DM. It is built for the 2014 rules and has been harder to find since the 2024 edition arrived; if you see it at or under its $24.99 list price ([Miniature Market had it at $19.99](https://www.miniaturemarket.com/wocc70080.html) at the time of writing), it remains a good gift for a pair.
 
-Other publishers make excellent beginner boxes too. The **Pathfinder Beginner Box** <!-- AFFILIATE --> is the most common alternative and is a more rules-heavy game; our [D&D vs Pathfinder for beginners](/articles/dnd-vs-pathfinder-beginners/) comparison explains the difference. For a complete newcomer who asked for "D&D," give them D&D. The name on the box matters to a beginner.
+Other publishers make excellent beginner boxes too. The **Pathfinder Beginner Box** <!-- AFFILIATE --> is the most common alternative and is a more rules-heavy game; our [D&D vs Pathfinder for beginners](/articles/dnd-vs-pathfinder-beginners/) comparison explains the difference. For a complete newcomer who asked for "D&D," give them D&D. The name on the box matters to a beginner. If they asked for something simpler, our list of [easy tabletop RPGs for beginners](/articles/easy-tabletop-rpgs-for-beginners/) has eight lighter systems.
 
 ## Is a starter set a good gift for a kid?
 

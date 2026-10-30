@@ -38,7 +38,7 @@ Four to six is the sweet spot for a first game night. Most of the games people o
 
 Below four, you are limited to two- and three-player games, which is fine but a different kind of evening. Above six, you will need either a party game like Codenames or Wavelength, or a second table. Both are workable, but harder to run alone.
 
-Invite one or two more than your target. Someone will cancel. If nobody does, you have seven, and Codenames exists for exactly this reason. If you are stuck on what fits, picking games for your headcount is covered in its own piece.
+Invite one or two more than your target. Someone will cancel. If nobody does, you have seven, and Codenames exists for exactly this reason. If you are stuck on what fits, our guide to the [best board games for 6 players](/articles/best-board-games-for-6-players/) covers every headcount from three to eight.
 
 A note on the mix: at least one person should already know at least one other person besides you. A table of six strangers connected only through the host puts a lot of weight on the host.
 

@@ -1,8 +1,9 @@
 ---
 title: "Gift Guide: Great Board and Card Games Under $20"
-seoTitle: "Board and Card Games Under $20: A Gift Guide"
-description: "Nine great board and card games under $20 for stockings and small gifts, plus three worth a few dollars more. Who each one suits, player counts, and play time."
+seoTitle: "Best Board Games Under $20 and Under $25: Gift Guide"
+description: "The best board games under $20 for stockings and small gifts, plus three more under $25. Who each one suits, how many can play, and how long a game takes."
 pubDate: 2026-10-24
+updatedDate: 2026-10-29
 category: Game Guides
 tags: ["board games under $20", "card games under 20 dollars", "cheap board game gifts", "stocking stuffer games", "small gift games", "games for white elephant", "Gift guides"]
 games: [flip-7, hanabi, coup, the-crew-mission-deep-sea, love-letter, sushi-go, the-mind, skull]
@@ -10,7 +11,9 @@ draft: false
 ---
 Some of the best games ever made cost less than a movie ticket. Cards are cheap to print, so small boxes are where designers get to be clever instead of lavish. That makes the under-$20 shelf the best place to shop for stockings, office swaps, teacher gifts, and the friend who says they "don't really play games."
 
-This guide has nine games that list for under $20 in the US, plus three that cost a few dollars more and earn it. For each one: who it suits, how many can play, and how long it takes.
+This guide has nine games that list for under $20 in the US, plus three more under $25 that earn the extra few dollars. For each one: who it suits, how many can play, and how long it takes.
+
+**The quick answer:** Love Letter for someone new to games, Sushi Go! for families with kids, Flip 7 for a big holiday crowd, and The Mind for a couple. With up to $25 to spend, Codenames: Duet is the best two-player gift and Skull the best for a group that likes to bluff.
 
 Prices are publisher list prices we checked in late October 2026. They move a lot in November and December, and big-box stores often run lower. Read them as "about," not as a promise.
 
@@ -116,9 +119,9 @@ Two to four players, about fifteen minutes, ages 8 and up. About $18 at Pandasau
 
 <!-- AT OUR TABLE: one line on which of these nine Levi would put in his own stocking, and why -->
 
-## Three worth a few dollars more
+## Three more of the best board games under $25
 
-These sit just over the line at list price. Watch for sales, or let them be the "real" gift with a small game tucked in beside it.
+These sit just over the $20 line at list price, and all three come in at about $25 or less. Watch for sales, or let them be the "real" gift with a small game tucked in beside it.
 
 ### Skull
 
@@ -154,6 +157,7 @@ Two or more players (it plays well as two small teams), about fifteen minutes, a
 | A Catan fan | Catan: On the Road | $10 |
 | Puzzle lovers | Hanabi | $13 |
 | An office gift swap | Flip 7 or Skull | $8 to $21 |
+| A group of bluffers, up to $25 | Skull or No Thanks! | $21 to $25 |
 
 ## Small box, big afternoon
 
@@ -172,6 +176,10 @@ Your local game store is the best place to see these boxes in person, and many s
 ### What is the best board game under $20?
 
 For most people, Love Letter or Sushi Go!. Both teach in a couple of minutes, play in about fifteen, and hold up to hundreds of rounds. For a big family gathering, Flip 7 seats more people than either.
+
+### What are the best board games under $25?
+
+Everything on the under-$20 list, plus Codenames: Duet for two players, Skull for a group that likes to bluff, and No Thanks! for up to seven. All three list for about $25 or less.
 
 ### What is a good two-player game under $20?
 

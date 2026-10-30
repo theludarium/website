@@ -117,7 +117,7 @@ Game choice is half the job. The rest is hosting.
 2. Appoint yourself the first clue-giver or moderator. Do not ask for volunteers; nobody volunteers.
 3. Use teams for anything over eight. Teams halve the waiting and let shy guests contribute without the spotlight.
 4. Run short rounds and announce a stopping point. "Three rounds, then we switch" keeps energy up.
-5. Split into two tables when the group passes twelve. Two games of six beat one game of twelve.
+5. Split into two tables when the group passes twelve. Two games of six beat one game of twelve. Our [best board games for 6 players](/articles/best-board-games-for-6-players/) has picks for each table.
 
 For room setup, seating, and sound at a big table, see [game room setup](/articles/game-room-setup/). The short version is that everyone needs to see the clue-giver and hear each other, and that rules out most kitchens. Hosting thirty or forty? Our plan for a [large group game night](/articles/large-group-game-night/) covers tables, staff, and a schedule.
 

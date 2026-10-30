@@ -11,25 +11,25 @@ A list of the best board games of 2026 should answer one question: which new rel
 
 **The quick answer:** Cozy Stickerville for families, JinxO for a party of adults, Dino Racer for a mixed table that wants ten loud minutes, and Duel of Meloch for two players who want strategy.
 
-This is a running list. We update it as the year goes on and as our own plays pile up. Before the picks, here is how we judge, so you can argue with us.
+This is a running list. We update it as the year goes on and as more groups report back on the new releases. Before the picks, here is how we judge, so you can argue with us.
 
 ## How do we pick the best board games of a year?
 
-We do not score on novelty, art, or buzz. We score on what happens at a table of real people, most of whom did not read the rulebook. Five tests:
+We do not score on novelty, art, or buzz. We score on what a game is likely to do at a table of real people, most of whom did not read the rulebook. We judge from the rules themselves and from what reviewers and ordinary groups report after several plays. Five tests:
 
 1. The teach. Can one person explain it in under ten minutes to people who have never seen it? Under five is better.
-2. The first play. Did a new player make at least one decision that felt clever, without being told what to do?
-3. The second play. Did anyone ask for it? A game that nobody requests again is not a great game, however good the design.
-4. The table. Did people talk, laugh, or lean in? Or did four people silently solve four puzzles?
-5. The shelf test. Three months later, does it still come out? Most releases fail here.
+2. The first play. Does a new player get at least one decision that feels clever, without being told what to do?
+3. The second play. Do groups ask for it again? A game that nobody requests again is not a great game, however good the design.
+4. The table. Does it make people talk, laugh, or lean in? Or is it four people silently solving four puzzles?
+5. The shelf test. Three months later, are groups still bringing it out? Most releases fail here.
 
-A game has to pass all five to make this list. For summer releases, the shelf test is still running, and we will drop any that fail it. Several very good 2026 releases passed four.
+A game has to pass all five to make this list. For summer releases, the shelf test is still running, and we will drop any that fail it. Several very good 2026 releases fall short on one test and miss the cut.
 
 ## What counts as a 2026 release?
 
 For this list, a game counts if it reached general retail in 2026, even if crowdfunding backers received copies late in 2025. Reprints and new editions of old games do not count. Expansions count only if they change the base game enough that we would recommend them to a first-time buyer.
 
-We also do not include games we have played fewer than three times. That rules out some well-reviewed titles we simply have not gotten to the table enough. They may appear in a later update.
+We also leave out games that have not reached enough tables yet to judge. That rules out some well-reviewed titles that are still hard to find or too new for a second wave of opinions. They may appear in a later update.
 
 ## What is the bar? Recent games that set it
 
@@ -70,7 +70,7 @@ A 2026 game does not need to beat these. It needs to belong next to them.
 
 ### JinxO
 
-[JinxO](https://www.spiel-des-jahres.de/en/?p=36862) <!-- AFFILIATE --> is the one exception to our 2026 rule. Martin Ang's word-association party game (fill a three-by-three grid with answers to a category, score when they match) first came out in Indonesia in 2024, and its German edition, Dito!, won the [2026 Spiel des Jahres](https://boardgamewire.com/index.php/2026/07/13/jinxo-wins-2026-spiel-des-jahres-rebirth-secures-historic-triple-for-reiner-knizia/). It passes the second-play test almost every time, because the fun is learning how your friends think.
+[JinxO](https://www.spiel-des-jahres.de/en/?p=36862) <!-- AFFILIATE --> is the one exception to our 2026 rule. Martin Ang's word-association party game (fill a three-by-three grid with answers to a category, score when they match) first came out in Indonesia in 2024, and its German edition, Dito!, won the [2026 Spiel des Jahres](https://boardgamewire.com/index.php/2026/07/13/jinxo-wins-2026-spiel-des-jahres-rebirth-secures-historic-triple-for-reiner-knizia/). It is built to pass the second-play test, because the fun is learning how your friends think, and that changes with every group.
 
 ### Cozy Stickerville
 
@@ -90,7 +90,7 @@ A 2026 game does not need to beat these. It needs to belong next to them.
 
 ### Duel of Meloch
 
-[Duel of Meloch](https://stonemaiergames.com/games/duel-of-meloch/) <!-- AFFILIATE --> is Jamey Stegmaier's standalone two-player game in the Scythe world, released in August: five-minute setup, a small map, a race to four stars. The heaviest game here and the one that most clearly earned the second play, tense and short enough to run back. For couples who have worn out Sky Team.
+[Duel of Meloch](https://stonemaiergames.com/games/duel-of-meloch/) <!-- AFFILIATE --> is Jamey Stegmaier's standalone two-player game in the Scythe world, released in August: five-minute setup, a small map, a race to four stars. The heaviest game here, and short enough that a tense game is easy to run back. For couples who have worn out Sky Team.
 
 ## Which 2026 board game is best for your table?
 
@@ -108,7 +108,7 @@ The same seven games, sorted by who is playing.
 
 **Two players.** Duel of Meloch for a head-to-head fight. The Two Towers Trick-Taking Game if you would rather work together, or Wingspan Pocket for a calm half hour.
 
-## Which 2026 trends are we seeing at the table?
+## Which board game trends stand out in 2026?
 
 A few patterns show up in what publishers are releasing and what groups are asking for.
 
@@ -120,19 +120,19 @@ A few patterns show up in what publishers are releasing and what groups are aski
 
 ## How should you use a "best of the year" list?
 
-Carefully. The games that are good in March are not always the games people are still playing in December. In our experience, about half of any source's "best of the year" picks are still on the table two years later. The other half were good but not durable.
+Carefully. The games that are good in March are not always the games people are still playing in December. Plenty of any year's "best of" picks turn out to be good but not durable.
 
 A few habits help:
 
 - Wait for the second wave of opinions. The first reviews come from people who played a prototype or a review copy once. The useful signal arrives when ordinary groups have played it five times.
 - Check it against your own shelf. If you own Wingspan, do you need another engine builder? Maybe. But a new game that fills a hole on your shelf, a good two-player game or a party game that works at ten, is worth more than a better version of something you already have.
-- Try before you buy where you can. A game lounge or cafe lets you play a new release for the price of a coffee. That is one reason we are building one in Indianapolis. The library model is the subject of [the library problem](/articles/board-game-cafe-library/).
+- Try before you buy where you can. A game lounge or cafe lets you play a new release for the price of a coffee. That is one reason we plan to open one in Indianapolis. The library model is the subject of [the library problem](/articles/board-game-cafe-library/).
 
 ## FAQ
 
 ### What is the best board game of 2026?
 
-Dino Racer, for a mixed table: it teaches in minutes, finishes in ten, and gets requested again. JinxO is the pick if your group prefers words to dinosaurs.
+Dino Racer, for a mixed table: it teaches in minutes, finishes in ten, and is easy to play twice in a row. JinxO is the pick if your group prefers words to dinosaurs.
 
 ### How many new board games come out each year?
 
