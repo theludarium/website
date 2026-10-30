@@ -235,9 +235,9 @@ Status on 2026-10-19: 21 published at launch, 320 drafts.
 - `vintage-cube-controversies`: Vintage Cube Controversies: The Arguments That Last
 - `what-is-your-cube-for`: What Is Your Cube For? The Question Before Every Card
 
-## Holiday batch (10)
+## Holiday batch (10) (published 2026-10-29)
 
-Gift guides and deals. Publish in early November, after checking every price and that each product is still sold.
+Gift guides and deals. Prices and stock checked on 2026-10-29, with 24 new holiday articles published alongside (see DECISIONS.md, 2026-10-29).
 
 - `best-board-game-gifts-under-30`: Best Board Game Gifts Under $30: 12 Picks That Get Played
 - `best-dnd-starter-set-gift`: Best D&D Starter Set Gift: Which Box to Give a New Player

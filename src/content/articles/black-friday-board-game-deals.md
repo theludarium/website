@@ -1,52 +1,57 @@
 ---
 title: "Black Friday Board Game Deals: What's Worth Waiting For"
-description: "Black Friday board game deals, explained: which games drop 40 to 50 percent every year, which ones never go on sale, and when to buy now instead of waiting."
-pubDate: 2026-10-18
+description: "Black Friday board game deals for 2026: which games have dropped 40 to 54 percent in past sales, which rarely drop, and when to buy now instead of waiting."
+pubDate: 2026-10-29
 category: Game Guides
 tags: ["Black Friday board game deals", "board game sales", "Cyber Monday board games", "cheapest time to buy board games", "Amazon board game deals", "board game discounts", "Gift guides"]
-draft: true
+draft: false
 ---
-Black Friday board game deals follow a pattern that repeats every year, and once you know it you can stop refreshing deal sites. A short list of mass-market games drops 40 to 50 percent at Amazon and Target. A longer list drops 20 to 30 percent. Most hobby games barely move. And a few things are cheaper in January.
+Black Friday board game deals follow a pattern that repeats year after year, and once you know it you can stop refreshing deal sites. A short list of mass-market games drops 40 to 54 percent at Amazon and Target. A longer list drops 20 to 35 percent. Many hobby games barely move. And a few things are cheaper in January.
 
-This guide explains the pattern, names the games that reliably hit it, and tells you what to buy now instead of waiting. All prices and discounts below are from published deal coverage of past Black Fridays and are approximate at the time of writing.
+**The quick answer:** wait for Black Friday (November 27, 2026) only if your list includes big gateway games like Catan, Ticket to Ride, Carcassonne, Azul, or Pandemic, which have hit 40 to 54 percent off in past sales. Buy small card games, new releases, and direct-from-publisher games like Wingspan whenever you like, because the discount on those is small or zero.
+
+This guide explains the pattern, names the games that have reliably hit it, and tells you what to buy now instead of waiting. The prices and discounts below come from published deal coverage of past sales, linked inline. Nobody knows 2026 prices until the sales start.
+
+## When is Black Friday 2026?
+
+Thanksgiving is Thursday, November 26, 2026, so Black Friday is November 27, Small Business Saturday is November 28, and Cyber Monday is November 30. Big retailers now start their "Black Friday" prices days or weeks earlier. In 2025, the headline Amazon price on Catan's sixth edition was [posted on November 23](https://slickdeals.net/f/18856603-amazon-catan-board-game-6th-edition-trade-build-settle-in-the-classic-strategy-game-24-99), four days before Black Friday.
 
 ## How do Black Friday board game deals actually work?
 
 Three forces set board game prices in late November.
 
-**Loss leaders at big-box retailers.** Amazon, Target, and Walmart discount a handful of recognizable titles deeply to pull shoppers in. These are the headline deals. They are real, and they are the same titles most years.
+**Loss leaders at big-box retailers.** Amazon, Target, and Walmart discount a handful of recognizable titles deeply to pull shoppers in. These are the headline deals. They are real, and they tend to be the same titles from year to year.
 
-**Publisher price floors.** Many hobby publishers set minimum advertised prices. ICv2 reported back in 2018 that Asmodee's policy capped most discounts around 20 percent, and that Amazon broke through it that year with [Catan at 47 percent off, Ticket to Ride at 50 percent off, and Pandemic at 50 percent off](https://icv2.com/articles/news/view/41918/amazons-not-playing-board-game-prices). That tension between publishers and Amazon has not gone away, and the biggest discounts still cluster on the titles Amazon chooses to fight over.
+**Publisher price policies.** Many hobby publishers set minimum advertised prices. ICv2 reported back in 2018 that Asmodee's advertised-price policy limited discounts to 20 percent, and that Amazon broke through it that Black Friday with [Catan at 47 percent off, Ticket to Ride at 50 percent off, and Pandemic at 50 percent off](https://icv2.com/articles/news/view/41918/amazons-not-playing-board-game-prices). The biggest discounts still cluster on the titles Amazon chooses to fight over.
 
-**Bundle promotions.** Target has run a "buy two, get one free" on board games in recent holiday seasons, stacked on top of sale prices. [A December 2025 deal post](https://slickdeals.net/f/18914098-target-has-buy-2-get-one-free-board-card-games-on-sale-prices) listed Catan's sixth edition at $29.99 under that offer, down from a $49.99 regular price. If you are buying three gifts, this can beat the individual Amazon deals.
+**Bundle promotions.** Target has run a "buy two, get one free" on board games in past holiday seasons, stacked on top of sale prices. [A December 2025 deal post](https://slickdeals.net/f/18914098-target-has-buy-2-get-one-free-board-card-games-on-sale-prices) listed Catan's sixth edition at $29.99 under that offer, down from Target's $49.99 regular price. Target has not announced a 2026 version at the time of writing, but if it returns and you are buying three gifts, it can beat the individual Amazon deals.
 
 ## Which board games go on sale every Black Friday?
 
-These are the titles that showed up in deal coverage in 2025 and in prior years, with the discounts reported.
+These are the titles that showed up in Black Friday 2025 deal coverage, with the discounts reported.
 
-| Game | Typical Black Friday price | Reported discount | Source |
+| Game | Black Friday 2025 price | Reported discount | Source |
 |---|---|---|---|
-| Catan (6th edition) | About $24 to $25 | 54% off $55 list | [Slickdeals, Nov 2025](https://slickdeals.net/f/18856603-amazon-catan-board-game-6th-edition-trade-build-settle-in-the-classic-strategy-game-24-99) |
-| Azul | About $21 | From $31 | [Tom's Guide, Nov 2025](https://www.tomsguide.com/gaming/black-friday-2025-board-games-card-games-deals) |
-| Ticket to Ride: First Journey | About $19 | From $39 | Tom's Guide, Nov 2025 |
+| Catan (6th edition) | About $25 | 54% off $55 list | [Slickdeals, Nov 2025](https://slickdeals.net/f/18856603-amazon-catan-board-game-6th-edition-trade-build-settle-in-the-classic-strategy-game-24-99) |
 | Carcassonne | Varies | 50% off | [Wargamer, Nov 2025](https://www.wargamer.com/board-games/black-friday-deals-2025) |
 | 7 Wonders | Varies | 35% off | Wargamer, Nov 2025 |
 | Pandemic Legacy: Season 1 | Varies | 25% off | Wargamer, Nov 2025 |
 | Love Letter | About $14 | 16% off | [Wargamer, Nov 2025](https://www.wargamer.com/board-games/love-letter-black-friday-2025-deal) |
 | Sushi Go! | About $9.74 | 19% off | Wargamer, Nov 2025 |
-| Heat: Pedal to the Metal | About $47 | From $74 | Tom's Guide, Nov 2025 |
+| The Fox in the Forest | About $11 | 30% off | Wargamer, Nov 2025 |
+| Heat: Pedal to the Metal | About $47 | From $74 | [Tom's Guide, Nov 2025](https://www.tomsguide.com/gaming/black-friday-2025-board-games-card-games-deals) |
 
-The lesson in that table: the deepest cuts land on the gateway games that sell in volume. **Catan** <!-- AFFILIATE -->, **Ticket to Ride** <!-- AFFILIATE -->, **Azul** <!-- AFFILIATE -->, **Carcassonne** <!-- AFFILIATE -->, and **Pandemic** <!-- AFFILIATE --> are the ones to wait for if they are on your list. Our comparison of [Catan vs Ticket to Ride](/articles/catan-vs-ticket-to-ride/) can help you pick which one to grab.
+The lesson in that table: the deepest cuts land on the gateway games that sell in volume. **Catan** <!-- AFFILIATE -->, **Ticket to Ride** <!-- AFFILIATE -->, **Azul** <!-- AFFILIATE -->, **Carcassonne** <!-- AFFILIATE -->, and **Pandemic** <!-- AFFILIATE --> are the ones to wait for if they are on your list. Catan's sixth edition lists at about $55 at most US retailers, so a price near $25 is the real floor. Our comparison of [Catan vs Ticket to Ride](/articles/catan-vs-ticket-to-ride/) can help you pick which one to grab.
 
 ## What is worth waiting for?
 
-Wait if the game is on the list above, or shares its profile: a big-box staple from a large publisher with an obvious gift audience. Expect 40 to 55 percent off at Amazon and Target, usually from the Monday before Thanksgiving through Cyber Monday.
+Wait if the game is on the list above, or shares its profile: a big-box staple from a large publisher with an obvious gift audience. In past years, discounts of 40 to 54 percent on these titles have shown up at Amazon and Target in the week of Thanksgiving.
 
 Also wait on:
 
-- **Starter sets with a holiday audience.** The D&D Starter Set and similar entry products often see deep cuts; Wargamer tracked the [previous starter set at $10, half its list price, on Black Friday 2024](https://www.wargamer.com/dnd/starter-set-black-friday-stormwreck-isle).
-- **Mass-market party games.** Exploding Kittens, Hues and Cues, and the like. Tom's Guide tracked Exploding Kittens: The Board Game at [$9 against a $24 list](https://www.tomsguide.com/gaming/black-friday-2025-board-games-card-games-deals) in 2025.
-- **Previous editions.** When a publisher refreshes a game, as Catan did with its sixth edition in 2025, the old edition clears out cheaply. The play is identical.
+- **Starter sets with a holiday audience.** Wargamer tracked the [previous D&D starter set, Dragons of Stormwreck Isle, at $10, half its list price, on Black Friday 2024](https://www.wargamer.com/dnd/starter-set-black-friday-stormwreck-isle). The current set, Heroes of the Borderlands, launched at $49.99; our guide to the [best D&D starter set gift](/articles/best-dnd-starter-set-gift/) compares the two.
+- **Mass-market party games.** Exploding Kittens, Hues and Cues, and the like. Tom's Guide tracked Exploding Kittens at [$9 against a $24 list](https://www.tomsguide.com/gaming/black-friday-2025-board-games-card-games-deals) in 2025.
+- **Previous editions.** When a publisher refreshes a game, as Catan did with its sixth edition in 2025, the old edition can clear out cheaply. The core play is the same.
 
 *If this is useful, the newsletter sends more like it.*
 
@@ -54,34 +59,33 @@ Also wait on:
 
 Most of the hobby. Specifically:
 
-**Small-publisher and direct-sales games.** Stonemaier Games sells Wingspan through its own store and sets its own prices; [the publisher's store listed it at $55 against a $65 regular price](https://store.stonemaiergames.com/products/wingspan) at the time of writing, which is about where it sits most of the year. Publishers like this rarely join the Amazon price war.
+**Small-publisher and direct-sales games.** Stonemaier Games sells Wingspan through its own store and sets its own prices; [the publisher's store listed it at $55 on sale against a $65 regular price](https://store.stonemaiergames.com/products/wingspan) at the time of writing. Publishers like this rarely join the Amazon price war.
 
-**New releases.** A game released in the autumn is not going to be discounted at its first holiday. If it is on the list, buy it from a local store and get it over with. Our running list of the [best board games of 2026](/articles/best-board-games-2026/) shows which new ones are worth it.
+**New releases.** A game released in the autumn is unlikely to be discounted at its first holiday. If it is on the list, buy it from a local store and get it over with. Our running list of the [best board games of 2026](/articles/best-board-games-2026/) shows which new ones are worth it.
 
-**Anything already under $20.** The Black Friday discount on a $16 card game is three dollars. Love Letter at 16 percent off is still Love Letter at $14. The wait costs more than the saving.
+**Anything already under $20.** The Black Friday discount on a $16 card game is a few dollars. Love Letter at 16 percent off is still Love Letter at $14. The wait costs more than the saving. Our list of [board game gifts under $30](/articles/best-board-game-gifts-under-30/) is full of games like this.
 
 **Out-of-print and crowdfunded games.** Prices go up, not down.
 
 ## When is the cheapest time to buy board games, if not Black Friday?
 
-For the mass-market list, Black Friday is the floor. For everything else, there are better windows.
+For the mass-market list, Black Friday is usually the floor. For everything else, there are other windows.
 
-- **January.** Retailers clear holiday overstock. Hobby games that did not move in December get marked down quietly, and local stores run inventory sales.
-- **Amazon's summer sale event.** Deal coverage in [October 2025](https://frugalfun4boys.com/amazon-big-deal-days-october-2025-deals-on-toys-and-games/) and [July 2026](https://www.nbcnews.com/select/shopping/amazon-prime-day-board-game-deals-2026-rcna351807), when Catan was 45 percent off and Splendor, Azul, Carcassonne, and Ticket to Ride were 24 to 40 percent off, has shown the same gateway titles at near-Black-Friday prices.
-- **The week after Gen Con** (early August). In our experience, some publishers who overprinted for the show sell down afterward, though this is a pattern we have noticed rather than a published schedule.
-- **Any time, at a local game store.** The price is higher by a few dollars. In exchange you get a human who has played the game, a place to try it, and a store that will still be there to host your game night. For our part, we think the few dollars are well spent, and we have written about [why game lounges don't sell games](/articles/why-game-lounges-dont-sell-games/) and why we want the stores around us to thrive.
+- **January.** Retailers clear holiday overstock, and many local stores run inventory sales.
+- **Amazon's other sale events.** Deal coverage of [Prime Day in June 2026](https://www.nbcnews.com/select/shopping/amazon-prime-day-board-game-deals-2026-rcna351807) showed Catan at 45 percent off, with Splendor, Azul, Carcassonne, and Ticket to Ride at 24 to 40 percent off. In October 2025's Big Deal Days, [Catan was $34.49 against a $54.99 list](https://frugalfun4boys.com/amazon-big-deal-days-october-2025-deals-on-toys-and-games/). The same gateway titles come back around at near-Black-Friday prices.
+- **Any time, at a local game store.** The price is often a few dollars higher. In exchange you get a person who knows the games, often a place to try one, and a store that will still be there next year. We think the few dollars are well spent; our piece on [Small Business Saturday at your local game store](/articles/small-business-saturday-game-store/) makes the case, and we have written about [why game lounges don't sell games](/articles/why-game-lounges-dont-sell-games/) and why we want those stores to thrive.
 
 ## How to shop Black Friday board game deals without wasting a weekend
 
 1. **Make the list first.** Decide what you want before the sales start. A deal on a game you did not want is not a deal.
-2. **Check list prices now.** Retailers inflate "regular" prices before sales. Note the current price in October so you know whether the November number is real.
+2. **Check prices now.** Retailers sometimes inflate "regular" prices before sales. Note the current price in October so you know whether the November number is real. Our guide on [how to spot a real board game deal](/articles/how-to-spot-a-real-board-game-deal/) covers the tricks.
 3. **Set one price alert per game.** Camelcamelcamel for Amazon; most deal sites for the rest. Then close the tab.
-4. **Buy on the Monday or Tuesday before Thanksgiving.** In recent years, the headline board game prices have been live by then and have mostly held through Cyber Monday. Stock, not price, is what runs out.
-5. **Stack Target's bundle offer if you need three.** Three sale-price games for the price of two beats most single-item deals.
+4. **Look early in Thanksgiving week.** In 2025, the headline Catan price was live by the Sunday before Thanksgiving. Stock, not price, is what tends to run out.
+5. **Stack a bundle offer if you need three.** If a "buy two, get one" deal appears, three sale-price games for the price of two beats most single-item deals.
 
 ## The deal is the excuse, not the point
 
-The best thing a Black Friday price does is get a game into a house that would not have bought one at full price. That is good. A Catan at $25 under a tree in a family that has never played a modern game can change what that family does on Sunday nights for a decade.
+The best thing a Black Friday price does is get a game into a house that would not have bought one at full price. That is good. A Catan at $25 under a tree in a family that has never played a modern game can change what that family does on Sunday nights for years.
 
 So shop the deals. But remember that the game you get at 54 percent off is worth exactly as much as the number of times it reaches the table. The game is the reason. The people are the point.
 
@@ -89,7 +93,7 @@ So shop the deals. But remember that the game you get at 54 percent off is worth
 
 ### Do board games go on sale on Black Friday?
 
-Yes, but unevenly. Mass-market titles like Catan, Ticket to Ride, Azul, and Carcassonne have dropped 40 to 55 percent at Amazon and Target in recent years. Most hobby games discount 20 percent or less.
+Yes, but unevenly. Mass-market titles like Catan, Ticket to Ride, and Carcassonne have dropped 40 to 54 percent at Amazon in past years. Many hobby games move much less.
 
 ### What is the best Black Friday board game deal?
 
@@ -97,12 +101,12 @@ Historically, Catan or Ticket to Ride at around half price. In 2025, Catan's six
 
 ### Is Cyber Monday better than Black Friday for board games?
 
-Usually the same. Deal tracking in past years shows most board game prices holding from Black Friday through Cyber Monday, with stock running out before prices go back up.
+Usually about the same. In past years many board game prices have held from Black Friday through Cyber Monday (November 30 in 2026), so the bigger risk in waiting is stock, not price.
 
 ### Should I wait for Black Friday to buy Wingspan?
 
-Probably not. Stonemaier sells it direct at a fairly stable price. Watch the publisher's own store for occasional sales instead.
+Probably not. Stonemaier sells it direct and sets its own price. Watch the publisher's store for its own sales instead.
 
 ## One good deal a week, and the reason behind it
 
-Subscribe to The Ludarium newsletter and we will send new short pieces on games worth owning, including a note in November on which deals are real. When our Indianapolis lounge opens, you can play the whole list before you buy any of it.
+Subscribe to The Ludarium newsletter and we will send new short pieces on games worth owning, including notes in November on which deals look real. We plan to open a lounge in Indianapolis where you can try games at the table; the [Indianapolis lounge waitlist](/lounges/indianapolis/) is open now.

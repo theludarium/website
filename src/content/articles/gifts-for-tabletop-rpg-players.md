@@ -1,0 +1,135 @@
+---
+title: "Gifts for Tabletop RPG Players: Dice, Books, and GM Gear"
+seoTitle: "Gifts for Tabletop RPG Players and Game Masters"
+description: "Gifts for tabletop RPG players and game masters: dice, rulebooks beyond D&D, GM screens, battle maps, minis, and a session-zero kit, with prices checked."
+pubDate: 2026-10-29
+category: Game Guides
+tags: ["gifts for tabletop RPG players", "gifts for dungeon masters", "D&D gift ideas", "RPG dice gift", "GM screen gift", "Gift guides"]
+draft: false
+---
+The best gifts for tabletop RPG players depend on one question: do they play a character, or do they run the game? Players want things for their own hands, like dice, a rulebook, and a miniature of their hero. Game masters want tools that make the next session easier to prepare and run. Find out which one you are shopping for and the rest of the list gets short.
+
+**The quick answer:** for a player, a nice set of dice and the main rulebook for the game they play. For a game master, a GM screen and a battle map. For someone curious but not yet playing, a starter box or a solo adventure they can try alone. If you know nothing at all, a local game store gift card always lands.
+
+Prices below were checked at publisher and retailer pages at the time of writing. They move a lot in November and December, so read them as "about."
+
+## Player or game master: how do you tell?
+
+Ask a friend who plays with them, or listen for the words. A player talks about "my character" and what happened to them last week. A game master, often called a GM or, in Dungeons & Dragons, a DM, talks about "my players" and what they are planning to throw at them next. Some people do both, which means both halves of this guide apply.
+
+Then find out which game. Dungeons & Dragons is the most common, but plenty of groups play Pathfinder, Call of Cthulhu, Daggerheart, or one of dozens of smaller games. A rulebook for the wrong game is a polite thank-you and a trip to the return counter.
+
+## RPG gift ideas at a glance
+
+| Gift | For | About | Best when |
+|---|---|---|---|
+| Polyhedral dice set | Players | $4 to $15 | You know nothing else |
+| Main rulebook for their game | Players | $30 to $60 | You know the game and they lack the book |
+| Unpainted miniature | Players | $5 to $8 | They love their character |
+| Solo adventure PDF | Curious beginners | $10 | They have no group yet |
+| GM screen | Game masters | $16 to $20 | They run D&D |
+| Battle map | Game masters | $23 to $28 | Their table uses minis or tokens |
+| Initiative tracker | Game masters | $18 | Combat feels slow |
+| Session-zero kit | Game masters | $10 to $20 | They are starting a new campaign |
+| Game store gift card | Anyone | Any | You are not sure |
+
+## What are the best gifts for RPG players?
+
+### A set of dice
+
+Dice are the classic gift because nobody ever has too many. A tabletop RPG set has seven dice, from the four-sided d4 to the twenty-sided d20, and every player likes having their own. A basic [Chessex seven-die set is $3.49 at Miniature Market](https://www.miniaturemarket.com/chessex-dice-set-opaque-pastel-blueblack-7-chx25466.html) <!-- AFFILIATE --> at the time of writing. Metal or hand-polished sets cost more and feel more like a present.
+
+If the person is new and the shapes are a mystery, our guide to [D&D dice explained](/articles/dnd-dice-explained/) covers what each one does.
+
+### The main rulebook for their game
+
+If they play D&D and borrow someone else's book, the 2024 *Player's Handbook* is the gift. [D&D Beyond lists the physical book at $59.99](https://marketplace.dndbeyond.com/root/D3709000) <!-- AFFILIATE -->, and other retailers often sell it for less.
+
+For players of other games, look at what their group uses:
+
+- **Daggerheart.** Critical Role's fantasy game ships as a boxed core set with the rulebook and card decks. [Noble Knight lists the Daggerheart Core Set at its $59.99 list price](https://www.nobleknight.com/P/2148251057/Daggerheart-RPG---Core-Set-w-PDF) <!-- AFFILIATE --> at the time of writing.
+- **Call of Cthulhu.** Chaosium's horror game has a starter set with ready-to-play scenarios and pregenerated investigators. The [Call of Cthulhu Starter Set lists at $29.99](https://store.asmodee.com/products/call-of-cthulhu-starter-box-set-7th-edition) <!-- AFFILIATE -->, though stock comes and goes.
+- **Something lighter.** If they keep saying D&D takes too long, our list of [easy tabletop RPGs for beginners](/articles/easy-tabletop-rpgs-for-beginners/) has eight simpler systems, several of them cheap or free.
+
+Do not guess at a book for a game they do not already play. A new system is a gift for the whole group, and it only works if someone wants to run it.
+
+### A miniature of their character
+
+Many players love seeing their hero on the table. WizKids makes a long line of unpainted D&D figures called Nolzur's Marvelous Miniatures, and single figures are cheap: [a Pirate Deck Wizard is $4.49 at Miniature Market](https://www.miniaturemarket.com/dd-nolzurs-marvelous-unpainted-minis-w24-pirate-deck-wizard-wzk90709.html) <!-- AFFILIATE --> at the time of writing. Pick one that looks like their character's race and class, and add a small paint set if they like crafts. They work for any fantasy game, not only D&D.
+
+### A solo adventure for the curious
+
+Some people want to play but have no group yet. A solo adventure lets them learn a game alone at the kitchen table. The Ludarium sells adventure PDFs for open-license RPGs in [our store](/store/), $9.99 each, and each one is a complete solo adventure with the rules you need to play it. The first act of each is free in the [RPG Demo Library](/rpg-demo-library/), so you can try one before you buy it.
+
+*If this is useful, the newsletter sends more like it.*
+
+## What are the best gifts for game masters?
+
+Game masters do more work than anyone at the table. They read the rules, plan the session, play every monster, and keep the night moving. The best GM gifts take some of that weight off.
+
+### A GM screen
+
+A GM screen is a folding cardboard wall that hides the GM's notes and dice rolls and puts the most-used rules tables on the inside. It is part tool and part theater. The official D&D 2024 [Dungeon Master's Screen is $15.99 at Miniature Market](https://www.miniaturemarket.com/dd-5e-rpg-dungeon-masters-screen-2024-wocd3897.html) <!-- AFFILIATE -->, against a $19.99 list price, at the time of writing. Many other games sell their own screens, so match it to their system.
+
+### A battle map
+
+A battle map is a mat printed with a grid where the GM draws rooms and the players move their figures. Chessex's wet-erase Battlemats are the standard. The [reversible 1-inch hex Battlemat is $22.99 at Miniature Market](https://www.miniaturemarket.com/reversible-battlemat-1-inch-hex-bluegreen-235-x-26-chx96665.html) <!-- AFFILIATE -->, against a $27.98 regular price, at the time of writing. Square-grid versions cost about the same; D&D groups usually prefer squares, so check which their table uses. Add a pack of wet-erase markers. Dry-erase markers can be hard to remove from these mats.
+
+### An initiative tracker
+
+In combat, everyone takes turns in an order called initiative, and the GM has to keep track. A magnetic tracker clips that order onto the top of a GM screen so everyone can see whose turn is next. The [Open Gaming Store's magnetic initiative trackers are $17.99](https://www.opengamingstore.com/products/initiative-trackers-magnetic-turn-order-cards-for-d-d-5e-and-ttrpg-combat-management) <!-- AFFILIATE --> at list price. A stack of folded index cards does the same job for free, which is why this is a gift and not a need.
+
+### A session-zero kit
+
+Session zero is the first meeting of a new campaign, before any adventure starts. The group makes characters together and agrees on tone, schedule, and what topics are off the table. A small kit makes that evening easier, and you can build one yourself for $10 to $20:
+
+- A pack of index cards and a few markers for name tents and notes
+- A dozen golf pencils, because pencils vanish
+- Blank character sheets for their game, printed and clipped
+- A printed safety tool, such as an X-card, which players can tap to skip content they do not want at the table
+- A short card in your own handwriting: "For your next first session."
+
+It shows you understand the work a GM does before anyone rolls a die.
+
+### A new game to run
+
+If the GM is curious about other systems, a boxed starter is a low-risk gift. Paizo's newest [Pathfinder Beginner Box: Secrets of the Unlit Star is $37.99 at Miniature Market](https://www.miniaturemarket.com/Pathfinder-2E-RPG-Beginner-Box-Secrets-of-the-Unlit-Star/PZO12013-BX) <!-- AFFILIATE --> against a $49.99 list price at the time of writing. It includes a GM book, a player book, premade characters, pawns, a map, and dice. For a GM who has never run D&D, our guide to the [best D&D starter set gift](/articles/best-dnd-starter-set-gift/) compares the two current D&D boxes, and our [tips for first-time Dungeon Masters](/articles/first-time-dungeon-master-tips/) pair well with either.
+
+## Are gift cards a good RPG gift?
+
+Yes, more than for most hobbies. RPG players know exactly which book, module, or dice set they want next, and you probably do not. Two good options:
+
+- **Your local game store.** A gift card there also supports the place that likely hosts their group. Our guide to [Small Business Saturday at your local game store](/articles/small-business-saturday-game-store/) explains why that matters.
+- **DriveThruRPG.** The largest store for RPG PDFs sells gift certificates, which you can send to someone by email at checkout. It is a good pick for a reader who likes small games and adventures from independent publishers.
+
+## What should you skip?
+
+- **Books for a game they do not play.** Unless you are also offering to play it with them.
+- **Novelty dice that are hard to read.** Some fancy sets look great and make it hard to tell a 6 from a 9 across the table. Look for clear numbers.
+- **Huge painted dragon figures.** They are expensive, and a GM rarely needs the same giant monster twice.
+
+## A gift that brings people back to the table
+
+Every gift on this list points at the same thing: the next session. Dice get rolled with friends. A screen gets set up for four or five people who cleared an evening to tell a story together. The thing you wrap is small. The night it supports is the real present. The game is the reason. The people are the point.
+
+## FAQ
+
+### What is a good gift for a Dungeons & Dragons player?
+
+A nice set of dice, or the 2024 *Player's Handbook* if they do not own it. For a DM, the official 2024 Dungeon Master's Screen is a safe, inexpensive pick.
+
+### What do you get a game master who has everything?
+
+A session-zero kit you assemble yourself, or a beginner box for a different game they have been curious about. A sincere offer to host the next session, snacks included, also goes a long way.
+
+### Are RPG PDFs a good gift?
+
+Yes, for someone who reads on a tablet or plays solo. They arrive instantly, which also makes them a good last-minute gift.
+
+### How much should I spend on an RPG gift?
+
+Anywhere from $4 for a dice set to about $60 for a core rulebook. Price matters less than matching the gift to the game they actually play.
+
+## More for the people at your table
+
+The Ludarium newsletter sends short guides on games and the people who play them, including RPG tips for players and GMs. Sign up and we will send the next one when it is ready.
