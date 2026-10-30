@@ -1,87 +1,91 @@
 ---
 title: "Board Game Gift for a Coworker You Barely Know: 7 Safe Picks"
 description: "A board game gift for a coworker you barely know: seven safe picks, all under $30 and fine for any household, plus one game that works for the whole office."
-pubDate: 2026-10-18
+pubDate: 2026-10-29
 category: Game Guides
 tags: ["gift for coworker board game", "secret santa board game", "white elephant game gift", "office gift exchange ideas", "board game gift under 25", "coworker gift ideas", "Gift guides"]
-draft: true
+draft: false
 ---
 A board game gift for a coworker you barely know has to clear a bar most gifts do not. It has to be welcome in a house you have never seen, for people you have never met, at a price that reads as thoughtful rather than strange. Candles and gift cards clear that bar by being forgettable. A well-chosen game clears it by being useful.
 
-Here are the games that do, why they do, and the ones to leave on the shelf. Prices were checked at publisher or major retailer pages at the time of writing.
+**The quick answer:** Codenames is the safest board game gift for a coworker. Sushi Go! and Love Letter are the picks under $15, and Hues and Cues is the one if you know they host.
+
+Here are the games that work, why they work, and the ones to leave on the shelf. Prices were checked at publisher or major retailer pages at the time of writing.
 
 ## What makes a game safe to give a stranger?
 
 You know their name and maybe their desk plant. So the gift has to work regardless of what you do not know. We use five filters.
 
-1. **No assumed player count.** You do not know if they live alone, with a partner, or with four kids. The game should be fine at two and fine at six.
+1. **No narrow player count.** You do not know if they live alone, with a partner, or with four kids. The game should fit most households, and most of the picks below play anywhere from two to six.
 2. **No reading-heavy rules.** They may not be a reader. They may not be a native English speaker. A game that teaches in a minute from the box lid is safe.
 3. **No adult content.** This is the obvious one. The "adult party game" shelf is off limits for a coworker. All of it.
 4. **No trivia.** Trivia sorts people by education and age. Both are things you do not want your gift to measure in someone's living room.
 5. **Under $30.** Above that, the gift starts to feel like it wants something.
 
-Most games fail at least one. The seven below pass all five.
+Most games fail at least one. The seven below pass all five, with player counts noted so you can match the household.
 
-## The seven safest board game gifts for a coworker
+## What are the best board games to give a coworker?
 
 ### 1. Codenames
 
-**Codenames** <!-- AFFILIATE --> (about $20 to $25; Target lists it at $24.99 per [Board Game Oracle](https://www.boardgameoracle.com/boardgame/price/9tB3SAHmND/codenames)). Two teams guess words on a grid from one-word clues. Plays two to eight, teaches in ninety seconds, and is widely recognized without being overexposed. It is the single safest pick on this list and the one we would default to.
+**Codenames** <!-- AFFILIATE --> (about $20 to $25; Target lists it at $24.99 per [Board Game Oracle](https://www.boardgameoracle.com/boardgame/price/9tB3SAHmND/codenames) at the time of writing). Two teams guess words on a grid from one-word clues. Plays two to eight, teaches in ninety seconds, and is widely recognized without being overexposed. It is the single safest pick on this list and the one we would default to.
 
 ### 2. Sushi Go!
 
-**Sushi Go!** <!-- AFFILIATE --> (about $15; [Noble Knight lists the tin at $15.49](https://www.nobleknight.com/P/2147556632)). Pass hands of cute sushi cards and collect sets. It is for two to five players, ages eight and up, and it fits in a stocking. The tin reads as a nice object even to someone who never opens it.
+**Sushi Go!** <!-- AFFILIATE --> (about $12 to $17; [Board Game Oracle](https://www.boardgameoracle.com/boardgame/price/AGxuPRZjCn/sushi-go) showed it in stock from $11.99 at the time of writing). Pass hands of cute sushi cards and collect sets. It is for two to five players, ages eight and up, and it fits in a stocking. The tin reads as a nice object even to someone who never opens it.
 
 ### 3. Hues and Cues
 
-**Hues and Cues** <!-- AFFILIATE --> (about $26; [$25.95 at The Op](https://theop.games/products/hues-and-cues) at the time of writing). One player gives a short clue for a color on a 480-shade board; the rest guess where it is. It plays three to ten, has no words to read beyond the clues people invent, and works across every age in a household. A great pick if you suspect they host.
+**Hues and Cues** <!-- AFFILIATE --> (about $25; [Board Game Oracle](https://www.boardgameoracle.com/boardgame/price/h-SqjrUA6j/hues-and-cues) showed it in stock at $24.49 to $24.99 at the time of writing). One player gives a short clue for a color on a 480-shade board; the rest guess where it is. It plays three to ten, has no words to read beyond the clues people invent, and works across every age in a household. A great pick if you suspect they host.
 
 ### 4. Love Letter
 
-**Love Letter** <!-- AFFILIATE --> (about $16; [$15.99 at the Asmodee store](https://store.asmodee.com/products/love-letter-classic-eco-box)). Sixteen cards, a velvet bag, three-minute rounds. It is for two to six players and the theme (delivering a letter to a princess) is about as inoffensive as themes get. Small, cheap, and it looks like more than it cost.
+**Love Letter** <!-- AFFILIATE --> (about $12 to $16; list price $15.99 at the [Asmodee store](https://store.asmodee.com/products/love-letter-classic-eco-box), with [Board Game Oracle](https://www.boardgameoracle.com/boardgame/price/v19uMTKb_f/love-letter-2019-edition) showing it in stock at $11.86 at Walmart at the time of writing). A small deck of cards, a velvet bag, and rounds of a few minutes. It is for two to six players, and the theme (delivering a letter to a princess) is about as inoffensive as themes get. Small, cheap, and it looks like more than it cost.
 
 ### 5. Qwirkle
 
-**Qwirkle** <!-- AFFILIATE --> (about $25; [$24.99 at MindWare](https://www.mindware.orientaltrading.com/qwirkle-tile-matching-game-award-winning-strategy-game-for-family-game-night-a2-32016.fltr) and at [Walmart](https://www.walmart.com/ip/Qwirkle-Qwirkle-Board-Game/17058288) at the time of writing). Chunky wooden tiles with colors and shapes; build lines that share one attribute. No reading at all, which makes it the right pick when you suspect young children or an older relative in the house. Two to four players.
+**Qwirkle** <!-- AFFILIATE --> (about $20; [Board Game Oracle](https://www.boardgameoracle.com/boardgame/price/PXB8WOpvSj/qwirkle) showed it at $19.99 at Walmart and Target at the time of writing). Chunky wooden tiles with colors and shapes; build lines that share one attribute. No reading at all, which makes it the right pick when you suspect young children or an older relative in the house. Two to four players.
 
 ### 6. The Crew: Mission Deep Sea
 
-**The Crew: Mission Deep Sea** <!-- AFFILIATE --> (about $15; [Walmart lists it at $14.95](https://www.walmart.com/ip/937559244)). A cooperative card game: the table works together to win specific tricks. Nobody loses to anyone else, which removes the one risk a competitive game carries in an unknown household. Best at three to five, with a [two-player variant included](https://www.kosmos.de/en/products/die-crew-mission-tiefsee) per the publisher.
+**The Crew: Mission Deep Sea** <!-- AFFILIATE --> (about $11 to $16; [Board Game Oracle](https://www.boardgameoracle.com/boardgame/price/wT6oZB-Kxw/the-crew-mission-deep-sea) showed it in stock from $10.99, with Target at $15.95, at the time of writing). A cooperative card game: the table works together to win specific tricks. Nobody loses to anyone else, which removes the one risk a competitive game carries in an unknown household. Best at three to five, with a [two-player variant included](https://www.kosmos.de/en/products/die-crew-mission-tiefsee) per the publisher.
 
-### 7. Catan on the Road
+### 7. Catan: On the Road
 
-**Catan on the Road** <!-- AFFILIATE --> (about $8 to $10; [$9.99 at the Asmodee store](https://store.asmodee.com/products/catan-on-the-road) and [$7.99 at Miniature Market](https://www.miniaturemarket.com/Catan-On-the-Road/CN3143) at the time of writing). A fifteen-minute card version of Catan. Useful when the budget is a white elephant's $10 cap and you still want to give something with a name people recognize.
+**Catan: On the Road** <!-- AFFILIATE --> (about $8 to $10; list price $9.99 at the [Asmodee store](https://store.asmodee.com/products/catan-on-the-road), and [Miniature Market](https://www.miniaturemarket.com/Catan-On-the-Road/CN3143) listed it at $7.99 at the time of writing, though it was out of stock there). A quick card version of Catan for three or four players, about fifteen minutes a game, new in 2026. Useful when the budget is a white elephant's $10 cap and you still want to give something with a name people recognize. It does not play at two, so lean toward Love Letter if the coworker lives as a couple.
 
 *If this is useful, the newsletter sends more like it.*
 
 ## Which one fits which situation?
 
-| Situation | Pick | Approximate price |
-|---|---|---|
-| Secret Santa, $25 cap, no information | Codenames | $20 to $25 |
-| Stocking or desk drop, $15 cap | Sushi Go! or Love Letter | $15 to $16 |
-| You know they have young kids | Qwirkle | $25 |
-| You know they host | Hues and Cues | $26 |
-| You know they are competitive and you are not sure that is good | The Crew | $15 |
-| White elephant, $10 cap | Catan on the Road | $8 to $10 |
+| Situation | Pick | Players | Approximate price |
+|---|---|---|---|
+| Secret Santa, $25 cap, no information | Codenames | 2 to 8 | $20 to $25 |
+| Stocking or desk drop, $15 cap | Sushi Go! or Love Letter | 2 to 6 | $12 to $17 |
+| You know they have young kids | Qwirkle | 2 to 4 | $20 |
+| You know they host | Hues and Cues | 3 to 10 | $25 |
+| You know they are competitive and you are not sure that is good | The Crew | 2 to 5 | $11 to $16 |
+| White elephant, $10 cap | Catan: On the Road | 3 to 4 | $8 to $10 |
 
-## What about a game for the whole office?
+For a bigger list built for gift swaps, see our guide to [white elephant board games](/articles/white-elephant-board-games/).
+
+## What is a good board game for the whole office?
 
 If the exchange is really a team gift, buy one game the office can keep in the break room. The right choice here is different: you want something that plays six or more, finishes in fifteen minutes, and survives being left out.
 
-**Codenames** is again the answer for most offices. **Just One** <!-- AFFILIATE --> (about $25; [$24.99 at the Asmodee store](https://store.asmodee.com/products/just-one-refresh) at the time of writing), a cooperative word game for three to seven where everyone writes a one-word clue and duplicates are thrown out, is the other. Both are the games we reach for first when we run [corporate team-building game nights](/articles/board-games-team-building/), because they put a quiet analyst and a loud sales lead on equal footing in under a minute.
+**Codenames** is again the answer for most offices. **Just One** <!-- AFFILIATE --> (about $17 to $25; [Board Game Oracle](https://www.boardgameoracle.com/boardgame/price/0UU4fqBeRu/just-one-new-version) showed the current version in stock from $17.39, with a $24.99 list at the Asmodee store, at the time of writing), a cooperative word game for three to seven where everyone writes a one-word clue and duplicates are thrown out, is the other. Both are common picks for [team-building with board games](/articles/board-games-team-building/), because they put a quiet analyst and a loud sales lead on equal footing in under a minute. Our list of [office holiday party games](/articles/office-holiday-party-games/) has more for the party itself.
 
 ## What should you not give a coworker?
 
 - **Anything from the "adult party game" shelf.** Even the mild ones. You do not know their line and you do not want to find it.
 - **Monopoly, Risk, or any game over ninety minutes.** You are gifting an obligation.
-- **A game you love that is heavy.** Wingspan is a great game and a bad gift for a stranger. It asks for an hour of rules reading before the first play.
+- **A game you love that is heavy.** Wingspan is a great game and a bad gift for a stranger. It asks for a long rules read before the first play.
 - **Trivia and "how well do you know your partner" games.** See filter four.
 - **Expansions.** You do not know what they own.
 
 ## Does a game read as too personal for a coworker?
 
-In our experience, the opposite. A gift card says "I had to buy something." A small, well-chosen game says "I thought you might have a good night with the people you live with." That is warm without being intimate, and it is true of every pick above.
+We think the opposite. A gift card says "I had to buy something." A small, well-chosen game says "I thought you might have a good night with the people you live with." That is warm without being intimate, and it is true of every pick above.
 
 If they never open it, it still looks nice on a shelf and regifts cleanly. If they do open it, you gave them an evening, and maybe the start of a [workplace game club](/articles/workplace-game-club/). The game is the reason. The people are the point.
 
@@ -93,7 +97,7 @@ Codenames. It is about $20 to $25 at the time of writing, plays two to eight, te
 
 ### What board game is good for a white elephant exchange?
 
-Pick something recognizable and small so it gets stolen: Sushi Go!, Love Letter, or Catan on the Road all work under a $10 to $15 cap.
+Pick something recognizable and small so it gets stolen: Sushi Go!, Love Letter, or Catan: On the Road all work under a $10 to $15 cap.
 
 ### Should I give a coworker a party game?
 
@@ -103,6 +107,6 @@ Only one without adult content. Codenames, Hues and Cues, and Just One are party
 
 Not at $15 to $25. Most of the games here cost less than a mid-range candle and get used far more.
 
-## One pick a week, for any table
+## Bring games to work, and home
 
-Subscribe to The Ludarium newsletter for new short pieces on games that bring people together, including the picks we are testing for our Indianapolis lounge library. If your office wants the team version of this, our corporate game nights are the easiest way to find out which games your coworkers will actually play.
+If your team wants more than a gift exchange, our [corporate events page](/corporate-events/) explains how The Ludarium uses tabletop games for leadership and team training. For one good pick at a time for any table, subscribe to The Ludarium newsletter.

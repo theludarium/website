@@ -2,13 +2,16 @@
 title: "Thanksgiving Board Games for Three Generations"
 description: "The best Thanksgiving board games for a table that runs from 6 to 86. Twelve picks by group size and energy level, when to bring them out, what to skip."
 pubDate: 2026-10-20
+updatedDate: 2026-10-29
 category: Game Night
 tags: ["Thanksgiving board games", "games for Thanksgiving family gathering", "holiday board games for large groups", "games for all ages Thanksgiving", "after dinner games", "family reunion games", "Family and intergenerational play"]
 draft: false
 ---
 The best Thanksgiving board games handle three things most games cannot: a crowd of eight or more, an age range from kindergarten to retirement, and a room full of people who are tired, full, and did not come to learn rules. Codenames, Telestrations, Just One, Wavelength, and Rummikub all pass. They teach in two minutes, run with big uneven groups, and let people drift in and out between pie and dishes.
 
-The right game at the right moment turns the dead hour after dinner into the part of the day people talk about on the drive home. The wrong one ends with Uncle Dave explaining Catan to a six-year-old while everyone else finds somewhere to be.
+**The quick answer:** if you bring one game, bring Codenames: it splits a crowd into teams and a round takes about fifteen minutes. Add Telestrations or Just One for the loud middle of the evening and Rummikub or Qwirkle for a quieter side table.
+
+The right game at the right moment turns the dead hour after dinner into the part of the day people talk about on the drive home. The wrong one ends with someone explaining Catan to a six-year-old while everyone else finds somewhere to be. Thanksgiving falls on November 26 this year, so there is still time to pick and practice.
 
 ## What makes a game work on Thanksgiving?
 
@@ -18,7 +21,7 @@ The holiday has constraints no ordinary game night does. Pick for them.
 - **Sixty-year age spread.** The game has to be playable by a seven-year-old and interesting to a seventy-year-old at the same time. That rules out reading-heavy games and anything with small text.
 - **No appetite for rules.** People are full and half-watching football. The teach has to be under two minutes or it will not happen.
 - **Interruptions.** Players leave and return. Games with short rounds, or no fixed turn order, survive this.
-- **Mixed energy.** Some people want to shout. Grandma wants to sit with a cup of coffee. The best plan has one of each.
+- **Mixed energy.** Some people want to shout. Others want to sit with a cup of coffee. The best plan has one of each.
 
 If you only remember one thing: team games. Putting people on teams absorbs the age gap, the number problem, and the shy cousin all at once.
 
@@ -29,13 +32,13 @@ Sorted by what the room needs. Player counts and ages are the publishers' (names
 | Game | Players | Ages | Play time | Energy | Why it works on the holiday |
 |---|---|---|---|---|---|
 | [Codenames](https://czechgames.com/en/codenames/) (or Pictures) | 4 to 8+ | 10+ | 15 to 20 min | Medium | Teams, word clues, scales to twelve with bigger teams. Grandparents are often the best clue-givers. |
-| [Telestrations](https://theop.games/collections/telestrations) | 4 to 8 (12 with the big box) | 12+ (10+ for the 12-player box; younger kids manage fine) | 30 min | High | Telephone with drawings. Nobody is good at it, everyone laughs. |
+| [Telestrations](https://theop.games/collections/telestrations) | 4 to 8 (12 with the 12-player box) | 10+ | 30 min | High | Telephone with drawings. Nobody is good at it, everyone laughs. |
 | [Just One](https://www.rprod.com/en/games/just-one) | 3 to 7 | 8+ | 20 min | Medium | Cooperative word clues. Zero pressure, short rounds, easy to join late. |
-| Wavelength | 2 to 12 | 10+ | 30 min | Medium | Teams guess where a concept sits on a spectrum. Produces the best arguments of the day. |
+| Wavelength | 2 to 12 | 14+ | 30 min | Medium | Teams guess where a concept sits on a spectrum. Produces the best arguments of the day. Put younger kids on a team with an adult. |
 | Rummikub | 2 to 4 | 8+ | 45 min | Low | The quiet-table game. Grandparents may already know it. |
 | Qwirkle | 2 to 4 | 6+ | 30 to 45 min | Low | No reading. Perfect for a grandparent and a young grandchild together. |
 | [Sushi Go Party!](https://gamewright.com/product/Sushi-Go-Party) | 2 to 8 | 8+ | 20 to 30 min | Medium | Card drafting for a full table. Quick, cheerful, easy. |
-| Skull King | 2 to 6 | 8+ | 30 min | Medium | Trick-taking that feels like euchre. Good for the card-playing side of the family. |
+| Skull King | 2 to 8 | 8+ | 30 min | Medium | Trick-taking that feels like euchre. Good for the card-playing side of the family. |
 | [Dixit](https://www.libellud.com/game/dixit/) | 3 to 8 | 8+ | 30 min | Low | Picture clues and storytelling. Kids and grandparents compete evenly. |
 | Happy Salmon | 3 to 6 (12 with two sets) | 6+ | 2 min | Very high | A two-minute shouting match. Run it before dessert to wake everyone up. |
 | Anomia | 3 to 6 | 10+ | 20 min | High | Fast category-naming. Loud, fast, funny. |
@@ -49,7 +52,7 @@ Codenames is the one to own if you own only one. It plays with almost any number
 
 Timing matters as much as the pick. A rough schedule that works:
 
-**Before dinner, while cooking.** Qwirkle or Rummikub on a side table for the people who are not cooking and not watching football. Low energy, no commitment, easy to abandon when the food is ready.
+**Before dinner, while cooking.** Qwirkle or Rummikub on a side table for the people who are not cooking and not watching football. Low energy, no commitment, easy to abandon when the food is ready. If the table is covered in serving dishes, our list of [games to play while the turkey cooks](/articles/games-while-the-turkey-cooks/) needs no table at all.
 
 **Right after dinner.** Nothing. People need twenty minutes. Forcing a game on a full room is how games get a bad name at your family's holiday.
 
@@ -81,6 +84,10 @@ We have written more broadly about [four generations at one table](/articles/mul
 - **Games with direct attacks.** Family dynamics are already present. Do not hand them a mechanic.
 - **Games that need everyone for the whole time.** People will get up. Pick games that survive it.
 
+## What about Friendsgiving?
+
+A Friendsgiving crowd is usually closer in age and happier to stay late, so you can lean louder and longer: Wavelength, Telestrations, and Codenames all still work, and a real strategy game can come out once the crowd thins. Our [Friendsgiving game night](/articles/friendsgiving-game-night/) guide has a full plan.
+
 ## What if your family "doesn't play games"?
 
 Start smaller than you think. Happy Salmon for two minutes. Just One for one round. A game that ends before anyone can object is the best argument that games are fine.
@@ -105,8 +112,12 @@ The dead hour between dinner and dessert. Everyone is still there, the table is 
 
 Set the game up and start playing with two or three willing people rather than announcing it. Pick something that takes two minutes to learn and under twenty to play.
 
+### Should I buy Thanksgiving games on Black Friday?
+
+Not if you want them on Thursday. Black Friday is the day after Thanksgiving, but many sale prices start earlier in the week; our [Black Friday board game deals](/articles/black-friday-board-game-deals/) guide explains what is worth waiting for.
+
 ## Save us a seat next year
 
-The Ludarium is a game lounge coming to Indianapolis, and the holiday table is the model for the whole thing: three generations, one game, nobody looking at a phone. The game is the reason. The people are the point.
+We plan to open a lounge in Indianapolis, and the holiday table is the model for the whole idea: three generations, one game, nobody looking at a phone. The game is the reason. The people are the point. If you are nearby, the [Indianapolis lounge waitlist](/lounges/indianapolis/) is open.
 
 Subscribe to the newsletter at theludarium.com and we will send a holiday game plan, with picks by group size and age, before each one arrives. Never stop playing.
