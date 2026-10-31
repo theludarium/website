@@ -140,6 +140,8 @@ If something feels broken in your first game, it usually is a misread rule rathe
 
 Someone gave you a reason to sit down together. The fastest way to honor that is to open the box while the people who gave it are still in the room. A first game with a few mistakes beats a perfect game that never gets played. The game is the reason. The people are the point.
 
+For the full year-round method, read [how to learn any board game from the rulebook](/articles/how-to-learn-a-board-game/), which also links every how-to-play guide on the site.
+
 ## FAQ
 
 ### How long does it take to learn a new board game?

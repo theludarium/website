@@ -101,6 +101,8 @@ Keep a note of what worked. Which game landed, who got along, what ran long. By 
 
 The game is the reason. The people are the point.
 
+Need a lineup? Our list of [games to play with friends](/articles/games-to-play-with-friends/) has picks for every group size, and [murder mystery party ideas](/articles/murder-mystery-party-ideas/) covers a themed night.
+
 ## FAQ
 
 ### How long should a first game night last?

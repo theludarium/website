@@ -37,7 +37,7 @@ export const GUILD_TOOLS: GuildTool[] = [
   { slug: 'feedback-card', name: 'The Newcomer Feedback Card', blurb: 'Five questions a new player answers in a minute after your teach.', access: 'kit' },
   { slug: 'self-assessment', name: 'The Self-Assessment', blurb: 'Score your own teach on ten lines, with what a five looks like on each.', access: 'kit' },
   { slug: 'teach-library', name: 'The Teach Library', blurb: 'Finished one-page teach sheets for popular gateway games, ready to print.', access: 'public' },
-  { slug: 'capstone', name: 'The Capstone', blurb: 'Teach one non-gamer, then send in your teach for review to earn the Expert Game Guide title.', access: 'public' },
+  { slug: 'capstone', name: 'The Capstone', blurb: 'Teach one new player, then send in your teach for review to earn the Expert Game Guide title.', access: 'public' },
 ];
 
 export function guildTool(slug: GuildToolSlug): GuildTool {

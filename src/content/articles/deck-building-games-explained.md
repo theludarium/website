@@ -101,6 +101,8 @@ Deck builders have a quality that few genres share: they are easy to teach and h
 
 They also play well across experience levels. A new player who buys sensible cards will have a good deck and a close game. That matters at a lounge table, where the goal is not to crown a champion but to give five people a reason to sit together for an hour. The game is the reason. The people are the point.
 
+Deck building is one of many mechanics. Our [field guide to board game mechanics](/articles/board-game-mechanics-explained/) explains sixteen of them, each with a good first game.
+
 ## FAQ
 
 ### What was the first deck building game?

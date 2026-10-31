@@ -84,6 +84,8 @@ Yes, and better than most alternatives. A new player at a booster draft is overw
 
 The fixed pool also means the second night is easier than the first, and the fifth is easier still. Nobody has to buy anything to keep improving. For a long time I thought the barrier to Magic was the rules. It is not. The barrier is the ongoing cost and the feeling of always being behind. Cube removes both.
 
+New to drafting altogether? Start with [how to draft in Magic](/articles/how-to-draft-mtg/), a walkthrough of your first booster draft.
+
 ## FAQ
 
 ### How many cards are in a Magic cube?

@@ -78,6 +78,8 @@ The Surgeon General's advisory links poor social connection to a [29 percent hig
 
 This is also why we talk about "togethering" rather than "gaming." The game is the medium. What it produces is time together, repeated until it becomes a bond. Few other activities do that as cheaply or as reliably.
 
+For the data behind the problem itself, read our explainer on [the loneliness epidemic](/articles/loneliness-epidemic/).
+
 ## FAQ
 
 ### Do board games actually reduce loneliness?

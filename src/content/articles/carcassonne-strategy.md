@@ -92,6 +92,8 @@ This game is one of the best in the world for a mixed table, because a child can
 
 Carcassonne does not have a loud moment. It has a slow accumulation of small decisions, and a scoring round at the end where the farms turn the game around and someone says "wait, how did you get forty points?" That question is the game. The game is the reason. The people are the point.
 
+Carcassonne started a whole family. Our guide to [tile placement board games](/articles/tile-placement-board-games/) covers the best of the rest.
+
 ## FAQ
 
 ### When should you place farmers in Carcassonne?

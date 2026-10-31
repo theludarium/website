@@ -81,6 +81,8 @@ Shyness is less of a problem at a table than almost anywhere else. The game give
 
 If the idea of walking into a room alone is the hard part, go on a teaching night and arrive five minutes early. Tell the organizer you are new and ask where to sit. Organizers live for this. You will be at a table with a name tag and a rules explanation before you have time to feel awkward.
 
+For the wider picture, including why friendship takes so many hours and how to bank them, read [how to make friends as an adult](/articles/how-to-make-friends-as-an-adult/).
+
 ## FAQ
 
 ### How long does it take to make friends in a new city?

@@ -92,6 +92,8 @@ The show gets the spirit right. Four kids, one of them narrating a fight with a 
 
 What the show compresses is the pacing. Real sessions have slow stretches: planning, shopping for supplies, arguing about which corridor to take. Those stretches are where the friendships live. The fights are the highlight reel. The rest is the reason you keep coming back. The game is the reason. The people are the point.
 
+You can also play some RPGs alone. Our guide to [solo RPGs](/articles/solo-rpg/) explains how, and [Ironsworn](/articles/ironsworn-rpg/) is a free place to start.
+
 ## FAQ
 
 ### Is D&D the same thing as a tabletop RPG?

@@ -90,6 +90,8 @@ A few reasons, all practical.
 
 That last point is why drafting shows up so often in games meant for mixed groups. It gives the competitive players something to chew on and the casual players a simple instruction: pick the one you like.
 
+Drafting is one of many mechanics. Our [field guide to board game mechanics](/articles/board-game-mechanics-explained/) explains sixteen of them, each with a good first game.
+
 ## FAQ
 
 ### What is card drafting in board games?

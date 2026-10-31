@@ -1,6 +1,6 @@
 ---
 title: "The Capstone: Earn the Title"
-description: "The Guild capstone: teach one non-gamer a board game, score your teach, collect their feedback card, and submit both to earn the Expert Game Guide title."
+description: "The Guild capstone: teach one new player a board game, score your teach, collect their feedback card, and submit both to earn the Expert Game Guide title."
 module: 7
 order: 35
 emailSubject: "One newcomer, one game, one yes"
@@ -21,7 +21,7 @@ check:
   - question: "Who makes the best capstone newcomer?"
     options: ["A friend who plays a lot but not this game", "Someone who does not play board games and whom you would like to play with more", "A stranger who will never see you again"]
     answer: B
-    explain: "The capstone is the program's whole job in one evening: one non-gamer, one teach, and a reason for both of you to want a second game."
+    explain: "The capstone is the program's whole job in one evening: one new player, one teach, and a reason for both of you to want a second game."
 games: [azul]
 ---
 

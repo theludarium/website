@@ -8,7 +8,7 @@ pubDate: 2026-10-26
 draft: false
 oneIdea: "Score your teach on ten lines, one to five each, within an hour of the game ending. The total matters less than the lowest line: that is the one to work on next time."
 drill: "Print the Self-Assessment before your next teach. Within an hour of the game ending, score all ten lines, circle the lowest, and write one sentence on what you will do differently there."
-nextTeaser: "Next, the last lesson: the capstone. Teach one non-gamer, send in your scores and their feedback card, and earn the title Expert Game Guide."
+nextTeaser: "Next, the last lesson: the capstone. Teach one new player, send in your scores and their feedback card, and earn the title Expert Game Guide."
 tool: self-assessment
 check:
   - question: "You scored a teach and got 38 out of 50. What should you work on next?"

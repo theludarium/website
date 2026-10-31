@@ -99,6 +99,8 @@ Cube wants eight people at the same time and a three-hour block. It can run with
 
 **Play both if** you can. Many groups do: Cube on the scheduled night, Commander when fewer people show up or when someone brings a friend. They solve different problems. Commander is the format of the game store. Cube is the format of the standing group. The Ludarium plans to host both in Indianapolis, starting with Cube Commonwealth's relaunch.
 
+For every other way to play, from Standard to Pauper, see [MTG formats explained](/articles/mtg-formats/).
+
 ## FAQ
 
 ### Can beginners play Cube?

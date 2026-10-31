@@ -91,7 +91,7 @@ Catan's 10-and-up is also honest. Younger kids can roll and build, but the tradi
 
 - You play with two people often, or with a rotating cast of five.
 - You want a game you can teach in the time it takes the kettle to boil.
-- Your group includes non-gamers, younger kids, or anyone who dislikes confrontation.
+- Your group includes new players, younger kids, or anyone who dislikes confrontation.
 - You want something for a weeknight that ends in under an hour.
 
 **Buy Catan if:**

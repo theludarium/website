@@ -135,6 +135,8 @@ No. If anything it helps. Players who understand the conversation (describe, dec
 
 What it does change is expectations. A group that has played Dread knows that an RPG can be a tense ninety minutes of whispered decisions. They will not assume every game must be a four-hour fight. That is a healthier starting point than most new D&D players get, and it tends to produce groups that last, because they chose the game that fit the people rather than the people who fit the game. The game is the reason. The people are the point.
 
+No group yet? [Solo RPGs](/articles/solo-rpg/) let you learn the hobby by yourself, and [Ironsworn](/articles/ironsworn-rpg/) is free.
+
 ## FAQ
 
 ### What is the easiest tabletop RPG to learn?

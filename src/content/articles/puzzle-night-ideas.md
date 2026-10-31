@@ -83,6 +83,8 @@ Mixing formats also works. A jigsaw on the main table, two escape boxes going at
 
 **No pressure to finish.** Say it out loud when people arrive. The point is the sitting, not the picture.
 
+Running a puzzle night for work? Our guide to [escape room team building](/articles/escape-room-team-building/) adds a debrief that turns the fun into team training.
+
 ## FAQ
 
 ### How many people can do a jigsaw puzzle at once?

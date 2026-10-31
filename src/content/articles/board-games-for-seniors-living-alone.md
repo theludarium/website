@@ -80,6 +80,8 @@ The first session is a favor. The fifth session is a routine. Getting from one t
 
 Senior centers, libraries, and churches often run drop-in game afternoons. These are worth knowing about as a next step, once the home game has made the idea of "going to play" feel normal. We wrote about the broader pattern in [friendship after retirement](/articles/friendship-after-retirement/).
 
+For a longer list of picks, with tips for vision, hands, and memory, see [the best board games for seniors](/articles/board-games-for-seniors/).
+
 ## FAQ
 
 ### What is the best board game for an elderly person who lives alone?

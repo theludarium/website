@@ -1,6 +1,6 @@
 ---
 title: "The Newcomer's Ledger"
-description: "Why non-gamers dread learning board games: the hidden costs of a rules dump, jargon, public correction, and blowouts, and how to make the fun clear the cost."
+description: "Why new players dread learning board games: the hidden costs of a rules dump, jargon, public correction, and blowouts, and how to make the fun clear the cost."
 module: 0
 order: 2
 emailSubject: "What learning a game costs the person across from you"
