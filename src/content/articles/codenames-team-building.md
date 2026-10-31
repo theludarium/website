@@ -7,7 +7,7 @@ games: [codenames]
 tags: ["Codenames team building", "Codenames at work", "team communication exercise", "Codenames rules", "communication games for teams", "office icebreaker games", "Games for the workplace"]
 draft: false
 ---
-Codenames team building works for a simple reason: the game is nothing but communication, stripped of everything else. One person gives a one-word clue. Their teammates interpret it. Either the shared understanding was there or it was not, and everyone finds out in about ten seconds.
+[Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) team building works for a simple reason: the game is nothing but communication, stripped of everything else. One person gives a one-word clue. Their teammates interpret it. Either the shared understanding was there or it was not, and everyone finds out in about ten seconds.
 
 For HR leads and managers, that makes a fifteen-minute game more revealing than most hour-long workshops. You do not need a facilitator's manual. You need a table, the box, and the willingness to watch closely.
 
@@ -82,11 +82,11 @@ For larger groups, run two or three boards at once. Codenames handles four to ei
 ## Which version should you use?
 
 - **Codenames (original).** Words. The best default for a mixed office.
-- **Codenames: Pictures.** Abstract images instead of words. Easier for teams where English is not everyone's first language, and it rewards different thinkers.
-- **Codenames: Duet.** A two-player cooperative version. Useful for pairing a manager with a new report, or two people who need to work together and have not yet found a rhythm.
+- **[Codenames: Pictures](https://www.amazon.com/dp/B01HT9DERU?tag=cubecommonw0a-20).** Abstract images instead of words. Easier for teams where English is not everyone's first language, and it rewards different thinkers.
+- **[Codenames: Duet](https://www.amazon.com/dp/B0FJMNPGXM?tag=cubecommonw0a-20).** A two-player cooperative version. Useful for pairing a manager with a new report, or two people who need to work together and have not yet found a rhythm.
 - **Codenames: Deep Undercover.** Adult content. Not for work.
 
-If you want the cooperative dynamic for a whole team instead of a head-to-head, Duet rules can be stretched to small groups, but at that point a game like The Crew or Hanabi does the job better. We cover why in [why psychological safety shows up faster at a game table](/articles/psychological-safety-team-activities/).
+If you want the cooperative dynamic for a whole team instead of a head-to-head, Duet rules can be stretched to small groups, but at that point a game like [The Crew](https://link.amazon/B099S9RKf) or [Hanabi](https://www.amazon.com/dp/B01MXTGT21?tag=cubecommonw0a-20) does the job better. We cover why in [why psychological safety shows up faster at a game table](/articles/psychological-safety-team-activities/).
 
 ## What does a good spymaster have in common with a good manager?
 

@@ -8,7 +8,7 @@ draft: false
 ---
 The best games to play with friends are the ones that fit the night you are actually having: who showed up, how long you have, and whether the group wants to laugh, think, or work together. A great strategy game falls flat at a loud party, and a party game can feel thin when two friends want a real challenge. So this list is sorted by situation, not by rank.
 
-**The quick answer:** for two friends, try 7 Wonders Duel. For three or four, Ticket to Ride. For six or more, Codenames. For a party, Monikers or Avalon. For a group that hates losing to each other, Pandemic or The Crew. Short on time? Sushi Go! plays in fifteen minutes.
+**The quick answer:** for two friends, try [7 Wonders Duel](https://www.amazon.com/dp/B014DMSTXK?tag=cubecommonw0a-20). For three or four, [Ticket to Ride](https://link.amazon/B0jh8RB7f). For six or more, [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20). For a party, [Monikers](https://www.amazon.com/dp/B00M07OQ1U?tag=cubecommonw0a-20) or Avalon. For a group that hates losing to each other, [Pandemic](https://link.amazon/B0eHP5GCg) or The Crew. Short on time? [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) plays in fifteen minutes.
 
 Below are 25 picks across seven situations, each with player counts and box play times, plus how to choose for your group.
 
@@ -26,31 +26,31 @@ If your group has opinions, let them vote. Our free [Game Night Madness](/game-n
 
 | Game | Players | Time | Situation |
 |---|---|---|---|
-| 7 Wonders Duel | 2 | 30 min | Two players |
-| Patchwork | 2 | 15 to 30 min | Two players |
-| Jaipur | 2 | 30 min | Two players |
+| [7 Wonders Duel](https://www.amazon.com/dp/B014DMSTXK?tag=cubecommonw0a-20) | 2 | 30 min | Two players |
+| [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20) | 2 | 15 to 30 min | Two players |
+| [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20) | 2 | 30 min | Two players |
 | Ticket to Ride | 2 to 5 | 30 to 60 min | Small group |
-| Catan | 3 to 4 | 60 to 120 min | Small group |
-| Azul | 2 to 4 | 30 to 45 min | Small group |
-| Cascadia | 1 to 4 | 30 to 45 min | Small group |
+| [Catan](https://link.amazon/B0h8BDGR2) | 3 to 4 | 60 to 120 min | Small group |
+| [Azul](https://link.amazon/B0bGRYHex) | 2 to 4 | 30 to 45 min | Small group |
+| [Cascadia](https://link.amazon/B0g1HYFt4) | 1 to 4 | 30 to 45 min | Small group |
 | Codenames | 2 to 8+ | 15 min | Big group |
-| Wavelength | 2 to 12 | 30 to 45 min | Big group |
-| Just One | 3 to 7 | 20 min | Big group |
-| Telestrations | 4 to 8 | 30 min | Big group |
-| The Resistance: Avalon | 5 to 10 | 30 min | Party |
-| One Night Ultimate Werewolf | 3 to 10 | 10 min | Party |
-| Skull | 3 to 6 | 15 to 45 min | Party |
+| [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) | 2 to 12 | 30 to 45 min | Big group |
+| [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20) | 3 to 7 | 20 min | Big group |
+| [Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20) | 4 to 8 | 30 min | Big group |
+| [The Resistance: Avalon](https://www.amazon.com/dp/B009SAAV0C?tag=cubecommonw0a-20) | 5 to 10 | 30 min | Party |
+| [One Night Ultimate Werewolf](https://www.amazon.com/dp/B00HS7GG5G?tag=cubecommonw0a-20) | 3 to 10 | 10 min | Party |
+| [Skull](https://www.amazon.com/dp/B08R2BPLSN?tag=cubecommonw0a-20) | 3 to 6 | 15 to 45 min | Party |
 | Monikers | 4 to 16 | 30 to 60 min | Party |
 | Pandemic | 2 to 4 | 45 min | Cooperative |
-| The Crew: The Quest for Planet Nine | 3 to 5 | 20 min | Cooperative |
-| Hanabi | 2 to 5 | 25 min | Cooperative |
-| Sky Team | 2 | 15 to 20 min | Cooperative |
-| Wingspan | 1 to 5 | 40 to 70 min | Strategy |
+| [The Crew: The Quest for Planet Nine](https://www.amazon.com/dp/B084GP7X3P?tag=cubecommonw0a-20) | 3 to 5 | 20 min | Cooperative |
+| [Hanabi](https://www.amazon.com/dp/B01MXTGT21?tag=cubecommonw0a-20) | 2 to 5 | 25 min | Cooperative |
+| [Sky Team](https://www.amazon.com/dp/B0CHD8RCSJ?tag=cubecommonw0a-20) | 2 | 15 to 20 min | Cooperative |
+| [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) | 1 to 5 | 40 to 70 min | Strategy |
 | 7 Wonders | 3 to 7 | 30 min | Strategy |
-| Splendor | 2 to 4 | 30 min | Strategy |
+| [Splendor](https://link.amazon/B0fEvY6Wg) | 2 to 4 | 30 min | Strategy |
 | Sushi Go! | 2 to 5 | 15 min | Quick filler |
-| Love Letter | 2 to 6 | 20 min | Quick filler |
-| No Thanks! | 3 to 7 | 20 min | Quick filler |
+| [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20) | 2 to 6 | 20 min | Quick filler |
+| [No Thanks!](https://www.amazon.com/dp/B013FAC4FK?tag=cubecommonw0a-20) | 3 to 7 | 20 min | Quick filler |
 
 Player counts are from the box. Some games play better in part of their range, noted below.
 
@@ -58,15 +58,15 @@ Player counts are from the box. Some games play better in part of their range, n
 
 ### 7 Wonders Duel
 
-7 Wonders Duel <!-- AFFILIATE --> is a head-to-head civilization race. You draft cards from a shared pyramid, and every card you take may reveal one your friend wants. There are three ways to win, so the game stays tense to the last card.
+7 Wonders Duel is a head-to-head civilization race. You draft cards from a shared pyramid, and every card you take may reveal one your friend wants. There are three ways to win, so the game stays tense to the last card.
 
 ### Patchwork
 
-Patchwork <!-- AFFILIATE --> is a quilting puzzle that hides a sharp little race. Buy fabric pieces with buttons and time, fit them into your quilt, and try not to leave holes. It teaches in two minutes and plays in under half an hour.
+Patchwork is a quilting puzzle that hides a sharp little race. Buy fabric pieces with buttons and time, fit them into your quilt, and try not to leave holes. It teaches in two minutes and plays in under half an hour.
 
 ### Jaipur
 
-Jaipur <!-- AFFILIATE --> is a trading card game set in a market. Take goods, sell them in sets, and push your luck waiting for the big bonus. It is quick, a little mean, and very easy to replay.
+Jaipur is a trading card game set in a market. Take goods, sell them in sets, and push your luck waiting for the big bonus. It is quick, a little mean, and very easy to replay.
 
 For more, see our [two-player games for date night](/articles/two-player-board-games-date-night/) and [board games for couples](/articles/board-games-for-couples/).
 
@@ -74,37 +74,37 @@ For more, see our [two-player games for date night](/articles/two-player-board-g
 
 ### Ticket to Ride
 
-Ticket to Ride <!-- AFFILIATE --> asks you to claim train routes across a map to connect secret destination tickets. On your turn you draw cards or claim one route, so even first timers know what to do. Our [Ticket to Ride course](/academy/ticket-to-ride/) teaches it start to finish.
+Ticket to Ride asks you to claim train routes across a map to connect secret destination tickets. On your turn you draw cards or claim one route, so even first timers know what to do. Our [Ticket to Ride course](/academy/ticket-to-ride/) teaches it start to finish.
 
 ### Catan
 
-Catan <!-- AFFILIATE --> is the classic trading game. Build settlements, roll for resources, and bargain with your friends for the brick you need. It runs longer than most on this list, so start it early. New to it? Try our [Catan course](/academy/catan/).
+Catan is the classic trading game. Build settlements, roll for resources, and bargain with your friends for the brick you need. It runs longer than most on this list, so start it early. New to it? Try our [Catan course](/academy/catan/).
 
 ### Azul
 
-Azul <!-- AFFILIATE --> is a tile drafting game with gorgeous pieces. Take tiles from shared factories to fill your wall, and watch out for the leftovers you are forced to take. Calm on the surface, quietly cutthroat underneath.
+Azul is a tile drafting game with gorgeous pieces. Take tiles from shared factories to fill your wall, and watch out for the leftovers you are forced to take. Calm on the surface, quietly cutthroat underneath.
 
 ### Cascadia
 
-Cascadia <!-- AFFILIATE --> has you build a Pacific Northwest landscape and place wildlife in patterns. There is almost no direct conflict, which makes it a gentle pick for a mixed group.
+Cascadia has you build a Pacific Northwest landscape and place wildlife in patterns. There is almost no direct conflict, which makes it a gentle pick for a mixed group.
 
 ## Best games for a big group of 6 or more
 
 ### Codenames
 
-Codenames <!-- AFFILIATE --> splits the room into two teams. A spymaster gives one-word clues to point teammates at their words on a grid, and the team debates every guess. It scales to almost any group size. See our [Codenames course](/academy/codenames/).
+Codenames splits the room into two teams. A spymaster gives one-word clues to point teammates at their words on a grid, and the team debates every guess. It scales to almost any group size. See our [Codenames course](/academy/codenames/).
 
 ### Wavelength
 
-Wavelength <!-- AFFILIATE --> has a clue giver place a target somewhere on a spectrum, like "underrated to overrated," and name something that fits. The team argues where the dial should go. The arguing is the fun.
+Wavelength has a clue giver place a target somewhere on a spectrum, like "underrated to overrated," and name something that fits. The team argues where the dial should go. The arguing is the fun.
 
 ### Just One
 
-Just One <!-- AFFILIATE --> is fully cooperative. Everyone writes a one-word clue for the guesser, but identical clues cancel out. It plays up to seven by the box and is one of the kindest party games for new players.
+Just One is fully cooperative. Everyone writes a one-word clue for the guesser, but identical clues cancel out. It plays up to seven by the box and is one of the kindest party games for new players.
 
 ### Telestrations
 
-Telestrations <!-- AFFILIATE --> is the drawing game version of telephone. Write a word, draw it, guess the drawing, pass it on. The reveal at the end is pure joy. A Party Pack edition stretches it to 12.
+Telestrations is the drawing game version of telephone. Write a word, draw it, guess the drawing, pass it on. The reveal at the end is pure joy. A Party Pack edition stretches it to 12.
 
 More crowd picks live in [party games for large groups](/articles/party-games-for-large-groups/) and [the best board games for 6 players](/articles/best-board-games-for-6-players/).
 
@@ -112,19 +112,19 @@ More crowd picks live in [party games for large groups](/articles/party-games-fo
 
 ### The Resistance: Avalon
 
-Avalon <!-- AFFILIATE --> hides a few traitors among loyal knights. Teams go on quests, and the traitors can secretly sabotage them. Nobody is eliminated, and every vote turns into a debate. Best at 7 or more.
+Avalon hides a few traitors among loyal knights. Teams go on quests, and the traitors can secretly sabotage them. Nobody is eliminated, and every vote turns into a debate. Best at 7 or more.
 
 ### One Night Ultimate Werewolf
 
-One Night Ultimate Werewolf <!-- AFFILIATE --> is a whole game of Werewolf in about ten minutes. Roles swap in the dark, then the table argues and votes once. Short rounds mean nobody minds losing.
+One Night Ultimate Werewolf is a whole game of Werewolf in about ten minutes. Roles swap in the dark, then the table argues and votes once. Short rounds mean nobody minds losing.
 
 ### Skull
 
-Skull <!-- AFFILIATE --> is pure bluffing with a few coasters. Place flowers or a skull face down, then bid on how many flowers you can flip without hitting a skull. It is simple enough to teach mid-conversation.
+Skull is pure bluffing with a few coasters. Place flowers or a skull face down, then bid on how many flowers you can flip without hitting a skull. It is simple enough to teach mid-conversation.
 
 ### Monikers
 
-Monikers <!-- AFFILIATE --> is a party game in three rounds with the same deck of names: describe freely, then use one word, then act it out. By round three the inside jokes are flying.
+Monikers is a party game in three rounds with the same deck of names: describe freely, then use one word, then act it out. By round three the inside jokes are flying.
 
 If your group loves bluffing, our ranked list of [the best social deduction games](/articles/best-social-deduction-games/) goes deeper.
 
@@ -132,19 +132,19 @@ If your group loves bluffing, our ranked list of [the best social deduction game
 
 ### Pandemic
 
-Pandemic <!-- AFFILIATE --> puts everyone on one team to stop four diseases from spreading. Each player has a special role, and you plan together. Our [Pandemic course](/academy/pandemic/) covers the teach.
+Pandemic puts everyone on one team to stop four diseases from spreading. Each player has a special role, and you plan together. Our [Pandemic course](/academy/pandemic/) covers the teach.
 
 ### The Crew: The Quest for Planet Nine
 
-The Crew <!-- AFFILIATE --> is a cooperative trick-taking game with a campaign of missions. You cannot talk freely about your cards, so every play becomes a signal. Missions take minutes, so one more is always tempting.
+The Crew is a cooperative trick-taking game with a campaign of missions. You cannot talk freely about your cards, so every play becomes a signal. Missions take minutes, so one more is always tempting.
 
 ### Hanabi
 
-Hanabi <!-- AFFILIATE --> flips card games inside out: you hold your cards facing away, so only your friends can see them. They give limited clues to help you play a fireworks show in order. Quiet, clever, and very satisfying.
+Hanabi flips card games inside out: you hold your cards facing away, so only your friends can see them. They give limited clues to help you play a fireworks show in order. Quiet, clever, and very satisfying.
 
 ### Sky Team
 
-Sky Team <!-- AFFILIATE --> is a two-player cooperative game about landing a plane. You roll dice in secret and place them without talking, trusting your copilot to read your plan. It won the 2024 Spiel des Jahres.
+Sky Team is a two-player cooperative game about landing a plane. You roll dice in secret and place them without talking, trusting your copilot to read your plan. It won the 2024 Spiel des Jahres.
 
 For more, see [the best cooperative board games](/articles/best-cooperative-board-games/).
 
@@ -152,29 +152,29 @@ For more, see [the best cooperative board games](/articles/best-cooperative-boar
 
 ### Wingspan
 
-Wingspan <!-- AFFILIATE --> is an engine-building game about birds. Each bird you play makes your later turns stronger. It looks peaceful, and it rewards careful planning. Start with our guide on [how to play Wingspan](/academy/wingspan/how-to-play-wingspan/).
+Wingspan is an engine-building game about birds. Each bird you play makes your later turns stronger. It looks peaceful, and it rewards careful planning. Start with our guide on [how to play Wingspan](/academy/wingspan/how-to-play-wingspan/).
 
 ### 7 Wonders
 
-7 Wonders <!-- AFFILIATE --> handles up to seven players in about 30 minutes because everyone picks a card at the same time and passes the rest. There is almost no waiting.
+7 Wonders handles up to seven players in about 30 minutes because everyone picks a card at the same time and passes the rest. There is almost no waiting.
 
 ### Splendor
 
-Splendor <!-- AFFILIATE --> is a gem trading game with simple turns: take chips or buy a card. Every card makes future cards cheaper, and the race to 15 points gets tight fast.
+Splendor is a gem trading game with simple turns: take chips or buy a card. Every card makes future cards cheaper, and the race to 15 points gets tight fast.
 
 ## Quick fillers for the start or end of the night
 
 ### Sushi Go!
 
-Sushi Go! <!-- AFFILIATE --> is a fast card drafting game. Pick a card, pass the hand, and build the best set of sushi. A full game takes 15 minutes.
+Sushi Go! is a fast card drafting game. Pick a card, pass the hand, and build the best set of sushi. A full game takes 15 minutes.
 
 ### Love Letter
 
-Love Letter <!-- AFFILIATE --> uses just a handful of cards. Draw one, play one, and try to knock out rivals or hold the best card at the end. The 2019 edition plays up to six.
+Love Letter uses just a handful of cards. Draw one, play one, and try to knock out rivals or hold the best card at the end. The 2019 edition plays up to six.
 
 ### No Thanks!
 
-No Thanks! <!-- AFFILIATE --> asks one question over and over: take this card, or pay a chip to pass it on. Simple, sneaky, and a great way to wait for the last guest. More short picks are in [quick board games under 30 minutes](/articles/quick-board-games-under-30-minutes/).
+No Thanks! asks one question over and over: take this card, or pay a chip to pass it on. Simple, sneaky, and a great way to wait for the last guest. More short picks are in [quick board games under 30 minutes](/articles/quick-board-games-under-30-minutes/).
 
 ## What if some friends don't play board games yet?
 

@@ -22,7 +22,7 @@ The point is that storage is a design problem, not a space problem. Most apartme
 
 Horizontally, flat, with the lid up. This is the one rule almost every long-time collector agrees on.
 
-Stored on their side like books, boxes let components slide and shift. Punchboards bow. Insert trays dump their contents into a pile at one end. Open a vertically stored copy of Wingspan after six months and you will find eggs in every corner.
+Stored on their side like books, boxes let components slide and shift. Punchboards bow. Insert trays dump their contents into a pile at one end. Open a vertically stored copy of [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) after six months and you will find eggs in every corner.
 
 Flat storage keeps everything where the insert put it. Stack no more than five or six boxes per pile so the bottom one does not crush, and keep the heaviest at the bottom. If you must store something vertically because of shelf shape, bag the components first so they cannot migrate.
 
@@ -32,7 +32,7 @@ The one exception: small card-game boxes with a single deck inside. Those are fi
 
 Any shelf that is deep enough, strong enough, and adjustable. That is what to look for, in that order.
 
-**Depth.** Most bookcases are 11 to 12 inches deep. Large game boxes are 12 inches square, so they overhang slightly on a standard shelf. A shelf 13 to 16 inches deep holds them fully and leaves room for a second row of small boxes in front. <!-- AFFILIATE -->
+**Depth.** Most bookcases are 11 to 12 inches deep. Large game boxes are 12 inches square, so they overhang slightly on a standard shelf. A shelf 13 to 16 inches deep holds them fully and leaves room for a second row of small boxes in front.
 
 **Strength.** Games are heavy. A shelf full of big boxes can weigh more than a shelf of books. Look for solid shelves, metal brackets or pins, and a unit that is anchored to the wall. Particleboard sags over a year under game weight; thicker shelves and shorter spans hold up.
 
@@ -69,11 +69,11 @@ The best home for an unplayed game is a shelf where it gets played. A local game
 
 Many boxes are mostly air. Downsizing is how a hundred games fit where sixty would otherwise go.
 
-**Rehome card games.** A game that is one deck plus a rules sheet does not need a 10-inch box. Move the deck to a labeled small container and recycle the box. Keep the rules folded inside. Sushi Go, The Crew, and most small-box games shrink to a quarter of their footprint.
+**Rehome card games.** A game that is one deck plus a rules sheet does not need a 10-inch box. Move the deck to a labeled small container and recycle the box. Keep the rules folded inside. [Sushi Go](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), [The Crew](https://link.amazon/B099S9RKf), and most small-box games shrink to a quarter of their footprint.
 
-**Consolidate expansions.** A base game and its expansions usually fit in the base box once you remove the inserts. Ticket to Ride with two map packs is one box, not three.
+**Consolidate expansions.** A base game and its expansions usually fit in the base box once you remove the inserts. [Ticket to Ride](https://link.amazon/B0jh8RB7f) with two map packs is one box, not three.
 
-**Replace inserts with bags.** The plastic insert is often the biggest thing in the box. Pull it out, bag the components by type, and the lid closes flatter. Many boxes then stack tighter. Small zip bags and a few rubber bands do most of the work. <!-- AFFILIATE -->
+**Replace inserts with bags.** The plastic insert is often the biggest thing in the box. Pull it out, bag the components by type, and the lid closes flatter. Many boxes then stack tighter. Small zip bags and a few rubber bands do most of the work.
 
 **Store the box art.** If a game lives in a generic container, cut the cover art off the lid and slip it in. You will know what it is at a glance.
 

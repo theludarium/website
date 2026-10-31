@@ -22,76 +22,76 @@ Compare that to the usual approach: ten minutes of rules, every exception covere
 
 | Game | Players | Time | Why it works |
 |---|---|---|---|
-| Codenames | 4 to 8+ | 15 min | One word, one number, guess your team's words |
-| Sushi Go! | 2 to 5 | 15 min | Pick a card, pass the rest |
-| No Thanks! | 3 to 7 | 15 min | Take the card or pay a chip |
-| Kingdomino | 2 to 4 | 15 to 20 min | Place dominoes to build a kingdom |
-| Skull | 3 to 6 | 15 to 30 min | Stack coasters, bid on flowers, avoid skulls |
-| Love Letter | 2 to 4 | 15 min | Draw one, play one, last one standing wins |
-| Just One | 3 to 7 | 20 min | Write one clue, matching clues vanish |
-| Cascadia | 1 to 4 | 30 to 45 min | Take a tile and an animal, place both |
-| Azul | 2 to 4 | 30 to 45 min | Take all of one color, fill a row |
-| Ticket to Ride | 2 to 5 | 45 to 60 min | Collect colors, claim routes, connect cities |
-| Hive | 2 | 20 min | Surround the other queen bee |
-| Carcassonne | 2 to 5 | 35 to 45 min | Draw a tile, add it to the map, maybe place a meeple |
-| 6 nimmt! | 2 to 10 | 20 to 30 min | Play a card, avoid being sixth in a row |
-| Wavelength | 2 to 12 | 30 min | Give a clue, the team guesses where it sits on the dial |
+| [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) | 4 to 8+ | 15 min | One word, one number, guess your team's words |
+| [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) | 2 to 5 | 15 min | Pick a card, pass the rest |
+| [No Thanks!](https://www.amazon.com/dp/B013FAC4FK?tag=cubecommonw0a-20) | 3 to 7 | 15 min | Take the card or pay a chip |
+| [Kingdomino](https://link.amazon/B08l49zvA) | 2 to 4 | 15 to 20 min | Place dominoes to build a kingdom |
+| [Skull](https://www.amazon.com/dp/B08R2BPLSN?tag=cubecommonw0a-20) | 3 to 6 | 15 to 30 min | Stack coasters, bid on flowers, avoid skulls |
+| [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20) | 2 to 4 | 15 min | Draw one, play one, last one standing wins |
+| [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20) | 3 to 7 | 20 min | Write one clue, matching clues vanish |
+| [Cascadia](https://link.amazon/B0g1HYFt4) | 1 to 4 | 30 to 45 min | Take a tile and an animal, place both |
+| [Azul](https://link.amazon/B0bGRYHex) | 2 to 4 | 30 to 45 min | Take all of one color, fill a row |
+| [Ticket to Ride](https://link.amazon/B0jh8RB7f) | 2 to 5 | 45 to 60 min | Collect colors, claim routes, connect cities |
+| [Hive](https://www.amazon.com/dp/B000EN5ZLW?tag=cubecommonw0a-20) | 2 | 20 min | Surround the other queen bee |
+| [Carcassonne](https://link.amazon/B012Rr5ed) | 2 to 5 | 35 to 45 min | Draw a tile, add it to the map, maybe place a meeple |
+| [6 nimmt!](https://www.amazon.com/dp/B0CYTGQG9J?tag=cubecommonw0a-20) | 2 to 10 | 20 to 30 min | Play a card, avoid being sixth in a row |
+| [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) | 2 to 12 | 30 min | Give a clue, the team guesses where it sits on the dial |
 
 ### Codenames
 
-"Your spymaster says one word and a number, and you guess which words on the grid they mean." <!-- AFFILIATE --> Add later: the assassin, and what happens when you touch the other team's word.
+"Your spymaster says one word and a number, and you guess which words on the grid they mean." Add later: the assassin, and what happens when you touch the other team's word.
 
 ### Sushi Go!
 
-"Pick one card from your hand, pass the rest to the left, and score sets at the end." <!-- AFFILIATE --> Add later: how each set scores. The cards mostly say it on them.
+"Pick one card from your hand, pass the rest to the left, and score sets at the end." Add later: how each set scores. The cards mostly say it on them.
 
 ### No Thanks!
 
-"Either take the face-up card, which is bad, or pay a chip to pass it, and whoever has the fewest points wins." <!-- AFFILIATE --> Add later: runs of consecutive cards only count the lowest. That rule is the whole strategy, and players find it on their own by round two.
+"Either take the face-up card, which is bad, or pay a chip to pass it, and whoever has the fewest points wins." Add later: runs of consecutive cards only count the lowest. That rule is the whole strategy, and players find it on their own by round two.
 
 ### Kingdomino
 
-"Pick a domino, add it to your five-by-five kingdom with matching terrain touching, and score each area by its size times its crowns." <!-- AFFILIATE --> Add later: picking a better tile means picking later next round. Also the castle must end up in the middle for a bonus.
+"Pick a domino, add it to your five-by-five kingdom with matching terrain touching, and score each area by its size times its crowns." Add later: picking a better tile means picking later next round. Also the castle must end up in the middle for a bonus.
 
 ### Skull
 
-"Stack your coasters face down, then bid on how many you can flip without hitting a skull." <!-- AFFILIATE --> Add later: you must flip your own stack first. That single rule makes the bluffing work.
+"Stack your coasters face down, then bid on how many you can flip without hitting a skull." Add later: you must flip your own stack first. That single rule makes the bluffing work.
 
 ### Love Letter
 
-"Draw a card, play one of your two, and try to be the last player in the round or hold the highest card." <!-- AFFILIATE --> Add later: nothing. The cards explain themselves.
+"Draw a card, play one of your two, and try to be the last player in the round or hold the highest card." Add later: nothing. The cards explain themselves.
 
 ### Just One
 
-"Everyone writes a one-word clue for the guesser, identical clues get erased, and the guesser has one shot." <!-- AFFILIATE --> Add later: how to score. Most groups forget to and have fun anyway.
+"Everyone writes a one-word clue for the guesser, identical clues get erased, and the guesser has one shot." Add later: how to score. Most groups forget to and have fun anyway.
 
 ### Cascadia
 
-"Take a habitat tile and an animal token together, place them in your landscape, and score for big habitats and animal patterns." <!-- AFFILIATE --> Add later: the scoring cards. Put them face up and let people read as they go.
+"Take a habitat tile and an animal token together, place them in your landscape, and score for big habitats and animal patterns." Add later: the scoring cards. Put them face up and let people read as they go.
 
 ### Azul
 
-"Take all tiles of one color from a factory, put them in a row on your board, and complete rows to move tiles onto your wall." <!-- AFFILIATE --> Add later: leftover tiles fall to the floor and cost points. Say it before the first pick; everything else can wait.
+"Take all tiles of one color from a factory, put them in a row on your board, and complete rows to move tiles onto your wall." Add later: leftover tiles fall to the floor and cost points. Say it before the first pick; everything else can wait.
 
 ### Ticket to Ride
 
-"Collect train cards by color, spend matching sets to claim routes on the map, and connect the cities on your secret tickets." <!-- AFFILIATE --> Add later: longer routes score more, and unfinished tickets count against you.
+"Collect train cards by color, spend matching sets to claim routes on the map, and connect the cities on your secret tickets." Add later: longer routes score more, and unfinished tickets count against you.
 
 ### Hive
 
-"Move your bugs to surround the other player's queen bee." <!-- AFFILIATE --> Add later: how each bug moves, one piece at a time, as the player picks it up.
+"Move your bugs to surround the other player's queen bee." Add later: how each bug moves, one piece at a time, as the player picks it up.
 
 ### Carcassonne
 
-"Draw a tile, add it to the map so the edges match, and optionally place one of your meeples on a city, road, or monastery." <!-- AFFILIATE --> Add later: farmers. Many groups skip them for the first game entirely.
+"Draw a tile, add it to the map so the edges match, and optionally place one of your meeples on a city, road, or monastery." Add later: farmers. Many groups skip them for the first game entirely.
 
 ### 6 nimmt!
 
-"Everyone plays a card at once, cards slot into rows in order, and if yours is the sixth in a row you take the whole row." <!-- AFFILIATE --> Add later: if your card is lower than every row, you choose a row to take. Players hit this on turn two and you explain it then.
+"Everyone plays a card at once, cards slot into rows in order, and if yours is the sixth in a row you take the whole row." Add later: if your card is lower than every row, you choose a row to take. Players hit this on turn two and you explain it then.
 
 ### Wavelength
 
-"I see a hidden target on this dial, I give you a clue on the spectrum, and your team guesses where the target is." <!-- AFFILIATE --> Add later: the left-right bonus guess for the other team. Optional for the first few rounds.
+"I see a hidden target on this dial, I give you a clue on the spectrum, and your team guesses where the target is." Add later: the left-right bonus guess for the other team. Optional for the first few rounds.
 
 *If this is useful, the newsletter sends more like it.*
 

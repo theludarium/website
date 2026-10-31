@@ -9,7 +9,7 @@ offer: game-shelf
 draft: false
 ---
 
-Picture a four-person group that has been meeting every other Thursday for about a year. They play at whoever's house has the cleanest table. Somewhere in that year, each of them bought Catan. Four boxes. One of them gets played. The other three have been sitting in closets, shrink-wrapped, for months.
+Picture a four-person group that has been meeting every other Thursday for about a year. They play at whoever's house has the cleanest table. Somewhere in that year, each of them bought [Catan](https://link.amazon/B0h8BDGR2). Four boxes. One of them gets played. The other three have been sitting in closets, shrink-wrapped, for months.
 
 At about $40 a copy, that is roughly $120 of games that nobody opened. It could have been three more games on the table. Nobody did anything wrong. Each person saw a game they loved, had the money, and bought it. Nobody told them there was another way.
 
@@ -21,7 +21,7 @@ Buying a game is a solo act. You are standing in a store or scrolling a listing,
 
 Most hobby advice makes it worse. Collection guides and top-ten lists are written for one person building one shelf. For most of us that is not true. We play with the same four to six people most of the time, and those people are buying games too.
 
-Then there is the enthusiasm problem. You play Wingspan at a friend's place, have a great night, and the next morning you order a copy. That is the most natural purchase in the hobby, and it is also the one most likely to be a duplicate. The game you just loved is, by definition, already in your group.
+Then there is the enthusiasm problem. You play [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) at a friend's place, have a great night, and the next morning you order a copy. That is the most natural purchase in the hobby, and it is also the one most likely to be a duplicate. The game you just loved is, by definition, already in your group.
 
 So the four Catan boxes are not a story about bad judgment. They are what happens when solo buying meets group playing, with nobody coordinating.
 
@@ -52,7 +52,7 @@ The rule has a corollary that turns the habit into something bigger:
 
 > **The Shared Shelf:** A play group's collection is a single library spread across several homes.
 
-Once you accept the One Copy Rule, your group's games stop being four small collections and start being one shared library. Your copy of Codenames is on the shelf. Your friend's copy of Pandemic is on the shelf. The shelf happens to be split across four apartments, but it is one shelf, and everyone in the group can play from it.
+Once you accept the One Copy Rule, your group's games stop being four small collections and start being one shared library. Your copy of [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) is on the shelf. Your friend's copy of [Pandemic](https://link.amazon/B0eHP5GCg) is on the shelf. The shelf happens to be split across four apartments, but it is one shelf, and everyone in the group can play from it.
 
 ## What does the One Copy Rule actually get you?
 
@@ -82,15 +82,15 @@ If the answer is yes, buy it with a clear conscience. If the answer is no, the m
 
 ### You play in two separate groups
 
-If you have a Thursday group in town and a family group two hours away, those are two Shared Shelves. A copy of Ticket to Ride in each place creates plays that one copy, living in one place, could not. The test passes.
+If you have a Thursday group in town and a family group two hours away, those are two Shared Shelves. A copy of [Ticket to Ride](https://link.amazon/B0jh8RB7f) in each place creates plays that one copy, living in one place, could not. The test passes.
 
 ### You need a home or family copy
 
-Your group's copy of Azul lives at Dana's apartment. Your kids want to play Azul on a Tuesday. A home copy produces plays the group copy never would. That is not a duplicate; that is a second library with its own players.
+Your group's copy of [Azul](https://link.amazon/B0bGRYHex) lives at Dana's apartment. Your kids want to play Azul on a Tuesday. A home copy produces plays the group copy never would. That is not a duplicate; that is a second library with its own players.
 
 ### The game is better with two sets
 
-A few games are designed to grow when you combine sets. Two copies of Dominion let one group build a much larger card pool and run different kingdoms at the same time. A Magic Cube seats eight drafters, so a group of sixteen regulars needs a second Cube to run two pods on the same night. In these cases the second copy adds plays directly.
+A few games are designed to grow when you combine sets. Two copies of [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) let one group build a much larger card pool and run different kingdoms at the same time. A Magic Cube seats eight drafters, so a group of sixteen regulars needs a second Cube to run two pods on the same night. In these cases the second copy adds plays directly.
 
 ### The anchor that is always needed
 
@@ -98,7 +98,7 @@ Some groups have a game that gets pulled out every single session, often as the 
 
 ### Cheap fillers
 
-A $12 copy of Love Letter or Sushi Go! is cheap enough that owning your own, so it is in your bag at all times, is defensible. The dollars at stake are small and the game shows up in more places. Just do not let "fillers are cheap" become a loophole for $40 games.
+A $12 copy of [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20) or [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) is cheap enough that owning your own, so it is in your bag at all times, is defensible. The dollars at stake are small and the game shows up in more places. Just do not let "fillers are cheap" become a loophole for $40 games.
 
 We go deeper on each of these, with a checklist, in [When a Second Copy of a Board Game Is Worth It](/articles/when-a-second-copy-is-worth-it/).
 
@@ -111,7 +111,7 @@ You need one conversation and a few habits. Here is the order that works.
 3. **Agree on the rule out loud.** One sentence: "From now on, we buy one copy of a game for the group, not one each." Saying it is what makes it real.
 4. **Check the shelf before you buy.** Before any purchase, glance at the pooled list or ask the chat. This is the whole habit in one step.
 5. **Decide who buys next.** When someone wants the group to have a new game, agree on who is buying it. If you are using Claim a Lane, the lane owner buys.
-6. **Route expansions to the base owner.** If the group loves Carcassonne and wants an expansion, the person who owns the base game gets it. Expansions make the best gifts for exactly this reason, which is the subject of [Gifting as Library Strategy](/articles/gifting-as-library-strategy/).
+6. **Route expansions to the base owner.** If the group loves [Carcassonne](https://link.amazon/B012Rr5ed) and wants an expansion, the person who owns the base game gets it. Expansions make the best gifts for exactly this reason, which is the subject of [Gifting as Library Strategy](/articles/gifting-as-library-strategy/).
 
 If you want a bit more structure, we built a short Group Shelf Charter template, with a pooling table and a place to record who owns what. It lives in [How to Audit Your Group's Game Shelf](/articles/audit-your-group-shelf/).
 

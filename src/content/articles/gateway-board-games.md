@@ -20,80 +20,80 @@ The word gets thrown around loosely, so here is a working definition. A gateway 
 - Rewards the new player with at least one moment of feeling clever.
 - Points toward a deeper game that uses the same ideas.
 
-Catan is the classic example. Its trading and building taught a generation that games could be social and strategic at once, and it led millions of people to everything that came after. But Catan is twenty years older than most of the games below, and the newer ones do the job faster.
+[Catan](https://link.amazon/B0h8BDGR2) is the classic example. Its trading and building taught a generation that games could be social and strategic at once, and it led millions of people to everything that came after. But Catan is twenty years older than most of the games below, and the newer ones do the job faster.
 
 ## The 10 best gateway board games
 
 | Game | Players | Time | Why it works |
 |---|---|---|---|
-| Ticket to Ride | 2 to 5 | 45 to 60 min | Collect, claim, connect. Instantly clear |
-| Codenames | 4 to 8+ | 15 min | Word clues, team play, zero setup |
-| Azul | 2 to 4 | 30 to 45 min | One rule, gorgeous tiles, real decisions |
-| Carcassonne | 2 to 5 | 35 to 45 min | Place a tile, place a [meeple](/articles/what-is-a-meeple/), build France |
-| Splendor | 2 to 4 | 30 min | A first taste of engine building |
-| Sushi Go! | 2 to 5 | 15 min | Card drafting in a quarter hour |
-| Kingdomino | 2 to 4 | 15 to 20 min | Dominoes meets kingdom building |
-| Pandemic | 2 to 4 | 45 min | The cooperative game everyone should try once |
-| King of Tokyo | 2 to 6 | 30 min | Yahtzee with monsters |
+| [Ticket to Ride](https://link.amazon/B0jh8RB7f) | 2 to 5 | 45 to 60 min | Collect, claim, connect. Instantly clear |
+| [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) | 4 to 8+ | 15 min | Word clues, team play, zero setup |
+| [Azul](https://link.amazon/B0bGRYHex) | 2 to 4 | 30 to 45 min | One rule, gorgeous tiles, real decisions |
+| [Carcassonne](https://link.amazon/B012Rr5ed) | 2 to 5 | 35 to 45 min | Place a tile, place a [meeple](/articles/what-is-a-meeple/), build France |
+| [Splendor](https://link.amazon/B0fEvY6Wg) | 2 to 4 | 30 min | A first taste of engine building |
+| [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) | 2 to 5 | 15 min | Card drafting in a quarter hour |
+| [Kingdomino](https://link.amazon/B08l49zvA) | 2 to 4 | 15 to 20 min | Dominoes meets kingdom building |
+| [Pandemic](https://link.amazon/B0eHP5GCg) | 2 to 4 | 45 min | The cooperative game everyone should try once |
+| [King of Tokyo](https://link.amazon/B0goO6BQA) | 2 to 6 | 30 min | Yahtzee with monsters |
 | Catan | 3 to 4 | 60 to 90 min | The original, still the best at trading |
 
 ### Ticket to Ride
 
-The game that proves you can teach a stranger a strategy game in three minutes. <!-- AFFILIATE --> Draw colored cards, spend sets to claim routes, complete secret tickets between cities. The first time a player realizes someone else wants the same route through Denver, they understand the whole game.
+The game that proves you can teach a stranger a strategy game in three minutes. Draw colored cards, spend sets to claim routes, complete secret tickets between cities. The first time a player realizes someone else wants the same route through Denver, they understand the whole game.
 
-Leads to: longer route games and anything with set collection. Many players move from here to Ticket to Ride: Europe, then to heavier network games.
+Leads to: longer route games and anything with set collection. Many players move from here to [Ticket to Ride: Europe](https://www.amazon.com/dp/B0GKBFFRBW?tag=cubecommonw0a-20), then to heavier network games.
 
 ### Codenames
 
-Two spymasters, two teams, one grid of words. <!-- AFFILIATE --> The spymaster gives a one-word clue and a number. The team guesses. It plays with almost any count and it works with people who have had a drink.
+Two spymasters, two teams, one grid of words. The spymaster gives a one-word clue and a number. The team guesses. It plays with almost any count and it works with people who have had a drink.
 
-Leads to: Decrypto, Wavelength, and the whole world of party word games. It also makes people comfortable with the idea of game night itself.
+Leads to: [Decrypto](https://www.amazon.com/dp/B07BB4ND6J?tag=cubecommonw0a-20), [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20), and the whole world of party word games. It also makes people comfortable with the idea of game night itself.
 
 ### Azul
 
-Draft tiles from the center, lay them on your board, score rows and patterns. <!-- AFFILIATE --> The components are heavy and pleasant. The one penalty rule, that tiles you cannot place cost points, teaches planning without a lecture.
+Draft tiles from the center, lay them on your board, score rows and patterns. The components are heavy and pleasant. The one penalty rule, that tiles you cannot place cost points, teaches planning without a lecture.
 
-Leads to: abstract strategy and tile-laying games. Players who like Azul often pick up Sagrada or Cascadia next.
+Leads to: abstract strategy and tile-laying games. Players who like Azul often pick up [Sagrada](https://www.amazon.com/dp/B0GL8V2VFD?tag=cubecommonw0a-20) or [Cascadia](https://link.amazon/B0g1HYFt4) next.
 
 ### Carcassonne
 
-Draw a tile, add it to the growing map, optionally place a wooden follower on a city, road, or field. <!-- AFFILIATE --> It is a puzzle with a light competitive edge. The map at the end of the game looks like something you built together, which it was.
+Draw a tile, add it to the growing map, optionally place a wooden follower on a city, road, or field. It is a puzzle with a light competitive edge. The map at the end of the game looks like something you built together, which it was.
 
 Leads to: area control and tile placement. Carcassonne also has more expansions than almost any game, so it can grow with a group for years.
 
 ### Splendor
 
-Take gem chips, buy cards, and watch each card make the next one cheaper. <!-- AFFILIATE --> This is the gentlest introduction to engine building, the idea behind half of the hobby's most popular games.
+Take gem chips, buy cards, and watch each card make the next one cheaper. This is the gentlest introduction to engine building, the idea behind half of the hobby's most popular games.
 
-Leads to: Wingspan, Century: Spice Road, and later Terraforming Mars. If someone enjoys the snowball feeling in Splendor, they will love what comes after. Our [deck building explainer](/articles/deck-building-games-explained/) covers a related idea.
+Leads to: [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), [Century: Spice Road](https://www.amazon.com/dp/B071DXCT5L?tag=cubecommonw0a-20), and later [Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20). If someone enjoys the snowball feeling in Splendor, they will love what comes after. Our [deck building explainer](/articles/deck-building-games-explained/) covers a related idea.
 
 ### Sushi Go!
 
-Pick one card, pass the hand, repeat until the cards run out. <!-- AFFILIATE --> Score sets of sushi. Fifteen minutes, portable tin, friendly art. It is the easiest game on this list to get to the table.
+Pick one card, pass the hand, repeat until the cards run out. Score sets of sushi. Fifteen minutes, portable tin, friendly art. It is the easiest game on this list to get to the table.
 
-Leads to: 7 Wonders and other drafting games. Sushi Go! teaches the pass-left rhythm in one round.
+Leads to: [7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20) and other drafting games. Sushi Go! teaches the pass-left rhythm in one round.
 
 ### Kingdomino
 
-Domino-shaped tiles with terrain on each half. <!-- AFFILIATE --> Pick a tile, place it in your five-by-five kingdom, score matching regions times crowns. The clever twist is that choosing a better tile means picking later next round.
+Domino-shaped tiles with terrain on each half. Pick a tile, place it in your five-by-five kingdom, score matching regions times crowns. The clever twist is that choosing a better tile means picking later next round.
 
-Leads to: Queendomino, and tile-laying games in general. It is also one of the best games for mixed tables of kids and adults.
+Leads to: [Queendomino](https://www.amazon.com/dp/B076N3VQJG?tag=cubecommonw0a-20), and tile-laying games in general. It is also one of the best games for mixed tables of kids and adults.
 
 ### Pandemic
 
-Four diseases spread across a world map, and your team has to cure them before the outbreaks cascade. <!-- AFFILIATE --> Pandemic is the gateway to cooperative play. Winning together, or losing together on the last turn, changes how a group feels about each other. We wrote a full piece on [why Pandemic still works](/articles/pandemic-board-game-explained/).
+Four diseases spread across a world map, and your team has to cure them before the outbreaks cascade. Pandemic is the gateway to cooperative play. Winning together, or losing together on the last turn, changes how a group feels about each other. We wrote a full piece on [why Pandemic still works](/articles/pandemic-board-game-explained/).
 
-Leads to: Forbidden Island, The Crew, Spirit Island, and the legacy format.
+Leads to: [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20), The Crew, [Spirit Island](https://www.amazon.com/dp/B01MUHP51S?tag=cubecommonw0a-20), and the legacy format.
 
 ### King of Tokyo
 
-Roll six dice, keep what you like, roll again, up to three times. <!-- AFFILIATE --> Giant monsters punch each other for control of the city. It is loud, fast, and the Yahtzee rhythm is already in everyone's hands.
+Roll six dice, keep what you like, roll again, up to three times. Giant monsters punch each other for control of the city. It is loud, fast, and the Yahtzee rhythm is already in everyone's hands.
 
-Leads to: dice games and lighter conflict games. Players who enjoy it often move to Quacks of Quedlinburg or Las Vegas.
+Leads to: dice games and lighter conflict games. Players who enjoy it often move to [Quacks of Quedlinburg](https://www.amazon.com/dp/B08T21DYKV?tag=cubecommonw0a-20) or [Las Vegas](https://www.amazon.com/dp/B0FNNC1R99?tag=cubecommonw0a-20).
 
 ### Catan
 
-Roll for resources, trade with neighbors, build roads and settlements. <!-- AFFILIATE --> It runs long for a gateway, and the dice can be cruel, but no game teaches negotiation faster. Someone always makes a bad trade and learns from it.
+Roll for resources, trade with neighbors, build roads and settlements. It runs long for a gateway, and the dice can be cruel, but no game teaches negotiation faster. Someone always makes a bad trade and learns from it.
 
 Leads to: anything with trading or negotiation. Catan remains the most common first step into the hobby for a reason.
 
@@ -103,7 +103,7 @@ Leads to: anything with trading or negotiation. Catan remains the most common fi
 
 Think about what they already enjoy.
 
-- Crossword or Wordle people: Codenames or Just One.
+- Crossword or Wordle people: Codenames or [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20).
 - Puzzle people: Azul, Kingdomino, or Carcassonne.
 - Poker or card people: Sushi Go! or Splendor.
 - People who hate conflict: Pandemic or Azul.

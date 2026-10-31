@@ -9,7 +9,7 @@ draft: false
 ---
 Splendor strategy is almost entirely about tempo. The game has no dice, no hidden information except reserved cards, and only three kinds of action. Two players making reasonable decisions will finish within a turn of each other, and the one who wasted a single turn early loses. This guide is about not wasting that turn.
 
-Splendor is small enough that the whole thing fits in your head, and that is what makes it worth studying. <!-- AFFILIATE -->
+Splendor is small enough that the whole thing fits in your head, and that is what makes it worth studying.
 
 ## How does Splendor work?
 
@@ -97,7 +97,7 @@ Things that gain tempo:
 
 The end trigger deserves a note. The round finishes after fifteen is reached, so if you are the first player and you hit fifteen, everyone else gets one more turn. If an opponent can reach sixteen on that turn, you lose. Count their points, their bonuses, and the cards on display before you trigger. Sometimes buying a two-point card to reach fourteen and waiting a turn is the winning play.
 
-Splendor is a game we put in front of people who think they do not like strategy games, because it is quiet, quick, and makes everyone feel smart by the third play. For the vocabulary underneath it, see our explainers on [engine building games](/articles/engine-building-games/) and what a [tableau](/articles/tableau-board-games/) is, since Splendor is the cleanest example of both. If your table wants a gentler planning game next, our [Azul guide](/articles/azul-strategy/) is a natural pairing.
+Splendor is a game we put in front of people who think they do not like strategy games, because it is quiet, quick, and makes everyone feel smart by the third play. For the vocabulary underneath it, see our explainers on [engine building games](/articles/engine-building-games/) and what a [tableau](/articles/tableau-board-games/) is, since [Splendor](https://link.amazon/B0fEvY6Wg) is the cleanest example of both. If your table wants a gentler planning game next, our [Azul guide](/articles/azul-strategy/) is a natural pairing.
 
 The game is the reason. The people are the point.
 

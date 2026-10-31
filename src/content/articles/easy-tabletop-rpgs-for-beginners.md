@@ -11,7 +11,7 @@ If you are looking for easy tabletop RPGs for beginners, start with this fact: D
 
 The eight systems below trade some of that depth for speed. Each can be taught in an hour or less, several in ten minutes. Each does something D&D does not. And each is a complete, real game that experienced players return to, not a training-wheels version of something else.
 
-**The quick answer:** for a first game tonight, play Lasers & Feelings or Honey Heist. Both fit on one page, use only six-sided dice, and teach in ten minutes. For horror, play Dread. For a group with no one who wants to run the game, play Fiasco.
+**The quick answer:** for a first game tonight, play Lasers & Feelings or Honey Heist. Both fit on one page, use only six-sided dice, and teach in ten minutes. For horror, play [Dread](https://www.amazon.com/dp/B000R99S4I?tag=cubecommonw0a-20). For a group with no one who wants to run the game, play [Fiasco](https://www.amazon.com/dp/1934859397?tag=cubecommonw0a-20).
 
 ## Why would you start with something other than D&D?
 
@@ -32,7 +32,7 @@ A simple RPG system is one a new player can hold in their head after one explana
 - **Fast characters.** Character creation takes minutes, not an evening, so a whole group can make characters and play in one sitting.
 - **Short rules.** The full rules fit on one page or a short booklet, so the host can read them the night before.
 
-Every game below passes at least three of the four. Call of Cthulhu is the exception that earns its place: its rulebook is long, but its core roll is the simplest on the list.
+Every game below passes at least three of the four. [Call of Cthulhu](https://www.amazon.com/dp/1568824300?tag=cubecommonw0a-20) is the exception that earns its place: its rulebook is long, but its core roll is the simplest on the list.
 
 ## The eight systems
 
@@ -93,9 +93,9 @@ Learn time: an hour for players. Investigative horror in which the characters ar
 | To play tonight with zero setup | Lasers & Feelings, Honey Heist | Almost none |
 | Real tension and scares | Dread | A block tower and a few questions |
 | No one to be in charge | Fiasco | None; the game runs itself |
-| Nostalgia and mystery | Kids on Bikes | An hour of collaborative town-building |
-| A caper with a crew | Blades in the Dark | A few hours of reading for the host |
-| Monster hunting with a TV feel | Monster of the Week | An hour |
+| Nostalgia and mystery | [Kids on Bikes](https://www.amazon.com/dp/099767119X?tag=cubecommonw0a-20) | An hour of collaborative town-building |
+| A caper with a crew | [Blades in the Dark](https://www.amazon.com/dp/1613171323?tag=cubecommonw0a-20) | A few hours of reading for the host |
+| Monster hunting with a TV feel | [Monster of the Week](https://www.amazon.com/dp/1613172036?tag=cubecommonw0a-20) | An hour |
 | Classic investigative horror | Call of Cthulhu | A published scenario and a few hours |
 
 If you are not sure, run Lasers & Feelings or Honey Heist first. They cost nothing, they finish in two hours, and they answer the question "does this group enjoy making things up together?" If the answer is yes, every other game on this list is open to you.
@@ -115,9 +115,9 @@ These systems are just as light, and each one has a free intro adventure in our 
 
 Yes. If your group likes the idea of an adventure but wants a board, a box, and rules that tell everyone what to do, a campaign board game is the halfway step. There is no game master; the box runs the story.
 
-- **Gloomhaven: Jaws of the Lion:** a cooperative dungeon campaign for 1 to 4 players whose opening scenarios teach the rules a few at a time. Our guide to [whether Gloomhaven is worth it](/articles/is-gloomhaven-worth-it/) compares it with the full game.
-- **Mice and Mystics:** a cooperative storybook adventure for 1 to 4 players in which the heroes are mice. A gentle pick for families.
-- **Sleeping Gods:** a cooperative exploration game for 1 to 4 players, read from a storybook. Close to a tabletop RPG in feel, with a campaign you can save between sessions.
+- **[Gloomhaven: Jaws of the Lion](https://www.amazon.com/dp/B088QSDB7S?tag=cubecommonw0a-20):** a cooperative dungeon campaign for 1 to 4 players whose opening scenarios teach the rules a few at a time. Our guide to [whether Gloomhaven is worth it](/articles/is-gloomhaven-worth-it/) compares it with the full game.
+- **[Mice and Mystics](https://www.amazon.com/dp/B009TNOF9G?tag=cubecommonw0a-20):** a cooperative storybook adventure for 1 to 4 players in which the heroes are mice. A gentle pick for families.
+- **[Sleeping Gods](https://www.amazon.com/dp/B084GWHLGK?tag=cubecommonw0a-20):** a cooperative exploration game for 1 to 4 players, read from a storybook. Close to a tabletop RPG in feel, with a campaign you can save between sessions.
 
 If you play alone, our list of the [best solo board games](/articles/best-solo-board-games/) has more.
 

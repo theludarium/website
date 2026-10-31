@@ -58,13 +58,13 @@ These take a little more time and set up a workshop or planning session well.
 
 **Time:** 10 to 15 minutes. **Group size:** tables of 4 to 7. **Gear:** sticky notes and pens.
 
-Inspired by the party game Just One, which won the Spiel des Jahres in 2019. <!-- AFFILIATE --> One person at each table is the guesser and closes their eyes. Everyone else sees a secret word and writes a one-word clue. Before the guesser looks, the writers compare clues and remove any that match. The guesser gets one try from the clues that are left. Rotate the guesser. It is cooperative, so the whole table wins or misses together, and it quietly teaches the value of thinking differently from the person next to you.
+Inspired by the party game [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20), which won the Spiel des Jahres in 2019. One person at each table is the guesser and closes their eyes. Everyone else sees a secret word and writes a one-word clue. Before the guesser looks, the writers compare clues and remove any that match. The guesser gets one try from the clues that are left. Rotate the guesser. It is cooperative, so the whole table wins or misses together, and it quietly teaches the value of thinking differently from the person next to you.
 
 ### 6. The Spectrum Line
 
 **Time:** 10 minutes. **Group size:** 6 to 30. **Gear:** two signs or a line of tape.
 
-Inspired by the party game Wavelength. <!-- AFFILIATE --> Name a light scale, such as "Breakfast food to dessert" or "Overrated to underrated." Call out an item, like "pancakes" or "airport sushi," and people physically stand where they think it falls. Ask a couple of volunteers at the ends to explain. People discover they see things differently, and nobody is wrong.
+Inspired by the party game [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20). Name a light scale, such as "Breakfast food to dessert" or "Overrated to underrated." Call out an item, like "pancakes" or "airport sushi," and people physically stand where they think it falls. Ask a couple of volunteers at the ends to explain. People discover they see things differently, and nobody is wrong.
 
 ### 7. Would You Rather, Office Edition
 
@@ -88,7 +88,7 @@ The classic, with one change: play it at small tables, not in front of the whole
 
 **Time:** 10 to 15 minutes. **Group size:** circles of 5 to 8. **Gear:** paper and pens.
 
-Based on the drawing game Telestrations. <!-- AFFILIATE --> Each person writes a simple phrase at the top of a sheet and passes it. The next person draws it and folds the phrase out of sight. The next writes what they think the drawing shows, and so on. At the end, everyone reveals how their phrase changed. Bad drawing is the whole point, so nobody feels judged.
+Based on the drawing game [Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20). Each person writes a simple phrase at the top of a sheet and passes it. The next person draws it and folds the phrase out of sight. The next writes what they think the drawing shows, and so on. At the end, everyone reveals how their phrase changed. Bad drawing is the whole point, so nobody feels judged.
 
 ### 11. Team Twenty Questions
 

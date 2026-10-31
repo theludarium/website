@@ -6,7 +6,7 @@ category: Game Guides
 tags: ["what is a tabletop RPG", "tabletop role-playing game explained", "TTRPG meaning", "how do tabletop RPGs work", "D&D explained", "pen and paper RPG", "Tabletop RPGs for beginners"]
 draft: false
 ---
-So, what is a tabletop RPG? It is a game where a group of people sit around a table and make up a story together, with one person describing the world and the others each playing a single character in it. Dice settle the moments where the outcome is in doubt. Dungeons & Dragons is the famous one, but it is one of hundreds.
+So, what is a tabletop RPG? It is a game where a group of people sit around a table and make up a story together, with one person describing the world and the others each playing a single character in it. Dice settle the moments where the outcome is in doubt. [Dungeons & Dragons](https://www.amazon.com/dp/0786969687?tag=cubecommonw0a-20) is the famous one, but it is one of hundreds.
 
 If your only exposure is the kids in the basement in Stranger Things, you already have the shape of it right: a group of friends, a table, a lot of yelling, and a monster called a Demogorgon that one of them is narrating. This article fills in the rest.
 
@@ -44,12 +44,12 @@ No. Fantasy is the biggest slice because D&D got there first, but there is a tab
 
 | Genre | Well-known systems | What a session feels like |
 |---|---|---|
-| Fantasy | Dungeons & Dragons, Pathfinder | Heroes, monsters, magic, treasure |
-| Horror | Call of Cthulhu, Dread | Investigation, dread, characters who probably do not survive |
-| Science fiction | Traveller, Starfinder, Mothership | Spaceships, salvage, things that should not be aboard |
-| Heists and crime | Blades in the Dark | A crew of scoundrels planning and botching a job |
-| Everyday life and drama | Fiasco, Good Society | Bad decisions, Austen-style romance, no combat at all |
-| Kids and whimsy | Kids on Bikes, No Thank You Evil | Small-town mysteries, Stranger Things in reverse |
+| Fantasy | Dungeons & Dragons, [Pathfinder](https://www.amazon.com/dp/1640787852?tag=cubecommonw0a-20) | Heroes, monsters, magic, treasure |
+| Horror | [Call of Cthulhu](https://www.amazon.com/dp/1568824300?tag=cubecommonw0a-20), [Dread](https://www.amazon.com/dp/B000R99S4I?tag=cubecommonw0a-20) | Investigation, dread, characters who probably do not survive |
+| Science fiction | [Traveller](https://www.amazon.com/dp/1913076474?tag=cubecommonw0a-20), [Starfinder](https://www.amazon.com/dp/1640786864?tag=cubecommonw0a-20), [Mothership](https://www.amazon.com/dp/B0FNKRNQPR?tag=cubecommonw0a-20) | Spaceships, salvage, things that should not be aboard |
+| Heists and crime | [Blades in the Dark](https://www.amazon.com/dp/1613171323?tag=cubecommonw0a-20) | A crew of scoundrels planning and botching a job |
+| Everyday life and drama | [Fiasco](https://www.amazon.com/dp/1934859397?tag=cubecommonw0a-20), Good Society | Bad decisions, Austen-style romance, no combat at all |
+| Kids and whimsy | [Kids on Bikes](https://www.amazon.com/dp/099767119X?tag=cubecommonw0a-20), [No Thank You Evil](https://www.amazon.com/dp/B01K1WOE9E?tag=cubecommonw0a-20) | Small-town mysteries, Stranger Things in reverse |
 
 Some of these are as rules-light as a single page. We ranked the easiest ones in [RPGs that aren't D&D](/articles/easy-tabletop-rpgs-for-beginners/). If dragons leave you cold, that is not a reason to skip the hobby. It is a reason to pick a different book.
 

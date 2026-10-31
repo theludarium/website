@@ -30,14 +30,14 @@ In year one, both groups buy twenty games. Here is how it might play out.
 
 ### The Maples, year one
 
-The Maples play Catan at the first game night and it is a hit. Three of them buy it within a month. Codenames goes the same way a few weeks later: two copies. Pandemic: two copies. Then each person rounds out their own shelf with a few picks that feel personal.
+The Maples play [Catan](https://link.amazon/B0h8BDGR2) at the first game night and it is a hit. Three of them buy it within a month. [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) goes the same way a few weeks later: two copies. Pandemic: two copies. Then each person rounds out their own shelf with a few picks that feel personal.
 
 | Member | Purchases (illustration) |
 |---|---|
-| Maple 1 | Catan, Codenames, Pandemic, Ticket to Ride, Azul |
-| Maple 2 | Catan, Codenames, Wingspan, Azul, Splendor |
-| Maple 3 | Catan, Pandemic, Ticket to Ride, Wingspan, Carcassonne |
-| Maple 4 | Codenames, Azul, Splendor, Sushi Go!, Love Letter |
+| Maple 1 | Catan, Codenames, [Pandemic](https://link.amazon/B0eHP5GCg), [Ticket to Ride](https://link.amazon/B0jh8RB7f), [Azul](https://link.amazon/B0bGRYHex) |
+| Maple 2 | Catan, Codenames, [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), Azul, [Splendor](https://link.amazon/B0fEvY6Wg) |
+| Maple 3 | Catan, Pandemic, Ticket to Ride, Wingspan, [Carcassonne](https://link.amazon/B012Rr5ed) |
+| Maple 4 | Codenames, Azul, Splendor, [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20) |
 
 Twenty purchases. Count the distinct titles: Catan, Codenames, Pandemic, Ticket to Ride, Azul, Wingspan, Splendor, Carcassonne, Sushi Go!, Love Letter. Ten games. Ten duplicate copies.
 
@@ -47,10 +47,10 @@ The Oaks buy twenty games too, but every purchase lands in a lane and nobody buy
 
 | Member (lane) | Purchases (illustration) |
 |---|---|
-| Oak 1 (strategy) | Catan, Wingspan, 7 Wonders, Terraforming Mars, Azul |
-| Oak 2 (party) | Codenames, Just One, Wavelength, plus two more party games |
-| Oak 3 (co-op) | Pandemic, The Crew, Spirit Island, plus two more co-ops |
-| Oak 4 (2-player and filler) | Patchwork, Jaipur, Hive, Sushi Go!, Love Letter |
+| Oak 1 (strategy) | Catan, Wingspan, [7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20), [Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20), Azul |
+| Oak 2 (party) | Codenames, [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20), [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20), plus two more party games |
+| Oak 3 (co-op) | Pandemic, [The Crew](https://link.amazon/B099S9RKf), [Spirit Island](https://www.amazon.com/dp/B01MUHP51S?tag=cubecommonw0a-20), plus two more co-ops |
+| Oak 4 (2-player and filler) | [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20), [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20), [Hive](https://www.amazon.com/dp/B000EN5ZLW?tag=cubecommonw0a-20), Sushi Go!, Love Letter |
 
 Twenty purchases. Twenty distinct games. Zero duplicates.
 
@@ -62,13 +62,13 @@ Year two is where the two habits really separate, because the Maples' duplicates
 
 Some Maples slow down. A few buy games they saw online and never bring to the group. Two of them buy Wingspan expansions for their own copies, so the group now owns two expanded Wingspans, one of which never leaves its owner's house. Rough tally for year two:
 
-- Seven new distinct titles across the group (illustration: Dominion, Root, The Crew, Just One, Patchwork, Splendor expansion, a Wingspan expansion).
-- Six more duplicate base games, because three people bought Dominion after one good night and two bought Root.
+- Seven new distinct titles across the group (illustration: Dominion, [Root](https://www.amazon.com/dp/B07F454YF3?tag=cubecommonw0a-20), The Crew, Just One, Patchwork, Splendor expansion, a Wingspan expansion).
+- Six more duplicate base games, because three people bought [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) after one good night and two bought Root.
 - Seven purchases that were duplicates of expansions or games bought solo and never played at the group table.
 
 ### The Oaks, year two
 
-The Oaks keep buying in lanes. At the first birthday of the year, three of them chip in on a $100 campaign game, Gloomhaven, that goes to the strategy owner's house because that is where the big games live. Expansions for Wingspan, Pandemic, and Spirit Island arrive as gifts to the lane owners. The rest of the budget fills gaps the group noticed: a second-tier party game that works at five, a two-player war game, two more fillers.
+The Oaks keep buying in lanes. At the first birthday of the year, three of them chip in on a $100 campaign game, [Gloomhaven](https://www.amazon.com/dp/B01LZXVN4P?tag=cubecommonw0a-20), that goes to the strategy owner's house because that is where the big games live. Expansions for Wingspan, Pandemic, and Spirit Island arrive as gifts to the lane owners. The rest of the budget fills gaps the group noticed: a second-tier party game that works at five, a two-player war game, two more fillers.
 
 - Fourteen new distinct base games.
 - Four expansions, each to the owner of the base game.

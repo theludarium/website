@@ -53,10 +53,10 @@ Keep this in a notes app, a spreadsheet, or a pocket notebook. The format does n
 
 | Date | Game | Mechanic | Players | Real length | Played with | Rating | Why |
 |---|---|---|---|---|---|---|---|
-| Oct 3 | Ticket to Ride | Route building, set collection | 4 | 70 min | Beth, Sam, Rae | 4 | Easy teach, tense ending, Beth asked to play again |
-| Oct 10 | Codenames | Word association, teams | 8 | 25 min | Party at Sam's | 5 | Whole room laughing, works with new players |
-| Oct 17 | Terraforming Mars | Engine building, card drafting | 3 | 3 hrs | Sam, Rae | 3 | Loved the engine, too long for a weeknight |
-| Oct 24 | Jaipur | Set collection, push your luck | 2 | 20 min | Beth | 4 | Perfect after the kids are down |
+| Oct 3 | [Ticket to Ride](https://link.amazon/B0jh8RB7f) | Route building, set collection | 4 | 70 min | Beth, Sam, Rae | 4 | Easy teach, tense ending, Beth asked to play again |
+| Oct 10 | [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) | Word association, teams | 8 | 25 min | Party at Sam's | 5 | Whole room laughing, works with new players |
+| Oct 17 | [Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20) | Engine building, card drafting | 3 | 3 hrs | Sam, Rae | 3 | Loved the engine, too long for a weeknight |
+| Oct 24 | [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20) | Set collection, push your luck | 2 | 20 min | Beth | 4 | Perfect after the kids are down |
 
 Those entries are invented to show the shape; your log will look different. After ten or fifteen rows, patterns appear that you would never have guessed from browsing a store. You might find that every five-star entry was under 30 minutes, or that you only rated games highly when your partner was at the table, or that you love engine building and merely tolerate everything else.
 
@@ -72,7 +72,7 @@ The log also tells you which role a game would fill, which matters once you star
 
 ## When playing first means never buying at all
 
-This is the part that surprises people. If your taste log shows that you played Catan four times at Sam's house and loved it every time, the right move is often not to buy Catan. It is to keep playing at Sam's.
+This is the part that surprises people. If your taste log shows that you played [Catan](https://link.amazon/B0h8BDGR2) four times at Sam's house and loved it every time, the right move is often not to buy Catan. It is to keep playing at Sam's.
 
 That is the [One Copy Rule](/articles/one-copy-rule/) in action. Sam's copy already serves the group. A second copy would cost about $40 and create no new plays; you would still play at Sam's, because that is where the group meets. The [second-copy test](/articles/when-a-second-copy-is-worth-it/) asks one question: does the second copy create plays that would not otherwise happen? Usually the answer is no.
 

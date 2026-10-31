@@ -7,9 +7,9 @@ category: Game Guides
 tags: ["best board games 2026", "new board games 2026", "top board games this year", "best new board games", "board game releases 2026", "board games worth buying 2026", "What to play"]
 draft: false
 ---
-A list of the best board games of 2026 should answer one question: which new releases are worth a place on a table that already has Codenames, Wingspan, and Ticket to Ride on it? The bar is high. Hundreds of games come out every year, and most of them are fine. A handful change what a game night looks like.
+A list of the best board games of 2026 should answer one question: which new releases are worth a place on a table that already has [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), and [Ticket to Ride](https://link.amazon/B0jh8RB7f) on it? The bar is high. Hundreds of games come out every year, and most of them are fine. A handful change what a game night looks like.
 
-**The quick answer:** Cozy Stickerville for families, JinxO for a party of adults, Dino Racer for a mixed table that wants ten loud minutes, and Duel of Meloch for two players who want strategy.
+**The quick answer:** [Cozy Stickerville](https://www.amazon.com/dp/B0GBCW56V8?tag=cubecommonw0a-20) for families, JinxO for a party of adults, Dino Racer for a mixed table that wants ten loud minutes, and Duel of Meloch for two players who want strategy.
 
 This is a running list. We update it as the year goes on and as more groups report back on the new releases. Before the picks, here is how we judge, so you can argue with us.
 
@@ -37,16 +37,16 @@ To make the standard concrete, here are games from the last few years that passe
 
 | Game | Players | Time | Why it set the bar |
 |---|---|---|---|
-| Cascadia | 1 to 4 | 30 to 45 min | Three-minute teach, deep puzzle, no conflict |
-| The Crew | 2 to 5 | 20 min | Cooperative trick-taking that teaches itself |
-| Sky Team | 2 | 15 to 20 min | Two players land a plane, barely speaking |
-| Wavelength | 2 to 12 | 30 min | A party game adults argue about for an hour |
-| Heat: Pedal to the Metal | 1 to 6 | 45 to 60 min | Racing with hand management, loud and close |
-| Ark Nova | 1 to 4 | 90 to 150 min | A heavy game that still earns the second play |
+| [Cascadia](https://link.amazon/B0g1HYFt4) | 1 to 4 | 30 to 45 min | Three-minute teach, deep puzzle, no conflict |
+| [The Crew](https://link.amazon/B099S9RKf) | 2 to 5 | 20 min | Cooperative trick-taking that teaches itself |
+| [Sky Team](https://www.amazon.com/dp/B0CHD8RCSJ?tag=cubecommonw0a-20) | 2 | 15 to 20 min | Two players land a plane, barely speaking |
+| [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) | 2 to 12 | 30 min | A party game adults argue about for an hour |
+| [Heat: Pedal to the Metal](https://www.amazon.com/dp/B0BGXPZG4B?tag=cubecommonw0a-20) | 1 to 6 | 45 to 60 min | Racing with hand management, loud and close |
+| [Ark Nova](https://www.amazon.com/dp/B09L6FCP9S?tag=cubecommonw0a-20) | 1 to 4 | 90 to 150 min | A heavy game that still earns the second play |
 
-Cascadia is the model for a light game: two actions, a changing scoring puzzle, and it won the Spiel des Jahres for exactly that. <!-- AFFILIATE --> The Crew proved a trick-taking game could be cooperative, and won the 2020 Kennerspiel des Jahres doing it. <!-- AFFILIATE --> Sky Team showed that a two-player cooperative game could create more tension in fifteen minutes than most games manage in two hours. <!-- AFFILIATE -->
+Cascadia is the model for a light game: two actions, a changing scoring puzzle, and it won the Spiel des Jahres for exactly that. The Crew proved a trick-taking game could be cooperative, and won the 2020 Kennerspiel des Jahres doing it. Sky Team showed that a two-player cooperative game could create more tension in fifteen minutes than most games manage in two hours.
 
-Wavelength is the party game that converted the people who hated party games. <!-- AFFILIATE --> Heat made a racing game that is both a real strategy game and a shouting match. <!-- AFFILIATE --> Ark Nova is the exception on the list, a heavy game, included because it proved that a 2-hour game can still pass the "did anyone ask for it again" test. <!-- AFFILIATE -->
+Wavelength is the party game that converted the people who hated party games. Heat made a racing game that is both a real strategy game and a shouting match. Ark Nova is the exception on the list, a heavy game, included because it proved that a 2-hour game can still pass the "did anyone ask for it again" test.
 
 A 2026 game does not need to beat these. It needs to belong next to them.
 
@@ -59,38 +59,38 @@ A 2026 game does not need to beat these. It needs to belong next to them.
 | Dino Racer | 2 to 6 | 10 to 20 min | A ten-minute race that gets a whole table shouting |
 | JinxO | 3 to 7 | 30 min | Word-matching party game, Spiel des Jahres 2026 |
 | Cozy Stickerville | 1 to 6 | 30 to 60 min | A legacy game that teaches itself with stickers |
-| Flip 7: With a Vengeance | 3+ | 20 min | Push-your-luck with a mean streak |
+| [Flip 7: With a Vengeance](https://www.amazon.com/dp/B0GK9XK2N4?tag=cubecommonw0a-20) | 3+ | 20 min | Push-your-luck with a mean streak |
 | Wingspan Pocket | 1 to 5 | 25 to 35 min | Wingspan in a small box and half an hour |
 | The Two Towers Trick-Taking Game | 1 to 4 | 20 min | Cooperative trick-taking with a story |
 | Duel of Meloch | 1 to 2 | 45 min | A tight two-player duel in the Scythe world |
 
 ### Dino Racer
 
-[Dino Racer](https://dicetower.com/board-game/462945) <!-- AFFILIATE --> is Marceline Leiman's card-driven racing game from Underdog Games: you draft cards that bet on five dinosaurs while flipped cards move them along a short track, and everyone shouts. A game takes ten to twenty minutes, the teach under three, and upsets are constant. Wargamer gave it a [perfect score](https://www.wargamer.com/dino-racer/board-game-review); copies have been hard to find outside conventions so far. The easiest opener of the year.
+[Dino Racer](https://dicetower.com/board-game/462945) is Marceline Leiman's card-driven racing game from Underdog Games: you draft cards that bet on five dinosaurs while flipped cards move them along a short track, and everyone shouts. A game takes ten to twenty minutes, the teach under three, and upsets are constant. Wargamer gave it a [perfect score](https://www.wargamer.com/dino-racer/board-game-review); copies have been hard to find outside conventions so far. The easiest opener of the year.
 
 ### JinxO
 
-[JinxO](https://www.spiel-des-jahres.de/en/?p=36862) <!-- AFFILIATE --> is the one exception to our 2026 rule. Martin Ang's word-association party game (fill a three-by-three grid with answers to a category, score when they match) first came out in Indonesia in 2024, and its German edition, Dito!, won the [2026 Spiel des Jahres](https://boardgamewire.com/index.php/2026/07/13/jinxo-wins-2026-spiel-des-jahres-rebirth-secures-historic-triple-for-reiner-knizia/). It is built to pass the second-play test, because the fun is learning how your friends think, and that changes with every group.
+[JinxO](https://www.spiel-des-jahres.de/en/?p=36862) is the one exception to our 2026 rule. Martin Ang's word-association party game (fill a three-by-three grid with answers to a category, score when they match) first came out in Indonesia in 2024, and its German edition, Dito!, won the [2026 Spiel des Jahres](https://boardgamewire.com/index.php/2026/07/13/jinxo-wins-2026-spiel-des-jahres-rebirth-secures-historic-triple-for-reiner-knizia/). It is built to pass the second-play test, because the fun is learning how your friends think, and that changes with every group.
 
 ### Cozy Stickerville
 
-[Cozy Stickerville](https://www.wargamer.com/cozy-stickerville/board-game-review) <!-- AFFILIATE --> is Corey Konieczka's cooperative legacy game from Unexpected Games, released in February: build a village with more than 800 stickers over a ten-session campaign. A Spiel des Jahres nominee. The teach happens as you play, the clearest pass of test one this year. Best for families and couples.
+[Cozy Stickerville](https://www.wargamer.com/cozy-stickerville/board-game-review) is Corey Konieczka's cooperative legacy game from Unexpected Games, released in February: build a village with more than 800 stickers over a ten-session campaign. A Spiel des Jahres nominee. The teach happens as you play, the clearest pass of test one this year. Best for families and couples.
 
 ### Flip 7: With a Vengeance
 
-[Flip 7: With a Vengeance](https://theop.games/products/flip-7-with-a-vengeance) <!-- AFFILIATE --> from The Op (a Walmart exclusive in the US) is a standalone follow-up to the push-your-luck hit, adding action cards that steal, force draws, and cut scores. It trades innocence for interaction, which is what groups who found Flip 7 too polite wanted. The teach is still under five minutes.
+[Flip 7: With a Vengeance](https://www.amazon.com/dp/B0GK9XK2N4?tag=cubecommonw0a-20) from The Op (a Walmart exclusive in the US) is a standalone follow-up to the push-your-luck hit, adding action cards that steal, force draws, and cut scores. It trades innocence for interaction, which is what groups who found Flip 7 too polite wanted. The teach is still under five minutes.
 
 ### Wingspan Pocket
 
-[Wingspan Pocket](https://stonemaiergames.com/games/wingspan/wingspan-pocket/) <!-- AFFILIATE --> is Elizabeth Hargrave's compact take on her own engine builder, a twenty-dollar box released on Stonemaier's store in July and in shops in August. It is not Wingspan and does not try to be; it is the game you bring when half the table is new and you have half an hour.
+[Wingspan Pocket](https://www.amazon.com/dp/B0H7YNXCYG?tag=cubecommonw0a-20) is Elizabeth Hargrave's compact take on her own engine builder, a twenty-dollar box released on Stonemaier's store in July and in shops in August. It is not Wingspan and does not try to be; it is the game you bring when half the table is new and you have half an hour.
 
 ### The Two Towers Trick-Taking Game
 
-[The Lord of the Rings: The Two Towers Trick-Taking Game](https://boardgamegeek.com/boardgame/452808/the-lord-of-the-rings-the-two-towers-trick-taking) <!-- AFFILIATE --> continues the cooperative trick-taking series that began with the Fellowship game, released in January and playable standalone. Chapter scenarios run about twenty minutes each. If your group liked The Crew, this is the next box.
+[The Lord of the Rings: The Two Towers Trick-Taking Game](https://boardgamegeek.com/boardgame/452808/the-lord-of-the-rings-the-two-towers-trick-taking) continues the cooperative trick-taking series that began with the Fellowship game, released in January and playable standalone. Chapter scenarios run about twenty minutes each. If your group liked The Crew, this is the next box.
 
 ### Duel of Meloch
 
-[Duel of Meloch](https://stonemaiergames.com/games/duel-of-meloch/) <!-- AFFILIATE --> is Jamey Stegmaier's standalone two-player game in the Scythe world, released in August: five-minute setup, a small map, a race to four stars. The heaviest game here, and short enough that a tense game is easy to run back. For couples who have worn out Sky Team.
+[Duel of Meloch](https://www.amazon.com/dp/B0H7TF38VP?tag=cubecommonw0a-20) is Jamey Stegmaier's standalone two-player game in the Scythe world, released in August: five-minute setup, a small map, a race to four stars. The heaviest game here, and short enough that a tense game is easy to run back. For couples who have worn out Sky Team.
 
 ## Which 2026 board game is best for your table?
 
@@ -140,7 +140,7 @@ BoardGameGeek's database grew from [about 80,000 entries in 2019 to more than 15
 
 ### Should I buy new board games or classics?
 
-Classics first. A shelf with Codenames, Ticket to Ride, Pandemic, and Azul covers most groups. Add new releases once the classics are getting regular play.
+Classics first. A shelf with Codenames, Ticket to Ride, [Pandemic](https://link.amazon/B0eHP5GCg), and [Azul](https://link.amazon/B0bGRYHex) covers most groups. Add new releases once the classics are getting regular play.
 
 ### How do you judge the best board games of 2026?
 

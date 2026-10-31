@@ -26,7 +26,7 @@ Directly, evenly, and from above. That is the whole principle. Everything else i
 
 **From above.** Side light glares off glossy cards and card sleeves. Light from overhead at a steep angle minimizes that. If you have glare, raise the light or tilt it more vertical.
 
-What to look for in a lamp for a game table: a neutral or slightly warm color temperature so colors on components read true, enough brightness to read small text comfortably, and a dimmer so you can drop it for a party game and raise it for a dense card game. <!-- AFFILIATE --> Avoid very cool, bluish light. It makes a room feel like an office and a long game feel longer.
+What to look for in a lamp for a game table: a neutral or slightly warm color temperature so colors on components read true, enough brightness to read small text comfortably, and a dimmer so you can drop it for a party game and raise it for a dense card game. Avoid very cool, bluish light. It makes a room feel like an office and a long game feel longer.
 
 A quick test: put a card with small text at the far corner of the table and read it from your seat without leaning. If you cannot, add light.
 

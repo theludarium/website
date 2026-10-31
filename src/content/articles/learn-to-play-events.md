@@ -14,7 +14,7 @@ This guide covers choosing the game, teaching it once to everyone instead of fiv
 
 Not every game. The right game has three properties.
 
-**Medium weight.** Light games do not need a learn-to-play night; people can read the back of the box. Heavy games take too long to teach and too long to play. The sweet spot is a game that takes ten to fifteen minutes to teach and 60 to 90 minutes to play: Wingspan <!-- AFFILIATE -->, Catan <!-- AFFILIATE -->, Ticket to Ride <!-- AFFILIATE --> for a very new crowd, Pandemic <!-- AFFILIATE -->, 7 Wonders <!-- AFFILIATE -->, Carcassonne <!-- AFFILIATE -->, Everdell <!-- AFFILIATE -->, Splendor <!-- AFFILIATE -->.
+**Medium weight.** Light games do not need a learn-to-play night; people can read the back of the box. Heavy games take too long to teach and too long to play. The sweet spot is a game that takes ten to fifteen minutes to teach and 60 to 90 minutes to play: [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), [Catan](https://link.amazon/B0h8BDGR2), [Ticket to Ride](https://link.amazon/B0jh8RB7f) for a very new crowd, [Pandemic](https://link.amazon/B0eHP5GCg), [7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20), [Carcassonne](https://link.amazon/B012Rr5ed), Everdell, [Splendor](https://link.amazon/B0fEvY6Wg).
 
 **Demand.** The game people have heard of and have not played. Wingspan and Catan fill a room; a brilliant game nobody has heard of fills a table. Save the obscure ones for the group that already comes.
 

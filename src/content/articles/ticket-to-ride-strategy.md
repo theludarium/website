@@ -7,9 +7,9 @@ games: [ticket-to-ride]
 tags: ["Ticket to Ride strategy", "Ticket to Ride tips", "Ticket to Ride destination tickets", "how to win Ticket to Ride", "Ticket to Ride blocking", "Ticket to Ride longest route", "Strategy guides"]
 draft: false
 ---
-Good Ticket to Ride strategy comes down to one question you ask on every turn: is it time to build, or is it time to draw? Players who lose by thirty points usually answered it wrong in the same direction every time. They either hoarded cards until someone took their route, or they built every two-train route in sight and ran out of trains with tickets unfinished.
+Good [Ticket to Ride](https://link.amazon/B0jh8RB7f) strategy comes down to one question you ask on every turn: is it time to build, or is it time to draw? Players who lose by thirty points usually answered it wrong in the same direction every time. They either hoarded cards until someone took their route, or they built every two-train route in sight and ran out of trains with tickets unfinished.
 
-This guide covers the base game on the USA map, which is what most people own. The same thinking applies to the Europe map and most of the others, with small adjustments. <!-- AFFILIATE -->
+This guide covers the base game on the USA map, which is what most people own. The same thinking applies to the Europe map and most of the others, with small adjustments.
 
 ## How does scoring actually work in Ticket to Ride?
 

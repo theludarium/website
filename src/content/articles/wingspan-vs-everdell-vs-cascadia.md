@@ -7,7 +7,7 @@ games: [wingspan, everdell, cascadia]
 tags: ["Wingspan vs Everdell", "Cascadia vs Wingspan", "nature board games", "Everdell vs Cascadia", "best nature themed board games", "Wingspan review", "What to play"]
 draft: false
 ---
-Three of the most popular board games of the last decade are about birds, forest animals, and Pacific Northwest wildlife. The Wingspan vs Everdell question comes up constantly, and Cascadia belongs in the same conversation. All three are beautiful, all three are calm, and they are not the same game. One is an engine builder, one is a worker placement game with a story, and one is a tile puzzle you can teach in three minutes.
+Three of the most popular board games of the last decade are about birds, forest animals, and Pacific Northwest wildlife. The [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) vs Everdell question comes up constantly, and [Cascadia](https://link.amazon/B0g1HYFt4) belongs in the same conversation. All three are beautiful, all three are calm, and they are not the same game. One is an engine builder, one is a worker placement game with a story, and one is a tile puzzle you can teach in three minutes.
 
 This guide compares them on the things that matter for a real table: how long they take, how hard they are to learn, how much players interact, and who each one suits.
 
@@ -27,19 +27,19 @@ That shared gentleness is why they are often lumped together, and why people ass
 
 ### Wingspan
 
-Each turn you do one of four things: play a bird card into a habitat, gain food, lay eggs, or draw cards. <!-- AFFILIATE --> Birds you play add powers that trigger every time you use that habitat, so your board becomes an engine that produces more each round. By the final round, a single action can cascade through five birds.
+Each turn you do one of four things: play a bird card into a habitat, gain food, lay eggs, or draw cards. Birds you play add powers that trigger every time you use that habitat, so your board becomes an engine that produces more each round. By the final round, a single action can cascade through five birds.
 
 Wingspan's strength is the feeling of growth. Its weakness is that the first two rounds can feel slow to a new player, and the game has little interaction. You mostly tend your own aviary. It plays well at two and three, and slows at five.
 
 ### Everdell
 
-A worker placement game set under an enormous cardboard tree. <!-- AFFILIATE --> You send critters to gather resources, then spend them to build a city of cards. Buildings let you play matching creatures for free, so the city develops its own logic. Four seasons pass, and each one gives you back your workers and a few more.
+A worker placement game set under an enormous cardboard tree. You send critters to gather resources, then spend them to build a city of cards. Buildings let you play matching creatures for free, so the city develops its own logic. Four seasons pass, and each one gives you back your workers and a few more.
 
 Everdell's strength is the sense of story. Your city looks like a place by the end. Its weakness is the teach. There are a lot of card types and some fiddly rules about who can play what for free. Expect a longer first game. The tree is decorative and takes up most of the table.
 
 ### Cascadia
 
-Draft a habitat tile and a wildlife token together, then place both in your growing landscape. <!-- AFFILIATE --> Score for large connected habitats and for arranging animals in patterns set by scoring cards that change each game. That is the whole rulebook.
+Draft a habitat tile and a wildlife token together, then place both in your growing landscape. Score for large connected habitats and for arranging animals in patterns set by scoring cards that change each game. That is the whole rulebook.
 
 Cascadia's strength is accessibility. A table of five new players can be scoring by minute four. Its weakness is that it can feel like a solo puzzle, since the only interaction is taking the tile someone else wanted. It won the Spiel des Jahres, and it earns the award by making a deep game out of two simple actions.
 

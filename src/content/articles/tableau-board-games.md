@@ -40,9 +40,9 @@ Players new to the hobby sometimes hear "tableau" and think it means "cards on t
 | Market or display | To everyone | Until taken | Things anyone could acquire |
 | Tableau | To everyone | For the rest of the game | Things you have built |
 
-A deck builder like Dominion has a hand, a deck, and a discard, but almost no tableau; cards cycle through and nothing stays out. <!-- AFFILIATE --> A tableau builder like Race for the Galaxy has a hand and a tableau, and cards move from one to the other and stay. The two feel completely different even though both are "card games where you acquire cards."
+A deck builder like [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) has a hand, a deck, and a discard, but almost no tableau; cards cycle through and nothing stays out. A tableau builder like [Race for the Galaxy](https://www.amazon.com/dp/B000YLAOEW?tag=cubecommonw0a-20) has a hand and a tableau, and cards move from one to the other and stay. The two feel completely different even though both are "card games where you acquire cards."
 
-Many games mix zones. Wingspan has a hand of bird cards and a tableau of played birds. <!-- AFFILIATE --> Terraforming Mars has a hand of projects, a tableau of played cards, and a shared board. The tableau is one place among several, and the game's character depends on how much happens there.
+Many games mix zones. [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) has a hand of bird cards and a tableau of played birds. [Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20) has a hand of projects, a tableau of played cards, and a shared board. The tableau is one place among several, and the game's character depends on how much happens there.
 
 Our explainer on [engine building games](/articles/engine-building-games/) covers why permanence matters so much once cards start feeding each other.
 
@@ -52,16 +52,16 @@ Our explainer on [engine building games](/articles/engine-building-games/) cover
 
 A tableau builder is a game where adding cards to your tableau is the main thing you do and where the tableau's contents determine most of your scoring and most of your abilities.
 
-Race for the Galaxy is the game most hobbyists name first. <!-- AFFILIATE --> You play planets and developments into a tableau; each one gives a power or a scoring condition, and the game ends when someone has twelve cards out. The whole game is in the tableau. There is no board at all.
+Race for the Galaxy is the game most hobbyists name first. You play planets and developments into a tableau; each one gives a power or a scoring condition, and the game ends when someone has twelve cards out. The whole game is in the tableau. There is no board at all.
 
 Other well-known tableau builders:
 
 - **Wingspan**, where the tableau is three rows of birds, one per habitat, and each row's powers trigger together.
-- **7 Wonders**, where every drafted card goes into a tableau grouped by color, and scoring reads straight off it.
-- **Everdell**, where the tableau is your city, limited to fifteen cards, which makes every placement a choice about what not to build. <!-- AFFILIATE -->
+- **[7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20)**, where every drafted card goes into a tableau grouped by color, and scoring reads straight off it.
+- **Everdell**, where the tableau is your city, limited to fifteen cards, which makes every placement a choice about what not to build.
 - **Terraforming Mars**, where the tableau holds your played project cards and their ongoing effects.
-- **San Juan**, the card-only cousin of Puerto Rico, where buildings go into a tableau and cards double as currency.
-- **Imperial Settlers** and **Res Arcana**, both tighter tableau games with strong card interaction.
+- **[San Juan](https://www.amazon.com/dp/B01LW1TQ80?tag=cubecommonw0a-20)**, the card-only cousin of [Puerto Rico](https://www.amazon.com/dp/B00008URUT?tag=cubecommonw0a-20), where buildings go into a tableau and cards double as currency.
+- **[Imperial Settlers](https://www.amazon.com/dp/B00M9HUOK8?tag=cubecommonw0a-20)** and **[Res Arcana](https://www.amazon.com/dp/B07PFRTSB2?tag=cubecommonw0a-20)**, both tighter tableau games with strong card interaction.
 
 What these share is that the interesting choice is not "which card do I play" but "which card do I add to what I already have." The tableau gives every new card context.
 

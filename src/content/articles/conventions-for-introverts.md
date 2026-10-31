@@ -59,7 +59,7 @@ You do not need small talk at a game convention. You need a chair.
 
 **Use the "looking for players" systems.** Open-gaming halls use flags, signs, or boards. Putting a flag up is less exposing than walking up to a group: it makes them come to you. Sitting down at a table with a flag up is less exposing than asking "can I join?" The system was built for exactly this.
 
-**Bring a game you can teach in three minutes.** Teaching gives you a role. Something like The Crew <!-- AFFILIATE -->, a cooperative trick-taking game, is good because the players are on the same side and the talking is about the cards. Wavelength <!-- AFFILIATE --> and Just One work the same way for bigger groups.
+**Bring a game you can teach in three minutes.** Teaching gives you a role. Something like [The Crew](https://link.amazon/B099S9RKf), a cooperative trick-taking game, is good because the players are on the same side and the talking is about the cards. [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) and [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20) work the same way for bigger groups.
 
 **Let the game carry the conversation.** "Nice move" and "oh no" are complete sentences at a game table. Nobody expects more.
 

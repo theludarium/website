@@ -14,9 +14,9 @@ Done well, it is the most dramatic thing that happens at a game table. Done badl
 
 Pure co-ops have one win condition for everyone. Competitive games have a winner and losers. Semi-co-ops sit between, and there are two distinct flavors.
 
-**Hidden traitor.** Most players are loyal; one or more are secretly against the group. The traitor wins if the team fails. Shadows over Camelot, Battlestar Galactica, and Dead of Winter are the classics. Social deduction games like Werewolf and The Resistance are the stripped-down version of the same idea, and we wrote about [why social deduction works](/articles/why-social-deduction-games-work/) separately.
+**Hidden traitor.** Most players are loyal; one or more are secretly against the group. The traitor wins if the team fails. [Shadows over Camelot](https://www.amazon.com/dp/0975277383?tag=cubecommonw0a-20), Battlestar Galactica, and Dead of Winter are the classics. Social deduction games like Werewolf and [The Resistance](https://www.amazon.com/dp/B01J16HNKS?tag=cubecommonw0a-20) are the stripped-down version of the same idea, and we wrote about [why social deduction works](/articles/why-social-deduction-games-work/) separately.
 
-**Personal objectives.** Everyone is loyal, but each player has a secret goal they must also complete to win. The team can succeed while you personally fail. Dead of Winter does this too, which is why it is on both lists. Archipelago and CO2 use similar structures.
+**Personal objectives.** Everyone is loyal, but each player has a secret goal they must also complete to win. The team can succeed while you personally fail. Dead of Winter does this too, which is why it is on both lists. Archipelago and [CO2](https://www.amazon.com/dp/B009XBA75K?tag=cubecommonw0a-20) use similar structures.
 
 The two feel different. A traitor game is about trust and accusation. A personal-objective game is about priorities and small selfishness. Both introduce doubt into a team, which is the whole point.
 
@@ -35,15 +35,15 @@ That is also why they can go wrong. If one player takes the accusation personall
 | Game | Type | Players | Approx. time | Notes |
 |---|---|---|---|---|
 | Dead of Winter | Traitor + personal goals | 2 to 5 | 1 to 2 hrs | Zombie colony; crossroads cards add story. The best of both kinds. |
-| Battlestar Galactica | Traitor | 3 to 6 | 2 to 3 hrs | Out of print and pricey, but the gold standard. Unfathomable is its spiritual reprint. |
+| Battlestar Galactica | Traitor | 3 to 6 | 2 to 3 hrs | Out of print and pricey, but the gold standard. [Unfathomable](https://www.amazon.com/dp/B096KW4QWX?tag=cubecommonw0a-20) is its spiritual reprint. |
 | Shadows over Camelot | Traitor (maybe) | 3 to 7 | 90 min | Possibly no traitor at all, which is the trick. |
 | Unfathomable | Traitor | 3 to 6 | 2 to 3 hrs | Battlestar's engine with a Lovecraftian ocean liner. |
 | The Resistance / Avalon | Traitor, pure deduction | 5 to 10 | 30 min | No board; just missions and lies. Great for groups. |
-| Betrayal at House on the Hill | Late-reveal traitor | 3 to 6 | 60 min | Co-op until the haunt begins, then one player turns. |
-| Nemesis | Personal goals | 1 to 5 | 2 to 3 hrs | Alien on a ship; your objective may require someone else's death. |
-| Saboteur | Traitor, card game | 3 to 10 | 30 min | Dwarves dig for gold; saboteurs misdirect. Light and cheap. |
-| Archipelago | Personal goals + shared threat | 2 to 5 | 2 to 3 hrs | Economic game where everyone loses if rebellion wins. |
-| Spyfall | Traitor, party | 3 to 8 | 10 min | One player does not know the location; everyone asks questions. |
+| [Betrayal at House on the Hill](https://www.amazon.com/dp/B09H23M384?tag=cubecommonw0a-20) | Late-reveal traitor | 3 to 6 | 60 min | Co-op until the haunt begins, then one player turns. |
+| [Nemesis](https://www.amazon.com/dp/B07L7HYWRW?tag=cubecommonw0a-20) | Personal goals | 1 to 5 | 2 to 3 hrs | Alien on a ship; your objective may require someone else's death. |
+| [Saboteur](https://www.amazon.com/dp/B013FAC1JO?tag=cubecommonw0a-20) | Traitor, card game | 3 to 10 | 30 min | Dwarves dig for gold; saboteurs misdirect. Light and cheap. |
+| [Archipelago](https://www.amazon.com/dp/B009W2BLJQ?tag=cubecommonw0a-20) | Personal goals + shared threat | 2 to 5 | 2 to 3 hrs | Economic game where everyone loses if rebellion wins. |
+| [Spyfall](https://www.amazon.com/dp/B00Y4TYRT8?tag=cubecommonw0a-20) | Traitor, party | 3 to 8 | 10 min | One player does not know the location; everyone asks questions. |
 
 Times and player counts are approximate; check the box, and expect real sessions with new players to run longer.
 

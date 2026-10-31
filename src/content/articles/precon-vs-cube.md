@@ -14,9 +14,9 @@ This article compares the two across the things that decide a game night: setup 
 
 "Precon" covers a lot of ground, and the products differ enough that the comparison changes:
 
-- **Commander precons.** <!-- AFFILIATE --> The Commander decks Wizards ships with most releases, usually two to four per set. 100 cards, multiplayer, 40 life, built for what Wizards itself calls [Magic's most popular multiplayer format](https://wpn.wizards.com/en/news/how-to-run-successful-commander-events-and-grow-your-community) and one of the most common ways new players enter the game today.
+- **Commander precons.** The Commander decks Wizards ships with most releases, usually two to four per set. 100 cards, multiplayer, 40 life, built for what Wizards itself calls [Magic's most popular multiplayer format](https://wpn.wizards.com/en/news/how-to-run-successful-commander-events-and-grow-your-community) and one of the most common ways new players enter the game today.
 - **Starter and Challenger decks.** Sixty-card two-player decks. The Starter Kit two-deck boxes are built to teach; the Challenger decks (when printed) are competitive constructed decks for Standard or Pioneer.
-- **Game Night and Battle Decks.** Game Night boxes ship five 60-card decks built to play against each other; third-party "battle decks" from retailers like Card Kingdom are [60-card decks at a fixed low price](https://blog.cardkingdom.com/preconstructed-decks-for-new-magic-players/) (about $12 each when last listed) meant to be played against one another.
+- **Game Night and Battle Decks.** Game Night boxes ship five 60-card decks built to play against each other; third-party "battle decks" from retailers like Card Kingdom are 60-card decks at a fixed low price (about $12 each when last listed) meant to be played against one another.
 - **Jumpstart boosters.** Twenty-card half-decks, pair two.
 
 "Cube" here means a drafted singleton cube of any size, though a 360 is the comparison point. The [battle box guide](/articles/battle-box-magic/) covers the format that sits closest to precons.

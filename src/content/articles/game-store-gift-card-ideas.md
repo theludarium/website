@@ -49,10 +49,10 @@ If you play in a regular group, think about who should own the expansion. It bel
 
 Accessories are a smart use of a small balance, especially the leftover $10 after you buy a game. The ones that get used every week:
 
-- **Card sleeves** for a card-heavy game you play often, so the cards stay crisp.
+- **[Card sleeves](https://www.amazon.com/dp/B00WX57O7M?tag=cubecommonw0a-20)** for a card-heavy game you play often, so the cards stay crisp.
 - **A box insert** for a favorite game with a slow setup. Inserts hold each component in its own tray, which can cut setup time a lot.
 - **A playmat** to protect your table and make cards easier to pick up.
-- **Dice** if anyone in your house plays tabletop RPGs. A basic [Chessex seven-die set is $3.49 at Miniature Market](https://www.miniaturemarket.com/chessex-dice-set-opaque-pastel-blueblack-7-chx25466.html) <!-- AFFILIATE --> at the time of writing, so a few dollars of leftover balance covers one.
+- **Dice** if anyone in your house plays tabletop RPGs. A basic Chessex seven-die set is $3.49 at Miniature Market at the time of writing, so a few dollars of leftover balance covers one.
 
 Our [board game accessories gift guide](/articles/board-game-accessories-gift-guide/) has specific picks and prices for each. The test is simple: buy accessories only for games that already hit the table. Sleeves for a game you have played once are money spent on hope.
 

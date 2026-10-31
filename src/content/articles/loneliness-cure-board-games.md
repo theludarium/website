@@ -26,9 +26,9 @@ Loneliness is not the same as being alone. It is the gap between the connection 
 
 **Repetition.** The [Harvard Study of Adult Development](https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/), which has followed people since 1938, keeps reaching the same conclusion: how satisfied people were with their relationships at 50 predicted their physical health at 80 better than their cholesterol levels did, and close relationships mattered more than money or fame. Quality relationships are built through frequency. A game night that happens every Thursday turns acquaintances into friends by sheer accumulation.
 
-**Low stakes.** Walking into a party and making small talk is hard. Sitting down to a game of Ticket to Ride is easy. The game gives you a job. You are collecting train cards, not auditioning for friendship. The pressure to be interesting goes away, and that is when people relax enough to be themselves.
+**Low stakes.** Walking into a party and making small talk is hard. Sitting down to a game of [Ticket to Ride](https://link.amazon/B0jh8RB7f) is easy. The game gives you a job. You are collecting train cards, not auditioning for friendship. The pressure to be interesting goes away, and that is when people relax enough to be themselves.
 
-**Shared focus.** Conversation researchers have noted that people often connect better side by side than face to face. A board spreads out between you and gives everyone somewhere to look. Silences are not awkward because the game fills them. Then someone makes a terrible trade in Catan, the table erupts, and you have a story you will tell for years.
+**Shared focus.** Conversation researchers have noted that people often connect better side by side than face to face. A board spreads out between you and gives everyone somewhere to look. Silences are not awkward because the game fills them. Then someone makes a terrible trade in [Catan](https://link.amazon/B0h8BDGR2), the table erupts, and you have a story you will tell for years.
 
 There is also a quieter mechanism. Games create what sociologists call a "third place," somewhere that is neither home nor work. Ray Oldenburg, who coined the term, argued that these places are where community actually forms. A regular table at a friend's kitchen or a game lounge is a third place you can build yourself.
 
@@ -40,7 +40,7 @@ The honest answer is that the strongest evidence is for social connection in gen
 - A [systematic review](https://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-11-647) of programs for socially isolated older adults found that group-based activities were more likely to help than one-to-one visits, with most group programs reporting at least one benefit for social or mental health.
 - Hormone studies point the same way. In one [University of Wisconsin experiment](https://psmag.com/social-justice/text-messages-no-substitute-for-mothers-voice-34967), stressed children comforted by a parent in person or by phone showed higher oxytocin and lower cortisol, while children comforted by text message looked no different from those who got no contact at all. Presence and voice do something a screen does not.
 
-What makes games unusual compared to other group activities is the ratio of structure to talk. A book club needs everyone to have done homework. A sports league needs fitness and a field. A dinner party needs a host who cooks. A game of Codenames needs a table and 20 minutes. The barrier is low enough that the habit sticks.
+What makes games unusual compared to other group activities is the ratio of structure to talk. A book club needs everyone to have done homework. A sports league needs fitness and a field. A dinner party needs a host who cooks. A game of [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) needs a table and 20 minutes. The barrier is low enough that the habit sticks.
 
 *If this is useful, the newsletter sends more like it.*
 
@@ -51,10 +51,10 @@ Not all games are equal here. A game that rewards the most studious player can m
 | Game | Players | Time | Why it works |
 |---|---|---|---|
 | Codenames | 4 to 8+ | 15 min | Teams, laughter, no reading rules |
-| Wavelength | 2 to 12 | 30 min | You learn how your friends think |
-| Just One | 3 to 7 | 20 min | Cooperative, zero elimination |
+| [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) | 2 to 12 | 30 min | You learn how your friends think |
+| [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20) | 3 to 7 | 20 min | Cooperative, zero elimination |
 | Ticket to Ride | 2 to 5 | 60 min | Easy to teach, enough to talk over |
-| The Crew | 3 to 5 | 20 min | Quiet teamwork, builds trust fast |
+| [The Crew](https://link.amazon/B099S9RKf) | 3 to 5 | 20 min | Quiet teamwork, builds trust fast |
 
 Avoid games that eliminate players early or run past two hours until the group knows each other. Nobody bonds while sitting out.
 
@@ -66,7 +66,7 @@ This is the hard part. The person who most needs a game night is often the one w
 
 1. **Invite two people, not ten.** A three-person game of The Crew is a full game. Small groups are easier to schedule and feel less like an event.
 2. **Pick a fixed day.** "Sometime soon" never happens. "Every other Tuesday" does.
-3. **Say the game, not the hangout.** "Want to come play Wingspan on Tuesday?" is easier to accept than "Want to hang out?" The game gives both of you cover.
+3. **Say the game, not the hangout.** "Want to come play [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) on Tuesday?" is easier to accept than "Want to hang out?" The game gives both of you cover.
 4. **Lower the bar.** Store-bought snacks. A kitchen table. Nobody cares.
 5. **Go public if you need to.** Most cities have open game nights at libraries, cafés, and game stores. Showing up to one is the fastest route to meeting people who already want to play. If you have just moved, [we have specific advice for that](/articles/make-friends-in-a-new-city-board-games/).
 

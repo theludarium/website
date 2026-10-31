@@ -53,14 +53,14 @@ What is missing in both cases is an activity that pulls strangers into the same 
 
 ## What makes a game table a good third place?
 
-Put a copy of Codenames on a table and two things happen. People sit down. And within a minute, they are talking to one another about something other than the weather.
+Put a copy of [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) on a table and two things happen. People sit down. And within a minute, they are talking to one another about something other than the weather.
 
 A game gives a third place structure without an agenda. Go down Oldenburg's list and see how a good game table fits each trait:
 
 | Oldenburg's trait | How a game table delivers it |
 |---|---|
 | Neutral ground | The cafe or lounge is nobody's living room |
-| Leveler | A surgeon and a line cook have the same odds in Azul |
+| Leveler | A surgeon and a line cook have the same odds in [Azul](https://link.amazon/B0bGRYHex) |
 | Conversation is the main activity | Table talk, bluffing, and teaching are the game |
 | Accessible | You can join a public table alone and be welcomed |
 | Regulars | Weekly game nights build a known cast fast |

@@ -21,7 +21,7 @@ The defining features are:
 - **Sealed content.** Boxes, envelopes, or decks are opened at scripted moments, introducing new rules and components you did not know existed.
 - **A finite life.** When the campaign ends, so does that copy, more or less. Some games include a way to keep playing the final state.
 
-Pandemic Legacy: Season 1, released in 2015, took the format mainstream. It paired the legacy idea with the most popular co-op of the previous decade and turned a forty-five-minute game into a year-long story.
+[Pandemic Legacy: Season 1](https://www.amazon.com/dp/B00TQ0DXR2?tag=cubecommonw0a-20), released in 2015, took the format mainstream. It paired the legacy idea with the most popular co-op of the previous decade and turned a forty-five-minute game into a year-long story.
 
 ## Why would anyone destroy a board game?
 
@@ -40,15 +40,15 @@ A short, opinionated list. Every game here is real and widely available; descrip
 | Game | Type | Sessions (approx.) | Players | Notes |
 |---|---|---|---|---|
 | Pandemic Legacy: Season 1 | Co-op | 12 to 24 | 2 to 4 | The standard. Start here. |
-| Pandemic Legacy: Season 2 | Co-op | 12 to 24 | 2 to 4 | Harder, darker, more open-ended. |
-| Pandemic Legacy: Season 0 | Co-op | 12 to 24 | 2 to 4 | Cold War spy theme; prequel. |
-| Risk Legacy | Competitive | 15 | 3 to 5 | The original; rough but historic. |
-| Gloomhaven | Co-op campaign | 50+ | 1 to 4 | Stickers and sealed boxes, but scenarios are replayable. |
-| Betrayal Legacy | Semi-co-op | 13 | 3 to 5 | Haunted-house horror across generations. |
-| Charterstone | Competitive | 12 | 1 to 6 | Village-building; leaves a playable board at the end. |
-| My City | Competitive | 24 | 2 to 4 | Short, light, family-friendly. |
-| Clank! Legacy | Competitive | 10+ | 2 to 4 | Deck-building with humor and a story. |
-| Machi Koro Legacy | Competitive | 10 | 2 to 4 | Light, quick, good for families. |
+| [Pandemic Legacy: Season 2](https://www.amazon.com/dp/B071HG6MPR?tag=cubecommonw0a-20) | Co-op | 12 to 24 | 2 to 4 | Harder, darker, more open-ended. |
+| [Pandemic Legacy: Season 0](https://www.amazon.com/dp/B08F73L5BM?tag=cubecommonw0a-20) | Co-op | 12 to 24 | 2 to 4 | Cold War spy theme; prequel. |
+| [Risk Legacy](https://www.amazon.com/dp/B08TPGT1QL?tag=cubecommonw0a-20) | Competitive | 15 | 3 to 5 | The original; rough but historic. |
+| [Gloomhaven](https://www.amazon.com/dp/B01LZXVN4P?tag=cubecommonw0a-20) | Co-op campaign | 50+ | 1 to 4 | Stickers and sealed boxes, but scenarios are replayable. |
+| [Betrayal Legacy](https://www.amazon.com/dp/B07BSG7X56?tag=cubecommonw0a-20) | Semi-co-op | 13 | 3 to 5 | Haunted-house horror across generations. |
+| [Charterstone](https://www.amazon.com/dp/B06X16ZVGF?tag=cubecommonw0a-20) | Competitive | 12 | 1 to 6 | Village-building; leaves a playable board at the end. |
+| [My City](https://www.amazon.com/dp/B08626RMSL?tag=cubecommonw0a-20) | Competitive | 24 | 2 to 4 | Short, light, family-friendly. |
+| [Clank! Legacy](https://www.amazon.com/dp/B07QT5PVMK?tag=cubecommonw0a-20) | Competitive | 10+ | 2 to 4 | Deck-building with humor and a story. |
+| [Machi Koro Legacy](https://www.amazon.com/dp/B07MJM6D6Z?tag=cubecommonw0a-20) | Competitive | 10 | 2 to 4 | Light, quick, good for families. |
 
 Session counts are approximate and depend on how often you win; Pandemic Legacy's [twelve-month campaign](https://en.wikipedia.org/wiki/Pandemic_Legacy) runs twelve to twenty-four games, and Risk Legacy's [changes stop after fifteen](https://www.shutupandsitdown.com/retrospective-risk-legacy).
 

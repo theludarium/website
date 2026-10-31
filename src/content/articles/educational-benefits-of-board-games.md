@@ -16,14 +16,14 @@ Here is the short list, each with the game that teaches it best. The rest of the
 
 | Skill | Why school struggles with it | Game that teaches it | Ages |
 |---|---|---|---|
-| Probability in the gut | Taught as formulas, rarely felt | Catan, Can't Stop, Yahtzee | 8+ |
-| Negotiation | Almost never practiced | Catan, Chinatown, Monopoly Deal | 8+ |
-| Reading people | Not on any test | Coup, Skull, Codenames | 10+ |
+| Probability in the gut | Taught as formulas, rarely felt | [Catan](https://link.amazon/B0h8BDGR2), Can't Stop, [Yahtzee](https://www.amazon.com/dp/B00TLEMRKM?tag=cubecommonw0a-20) | 8+ |
+| Negotiation | Almost never practiced | Catan, [Chinatown](https://www.amazon.com/dp/B00IVF4ZH0?tag=cubecommonw0a-20), [Monopoly Deal](https://www.amazon.com/dp/B0CPXCDG65?tag=cubecommonw0a-20) | 8+ |
+| Reading people | Not on any test | [Coup](https://www.amazon.com/dp/B00GDI4HX4?tag=cubecommonw0a-20), [Skull](https://www.amazon.com/dp/B08R2BPLSN?tag=cubecommonw0a-20), [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) | 10+ |
 | Losing and recovering | Grades punish failure | Any short game, played often | 5+ |
-| Planning under uncertainty | Assignments have fixed inputs | Ticket to Ride, Wingspan, Pandemic | 8+ |
-| Resource trade-offs | Rarely made concrete | Splendor, Century: Spice Road, Catan | 8+ |
-| Spatial reasoning | Limited to geometry units | Blokus, Patchwork, Carcassonne | 6+ |
-| Explaining your thinking | Mostly in writing, alone | Any cooperative game, Hanabi, The Crew | 8+ |
+| Planning under uncertainty | Assignments have fixed inputs | [Ticket to Ride](https://link.amazon/B0jh8RB7f), [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), [Pandemic](https://link.amazon/B0eHP5GCg) | 8+ |
+| Resource trade-offs | Rarely made concrete | [Splendor](https://link.amazon/B0fEvY6Wg), [Century: Spice Road](https://www.amazon.com/dp/B071DXCT5L?tag=cubecommonw0a-20), Catan | 8+ |
+| Spatial reasoning | Limited to geometry units | [Blokus](https://www.amazon.com/dp/B07PYDK18P?tag=cubecommonw0a-20), [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20), [Carcassonne](https://link.amazon/B012Rr5ed) | 6+ |
+| Explaining your thinking | Mostly in writing, alone | Any cooperative game, [Hanabi](https://www.amazon.com/dp/B01MXTGT21?tag=cubecommonw0a-20), The Crew | 8+ |
 | Rules as a shared agreement | Rules are imposed, not negotiated | Any game with a rules dispute | 6+ |
 
 ## How do games teach probability better than math class?
@@ -44,7 +44,7 @@ Chinatown is nothing but negotiation, and it is excellent for older kids. Monopo
 
 ## What do bluffing games teach kids?
 
-How to read people, and how hard they are to read. Coup, Skull, and Sheriff of Nottingham all involve claiming something that might not be true and deciding whether to believe someone else's claim.
+How to read people, and how hard they are to read. Coup, Skull, and [Sheriff of Nottingham](https://www.amazon.com/dp/B007EZMABG?tag=cubecommonw0a-20) all involve claiming something that might not be true and deciding whether to believe someone else's claim.
 
 Parents sometimes worry this teaches lying. In practice it teaches the opposite. A kid who plays Coup learns how often a confident claim is false, which makes them harder to fool everywhere else. They also learn that a bluff caught costs more than a bluff never made, which is a pretty good life lesson about honesty delivered with no lecture.
 
@@ -54,7 +54,7 @@ Codenames teaches a gentler version: thinking about what another person will thi
 
 ## How do games teach kids to fail?
 
-By making failure frequent, cheap, and followed by another try. A grade is a verdict. A lost game of Kingdomino is a data point, and the next game starts in ninety seconds.
+By making failure frequent, cheap, and followed by another try. A grade is a verdict. A lost game of [Kingdomino](https://link.amazon/B08l49zvA) is a data point, and the next game starts in ninety seconds.
 
 This may be the most important thing on the list. A lot of children arrive at adulthood having been protected from failing at anything that mattered, and then fail at something that does and fall apart. A child who has lost three hundred board games by age twelve has a different relationship with losing. They know it is survivable. They know what to do next.
 
@@ -62,7 +62,7 @@ The key is volume and low stakes. Short games, played often, with a parent who l
 
 ## What do cooperative games teach?
 
-How to explain your reasoning to someone who disagrees with it, and how to be overruled without sulking. In Pandemic or Forbidden Island, four people have to agree on a plan, and the plan is usually wrong in some way. Kids learn to say "I think we should go here because..." and to listen when someone else says "but then we lose the bridge."
+How to explain your reasoning to someone who disagrees with it, and how to be overruled without sulking. In Pandemic or [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20), four people have to agree on a plan, and the plan is usually wrong in some way. Kids learn to say "I think we should go here because..." and to listen when someone else says "but then we lose the bridge."
 
 Hanabi and The Crew add a twist: limited communication. In Hanabi you hold your cards facing out and can only give narrow clues. In The Crew you can signal one card per mission. Both force a child to think about what information their teammate most needs, which is a sophisticated skill. Most meetings would go better if the adults in them had played The Crew.
 
@@ -70,11 +70,11 @@ Hanabi and The Crew add a twist: limited communication. In Hanabi you hold your 
 
 It is real, and it is a bonus rather than the point.
 
-- **Arithmetic:** Scoring in almost any game. Ticket to Ride, Azul, and Wingspan all have end-game math a child will happily do because the number is theirs.
+- **Arithmetic:** Scoring in almost any game. Ticket to Ride, [Azul](https://link.amazon/B0bGRYHex), and Wingspan all have end-game math a child will happily do because the number is theirs.
 - **Reading:** Card text in games like Wingspan and Pandemic gives reluctant readers a reason to read. The motivation is the difference.
 - **Memory:** Memory-matching games for little kids, then Hanabi and Codenames for working memory in older ones.
-- **Fine motor skills:** Stacking games like Rhino Hero and Animal Upon Animal for the under-sevens.
-- **Vocabulary:** Codenames, Just One, and Dixit all stretch word knowledge in both directions.
+- **Fine motor skills:** Stacking games like [Rhino Hero](https://www.amazon.com/dp/B01M8LF7IA?tag=cubecommonw0a-20) and [Animal Upon Animal](https://www.amazon.com/dp/B073CD98D6?tag=cubecommonw0a-20) for the under-sevens.
+- **Vocabulary:** Codenames, [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20), and [Dixit](https://www.amazon.com/dp/2914849656?tag=cubecommonw0a-20) all stretch word knowledge in both directions.
 
 There is some research suggesting that board game play helps numeracy in young children. In a [Carnegie Mellon and University of Maryland study](https://www.edweek.org/education/study-board-games-boost-preschoolers-math-skills/2009/08) of 88 Head Start preschoolers, a few short sessions with a simple number-line board game improved children's grasp of number and magnitude, with the biggest gains for the kids who started furthest behind. The studies tend to be small, though, and the games studied are much simpler than the ones in this article. Treat it as a nice side effect. The social skills are the main course.
 

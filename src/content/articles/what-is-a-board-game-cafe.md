@@ -18,7 +18,7 @@ The mechanics are simple. You walk in, a host seats you, and someone explains th
 - An hourly rate, often capped after a few hours.
 - No cover at all, with the expectation that you order food and drink.
 
-Then you pick a game. The good cafes have a "game guru" or "game sommelier" on staff whose job is to hear what your group likes, pull three options off the shelf, and teach one in five minutes. That teaching is the product. Anyone can buy Catan. Not everyone has a friend who will learn the rules and explain them well.
+Then you pick a game. The good cafes have a "game guru" or "game sommelier" on staff whose job is to hear what your group likes, pull three options off the shelf, and teach one in five minutes. That teaching is the product. Anyone can buy [Catan](https://link.amazon/B0h8BDGR2). Not everyone has a friend who will learn the rules and explain them well.
 
 Food and drink round it out. Expect coffee, tea, beer, wine, and food that can be eaten with one hand. The best places think hard about [snacks that won't ruin the cards](/articles/game-night-snacks/).
 
@@ -39,7 +39,7 @@ If you have never been, here is the typical arc of an evening.
 1. Arrive and get seated. Weekends fill up, so many places take reservations.
 2. Hear the pricing and order a drink.
 3. Tell the staff your group size, how much time you have, and whether you want something light or something meaty.
-4. Get taught a game. A good teach for Ticket to Ride or Azul takes under five minutes.
+4. Get taught a game. A good teach for [Ticket to Ride](https://link.amazon/B0jh8RB7f) or [Azul](https://link.amazon/B0bGRYHex) takes under five minutes.
 5. Play two or three games over two to three hours.
 6. Return the game to the counter, or leave it for staff to re-sort and check for missing pieces.
 
@@ -64,7 +64,7 @@ The membership row is where the format is heading, and it is worth a closer look
 
 Several things lined up over the last fifteen years.
 
-**The games got better.** The era of Monopoly and Risk gave way to designs that play in an hour, reward everyone until the end, and teach in minutes. Catan, Carcassonne, Ticket to Ride, Codenames, and Wingspan are each better evenings than the games most of us grew up with. The product improved before the venues did.
+**The games got better.** The era of Monopoly and Risk gave way to designs that play in an hour, reward everyone until the end, and teach in minutes. Catan, [Carcassonne](https://link.amazon/B012Rr5ed), Ticket to Ride, [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), and [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) are each better evenings than the games most of us grew up with. The product improved before the venues did.
 
 **The format was proven elsewhere first.** Board game cafes were common in parts of East Asia, where [Seoul had about 130 by 2004](https://en.wikipedia.org/wiki/Board_game_caf%C3%A9), well before they spread through the United States. [Snakes & Lattes in Toronto](https://en.wikipedia.org/wiki/Snakes_%26_Lattes), which opened in August 2010, was not the first in North America, but it is the example most owners cite because its model was so widely copied. Once a few places showed the numbers worked, others copied the model.
 
@@ -88,7 +88,7 @@ The Ludarium is building toward the third model in Indianapolis: a place you bel
 
 Yes to both, for the same reason. A game gives two strangers something to do with their hands and eyes besides stare at each other. It creates small moments of surprise, laughter, and mild competition, which are exactly the moments people bond over.
 
-For dates, pick two-player or short games: Patchwork, Jaipur, Hive, or a cooperative game like The Crew with two hands each. For work outings, a cafe solves the problem of "team building" that feels forced. Nobody has to do a trust fall. They just have to play Codenames and find out who on the team thinks "ocean" and "bank" are obviously connected.
+For dates, pick two-player or short games: Patchwork, [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20), [Hive](https://www.amazon.com/dp/B000EN5ZLW?tag=cubecommonw0a-20), or a cooperative game like [The Crew](https://link.amazon/B099S9RKf) with two hands each. For work outings, a cafe solves the problem of "team building" that feels forced. Nobody has to do a trust fall. They just have to play Codenames and find out who on the team thinks "ocean" and "bank" are obviously connected.
 
 ## FAQ
 

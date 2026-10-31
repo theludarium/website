@@ -47,7 +47,7 @@ Now divide by the number of people at the table. Each play of the game delivered
 
 Fifty cents a seat. This is where cost per play stops being a personal budgeting trick and becomes a group strategy, because here is the thing the division reveals: the game's value was already shared by everyone at the table the moment it was opened. One copy produced four people's worth of fun. A second copy of the same game in a second player's house does not produce four more people's worth of fun. It produces the same four people, playing the same game, with a redundant box.
 
-That is the whole logic behind [The One Copy Rule](/articles/one-copy-rule/): a play group needs one copy of a game, not one copy per person. If four friends each buy their own Catan at about $40, the group has spent about $160 to own a game that only ever gets played at one table at a time. Three of those boxes add roughly $120 to $150 of cost and zero plays. The ÷ players step is the proof.
+That is the whole logic behind [The One Copy Rule](/articles/one-copy-rule/): a play group needs one copy of a game, not one copy per person. If four friends each buy their own [Catan](https://link.amazon/B0h8BDGR2) at about $40, the group has spent about $160 to own a game that only ever gets played at one table at a time. Three of those boxes add roughly $120 to $150 of cost and zero plays. The ÷ players step is the proof.
 
 The ÷ players step also tells you which games are good buys for a group. A party game that seats eight divides its price by eight. A tight two-player game divides by two. Neither is wrong, but the eight-player game has an easier path to a low number.
 
@@ -69,9 +69,9 @@ Here are three made-up examples at different price points. None of these are rea
 
 | Illustration | Price | Plays | Players | Hours per play | Cost per player-hour |
 |---|---|---|---|---|---|
-| Light card game (think a Sushi Go! or Love Letter type) | $15 | 40 | 5 | 0.33 | about $0.23 |
-| Mid-weight strategy game (think a Ticket to Ride or Azul type) | $40 | 20 | 4 | 1 | $0.50 |
-| Big hobby game (think a Spirit Island or Terraforming Mars type) | $80 | 8 | 3 | 2.5 | about $1.33 |
+| Light card game (think a [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) or [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20) type) | $15 | 40 | 5 | 0.33 | about $0.23 |
+| Mid-weight strategy game (think a [Ticket to Ride](https://link.amazon/B0jh8RB7f) or [Azul](https://link.amazon/B0bGRYHex) type) | $40 | 20 | 4 | 1 | $0.50 |
+| Big hobby game (think a [Spirit Island](https://www.amazon.com/dp/B01MUHP51S?tag=cubecommonw0a-20) or [Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20) type) | $80 | 8 | 3 | 2.5 | about $1.33 |
 
 Read the last column, not the first. The $80 game costs more per hour in this illustration, but about $1.33 for an hour of focused play with friends is still a bargain by most standards. More important, the gap between the cheap game and the expensive one is a few cents to a dollar, not $65. The price tag exaggerated the difference. The formula shrank it to the truth.
 
@@ -115,7 +115,7 @@ The result is a hobby that can run at about a dollar an hour, per person, or les
 
 Now the honest caveat. The formula measures hours, not joy, and those are not the same thing.
 
-A game you played once at a friend's house on the night you all stayed up until two in the morning laughing has a terrible cost per play and may be the most valuable box you own. A long campaign game like Gloomhaven can take a year to finish and produce memories a tally mark cannot hold. A two-player game you play with your spouse on quiet Tuesday nights divides by only two, and it would be silly to let the arithmetic tell you it is a worse purchase than a party game.
+A game you played once at a friend's house on the night you all stayed up until two in the morning laughing has a terrible cost per play and may be the most valuable box you own. A long campaign game like [Gloomhaven](https://www.amazon.com/dp/B01LZXVN4P?tag=cubecommonw0a-20) can take a year to finish and produce memories a tally mark cannot hold. A two-player game you play with your spouse on quiet Tuesday nights divides by only two, and it would be silly to let the arithmetic tell you it is a worse purchase than a party game.
 
 So use the formula for what it is good at: catching the purchases that will never get played, choosing between two games that would fill the same role, and seeing that the group, not the shelf, is where value comes from. Then set it down. The formula divides by players because players are the thing that makes a game worth anything. The game is the reason. The people are the point.
 

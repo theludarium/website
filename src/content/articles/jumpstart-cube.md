@@ -12,7 +12,7 @@ This article is about building one: how many packs, what goes in each, how to co
 
 ## What is a Jumpstart cube, exactly?
 
-Wizards [released Jumpstart in July 2020](https://magic.wizards.com/en/news/announcements/introducing-jumpstart-new-way-play-magic-2020-02-20) <!-- AFFILIATE --> as a retail product: 20-card boosters with a theme on the front, meant to be paired two at a time. The cube version takes that idea and makes it singleton, curated, and yours. Instead of a random booster from a box, every pack in the cube is a pack you built.
+Wizards [released Jumpstart in July 2020](https://magic.wizards.com/en/news/announcements/introducing-jumpstart-new-way-play-magic-2020-02-20) as a retail product: 20-card boosters with a theme on the front, meant to be paired two at a time. The cube version takes that idea and makes it singleton, curated, and yours. Instead of a random booster from a box, every pack in the cube is a pack you built.
 
 The format at the table is simple. Deal each player three packs face down, they look at the names (or the whole packs, depending on your house rule) and keep one. Deal three more, keep one. Shuffle the two together. Play. The [CubeCobra Jumpstart guide](https://cubecobra.com/content/article/605821e6099bcd10491f3eec) by michael921 is the most thorough community writeup and that three-then-three selection is its default.
 

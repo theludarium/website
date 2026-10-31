@@ -75,7 +75,7 @@ The sets people rebuild are the ones with a clear, deep archetype structure and 
 - **Modern Horizons 2 (2021).** Dense, high-power, with a bonus-sheet-free but reprint-heavy structure; expensive to assemble but a favorite.
 - **Dominaria (2018) and Ikoria (2020)** come up often for the same reason: strong commons and a mechanic (historic, mutate) that rewards drafting around it.
 
-Original Ravnica block and Shadowmoor <!-- AFFILIATE --> are built too, usually as the whole block rather than one set, with packs mixing the sets at the retail ratio (one pack of each).
+Original Ravnica block and Shadowmoor are built too, usually as the whole block rather than one set, with packs mixing the sets at the retail ratio (one pack of each).
 
 ## When should you cheat the set?
 

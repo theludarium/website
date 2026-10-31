@@ -24,10 +24,10 @@ Most game-night advice assumes a group of friends with similar ages and a host w
 
 Small groups, Bible study groups, and young adult groups often meet in homes. The room is a living room, the table seats six, and the evening has a social half and a discussion half. Games here should be short and conversational.
 
-- **Codenames** <!-- AFFILIATE --> is the single best game for this setting. Two teams, one-word clues, and the whole table talking. It handles eight well, and people who arrive late can join a team without any explanation. For a group that meets repeatedly, Codenames is nearly endlessly replayable.
-- **Wavelength** <!-- AFFILIATE --> gives one player a hidden target on a spectrum (say, "hot" to "cold") and asks them to give a clue that lands their team on it. It runs entirely on opinions, which makes it a surprisingly good way to learn what people actually think.
-- **Just One** <!-- AFFILIATE --> is cooperative. One player guesses a word; everyone else writes a one-word clue, but duplicate clues get removed. It is gentle, funny, and nobody loses alone.
-- **The Crew** <!-- AFFILIATE --> suits a group that wants to sit down and concentrate for thirty minutes. It is a cooperative trick-taking game. If several people know Euchre or Spades, they will pick it up immediately.
+- **[Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20)** is the single best game for this setting. Two teams, one-word clues, and the whole table talking. It handles eight well, and people who arrive late can join a team without any explanation. For a group that meets repeatedly, Codenames is nearly endlessly replayable.
+- **[Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20)** gives one player a hidden target on a spectrum (say, "hot" to "cold") and asks them to give a clue that lands their team on it. It runs entirely on opinions, which makes it a surprisingly good way to learn what people actually think.
+- **[Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20)** is cooperative. One player guesses a word; everyone else writes a one-word clue, but duplicate clues get removed. It is gentle, funny, and nobody loses alone.
+- **[The Crew](https://link.amazon/B099S9RKf)** suits a group that wants to sit down and concentrate for thirty minutes. It is a cooperative trick-taking game. If several people know Euchre or Spades, they will pick it up immediately.
 
 For youth groups specifically, Codenames and Wavelength get the most mileage. Teenagers who are reluctant to talk in a discussion will shout a Wavelength answer without thinking about it.
 
@@ -35,10 +35,10 @@ For youth groups specifically, Codenames and Wavelength get the most mileage. Te
 
 Youth groups are louder, more energetic, and more likely to have a cluster of kids who do not want to look too interested. Games should be fast, forgiving, and involve the whole room at once or run at several tables in parallel.
 
-- **Telestrations** <!-- AFFILIATE --> is draw-the-phrase, then guess-the-drawing, passed around the circle. The 12-player edition handles a big group, and the results are reliably funny. It works because being bad at drawing is the point.
-- **Werewolf (or One Night Ultimate Werewolf)** <!-- AFFILIATE --> is a social deduction game where a few secret werewolves try to survive the village's votes. It handles large groups, needs almost no components, and the one-night version plays in ten minutes. Some groups find the werewolf theme a poor fit; the same mechanism exists in many themes, including the card game The Resistance. We covered why these games work in [why social deduction games work](/articles/why-social-deduction-games-work/).
+- **[Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20)** is draw-the-phrase, then guess-the-drawing, passed around the circle. The 12-player edition handles a big group, and the results are reliably funny. It works because being bad at drawing is the point.
+- **Werewolf (or [One Night Ultimate Werewolf](https://www.amazon.com/dp/B00HS7GG5G?tag=cubecommonw0a-20))** is a social deduction game where a few secret werewolves try to survive the village's votes. It handles large groups, needs almost no components, and the one-night version plays in ten minutes. Some groups find the werewolf theme a poor fit; the same mechanism exists in many themes, including the card game [The Resistance](https://www.amazon.com/dp/B01J16HNKS?tag=cubecommonw0a-20). We covered why these games work in [why social deduction games work](/articles/why-social-deduction-games-work/).
 - **Codenames at two tables.** Split the group and run two games. A leader at each table keeps things moving.
-- **Sushi Go Party!** <!-- AFFILIATE --> is a card-drafting game that handles up to eight at a table. Two copies cover a youth group. It teaches in three minutes and plays in twenty.
+- **[Sushi Go Party!](https://www.amazon.com/dp/B01CETNKE2?tag=cubecommonw0a-20)** is a card-drafting game that handles up to eight at a table. Two copies cover a youth group. It teaches in three minutes and plays in twenty.
 
 A practical note: with teenagers, the first ten minutes decide the night. Start the game within five minutes of the official start time, before phones come out. Do not wait for stragglers. They will join.
 
@@ -48,7 +48,7 @@ A practical note: with teenagers, the first ten minutes decide the night. Start 
 
 A whole-congregation game night is a different kind of event. The room is big, the ages run from kids to grandparents, and you need structure or it turns into a potluck with unused games on a side table. A few formats that work:
 
-**Station rotation.** Set up five or six tables, each with one simple game and one person who knows it. Groups rotate every 25 minutes. Good station games: Azul, Ticket to Ride, Qwirkle, Sushi Go Party!, Codenames, Telestrations. This format lets a grandparent and a grandchild sit at the same table, and it gives shy people a reason to move around.
+**Station rotation.** Set up five or six tables, each with one simple game and one person who knows it. Groups rotate every 25 minutes. Good station games: [Azul](https://link.amazon/B0bGRYHex), [Ticket to Ride](https://link.amazon/B0jh8RB7f), [Qwirkle](https://www.amazon.com/dp/1933054395?tag=cubecommonw0a-20), Sushi Go Party!, Codenames, Telestrations. This format lets a grandparent and a grandchild sit at the same table, and it gives shy people a reason to move around.
 
 **One big game.** Wavelength and Codenames can both be run for a whole room by projecting or by using a large board. Split the room into two teams and let the chaos happen. It is loud and it works.
 

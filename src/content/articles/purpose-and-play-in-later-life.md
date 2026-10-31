@@ -58,7 +58,7 @@ It looks like a few deliberate choices, not a reinvention.
 1. **Join or start one standing group.** Weekly, same people, same game or rotation. Everything else is extra. If you need the steps, [how to start a game night group](/articles/how-to-start-a-game-night-group/) has them.
 2. **Take a role in it.** Keep the scorebook. Be the one who teaches. Host once a month. Purpose comes from being needed, and groups need people.
 3. **Teach someone younger.** A grandchild, a neighbor's kid, a new member at the lounge. Transmitting a game is a form of legacy that costs nothing and lands immediately.
-4. **Build toward something.** A league with standings, a tournament in the spring, a campaign game like Pandemic Legacy <!-- AFFILIATE --> that takes a year to finish. Long arcs give the weeks direction.
+4. **Build toward something.** A league with standings, a tournament in the spring, a campaign game like Pandemic Legacy that takes a year to finish. Long arcs give the weeks direction.
 5. **Keep learning.** Add one new game a season. The [Lothian Birth Cohort in Scotland](https://www.ed.ac.uk/research-innovation/latest-research-news/games-can-protect-thinking-skills-in-older-age) found that people who increased their game playing in their 70s showed less cognitive decline over the decade, though the researchers called the association small and did not claim cause. Novelty appears to matter.
 6. **Hold the open chair.** A group with a role for newcomers has a mission built in: finding the next person who needs a Thursday.
 

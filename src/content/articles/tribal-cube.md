@@ -58,7 +58,7 @@ Multiply out: 36 to 44 cards per tribe, six tribes, 216 to 264 cards. The remain
 
 Changelings (every creature type at once) are the glue of a tribal cube and the easiest place to overbuild. A changeling is a member of every tribe, which sounds like it fixes the density problem; in practice a cube with 30 changelings is a cube where every deck is the same deck with a different lord.
 
-A house guideline: **8 to 12 changelings in a 360,** each costed and sized so that it is a fine playable without a tribe (Universal Automaton, <!-- AFFILIATE --> Changeling Outcast, Mothdust Changeling, Taurean Mauler, Chameleon Colossus, Mirror Entity, Shapesharer). Put the cheap ones in and leave the expensive ones out, because a cheap changeling helps the tribe hit its density and an expensive one is just a good creature. The Lorwyn cube above ran duplicates of its changelings and wondered how many to include; that question never fully resolves and that is fine.
+A house guideline: **8 to 12 changelings in a 360,** each costed and sized so that it is a fine playable without a tribe (Universal Automaton, Changeling Outcast, Mothdust Changeling, Taurean Mauler, Chameleon Colossus, Mirror Entity, Shapesharer). Put the cheap ones in and leave the expensive ones out, because a cheap changeling helps the tribe hit its density and an expensive one is just a good creature. The Lorwyn cube above ran duplicates of its changelings and wondered how many to include; that question never fully resolves and that is fine.
 
 Also watch the "Kindred" or tribal-type noncreature cards (Crib Swap, Nameless Inversion). They count toward the type for cards that care, and they are good removal on their own. Three or four earn a slot.
 

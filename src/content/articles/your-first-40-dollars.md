@@ -49,36 +49,36 @@ The right anchor depends almost entirely on who sits at your table. These are ex
 
 Two players is the most common table in the country and the most under-served by big-box games. Look for games built for two or that scale down cleanly.
 
-- **Patchwork**, a quilt-building puzzle for exactly two, with a 15-minute teach.
-- **Jaipur**, a quick trading duel that plays in about 20 minutes.
-- **Hive**, an abstract with no board, portable enough for a coffee shop.
-- **Love Letter**, a tiny bluffing game that also stretches to four when company comes over.
+- **[Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20)**, a quilt-building puzzle for exactly two, with a 15-minute teach.
+- **[Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20)**, a quick trading duel that plays in about 20 minutes.
+- **[Hive](https://www.amazon.com/dp/B000EN5ZLW?tag=cubecommonw0a-20)**, an abstract with no board, portable enough for a coffee shop.
+- **[Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20)**, a tiny bluffing game that also stretches to four when company comes over.
 
 ### Families with kids
 
 You want a game that an eight-year-old can play without a handicap and a parent can enjoy without pretending.
 
-- **Ticket to Ride**, route building that kids grasp in one round and adults keep thinking about.
-- **Sushi Go!**, card drafting in 15 minutes with pictures of sushi; a near-perfect first game.
-- **Azul**, tile placement that is beautiful, quick, and scales from two to four.
-- **Carcassonne**, tile laying where the map grows every turn, easy to teach and gentle on competitiveness.
+- **[Ticket to Ride](https://link.amazon/B0jh8RB7f)**, route building that kids grasp in one round and adults keep thinking about.
+- **[Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20)**, card drafting in 15 minutes with pictures of sushi; a near-perfect first game.
+- **[Azul](https://link.amazon/B0bGRYHex)**, tile placement that is beautiful, quick, and scales from two to four.
+- **[Carcassonne](https://link.amazon/B012Rr5ed)**, tile laying where the map grows every turn, easy to teach and gentle on competitiveness.
 
 ### A friend group of four or five
 
 This is the classic game night. You want tension, table talk, and a game that runs under 90 minutes so you can fit two in.
 
-- **Catan**, trading and building; still the standard gateway for good reason, and about $40.
+- **[Catan](https://link.amazon/B0h8BDGR2)**, trading and building; still the standard gateway for good reason, and about $40.
 - **Ticket to Ride**, also excellent here, with a little more edge at five.
-- **Splendor**, chip-collecting engine building with a five-minute teach.
-- **Dominion**, deck building; endlessly replayable, and the base box is enough for years.
+- **[Splendor](https://link.amazon/B0fEvY6Wg)**, chip-collecting engine building with a five-minute teach.
+- **[Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20)**, deck building; endlessly replayable, and the base box is enough for years.
 
 ### Big parties of six or more
 
 If your usual gathering is a crowd, your anchor should be a party game, and it should work with people who do not think of themselves as gamers.
 
-- **Codenames**, word clues in teams, scales to a whole room.
-- **Just One**, cooperative word guessing where everyone writes a clue; impossible to lose friends over.
-- **Wavelength**, a guessing game on a spectrum that gets a room arguing happily.
+- **[Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20)**, word clues in teams, scales to a whole room.
+- **[Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20)**, cooperative word guessing where everyone writes a clue; impossible to lose friends over.
+- **[Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20)**, a guessing game on a spectrum that gets a room arguing happily.
 
 ## What not to buy first
 

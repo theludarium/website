@@ -14,9 +14,9 @@ This guide is for sales leaders and HR partners planning a kickoff, an offsite, 
 
 Role-play exercises have a known problem: everyone knows it is a role-play. The "buyer" is a colleague reading from a card. Nobody has anything at stake, so nobody negotiates the way they would with money on the table.
 
-A game fixes that. In Catan, the person across from you wants to win. If you offer a bad trade, they refuse. If you fleece them, they remember, and the next three turns go badly for you. Stakes are small but real, and the feedback is immediate.
+A game fixes that. In [Catan](https://link.amazon/B0h8BDGR2), the person across from you wants to win. If you offer a bad trade, they refuse. If you fleece them, they remember, and the next three turns go badly for you. Stakes are small but real, and the feedback is immediate.
 
-Games also compress time. A single round of Chinatown includes more negotiations than a week of sales calls, with results you can see in the score.
+Games also compress time. A single round of [Chinatown](https://www.amazon.com/dp/B00IVF4ZH0?tag=cubecommonw0a-20) includes more negotiations than a week of sales calls, with results you can see in the score.
 
 ## Which negotiation board games teach which skills?
 
@@ -40,7 +40,7 @@ Players declare what they are bringing through the gate. The sheriff can inspect
 
 ### Monopoly Deal or For Sale: speed and valuation
 
-Short card games built on auctions and quick trades. For Sale in particular teaches bidding discipline in about twenty minutes. **Skill: knowing what something is worth to you, and stopping there.**
+Short card games built on auctions and quick trades. [For Sale](https://www.amazon.com/dp/B001PQLNY0?tag=cubecommonw0a-20) in particular teaches bidding discipline in about twenty minutes. **Skill: knowing what something is worth to you, and stopping there.**
 
 ### Diplomacy: the long game
 
@@ -56,11 +56,11 @@ Players invite allies into conflicts and split the spoils. Who you invite, who y
 |---|---|---|---|---|
 | Catan | 3 to 4 | 75 min | Relationship over single deal | Medium |
 | Chinatown | 3 to 5 | 60 min | Pricing and anchoring | High |
-| Bohnanza | 3 to 7 | 45 min | Solving the other side's problem | Low |
-| Sheriff of Nottingham | 3 to 5 | 60 min | Credibility and reading people | Medium |
+| [Bohnanza](https://www.amazon.com/dp/B000MLZ516?tag=cubecommonw0a-20) | 3 to 7 | 45 min | Solving the other side's problem | Low |
+| [Sheriff of Nottingham](https://www.amazon.com/dp/B007EZMABG?tag=cubecommonw0a-20) | 3 to 5 | 60 min | Credibility and reading people | Medium |
 | For Sale | 3 to 6 | 20 min | Bidding discipline | Low |
-| Diplomacy (short) | 5 to 7 | 2 hrs+ | Trust and commitment | Very high |
-| Cosmic Encounter | 3 to 5 | 90 min | Coalitions | Medium |
+| [Diplomacy](https://www.amazon.com/dp/B08TPDFW51?tag=cubecommonw0a-20) (short) | 5 to 7 | 2 hrs+ | Trust and commitment | Very high |
+| [Cosmic Encounter](https://www.amazon.com/dp/1589944968?tag=cubecommonw0a-20) | 3 to 5 | 90 min | Coalitions | Medium |
 
 For a sales kickoff, Bohnanza or For Sale as an opener and Chinatown as the main event is a reliable combination. Save Diplomacy for a leadership team that already trusts each other.
 

@@ -3,6 +3,7 @@ import { Image } from 'astro:assets';
 import { render } from 'astro:content';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import ArticleCard from '@/components/ArticleCard.astro';
+import AffiliateNotice from '@/components/mdx/AffiliateNotice.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
 import PreviewNote from '@/components/PreviewNote.astro';
 import TableOfContents from '@/components/TableOfContents.astro';
@@ -44,6 +45,10 @@ const offer = offerKey ? { key: offerKey, ...KIT_OFFER_FORMS[offerKey] } : undef
 const lettersKey = article.data.letters ?? categoryByName(category).letters ?? 'general';
 const letter = KIT_LETTERS_FORMS[lettersKey];
 const { Content, headings } = await render(article);
+// Markdown articles with Amazon links get the disclosure automatically; MDX
+// articles that place <AffiliateNotice /> themselves keep their own.
+const body = article.body ?? '';
+const autoNotice = /\]\(https:\/\/(www\.amazon\.com|link\.amazon|amzn\.to)\//.test(body) && !body.includes('<AffiliateNotice');
 
 const minutes = readingMinutes(article);
 const showToc = headings.filter((h) => h.depth === 2).length >= 3;
@@ -137,6 +142,7 @@ const structuredData = [
         )
       }
       <div class="article__body">
+        {autoNotice && <div style="margin-block-end: var(--space-5)"><AffiliateNotice /></div>}
         <div class="prose-article">
           <Content />
         </div>

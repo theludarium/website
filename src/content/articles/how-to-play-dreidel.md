@@ -6,7 +6,7 @@ category: Game Guides
 tags: ["how to play dreidel", "dreidel rules", "dreidel letters meaning", "nun gimel hei shin", "Hanukkah games", "dreidel game for kids"]
 draft: false
 ---
-To play dreidel, everyone puts one token in a pot, then takes turns spinning a four-sided top. The letter that lands face up tells you what to do: nun means nothing happens, gimel means take the whole pot, hei means take half, and shin means put one in. Play until one person holds everything, or until you agree to stop.
+To play [dreidel](https://www.amazon.com/dp/B01MQFIPN0?tag=cubecommonw0a-20), everyone puts one token in a pot, then takes turns spinning a four-sided top. The letter that lands face up tells you what to do: nun means nothing happens, gimel means take the whole pot, hei means take half, and shin means put one in. Play until one person holds everything, or until you agree to stop.
 
 That is the whole game. It takes a minute to teach, which is why dreidel is the first game many kids learn at Hanukkah. It also has a reputation for dragging on, and that part is fixable.
 

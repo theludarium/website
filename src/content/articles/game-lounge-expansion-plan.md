@@ -33,7 +33,7 @@ So the plan is one organization, one membership, and lounges we open and run our
 Three things, in the version we are designing toward.
 
 1. **Your membership works at any Ludarium.** You join in Indianapolis. You visit family in another Ludarium city, you walk in, you are a member.
-2. **Your history travels.** The games you love, the campaign you are in, the people you play with. A host in the new city can see that you have been teaching Wingspan to newcomers for two years and put you to work. <!-- AFFILIATE -->
+2. **Your history travels.** The games you love, the campaign you are in, the people you play with. A host in the new city can see that you have been teaching Wingspan to newcomers for two years and put you to work.
 3. **Your group survives a move.** This is the one we care about most. Game groups die when one person moves. If both cities have a Ludarium, the person who moved has a table waiting, and the group back home has a place to keep meeting. We wrote about the problem in [keeping a game group alive when everyone moved away](/articles/playing-board-games-with-long-distance-friends/). A network of rooms is part of the answer.
 
 *If you want to follow the build, the newsletter is where we post each step first.*

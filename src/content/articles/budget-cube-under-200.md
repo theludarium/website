@@ -24,7 +24,7 @@ A budget cube can hit all five. The cost is in the exact cards, not the structur
 
 ## Where should the $200 go?
 
-A house budget, using TCGplayer prices for the cheapest printings of each card in October 2026 (check a retailer such as [Card Kingdom](https://www.cardkingdom.com/) or [TCGplayer](https://www.tcgplayer.com/) before ordering; Card Kingdom's near-mint prices run higher):
+A house budget, using TCGplayer prices for the cheapest printings of each card in October 2026 (check a retailer such as Card Kingdom or TCGplayer before ordering; Card Kingdom's near-mint prices run higher):
 
 | Section | Cards | Budget | Notes |
 |---|---|---|---|
@@ -41,7 +41,7 @@ Lands and rocks are a sixth of the cards and cost even less than that share, whi
 
 You cannot afford Black Lotus or the Moxen. Sol Ring costs about a dollar, but we leave it out because it warps a budget cube badly. What you can run:
 
-- **Signets and Talismans.** Two-mana rocks that fix. Ten of them, about a dollar or less each, give nearly every deck a turn-two accelerant. <!-- AFFILIATE -->
+- **Signets and Talismans.** Two-mana rocks that fix. Ten of them, about a dollar or less each, give nearly every deck a turn-two accelerant.
 - **Rituals.** Dark Ritual plus one red ritual such as Desperate Ritual. Rituals are no longer pennies (about $5 to $15 each at the time of writing, with Cabal Ritual and Seething Song at the top), so two is the budget number. They enable storm and reanimator, and they give black and red the "turn one, do something absurd" feel.
 - **Mind Stone, Prismatic Lens, Coldsteel Heart, Fellwar Stone.** Colorless two-drops that keep the rock count high without raising the price.
 - **Mana creatures.** Llanowar Elves, Elvish Mystic, Fyndhorn Elves, Arbor Elf. Birds of Paradise runs about $8, so it waits for a bigger budget. Green's version of fast mana is cheap.
@@ -50,11 +50,11 @@ The effect at the table is that four-mana plays happen on turn three in half the
 
 ## Which unfair archetypes work on a budget?
 
-**Reanimator.** One of the cheaper unfair decks to support. Entomb is not budget, but Buried Alive, Faithless Looting, Careful Study, Thrill of Possibility, and Stitcher's Supplier fill the yard. Animate Dead (about $7), Exhume, Dread Return, and Unburial Rites bring it back; Reanimate itself listed around $13 and up at [Card Kingdom](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=reanimate) at the time of writing, so treat it as a luxury. Targets are the place to spend: Griselbrand listed around $9 to $11 and Archon of Cruelty around $10 at [Card Kingdom](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=griselbrand) at the time of writing (both less on TCGplayer), and one or two of them are worth it.
+**Reanimator.** One of the cheaper unfair decks to support. Entomb is not budget, but Buried Alive, Faithless Looting, Careful Study, Thrill of Possibility, and Stitcher's Supplier fill the yard. Animate Dead (about $7), Exhume, Dread Return, and Unburial Rites bring it back; Reanimate itself listed around $13 and up at Card Kingdom at the time of writing, so treat it as a luxury. Targets are the place to spend: Griselbrand listed around $9 to $11 and Archon of Cruelty around $10 at Card Kingdom at the time of writing (both less on TCGplayer), and one or two of them are worth it.
 
 **Storm.** Rituals plus cheap cantrips plus Brain Freeze, Empty the Warrens, Tendrils of Agony, and Grapeshot. Add Past in Flames and Mizzix's Mastery. Most of it costs a few dollars or less. Storm is the archetype that makes a budget cube feel like it has a ceiling, and it is also the one to watch for warping the draft; two or three storm payoffs is plenty.
 
-**Artifact aggro and Tinker-style cheats.** Tinker is cheap enough to run; reprints listed around $2 to $4 at [Card Kingdom](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=tinker) at the time of writing. Pair it with a few expensive-to-cast, cheap-to-buy artifacts (Myr Battlesphere; Wurmcoil Engine, about $10, if the price allows) and the Signet count above, and you have a lane.
+**Artifact aggro and Tinker-style cheats.** Tinker is cheap enough to run; reprints listed around $2 to $4 at Card Kingdom at the time of writing. Pair it with a few expensive-to-cast, cheap-to-buy artifacts (Myr Battlesphere; Wurmcoil Engine, about $10, if the price allows) and the Signet count above, and you have a lane.
 
 **Sneak and Show.** Sneak Attack is out of budget at about $10 to $13, but Through the Breach is under a dollar, and Elvish Piper and Quicksilver Amulet do a slower version. Keep this one small; it is the least reliable of the four.
 

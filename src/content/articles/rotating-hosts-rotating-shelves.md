@@ -59,7 +59,7 @@ One rule that saves friction: the host's house, the host's house rules. Shoes, p
 
 ## Why should the host pick the game from their lane?
 
-Because the host owns it, knows it, and can teach it. That is the whole logic of [claiming a lane](/articles/claim-a-lane/): the person who collects co-ops is the person who has played Pandemic enough times to teach it in ten minutes. Handing the pick to the host removes the "what should we play" conversation, which can eat twenty minutes of a three-hour evening.
+Because the host owns it, knows it, and can teach it. That is the whole logic of [claiming a lane](/articles/claim-a-lane/): the person who collects co-ops is the person who has played [Pandemic](https://link.amazon/B0eHP5GCg) enough times to teach it in ten minutes. Handing the pick to the host removes the "what should we play" conversation, which can eat twenty minutes of a three-hour evening.
 
 The host announces the game two or three days ahead. That gives people time to skim a rules summary if they like, and it lets anyone who dreads a particular game plan accordingly. It also lets the host say "this one is 90 minutes, so we are starting cards at 7:00 sharp."
 
@@ -86,10 +86,10 @@ Here is what one eight-week stretch looks like for a four-person biweekly group 
 
 | Date | Host | Lane | Likely game | Jordan's role |
 |---|---|---|---|---|
-| Week 1 | Dana | Gateway and family | Ticket to Ride, Azul | Brings a filler, runs confirmations |
+| Week 1 | Dana | Gateway and family | [Ticket to Ride](https://link.amazon/B0jh8RB7f), [Azul](https://link.amazon/B0bGRYHex) | Brings a filler, runs confirmations |
 | Week 3 | Marcus | Co-op | Pandemic, The Crew | Teaches The Crew, brings drinks |
-| Week 5 | Priya | Party (6+) | Codenames, Just One, Wavelength | Orders the pizza |
-| Week 7 | Game store table (Jordan books) | Jordan's lane: two-player and card games | Jaipur, Patchwork, Love Letter | Books the table, teaches |
+| Week 5 | Priya | Party (6+) | [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20), [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) | Orders the pizza |
+| Week 7 | Game store table (Jordan books) | Jordan's lane: two-player and card games | [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20), [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20), [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20) | Books the table, teaches |
 
 Four sessions, four slices of the library, four different rooms, nobody hauling more than one box. Over a year, that rotation touches every game the group owns. Over two years, it tells you which lanes are thin and which games have earned a second look.
 

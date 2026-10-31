@@ -12,7 +12,7 @@ That sounds too simple to be the whole answer. It nearly is. Most game nights di
 
 ## Why do most game nights fade out after three sessions?
 
-A first game night usually goes well. The host picks a crowd-pleaser like Codenames or Ticket to Ride, people laugh, someone says "we should do this more often." Then the second one takes three weeks of texting to schedule. The third one gets cancelled when two people drop out. There is no fourth.
+A first game night usually goes well. The host picks a crowd-pleaser like [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) or [Ticket to Ride](https://link.amazon/B0jh8RB7f), people laugh, someone says "we should do this more often." Then the second one takes three weeks of texting to schedule. The third one gets cancelled when two people drop out. There is no fourth.
 
 The problem is not interest. The problem is that every session requires a fresh decision from every person. Each decision is a chance to say no. Multiply that by six people and a dozen sessions, and the odds run out.
 
@@ -26,14 +26,14 @@ Weekly is the sweet spot for most groups. Every two weeks works. Monthly is the 
 
 The reason weekly works is not that people have more time. It is that short gaps make the habit cheap to keep. Nobody needs to catch up on three months of life before the first card is dealt. Conversation picks up where it left off. The table becomes a place rather than an event.
 
-Trade length for frequency. A two-hour Thursday that happens fifty times a year beats a six-hour Saturday that happens four times. If you are choosing between a weekly night of short games and a monthly marathon of Gloomhaven, choose the weekly night. You can add the marathon later.
+Trade length for frequency. A two-hour Thursday that happens fifty times a year beats a six-hour Saturday that happens four times. If you are choosing between a weekly night of short games and a monthly marathon of [Gloomhaven](https://www.amazon.com/dp/B01LZXVN4P?tag=cubecommonw0a-20), choose the weekly night. You can add the marathon later.
 
 ## The five rules of a standing game night
 
 These are the mechanics. None of them are clever. All of them matter.
 
 1. **Fixed night, fixed time, fixed place.** Thursday at 7, your dining room, every week. Do not poll. Do not rotate. If the night does not work for someone, they come when they can. The group is not built around any one schedule.
-2. **It happens with two.** This is the rule that saves groups. If only two people show, you play a two-player game. Patchwork, Jaipur, 7 Wonders Duel, and Lost Cities exist for exactly this night. The session never gets cancelled for low turnout, because cancelling teaches people that attendance is optional in both directions.
+2. **It happens with two.** This is the rule that saves groups. If only two people show, you play a two-player game. Patchwork, [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20), [7 Wonders Duel](https://www.amazon.com/dp/B014DMSTXK?tag=cubecommonw0a-20), and [Lost Cities](https://www.amazon.com/dp/B00T0GY9CK?tag=cubecommonw0a-20) exist for exactly this night. The session never gets cancelled for low turnout, because cancelling teaches people that attendance is optional in both directions.
 3. **No RSVP required.** Asking people to commit in advance makes attendance feel like a favor. A standing invitation means people show up when they are free and feel no guilt when they are not. Attendance goes up when the pressure goes down.
 4. **The host does not cook.** If the host has to make dinner, the host burns out by month three. People eat before they come or bring something. Keep snacks simple. The table is the point, not the menu.
 5. **Hard stop.** Name an end time and keep it. People with early mornings and young kids will only keep coming if they trust they will be home by 10. A game night that reliably ends on time is one people can say yes to every week.
@@ -48,10 +48,10 @@ A small shelf covers most nights. Something like this:
 
 | Player count | Reliable picks | Teach time |
 |---|---|---|
-| 2 | Patchwork, Jaipur, 7 Wonders Duel | 5 min |
-| 3 to 4 | Azul, Wingspan, The Crew, Cascadia | 5 to 15 min |
-| 5 to 6 | Codenames, Wavelength, Just One, Ticket to Ride | 5 min |
-| 7+ | Codenames, Wavelength, Decrypto, Skull | 5 min |
+| 2 | [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20), Jaipur, 7 Wonders Duel | 5 min |
+| 3 to 4 | [Azul](https://link.amazon/B0bGRYHex), [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), The Crew, [Cascadia](https://link.amazon/B0g1HYFt4) | 5 to 15 min |
+| 5 to 6 | Codenames, [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20), [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20), Ticket to Ride | 5 min |
+| 7+ | Codenames, Wavelength, [Decrypto](https://www.amazon.com/dp/B07BB4ND6J?tag=cubecommonw0a-20), [Skull](https://www.amazon.com/dp/B08R2BPLSN?tag=cubecommonw0a-20) | 5 min |
 
 Notice what is missing. No four-hour games. Nothing with a forty-minute rules teach. Those have a place, but not on the recurring night. Save the big boxes for a scheduled Saturday once the group has proven it exists.
 

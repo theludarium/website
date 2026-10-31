@@ -8,7 +8,7 @@ draft: false
 ---
 Worker placement board games give each player a handful of pieces, a shared board full of action spaces, and one hard rule: once a space is taken, nobody else can use it this round. That is the entire mechanic. Everything interesting about it comes from what that rule does to a table of people who all want the same thing at the same time.
 
-Rather than survey a dozen titles, this article walks through one game in detail. Lords of Waterdeep is the best teaching example because it is clean, popular, and does nothing fancy. Once you can see the machinery there, you will recognize it in Agricola, Viticulture, Everdell, and most of the euro-game shelf.
+Rather than survey a dozen titles, this article walks through one game in detail. [Lords of Waterdeep](https://www.amazon.com/dp/0786959916?tag=cubecommonw0a-20) is the best teaching example because it is clean, popular, and does nothing fancy. Once you can see the machinery there, you will recognize it in [Agricola](https://www.amazon.com/dp/B07JZFN8WS?tag=cubecommonw0a-20), [Viticulture](https://www.amazon.com/dp/B018GRSLK4?tag=cubecommonw0a-20), Everdell, and most of the euro-game shelf.
 
 ## What is worker placement, in plain terms?
 
@@ -68,8 +68,8 @@ Once you understand the base form, the variations are easy to spot. Designers tw
 
 | Lever | Base version (Lords of Waterdeep) | Variation | Example |
 |---|---|---|---|
-| Exclusivity | One worker per space | Spaces that hold several, or cost more for the second visitor | Caverna, Tzolk'in |
-| Worker count | Fixed, grows slightly | Must be grown and fed, or workers have different strengths | Agricola, Raiders of the North Sea |
+| Exclusivity | One worker per space | Spaces that hold several, or cost more for the second visitor | [Caverna](https://www.amazon.com/dp/B00G3FV2TO?tag=cubecommonw0a-20), [Tzolk'in](https://www.amazon.com/dp/B009XBA390?tag=cubecommonw0a-20) |
+| Worker count | Fixed, grows slightly | Must be grown and fed, or workers have different strengths | Agricola, [Raiders of the North Sea](https://www.amazon.com/dp/B0BMWB1M78?tag=cubecommonw0a-20) |
 | Action availability | Same board every round | New spaces appear or rotate | Lords of Waterdeep's buildings, Everdell's seasons |
 | Round structure | Fixed number of rounds | Variable end, or player-controlled season changes | Viticulture, Everdell |
 | Feeding or upkeep | None | Workers must be fed each harvest or you take penalties | Agricola, Caverna |

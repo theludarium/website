@@ -7,7 +7,7 @@ games: [catan]
 tags: ["Catan tournament", "Catan qualifier", "Catan World Championship", "CATAN Championship rules", "Catan Nationals", "Noblesville", "Competitive play"]
 draft: false
 ---
-I opened [Moonshot Games](https://moonshotgamestore.com/)' event calendar this week to book a table for a Cube Commonwealth session in Noblesville on Saturday. The table was taken. Moonshot is hosting an official Catan tournament that day, a CATAN Championship qualifier, and my first reaction was mild annoyance: no cube on Saturday.
+I opened [Moonshot Games](https://moonshotgamestore.com/)' event calendar this week to book a table for a Cube Commonwealth session in Noblesville on Saturday. The table was taken. Moonshot is hosting an official [Catan](https://link.amazon/B0h8BDGR2) tournament that day, a CATAN Championship qualifier, and my first reaction was mild annoyance: no cube on Saturday.
 
 My second reaction was curiosity. I have played Catan a handful of times, always casually, always with a snack bowl within reach. It is a fun game. And the entry fee is $10. For the price of a sandwich, I get a seat at a table full of people who take sheep and brick seriously, and a front-row look at what "good" means in a game most of us learned at a friend's kitchen table.
 
@@ -32,7 +32,7 @@ The game turned 30 in 2025. To mark it, KOSMOS staged a record-setting game at S
 
 ## Is there a Catan World Championship?
 
-Yes. Organized Catan tournaments started in Germany in the late 1990s, and the first official CATAN World Championship was held in 2002. It has run every two years since 2008 ([catan.com](https://www.catan.com/championships/catan-world-championship-2025)). More than 40 nations have sent players.
+Yes. Organized Catan tournaments started in Germany in the late 1990s, and the first official CATAN World Championship was held in 2002. It has run every two years since 2008 (catan.com). More than 40 nations have sent players.
 
 | Year | Host city | World Champion |
 | --- | --- | --- |
@@ -41,13 +41,13 @@ Yes. Organized Catan tournaments started in Germany in the late 1990s, and the f
 | 2018 | Cologne, Germany | Quetzal Hernandez (Mexico) |
 | 2016 | Durango, Colorado, USA | William Cavaretta (USA) |
 
-The 2025 event moved from 2024 to line up with Catan's 30th anniversary. About 90 players from 60 countries and regions met in Stuttgart, the city where KOSMOS first published the game ([catan.com](https://www.catan.com/catan-fans/news/catan-worldchampionship-2025-stuttgart)). The next World Championship is set for 2027.
+The 2025 event moved from 2024 to line up with Catan's 30th anniversary. About 90 players from 60 countries and regions met in Stuttgart, the city where KOSMOS first published the game (catan.com). The next World Championship is set for 2027.
 
-In the off-years, continental events fill the gap. The CATAN Americas Championship debuted in Oaxaca, Mexico, in 2019. The 2026 edition in Brazil went to Burak Ozgur, the 2025 U.S. National Champion ([catan.com](https://www.catan.com/catan-fans/championships)).
+In the off-years, continental events fill the gap. The CATAN Americas Championship debuted in Oaxaca, Mexico, in 2019. The 2026 edition in Brazil went to Burak Ozgur, the 2025 U.S. National Champion (catan.com).
 
 In the U.S., Catan Studio also runs the **Masters Invitational**, an annual invite-only event for anyone who has placed in the top 16 at a past National Championship. It is one of the toughest Catan fields anywhere, and it doubles as a second road into Nationals ([CATAN Events](https://catanevents.com/players/masters/)).
 
-The top of the game is a mix of math minds, content creators, and grinders. Hamish Dean, the 2022 world champion, holds a PhD in mathematics and was described as a "good talker" in his hometown paper, which is about the best two-word summary of Catan skill I have heard ([Otago Daily Times](https://www.odt.co.nz/canterbury/north-canterbury/talker-a-world-champ-v53vq6b4)). Drew Elliott, the 2024 U.S. champion, is a well-known Catan content creator. This year Andrew Scott won the Masters Invitational and then the U.S. National Championship in Chicago, the first Nationals ever run as a public, spectator event ([catan.com](https://www.catan.com/catan-fans/news/new-us-catan-champion-2026)).
+The top of the game is a mix of math minds, content creators, and grinders. Hamish Dean, the 2022 world champion, holds a PhD in mathematics and was described as a "good talker" in his hometown paper, which is about the best two-word summary of Catan skill I have heard ([Otago Daily Times](https://www.odt.co.nz/canterbury/north-canterbury/talker-a-world-champ-v53vq6b4)). Drew Elliott, the 2024 U.S. champion, is a well-known Catan content creator. This year Andrew Scott won the Masters Invitational and then the U.S. National Championship in Chicago, the first Nationals ever run as a public, spectator event (catan.com).
 
 *If you like this kind of deep dive, the newsletter sends new pieces on games and the people who play them.*
 

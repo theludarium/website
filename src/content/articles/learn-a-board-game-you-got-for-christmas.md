@@ -71,36 +71,36 @@ If the gift was a popular game, The Ludarium Academy may already have a free cou
 
 | If you got | Take this free course |
 |---|---|
-| Catan | [Catan](/academy/catan/) |
-| Ticket to Ride | [Coast to Coast](/academy/ticket-to-ride/) |
-| Codenames | [One Word, One Number](/academy/codenames/) |
-| Flip 7 | [One More Card](/academy/flip-7/) |
-| Sushi Go! | [Pick and Pass](/academy/sushi-go/) |
-| Azul | [Wall to Wall](/academy/azul/) |
-| Kingdomino | [Every Crown Counts](/academy/kingdomino/) |
-| Carcassonne | [Tile by Tile](/academy/carcassonne/) |
-| Splendor | [Gem by Gem](/academy/splendor/) |
-| King of Tokyo | [Who Holds Tokyo](/academy/king-of-tokyo/) |
-| Sky Team | [Cleared to Land](/academy/sky-team/) |
-| The Crew | [The Right Trick](/academy/the-crew/) |
-| Pandemic | [Four Actions, Four Cures](/academy/pandemic/) |
-| Cascadia | [Wild Corridors](/academy/cascadia/) |
-| Wingspan | [From Feeder to Flock](/academy/wingspan/) |
+| [Catan](https://link.amazon/B0h8BDGR2) | [Catan](/academy/catan/) |
+| [Ticket to Ride](https://link.amazon/B0jh8RB7f) | [Coast to Coast](/academy/ticket-to-ride/) |
+| [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) | [One Word, One Number](/academy/codenames/) |
+| [Flip 7](https://www.amazon.com/dp/B0DWGVM7RY?tag=cubecommonw0a-20) | [One More Card](/academy/flip-7/) |
+| [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) | [Pick and Pass](/academy/sushi-go/) |
+| [Azul](https://link.amazon/B0bGRYHex) | [Wall to Wall](/academy/azul/) |
+| [Kingdomino](https://link.amazon/B08l49zvA) | [Every Crown Counts](/academy/kingdomino/) |
+| [Carcassonne](https://link.amazon/B012Rr5ed) | [Tile by Tile](/academy/carcassonne/) |
+| [Splendor](https://link.amazon/B0fEvY6Wg) | [Gem by Gem](/academy/splendor/) |
+| [King of Tokyo](https://link.amazon/B0goO6BQA) | [Who Holds Tokyo](/academy/king-of-tokyo/) |
+| [Sky Team](https://www.amazon.com/dp/B0CHD8RCSJ?tag=cubecommonw0a-20) | [Cleared to Land](/academy/sky-team/) |
+| [The Crew](https://link.amazon/B099S9RKf) | [The Right Trick](/academy/the-crew/) |
+| [Pandemic](https://link.amazon/B0eHP5GCg) | [Four Actions, Four Cures](/academy/pandemic/) |
+| [Cascadia](https://link.amazon/B0g1HYFt4) | [Wild Corridors](/academy/cascadia/) |
+| [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) | [From Feeder to Flock](/academy/wingspan/) |
 | Everdell | [Four Seasons, Fifteen Spaces](/academy/everdell/) |
-| 7 Wonders or 7 Wonders Duel | [Pick, Pass, and Duel](/academy/7-wonders/) |
-| Dominion | [Shuffle by Shuffle](/academy/dominion/) |
-| Heat: Pedal to the Metal | [Hot Laps](/academy/heat/) |
-| The Night Cage | [Candles in the Dark](/academy/the-night-cage/) |
-| Lost Ruins of Arnak | [Five Rounds to the Lost Temple](/academy/lost-ruins-of-arnak/) |
-| Dinosaur Island | [Room to Roar](/academy/dinosaur-island/) |
-| The Castles of Burgundy | [Two Dice, One Duchy](/academy/castles-of-burgundy/) |
-| Terraforming Mars | [From Red to Green](/academy/terraforming-mars/) |
-| Dune: Imperium or Uprising | [Agents and Alliances](/academy/dune-imperium/) |
-| Root | [Four Factions, One Forest](/academy/root/) |
-| Spirit Island | [Ravage, Build, Explore](/academy/spirit-island/) |
-| Power Grid | [Bid, Burn, Build](/academy/power-grid/) |
-| Ark Nova | [Where the Tracks Cross](/academy/ark-nova/) |
-| Brass: Birmingham | [Canals, Coal, and Beer](/academy/brass-birmingham/) |
+| [7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20) or [7 Wonders Duel](https://www.amazon.com/dp/B014DMSTXK?tag=cubecommonw0a-20) | [Pick, Pass, and Duel](/academy/7-wonders/) |
+| [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) | [Shuffle by Shuffle](/academy/dominion/) |
+| [Heat: Pedal to the Metal](https://www.amazon.com/dp/B0BGXPZG4B?tag=cubecommonw0a-20) | [Hot Laps](/academy/heat/) |
+| [The Night Cage](https://www.amazon.com/dp/B08VC23895?tag=cubecommonw0a-20) | [Candles in the Dark](/academy/the-night-cage/) |
+| [Lost Ruins of Arnak](https://www.amazon.com/dp/B08CD3JVQB?tag=cubecommonw0a-20) | [Five Rounds to the Lost Temple](/academy/lost-ruins-of-arnak/) |
+| [Dinosaur Island](https://www.amazon.com/dp/B06Y3BS8YD?tag=cubecommonw0a-20) | [Room to Roar](/academy/dinosaur-island/) |
+| [The Castles of Burgundy](https://www.amazon.com/dp/B07R5ZH6FQ?tag=cubecommonw0a-20) | [Two Dice, One Duchy](/academy/castles-of-burgundy/) |
+| [Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20) | [From Red to Green](/academy/terraforming-mars/) |
+| [Dune: Imperium](https://www.amazon.com/dp/B08JHB9V72?tag=cubecommonw0a-20) or Uprising | [Agents and Alliances](/academy/dune-imperium/) |
+| [Root](https://www.amazon.com/dp/B07F454YF3?tag=cubecommonw0a-20) | [Four Factions, One Forest](/academy/root/) |
+| [Spirit Island](https://www.amazon.com/dp/B01MUHP51S?tag=cubecommonw0a-20) | [Ravage, Build, Explore](/academy/spirit-island/) |
+| [Power Grid](https://www.amazon.com/dp/B07HM7WZT9?tag=cubecommonw0a-20) | [Bid, Burn, Build](/academy/power-grid/) |
+| [Ark Nova](https://www.amazon.com/dp/B09L6FCP9S?tag=cubecommonw0a-20) | [Where the Tracks Cross](/academy/ark-nova/) |
+| [Brass: Birmingham](https://www.amazon.com/dp/1988884047?tag=cubecommonw0a-20) | [Canals, Coal, and Beer](/academy/brass-birmingham/) |
 
 Got a trading card game instead? There are free courses for [Magic: The Gathering](/academy/magic/), [Magic Cube drafts](/academy/cube-draft/), the [Pokémon TCG](/academy/pokemon-tcg/), [Disney Lorcana](/academy/lorcana/), the [One Piece Card Game](/academy/one-piece-card-game/), and [Yu-Gi-Oh!](/academy/yugioh/). The full list lives on the [Academy page](/academy/).
 

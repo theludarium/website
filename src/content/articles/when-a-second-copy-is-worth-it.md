@@ -32,19 +32,19 @@ Here are the cases that usually pass, with the test applied to each one.
 
 ### Two separate play groups
 
-You have a Thursday group near home and a family group you see on holidays. Those are two Shared Shelves with almost no overlap in players. A copy of Ticket to Ride that lives in each place will be played in each place. The first copy, two hours away, cannot serve the second group.
+You have a Thursday group near home and a family group you see on holidays. Those are two Shared Shelves with almost no overlap in players. A copy of [Ticket to Ride](https://link.amazon/B0jh8RB7f) that lives in each place will be played in each place. The first copy, two hours away, cannot serve the second group.
 
 Test result: passes, as long as both groups will actually play it. If the second group would play it once a year, a cheaper option is to bring the first copy when you visit.
 
 ### A home or family copy
 
-The group's copy of Azul lives at a friend's apartment. Your kids, your partner, or your roommate want to play it on a weeknight. Those are plays the group copy will never produce, because it is not in your house when you want it.
+The group's copy of [Azul](https://link.amazon/B0bGRYHex) lives at a friend's apartment. Your kids, your partner, or your roommate want to play it on a weeknight. Those are plays the group copy will never produce, because it is not in your house when you want it.
 
 Test result: passes if the home plays are real. Be honest about this one. "My partner would love it" is a prediction. "We played it four times at Dana's and my partner asked when we could get one" is evidence.
 
 ### Games that improve with two sets
 
-A small number of games are designed so that combining copies makes a bigger or better game. Two Dominion sets give a group a much larger card pool and let two tables run different kingdoms at once. A Magic Cube seats eight drafters, so a community with sixteen regulars needs a second Cube to run two pods on the same night.
+A small number of games are designed so that combining copies makes a bigger or better game. Two [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) sets give a group a much larger card pool and let two tables run different kingdoms at once. A Magic Cube seats eight drafters, so a community with sixteen regulars needs a second Cube to run two pods on the same night.
 
 Test result: passes cleanly, because the second copy directly adds plays (a second table) or depth that the single copy cannot provide.
 
@@ -56,7 +56,7 @@ Test result: passes only if missing the game means missing the play. If the grou
 
 ### Cheap fillers
 
-Love Letter, Sushi Go!, Jaipur: games in the $12 to $20 range that fit in a coat pocket. Owning your own means it is in your bag at the café, on the trip, at the family dinner. The dollars at risk are small and the game shows up in more places.
+[Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20), [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20): games in the $12 to $20 range that fit in a coat pocket. Owning your own means it is in your bag at the café, on the trip, at the family dinner. The dollars at risk are small and the game shows up in more places.
 
 Test result: usually passes on the strength of portability, but set a price ceiling. Fillers are cheap. A $45 game is not a filler, no matter how short it plays.
 

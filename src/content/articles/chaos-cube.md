@@ -63,7 +63,7 @@ Keep the normal backbone's power at about peasant level, as described in our [pe
 
 ## Which chaos cards earn a slot?
 
-A short list of cards that have made our table laugh more than once, organized by what they do: <!-- AFFILIATE -->
+A short list of cards that have made our table laugh more than once, organized by what they do:
 
 - **Rewrite the board:** Warp World, Scrambleverse, Thieves' Auction, Switcheroo, Cultural Exchange, Shifting Loyalties.
 - **Rewrite the rules for a while:** Possibility Storm, Grip of Chaos, Eye of the Storm, Hive Mind, Knowledge Pool, Timesifter.

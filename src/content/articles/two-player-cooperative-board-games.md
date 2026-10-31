@@ -30,7 +30,7 @@ A grid of words. Each of you has a key showing which words are agents from your 
 
 ### 3. The Fox in the Forest Duet
 
-A two-player trick-taking game where you move a shared token along a path by winning tricks with the right cards. Short and clever. If you liked The Crew but your group is only two, this is the answer.
+A two-player trick-taking game where you move a shared token along a path by winning tricks with the right cards. Short and clever. If you liked [The Crew](https://link.amazon/B099S9RKf) but your group is only two, this is the answer.
 
 ### 4. Hanabi
 
@@ -42,7 +42,7 @@ Still fine at two. Each player takes a role; some couples take two roles each fo
 
 ### 6. Forbidden Island / Forbidden Desert
 
-Lighter and shorter than Pandemic, and both play well at two. Forbidden Desert's shifting sandstorm is a little more interesting at low counts.
+Lighter and shorter than [Pandemic](https://link.amazon/B0eHP5GCg), and both play well at two. [Forbidden Desert](https://www.amazon.com/dp/B00B4ECHJI?tag=cubecommonw0a-20)'s shifting sandstorm is a little more interesting at low counts.
 
 ### 7. Spirit Island
 
@@ -74,18 +74,18 @@ An escape-room-in-a-box series. One hour, one play, and entirely cooperative. No
 
 | Game | Time | Weight | Talk level | Best for |
 |---|---|---|---|---|
-| Sky Team | 20 min | Light-medium | Restricted | Tension and trust |
-| Codenames: Duet | 15 min | Light | One-word clues | Quick, repeatable |
+| [Sky Team](https://www.amazon.com/dp/B0CHD8RCSJ?tag=cubecommonw0a-20) | 20 min | Light-medium | Restricted | Tension and trust |
+| [Codenames: Duet](https://www.amazon.com/dp/B0FJMNPGXM?tag=cubecommonw0a-20) | 15 min | Light | One-word clues | Quick, repeatable |
 | Fox in the Forest Duet | 30 min | Light | Open | Card players |
-| Hanabi | 25 min | Light | Restricted | Quiet thinkers |
+| [Hanabi](https://www.amazon.com/dp/B01MXTGT21?tag=cubecommonw0a-20) | 25 min | Light | Restricted | Quiet thinkers |
 | Pandemic | 45 min | Medium | Open | A classic fight |
-| Forbidden Island | 30 min | Light | Open | New players |
-| Spirit Island | 90+ min | Heavy | Open | Strategy couples |
+| [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20) | 30 min | Light | Open | New players |
+| [Spirit Island](https://www.amazon.com/dp/B01MUHP51S?tag=cubecommonw0a-20) | 90+ min | Heavy | Open | Strategy couples |
 | Burgle Bros | 60 min | Medium | Open | Planners |
-| Horrified | 45 min | Light-medium | Open | Theme lovers |
+| [Horrified](https://www.amazon.com/dp/B07QQHTD4Q?tag=cubecommonw0a-20) | 45 min | Light-medium | Open | Theme lovers |
 | Pandemic Legacy | 45 min x 12 to 24 | Medium | Open | A shared project |
 | Jaws of the Lion | 90 min x 25 | Medium-heavy | Open | Tactical campaigns |
-| Exit: The Game | 60 min | Light-medium | Open | Puzzle nights |
+| [Exit: The Game](https://www.amazon.com/dp/B01NAXV1G7?tag=cubecommonw0a-20) | 60 min | Light-medium | Open | Puzzle nights |
 
 Times are approximate, taken from the boxes and our own tables, and vary by edition and experience.
 
@@ -122,7 +122,7 @@ Codenames: Duet and Sky Team both fit, and a single mission of The Crew (with th
 
 ### What is a good two-player campaign game for couples?
 
-Pandemic Legacy: Season 1 for a story-driven campaign, and Jaws of the Lion for a tactical one. Both play well at two and finish in a few months.
+[Pandemic Legacy: Season 1](https://www.amazon.com/dp/B00TQ0DXR2?tag=cubecommonw0a-20) for a story-driven campaign, and Jaws of the Lion for a tactical one. Both play well at two and finish in a few months.
 
 ## One table, new side, one ideas
 

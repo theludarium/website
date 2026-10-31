@@ -7,9 +7,9 @@ games: [codenames]
 tags: ["Codenames tips", "Codenames clue tips", "Codenames strategy", "how to be a good spymaster", "Codenames assassin", "Codenames guessing strategy", "Strategy guides"]
 draft: false
 ---
-The best Codenames tips are not about being clever. They are about being safe. A spymaster who gives careful two-word clues all game will beat one who swings for a brilliant four nearly every time, because the brilliant four hits the assassin once in five games and that is the game.
+The best [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) tips are not about being clever. They are about being safe. A spymaster who gives careful two-word clues all game will beat one who swings for a brilliant four nearly every time, because the brilliant four hits the assassin once in five games and that is the game.
 
-This guide covers both roles: the spymaster who gives clues and the field operatives who guess. Most tables have one person who is good at one and nobody who is good at the other. <!-- AFFILIATE -->
+This guide covers both roles: the spymaster who gives clues and the field operatives who guess. Most tables have one person who is good at one and nobody who is good at the other.
 
 ## How does Codenames work, briefly?
 

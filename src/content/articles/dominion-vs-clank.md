@@ -9,13 +9,13 @@ draft: false
 ---
 Dominion vs Clank! is a comparison between the game that invented deck building and one of the most popular games to put that idea on a map. Both start every player with the same weak ten cards. Both let you buy better cards that shuffle into your deck and make later turns stronger. Both end with someone counting points and someone else saying "one more turn and I'd have had it."
 
-The difference is what the deck is for. In Dominion, the deck is the game. In Clank!, the deck is how you move a little figure through a dragon's dungeon, and the dungeon is the game. One is a clean, abstract puzzle of efficiency. The other is a push-your-luck adventure with cards attached.
+The difference is what the deck is for. In [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20), the deck is the game. In Clank!, the deck is how you move a little figure through a dragon's dungeon, and the dungeon is the game. One is a clean, abstract puzzle of efficiency. The other is a push-your-luck adventure with cards attached.
 
 ## How does each game work?
 
-**Dominion** <!-- AFFILIATE --> gives each player a deck of seven Copper and three Estate cards. Each turn you draw five, play one Action card (more if your cards grant extra actions), then spend the money in your hand to buy one card (more with extra buys) from a shared supply of ten Kingdom card piles plus treasure and victory cards. Everything goes to your discard pile and reshuffles into your deck when it runs out. Victory cards score at the end but clog your hand during the game, which is the central tension. The game ends when the Province pile or any three supply piles are empty. Publisher specs list 2 to 4 players and 20 to 30 minutes ([Rio Grande Games](https://www.riograndegames.com/games/dominion/)).
+**Dominion** gives each player a deck of seven Copper and three Estate cards. Each turn you draw five, play one Action card (more if your cards grant extra actions), then spend the money in your hand to buy one card (more with extra buys) from a shared supply of ten Kingdom card piles plus treasure and victory cards. Everything goes to your discard pile and reshuffles into your deck when it runs out. Victory cards score at the end but clog your hand during the game, which is the central tension. The game ends when the Province pile or any three supply piles are empty. Publisher specs list 2 to 4 players and 20 to 30 minutes (Rio Grande Games).
 
-**Clank! A Deck-Building Adventure** <!-- AFFILIATE --> starts each player with a deck of ten cards and a thief figure at the entrance of a dungeon map. Cards give you movement (boots), fighting (swords), money (skill) to buy new cards from a shared market row, and sometimes Clank, which is noise. Every point of Clank puts a cube of your color in a bag. Each time a card triggers a dragon attack, cubes are drawn from the bag and whoever's cubes come out takes damage. You descend into the dungeon, grab an artifact (the deeper, the more valuable), and climb back out before your health runs out. Players who make it out score everything; players who die deep in the dungeon score nothing. It plays 2 to 4, about 30 to 60 minutes, ages 12 and up ([Noble Knight Games](https://www.nobleknight.com/P/2147643945)).
+**[Clank! A Deck-Building Adventure](https://www.amazon.com/dp/B01KAC6268?tag=cubecommonw0a-20)** starts each player with a deck of ten cards and a thief figure at the entrance of a dungeon map. Cards give you movement (boots), fighting (swords), money (skill) to buy new cards from a shared market row, and sometimes Clank, which is noise. Every point of Clank puts a cube of your color in a bag. Each time a card triggers a dragon attack, cubes are drawn from the bag and whoever's cubes come out takes damage. You descend into the dungeon, grab an artifact (the deeper, the more valuable), and climb back out before your health runs out. Players who make it out score everything; players who die deep in the dungeon score nothing. It plays 2 to 4, about 30 to 60 minutes, ages 12 and up (Noble Knight Games).
 
 ## Dominion vs Clank!: the side-by-side
 
@@ -23,7 +23,7 @@ The difference is what the deck is for. In Dominion, the deck is the game. In Cl
 |---|---|---|
 | Players | 2 to 4 | 2 to 4 |
 | Time | 20 to 30 minutes | 30 to 60 minutes |
-| Ages (box) | [13+](https://www.nobleknight.com/P/2147646469/Dominion-2nd-Edition) (14+ on some printings) | [12+](https://www.nobleknight.com/P/2147643945) |
+| Ages (box) | 13+ (14+ on some printings) | 12+ |
 | Weight (complexity) | Medium-light | Medium-light |
 | Teach time | 10 minutes | 12 to 15 minutes |
 | Board | None | Dungeon map with two sides |
@@ -59,7 +59,7 @@ Dominion's luck is almost entirely shuffle order. A good deck has a bad turn whe
 
 Dominion. The base game's 25 Kingdom cards, drawn 10 at a time, produce more combinations than you will exhaust. Each setup asks a new question. And the expansion line, well over a dozen boxes, adds more cards that mix with everything before them. People have been playing Dominion weekly since 2008 and are still finding new combinations.
 
-Clank! has strong replay value too, with a double-sided board and a large deck of market cards, and its expansions and sequels (Clank! In! Space!, Clank! Legacy, Clank! Catacombs) add variety. But the dungeon itself becomes familiar after a dozen plays, and the arc of each game is similar: go down, grab, run. That arc is fun every time, the way a roller coaster is, but it is one arc.
+Clank! has strong replay value too, with a double-sided board and a large deck of market cards, and its expansions and sequels ([Clank! In! Space!](https://www.amazon.com/dp/B074W2HFRZ?tag=cubecommonw0a-20), [Clank! Legacy](https://www.amazon.com/dp/B07QT5PVMK?tag=cubecommonw0a-20), [Clank! Catacombs](https://www.amazon.com/dp/B0B4V3LST6?tag=cubecommonw0a-20)) add variety. But the dungeon itself becomes familiar after a dozen plays, and the arc of each game is similar: go down, grab, run. That arc is fun every time, the way a roller coaster is, but it is one arc.
 
 ## Which one is better for families?
 

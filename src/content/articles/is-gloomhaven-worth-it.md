@@ -25,16 +25,16 @@ Characters retire when they complete a personal goal, and a retirement opens a s
 
 This is the question that matters for busy adults, so here are the numbers, hedged.
 
-- **Scenarios:** The first edition has [95 scenarios](https://en.wikipedia.org/wiki/Gloomhaven) and the second edition lists [101](https://cephalofair.com/products/gloomhaven-board-game-2nd-edition), though you will not play all of them on one run.
+- **Scenarios:** The first edition has [95 scenarios](https://en.wikipedia.org/wiki/Gloomhaven) and the second edition lists 101, though you will not play all of them on one run.
 - **Per scenario:** Two to three hours including setup and teardown, in our experience. Faster once you are practiced.
-- **A full campaign:** Well over a hundred hours. The publisher lists [one to two hours or more per scenario](https://cephalofair.com/products/gloomhaven-board-game-2nd-edition), and a run through the campaign takes dozens of scenarios.
+- **A full campaign:** Well over a hundred hours. The publisher lists one to two hours or more per scenario, and a run through the campaign takes dozens of scenarios.
 - **Setup:** Fifteen to thirty minutes per scenario for the tiles, monsters, and tokens, unless you buy or build organizers.
 
 Put that against a real calendar. If your group meets every other week for three hours, that is a two-year campaign. Most groups do not finish. The players who love Gloomhaven most are the ones who accepted that going in.
 
 ## What does Gloomhaven cost?
 
-The box itself is around $200 at retail; the publisher listed the [second edition at $199.99](https://cephalofair.com/collections/all) at the time of writing (October 2026), and the first edition carried a $140 suggested price. Prices move. That is the smallest cost. Add an organizer if you want setup under twenty minutes. Add a digital companion app, which most groups use to track monsters and avoid the cardboard clutter.
+The box itself is around $200 at retail; the publisher listed the second edition at $199.99 at the time of writing (October 2026), and the first edition carried a $140 suggested price. Prices move. That is the smallest cost. Add an organizer if you want setup under twenty minutes. Add a digital companion app, which most groups use to track monsters and avoid the cardboard clutter.
 
 Measured per hour of play, Gloomhaven is one of the cheapest entertainments a group can buy. Measured per hour of your life you have to schedule, it is one of the most expensive.
 
@@ -63,7 +63,7 @@ If that describes your group, Gloomhaven may become the best thing you play toge
 | Price tier | High | Low-mid | Highest |
 | Best for | Committed groups | Busy adults, first-timers | Veterans who finished Gloomhaven |
 
-Figures are approximate and vary by edition; the [Gloomhaven](https://cephalofair.com/products/gloomhaven-board-game-2nd-edition) and [Frosthaven](https://cephalofair.com/products/frosthaven-bundles) scenario counts are the publisher's, the hour estimates are ours.
+Figures are approximate and vary by edition; the [Gloomhaven](https://www.amazon.com/dp/B01LZXVN4P?tag=cubecommonw0a-20) and [Frosthaven](https://www.amazon.com/dp/B08FK7B2SC?tag=cubecommonw0a-20) scenario counts are the publisher's, the hour estimates are ours.
 
 Jaws of the Lion is the recommendation for almost everyone reading an article titled "is Gloomhaven worth it." It uses the same combat system. It teaches the rules across the first five scenarios instead of in a manual. The map is printed in a spiral-bound book, so setup takes five minutes. You can finish it in a few months of casual play.
 
@@ -73,10 +73,10 @@ If you finish Jaws of the Lion and want more, buy Gloomhaven with confidence. Yo
 
 Plenty of games scratch the campaign itch with less weight.
 
-- **Pandemic Legacy: Season 1** is twelve to twenty-four sessions of about an hour each and tells a tighter story. We explain how it works in our [legacy games explainer](/articles/legacy-board-games-explained/).
-- **Sleeping Gods** is an open-world exploration campaign with lighter combat and a strong atlas-based map.
-- **Forgotten Waters** is a pirate campaign with an app that narrates, and it is funny.
-- **Oathsworn** is heavier but has a shorter campaign, and **Too Many Bones** plays as one-off adventures.
+- **[Pandemic Legacy: Season 1](https://www.amazon.com/dp/B00TQ0DXR2?tag=cubecommonw0a-20)** is twelve to twenty-four sessions of about an hour each and tells a tighter story. We explain how it works in our [legacy games explainer](/articles/legacy-board-games-explained/).
+- **[Sleeping Gods](https://www.amazon.com/dp/B084GWHLGK?tag=cubecommonw0a-20)** is an open-world exploration campaign with lighter combat and a strong atlas-based map.
+- **[Forgotten Waters](https://www.amazon.com/dp/B08637FBDR?tag=cubecommonw0a-20)** is a pirate campaign with an app that narrates, and it is funny.
+- **Oathsworn** is heavier but has a shorter campaign, and **[Too Many Bones](https://www.amazon.com/dp/B077PNSDWC?tag=cubecommonw0a-20)** plays as one-off adventures.
 
 And if your group's real problem is attendance rather than weight, read our piece on [keeping a campaign going when someone misses a session](/articles/campaign-game-missed-session/). The game is rarely the issue. The calendar is.
 

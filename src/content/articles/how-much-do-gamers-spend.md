@@ -76,7 +76,7 @@ The number is a ceiling, not a target. A year in which you spend half your budge
 
 Here is the part the survey cannot show you, because it asks individuals. The cheapest way to cut your annual spending is not to buy less. It is to buy as a group.
 
-[The One Copy Rule](/articles/one-copy-rule/) says a play group needs one copy of a game, not one per person. Follow it and the arithmetic changes immediately. Say four friends each spent $300 a year buying games separately, with the usual overlap: two of them own Catan, three own Codenames, and so on. The group spent $1,200 and owns perhaps 30 distinct games.
+[The One Copy Rule](/articles/one-copy-rule/) says a play group needs one copy of a game, not one per person. Follow it and the arithmetic changes immediately. Say four friends each spent $300 a year buying games separately, with the usual overlap: two of them own [Catan](https://link.amazon/B0h8BDGR2), three own [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), and so on. The group spent $1,200 and owns perhaps 30 distinct games.
 
 Now have each friend [claim a lane](/articles/claim-a-lane/) and buy only in their genre, with the games living wherever they are played. Each still spends $300. The group now owns about 40 distinct games with no duplicates, and each friend has access to all 40 for the price of 10. Or they each drop to $150 a year and still own more distinct games together than they did apart.
 

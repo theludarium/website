@@ -8,7 +8,7 @@ draft: false
 ---
 Cooperative games with hidden information are the cure for the quarterback problem. When nobody can see everything, nobody can run everything. Each player holds a piece the others cannot, and the team only wins if every piece gets played well.
 
-This article is a list of twelve co-ops built that way, with a short explanation of the design tricks that make them work. If you have ever watched one person play Pandemic while three others moved pawns on command, this is the shelf you want.
+This article is a list of twelve co-ops built that way, with a short explanation of the design tricks that make them work. If you have ever watched one person play [Pandemic](https://link.amazon/B0eHP5GCg) while three others moved pawns on command, this is the shelf you want.
 
 ## What is the quarterback problem, briefly?
 
@@ -20,10 +20,10 @@ We wrote a full piece on the [quarterback problem](/articles/quarterback-problem
 
 Four main tools show up again and again.
 
-1. **Hidden hands.** You hold cards nobody else can see. Hanabi inverts this so you cannot see your own.
-2. **Restricted talk.** The rules forbid discussing your cards, or allow only a scripted signal. The Crew and The Mind are the clearest examples.
-3. **Time pressure.** A real-time clock means nobody has time to compute everyone's move. Space Alert and Kitchen Rush do this.
-4. **Asymmetric roles with private goals.** Each player has a secret objective or a unique view of the board, so no single person has the full picture. Mysterium's ghost knows the answer but cannot speak.
+1. **Hidden hands.** You hold cards nobody else can see. [Hanabi](https://www.amazon.com/dp/B01MXTGT21?tag=cubecommonw0a-20) inverts this so you cannot see your own.
+2. **Restricted talk.** The rules forbid discussing your cards, or allow only a scripted signal. The Crew and [The Mind](https://www.amazon.com/dp/B07C4F3KLF?tag=cubecommonw0a-20) are the clearest examples.
+3. **Time pressure.** A real-time clock means nobody has time to compute everyone's move. [Space Alert](https://www.amazon.com/dp/B015OFWN6Y?tag=cubecommonw0a-20) and [Kitchen Rush](https://www.amazon.com/dp/B079VWWHB2?tag=cubecommonw0a-20) do this.
+4. **Asymmetric roles with private goals.** Each player has a secret objective or a unique view of the board, so no single person has the full picture. [Mysterium](https://www.amazon.com/dp/B0F4YNPYQM?tag=cubecommonw0a-20)'s ghost knows the answer but cannot speak.
 
 Most of the games below use at least two of these at once.
 
@@ -83,11 +83,11 @@ A co-op with a traitor. Everyone's loyalty card is hidden. A player who tries to
 
 | Mechanism | Example games | Feel | Watch out for |
 |---|---|---|---|
-| Hidden hands | Hanabi, The Crew, Letter Jam | Quiet, deductive | Frustration for talkers early on |
-| Restricted talk | The Mind, Sky Team | Tense, focused | Rules lawyering about what counts as talking |
-| Real time | Magic Maze, Space Alert | Loud, chaotic | Overwhelming for anxious players |
-| Split knowledge | Mysterium, Codenames: Duet | Social, interpretive | The knowing player can get bored |
-| Hidden traitor | Shadows over Camelot | Suspicious, dramatic | Hurt feelings if not framed as a game |
+| Hidden hands | Hanabi, The Crew, [Letter Jam](https://www.amazon.com/dp/B07V49TSG6?tag=cubecommonw0a-20) | Quiet, deductive | Frustration for talkers early on |
+| Restricted talk | The Mind, [Sky Team](https://www.amazon.com/dp/B0CHD8RCSJ?tag=cubecommonw0a-20) | Tense, focused | Rules lawyering about what counts as talking |
+| Real time | [Magic Maze](https://www.amazon.com/dp/B08W9BV633?tag=cubecommonw0a-20), Space Alert | Loud, chaotic | Overwhelming for anxious players |
+| Split knowledge | Mysterium, [Codenames: Duet](https://www.amazon.com/dp/B0FJMNPGXM?tag=cubecommonw0a-20) | Social, interpretive | The knowing player can get bored |
+| Hidden traitor | [Shadows over Camelot](https://www.amazon.com/dp/0975277383?tag=cubecommonw0a-20) | Suspicious, dramatic | Hurt feelings if not framed as a game |
 
 Pick by temperament. A thoughtful, quiet group will love Hanabi and hate Magic Maze. A loud, social group is the reverse.
 
@@ -99,7 +99,7 @@ That trust is the thing people remember. Winning a mission of The Crew because y
 
 ## How do you handle a quarterback in an open-information game?
 
-Sometimes you want to play Pandemic or Spirit Island anyway. A few habits help.
+Sometimes you want to play Pandemic or [Spirit Island](https://www.amazon.com/dp/B01MUHP51S?tag=cubecommonw0a-20) anyway. A few habits help.
 
 - Each player narrates their own turn before anyone else speaks.
 - Questions are allowed; instructions are not. "What are you thinking?" is fine. "Go to Cairo" is not.
@@ -116,7 +116,7 @@ It is when one experienced or assertive player directs everyone's moves in a co-
 
 ### What is the best co-op game with no quarterback problem?
 
-The Crew: Mission Deep Sea for most groups. Hanabi if your group prefers something quieter and more deductive.
+[The Crew: Mission Deep Sea](https://link.amazon/B099S9RKf) for most groups. Hanabi if your group prefers something quieter and more deductive.
 
 ### Do hidden-information co-ops work with new players?
 

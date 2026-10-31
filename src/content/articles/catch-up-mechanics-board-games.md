@@ -12,7 +12,7 @@ That is a bad evening. Not because losing is bad, but because a foregone conclus
 
 ## Why do games develop runaway leaders in the first place?
 
-Most games reward you for doing well with more capacity to do well. Build a settlement in Catan, collect more resources, build more settlements. Win a trick in a trick-taking game, lead the next one. This is called a positive feedback loop, and it is not a flaw. It gives players a sense of progress and makes early decisions matter.
+Most games reward you for doing well with more capacity to do well. Build a settlement in [Catan](https://link.amazon/B0h8BDGR2), collect more resources, build more settlements. Win a trick in a trick-taking game, lead the next one. This is called a positive feedback loop, and it is not a flaw. It gives players a sense of progress and makes early decisions matter.
 
 The problem is that positive feedback compounds. A small early edge becomes a large late edge, and the result is decided long before the game formally ends. Designers call this snowballing. Players call it "that game where Dan won on turn four."
 
@@ -24,15 +24,15 @@ They fall into a few families. Most games use one or two.
 
 **Direct rubber banding.** The trailing player gets a straight bonus. Mario Kart's item system is the famous version: the further back you are, the better your items. In board games, this is often a flat resource gift or a cheaper price for whoever is last. It is the bluntest tool, and the one most likely to feel unfair to a leader who played well.
 
-**Leader taxes.** Being in front costs something. In Power Grid, turn order is set by who has the most cities, and the leader acts last in the auction and buys resources last, at the highest prices. The lead is still real, but holding it is expensive.
+**Leader taxes.** Being in front costs something. In [Power Grid](https://www.amazon.com/dp/B07HM7WZT9?tag=cubecommonw0a-20), turn order is set by who has the most cities, and the leader acts last in the auction and buys resources last, at the highest prices. The lead is still real, but holding it is expensive.
 
 **Target the leader.** The game gives players reasons or tools to hit whoever is in front. Catan's robber is the simple example: when a seven is rolled, the table usually steals from the player with the most cards. Nothing in the rules says to target the leader. The table does it anyway.
 
-**Hidden or delayed scoring.** If nobody knows exactly who is ahead, nobody knows the game is over. Lords of Waterdeep hides each player's end-game bonus. Many euro games save a large chunk of scoring for the final tally. The lead may be real, but it is not visible, so the table keeps trying.
+**Hidden or delayed scoring.** If nobody knows exactly who is ahead, nobody knows the game is over. [Lords of Waterdeep](https://www.amazon.com/dp/0786959916?tag=cubecommonw0a-20) hides each player's end-game bonus. Many euro games save a large chunk of scoring for the final tally. The lead may be real, but it is not visible, so the table keeps trying.
 
-**Late-game scoring weight.** Points become more available as the game goes on, so an early lead is a smaller fraction of the total. Ticket to Ride does this naturally: long routes and completed destination tickets at the end are worth far more than the short routes claimed early.
+**Late-game scoring weight.** Points become more available as the game goes on, so an early lead is a smaller fraction of the total. [Ticket to Ride](https://link.amazon/B0jh8RB7f) does this naturally: long routes and completed destination tickets at the end are worth far more than the short routes claimed early.
 
-**Diminishing returns.** The same action yields less each time you take it. In Azul, filling a row early is good, but extra tiles you cannot place cost you points, and the penalty escalates. Overreaching is punished in proportion.
+**Diminishing returns.** The same action yields less each time you take it. In [Azul](https://link.amazon/B0bGRYHex), filling a row early is good, but extra tiles you cannot place cost you points, and the penalty escalates. Overreaching is punished in proportion.
 
 ## Which catch-up mechanics feel earned?
 
@@ -75,7 +75,7 @@ Co-ops have the same problem in a different costume. Instead of one player runni
 
 Pandemic handles this with escalating pressure. The infection rate rises as the game goes on, and epidemic cards reshuffle the discard pile on top of the deck so recently infected cities get hit again. A table that is doing well faces a harder board. A table that is struggling still has a few turns to stabilize before the cascade. The game is tuned so that most sessions come down to the last few turns, which is what makes the win feel like a win.
 
-The Crew does something quieter. Each mission is short, and failing one costs you only a replay. The comeback is not within the game but across the campaign. You lose, you talk about it, you try again. For many groups this is more satisfying than any in-game rubber band.
+[The Crew](https://link.amazon/B099S9RKf) does something quieter. Each mission is short, and failing one costs you only a replay. The comeback is not within the game but across the campaign. You lose, you talk about it, you try again. For many groups this is more satisfying than any in-game rubber band.
 
 ## How should a designer dose it?
 

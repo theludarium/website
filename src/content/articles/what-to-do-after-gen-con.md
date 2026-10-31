@@ -23,7 +23,7 @@ If low mood lasts beyond a couple of weeks or feels heavier than tiredness, that
 Do these in the first seven days, while the memories are fresh.
 
 1. **Write the list before you forget.** Every game you played and liked, every person you met, every booth you meant to go back to. Ten minutes on Sunday night saves the whole weekend from fading.
-2. **Message the people.** The three or four you actually clicked with. "Great playing Wingspan with you Saturday. I'm in Indianapolis; if you're ever in town, let's play." Most will reply. Some will become regulars.
+2. **Message the people.** The three or four you actually clicked with. "Great playing [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) with you Saturday. I'm in Indianapolis; if you're ever in town, let's play." Most will reply. Some will become regulars.
 3. **Open every box.** Not to play yet. Punch the tokens, sort the bags, read the setup page. A game that is punched and bagged gets played. A game in shrink-wrap becomes shelf decoration.
 4. **Return the generics.** If you have unused generic tickets, Gen Con converts them to system credit only if you [return them to Customer Service before the show closes Sunday](https://gencon.zendesk.com/hc/en-us/articles/36966863600404-What-are-Generic-Tickets), so this one is a lesson for next year rather than a task.
 5. **Post the photos somewhere you will find them.** With names in the captions.
@@ -39,7 +39,7 @@ A method that works:
 - **Invite the same core and one new person each week.** A game night needs about four people to survive a cancellation. Each new face is a possible fifth.
 - **Order the games light to heavy.** Week one, the party game or the small card game. Week four, the big box. People who had fun in week one come back for week four.
 
-If you bought a campaign game like Gloomhaven: Jaws of the Lion <!-- AFFILIATE -->, it needs its own group and its own night. Recruit for it specifically. Our guide to [running a board game league that lasts a season](/articles/board-game-league-format/) covers how to keep a fixed group showing up.
+If you bought a campaign game like [Gloomhaven: Jaws of the Lion](https://www.amazon.com/dp/B088QSDB7S?tag=cubecommonw0a-20), it needs its own group and its own night. Recruit for it specifically. Our guide to [running a board game league that lasts a season](/articles/board-game-league-format/) covers how to keep a fixed group showing up.
 
 *If this is useful, the newsletter sends more like it.*
 
@@ -55,7 +55,7 @@ The games are a reason. The people are the point of the whole exercise, and keep
 | The publisher or designer whose table you liked | Sign up for their newsletter; playtest for them if they ask |
 | Yourself, three months from now | Book one smaller convention for the off-season |
 
-For the long-distance friends, a monthly online session of something like Codenames or a digital board game app keeps the thread alive until you can share a table again. We wrote about [keeping a game group alive when everyone moved away](/articles/playing-board-games-with-long-distance-friends/).
+For the long-distance friends, a monthly online session of something like [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) or a digital board game app keeps the thread alive until you can share a table again. We wrote about [keeping a game group alive when everyone moved away](/articles/playing-board-games-with-long-distance-friends/).
 
 For the off-season convention, the Midwest has a show nearly every month. Origins in June, Gamehole Con in October, Geekway in May. Any of them will feel like a smaller, calmer Gen Con, and a February or March convention breaks the long winter between shows.
 

@@ -41,7 +41,7 @@ The honest rule: plan for half the hours you would do alone, then cut one more.
 More than first-timers expect.
 
 - **Kid Activities events.** The event catalog has a KIDS category with crafts, simple games, and learn-to-play sessions. These are the events a wristband can register for. Book them in advance like any other event; our guide to [Gen Con event registration](/articles/gen-con-event-registration-tips/) explains the wish list.
-- **Family-friendly demos in the Exhibit Hall.** Many publishers run demos of games that play in fifteen minutes. Look for the ones with big colorful components and small tables. Games like Dragomino <!-- AFFILIATE --> or My First Castle Panic <!-- AFFILIATE --> show up at publisher tables and play in a sitting.
+- **Family-friendly demos in the Exhibit Hall.** Many publishers run demos of games that play in fifteen minutes. Look for the ones with big colorful components and small tables. Games like [Dragomino](https://link.amazon/B09WKyU19) or [My First Castle Panic](https://www.amazon.com/dp/B07KMLHPMK?tag=cubecommonw0a-20) show up at publisher tables and play in a sitting.
 - **Open gaming.** The open-gaming library has a shelf of family games, and a quiet corner of the hall is often the best hour of a kid's day.
 - **Costumes.** Children love the cosplay. Budget time to stop and look, and teach the rule: ask before photographing.
 - **The outdoor Block Party.** Gen Con closes [South Street, just south of the convention center](https://gencon.zendesk.com/hc/en-us/articles/16797680652692-Gen-Con-Block-Party), for music, food trucks, and more, running from 9 a.m. to 10 p.m. Thursday through Saturday. For small kids, it is often the highlight.

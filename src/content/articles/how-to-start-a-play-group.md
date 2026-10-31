@@ -29,7 +29,7 @@ The hard part is not finding people who like games. It is finding people who lik
 
 ### Friends you already have
 
-Start with the people who already say yes to dinner invitations. You are not looking for hobbyists. You are looking for people who like each other and have a free evening. A group of four friends who played Catan once in college will outlast a group of four strangers with big collections.
+Start with the people who already say yes to dinner invitations. You are not looking for hobbyists. You are looking for people who like each other and have a free evening. A group of four friends who played [Catan](https://link.amazon/B0h8BDGR2) once in college will outlast a group of four strangers with big collections.
 
 Ask directly: "I want to do a regular game night, every other Thursday. Are you in?" Vague invitations get vague answers.
 
@@ -70,7 +70,7 @@ The first three sessions decide whether this is a group or a nice idea. Keep the
 
 ### Session one: gateway games only
 
-Pull from what we call [The Teacher's Shelf](/articles/teachers-shelf/): games you can teach in five minutes to anyone. Codenames, Sushi Go!, Just One, Ticket to Ride, Azul. Nothing with a rulebook over eight pages. The goal of session one is not a great game. It is a great evening that ends with "same time in two weeks?"
+Pull from what we call [The Teacher's Shelf](/articles/teachers-shelf/): games you can teach in five minutes to anyone. [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20), [Ticket to Ride](https://link.amazon/B0jh8RB7f), [Azul](https://link.amazon/B0bGRYHex). Nothing with a rulebook over eight pages. The goal of session one is not a great game. It is a great evening that ends with "same time in two weeks?"
 
 Play two or three short games rather than one long one. Short games give you natural breaks for food and talk, and nobody gets stuck losing for ninety minutes.
 
@@ -80,7 +80,7 @@ Ask a different person to bring and teach one game. This does two things. It tel
 
 ### Session three: one step up
 
-By session three, the group knows each other's pace. Try one game that is a small step up in weight: Carcassonne, 7 Wonders, Pandemic. Still under an hour. Still teachable in ten minutes. If it lands, you have a group that can grow. If it flops, go back to the gateway shelf for a month and try again later. Flopping is data, not failure.
+By session three, the group knows each other's pace. Try one game that is a small step up in weight: [Carcassonne](https://link.amazon/B012Rr5ed), [7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20), [Pandemic](https://link.amazon/B0eHP5GCg). Still under an hour. Still teachable in ten minutes. If it lands, you have a group that can grow. If it flops, go back to the gateway shelf for a month and try again later. Flopping is data, not failure.
 
 ## Food, start time, end time: the logistics that keep people coming back
 
@@ -171,7 +171,7 @@ Biweekly on a fixed weeknight works for most adult groups: frequent enough to be
 
 ### What games should a new board game group start with?
 
-Start with gateway games you can teach in five minutes: Codenames, Sushi Go!, Just One, Ticket to Ride, Azul, Love Letter. Play two or three short games in the first session instead of one long one. Add a slightly heavier game like Carcassonne or Pandemic by the third session once the group knows its pace.
+Start with gateway games you can teach in five minutes: Codenames, Sushi Go!, Just One, Ticket to Ride, Azul, [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20). Play two or three short games in the first session instead of one long one. Add a slightly heavier game like Carcassonne or Pandemic by the third session once the group knows its pace.
 
 ### Do I need to buy a lot of games to start a game group?
 

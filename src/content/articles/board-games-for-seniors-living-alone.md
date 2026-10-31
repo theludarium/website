@@ -36,23 +36,23 @@ These picks are sorted by how much they ask of the player. Start at the top and 
 
 | Game | Players | Time | Why it fits |
 |---|---|---|---|
-| Qwirkle | 2 to 4 | 30 to 45 min | Big wooden tiles, match colors and shapes, no reading |
-| Rummikub | 2 to 4 | 45 min | Familiar rummy logic with chunky tiles |
-| Sequence | 2 to 12 | 30 min | Cards plus a board, plays with a crowd |
-| Azul | 2 to 4 | 30 to 45 min | Beautiful tiles, simple rules, surprising depth |
-| Ticket to Ride | 2 to 5 | 45 to 60 min | Collect cards, claim routes, a clear map |
-| Codenames | 4 to 8 | 15 to 30 min | Word association, all talking, no components to handle |
-| Wavelength | 2 to 12 | 30 min | A guessing game that runs on opinions and stories |
+| [Qwirkle](https://www.amazon.com/dp/1933054395?tag=cubecommonw0a-20) | 2 to 4 | 30 to 45 min | Big wooden tiles, match colors and shapes, no reading |
+| [Rummikub](https://www.amazon.com/dp/B00000IZJB?tag=cubecommonw0a-20) | 2 to 4 | 45 min | Familiar rummy logic with chunky tiles |
+| [Sequence](https://www.amazon.com/dp/B09FSGVW4X?tag=cubecommonw0a-20) | 2 to 12 | 30 min | Cards plus a board, plays with a crowd |
+| [Azul](https://link.amazon/B0bGRYHex) | 2 to 4 | 30 to 45 min | Beautiful tiles, simple rules, surprising depth |
+| [Ticket to Ride](https://link.amazon/B0jh8RB7f) | 2 to 5 | 45 to 60 min | Collect cards, claim routes, a clear map |
+| [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) | 4 to 8 | 15 to 30 min | Word association, all talking, no components to handle |
+| [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) | 2 to 12 | 30 min | A guessing game that runs on opinions and stories |
 
 A few notes on these.
 
-**Qwirkle** <!-- AFFILIATE --> is the safest first pick. It is essentially dominoes with colors and shapes, the tiles are large and tactile, and there is nothing to read. It plays well at two, which matters when it is just you and one other person at the kitchen table.
+**Qwirkle** is the safest first pick. It is essentially dominoes with colors and shapes, the tiles are large and tactile, and there is nothing to read. It plays well at two, which matters when it is just you and one other person at the kitchen table.
 
-**Rummikub** <!-- AFFILIATE --> is already in many older adults' homes, sometimes from decades ago. If someone says they do not play games but has a Rummikub box in a closet, start there.
+**Rummikub** is already in many older adults' homes, sometimes from decades ago. If someone says they do not play games but has a Rummikub box in a closet, start there.
 
-**Azul** <!-- AFFILIATE --> is the step up. The tiles are heavy and pleasant to handle, the rules take five minutes, and the game rewards attention without punishing mistakes too harshly. It is also the game most likely to make someone say "that was better than I expected."
+**Azul** is the step up. The tiles are heavy and pleasant to handle, the rules take five minutes, and the game rewards attention without punishing mistakes too harshly. It is also the game most likely to make someone say "that was better than I expected."
 
-**Codenames** <!-- AFFILIATE --> and **Wavelength** <!-- AFFILIATE --> are for groups. Both run entirely on conversation. Wavelength in particular gives people a reason to tell stories ("I said 7 because when I was young, a hot dog was absolutely a sandwich") and that is usually the point of the evening.
+**Codenames** and **Wavelength** are for groups. Both run entirely on conversation. Wavelength in particular gives people a reason to tell stories ("I said 7 because when I was young, a hot dog was absolutely a sandwich") and that is usually the point of the evening.
 
 ## How do you get someone to the table the first time?
 
@@ -90,7 +90,7 @@ Qwirkle is the safest start: large tiles, no reading, no complicated rules, and 
 
 ### Are there board games for seniors with poor eyesight?
 
-Yes. Look for games with large tiles and high contrast rather than cards with small text. Qwirkle, Azul, and Rummikub all work. Large-print playing cards are also widely available and make any card game easier.
+Yes. Look for games with large tiles and high contrast rather than cards with small text. Qwirkle, Azul, and Rummikub all work. [Large-print playing cards](https://www.amazon.com/dp/B000BUUTJ6?tag=cubecommonw0a-20) are also widely available and make any card game easier.
 
 ### How often should we play?
 

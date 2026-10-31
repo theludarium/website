@@ -7,9 +7,9 @@ games: [7-wonders]
 tags: ["7 Wonders strategy", "7 Wonders tips", "how to win 7 Wonders", "7 Wonders science strategy", "7 Wonders military", "7 Wonders drafting", "Strategy guides"]
 draft: false
 ---
-Most 7 Wonders strategy advice begins with the card types. It should begin with the two people sitting next to you. In a seven-player game, you only ever interact with your left and right neighbors: you buy resources from them, you fight wars with them, and you pass them the cards you did not take. The other four players might as well be at a different table.
+Most [7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20) strategy advice begins with the card types. It should begin with the two people sitting next to you. In a seven-player game, you only ever interact with your left and right neighbors: you buy resources from them, you fight wars with them, and you pass them the cards you did not take. The other four players might as well be at a different table.
 
-This guide covers the base game, first or second edition. The second edition changed some card art and a few balance points but the shape of the game is the same. <!-- AFFILIATE -->
+This guide covers the base game, first or second edition. The second edition changed some card art and a few balance points but the shape of the game is the same.
 
 ## How does 7 Wonders work in one paragraph?
 

@@ -6,7 +6,7 @@ category: Game Design
 tags: ["area control board games", "area majority games", "designing conflict in board games", "El Grande area control", "Risk alternatives", "kingmaking in board games", "Tabletop game design"]
 draft: false
 ---
-Area control board games are about presence on a map. You place pieces in regions, and whoever has the most in a region when it scores gets the reward. The genre includes Risk, where presence means armies and the loser is removed from the board, and El Grande, where presence means wooden cubes and nobody is ever eliminated. Both are area control. Only one of them ends friendships.
+Area control board games are about presence on a map. You place pieces in regions, and whoever has the most in a region when it scores gets the reward. The genre includes [Risk](https://www.amazon.com/dp/B01HEQHKNM?tag=cubecommonw0a-20), where presence means armies and the loser is removed from the board, and [El Grande](https://www.amazon.com/dp/B00005UN1N?tag=cubecommonw0a-20), where presence means wooden cubes and nobody is ever eliminated. Both are area control. Only one of them ends friendships.
 
 This article looks at why conflict on a map so often turns sour, how the best area control designs keep it enjoyable, and what to carry into your own prototype.
 
@@ -16,7 +16,7 @@ Players use the terms loosely, but designers draw a line.
 
 **Area control** usually means you own a region outright. Risk is the classic case. One army occupies a territory, and you take it by removing the previous owner.
 
-**Area majority** means several players can share a region, and the one with the most pieces scores the most, with second place often getting something too. El Grande, Blood Rage, and Inis all work this way.
+**Area majority** means several players can share a region, and the one with the most pieces scores the most, with second place often getting something too. El Grande, [Blood Rage](https://www.amazon.com/dp/B013TK5DFO?tag=cubecommonw0a-20), and [Inis](https://www.amazon.com/dp/B089Q26FL2?tag=cubecommonw0a-20) all work this way.
 
 The distinction matters because majority systems soften conflict by design. Losing a region in Risk means losing everything there. Losing a majority in El Grande means getting second-place points instead of first. One feels like a defeat. The other feels like a negotiation that did not go your way.
 
@@ -55,11 +55,11 @@ Modern designs have built a toolkit. Not every game uses every tool, but most us
 |---|---|---|
 | Majority scoring with second place | El Grande, Blood Rage | Makes sharing a region viable |
 | No elimination | Almost every modern design | Keeps everyone at the table |
-| Indirect conflict | Small World, Kemet | Removes dice-rolling grudges |
+| Indirect conflict | [Small World](https://www.amazon.com/dp/B0024H7OF6?tag=cubecommonw0a-20), [Kemet](https://www.amazon.com/dp/B096L3HRFQ?tag=cubecommonw0a-20) | Removes dice-rolling grudges |
 | Deterministic combat | Kemet, Inis | Fights resolve by card or number, no luck |
 | Rewards for losing | Blood Rage | Dying in battle can score points |
 | Regional reset | Small World's decline | Lets a losing position become a fresh start |
-| Multiple paths to points | Scythe, Root | Lets a player avoid conflict entirely |
+| Multiple paths to points | [Scythe](https://www.amazon.com/dp/B01IPUGYK6?tag=cubecommonw0a-20), [Root](https://www.amazon.com/dp/B07F454YF3?tag=cubecommonw0a-20) | Lets a player avoid conflict entirely |
 
 Blood Rage deserves a closer look because it is a Viking combat game that still avoids bitterness. When your warriors die, they go to Valhalla and can earn you glory. Losing a battle on purpose is a strategy. A fight becomes a transaction with two winners rather than a humiliation.
 

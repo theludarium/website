@@ -12,7 +12,7 @@ This article explains what kingmaking is, why it is almost unavoidable in games 
 
 ## What is kingmaking, exactly?
 
-Picture a three-player game of Catan in its last turns. Anna has nine points. Ben has nine points. Carlos has five and is out of the running. On Carlos's turn he rolls a seven and must move the robber. He can block Anna's best hex or Ben's. Whoever he blocks almost certainly loses.
+Picture a three-player game of [Catan](https://link.amazon/B0h8BDGR2) in its last turns. Anna has nine points. Ben has nine points. Carlos has five and is out of the running. On Carlos's turn he rolls a seven and must move the robber. He can block Anna's best hex or Ben's. Whoever he blocks almost certainly loses.
 
 Carlos is the kingmaker. His decision matters enormously, and nothing in the game gives him a reason to choose one way or the other. So he decides on something outside the game: who he likes more, who beat him last week, who said something annoying an hour ago, or simple whim.
 
@@ -38,15 +38,15 @@ Our article on [catch-up mechanics](/articles/catch-up-mechanics-board-games/) c
 
 Some types are worse than others.
 
-**Games with direct attacks.** Risk, Munchkin, and most take-that card games let a trailing player dump everything on one leader. The eliminated or hopeless player chooses a target, and the target loses.
+**Games with direct attacks.** [Risk](https://www.amazon.com/dp/B01HEQHKNM?tag=cubecommonw0a-20), [Munchkin](https://www.amazon.com/dp/B0H7648MST?tag=cubecommonw0a-20), and most take-that card games let a trailing player dump everything on one leader. The eliminated or hopeless player chooses a target, and the target loses.
 
-**Games with trading or negotiation.** Catan, Chinatown, and Diplomacy let a losing player give a leader exactly what they need. A lopsided trade near the end is kingmaking with a handshake.
+**Games with trading or negotiation.** Catan, [Chinatown](https://www.amazon.com/dp/B00IVF4ZH0?tag=cubecommonw0a-20), and [Diplomacy](https://www.amazon.com/dp/B08TPDFW51?tag=cubecommonw0a-20) let a losing player give a leader exactly what they need. A lopsided trade near the end is kingmaking with a handshake.
 
-**Games with area majority.** Where you place your last pieces can tip a contested region to one player or another, even if you cannot win the region yourself. El Grande and Blood Rage have this.
+**Games with area majority.** Where you place your last pieces can tip a contested region to one player or another, even if you cannot win the region yourself. [El Grande](https://www.amazon.com/dp/B00005UN1N?tag=cubecommonw0a-20) and [Blood Rage](https://www.amazon.com/dp/B013TK5DFO?tag=cubecommonw0a-20) have this.
 
 **Games with shared public goals.** If a card gives points to whoever ends with the most of something, a trailing player's choice to compete for it or not can decide who gets it.
 
-Games with low interaction, such as Wingspan or most roll-and-writes, have little room for kingmaking because players barely touch each other. <!-- AFFILIATE --> That is a trade-off: they also have less drama and less table talk.
+Games with low interaction, such as [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) or most roll-and-writes, have little room for kingmaking because players barely touch each other. That is a trade-off: they also have less drama and less table talk.
 
 *If this is useful, the newsletter sends more like it.*
 
@@ -56,16 +56,16 @@ Several tools, none perfect.
 
 | Design tool | How it helps | Example |
 |---|---|---|
-| Hidden scores | Nobody is sure who is winning, so nobody knows whom to crown | Tigris & Euphrates, many trick-takers |
-| Catch-up mechanics | Fewer players fall hopelessly behind | Power Grid's turn order, Mario Kart's items |
-| Scoring that rewards position, not spite | Attacking the leader costs you points you could score elsewhere | Scythe's popularity track |
+| Hidden scores | Nobody is sure who is winning, so nobody knows whom to crown | [Tigris & Euphrates](https://www.amazon.com/dp/B001JQX7O0?tag=cubecommonw0a-20), many trick-takers |
+| Catch-up mechanics | Fewer players fall hopelessly behind | [Power Grid](https://www.amazon.com/dp/B07HM7WZT9?tag=cubecommonw0a-20)'s turn order, Mario Kart's items |
+| Scoring that rewards position, not spite | Attacking the leader costs you points you could score elsewhere | [Scythe](https://www.amazon.com/dp/B01IPUGYK6?tag=cubecommonw0a-20)'s popularity track |
 | Short games | Less time for a hopeless position to develop | Most 30-minute games |
-| Simultaneous turns | No single late turn can decide the game | 7 Wonders' drafting |
+| Simultaneous turns | No single late turn can decide the game | [7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20)' drafting |
 | Scaled interaction | Attacks hit everyone, or hit the attacker too | Many cooperative or shared-threat games |
 
 Hidden scoring is the strongest fix and the most controversial. If nobody knows the standings, a trailing player cannot deliberately pick a winner. But hidden scores also make it hard to play well, since you cannot tell whom to stop. Designers accept one problem to remove the other.
 
-Reiner Knizia's games are a good study here. Many of them score in ways that make it hard to know who is ahead until the last count, and the lowest-set-wins rule in Tigris & Euphrates means a leader in three categories can lose to a player who is balanced. <!-- AFFILIATE --> The kingmaker rarely knows they are one.
+Reiner Knizia's games are a good study here. Many of them score in ways that make it hard to know who is ahead until the last count, and the lowest-set-wins rule in Tigris & Euphrates means a leader in three categories can lose to a player who is balanced. The kingmaker rarely knows they are one.
 
 ## Is kingmaking actually a problem?
 

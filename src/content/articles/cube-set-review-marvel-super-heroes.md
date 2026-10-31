@@ -6,7 +6,7 @@ category: Magic & Cube
 tags: ["Marvel Super Heroes cube", "Marvel MTG cube", "Mind Stone Infinity Stone cube", "Loki God of Mischief cube", "Universes Beyond cube review", "MSH cube cards", "Cube Commonwealth"]
 draft: false
 ---
-Magic: The Gathering | Marvel Super Heroes <!-- AFFILIATE --> released on June 26, 2026, and the Marvel Super Heroes cube conversation splits into two questions: do you run Universes Beyond cards at all, and if so, which of these are worth a slot? The first question is yours. For the second, the set has one colorless artifact that any cube can consider, several cheap legends in white and blue that are properly costed, and a lot of six-mana heroes that are built for Commander. Our calls follow [the slot method](/articles/how-to-evaluate-new-cards-for-cube/).
+Magic: The Gathering | Marvel Super Heroes released on June 26, 2026, and the Marvel Super Heroes cube conversation splits into two questions: do you run Universes Beyond cards at all, and if so, which of these are worth a slot? The first question is yours. For the second, the set has one colorless artifact that any cube can consider, several cheap legends in white and blue that are properly costed, and a lot of six-mana heroes that are built for Commander. Our calls follow [the slot method](/articles/how-to-evaluate-new-cards-for-cube/).
 
 Set facts from the [Wizards collecting article](https://magic.wizards.com/en/news/feature/collecting-marvel-super-heroes): tabletop release June 26, 2026, main set code MSH, legal in all formats including Standard; MTGGoldfish's set index counts 286 cards in the main set. Card text below is paraphrased from Card Kingdom and mtg.wtf listings.
 

@@ -93,7 +93,7 @@ The same thing a first-timer should expect anywhere, and we wrote a full guide t
 - You play two or three games over two to three hours.
 - Nobody expects you to know anything. The teaching is the product.
 
-Good starter games to ask for: Ticket to Ride, Azul, Codenames, Sushi Go, The Crew, and Wingspan if you have a couple of hours and want something with birds on it.
+Good starter games to ask for: [Ticket to Ride](https://link.amazon/B0jh8RB7f), [Azul](https://link.amazon/B0bGRYHex), [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), [Sushi Go](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), [The Crew](https://link.amazon/B099S9RKf), and [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) if you have a couple of hours and want something with birds on it.
 
 ## Where can you play D&D or Magic in Indianapolis?
 
@@ -104,7 +104,7 @@ If you want Magic without buying packs, look for a cube draft. [Cube Commonwealt
 
 ## What is The Ludarium building in Indianapolis?
 
-A game lounge you belong to rather than one you visit. The idea is closest to coworking: a membership, a reserved seat at a good table, a curated library, and regulars who know your name. Daytime quiet for two-player games and campaign sessions. Evening tables for open game nights. A room for the corporate events service, where teams come to play Pandemic and learn more about each other in 45 minutes than in a quarter of meetings.
+A game lounge you belong to rather than one you visit. The idea is closest to coworking: a membership, a reserved seat at a good table, a curated library, and regulars who know your name. Daytime quiet for two-player games and campaign sessions. Evening tables for open game nights. A room for the corporate events service, where teams come to play [Pandemic](https://link.amazon/B0eHP5GCg) and learn more about each other in 45 minutes than in a quarter of meetings.
 
 It is coming in stages. First the content and community you are reading now, then the doors. We do not have a date yet; when we do, the newsletter is where it lands first.
 

@@ -7,9 +7,9 @@ games: [wingspan]
 tags: ["Wingspan strategy", "Wingspan tips", "how to win Wingspan", "Wingspan engine building", "Wingspan eggs strategy", "Wingspan bonus cards", "Strategy guides"]
 draft: false
 ---
-Most Wingspan strategy advice is about which birds are best. That is not why you keep losing by ten. You are losing by ten because your engine comes online one round too late, you treat eggs as an afterthought, and you spend round four doing the same thing you did in round one.
+Most [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) strategy advice is about which birds are best. That is not why you keep losing by ten. You are losing by ten because your engine comes online one round too late, you treat eggs as an afterthought, and you spend round four doing the same thing you did in round one.
 
-This guide is for the player who understands the rules, enjoys the game, and would like to stop finishing second to the same person. The fix is mostly about tempo. <!-- AFFILIATE -->
+This guide is for the player who understands the rules, enjoys the game, and would like to stop finishing second to the same person. The fix is mostly about tempo.
 
 Rules are described in general terms for the base game. The expansions add birds and some new mechanics, but the shape of a winning game is the same.
 

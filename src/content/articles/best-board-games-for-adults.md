@@ -37,66 +37,66 @@ The last point matters most. Adults want to feel smart. A game that lets a first
 
 | Game | Players | Time | Why it works |
 |---|---|---|---|
-| Codenames | 4 to 8+ | 15 min | One-word clues, team play, instant laughter |
-| Wavelength | 2 to 12 | 30 min | Argue about where "a hot dog" sits on a sandwich scale |
-| Azul | 2 to 4 | 30 to 45 min | Beautiful tiles, one simple rule, surprising depth |
-| Ticket to Ride | 2 to 5 | 45 to 60 min | Collect cards, build train routes, feel clever |
-| The Crew | 2 to 5 | 20 min | A card game where you win or lose together |
-| Just One | 3 to 7 | 20 min | Cooperative word game, no one looks bad |
-| Splendor | 2 to 4 | 30 min | Gem chips and a satisfying engine |
-| Sushi Go! | 2 to 5 | 15 min | Pass cards, collect sets, done in a quarter hour |
-| Skull | 3 to 6 | 15 to 30 min | Pure bluffing with four discs each |
-| Cascadia | 1 to 4 | 30 to 45 min | Calm tile placement, nature theme, no conflict |
-| Patchwork | 2 | 20 to 30 min | A two-player quilt puzzle with real tension |
-| Decrypto | 3 to 8 | 30 min | Codenames for people who want to think harder |
+| [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) | 4 to 8+ | 15 min | One-word clues, team play, instant laughter |
+| [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) | 2 to 12 | 30 min | Argue about where "a hot dog" sits on a sandwich scale |
+| [Azul](https://link.amazon/B0bGRYHex) | 2 to 4 | 30 to 45 min | Beautiful tiles, one simple rule, surprising depth |
+| [Ticket to Ride](https://link.amazon/B0jh8RB7f) | 2 to 5 | 45 to 60 min | Collect cards, build train routes, feel clever |
+| [The Crew](https://link.amazon/B099S9RKf) | 2 to 5 | 20 min | A card game where you win or lose together |
+| [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20) | 3 to 7 | 20 min | Cooperative word game, no one looks bad |
+| [Splendor](https://link.amazon/B0fEvY6Wg) | 2 to 4 | 30 min | Gem chips and a satisfying engine |
+| [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) | 2 to 5 | 15 min | Pass cards, collect sets, done in a quarter hour |
+| [Skull](https://www.amazon.com/dp/B08R2BPLSN?tag=cubecommonw0a-20) | 3 to 6 | 15 to 30 min | Pure bluffing with four discs each |
+| [Cascadia](https://link.amazon/B0g1HYFt4) | 1 to 4 | 30 to 45 min | Calm tile placement, nature theme, no conflict |
+| [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20) | 2 | 20 to 30 min | A two-player quilt puzzle with real tension |
+| [Decrypto](https://www.amazon.com/dp/B07BB4ND6J?tag=cubecommonw0a-20) | 3 to 8 | 30 min | Codenames for people who want to think harder |
 
 ### Codenames
 
-Two teams, a grid of 25 words, and one clue-giver per side who has to connect several words with a single word and a number. <!-- AFFILIATE --> It takes two minutes to explain and the first clue usually gets a laugh. It works at a dinner party, a bar, or with a family that has never agreed on anything.
+Two teams, a grid of 25 words, and one clue-giver per side who has to connect several words with a single word and a number. It takes two minutes to explain and the first clue usually gets a laugh. It works at a dinner party, a bar, or with a family that has never agreed on anything.
 
 ### Wavelength
 
-One player sees a hidden target on a dial and gives a clue that fits a spectrum, say "cold to hot" or "underrated to overrated." <!-- AFFILIATE --> The team debates where the clue lands. The debate is the game. Adults who refuse to play games will argue about whether a cat is more "pet" or more "roommate" for twenty minutes.
+One player sees a hidden target on a dial and gives a clue that fits a spectrum, say "cold to hot" or "underrated to overrated." The team debates where the clue lands. The debate is the game. Adults who refuse to play games will argue about whether a cat is more "pet" or more "roommate" for twenty minutes.
 
 ### Azul
 
-You draft colored tiles from a central market and place them on a personal board to score patterns. <!-- AFFILIATE --> The components feel like something you would leave on a coffee table. The one hard rule, that leftover tiles cost you points, creates all the tension.
+You draft colored tiles from a central market and place them on a personal board to score patterns. The components feel like something you would leave on a coffee table. The one hard rule, that leftover tiles cost you points, creates all the tension.
 
 ### Ticket to Ride
 
-Collect colored cards, spend them to claim train routes between cities, and complete secret destination tickets. <!-- AFFILIATE --> It is the game that converted more adults in the 2000s than any other, and it still works. The map of the United States helps. Everyone has an opinion about the best way from Chicago to Santa Fe.
+Collect colored cards, spend them to claim train routes between cities, and complete secret destination tickets. It is the game that converted more adults in the 2000s than any other, and it still works. The map of the United States helps. Everyone has an opinion about the best way from Chicago to Santa Fe.
 
 ### The Crew
 
-A cooperative trick-taking game where the table has to make sure specific players win specific cards, and you can barely talk. <!-- AFFILIATE --> Anyone who has played Hearts or Spades already knows the core. We wrote a longer piece on [why The Crew teaches so well](/articles/the-crew-card-game/).
+A cooperative trick-taking game where the table has to make sure specific players win specific cards, and you can barely talk. Anyone who has played Hearts or Spades already knows the core. We wrote a longer piece on [why The Crew teaches so well](/articles/the-crew-card-game/).
 
 ### Just One
 
-Everyone writes a one-word clue for the guesser, but duplicate clues get erased before the guesser sees them. <!-- AFFILIATE --> It is cooperative, so nobody loses alone, and the moment when four people all wrote "banana" is reliably funny.
+Everyone writes a one-word clue for the guesser, but duplicate clues get erased before the guesser sees them. It is cooperative, so nobody loses alone, and the moment when four people all wrote "banana" is reliably funny.
 
 ### Splendor
 
-Collect gem chips, buy development cards, and build an engine that makes later purchases cheaper. <!-- AFFILIATE --> The poker-weight chips feel good in the hand. The strategy reveals itself by the second play, which is exactly when a skeptic decides they like this.
+Collect gem chips, buy development cards, and build an engine that makes later purchases cheaper. The poker-weight chips feel good in the hand. The strategy reveals itself by the second play, which is exactly when a skeptic decides they like this.
 
 ### Sushi Go!
 
-Pick a card, pass the rest, repeat. <!-- AFFILIATE --> Set collection with sushi illustrations and a fifteen-minute runtime. If an adult will not try this one, it is not about the games.
+Pick a card, pass the rest, repeat. Set collection with sushi illustrations and a fifteen-minute runtime. If an adult will not try this one, it is not about the games.
 
 ### Skull
 
-Each player has three flower discs and one skull. <!-- AFFILIATE --> You stack them face down, then bid on how many flowers you can flip without hitting a skull. It is bluffing stripped to the bone, and it plays well with a drink in hand.
+Each player has three flower discs and one skull. You stack them face down, then bid on how many flowers you can flip without hitting a skull. It is bluffing stripped to the bone, and it plays well with a drink in hand.
 
 ### Cascadia
 
-Place habitat tiles and wildlife tokens to build a Pacific Northwest landscape. <!-- AFFILIATE --> No attacking, no stealing, no one gets hurt. It suits the adult who hates confrontation and wants a puzzle that ends in 40 minutes.
+Place habitat tiles and wildlife tokens to build a Pacific Northwest landscape. No attacking, no stealing, no one gets hurt. It suits the adult who hates confrontation and wants a puzzle that ends in 40 minutes.
 
 ### Patchwork
 
-Two players compete to build the best quilt from Tetris-shaped pieces, paying with buttons and time. <!-- AFFILIATE --> It is the right first game for a couple, and it holds up after fifty plays. See more in our [two-player date night picks](/articles/two-player-board-games-date-night/).
+Two players compete to build the best quilt from Tetris-shaped pieces, paying with buttons and time. It is the right first game for a couple, and it holds up after fifty plays. See more in our [two-player date night picks](/articles/two-player-board-games-date-night/).
 
 ### Decrypto
 
-Teams pass coded three-digit messages using shared keywords, trying to be clear to their side and opaque to the other. <!-- AFFILIATE --> It rewards the clever adult who found Codenames too easy.
+Teams pass coded three-digit messages using shared keywords, trying to be clear to their side and opaque to the other. It rewards the clever adult who found Codenames too easy.
 
 *If this list is useful, the newsletter sends more like it.*
 
@@ -134,7 +134,7 @@ Under an hour, and ideally under 30 minutes for the first game. A short game let
 
 ### Are there good board games for adults that are not competitive?
 
-Yes. The Crew, Just One, and Pandemic are fully cooperative, and Cascadia and Azul are competitive but with almost no direct conflict between players.
+Yes. The Crew, Just One, and [Pandemic](https://link.amazon/B0eHP5GCg) are fully cooperative, and Cascadia and Azul are competitive but with almost no direct conflict between players.
 
 ### What is the best board game for a dinner party?
 

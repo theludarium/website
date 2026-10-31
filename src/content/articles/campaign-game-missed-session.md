@@ -14,7 +14,7 @@ This article is a policy, not a pep talk. Decide these things before the first s
 
 Three reasons, and they compound.
 
-First, campaign games carry state. A legacy game has a story in progress. Gloomhaven has characters with personal decks and goals. Playing without someone feels like it violates something, so the default is to wait.
+First, campaign games carry state. A legacy game has a story in progress. [Gloomhaven](https://www.amazon.com/dp/B01LZXVN4P?tag=cubecommonw0a-20) has characters with personal decks and goals. Playing without someone feels like it violates something, so the default is to wait.
 
 Second, waiting resets momentum. A group that meets every two weeks has a rhythm. Skip one and it is four weeks between sessions. Skip two and people forget the rules, the plot, and why they cared.
 
@@ -41,7 +41,7 @@ This depends on the game. The main approaches, from most to least common.
 | Approach | How it works | Best for |
 |---|---|---|
 | Rest | The character sits out; the game is scaled to fewer players | Gloomhaven, most co-ops with player-count scaling |
-| Pilot | A present player runs the absent character as well as their own | Pandemic Legacy, lighter campaigns |
+| Pilot | A present player runs the absent character as well as their own | [Pandemic Legacy](https://www.amazon.com/dp/B00TQ5SEAI?tag=cubecommonw0a-20), lighter campaigns |
 | Pause the character | Character stays put; others play a side scenario that does not advance the main plot | Games with optional or side content |
 | Guest | A substitute plays a temporary character | Games with pre-built or drop-in characters |
 | One-shot night | Skip the campaign; play something else | Any group |
@@ -50,7 +50,7 @@ The "rest" approach is the cleanest for Gloomhaven and its relatives, because th
 
 The "pilot" approach suits games where roles are simpler and public. In Pandemic Legacy, someone can run the Medic alongside their own character without much trouble. Agree that the pilot plays conservatively; nobody wants to come back and find their character was sacrificed.
 
-The "one-shot night" is underrated. The point of the group is the group. If the campaign cannot move, play The Crew or Codenames and keep the habit alive. We wrote about this in our article on [how to start a game night group](/articles/how-to-start-a-game-night-group/): the schedule is the asset, and the game is replaceable.
+The "one-shot night" is underrated. The point of the group is the group. If the campaign cannot move, play [The Crew](https://link.amazon/B099S9RKf) or [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) and keep the habit alive. We wrote about this in our article on [how to start a game night group](/articles/how-to-start-a-game-night-group/): the schedule is the asset, and the game is replaceable.
 
 *If this is useful, the newsletter sends more like it.*
 

@@ -7,7 +7,7 @@ games: [pandemic]
 tags: ["Pandemic board game", "how to play Pandemic", "Pandemic board game rules", "Pandemic co-op", "Pandemic board game review", "Pandemic expansions", "Cooperative and campaign games"]
 draft: false
 ---
-The Pandemic board game puts two to four players on one team against four spreading diseases. You win by curing all four. You lose if outbreaks pile up, the deck runs out, or the disease cubes do. It came out in 2008, and nearly two decades later it is still the game most people mean when they say "a co-op."
+The [Pandemic](https://link.amazon/B0eHP5GCg) board game puts two to four players on one team against four spreading diseases. You win by curing all four. You lose if outbreaks pile up, the deck runs out, or the disease cubes do. It came out in 2008, and nearly two decades later it is still the game most people mean when they say "a co-op."
 
 This is an explainer, not a review. If you have heard of Pandemic and wondered what the fuss is about, or you own it and want to understand why it works so you can teach it better, this is for you.
 
@@ -33,7 +33,7 @@ Three design decisions did the work.
 
 **Roles create real asymmetry.** Everyone shares a goal, but nobody can do everything. The Medic needs the Researcher's cards. The Scientist needs someone to bring her to the right station. Players talk because they must.
 
-The Pandemic board game won a long list of awards and spawned a family of titles that share its core. Forbidden Island, Forbidden Desert, Pandemic Legacy, Pandemic Iberia, and many others use the same engine with different clothes.
+The Pandemic board game won a long list of awards and spawned a family of titles that share its core. [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20), [Forbidden Desert](https://www.amazon.com/dp/B00B4ECHJI?tag=cubecommonw0a-20), Pandemic Legacy, [Pandemic Iberia](https://www.amazon.com/dp/B09XZVFQNY?tag=cubecommonw0a-20), and many others use the same engine with different clothes.
 
 ## What is the quarterback problem, and does Pandemic have it?
 
@@ -43,7 +43,7 @@ Because all information in Pandemic is open, an experienced player can see the w
 
 We covered this at length in our [article on the quarterback problem](/articles/quarterback-problem-cooperative-games/), so here is the short version. The fix is social, not mechanical. Agree before you start that each player announces their own turn, and others can ask questions but not issue instructions. It changes the game completely.
 
-Later co-ops fixed the problem by design, mostly by hiding information. Hanabi, The Crew, and Mysterium all owe something to Pandemic's success and something to its biggest flaw. If you want games that sidestep it entirely, see our list of [co-op games without a quarterback problem](/articles/co-op-games-without-quarterback-problem/).
+Later co-ops fixed the problem by design, mostly by hiding information. [Hanabi](https://www.amazon.com/dp/B01MXTGT21?tag=cubecommonw0a-20), [The Crew](https://link.amazon/B099S9RKf), and [Mysterium](https://www.amazon.com/dp/B0F4YNPYQM?tag=cubecommonw0a-20) all owe something to Pandemic's success and something to its biggest flaw. If you want games that sidestep it entirely, see our list of [co-op games without a quarterback problem](/articles/co-op-games-without-quarterback-problem/).
 
 *If this is useful, the newsletter sends more like it.*
 
@@ -63,7 +63,7 @@ At five Epidemics, the normal setting, an experienced table in our experience wi
 | On the Brink | More roles, a fifth player, a Bio-Terrorist variant | Groups who want variety |
 | In the Lab | Lab-based cure puzzle, team mode | Veterans who want more steps |
 | State of Emergency | Emergency events, harder challenges | Groups who win too often |
-| Pandemic Legacy: Season 1 | A 12-month campaign that permanently changes the board | Committed groups of 2 to 4 |
+| [Pandemic Legacy: Season 1](https://www.amazon.com/dp/B00TQ0DXR2?tag=cubecommonw0a-20) | A 12-month campaign that permanently changes the board | Committed groups of 2 to 4 |
 | Pandemic Iberia | 1848 Spain, railroads, no cures | People who want a fresh map |
 | Pandemic: Hot Zone | A smaller, faster version on one region | Travel, families, short nights |
 
@@ -75,7 +75,7 @@ It does, with two caveats.
 
 First, the theme has a different weight after 2020 than it did before. Some groups find it too close to home; others find it cathartic. Know your table. Forbidden Island plays almost identically with a treasure-hunt theme if the disease angle is a problem.
 
-Second, there are now co-ops that do specific things better. Spirit Island is deeper. The Crew is a better teaching game. Sky Team is a better two-player experience. But Pandemic is still the best general-purpose co-op for four adults who have forty-five minutes and want a fair fight.
+Second, there are now co-ops that do specific things better. [Spirit Island](https://www.amazon.com/dp/B01MUHP51S?tag=cubecommonw0a-20) is deeper. The Crew is a better teaching game. [Sky Team](https://www.amazon.com/dp/B0CHD8RCSJ?tag=cubecommonw0a-20) is a better two-player experience. But Pandemic is still the best general-purpose co-op for four adults who have forty-five minutes and want a fair fight.
 
 That is why it belongs on the shelf of any game lounge, including ours. It is the game you hand to a table that has never played together, because by the end they will have.
 

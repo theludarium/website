@@ -6,7 +6,7 @@ category: Togethering
 tags: ["board games stress relief", "games to relieve stress", "flow state games", "relaxing board games", "puzzle games for anxiety", "how to unwind without screens", "Play and health"]
 draft: false
 ---
-It sounds backwards. You come home wound tight from work, and the thing that settles you is a difficult game of Azul, not a nap. But people who use board games for stress relief report this over and over: the harder the puzzle, within reason, the quieter the mind afterward. There is a reasonable explanation for why, and it has to do with where your attention goes.
+It sounds backwards. You come home wound tight from work, and the thing that settles you is a difficult game of [Azul](https://link.amazon/B0bGRYHex), not a nap. But people who use board games for stress relief report this over and over: the harder the puzzle, within reason, the quieter the mind afterward. There is a reasonable explanation for why, and it has to do with where your attention goes.
 
 This article covers what the research suggests about absorption and stress, why a game works differently from a screen, and which games tend to do the job best. It is not a substitute for anything a doctor or therapist would tell you. It is an explanation of something a lot of people have already noticed.
 
@@ -14,7 +14,7 @@ This article covers what the research suggests about absorption and stress, why 
 
 Stress, in the everyday sense, is mostly rumination. The mind loops on the email, the bill, the conversation that went badly. The loop is the problem, not the content.
 
-A good game interrupts the loop by taking all of your attention. You cannot plan your next three moves in Wingspan and also replay the meeting. There isn't room. The psychologist Mihaly Csikszentmihalyi spent decades studying this state, which he called flow: full absorption in a task that is challenging but within reach. His model holds that flow depends on a balance between the challenge of the task and the skill of the person doing it, and a [2025 study of more than 500 board game players](https://link.springer.com/10.1007/s10902-024-00846-4) found flow ran highest when both challenge and skill were high.
+A good game interrupts the loop by taking all of your attention. You cannot plan your next three moves in [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) and also replay the meeting. There isn't room. The psychologist Mihaly Csikszentmihalyi spent decades studying this state, which he called flow: full absorption in a task that is challenging but within reach. His model holds that flow depends on a balance between the challenge of the task and the skill of the person doing it, and a [2025 study of more than 500 board game players](https://link.springer.com/10.1007/s10902-024-00846-4) found flow ran highest when both challenge and skill were high.
 
 That matching is the key. A game that is too easy leaves room for the loop. A game that is impossibly hard produces a different kind of stress. The sweet spot is a puzzle that demands everything you have and gives it back as a decision you can make.
 
@@ -56,13 +56,13 @@ Not every game calms. Some are designed to produce tension, and that is their ap
 
 **Azul.** You draft tiles and place them on a personal board. The decisions are tight but the conflict is indirect. The tiles are heavy and click when they land. Many people describe it as the most relaxing game they own despite it being quite demanding.
 
-**Cascadia.** Tile-laying with wildlife tokens, no conflict with other players, and a gentle puzzle about habitats. It plays in 30 to 45 minutes and almost never produces an argument.
+**[Cascadia](https://link.amazon/B0g1HYFt4).** Tile-laying with wildlife tokens, no conflict with other players, and a gentle puzzle about habitats. It plays in 30 to 45 minutes and almost never produces an argument.
 
 **Wingspan.** Longer and more involved, but the engine-building has a rhythm that absorbs people completely. Bird cards, egg tokens, and a slow accumulation of points. Good for an evening when you want to disappear into something for 90 minutes.
 
-**The Crew.** A cooperative trick-taking game with short missions. Because everyone is on the same side, there's no one to be annoyed at, and the missions are small enough that one goes by in ten minutes. Hard to stay stressed while trying to communicate with one card.
+**[The Crew](https://link.amazon/B099S9RKf).** A cooperative trick-taking game with short missions. Because everyone is on the same side, there's no one to be annoyed at, and the missions are small enough that one goes by in ten minutes. Hard to stay stressed while trying to communicate with one card.
 
-**Patchwork.** A two-player quilting puzzle that takes 20 minutes. If you live with one other person and need a reset after work, this is the one.
+**[Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20).** A two-player quilting puzzle that takes 20 minutes. If you live with one other person and need a reset after work, this is the one.
 
 **Solo options.** Many modern games, including Wingspan and Cascadia, have good solo modes, and there is a whole category of solo puzzle games for nights when company isn't available. Company helps, but absorption alone does real work.
 

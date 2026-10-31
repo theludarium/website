@@ -18,7 +18,7 @@ There is no hard floor, but a rough map helps.
 
 **Ages 8 to 10:** Simplified D&D works. Kids this age can track a short character sheet, understand "roll high," and follow a two-hour story if it moves. They will want to fight things and they will also want to adopt every animal they meet.
 
-**Ages 11 and up:** Most kids can play the standard rules with a patient GM. The current starter set, [Heroes of the Borderlands](https://shop.asmodee.ca/en/wtcd4705), is rated for ages 12 and up, and many school and library programs run D&D for middle schoolers. Reading level matters more than age; a child who reads comfortably can handle a character sheet.
+**Ages 11 and up:** Most kids can play the standard rules with a patient GM. The current starter set, [Heroes of the Borderlands](https://www.amazon.com/dp/B0FDJFR245?tag=cubecommonw0a-20), is rated for ages 12 and up, and many school and library programs run D&D for middle schoolers. Reading level matters more than age; a child who reads comfortably can handle a character sheet.
 
 The best test is not age but attention. If a child can sit through a chapter book being read aloud and ask questions about it, they can play an RPG pitched at their level.
 
@@ -42,10 +42,10 @@ You do not have to use D&D. Several games were built for children and do a bette
 
 | System | Best ages | Why it works |
 |---|---|---|
-| No Thank You, Evil! | 5 to 9 | Built for kids; simple dice, bright components, a creature called a "snarf" |
+| [No Thank You, Evil!](https://www.amazon.com/dp/B01K1WOE9E?tag=cubecommonw0a-20) | 5 to 9 | Built for kids; simple dice, bright components, a creature called a "snarf" |
 | Hero Kids | 4 to 10 | Very simple, short adventures, one page of rules for players |
-| Amazing Tales | 4 to 8 | A single die per skill and a story built with the child; parent-and-kid format |
-| Kids on Bikes | 10+ | Small-town mystery; collaborative town-building that kids love |
+| [Amazing Tales](https://www.amazon.com/dp/9493010015?tag=cubecommonw0a-20) | 4 to 8 | A single die per skill and a story built with the child; parent-and-kid format |
+| [Kids on Bikes](https://www.amazon.com/dp/099767119X?tag=cubecommonw0a-20) | 10+ | Small-town mystery; collaborative town-building that kids love |
 | Simplified D&D | 8+ | The real thing, trimmed; good when kids already know the brand |
 | Full D&D (starter set) | 11+ | Standard rules with a patient GM |
 

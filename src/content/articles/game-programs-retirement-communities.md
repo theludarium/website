@@ -42,11 +42,11 @@ Start with what residents played at 35, then add a few that are easy to learn an
 
 | Setting | Games that reliably work | Notes |
 |---|---|---|
-| Independent living | Euchre, bridge, pinochle, mahjong, Rummikub <!-- AFFILIATE -->, dominoes, cribbage | Residents often run these themselves; staff supply space and large-print cards |
-| Assisted living | Rummikub, Skip-Bo <!-- AFFILIATE -->, Yahtzee <!-- AFFILIATE -->, Qwirkle <!-- AFFILIATE -->, dominoes, bingo | More staff facilitation; a scribe for scoring; shorter sessions |
+| Independent living | Euchre, bridge, pinochle, mahjong, [Rummikub](https://www.amazon.com/dp/B00000IZJB?tag=cubecommonw0a-20), dominoes, cribbage | Residents often run these themselves; staff supply space and large-print cards |
+| Assisted living | Rummikub, [Skip-Bo](https://www.amazon.com/dp/B00006YYY5?tag=cubecommonw0a-20), [Yahtzee](https://www.amazon.com/dp/B00TLEMRKM?tag=cubecommonw0a-20), [Qwirkle](https://www.amazon.com/dp/1933054395?tag=cubecommonw0a-20), dominoes, bingo | More staff facilitation; a scribe for scoring; shorter sessions |
 | Memory care | Sorting and matching games, dominoes, large picture card games, balloon volleyball | Process over outcome; familiar objects; a calm, consistent facilitator |
-| Mixed or large groups | Bingo, trivia, Codenames: Pictures <!-- AFFILIATE --> in teams, Wavelength <!-- AFFILIATE --> | Team formats let quieter residents participate without pressure |
-| Intergenerational visits | Uno <!-- AFFILIATE -->, Go Fish, Connect 4, checkers, Qwirkle | Children can teach or be taught; see the grandparent piece below |
+| Mixed or large groups | Bingo, trivia, [Codenames: Pictures](https://www.amazon.com/dp/B01HT9DERU?tag=cubecommonw0a-20) in teams, [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) | Team formats let quieter residents participate without pressure |
+| Intergenerational visits | [Uno](https://www.amazon.com/dp/B07P6MZPK3?tag=cubecommonw0a-20), Go Fish, [Connect 4](https://www.amazon.com/dp/B00D8STBHY?tag=cubecommonw0a-20), checkers, Qwirkle | Children can teach or be taught; see the grandparent piece below |
 
 Regional knowledge matters. In Indiana, euchre is close to universal among people over 70. In Pennsylvania it is pinochle, in parts of the South it is spades or rook, and in many Jewish communities it is mahjong. Ask. The residents will tell you.
 

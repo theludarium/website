@@ -12,7 +12,7 @@ The best table for board games is not the most expensive one. It is the one that
 
 Start with space per player, not total size. Each person needs room for a hand of cards, a player board, a drink, and their forearms. As a practical rule, give each player about two feet of table edge and a foot and a half of depth in front of them before the shared area begins.
 
-Then add the middle. A typical game board is between 20 and 30 inches square, and games like Wingspan, Terraforming Mars, and Scythe sprawl well past that once the card market and supply piles come out.
+Then add the middle. A typical game board is between 20 and 30 inches square, and games like [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), [Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20), and [Scythe](https://www.amazon.com/dp/B01IPUGYK6?tag=cubecommonw0a-20) sprawl well past that once the card market and supply piles come out.
 
 | Players | Minimum comfortable size | Better | Notes |
 |---|---|---|---|
@@ -21,7 +21,7 @@ Then add the middle. A typical game board is between 20 and 30 inches square, an
 | 6 | 42 x 72 inches | 48 x 84 | Most home tables fall short here |
 | 8 | 48 x 96 inches | 54 x 108, or two tables | Lounge territory |
 
-Round tables are friendlier for conversation and card games, since everyone can see everyone. Rectangular tables hold big boards better. A 60-inch round seats six comfortably for Codenames and poorly for Twilight Imperium.
+Round tables are friendlier for conversation and card games, since everyone can see everyone. Rectangular tables hold big boards better. A 60-inch round seats six comfortably for [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) and poorly for [Twilight Imperium](https://www.amazon.com/dp/B074YPSTRP?tag=cubecommonw0a-20).
 
 ## What is the right height for a game table?
 
@@ -56,7 +56,7 @@ What works:
 4. **Put it on a dimmer.** Brighter for teaching and setup, softer once everyone knows the rules.
 5. **Watch the glare.** Glossy cards under a bare bulb are unreadable from certain angles. A shade or diffuser fixes it.
 
-The best test is a color-heavy game. Set up Azul or Sagrada under your lights and see whether blue and black tiles are easy to tell apart from across the table. If not, the light is the problem.
+The best test is a color-heavy game. Set up [Azul](https://link.amazon/B0bGRYHex) or [Sagrada](https://www.amazon.com/dp/B0GL8V2VFD?tag=cubecommonw0a-20) under your lights and see whether blue and black tiles are easy to tell apart from across the table. If not, the light is the problem.
 
 ## What about chairs?
 
@@ -68,7 +68,7 @@ For a [board game lounge](/articles/coworking-vs-game-stores/), chairs are where
 
 ## Does a game table need storage or a vault?
 
-For most homes, no. A good dining table with a playmat handles ninety percent of game nights. A vault, meaning a recessed play surface with a cover that turns it back into a table, is a luxury that pays off in two cases: you play campaign games like Gloomhaven that take an hour to set up and tear down, or you have the room and the budget and want the thing.
+For most homes, no. A good dining table with a playmat handles ninety percent of game nights. A vault, meaning a recessed play surface with a cover that turns it back into a table, is a luxury that pays off in two cases: you play campaign games like [Gloomhaven](https://www.amazon.com/dp/B01LZXVN4P?tag=cubecommonw0a-20) that take an hour to set up and tear down, or you have the room and the budget and want the thing.
 
 Cup holders and rail-mounted card holders are the accessories that earn their keep. Drinks are the main threat to a board, and keeping them below the play surface removes the risk. Side tables or a rolling cart for snacks accomplish the same thing for less.
 

@@ -32,7 +32,7 @@ None of this is bad. It just means the drop-in one-shot is its own craft. If you
 
 **Pregenerated characters, always.** Six to eight pregens per table, more than the number of seats, so the last person to sit still has a choice. Each pregen is one sheet, with a two-sentence personality, one thing they want, and one thing they are afraid of. Character creation at a drop-in table is the fastest way to lose the first forty minutes.
 
-**One system per night, or clearly labeled tables.** D&D 5th edition fills tables because people have heard of it. But a drop-in night is also where people can try things they would never buy: Blades in the Dark <!-- AFFILIATE -->, Call of Cthulhu <!-- AFFILIATE -->, Mothership <!-- AFFILIATE -->, a Powered by the Apocalypse game. Our list of [easy tabletop RPGs for beginners](/articles/easy-tabletop-rpgs-for-beginners/) has systems that teach in five minutes.
+**One system per night, or clearly labeled tables.** D&D 5th edition fills tables because people have heard of it. But a drop-in night is also where people can try things they would never buy: [Blades in the Dark](https://www.amazon.com/dp/1613171323?tag=cubecommonw0a-20), [Call of Cthulhu](https://www.amazon.com/dp/1568824300?tag=cubecommonw0a-20), [Mothership](https://www.amazon.com/dp/B0FNKRNQPR?tag=cubecommonw0a-20), a Powered by the Apocalypse game. Our list of [easy tabletop RPGs for beginners](/articles/easy-tabletop-rpgs-for-beginners/) has systems that teach in five minutes.
 
 **Two hours, with a ten-minute break.** Longer than two hours and newcomers fade. Shorter and the story does not land. Announce the end time at the start.
 

@@ -8,7 +8,7 @@ draft: false
 ---
 A solo journaling RPG is a roleplaying game you play by yourself, mostly by writing. Dice or a deck of cards point you to a prompt, the prompt asks a question about your character's life, and you answer it in a journal. Over a session or a dozen, those answers become a story nobody else could have written, including you, because the random draws keep steering it somewhere new.
 
-**The quick answer:** start with Alone Among the Stars if you want something short and gentle, Thousand Year Old Vampire if you want a deep, strange, bittersweet story, and The Wretched if you want tension and horror. You need a notebook, the game, and usually a deck of cards or a few dice. A first session can take half an hour.
+**The quick answer:** start with Alone Among the Stars if you want something short and gentle, [Thousand Year Old Vampire](https://www.amazon.com/dp/1988943701?tag=cubecommonw0a-20) if you want a deep, strange, bittersweet story, and The Wretched if you want tension and horror. You need a notebook, the game, and usually a deck of cards or a few dice. A first session can take half an hour.
 
 ## What is a journaling RPG?
 
@@ -63,17 +63,17 @@ Start here if you want to see what journaling feels like with no pressure at all
 
 ### Colostle
 
-Colostle <!-- AFFILIATE --> is a solo RPG by Nich Angell set inside a castle so vast that it holds oceans, mountains, and cities in its rooms. You explore with a standard deck of playing cards, using a single six-sided die only to drive enemy moves in combat, and you record your travels in a journal. It has a little more structure than a pure prompt game, which makes it a good bridge for people who want some adventure with their writing.
+[Colostle](https://www.amazon.com/dp/0993161065?tag=cubecommonw0a-20) is a solo RPG by Nich Angell set inside a castle so vast that it holds oceans, mountains, and cities in its rooms. You explore with a standard deck of playing cards, using a single six-sided die only to drive enemy moves in combat, and you record your travels in a journal. It has a little more structure than a pure prompt game, which makes it a good bridge for people who want some adventure with their writing.
 
 ### The Wretched
 
-The Wretched <!-- AFFILIATE --> is Chris Bissette's horror game, published by Loot the Room. You are the last survivor aboard a salvage ship after an alien creature killed the crew. You draw cards for prompts and pull from a tumbling block tower when danger rises, and instead of writing, you record your log out loud. The creator lists a session at about half an hour. Its system, later released as the Wretched and Alone framework, has inspired a whole family of solo games by other designers.
+The Wretched is Chris Bissette's horror game, published by Loot the Room. You are the last survivor aboard a salvage ship after an alien creature killed the crew. You draw cards for prompts and pull from a tumbling block tower when danger rises, and instead of writing, you record your log out loud. The creator lists a session at about half an hour. Its system, later released as the Wretched and Alone framework, has inspired a whole family of solo games by other designers.
 
 Pick it if you want tension and you like the idea of a tower that could fall at any moment.
 
 ### Thousand Year Old Vampire
 
-Thousand Year Old Vampire <!-- AFFILIATE --> is Tim Hutchings's game about a vampire living across centuries. It is the most celebrated game on this list: it won the 2020 IndieCade award for Tabletop Design and Gold ENNIEs for Best Rules and Best Production Values.
+Thousand Year Old Vampire is Tim Hutchings's game about a vampire living across centuries. It is the most celebrated game on this list: it won the 2020 IndieCade award for Tabletop Design and Gold ENNIEs for Best Rules and Best Production Values.
 
 You build your vampire from skills, resources, and the people in their life. Rolling dice moves you through numbered prompts, and each answer becomes an experience, a single sentence, stored in one of a small number of memories. Here is the hook: your vampire can only hold five memories, so as the centuries pass, old ones must be forgotten or written into a diary. Lose the diary and those memories are gone too. The game ends when the vampire has lost all of them.
 

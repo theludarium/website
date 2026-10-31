@@ -6,7 +6,7 @@ category: Magic & Cube
 tags: ["Secrets of Strixhaven cube", "Strixhaven cube review", "Erode MTG cube", "Emeritus of Conflict cube", "prepare mechanic cube", "SOS cube cards", "Cube Commonwealth"]
 draft: false
 ---
-Secrets of Strixhaven <!-- AFFILIATE --> released on April 24, 2026, and the Secrets of Strixhaven cube story is the prepare mechanic: creatures that carry a famous spell, including Lightning Bolt, Swords to Plowshares, Demonic Tutor, Ancestral Recall and Regrowth. That premise is catnip for cube owners, and the answer is more measured than the spoiler-season excitement. A few of these creatures are real. One white removal spell is the best card in the set for cube. The dragons are for Commander. Calls below follow [the slot method](/articles/how-to-evaluate-new-cards-for-cube/).
+Secrets of Strixhaven released on April 24, 2026, and the Secrets of Strixhaven cube story is the prepare mechanic: creatures that carry a famous spell, including Lightning Bolt, Swords to Plowshares, Demonic Tutor, Ancestral Recall and Regrowth. That premise is catnip for cube owners, and the answer is more measured than the spoiler-season excitement. A few of these creatures are real. One white removal spell is the best card in the set for cube. The dragons are for Commander. Calls below follow [the slot method](/articles/how-to-evaluate-new-cards-for-cube/).
 
 Set facts from the [Wizards collecting article](https://magic.wizards.com/en/news/feature/collecting-secrets-of-strixhaven): tabletop release April 24, 2026, main set code SOS, with a separate 65-card Mystical Archive sheet (SOA) and ten Special Guests; MTGGoldfish's set index counts 276 cards in the main set. Card text is paraphrased from Card Kingdom and mtg.wtf listings.
 
@@ -16,7 +16,7 @@ Set facts from the [Wizards collecting article](https://magic.wizards.com/en/new
 
 ## Is Erode the best card in the set?
 
-For cube, yes. **Erode** ({W}, instant: destroy target creature or planeswalker; its controller may search for a basic land and put it onto the battlefield tapped). **Slot:** white / 1 / removal. **Competes with:** Swords to Plowshares, Path to Exile, Condemn. **Call: keep** at every tier. It is Path to Exile that destroys instead of exiling and also hits planeswalkers. In a format where every white deck wants four one-mana answers and only has two, this is the third. [Card Kingdom's price](https://www.cardkingdom.com/mtg/secrets-of-strixhaven/erode) of $13.99 as of October 17, 2026 (MTGGoldfish's TCGplayer-based figure was lower, around $6) reflects Standard demand, not cube demand, so proxy it for testing if you must.
+For cube, yes. **Erode** ({W}, instant: destroy target creature or planeswalker; its controller may search for a basic land and put it onto the battlefield tapped). **Slot:** white / 1 / removal. **Competes with:** Swords to Plowshares, Path to Exile, Condemn. **Call: keep** at every tier. It is Path to Exile that destroys instead of exiling and also hits planeswalkers. In a format where every white deck wants four one-mana answers and only has two, this is the third. Card Kingdom's price of $13.99 as of October 17, 2026 (MTGGoldfish's TCGplayer-based figure was lower, around $6) reflects Standard demand, not cube demand, so proxy it for testing if you must.
 
 ## Which Emeritus creatures travel to cube?
 

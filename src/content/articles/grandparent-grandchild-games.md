@@ -16,7 +16,7 @@ Because a bond is made of repetition and shared attention, and a game delivers b
 
 **Repetition.** Friendship researchers broadly agree that close ties need regular contact to stay close and decay surprisingly fast without it. The same applies across generations. A once-a-year trip is a memory. A weekly game is a relationship.
 
-**Something to do.** A seven-year-old and a seventy-year-old do not have much to talk about on purpose. Put a game of Sorry! between them and they have an hour of talk by accident. The game carries the conversation across the gap in age, and the gap stops mattering.
+**Something to do.** A seven-year-old and a seventy-year-old do not have much to talk about on purpose. Put a game of [Sorry!](https://www.amazon.com/dp/B0863FPYMB?tag=cubecommonw0a-20) between them and they have an hour of talk by accident. The game carries the conversation across the gap in age, and the gap stops mattering.
 
 **Equal footing.** Most of a grandchild's time with adults is spent being managed. At a game table, the grandparent is an opponent, and a beatable one. Children notice this. It is one of the few places where they are a peer.
 
@@ -30,10 +30,10 @@ The game has to fit the younger player, and it has to be one the older player ca
 
 | Grandchild's age | Games that work | Why |
 |---|---|---|
-| 3 to 5 | First Orchard <!-- AFFILIATE -->, Go Fish with picture cards, memory matching, Candy Land | Cooperative or luck-based; nobody needs to count |
-| 6 to 8 | Uno <!-- AFFILIATE -->, Sorry!, Connect 4, dominoes, Rummikub <!-- AFFILIATE -->, Sleeping Queens <!-- AFFILIATE --> | Simple choices, quick turns, real decisions |
-| 9 to 12 | Ticket to Ride <!-- AFFILIATE -->, Qwirkle <!-- AFFILIATE -->, cribbage, checkers, Sushi Go! <!-- AFFILIATE -->, Kingdomino <!-- AFFILIATE --> | Planning appears; the grandparent can play for real |
-| Teens | Euchre, chess, Codenames <!-- AFFILIATE -->, Azul <!-- AFFILIATE -->, Catan <!-- AFFILIATE -->, Wingspan <!-- AFFILIATE --> | Teens will play anything that treats them as an adult |
+| 3 to 5 | [First Orchard](https://www.amazon.com/dp/B004BW8TYC?tag=cubecommonw0a-20), Go Fish with picture cards, memory matching, [Candy Land](https://www.amazon.com/dp/B00TLEMSVK?tag=cubecommonw0a-20) | Cooperative or luck-based; nobody needs to count |
+| 6 to 8 | [Uno](https://www.amazon.com/dp/B07P6MZPK3?tag=cubecommonw0a-20), Sorry!, [Connect 4](https://www.amazon.com/dp/B00D8STBHY?tag=cubecommonw0a-20), dominoes, [Rummikub](https://www.amazon.com/dp/B00000IZJB?tag=cubecommonw0a-20), [Sleeping Queens](https://www.amazon.com/dp/B0009XBY3A?tag=cubecommonw0a-20) | Simple choices, quick turns, real decisions |
+| 9 to 12 | [Ticket to Ride](https://link.amazon/B0jh8RB7f), [Qwirkle](https://www.amazon.com/dp/1933054395?tag=cubecommonw0a-20), cribbage, checkers, [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), [Kingdomino](https://link.amazon/B08l49zvA) | Planning appears; the grandparent can play for real |
+| Teens | Euchre, chess, [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), [Azul](https://link.amazon/B0bGRYHex), [Catan](https://link.amazon/B0h8BDGR2), [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) | Teens will play anything that treats them as an adult |
 | Adult grandchildren | Whatever the grandparent plays: bridge, euchre, mahjong, cribbage | Now the grandchild comes to the grandparent's table |
 
 Two notes on the ladder.
@@ -53,7 +53,7 @@ The difference is almost entirely scheduling.
 1. **Pick a slot that recurs on its own.** Sunday after lunch. Every visit, first thing. The Friday the grandparent picks the kids up. Attach the game to something that already happens.
 2. **Keep one game for a long time.** Children like mastery. Play the same game until the child can beat you, then play it some more. Novelty is for the grandparent's game group, not this one.
 3. **Keep a scorebook.** A notebook with every game's score going back years is one of the most treasured objects a family can own. Start it on day one.
-4. **Let distance be a reason, not an excuse.** Grandparents who live far away can play Ticket to Ride, chess, or Uno through apps with a video call open, or play Battleship by text. It is not the same as the table, but it keeps the thread until the next visit. [Keeping a game group alive when everyone moved away](/articles/playing-board-games-with-long-distance-friends/) has more on remote play that still feels like play.
+4. **Let distance be a reason, not an excuse.** Grandparents who live far away can play Ticket to Ride, chess, or Uno through apps with a video call open, or play [Battleship](https://www.amazon.com/dp/B09D4QRJ8Y?tag=cubecommonw0a-20) by text. It is not the same as the table, but it keeps the thread until the next visit. [Keeping a game group alive when everyone moved away](/articles/playing-board-games-with-long-distance-friends/) has more on remote play that still feels like play.
 5. **Do not let it become a lesson.** The temptation to teach, correct, and coach is strong. Resist most of it. The child is learning plenty by watching.
 6. **Lose sometimes, and win sometimes.** Children can tell when they are being let win, and they can tell when they are being crushed. Play at about their level, and let the level rise.
 
@@ -71,7 +71,7 @@ There is also something the studies do not measure. A grandparent at a game tabl
 
 They usually are. A quiet grandmother and a loud nine-year-old, or a competitive grandfather and a child who hates losing. The game handles most of it.
 
-Cooperative games such as Forbidden Island <!-- AFFILIATE --> or The Crew <!-- AFFILIATE --> put both players on the same side, which helps with a child who cannot yet lose gracefully. Games with hidden information, like Codenames or euchre, give the quiet player a role that does not require talking much. Dexterity games and tile games suit a grandparent whose hands or eyes are changing, because there is little to read.
+Cooperative games such as [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20) or The Crew put both players on the same side, which helps with a child who cannot yet lose gracefully. Games with hidden information, like Codenames or euchre, give the quiet player a role that does not require talking much. Dexterity games and tile games suit a grandparent whose hands or eyes are changing, because there is little to read.
 
 And if the first game does not take, try a second. The point was never the game.
 

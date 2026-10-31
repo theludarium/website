@@ -32,7 +32,7 @@ Set the full schedule on day one, with every date on it. People commit to a list
 
 Both work. They produce different leagues.
 
-**One-game leagues** build skill. Twelve weeks of Catan <!-- AFFILIATE -->, Azul <!-- AFFILIATE -->, Splendor <!-- AFFILIATE -->, or Dominion <!-- AFFILIATE --> turns a casual group into a sharp one, and the conversations between games get interesting. The risk is that the game gets old, and that one player who is already good runs away with the season.
+**One-game leagues** build skill. Twelve weeks of [Catan](https://link.amazon/B0h8BDGR2), [Azul](https://link.amazon/B0bGRYHex), [Splendor](https://link.amazon/B0fEvY6Wg), or [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) turns a casual group into a sharp one, and the conversations between games get interesting. The risk is that the game gets old, and that one player who is already good runs away with the season.
 
 **Rotating leagues** keep variety. A different game each week, announced in advance, from a list everyone agreed on. The risk is the opposite: nobody gets deep, and the week's winner is often whoever happens to own the game.
 
@@ -110,7 +110,7 @@ Placement points each week (5, 3, 2, 1), with only each player's best two-thirds
 
 ### What games work best for a league?
 
-Games that play in 45 minutes or less with clear final scores and a fixed player count: Azul, Splendor, Kingdomino, Ticket to Ride, Catan, and Dominion all work.
+Games that play in 45 minutes or less with clear final scores and a fixed player count: Azul, Splendor, [Kingdomino](https://link.amazon/B08l49zvA), [Ticket to Ride](https://link.amazon/B0jh8RB7f), Catan, and Dominion all work.
 
 ### Should a board game league have an entry fee?
 

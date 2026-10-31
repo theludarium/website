@@ -35,7 +35,7 @@ The order most publishers converge on is the order in which a new player needs i
 7. **Game end and scoring.** Exactly when it ends and exactly how to count.
 8. **Reference.** Icon glossary, card clarifications, index, and a one-page summary.
 
-Wingspan's rulebook is a good model. It opens with the goal, walks through the four actions one at a time with a worked example for each, and puts card-specific clarifications in a separate appendix so they never interrupt the teach. Pandemic does the same with its roles and events.
+[Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20)'s rulebook is a good model. It opens with the goal, walks through the four actions one at a time with a worked example for each, and puts card-specific clarifications in a separate appendix so they never interrupt the teach. Pandemic does the same with its roles and events.
 
 ## How do you write a rule so it cannot be misread?
 
@@ -70,7 +70,7 @@ A one-page summary is the most-used page in the box. It should contain:
 - Scoring, including end-of-game bonuses.
 - The icon glossary.
 
-Ganz Schön Clever fits its entire scoring summary onto the score sheet itself, which is why it is so easy to return to. Azul's summary fits on the back of the rulebook. Both are models of how little space a reference needs when it is well made.
+Ganz Schön Clever fits its entire scoring summary onto the score sheet itself, which is why it is so easy to return to. [Azul](https://link.amazon/B0bGRYHex)'s summary fits on the back of the rulebook. Both are models of how little space a reference needs when it is well made.
 
 For games with many cards, a separate card-clarification appendix is worth the page count. Keep it alphabetical and keep it out of the main teach.
 

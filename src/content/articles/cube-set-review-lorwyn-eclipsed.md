@@ -6,7 +6,7 @@ category: Magic & Cube
 tags: ["Lorwyn Eclipsed cube", "Lorwyn Eclipsed cube review", "Bloom Tender cube", "Bitterbloom Bearer cube", "evoke Incarnations cube", "ECL cube cards", "Cube Commonwealth"]
 draft: false
 ---
-Lorwyn Eclipsed <!-- AFFILIATE --> released on January 23, 2026, and the Lorwyn Eclipsed cube question is the one we were asked most during spoiler season: are the new Incarnations as good as the originals? Mostly no, with one exception, and the set's best cube cards are elsewhere: a Bitterblossom on a body, a returning Bloom Tender, a two-mana red creature that turns off counterspells, and five shock land reprints that lower the price of fixing. Calls below follow [the slot method](/articles/how-to-evaluate-new-cards-for-cube/).
+Lorwyn Eclipsed released on January 23, 2026, and the Lorwyn Eclipsed cube question is the one we were asked most during spoiler season: are the new Incarnations as good as the originals? Mostly no, with one exception, and the set's best cube cards are elsewhere: a Bitterblossom on a body, a returning Bloom Tender, a two-mana red creature that turns off counterspells, and five shock land reprints that lower the price of fixing. Calls below follow [the slot method](/articles/how-to-evaluate-new-cards-for-cube/).
 
 Set facts from the [MTG Wiki](https://mtg.wiki/page/Lorwyn_Eclipsed): tabletop release January 23, 2026, set code ECL, 283 regular cards including 15 basics, with a separate 20-card Special Guests sheet. Card text is paraphrased from Card Kingdom and mtg.wtf listings.
 

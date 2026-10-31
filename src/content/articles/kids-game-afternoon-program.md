@@ -28,10 +28,10 @@ The test for every game: can a child teach it to another child after playing onc
 
 | Age band | Games | Why they work |
 |---|---|---|
-| 4 to 6 | Outfoxed! <!-- AFFILIATE -->, Hoot Owl Hoot! <!-- AFFILIATE -->, Rhino Hero <!-- AFFILIATE -->, Animal Upon Animal <!-- AFFILIATE --> | Cooperative or dexterity; no reading; nobody really loses |
-| 7 to 9 | Sushi Go! <!-- AFFILIATE -->, Kingdomino <!-- AFFILIATE -->, Dragomino <!-- AFFILIATE -->, Zombie Kidz Evolution <!-- AFFILIATE -->, Ticket to Ride: First Journey <!-- AFFILIATE --> | Teach in three minutes; a child can run the table |
-| 10 to 12 | Azul <!-- AFFILIATE -->, Ticket to Ride <!-- AFFILIATE -->, King of Tokyo <!-- AFFILIATE -->, Codenames <!-- AFFILIATE -->, Catan Junior <!-- AFFILIATE --> or Catan <!-- AFFILIATE --> | Real decisions; a win feels earned |
-| Any, for the whole room | Telestrations <!-- AFFILIATE -->, a giant Jenga, a dexterity challenge table | A shared event that resets the energy |
+| 4 to 6 | [Outfoxed!](https://link.amazon/B0hYNduxd), [Hoot Owl Hoot!](https://www.amazon.com/dp/B004HVKAAI?tag=cubecommonw0a-20), [Rhino Hero](https://www.amazon.com/dp/B01M8LF7IA?tag=cubecommonw0a-20), [Animal Upon Animal](https://www.amazon.com/dp/B073CD98D6?tag=cubecommonw0a-20) | Cooperative or dexterity; no reading; nobody really loses |
+| 7 to 9 | [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), [Kingdomino](https://link.amazon/B08l49zvA), [Dragomino](https://link.amazon/B09WKyU19), [Zombie Kidz Evolution](https://www.amazon.com/dp/B07M5BFVP2?tag=cubecommonw0a-20), [Ticket to Ride: First Journey](https://link.amazon/B0fAA009A) | Teach in three minutes; a child can run the table |
+| 10 to 12 | [Azul](https://link.amazon/B0bGRYHex), [Ticket to Ride](https://link.amazon/B0jh8RB7f), [King of Tokyo](https://link.amazon/B0goO6BQA), [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), [Catan Junior](https://www.amazon.com/dp/B007N0KZ64?tag=cubecommonw0a-20) or [Catan](https://link.amazon/B0h8BDGR2) | Real decisions; a win feels earned |
+| Any, for the whole room | [Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20), a giant [Jenga](https://www.amazon.com/dp/B09TBG3G5L?tag=cubecommonw0a-20), a dexterity challenge table | A shared event that resets the energy |
 
 A few notes from running these.
 

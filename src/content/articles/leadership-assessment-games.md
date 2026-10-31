@@ -6,7 +6,7 @@ category: Togethering
 tags: ["leadership assessment games", "Pandemic board game leadership", "identifying leaders on a team", "leadership potential signs", "cooperative games for leadership training", "informal leadership assessment", "Games for the workplace"]
 draft: false
 ---
-Leadership assessment games work because a cooperative board game creates a small, honest version of a crisis. In Pandemic, four people share one goal, limited time, and incomplete information. Someone has to propose a plan. Someone has to disagree. Someone has to notice the thing everyone missed. Within forty-five minutes, you will have seen each of those moments, and you will know who did what.
+Leadership assessment games work because a cooperative board game creates a small, honest version of a crisis. In [Pandemic](https://link.amazon/B0eHP5GCg), four people share one goal, limited time, and incomplete information. Someone has to propose a plan. Someone has to disagree. Someone has to notice the thing everyone missed. Within forty-five minutes, you will have seen each of those moments, and you will know who did what.
 
 This is a guide for managers and HR leads who want a better read on emerging leaders than a performance review provides. It is not a replacement for proper assessment. It is a lens that most organizations never think to use.
 
@@ -21,7 +21,7 @@ Pandemic in particular is a good fit for a few reasons:
 - **Information is public.** Every card and cube is visible, so the only variable is how the group processes it. Confusion is a group failure, not a hidden-information trick.
 - **It is losable.** Pandemic beats new groups often. Watching how people respond to a loss is as informative as the game itself.
 
-Forbidden Island and Forbidden Desert work the same way with simpler rules. The Crew works for teams that need to communicate under constraints. For broader options, see our list of [team-building board games](/articles/team-building-board-games/).
+[Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20) and [Forbidden Desert](https://www.amazon.com/dp/B00B4ECHJI?tag=cubecommonw0a-20) work the same way with simpler rules. [The Crew](https://link.amazon/B099S9RKf) works for teams that need to communicate under constraints. For broader options, see our list of [team-building board games](/articles/team-building-board-games/).
 
 ## What leadership behaviors show up at the table?
 

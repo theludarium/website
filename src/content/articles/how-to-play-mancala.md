@@ -22,7 +22,7 @@ How old is it? That is less certain than many websites claim. A game played in h
 
 ## What do you need to play mancala?
 
-- **A board.** Two rows of six pits plus a store at each end. Folding wooden boards cost about $15 to $20 at big-box stores; for example, a [solid wood mancala set at Target](https://www.target.com/p/premium-classics-solid-wood-mancala-board-game/-/A-1007379382) <!-- AFFILIATE --> was about $19 at the time of writing.
+- **A board.** Two rows of six pits plus a store at each end. Folding wooden boards cost about $15 to $20 at big-box stores; for example, a solid wood mancala set at Target was about $19 at the time of writing.
 - **48 stones.** Four per pit. Most sets include a few extras.
 - **Two players.**
 

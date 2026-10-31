@@ -26,9 +26,9 @@ Sometimes the hour arrives at 9 p.m. with nobody around. Solo games are good com
 |---|---|---|
 | Patience or solitaire with real cards | 10 to 20 min | No setup, no rules to learn, hands busy |
 | Jigsaw puzzle, left out on a table | Any | Can be picked up and put down between interruptions |
-| Friday <!-- AFFILIATE --> | 25 min | A solo card game that is absorbing without being heavy |
-| Cascadia <!-- AFFILIATE --> solo mode | 30 min | Calm, pretty, puzzle-like |
-| Wingspan <!-- AFFILIATE --> solo automa | 45 to 60 min | Deep enough to lose yourself in; only if the hour is real |
+| Friday | 25 min | A solo card game that is absorbing without being heavy |
+| Cascadia solo mode | 30 min | Calm, pretty, puzzle-like |
+| Wingspan solo automa | 45 to 60 min | Deep enough to lose yourself in; only if the hour is real |
 | Crossword or sudoku | 10 to 30 min | Portable; works in a waiting room |
 | A phone app of a board game | 10 min | Fine, but a physical game is more of a break from screens |
 
@@ -42,11 +42,11 @@ If you want more options, [solo board games](/articles/best-solo-board-games/) g
 
 Sometimes the hour off is better spent changing the shape of the time together than escaping it. A game can turn an afternoon of managing into an afternoon of company.
 
-**If they are cognitively well but physically limited.** Card games with large-print decks and card holders, Rummikub <!-- AFFILIATE --> with the large-number edition, dominoes, Yahtzee <!-- AFFILIATE --> with a dice cup, Qwirkle <!-- AFFILIATE -->. Good light on the table matters more than the game.
+**If they are cognitively well but physically limited.** Card games with large-print decks and card holders, Rummikub with the large-number edition, dominoes, Yahtzee with a dice cup, Qwirkle. Good light on the table matters more than the game.
 
 **If they have memory loss.** Play for the moment, not the score. Dominoes, matching games, sorting a deck by suit, large picture cards, balloon volleyball. Familiar old games often survive long after new rules cannot be learned; a lifelong euchre player may still play a passable hand with a little prompting. Expect the rules to drift and let them. If the game produces frustration, stop and do something else. The goal is a pleasant half hour, and a pleasant half hour is a success.
 
-**If they are a child with a serious illness.** Cooperative games remove the sting of losing on a bad day: Outfoxed! <!-- AFFILIATE -->, Forbidden Island <!-- AFFILIATE -->, The Crew <!-- AFFILIATE --> for older kids. Short games are better than long ones, because energy can vanish mid-turn.
+**If they are a child with a serious illness.** Cooperative games remove the sting of losing on a bad day: Outfoxed!, Forbidden Island, The Crew for older kids. Short games are better than long ones, because energy can vanish mid-turn.
 
 In every case, let the game be shorter than you planned and stop while it is still good.
 

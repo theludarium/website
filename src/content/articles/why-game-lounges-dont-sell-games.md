@@ -55,7 +55,7 @@ The last two rows are the whole argument. We think a lounge that is visibly not 
 
 Because Indianapolis has good ones, and we need them more than they need us.
 
-A city with a strong store and a strong lounge is better off than a city with one of each trying to do both jobs. The store sells you Wingspan. The lounge is where you play it every Thursday with people who also own it. <!-- AFFILIATE --> Neither competes with the other if both stay in their lane.
+A city with a strong store and a strong lounge is better off than a city with one of each trying to do both jobs. The store sells you Wingspan. The lounge is where you play it every Thursday with people who also own it. Neither competes with the other if both stay in their lane.
 
 Practically, that means a wall in our space listing the local stores by neighborhood, with what each one is good at. It means our hosts saying, "You can get that at the shop ten minutes from here," and meaning it. It means asking stores to send their customers to our public game nights when they do not have table space, and sending our members to their release events.
 

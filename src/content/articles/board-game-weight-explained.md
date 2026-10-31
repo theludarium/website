@@ -24,15 +24,15 @@ The numbers below are approximate bands, placed from BoardGameGeek community rat
 
 | Weight | Label people use | What it feels like | Examples |
 |---|---|---|---|
-| 1.0 to 1.5 | Light | Rules in two minutes; decisions are obvious or fun rather than hard | Codenames, Sushi Go!, Love Letter |
-| 1.5 to 2.0 | Light-medium | Rules in five to ten minutes; a few real choices per turn | Ticket to Ride, Azul, Kingdomino, Carcassonne |
-| 2.0 to 2.5 | Medium-light | Rules in ten to fifteen minutes; strategy matters; a new player can still enjoy the first game | Catan, Wingspan, Splendor, Pandemic |
-| 2.5 to 3.0 | Medium | Rules in twenty minutes; planning two or three turns ahead; the first game is a learning game | 7 Wonders Duel, Everdell, Scythe, Dune: Imperium |
-| 3.0 to 3.5 | Medium-heavy | Rules in thirty minutes or more; many systems interact; lots to track | Terraforming Mars, Agricola, Gloomhaven, Brass: Birmingham |
-| 3.5 to 4.0 | Heavy | Dedicated teach; serious players; first play is an investment | Gaia Project, Food Chain Magnate |
-| 4.0 to 5.0 | Very heavy | Long rulebooks, long sessions, often simulations or wargames | Twilight Imperium, Advanced Squad Leader, Campaign for North Africa |
+| 1.0 to 1.5 | Light | Rules in two minutes; decisions are obvious or fun rather than hard | [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20) |
+| 1.5 to 2.0 | Light-medium | Rules in five to ten minutes; a few real choices per turn | [Ticket to Ride](https://link.amazon/B0jh8RB7f), [Azul](https://link.amazon/B0bGRYHex), [Kingdomino](https://link.amazon/B08l49zvA), [Carcassonne](https://link.amazon/B012Rr5ed) |
+| 2.0 to 2.5 | Medium-light | Rules in ten to fifteen minutes; strategy matters; a new player can still enjoy the first game | [Catan](https://link.amazon/B0h8BDGR2), [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), [Splendor](https://link.amazon/B0fEvY6Wg), [Pandemic](https://link.amazon/B0eHP5GCg) |
+| 2.5 to 3.0 | Medium | Rules in twenty minutes; planning two or three turns ahead; the first game is a learning game | [7 Wonders Duel](https://www.amazon.com/dp/B014DMSTXK?tag=cubecommonw0a-20), Everdell, [Scythe](https://www.amazon.com/dp/B01IPUGYK6?tag=cubecommonw0a-20), [Dune: Imperium](https://www.amazon.com/dp/B08JHB9V72?tag=cubecommonw0a-20) |
+| 3.0 to 3.5 | Medium-heavy | Rules in thirty minutes or more; many systems interact; lots to track | [Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20), [Agricola](https://www.amazon.com/dp/B07JZFN8WS?tag=cubecommonw0a-20), [Gloomhaven](https://www.amazon.com/dp/B01LZXVN4P?tag=cubecommonw0a-20), [Brass: Birmingham](https://www.amazon.com/dp/1988884047?tag=cubecommonw0a-20) |
+| 3.5 to 4.0 | Heavy | Dedicated teach; serious players; first play is an investment | [Gaia Project](https://www.amazon.com/dp/B08JCCV2VM?tag=cubecommonw0a-20), [Food Chain Magnate](https://www.amazon.com/dp/B0743FS6FJ?tag=cubecommonw0a-20) |
+| 4.0 to 5.0 | Very heavy | Long rulebooks, long sessions, often simulations or wargames | [Twilight Imperium](https://www.amazon.com/dp/B074YPSTRP?tag=cubecommonw0a-20), Advanced Squad Leader, Campaign for North Africa |
 
-A 2.5, the number in this article's title, is roughly the center of the hobby. It is a game you can teach to a willing adult in a quarter of an hour, where the first game will be a bit of a muddle and the second game will be good. Catan, Wingspan, and Pandemic all hover around this mark. <!-- AFFILIATE --> It is the weight most game nights for mixed groups should aim at.
+A 2.5, the number in this article's title, is roughly the center of the hobby. It is a game you can teach to a willing adult in a quarter of an hour, where the first game will be a bit of a muddle and the second game will be good. Catan, Wingspan, and Pandemic all hover around this mark. It is the weight most game nights for mixed groups should aim at.
 
 ## What does weight actually measure?
 
@@ -46,7 +46,7 @@ Mostly rules complexity: how much you need to hold in your head to play legally.
 
 **Length.** Long games get rated heavier, partly because they usually are and partly because fatigue reads as complexity.
 
-**Iconography.** Games with dense symbols instead of text feel heavier to new players, even if the rules are simple. Race for the Galaxy is the classic case.
+**Iconography.** Games with dense symbols instead of text feel heavier to new players, even if the rules are simple. [Race for the Galaxy](https://www.amazon.com/dp/B000YLAOEW?tag=cubecommonw0a-20) is the classic case.
 
 What weight does not measure is quality, fun, or how much skill matters. A 1.5 can be a masterpiece. A 4.0 can be a mess. Our article on [luck vs skill](/articles/luck-vs-skill-board-games/) covers the separate question of how much a game rewards playing well.
 
@@ -82,7 +82,7 @@ Weight is one of the most useful numbers on a game's page, but only if you apply
 
 No, and the hobby has mostly gotten over the idea that it is.
 
-There was a period when heavy games carried status and "light" was a mild insult. That has faded. Some of the best-regarded designs of the last decade are under 2.5: The Crew, Azul, Codenames, Cascadia. <!-- AFFILIATE --> What they have in common is a high ratio of decision to rule: little to learn, a lot to think about.
+There was a period when heavy games carried status and "light" was a mild insult. That has faded. Some of the best-regarded designs of the last decade are under 2.5: [The Crew](https://link.amazon/B099S9RKf), Azul, Codenames, [Cascadia](https://link.amazon/B0g1HYFt4). What they have in common is a high ratio of decision to rule: little to learn, a lot to think about.
 
 That ratio is a better measure of a good design than weight alone. A game that is heavy because it has many interlocking systems can be wonderful. A game that is heavy because it has many exceptions is just tiring. Weight tells you how much you have to learn. It does not tell you whether the learning pays off.
 

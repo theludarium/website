@@ -23,11 +23,11 @@ The Catan 5 to 6 player extension is the classic example. It adds nothing to the
 
 ### More content
 
-More cards, more tiles, more scenarios, more of the same. Dominion expansions add new kingdom cards; Ticket to Ride maps add new boards; Carcassonne adds new tiles. The game plays the same way with more variety. This type is the most common and the most likely to sit unplayed, because the base game already had enough variety for most groups.
+More cards, more tiles, more scenarios, more of the same. Dominion expansions add new kingdom cards; [Ticket to Ride](https://link.amazon/B0jh8RB7f) maps add new boards; [Carcassonne](https://link.amazon/B012Rr5ed) adds new tiles. The game plays the same way with more variety. This type is the most common and the most likely to sit unplayed, because the base game already had enough variety for most groups.
 
 ### New mechanics
 
-The expansion changes how the game works: a new phase, a new resource, a new way to score. Wingspan's expansions add new bird powers and new board features; Spirit Island's add new spirits and new adversaries. This type can turn a game you were tired of into a game that feels new again, but it also makes the game longer and harder to teach.
+The expansion changes how the game works: a new phase, a new resource, a new way to score. [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20)'s expansions add new bird powers and new board features; [Spirit Island](https://www.amazon.com/dp/B01MUHP51S?tag=cubecommonw0a-20)'s add new spirits and new adversaries. This type can turn a game you were tired of into a game that feels new again, but it also makes the game longer and harder to teach.
 
 ### Fixes
 
@@ -45,7 +45,7 @@ If you have not reached that point, an expansion is a solution to a problem you 
 
 If you have reached that point, an expansion is one of the best purchases in the hobby. The game already proved it earns plays with your group. The expansion costs less than a new game, needs no new teach for the regulars, and brings a tired favorite back to the top of the rotation.
 
-A practical threshold, purely as an illustration: for a medium-weight game, ten plays with mostly the same people is usually enough to have seen its edges. For a quick filler, maybe twenty. For a heavy game like Terraforming Mars or Twilight Imperium, five might do it, because each play covers so much ground.
+A practical threshold, purely as an illustration: for a medium-weight game, ten plays with mostly the same people is usually enough to have seen its edges. For a quick filler, maybe twenty. For a heavy game like [Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20) or [Twilight Imperium](https://www.amazon.com/dp/B074YPSTRP?tag=cubecommonw0a-20), five might do it, because each play covers so much ground.
 
 ## When an expansion beats a new game
 
@@ -75,7 +75,7 @@ Expansions become traps in a few predictable ways.
 
 **Replacing variety with volume.** Some expansions add so much content that the thing you liked, a tight set of well-balanced options, disappears into a pile. More is not always better. Sometimes the base game was already the best version.
 
-**Buying an expansion for a game you play elsewhere.** If you only play Pandemic at a friend's house, buying its expansion for your own shelf makes no sense. You do not own the base game, and the expansion cannot be played without it. This happens more than you would think.
+**Buying an expansion for a game you play elsewhere.** If you only play [Pandemic](https://link.amazon/B0eHP5GCg) at a friend's house, buying its expansion for your own shelf makes no sense. You do not own the base game, and the expansion cannot be played without it. This happens more than you would think.
 
 **Expansion-only exclusives.** A single promo card or a handful of alternate pieces sold at expansion prices. Ask whether you would notice the difference at the table.
 

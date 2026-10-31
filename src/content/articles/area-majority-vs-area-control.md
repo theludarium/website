@@ -14,14 +14,14 @@ This article explains both terms, where the line between them falls, what each o
 
 In area control, a region belongs to whoever occupies it. If you are there, nobody else is. To take a region from someone, you remove them, usually by combat.
 
-Risk is the common ancestor. <!-- AFFILIATE --> Each territory has one owner. Armies move in, dice are rolled, and the loser's pieces leave. Scoring, such as it is, comes from holding territories and continents at the start of your turn.
+Risk is the common ancestor. Each territory has one owner. Armies move in, dice are rolled, and the loser's pieces leave. Scoring, such as it is, comes from holding territories and continents at the start of your turn.
 
 Modern examples with the same bones:
 
-- **Small World**, where you conquer regions by paying tokens and the previous occupant is pushed out.
-- **Kemet** and **Blood Rage**, where battles have winners and losers and the loser retreats.
-- **Root**, where factions fight for clearings and the cat player's warriors are removed when they lose.
-- **Twilight Imperium**, where a system has one controller.
+- **[Small World](https://www.amazon.com/dp/B0024H7OF6?tag=cubecommonw0a-20)**, where you conquer regions by paying tokens and the previous occupant is pushed out.
+- **[Kemet](https://www.amazon.com/dp/B096L3HRFQ?tag=cubecommonw0a-20)** and **[Blood Rage](https://www.amazon.com/dp/B013TK5DFO?tag=cubecommonw0a-20)**, where battles have winners and losers and the loser retreats.
+- **[Root](https://www.amazon.com/dp/B07F454YF3?tag=cubecommonw0a-20)**, where factions fight for clearings and the cat player's warriors are removed when they lose.
+- **[Twilight Imperium](https://www.amazon.com/dp/B074YPSTRP?tag=cubecommonw0a-20)**, where a system has one controller.
 
 The defining feel: exclusive ownership and displacement. The map is a patchwork of single colors.
 
@@ -29,16 +29,16 @@ The defining feel: exclusive ownership and displacement. The map is a patchwork 
 
 In area majority, a region can hold pieces from every player at the same time. Nobody is pushed out. At scoring time, you count who has the most pieces in each region and award points by rank: most gets the big prize, second gets a smaller one, third maybe gets something.
 
-El Grande (1995) is the game that defined the style, and it remains the reference. <!-- AFFILIATE --> Players place caballeros into the regions of medieval Spain. At three scoring rounds, each region pays out to first, second, and third place. Nobody ever removes anyone else's pieces. The whole game is about where to be the most, where to settle for second, and where to not bother.
+[El Grande](https://www.amazon.com/dp/B00005UN1N?tag=cubecommonw0a-20) (1995) is the game that defined the style, and it remains the reference. Players place caballeros into the regions of medieval Spain. At three scoring rounds, each region pays out to first, second, and third place. Nobody ever removes anyone else's pieces. The whole game is about where to be the most, where to settle for second, and where to not bother.
 
 Other well-known area majority games:
 
-- **Carcassonne's farms**, where several players' farmers can share a field and the one with the most takes all the points.
+- **[Carcassonne](https://link.amazon/B012Rr5ed)'s farms**, where several players' farmers can share a field and the one with the most takes all the points.
 - **Blood Rage's provinces** at Ragnarok, which combine combat with majority scoring.
-- **Ethnos**, where tribes placed in regions score by rank at the end of each age.
-- **Inis**, which uses presence and majority in territories for its win conditions.
-- **Tigris & Euphrates**, where leader strength in kingdoms is a form of majority.
-- **Chinatown** and **Acquire**, which apply the idea to shares in a company rather than pieces on a map.
+- **[Ethnos](https://www.amazon.com/dp/B0DNNCYGHK?tag=cubecommonw0a-20)**, where tribes placed in regions score by rank at the end of each age.
+- **[Inis](https://www.amazon.com/dp/B089Q26FL2?tag=cubecommonw0a-20)**, which uses presence and majority in territories for its win conditions.
+- **[Tigris & Euphrates](https://www.amazon.com/dp/B001JQX7O0?tag=cubecommonw0a-20)**, where leader strength in kingdoms is a form of majority.
+- **[Chinatown](https://www.amazon.com/dp/B00IVF4ZH0?tag=cubecommonw0a-20)** and **[Acquire](https://www.amazon.com/dp/B0D7MSX6PR?tag=cubecommonw0a-20)**, which apply the idea to shares in a company rather than pieces on a map.
 
 The hobby sometimes calls this "area influence" to make the distinction clearer. That is a good name, because influence is exactly what you are placing. You are not taking the region. You are making it yours more than anyone else's.
 
@@ -60,7 +60,7 @@ Here is how the two compare in play.
 | What second place gets | Nothing | Often points |
 | Main currency | Combat strength | Placement count and timing |
 | Typical conflict | Direct, with losers | Indirect, with rankings |
-| Classic example | Risk | El Grande |
+| Classic example | [Risk](https://www.amazon.com/dp/B01HEQHKNM?tag=cubecommonw0a-20) | El Grande |
 | Feel | War | Election |
 
 The election comparison is useful. In an area control game you invade. In an area majority game you campaign: you decide which districts to contest, how many pieces to commit, and where you can win cheaply because nobody else is trying.
@@ -97,9 +97,9 @@ The weakness is kingmaking. A player who cannot win first in a region can still 
 
 ## Which games teach each style best?
 
-For area majority, start with El Grande if you can find it, or Ethnos for a faster teach. Carcassonne's farming rule is the gentlest introduction, since the rest of the game is simple and the farm scoring shows the idea in one clear case. <!-- AFFILIATE -->
+For area majority, start with El Grande if you can find it, or Ethnos for a faster teach. Carcassonne's farming rule is the gentlest introduction, since the rest of the game is simple and the farm scoring shows the idea in one clear case.
 
-For area control, Small World is the friendliest: short, funny, and built around the rhythm of conquering and declining. <!-- AFFILIATE --> Kemet and Blood Rage are the next step for groups who want real fights. Root is for groups ready to each learn a different rulebook.
+For area control, Small World is the friendliest: short, funny, and built around the rhythm of conquering and declining. Kemet and Blood Rage are the next step for groups who want real fights. Root is for groups ready to each learn a different rulebook.
 
 For the blend, Blood Rage and Inis both show how a designer can take the best of each: battles with consequences, scoring by presence.
 

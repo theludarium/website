@@ -27,7 +27,7 @@ The shelf of shame is not a character flaw. It is usually the result of one of a
 
 ### It is too heavy for the group
 
-You bought a game at your weight, not your group's. Something like Twilight Imperium or Spirit Island is a wonderful experience for a table that wants it and a wall for a table that does not. If your regular group leans toward Codenames and Ticket to Ride, a four-hour epic will keep losing the vote, no matter how good it is.
+You bought a game at your weight, not your group's. Something like [Twilight Imperium](https://www.amazon.com/dp/B074YPSTRP?tag=cubecommonw0a-20) or [Spirit Island](https://www.amazon.com/dp/B01MUHP51S?tag=cubecommonw0a-20) is a wonderful experience for a table that wants it and a wall for a table that does not. If your regular group leans toward [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) and [Ticket to Ride](https://link.amazon/B0jh8RB7f), a four-hour epic will keep losing the vote, no matter how good it is.
 
 ### It is the wrong player count
 

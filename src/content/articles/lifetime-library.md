@@ -27,23 +27,23 @@ Not every great game is a lifetime game. Some of the best games on your shelf ar
 
 ### Durable
 
-Physically, first. A lifetime game survives spills, moves, toddlers, and a hundred teaches. Wooden pieces outlast plastic; thick tiles outlast thin cards; a game with few components has fewer to lose. Hive is close to indestructible. Carcassonne's tiles will still be fine in 2046.
+Physically, first. A lifetime game survives spills, moves, toddlers, and a hundred teaches. Wooden pieces outlast plastic; thick tiles outlast thin cards; a game with few components has fewer to lose. Hive is close to indestructible. [Carcassonne](https://link.amazon/B012Rr5ed)'s tiles will still be fine in 2046.
 
 Durable also means durable in design. The game should not depend on a rules edition that gets revised every few years, a companion app, or components that go out of print. Simple rules that fit on one card are the most durable thing a game can have.
 
 ### Teachable across ages
 
-A lifetime game has to be taught by a 10-year-old to a grandparent and the other way around. Ticket to Ride can be. Catan can be. Terraforming Mars cannot, however much you love it. The teach has to survive the teacher forgetting half of it and still produce a good game.
+A lifetime game has to be taught by a 10-year-old to a grandparent and the other way around. [Ticket to Ride](https://link.amazon/B0jh8RB7f) can be. [Catan](https://link.amazon/B0h8BDGR2) can be. [Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20) cannot, however much you love it. The teach has to survive the teacher forgetting half of it and still produce a good game.
 
 This matters because the people at a lifetime table change. The group of four who learned a game in their twenties becomes a group of twelve with kids and in-laws. If the game cannot stretch to meet them, it stays in the box.
 
 ### Scales in player count
 
-Twenty years is a long time for a table to stay the same size. A lifetime game works at two on a quiet night and at six when everyone is home. Codenames does this; it is as good with four as with a dozen. Dominion plays at two and at four without feeling like a different game. A game that is only good at exactly four will have long stretches of no plays as the household shifts around it.
+Twenty years is a long time for a table to stay the same size. A lifetime game works at two on a quiet night and at six when everyone is home. [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) does this; it is as good with four as with a dozen. Dominion plays at two and at four without feeling like a different game. A game that is only good at exactly four will have long stretches of no plays as the household shifts around it.
 
 ### Evergreen
 
-Some games are tied to their moment. A clever twist that was fresh in its year, a theme from a show that aired once, a mechanic that every later game did better. Evergreen games are the ones whose appeal does not depend on novelty. Chess is the extreme case. Among modern games, Carcassonne, Catan, Ticket to Ride, Codenames, and Pandemic have all passed the first test, which is being as good on play 50 as on play 5. A game that is best the first time is not a lifetime game.
+Some games are tied to their moment. A clever twist that was fresh in its year, a theme from a show that aired once, a mechanic that every later game did better. Evergreen games are the ones whose appeal does not depend on novelty. Chess is the extreme case. Among modern games, Carcassonne, Catan, Ticket to Ride, Codenames, and [Pandemic](https://link.amazon/B0eHP5GCg) have all passed the first test, which is being as good on play 50 as on play 5. A game that is best the first time is not a lifetime game.
 
 ## How to think in decades
 

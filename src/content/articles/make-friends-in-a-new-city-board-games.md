@@ -25,7 +25,7 @@ A game table solves the adult friendship problem almost by accident. Look at wha
 - **A reason to be there.** You are not at a bar hoping someone talks to you. You are at a table because the game needs a fourth player. The awkward part is already handled.
 - **A script.** Rules, turns, a goal. For two hours you know exactly what to do and say. Conversation happens in the gaps, which is where it happens best.
 - **Repetition built in.** Game stores run the same open night every week. Groups meet on a schedule. You get the repeated contact without arranging it.
-- **Low guard.** Something about a shared problem, whether it is a Pandemic outbreak or a bad Catan trade, drops the performance. People show you who they are when they lose a close one.
+- **Low guard.** Something about a shared problem, whether it is a [Pandemic](https://link.amazon/B0eHP5GCg) outbreak or a bad [Catan](https://link.amazon/B0h8BDGR2) trade, drops the performance. People show you who they are when they lose a close one.
 - **A gentle filter.** The people at a game night self-selected for sitting in a room with strangers for two hours. They are, almost by definition, open to new people.
 
 Compare that to a networking event or a pickup basketball game. Those favor the loud and the skilled. A game table rewards showing up, paying attention, and being pleasant. Those are things anyone can do on their first week in town.
@@ -40,7 +40,7 @@ Start with the places that already exist. In most American cities of any size th
 4. **Online listings for in-person groups.** Meetup, BoardGameGeek's local forums, and city subreddits all have standing groups. Pick one with a weekly cadence and recent activity.
 5. **Your own apartment building or block.** A sign in the mailroom, "Game night Thursday, 7pm, unit 3B, all welcome," is braver than it sounds and works more often than you would guess.
 
-A note on what to look for. Favor the group that meets weekly over the one that meets monthly. Favor open tables over closed campaigns. A D&D group that has been playing the same story for two years is a hard room to join. A Codenames table is not.
+A note on what to look for. Favor the group that meets weekly over the one that meets monthly. Favor open tables over closed campaigns. A D&D group that has been playing the same story for two years is a hard room to join. A [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) table is not.
 
 *If this is useful, the newsletter sends more like it.*
 
@@ -64,12 +64,12 @@ Not every game is a good first-contact game. You want short teaches, lots of tab
 
 | Goal | Games that do it well |
 |---|---|
-| Get a big group laughing fast | Codenames, Wavelength, Just One, Telestrations |
-| Learn how people think | The Crew, Pandemic, Forbidden Island (cooperative) |
-| Give quiet people a way in | Azul, Cascadia, Ticket to Ride (low talk pressure, easy to learn) |
-| Signal you are a regular | Bring Wingspan or Catan, know the rules cold, offer to teach |
+| Get a big group laughing fast | Codenames, [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20), [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20), [Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20) |
+| Learn how people think | [The Crew](https://link.amazon/B099S9RKf), Pandemic, [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20) (cooperative) |
+| Give quiet people a way in | [Azul](https://link.amazon/B0bGRYHex), [Cascadia](https://link.amazon/B0g1HYFt4), [Ticket to Ride](https://link.amazon/B0jh8RB7f) (low talk pressure, easy to learn) |
+| Signal you are a regular | Bring [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) or Catan, know the rules cold, offer to teach |
 
-Avoid bringing anything with a forty-minute rules explanation to an open night. Save Gloomhaven for month four. Avoid pure social deduction games like Werewolf as your very first play, since lying to strangers before they know your name is a strange foundation. Codenames gets you the talk without the deceit.
+Avoid bringing anything with a forty-minute rules explanation to an open night. Save [Gloomhaven](https://www.amazon.com/dp/B01LZXVN4P?tag=cubecommonw0a-20) for month four. Avoid pure social deduction games like Werewolf as your very first play, since lying to strangers before they know your name is a strange foundation. Codenames gets you the talk without the deceit.
 
 Cooperative games deserve a special mention for newcomers. Losing a game of Pandemic together is one of the fastest known routes from stranger to acquaintance. Shared failure bonds faster than shared victory, and nobody has to feel bad about beating the new person. It is also where [the stories a group retells for years](/articles/why-game-night-memories-last/) tend to start.
 

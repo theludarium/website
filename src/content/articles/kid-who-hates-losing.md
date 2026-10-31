@@ -38,19 +38,19 @@ Four stages. Move to the next when the current one is going smoothly most of the
 
 ### Stage 1: Cooperative games only
 
-Outfoxed!, Forbidden Island, My First Castle Panic, The Crew. Everyone wins or loses together. The child gets to experience losing as a shared event with no target, and winning as a team effort rather than a personal triumph. This is the stage that breaks the "winning equals I'm good" link.
+[Outfoxed!](https://link.amazon/B0hYNduxd), [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20), [My First Castle Panic](https://www.amazon.com/dp/B07KMLHPMK?tag=cubecommonw0a-20), [The Crew](https://link.amazon/B099S9RKf). Everyone wins or loses together. The child gets to experience losing as a shared event with no target, and winning as a team effort rather than a personal triumph. This is the stage that breaks the "winning equals I'm good" link.
 
 ### Stage 2: Short, luck-heavy competitive games, played in sets
 
-Sushi Go, Dragomino, Rhino Hero, Zingo!, Monza. Ten minutes each. Play three or four in a row, and treat the set as the event, not any single game. A child who loses the first, wins the second, and loses the third has just had a normal evening. Luck-heavy means they win a real share without help.
+Sushi Go, [Dragomino](https://link.amazon/B09WKyU19), [Rhino Hero](https://www.amazon.com/dp/B01M8LF7IA?tag=cubecommonw0a-20), [Zingo!](https://www.amazon.com/dp/B01DY818JG?tag=cubecommonw0a-20), [Monza](https://www.amazon.com/dp/B0002HYHT6?tag=cubecommonw0a-20). Ten minutes each. Play three or four in a row, and treat the set as the event, not any single game. A child who loses the first, wins the second, and loses the third has just had a normal evening. Luck-heavy means they win a real share without help.
 
 ### Stage 3: Games with hidden scores
 
-Kingdomino, Ticket to Ride, Azul. Nobody knows who is winning until the end, so there is no slow build of panic as the child watches themselves fall behind. The loss arrives all at once, briefly, and the game is over.
+[Kingdomino](https://link.amazon/B08l49zvA), [Ticket to Ride](https://link.amazon/B0jh8RB7f), [Azul](https://link.amazon/B0bGRYHex). Nobody knows who is winning until the end, so there is no slow build of panic as the child watches themselves fall behind. The loss arrives all at once, briefly, and the game is over.
 
 ### Stage 4: Normal games
 
-Catan, Carcassonne, whatever the family likes. By now the child has lost dozens of times in low-stakes settings and has a script for it. Some losses will still sting. That is fine. That is everybody.
+[Catan](https://link.amazon/B0h8BDGR2), [Carcassonne](https://link.amazon/B012Rr5ed), whatever the family likes. By now the child has lost dozens of times in low-stakes settings and has a script for it. Some losses will still sting. That is fine. That is everybody.
 
 *If this is useful, the newsletter sends more like it.*
 
@@ -79,9 +79,9 @@ Address it directly only when calm, and keep it short: "When you move your piece
 | Helps | Why | Makes it worse | Why |
 |---|---|---|---|
 | Outfoxed!, Forbidden Island, The Crew | Cooperative. No one to lose to. | Monopoly, Risk | Elimination and slow, visible collapse. |
-| Sushi Go!, Dragomino, Rhino Hero | Short and lucky. Many results per hour. | Chess, checkers | Pure skill. The adult always wins or obviously throws it. |
+| [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), Dragomino, Rhino Hero | Short and lucky. Many results per hour. | Chess, checkers | Pure skill. The adult always wins or obviously throws it. |
 | Kingdomino, Ticket to Ride, Azul | Hidden scores. No slow dread. | Uno, Sorry!, Trouble | Direct attacks. The child gets targeted and feels it personally. |
-| Telestrations, Just One | Nobody really wins or loses. Just laughs. | Any game over an hour | One big loss after a long investment. |
+| [Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20), [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20) | Nobody really wins or loses. Just laughs. | Any game over an hour | One big loss after a long investment. |
 
 Avoid anything where players can target each other directly. A kid who has to win experiences a "take that" card as a personal attack, and the sibling who played it knows exactly what they are doing. We have more on that dynamic in [cooperative games for siblings who fight](/articles/cooperative-games-for-kids/).
 

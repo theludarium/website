@@ -40,11 +40,11 @@ If you have two days, keep this shape and add a second morning of work. Do not a
 
 ## Why are games the right tool for this?
 
-A remote team's problem is that people do not know how each other think. Games make thinking visible. Thirty minutes of Codenames shows you that the backend engineer gives beautifully precise clues and that the account manager guesses on instinct. You will remember that the next time you are on a call with them.
+A remote team's problem is that people do not know how each other think. Games make thinking visible. Thirty minutes of [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) shows you that the backend engineer gives beautifully precise clues and that the account manager guesses on instinct. You will remember that the next time you are on a call with them.
 
 Games also solve the initiation problem. Nobody at a remote-team meetup wants to walk up to a near-stranger and start a conversation. A table with a game on it hands everyone a reason to talk. The conversation about the game becomes a conversation about anything.
 
-And games produce the shared memory. The moment someone drew a catastrophically bad picture in Telestrations, or the table lost Pandemic on the last turn, will come up in Slack for months. For a longer list of options, see [team-building board games that don't feel like team building](/articles/team-building-board-games/).
+And games produce the shared memory. The moment someone drew a catastrophically bad picture in [Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20), or the table lost [Pandemic](https://link.amazon/B0eHP5GCg) on the last turn, will come up in Slack for months. For a longer list of options, see [team-building board games that don't feel like team building](/articles/team-building-board-games/).
 
 *If this is useful, the newsletter sends more like it.*
 
@@ -54,19 +54,19 @@ The constraint is time. Nobody should spend twenty minutes learning rules when t
 
 **For the early-afternoon reset (15 to 30 min each):**
 
-- Just One. Cooperative, fast, impossible to embarrass yourself.
-- Wavelength. Produces opinions and laughter immediately.
+- [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20). Cooperative, fast, impossible to embarrass yourself.
+- [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20). Produces opinions and laughter immediately.
 - Codenames. Mixed teams, quick rounds, reveals thinking styles.
 
 **For the main activity (60 to 120 min):**
 
 - A hosted game session with three or four games rotating across mixed tables. This works for any headcount and lets people find their own pace.
-- Blood on the Clocktower for groups of ten to twenty, with a skilled storyteller. It is the single most memorable large-group game we know.
-- A cooperative game like Pandemic or Forbidden Desert at each table, with a shared debrief. Good for teams that want to see how they handle pressure together.
+- [Blood on the Clocktower](https://www.amazon.com/dp/B0BRSTMP2V?tag=cubecommonw0a-20) for groups of ten to twenty, with a skilled storyteller. It is the single most memorable large-group game we know.
+- A cooperative game like Pandemic or [Forbidden Desert](https://www.amazon.com/dp/B00B4ECHJI?tag=cubecommonw0a-20) at each table, with a shared debrief. Good for teams that want to see how they handle pressure together.
 
 **For the evening (open):**
 
-- A shelf of games with a host who can teach them. Azul, Ticket to Ride, The Crew, Sushi Go!. No obligation. The people who want to play will, and they will be the last to leave.
+- A shelf of games with a host who can teach them. [Azul](https://link.amazon/B0bGRYHex), [Ticket to Ride](https://link.amazon/B0jh8RB7f), The Crew, [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20). No obligation. The people who want to play will, and they will be the last to leave.
 
 Avoid long strategy games and anything with a steep teach. A remote team's day is too short for Gloomhaven.
 

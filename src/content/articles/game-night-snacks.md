@@ -84,7 +84,7 @@ For a regular group, a rotation works well. One person brings snacks each week. 
 
 Fast and calm. Lift the affected components off the table. Blot, do not wipe. Cards that got wet should be laid flat between paper towels, under something heavy, overnight. Boards fare better than cards, but a warped board stays warped.
 
-Then shrug and keep playing. A spill is annoying. A host who makes a guest feel terrible about it has ruined the evening more thoroughly than the spill did. Card sleeves for your most-played games are cheap insurance, and most people who host often end up using them for anything with a small deck.
+Then shrug and keep playing. A spill is annoying. A host who makes a guest feel terrible about it has ruined the evening more thoroughly than the spill did. [Card sleeves](https://www.amazon.com/dp/B00WX57O7M?tag=cubecommonw0a-20) for your most-played games are cheap insurance, and most people who host often end up using them for anything with a small deck.
 
 The game is the reason. The people are the point. A damp copy of Codenames is a small price for a friend who feels welcome.
 

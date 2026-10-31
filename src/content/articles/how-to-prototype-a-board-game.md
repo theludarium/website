@@ -16,7 +16,7 @@ Almost nothing, and the less the better. A short shopping list:
 
 - **Index cards**, 3x5, at least 200. Blank on one side. These are your cards, your tiles, your board spaces, and your rulebook.
 - **A Sharpie** and a pencil. The Sharpie for anything you are fairly sure about, the pencil for everything else.
-- **Cubes, meeples, and dice** pulled from games you already own. Nobody minds a Catan road standing in for a soldier.
+- **Cubes, meeples, and dice** pulled from games you already own. Nobody minds a [Catan](https://link.amazon/B0h8BDGR2) road standing in for a soldier.
 - **Coins or poker chips** for money, points, or health.
 - **Sticky notes** for rules you make up mid-game and need to remember.
 - **A big sheet of paper** or the back of a poster for a board, if your game needs one. Hex or square grids can be drawn freehand.
@@ -30,9 +30,9 @@ Before you write a single card, answer three questions in one sentence each. Wri
 
 1. **What does a player do on their turn?** Not the whole game. One turn. "Draw two cards, play one, move your piece." If you cannot say it in a sentence, you do not have a game yet, you have a theme.
 2. **How does a player win?** Most points, first to a goal, last one standing, the team beats the game. Pick one.
-3. **What is the interesting decision?** Every turn should have a moment where the player wants two things and can only have one. In Ticket to Ride, it is draw cards or claim a route. In Azul, it is take the tiles you need and leave the ones that hurt you. Name yours.
+3. **What is the interesting decision?** Every turn should have a moment where the player wants two things and can only have one. In [Ticket to Ride](https://link.amazon/B0jh8RB7f), it is draw cards or claim a route. In [Azul](https://link.amazon/B0bGRYHex), it is take the tiles you need and leave the ones that hurt you. Name yours.
 
-This is the hardest part of the weekend and should take two hours at most. If you are stuck, borrow. Nearly every great game is a known mechanic with one twist. Agricola is worker placement plus feeding your family. Codenames is word association plus teams. Pick a mechanic you love, add one idea, and move on. For the mechanic side of this, the breakdown in [Worker Placement, Explained Through One Game](/articles/worker-placement-explained/) shows how one well-worn system can carry a whole design.
+This is the hardest part of the weekend and should take two hours at most. If you are stuck, borrow. Nearly every great game is a known mechanic with one twist. [Agricola](https://www.amazon.com/dp/B07JZFN8WS?tag=cubecommonw0a-20) is worker placement plus feeding your family. [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) is word association plus teams. Pick a mechanic you love, add one idea, and move on. For the mechanic side of this, the breakdown in [Worker Placement, Explained Through One Game](/articles/worker-placement-explained/) shows how one well-worn system can carry a whole design.
 
 ## Saturday afternoon: how do you build the first playable?
 

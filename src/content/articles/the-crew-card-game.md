@@ -49,7 +49,7 @@ We have watched groups of coworkers play it and recognize their own meeting habi
 
 There are two main versions, and both are good.
 
-| | The Crew: The Quest for Planet Nine | The Crew: Mission Deep Sea |
+| | [The Crew: The Quest for Planet Nine](https://www.amazon.com/dp/B084GP7X3P?tag=cubecommonw0a-20) | [The Crew: Mission Deep Sea](https://link.amazon/B099S9RKf) |
 |---|---|---|
 | Released | 2019 | 2021 |
 | Missions | 50 | 32, with variable difficulty |
@@ -60,7 +60,7 @@ There are two main versions, and both are good.
 
 Mission Deep Sea is the more flexible design, because the difficulty of each mission depends on which task cards come out. The same mission number plays differently every time. The Quest for Planet Nine has a steadier ramp and a slightly simpler teach.
 
-If you are buying one, Mission Deep Sea. If you fall in love, buy both. Mission Deep Sea carries a [suggested price of about $15](https://www.nobleknight.com/P/2147934610/Crew-The---Mission-Deep-Sea) at the time of writing, roughly a nice lunch, which makes The Crew one of the best values in the hobby.
+If you are buying one, Mission Deep Sea. If you fall in love, buy both. Mission Deep Sea carries a suggested price of about $15 at the time of writing, roughly a nice lunch, which makes The Crew one of the best values in the hobby.
 
 ## How do you teach The Crew to new players?
 

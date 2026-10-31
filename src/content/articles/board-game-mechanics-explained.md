@@ -26,9 +26,9 @@ Here they are, from the most common on modern shelves to some favorites of the h
 
 **What it is:** each player has a few pieces (workers) and takes turns placing them on action spaces. A space taken by one player is usually blocked for everyone else that round.
 
-**Classic example:** Agricola, the farming game by Uwe Rosenberg.
+**Classic example:** [Agricola](https://www.amazon.com/dp/B07JZFN8WS?tag=cubecommonw0a-20), the farming game by Uwe Rosenberg.
 
-**Good first game:** Lords of Waterdeep. <!-- AFFILIATE --> Clean, quick to teach, and every choice is easy to read.
+**Good first game:** [Lords of Waterdeep](https://www.amazon.com/dp/0786959916?tag=cubecommonw0a-20). Clean, quick to teach, and every choice is easy to read.
 
 Our full guide to [worker placement board games](/articles/worker-placement-explained/) walks through Lords of Waterdeep turn by turn. Everdell also uses worker placement; see [how to play Everdell](/academy/everdell/how-to-play-everdell/).
 
@@ -36,9 +36,9 @@ Our full guide to [worker placement board games](/articles/worker-placement-expl
 
 **What it is:** everyone starts with the same small, weak deck of cards. On your turn you play cards to buy better ones, which go into your deck, so your deck grows stronger as the game goes on.
 
-**Classic example:** Dominion, by Donald X. Vaccarino, which made deck building its own genre.
+**Classic example:** [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20), by Donald X. Vaccarino, which made deck building its own genre.
 
-**Good first game:** Dominion still teaches the idea best. Clank! adds a board for groups who want more to look at.
+**Good first game:** Dominion still teaches the idea best. [Clank!](https://www.amazon.com/dp/B01KAC6268?tag=cubecommonw0a-20) adds a board for groups who want more to look at.
 
 Read [deck building games explained](/articles/deck-building-games-explained/), then [how to play Dominion](/academy/dominion/how-to-play-dominion/) or our comparison of [Dominion vs Clank!](/articles/dominion-vs-clank/).
 
@@ -46,9 +46,9 @@ Read [deck building games explained](/articles/deck-building-games-explained/), 
 
 **What it is:** you pick one card from a hand, then pass the rest to your neighbor. Everyone picks at once, so play stays fast even at big tables.
 
-**Classic example:** 7 Wonders, by Antoine Bauza.
+**Classic example:** [7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20), by Antoine Bauza.
 
-**Good first game:** Sushi Go! <!-- AFFILIATE --> It teaches in minutes and makes the pick-and-pass rhythm obvious.
+**Good first game:** [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) It teaches in minutes and makes the pick-and-pass rhythm obvious.
 
 See [card drafting explained](/articles/card-drafting-explained/), plus [how to play 7 Wonders](/academy/7-wonders/how-to-play-7-wonders/) and [how to play Sushi Go!](/academy/sushi-go/how-to-play-sushi-go/).
 
@@ -56,9 +56,9 @@ See [card drafting explained](/articles/card-drafting-explained/), plus [how to 
 
 **What it is:** you draw or choose a tile and add it to a shared map or your own personal area, matching edges or patterns. The board is built during play, so no two games look the same.
 
-**Classic example:** Carcassonne, by Klaus-Jürgen Wrede, where cities, roads, and fields grow tile by tile.
+**Classic example:** [Carcassonne](https://link.amazon/B012Rr5ed), by Klaus-Jürgen Wrede, where cities, roads, and fields grow tile by tile.
 
-**Good first game:** Kingdomino. <!-- AFFILIATE --> A short, friendly game of building a five-by-five kingdom.
+**Good first game:** [Kingdomino](https://link.amazon/B08l49zvA). A short, friendly game of building a five-by-five kingdom.
 
 Our guide to [tile placement board games](/articles/tile-placement-board-games/) covers the family. Learn [how to play Carcassonne](/academy/carcassonne/how-to-play-carcassonne/), [Kingdomino](/academy/kingdomino/how-to-play-kingdomino/), or [Cascadia](/academy/cascadia/how-to-play-cascadia/).
 
@@ -66,9 +66,9 @@ Our guide to [tile placement board games](/articles/tile-placement-board-games/)
 
 **What it is:** early choices make later turns more powerful. Each card or upgrade you gain produces resources or abilities, and those feed the next purchase, until your "engine" runs on its own.
 
-**Classic example:** Race for the Galaxy, a card game where your tableau of worlds and developments powers each round.
+**Classic example:** [Race for the Galaxy](https://www.amazon.com/dp/B000YLAOEW?tag=cubecommonw0a-20), a card game where your tableau of worlds and developments powers each round.
 
-**Good first game:** Splendor. <!-- AFFILIATE --> Buy gem cards that make the next cards cheaper; the engine is easy to see.
+**Good first game:** [Splendor](https://link.amazon/B0fEvY6Wg). Buy gem cards that make the next cards cheaper; the engine is easy to see.
 
 Read [engine building games explained](/articles/engine-building-games/), then [how to play Splendor](/academy/splendor/how-to-play-splendor/) or [how to play Wingspan](/academy/wingspan/how-to-play-wingspan/).
 
@@ -76,9 +76,9 @@ Read [engine building games explained](/articles/engine-building-games/), then [
 
 **What it is:** players compete to have the most presence in regions of a map. Some games let you remove opponents' pieces; area majority games simply score whoever has the most in each region.
 
-**Classic example:** El Grande, the game of placing knights across medieval Spain.
+**Classic example:** [El Grande](https://www.amazon.com/dp/B00005UN1N?tag=cubecommonw0a-20), the game of placing knights across medieval Spain.
 
-**Good first game:** Small World. <!-- AFFILIATE --> Forgiving, funny, and nobody is knocked out.
+**Good first game:** [Small World](https://www.amazon.com/dp/B0024H7OF6?tag=cubecommonw0a-20). Forgiving, funny, and nobody is knocked out.
 
 See [area control board games](/articles/area-control-board-games/) and [area majority vs area control](/articles/area-majority-vs-area-control/). For an asymmetric take, [how to play Root](/academy/root/how-to-play-root/).
 
@@ -88,9 +88,9 @@ See [area control board games](/articles/area-control-board-games/) and [area ma
 
 **Classic example:** Rummy and its family, played with a standard deck for generations.
 
-**Good first game:** Point Salad, <!-- AFFILIATE --> a quick card game where every vegetable card can also be a scoring card.
+**Good first game:** [Point Salad](https://www.amazon.com/dp/B07PGQKT5V?tag=cubecommonw0a-20), a quick card game where every vegetable card can also be a scoring card.
 
-Ticket to Ride uses set collection too: you collect colored train cards to claim routes.
+[Ticket to Ride](https://link.amazon/B0jh8RB7f) uses set collection too: you collect colored train cards to claim routes.
 
 ### 8. Push your luck
 
@@ -98,7 +98,7 @@ Ticket to Ride uses set collection too: you collect colored train cards to claim
 
 **Classic example:** Can't Stop, Sid Sackson's dice game from 1980.
 
-**Good first game:** Flip 7. <!-- AFFILIATE --> Flip cards until you stop, or until you flip a number you already have.
+**Good first game:** [Flip 7](https://www.amazon.com/dp/B0DWGVM7RY?tag=cubecommonw0a-20). Flip cards until you stop, or until you flip a number you already have.
 
 Learn [how to play Flip 7](/academy/flip-7/how-to-play-flip-7/). Our piece on [luck vs skill](/articles/luck-vs-skill-board-games/) explains why risk feels so good at the table.
 
@@ -106,9 +106,9 @@ Learn [how to play Flip 7](/academy/flip-7/how-to-play-flip-7/). Our piece on [l
 
 **What it is:** dice are rolled, and every player uses the result to mark boxes on their own sheet. Everyone plays at once, so it works for big groups.
 
-**Classic example:** Yahtzee.
+**Classic example:** [Yahtzee](https://www.amazon.com/dp/B00TLEMRKM?tag=cubecommonw0a-20).
 
-**Good first game:** Qwixx. <!-- AFFILIATE --> It teaches in two minutes and plays in about fifteen.
+**Good first game:** [Qwixx](https://www.amazon.com/dp/B00J57138C?tag=cubecommonw0a-20). It teaches in two minutes and plays in about fifteen.
 
 Read our guide to [roll and write games](/articles/roll-and-write-games/).
 
@@ -118,7 +118,7 @@ Read our guide to [roll and write games](/articles/roll-and-write-games/).
 
 **Classic example:** Hearts, Spades, and Bridge.
 
-**Good first game:** The Crew, <!-- AFFILIATE --> a cooperative trick taker where the table works together to complete missions.
+**Good first game:** [The Crew](https://link.amazon/B099S9RKf), a cooperative trick taker where the table works together to complete missions.
 
 Read [why The Crew is the best teaching game](/articles/the-crew-card-game/) and [how to play The Crew](/academy/the-crew/how-to-play-the-crew/).
 
@@ -126,9 +126,9 @@ Read [why The Crew is the best teaching game](/articles/the-crew-card-game/) and
 
 **What it is:** everyone plays on the same team against the game itself. You win or lose together.
 
-**Classic example:** Pandemic, by Matt Leacock.
+**Classic example:** [Pandemic](https://link.amazon/B0eHP5GCg), by Matt Leacock.
 
-**Good first game:** Forbidden Island, <!-- AFFILIATE --> Leacock's lighter treasure hunt. For two players, Sky Team.
+**Good first game:** [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20), Leacock's lighter treasure hunt. For two players, [Sky Team](https://www.amazon.com/dp/B0CHD8RCSJ?tag=cubecommonw0a-20).
 
 See our list of the [best cooperative board games](/articles/best-cooperative-board-games/), plus [how to play Pandemic](/academy/pandemic/how-to-play-pandemic/) and [how to play Sky Team](/academy/sky-team/how-to-play-sky-team/). Our piece on [the quarterback problem](/articles/quarterback-problem-cooperative-games/) covers the most common co-op pitfall.
 
@@ -138,7 +138,7 @@ See our list of the [best cooperative board games](/articles/best-cooperative-bo
 
 **Classic example:** Mafia, created by Dmitry Davidoff in the Soviet Union in the 1980s, and its retheme, Werewolf.
 
-**Good first game:** The Resistance, <!-- AFFILIATE --> which removed player elimination so nobody sits out.
+**Good first game:** [The Resistance](https://www.amazon.com/dp/B01J16HNKS?tag=cubecommonw0a-20), which removed player elimination so nobody sits out.
 
 Read [why social deduction games work](/articles/why-social-deduction-games-work/) and our list of the [best social deduction games](/articles/best-social-deduction-games/).
 
@@ -156,19 +156,19 @@ Learn [how to play Ticket to Ride](/academy/ticket-to-ride/how-to-play-ticket-to
 
 **What it is:** players bid resources or money for cards, turn order, or other advantages. The price is set by the table, not the rulebook.
 
-**Classic example:** Modern Art, by Reiner Knizia, where players are art dealers using several kinds of auction.
+**Classic example:** [Modern Art](https://www.amazon.com/dp/B0716P8GKX?tag=cubecommonw0a-20), by Reiner Knizia, where players are art dealers using several kinds of auction.
 
-**Good first game:** For Sale, <!-- AFFILIATE --> a quick game of bidding on houses and then selling them.
+**Good first game:** [For Sale](https://www.amazon.com/dp/B001PQLNY0?tag=cubecommonw0a-20), a quick game of bidding on houses and then selling them.
 
-Power Grid is a heavier classic built around auctions; see [how to play Power Grid](/academy/power-grid/how-to-play-power-grid/).
+[Power Grid](https://www.amazon.com/dp/B07HM7WZT9?tag=cubecommonw0a-20) is a heavier classic built around auctions; see [how to play Power Grid](/academy/power-grid/how-to-play-power-grid/).
 
 ### 15. Rondel
 
 **What it is:** your available actions sit in a wheel. You move your marker around it, and moving far costs extra, so each choice limits what you can do next.
 
-**Classic example:** Imperial, by Mac Gerdts, who popularized the mechanic.
+**Classic example:** [Imperial](https://www.amazon.com/dp/B000L326XU?tag=cubecommonw0a-20), by Mac Gerdts, who popularized the mechanic.
 
-**Good first game:** Navegador, the most approachable of the Gerdts rondel games.
+**Good first game:** [Navegador](https://www.amazon.com/dp/B0049GEILI?tag=cubecommonw0a-20), the most approachable of the Gerdts rondel games.
 
 Read our guide to [the rondel mechanic](/articles/rondel-mechanic/).
 
@@ -178,11 +178,11 @@ Read our guide to [the rondel mechanic](/articles/rondel-mechanic/).
 
 **Classic example:** Orléans, by Reiner Stockhausen.
 
-**Good first game:** The Quacks of Quedlinburg, <!-- AFFILIATE --> a push-your-luck potion game by Wolfgang Warsch that won the 2018 Kennerspiel des Jahres.
+**Good first game:** [The Quacks of Quedlinburg](https://www.amazon.com/dp/B08T21DYKV?tag=cubecommonw0a-20), a push-your-luck potion game by Wolfgang Warsch that won the 2018 Kennerspiel des Jahres.
 
 ## How do mechanics combine in one game?
 
-Very few games use only one mechanic. Wingspan is an engine builder with set collection and dice for food. Ticket to Ride mixes set collection with route building. The Quacks of Quedlinburg pairs bag building with push your luck. The mix is where a game gets its personality.
+Very few games use only one mechanic. [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) is an engine builder with set collection and dice for food. Ticket to Ride mixes set collection with route building. The Quacks of Quedlinburg pairs bag building with push your luck. The mix is where a game gets its personality.
 
 That is also why mechanic labels help you shop smarter. If you loved Splendor, look for other engine builders. If drafting was your favorite part of 7 Wonders, look for drafting games. The [Card Catalogue](/card-catalogue/) takes this a step further, sorting games by how they feel at the table rather than by mechanic alone.
 
@@ -220,7 +220,7 @@ Lords of Waterdeep is a classic first worker placement game. Everdell adds a cha
 
 ### What are tile placement board games?
 
-Games where you lay tiles to build a shared map or your own area, often matching edges or patterns. Carcassonne, Kingdomino, and Cascadia are popular examples.
+Games where you lay tiles to build a shared map or your own area, often matching edges or patterns. Carcassonne, Kingdomino, and [Cascadia](https://link.amazon/B0g1HYFt4) are popular examples.
 
 ### Is luck a game mechanic?
 

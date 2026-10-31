@@ -17,7 +17,7 @@ If you are new to the idea, [The One Copy Rule](/articles/one-copy-rule/) explai
 
 ## Who stores the big games?
 
-Big boxes should live where they get played. If one person hosts most of the group's game nights, the heavy strategy and campaign games belong at their place, regardless of who paid for them. Gloomhaven does not want to ride in a trunk every other Thursday.
+Big boxes should live where they get played. If one person hosts most of the group's game nights, the heavy strategy and campaign games belong at their place, regardless of who paid for them. [Gloomhaven](https://www.amazon.com/dp/B01LZXVN4P?tag=cubecommonw0a-20) does not want to ride in a trunk every other Thursday.
 
 That raises an ownership question: can a game live at a house that is not its owner's? Yes, and it is normal. Ownership and storage are two different things on a Shared Shelf. Write down both. The audit template in [How to Audit Your Group's Game Shelf](/articles/audit-your-group-shelf/) has a column for each.
 
@@ -43,7 +43,7 @@ A group that argues over a lost token will not share a shelf for long. A group t
 
 ## Who pays when a game gets ruined?
 
-Lost pieces are small. A full glass of red wine across a Wingspan board is not. The contract needs a line for real damage.
+Lost pieces are small. A full glass of red wine across a [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) board is not. The contract needs a line for real damage.
 
 The fair rule is simple: **the person who caused the damage offers to replace the game, and the owner decides whether to accept.** Most owners say "do not worry about it" for a bent card and "yes, please" for a soaked board. The offer is what matters. It signals that the group takes the library seriously.
 
@@ -62,7 +62,7 @@ The contract should separate the two things people conflate here: hosting and co
 
 - **Own the portable lanes.** Fillers and two-player games travel. The non-host can be the one who always has three small games in a bag.
 - **Be the sweeper.** Arrive early to help set up, stay late to help sort pieces back into the right bags.
-- **Fund an expansion.** If the host owns the group's Carcassonne, the non-host buys the next expansion for it. This is the heart of [Gifting as Library Strategy](/articles/gifting-as-library-strategy/).
+- **Fund an expansion.** If the host owns the group's [Carcassonne](https://link.amazon/B012Rr5ed), the non-host buys the next expansion for it. This is the heart of [Gifting as Library Strategy](/articles/gifting-as-library-strategy/).
 - **Bring the snacks.** Not a joke. Hosting costs money and time, and groceries are a real contribution.
 
 Say this out loud so the non-host does not feel guilty and the host does not feel used. That conversation, once, saves months of quiet resentment.
@@ -88,7 +88,7 @@ This is the question groups most want to skip, and the one most worth answering 
 
 **When the group dissolves:** everyone takes their own games home. Group-funded games and expansions go to whoever contributed most, or get sold with the money split. Do this with a list, not from memory. If you have been keeping the pooled shelf up to date, the list already exists.
 
-The bigger point is that a Shared Shelf gives a departing friend a reason to stay in touch. "Can I borrow Spirit Island when you are in town?" is a text people are happy to get.
+The bigger point is that a Shared Shelf gives a departing friend a reason to stay in touch. "Can I borrow [Spirit Island](https://www.amazon.com/dp/B01MUHP51S?tag=cubecommonw0a-20) when you are in town?" is a text people are happy to get.
 
 ## A sample Group Shelf Charter
 

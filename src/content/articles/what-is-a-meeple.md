@@ -7,7 +7,7 @@ category: Game Guides
 tags: ["what is a meeple", "meeple meaning", "meeple origin", "Carcassonne meeple", "wooden board game pieces", "meeple definition", "Glossary"]
 draft: false
 ---
-A meeple is a small wooden figure shaped like a simplified person, with a round head, stubby arms, and a solid base where the legs would be. It is the standard playing piece in Carcassonne and has since spread to hundreds of other games. If you have ever asked "what is a meeple" after someone at the table used the word like everyone should know it, this is the answer, along with the story of how a joke became the most recognizable object in the hobby.
+A meeple is a small wooden figure shaped like a simplified person, with a round head, stubby arms, and a solid base where the legs would be. It is the standard playing piece in [Carcassonne](https://link.amazon/B012Rr5ed) and has since spread to hundreds of other games. If you have ever asked "what is a meeple" after someone at the table used the word like everyone should know it, this is the answer, along with the story of how a joke became the most recognizable object in the hobby.
 
 **The quick answer:** "meeple" is a blend of "my" and "people," coined at a game table in 2000. The shape came from the first edition of Carcassonne. Everything else is what happened when a lot of people decided they liked both.
 
@@ -21,7 +21,7 @@ The word spread through BoardGameGeek and game-store conversation over the next 
 
 ## Which game did the meeple come from?
 
-Carcassonne, designed by Klaus-Jürgen Wrede and published by Hans im Glück in 2000. <!-- AFFILIATE --> It won the [Spiel des Jahres](https://www.spiel-des-jahres.de/en/games/carcassonne/), Germany's game of the year award, in 2001, which pushed it into mainstream shops across Europe and then the United States.
+Carcassonne, designed by Klaus-Jürgen Wrede and published by Hans im Glück in 2000. It won the [Spiel des Jahres](https://www.spiel-des-jahres.de/en/games/carcassonne/), Germany's game of the year award, in 2001, which pushed it into mainstream shops across Europe and then the United States.
 
 In Carcassonne you draw a tile, add it to a growing medieval map, and may place one of your wooden followers on the tile as a knight, monk, thief, or farmer. The rulebook calls them followers. Players called them meeples. The players won.
 
@@ -31,7 +31,7 @@ The piece needed to do a lot with very little. It had to stand up on its own, li
 
 The shape is a product of wood and cost. Wooden pieces are stamped or cut from flat boards, so a meeple is really a silhouette with thickness. Fine details like separated legs or fingers would snap off or cost too much to cut, so the design keeps everything thick and rounded.
 
-The result is a figure that is both abstract and human. It has no gender, no age, and no expression, which means it can be a farmer in Carcassonne, a worker in Agricola, or a family member in Stone Age without anyone objecting. <!-- AFFILIATE --> That flexibility is a big reason the shape outlived its original game.
+The result is a figure that is both abstract and human. It has no gender, no age, and no expression, which means it can be a farmer in Carcassonne, a worker in [Agricola](https://www.amazon.com/dp/B07JZFN8WS?tag=cubecommonw0a-20), or a family member in [Stone Age](https://www.amazon.com/dp/B00CF4G7OW?tag=cubecommonw0a-20) without anyone objecting. That flexibility is a big reason the shape outlived its original game.
 
 Hans im Glück has treated the specific figure as part of its brand: it holds an EU trademark on the shape of the original Carcassonne meeple and has [registered the word itself](https://en.wikipedia.org/wiki/Meeple) in some territories, though not in the United States. That is why other publishers' "meeples" often have slightly different proportions: a rounder head, wider arms, a taller base. They are close relatives, not copies.
 
@@ -70,7 +70,7 @@ Today you will find meeples on logos, T-shirts, cafe signs, tattoos, and the cov
 
 ## Can you buy meeples on their own?
 
-Yes. Several component companies sell meeples by color, in a [16 mm standard size](https://meeplesource.com/products.php?cat=13) that matches the Carcassonne follower, and in larger or smaller variants. People buy them to replace lost pieces, to upgrade games that ship with cardboard tokens, or to prototype their own designs.
+Yes. Several component companies sell meeples by color, in a 16 mm standard size that matches the Carcassonne follower, and in larger or smaller variants. People buy them to replace lost pieces, to upgrade games that ship with cardboard tokens, or to prototype their own designs.
 
 Custom meeples are also a thing. Designers often add a shape unique to their game, such as a meeple holding a tool or wearing a hat, as a small signature. If you are working on your own design, standard meeples are the cheapest way to get a prototype on the table. Our guide to [prototyping a board game in a weekend](/articles/how-to-prototype-a-board-game/) covers where they fit.
 

@@ -14,12 +14,12 @@ This guide covers the four formats that work for tabletop, when each fits, how t
 
 The game matters more than the format. A good tournament game has four properties.
 
-1. **Short matches.** About twenty to thirty minutes, including setup. Love Letter <!-- AFFILIATE -->, Hive <!-- AFFILIATE -->, Jaipur <!-- AFFILIATE -->, Patchwork <!-- AFFILIATE -->, Star Realms <!-- AFFILIATE -->, and 7 Wonders Duel <!-- AFFILIATE --> all qualify. Catan does not, unless you have all day.
+1. **Short matches.** About twenty to thirty minutes, including setup. [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20), [Hive](https://www.amazon.com/dp/B000EN5ZLW?tag=cubecommonw0a-20), [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20), [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20), [Star Realms](https://www.amazon.com/dp/B00HRGMPIU?tag=cubecommonw0a-20), and [7 Wonders Duel](https://www.amazon.com/dp/B014DMSTXK?tag=cubecommonw0a-20) all qualify. Catan does not, unless you have all day.
 2. **A clear winner.** Games that end in scores are fine. Games that end in "we sort of ran out of time" are not.
 3. **A fixed player count.** Two-player games make brackets simple. Three- and four-player games work but need a scoring system rather than a knockout.
 4. **Low learning cost.** If half the field is learning the game in round one, round one is a demo, not a match.
 
-If you want a multiplayer game, pick one that plays in 30 to 45 minutes and scores points: Azul <!-- AFFILIATE -->, Splendor <!-- AFFILIATE -->, Kingdomino <!-- AFFILIATE -->, or Ticket to Ride <!-- AFFILIATE -->. Then use Swiss or round robin, not a knockout bracket.
+If you want a multiplayer game, pick one that plays in 30 to 45 minutes and scores points: [Azul](https://link.amazon/B0bGRYHex), [Splendor](https://link.amazon/B0fEvY6Wg), [Kingdomino](https://link.amazon/B08l49zvA), or [Ticket to Ride](https://link.amazon/B0jh8RB7f). Then use Swiss or round robin, not a knockout bracket.
 
 ## What are the four tournament formats?
 

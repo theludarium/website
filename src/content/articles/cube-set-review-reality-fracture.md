@@ -6,7 +6,7 @@ category: Magic & Cube
 tags: ["Reality Fracture cube review", "Reality Fracture cube", "FRA cube cards", "new planeswalkers cube", "Darklight Phoenix cube", "Tarmogoyf reprint", "Cube Commonwealth"]
 draft: false
 ---
-Reality Fracture <!-- AFFILIATE --> released on October 2, 2026 as the third main-line Standard set of the year, and this Reality Fracture cube review was the most fun to write in a while. The set is built around planeswalkers, graveyard play, and "echoed" versions of famous cards in new colors. For cube owners that means cheap walkers to evaluate, a real phoenix, a two-mana red creature that recasts your burn, and reprints of Chandra, Torch of Defiance and Tarmogoyf. Calls follow [the slot method](/articles/how-to-evaluate-new-cards-for-cube/).
+Reality Fracture released on October 2, 2026 as the third main-line Standard set of the year, and this Reality Fracture cube review was the most fun to write in a while. The set is built around planeswalkers, graveyard play, and "echoed" versions of famous cards in new colors. For cube owners that means cheap walkers to evaluate, a real phoenix, a two-mana red creature that recasts your burn, and reprints of Chandra, Torch of Defiance and Tarmogoyf. Calls follow [the slot method](/articles/how-to-evaluate-new-cards-for-cube/).
 
 Set facts from the [Wizards collecting article](https://magic.wizards.com/en/news/feature/collecting-reality-fracture): tabletop release October 2, 2026, 270 main-set cards plus ten common dual lands, set code FRA, with a ten-card Special Guests sheet (SPG) in the same boosters. Card text below was confirmed against Card Kingdom and mtg.wtf listings; rules are paraphrased.
 

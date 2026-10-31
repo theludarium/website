@@ -54,9 +54,9 @@ Here is a simple way to think about dice, since they are the clearest case.
 | 1d20 | 1 to 20 | Flat and wide | Highly swingy; built for drama |
 | 2d6, keep highest | 1 to 6 | Skewed toward high results | Generous; failure feels rare |
 
-Catan rolls two six-sided dice for resource production. A 7 comes up about one time in six, and a 2 or 12 about one in thirty-six. The settlement on an 8 produces far more often than one on a 3. Players learn this shape intuitively, which is why the numbered tiles have dots on them to show it. The game would be unrecognizable with a single twelve-sided die.
+[Catan](https://link.amazon/B0h8BDGR2) rolls two six-sided dice for resource production. A 7 comes up about one time in six, and a 2 or 12 about one in thirty-six. The settlement on an 8 produces far more often than one on a 3. Players learn this shape intuitively, which is why the numbered tiles have dots on them to show it. The game would be unrecognizable with a single twelve-sided die.
 
-Dungeons & Dragons uses a d20 for most checks precisely because it is swingy. A first-level character can hit a dragon, and a veteran can miss a goblin. That drama is the point. In a strategy game it would be infuriating.
+[Dungeons & Dragons](https://www.amazon.com/dp/0786969687?tag=cubecommonw0a-20) uses a d20 for most checks precisely because it is swingy. A first-level character can hit a dragon, and a veteran can miss a goblin. That drama is the point. In a strategy game it would be infuriating.
 
 The rule of thumb: the more decisions a player makes between random events, the more variance the game can carry. A game with twenty decisions and one die roll feels fair. A game with one decision and twenty die rolls feels like a slot machine. Our article on [luck versus skill](/articles/luck-vs-skill-board-games/) takes the idea further.
 
@@ -81,7 +81,7 @@ None of this produces exact numbers. It produces a first draft that is close eno
 
 Even a perfectly balanced game can produce runaways, because small early advantages compound. Designers add mechanisms that pull the trailing player back, and the math of these is delicate. Too weak and they do nothing. Too strong and leading becomes a disadvantage, which players notice and resent.
 
-Ticket to Ride has a mild one: long routes score disproportionately, so a player who fell behind on short routes can recover with a bold play. Power Grid has a strong one: turn order is set by player standing, and the leader buys resources last and pays more. Each is tuned to its game's length and swing. The broader toolkit is covered in our piece on [catch-up mechanics](/articles/catch-up-mechanics-board-games/).
+[Ticket to Ride](https://link.amazon/B0jh8RB7f) has a mild one: long routes score disproportionately, so a player who fell behind on short routes can recover with a bold play. [Power Grid](https://www.amazon.com/dp/B07HM7WZT9?tag=cubecommonw0a-20) has a strong one: turn order is set by player standing, and the leader buys resources last and pays more. Each is tuned to its game's length and swing. The broader toolkit is covered in our piece on [catch-up mechanics](/articles/catch-up-mechanics-board-games/).
 
 ## How do you measure balance in testing?
 

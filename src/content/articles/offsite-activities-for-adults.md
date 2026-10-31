@@ -39,20 +39,20 @@ Here is a shortlist of options that have worked for real teams, grouped by that 
 
 ### For getting people talking
 
-- **A hosted game session with mixed tables.** Four to six people per table, two or three short games, tables reshuffled between rounds. Codenames, Wavelength, Just One, and Telestrations all teach in minutes and get strangers arguing happily. Our full list is in [team-building board games that don't feel like team building](/articles/team-building-board-games/).
+- **A hosted game session with mixed tables.** Four to six people per table, two or three short games, tables reshuffled between rounds. [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20), [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20), and [Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20) all teach in minutes and get strangers arguing happily. Our full list is in [team-building board games that don't feel like team building](/articles/team-building-board-games/).
 - **Cook-together dinners.** A kitchen with stations and a menu. People who have never spoken end up negotiating over garlic.
 - **Walking meetings in pairs.** Low tech. Assign pairs across departments, give one open question, walk for thirty minutes.
 
 ### For seeing the team under pressure
 
-- **Cooperative board games with a clock.** Pandemic, Forbidden Desert, or The Crew. Everyone is on the same side, the game pushes back, and roles sort themselves out in minutes. We go deeper in [how to spot a leader in 45 minutes of Pandemic](/articles/leadership-assessment-games/).
+- **Cooperative board games with a clock.** [Pandemic](https://link.amazon/B0eHP5GCg), [Forbidden Desert](https://www.amazon.com/dp/B00B4ECHJI?tag=cubecommonw0a-20), or [The Crew](https://link.amazon/B099S9RKf). Everyone is on the same side, the game pushes back, and roles sort themselves out in minutes. We go deeper in [how to spot a leader in 45 minutes of Pandemic](/articles/leadership-assessment-games/).
 - **Escape rooms.** Good for small teams, less good for groups over eight, where half the room stands around. Pick one and treat it as one station among several, not the whole afternoon.
-- **A real-time cooperative game like Magic Maze.** Players move shared pieces in silence. Nothing exposes coordination habits faster.
+- **A real-time cooperative game like [Magic Maze](https://www.amazon.com/dp/B08W9BV633?tag=cubecommonw0a-20).** Players move shared pieces in silence. Nothing exposes coordination habits faster.
 
 ### For a shared memory
 
 - **A tournament with absurd stakes.** A bracket of a quick game, a trophy from a thrift store, and a ceremony. The competition is light; the ceremony is what people remember.
-- **Monikers or a large-group social deduction game.** Blood on the Clocktower with a good storyteller can hold twenty people for ninety minutes and will be quoted for a year.
+- **[Monikers](https://www.amazon.com/dp/B00M07OQ1U?tag=cubecommonw0a-20) or a large-group social deduction game.** [Blood on the Clocktower](https://www.amazon.com/dp/B0BRSTMP2V?tag=cubecommonw0a-20) with a good storyteller can hold twenty people for ninety minutes and will be quoted for a year.
 - **Something physical but fair.** Bowling, curling, or axe throwing where skill levels are irrelevant. Avoid anything that requires fitness.
 
 ## How do these options compare?
