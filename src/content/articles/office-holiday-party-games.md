@@ -1,12 +1,12 @@
 ---
-title: "Office Holiday Party Games Everyone Can Play"
-description: "Office holiday party games that are safe for work and easy to teach: team games for in person and hybrid parties, what to avoid, and how to run them well."
+title: "Work Christmas Party Games Everyone Can Play"
+description: "Work Christmas party games that are office safe and quick to teach: team games for in-person and hybrid holiday parties, what to skip, and how to run them well."
 pubDate: 2026-10-29
 category: Game Night
-tags: ["office holiday party games", "work holiday party games", "games for office Christmas party", "hybrid holiday party ideas", "team games for work party", "Games for the workplace"]
+tags: ["work christmas party games", "office christmas party games", "company christmas party games", "office holiday party games", "work holiday party games", "games for office Christmas party", "hybrid holiday party ideas", "team games for work party", "Games for the workplace"]
 draft: false
 ---
-The best office holiday party games are team games that teach in two minutes, work for every coworker, and never put one person on the spot. Word games like Codenames and Just One fit that bill in the room, and many of them have a version that remote coworkers can join too. Skip drinking games, roasts, and anything that asks someone to perform alone.
+The best work Christmas party games, like the best games for any office holiday party, are team games that teach in two minutes, work for every coworker, and never put one person on the spot. Word games like Codenames and Just One fit that bill in the room, and many of them have a version that remote coworkers can join too. Skip drinking games, roasts, and anything that asks someone to perform alone.
 
 **The quick answer:** for an in-person party, play Codenames, Just One, or Herd Mentality in mixed teams. For a hybrid party, play the free online version of Codenames or run a team trivia round where remote and in-office people share a team. Keep it to thirty minutes and make it opt-in.
 
@@ -23,7 +23,7 @@ An office party is not a party among friends. People are there with their manage
 - **Quick to teach.** If it takes longer to explain than to play a round, it is the wrong game.
 - **Seated and low contact.** Games that need running, touching, or reading tiny print leave people out.
 
-## Office holiday party games at a glance
+## Work Christmas party games at a glance
 
 | Game | Players | Time | About | Best for |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ An office party is not a party among friends. People are there with their manage
 | Telestrations (8 Player) | 4 to 8 | 30 min | $32 list | In person, creative teams |
 | Team trivia | Any | 20 to 30 min | Free | Hybrid |
 
-## The best games for an in-person office party
+## The best office Christmas party games for an in-person party
 
 ### Codenames
 

@@ -1,6 +1,6 @@
 ---
-title: "Wingspan Player Counts, Variants, and Expansions"
-description: "Wingspan from solo to five players, official variants, and which expansion to add first, from the European Expansion to Oceania, Wingspan Asia, and Americas."
+title: "Wingspan Expansions, Variants, and Player Counts"
+description: "Wingspan expansions compared, from the European Expansion to Oceania, Asia, and Americas, which one to get first, plus variants and solo to five players."
 course: wingspan
 order: 12
 level: 2
@@ -13,7 +13,7 @@ nextTeaser: "Level 3 begins with bird evaluation: how to price any bird in turns
 ---
 Wingspan has grown into a whole aviary: four expansions, a standalone small-box game, promo packs, and accessories. That is a gift and a trap. Add too much at once and a new player faces a pile of rules before the first bird lands. Add one thing at a time and the game can grow with your group for years.
 
-This lesson starts with what changes at different player counts, then the official variants, then each box worth knowing.
+This lesson starts with what changes at different player counts, then the official variants, then each of the Wingspan expansions worth knowing and which one to get first.
 
 ## How does the game change by player count?
 
@@ -71,7 +71,7 @@ It adds a new step to every habitat action. Save it for a group that knows the g
 - **[Promo packs and accessories](https://stonemaiergames.com/games/wingspan/accessories/)** include six fan-designed bird packs of 25 birds each, and vision-friendly versions of the bird cards, built to be easier to read. <!-- AFFILIATE: Wingspan fan-designed bird promo packs and vision-friendly cards -->
 - **[The Nesting Box](https://stonemaiergames.com/games/wingspan/wingspan-nesting-box/)** is a storage box built to hold every Wingspan release. It adds no gameplay. <!-- AFFILIATE: Wingspan Nesting Box -->
 
-## How to choose
+## Which Wingspan expansion should you get first?
 
 - **Your group loves the base game as it is:** the European Expansion.
 - **You want a richer economy and more planning:** Oceania.

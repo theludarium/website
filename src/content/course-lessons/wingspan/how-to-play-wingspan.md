@@ -1,6 +1,6 @@
 ---
-title: "How to Play Wingspan"
-description: "How to play Wingspan: setup, the four actions, egg costs, the birdfeeder, bird powers, end-of-round goals, and final scoring, explained in plain words."
+title: "How to Play Wingspan: Rules, Setup, and Scoring"
+description: "How to play Wingspan, with the rules in plain words: setup, the four actions, egg costs, the birdfeeder, bird powers, end-of-round goals, and final scoring."
 course: wingspan
 order: 1
 level: 0
@@ -13,7 +13,7 @@ nextTeaser: "Next, the ten-minute teach. You will get a host script in the order
 ---
 Wingspan is a game about attracting birds to your wildlife preserves. Each bird you play lands in one of three habitats on your player mat: forest, grassland, or wetland. Each habitat is also an action. The more birds live in a row, the more that action gives you, and their powers fire along with it. That growing machine is why people call Wingspan an engine builder.
 
-This lesson follows the current Stonemaier Games rulebook, its appendix, and the official Rules and FAQ page. Expansions wait until [the expansions lesson](/academy/wingspan/wingspan-expansions/) at Level 2.
+This lesson teaches the Wingspan rules from the current Stonemaier Games rulebook, its appendix, and the official Rules and FAQ page. Expansions wait until [the expansions lesson](/academy/wingspan/wingspan-expansions/) at Level 2.
 
 **Prefer to watch first?** Watch It Played teaches the rules on video in its <a href="https://www.youtube.com/watch?v=lgDgcLI2B0U" target="_blank" rel="noopener">Wingspan How To Play video</a>. Watch it, then come back here for the rules in writing and the rest of the course.
 
@@ -41,7 +41,7 @@ For each player:
 3. Keep 1 of your 2 bonus cards. You may look at both while choosing birds.
 4. Choose a random first player and give them the first-player token.
 
-## What do you do on your turn?
+## What do the Wingspan rules let you do on a turn?
 
 Place 1 action cube on your mat and take 1 of 4 actions. Repeating an action is allowed.
 

@@ -1,6 +1,6 @@
 ---
-title: "How to Play Carcassonne"
-description: "How to play Carcassonne: setup, the three-step turn, scoring roads, cities, and monasteries, how farmers and fields work, and final scoring, in plain words."
+title: "Carcassonne Rules: How to Play, Score, and Use Farmers"
+description: "Carcassonne rules in plain words, and how to play: setup, the three-step turn, scoring roads, cities, and monasteries, how farmers and fields work, and the end."
 course: carcassonne
 order: 1
 level: 0
@@ -13,7 +13,7 @@ nextTeaser: "Next, the ten-minute teach. You will get a host script in the order
 ---
 Carcassonne is a game about building a map together and arguing, politely, over who gets credit for it. Each turn you add one square tile to a growing landscape of roads, cities, monasteries, and fields. Then you decide whether to put one of your wooden followers, the meeples, on what you just placed. Finish a feature with your meeple on it and you score.
 
-This lesson covers the rules in the current Z-Man Games edition. The rulebook splits them in two: the core rules, then a supplemental sheet for farmers and two small extras. We follow the same order.
+This lesson covers the Carcassonne rules in the current Z-Man Games edition. The rulebook splits them in two: the core rules, then a supplemental sheet for farmers and two small extras. We follow the same order.
 
 **Prefer to watch first?** Watch It Played teaches the rules on video in its <a href="https://www.youtube.com/watch?v=R1qh-lhxy9s" target="_blank" rel="noopener">Carcassonne How To Play video</a>. Watch it, then come back here for the rules in writing and the rest of the course.
 
@@ -31,7 +31,7 @@ You get a start tile with a dark back, a large set of land tiles with normal bac
 4. Put your 8th meeple on the 0 space of the scoreboard. It tracks your score.
 5. The youngest player goes first. Play passes clockwise.
 
-## What do you do on your turn?
+## What do the Carcassonne rules let you do on a turn?
 
 Three steps, always in this order.
 

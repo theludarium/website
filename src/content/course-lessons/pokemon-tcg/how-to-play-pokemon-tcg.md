@@ -1,6 +1,6 @@
 ---
-title: "How to Play the Pokémon TCG: How a Turn Works"
-description: "How to play the Pokémon TCG: setup, the play area, the six things you can do each turn, attacking and Knock Outs, Special Conditions, and the three ways to win."
+title: "How to Play the Pokémon TCG: Rules and How a Turn Works"
+description: "How to play the Pokémon TCG, with the card game rules in plain words: setup, the six things you can do each turn, attacking, Special Conditions, and how to win."
 course: pokemon-tcg
 order: 2
 level: 0
@@ -11,7 +11,7 @@ oneIdea: "Every turn has three parts: draw a card, do any of six actions, then a
 tryThis: "In your next game, say the three parts of the turn out loud each time: draw, actions, attack. Stop before attacking and ask, is there anything else I want to do first?"
 nextTeaser: "Next, reading a card. We label every part of a Pokémon card, from HP and Stage to Weakness and Retreat Cost, on an original mock card."
 ---
-The Pokémon TCG looks busy, with cards everywhere and counters piling up. Underneath, each turn follows the same simple rhythm. This lesson walks through it in the order the current official rulebook does, from the handshake to the last Prize card.
+The Pokémon TCG looks busy, with cards everywhere and counters piling up. Underneath, each turn follows the same simple rhythm. This lesson walks through the Pokémon card game rules in the order the current official rulebook does, from the handshake to the last Prize card.
 
 <!-- VERIFY: the newest rulebook linked from pokemon.com (30c_rulebook_en.pdf) could not be opened; check this lesson against it in case anything changed after the ME05 rulebook of July 2026. -->
 
@@ -47,7 +47,7 @@ Most games end the first way.
 
 **No Basic Pokémon in your opening hand?** That is a mulligan. Reveal your hand, shuffle it back, and draw 7 new cards. Repeat until you have one. Each time you do this, your opponent may draw one extra card.
 
-## What do you do on your turn?
+## What do the Pokémon TCG rules let you do on a turn?
 
 **1. Draw a card.** If your deck is empty and you cannot draw, you lose.
 
