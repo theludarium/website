@@ -1,12 +1,12 @@
 ---
-title: "10 Gateway Board Games That Turn Non-Gamers Into Regulars"
-description: "The 10 best gateway board games for turning a non-gamer into a regular, with player counts, times, and what each one leads to next. A guide for hosts."
+title: "10 Gateway Games for Friends Who Don't Play Yet"
+description: "The 10 best gateway games for friends who don't play yet, with player counts, times, and what each one leads to next. A guide for hosts teaching new players."
 pubDate: 2026-10-19
 category: Game Guides
-tags: ["gateway board games", "best gateway games", "board games for beginners", "entry level board games", "first board games for adults", "games for new players", "What to play"]
+tags: ["gateway games", "gateway board games", "best gateway games", "board games for beginners", "entry level board games", "first board games for adults", "games for new players", "What to play"]
 draft: false
 ---
-Gateway board games are the ones you hand to someone who has never played anything newer than Clue. They teach fast, finish in under an hour, and leave a new player wanting the next thing. Pick the right one and a friend who "doesn't do games" becomes the person texting you on Tuesday to ask when the next night is.
+Gateway games are the board games you hand to someone who has never played anything newer than Clue. They teach fast, finish in under an hour, and leave a new player wanting the next thing. Pick the right one and a friend who "doesn't do games" becomes the person texting you on Tuesday to ask when the next night is.
 
 This list has ten of them. Each entry says who it is for, how long it takes, and what it leads to. That last part matters. A gateway is only a gateway if there is somewhere on the other side.
 
@@ -143,4 +143,4 @@ Yes, with a caveat. It is longer and luckier than newer options, so it suits gro
 
 ## Get the next game first
 
-The Ludarium newsletter sends ideas for what to play and who to play it with. Subscribers hear first about new picks, the Indianapolis lounge, and the games we would put on every table. The game is the reason. The people are the point. Subscribe, and bring one non-gamer to the next night.
+The Ludarium newsletter sends ideas for what to play and who to play it with. Subscribers hear first about new picks, the Indianapolis lounge, and the games we would put on every table. The game is the reason. The people are the point. Subscribe, and bring one friend who doesn't play yet to the next night.

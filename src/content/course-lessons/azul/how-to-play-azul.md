@@ -1,6 +1,6 @@
 ---
-title: "How to Play Azul"
-description: "How to play Azul: setup, taking tiles from the factory displays, filling pattern lines, wall scoring, the floor line, and the end bonuses, in plain words."
+title: "How to Play Azul: Rules, Setup, and Scoring"
+description: "How to play Azul, with the rules in plain words: setup, taking tiles from the factories, filling pattern lines, wall scoring, the floor line, and end bonuses."
 course: azul
 order: 1
 level: 0
@@ -11,7 +11,7 @@ oneIdea: "Every round has the same shape: everyone takes tiles until the table i
 tryThis: "In your first game, score every wall tile out loud, row first and then column, until everyone at the table can do it without help."
 nextTeaser: "Next, the ten-minute teach. You will get a host script in the order you would say it, so the whole table learns at once."
 ---
-If Azul just came out of its wrapping paper, you are holding one of the best-looking games on any shelf. The good news: the rules are as tidy as the box. You can learn them tonight and play before the coffee gets cold.
+If Azul just came out of its wrapping paper, you are holding one of the best-looking games on any shelf. The good news: the Azul rules are as tidy as the box. You can learn them tonight and play before the coffee gets cold.
 
 You are a tile artist decorating a palace wall in Portugal. Each round you take colored tiles from shared displays, line them up on your board, and move finished lines onto your wall. Tiles that touch other tiles score more. Tiles you take but cannot use fall on the floor and cost you points.
 
@@ -56,7 +56,7 @@ Then put the tiles you took into **one** of your pattern lines:
 
 The phase ends when every factory display and the center are empty.
 
-## Wall-tiling: scoring
+## Azul scoring rules: tiling the wall
 
 Everyone does this at the same time. Go through your pattern lines from top to bottom. For each **complete** line, move its rightmost tile to the space of the same color in that row of your wall, and score it right away. Then move the other tiles from that line into the box lid.
 

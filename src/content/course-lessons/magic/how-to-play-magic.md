@@ -1,5 +1,5 @@
 ---
-title: "How to Play Magic: How a Turn Works"
+title: "How to Play Magic: The Gathering, Turn by Turn"
 description: "How to play Magic: The Gathering, one turn at a time: the play area, opening hands and mulligans, lands and mana, the five phases, combat, and how games end."
 course: magic
 order: 2
@@ -11,9 +11,9 @@ oneIdea: "Every turn runs through the same five phases in the same order. Learn 
 tryThis: "In your next game, say each phase out loud on your turn: untap, upkeep, draw, main, combat, main, end. Stop once nobody at the table needs the reminder."
 nextTeaser: "Next, reading a card: every part of a Magic card, labeled on a card we made up for this course."
 ---
-Magic looks complicated from the outside because there are tens of thousands of different cards. The structure underneath them is small. Two players, 20 life each, and a turn that runs the same way every time. Cards bend those rules in specific ways, and each card tells you how.
+Magic: The Gathering looks complicated from the outside because there are tens of thousands of different cards. The structure underneath them is small. Two players, 20 life each, and a turn that runs the same way every time. Cards bend those rules in specific ways, and each card tells you how.
 
-This lesson covers a two-player game, checked against the Comprehensive Rules effective September 25, 2026. Commander changes a few numbers, and the [store night lesson](/academy/magic/first-friday-night-magic/) covers those.
+This lesson shows how to play MTG in a two-player game, checked against the Comprehensive Rules effective September 25, 2026. Commander changes a few numbers, and the [store night lesson](/academy/magic/first-friday-night-magic/) covers those.
 
 ## The play area
 
@@ -48,7 +48,7 @@ Lands make mana, and mana pays for almost everything else.
 - A card's **mana cost** sits in its top right corner. Colored symbols need mana of that color. Number symbols are generic, and any mana pays them.
 - Unused mana empties at the end of each step and phase. You cannot save it for later.
 
-## The five phases
+## How to play an MTG turn: the five phases
 
 Every turn has five phases, always in this order.
 

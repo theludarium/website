@@ -1,6 +1,6 @@
 ---
-title: "How to Play Ticket to Ride"
-description: "How to play Ticket to Ride: setup, the three turn options, claiming routes, locomotives, destination tickets, the final round, and scoring, all in plain words."
+title: "How to Play Ticket to Ride: Rules, Setup, and Scoring"
+description: "How to play Ticket to Ride, with the rules in plain words: setup, the three turn options, claiming routes, locomotives, tickets, the final round, and scoring."
 course: ticket-to-ride
 order: 1
 level: 0
@@ -13,7 +13,7 @@ nextTeaser: "Next, the ten-minute teach. You will get a host script in the order
 ---
 Ticket to Ride is a game about building railroads across North America and quietly hoping nobody takes the one route you need. You collect colored train cards, spend them to claim routes between cities, and try to connect the cities on your secret tickets. It plays 2 to 5 people in about an hour, and the rules fit on a napkin.
 
-This lesson follows the current Days of Wonder rulebook, the 2025 edition of the original USA map. Older boxes differ in one setup detail, noted below.
+This lesson teaches the Ticket to Ride rules from the current Days of Wonder rulebook, the 2025 edition of the original USA map. Older boxes differ in one setup detail, noted below.
 
 **Prefer to watch first?** Watch It Played teaches the rules on video in its <a href="https://www.youtube.com/watch?v=4JhFhyvGdik" target="_blank" rel="noopener">Ticket to Ride How To Play video</a>. Watch it, then come back here for the rules in writing and the rest of the course.
 
@@ -35,7 +35,7 @@ A board with a map of North America and a scoring track around its edge. Trains 
 
 **Older boxes:** rulebooks printed before 2025 deal 3 tickets at the start, and you keep at least 2. Use the rule in your box.
 
-## What do you do on your turn?
+## What do the Ticket to Ride rules let you do on a turn?
 
 Exactly one of three things.
 

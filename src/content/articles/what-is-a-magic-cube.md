@@ -1,5 +1,5 @@
 ---
-title: "What Is a Magic Cube? The Format Where Nobody Buys Packs"
+title: "What Is an MTG Cube? Magic Where Nobody Buys Packs"
 description: "An MTG cube is a hand-picked set of cards you draft again and again. Here's how it works, why players love it, and how to try one without buying packs."
 pubDate: 2026-10-19
 category: Magic & Cube
@@ -10,7 +10,7 @@ An MTG cube is a curated collection of Magic: The Gathering cards, usually 360 t
 
 If you have played Magic once at a kitchen table and bounced off the cost of keeping up, cube is the version of the game built for you. It is also, in my experience, the best thing that has happened to Magic as a social activity.
 
-## How does a Magic cube actually work?
+## How does an MTG cube work?
 
 Picture a long card box holding one copy of each card the owner has chosen. That box is the cube. On game night, the owner shuffles the whole thing and deals out "packs" of fifteen random cards from it.
 

@@ -1,6 +1,6 @@
 ---
-title: "How to Play Disney Lorcana: How a Turn Works"
-description: "How to play Disney Lorcana: setup, the play area, the inkwell, questing for lore, challenging, songs, items, locations, ink drops, and the race to 20 lore."
+title: "How to Play Disney Lorcana: Rules and How a Turn Works"
+description: "How to play Disney Lorcana, with the rules in plain words: setup, the inkwell, questing for lore, challenging, songs, items, locations, and the race to 20 lore."
 course: lorcana
 order: 2
 level: 0
@@ -13,7 +13,7 @@ nextTeaser: "Next, how to read a card: cost, ink type, Strength, Willpower, lore
 ---
 Disney Lorcana is a race. You and your opponent each lead a band of Disney characters, called glimmers, and send them on quests to gather lore. The first player to 20 lore wins. Along the way, characters can challenge each other, songs get sung, and the card you put in your inkwell today decides what you can play tomorrow.
 
-This lesson covers the rules as of Hyperia City, in our own words, checked against the official Comprehensive Rules.
+This lesson covers the Lorcana rules as of Hyperia City, in our own words, checked against the official Comprehensive Rules.
 
 ## How do you win?
 
@@ -51,7 +51,7 @@ Three quick steps: **ready, set, draw.**
 - **Set.** Characters you played last turn are now "dry" and can act. If you have locations with a lore value, gain that lore now.
 - **Draw.** Draw 1 card. The player who goes first skips this draw on the very first turn of the game.
 
-## What can you do on your turn?
+## What do the Lorcana rules let you do on a turn?
 
 After that, do any of these in any order, as often as you can pay for them, with one exception.
 
