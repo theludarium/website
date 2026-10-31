@@ -106,6 +106,8 @@ That last line is the honesty check. If your read and the feedback disagree, tru
 
 Most readers will never design a game. But everyone who hosts one is running a small playtest every time. Which games made the table loud? When did someone check out? Hosts who notice these things pick better games for their group, and groups with a thoughtful host keep meeting. Watch the people, not the box.
 
+Playtesting is one step of many. Our guide on [how to make your own board game](/articles/how-to-make-your-own-board-game/) walks the whole path from idea to publisher.
+
 ## FAQ
 
 ### How many times should you playtest a board game?

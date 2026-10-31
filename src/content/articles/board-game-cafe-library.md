@@ -81,7 +81,7 @@ Color-code spines or add a sticker system for play time and player count, so a g
 
 Sparingly. New releases are expensive, unproven, and often reviewed by hobbyists whose taste runs heavier than your average table. Let a game prove itself for six months before buying it for the shelf, unless a regular is asking for it by name.
 
-The exception is a true breakout, the kind of game that a non-gamer has heard of. Wingspan was that for a while; Codenames before it. When the general public is asking, buy two copies.
+The exception is a true breakout, the kind of game that people who don't play have heard of. Wingspan was that for a while; Codenames before it. When the general public is asking, buy two copies.
 
 The rest of the time, the best use of your acquisition budget is replacing worn copies of games people already love. A pristine Ticket to Ride will be played more than any new release this year.
 

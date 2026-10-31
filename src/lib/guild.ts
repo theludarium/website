@@ -50,14 +50,14 @@ export const MODULES: GuildModule[] = [
   { module: 4, name: 'Play', label: 'The first game', outcome: 'Run a first game where the newcomer makes a good move early and nobody gets crushed.' },
   { module: 5, name: 'Close', label: 'After the game', outcome: 'Leave every game night with the next one on the calendar.' },
   { module: 6, name: 'The Field Guide', label: 'Special situations', outcome: 'Teach kids, cooperative games, party games, heavy games, mixed tables, and games you have never played.' },
-  { module: 7, name: 'The Capstone', label: 'Certification', outcome: 'Teach one non-gamer, score your own teach, and earn the title Expert Game Guide.' },
+  { module: 7, name: 'The Capstone', label: 'Certification', outcome: 'Teach one new player, score your own teach, and earn the title Expert Game Guide.' },
 ];
 
 /** Ranks a student passes on the way to certification. The last one is earned only through the capstone. */
 export const RANKS = [
   { name: 'Apprentice', after: 'Modules 0 to 2', text: 'You know why teaches fail and you can prepare one that will not.' },
   { name: 'Journeyman', after: 'Modules 3 to 5', text: 'You can teach, run, and close a first game from start to finish.' },
-  { name: 'Expert Game Guide', after: 'Modules 6 and 7, and the capstone', text: 'You have taught a non-gamer who said yes to the next game, and the Guild has reviewed it.' },
+  { name: 'Expert Game Guide', after: 'Modules 6 and 7, and the capstone', text: 'You have taught a new player who said yes to the next game, and the Guild has reviewed it.' },
 ];
 
 /** The five principles under every lesson. */

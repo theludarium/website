@@ -79,6 +79,8 @@ A few ways to keep it on the right side:
 
 The [U.S. Surgeon General's 2023 advisory](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf) on loneliness described social connection as associated with better health across a range of outcomes, from heart disease to depression to longevity. A solo hobby does not undermine that. A solo hobby that crowds out all other contact might. Most people can tell which one they have.
 
+If you want a story more than a puzzle, try a [solo RPG](/articles/solo-rpg/). [Starforged](/articles/starforged-beginners-guide/) and [Ironsworn](/articles/ironsworn-rpg/) are both built to be played alone.
+
 ## FAQ
 
 ### What is the best solo board game?

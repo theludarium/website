@@ -4,7 +4,7 @@ The Guild is the Academy's skills program on how to teach a board game. Every ot
 
 ## Who it is for
 
-The Ludarium reader who always wants to play more and keeps having to convince non-gamers to play: a partner, parents, in-laws, coworkers, kids, the friend who "doesn't really do board games." Non-gamers have a much lower tolerance for the pain of learning a game. If the reader learns to teach well, more people want to play, which is what the reader wants.
+The Ludarium reader who always wants to play more and keeps having to convince new players to play: a partner, parents, in-laws, coworkers, kids, the friend who "doesn't really do board games." New players have a much lower tolerance for the pain of learning a game. If the reader learns to teach well, more people want to play, which is what the reader wants.
 
 **The one score:** the Second Game. Did the newcomer say yes to playing again? Every lesson serves that score.
 
@@ -41,7 +41,7 @@ Use these names exactly. Lessons refer back to them often, so a student hears th
 
 - **Apprentice** after Modules 0 to 2.
 - **Journeyman** after Modules 3 to 5.
-- **Expert Game Guide** after Modules 6 and 7 and an accepted capstone: the student teaches one non-gamer, fills in the Self-Assessment and the newcomer's Feedback Card, and submits them. Levi reviews it and sends the certificate. The title is earned only when the newcomer agreed to a second game.
+- **Expert Game Guide** after Modules 6 and 7 and an accepted capstone: the student teaches one new player, fills in the Self-Assessment and the newcomer's Feedback Card, and submits them. Levi reviews it and sends the certificate. The title is earned only when the newcomer agreed to a second game.
 
 The first two ranks are milestones the student claims; only the last is reviewed. Do not promise a badge, a roster, or anything else that does not exist yet.
 
@@ -76,7 +76,7 @@ The body starts with an opening paragraph (no heading), then three to five `##` 
 - Warm, smart, a little playful. Plain words, short sentences. Inviting to newcomers, credible to hobbyists, never gatekeepy. Speak to the reader as "you."
 - **No em dashes or en dashes anywhere.** Use commas, colons, periods, or "to" for ranges.
 - Never use: genuinely, honestly, straightforward, delve, elevate, game-changer, unlock, journey, ultimate, must-have, "dive in."
-- **Never sneer at non-gamers.** They are the guests of honor. The problem is always the teach, never the learner.
+- **Never sneer at new players.** They are the guests of honor. The problem is always the teach, never the learner.
 - **No invented experience.** No "at our table," "when I taught," or any first-person story. Scenarios are written as "picture this" or about "you." Where Levi's own story would help, leave `<!-- AT OUR TABLE: what Levi should add, in one line -->`. Use at most one per lesson, and only where it adds something.
 - **Ludarium events do not exist yet.** No Ludarium game nights or open lounge. Point to `/lounges/indianapolis/` only as "coming."
 - **Rules accuracy.** Every rule you state about a named game must match its current rulebook. The Academy's game courses in `src/content/course-lessons/<game>/` and `src/content/courses/<game>.yaml` were checked against the official rules: use them as your source and link to them. When you cannot confirm a rule, phrase it generally or leave `<!-- VERIFY: what to check -->`.
@@ -99,7 +99,7 @@ Each row: the outcome, what to teach, the worked example, and the drill. Write t
 | # | Slug | Title | Outcome | Teach this | Worked example | Drill |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | `the-second-game` | The Second Game Is the Only Score | Judge a teach by whether the newcomer would play again, not by rules accuracy | The newcomer decides during your teach whether games are for them. "Did they understand?" is the wrong question. Introduce the program: five moves, five principles, the ranks | A Catan night with perfect rules and no second game | Grade your last three teaches on the Second Game |
-| 2 | `the-newcomers-ledger` | The Newcomer's Ledger | Name the costs a non-gamer pays while learning | Feeling lost, feeling stupid, the rules dump, jargon, public correction, the blowout, your impatience. The fun has to clear the cost | A twenty-minute Wingspan rules dump, told from the in-law's chair | Write the three things your most reluctant friend dislikes about learning games |
+| 2 | `the-newcomers-ledger` | The Newcomer's Ledger | Name the costs a new player pays while learning | Feeling lost, feeling stupid, the rules dump, jargon, public correction, the blowout, your impatience. The fun has to clear the cost | A twenty-minute Wingspan rules dump, told from the in-law's chair | Write the three things your most reluctant friend dislikes about learning games |
 | 3 | `host-not-referee` | You Are the Host, Not the Referee | Spot your own curse of knowledge | Once you know a game you cannot imagine not knowing it, so you over-explain rules and under-explain the point. The job is to hand over confidence | Ticket to Ride explained in sixty seconds into a voice memo | Record yourself explaining a game in one minute and count the hobby words |
 
 ### Module 1: Pick (Choose the game)
@@ -169,7 +169,7 @@ Each lesson stands alone: students read the one they need the night they need it
 | --- | --- | --- | --- | --- | --- | --- |
 | 33 | `the-teach-library` | The Teach Library | Teach a gateway game from a finished script | How to use and edit a teach sheet, and how to write your own from the script. Tool: `teach-library` | Teaching Ticket to Ride from its Ludarium teach sheet | Teach one game from a sheet, then edit the sheet |
 | 34 | `score-your-teach` | Score Your Teach | Score your own teach on ten lines | Hook, goal, turn demo, gotcha, holding back, pace, checks, open round, blowout control, close. One to five each. Tool: `self-assessment` | A scored Ticket to Ride teach | Score yourself after your next teach |
-| 35 | `the-capstone` | The Capstone: Earn the Title | Teach one non-gamer and report back | Teach a game to one person who does not play. Fill in the Self-Assessment and the Feedback Card and submit both. The title is earned when they agree to play again. Tool: `capstone` | Walking through a submission | Submit the capstone |
+| 35 | `the-capstone` | The Capstone: Earn the Title | Teach one new player and report back | Teach a game to one person who does not play. Fill in the Self-Assessment and the Feedback Card and submit both. The title is earned when they agree to play again. Tool: `capstone` | Walking through a submission | Submit the capstone |
 
 ## Before you hand in
 

@@ -104,6 +104,8 @@ Resist the urge to add. Nearly every first prototype is too big. The right secon
 - **Testing only with yourself.** A solo test finds broken math; only other people find broken rules.
 - **Arguing with the playtest.** If three people played it wrong, the rules are wrong.
 
+A prototype is one step of many. Our guide on [how to make your own board game](/articles/how-to-make-your-own-board-game/) walks the whole path from idea to publisher.
+
 ## FAQ
 
 ### How do you prototype a board game cheaply?

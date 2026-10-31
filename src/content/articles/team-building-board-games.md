@@ -93,6 +93,8 @@ Picking the game is half the job. The other half is the room.
 
 A game night with mixed tables, a couple of short games, and snacks that do not stain cards will do more for a team than most structured programs. The game is the reason. The people are the point.
 
+Need something shorter or more structured? Try one of these [team building icebreakers](/articles/team-building-icebreakers/), or run [escape room team building](/articles/escape-room-team-building/) at your own tables.
+
 ## FAQ
 
 ### What is the best team building board game for a large group?

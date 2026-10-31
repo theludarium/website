@@ -8,7 +8,7 @@ pubDate: 2026-10-26
 draft: false
 oneIdea: "A teach is not judged by how much the newcomer understood. It is judged by one thing: whether they say yes to the next game."
 drill: "Think back to the last three times you taught a game to someone new. For each one, write down a single word: did they ask to play again, agree when you asked, or find a reason not to?"
-nextTeaser: "Next, you sit in the newcomer's chair. Lesson two lays out the costs a non-gamer pays while you teach, and why most of them have nothing to do with the rules."
+nextTeaser: "Next, you sit in the newcomer's chair. Lesson two lays out the costs a new player pays while you teach, and why most of them have nothing to do with the rules."
 check:
   - question: "You explained every rule of a game correctly, and your guest understood all of it. They say they had fun but never want to play again. How did the teach go?"
     options: ["Well: the rules were right", "Badly: it missed the only score that matters", "It depends on who won"]
@@ -55,7 +55,7 @@ When you keep score on the Second Game, your choices change. You leave rare rule
 
 ## How this program is built
 
-The Guild of Game Guides follows a game night from start to finish. After this mindset module come five moves: **Pick** the right game, **Prep** before anyone arrives, **Teach** in five minutes, **Play** the first game as part of the teach, and **Close** with the next game on the calendar. Then a field guide for special situations, and a capstone where you teach one non-gamer and earn the title Expert Game Guide. Along the way you can claim two ranks: Apprentice after Module 2, and Journeyman after Module 5.
+The Guild of Game Guides follows a game night from start to finish. After this mindset module come five moves: **Pick** the right game, **Prep** before anyone arrives, **Teach** in five minutes, **Play** the first game as part of the teach, and **Close** with the next game on the calendar. Then a field guide for special situations, and a capstone where you teach one new player and earn the title Expert Game Guide. Along the way you can claim two ranks: Apprentice after Module 2, and Journeyman after Module 5.
 
 Under every lesson sit five principles you will hear again and again: **Frame before facts. Just in time, not just in case. First win early. Protect dignity. End on a high.** Each one is a way of winning the Second Game.
 

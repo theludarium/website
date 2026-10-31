@@ -54,7 +54,7 @@ Keep this in a notes app, a spreadsheet, or a pocket notebook. The format does n
 | Date | Game | Mechanic | Players | Real length | Played with | Rating | Why |
 |---|---|---|---|---|---|---|---|
 | Oct 3 | Ticket to Ride | Route building, set collection | 4 | 70 min | Beth, Sam, Rae | 4 | Easy teach, tense ending, Beth asked to play again |
-| Oct 10 | Codenames | Word association, teams | 8 | 25 min | Party at Sam's | 5 | Whole room laughing, works with non-gamers |
+| Oct 10 | Codenames | Word association, teams | 8 | 25 min | Party at Sam's | 5 | Whole room laughing, works with new players |
 | Oct 17 | Terraforming Mars | Engine building, card drafting | 3 | 3 hrs | Sam, Rae | 3 | Loved the engine, too long for a weeknight |
 | Oct 24 | Jaipur | Set collection, push your luck | 2 | 20 min | Beth | 4 | Perfect after the kids are down |
 

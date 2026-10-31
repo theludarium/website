@@ -109,6 +109,8 @@ Families looking for games with African roots to play during Kwanzaa, which runs
 
 For other quiet two-player options, our guide to [two-player cooperative board games](/articles/two-player-cooperative-board-games/) has more. And if a grandparent learned a different set of mancala rules growing up, play theirs. That is how these games have always traveled. The game is the reason. The people are the point.
 
+If you like old games that are still played everywhere, [backgammon](/articles/how-to-play-backgammon/) is another two-player classic worth learning.
+
 ## FAQ
 
 ### Which way do you move in mancala?

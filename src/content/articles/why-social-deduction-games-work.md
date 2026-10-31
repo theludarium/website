@@ -84,6 +84,8 @@ For a group that has never played one, the order most hosts land on:
 
 Whatever you pick, teach the roles before you deal them. Players who learn their role and the rules at the same time spend the first game confused instead of lying. The approach in [The Five-Minute Teach](/articles/how-to-teach-a-board-game/) applies here with one twist: explain how each team wins first, then the roles, then the exceptions.
 
+Ready to pick one? Our ranked list of [the best social deduction games](/articles/best-social-deduction-games/) sorts twelve of them by group size and style.
+
 ## FAQ
 
 ### What is the difference between social deduction and hidden role games?

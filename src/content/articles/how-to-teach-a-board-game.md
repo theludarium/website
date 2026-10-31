@@ -38,6 +38,8 @@ Let everyone play with their cards face up for the first round, or call it a pra
 
 The goal of a teach is not perfect understanding. It is getting everyone playing, curious, and comfortable asking questions. The rest comes with the second game.
 
+Learning a new game yourself first? Our guide on [how to learn any board game from the rulebook](/articles/how-to-learn-a-board-game/) gets you ready to teach it.
+
 ## Go further
 
 Every step above is a lesson in [The Ludarium Guild of Game Guides](/academy/guild/), our free training program, with a printable [teach script](/academy/guild/write-your-teach-script/), a [Gotcha Index](/academy/guild/toolkit/gotcha-index/) of the rule new players miss in popular games, and finished [one-page teach sheets](/academy/guild/toolkit/teach-library/). Start with [lesson one](/academy/guild/the-second-game/).

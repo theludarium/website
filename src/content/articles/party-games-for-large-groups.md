@@ -132,6 +132,8 @@ A few popular choices fail at eight or more:
 
 And one judgment call: Cards Against Humanity. It handles the player count, but the laughs are prewritten and the game runs out of surprises by the third round. Our [card game list](/articles/adult-card-games/) has options that use the same crowd better.
 
+If your crowd loves bluffing, see [the best social deduction games](/articles/best-social-deduction-games/). For smaller nights, our list of [games to play with friends](/articles/games-to-play-with-friends/) covers every group size.
+
 ## FAQ
 
 ### What is the best party game for 10 people?

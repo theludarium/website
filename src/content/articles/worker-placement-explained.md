@@ -95,6 +95,8 @@ After that, the branches:
 - Want a strong theme and a lighter touch? Viticulture.
 - Want to see the mechanic bent in strange directions? Tzolk'in, where the board itself rotates.
 
+Worker placement is one of many mechanics. Our [field guide to board game mechanics](/articles/board-game-mechanics-explained/) explains sixteen of them, each with a good first game.
+
 ## FAQ
 
 ### What is a worker placement board game?

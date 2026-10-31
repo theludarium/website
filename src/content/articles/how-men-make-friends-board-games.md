@@ -77,6 +77,8 @@ That is the goal. It is also why the [Harvard Study of Adult Development](https:
 
 You do not have to become a different kind of man to get there. You just have to sit next to someone and play.
 
+For the full method, whoever you are and wherever you live, see our guide on [how to make friends as an adult](/articles/how-to-make-friends-as-an-adult/).
+
 ## FAQ
 
 ### How do adult men make friends if they are introverted?

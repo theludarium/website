@@ -1,6 +1,6 @@
 ---
 title: "Build a Ladder, Not a List"
-description: "How to get a non-gamer into board games over weeks: build a four-game ladder where each rung adds one new idea, from Flip 7 to Ticket to Ride to Wingspan."
+description: "How to get a new player into board games over weeks: build a four-game ladder where each rung adds one new idea, from Flip 7 to Ticket to Ride to Wingspan."
 module: 1
 order: 6
 emailSubject: "Four games, one new idea each"

@@ -161,7 +161,7 @@ Reply with one title and, if you want, one sentence about the table. We read the
 
 If you are still looking for your game, or for one to hand a friend who thinks they do not like board games, this article is the list we send most often.
 
-Read: 10 Gateway Board Games That Turn Non-Gamers Into Regulars
+Read: 10 Gateway Games for Friends Who Don't Play Yet
 /articles/gateway-board-games
 
 From here on, you get one email a week, on Thursday morning. It is short, four sections, same shape every time:

@@ -1,6 +1,6 @@
 ---
 title: "Match the Game to the Person"
-description: "How to choose a board game for a non-gamer: three questions that turn what a person already loves into a three-game shortlist that beats any gateway game list."
+description: "How to choose a board game for a new player: three questions that turn what a person already loves into a three-game shortlist that beats any gateway game list."
 module: 1
 order: 4
 emailSubject: "The crossword lover and the poker player"
@@ -21,7 +21,7 @@ check:
   - question: "What should you ask first when you choose a game for someone?"
     options: ["What games have they played?", "What do they already enjoy, game or not?", "How long can they sit still?"]
     answer: B
-    explain: "Most non-gamers have played few games, so the first question comes up empty. Everyone enjoys something, and that is where the match starts."
+    explain: "Most new players have played few games, so the first question comes up empty. Everyone enjoys something, and that is where the match starts."
 games: [codenames, azul, flip-7]
 ---
 
@@ -33,7 +33,7 @@ The pick is the first move of the five, and it does more work than any teach. A 
 
 Before you reach for the shelf, answer three questions about the person, not the game.
 
-**1. What do they already enjoy?** Not which games. Most non-gamers have played Monopoly, Uno, and not much else, and the answer will tell you little. Ask what they do for fun. Crosswords, sudoku, poker night, trivia, gardening, true crime podcasts, arguing about sports. Each of those is a feeling they already chase: the click of a solved puzzle, the thrill of a risk, the joy of being right in front of friends. Board games deliver all of those feelings. Your job is to find the one that matches.
+**1. What do they already enjoy?** Not which games. Most new players have played Monopoly, Uno, and not much else, and the answer will tell you little. Ask what they do for fun. Crosswords, sudoku, poker night, trivia, gardening, true crime podcasts, arguing about sports. Each of those is a feeling they already chase: the click of a solved puzzle, the thrill of a risk, the joy of being right in front of friends. Board games deliver all of those feelings. Your job is to find the one that matches.
 
 **2. How much time and attention do they have tonight?** Not in general. Tonight. A Friday after a long week is not a lazy Sunday. Someone with a toddler on their lap is not someone with a glass of wine and nowhere to be. When in doubt, go shorter. A short game that ends while people still want more is a better first game than a long one that ends while people are checking the time.
 

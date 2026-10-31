@@ -120,6 +120,8 @@ Three things.
 
 That is all. Themes are not more work than a normal game night. They are less, because the hard decision was made in advance.
 
+Want a whole evening built around one theme? See our [murder mystery party ideas](/articles/murder-mystery-party-ideas/).
+
 ## FAQ
 
 ### What is a good theme for a first game night?
