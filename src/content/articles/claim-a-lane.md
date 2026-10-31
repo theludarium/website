@@ -19,12 +19,12 @@ Claim a Lane means each member of a play group takes responsibility for one slic
 
 The lanes we use are:
 
-- **Strategy / euro:** the meatier games for the long evening. Catan, Wingspan, 7 Wonders, Terraforming Mars.
-- **Party:** six or more players, loud, easy to teach. Codenames, Just One, Wavelength.
-- **Co-op:** everyone on the same side. Pandemic, The Crew, Spirit Island.
-- **2-player:** for the night only two people show up. Patchwork, Jaipur, Hive.
-- **Campaign / legacy:** one game played across many sessions. Gloomhaven, Sherlock Holmes Consulting Detective.
-- **Filler:** under twenty minutes, pulled out while people arrive or as a closer. Sushi Go!, Love Letter.
+- **Strategy / euro:** the meatier games for the long evening. [Catan](https://link.amazon/B0h8BDGR2), [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), [7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20), [Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20).
+- **Party:** six or more players, loud, easy to teach. [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20), [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20).
+- **Co-op:** everyone on the same side. Pandemic, [The Crew](https://link.amazon/B099S9RKf), [Spirit Island](https://www.amazon.com/dp/B01MUHP51S?tag=cubecommonw0a-20).
+- **2-player:** for the night only two people show up. Patchwork, [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20), [Hive](https://www.amazon.com/dp/B000EN5ZLW?tag=cubecommonw0a-20).
+- **Campaign / legacy:** one game played across many sessions. [Gloomhaven](https://www.amazon.com/dp/B01LZXVN4P?tag=cubecommonw0a-20), [Sherlock Holmes Consulting Detective](https://www.amazon.com/dp/2370990074?tag=cubecommonw0a-20).
+- **Filler:** under twenty minutes, pulled out while people arrive or as a closer. [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20).
 
 These lanes line up with the roles on a starter shelf: gateway, filler, two-player, party, co-op, stretch. The difference is that a starter shelf is one person covering all the roles with five or six games. Claim a Lane is four people covering all the roles with twenty.
 
@@ -42,10 +42,10 @@ Here is an illustration of how it plays out. Four friends, call them A, B, C, an
 
 | Lane | Owner | Games (illustration) | Player counts covered |
 |---|---|---|---|
-| Strategy / euro | A | Catan, Wingspan, 7 Wonders, Terraforming Mars, Root | 2 to 7 |
+| Strategy / euro | A | Catan, Wingspan, 7 Wonders, Terraforming Mars, [Root](https://www.amazon.com/dp/B07F454YF3?tag=cubecommonw0a-20) | 2 to 7 |
 | Party | B | Codenames, Just One, Wavelength, plus two more party titles | 4 to 12+ |
-| Co-op | C | Pandemic, The Crew, Spirit Island, plus two more co-ops | 1 to 5 |
-| 2-player and filler | D | Patchwork, Jaipur, Hive, Sushi Go!, Love Letter | 2 to 8 |
+| Co-op | C | [Pandemic](https://link.amazon/B0eHP5GCg), The Crew, Spirit Island, plus two more co-ops | 1 to 5 |
+| 2-player and filler | D | [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20), Jaipur, Hive, Sushi Go!, Love Letter | 2 to 8 |
 | Campaign / legacy | Shared or rotating | Gloomhaven (bought as a group gift) | 1 to 4 |
 
 Twenty-one games, every player count from two to a dozen covered, and not a single duplicate. Compare that to the uncoordinated version where each of those four friends buys Catan, Codenames, Pandemic, and two other hits: maybe eight distinct games and a dozen repeats, for the same money. We run that comparison in full in [Two Groups, Two Years, Same Money](/articles/two-groups-two-years/).
@@ -70,7 +70,7 @@ A few practical rules for the conversation:
 
 ## What about games that do not fit a lane?
 
-Some games straddle lanes. Is The Crew a co-op or a filler? Is Azul a strategy game or a gateway? Do not overthink it. Put it in whichever lane's owner wants it most, and move on. The lanes are there to spread purchases out, not to classify the universe.
+Some games straddle lanes. Is The Crew a co-op or a filler? Is [Azul](https://link.amazon/B0bGRYHex) a strategy game or a gateway? Do not overthink it. Put it in whichever lane's owner wants it most, and move on. The lanes are there to spread purchases out, not to classify the universe.
 
 Expansions follow the base game. If the strategy owner has Wingspan and the group wants an expansion, the expansion goes to the strategy owner, ideally as a gift from the rest of the group. That is the whole idea behind [Gifting as Library Strategy](/articles/gifting-as-library-strategy/).
 

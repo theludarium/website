@@ -6,7 +6,7 @@ category: Game Guides
 tags: ["eurogame vs ameritrash", "what is a eurogame", "Ameritrash meaning", "German style board games", "thematic board games", "hybrid board games", "Glossary"]
 draft: false
 ---
-The eurogame vs Ameritrash debate is the oldest argument in modern board gaming, and also the least useful. A eurogame is, roughly, a game built around efficient decisions, indirect competition, and low luck: think Catan, Agricola, or Puerto Rico. "Ameritrash" is the tongue-in-cheek label for games built around theme, direct conflict, dice, and drama: think Risk, Arkham Horror, or Twilight Imperium. Most games released today sit somewhere between the two.
+The eurogame vs Ameritrash debate is the oldest argument in modern board gaming, and also the least useful. A eurogame is, roughly, a game built around efficient decisions, indirect competition, and low luck: think [Catan](https://link.amazon/B0h8BDGR2), [Agricola](https://www.amazon.com/dp/B07JZFN8WS?tag=cubecommonw0a-20), or [Puerto Rico](https://www.amazon.com/dp/B00008URUT?tag=cubecommonw0a-20). "Ameritrash" is the tongue-in-cheek label for games built around theme, direct conflict, dice, and drama: think [Risk](https://www.amazon.com/dp/B01HEQHKNM?tag=cubecommonw0a-20), [Arkham Horror](https://www.amazon.com/dp/B07G3Y95R9?tag=cubecommonw0a-20), or [Twilight Imperium](https://www.amazon.com/dp/B074YPSTRP?tag=cubecommonw0a-20). Most games released today sit somewhere between the two.
 
 This article explains what each label means, where the words came from, how to spot the traits at the table, and why the distinction matters less every year while still being worth knowing.
 
@@ -22,7 +22,7 @@ The classic eurogame traits:
 - **Economy over story.** You are converting wood to houses to points. The theme is a coat of paint on a machine, and sometimes the paint is thin.
 - **Shorter, tighter play.** Sixty to ninety minutes is typical, with a clear arc and little downtime.
 
-Catan is the gateway example: trading and placement matter far more than the dice, nobody gets knocked out, and the game ends when someone reaches ten points. <!-- AFFILIATE --> Ticket to Ride, Carcassonne, Azul, and Wingspan all live comfortably in the euro camp.
+Catan is the gateway example: trading and placement matter far more than the dice, nobody gets knocked out, and the game ends when someone reaches ten points. [Ticket to Ride](https://link.amazon/B0jh8RB7f), [Carcassonne](https://link.amazon/B012Rr5ed), [Azul](https://link.amazon/B0bGRYHex), and [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) all live comfortably in the euro camp.
 
 The term "German-style game" was the original name. "Eurogame" took over as designers from France, Italy, and elsewhere joined in, and because it sounded less like a nationality and more like a genre.
 
@@ -38,7 +38,7 @@ The classic Ameritrash traits:
 - **Plastic and scale.** Miniatures, large boards, long boxes, and long playtimes. Four hours is not unusual.
 - **Asymmetry.** Players often have unique powers, factions, or characters.
 
-Risk is the common ancestor. Axis & Allies, Talisman, Arkham Horror, Twilight Imperium, and Nemesis carry the line forward. <!-- AFFILIATE --> Many of these games have "attack" on the card and a small army on the table.
+Risk is the common ancestor. [Axis & Allies](https://www.amazon.com/dp/B08TPWS31B?tag=cubecommonw0a-20), [Talisman](https://www.amazon.com/dp/B0CS7B7BQ1?tag=cubecommonw0a-20), Arkham Horror, Twilight Imperium, and [Nemesis](https://www.amazon.com/dp/B07L7HYWRW?tag=cubecommonw0a-20) carry the line forward. Many of these games have "attack" on the card and a small army on the table.
 
 Some players prefer "thematic game" or "American-style game" as neutral alternatives. Those are fine, and more polite, but they lack the bite that made the original label memorable.
 
@@ -76,11 +76,11 @@ Designers on both sides spent twenty years stealing each other's best ideas. Eur
 
 The results are everywhere:
 
-- **Scythe** has miniatures, asymmetric factions, and a map full of mechs, and almost no fighting actually happens because the economics punish it. Euro bones in an Ameritrash body. <!-- AFFILIATE -->
-- **Blood Rage** is a Viking brawl with drafting, area majority, and a tight scoring engine. It plays like a euro that lets you hit people.
-- **Pandemic** is cooperative and card-driven, so the euro-vs-American axis barely applies. Yet it has a strong theme, dramatic losses, and a dice-free design.
-- **Gloomhaven** is a dungeon crawl with no dice at all. Every attack is a card play with a modifier deck you can tune.
-- **Root** gives each faction a completely different rulebook and puts them on a map to fight, but the fights are governed by a euro designer's sense of balance.
+- **[Scythe](https://www.amazon.com/dp/B01IPUGYK6?tag=cubecommonw0a-20)** has miniatures, asymmetric factions, and a map full of mechs, and almost no fighting actually happens because the economics punish it. Euro bones in an Ameritrash body.
+- **[Blood Rage](https://www.amazon.com/dp/B013TK5DFO?tag=cubecommonw0a-20)** is a Viking brawl with drafting, area majority, and a tight scoring engine. It plays like a euro that lets you hit people.
+- **[Pandemic](https://link.amazon/B0eHP5GCg)** is cooperative and card-driven, so the euro-vs-American axis barely applies. Yet it has a strong theme, dramatic losses, and a dice-free design.
+- **[Gloomhaven](https://www.amazon.com/dp/B01LZXVN4P?tag=cubecommonw0a-20)** is a dungeon crawl with no dice at all. Every attack is a card play with a modifier deck you can tune.
+- **[Root](https://www.amazon.com/dp/B07F454YF3?tag=cubecommonw0a-20)** gives each faction a completely different rulebook and puts them on a map to fight, but the fights are governed by a euro designer's sense of balance.
 
 Hobby writers sometimes call this middle ground "Euro-trash" or "hybrid," and it describes the majority of well-reviewed games released in the last decade. The labels survive mainly as shorthand for which end of the spectrum a game leans toward, not as boxes a game fits inside.
 
@@ -90,9 +90,9 @@ Watch what people do after the game ends.
 
 If they compare scores and talk about what they could have done differently, lean euro. Try Wingspan, Azul, or Ticket to Ride, and read our [guide to gateway games](/articles/gateway-board-games/) for more.
 
-If they retell the moment someone's plan blew up, lean thematic. Try Cosmic Encounter, King of Tokyo, or a cooperative game like Pandemic that keeps the drama without the elimination.
+If they retell the moment someone's plan blew up, lean thematic. Try [Cosmic Encounter](https://www.amazon.com/dp/1589944968?tag=cubecommonw0a-20), [King of Tokyo](https://link.amazon/B0goO6BQA), or a cooperative game like Pandemic that keeps the drama without the elimination.
 
-If your group is mixed, which most are, hybrids are the answer. Scythe, Blood Rage, Root, and Dune: Imperium each give the strategists a system to optimize and the storytellers a reason to care. A group that stays mixed is a healthier group than one that purges its dice-rollers or its spreadsheet people.
+If your group is mixed, which most are, hybrids are the answer. Scythe, Blood Rage, Root, and [Dune: Imperium](https://www.amazon.com/dp/B08JHB9V72?tag=cubecommonw0a-20) each give the strategists a system to optimize and the storytellers a reason to care. A group that stays mixed is a healthier group than one that purges its dice-rollers or its spreadsheet people.
 
 ## FAQ
 

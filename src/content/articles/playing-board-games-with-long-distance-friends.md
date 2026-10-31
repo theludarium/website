@@ -25,34 +25,34 @@ There are four main ways to play board games together at a distance. Most groups
 | Tool | Cost | Best for | Weakness |
 |---|---|---|---|
 | Board Game Arena | Free, or [about $5/month or $42/year](https://forum.boardgamearena.com/viewtopic.php?p=215420) for premium at the time of writing | Over a thousand games, rules enforced automatically | No physical feel; some games need premium |
-| Tabletop Simulator | [About $20](https://store.steampowered.com/app/286160/Tabletop_Simulator/) one-time per person at the time of writing | Any game, physics-based 3D table | Clunky; no rules enforcement; learning curve |
+| Tabletop Simulator | About $20 one-time per person at the time of writing | Any game, physics-based 3D table | Clunky; no rules enforcement; learning curve |
 | Webcam + physical copies | Free | Games where each player has their own board | One person has to own and move everything |
 | Phone/video call + app | Free to cheap | Party games, word games | Limited to games with apps |
 
-**Board Game Arena (BGA)** <!-- AFFILIATE --> is where most remote groups should start. It runs in a browser, enforces the rules for you, and has a large library that includes Carcassonne, 7 Wonders, Azul, Wingspan, The Crew, and many more. Play can be real-time or turn-based over days. [Only one player](https://www.tabletopgaming.co.uk/News/you-can-now-play-ticket-to-ride-on-board-game-arena/) at the table needs a premium account to start a premium game and invite the rest.
+**Board Game Arena (BGA)** is where most remote groups should start. It runs in a browser, enforces the rules for you, and has a large library that includes [Carcassonne](https://link.amazon/B012Rr5ed), [7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20), [Azul](https://link.amazon/B0bGRYHex), [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), [The Crew](https://link.amazon/B099S9RKf), and many more. Play can be real-time or turn-based over days. [Only one player](https://www.tabletopgaming.co.uk/News/you-can-now-play-ticket-to-ride-on-board-game-arena/) at the table needs a premium account to start a premium game and invite the rest.
 
-**Tabletop Simulator** <!-- AFFILIATE --> is a sandbox. It simulates a physical table where you can pick up, flip, and move pieces. Players have built digital versions of thousands of games. It is the main option for games BGA does not have, and it is also fiddly, with no rule enforcement, so it suits groups that already know a game well.
+**Tabletop Simulator** is a sandbox. It simulates a physical table where you can pick up, flip, and move pieces. Players have built digital versions of thousands of games. It is the main option for games BGA does not have, and it is also fiddly, with no rule enforcement, so it suits groups that already know a game well.
 
-**Webcam and physical copies** works for games where each player has a personal board and the shared state is small. Cascadia, Wingspan, and roll-and-write games like Welcome To... work well this way. One person reads out the shared draw, everyone plays on their own copy. It is low-tech and surprisingly good.
+**Webcam and physical copies** works for games where each player has a personal board and the shared state is small. [Cascadia](https://link.amazon/B0g1HYFt4), Wingspan, and roll-and-write games like [Welcome To...](https://www.amazon.com/dp/B08MB11DDW?tag=cubecommonw0a-20) work well this way. One person reads out the shared draw, everyone plays on their own copy. It is low-tech and surprisingly good.
 
-**Video call plus an app** is the right answer for party games. Codenames has a [free official browser version](https://codenamesapp.com/press) at codenames.game. Wavelength has a [free official app](https://www.wavelength.zone/about) with paid add-on packs. A video call provides the faces and the laughing, which is most of what a party game is.
+**Video call plus an app** is the right answer for party games. [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) has a [free official browser version](https://codenamesapp.com/press) at codenames.game. [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) has a [free official app](https://www.wavelength.zone/about) with paid add-on packs. A video call provides the faces and the laughing, which is most of what a party game is.
 
 ## Which games survive the webcam?
 
 Not every game works remotely. The ones that do tend to share a profile: limited hidden information, short turns, and interaction that happens through talking rather than through a crowded shared board.
 
 **Best on Board Game Arena:**
-- **The Crew** <!-- AFFILIATE -->: cooperative, short missions, excellent implementation.
-- **7 Wonders** <!-- AFFILIATE -->: simultaneous turns, so no waiting.
-- **Azul** <!-- AFFILIATE -->: visual, quick, perfectly suited to the screen.
-- **Carcassonne** <!-- AFFILIATE -->: the digital version removes the only annoying part (counting farms).
-- **Wingspan** <!-- AFFILIATE -->: long but relaxed; good for a turn-based game over a week.
+- **The Crew**: cooperative, short missions, excellent implementation.
+- **7 Wonders**: simultaneous turns, so no waiting.
+- **Azul**: visual, quick, perfectly suited to the screen.
+- **Carcassonne**: the digital version removes the only annoying part (counting farms).
+- **Wingspan**: long but relaxed; good for a turn-based game over a week.
 
 **Best over a video call:**
-- **Codenames** <!-- AFFILIATE -->: the online version is free and the game is all talking anyway.
-- **Wavelength** <!-- AFFILIATE -->: opinions and arguments translate perfectly.
-- **Just One** <!-- AFFILIATE -->: everyone writes a clue on paper and holds it to the camera.
-- **Decrypto** <!-- AFFILIATE -->: a team word game that works with each team on its own call.
+- **Codenames**: the online version is free and the game is all talking anyway.
+- **Wavelength**: opinions and arguments translate perfectly.
+- **[Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20)**: everyone writes a clue on paper and holds it to the camera.
+- **[Decrypto](https://www.amazon.com/dp/B07BB4ND6J?tag=cubecommonw0a-20)**: a team word game that works with each team on its own call.
 
 **Best for turn-based over days:**
 - Anything on BGA with a turn-based option. A game of Carcassonne that takes a week, one move at breakfast, is a strange and pleasant way to stay in touch.

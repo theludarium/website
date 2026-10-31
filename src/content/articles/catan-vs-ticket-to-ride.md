@@ -7,15 +7,15 @@ games: [catan, ticket-to-ride]
 tags: ["Catan vs Ticket to Ride", "best gateway board game", "Catan or Ticket to Ride", "Ticket to Ride vs Catan for families", "first board game to buy", "easy board games for adults", "Comparisons"]
 draft: false
 ---
-Catan vs Ticket to Ride is the first real decision most people make when they move past Monopoly. Both are gateway games. Both have sold in the tens of millions. Both will work. But they produce very different evenings, and the right pick depends less on which game is "better" and more on who is sitting at your table.
+[Catan](https://link.amazon/B0h8BDGR2) vs [Ticket to Ride](https://link.amazon/B0jh8RB7f) is the first real decision most people make when they move past Monopoly. Both are gateway games. Both have sold in the tens of millions. Both will work. But they produce very different evenings, and the right pick depends less on which game is "better" and more on who is sitting at your table.
 
 The short version: Ticket to Ride is easier to teach, plays more people, and almost never produces a bad feeling. Catan is longer, chattier, and more memorable, and it rewards the group that likes to talk and deal. The rest of this article explains why, with a side-by-side table and a verdict at the end.
 
 ## What are Catan and Ticket to Ride, in one paragraph each?
 
-**Catan** <!-- AFFILIATE --> puts three or four players on an island of hexes that produce five resources: brick, lumber, wool, grain, and ore. You place settlements at the corners of hexes, roll dice each turn to see which hexes pay out, and spend resources to build roads, settlements, cities, and development cards. Trading with other players is allowed on your turn and is the heart of the game. First to ten victory points wins. Publisher specs list it at 3 to 4 players, ages 10 and up, 60 to 90 minutes ([Catan Studio](https://www.catan.com/catan)).
+**Catan** puts three or four players on an island of hexes that produce five resources: brick, lumber, wool, grain, and ore. You place settlements at the corners of hexes, roll dice each turn to see which hexes pay out, and spend resources to build roads, settlements, cities, and development cards. Trading with other players is allowed on your turn and is the heart of the game. First to ten victory points wins. Publisher specs list it at 3 to 4 players, ages 10 and up, 60 to 90 minutes (Catan Studio).
 
-**Ticket to Ride** <!-- AFFILIATE --> gives two to five players a map of North America with cities connected by colored routes. Each turn you do one of three things: draw train cards, play a set of matching cards to claim a route, or draw destination tickets. Tickets name two cities; connect them and you score, fail and you lose those points. Longest continuous route earns a bonus. Publisher specs list it at 2 to 5 players, ages 8 and up, 30 to 60 minutes ([Days of Wonder](https://www.daysofwonder.com/game/ticket-to-ride/)).
+**Ticket to Ride** gives two to five players a map of North America with cities connected by colored routes. Each turn you do one of three things: draw train cards, play a set of matching cards to claim a route, or draw destination tickets. Tickets name two cities; connect them and you score, fail and you lose those points. Longest continuous route earns a bonus. Publisher specs list it at 2 to 5 players, ages 8 and up, 30 to 60 minutes (Days of Wonder).
 
 ## Catan vs Ticket to Ride: the side-by-side
 

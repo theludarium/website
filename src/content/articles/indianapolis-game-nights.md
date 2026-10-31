@@ -54,7 +54,7 @@ This is the real barrier, and it is smaller than it looks from the door.
 
 1. **Arrive at the start time.** Tables form in the first twenty minutes. Walking in an hour late means waiting for a game to end.
 2. **Say the sentence.** "Hi, I'm new, is there room?" That sentence is why the group exists. Nobody at a public game night is surprised by it.
-3. **Bring one game you can teach in five minutes.** Codenames <!-- AFFILIATE -->, Sushi Go, The Crew, No Thanks. A teachable game makes you a host instead of a guest.
+3. **Bring one game you can teach in five minutes.** [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), [Sushi Go](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), [The Crew](https://link.amazon/B099S9RKf), No Thanks. A teachable game makes you a host instead of a guest.
 4. **Play what is offered.** Your first night is for meeting people, not for the game you drove in to play.
 5. **Buy a drink.** The venue is donating the room. One purchase per person keeps the night alive.
 6. **Come back the next week.** The second visit is when names stick. Three visits and you are a regular.

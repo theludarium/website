@@ -14,7 +14,7 @@ This is a guide for HR leads and hiring managers who want to add a game night to
 
 New hires face a specific social problem. Everyone else already knows each other. Every conversation requires the new person to initiate, to ask a question, to have a reason to walk up to someone. Most people, even confident ones, do this far less than they would like to.
 
-A game solves that problem by handing everyone a reason to talk. Nobody has to invent small talk when the table is arguing about whether "lukewarm" counts as warm in Wavelength. The new hire is not the new person at the table; they are the person who gave the clue.
+A game solves that problem by handing everyone a reason to talk. Nobody has to invent small talk when the table is arguing about whether "lukewarm" counts as warm in [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20). The new hire is not the new person at the table; they are the person who gave the clue.
 
 Gallup's research on [best friends at work](https://www.gallup.com/workplace/236213/why-need-best-friends-work.aspx) has found, for example, that women who strongly agree they have one are more than twice as likely to be engaged as those who do not, and that only about two in ten U.S. employees say they have one at all. You cannot assign a best friend. You can create the conditions where one becomes likely, and a game table is one of the cheapest ways to do it.
 
@@ -38,7 +38,7 @@ Aim for one new hire for every two or three existing employees. Too many new hir
 
 ### Who you invite from the existing team
 
-Not just the new hire's manager and immediate team. Invite people from the departments they will depend on: the finance person who approves their expenses, the IT person who fixes their laptop, the ops lead they will email every week. One hour of playing Just One with the IT person is worth a dozen tickets.
+Not just the new hire's manager and immediate team. Invite people from the departments they will depend on: the finance person who approves their expenses, the IT person who fixes their laptop, the ops lead they will email every week. One hour of playing [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20) with the IT person is worth a dozen tickets.
 
 ### Table size and rotation
 
@@ -56,11 +56,11 @@ The games for onboarding are a subset of good [team building board games](/artic
 |---|---|---|---|
 | Just One | 3 to 7 | 20 min | Everyone contributes equally; no way to look foolish |
 | Wavelength | 4 to 12 | 30 min | Produces personal opinions and laughter fast |
-| Codenames | 4 to 8 | 15 min | Reveals how people think; easy to rotate |
-| Telestrations | 4 to 8 | 30 min | Drawing badly is the point; a great equalizer |
-| So Clover! | 3 to 6 | 25 min | Cooperative and quiet enough for introverts |
-| The Crew | 2 to 5 | 20 min | Teaches cooperation under constraint |
-| Sushi Go! | 2 to 5 | 15 min | A gentle, fast card game for a mixed table |
+| [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) | 4 to 8 | 15 min | Reveals how people think; easy to rotate |
+| [Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20) | 4 to 8 | 30 min | Drawing badly is the point; a great equalizer |
+| [So Clover!](https://www.amazon.com/dp/B0941TJHXX?tag=cubecommonw0a-20) | 3 to 6 | 25 min | Cooperative and quiet enough for introverts |
+| [The Crew](https://link.amazon/B099S9RKf) | 2 to 5 | 20 min | Teaches cooperation under constraint |
+| [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) | 2 to 5 | 15 min | A gentle, fast card game for a mixed table |
 
 Avoid heavy strategy games, anything with player elimination, and anything where a tenured employee's experience gives them a lopsided advantage. The new hire should be able to win, or at least contribute to a win, in their first game.
 

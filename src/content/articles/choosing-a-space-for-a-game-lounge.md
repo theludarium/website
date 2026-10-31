@@ -13,7 +13,7 @@ Picking a game cafe location is the decision we are most afraid of getting wrong
 Start with what makes the use case unusual. A game lounge is not a restaurant, a bar, a coworking space, or a retail store, though it borrows from all four.
 
 - **People stay a long time.** A restaurant turns a table in 90 minutes. Our members may sit for four hours. That changes everything about chairs, noise, and how much square footage each person needs.
-- **Tables are big and flat.** A game of Twilight Imperium or a six-player Catan with expansions needs real surface. Bistro two-tops do not work. <!-- AFFILIATE -->
+- **Tables are big and flat.** A game of Twilight Imperium or a six-player Catan with expansions needs real surface. Bistro two-tops do not work.
 - **Quiet matters.** A campaign table needs to hear each other. A social deduction game needs to shout. Both have to happen in the same building without ruining each other.
 - **Storage is real.** A library of a hundred games or more takes wall. Member lockers take more. Neither is glamorous and both are necessary.
 - **Daytime use is different from night use.** We want remote workers on weekday mornings and full tables on weekend nights. The space has to feel right empty and full.

@@ -26,14 +26,14 @@ Start with jobs, not titles. A cafe library has to serve a handful of recurring 
 
 | Job the game does | Share of shelf | Examples |
 |---|---|---|
-| Teach in two minutes, play in twenty | Large | Sushi Go, Love Letter, No Thanks, Skull, Coup |
-| Party, 5 to 10 players, loud | Large | Codenames, Wavelength, Telestrations, Decrypto |
-| Gateway, 30 to 90 minutes, the main event | Large | Ticket to Ride, Catan, Azul, Carcassonne, Splendor, Kingdomino, Wingspan |
-| Two players, date night | Medium | Patchwork, Jaipur, Hive, 7 Wonders Duel, Lost Cities |
-| Cooperative | Medium | Pandemic, The Crew, Forbidden Island, Hanabi, Just One |
-| Kids and families | Medium | Outfoxed, Dragomino, Rhino Hero, Animal Upon Animal |
-| Meaty, 2 to 3 hours, for the regulars | Small | Terraforming Mars, Brass: Birmingham, Scythe, Spirit Island |
-| Classics people ask for by name | Small | Chess, Scrabble, Clue, Uno, a deck of cards |
+| Teach in two minutes, play in twenty | Large | [Sushi Go](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20), [No Thanks](https://www.amazon.com/dp/B013FAC4FK?tag=cubecommonw0a-20), [Skull](https://www.amazon.com/dp/B08R2BPLSN?tag=cubecommonw0a-20), [Coup](https://www.amazon.com/dp/B00GDI4HX4?tag=cubecommonw0a-20) |
+| Party, 5 to 10 players, loud | Large | [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20), [Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20), [Decrypto](https://www.amazon.com/dp/B07BB4ND6J?tag=cubecommonw0a-20) |
+| Gateway, 30 to 90 minutes, the main event | Large | [Ticket to Ride](https://link.amazon/B0jh8RB7f), [Catan](https://link.amazon/B0h8BDGR2), [Azul](https://link.amazon/B0bGRYHex), [Carcassonne](https://link.amazon/B012Rr5ed), [Splendor](https://link.amazon/B0fEvY6Wg), [Kingdomino](https://link.amazon/B08l49zvA), [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) |
+| Two players, date night | Medium | [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20), [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20), [Hive](https://www.amazon.com/dp/B000EN5ZLW?tag=cubecommonw0a-20), [7 Wonders Duel](https://www.amazon.com/dp/B014DMSTXK?tag=cubecommonw0a-20), [Lost Cities](https://www.amazon.com/dp/B00T0GY9CK?tag=cubecommonw0a-20) |
+| Cooperative | Medium | [Pandemic](https://link.amazon/B0eHP5GCg), [The Crew](https://link.amazon/B099S9RKf), [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20), [Hanabi](https://www.amazon.com/dp/B01MXTGT21?tag=cubecommonw0a-20), [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20) |
+| Kids and families | Medium | [Outfoxed](https://www.amazon.com/dp/B00UB7P0XY?tag=cubecommonw0a-20), [Dragomino](https://link.amazon/B09WKyU19), [Rhino Hero](https://www.amazon.com/dp/B01M8LF7IA?tag=cubecommonw0a-20), [Animal Upon Animal](https://www.amazon.com/dp/B073CD98D6?tag=cubecommonw0a-20) |
+| Meaty, 2 to 3 hours, for the regulars | Small | [Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20), [Brass: Birmingham](https://www.amazon.com/dp/1988884047?tag=cubecommonw0a-20), [Scythe](https://www.amazon.com/dp/B01IPUGYK6?tag=cubecommonw0a-20), [Spirit Island](https://www.amazon.com/dp/B01MUHP51S?tag=cubecommonw0a-20) |
+| Classics people ask for by name | Small | Chess, [Scrabble](https://www.amazon.com/dp/B00IFWSO94?tag=cubecommonw0a-20), Clue, [Uno](https://www.amazon.com/dp/B07P6MZPK3?tag=cubecommonw0a-20), a deck of cards |
 
 The shares are a starting point, and every room is different. A cafe in a college neighborhood leans party. A suburban daytime cafe leans families. Watch what gets pulled and adjust.
 

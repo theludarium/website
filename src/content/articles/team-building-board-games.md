@@ -26,41 +26,41 @@ With those filters, here are twenty games sorted by what you want out of the hou
 
 These are openers. They work with mixed seniority and with people who have never met.
 
-1. **Codenames** (4 to 8+). Two teams, one-word clues, a grid of words. It exposes how people think in about ten minutes and is the single most reliable office game we know. More on that in [what a game of Codenames reveals about your team](/articles/codenames-team-building/).
-2. **Wavelength** (4 to 12). Place a hidden dial on a spectrum like "Hot to Cold" and give a clue so your team can find it. Arguments about whether a bagel is "warm" are the point.
-3. **Just One** (3 to 7). Everyone writes a one-word clue for the guesser; duplicate clues are thrown out. It quietly punishes the obvious answer and rewards thinking about what others will say.
-4. **Telestrations** (4 to 8). Telephone, but with drawings. It is impossible to be bad at this in a way that matters, and it produces the loudest laughs of any game on this list.
-5. **So Clover!** (3 to 6). Each player writes four clue words linking pairs of cards; the group then reconstructs the arrangement. Short, cooperative, and surprisingly thoughtful.
-6. **Decrypto** (4 to 8). Teams pass coded messages while the other team tries to intercept. More cerebral than Codenames and good for engineering or analytics groups.
+1. **[Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20)** (4 to 8+). Two teams, one-word clues, a grid of words. It exposes how people think in about ten minutes and is the single most reliable office game we know. More on that in [what a game of Codenames reveals about your team](/articles/codenames-team-building/).
+2. **[Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20)** (4 to 12). Place a hidden dial on a spectrum like "Hot to Cold" and give a clue so your team can find it. Arguments about whether a bagel is "warm" are the point.
+3. **[Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20)** (3 to 7). Everyone writes a one-word clue for the guesser; duplicate clues are thrown out. It quietly punishes the obvious answer and rewards thinking about what others will say.
+4. **[Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20)** (4 to 8). Telephone, but with drawings. It is impossible to be bad at this in a way that matters, and it produces the loudest laughs of any game on this list.
+5. **[So Clover!](https://www.amazon.com/dp/B0941TJHXX?tag=cubecommonw0a-20)** (3 to 6). Each player writes four clue words linking pairs of cards; the group then reconstructs the arrangement. Short, cooperative, and surprisingly thoughtful.
+6. **[Decrypto](https://www.amazon.com/dp/B07BB4ND6J?tag=cubecommonw0a-20)** (4 to 8). Teams pass coded messages while the other team tries to intercept. More cerebral than Codenames and good for engineering or analytics groups.
 
 ## Which games build real cooperation?
 
 Cooperative games put everyone on the same side against the box. They surface how a group handles pressure, shares information, and makes decisions. For a deeper look at why that matters, see [what co-op games teach about teamwork](/articles/cooperative-games-teamwork/).
 
-7. **Pandemic** (2 to 4). The classic. Four roles, a spreading disease, and a clock. Watch who takes charge and who gets talked over.
-8. **The Crew: Mission Deep Sea** (2 to 5). A trick-taking card game where you cannot discuss your hand. Teams learn to communicate with almost nothing, which is a lesson that transfers directly to cross-functional work.
-9. **Forbidden Island** (2 to 4). Pandemic's simpler cousin. Thirty minutes, bright tiles, and the same decision-making dynamics in a smaller package.
-10. **Hanabi** (2 to 5). You hold your cards facing away from yourself. Everyone else can see them; you cannot. The entire game is about giving useful information with limited words.
-11. **Magic Maze** (1 to 8). Real-time, cooperative, and silent for most of the game. Players move shared pieces through a mall, and nobody may speak. It is chaotic, funny, and a sharp lesson in coordination without instruction.
-12. **Sky Team** (2). A two-player co-op about landing a plane. Perfect for pairing a manager with a direct report or two colleagues who rarely work together.
+7. **[Pandemic](https://link.amazon/B0eHP5GCg)** (2 to 4). The classic. Four roles, a spreading disease, and a clock. Watch who takes charge and who gets talked over.
+8. **[The Crew: Mission Deep Sea](https://link.amazon/B099S9RKf)** (2 to 5). A trick-taking card game where you cannot discuss your hand. Teams learn to communicate with almost nothing, which is a lesson that transfers directly to cross-functional work.
+9. **[Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20)** (2 to 4). Pandemic's simpler cousin. Thirty minutes, bright tiles, and the same decision-making dynamics in a smaller package.
+10. **[Hanabi](https://www.amazon.com/dp/B01MXTGT21?tag=cubecommonw0a-20)** (2 to 5). You hold your cards facing away from yourself. Everyone else can see them; you cannot. The entire game is about giving useful information with limited words.
+11. **[Magic Maze](https://www.amazon.com/dp/B08W9BV633?tag=cubecommonw0a-20)** (1 to 8). Real-time, cooperative, and silent for most of the game. Players move shared pieces through a mall, and nobody may speak. It is chaotic, funny, and a sharp lesson in coordination without instruction.
+12. **[Sky Team](https://www.amazon.com/dp/B0CHD8RCSJ?tag=cubecommonw0a-20)** (2). A two-player co-op about landing a plane. Perfect for pairing a manager with a direct report or two colleagues who rarely work together.
 
 ## Which games work for a bigger room?
 
 Large groups need either a party-scale game or something that splits into tables.
 
-13. **Werewords** (4 to 10). Twenty Questions with a hidden traitor. Fast, social, and easy to run in rounds.
-14. **Spyfall** (3 to 8). Everyone knows the location except the spy, who must bluff through questions. Good for sales and customer-facing teams who already read people for a living.
-15. **Monikers** (4 to 16). Three rounds of describing, one-word clues, then charades, all using the same deck of cards. Supports huge groups and gets funnier each round.
-16. **Blood on the Clocktower** (5 to 20). A social deduction game with a storyteller who keeps everyone involved, even after "death." Needs a confident host and ninety minutes, but nothing else on this list handles fifteen people this well.
+13. **[Werewords](https://www.amazon.com/dp/B06XWTTD2Y?tag=cubecommonw0a-20)** (4 to 10). Twenty Questions with a hidden traitor. Fast, social, and easy to run in rounds.
+14. **[Spyfall](https://www.amazon.com/dp/B00Y4TYRT8?tag=cubecommonw0a-20)** (3 to 8). Everyone knows the location except the spy, who must bluff through questions. Good for sales and customer-facing teams who already read people for a living.
+15. **[Monikers](https://www.amazon.com/dp/B00M07OQ1U?tag=cubecommonw0a-20)** (4 to 16). Three rounds of describing, one-word clues, then charades, all using the same deck of cards. Supports huge groups and gets funnier each round.
+16. **[Blood on the Clocktower](https://www.amazon.com/dp/B0BRSTMP2V?tag=cubecommonw0a-20)** (5 to 20). A social deduction game with a storyteller who keeps everyone involved, even after "death." Needs a confident host and ninety minutes, but nothing else on this list handles fifteen people this well.
 
 ## Which games are right for a thoughtful, smaller team?
 
 Some teams want a real game, not a party. These are heavier but still teach quickly.
 
-17. **Ticket to Ride** (2 to 5). Collect cards, build train routes. Mild competition, clear goals, and a good way to spot who plans ahead and who adapts.
-18. **Azul** (2 to 4). Draft tiles, fill a wall, avoid waste. Calm, beautiful, and over in forty minutes. Good for a leadership team that wants to think rather than shout.
-19. **Catan** (3 to 4). Trading is the heart of it. Who negotiates well, who hoards, who gets left out of deals. For sales teams, there are better options in [negotiation games for sales teams](/articles/negotiation-board-games/), but Catan is still the one everyone has heard of.
-20. **Cascadia** (1 to 4). Build a habitat from tiles and wildlife tokens. Low conflict, gentle, and ideal for a group that includes people who flinch at competition.
+17. **[Ticket to Ride](https://link.amazon/B0jh8RB7f)** (2 to 5). Collect cards, build train routes. Mild competition, clear goals, and a good way to spot who plans ahead and who adapts.
+18. **[Azul](https://link.amazon/B0bGRYHex)** (2 to 4). Draft tiles, fill a wall, avoid waste. Calm, beautiful, and over in forty minutes. Good for a leadership team that wants to think rather than shout.
+19. **[Catan](https://link.amazon/B0h8BDGR2)** (3 to 4). Trading is the heart of it. Who negotiates well, who hoards, who gets left out of deals. For sales teams, there are better options in [negotiation games for sales teams](/articles/negotiation-board-games/), but Catan is still the one everyone has heard of.
+20. **[Cascadia](https://link.amazon/B0g1HYFt4)** (1 to 4). Build a habitat from tiles and wildlife tokens. Low conflict, gentle, and ideal for a group that includes people who flinch at competition.
 
 ## Team building games for work at a glance
 

@@ -9,7 +9,7 @@ draft: false
 ---
 Pandemic board game strategy changes completely between four epidemic cards and six. At the introductory setting, a competent team wins most games by curing diseases as fast as possible. At Heroic difficulty, with six epidemics in the player deck, that approach loses to the outbreak chain before the third cure. The game stops being about curing and starts being about controlling the infection deck.
 
-This guide assumes you know the rules and have beaten the game at the standard setting. It is written for the group that keeps losing on Heroic and wants to know what they are doing wrong. <!-- AFFILIATE -->
+This guide assumes you know the rules and have beaten the game at the standard setting. It is written for the group that keeps losing on Heroic and wants to know what they are doing wrong.
 
 Rules are described generally for the base game, second edition. The number of epidemic cards for each difficulty is printed in the [Z-Man rulebook](https://aadl.org/files/catalog_guides/Pandemic_Rules.pdf): four for Introductory, five for Standard, six for Heroic.
 
@@ -111,4 +111,4 @@ Because a city in the infection discard pile reached three cubes before the next
 
 ## New guides first, to subscribers
 
-We think Pandemic is the best teaching game for groups who want to learn to plan together, and we will have it on the table at the Indianapolis lounge the day we open. The Ludarium newsletter sends new pieces on games and the people who play them. [Subscribe](/newsletter) if you want the next strategy guide before it goes on the site.
+We think [Pandemic](https://link.amazon/B0eHP5GCg) is the best teaching game for groups who want to learn to plan together, and we will have it on the table at the Indianapolis lounge the day we open. The Ludarium newsletter sends new pieces on games and the people who play them. [Subscribe](/newsletter) if you want the next strategy guide before it goes on the site.

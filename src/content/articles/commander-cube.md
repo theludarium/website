@@ -6,7 +6,7 @@ category: Magic & Cube
 tags: ["commander cube", "commander cube rules", "commander legends cube", "multiplayer cube draft", "commander cube legend count", "draft commander decks", "Cube Commonwealth"]
 draft: false
 ---
-A Commander cube is a cube you draft to build a 60-card Commander deck, then play four-player games with a commander in the command zone and 40 life. It borrows the format Wizards shipped in Commander Legends <!-- AFFILIATE --> and makes it repeatable, curated, and owned. For groups where half the table plays Commander and half plays cube, it is the box that gets both halves to show up.
+A Commander cube is a cube you draft to build a 60-card Commander deck, then play four-player games with a commander in the command zone and 40 life. It borrows the format Wizards shipped in [Commander Legends](https://www.amazon.com/dp/B08G9L24VL?tag=cubecommonw0a-20) and makes it repeatable, curated, and owned. For groups where half the table plays Commander and half plays cube, it is the box that gets both halves to show up.
 
 The design problems are different from every other cube. Legends have to appear often enough that everyone has a commander. Picks have to move fast enough that a 60-card deck is draftable in an evening. And the card pool has to produce multiplayer games that end. This article covers all three, with the numbers from public lists and the places where our own house rules differ.
 

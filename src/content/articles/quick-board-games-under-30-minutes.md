@@ -30,81 +30,81 @@ The times below are for a table where at least one person has played before and 
 
 | Game | Players | Time | Why it works |
 |---|---|---|---|
-| Love Letter | 2 to 4 | 15 min | Sixteen cards, deduction, instant rematch |
-| Sushi Go! | 2 to 5 | 15 min | Card drafting with a tin and a smile |
-| Skull | 3 to 6 | 15 to 30 min | Bluffing with four discs per player |
-| No Thanks! | 3 to 7 | 15 min | Take the card or pay a chip. That is the game |
-| Coup | 2 to 6 | 15 min | Bluff about your roles and call the liars |
-| Kingdomino | 2 to 4 | 15 to 20 min | Build a five-by-five kingdom from dominoes |
-| Codenames | 4 to 8+ | 15 min | Team word clues, teaches in a minute |
+| [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20) | 2 to 4 | 15 min | Sixteen cards, deduction, instant rematch |
+| [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) | 2 to 5 | 15 min | Card drafting with a tin and a smile |
+| [Skull](https://www.amazon.com/dp/B08R2BPLSN?tag=cubecommonw0a-20) | 3 to 6 | 15 to 30 min | Bluffing with four discs per player |
+| [No Thanks!](https://www.amazon.com/dp/B013FAC4FK?tag=cubecommonw0a-20) | 3 to 7 | 15 min | Take the card or pay a chip. That is the game |
+| [Coup](https://www.amazon.com/dp/B00GDI4HX4?tag=cubecommonw0a-20) | 2 to 6 | 15 min | Bluff about your roles and call the liars |
+| [Kingdomino](https://link.amazon/B08l49zvA) | 2 to 4 | 15 to 20 min | Build a five-by-five kingdom from dominoes |
+| [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) | 4 to 8+ | 15 min | Team word clues, teaches in a minute |
 | The Crew | 2 to 5 | 20 min | Cooperative trick-taking, one mission at a time |
-| Just One | 3 to 7 | 20 min | Cooperative one-word clues |
-| Hanabi | 2 to 5 | 25 min | Fireworks cards you hold facing out |
-| Point Salad | 2 to 6 | 15 to 30 min | Draft vegetables, score sets, done |
-| 6 nimmt! | 2 to 10 | 20 to 30 min | Simultaneous card play, avoid the bull heads |
-| For Sale | 3 to 6 | 20 min | Buy houses, sell them, two tight auctions |
-| Jaipur | 2 | 30 min | Two-player trading at its fastest |
-| Azul | 2 to 4 | 30 min | Right at the limit, worth every minute |
+| [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20) | 3 to 7 | 20 min | Cooperative one-word clues |
+| [Hanabi](https://www.amazon.com/dp/B01MXTGT21?tag=cubecommonw0a-20) | 2 to 5 | 25 min | Fireworks cards you hold facing out |
+| [Point Salad](https://www.amazon.com/dp/B07PGQKT5V?tag=cubecommonw0a-20) | 2 to 6 | 15 to 30 min | Draft vegetables, score sets, done |
+| [6 nimmt!](https://www.amazon.com/dp/B0CYTGQG9J?tag=cubecommonw0a-20) | 2 to 10 | 20 to 30 min | Simultaneous card play, avoid the bull heads |
+| [For Sale](https://www.amazon.com/dp/B001PQLNY0?tag=cubecommonw0a-20) | 3 to 6 | 20 min | Buy houses, sell them, two tight auctions |
+| [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20) | 2 | 30 min | Two-player trading at its fastest |
+| [Azul](https://link.amazon/B0bGRYHex) | 2 to 4 | 30 min | Right at the limit, worth every minute |
 
 ### Love Letter
 
-Sixteen cards, each with a character and a power. <!-- AFFILIATE --> Draw one, play one, try to be the last player standing or hold the highest card. A round lasts three minutes. A full game lasts fifteen. It is the best example of how little a game needs.
+Sixteen cards, each with a character and a power. Draw one, play one, try to be the last player standing or hold the highest card. A round lasts three minutes. A full game lasts fifteen. It is the best example of how little a game needs.
 
 ### Sushi Go!
 
-Take one card from your hand, pass the rest, and score sets at the end of three rounds. <!-- AFFILIATE --> It teaches drafting, a core idea in the hobby, in a single pass. It is also the game most likely to be requested by someone's kid and someone's grandmother in the same night.
+Take one card from your hand, pass the rest, and score sets at the end of three rounds. It teaches drafting, a core idea in the hobby, in a single pass. It is also the game most likely to be requested by someone's kid and someone's grandmother in the same night.
 
 ### Skull
 
-Each player has three flowers and a skull on cardboard coasters. <!-- AFFILIATE --> Stack face down, bid on how many you can flip without finding a skull. It is a pure bluffing game with nothing to memorize, and it is best after the second drink.
+Each player has three flowers and a skull on cardboard coasters. Stack face down, bid on how many you can flip without finding a skull. It is a pure bluffing game with nothing to memorize, and it is best after the second drink.
 
 ### No Thanks!
 
-A card is turned up. <!-- AFFILIATE --> Either take it, which costs you points, or pay a chip to pass. Chips pile up on the card until someone caves. Three sentences of rules, and it produces real agony every round.
+A card is turned up. Either take it, which costs you points, or pay a chip to pass. Chips pile up on the card until someone caves. Three sentences of rules, and it produces real agony every round.
 
 ### Coup
 
-Each player holds two hidden role cards and claims to have whatever role helps them most. <!-- AFFILIATE --> Other players can call the bluff. It plays in fifteen minutes and gets louder every round. It does eliminate players, but rounds are short enough that nobody minds.
+Each player holds two hidden role cards and claims to have whatever role helps them most. Other players can call the bluff. It plays in fifteen minutes and gets louder every round. It does eliminate players, but rounds are short enough that nobody minds.
 
 ### Kingdomino
 
-Domino-shaped terrain tiles, placed into a five-by-five grid. <!-- AFFILIATE --> Choose a better tile now and you pick later next round. It won the Spiel des Jahres and it is one of the best games to hand to a mixed-age table.
+Domino-shaped terrain tiles, placed into a five-by-five grid. Choose a better tile now and you pick later next round. It won the Spiel des Jahres and it is one of the best games to hand to a mixed-age table.
 
 ### Codenames
 
-Fifteen minutes per game, one minute to teach, any group size. <!-- AFFILIATE --> It opens more game nights than any other title on this list.
+Fifteen minutes per game, one minute to teach, any group size. It opens more game nights than any other title on this list.
 
 ### The Crew
 
-A cooperative trick-taking game played as a series of short missions. <!-- AFFILIATE --> One mission takes five to ten minutes. Play three and you have a 20-minute session that feels like a full evening's worth of problem-solving.
+A cooperative trick-taking game played as a series of short missions. One mission takes five to ten minutes. Play three and you have a 20-minute session that feels like a full evening's worth of problem-solving.
 
 ### Just One
 
-Everyone writes a one-word clue, duplicates get erased, and the guesser tries to name the mystery word. <!-- AFFILIATE --> Thirteen words per game, twenty minutes, and nobody loses alone.
+Everyone writes a one-word clue, duplicates get erased, and the guesser tries to name the mystery word. Thirteen words per game, twenty minutes, and nobody loses alone.
 
 ### Hanabi
 
-You hold your cards facing away from yourself, so everyone can see your hand but you. <!-- AFFILIATE --> Teammates give limited clues, and together you try to play fireworks in order. It is quiet, tense, and deeply satisfying when it works.
+You hold your cards facing away from yourself, so everyone can see your hand but you. Teammates give limited clues, and together you try to play fireworks in order. It is quiet, tense, and deeply satisfying when it works.
 
 ### Point Salad
 
-Draft vegetable cards or scoring cards from a shared market. <!-- AFFILIATE --> Every scoring card changes what your vegetables are worth. The whole game is one decision repeated, and it never feels repetitive.
+Draft vegetable cards or scoring cards from a shared market. Every scoring card changes what your vegetables are worth. The whole game is one decision repeated, and it never feels repetitive.
 
 ### 6 nimmt!
 
-Everyone plays a card at once, and cards slot into rows in numerical order. <!-- AFFILIATE --> Whoever places the sixth card in a row takes the whole row and its penalty points. It handles ten players in half an hour, which almost nothing else does.
+Everyone plays a card at once, and cards slot into rows in numerical order. Whoever places the sixth card in a row takes the whole row and its penalty points. It handles ten players in half an hour, which almost nothing else does.
 
 ### For Sale
 
-Two phases: bid on houses, then sell them for checks. <!-- AFFILIATE --> Twenty minutes, and it teaches auction strategy better than games five times its length.
+Two phases: bid on houses, then sell them for checks. Twenty minutes, and it teaches auction strategy better than games five times its length.
 
 ### Jaipur
 
-The best two-player trading game, and it fits inside the 30-minute line with room to spare. <!-- AFFILIATE -->
+The best two-player trading game, and it fits inside the 30-minute line with room to spare.
 
 ### Azul
 
-Right at the limit with four, under it with two. <!-- AFFILIATE --> It is the heaviest decision on this list, and it belongs here because a 30-minute game that feels like a strategy game is rare.
+Right at the limit with four, under it with two. It is the heaviest decision on this list, and it belongs here because a 30-minute game that feels like a strategy game is rare.
 
 *If this list is useful, the newsletter sends more like it.*
 

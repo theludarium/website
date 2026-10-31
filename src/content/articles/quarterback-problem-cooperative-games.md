@@ -14,7 +14,7 @@ Designers have spent the last fifteen years attacking this problem from every an
 
 The quarterback problem, also called the alpha player problem, occurs when a cooperative game gives every player full access to the same information. If everyone can see everything, then in principle one person can compute the best move for the whole team. The person most willing to do that computation out loud becomes the quarterback.
 
-Pandemic is the classic example, and that is not a criticism of Pandemic. It is a well-made game. But every card, every cube, and every player's hand is public. Nothing stops an experienced player from saying "you fly to Cairo, treat twice, then pass me the yellow card." Nothing in the rules even discourages it. The game is a puzzle, and a puzzle with one solver is a solo game with an audience.
+Pandemic is the classic example, and that is not a criticism of [Pandemic](https://link.amazon/B0eHP5GCg). It is a well-made game. But every card, every cube, and every player's hand is public. Nothing stops an experienced player from saying "you fly to Cairo, treat twice, then pass me the yellow card." Nothing in the rules even discourages it. The game is a puzzle, and a puzzle with one solver is a solo game with an audience.
 
 The important point is that the quarterback is usually not being rude. They are trying to help the team win, and the game has told them that winning is the goal. The design has created an incentive, and someone is responding to it. If you want different behavior, you have to change the incentive, not the person.
 
@@ -26,7 +26,7 @@ Three conditions have to be present for a quarterback to emerge. Remove any one 
 2. **Unlimited discussion.** Players can talk as much as they want about anything, including each other's turns.
 3. **A single shared objective.** There is one win condition and no individual goals, so there is no reason for any player to hold anything back.
 
-Pandemic has all three. So do Forbidden Island, Flash Point, and most of the first generation of modern cooperative games. They are good games, and with the right group they are wonderful. But put one strong personality and three agreeable people at the table, and the structure will do the rest.
+Pandemic has all three. So do [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20), Flash Point, and most of the first generation of modern cooperative games. They are good games, and with the right group they are wonderful. But put one strong personality and three agreeable people at the table, and the structure will do the rest.
 
 ## How do designers prevent the quarterback problem?
 
@@ -36,7 +36,7 @@ Each of the three conditions above is a lever. Modern co-op design pulls on them
 
 The most common fix. If I cannot see your hand, I cannot tell you what to play.
 
-**Hanabi** is the purest example. You hold your cards facing away from yourself, so everyone sees your hand except you. Your teammates can give you limited, rule-bound clues about what you hold. Nobody can quarterback because nobody has the full picture, and the game is about building a shared language under constraint.
+**[Hanabi](https://www.amazon.com/dp/B01MXTGT21?tag=cubecommonw0a-20)** is the purest example. You hold your cards facing away from yourself, so everyone sees your hand except you. Your teammates can give you limited, rule-bound clues about what you hold. Nobody can quarterback because nobody has the full picture, and the game is about building a shared language under constraint.
 
 **The Crew** does the same with trick-taking. Each player's hand is private, communication is limited to a single token placed on one card per mission, and the team has to win specific tricks in a specific way. The silence is the game. The best moments in The Crew come from the look across the table when someone understands what you meant.
 
@@ -44,15 +44,15 @@ The most common fix. If I cannot see your hand, I cannot tell you what to play.
 
 Short of hiding information, designers can restrict how much players may say.
 
-**Magic Maze** removes talking entirely for most of the game. Players move shared pawns through a mall in real time, each controlling a different direction, and the only way to signal a teammate is to slap a big red pawn in front of them. The quarterback cannot talk, so there is no quarterback. There is just a lot of pointing and laughter.
+**[Magic Maze](https://www.amazon.com/dp/B08W9BV633?tag=cubecommonw0a-20)** removes talking entirely for most of the game. Players move shared pawns through a mall in real time, each controlling a different direction, and the only way to signal a teammate is to slap a big red pawn in front of them. The quarterback cannot talk, so there is no quarterback. There is just a lot of pointing and laughter.
 
-**Mysterium** restricts one player to communicating only through dream-like picture cards. The ghost knows the answers and cannot say them. Everyone else has to interpret.
+**[Mysterium](https://www.amazon.com/dp/B0F4YNPYQM?tag=cubecommonw0a-20)** restricts one player to communicating only through dream-like picture cards. The ghost knows the answers and cannot say them. Everyone else has to interpret.
 
 ### Real-time pressure
 
 If there is no time to deliberate, there is no time to be told what to do.
 
-**Space Alert** and **Escape: The Curse of the Temple** run on a ten-minute soundtrack or a sand timer. Decisions happen too fast for one player to manage everyone. People make their own calls, often badly, and the chaos is the point.
+**[Space Alert](https://www.amazon.com/dp/B015OFWN6Y?tag=cubecommonw0a-20)** and **[Escape: The Curse of the Temple](https://www.amazon.com/dp/B06XY4D4SL?tag=cubecommonw0a-20)** run on a ten-minute soundtrack or a sand timer. Decisions happen too fast for one player to manage everyone. People make their own calls, often badly, and the chaos is the point.
 
 ### Individual goals and traitors
 
@@ -64,9 +64,9 @@ Give players a reason not to follow orders.
 
 Even with open information, a game can make each player's turn complex enough that nobody else wants to compute it.
 
-**Spirit Island** gives each player a unique spirit with its own power cards, growth options, and board presence. The information is technically public, but the decision space per player is large enough that even a strong player cannot plan four turns at once. The quarterback runs out of attention before they run out of permission.
+**[Spirit Island](https://www.amazon.com/dp/B01MUHP51S?tag=cubecommonw0a-20)** gives each player a unique spirit with its own power cards, growth options, and board presence. The information is technically public, but the decision space per player is large enough that even a strong player cannot plan four turns at once. The quarterback runs out of attention before they run out of permission.
 
-**Gloomhaven** does something similar with a twist: each player picks two cards face down, and you may describe your plan only in vague terms ("I'm going to hit the thing near the door"). Hidden card selection plus restricted communication, inside a game where every character's deck is different.
+**[Gloomhaven](https://www.amazon.com/dp/B01LZXVN4P?tag=cubecommonw0a-20)** does something similar with a twist: each player picks two cards face down, and you may describe your plan only in vague terms ("I'm going to hit the thing near the door"). Hidden card selection plus restricted communication, inside a game where every character's deck is different.
 
 *Want more on games that give every player a real turn? That is what the newsletter is for.*
 

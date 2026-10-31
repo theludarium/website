@@ -14,7 +14,7 @@ Togethering is a noun. It names the thing that happens when a few people sit dow
 
 It is not the game. The game is the occasion. It is not the conversation, exactly, though conversation is most of it. It is the whole act: showing up, settling in, doing something together that does not matter very much, and letting the things that do matter come out sideways while you do it.
 
-The clearest example we know is a weekly campaign table. Four people, the same night every week, playing a long game like Gloomhaven or a D&D campaign over months. <!-- AFFILIATE --> Ask them what the campaign was about and they will tell you about the fights. Ask them what it was for and they will tell you about the divorce one of them went through in month three, and how the table was the only place that week where he was not alone.
+The clearest example we know is a weekly campaign table. Four people, the same night every week, playing a long game like Gloomhaven or a D&D campaign over months. Ask them what the campaign was about and they will tell you about the fights. Ask them what it was for and they will tell you about the divorce one of them went through in month three, and how the table was the only place that week where he was not alone.
 
 That is togethering. It is also the thing adults have the fewest places to do, which is the [third place problem](/articles/third-place-problem/) in one sentence. The game is the reason. The people are the point.
 
@@ -54,9 +54,9 @@ Better than most things, and for specific reasons.
 
 **It removes the pressure to perform.** Conversation at a dinner party is the activity, so silence is failure. At a game table, the game is the activity, so silence is thinking. People who freeze at parties relax at tables. We hear this most from people who describe themselves as introverts or anxious.
 
-**It makes the time repeatable.** "Let's get dinner sometime" dies on the calendar. "Thursday is Catan night" survives, because the structure does the scheduling. <!-- AFFILIATE --> Togethering is a habit, and games are a habit machine.
+**It makes the time repeatable.** "Let's get dinner sometime" dies on the calendar. "Thursday is Catan night" survives, because the structure does the scheduling. Togethering is a habit, and games are a habit machine.
 
-**It surfaces character.** How someone handles a bad dice roll, a betrayal in a social deduction game, or a teammate's mistake in Pandemic tells you more about them in an hour than months of small talk. <!-- AFFILIATE --> That knowledge is intimacy, and it accumulates.
+**It surfaces character.** How someone handles a bad dice roll, a betrayal in a social deduction game, or a teammate's mistake in Pandemic tells you more about them in an hour than months of small talk. That knowledge is intimacy, and it accumulates.
 
 ## What does "for a lifetime" add?
 

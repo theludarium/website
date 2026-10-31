@@ -26,66 +26,66 @@ One more thing. If one of you is far more competitive than the other, that will 
 
 | Game | Players | Time | Why it works |
 |---|---|---|---|
-| Patchwork | 2 | 20 to 30 min | A quilt puzzle with quiet tension |
-| Jaipur | 2 | 30 min | Fast trading, close scores, instant rematch |
-| 7 Wonders Duel | 2 | 30 min | Deep strategy without a long teach |
-| Lost Cities | 2 | 30 min | Push-your-luck expeditions, pure card game |
-| Codenames: Duet | 2 | 15 to 30 min | Cooperative word clues for two |
-| The Fox in the Forest | 2 | 30 min | Trick-taking built for exactly two |
-| Hive | 2 | 20 min | Chess-like bugs, no board required |
-| Star Realms | 2 | 20 min | Fast deck-building duel |
-| Sky Team | 2 | 15 to 20 min | Land a plane together, barely talking |
-| Targi | 2 | 60 min | Worker placement for two, clever and tight |
-| Fog of Love | 2 | 60 to 120 min | A romantic comedy you play through |
-| Azul | 2 to 4 | 30 min | Excellent at two, calm and tactile |
+| [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20) | 2 | 20 to 30 min | A quilt puzzle with quiet tension |
+| [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20) | 2 | 30 min | Fast trading, close scores, instant rematch |
+| [7 Wonders Duel](https://www.amazon.com/dp/B014DMSTXK?tag=cubecommonw0a-20) | 2 | 30 min | Deep strategy without a long teach |
+| [Lost Cities](https://www.amazon.com/dp/B00T0GY9CK?tag=cubecommonw0a-20) | 2 | 30 min | Push-your-luck expeditions, pure card game |
+| [Codenames: Duet](https://www.amazon.com/dp/B0FJMNPGXM?tag=cubecommonw0a-20) | 2 | 15 to 30 min | Cooperative word clues for two |
+| [The Fox in the Forest](https://www.amazon.com/dp/B06XP7ZDH1?tag=cubecommonw0a-20) | 2 | 30 min | Trick-taking built for exactly two |
+| [Hive](https://www.amazon.com/dp/B000EN5ZLW?tag=cubecommonw0a-20) | 2 | 20 min | Chess-like bugs, no board required |
+| [Star Realms](https://www.amazon.com/dp/B00HRGMPIU?tag=cubecommonw0a-20) | 2 | 20 min | Fast deck-building duel |
+| [Sky Team](https://www.amazon.com/dp/B0CHD8RCSJ?tag=cubecommonw0a-20) | 2 | 15 to 20 min | Land a plane together, barely talking |
+| [Targi](https://www.amazon.com/dp/B00YNJCSMM?tag=cubecommonw0a-20) | 2 | 60 min | Worker placement for two, clever and tight |
+| [Fog of Love](https://www.amazon.com/dp/B0788BY3QV?tag=cubecommonw0a-20) | 2 | 60 to 120 min | A romantic comedy you play through |
+| [Azul](https://link.amazon/B0bGRYHex) | 2 to 4 | 30 min | Excellent at two, calm and tactile |
 
 ### Patchwork
 
-Each player builds a quilt from odd-shaped pieces, paying with buttons and time. <!-- AFFILIATE --> It is calm on the surface and tense underneath, because taking the piece you want often means giving your partner the piece they want. Perfect first game for a couple.
+Each player builds a quilt from odd-shaped pieces, paying with buttons and time. It is calm on the surface and tense underneath, because taking the piece you want often means giving your partner the piece they want. Perfect first game for a couple.
 
 ### Jaipur
 
-Two merchants trade goods in a market, racing to sell high before the other does. <!-- AFFILIATE --> Thirty minutes, three rounds, and the scores are close almost every time. Most couples who own it play it twice in a row.
+Two merchants trade goods in a market, racing to sell high before the other does. Thirty minutes, three rounds, and the scores are close almost every time. Most couples who own it play it twice in a row.
 
 ### 7 Wonders Duel
 
-The two-player version of the drafting classic, and many people think it is the better game. <!-- AFFILIATE --> Cards sit in a pyramid, you take what is exposed, and three different paths to victory keep the tension high. It takes a few plays to click, then it stays on the shelf for years.
+The two-player version of the drafting classic, and many people think it is the better game. Cards sit in a pyramid, you take what is exposed, and three different paths to victory keep the tension high. It takes a few plays to click, then it stays on the shelf for years.
 
 ### Lost Cities
 
-Play numbered cards in ascending order on five expeditions, but every expedition you start costs you points until it pays off. <!-- AFFILIATE --> Pure cards, no board, and a push-your-luck decision every turn. It fits in a bag for a trip.
+Play numbered cards in ascending order on five expeditions, but every expedition you start costs you points until it pays off. Pure cards, no board, and a push-your-luck decision every turn. It fits in a bag for a trip.
 
 ### Codenames: Duet
 
-The cooperative two-player version of the party favorite. <!-- AFFILIATE --> You each know half of the words your partner needs, and you give one-word clues to get them there. It is a surprisingly intimate game, because the best clues come from shared history.
+The cooperative two-player version of the party favorite. You each know half of the words your partner needs, and you give one-word clues to get them there. It is a surprisingly intimate game, because the best clues come from shared history.
 
 ### The Fox in the Forest
 
-Trick-taking designed for two. <!-- AFFILIATE --> The twist: you score the most by winning a moderate number of tricks, not the most. Trying to lose at the right time is a skill, and it makes a familiar format feel new.
+Trick-taking designed for two. The twist: you score the most by winning a moderate number of tricks, not the most. Trying to lose at the right time is a skill, and it makes a familiar format feel new.
 
 ### Hive
 
-Hexagonal tiles with insects on them, each moving by its own rule, and the goal of surrounding the other player's queen bee. <!-- AFFILIATE --> It is chess without the memorization. No board, so it plays on a cafe table or a picnic blanket.
+Hexagonal tiles with insects on them, each moving by its own rule, and the goal of surrounding the other player's queen bee. It is chess without the memorization. No board, so it plays on a cafe table or a picnic blanket.
 
 ### Star Realms
 
-Buy ships and bases from a shared market, build a deck, and hammer your opponent's authority down to zero. <!-- AFFILIATE --> Twenty minutes, a few dollars, and more direct conflict than anything else on this list. Pick it if you both like a fight.
+Buy ships and bases from a shared market, build a deck, and hammer your opponent's authority down to zero. Twenty minutes, a few dollars, and more direct conflict than anything else on this list. Pick it if you both like a fight.
 
 ### Sky Team
 
-You are the pilot and copilot of a commercial jet, and you have to land it together by placing dice in sequence, without talking during the round. <!-- AFFILIATE --> The silence creates real tension, and the moment the plane touches down is a shared win. It is the best new two-player cooperative game in years.
+You are the pilot and copilot of a commercial jet, and you have to land it together by placing dice in sequence, without talking during the round. The silence creates real tension, and the moment the plane touches down is a shared win. It is the best new two-player cooperative game in years.
 
 ### Targi
 
-Worker placement for exactly two, set in a desert trading market. <!-- AFFILIATE --> The grid-based placement means you block your partner constantly, but the game is short and the blocking feels like a puzzle. For couples ready for something heavier.
+Worker placement for exactly two, set in a desert trading market. The grid-based placement means you block your partner constantly, but the game is short and the blocking feels like a puzzle. For couples ready for something heavier.
 
 ### Fog of Love
 
-You play two characters in a relationship, make choices, and see where the story goes. <!-- AFFILIATE --> It is more story than strategy, and it is funny. Not for every couple, but the ones who like it love it.
+You play two characters in a relationship, make choices, and see where the story goes. It is more story than strategy, and it is funny. Not for every couple, but the ones who like it love it.
 
 ### Azul
 
-Not strictly a two-player game, but one of the best at that count. <!-- AFFILIATE --> The tile market is tighter with two, every pick matters, and the pieces are pleasant to handle during a slow conversation.
+Not strictly a two-player game, but one of the best at that count. The tile market is tighter with two, every pick matters, and the pieces are pleasant to handle during a slow conversation.
 
 *If this is useful, the newsletter sends more like it.*
 
@@ -119,7 +119,7 @@ Patchwork for a first game, Jaipur for a fast rematch, and 7 Wonders Duel once y
 
 ### Are there cooperative two player board games?
 
-Yes. Codenames: Duet, Sky Team, and The Crew all play well at two, and Pandemic has a solid two-player mode.
+Yes. Codenames: Duet, Sky Team, and [The Crew](https://link.amazon/B099S9RKf) all play well at two, and [Pandemic](https://link.amazon/B0eHP5GCg) has a solid two-player mode.
 
 ### How long should a date night board game last?
 
@@ -127,7 +127,7 @@ Twenty to forty minutes is the sweet spot. It leaves room to play twice, or to s
 
 ### Can four-player games work for two?
 
-Some can. Azul, Splendor, and Carcassonne are good at two. Most party games and negotiation games are not.
+Some can. Azul, [Splendor](https://link.amazon/B0fEvY6Wg), and [Carcassonne](https://link.amazon/B012Rr5ed) are good at two. Most party games and negotiation games are not.
 
 ## One game for two, every week
 

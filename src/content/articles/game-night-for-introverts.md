@@ -14,7 +14,7 @@ This is for the person who wants people in their life, likes games, and has noti
 
 Because a game gives everyone something to do. At a party, the host is responsible for the energy in the room. Conversation has to be started, kept going, and rescued when it stalls. That is the part that drains.
 
-At a game table, the game does that. Nobody has to think of a topic. Turns structure who talks when. Silence is not awkward; it is someone thinking about their move. Many people who find small talk tiring find a round of Azul easy, because the attention is on the board rather than on them.
+At a game table, the game does that. Nobody has to think of a topic. Turns structure who talks when. Silence is not awkward; it is someone thinking about their move. Many people who find small talk tiring find a round of [Azul](https://link.amazon/B0bGRYHex) easy, because the attention is on the board rather than on them.
 
 The game is a kind of social scaffolding. For an introverted host, that scaffolding is the whole reason it works. The craft is in choosing games and a format that keep the scaffolding up all night.
 
@@ -40,13 +40,13 @@ Games that generate interaction on their own, without requiring anyone to perfor
 | Game | Why it works | Energy demand on host |
 |---|---|---|
 | Azul | Quiet, tactile, everyone watching the same tiles | Low |
-| Wingspan | Long, absorbing, low table talk | Low |
+| [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) | Long, absorbing, low table talk | Low |
 | The Crew | Co-op, constrained communication is the point | Low |
-| Pandemic | Team problem-solving, conversation is built in | Medium |
-| Codenames | Talking is structured by the clue format | Medium |
-| Patchwork (2p) | Calm, thoughtful, almost meditative | Very low |
-| Carcassonne | Shared map, easy to teach, gentle pace | Low |
-| Cascadia | Puzzle-like, peaceful, little direct conflict | Low |
+| [Pandemic](https://link.amazon/B0eHP5GCg) | Team problem-solving, conversation is built in | Medium |
+| [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) | Talking is structured by the clue format | Medium |
+| [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20) (2p) | Calm, thoughtful, almost meditative | Very low |
+| [Carcassonne](https://link.amazon/B012Rr5ed) | Shared map, easy to teach, gentle pace | Low |
+| [Cascadia](https://link.amazon/B0g1HYFt4) | Puzzle-like, peaceful, little direct conflict | Low |
 
 What these have in common: the interaction comes from the board, not from improvisation. Nobody has to be funny. Nobody has to bluff, act, or sell.
 

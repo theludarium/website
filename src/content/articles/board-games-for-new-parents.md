@@ -28,34 +28,34 @@ Most games fail at least one of these. The ones below pass all of them.
 
 | Game | Players | Time | Noise | Pause-friendly |
 |---|---|---|---|---|
-| Patchwork | 2 | 20 min | Silent | Yes |
-| Jaipur | 2 | 20 min | Quiet | Yes |
-| Lost Cities | 2 | 20 min | Quiet | Yes |
-| The Fox in the Forest | 2 | 20 min | Quiet | Yes |
-| Sushi Go! | 2 to 5 | 15 min | Quiet | Yes |
-| Hive Pocket | 2 | 15 min | Quiet | Yes |
-| Sprawlopolis | 1 to 4 | 15 min | Silent | Yes |
-| Onirim | 1 to 2 | 15 min | Silent | Yes |
+| [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20) | 2 | 20 min | Silent | Yes |
+| [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20) | 2 | 20 min | Quiet | Yes |
+| [Lost Cities](https://www.amazon.com/dp/B00T0GY9CK?tag=cubecommonw0a-20) | 2 | 20 min | Quiet | Yes |
+| [The Fox in the Forest](https://www.amazon.com/dp/B06XP7ZDH1?tag=cubecommonw0a-20) | 2 | 20 min | Quiet | Yes |
+| [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) | 2 to 5 | 15 min | Quiet | Yes |
+| [Hive Pocket](https://www.amazon.com/dp/B0079L0EKY?tag=cubecommonw0a-20) | 2 | 15 min | Quiet | Yes |
+| [Sprawlopolis](https://www.amazon.com/dp/B0DP3H8S4N?tag=cubecommonw0a-20) | 1 to 4 | 15 min | Silent | Yes |
+| [Onirim](https://www.amazon.com/dp/B00KU1343E?tag=cubecommonw0a-20) | 1 to 2 | 15 min | Silent | Yes |
 
-**Patchwork** <!-- AFFILIATE --> is the first recommendation for almost every exhausted couple. You take turns buying fabric pieces and fitting them onto a personal quilt board. It is quiet, there is almost no interaction to argue about, and it is the kind of puzzle a tired brain can still enjoy. If the baby wakes, the board sits there until you come back.
+**Patchwork** is the first recommendation for almost every exhausted couple. You take turns buying fabric pieces and fitting them onto a personal quilt board. It is quiet, there is almost no interaction to argue about, and it is the kind of puzzle a tired brain can still enjoy. If the baby wakes, the board sits there until you come back.
 
-**Jaipur** <!-- AFFILIATE --> is a two-player trading game that plays in twenty minutes with a deck of cards and a few tokens. It has slightly more edge than Patchwork, which some couples want. At about [$27 list](https://store.asmodee.com/products/jaipur) at the time of writing, and often less at retail, it is the best two-player card game for the money.
+**Jaipur** is a two-player trading game that plays in twenty minutes with a deck of cards and a few tokens. It has slightly more edge than Patchwork, which some couples want. At about $27 list at the time of writing, and often less at retail, it is the best two-player card game for the money.
 
-**Lost Cities** <!-- AFFILIATE --> is a card game about funding expeditions. The only real decision is whether to commit to a color, and the game is good enough that the designer's name (Reiner Knizia) is on the box as a selling point. Setup is a shuffle.
+**Lost Cities** is a card game about funding expeditions. The only real decision is whether to commit to a color, and the game is good enough that the designer's name (Reiner Knizia) is on the box as a selling point. Setup is a shuffle.
 
-**The Fox in the Forest** <!-- AFFILIATE --> is a two-player trick-taking game, a bit like a pocket version of Spades with special cards. If you grew up playing card games with family, it feels familiar immediately.
+**The Fox in the Forest** is a two-player trick-taking game, a bit like a pocket version of Spades with special cards. If you grew up playing card games with family, it feels familiar immediately.
 
-**Sprawlopolis** <!-- AFFILIATE --> is eighteen cards in a wallet-sized box. You build a city by overlapping cards to meet three scoring conditions. It is cooperative, silent, and fits in a diaper bag. It also plays solo for the nights your partner falls asleep on the couch at 8:15.
+**Sprawlopolis** is eighteen cards in a wallet-sized box. You build a city by overlapping cards to meet three scoring conditions. It is cooperative, silent, and fits in a diaper bag. It also plays solo for the nights your partner falls asleep on the couch at 8:15.
 
-**Onirim** <!-- AFFILIATE --> is a solo or two-player card game about escaping a dream. It is the right speed for a brain that cannot do math right now.
+**Onirim** is a solo or two-player card game about escaping a dream. It is the right speed for a brain that cannot do math right now.
 
 ## What about when a friend comes over?
 
 New parents do not stop having friends, but hosting changes. The visitor comes to you, arrives after bedtime, and leaves by ten. Games for that evening should handle three players and still be quiet.
 
-- **Sushi Go!** <!-- AFFILIATE --> handles two to five, plays in fifteen minutes, and teaches in one. It is the game to hand to a friend who has never played anything.
-- **The Crew** <!-- AFFILIATE --> is cooperative trick-taking for three to five players. It is quiet by rule, since you cannot talk about your cards, and each mission is about five minutes. You can stop after any mission.
-- **Azul** <!-- AFFILIATE --> is a slight stretch on time (30 to 40 minutes) but the tiles are quiet on a cloth, the rules are simple, and it is the game most likely to make your friend say "we should do this more."
+- **Sushi Go!** handles two to five, plays in fifteen minutes, and teaches in one. It is the game to hand to a friend who has never played anything.
+- **[The Crew](https://link.amazon/B099S9RKf)** is cooperative trick-taking for three to five players. It is quiet by rule, since you cannot talk about your cards, and each mission is about five minutes. You can stop after any mission.
+- **[Azul](https://link.amazon/B0bGRYHex)** is a slight stretch on time (30 to 40 minutes) but the tiles are quiet on a cloth, the rules are simple, and it is the game most likely to make your friend say "we should do this more."
 
 For more games that work at two and still scale up, see [board games for couples](/articles/board-games-for-couples/).
 
@@ -76,7 +76,7 @@ Ask parents of newborns what they miss most, and many will say not sleep but adu
 
 ## When do the kids get to play?
 
-Sooner than you think. [First Orchard](https://www.habausa.com/products/my-very-first-games-first-orchard) is rated for ages two and up, and simple cooperative games like [Outfoxed!](https://gamewright.com/product/Outfoxed) follow around five; the family game habit starts there. But that is a different article. For now, the games are for you.
+Sooner than you think. [First Orchard](https://www.habausa.com/products/my-very-first-games-first-orchard) is rated for ages two and up, and simple cooperative games like [Outfoxed!](https://link.amazon/B0hYNduxd) follow around five; the family game habit starts there. But that is a different article. For now, the games are for you.
 
 If you want to look ahead, see [best family board games](/articles/best-family-board-games/) and [screen-free family game habit](/articles/screen-free-family-game-habit/). For the next two years, bookmark them and come back.
 

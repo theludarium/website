@@ -39,7 +39,7 @@ The 170-card colorless section should have its own mana curve, its own creature-
 
 ## Should an artifact cube be singleton?
 
-Mostly yes, with one exception that the MTGO cube made famous: the Modern Horizons 2 Bridges <!-- AFFILIATE --> (Silverbluff Bridge, Drossforge Bridge, and the rest, the indestructible artifact dual lands) appeared four times each. The reason is structural. Affinity, metalcraft, improvise, and the artifact-count payoffs all want lands that count, and a singleton set of ten Bridges would mean most decks saw none. Four copies of each of the six nongreen Bridges is 24 lands, which puts a Bridge in most packs of a 540.
+Mostly yes, with one exception that the MTGO cube made famous: the Modern Horizons 2 Bridges (Silverbluff Bridge, Drossforge Bridge, and the rest, the indestructible artifact dual lands) appeared four times each. The reason is structural. Affinity, metalcraft, improvise, and the artifact-count payoffs all want lands that count, and a singleton set of ten Bridges would mean most decks saw none. Four copies of each of the six nongreen Bridges is 24 lands, which puts a Bridge in most packs of a 540.
 
 The paper "How to Tinker" list goes the other way: singleton, low land fixing, and an explicit note that drafters should take signets and talismans as their fixing and pick the indestructible lands highly because they will not wheel. Both approaches work. The choice is whether you want artifact lands to be an archetype's reward (singleton) or the cube's floor (duplicated Bridges). For a first build we lean toward duplicating the Bridges, because it makes the whole cube feel like an artifact cube from pack one.
 

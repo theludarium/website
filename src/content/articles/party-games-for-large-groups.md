@@ -9,7 +9,7 @@ draft: false
 ---
 Most board games stop at four or five players. That leaves a lot of hosts stuck when ten people show up. The best party games for large groups are built for a crowd: they teach in a minute, run in rounds, and keep everyone involved without waiting twenty minutes for a turn.
 
-**The quick answer:** for 8 to 12 people, play Codenames or Wavelength in two teams. For 12 to 20, play Monikers or Telestrations with the Party Pack. For 20 or more, play Two Rooms and a Boom, or split into tables. No box at all? Play Fishbowl with paper and a bowl.
+**The quick answer:** for 8 to 12 people, play [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) or [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) in two teams. For 12 to 20, play [Monikers](https://www.amazon.com/dp/B00M07OQ1U?tag=cubecommonw0a-20) or [Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20) with the Party Pack. For 20 or more, play Two Rooms and a Boom, or split into tables. No box at all? Play Fishbowl with paper and a bowl.
 
 This guide covers twelve games, a quick pick for each group size, a few that need no equipment, and how to run a big table so it stays fun rather than loud.
 
@@ -31,60 +31,60 @@ The most common mistake is trying to stretch a four-player game to eight. It is 
 |---|---|---|---|
 | Codenames | 4 to 8+ | 15 min | Two teams, any size, one grid of words |
 | Wavelength | 2 to 12 | 30 min | Debate where a clue lands on a spectrum |
-| Just One | 3 to 7 (more with house rules) | 20 min | Cooperative clues, big laughs |
+| [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20) | 3 to 7 (more with house rules) | 20 min | Cooperative clues, big laughs |
 | Telestrations | 4 to 8 (12 with Party Pack) | 30 min | Telephone meets Pictionary |
 | Monikers | 4 to 16 | 30 to 60 min | Celebrity in three escalating rounds |
-| Werewolf / One Night Ultimate Werewolf | 3 to 10 | 10 min | Hidden roles, accusations, ten-minute rounds |
-| The Resistance / Avalon | 5 to 10 | 30 min | Secret traitors and team votes |
-| Decrypto | 3 to 8 | 30 min | Coded messages between two teams |
+| Werewolf / [One Night Ultimate Werewolf](https://www.amazon.com/dp/B00HS7GG5G?tag=cubecommonw0a-20) | 3 to 10 | 10 min | Hidden roles, accusations, ten-minute rounds |
+| [The Resistance](https://www.amazon.com/dp/B01J16HNKS?tag=cubecommonw0a-20) / Avalon | 5 to 10 | 30 min | Secret traitors and team votes |
+| [Decrypto](https://www.amazon.com/dp/B07BB4ND6J?tag=cubecommonw0a-20) | 3 to 8 | 30 min | Coded messages between two teams |
 | Two Rooms and a Boom | 6 to 30 | 15 min | Hidden roles across two physical rooms |
-| Wits & Wagers | 3 to 7 (teams scale higher) | 25 min | Bet on everyone's trivia guesses |
-| Spyfall | 3 to 8 | 10 min | Find the spy who doesn't know the location |
+| [Wits & Wagers](https://www.amazon.com/dp/B083LH3779?tag=cubecommonw0a-20) | 3 to 7 (teams scale higher) | 25 min | Bet on everyone's trivia guesses |
+| [Spyfall](https://www.amazon.com/dp/B00Y4TYRT8?tag=cubecommonw0a-20) | 3 to 8 | 10 min | Find the spy who doesn't know the location |
 | Cards Against Humanity alternatives | 4 to 20 | varies | See our card game list for better options |
 
 ### Codenames
 
-The default large-group game for a reason. <!-- AFFILIATE --> Two teams, two spymasters, a five-by-five grid of words. Teams can be any size because the whole team discusses each guess. At twelve players, split into three teams of four and rotate the loser out.
+The default large-group game for a reason. Two teams, two spymasters, a five-by-five grid of words. Teams can be any size because the whole team discusses each guess. At twelve players, split into three teams of four and rotate the loser out.
 
 ### Wavelength
 
-A clue-giver sees a hidden target on a dial and names something that fits the spectrum, say "guilty pleasure to actual pleasure." <!-- AFFILIATE --> The team argues over where to set the dial. The arguing scales to any number of people, and it gets better with more opinions in the room.
+A clue-giver sees a hidden target on a dial and names something that fits the spectrum, say "guilty pleasure to actual pleasure." The team argues over where to set the dial. The arguing scales to any number of people, and it gets better with more opinions in the room.
 
 ### Just One
 
-Everyone writes a one-word clue for the guesser. <!-- AFFILIATE --> Matching clues get erased. The box says seven players, but it works with ten if you have enough dry-erase space. It is fully cooperative, which suits a mixed group where some people fear looking foolish.
+Everyone writes a one-word clue for the guesser. Matching clues get erased. The box says seven players, but it works with ten if you have enough dry-erase space. It is fully cooperative, which suits a mixed group where some people fear looking foolish.
 
 ### Telestrations
 
-Write a word, pass it, the next person draws it, the next guesses from the drawing, and so on. <!-- AFFILIATE --> The reveal at the end, where "lighthouse" became "angry pickle," is the best thirty seconds of most parties. The 12-player Party Pack is the right version for a crowd.
+Write a word, pass it, the next person draws it, the next guesses from the drawing, and so on. The reveal at the end, where "lighthouse" became "angry pickle," is the best thirty seconds of most parties. The 12-player Party Pack is the right version for a crowd.
 
 ### Monikers
 
-A deck of famous and infamous names, played in three rounds: describe freely, then one word, then charades. <!-- AFFILIATE --> The same cards come back each round, so inside jokes form in real time. It scales to sixteen in two teams with no loss of quality.
+A deck of famous and infamous names, played in three rounds: describe freely, then one word, then charades. The same cards come back each round, so inside jokes form in real time. It scales to sixteen in two teams with no loss of quality.
 
 ### Werewolf and One Night Ultimate Werewolf
 
-Villagers hunt hidden werewolves through accusation and vote. <!-- AFFILIATE --> Classic Werewolf needs a moderator and eliminates players, which is fine at a long party. One Night Ultimate Werewolf fixes both: no moderator, no elimination, ten-minute rounds. For why these games grip a room, see [why social deduction games work](/articles/why-social-deduction-games-work/).
+Villagers hunt hidden werewolves through accusation and vote. Classic Werewolf needs a moderator and eliminates players, which is fine at a long party. One Night [Ultimate Werewolf](https://www.amazon.com/dp/B00MHX7JPW?tag=cubecommonw0a-20) fixes both: no moderator, no elimination, ten-minute rounds. For why these games grip a room, see [why social deduction games work](/articles/why-social-deduction-games-work/).
 
 ### The Resistance and Avalon
 
-Five to ten players, some secretly on the bad team. <!-- AFFILIATE --> The group votes on mission teams, and the missions either pass or fail. No elimination, thirty minutes, and more structure than Werewolf. Avalon adds special roles that deepen the deduction.
+Five to ten players, some secretly on the bad team. The group votes on mission teams, and the missions either pass or fail. No elimination, thirty minutes, and more structure than Werewolf. Avalon adds special roles that deepen the deduction.
 
 ### Decrypto
 
-Two teams each share four secret keywords. <!-- AFFILIATE --> Each round, one teammate encodes a three-digit sequence with clues; the other team listens and tries to crack the pattern. It rewards clever groups and plays well with eight.
+Two teams each share four secret keywords. Each round, one teammate encodes a three-digit sequence with clues; the other team listens and tries to crack the pattern. It rewards clever groups and plays well with eight.
 
 ### Two Rooms and a Boom
 
-Split the party into two literal rooms. <!-- AFFILIATE --> One side has the President, one has the Bomber, and players trade hostages between rooms over three timed rounds. It handles thirty people and gets a whole house moving.
+Split the party into two literal rooms. One side has the President, one has the Bomber, and players trade hostages between rooms over three timed rounds. It handles thirty people and gets a whole house moving.
 
 ### Wits & Wagers
 
-Everyone writes a numerical guess to a trivia question, then bets poker-style on which guess is closest. <!-- AFFILIATE --> You do not need to know the answer; you need to know who in the room might. Play in teams and it handles a big crowd.
+Everyone writes a numerical guess to a trivia question, then bets poker-style on which guess is closest. You do not need to know the answer; you need to know who in the room might. Play in teams and it handles a big crowd.
 
 ### Spyfall
 
-Everyone gets the same location card except the spy, who gets nothing. <!-- AFFILIATE --> Players ask each other questions to prove they know the location without giving it away. Rounds last eight minutes, and you can run several tables at once.
+Everyone gets the same location card except the spy, who gets nothing. Players ask each other questions to prove they know the location without giving it away. Rounds last eight minutes, and you can run several tables at once.
 
 *If this is useful, the newsletter sends more like it.*
 

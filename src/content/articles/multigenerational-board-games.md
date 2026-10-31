@@ -14,7 +14,7 @@ Modern life sorts people by age. Kids are with kids at school. Adults are with a
 
 Holidays and reunions are supposed to fix this, but they often do not. Everyone is in the same house and still sorted: kids on tablets in one room, adults in the kitchen, grandparents on the couch waiting for someone to sit down next to them.
 
-A game table un-sorts people. A game of Codenames puts a nine-year-old and her grandfather on the same team, working the same problem. For 15 minutes, age stops being the organizing fact.
+A game table un-sorts people. A game of [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) puts a nine-year-old and her grandfather on the same team, working the same problem. For 15 minutes, age stops being the organizing fact.
 
 The benefits run in every direction:
 
@@ -49,16 +49,16 @@ Here are the games that pass the test, grouped by what they are good at.
 
 | Game | Ages | Players | Time | Why it works across generations |
 |---|---|---|---|---|
-| Ticket to Ride | 8+ | 2 to 5 | 45 to 60 min | Collect colors, claim routes. Grandparents love the map. |
-| Azul | 8+ | 2 to 4 | 30 min | Beautiful tiles, simple drafting, real strategy underneath. |
+| [Ticket to Ride](https://link.amazon/B0jh8RB7f) | 8+ | 2 to 5 | 45 to 60 min | Collect colors, claim routes. Grandparents love the map. |
+| [Azul](https://link.amazon/B0bGRYHex) | 8+ | 2 to 4 | 30 min | Beautiful tiles, simple drafting, real strategy underneath. |
 | Codenames | 10+ | 4+ | 15 min | Teams mix ages. Everyone contributes a guess. |
-| Sushi Go | 8+ | 2 to 5 | 15 min | Pass cards, collect sets. Teaches in two minutes. |
-| Kingdomino | 8+ | 2 to 4 | 15 min | Dominoes meets map-building. Almost no text. |
-| Just One | 8+ | 3 to 7 | 20 min | Cooperative word game. Nobody loses alone. |
-| Qwirkle | 6+ | 2 to 4 | 45 min | Shapes and colors. Accessible to the youngest and oldest. |
-| Carcassonne | 7+ | 2 to 5 | 35 min | Tile laying. Kids love placing meeples; adults love the scoring. |
-| Catan | 10+ | 3 to 4 | 60 to 90 min | Trading creates talk. Best when the youngest is 10 or older. |
-| Wingspan | 10+ | 1 to 5 | 60 min | Gorgeous bird cards. Grandparents who like birds are hooked. |
+| [Sushi Go](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) | 8+ | 2 to 5 | 15 min | Pass cards, collect sets. Teaches in two minutes. |
+| [Kingdomino](https://link.amazon/B08l49zvA) | 8+ | 2 to 4 | 15 min | Dominoes meets map-building. Almost no text. |
+| [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20) | 8+ | 3 to 7 | 20 min | Cooperative word game. Nobody loses alone. |
+| [Qwirkle](https://www.amazon.com/dp/1933054395?tag=cubecommonw0a-20) | 6+ | 2 to 4 | 45 min | Shapes and colors. Accessible to the youngest and oldest. |
+| [Carcassonne](https://link.amazon/B012Rr5ed) | 7+ | 2 to 5 | 35 min | Tile laying. Kids love placing meeples; adults love the scoring. |
+| [Catan](https://link.amazon/B0h8BDGR2) | 10+ | 3 to 4 | 60 to 90 min | Trading creates talk. Best when the youngest is 10 or older. |
+| [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) | 10+ | 1 to 5 | 60 min | Gorgeous bird cards. Grandparents who like birds are hooked. |
 
 A few notes on using this list.
 

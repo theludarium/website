@@ -21,7 +21,7 @@ The core loop is simple enough to explain in four steps.
 
 That is the whole mechanic. What makes it interesting is step three. Every card you pass is a card someone else may take, and every hand you receive has already been picked over by the people who held it. Your first pick from a fresh hand is a free choice. Your fifth pick is a choice among leftovers, and the leftovers tell you what your neighbors wanted.
 
-7 Wonders is the cleanest board game example. <!-- AFFILIATE --> Three ages, seven cards per hand, pick one and pass. The game has no other turns. Every decision you make is a draft pick, and the game has sold [more than two million copies](https://en.wikipedia.org/wiki/7_Wonders_(board_game)) on the strength of it.
+[7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20) is the cleanest board game example. Three ages, seven cards per hand, pick one and pass. The game has no other turns. Every decision you make is a draft pick, and the game has sold [more than two million copies](https://en.wikipedia.org/wiki/7_Wonders_(board_game)) on the strength of it.
 
 ## Where did card drafting come from?
 
@@ -39,16 +39,16 @@ Pick-and-pass is the most common, but it is not the only way to let players choo
 
 | Format | How it works | Example |
 |---|---|---|
-| Pick and pass | Take one, pass the hand to a neighbor | 7 Wonders, Sushi Go!, Magic booster draft |
-| Open draft (market row) | Cards face up in a row; take one on your turn, row refills | Ticket to Ride's train cards, Splendor, Century: Spice Road |
-| Rochester draft | All cards face up; players pick in snake order | Some Magic formats, Agricola's occupation draft variant |
+| Pick and pass | Take one, pass the hand to a neighbor | 7 Wonders, [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), Magic booster draft |
+| Open draft (market row) | Cards face up in a row; take one on your turn, row refills | [Ticket to Ride](https://link.amazon/B0jh8RB7f)'s train cards, [Splendor](https://link.amazon/B0fEvY6Wg), [Century: Spice Road](https://www.amazon.com/dp/B071DXCT5L?tag=cubecommonw0a-20) |
+| Rochester draft | All cards face up; players pick in snake order | Some Magic formats, [Agricola](https://www.amazon.com/dp/B07JZFN8WS?tag=cubecommonw0a-20)'s occupation draft variant |
 | Winston draft | Two players take turns choosing from small face-down piles that grow until someone takes them | Two-player Magic |
-| Dice drafting | Same as cards, but with rolled dice | Sagrada, Grand Austria Hotel |
+| Dice drafting | Same as cards, but with rolled dice | [Sagrada](https://www.amazon.com/dp/B0GL8V2VFD?tag=cubecommonw0a-20), [Grand Austria Hotel](https://www.amazon.com/dp/B017IWP33Q?tag=cubecommonw0a-20) |
 | Draft and write | Draft from a shared pool, then write results on a personal sheet | Many roll-and-writes with a draft step |
 
 The key difference is information. In pick-and-pass, you only see the hand in front of you, so you must infer what others are doing. In an open draft, everyone sees the same row, so the game becomes about timing: take the card you want now, or wait and hope it is still there.
 
-Dice drafting deserves a mention because it fixes one of the oldest complaints about dice. Rolling a bad number hurts less when you get to pick from everyone's rolls instead of being stuck with your own. Sagrada and Grand Austria Hotel both do this well. <!-- AFFILIATE -->
+Dice drafting deserves a mention because it fixes one of the oldest complaints about dice. Rolling a bad number hurts less when you get to pick from everyone's rolls instead of being stuck with your own. Sagrada and Grand Austria Hotel both do this well.
 
 *If this is useful, the newsletter sends more like it.*
 
@@ -100,7 +100,7 @@ A method of distributing cards where players choose from a shared pool, most oft
 
 ### What is the easiest drafting game to learn?
 
-Sushi Go! Each hand is small, the cards are clear, and a full game takes about fifteen minutes. <!-- AFFILIATE -->
+Sushi Go! Each hand is small, the cards are clear, and a full game takes about fifteen minutes.
 
 ### What is a booster draft?
 

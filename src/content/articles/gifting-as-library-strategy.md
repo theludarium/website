@@ -20,15 +20,15 @@ The underlying idea is [The One Copy Rule](/articles/one-copy-rule/): a play gro
 
 ## Why should expansions go to the base-game owner?
 
-An expansion is useless without its base game. A Wingspan expansion gifted to someone who does not own Wingspan is a box of cards with nowhere to go. Gifted to the person who owns the group's copy of Wingspan, it is a bigger Wingspan on the next game night.
+An expansion is useless without its base game. A [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) expansion gifted to someone who does not own Wingspan is a box of cards with nowhere to go. Gifted to the person who owns the group's copy of Wingspan, it is a bigger Wingspan on the next game night.
 
 That is the whole logic. On a Shared Shelf, the group's copy of a game lives with one owner. Any expansion for that game belongs with the same owner, so the box, the expansion, and the person who knows how to set it up all stay together. Splitting an expansion from its base game across two houses means the group needs both people present to play the full game. Keeping them together means one person brings one bag.
 
-This is also why [Claim a Lane](/articles/claim-a-lane/) matters for gifting. When each person owns a lane, it is obvious where every expansion goes. The co-op owner has Pandemic, so Pandemic expansions go to the co-op owner. Nobody has to think about it.
+This is also why [Claim a Lane](/articles/claim-a-lane/) matters for gifting. When each person owns a lane, it is obvious where every expansion goes. The co-op owner has [Pandemic](https://link.amazon/B0eHP5GCg), so Pandemic expansions go to the co-op owner. Nobody has to think about it.
 
 ## Why is a $25 expansion a group asset?
 
-Here is an illustration. Say the group's copy of Carcassonne has been played thirty times. The owner paid about $32 (its typical price at major retailers at the time of writing), so by cost per play it has already earned its keep. Now a friend gives the owner a $25 expansion for their birthday.
+Here is an illustration. Say the group's copy of [Carcassonne](https://link.amazon/B012Rr5ed) has been played thirty times. The owner paid about $32 (its typical price at major retailers at the time of writing), so by cost per play it has already earned its keep. Now a friend gives the owner a $25 expansion for their birthday.
 
 Nothing about that gift stays private. The next ten plays of Carcassonne are the expanded version, and all four people at the table get it. The $25 was spent by one person, received by another, and enjoyed by four. Divided across the table, it is one of the cheapest ways to add new play to a game the group already loves.
 
@@ -42,10 +42,10 @@ The simplest tool here is a short list for each member of the group: the base ga
 
 A per-person list might look like this (an illustration, by lane):
 
-- **Strategy lane:** owns Wingspan, Terraforming Mars, 7 Wonders. Wants: a Wingspan expansion, a Terraforming Mars expansion, card sleeves for 7 Wonders.
-- **Party lane:** owns Codenames, Just One, Wavelength. Wants: Codenames: Pictures, a replacement timer.
-- **Co-op lane:** owns Pandemic, The Crew, Spirit Island. Wants: a Spirit Island expansion, a Pandemic expansion.
-- **Two-player and filler lane:** owns Patchwork, Jaipur, Hive, Sushi Go!, Love Letter. Wants: a Hive expansion piece, a nicer bag for travel.
+- **Strategy lane:** owns Wingspan, [Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20), [7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20). Wants: a Wingspan expansion, a Terraforming Mars expansion, card sleeves for 7 Wonders.
+- **Party lane:** owns [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20), [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20). Wants: [Codenames: Pictures](https://www.amazon.com/dp/B01HT9DERU?tag=cubecommonw0a-20), a replacement timer.
+- **Co-op lane:** owns Pandemic, The Crew, [Spirit Island](https://www.amazon.com/dp/B01MUHP51S?tag=cubecommonw0a-20). Wants: a Spirit Island expansion, a Pandemic expansion.
+- **Two-player and filler lane:** owns [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20), [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20), [Hive](https://www.amazon.com/dp/B000EN5ZLW?tag=cubecommonw0a-20), [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20). Wants: a Hive expansion piece, a nicer bag for travel.
 
 Notice what is on these lists and what is not. No new base games unless the group has an empty lane. No duplicates of anything on the pooled shelf. Mostly expansions, upgrades, and the small practical things (sleeves, bags, inserts) that make a shared game last longer. Our [board game accessories gift guide](/articles/board-game-accessories-gift-guide/) covers which of those get used.
 
@@ -71,7 +71,7 @@ Gifting into a shared library has a few rules that a normal gift does not. They 
 
 - **The gift is the recipient's.** An expansion you give to the co-op owner belongs to the co-op owner. It lives with the base game. If they leave the group, it leaves with them, same as in [The Shared Shelf Social Contract](/articles/shared-shelf-social-contract/). Give it freely or do not give it.
 - **Ask before gifting outside a lane.** If you want to give the party owner a heavy strategy game, check first. It may be a wonderful gift, but it may also sit unplayed because the group already reaches for the strategy owner's shelf for that kind of night.
-- **Do not gift duplicates.** Check the pooled shelf. Always. A gifted second copy of Catan is the most avoidable gift in the hobby.
+- **Do not gift duplicates.** Check the pooled shelf. Always. A gifted second copy of [Catan](https://link.amazon/B0h8BDGR2) is the most avoidable gift in the hobby.
 - **Group gifts need one organizer.** Someone collects the money, buys the game, and hands it over. Four separate Venmo threads is how a group gift turns into three gifts and an apology.
 - **A gifted expansion is not an obligation to play it.** The group decides what hits the table. If the expansion turns out to be a dud, say so kindly and move on. The base game is still great.
 - **Accessories are always welcome.** Sleeves, inserts, bags, a good timer. Few people buy these for themselves, most are glad to have them, and they make a shared game survive more hands.

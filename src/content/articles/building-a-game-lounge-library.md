@@ -24,14 +24,14 @@ By the job each game does at a table. Here is the working split, with examples o
 
 | Job | Rough count | Examples of the type |
 |---|---|---|
-| First-five-minutes games (teach in 2 minutes, play in 15) | 15 | Codenames, Just One, Sushi Go!, No Thanks!, Love Letter <!-- AFFILIATE --> |
-| Gateway games (the second game of the night) | 20 | Ticket to Ride, Catan, Azul, Carcassonne, Splendor, Kingdomino <!-- AFFILIATE --> |
-| Cooperative games | 12 | Pandemic, The Crew, Forbidden Island, Hanabi, Spirit Island <!-- AFFILIATE --> |
-| Two-player games | 10 | Patchwork, 7 Wonders Duel, Jaipur, Hive, Lost Cities <!-- AFFILIATE --> |
-| Big group and party games (6 or more players) | 12 | Wavelength, Telestrations, Decrypto, Blood on the Clocktower, Skull <!-- AFFILIATE --> |
-| Kids and family games | 10 | Outfoxed!, Dragomino, My First Castle Panic, Ticket to Ride: First Journey <!-- AFFILIATE --> |
-| Medium-weight strategy (the regulars' shelf) | 15 | Wingspan, 7 Wonders, Everdell, Terraforming Mars, Dominion, Concordia <!-- AFFILIATE --> |
-| Heavy and long (reservation only) | 6 | Twilight Imperium, Gloomhaven: Jaws of the Lion, Brass: Birmingham, Dune: Imperium <!-- AFFILIATE --> |
+| First-five-minutes games (teach in 2 minutes, play in 15) | 15 | Codenames, Just One, Sushi Go!, No Thanks!, Love Letter |
+| Gateway games (the second game of the night) | 20 | Ticket to Ride, Catan, Azul, Carcassonne, Splendor, Kingdomino |
+| Cooperative games | 12 | Pandemic, The Crew, Forbidden Island, Hanabi, Spirit Island |
+| Two-player games | 10 | Patchwork, 7 Wonders Duel, Jaipur, Hive, Lost Cities |
+| Big group and party games (6 or more players) | 12 | Wavelength, Telestrations, Decrypto, Blood on the Clocktower, Skull |
+| Kids and family games | 10 | Outfoxed!, Dragomino, My First Castle Panic, Ticket to Ride: First Journey |
+| Medium-weight strategy (the regulars' shelf) | 15 | Wingspan, 7 Wonders, Everdell, Terraforming Mars, Dominion, Concordia |
+| Heavy and long (reservation only) | 6 | Twilight Imperium, Gloomhaven: Jaws of the Lion, Brass: Birmingham, Dune: Imperium |
 
 Those numbers add to 100 and will drift. Notice what is heavy and what is light: a third of the library is games you can teach to anyone in under five minutes. That is deliberate. The first game of the night decides whether there is a second.
 
@@ -39,7 +39,7 @@ Those numbers add to 100 and will drift. Notice what is heavy and what is light:
 
 The ones that are always out. In every venue we have visited, the same handful of games are never on the shelf on a Friday night, and the host is apologizing for it.
 
-Our current list for duplicates: Codenames, Ticket to Ride, Azul, The Crew, Wavelength, and Catan. <!-- AFFILIATE --> Possibly Wingspan. We would rather own two copies of a game that gets played every night than one copy of ten games that get played twice a year.
+Our current list for duplicates: Codenames, Ticket to Ride, Azul, The Crew, Wavelength, and Catan. Possibly Wingspan. We would rather own two copies of a game that gets played every night than one copy of ten games that get played twice a year.
 
 Duplicates also let us run learn-to-play nights where three tables play the same game at once, which is the single best way we know to turn walk-ins into regulars.
 

@@ -28,14 +28,14 @@ Not Catan. Not anything with a thirty-minute rules explanation, direct conflict,
 
 | Stage | Game | Why |
 |---|---|---|
-| First date | Wavelength <!-- AFFILIATE --> | Every round is a question about how you each see the world |
-| First date | Hive | Two-player, pretty, ten minutes, no reading |
-| First date | Sushi Go | Light, fast, and nobody gets hurt |
-| Third date | Patchwork | Quiet, cozy, mildly competitive |
-| Third date | Codenames: Duet | Cooperative; you learn how the other person thinks |
-| Established couple | 7 Wonders Duel | Real strategy and a little trash talk |
-| Established couple | Sky Team | Co-op in silence; you will find out if you can work together |
-| Established couple | Jaipur | Fast trading, replayable forever |
+| First date | [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) | Every round is a question about how you each see the world |
+| First date | [Hive](https://www.amazon.com/dp/B000EN5ZLW?tag=cubecommonw0a-20) | Two-player, pretty, ten minutes, no reading |
+| First date | [Sushi Go](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) | Light, fast, and nobody gets hurt |
+| Third date | [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20) | Quiet, cozy, mildly competitive |
+| Third date | [Codenames: Duet](https://www.amazon.com/dp/B0FJMNPGXM?tag=cubecommonw0a-20) | Cooperative; you learn how the other person thinks |
+| Established couple | [7 Wonders Duel](https://www.amazon.com/dp/B014DMSTXK?tag=cubecommonw0a-20) | Real strategy and a little trash talk |
+| Established couple | [Sky Team](https://www.amazon.com/dp/B0CHD8RCSJ?tag=cubecommonw0a-20) | Co-op in silence; you will find out if you can work together |
+| Established couple | [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20) | Fast trading, replayable forever |
 
 The pattern: early dates get cooperative or conversational games; later dates can handle competition. Wavelength in particular is a better first-date tool than most questions you could ask. Our longer list of [two-player games for date night](/articles/two-player-board-games-date-night/) goes deeper.
 
@@ -58,7 +58,7 @@ For a quieter version, go on a Tuesday or Wednesday. Weekend evenings at any gam
 Pick the venue over the game, and the conversation over the win.
 
 - **Choose a place with food and drink** so the night stands on its own even if the game is short.
-- **Start with something that is barely a game.** Wavelength, Codenames, or a trivia deck. These feel like talking with a structure.
+- **Start with something that is barely a game.** Wavelength, [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), or a trivia deck. These feel like talking with a structure.
 - **Let the skeptic pick.** Walking a game library shelf together and choosing by the box art is a fine way to spend ten minutes.
 - **Quit early if it is not working.** Twenty minutes of a game and an hour of talking is a successful date. We wrote about [games for people who say they don't like games](/articles/board-games-for-people-who-dont-like-games/) for this exact person.
 

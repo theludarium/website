@@ -82,7 +82,7 @@ A few reading habits help:
 
 ## How long does it take to learn a new board game?
 
-It depends on weight, which is the hobby's word for complexity. Light family games like Kingdomino or Sushi Go! can be learned in ten or fifteen minutes, rulebook included. Medium games like Wingspan or Ticket to Ride usually take a half hour of reading plus a practice round. Heavy strategy games can take an evening to learn, and a full first game to understand.
+It depends on weight, which is the hobby's word for complexity. Light family games like [Kingdomino](https://link.amazon/B08l49zvA) or [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) can be learned in ten or fifteen minutes, rulebook included. Medium games like [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) or [Ticket to Ride](https://link.amazon/B0jh8RB7f) usually take a half hour of reading plus a practice round. Heavy strategy games can take an evening to learn, and a full first game to understand.
 
 Two shortcuts help. First, choose games with short teaches when you are starting out; our list of the [easiest board games to learn](/articles/easiest-board-games-to-learn/) is a good shelf to start from. Second, learn a new game before game night, not at it. The person who learned it ahead of time can teach it in ten minutes. A whole table reading the same book together can take an hour.
 
@@ -102,7 +102,7 @@ The Ludarium Academy has a free how-to-play lesson for each of its game courses.
 - [How to play King of Tokyo](/academy/king-of-tokyo/how-to-play-king-of-tokyo/)
 - [How to play Flip 7](/academy/flip-7/how-to-play-flip-7/)
 - [How to play Codenames](/academy/codenames/how-to-play-codenames/)
-- The Catan course starts with its own lessons at [/academy/catan/](/academy/catan/)
+- The [Catan](https://link.amazon/B0h8BDGR2) course starts with its own lessons at [/academy/catan/](/academy/catan/)
 
 ### Cooperative games
 

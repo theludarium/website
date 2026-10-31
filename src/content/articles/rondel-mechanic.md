@@ -26,11 +26,11 @@ The result is that the action directly behind you is the most expensive one on t
 
 ## Who invented the rondel?
 
-The German designer [Mac Gerdts](https://en.wikipedia.org/wiki/Mac_Gerdts) is credited with the modern rondel, introduced in Antike (2005) and refined across a run of games that followed: Imperial (2006), Hamburgum (2007), Navegador (2010), and others. Gerdts used it so consistently that for several years "rondel game" and "Mac Gerdts game" meant almost the same thing.
+The German designer [Mac Gerdts](https://en.wikipedia.org/wiki/Mac_Gerdts) is credited with the modern rondel, introduced in [Antike](https://www.amazon.com/dp/B00T4XO8EI?tag=cubecommonw0a-20) (2005) and refined across a run of games that followed: Imperial (2006), [Hamburgum](https://www.amazon.com/dp/B0012NLDS2?tag=cubecommonw0a-20) (2007), [Navegador](https://www.amazon.com/dp/B0049GEILI?tag=cubecommonw0a-20) (2010), and others. Gerdts used it so consistently that for several years "rondel game" and "Mac Gerdts game" meant almost the same thing.
 
-Antike is a civilization game where the rondel drives everything: you circle through producing, building temples, moving armies, and advancing knowledge. <!-- AFFILIATE --> Imperial uses the same wheel to steer six European powers, with the twist that players are investors who control whichever nation they have the most money in. Navegador points the rondel at Portuguese exploration and trade.
+Antike is a civilization game where the rondel drives everything: you circle through producing, building temples, moving armies, and advancing knowledge. Imperial uses the same wheel to steer six European powers, with the twist that players are investors who control whichever nation they have the most money in. Navegador points the rondel at Portuguese exploration and trade.
 
-Gerdts's later Concordia dropped the rondel for a hand of action cards, but the family resemblance remains: both systems make the action you just took temporarily unavailable. Our piece on [worker placement](/articles/worker-placement-explained/) covers a third way designers restrict action choice, which is worth comparing.
+Gerdts's later [Concordia](https://www.amazon.com/dp/B00HFDSQP6?tag=cubecommonw0a-20) dropped the rondel for a hand of action cards, but the family resemblance remains: both systems make the action you just took temporarily unavailable. Our piece on [worker placement](/articles/worker-placement-explained/) covers a third way designers restrict action choice, which is worth comparing.
 
 ## Why does a rondel feel the way it does?
 
@@ -40,7 +40,7 @@ Three things fall out of the rules, and together they give rondel games their ch
 
 **Repetition has a price, and the price is public.** If you need to Build twice in a row, you can, but it costs, and everyone sees you pay. That makes the rondel a quiet brake on runaway strategies. The player who wants to do one thing over and over is taxed for it by the geometry of the wheel.
 
-**Tempo matters more than in most games.** Two players on the same rondel are on different wedges, so they can take the same action on different turns without blocking each other. Instead of fighting over spots, you fight over timing. Reaching Tax before the opponent whose nation you both invest in is the Imperial equivalent of a tackle.
+**Tempo matters more than in most games.** Two players on the same rondel are on different wedges, so they can take the same action on different turns without blocking each other. Instead of fighting over spots, you fight over timing. Reaching Tax before the opponent whose nation you both invest in is the [Imperial](https://www.amazon.com/dp/B000L326XU?tag=cubecommonw0a-20) equivalent of a tackle.
 
 The overall feel is of a game with momentum. Your marker is always moving forward. You cannot stall, cannot pass, cannot sit on a good action. The wheel turns and you turn with it.
 
@@ -53,18 +53,18 @@ The strict rondel is a circle with paid overshoot. A looser family of mechanisms
 | Game | How the wheel works | Strict rondel? |
 |---|---|---|
 | Antike / Antike II | Eight-wedge wheel, three free spaces, pay per extra | Yes |
-| Imperial / Imperial 2030 | Same wheel, actions taken on behalf of a nation you control | Yes |
+| Imperial / [Imperial 2030](https://www.amazon.com/dp/B0053GXGDO?tag=cubecommonw0a-20) | Same wheel, actions taken on behalf of a nation you control | Yes |
 | Navegador | Wheel of trade, explore, build, and colony actions | Yes |
 | Hamburgum | Rondel driving church building and trade | Yes |
 | Glen More / Glen More II | Tile track; player furthest behind moves next | Related |
-| Tokaido | One-way road; last player moves until they are first | Related |
-| Patchwork | Time track; player behind takes the turn | Related |
+| [Tokaido](https://www.amazon.com/dp/B0757QD8FY?tag=cubecommonw0a-20) | One-way road; last player moves until they are first | Related |
+| [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20) | Time track; player behind takes the turn | Related |
 | Teotihuacan | Workers walk clockwise around a board of action spaces | Related |
-| Trajan | Mancala-style bowls that rotate which action you may take | Related |
+| [Trajan](https://www.amazon.com/dp/B07JCBSDBJ?tag=cubecommonw0a-20) | Mancala-style bowls that rotate which action you may take | Related |
 
-Glen More, Tokaido, and Patchwork are not rondels in the strict sense; they are turn-order tracks where the player at the back moves. <!-- AFFILIATE --> But they share the core idea that moving further costs you something (in those games, it costs tempo rather than coins), and designers cite the rondel as a parent.
+Glen More, Tokaido, and Patchwork are not rondels in the strict sense; they are turn-order tracks where the player at the back moves. But they share the core idea that moving further costs you something (in those games, it costs tempo rather than coins), and designers cite the rondel as a parent.
 
-Teotihuacan's clockwise worker movement is probably the closest modern cousin: your workers circle a board of action spaces, moving one to three spaces for free and further for a price. <!-- AFFILIATE -->
+Teotihuacan's clockwise worker movement is probably the closest modern cousin: your workers circle a board of action spaces, moving one to three spaces for free and further for a price.
 
 ## How do you play a rondel well?
 

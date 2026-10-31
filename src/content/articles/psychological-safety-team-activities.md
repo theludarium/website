@@ -20,7 +20,7 @@ The hard part is that you cannot mandate it. Telling people "this is a safe spac
 
 ## Why does a game produce that evidence so quickly?
 
-A game is a machine for generating small, public risks with no real cost. Consider what happens in one round of Just One:
+A game is a machine for generating small, public risks with no real cost. Consider what happens in one round of [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20):
 
 Everyone writes a one-word clue for the guesser. Duplicate clues get removed. The guesser sees what is left and guesses. Sometimes the guess is wrong. Sometimes someone's clue was so odd that it got everyone laughing. Sometimes the senior person's clue was the one that got eliminated because it was too obvious.
 
@@ -40,13 +40,13 @@ Not all games do this equally. Competitive games with direct conflict can reduce
 | Game | Players | What it practices |
 |---|---|---|
 | Just One | 3 to 7 | Contributing in public with no way to be singled out |
-| Hanabi | 2 to 5 | Giving and receiving incomplete information gracefully |
+| [Hanabi](https://www.amazon.com/dp/B01MXTGT21?tag=cubecommonw0a-20) | 2 to 5 | Giving and receiving incomplete information gracefully |
 | The Crew | 2 to 5 | Trusting teammates to act on minimal signals |
-| Wavelength | 4 to 12 | Voicing opinions that others may disagree with |
-| So Clover! | 3 to 6 | Explaining your reasoning after the fact |
-| Telestrations | 4 to 8 | Being bad at something in front of everyone |
-| Magic Maze | 1 to 8 | Coordinating without being able to correct each other |
-| Pandemic | 2 to 4 | Disagreeing about a plan under pressure |
+| [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) | 4 to 12 | Voicing opinions that others may disagree with |
+| [So Clover!](https://www.amazon.com/dp/B0941TJHXX?tag=cubecommonw0a-20) | 3 to 6 | Explaining your reasoning after the fact |
+| [Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20) | 4 to 8 | Being bad at something in front of everyone |
+| [Magic Maze](https://www.amazon.com/dp/B08W9BV633?tag=cubecommonw0a-20) | 1 to 8 | Coordinating without being able to correct each other |
+| [Pandemic](https://link.amazon/B0eHP5GCg) | 2 to 4 | Disagreeing about a plan under pressure |
 
 Hanabi deserves a special note. You hold your cards facing outward; you see everyone's hand except your own. Teammates give you limited hints. You must act on partial information and trust that the hints were well-intended. It is the most direct simulation of "trusting your team with incomplete information" that exists in a box, and it is humbling for everyone.
 
@@ -81,7 +81,7 @@ The safety built at a game table does not transfer automatically. It transfers w
 
 - Reference the game in the next meeting, lightly. "This is a Hanabi situation: I only have half the picture."
 - Repeat the session. One game night builds a little. A monthly one builds a habit. See [how to run a lunch-hour game club at work](/articles/workplace-game-club/) for a low-cost format.
-- Protect the first real risk someone takes afterward. When the quiet engineer who gave the best Codenames clues speaks up in a design review, make sure it goes well.
+- Protect the first real risk someone takes afterward. When the quiet engineer who gave the best [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) clues speaks up in a design review, make sure it goes well.
 
 Edmondson's point has always been that safety is built from evidence. A game table generates that evidence quickly and in volume. The workplace has to keep generating it afterward, or it fades.
 

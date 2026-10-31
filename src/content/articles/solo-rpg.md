@@ -8,7 +8,7 @@ draft: false
 ---
 A solo RPG is a tabletop roleplaying game you play by yourself. You make a character, describe what they do, and use dice, cards, and random tables to decide what the world does back. Those tools take the place of the game master, so the story can still surprise you. Some solo RPGs are full adventure games with combat and exploration. Others are quiet writing games played with a journal. All of them let you play when nobody else is free.
 
-**The quick answer:** pick a game built for solo play, like Ironsworn (free) or Four Against Darkness, or add a game master emulator like Mythic to a game you already know. Ask yes or no questions, roll to answer them, and write down what happens. If you want to try it in the next twenty minutes, our free [RPG Demo Library](/rpg-demo-library/) has solo demos you can play in a browser.
+**The quick answer:** pick a game built for solo play, like Ironsworn (free) or [Four Against Darkness](https://www.amazon.com/dp/B0GBJL59GL?tag=cubecommonw0a-20), or add a game master emulator like Mythic to a game you already know. Ask yes or no questions, roll to answer them, and write down what happens. If you want to try it in the next twenty minutes, our free [RPG Demo Library](/rpg-demo-library/) has solo demos you can play in a browser.
 
 ## What is a solo RPG?
 
@@ -18,7 +18,7 @@ Solo TTRPGs come in three broad families:
 
 - **Solo-first adventure games.** Games designed from the start to be played alone, with rules for oracles and progress built in. Ironsworn and Starforged are the best known.
 - **Game master emulators.** Toolkits that replace the game master in any RPG. You keep your favorite system and bolt the emulator on.
-- **Journaling RPGs.** Games driven by written prompts, where the main activity is writing your character's story. Thousand Year Old Vampire is the famous example.
+- **Journaling RPGs.** Games driven by written prompts, where the main activity is writing your character's story. [Thousand Year Old Vampire](https://www.amazon.com/dp/1988943701?tag=cubecommonw0a-20) is the famous example.
 
 The rest of this guide explains how each one works and how to start.
 
@@ -87,15 +87,15 @@ The science fiction follow-up to Ironsworn, released digitally in 2022. Same cor
 
 ### Mythic Game Master Emulator
 
-Mythic <!-- AFFILIATE --> is not a game on its own so much as a game master in a box. Choose Mythic if you already love a system and want to play it alone.
+Mythic is not a game on its own so much as a game master in a box. Choose Mythic if you already love a system and want to play it alone.
 
 ### Four Against Darkness
 
-Four Against Darkness <!-- AFFILIATE --> is a solo dungeon crawl by Andrea Sfiligoi, published by Ganesha Games. You lead a party of four classic adventurers through dungeons you draw as you go. All you need is the book, a pencil, two six-sided dice, and grid paper. It is the most board-game-like pick on this list.
+Four Against Darkness is a solo dungeon crawl by Andrea Sfiligoi, published by Ganesha Games. You lead a party of four classic adventurers through dungeons you draw as you go. All you need is the book, a pencil, two six-sided dice, and grid paper. It is the most board-game-like pick on this list.
 
 ### Thousand Year Old Vampire
 
-Thousand Year Old Vampire <!-- AFFILIATE --> is Tim Hutchings's journaling game about a vampire living through the centuries, gaining and losing memories along the way. It won Gold ENNIEs in 2020 for Best Rules and Best Production Values. It is a writing game more than a dice game. Our guide to [solo journaling RPGs](/articles/solo-journaling-rpg/) covers it and others like it.
+Thousand Year Old Vampire is Tim Hutchings's journaling game about a vampire living through the centuries, gaining and losing memories along the way. It won Gold ENNIEs in 2020 for Best Rules and Best Production Values. It is a writing game more than a dice game. Our guide to [solo journaling RPGs](/articles/solo-journaling-rpg/) covers it and others like it.
 
 ### Alone Among the Stars
 

@@ -36,11 +36,11 @@ Games fix the sag. They give people something to do with their hands and a reaso
 
 People arrive in waves, so the first hour needs games that let a new person sit down mid-game.
 
-[Just One](https://store.asmodee.com/products/just-one-refresh) is a cooperative word game. One player guesses a mystery word, and everyone else writes a one-word clue. The catch: any clues that match are erased before the guesser sees them. Three to seven players, about twenty minutes, ages 8 and up. About $25 at the Asmodee store. Each round is short, so a latecomer joins on the next word.
+[Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20) is a cooperative word game. One player guesses a mystery word, and everyone else writes a one-word clue. The catch: any clues that match are erased before the guesser sees them. Three to seven players, about twenty minutes, ages 8 and up. About $25 at the Asmodee store. Each round is short, so a latecomer joins on the next word.
 
 <!-- AFFILIATE: Just One -->
 
-[Flip 7](https://www.target.com/p/the-op-games-flip-7-card-game/-/A-94179127) is a push-your-luck card game for three or more. Flip cards and add them up, but a repeated number busts you. About twenty minutes, ages 8 and up, about $8 at Target at the time of writing. It seats a crowd, and anyone can learn it by watching one round. Our free [Flip 7 course](/academy/flip-7/) has a quick teach.
+[Flip 7](https://www.amazon.com/dp/B0DWGVM7RY?tag=cubecommonw0a-20) is a push-your-luck card game for three or more. Flip cards and add them up, but a repeated number busts you. About twenty minutes, ages 8 and up, about $8 at Target at the time of writing. It seats a crowd, and anyone can learn it by watching one round. Our free [Flip 7 course](/academy/flip-7/) has a quick teach.
 
 <!-- AFFILIATE: Flip 7 -->
 
@@ -48,9 +48,9 @@ People arrive in waves, so the first hour needs games that let a new person sit 
 
 Once most guests are in, split into two teams. Team games carry more energy than anything else at a party, because every win is shared.
 
-- **[Codenames](https://store.czechgames.com/products/codenames-new).** Two spymasters give one-word clues to steer their teams to the right words on a grid of 25. Two to eight or more players, about fifteen minutes a game, ages 14 and up on the box. About $25 at the Czech Games store. Play best of three and keep a running score on a whiteboard. Our free [Codenames course](/academy/codenames/) covers giving good clues.
-- **[Wavelength](https://store.asmodee.com/products/wavelength).** One player gets a hidden target on a dial between two ideas, such as "underrated" and "overrated," and gives a clue. The team argues about where the clue falls. Two to twelve players, ages 14 and up, about $39 at the Asmodee store. The arguing is the fun.
-- **[Telestrations](https://theop.games/collections/telestrations).** Telephone with drawings. Everyone draws their own secret word, then passes the sketchbook. The next person guesses the drawing, the next draws that guess, and so on until the books come home. Four to eight players, about thirty minutes, ages 12 and up. The 8-player box lists for about $32 and the 12-player box for about $45, though both showed sold out at The Op's store at the time of writing, so check other retailers. Nobody needs to be able to draw.
+- **[Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20).** Two spymasters give one-word clues to steer their teams to the right words on a grid of 25. Two to eight or more players, about fifteen minutes a game, ages 14 and up on the box. About $25 at the Czech Games store. Play best of three and keep a running score on a whiteboard. Our free [Codenames course](/academy/codenames/) covers giving good clues.
+- **[Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20).** One player gets a hidden target on a dial between two ideas, such as "underrated" and "overrated," and gives a clue. The team argues about where the clue falls. Two to twelve players, ages 14 and up, about $39 at the Asmodee store. The arguing is the fun.
+- **[Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20).** Telephone with drawings. Everyone draws their own secret word, then passes the sketchbook. The next person guesses the drawing, the next draws that guess, and so on until the books come home. Four to eight players, about thirty minutes, ages 12 and up. The 8-player box lists for about $32 and the 12-player box for about $45, though both showed sold out at The Op's store at the time of writing, so check other retailers. Nobody needs to be able to draw.
 
 <!-- AFFILIATE: Codenames -->
 <!-- AFFILIATE: Wavelength -->
@@ -77,13 +77,13 @@ For a quieter crowd, swap the guessing for prediction. Each person writes one pr
 
 The final game should grow louder as midnight gets closer. Monikers does exactly that, and its three rounds slot neatly into the last hour.
 
-[Monikers](https://store.asmodee.com/products/monikers-family-edition) is a team guessing game played with the same deck of name cards in three rounds. In round one you can say anything except the name. In round two you can say only one word. In round three, you can only act it out. Because the cards repeat, the room builds inside jokes that pay off in the final round.
+[Monikers](https://www.amazon.com/dp/B00M07OQ1U?tag=cubecommonw0a-20) is a team guessing game played with the same deck of name cards in three rounds. In round one you can say anything except the name. In round two you can say only one word. In round three, you can only act it out. Because the cards repeat, the room builds inside jokes that pay off in the final round.
 
 - **11:00:** deal the cards and play round one.
 - **11:20:** round two, one word only.
 - **11:40:** round three, charades. Stop the last turn at 11:59, count the cards, and announce the winning team in time for the countdown.
 
-The original Monikers is rated 17 and up and was sold out at the Asmodee store at the time of writing. Monikers: Family Edition is a standalone version written so younger players get the jokes, for two to twelve or more players, ages 6 and up, about $30 at the Asmodee store. It is the safer buy for a mixed crowd.
+The original Monikers is rated 17 and up and was sold out at the Asmodee store at the time of writing. [Monikers: Family Edition](https://www.amazon.com/dp/B0FVBB5W1W?tag=cubecommonw0a-20) is a standalone version written so younger players get the jokes, for two to twelve or more players, ages 6 and up, about $30 at the Asmodee store. It is the safer buy for a mixed crowd.
 
 <!-- AFFILIATE: Monikers -->
 

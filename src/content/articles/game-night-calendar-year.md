@@ -37,15 +37,15 @@ If you want the longer list of themes to draw from, our [themed game night ideas
 
 ### January: Gateway Night
 
-The year starts with the door open. Every regular brings one person who has never come, and the games are only the ones that teach in five minutes: Ticket to Ride <!-- AFFILIATE -->, Azul <!-- AFFILIATE -->, Codenames <!-- AFFILIATE -->, Sushi Go! <!-- AFFILIATE -->. January is when people are looking for something new to do, and a game night that is built for newcomers catches them. Some of these guests become regulars by March.
+The year starts with the door open. Every regular brings one person who has never come, and the games are only the ones that teach in five minutes: [Ticket to Ride](https://link.amazon/B0jh8RB7f), [Azul](https://link.amazon/B0bGRYHex), [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20). January is when people are looking for something new to do, and a game night that is built for newcomers catches them. Some of these guests become regulars by March.
 
 ### February: Co-op Night
 
-The shortest month, the coldest weather, and the fewest reasons to leave the house. Everyone on one side: Pandemic <!-- AFFILIATE -->, The Crew <!-- AFFILIATE -->, Forbidden Island <!-- AFFILIATE --> for the newer players. Run it the week after Valentine's Day with the rule that at least one table has to lose. The groups who were a little tense in January are not by the end of this one.
+The shortest month, the coldest weather, and the fewest reasons to leave the house. Everyone on one side: Pandemic, The Crew, [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20) for the newer players. Run it the week after Valentine's Day with the rule that at least one table has to lose. The groups who were a little tense in January are not by the end of this one.
 
 ### March: Bracket Night
 
-March is when the rest of the country is filling out brackets, so borrow the energy. One fast game, single or double elimination, a small trophy. Love Letter <!-- AFFILIATE -->, Hive <!-- AFFILIATE -->, Jaipur <!-- AFFILIATE -->. Our guide to [running a board game tournament](/articles/how-to-run-a-board-game-tournament/) covers formats; for most groups of twelve or more, Swiss is the right choice and the bracket is for the final four.
+March is when the rest of the country is filling out brackets, so borrow the energy. One fast game, single or double elimination, a small trophy. [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20), [Hive](https://www.amazon.com/dp/B000EN5ZLW?tag=cubecommonw0a-20), [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20). Our guide to [running a board game tournament](/articles/how-to-run-a-board-game-tournament/) covers formats; for most groups of twelve or more, Swiss is the right choice and the bracket is for the final four.
 
 ### April: Shelf of Shame
 
@@ -53,17 +53,17 @@ Spring cleaning, applied to games. Everyone brings one game they own and have ne
 
 ### May: Outdoor and Dexterity
 
-The first evenings warm enough to open the door. Move the tables to a patio, a yard, or a park shelter. Dexterity games that do not mind wind: Crokinole if anyone owns a board, Klask <!-- AFFILIATE -->, Jenga, Rhino Hero <!-- AFFILIATE -->, Mölkky <!-- AFFILIATE --> or cornhole for the lawn. Card games stay inside this month.
+The first evenings warm enough to open the door. Move the tables to a patio, a yard, or a park shelter. Dexterity games that do not mind wind: Crokinole if anyone owns a board, [Klask](https://www.amazon.com/dp/B07PKJZQ9G?tag=cubecommonw0a-20), [Jenga](https://www.amazon.com/dp/B09TBG3G5L?tag=cubecommonw0a-20), [Rhino Hero](https://www.amazon.com/dp/B01M8LF7IA?tag=cubecommonw0a-20), [Mölkky](https://www.amazon.com/dp/B0BMKQ2KQT?tag=cubecommonw0a-20) or cornhole for the lawn. Card games stay inside this month.
 
 ### June: Two-Player Night
 
-Wedding season, graduation season, and the month when attendance gets unpredictable. Two-player tables handle an odd count better than anything else: set up five of them, rotate opponents every game, and nobody plays the same person twice. Patchwork <!-- AFFILIATE -->, 7 Wonders Duel <!-- AFFILIATE -->, Hive, Jaipur.
+Wedding season, graduation season, and the month when attendance gets unpredictable. Two-player tables handle an odd count better than anything else: set up five of them, rotate opponents every game, and nobody plays the same person twice. Patchwork, [7 Wonders Duel](https://www.amazon.com/dp/B014DMSTXK?tag=cubecommonw0a-20), Hive, Jaipur.
 
 *If this is useful, the newsletter sends more like it.*
 
 ### July: Big-Box Party Night
 
-Holiday weekends mean half the group is away and the other half has visiting relatives. Program for a crowd of unknown size and composition: Wavelength <!-- AFFILIATE -->, Just One <!-- AFFILIATE -->, Telestrations <!-- AFFILIATE -->, Codenames. Potluck, loose start time, no game with more than one page of rules. It is the easiest month to host and the one most likely to bring a partner who "doesn't play games."
+Holiday weekends mean half the group is away and the other half has visiting relatives. Program for a crowd of unknown size and composition: [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20), [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20), [Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20), Codenames. Potluck, loose start time, no game with more than one page of rules. It is the easiest month to host and the one most likely to bring a partner who "doesn't play games."
 
 ### August: Gen Con Debrief
 
@@ -75,15 +75,15 @@ School starts, schedules settle, and people want a routine. Start a ten-week lea
 
 ### October: Social Deduction
 
-Bluffing, hidden roles, and lying to your friends have a month, and it is this one. One big table: The Resistance: Avalon <!-- AFFILIATE -->, Blood on the Clocktower <!-- AFFILIATE --> if someone can run it, Werewolf if the group is big. Phones in a bowl. Run it the weekend before Halloween with the lights lower than usual.
+Bluffing, hidden roles, and lying to your friends have a month, and it is this one. One big table: [The Resistance: Avalon](https://www.amazon.com/dp/B009SAAV0C?tag=cubecommonw0a-20), [Blood on the Clocktower](https://www.amazon.com/dp/B0BRSTMP2V?tag=cubecommonw0a-20) if someone can run it, Werewolf if the group is big. Phones in a bowl. Run it the weekend before Halloween with the lights lower than usual.
 
 ### November: Family Table
 
-Thanksgiving week is not the time for a heavy strategy game or an elimination bracket. It is the time for a table that a grandparent, a teenager, and a brother-in-law can all sit at. Multigenerational games that forgive everything: Ticket to Ride, Kingdomino <!-- AFFILIATE -->, Telestrations, Sushi Go!. The league final lands the week before, so the standings are settled and the room is relaxed.
+Thanksgiving week is not the time for a heavy strategy game or an elimination bracket. It is the time for a table that a grandparent, a teenager, and a brother-in-law can all sit at. Multigenerational games that forgive everything: Ticket to Ride, [Kingdomino](https://link.amazon/B08l49zvA), Telestrations, Sushi Go!. The league final lands the week before, so the standings are settled and the room is relaxed.
 
 ### December: One Game, All Night
 
-End the year the way a group ends a good dinner: warm, familiar, unhurried. One game the group loves, played three or four times in a row, with a few minutes of talk between games. Catan <!-- AFFILIATE -->, Dominion <!-- AFFILIATE -->, or whatever the year's Shelf of Shame discovery turned out to be. Schedule it early in the month, before the calendar fills.
+End the year the way a group ends a good dinner: warm, familiar, unhurried. One game the group loves, played three or four times in a row, with a few minutes of talk between games. [Catan](https://link.amazon/B0h8BDGR2), [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20), or whatever the year's Shelf of Shame discovery turned out to be. Schedule it early in the month, before the calendar fills.
 
 ## How do regular nights fit around the featured ones?
 

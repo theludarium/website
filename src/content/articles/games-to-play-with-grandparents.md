@@ -6,7 +6,7 @@ category: Game Night
 tags: ["games to play with grandparents", "board games for seniors and grandchildren", "games for grandparents and kids", "multigenerational games", "card games for older adults", "games for elderly parents", "Family and intergenerational play"]
 draft: false
 ---
-The best games to play with grandparents who "don't play games" are the ones that look like something they already do. Rummikub looks like gin rummy with tiles. Qwirkle looks like dominoes. Codenames looks like a word puzzle. Ticket to Ride looks like a map. Almost every grandparent who claims not to play games played cards, dominoes, or Scrabble for decades. They do not dislike games. They dislike learning new rules in front of grandchildren.
+The best games to play with grandparents who "don't play games" are the ones that look like something they already do. [Rummikub](https://www.amazon.com/dp/B00000IZJB?tag=cubecommonw0a-20) looks like gin rummy with tiles. [Qwirkle](https://www.amazon.com/dp/1933054395?tag=cubecommonw0a-20) looks like dominoes. Codenames looks like a word puzzle. [Ticket to Ride](https://link.amazon/B0jh8RB7f) looks like a map. Almost every grandparent who claims not to play games played cards, dominoes, or Scrabble for decades. They do not dislike games. They dislike learning new rules in front of grandchildren.
 
 Once you see it that way, the job changes. You are not converting someone. You are finding the modern game that sits closest to the one they already know.
 
@@ -27,7 +27,7 @@ Every one of these has a fix, and most of the fixes are about choosing the game,
 Five things, roughly in order of importance.
 
 1. **A familiar hook.** Cards, tiles, words, or a map. Something they can look at and say "oh, it's like..."
-2. **Big pieces and readable text.** Rummikub tiles, Qwirkle blocks, and Azul tiles are all large and high contrast. Avoid games with small cards full of icons.
+2. **Big pieces and readable text.** Rummikub tiles, Qwirkle blocks, and [Azul](https://link.amazon/B0bGRYHex) tiles are all large and high contrast. Avoid games with small cards full of icons.
 3. **Short turns, no clock.** Nothing timed, nothing that punishes thinking. Codenames has a timer in the box. Leave it there.
 4. **Talking allowed.** The best grandparent games have gaps for conversation. Rummikub and Qwirkle run fine with a story going on across the table.
 5. **No one gets eliminated.** Sitting out is lonely. Everyone plays to the end.
@@ -42,14 +42,14 @@ Each of these has been tested at tables with a sixty-year age spread. Ages and p
 |---|---|---|---|---|
 | Rummikub | 8+ | 2 to 4 | 45 min | Gin rummy with big tiles. The most reliable pick on the list. |
 | Qwirkle | 6+ | 2 to 4 | 30 to 45 min | Dominoes with colors and shapes. No reading at all. |
-| [Codenames](https://czechgames.com/en/codenames/) (or Pictures) | 10+ | 4 to 8+ | 15 to 20 min | A word association puzzle. Grandparents are often the best clue-givers. |
+| [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) (or Pictures) | 10+ | 4 to 8+ | 15 to 20 min | A word association puzzle. Grandparents are often the best clue-givers. |
 | Ticket to Ride | 8+ | 2 to 5 | 60 min | A train map. Set collection they can picture. |
 | Azul | 8+ | 2 to 4 | 30 to 40 min | Tile laying. Heavy, pretty pieces that feel good in the hand. |
-| Sequence | 7+ | 2 to 12 | 30 min | Cards plus a board. Five in a row. Practically a classic already. |
-| [Dixit](https://www.libellud.com/game/dixit/) | 8+ | 3 to 8 | 30 min | Storytelling with pictures. Rewards a lifetime of references. |
-| Wingspan | 10+ | 1 to 5 | 60 to 90 min | Birds. Any grandparent with a feeder outside will stop pretending not to care. |
-| Skull King | 8+ | 2 to 6 | 30 min | Trick-taking like euchre or spades, with pirates. Bidding feels familiar. |
-| [Telestrations](https://theop.games/collections/telestrations) | 12+ (younger kids manage fine) | 4 to 8 | 30 min | Telephone with drawings. Nobody is good at it, which is the point. |
+| [Sequence](https://www.amazon.com/dp/B09FSGVW4X?tag=cubecommonw0a-20) | 7+ | 2 to 12 | 30 min | Cards plus a board. Five in a row. Practically a classic already. |
+| [Dixit](https://www.amazon.com/dp/2914849656?tag=cubecommonw0a-20) | 8+ | 3 to 8 | 30 min | Storytelling with pictures. Rewards a lifetime of references. |
+| [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) | 10+ | 1 to 5 | 60 to 90 min | Birds. Any grandparent with a feeder outside will stop pretending not to care. |
+| [Skull King](https://www.amazon.com/dp/B00CK1EJG8?tag=cubecommonw0a-20) | 8+ | 2 to 6 | 30 min | Trick-taking like euchre or spades, with pirates. Bidding feels familiar. |
+| [Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20) | 12+ (younger kids manage fine) | 4 to 8 | 30 min | Telephone with drawings. Nobody is good at it, which is the point. |
 
 Rummikub deserves its spot at the top. It was designed decades ago, it is in a lot of retirement community game rooms already, and it has a quality the others lack: a grandparent might know it better than you do. Being the expert at the table for once changes everything.
 
@@ -92,7 +92,7 @@ Rummikub. It is familiar, the tiles are large, turns are simple, and many grandp
 
 ### What games can grandparents play with young grandchildren?
 
-Qwirkle, Sequence, Outfoxed!, and Zingo! all work with children as young as five or six and are easy on an adult of any age. Our list of [board games for 5-year-olds](/articles/board-games-for-5-year-olds/) has more.
+Qwirkle, Sequence, [Outfoxed!](https://link.amazon/B0hYNduxd), and [Zingo!](https://www.amazon.com/dp/B01DY818JG?tag=cubecommonw0a-20) all work with children as young as five or six and are easy on an adult of any age. Our list of [board games for 5-year-olds](/articles/board-games-for-5-year-olds/) has more.
 
 ### How do you get older parents interested in board games?
 

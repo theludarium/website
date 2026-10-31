@@ -6,7 +6,7 @@ category: Game Guides
 tags: ["starforged", "ironsworn starforged", "starforged solo", "how to play starforged", "solo rpg", "sci-fi rpg"]
 draft: false
 ---
-Starforged is a science fiction tabletop roleplaying game by Shawn Tomkin, built so you can play it alone, with friends and no game master, or with a game master in the usual way. Its full name is Ironsworn: Starforged. You play a spacefarer in a dangerous, half-settled region of space, swearing vows and trying to keep them. The game itself handles the surprises a game master would normally provide, through a set of moves, a large stack of random tables called oracles, and progress tracks that measure how close you are to your goals.
+Starforged is a science fiction tabletop roleplaying game by Shawn Tomkin, built so you can play it alone, with friends and no game master, or with a game master in the usual way. Its full name is [Ironsworn: Starforged](https://www.amazon.com/dp/1802810498?tag=cubecommonw0a-20). You play a spacefarer in a dangerous, half-settled region of space, swearing vows and trying to keep them. The game itself handles the surprises a game master would normally provide, through a set of moves, a large stack of random tables called oracles, and progress tracks that measure how close you are to your goals.
 
 **The quick answer:** to play Starforged you need the rules, three dice (one six-sided and two ten-sided), a character sheet, and a notebook. You make a character, swear a vow, and then tell the story one move at a time, asking the oracles whenever you need to know what happens next. If you want to feel how it plays before you read 400 pages, try our free browser demo, [The Long Sleep of the Lodestar](/rpg-demo-library/games/starforged/), which takes about 20 minutes.
 

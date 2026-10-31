@@ -14,7 +14,7 @@ The slow player is rarely trying to be slow. Understanding why it happens is the
 
 Three things, usually in combination.
 
-**Too many choices.** A game like Terraforming Mars can present a dozen legal plays on a single turn. The brain does not handle a dozen options well. It stalls.
+**Too many choices.** A game like [Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20) can present a dozen legal plays on a single turn. The brain does not handle a dozen options well. It stalls.
 
 **Fear of the wrong move.** Some players treat every turn as a test. They are not slow because they are enjoying the puzzle. They are slow because they are afraid of looking foolish.
 
@@ -66,13 +66,13 @@ Game choice is the quiet fix. Some designs produce paralysis in almost anyone; o
 
 Games with low paralysis risk:
 
-- **Simultaneous action.** 7 Wonders, Sushi Go, Wavelength. Everyone decides at once, so one person's thinking time does not become everyone's waiting time.
-- **Few options per turn.** Azul (take one color from one display), Splendor (take gems or buy a card), Ticket to Ride (three actions, pick one). Limited choices mean limited stalling.
-- **Hidden-information co-ops.** The Crew. You cannot calculate the perfect play because you do not know the other hands. You just play.
-- **Real-time or timed.** Codenames with a sand timer, Magic Maze, any game with a built-in clock.
-- **Dice-driven turns.** Camel Up, King of Tokyo. The roll limits the decision space before you even start thinking.
+- **Simultaneous action.** [7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20), Sushi Go, [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20). Everyone decides at once, so one person's thinking time does not become everyone's waiting time.
+- **Few options per turn.** [Azul](https://link.amazon/B0bGRYHex) (take one color from one display), [Splendor](https://link.amazon/B0fEvY6Wg) (take gems or buy a card), [Ticket to Ride](https://link.amazon/B0jh8RB7f) (three actions, pick one). Limited choices mean limited stalling.
+- **Hidden-information co-ops.** [The Crew](https://link.amazon/B099S9RKf). You cannot calculate the perfect play because you do not know the other hands. You just play.
+- **Real-time or timed.** [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) with a sand timer, [Magic Maze](https://www.amazon.com/dp/B08W9BV633?tag=cubecommonw0a-20), any game with a built-in clock.
+- **Dice-driven turns.** [Camel Up](https://www.amazon.com/dp/B09KWZMXLX?tag=cubecommonw0a-20), [King of Tokyo](https://link.amazon/B0goO6BQA). The roll limits the decision space before you even start thinking.
 
-Games with high paralysis risk: Terraforming Mars, Scythe, Twilight Imperium, Agricola, most heavy worker-placement games, and any game where you can see the whole board and compute several turns ahead. These are excellent games. They are also where a slow player becomes a problem for the whole table.
+Games with high paralysis risk: Terraforming Mars, [Scythe](https://www.amazon.com/dp/B01IPUGYK6?tag=cubecommonw0a-20), [Twilight Imperium](https://www.amazon.com/dp/B074YPSTRP?tag=cubecommonw0a-20), [Agricola](https://www.amazon.com/dp/B07JZFN8WS?tag=cubecommonw0a-20), most heavy worker-placement games, and any game where you can see the whole board and compute several turns ahead. These are excellent games. They are also where a slow player becomes a problem for the whole table.
 
 Picking the right game for the group is most of the job. The rest of the lineup matters too, and [sequencing a game night](/articles/game-night-lineup/) covers where to place heavier games so the slow turns land when energy is highest.
 

@@ -7,15 +7,15 @@ games: [pandemic, forbidden-island]
 tags: ["Pandemic vs Forbidden Island", "best first cooperative board game", "Forbidden Island or Pandemic", "cooperative games for families", "Matt Leacock games", "co-op board games for beginners", "Comparisons"]
 draft: false
 ---
-Pandemic vs Forbidden Island is a fair fight because the two games share a designer, Matt Leacock, and a core idea: the board is falling apart faster than the players can fix it, and the only way to win is to talk. One is the smaller, lighter, cheaper version of the other. Which you should buy first depends on who you are buying it for.
+Pandemic vs [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20) is a fair fight because the two games share a designer, Matt Leacock, and a core idea: the board is falling apart faster than the players can fix it, and the only way to win is to talk. One is the smaller, lighter, cheaper version of the other. Which you should buy first depends on who you are buying it for.
 
 The quick answer: Forbidden Island for families, younger kids, or a group that has never played a cooperative game. Pandemic for adults, teenagers, and anyone who wants a game they will still be losing to in a year. For more picks for a mixed-age table, see our [best family board games](/articles/best-family-board-games/).
 
 ## How do the two games work?
 
-**Forbidden Island** <!-- AFFILIATE --> lays out 24 tiles as an island. Players move around it collecting four treasures, each of which requires a set of four matching cards and a trip to a specific tile. At the end of each turn, you draw flood cards. Flooded tiles flip over; flooded again, they sink and are gone. Waters Rise cards raise the flood rate and reshuffle the danger back on top. Everyone escapes by helicopter with all four treasures, or the island takes you with it. Publisher specs list 2 to 4 players, ages 10 and up, about 30 minutes ([Gamewright](https://gamewright.com/product/Forbidden-Island)).
+**Forbidden Island** lays out 24 tiles as an island. Players move around it collecting four treasures, each of which requires a set of four matching cards and a trip to a specific tile. At the end of each turn, you draw flood cards. Flooded tiles flip over; flooded again, they sink and are gone. Waters Rise cards raise the flood rate and reshuffle the danger back on top. Everyone escapes by helicopter with all four treasures, or the island takes you with it. Publisher specs list 2 to 4 players, ages 10 and up, about 30 minutes (Gamewright).
 
-**Pandemic** <!-- AFFILIATE --> puts four diseases on a world map of 48 cities. Players take four actions a turn: move, treat disease cubes, build research stations, share cards, or cure a disease by turning in five cards of one color at a station. Then you draw cards, and then you infect cities. Epidemic cards accelerate the infection rate and, like Waters Rise, reshuffle the already-infected cities back on top of the deck so they hit again. Cure all four diseases to win. Lose to outbreaks, running out of cubes, or running out of cards. Publisher specs list 2 to 4 players, ages 8 and up, about 45 minutes ([Z-Man Games](https://www.zmangames.com/game/pandemic/)).
+**[Pandemic](https://link.amazon/B0eHP5GCg)** puts four diseases on a world map of 48 cities. Players take four actions a turn: move, treat disease cubes, build research stations, share cards, or cure a disease by turning in five cards of one color at a station. Then you draw cards, and then you infect cities. Epidemic cards accelerate the infection rate and, like Waters Rise, reshuffle the already-infected cities back on top of the deck so they hit again. Cure all four diseases to win. Lose to outbreaks, running out of cubes, or running out of cards. Publisher specs list 2 to 4 players, ages 8 and up, about 45 minutes (Z-Man Games).
 
 The family resemblance is obvious once you have played both. Forbidden Island is Pandemic with the world shrunk to an island and the diseases replaced by water.
 
@@ -28,7 +28,7 @@ The family resemblance is obvious once you have played both. Forbidden Island is
 | Ages (box) | 8+ | 10+ |
 | Weight (complexity) | Medium-light | Light |
 | Teach time | 10 to 12 minutes | 5 minutes |
-| Price range | [$49.99 list](https://store.asmodee.com/products/pandemic) at the time of writing | [$26 list](https://www.nobleknight.com/P/2147428909/Forbidden-Island) at the time of writing |
+| Price range | $49.99 list at the time of writing | $26 list at the time of writing |
 | Difficulty settings | 4, 5, or 6 Epidemic cards | Starting water level 1 to 4+ |
 | Roles | 7 | 6 |
 | What it's best at | A real puzzle adults keep losing and keep replaying | Teaching the idea of co-op fast, to anyone |
@@ -75,7 +75,7 @@ Pandemic works well with kids around ten and up, especially ones who already lik
 
 Pandemic. The base game alone has enough variety in role combinations and difficulty settings for many months of play. The expansion line (On the Brink, In the Lab, State of Emergency) adds more. And Pandemic Legacy, a campaign version that permanently changes the board over a dozen or more sessions, is one of the most praised board games ever made. It is its own purchase, but the base game is the on-ramp.
 
-Forbidden Island has no expansions. Its sequels, Forbidden Desert and Forbidden Sky, are separate games with their own rules, and Forbidden Desert is a strong next step. But the island itself will get solved by a group that plays it often. That is fine. It costs less, and it has done its job by then.
+Forbidden Island has no expansions. Its sequels, [Forbidden Desert](https://www.amazon.com/dp/B00B4ECHJI?tag=cubecommonw0a-20) and Forbidden Sky, are separate games with their own rules, and Forbidden Desert is a strong next step. But the island itself will get solved by a group that plays it often. That is fine. It costs less, and it has done its job by then.
 
 ## Verdict: which co-op should you buy first?
 

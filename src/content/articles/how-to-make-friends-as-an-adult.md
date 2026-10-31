@@ -92,7 +92,7 @@ Our guide to [finding a board game night near you](/articles/board-game-night-ne
 
 ## What if you don't play games yet?
 
-Good news: most game nights are built for that. Ask the host for something light, or bring one of the [easiest board games to learn](/articles/easiest-board-games-to-learn/) yourself. Games like Codenames, Just One, and Ticket to Ride teach in a few minutes.
+Good news: most game nights are built for that. Ask the host for something light, or bring one of the [easiest board games to learn](/articles/easiest-board-games-to-learn/) yourself. Games like [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20), and [Ticket to Ride](https://link.amazon/B0jh8RB7f) teach in a few minutes.
 
 If you want a short list to start from, our picks for [gateway games for friends who don't play yet](/articles/gateway-board-games/) are a good place to begin. [Cooperative games](/articles/best-cooperative-board-games/) are another easy first step, since everyone wins or loses together and nobody gets singled out.
 

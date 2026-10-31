@@ -68,7 +68,7 @@ The Exhibit Hall is designed to be irresistible. Hundreds of publishers, convent
 5. **Wait for Sunday.** Vendors discount to avoid shipping stock home. Not everything, and not the hot items, but enough.
 6. **Factor shipping.** A $60 game that costs $20 to ship home is an $80 game. Leave room in your luggage or budget the box.
 
-Games that give the most play per dollar at Gen Con prices are the small-box ones: The Crew <!-- AFFILIATE -->, Hanabi <!-- AFFILIATE -->, Skull, No Thanks. A $15 card game you play fifty times beats a $90 box you play twice.
+Games that give the most play per dollar at Gen Con prices are the small-box ones: The Crew, [Hanabi](https://www.amazon.com/dp/B01MXTGT21?tag=cubecommonw0a-20), [Skull](https://www.amazon.com/dp/B08R2BPLSN?tag=cubecommonw0a-20), No Thanks. A $15 card game you play fifty times beats a $90 box you play twice.
 
 ## Sample budgets
 

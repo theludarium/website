@@ -68,7 +68,7 @@ Come back the next week and the same people will say hello. The third week, you 
 Less than you think.
 
 - **Yourself, on time.** Arriving thirty minutes late means every table has started.
-- **One game you can teach**, if you own one. Codenames, Sushi Go, or The Crew are perfect. It gives you something to offer and a table to anchor.
+- **One game you can teach**, if you own one. [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), [Sushi Go](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), or [The Crew](https://link.amazon/B099S9RKf) are perfect. It gives you something to offer and a table to anchor.
 - **Cash for a drink or cover.** Even if the night is free, buying something from the host venue is good manners.
 - **A willingness to lose.** You will be learning games other people know. That is the point.
 
@@ -86,7 +86,7 @@ This is the practical path into a third place, somewhere that is neither home no
 
 Then a game night is the best possible room for you. The game does the talking. Nobody expects you to introduce yourself with a story. You just need to say "I'll play" and then play.
 
-Codenames gives you a team and a job. Wavelength gives you a reason to argue. The Crew makes you a crewmate on a mission within thirty seconds of sitting down. Conversation happens as a side effect of the game, which is how most people prefer it anyway.
+Codenames gives you a team and a job. [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) gives you a reason to argue. The Crew makes you a crewmate on a mission within thirty seconds of sitting down. Conversation happens as a side effect of the game, which is how most people prefer it anyway.
 
 Cooperative games are especially good on a first visit. You and the strangers are on the same side from the first turn. Losing to the game together is a better bonding experience than beating each other.
 

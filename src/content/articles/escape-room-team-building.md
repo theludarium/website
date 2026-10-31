@@ -55,21 +55,21 @@ Four series cover most needs. Each one comes in many themed scenarios, so you ca
 
 ### EXIT: The Game
 
-Designed by Inka and Markus Brand and published by Kosmos. <!-- AFFILIATE --> The first three titles won the Kennerspiel des Jahres, Germany's connoisseur game of the year award, in 2017. Boxes are for 1 to 4 players. Puzzles use the cards, a code wheel, and the box itself, and you are often asked to fold, cut, or write on components, so each copy is single use. Clever and tactile, but plan one box per table and do not expect to reuse it.
+Designed by Inka and Markus Brand and published by Kosmos. The first three titles won the Kennerspiel des Jahres, Germany's connoisseur game of the year award, in 2017. Boxes are for 1 to 4 players. Puzzles use the cards, a code wheel, and the box itself, and you are often asked to fold, cut, or write on components, so each copy is single use. Clever and tactile, but plan one box per table and do not expect to reuse it.
 
 ### Unlock!
 
-Published by Space Cowboys. <!-- AFFILIATE --> A card-based escape game that needs a free companion app, which runs the timer, gives hints, and checks your codes. Most boxes contain three scenarios and list 1 to 6 players at about 60 minutes. Nothing is destroyed, so a different team can play the same box later. You need one phone or tablet per table with the app downloaded in advance.
+Published by Space Cowboys. A card-based escape game that needs a free companion app, which runs the timer, gives hints, and checks your codes. Most boxes contain three scenarios and list 1 to 6 players at about 60 minutes. Nothing is destroyed, so a different team can play the same box later. You need one phone or tablet per table with the app downloaded in advance.
 
 ### Escape Room: The Game
 
-Published by Identity Games. <!-- AFFILIATE --> Built for 3 to 5 players, with a plastic countdown device called the Chrono Decoder that runs a 60-minute clock and holds the codes you enter. It feels closest to a venue room thanks to that ticking timer. Players need to find three correct codes within the hour to win.
+Published by Identity Games. Built for 3 to 5 players, with a plastic countdown device called the Chrono Decoder that runs a 60-minute clock and holds the codes you enter. It feels closest to a venue room thanks to that ticking timer. Players need to find three correct codes within the hour to win.
 
 ### Deckscape
 
-Designed by Martino Chiacchiera and Silvano Sorrentino and published by dV Giochi. <!-- AFFILIATE --> Each scenario is a single small deck of cards, listed for 1 to 6 players and about an hour. It is the most portable option and the easiest to carry to an offsite in quantity. Nothing is destroyed, but once a team knows the answers, the deck is spent for them.
+Designed by Martino Chiacchiera and Silvano Sorrentino and published by dV Giochi. Each scenario is a single small deck of cards, listed for 1 to 6 players and about an hour. It is the most portable option and the easiest to carry to an offsite in quantity. Nothing is destroyed, but once a team knows the answers, the deck is spent for them.
 
-**Which to pick:** Unlock! for most corporate groups, because it is reusable and the app handles hints without a facilitator at every table. EXIT for teams that like hands-on puzzles and do not mind buying fresh boxes. Deckscape when you need many tables and portability. Escape Room: The Game when you want the tension of a physical timer.
+**Which to pick:** [Unlock!](https://www.amazon.com/dp/B06X9SCDNG?tag=cubecommonw0a-20) for most corporate groups, because it is reusable and the app handles hints without a facilitator at every table. EXIT for teams that like hands-on puzzles and do not mind buying fresh boxes. [Deckscape](https://www.amazon.com/dp/8890944749?tag=cubecommonw0a-20) when you need many tables and portability. [Escape Room: The Game](https://www.amazon.com/dp/B07B7W94Y3?tag=cubecommonw0a-20) when you want the tension of a physical timer.
 
 For a broader look at puzzle formats, including jigsaws and paper puzzle hunts, see our [puzzle night ideas](/articles/puzzle-night-ideas/).
 

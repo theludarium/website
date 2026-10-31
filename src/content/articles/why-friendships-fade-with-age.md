@@ -64,7 +64,7 @@ Here is how the common candidates compare.
 | Book club | Monthly | Yes | Yes, but homework | Often; attendance drifts |
 | Weekly game night | Yes | Yes | Yes | Yes; the game carries it |
 
-A game night scores on every row, which is why we keep coming back to it. It also works across differences that defeat other formats. A game of Ticket to Ride accommodates an extrovert and someone who barely speaks, a new neighbor and a friend of thirty years.
+A game night scores on every row, which is why we keep coming back to it. It also works across differences that defeat other formats. A game of [Ticket to Ride](https://link.amazon/B0jh8RB7f) accommodates an extrovert and someone who barely speaks, a new neighbor and a friend of thirty years.
 
 ## How do you start the habit in midlife or later?
 
@@ -72,7 +72,7 @@ The hard part is the first month, and the barriers are mostly social, not logist
 
 1. **Invite two people, not ten.** A big launch fails because nobody feels responsible. Three people who said yes is a group.
 2. **Name the night.** "Thursdays at seven, my place or the lounge." Repeat it until it becomes a noun.
-3. **Pick a game that teaches in five minutes.** Codenames, Ticket to Ride, Azul, The Crew. The game should never be the obstacle.
+3. **Pick a game that teaches in five minutes.** [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), Ticket to Ride, [Azul](https://link.amazon/B0bGRYHex), [The Crew](https://link.amazon/B099S9RKf). The game should never be the obstacle.
 4. **Hold an open chair.** Tell the group that anyone can bring someone. Groups that can absorb a newcomer survive moves and losses; closed groups end when one person leaves.
 5. **Do not cancel for low turnout.** Two people is a game night. Cancelling once makes cancelling easy.
 6. **Give it twelve weeks before judging.** Habits take a season to set, and so do groups. The tenth Thursday is easy in a way the first is not.

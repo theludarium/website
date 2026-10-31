@@ -6,7 +6,7 @@ category: Game Design
 tags: ["roll and write games", "roll and write design", "best roll and write games", "flip and write games", "Ganz Schön Clever", "designing a score sheet", "Tabletop game design"]
 draft: false
 ---
-Roll and write games are exactly what the name says. Someone rolls dice, everyone writes something on a sheet, and at the end the sheets are scored. Yahtzee is the ancestor. Ganz Schön Clever, Welcome To..., and Cartographers are the modern form, and over the last decade the format has become one of the most crowded corners of the hobby.
+Roll and write games are exactly what the name says. Someone rolls dice, everyone writes something on a sheet, and at the end the sheets are scored. [Yahtzee](https://www.amazon.com/dp/B00TLEMRKM?tag=cubecommonw0a-20) is the ancestor. Ganz Schön Clever, [Welcome To...](https://www.amazon.com/dp/B08MB11DDW?tag=cubecommonw0a-20), and [Cartographers](https://www.amazon.com/dp/B07PDNNLGR?tag=cubecommonw0a-20) are the modern form, and over the last decade the format has become one of the most crowded corners of the hobby.
 
 It is crowded because it looks easy. A sheet, some dice, a few rules. Designers who try it discover the opposite: with almost no components and almost no rules, every design decision is exposed. This article looks at why the format works, what the best examples do, and what makes a good one so hard to build.
 
@@ -41,8 +41,8 @@ They differ more than players expect for a format with so few parts.
 | Ganz Schön Clever | Six colored dice, drafted in turn | Which die to take and where its chain leads | Combo cascades across five scoring areas |
 | Welcome To... | Three pairs of flipped cards | Which house number to write where | Spatial constraint: numbers must ascend along a street |
 | Cartographers | Shape cards drawn from a deck | Where to draw a shape on a map grid | Polyomino placement scored by changing objectives |
-| Railroad Ink | Four route dice rolled for all | How to connect roads and rails on a grid | Network-building on a personal board |
-| Qwixx | Six dice, two white and four colored | Whether to mark now or wait for a better number | Push-your-luck: rows lock as players fill them |
+| [Railroad Ink](https://www.amazon.com/dp/B07GPZYS61?tag=cubecommonw0a-20) | Four route dice rolled for all | How to connect roads and rails on a grid | Network-building on a personal board |
+| [Qwixx](https://www.amazon.com/dp/B00J57138C?tag=cubecommonw0a-20) | Six dice, two white and four colored | Whether to mark now or wait for a better number | Push-your-luck: rows lock as players fill them |
 
 Three ideas run through the table.
 

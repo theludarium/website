@@ -14,9 +14,9 @@ This article explains what an engine is in board game terms, how the curve works
 
 An engine is a set of game elements that produce value without being spent. The distinction between producing and spending is the key.
 
-In Monopoly, a property you own produces rent every time someone lands on it. You bought it once; it pays forever. That is an engine, a crude one. In Catan, a settlement on a good hex produces resources on every matching roll. Also an engine.
+In [Monopoly](https://www.amazon.com/dp/B00CV5PN2W?tag=cubecommonw0a-20), a property you own produces rent every time someone lands on it. You bought it once; it pays forever. That is an engine, a crude one. In [Catan](https://link.amazon/B0h8BDGR2), a settlement on a good hex produces resources on every matching roll. Also an engine.
 
-What modern engine building games add is interaction between the parts. In Wingspan, a bird in your forest row might give you food every time you activate the row. <!-- AFFILIATE --> A second bird in that row might let you cache food for points. A third might draw a card whenever you gain food. Now one action triggers three effects, and the three effects feed each other. That chain is the engine, and building it is the game.
+What modern engine building games add is interaction between the parts. In [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), a bird in your forest row might give you food every time you activate the row. A second bird in that row might let you cache food for points. A third might draw a card whenever you gain food. Now one action triggers three effects, and the three effects feed each other. That chain is the engine, and building it is the game.
 
 The common signs of an engine builder:
 
@@ -29,9 +29,9 @@ The common signs of an engine builder:
 
 Almost every engine building game follows the same shape, and recognizing it is the first step to playing well.
 
-**Phase one: investment.** You have few resources and each turn does little. You buy the cheapest permanent things that produce something. In Splendor, that means picking up level-one cards for their gem bonuses, not their points. <!-- AFFILIATE --> It feels slow. It is supposed to.
+**Phase one: investment.** You have few resources and each turn does little. You buy the cheapest permanent things that produce something. In [Splendor](https://link.amazon/B0fEvY6Wg), that means picking up level-one cards for their gem bonuses, not their points. It feels slow. It is supposed to.
 
-**Phase two: acceleration.** The early purchases start paying off. You can afford mid-tier things, and those produce more. In Dominion, this is when your deck starts drawing extra cards and playing extra actions in the same turn. <!-- AFFILIATE --> Turns get longer and more satisfying.
+**Phase two: acceleration.** The early purchases start paying off. You can afford mid-tier things, and those produce more. In [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20), this is when your deck starts drawing extra cards and playing extra actions in the same turn. Turns get longer and more satisfying.
 
 **Phase three: conversion.** The engine is built. Now you stop building and start turning its output into points. In Wingspan, this is the fourth round, when you stop placing birds and start laying eggs. In Splendor, it is when you take the nobles and the high-point cards.
 
@@ -59,7 +59,7 @@ The idea is old. Monopoly's properties and Acquire's hotel chains are engines in
 
 The first is Dominion (2008), which made the deck itself the engine and gave the hobby the vocabulary of "building" something out of cards. Our piece on [deck building games](/articles/deck-building-games-explained/) tells that story.
 
-The second is the European economic game tradition: [Puerto Rico](https://en.wikipedia.org/wiki/Puerto_Rico_(board_game)) (2002), [Caylus](https://en.wikipedia.org/wiki/Caylus_(board_game)) (2005), and [Agricola](https://en.wikipedia.org/wiki/Agricola_(board_game)) (2007), where buildings and upgrades produced repeating benefits. Race for the Galaxy (2007) combined both threads into a tableau of cards that chained off each other, and it is probably the first game most hobbyists would call a pure engine builder.
+The second is the European economic game tradition: [Puerto Rico](https://en.wikipedia.org/wiki/Puerto_Rico_(board_game)) (2002), [Caylus](https://en.wikipedia.org/wiki/Caylus_(board_game)) (2005), and [Agricola](https://en.wikipedia.org/wiki/Agricola_(board_game)) (2007), where buildings and upgrades produced repeating benefits. [Race for the Galaxy](https://www.amazon.com/dp/B000YLAOEW?tag=cubecommonw0a-20) (2007) combined both threads into a tableau of cards that chained off each other, and it is probably the first game most hobbyists would call a pure engine builder.
 
 Splendor (2014) stripped the idea to its bones: gems buy cards, cards give permanent gem discounts, discounts buy better cards. Wingspan (2019) wrapped a rich engine in a theme warm enough to sell to people who had never heard the term. Between them, the style became one of the most popular in the hobby.
 
@@ -69,16 +69,16 @@ Splendor (2014) stripped the idea to its bones: gems buy cards, cards give perma
 |---|---|---|---|
 | Splendor | Gem cards that discount future cards | 30 min | The purest, shortest version of the curve |
 | Wingspan | Birds with row-triggered powers | 60 to 90 min | The warmest theme; the engine is visible and pretty |
-| Century: Spice Road | Trade cards that convert cubes | 30 to 45 min | Hand of cards you cycle; teaches conversion timing |
+| [Century: Spice Road](https://www.amazon.com/dp/B071DXCT5L?tag=cubecommonw0a-20) | Trade cards that convert cubes | 30 to 45 min | Hand of cards you cycle; teaches conversion timing |
 | Dominion | Your own deck | 30 min | The deck-builder origin; endless setup variety |
 | Race for the Galaxy | Tableau of planets and developments | 30 to 45 min | Deep and fast once learned; dense iconography |
-| Terraforming Mars | Project cards and production tracks | 2 to 3 hours | The long form; the engine is a planet |
+| [Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20) | Project cards and production tracks | 2 to 3 hours | The long form; the engine is a planet |
 
 Splendor is the best teacher because there is nothing else in it. Every decision is an engine decision. Once the curve makes sense there, it makes sense everywhere.
 
 Wingspan is the best introduction for a mixed group because the theme carries people who do not care about efficiency. Someone can play it for the birds and still feel the acceleration.
 
-Terraforming Mars is where to go once you want the engine to be enormous. <!-- AFFILIATE --> It is also where the genre's weaknesses show: long games, long turns, and the sense that the other players are mostly scenery.
+Terraforming Mars is where to go once you want the engine to be enormous. It is also where the genre's weaknesses show: long games, long turns, and the sense that the other players are mostly scenery.
 
 ## How do you get better at engine builders?
 

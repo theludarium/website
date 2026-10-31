@@ -13,7 +13,7 @@ Learning how to play backgammon takes about ten minutes. Two players each race 1
 
 ## What do you need to play backgammon?
 
-A backgammon set has:
+A [backgammon set](https://www.amazon.com/dp/B00NB0H1BW?tag=cubecommonw0a-20) has:
 
 - **A board** with 24 long triangles called **points**, split into four quarters of six. A raised strip down the middle is the **bar**.
 - **30 checkers**, 15 in each color.

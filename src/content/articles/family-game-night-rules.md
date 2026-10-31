@@ -24,7 +24,7 @@ A small set of agreed rules also lets a parent step out of the referee role and 
 
 One person picks the game each week, from the family shelf. Nobody vetoes. The picker goes in a fixed order and the youngest starts the rotation, because the youngest has the least power everywhere else. Post the order on the fridge.
 
-This one rule removes about half the arguments. The teenager who hates Dragomino knows their week is coming.
+This one rule removes about half the arguments. The teenager who hates [Dragomino](https://link.amazon/B09WKyU19) knows their week is coming.
 
 ### 2. Phones go in the basket
 
@@ -85,9 +85,9 @@ If it is persistent, let that child be the rules-reader for a few weeks. Give th
 
 ## Should parents play to win?
 
-Yes, with judgment. Playing at full strength against a five-year-old at a pure skill game is pointless. Playing to win at Kingdomino against a nine-year-old is respect. Children know when they are being handed a game, and it devalues the win.
+Yes, with judgment. Playing at full strength against a five-year-old at a pure skill game is pointless. Playing to win at [Kingdomino](https://link.amazon/B08l49zvA) against a nine-year-old is respect. Children know when they are being handed a game, and it devalues the win.
 
-The adjustment is in the game choice, not the effort. Pick games with enough luck that the kids win a real share. Then play properly. The day your kid beats you fair and square at Ticket to Ride is a day they will remember, and it only means something if you were trying.
+The adjustment is in the game choice, not the effort. Pick games with enough luck that the kids win a real share. Then play properly. The day your kid beats you fair and square at [Ticket to Ride](https://link.amazon/B0jh8RB7f) is a day they will remember, and it only means something if you were trying.
 
 ## What if the rules themselves cause a fight?
 

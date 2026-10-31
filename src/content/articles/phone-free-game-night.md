@@ -10,13 +10,13 @@ A phone-free game night is the single easiest upgrade you can make to any table.
 
 ## Why do phones wreck a game night?
 
-Everyone knows the feeling. It is your turn in Wingspan, and the person to your left is scrolling. You say their name twice. They look up, blink, ask what happened, and the table has to replay the last two minutes.
+Everyone knows the feeling. It is your turn in [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), and the person to your left is scrolling. You say their name twice. They look up, blink, ask what happened, and the table has to replay the last two minutes.
 
 That is the obvious cost. The hidden one is worse. Research on what psychologists call "phubbing," snubbing someone in favor of a phone, is mixed on whether a phone sitting untouched on the table does harm. A widely cited 2013 study found that strangers felt less connected when a phone was merely visible, but a [later replication](https://pmc.ncbi.nlm.nih.gov/articles/PMC8189469) failed to reproduce that effect. The stronger evidence is about phones people actually use. A [study from Elizabeth Dunn's lab at the University of British Columbia](https://www.eurekalert.org/news-releases/628758) sent more than 300 people to dinner with friends or family, had half keep their phones on the table, and found that those diners felt more distracted and enjoyed the meal less.
 
 The phone does not need to ring. Its presence signals that something elsewhere might be more interesting than the people here. Everyone at the table reads that signal, mostly without noticing.
 
-There is also a cognitive cost. [Adrian Ward's research at the University of Texas](https://news.utexas.edu/2017/06/26/the-mere-presence-of-your-smartphone-reduces-brain-power) suggests that a phone within reach drains attention even when face down and silenced, because part of your brain is working to ignore it. People whose phones were in another room did measurably better on cognitive tests than people whose phones were on the desk. That is attention you are not spending on the trade offer in Catan or the clue your partner just gave in Codenames.
+There is also a cognitive cost. [Adrian Ward's research at the University of Texas](https://news.utexas.edu/2017/06/26/the-mere-presence-of-your-smartphone-reduces-brain-power) suggests that a phone within reach drains attention even when face down and silenced, because part of your brain is working to ignore it. People whose phones were in another room did measurably better on cognitive tests than people whose phones were on the desk. That is attention you are not spending on the trade offer in [Catan](https://link.amazon/B0h8BDGR2) or the clue your partner just gave in [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20).
 
 Games are built on attention. A distracted table plays worse and bonds less.
 
@@ -53,15 +53,15 @@ One exception worth naming out loud: anyone with a real reason to be reachable, 
 
 ## What actually changes at a phone-free table?
 
-The first thing people notice is that the games run faster. Turns do not stall. Nobody needs the last round explained. A game of Ticket to Ride that used to take 75 minutes takes 55.
+The first thing people notice is that the games run faster. Turns do not stall. Nobody needs the last round explained. A game of [Ticket to Ride](https://link.amazon/B0jh8RB7f) that used to take 75 minutes takes 55.
 
-The second thing is that the gaps fill with talk. Setup, shuffling, waiting for someone to count their score in Azul: all of those used to be scroll breaks. Now they are conversation. This is where most of the real connection at a game night happens, in the margins around the game, and phones had been quietly eating those margins.
+The second thing is that the gaps fill with talk. Setup, shuffling, waiting for someone to count their score in [Azul](https://link.amazon/B0bGRYHex): all of those used to be scroll breaks. Now they are conversation. This is where most of the real connection at a game night happens, in the margins around the game, and phones had been quietly eating those margins.
 
 The third thing is harder to describe. The room feels different. People lean in. They watch each other's turns. They react. A good play in The Crew gets a cheer because everyone saw it. The table becomes a place where attention is shared, and shared attention is most of what friendship is made of.
 
 A few more things regulars report:
 
-1. **Better bluffs.** Social deduction games like Skull or The Resistance depend on reading faces. Faces that are lit by a phone are unreadable.
+1. **Better bluffs.** Social deduction games like [Skull](https://www.amazon.com/dp/B08R2BPLSN?tag=cubecommonw0a-20) or [The Resistance](https://www.amazon.com/dp/B01J16HNKS?tag=cubecommonw0a-20) depend on reading faces. Faces that are lit by a phone are unreadable.
 2. **Fewer rules disputes.** Everyone heard the rule the first time.
 3. **Longer nights.** Without the pull of the feed, people stay for one more game.
 4. **Better memory of the evening.** This one has some support. [Decades of memory research](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.00005/full) show that dividing attention while something is happening weakens how well you encode it, and almost any distracting task will do it. People remember phone-free nights more vividly, which is part of why they want to come back.

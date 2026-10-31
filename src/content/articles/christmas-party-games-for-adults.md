@@ -8,7 +8,7 @@ draft: false
 ---
 The best Christmas party games for adults teach in two minutes, play in teams, and run in short rounds so people can drift in and out between the cookies and the coats. Pick by the mood of the room. Loud games for a crowd that wants to laugh, clever games for friends who like a puzzle, and cozy games for the end of the night when the fire is low.
 
-**The quick answer:** for a loud room, play Herd Mentality with its Christmas Expansion or Telestrations. For a clever crowd, play Codenames or Just One. For a cozy close, play Hues and Cues. No games in the house? Play Fishbowl with paper and a bowl.
+**The quick answer:** for a loud room, play [Herd Mentality](https://www.amazon.com/dp/B093HBBMPT?tag=cubecommonw0a-20) with its Christmas Expansion or Telestrations. For a clever crowd, play Codenames or Just One. For a cozy close, play Hues and Cues. No games in the house? Play Fishbowl with paper and a bowl.
 
 Prices below are publisher list prices checked at the time of writing. They move a lot between now and December.
 
@@ -26,13 +26,13 @@ A party is not a game night. People arrive late, wander off, and leave early to 
 |---|---|---|---|---|
 | Herd Mentality | 4 to 20 | 20 min | $25, plus $13 for the Christmas Expansion | Loud |
 | Telestrations (8 Player) | 4 to 8 | 30 min | $32 list | Loud |
-| Monikers | 2 to 12 or more | 30 min | $25 | Loud |
+| [Monikers](https://www.amazon.com/dp/B00M07OQ1U?tag=cubecommonw0a-20) | 2 to 12 or more | 30 min | $25 | Loud |
 | Codenames | 2 to 8 or more | 15 min | $25 | Clever |
 | Just One | 3 to 7 | 20 min | $25 | Clever |
-| The Chameleon | 3 to 8 | 15 min | $27 | Clever |
+| [The Chameleon](https://www.amazon.com/dp/B07MV4NN5Z?tag=cubecommonw0a-20) | 3 to 8 | 15 min | $27 | Clever |
 | Hues and Cues | 3 to 10 | 30 min | $26 list | Cozy |
 | Skull | 3 to 6 | 30 min | $21 | Cozy |
-| Flip 7: Grinch Edition | 3 or more | 20 min | $8 list | Cozy |
+| [Flip 7: Grinch Edition](https://www.amazon.com/dp/B0GR1VQ8YN?tag=cubecommonw0a-20) | 3 or more | 20 min | $8 list | Cozy |
 
 ## Loud games for a crowd that wants to laugh
 
@@ -46,7 +46,7 @@ Big Potato also sells a Christmas Expansion with 100 festive questions that shuf
 
 ### Telestrations
 
-[Telestrations](https://theop.games/products/telestrations-8-player-the-original-2nd-edition) is the telephone game with sketch pads. Everyone draws a secret word, passes the pad, guesses what the drawing shows, and passes again. By the end, "candy cane" has become something nobody can explain. It plays 4 to 8, ages 10 and up, about thirty minutes, with a list price of about $32. Nobody needs to draw well. Bad drawings are the best part.
+[Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20) is the telephone game with sketch pads. Everyone draws a secret word, passes the pad, guesses what the drawing shows, and passes again. By the end, "candy cane" has become something nobody can explain. It plays 4 to 8, ages 10 and up, about thirty minutes, with a list price of about $32. Nobody needs to draw well. Bad drawings are the best part.
 
 <!-- AFFILIATE: Telestrations -->
 
@@ -60,13 +60,13 @@ Big Potato also sells a Christmas Expansion with 100 festive questions that shuf
 
 ### Codenames
 
-[Codenames](https://store.czechgames.com/products/codenames-new) splits the room into two teams. Each team has a spymaster who gives one-word clues to steer teammates toward their secret words on a grid of 25, while avoiding the assassin. It seats as many as you have. A refreshed edition lists for about $25 at Czech Games Edition. Our free [Codenames course](/academy/codenames/) covers how to give a clue people remember.
+[Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) splits the room into two teams. Each team has a spymaster who gives one-word clues to steer teammates toward their secret words on a grid of 25, while avoiding the assassin. It seats as many as you have. A refreshed edition lists for about $25 at Czech Games Edition. Our free [Codenames course](/academy/codenames/) covers how to give a clue people remember.
 
 <!-- AFFILIATE: Codenames -->
 
 ### Just One
 
-[Just One](https://store.asmodee.com/products/just-one-refresh) is a cooperative word game. One player has a mystery word, and everyone else writes a one-word clue for it. Before the guesser looks, any matching clues are erased. So the obvious clue cancels itself out, and the table has to get creative. It plays 3 to 7, ages 8 and up, in about twenty minutes, and lists for about $25. Nobody loses alone, which suits a group of near strangers.
+[Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20) is a cooperative word game. One player has a mystery word, and everyone else writes a one-word clue for it. Before the guesser looks, any matching clues are erased. So the obvious clue cancels itself out, and the table has to get creative. It plays 3 to 7, ages 8 and up, in about twenty minutes, and lists for about $25. Nobody loses alone, which suits a group of near strangers.
 
 <!-- AFFILIATE: Just One -->
 
@@ -82,19 +82,19 @@ Big Potato also sells a Christmas Expansion with 100 festive questions that shuf
 
 ### Hues and Cues
 
-[Hues and Cues](https://theop.games/products/hues-and-cues) is a color game. One player picks a color square from a board of hundreds and gives a one-word clue, then a two-word clue, while everyone else places their markers on the color they think it is. It works for 3 to 10 players ages 8 and up in about thirty minutes. List price is about $26.
+[Hues and Cues](https://www.amazon.com/dp/B084D2XQ9F?tag=cubecommonw0a-20) is a color game. One player picks a color square from a board of hundreds and gives a one-word clue, then a two-word clue, while everyone else places their markers on the color they think it is. It works for 3 to 10 players ages 8 and up in about thirty minutes. List price is about $26.
 
 <!-- AFFILIATE: Hues and Cues -->
 
 ### Skull
 
-[Skull](https://store.asmodee.com/products/skull) is bluffing with almost nothing in the box. Each player has three roses and one skull. You stack cards face down, then bid on how many roses you can flip without hitting a skull. It plays 3 to 6, ages 10 and up, about thirty minutes, for about $21.
+[Skull](https://www.amazon.com/dp/B08R2BPLSN?tag=cubecommonw0a-20) is bluffing with almost nothing in the box. Each player has three roses and one skull. You stack cards face down, then bid on how many roses you can flip without hitting a skull. It plays 3 to 6, ages 10 and up, about thirty minutes, for about $21.
 
 <!-- AFFILIATE: Skull -->
 
 ### Flip 7: Grinch Edition
 
-Flip 7 is a push-your-luck card game. Flip cards one at a time and add them up, but flip a number you already have and you bust for the round. The Op sells a [Grinch Edition](https://theop.games/products/flip-7-grinch-edition) that plays 3 or more, ages 8 and up, in about twenty minutes, with a list price of about $8. The Op sells through retailers, and holiday editions sell out, so check your local game store early. Our free [Flip 7 course](/academy/flip-7/) has a five-minute teach.
+Flip 7 is a push-your-luck card game. Flip cards one at a time and add them up, but flip a number you already have and you bust for the round. The Op sells a Grinch Edition that plays 3 or more, ages 8 and up, in about twenty minutes, with a list price of about $8. The Op sells through retailers, and holiday editions sell out, so check your local game store early. Our free [Flip 7 course](/academy/flip-7/) has a five-minute teach.
 
 <!-- AFFILIATE: Flip 7: Grinch Edition -->
 

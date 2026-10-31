@@ -6,7 +6,7 @@ category: Game Guides
 tags: ["take that board games", "what is take that mechanic", "take that card games", "direct conflict board games", "Munchkin take that", "games with player attacks", "Glossary"]
 draft: false
 ---
-Take that board games are games where players can directly hurt each other with a card or an action aimed at one specific person. The name comes from the moment itself: you play the card, look at your target, and the unspoken line is "take that." Munchkin, Exploding Kittens, Uno's draw-four, and Sorry! all run on it. Some people love these games and some people quietly refuse to play them, and the split is one of the most reliable in the hobby.
+Take that board games are games where players can directly hurt each other with a card or an action aimed at one specific person. The name comes from the moment itself: you play the card, look at your target, and the unspoken line is "take that." [Munchkin](https://www.amazon.com/dp/B0H7648MST?tag=cubecommonw0a-20), [Exploding Kittens](https://www.amazon.com/dp/B010TQY7A8?tag=cubecommonw0a-20), [Uno](https://www.amazon.com/dp/B07P6MZPK3?tag=cubecommonw0a-20)'s draw-four, and [Sorry!](https://www.amazon.com/dp/B0863FPYMB?tag=cubecommonw0a-20) all run on it. Some people love these games and some people quietly refuse to play them, and the split is one of the most reliable in the hobby.
 
 This article explains what "take that" means, how it differs from other kinds of conflict, why it provokes such strong reactions, what designers do to soften it, and how to choose for a group that contains both camps.
 
@@ -20,16 +20,16 @@ Three things define it.
 
 **It is usually out of nowhere.** Most take-that effects come from a hand of cards, so the target cannot see it coming and cannot do much about it. That surprise is a big part of why it stings.
 
-Munchkin is the purest example. <!-- AFFILIATE --> Players fight monsters to level up, and the rest of the table plays cards from their hands to make the monster stronger, curse the fighter, or steal their loot. The entire game is a negotiation over who gets ganged up on this turn.
+Munchkin is the purest example. Players fight monsters to level up, and the rest of the table plays cards from their hands to make the monster stronger, curse the fighter, or steal their loot. The entire game is a negotiation over who gets ganged up on this turn.
 
 Other examples across the weight spectrum:
 
 - **Uno and Exploding Kittens**: draw-four, skip, and attack cards aimed at a chosen neighbor.
 - **Sorry! and Ludo**: landing on a piece sends it home.
 - **Fluxx**: rule changes and steals pointed at whoever is winning.
-- **Smash Up**: minion destruction and base-stealing aimed at specific players.
-- **King of Tokyo**: attacking everyone in or out of Tokyo, which is take-that against a position rather than a person.
-- **Cosmic Encounter**: full-contact alliances and betrayals, though the system's richness lifts it above most of the genre.
+- **[Smash Up](https://www.amazon.com/dp/B00875JE0C?tag=cubecommonw0a-20)**: minion destruction and base-stealing aimed at specific players.
+- **[King of Tokyo](https://link.amazon/B0goO6BQA)**: attacking everyone in or out of Tokyo, which is take-that against a position rather than a person.
+- **[Cosmic Encounter](https://www.amazon.com/dp/1589944968?tag=cubecommonw0a-20)**: full-contact alliances and betrayals, though the system's richness lifts it above most of the genre.
 
 ## How is take-that different from other conflict?
 
@@ -38,10 +38,10 @@ It helps to put it on a spectrum.
 | Kind of conflict | What it looks like | Example |
 |---|---|---|
 | None | Players never affect each other | Most roll-and-writes, solo modes |
-| Indirect | Competing for shared resources or spaces | Ticket to Ride, Azul, Wingspan |
-| Positional | Taking territory or blocking on a shared board | Carcassonne farms, Catan's robber, area majority games |
+| Indirect | Competing for shared resources or spaces | [Ticket to Ride](https://link.amazon/B0jh8RB7f), [Azul](https://link.amazon/B0bGRYHex), [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) |
+| Positional | Taking territory or blocking on a shared board | [Carcassonne](https://link.amazon/B012Rr5ed) farms, [Catan](https://link.amazon/B0h8BDGR2)'s robber, area majority games |
 | Take-that | Targeted cards or actions that hurt a chosen player | Munchkin, Uno, Exploding Kittens |
-| Open warfare | Sustained attacks with armies or combat systems | Risk, Twilight Imperium, Root |
+| Open warfare | Sustained attacks with armies or combat systems | [Risk](https://www.amazon.com/dp/B01HEQHKNM?tag=cubecommonw0a-20), [Twilight Imperium](https://www.amazon.com/dp/B074YPSTRP?tag=cubecommonw0a-20), [Root](https://www.amazon.com/dp/B07F454YF3?tag=cubecommonw0a-20) |
 
 Open warfare games like Risk involve far more aggression than Munchkin, yet they bother fewer people. The difference is that war in Risk is the whole game, it is visible on the board, and it comes with structure: you can see the armies, count the odds, and defend. Take-that is a sucker punch from a hand of cards. The scale is smaller, but the feeling is more personal.
 
@@ -65,9 +65,9 @@ None of these camps is wrong. They are different answers to the question "what d
 
 The mechanic has not gone away, but modern designs tend to file down its sharpest edges. A few common techniques.
 
-**Make it a choice to be exposed.** In King of Tokyo, you only take damage from everyone if you are in Tokyo, and you chose to go there (and get points for staying). <!-- AFFILIATE --> The attack is still direct, but the target volunteered.
+**Make it a choice to be exposed.** In King of Tokyo, you only take damage from everyone if you are in Tokyo, and you chose to go there (and get points for staying). The attack is still direct, but the target volunteered.
 
-**Give the target a response.** Exploding Kittens' Nope card lets you cancel an attack. <!-- AFFILIATE --> Munchkin's curses can be dodged with the right item. A take-that you can answer feels like a duel instead of a mugging.
+**Give the target a response.** Exploding Kittens' Nope card lets you cancel an attack. Munchkin's curses can be dodged with the right item. A take-that you can answer feels like a duel instead of a mugging.
 
 **Spread the damage.** Attacks that hit everyone, or hit the attacker too, lose the personal edge. Many games convert "target player" into "each opponent" for exactly this reason.
 
@@ -83,7 +83,7 @@ Assume every group of six contains at least one person from each camp. Then:
 
 **Ask, do not guess.** "Does anyone hate getting attacked?" is a fine question to ask before choosing a game. People will tell you.
 
-**Lead with softened take-that.** King of Tokyo, Sushi Go!, and The Quacks of Quedlinburg have enough bite to satisfy the drama camp and enough structure to satisfy the control camp. <!-- AFFILIATE -->
+**Lead with softened take-that.** King of Tokyo, [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), and [The Quacks of Quedlinburg](https://www.amazon.com/dp/B08T21DYKV?tag=cubecommonw0a-20) have enough bite to satisfy the drama camp and enough structure to satisfy the control camp.
 
 **Save pure take-that for the right night.** Munchkin and Exploding Kittens work when everyone is in a loud mood and nobody cares who wins. They do not work as the main event for a table that came to think.
 

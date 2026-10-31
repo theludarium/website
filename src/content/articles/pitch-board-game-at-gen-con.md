@@ -41,7 +41,7 @@ A publisher at Gen Con sees dozens of prototypes in four days. They are not eval
 In the first minute, they want to know:
 
 - **The one-line concept.** "A 30-minute set collection game about running a flower shop, for 2 to 4 players."
-- **The comparable.** "It sits next to Azul <!-- AFFILIATE --> and Splendor <!-- AFFILIATE --> in weight and length, with a market mechanic closer to Century: Spice Road."
+- **The comparable.** "It sits next to [Azul](https://link.amazon/B0bGRYHex) and [Splendor](https://link.amazon/B0fEvY6Wg) in weight and length, with a market mechanic closer to [Century: Spice Road](https://www.amazon.com/dp/B071DXCT5L?tag=cubecommonw0a-20)."
 - **The hook.** The one thing your game does that those games do not.
 - **Player count, play time, target age.** Real numbers from real playtests.
 - **Status.** "Playtested 40 times, blind tested 6 times, no art commitments."

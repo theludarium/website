@@ -85,7 +85,7 @@ A playtest produces a pile of observations. Resist the urge to fix everything.
 1. **Fix the biggest structural issue first.** Pacing, runaway leaders, decisions that do not matter. These are the problems that make people not want to play again, and they are the ones that change everything downstream.
 2. **Change one thing at a time when you can.** If you change five rules and the next test goes better, you have no idea which change did it.
 3. **Ignore anything that only one person said once.** Note it, wait, see if it recurs.
-4. **Do not add. Remove.** Most prototypes are too big. When a test goes poorly, designers add a mechanic to compensate. Try cutting one instead. Games like Azul and The Crew are remarkable for how little they contain.
+4. **Do not add. Remove.** Most prototypes are too big. When a test goes poorly, designers add a mechanic to compensate. Try cutting one instead. Games like [Azul](https://link.amazon/B0bGRYHex) and The Crew are remarkable for how little they contain.
 5. **Keep the moments.** When you find a part of the game that reliably produces reactions, protect it. Every change should be checked against "does this still happen?"
 
 ## What does a good playtest log look like?

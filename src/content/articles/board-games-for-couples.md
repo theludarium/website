@@ -16,10 +16,10 @@ Before buying anything, agree on which of these four you want most often. Most c
 
 | Evening type | What it feels like | Good fits |
 |---|---|---|
-| Quiet | Low talk, low stakes, 20 to 30 minutes | Patchwork, Jaipur, Lost Cities |
-| Competitive | Real head-to-head, bragging rights | 7 Wonders Duel, Star Realms, Hive |
-| Cooperative | Same side, shared win or loss | The Crew, Codenames: Duet, Sky Team |
-| Hosting | Works at two, better at four | Azul, Wingspan, Cascadia |
+| Quiet | Low talk, low stakes, 20 to 30 minutes | [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20), [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20), [Lost Cities](https://www.amazon.com/dp/B00T0GY9CK?tag=cubecommonw0a-20) |
+| Competitive | Real head-to-head, bragging rights | [7 Wonders Duel](https://www.amazon.com/dp/B014DMSTXK?tag=cubecommonw0a-20), [Star Realms](https://www.amazon.com/dp/B00HRGMPIU?tag=cubecommonw0a-20), [Hive](https://www.amazon.com/dp/B000EN5ZLW?tag=cubecommonw0a-20) |
+| Cooperative | Same side, shared win or loss | The Crew, [Codenames: Duet](https://www.amazon.com/dp/B0FJMNPGXM?tag=cubecommonw0a-20), [Sky Team](https://www.amazon.com/dp/B0CHD8RCSJ?tag=cubecommonw0a-20) |
+| Hosting | Works at two, better at four | [Azul](https://link.amazon/B0bGRYHex), [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), [Cascadia](https://link.amazon/B0g1HYFt4) |
 
 The table is a starting point. The sections below explain why each game fits its column and who it will not suit.
 
@@ -27,9 +27,9 @@ The table is a starting point. The sections below explain why each game fits its
 
 Quiet games are the ones you reach for when one of you is tired and neither of you wants to read a rulebook. They should teach in two minutes and finish in under thirty.
 
-- **Patchwork** <!-- AFFILIATE --> is a quilt-building puzzle for exactly two. You buy fabric pieces with buttons and fit them onto a nine-by-nine board. There is light competition for pieces but almost no direct interference, which makes it easy to play while talking about something else.
-- **Jaipur** <!-- AFFILIATE --> is a trading card game that plays in about twenty minutes. You collect and sell goods, racing to take the better camel and goods tokens before your partner does. It is sharper than Patchwork but still friendly.
-- **Lost Cities** <!-- AFFILIATE --> asks you to fund expeditions by playing cards in ascending order. The core decision is whether to commit to a color at all, because starting an expedition and then abandoning it costs points. It is simple, slightly tense, and very replayable.
+- **Patchwork** is a quilt-building puzzle for exactly two. You buy fabric pieces with buttons and fit them onto a nine-by-nine board. There is light competition for pieces but almost no direct interference, which makes it easy to play while talking about something else.
+- **Jaipur** is a trading card game that plays in about twenty minutes. You collect and sell goods, racing to take the better camel and goods tokens before your partner does. It is sharper than Patchwork but still friendly.
+- **Lost Cities** asks you to fund expeditions by playing cards in ascending order. The core decision is whether to commit to a color at all, because starting an expedition and then abandoning it costs points. It is simple, slightly tense, and very replayable.
 
 None of these will produce an argument. That is the point.
 
@@ -37,9 +37,9 @@ None of these will produce an argument. That is the point.
 
 Some couples want a real fight. Those pairs should look for games with direct interaction and visible skill, so the better player on the night actually wins and both people know why.
 
-- **7 Wonders Duel** <!-- AFFILIATE --> is the two-player cousin of 7 Wonders. You draft cards from a pyramid layout, where taking one card reveals others. There are three ways to win, including two sudden-death conditions, so the game stays tense to the end.
-- **Hive** <!-- AFFILIATE --> is an abstract game with no board. Bakelite tiles with insects on them form the playing surface as you place them. The goal is to surround the opposing queen bee. It plays like chess compressed into fifteen minutes.
-- **Star Realms** <!-- AFFILIATE --> is a cheap, fast deck builder where you attack each other directly. Each game takes about twenty minutes, and the small box fits in a coat pocket.
+- **7 Wonders Duel** is the two-player cousin of 7 Wonders. You draft cards from a pyramid layout, where taking one card reveals others. There are three ways to win, including two sudden-death conditions, so the game stays tense to the end.
+- **Hive** is an abstract game with no board. Bakelite tiles with insects on them form the playing surface as you place them. The goal is to surround the opposing queen bee. It plays like chess compressed into fifteen minutes.
+- **Star Realms** is a cheap, fast deck builder where you attack each other directly. Each game takes about twenty minutes, and the small box fits in a coat pocket.
 
 One caution: if one partner consistently wins at a competitive game, the other will stop wanting to play it. Keep a few in rotation, and keep a cooperative option on the shelf for the nights when the score is lopsided. For more on handling that dynamic, see [how to be a good loser](/articles/how-to-be-a-good-loser/).
 
@@ -47,9 +47,9 @@ One caution: if one partner consistently wins at a competitive game, the other w
 
 Cooperative games put you on the same team. For couples, that changes the tone of the evening. You win or lose together, and the post-game conversation is about the puzzle instead of the score.
 
-- **The Crew: Mission Deep Sea** <!-- AFFILIATE --> is a trick-taking game with a twist: you cannot talk about your cards, and you must complete specific tasks as a team. At two players, you add a dummy hand called JARVIS that both players can see. It sounds awkward and works surprisingly well.
-- **Codenames: Duet** <!-- AFFILIATE --> is the two-player version of the party game. Each of you knows which words the other needs to find, and you take turns giving one-word clues. It teaches you how your partner's brain connects ideas, which is more revealing than it sounds.
-- **Sky Team** <!-- AFFILIATE --> is a two-player-only game about landing a plane. One of you is the pilot, one the co-pilot, and you place dice on a shared console without speaking during the placement phase. It is short, tense, and built for exactly two people.
+- **[The Crew: Mission Deep Sea](https://link.amazon/B099S9RKf)** is a trick-taking game with a twist: you cannot talk about your cards, and you must complete specific tasks as a team. At two players, you add a dummy hand called JARVIS that both players can see. It sounds awkward and works surprisingly well.
+- **Codenames: Duet** is the two-player version of the party game. Each of you knows which words the other needs to find, and you take turns giving one-word clues. It teaches you how your partner's brain connects ideas, which is more revealing than it sounds.
+- **Sky Team** is a two-player-only game about landing a plane. One of you is the pilot, one the co-pilot, and you place dice on a shared console without speaking during the placement phase. It is short, tense, and built for exactly two people.
 
 Cooperative games have one failure mode worth naming. If one partner tends to take over and direct the other's moves, the game stops being cooperative. The Crew and Sky Team both limit communication by rule, which quietly solves this. We wrote more about that pattern in [two-player cooperative board games](/articles/two-player-cooperative-board-games/).
 
@@ -59,9 +59,9 @@ Cooperative games have one failure mode worth naming. If one partner tends to ta
 
 A couple that plays a lot will eventually want to play with other people. Games that work well at two and also at four are worth more than games that only do one.
 
-- **Azul** <!-- AFFILIATE --> is a tile-drafting game that is tight at two and lively at four. The rules take five minutes and the game looks good on a table, which matters when you are hosting people who do not think of themselves as gamers.
-- **Wingspan** <!-- AFFILIATE --> is a bird-themed engine builder. At two it is a calm, almost solitaire-feeling puzzle. At four it becomes a longer game with more competition for birds and bonus cards.
-- **Cascadia** <!-- AFFILIATE --> has you building a habitat map from hex tiles and wildlife tokens. It scales smoothly from one to four players, and the scoring cards change each game.
+- **Azul** is a tile-drafting game that is tight at two and lively at four. The rules take five minutes and the game looks good on a table, which matters when you are hosting people who do not think of themselves as gamers.
+- **Wingspan** is a bird-themed engine builder. At two it is a calm, almost solitaire-feeling puzzle. At four it becomes a longer game with more competition for birds and bonus cards.
+- **Cascadia** has you building a habitat map from hex tiles and wildlife tokens. It scales smoothly from one to four players, and the scoring cards change each game.
 
 If you host often, this column matters more than the others. A good hosting game is the one that gets another couple to ask when they can come back.
 

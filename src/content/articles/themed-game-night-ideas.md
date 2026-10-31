@@ -22,13 +22,13 @@ It also helps newcomers. Someone invited to "game night" does not know what to e
 
 ### 1. Co-op Night
 
-Everyone on one side, the game on the other. Pandemic <!-- AFFILIATE -->, The Crew <!-- AFFILIATE -->, and Forbidden Island <!-- AFFILIATE --> cover three tables at three difficulty levels.
+Everyone on one side, the game on the other. Pandemic, [The Crew](https://link.amazon/B099S9RKf), and [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20) cover three tables at three difficulty levels.
 
 **The rule:** at least one table must lose. If every table wins, the difficulty was too low. Announce this up front and watch people choose harder settings.
 
 ### 2. Gateway Night
 
-A night for the person someone keeps meaning to bring. Only games that teach in under ten minutes: Ticket to Ride <!-- AFFILIATE -->, Azul <!-- AFFILIATE -->, Codenames <!-- AFFILIATE -->, Sushi Go <!-- AFFILIATE -->.
+A night for the person someone keeps meaning to bring. Only games that teach in under ten minutes: [Ticket to Ride](https://link.amazon/B0jh8RB7f), [Azul](https://link.amazon/B0bGRYHex), [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), Sushi Go.
 
 **The rule:** every regular brings one person who has never come. The regulars teach; they do not play their heavy games tonight.
 
@@ -40,55 +40,55 @@ Every hobby gamer owns games they have never played. This night is for those box
 
 ### 4. Bracket Night
 
-Pick one fast game and run a tournament. Love Letter <!-- AFFILIATE -->, Hive <!-- AFFILIATE -->, or Jaipur <!-- AFFILIATE --> work because a match takes fifteen minutes. We wrote a full guide to [running a board game tournament](/articles/how-to-run-a-board-game-tournament/) with bracket formats and tiebreaks.
+Pick one fast game and run a tournament. [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20), [Hive](https://www.amazon.com/dp/B000EN5ZLW?tag=cubecommonw0a-20), or [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20) work because a match takes fifteen minutes. We wrote a full guide to [running a board game tournament](/articles/how-to-run-a-board-game-tournament/) with bracket formats and tiebreaks.
 
 **The rule:** the prize is small and slightly embarrassing. A plastic trophy from a party store outperforms a gift card every time.
 
 ### 5. Two-Player Night
 
-Pairs only. Set up four or five two-player tables and rotate opponents every game. Patchwork <!-- AFFILIATE -->, 7 Wonders Duel <!-- AFFILIATE -->, Jaipur, and Hive all fit.
+Pairs only. Set up four or five two-player tables and rotate opponents every game. Patchwork, [7 Wonders Duel](https://www.amazon.com/dp/B014DMSTXK?tag=cubecommonw0a-20), Jaipur, and Hive all fit.
 
 **The rule:** you cannot play the same opponent twice. People who never talk at the big table end up across from each other.
 
 ### 6. Dexterity Night
 
-Flicking, stacking, balancing. Crokinole if anyone owns a board, Junk Art <!-- AFFILIATE -->, Klask <!-- AFFILIATE -->, Rhino Hero <!-- AFFILIATE -->, Jenga.
+Flicking, stacking, balancing. Crokinole if anyone owns a board, [Junk Art](https://www.amazon.com/dp/B07PXN8MKR?tag=cubecommonw0a-20), [Klask](https://www.amazon.com/dp/B07PKJZQ9G?tag=cubecommonw0a-20), [Rhino Hero](https://www.amazon.com/dp/B01M8LF7IA?tag=cubecommonw0a-20), [Jenga](https://www.amazon.com/dp/B09TBG3G5L?tag=cubecommonw0a-20).
 
 **The rule:** standing is allowed. Move the chairs out. This theme works for groups with wide age ranges because skill at reading rulebooks does not help.
 
 ### 7. Social Deduction Night
 
-One big table, one game of bluffing. The Resistance: Avalon <!-- AFFILIATE -->, Blood on the Clocktower <!-- AFFILIATE --> if you have a storyteller, Werewolf if you have fifteen people and nothing else.
+One big table, one game of bluffing. [The Resistance: Avalon](https://www.amazon.com/dp/B009SAAV0C?tag=cubecommonw0a-20), [Blood on the Clocktower](https://www.amazon.com/dp/B0BRSTMP2V?tag=cubecommonw0a-20) if you have a storyteller, Werewolf if you have fifteen people and nothing else.
 
 **The rule:** phones go in a bowl. Social deduction dies when half the table is scrolling between rounds.
 
 ### 8. Potluck and Party Night
 
-Food first, games second, lightweight only. Wavelength <!-- AFFILIATE -->, Just One <!-- AFFILIATE -->, Telestrations <!-- AFFILIATE -->, Codenames. Everyone brings a dish; the host provides nothing but a table.
+Food first, games second, lightweight only. [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20), [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20), [Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20), Codenames. Everyone brings a dish; the host provides nothing but a table.
 
 **The rule:** no game may require reading more than one page of rules. This is the theme for partners and roommates who "don't really play games."
 
 ### 9. Legacy Night (recurring)
 
-Not a one-off. A standing night, same four or five people, working through Pandemic Legacy <!-- AFFILIATE --> or Gloomhaven: Jaws of the Lion <!-- AFFILIATE --> across months.
+Not a one-off. A standing night, same four or five people, working through [Pandemic Legacy](https://www.amazon.com/dp/B00TQ5SEAI?tag=cubecommonw0a-20) or [Gloomhaven: Jaws of the Lion](https://www.amazon.com/dp/B088QSDB7S?tag=cubecommonw0a-20) across months.
 
 **The rule:** you commit to the whole campaign or you do not join. Missed sessions are the thing that kills legacy groups, so set the schedule for the full run on the first night.
 
 ### 10. Vintage Night
 
-Only games published before 1990. Acquire, Diplomacy, Cosmic Encounter, Scrabble, Risk, backgammon, chess, and whatever is in someone's parents' basement.
+Only games published before 1990. Acquire, [Diplomacy](https://www.amazon.com/dp/B08TPDFW51?tag=cubecommonw0a-20), [Cosmic Encounter](https://www.amazon.com/dp/1589944968?tag=cubecommonw0a-20), [Scrabble](https://www.amazon.com/dp/B00IFWSO94?tag=cubecommonw0a-20), [Risk](https://www.amazon.com/dp/B01HEQHKNM?tag=cubecommonw0a-20), backgammon, chess, and whatever is in someone's parents' basement.
 
 **The rule:** nobody is allowed to say "this would be better if." Play it as designed and talk about what modern design fixed on the drive home.
 
 ### 11. Silent Night
 
-Every game must be playable without speaking. The Mind <!-- AFFILIATE -->, Hanabi <!-- AFFILIATE --> with the no-talking variant, Magic Maze <!-- AFFILIATE -->, Patchwork.
+Every game must be playable without speaking. [The Mind](https://www.amazon.com/dp/B07C4F3KLF?tag=cubecommonw0a-20), [Hanabi](https://www.amazon.com/dp/B01MXTGT21?tag=cubecommonw0a-20) with the no-talking variant, [Magic Maze](https://www.amazon.com/dp/B08W9BV633?tag=cubecommonw0a-20), [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20).
 
 **The rule:** the first person who talks during a game buys the snacks next time. Expect this one to be louder than any other theme in the moments between games.
 
 ### 12. One Game, All Night
 
-Choose a single game with legs and play it three or four times in a row. Catan <!-- AFFILIATE -->, Dominion <!-- AFFILIATE -->, Race for the Galaxy <!-- AFFILIATE -->, or Cube drafts of Magic: The Gathering if your group plays Magic.
+Choose a single game with legs and play it three or four times in a row. [Catan](https://link.amazon/B0h8BDGR2), [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20), [Race for the Galaxy](https://www.amazon.com/dp/B000YLAOEW?tag=cubecommonw0a-20), or Cube drafts of Magic: The Gathering if your group plays Magic.
 
 **The rule:** between games, two minutes of open talk about what worked. Repetition is how people get good, and getting good at a game together is a bond.
 

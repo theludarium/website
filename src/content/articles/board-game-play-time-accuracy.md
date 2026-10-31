@@ -16,26 +16,26 @@ Publishers are not lying on purpose. The number comes from a specific context th
 
 **It is measured by people who already know the game.** Playtesters have played dozens of times. Their turns are fast because the decisions are familiar. Your group is reading the card text for the first time.
 
-**It excludes setup and teardown.** The clock starts when the first turn begins and stops when the winner is announced. Sorting Wingspan's bird cards back into the box is not on the clock. Neither is laying out the Gloomhaven map.
+**It excludes setup and teardown.** The clock starts when the first turn begins and stops when the winner is announced. Sorting [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20)'s bird cards back into the box is not on the clock. Neither is laying out the [Gloomhaven](https://www.amazon.com/dp/B01LZXVN4P?tag=cubecommonw0a-20) map.
 
-**It excludes the teach.** Explaining Catan to new players takes ten minutes. Explaining Terraforming Mars can take twenty-five. None of that counts.
+**It excludes the teach.** Explaining [Catan](https://link.amazon/B0h8BDGR2) to new players takes ten minutes. Explaining [Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20) can take twenty-five. None of that counts.
 
 **It is a marketing number.** A box that says "45 minutes" sells better than one that says "two hours on your first play." Publishers know a short number lowers the barrier, so the range tends to sit at the optimistic end of the truth.
 
-**Player count stretches it.** Many boxes print one range for all player counts. A four-player game of Ticket to Ride is a different length than a two-player game, and the downtime between turns grows with every extra chair.
+**Player count stretches it.** Many boxes print one range for all player counts. A four-player game of [Ticket to Ride](https://link.amazon/B0jh8RB7f) is a different length than a two-player game, and the downtime between turns grows with every extra chair.
 
 ## What actually counts toward a real session?
 
 If you want an honest number, you have to count everything from "let's play" to the box going back on the shelf. A full session has six parts.
 
 1. **Choosing the game.** Five to fifteen minutes of a group standing in front of a shelf, longer if nobody will decide. This is real time and it is the most common reason a game night starts late.
-2. **Setup.** Shuffling, sorting, dealing, building the board. Azul takes two minutes. Twilight Imperium takes closer to an hour.
+2. **Setup.** Shuffling, sorting, dealing, building the board. [Azul](https://link.amazon/B0bGRYHex) takes two minutes. [Twilight Imperium](https://www.amazon.com/dp/B074YPSTRP?tag=cubecommonw0a-20) takes closer to an hour.
 3. **The teach.** Reading the rules aloud or explaining from memory. Varies wildly with the teacher. We wrote a whole piece on doing this well in [The Five-Minute Teach](/articles/how-to-teach-a-board-game/).
 4. **The first-play tax.** New players take longer turns, make rules mistakes that need unwinding, and ask questions. A first play commonly runs 1.5 to 2 times the box number.
 5. **The game itself.** The number on the box, roughly, once everyone knows what they are doing.
-6. **Teardown.** Sorting components back into bags and inserts. Games with many small pieces, like Everdell or Scythe, take ten minutes to put away properly.
+6. **Teardown.** Sorting components back into bags and inserts. Games with many small pieces, like Everdell or [Scythe](https://www.amazon.com/dp/B01IPUGYK6?tag=cubecommonw0a-20), take ten minutes to put away properly.
 
-A rough rule for a first play with a new group: setup plus teach plus twice the box time plus teardown. For Pandemic, a box that says 45 minutes, that lands near ninety minutes end to end. For Wingspan at 70 minutes on the box, expect two and a half hours the first time.
+A rough rule for a first play with a new group: setup plus teach plus twice the box time plus teardown. For [Pandemic](https://link.amazon/B0eHP5GCg), a box that says 45 minutes, that lands near ninety minutes end to end. For Wingspan at 70 minutes on the box, expect two and a half hours the first time.
 
 ## How do different game types compare?
 
@@ -43,7 +43,7 @@ Not all games lie by the same amount. The gap between the box and the table depe
 
 | Game | Box play time | Realistic first-play session (4 players) | Where the time goes |
 |---|---|---|---|
-| Codenames | 15 min | 20 to 30 min | Almost honest. Teach is two minutes. |
+| [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) | 15 min | 20 to 30 min | Almost honest. Teach is two minutes. |
 | Azul | 30 to 45 min | 45 to 60 min | Short teach, fast setup, a little analysis paralysis late. |
 | Ticket to Ride | 30 to 60 min | 60 to 90 min | Teach is easy; the first game runs long because nobody blocks early. |
 | Catan | 60 to 120 min | 90 to 150 min | Board setup, trading, and the slow player who keeps the dice. |
@@ -76,7 +76,7 @@ A few publishers are already doing this better, and the practices are worth copy
 - **Separate setup from play.** "Setup 10 min. Play 60 min." Two numbers cost nothing and remove the biggest surprise.
 - **Flag the first play.** "First game: add 30 minutes for the rules" is a sentence that would save thousands of game nights a year.
 - **Measure with new players, not the design team.** The box time should be the median of a first play by a group that has read the rules once. That is the number a buyer actually needs.
-- **Design the setup down.** Good inserts, pre-sorted decks, and a setup card that fits on one side of a sheet cut real minutes. Some of the best-loved games of the last decade, like Azul and The Crew, are loved partly because they are on the table in two minutes.
+- **Design the setup down.** Good inserts, pre-sorted decks, and a setup card that fits on one side of a sheet cut real minutes. Some of the best-loved games of the last decade, like Azul and [The Crew](https://link.amazon/B099S9RKf), are loved partly because they are on the table in two minutes.
 
 For designers, time every playtest from the moment players sit down. The number you are afraid to print is the one your players will experience.
 
@@ -87,7 +87,7 @@ A practical method that works for most groups:
 1. **Count your real window.** From the time the last person usually arrives to the time the first person usually leaves. Be honest. It is shorter than you think.
 2. **Subtract thirty minutes.** Greetings, snacks, choosing a game, and the one person who is always late.
 3. **Pick games that fit the remainder using session time, not box time.** For a two-hour window, that means box times of 45 minutes or less for a group learning something new.
-4. **Have a short closer ready.** A fifteen-minute game like Codenames, Just One, or Wavelength lets you end on a high note instead of a half-finished board.
+4. **Have a short closer ready.** A fifteen-minute game like Codenames, [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20), or [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) lets you end on a high note instead of a half-finished board.
 5. **Call the end before you start.** "We stop at 10 either way" removes the awkwardness later. Groups that say this out loud finish more games, not fewer.
 
 ## FAQ

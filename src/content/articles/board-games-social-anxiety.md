@@ -39,19 +39,19 @@ Not all games are equal here. The best ones for an anxious first-timer share a p
 
 | Game | Why it is a gentle start |
 |---|---|
-| Azul | Quiet, everyone looks at the tiles, mistakes are minor |
-| Ticket to Ride | Long turns of looking at a map, little direct talk needed |
-| Carcassonne | Place a tile, done; conversation is optional |
-| The Crew | Cooperative, talking is restricted by rule, nobody is singled out |
-| Hanabi | Cooperative, structured clues, team wins or loses together |
-| Cascadia | Solitaire-feeling puzzle at a shared table |
-| Patchwork | Two players, calm, almost no interaction |
+| [Azul](https://link.amazon/B0bGRYHex) | Quiet, everyone looks at the tiles, mistakes are minor |
+| [Ticket to Ride](https://link.amazon/B0jh8RB7f) | Long turns of looking at a map, little direct talk needed |
+| [Carcassonne](https://link.amazon/B012Rr5ed) | Place a tile, done; conversation is optional |
+| [The Crew](https://link.amazon/B099S9RKf) | Cooperative, talking is restricted by rule, nobody is singled out |
+| [Hanabi](https://www.amazon.com/dp/B01MXTGT21?tag=cubecommonw0a-20) | Cooperative, structured clues, team wins or loses together |
+| [Cascadia](https://link.amazon/B0g1HYFt4) | Solitaire-feeling puzzle at a shared table |
+| [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20) | Two players, calm, almost no interaction |
 
-**Azul** <!-- AFFILIATE --> is the most common recommendation and for good reason. It is beautiful enough that everyone looks at the board instead of each other, the rules take five minutes, and a bad move costs a few points rather than the game.
+**Azul** is the most common recommendation and for good reason. It is beautiful enough that everyone looks at the board instead of each other, the rules take five minutes, and a bad move costs a few points rather than the game.
 
-**The Crew** <!-- AFFILIATE --> and **Hanabi** <!-- AFFILIATE --> are cooperative games that limit communication by rule. This is a gift. In most social settings, the question "should I say something?" never shuts off. In The Crew, you literally cannot discuss your cards, so the question is answered for you. You play, the team wins or loses together, and nobody's mistake is on display.
+**The Crew** and **Hanabi** are cooperative games that limit communication by rule. This is a gift. In most social settings, the question "should I say something?" never shuts off. In The Crew, you literally cannot discuss your cards, so the question is answered for you. You play, the team wins or loses together, and nobody's mistake is on display.
 
-**Ticket to Ride** <!-- AFFILIATE --> is good for a longer session because most of the game is quiet planning. There is a shared map to stare at and long stretches where no one expects you to talk.
+**Ticket to Ride** is good for a longer session because most of the game is quiet planning. There is a shared map to stare at and long stretches where no one expects you to talk.
 
 For someone who wants to be in the room with people without being at the center of anything, these are the games. We have more picks in [game night for introverts](/articles/game-night-for-introverts/), which overlaps with this list but is not the same thing: introversion is a preference, social anxiety is a fear, and they often get confused.
 

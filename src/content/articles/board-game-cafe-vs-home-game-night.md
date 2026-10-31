@@ -34,7 +34,7 @@ For this article, "cafe" means any of those: a place you go to play games that i
 
 ## When does home win?
 
-**When the game is long or serious.** A six-hour campaign session of Gloomhaven, a twelve-player Twilight Imperium weekend, or a D&D campaign on its third year all belong at home. You need the table to yourself, no closing time, and no stranger asking what you are playing. Campaign games with legacy components also need somewhere safe to live between sessions.
+**When the game is long or serious.** A six-hour campaign session of [Gloomhaven](https://www.amazon.com/dp/B01LZXVN4P?tag=cubecommonw0a-20), a twelve-player [Twilight Imperium](https://www.amazon.com/dp/B074YPSTRP?tag=cubecommonw0a-20) weekend, or a D&D campaign on its third year all belong at home. You need the table to yourself, no closing time, and no stranger asking what you are playing. Campaign games with legacy components also need somewhere safe to live between sessions.
 
 **When the group is small and close.** Two couples who have played together for a decade do not need a venue. They need a kitchen table and a bottle of wine. Home is intimate in a way a public room is not, and the conversation that happens between turns is often why everyone came.
 

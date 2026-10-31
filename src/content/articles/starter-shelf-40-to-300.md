@@ -29,19 +29,19 @@ Here is what each role covers and what it needs to do.
 
 ### Gateway
 
-The gateway is your anchor, the game you teach to anyone. It fits your most common player count, teaches in ten minutes, and holds up across dozens of plays. Catan, Ticket to Ride, and Carcassonne are the classic examples; Azul and Splendor fill the role for groups that like something quicker. If you followed the [first $40 article](/articles/your-first-40-dollars/), you already own this one.
+The gateway is your anchor, the game you teach to anyone. It fits your most common player count, teaches in ten minutes, and holds up across dozens of plays. [Catan](https://link.amazon/B0h8BDGR2), [Ticket to Ride](https://link.amazon/B0jh8RB7f), and [Carcassonne](https://link.amazon/B012Rr5ed) are the classic examples; [Azul](https://link.amazon/B0bGRYHex) and [Splendor](https://link.amazon/B0fEvY6Wg) fill the role for groups that like something quicker. If you followed the [first $40 article](/articles/your-first-40-dollars/), you already own this one.
 
 ### Filler
 
-A filler plays in under 20 minutes, including the teach. It fills the gap while you wait for the last guest, closes the night after the main event, or saves an evening when nobody has the energy for a big box. Sushi Go!, Love Letter, and Jaipur are fillers. A good filler gets more plays than anything else on the shelf, which is why it is the second role to buy, not the last.
+A filler plays in under 20 minutes, including the teach. It fills the gap while you wait for the last guest, closes the night after the main event, or saves an evening when nobody has the energy for a big box. [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20), and [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20) are fillers. A good filler gets more plays than anything else on the shelf, which is why it is the second role to buy, not the last.
 
 ### 2-player
 
-The most common table in most homes is two people, and most big games are tuned for three or four. The 2-player role covers the nights when it is just you and one other person. Patchwork, Jaipur, and Hive are purpose-built for two. If your taste log shows most of your plays are at two, this role may deserve the biggest budget on the shelf.
+The most common table in most homes is two people, and most big games are tuned for three or four. The 2-player role covers the nights when it is just you and one other person. Patchwork, Jaipur, and [Hive](https://www.amazon.com/dp/B000EN5ZLW?tag=cubecommonw0a-20) are purpose-built for two. If your taste log shows most of your plays are at two, this role may deserve the biggest budget on the shelf.
 
 ### Party (6+)
 
-Sooner or later eight people are in your living room, half of whom do not think of themselves as gamers. The party role has to scale to a crowd, teach in two minutes, and make the room laugh. Codenames, Just One, and Wavelength all do this. No strategy game does, no matter how good it is.
+Sooner or later eight people are in your living room, half of whom do not think of themselves as gamers. The party role has to scale to a crowd, teach in two minutes, and make the room laugh. [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20), and [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) all do this. No strategy game does, no matter how good it is.
 
 ### Co-op
 
@@ -49,7 +49,7 @@ A cooperative game puts everyone on the same side against the board. It changes 
 
 ### Stretch
 
-The stretch is one step up in complexity from your gateway. It is the game you grow into, the one that gives your group somewhere to go once the gateway feels familiar. Wingspan, 7 Wonders, and Dominion are typical stretches. Not Twilight Imperium, not Gloomhaven. One step, not five.
+The stretch is one step up in complexity from your gateway. It is the game you grow into, the one that gives your group somewhere to go once the gateway feels familiar. [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), [7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20), and [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) are typical stretches. Not Twilight Imperium, not Gloomhaven. One step, not five.
 
 ## No two games fill the same role
 
@@ -67,9 +67,9 @@ The table below is an illustration, not a shopping list. Prices are typical US r
 |---|---|---|---|---|
 | Gateway | Catan | About $40 | 3 to 4 | 60 to 90 min |
 | Filler | Sushi Go! | $12 to $20 | 2 to 5 | 15 min |
-| 2-player | Patchwork | $25 to $35 | 2 | 20 to 30 min |
+| 2-player | [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20) | $25 to $35 | 2 | 20 to 30 min |
 | Party (6+) | Codenames | $15 to $25 | 4 to 8+ | 15 to 30 min |
-| Co-op | Pandemic | $35 to $45 | 2 to 4 | 45 to 60 min |
+| Co-op | [Pandemic](https://link.amazon/B0eHP5GCg) | $35 to $45 | 2 to 4 | 45 to 60 min |
 | Stretch | Wingspan | $55 to $65 | 1 to 5 | 60 to 90 min |
 | **Total** | | **About $180 to $230** | | |
 

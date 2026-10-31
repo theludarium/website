@@ -16,7 +16,7 @@ Three things, in our experience.
 
 1. **A real chance of losing.** A co-op you always beat is a group activity, not a game. The good ones win maybe half the time at a fair difficulty.
 2. **Decisions that belong to individuals.** If one experienced player can dictate every move, the rest are spectators. The best designs give each person information or cards nobody else can see.
-3. **A clear story of why you lost.** "The outbreak chain in Pandemic got us" is a story you tell on the drive home. "We ran out of points" is not.
+3. **A clear story of why you lost.** "The outbreak chain in [Pandemic](https://link.amazon/B0eHP5GCg) got us" is a story you tell on the drive home. "We ran out of points" is not.
 
 If you want to understand the second point in depth, we wrote about the [quarterback problem in cooperative games](/articles/quarterback-problem-cooperative-games/) and why designers work so hard to avoid it.
 
@@ -36,7 +36,7 @@ The gentlest entry point to the Pandemic family. Collect four treasures from a s
 
 ### 4. Hanabi
 
-You hold your cards facing away from you, so everyone sees your hand except you. Clues are limited. You are building fireworks in sequence. Hanabi is the purest hidden-information co-op ever made and it is the reason the genre moved past "talk it out."
+You hold your cards facing away from you, so everyone sees your hand except you. Clues are limited. You are building fireworks in sequence. [Hanabi](https://www.amazon.com/dp/B01MXTGT21?tag=cubecommonw0a-20) is the purest hidden-information co-op ever made and it is the reason the genre moved past "talk it out."
 
 ### 5. The Crew: Mission Deep Sea
 
@@ -88,21 +88,21 @@ The campaign co-op, with dozens of scenarios, character retirement, and a box yo
 
 | Game | Players | Approx. time | Weight | Best for |
 |---|---|---|---|---|
-| Just One | 3 to 7 | 20 min | Very light | Parties, mixed ages |
-| The Mind | 2 to 4 | 20 min | Very light | A quiet, strange laugh |
-| Forbidden Island | 2 to 4 | 30 min | Light | Families, first co-op |
+| [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20) | 3 to 7 | 20 min | Very light | Parties, mixed ages |
+| [The Mind](https://www.amazon.com/dp/B07C4F3KLF?tag=cubecommonw0a-20) | 2 to 4 | 20 min | Very light | A quiet, strange laugh |
+| [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20) | 2 to 4 | 30 min | Light | Families, first co-op |
 | Hanabi | 2 to 5 | 25 min | Light | Thinkers, small groups |
 | The Crew | 3 to 5 | 20 min/mission | Light-medium | Teaching teamwork |
-| Codenames: Duet | 2 | 15 min | Light | Couples |
+| [Codenames: Duet](https://www.amazon.com/dp/B0FJMNPGXM?tag=cubecommonw0a-20) | 2 | 15 min | Light | Couples |
 | Pandemic | 2 to 4 | 45 min | Medium | The standard game night |
-| Horrified | 1 to 5 | 60 min | Light-medium | Family, theme lovers |
+| [Horrified](https://www.amazon.com/dp/B07QQHTD4Q?tag=cubecommonw0a-20) | 1 to 5 | 60 min | Light-medium | Family, theme lovers |
 | Flash Point | 2 to 6 | 45 min | Medium | Bigger groups |
-| Mysterium | 2 to 7 | 45 min | Medium | Artsy, social tables |
-| Sky Team | 2 | 20 min | Light-medium | Couples, tense fun |
+| [Mysterium](https://www.amazon.com/dp/B0F4YNPYQM?tag=cubecommonw0a-20) | 2 to 7 | 45 min | Medium | Artsy, social tables |
+| [Sky Team](https://www.amazon.com/dp/B0CHD8RCSJ?tag=cubecommonw0a-20) | 2 | 20 min | Light-medium | Couples, tense fun |
 | Burgle Bros | 1 to 4 | 60 min | Medium | Planners |
 | Robinson Crusoe | 1 to 4 | 2+ hrs | Heavy | Story and suffering |
-| Spirit Island | 1 to 4 | 90+ min | Heavy | Strategy veterans |
-| Gloomhaven | 1 to 4 | Campaign | Very heavy | Committed groups |
+| [Spirit Island](https://www.amazon.com/dp/B01MUHP51S?tag=cubecommonw0a-20) | 1 to 4 | 90+ min | Heavy | Strategy veterans |
+| [Gloomhaven](https://www.amazon.com/dp/B01LZXVN4P?tag=cubecommonw0a-20) | 1 to 4 | Campaign | Very heavy | Committed groups |
 
 Times and player counts are approximate and vary by edition. Check the box.
 

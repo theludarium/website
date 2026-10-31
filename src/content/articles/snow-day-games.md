@@ -53,8 +53,8 @@ The classic snow day project. Set a 500 to 1,000 piece puzzle on a card table or
 
 A cooperative game lets the whole house play on one team against the board. Two good ones:
 
-- **[Pandemic](https://www.boardgameoracle.com/boardgame/price/x3zmi090Le/pandemic)** <!-- AFFILIATE --> from Z-Man Games. Players are disease specialists racing to cure four outbreaks around the world. Two to four players, about 45 minutes, ages 8 and up. It lists at $49.99 at the Asmodee store, where it was sold out at the time of writing; other retailers had it for about $36 to $50. Play two or three games in a row, raising the difficulty each time, and it fills an afternoon.
-- **[Forbidden Island](https://www.nobleknight.com/P/2147428909/Forbidden-Island)** <!-- AFFILIATE --> from Gamewright. Players collect four treasures from a sinking island and escape before it floods. Two to four players, about 30 minutes, ages 10 and up per [Gamewright](https://gamewright.com/product/Forbidden-Island). About $20 to $26 at the time of writing. It is an easier first co-op than Pandemic, and younger kids can play on a team with a grown-up.
+- **[Pandemic](https://link.amazon/B0eHP5GCg)** from Z-Man Games. Players are disease specialists racing to cure four outbreaks around the world. Two to four players, about 45 minutes, ages 8 and up. It lists at $49.99 at the Asmodee store, where it was sold out at the time of writing; other retailers had it for about $36 to $50. Play two or three games in a row, raising the difficulty each time, and it fills an afternoon.
+- **[Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20)** from Gamewright. Players collect four treasures from a sinking island and escape before it floods. Two to four players, about 30 minutes, ages 10 and up per Gamewright. About $20 to $26 at the time of writing. It is an easier first co-op than Pandemic, and younger kids can play on a team with a grown-up.
 
 Our comparison of [Pandemic and Forbidden Island](/articles/pandemic-vs-forbidden-island/) goes into which suits your house.
 
@@ -68,7 +68,7 @@ A few safety notes first. Battery lanterns and headlamps are safer than candles 
 
 Then pick games that work in low light.
 
-- **Skull.** Each player holds four coasters: three flowers and one skull. Players place them face down and bid on how many flowers they can flip without hitting a skull. There is almost nothing to read, so it plays well in dim light. Three to six players, about 30 minutes, ages 10 and up. [Skull](https://www.target.com/p/asmodee-skull-board-game/-/A-89997189) <!-- AFFILIATE --> lists for about $20 and was about $17 at Target at the time of writing.
+- **Skull.** Each player holds four coasters: three flowers and one skull. Players place them face down and bid on how many flowers they can flip without hitting a skull. There is almost nothing to read, so it plays well in dim light. Three to six players, about 30 minutes, ages 10 and up. [Skull](https://www.amazon.com/dp/B08R2BPLSN?tag=cubecommonw0a-20) lists for about $20 and was about $17 at Target at the time of writing.
 - **A deck of cards.** Go Fish, Crazy Eights, War, and Rummy all work under a single lantern. Big, clear card faces are easier to read than small text-heavy cards.
 - **Spoken games.** Twenty Questions, the alphabet game (name an animal for each letter), and "Fortunately, Unfortunately," where players take turns adding one sentence to a story that swings between good luck and bad. These need no light at all.
 - **Ghost.** Players take turns adding a letter to a growing word. The player who completes a real word, or who cannot name a word their letters could spell, loses the round.
@@ -79,9 +79,9 @@ Skip games that depend on color or tiny print. They are frustrating by lantern l
 
 Some snow day hours belong to the kids alone while adults shovel or work from the kitchen. These games teach in minutes, play without a referee, and stay friendly.
 
-- **[Outfoxed!](https://www.target.com/p/outfoxed-a-cooperative-whodunit-game/-/A-51116319)** <!-- AFFILIATE --> from Gamewright. A cooperative whodunit where players work together to find which fox stole a pot pie. Two to four players, about 20 minutes, ages 5 and up. About $25 to $29 at the time of writing. Because it is cooperative, there is less arguing.
-- **[Spot It!](https://store.asmodee.com/collections/spot-it/products/spot-it-classic-pocket-eco-ml)** <!-- AFFILIATE --> A speed game of round cards where every pair shares exactly one symbol. Two to eight players, about 15 minutes, ages 6 and up. About $6 for the pocket edition at the Asmodee store, and up to about $15 for other editions.
-- **[Qwixx](https://www.walmart.com/ip/Gamewright-Qwixx-Dice-Game-Ages-8/43459970)** <!-- AFFILIATE --> A quick dice game where everyone marks numbers on a score sheet, even on other players' turns. Two to five players, about 15 minutes, ages 8 and up. About $12 at Walmart at the time of writing. Good for older kids who like adding.
+- **[Outfoxed!](https://link.amazon/B0hYNduxd)** from Gamewright. A cooperative whodunit where players work together to find which fox stole a pot pie. Two to four players, about 20 minutes, ages 5 and up. About $25 to $29 at the time of writing. Because it is cooperative, there is less arguing.
+- **[Spot It!](https://link.amazon/B0dxD5DWE)** A speed game of round cards where every pair shares exactly one symbol. Two to eight players, about 15 minutes, ages 6 and up. About $6 for the pocket edition at the Asmodee store, and up to about $15 for other editions.
+- **[Qwixx](https://www.amazon.com/dp/B00J57138C?tag=cubecommonw0a-20)** A quick dice game where everyone marks numbers on a score sheet, even on other players' turns. Two to five players, about 15 minutes, ages 8 and up. About $12 at Walmart at the time of writing. Good for older kids who like adding.
 
 For more ideas, see our list of [board games for winter break with kids](/articles/winter-break-board-games-for-kids/).
 
@@ -89,8 +89,8 @@ For more ideas, see our list of [board games for winter break with kids](/articl
 
 At some point everyone ends up in the same room. Pick a game that seats a crowd and works across ages.
 
-- **[Just One](https://store.asmodee.com/collections/party-games/products/just-one-refresh)** <!-- AFFILIATE --> A cooperative word game. One player guesses a mystery word while everyone else writes a one-word clue. Matching clues cancel out, so you have to be clever. Three to seven players, about 15 to 20 minutes, ages 8 and up. Listed at $24.99 at the Asmodee store at the time of writing.
-- **[Telestrations](https://theop.games/products/telestrations-8-player-the-original)** <!-- AFFILIATE --> from The Op. It is the telephone game with drawing. Each player sketches a word, the next guesses it, the next draws the guess, and the results are often hilarious. Four to eight players, about 30 minutes, ages 12 and up. About $30 to $34 at major retailers at the time of writing.
+- **[Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20)** A cooperative word game. One player guesses a mystery word while everyone else writes a one-word clue. Matching clues cancel out, so you have to be clever. Three to seven players, about 15 to 20 minutes, ages 8 and up. Listed at $24.99 at the Asmodee store at the time of writing.
+- **[Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20)** from The Op. It is the telephone game with drawing. Each player sketches a word, the next guesses it, the next draws the guess, and the results are often hilarious. Four to eight players, about 30 minutes, ages 12 and up. About $30 to $34 at major retailers at the time of writing.
 
 Mixed tables with grandparents and little kids have their own needs. Our guide to [board games for all ages](/articles/multigenerational-board-games/) has more picks that work from 6 to 86.
 

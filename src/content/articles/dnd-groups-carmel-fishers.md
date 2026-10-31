@@ -12,7 +12,7 @@ Venues change. Everything below was checked against its own site or a current li
 
 ## Which stores in Carmel and Fishers host D&D?
 
-Game stores are the main public venue for Dungeons & Dragons <!-- AFFILIATE --> on the north side, as they are in most American suburbs.
+Game stores are the main public venue for [Dungeons & Dragons](https://www.amazon.com/dp/0786969687?tag=cubecommonw0a-20) on the north side, as they are in most American suburbs.
 
 **[Hero's Emporium](https://www.visithamiltoncounty.com/listing/heros-emporium/5473/)**, Carmel. A tabletop, card, and RPG store at 12697 N Pennsylvania St with weekly Magic Commander play on Thursdays at 6 p.m. and Saturdays at 2 p.m. It lists no regular RPG night online, so ask at the counter about campaigns and open tables.
 

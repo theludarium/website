@@ -30,7 +30,7 @@ Three hours is the default for an adult evening. Here is how that stretches or c
 | Weekend evening, adults | 3 hours | Room for an opener, main event, closer |
 | Families with young kids | 60 to 90 minutes | Attention spans and bedtimes |
 | First-time group | 2.5 hours | Leave them wanting more |
-| Campaign game (Gloomhaven, Pandemic Legacy) | 3 to 3.5 hours | One scenario plus setup and teardown |
+| Campaign game ([Gloomhaven](https://www.amazon.com/dp/B01LZXVN4P?tag=cubecommonw0a-20), [Pandemic Legacy](https://www.amazon.com/dp/B00TQ5SEAI?tag=cubecommonw0a-20)) | 3 to 3.5 hours | One scenario plus setup and teardown |
 | Afternoon session | 3 to 4 hours | Daylight makes long play easier |
 
 Notice that nothing on the list says five hours. Marathon sessions have their place, usually among experienced regulars who have planned for it. They are not the model for a game night you want people to return to.

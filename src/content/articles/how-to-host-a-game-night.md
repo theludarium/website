@@ -12,7 +12,7 @@ This checklist walks through the week before, the day of, and the first ten minu
 
 ## What makes a game night work?
 
-Three things, in order of importance: the people, the pace, and the games. Most first-time hosts invert that list. They spend hours deciding between Catan and Ticket to Ride and five minutes thinking about who will be sitting across from whom.
+Three things, in order of importance: the people, the pace, and the games. Most first-time hosts invert that list. They spend hours deciding between [Catan](https://link.amazon/B0h8BDGR2) and [Ticket to Ride](https://link.amazon/B0jh8RB7f) and five minutes thinking about who will be sitting across from whom.
 
 A good game night has a clear start, one or two games that fit the group, and an end that arrives before anyone is tired. The host's job is to make decisions so guests do not have to. Decide the games. Decide the seats. Decide when it ends.
 
@@ -36,7 +36,7 @@ The single most useful line in your invite is the end time. "7 to 10" tells peop
 
 Four to six is the sweet spot for a first game night. Most of the games people own play well at those counts, one table is enough, and nobody gets lost in the crowd.
 
-Below four, you are limited to two- and three-player games, which is fine but a different kind of evening. Above six, you will need either a party game like Codenames or Wavelength, or a second table. Both are workable, but harder to run alone.
+Below four, you are limited to two- and three-player games, which is fine but a different kind of evening. Above six, you will need either a party game like [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) or [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20), or a second table. Both are workable, but harder to run alone.
 
 Invite one or two more than your target. Someone will cancel. If nobody does, you have seven, and Codenames exists for exactly this reason. If you are stuck on what fits, our guide to the [best board games for 6 players](/articles/best-board-games-for-6-players/) covers every headcount from three to eight.
 
@@ -46,7 +46,7 @@ A note on the mix: at least one person should already know at least one other pe
 
 Two games. Maybe three. Not six.
 
-The first should be short, easy to teach, and forgiving of mistakes. Think Azul, Sushi Go, or Codenames. It warms up the table and tells you how the group is feeling. The second is the main event: Ticket to Ride, Wingspan, Pandemic, or whatever your group has the appetite for. Keep a tiny closer in reserve, something like The Crew or a quick round of Wavelength, for when the main game ends early.
+The first should be short, easy to teach, and forgiving of mistakes. Think [Azul](https://link.amazon/B0bGRYHex), Sushi Go, or Codenames. It warms up the table and tells you how the group is feeling. The second is the main event: Ticket to Ride, [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), [Pandemic](https://link.amazon/B0eHP5GCg), or whatever your group has the appetite for. Keep a tiny closer in reserve, something like The Crew or a quick round of Wavelength, for when the main game ends early.
 
 Rules for choosing:
 

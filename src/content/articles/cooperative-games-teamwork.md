@@ -14,7 +14,7 @@ This article is about what specifically a team learns at a game table, with exam
 
 Three properties of a good co-op do the work.
 
-**The loop is short.** In Pandemic, a decision about where to send the Medic is tested within two rounds. In The Crew, a misread signal fails the mission in minutes. Fast feedback is how people learn anything, and meetings almost never provide it.
+**The loop is short.** In [Pandemic](https://link.amazon/B0eHP5GCg), a decision about where to send the Medic is tested within two rounds. In [The Crew](https://link.amazon/B099S9RKf), a misread signal fails the mission in minutes. Fast feedback is how people learn anything, and meetings almost never provide it.
 
 **Failure is free.** Losing a game costs nothing but pride, and not much of that. People take risks, admit uncertainty, and say "I don't know what to do" in ways they would never do in a conference room. That candor is the raw material of a team learning about itself.
 
@@ -53,7 +53,7 @@ Teams who struggle with over-communication, where every decision generates forty
 
 ## What does Hanabi show a team about trust?
 
-In Hanabi, you cannot see your own cards. You hold them facing out. Teammates give you limited clues, and you must act on cards you have never seen based only on what they chose to tell you.
+In [Hanabi](https://www.amazon.com/dp/B01MXTGT21?tag=cubecommonw0a-20), you cannot see your own cards. You hold them facing out. Teammates give you limited clues, and you must act on cards you have never seen based only on what they chose to tell you.
 
 That is trust in its purest mechanical form. When a teammate says "this card is a 1," you have to decide whether they mean "play it" or "do not discard it." Over a few games, a team develops conventions, shared understandings about what a clue implies beyond its literal content.
 
@@ -66,9 +66,9 @@ Those conventions are culture. Every working team has them: the understood meani
 | Shared planning | Pandemic | Open board, limited actions, cascading threats | Who sets priorities and who defers |
 | Precise communication | The Crew | One signal per mission | Who over-explains and who under-signals |
 | Trust and conventions | Hanabi | Acting on cards you cannot see | How shared meaning forms, and where it breaks |
-| Role clarity | Flash Point: Fire Rescue | Distinct specialist abilities | Whether people use each other's strengths |
-| Decisions under pressure | Magic Maze, Space Alert | Real-time clock, no talking | Who freezes, who takes charge, who checks in |
-| Handling suspicion | Dead of Winter | A possible traitor | How the team treats dissent when trust is uncertain |
+| Role clarity | [Flash Point: Fire Rescue](https://www.amazon.com/dp/B0084M8UEE?tag=cubecommonw0a-20) | Distinct specialist abilities | Whether people use each other's strengths |
+| Decisions under pressure | [Magic Maze](https://www.amazon.com/dp/B08W9BV633?tag=cubecommonw0a-20), [Space Alert](https://www.amazon.com/dp/B015OFWN6Y?tag=cubecommonw0a-20) | Real-time clock, no talking | Who freezes, who takes charge, who checks in |
+| Handling suspicion | [Dead of Winter](https://www.amazon.com/dp/B00HFKITJC?tag=cubecommonw0a-20) | A possible traitor | How the team treats dissent when trust is uncertain |
 
 None of these games were designed as training tools. That is why they work. People play them as games, and the lessons arrive without the defensiveness that a labeled exercise provokes.
 

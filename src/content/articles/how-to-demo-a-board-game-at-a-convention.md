@@ -14,7 +14,7 @@ This guide is for designers and small publishers running their first convention 
 
 Not a full game. The goal is for the player to understand what kind of decisions the game asks for and to feel one of them land. That is it.
 
-Think of Codenames <!-- AFFILIATE -->. You do not need to play to 9 words. You need one clue, one guess, and one "oh, I see" when the guesser picks the wrong card. The whole design is in that moment. Most games have an equivalent: the first trade in Catan, the first bird that triggers a chain in Wingspan, the first outbreak in Pandemic.
+Think of [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20). You do not need to play to 9 words. You need one clue, one guess, and one "oh, I see" when the guesser picks the wrong card. The whole design is in that moment. Most games have an equivalent: the first trade in [Catan](https://link.amazon/B0h8BDGR2), the first bird that triggers a chain in [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), the first outbreak in [Pandemic](https://link.amazon/B0eHP5GCg).
 
 Find that moment in your game. Build the demo to reach it fast.
 

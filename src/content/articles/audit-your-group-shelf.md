@@ -21,7 +21,7 @@ Three reasons, and they build on each other.
 
 First, you cannot follow the One Copy Rule without knowing what the group already has. "Check the shelf before you buy" only works if there is a shelf to check.
 
-Second, the audit makes the cost of duplicates visible. A group that hears "we own three spare copies of Catan" reacts differently than a group that vaguely knows a couple of people have it. Counting the dollars is what turns a nice idea into a habit.
+Second, the audit makes the cost of duplicates visible. A group that hears "we own three spare copies of [Catan](https://link.amazon/B0h8BDGR2)" reacts differently than a group that vaguely knows a couple of people have it. Counting the dollars is what turns a nice idea into a habit.
 
 Third, the audit is the raw material for [Claim a Lane](/articles/claim-a-lane/). Once every game is in a table with its owner and its lane, you can see at a glance which lanes are crowded, which are empty, and who should buy next.
 
@@ -36,10 +36,10 @@ Then everyone adds every game they own. Not just the ones they bring to game nig
 | Catan | Dana | Dana's | Strategy | $40 | 12 | | Group copy |
 | Catan | Sam | Sam's | Strategy | $40 | 0 | Yes | Unopened |
 | Catan | Priya | Priya's | Strategy | $40 | 1 | Yes | Family copy |
-| Codenames | Sam | Sam's | Party | $20 | 9 | | |
-| Pandemic | Priya | Priya's | Co-op | $40 | 6 | | Has expansion |
-| Patchwork | Jordan | Jordan's | 2-player | $30 | 4 | | |
-| Sushi Go! | Jordan | Jordan's | Filler | $12 | 15 | | Lives in Jordan's bag |
+| [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) | Sam | Sam's | Party | $20 | 9 | | |
+| [Pandemic](https://link.amazon/B0eHP5GCg) | Priya | Priya's | Co-op | $40 | 6 | | Has expansion |
+| [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20) | Jordan | Jordan's | 2-player | $30 | 4 | | |
+| [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) | Jordan | Jordan's | Filler | $12 | 15 | | Lives in Jordan's bag |
 
 A few notes on the columns:
 
@@ -55,7 +55,7 @@ Sort the table by game name when you are done, so duplicates land next to each o
 
 Now add up the Approx. price column for every row marked Duplicate. That is the amount your group has spent on copies that did not add a single play. Write it at the top of the doc.
 
-Using the illustration above, two spare copies of Catan at $40 is $80. In a real group of four, the number is usually higher, because the games that get duplicated are the hits, and the hits are the ones everyone bought. Three extra copies of Catan alone is about $120 to $150. Add a spare Codenames and a spare Ticket to Ride and a group can be past $200 without trying.
+Using the illustration above, two spare copies of Catan at $40 is $80. In a real group of four, the number is usually higher, because the games that get duplicated are the hits, and the hits are the ones everyone bought. Three extra copies of Catan alone is about $120 to $150. Add a spare Codenames and a spare [Ticket to Ride](https://link.amazon/B0jh8RB7f) and a group can be past $200 without trying.
 
 Then do one more count: the Plays column for every duplicate. If it says 0, that copy is on the Shelf of Shame with an infinite cost per hour. If it says 1, close enough. These are the copies to trade or sell, and [Trading and Selling Board Games You Don't Play](/articles/trading-and-selling-games/) covers how to do that without losing much.
 

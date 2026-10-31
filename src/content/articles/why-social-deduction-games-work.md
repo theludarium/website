@@ -6,7 +6,7 @@ category: Game Design
 tags: ["social deduction games", "hidden role games", "bluffing board games", "how Werewolf works", "The Resistance Avalon", "One Night Ultimate Werewolf", "Tabletop game design"]
 draft: false
 ---
-Social deduction games work because they move the game off the table and into the faces of the people sitting around it. In Werewolf, The Resistance: Avalon, or One Night Ultimate Werewolf, the components are almost nothing: a few cards, maybe a token or two. The real board is the room. Everyone has a secret identity, some people are lying, and the only way to win is to read your friends better than they read you.
+Social deduction games work because they move the game off the table and into the faces of the people sitting around it. In Werewolf, [The Resistance: Avalon](https://www.amazon.com/dp/B009SAAV0C?tag=cubecommonw0a-20), or One Night Ultimate Werewolf, the components are almost nothing: a few cards, maybe a token or two. The real board is the room. Everyone has a secret identity, some people are lying, and the only way to win is to read your friends better than they read you.
 
 That is a strange thing to build a game around. Most games give you pieces to move and a board to move them on. Social deduction games give you a secret and a conversation. Yet they are among the most reliable games for turning a group of near-strangers into a loud, laughing table in under ten minutes. Here is why.
 
@@ -14,14 +14,14 @@ That is a strange thing to build a game around. Most games give you pieces to mo
 
 A social deduction game is one where players are secretly assigned to teams or roles, and the core activity is figuring out who is who through discussion, voting, and partial information. One side usually knows more than the other. The informed minority tries to blend in. The uninformed majority tries to find them before it is too late.
 
-The pattern goes back to Mafia, a parlor game created in the 1980s by Dimitry Davidoff, a psychology student at Moscow State University. Werewolf is the same game with a horror skin. Everything since, from Avalon to Secret Hitler to Blood on the Clocktower, is a variation on that one idea: a hidden team inside a visible group.
+The pattern goes back to Mafia, a parlor game created in the 1980s by Dimitry Davidoff, a psychology student at Moscow State University. Werewolf is the same game with a horror skin. Everything since, from Avalon to [Secret Hitler](https://www.amazon.com/dp/B01JKD4HYC?tag=cubecommonw0a-20) to [Blood on the Clocktower](https://www.amazon.com/dp/B0BRSTMP2V?tag=cubecommonw0a-20), is a variation on that one idea: a hidden team inside a visible group.
 
 A few shapes the genre takes:
 
 - **Elimination games.** Werewolf and Mafia. Players are voted out one by one, and the dead usually sit quietly until the round ends.
 - **Mission games.** The Resistance and Avalon. Nobody is eliminated. Teams go on missions, and the hidden traitors can secretly sabotage them.
 - **One-round games.** One Night Ultimate Werewolf. The whole thing happens in a single night phase and a single vote, so a bad game costs you five minutes.
-- **Bluffing games.** Coup. Your role is hidden, but you can claim to be any role you like, and other players have to decide whether to call you on it.
+- **Bluffing games.** [Coup](https://www.amazon.com/dp/B00GDI4HX4?tag=cubecommonw0a-20). Your role is hidden, but you can claim to be any role you like, and other players have to decide whether to call you on it.
 
 ## Why does the hidden role create tension so fast?
 
@@ -65,7 +65,7 @@ The failure modes of the genre are well known, and the best modern designs are b
 
 | Problem | Classic example | Design fix |
 |---|---|---|
-| Eliminated players sit out for twenty minutes | Werewolf | The Resistance removes elimination; One Night makes the whole game five minutes |
+| Eliminated players sit out for twenty minutes | [Werewolf](https://www.amazon.com/dp/B00HS7GG5G?tag=cubecommonw0a-20) | The Resistance removes elimination; One Night makes the whole game five minutes |
 | A strong talker steers every vote | Mafia | Avalon's Merlin rule punishes the good team if their leader is too obvious |
 | First-round votes are random | Werewolf | Avalon's mission results give real evidence by round two |
 | Nobody wants to be the moderator | Werewolf | One Night uses an app; Coup and The Resistance need no moderator at all |

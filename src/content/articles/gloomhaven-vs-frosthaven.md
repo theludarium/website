@@ -36,7 +36,7 @@ Between scenarios you buy items, gain experience, level up, pick new cards, work
 | Box | One normal game box | Very large | Larger still |
 | What it's best at | Learning the system painlessly and finishing a campaign | The classic, with the biggest character roster | The deepest version, with building and seasons on top of combat |
 
-Specs are from the publisher's product pages for [Jaws of the Lion](https://cephalofair.com/products/gloomhaven-jaws-of-the-lion), [Gloomhaven 2nd edition](https://cephalofair.com/products/gloomhaven-board-game-2nd-edition), and [Frosthaven](https://cephalofair.com/products/frosthaven-bundles); prices as listed in October 2026 and subject to change. Playtimes are publisher ranges; experienced groups report the low end and new groups the high end.
+Specs are from the publisher's product pages for Jaws of the Lion, Gloomhaven 2nd edition, and [Frosthaven](https://www.amazon.com/dp/B08FK7B2SC?tag=cubecommonw0a-20); prices as listed in October 2026 and subject to change. Playtimes are publisher ranges; experienced groups report the low end and new groups the high end.
 
 ## Why does Jaws of the Lion win for beginners?
 

@@ -20,12 +20,12 @@ A good mix for a room of forty:
 
 | Type | How many tables | Examples | Why |
 |---|---|---|---|
-| Party games, 6 to 10 players | 3 | Codenames <!-- AFFILIATE -->, Wavelength <!-- AFFILIATE -->, Just One <!-- AFFILIATE -->, Telestrations <!-- AFFILIATE --> | Absorb a crowd fast, teach in two minutes |
-| Light strategy, 3 to 5 players | 4 | Azul <!-- AFFILIATE -->, Ticket to Ride <!-- AFFILIATE -->, Sushi Go <!-- AFFILIATE -->, Kingdomino <!-- AFFILIATE --> | The middle of the room |
-| Dexterity or quick-fire | 2 | Rhino Hero <!-- AFFILIATE -->, Klask <!-- AFFILIATE -->, Jenga | Standing tables, no commitment |
-| One big-table game | 1 | Werewolf, Two Rooms and a Boom <!-- AFFILIATE --> | A 15-to-20-person event in the second hour |
+| Party games, 6 to 10 players | 3 | [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20), [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20), [Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20) | Absorb a crowd fast, teach in two minutes |
+| Light strategy, 3 to 5 players | 4 | [Azul](https://link.amazon/B0bGRYHex), [Ticket to Ride](https://link.amazon/B0jh8RB7f), Sushi Go, [Kingdomino](https://link.amazon/B08l49zvA) | The middle of the room |
+| Dexterity or quick-fire | 2 | [Rhino Hero](https://www.amazon.com/dp/B01M8LF7IA?tag=cubecommonw0a-20), [Klask](https://www.amazon.com/dp/B07PKJZQ9G?tag=cubecommonw0a-20), [Jenga](https://www.amazon.com/dp/B09TBG3G5L?tag=cubecommonw0a-20) | Standing tables, no commitment |
+| One big-table game | 1 | [Werewolf](https://www.amazon.com/dp/B00HS7GG5G?tag=cubecommonw0a-20), Two Rooms and a Boom | A 15-to-20-person event in the second hour |
 
-For more picks that teach fast and scale, see our list of [party games for large groups](/articles/party-games-for-large-groups/). Nothing on the table should take longer than 45 minutes. Nothing should take more than five minutes to teach. Catan and Wingspan stay home tonight, not because they are bad but because a 90-minute game locks a table and splits the room into people who are in and people who are waiting.
+For more picks that teach fast and scale, see our list of [party games for large groups](/articles/party-games-for-large-groups/). Nothing on the table should take longer than 45 minutes. Nothing should take more than five minutes to teach. [Catan](https://link.amazon/B0h8BDGR2) and [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) stay home tonight, not because they are bad but because a 90-minute game locks a table and splits the room into people who are in and people who are waiting.
 
 ## How should the room be laid out?
 

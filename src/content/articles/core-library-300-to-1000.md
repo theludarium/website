@@ -41,7 +41,7 @@ Once you track this for a few months, something shifts. You stop buying games th
 
 The core library is where you start buying with a name attached. Not a role, a person.
 
-**Your spouse or partner.** If the two-player role is your busiest, this is where a second and third two-player game belongs. But go by their taste log, not yours. If they lit up at Azul and tolerated Patchwork, buy the next game that feels like Azul.
+**Your spouse or partner.** If the two-player role is your busiest, this is where a second and third two-player game belongs. But go by their taste log, not yours. If they lit up at [Azul](https://link.amazon/B0bGRYHex) and tolerated [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20), buy the next game that feels like Azul.
 
 **Your kids.** Children age through a library faster than anything else. A game that was perfect at six is beneath them at nine. Buy the next step, not the current one, and keep the outgrown games; they come back for younger cousins and for your kids' own kids, which is the [lifetime library](/articles/lifetime-library/) thinking that this series ends on.
 
@@ -74,7 +74,7 @@ Here is where the core library connects to the group. If your friends each built
 
 Your lane is the role or genre your log says you play most and your friends play least at their own houses. If you host the big nights, your lane is party and co-op. If you and your partner play every weeknight, your lane is two-player. If you are the one who reads rulebooks for fun, your lane is the stretch and beyond.
 
-Once you know your lane, the group's [One Copy Rule](/articles/one-copy-rule/) becomes a practical filter on every purchase: is this in my lane, or is this someone else's job? If a friend has claimed co-ops, you do not buy Spirit Island; you text them and ask whether they have played it. If nobody has claimed two-player and that is your busiest role, you take the lane and go deep.
+Once you know your lane, the group's [One Copy Rule](/articles/one-copy-rule/) becomes a practical filter on every purchase: is this in my lane, or is this someone else's job? If a friend has claimed co-ops, you do not buy [Spirit Island](https://www.amazon.com/dp/B01MUHP51S?tag=cubecommonw0a-20); you text them and ask whether they have played it. If nobody has claimed two-player and that is your busiest role, you take the lane and go deep.
 
 A group of four, each going deep in one lane from $300 to $1,000, builds a shared library that no single collector could afford. Our [case study of two groups](/articles/two-groups-two-years/) shows what happens when one group does this and another does not.
 
@@ -83,8 +83,8 @@ A group of four, each going deep in one lane from $300 to $1,000, builds a share
 A few traps that open up once the starter shelf is done and the budget loosens.
 
 - **It is not the time to chase rankings.** A game's reputation says nothing about your table. Your log does.
-- **It is not the time for campaign games, unless your group has met monthly for a year.** A campaign needs a stable group. If you have one, Gloomhaven and its kind become reasonable. If you do not, wait.
-- **It is not the time to buy for the group you wish you had.** Twilight Imperium is a glorious game for six people with eight hours. If that night does not exist on your calendar, the box is a wish, not a purchase.
+- **It is not the time for campaign games, unless your group has met monthly for a year.** A campaign needs a stable group. If you have one, [Gloomhaven](https://www.amazon.com/dp/B01LZXVN4P?tag=cubecommonw0a-20) and its kind become reasonable. If you do not, wait.
+- **It is not the time to buy for the group you wish you had.** [Twilight Imperium](https://www.amazon.com/dp/B074YPSTRP?tag=cubecommonw0a-20) is a glorious game for six people with eight hours. If that night does not exist on your calendar, the box is a wish, not a purchase.
 - **It is not the time to buy on a crowdfunding timeline.** A game that arrives in 14 months cannot be judged by a log you keep today. The [Kickstarter question](/articles/kickstarter-question/) belongs to the curator stage, when a shelf cap tells you what a new box displaces.
 
 The core library should get heavier in exactly the places you play and no heavier anywhere else. If every role is growing at the same rate, you are collecting, not building.

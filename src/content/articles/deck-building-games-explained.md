@@ -8,7 +8,7 @@ draft: false
 ---
 Deck building games start every player with the same small, weak deck of cards. On each turn you draw a hand, use it to buy better cards, and shuffle the new purchases into your deck so they show up later. The deck is both your resources and your engine, and it gets stronger as the game goes on. Dominion introduced the idea in 2008, and it has spread into card games, board games, video games, and hybrids of all three.
 
-This article explains how deck building works, why Dominion's version was so clean, what later designers changed, and what to think about if you want to design one yourself.
+This article explains how deck building works, why [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20)'s version was so clean, what later designers changed, and what to think about if you want to design one yourself.
 
 ## How does a deck building game work?
 
@@ -22,7 +22,7 @@ The loop in almost every deck builder is the same five steps:
 
 Step five is where the magic lives. Because every purchase goes into the discard pile and comes back after a shuffle, the deck you have at minute forty is the sum of every decision you made in the first thirty-nine. Nothing is lost. Nothing is permanent either, since each card only shows up when the shuffle says so.
 
-Compare that to a game like Ticket to Ride, where a card you draw is spent once and gone. In a deck builder, a card you buy is a promise to yourself about the future.
+Compare that to a game like [Ticket to Ride](https://link.amazon/B0jh8RB7f), where a card you draw is spent once and gone. In a deck builder, a card you buy is a promise to yourself about the future.
 
 ## Why was Dominion so important?
 
@@ -44,12 +44,12 @@ Dominion's purity was also its limit. It can feel abstract and solitary, with pl
 
 | Game | What it added | Why it mattered |
 |---|---|---|
-| Ascension (2010) | A shared center row that refills as cards are taken | Players compete for the same cards instead of a fixed supply |
-| Thunderstone (2009) | A dungeon to fight with the cards you build | Gave the engine a target beyond points |
-| Star Realms (2014) | Direct attacks on an opponent's life total | Made it a duel, not a race |
+| [Ascension](https://www.amazon.com/dp/B0D7DNRFNR?tag=cubecommonw0a-20) (2010) | A shared center row that refills as cards are taken | Players compete for the same cards instead of a fixed supply |
+| [Thunderstone](https://www.amazon.com/dp/B07GD9LKSP?tag=cubecommonw0a-20) (2009) | A dungeon to fight with the cards you build | Gave the engine a target beyond points |
+| [Star Realms](https://www.amazon.com/dp/B00HRGMPIU?tag=cubecommonw0a-20) (2014) | Direct attacks on an opponent's life total | Made it a duel, not a race |
 | Clank! (2016) | A board to move on and a dragon that punishes noise | Tied the deck to a physical space |
-| Aeon's End (2016) | Cooperative play and no shuffling at all | Players control deck order by how they discard |
-| Dune: Imperium (2020) | Worker placement powered by cards | Merged two of the most popular mechanisms into one turn |
+| [Aeon's End](https://www.amazon.com/dp/B072BG9Z9V?tag=cubecommonw0a-20) (2016) | Cooperative play and no shuffling at all | Players control deck order by how they discard |
+| [Dune: Imperium](https://www.amazon.com/dp/B08JHB9V72?tag=cubecommonw0a-20) (2020) | Worker placement powered by cards | Merged two of the most popular mechanisms into one turn |
 
 The table shows a pattern. Each step took something a different genre did well and asked what happened when a deck fed it. Aeon's End is the most radical, because removing the shuffle turned a game of probability into a game of sequencing. You know your next hand because you chose it.
 

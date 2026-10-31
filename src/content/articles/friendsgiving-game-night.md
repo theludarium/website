@@ -10,7 +10,7 @@ A Friendsgiving game night works best with three short acts: a quick opener whil
 
 Friendsgiving is a different crowd than family Thanksgiving. Everyone is an adult, most people know each other, and the group is often bigger than any game box expects. That gives you more room to be clever, a little competitive, and a little rude.
 
-**The quick answer:** open with Herd Mentality or Just One, make Wavelength or Codenames the main event, and close with Telestrations or Skull. If the group is seven or more and cannot agree, let them vote from their phones with [Game Night Madness](/game-night-madness/).
+**The quick answer:** open with [Herd Mentality](https://www.amazon.com/dp/B093HBBMPT?tag=cubecommonw0a-20) or [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20), make [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) or [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) the main event, and close with [Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20) or [Skull](https://www.amazon.com/dp/B08R2BPLSN?tag=cubecommonw0a-20). If the group is seven or more and cannot agree, let them vote from their phones with [Game Night Madness](/game-night-madness/).
 
 ## What makes a good Friendsgiving game?
 
@@ -41,9 +41,9 @@ Group size changes everything. Here is a plan for the three most common Friendsg
 
 | Group size | Opener | Main event | Closer |
 |---|---|---|---|
-| 6 people | Just One | Sushi Go Party! or Decrypto | Skull |
+| 6 people | Just One | [Sushi Go Party!](https://www.amazon.com/dp/B01CETNKE2?tag=cubecommonw0a-20) or [Decrypto](https://www.amazon.com/dp/B07BB4ND6J?tag=cubecommonw0a-20) | Skull |
 | 8 to 10 people | Herd Mentality | Codenames or Wavelength | Telestrations |
-| 10 to 12 people | Herd Mentality | Wavelength or Monikers | Telestrations with the 12-player Party Pack |
+| 10 to 12 people | Herd Mentality | Wavelength or [Monikers](https://www.amazon.com/dp/B00M07OQ1U?tag=cubecommonw0a-20) | Telestrations with the 12-player Party Pack |
 
 Player counts below are the publishers'. Play times are for a full, chatty table, which usually runs longer than the box says.
 
@@ -51,21 +51,21 @@ Player counts below are the publishers'. Play times are for a full, chatty table
 
 Six is a sweet spot. It is small enough for real strategy and big enough for party games to work.
 
-**Opener: Just One** <!-- AFFILIATE -->. A cooperative word game for three to seven. One person guesses a mystery word. Everyone else writes a one-word clue on a small easel, and any clues that match get thrown out before the guesser sees them. It takes a minute to teach and twenty minutes to play.
+**Opener: Just One**. A cooperative word game for three to seven. One person guesses a mystery word. Everyone else writes a one-word clue on a small easel, and any clues that match get thrown out before the guesser sees them. It takes a minute to teach and twenty minutes to play.
 
-**Main event: Sushi Go Party!** <!-- AFFILIATE --> or **Decrypto** <!-- AFFILIATE -->. Sushi Go Party! seats two to eight and plays like a bigger, more flexible Sushi Go. Everyone takes one card from a hand and passes the rest, building sets of dishes for points. Decrypto is for a word-loving group of three to eight. Two teams each have four secret words and give coded clues that their own team should crack and the other team should not.
+**Main event: Sushi Go Party!** or **Decrypto**. Sushi Go Party! seats two to eight and plays like a bigger, more flexible Sushi Go. Everyone takes one card from a hand and passes the rest, building sets of dishes for points. Decrypto is for a word-loving group of three to eight. Two teams each have four secret words and give coded clues that their own team should crack and the other team should not.
 
-**Closer: Skull** <!-- AFFILIATE -->. A bluffing game for three to six. Everyone stacks flower cards face down, with one skull hidden among them. Players bid on how many flowers they can flip without hitting a skull. It is all nerve and faces.
+**Closer: Skull**. A bluffing game for three to six. Everyone stacks flower cards face down, with one skull hidden among them. Players bid on how many flowers they can flip without hitting a skull. It is all nerve and faces.
 
 ### Eight to ten people
 
 This is the classic Friendsgiving size, and team games shine here.
 
-**Opener: Herd Mentality** <!-- AFFILIATE -->. A party game for four to twenty. A question gets read out, everyone writes an answer, and anyone who matches the most common answer wins a cow. The goal is not to be right. It is to think like the herd. Whoever gives the lone odd answer gets stuck with the pink cow, and you cannot win while you hold it.
+**Opener: Herd Mentality**. A party game for four to twenty. A question gets read out, everyone writes an answer, and anyone who matches the most common answer wins a cow. The goal is not to be right. It is to think like the herd. Whoever gives the lone odd answer gets stuck with the pink cow, and you cannot win while you hold it.
 
-**Main event: Codenames** <!-- AFFILIATE --> or **Wavelength** <!-- AFFILIATE -->. Codenames splits the room into two teams. One spymaster per team gives one-word clues to help their side find their agents on a grid of 25 words, while steering clear of the assassin. Our free [Codenames course](/academy/codenames/) has a five-minute teach. Wavelength plays two to twelve. One player sees where a hidden target sits on a spectrum, such as "underrated to overrated," and gives a clue. Their team argues about where to set the dial. The arguing is the game.
+**Main event: Codenames** or **Wavelength**. Codenames splits the room into two teams. One spymaster per team gives one-word clues to help their side find their agents on a grid of 25 words, while steering clear of the assassin. Our free [Codenames course](/academy/codenames/) has a five-minute teach. Wavelength plays two to twelve. One player sees where a hidden target sits on a spectrum, such as "underrated to overrated," and gives a clue. Their team argues about where to set the dial. The arguing is the game.
 
-**Closer: Telestrations** <!-- AFFILIATE -->. Telephone with drawings, for four to eight in the base box. Write a word, pass it, the next person draws it, the next guesses the drawing, and so on. Nobody is good at it. The reveal at the end is the point.
+**Closer: Telestrations**. Telephone with drawings, for four to eight in the base box. Write a word, pass it, the next person draws it, the next guesses the drawing, and so on. Nobody is good at it. The reveal at the end is the point.
 
 ### Ten to twelve people
 
@@ -73,9 +73,9 @@ At this size, pick games that scale up rather than ones that stretch.
 
 **Opener: Herd Mentality.** It handles a dozen people without changing a single rule.
 
-**Main event: Wavelength** or **Monikers** <!-- AFFILIATE -->. Wavelength tops out at twelve. Monikers plays four to sixteen in two teams and uses the same deck of names for three rounds: first say anything, then one word only, then charades. By round three, the jokes from round one come back, and the room is in tears.
+**Main event: Wavelength** or **Monikers**. Wavelength tops out at twelve. Monikers plays four to sixteen in two teams and uses the same deck of names for three rounds: first say anything, then one word only, then charades. By round three, the jokes from round one come back, and the room is in tears.
 
-**Closer: Telestrations with the 12-player Party Pack** <!-- AFFILIATE -->. Same game, more sketchbooks, bigger reveals.
+**Closer: Telestrations with the 12-player Party Pack**. Same game, more sketchbooks, bigger reveals.
 
 Over twelve? Split into two rooms for the main event, then bring everyone back together for Herd Mentality as the closer.
 

@@ -40,7 +40,7 @@ These are things to do, not attitudes to have. Do them enough and the attitude f
 4. **Keep your hands busy.** Reach for the box. Sort the tokens. Shuffle the deck for the next game. Physical work short-circuits the brooding and signals that the night is not over.
 5. **Save the analysis for yourself.** You are allowed to think about what went wrong. You are not allowed to make the table listen to it. Write it down later if you must.
 
-There is a sixth habit for cooperative games, where everyone loses together. In Pandemic or The Crew, the good loser resists the urge to assign blame, even when one move clearly sank the team. "We'll get it next time" is the whole script.
+There is a sixth habit for cooperative games, where everyone loses together. In [Pandemic](https://link.amazon/B0eHP5GCg) or The Crew, the good loser resists the urge to assign blame, even when one move clearly sank the team. "We'll get it next time" is the whole script.
 
 *More like this in the newsletter.*
 
@@ -73,8 +73,8 @@ If you host, you will eventually have a sore loser at your table. Usually it is 
 A few things work.
 
 - **Model it loudly.** When you lose, be visibly, specifically good about it. Name the winner, ask the question, reach for the box. People copy the host.
-- **Pick cooperative games for a few weeks.** Pandemic, The Crew, and Forbidden Island let the whole table lose together. It lowers the temperature and retrains the reflex.
-- **Talk about it away from the table.** Never in the moment. Later, privately, with a specific example and no audience. "Last week after Catan you spent a while on the dice. It made things tense. I don't think you meant it to."
+- **Pick cooperative games for a few weeks.** Pandemic, The Crew, and [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20) let the whole table lose together. It lowers the temperature and retrains the reflex.
+- **Talk about it away from the table.** Never in the moment. Later, privately, with a specific example and no audience. "Last week after [Catan](https://link.amazon/B0h8BDGR2) you spent a while on the dice. It made things tense. I don't think you meant it to."
 - **Praise the recovery.** The first time they lose well, notice it. Quietly. "That was a good game, and you were good about it." People repeat what gets noticed.
 
 Most people turn around fast once they see it. The ones who do not are telling you something about whether they belong at a table built on [the kind of memories a group retells for years](/articles/why-game-night-memories-last/).

@@ -7,7 +7,7 @@ category: Game Night
 tags: ["board games for 5 year olds", "best board games for preschoolers", "kindergarten board games", "first board games for kids", "games for 5 year olds and parents", "HABA games", "Family and intergenerational play"]
 draft: false
 ---
-The best board games for 5 year olds give the child a real decision every turn and give the adult something to think about besides waiting. Outfoxed!, Dragomino, Rhino Hero, My First Castle Panic, and Animal Upon Animal all do that. They play in fifteen to twenty minutes, nobody needs to read, and a parent on the third play of the evening is still choosing rather than going through the motions.
+The best board games for 5 year olds give the child a real decision every turn and give the adult something to think about besides waiting. Outfoxed!, [Dragomino](https://link.amazon/B09WKyU19), [Rhino Hero](https://www.amazon.com/dp/B01M8LF7IA?tag=cubecommonw0a-20), [My First Castle Panic](https://www.amazon.com/dp/B07KMLHPMK?tag=cubecommonw0a-20), and [Animal Upon Animal](https://www.amazon.com/dp/B073CD98D6?tag=cubecommonw0a-20) all do that. They play in fifteen to twenty minutes, nobody needs to read, and a parent on the third play of the evening is still choosing rather than going through the motions.
 
 **The quick answer:** start with Outfoxed! (cooperative) and Dragomino (competitive). Add Rhino Hero or Animal Upon Animal for laughs. Skip Candy Land.
 
@@ -15,7 +15,7 @@ That last point is the whole article. There are hundreds of games a five-year-ol
 
 ## What can a 5-year-old actually handle in a board game?
 
-More than Candy Land assumes, less than Catan Junior requires. Here is a realistic picture of a typical five-year-old at a table, with the usual caveat that children vary a lot at this age.
+More than Candy Land assumes, less than [Catan Junior](https://www.amazon.com/dp/B007N0KZ64?tag=cubecommonw0a-20) requires. Here is a realistic picture of a typical five-year-old at a table, with the usual caveat that children vary a lot at this age.
 
 - **Reading:** Assume none. Games should run on pictures, colors, and shapes.
 - **Counting:** Reliable to about ten. Dice with pips work; dice with numerals mostly work; adding two dice is a stretch.
@@ -40,16 +40,16 @@ Player counts are the publishers'. Play times are our estimates with a five-year
 
 | Game | Players | Play time | Type | What the adult gets out of it |
 |---|---|---|---|---|
-| [Outfoxed!](https://gamewright.com/product/Outfoxed) | 2 to 4 | 20 min | Cooperative deduction | Real logic puzzle. You eliminate suspects by clues, like a gentle Clue. |
+| [Outfoxed!](https://link.amazon/B0hYNduxd) | 2 to 4 | 20 min | Cooperative deduction | Real logic puzzle. You eliminate suspects by clues, like a gentle Clue. |
 | [Dragomino](https://www.blueorangegames.com/games/dragomino) | 2 to 4 | 15 min | Tile placement | Tile-matching with a push-your-luck twist. Kingdomino lite. |
 | Rhino Hero | 2 to 5 | 10 to 15 min | Dexterity, card stacking | Building a tower of cards that will fall. Tense for everyone. |
 | Animal Upon Animal | 2 to 4 | 15 min | Dexterity, stacking | Wooden animals, steady hands, real laughs when it collapses. |
 | My First Castle Panic | 1 to 4 | 20 min | Cooperative defense | Match color and shape to stop monsters. Teaches reading a shared board. |
-| Zingo! | 2 to 6 | 10 min | Matching, speed | Bingo with a tile slider. Fast and loud. Surprisingly fun race. |
-| Hoot Owl Hoot! | 2 to 4 | 15 min | Cooperative color-matching | Get all the owls home before sunrise. Simple, and the choice of which owl matters. |
-| Sneaky Snacky Squirrel | 2 to 4 | 15 min | Spinner, fine motor | Low on decisions, high on tweezers. Good for a four-and-a-half-year-old. |
-| Monza | 2 to 6 | 10 min | Dice, color racing | Roll six dice, chain colors to move your race car. Little planning puzzle each turn. |
-| Go Away Monster! | 2 to 4 | 10 min | Feel-and-match | Reach into a bag, feel for the right shape. Pure delight at this age. |
+| [Zingo!](https://www.amazon.com/dp/B01DY818JG?tag=cubecommonw0a-20) | 2 to 6 | 10 min | Matching, speed | Bingo with a tile slider. Fast and loud. Surprisingly fun race. |
+| [Hoot Owl Hoot!](https://www.amazon.com/dp/B004HVKAAI?tag=cubecommonw0a-20) | 2 to 4 | 15 min | Cooperative color-matching | Get all the owls home before sunrise. Simple, and the choice of which owl matters. |
+| [Sneaky Snacky Squirrel](https://www.amazon.com/dp/B00486ZVC4?tag=cubecommonw0a-20) | 2 to 4 | 15 min | Spinner, fine motor | Low on decisions, high on tweezers. Good for a four-and-a-half-year-old. |
+| [Monza](https://www.amazon.com/dp/B0002HYHT6?tag=cubecommonw0a-20) | 2 to 6 | 10 min | Dice, color racing | Roll six dice, chain colors to move your race car. Little planning puzzle each turn. |
+| [Go Away Monster!](https://www.amazon.com/dp/1888439084?tag=cubecommonw0a-20) | 2 to 4 | 10 min | Feel-and-match | Reach into a bag, feel for the right shape. Pure delight at this age. |
 
 If you buy only two, make them Outfoxed! and Dragomino. One is cooperative and one is competitive, and between them they cover most moods.
 
@@ -59,7 +59,7 @@ If you buy only two, make them Outfoxed! and Dragomino. One is cooperative and o
 
 Between five and seven, most children start reading a little, add numbers in their heads, and can wait through a longer turn. That opens up a few step-up games that grow with them.
 
-- **Ticket to Ride: First Journey** (ages 6+). Collect colored train cards and claim routes. The full Ticket to Ride, cut down to fit a younger child.
+- **[Ticket to Ride: First Journey](https://link.amazon/B0fAA009A)** (ages 6+). Collect colored train cards and claim routes. The full Ticket to Ride, cut down to fit a younger child.
 - **Catan Junior** (ages 6+). Build pirate lairs and trade with the other players. Keeps the trading and drops the math.
 - **Outfoxed! and Dragomino.** Both keep working at seven. The decisions get sharper as the child does.
 

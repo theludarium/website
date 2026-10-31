@@ -7,9 +7,9 @@ category: Game Night
 tags: ["Thanksgiving board games", "games for Thanksgiving family gathering", "holiday board games for large groups", "games for all ages Thanksgiving", "after dinner games", "family reunion games", "Family and intergenerational play"]
 draft: false
 ---
-The best Thanksgiving board games handle three things most games cannot: a crowd of eight or more, an age range from kindergarten to retirement, and a room full of people who are tired, full, and did not come to learn rules. Codenames, Telestrations, Just One, Wavelength, and Rummikub all pass. They teach in two minutes, run with big uneven groups, and let people drift in and out between pie and dishes.
+The best Thanksgiving board games handle three things most games cannot: a crowd of eight or more, an age range from kindergarten to retirement, and a room full of people who are tired, full, and did not come to learn rules. Codenames, Telestrations, [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20), [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20), and [Rummikub](https://www.amazon.com/dp/B00000IZJB?tag=cubecommonw0a-20) all pass. They teach in two minutes, run with big uneven groups, and let people drift in and out between pie and dishes.
 
-**The quick answer:** if you bring one game, bring Codenames: it splits a crowd into teams and a round takes about fifteen minutes. Add Telestrations or Just One for the loud middle of the evening and Rummikub or Qwirkle for a quieter side table.
+**The quick answer:** if you bring one game, bring Codenames: it splits a crowd into teams and a round takes about fifteen minutes. Add Telestrations or Just One for the loud middle of the evening and Rummikub or [Qwirkle](https://www.amazon.com/dp/1933054395?tag=cubecommonw0a-20) for a quieter side table.
 
 The right game at the right moment turns the dead hour after dinner into the part of the day people talk about on the drive home. The wrong one ends with someone explaining Catan to a six-year-old while everyone else finds somewhere to be. Thanksgiving falls on November 26 this year, so there is still time to pick and practice.
 
@@ -31,18 +31,18 @@ Sorted by what the room needs. Player counts and ages are the publishers' (names
 
 | Game | Players | Ages | Play time | Energy | Why it works on the holiday |
 |---|---|---|---|---|---|
-| [Codenames](https://czechgames.com/en/codenames/) (or Pictures) | 4 to 8+ | 10+ | 15 to 20 min | Medium | Teams, word clues, scales to twelve with bigger teams. Grandparents are often the best clue-givers. |
-| [Telestrations](https://theop.games/collections/telestrations) | 4 to 8 (12 with the 12-player box) | 10+ | 30 min | High | Telephone with drawings. Nobody is good at it, everyone laughs. |
+| [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) (or Pictures) | 4 to 8+ | 10+ | 15 to 20 min | Medium | Teams, word clues, scales to twelve with bigger teams. Grandparents are often the best clue-givers. |
+| [Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20) | 4 to 8 (12 with the 12-player box) | 10+ | 30 min | High | Telephone with drawings. Nobody is good at it, everyone laughs. |
 | [Just One](https://www.rprod.com/en/games/just-one) | 3 to 7 | 8+ | 20 min | Medium | Cooperative word clues. Zero pressure, short rounds, easy to join late. |
 | Wavelength | 2 to 12 | 14+ | 30 min | Medium | Teams guess where a concept sits on a spectrum. Produces the best arguments of the day. Put younger kids on a team with an adult. |
 | Rummikub | 2 to 4 | 8+ | 45 min | Low | The quiet-table game. Grandparents may already know it. |
 | Qwirkle | 2 to 4 | 6+ | 30 to 45 min | Low | No reading. Perfect for a grandparent and a young grandchild together. |
-| [Sushi Go Party!](https://gamewright.com/product/Sushi-Go-Party) | 2 to 8 | 8+ | 20 to 30 min | Medium | Card drafting for a full table. Quick, cheerful, easy. |
-| Skull King | 2 to 8 | 8+ | 30 min | Medium | Trick-taking that feels like euchre. Good for the card-playing side of the family. |
-| [Dixit](https://www.libellud.com/game/dixit/) | 3 to 8 | 8+ | 30 min | Low | Picture clues and storytelling. Kids and grandparents compete evenly. |
-| Happy Salmon | 3 to 6 (12 with two sets) | 6+ | 2 min | Very high | A two-minute shouting match. Run it before dessert to wake everyone up. |
-| Anomia | 3 to 6 | 10+ | 20 min | High | Fast category-naming. Loud, fast, funny. |
-| Ticket to Ride | 2 to 5 | 8+ | 60 min | Low | For the five who want a real game once the crowd thins. |
+| [Sushi Go Party!](https://www.amazon.com/dp/B01CETNKE2?tag=cubecommonw0a-20) | 2 to 8 | 8+ | 20 to 30 min | Medium | Card drafting for a full table. Quick, cheerful, easy. |
+| [Skull King](https://www.amazon.com/dp/B00CK1EJG8?tag=cubecommonw0a-20) | 2 to 8 | 8+ | 30 min | Medium | Trick-taking that feels like euchre. Good for the card-playing side of the family. |
+| [Dixit](https://www.amazon.com/dp/2914849656?tag=cubecommonw0a-20) | 3 to 8 | 8+ | 30 min | Low | Picture clues and storytelling. Kids and grandparents compete evenly. |
+| [Happy Salmon](https://www.amazon.com/dp/B09KKJMR4L?tag=cubecommonw0a-20) | 3 to 6 (12 with two sets) | 6+ | 2 min | Very high | A two-minute shouting match. Run it before dessert to wake everyone up. |
+| [Anomia](https://www.amazon.com/dp/B00363B5FC?tag=cubecommonw0a-20) | 3 to 6 | 10+ | 20 min | High | Fast category-naming. Loud, fast, funny. |
+| [Ticket to Ride](https://link.amazon/B0jh8RB7f) | 2 to 5 | 8+ | 60 min | Low | For the five who want a real game once the crowd thins. |
 
 Codenames is the one to own if you own only one. It plays with almost any number, divides naturally into "kids and grandparents versus parents," and a single round takes fifteen minutes.
 
@@ -102,7 +102,7 @@ Codenames. It plays with almost any number, splits into teams that absorb the ag
 
 ### What games can kids and grandparents play together on Thanksgiving?
 
-Qwirkle, Rummikub, Dixit, and Codenames: Pictures all work across sixty years of age without reading-heavy cards or long teaches.
+Qwirkle, Rummikub, Dixit, and [Codenames: Pictures](https://www.amazon.com/dp/B01HT9DERU?tag=cubecommonw0a-20) all work across sixty years of age without reading-heavy cards or long teaches.
 
 ### When is the best time to play games on Thanksgiving?
 

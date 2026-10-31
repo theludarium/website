@@ -26,40 +26,40 @@ None of these are sad. A solo game is, in most cases, a hobby in the same catego
 
 | Time | Game | What it is |
 |---|---|---|
-| 15 min | Friday | A deck-building game about keeping Robinson Crusoe alive |
-| 20 min | Onirim | A card game about escaping a dream labyrinth |
-| 30 min | Cascadia (solo mode) | Habitat tile puzzle with a scoring target |
-| 45 min | Wingspan (Automa) | Engine builder against a cardboard opponent |
-| 60 min | Spirit Island | Heavy co-op, excellent at one player |
-| 60 to 90 min | Mage Knight | The famous brain-burner, best alone |
-| Campaign | Gloomhaven: Jaws of the Lion | Dungeon crawl, 25 scenarios, solo-friendly |
-| Campaign | Sleeping Gods | Open-world exploration over many sessions |
+| 15 min | [Friday](https://www.amazon.com/dp/B006NCVC6A?tag=cubecommonw0a-20) | A deck-building game about keeping Robinson Crusoe alive |
+| 20 min | [Onirim](https://www.amazon.com/dp/B00KU1343E?tag=cubecommonw0a-20) | A card game about escaping a dream labyrinth |
+| 30 min | [Cascadia](https://link.amazon/B0g1HYFt4) (solo mode) | Habitat tile puzzle with a scoring target |
+| 45 min | [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) (Automa) | Engine builder against a cardboard opponent |
+| 60 min | [Spirit Island](https://www.amazon.com/dp/B01MUHP51S?tag=cubecommonw0a-20) | Heavy co-op, excellent at one player |
+| 60 to 90 min | [Mage Knight](https://www.amazon.com/dp/B07BSM4SKL?tag=cubecommonw0a-20) | The famous brain-burner, best alone |
+| Campaign | [Gloomhaven: Jaws of the Lion](https://www.amazon.com/dp/B088QSDB7S?tag=cubecommonw0a-20) | Dungeon crawl, 25 scenarios, solo-friendly |
+| Campaign | [Sleeping Gods](https://www.amazon.com/dp/B084GWHLGK?tag=cubecommonw0a-20) | Open-world exploration over many sessions |
 
 A little more on each.
 
-**Friday** <!-- AFFILIATE --> is a small-box deck builder designed only for one player. You help Crusoe survive hazards by building a better deck while removing the weak cards. It is cheap, fast, and hard to win. A good first solo game.
+**Friday** is a small-box deck builder designed only for one player. You help Crusoe survive hazards by building a better deck while removing the weak cards. It is cheap, fast, and hard to win. A good first solo game.
 
-**Onirim** <!-- AFFILIATE --> is a card game about finding doors in a dream labyrinth before the deck runs out. Twenty minutes, pure solitaire, and oddly calming.
+**Onirim** is a card game about finding doors in a dream labyrinth before the deck runs out. Twenty minutes, pure solitaire, and oddly calming.
 
-**Cascadia** <!-- AFFILIATE --> has a solo mode that works like the multiplayer game with a scoring target. The game is excellent at any count, and its solo mode is one of the least fiddly on this list.
+**Cascadia** has a solo mode that works like the multiplayer game with a scoring target. The game is excellent at any count, and its solo mode is one of the least fiddly on this list.
 
-**Wingspan** <!-- AFFILIATE --> uses an "Automa," a deck of cards that simulates an opponent's actions. It takes a few plays to get fluent with the Automa rules, but once you do, it feels like a real game against a steady rival. Many engine builders use this approach. We covered the genre in [engine building games](/articles/engine-building-games/).
+**Wingspan** uses an "Automa," a deck of cards that simulates an opponent's actions. It takes a few plays to get fluent with the Automa rules, but once you do, it feels like a real game against a steady rival. Many engine builders use this approach. We covered the genre in [engine building games](/articles/engine-building-games/).
 
-**Spirit Island** <!-- AFFILIATE --> is a cooperative game about island spirits repelling colonizers. It is heavy, and it is one of the best solo experiences in the hobby because the cooperative structure means you control everything anyway. Playing one spirit is a tight 60 minutes. Playing two is a full evening.
+**Spirit Island** is a cooperative game about island spirits repelling colonizers. It is heavy, and it is one of the best solo experiences in the hobby because the cooperative structure means you control everything anyway. Playing one spirit is a tight 60 minutes. Playing two is a full evening.
 
-**Mage Knight** <!-- AFFILIATE --> is the game most often named as the best solo board game. You control a hero exploring a map, building a deck, and attacking cities. It is complex, long, and demanding. It is also exactly the kind of game that is hard to get to a table with other people, which is why it shines alone.
+**Mage Knight** is the game most often named as the best solo board game. You control a hero exploring a map, building a deck, and attacking cities. It is complex, long, and demanding. It is also exactly the kind of game that is hard to get to a table with other people, which is why it shines alone.
 
-**Gloomhaven: Jaws of the Lion** <!-- AFFILIATE --> is the accessible entry to the Gloomhaven campaign system. Solo play means controlling two characters, which some people love and some find tiring. The scenarios teach the game as you go. We compared the Gloomhaven boxes in [is Gloomhaven worth it](/articles/is-gloomhaven-worth-it/).
+**Gloomhaven: Jaws of the Lion** is the accessible entry to the Gloomhaven campaign system. Solo play means controlling two characters, which some people love and some find tiring. The scenarios teach the game as you go. We compared the Gloomhaven boxes in [is Gloomhaven worth it](/articles/is-gloomhaven-worth-it/).
 
-**Sleeping Gods** <!-- AFFILIATE --> is a storybook exploration game where you sail a ship through an open world, making choices that persist across sessions. It is built for one or two players and is one of the few campaign games that does not punish you for playing alone.
+**Sleeping Gods** is a storybook exploration game where you sail a ship through an open world, making choices that persist across sessions. It is built for one or two players and is one of the few campaign games that does not punish you for playing alone.
 
 ## Which games have solo modes bolted on, and which are built for it?
 
 This distinction matters for buying. A game with a bolted-on solo mode (often an "Automa" deck or a score-to-beat) can be very good, but the experience is the multiplayer game with a substitute opponent. A game built for solo play is designed around the puzzle of one person making decisions.
 
-- **Built for solo:** Friday, Onirim, Mage Knight, Sleeping Gods, Under Falling Skies, Coffee Roaster.
-- **Excellent solo modes on multiplayer games:** Wingspan, Cascadia, Spirit Island, Terraforming Mars, Ark Nova, Scythe.
-- **Solo-friendly co-ops:** Any cooperative game can be played solo by controlling all players. Pandemic, The Crew (with the dummy hand rules), and Spirit Island all work this way.
+- **Built for solo:** Friday, Onirim, Mage Knight, Sleeping Gods, [Under Falling Skies](https://www.amazon.com/dp/B08HGS1QYT?tag=cubecommonw0a-20), [Coffee Roaster](https://www.amazon.com/dp/B07TNVYHWS?tag=cubecommonw0a-20).
+- **Excellent solo modes on multiplayer games:** Wingspan, Cascadia, Spirit Island, [Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20), [Ark Nova](https://www.amazon.com/dp/B09L6FCP9S?tag=cubecommonw0a-20), [Scythe](https://www.amazon.com/dp/B01IPUGYK6?tag=cubecommonw0a-20).
+- **Solo-friendly co-ops:** Any cooperative game can be played solo by controlling all players. Pandemic, [The Crew](https://link.amazon/B099S9RKf) (with the dummy hand rules), and Spirit Island all work this way.
 
 If you plan to mostly play alone, favor the first list. If you want a game that works for a solo Tuesday and a four-player Saturday, the second list is where the value is.
 

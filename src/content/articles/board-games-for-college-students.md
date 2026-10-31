@@ -25,37 +25,37 @@ A dorm is a specific environment. Small space, no table, inconsistent group size
 
 | Game | Players | Time | Box | Why |
 |---|---|---|---|---|
-| Codenames | 4 to 8+ | 15 min | Small | The best party game, period |
+| [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) | 4 to 8+ | 15 min | Small | The best party game, period |
 | The Crew | 3 to 5 (2 with a variant) | 20 min | Card deck | Co-op trick-taking, endlessly replayable |
 | Sushi Go! | 2 to 5 | 15 min | Tin | Fast, cute, cheap |
 | Love Letter | 2 to 6 | 10 min | Pouch | 21 cards, a full game |
 | Skull | 3 to 6 | 30 min | Small | Bluffing with coasters |
-| No Thanks! | 3 to 7 | 15 min | Small | Simple push-your-luck, teaches in a minute |
-| Coup | 2 to 6 | 15 min | Small | Lying and accusations |
-| Hanabi | 2 to 5 | 25 min | Small | Cooperative, hold cards facing out |
-| Wavelength | 2 to 12 | 30 min | Medium | Worth the bigger box |
+| [No Thanks!](https://www.amazon.com/dp/B013FAC4FK?tag=cubecommonw0a-20) | 3 to 7 | 15 min | Small | Simple push-your-luck, teaches in a minute |
+| [Coup](https://www.amazon.com/dp/B00GDI4HX4?tag=cubecommonw0a-20) | 2 to 6 | 15 min | Small | Lying and accusations |
+| [Hanabi](https://www.amazon.com/dp/B01MXTGT21?tag=cubecommonw0a-20) | 2 to 5 | 25 min | Small | Cooperative, hold cards facing out |
+| [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) | 2 to 12 | 30 min | Medium | Worth the bigger box |
 
 Notes on the picks:
 
-**Codenames** <!-- AFFILIATE --> is the one to buy first. It handles a crowded room, needs no table (lay the cards on the floor), and works with people who have never played a game in their lives. If you buy nothing else, buy this.
+**Codenames** is the one to buy first. It handles a crowded room, needs no table (lay the cards on the floor), and works with people who have never played a game in their lives. If you buy nothing else, buy this.
 
-**The Crew: The Quest for Planet Nine** <!-- AFFILIATE --> is a cooperative trick-taking game in a deck-sized box. If your friends know Euchre, Spades, or Hearts, they already know how to play. It has fifty missions, so it lasts a semester.
+**[The Crew: The Quest for Planet Nine](https://www.amazon.com/dp/B084GP7X3P?tag=cubecommonw0a-20)** is a cooperative trick-taking game in a deck-sized box. If your friends know Euchre, Spades, or Hearts, they already know how to play. It has fifty missions, so it lasts a semester.
 
-**Love Letter** <!-- AFFILIATE --> is a small deck of cards in a velvet bag. It is a bluffing and deduction game that plays in ten minutes and fits in a jacket pocket. Pocket games get played more than shelf games.
+**Love Letter** is a small deck of cards in a velvet bag. It is a bluffing and deduction game that plays in ten minutes and fits in a jacket pocket. Pocket games get played more than shelf games.
 
-**Skull** <!-- AFFILIATE --> is a bluffing game played with coasters. Each player has three flowers and one skull. You stack them face down and bid on how many you can flip without hitting a skull. It is tense, simple, and very funny when someone's confidence collapses.
+**Skull** is a bluffing game played with coasters. Each player has three flowers and one skull. You stack them face down and bid on how many you can flip without hitting a skull. It is tense, simple, and very funny when someone's confidence collapses.
 
-**Hanabi** <!-- AFFILIATE --> flips the usual card game: you hold your cards facing away from you, so everyone can see your hand except you. The team gives clues to build a fireworks display in order. It is quiet, clever, and good for a late night when nobody wants to shout.
+**Hanabi** flips the usual card game: you hold your cards facing away from you, so everyone can see your hand except you. The team gives clues to build a fireworks display in order. It is quiet, clever, and good for a late night when nobody wants to shout.
 
-**Wavelength** <!-- AFFILIATE --> breaks the small-box rule but earns it. It handles twelve people, runs on opinions, and is the game most likely to make the whole floor come into your room.
+**Wavelength** breaks the small-box rule but earns it. It handles twelve people, runs on opinions, and is the game most likely to make the whole floor come into your room.
 
 ## What about roommates who are just two people?
 
 Most of the games above play at two, but a couple of picks are better for a quiet night with one roommate.
 
-- **Jaipur** <!-- AFFILIATE --> is a two-player trading card game that plays in twenty minutes. It is one of the best two-player card games ever made and costs less than a pizza for two.
-- **Hive Pocket** <!-- AFFILIATE --> is an abstract strategy game with no board. The pocket edition is tiny. It plays like fast chess and takes about fifteen minutes.
-- **Star Realms** <!-- AFFILIATE --> is a deck-building game in a small box. You attack each other directly, which makes it a good grudge game between roommates.
+- **[Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20)** is a two-player trading card game that plays in twenty minutes. It is one of the best two-player card games ever made and costs less than a pizza for two.
+- **[Hive Pocket](https://www.amazon.com/dp/B0079L0EKY?tag=cubecommonw0a-20)** is an abstract strategy game with no board. The pocket edition is tiny. It plays like fast chess and takes about fifteen minutes.
+- **[Star Realms](https://www.amazon.com/dp/B00HRGMPIU?tag=cubecommonw0a-20)** is a deck-building game in a small box. You attack each other directly, which makes it a good grudge game between roommates.
 
 For more two-player picks that scale up when friends come over, see [board games for couples](/articles/board-games-for-couples/). The advice carries over.
 
@@ -92,7 +92,7 @@ Codenames. It is cheap, fits in a small box, plays on any surface, handles a cro
 
 ### What are the cheapest good board games?
 
-At the time of writing, [Coup](https://www.indieboardsandcards.com/index.php/our-games/coup/) and [The Crew](https://icv2.com/articles/news/view/44948/blast-off-into-space-the-crew-the-quest-planet-nine) list at about $15, [Love Letter](https://store.asmodee.com/products/love-letter-classic-eco-box) and [Sushi Go!](https://www.ceaco.com/products/sushi-go) at about $16 to $17, and [Skull](https://store.asmodee.com/products/skull) at about $21; No Thanks! sits in the same range. All are good enough to play for years.
+At the time of writing, [Coup](https://www.indieboardsandcards.com/index.php/our-games/coup/) and [The Crew](https://icv2.com/articles/news/view/44948/blast-off-into-space-the-crew-the-quest-planet-nine) list at about $15, [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20) and [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) at about $16 to $17, and [Skull](https://www.amazon.com/dp/B08R2BPLSN?tag=cubecommonw0a-20) at about $21; No Thanks! sits in the same range. All are good enough to play for years.
 
 ### Are there board games that don't need a table?
 

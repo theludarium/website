@@ -42,7 +42,7 @@ DyLighted is the scene's biggest teacher, with about 72,400 subscribers and more
 
 ## DandyDrew: the coach
 
-Drew Elliott won the 2024 CATAN US National Championship ([CATAN](https://www.catan.com/catan-fans/news/new-us-catan-champion-2024)) and calls himself the #1-ranked Colonist player, "and bald," in his channel bio ([YouTube](https://www.youtube.com/@dandydrew)). With about 30,000 subscribers, he's half DyLighted's size but arguably the scene's most connected figure.
+Drew Elliott won the 2024 CATAN US National Championship ([CATAN](https://link.amazon/B0h8BDGR2)) and calls himself the #1-ranked Colonist player, "and bald," in his channel bio ([YouTube](https://www.youtube.com/@dandydrew)). With about 30,000 subscribers, he's half DyLighted's size but arguably the scene's most connected figure.
 
 **How he plays.** Drew came up through the Ore-Wheat-Sheep strategy and credits a chess background for his speed under pressure. He calls Catan roughly 80% skill and 20% luck, comparing it to poker ([The Beaver](https://thebeaverlse.co.uk/a-dive-into-the-catan-competitive-scene-with-dandydrew/)). He's also known for a "Side-by-Side" setup that other creators have studied with him on camera.
 

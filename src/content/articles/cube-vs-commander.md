@@ -12,7 +12,7 @@ We have a stake in this one. The Ludarium's founder started Cube Commonwealth, a
 
 ## What is Commander?
 
-**Commander** <!-- AFFILIATE --> is a multiplayer format, usually four players, where each player brings a 100-card deck built around a single legendary creature, the commander. Every other card in the deck must be a different card (singleton) and must match the commander's colors. Players start at 40 life instead of 20. The commander sits in a special zone, can be cast from there, and can return there when it dies or is exiled, at a rising cost. Games are free-for-all: last player standing wins, with the social politics that implies.
+**Commander** is a multiplayer format, usually four players, where each player brings a 100-card deck built around a single legendary creature, the commander. Every other card in the deck must be a different card (singleton) and must match the commander's colors. Players start at 40 life instead of 20. The commander sits in a special zone, can be cast from there, and can return there when it dies or is exiled, at a rising cost. Games are free-for-all: last player standing wins, with the social politics that implies.
 
 It is Magic's flagship casual format, with a formal ban list [managed by Wizards of the Coast since September 2024](https://en.wikipedia.org/wiki/Commander_(Magic:_The_Gathering)). Preconstructed Commander decks are sold in stores, so a new player can buy a deck and play that night.
 

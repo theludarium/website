@@ -70,7 +70,7 @@ Keep sweepers rare and conditional. Crypt Rats, Pestilence, Electrickery, and Sw
 
 The rarity rule does most of the power policing for you, but five places still need a hand on the dial:
 
-1. **Lands.** Common fixing is tapped: the gain lands, the Guildgates, the Kaldheim snow duals, the bounce lands, Ash Barrens, Evolving Wilds, and the Thriving lands. <!-- AFFILIATE --> Run more than a powered cube would (one tapped dual per pair at minimum, often two) and expect two-color decks almost exclusively. The Pauper Cube's maintainer runs [40 to 50 copies of each basic](https://thepaupercube.com/) alongside the box.
+1. **Lands.** Common fixing is tapped: the gain lands, the Guildgates, the Kaldheim snow duals, the bounce lands, Ash Barrens, Evolving Wilds, and the Thriving lands. Run more than a powered cube would (one tapped dual per pair at minimum, often two) and expect two-color decks almost exclusively. The Pauper Cube's maintainer runs [40 to 50 copies of each basic](https://thepaupercube.com/) alongside the box.
 2. **Affinity.** Frogmite, Myr Enforcer, Somber Hoverguard, and Atog with Chromatic Star and Ichor Wellspring form a real deck at common. It is fun once and oppressive weekly. Most lists keep the artifact-sacrifice half and cut the free creatures.
 3. **Storm and combo.** Common has real storm kills (Grapeshot, Empty the Warrens), and Ghostly Flicker loops with Mnemonic Wall and a Peregrine Drake make infinite mana. Many cubes cut Peregrine Drake specifically and keep the flicker shell.
 4. **Mono-color depth.** Mono-black (Pestilence, Crypt Rats, Gray Merchant of Asphodel) and mono-red are the two mono-color decks the common pool supports. Decide whether you want them, and if yes, give them 60 to 70 playables per color.
@@ -78,7 +78,7 @@ The rarity rule does most of the power policing for you, but five places still n
 
 ## How much does a pauper cube cost?
 
-A 360 built from scratch runs about $100 to $150 in singles at the time of writing, less if you swap out the pricier commons, and most of those (Pestilence, Rancor, Exhume) are [a few dollars or less](https://www.cardkingdom.com/catalog/search?search=header&filter%5Bname%5D=Rancor) at the time of writing. Sleeves and a box add about $30 to $50. If you are building from an existing collection, the whole project is an afternoon of sorting.
+A 360 built from scratch runs about $100 to $150 in singles at the time of writing, less if you swap out the pricier commons, and most of those (Pestilence, Rancor, Exhume) are a few dollars or less at the time of writing. Sleeves and a box add about $30 to $50. If you are building from an existing collection, the whole project is an afternoon of sorting.
 
 That cost is the reason pauper cubes travel to conventions, get lent out, and become a group's community cube. Nobody is nervous about a box of commons.
 

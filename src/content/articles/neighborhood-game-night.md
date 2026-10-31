@@ -8,7 +8,7 @@ draft: false
 ---
 A neighborhood game night is the lowest-stakes way to turn the people on your street from faces into names. You do not need a big house, a game collection, or any hosting talent. You need a date, a short invitation, three forgiving games, and the willingness to do it a second time when the first one is awkward. This article walks through each of those.
 
-The case for doing it at all is simple. Most people say they would like to know their neighbors better and almost nobody makes the first move. A [2025 Pew Research Center survey](https://www.pewresearch.org/short-reads/2025/05/08/how-connected-do-americans-feel-to-their-neighbors/) found that only about a quarter of Americans know all or most of their neighbors, down slightly from 2018. Someone has to go first. It might as well be the person with a folding table and a copy of Codenames.
+The case for doing it at all is simple. Most people say they would like to know their neighbors better and almost nobody makes the first move. A [2025 Pew Research Center survey](https://www.pewresearch.org/short-reads/2025/05/08/how-connected-do-americans-feel-to-their-neighbors/) found that only about a quarter of Americans know all or most of their neighbors, down slightly from 2018. Someone has to go first. It might as well be the person with a folding table and a copy of [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20).
 
 ## Why a game night and not a block party?
 
@@ -45,17 +45,17 @@ The games for a neighborhood night need to pass three tests: teachable in three 
 | Game | Players | Why it works for neighbors |
 |---|---|---|
 | Codenames | 4 to 8+ | Team-based, all conversation, easy to join mid-game |
-| Wavelength | 2 to 12 | Runs on opinions; everyone has one |
-| Telestrations | 4 to 8 (12 with the big box) | Drawing badly is the fun; zero skill barrier |
-| Just One | 3 to 7 | Cooperative, gentle, nobody loses |
-| Sushi Go Party! | 2 to 8 | Fast card game, cute, three-minute teach |
-| Azul | 2 to 4 | For a quieter side table |
+| [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) | 2 to 12 | Runs on opinions; everyone has one |
+| [Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20) | 4 to 8 (12 with the big box) | Drawing badly is the fun; zero skill barrier |
+| [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20) | 3 to 7 | Cooperative, gentle, nobody loses |
+| [Sushi Go Party!](https://www.amazon.com/dp/B01CETNKE2?tag=cubecommonw0a-20) | 2 to 8 | Fast card game, cute, three-minute teach |
+| [Azul](https://link.amazon/B0bGRYHex) | 2 to 4 | For a quieter side table |
 
-**Codenames** <!-- AFFILIATE --> is the anchor. Put it on the main table and keep it running all night. It makes two teams out of strangers, and the arguments about whether "orange" connects to "fruit" and "Netherlands" are the conversations that turn neighbors into acquaintances.
+**Codenames** is the anchor. Put it on the main table and keep it running all night. It makes two teams out of strangers, and the arguments about whether "orange" connects to "fruit" and "Netherlands" are the conversations that turn neighbors into acquaintances.
 
-**Wavelength** <!-- AFFILIATE --> and **Telestrations** <!-- AFFILIATE --> are the warm-ups. Both make people laugh within five minutes, and laughter is the fastest way to lower the temperature in a room of people who have only waved at each other.
+**Wavelength** and **Telestrations** are the warm-ups. Both make people laugh within five minutes, and laughter is the fastest way to lower the temperature in a room of people who have only waved at each other.
 
-**Just One** <!-- AFFILIATE --> is for the moment when the room is small or shy. Everybody is on one side, so no one is exposed.
+**Just One** is for the moment when the room is small or shy. Everybody is on one side, so no one is exposed.
 
 Avoid, at least for the first few nights: anything with a 30-minute teach, anything with elimination (nobody wants to be voted out by a neighbor they just met), and anything with a reputation for ruining friendships. Save the trading games for month six.
 

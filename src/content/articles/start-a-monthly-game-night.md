@@ -67,11 +67,11 @@ The first night sets the tone for the year. Keep it short, warm, and easy.
 | Next 90 minutes | One main game everyone can learn | Ticket to Ride or Codenames |
 | Last 30 minutes | A short closer, then set the next date | Flip 7 again, or Codenames |
 
-**For the quick game,** [Flip 7](https://www.target.com/p/the-op-games-flip-7-card-game/-/A-94179127) is a push-your-luck card game for three or more players, about twenty minutes, ages 8 and up, about $8 at Target at the time of writing. Anyone can join on the next round.
+**For the quick game,** [Flip 7](https://www.amazon.com/dp/B0DWGVM7RY?tag=cubecommonw0a-20) is a push-your-luck card game for three or more players, about twenty minutes, ages 8 and up, about $8 at Target at the time of writing. Anyone can join on the next round.
 
 <!-- AFFILIATE: Flip 7 -->
 
-**For the main game,** pick something you already know well enough to teach. [Ticket to Ride](https://store.asmodee.com/products/ticket-to-ride-refresh) is a classic first pick: two to five players collect train cards and claim routes across a map of North America. About 30 to 60 minutes, ages 8 and up, about $40 at the Asmodee store. For a bigger or chattier group, [Codenames](https://store.czechgames.com/products/codenames-new) splits the table into two teams, with two to eight or more players, about fifteen minutes a game, ages 14 and up on the box, about $25 at the Czech Games store. Our free Academy courses for [Ticket to Ride](/academy/ticket-to-ride/) and [Codenames](/academy/codenames/) can help you teach them.
+**For the main game,** pick something you already know well enough to teach. [Ticket to Ride](https://link.amazon/B0jh8RB7f) is a classic first pick: two to five players collect train cards and claim routes across a map of North America. About 30 to 60 minutes, ages 8 and up, about $40 at the Asmodee store. For a bigger or chattier group, [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) splits the table into two teams, with two to eight or more players, about fifteen minutes a game, ages 14 and up on the box, about $25 at the Czech Games store. Our free Academy courses for [Ticket to Ride](/academy/ticket-to-ride/) and [Codenames](/academy/codenames/) can help you teach them.
 
 <!-- AFFILIATE: Ticket to Ride -->
 <!-- AFFILIATE: Codenames -->

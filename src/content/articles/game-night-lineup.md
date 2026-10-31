@@ -29,7 +29,7 @@ A good opener is:
 - **Forgiving.** New players should not be able to lose badly. Low stakes, high interaction.
 - **Social.** Something that prompts talking, not silent calculation.
 
-Codenames, Just One, Sushi Go, Azul, and Wavelength are classic openers. Each one gets the table laughing or leaning in before anyone has finished their first drink. For a smaller or quieter group, The Crew works beautifully: cooperative, quick, and it teaches people to communicate without words.
+[Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20), Sushi Go, [Azul](https://link.amazon/B0bGRYHex), and [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) are classic openers. Each one gets the table laughing or leaning in before anyone has finished their first drink. For a smaller or quieter group, The Crew works beautifully: cooperative, quick, and it teaches people to communicate without words.
 
 The opener also tells you something. If the table is chatty and fast, you can go heavier for the main event. If it is slow and careful, pick a lighter main course. The opener is a diagnostic.
 
@@ -39,7 +39,7 @@ The main event is the game people will talk about on the drive home. It is the l
 
 The main event should take 60 to 90 minutes for most groups, and never more than half the total evening. It should fit the real headcount, not the one on the box. And you should know it cold, because this is the teach that matters.
 
-Good main events for a mixed table: Ticket to Ride, Wingspan, Catan, Pandemic, Azul (yes, it works here too for a shorter night), 7 Wonders, Carcassonne. For an experienced group: Terraforming Mars, Scythe, Brass, or a Gloomhaven scenario.
+Good main events for a mixed table: [Ticket to Ride](https://link.amazon/B0jh8RB7f), [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), [Catan](https://link.amazon/B0h8BDGR2), [Pandemic](https://link.amazon/B0eHP5GCg), Azul (yes, it works here too for a shorter night), [7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20), [Carcassonne](https://link.amazon/B012Rr5ed). For an experienced group: [Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20), [Scythe](https://www.amazon.com/dp/B01IPUGYK6?tag=cubecommonw0a-20), [Brass](https://www.amazon.com/dp/1988884047?tag=cubecommonw0a-20), or a [Gloomhaven](https://www.amazon.com/dp/B01LZXVN4P?tag=cubecommonw0a-20) scenario.
 
 Two rules. First, the main event starts no later than 45 minutes after people arrive, including food and the opener. Later than that and you are running out of night. Second, one main event, not two. If the group finishes early and wants more, that is what the closer is for.
 
@@ -50,7 +50,7 @@ The table below shows how a three-hour evening breaks down.
 | Arrivals, food | 0:00 to 0:25 | None | Snack table, drinks |
 | Opener | 0:25 to 0:50 | Light, social, short | Codenames, Just One |
 | Main event | 0:50 to 2:20 | Medium weight, the plan | Ticket to Ride, Wingspan |
-| Closer | 2:20 to 2:50 | Light, fast, funny | Cockroach Poker, Wavelength |
+| Closer | 2:20 to 2:50 | Light, fast, funny | [Cockroach Poker](https://www.amazon.com/dp/B07JYLC3DK?tag=cubecommonw0a-20), Wavelength |
 | Wrap | 2:50 to 3:00 | None | Goodbyes, next date |
 
 Those numbers flex, but the shape holds for almost any group. [How to host a game night](/articles/how-to-host-a-game-night/) covers the arrivals block and the food in more detail.
@@ -68,7 +68,7 @@ The ideal closer:
 - Has a built-in ending, so it does not drift
 - Creates at least one moment worth retelling
 
-Cockroach Poker, Skull, Wavelength, Telestrations, Just One, and a quick hand of The Crew all close well. Codenames can close if it did not open. Party games with a bluffing or drawing element are especially good here because they produce stories. When the crowd tops eight, pull from our [party games for large groups](/articles/party-games-for-large-groups/).
+Cockroach Poker, [Skull](https://www.amazon.com/dp/B08R2BPLSN?tag=cubecommonw0a-20), Wavelength, [Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20), Just One, and a quick hand of The Crew all close well. Codenames can close if it did not open. Party games with a bluffing or drawing element are especially good here because they produce stories. When the crowd tops eight, pull from our [party games for large groups](/articles/party-games-for-large-groups/).
 
 The closer is also your safety valve. If the main event runs long, you cut the closer and nobody feels shortchanged. If the main event runs short, the closer fills the gap. Keep one on the shelf and visible so the transition is seamless.
 
@@ -76,7 +76,7 @@ The closer is also your safety valve. If the main event runs long, you cut the c
 
 Then play the main event and skip the rest. A single 60-minute game with a warm welcome and a clean ending is a complete game night. Do not try to compress three games into 90 minutes. You will rush the teach, rush the play, and rush the goodbye.
 
-For a short night, lean toward the lighter end of main events: Azul, Splendor, Sushi Go Party, or The Crew. These scratch the itch without demanding the clock.
+For a short night, lean toward the lighter end of main events: Azul, [Splendor](https://link.amazon/B0fEvY6Wg), Sushi Go Party, or The Crew. These scratch the itch without demanding the clock.
 
 ## How do you handle a group that wants to keep playing?
 

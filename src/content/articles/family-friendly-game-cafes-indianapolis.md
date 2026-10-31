@@ -15,7 +15,7 @@ Every venue was checked against its own site or a current listing in October 202
 Not the same things that make it good for a Friday-night group of adults.
 
 - **Daytime hours.** Most game venues are built for evenings. Families need 11 a.m. to 5 p.m.
-- **A library with games for ages six and up.** Not just Catan and Wingspan; Outfoxed, Dragomino, Sushi Go <!-- AFFILIATE -->, and Kingdomino.
+- **A library with games for ages six and up.** Not just Catan and Wingspan; Outfoxed, [Dragomino](https://link.amazon/B09WKyU19), Sushi Go, and [Kingdomino](https://link.amazon/B08l49zvA).
 - **Food that a child will eat.** A cafe with a kitchen beats a bar with pretzels.
 - **Staff who teach.** A parent cannot read a rulebook and manage two kids at once. Someone pulling three options and explaining one is the whole service.
 - **Noise tolerance.** Children are loud. A room where that is fine matters more than any amenity.
@@ -53,10 +53,10 @@ A fuller list of every place to play, family or not, is in our [Indianapolis boa
 
 Walk in and say the ages of the kids and how long you have. Then ask for one of these by name if the staff looks uncertain.
 
-- **Ages 4 to 6:** Outfoxed, Dragomino, Rhino Hero, First Orchard.
-- **Ages 7 to 9:** Sushi Go, Kingdomino, Ticket to Ride: First Journey, Dobble.
-- **Ages 10 and up:** Ticket to Ride, Azul, Codenames, The Crew, Carcassonne.
-- **Mixed ages, including grandparents:** Qwixx, Sleeping Queens, Azul, and anything cooperative.
+- **Ages 4 to 6:** Outfoxed, Dragomino, [Rhino Hero](https://www.amazon.com/dp/B01M8LF7IA?tag=cubecommonw0a-20), [First Orchard](https://www.amazon.com/dp/B004BW8TYC?tag=cubecommonw0a-20).
+- **Ages 7 to 9:** Sushi Go, Kingdomino, [Ticket to Ride: First Journey](https://link.amazon/B0fAA009A), [Dobble](https://www.amazon.com/dp/B095CR8CNF?tag=cubecommonw0a-20).
+- **Ages 10 and up:** [Ticket to Ride](https://link.amazon/B0jh8RB7f), [Azul](https://link.amazon/B0bGRYHex), [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), The Crew, [Carcassonne](https://link.amazon/B012Rr5ed).
+- **Mixed ages, including grandparents:** [Qwixx](https://www.amazon.com/dp/B00J57138C?tag=cubecommonw0a-20), [Sleeping Queens](https://www.amazon.com/dp/B0009XBY3A?tag=cubecommonw0a-20), Azul, and anything cooperative.
 
 Plan for two games in ninety minutes with children under ten. A third game is a bonus, not a goal. Our guide to [the best family board games](/articles/best-family-board-games/) explains why those specific titles work.
 

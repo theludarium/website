@@ -6,11 +6,11 @@ category: Game Night
 tags: ["games to play while the turkey cooks", "Thanksgiving games no table", "no setup party games", "word games for groups", "Thanksgiving games for adults and kids", "games without a board"]
 draft: false
 ---
-The best games to play while the turkey cooks need no table, no setup, and no rulebook. Spoken word games like Contact and Twenty Questions, pass-around games like Telestrations and Just One, and a pencil-and-paper round of Categories all work from a couch, a kitchen stool, or the floor. Everyone can play, and anyone can step away to baste.
+The best games to play while the turkey cooks need no table, no setup, and no rulebook. Spoken word games like Contact and Twenty Questions, pass-around games like [Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20) and [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20), and a pencil-and-paper round of Categories all work from a couch, a kitchen stool, or the floor. Everyone can play, and anyone can step away to baste.
 
 The dining table is busy on Thanksgiving. It is getting set, or it is holding pies, or it is about to. That leaves the hours before dinner with a full house and nowhere to spread out a board. These games fill that gap.
 
-**The quick answer:** for a no-equipment start, play Contact or Twenty Questions. For a box you can play on laps, bring Just One, Telestrations, or Wavelength. For a big group that wants something rowdy, play Fishbowl with scrap paper and a mixing bowl.
+**The quick answer:** for a no-equipment start, play Contact or Twenty Questions. For a box you can play on laps, bring Just One, Telestrations, or [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20). For a big group that wants something rowdy, play Fishbowl with scrap paper and a mixing bowl.
 
 ## What makes a good game for the hours before dinner?
 
@@ -58,28 +58,28 @@ Some boxed games travel well because everything happens in your hand or on your 
 | Just One | 3 to 7 | 20 min | Easels on laps | Mixed ages, cooperative |
 | Telestrations | 4 to 8 (12 with Party Pack) | 30 min | Sketchbooks on laps | Laughs with any group |
 | Wavelength | 2 to 12 | 30 min | One dial passed around | Adults and teens who like to argue |
-| Herd Mentality | 4 to 20 | 20 to 30 min | Pads and pencils | A big crowd |
-| The Mind | 2 to 4 | 15 min | A hand of cards and one cushion | A quiet corner |
+| [Herd Mentality](https://www.amazon.com/dp/B093HBBMPT?tag=cubecommonw0a-20) | 4 to 20 | 20 to 30 min | Pads and pencils | A big crowd |
+| [The Mind](https://www.amazon.com/dp/B07C4F3KLF?tag=cubecommonw0a-20) | 2 to 4 | 15 min | A hand of cards and one cushion | A quiet corner |
 
 ### Just One
 
-Just One <!-- AFFILIATE --> is a cooperative word game. One player is the guesser. Everyone else secretly writes a one-word clue for the mystery word on a small easel. Before the guesser looks, the clue-givers compare, and any identical clues are thrown out. It rewards picking a clue that is good but not too obvious. Everything fits on your lap.
+Just One is a cooperative word game. One player is the guesser. Everyone else secretly writes a one-word clue for the mystery word on a small easel. Before the guesser looks, the clue-givers compare, and any identical clues are thrown out. It rewards picking a clue that is good but not too obvious. Everything fits on your lap.
 
 ### Telestrations
 
-Telestrations <!-- AFFILIATE --> is telephone with pictures. Each player gets a small dry-erase sketchbook and a secret word. Draw your word, pass the book, guess the next drawing, pass again, and keep going. At the end, flip through each book and see how "pumpkin pie" turned into "a sad moon." No table needed, and no drawing skill needed either.
+Telestrations is telephone with pictures. Each player gets a small dry-erase sketchbook and a secret word. Draw your word, pass the book, guess the next drawing, pass again, and keep going. At the end, flip through each book and see how "pumpkin pie" turned into "a sad moon." No table needed, and no drawing skill needed either.
 
 ### Wavelength
 
-Wavelength <!-- AFFILIATE --> is a team game about reading minds. One player sees a hidden target on a dial between two ideas, such as "cold to hot" or "useless to useful." They give one clue. Their team talks it out and turns the dial to where they think the target is. Points go to how close they land. The device passes hand to hand, so it plays fine from a sofa.
+Wavelength is a team game about reading minds. One player sees a hidden target on a dial between two ideas, such as "cold to hot" or "useless to useful." They give one clue. Their team talks it out and turns the dial to where they think the target is. Points go to how close they land. The device passes hand to hand, so it plays fine from a sofa.
 
 ### Herd Mentality
 
-Herd Mentality <!-- AFFILIATE --> asks a question, such as "What is the best pie?" Everyone writes an answer. If you match the most common answer, you earn a cow. The goal is to think like the group, not to be clever. It seats up to twenty, so it handles a full house.
+Herd Mentality asks a question, such as "What is the best pie?" Everyone writes an answer. If you match the most common answer, you earn a cow. The goal is to think like the group, not to be clever. It seats up to twenty, so it handles a full house.
 
 ### The Mind
 
-The Mind <!-- AFFILIATE --> is a quiet cooperative card game. Players hold numbered cards and try to play them onto a single pile in rising order without talking. A sofa cushion works as the pile. It is the right pick for the two or three people who would rather sit in a calm corner.
+The Mind is a quiet cooperative card game. Players hold numbered cards and try to play them onto a single pile in rising order without talking. A sofa cushion works as the pile. It is the right pick for the two or three people who would rather sit in a calm corner.
 
 *If this is useful, the newsletter sends more like it.*
 

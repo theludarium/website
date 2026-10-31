@@ -70,7 +70,7 @@ Everything in this table fits in a quart bag. None of it is optional by day thre
 
 Overpacking is as common as underpacking. Leave these:
 
-- **Your full game collection.** Gen Con has a large open-gaming library. Bring one small game you love to teach and nothing heavier. Something like The Crew <!-- AFFILIATE --> or Wavelength <!-- AFFILIATE --> fits in a bag pocket and plays with strangers.
+- **Your full game collection.** Gen Con has a large open-gaming library. Bring one small game you love to teach and nothing heavier. Something like The Crew or [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) fits in a bag pocket and plays with strangers.
 - **A laptop.** You will not use it, and it is a theft risk.
 - **Costume pieces you have not worn for eight hours.** Cosplay is welcome, but test the shoes and the weight first.
 - **A separate camera.** Your phone is enough.

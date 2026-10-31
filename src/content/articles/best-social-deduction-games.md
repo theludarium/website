@@ -6,9 +6,9 @@ category: Game Guides
 tags: ["social deduction board game", "social deduction games", "best social deduction games", "hidden role games", "party board games", "games for big groups"]
 draft: false
 ---
-The best social deduction board game for most groups is The Resistance: Avalon. It plays 5 to 10 people in about half an hour, nobody gets eliminated, and the rules fit on a napkin. But the right pick depends on how many friends you have in the room and how much lying they can handle. A table of four needs a different game than a party of twenty.
+The best social deduction board game for most groups is [The Resistance: Avalon](https://www.amazon.com/dp/B009SAAV0C?tag=cubecommonw0a-20). It plays 5 to 10 people in about half an hour, nobody gets eliminated, and the rules fit on a napkin. But the right pick depends on how many friends you have in the room and how much lying they can handle. A table of four needs a different game than a party of twenty.
 
-**The quick answer:** for 5 to 10 players, start with Avalon. For a short, low-pressure first taste, play One Night Ultimate Werewolf. For 3 or 4 players, try The Chameleon or Coup. For a big, dedicated group that wants a whole evening, nothing beats Blood on the Clocktower. For a crowd of 15 or more, play Two Rooms and a Boom.
+**The quick answer:** for 5 to 10 players, start with Avalon. For a short, low-pressure first taste, play [One Night Ultimate Werewolf](https://www.amazon.com/dp/B00HS7GG5G?tag=cubecommonw0a-20). For 3 or 4 players, try [The Chameleon](https://www.amazon.com/dp/B07MV4NN5Z?tag=cubecommonw0a-20) or [Coup](https://www.amazon.com/dp/B00GDI4HX4?tag=cubecommonw0a-20). For a big, dedicated group that wants a whole evening, nothing beats [Blood on the Clocktower](https://www.amazon.com/dp/B0BRSTMP2V?tag=cubecommonw0a-20). For a crowd of 15 or more, play Two Rooms and a Boom.
 
 Below are twelve games, ranked, with verified player counts and play times, a quick pick by group size, and how to run one so the quiet people have as much fun as the loud ones. If you want to know *why* these games turn a polite room into a roaring one, we covered the design and psychology in [why social deduction games work](/articles/why-social-deduction-games-work/).
 
@@ -27,13 +27,13 @@ Every social deduction game has the same bones: some players hold a secret, and 
 | 1 | The Resistance: Avalon | 5 to 10 | 30 min | Hidden teams, missions |
 | 2 | Blood on the Clocktower | 5 to 20, plus a Storyteller | 30 to 120 min | Hidden roles, elimination with ghost votes |
 | 3 | One Night Ultimate Werewolf | 3 to 10 | 10 min | One round, hidden roles |
-| 4 | Werewords | 4 to 10 | 10 min | Word guessing, hidden roles |
-| 5 | Deception: Murder in Hong Kong | 4 to 12 | 20 min | Murder mystery, clue giving |
-| 6 | Secret Hitler | 5 to 10 | 45 min | Hidden teams, voting on laws |
+| 4 | [Werewords](https://www.amazon.com/dp/B06XWTTD2Y?tag=cubecommonw0a-20) | 4 to 10 | 10 min | Word guessing, hidden roles |
+| 5 | [Deception: Murder in Hong Kong](https://www.amazon.com/dp/B019FPQZNG?tag=cubecommonw0a-20) | 4 to 12 | 20 min | Murder mystery, clue giving |
+| 6 | [Secret Hitler](https://www.amazon.com/dp/B01JKD4HYC?tag=cubecommonw0a-20) | 5 to 10 | 45 min | Hidden teams, voting on laws |
 | 7 | The Chameleon | 3 to 8 | 15 min | Word clues, one bluffer |
 | 8 | Coup | 2 to 6 | 15 min | Bluffing, elimination |
-| 9 | Insider | 4 to 8 | 15 min | 20 Questions with a hidden helper |
-| 10 | Spyfall | 3 to 8 | 15 min | Question and answer, one spy |
+| 9 | [Insider](https://www.amazon.com/dp/B01M5FYKL4?tag=cubecommonw0a-20) | 4 to 8 | 15 min | 20 Questions with a hidden helper |
+| 10 | [Spyfall](https://www.amazon.com/dp/B00Y4TYRT8?tag=cubecommonw0a-20) | 3 to 8 | 15 min | Question and answer, one spy |
 | 11 | Two Rooms and a Boom | 6 to 30 | 15 min | Two rooms, hostage trades |
 | 12 | Werewolf or Mafia | 7 or more | 30 to 60 min | Free, classic elimination |
 
@@ -43,51 +43,51 @@ Times are the published box times. Your first game will run longer while people 
 
 ### 1. The Resistance: Avalon
 
-Avalon <!-- AFFILIATE --> is the one we would hand to almost any group. Players are secretly loyal knights or minions of Mordred. Each round, a leader picks a team for a quest, everyone votes on the team, and the team secretly plays success or fail cards. One fail card can sink a quest. The good side wins three quests; the evil side wins three failures.
+Avalon is the one we would hand to almost any group. Players are secretly loyal knights or minions of Mordred. Each round, a leader picks a team for a quest, everyone votes on the team, and the team secretly plays success or fail cards. One fail card can sink a quest. The good side wins three quests; the evil side wins three failures.
 
 The twist is Merlin, a good player who knows who the evil players are but has to hide it. If evil guesses Merlin at the end, evil wins anyway. That one rule keeps the best-informed player careful and the whole table guessing. Nobody is eliminated, so everyone plays to the last vote. Best at 7 to 10.
 
 ### 2. Blood on the Clocktower
 
-Blood on the Clocktower <!-- AFFILIATE --> is the deep end of the genre. One person runs the game as Storyteller, and 5 to 20 players get unique characters with their own night abilities. A demon is killing the town, and the good players must execute it. Players can be killed, but dead players keep talking and keep one last vote, so nobody is truly out.
+Blood on the Clocktower is the deep end of the genre. One person runs the game as Storyteller, and 5 to 20 players get unique characters with their own night abilities. A demon is killing the town, and the good players must execute it. Players can be killed, but dead players keep talking and keep one last vote, so nobody is truly out.
 
 It needs a confident Storyteller and a group that wants a full evening. For the right group, it is the best game on this list. For a casual party, start lower.
 
 ### 3. One Night Ultimate Werewolf
 
-One Night Ultimate Werewolf <!-- AFFILIATE --> squeezes Werewolf into a single night and a single vote. An app narrates the night, roles swap in secret, and then the table has a few minutes to argue before everyone points at once. Games last about ten minutes, so a bad bluff costs you almost nothing. This is the best first social deduction game for a group of mixed experience.
+One Night Ultimate Werewolf squeezes Werewolf into a single night and a single vote. An app narrates the night, roles swap in secret, and then the table has a few minutes to argue before everyone points at once. Games last about ten minutes, so a bad bluff costs you almost nothing. This is the best first social deduction game for a group of mixed experience.
 
 ### 4. Werewords
 
-Werewords <!-- AFFILIATE --> is 20 Questions with a werewolf in the room. The Mayor knows a secret word and answers questions with yes, no, and maybe tokens. A hidden Seer also knows it and tries to steer the group, and a hidden werewolf knows it and tries to steer them wrong. If the village guesses the word, the werewolf gets one shot at naming the Seer. Great for groups who like word games more than accusations.
+Werewords is 20 Questions with a werewolf in the room. The Mayor knows a secret word and answers questions with yes, no, and maybe tokens. A hidden Seer also knows it and tries to steer the group, and a hidden werewolf knows it and tries to steer them wrong. If the village guesses the word, the werewolf gets one shot at naming the Seer. Great for groups who like word games more than accusations.
 
 ### 5. Deception: Murder in Hong Kong
 
-Deception <!-- AFFILIATE --> is the best murder mystery in the genre. One player is a Forensic Scientist who knows the truth but can only hint at it by marking clue tiles like "cause of death" or "location." One investigator is secretly the murderer and steers the others away from their own means and key evidence. It plays up to 12, which makes it a strong pick for a [murder mystery party](/articles/murder-mystery-party-ideas/) too.
+Deception is the best murder mystery in the genre. One player is a Forensic Scientist who knows the truth but can only hint at it by marking clue tiles like "cause of death" or "location." One investigator is secretly the murderer and steers the others away from their own means and key evidence. It plays up to 12, which makes it a strong pick for a [murder mystery party](/articles/murder-mystery-party-ideas/) too.
 
 ### 6. Secret Hitler
 
-Secret Hitler <!-- AFFILIATE --> takes Avalon's structure and adds a government. Players elect a president and chancellor, who pass laws from a stacked deck. Liberals want liberal policies; fascists want fascist ones, and they win immediately if the hidden Hitler becomes chancellor late in the game. The policy deck creates wonderful "I had no choice, I swear" moments. The theme is a dealbreaker for some groups, so ask before you bring it. Avalon covers similar ground.
+Secret Hitler takes Avalon's structure and adds a government. Players elect a president and chancellor, who pass laws from a stacked deck. Liberals want liberal policies; fascists want fascist ones, and they win immediately if the hidden Hitler becomes chancellor late in the game. The policy deck creates wonderful "I had no choice, I swear" moments. The theme is a dealbreaker for some groups, so ask before you bring it. Avalon covers similar ground.
 
 ### 7. The Chameleon
 
-The Chameleon <!-- AFFILIATE --> is the best small-group pick. Everyone sees a grid of 16 words and a secret target word, except the Chameleon. Each player says one word related to the target. Say something too obvious and the Chameleon catches on; too vague and you look like the Chameleon. Rounds take minutes, and it works with as few as 3.
+The Chameleon is the best small-group pick. Everyone sees a grid of 16 words and a secret target word, except the Chameleon. Each player says one word related to the target. Say something too obvious and the Chameleon catches on; too vague and you look like the Chameleon. Rounds take minutes, and it works with as few as 3.
 
 ### 8. Coup
 
-Coup <!-- AFFILIATE --> is a fast bluffing game in a tiny box. You hold two hidden character cards, and you can claim to be any character to take its action. Anyone can challenge you. Lose a challenge and you lose a card. It works with 2 to 6 players and plays in about 15 minutes, though eliminated players sit out until the next round starts, which is short.
+Coup is a fast bluffing game in a tiny box. You hold two hidden character cards, and you can claim to be any character to take its action. Anyone can challenge you. Lose a challenge and you lose a card. It works with 2 to 6 players and plays in about 15 minutes, though eliminated players sit out until the next round starts, which is short.
 
 ### 9. Insider
 
-Insider <!-- AFFILIATE --> is a cooperative word hunt with a traitor. A Master answers yes or no questions while the group races the timer to find a secret word. One player, the Insider, secretly knows the word and nudges everyone toward it. Find the word, then find the Insider. It is gentle, quick, and a nice bridge for groups that dislike outright lying.
+Insider is a cooperative word hunt with a traitor. A Master answers yes or no questions while the group races the timer to find a secret word. One player, the Insider, secretly knows the word and nudges everyone toward it. Find the word, then find the Insider. It is gentle, quick, and a nice bridge for groups that dislike outright lying.
 
 ### 10. Spyfall
 
-Spyfall <!-- AFFILIATE --> deals everyone a card showing the same location, except the spy, whose card is blank. Players take turns asking each other questions. Answer too precisely and you give the location away to the spy; too vaguely and you look like the spy. The spy wins by naming the location. It plays 3 to 8 and is best with a group that enjoys quick, silly questioning.
+Spyfall deals everyone a card showing the same location, except the spy, whose card is blank. Players take turns asking each other questions. Answer too precisely and you give the location away to the spy; too vaguely and you look like the spy. The spy wins by naming the location. It plays 3 to 8 and is best with a group that enjoys quick, silly questioning.
 
 ### 11. Two Rooms and a Boom
 
-Two Rooms and a Boom <!-- AFFILIATE --> is the crowd pleaser for 6 to 30 people. Players split into two rooms. The Blue team protects the President; the Red team wants the Bomber in the same room as the President when time runs out. Between short timed rounds, the rooms trade hostages. It needs two spaces and a timer, and it turns a big party into a story everyone retells. See our guide to [party games for large groups](/articles/party-games-for-large-groups/) for more crowd picks.
+Two Rooms and a Boom is the crowd pleaser for 6 to 30 people. Players split into two rooms. The Blue team protects the President; the Red team wants the Bomber in the same room as the President when time runs out. Between short timed rounds, the rooms trade hostages. It needs two spaces and a timer, and it turns a big party into a story everyone retells. See our guide to [party games for large groups](/articles/party-games-for-large-groups/) for more crowd picks.
 
 ### 12. Werewolf or Mafia
 

@@ -35,7 +35,7 @@ Do this every time. Make the shrug and the reset the normal response to losing, 
 
 ### 2. Play short games, many times
 
-A forty-minute game that ends in a loss is one big loss. Four ten-minute games are four small results, and the losing child is usually holding cards for the next game before the sting of the last one has set in. Sushi Go, Dragomino, Rhino Hero, and Sleeping Queens are all good for this.
+A forty-minute game that ends in a loss is one big loss. Four ten-minute games are four small results, and the losing child is usually holding cards for the next game before the sting of the last one has set in. Sushi Go, [Dragomino](https://link.amazon/B09WKyU19), [Rhino Hero](https://www.amazon.com/dp/B01M8LF7IA?tag=cubecommonw0a-20), and [Sleeping Queens](https://www.amazon.com/dp/B0009XBY3A?tag=cubecommonw0a-20) are all good for this.
 
 Luck helps too. In a game with a healthy dose of randomness, a child beats a parent often enough that losing does not feel like a verdict.
 
@@ -70,7 +70,7 @@ Hold the winner to the same script as the loser. "Good game" goes both direction
 
 A simple house rule helps: the winner resets the game or puts it away. It gives them something to do with the energy and signals that winning comes with a small job, not a parade.
 
-And watch your own winning. If you cannot resist a little crow when you finally beat your kid at Catan, they are learning from that too.
+And watch your own winning. If you cannot resist a little crow when you finally beat your kid at [Catan](https://link.amazon/B0h8BDGR2), they are learning from that too.
 
 ## Which games make losing easier?
 
@@ -78,10 +78,10 @@ The right games do a lot of the work for you.
 
 | Situation | Try | Why |
 |---|---|---|
-| Child melts down at any loss | Outfoxed!, Forbidden Island, The Crew | Cooperative. Everyone wins or loses together, so the first losses are shared. |
-| Child needs a lot of practice losing | Sushi Go!, Dragomino, Zingo! | Ten to fifteen minutes. Four results an evening. |
-| Child only loses to adults | Rhino Hero, Animal Upon Animal, Monza | Enough luck and dexterity that the child wins a fair share without help. |
-| Child is fine losing, bad at winning | Kingdomino, Ticket to Ride | Scores are close and hidden until the end, which keeps the gloating down. |
+| Child melts down at any loss | [Outfoxed!](https://link.amazon/B0hYNduxd), [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20), The Crew | Cooperative. Everyone wins or loses together, so the first losses are shared. |
+| Child needs a lot of practice losing | [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), Dragomino, [Zingo!](https://www.amazon.com/dp/B01DY818JG?tag=cubecommonw0a-20) | Ten to fifteen minutes. Four results an evening. |
+| Child only loses to adults | Rhino Hero, [Animal Upon Animal](https://www.amazon.com/dp/B073CD98D6?tag=cubecommonw0a-20), [Monza](https://www.amazon.com/dp/B0002HYHT6?tag=cubecommonw0a-20) | Enough luck and dexterity that the child wins a fair share without help. |
+| Child is fine losing, bad at winning | [Kingdomino](https://link.amazon/B08l49zvA), [Ticket to Ride](https://link.amazon/B0jh8RB7f) | Scores are close and hidden until the end, which keeps the gloating down. |
 | Siblings who fight | Any co-op, played as a team against the parents | Puts them on the same side. More on this in [cooperative games for siblings](/articles/cooperative-games-for-kids/). |
 
 Avoid games with player elimination and games where one player can target another directly. Being knocked out, or being picked on, is far harder to take than simply scoring fewer points.

@@ -6,7 +6,7 @@ category: Togethering
 tags: ["benefits of playing board games with friends", "game night memories", "shared experiences and friendship", "why board games bring people together", "social benefits of board games", "nostalgia and friendship", "Social benefits of playing in person"]
 draft: false
 ---
-Ask anyone about the benefits of playing board games with friends and they will mention laughing, relaxing, maybe a sharper mind. All true. But the biggest return is one most people do not notice until years later: the stories. Every group that plays together for long enough builds up a shared stock of moments it retells for decades. The time Dan traded away the win in Catan. The Pandemic game lost on the last card. The Codenames clue that still gets quoted at weddings.
+Ask anyone about the benefits of playing board games with friends and they will mention laughing, relaxing, maybe a sharper mind. All true. But the biggest return is one most people do not notice until years later: the stories. Every group that plays together for long enough builds up a shared stock of moments it retells for decades. The time Dan traded away the win in [Catan](https://link.amazon/B0h8BDGR2). The [Pandemic](https://link.amazon/B0eHP5GCg) game lost on the last card. The [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) clue that still gets quoted at weddings.
 
 Call it the memory dividend. You pay in Thursday nights. It pays out in the stories that hold a group of people together long after the games are back on the shelf.
 
@@ -14,9 +14,9 @@ Call it the memory dividend. You pay in Thursday nights. It pays out in the stor
 
 Most of an adult week is forgettable by design. Meetings blend. Dinners blend. Even vacations compress into a few images. A game night, done right, produces moments that resist that compression, and there are a few reasons why.
 
-**Something is at stake, and then it resolves.** [Memory researchers](https://www.psychologicalscience.org/observer/significance-and-remembrance-revisited) have long noted that emotionally arousing events are encoded more durably than neutral ones, because the stress hormones released in the moment strengthen consolidation. A close game of Ticket to Ride has rising tension and a definite ending. That shape is almost designed for recall.
+**Something is at stake, and then it resolves.** [Memory researchers](https://www.psychologicalscience.org/observer/significance-and-remembrance-revisited) have long noted that emotionally arousing events are encoded more durably than neutral ones, because the stress hormones released in the moment strengthen consolidation. A close game of [Ticket to Ride](https://link.amazon/B0jh8RB7f) has rising tension and a definite ending. That shape is almost designed for recall.
 
-**It is surprising.** The moments groups retell are rarely the expected wins. They are the upsets, the blunders, the lucky rolls. In Wavelength, the clue that somehow lands dead center. In Azul, the tile pull that hands someone the game by accident. Surprise is one of the strongest known triggers of long-term memory, and games are machines for producing it.
+**It is surprising.** The moments groups retell are rarely the expected wins. They are the upsets, the blunders, the lucky rolls. In [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20), the clue that somehow lands dead center. In [Azul](https://link.amazon/B0bGRYHex), the tile pull that hands someone the game by accident. Surprise is one of the strongest known triggers of long-term memory, and games are machines for producing it.
 
 **Everyone saw the same thing.** A story only becomes a group story if several people witnessed it. At a game table, six people watched the same turn from the same distance. That shared vantage point is rare in adult life, where most experiences are either private or mediated through a screen.
 
@@ -39,11 +39,11 @@ Not all games are equal here. Some produce a satisfying session and nothing memo
 
 | Story engine | What it looks like | Games that have it |
 |---|---|---|
-| Betrayal and negotiation | Someone made a deal and broke it | Catan, Diplomacy, Cosmic Encounter |
-| Shared failure | Everyone lost together on the last turn | Pandemic, The Crew, Forbidden Island |
-| Public blunder | One move everyone watched go wrong | Ticket to Ride, Azul, Wingspan |
-| Mind reading | A clue that should not have worked, did | Codenames, Wavelength, Just One |
-| Long campaign | A character or saga that spanned months | Gloomhaven, D&D, Pandemic Legacy |
+| Betrayal and negotiation | Someone made a deal and broke it | Catan, [Diplomacy](https://www.amazon.com/dp/B08TPDFW51?tag=cubecommonw0a-20), [Cosmic Encounter](https://www.amazon.com/dp/1589944968?tag=cubecommonw0a-20) |
+| Shared failure | Everyone lost together on the last turn | Pandemic, [The Crew](https://link.amazon/B099S9RKf), [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20) |
+| Public blunder | One move everyone watched go wrong | Ticket to Ride, Azul, [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) |
+| Mind reading | A clue that should not have worked, did | Codenames, Wavelength, [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20) |
+| Long campaign | A character or saga that spanned months | [Gloomhaven](https://www.amazon.com/dp/B01LZXVN4P?tag=cubecommonw0a-20), D&D, [Pandemic Legacy](https://www.amazon.com/dp/B00TQ5SEAI?tag=cubecommonw0a-20) |
 
 Notice that the pure optimization games, the quiet heads-down puzzles, show up less. They are good games. They just produce fewer moments that six people witness together. A table that plays only solitaire-style games may be having a good time and building few stories.
 
@@ -60,7 +60,7 @@ You cannot manufacture the moment. But you can set the table so moments are more
 3. **Let the game end badly sometimes.** Resist the urge to take back moves or soften a brutal outcome. The betrayal that stings is the one that gets retold. A good loser knows this and [handles the sting without taking it out on the table](/articles/how-to-be-a-good-loser/).
 4. **Name the moments.** Groups that give their stories titles keep them longer. "The Night of Three Epidemics." "The Orange Route Incident." It sounds silly. It works.
 5. **Keep a log.** A notebook on the shelf where someone writes two lines after each session. Date, game, winner, one thing that happened. Five years in, it is the most valuable object in the house.
-6. **Mix in long games occasionally.** A standing night of short games is the foundation. But a once-a-quarter Saturday with Gloomhaven or a full day of Twilight Imperium produces a different grade of story. Length makes legends.
+6. **Mix in long games occasionally.** A standing night of short games is the foundation. But a once-a-quarter Saturday with Gloomhaven or a full day of [Twilight Imperium](https://www.amazon.com/dp/B074YPSTRP?tag=cubecommonw0a-20) produces a different grade of story. Length makes legends.
 
 ## The dividend compounds
 

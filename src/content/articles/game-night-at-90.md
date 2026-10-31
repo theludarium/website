@@ -16,7 +16,7 @@ Picture a composite of the tables we have seen and heard about, not any one pers
 
 It is mid-afternoon, not evening. Energy is better and the drive home is in daylight. There are four people at a kitchen table or a card table in a common room. The overhead light is on and so is a lamp, because the difference between "fine" and "I can't tell the six from the eight" is often just lumens.
 
-The game is one everyone already knows or can learn in two minutes. Rummikub, dominoes, Skip-Bo, cribbage, euchre, Yahtzee. Someone is keeping score on paper in large handwriting. There is a plate of something. Nobody is on a phone.
+The game is one everyone already knows or can learn in two minutes. [Rummikub](https://www.amazon.com/dp/B00000IZJB?tag=cubecommonw0a-20), dominoes, [Skip-Bo](https://www.amazon.com/dp/B00006YYY5?tag=cubecommonw0a-20), cribbage, euchre, [Yahtzee](https://www.amazon.com/dp/B00TLEMRKM?tag=cubecommonw0a-20). Someone is keeping score on paper in large handwriting. There is a plate of something. Nobody is on a phone.
 
 The pace is unhurried. A turn might take a minute. Nobody minds, because the turns are not the point. The talk between turns is the point, and the game gives the talk a place to land. Someone mentions a late husband's habit of hoarding the jokers, and it is said fondly, and then play continues.
 
@@ -28,15 +28,15 @@ The games that last share three properties. They are familiar or very quick to l
 
 | Game | Why it works | Usual adaptation |
 |---|---|---|
-| Rummikub <!-- AFFILIATE --> | Tile-laying, no reading, steady thinking | Large-number edition; tile racks |
-| Dominoes | Everyone knows it; tactile | Jumbo tiles with color-coded dots |
-| Skip-Bo or Uno <!-- AFFILIATE --> | Simple sequencing, lots of turns | Large-print decks; card holders |
-| Cribbage | Deep enough to stay interesting for decades | Large-print cards; oversized board pegs |
+| Rummikub | Tile-laying, no reading, steady thinking | Large-number edition; tile racks |
+| [Dominoes](https://www.amazon.com/dp/B0007OWJ62?tag=cubecommonw0a-20) | Everyone knows it; tactile | Jumbo tiles with color-coded dots |
+| Skip-Bo or [Uno](https://www.amazon.com/dp/B07P6MZPK3?tag=cubecommonw0a-20) | Simple sequencing, lots of turns | Large-print decks; card holders |
+| [Cribbage](https://www.amazon.com/dp/B000I5NW66?tag=cubecommonw0a-20) | Deep enough to stay interesting for decades | Large-print cards; oversized board pegs |
 | Euchre, hearts, bridge | Lifelong card players already carry the rules | Card shufflers; card holders; good light |
-| Yahtzee <!-- AFFILIATE --> | Dice, one sheet, five minutes to teach | Dice cup; large-print scorecards; one person as scribe |
-| Qwirkle <!-- AFFILIATE --> | Shapes and colors, no text at all | Good light; color-blind-friendly edition if available |
+| Yahtzee | Dice, one sheet, five minutes to teach | Dice cup; large-print scorecards; one person as scribe |
+| [Qwirkle](https://www.amazon.com/dp/1933054395?tag=cubecommonw0a-20) | Shapes and colors, no text at all | Good light; color-blind-friendly edition if available |
 | Bingo | Social, low effort, large groups | Large-print cards and chips; a caller who repeats |
-| Codenames: Pictures <!-- AFFILIATE --> | Team talk, laughter, no tiny text | Pass cards around rather than reading across the table |
+| [Codenames: Pictures](https://www.amazon.com/dp/B01HT9DERU?tag=cubecommonw0a-20) | Team talk, laughter, no tiny text | Pass cards around rather than reading across the table |
 
 A few notes. Rummikub is the single most reliable game we know for this age group, because it exercises planning and pattern recognition without any reading, and because a 90-year-old who played it in 1985 still knows it cold. Cribbage is the one for the person who wants to keep thinking hard. Bingo gets dismissed by younger relatives, but a room of twenty people laughing when the same woman wins three times is a social event, and that is its job.
 

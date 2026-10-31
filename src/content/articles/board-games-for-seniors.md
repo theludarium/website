@@ -6,9 +6,9 @@ category: Game Guides
 tags: ["board games for seniors", "board games for older adults", "board games for elderly", "card games for seniors", "best board games for seniors", "large print games"]
 draft: false
 ---
-The best board games for seniors share four traits: big, clear pieces; components that are easy to pick up; a length you can stretch or cut short; and plenty of talk around the table. Some are classics older adults already know, like Rummikub and dominoes. Others are newer games that teach in five minutes and feel fresh. Below are fifteen picks, plus simple ways to adapt any game for vision, dexterity, and memory.
+The best board games for seniors share four traits: big, clear pieces; components that are easy to pick up; a length you can stretch or cut short; and plenty of talk around the table. Some are classics older adults already know, like [Rummikub](https://www.amazon.com/dp/B00000IZJB?tag=cubecommonw0a-20) and dominoes. Others are newer games that teach in five minutes and feel fresh. Below are fifteen picks, plus simple ways to adapt any game for vision, dexterity, and memory.
 
-**The quick answer:** start with Rummikub, Mexican Train dominoes, or Qwirkle for a familiar feel. Add Ticket to Ride or Azul when the group wants something new. Use large-print cards, good light, and a tray or turntable to make almost any game easier.
+**The quick answer:** start with Rummikub, [Mexican Train dominoes](https://www.amazon.com/dp/B010VLT93Q?tag=cubecommonw0a-20), or [Qwirkle](https://www.amazon.com/dp/1933054395?tag=cubecommonw0a-20) for a familiar feel. Add [Ticket to Ride](https://link.amazon/B0jh8RB7f) or [Azul](https://link.amazon/B0bGRYHex) when the group wants something new. Use large-print cards, good light, and a tray or turntable to make almost any game easier.
 
 ## What makes a good board game for older adults?
 
@@ -29,63 +29,63 @@ Fifteen picks, from the classics to newer favorites. Player counts are from the 
 
 ### 1. Rummikub
 
-2 to 4 players. <!-- AFFILIATE --> A tile version of rummy: make runs and sets, then rearrange the table to play your last tiles. The tiles stand in racks, so nobody has to hold a hand of cards. A Large Numbers edition makes the tiles even easier to read. One of the most loved games for older adults, and for good reason.
+2 to 4 players. A tile version of rummy: make runs and sets, then rearrange the table to play your last tiles. The tiles stand in racks, so nobody has to hold a hand of cards. A Large Numbers edition makes the tiles even easier to read. One of the most loved games for older adults, and for good reason.
 
 ### 2. Mexican Train dominoes
 
-Usually 2 to 8 players. <!-- AFFILIATE --> Each player builds their own train of dominoes from a central hub, and anyone can add to the shared "Mexican train." Dominoes are heavy and easy to grip, and the rules feel familiar. Sets with large, colored pips are easy to read.
+Usually 2 to 8 players. Each player builds their own train of dominoes from a central hub, and anyone can add to the shared "Mexican train." Dominoes are heavy and easy to grip, and the rules feel familiar. Sets with large, colored pips are easy to read.
 
 ### 3. Qwirkle
 
-2 to 4 players. <!-- AFFILIATE --> Chunky wooden blocks with colored shapes. Match lines by color or by shape, a bit like Scrabble with symbols instead of letters. Designed by Susan McKinley Ross, it won the Spiel des Jahres in 2011. No reading needed, and the blocks are easy to pick up.
+2 to 4 players. Chunky wooden blocks with colored shapes. Match lines by color or by shape, a bit like [Scrabble](https://www.amazon.com/dp/B00IFWSO94?tag=cubecommonw0a-20) with symbols instead of letters. Designed by Susan McKinley Ross, it won the Spiel des Jahres in 2011. No reading needed, and the blocks are easy to pick up.
 
 ### 4. Scrabble
 
-2 to 4 players. <!-- AFFILIATE --> A classic most people already know. Deluxe editions with a raised grid and a turning board keep tiles in place and let everyone read the board from their seat. Play without a timer and allow a dictionary.
+2 to 4 players. A classic most people already know. Deluxe editions with a raised grid and a turning board keep tiles in place and let everyone read the board from their seat. Play without a timer and allow a dictionary.
 
 ### 5. Large-print playing cards
 
-Any number of players. <!-- AFFILIATE --> A deck with oversized numbers opens up every card game a group already knows: rummy, gin, canasta, hearts, euchre, bridge. Add a simple card holder for anyone who finds a fanned hand hard to grip.
+Any number of players. A deck with oversized numbers opens up every card game a group already knows: rummy, gin, canasta, hearts, euchre, bridge. Add a simple card holder for anyone who finds a fanned hand hard to grip.
 
 ### 6. Cribbage
 
-2 to 4 players, best with 2. <!-- AFFILIATE --> A card game scored on a pegboard. It rewards quick mental math and has a devoted following among older players. Look for a large board with bigger pegs.
+2 to 4 players, best with 2. A card game scored on a pegboard. It rewards quick mental math and has a devoted following among older players. Look for a large board with bigger pegs.
 
 ### 7. Yahtzee
 
-2 or more players. <!-- AFFILIATE --> Roll five dice, chase combinations, fill in a score sheet. Big dice and a rolling tray help, and someone else can keep score if handwriting is hard.
+2 or more players. Roll five dice, chase combinations, fill in a score sheet. Big dice and a rolling tray help, and someone else can keep score if handwriting is hard.
 
 ### 8. Sequence
 
-2 to 12 players. <!-- AFFILIATE --> Play a card, place a chip on the matching board space, and try to make five in a row. Works as a team game, so partners can help each other, and the board is large and clear.
+2 to 12 players. Play a card, place a chip on the matching board space, and try to make five in a row. Works as a team game, so partners can help each other, and the board is large and clear.
 
 ### 9. Mahjong
 
-4 players. <!-- AFFILIATE --> Heavy tiles, a social rhythm, and a long tradition. American mahjong in particular has a big following among older adults, with clubs and lessons in many towns. A good choice for a standing weekly group.
+4 players. Heavy tiles, a social rhythm, and a long tradition. American mahjong in particular has a big following among older adults, with clubs and lessons in many towns. A good choice for a standing weekly group.
 
 ### 10. Ticket to Ride
 
-2 to 5 players. <!-- AFFILIATE --> Designed by Alan R. Moon and published by Days of Wonder, winner of the Spiel des Jahres in 2004. Collect colored train cards and claim routes across a map. The rules fit on a page, and the map makes for easy conversation. The colors can be a challenge for some players, so seat people close to the board. Our [Ticket to Ride lesson](/academy/ticket-to-ride/how-to-play-ticket-to-ride/) teaches it from scratch.
+2 to 5 players. Designed by Alan R. Moon and published by Days of Wonder, winner of the Spiel des Jahres in 2004. Collect colored train cards and claim routes across a map. The rules fit on a page, and the map makes for easy conversation. The colors can be a challenge for some players, so seat people close to the board. Our [Ticket to Ride lesson](/academy/ticket-to-ride/how-to-play-ticket-to-ride/) teaches it from scratch.
 
 ### 11. Azul
 
-2 to 4 players. <!-- AFFILIATE --> Designed by Michael Kiesling, winner of the Spiel des Jahres in 2018. Players draft thick, glossy tiles to build a wall pattern. It is beautiful, quiet, and tactile, and turns are quick. Learn it with our [Azul lesson](/academy/azul/how-to-play-azul/).
+2 to 4 players. Designed by Michael Kiesling, winner of the Spiel des Jahres in 2018. Players draft thick, glossy tiles to build a wall pattern. It is beautiful, quiet, and tactile, and turns are quick. Learn it with our [Azul lesson](/academy/azul/how-to-play-azul/).
 
 ### 12. Carcassonne
 
-2 to 5 players. <!-- AFFILIATE --> Designed by Klaus-Jürgen Wrede, winner of the Spiel des Jahres in 2001. Draw a tile, add it to the growing landscape, place a little figure to claim a road or city. Large, sturdy tiles and a relaxed pace. See our [Carcassonne lesson](/academy/carcassonne/how-to-play-carcassonne/).
+2 to 5 players. Designed by Klaus-Jürgen Wrede, winner of the Spiel des Jahres in 2001. Draw a tile, add it to the growing landscape, place a little figure to claim a road or city. Large, sturdy tiles and a relaxed pace. See our [Carcassonne lesson](/academy/carcassonne/how-to-play-carcassonne/).
 
 ### 13. Kingdomino
 
-2 to 4 players. <!-- AFFILIATE --> Designed by Bruno Cathala, winner of the Spiel des Jahres in 2017. Build a small kingdom from domino-shaped tiles. It plays in about 15 minutes and works well across generations.
+2 to 4 players. Designed by Bruno Cathala, winner of the Spiel des Jahres in 2017. Build a small kingdom from domino-shaped tiles. It plays in about 15 minutes and works well across generations.
 
 ### 14. Codenames
 
-2 to 8 or more players, in two teams. <!-- AFFILIATE --> Designed by Vlaada Chvátil, winner of the Spiel des Jahres in 2016. One clue-giver per team links words on a grid with a single-word hint. Codenames XXL uses cards roughly twice the normal size, which helps a lot around a big table.
+2 to 8 or more players, in two teams. Designed by Vlaada Chvátil, winner of the Spiel des Jahres in 2016. One clue-giver per team links words on a grid with a single-word hint. [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) XXL uses cards roughly twice the normal size, which helps a lot around a big table.
 
 ### 15. Just One
 
-3 to 7 players. <!-- AFFILIATE --> A cooperative word game and the 2019 Spiel des Jahres winner. Everyone writes a one-word clue to help one player guess a secret word, but matching clues cancel out. Nobody loses alone, and it plays in about 20 minutes.
+3 to 7 players. A cooperative word game and the 2019 Spiel des Jahres winner. Everyone writes a one-word clue to help one player guess a secret word, but matching clues cancel out. Nobody loses alone, and it plays in about 20 minutes.
 
 ## How do you adapt board games for older adults?
 
@@ -128,8 +128,8 @@ Card games are the easiest place to start, because most people already know at l
 
 Games bridge generations better than almost anything. Grandparents bring patience and experience; kids bring energy and fresh eyes. Look for games where young and old can play as equals.
 
-- **Kingdomino and Qwirkle:** simple enough for a 7-year-old, interesting for an adult.
-- **Just One and Codenames:** play in mixed teams so grandparents and grandkids work together.
+- **[Kingdomino](https://link.amazon/B08l49zvA) and Qwirkle:** simple enough for a 7-year-old, interesting for an adult.
+- **[Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20) and Codenames:** play in mixed teams so grandparents and grandkids work together.
 - **Dominoes and card games:** teach a classic you grew up with, and pass it on.
 - **Ticket to Ride:** a long-time family favorite that kids pick up fast.
 

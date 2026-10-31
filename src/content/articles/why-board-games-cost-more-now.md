@@ -61,7 +61,7 @@ A group that [claims lanes](/articles/claim-a-lane/), with each person collectin
 
 Tariffs and shipping costs scale with what is in the box. A game that is mostly cards and a small rulebook has far less plastic and weight than a big box full of miniatures, so its price is less exposed. It is also usually cheaper to begin with: most new games in the US sell for $15 to $60, and the card-driven end of that range is where a lot of the best-value games already sit.
 
-Something like The Crew, Love Letter, Jaipur, or a deck-building game delivers dozens of plays for a fraction of the price of a miniatures-heavy box. None of that is a reason to avoid big games forever. It is a reason to make sure the big games you do buy are the ones your group will play for years.
+Something like [The Crew](https://link.amazon/B099S9RKf), [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20), [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20), or a deck-building game delivers dozens of plays for a fraction of the price of a miniatures-heavy box. None of that is a reason to avoid big games forever. It is a reason to make sure the big games you do buy are the ones your group will play for years.
 
 ### Wait for reprints
 

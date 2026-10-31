@@ -7,15 +7,15 @@ games: [azul, sagrada]
 tags: ["Azul vs Sagrada", "best abstract board game", "Sagrada or Azul", "tile laying games", "dice drafting games", "pretty board games for couples", "Comparisons"]
 draft: false
 ---
-Azul vs Sagrada comes up because the two games sit next to each other in every store, look like they belong in a museum gift shop, and arrived within a year of each other. Both are drafting games. Both end with a colorful pattern in front of you. Both play in under 45 minutes and both get bought as gifts for people who "like pretty things."
+[Azul](https://link.amazon/B0bGRYHex) vs [Sagrada](https://www.amazon.com/dp/B0GL8V2VFD?tag=cubecommonw0a-20) comes up because the two games sit next to each other in every store, look like they belong in a museum gift shop, and arrived within a year of each other. Both are drafting games. Both end with a colorful pattern in front of you. Both play in under 45 minutes and both get bought as gifts for people who "like pretty things."
 
 They are not the same game. Azul is a sharp, interactive puzzle where you can hurt the person next to you. Sagrada is a gentle, personal puzzle where the main opponent is your own earlier decisions. Here is how they differ and which one to buy.
 
 ## How does each game work?
 
-**Azul** <!-- AFFILIATE --> puts a ring of factory displays in the middle of the table, each holding four tiles in five colors. On your turn you pick one color from one factory, take every tile of that color there, and push the rest into the center pool. Then you place the tiles you took into one of five rows on your board; each row holds only one color and a fixed number of tiles. Tiles you cannot fit go to your floor line and cost points. When all tiles are drafted, each full row moves one tile to your wall, scoring points for adjacent tiles. The first player to complete a horizontal row on the wall triggers the end. Publisher specs list 2 to 4 players, ages 8 and up, 30 to 45 minutes ([Next Move Games](https://www.nextmove-games.com/en/azul/azul-game/)).
+**Azul** puts a ring of factory displays in the middle of the table, each holding four tiles in five colors. On your turn you pick one color from one factory, take every tile of that color there, and push the rest into the center pool. Then you place the tiles you took into one of five rows on your board; each row holds only one color and a fixed number of tiles. Tiles you cannot fit go to your floor line and cost points. When all tiles are drafted, each full row moves one tile to your wall, scoring points for adjacent tiles. The first player to complete a horizontal row on the wall triggers the end. Publisher specs list 2 to 4 players, ages 8 and up, 30 to 45 minutes ([Next Move Games](https://www.nextmove-games.com/en/azul/azul-game/)).
 
-**Sagrada** <!-- AFFILIATE --> gives each player a stained-glass window card with a 4-by-5 grid of colored and numbered restrictions. Each round, dice are drawn from a bag and rolled; players take turns drafting one die at a time, in snake order, and placing it in their window. Placement rules are strict: a die must match the color or number printed on its square if there is one, must touch a previously placed die, and may never sit next to a die of the same color or same number. Tool cards let you bend the rules for a price. After ten rounds you score for your private objective (a color), shared public objectives, and lose points for empty squares. Publisher specs list 1 to 4 players, ages 10 and up, 30 to 45 minutes ([Floodgate Games](https://floodgate.games/products/sagrada)).
+**Sagrada** gives each player a stained-glass window card with a 4-by-5 grid of colored and numbered restrictions. Each round, dice are drawn from a bag and rolled; players take turns drafting one die at a time, in snake order, and placing it in their window. Placement rules are strict: a die must match the color or number printed on its square if there is one, must touch a previously placed die, and may never sit next to a die of the same color or same number. Tool cards let you bend the rules for a price. After ten rounds you score for your private objective (a color), shared public objectives, and lose points for empty squares. Publisher specs list 1 to 4 players, ages 10 and up, 30 to 45 minutes ([Floodgate Games](https://floodgate.games/products/sagrada)).
 
 ## Azul vs Sagrada: the side-by-side
 
@@ -104,7 +104,7 @@ Azul. Because you can see every tile available and anticipate what others need, 
 
 ### Do I need the Azul expansions or other Azul versions?
 
-No. The original Azul is complete on its own. Azul: Summer Pavilion and Azul: Stained Glass of Sintra are separate games with the same look and different rules.
+No. The original Azul is complete on its own. [Azul: Summer Pavilion](https://www.amazon.com/dp/B07XPSBCPD?tag=cubecommonw0a-20) and [Azul: Stained Glass of Sintra](https://www.amazon.com/dp/B07KKQ8ZBT?tag=cubecommonw0a-20) are separate games with the same look and different rules.
 
 ## One recommendation a week, no filler
 

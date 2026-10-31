@@ -16,7 +16,7 @@ After-work events exclude people. Parents, commuters, caregivers, and anyone wit
 
 Lunch also sets a natural limit. Sixty minutes, hard stop. That limit shapes which games work, and it is a good thing: short games, quick teaches, and people leaving while they still want more.
 
-A few teams run it as a half-hour. That is tight but workable with games like Sushi Go! or Just One. Forty-five to sixty minutes is the sweet spot.
+A few teams run it as a half-hour. That is tight but workable with games like [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) or [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20). Forty-five to sixty minutes is the sweet spot.
 
 ## What does a workplace game club need to start?
 
@@ -36,16 +36,16 @@ The constraints are strict: teach in under five minutes, play in under forty, su
 
 | Game | Players | Time | Why it works at lunch |
 |---|---|---|---|
-| Codenames | 4 to 8+ | 15 min | Two or three rounds in an hour; absorbs latecomers |
+| [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) | 4 to 8+ | 15 min | Two or three rounds in an hour; absorbs latecomers |
 | Just One | 3 to 7 | 20 min | Cooperative, zero pressure, fits a shy crowd |
 | Sushi Go! | 2 to 5 | 15 min | Teaches in one sentence, plays while eating |
-| Azul | 2 to 4 | 35 min | A real game that still ends on time |
-| The Crew | 2 to 5 | 20 min | Short missions; stop after any one |
-| Wavelength | 4 to 12 | 30 min | Scales up when the room gets crowded |
-| Cascadia | 1 to 4 | 40 min | Quiet and thoughtful for a calmer day |
-| Skull | 3 to 6 | 15 min | Bluffing in a tiny box; a reliable hit |
+| [Azul](https://link.amazon/B0bGRYHex) | 2 to 4 | 35 min | A real game that still ends on time |
+| [The Crew](https://link.amazon/B099S9RKf) | 2 to 5 | 20 min | Short missions; stop after any one |
+| [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) | 4 to 12 | 30 min | Scales up when the room gets crowded |
+| [Cascadia](https://link.amazon/B0g1HYFt4) | 1 to 4 | 40 min | Quiet and thoughtful for a calmer day |
+| [Skull](https://www.amazon.com/dp/B08R2BPLSN?tag=cubecommonw0a-20) | 3 to 6 | 15 min | Bluffing in a tiny box; a reliable hit |
 
-Avoid games over forty-five minutes, games with long setups, and anything that needs a dedicated teacher who knows a sixty-page rulebook. Save Gloomhaven for the weekend. For a broader list with more context, see [team-building board games that don't feel like team building](/articles/team-building-board-games/).
+Avoid games over forty-five minutes, games with long setups, and anything that needs a dedicated teacher who knows a sixty-page rulebook. Save [Gloomhaven](https://www.amazon.com/dp/B01LZXVN4P?tag=cubecommonw0a-20) for the weekend. For a broader list with more context, see [team-building board games that don't feel like team building](/articles/team-building-board-games/).
 
 Keep food in mind too. Card games and greasy sandwiches are enemies. Sleeve cards or steer the room toward games with chunky tiles on sandwich days.
 

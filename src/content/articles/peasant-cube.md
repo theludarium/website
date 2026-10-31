@@ -15,7 +15,7 @@ This is a construction guide for the format: what uncommons do to a commons pool
 Four things, roughly in order of impact:
 
 1. **Real signposts.** Common gold cards are thin. Uncommon gold is where sets put their archetype flagships: Kitchen Finks, Fire // Ice, Mortify, Izzet Charm, Winding Constrictor. A peasant cube's gold section can have three or four clear signposts per pair, which makes the cube far easier to draft on sight.
-2. **Premium removal.** Swords to Plowshares, <!-- AFFILIATE --> Lightning Bolt (also common), Go for the Throat, Ravenous Chupacabra, Flametongue Kavu, Control Magic, Fire Covenant. The [Draftsim peasant cube overview](https://draftsim.com/mtg-peasant-cube/) lists most of these as the format's staples.
+2. **Premium removal.** Swords to Plowshares, Lightning Bolt (also common), Go for the Throat, Ravenous Chupacabra, Flametongue Kavu, Control Magic, Fire Covenant. The [Draftsim peasant cube overview](https://draftsim.com/mtg-peasant-cube/) lists most of these as the format's staples.
 3. **Build-arounds with teeth.** Animate Dead, Reanimate, Dance of the Dead, Skullclamp, Loxodon Warhammer, Eternal Witness, Mother of Runes. In pauper these decks are approximations; in peasant they are the real thing.
 4. **A few planeswalkers.** The War of the Spark uncommon walkers (Saheeli, Kasmina, Davriel, Jaya, the Wanderer) are legal and mostly fair. Most peasant cubes run two to five of them.
 

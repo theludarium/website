@@ -7,9 +7,9 @@ games: [carcassonne]
 tags: ["Carcassonne strategy", "Carcassonne tips", "Carcassonne farmers explained", "how to win Carcassonne", "Carcassonne meeple management", "Carcassonne tile distribution", "Strategy guides"]
 draft: false
 ---
-Carcassonne strategy divides into before you understand farmers and after. Before, the game is a pleasant tile-laying puzzle that the luckiest drawer wins. After, it is a game of territory, timing, and meeple economy, and the same player wins most of the time. This guide is about getting you to the second kind of game.
+[Carcassonne](https://link.amazon/B012Rr5ed) strategy divides into before you understand farmers and after. Before, the game is a pleasant tile-laying puzzle that the luckiest drawer wins. After, it is a game of territory, timing, and meeple economy, and the same player wins most of the time. This guide is about getting you to the second kind of game.
 
-It covers the base game with the standard rules for farms (the scoring in the current edition, where each completed city touching a farm scores three points for the farm's majority holder). Older editions scored farms differently, and the River and Abbot additions in newer boxes do not change the strategy much. <!-- AFFILIATE -->
+It covers the base game with the standard rules for farms (the scoring in the current edition, where each completed city touching a farm scores three points for the farm's majority holder). Older editions scored farms differently, and the River and Abbot additions in newer boxes do not change the strategy much.
 
 ## How does Carcassonne scoring work?
 
@@ -114,4 +114,4 @@ Yes, when placed early in a gap where tiles will naturally be laid. Opponents he
 
 ## More game-night ideas
 
-Carcassonne is the game we most often suggest to someone who says they want a step up from Ticket to Ride, and this is the guide we would hand them. The Ludarium newsletter sends new pieces on games, the people who play them, and the lounge we are building in Indianapolis. [Subscribe](/newsletter) for the next strategy guide before it goes on the site.
+Carcassonne is the game we most often suggest to someone who says they want a step up from [Ticket to Ride](https://link.amazon/B0jh8RB7f), and this is the guide we would hand them. The Ludarium newsletter sends new pieces on games, the people who play them, and the lounge we are building in Indianapolis. [Subscribe](/newsletter) for the next strategy guide before it goes on the site.

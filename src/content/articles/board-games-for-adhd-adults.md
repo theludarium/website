@@ -43,19 +43,19 @@ The games that work tend to have short turns, constant involvement, and visible 
 
 With that in mind, some reliable picks:
 
-**Azul.** Turns take seconds, the tiles are satisfying to handle, and progress is visible on your board. It is also quiet enough not to overwhelm.
+**[Azul](https://link.amazon/B0bGRYHex).** Turns take seconds, the tiles are satisfying to handle, and progress is visible on your board. It is also quiet enough not to overwhelm.
 
-**Codenames.** Everyone is involved every moment, whether giving the clue or arguing about it. There is no "waiting for your turn" because there are no individual turns.
+**[Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20).** Everyone is involved every moment, whether giving the clue or arguing about it. There is no "waiting for your turn" because there are no individual turns.
 
-**The Crew.** Short missions, cooperative, and a built-in reason to pay attention to every card played. When a mission fails you just start another one.
+**[The Crew](https://link.amazon/B099S9RKf).** Short missions, cooperative, and a built-in reason to pay attention to every card played. When a mission fails you just start another one.
 
-**Just One.** A cooperative word game where every player writes at once. Zero downtime, lots of laughing.
+**[Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20).** A cooperative word game where every player writes at once. Zero downtime, lots of laughing.
 
-**Wavelength.** Fast rounds, a physical dial, and everyone shouting guesses. Works even for people who think they don't like games.
+**[Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20).** Fast rounds, a physical dial, and everyone shouting guesses. Works even for people who think they don't like games.
 
-**Dice games and roll-and-writes.** Games like Qwixx or Ganz Schön Clever involve every player on every roll and give constant small decisions. Many people with ADHD find the pace exactly right.
+**Dice games and roll-and-writes.** Games like [Qwixx](https://www.amazon.com/dp/B00J57138C?tag=cubecommonw0a-20) or Ganz Schön Clever involve every player on every roll and give constant small decisions. Many people with ADHD find the pace exactly right.
 
-**Pandemic, with a caveat.** Cooperative, visible progress, and a shared puzzle. But watch out for a dominant player taking over, which removes the involvement that makes it work. See [co-op games without a quarterback problem](/articles/co-op-games-without-quarterback-problem/) for alternatives.
+**[Pandemic](https://link.amazon/B0eHP5GCg), with a caveat.** Cooperative, visible progress, and a shared puzzle. But watch out for a dominant player taking over, which removes the involvement that makes it work. See [co-op games without a quarterback problem](/articles/co-op-games-without-quarterback-problem/) for alternatives.
 
 Games to approach carefully: anything with long, heavy turns and little to do while waiting. Some people with ADHD love Gloomhaven. Many bounce off it in session two.
 

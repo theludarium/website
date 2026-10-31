@@ -7,9 +7,9 @@ category: Game Night
 tags: ["best family board games", "family board games", "board games for kids and adults", "games like Monopoly but better", "family game night games", "board games for ages 8 and up", "Family and intergenerational play"]
 draft: false
 ---
-The best family board games share three traits Monopoly lacks: they end in under an hour, nobody gets eliminated, and the person who is losing still has something interesting to do on their turn. Ticket to Ride, Sushi Go, Kingdomino, and Azul all pass that test. Monopoly fails all three, which is why so many family game nights end with one kid in tears and one parent quietly bankrupting themselves to make it stop.
+The best family board games share three traits Monopoly lacks: they end in under an hour, nobody gets eliminated, and the person who is losing still has something interesting to do on their turn. [Ticket to Ride](https://link.amazon/B0jh8RB7f), Sushi Go, [Kingdomino](https://link.amazon/B08l49zvA), and [Azul](https://link.amazon/B0bGRYHex) all pass that test. Monopoly fails all three, which is why so many family game nights end with one kid in tears and one parent quietly bankrupting themselves to make it stop.
 
-**The quick answer:** Ticket to Ride for ages 8 and up, Kingdomino if you want something cheaper and faster, Outfoxed! or Dragomino if your youngest is 5, and Azul or Catan once everyone is 10 or older. For a family that fights over games, start cooperative.
+**The quick answer:** Ticket to Ride for ages 8 and up, Kingdomino if you want something cheaper and faster, Outfoxed! or [Dragomino](https://link.amazon/B09WKyU19) if your youngest is 5, and Azul or Catan once everyone is 10 or older. For a family that fights over games, start cooperative.
 
 This is not a knock on nostalgia. Monopoly taught a lot of us to count money. But game design has moved a long way since 1935, and the games below are the reason a whole generation of families now play every week instead of once a year under duress.
 
@@ -40,17 +40,17 @@ Ages and player counts are the publishers' (game names link to the publisher's p
 | Game | Ages | Players | Play time | Why it works |
 |---|---|---|---|---|
 | [Ticket to Ride](https://en.wikipedia.org/wiki/Ticket_to_Ride_(board_game)) (or First Journey) | 8+ (6+ for First Journey) | 2 to 5 | 45 to 60 min | Collect colored cards, claim train routes across a map. Simple turns, real tension. |
-| [Sushi Go!](https://gamewright.com/product/Sushi-Go) | 8+ | 2 to 5 | 15 min | Pass hands of cards, keep one each time. Set collection in a tiny box. |
+| [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) | 8+ | 2 to 5 | 15 min | Pass hands of cards, keep one each time. Set collection in a tiny box. |
 | [Kingdomino](https://en.wikipedia.org/wiki/Kingdomino) | 8+ | 2 to 4 | 15 to 20 min | Draft domino tiles and build a 5x5 kingdom. The 2017 Spiel des Jahres winner, and it plays in the time it takes to boil pasta. |
 | [Azul](https://en.wikipedia.org/wiki/Azul_(board_game)) | 8+ | 2 to 4 | 30 to 45 min | Draft tiles, fill rows, score patterns. Beautiful, tactile, and sneakily deep. |
-| [Carcassonne](https://www.zmangames.com/game/carcassonne/) | 7+ | 2 to 5 | 30 to 45 min | Draw a tile, place it, maybe put a meeple on it. The map grows every game. |
-| Catan Junior / [Catan](https://www.catan.com/catan) | 6+ / 10+ | 2 to 4 / 3 to 4 | 30 / 60 to 90 min | Trading and building. Junior strips the math; full Catan is the next step. |
-| [Outfoxed!](https://gamewright.com/product/Outfoxed) | 5+ | 2 to 4 | 20 min | A cooperative whodunit. Everyone hunts the thief together. |
+| [Carcassonne](https://link.amazon/B012Rr5ed) | 7+ | 2 to 5 | 30 to 45 min | Draw a tile, place it, maybe put a meeple on it. The map grows every game. |
+| [Catan Junior](https://www.amazon.com/dp/B007N0KZ64?tag=cubecommonw0a-20) / [Catan](https://link.amazon/B0h8BDGR2) | 6+ / 10+ | 2 to 4 / 3 to 4 | 30 / 60 to 90 min | Trading and building. Junior strips the math; full Catan is the next step. |
+| [Outfoxed!](https://link.amazon/B0hYNduxd) | 5+ | 2 to 4 | 20 min | A cooperative whodunit. Everyone hunts the thief together. |
 | [Dragomino](https://www.blueorangegames.com/games/dragomino) | 5+ | 2 to 4 | 15 min | Kingdomino's younger sibling. Match terrain, hatch dragon eggs. |
-| [Codenames: Pictures](https://czechgames.com/en/codenames-pictures/) | 10+ | 4 to 8+ | 15 to 20 min | Team word-and-picture association. Works with big families. |
-| [Dixit](https://www.libellud.com/game/dixit/) | 8+ | 3 to 8 | 30 min | Give a clue for a dreamlike picture card. Rewards imagination over strategy. |
-| [Forbidden Island](https://gamewright.com/product/Forbidden-Island) | 10+ | 2 to 4 | 30 min | Cooperative treasure hunt on a sinking island. Pandemic's gentler cousin. |
-| [Sleeping Queens](https://gamewright.com/product/Sleeping-Queens) | 8+ | 2 to 5 | 20 min | A card game designed by a six-year-old. Wake queens, play knights, do a little addition. |
+| [Codenames: Pictures](https://www.amazon.com/dp/B01HT9DERU?tag=cubecommonw0a-20) | 10+ | 4 to 8+ | 15 to 20 min | Team word-and-picture association. Works with big families. |
+| [Dixit](https://www.amazon.com/dp/2914849656?tag=cubecommonw0a-20) | 8+ | 3 to 8 | 30 min | Give a clue for a dreamlike picture card. Rewards imagination over strategy. |
+| [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20) | 10+ | 2 to 4 | 30 min | Cooperative treasure hunt on a sinking island. Pandemic's gentler cousin. |
+| [Sleeping Queens](https://www.amazon.com/dp/B0009XBY3A?tag=cubecommonw0a-20) | 8+ | 2 to 5 | 20 min | A card game designed by a six-year-old. Wake queens, play knights, do a little addition. |
 
 *If this is useful, the newsletter sends more like it.*
 
@@ -70,10 +70,10 @@ In a cooperative game, everyone wins or loses together against the game itself. 
 
 | Game | Ages | Players | Play time | Why it works for families |
 |---|---|---|---|---|
-| [Outfoxed!](https://gamewright.com/product/Outfoxed) | 5+ | 2 to 4 | 20 min | Catch the thief by ruling out suspects. Real deduction a five-year-old can follow. |
-| Hanabi | 8+ | 2 to 5 | 25 min | You can see everyone's cards but your own. Teaches careful clues and listening. |
-| [Forbidden Island](https://gamewright.com/product/Forbidden-Island) | 10+ | 2 to 4 | 30 min | Grab four treasures before the island sinks. Everyone has a special power. |
-| The Crew | 10+ | 2 to 5 | 20 min | Cooperative trick-taking in short missions. Older kids get hooked fast. |
+| [Outfoxed!](https://link.amazon/B0hYNduxd) | 5+ | 2 to 4 | 20 min | Catch the thief by ruling out suspects. Real deduction a five-year-old can follow. |
+| [Hanabi](https://www.amazon.com/dp/B01MXTGT21?tag=cubecommonw0a-20) | 8+ | 2 to 5 | 25 min | You can see everyone's cards but your own. Teaches careful clues and listening. |
+| [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20) | 10+ | 2 to 4 | 30 min | Grab four treasures before the island sinks. Everyone has a special power. |
+| [The Crew](https://link.amazon/B099S9RKf) | 10+ | 2 to 5 | 20 min | Cooperative trick-taking in short missions. Older kids get hooked fast. |
 
 Start with Outfoxed! if your youngest is under eight. Forbidden Island is the one the whole family will still play in three years.
 
@@ -94,10 +94,10 @@ A few other things that help:
 
 Some hold up. Some do not.
 
-- **Uno:** Fine. Fast, portable, and kids love the Draw Four. Hands can drag, so consider the house rule that the game ends when the first player goes out.
+- **[Uno](https://www.amazon.com/dp/B07P6MZPK3?tag=cubecommonw0a-20):** Fine. Fast, portable, and kids love the Draw Four. Hands can drag, so consider the house rule that the game ends when the first player goes out.
 - **Sorry! and Trouble:** Roll-and-move with no decisions. Fine for a five-year-old, dull for anyone older. Dragomino is a better use of the same twenty minutes.
 - **Clue:** Still good. Deduction is a real skill and the game rewards note-taking, which kids find oddly satisfying.
-- **Scrabble:** Great for word-loving households, rough for mixed ages because the vocabulary gap is the whole game. Try Bananagrams for a version that is less punishing.
+- **[Scrabble](https://www.amazon.com/dp/B00IFWSO94?tag=cubecommonw0a-20):** Great for word-loving households, rough for mixed ages because the vocabulary gap is the whole game. Try [Bananagrams](https://www.amazon.com/dp/1932188126?tag=cubecommonw0a-20) for a version that is less punishing.
 - **Chess and checkers:** Wonderful, and not family games. Two players, pure skill, and the gap between a parent and a child is brutal until it suddenly reverses.
 
 ## FAQ
