@@ -126,6 +126,8 @@ Have each guest name the killer and their reason, out loud or on a card. Then re
 
 Let people share their secrets and what they suspected. That conversation is often the best part, and it becomes the story your group tells for years. For the general hosting basics, read [how to host a game night](/articles/how-to-host-a-game-night/).
 
+If you'd rather solve a mystery from a box, here are the [Clue rules](/articles/clue-rules/) in plain words.
+
 ## FAQ
 
 ### How many people do you need for a murder mystery party?

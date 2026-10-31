@@ -141,6 +141,8 @@ Online play is easy to find, but backgammon was built for two people across a bo
 
 That is exactly the kind of group The Ludarium wants to give a home. The Ludarium is building toward a [membership game lounge in Indianapolis](/lounges/indianapolis/), a place where chess clubs, backgammon clubs, and every other kind of table can meet under one roof. If two-player games are your thing, see our picks of [two-player board games for date night](/articles/two-player-board-games-date-night/) too.
 
+Looking for another classic for two? Learn [how to play checkers](/articles/how-to-play-checkers/) or start with [how to play chess](/articles/how-to-play-chess/).
+
 ## FAQ
 
 ### How many checkers does each player have in backgammon?

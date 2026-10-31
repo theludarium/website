@@ -97,6 +97,8 @@ Kids follow rules they helped write far more reliably than rules handed down. An
 
 Revisit the list every few months. Rules that made sense with a five-year-old may be insulting to an eight-year-old, and a rule nobody breaks anymore can come off the fridge.
 
+Need something new to try? Here are [family game night ideas for every age](/articles/family-game-night-ideas/).
+
 ## FAQ
 
 ### What are good rules for family game night?

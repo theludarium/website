@@ -103,6 +103,8 @@ They also play well across experience levels. A new player who buys sensible car
 
 Deck building is one of many mechanics. Our [field guide to board game mechanics](/articles/board-game-mechanics-explained/) explains sixteen of them, each with a good first game.
 
+Ready to pick one? See our list of the [best deck building games](/articles/best-deck-building-games/).
+
 ## FAQ
 
 ### What was the first deck building game?

@@ -111,6 +111,8 @@ For other quiet two-player options, our guide to [two-player cooperative board g
 
 If you like old games that are still played everywhere, [backgammon](/articles/how-to-play-backgammon/) is another two-player classic worth learning.
 
+For another quick classic, see [how to play checkers](/articles/how-to-play-checkers/).
+
 ## FAQ
 
 ### Which way do you move in mancala?

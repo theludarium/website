@@ -100,6 +100,8 @@ Some hold up. Some do not.
 - **[Scrabble](https://www.amazon.com/dp/B00IFWSO94?tag=cubecommonw0a-20):** Great for word-loving households, rough for mixed ages because the vocabulary gap is the whole game. Try [Bananagrams](https://www.amazon.com/dp/1932188126?tag=cubecommonw0a-20) for a version that is less punishing.
 - **Chess and checkers:** Wonderful, and not family games. Two players, pure skill, and the gap between a parent and a child is brutal until it suddenly reverses.
 
+For more ways to fill the evening, see our [family game night ideas](/articles/family-game-night-ideas/), plus plain guides to [Sorry! rules](/articles/sorry-board-game-rules/) and [Trouble rules](/articles/trouble-board-game-rules/).
+
 ## FAQ
 
 ### What is the best family board game for ages 8 and up?
