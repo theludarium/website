@@ -224,6 +224,18 @@ A short log of choices made and why. Newest at the bottom.
 - hello@theludarium.com is also the site's contact email (privacy and disclosure pages).
 - Built 2026-10-21: Kit forms **Ludarium Letters** (form 10079099, the newsletter's name) and **Lounge waitlist: Indianapolis** (form 10079113, custom fields zip_code, plays, visit_frequency; rule 5659971 tags `lounge-indianapolis`). Both double opt-in with the confirmation email in `docs/newsletter/emails.md`. theludarium.com is a verified sending domain in Kit (DKIM CNAMEs, `ckespa` return path, `_dmarc` p=none).
 
+## 2026-10-21: Visiting-company tracker for the corporate events pages
+
+- **Why:** see which companies, especially around Indianapolis, read the corporate events pages, so Levi can reach their HR and L&D leaders. Levi's spec; built on `feature/visiting-companies`.
+- **First party only.** A Pages middleware at `functions/corporate-events/_middleware.ts` logs the view after the page is served, inside `waitUntil`, with every error swallowed. No pixel, no script in the browser. Placing the middleware in that folder (not at `functions/_middleware.ts`) means no other page invokes a function.
+- **"Company" means the network owner.** IPinfo's company dataset is Enterprise only, so the tracker uses the ASN organization: Cloudflare's `request.cf.asOrganization` on every request plus one free IPinfo Lite call for the domain. A company with its own IP range shows up by name; a small firm on Comcast Business shows up as Comcast and is dropped. No vendor fixes that. `IPINFO_PLAN=core` ($26 a month) adds IPinfo's `type` field and VPN, hosting and mobile flags; the code prefers them when present.
+- **No raw IPs stored.** Visits and the lookup cache are keyed by a salted SHA-256 (`VISITOR_HASH_SALT`), so there is nothing to purge. Cache rows older than 30 days are ignored and deleted weekly.
+- **One database.** Where We Play landed first with `ludarium-site` bound as `DB` through the dashboard, so the tracker uses that database too (2026-10-27 merge), with its tables prefixed `vc_` next to `wwp_`. The root `wrangler.toml` stays local-dev only, for the reason recorded under Where We Play.
+- **Digest through `ludarium-notify`.** The first version emailed through Resend; main dropped Resend for the notify Worker on Cloudflare Email Routing, so the digest Worker calls the same Worker through a service binding and needs no secrets of its own. `workers/visitors-digest` runs at 12:00 UTC on Mondays (7am Eastern in winter, 8am in summer: cron triggers have no time zone).
+- **Scoring:** 10 x log2(1 + visits), 15 per distinct page, up to 30 for recency fading over 30 days, 40 for Indiana or 10 for elsewhere in the US. Out-of-region companies are kept, ranked lower.
+- **Not built:** the optional `/admin/visitors` dashboard (Levi's call: not yet). The privacy policy gained a paragraph on it (Levi approved the draft 2026-10-22) and lists IPinfo as a helper.
+- **Dependency added:** `wrangler` at the root, for `wrangler pages dev` and D1 migrations.
+
 ## 2026-10-22: Malaphor page goes live
 
 - **The book is on Amazon** (paperback ASIN B0HNTSXVS6, Kindle B0HNTT7KKV), so `/malaphors/` had to stop returning 404.

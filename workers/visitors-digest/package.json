@@ -1,0 +1,16 @@
+{
+  "name": "ludarium-visitors-digest",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Weekly email of the companies that viewed The Ludarium's corporate events pages.",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev --persist-to ../../.wrangler/state",
+    "deploy": "wrangler deploy",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "6.0.3",
+    "wrangler": "4.151.3"
+  }
+}

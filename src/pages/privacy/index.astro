@@ -57,6 +57,16 @@ const missing = [!LEGAL_NAME && 'legal business name', !CONTACT_EMAIL && 'contac
     track you across sites. If you switch between light and dark
     mode, your browser remembers that choice on your device. It is never sent to us.
   </p>
+  <h3>On our corporate events pages</h3>
+  <p>
+    On our corporate events pages, we also note which business or organization a visit came from. We do
+    this by looking up the network that an IP address belongs to, using Cloudflare's connection data and
+    the IPinfo service. The result is the name and website of a company, university, or agency, never a
+    person. We do not store the IP address itself, only a scrambled version that cannot be turned back
+    into it, and we drop the lookup after 30 days. Visits from home internet providers, mobile carriers,
+    and VPNs are not matched to anyone. We use this to know which organizations are interested in team
+    events so we can reach out to them.
+  </p>
   <h3>When you use the Card Catalogue</h3>
   <p>
     Your ratings, logged plays, shelves, and guests are stored only in your own browser on your
@@ -166,6 +176,7 @@ const missing = [!LEGAL_NAME && 'legal business name', !CONTACT_EMAIL && 'contac
     <li><strong>Cloudflare</strong> hosts the site, runs our cookieless game counts, stores Where We Play entries, and delivers inquiry notices to our inbox.</li>
     <li><strong>OpenStreetMap (Nominatim) and OSRM</strong> turn Where We Play addresses into map points and drive times.</li>
     <li><strong>Google Analytics</strong> measures how the site is used, as described above.</li>
+    <li><strong>IPinfo</strong> tells us which organization a network belongs to, on the corporate events pages only.</li>
   </ul>
   <p>
     They only use your information to provide their service to us. <strong>We never sell your personal
