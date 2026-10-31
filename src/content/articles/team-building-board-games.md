@@ -95,6 +95,8 @@ A game night with mixed tables, a couple of short games, and snacks that do not 
 
 Need something shorter or more structured? Try one of these [team building icebreakers](/articles/team-building-icebreakers/), or run [escape room team building](/articles/escape-room-team-building/) at your own tables.
 
+Want ideas beyond games, sorted by how much time you have? See [team building activities for work](/articles/team-building-activities-for-work/).
+
 ## FAQ
 
 ### What is the best team building board game for a large group?

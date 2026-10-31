@@ -107,6 +107,8 @@ Area control games are, at bottom, games about negotiating space with other peop
 
 A badly designed one teaches people that games are a place to get hurt, and they stop coming to game night. The design decisions above are not just about balance. They are about whether the evening works. The game is the reason. The people are the point.
 
+Want the classic that started it for many players? Read our guide to [Risk rules](/articles/risk-rules/).
+
 ## FAQ
 
 ### What is the best area control board game for beginners?

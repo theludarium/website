@@ -204,6 +204,8 @@ Designers start with the feeling they want players to have, then pick mechanics 
 
 If you want to try it yourself, our guide on [how to make your own board game](/articles/how-to-make-your-own-board-game/) walks from idea to prototype. Our pieces on [catch-up mechanics](/articles/catch-up-mechanics-board-games/) and [player count design](/articles/player-count-design/) cover two problems every new design runs into.
 
+To see these mechanisms in action, try the [best deck building games](/articles/best-deck-building-games/) or the work of one master of scoring tension, [Reiner Knizia](/articles/reiner-knizia-games/).
+
 ## FAQ
 
 ### What are the most common board game mechanics?

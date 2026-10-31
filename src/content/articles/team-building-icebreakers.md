@@ -117,6 +117,8 @@ The activity matters less than how you run it. A few habits make any of these wo
 
 Icebreakers warm a room. They do not build trust on their own. If your team needs real practice in communication, decisions, or leadership, a longer session with a full game and a guided debrief will do far more. Our list of [team building games for work](/articles/team-building-board-games/) has twenty options sorted by group size, and [escape room team building](/articles/escape-room-team-building/) shows how to turn an hour of puzzles into training. If you want something that keeps going, see how to start a [workplace game club](/articles/workplace-game-club/).
 
+For longer activities, from 30 minutes to a half day, see [team building activities for work](/articles/team-building-activities-for-work/).
+
 ## FAQ
 
 ### What is a good 5 minute icebreaker for work?

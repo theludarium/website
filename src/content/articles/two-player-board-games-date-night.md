@@ -111,6 +111,8 @@ Second, games with heavy "take that" conflict. Munchkin and similar games are fu
 
 Third, games with huge skill gaps. Chess and Go are wonderful, but if one person has played for twenty years, the other is not having a date. Pick games neither of you knows.
 
+For classics you may already own, see [Sequence game rules](/articles/sequence-game-rules/) and [how to play chess](/articles/how-to-play-chess/).
+
 ## FAQ
 
 ### What is the best two player board game for couples?

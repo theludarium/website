@@ -99,6 +99,8 @@ If you are not sure what your group likes, the [Card Catalogue](/card-catalogue/
 
 Three reasons. First, they are visual: you can see the state of the game at a glance, which makes them easy to teach and easy to join. Second, turns are short, so nobody waits long and the table keeps talking. Third, the finished map or pattern is a small thing you made, and people like to look at it together at the end. That last part is easy to underrate. A lot of tile laying games end with everyone leaning over each other's boards, pointing out the clever bits.
 
+New to matching tiles by color and shape? Our guide to [Qwirkle rules](/articles/qwirkle-rules/) walks through setup and scoring.
+
 ## FAQ
 
 ### What is the difference between tile placement and tile laying?
