@@ -17,6 +17,8 @@ You are a ruler building a kingdom out of land. Each domino has two squares of t
 
 This lesson follows the original Blue Orange rulebook (2016) and notes where the 2024 edition differs.
 
+**Prefer to watch first?** Watch It Played teaches the rules on video in its <a href="https://www.youtube.com/watch?v=smbwBPmP4Ms" target="_blank" rel="noopener">Kingdomino How To Play video</a>. Watch it, then come back here for the rules in writing and the rest of the course.
+
 ## What is in the box?
 
 - **48 dominoes.** Each has a number from 1 to 48 on the back and two squares of terrain on the front.
