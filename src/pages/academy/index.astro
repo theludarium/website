@@ -108,6 +108,33 @@ const startHere = START_HERE.map((slug) => catalog.find((c) => c.slug === slug))
 const groups = (['Board games', 'Trading card games', 'Game library'] as const)
   .map((name) => ({ name, cards: catalog.filter((c) => c.group === name) }))
   .filter((g) => g.cards.length > 0);
+
+// Other names people type for a game, so the course finder still finds it.
+const ALIASES: Record<string, string[]> = {
+  catan: ['settlers of catan'],
+  'ticket-to-ride': ['ttr'],
+  magic: ['mtg', 'magic the gathering', 'commander'],
+  'cube-draft': ['cube', 'mtg cube'],
+  'pokemon-tcg': ['pokemon cards', 'ptcg'],
+  lorcana: ['disney lorcana'],
+  yugioh: ['yu gi oh', 'ygo'],
+  'one-piece-card-game': ['one piece', 'optcg'],
+  '7-wonders': ['seven wonders', '7 wonders duel'],
+  'the-crew': ['crew', 'planet nine', 'mission deep sea'],
+  'sushi-go': ['sushi go party'],
+  'flip-7': ['flip seven'],
+  'king-of-tokyo': ['kot'],
+  'terraforming-mars': ['tfm'],
+  'brass-birmingham': ['brass'],
+};
+
+// The course finder's data: one entry per course, matched in the browser.
+const finder = catalog.map((c) => ({
+  game: c.game,
+  title: c.title,
+  href: c.href,
+  terms: [c.game, c.title, c.slug.replace(/-/g, ' '), ...(ALIASES[c.slug] ?? [])].join(' | '),
+}));
 ---
 
 <BaseLayout
@@ -124,6 +151,29 @@ const groups = (['Board games', 'Trading card games', 'Game library'] as const)
           the games you keep coming back to, and the craft around the table: building a game library, running a play
           group, and soon, designing games. Pick a course, start with lesson one, and go at your own pace.
         </p>
+        <form class="course-finder" role="search" action="#academy-catalog-title" data-course-finder>
+          <label class="course-finder__label" for="course-q">Is there a course for your game?</label>
+          <div class="course-finder__row">
+            <input
+              id="course-q"
+              type="search"
+              placeholder="Type a game, like Wingspan"
+              autocomplete="off"
+              autocapitalize="off"
+              spellcheck="false"
+              enterkeyhint="go"
+              aria-describedby="course-finder-status"
+              aria-controls="course-finder-results"
+            />
+          </div>
+          <p class="course-finder__status" id="course-finder-status" aria-live="polite" data-course-status></p>
+          <ul class="course-finder__results" id="course-finder-results" data-course-results hidden></ul>
+          <p class="course-finder__none" data-course-none hidden>
+            New courses open often, and <a href="/newsletter/">Ludarium Letters</a>{' '}subscribers hear first.{' '}
+            <a href="#academy-catalog-title">See every course</a>.
+          </p>
+        </form>
+        <script type="application/json" id="course-finder-data" set:html={JSON.stringify(finder).replace(/</g, "\\u003c")} />
       </div>
       <img
         class="academy-hero__art"
@@ -265,7 +315,191 @@ const groups = (['Board games', 'Trading card games', 'Game library'] as const)
   </section>
 </BaseLayout>
 
+<script>
+  // Course finder: as the visitor types a game, list the matching courses
+  // right under the box, or say plainly that there is no course yet.
+  interface FinderEntry {
+    game: string;
+    title: string;
+    href: string;
+    terms: string;
+  }
+
+  const form = document.querySelector<HTMLFormElement>('[data-course-finder]');
+  const input = document.querySelector<HTMLInputElement>('#course-q');
+  const list = document.querySelector<HTMLUListElement>('[data-course-results]');
+  const none = document.querySelector<HTMLElement>('[data-course-none]');
+  const status = document.querySelector<HTMLElement>('[data-course-status]');
+  const dataEl = document.getElementById('course-finder-data');
+
+  // Lowercase, drop accents (Pokémon), and turn punctuation into spaces (Yu-Gi-Oh!).
+  const norm = (s: string) =>
+    s
+      .toLowerCase()
+      .normalize('NFD')
+      .replace(/[̀-ͯ]/g, '')
+      .replace(/&/g, ' and ')
+      .replace(/[^a-z0-9]+/g, ' ')
+      .trim();
+
+  if (form && input && list && none && status && dataEl) {
+    const entries = (JSON.parse(dataEl.textContent || '[]') as FinderEntry[]).map((e) => {
+      const terms = norm(e.terms);
+      return { ...e, terms, words: terms.split(' '), game: e.game, gameNorm: norm(e.game) };
+    });
+
+    // Every word typed must start a word in the course's names; a game name
+    // that starts with the whole query ranks first.
+    const search = (q: string) => {
+      const tokens = q.split(' ').filter(Boolean);
+      return entries
+        .filter((e) => tokens.every((t) => e.words.some((w) => w.startsWith(t))))
+        .sort((a, b) => Number(b.gameNorm.startsWith(q)) - Number(a.gameNorm.startsWith(q)));
+    };
+
+    const render = () => {
+      const q = norm(input.value);
+      list.replaceChildren();
+      if (!q) {
+        list.hidden = true;
+        none.hidden = true;
+        status.textContent = '';
+        return;
+      }
+      const hits = search(q);
+      for (const hit of hits.slice(0, 6)) {
+        const li = document.createElement('li');
+        const a = document.createElement('a');
+        a.href = hit.href;
+        const game = document.createElement('span');
+        game.className = 'course-finder__game';
+        game.textContent = hit.game;
+        const title = document.createElement('span');
+        title.className = 'course-finder__title';
+        title.textContent = hit.title;
+        a.append(game, title);
+        li.append(a);
+        list.append(li);
+      }
+      list.hidden = hits.length === 0;
+      none.hidden = hits.length > 0;
+      status.textContent =
+        hits.length === 0
+          ? 'No course for that game yet.'
+          : hits.length === 1
+            ? 'Yes, 1 course.'
+            : hits.length > 6
+              ? `${hits.length} courses match. Keep typing to narrow it down.`
+              : `Yes, ${hits.length} courses.`;
+    };
+
+    input.addEventListener('input', render);
+
+    // Enter opens the top match; with no match it falls back to the full list.
+    form.addEventListener('submit', (event) => {
+      const first = list.querySelector<HTMLAnchorElement>('a');
+      if (first) {
+        event.preventDefault();
+        window.location.href = first.href;
+      }
+    });
+
+    if (input.value) render();
+  }
+</script>
+
 <style>
+  .course-finder {
+    max-width: 34rem;
+    margin-top: var(--space-6);
+  }
+
+  .course-finder__label {
+    display: block;
+    margin-bottom: var(--space-2);
+    font-weight: 600;
+  }
+
+  .course-finder__row {
+    padding: 6px;
+    border-radius: var(--radius-pill);
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    box-shadow: var(--shadow-sm);
+  }
+
+  .course-finder__row:focus-within {
+    outline: 2px solid var(--color-focus);
+    outline-offset: 2px;
+  }
+
+  .course-finder input {
+    width: 100%;
+    padding: 0.6em 1em;
+    border: 0;
+    border-radius: var(--radius-pill);
+    background: transparent;
+    color: var(--color-text);
+    font: inherit;
+    font-size: var(--text-lg);
+  }
+
+  .course-finder input:focus {
+    outline: none;
+  }
+
+  .course-finder__status {
+    margin: var(--space-2) 0 0;
+    min-height: 1.5em;
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+
+  .course-finder__results {
+    display: grid;
+    gap: var(--space-2);
+    margin: var(--space-2) 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .course-finder__results :global(a) {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    padding: var(--space-3) var(--space-4);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    background: var(--color-surface);
+    color: var(--color-text);
+    text-decoration: none;
+    transition: border-color 0.15s ease;
+  }
+
+  .course-finder__results :global(a:hover),
+  .course-finder__results :global(a:focus-visible) {
+    border-color: var(--color-primary);
+  }
+
+  .course-finder__results :global(.course-finder__game) {
+    font-size: var(--text-xs);
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+  }
+
+  .course-finder__results :global(.course-finder__title) {
+    font-family: var(--font-display, inherit);
+    font-size: var(--text-lg);
+    color: var(--color-primary);
+  }
+
+  .course-finder__none {
+    margin: var(--space-2) 0 0;
+    color: var(--color-text-muted);
+  }
+
   .academy-guild {
     display: grid;
     grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.1fr);
