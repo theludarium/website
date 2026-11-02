@@ -506,3 +506,16 @@ Levi's call: keep collecting emails, but stop sending automated emails to the pe
 - **Product IDs came from web search results on amazon.com,** not from loading Amazon pages (automated page loads count as bot traffic). Stock was not checked one by one, so a few links may land on an unavailable listing; generic TCG products (booster boxes, precons) were left unlinked rather than pick one for the reader.
 - **Store links outside Sources were swapped to Amazon or unlinked.** Local game store and venue links in the Indianapolis guides stay, as do price trackers in the deal-spotting article. Sources lists keep their citations.
 - **No links on:** Ludarium mission and lounge-plan pieces, grief and caregiving pieces, Small Business Saturday (it asks readers to shop local), and the used-games guide.
+
+## 2026-11-02: No prices that name a shop
+
+- **Levi's call: prices tied to a named shop come out** (Target, Walmart, Miniature Market, the Asmodee store, Gamewright's store, Thames and Kosmos, North Star, big-box stores, publisher stores). Nine articles changed. Pages should not send readers to other stores.
+- **Kept on purpose:** gift-guide prices written as "about $X at the time of writing", Black Friday deal reports cited to news sources, and Magic single-card prices in the cube articles.
+
+## 2026-11-02: Paid Guild certification
+
+- **The training stays free; the certificate review costs $39.** A person reads every capstone and writes back, so the review is the paid part. The fee covers one resubmission. Price and checkout link live in `src/lib/config.ts` (`GUILD_CERT_PRICE`, `GUILD_CERT_CHECKOUT_URL`).
+- **Pay first, then submit.** The student pays on Lemon Squeezy and types the order number from the receipt into the capstone form. Levi checks it in the dashboard. No Lemon Squeezy API key or webhook yet; automate that only if volume makes the manual check a chore.
+- **Early members keep their free review.** The Guild page promised a free review, so anyone who joined before November 3, 2026 ticks a box instead of paying. Levi checks their Kit signup date.
+- **The Guild register** (`/academy/guild/register/`, data in `src/data/guild-register.json`) lists certified students who opted in, by certificate number, so anyone can check a certificate. It stays out of search until it lists someone. The certificate maker builds each register line and a LinkedIn "add to profile" link.
+- **The Course structured data still says free,** because the training is. The certification is not listed as an offer.

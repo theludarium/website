@@ -19,6 +19,7 @@ import {
 } from '@/lib/guild';
 import { GUILD_TOOLS, guildToolUrl } from '@/lib/guild-tools';
 import { SITE } from '@/lib/site';
+import { GUILD_CERT_FREE_BEFORE, GUILD_CERT_PRICE } from '@/lib/config';
 
 const lessons = await getGuildLessons();
 const published = lessons.filter((l) => !l.data.draft);
@@ -34,15 +35,15 @@ const faq = [
   },
   {
     q: 'What does it mean to be certified?',
-    a: 'Finish the lessons, teach one person who does not play board games, and send in your capstone: your own scores and the newcomer’s answers. The Ludarium reviews it by hand. If your newcomer said yes to another game, you receive the Expert Game Guide certificate by email.',
+    a: `Finish the lessons, teach one person who does not play board games, and send in your capstone: your own scores and the newcomer’s answers. The Ludarium reviews it by hand. The review is ${GUILD_CERT_PRICE}. If your newcomer said yes to another game, you receive the Expert Game Guide certificate by email.`,
   },
   {
     q: 'How long does it take?',
     a: 'Each lesson is a five to eight minute read with one short drill. By email, one lesson arrives each weekday, so the 35 lessons take about seven weeks. Read ahead on the site anytime. The capstone takes one game night.',
   },
   {
-    q: 'Is it really free?',
-    a: 'Yes. Every lesson is free to read on this page, and the email course, the printable toolkit and the certificate review are free too. No card, no trial.',
+    q: 'Is it free?',
+    a: `The training is. Every lesson is free to read on this page, and so are the email course and the printable toolkit. No card, no trial. Certification is optional: a person reviews your capstone for ${GUILD_CERT_PRICE}, which covers one resubmission. Anyone who joined before ${GUILD_CERT_FREE_BEFORE} is reviewed free.`,
   },
   {
     q: 'Which games does it use?',

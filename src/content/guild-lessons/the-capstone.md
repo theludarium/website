@@ -35,7 +35,7 @@ Teach a board game to one person who does not play board games. Then do three th
 
 1. **Score your teach** on [the Self-Assessment](/academy/guild/toolkit/self-assessment/), all ten lines, within an hour of the game ending.
 2. **Ask the newcomer to fill in [the Newcomer Feedback Card](/academy/guild/toolkit/feedback-card/).** It is five questions and takes them about a minute.
-3. **Submit both on [the capstone form](/academy/guild/capstone/).**
+3. **Submit both on [the capstone form](/academy/guild/capstone/).** A person reviews every capstone, so the review costs $39. It covers one resubmission, and anyone who joined the Guild before November 3, 2026 is reviewed free.
 
 Choose your newcomer the way [an earlier lesson](/academy/guild/match-the-game-to-the-person/) taught: someone you would like to play with more, with a game that fits them. A partner, a parent, a coworker, a neighbor. Not a friend who plays a lot of games but happens not to know this one. The capstone is about a person who has to decide whether games are for them.
 
@@ -47,12 +47,13 @@ The title is earned only if the newcomer agreed to a second game.
 
 That has been the score since the first lesson, and it is the score here. It is also why the capstone cannot be faked with a perfect teach to an eager friend. A great Self-Assessment without a yes is a good evening and a reason to try again. A rough Self-Assessment with a yes is a pass.
 
-If they say no, that is not a failure of the program. It is information. Look at your lowest line, look at their card, and invite someone else. You can submit again whenever you are ready.
+If they say no, that is not a failure of the program. It is information. Look at your lowest line, look at their card, and invite someone else. Your review fee covers one resubmission, so send it again whenever you are ready.
 
 ## Worked example: walking through a submission
 
 Picture a capstone built on [Azul](/academy/azul/), taught to a neighbor who likes puzzles. Here is the form, field by field.
 
+- **The order number from your review fee receipt,** or a tick in the early member box.
 - **Your name and email,** and the name to print on the certificate if it is different.
 - **The game you taught.** Azul.
 - **Who the newcomer was to you.** Pick from a short list; a neighbor is "Someone else." No names needed.
@@ -66,7 +67,7 @@ Notice what makes that a strong submission. The scores are honest, including the
 
 Levi reviews each submission by hand, and a review takes about a week. If your newcomer said yes to another game, he emails you your Expert Game Guide certificate.
 
-That is the whole process. No test, no fee, no trick questions. Just one person, one game, and an honest account of how it went.
+That is the whole process. No test and no trick questions. If you like, your name goes on the public [Guild register](/academy/guild/register/) once you earn the title. Just one person, one game, and an honest account of how it went.
 
 ## The table you are building
 

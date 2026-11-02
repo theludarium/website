@@ -2,10 +2,12 @@
 // The capstone: the last step to the Expert Game Guide title. The student
 // teaches one new player, then sends their Self-Assessment scores and the
 // newcomer's Feedback Card answers. Posts to functions/api/guild-capstone.ts,
-// which emails Levi to review by hand.
+// which emails Levi to review by hand. The review costs GUILD_CERT_PRICE,
+// paid on Lemon Squeezy first; students who joined before the fee started
+// tick the early box instead of giving an order number.
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import PageIntro from '@/components/PageIntro.astro';
-import { TURNSTILE_SITE_KEY } from '@/lib/config';
+import { GUILD_CERT_CHECKOUT_URL, GUILD_CERT_FREE_BEFORE, GUILD_CERT_PRICE, TURNSTILE_SITE_KEY } from '@/lib/config';
 import { IS_PREVIEW } from '@/lib/env';
 import { FEEDBACK, RELATIONSHIPS, RUBRIC } from '../../../../../functions/api/guild-capstone';
 
@@ -20,7 +22,7 @@ const siteKey = IS_PREVIEW ? TEST_SITE_KEY : TURNSTILE_SITE_KEY;
   <PageIntro
     eyebrow="The Ludarium Guild of Game Guides"
     title="The capstone."
-    lede="Teach one person who does not play board games. Score your teach, ask them five questions, and send it in. If they said yes to another game, you earn the title Expert Game Guide."
+    lede={`Teach one person who does not play board games. Score your teach, ask them five questions, and send it in for a personal review. If they said yes to another game, you earn the title Expert Game Guide. The review is ${GUILD_CERT_PRICE}.`}
   />
 
   <section class="container capstone">
@@ -35,6 +37,9 @@ const siteKey = IS_PREVIEW ? TEST_SITE_KEY : TURNSTILE_SITE_KEY;
         <strong>Ask them</strong> the five questions on the <a href="/academy/guild/toolkit/feedback-card/">Newcomer Feedback Card</a>.
       </li>
       <li>
+        <strong>Pay the {GUILD_CERT_PRICE} review fee</strong> and keep the order number from your receipt. It covers one resubmission if your newcomer is not ready for a second game yet.
+      </li>
+      <li>
         <strong>Send it in below.</strong> We read every capstone and reply within about a week. If your newcomer said yes to another game, your certificate comes with the reply.
       </li>
     </ol>
@@ -43,7 +48,33 @@ const siteKey = IS_PREVIEW ? TEST_SITE_KEY : TURNSTILE_SITE_KEY;
       <p class="capstone-form__error" role="alert" data-capstone-error hidden></p>
 
       <fieldset>
-        <legend><span class="capstone-form__count">Part 1 of 3</span> You and your teach</legend>
+        <legend><span class="capstone-form__count">Part 1 of 4</span> Your review fee</legend>
+        <p class="capstone-form__hint">
+          A person reads every capstone and writes back, so the review costs {GUILD_CERT_PRICE}. The lessons and toolkit stay free.
+        </p>
+        {
+          GUILD_CERT_CHECKOUT_URL ? (
+            <a class="button capstone-form__pay" href={GUILD_CERT_CHECKOUT_URL} rel="noopener">
+              Pay {GUILD_CERT_PRICE} for your review
+            </a>
+          ) : (
+            <p class="capstone-form__hint">
+              <strong>Payment opens soon.</strong> Early members can send their capstone now.
+            </p>
+          )
+        }
+        <label>
+          Order number from your receipt
+          <input name="order" maxlength="40" placeholder="1234567" autocomplete="off" required data-order />
+        </label>
+        <label class="capstone-form__check">
+          <input type="checkbox" name="early" value="yes" data-early />
+          <span>I joined the Guild before {GUILD_CERT_FREE_BEFORE}, so my review is free.</span>
+        </label>
+      </fieldset>
+
+      <fieldset>
+        <legend><span class="capstone-form__count">Part 2 of 4</span> You and your teach</legend>
         <div class="capstone-form__row">
           <label>
             Your name
@@ -74,7 +105,7 @@ const siteKey = IS_PREVIEW ? TEST_SITE_KEY : TURNSTILE_SITE_KEY;
       </fieldset>
 
       <fieldset>
-        <legend><span class="capstone-form__count">Part 2 of 3</span> Your Self-Assessment</legend>
+        <legend><span class="capstone-form__count">Part 3 of 4</span> Your Self-Assessment</legend>
         <p class="capstone-form__hint">Score each line from 1 to 5. A five looks like the description.</p>
         <ul class="capstone-rubric">
           {
@@ -100,7 +131,7 @@ const siteKey = IS_PREVIEW ? TEST_SITE_KEY : TURNSTILE_SITE_KEY;
       </fieldset>
 
       <fieldset>
-        <legend><span class="capstone-form__count">Part 3 of 3</span> Your newcomer’s answers</legend>
+        <legend><span class="capstone-form__count">Part 4 of 4</span> Your newcomer’s answers</legend>
         <p class="capstone-form__hint">In their words, as close as you can. No names needed.</p>
         {
           FEEDBACK.map((q) =>
@@ -126,6 +157,10 @@ const siteKey = IS_PREVIEW ? TEST_SITE_KEY : TURNSTILE_SITE_KEY;
           <span>What would you change next time? <span class="capstone-form__optional">optional</span></span>
           <textarea name="change" rows="3" maxlength="1500"></textarea>
         </label>
+        <label class="capstone-form__check">
+          <input type="checkbox" name="register" value="yes" />
+          <span>If I earn the title, list my name on the public <a href="/academy/guild/register/">Guild register</a>.</span>
+        </label>
         <div class="capstone-form__trap" aria-hidden="true">
           <label>Leave this empty <input name="website" tabindex="-1" autocomplete="off" /></label>
         </div>
@@ -140,6 +175,7 @@ const siteKey = IS_PREVIEW ? TEST_SITE_KEY : TURNSTILE_SITE_KEY;
 
 <script>
   const MESSAGES: Record<string, string> = {
+    order: 'Please add the order number from your review fee receipt, or tick the early member box.',
     missing: 'Please fill in your name, email, the game and who your newcomer was.',
     email: 'That email address does not look right. Please check it.',
     scores: 'Please score every line of the Self-Assessment from 1 to 5.',
@@ -154,6 +190,15 @@ const siteKey = IS_PREVIEW ? TEST_SITE_KEY : TURNSTILE_SITE_KEY;
     box.textContent = MESSAGES[error] ?? MESSAGES.unavailable;
     box.hidden = false;
   }
+
+  // Early members skip the order number.
+  const order = document.querySelector<HTMLInputElement>('[data-order]');
+  const early = document.querySelector<HTMLInputElement>('[data-early]');
+  const sync = () => {
+    if (order && early) order.required = !early.checked;
+  };
+  early?.addEventListener('change', sync);
+  sync();
 </script>
 
 <style>
@@ -307,6 +352,23 @@ const siteKey = IS_PREVIEW ? TEST_SITE_KEY : TURNSTILE_SITE_KEY;
 
   .capstone-score input:focus-visible + span {
     outline: 3px solid var(--color-focus);
+  }
+
+  .capstone-form__pay {
+    justify-self: start;
+  }
+
+  .capstone-form label.capstone-form__check {
+    display: flex;
+    gap: var(--space-2);
+    align-items: flex-start;
+    font-weight: 400;
+  }
+
+  .capstone-form__check input {
+    width: auto;
+    margin-top: 0.25em;
+    accent-color: var(--color-primary);
   }
 
   .capstone-form__trap {
