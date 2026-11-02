@@ -36,17 +36,17 @@ Games fix the sag. They give people something to do with their hands and a reaso
 
 People arrive in waves, so the first hour needs games that let a new person sit down mid-game.
 
-[Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20) is a cooperative word game. One player guesses a mystery word, and everyone else writes a one-word clue. The catch: any clues that match are erased before the guesser sees them. Three to seven players, about twenty minutes, ages 8 and up. About $25 at the Asmodee store. Each round is short, so a latecomer joins on the next word.
+[Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20) is a cooperative word game. One player guesses a mystery word, and everyone else writes a one-word clue. The catch: any clues that match are erased before the guesser sees them. Three to seven players, about twenty minutes, ages 8 and up. Each round is short, so a latecomer joins on the next word.
 
-[Flip 7](https://www.amazon.com/dp/B0DWGVM7RY?tag=cubecommonw0a-20) is a push-your-luck card game for three or more. Flip cards and add them up, but a repeated number busts you. About twenty minutes, ages 8 and up, about $8 at Target at the time of writing. It seats a crowd, and anyone can learn it by watching one round. Our free [Flip 7 course](/academy/flip-7/) has a quick teach.
+[Flip 7](https://www.amazon.com/dp/B0DWGVM7RY?tag=cubecommonw0a-20) is a push-your-luck card game for three or more. Flip cards and add them up, but a repeated number busts you. About twenty minutes, ages 8 and up. It seats a crowd, and anyone can learn it by watching one round. Our free [Flip 7 course](/academy/flip-7/) has a quick teach.
 
 ### 9:00 to 10:30: Team games once the room fills
 
 Once most guests are in, split into two teams. Team games carry more energy than anything else at a party, because every win is shared.
 
 - **[Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20).** Two spymasters give one-word clues to steer their teams to the right words on a grid of 25. Two to eight or more players, about fifteen minutes a game, ages 14 and up on the box. About $25 at the Czech Games store. Play best of three and keep a running score on a whiteboard. Our free [Codenames course](/academy/codenames/) covers giving good clues.
-- **[Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20).** One player gets a hidden target on a dial between two ideas, such as "underrated" and "overrated," and gives a clue. The team argues about where the clue falls. Two to twelve players, ages 14 and up, about $39 at the Asmodee store. The arguing is the fun.
-- **[Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20).** Telephone with drawings. Everyone draws their own secret word, then passes the sketchbook. The next person guesses the drawing, the next draws that guess, and so on until the books come home. Four to eight players, about thirty minutes, ages 12 and up. The 8-player box lists for about $32 and the 12-player box for about $45, though both showed sold out at The Op's store at the time of writing, so check other retailers. Nobody needs to be able to draw.
+- **[Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20).** One player gets a hidden target on a dial between two ideas, such as "underrated" and "overrated," and gives a clue. The team argues about where the clue falls. Two to twelve players, ages 14 and up. The arguing is the fun.
+- **[Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20).** Telephone with drawings. Everyone draws their own secret word, then passes the sketchbook. The next person guesses the drawing, the next draws that guess, and so on until the books come home. Four to eight players, about thirty minutes, ages 12 and up. Nobody needs to be able to draw.
 
 Switch games every 30 to 40 minutes, even if one is going well. Ending a game while people still want more keeps the energy up for the next act.
 
@@ -75,7 +75,7 @@ The final game should grow louder as midnight gets closer. Monikers does exactly
 - **11:20:** round two, one word only.
 - **11:40:** round three, charades. Stop the last turn at 11:59, count the cards, and announce the winning team in time for the countdown.
 
-The original Monikers is rated 17 and up and was sold out at the Asmodee store at the time of writing. [Monikers: Family Edition](https://www.amazon.com/dp/B0FVBB5W1W?tag=cubecommonw0a-20) is a standalone version written so younger players get the jokes, for two to twelve or more players, ages 6 and up, about $30 at the Asmodee store. It is the safer buy for a mixed crowd.
+The original Monikers is rated 17 and up and was sold out at the Asmodee store at the time of writing. [Monikers: Family Edition](https://www.amazon.com/dp/B0FVBB5W1W?tag=cubecommonw0a-20) is a standalone version written so younger players get the jokes, for two to twelve or more players, ages 6 and up. It is the safer buy for a mixed crowd.
 
 ## What are the best New Year's Eve games by group size?
 
@@ -86,7 +86,7 @@ The original Monikers is rated 17 and up and was sold out at the Asmodee store a
 | 10 to 16 | Telestrations 12-player, Monikers | Built for big tables |
 | 16 or more | Wits & Wagers, Monikers in teams | Teams of three or four keep it moving |
 
-For a crowd of 16 or more, [Wits & Wagers Deluxe Edition](https://www.amazon.com/dp/B00Y0L8FPW?tag=cubecommonw0a-20) works well. Everyone writes a guess to a number question, such as a year or a distance, and then bets on the guess they think is closest. You do not need to know the answers to win. The box lists three to seven players for ages 10 and up, and big groups play it as teams sharing a guess. About $50 at North Star Games.
+For a crowd of 16 or more, [Wits & Wagers Deluxe Edition](https://www.amazon.com/dp/B00Y0L8FPW?tag=cubecommonw0a-20) works well. Everyone writes a guess to a number question, such as a year or a distance, and then bets on the guess they think is closest. You do not need to know the answers to win. The box lists three to seven players for ages 10 and up, and big groups play it as teams sharing a guess.
 
 Hosting a really large group? Our guide to [party games for large groups](/articles/party-games-for-large-groups/) has picks for 8 to 20 people and games that need no equipment at all.
 
