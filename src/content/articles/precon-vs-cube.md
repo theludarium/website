@@ -81,6 +81,8 @@ A quick decision tree:
 
 Most groups that start with precons end up with a cube within a year, and most cube groups keep a battle box or a Jumpstart box for the short nights. The real answer to "precon vs cube" for a group that lasts is "both, in that order."
 
+If precons win out, our [MTG starter kit guide](/articles/mtg-starter-kit/) compares the Foundations Commander decks with every other beginner product.
+
 ## FAQ
 
 ### Is a cube better than precons?

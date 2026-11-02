@@ -134,6 +134,8 @@ And one judgment call: Cards Against Humanity. It handles the player count, but 
 
 If your crowd loves bluffing, see [the best social deduction games](/articles/best-social-deduction-games/). For smaller nights, our list of [games to play with friends](/articles/games-to-play-with-friends/) covers every group size.
 
+Hosting 30, 50, or 100 people? See our guide to [games for large groups](/articles/games-for-30-people/).
+
 ## FAQ
 
 ### What is the best party game for 10 people?

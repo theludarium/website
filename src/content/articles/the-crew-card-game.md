@@ -80,6 +80,8 @@ Players who hate silence. People who need to narrate their thinking will find th
 
 It also plays best at four. Three is fine and five is good, but four hands of the deck create the cleanest deductions. The two-player variant works, with a dummy hand, but it is a different and more puzzly game.
 
+If The Crew clicks, our list of the [best co-op card games](/articles/best-co-op-card-games/) has twelve more to try.
+
 ## FAQ
 
 ### Is The Crew a good game for beginners?

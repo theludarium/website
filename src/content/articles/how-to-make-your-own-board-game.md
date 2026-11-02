@@ -107,6 +107,8 @@ Whichever path you choose, the game has to be tested and loved first. That is th
 
 Most new designers worry about this more than they need to. The US Copyright Office says copyright does not protect the idea for a game, its name, or the method of playing it. It can protect the specific written rules text and the artwork. In practice, publishers see many submissions and have little reason to steal a prototype. Your real protection is being the person who can finish it. This is general information, not legal advice; talk to a lawyer if you have a specific concern.
 
+If your idea lives entirely in a deck, our guide to [making your own card game](/articles/how-to-make-your-own-card-game/) covers templates, bleed, and printing.
+
 ## FAQ
 
 ### How do I make my own board game at home?

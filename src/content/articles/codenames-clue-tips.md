@@ -84,6 +84,8 @@ Three exercises that help.
 
 Codenames rewards the spymaster who knows the people at the table well, which is part of why it is such a good game for groups who are still getting to know each other. We wrote about using it for exactly that purpose in our piece on [Codenames for team building](/articles/codenames-team-building/). If your group has graduated and wants a harder word game, see [Codenames vs Decrypto](/articles/codenames-vs-decrypto/).
 
+These tips work just as well in [Codenames Party on Netflix](/articles/codenames-party-netflix/), the TV version with phones as controllers.
+
 ## FAQ
 
 ### What is the best number to give in Codenames?

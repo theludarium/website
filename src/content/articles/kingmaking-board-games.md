@@ -93,6 +93,8 @@ A few practices help, in rough order of usefulness.
 
 **Let it go.** If someone crowns your rival once, it happened. If it is a pattern, talk about it or change the game. Grudges cost more than any single win.
 
+Root builds this pressure into its design, which is why a [Root faction tier list](/articles/root-factions-explained/) means less than it seems.
+
 ## FAQ
 
 ### What is a kingmaker in board games?

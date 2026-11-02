@@ -106,6 +106,8 @@ Not always, but they are safer. Competitive two-player games are tight by design
 
 Our broader list of [two-player board games for date night](/articles/two-player-board-games-date-night/) covers both sides. The honest advice is to own a few of each and read the room.
 
+For two-player picks that fit in a pocket, see our [co-op card games](/articles/best-co-op-card-games/).
+
 ## FAQ
 
 ### What is the best two-player cooperative board game?

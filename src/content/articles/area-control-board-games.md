@@ -109,6 +109,8 @@ A badly designed one teaches people that games are a place to get hurt, and they
 
 Want the classic that started it for many players? Read our guide to [Risk rules](/articles/risk-rules/).
 
+Our guide to [Root factions explained](/articles/root-factions-explained/) walks through all thirteen.
+
 ## FAQ
 
 ### What is the best area control board game for beginners?

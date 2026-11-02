@@ -146,6 +146,8 @@ Our free, unofficial beginner course, [First League Night](/academy/pokemon-tcg/
 - **Not sure yet?** Try free Pokémon TCG Live or a League night first.
 - **Skip** expensive singles, steep reseller markups, and too-cheap bundles.
 
+Want to know when the next set lands? Our [TCG release calendar](/articles/tcg-release-calendar/) lists every upcoming Pokémon set and prerelease date.
+
 ## FAQ
 
 ### What is the best Pokémon TCG product for a beginner?

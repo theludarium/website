@@ -88,6 +88,8 @@ The practical difference is that Codenames gets played constantly because it can
 
 **Buy both if** you host more than one kind of evening. They sit together on a shelf happily. Codenames is the opener; Decrypto is the game for the people who stayed. Both are small, both are cheap by hobby standards, and both will be on the shelf at The Ludarium in Indianapolis.
 
+Codenames also has a TV version now; here is [how Codenames Party on Netflix compares to the box](/articles/codenames-party-netflix/).
+
 ## FAQ
 
 ### Is Decrypto harder than Codenames?

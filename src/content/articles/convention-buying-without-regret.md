@@ -99,6 +99,8 @@ The last source of regret is logistics. Board games are heavy and awkward, and a
 
 A crushed box is a small regret, but it is an avoidable one.
 
+For what came out of the world's biggest fair this year, see [the best new games from SPIEL Essen 2026](/articles/best-games-spiel-essen-2026/).
+
 ## FAQ
 
 ### What should I buy at a board game convention?

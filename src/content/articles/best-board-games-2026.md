@@ -128,6 +128,8 @@ A few habits help:
 - Check it against your own shelf. If you own Wingspan, do you need another engine builder? Maybe. But a new game that fills a hole on your shelf, a good two-player game or a party game that works at ten, is worth more than a better version of something you already have.
 - Try before you buy where you can. A game lounge or cafe lets you play a new release for the price of a coffee. That is one reason we plan to open one in Indianapolis. The library model is the subject of [the library problem](/articles/board-game-cafe-library/).
 
+New to it? Our full guide on [how to play JinxO](/articles/how-to-play-jinxo/) walks through every rule and scoring question.
+
 ## FAQ
 
 ### What is the best board game of 2026?

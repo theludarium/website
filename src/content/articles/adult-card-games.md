@@ -105,6 +105,8 @@ A standard deck still holds up. Euchre, Hearts, Spades, Oh Hell, and Cribbage ar
 
 The games above take the ideas from the classics, trick-taking, bluffing, set collection, and package them so a new player can join in five minutes. That is the real innovation of the last twenty years of card design. Not new ideas. Faster doors.
 
+If your group loves Star Wars, [Star Wars: Unlimited](/articles/how-to-play-star-wars-unlimited/) is one of the easiest trading card games to learn.
+
 ## FAQ
 
 ### What is the best card game for adults instead of Cards Against Humanity?

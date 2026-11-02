@@ -110,6 +110,8 @@ Because a printed game pulls people to a table. A digital prototype on a tablet 
 
 Print and play is the most democratic corner of the hobby. No publisher, no budget, no permission. A printer, a pair of scissors, and some people willing to try your idea. The game is the reason. The people are the point.
 
+Our guide to [making your own card game](/articles/how-to-make-your-own-card-game/) gives poker-card template sizes with bleed and safe zone.
+
 ## FAQ
 
 ### What do I need to make a print and play game?

@@ -137,6 +137,8 @@ What it does change is expectations. A group that has played Dread knows that an
 
 No group yet? [Solo RPGs](/articles/solo-rpg/) let you learn the hobby by yourself, and [Ironsworn](/articles/ironsworn-rpg/) is free.
 
+For more games this small, see our guide to [one page RPGs](/articles/one-page-rpgs/). Our [24XX explainer](/articles/what-is-24xx-rpg/) covers the system and how to hack it.
+
 ## FAQ
 
 ### What is the easiest tabletop RPG to learn?
