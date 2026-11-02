@@ -53,13 +53,9 @@ Five means one more Key to collect and one more candle to bring to the Gate. Wit
 
 ## The base game and Shrieking Hollow
 
-[The Night Cage](https://smirkanddagger.com/products/the-night-cage-a-cooperative-horror-themed-tile-laying-game-super-atmospheric) is published by Smirk & Dagger Games, under its lighter-games imprint Smirk & Laughter Games. It was designed by Chris Chan, Chris McMahon, and Ross Saunders, with art by Chris Chan.
+[The Night Cage](https://www.amazon.com/dp/B08VC23895?tag=cubecommonw0a-20) is published by Smirk & Dagger Games, under its lighter-games imprint Smirk & Laughter Games. It was designed by Chris Chan, Chris McMahon, and Ross Saunders, with art by Chris Chan.
 
-<!-- AFFILIATE: The Night Cage -->
-
-[The Night Cage: Shrieking Hollow](https://smirkanddagger.com/products/the-night-cage-shrieking-hollow-expansion-continue-the-cooperative-horror) is the expansion, released in 2024. You need the base game to play it.
-
-<!-- AFFILIATE: The Night Cage: Shrieking Hollow -->
+[The Night Cage: Shrieking Hollow](https://www.amazon.com/dp/B0D851D4TZ?tag=cubecommonw0a-20) is the expansion, released in 2024. You need the base game to play it.
 
 At a high level, Shrieking Hollow changes what a Pit means. Falling or leaping into a Pit on the main board no longer drops you back into the labyrinth. It sends you down into the Hollow, a new sideboard, where a creature called The Other waits. Over the game, The Other rises out of the Hollow and attacks, wiping out the parts of the maze it reaches. Shrieks herald its approach, and Watched Keys work like Key tiles but pull every Prisoner in the Hollow back up to the main board.
 

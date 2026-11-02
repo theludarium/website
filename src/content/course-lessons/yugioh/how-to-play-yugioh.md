@@ -29,7 +29,7 @@ None of this is as hard as it sounds. It just helps to relearn it in the right o
 
 ## The best first buy: the 2-Player Starter Set
 
-Konami's starter for new Duelists is the **Yu-Gi-Oh! TRADING CARD GAME 2-Player Starter Set**. It holds two different 44-card decks, each a 40-card Main Deck plus a 4-card Extra Deck. The star of the box is a 64-page teaching comic that walks two players through a scripted Duel, card by card. It starts at the first draw and ends with Synchro and Xyz Summons from the Extra Deck.
+Konami's starter for new Duelists is the **[Yu-Gi-Oh! TRADING CARD GAME 2-Player Starter Set](https://www.amazon.com/dp/B0CT18YSMJ?tag=cubecommonw0a-20)**. It holds two different 44-card decks, each a 40-card Main Deck plus a 4-card Extra Deck. The star of the box is a 64-page teaching comic that walks two players through a scripted Duel, card by card. It starts at the first draw and ends with Synchro and Xyz Summons from the Extra Deck.
 
 That scripted Duel suits a returning player well. You already know half of it, so you move fast through the familiar parts and slow down where the new rules kick in. Once the teaching Duel is done, the two decks work as complete decks you can play again and again.
 
@@ -40,8 +40,6 @@ It is the right pick when:
 - You want to know the modern turn before you spend money on singles.
 
 Konami lists it on the [2-Player Starter Set product page](https://www.yugioh-card.com/en/products/2-player-starter-set/). It launched in January 2024 at a list price of about $20.
-
-<!-- AFFILIATE: Yu-Gi-Oh! TRADING CARD GAME 2-Player Starter Set -->
 
 <!-- VERIFY: that the 2-Player Starter Set is still easy to find in stores in late 2026. In October 2026 it was still the newest product on Konami's Starter Decks page. -->
 

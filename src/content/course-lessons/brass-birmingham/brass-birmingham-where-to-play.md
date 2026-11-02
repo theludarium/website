@@ -44,19 +44,12 @@ If strong opponents are scarce, make some. Every player you teach well is a futu
 
 Roxley publishes three games on the Brass system. Once Birmingham feels familiar, the others are a natural next step.
 
-**[Brass: Lancashire](https://roxley.com/products/brass-lancashire)** is Martin Wallace's original. Roxley's edition adds new art and player mats and, by Roxley's description, improved 2 and 3 player rules. It plays 2 to 4 in 60 to 120 minutes, the same listing as Birmingham. Players who love Birmingham's link math and era structure will feel at home.
-
-<!-- AFFILIATE: Brass: Lancashire -->
+**[Brass: Lancashire](https://www.amazon.com/dp/1988884020?tag=cubecommonw0a-20)** is Martin Wallace's original. Roxley's edition adds new art and player mats and, by Roxley's description, improved 2 and 3 player rules. It plays 2 to 4 in 60 to 120 minutes, the same listing as Birmingham. Players who love Birmingham's link math and era structure will feel at home.
 
 **[Brass: Pittsburgh](https://roxley.com/products/brass-pittsburgh)** is a new sequel set in America's Gilded Age, designed by Gavan Brown, co-designer of Birmingham, and Martin Wallace, and built on the Brass system. At the time of writing, it was in late pledge on Gamefound.
 
-<!-- AFFILIATE: Brass: Pittsburgh -->
-
 ## Upgrades for your own copy
 
-Roxley's Birmingham page says the Deluxe edition has been retired and will not be reprinted, and it points to a Collector's Edition offered through Gamefound late pledge. The retail edition of [Brass: Birmingham](https://roxley.com/products/brass-birmingham) plays exactly the same game. [Iron Clays](https://roxley.com/products/iron-clays) are Roxley's poker-chip style money, a popular upgrade for a game with this much cash changing hands; our [accessories gift guide](/articles/board-game-accessories-gift-guide/) has more on that kind of gift.
-
-<!-- AFFILIATE: Brass: Birmingham -->
-<!-- AFFILIATE: Iron Clays -->
+Roxley's Birmingham page says the Deluxe edition has been retired and will not be reprinted, and it points to a Collector's Edition offered through Gamefound late pledge. The retail edition of [Brass: Birmingham](https://www.amazon.com/dp/1988884047?tag=cubecommonw0a-20) plays exactly the same game. [Iron Clays](https://www.amazon.com/dp/B08GLGGPY3?tag=cubecommonw0a-20) are Roxley's poker-chip style money, a popular upgrade for a game with this much cash changing hands; our [accessories gift guide](/articles/board-game-accessories-gift-guide/) has more on that kind of gift.
 
 None of this is needed to play well. A retail copy and a regular table are all it takes.

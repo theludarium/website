@@ -76,7 +76,7 @@ Ask parents of newborns what they miss most, and many will say not sleep but adu
 
 ## When do the kids get to play?
 
-Sooner than you think. [First Orchard](https://www.habausa.com/products/my-very-first-games-first-orchard) is rated for ages two and up, and simple cooperative games like [Outfoxed!](https://link.amazon/B0hYNduxd) follow around five; the family game habit starts there. But that is a different article. For now, the games are for you.
+Sooner than you think. [First Orchard](https://www.amazon.com/dp/B004BW8TYC?tag=cubecommonw0a-20) is rated for ages two and up, and simple cooperative games like [Outfoxed!](https://link.amazon/B0hYNduxd) follow around five; the family game habit starts there. But that is a different article. For now, the games are for you.
 
 If you want to look ahead, see [best family board games](/articles/best-family-board-games/) and [screen-free family game habit](/articles/screen-free-family-game-habit/). For the next two years, bookmark them and come back.
 

@@ -13,9 +13,7 @@ nextTeaser: "Next, how to run a great first game: choosing spymasters, seating t
 ---
 Codenames is a party game for two teams and one grid of words. Each team's spymaster secretly knows which words are theirs. Everyone else is an operative, trying to find those words from the spymaster's clues. The catch: a clue is one word and one number, and one word on the table is the assassin.
 
-This lesson follows the current 2025 rulebook from Czech Games Edition for [Codenames](https://www.czechgames.com/games/codenames), designed by Vlaada Chvátil. Older copies may look a little different. Everything below also fits on the one-page [Codenames teach sheet](/academy/codenames/teach-sheet/).
-
-<!-- AFFILIATE: Codenames -->
+This lesson follows the current 2025 rulebook from Czech Games Edition for [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), designed by Vlaada Chvátil. Older copies may look a little different. Everything below also fits on the one-page [Codenames teach sheet](/academy/codenames/teach-sheet/).
 
 **Prefer to watch first?** Watch It Played teaches the rules on video in its <a href="https://www.youtube.com/watch?v=J8RWBooJivg" target="_blank" rel="noopener">Codenames How To Play video</a>. Watch it, then come back here for the rules in writing and the rest of the course.
 

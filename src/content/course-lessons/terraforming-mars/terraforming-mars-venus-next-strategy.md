@@ -68,4 +68,4 @@ Each generation, ask:
 2. Is Venus TR or Mars TR the better buy for me right now?
 3. When I am first player, which parameter helps me most and my rivals least?
 
-Venus Next is available [from Stronghold Games](https://strongholdgames.com/our-games/terraforming-mars-venus-next/). It needs the base game. <!-- AFFILIATE: Terraforming Mars: Venus Next -->
+[Venus Next](https://www.amazon.com/dp/B0777M969L?tag=cubecommonw0a-20) is available on Amazon. It needs the base game.

@@ -54,9 +54,7 @@ If your group already plays Commander, our comparison of [Cube and Commander](/a
 
 It helps to know the basic turn: play a land, cast spells, attack. You do not need to own any cards, and you do not need to be good yet.
 
-Wizards of the Coast keeps a free [how to play page](https://magic.wizards.com/en/how-to-play) for the basics. Its [product guide](https://magic.wizards.com/en/product-guide) lists the **Starter Kit** first for learning the game: two ready-to-play decks and a play guide, made for teaching a friend.
-
-<!-- AFFILIATE: Magic: The Gathering Starter Kit -->
+Wizards of the Coast keeps a free [how to play page](https://magic.wizards.com/en/how-to-play) for the basics. Its [product guide](https://magic.wizards.com/en/product-guide) lists the **[Starter Kit](https://www.amazon.com/dp/B0C3T2XGND?tag=cubecommonw0a-20)** first for learning the game: two ready-to-play decks and a play guide, made for teaching a friend.
 
 Some local game stores also run **Magic Academy**, Wizards' beginner program. Its events teach the rules and deckbuilding, and the official page says everything you need is provided. Find a store with the [Wizards Store and Event Locator](https://locator.wizards.com/).
 

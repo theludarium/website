@@ -75,7 +75,7 @@ If the numbers move the right way, the plan is working, whatever the event resul
 
 ## Bring a copy
 
-Both WBC previews ask players to bring a copy of the game, and the Duel preview warns that players can be turned away if there are not enough. If you are buying, the publisher's pages for **[7 Wonders](https://www.rprod.com/en/games/7-wonders)** and **[7 Wonders Duel](https://www.rprod.com/en/games/7-wonders-duel)** are the place to start. <!-- AFFILIATE: 7 Wonders (second edition) and 7 Wonders Duel -->
+Both WBC previews ask players to bring a copy of the game, and the Duel preview warns that players can be turned away if there are not enough. If you are buying, start with **[7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20)** and **[7 Wonders Duel](https://www.amazon.com/dp/B014DMSTXK?tag=cubecommonw0a-20)** on Amazon.
 
 ## The people across the table
 

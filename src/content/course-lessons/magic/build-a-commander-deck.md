@@ -71,6 +71,4 @@ Many playgroups allow clearly marked stand-in cards so a player can test a card 
 
 If you would rather draft your Commander deck than build it, a [Commander cube](/articles/commander-cube/) lets a group draft multiplayer decks from one shared box. And when your table starts talking more than playing, our piece on [Commander politics](/articles/commander-politics/) is worth a read.
 
-If you want a starting point to build from instead of a blank page, any of the Foundations Commander decks from the first lesson makes a good base, and the [decklists are on the Magic site](https://magic.wizards.com/en/news/announcements/foundations-commander-decklists).
-
-<!-- AFFILIATE: Foundations Commander decks -->
+If you want a starting point to build from instead of a blank page, any of the [Foundations Commander decks](https://www.amazon.com/dp/B0GXCBW828?tag=cubecommonw0a-20) from the first lesson makes a good base, and the [decklists are on the Magic site](https://magic.wizards.com/en/news/announcements/foundations-commander-decklists).

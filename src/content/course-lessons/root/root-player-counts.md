@@ -58,7 +58,7 @@ Check the totals. Marquise, Eyrie, and Vagabond reach 22. Marquise, Alliance, an
 
 ## Filling an empty seat
 
-If you want a four-faction game with fewer people, the [Clockwork Expansion 2](https://ledergames.com/products/root-the-clockwork-expansion-2) adds automated bot factions that run themselves from a set of rules. It needs the Riverfolk or Underworld expansion to play. <!-- AFFILIATE: Root: The Clockwork Expansion 2 -->
+If you want a four-faction game with fewer people, the [Clockwork Expansion 2](https://www.amazon.com/dp/B0BQNDF2YV?tag=cubecommonw0a-20) adds automated bot factions that run themselves from a set of rules. It needs the Riverfolk or Underworld expansion to play.
 
 ## Choosing for your group
 

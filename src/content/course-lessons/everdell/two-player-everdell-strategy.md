@@ -65,9 +65,7 @@ With only two players, you can see every turn your opponent takes. Use it. When 
 
 The solo game against Rugwort, covered in the expansions lesson, is set up as a two-player game, and his workers block a Forest card and a basic location. It is a good way to practice two-player spaces without a partner. Year 3 is a real test.
 
-For couples who love the theme, [Everdell Duo](https://tycoongames.com/products/everdell-duo) is a separate standalone game for 1 or 2 players, built for the head-to-head game.
-
-<!-- AFFILIATE: Everdell Duo -->
+For couples who love the theme, [Everdell Duo](https://www.amazon.com/dp/B0D9KSDVDZ?tag=cubecommonw0a-20) is a separate standalone game for 1 or 2 players, built for the head-to-head game.
 
 <!-- AT OUR TABLE: one line on how two-player games at Levi's table differ from four-player ones, and which habit had to change. -->
 

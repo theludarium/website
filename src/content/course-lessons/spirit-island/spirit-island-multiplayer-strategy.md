@@ -70,8 +70,6 @@ Big events do exist. At Gen Con 2024, Greater Than Games ran three Spirit Island
 
 **Online,** the [digital Spirit Island](https://www.handelabra.com/spiritisland) from Handelabra runs on Steam, iOS, and Android, with online multiplayer. It is a handy way to practice a Spirit between game nights.
 
-<!-- AFFILIATE: Spirit Island digital edition (Handelabra) -->
-
 **Locally,** we could not find a store locator or organized play program on the publisher's site, so start with your local game store: ask whether anyone runs co-op nights. For rules questions, the publisher's Spirit Island page links the [Spirit Island Wiki](https://spiritislandwiki.com/index.php?title=Main_Page). Our guide on [how to start a play group](/articles/how-to-start-a-play-group/) walks through building your own table. If you are near Indianapolis, join the [Indianapolis list](/lounges/indianapolis/) for first word on local learn-to-play nights as The Ludarium grows.
 
 That is the end of the course. You can teach the game, read the Invader track, race the Fear Deck, grow a Spirit, choose a team, and climb the adversaries together. The game is the reason. The people around the Island are the point.

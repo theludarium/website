@@ -13,7 +13,7 @@ nextTeaser: "Level 2 begins with the midgame: the Heat cycle, cooling down on ti
 ---
 Heat's second rulebook, Advanced Play and Championship System, holds four modules you can add one at a time or all together. Then come the expansion boxes, each with new tracks and a new twist. This lesson covers player counts, the modules in the base box, and the first two expansions, Heavy Rain and Tunnel Vision.
 
-Everything up to the expansions section is in the base game, [Heat: Pedal to the Metal](https://www.daysofwonder.com/game/heat/). <!-- AFFILIATE: Heat: Pedal to the Metal -->
+Everything up to the expansions section is in the base game, [Heat: Pedal to the Metal](https://www.amazon.com/dp/B0BGXPZG4B?tag=cubecommonw0a-20).
 
 ## How does Heat change by player count?
 
@@ -68,7 +68,7 @@ Points come from the Hall of Fame after each race; [the endgame lesson](/academy
 
 ## Heat: Heavy Rain
 
-**[Heat: Heavy Rain](https://www.daysofwonder.com/game/heat-heavy-rain/)** adds a board with two tracks, Japan and Mexico, plus everything for one more player. Days of Wonder lists it for 1 to 7 players. Its new ideas:
+**[Heat: Heavy Rain](https://www.amazon.com/dp/B0CRSQLWL2?tag=cubecommonw0a-20)** adds a board with two tracks, Japan and Mexico, plus everything for one more player. Days of Wonder lists it for 1 to 7 players. Its new ideas:
 
 - **Flooded Spaces** on the Japan track. Start a round on one and shifting down costs 1 extra Heat.
 - **Chicanes:** two Corner Lines close together with the same Speed Limit.
@@ -76,20 +76,16 @@ Points come from the Hall of Fame after each race; [the endgame lesson](/academy
 - **Air Intake upgrades** with a new Super Cool symbol that moves Heat from your discard pile back to your Engine.
 - **A 1964 Championship season** of four Event cards.
 
-<!-- AFFILIATE: Heat: Heavy Rain -->
-
 ## Heat: Tunnel Vision
 
-**[Heat: Tunnel Vision](https://www.daysofwonder.com/game/heat-tunnel-vision/)** adds a board with Spain and the Netherlands, plus one more player set, also listed for 1 to 7 players. Its new ideas:
+**[Heat: Tunnel Vision](https://www.amazon.com/dp/B0DCM3M1T7?tag=cubecommonw0a-20)** adds a board with Spain and the Netherlands, plus one more player set, also listed for 1 to 7 players. Its new ideas:
 
 - **Tunnels** on the Spain track. While your car is in one, you cannot discard cards from your hand. Cooling down still works.
 - **Chicanes** and **Aggressive Legends,** as in Heavy Rain.
 - **Front Wing upgrades** with a Draft symbol: extra movement through empty track up to a car ahead. Unlike slipstream, it can carry you across the finish line.
 - **A 1965 Championship season.**
 
-<!-- AFFILIATE: Heat: Tunnel Vision -->
-
-Days of Wonder also lists two newer boxes: **[Heat: Rocky Roads](https://www.daysofwonder.com/game/heat-rocky-roads/)**, with South Africa and Germany tracks and a 1966 season, and **[Heat: Legends](https://www.daysofwonder.com/game/heat-legends/)**, with smarter automated drivers. Every expansion needs the base game. <!-- AFFILIATE: Heat: Rocky Roads and Heat: Legends -->
+Days of Wonder also lists two newer boxes: **[Heat: Rocky Roads](https://www.amazon.com/dp/B0GHBTFPGW?tag=cubecommonw0a-20)**, with South Africa and Germany tracks and a 1966 season, and **[Heat: Legends](https://www.amazon.com/dp/B0GTVG2L9Q?tag=cubecommonw0a-20)**, with smarter automated drivers. Every expansion needs the base game.
 
 ## How to choose
 

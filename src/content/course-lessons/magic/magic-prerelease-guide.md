@@ -47,8 +47,6 @@ A draft adds one step before building: choosing your cards from packs as they pa
 
 For four players, Wizards' [Pick-Two Draft](https://magic.wizards.com/en/formats/pick-two-draft) is faster: you take two cards from each pack instead of one, and end with about 42 cards. Recent sets sell a Draft Night box with everything a group of four needs; the [Star Trek product page](https://magic.wizards.com/en/products/star-trek) lists one.
 
-<!-- AFFILIATE: Draft Night (Pick-Two Draft kit for four players) -->
-
 ## How to pick cards
 
 - **Early picks: take the best card.** Strong removal and efficient creatures beat clever cards that need help.

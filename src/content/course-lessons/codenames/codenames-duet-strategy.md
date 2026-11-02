@@ -11,9 +11,7 @@ oneIdea: "Duet is a puzzle about pace and partial knowledge. You see half the ke
 tryThis: "Play three games of Duet at the standard nine turns. After each one, count how many words each clue found on average. If it is under two, your next goal is one more clue for three per game."
 nextTeaser: "Last, playing more: hosting a Codenames night, running a home tournament, playing online with friends far away, and finding a local table."
 ---
-[Codenames: Duet](https://www.czechgames.com/games/codenames-duet) is the cooperative member of the family, built for two and playable by more. The [versions and editions lesson](/academy/codenames/codenames-variants-and-editions/) introduced it. This lesson is for when you have beaten it a few times and want to beat it reliably, or on a tighter clock.
-
-<!-- AFFILIATE: Codenames: Duet -->
+[Codenames: Duet](https://www.amazon.com/dp/B0FJMNPGXM?tag=cubecommonw0a-20) is the cooperative member of the family, built for two and playable by more. The [versions and editions lesson](/academy/codenames/codenames-variants-and-editions/) introduced it. This lesson is for when you have beaten it a few times and want to beat it reliably, or on a tighter clock.
 
 The core numbers come from Czech Games Edition: a 5 by 5 grid, a shared key with two different sides, 9 agents and 3 assassins on each side, 15 agents to find in all, and 9 turns for the standard game, or 11 for a gentler one. A new edition came out in 2025, so check your rulebook against anything below marked as edition-specific.
 

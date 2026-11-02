@@ -21,9 +21,7 @@ Two ways. Be the first Monster to reach 20 Victory Points, or be the last Monste
 
 ## What is in the box?
 
-The [current edition of King of Tokyo](https://iellogames.com/jeux/king-of-tokyo/) has a board and cardboard figure for each Monster, with dials for Life and Victory Points. The Tokyo board has two places, Tokyo City and Tokyo Bay, and "Tokyo" means both. You also get 6 black dice, 2 green dice, Power cards, Energy cubes, and tokens.
-
-<!-- AFFILIATE: King of Tokyo -->
+The [current edition of King of Tokyo](https://link.amazon/B0goO6BQA) has a board and cardboard figure for each Monster, with dials for Life and Victory Points. The Tokyo board has two places, Tokyo City and Tokyo Bay, and "Tokyo" means both. You also get 6 black dice, 2 green dice, Power cards, Energy cubes, and tokens.
 
 ## How do you set up?
 

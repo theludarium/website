@@ -54,7 +54,7 @@ The 2026 qualifiers were open rounds listed in the Gen Con event catalog, so you
 
 ## Online play
 
-[Dune: Imperium Digital](https://www.direwolfdigital.com/dune-imperium-digital/) is Dire Wolf's own version on Steam, mobile, and Xbox. You can play online against other people, or against AI and House Hagal. Dire Wolf announced on June 9, 2026 that [Uprising had arrived](https://news.direwolfdigital.com/uprising-digital-is-now-available/) on Steam and mobile, with Xbox to follow. <!-- AFFILIATE: Dune: Imperium Digital -->
+[Dune: Imperium Digital](https://www.direwolfdigital.com/dune-imperium-digital/) is Dire Wolf's own version on Steam, mobile, and Xbox. You can play online against other people, or against AI and House Hagal. Dire Wolf announced on June 9, 2026 that [Uprising had arrived](https://news.direwolfdigital.com/uprising-digital-is-now-available/) on Steam and mobile, with Xbox to follow.
 
 Digital play is the fastest way to get many games in. It also does the bookkeeping, so you can watch your decisions instead of your tokens.
 

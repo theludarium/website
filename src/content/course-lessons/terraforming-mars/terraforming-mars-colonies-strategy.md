@@ -78,4 +78,4 @@ Each generation, ask:
 2. Where do I have colonies, and where do my rivals?
 3. Can I build a colony this generation, while it still has many trades to pay?
 
-Colonies rewards players who plan a generation ahead. Know where you will trade next generation, and build where your rivals will want to trade. Get it [from Stronghold Games](https://strongholdgames.com/our-games/terraforming-mars-colonies/). <!-- AFFILIATE: Terraforming Mars: Colonies -->
+Colonies rewards players who plan a generation ahead. Know where you will trade next generation, and build where your rivals will want to trade. Get [Colonies](https://www.amazon.com/dp/B07JJYYZKD?tag=cubecommonw0a-20) on Amazon.

@@ -17,9 +17,7 @@ This lesson follows the current core rulebook (version 23.08) and doubles as you
 
 ## What is in the box?
 
-[Spirit Island](https://shop.greaterthangames.com/products/spirit-island) plays 1 to 4, ages 14 and up. The rulebook puts a game at about 90 to 120 minutes once you know it. You get an Invader board, four Island boards, eight Spirits with four Unique Power Cards each, Power, Fear, Invader, and Blight cards, three adversaries, four scenarios, and the pieces.
-
-<!-- AFFILIATE: Spirit Island -->
+[Spirit Island](https://www.amazon.com/dp/B01MUHP51S?tag=cubecommonw0a-20) plays 1 to 4, ages 14 and up. The rulebook puts a game at about 90 to 120 minutes once you know it. You get an Invader board, four Island boards, eight Spirits with four Unique Power Cards each, Power, Fear, Invader, and Blight cards, three adversaries, four scenarios, and the pieces.
 
 ## How do you set up?
 

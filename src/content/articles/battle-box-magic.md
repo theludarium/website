@@ -37,7 +37,7 @@ DeMars's stated target is that most cards sit at the power of an uncommon you wo
 
 ## How do you build a 150-card battle box?
 
-Start with the land stack, because it decides your color commitments. Ten lands per player: five basics plus five duals is the default. If you run ally-color duals (the gain lands, or the Guildgates, both cheap), you have made the box slightly easier to play two allied colors than two enemy colors, and your spell choices should accept that. Some boxes use the ten Thriving lands <!-- AFFILIATE --> plus basics instead so any color pair works equally.
+Start with the land stack, because it decides your color commitments. Ten lands per player: five basics plus five duals is the default. If you run ally-color duals (the gain lands, or the Guildgates, both cheap), you have made the box slightly easier to play two allied colors than two enemy colors, and your spell choices should accept that. Some boxes use the ten Thriving lands plus basics instead so any color pair works equally.
 
 Then fill the shared pile. A house breakdown that has worked for us, for 150 cards: <!-- EDITOR: confirm this is our actual house split -->
 

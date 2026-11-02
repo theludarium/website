@@ -68,8 +68,6 @@ It scores its glass position, temple tiles, guardians, and cards as you would. I
 
 The rulebook points to a free four-chapter solo campaign, The Search for Professor Kutil, at [arnak.game](https://arnak.game). Each chapter has its own rules and goals, and it plays with a companion web app or print-and-play files.
 
-For a longer story, [The Missing Expedition](https://czechgames.com/games/lost-ruins-of-arnak-the-missing-expedition) expansion is a six-chapter campaign for one player or two working together. The [expansions lesson](/academy/lost-ruins-of-arnak/lost-ruins-of-arnak-expansions/) covers what else is in it.
-
-<!-- AFFILIATE: Lost Ruins of Arnak: The Missing Expedition -->
+For a longer story, [The Missing Expedition](https://www.amazon.com/dp/B0BZJCKX69?tag=cubecommonw0a-20) expansion is a six-chapter campaign for one player or two working together. The [expansions lesson](/academy/lost-ruins-of-arnak/lost-ruins-of-arnak-expansions/) covers what else is in it.
 
 Solo play can sharpen your game for the table, not replace it. Our list of the [best solo board games](/articles/best-solo-board-games/) makes that case for many games beyond this one.

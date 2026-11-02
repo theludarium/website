@@ -68,9 +68,7 @@ You will almost always have too many cards. Cut in this order:
 
 Use paper stand-ins in sleeves, as in the [upgrades lesson](/academy/lorcana/lorcana-deck-upgrades/). Play five games and keep a tally: turns with no ink, turns with nothing to play, games where a threat beat you. Each tally mark points at a fix.
 
-When the deck is ready, buy the singles you need. If you want to open packs as well, [Hyperia City](https://www.disneylorcana.com/en-US/product/hyperia-city) booster packs are the newest cards and the ones likely to stay Core legal the longest.
-
-<!-- AFFILIATE: Disney Lorcana Hyperia City booster packs -->
+When the deck is ready, buy the singles you need. If you want to open packs as well, [Hyperia City](https://www.amazon.com/dp/B0HFPF8CPH?tag=cubecommonw0a-20) booster packs are the newest cards and the ones likely to stay Core legal the longest.
 
 <!-- AT OUR TABLE: one line on the first deck Levi built from scratch, or the plan sentence he would hand a new deck builder. -->
 

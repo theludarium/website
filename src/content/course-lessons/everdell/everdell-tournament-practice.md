@@ -24,8 +24,6 @@ If WBC is not in reach, a local store's tournament or a group of friends playing
 
 **1. Volume.** Play as many base-game Everdell games as you can, at three or four players where possible. The [digital edition](https://direwolfdigital.com/everdell/) plays fast, scores for you, and has opponents at any hour. Use it for reps, and track your score in each game.
 
-<!-- AFFILIATE: Everdell digital edition -->
-
 **2. The clock.** At least one session a week, play a four-player game across a real table, base game only, with a two-hour limit. Use the tournament habits from the tournaments lesson: plan on others' turns, make each gain and payment clear, and remind each other of easy-to-miss rules like the 2 Meadow cards at the summer prepare.
 
 **3. Drills.** Ten minutes, two or three times a week:

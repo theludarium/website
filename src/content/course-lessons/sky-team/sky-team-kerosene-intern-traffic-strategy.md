@@ -61,6 +61,5 @@ The Axis resolves as soon as its second die is placed, and the Engines decide th
 
 ## Where to fly them
 
-Fly the Routine Landings in order and these four rules arrive one at a time. If you are still choosing a copy, the base game from [Le Scorpion Masqué](https://www.scorpionmasque.com/en/sky-team) holds every one of them in the closed compartment of the box.
+Fly the Routine Landings in order and these four rules arrive one at a time. If you are still choosing a copy, the [base game](https://www.amazon.com/dp/B0CHD8RCSJ?tag=cubecommonw0a-20) from Le Scorpion Masqué holds every one of them in the closed compartment of the box.
 
-<!-- AFFILIATE: Sky Team -->

@@ -27,7 +27,7 @@ Our guide to [board games for couples](/articles/board-games-for-couples/) cover
 
 ## Solo play with the Automa
 
-The base box includes the Automa, a solo opponent driven by a small deck of cards. Per the official FAQ, you always take the first turn of each round, and the Automa always takes the last. It competes with you for the round goals and for birds on the tray. The [Wingspan page](https://stonemaiergames.com/games/wingspan/) at Stonemaier has the base game and its rules. <!-- AFFILIATE: Wingspan base game -->
+The [base box](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) includes the Automa, a solo opponent driven by a small deck of cards. Per the official FAQ, you always take the first turn of each round, and the Automa always takes the last. It competes with you for the round goals and for birds on the tray. The [Wingspan page](https://stonemaiergames.com/games/wingspan/) at Stonemaier has the base game and its rules.
 
 Solo is also a fine way to practice before you teach. Our list of [solo board games](/articles/best-solo-board-games/) puts Wingspan in context with others.
 
@@ -43,33 +43,33 @@ You do not need a new box to change the game.
 
 ## The European Expansion
 
-The **[European Expansion](https://stonemaiergames.com/games/wingspan/wingspan-european-expansion/)** adds 81 birds, 5 bonus cards, and 5 goal tiles, all shuffled into the base game. Its new idea is the round-end power: 20 of its birds have teal powers that trigger at the end of each round. It needs the base game.
+The **[European Expansion](https://www.amazon.com/dp/B07YQ6FS8G?tag=cubecommonw0a-20)** adds 81 birds, 5 bonus cards, and 5 goal tiles, all shuffled into the base game. Its new idea is the round-end power: 20 of its birds have teal powers that trigger at the end of each round. It needs the base game.
 
-It is the gentlest first expansion. The game plays the same way, with more variety and a new kind of timing to think about. <!-- AFFILIATE: Wingspan European Expansion -->
+It is the gentlest first expansion. The game plays the same way, with more variety and a new kind of timing to think about.
 
 ## The Oceania Expansion
 
-The **[Oceania Expansion](https://stonemaiergames.com/games/wingspan/wingspan-oceania-expansion/)** adds 95 birds and a new food, nectar, along with new food dice and new player mats. You need those mats when you use Oceania's birds or nectar. Nectar left in your supply is discarded at the end of each round, and at game end the player with the most nectar spent in each habitat scores 5 points, with 2 for second. It also adds birds with yellow game-end powers and new Automa variants. It needs the base game.
+The **[Oceania Expansion](https://www.amazon.com/dp/B08LZSZXF2?tag=cubecommonw0a-20)** adds 95 birds and a new food, nectar, along with new food dice and new player mats. You need those mats when you use Oceania's birds or nectar. Nectar left in your supply is discarded at the end of each round, and at game end the player with the most nectar spent in each habitat scores 5 points, with 2 for second. It also adds birds with yellow game-end powers and new Automa variants. It needs the base game.
 
-It is a bigger change than the European Expansion: new mats, a new food, and a new race at the end of the game. <!-- AFFILIATE: Wingspan Oceania Expansion -->
+It is a bigger change than the European Expansion: new mats, a new food, and a new race at the end of the game.
 
 ## Wingspan Asia
 
-**[Wingspan Asia](https://stonemaiergames.com/games/wingspan/wingspan-asia/)** is a standalone game for 1 or 2 players, with 90 birds and a competitive two-player Duet mode played on a shared map. It also adds a Flock mode for 6 or 7 players, which needs the player components from the base game.
+**[Wingspan Asia](https://www.amazon.com/dp/B0BH72GXZ5?tag=cubecommonw0a-20)** is a standalone game for 1 or 2 players, with 90 birds and a competitive two-player Duet mode played on a shared map. It also adds a Flock mode for 6 or 7 players, which needs the player components from the base game.
 
-It is the box for couples who play mostly at two, and for groups that sometimes hit six or seven. <!-- AFFILIATE: Wingspan Asia -->
+It is the box for couples who play mostly at two, and for groups that sometimes hit six or seven.
 
 ## The Americas Expansion
 
-The **[Americas Expansion](https://stonemaiergames.com/games/wingspan/wingspan-americas-expansion/)** is the newest, released in 2026. It adds 111 birds from Mexico, Central and South America, and the Caribbean, plus 40 small hummingbird cards and a shared hummingbird garden. After you activate a habitat, you take a hummingbird action: attract a hummingbird from the garden for its benefit, or return one to move up the hummingbird tracks, which score at game end. Stonemaier lists it at 60 to 90 minutes for 1 to 5 players. It needs either the base game or Wingspan Asia.
+The **[Americas Expansion](https://www.amazon.com/dp/B0GK2HYLTY?tag=cubecommonw0a-20)** is the newest, released in 2026. It adds 111 birds from Mexico, Central and South America, and the Caribbean, plus 40 small hummingbird cards and a shared hummingbird garden. After you activate a habitat, you take a hummingbird action: attract a hummingbird from the garden for its benefit, or return one to move up the hummingbird tracks, which score at game end. Stonemaier lists it at 60 to 90 minutes for 1 to 5 players. It needs either the base game or Wingspan Asia.
 
-It adds a new step to every habitat action. Save it for a group that knows the game well. <!-- AFFILIATE: Wingspan Americas Expansion -->
+It adds a new step to every habitat action. Save it for a group that knows the game well.
 
 ## Extras worth knowing
 
-- **[Wingspan Pocket](https://stonemaiergames.com/games/wingspan/wingspan-pocket/)** is a separate, lighter game in a small box for 1 to 5 players, about 25 to 35 minutes. It is not an expansion, and its cards do not mix with Wingspan. A good fit for travel or a shorter night. <!-- AFFILIATE: Wingspan Pocket -->
-- **[Promo packs and accessories](https://stonemaiergames.com/games/wingspan/accessories/)** include six fan-designed bird packs of 25 birds each, and vision-friendly versions of the bird cards, built to be easier to read. <!-- AFFILIATE: Wingspan fan-designed bird promo packs and vision-friendly cards -->
-- **[The Nesting Box](https://stonemaiergames.com/games/wingspan/wingspan-nesting-box/)** is a storage box built to hold every Wingspan release. It adds no gameplay. <!-- AFFILIATE: Wingspan Nesting Box -->
+- **[Wingspan Pocket](https://www.amazon.com/dp/B0H7YNXCYG?tag=cubecommonw0a-20)** is a separate, lighter game in a small box for 1 to 5 players, about 25 to 35 minutes. It is not an expansion, and its cards do not mix with Wingspan. A good fit for travel or a shorter night.
+- **[Promo packs and accessories](https://stonemaiergames.com/games/wingspan/accessories/)** include six fan-designed bird packs of 25 birds each, and vision-friendly versions of the bird cards, built to be easier to read.
+- **[The Nesting Box](https://www.amazon.com/dp/B0BRJVZ17L?tag=cubecommonw0a-20)** is a storage box built to hold every Wingspan release. It adds no gameplay.
 
 ## Which Wingspan expansion should you get first?
 

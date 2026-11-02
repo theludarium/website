@@ -27,7 +27,7 @@ If your group likes planning and close rivalry, play at 3 or 4. If it likes a bi
 
 The second edition rulebook covers 3 to 7 players only. For two, the publisher's answer is 7 Wonders Duel, a separate game with its own cards and board, built for exactly two. Everything in this course's Duel sections applies.
 
-**[7 Wonders](https://www.rprod.com/en/games/7-wonders)** and **[7 Wonders Duel](https://www.rprod.com/en/games/7-wonders-duel)** each stand alone, and owning both covers any count from 2 to 7. <!-- AFFILIATE: 7 Wonders (second edition) and 7 Wonders Duel -->
+**[7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20)** and **[7 Wonders Duel](https://www.amazon.com/dp/B014DMSTXK?tag=cubecommonw0a-20)** each stand alone, and owning both covers any count from 2 to 7.
 
 ## Variants already in the box
 
@@ -41,13 +41,13 @@ The publisher's 7 Wonders page also posts rules for promo extras, such as additi
 
 All four of these add to the base game, and each plays 3 to 7.
 
-**[Leaders](https://www.rprod.com/en/games/7-wonders/leaders)** adds 49 Leader cards, famous figures who give each player a starting strategy, plus two new Wonders, Rome and Abu Simbel. The publisher calls it very simple to add, which makes it the natural first expansion. <!-- AFFILIATE: 7 Wonders: Leaders -->
+**[Leaders](https://www.amazon.com/dp/B08FRTVGFV?tag=cubecommonw0a-20)** adds 49 Leader cards, famous figures who give each player a starting strategy, plus two new Wonders, Rome and Abu Simbel. The publisher calls it very simple to add, which makes it the natural first expansion.
 
-**[Cities](https://www.rprod.com/en/games/7-wonders/cities)** adds 42 black Cities cards with mercenaries, spies, and diplomats, two Wonders (Byzantium and Petra), debts, and diplomacy. It also adds an option to play in two teams at 4 or 6 players. It suits groups who want more interaction. <!-- AFFILIATE: 7 Wonders: Cities -->
+**[Cities](https://www.amazon.com/dp/B08F5MD2Y6?tag=cubecommonw0a-20)** adds 42 black Cities cards with mercenaries, spies, and diplomats, two Wonders (Byzantium and Petra), debts, and diplomacy. It also adds an option to play in two teams at 4 or 6 players. It suits groups who want more interaction.
 
-**[Armada](https://www.rprod.com/en/games/7-wonders/armada)** adds naval play: Shipyard boards with four naval tracks, Armada cards added to the Age decks, Island cards, and a new Wonder, Siracusa. It has a team option at 4 and 6 too. The publisher describes it as changing the game a lot, so save it for a group that knows the base game well. <!-- AFFILIATE: 7 Wonders: Armada -->
+**[Armada](https://www.amazon.com/dp/B08FRSYGXM?tag=cubecommonw0a-20)** adds naval play: Shipyard boards with four naval tracks, Armada cards added to the Age decks, Island cards, and a new Wonder, Siracusa. It has a team option at 4 and 6 too. The publisher describes it as changing the game a lot, so save it for a group that knows the base game well.
 
-**[Edifice](https://www.rprod.com/en/games/7-wonders/edifice)** adds three shared projects, one per Age, that players can join for rewards, with a penalty for those who stay out. It brings two Wonders, Ur and Carthago, and the publisher says it adds no playing time. <!-- AFFILIATE: 7 Wonders: Edifice -->
+**[Edifice](https://www.amazon.com/dp/B0BSR43PY1?tag=cubecommonw0a-20)** adds three shared projects, one per Age, that players can join for rewards, with a penalty for those who stay out. It brings two Wonders, Ur and Carthago, and the publisher says it adds no playing time.
 
 One caution: the publisher's FAQ says not to mix components from the first and second editions. Check which edition you own before buying an expansion.
 
@@ -57,15 +57,15 @@ One caution: the publisher's FAQ says not to mix components from the first and s
 
 Both are for 2 players, list about 30 minutes, and can be played together.
 
-**[Pantheon](https://www.rprod.com/en/games/7-wonders-duel/pantheon)** adds Divinities from five mythologies, chosen in Age I and called on in Ages II and III, plus a Pantheon board, two Wonders, three Progress tokens, and Grand Temples that replace the guilds in Age III. <!-- AFFILIATE: 7 Wonders Duel: Pantheon -->
+**[Pantheon](https://www.amazon.com/dp/B01K9MNAOG?tag=cubecommonw0a-20)** adds Divinities from five mythologies, chosen in Age I and called on in Ages II and III, plus a Pantheon board, two Wonders, three Progress tokens, and Grand Temples that replace the guilds in Age III.
 
-**[Agora](https://www.rprod.com/en/games/7-wonders-duel/agora)** adds Senators, a Senate board with six chambers, Conspiracy cards, two Wonders, two Progress tokens, and a fourth way to win, political supremacy. <!-- AFFILIATE: 7 Wonders Duel: Agora -->
+**[Agora](https://www.amazon.com/dp/B08PQ17FG1?tag=cubecommonw0a-20)** adds Senators, a Senate board with six chambers, Conspiracy cards, two Wonders, two Progress tokens, and a fourth way to win, political supremacy.
 
 ## Spin-offs
 
-**[7 Wonders Architects](https://www.rprod.com/en/games/7-wonders-architects)** is a lighter family game for 2 to 7 players, ages 8 and up, in about 25 minutes. Each player builds one Wonder, stage by stage. It is a good bridge for younger players. <!-- AFFILIATE: 7 Wonders Architects -->
+**[7 Wonders Architects](https://www.amazon.com/dp/B09FLT9JMM?tag=cubecommonw0a-20)** is a lighter family game for 2 to 7 players, ages 8 and up, in about 25 minutes. Each player builds one Wonder, stage by stage. It is a good bridge for younger players.
 
-**[7 Wonders Dice](https://www.rprod.com/en/games/7-wonders-dice)** is a shake-and-write take (the publisher's term) for 2 to 7 players, with a shared dice box and a city board for each player. <!-- AFFILIATE: 7 Wonders Dice -->
+**[7 Wonders Dice](https://www.amazon.com/dp/B0FS1B5LC4?tag=cubecommonw0a-20)** is a shake-and-write take (the publisher's term) for 2 to 7 players, with a shared dice box and a city board for each player.
 
 ## How to choose
 

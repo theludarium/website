@@ -66,5 +66,3 @@ Public data helps here. Sites that collect results from MTG Arena drafts publish
 Build, then look at your sideboard one more time. The card you wish you had in game one is often already sitting there. Our [card drafting explainer](/articles/card-drafting-explained/) has more on signals, and once you are drafting a set well, a cube night will feel like a new game with the same muscles.
 
 Draft nights at home work well with Wizards' Pick-Two Draft rules and a Draft Night box for four players, listed on each recent set's [product page](https://magic.wizards.com/en/products).
-
-<!-- AFFILIATE: Draft Night box (Pick-Two Draft for four players) -->

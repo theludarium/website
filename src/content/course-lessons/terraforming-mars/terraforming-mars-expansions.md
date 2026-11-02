@@ -46,27 +46,27 @@ Cards pass clockwise in even-numbered generations and counterclockwise in odd on
 
 ## Which expansion first?
 
-Here is one path, from the lightest change to the heaviest. Each needs [the base game](https://strongholdgames.com/our-games/terraforming-mars/). For whether any expansion is worth buying at all, see [when expansions are worth it](/articles/expansions-worth-it/). <!-- AFFILIATE: Terraforming Mars base game -->
+Here is one path, from the lightest change to the heaviest. Each needs [the base game](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20). For whether any expansion is worth buying at all, see [when expansions are worth it](/articles/expansions-worth-it/).
 
-**[Prelude](https://strongholdgames.com/our-games/terraforming-mars-prelude/)** is the usual first pick. During setup, each player is dealt 4 Prelude cards, keeps 2, and plays them once corporations are revealed and cards are paid for. They jumpstart your engine or the terraforming. It has the highest rating of the expansions on the FryxGames site, and reviewers there say it speeds the game up. It also adds 5 corporations and 7 project cards. <!-- AFFILIATE: Terraforming Mars: Prelude -->
+**[Prelude](https://www.amazon.com/dp/B07F4J9MFZ?tag=cubecommonw0a-20)** is the usual first pick. During setup, each player is dealt 4 Prelude cards, keeps 2, and plays them once corporations are revealed and cards are paid for. They jumpstart your engine or the terraforming. It has the highest rating of the expansions on the FryxGames site, and reviewers there say it speeds the game up. It also adds 5 corporations and 7 project cards.
 
-**[Hellas & Elysium](https://strongholdgames.com/our-games/terraforming-mars-hellas-elysium/)** is a double-sided board that replaces the base map. Each side shows a new region of Mars with new placement bonuses, milestones, and awards. It adds variety without changing how a turn works. <!-- AFFILIATE: Terraforming Mars: Hellas & Elysium -->
+**[Hellas & Elysium](https://www.amazon.com/dp/B06XDW7RSY?tag=cubecommonw0a-20)** is a double-sided board that replaces the base map. Each side shows a new region of Mars with new placement bonuses, milestones, and awards. It adds variety without changing how a turn works.
 
-**[Venus Next](https://strongholdgames.com/our-games/terraforming-mars-venus-next/)** adds a Venus track, floaters, and 49 project cards. Venus is not needed to end the game. It also adds a phase after production where the first player raises a parameter for the World Government, with no TR for anyone, which speeds the game up. <!-- AFFILIATE: Terraforming Mars: Venus Next -->
+**[Venus Next](https://www.amazon.com/dp/B0777M969L?tag=cubecommonw0a-20)** adds a Venus track, floaters, and 49 project cards. Venus is not needed to end the game. It also adds a phase after production where the first player raises a parameter for the World Government, with no TR for anyone, which speeds the game up.
 
-**[Colonies](https://strongholdgames.com/our-games/terraforming-mars-colonies/)** adds moons where you build colonies and send trade fleets for resources. It adds a lot of player interaction. <!-- AFFILIATE: Terraforming Mars: Colonies -->
+**[Colonies](https://www.amazon.com/dp/B07JJYYZKD?tag=cubecommonw0a-20)** adds moons where you build colonies and send trade fleets for resources. It adds a lot of player interaction.
 
-**[Turmoil](https://strongholdgames.com/our-games/terraforming-mars-turmoil/)** is the most advanced. Players place delegates to decide which political party rules each generation, global events are visible three generations ahead, and everyone loses 1 TR each generation. It adds many rules and makes the game longer. <!-- AFFILIATE: Terraforming Mars: Turmoil -->
+**[Turmoil](https://www.amazon.com/dp/B07VHYNSGJ?tag=cubecommonw0a-20)** is the most advanced. Players place delegates to decide which political party rules each generation, global events are visible three generations ahead, and everyone loses 1 TR each generation. It adds many rules and makes the game longer.
 
 ## Newer additions
 
-FryxGames has added more since. **[Prelude 2](https://fryxgames.se/product/terraforming-mars-prelude-2/)** needs both the base game and Prelude, and most of its cards tie into the other expansions. **[Amazonis & Vastitas](https://fryxgames.se/product/terraforming-mars-amazonis-vastitas/)** and **[Utopia & Cimmeria](https://fryxgames.se/product/terraforming-mars-utopia-cimmeria/)** are more double-sided maps; FryxGames says Amazonis suits longer games and 4 or 5 players. **[Milestones & Awards](https://fryxgames.se/product/terraforming-mars-milestones-awards/)** lets you randomize or choose the five of each for every game. <!-- AFFILIATE: Terraforming Mars: Prelude 2, Amazonis & Vastitas, Utopia & Cimmeria, Milestones & Awards -->
+FryxGames has added more since. **[Prelude 2](https://www.amazon.com/dp/B0DFMLV9ZD?tag=cubecommonw0a-20)** needs both the base game and Prelude, and most of its cards tie into the other expansions. **[Amazonis & Vastitas](https://www.amazon.com/dp/B0DFMLP8WJ?tag=cubecommonw0a-20)** and **[Utopia & Cimmeria](https://www.amazon.com/dp/B0DK4311YS?tag=cubecommonw0a-20)** are more double-sided maps; FryxGames says Amazonis suits longer games and 4 or 5 players. **[Milestones & Awards](https://www.amazon.com/dp/B0DJDX61G1?tag=cubecommonw0a-20)** lets you randomize or choose the five of each for every game.
 
-For solo players, **[Automa](https://fryxgames.se/product/terraforming-mars-automa/)** swaps the race against the clock for rival corporations run by an algorithm and special cards. <!-- AFFILIATE: Terraforming Mars: Automa -->
+For solo players, **[Automa](https://www.amazon.com/dp/B0DFMPDTVN?tag=cubecommonw0a-20)** swaps the race against the clock for rival corporations run by an algorithm and special cards.
 
 ## Spin-offs
 
-Two separate games use the same world with faster rules. **[Ares Expedition](https://strongholdgames.com/our-games/terraforming-mars-ares-expedition/)** is a card game for 1 to 4 players, about an hour, where players choose phases and act at the same time. **[The Dice Game](https://strongholdgames.com/our-games/terraforming-mars-the-dice-game/)** plays 1 to 4 in about 45 minutes. <!-- AFFILIATE: Terraforming Mars: Ares Expedition; Terraforming Mars: The Dice Game -->
+Two separate games use the same world with faster rules. **[Ares Expedition](https://www.amazon.com/dp/B08QXCM2MV?tag=cubecommonw0a-20)** is a card game for 1 to 4 players, about an hour, where players choose phases and act at the same time. **[The Dice Game](https://www.amazon.com/dp/B0CGMM1ZKN?tag=cubecommonw0a-20)** plays 1 to 4 in about 45 minutes.
 
 ## How to choose
 

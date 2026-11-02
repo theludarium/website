@@ -15,7 +15,7 @@ When a new set comes out, stores hold events where you play with the new cards b
 
 ## Release events, and OP-18
 
-Bandai's next main set, **[OP-18, The Dominance of God](https://en.onepiece-cardgame.com/products/op18.html)**, releases on November 20, 2026. Its store celebration is the **4th Anniversary Event**, running at local stores from November 20 to December 17, 2026, with player applications opening in Bandai TCG+ on November 6. Each store chooses the format: constructed, sealed, or Standard Regulation. Participants receive event prizes, including a promo card. <!-- AFFILIATE: ONE PIECE CARD GAME Booster Pack OP-18 The Dominance of God -->
+Bandai's next main set, **[OP-18, The Dominance of God](https://en.onepiece-cardgame.com/products/op18.html)**, releases on November 20, 2026. Its store celebration is the **4th Anniversary Event**, running at local stores from November 20 to December 17, 2026, with player applications opening in Bandai TCG+ on November 6. Each store chooses the format: constructed, sealed, or Standard Regulation. Participants receive event prizes, including a promo card.
 
 Ask your store which format it is running before you go. If it is constructed, bring your deck. If it is sealed, read on.
 

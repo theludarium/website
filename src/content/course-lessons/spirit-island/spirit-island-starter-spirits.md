@@ -80,6 +80,5 @@ The Power Progression is for introductory games. Once your table knows the turn,
 
 The other four Spirits in the box are not on the rulebook's low-complexity list, so save them for later games. One of them, A Spread of Rampant Green, is named in the rulebook alongside Vital Strength as a Spirit that can prevent Ravages.
 
-If you want more beginner-friendly Spirits, [Horizons of Spirit Island](https://shop.greaterthangames.com/products/horizons-of-spirit-island) is a standalone game for 1 to 3 players, ages 12 and up. The publisher describes its five Spirits as easy to learn, and the box includes Power Progression cards and works with the rest of the Spirit Island line.
+If you want more beginner-friendly Spirits, [Horizons of Spirit Island](https://www.amazon.com/dp/B0BBSHZFLB?tag=cubecommonw0a-20) is a standalone game for 1 to 3 players, ages 12 and up. The publisher describes its five Spirits as easy to learn, and the box includes Power Progression cards and works with the rest of the Spirit Island line.
 
-<!-- AFFILIATE: Horizons of Spirit Island -->

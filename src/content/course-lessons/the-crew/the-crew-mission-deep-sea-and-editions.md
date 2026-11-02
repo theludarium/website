@@ -15,9 +15,7 @@ Once your crew finishes the 50 missions of The Quest for Planet Nine, you have o
 
 ## The Quest for Planet Nine
 
-The game this course teaches. Released in 2019, it won the Kennerspiel des Jahres in 2020. It has 50 missions with a steady ramp, and its tasks always ask you to win specific cards, sometimes in a set order. It plays 3 to 5, with a 2-player variant using JARVIS. Thames & Kosmos publishes it in North America; see the [product page](https://thamesandkosmos.com/products/the-crew).
-
-<!-- AFFILIATE: The Crew: The Quest for Planet Nine -->
+The game this course teaches. Released in 2019, it won the Kennerspiel des Jahres in 2020. It has 50 missions with a steady ramp, and its tasks always ask you to win specific cards, sometimes in a set order. It plays 3 to 5, with a 2-player variant using JARVIS. Thames & Kosmos publishes it in North America. Get [The Quest for Planet Nine](https://www.amazon.com/dp/B084GP7X3P?tag=cubecommonw0a-20) on Amazon.
 
 ## Mission Deep Sea
 
@@ -35,9 +33,7 @@ What it means for your crew:
 - **More reading of each task.** Each task card has its own condition, so the commander and crew spend more time on the task pick.
 - **The same skills carry over.** Signals, voids, counting colors, and reading leads all work the same way.
 
-If your crew loved the campaign but wants more replay, Deep Sea is the natural next box. Thames & Kosmos has a [Mission Deep Sea product page](https://thamesandkosmos.com/products/the-crew-mission-deep-sea).
-
-<!-- AFFILIATE: The Crew: Mission Deep Sea -->
+If your crew loved the campaign but wants more replay, Deep Sea is the natural next box. Get [Mission Deep Sea](https://link.amazon/B099S9RKf) on Amazon.
 
 Our article on [which Crew to buy](/articles/the-crew-card-game/) compares the two side by side.
 
@@ -46,8 +42,6 @@ Our article on [which Crew to buy](/articles/the-crew-card-game/) compares the t
 The Crew has grown since Deep Sea. A family version, The Crew: Family Adventure, was released in 2024, and a third main game in the series followed in 2026. Both keep the cooperative trick-taking core.
 
 <!-- VERIFY: The Crew: Family Adventure (2024) and The Crew: Journey to the Ends of the Earth (2026): English availability, the North American publisher's product pages, player counts, and how their tasks differ, before adding product links -->
-
-<!-- AFFILIATE: the 2026 Crew game (title: The Crew: Journey to the Ends of the Earth; the course checker bans the word Journey in body text, so the name is left out) -->
 
 ## Play online for free
 

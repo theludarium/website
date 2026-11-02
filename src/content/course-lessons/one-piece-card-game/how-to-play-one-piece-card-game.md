@@ -29,9 +29,9 @@ A starter deck gives you all three. That is the main reason to begin with one: a
 
 The two newest starters are the ones this course uses as its examples. Both are due in December 2026, and both list a suggested price of about $17.
 
-**[STARTER DECK -The Desert Princess and the Pirates- (ST-37)](https://en.onepiece-cardgame.com/products/st37.html)** is a Red/Blue deck set around the Straw Hat crew and the Alabasta story. Bandai describes it as a deck that wins by attacking again and again. If you like being the one who pushes, start here. <!-- AFFILIATE: STARTER DECK -The Desert Princess and the Pirates- [ST-37] -->
+**[STARTER DECK -The Desert Princess and the Pirates- (ST-37)](https://en.onepiece-cardgame.com/products/st37.html)** is a Red/Blue deck set around the Straw Hat crew and the Alabasta story. Bandai describes it as a deck that wins by attacking again and again. If you like being the one who pushes, start here.
 
-**[STARTER DECK -Baroque Works- (ST-38)](https://en.onepiece-cardgame.com/products/st38.html)** is a Blue/Black deck built around the villains of the same arc. Bandai describes it as a deck that cycles through your hand and knocks out the other player's Characters. If you like control and patience, start here. <!-- AFFILIATE: STARTER DECK -Baroque Works- [ST-38] -->
+**[STARTER DECK -Baroque Works- (ST-38)](https://en.onepiece-cardgame.com/products/st38.html)** is a Blue/Black deck built around the villains of the same arc. Bandai describes it as a deck that cycles through your hand and knocks out the other player's Characters. If you like control and patience, start here.
 
 Each one contains a 51-card constructed deck (the Leader plus 50), 10 DON!! cards, a 3-card bonus pack, and a playsheet that shows where each card goes. Because the two decks come from the same story, they make a natural pair: buy one each with a friend and play them against each other.
 
@@ -41,9 +41,9 @@ Each one contains a 51-card constructed deck (the Leader plus 50), 10 DON!! card
 
 You do not have to wait. Any current starter deck follows the same rules: a Leader, 50 cards, and 10 DON!!.
 
-If two of you are learning together, a two-deck learning set is the easiest start. The **[Set Sail Deck Set (SD-01)](https://en.onepiece-cardgame.com/products/sd01.html)** has two constructed decks, each with its own 10 DON!!, one OP-17 booster pack, a two-player playsheet, two guide books, and two deck cases, at a suggested price of about $25. <!-- AFFILIATE: Set Sail Deck Set [SD-01] -->
+If two of you are learning together, a two-deck learning set is the easiest start. The **[Set Sail Deck Set (SD-01)](https://en.onepiece-cardgame.com/products/sd01.html)** has two constructed decks, each with its own 10 DON!!, one OP-17 booster pack, a two-player playsheet, two guide books, and two deck cases, at a suggested price of about $25.
 
-For a family or a group of three, the **[Learn Together Deck Set](https://en.onepiece-cardgame.com/products/decks/ld01.php)** has three decks, three guide books, three deck cases, three small extra card packs, and a two-player playsheet. <!-- AFFILIATE: Learn Together Deck Set -->
+For a family or a group of three, the **[Learn Together Deck Set](https://en.onepiece-cardgame.com/products/decks/ld01.php)** has three decks, three guide books, three deck cases, three small extra card packs, and a two-player playsheet.
 
 ## How do you choose a color?
 

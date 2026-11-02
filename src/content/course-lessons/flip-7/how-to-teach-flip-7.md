@@ -103,12 +103,8 @@ The publisher's [news and events page](https://theop.games/blogs/events) does no
 
 ## Your own copy, and what comes after
 
-The base game is [Flip 7](https://theop.games/products/flip-7) from The Op: one deck of 94 cards.
+The base game is [Flip 7](https://www.amazon.com/dp/B0DWGVM7RY?tag=cubecommonw0a-20) from The Op: one deck of 94 cards.
 
-<!-- AFFILIATE: Flip 7 -->
-
-If your group wants more bite, [Flip 7: With a Vengeance](https://theop.games/products/flip-7-with-a-vengeance) is a standalone sequel with 108 cards and new take-that action cards that steal cards, force draws, and cut scores. The publisher lists it as a Walmart exclusive. Our [best board games of 2026](/articles/best-board-games-2026/) list has more on it.
-
-<!-- AFFILIATE: Flip 7: With a Vengeance -->
+If your group wants more bite, [Flip 7: With a Vengeance](https://www.amazon.com/dp/B0GK9XK2N4?tag=cubecommonw0a-20) is a standalone sequel with 108 cards and new take-that action cards that steal cards, force draws, and cut scores. The publisher lists it as a Walmart exclusive. Our [best board games of 2026](/articles/best-board-games-2026/) list has more on it.
 
 That is the teach: five minutes, the odd cases settled as they come, and a simple way to think about the odds. The rest of the course goes deeper, starting with the mistakes new tables make in their first three games. The game is the reason. The people around the table are the point.

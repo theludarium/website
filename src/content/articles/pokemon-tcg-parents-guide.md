@@ -45,15 +45,11 @@ Pick Battle Academy when:
 - Nobody in the house has played before.
 - You want one box that sets two people up to play right away.
 
-<!-- AFFILIATE: Pokémon TCG Battle Academy (2024) -->
-
 ### A Mega Battle Deck: for a kid who already has someone to play
 
 If your kid already plays with friends, has a sibling with cards, or wants to go to a store's League (more on that below), one ready-to-play deck may be a better fit. The current official rulebook points new players to the [Mega Battle Deck](https://tcg.pokemon.com/en-us/product-guide/): a ready-made 60-card deck that comes with a strategy sheet and everything you need to play.
 
-Each deck runs about $15 to $20. <!-- VERIFY: current Mega Battle Deck list price, which decks are on shelves this holiday, and their exact contents. --> Two different Mega Battle Decks also make a fine two-player starter for siblings.
-
-<!-- AFFILIATE: Pokémon TCG Mega Battle Deck -->
+Each deck runs about $15 to $20. <!-- VERIFY: current Mega Battle Deck list price, which decks are on shelves this holiday, and their exact contents. --> Two different [Mega Battle Decks](https://www.amazon.com/dp/B0FLP49KYM?tag=cubecommonw0a-20) also make a fine two-player starter for siblings.
 
 ### Ways to try it first
 
@@ -72,9 +68,7 @@ A new set, Mega Evolution: Delta Reign, comes out November 6, 2026. New sets ten
 
 ### Big collector boxes as a way to learn
 
-[Elite Trainer Boxes](https://tcg.pokemon.com/en-us/product-guide/) are handsome. They hold packs, card sleeves, Energy cards, and a player's guide. They are a lovely gift for a kid who already plays. As a way to learn the game, they do less than the box suggests, because there is no ready-made deck inside. Expect about $50 to $60. <!-- VERIFY: current Elite Trainer Box list price and contents. -->
-
-<!-- AFFILIATE: Pokémon TCG Elite Trainer Box -->
+[Elite Trainer Boxes](https://www.amazon.com/dp/B0HG3MQDWP?tag=cubecommonw0a-20) are handsome. They hold packs, card sleeves, Energy cards, and a player's guide. They are a lovely gift for a kid who already plays. As a way to learn the game, they do less than the box suggests, because there is no ready-made deck inside. Expect about $50 to $60. <!-- VERIFY: current Elite Trainer Box list price and contents. -->
 
 League Battle Decks can wait too. The official site describes them as a way to start playing with higher-power cards common in tournament play. They are a great second or third deck and a big step for a first one.
 

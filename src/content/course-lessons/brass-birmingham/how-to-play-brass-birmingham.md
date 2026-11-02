@@ -19,9 +19,7 @@ This lesson follows the current Roxley rulebook and doubles as your teaching scr
 
 ## What is in the box?
 
-[Brass: Birmingham](https://roxley.com/products/brass-birmingham) plays 2 to 4, ages 14 and up, in 60 to 120 minutes by Roxley's count. You get a board with a day side and a night side (use either), player mats, industry and link tiles in four colors, merchant tiles, cards, coal, iron, beer, and money.
-
-<!-- AFFILIATE: Brass: Birmingham -->
+[Brass: Birmingham](https://www.amazon.com/dp/1988884047?tag=cubecommonw0a-20) plays 2 to 4, ages 14 and up, in 60 to 120 minutes by Roxley's count. You get a board with a day side and a night side (use either), player mats, industry and link tiles in four colors, merchant tiles, cards, coal, iron, beer, and money.
 
 ## How do you set up?
 

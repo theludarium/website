@@ -17,7 +17,7 @@ This lesson covers what the digital edition offers, how to use bots at the table
 
 ## Root digital
 
-[Root digital](https://www.direwolfdigital.com/root/), by Dire Wolf, is the official digital adaptation. It came out on Steam in September 2020 and runs on PC, Nintendo Switch, iOS, and Android, with cross-platform online multiplayer. Its Steam page lists single-player, online play, and turn notifications. <!-- AFFILIATE: Root digital edition (Dire Wolf) -->
+[Root digital](https://www.direwolfdigital.com/root/), by Dire Wolf, is the official digital adaptation. It came out on Steam in September 2020 and runs on PC, Nintendo Switch, iOS, and Android, with cross-platform online multiplayer. Its Steam page lists single-player, online play, and turn notifications.
 
 Expansions are sold as add-ons, and Dire Wolf's page lists:
 
@@ -45,7 +45,7 @@ Expansions are sold as add-ons, and Dire Wolf's page lists:
 
 ## Bots at the table
 
-The [Clockwork Expansion 2](https://ledergames.com/products/root-the-clockwork-expansion-2) brings automated factions to the physical game: bots that follow a set of priorities so you can fill a four-faction table with fewer people or play cooperatively. It needs the Riverfolk or Underworld expansion. <!-- AFFILIATE: Root: The Clockwork Expansion 2 -->
+The [Clockwork Expansion 2](https://www.amazon.com/dp/B0BQNDF2YV?tag=cubecommonw0a-20) brings automated factions to the physical game: bots that follow a set of priorities so you can fill a four-faction table with fewer people or play cooperatively. It needs the Riverfolk or Underworld expansion.
 
 Bots are useful for drills: practicing a faction's opening against the same opposition several times, or learning to police a runaway faction without a human to negotiate with.
 

@@ -29,9 +29,7 @@ How to choose:
 
 A Structure Deck is a ready-made deck built around one strategy, and Konami's own new-player page notes that customizing one is a good way to learn deck building. That makes it the natural second purchase after the starter.
 
-Konami's Structure Deck list also includes all-foil Chronicles Decks, but the most recent standard Structure Deck on it is [Structure Deck: Blue-Eyes White Destiny](https://www.yugioh-card.com/en/products/sdwd/), from February 2025. That was still true on the page in October 2026, so check it for anything newer before you buy.
-
-<!-- AFFILIATE: Structure Deck: Blue-Eyes White Destiny -->
+Konami's Structure Deck list also includes all-foil Chronicles Decks, but the most recent standard Structure Deck on it is [Structure Deck: Blue-Eyes White Destiny](https://www.amazon.com/dp/B0DK3TXSVK?tag=cubecommonw0a-20), from February 2025. That was still true on the page in October 2026, so check it for anything newer before you buy.
 
 A common budget approach is to buy more than one copy of the same Structure Deck, so you can run 3 copies of its best cards. Before you do, compare the price of the extra copies against just buying those few cards as singles.
 

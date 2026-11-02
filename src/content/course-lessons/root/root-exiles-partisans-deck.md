@@ -11,7 +11,7 @@ oneIdea: "The Exiles and Partisans deck keeps Root's items, ambushes, and domina
 tryThis: "Before your first game with the Exiles and Partisans deck, read every persistent card in it once and sort them into three piles: powers you want, powers you fear, and powers that do nothing for your favorite faction."
 nextTeaser: "Level 5 starts with the competitive scene: the World Boardgaming Championships Root event, its format, its history, and how to get there."
 ---
-The base deck is the one everyone learns. Competitive Root often uses another. The [Exiles and Partisans Deck](https://ledergames.com/products/root-the-exiles-and-partisans-deck) is a 54-card replacement for the shared deck, and the WBC Root event in 2025 and 2026 listed it as the default deck, with the base deck allowed only if the Exiles and Partisans deck was not available. <!-- AFFILIATE: Root: The Exiles and Partisans Deck -->
+The base deck is the one everyone learns. Competitive Root often uses another. The [Exiles and Partisans Deck](https://www.amazon.com/dp/B0859N3BJ4?tag=cubecommonw0a-20) is a 54-card replacement for the shared deck, and the WBC Root event in 2025 and 2026 listed it as the default deck, with the base deck allowed only if the Exiles and Partisans deck was not available.
 
 Under Advanced Setup, the group may replace the whole shared deck with it. You never mix the two.
 
@@ -75,4 +75,4 @@ A few shifts stand out:
 
 <!-- AT OUR TABLE: one line on which Exiles and Partisans card most surprised Levi's group, and how it changed a game. -->
 
-The [Squires and Disciples Deck](https://ledergames.com/products/root-the-squires-and-disciples-deck) is a second replacement deck, with cards inspired by the Marauder and Homeland factions. <!-- AFFILIATE: Root: The Squires and Disciples Deck -->
+The [Squires and Disciples Deck](https://ledergames.com/products/root-the-squires-and-disciples-deck) is a second replacement deck, with cards inspired by the Marauder and Homeland factions.

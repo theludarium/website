@@ -26,7 +26,7 @@ Dire Wolf's Game Room companion app can run House Hagal in place of the cards.
 
 ## Uprising in depth
 
-[Uprising](https://www.direwolfdigital.com/dune-imperium-uprising/) is a standalone game for 1 to 6. If you know the original, these are the changes that matter. <!-- AFFILIATE: Dune: Imperium Uprising -->
+[Uprising](https://www.amazon.com/dp/B0CF3MVMKH?tag=cubecommonw0a-20) is a standalone game for 1 to 6. If you know the original, these are the changes that matter.
 
 ### The board
 
@@ -77,17 +77,17 @@ The six-player mode is two teams of three on the board's reverse side, where the
 
 ## Expansions
 
-**[Rise of Ix](https://www.direwolfdigital.com/dune-imperium/)** was the first expansion. It adds technology, dreadnoughts, infiltration, new Leaders, and an Epic mode. Its Epic mode changes the starting decks and plays to 12 points, and it is the version the 2026 World Boardgaming Championships used for its final. <!-- AFFILIATE: Dune: Imperium Rise of Ix -->
+**[Rise of Ix](https://www.amazon.com/dp/B09J37NRNB?tag=cubecommonw0a-20)** was the first expansion. It adds technology, dreadnoughts, infiltration, new Leaders, and an Epic mode. Its Epic mode changes the starting decks and plays to 12 points, and it is the version the 2026 World Boardgaming Championships used for its final.
 
-**[Immortality](https://www.direwolfdigital.com/dune-imperium-immortality/)** brings the Bene Tleilax: genetic research, specimens, and grafting two cards together. <!-- AFFILIATE: Dune: Imperium Immortality -->
+**[Immortality](https://www.amazon.com/dp/B0B783N2T6?tag=cubecommonw0a-20)** brings the Bene Tleilax: genetic research, specimens, and grafting two cards together.
 
 Both were built for the original, and Uprising's rules explain how to add them.
 
-**[Bloodlines](https://www.direwolfdigital.com/dune-imperium-bloodlines/)** expands both games with Sardaukar Commanders, new tech tiles, Leaders, contracts, and cards. <!-- AFFILIATE: Dune: Imperium Bloodlines -->
+**[Bloodlines](https://www.amazon.com/dp/B0DD9ZWSM6?tag=cubecommonw0a-20)** expands both games with Sardaukar Commanders, new tech tiles, Leaders, contracts, and cards.
 
 **[Conspiracy](https://www.direwolfdigital.com/dune-imperium-conspiracy/)** is next, and Dire Wolf's page already takes pre-orders. It works with both games and adds Conspiracy cards, Raids, Imperial Edicts, and an Overthrow mode where one player is the Emperor against two or three others.
 
-<!-- VERIFY: Conspiracy's release date and its counts of new Leaders and Imperium cards; Dire Wolf's product page lists neither, and retail listings disagree. --> <!-- AFFILIATE: Dune: Imperium Conspiracy -->
+<!-- VERIFY: Conspiracy's release date and its counts of new Leaders and Imperium cards; Dire Wolf's product page lists neither, and retail listings disagree. -->
 
 ## Which box first?
 
@@ -96,4 +96,4 @@ Both were built for the original, and Uprising's rules explain how to add them.
 - **You own Uprising:** play without contracts first, then add them.
 - **You own both:** Bloodlines works with either.
 
-If you are starting fresh, the [original](https://www.direwolfdigital.com/dune-imperium/) and Uprising both teach well; pick by player count. Our piece on [whether expansions are worth it](/articles/expansions-worth-it/) has a broader way to decide. <!-- AFFILIATE: Dune: Imperium -->
+If you are starting fresh, the [original](https://www.amazon.com/dp/B08JHB9V72?tag=cubecommonw0a-20) and Uprising both teach well; pick by player count. Our piece on [whether expansions are worth it](/articles/expansions-worth-it/) has a broader way to decide.

@@ -70,8 +70,6 @@ The scenarios are the closest thing Cascadia has to a structured training plan. 
 
 [Cascadia Digital](https://www.direwolfdigital.com/cascadia/), from Dire Wolf, includes the fifteen solo scenarios too, and keeps your scores for you.
 
-<!-- AFFILIATE: Cascadia Digital -->
-
 ## A solo practice routine
 
 - **One scenario a session.** Replay it until you pass, then move on.

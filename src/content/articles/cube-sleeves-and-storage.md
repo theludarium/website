@@ -16,7 +16,7 @@ Three things matter: shuffle feel, durability under repeated riffling, and consi
 
 What we have found, and what the cube community broadly agrees on:
 
-**Matte-backed, textured sleeves from the major brands.** Dragon Shield Matte, Ultimate Guard Katana, KMC Hyper Matte, Ultra Pro Eclipse Matte. All four are used in long-running cubes and hold up for a year or more of weekly play. <!-- AFFILIATE --> Katanas shuffle the smoothest when new and show wear sooner; Dragon Shield Mattes are thicker and more resistant to splitting; KMC Hyper Mattes are the thinnest and the cheapest to replace. Any of them is a fine choice. Pick one and buy enough from the same production batch that you have 10 percent spares.
+**Matte-backed, textured sleeves from the major brands.** [Dragon Shield Matte](https://www.amazon.com/dp/B01G25NEW2?tag=cubecommonw0a-20), Ultimate Guard Katana, KMC Hyper Matte, Ultra Pro Eclipse Matte. All four are used in long-running cubes and hold up for a year or more of weekly play. Katanas shuffle the smoothest when new and show wear sooner; Dragon Shield Mattes are thicker and more resistant to splitting; KMC Hyper Mattes are the thinnest and the cheapest to replace. Any of them is a fine choice. Pick one and buy enough from the same production batch that you have 10 percent spares.
 
 **Avoid glossy sleeves.** They stick together when humid, show scratches, and the clear fronts cloud. Fine for a deck in a box; bad for a cube.
 
@@ -28,7 +28,7 @@ A sleeved 360-card cube needs about 400 sleeves including spares and basics, whi
 
 ## Should you double sleeve a cube?
 
-Double sleeving means a tight-fitting inner sleeve, usually KMC Perfect Fit or Dragon Shield Perfect Fit, inside the outer sleeve. <!-- AFFILIATE --> It protects the cards from moisture and edge wear far better than a single sleeve.
+Double sleeving means a tight-fitting inner sleeve, usually KMC Perfect Fit or Dragon Shield Perfect Fit, inside the outer sleeve. It protects the cards from moisture and edge wear far better than a single sleeve.
 
 Arguments for double sleeving a cube:
 
@@ -61,8 +61,6 @@ A cube needs a box that holds the full list plus basics, closes securely for tra
 | Wooden deck box with dividers | 360 to 540 | Looks great on a table | Expensive, heavy |
 | Binder with 9-pocket pages | Any | Browsing the list, rotisserie | Not for shuffling or packs |
 | Two 360-card deck boxes | 360 plus basics | Split cube and basics | Two things to carry |
-
-<!-- AFFILIATE -->
 
 Whichever box you choose, leave room. A packed box damages sleeves at the edges every time you pull cards out, and you will add cards. Aim for a box rated 20 to 30 percent above your cube's sleeved count.
 

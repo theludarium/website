@@ -15,15 +15,11 @@ Once your group knows Sushi Go! well, the most common next step is Sushi Go Part
 
 ## The original, for reference
 
-[Sushi Go!](https://gamewright.com/product/Sushi-Go) is the small tin this course teaches: one 108-card deck, 2 to 5 players, about 15 minutes. It is the cheaper and more portable choice, and for many tables it is all they need. Our list of [board games under 20 dollars](/articles/board-games-under-20-dollars/) explains why it is a common first purchase.
-
-<!-- AFFILIATE: Sushi Go! -->
+[Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) is the small tin this course teaches: one 108-card deck, 2 to 5 players, about 15 minutes. It is the cheaper and more portable choice, and for many tables it is all they need. Our list of [board games under 20 dollars](/articles/board-games-under-20-dollars/) explains why it is a common first purchase.
 
 ## Sushi Go Party! at a glance
 
-[Sushi Go Party!](https://gamewright.com/product/Sushi-Go-Party) plays 2 to 8. The box holds 181 cards, 22 menu tiles, 8 pawns, and a scoring board, so you no longer need paper and pencil.
-
-<!-- AFFILIATE: Sushi Go Party! -->
+[Sushi Go Party!](https://www.amazon.com/dp/B01CETNKE2?tag=cubecommonw0a-20) plays 2 to 8. The box holds 181 cards, 22 menu tiles, 8 pawns, and a scoring board, so you no longer need paper and pencil.
 
 The turn is the same: everyone picks one card, reveals together, and passes the rest left. What changes is what is in the deck.
 
@@ -63,9 +59,7 @@ If your group knows the original, start with the classic preset and change one c
 ## The rest of the family
 
 - **Sushi Roll** (Gamewright, 2019) turns the pick-and-pass idea into a dice game.
-- **[Sushi Go! Spin Some for Dim Sum](https://gamewright.com/product/Sushi-Go-Spin-Some-for-Dim-Sum)** (Gamewright, 2023) adds a spinning dim sum tray to the pick-and-pass idea.
-
-<!-- AFFILIATE: Sushi Go! Spin Some for Dim Sum -->
+- **[Sushi Go! Spin Some for Dim Sum](https://www.amazon.com/dp/B0CNKTN519?tag=cubecommonw0a-20)** (Gamewright, 2023) adds a spinning dim sum tray to the pick-and-pass idea.
 
 <!-- VERIFY: Sushi Roll is still in print, and the player count, designer, and current product page for Spin Some for Dim Sum. -->
 
