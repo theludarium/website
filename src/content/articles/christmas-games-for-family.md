@@ -63,7 +63,7 @@ Christmas morning games have one job: be quick. There are gifts to open, breakfa
 
 ### Sushi Go!
 
-[Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) is a card drafting game in a tin. Everyone picks one card and passes the rest, building sets of sushi for points. It plays 2 to 5, ages 8 and up, in about fifteen minutes, for about $17 at Gamewright. It is small enough for a stocking and quick enough to play twice before the cinnamon rolls are ready. Our free [Sushi Go! course](/academy/sushi-go/) covers the rules and how to teach it.
+[Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) is a card drafting game in a tin. Everyone picks one card and passes the rest, building sets of sushi for points. It plays 2 to 5, ages 8 and up, in about fifteen minutes. It is small enough for a stocking and quick enough to play twice before the cinnamon rolls are ready. Our free [Sushi Go! course](/academy/sushi-go/) covers the rules and how to teach it.
 
 ### Outfoxed!
 

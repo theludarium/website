@@ -44,7 +44,7 @@ If you only want to buy one or two games, the best single picks are Kingdomino f
 
 Start with the game that comes with the holiday. Dreidel needs a top and a pile of chocolate coins or other tokens, and it teaches in a minute. Our guide on [how to play dreidel](/articles/how-to-play-dreidel/) covers the letters, a turn step by step, and house rules that keep the game from dragging.
 
-Pair it with [Spot It!](https://link.amazon/B0dxD5DWE) for the first gift. Every pair of round cards shares exactly one symbol, and you race to spot it and call it out. Two to eight players, about 15 minutes, ages 6 and up. The pocket edition lists for about $6 at the Asmodee store, and larger editions run up to about $15. It is cheap, fast, and the youngest reader at the table can win.
+Pair it with [Spot It!](https://link.amazon/B0dxD5DWE) for the first gift. Every pair of round cards shares exactly one symbol, and you race to spot it and call it out. Two to eight players, about 15 minutes, ages 6 and up. It is cheap, fast, and the youngest reader at the table can win.
 
 ## Night 2: Outfoxed!
 
@@ -56,7 +56,7 @@ Two to four players, about 20 minutes, ages 5 and up, per Gamewright. About $25 
 
 [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) is a card drafting game in a small tin. Everyone takes one card from their hand and passes the rest, building sets of sushi dishes for points over three rounds. It teaches in two minutes and has real choices in it.
 
-Two to five players, about 15 minutes, ages 8 and up. About $17 at Gamewright's store. It is the best first strategy game for kids we know of, and adults keep playing it after the kids go to bed.
+Two to five players, about 15 minutes, ages 8 and up. It is the best first strategy game for kids we know of, and adults keep playing it after the kids go to bed.
 
 ## Night 4: Kingdomino
 
@@ -68,7 +68,7 @@ Two to four players, about 15 minutes, ages 8 and up. About $20 at major retaile
 
 [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) from Czech Games Edition is the party game for the night the teens and adults take over. Two teams face a grid of 25 words. One player on each team gives one-word clues to steer their teammates to the right words and away from the assassin.
 
-Two to eight or more players, about 15 minutes, ages 14 and up. About $25 at Target at the time of writing. It scales to a full house, and it plays well with grandparents, cousins, and anyone who likes words.
+Two to eight or more players, about 15 minutes, ages 14 and up. It scales to a full house, and it plays well with grandparents, cousins, and anyone who likes words.
 
 *If this is useful, the newsletter sends more like it.*
 
@@ -88,7 +88,7 @@ One to four players, 30 to 45 minutes, ages 10 and up. About $32 to $40 at the t
 
 Finish with the biggest box. [Ticket to Ride](https://link.amazon/B0jh8RB7f) from Days of Wonder has players collect colored train cards and claim railway routes across a map of North America, trying to connect the cities on their secret tickets.
 
-Two to five players, 30 to 60 minutes, ages 8 and up. List price is about $55, and Walmart had it for less at the time of writing. It won the Spiel des Jahres in 2004 and is still one of the best first "big" board games for a family. Ending on it gives the last night a game long enough to linger over.
+Two to five players, 30 to 60 minutes, ages 8 and up. It won the Spiel des Jahres in 2004 and is still one of the best first "big" board games for a family. Ending on it gives the last night a game long enough to linger over.
 
 ## What if you want to spend less?
 

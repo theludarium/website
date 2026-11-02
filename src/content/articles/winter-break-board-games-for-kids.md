@@ -48,15 +48,15 @@ Busy days need games that set up in a minute and end before someone gets called 
 
 ### Sushi Go!
 
-[Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) from Gamewright is a card drafting game in a small tin. Everyone keeps one card from their hand and passes the rest, building sets of sushi for points. Two to five players, about fifteen minutes, ages 8 and up. About $17 at the publisher's store. Our free [Sushi Go! course](/academy/sushi-go/) teaches it to kids in a few minutes.
+[Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) from Gamewright is a card drafting game in a small tin. Everyone keeps one card from their hand and passes the rest, building sets of sushi for points. Two to five players, about fifteen minutes, ages 8 and up. Our free [Sushi Go! course](/academy/sushi-go/) teaches it to kids in a few minutes.
 
 ### Qwixx
 
-[Qwixx](https://www.amazon.com/dp/B00J57138C?tag=cubecommonw0a-20) is a dice game on a score sheet. Every roll is usable by everyone, so nobody waits for a turn. Two to five players, about fifteen minutes, ages 8 and up. About $15 at the publisher's store. It is a strong pick when grandparents are visiting, since anyone who has played Yahtzee already knows half of it.
+[Qwixx](https://www.amazon.com/dp/B00J57138C?tag=cubecommonw0a-20) is a dice game on a score sheet. Every roll is usable by everyone, so nobody waits for a turn. Two to five players, about fifteen minutes, ages 8 and up. It is a strong pick when grandparents are visiting, since anyone who has played Yahtzee already knows half of it.
 
 ### Flip 7
 
-[Flip 7](https://www.amazon.com/dp/B0DWGVM7RY?tag=cubecommonw0a-20) from The Op is a push-your-luck card game. Flip cards one at a time and add them up, but a repeat number busts you. Three or more players, about twenty minutes, ages 8 and up. About $8 at Target at the time of writing. It is the one to grab when cousins arrive and the table suddenly seats nine. Our free [Flip 7 course](/academy/flip-7/) covers the action cards.
+[Flip 7](https://www.amazon.com/dp/B0DWGVM7RY?tag=cubecommonw0a-20) from The Op is a push-your-luck card game. Flip cards one at a time and add them up, but a repeat number busts you. Three or more players, about twenty minutes, ages 8 and up. It is the one to grab when cousins arrive and the table suddenly seats nine. Our free [Flip 7 course](/academy/flip-7/) covers the action cards.
 
 ## What is a good long game to play over winter break?
 
@@ -66,18 +66,18 @@ Slow days are the gift of winter break. Use them for one game you return to agai
 
 [The Crew: Family Adventure](https://www.amazon.com/dp/B0DSCM4HT5?tag=cubecommonw0a-20) is a family version of the award-winning cooperative card game. A group of kids is stranded on an island, and the team plays through 35 story missions to get home. Each mission takes about fifteen minutes, and talking about your cards is limited, so kids learn to read each other's plays.
 
-Three to five players, ages 8 and up. About $15 at Thames and Kosmos. Thirty-five missions is about right for a two-week break: two or three a day, and you reach the end before school starts. Older kids who finish it can move on to [The Crew: Mission Deep Sea](https://link.amazon/B099S9RKf) (ages 10 and up, also about $15) and our free [course on The Crew](/academy/the-crew/).
+Three to five players, ages 8 and up. Thirty-five missions is about right for a two-week break: two or three a day, and you reach the end before school starts. Older kids who finish it can move on to [The Crew: Mission Deep Sea](https://link.amazon/B099S9RKf) (ages 10 and up) and our free [course on The Crew](/academy/the-crew/).
 
 ### Zombie Kidz Evolution
 
-[Zombie Kidz Evolution](https://www.amazon.com/dp/B07M5BFVP2?tag=cubecommonw0a-20) is a cooperative game where kids defend their school from zombies. It is a "legacy" game, which means it changes as you play: you open sealed envelopes, earn stickers, and add new rules over many games. Two to four players, about fifteen minutes, ages 7 and up. List price is about $27, though the publisher's own store showed it sold out at the time of writing, so check big-box stores and your local game store.
+[Zombie Kidz Evolution](https://www.amazon.com/dp/B07M5BFVP2?tag=cubecommonw0a-20) is a cooperative game where kids defend their school from zombies. It is a "legacy" game, which means it changes as you play: you open sealed envelopes, earn stickers, and add new rules over many games. Two to four players, about fifteen minutes, ages 7 and up.
 
 It is the best pick for a family with kids aged 7 to 9, and the legacy twist gives the whole break a sense of progress. If legacy games are new to you, our guide to [legacy board games](/articles/legacy-board-games-explained/) explains how they work.
 
 ### For younger or older kids
 
-- **Ages 5 to 7:** [Outfoxed!](https://link.amazon/B0hYNduxd) is a cooperative whodunit. Players roll to search for clues and rule out suspects before the fox escapes. Two to four players, about twenty minutes, about $26 at Gamewright's store.
-- **Ages 10 and up:** [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20) asks the team to grab four treasures and escape before the island sinks. Two to four players, about thirty minutes, about $26 at Gamewright's store. It has difficulty levels, so you can make it harder each time you win.
+- **Ages 5 to 7:** [Outfoxed!](https://link.amazon/B0hYNduxd) is a cooperative whodunit. Players roll to search for clues and rule out suspects before the fox escapes. Two to four players, about twenty minutes.
+- **Ages 10 and up:** [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20) asks the team to grab four treasures and escape before the island sinks. Two to four players, about thirty minutes. It has difficulty levels, so you can make it harder each time you win.
 
 Siblings who fight? Co-ops put them on the same team. Our guide to [cooperative games for kids](/articles/cooperative-games-for-kids/) has ten more picks and tips for keeping one kid from bossing the rest.
 
@@ -106,7 +106,7 @@ End the break with a tournament night. It turns a regular evening into an event,
 Choose a two-player game that plays fast, so you can run a bracket. Two good options:
 
 - **Mancala.** Ancient, cheap, and played with stones and pits. A game takes about ten minutes, and kids as young as six can learn it. Our guide to [how to play mancala](/articles/how-to-play-mancala/) covers the rules.
-- **Kingdomino.** Players draft domino tiles and build a small kingdom. Two to four players, about fifteen to twenty minutes, ages 8 and up, about $20 at big-box stores at the time of writing. It won the Spiel des Jahres, Germany's game of the year award, in 2017. Our free [Kingdomino course](/academy/kingdomino/) teaches it.
+- **Kingdomino.** Players draft domino tiles and build a small kingdom. Two to four players, about fifteen to twenty minutes, ages 8 and up. It won the Spiel des Jahres, Germany's game of the year award, in 2017. Our free [Kingdomino course](/academy/kingdomino/) teaches it.
 
 Not sure what to play? Let the family vote. [Game Night Madness](/game-night-madness/) is a free bracket app where everyone votes from their phones, round by round, until one game is left.
 

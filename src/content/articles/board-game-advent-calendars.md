@@ -37,23 +37,23 @@ These are the calendars we could confirm on sale or on preorder at US retailers 
 
 The EXIT games from Thames & Kosmos are escape rooms in a box. The advent calendar stretches one adventure over 24 days. Each morning you open a door, find a new riddle, and solve it to move to the next room of the story. This year's story starts with you waking up in a snowy, enchanted forest with something odd happening to your hands. You need to solve all 24 riddles to reach the end.
 
-Miniature Market lists The Magic of Christmas at $39.99, against a $49.95 list price, at the time of writing, though it showed out of stock there. It is rated for ages 10 and up. Expect a few minutes of puzzling a day.
+It is rated for ages 10 and up. Expect a few minutes of puzzling a day.
 
 One thing to know: you write on, fold, and tear the materials, so it can only be played once. That is normal for EXIT games and part of the fun, but it means this is a gift for one household, not one to pass around.
 
 ### EXIT Advent Calendar: The Intergalactic Race
 
-Kosmos made The Intergalactic Race as a gentler EXIT calendar for beginners. It came out for the 2025 season and is still sold. Same format: 24 doors, 24 riddles, one story, this time a space race. Target lists it at $49.95 at the time of writing, though it showed out of stock online. Pick this one for a younger puzzler or a household that has never tried an escape room game.
+Kosmos made The Intergalactic Race as a gentler EXIT calendar for beginners. It came out for the 2025 season and is still sold. Same format: 24 doors, 24 riddles, one story, this time a space race. Pick this one for a younger puzzler or a household that has never tried an escape room game.
 
 ### Chessex 2026 Holiday Calendar
 
 Chessex, a long-running dice maker, sells a holiday dice calendar every year. The 2026 box is shaped like a gelatinous cube, a classic D&D monster, swallowing Santa's helpers. Behind the doors: three standard seven-die sets, one eight-die set, two mini seven-die sets, three custom six-sided dice, one heavy oversized die, one surprise die, and three crystal cases.
 
-Miniature Market lists the Chessex 2026 Holiday Calendar at $46.99 on preorder, down from $59.98, at the time of writing. That is a lot of dice for the price, which makes it the better value of the two dice calendars here. Our guide to [D&D dice explained](/articles/dnd-dice-explained/) covers what each shape is for.
+The Chessex 2026 Holiday Calendar is a lot of dice in one box, which makes it the better value of the two dice calendars here. Our guide to [D&D dice explained](/articles/dnd-dice-explained/) covers what each shape is for.
 
 ### FanRoll D&D Advent Dice Calendar: Red Robes & Winter Woes
 
-FanRoll's officially licensed D&D calendar for 2026 holds dice with small objects set inside them, called inclusion dice, plus a dice tray and a dice bag. The last door holds a polished d20 with a demilich inside, tied to the Red Wizards of Thay. The list price is $64.99, and Miniature Market has it on preorder at $47.99 at the time of writing. Choose this one over the Chessex box when the recipient cares more about a few special dice than a big pile of them.
+FanRoll's officially licensed D&D calendar for 2026 holds dice with small objects set inside them, called inclusion dice, plus a dice tray and a dice bag. The last door holds a polished d20 with a demilich inside, tied to the Red Wizards of Thay. Choose this one over the Chessex box when the recipient cares more about a few special dice than a big pile of them.
 
 ### What about the Pokémon TCG holiday calendar?
 
