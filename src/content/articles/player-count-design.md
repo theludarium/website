@@ -101,6 +101,8 @@ Because it decides whether a game gets played. Most adult game nights are three 
 
 Designing for the table people actually have is a form of respect for them. It says the game is there to serve the evening, not the other way around. The game is the reason. The people are the point.
 
+For the player's side of this, see the [best player count for 40 popular games](/articles/board-game-player-counts/).
+
 ## FAQ
 
 ### Why do board games play differently at different player counts?

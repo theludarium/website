@@ -90,6 +90,8 @@ Three habits cover most of the ground.
 
 **Look for triggers that feed each other.** The strongest engines are not the ones with the most parts. They are the ones where one action sets off several effects. A bird that gives food when you lay eggs, next to a bird that lays eggs when you gain food, is better than two unrelated birds with higher point values.
 
+If Wingspan was your first engine, our list of [games like Wingspan](/articles/games-like-wingspan/) sorts 12 picks by what you loved about it.
+
 ## FAQ
 
 ### What is an engine building game?

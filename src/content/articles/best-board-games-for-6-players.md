@@ -121,6 +121,8 @@ Ten games covers most evenings. If you are tight on space, [how to store board g
 
 The number on the box is a starting point. The number of people who are smiling at the end is the one that counts. The game is the reason. The people are the point.
 
+Not sure a game really works at your count? Check our [board game player count chart](/articles/board-game-player-counts/) for 40 popular games.
+
 ## FAQ
 
 ### What is the best board game for 6 players?

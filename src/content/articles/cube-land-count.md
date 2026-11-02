@@ -95,6 +95,8 @@ The cost is that fixing stops being a drafting decision. Taking a dual over a pl
 
 The game is the reason. The people are the point. The land section is where you decide how much of the game is spent casting spells and how much is spent wishing you could.
 
+Building for Commander instead? Our [Commander land count](/articles/commander-land-count/) guide covers 100-card decks, ramp, and the odds at each count.
+
 ## FAQ
 
 ### How many lands should be in a 540 card cube?

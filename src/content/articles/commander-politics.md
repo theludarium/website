@@ -86,6 +86,8 @@ And cube draft, our favorite format, solves it by returning to one-on-one games.
 
 Commander is not worse than cube. It is more social, which means it is more dependent on the people being good at being social. When the pod is, it is the best thing in Magic. When it is not, the format offers no help.
 
+If you are still learning the format itself, start with [how to play Commander](/articles/how-to-play-commander-mtg/).
+
 ## FAQ
 
 ### What is politics in Commander?

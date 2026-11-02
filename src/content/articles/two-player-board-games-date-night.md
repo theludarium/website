@@ -113,6 +113,8 @@ Third, games with huge skill gaps. Chess and Go are wonderful, but if one person
 
 For classics you may already own, see [Sequence game rules](/articles/sequence-game-rules/) and [how to play chess](/articles/how-to-play-chess/).
 
+Many bigger games also play best at two; our [player count guide](/articles/board-game-player-counts/) lists eleven.
+
 ## FAQ
 
 ### What is the best two player board game for couples?

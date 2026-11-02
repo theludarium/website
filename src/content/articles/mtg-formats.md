@@ -152,6 +152,8 @@ Arena also has digital-only formats, such as Alchemy, Historic, and Timeless.
 
 The free [Magic course](/academy/magic/) runs from your first box to your first Commander night and draft, in that order, if you want a path to follow.
 
+New to the format? Our guide on [how to play Commander](/articles/how-to-play-commander-mtg/) walks through a full turn and the Commander Brackets. A [Commander precon or starter kit](/articles/mtg-starter-kit/) is the cheapest legal way in.
+
 ## FAQ
 
 ### What is the most popular MTG format?

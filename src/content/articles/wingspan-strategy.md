@@ -89,6 +89,8 @@ Wingspan rewards attention more than cleverness. The information is all face up.
 
 For the mechanics underneath all of this, we have a plain explainer on [engine building games](/articles/engine-building-games/), and a comparison of [Wingspan, Everdell, and Cascadia](/articles/wingspan-vs-everdell-vs-cascadia/) if you are deciding which to bring to the table next.
 
+Once you've mastered the aviary, here are [12 games like Wingspan](/articles/games-like-wingspan/) to play next.
+
 ## FAQ
 
 ### What is the most common Wingspan strategy mistake?

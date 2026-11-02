@@ -84,6 +84,8 @@ They look good, and that matters more than hobbyists admit. A game that looks be
 
 We wrote more about this in [board game components and table presence](/articles/board-game-components-table-presence/). The short version is that components are part of the design, not decoration, and these three designers understood it.
 
+Want more than these three? See our full list of [games like Wingspan](/articles/games-like-wingspan/).
+
 ## FAQ
 
 ### Is Wingspan or Everdell better for beginners?

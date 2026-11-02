@@ -120,6 +120,8 @@ Mostly, yes. The arguments move from "you took my spot" to "should we have cured
 
 There is one exception. If one player takes over, the resentment is worse than in a competitive game, because the others cannot even play against them. Watch for it, name it kindly, and pick games that structurally prevent it.
 
+Prefer a small box? See the [best co-op card games](/articles/best-co-op-card-games/).
+
 ## FAQ
 
 ### What is the best cooperative board game for beginners?

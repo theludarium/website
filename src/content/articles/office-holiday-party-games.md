@@ -109,6 +109,8 @@ If the party goes well, a regular lunch-hour game club is a good next step. Our 
 
 The game is the reason. The people are the point.
 
+For a company party of 50 or more, our guide to [office party games for large groups](/articles/games-for-30-people/) has a full run of show.
+
 ## FAQ
 
 ### What are good games for an office holiday party?

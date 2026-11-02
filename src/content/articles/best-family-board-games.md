@@ -102,6 +102,8 @@ Some hold up. Some do not.
 
 For more ways to fill the evening, see our [family game night ideas](/articles/family-game-night-ideas/), plus plain guides to [Sorry! rules](/articles/sorry-board-game-rules/) and [Trouble rules](/articles/trouble-board-game-rules/).
 
+See [every Spiel des Jahres winner](/articles/spiel-des-jahres-winners/) for the full list and which still play best today.
+
 ## FAQ
 
 ### What is the best family board game for ages 8 and up?

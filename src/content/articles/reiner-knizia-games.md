@@ -157,6 +157,8 @@ Here are 14 Knizia board games worth knowing, from five minute card games to his
 
 If tile games are your thing, our guide to [tile placement board games](/articles/tile-placement-board-games/) has more. For more on how bidding, scoring, and other systems work, see our [field guide to board game mechanics](/articles/board-game-mechanics-explained/).
 
+Our guide to the [Rebirth board game](/articles/how-to-play-rebirth-board-game/) teaches it step by step.
+
 ## FAQ
 
 ### Who is Reiner Knizia?

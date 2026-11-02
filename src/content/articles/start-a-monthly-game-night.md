@@ -118,6 +118,8 @@ Many resolutions are about doing less of something. This one is about doing more
 
 We plan to open a lounge in Indianapolis built around exactly this idea: a place where groups like yours can meet every month. Until then, a dining room table works fine. The game is the reason. The people are the point.
 
+Planning a night with your friends? Our [ladies game night ideas](/articles/ladies-game-night-ideas/) pair 15 games with themes and a sample evening.
+
 ## FAQ
 
 ### How often should a game night be?

@@ -93,6 +93,8 @@ Forty people means half the room does not know the other half. The techniques th
 
 If this is a corporate event, the structure is the same and the stakes of the placement work are higher, since the people who stand alone at a company game night are the ones you most wanted at a table. Our article on [board games for team building](/articles/board-games-team-building/) covers what changes when the room is coworkers.
 
+To run the whole room as one hosted game, try these [games for 30 or more people](/articles/games-for-30-people/).
+
 ## FAQ
 
 ### How many games do you need for a game night of 40 people?

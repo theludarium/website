@@ -67,6 +67,8 @@ Less than you fear. A deck, a way to track life totals (a d20 or a phone app), a
 
 For one weekend a year, usually late July or early August, the Indiana Convention Center and Lucas Oil Stadium hold the largest tabletop convention in North America, and Magic is a major part of it. You need a Gen Con badge to play in its events; the store nights around the city carry on as usual that week, and several run extra events for visitors. If you are coming in for the show, our [Gen Con first-timer guide](/articles/gen-con-first-timer-guide/) covers badges and the basics.
 
+Check our [TCG release calendar](/articles/tcg-release-calendar/) for the next prerelease weekend.
+
 ## FAQ
 
 ### Where is Friday Night Magic in Indianapolis?
