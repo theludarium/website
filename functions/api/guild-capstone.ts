@@ -48,7 +48,7 @@ export const FEEDBACK = [
 
 export const RELATIONSHIPS = ['Partner', 'Family member', 'Friend', 'Coworker', 'Someone else'];
 
-const LIMITS = { name: 100, email: 200, game: 120, text: 1500 };
+const LIMITS = { name: 100, email: 200, game: 120, order: 40, text: 1500 };
 const EMAIL_PATTERN = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
 export type Capstone = {
@@ -60,6 +60,12 @@ export type Capstone = {
   scores: Record<string, number>;
   feedback: Record<string, string>;
   change: string;
+  /** Lemon Squeezy order number for the review fee. Empty when `early` is set. */
+  order: string;
+  /** Joined the Guild before the fee started, so the review is free. Levi checks the Kit signup date. */
+  early: boolean;
+  /** Wants their name on the public Guild register once certified. */
+  register: boolean;
 };
 
 const field = (form: FormData, key: string) => String(form.get(key) ?? '').trim();
@@ -76,10 +82,15 @@ export function parseCapstone(form: FormData): Capstone | { error: string } {
     scores: {},
     feedback: {},
     change: field(form, 'change'),
+    order: oneLine(field(form, 'order')).replace(/^#/, ''),
+    early: field(form, 'early') === 'yes',
+    register: field(form, 'register') === 'yes',
   };
   if (!capstone.name || !capstone.email || !capstone.game) return { error: 'missing' };
   if (!EMAIL_PATTERN.test(capstone.email)) return { error: 'email' };
   if (!RELATIONSHIPS.includes(capstone.relationship)) return { error: 'missing' };
+  if (capstone.early) capstone.order = '';
+  else if (!capstone.order) return { error: 'order' };
   for (const line of RUBRIC) {
     const score = Number(field(form, `rubric_${line.key}`));
     if (!Number.isInteger(score) || score < 1 || score > 5) return { error: 'scores' };
@@ -97,6 +108,7 @@ export function parseCapstone(form: FormData): Capstone | { error: string } {
     capstone.certName.length > LIMITS.name ||
     capstone.email.length > LIMITS.email ||
     capstone.game.length > LIMITS.game ||
+    capstone.order.length > LIMITS.order ||
     capstone.change.length > LIMITS.text
   ) {
     return { error: 'long' };
@@ -105,6 +117,10 @@ export function parseCapstone(form: FormData): Capstone | { error: string } {
 }
 
 export const totalScore = (c: Capstone) => Object.values(c.scores).reduce((a, b) => a + b, 0);
+
+/** Opens Levi's certificate maker with this student's name and game filled in. */
+export const certificateLink = (c: Capstone) =>
+  `https://theludarium.com/academy/guild/certificate/?${new URLSearchParams({ name: c.certName, game: c.game })}`;
 
 export function emailText(c: Capstone): string {
   return [
@@ -116,6 +132,10 @@ export function emailText(c: Capstone): string {
     `Game taught:      ${c.game}`,
     `Newcomer was a:   ${c.relationship}`,
     `Second game?      ${c.feedback.again}`,
+    c.early
+      ? 'Review fee:       none, says they joined the Guild before the fee started (check their Kit signup date)'
+      : `Review fee:       Lemon Squeezy order #${c.order} (check it in the dashboard)`,
+    `On the register:  ${c.register ? 'Yes, list them if certified' : 'No'}`,
     '',
     `Self-Assessment: ${totalScore(c)} out of 50`,
     ...RUBRIC.map((line) => `  ${line.name.padEnd(16)} ${c.scores[line.key]}`),
@@ -127,7 +147,7 @@ export function emailText(c: Capstone): string {
     c.change || '(left blank)',
     '',
     c.feedback.again === 'Yes'
-      ? 'The newcomer said yes. If the teach holds up, make the certificate at https://theludarium.com/academy/guild/certificate/ and reply with it.'
+      ? `The newcomer said yes. If the teach holds up, make the certificate at ${certificateLink(c)} and reply with it, plus the LinkedIn link.`
       : 'The newcomer did not say yes, so no certificate yet. Reply with encouragement and what to try next time.',
   ].join('\n');
 }

@@ -17,6 +17,7 @@ function form(overrides: Record<string, string> = {}): FormData {
     fb_about: 'Trains across America',
     fb_again: 'Yes',
     change: 'Shorter setup',
+    order: '#1234567',
     ...Object.fromEntries(RUBRIC.map((line) => [`rubric_${line.key}`, '4'])),
     ...overrides,
   };
@@ -59,4 +60,25 @@ test('the email names the second-game answer and the next step', () => {
   assert.ok(!('error' in yes) && !('error' in no));
   assert.match(emailText(yes), /make the certificate/);
   assert.match(emailText(no), /no certificate yet/);
+});
+
+test('the review fee needs an order number unless the student joined early', () => {
+  const paid = parseCapstone(form());
+  assert.ok(!('error' in paid));
+  assert.equal(paid.order, '1234567');
+  assert.match(emailText(paid), /order #1234567/);
+  assert.deepEqual(parseCapstone(form({ order: '' })), { error: 'order' });
+  const early = parseCapstone(form({ order: '', early: 'yes' }));
+  assert.ok(!('error' in early));
+  assert.equal(early.order, '');
+  assert.match(emailText(early), /joined the Guild before the fee/);
+  assert.deepEqual(parseCapstone(form({ order: 'x'.repeat(41) })), { error: 'long' });
+});
+
+test('the register opt-in reaches the email', () => {
+  const yes = parseCapstone(form({ register: 'yes' }));
+  const no = parseCapstone(form());
+  assert.ok(!('error' in yes) && !('error' in no));
+  assert.match(emailText(yes), /On the register:  Yes/);
+  assert.match(emailText(no), /On the register:  No/);
 });

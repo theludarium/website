@@ -21,6 +21,9 @@ const NOT_IN_SITEMAP = ['/search/', '/newsletter/thanks/', '/newsletter/confirme
   '/academy/guild/toolkit/feedback-card/', '/academy/guild/toolkit/self-assessment/',
   '/cube-commonwealth/where-we-play/thanks/', '/cube-commonwealth/where-we-play/edit/', '/cube-commonwealth/where-we-play/admin/'];
 
+// The Guild register stays out of search until it lists someone (see src/pages/academy/guild/register.astro).
+if (JSON.parse(fs.readFileSync('src/data/guild-register.json', 'utf8')).length === 0) NOT_IN_SITEMAP.push('/academy/guild/register/');
+
 // RPG Demo Library demos are copied in after the build (scripts/rpg-demo-library.mjs),
 // so list them for the sitemap here.
 const RDL_GAMES = 'vendor/rpg-demo-library/games';

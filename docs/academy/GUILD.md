@@ -43,7 +43,7 @@ Use these names exactly. Lessons refer back to them often, so a student hears th
 - **Journeyman** after Modules 3 to 5.
 - **Expert Game Guide** after Modules 6 and 7 and an accepted capstone: the student teaches one new player, fills in the Self-Assessment and the newcomer's Feedback Card, and submits them. Levi reviews it and sends the certificate. The title is earned only when the newcomer agreed to a second game.
 
-The first two ranks are milestones the student claims; only the last is reviewed. Do not promise a badge, a roster, or anything else that does not exist yet.
+The first two ranks are milestones the student claims; only the last is reviewed. The review costs $39 and covers one resubmission; students who joined before November 3, 2026 are reviewed free. Certified students can opt in to the public Guild register (`/academy/guild/register/`). Setup and the review routine: `docs/academy/guild/CERTIFICATION.md`. Do not promise a badge or anything else that does not exist yet.
 
 ## Lesson frontmatter
 

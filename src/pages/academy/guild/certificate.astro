@@ -1,6 +1,8 @@
 ---
 // Levi's certificate maker. Open /academy/guild/certificate/?name=Sam%20Rivera&date=November%203,%202026&no=0001
 // (or type into the fields), then print to PDF and reply to the student's capstone email.
+// Below the fields: a LinkedIn "add to profile" link to paste into the reply, and, for
+// students who asked to be listed, the line to add to src/data/guild-register.json.
 // Not in search results or the sitemap.
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import GuildCertificate from '@/components/GuildCertificate.astro';
@@ -14,7 +16,13 @@ import GuildCertificate from '@/components/GuildCertificate.astro';
       <label>Name <input data-field="name" /></label>
       <label>Date <input data-field="date" /></label>
       <label>Number <input data-field="number" placeholder="0001" /></label>
+      <label>Game taught <input data-extra="game" /></label>
+      <label class="cert-tool__check"><input type="checkbox" data-extra="listed" /> On the register</label>
       <button class="button" type="button" onclick="window.print()">Print</button>
+    </div>
+    <div class="cert-tool__out">
+      <label>LinkedIn link for the reply <input readonly data-out="linkedin" /></label>
+      <label>Register line for src/data/guild-register.json <input readonly data-out="register" /></label>
     </div>
   </section>
   <div class="container cert-page">
@@ -34,6 +42,45 @@ import GuildCertificate from '@/components/GuildCertificate.astro';
     show();
     input.addEventListener('input', show);
   }
+
+  // LinkedIn's "add a certification" link and the register entry, rebuilt on every change.
+  const value = (sel: string) => document.querySelector<HTMLInputElement>(sel);
+  const out = (key: string) => value(`[data-out="${key}"]`);
+  const game = value('[data-extra="game"]');
+  const listed = value('[data-extra="listed"]');
+  if (game) game.value = params.get('game') ?? '';
+  const build = () => {
+    const name = value('[data-field="name"]')?.value.trim() ?? '';
+    const dateText = value('[data-field="date"]')?.value.trim() ?? '';
+    const number = value('[data-field="number"]')?.value.trim() ?? '';
+    const parsed = new Date(dateText || Date.now());
+    const day = Number.isNaN(parsed.getTime()) ? new Date() : parsed;
+    const certUrl = listed?.checked
+      ? `https://theludarium.com/academy/guild/register/#cert-${number}`
+      : 'https://theludarium.com/academy/guild/';
+    const linkedin = new URL('https://www.linkedin.com/profile/add');
+    linkedin.search = new URLSearchParams({
+      startTask: 'CERTIFICATION_NAME',
+      name: 'Expert Game Guide',
+      organizationName: 'The Ludarium',
+      issueYear: String(day.getFullYear()),
+      issueMonth: String(day.getMonth() + 1),
+      certUrl,
+      certId: number,
+    }).toString();
+    const li = out('linkedin');
+    if (li) li.value = linkedin.toString();
+    const iso = `${day.getFullYear()}-${String(day.getMonth() + 1).padStart(2, '0')}-${String(day.getDate()).padStart(2, '0')}`;
+    const entry: Record<string, string> = { number, name, date: iso };
+    if (game?.value.trim()) entry.game = game.value.trim();
+    const reg = out('register');
+    if (reg) reg.value = listed?.checked ? JSON.stringify(entry) : 'Not listed';
+  };
+  document.querySelectorAll('.cert-tool input:not([readonly])').forEach((el) => {
+    el.addEventListener('input', build);
+    el.addEventListener('change', build);
+  });
+  build();
 </script>
 
 <style>
@@ -60,6 +107,18 @@ import GuildCertificate from '@/components/GuildCertificate.astro';
     border: 1px solid var(--color-border);
     border-radius: var(--radius-md);
     font: inherit;
+  }
+
+  .cert-tool__out {
+    display: grid;
+    gap: var(--space-3);
+    margin-top: var(--space-4);
+  }
+
+  .cert-tool label.cert-tool__check {
+    display: flex;
+    gap: var(--space-2);
+    align-items: center;
   }
 
   .cert-page {

@@ -89,6 +89,16 @@ export const KIT_OFFER_KEYS = Object.keys(KIT_OFFER_FORMS) as [KitOfferKey, ...K
 /** Public URL of the Lemon Squeezy store, for example https://theludarium.lemonsqueezy.com */
 export const STORE_URL = 'https://theludarium.lemonsqueezy.com';
 
+/**
+ * Guild of Game Guides certification. The training is free; the capstone review is paid.
+ * GUILD_CERT_CHECKOUT_URL is the Lemon Squeezy checkout for the review. While it is empty,
+ * the capstone page says payment opens soon and early members can still submit.
+ */
+export const GUILD_CERT_PRICE = '$39';
+export const GUILD_CERT_CHECKOUT_URL = '';
+/** Anyone who joined the Guild before this date was promised a free review, and keeps it. */
+export const GUILD_CERT_FREE_BEFORE = 'November 3, 2026';
+
 /** Where people can reach The Ludarium, including privacy requests. */
 export const CONTACT_EMAIL = 'hello@theludarium.com';
 
