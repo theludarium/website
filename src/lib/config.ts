@@ -95,7 +95,7 @@ export const STORE_URL = 'https://theludarium.lemonsqueezy.com';
  * the capstone page says payment opens soon and early members can still submit.
  */
 export const GUILD_CERT_PRICE = '$39';
-export const GUILD_CERT_CHECKOUT_URL = '';
+export const GUILD_CERT_CHECKOUT_URL = 'https://theludarium.lemonsqueezy.com/checkout/buy/a053d0aa-0575-412d-b9fd-4e2b377f6872';
 /** Anyone who joined the Guild before this date was promised a free review, and keeps it. */
 export const GUILD_CERT_FREE_BEFORE = 'November 3, 2026';
 

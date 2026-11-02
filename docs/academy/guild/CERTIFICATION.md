@@ -2,6 +2,10 @@
 
 The Guild training is free. The capstone review that earns the Expert Game Guide title costs $39 (`GUILD_CERT_PRICE` in `src/lib/config.ts`). See DECISIONS.md, 2026-11-02.
 
+## Lemon Squeezy product (created 2026-11-02)
+
+Product ID 1496230, "Expert Game Guide certification review", $39 single payment, tax category Digital Goods or Services, hidden from the storefront (sold only from the capstone page). The confirmation pop-up and receipt both have a "Send my capstone" button to the capstone form. Checkout: `GUILD_CERT_CHECKOUT_URL` in `src/lib/config.ts`.
+
 ## One-time setup (Levi)
 
 1. **Lemon Squeezy product.** In the store "The Ludarium", create a product:
