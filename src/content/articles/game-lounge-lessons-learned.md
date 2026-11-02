@@ -48,7 +48,7 @@ Most lists of starting-a-board-game-cafe mistakes are written after the cafe clo
 
 **Why it was wrong.** Nobody forgives a dirty bathroom, bad coffee, or a host who does not look up. A game lounge is a hospitality business with a membership layer. The gym and coworking comparisons we lean on are useful, but gyms close for the same reasons restaurants do: the room stopped feeling cared for.
 
-**What we changed.** We now plan to hire for hospitality first and game knowledge second, and teach the games to the people who are already good with people. It is easier to teach Azul to a great host than to teach warmth to a rules expert. <!-- AFFILIATE -->
+**What we changed.** We now plan to hire for hospitality first and game knowledge second, and teach the games to the people who are already good with people. It is easier to teach [Azul](https://link.amazon/B0bGRYHex) to a great host than to teach warmth to a rules expert.
 
 ## Mistake 6: We wanted the beautiful big space
 

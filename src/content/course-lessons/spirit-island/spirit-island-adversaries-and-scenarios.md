@@ -78,11 +78,9 @@ Faster wins score more, and so do harder ones.
 
 Each expansion adds Spirits and at least one new adversary. On the publisher's pages:
 
-- **[Branch & Claw](https://shop.greaterthangames.com/products/spirit-island-branch-claw)** adds two Spirits, France as an adversary, four scenarios, new token types, and Events that bring the Island to life during the Invader Phase.
-- **[Jagged Earth](https://shop.greaterthangames.com/products/spirit-island-jagged-earth)** adds ten Spirits, two adversaries (the Habsburg Monarchy and Russia), more scenarios, and Island boards that take the game up to 6 players.
-- **[Feather and Flame](https://shop.greaterthangames.com/products/spirit-island-feather-and-flame)** collects the two promo packs: four Spirits, Scotland as an adversary, two scenarios, and Aspect cards that give familiar Spirits a new twist.
-- **[Nature Incarnate](https://shop.greaterthangames.com/products/spirit-island-nature-incarnate)** adds eight Spirits, the Habsburg Mining Expedition adversary, two scenarios, and many Aspects. Its page lists both the base game and Jagged Earth as required.
-
-<!-- AFFILIATE: Spirit Island: Branch & Claw, Jagged Earth, Feather and Flame, and Nature Incarnate -->
+- **[Branch & Claw](https://www.amazon.com/dp/B06VWBP1NS?tag=cubecommonw0a-20)** adds two Spirits, France as an adversary, four scenarios, new token types, and Events that bring the Island to life during the Invader Phase.
+- **[Jagged Earth](https://www.amazon.com/dp/B085DLZRFQ?tag=cubecommonw0a-20)** adds ten Spirits, two adversaries (the Habsburg Monarchy and Russia), more scenarios, and Island boards that take the game up to 6 players.
+- **[Feather and Flame](https://www.amazon.com/dp/B09RL12VK7?tag=cubecommonw0a-20)** collects the two promo packs: four Spirits, Scotland as an adversary, two scenarios, and Aspect cards that give familiar Spirits a new twist.
+- **[Nature Incarnate](https://www.amazon.com/dp/B0C6MT8WM9?tag=cubecommonw0a-20)** adds eight Spirits, the Habsburg Mining Expedition adversary, two scenarios, and many Aspects. Its page lists both the base game and Jagged Earth as required.
 
 The base box alone holds three adversaries with six levels each, four scenarios, and the thematic map. Our guide on [when expansions are worth it](/articles/expansions-worth-it/) can help you decide whether your group needs one yet.

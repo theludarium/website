@@ -27,7 +27,7 @@ The two events use different games. Pick one and train for it. Practicing Uprisi
 
 ## The five parts of every week
 
-**1. Volume.** Play many games. [Dune: Imperium Digital](https://www.direwolfdigital.com/dune-imperium-digital/) runs online games against people and AI, and Dire Wolf announced on June 9, 2026 that [Uprising was available](https://news.direwolfdigital.com/uprising-digital-is-now-available/) on Steam and mobile. Digital play handles the bookkeeping, so you see more decisions per hour. Aim for four to six games a week. <!-- AFFILIATE: Dune: Imperium Digital -->
+**1. Volume.** Play many games. [Dune: Imperium Digital](https://www.direwolfdigital.com/dune-imperium-digital/) runs online games against people and AI, and Dire Wolf announced on June 9, 2026 that [Uprising was available](https://news.direwolfdigital.com/uprising-digital-is-now-available/) on Steam and mobile. Digital play handles the bookkeeping, so you see more decisions per hour. Aim for four to six games a week.
 
 <!-- VERIFY: which expansions Dune: Imperium Digital currently includes, so readers know whether it matches their event's box list. -->
 

@@ -68,9 +68,7 @@ The Level 3 lesson on [opening hand odds](/academy/pokemon-tcg/pokemon-tcg-proba
 
 The rulebook suggests a simple route for a first custom deck: take a League Battle Deck you like and modify it. The rulebook says these preconstructed decks come with everything you need to play, including gameplay advice. Change a few cards at a time, keep it at exactly 60, and you learn why each card was there.
 
-[Pokémon TCG League Battle Decks](https://tcg.pokemon.com/en-us/product-guide/) are listed in the official product guide.
-
-<!-- AFFILIATE: Pokémon TCG League Battle Deck -->
+[Pokémon TCG League Battle Decks](https://www.amazon.com/dp/B0GRCDKMSW?tag=cubecommonw0a-20) are listed in the [official product guide](https://tcg.pokemon.com/en-us/product-guide/).
 
 ## Single-Prize or multi-Prize?
 

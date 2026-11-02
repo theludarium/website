@@ -38,9 +38,7 @@ A party is not a game night. People arrive late, wander off, and leave early to 
 
 ### Herd Mentality
 
-[Herd Mentality](https://bigpotato.com/products/herd-mentality) from Big Potato asks a question, and everyone writes an answer. The goal is not to be right. The goal is to match the herd. Answer with the majority and you earn a cow. Be the only person with a different answer and you get stuck with the pink cow. It plays 4 to 20, ages 10 and up, in about twenty minutes, and lists for about $25.
-
-<!-- AFFILIATE: Herd Mentality -->
+[Herd Mentality](https://www.amazon.com/dp/B093HBBMPT?tag=cubecommonw0a-20) from Big Potato asks a question, and everyone writes an answer. The goal is not to be right. The goal is to match the herd. Answer with the majority and you earn a cow. Be the only person with a different answer and you get stuck with the pink cow. It plays 4 to 20, ages 10 and up, in about twenty minutes, and lists for about $25.
 
 Big Potato also sells a Christmas Expansion with 100 festive questions that shuffle straight into the base game, for about $13 at the time of writing. Expect a long argument over the most overplayed Christmas song.
 
@@ -48,13 +46,9 @@ Big Potato also sells a Christmas Expansion with 100 festive questions that shuf
 
 [Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20) is the telephone game with sketch pads. Everyone draws a secret word, passes the pad, guesses what the drawing shows, and passes again. By the end, "candy cane" has become something nobody can explain. It plays 4 to 8, ages 10 and up, about thirty minutes, with a list price of about $32. Nobody needs to draw well. Bad drawings are the best part.
 
-<!-- AFFILIATE: Telestrations -->
-
 ### Monikers
 
-[Monikers](https://cmyk.games/products/monikers) is the boxed version of the classic party game Celebrity. Two teams play the same deck of names three times. First you can say almost anything, then only one word, then only charades. The jokes build on each other as the rounds go. It lists for about $25, plays 2 to 12 or more, and takes about thirty minutes. The main edition is rated 17 and up. For a mixed crowd, the Family Edition is the same price.
-
-<!-- AFFILIATE: Monikers -->
+[Monikers](https://www.amazon.com/dp/B00M07OQ1U?tag=cubecommonw0a-20) is the boxed version of the classic party game Celebrity. Two teams play the same deck of names three times. First you can say almost anything, then only one word, then only charades. The jokes build on each other as the rounds go. It lists for about $25, plays 2 to 12 or more, and takes about thirty minutes. The main edition is rated 17 and up. For a mixed crowd, the Family Edition is the same price.
 
 ## Clever games for friends who like a puzzle
 
@@ -62,19 +56,13 @@ Big Potato also sells a Christmas Expansion with 100 festive questions that shuf
 
 [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) splits the room into two teams. Each team has a spymaster who gives one-word clues to steer teammates toward their secret words on a grid of 25, while avoiding the assassin. It seats as many as you have. A refreshed edition lists for about $25 at Czech Games Edition. Our free [Codenames course](/academy/codenames/) covers how to give a clue people remember.
 
-<!-- AFFILIATE: Codenames -->
-
 ### Just One
 
 [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20) is a cooperative word game. One player has a mystery word, and everyone else writes a one-word clue for it. Before the guesser looks, any matching clues are erased. So the obvious clue cancels itself out, and the table has to get creative. It plays 3 to 7, ages 8 and up, in about twenty minutes, and lists for about $25. Nobody loses alone, which suits a group of near strangers.
 
-<!-- AFFILIATE: Just One -->
-
 ### The Chameleon
 
-[The Chameleon](https://bigpotato.com/products/the-chameleon) is a quick bluffing game. Everyone sees a secret word from a grid of topics except one player, the Chameleon, who has to fake it. Each person says one word related to the secret, then the table votes on who was bluffing. Rounds take a few minutes. It plays 3 to 8, ages 14 and up, and lists for about $27.
-
-<!-- AFFILIATE: The Chameleon -->
+[The Chameleon](https://www.amazon.com/dp/B07MV4NN5Z?tag=cubecommonw0a-20) is a quick bluffing game. Everyone sees a secret word from a grid of topics except one player, the Chameleon, who has to fake it. Each person says one word related to the secret, then the table votes on who was bluffing. Rounds take a few minutes. It plays 3 to 8, ages 14 and up, and lists for about $27.
 
 *If this is useful, the newsletter sends more like it.*
 
@@ -84,19 +72,13 @@ Big Potato also sells a Christmas Expansion with 100 festive questions that shuf
 
 [Hues and Cues](https://www.amazon.com/dp/B084D2XQ9F?tag=cubecommonw0a-20) is a color game. One player picks a color square from a board of hundreds and gives a one-word clue, then a two-word clue, while everyone else places their markers on the color they think it is. It works for 3 to 10 players ages 8 and up in about thirty minutes. List price is about $26.
 
-<!-- AFFILIATE: Hues and Cues -->
-
 ### Skull
 
 [Skull](https://www.amazon.com/dp/B08R2BPLSN?tag=cubecommonw0a-20) is bluffing with almost nothing in the box. Each player has three roses and one skull. You stack cards face down, then bid on how many roses you can flip without hitting a skull. It plays 3 to 6, ages 10 and up, about thirty minutes, for about $21.
 
-<!-- AFFILIATE: Skull -->
-
 ### Flip 7: Grinch Edition
 
 Flip 7 is a push-your-luck card game. Flip cards one at a time and add them up, but flip a number you already have and you bust for the round. The Op sells a Grinch Edition that plays 3 or more, ages 8 and up, in about twenty minutes, with a list price of about $8. The Op sells through retailers, and holiday editions sell out, so check your local game store early. Our free [Flip 7 course](/academy/flip-7/) has a five-minute teach.
-
-<!-- AFFILIATE: Flip 7: Grinch Edition -->
 
 ## Which game fits your group size?
 

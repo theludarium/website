@@ -77,8 +77,6 @@ That last point is why a timer is a good expert challenge. It tests whether the 
 
 The [Codenames app](https://www.czechgames.com/games/codenames-app) from Czech Games Edition has daily solo challenges, which its designer singles out in the rulebook as the feature he is proudest of. A fresh puzzle every day is a steady way to practice clue giving between game nights.
 
-<!-- AFFILIATE: Codenames app -->
-
 <!-- AT OUR TABLE: one line on whether Levi's table plays with the expert clues, and which one gets used more. -->
 
 ## Harder challenges for your table

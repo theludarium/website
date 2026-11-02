@@ -58,9 +58,7 @@ Le Scorpion Masqué's [Sky Team downloads page](https://www.scorpionmasque.com/S
 
 ## The Turbulence expansion
 
-The first expansion, sold as [Sky Team: Turbulence](https://www.scorpionmasque.com/en/sky-team-turbulence) (the publisher's page also calls it Alarms and Turbulences), adds 20 harder scenarios and new modules including Turbulence, Low Visibility, and Alarms. Its destinations include Beijing, Madrid, Warsaw, Sydney, Cape Town, Kyiv, and Saint Martin. The box has 10 new Approach Tracks, 2 Altitude Tracks, an Alarm board, and a handful of new tokens. It needs the base game, and its contents fit in the base box.
-
-<!-- AFFILIATE: Sky Team: Turbulence -->
+The first expansion, sold as [Sky Team: Turbulence](https://www.amazon.com/dp/B0DMKYVW45?tag=cubecommonw0a-20) (the publisher's page also calls it Alarms and Turbulences), adds 20 harder scenarios and new modules including Turbulence, Low Visibility, and Alarms. Its destinations include Beijing, Madrid, Warsaw, Sydney, Cape Town, Kyiv, and Saint Martin. The box has 10 new Approach Tracks, 2 Altitude Tracks, an Alarm board, and a handful of new tokens. It needs the base game, and its contents fit in the base box.
 
 <!-- VERIFY: the expansion's English retail name; the publisher's page uses both "Alarms and Turbulences" and "Turbulence", and retailers list "Sky Team: Turbulence". -->
 
@@ -68,8 +66,6 @@ Wait to buy it until the Flight Log's harder colors feel within reach. Its scena
 
 ## If you are choosing a first copy
 
-The base game is the only product you need for months of play: [Sky Team](https://www.scorpionmasque.com/en/sky-team) from Le Scorpion Masqué, for exactly two players, about 20 minutes a flight.
-
-<!-- AFFILIATE: Sky Team -->
+The base game is the only product you need for months of play: [Sky Team](https://www.amazon.com/dp/B0CHD8RCSJ?tag=cubecommonw0a-20) from Le Scorpion Masqué, for exactly two players, about 20 minutes a flight.
 
 It also makes a fine gift for a pair who play together; it appears in our guide to [board game gifts for couples](/articles/board-game-gifts-for-couples/). For a broader way to decide whether any expansion is worth it, see [are expansions worth it](/articles/expansions-worth-it/).

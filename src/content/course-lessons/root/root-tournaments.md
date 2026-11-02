@@ -50,7 +50,7 @@ Trial events at WBC are chosen each year by a vote of BPA members. WBC 2027 runs
 
 ## Root online
 
-Many competitive Root players play online between events. [Root digital](https://www.direwolfdigital.com/root/), by Dire Wolf, runs on PC through Steam, Nintendo Switch, iOS, and Android, with cross-platform online play and several expansions as add-ons. <!-- AFFILIATE: Root digital edition (Dire Wolf) --> The [next lesson](/academy/root/root-online-practice/) covers how to practice there.
+Many competitive Root players play online between events. [Root digital](https://www.direwolfdigital.com/root/), by Dire Wolf, runs on PC through Steam, Nintendo Switch, iOS, and Android, with cross-platform online play and several expansions as add-ons. The [next lesson](/academy/root/root-online-practice/) covers how to practice there.
 
 Leder Games' official community Discord is called Woodland Warriors, and its card library links to it. Community-run Root tournaments and leagues have been organized there and elsewhere over the years.
 

@@ -33,15 +33,11 @@ The current box is the 2024 edition. It has three ready-to-play 60-card decks, a
 - Nobody in the house has played before.
 - You want the game to sit on a table like a board game, with a clear place for every card.
 
-<!-- AFFILIATE: Pokémon TCG Battle Academy (2024) -->
-
 ## A good second option: a Mega Battle Deck
 
 If one player is learning and already has someone to play against, like a sibling with cards or a store's League, a single deck may make more sense. The current rulebook names the **Mega Battle Deck** as a great way to learn: a preconstructed 60-card deck that comes with a strategy sheet and everything you need to play.
 
-The official product guide lists [Mega Battle Decks](https://tcg.pokemon.com/en-us/product-guide/) one step up from Battle Academy, for players ready for a little more challenge. Two different Mega Battle Decks make a fine two-player starter too. <!-- VERIFY: which Mega Battle Decks are currently on shelves, their exact contents, and the product guide's placement of them one step up from Battle Academy (tcg.pokemon.com blocked automated reading during the fact check). -->
-
-<!-- AFFILIATE: Pokémon TCG Mega Battle Deck -->
+The [official product guide](https://tcg.pokemon.com/en-us/product-guide/) lists [Mega Battle Decks](https://www.amazon.com/dp/B0FLP49KYM?tag=cubecommonw0a-20) one step up from Battle Academy, for players ready for a little more challenge. Two different Mega Battle Decks make a fine two-player starter too. <!-- VERIFY: which Mega Battle Decks are currently on shelves, their exact contents, and the product guide's placement of them one step up from Battle Academy (tcg.pokemon.com blocked automated reading during the fact check). -->
 
 ## Free before you buy
 

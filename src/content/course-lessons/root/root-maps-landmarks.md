@@ -56,7 +56,7 @@ The Homeland expansion adds two more. On the **Marsh** map, with one to four pla
 
 Landmarks are special pieces that sit on the map. Under the Law, they cannot be battled, moved, covered, or removed unless the landmark itself says so, and nobody owns them. Each one's rules are printed on its own card. Under Advanced Setup, the group may play with one or two: the last player in turn order places the first, and the second-to-last player places the second.
 
-The [Landmarks Pack](https://ledergames.com/products/root-landmark-pack) adds landmarks that work on any map, including the Black Market, Elder Treetop, Legendary Forge, and Lost City. <!-- AFFILIATE: Root: Landmarks Pack -->
+The [Landmarks Pack](https://ledergames.com/products/root-landmark-pack) adds landmarks that work on any map, including the Black Market, Elder Treetop, Legendary Forge, and Lost City.
 
 Tournaments tie landmarks to maps. The 2026 WBC event used the Tower on the Mountain map, the Ferry on the Lake map, the Legendary Forge on the Winter map, and the Lost City on the Autumn map, with the Lost City added in the semifinal and final.
 

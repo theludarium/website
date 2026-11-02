@@ -48,8 +48,6 @@ There is also a [Codenames app](https://www.czechgames.com/games/codenames-app) 
 
 <!-- VERIFY: when the Codenames Discord Activity launched, from the CGE news post. -->
 
-<!-- AFFILIATE: Codenames app -->
-
 Our article on [playing board games with long distance friends](/articles/playing-board-games-with-long-distance-friends/) has more ways to keep a group together across miles.
 
 ## Use it to bring people together

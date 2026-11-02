@@ -15,7 +15,7 @@ The [tournaments lesson](/academy/ticket-to-ride/ticket-to-ride-tournaments/) sh
 
 ## The rules that change
 
-The Mega Game comes from the [USA 1910 expansion](https://www.daysofwonder.com/game/ticket-to-ride-usa-1910/). Its rulebook sets it up this way: <!-- AFFILIATE: Ticket to Ride: USA 1910 -->
+The Mega Game comes from the [USA 1910 expansion](https://www.amazon.com/dp/B000K8FYAS?tag=cubecommonw0a-20). Its rulebook sets it up this way:
 
 - **All 69 tickets** go in one deck: the 35 new 1910 tickets, the 30 original tickets in a larger reprint (4 of them with lower values than the old cards), and 4 from the old Mystery Train promo.
 - **Starting tickets:** deal 5 to each player. Keep at least 3.

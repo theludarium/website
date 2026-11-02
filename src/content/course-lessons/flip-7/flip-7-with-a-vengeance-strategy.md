@@ -11,9 +11,7 @@ oneIdea: "In With a Vengeance, your row stays a target until the round ends, eve
 tryThis: "In your next game of With a Vengeance, before you stay, ask: \"If someone hits me with a Flip Four or a Swap now, how badly does this row break?\" If the answer is badly, consider one more safe card or a lower-risk row next round."
 nextTeaser: "Last, where to play more: online play, the tournament that has already crowned a champion, finding a public game night, and running a Flip 7 bracket of your own."
 ---
-Lesson 10 introduced [Flip 7: With a Vengeance](https://theop.games/products/flip-7-with-a-vengeance), the standalone sequel from The Op. It keeps the heart of Flip 7: hit or stay, bust on a duplicate, 15 points for seven different numbers, and the race to 200. Then it hands every player ways to wreck everyone else.
-
-<!-- AFFILIATE: Flip 7: With a Vengeance -->
+Lesson 10 introduced [Flip 7: With a Vengeance](https://www.amazon.com/dp/B0GK9XK2N4?tag=cubecommonw0a-20), the standalone sequel from The Op. It keeps the heart of Flip 7: hit or stay, bust on a duplicate, 15 points for seven different numbers, and the race to 200. Then it hands every player ways to wreck everyone else.
 
 The rules here come from the publisher's [With a Vengeance rulebook](https://cdn.shopify.com/s/files/1/0611/3958/3198/files/26_FLIP_7_VENGEANCE_RULES_C.pdf) (Ruleset Edition 1) and its [With a Vengeance FAQ](https://theop.games/pages/flip-7-wav-faqs).
 
@@ -69,6 +67,5 @@ The optional Brutal Mode lets round scores go below zero, lets modifiers go to p
 
 ## Is it for your table?
 
-With a Vengeance suits players who enjoy being targeted as much as targeting; our piece on [take-that games](/articles/take-that-games/) can help you judge. The original [Flip 7](https://theop.games/products/flip-7) stays the better first game for new players.
+With a Vengeance suits players who enjoy being targeted as much as targeting; our piece on [take-that games](/articles/take-that-games/) can help you judge. The original [Flip 7](https://www.amazon.com/dp/B0DWGVM7RY?tag=cubecommonw0a-20) stays the better first game for new players.
 
-<!-- AFFILIATE: Flip 7 -->

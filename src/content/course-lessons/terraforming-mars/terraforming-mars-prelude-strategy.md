@@ -70,4 +70,4 @@ That is a lot of information. Use it to plan your first two generations.
 
 Prelude and the draft fit together. Tournaments such as WBC have drafted Preludes too: in 2025, players kept 1 and passed the rest until each had 4, then chose 2. The same rules from the [draft lesson](/academy/terraforming-mars/terraforming-mars-draft-strategy/) apply: first pick for you, later picks with an eye on your neighbors.
 
-Get Prelude [from Stronghold Games](https://strongholdgames.com/our-games/terraforming-mars-prelude/). It needs the base game. <!-- AFFILIATE: Terraforming Mars: Prelude -->
+Get [Prelude](https://www.amazon.com/dp/B07F4J9MFZ?tag=cubecommonw0a-20) on Amazon. It needs the base game.

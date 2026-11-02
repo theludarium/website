@@ -65,8 +65,6 @@ Samples that small swing a lot, so treat them as a hint, not a ranking. The broa
 
 ## Expansion maps
 
-Capstone's [Zoo Map Pack 1](https://capstone-games.com/products/ark-nova-zoo-map-pack-1) adds two more maps, Geographical Zoo and Rescue Station, and [Zoo Map Pack 2](https://capstone-games.com/products/ark-nova-zoo-map-pack-2) adds five layouts. Add them after the base maps feel familiar.
-
-<!-- AFFILIATE: Ark Nova Zoo Map Pack 1 and Zoo Map Pack 2 -->
+Capstone's [Zoo Map Pack 1](https://www.amazon.com/dp/B0BH8YGPMN?tag=cubecommonw0a-20) adds two more maps, Geographical Zoo and Rescue Station, and [Zoo Map Pack 2](https://www.amazon.com/dp/B0DLXZJ644?tag=cubecommonw0a-20) adds five layouts. Add them after the base maps feel familiar.
 
 <!-- AT OUR TABLE: one line on the advanced map Levi's group picks most, and the one they avoid. -->

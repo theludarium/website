@@ -13,9 +13,7 @@ nextTeaser: "Next, how to teach Sky Team in five minutes and run a first flight 
 ---
 Sky Team puts two people in the cockpit of an airliner and asks them to land it. One of you is the Pilot, the other the Co-Pilot. Each round you roll dice in secret and take turns placing them on a shared Control Panel: keep the wings level, set your speed, talk to the tower, lower the gear and flaps, and brake. The twist is that once the dice are rolled, nobody speaks.
 
-Designed by Luc Rémond and published by [Le Scorpion Masqué](https://www.scorpionmasque.com/en/sky-team), Sky Team won the Spiel des Jahres in 2024. It plays in about 20 minutes, for exactly two. This lesson follows the current English rules for your first flight, into Montreal. Everything below also fits on the one-page [Sky Team teach sheet](/academy/sky-team/teach-sheet/).
-
-<!-- AFFILIATE: Sky Team -->
+Designed by Luc Rémond and published by [Le Scorpion Masqué](https://www.scorpionmasque.com/en/sky-team), [Sky Team](https://www.amazon.com/dp/B0CHD8RCSJ?tag=cubecommonw0a-20) won the Spiel des Jahres in 2024. It plays in about 20 minutes, for exactly two. This lesson follows the current English rules for your first flight, into Montreal. Everything below also fits on the one-page [Sky Team teach sheet](/academy/sky-team/teach-sheet/).
 
 ## What is in the box?
 

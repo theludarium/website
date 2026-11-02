@@ -76,6 +76,6 @@ So, as the second player, count your opponent's possible final turn before you l
 
 ## If your Splendor is mostly a duel
 
-If you play Splendor at two more than any other count, [Splendor Duel](https://www.spacecowboys-games.com/game/splendor-duel/) is designed for it, with a shared board and more ways to interfere. The official tournament guide even leaves two-player events to Splendor Duel. <!-- AFFILIATE: Splendor Duel -->
+If you play Splendor at two more than any other count, [Splendor Duel](https://www.amazon.com/dp/B0BF57RNPC?tag=cubecommonw0a-20) is designed for it, with a shared board and more ways to interfere. The official tournament guide even leaves two-player events to Splendor Duel.
 
 Our list of [two-player board games](/articles/two-player-board-games-date-night/) has more that shine with just two at the table.

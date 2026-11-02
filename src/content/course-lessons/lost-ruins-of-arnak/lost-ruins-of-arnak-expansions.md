@@ -46,43 +46,31 @@ The rulebook recommends the Bird Temple side for your first game. Once your grou
 
 The Downloads section of the publisher's [Lost Ruins of Arnak page](https://czechgames.com/games/lost-ruins-of-arnak) has more at no cost: the rulebook, a player aid, a score pad, a solo campaign with its rules, solo mini expansions, and rules for the promo cards. The rulebook describes the solo campaign, The Search for Professor Kutil, as four chapters, each with its own rules and goals.
 
-If you are buying the base game, the same page links to the publisher's shops.
-
-<!-- AFFILIATE: Lost Ruins of Arnak (base game) -->
+If you are buying the base game, get [Lost Ruins of Arnak](https://www.amazon.com/dp/B08CD3JVQB?tag=cubecommonw0a-20) on Amazon.
 
 ## Expedition Leaders
 
-[Lost Ruins of Arnak: Expedition Leaders](https://czechgames.com/games/lost-ruins-of-arnak-expedition-leaders) (2021) adds six leaders, each with their own abilities and starting deck, which makes every seat play differently. It also adds a double-sided research track with two new layouts, plus 18 items and 12 artifacts.
+[Lost Ruins of Arnak: Expedition Leaders](https://www.amazon.com/dp/B098M3TXFH?tag=cubecommonw0a-20) (2021) adds six leaders, each with their own abilities and starting deck, which makes every seat play differently. It also adds a double-sided research track with two new layouts, plus 18 items and 12 artifacts.
 
 If your group wants one expansion, this is the natural first pick. Leaders add new abilities on top of the turn everyone already knows, so nobody has to relearn the game.
 
-<!-- AFFILIATE: Lost Ruins of Arnak: Expedition Leaders -->
-
 ## The Missing Expedition
 
-[Lost Ruins of Arnak: The Missing Expedition](https://czechgames.com/games/lost-ruins-of-arnak-the-missing-expedition) (2023) is a six-chapter, replayable campaign about the missing Professor Kutil, played solo or cooperatively with two players. Its new research tracks, assistants, items, guardians, and artifacts also work in a standard game, and its new leaders are compatible with the ones from Expedition Leaders.
+[Lost Ruins of Arnak: The Missing Expedition](https://www.amazon.com/dp/B0BZJCKX69?tag=cubecommonw0a-20) (2023) is a six-chapter, replayable campaign about the missing Professor Kutil, played solo or cooperatively with two players. Its new research tracks, assistants, items, guardians, and artifacts also work in a standard game, and its new leaders are compatible with the ones from Expedition Leaders.
 
 It is the pick for solo players and couples who want a story, more than for a regular group of four.
 
-<!-- AFFILIATE: Lost Ruins of Arnak: The Missing Expedition -->
-
 ## Twisted Paths and the Adventure Chest
 
-[Lost Ruins of Arnak: Twisted Paths](https://czechgames.com/games/lost-ruins-of-arnak-twisted-paths) (2025) is the publisher's "final major addition" to Arnak. It brings a larger double-sided map with two new research tracks: the Owl Temple by day, with new temple tiles and a lantern research token, and the Spider Temple by night, with dark tablets and altars. It also adds new guardians, sites, assistants, and solo rival tiles.
-
-<!-- AFFILIATE: Lost Ruins of Arnak: Twisted Paths -->
+[Lost Ruins of Arnak: Twisted Paths](https://www.amazon.com/dp/B0FSF479PH?tag=cubecommonw0a-20) (2025) is the publisher's "final major addition" to Arnak. It brings a larger double-sided map with two new research tracks: the Owl Temple by day, with new temple tiles and a lantern research token, and the Spider Temple by night, with dark tablets and altars. It also adds new guardians, sites, assistants, and solo rival tiles.
 
 The [Adventure Chest](https://czechgames.com/games/lost-ruins-of-arnak-adventure-chest) is a limited-edition storage box with an insert that fits all the Arnak content released before it, and it includes Twisted Paths. It does not include the base game or the earlier expansions.
-
-<!-- AFFILIATE: Lost Ruins of Arnak: Adventure Chest -->
 
 <!-- VERIFY: Twisted Paths was listed as "available now in the EU store, coming soon to the US store," and the Adventure Chest page pointed to a reprint sign-up. The upgraded components were listed as coming soon in the US store. Check current availability before this lesson goes out. -->
 
 ## Upgrades
 
 The publisher also offers [upgraded components](https://store.czechgames.com/products/lost-ruins-of-arnak-upgraded-components): metal coins and compasses. Its US store listed them as coming soon when we checked. They change nothing about play. They are a gift for the person in your group who already owns everything else.
-
-<!-- AFFILIATE: Lost Ruins of Arnak: Upgraded Components -->
 
 ## A sensible order
 

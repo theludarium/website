@@ -61,7 +61,7 @@ For experienced players, the rulebook offers a variant. After setup, each player
 
 ## The base game
 
-You need the base game for every expansion. 2F-Spiele publishes Power Grid Recharged as [Funkenschlag (Recharged Version)](https://2f-games.com/2f-spiele/power-grid-game-family/power-grid-recharged-version/), and Rio Grande Games publishes the English edition. <!-- AFFILIATE: Power Grid Recharged -->
+You need the base game for every expansion. 2F-Spiele publishes [Power Grid Recharged](https://www.amazon.com/dp/B07HM7WZT9?tag=cubecommonw0a-20) as [Funkenschlag (Recharged Version)](https://2f-games.com/2f-spiele/power-grid-game-family/power-grid-recharged-version/), and Rio Grande Games publishes the English edition.
 
 <!-- VERIFY: swap in Rio Grande Games' own English product page for Power Grid Recharged (riograndegames.com could not be opened in research), and confirm which expansions below are in print in English. Also confirm the English names of Bremen/Manhattan and The New Power Plants Set 2 (2F-Spiele lists both only on its German site, and labels Set 2 both Recharged and Classic). -->
 
@@ -69,21 +69,21 @@ You need the base game for every expansion. 2F-Spiele publishes Power Grid Recha
 
 Each expansion is a double-sided board with two new maps for 2 to 6 players. The ones marked Recharged were made for this edition; the others need a few small rule changes, which 2F-Spiele lists in its Recharged errata.
 
-**[France/Italy](https://2f-games.com/2f-spiele/power-grid-game-family/power-grid-france-italy-expansion-1/)** pairs a nuclear-heavy France, built around Paris, with an Italy where fuel is scarce and routes are expensive. A good first expansion because the two maps feel so different. <!-- AFFILIATE: Power Grid: France/Italy -->
+**[France/Italy](https://www.amazon.com/dp/B09SZNS9DH?tag=cubecommonw0a-20)** pairs a nuclear-heavy France, built around Paris, with an Italy where fuel is scarce and routes are expensive. A good first expansion because the two maps feel so different.
 
-**[Benelux/Central Europe](https://2f-games.com/2f-spiele/power-grid-game-family/power-grid-benelux-central-europe-expansion-2/)** has a cheap, fast Benelux map that favors eco plants and churns small plants quickly, and a Central Europe map shaped by Poland's coal. <!-- AFFILIATE: Power Grid: Benelux/Central Europe -->
+**[Benelux/Central Europe](https://www.amazon.com/dp/B000MMJEY4?tag=cubecommonw0a-20)** has a cheap, fast Benelux map that favors eco plants and churns small plants quickly, and a Central Europe map shaped by Poland's coal.
 
-**[Northern Europe/United Kingdom & Ireland](https://2f-games.com/2f-spiele/power-grid-game-family/power-grid-northern-europe-united-kingdom-ireland-expansion-8-recharged-version/)** (Recharged) has a Northern Europe map where the plants in play depend on which regions you choose, and a UK & Ireland map where you can run two separate networks and Step 3 comes early. <!-- AFFILIATE: Power Grid: Northern Europe/United Kingdom & Ireland -->
+**[Northern Europe/United Kingdom & Ireland](https://www.amazon.com/dp/B07Z9TWS7D?tag=cubecommonw0a-20)** (Recharged) has a Northern Europe map where the plants in play depend on which regions you choose, and a UK & Ireland map where you can run two separate networks and Step 3 comes early.
 
-**[Middle East/South Africa](https://2f-games.com/2f-spiele/power-grid-game-family/power-grid-middle-east-south-africa-expansion-12-recharged-version/)** (Recharged) starts the Middle East rich in oil, with garbage and nuclear arriving later, and makes South Africa a coal country with six international links. <!-- AFFILIATE: Power Grid: Middle East/South Africa -->
+**[Middle East/South Africa](https://www.amazon.com/dp/B003MA71SO?tag=cubecommonw0a-20)** (Recharged) starts the Middle East rich in oil, with garbage and nuclear arriving later, and makes South Africa a coal country with six international links.
 
-**[Bremen/Manhattan](https://2f-spiele.de/2f-spiele/funkenschlag-erw-15-recharged-version-bremen-manhattan/)** (Recharged) shrinks the game to cities. Bremen charges by district, and Manhattan is one crowded region that stays in Step 1 all game. <!-- AFFILIATE: Power Grid: Bremen/Manhattan -->
+**[Bremen/Manhattan](https://www.amazon.com/dp/B0DGQKSJ2N?tag=cubecommonw0a-20)** (Recharged) shrinks the game to cities. Bremen charges by district, and Manhattan is one crowded region that stays in Step 1 all game.
 
 ## New plant decks and the robots
 
-**[The New Power Plants](https://2f-games.com/2f-spiele/power-grid-game-family/power-grid-the-new-power-plants-expansion-3/)** replaces or mixes into the plant deck, which changes every auction without changing the map. **[The New Power Plants, Set 2](https://2f-spiele.de/2f-spiele/funkenschlag-spielefamilie/funkenschlag-erw-14-recharged-version-die-neuen-kraftwerke-set-2/)** brings back the plants first made for Power Grid Deluxe. <!-- AFFILIATE: Power Grid: The New Power Plants (Set 1 and Set 2) -->
+**[The New Power Plants](https://2f-games.com/2f-spiele/power-grid-game-family/power-grid-the-new-power-plants-expansion-3/)** replaces or mixes into the plant deck, which changes every auction without changing the map. **[The New Power Plants, Set 2](https://www.amazon.com/dp/B0BT99ZNJ8?tag=cubecommonw0a-20)** brings back the plants first made for Power Grid Deluxe.
 
-**[The Robots](https://2f-games.com/2f-spiele/power-grid-game-family/power-grid-the-robots-expansion-7/)** adds robot companies that the human players run, aimed mostly at two-player games, plus a double-sided board with Australia and the Indian Subcontinent. It works with Recharged, but not with the preset start cities variant. <!-- AFFILIATE: Power Grid: The Robots -->
+**[The Robots](https://www.amazon.com/dp/B006VWVLIQ?tag=cubecommonw0a-20)** adds robot companies that the human players run, aimed mostly at two-player games, plus a double-sided board with Australia and the Indian Subcontinent. It works with Recharged, but not with the preset start cities variant.
 
 ## How to choose
 

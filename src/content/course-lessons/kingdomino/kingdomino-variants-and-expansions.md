@@ -39,49 +39,39 @@ A popular combination is Middle Kingdom with Harmony: 15 points for a centered, 
 
 ## Age of Giants
 
-[Age of Giants](https://www.blueorangegames.com/collections/kingdomino) is an expansion for both Kingdomino and Queendomino, released in 2018. It adds giants, which cover crowns in a kingdom and cancel them until they are passed on, along with quest tiles that offer new ways to score. It also adds pieces for a fifth player.
+[Age of Giants](https://www.amazon.com/dp/B07FHRW5QL?tag=cubecommonw0a-20) is an expansion for both Kingdomino and Queendomino, released in 2018. It adds giants, which cover crowns in a kingdom and cancel them until they are passed on, along with quest tiles that offer new ways to score. It also adds pieces for a fifth player.
 
 <!-- VERIFY: Age of Giants contents and rules summary (giants covering crowns, quest tiles, fifth-player pieces) against the Blue Orange rulebook, and the current product page URL. -->
-
-<!-- AFFILIATE: Kingdomino: Age of Giants -->
 
 Choose it if your group plays the base game often and wants more interaction and more ways to score.
 
 ## Queendomino
 
-[Queendomino](https://www.blueorangegames.com/collections/kingdomino) is a standalone game from 2017 by the same designer. It keeps the domino draft and the kingdom building and adds coins, buildings to buy, knights that collect taxes, a dragon, and a queen. It is a heavier game, with more decisions per turn. Blue Orange describes rules for combining it with Kingdomino for larger games.
+[Queendomino](https://www.amazon.com/dp/B076N3VQJG?tag=cubecommonw0a-20) is a standalone game from 2017 by the same designer. It keeps the domino draft and the kingdom building and adds coins, buildings to buy, knights that collect taxes, a dragon, and a queen. It is a heavier game, with more decisions per turn. Blue Orange describes rules for combining it with Kingdomino for larger games.
 
 <!-- VERIFY: the Queendomino and Kingdomino combined rules (player counts and kingdom size) and the current product page URL. -->
-
-<!-- AFFILIATE: Queendomino -->
 
 Choose it if your group has outgrown the base game and wants more to manage in the same short frame.
 
 ## Kingdomino Origins
 
-[Kingdomino Origins](https://www.blueorangegames.com/collections/kingdomino) is a standalone sequel from 2021, set in prehistoric times. It builds on the same system and comes with three ways to play that add new elements step by step, so a family can grow into it.
+[Kingdomino Origins](https://www.amazon.com/dp/B09GXXMVYN?tag=cubecommonw0a-20) is a standalone sequel from 2021, set in prehistoric times. It builds on the same system and comes with three ways to play that add new elements step by step, so a family can grow into it.
 
 <!-- VERIFY: the names and contents of Kingdomino Origins' three modes, and the current product page URL. -->
-
-<!-- AFFILIATE: Kingdomino Origins -->
 
 Choose it if you want a fresh box with the same feel, with room to add more as the table gets comfortable.
 
 ## Kingdomino Duel
 
-[Kingdomino Duel](https://www.blueorangegames.com/collections/kingdomino) is a two-player roll-and-write from 2019. Instead of dominoes, you roll dice and draw your kingdom on a sheet. It is small, travels well, and plays quickly.
-
-<!-- AFFILIATE: Kingdomino Duel -->
+[Kingdomino Duel](https://www.amazon.com/dp/B07X3Y4J8W?tag=cubecommonw0a-20) is a two-player roll-and-write from 2019. Instead of dominoes, you roll dice and draw your kingdom on a sheet. It is small, travels well, and plays quickly.
 
 Choose it for travel, or for a couple who wants a quick game without the full box.
 
 ## Dragomino
 
-[Dragomino](https://www.blueorangegames.com/collections/kingdomino) is the family's game for young children, built on the same tile-placing idea. It won the Kinderspiel des Jahres, Germany's children's game of the year award, in 2021.
+[Dragomino](https://link.amazon/B09WKyU19) is the family's game for young children, built on the same tile-placing idea. It won the Kinderspiel des Jahres, Germany's children's game of the year award, in 2021.
 
 <!-- VERIFY: Dragomino's recommended age and player count from the Blue Orange product page. -->
-
-<!-- AFFILIATE: Dragomino -->
 
 Choose it if your kids are too young for the base game. Our guide to [board games for 5-year-olds](/articles/board-games-for-5-year-olds/) has more picks for that age.
 

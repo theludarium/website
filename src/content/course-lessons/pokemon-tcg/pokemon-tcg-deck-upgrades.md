@@ -69,10 +69,8 @@ If you plan to play at League tournaments, check each card's **regulation mark**
 
 Two official products sit between a starter and a full custom deck:
 
-- The [Deck Crafter's Collection](https://tcg.pokemon.com/en-us/product-guide/), which the official product guide describes as essential cards for building your first deck, with guidance on the role each kind of Pokémon plays. <!-- VERIFY: current Deck Crafter's Collection contents and its own product page URL. -->
-- A second [Mega Battle Deck](https://tcg.pokemon.com/en-us/product-guide/). Taking the best cards from two preconstructed decks is a classic way to build a first custom deck.
-
-<!-- AFFILIATE: Pokémon TCG Deck Crafter's Collection; Pokémon TCG Mega Battle Deck -->
+- The [Deck Crafter's Collection](https://www.amazon.com/dp/B0HDWX4J41?tag=cubecommonw0a-20), which the [official product guide](https://tcg.pokemon.com/en-us/product-guide/) describes as essential cards for building your first deck, with guidance on the role each kind of Pokémon plays. <!-- VERIFY: current Deck Crafter's Collection contents and its own product page URL. -->
+- A second [Mega Battle Deck](https://www.amazon.com/dp/B0FLP49KYM?tag=cubecommonw0a-20). Taking the best cards from two preconstructed decks is a classic way to build a first custom deck.
 
 ## Upgrade a few cards at a time
 

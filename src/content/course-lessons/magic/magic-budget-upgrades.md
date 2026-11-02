@@ -48,8 +48,6 @@ Upgrades can quietly move your deck up a bracket. That is fine, as long as you t
 - **Your local game store.** Many stores keep a singles case or can look a card up for you. Buying there supports the place that hosts your game nights.
 - **Online marketplaces.** Large sites list cards from many sellers, which helps with price and with finding a specific printing.
 
-<!-- AFFILIATE: online singles marketplace (for example TCGplayer or Card Kingdom) -->
-
 ## Condition and printings
 
 Marketplaces grade condition, usually from Near Mint down through Lightly Played and worse. For a card that lives in a sleeve, a lightly played copy plays exactly the same and often costs less.

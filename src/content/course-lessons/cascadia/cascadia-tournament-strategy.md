@@ -61,8 +61,6 @@ Random cards are why the [hardest cards lesson](/academy/cascadia/cascadia-harde
 
 **Weeks 1 and 2: volume.** Play at least six games with random cards, at four players when you can, or online with [Cascadia Digital](https://www.direwolfdigital.com/cascadia/). Track your score and whether you would have won the table.
 
-<!-- AFFILIATE: Cascadia Digital -->
-
 **Week 3: the scenarios.** Play through solo scenarios 1 to 4, one card letter at a time. Note which letter costs you the most.
 
 **Week 4: your weak card.** Play three games built around the card you score worst on. Use the [solo lesson](/academy/cascadia/cascadia-solo-strategy/) setup so nothing hides your mistakes.

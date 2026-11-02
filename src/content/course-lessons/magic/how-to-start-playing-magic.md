@@ -29,9 +29,7 @@ Two of the decks, Cats and Vampires, come stacked in a set order for the tutoria
 
 After the tutorial, the other eight decks come out. Each has a theme, from Pirates and Wizards to Elves and Goblins. Pick two, shuffle them together into a 40-card deck, and play. Ten decks make dozens of different pairings, which is a lot of games before you need another card.
 
-The box is listed on Wizards' [Foundations product page](https://magic.wizards.com/en/products/foundations), along with where to buy it.
-
-<!-- AFFILIATE: Magic: The Gathering Foundations Beginner Box -->
+Get the [Foundations Beginner Box](https://www.amazon.com/dp/B0D9KXBNBB?tag=cubecommonw0a-20) on Amazon.
 
 ## Or start for free
 
@@ -45,7 +43,7 @@ Two free routes are worth knowing before you spend anything.
 
 Commander is Magic's most popular multiplayer format: usually four players, 40 life each, and 100-card decks led by a legendary creature. If a store near you runs Commander nights, a ready-to-play Commander deck is the natural next step.
 
-The Foundations Commander decks, released October 2, 2026, were made for this moment. Wizards says they are designed to introduce the format to new players. There are five, each one color with one clear plan:
+The [Foundations Commander decks](https://www.amazon.com/dp/B0GXC5T8LG?tag=cubecommonw0a-20), released October 2, 2026, were made for this moment. Wizards says they are designed to introduce the format to new players. There are five, each one color with one clear plan:
 
 - Calling All Angels
 - Keen Engineering
@@ -54,8 +52,6 @@ The Foundations Commander decks, released October 2, 2026, were made for this mo
 - Tramplesaurus Rex
 
 Each box holds a 100-card deck, a foil commander, ten double-sided tokens, a reference card, and a deck box. The [decklists are on the Magic site](https://magic.wizards.com/en/news/announcements/foundations-commander-decklists). Choose by theme. A deck you love the look of will get played more than a deck someone told you was the strongest.
-
-<!-- AFFILIATE: Foundations Commander decks (Calling All Angels, Keen Engineering, Wretched Ranks, Reign of Dragons, Tramplesaurus Rex) -->
 
 ## What to skip, for now
 

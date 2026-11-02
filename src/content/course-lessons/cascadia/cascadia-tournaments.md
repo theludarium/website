@@ -49,8 +49,6 @@ AEG's and Flatout Games' Cascadia pages do not list an official championship, qu
 
 [Cascadia Digital](https://www.direwolfdigital.com/cascadia/), made by Dire Wolf, runs on Steam, iOS, and Android. You can play online or alone. It also has the fifteen solo scenarios, fourteen challenges, and a Daily Trek with a new goal each day.
 
-<!-- AFFILIATE: Cascadia Digital -->
-
 Online play is the fastest way to see many card sets. A season of random cards online teaches more than a year of home games with the same favorites.
 
 ## Finding local play

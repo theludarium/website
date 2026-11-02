@@ -15,7 +15,7 @@ If you have only played on the base map, you have only played with one set of mi
 
 ## Hellas and Elysium
 
-The [Hellas & Elysium](https://strongholdgames.com/our-games/terraforming-mars-hellas-elysium/) expansion is one double-sided board that replaces the base map. Each side shows a new region of Mars with its own placement bonuses, ocean areas, milestones, and awards. Turns work the same way. <!-- AFFILIATE: Terraforming Mars: Hellas & Elysium -->
+The [Hellas & Elysium](https://www.amazon.com/dp/B06XDW7RSY?tag=cubecommonw0a-20) expansion is one double-sided board that replaces the base map. Each side shows a new region of Mars with its own placement bonuses, ocean areas, milestones, and awards. Turns work the same way.
 
 ### Hellas
 
@@ -47,7 +47,7 @@ Compare these lists with the base board's and you can see the shift.
 
 ## Random milestones and awards
 
-Tournaments often draw milestones and awards at random. WBC's rule draws 5 of each. FryxGames also sells a [Milestones & Awards](https://fryxgames.se/product/terraforming-mars-milestones-awards/) expansion that lets you randomize or choose them for every game. <!-- AFFILIATE: Terraforming Mars: Milestones & Awards -->
+Tournaments often draw milestones and awards at random. WBC's rule draws 5 of each. FryxGames also sells a [Milestones & Awards](https://www.amazon.com/dp/B0DJDX61G1?tag=cubecommonw0a-20) expansion that lets you randomize or choose them for every game.
 
 With random sets, you cannot rely on memory. You have to read them fresh, every game.
 

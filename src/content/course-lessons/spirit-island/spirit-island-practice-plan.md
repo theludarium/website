@@ -65,8 +65,6 @@ A group that has filled the grid at level 6 has learned every core adversary fro
 - **The digital edition** from [Handelabra](https://www.handelabra.com/spiritisland) handles setup and bookkeeping, so you can try a Spirit against an adversary in less time.
 - **Read the panels.** Before a game with a new Spirit, its Play Style notes and Special Rules take two minutes and save a turn of confusion.
 
-<!-- AFFILIATE: Spirit Island digital edition (Handelabra) -->
-
 ## Keep the table happy
 
 A practice plan should never make the game feel like homework. Two rulebook habits protect the fun:

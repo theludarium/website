@@ -11,9 +11,7 @@ oneIdea: "The base box already holds several games: the standard game, solo mode
 tryThis: "Play solo scenario 1 this week. If you pass it, try scenario 2 with the B cards, and note which animal gave you the most trouble."
 nextTeaser: "Next, Level 2 begins with openings: all twenty scoring cards, what each one rewards, and how the five on the table should shape your first turns."
 ---
-Cascadia stays fresh longer than most games its size, because the scoring cards change what you are building every game. Before reaching for an expansion, it is worth knowing how much is already in the [base game](https://www.alderac.com/cascadia/): a solo mode, two simpler variants for families, and a whole achievement system with scenarios. This lesson covers all of it, then the products in the wider Cascadia family.
-
-<!-- AFFILIATE: Cascadia base game -->
+Cascadia stays fresh longer than most games its size, because the scoring cards change what you are building every game. Before reaching for an expansion, it is worth knowing how much is already in the [base game](https://link.amazon/B0g1HYFt4): a solo mode, two simpler variants for families, and a whole achievement system with scenarios. This lesson covers all of it, then the products in the wider Cascadia family.
 
 ## How does the game change by player count?
 
@@ -58,21 +56,15 @@ The scenarios are the best practice in the box. They force you to play card sets
 
 ## Cascadia: Landmarks
 
-[Cascadia: Landmarks](https://www.alderac.com/cascadia-landmarks/) is the expansion for the base game. Per AEG, it adds habitat tiles, keystone tiles, starter habitat tiles, wildlife tokens, and nature tokens, enough to play with five or six. It also adds fifteen new wildlife scoring cards and a Landmarks module, where you place natural landmarks in your habitats for end-game bonuses. It plays 1 to 6 in about 45 to 60 minutes.
-
-<!-- AFFILIATE: Cascadia: Landmarks -->
+[Cascadia: Landmarks](https://www.amazon.com/dp/B0CB9BRD5N?tag=cubecommonw0a-20) is the expansion for the base game. Per AEG, it adds habitat tiles, keystone tiles, starter habitat tiles, wildlife tokens, and nature tokens, enough to play with five or six. It also adds fifteen new wildlife scoring cards and a Landmarks module, where you place natural landmarks in your habitats for end-game bonuses. It plays 1 to 6 in about 45 to 60 minutes.
 
 ## Cascadia Rolling
 
-[Cascadia: Rolling Hills](https://www.alderac.com/cascadia-rolling-hills/) and [Cascadia: Rolling Rivers](https://www.alderac.com/cascadia-rolling-rivers/) are standalone flip-and-roll-and-write games in the Cascadia style. You roll dice, collect wildlife, and complete habitat cards. Each plays 1 to 4 in 15 to 30 minutes, and Flatout Games notes that owning both lets up to eight play. They suit travel and big groups.
-
-<!-- AFFILIATE: Cascadia: Rolling Hills and Cascadia: Rolling Rivers -->
+[Cascadia: Rolling Hills](https://www.amazon.com/dp/B0D6886D6M?tag=cubecommonw0a-20) and [Cascadia: Rolling Rivers](https://www.amazon.com/dp/B0D6887G2T?tag=cubecommonw0a-20) are standalone flip-and-roll-and-write games in the Cascadia style. You roll dice, collect wildlife, and complete habitat cards. Each plays 1 to 4 in 15 to 30 minutes, and Flatout Games notes that owning both lets up to eight play. They suit travel and big groups.
 
 ## Cascadia Junior
 
-[Cascadia Junior](https://www.alderac.com/cascadia-junior/) is a standalone, simpler version for families with young children. It keeps the spatial puzzle and teaches pattern building, set collection, and simple addition.
-
-<!-- AFFILIATE: Cascadia Junior -->
+[Cascadia Junior](https://www.amazon.com/dp/B0D7KCB845?tag=cubecommonw0a-20) is a standalone, simpler version for families with young children. It keeps the spatial puzzle and teaches pattern building, set collection, and simple addition.
 
 <!-- VERIFY: Cascadia Junior's player count, play time, and age range; AEG's page does not list them. -->
 

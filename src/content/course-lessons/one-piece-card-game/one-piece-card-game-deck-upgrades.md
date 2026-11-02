@@ -59,9 +59,9 @@ If you love your starter, a second copy of the same deck can be a simple upgrade
 
 ## The few accessories worth buying
 
-**Sleeves.** You need opaque sleeves for any store tournament, and they protect cards you paid for. Bandai sells its own, such as [Official Card Sleeves 17](https://en.onepiece-cardgame.com/products/sleeve047.html), 70 sleeves due in December. Other opaque sleeves work as long as all your deck sleeves match and none have reflective backs. Buy a few spare. <!-- AFFILIATE: ONE PIECE CARD GAME Official Card Sleeves 17 -->
+**Sleeves.** You need opaque sleeves for any store tournament, and they protect cards you paid for. Bandai sells its own, such as [Official Card Sleeves 17](https://en.onepiece-cardgame.com/products/sleeve047.html), 70 sleeves due in December. Other opaque sleeves work as long as all your deck sleeves match and none have reflective backs. Buy a few spare.
 
-**A few packs, for fun.** If you want to open something, small products like the [Double Pack Set Vol. 13](https://en.onepiece-cardgame.com/products/dp13.html) give you packs and a little extra at a set price. Treat them as a treat, not a plan. <!-- AFFILIATE: ONE PIECE CARD GAME Double Pack Set Vol. 13 -->
+**A few packs, for fun.** If you want to open something, small products like the [Double Pack Set Vol. 13](https://en.onepiece-cardgame.com/products/dp13.html) give you packs and a little extra at a set price. Treat them as a treat, not a plan.
 
 **A deck box.** Anything sturdy that fits a sleeved deck, a Leader, and 10 DON!!.
 

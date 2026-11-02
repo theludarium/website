@@ -77,9 +77,7 @@ For groups where direct attacks sting, our piece on [take-that games](/articles/
 
 ## After the first game
 
-IELLO makes more for tables that want it. The [Halloween expansion](https://iellogames.com/jeux/king-of-tokyo-halloween/) adds two new Monsters and costume cards. Monster packs such as [Cthulhu](https://iellogames.com/jeux/king-of-tokyo-monster-pack-cthulhu/) and [King Kong](https://iellogames.com/jeux/king-of-tokyo-king-kong-monster-pack/) each add a new Monster. The [Monster Box](https://iellogames.com/jeux/king-of-tokyo-monster-box/) collects the base game with the Power Up! and Halloween expansions.
-
-<!-- AFFILIATE: King of Tokyo Halloween expansion, Cthulhu Monster Pack, King Kong Monster Pack, King of Tokyo Monster Box -->
+IELLO makes more for tables that want it. The [Halloween expansion](https://www.amazon.com/dp/B073WL9RL9?tag=cubecommonw0a-20) adds two new Monsters and costume cards. Monster packs such as [Cthulhu](https://www.amazon.com/dp/B01MT7TRXI?tag=cubecommonw0a-20) and [King Kong](https://www.amazon.com/dp/B073WN3JK6?tag=cubecommonw0a-20) each add a new Monster. The [Monster Box](https://www.amazon.com/dp/B09FY921Z8?tag=cubecommonw0a-20) collects the base game with the Power Up! and Halloween expansions.
 
 The [expansions lesson](/academy/king-of-tokyo/king-of-tokyo-expansions/) covers player counts, variants, and every expansion in more detail.
 <!-- VERIFY: product details on IELLO's own pages (Halloween contents, one Monster per pack, Monster Box contents); iellogames.com stopped loading during research and these came from retailer listings. -->

@@ -45,7 +45,7 @@ The most recent update was announced September 24, 2026, and took effect October
 
 ## Reading a new set
 
-New sets arrive several times a year. The next main set, [OP-18 The Dominance of God](https://en.onepiece-cardgame.com/products/op18.html), releases November 20, 2026. New cards are legal at store events on release day and at competitive events 7 days later. <!-- AFFILIATE: ONE PIECE CARD GAME Booster Pack OP-18 The Dominance of God -->
+New sets arrive several times a year. The next main set, [OP-18 The Dominance of God](https://en.onepiece-cardgame.com/products/op18.html), releases November 20, 2026. New cards are legal at store events on release day and at competitive events 7 days later.
 
 When a set's card list goes up on Bandai's [card list](https://en.onepiece-cardgame.com/cardlist/), read it with three questions:
 

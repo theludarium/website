@@ -40,31 +40,21 @@ An office party is not a party among friends. People are there with their manage
 
 [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) is the classic office pick for a reason. Two teams each have a spymaster who gives one-word clues to lead teammates to their words on a grid of 25. It plays 2 to 8 or more, ages 10 and up, in about fifteen minutes, and lists for about $25. It also shows how people think, which is why we wrote a whole piece on [Codenames for team building](/articles/codenames-team-building/). Our free [Codenames course](/academy/codenames/) covers a two-minute teach.
 
-<!-- AFFILIATE: Codenames -->
-
 ### Just One
 
 [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20) is cooperative, so the whole table is on one side. One person guesses a mystery word while everyone else writes a one-word clue. Matching clues cancel out before the guesser sees them. It plays 3 to 7, ages 8 and up, in about twenty minutes, for about $25. For a bigger party, run two or three copies at separate tables.
 
-<!-- AFFILIATE: Just One -->
-
 ### Herd Mentality
 
-[Herd Mentality](https://bigpotato.com/products/herd-mentality) asks a question, and everyone writes an answer. You score by matching the majority, and the only odd answer gets the pink cow. It plays 4 to 20, ages 10 and up, in about twenty minutes, for about $25. There are no wrong answers, only unpopular ones, so nobody feels tested. Big Potato also sells a Christmas Expansion for about $13. In an office where not everyone celebrates Christmas, the base game keeps it a holiday party for all.
-
-<!-- AFFILIATE: Herd Mentality -->
+[Herd Mentality](https://www.amazon.com/dp/B093HBBMPT?tag=cubecommonw0a-20) asks a question, and everyone writes an answer. You score by matching the majority, and the only odd answer gets the pink cow. It plays 4 to 20, ages 10 and up, in about twenty minutes, for about $25. There are no wrong answers, only unpopular ones, so nobody feels tested. Big Potato also sells a Christmas Expansion for about $13. In an office where not everyone celebrates Christmas, the base game keeps it a holiday party for all.
 
 ### Hues and Cues
 
 [Hues and Cues](https://www.amazon.com/dp/B084D2XQ9F?tag=cubecommonw0a-20) is a calm color game. One player gives a short clue for a color on a big board, and everyone places a marker where they think it is. It plays 3 to 10, ages 8 and up, in about thirty minutes, with a list price of about $26. It suits a team that would rather talk than shout.
 
-<!-- AFFILIATE: Hues and Cues -->
-
 ### Telestrations
 
 [Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20) is drawing telephone. Everyone sketches a word, passes it, guesses the sketch, and passes again. It plays 4 to 8, ages 10 and up, in about thirty minutes, with a list price of about $32. Drawing skill does not matter. Everyone draws at once, so no one is drawing in front of the room.
-
-<!-- AFFILIATE: Telestrations -->
 
 *If this is useful, the newsletter sends more like it.*
 

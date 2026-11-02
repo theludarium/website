@@ -22,7 +22,7 @@ The officially licensed digital edition is [Dominion by Temple Gates Games](http
 - **Solo play against the computer** at four difficulty levels.
 - **Online games for up to 6 players**, with cross-platform play.
 - **Leaderboards**, and game summaries you can export and share.
-- **Expansions** sold as add-ons, for when you are ready. <!-- AFFILIATE: Dominion digital expansions (Temple Gates Games) -->
+- **Expansions** sold as add-ons, for when you are ready.
 
 The app left early access and fully launched on February 1, 2024.
 

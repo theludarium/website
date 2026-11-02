@@ -66,6 +66,5 @@ Pair them with the modules. Control rewards the same matched Axis that keeps the
 
 ## Climbing to Heroic
 
-Do not jump from Routine Landings to Keflavík. Fly the Exceptional Conditions scenarios until each module feels familiar alone, then the Elite pairs, then the Heroic three. When you get there, the [Turbulence expansion](https://www.scorpionmasque.com/en/sky-team-turbulence) from Le Scorpion Masqué adds 20 more hard scenarios and new modules.
+Do not jump from Routine Landings to Keflavík. Fly the Exceptional Conditions scenarios until each module feels familiar alone, then the Elite pairs, then the Heroic three. When you get there, the [Turbulence expansion](https://www.amazon.com/dp/B0DMKYVW45?tag=cubecommonw0a-20) from Le Scorpion Masqué adds 20 more hard scenarios and new modules.
 
-<!-- AFFILIATE: Sky Team: Turbulence -->

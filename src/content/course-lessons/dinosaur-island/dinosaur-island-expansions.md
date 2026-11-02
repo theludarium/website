@@ -11,11 +11,11 @@ oneIdea: "Totally Liquid is a box of modules, not one rule change. Add a single 
 tryThis: "If you own Totally Liquid, play your next game with only one module added, and agree before setup which one. Note whether the game ran longer and whether anyone would leave it out next time."
 nextTeaser: "Last, a practice plan: how to measure your games, raise your scores, and find people who want to play."
 ---
-Dinosaur Island has grown into a small family of games. There is one expansion for the base game, Totally Liquid, and three other games set in the same world. This lesson covers what each adds and how to choose. Everything here builds on the base game, [Dinosaur Island](https://pandasaurusgames.com/products/dinosaur-island) from Pandasaurus Games. <!-- AFFILIATE: Dinosaur Island -->
+Dinosaur Island has grown into a small family of games. There is one expansion for the base game, Totally Liquid, and three other games set in the same world. This lesson covers what each adds and how to choose. Everything here builds on the base game, [Dinosaur Island](https://www.amazon.com/dp/B06Y3BS8YD?tag=cubecommonw0a-20) from Pandasaurus Games.
 
 ## Totally Liquid at a glance
 
-Totally Liquid was funded on Kickstarter in 2018, in the same campaign as the X-treme Edition of the base game and Duelosaur Island. It needs the base game to play. The announced contents included a park board, lab board, 9 workers, and 3 scientists for a fifth player, plus 6 facility boards, 6 dice, 52 cards, 13 tiles, and more.
+[Totally Liquid](https://www.amazon.com/dp/B07K73C8ZB?tag=cubecommonw0a-20) was funded on Kickstarter in 2018, in the same campaign as the X-treme Edition of the base game and Duelosaur Island. It needs the base game to play. The announced contents included a park board, lab board, 9 workers, and 3 scientists for a fifth player, plus 6 facility boards, 6 dice, 52 cards, 13 tiles, and more.
 
 Its modules, as described in Pandasaurus's announcement and in reviews:
 
@@ -26,8 +26,6 @@ Its modules, as described in Pandasaurus's announcement and in reviews:
 - **New facilities.** Six facility boards, each with its own special rules.
 - **The Mega Rex.** An extra-dangerous dinosaur.
 - **More of everything.** New cards, tiles, and dice to mix into the base game.
-
-<!-- AFFILIATE: Dinosaur Island: Totally Liquid -->
 
 <!-- VERIFY: no current Pandasaurus product page for Totally Liquid was found on 2026-10-25; link one if it exists. Also read the Totally Liquid rulebook and confirm each module's rules, the five player setup, and how the extra dice are used before this lesson says more. -->
 
@@ -53,15 +51,15 @@ Without the full rules confirmed here, a few principles from the base game carry
 
 ## Duelosaur Island
 
-**Duelosaur Island** is a standalone two player game from the same 2018 campaign. It uses hand management and dice drafting instead of the base game's full worker placement, and its box includes 5 new DNA dice that also work with the original game. It is a good fit for couples or two friends who like the theme but want a shorter game. <!-- AFFILIATE: Duelosaur Island -->
+**Duelosaur Island** is a standalone two player game from the same 2018 campaign. It uses hand management and dice drafting instead of the base game's full worker placement, and its box includes 5 new DNA dice that also work with the original game. It is a good fit for couples or two friends who like the theme but want a shorter game.
 
 ## Dinosaur Island: Rawr 'n Write
 
-**Dinosaur Island: Rawr 'n Write** turns the game into a roll-and-write. Players draft dice and use them as workers to collect DNA, hire specialists, build attractions, and grow a park on a sheet, while keeping security high enough that visitors do not go missing. It was funded on Kickstarter alongside Dinosaur World, and retailers list it as a 2021 release. <!-- AFFILIATE: Dinosaur Island: Rawr 'n Write -->
+**[Dinosaur Island: Rawr 'n Write](https://www.amazon.com/dp/B096TLFZ99?tag=cubecommonw0a-20)** turns the game into a roll-and-write. Players draft dice and use them as workers to collect DNA, hire specialists, build attractions, and grow a park on a sheet, while keeping security high enough that visitors do not go missing. It was funded on Kickstarter alongside Dinosaur World, and retailers list it as a 2021 release.
 
 ## Dinosaur World
 
-**Dinosaur World** is the sequel, from the same campaign as Rawr 'n Write. It keeps worker placement and park building, and adds tile laying and route building with jeeps. It is its own game, not an expansion. <!-- AFFILIATE: Dinosaur World -->
+**[Dinosaur World](https://www.amazon.com/dp/B096TLR6H3?tag=cubecommonw0a-20)** is the sequel, from the same campaign as Rawr 'n Write. It keeps worker placement and park building, and adds tile laying and route building with jeeps. It is its own game, not an expansion.
 
 <!-- VERIFY: current Pandasaurus product pages for Duelosaur Island, Rawr 'n Write, and Dinosaur World; none were found on the publisher's store on 2026-10-25. Confirm Rawr 'n Write's player count before adding it. -->
 

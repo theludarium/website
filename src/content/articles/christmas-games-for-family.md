@@ -45,19 +45,13 @@ Christmas Eve has a waiting feeling. Kids are wound up, adults are wrapping, and
 
 Spot It! Rudolph is the classic matching game with characters from the old stop-motion special. Any two cards share exactly one picture, and the first player to spot it and call it out wins the card. There is nothing to read. The publisher rates it 8 and up, but matching pictures is a skill many younger kids have, and a quick-eyed child often beats the adults. It plays 2 to 8 in about fifteen minutes, with a list price of about $15. The Op sells through retailers, so look for it at your local game store.
 
-<!-- AFFILIATE: Spot It! Rudolph the Red-Nosed Reindeer -->
-
 ### Monikers: Family Edition
 
-[Monikers: Family Edition](https://cmyk.games/products/monikers-family-edition) is a team guessing game played in three rounds with the same cards. First you describe a name any way you like, then you get one word, then only charades. It plays 2 to 12 or more, ages 6 and up, in about thirty minutes, for about $25. The charades round is where grandparents and kids end up laughing at the same thing.
-
-<!-- AFFILIATE: Monikers: Family Edition -->
+[Monikers: Family Edition](https://www.amazon.com/dp/B0FVBB5W1W?tag=cubecommonw0a-20) is a team guessing game played in three rounds with the same cards. First you describe a name any way you like, then you get one word, then only charades. It plays 2 to 12 or more, ages 6 and up, in about thirty minutes, for about $25. The charades round is where grandparents and kids end up laughing at the same thing.
 
 ### Hues and Cues
 
 [Hues and Cues](https://www.amazon.com/dp/B084D2XQ9F?tag=cubecommonw0a-20) is a calm color game. One player picks a square from a board of colors and gives a one-word clue, and everyone else places a marker where they think it is. Then comes a second, two-word clue. Kids who cannot read yet can still point at colors. It plays 3 to 10, ages 8 and up, in about thirty minutes, with a list price of about $26.
-
-<!-- AFFILIATE: Hues and Cues -->
 
 ## What games work on Christmas morning?
 
@@ -67,19 +61,13 @@ Christmas morning games have one job: be quick. There are gifts to open, breakfa
 
 [Flip 7](https://www.amazon.com/dp/B0DWGVM7RY?tag=cubecommonw0a-20) is a push-your-luck card game. Flip cards one at a time and add them up. Flip a number you already have and you bust for the round. It plays 3 or more, ages 8 and up, in about twenty minutes, with a list price of about $8. The Op also sells a Grinch Edition at about the same price, though holiday editions sell out. Our free [Flip 7 course](/academy/flip-7/) has a five-minute teach.
 
-<!-- AFFILIATE: Flip 7 -->
-
 ### Sushi Go!
 
 [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) is a card drafting game in a tin. Everyone picks one card and passes the rest, building sets of sushi for points. It plays 2 to 5, ages 8 and up, in about fifteen minutes, for about $17 at Gamewright. It is small enough for a stocking and quick enough to play twice before the cinnamon rolls are ready. Our free [Sushi Go! course](/academy/sushi-go/) covers the rules and how to teach it.
 
-<!-- AFFILIATE: Sushi Go! -->
-
 ### Outfoxed!
 
 [Outfoxed!](https://link.amazon/B0hYNduxd) from Gamewright is a cooperative whodunit. A fox has stolen a pot pie, and the players work together to roll dice, gather clues, and name the thief before it escapes. It plays 2 to 4, ages 5 and up, in about twenty minutes, for about $26. Because everyone is on one team, a five-year-old never loses alone.
-
-<!-- AFFILIATE: Outfoxed! -->
 
 *If this is useful, the newsletter sends more like it.*
 
@@ -91,19 +79,13 @@ After dinner, people are full and slow. This is the time for games that seat a c
 
 [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20) is cooperative. One person guesses a mystery word while everyone else writes a one-word clue. Matching clues get erased before the guesser sees them, so the obvious answer cancels out. It plays 3 to 7, ages 8 and up, in about twenty minutes, for about $25. Younger kids can team up with an adult to write a clue.
 
-<!-- AFFILIATE: Just One -->
-
 ### Ticket to Ride: First Journey
 
 [Ticket to Ride: First Journey](https://link.amazon/B0fAA009A) is the family version of the classic train game. Players collect train cards, claim routes across a map of the United States, and connect cities on their tickets. Routes are shorter than in the full game, and the first player to finish six tickets wins. It plays 2 to 4, ages 6 and up, in about thirty minutes, for about $30. Our free [Ticket to Ride course](/academy/ticket-to-ride/) is the next step when the kids want the full game.
 
-<!-- AFFILIATE: Ticket to Ride: First Journey -->
-
 ### Herd Mentality
 
-[Herd Mentality](https://bigpotato.com/products/herd-mentality) asks a question and rewards everyone who gives the same answer as the majority. The odd one out gets the pink cow. It plays 4 to 20, ages 10 and up, in about twenty minutes, for about $25. Big Potato also sells a Christmas Expansion with 100 festive questions for about $13. With younger kids, pair them with an adult and let the team answer together.
-
-<!-- AFFILIATE: Herd Mentality -->
+[Herd Mentality](https://www.amazon.com/dp/B093HBBMPT?tag=cubecommonw0a-20) asks a question and rewards everyone who gives the same answer as the majority. The odd one out gets the pink cow. It plays 4 to 20, ages 10 and up, in about twenty minutes, for about $25. Big Potato also sells a Christmas Expansion with 100 festive questions for about $13. With younger kids, pair them with an adult and let the team answer together.
 
 For more games that bridge a sixty-year gap, see our list of [games to play with grandparents](/articles/games-to-play-with-grandparents/).
 

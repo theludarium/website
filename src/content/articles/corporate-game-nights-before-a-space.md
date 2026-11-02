@@ -16,7 +16,7 @@ We laid out the arithmetic in [the membership math](/articles/game-lounge-member
 
 Events have no rent. A corporate session happens in the client's conference room or an offsite venue they already booked. We bring the games, the hosts, and the plan. We earn revenue from day one, with no lease, no build-out, and no fixed cost waiting for Friday night.
 
-Events also teach us to host. Running a room is a craft. Teaching Codenames to twelve skeptical account managers at two in the afternoon is harder than teaching it to four friends at nine at night, and doing it fifty times before we open means we will be good at it when a member walks in. <!-- AFFILIATE -->
+Events also teach us to host. Running a room is a craft. Teaching [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) to twelve skeptical account managers at two in the afternoon is harder than teaching it to four friends at nine at night, and doing it fifty times before we open means we will be good at it when a member walks in.
 
 ## What is the corporate tabletop events service?
 
@@ -24,7 +24,7 @@ It is a facilitated session, usually two to three hours, where a team plays care
 
 That last part is what separates it from "we brought some games to the office." A good session does three things:
 
-1. **Picks the right games for the goal.** Communication problems get cooperative games like The Crew or Pandemic, where the quarterback problem shows up fast and visibly. Trust and candor get social deduction. Negotiation gets Catan or a trading game. <!-- AFFILIATE -->
+1. **Picks the right games for the goal.** Communication problems get cooperative games like [The Crew](https://link.amazon/B099S9RKf) or [Pandemic](https://link.amazon/B0eHP5GCg), where the quarterback problem shows up fast and visibly. Trust and candor get social deduction. Negotiation gets [Catan](https://link.amazon/B0h8BDGR2) or a trading game.
 2. **Hosts, not just explains.** The facilitator teaches fast, keeps the energy up, and watches. Who takes over. Who goes quiet. Who recovers well from a bad turn.
 3. **Debriefs.** Fifteen minutes at the end where the host names what happened and the team talks about it. This is where the training is. Without it, it was a fun afternoon. With it, people learn something about each other they could not have gotten from a slide deck.
 
@@ -63,7 +63,7 @@ The noise lesson alone changed our space checklist. We had quiet zones as a nice
 
 By not overselling it.
 
-Games are a good way for a team to see itself. They are not therapy, not a personality assessment, and not a substitute for a manager doing the hard work of leading. We say that in the first conversation with a client. A team that plays Pandemic together will understand its communication habits better. It will not fix them in an afternoon. <!-- AFFILIATE -->
+Games are a good way for a team to see itself. They are not therapy, not a personality assessment, and not a substitute for a manager doing the hard work of leading. We say that in the first conversation with a client. A team that plays Pandemic together will understand its communication habits better. It will not fix them in an afternoon.
 
 We also decline sessions that are really just entertainment, or we price them as entertainment and skip the training framing. A holiday party wants a host and a stack of party games, not a debrief. Both are fine. Pretending one is the other is not.
 

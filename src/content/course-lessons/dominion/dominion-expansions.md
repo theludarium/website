@@ -53,25 +53,23 @@ The rulebook says you can use any 10 Kingdom cards you like, so groups have room
 
 ## The base game and the Base Cards set
 
-If you are buying your first copy, the [Dominion base game](https://www.riograndegames.com/games/dominion/) from Rio Grande Games is the place to start. The current second edition has the cards this course teaches. <!-- AFFILIATE: Dominion (second edition) base game -->
+If you are buying your first copy, the [Dominion base game](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) from Rio Grande Games is the place to start. The current second edition has the cards this course teaches.
 
-The **Base Cards** set holds extra Treasure, Victory, and Curse cards. It is what the rulebook suggests for 5 or 6 players. <!-- AFFILIATE: Dominion: Base Cards -->
-
-<!-- VERIFY: the base game link above could not be opened (riograndegames.com returned 403); confirm it. Also link the Base Cards set and each expansion below to its Rio Grande Games product page, and confirm which expansions are currently sold in second editions. -->
+The **[Base Cards](https://www.amazon.com/dp/B007MKLX84?tag=cubecommonw0a-20)** set holds extra Treasure, Victory, and Curse cards. It is what the rulebook suggests for 5 or 6 players.
 
 ## Which expansion first?
 
 Rio Grande has published more than a dozen expansions. These four are the usual starting points, and the base rulebook already suggests kingdoms that mix base cards with each.
 
-**Intrigue** is the closest in feel to the base game. Many of its cards let you choose one of several effects, so every play is a small decision. If your group loves the base game as it is, start here. <!-- AFFILIATE: Dominion: Intrigue -->
+**[Intrigue](https://www.amazon.com/dp/B01LWYVDA8?tag=cubecommonw0a-20)** is the closest in feel to the base game. Many of its cards let you choose one of several effects, so every play is a small decision. If your group loves the base game as it is, start here.
 
-**Seaside** adds Duration cards, which stay in play and do something on your next turn too. It teaches planning one turn ahead. <!-- AFFILIATE: Dominion: Seaside -->
+**[Seaside](https://www.amazon.com/dp/B0B1VXPX6H?tag=cubecommonw0a-20)** adds Duration cards, which stay in play and do something on your next turn too. It teaches planning one turn ahead.
 
-**Prosperity** is the big-money expansion. It adds Platinum and Colony, a Treasure and a Victory card above Gold and Province, for longer games with bigger turns. <!-- AFFILIATE: Dominion: Prosperity -->
+**[Prosperity](https://www.amazon.com/dp/B0B5B2BP7D?tag=cubecommonw0a-20)** is the big-money expansion. It adds Platinum and Colony, a Treasure and a Victory card above Gold and Province, for longer games with bigger turns.
 
-**Hinterlands** is full of cards that do something when you buy or gain them, which makes every buy count twice. <!-- AFFILIATE: Dominion: Hinterlands -->
+**[Hinterlands](https://www.amazon.com/dp/B0B59XK9CS?tag=cubecommonw0a-20)** is full of cards that do something when you buy or gain them, which makes every buy count twice.
 
-Later expansions, such as Dark Ages, Adventures, Empires, Nocturne, Renaissance, Menagerie, Allies, Plunder, and Rising Sun, add new card types and rules. They are rich, and they are best after your group knows the base game well. <!-- AFFILIATE: later Dominion expansions -->
+Later expansions, such as Dark Ages, Adventures, Empires, Nocturne, Renaissance, Menagerie, Allies, Plunder, and Rising Sun, add new card types and rules. They are rich, and they are best after your group knows the base game well.
 
 ## How to choose
 

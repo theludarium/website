@@ -41,47 +41,31 @@ The Fool is a card you play into an empty space in an opponent's city. Some grou
 
 ## The base game
 
-Starling Games sells the current printing as the [Everdell Standard Edition](https://tycoongames.com/products/everdell-standard-edition-3rd-edition), the 3rd edition, for 1 to 4 players. Start here.
-
-<!-- AFFILIATE: Everdell Standard Edition (3rd edition) -->
+Starling Games sells the current printing as the [Everdell Standard Edition](https://www.amazon.com/dp/B09ZWQTTNR?tag=cubecommonw0a-20), the 3rd edition, for 1 to 4 players. Start here.
 
 ## The five expansions
 
 Each one needs the base game.
 
-**[Pearlbrook](https://tycoongames.com/products/everdell-pearlbrook-2nd-edition)** adds a river board, a frog ambassador for each player, a new resource, pearls, and aquatic Critters and Constructions. Collect pearls to build Wonders and Adornments. It suits groups who want one new system with big scoring goals.
+**[Pearlbrook](https://www.amazon.com/dp/B09XX2PQ3B?tag=cubecommonw0a-20)** adds a river board, a frog ambassador for each player, a new resource, pearls, and aquatic Critters and Constructions. Collect pearls to build Wonders and Adornments. It suits groups who want one new system with big scoring goals.
 
-<!-- AFFILIATE: Everdell Pearlbrook -->
+**[Spirecrest](https://www.amazon.com/dp/B09XWPH6FK?tag=cubecommonw0a-20)** adds a mountain board, Discovery cards, seasonal Weather cards, maps, expeditions, and Big Critters with saddles that help your workers. The publisher calls it challenging, and it suits groups who already know the base game well.
 
-**[Spirecrest](https://tycoongames.com/products/everdell-spirecrest-2nd-edition)** adds a mountain board, Discovery cards, seasonal Weather cards, maps, expeditions, and Big Critters with saddles that help your workers. The publisher calls it challenging, and it suits groups who already know the base game well.
+**[Bellfaire](https://www.amazon.com/dp/B07YVMSCSV?tag=cubecommonw0a-20)** is modular. It adds player powers for each critter clan, Garland Awards, new special Events, and a Market board, and it takes the game to 5 or 6 players. If your group is bigger than four, this is the one.
 
-<!-- AFFILIATE: Everdell Spirecrest -->
+**[Newleaf](https://www.amazon.com/dp/B0BFZ3RPBQ?tag=cubecommonw0a-20)** adds a Station board with train car tiles that extend the Meadow, reservation tokens to hold a Meadow card for later, visitors, and 59 new Critter and Construction cards. It suits groups who want more cards and more planning without a whole new map.
 
-**[Bellfaire](https://tycoongames.com/products/everdell-bellfaire-expansion)** is modular. It adds player powers for each critter clan, Garland Awards, new special Events, and a Market board, and it takes the game to 5 or 6 players. If your group is bigger than four, this is the one.
-
-<!-- AFFILIATE: Everdell Bellfaire -->
-
-**[Newleaf](https://tycoongames.com/products/everdell-newleaf)** adds a Station board with train car tiles that extend the Meadow, reservation tokens to hold a Meadow card for later, visitors, and 59 new Critter and Construction cards. It suits groups who want more cards and more planning without a whole new map.
-
-<!-- AFFILIATE: Everdell Newleaf -->
-
-**[Mistwood](https://tycoongames.com/products/everdell-mistwood)** brings Nightweave, an automated opponent for solo and cooperative play, along with new critters and the Corrin Evertail, Legends II, and Through Every Season modules. If you mostly play Everdell alone, start here after Rugwort.
-
-<!-- AFFILIATE: Everdell Mistwood -->
+**[Mistwood](https://www.amazon.com/dp/B096N452TR?tag=cubecommonw0a-20)** brings Nightweave, an automated opponent for solo and cooperative play, along with new critters and the Corrin Evertail, Legends II, and Through Every Season modules. If you mostly play Everdell alone, start here after Rugwort.
 
 ## The Complete Collection
 
-The **[Everdell Complete Collection](https://tycoongames.com/products/everdell-complete-collection)** holds the base game, all five expansions, and the collector's content in one box, with storage trays and a consolidated rulebook and card reference, The Gilded Book and The Archive. It is a library, not a single game. Add one module at a time.
-
-<!-- AFFILIATE: Everdell Complete Collection -->
+The **[Everdell Complete Collection](https://www.amazon.com/dp/B096N3L27Q?tag=cubecommonw0a-20)** holds the base game, all five expansions, and the collector's content in one box, with storage trays and a consolidated rulebook and card reference, The Gilded Book and The Archive. It is a library, not a single game. Add one module at a time.
 
 ## Other games in the same world
 
-- **[Everdell Duo](https://tycoongames.com/products/everdell-duo)** is a standalone game for 1 or 2 players, about 30 minutes, with head-to-head play and a 15-chapter cooperative campaign. It is the easy pick for couples.
-- **[Farshore](https://tycoongames.com/collections/everdell-farshore)**, **[Silverfrost](https://tycoongames.com/collections/everdell-silverfrost)**, and **[Emerland](https://tycoongames.com/collections/everdell-emerland)** are standalone games set past the edges of the valley: a seaside town with sailing, a snowy frontier, and a jungle with upgradable cards. None needs the base game.
-- **[Welcome to Everdell](https://tycoongames.com/products/welcome-to-everdell)** is a family version for ages 6 and up, with simple worker placement and short games.
-
-<!-- AFFILIATE: Everdell Duo; Everdell Farshore; Everdell Silverfrost; Everdell Emerland; Welcome to Everdell -->
+- **[Everdell Duo](https://www.amazon.com/dp/B0D9KSDVDZ?tag=cubecommonw0a-20)** is a standalone game for 1 or 2 players, about 30 minutes, with head-to-head play and a 15-chapter cooperative campaign. It is the easy pick for couples.
+- **[Farshore](https://www.amazon.com/dp/B0D82NF8HP?tag=cubecommonw0a-20)**, **[Silverfrost](https://www.amazon.com/dp/B0FMZTSSL2?tag=cubecommonw0a-20)**, and **[Emerland](https://www.amazon.com/dp/B0G42TXNX7?tag=cubecommonw0a-20)** are standalone games set past the edges of the valley: a seaside town with sailing, a snowy frontier, and a jungle with upgradable cards. None needs the base game.
+- **[Welcome to Everdell](https://www.amazon.com/dp/B0FPRP36YQ?tag=cubecommonw0a-20)** is a family version for ages 6 and up, with simple worker placement and short games.
 
 ## How to choose
 

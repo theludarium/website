@@ -39,21 +39,19 @@ The Law adds that adventurous groups are welcome to try any mix with a total of 
 
 ## The Riverfolk Expansion
 
-[The Riverfolk Expansion](https://ledergames.com/products/root-the-riverfolk-expansion) adds two factions and the pieces to play with up to six.
+[The Riverfolk Expansion](https://www.amazon.com/dp/B07GJWQP7S?tag=cubecommonw0a-20) adds two factions and the pieces to play with up to six.
 
 - **Riverfolk Company:** a trading company that sells services, such as cards from its face-up hand or the use of its warriors as mercenaries, and gets paid in other players' warriors. It scores by building trade posts and from its funds.
 - **Lizard Cult:** a faith that builds gardens where it rules and acts mostly by revealing cards. Its warriors become acolytes when they fall defending, which powers its conspiracies.
 
-The box also adds three Vagabond characters, a second Vagabond board for games with two, and a bot board for the Marquise. <!-- AFFILIATE: Root: The Riverfolk Expansion -->
+The box also adds three Vagabond characters, a second Vagabond board for games with two, and a bot board for the Marquise.
 
 ## The Underworld Expansion
 
-[The Underworld Expansion](https://ledergames.com/products/root-underworld-expansion) adds two factions and a second double-sided board with the Lake and Mountain maps.
+[The Underworld Expansion](https://www.amazon.com/dp/B084WYZXHF?tag=cubecommonw0a-20) adds two factions and a second double-sided board with the Lake and Mountain maps.
 
 - **Underground Duchy:** moles who tunnel up from a private Burrow, build citadels and markets, and sway ministers for points and extra actions. Losing buildings costs them ministers.
 - **Corvid Conspiracy:** crows who hide face-down plots, such as bombs, snares, and extortion, and score as they flip them. Rivals can guess a plot's type to remove it.
-
-<!-- AFFILIATE: Root: The Underworld Expansion -->
 
 ## The Marauder Expansion
 
@@ -62,24 +60,20 @@ The box also adds three Vagabond characters, a second Vagabond board for games w
 - **Lord of the Hundreds:** a warlord and a hoard of items. They score each Evening for clearings they rule with no enemy pieces at all, and their mobs burn enemy buildings.
 - **Keepers in Iron:** knights who dig relics out of the forests and carry them to matching waystations, scoring for each relic and each full set. Their Retinue grows, but cards can be lost along the way.
 
-<!-- AFFILIATE: Root: The Marauder Expansion -->
-
 ## The Homeland Expansion
 
-[The Homeland Expansion](https://ledergames.com/products/root-the-homeland-expansion) adds three factions and the Marsh and Gorge maps.
+[The Homeland Expansion](https://www.amazon.com/dp/B0H92CY1JJ?tag=cubecommonw0a-20) adds three factions and the Marsh and Gorge maps.
 
 - **Lilypad Diaspora:** frogs who settle enclaves and add a new frog suit to the Woodland. Peaceful enclaves score, but attacks can turn them militant.
 - **Twilight Council:** peacekeepers who hold assemblies, defend the factions attacked there, and score from governing assemblies.
 - **Knaves of the Deepwood:** a band of three rotating captains and a crew of skunks who score from acclaim and from the prisoners they take.
 
-<!-- AFFILIATE: Root: The Homeland Expansion -->
-
 ## Smaller ways to grow
 
 - **Advanced Setup** in the Law adds a faction draft using faction setup cards, a choice of map and deck, and optional hirelings and landmarks. Tournament play uses it, as Level 4 explains.
-- **[The Exiles and Partisans Deck](https://ledergames.com/products/root-the-exiles-and-partisans-deck)** and **[The Squires and Disciples Deck](https://ledergames.com/products/root-the-squires-and-disciples-deck)** each replace the 54-card shared deck. <!-- AFFILIATE: Root: The Exiles and Partisans Deck; Root: The Squires and Disciples Deck -->
-- **[The Vagabond Pack](https://ledergames.com/products/root-the-vagabond-pack)** adds three more Vagabond characters. **[The Landmarks Pack](https://ledergames.com/products/root-landmark-pack)** adds landmarks that change the map. <!-- AFFILIATE: Root: The Vagabond Pack; Root: Landmarks Pack -->
-- **[The Clockwork Expansion 2](https://ledergames.com/products/root-the-clockwork-expansion-2)** adds four automated bot factions to round out a small game or to play cooperatively. It needs the Riverfolk or Underworld expansion. <!-- AFFILIATE: Root: The Clockwork Expansion 2 -->
+- **[The Exiles and Partisans Deck](https://www.amazon.com/dp/B0859N3BJ4?tag=cubecommonw0a-20)** and **[The Squires and Disciples Deck](https://ledergames.com/products/root-the-squires-and-disciples-deck)** each replace the 54-card shared deck.
+- **[The Vagabond Pack](https://www.amazon.com/dp/B0859NHVRD?tag=cubecommonw0a-20)** adds three more Vagabond characters. **[The Landmarks Pack](https://ledergames.com/products/root-landmark-pack)** adds landmarks that change the map.
+- **[The Clockwork Expansion 2](https://www.amazon.com/dp/B0BQNDF2YV?tag=cubecommonw0a-20)** adds four automated bot factions to round out a small game or to play cooperatively. It needs the Riverfolk or Underworld expansion.
 
 Our guide to [whether expansions are worth it](/articles/expansions-worth-it/) can help you decide where to start.
 

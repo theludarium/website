@@ -37,21 +37,21 @@ Both expansion boxes hold two modules each. You can play any module alone with t
 
 ## The Silk Road
 
-[The Silk Road](https://www.spacecowboys-games.com/game/the-silk-road/) adds two modules and one extra noble.
+[The Silk Road](https://www.amazon.com/dp/B0DHW3GTDN?tag=cubecommonw0a-20) adds two modules and one extra noble.
 
 - **The Cities.** Nobles go back in the box, and 3 City tiles come out. Each City asks for a number of prestige points plus a set of cards, much like a noble. Reaching 15 no longer ends the game. Meeting a City's requirements does: finish the round, and if several players qualify, the most points wins.
 - **The Trading Posts.** Five stacks of tiles, each with a requirement and a power. Meet a requirement at the end of your turn and take that tile, one per turn. Powers include taking a free piece after each purchase and making each Gold you spend count as two gems of the same color.
 
-The Cities gives a familiar game a new finish line. The Trading Posts rewards planning which colors you build. <!-- AFFILIATE: Splendor: The Silk Road -->
+The Cities gives a familiar game a new finish line. The Trading Posts rewards planning which colors you build.
 
 ## The Sun Never Sets
 
-[The Sun Never Sets](https://www.spacecowboys-games.com/game/the-sun-never-sets/) adds two more modules and another noble.
+[The Sun Never Sets](https://www.amazon.com/dp/B0F38NFYRR?tag=cubecommonw0a-20) adds two more modules and another noble.
 
 - **The Orient.** 30 new development cards in three small decks. Two of each level sit face up beside the normal rows. Many have special powers, such as taking a second card for free or taking on the color of a card you own.
 - **The Strongholds.** Each player has 3 Strongholds. Every time you buy a card, you place or move one of yours onto a card on the table, or knock a rival's Stronghold off a card that holds only one. A card with your Strongholds on it can be bought or reserved only by you. Put all 3 on one card, and you can buy it after your normal action.
 
-The Orient adds variety without much rules weight. The Strongholds add direct conflict, which suits groups who like to get in each other's way. <!-- AFFILIATE: Splendor: The Sun Never Sets -->
+The Orient adds variety without much rules weight. The Strongholds add direct conflict, which suits groups who like to get in each other's way.
 
 If you own an older copy, these four modules first came together in a single box, Cities of Splendor, released in 2017.
 
@@ -59,17 +59,17 @@ If you own an older copy, these four modules first came together in a single box
 
 ## Splendor Duel
 
-[Splendor Duel](https://www.spacecowboys-games.com/game/splendor-duel/) is a standalone game for two players, designed by Bruno Cathala and Marc André. It keeps the gem taking and card buying, adds a shared board, privilege scrolls, and royal cards, and gives you three different ways to win. If your Splendor is mostly a two-player game, this is the box to look at. <!-- AFFILIATE: Splendor Duel -->
+[Splendor Duel](https://www.amazon.com/dp/B0BF57RNPC?tag=cubecommonw0a-20) is a standalone game for two players, designed by Bruno Cathala and Marc André. It keeps the gem taking and card buying, adds a shared board, privilege scrolls, and royal cards, and gives you three different ways to win. If your Splendor is mostly a two-player game, this is the box to look at.
 
-Its expansion, [The Counterfeiters](https://www.spacecowboys-games.com/game/splendor-duel-the-counterfeiters/), adds Counterfeiter cards and Glassware tokens that bend the rules. <!-- AFFILIATE: Splendor Duel: The Counterfeiters -->
+Its expansion, [The Counterfeiters](https://www.amazon.com/dp/B0GWQ8T1JR?tag=cubecommonw0a-20), adds Counterfeiter cards and Glassware tokens that bend the rules.
 
 ## Splendor Marvel
 
-[Splendor Marvel](https://www.spacecowboys-games.com/game/splendor-marvel/) is the same core idea with Marvel heroes, for 2 to 4 players. The finish changes: you need at least 16 Infinity Points, at least one bonus of each color, and a green token to assemble the Infinity Gauntlet and trigger the end. It is a good pick for a group that loves the theme. <!-- AFFILIATE: Splendor Marvel -->
+[Splendor Marvel](https://www.amazon.com/dp/B08DG63MBG?tag=cubecommonw0a-20) is the same core idea with Marvel heroes, for 2 to 4 players. The finish changes: you need at least 16 Infinity Points, at least one bonus of each color, and a green token to assemble the Infinity Gauntlet and trigger the end. It is a good pick for a group that loves the theme.
 
 ## Starting from scratch
 
-If you do not own Splendor yet, the current [base game](https://www.spacecowboys-games.com/game/splendor/) is the 10th anniversary edition with new art. Everything in this course follows its rules. <!-- AFFILIATE: Splendor (base game) -->
+If you do not own Splendor yet, the current [base game](https://link.amazon/B0fEvY6Wg) is the 10th anniversary edition with new art. Everything in this course follows its rules.
 
 ## How to choose
 

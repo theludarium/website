@@ -37,33 +37,33 @@ Everyone must use the same side. The gray side turns your wall into a second puz
 
 ## The original, and the travel size
 
-If you are buying a copy for someone else this season, the original **[Azul](https://www.nextmove-games.com/en/azul/azul-game/)** is still the one to start with. <!-- AFFILIATE: Azul -->
+If you are buying a copy for someone else this season, the original **[Azul](https://link.amazon/B0bGRYHex)** is still the one to start with.
 
-**[Azul Mini](https://www.nextmove-games.com/en/azul/azul-game/azul-mini/)** is a smaller format of the same game. It still has 100 resin tiles, 4 player boards, and 9 factory displays, plus plastic trays. Its rulebook keeps the same rules as the original. Each board slides into its tray, and you track your score with point sliders instead of a marker. It suits travel and small tables. <!-- AFFILIATE: Azul Mini -->
+**[Azul Mini](https://www.amazon.com/dp/B0C382GMPC?tag=cubecommonw0a-20)** is a smaller format of the same game. It still has 100 resin tiles, 4 player boards, and 9 factory displays, plus plastic trays. Its rulebook keeps the same rules as the original. Each board slides into its tray, and you track your score with point sliders instead of a marker. It suits travel and small tables.
 
 ## Add-ons for the original
 
 Next Move collects these on its [special editions page](https://www.nextmove-games.com/en/azul/editions-speciales-azul/).
 
-**Azul Crystal Mosaic** needs the original Azul. It swaps in new double-sided player boards, with overlays that fit on top of them. It plays with the gray-side rule, so you choose where each tile goes in its row, and it changes the floor line values. One side adds spaces that double a tile's points. The other changes the end bonuses to 3 per row, 10 per column, and 12 per color. <!-- AFFILIATE: Azul Crystal Mosaic -->
+**[Azul Crystal Mosaic](https://www.amazon.com/dp/B081KW92PK?tag=cubecommonw0a-20)** needs the original Azul. It swaps in new double-sided player boards, with overlays that fit on top of them. It plays with the gray-side rule, so you choose where each tile goes in its row, and it changes the floor line values. One side adds spaces that double a tile's points. The other changes the end bonuses to 3 per row, 10 per column, and 12 per color.
 
-**The Azul Promo Collection** adds two special factory displays. The Rainbow Factory lets you take one tile of each color instead of all of one color. The Big Factory holds 6 tiles, and nobody may take from it while other displays still have tiles. It works with Azul, Stained Glass of Sintra, or Summer Pavilion. Next Move lists it as a promotional item. <!-- AFFILIATE: Azul Promo Collection -->
+**The Azul Promo Collection** adds two special factory displays. The Rainbow Factory lets you take one tile of each color instead of all of one color. The Big Factory holds 6 tiles, and nobody may take from it while other displays still have tiles. It works with Azul, Stained Glass of Sintra, or Summer Pavilion. Next Move lists it as a promotional item.
 
 <!-- VERIFY: how the Promo Collection is sold or given away (retail, convention promo, or with a purchase) before pointing readers to buy it. -->
 
-**Azul Master Chocolatier** is a limited collector's edition of Azul with a chocolate theme. It is a complete game with its own boards, tiles, and bag, and the same rules, plus a Special Factories variant with five kinds of special displays. <!-- AFFILIATE: Azul Master Chocolatier -->
+**[Azul Master Chocolatier](https://www.amazon.com/dp/B0BJ36B62D?tag=cubecommonw0a-20)** is a limited collector's edition of Azul with a chocolate theme. It is a complete game with its own boards, tiles, and bag, and the same rules, plus a Special Factories variant with five kinds of special displays.
 
 ## The standalone family
 
 Each of these is a full game. None needs the original, and each keeps the drafting idea at its heart while changing what you build.
 
-**[Azul Stained Glass of Sintra](https://www.nextmove-games.com/en/azul/azul-sintra/)** has you draft glass panes to fill palace windows, over six rounds. It plays 2 to 4. <!-- AFFILIATE: Azul Stained Glass of Sintra -->
+**[Azul Stained Glass of Sintra](https://www.amazon.com/dp/B07KKQ8ZBT?tag=cubecommonw0a-20)** has you draft glass panes to fill palace windows, over six rounds. It plays 2 to 4.
 
-**[Azul Summer Pavilion](https://www.nextmove-games.com/en/azul/azul-summer-pavilion/)** sends you back to Portugal to build the summer pavilion King Manuel I planned, with 132 resin tiles and a round counter. It plays 2 to 4. <!-- AFFILIATE: Azul Summer Pavilion -->
+**[Azul Summer Pavilion](https://www.amazon.com/dp/B07XPSBCPD?tag=cubecommonw0a-20)** sends you back to Portugal to build the summer pavilion King Manuel I planned, with 132 resin tiles and a round counter. It plays 2 to 4.
 
-**[Azul Queen's Garden](https://www.nextmove-games.com/en/azul/azul-le-jardin-de-la-reine/)** has you arrange plants, trees, and ornamental features in a royal garden, with jokers in the mix. It plays 2 to 4. <!-- AFFILIATE: Azul Queen's Garden -->
+**[Azul Queen's Garden](https://www.amazon.com/dp/B09HXZ4XDN?tag=cubecommonw0a-20)** has you arrange plants, trees, and ornamental features in a royal garden, with jokers in the mix. It plays 2 to 4.
 
-**[Azul Duel](https://www.nextmove-games.com/en/azul/azul-duel/)** is built for exactly two players. You draft tiles as in Azul, and you also decide the pattern those tiles will form. <!-- AFFILIATE: Azul Duel -->
+**[Azul Duel](https://www.amazon.com/dp/B0DT9PV8PL?tag=cubecommonw0a-20)** is built for exactly two players. You draft tiles as in Azul, and you also decide the pattern those tiles will form.
 
 ## How to choose
 

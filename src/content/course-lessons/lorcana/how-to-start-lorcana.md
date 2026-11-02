@@ -23,7 +23,7 @@ A stack of cards from random packs rarely makes a deck that plays well. A playab
 
 ## The best first buy: the 2-Player Starter Set
 
-The [2-Player Starter Set](https://www.disneylorcana.com/en-US/product/2-player-starter-set) is the product the official site describes as everything two players need to play. It holds:
+The [2-Player Starter Set](https://www.amazon.com/dp/B0HFQBXVPD?tag=cubecommonw0a-20) is the product the official site describes as everything two players need to play. It holds:
 
 - Two ready-to-play 60-card decks, each with two special cards
 - Two deck storage boxes
@@ -32,8 +32,6 @@ The [2-Player Starter Set](https://www.disneylorcana.com/en-US/product/2-player-
 - A rulebook
 
 The two decks are built for people new to the game, and they play differently. One leans high-tech and flexible. The other is full of wizards and apprentices. That contrast is useful: each player learns a different style, and after a few games you can swap.
-
-<!-- AFFILIATE: Disney Lorcana 2-Player Starter Set -->
 
 <!-- VERIFY: confirm on the box or a Ravensburger page that this set ties to Hyperia City and released October 23, 2026, what the 13 tokens are (ink drops, damage, or both), and whether its decks are legal in Core Constructed. -->
 
@@ -45,9 +43,7 @@ Pick it when:
 
 ## A guided option: Disney Lorcana Gateway
 
-Ravensburger also sells [Disney Lorcana Gateway](https://www.disneylorcana.com/en-US/product/gateway), which the official site calls the best way to learn how to play. It comes with a game board, a guidebook, two 30-card starting decks, and four reward packs. That suits a family that wants a guided start. A deck for a constructed store night needs at least 60 cards, though, so if weekly play is the goal, the 2-Player Starter Set gets you there sooner.
-
-<!-- AFFILIATE: Disney Lorcana Gateway -->
+Ravensburger also sells [Disney Lorcana Gateway](https://www.amazon.com/dp/B0CSZ553QK?tag=cubecommonw0a-20), which the official site calls the best way to learn how to play. It comes with a game board, a guidebook, two 30-card starting decks, and four reward packs. That suits a family that wants a guided start. A deck for a constructed store night needs at least 60 cards, though, so if weekly play is the goal, the 2-Player Starter Set gets you there sooner.
 
 ## Free before you buy
 

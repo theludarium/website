@@ -11,7 +11,7 @@ oneIdea: "Rise of Ix adds permanent engines, tech tiles and dreadnoughts, to a g
 tryThis: "Play your next game of the original with Rise of Ix. Write down which tech tiles each player bought and in which round, and compare the list with the final scores."
 nextTeaser: "Next, tournament rules: how Heats are scored, why a win is worth ten second places, the clock, and table habits under event rules."
 ---
-The [World Boardgaming Championships](https://www.boardgamers.org/wbc26/previews/DNI.html) plays the original Dune: Imperium with the Rise of Ix expansion, and its Final uses Rise of Ix's Epic mode. If that is your goal, you need to know Rise of Ix well. Every rule here comes from the [Rise of Ix rulebook](https://d19y2ttatozxjp.cloudfront.net/pdfs/DUNE_IMPERIUM_RISE_OF_IX_Rulebook_22-2-11.pdf). <!-- AFFILIATE: Dune: Imperium Rise of Ix -->
+The [World Boardgaming Championships](https://www.boardgamers.org/wbc26/previews/DNI.html) plays the original Dune: Imperium with the [Rise of Ix](https://www.amazon.com/dp/B09J37NRNB?tag=cubecommonw0a-20) expansion, and its Final uses Rise of Ix's Epic mode. If that is your goal, you need to know Rise of Ix well. Every rule here comes from the [Rise of Ix rulebook](https://d19y2ttatozxjp.cloudfront.net/pdfs/DUNE_IMPERIUM_RISE_OF_IX_Rulebook_22-2-11.pdf).
 
 ## What goes on the table
 

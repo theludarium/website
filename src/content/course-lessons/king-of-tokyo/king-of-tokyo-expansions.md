@@ -25,7 +25,7 @@ If your group likes planning, play at 3 or 4. If it likes chaos and table talk, 
 
 ## Power Up!
 
-[Power Up!](https://iellogames.com/games/king-of-tokyo/) is the expansion most groups add first. <!-- VERIFY: IELLO's own Power Up! product page URL; iellogames.com/jeux/king-of-tokyo-power-up/ returned a 404 during research, so this links the King of Tokyo page. -->
+[Power Up!](https://www.amazon.com/dp/B01MU9CI75?tag=cubecommonw0a-20) is the expansion most groups add first.
 
 It gives each Monster a personal deck of eight Evolution cards. According to the current Power Up! rulebook:
 
@@ -35,11 +35,11 @@ It gives each Monster a personal deck of eight Evolution cards. According to the
 
 The box adds a new Monster, Pandakaï, plus Evolutions for two Monsters from the first edition. The rulebook also includes a competitive variant, Mutant Evolutions, where players draft their eight Evolutions from all the Monsters in play.
 
-Power Up! makes the Monsters feel different from each other, which is the main thing the base game lacks. <!-- AFFILIATE: King of Tokyo Power Up! -->
+Power Up! makes the Monsters feel different from each other, which is the main thing the base game lacks.
 
 ## Halloween
 
-The [Halloween expansion](https://iellogames.com/jeux/king-of-tokyo-halloween/) adds two Monsters, Pumpkin Jack and Boogie Woogie, with their own Evolution cards, plus Costume cards, a new kind of Power card. <!-- AFFILIATE: King of Tokyo Halloween expansion -->
+The [Halloween expansion](https://www.amazon.com/dp/B073WL9RL9?tag=cubecommonw0a-20) adds two Monsters, Pumpkin Jack and Boogie Woogie, with their own Evolution cards, plus Costume cards, a new kind of Power card.
 
 <!-- VERIFY: Halloween contents and how Costume cards work on IELLO's page or rulebook; the page did not load during research and these details come from retailer listings and an encyclopedia entry. -->
 
@@ -47,19 +47,17 @@ The [Halloween expansion](https://iellogames.com/jeux/king-of-tokyo-halloween/) 
 
 Each Monster Pack adds one Monster with its own twist, and each works with both King of Tokyo and King of New York.
 
-- **[Cthulhu](https://iellogames.com/jeux/king-of-tokyo-monster-pack-cthulhu/)** (2017), the first pack.
-- **[King Kong](https://iellogames.com/jeux/king-of-tokyo-king-kong-monster-pack/)** (2017), which adds a Tokyo Tower for King of Tokyo.
-- **Anubis** and **Cybertooth**, the third and fourth packs.
+- **[Cthulhu](https://www.amazon.com/dp/B01MT7TRXI?tag=cubecommonw0a-20)** (2017), the first pack.
+- **[King Kong](https://www.amazon.com/dp/B073WN3JK6?tag=cubecommonw0a-20)** (2017), which adds a Tokyo Tower for King of Tokyo.
+- **Anubis** and **[Cybertooth](https://www.amazon.com/dp/B07VJS8DVX?tag=cubecommonw0a-20)**, the third and fourth packs.
 
 <!-- VERIFY: IELLO product pages for the Anubis and Cybertooth Monster Packs, and a one-line description of each twist. -->
 
-**[Baby Gigazaur](https://iellogames.com/jeux/king-of-tokyo-baby-gigazaur/)** (2023) is a single new Monster that also works with King of New York and King of Monster Island.
-
-<!-- AFFILIATE: Cthulhu Monster Pack, King Kong Monster Pack, Anubis Monster Pack, Cybertooth Monster Pack, Baby Gigazaur -->
+**[Baby Gigazaur](https://www.amazon.com/dp/B0BZD11KCY?tag=cubecommonw0a-20)** (2023) is a single new Monster that also works with King of New York and King of Monster Island.
 
 ## The Monster Box
 
-If you know you want more than the base game, the [Monster Box](https://iellogames.com/jeux/king-of-tokyo-monster-box/) (December 2021) collects the base game with Power Up! and Halloween, plus Baby Gigazaur, some exclusive Power cards, and a dice tray. <!-- AFFILIATE: King of Tokyo Monster Box -->
+If you know you want more than the base game, the [Monster Box](https://www.amazon.com/dp/B09FY921Z8?tag=cubecommonw0a-20) (December 2021) collects the base game with Power Up! and Halloween, plus Baby Gigazaur, some exclusive Power cards, and a dice tray.
 
 <!-- VERIFY: Monster Box contents on IELLO's page; it did not load during research. -->
 
@@ -67,12 +65,12 @@ If you know you want more than the base game, the [Monster Box](https://iellogam
 
 None of these needs the base game.
 
-- **[King of New York](https://iellogames.com/jeux/king-of-new-york/)** (2014) keeps the core and adds a lot: city districts to stomp through, buildings to destroy, military units that fire on you when you roll their face, a Superstar title to chase, and Lady Liberty defending the city. A good next step for groups who want more decisions. <!-- AFFILIATE: King of New York -->
-- **[King of Tokyo: Dark Edition](https://iellogames.com/jeux/king-of-tokyo-dark-edition/)** (2020) is a collector's edition with new art and a wickedness gauge that grants powers as you climb it. It also includes a new 2-player variant by Richard Garfield. <!-- AFFILIATE: King of Tokyo Dark Edition -->
-- **King of Tokyo: Duel** (2024) is a 2-player game in about 20 minutes. <!-- AFFILIATE: King of Tokyo Duel -->
-- **[King of Tokyo: Origins](https://iellogames.com/king-of-tokyo-origins-an-intro-to-the-smash-hit-king-of-tokyo-series/)** (2024) is a smaller, streamlined version for 2 to 4 players, with four new Monsters. <!-- AFFILIATE: King of Tokyo Origins -->
-- **[King of Monster Island](https://iellogames.com/jeux/king-of-monster-island/)** (2022) is cooperative: the Monsters team up against a boss. <!-- AFFILIATE: King of Monster Island -->
-- **[King of Tokyo Godzilla](https://iellogames.com/jeux/king-of-tokyo-godzilla/)** (listed by IELLO for spring 2026) brings Toho's kaiju in, adds Event cards that affect every Monster, and includes Evolution cards. <!-- AFFILIATE: King of Tokyo Godzilla -->
+- **[King of New York](https://www.amazon.com/dp/B00KU9LQUO?tag=cubecommonw0a-20)** (2014) keeps the core and adds a lot: city districts to stomp through, buildings to destroy, military units that fire on you when you roll their face, a Superstar title to chase, and Lady Liberty defending the city. A good next step for groups who want more decisions.
+- **[King of Tokyo: Dark Edition](https://iellogames.com/jeux/king-of-tokyo-dark-edition/)** (2020) is a collector's edition with new art and a wickedness gauge that grants powers as you climb it. It also includes a new 2-player variant by Richard Garfield.
+- **[King of Tokyo: Duel](https://www.amazon.com/dp/B0D5DMJ6XG?tag=cubecommonw0a-20)** (2024) is a 2-player game in about 20 minutes.
+- **[King of Tokyo: Origins](https://www.amazon.com/dp/B0D8BY8BRB?tag=cubecommonw0a-20)** (2024) is a smaller, streamlined version for 2 to 4 players, with four new Monsters.
+- **[King of Monster Island](https://www.amazon.com/dp/B0B5DKMMW2?tag=cubecommonw0a-20)** (2022) is cooperative: the Monsters team up against a boss.
+- **[King of Tokyo Godzilla](https://www.amazon.com/dp/B0GTBGMYS3?tag=cubecommonw0a-20)** (listed by IELLO for spring 2026) brings Toho's kaiju in, adds Event cards that affect every Monster, and includes Evolution cards.
 
 <!-- VERIFY: IELLO product page URL for King of Tokyo: Duel, and the Origins player count and contents on IELLO's own product page. -->
 

@@ -75,6 +75,4 @@ A few habits turn solo games into practice for the group table:
 
 The [digital Spirit Island](https://www.handelabra.com/spiritisland) from Handelabra handles the bookkeeping and plays solo, which makes it quick practice with a new Spirit or adversary. It is a good way to learn a Spirit's panel before you teach it at the table.
 
-<!-- AFFILIATE: Spirit Island digital edition (Handelabra) -->
-
 Solo play is where many players first climb an adversary. The next lesson shows how.

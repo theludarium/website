@@ -74,13 +74,9 @@ Feuerland Spiele has announced an [Ark Nova world championship](https://www.feue
 
 ## Expansions and maps
 
-Once the base game feels familiar, Capstone sells two kinds of additions. [Ark Nova: Marine Worlds](https://capstone-games.com/products/ark-nova-marine-worlds) adds sea animals and aquariums, a new university, alternate action cards, and new Final Scoring cards and Bonus tiles. It needs the [base game](https://capstone-games.com/products/ark-nova). The WBC heats made room for Marine Worlds players too.
+Once the base game feels familiar, Capstone sells two kinds of additions. [Ark Nova: Marine Worlds](https://www.amazon.com/dp/B0C82CNHDY?tag=cubecommonw0a-20) adds sea animals and aquariums, a new university, alternate action cards, and new Final Scoring cards and Bonus tiles. It needs the [base game](https://www.amazon.com/dp/B09L6FCP9S?tag=cubecommonw0a-20). The WBC heats made room for Marine Worlds players too.
 
-<!-- AFFILIATE: Ark Nova and Ark Nova: Marine Worlds -->
-
-For new zoo maps, [Zoo Map Pack 1](https://capstone-games.com/products/ark-nova-zoo-map-pack-1) adds maps 9 and 10, and [Zoo Map Pack 2](https://capstone-games.com/products/ark-nova-zoo-map-pack-2) adds five layouts, including the 2024 World Series of Board Gaming tournament map.
-
-<!-- AFFILIATE: Ark Nova Zoo Map Pack 1 and Zoo Map Pack 2 -->
+For new zoo maps, [Zoo Map Pack 1](https://www.amazon.com/dp/B0BH8YGPMN?tag=cubecommonw0a-20) adds maps 9 and 10, and [Zoo Map Pack 2](https://www.amazon.com/dp/B0DLXZJ644?tag=cubecommonw0a-20) adds five layouts, including the 2024 World Series of Board Gaming tournament map.
 
 ## Finding local players
 

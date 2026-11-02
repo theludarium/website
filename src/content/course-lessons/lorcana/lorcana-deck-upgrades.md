@@ -64,17 +64,11 @@ Before you spend money on a card, try it. Write its name on a slip of paper, put
 
 When you want more cards at once, these are the usual next steps:
 
-**[Hyperia City](https://www.disneylorcana.com/en-US/product/hyperia-city) booster packs** are the newest cards and the most likely to be Core legal for years. Open them with a friend and play a game of Pack Rush, two packs each, straight out of the wrappers.
+**[Hyperia City](https://www.amazon.com/dp/B0HFPF8CPH?tag=cubecommonw0a-20) booster packs** are the newest cards and the most likely to be Core legal for years. Open them with a friend and play a game of Pack Rush, two packs each, straight out of the wrappers.
 
-<!-- AFFILIATE: Disney Lorcana Hyperia City booster packs -->
+**The [Hyperia City Illumineer's Trove](https://www.amazon.com/dp/B0HFQCKNVQ?tag=cubecommonw0a-20)** holds 8 booster packs and damage dice in a full art box. It suits a sealed game at home, which the [prerelease lesson](/academy/lorcana/lorcana-prerelease-guide/) explains.
 
-**The [Hyperia City Illumineer's Trove](https://www.disneylorcana.com/en-US/product/hyperia-city)** holds 8 booster packs and damage dice in a full art box. It suits a sealed game at home, which the [prerelease lesson](/academy/lorcana/lorcana-prerelease-guide/) explains.
-
-<!-- AFFILIATE: Disney Lorcana Hyperia City Illumineer's Trove -->
-
-**A second [2-Player Starter Set](https://www.disneylorcana.com/en-US/product/2-player-starter-set)** gives you more copies of the cards you already like, plus two more storage boxes.
-
-<!-- AFFILIATE: Disney Lorcana 2-Player Starter Set -->
+**A second [2-Player Starter Set](https://www.amazon.com/dp/B0HFQBXVPD?tag=cubecommonw0a-20)** gives you more copies of the cards you already like, plus two more storage boxes.
 
 ## Upgrade a few cards at a time
 
