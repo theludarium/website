@@ -21,7 +21,8 @@ export const FOUNDER = {
 };
 
 export type NavLink = { href: string; label: string; description?: string };
-export type NavItem = NavLink & { children?: NavLink[] };
+/** topLink: the label itself links to href, and a separate chevron opens the menu. */
+export type NavItem = NavLink & { children?: NavLink[]; topLink?: boolean };
 
 export interface ArticleCategory {
   slug: string;
@@ -93,6 +94,7 @@ export const MAIN_NAV: NavItem[] = [
   {
     href: '/articles/',
     label: 'Articles',
+    topLink: true,
     children: [
       { href: '/articles/', label: 'All articles', description: 'Everything we have written, newest first.' },
       ...CATEGORIES.map((c) => ({

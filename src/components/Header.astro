@@ -16,18 +16,38 @@ const matches = (href: string) => path === href || (href !== '/' && path.startsW
           MAIN_NAV.map((item, i) =>
             item.children ? (
               <li class="nav-item has-menu" data-menu>
-                <button
-                  class:list={['nav-link', 'nav-trigger', { 'is-current': item.children.some((c) => matches(c.href)) }]}
-                  type="button"
-                  aria-expanded="false"
-                  aria-controls={`nav-menu-${i}`}
-                  data-menu-trigger
-                >
-                  {item.label}
-                  <svg class="nav-trigger__chevron" viewBox="0 0 12 12" width="12" height="12" aria-hidden="true">
-                    <path d="M2.5 4.5 6 8l3.5-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
-                  </svg>
-                </button>
+                {item.topLink ? (
+                  <div class:list={['nav-split', { 'is-current': item.children.some((c) => matches(c.href)) }]}>
+                    <a class="nav-link nav-split__link" href={item.href} aria-current={path === item.href ? 'page' : undefined}>
+                      {item.label}
+                    </a>
+                    <button
+                      class="nav-trigger nav-split__toggle"
+                      type="button"
+                      aria-expanded="false"
+                      aria-controls={`nav-menu-${i}`}
+                      aria-label={`${item.label} menu`}
+                      data-menu-trigger
+                    >
+                      <svg class="nav-trigger__chevron" viewBox="0 0 12 12" width="12" height="12" aria-hidden="true">
+                        <path d="M2.5 4.5 6 8l3.5-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+                      </svg>
+                    </button>
+                  </div>
+                ) : (
+                  <button
+                    class:list={['nav-link', 'nav-trigger', { 'is-current': item.children.some((c) => matches(c.href)) }]}
+                    type="button"
+                    aria-expanded="false"
+                    aria-controls={`nav-menu-${i}`}
+                    data-menu-trigger
+                  >
+                    {item.label}
+                    <svg class="nav-trigger__chevron" viewBox="0 0 12 12" width="12" height="12" aria-hidden="true">
+                      <path d="M2.5 4.5 6 8l3.5-3.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+                    </svg>
+                  </button>
+                )}
                 <div class="nav-panel" id={`nav-menu-${i}`}>
                   <ul class="nav-panel__list">
                     {item.children.map((child) => (
@@ -132,6 +152,42 @@ const matches = (href: string) => path === href || (href !== '/' && path.startsW
 
   .has-menu[data-open] .nav-trigger__chevron {
     transform: rotate(180deg);
+  }
+
+  /* Split item: the label is a link, the chevron opens the menu */
+  .nav-split {
+    display: inline-flex;
+    align-items: stretch;
+    border-radius: var(--radius-pill);
+    transition: background var(--transition);
+  }
+
+  .nav-split:hover,
+  .has-menu[data-open] > .nav-split {
+    background: var(--color-surface-alt);
+  }
+
+  .nav-split .nav-split__link {
+    padding-right: 0.2em;
+  }
+
+  .nav-split .nav-split__link:hover {
+    background: transparent;
+  }
+
+  .nav-split.is-current .nav-split__link {
+    color: var(--color-primary);
+  }
+
+  .nav-split__toggle {
+    display: inline-flex;
+    align-items: center;
+    padding: 0 var(--space-3) 0 0.2em;
+    border: 0;
+    border-radius: var(--radius-pill);
+    background: transparent;
+    color: var(--color-text);
+    cursor: pointer;
   }
 
   .nav-panel__list {
@@ -308,8 +364,26 @@ const matches = (href: string) => path === href || (href !== '/' && path.startsW
     }
 
     .nav-link:hover,
-    .has-menu[data-open] > .nav-trigger {
+    .has-menu[data-open] > .nav-trigger,
+    .nav-split:hover,
+    .has-menu[data-open] > .nav-split {
       background: transparent;
+    }
+
+    .nav-split {
+      display: flex;
+      width: 100%;
+    }
+
+    .nav-split .nav-split__link {
+      flex: 1;
+      width: auto;
+    }
+
+    .nav-split__toggle {
+      justify-content: center;
+      min-width: 2.75rem;
+      padding: 0 var(--space-2);
     }
 
     .nav-panel {
