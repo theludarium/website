@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-labelledby="t d">
+  <title id="t">Scythe setup for five players, in the abstract</title>
+  <desc id="d">A simplified hex map with the Factory in the center and five home bases around the edge in seating order: Nordic at the top, Rusviet at the right, Crimea at the lower right, Saxony at the bottom, and Polania at the left. Each home base holds a character, with one worker on each of the two land territories next to it. Encounter tokens dot the map. A side panel lists the decks, the structure bonus tile, the tracks, and one player's mats.</desc>
+  <rect width="480" height="320" fill="#F6EFE3"/>
+  <g font-family="system-ui, sans-serif" font-size="12" fill="#2B1E16">
+    <rect x="8" y="8" width="296" height="304" rx="12" fill="#2F5D50" fill-opacity="0.08" stroke="#B9AD9C" stroke-width="1.5"/>
+    <text x="20" y="27" font-size="13" font-weight="700">The map, in the abstract</text>
+    <text x="20" y="42" font-size="12" fill="#2F5D50">Hexes simplified: follow your printed board</text>
+    <polygon points="90.5,131.8 82.0,146.6 65.0,146.6 56.5,131.8 65.0,117.1 82.0,117.1" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+    <polygon points="90.5,161.3 82.0,176.0 65.0,176.0 56.5,161.3 65.0,146.6 82.0,146.6" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+    <circle cx="73.5" cy="161.3" r="4.5" fill="#2F5D50" stroke="#F6EFE3" stroke-width="1"/>
+    <polygon points="90.5,190.7 82.0,205.4 65.0,205.4 56.5,190.7 65.0,176.0 82.0,176.0" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+    <polygon points="90.5,220.2 82.0,234.9 65.0,234.9 56.5,220.2 65.0,205.4 82.0,205.4" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+    <polygon points="116.0,117.1 107.5,131.8 90.5,131.8 82.0,117.1 90.5,102.4 107.5,102.4" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+    <polygon points="116.0,146.6 107.5,161.3 90.5,161.3 82.0,146.6 90.5,131.8 107.5,131.8" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+    <circle cx="99.0" cy="146.6" r="4.5" fill="#2F5D50" stroke="#F6EFE3" stroke-width="1"/>
+    <polygon points="116.0,176.0 107.5,190.7 90.5,190.7 82.0,176.0 90.5,161.3 107.5,161.3" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+    <polygon points="116.0,205.4 107.5,220.2 90.5,220.2 82.0,205.4 90.5,190.7 107.5,190.7" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+    <polygon points="116.0,234.9 107.5,249.6 90.5,249.6 82.0,234.9 90.5,220.2 107.5,220.2" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+    <circle cx="99.0" cy="234.9" r="4.5" fill="#2F5D50" stroke="#F6EFE3" stroke-width="1"/>
+    <polygon points="141.5,102.4 133.0,117.1 116.0,117.1 107.5,102.4 116.0,87.7 133.0,87.7" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+    <polygon points="141.5,131.8 133.0,146.6 116.0,146.6 107.5,131.8 116.0,117.1 133.0,117.1" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+    <circle cx="124.5" cy="131.8" r="4.5" fill="#2F5D50" stroke="#F6EFE3" stroke-width="1"/>
+    <polygon points="141.5,161.3 133.0,176.0 116.0,176.0 107.5,161.3 116.0,146.6 133.0,146.6" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+    <polygon points="141.5,190.7 133.0,205.4 116.0,205.4 107.5,190.7 116.0,176.0 133.0,176.0" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+    <polygon points="141.5,220.2 133.0,234.9 116.0,234.9 107.5,220.2 116.0,205.4 133.0,205.4" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+    <circle cx="124.5" cy="220.2" r="4.5" fill="#2F5D50" stroke="#F6EFE3" stroke-width="1"/>
+    <polygon points="141.5,249.6 133.0,264.3 116.0,264.3 107.5,249.6 116.0,234.9 133.0,234.9" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+    <polygon points="167.0,87.7 158.5,102.4 141.5,102.4 133.0,87.7 141.5,72.9 158.5,72.9" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+    <polygon points="167.0,117.1 158.5,131.8 141.5,131.8 133.0,117.1 141.5,102.4 158.5,102.4" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+    <circle cx="150.0" cy="117.1" r="4.5" fill="#2F5D50" stroke="#F6EFE3" stroke-width="1"/>
+    <polygon points="167.0,146.6 158.5,161.3 141.5,161.3 133.0,146.6 141.5,131.8 158.5,131.8" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+    <polygon points="167.0,205.4 158.5,220.2 141.5,220.2 133.0,205.4 141.5,190.7 158.5,190.7" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+    <polygon points="167.0,234.9 158.5,249.6 141.5,249.6 133.0,234.9 141.5,220.2 158.5,220.2" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+    <polygon points="167.0,264.3 158.5,279.1 141.5,279.1 133.0,264.3 141.5,249.6 158.5,249.6" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+    <polygon points="192.5,102.4 184.0,117.1 167.0,117.1 158.5,102.4 167.0,87.7 184.0,87.7" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+    <circle cx="175.5" cy="102.4" r="4.5" fill="#2F5D50" stroke="#F6EFE3" stroke-width="1"/>
+    <polygon points="192.5,131.8 184.0,146.6 167.0,146.6 158.5,131.8 167.0,117.1 184.0,117.1" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+    <polygon points="192.5,161.3 184.0,176.0 167.0,176.0 158.5,161.3 167.0,146.6 184.0,146.6" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+    <polygon points="192.5,190.7 184.0,205.4 167.0,205.4 158.5,190.7 167.0,176.0 184.0,176.0" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+    <polygon points="192.5,220.2 184.0,234.9 167.0,234.9 158.5,220.2 167.0,205.4 184.0,205.4" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+    <circle cx="175.5" cy="220.2" r="4.5" fill="#2F5D50" stroke="#F6EFE3" stroke-width="1"/>
+    <polygon points="192.5,249.6 184.0,264.3 167.0,264.3 158.5,249.6 167.0,234.9 184.0,234.9" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+    <polygon points="218.0,117.1 209.5,131.8 192.5,131.8 184.0,117.1 192.5,102.4 209.5,102.4" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+    <polygon points="218.0,146.6 209.5,161.3 192.5,161.3 184.0,146.6 192.5,131.8 209.5,131.8" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+    <circle cx="201.0" cy="146.6" r="4.5" fill="#2F5D50" stroke="#F6EFE3" stroke-width="1"/>
+    <polygon points="218.0,176.0 209.5,190.7 192.5,190.7 184.0,176.0 192.5,161.3 209.5,161.3" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+    <polygon points="218.0,205.4 209.5,220.2 192.5,220.2 184.0,205.4 192.5,190.7 209.5,190.7" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+    <polygon points="218.0,234.9 209.5,249.6 192.5,249.6 184.0,234.9 192.5,220.2 209.5,220.2" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+    <circle cx="201.0" cy="234.9" r="4.5" fill="#2F5D50" stroke="#F6EFE3" stroke-width="1"/>
+    <polygon points="243.5,131.8 235.0,146.6 218.0,146.6 209.5,131.8 218.0,117.1 235.0,117.1" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+    <polygon points="243.5,161.3 235.0,176.0 218.0,176.0 209.5,161.3 218.0,146.6 235.0,146.6" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+    <polygon points="243.5,190.7 235.0,205.4 218.0,205.4 209.5,190.7 218.0,176.0 235.0,176.0" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+    <circle cx="226.5" cy="190.7" r="4.5" fill="#2F5D50" stroke="#F6EFE3" stroke-width="1"/>
+    <polygon points="243.5,220.2 235.0,234.9 218.0,234.9 209.5,220.2 218.0,205.4 235.0,205.4" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.2"/>
+    <polygon points="173.8,176.0 161.9,196.6 138.1,196.6 126.2,176.0 138.1,155.4 161.9,155.4" fill="#E0A23B" stroke="#2B1E16" stroke-width="1.2"/>
+    <text x="150.0" y="180.0" text-anchor="middle" font-size="12">Factory</text>
+    <rect x="146.0" y="83.7" width="8" height="8" rx="1.5" fill="#2B1E16"/>
+    <rect x="171.5" y="98.4" width="8" height="8" rx="1.5" fill="#2B1E16"/>
+    <circle cx="150.0" cy="58.2" r="13" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+    <circle cx="150.0" cy="58.2" r="4.5" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+    <text x="168.0" y="62.2" text-anchor="start" font-size="12" font-weight="700">Nordic</text>
+    <rect x="222.5" y="127.8" width="8" height="8" rx="1.5" fill="#2B1E16"/>
+    <rect x="222.5" y="157.3" width="8" height="8" rx="1.5" fill="#2B1E16"/>
+    <circle cx="270.0" cy="146.6" r="13" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+    <circle cx="270.0" cy="146.6" r="4.5" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+    <text x="270.0" y="128.6" text-anchor="middle" font-size="12" font-weight="700">Rusviet</text>
+    <rect x="197.0" y="230.9" width="8" height="8" rx="1.5" fill="#2B1E16"/>
+    <rect x="222.5" y="216.2" width="8" height="8" rx="1.5" fill="#2B1E16"/>
+    <circle cx="226.5" cy="249.6" r="13" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+    <circle cx="226.5" cy="249.6" r="4.5" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+    <text x="226.5" y="277.6" text-anchor="middle" font-size="12" font-weight="700">Crimea</text>
+    <rect x="95.0" y="230.9" width="8" height="8" rx="1.5" fill="#2B1E16"/>
+    <rect x="120.5" y="245.6" width="8" height="8" rx="1.5" fill="#2B1E16"/>
+    <circle cx="99.0" cy="264.3" r="13" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+    <circle cx="99.0" cy="264.3" r="4.5" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+    <text x="81.0" y="268.3" text-anchor="end" font-size="12" font-weight="700">Saxony</text>
+    <rect x="69.5" y="186.7" width="8" height="8" rx="1.5" fill="#2B1E16"/>
+    <rect x="69.5" y="157.3" width="8" height="8" rx="1.5" fill="#2B1E16"/>
+    <circle cx="34.0" cy="176.0" r="13" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+    <circle cx="34.0" cy="176.0" r="4.5" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+    <text x="34.0" y="158.0" text-anchor="middle" font-size="12" font-weight="700">Polania</text>
+    <rect x="14" y="290" width="10" height="10" rx="2" fill="#2F5D50"/>
+    <circle cx="19" cy="295" r="3" fill="#E0A23B"/>
+    <text x="30" y="299" font-size="12">Home base, character</text>
+    <rect x="160" y="291" width="8" height="8" rx="1.5" fill="#2B1E16"/>
+    <text x="172" y="299" font-size="12">Worker</text>
+    <circle cx="226" cy="295" r="4.5" fill="#2F5D50"/>
+    <text x="234" y="299" font-size="12">Encounter</text>
+
+    <rect x="312" y="8" width="160" height="304" rx="12" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1.5"/>
+    <text x="324" y="27" font-size="13" font-weight="700">Beside the board</text>
+    <rect x="324" y="38" width="30" height="40" rx="4" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+    <rect x="360" y="38" width="30" height="40" rx="4" fill="#2F5D50" stroke="#2B1E16" stroke-width="0.8"/>
+    <rect x="396" y="38" width="30" height="40" rx="4" fill="#B9AD9C" stroke="#2B1E16" stroke-width="0.8"/>
+    <rect x="432" y="38" width="30" height="40" rx="4" fill="#F6EFE3" stroke="#2B1E16" stroke-width="0.8"/>
+    <text x="324" y="94" font-size="12">Combat, encounter,</text>
+    <text x="324" y="109" font-size="12">objective, Factory cards</text>
+    <text x="324" y="124" font-size="12" fill="#2F5D50">Factory: players + 1</text>
+    <rect x="324" y="134" width="136" height="20" rx="5" fill="#2F5D50" fill-opacity="0.15" stroke="#2F5D50" stroke-width="1"/>
+    <text x="392" y="148" text-anchor="middle" font-size="12">Structure bonus tile</text>
+    <text x="324" y="172" font-size="12">Tracks: popularity,</text>
+    <text x="324" y="187" font-size="12">power, Triumph (stars)</text>
+
+    <text x="324" y="210" font-size="13" font-weight="700">Each player</text>
+    <rect x="324" y="218" width="136" height="34" rx="6" fill="#2F5D50" fill-opacity="0.15" stroke="#2F5D50" stroke-width="1"/>
+    <text x="332" y="233" font-size="12">Faction mat</text>
+    <text x="332" y="247" font-size="12" fill="#2F5D50">4 mechs, 6 stars</text>
+    <rect x="324" y="258" width="136" height="48" rx="6" fill="#E0A23B" fill-opacity="0.2" stroke="#2B1E16" stroke-width="1"/>
+    <text x="332" y="273" font-size="12">Player mat: 4 sections</text>
+    <text x="332" y="287" font-size="12" fill="#2F5D50">6 workers, 6 cubes,</text>
+    <text x="332" y="301" font-size="12" fill="#2F5D50">4 structures, 4 recruits</text>
+
+  </g>
+</svg>

@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-labelledby="t d">
+  <title id="t">Arcs setup for four players, in the abstract</title>
+  <desc id="d">Six clusters in a ring, each with a gate near the center and three planets around it. One cluster is closed with out-of-play markers and a path marker joining its neighboring gates. One player's starting pieces sit in systems A, B, and C. Side panels show the Court row, the action deck and hands, the ambition boxes, and the three ambition markers.</desc>
+  <rect width="480" height="320" fill="#F6EFE3"/>
+  <g font-family="system-ui, sans-serif" font-size="12" fill="#2B1E16">
+    <rect x="8" y="8" width="288" height="304" rx="12" fill="#2F5D50" fill-opacity="0.08" stroke="#B9AD9C" stroke-width="1.5"/>
+    <text x="20" y="27" font-size="13" font-weight="700">The Reach: six clusters</text>
+    <text x="20" y="42" font-size="12" fill="#2F5D50">Simplified: follow your printed map</text>
+    <g stroke="#B9AD9C" stroke-width="3" stroke-linecap="round">
+      <line x1="150" y1="112" x2="192" y2="136"/>
+      <line x1="192" y1="136" x2="192" y2="184"/>
+      <line x1="192" y1="184" x2="150" y2="208"/>
+      <line x1="108" y1="136" x2="150" y2="112"/>
+    </g>
+    <line x1="150" y1="208" x2="108" y2="136" stroke="#E0A23B" stroke-width="4" stroke-linecap="round" stroke-dasharray="6 4"/>
+    <line x1="150" y1="112" x2="113" y2="67" stroke="#B9AD9C" stroke-width="1.5"/>
+    <line x1="150" y1="112" x2="150" y2="60" stroke="#B9AD9C" stroke-width="1.5"/>
+    <line x1="150" y1="112" x2="187" y2="67" stroke="#B9AD9C" stroke-width="1.5"/>
+    <circle cx="113" cy="67" r="12" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/>
+    <circle cx="150" cy="60" r="12" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/>
+    <circle cx="187" cy="67" r="12" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/>
+    <rect x="142" y="104" width="16" height="16" transform="rotate(45 150 112)" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+    <text x="150" y="116" text-anchor="middle" font-size="12" font-weight="700" fill="#F6EFE3">1</text>
+    <line x1="192" y1="136" x2="212" y2="81" stroke="#B9AD9C" stroke-width="1.5"/>
+    <line x1="192" y1="136" x2="237" y2="110" stroke="#B9AD9C" stroke-width="1.5"/>
+    <line x1="192" y1="136" x2="249" y2="146" stroke="#B9AD9C" stroke-width="1.5"/>
+    <circle cx="212" cy="81" r="12" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/>
+    <circle cx="237" cy="110" r="12" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/>
+    <circle cx="249" cy="146" r="12" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/>
+    <rect x="184" y="128" width="16" height="16" transform="rotate(45 192 136)" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+    <text x="192" y="140" text-anchor="middle" font-size="12" font-weight="700" fill="#F6EFE3">2</text>
+    <line x1="192" y1="184" x2="249" y2="174" stroke="#B9AD9C" stroke-width="1.5"/>
+    <line x1="192" y1="184" x2="237" y2="210" stroke="#B9AD9C" stroke-width="1.5"/>
+    <line x1="192" y1="184" x2="212" y2="239" stroke="#B9AD9C" stroke-width="1.5"/>
+    <circle cx="249" cy="174" r="12" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/>
+    <circle cx="237" cy="210" r="12" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/>
+    <circle cx="212" cy="239" r="12" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/>
+    <rect x="184" y="176" width="16" height="16" transform="rotate(45 192 184)" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+    <text x="192" y="188" text-anchor="middle" font-size="12" font-weight="700" fill="#F6EFE3">3</text>
+    <line x1="150" y1="208" x2="187" y2="253" stroke="#B9AD9C" stroke-width="1.5"/>
+    <line x1="150" y1="208" x2="150" y2="260" stroke="#B9AD9C" stroke-width="1.5"/>
+    <line x1="150" y1="208" x2="113" y2="253" stroke="#B9AD9C" stroke-width="1.5"/>
+    <circle cx="187" cy="253" r="12" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/>
+    <circle cx="150" cy="260" r="12" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/>
+    <circle cx="113" cy="253" r="12" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/>
+    <rect x="142" y="200" width="16" height="16" transform="rotate(45 150 208)" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+    <text x="150" y="212" text-anchor="middle" font-size="12" font-weight="700" fill="#F6EFE3">4</text>
+    <line x1="108" y1="184" x2="88" y2="239" stroke="#B9AD9C" stroke-width="1.5"/>
+    <line x1="108" y1="184" x2="63" y2="210" stroke="#B9AD9C" stroke-width="1.5"/>
+    <line x1="108" y1="184" x2="51" y2="174" stroke="#B9AD9C" stroke-width="1.5"/>
+    <circle cx="88" cy="239" r="12" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <path d="M82 233 L94 245 M94 233 L82 245" stroke="#2B1E16" stroke-width="1.5"/>
+    <circle cx="63" cy="210" r="12" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <path d="M57 204 L69 216 M69 204 L57 216" stroke="#2B1E16" stroke-width="1.5"/>
+    <circle cx="51" cy="174" r="12" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <path d="M45 168 L57 180 M57 168 L45 180" stroke="#2B1E16" stroke-width="1.5"/>
+    <rect x="100" y="176" width="16" height="16" transform="rotate(45 108 184)" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <line x1="108" y1="136" x2="51" y2="146" stroke="#B9AD9C" stroke-width="1.5"/>
+    <line x1="108" y1="136" x2="63" y2="110" stroke="#B9AD9C" stroke-width="1.5"/>
+    <line x1="108" y1="136" x2="88" y2="81" stroke="#B9AD9C" stroke-width="1.5"/>
+    <circle cx="51" cy="146" r="12" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/>
+    <circle cx="63" cy="110" r="12" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/>
+    <circle cx="88" cy="81" r="12" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/>
+    <rect x="100" y="128" width="16" height="16" transform="rotate(45 108 136)" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+    <text x="108" y="140" text-anchor="middle" font-size="12" font-weight="700" fill="#F6EFE3">6</text>
+    <circle cx="150" cy="160" r="22" fill="none" stroke="#B9AD9C" stroke-dasharray="3 3"/>
+    <rect x="207" y="76" width="10" height="10" rx="5" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+    <path d="M203 101 L207 111 L199 111 Z" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+    <path d="M196 96 L200 106 L192 106 Z" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+    <path d="M188 90 L192 100 L184 100 Z" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+    <text x="228" y="71" font-size="12" font-weight="700">A</text>
+    <rect x="244" y="141" width="10" height="10" rx="1" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+    <path d="M225 153 L229 163 L221 163 Z" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+    <path d="M223 144 L227 154 L219 154 Z" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+    <path d="M222 135 L226 145 L218 145 Z" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+    <text x="265" y="136" font-size="12" font-weight="700">B</text>
+    <path d="M178 196 L182 206 L174 206 Z" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+    <path d="M187 196 L191 206 L183 206 Z" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+    <text x="162" y="206" font-size="12" font-weight="700">C</text>
+    <rect x="20" y="279" width="10" height="10" rx="5" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/><text x="35" y="288">city</text>
+    <rect x="74" y="279" width="10" height="10" rx="1" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/><text x="89" y="288">starport</text>
+    <path d="M160 279 L164 289 L156 289 Z" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/><text x="170" y="288">ship</text>
+    <circle cx="25" cy="301" r="6" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/><text x="35" y="305">out of play</text>
+    <line x1="110" y1="301" x2="132" y2="301" stroke="#E0A23B" stroke-width="4" stroke-dasharray="6 4"/><text x="138" y="305">path marker joins gates</text>
+    <rect x="306" y="8" width="166" height="304" rx="12" fill="none" stroke="#B9AD9C" stroke-width="1.5"/>
+    <text x="318" y="27" font-size="13" font-weight="700">Off the map</text>
+    <text x="318" y="48" font-weight="700">Court row</text>
+    <rect x="318" y="54" width="30" height="40" rx="4" fill="#F6EFE3" stroke="#2F5D50" stroke-width="1.5"/>
+    <rect x="355" y="54" width="30" height="40" rx="4" fill="#F6EFE3" stroke="#2F5D50" stroke-width="1.5"/>
+    <rect x="392" y="54" width="30" height="40" rx="4" fill="#F6EFE3" stroke="#2F5D50" stroke-width="1.5"/>
+    <rect x="429" y="54" width="30" height="40" rx="4" fill="#F6EFE3" stroke="#2F5D50" stroke-width="1.5"/>
+    <text x="318" y="110" fill="#2F5D50">4 cards (3 with 2 players)</text>
+    <text x="318" y="132" font-weight="700">Action deck</text>
+    <rect x="318" y="138" width="26" height="36" rx="3" fill="#2F5D50" stroke="#2B1E16" stroke-width="0.8"/>
+    <rect x="321" y="136" width="26" height="36" rx="3" fill="#2F5D50" stroke="#2B1E16" stroke-width="0.8"/>
+    <rect x="324" y="134" width="26" height="36" rx="3" fill="#2F5D50" stroke="#2B1E16" stroke-width="0.8"/>
+    <text x="356" y="152">6 cards to</text>
+    <text x="356" y="167">each player</text>
+    <text x="318" y="196" font-weight="700">Ambition boxes</text>
+    <rect x="318" y="204" width="12" height="12" rx="2" fill="none" stroke="#2B1E16" stroke-width="1"/><text x="336" y="214">Tycoon</text>
+    <rect x="318" y="220" width="12" height="12" rx="2" fill="none" stroke="#2B1E16" stroke-width="1"/><text x="336" y="230">Tyrant</text>
+    <rect x="318" y="236" width="12" height="12" rx="2" fill="none" stroke="#2B1E16" stroke-width="1"/><text x="336" y="246">Warlord</text>
+    <rect x="318" y="252" width="12" height="12" rx="2" fill="none" stroke="#2B1E16" stroke-width="1"/><text x="336" y="262">Keeper</text>
+    <rect x="318" y="268" width="12" height="12" rx="2" fill="none" stroke="#2B1E16" stroke-width="1"/><text x="336" y="278">Empath</text>
+    <text x="406" y="214" font-size="12">Markers</text>
+    <circle cx="418" cy="230" r="8" fill="#2F5D50" stroke="#2B1E16" stroke-width="0.8"/>
+    <circle cx="418" cy="250" r="8" fill="#2F5D50" stroke="#2B1E16" stroke-width="0.8"/>
+    <circle cx="418" cy="270" r="8" fill="#2F5D50" stroke="#2B1E16" stroke-width="0.8"/>
+    <text x="430" y="234" font-size="12">blue</text>
+    <text x="430" y="249" font-size="12">side</text>
+    <text x="430" y="264" font-size="12">up</text>
+    <text x="318" y="300" fill="#2F5D50">Power on 0, chapter on 1</text>
+  </g>
+</svg>

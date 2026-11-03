@@ -1,0 +1,103 @@
+title: "Ten Points to the Throne"
+game: "Twilight Imperium: Fourth Edition"
+format: masterclass
+order: 395
+wave: "6"
+draft: false
+publisher: "Fantasy Flight Games"
+notice: "Unofficial. Not affiliated with or endorsed by Fantasy Flight Games or Asmodee. Twilight Imperium is a trademark of Fantasy Flight Games."
+rulesEdition: "Living Rules Reference version 2.0 (September 22, 2020, base game and Prophecy of Kings) and the Learn to Play booklet (Fantasy Flight Games)"
+rulesSource: "https://cdn.svc.asmodee.net/production-fantasyflightgames/uploads/2026/08/ti10_pok_living_rules_reference_20_web.pdf"
+players: "3 to 6 (3 to 8 with Prophecy of Kings)"
+playTime: "4 to 6 hours, longer while learning"
+ages: "Ages 14 and up"
+promise: "Learn and teach Twilight Imperium, finish your first game in one sitting, then master the strategy cards, objectives, factions, combat, map drafts, and politics."
+description: "A free Twilight Imperium course: learn and teach the rules, finish in one sitting, master strategy cards, objectives, factions, and combat, then draft a map."
+audience:
+  - "Groups planning a first game who want the rules right and the clock under control."
+  - "Hosts who teach Twilight Imperium and want the whole table playing by round two."
+  - "Players who keep finishing at 7 points and want to know where the last 3 went."
+  - "Veterans ready for Prophecy of Kings, map drafts, and competitive play."
+levels:
+  - level: 0
+    name: "Stargazer"
+    label: "Learn to play"
+    outcome: "Set up, teach, and run a full round of Twilight Imperium with the four phases and the tactical action right."
+  - level: 1
+    name: "Colonist"
+    label: "Beginner"
+    outcome: "Avoid the rules slips that cost first games an hour, and plan a game day that finishes in one sitting."
+  - level: 2
+    name: "Envoy"
+    label: "Intermediate"
+    outcome: "Pick strategy cards for a reason and plan a route to 10 victory points from the objectives on the table."
+  - level: 3
+    name: "Admiral"
+    label: "Advanced"
+    outcome: "Play any of the 24 factions with a plan, and fight with known odds, space cannon and anti-fighter barrage included."
+  - level: 4
+    name: "Contender"
+    label: "Tournament ready"
+    outcome: "Choose the right expansions for your group, and draft a fair galaxy with slices instead of dealing tiles at random."
+  - level: 5
+    name: "Emperor"
+    label: "The championship path"
+    outcome: "Win the agenda phase with influence and deals, and follow a practice plan into tournament and online play."
+afterLesson3: "Teach a first game and play it without the movement, scoring, and command token slips that trip up most new tables."
+afterLesson8: "Pick strategy cards with purpose, plan a route to 10 points, play any faction with a plan, and fight with known odds."
+faq:
+  - q: "How long does a game of Twilight Imperium take?"
+    a: "Fantasy Flight lists 4 to 6 hours. First games with new players usually run longer, because every rule is new. Prepare the map and factions before game day and teach in advance, and a group can usually finish in one long sitting."
+  - q: "How do you win Twilight Imperium?"
+    a: "The first player to reach 10 victory points wins immediately. Most points come from public and secret objectives, scored mostly in the status phase. The game also ends if a public objective must be revealed and none are left; then the player with the most points wins."
+  - q: "How many players does Twilight Imperium need?"
+    a: "The base game plays 3 to 6, and the Prophecy of Kings expansion adds pieces for 7 and 8. With 3 or 4 players, each player takes two strategy cards each round. Six players fill the standard map."
+  - q: "What is the custodians token in Twilight Imperium?"
+    a: "It starts on Mecatol Rex, the planet at the center. To remove it, spend 6 influence and land at least 1 ground force there. You gain 1 victory point, and the agenda phase joins every round from then on, including that one."
+  - q: "Which Twilight Imperium factions are best for beginners?"
+    a: "Factions with simple, always-on abilities teach the game without extra rules: the Federation of Sol, the Barony of Letnev, Sardakk N'orr, the Emirates of Hacan, and the Xxcha Kingdom are common picks. Save the Nekro Virus and the Ghosts of Creuss for later games."
+teachSheet:
+  goal: "Be the first to 10 victory points, mostly by scoring public and secret objectives."
+  setup:
+    - "Pick a random speaker. Each player takes a faction, a color, and its components."
+    - "Build the galaxy: Mecatol Rex in the center, home systems in the third ring."
+    - "Put the custodians token on Mecatol Rex. Shuffle all the common decks."
+    - "Place the eight strategy cards near the speaker. Set out starting units and technologies."
+    - "Command tokens: 3 in your tactic pool, 3 in your fleet pool, 2 in your strategy pool."
+    - "Each player draws 2 secret objectives and keeps 1."
+    - "Deal 5 stage I and 5 stage II objectives face down. Reveal 2 stage I."
+  turn:
+    - "Strategy phase: from the speaker, clockwise, take a strategy card. With 3 or 4 players, take two."
+    - "Action phase: in initiative order, take one action per turn until everyone passes."
+    - "Strategic action: use your card's primary. Others may pay a strategy token for its secondary."
+    - "Tactical action: put a tactic token in a system, move ships in, fight, invade, produce."
+    - "Component action: use an Action ability on a card or your faction sheet."
+    - "You cannot pass until you have used your strategy card, or both cards at 3 or 4."
+    - "Status phase: score, reveal an objective, draw an action card, reclaim tokens, gain 2."
+    - "Agenda phase, once the custodians are gone: vote on two agendas with planet influence."
+  scoring:
+    - "Stage I public objectives score 1 point. Stage II score 2."
+    - "Secret objectives score 1 point. Hold at most 3, scored and unscored."
+    - "Each status phase: at most one public and one secret objective."
+    - "To score public objectives, you must control every planet in your home system."
+    - "Removing the custodians token from Mecatol Rex scores 1 point."
+    - "Imperial strategy card: score a public objective, plus 1 point if you control Mecatol Rex."
+  endGame: "The game ends the moment a player reaches 10 points. It also ends if the speaker must reveal a public objective and none are left: most points wins, ties broken by initiative order."
+  tips:
+    - "Read the revealed objectives aloud every status phase. They are the real scoreboard."
+    - "Spend command tokens like time: every tactical action costs one, and they come back slowly."
+    - "Teach combat at the first battle, not before. The first round has enough to learn."
+diagramAlt: "An abstract six-player Twilight Imperium setup. On the left, a hex galaxy of three rings around Mecatol Rex, which holds the custodians token. Six home systems sit at the corners of the third ring, with blue planet systems and red anomaly or empty systems between them. On the right, a panel shows the victory point track to 10, five stage I objectives with two revealed, five stage II objectives face down, the eight strategy cards beside the speaker, the shared decks, and each player's command sheet with 3 tactic, 3 fleet, and 2 strategy tokens plus one secret objective."
+games: [twilight-imperium-4]
+related:
+  - "board-game-weight-explained"
+  - "board-game-play-time-accuracy"
+  - "how-long-should-game-night-last"
+  - "negotiation-board-games"
+  - "kingmaking-board-games"
+  - "area-control-board-games"
+  - "area-majority-vs-area-control"
+  - "analysis-paralysis-board-games"
+  - "how-to-teach-a-board-game"
+  - "expansions-worth-it"
+  - "take-that-games"

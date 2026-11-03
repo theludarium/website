@@ -1,0 +1,98 @@
+title: "Five Factions, One Factory"
+game: "Scythe"
+format: masterclass
+order: 305
+wave: "6"
+draft: false
+publisher: "Stonemaier Games"
+notice: "Unofficial. Not affiliated with Stonemaier Games. This is not an official Stonemaier product. Scythe is a trademark of Stonemaier LLC."
+rulesEdition: "Scythe rulebook, 15th printing (ScytheRules_15th_r24, 2022), with the Automa rules and the official FAQ and errata page, November 2026"
+rulesSource: "https://stonemaiergames.com/games/scythe/rules/"
+players: "1 to 5"
+playTime: "90 to 115 minutes"
+ages: "Ages 14 and up"
+promise: "Learn Scythe and teach it in one sitting, play every base faction and player mat with a plan, then master combat, the six stars, endgame timing, and tournament setup."
+description: "A free Scythe course: learn and teach the rules, play all five factions and player mats, master combat, stars, and scoring, then auctions and tournaments."
+audience:
+  - "New players who want setup, turns, and the six stars clear before the first game."
+  - "Hosts who teach Scythe and want the table playing two actions a turn by round three."
+  - "Players who keep finishing a few stars behind and want to know where the turns went."
+  - "Groups ready for expansions, the Automa, faction auctions, or a tournament."
+levels:
+  - level: 0
+    name: "Farmhand"
+    label: "Learn to play"
+    outcome: "Set up, teach, and finish a game of Scythe with the turn, the actions, and the six stars right."
+  - level: 1
+    name: "Harvester"
+    label: "Beginner"
+    outcome: "Play a clean game with no rules slips and a first-game plan that takes two actions on most turns."
+  - level: 2
+    name: "Engineer"
+    label: "Intermediate"
+    outcome: "Play all five base factions with a plan, and read any player mat for its strengths, its costs, and its coins."
+  - level: 3
+    name: "Commander"
+    label: "Advanced"
+    outcome: "Pick fights you can win, deter the ones you cannot, and time the game end with the scoring math in your head."
+  - level: 4
+    name: "Contender"
+    label: "Tournament ready"
+    outcome: "Choose the right player count, expansions, and solo mode, and bid sensibly in a faction and mat auction."
+  - level: 5
+    name: "Champion"
+    label: "The championship path"
+    outcome: "Find a Scythe tournament or online event, and follow a six-week practice plan into your first one."
+afterLesson3: "Teach a first game and play it without the rules slips that trip up most new tables."
+afterLesson8: "Play all five base factions with a plan, choose your fights with the power math, and time the end of the game."
+faq:
+  - q: "How do you win Scythe?"
+    a: "The player with the most coins at the end wins. The game ends the moment any player places their sixth star. Then everyone adds coins for stars, territories, and resources, at a rate set by their popularity, plus the structure bonus."
+  - q: "Which Scythe faction and player mat combinations are banned?"
+    a: "Stonemaier bans Rusviet with the Industrial mat and Crimea with the Patriotic mat, because experienced players can finish too quickly with them. If you draw one at setup, return the player mat and take another. Brand-new players in their first game are exempt."
+  - q: "How many stars do you need to end Scythe?"
+    a: "Six. Each player has six star tokens, and the game ends immediately when anyone places their sixth. Stars come from goals on the Triumph Track, such as all six upgrades, all four mechs, 16 power, 18 popularity, or a combat win."
+  - q: "Can you play Scythe solo?"
+    a: "Yes. The base game includes the Automa, a deck-driven solo opponent with four difficulty cards. Stonemaier recommends the easiest card, Autometta, until you have beaten it once."
+  - q: "Is there a lot of combat in Scythe?"
+    a: "Less than the mechs suggest. Combat only happens when a character or mech moves into a territory with an enemy character or mech. Each player can earn at most two stars from combat wins (Saxony has no cap), and fights cost power and often popularity, so most games have only a few."
+teachSheet:
+  goal: "Have the most coins when someone places their sixth star. Popularity sets what your stars, land, and resources pay."
+  setup:
+    - "Encounter tokens on the 11 encounter territories. Shuffle the combat, encounter, and objective decks."
+    - "Deal Factory cards face down, one more than the players. Draw one structure bonus tile."
+    - "Deal each player a faction mat and a player mat at random. Redraw Rusviet/Industrial or Crimea/Patriotic."
+    - "Faction mat: set power, draw combat cards, mechs on their spaces, six stars ready."
+    - "Player mat: set popularity and coins, draw 2 objectives, place cubes, workers, structures, recruits."
+    - "Character on the home base, one worker on each land territory next to it."
+    - "Lowest player mat number goes first. Play runs clockwise."
+  turn:
+    - "Move your action token to a different section of your player mat than last turn."
+    - "Take its top action, its bottom action, or both, top first. Pay the red cost, gain the green."
+    - "Move: two units one territory each, or gain $1. Bolster: $1 for 2 power or a combat card."
+    - "Trade: $1 for 2 resources or 1 popularity. Produce: workers on 2 territories make resources."
+    - "Bottom row: Upgrade (oil), Deploy a mech (metal), Build (wood), Enlist (food). Take the coins shown."
+    - "Combat: char or mech meets an enemy char or mech. Dial up to 7 power, add cards. Ties go to the attacker."
+    - "Encounter: a character entering an encounter token stops, then picks one of three options."
+  scoring:
+    - "Final coins: coins in hand, plus the three payouts below at your popularity tier."
+    - "Popularity 0 to 6: $3 a star, $2 a territory, $1 per 2 resources."
+    - "Popularity 7 to 12: $4 a star, $3 a territory, $2 per 2 resources."
+    - "Popularity 13 to 18: $5 a star, $4 a territory, $3 per 2 resources."
+    - "The Factory counts as three territories. Add the structure bonus tile's coins."
+  endGame: "The game ends the moment any player places their sixth star. Nobody takes another turn; everyone scores."
+  tips:
+    - "Try to take a top and a bottom action every turn. Bottom actions pay coins and build your stars."
+    - "Keep popularity at 7 or more by the end. Falling below it cuts every payout."
+    - "Count everyone's stars. When someone has five, the next turn could be the last."
+diagramAlt: "An abstract Scythe board at setup for five players. The Factory sits in the center of a hex map, with home bases around the edge in seating order: Nordic at the top, Rusviet at the right, Crimea at the lower right, Saxony at the bottom, and Polania at the left. Each home base has a character and two workers on the neighboring land territories. Encounter tokens dot the map. A side panel shows the decks (combat, encounter, objective, and Factory cards), the structure bonus tile, the tracks, and one player's faction mat and player mat."
+games: [scythe]
+related:
+  - "area-majority-vs-area-control"
+  - "area-control-board-games"
+  - "euro-games-vs-ameritrash"
+  - "best-solo-board-games"
+  - "analysis-paralysis-board-games"
+  - "board-game-weight-explained"
+  - "how-to-teach-a-board-game"
+  - "expansions-worth-it"

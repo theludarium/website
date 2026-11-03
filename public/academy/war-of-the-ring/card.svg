@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="t">
+<title id="t">An original illustration of a war game table: a wide map with a mountain range, a river and forests, small armies in green and dark red facing each other, a glowing volcano in a dark land to the east, a dotted path winding toward it, and a scatter of action dice at the edge of the table</title>
+<defs>
+<radialGradient id="felt" cx="50%" cy="45%" r="75%"><stop offset="0" stop-color="#3a6e60"/><stop offset="1" stop-color="#2a5246"/></radialGradient>
+<radialGradient id="glow" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#f3c46a" stop-opacity=".95"/><stop offset=".45" stop-color="#e0a23b" stop-opacity=".55"/><stop offset="1" stop-color="#e0a23b" stop-opacity="0"/></radialGradient>
+<clipPath id="board"><rect x="70" y="36" width="500" height="288" rx="26"/></clipPath>
+</defs>
+<rect width="640" height="360" fill="url(#felt)"/>
+<g clip-path="url(#board)">
+<rect x="70" y="36" width="500" height="288" fill="#d9caa6"/>
+<path d="M60,300 C120,280 150,250 210,262 C260,272 300,320 340,340 L60,340 Z" fill="#c4b58f"/>
+<path d="M400,36 L580,36 L580,330 L420,330 C430,280 400,240 418,190 C432,150 392,110 400,36 Z" fill="#4a3528"/>
+<path d="M418,110 L440,92 L466,104 L498,88 L540,100 L560,96" fill="none" stroke="#2b1e16" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M430,250 L470,262 L510,248 L560,258" fill="none" stroke="#2b1e16" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="500" cy="178" r="70" fill="url(#glow)"/>
+<path d="M472,200 L492,160 L500,156 L508,160 L528,200 Z" fill="#2b1e16"/>
+<path d="M494,160 L500,146 L506,160 Z" fill="#e0a23b"/>
+<path d="M60,150 C120,140 150,180 200,176 C250,172 270,210 300,240 C320,262 330,300 330,340" fill="none" stroke="#5f93a3" stroke-width="9" opacity=".9"/>
+<path d="M212,48 L222,70 L214,92 L226,116 L218,140 L230,160" fill="none" stroke="#7a6a58" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M212,48 L222,70 L214,92 L226,116 L218,140 L230,160" fill="none" stroke="#f6efe3" stroke-width="2" stroke-dasharray="3 7" opacity=".7"/>
+</g>
+<g fill="#6e8f5c">
+<circle cx="130" cy="96" r="14"/><circle cx="146" cy="88" r="11"/><circle cx="300" cy="118" r="16"/><circle cx="318" cy="128" r="12"/><circle cx="350" cy="74" r="13"/><circle cx="366" cy="82" r="10"/>
+</g>
+<path d="M176,80 C220,96 250,150 280,170 C320,196 360,190 392,186 C420,182 444,186 468,190" fill="none" stroke="#f6efe3" stroke-width="2.5" stroke-dasharray="2 7" stroke-linecap="round"/>
+<circle cx="176" cy="80" r="9" fill="#f6efe3" stroke="#2b1e16" stroke-width="1.4"/>
+<circle cx="176" cy="80" r="4" fill="#e0a23b"/>
+<g stroke="#2b1e16" stroke-width="1.2">
+<rect x="112" y="200" width="13" height="13" rx="2.5" fill="#2f5d50"/><rect x="128" y="204" width="13" height="13" rx="2.5" fill="#2f5d50"/><rect x="120" y="186" width="13" height="13" rx="2.5" fill="#3f7384"/>
+<rect x="262" y="236" width="13" height="13" rx="2.5" fill="#2f5d50"/><rect x="278" y="232" width="13" height="13" rx="2.5" fill="#2f5d50"/><rect x="270" y="250" width="13" height="13" rx="2.5" fill="#3f7384"/><rect x="286" y="248" width="13" height="13" rx="2.5" fill="#f6efe3"/>
+<rect x="330" y="232" width="13" height="13" rx="2.5" fill="#8c2f24"/><rect x="346" y="236" width="13" height="13" rx="2.5" fill="#8c2f24"/><rect x="338" y="250" width="13" height="13" rx="2.5" fill="#8c2f24"/><rect x="354" y="252" width="13" height="13" rx="2.5" fill="#8c2f24"/><rect x="362" y="236" width="13" height="13" rx="2.5" fill="#5a1f19"/>
+<rect x="250" y="140" width="13" height="13" rx="2.5" fill="#8c2f24"/><rect x="266" y="144" width="13" height="13" rx="2.5" fill="#8c2f24"/>
+<rect x="150" y="150" width="13" height="13" rx="2.5" fill="#b8902e"/><rect x="166" y="154" width="13" height="13" rx="2.5" fill="#b8902e"/>
+<rect x="410" y="140" width="13" height="13" rx="2.5" fill="#8c2f24"/><rect x="424" y="156" width="13" height="13" rx="2.5" fill="#8c2f24"/>
+</g>
+<path d="M300,70 l8,-10 l8,10 v12 h-16 z" fill="#f6efe3" stroke="#2b1e16" stroke-width="1.3"/>
+<rect x="70" y="36" width="500" height="288" rx="26" fill="none" stroke="#f6efe3" stroke-width="3"/>
+<g transform="translate(588 250) rotate(12)"><rect x="-14" y="-14" width="28" height="28" rx="6" fill="#8c2f24" stroke="#2b1e16" stroke-width="1.4"/><circle cx="0" cy="0" r="6" fill="none" stroke="#f6efe3" stroke-width="2"/><circle cx="0" cy="0" r="2" fill="#e0a23b"/></g>
+<g transform="translate(608 292) rotate(-8)"><rect x="-14" y="-14" width="28" height="28" rx="6" fill="#8c2f24" stroke="#2b1e16" stroke-width="1.4"/><path d="M-6,6 L0,-7 L6,6" fill="none" stroke="#f6efe3" stroke-width="2"/></g>
+<g transform="translate(34 110) rotate(-10)"><rect x="-14" y="-14" width="28" height="28" rx="6" fill="#3f7384" stroke="#2b1e16" stroke-width="1.4"/><path d="M-6,0 H6 M0,-6 V6" stroke="#f6efe3" stroke-width="2"/></g>
+<g transform="translate(40 156) rotate(14)"><rect x="-14" y="-14" width="28" height="28" rx="6" fill="#3f7384" stroke="#2b1e16" stroke-width="1.4"/><circle cx="0" cy="0" r="5" fill="#f6efe3"/></g>
+</svg>
