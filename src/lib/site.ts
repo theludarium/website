@@ -15,7 +15,7 @@ export const FOUNDER = {
   name: 'Levi JA Wilson',
   role: 'Founder',
   city: 'Indianapolis, Indiana',
-  email: 'lwilson@ludarium.com',
+  email: 'lwilson@theludarium.com',
   linkedin: 'https://www.linkedin.com/in/levijawilson/',
   photo: '/images/about/levi-wilson.webp',
 };

@@ -526,3 +526,7 @@ Levi's call: keep collecting emails, but stop sending automated emails to the pe
 - **A press page at `/press/`,** linked in the footer: quick facts (counts update each build), a paragraph journalists can use as is, the founder's bio, logo and photo downloads, interview topics, and a contact.
 - **"Link to this page" boxes** (`src/components/LinkSnippet.astro`) on teach sheets and the press page give people a ready-made HTML link. Teach sheet PDFs now say "Free to print and share."
 - **Guild register entries** each have a copy-link button, and the certificate maker builds a link for each listed guide to put on their own site.
+
+## 2026-11-03: Founder email is on theludarium.com
+
+- **The founder contact email is now `lwilson@theludarium.com`**, replacing `lwilson@ludarium.com` (2026-10-28). It shows on the About page and the press page, from `FOUNDER.email` in `src/lib/site.ts`. Levi's call.
