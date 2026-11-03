@@ -1,6 +1,6 @@
 ---
 title: "Magic Land Count and Mana Curve: Build a Deck That Works"
-description: "How many lands to play in Magic: The Gathering, how to build a mana curve, and how to split colors, for 40-card, 60-card, and 100-card Commander decks."
+description: "How many lands in a Magic deck: 17 in 40 cards, 24 in 60, and 36 to 38 in a 100-card Commander deck. Plus how to build a mana curve and split your colors."
 course: magic
 order: 6
 level: 1
@@ -13,7 +13,7 @@ nextTeaser: "Next, your first upgrades: how to buy single cards on a budget, and
 ---
 Every Magic player has lost a game holding a hand of great spells and two lands. Every player has also lost drawing land after land with nothing to cast. Both feel like bad luck. Some of it is. A lot of it is the deck.
 
-This lesson gives you starting points for how many lands to play and how to shape the rest of the deck around them. They are starting points, not laws. Strong players move them a land or two for good reasons. Start here, and move them when you have a reason too.
+The short answer: play 17 lands in a 40-card deck, 24 in a 60-card deck, and 36 to 38 in a 100-card Commander deck, alongside about 10 other cards that make mana. This lesson gives you those starting points for how many lands to play and how to shape the rest of the deck around them. They are starting points, not laws. Strong players move them a land or two for good reasons. Start here, and move them when you have a reason too.
 
 ## Starting land counts
 
@@ -65,6 +65,17 @@ In a two-color deck, split your basic lands by how many colored mana symbols eac
 Then look at the timing. A cheap card that needs two of the same color, like a 2-mana spell with two red symbols, wants more red sources than the plain count suggests. An expensive card can wait for its color. If your early plays are mostly one color, lean the split that way.
 
 A third color for one or two great cards is called a **splash**. Splash only for powerful cards that are not needed early, and only with a few extra ways to make that color, such as dual lands you drafted or opened. With basics alone, a splash makes many hands clunky.
+
+## Land count for Commander
+
+A 100-card Commander deck usually starts with 36 to 38 lands and about 10 pieces of ramp, like mana rocks and spells that fetch extra lands. If your average spell costs about 3 mana, 37 lands is a sound default. Then turn the dial:
+
+- **Add a land for every half point** of average mana value above 3. A deck full of 6- and 7-drops can want 38 to 40.
+- **Cut a land for every two or three cheap ramp pieces** above 10. Cheap means it costs 2 mana or less.
+- **Do not cut lands for expensive ramp.** A 4-mana spell that fetches lands helps you reach six mana, not four.
+- **Decks that reward lands entering** often run 40 or more, because the lands are the engine.
+
+Very few casual Commander decks want fewer than 34 lands. Our article on [Commander land count](/articles/commander-land-count/) has the full table, the odds at each count, and color splits.
 
 ## Commander's version of the curve
 

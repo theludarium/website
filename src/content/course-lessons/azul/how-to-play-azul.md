@@ -13,7 +13,7 @@ nextTeaser: "Next, the ten-minute teach. You will get a host script in the order
 ---
 If Azul just came out of its wrapping paper, you are holding one of the best-looking games on any shelf. The good news: the Azul rules are as tidy as the box. You can learn them tonight and play before the coffee gets cold.
 
-You are a tile artist decorating a palace wall in Portugal. Each round you take colored tiles from shared displays, line them up on your board, and move finished lines onto your wall. Tiles that touch other tiles score more. Tiles you take but cannot use fall on the floor and cost you points.
+You are a tile artist decorating a palace wall in Portugal. Each round you take colored tiles from shared displays, line them up on your board, and move finished lines onto your wall. Tiles that touch other tiles score more. Tiles you take but cannot use fall on the floor and cost you points. Azul plays 2 to 4 players.
 
 This lesson follows the current Next Move Games rulebook.
 

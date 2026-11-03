@@ -1,6 +1,6 @@
 ---
-title: "Carcassonne Player Counts, Variants, and Expansions"
-description: "Carcassonne at 2 to 5 players, the River and Abbot mini-expansions in the box, and which expansions to try first, from Inns & Cathedrals to the Big Box."
+title: "Carcassonne Player Count, Variants, and Expansions"
+description: "Carcassonne plays 2 to 5 players, 6 with Inns & Cathedrals, plus an official solo variant. What changes at each count, the River, the Abbot, and expansions."
 course: carcassonne
 order: 8
 level: 1
@@ -11,19 +11,23 @@ oneIdea: "Play the base game until your group knows it well, then add one thing 
 tryThis: "Play your next game with the River, and the one after with the Abbot. Note which one your group asks for again."
 nextTeaser: "Next, Level 2 begins with the midgame: merging into cities, blocking with awkward tiles, and reading what everyone else needs."
 ---
+Carcassonne plays 2 to 5 players out of the box. The Inns & Cathedrals expansion adds pieces for a sixth player, and Z-Man publishes an official solo variant that uses only the base game.
+
 [Carcassonne](https://link.amazon/B012Rr5ed) has more expansions than almost any game on the shelf. That is a gift and a trap. Add too much at once and the clean three-step turn disappears under special pieces. Add one thing at a time and the game can grow with your group for years.
 
 This lesson starts with what changes at different player counts, then the two small expansions already in the base box, then the expansion boxes worth knowing.
 
-## How does the game change by player count?
+## How many players
 
-The base game plays 2 to 5.
+| Players | How it plays |
+| --- | --- |
+| 1 | The official solo variant: you play three colors in turn, must place a meeple when you can, use no farmers, and score only your lowest color. |
+| 2 | The most strategic count. Many turns each, so long plans work, and blocking and joining matter most. |
+| 3 or 4 | The classic family game: a good mix of planning and surprise. |
+| 5 | The most chaotic. Fewer turns each, and the board changes a lot between them, so fast, small features gain value. |
+| 6 | Needs Inns & Cathedrals, which adds the sixth color. Fewer turns still. |
 
-- **Two players:** the most strategic count. You get many turns, so long plans work, and every point you take is a point your one opponent does not. Blocking and joining matter most here.
-- **Three or four:** the classic family game. A good mix of planning and surprise.
-- **Five:** the most chaotic. You take fewer turns each, the board changes a lot between them, and fast, small features gain value.
-
-If your group likes a calmer, puzzle-like game, two or three players suits it. If it likes table talk and swings, go to four or five.
+If your group likes a calmer, puzzle-like game, two or three players suits it. If it likes table talk and swings, go to four or five. The [solo rules](https://cdn.svc.asmodee.net/production-zman/uploads/2024/09/carc_solo_en.pdf) are on Z-Man's [Carcassonne page](https://www.zmangames.com/game/carcassonne/), alongside the rulebook and the supplemental rulesheet, and say they also work as a cooperative challenge.
 
 ## The River
 
@@ -47,12 +51,6 @@ The Abbot is the second mini-expansion, also in the base box. Each player takes 
 - At final scoring, the abbot scores like a monk.
 
 The Abbot adds a small, satisfying decision every few turns, without new rules for anything else. It is a good first step once the base game feels easy.
-
-## A solo variant
-
-Z-Man publishes solo rules for the current edition on its [Carcassonne page](https://www.zmangames.com/game/carcassonne/), alongside the rulebook and the supplemental rulesheet.
-
-<!-- VERIFY: read the solo rules PDF and add one or two lines on how solo play works, if worth including. -->
 
 ## The first expansion boxes
 

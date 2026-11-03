@@ -1,6 +1,6 @@
 ---
-title: "Root Advanced Setup: The Faction Draft"
-description: "Root Advanced Setup explained: the faction draft, militant and insurgent factions, the locked last card, five-card opening hands, and how to draft well."
+title: "Root Advanced Setup and Faction Reach: Drafting a Fair Mix"
+description: "Root reach: every faction's reach value and the total the Law asks for at 2 to 6 players, plus the Advanced Setup faction draft and how to draft a fair mix."
 course: root
 order: 16
 level: 4
@@ -11,9 +11,40 @@ oneIdea: "Advanced Setup turns faction choice into a draft. The last player pick
 tryThis: "Run one Advanced Setup draft at home this month, and before each pick say aloud which faction you expect the next player to take."
 nextTeaser: "Next, the maps: Winter, Lake, and Mountain, random clearing suits, and the landmarks that tournaments add to each one."
 ---
+Reach is the number the Law of Root gives each faction for how much of the map it can fight over. Add up the reach of every faction at the table: the Law recommends a total of at least 17 for two players, 18 for three, 21 for four, 25 for five, and 28 for six.
+
 Welcome to Level 4. Everything below this level assumed someone picked the factions. Competitive Root does not work that way. Tournaments, including the World Boardgaming Championships Root event, use the **Advanced Setup** in Appendix A of the Law, where players draft factions and set them up one at a time. It changes the game before the first turn.
 
 The draft uses the faction setup cards included in the Marauder and Homeland expansions.
+
+## Faction reach
+
+These values are from the October 2025 Law of Root, section 5.2.
+
+| Faction | Reach |
+| --- | --- |
+| Marquise de Cat | 10 |
+| Lord of the Hundreds | 9 |
+| Keepers in Iron | 8 |
+| Underground Duchy | 8 |
+| Lilypad Diaspora | 7 |
+| Eyrie Dynasties | 7 |
+| Vagabond (first) | 5 |
+| Riverfolk Company | 5 |
+| Knaves of the Deepwood | 4 |
+| Twilight Council | 4 |
+| Woodland Alliance | 3 |
+| Corvid Conspiracy | 3 |
+| Lizard Cult | 2 |
+| Vagabond (second) | 2 |
+
+| Players | 2 | 3 | 4 | 5 | 6 |
+| --- | --- | --- | --- | --- | --- |
+| Minimum total reach | 17 | 18 | 21 | 25 | 28 |
+
+**A worked example.** Marquise de Cat plus Eyrie Dynasties plus the Vagabond at three players is 10 + 7 + 5 = 22, which meets the minimum of 18. Swap the Eyrie for the Lizard Cult and the total drops to 17, one short.
+
+A second Vagabond adds only 2 to the total. The Law presents these minimums as the way to set up an interesting game, and says adventurous groups are welcome to try any mix with 17 or more at any count.
 
 ## The steps, in order
 

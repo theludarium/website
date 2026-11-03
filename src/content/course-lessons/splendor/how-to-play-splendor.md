@@ -11,7 +11,7 @@ oneIdea: "Every turn is one of four actions, and every card you buy makes the ne
 tryThis: "In your first game, say your action out loud before you take it: take three, take two, reserve, or buy. It keeps everyone honest and makes the rules stick."
 nextTeaser: "Next, the ten-minute teach. You will get a host script in the order you would say it, so the whole table learns at once."
 ---
-Splendor is a race. Everyone starts with nothing. You take gem pieces, spend them on development cards, and every card you buy makes the next one cheaper. Somewhere in the middle of the game, cards start costing almost nothing, nobles come calling, and someone crosses 15 prestige points.
+Splendor is a race. Everyone starts with nothing. You take gem pieces, spend them on development cards, and every card you buy makes the next one cheaper. Somewhere in the middle of the game, cards start costing almost nothing, nobles come calling, and someone crosses 15 prestige points. It plays 2 to 4 players.
 
 This lesson follows the current rulebook from Space Cowboys, the 10th anniversary edition. Older boxes have different art and call the pieces "tokens," but the turn works the same way.
 

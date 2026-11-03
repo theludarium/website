@@ -11,7 +11,7 @@ oneIdea: "Every turn is the same three steps: place a tile, maybe place a meeple
 tryThis: "Play your first game without farmers, as the rulebook suggests, and say the three steps out loud on every turn until nobody needs reminding."
 nextTeaser: "Next, the ten-minute teach. You will get a host script in the order you would say it, so the whole table learns at once."
 ---
-Carcassonne is a game about building a map together and arguing, politely, over who gets credit for it. Each turn you add one square tile to a growing landscape of roads, cities, monasteries, and fields. Then you decide whether to put one of your wooden followers, the meeples, on what you just placed. Finish a feature with your meeple on it and you score.
+Carcassonne is a game about building a map together and arguing, politely, over who gets credit for it. Each turn you add one square tile to a growing landscape of roads, cities, monasteries, and fields. Then you decide whether to put one of your wooden followers, the meeples, on what you just placed. Finish a feature with your meeple on it and you score. The base game plays 2 to 5 players.
 
 This lesson covers the Carcassonne rules in the current Z-Man Games edition. The rulebook splits them in two: the core rules, then a supplemental sheet for farmers and two small extras. We follow the same order.
 

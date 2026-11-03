@@ -1,6 +1,6 @@
 ---
-title: "Castles of Burgundy Player Counts, Variants, and Expansions"
-description: "The Castles of Burgundy at 1 to 4 players, random duchies for veterans, and every expansion in the current box, from the Inns and White Castles to Shields."
+title: "Castles of Burgundy Player Count, Variants, and Expansions"
+description: "The Castles of Burgundy plays 1 to 4: the base game seats 2 to 4, and the box adds a solo mode and a team game for four. How each count plays, plus expansions."
 course: castles-of-burgundy
 order: 12
 level: 2
@@ -11,17 +11,20 @@ oneIdea: "The current box is a small shelf of its own. Learn the base game on du
 tryThis: "Play your next game with random duchies, as the rulebook suggests for experienced players, and the one after that with the Inns."
 nextTeaser: "Level 3 opens with random duchies: how to read a board you have never seen, and how to choose its side and your starting castle."
 ---
-The current Ravensburger and alea edition of The Castles of Burgundy packs the base game and a whole set of expansions into one box. That is a gift and a trap. Add everything at once and the clean two-dice turn disappears under special rules. Add one module at a time and the game can stay fresh for years.
+The Castles of Burgundy plays 1 to 4 players in the current box. The base game is for 2 to 4, the Solo Game expansion inside adds a 1-player mode, and the Team Game lets four play as two pairs.
+
+The current Ravensburger and alea edition packs the base game and a whole set of expansions into one box. That is a gift and a trap. Add everything at once and the clean two-dice turn disappears under special rules. Add one module at a time and the game can stay fresh for years.
 
 This lesson starts with player counts, then the variant the rulebook suggests for experienced players, then each expansion in the box.
 
-## How does the game change by player count?
+## How many players
 
-The base game plays 2 to 4, and the solo expansion adds a 1-player mode.
-
-- **Four players:** the front of the board, with four tiles in each numbered depot. The most competition for each tile, and the longest wait between turns.
-- **Three players:** the back of the board, using the inner spaces plus the spaces marked 3. One quirk: the dark green space of depot 6 is refilled with a castle in phases A, C, and E, and with a mine in phases B and D.
-- **Two players:** the back of the board, using only the inner 12 hex spaces and 4 spaces of the black depot. Fewer tiles appear, so each one you take is one your opponent cannot.
+| Players | What changes |
+| --- | --- |
+| 1 | The Solo Game expansion: duchy 13a or 13b, 25 rounds against a points target. Covered below. |
+| 2 | The back of the board, using only the inner 12 hex spaces and 4 spaces of the black depot. Fewer tiles appear, so each one you take is one your opponent cannot. |
+| 3 | The back of the board, using the inner spaces plus the spaces marked 3. The dark green space of depot 6 gets a castle in phases A, C, and E, and a mine in phases B and D. |
+| 4 | The front of the board, with four tiles in each numbered depot. The most competition for each tile, and the longest wait between turns. Or play the Team Game, two against two. |
 
 Two numbers scale with the count. Each goods tile sold scores 2, 3, or 4 points with 2, 3, or 4 players. The large bonus tiles score 5, 6, or 7, and the small ones 2, 3, or 4.
 

@@ -11,7 +11,7 @@ oneIdea: "Every turn in Flip 7 asks one question: take another card, or stop and
 tryThis: "Deal one practice round with no scores kept, and have everyone say \"hit\" or \"stay\" out loud on every turn until the rhythm sticks."
 nextTeaser: "Next, the five-minute teach and how to run a first game: a host script, the action card questions to settle live, and the one bit of math worth sharing."
 ---
-Flip 7 is a card game about one question, asked over and over: one more card, or stop? Each round you flip cards into a row in front of you and add them up. Flip a number you already have and you bust, losing everything from that round. Flip seven different numbers and you end the round for everyone, with a bonus. Eric Olsen designed it, and The Op [released it at Gen Con 2024](https://theop.games/blogs/theop/flip7-how-did-we-get-here) in Indianapolis. It was nominated for the 2025 Spiel des Jahres.
+Flip 7 is a card game about one question, asked over and over: one more card, or stop? Each round you flip cards into a row in front of you and add them up. Flip a number you already have and you bust, losing everything from that round. Flip seven different numbers and you end the round for everyone, with a bonus. Eric Olsen designed it, and The Op [released it at Gen Con 2024](https://theop.games/blogs/theop/flip7-how-did-we-get-here) in Indianapolis. It was nominated for the 2025 Spiel des Jahres. It is for 3 or more players, with an official solo challenge for fewer.
 
 This lesson walks the [Flip 7 teach sheet](/academy/flip-7/teach-sheet/) in order. It follows the publisher's current rulebook, Ruleset Edition 3.1, and its official FAQ.
 

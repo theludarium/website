@@ -1,6 +1,6 @@
 ---
-title: "Root at Two and Three Players: Faction Mixes That Work"
-description: "Root at two and three players: the faction mixes the guide recommends, what the reach numbers say about balance, the two-game duel, and how play changes."
+title: "Root Player Count: 3 Players, 2 Players, and Faction Mixes"
+description: "Root plays 2 to 4 players, or up to 6 with Riverfolk. The best faction mixes for 3 and 2 players, the reach check, the two-game duel, and what changes."
 course: root
 order: 11
 level: 2
@@ -11,7 +11,18 @@ oneIdea: "Root changes shape with fewer players. Pick a mix where every faction 
 tryThis: "Next time you have two or three players, add up the reach of your planned mix before you set up. If it falls short of the Law's total, swap one faction."
 nextTeaser: "Level 3 starts with dominance cards: when to trade your score for a new goal, and how to stop someone else's."
 ---
-Root plays best with four, and many groups learn it that way. But a lot of game nights have two or three people, and Root still works there if you choose the mix with care. The Learning to Play guide gives recommended mixes, and the Law gives a number to check them against.
+The Root base game plays 2 to 4 players. The Riverfolk Expansion raises that to 6 and adds bots for solo and cooperative play. At 3 players, the guide's default is Marquise, Eyrie, and Alliance; at 2, it is Marquise against Eyrie.
+
+Many groups learn Root with four. But a lot of game nights have two or three people, and Root still works there if you choose the mix with care. The Learning to Play guide gives recommended mixes, and the Law gives a number to check them against.
+
+## How many players
+
+| Players | What changes |
+| --- | --- |
+| 2 | Remove the four dominance cards. The guide suggests two games, swapping factions. Total reach 17+. |
+| 3 | The guide drops the Vagabond by default. No Vagabond coalitions. Total reach 18+. |
+| 4 | The full base game, all four factions. Coalitions possible. Total reach 21+. |
+| 5 to 6 | Needs expansion factions, such as those in the Riverfolk Expansion. Total reach 25+ at 5, 28+ at 6. |
 
 ## The reach check
 

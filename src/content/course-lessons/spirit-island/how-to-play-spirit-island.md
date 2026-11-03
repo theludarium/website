@@ -11,7 +11,7 @@ oneIdea: "Spirit Island is a race between two engines. The Invaders grow on a sc
 tryThis: "Before your first game, set up a one-board Island and run two Invader Phases alone, saying out loud which lands Ravage, Build, and Explore each time."
 nextTeaser: "Next, how to teach Spirit Island: a host script in the order you say it, so a whole table learns a heavy co-op in one sitting."
 ---
-Spirit Island turns the usual colonization game around. You are not the settlers. You are the spirits of an island where settlers, the Invaders, have just landed. With the Dahan, the people who already live there, you grow in power and drive the Invaders off before they ruin the land. The whole table wins or loses together.
+Spirit Island turns the usual colonization game around. You are not the settlers. You are the spirits of an island where settlers, the Invaders, have just landed. With the Dahan, the people who already live there, you grow in power and drive the Invaders off before they ruin the land. It plays 1 to 4, and the whole table wins or loses together.
 
 This lesson follows the current core rulebook (version 23.08) and doubles as your teaching script. The [teach sheet](/academy/spirit-island/teach-sheet/) puts the whole game on one printed page.
 

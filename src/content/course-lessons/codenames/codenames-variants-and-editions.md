@@ -1,6 +1,6 @@
 ---
-title: "Codenames Player Counts, Variants, and Editions"
-description: "Codenames for two to a crowd: team sizes, Duet for two players, Pictures, XXL, the 2026 expansion packs, themed editions, and house rules worth agreeing on."
+title: "Codenames Player Count, Variants, and Editions"
+description: "Codenames plays 4 to 8 or more players in two teams, and Duet covers two. How each count plays, plus Pictures, XXL, the 2026 packs, and themed editions."
 course: codenames
 order: 6
 level: 1
@@ -11,19 +11,25 @@ oneIdea: "There is a Codenames for almost every table. Match the version to the 
 tryThis: "Before your next game, pick one house rule from this lesson, agree on it out loud, and play three games with it. Keep it only if everyone wants it back."
 nextTeaser: "Level 2 begins with the spymaster's toolbox: the kinds of links a clue can use, and which ones your team will read the way you meant."
 ---
+Codenames plays 4 to 8 or more players, split into two teams, each with a spymaster and at least one operative. For two players, Czech Games Edition's answer is Codenames: Duet, a cooperative version built for two that also takes more.
+
 Codenames has grown into a family of games. Some are new ways to play, some are the same game in a new box, and some are expansion packs for the one you already own. This lesson sorts them out, starting with the base game at different player counts.
 
-## How does the base game change by player count?
+## How many players does Codenames need?
 
-The base game is for 4 to 8 or more players: two teams, each with a spymaster and at least one operative.
+| Players | How it plays |
+| --- | --- |
+| 2 | Play Codenames: Duet. Partners share one key and work together. |
+| 3 | No mode in the current rulebook. Duet works, since the publisher says it plays with more than two. |
+| 4 | One spymaster and one operative per team. A lone operative may think out loud, which the rulebook allows. Quick and personal. |
+| 5 to 8 | Two or three operatives a side: enough voices to catch a bad guess, few enough that quiet players still speak. |
+| 9 or more | It works, but debates get long. Two copies side by side often beat one huge game. |
 
-- **Four players:** one operative per team. A lone operative may think out loud, which the rulebook allows. The game is quick and very personal: one spymaster, one reader.
-- **Six to eight:** the sweet spot for many groups. Two or three operatives a side means enough voices to catch a bad guess, and not so many that quiet players disappear.
-- **More than eight:** it works, but debates get long and some players drift out. A second copy and two games side by side often beat one huge game. Our guide to [party games for large groups](/articles/party-games-for-large-groups/) has more options.
+Our guide to [party games for large groups](/articles/party-games-for-large-groups/) has more options for a crowd.
 
 Earlier printings of the rulebook included variants for two and three players: one team plays together against a team with no players, and the spymaster covers one enemy word on each of the absent team's turns. The current rulebook drops these and points two-player tables to Duet.
 
-<!-- VERIFY: the two and three player variants are absent from the 2025 rulebook PDF (checked). Confirm their wording in the earlier rulebook, and whether CGE hosts them on codenamesgame.com. -->
+<!-- VERIFY: the two and three player variants are absent from the 2025 rulebook PDF (checked). Confirm their wording in the earlier rulebook, and whether CGE hosts them on codenamesgame.com. Also confirm how Duet's rulebook seats three or more players. -->
 
 ## Codenames: Duet
 

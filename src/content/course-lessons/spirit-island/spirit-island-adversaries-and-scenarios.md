@@ -1,6 +1,6 @@
 ---
-title: "Spirit Island Adversaries and Scenarios"
-description: "Spirit Island adversaries and scenarios: Brandenburg-Prussia, England, and Sweden, how levels and Escalation work, the difficulty chart, and the expansions."
+title: "Spirit Island Adversaries and Scenarios, Ranked by Difficulty"
+description: "Spirit Island adversaries: all eight from the base game and expansions, their difficulty at levels 0 and 6, and how levels, Escalation, and scenarios work."
 course: spirit-island
 order: 17
 level: 3
@@ -11,6 +11,21 @@ oneIdea: "Adversaries and scenarios are a difficulty dial with personality. Each
 tryThis: "After your next win without an adversary, play the Kingdom of Brandenburg-Prussia at its base level, and use the rulebook's scoring to compare the two games."
 nextTeaser: "Level 4 begins with Brandenburg-Prussia in depth: every level from Fast Start to the top, how each one reshapes the Invader Deck, and how to stay ahead of it."
 ---
+Spirit Island has eight adversaries: three in the base game and five across the expansions. Each runs from its base level (level 0) up to level 6, and the table below ranks them by how hard they get at the top.
+
+| Adversary | Box | Level 0 | Level 6 |
+| --- | --- | --- | --- |
+| The Tsardom of Russia | Jagged Earth | 1 | 11 |
+| The Kingdom of France (Plantation Colony) | Branch & Claw | 2 | 10 |
+| The Habsburg Monarchy (Livestock Colony) | Jagged Earth | 2 | 10 |
+| [The Kingdom of Brandenburg-Prussia](/academy/spirit-island/spirit-island-brandenburg-prussia/) | Base game | 1 | 10 |
+| [The Kingdom of England](/academy/spirit-island/spirit-island-england/) | Base game | 1 | 10 |
+| The Kingdom of Scotland | Feather and Flame | 1 | 10 |
+| The Habsburg Mining Expedition | Nature Incarnate | 1 | 10 |
+| [The Kingdom of Sweden](/academy/spirit-island/spirit-island-sweden/) | Base game | 1 | 8 |
+
+<!-- VERIFY: base game rows, France level 0, and Mining Expedition level 6 are confirmed from rulebooks. The other cells match the fan reference at bfowle.github.io/spirit-island/adversaries/ (checked 2026-11-03); a final check against the printed panels would close this. -->
+
 Winning without an adversary is a milestone. It is also where Spirit Island starts to open up. The base game includes three adversaries and four scenarios, and both are optional. Add them when your group is ready for more, one step at a time.
 
 ## How an adversary works

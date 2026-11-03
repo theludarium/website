@@ -11,7 +11,7 @@ oneIdea: "Everything in Terraforming Mars feeds one loop: raise the planet's num
 tryThis: "In your first game, say the four phases out loud at the start of every generation, and say \"plus one TR\" every time anyone raises a global parameter."
 nextTeaser: "Next, the ten-minute teach. You will get a host script that gets a new table playing before anyone's eyes glaze over."
 ---
-Terraforming Mars puts you in charge of a corporation, centuries from now, paid to make Mars livable. Everyone works on the same planet. You warm it, fill its oceans, and thicken its air, and every step earns you rating, income, and points. Meanwhile your project cards grow your company into an engine. When Mars is finished, the game ends.
+Terraforming Mars puts you in charge of a corporation, centuries from now, paid to make Mars livable. Everyone works on the same planet. You warm it, fill its oceans, and thicken its air, and every step earns you rating, income, and points. Meanwhile your project cards grow your company into an engine. When Mars is finished, the game ends. It plays 1 to 5 players, with a solo mode in the box.
 
 This lesson covers the standard game from the current FryxGames rulebook: no Corporate Era cards, no draft, no expansions.
 

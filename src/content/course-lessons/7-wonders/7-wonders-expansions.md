@@ -1,6 +1,6 @@
 ---
-title: "7 Wonders Player Counts, Variants, and Expansions"
-description: "7 Wonders at 3 to 7 players, why a table of two should reach for Duel, and which expansions to try first: Leaders, Cities, Armada, Edifice, Pantheon, and Agora."
+title: "7 Wonders Player Count, Max Players, Variants, and Expansions"
+description: "7 Wonders plays 3 to 7 players, and 7 is still the max with every expansion. For two, play 7 Wonders Duel. How each count plays, the variants, and expansions."
 course: 7-wonders
 order: 12
 level: 2
@@ -11,15 +11,20 @@ oneIdea: "Learn each base game well, then add one expansion at a time. Each one 
 tryThis: "Play your next 7 Wonders game on the Night sides of the Wonder boards. It is a free variant already in the box."
 nextTeaser: "Level 3 starts on the 7 Wonders track: card memory and hate-drafting, or how to know what is in every hand before it reaches you."
 ---
+7 Wonders plays 3 to 7 players, and every expansion keeps that same range, so 7 is the most the box seats. For two players, the publisher makes a separate game, 7 Wonders Duel, and there is no official solo mode in the base game.
+
 7 Wonders and Duel both have a small, well-chosen set of expansions. That makes choosing easier than for games with dozens of boxes. This lesson starts with what changes at different player counts, then the free variants already in your box, then each expansion and spin-off worth knowing.
 
-## 7 Wonders: how it changes by player count
+## How many players
 
-The current edition plays 3 to 7, and because everyone picks at once, the publisher lists about 30 minutes.
+The current edition plays 3 to 7, and because everyone picks at once, the publisher lists about 30 minutes at any count. Setup changes with the count: each Age card shows a minimum number of players (3+ up to 7+), and you keep only the cards at or below your player count. The guild deck in Age III gets the number of players plus 2.
 
-- **Three players.** Both other players are your neighbors, so you trade with and fight everyone. Hands come back around: on the fourth turn of each Age, you see your first hand again, minus the three cards taken from it. You can plan around cards you saw earlier.
-- **Four to five.** The classic range. One or two players are not your neighbors, so you start to ignore part of the table.
-- **Six to seven.** You never see a hand twice in an Age. More cards marked 6+ and 7+ join the decks, including second copies of some cards, so resources are easier to find. The game feels like two small games happening on either side of you.
+| Players | What changes |
+| --- | --- |
+| 2 | Not supported. Play 7 Wonders Duel instead. |
+| 3 | Only 3+ cards. Both other players are your neighbors, so you trade with and fight everyone. Your first hand comes back on the fourth turn of each Age, minus three cards. |
+| 4 to 5 | Adds the 4+ and 5+ cards. One or two players are not your neighbors, so you start to ignore part of the table. |
+| 6 to 7 | Adds the 6+ and 7+ cards, including second copies of some, so resources are easier to find. You never see a hand twice in an Age. |
 
 If your group likes planning and close rivalry, play at 3 or 4. If it likes a big, lively table where everyone plays at once, 6 or 7 is where 7 Wonders shines. Our list of the [best games for 6 players](/articles/best-board-games-for-6-players/) shows where it sits among other big-table options.
 

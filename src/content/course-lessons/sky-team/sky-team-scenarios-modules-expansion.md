@@ -1,6 +1,6 @@
 ---
-title: "Sky Team Scenarios, Modules, and the Turbulence Expansion"
-description: "Sky Team scenarios and modules: the Flight Log's 21 flights, Kerosene, Wind, Intern, Ice Brakes and more, plus the Turbulence expansion and free scenarios."
+title: "Sky Team Player Count, Scenarios, Modules, and Turbulence"
+description: "Sky Team is for exactly 2 players, with no solo mode. Its variety comes from the Flight Log's 21 scenarios, modules like Kerosene and Wind, and Turbulence."
 course: sky-team
 order: 9
 level: 2
@@ -11,7 +11,17 @@ oneIdea: "Montreal teaches the cockpit. The Flight Log turns it into a different
 tryThis: "Pick the next unchecked Routine Landing scenario in the Flight Log and fly it until you land. Read only the module it uses, nothing else."
 nextTeaser: "Next, the first modules up close: how to fly with Kerosene, the Intern, the Traffic die, and Turns without wasting a die."
 ---
-The Landing Procedure booklet ends with a nudge: now that you have landed in Montreal, open the Flight Log. That second booklet holds the rest of the game. Sky Team has exactly one player count, two, so its variety comes from somewhere else: new airports, new modules, and harder conditions.
+Sky Team is for exactly two players: one Pilot and one Co-Pilot. Le Scorpion Masqué makes it only for two, with no solo mode and no rules for three or more, and the Turbulence expansion is for two as well.
+
+## How many players
+
+| Players | Can you play? | What the rules say |
+| --- | --- | --- |
+| 1 | No | No official solo mode |
+| 2 | Yes | One Pilot with the blue dice, one Co-Pilot with the orange dice |
+| 3 or more | No | No official rules for a third player |
+
+The Landing Procedure booklet ends with a nudge: now that you have landed in Montreal, open the Flight Log. That second booklet holds the rest of the game. With one player count, Sky Team gets its variety from somewhere else: new airports, new modules, and harder conditions.
 
 ## The Flight Log
 

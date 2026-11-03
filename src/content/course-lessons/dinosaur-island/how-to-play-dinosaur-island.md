@@ -11,9 +11,9 @@ oneIdea: "Each round you gather DNA, spend money, turn DNA into dinosaurs, and t
 tryThis: "For your first game, use the rulebook's recommended objectives and the hooligan plot twist, and say each phase's name out loud as you start it."
 nextTeaser: "Next, the ten-minute teach: a host script in the order you would say it, so the whole table is rolling DNA dice before the snacks run out."
 ---
-Dinosaur Island puts you in charge of a dinosaur theme park. You research DNA, build dinosaurs, hire staff, build attractions, and draw visitors from a bag. Visitors pay to get in and score points. Let your dinosaurs outrun your security, though, and some visitors get eaten.
+Dinosaur Island is a game for 1 to 4 players that puts you in charge of a dinosaur theme park. You research DNA, build dinosaurs, hire staff, build attractions, and draw visitors from a bag. Visitors pay to get in and score points. Let your dinosaurs outrun your security, though, and some visitors get eaten.
 
-The game plays 1 to 4 in one to two hours. This lesson follows the official Rulebook 2.0 from Pandasaurus Games. Solo play has its own lesson at [Level 4](/academy/dinosaur-island/dinosaur-island-solo-mode/).
+A game takes one to two hours. This lesson follows the official Rulebook 2.0 from Pandasaurus Games. Solo play has its own lesson at [Level 4](/academy/dinosaur-island/dinosaur-island-solo-mode/).
 
 **Prefer to watch first?** Watch It Played teaches the rules on video in its <a href="https://www.youtube.com/watch?v=dY3gdGNP698" target="_blank" rel="noopener">Dinosaur Island How To Play video</a>. Watch it, then come back here for the rules in writing and the rest of the course.
 

@@ -1,6 +1,6 @@
 ---
-title: "Pandemic Player Counts, Variants, and Expansions"
-description: "Pandemic at 2 to 4 players, the difficulty dials in the box, free scenarios and puzzles, the three expansions, Pandemic Legacy, and the standalone spin-offs."
+title: "Pandemic Player Count, Legacy, Variants, and Expansions"
+description: "Pandemic plays 2 to 4 players, or 5 with On the Brink, and solo with free official rules. Every Pandemic Legacy season plays 2 to 4. How each count plays, too."
 course: pandemic
 order: 15
 level: 4
@@ -11,15 +11,21 @@ oneIdea: "Turn the dials in the box before you buy anything: more Epidemics, clo
 tryThis: "Once your group wins at 4 Epidemics, play the next game at 5 with hands kept private, and notice how the conversation changes."
 nextTeaser: "Next, the free puzzles and scenarios: set positions with one goal and four actions a turn, the best practice the game offers."
 ---
+Pandemic plays 2 to 4 players out of the box, and the On the Brink expansion raises that to 5. Z-Man also posts free official solo rules, and all three Pandemic Legacy seasons play 2 to 4.
+
 [Pandemic](https://link.amazon/B0eHP5GCg) is a family of games, not just one box. There are expansions, Legacy campaigns, standalone versions, and free extras on the publisher's site. That is a lot to choose from. The good news: the base game has plenty of room to grow before you spend anything.
 
-## How does the game change by player count?
+## How many players
 
-The base game plays 2 to 4.
+The base game plays 2 to 4. The starting hand is the main setup change.
 
-- **Two players:** 4-card starting hands and the most turns each, about 13 at Standard. Only two roles are in play, so each player covers more of the map. Meeting up to share cards is simpler with two pawns.
-- **Three players:** 3-card hands. A good balance of turns and roles.
-- **Four players:** 2-card hands and four roles, but only six or seven turns each at Standard. More special powers, more conversation, and more risk that one voice takes over.
+| Players | What changes |
+| --- | --- |
+| 1 | Free official solo rules: you lead three roles who share one hand. |
+| 2 | 4-card starting hands and the most turns each, about 13 at Standard. Only two roles are in play, so each player covers more of the map. |
+| 3 | 3-card hands. A good balance of turns and roles. |
+| 4 | 2-card hands and four roles, but only six or seven turns each at Standard. More powers, more conversation, and more risk that one voice takes over. |
+| 5 | Needs On the Brink, which Z-Man lists at 2 to 5 players. |
 
 At any count, the Player deck is almost the same size, so the team gets about the same number of turns in total. More players means those turns are spread thinner.
 

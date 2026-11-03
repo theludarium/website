@@ -11,7 +11,7 @@ oneIdea: "Every turn is one of three actions: place a worker, play a card, or pr
 tryThis: "In your first game, say the new season out loud every time someone prepares, so the whole table knows who is in spring, summer, or autumn."
 nextTeaser: "Next, the ten-minute teach. You get a host script in the order you would say it, so the whole table learns at once."
 ---
-Everdell is a game about building a small woodland city over one year. You send worker critters out to gather twigs, resin, pebbles, and berries. Then you spend those resources to play cards into your city: Critters, the citizens, and Constructions, the buildings. Your city holds 15 cards. When autumn ends, the city worth the most points wins.
+Everdell is a game about building a small woodland city over one year. You send worker critters out to gather twigs, resin, pebbles, and berries. Then you spend those resources to play cards into your city: Critters, the citizens, and Constructions, the buildings. It plays 1 to 4 players, solo included. Your city holds 15 cards. When autumn ends, the city worth the most points wins.
 
 This lesson follows the rulebook Starling Games links from its current Standard Edition page. Older printings call two cards Husband and Wife; current printings call them Harvester and Gatherer. If your box differs, that is why.
 

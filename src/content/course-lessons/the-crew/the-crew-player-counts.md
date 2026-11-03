@@ -1,6 +1,6 @@
 ---
-title: "The Crew at 2, 3, 4, and 5 Players: What Changes"
-description: "The Crew by player count: how three, four, and five players change the deal, the five-player task handoff, the Challenge for Three, and two players with JARVIS."
+title: "The Crew Player Count: What Changes at 2, 3, 4, and 5"
+description: "The Crew plays 3 to 5, plus a two-player mode with JARVIS in the rulebook. What changes at each count: hand sizes, the Challenge for Three, 5-player handoff."
 course: the-crew
 order: 10
 level: 3
@@ -11,7 +11,18 @@ oneIdea: "The Crew is the same game at every count, but the deal is not. Fewer p
 tryThis: "Play the same mission at two different player counts this month, and note one thing that got easier and one thing that got harder."
 nextTeaser: "Next, the campaign itself: the 50 missions, the logbook, the distress signal, and the commander missions that change who takes the tasks."
 ---
+The Crew: The Quest for Planet Nine is for 3 to 5 players, as Thames & Kosmos lists it, and the rulebook adds a two-player variant with a third, open-handed crew member called JARVIS. There is no solo mode.
+
 The rules of The Crew barely change with the number of players. But the deal changes a lot. With 40 cards split among your crew, each extra player shrinks every hand, and smaller hands mean less control over who wins what. The rulebook says plainly that three players is the smallest challenge, and five the biggest.
+
+## How many players
+
+| Players | Cards in each hand | What changes in the rules |
+| --- | --- | --- |
+| 2 | 13 each, plus 14 for JARVIS | The commander runs JARVIS, a double row of 14 cards; only its face-up cards can be played |
+| 3 | 13, one player gets 14 | One card is never played; the Challenge for Three removes green for a harder game |
+| 4 | 10 | No special rules |
+| 5 | 8 | Golden-frame missions from 25 on let one player hand a task to another |
 
 ## Three players
 

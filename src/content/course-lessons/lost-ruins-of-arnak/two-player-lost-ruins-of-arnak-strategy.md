@@ -1,6 +1,6 @@
 ---
-title: "Two-Player Arnak Strategy: Winning the Duel"
-description: "Two-player Lost Ruins of Arnak strategy: one archaeologist per starting site, smaller temple stacks, the alternating first turn, and how to win the race."
+title: "Lost Ruins of Arnak 2 Player Strategy: Winning the Duel"
+description: "Lost Ruins of Arnak plays well with 2 players. At two, every starting site holds one archaeologist and temple stacks shrink. How to win the race that creates."
 course: lost-ruins-of-arnak
 order: 13
 level: 3
@@ -11,6 +11,17 @@ oneIdea: "With two players, almost everything you take is something your opponen
 tryThis: "Play three two-player games in a row. Before each of your moves, name one thing it denies your opponent: a space, a card, a bonus tile, or a temple tile."
 nextTeaser: "Next, the race to the Lost Temple: counting the steps, planning the resources, and timing your arrival so the best spaces and tiles are yours."
 ---
+Lost Ruins of Arnak plays 1 to 4 players, and two is a full game with its own setup: each of the 5 starting sites holds one archaeologist, and every temple stack has 2 tiles.
+
+## How many players
+
+| Players | What changes |
+| --- | --- |
+| 1 | The two-player setup, plus a solo rival that blocks spaces and scores points. |
+| 2 | All 5 starting sites hold one archaeologist. Temple stacks hold 2 tiles. |
+| 3 | 3 random starting sites hold one archaeologist. Temple stacks hold 3. |
+| 4 | Every starting site has two spaces. Temple stacks hold 4. |
+
 Two-player Lost Ruins of Arnak is fast, tight, and very direct. It shows your mistakes clearly because there is only one other player to blame. This lesson covers what the rules change at two players and how strong players use those changes.
 
 All rules here follow the current English rulebook from Czech Games Edition.

@@ -1,6 +1,6 @@
 ---
-title: "Pandemic Event Cards: When to Play Each One"
-description: "Pandemic Event card strategy: the best moment for Resilient Population, One Quiet Night, Forecast, Airlift, and Government Grant, and the rules behind it."
+title: "Pandemic Event Cards: All Five and When to Play Each"
+description: "Pandemic has five event cards: Airlift, Forecast, Government Grant, One Quiet Night, and Resilient Population. What each does, and the best time to play it."
 course: pandemic
 order: 10
 level: 2
@@ -11,7 +11,17 @@ oneIdea: "Event cards are free, and they are strongest at one specific moment ea
 tryThis: "In your next game, when someone draws an Event, have them say out loud the moment they plan to play it. Hold them to it, or agree together on a better one."
 nextTeaser: "Next, planning as a team with hands closed: how to share what you know, propose plans, and keep every player's voice in the game."
 ---
-The base game has five Event cards mixed into the Player deck. Each one bends the rules once. They cost no action, any player can play one on any player's turn, and the player who plays it decides how it is used. That freedom is why new teams waste them. A card you can play at any moment is easy to play at the wrong one.
+The Pandemic base game has five event cards, shuffled into the Player deck. Each one is free to play, works once, and then goes to the discard pile.
+
+| Event | What it does |
+| --- | --- |
+| Airlift | Move any one pawn to any city |
+| Forecast | Look at the top 6 Infection cards and put them back in any order |
+| Government Grant | Place a research station in any city, with no City card |
+| One Quiet Night | Skip the next Infect Cities step |
+| Resilient Population | Remove one card in the Infection discard pile from the game |
+
+Each one bends the rules once. They cost no action, any player can play one on any player's turn, and the player who plays it decides how it is used. That freedom is why new teams waste them. A card you can play at any moment is easy to play at the wrong one.
 
 This lesson gives each card its best moment, checked against the timing rules in the current [rulebook](https://cdn.svc.asmodee.net/production-zman/uploads/2024/09/Pandemic_Rulebook.pdf).
 

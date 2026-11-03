@@ -1,6 +1,6 @@
 ---
-title: "Power Grid Player Counts, Variants, and Expansions"
-description: "Power Grid at 2 to 6 players, the two-player rival company, the Germany and USA rules, the start city variant, and which expansion maps and plant decks to try."
+title: "Power Grid Player Count, Variants, and Expansions"
+description: "Power Grid plays 2 to 6 players, with a rival company rule for two. What changes at each count, the Germany and USA rules, and which expansion map to try first."
 course: power-grid
 order: 11
 level: 2
@@ -11,11 +11,13 @@ oneIdea: "Power Grid's rules barely change between maps, but the economy does. L
 tryThis: "Play your next game on the side of the board you have not tried yet, and note which fuel ran short first."
 nextTeaser: "Level 3 begins with the endgame: when Step 3 arrives, how the end trigger works, and how to count the final round so you power the most cities with money to spare."
 ---
-Power Grid has a long shelf of expansions, and almost all of them are new maps. That is good news for learning. The five phases stay the same, so a new map changes the puzzle without changing the teach. This lesson covers player counts first, then the base box's own variants, then the expansions worth knowing.
+Power Grid Recharged plays 2 to 6 players, and so does each expansion map. There is no solo mode, and two players use special rules: a rival company joins the game to block you both.
 
-## How the game changes by player count
+Almost all of the expansions are new maps. The five phases stay the same, so a new map changes the puzzle without changing the teach.
 
-The base game plays 2 to 6. Several numbers shift with the player count:
+## How many players
+
+Several numbers shift with the player count:
 
 | Players | Regions in play | Step 2 starts at | Game ends at | Plants removed at setup |
 | --- | --- | --- | --- | --- |

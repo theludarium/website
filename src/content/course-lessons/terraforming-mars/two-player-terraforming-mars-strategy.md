@@ -1,6 +1,6 @@
 ---
-title: "Two-Player Terraforming Mars Strategy: Winning the Duel"
-description: "Two-player Terraforming Mars strategy: awards with no second place, a draft that shows most of your rival's picks, attacks that count double, and longer games."
+title: "Terraforming Mars 2 Player Strategy: Winning the Duel"
+description: "Terraforming Mars plays well with 2 players, and only one rule changes: awards have no second place. How the draft, attacks, and longer games shift your plan."
 course: terraforming-mars
 order: 16
 level: 3
@@ -11,7 +11,17 @@ oneIdea: "With two players, every point is a swing against one rival. Awards hav
 tryThis: "In your next two-player drafted game, write down the three cards you know your rival drafted each generation. See how many of them they play."
 nextTeaser: "Next, Level 4 begins with Colonies: building colonies, when to trade, and how the trade track rewards good timing."
 ---
-Terraforming Mars plays well with two. It is a different game, though. The rulebook changes only one rule for two players. But having one rival instead of three or four changes how you value almost everything.
+Terraforming Mars plays 1 to 5 players, and it works well with two. A two-player game uses the standard rules with one change: awards have no second place.
+
+That is the only rule change, but it is a different game. Having one rival instead of three or four changes how you value almost everything.
+
+## How many players
+
+| Players | What changes |
+| --- | --- |
+| 1 | The solo variant: neutral cities, 14 generations, no milestones or awards. |
+| 2 | Awards pay only first place. Games tend to run more generations. |
+| 3 to 5 | Standard rules. The tracks move faster, so games run fewer generations. |
 
 ## The rule change: awards
 

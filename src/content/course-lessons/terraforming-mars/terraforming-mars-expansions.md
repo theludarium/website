@@ -1,6 +1,6 @@
 ---
-title: "Terraforming Mars Player Counts, Variants, and Expansions"
-description: "Terraforming Mars player counts, solo play, Corporate Era, the draft variant, and which expansion to add first, from Prelude and Hellas & Elysium to Turmoil."
+title: "Terraforming Mars Player Count, Variants, and Expansions"
+description: "Terraforming Mars plays 1 to 5 players, with a solo mode in the box. What changes at each count, Corporate Era, the draft, and which expansion to add first."
 course: terraforming-mars
 order: 12
 level: 3
@@ -11,15 +11,19 @@ oneIdea: "Grow the game in the order the rulebook hints at: base game first, the
 tryThis: "Play your next game with Corporate Era added, and the one after with the draft. Note which change your group asks to keep."
 nextTeaser: "Next, draft strategy: what to take, what to pass, when to deny a card, and how the cards you are passed tell you what your neighbors are building."
 ---
+Terraforming Mars plays 1 to 5 players, as printed on the box, and the base game includes its own solo mode. The expansions play in the same 1 to 5 range, so adding one does not change who can join. <!-- VERIFY: confirm on the FryxGames or Stronghold pages that every expansion lists 1 to 5 players (retail listings for Colonies and Turmoil do). -->
+
 Terraforming Mars grows well. The base box already holds two variants, Corporate Era and the draft, and the expansions add maps, new phases, and whole new systems. The trick is adding them one at a time, so your group always knows which change made the game better.
 
-## How does the game change by player count?
+## How many players
 
-The box plays 1 to 5.
+| Players | What changes |
+| --- | --- |
+| 1 | Solo rules, covered below: neutral cities, a fixed 14 generations, no milestones or awards. |
+| 2 | Awards have no second place. Fewer players raise the tracks, so games tend to run more generations. |
+| 3 to 5 | Standard rules. More players push the tracks, so the game usually takes fewer generations, with more waiting between turns. |
 
-- **Solo** has its own rules, covered below.
-- **Two players:** the only rule change is that awards have no second place. With fewer players raising the tracks, games tend to run more generations, so engines have longer to pay off.
-- **Three to five:** more players push the tracks, so the game usually takes fewer generations. There is also more waiting between turns. At five, a group prone to long turns may want a timer, or our tips on [analysis paralysis](/articles/analysis-paralysis-board-games/).
+At five, a group prone to long turns may want a timer, or our tips on [analysis paralysis](/articles/analysis-paralysis-board-games/).
 
 ## Solo play
 

@@ -11,7 +11,7 @@ oneIdea: "Every turn is the same three parts: take 4 actions, draw 2 Player card
 tryThis: "Play your first game with 4 Epidemic cards and every hand face up, as the rulebook suggests, and read the three turn steps out loud until nobody needs them."
 nextTeaser: "Next, the ten-minute teach. You will get a host script in the order you would say it, built so every player has a voice from the first turn."
 ---
-Pandemic puts everyone at the table on one team against four diseases spreading across a map of the world. You win together or you lose together, and there is no score to keep. Either the team finds all four cures, or the world gets away from you.
+Pandemic puts everyone at the table on one team against four diseases spreading across a map of the world. You win together or you lose together, and there is no score to keep. Either the team finds all four cures, or the world gets away from you. It plays 2 to 4 players in about 45 minutes.
 
 This lesson covers the current Z-Man Games edition in our own words, with official terms in bold to match the [rulebook](https://cdn.svc.asmodee.net/production-zman/uploads/2024/09/Pandemic_Rulebook.pdf). Our [Pandemic explainer](/articles/pandemic-board-game-explained/) covers why it works.
 

@@ -11,7 +11,7 @@ oneIdea: "Codenames is a race to find your team's words from one-word clues. Eve
 tryThis: "Print the teach sheet, set it next to the grid, and read the turn steps aloud before the first clue. Then give the first spymaster all the quiet time they need."
 nextTeaser: "Next, how to run a great first game: choosing spymasters, seating the table, agreeing on clue rules, and keeping the pace up."
 ---
-Codenames is a party game for two teams and one grid of words. Each team's spymaster secretly knows which words are theirs. Everyone else is an operative, trying to find those words from the spymaster's clues. The catch: a clue is one word and one number, and one word on the table is the assassin.
+Codenames is a party game for two teams and one grid of words. Each team's spymaster secretly knows which words are theirs. Everyone else is an operative, trying to find those words from the spymaster's clues. The catch: a clue is one word and one number, and one word on the table is the assassin. It plays 4 to 8 or more players, and two players can use [Codenames: Duet](/academy/codenames/codenames-variants-and-editions/).
 
 This lesson follows the current 2025 rulebook from Czech Games Edition for [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), designed by Vlaada Chvátil. Older copies may look a little different. Everything below also fits on the one-page [Codenames teach sheet](/academy/codenames/teach-sheet/).
 

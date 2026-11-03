@@ -11,7 +11,7 @@ oneIdea: "7 Wonders is one move repeated: pick a card, play it, pass the rest. D
 tryThis: "In your first game of 7 Wonders, have players reveal and play their cards one at a time, as the rulebook suggests, so everyone sees how each action works."
 nextTeaser: "Next, the teach. You get a ten-minute host script for 7 Wonders, a five-minute one for Duel, and a printable teach sheet for both."
 ---
-7 Wonders is a card game about building an ancient city over three Ages. Everyone picks a card at the same time, plays it, and passes the rest, so seven players finish about as fast as three. Its two-player sibling, 7 Wonders Duel, keeps the cities and card colors but trades the passing for a shared layout of cards.
+7 Wonders is a card game about building an ancient city over three Ages. Everyone picks a card at the same time, plays it, and passes the rest, so seven players finish about as fast as three. It plays 3 to 7 players in about 30 minutes. Its two-player sibling, 7 Wonders Duel, keeps the cities and card colors but trades the passing for a shared layout of cards.
 
 This lesson covers both, from the current Repos Production rulebooks: the [7 Wonders second edition rules](https://cdn.svc.asmodee.net/production-rprod/storage/downloads/games/7wonders/en/sev-en02-rules-1716388903zBEZx.pdf) and the [7 Wonders Duel rules](https://cdn.svc.asmodee.net/production-rprod/storage/downloads/games/7wonders-duel/en/7du-rules-us-15990558193s5I6.pdf). Learn the big game first. Duel will feel familiar after.
 

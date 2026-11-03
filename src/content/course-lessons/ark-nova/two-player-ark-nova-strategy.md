@@ -1,6 +1,6 @@
 ---
-title: "Two-Player Ark Nova Strategy: Winning the Duel"
-description: "Two-player Ark Nova strategy: the blocked project levels and donations, a shorter project row, denial in the display, interactive animals, and the end race."
+title: "Ark Nova 2 Player Strategy: Winning the Duel"
+description: "Ark Nova plays 1 to 4 players and works well with 2. At two, the rules block some project levels and donation spaces. Here is how to win the duel that creates."
 course: ark-nova
 order: 17
 level: 4
@@ -11,6 +11,19 @@ oneIdea: "With two players, every shared resource is a duel. Fewer open project 
 tryThis: "In your next two-player game, before each turn, name the one project level your rival is closest to. When you can take it first without hurting your own plan, do."
 nextTeaser: "Next, your Final Scoring card: how to choose which to keep, when to commit, and how to squeeze its last point."
 ---
+Ark Nova plays 1 to 4 players, with a solo mode in the base box. With two, the rules block one level on each base conservation project and three donation spaces, and the rest of the game plays as written. <!-- VERIFY: Capstone lists the Marine Worlds expansion as 2 to 4 players; check its rulebook for solo rules before saying anything about it. -->
+
+## How many players
+
+| Players | What changes |
+| --- | --- |
+| 1 | 3 base projects, no Break token. A solo tile sets 6 rounds; start at 20 appeal and finish at 0 or more points to win. |
+| 2 | 3 base projects with one level each blocked, and the left column of donations blocked. |
+| 3 | 3 base projects, every level open. |
+| 4 | 4 base projects. |
+
+The Break token always starts on the space for your player count.
+
 Ark Nova plays well at two, and it plays differently. The rulebook makes the board tighter, and with only one rival every choice you deny them is a choice you win. Many players learn and practice at two, so it is worth knowing how the duel changes.
 
 ## What the rules change at two

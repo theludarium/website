@@ -1,6 +1,6 @@
 ---
-title: "Spirit Island Multiplayer Strategy and Teamwork"
-description: "Spirit Island multiplayer strategy: splitting the Island, stacking Damage, timing Fast Powers together, avoiding a quarterback, and where to find more players."
+title: "Spirit Island Player Count, Multiplayer Strategy, and Teamwork"
+description: "Spirit Island plays 1 to 4 players, or up to 6 with Jagged Earth. What changes at each count, plus team strategy: splitting the Island and stacking Damage."
 course: spirit-island
 order: 23
 level: 5
@@ -10,7 +10,19 @@ draft: false
 oneIdea: "A Spirit Island team wins by sharing objectives, not every detail. Agree on which threats each Spirit owns this turn, then let each player solve their own puzzle."
 tryThis: "At the start of each Spirit Phase in your next multiplayer game, take thirty seconds to name the two biggest threats on the Invader track and which Spirit takes each one."
 ---
-Spirit Island works solo, but it is built for a team. Two to four Spirits share one Island, one Invader board, and one fate. This lesson is about turning a table of separate engines into one plan, and then about where to find more people to play with.
+Spirit Island plays 1 to 4 players, with solo rules in the core rulebook. The Jagged Earth expansion adds Island boards that take it up to 6.
+
+It works solo, but it is built for a team: every Spirit shares one Island, one Invader board, and one fate. This lesson covers what changes with the count, then how to turn a table of separate engines into one plan.
+
+## How many players
+
+Each player adds an Island board and 4 Fear markers to the Fear Pool. The rulebook shows a map layout for each count.
+
+| Players | Island boards | Fear Pool | What changes |
+| --- | --- | --- | --- |
+| 1 | 1 | 4 | One board is the whole Island. You may target yourself with Powers meant for another Spirit. |
+| 2 to 4 | 1 per player | 4 per player | Planning talk, combined Damage, and shared Dahan come into play. |
+| 5 to 6 | 1 per player | 4 per player | Needs the extra Island boards from Jagged Earth. |
 
 ## Talk is part of the game
 
@@ -58,7 +70,7 @@ Our guide to [co-ops without a quarterback problem](/articles/co-op-games-withou
 
 ## Playing solo
 
-In a solo game, one Island board is the whole Island. You may target yourself with Powers that target another Spirit, though you do not get any extra benefit those Powers give for helping someone else. The rulebook notes that luck matters more solo, with no teammates to cover your Spirit's weak spots. Our guide to the [best solo board games](/articles/best-solo-board-games/) calls it excellent at one player.
+The rulebook notes that luck matters more solo, with no teammates to cover your Spirit's weak spots. The [solo lesson](/academy/spirit-island/spirit-island-solo/) covers choosing a Spirit for it.
 
 ## Beyond your table
 

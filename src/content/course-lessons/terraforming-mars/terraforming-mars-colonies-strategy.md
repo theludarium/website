@@ -1,6 +1,6 @@
 ---
-title: "Terraforming Mars Colonies Strategy: Building and Trading"
-description: "Terraforming Mars Colonies strategy: how colonies and trade fleets work, when to build, when to trade, and how timing the trade track earns the biggest haul."
+title: "Terraforming Mars Colonies Rules and Strategy: Build and Trade"
+description: "In Terraforming Mars Colonies, you build colonies for 17 M€ and trade for 9 M€, 3 energy, or 3 titanium. The rules in brief, then when to build and trade."
 course: terraforming-mars
 order: 17
 level: 4
@@ -11,15 +11,19 @@ oneIdea: "Colonies is a timing game. Build early so every trade pays you a bonus
 tryThis: "In your next Colonies game, before each trade, check every Colony Tile's marker and note who has colonies there. Trade where your haul plus your own colony bonus is biggest."
 nextTeaser: "Next, Venus Next: the fourth track, Air Scrapping, the World Government step, and how to use TR that does not bring the end any closer."
 ---
+In Terraforming Mars: Colonies, you build a colony on a Colony Tile as a standard project for 17 M€, and you trade by sending your trade fleet to a tile for 9 M€, 3 energy, or 3 titanium. Every trade pays the trader and also pays each player with a colony on that tile.
+
 Welcome to Level 4. Tournaments add expansions as their rounds go on. WBC's 2025 and 2026 events used every expansion except Turmoil in the semifinal and final, unless all players agreed otherwise, so Colonies is part of the deep rounds. It adds a new action, a new standard project, and a lot of player interaction.
 
-## How Colonies works
+## Colonies rules in brief
+
+<!-- VERIFY: this rules summary was checked against a RulesPal summary, not the official Colonies rulebook; confirm setup by player count, trade cost, and fleet rules against the rulebook. -->
 
 From the Colonies rulebook:
 
-**Setup.** Draw Colony Tiles equal to the number of players plus 2, or 5 tiles in a two-player game. Put a white marker on the highlighted second step of each track. Each player takes one trade fleet. Titan, Enceladus, and Miranda start with their marker on the moon itself, and only open once a card that can collect their resource is in play.
+**Setup.** Draw Colony Tiles equal to the number of players plus 2, or 5 tiles in a two-player game. Solo, draw 4 and keep 3 in play. Put a white marker on the highlighted second step of each track. Each player takes one trade fleet. Titan, Enceladus, and Miranda start with their marker on the moon itself, and only open once a card that can collect their resource is in play.
 
-**Building a colony** is a standard project for 17 M€. Put your marker on the lowest open spot of a Colony Tile's track and take the placement bonus shown there. Each tile holds 3 colonies at most, and each player may have only one colony per tile unless a card says otherwise.
+**Building a colony** is a standard project for 17 M€. Put your marker on the lowest open spot of a Colony Tile's track and take the placement bonus shown there. If needed, move the white marker up one step. Each tile holds 3 colonies at most, and each player may have only one colony per tile unless a card says otherwise.
 
 **Trading** is a new action, not a standard project. Pay 9 M€, or 3 energy, or 3 titanium, and move your trade fleet to a Colony Tile. Only one fleet may visit a tile at a time. You get the trade income where the white marker sits, and **every player with a colony on that tile gets its colony bonus**.
 
