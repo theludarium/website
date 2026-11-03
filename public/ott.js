@@ -1,6 +1,22 @@
 /* The Ludarium's game interest counter, explained at /privacy/. No cookies or
    storage, and nothing sent with Global Privacy Control or Do Not Track on. */
 (function (w, d, n) {
+  // Google Analytics also gets affiliate, download and store clicks as events.
+  // gtag only exists on the live site and follows the visitor's cookie choice
+  // (src/components/ConsentBanner.astro), so this sits apart from the counter below.
+  var ga = function (ev) {
+    var a = typeof w.gtag == 'function' && ev.target.closest && ev.target.closest('a[href]');
+    if (!a) return;
+    var e = a.getAttribute('data-ott-event');
+    if (e != 'affiliate_click' && e != 'download') e = a.hostname == 'theludarium.lemonsqueezy.com' ? 'store_click' : '';
+    if (!e) return;
+    var p = { link_url: a.href };
+    if (a.getAttribute('data-ott-game')) p.game = a.getAttribute('data-ott-game');
+    w.gtag('event', e, p);
+  };
+  d.addEventListener('click', ga, true);
+  d.addEventListener('auxclick', function (ev) { if (ev.button == 1) ga(ev); }, true);
+
   if (n.globalPrivacyControl || n.doNotTrack == '1' || w.doNotTrack == '1' || !n.sendBeacon) return;
   var list = function (s) { return (s || '').split(',').map(function (x) { return x.trim(); }).filter(Boolean); };
   var meta = function (k) { var m = d.querySelector('meta[name="ott:' + k + '"]'); return list(m && m.content); };
