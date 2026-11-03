@@ -1,0 +1,99 @@
+title: "Cards, Ships, and Ambition"
+game: "Arcs"
+format: masterclass
+order: 335
+wave: "6"
+draft: false
+publisher: "Leder Games"
+notice: "Unofficial. Not affiliated with or authorized by Leder Games or Buried Giant Studios. Arcs is a trademark of its owner."
+# VERIFY: Arcs moved to Buried Giant Studios when Cole Wehrle and Kyle Ferrin left Leder Games; confirm the current publisher and trademark owner for the notice and publisher fields.
+rulesEdition: "Arcs rulebook dated April 11, 2024 (Leder Games), plus the Blighted Reach campaign rules for campaign play"
+rulesSource: "https://ledergames.com/pages/how-to-play-arcs"
+players: "2 to 4"
+playTime: "60 to 180 minutes (about 45 minutes per player in a first game, 30 once you know it)"
+ages: "Ages 14 and up"
+promise: "Learn Arcs and teach it in one sitting, read the action cards like a trick-taking hand, time your ambitions, roll the right dice, then draft leaders, run the Blighted Reach campaign, and enter your first tournament."
+description: "A free Arcs course: learn and teach the rules, master surpass, copy, and pivot, time ambitions, read the battle dice, then add leaders, the campaign, and WBC."
+audience:
+  - "New players who want the card play and the actions clear before the first chapter."
+  - "Hosts who teach Arcs and want the whole table declaring ambitions by the second round."
+  - "Players who keep losing the initiative, or the Power race, and want to know why."
+  - "Groups ready for Leaders and Lore, the Blighted Reach campaign, or a tournament."
+levels:
+  - level: 0
+    name: "Cadet"
+    label: "Learn to play"
+    outcome: "Set up, teach, and finish a base game of Arcs with the card play, actions, and ambition scoring right."
+  - level: 1
+    name: "Navigator"
+    label: "Beginner"
+    outcome: "Play a full game without the common rules slips, and follow a simple plan for your first chapters."
+  - level: 2
+    name: "Captain"
+    label: "Intermediate"
+    outcome: "Choose between leading, surpassing, copying, and pivoting on purpose, and declare ambitions you can win."
+  - level: 3
+    name: "Commodore"
+    label: "Advanced"
+    outcome: "Build battle dice pools with known odds, raid with purpose, and draft leaders and lore that fit a plan."
+  - level: 4
+    name: "Admiral"
+    label: "Tournament ready"
+    outcome: "Run fair games at two, three, and four players, and play the three-act Blighted Reach campaign."
+  - level: 5
+    name: "Sovereign"
+    label: "The championship path"
+    outcome: "Find an Arcs tournament, know how the WBC event runs, and follow a six-week plan into your first event."
+afterLesson3: "Teach a base game from the rulebook and play it without the rules slips that trip up most new tables."
+afterLesson8: "Read the action cards like a trick-taking hand, time ambitions, choose battle dice knowing the odds, and draft a leader and lore with a plan."
+faq:
+  - q: "How many players does Arcs need?"
+    a: "Arcs plays 2 to 4. With 2 or 3 players you remove the 1 and 7 action cards and close two clusters of the map. With 2, six resources sit on the ambition boxes and score like a third player."
+  - q: "How do you win Arcs?"
+    a: "Gain Power by placing first or second in declared ambitions at the end of each chapter. After scoring, the game ends if anyone has 27 Power with 4 players, 30 with 3, or 33 with 2, or after Chapter 5. Most Power wins."
+  - q: "What is the difference between Surpass, Copy, and Pivot in Arcs?"
+    a: "Surpass plays a higher card of the lead suit for all its actions. Copy plays any card face down for one action of the lead card. Pivot plays a card of another suit for one action on your own card."
+  - q: "Should my first game of Arcs use Leaders and Lore?"
+    a: "No. The rulebook asks you to play a game or two without them first. After that, Leaders and Lore is the standard way to play, and the WBC tournament uses it in every game."
+  - q: "Do you need the Blighted Reach expansion?"
+    a: "No. The base game is complete on its own. The Blighted Reach is a separate box that turns Arcs into a three-game campaign, and the rules recommend at least one base game before you start it."
+teachSheet:
+  goal: "Have the most Power when the game ends, gained from first and second place in declared ambitions."
+  setup:
+    - "Shuffle the 2 to 6 action cards. Add the 1s and 7s only with four players."
+    - "Ambition markers on their blue sides, chapter marker on 1, zero marker in its slot."
+    - "Shuffle the Court deck. Deal 3 cards with two players, 4 with three or four."
+    - "Draw a setup card. Close its out-of-play clusters with a path marker and three out-of-play markers."
+    - "Each player: 3 ships and a city in A, 3 ships and a starport in B, 2 ships in C."
+    - "Take the two resources matching your A and B planets. Draw 6 action cards each."
+  turn:
+    - "Lead: play any card. One action per pip. You may declare its ambition first."
+    - "Surpass: same suit, higher number. Take actions up to your card's pips."
+    - "Copy: any card face down. Take one action from the lead card."
+    - "Pivot: a card of another suit. Take one action from your own card."
+    - "Seize: play an extra card face down to take the initiative now."
+    - "Highest Surpass takes the initiative, unless someone seized it."
+    - "Prelude: spend resources before your pips for bonus actions."
+  scoring:
+    - "Chapter ends when nobody has cards left. Score only declared ambitions."
+    - "Tycoon: most Material and Fuel. Keeper: most Relics. Empath: most Psionics."
+    - "Tyrant: most Captives. Warlord: most Trophies."
+    - "First place takes the higher number on every marker there; second takes the lower."
+    - "Tie for first: all tied take second. You need at least one of the thing counted."
+    - "Built cities uncover +2 and +3 bonuses for ambitions you win outright."
+  endGame: "After a chapter's scoring, the game ends if anyone has 27 Power (4 players), 30 (3), or 33 (2), or after Chapter 5. Most Power wins."
+  tips:
+    - "Declaring sets the lead card to 0, so anyone in that suit can Surpass it."
+    - "Count the cards left in hands. With six cards each, a chapter runs about six rounds."
+    - "Teach the card play first, then the actions, then ambitions. Battle can wait for the first fight."
+diagramAlt: "An abstract Arcs table at setup for four players. The map is six clusters arranged in a ring, each with a gate near the center and three planets around it. One cluster is closed with out-of-play markers and a path marker that joins its two neighboring gates. One player's starting pieces are shown: three ships and a city in system A, three ships and a starport in system B, and two ships in system C. Side panels show the four-card Court row, the action deck with each player's six-card hand, the five ambition boxes, and the three ambition markers waiting in the Available Markers spaces."
+games: [arcs]
+related:
+  - "area-control-board-games"
+  - "board-game-mechanics-explained"
+  - "kingmaking-board-games"
+  - "negotiation-board-games"
+  - "board-game-player-counts"
+  - "campaign-game-missed-session"
+  - "how-to-teach-a-board-game"
+  - "expansions-worth-it"

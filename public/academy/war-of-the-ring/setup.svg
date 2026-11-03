@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-labelledby="t d">
+  <title id="t">War of the Ring setup, in the abstract</title>
+  <desc id="d">A schematic, not to scale. The map shows the Ring-bearers in Rivendell west of the mountains, Free Peoples armies across the West and North, and Shadow armies in Isengard, the mountains, Dol Guldur, and around Mordor, with the Mordor Track inside Mordor. The Political Track shows each Nation's starting step. Below are the Fellowship Track at 0, the Guide box with Gandalf the Grey, the Fellowship box with seven Companions, the empty Hunt Box and the Hunt Pool, and each side's dice and Event decks.</desc>
+  <defs>
+    <rect id="fp" width="9" height="9" rx="2" fill="#2F5D50" stroke="#2B1E16" stroke-width="0.6"/>
+    <rect id="sh" width="9" height="9" rx="2" fill="#2B1E16" stroke="#2B1E16" stroke-width="0.6"/>
+  </defs>
+  <rect width="480" height="320" fill="#F6EFE3"/>
+  <g font-family="system-ui, sans-serif" font-size="12" fill="#2B1E16">
+
+    <!-- Map panel -->
+    <rect x="10" y="10" width="280" height="200" rx="12" fill="#2F5D50" fill-opacity="0.08" stroke="#B9AD9C" stroke-width="1.5"/>
+    <text x="22" y="28" font-size="13" font-weight="700">The map, in the abstract</text>
+    <!-- Mountain line, impassable -->
+    <path d="M150 40 L156 66 L150 92 L158 118 L152 140" fill="none" stroke="#2B1E16" stroke-width="2.5" stroke-linecap="round"/>
+    <!-- Mordor -->
+    <path d="M196 142 L282 142 L282 202 L196 202 Z" fill="#2B1E16" fill-opacity="0.85"/>
+    <text x="204" y="158" fill="#F6EFE3" font-weight="700">Mordor</text>
+    <text x="204" y="196" fill="#F6EFE3">Mordor Track</text>
+    <g fill="none" stroke="#E0A23B" stroke-width="1.5">
+      <circle cx="218" cy="174" r="5"/><circle cx="230" cy="174" r="5"/><circle cx="242" cy="174" r="5"/>
+      <circle cx="254" cy="174" r="5"/><circle cx="266" cy="174" r="5"/>
+    </g>
+    <circle cx="276" cy="174" r="5" fill="#E0A23B"/>
+
+    <!-- Rivendell and the Ring-bearers, west of the mountains -->
+    <circle cx="128" cy="64" r="11" fill="#F6EFE3" stroke="#2F5D50" stroke-width="2"/>
+    <circle cx="128" cy="64" r="5" fill="#E0A23B" stroke="#2B1E16" stroke-width="0.8"/>
+    <text x="110" y="60" text-anchor="end" font-weight="700">Rivendell</text>
+    <text x="110" y="74" text-anchor="end">Ring-bearers</text>
+
+    <!-- Free Peoples armies in the West and North -->
+    <use href="#fp" x="24" y="90"/><use href="#fp" x="70" y="104"/><use href="#fp" x="168" y="104"/>
+    <use href="#fp" x="206" y="60"/><use href="#fp" x="240" y="44"/><use href="#fp" x="262" y="56"/>
+    <use href="#fp" x="104" y="146"/><use href="#fp" x="176" y="160"/><use href="#fp" x="186" y="184"/>
+
+    <!-- Shadow armies: Isengard, the mountains, Dol Guldur, the South, around Mordor -->
+    <use href="#sh" x="132" y="150"/><use href="#sh" x="160" y="48"/><use href="#sh" x="160" y="84"/>
+    <use href="#sh" x="208" y="104"/><use href="#sh" x="242" y="122"/><use href="#sh" x="266" y="122"/>
+    <use href="#sh" x="228" y="40"/>
+
+    <!-- Legend -->
+    <use href="#fp" x="22" y="168"/><text x="36" y="177">Free Peoples armies</text>
+    <use href="#sh" x="22" y="186"/><text x="36" y="195">Shadow armies</text>
+
+    <!-- Political Track -->
+    <rect x="300" y="10" width="170" height="200" rx="12" fill="#2F5D50" fill-opacity="0.08" stroke="#B9AD9C" stroke-width="1.5"/>
+    <text x="312" y="28" font-size="13" font-weight="700">Political Track</text>
+    <rect x="310" y="36" width="150" height="40" rx="6" fill="#F6EFE3" stroke="#B9AD9C"/>
+    <text x="318" y="52">Rohan, North,</text>
+    <text x="318" y="68">Elves, Dwarves</text>
+    <rect x="310" y="82" width="150" height="40" rx="6" fill="#F6EFE3" stroke="#B9AD9C"/>
+    <text x="318" y="98">Gondor, Southrons</text>
+    <text x="318" y="114">and Easterlings</text>
+    <rect x="310" y="128" width="150" height="34" rx="6" fill="#F6EFE3" stroke="#B9AD9C"/>
+    <text x="318" y="149">Sauron, Isengard</text>
+    <rect x="310" y="168" width="150" height="34" rx="6" fill="#2F5D50"/>
+    <text x="318" y="189" fill="#F6EFE3" font-weight="700">At War</text>
+    <text x="378" y="189" fill="#F6EFE3">(empty)</text>
+
+    <!-- Row A -->
+    <rect x="10" y="218" width="150" height="44" rx="8" fill="#F6EFE3" stroke="#B9AD9C"/>
+    <text x="18" y="235" font-weight="700">Fellowship Track</text>
+    <text x="18" y="252">Both counters on 0</text>
+    <rect x="166" y="218" width="124" height="44" rx="8" fill="#F6EFE3" stroke="#B9AD9C"/>
+    <text x="174" y="235" font-weight="700">Guide box</text>
+    <text x="174" y="252">Gandalf the Grey</text>
+    <rect x="296" y="218" width="174" height="44" rx="8" fill="#F6EFE3" stroke="#B9AD9C"/>
+    <text x="304" y="235" font-weight="700">Fellowship box</text>
+    <text x="304" y="252">7 Companions</text>
+
+    <!-- Row B -->
+    <rect x="10" y="268" width="150" height="44" rx="8" fill="#2F5D50" fill-opacity="0.15" stroke="#2F5D50"/>
+    <text x="18" y="285" font-weight="700">Free Peoples</text>
+    <text x="18" y="302">4 dice, 2 decks, 3 Rings</text>
+    <rect x="166" y="268" width="124" height="44" rx="8" fill="#E0A23B" fill-opacity="0.25" stroke="#E0A23B"/>
+    <text x="174" y="285" font-weight="700">Hunt Box: empty</text>
+    <text x="174" y="302">Hunt Pool: cup</text>
+    <rect x="296" y="268" width="174" height="44" rx="8" fill="#2B1E16" fill-opacity="0.12" stroke="#2B1E16"/>
+    <text x="304" y="285" font-weight="700">Shadow</text>
+    <text x="304" y="302">7 dice, 2 decks</text>
+  </g>
+</svg>

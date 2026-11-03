@@ -1,0 +1,101 @@
+title: "Seven Lands, Fourteen Peoples"
+game: "Terra Mystica"
+format: masterclass
+order: 385
+wave: "6"
+draft: false
+publisher: "Feuerland Spiele (English edition: Capstone Games)"
+notice: "Unofficial. Not affiliated with Feuerland Spiele, Capstone Games, or Z-Man Games. Terra Mystica is a trademark of Feuerland Spiele."
+# Rules: the English rulebook Capstone links from its Terra Mystica product page (file name
+# EN_terra_mystica_rules-3rd_CG_web.pdf, copyright 2012 Feuerland Spiele). Balance: Feuerland's
+# "Startpunkte der Völker" table (September 2020), which replaces the flat 20 starting points.
+# Players, play time, and age match the Z-Man English edition listing (2 to 5, 60 to 150 minutes, 12+).
+rulesEdition: "Terra Mystica English rulebook, third edition (Capstone Games), with Feuerland's faction starting points table (September 2020)"
+rulesSource: "https://capstone-games.com/cdn/shop/files/EN_terra_mystica_rules-3rd_CG_web.pdf"
+players: "2 to 5"
+playTime: "60 to 150 minutes"
+ages: "Ages 12 and up"
+promise: "Learn Terra Mystica and teach it in one sitting, then master spades, the power bowls, all 14 factions, cults, and endgame math, and play your first tournament."
+description: "A free Terra Mystica course: learn and teach the rules, then master spades, power bowls, all 14 factions, cults, towns, endgame scoring, and online tournaments."
+audience:
+  - "New players who want the rules right before the first Dwelling goes down."
+  - "Hosts who teach Terra Mystica and want the table playing well by round two."
+  - "Players who know the rules but keep running out of Workers, Power, or time."
+  - "Players ready for expansions, faction auctions, and online tournaments."
+levels:
+  - level: 0
+    name: "Groundbreaker"
+    label: "Learn to play"
+    outcome: "Set up the introductory game, teach the eight actions, and finish six rounds with the rules right."
+  - level: 1
+    name: "Homesteader"
+    label: "Beginner"
+    outcome: "Avoid the rules slips that cost new players points, and play a first game with a plan built from the Scoring tiles."
+  - level: 2
+    name: "Landshaper"
+    label: "Intermediate"
+    outcome: "Run the power cycle on purpose, decide leech offers with simple math, and choose where and how to dig."
+  - level: 3
+    name: "Townbuilder"
+    label: "Advanced"
+    outcome: "Play all 14 base factions with a plan and turn cult tracks and Favor tiles into points and income."
+  - level: 4
+    name: "Contender"
+    label: "Tournament ready"
+    outcome: "Count area, cult, and resource points before round six, and know the expansions, maps, and balance tables events use."
+  - level: 5
+    name: "Champion"
+    label: "The championship path"
+    outcome: "Find a Terra Mystica league or tournament, practice online with purpose, and follow a six-week plan into competitive play."
+afterLesson3: "Teach the introductory game and play it without the rules slips that trip up most new tables."
+afterLesson8: "Play every base faction with a plan, run your power cycle on purpose, and score the cult tracks well."
+faq:
+  - q: "How do you win Terra Mystica?"
+    a: "Have the most Victory points after six rounds. Everyone starts on 20. You score during the game from Scoring tiles, Bonus cards, Favor tiles, and Towns, then at the end for cult majorities, your largest connected area, and leftover resources."
+  - q: "What are the best Terra Mystica factions for beginners?"
+    a: "The rulebook's introductory game uses the Witches, Nomads, Halflings, and Mermaids at four players, and those are a good first set. Feuerland's own balance table suggests the Fakirs are the weakest on the base map and the Darklings, Cultists, and Engineers the strongest."
+  - q: "How does Power work in Terra Mystica?"
+    a: "Each player has 12 Power tokens in three Bowls. Gaining Power moves tokens from Bowl I to II, and only once Bowl I is empty from II to III. You can spend only tokens in Bowl III, and spent tokens go back to Bowl I."
+  - q: "Do you lose points for taking Power in Terra Mystica?"
+    a: "Yes, when the Power comes from an opponent building next to you. You lose one Victory point fewer than the Power you gain, so 1 Power is free and 3 Power costs 2 points. You take all of it or none of it."
+  - q: "Can you play Terra Mystica with two players?"
+    a: "Yes. The game plays 2 to 5 and uses five Bonus cards at two players. The map is open at two, so expect less Power from neighbors and more room to spread out."
+teachSheet:
+  goal: "Have the most Victory points after six rounds. Everyone starts on 20."
+  setup:
+    - "Board and Cult board in the middle. First game: use the rulebook's fixed factions and Dwellings."
+    - "Take your Faction board, buildings, Priests, Bridges, and Markers. Starting resources are on your board."
+    - "Markers: Shipping 0, Exchange at 3 Workers per Spade, score 20, all four cults on 0."
+    - "Move up on the cults your board shows. Put 12 Power in Bowls I and II as shown."
+    - "Lay out Scoring tiles for rounds 1 to 6. Game end token covers half of round 6."
+    - "Use Bonus cards equal to players plus 3. Lay out Favor tiles and the 10 Town tiles."
+    - "Place two Dwellings each: clockwise, then back counterclockwise. Last player picks a Bonus card first."
+  turn:
+    - "Income: Workers, Coins, Priests, and Power from your boards, Bonus card, and Favor tiles."
+    - "Actions: one per turn, in order, until everyone passes."
+    - "Transform and build: dig with Spades, then build a Dwelling on your Home terrain."
+    - "Upgrade: Dwelling to Trading house, then Temple or Stronghold. One Temple becomes the Sanctuary."
+    - "Also: Shipping, cheaper Spades, Priest to a cult, Power actions, Special actions."
+    - "Neighbors: when you build next to someone, they may take Power and pay points for it."
+    - "Pass: swap your Bonus card. First to pass starts next round."
+    - "End of round: cult bonuses from the Scoring tile, then 1 Coin on each unused Bonus card."
+  scoring:
+    - "During play: the current Scoring tile, Favor tiles, Bonus cards when you pass, and Towns."
+    - "Each cult track: 8, 4, and 2 points for first, second, and third."
+    - "Biggest connected area: 18, 12, and 6 points."
+    - "Leftovers: 1 point per 3 Coins after converting what you can."
+    - "Ties split the points of the tied places, rounded down."
+  endGame: "The game ends after the Action phase of round 6. There are no cult bonuses that round, then final scoring."
+  tips:
+    - "Read all six Scoring tiles before you place a Dwelling, and plan around them."
+    - "Build near opponents: Trading houses cost less there, and you gain Power when they build."
+    - "Try not to end a round with Power in Bowl III. Spend it on a Power action or a conversion."
+diagramAlt: "An abstract Terra Mystica setup: a simplified hex map with a green river running through it and two first Dwellings for each of four players. Below the map, six Scoring tiles for rounds 1 to 6 with the Game end token on round 6, six Power action spaces each covered by an Action token, and Bonus cards equal to the number of players plus three. To the right, the Cult board with four tracks and markers on 0, the Favor tiles in a grid, the ten Town tiles, and a Faction board with three Power bowls."
+games: [terra-mystica]
+related:
+  - "area-control-board-games"
+  - "engine-building-games"
+  - "board-game-weight-explained"
+  - "analysis-paralysis-board-games"
+  - "how-to-teach-a-board-game"
+  - "expansions-worth-it"

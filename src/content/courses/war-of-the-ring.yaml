@@ -1,0 +1,98 @@
+title: "One Ring, Two Wars"
+game: "War of the Ring: Second Edition"
+format: masterclass
+order: 345
+wave: "6"
+draft: false
+publisher: "Ares Games"
+notice: "Unofficial. Not affiliated with or endorsed by Ares Games or Middle-earth Enterprises. War of the Ring, The Lord of the Rings, and the names of its characters and places are trademarks of Middle-earth Enterprises, used under license by Ares Games."
+rulesEdition: "War of the Ring Second Edition rulebook, version 2.3 (Ares Games, 2011 and 2016); the Anniversary Release uses the same rules"
+rulesSource: "https://aresgames.eu/5712"
+players: "2 to 4 (best at 2)"
+playTime: "150 to 180 minutes"
+ages: "Ages 13 and up"
+promise: "Learn and teach War of the Ring, master the action dice, the Hunt, and battle math, then play both sides with a plan and take your first step into tournament play."
+description: "A free War of the Ring course: learn and teach the rules, action dice, the Hunt and Corruption, combat and sieges, strategy for both sides, and tournament play."
+audience:
+  - "New players who own the big box and want the rules clear before the first game."
+  - "Hosts teaching a friend who loves the books but has never played a war game."
+  - "Players who keep losing one side and want a real plan for it."
+  - "Fans ready for expansions, tournament bidding, or the World Boardgaming Championships."
+levels:
+  - level: 0
+    name: "Traveler"
+    label: "Learn to play"
+    outcome: "Set up, teach, and finish a game of War of the Ring with the turn, the Hunt, and battles played right."
+  - level: 1
+    name: "Scout"
+    label: "Beginner"
+    outcome: "Avoid the rules slips most new tables make, and play either side toward one of the four victory conditions on purpose."
+  - level: 2
+    name: "Captain"
+    label: "Intermediate"
+    outcome: "Spend every action die with intent, and run or survive the Hunt for the Ring knowing the odds of each move."
+  - level: 3
+    name: "Marshal"
+    label: "Advanced"
+    outcome: "Choose battles and sieges by the numbers, and run a Shadow game plan that pressures both the map and the Ring."
+  - level: 4
+    name: "Contender"
+    label: "Tournament ready"
+    outcome: "Play the Free Peoples with a timing plan, and know what each player count and expansion changes."
+  - level: 5
+    name: "Champion"
+    label: "The championship path"
+    outcome: "Find a War of the Ring tournament, understand bidding and time limits, and follow a practice plan into your first event."
+afterLesson3: "Teach a first game and play it without the rules slips that trip up most new tables."
+afterLesson8: "Use your action dice, the Hunt odds, and battle math to play the Shadow with a clear plan."
+faq:
+  - q: "How long does War of the Ring take to play?"
+    a: "Plan on about three hours for two experienced players, and longer for a first game. The World Boardgaming Championships event gives each game a four-hour limit."
+  - q: "What is the difference between War of the Ring Second Edition and the Anniversary edition?"
+    a: "The Anniversary Release is a deluxe version of the Second Edition with painted figures and a larger board. It uses the same rules and cards, and the regular expansions work with both."
+  - q: "How do you win War of the Ring?"
+    a: "There are four ways. The Free Peoples win by destroying the Ring at the Crack of Doom or by holding Shadow Cities and Strongholds worth 4 victory points. The Shadow wins when the Ring-bearers reach 12 Corruption or by holding Free Peoples Cities and Strongholds worth 10 victory points."
+  - q: "Can you play War of the Ring with three or four players?"
+    a: "Yes. With three, one player runs the Free Peoples and two share the Shadow. With four, each side is a team of two, and each player controls certain Nations. Most players think it is best at two."
+  - q: "Which side is harder to play in War of the Ring?"
+    a: "New players often find the Free Peoples harder, because they have fewer dice and must split them between the Fellowship and the armies. Tournaments use a bidding system before the game so players can balance the sides."
+teachSheet:
+  goal: "Free Peoples: destroy the Ring or take 4 Shadow points. Shadow: corrupt the Ring-bearers to 12 or take 10 points."
+  setup:
+    - "Ring-bearers in Rivendell. Progress counter on 0, Hidden side up. Corruption counter on 0."
+    - "Companion cards in the Guide box, Gandalf the Grey on top. Figures in the Fellowship box."
+    - "Shuffle four Event decks. Standard Hunt tiles in a cup, special tiles aside."
+    - "Shadow takes 7 red action dice, Free Peoples take 4 blue. Elven Rings to the Free Peoples."
+    - "Political counters on their marked steps. All Free Peoples Nations passive except the Elves."
+    - "Place starting armies from the setup chart. Everything else is reinforcements."
+  turn:
+    - "Recover dice and draw one card from each of your two decks. Hand limit is six."
+    - "Fellowship phase: the Free Peoples may declare the Fellowship and change the Guide."
+    - "Hunt allocation: the Shadow puts dice in the Hunt Box, up to one per Companion."
+    - "Roll. Every Shadow Eye goes straight to the Hunt Box."
+    - "Take turns using one die each, Free Peoples first: move, attack, muster, play cards, or move the Fellowship."
+    - "Each Fellowship move triggers a Hunt roll. Every 6 is a success, plus 1 per die already moved."
+    - "Battle: roll one die per unit up to five, hit on 5 or 6. Leaders re-roll misses."
+    - "Victory check at the end of the turn for military wins."
+  scoring:
+    - "Each enemy City you hold is worth 1 victory point."
+    - "Each enemy Stronghold you hold is worth 2 victory points."
+    - "Shadow needs 10 points. Free Peoples need 4."
+    - "Corruption reaches 12 at any moment: the Shadow wins at once."
+    - "Ring-bearers reach the Crack of Doom under 12 Corruption: the Free Peoples win at once."
+  endGame: "The two Ring victories end the game the moment they happen. The two military victories are checked in the last phase of each turn."
+  tips:
+    - "Teach the Fellowship and the Hunt first. They make the game different from every other war game."
+    - "Moving the Fellowship twice in one turn makes the Hunt much easier. Say this out loud."
+    - "Only Nations at War can muster, attack, or cross other borders. Check the Political Track before planning."
+diagramAlt: "A schematic of War of the Ring at setup, not to scale. The map fills the middle with the Ring-bearers in Rivendell, the free West on the left and Mordor on the right. Around it: the Fellowship Track with both counters on 0, the Guide box with Gandalf the Grey, the Fellowship box with seven Companions, the empty Hunt Box, a cup of standard Hunt tiles, the Political Track with each Nation's starting step, the Mordor Track, and each side's two Event decks and action dice, 4 blue and 7 red."
+games: [war-of-the-ring-2e]
+related:
+  - "area-control-board-games"
+  - "luck-vs-skill-board-games"
+  - "board-game-weight-explained"
+  - "analysis-paralysis-board-games"
+  - "how-to-teach-a-board-game"
+  - "theme-vs-mechanics"
+  - "expansions-worth-it"
+  - "how-to-run-a-board-game-tournament"
