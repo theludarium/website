@@ -28,6 +28,12 @@ const MODULES = [...lib.matchAll(/\{ module: (\d), name: '([^']+)', label: '([^'
 }));
 const RANK_AT = { 3: 'Apprentice', 6: 'Journeyman' };
 
+// Certification fee, kept in step with src/lib/config.ts.
+const config = fs.readFileSync('src/lib/config.ts', 'utf8');
+const configValue = (name) => config.match(new RegExp(`export const ${name} = '([^']+)'`))[1];
+const CERT_PRICE = configValue('GUILD_CERT_PRICE');
+const CERT_FREE_BEFORE = configValue('GUILD_CERT_FREE_BEFORE').replace(/, \d{4}$/, '');
+
 const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 const plain = (md) =>
   md
@@ -61,7 +67,7 @@ const emails = lessons.map((l, i) => {
   let ps = '';
   if (n === 1) ps = `Your toolkit is ready: <a href="${SITE}/academy/guild/kit/?${utm('kit')}">every printable from the training</a>, in one place. Bookmark it; each lesson tells you which one its drill uses.`;
   else if (n === 2) ps = 'Hit reply and tell me who you most want to play games with. I read every reply.';
-  else if (n === total) ps = `This is the last lesson. Your final step is the <a href="${SITE}/academy/guild/capstone/?${utm('capstone')}">capstone</a>: teach one newcomer and tell us how it went. If they said yes to another game, you earn the title Expert Game Guide.`;
+  else if (n === total) ps = `This is the last lesson. Your final step is the <a href="${SITE}/academy/guild/capstone/?${utm('capstone')}">capstone</a>: teach one newcomer and tell us how it went. If they said yes to another game, you earn the title Expert Game Guide. The training stays free; the capstone review is ${CERT_PRICE} and covers one resubmission. Joined the Guild before ${CERT_FREE_BEFORE}? Tick the early-member box and your review is free.`;
   const rank = newModule && RANK_AT[l.module];
   const parts = [
     `<p>Hi {{ subscriber.first_name | default: "there" }},</p>`,
