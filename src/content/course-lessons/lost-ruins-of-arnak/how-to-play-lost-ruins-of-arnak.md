@@ -11,7 +11,7 @@ oneIdea: "Every turn is one main action plus any free actions, and every card do
 tryThis: "In your first game, say out loud which main action you are taking and which cards you are spending for travel, every turn, until nobody needs the reminder."
 nextTeaser: "Next, the ten-minute teach: a host script in the order you would say it, so the whole table can start exploring together."
 ---
-Lost Ruins of Arnak sends your expedition to an uncharted island to find artifacts, face its guardians, and piece together the story of a vanished civilization. Under the adventure sit two classic ideas: you build a deck of cards, and you send workers, here two archaeologists, to places on a shared board. Our explainers on [deck building](/articles/deck-building-games-explained/) and [worker placement](/articles/worker-placement-explained/) cover the background.
+Lost Ruins of Arnak sends your expedition to an uncharted island to find artifacts, face its guardians, and piece together the story of a vanished civilization. Under the adventure sit two classic ideas: you build a deck of cards, and you send workers, here two archaeologists, to places on a shared board. It plays 1 to 4 players, with a solo mode in the box. Our explainers on [deck building](/articles/deck-building-games-explained/) and [worker placement](/articles/worker-placement-explained/) cover the background.
 
 This lesson follows the current English rulebook from Czech Games Edition and uses its terms. The resources you will hear about are coins, compasses, tablets, arrowheads, and jewels.
 

@@ -11,7 +11,7 @@ oneIdea: "Every turn you use one of five action cards, and the slot it sits in s
 tryThis: "Play your first game on Map A with the official starting decks, a free PDF on Capstone's Ark Nova page, so nobody spends twenty minutes choosing 4 cards out of 8."
 nextTeaser: "Next, the fifteen-minute teach: a host script in the order you say it, what to leave out, and how to coach a first game."
 ---
-Ark Nova is a game about building a modern zoo. You build enclosures, bring in animals, hire sponsors, and support conservation projects around the world. Every turn is one action, chosen from a row of five cards. Underneath the animals sits a clever timing puzzle.
+Ark Nova is a game about building a modern zoo. You build enclosures, bring in animals, hire sponsors, and support conservation projects around the world. Every turn is one action, chosen from a row of five cards. Underneath the animals sits a clever timing puzzle. It plays 1 to 4 players, with a solo mode in the box.
 
 It is also a big game. Board Game Arena rates it 4 out of 5 for complexity, and it is the one heavy pick on our [best board games of 2026](/articles/best-board-games-2026/) list. Our [board game weight explainer](/articles/board-game-weight-explained/) shows what that means at the table. This lesson covers the rules in the current English rulebook, version 2.0, then ends with a short script for teaching them.
 

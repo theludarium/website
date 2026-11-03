@@ -1,6 +1,6 @@
 ---
-title: "Wingspan Expansions, Variants, and Player Counts"
-description: "Wingspan expansions compared, from the European Expansion to Oceania, Asia, and Americas, which one to get first, plus variants and solo to five players."
+title: "Wingspan Player Count, Expansions, and Variants"
+description: "Wingspan plays 1 to 5 players, and Wingspan Asia adds 6 or 7 with Flock mode. Every expansion compared, which to get first, plus solo, Duet, and variants."
 course: wingspan
 order: 12
 level: 2
@@ -11,17 +11,23 @@ oneIdea: "Learn the base game well, then add one box at a time. Each expansion c
 tryThis: "Play your next game on the other side of the goal board from the one you usually use, and ask the table afterward whether they want more competition or less."
 nextTeaser: "Level 3 begins with bird evaluation: how to price any bird in turns, eggs, and points, so the right card stands out in your hand."
 ---
+Wingspan plays 1 to 5 players, with a solo Automa opponent in the box. The European and Oceania expansions keep that 1 to 5 range, and Wingspan Asia adds a two-player Duet mode plus a Flock mode for 6 or 7 players.
+
 Wingspan has grown into a whole aviary: four expansions, a standalone small-box game, promo packs, and accessories. That is a gift and a trap. Add too much at once and a new player faces a pile of rules before the first bird lands. Add one thing at a time and the game can grow with your group for years.
 
 This lesson starts with what changes at different player counts, then the official variants, then each of the Wingspan expansions worth knowing and which one to get first.
 
-## How does the game change by player count?
+## How many players
 
-The base game plays 1 to 5. The round structure is the same at every count: 8, 7, 6, and 5 turns.
+The round structure is the same at every count: 8, 7, 6, and 5 turns. The rules only change at 1 player and at 6 or 7.
 
-- **Two players:** calm and puzzle-like. The tray and birdfeeder change less between your turns, so plans hold up. Every goal is a head-to-head race.
-- **Three or four:** the classic table. Enough competition for goals and face-up birds to matter, without long waits.
-- **Five:** the most crowded. The tray and feeder shift a lot between turns, and the wait between your turns grows. Keep plans short and flexible.
+| Players | What changes, and how it plays |
+| --- | --- |
+| 1 | You play against the Automa, a solo opponent run by a small card deck. You take the first turn of each round; it takes the last. |
+| 2 | Same rules as the base game. Calm and puzzle-like: the tray and birdfeeder change less between your turns, and every goal is a head-to-head race. Wingspan Asia's Duet mode adds a shared map for two. |
+| 3 or 4 | Same rules. The classic table: enough competition for goals and face-up birds to matter, without long waits. |
+| 5 | Same rules, the most crowded base game. The tray and feeder shift a lot between turns, so keep plans short. |
+| 6 or 7 | Needs Wingspan Asia's Flock mode plus the base game's player components. The table splits into two groups, each with its own birdfeeder and tray, and two players take turns at once. |
 
 Our guide to [board games for couples](/articles/board-games-for-couples/) covers how Wingspan feels at two.
 

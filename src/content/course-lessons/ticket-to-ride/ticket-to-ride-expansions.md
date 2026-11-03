@@ -1,6 +1,6 @@
 ---
-title: "Ticket to Ride Player Counts, Variants, and Maps"
-description: "Ticket to Ride at 2 to 5 players, the USA 1910 expansion and its three variants, Europe, the Map Collection, and which Ticket to Ride map to try after the USA."
+title: "Ticket to Ride Player Count, Variants, Maps, and 6 Players"
+description: "Ticket to Ride plays 2 to 5 players, and the Old West map in the France and Old West box seats 6. How each count plays, USA 1910 variants, and which map next."
 course: ticket-to-ride
 order: 8
 level: 1
@@ -11,15 +11,20 @@ oneIdea: "Play the USA map until your group knows it well, then change one thing
 tryThis: "Before you buy anything new, play one game at a player count you rarely use. Two players on the USA map feels like a different game."
 nextTeaser: "Next, Level 2 begins with the midgame: managing your hand, choosing when to claim, and reading what every other player is building."
 ---
+Ticket to Ride plays 2 to 5 players, and there is no official solo mode. For a sixth player, the Old West map in the France and Old West expansion is designed for 2 to 6, and it adds a sixth set of trains.
+
 Ticket to Ride has grown into a whole family: new tickets for the original map, new maps with their own twists, standalone editions, a legacy campaign, and kids' versions. That is a gift and a trap. Add too much at once and the clean three-choice turn gets buried. Change one thing at a time and the game grows with your group for years.
 
-## How does the game change by player count?
+## How many players
 
-The base game plays 2 to 5.
+The base game plays 2 to 5. The one rule that changes is the double routes.
 
-- **Two players:** only one route of each double pair can be claimed, so the few true bottlenecks, cities with only two or three ways in, matter most, even though most of the board stays open.
-- **Three players:** the same double-route rule, with a third railroad competing for the same space. Every bottleneck now has two rivals.
-- **Four or five players:** both routes of a double pair open up, but more players want the same cities. More happens between your turns, so routes disappear fast.
+| Players | What changes |
+| --- | --- |
+| 2 | Only one route of each double pair can be claimed. The few true bottlenecks, cities with only two or three ways in, matter most, even though most of the board stays open. |
+| 3 | The same double-route rule, with a third railroad competing for the same space. Every bottleneck now has two rivals. |
+| 4 to 5 | Both routes of a double pair open up, though one player still cannot claim both. More players want the same cities, so routes disappear fast. |
+| 6 | Only on the Old West map. Double and triple routes stay fully open, and each player gets 40 trains instead of 45. |
 
 If your group likes a calm, planning game, play with fewer. If it likes table talk and surprises, play with more. Our piece on [player count design](/articles/player-count-design/) explains why one double-route rule does so much work.
 
@@ -48,7 +53,7 @@ The Mega Game is the version used in the later rounds of the World Boardgaming C
 The Map Collection boxes are new boards with their own tickets and one or two new rules each. Days of Wonder says they require an original copy of Ticket to Ride or Ticket to Ride: Europe to play.
 
 - **[United Kingdom and Pennsylvania](https://www.amazon.com/dp/B015OWB3GS?tag=cubecommonw0a-20):** the UK map (2 to 4) adds Tech cards and starts everyone with limited technology; Pennsylvania (2 to 5) adds stock shares in rail companies.
-- **[France and Old West](https://www.amazon.com/dp/B077697S51?tag=cubecommonw0a-20):** on France, you lay down track as you draw, and anyone may claim it. Old West seats up to 6 and starts every player from a home city.
+- **[France and Old West](https://www.amazon.com/dp/B077697S51?tag=cubecommonw0a-20):** on France, you lay down track as you draw, and anyone may claim it. Old West seats up to 6 and starts every player from a home city. It includes 40 white trains for the sixth player; everyone else uses trains and cards from a base game.
 - **[India and Switzerland](https://www.amazon.com/dp/B005OQ2ZY4?tag=cubecommonw0a-20):** Switzerland is built for 2 and 3 players, with tickets that run to and between the neighboring countries.
 - **[Japan and Italy](https://www.amazon.com/dp/B07YCWF42Y?tag=cubecommonw0a-20)** adds bullet trains on Japan and ferries on Italy, and **[Nederland](https://www.amazon.com/dp/B00G3HT1TA?tag=cubecommonw0a-20)** (2 to 5) brings money into the game with bridge tolls.
 

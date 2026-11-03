@@ -1,6 +1,6 @@
 ---
-title: "Dominion Player Counts, Variants, and Expansions"
-description: "Dominion at 2 to 6 players, the recommended kingdoms in the base box, solo practice, and which expansion to add first, from Intrigue and Seaside to Prosperity."
+title: "Dominion Player Count, Variants, and Expansions"
+description: "Dominion plays 2 to 4 players, or 5 or 6 with extra Base cards. Setup for 2 players, the kingdoms in the box, solo practice, and which expansion to add first."
 course: dominion
 order: 15
 level: 3
@@ -11,9 +11,11 @@ oneIdea: "The base box already holds hundreds of different games. Play its recom
 tryThis: "Play the rulebook's Size Distortion kingdom next, then a fully random kingdom from the randomizer cards. Note which one your group wants to replay."
 nextTeaser: "Level 4 begins with the two-player duel: why one opponent changes the math, from the Province split to who wins a tie."
 ---
+Dominion plays 2 to 4 players out of the box, and 5 or 6 with the Base Cards set or a second copy. It has no official solo mode. For 2 players, set out 8 Estates, 8 Duchies, 8 Provinces, and 10 Curses, and use 8 copies of any Victory Kingdom card, such as Gardens.
+
 Dominion has more expansions than most players will ever own. That is a gift, and it can be a trap. The base box alone has 26 Kingdom cards, and any 10 of them make a game. Before buying anything, it helps to see how much the base box can do, and how the game shifts as your group grows.
 
-## How does the game change by player count?
+## How many players, and setup for each count
 
 The base box plays 2 to 4. The setup counts change with the table:
 
@@ -26,6 +28,8 @@ The base box plays 2 to 4. The setup counts change with the table:
 | 6 | 12 Estates, 12 Duchies, 18 Provinces | 50 | Provinces, or any 4 empty piles |
 
 Five and six players need more Base cards: the rulebook points to the Base Cards product, or a second copy of Dominion.
+
+<!-- VERIFY: confirm in the 2nd edition base rulebook that it names the Base Cards set or a second copy for 5 or 6 players (retailer listings confirm Base Cards; the 'second copy' option is unconfirmed) -->
 
 - **Two players:** the most strategic count. You can track one opponent's whole deck, and every Province is a clear swing.
 - **Three or four:** attacks hit more people, piles drain faster, and the game moves more between your turns. Militia and Witch get stronger.

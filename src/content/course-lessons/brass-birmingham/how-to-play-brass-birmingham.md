@@ -11,7 +11,7 @@ oneIdea: "Brass: Birmingham is one system played twice. In each era you build in
 tryThis: "Before your first game, set up alone and play two turns for one imaginary player, saying out loud where every coal, iron, and beer comes from."
 nextTeaser: "Next, the teach itself: a host script in the order you would say it, with one example for each resource and the Rail Era rules saved for the break."
 ---
-Brass: Birmingham puts you in the West Midlands during the Industrial Revolution, from 1770 to 1870. You build industries, link towns with canals and then railways, and score victory points (VPs). Roxley calls it the number 1 game on BoardGameGeek. Each rule counts.
+Brass: Birmingham puts you in the West Midlands during the Industrial Revolution, from 1770 to 1870. You build industries, link towns with canals and then railways, and score victory points (VPs). It plays 2 to 4 players. Roxley calls it the number 1 game on BoardGameGeek. Each rule counts.
 
 This lesson follows the current Roxley rulebook and doubles as your teaching script. The [teach sheet](/academy/brass-birmingham/teach-sheet/) puts the whole game on one printed page.
 

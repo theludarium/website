@@ -21,12 +21,13 @@ const { course } = Astro.props;
 const d = course.data;
 const s = d.teachSheet;
 const home = courseUrl(course);
-const pageTitle = [`${d.game} Teach Sheet: Teach It in Ten Minutes`, `${d.game} Teach Sheet`, `Teach Sheet: ${d.title}`].find((t) => t.length <= 55) ?? `${d.game} Teach Sheet`;
+// "Cheat sheet" is what people search for; "teach sheet" is our name for it.
+const pageTitle = [`${d.game} Cheat Sheet: Printable One-Page Teach Sheet`, `${d.game} Cheat Sheet: One-Page Teach Sheet`, `${d.game} Cheat Sheet`, `${d.game} Teach Sheet`].find((t) => t.length <= 55) ?? `${d.game} Teach Sheet`;
 ---
 
 <BaseLayout
   title={pageTitle}
-  description={`A free one-page ${d.game} teach sheet from The Ludarium: setup, a turn, scoring, and three tips, ready to print for your next game night.`.slice(0, 160)}
+  description={`A free printable ${d.game} cheat sheet: setup, a turn, scoring, and three tips on one page. Teach the game in ten minutes and keep it on the table.`.slice(0, 160)}
   noindex={d.draft}
   games={d.games}
 >

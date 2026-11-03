@@ -11,7 +11,7 @@ oneIdea: "Every turn, each of your two dice does one job, and its number decides
 tryThis: "For your first game, give everyone the same duchy board, number 1, and say out loud what each die will do before you spend it."
 nextTeaser: "Next, the ten-minute teach. You get a host script in the order you would say it, so the table starts rolling before the rules pile up."
 ---
-The Castles of Burgundy is a game about turning dice into a kingdom, one hexagon at a time. You are a duke in 15th century Burgundy. Over 25 rounds you roll two dice, and each die buys one action: take a tile, build a tile, sell goods, or hire workers. By the end, your board is a patchwork of castles, towns, rivers, pastures, and mines, and the best-scoring patchwork wins.
+The Castles of Burgundy is a game about turning dice into a kingdom, one hexagon at a time. You are a duke in 15th century Burgundy. Over 25 rounds you roll two dice, and each die buys one action: take a tile, build a tile, sell goods, or hire workers. By the end, your board is a patchwork of castles, towns, rivers, pastures, and mines, and the best-scoring patchwork wins. The base game plays 2 to 4 players, and the current box adds a solo mode.
 
 This lesson follows the current Ravensburger and alea edition, the reissue with several expansions in the box. Everything here is the base game. Leave the expansions out for now; the [expansions lesson](/academy/castles-of-burgundy/castles-of-burgundy-expansions/) covers them at Level 2.
 

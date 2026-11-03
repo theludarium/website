@@ -1,6 +1,6 @@
 ---
-title: "Arnak Player Counts, Solo Play, and Expansions"
-description: "Lost Ruins of Arnak at 1 to 4 players, the solo rival, the Snake Temple side, free downloads, and the expansions from Expedition Leaders to Twisted Paths."
+title: "Lost Ruins of Arnak Player Count, Solo Play, and Expansions"
+description: "Lost Ruins of Arnak plays 1 to 4 players, with a solo rival in the box. What changes at each count, the Snake Temple side, and which expansion to add first."
 course: lost-ruins-of-arnak
 order: 15
 level: 4
@@ -11,15 +11,20 @@ oneIdea: "The base box already holds three ways to change the game: player count
 tryThis: "Play your next game on the Snake Temple side, or try a solo game against the rival at difficulty 2, before you decide whether you need an expansion."
 nextTeaser: "Next, the hardest opponent in the box: how the solo rival plays, and how to beat it with all five red tiles."
 ---
+Lost Ruins of Arnak plays 1 to 4 players, and the base box includes a solo mode against a rival expedition. The expansions keep that range; The Missing Expedition adds a campaign for one player or two working together. <!-- VERIFY: confirm on the CGE pages that Expedition Leaders and Twisted Paths list 1 to 4 players. -->
+
 Welcome to Level 4. You have the core game down, so this level is about the hardest challenges Arnak offers. It starts with what changes it: player count, board side, the solo rival in the base box, and the expansions. Before you shop for expansions, it is worth knowing what you already own. For a general way to think about add-ons, our guide to [when expansions are worth it](/articles/expansions-worth-it/) has a simple test.
 
-## Two, three, or four players
+## How many players
 
 The board adjusts for player count with blocking tiles at the 5 starting sites.
 
-- **Four players:** no blocking. Every starting site has two spaces.
-- **Three players:** 3 starting sites, picked at random, lose their second space.
-- **Two players:** all 5 lose their second space, so each starting site holds one archaeologist.
+| Players | What changes |
+| --- | --- |
+| 1 | The two-player setup, plus a rival run by action tiles. Covered below. |
+| 2 | All 5 starting sites lose their second space, so each holds one archaeologist. |
+| 3 | 3 starting sites, picked at random, lose their second space. |
+| 4 | No blocking. Every starting site has two spaces. |
 
 The research track adjusts too. Temple tile stacks and the Lost Temple bonus stack have one tile per player, and some bonus tile spaces are used only with 3 or 4 players. The publisher lists about 30 minutes per player, so a four-player game runs noticeably longer than a two-player one.
 

@@ -11,7 +11,7 @@ oneIdea: "Every turn is one pick and two placements: take a tile and the token p
 tryThis: "Play your first game with the A scoring cards, as the rulebook suggests, and read all five cards aloud before anyone takes a turn."
 nextTeaser: "Next, the ten-minute teach. You will get a host script in the order you would say it, so the whole table learns at once."
 ---
-Cascadia is a calm game about building your own corner of the Pacific Northwest. Each player grows a landscape of hexagon habitat tiles and fills it with wildlife: bears, elk, salmon, hawks, and foxes. Nobody attacks anybody. The tension lives in the shared display in the middle of the table, where every pick you make changes what the next player can take.
+Cascadia is a calm game about building your own corner of the Pacific Northwest. Each player grows a landscape of hexagon habitat tiles and fills it with wildlife: bears, elk, salmon, hawks, and foxes. It plays 1 to 4 players, with a solo mode in the box. Nobody attacks anybody. The tension lives in the shared display in the middle of the table, where every pick you make changes what the next player can take.
 
 It won the Spiel des Jahres in 2022, and part of its charm is easy to feel: on almost every turn, you can do something useful, even when the offer is not quite what you wanted. This lesson covers the rules in the current English rulebook from AEG and Flatout Games, in the same order the rulebook uses.
 

@@ -11,7 +11,7 @@ oneIdea: "Every turn you place one cube and take one of four actions. Three of t
 tryThis: "Play your first game on the blue side of the goal board, which the rulebook suggests for new players, and name the row out loud each time you use it."
 nextTeaser: "Next, the ten-minute teach. You will get a host script in the order you would say it, so the whole table learns at once."
 ---
-Wingspan is a game about attracting birds to your wildlife preserves. Each bird you play lands in one of three habitats on your player mat: forest, grassland, or wetland. Each habitat is also an action. The more birds live in a row, the more that action gives you, and their powers fire along with it. That growing machine is why people call Wingspan an engine builder.
+Wingspan is a game about attracting birds to your wildlife preserves. Each bird you play lands in one of three habitats on your player mat: forest, grassland, or wetland. Each habitat is also an action. The more birds live in a row, the more that action gives you, and their powers fire along with it. That growing machine is why people call Wingspan an engine builder. It plays 1 to 5 players, with a solo mode in the box.
 
 This lesson teaches the Wingspan rules from the current Stonemaier Games rulebook, its appendix, and the official Rules and FAQ page. Expansions wait until [the expansions lesson](/academy/wingspan/wingspan-expansions/) at Level 2.
 

@@ -1,6 +1,6 @@
 ---
-title: "Flip 7 Player Counts, Variants, and Editions"
-description: "Flip 7 at 3 players versus a crowd, the official two-player challenge, themed editions, and how Flip 7: With a Vengeance changes the game, with house rules."
+title: "Flip 7 Player Count, Variants, and Editions"
+description: "Flip 7 is for 3 or more players, with a second deck past 18 and an official challenge for two or fewer. How it changes as the table grows, plus editions."
 course: flip-7
 order: 10
 level: 3
@@ -11,7 +11,17 @@ oneIdea: "Flip 7 stretches from a quiet three-player game to a crowd of eighteen
 tryThis: "Play one game at your usual count and one with two or three more people. Note how many rounds pass before the first reshuffle each time, and which game your group liked more."
 nextTeaser: "Next, the official solo challenge as a training tool: how many rounds it takes to reach 200, the benchmarks to beat, and a practice plan."
 ---
-Flip 7 has no expansions in the usual sense. One deck plays the whole game, and the box says 3 or more. But the game feels different at three than at twelve, there is an official way to play with fewer, there are themed editions, and there is a meaner sequel. This lesson covers all of it.
+Flip 7 is for 3 or more players, as the box says, and the rulebook recommends a second deck past 18. For two or fewer there is no head-to-head game, only an official challenge: reach 200 in as few rounds as you can.
+
+One deck plays the whole game, so there are no expansions in the usual sense. This lesson covers how the game feels at three versus twelve, the challenge, themed editions, and a meaner sequel.
+
+## How many players
+
+| Players | What the rules say |
+| --- | --- |
+| 1 or 2 | No head-to-head game; play the official challenge to 200 |
+| 3 to 18 | The standard game with one deck |
+| More than 18 | Add a second deck |
 
 ## How the game changes by player count
 

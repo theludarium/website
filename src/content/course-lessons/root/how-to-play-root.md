@@ -11,7 +11,7 @@ oneIdea: "Root is one shared skeleton with four different factions hung on it. T
 tryThis: "For your first game, seat four players with the four base factions and play through the Walking Through Root booklet, reading each turn aloud before anyone plays from a private hand."
 nextTeaser: "Next, how to teach Root: a host script for the shared rules, the walkthrough route, and how to get four different factions moving in the first round."
 ---
-Root is a war game about woodland animals, and it is also four different games sharing one board. The Marquise de Cat builds an industry. The Eyrie Dynasties follow a decree. The Woodland Alliance stirs up a revolt. The Vagabond wanders between them all. Each faction scores in its own way, but they all move, fight, and craft by the same shared rules.
+Root is a war game about woodland animals for 2 to 4 players (up to 6 with the Riverfolk Expansion), and it is also four different games sharing one board. The Marquise de Cat builds an industry. The Eyrie Dynasties follow a decree. The Woodland Alliance stirs up a revolt. The Vagabond wanders between them all. Each faction scores in its own way, but they all move, fight, and craft by the same shared rules.
 
 That split is the key to learning Root and to teaching it. This lesson covers them from the current Leder Games books: the Law of Root dated October 13, 2025, and the Learning to Play guide.
 

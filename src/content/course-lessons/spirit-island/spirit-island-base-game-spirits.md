@@ -1,6 +1,6 @@
 ---
-title: "The Other Four Spirits in the Spirit Island Box"
-description: "The four Spirits after the starters: A Spread of Rampant Green, Thunderspeaker, Bringer of Dreams and Nightmares, and Ocean's Hungry Grasp, and how each plays."
+title: "Spirit Island Spirits: All Eight in the Base Game"
+description: "Spirit Island spirits: 8 in the base game, 2 in Branch & Claw, 10 in Jagged Earth, 4 in Feather and Flame, and 8 in Nature Incarnate. How the base eight play."
 course: spirit-island
 order: 12
 level: 2
@@ -11,11 +11,24 @@ oneIdea: "Each of the remaining base game Spirits breaks one normal rule of the 
 tryThis: "For your next game, give one experienced player one of these four Spirits, and have them read its Special Rules out loud to the table before setup."
 nextTeaser: "Level 3 begins with Blight in depth: the Blight Card, the Blighted Island, cascade control, and how to decide which land takes the hit when you cannot save them all."
 ---
-The core box holds eight Spirits. The rulebook sets aside four as low complexity, and the [starter Spirits lesson](/academy/spirit-island/spirit-island-starter-spirits/) covers them. This lesson covers the other four. They are not harder because their Powers are bigger. They are harder because each one plays by a rule that the rest of the game does not.
+The Spirit Island base game comes with eight Spirits. The expansions add more: 2 in Branch & Claw, 10 in Jagged Earth, 4 in Feather and Flame, and 8 in Nature Incarnate.
+
+| Spirit | Complexity |
+| --- | --- |
+| Lightning's Swift Strike | Low |
+| River Surges in Sunlight | Low |
+| Shadows Flicker Like Flame | Low |
+| Vital Strength of the Earth | Low |
+| A Spread of Rampant Green | Moderate |
+| Thunderspeaker | Moderate |
+| Bringer of Dreams and Nightmares | High |
+| Ocean's Hungry Grasp | High |
+
+The rulebook names the four low-complexity Spirits as the ones to start with, and the [starter Spirits lesson](/academy/spirit-island/spirit-island-starter-spirits/) covers them. This lesson covers the other four. They are not harder because their Powers are bigger. They are harder because each one plays by a rule that the rest of the game does not.
 
 As with the starters, flip the panel first. The Play Style section on the back is the fastest summary of what a Spirit wants.
 
-<!-- VERIFY: check the complexity rating printed on each of these four panels (believed to be Moderate for Rampant Green and Thunderspeaker, High for Bringer and Ocean) before adding them to this lesson. -->
+<!-- VERIFY: A Spread of Rampant Green's complexity (Moderate) against its panel; the rulebook confirms the four Low Spirits, and a designer update confirms Thunderspeaker as Moderate and Bringer and Ocean as High. -->
 
 ## A Spread of Rampant Green
 

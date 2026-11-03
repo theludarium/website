@@ -1,6 +1,6 @@
 ---
-title: "Terraforming Mars Standard Projects: The Price List on the Board"
-description: "Terraforming Mars standard projects and conversions explained: what Asteroid, Aquifer, Greenery, City, and Power Plant really buy, and when to use each one."
+title: "Terraforming Mars Standard Projects: The Board's Price List"
+description: "Terraforming Mars has six standard projects: sell patents, power plant (11 M€), asteroid (14), aquifer (18), greenery (23), and city (25). When to use each."
 course: terraforming-mars
 order: 6
 level: 1
@@ -11,7 +11,9 @@ oneIdea: "The standard projects are the board's price list. They are always open
 tryThis: "In your next game, before you play any card, compare it with the standard project that does the closest thing. Say out loud which one is cheaper."
 nextTeaser: "Next, the map: placement bonuses, ocean money, where cities belong, and why your first tiles decide where your greeneries can go."
 ---
-Welcome to Level 1. At Level 0 you learned the rules. Now you start learning what things are worth, and the best place to begin is the strip of six standard projects printed on the board. They never change, anyone can use them, and each one may be used several times in the same generation. That makes them a price list for the whole game.
+Terraforming Mars has six standard projects printed on the board: Sell Patents (1 M€ per card you discard), Power Plant (11 M€), Asteroid (14 M€), Aquifer (18 M€), Greenery (23 M€), and City (25 M€). Any player can use them on their turn, as an action, with no card needed.
+
+Welcome to Level 1. At Level 0 you learned the rules. Now you start learning what things are worth, and the best place to begin is that strip of six projects. They never change, and each one may be used several times in the same generation. That makes them a price list for the whole game.
 
 ## The six projects
 
@@ -24,7 +26,11 @@ Welcome to Level 1. At Level 0 you learned the rules. Now you start learning wha
 | Greenery | 23 M€ | A greenery tile: oxygen up 1 step for 1 TR, 1 VP, plus its placement bonus |
 | City | 25 M€ | A city tile, 1 M€ production, plus its placement bonus |
 
+These costs and effects come from the base game rules, also on the [Dized rules page](https://rules.dized.com/game/Y2e4M8-fRH-fyWwjwVHsbw/2Qq-Y78ySFWoGg4zzg8M6Q/use-a-standard-project).
+
 Each one also triggers the normal tile rules. An Aquifer, Greenery, or City placed next to oceans collects 2 M€ for each one, and printed bonuses on the space are yours too.
+
+**Expansions add two more.** Venus Next adds **Air Scrapping**: 15 M€ to raise the Venus track 1 step, which gives 1 TR. Colonies adds **Build Colony**: 17 M€ to place a colony on a Colony Tile and take its placement bonus. The [Colonies lesson](/academy/terraforming-mars/terraforming-mars-colonies-strategy/) covers that one in full.
 
 ## The two free conversions
 

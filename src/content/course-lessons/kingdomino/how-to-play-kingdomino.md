@@ -11,7 +11,7 @@ oneIdea: "Every round, you place the domino you picked last round and then pick 
 tryThis: "In your first game, score each player's kingdom out loud at the end, one territory at a time: squares, times crowns. By the second game, everyone will do it alone."
 nextTeaser: "Next, the five-minute teach: a host script in the order you would say it, plus the questions to settle the moment they come up."
 ---
-Kingdomino is the game you can open, learn, and finish before the pizza arrives. It won the Spiel des Jahres, Germany's best-known game award, in 2017, and it earned it by being simple to learn with real choices in every round.
+Kingdomino is the game you can open, learn, and finish before the pizza arrives. It won the Spiel des Jahres, Germany's best-known game award, in 2017, and it earned it by being simple to learn with real choices in every round. It plays 2 to 4 players.
 
 You are a ruler building a kingdom out of land. Each domino has two squares of terrain. You connect them into a 5 by 5 grid around your castle, grouping matching land into territories. Crowns printed on some squares make those territories score. The twist is how you get your dominoes: everyone drafts from the same line, and the order you pick in depends on what you picked before.
 

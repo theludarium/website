@@ -1,6 +1,6 @@
 ---
-title: "Splendor Player Counts, Variants, and Expansions"
-description: "Splendor at 2, 3, and 4 players, the Silk Road and Sun Never Sets expansions, and when to try Splendor Duel or Splendor Marvel instead of the original game."
+title: "Splendor Player Count, Variants, and Expansions"
+description: "Splendor plays 2 to 4 players, and both expansions keep that range. What changes at 2, 3, and 4, plus The Silk Road, The Sun Never Sets, and Splendor Duel."
 course: splendor
 order: 6
 level: 1
@@ -11,6 +11,10 @@ oneIdea: "The base game changes more than you think when the player count change
 tryThis: "Play your next two games of Splendor at different player counts. Note which one your group asks for again before you buy anything new."
 nextTeaser: "Level 2 begins with the midgame: turning bonuses into points, reading what everyone else can buy, and denying without wasting turns."
 ---
+Splendor plays 2 to 4 players, as printed on the box, and The Silk Road and The Sun Never Sets keep that same range. The base game has no solo mode; two players is a full official count, and Splendor Duel is a separate game built only for two.
+
+<!-- VERIFY: The Silk Road and The Sun Never Sets both list 2 to 4 players, and the base game has no solo mode, against the Space Cowboys product pages or rulebooks. -->
+
 Splendor is a small game that has grown a family: two expansion boxes, a two-player version, and a Marvel edition. Each is good. None replaces the original, and the original changes more than you might expect just by changing how many people sit down.
 
 ## How the game changes by player count

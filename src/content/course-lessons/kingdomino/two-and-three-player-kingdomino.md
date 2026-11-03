@@ -1,6 +1,6 @@
 ---
-title: "Kingdomino with Two and Three Players"
-description: "Two-player and three-player Kingdomino: the setup in each rulebook edition, how the draft feels with two kings each, and the strategy shifts at every count."
+title: "Kingdomino with 2 and 3 Players: Rules and Strategy"
+description: "Kingdomino plays 2 to 4. At 2, each player takes two kings, or you play the 7 by 7 Mighty Duel; at 3, the setup depends on the edition. Rules and strategy."
 course: kingdomino
 order: 10
 level: 3
@@ -11,7 +11,17 @@ oneIdea: "The fewer the players, the more the draft is a duel. With two players 
 tryThis: "Play the same week at two different player counts, and after each game note one thing you did differently. The list becomes your own player-count guide."
 nextTeaser: "Next, the Mighty Duel: the 7 by 7 two-player game with all 48 dominoes, where every domino in the box is yours or your rival's."
 ---
-Kingdomino plays two to four, and it is a different game at each count. With four players, it is a lively scramble where you control one pick in four. With two, it is a tight duel where you control half of every line. This lesson covers the rules for two and three players in both editions of the rulebook, and what to change in your play.
+Kingdomino plays 2 to 4 players, and both 2 and 3 are official counts. At 2, each player takes two kings (or you play the 7 by 7 Mighty Duel); at 3, each player has one king and the setup depends on your rulebook edition.
+
+It is a different game at each count. With four players, it is a lively scramble where you control one pick in four. With two, it is a tight duel where you control half of every line. This lesson covers the rules for two and three players in both editions of the rulebook, and what to change in your play.
+
+## How many players
+
+| Players | Kings each | Dominoes used (2016 rules) | Kingdom |
+| --- | --- | --- | --- |
+| 2 | 2 | 24 | 5 by 5 (or 7 by 7 with all 48 in the Mighty Duel) |
+| 3 | 1 | 36, three per line | 5 by 5 |
+| 4 | 1 | 48, four per line | 5 by 5 |
 
 ## Two players: the rules
 

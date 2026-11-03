@@ -1,6 +1,6 @@
 ---
-title: "King of Tokyo Player Counts, Variants, and Expansions"
-description: "King of Tokyo from 2 to 6 players, the official 2-player rule, Power Up! and Halloween, the Monster Packs, and spin-offs like King of New York and Dark Edition."
+title: "King of Tokyo Player Count, Variants, and Expansions"
+description: "King of Tokyo plays 2 to 6 players, with a 2-player rule and Tokyo Bay at 5 or 6. Plus Power Up!, Halloween, Monster Packs, and spin-offs like King of New York."
 course: king-of-tokyo
 order: 12
 level: 3
@@ -11,15 +11,17 @@ oneIdea: "Find your best player count first, then add one thing at a time. For m
 tryThis: "Play your next game at a different player count than usual, with Tokyo Bay if you can reach five. Note how long the Monster in Tokyo lasts."
 nextTeaser: "Last lesson: playing more. Online play, the tournament at the World Boardgaming Championships, and how to find or start a regular game."
 ---
+King of Tokyo plays 2 to 6 players, per IELLO. At 2 the rulebook suggests an optional Energy rule, and at 5 or 6 a second spot, Tokyo Bay, opens. There is no solo mode; King of Tokyo: Duel is a separate game for two.
+
 King of Tokyo is a different game at 3 players than at 6, and the family of boxes around it has grown for over a decade. This lesson starts with player counts and the official variants, then walks through the expansions and the standalone games, so you can choose what fits your table.
 
-## How does the game change by player count?
+## How many players
 
-The base game plays 2 to 6.
-
-- **Two players:** a duel. The rulebook recommends an optional rule: entering Tokyo gives 1 Energy instead of 1 point, and starting your turn there gives 1 Energy instead of 2 points. Without it, Tokyo points can decide a 2-player game too easily.
-- **Three or four:** Tokyo City only. Fewer Monsters swing at Tokyo each round, so holding it is safer and the points race matters more.
-- **Five or six:** Tokyo City and Tokyo Bay are both open, so two Monsters can be in Tokyo at once. More Monsters means more damage per round and more eliminations. Once 4 or fewer remain, the Bay closes.
+| Players | What changes |
+| --- | --- |
+| 2 | Optional rule: entering Tokyo gives 1 Energy instead of 1 point, and starting your turn there gives 1 Energy instead of 2 points. Without it, Tokyo points decide too easily |
+| 3 or 4 | Tokyo City only. Fewer Monsters swing at Tokyo, so holding it is safer and the points race matters more |
+| 5 or 6 | Tokyo City and Tokyo Bay both open, so two Monsters sit in Tokyo. More damage, more eliminations. Once 4 or fewer remain, the Bay closes |
 
 If your group likes planning, play at 3 or 4. If it likes chaos and table talk, go to 5 or 6. Five or six is also the count the World Boardgaming Championships uses, covered in the [final lesson](/academy/king-of-tokyo/king-of-tokyo-tournaments/).
 

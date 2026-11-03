@@ -1,6 +1,6 @@
 ---
-title: "Sushi Go! at Every Player Count, Plus the Variants"
-description: "Sushi Go! from two to five players: what changes at each count, the official two-player dummy hand variant, passing both ways, and how to adjust your strategy."
+title: "Sushi Go! Player Count: 2 to 5 Players, Plus the Variants"
+description: "Sushi Go! plays 2 to 5 players, with an official dummy hand variant for two. What changes at each count, passing both ways, and how to adjust your strategy."
 course: sushi-go
 order: 10
 level: 3
@@ -11,7 +11,9 @@ oneIdea: "Sushi Go! plays differently at every count. Fewer players means bigger
 tryThis: "Play the official two-player dummy variant once, and the pass-both-ways variant once with your usual group. Note one thing each changes about your first pick of a round."
 nextTeaser: "Next, full card tracking: how to know every card left in every hand after one lap, and how to use that in the last turns of a round."
 ---
-Sushi Go! is listed for 2 to 5 players, and it changes more across that range than its five-minute teach suggests. Hand size, how quickly hands return, how many cards are in each round, and how fierce the competition is all move with the player count. This lesson goes count by count, then covers the two official variants printed in the rules.
+Sushi Go! plays 2 to 5 players, as printed on the box, and the rules include an official dummy hand variant for two. For a bigger group, Sushi Go Party! is the version that seats more.
+
+The game changes more across that range than its five-minute teach suggests. Hand size, how quickly hands return, how many cards are in each round, and how fierce the competition is all move with the player count. This lesson goes count by count, then covers the two official variants printed in the rules.
 
 ## What changes with the count
 

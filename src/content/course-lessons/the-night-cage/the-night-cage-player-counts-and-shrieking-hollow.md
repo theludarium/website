@@ -1,6 +1,6 @@
 ---
-title: "The Night Cage Player Counts, Solo Play, and Shrieking Hollow"
-description: "The Night Cage at every count: solo with four Prisoners, two and three players, five on the 7x7 board, a look at Shrieking Hollow, and where to find players."
+title: "The Night Cage Player Count, Solo Play, and Shrieking Hollow"
+description: "The Night Cage plays 1 to 5, solo included, and Shrieking Hollow keeps the same range. How each count shares four Prisoners, and what five players change."
 course: the-night-cage
 order: 13
 level: 3
@@ -10,7 +10,17 @@ draft: false
 oneIdea: "The Night Cage always has at least four Prisoners in the dark, whether one person runs them all or five people each hold a candle. Learn how each count shares the work, then take the game to new tables."
 tryThis: "Play one solo game with all four Prisoners this month. Then teach the game to a new group, using the teach sheet, and let them make the calls."
 ---
-The Night Cage plays from one to five people, but the labyrinth never holds fewer than four Prisoners. What changes is who runs each Prisoner, and at five, the size of the board. This last lesson covers every count, the Shrieking Hollow expansion, and where to find new Prisoners.
+The Night Cage plays 1 to 5 players, solo included, and the Shrieking Hollow expansion keeps the same 1 to 5 range. The labyrinth never holds fewer than four Prisoners. What changes is who runs each Prisoner, and at five, the size of the board. This last lesson covers every count, the Shrieking Hollow expansion, and where to find new Prisoners.
+
+## How many players
+
+| Players | Prisoners | What changes in the rules |
+| --- | --- | --- |
+| 1 | 4 | You run all four Prisoners, one turn each |
+| 2 | 4 | Each player runs two; take both turns back to back |
+| 3 | 4 | The 4th Prisoner is shared, passed clockwise each round |
+| 4 | 4 | One Prisoner each |
+| 5 | 5 | 7x7 board side, fewer Keys and Wax Eaters, new opening tiles |
 
 ## Always four Prisoners
 

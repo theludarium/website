@@ -1,6 +1,6 @@
 ---
-title: "Kingdomino Variants, Expansions, and Sequels"
-description: "Kingdomino variants and expansions: Dynasty, Middle Kingdom, Harmony, the Mighty Duel, Age of Giants, Queendomino, Kingdomino Origins, Duel, and Dragomino."
+title: "Kingdomino Player Count, Variants, Expansions, Sequels"
+description: "Kingdomino plays 2 to 4 players, and Age of Giants adds a fifth. The rulebook variants, Queendomino, Origins, Duel, and Dragomino, and which one to try next."
 course: kingdomino
 order: 12
 level: 3
@@ -11,7 +11,20 @@ oneIdea: "The base box already holds four variants that change how Kingdomino pl
 tryThis: "Play your next three games with one rulebook variant each: Middle Kingdom, Harmony, and then both together. Keep the one your table liked best as your house rule."
 nextTeaser: "Last, where to play: Kingdomino online, its official championships, local tables, and running your own tournament."
 ---
+Kingdomino plays 2 to 4 players, as printed on the box. The Age of Giants expansion raises that to 5, and for two players the rulebook offers the 7 by 7 Mighty Duel.
+
 Kingdomino has grown into a whole family: an expansion, two standalone sequels, a roll-and-write, and a children's game. Before any of them, though, the rulebook in the base box already offers four ways to change the game. Start there.
+
+## How many players
+
+| Players | What changes |
+| --- | --- |
+| 2 | Two kings each and 24 dominoes in the original rules, or the Mighty Duel with all 48 |
+| 3 | One king each; 36 dominoes and three per line in the original rules, or all 48 with a discard in the 2024 rules |
+| 4 | One king each, all 48 dominoes, four per line |
+| 5 | Needs Age of Giants, which adds the fifth player's pieces |
+
+Lesson 10 covers two and three players in detail.
 
 ## The variants in the base box
 

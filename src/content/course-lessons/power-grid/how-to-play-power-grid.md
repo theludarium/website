@@ -11,7 +11,7 @@ oneIdea: "Every round runs the same five phases in the same order. Learn who goe
 tryThis: "In your first game, say each phase name out loud as it starts, and point to the player who goes first in it."
 nextTeaser: "Next, the ten-minute teach: a host script in the order you would say it, so the whole table learns Power Grid without a rulebook reading."
 ---
-Power Grid is a game about running a power company. You buy power plants at auction, buy fuel to run them, and wire cities into your network across a map. Each round, the cities you power pay you, and you spend that money to grow. Whoever powers the most cities when the game ends wins.
+Power Grid is a game about running a power company. You buy power plants at auction, buy fuel to run them, and wire cities into your network across a map. Each round, the cities you power pay you, and you spend that money to grow. Whoever powers the most cities when the game ends wins. It plays 2 to 6 players.
 
 This lesson teaches Power Grid Recharged, the current edition. 2F-Spiele publishes it in Germany as Funkenschlag, and Rio Grande Games publishes it in English. If you learned an older edition, a few rules have changed; the [first three games lesson](/academy/power-grid/power-grid-beginner-mistakes/) lists them.
 

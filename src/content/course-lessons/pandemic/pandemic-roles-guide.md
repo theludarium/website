@@ -1,6 +1,6 @@
 ---
-title: "The Seven Pandemic Roles and How to Play Each One"
-description: "Every Pandemic role explained: what the Medic, Scientist, Researcher, Dispatcher, Operations Expert, Quarantine Specialist, and Contingency Planner do best."
+title: "Pandemic Roles: All Seven and How to Play Each One"
+description: "Pandemic has seven roles: Medic, Scientist, Researcher, Dispatcher, Operations Expert, Quarantine Specialist, and Contingency Planner. What each does best."
 course: pandemic
 order: 5
 level: 1
@@ -11,11 +11,15 @@ oneIdea: "Each role breaks one rule of the game. Find the rule your role breaks,
 tryThis: "At the start of your next game, have each player finish this sentence out loud: My role breaks the rule that says... Then plan your first turn around that answer."
 nextTeaser: "Next, openings: what to read on the board before turn one, and why the first Epidemic is the moment your whole opening plans for."
 ---
+The Pandemic board game has seven roles: Medic, Scientist, Researcher, Dispatcher, Operations Expert, Quarantine Specialist, and Contingency Planner. Each player takes one at random, and it changes what that player can do every turn.
+
 New players often treat their role card as a small bonus on top of a normal turn. It is closer to a job description. Every role in the base game breaks one rule, and the team that leans on those broken rules wins far more often than the team that plays four ordinary turns.
 
-The rules for each role below come from the role cards and the role notes in the current [rulebook](https://cdn.svc.asmodee.net/production-zman/uploads/2024/09/Pandemic_Rulebook.pdf). The base game has seven. With 2 to 4 players, some always stay in the box, so the team you get changes every game.
+The rules for each role below come from the role cards and the role notes in the current [rulebook](https://cdn.svc.asmodee.net/production-zman/uploads/2024/09/Pandemic_Rulebook.pdf). The base game has seven. With 2 to 4 players, some always stay in the box, so the team you get changes every game. The On the Brink expansion adds more roles; this lesson covers the seven in the base game.
 
-## Medic: the cleaner
+## The seven Pandemic roles
+
+### Medic: the cleaner
 
 **The broken rule:** Treat Disease removes 1 cube. For the Medic, it removes every cube of one color in his city. Once a disease is cured, he removes that color just by entering or standing in a city, with no action at all, and cubes of a cured color cannot be placed where he stands.
 
@@ -23,7 +27,7 @@ The rules for each role below come from the role cards and the role notes in the
 
 **The common waste:** parking him in one place to treat the same city again and again. The Medic is a mover. If the Dispatcher or an Airlift moves him, his free removal happens on that player's turn too.
 
-## Scientist: the curer
+### Scientist: the curer
 
 **The broken rule:** a cure takes 5 City cards of one color. The Scientist needs only 4.
 
@@ -31,7 +35,7 @@ The rules for each role below come from the role cards and the role notes in the
 
 **The common waste:** spending her actions treating far from a research station. Her turns are best spent near a station, gathering cards.
 
-## Researcher: the card hub
+### Researcher: the card hub
 
 **The broken rule:** Share Knowledge passes only the card that matches your city. The Researcher can give any City card from her hand, and a player who shares with her on their own turn can take any one of her City cards. The card still has to move from her hand to another player in the same city.
 
@@ -39,7 +43,7 @@ The rules for each role below come from the role cards and the role notes in the
 
 **The common waste:** treating her like any other pawn and wandering off. A Researcher far from the collector is just a fourth pair of hands.
 
-## Dispatcher: the mover
+### Dispatcher: the mover
 
 **The broken rule:** you move only your own pawn. As an action, the Dispatcher can move any pawn to a city that has another pawn in it, or move another player's pawn as if it were his own. The owner must agree each time. When he flies another pawn, the card comes from his hand, and for a Charter Flight it must match the city that pawn is leaving.
 
@@ -47,7 +51,7 @@ The rules for each role below come from the role cards and the role notes in the
 
 **Limits worth knowing:** he only moves pawns. He cannot make another player treat, share, or build, and he cannot use the Operations Expert's special move on that player's pawn.
 
-## Operations Expert: the builder
+### Operations Expert: the builder
 
 **The broken rule:** building a research station costs a matching City card. The Operations Expert builds one in his city with no card. Once per turn, as an action, he can also move from a research station to any city by discarding any City card.
 
@@ -55,7 +59,7 @@ The rules for each role below come from the role cards and the role notes in the
 
 **The common waste:** building stations evenly around the map because he can. Six stations is the limit, and a badly placed one is an action spent for nothing.
 
-## Quarantine Specialist: the wall
+### Quarantine Specialist: the wall
 
 **The broken rule:** infections and outbreaks put cubes on cities. Not in her city, and not in any city connected to it. She stops both cubes and outbreaks there. She does not remove cubes already on the board, including the ones from setup.
 
@@ -63,7 +67,7 @@ The rules for each role below come from the role cards and the role notes in the
 
 **The common waste:** moving her every turn like a normal pawn. Each move can leave a dangerous city unguarded at exactly the wrong time.
 
-## Contingency Planner: the second chance
+### Contingency Planner: the second chance
 
 **The broken rule:** Event cards are used once. As an action, the Contingency Planner can take any Event card from the Player discard pile and store it on his role card, one at a time. It does not count toward his hand limit. When he plays it, it leaves the game.
 

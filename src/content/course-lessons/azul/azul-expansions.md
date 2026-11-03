@@ -1,6 +1,6 @@
 ---
-title: "Azul Player Counts, Variants, and the Azul Family"
-description: "Azul at 2, 3, and 4 players, the gray wall variant in the box, add-ons like Crystal Mosaic, and which standalone Azul to try next, from Summer Pavilion to Duel."
+title: "Azul Player Count, Variants, and the Azul Family"
+description: "Azul plays 2 to 4 players, with no solo mode, and no add-on raises the count. How it plays at 2, 3, and 4, the gray wall variant, add-ons, and Duel for two."
 course: azul
 order: 7
 level: 1
@@ -11,17 +11,21 @@ oneIdea: "The original Azul has more to give than most people find. Play it at d
 tryThis: "Play your next game on the gray side of the boards, and the one after at a different player count. Note which one your group asks for again."
 nextTeaser: "Level 2 begins with the midgame: reading every board at the table, counting colors, and deciding what to leave in the center for someone else."
 ---
+Azul plays 2 to 4 players. The rulebook has no solo mode, and none of the add-ons or standalone sequels go past four; Azul Duel is built for exactly two.
+
 Azul is a family now. Since the original won the Spiel des Jahres in 2018, Next Move Games has added standalone sequels, a two-player version, a travel size, and a handful of add-ons. That is a gift and a trap. Each new box is good, but none of them replace the original, and the original still has corners most players never explore.
 
 This lesson starts with what changes at different player counts, then the variant already in your box, then the add-ons and the rest of the family.
 
-## How does the game change by player count?
+## How many players
 
-Azul plays 2 to 4, and the number of factory displays changes with the count.
+The rules are the same at every count. Only the number of factory displays changes.
 
-- **Two players: 5 displays, 20 tiles a round.** The tightest count. You can track nearly every tile, and every pick is a direct duel. Denial matters most here.
-- **Three players: 7 displays, 28 tiles a round.** A good balance of planning and surprise.
-- **Four players: 9 displays, 36 tiles a round.** The most crowded. The table changes a lot between your turns, so flexible boards and fast lines gain value.
+| Players | Factory displays | How it plays |
+| --- | --- | --- |
+| 2 | 5 (20 tiles a round) | The tightest count. You can track nearly every tile, and every pick is a direct duel. Denial matters most. |
+| 3 | 7 (28 tiles a round) | A good balance of planning and surprise. |
+| 4 | 9 (36 tiles a round) | The most crowded. The table changes a lot between your turns, so flexible boards and fast lines gain value. |
 
 If your group likes a tense, chess-like game, two players suits it. If it likes table talk and swings, go to four. Our guide to [two-player games for date night](/articles/two-player-board-games-date-night/) explains why Azul holds up so well at two.
 

@@ -1,6 +1,6 @@
 ---
-title: "Everdell Player Counts, Variants, and Expansions"
-description: "Everdell at 1 to 4 players, solo play, a tournament variant, and which expansions to try first, from Pearlbrook and Bellfaire to the Complete Collection."
+title: "Everdell Player Count, Max Players, Variants, Expansions"
+description: "Everdell plays 1 to 4 players, solo included, and the max is 6 with the Bellfaire expansion. What changes at each count, and which expansion to try first."
 course: everdell
 order: 11
 level: 2
@@ -11,17 +11,21 @@ oneIdea: "Learn the base game at your usual player count first. Then add one thi
 tryThis: "Play one solo year against Rugwort the Rascal before your next group game. It is a quick way to learn the card pool without anyone waiting on you."
 nextTeaser: "Level 3 opens with strategy paths: Production, Events, purple Prosperity, and point tokens, and how to pick the one your opening hand points toward."
 ---
+Everdell plays 1 to 4 players, including a solo game against Rugwort. The max is 6: the Bellfaire expansion takes the game to 5 or 6 players, and Everdell Duo is a separate game for 1 or 2.
+
 Everdell has grown into a whole valley of boxes: five expansions, a giant collection, a two-player game, and standalone games set past the edge of the map. That is a lot to choose from. The good news is that the base game has plenty in it, and every addition works best one at a time.
 
 This lesson starts with player counts and the solo game, then a variant, then the boxes worth knowing.
 
-## How does the game change by player count?
+## How many players
 
-The base game plays 1 to 4.
-
-- **Two players:** only 3 Forest cards go out, and each holds one worker. There are fewer rivals for the spaces you want, so plans hold together longer. Every card your opponent takes from the Meadow matters, because you are the only other buyer.
-- **Three players:** all 4 Forest cards are out, still one worker each. Exclusive spaces get contested more often.
-- **Four players:** the second space on each Forest card opens up, though never for two workers of the same player. The Meadow turns over faster, and Events tend to go quickly.
+| Players | What changes |
+| --- | --- |
+| 1 | Two-player setup, against Rugwort (see the solo game below) |
+| 2 | Only 3 Forest cards go out, one worker each. Plans hold together longer, and every Meadow card your opponent takes matters |
+| 3 | All 4 Forest cards, still one worker each. Exclusive spaces get contested more often |
+| 4 | The second space on each Forest card opens, never for two workers of the same player. The Meadow and Events go fast |
+| 5 or 6 | Needs Bellfaire |
 
 Starting hands grow by seat, from 5 cards for the first player to 8 for the fourth.
 

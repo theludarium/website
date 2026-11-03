@@ -1,6 +1,6 @@
 ---
-title: "Dune: Imperium Uprising, Player Counts, and Expansions"
-description: "Dune: Imperium Uprising explained: spies, contracts, sandworms, and six-player teams, plus player counts, solo and two-player rules, and every expansion."
+title: "Dune: Imperium Uprising Player Count and Expansions"
+description: "Dune: Imperium Uprising plays 1 to 6: solo, 2 with a Rival, 3 or 4, or 6 in teams. The original plays 1 to 4. What changes at each count, plus every expansion."
 course: dune-imperium
 order: 14
 level: 3
@@ -11,18 +11,21 @@ oneIdea: "Uprising is the same engine with sharper edges: spies get around block
 tryThis: "If you own Uprising, play your next game without the CHOAM contracts. Add them the game after, and note what your group spends its Agents on differently."
 nextTeaser: "Next, Uprising strategy: where to post Spies, the sandworm path, and when to blow up the Shield Wall."
 ---
+Dune: Imperium Uprising plays 1 to 6 players: solo or two players against automated Rivals, three or four as normal, or six in two teams of three. There is no five-player game. The original Dune: Imperium plays 1 to 4, and its expansions do not change that.
+
 Dune: Imperium now comes in two boxes that share one engine, and a shelf of expansions that work with one or both. This lesson covers what changes with player count, then Uprising in depth, then the expansions and how to choose.
 
-## The original, by player count
+## How many players: Dune: Imperium and Uprising
 
-The original plays 1 to 4. Our article on [player count design](/articles/player-count-design/) explains why a game can feel so different at each number.
+| Players | Original (1 to 4) | Uprising (1 to 6) |
+| --- | --- | --- |
+| 1 | Two House Hagal Rivals, four difficulty levels from Mercenary to Kwisatz Haderach. Either can reach 10 and beat you. | Two Rivals from the Rivals supplement, four difficulty levels. |
+| 2 | House Hagal plays spoiler: it takes Agent turns and fights, but never scores. If it wins a Conflict for a space someone controls, that Control marker comes off. | One shared Rival that collects resources and scores, but never holds the First Player marker. |
+| 3 | Open board. The third Conflict reward appears only when two players tie for second. | Same as the original. |
+| 4 | The most crowded board. Everyone starts at 1 Victory Point, and the third Conflict reward is in play. | Same as the original. |
+| 6 | Not supported. | Two teams of three on the board's reverse side, covered below. |
 
-- **Four players.** The most crowded board. Everyone starts at 1 Victory Point, and the third Conflict reward is in play.
-- **Three players.** More open spaces. The third reward appears only when two players tie for second.
-- **Two players.** A third house, House Hagal, plays the spoiler. It takes an Agent turn after each of the first player's Agent turns and fights in Conflicts, but it does not collect resources, build a deck, earn rewards, or score. If it wins a Conflict for a space someone controls, that Control marker comes off.
-- **Solo.** You face two Rivals driven by House Hagal cards, at one of four difficulty levels from Mercenary to Kwisatz Haderach. Either Rival can reach 10 and beat you.
-
-Dire Wolf's Game Room companion app can run House Hagal in place of the cards.
+Dire Wolf's Game Room companion app can run House Hagal in place of the cards. Our article on [player count design](/articles/player-count-design/) explains why a game can feel so different at each number.
 
 ## Uprising in depth
 
@@ -63,7 +66,7 @@ Everyone starts with an Objective card, which also decides the first player. Whe
 
 ### Two players and solo
 
-Uprising's Rivals use their own Rival cards with House Hagal cards, and they collect resources and score. In a two-player game one Rival is a shared opponent that never holds the First Player marker; the Rules Supplements recommend a Streamlined Rivals variant for your first one. Solo uses two Rivals and four difficulty levels.
+Uprising's Rivals use their own Rival cards with House Hagal cards, and they collect resources and score. For your first two-player game, the Rules Supplements recommend a Streamlined Rivals variant.
 
 ### Six players
 

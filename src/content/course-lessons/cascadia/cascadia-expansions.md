@@ -1,6 +1,6 @@
 ---
-title: "Cascadia Player Counts, Variants, and Expansions"
-description: "Cascadia at 1 to 4 players, solo mode, the Family and Intermediate variants, scenarios and achievements, plus Landmarks, Cascadia Rolling, and Cascadia Junior."
+title: "Cascadia Player Count, Variants, and Expansions"
+description: "Cascadia plays 1 to 4 players, solo included, and up to 6 with Landmarks. What changes at each count, the Family variant, scenarios, and the Cascadia spin-offs."
 course: cascadia
 order: 7
 level: 1
@@ -11,14 +11,21 @@ oneIdea: "The base box already holds several games: the standard game, solo mode
 tryThis: "Play solo scenario 1 this week. If you pass it, try scenario 2 with the B cards, and note which animal gave you the most trouble."
 nextTeaser: "Next, Level 2 begins with openings: all twenty scoring cards, what each one rewards, and how the five on the table should shape your first turns."
 ---
+Cascadia plays 1 to 4 players, per AEG, and the base box includes a solo mode. The Landmarks expansion adds the pieces for a fifth and sixth player, so the full range is 1 to 6.
+
 Cascadia stays fresh longer than most games its size, because the scoring cards change what you are building every game. Before reaching for an expansion, it is worth knowing how much is already in the [base game](https://link.amazon/B0g1HYFt4): a solo mode, two simpler variants for families, and a whole achievement system with scenarios. This lesson covers all of it, then the products in the wider Cascadia family.
 
-## How does the game change by player count?
+## How many players
 
 At every count, each player takes exactly 20 turns. What changes is the tile count, the bonuses, and how much the display moves between your turns.
 
-- **Two players:** 43 tiles. The largest corridor in each habitat earns 2 points, and a tie earns 1 each. Only one pair leaves the display between your turns, so you can plan a little further, and every pick you leave goes straight to your one opponent.
-- **Three or four players:** 63 or 83 tiles. The largest corridor earns 3 and the second largest 1. Three pairs can leave the display before your next turn at four players, so forgiving cards and flexible tiles gain value.
+| Players | What changes |
+| --- | --- |
+| 1 | The two-player tile count, one starter habitat, and a drifting display (see solo mode below) |
+| 2 | 43 tiles. The largest corridor in each habitat earns 2, and a tie earns 1 each. One pair leaves the display between your turns |
+| 3 | 63 tiles. The largest corridor earns 3 and the second largest 1 |
+| 4 | 83 tiles, same bonuses as three. Three pairs can leave the display before your next turn, so flexible tiles gain value |
+| 5 or 6 | Needs Cascadia: Landmarks for the extra tiles and tokens |
 
 If your group likes a quiet, planning-heavy puzzle, two players suits it. If it likes a busier display and corridor races, play at three or four.
 

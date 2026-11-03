@@ -11,7 +11,7 @@ oneIdea: "King of Tokyo is Yahtzee with a hot seat. Your dice give you points, E
 tryThis: "Before game night, set up from the teach sheet and play three practice turns by yourself, resolving every die out loud. The real teach will feel easy after that."
 nextTeaser: "Next, the host's lesson: a five-minute teach script, the rules to explain as they come up, and how to run a first game everyone wants to play again."
 ---
-King of Tokyo is giant monsters punching each other for control of a city. On your turn you roll six dice, keep what you like, and reroll the rest, up to three rolls. It is the Yahtzee rhythm, with more stomping. Richard Garfield designed it, and IELLO publishes it.
+King of Tokyo is giant monsters punching each other for control of a city. On your turn you roll six dice, keep what you like, and reroll the rest, up to three rolls. It is the Yahtzee rhythm, with more stomping. Richard Garfield designed it, and IELLO publishes it for 2 to 6 players.
 
 This lesson walks the [King of Tokyo teach sheet](/academy/king-of-tokyo/teach-sheet/) from top to bottom, using the current IELLO rulebook and its terms.
 

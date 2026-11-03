@@ -1,6 +1,6 @@
 ---
-title: "Dinosaur Island Player Counts, Plot Twists, and Variants"
-description: "Dinosaur Island at two, three, and four players: dice pool, market tiles, objectives, the plot twists that change each game, and the two official variants."
+title: "Dinosaur Island Player Count, Plot Twists, and Variants"
+description: "Dinosaur Island plays 1 to 4 players, or 5 with Totally Liquid. What changes at 2, 3, and 4: dice, objectives, market tiles, plus plot twists and two variants."
 course: dinosaur-island
 order: 15
 level: 3
@@ -11,9 +11,13 @@ oneIdea: "Dinosaur Island scales by giving each extra player two more dice, one 
 tryThis: "Next game, read both plot twists aloud during setup and ask each player to name one way the twists change their opening. Then play the Predictable Systems variant once and compare."
 nextTeaser: "Level 4 begins with the solo game: seven rounds, an AI deck that takes things away, and objectives that lose value every round you wait."
 ---
-Dinosaur Island plays 1 to 4. The core rules stay the same at every count, but a handful of setup numbers change, and they change how crowded the shared phases feel. This lesson covers those differences, the plot twists that make each game feel new, and the two official variants.
+Dinosaur Island plays 1 to 4 players, with a solo mode in the base box. The Totally Liquid expansion adds pieces for a fifth player.
 
-## What changes with player count
+<!-- VERIFY: Totally Liquid's 1 to 5 count comes from retailer listings; confirm on a Pandasaurus page or the Totally Liquid rulebook. -->
+
+The core rules stay the same at every count, but a handful of setup numbers change, and they change how crowded the shared phases feel. This lesson covers those differences, the plot twists that make each game feel new, and the two official variants.
+
+## How many players
 
 Setup scales with the number of players:
 

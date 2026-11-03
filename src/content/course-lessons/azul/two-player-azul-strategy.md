@@ -1,6 +1,6 @@
 ---
-title: "Two-Player Azul Strategy: Winning the Duel"
-description: "Two-player Azul strategy: judge every pick by the gap, count the picks left, steer the last forced pick to your opponent, and use the marker on purpose."
+title: "Azul 2 Player Strategy: Winning the Duel"
+description: "Azul plays 2 to 4 players, and with 2 it becomes a duel: 5 factory displays and 20 tiles a round. How to judge each pick by the gap and steer the last pick."
 course: azul
 order: 11
 level: 3
@@ -11,6 +11,16 @@ oneIdea: "With one opponent, the round is a countable sequence of picks. Count t
 tryThis: "In your next two-player game, when two displays are left, count the picks remaining before you choose. Say out loud who will take the last one, and check whether you were right."
 nextTeaser: "Next, the gray wall: the variant on the back of your board, where you choose every tile's space, and the traps that send a full line to the floor."
 ---
+Azul plays 2 to 4 players, and the base game has no solo mode. With two, the only setup change is fewer factory displays: 5, holding 20 tiles each round.
+
+## How many players
+
+| Players | Factory displays | Tiles each round |
+| --- | --- | --- |
+| 2 | 5 | 20 |
+| 3 | 7 | 28 |
+| 4 | 9 | 36 |
+
 Welcome to Level 3. Two-player Azul was the format of the 2024 world championship's online qualifiers, and it plays very differently from the four-player game you may have learned on. With five displays and one opponent, you can see and count almost everything. The skill is in what you leave behind.
 
 ## Judge every pick by the gap
@@ -23,7 +33,7 @@ Our [two-player games for date night](/articles/two-player-board-games-date-nigh
 
 ## The round is a countable sequence
 
-A two-player round deals 20 tiles onto 5 displays. You and your opponent alternate picks until the displays and the center are empty. Late in a round, you can count exactly how many picks are left:
+A two-player round deals its 20 tiles onto the 5 displays. You and your opponent alternate picks until the displays and the center are empty. Late in a round, you can count exactly how many picks are left:
 
 - **Each display still full** needs one more pick to empty it. Its leftovers go to the center.
 - **Each color in the center** needs one pick, because a center pick takes every tile of one color.

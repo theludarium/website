@@ -1,6 +1,6 @@
 ---
-title: "Practicing Root Online: Digital Play and Bots"
-description: "How to practice Root online and solo: Root digital on PC, Switch, and mobile, its expansions and challenges, the Clockwork bots, and making every game count."
+title: "Root Online: Where to Play and How to Practice"
+description: "Root online: play the official Root digital edition by Dire Wolf on Steam, Switch, iOS, and Android, with cross-platform games, bots, and expansion add-ons."
 course: root
 order: 20
 level: 5
@@ -11,6 +11,8 @@ oneIdea: "Tournament skill in Root comes from volume across every faction, map, 
 tryThis: "Play three digital games this week with a faction you have never played, and write one sentence after each about what you would do differently."
 nextTeaser: "Last lesson: a six-week practice plan that puts the whole ladder together for your first Root tournament."
 ---
+You can play Root online in Root digital, the official edition by Dire Wolf, on Steam, Nintendo Switch, iOS, and Android. It has cross-platform online games against other players, single-player games against the computer, and most of the physical expansions as add-ons.
+
 A full four-player game of Root at the table takes an evening. Getting good at every faction, on every map, with an unfamiliar deck, takes many evenings. That is why many competitive players do much of their practice online, where the game handles the setup, the upkeep, and the rules checks, and you can play far more games in a month.
 
 This lesson covers what the digital edition offers, how to use bots at the table, and how to make online games count.
@@ -28,7 +30,9 @@ Expansions are sold as add-ons, and Dire Wolf's page lists:
 - **Clockwork:** four automated bot factions, with co-op play against them.
 - **Hirelings and Landmarks:** hirelings and the Black Market, Lost City, Legendary Forge, and Elder Treetop landmarks.
 
-<!-- VERIFY: check Dire Wolf's current Root page for any newer add-ons (for example Homeland factions) and whether digital supports Advanced Setup's faction draft, before saying either way. -->
+As of November 2026, Dire Wolf's page does not list the Homeland expansion factions (the Lilypad Diaspora, the Twilight Council, and the Knaves of the Deepwood), so those are table-only for now. Neither Dire Wolf's page nor the Steam page lists a ranked mode.
+
+<!-- VERIFY: whether Root digital has a ranked or rated queue in its menus, and whether it supports Advanced Setup's faction draft; neither official page says. -->
 
 ## What digital practice is good for
 

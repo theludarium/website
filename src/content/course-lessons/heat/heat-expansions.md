@@ -1,6 +1,6 @@
 ---
-title: "Heat Player Counts, Modules, and Expansions"
-description: "Heat: Pedal to the Metal player counts, the Legends, Garage, weather, and Championship modules, and what the Heavy Rain and Tunnel Vision expansions add."
+title: "Heat Player Count, Modules, and Expansions"
+description: "Heat plays 1 to 6, or 1 to 7 with Heavy Rain or Tunnel Vision, solo included. What changes at each count, plus the Legends, Garage, weather, and Championship."
 course: heat
 order: 7
 level: 1
@@ -11,17 +11,23 @@ oneIdea: "The base box already holds a whole season of variety. Add one module a
 tryThis: "Play your next race with the Garage quick start: deal 3 random Regular Upgrade cards to each player, and note which ones your group talks about afterward."
 nextTeaser: "Level 2 begins with the midgame: the Heat cycle, cooling down on time, slipstreaming through corners, and reading what every driver can afford."
 ---
+Heat: Pedal to the Metal plays 1 to 6 players, and solo works out of the box by racing Legends, the automated cars. The Heavy Rain and Tunnel Vision expansions each add a seventh car, for 1 to 7.
+
 Heat's second rulebook, Advanced Play and Championship System, holds four modules you can add one at a time or all together. Then come the expansion boxes, each with new tracks and a new twist. This lesson covers player counts, the modules in the base box, and the first two expansions, Heavy Rain and Tunnel Vision.
 
 Everything up to the expansions section is in the base game, [Heat: Pedal to the Metal](https://www.amazon.com/dp/B0BGXPZG4B?tag=cubecommonw0a-20).
 
-## How does Heat change by player count?
+## How many players
 
-The base game plays 1 to 6.
+| Players | What changes in the rules |
+| --- | --- |
+| 1 | You race against Legends, the automated cars below |
+| 2 or 3 | The rulebook suggests adding Legends below 4 players, and at least two if you add any |
+| 4 | The full rules with no extra cars needed |
+| 5 or 6 | With 5 or more cars, Adrenaline goes to the last two cars each round |
+| 7 | Needs the extra player set from Heavy Rain or Tunnel Vision |
 
-- **Solo:** you race against Legends, the automated cars below.
-- **Two or three players:** the rulebook suggests adding Legends when you have fewer than 4 players, and at least two if you add any. More cars means more slipstream chances.
-- **Four to six:** the full grid. With 5 or more cars, Adrenaline goes to the last two cars each round, and full Spaces push cars back more often.
+More cars means more slipstream chances, and full Spaces push cars back more often.
 
 If you are choosing a game for a bigger group, our guide to the [best board games for 6 players](/articles/best-board-games-for-6-players/) has more picks for a full table.
 

@@ -11,7 +11,7 @@ oneIdea: "Every turn is Action, Buy, Clean-up. What you buy goes into your disca
 tryThis: "Play your first game with the rulebook's First Game kingdom, and say the phase out loud on every turn: Action, Buy, Clean-up."
 nextTeaser: "Next, the ten-minute teach. You get a host script in the order you would say it, so the whole table learns at once."
 ---
-Dominion is the game that made deck building famous, and it won the Spiel des Jahres along the way. Everyone begins with the same small, weak deck. On your turn you play a hand of cards, use the money in it to buy one new card, and put everything in your discard pile. When your deck runs out, you shuffle and draw from the cards you bought. Your deck gets better as you play, and the cards that win the game are the ones that clog it.
+Dominion is the game that made deck building famous, and it won the Spiel des Jahres along the way. It plays 2 to 4 players. Everyone begins with the same small, weak deck. On your turn you play a hand of cards, use the money in it to buy one new card, and put everything in your discard pile. When your deck runs out, you shuffle and draw from the cards you bought. Your deck gets better as you play, and the cards that win the game are the ones that clog it.
 
 This lesson covers the rules of the current second edition from Rio Grande Games, using the rulebook's terms.
 
