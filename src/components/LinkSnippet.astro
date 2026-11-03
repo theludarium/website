@@ -1,0 +1,101 @@
+---
+// A "link to this page" box: a short invitation, the HTML link ready to copy,
+// and a Copy button. Used where other sites are likely to link (teach sheets,
+// the Guild register, the press page). Hidden in print.
+import { SITE } from '@/lib/site';
+
+interface Props {
+  /** Path on this site, for example /academy/catan/teach-sheet/. */
+  path: string;
+  /** The link text other sites will show. */
+  label: string;
+  title?: string;
+}
+
+const { path, label, title = 'Link to this page' } = Astro.props;
+const url = new URL(path, SITE.url).toString();
+const snippet = `<a href="${url}">${label}</a>`;
+const id = `link-snippet-${path.replace(/[^a-z0-9]+/gi, '-').replace(/^-|-$/g, '') || 'home'}`;
+---
+
+<aside class="link-snippet" data-link-snippet data-pagefind-ignore aria-labelledby={`${id}-title`}>
+  <p class="link-snippet__title" id={`${id}-title`}>{title}</p>
+  <div class="link-snippet__body"><slot /></div>
+  <label class="visually-hidden" for={id}>HTML link to copy</label>
+  <div class="link-snippet__row">
+    <input class="link-snippet__code" id={id} type="text" readonly value={snippet} data-link-snippet-code />
+    <button class="button button--ghost" type="button" data-link-snippet-copy>Copy link</button>
+  </div>
+  <p class="link-snippet__status" role="status" data-link-snippet-status></p>
+</aside>
+
+<script>
+  document.querySelectorAll<HTMLElement>('[data-link-snippet]').forEach((box) => {
+    const code = box.querySelector<HTMLInputElement>('[data-link-snippet-code]');
+    const button = box.querySelector<HTMLButtonElement>('[data-link-snippet-copy]');
+    const status = box.querySelector<HTMLElement>('[data-link-snippet-status]');
+    if (!code || !button || !status) return;
+    code.addEventListener('focus', () => code.select());
+    button.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(code.value);
+        status.textContent = 'Copied. Paste it into your site, newsletter, or club page.';
+      } catch {
+        code.select();
+        status.textContent = 'Press Ctrl+C or Cmd+C to copy.';
+      }
+    });
+  });
+</script>
+
+<style>
+  .link-snippet {
+    max-width: var(--width-content);
+    margin: 0 auto;
+    padding: var(--space-5);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-card);
+    background: var(--color-surface);
+  }
+
+  .link-snippet__title {
+    margin: 0 0 var(--space-2);
+    font-family: var(--font-display);
+    font-size: var(--text-xl);
+  }
+
+  .link-snippet__body :global(p) {
+    margin: 0 0 var(--space-3);
+  }
+
+  .link-snippet__row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-3);
+  }
+
+  .link-snippet__code {
+    flex: 1 1 16rem;
+    min-width: 0;
+    padding: var(--space-2) var(--space-3);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-sm);
+    background: var(--color-bg);
+    color: var(--color-text);
+    font-family: var(--font-mono, ui-monospace, monospace);
+    font-size: var(--text-sm);
+  }
+
+  .link-snippet__status {
+    min-height: 1.5em;
+    margin: var(--space-2) 0 0;
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+
+  @media print {
+    .link-snippet {
+      display: none;
+    }
+  }
+</style>

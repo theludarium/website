@@ -26,5 +26,5 @@ Product ID 1496230, "Expert Game Guide certification review", $39 single payment
 2. Review as before. If the newcomer said yes and the teach holds up, open the certificate maker link in the email.
 3. Give the next certificate number. Print to PDF.
 4. If the student asked to be on the register, tick "On the register" and add the register line to `src/data/guild-register.json`.
-5. Reply with the PDF and the LinkedIn link.
+5. Reply with the PDF and the LinkedIn link. If they are on the register, also paste the "link for the guide's own site" line and invite them to add it to their website, club page, or store bio.
 6. Not yet: reply with what to try next. Their fee covers one resubmission; the second email should show the same order number.
