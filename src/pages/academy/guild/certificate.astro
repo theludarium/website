@@ -2,7 +2,8 @@
 // Levi's certificate maker. Open /academy/guild/certificate/?name=Sam%20Rivera&date=November%203,%202026&no=0001
 // (or type into the fields), then print to PDF and reply to the student's capstone email.
 // Below the fields: a LinkedIn "add to profile" link to paste into the reply, and, for
-// students who asked to be listed, the line to add to src/data/guild-register.json.
+// students who asked to be listed, the line to add to src/data/guild-register.json and
+// an HTML link to their entry they can put on their own site.
 // Not in search results or the sitemap.
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import GuildCertificate from '@/components/GuildCertificate.astro';
@@ -23,6 +24,7 @@ import GuildCertificate from '@/components/GuildCertificate.astro';
     <div class="cert-tool__out">
       <label>LinkedIn link for the reply <input readonly data-out="linkedin" /></label>
       <label>Register line for src/data/guild-register.json <input readonly data-out="register" /></label>
+      <label>Link for the guide's own site (paste into the reply) <input readonly data-out="sitelink" /></label>
     </div>
   </section>
   <div class="container cert-page">
@@ -73,6 +75,8 @@ import GuildCertificate from '@/components/GuildCertificate.astro';
     const iso = `${day.getFullYear()}-${String(day.getMonth() + 1).padStart(2, '0')}-${String(day.getDate()).padStart(2, '0')}`;
     const entry: Record<string, string> = { number, name, date: iso };
     if (game?.value.trim()) entry.game = game.value.trim();
+    const site = out('sitelink');
+    if (site) site.value = listed?.checked ? `<a href="${certUrl}">Expert Game Guide No. ${number}, The Ludarium</a>` : 'Not listed';
     const reg = out('register');
     if (reg) reg.value = listed?.checked ? JSON.stringify(entry) : 'Not listed';
   };

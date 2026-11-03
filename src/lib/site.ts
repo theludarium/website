@@ -155,6 +155,7 @@ export const FOOTER_NAV: { title: string; links: NavLink[] }[] = [
       { href: '/lounges/indianapolis/', label: 'Indianapolis' },
       { href: '/services/', label: 'Services' },
       { href: '/corporate-events/', label: 'For teams' },
+      { href: '/press/', label: 'Press' },
     ],
   },
   {

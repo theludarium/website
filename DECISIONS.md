@@ -519,3 +519,10 @@ Levi's call: keep collecting emails, but stop sending automated emails to the pe
 - **Early members keep their free review.** The Guild page promised a free review, so anyone who joined before November 3, 2026 ticks a box instead of paying. Levi checks their Kit signup date.
 - **The Guild register** (`/academy/guild/register/`, data in `src/data/guild-register.json`) lists certified students who opted in, by certificate number, so anyone can check a certificate. It stays out of search until it lists someone. The certificate maker builds each register line and a LinkedIn "add to profile" link.
 - **The Course structured data still says free,** because the training is. The certification is not listed as an offer.
+
+## 2026-11-03: Inbound links: earn them, never buy them
+
+- **Strategy in `docs/marketing/LINK-STRATEGY.md`.** Earn links by being the most useful page on a subject: link-ready assets, answers to journalists, personal outreach, community help, podcasts, and later original data. No bought links, link swaps at scale, paid directories, or link networks. Claude builds and drafts; Levi sends every email and post.
+- **A press page at `/press/`,** linked in the footer: quick facts (counts update each build), a paragraph journalists can use as is, the founder's bio, logo and photo downloads, interview topics, and a contact.
+- **"Link to this page" boxes** (`src/components/LinkSnippet.astro`) on teach sheets and the press page give people a ready-made HTML link. Teach sheet PDFs now say "Free to print and share."
+- **Guild register entries** each have a copy-link button, and the certificate maker builds a link for each listed guide to put on their own site.

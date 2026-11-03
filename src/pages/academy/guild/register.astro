@@ -39,9 +39,20 @@ const dateLabel = (iso: string) =>
                 Certified {dateLabel(e.date)}
                 {e.game && <> &middot; taught {e.game}</>}
               </span>
+              <button class="register__copy" type="button" data-register-copy={`https://theludarium.com/academy/guild/register/#cert-${e.number}`}>
+                Copy link to this entry
+              </button>
             </li>
           ))}
         </ol>
+      )
+    }
+    {
+      entries.length > 0 && (
+        <p class="register__share">
+          Listed here? Link to your entry from your website, club page, store bio, or LinkedIn so people can check
+          your certificate.
+        </p>
       )
     }
     <p class="register__cta">
@@ -49,6 +60,20 @@ const dateLabel = (iso: string) =>
     </p>
   </section>
 </BaseLayout>
+
+<script>
+  document.querySelectorAll<HTMLButtonElement>('[data-register-copy]').forEach((button) => {
+    button.addEventListener('click', async () => {
+      const url = button.dataset.registerCopy ?? '';
+      try {
+        await navigator.clipboard.writeText(url);
+        button.textContent = 'Link copied';
+      } catch {
+        window.prompt('Copy this link:', url);
+      }
+    });
+  });
+</script>
 
 <style>
   .register {
@@ -96,6 +121,23 @@ const dateLabel = (iso: string) =>
   .register__empty {
     font-size: var(--text-sm);
     color: var(--color-text-muted);
+  }
+
+  .register__copy {
+    justify-self: start;
+    margin-top: var(--space-2);
+    padding: 0;
+    border: 0;
+    background: none;
+    color: var(--color-primary);
+    font: inherit;
+    font-size: var(--text-sm);
+    text-decoration: underline;
+    cursor: pointer;
+  }
+
+  .register__share {
+    margin: 0 0 var(--space-4);
   }
 
   .register__empty {

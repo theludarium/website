@@ -5,8 +5,9 @@
 // the PDF link, and the course signup; in print only the sheet shows.
 // scripts/teach-sheets.mjs prints these pages to PDFs in public/academy/<slug>/.
 import BaseLayout from '@/layouts/BaseLayout.astro';
+import LinkSnippet from '@/components/LinkSnippet.astro';
 import CourseForm from '@/components/CourseForm.astro';
-import { courseUrl, getGameCourses, setupDiagramUrl, teachSheetPdfUrl, type GameCourse } from '@/lib/courses';
+import { courseUrl, getGameCourses, setupDiagramUrl, teachSheetPdfUrl, teachSheetUrl, type GameCourse } from '@/lib/courses';
 
 export async function getStaticPaths() {
   return (await getGameCourses()).map((course) => ({ params: { course: course.id }, props: { course } }));
@@ -78,10 +79,19 @@ const pageTitle = [`${d.game} Teach Sheet: Teach It in Ten Minutes`, `${d.game} 
     </div>
 
     <footer class="sheet__foot">
-      <p>Free course: theludarium.com{home}</p>
+      <p>Free to print and share. Free course: theludarium.com{home}</p>
       <p>{d.notice} Rules as of the {d.rulesEdition}.</p>
     </footer>
   </article>
+
+  <div class="container sheet-share">
+    <LinkSnippet path={teachSheetUrl(course)} label={`${d.game} teach sheet`} title="Print it, share it, link to it">
+      <p>
+        Running a demo night, a club, a classroom, or a store event? Print as many copies as you like. If you
+        mention the sheet on your site or newsletter, this link takes people straight to it.
+      </p>
+    </LinkSnippet>
+  </div>
 
   <section class="container sheet-signup" data-pagefind-ignore>
     <h2>Want the rest of the course?</h2>
@@ -210,6 +220,10 @@ const pageTitle = [`${d.game} Teach Sheet: Teach It in Ten Minutes`, `${d.game} 
   .sheet__foot p:first-child {
     font-weight: 700;
     color: var(--brand-felt);
+  }
+
+  .sheet-share {
+    padding-bottom: var(--space-7);
   }
 
   .sheet-signup {
