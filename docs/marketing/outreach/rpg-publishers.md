@@ -37,7 +37,12 @@ Skip Paizo. There is no listing for ORC work, and the demo deliberately avoids t
 
 These came up in the research. Each is a two-minute check of the demo's credits against the publisher's rules, so the first thing a publisher sees is a clean page.
 
-- **Ironsworn and Starforged:** only the Ironsworn SRD, the Starforged Reference Guide, and the asset and oracle text are CC BY 4.0. The full rulebooks are CC BY-NC-SA, and the RPG Demo Library sells PDFs. The README says the demo text comes from the SRD through Datasworn, which is the right source. Worth a look that nothing came from the rulebooks.
+- **Ironsworn: decide before emailing Tomkin.** Checked 2026-11-04. Tomkin allows commercial use of only the SRD, asset cards, and oracle text (CC BY 4.0). The rest of the rulebook, including the Ironlands setting and its regions and foes, is non-commercial only (CC BY-NC-SA). Datasworn tags those 55 setting and NPC entries as non-commercial.
+  - The demo's moves, assets, and oracles are clean.
+  - The setting names are not. The demo and the paid PDF *The Bell Beneath the Fen* both use them: the PDF's handbook chapter is "Welcome to the Ironlands", Act Three and the cast page say "the Ironlands", and Ysolde's background says she was "raised on the punts of the Flooded Lands".
+  - Whether place names alone break the license is a gray area. But the PDF is sold, and this email puts it in front of the one person who decides.
+  - Simplest fix: swap "Flooded Lands" and "the Ironlands" for original names in the PDF and the demo, then send. The other option is to ask Tomkin directly in the email.
+  - Starforged is clean: the whole Reference Guide is CC BY.
 - **Blades:** don't use "Blades in the Dark" in a product title, and don't use the One Seven Design or Blades logos. The demo is titled "The Cinderhouse Score" under "Forged in the Dark", which fits.
 - **Skellies:** CC BY-SA, so the demo text must stay CC BY-SA. The README already says it does.
 - **Cypher:** the CSOL requires its notice text and rules out "overt political agendas". The README carries the notice.

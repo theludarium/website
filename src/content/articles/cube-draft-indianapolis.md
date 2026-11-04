@@ -66,7 +66,7 @@ Cube Commonwealth is one night a week. For the other six, Indianapolis has a sto
 
 - **[Moonshot Games](https://moonshotgamestore.com/)**, 50 N 9th St, downtown Noblesville. Friday Night Magic plus a game room and demo tables.
 - **[Hero's Emporium](https://www.visithamiltoncounty.com/listing/heros-emporium/5473/)**, Carmel. Magic nights and Commander sessions.
-- **[Next Level Games](https://www.visithamiltoncounty.com/listing/next-level-games/5751/)**, Carmel. Magic nights and game events.
+- **[Next Level Games](https://www.nextlevelgames.store/events?location=carmel)**, Carmel. Magic nights and game events.
 - **[Gray Gauntlet Games](https://graygauntletgames.com/)**, 7998 Centerpoint Dr, Fishers. Magic on the events calendar alongside Pokémon and painting nights.
 - **[Game Time](http://www.gametimeindy.com/)**, 8244 Center Run Dr, Castleton. In-store play and tournament hosting; open until 10 on Fridays, no online schedule, so call ahead.
 
