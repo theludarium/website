@@ -1,6 +1,7 @@
 ---
 title: "Best Board Games for 5-Year-Olds That Adults Enjoy Too"
-description: "The best board games for 5 year olds that grown-ups enjoy too: ten picks with play times, step-up games for ages 5 to 7, how to teach them, and what to skip."
+seoTitle: "Best Board Games for 5-Year-Olds: 10 Picks Adults Enjoy"
+description: "Start with Outfoxed! and Dragomino, add Rhino Hero for laughs, and skip Candy Land. Ten board games for 5-year-olds with play times, plus picks for ages 5 to 7."
 pubDate: 2026-10-20
 updatedDate: 2026-10-29
 category: Game Night

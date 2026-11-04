@@ -1,6 +1,7 @@
 ---
 title: "Best Party Games for Large Groups of 8 to 20 People"
-description: "Party games for large groups of adults: the best picks for 8, 10, 12, or 20 people, games that need no equipment, and how to host a big table without chaos."
+seoTitle: "12 Party Games for Large Groups of 8 to 20 People"
+description: "Party games for 10, 12 or 20 people: Codenames and Wavelength for 8 to 12, Monikers and Telestrations for a bigger crowd, and no-equipment games for any size."
 pubDate: 2026-10-19
 updatedDate: 2026-10-29
 category: Game Guides

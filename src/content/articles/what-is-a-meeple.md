@@ -1,6 +1,7 @@
 ---
 title: "Meeple: What It Means and Where the Word Came From"
-description: "A meeple is the little wooden person from Carcassonne. What the word means, why they are called meeples, who coined it, and how it became the hobby's symbol."
+seoTitle: "What Is a Meeple? Meaning and Origin of the Word"
+description: "A meeple is the little wooden person from Carcassonne. The word blends 'my' and 'people' and was coined at a game table in 2000. How it took over the hobby."
 pubDate: 2026-10-20
 updatedDate: 2026-10-29
 category: Game Guides
