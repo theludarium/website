@@ -44,6 +44,9 @@ const offer = offerKey ? { key: offerKey, ...KIT_OFFER_FORMS[offerKey] } : undef
 // frontmatter, else its category's letter, else the general letter.
 const lettersKey = article.data.letters ?? categoryByName(category).letters ?? 'general';
 const letter = KIT_LETTERS_FORMS[lettersKey];
+// The lounge series keeps readers longest, so it points them at the Indianapolis waitlist too.
+const LOUNGE_SERIES = ['Game lounges and third places', 'Building The Ludarium'];
+const loungeSeries = tags.some((t) => LOUNGE_SERIES.includes(t));
 const { Content, headings } = await render(article);
 // Markdown articles with Amazon links get the disclosure automatically; MDX
 // articles that place <AffiliateNotice /> themselves keep their own.
@@ -154,6 +157,20 @@ const structuredData = [
                 <li>{tag}</li>
               ))}
             </ul>
+          )
+        }
+
+        {
+          loungeSeries && (
+            <aside class="article__waitlist" aria-labelledby="article-waitlist-title" data-pagefind-ignore>
+              <p class="eyebrow">The first lounge</p>
+              <h2 id="article-waitlist-title">Near Indianapolis?</h2>
+              <p>
+                The Ludarium Game Lounge is planned for Indianapolis: a membership space where every kind of tabletop
+                group can meet and play. Join the list for first word as it takes shape.
+              </p>
+              <a class="button" href="/lounges/indianapolis/">Join the Indianapolis list</a>
+            </aside>
           )
         }
 

@@ -94,3 +94,13 @@ Still to do in Kit, one per letter:
 ## Last names (added 2026-10-22)
 
 The waitlist, malaphor, and Academy forms ask for first and last name. Kit stores first name on its own, but last name is a custom field: create it once, in **Subscribers**, open any profile, **Custom Fields > Add new**, named exactly `last_name`. Every form then fills it. Until it exists, Kit quietly drops the last name and the signup still works.
+
+## Tag every link to the site (added 2026-11-03)
+
+Kit wraps links for click tracking, which strips the referrer, so without tags every newsletter click lands in Google Analytics as Direct. Every link to theludarium.com in a Kit email carries UTM tags:
+
+- Weekly letters (broadcasts): `?utm_source=kit&utm_medium=email&utm_campaign=letters-<letter>&utm_content=<yyyy-mm-dd>`, where `<letter>` is general, cube, tabletop, or industry.
+- Welcome sequences: `utm_campaign=welcome-<letter>` (or `welcome-indianapolis`) and `utm_content=email-<n>`; already in `letters-welcome-emails.md` and `emails.md`.
+- Course and Guild emails: added by `scripts/course-emails.mjs` and `scripts/guild-emails.mjs`.
+
+Links to other sites stay untagged.
