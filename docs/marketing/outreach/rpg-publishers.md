@@ -37,11 +37,9 @@ Skip Paizo. There is no listing for ORC work, and the demo deliberately avoids t
 
 These came up in the research. Each is a two-minute check of the demo's credits against the publisher's rules, so the first thing a publisher sees is a clean page.
 
-- **Ironsworn: decide before emailing Tomkin.** Checked 2026-11-04. Tomkin allows commercial use of only the SRD, asset cards, and oracle text (CC BY 4.0). The rest of the rulebook, including the Ironlands setting and its regions and foes, is non-commercial only (CC BY-NC-SA). Datasworn tags those 55 setting and NPC entries as non-commercial.
-  - The demo's moves, assets, and oracles are clean.
-  - The setting names are not. The demo and the paid PDF *The Bell Beneath the Fen* both use them: the PDF's handbook chapter is "Welcome to the Ironlands", Act Three and the cast page say "the Ironlands", and Ysolde's background says she was "raised on the punts of the Flooded Lands".
-  - Whether place names alone break the license is a gray area. But the PDF is sold, and this email puts it in front of the one person who decides.
-  - Simplest fix: swap "Flooded Lands" and "the Ironlands" for original names in the PDF and the demo, then send. The other option is to ask Tomkin directly in the email.
+- **Ironsworn and Starforged: checked 2026-11-04, clear to send.** Tomkin allows commercial use of the Ironsworn SRD, asset cards, and oracle tables (CC BY 4.0). The rest of the rulebook is non-commercial only (CC BY-NC-SA): the setting write-ups for the Ironlands and its regions, the foe and NPC entries, and the world truths.
+  - The demo and the paid PDF *The Bell Beneath the Fen* use setting names: "the Ironlands", "the Flooded Lands", "the Havens". Those names all appear in CC BY text too: the Region oracle, the Ironlander Names oracle, and the adventure moves intro.
+  - No wording from the non-commercial text appears in the book or the demo. A check of every five-word run in all 229 non-commercial passages against both found only the everyday phrase "all that is left of".
   - Starforged is clean: the whole Reference Guide is CC BY.
 - **Blades:** don't use "Blades in the Dark" in a product title, and don't use the One Seven Design or Blades logos. The demo is titled "The Cinderhouse Score" under "Forged in the Dark", which fits.
 - **Skellies:** CC BY-SA, so the demo text must stay CC BY-SA. The README already says it does.
