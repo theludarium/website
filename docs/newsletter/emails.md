@@ -40,16 +40,16 @@ Superseded 2026-10-28: the General letter's welcome is now a three-email sequenc
 >
 > **Start here**
 >
-> - [10 gateway board games that turn non-gamers into regulars](https://theludarium.com/articles/gateway-board-games/), if you want the right first game for your people.
-> - [Game night lineup: opener, main event, closer](https://theludarium.com/articles/game-night-lineup/), if you are hosting soon.
-> - [How to start a board game group that lasts](https://theludarium.com/articles/how-to-start-a-game-night-group/), if you want a standing night.
-> - [Why we needed a new word](https://theludarium.com/articles/togethering-meaning/), if you want the why.
+> - [10 gateway board games that turn non-gamers into regulars](https://theludarium.com/articles/gateway-board-games/?utm_source=kit&utm_medium=email&utm_campaign=welcome-general&utm_content=email-1), if you want the right first game for your people.
+> - [Game night lineup: opener, main event, closer](https://theludarium.com/articles/game-night-lineup/?utm_source=kit&utm_medium=email&utm_campaign=welcome-general&utm_content=email-1), if you are hosting soon.
+> - [How to start a board game group that lasts](https://theludarium.com/articles/how-to-start-a-game-night-group/?utm_source=kit&utm_medium=email&utm_campaign=welcome-general&utm_content=email-1), if you want a standing night.
+> - [Why we needed a new word](https://theludarium.com/articles/togethering-meaning/?utm_source=kit&utm_medium=email&utm_campaign=welcome-general&utm_content=email-1), if you want the why.
 >
 > **Play something tonight**
 >
-> - [Game Night Madness](https://theludarium.com/game-night-madness/): can't decide what to play? Put your shelf in a bracket and let the table vote.
-> - [The RPG Demo Library](https://theludarium.com/rpg-demo-library/): try a tabletop roleplaying game in 20 minutes, free, in your browser.
-> - [The Card Catalogue](https://theludarium.com/card-catalogue/): find games by how they feel, and get picks for your whole group.
+> - [Game Night Madness](https://theludarium.com/game-night-madness/?utm_source=kit&utm_medium=email&utm_campaign=welcome-general&utm_content=email-1): can't decide what to play? Put your shelf in a bracket and let the table vote.
+> - [The RPG Demo Library](https://theludarium.com/rpg-demo-library/?utm_source=kit&utm_medium=email&utm_campaign=welcome-general&utm_content=email-1): try a tabletop roleplaying game in 20 minutes, free, in your browser.
+> - [The Card Catalogue](https://theludarium.com/card-catalogue/?utm_source=kit&utm_medium=email&utm_campaign=welcome-general&utm_content=email-1): find games by how they feel, and get picks for your whole group.
 >
 > **What's coming**
 >
@@ -94,13 +94,13 @@ For people who join through the **Lounge waitlist: Indianapolis** form. It repla
 > **Help it happen sooner**
 >
 > - **Reply and tell me what group, club, or game night you're part of now.** I read every reply, and those groups are who we build around.
-> - **Know someone who'd want a seat?** Send them to [theludarium.com/lounges/indianapolis](https://theludarium.com/lounges/indianapolis/). The more people on the list, the sooner it opens.
+> - **Know someone who'd want a seat?** Send them to [theludarium.com/lounges/indianapolis](https://theludarium.com/lounges/indianapolis/?utm_source=kit&utm_medium=email&utm_campaign=welcome-indianapolis&utm_content=email-1). The more people on the list, the sooner it opens.
 >
 > **While you wait**
 >
-> - [Board game stores in Indianapolis, by neighborhood](https://theludarium.com/articles/indianapolis-board-game-stores/)
-> - [How to find a public game night near you](https://theludarium.com/articles/board-game-night-near-me/)
-> - [Game Night Madness](https://theludarium.com/game-night-madness/), for the next time your group can't decide what to play
+> - [Board game stores in Indianapolis, by neighborhood](https://theludarium.com/articles/indianapolis-board-game-stores/?utm_source=kit&utm_medium=email&utm_campaign=welcome-indianapolis&utm_content=email-1)
+> - [How to find a public game night near you](https://theludarium.com/articles/board-game-night-near-me/?utm_source=kit&utm_medium=email&utm_campaign=welcome-indianapolis&utm_content=email-1)
+> - [Game Night Madness](https://theludarium.com/game-night-madness/?utm_source=kit&utm_medium=email&utm_campaign=welcome-indianapolis&utm_content=email-1), for the next time your group can't decide what to play
 >
 > See you at the table,
 >

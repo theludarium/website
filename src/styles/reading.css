@@ -108,6 +108,27 @@
   color: var(--color-text-muted);
 }
 
+.article__waitlist {
+  margin-top: var(--space-8);
+  padding: var(--space-6);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-card);
+  background: var(--color-surface);
+}
+
+.article__waitlist h2 {
+  margin-top: 0;
+  font-size: var(--text-2xl);
+}
+
+.article__waitlist p:not(.eyebrow) {
+  color: var(--color-text-muted);
+}
+
+.article__waitlist + .article__signup {
+  margin-top: var(--space-5);
+}
+
 .related__grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(min(100%, 18rem), 1fr));

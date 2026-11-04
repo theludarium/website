@@ -8,6 +8,8 @@ Written 2026-10-28. Companion to `KIT-SETUP.md` (forms, tags, segments) and `ema
 
 ## House rules for these emails
 
+- Every link to theludarium.com carries UTM tags (`utm_source=kit&utm_medium=email&utm_campaign=welcome-<letter>&utm_content=email-<n>`), so email shows up as its own channel in Google Analytics instead of hiding in Direct. Kit's click tracking strips the referrer, so the tags are the only way GA can tell.
+
 - Plain words, short sentences, no em dashes. Sent as Levi, replies to hello@theludarium.com.
 - Greeting: `Hi {{ subscriber.first_name | default: "there" }},` (Kit's Liquid tag; the site's forms collect only an email, so most readers see "there").
 - Every link below is a live page as of 2026-10-28. Draft articles are not linked.
@@ -52,16 +54,16 @@ Kit runs form rules only after the reader confirms, so email 1 lands right after
 >
 > **Start here**
 >
-> - [10 gateway board games](https://theludarium.com/articles/gateway-board-games/), if you want the right first game for your people.
-> - [Game night lineup: opener, main event, closer](https://theludarium.com/articles/game-night-lineup/), if you are hosting soon.
-> - [How to start a board game group that lasts](https://theludarium.com/articles/how-to-start-a-game-night-group/), if you want a standing night.
-> - [Why we needed a new word](https://theludarium.com/articles/togethering-meaning/), if you want the why.
+> - [10 gateway board games](https://theludarium.com/articles/gateway-board-games/?utm_source=kit&utm_medium=email&utm_campaign=welcome-general&utm_content=email-1), if you want the right first game for your people.
+> - [Game night lineup: opener, main event, closer](https://theludarium.com/articles/game-night-lineup/?utm_source=kit&utm_medium=email&utm_campaign=welcome-general&utm_content=email-1), if you are hosting soon.
+> - [How to start a board game group that lasts](https://theludarium.com/articles/how-to-start-a-game-night-group/?utm_source=kit&utm_medium=email&utm_campaign=welcome-general&utm_content=email-1), if you want a standing night.
+> - [Why we needed a new word](https://theludarium.com/articles/togethering-meaning/?utm_source=kit&utm_medium=email&utm_campaign=welcome-general&utm_content=email-1), if you want the why.
 >
 > **Play something tonight**
 >
-> - [Game Night Madness](https://theludarium.com/game-night-madness/): can't decide what to play? Put your shelf in a bracket and let the table vote.
-> - [The RPG Demo Library](https://theludarium.com/rpg-demo-library/): try a tabletop roleplaying game in 20 minutes, free, in your browser.
-> - [The Card Catalogue](https://theludarium.com/card-catalogue/): find games by how they feel, and get picks for your whole group.
+> - [Game Night Madness](https://theludarium.com/game-night-madness/?utm_source=kit&utm_medium=email&utm_campaign=welcome-general&utm_content=email-1): can't decide what to play? Put your shelf in a bracket and let the table vote.
+> - [The RPG Demo Library](https://theludarium.com/rpg-demo-library/?utm_source=kit&utm_medium=email&utm_campaign=welcome-general&utm_content=email-1): try a tabletop roleplaying game in 20 minutes, free, in your browser.
+> - [The Card Catalogue](https://theludarium.com/card-catalogue/?utm_source=kit&utm_medium=email&utm_campaign=welcome-general&utm_content=email-1): find games by how they feel, and get picks for your whole group.
 >
 > **What's coming**
 >
@@ -93,7 +95,7 @@ Kit runs form rules only after the reader confirms, so email 1 lands right after
 >
 > The article walks through the research in plain language, with the hedges where they belong.
 >
-> Read: [Benefits of play for adults: the case for playing](https://theludarium.com/articles/benefits-of-play-for-adults/)
+> Read: [Benefits of play for adults: the case for playing](https://theludarium.com/articles/benefits-of-play-for-adults/?utm_source=kit&utm_medium=email&utm_campaign=welcome-general&utm_content=email-2)
 >
 > One small ask: think of one person you have not sat across a table from in six months. Hold that name until the next email.
 >
@@ -119,7 +121,7 @@ Kit runs form rules only after the reader confirms, so email 1 lands right after
 >
 > Send one text today: "I'm starting a game night, second Tuesday of the month. Want in?" That is the whole job. The full playbook, including what to do about the person who never comes, is here:
 >
-> Read: [How to start a board game group that lasts](https://theludarium.com/articles/how-to-start-a-game-night-group/)
+> Read: [How to start a board game group that lasts](https://theludarium.com/articles/how-to-start-a-game-night-group/?utm_source=kit&utm_medium=email&utm_campaign=welcome-general&utm_content=email-3)
 >
 > **What arrives from now on**
 >
@@ -131,7 +133,7 @@ Kit runs form rules only after the reader confirms, so email 1 lands right after
 > - **Tabletop**, for board game picks, strategy, and shelf advice.
 > - **Industry**, for the business of tabletop: what the companies are doing and where the money goes.
 >
-> Each is its own weekly email. Pick any of them at [theludarium.com/newsletter](https://theludarium.com/newsletter/), and you get only what you pick.
+> Each is its own weekly email. Pick any of them at [theludarium.com/newsletter](https://theludarium.com/newsletter/?utm_source=kit&utm_medium=email&utm_campaign=welcome-general&utm_content=email-3), and you get only what you pick.
 >
 > One question before I go: what game got you into this? Not the best game you own. The first one that made you think, "I want to do that again with these people." Reply with one title. The best answers end up in the letter, with your first name if you say yes.
 >
@@ -163,10 +165,10 @@ Kit runs form rules only after the reader confirms, so email 1 lands right after
 >
 > **Start here**
 >
-> - [What is a Magic Cube](https://theludarium.com/articles/what-is-a-magic-cube/), if you are new, or need to explain it to your table.
-> - [Cube draft strategy: picks, signals, and the table](https://theludarium.com/articles/cube-draft-strategy/), if you draft.
-> - [How to build a Cube: your first Cube under $200](https://theludarium.com/articles/how-to-build-a-cube-mtg/), if you want to build.
-> - [How to run a Cube draft: 8 players, 3 hours](https://theludarium.com/articles/how-to-run-a-cube-draft/), if you run the night.
+> - [What is a Magic Cube](https://theludarium.com/articles/what-is-a-magic-cube/?utm_source=kit&utm_medium=email&utm_campaign=welcome-cube&utm_content=email-1), if you are new, or need to explain it to your table.
+> - [Cube draft strategy: picks, signals, and the table](https://theludarium.com/articles/cube-draft-strategy/?utm_source=kit&utm_medium=email&utm_campaign=welcome-cube&utm_content=email-1), if you draft.
+> - [How to build a Cube: your first Cube under $200](https://theludarium.com/articles/how-to-build-a-cube-mtg/?utm_source=kit&utm_medium=email&utm_campaign=welcome-cube&utm_content=email-1), if you want to build.
+> - [How to run a Cube draft: 8 players, 3 hours](https://theludarium.com/articles/how-to-run-a-cube-draft/?utm_source=kit&utm_medium=email&utm_campaign=welcome-cube&utm_content=email-1), if you run the night.
 >
 > One favor: reply with the Cube you draft most, yours or someone else's. A CubeCobra link is perfect. I read every reply, and the Cubes you send shape what I review next.
 >
@@ -190,9 +192,9 @@ Kit runs form rules only after the reader confirms, so email 1 lands right after
 >
 > Every Cube is an argument about what Magic should feel like. The sections tell you the archetypes the designer wants you to draft. The card count per color tells you how contested each lane will be. The fixing tells you how greedy you can be. Ten minutes with the list, and you walk into the draft knowing which decks are supported and which are traps.
 >
-> Read: [How to read a Cube list in ten minutes](https://theludarium.com/articles/how-to-read-a-cube-list/)
+> Read: [How to read a Cube list in ten minutes](https://theludarium.com/articles/how-to-read-a-cube-list/?utm_source=kit&utm_medium=email&utm_campaign=welcome-cube&utm_content=email-2)
 >
-> If you want the longer version, the Academy's Cube Draft course sends short lessons by email, free: [Cube Draft](https://theludarium.com/academy/cube-draft/). It is a separate signup, so this letter stays this letter.
+> If you want the longer version, the Academy's Cube Draft course sends short lessons by email, free: [Cube Draft](https://theludarium.com/academy/cube-draft/?utm_source=kit&utm_medium=email&utm_campaign=welcome-cube&utm_content=email-2). It is a separate signup, so this letter stays this letter.
 >
 > One small ask: before your next draft, open the list and count the fixing. Then tell me if it changed your first pick.
 >
@@ -214,7 +216,7 @@ Kit runs form rules only after the reader confirms, so email 1 lands right after
 >
 > A word about the community behind this letter.
 >
-> Cube Commonwealth is a group of Cube players in and around Indianapolis who draft together every week, and everyone who drafts has a say in how the Cube changes. If you are near Indy, [Where We Play](https://theludarium.com/cube-commonwealth/where-we-play/) shows where our members draft and lets you add yourself to the map, and [Magic in Indianapolis: where to play](https://theludarium.com/articles/where-to-play-magic-indianapolis/) lists the stores running events. If you are not, the letter brings the table to you.
+> Cube Commonwealth is a group of Cube players in and around Indianapolis who draft together every week, and everyone who drafts has a say in how the Cube changes. If you are near Indy, [Where We Play](https://theludarium.com/cube-commonwealth/where-we-play/?utm_source=kit&utm_medium=email&utm_campaign=welcome-cube&utm_content=email-3) shows where our members draft and lets you add yourself to the map, and [Magic in Indianapolis: where to play](https://theludarium.com/articles/where-to-play-magic-indianapolis/?utm_source=kit&utm_medium=email&utm_campaign=welcome-cube&utm_content=email-3) lists the stores running events. If you are not, the letter brings the table to you.
 >
 > **What arrives from now on**
 >
@@ -222,7 +224,7 @@ Kit runs form rules only after the reader confirms, so email 1 lands right after
 >
 > **The other letters**
 >
-> The Ludarium also writes a **General** letter (the big picture and the best of everything we publish), a **Tabletop** letter (board games and card games that aren't TCGs), and an **Industry** letter (the business of tabletop). Each is its own weekly email. Pick any of them at [theludarium.com/newsletter](https://theludarium.com/newsletter/), and you get only what you pick.
+> The Ludarium also writes a **General** letter (the big picture and the best of everything we publish), a **Tabletop** letter (board games and card games that aren't TCGs), and an **Industry** letter (the business of tabletop). Each is its own weekly email. Pick any of them at [theludarium.com/newsletter](https://theludarium.com/newsletter/?utm_source=kit&utm_medium=email&utm_campaign=welcome-cube&utm_content=email-3), and you get only what you pick.
 >
 > One question: what is the one card you would never cut from your Cube? Reply with the card and the reason. The best answers end up in the letter, with your first name if you say yes.
 >
@@ -254,16 +256,16 @@ Kit runs form rules only after the reader confirms, so email 1 lands right after
 >
 > **Start here**
 >
-> - [10 gateway board games](https://theludarium.com/articles/gateway-board-games/), the list we send most often when someone asks what to bring.
-> - [Easiest board games to learn: teach them in one sentence](https://theludarium.com/articles/easiest-board-games-to-learn/), for a table of first-timers.
-> - [15 best cooperative board games](https://theludarium.com/articles/best-cooperative-board-games/), for groups who hate losing to each other.
-> - [Board game weight explained](https://theludarium.com/articles/board-game-weight-explained/), so a "2.5" on a box means something.
+> - [10 gateway board games](https://theludarium.com/articles/gateway-board-games/?utm_source=kit&utm_medium=email&utm_campaign=welcome-tabletop&utm_content=email-1), the list we send most often when someone asks what to bring.
+> - [Easiest board games to learn: teach them in one sentence](https://theludarium.com/articles/easiest-board-games-to-learn/?utm_source=kit&utm_medium=email&utm_campaign=welcome-tabletop&utm_content=email-1), for a table of first-timers.
+> - [15 best cooperative board games](https://theludarium.com/articles/best-cooperative-board-games/?utm_source=kit&utm_medium=email&utm_campaign=welcome-tabletop&utm_content=email-1), for groups who hate losing to each other.
+> - [Board game weight explained](https://theludarium.com/articles/board-game-weight-explained/?utm_source=kit&utm_medium=email&utm_campaign=welcome-tabletop&utm_content=email-1), so a "2.5" on a box means something.
 >
 > **Play something tonight**
 >
-> - [The Card Catalogue](https://theludarium.com/card-catalogue/): find games by how they feel, and get picks for your whole group.
-> - [Game Night Madness](https://theludarium.com/game-night-madness/): put your shelf in a bracket and let the table vote.
-> - [The Academy](https://theludarium.com/academy/): free lessons on Wingspan, Azul, Carcassonne, Ticket to Ride, and more.
+> - [The Card Catalogue](https://theludarium.com/card-catalogue/?utm_source=kit&utm_medium=email&utm_campaign=welcome-tabletop&utm_content=email-1): find games by how they feel, and get picks for your whole group.
+> - [Game Night Madness](https://theludarium.com/game-night-madness/?utm_source=kit&utm_medium=email&utm_campaign=welcome-tabletop&utm_content=email-1): put your shelf in a bracket and let the table vote.
+> - [The Academy](https://theludarium.com/academy/?utm_source=kit&utm_medium=email&utm_campaign=welcome-tabletop&utm_content=email-1): free lessons on Wingspan, Azul, Carcassonne, Ticket to Ride, and more.
 >
 > One favor: reply with the game on your table this week, and who you played it with. I read every reply.
 >
@@ -287,11 +289,11 @@ Kit runs form rules only after the reader confirms, so email 1 lands right after
 >
 > A play group needs one copy of a game, not one per person. Five friends who each own Catan own four copies that never leave the shelf. Five friends who own five different games own a library. We call it the One Copy Rule, and it changes how you shop: before you buy a game, ask who in your group already has it.
 >
-> Read: [The One Copy Rule](https://theludarium.com/articles/one-copy-rule/)
+> Read: [The One Copy Rule](https://theludarium.com/articles/one-copy-rule/?utm_source=kit&utm_medium=email&utm_campaign=welcome-tabletop&utm_content=email-2)
 >
 > If your shelf is empty, or nearly, this is the companion piece: a starter shelf that covers most game nights, built in steps from $40 to $300.
 >
-> Read: [The Starter Shelf](https://theludarium.com/articles/starter-shelf-40-to-300/)
+> Read: [The Starter Shelf](https://theludarium.com/articles/starter-shelf-40-to-300/?utm_source=kit&utm_medium=email&utm_campaign=welcome-tabletop&utm_content=email-2)
 >
 > One small ask: text your group one line today: "What games do you own?" The answers are your first library.
 >
@@ -317,11 +319,11 @@ Kit runs form rules only after the reader confirms, so email 1 lands right after
 >
 > Every Tuesday, one Tabletop letter: one game and who it is for, one idea for hosting or teaching, the newest guides, and new Academy lessons. No sales emails in between.
 >
-> If you want to go deep on one game, the Academy sends short lessons by email, free, for games like Wingspan, Azul, Carcassonne, and Ticket to Ride. Each course is its own signup, so this letter stays this letter: [The Ludarium Academy](https://theludarium.com/academy/).
+> If you want to go deep on one game, the Academy sends short lessons by email, free, for games like Wingspan, Azul, Carcassonne, and Ticket to Ride. Each course is its own signup, so this letter stays this letter: [The Ludarium Academy](https://theludarium.com/academy/?utm_source=kit&utm_medium=email&utm_campaign=welcome-tabletop&utm_content=email-3).
 >
 > **The other letters**
 >
-> The Ludarium also writes a **General** letter (the big picture and the best of everything we publish), a **Cube** letter (Magic Cube drafting and building), and an **Industry** letter (the business of tabletop). Each is its own weekly email. Pick any of them at [theludarium.com/newsletter](https://theludarium.com/newsletter/), and you get only what you pick.
+> The Ludarium also writes a **General** letter (the big picture and the best of everything we publish), a **Cube** letter (Magic Cube drafting and building), and an **Industry** letter (the business of tabletop). Each is its own weekly email. Pick any of them at [theludarium.com/newsletter](https://theludarium.com/newsletter/?utm_source=kit&utm_medium=email&utm_campaign=welcome-tabletop&utm_content=email-3), and you get only what you pick.
 >
 > One question: what game got you into this? Not the best game you own. The first one that made you think, "I want to do that again with these people." Reply with one title. The best answers end up in the letter, with your first name if you say yes.
 >
@@ -357,10 +359,10 @@ Kit runs form rules only after the reader confirms, so email 1 lands right after
 >
 > **Start here**
 >
-> - [How much do board gamers actually spend per year?](https://theludarium.com/articles/how-much-do-gamers-spend/)
-> - [Why board games cost more now](https://theludarium.com/articles/why-board-games-cost-more-now/)
-> - [Kickstarter board game campaigns: a sober look](https://theludarium.com/articles/kickstarter-board-game/)
-> - [Game lounge membership model: how the math works](https://theludarium.com/articles/game-lounge-membership-model/)
+> - [How much do board gamers actually spend per year?](https://theludarium.com/articles/how-much-do-gamers-spend/?utm_source=kit&utm_medium=email&utm_campaign=welcome-industry&utm_content=email-1)
+> - [Why board games cost more now](https://theludarium.com/articles/why-board-games-cost-more-now/?utm_source=kit&utm_medium=email&utm_campaign=welcome-industry&utm_content=email-1)
+> - [Kickstarter board game campaigns: a sober look](https://theludarium.com/articles/kickstarter-board-game/?utm_source=kit&utm_medium=email&utm_campaign=welcome-industry&utm_content=email-1)
+> - [Game lounge membership model: how the math works](https://theludarium.com/articles/game-lounge-membership-model/?utm_source=kit&utm_medium=email&utm_campaign=welcome-industry&utm_content=email-1)
 >
 > One favor: reply and tell me what you do in the industry, or what you are building. Publisher, retailer, designer, creator, investor, or just curious. I read every reply, and it decides which numbers we chase first.
 >
@@ -384,11 +386,11 @@ Kit runs form rules only after the reader confirms, so email 1 lands right after
 >
 > A game store makes money on margin per box, and the margin is thin. A coworking space makes money on membership, which pays whether a member comes once a week or every day, and makes the fifth visit free. We think the second model is the one tabletop has been missing, and we are betting a lounge on it.
 >
-> Read: [What coworking got right that game stores got wrong](https://theludarium.com/articles/coworking-vs-game-stores/)
+> Read: [What coworking got right that game stores got wrong](https://theludarium.com/articles/coworking-vs-game-stores/?utm_source=kit&utm_medium=email&utm_campaign=welcome-industry&utm_content=email-2)
 >
 > For the view from the floor, twelve owners who run board game cafes on what works and what nearly closed them:
 >
-> Read: [How to run a board game cafe: 12 lessons from owners](https://theludarium.com/articles/how-to-run-a-board-game-cafe/)
+> Read: [How to run a board game cafe: 12 lessons from owners](https://theludarium.com/articles/how-to-run-a-board-game-cafe/?utm_source=kit&utm_medium=email&utm_campaign=welcome-industry&utm_content=email-2)
 >
 > One small ask: if you run a tabletop business, reply with the one number you watch every week. We will compare notes.
 >
@@ -420,7 +422,7 @@ Kit runs form rules only after the reader confirms, so email 1 lands right after
 >
 > **The other letters**
 >
-> The Ludarium also writes a **General** letter (the big picture and the best of everything we publish), a **Cube** letter (Magic Cube drafting and building), and a **Tabletop** letter (board game picks, strategy, and shelf advice). Each is its own weekly email. Pick any of them at [theludarium.com/newsletter](https://theludarium.com/newsletter/), and you get only what you pick.
+> The Ludarium also writes a **General** letter (the big picture and the best of everything we publish), a **Cube** letter (Magic Cube drafting and building), and a **Tabletop** letter (board game picks, strategy, and shelf advice). Each is its own weekly email. Pick any of them at [theludarium.com/newsletter](https://theludarium.com/newsletter/?utm_source=kit&utm_medium=email&utm_campaign=welcome-industry&utm_content=email-3), and you get only what you pick.
 >
 > One question: what is the most underrated business in tabletop right now? A publisher, a store, a creator, a tool. Reply with the name and one line on why. The best answers end up in the letter, with your first name if you say yes.
 >
