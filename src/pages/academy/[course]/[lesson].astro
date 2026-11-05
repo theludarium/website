@@ -7,6 +7,7 @@ import { render } from 'astro:content';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import CourseForm from '@/components/CourseForm.astro';
 import CourseNotice from '@/components/CourseNotice.astro';
+import AffiliateNotice from '@/components/mdx/AffiliateNotice.astro';
 import TableOfContents from '@/components/TableOfContents.astro';
 import {
   courseLessonGames,
@@ -45,6 +46,8 @@ interface Props {
 const { lesson, all, course } = Astro.props;
 const { title, description, pubDate, updatedDate, draft, order, oneIdea, tryThis, nextTeaser } = lesson.data;
 const { Content, headings } = await render(lesson);
+// Lessons with Amazon links get the affiliate disclosure, same as articles.
+const affiliate = /\]\(https:\/\/(www\.amazon\.com|link\.amazon|amzn\.to)\//.test(lesson.body ?? '');
 const d = course.data;
 
 const index = all.findIndex((l) => l.id === lesson.id);
@@ -138,6 +141,7 @@ const structuredData = [
           <p class="eyebrow">The one idea</p>
           <p class="lesson__idea-text">{oneIdea}</p>
         </aside>
+        {affiliate && <AffiliateNotice />}
         <div class="prose-article">
           <Content />
         </div>
