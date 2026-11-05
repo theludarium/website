@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="t">
+<title id="t">An original illustration of a round wooden crokinole board under warm lamplight: rings and pegs around a center hole, discs in two colors scattered across the rings, one disc resting in the center hole, and a few discs in the ditch</title>
+<defs><radialGradient id="felt" cx="50%" cy="45%" r="75%"><stop offset="0" stop-color="#3a6e60"/><stop offset="1" stop-color="#2a5246"/></radialGradient>
+<radialGradient id="wood" cx="45%" cy="40%" r="70%"><stop offset="0" stop-color="#f2e2c4"/><stop offset="1" stop-color="#d9bf93"/></radialGradient>
+<radialGradient id="glow" cx="50%" cy="40%" r="60%"><stop offset="0" stop-color="#E0A23B" stop-opacity=".35"/><stop offset="1" stop-color="#E0A23B" stop-opacity="0"/></radialGradient></defs>
+<rect width="640" height="360" fill="url(#felt)"/>
+<ellipse cx="320" cy="170" rx="300" ry="150" fill="url(#glow)"/>
+<circle cx="320" cy="180" r="164" fill="#7a5235" stroke="#2B1E16" stroke-width="3"/>
+<circle cx="320" cy="180" r="150" fill="#5b3c27"/>
+<circle cx="320" cy="180" r="132" fill="url(#wood)" stroke="#2B1E16" stroke-width="1.5"/>
+<circle cx="320" cy="180" r="121" fill="none" stroke="#2B1E16" stroke-width="2" opacity=".8"/>
+<circle cx="320" cy="180" r="81" fill="none" stroke="#2B1E16" stroke-width="1.6" opacity=".8"/>
+<circle cx="320" cy="180" r="40" fill="none" stroke="#2B1E16" stroke-width="1.6" opacity=".8"/>
+<line x1="377.3" y1="237.3" x2="405.6" y2="265.6" stroke="#2B1E16" stroke-width="1.6" opacity=".8"/>
+<line x1="262.7" y1="237.3" x2="234.4" y2="265.6" stroke="#2B1E16" stroke-width="1.6" opacity=".8"/>
+<line x1="262.7" y1="122.7" x2="234.4" y2="94.4" stroke="#2B1E16" stroke-width="1.6" opacity=".8"/>
+<line x1="377.3" y1="122.7" x2="405.6" y2="94.4" stroke="#2B1E16" stroke-width="1.6" opacity=".8"/>
+<circle cx="357.0" cy="195.3" r="4" fill="#2B1E16"/>
+<circle cx="335.3" cy="217.0" r="4" fill="#2B1E16"/>
+<circle cx="304.7" cy="217.0" r="4" fill="#2B1E16"/>
+<circle cx="283.0" cy="195.3" r="4" fill="#2B1E16"/>
+<circle cx="283.0" cy="164.7" r="4" fill="#2B1E16"/>
+<circle cx="304.7" cy="143.0" r="4" fill="#2B1E16"/>
+<circle cx="335.3" cy="143.0" r="4" fill="#2B1E16"/>
+<circle cx="357.0" cy="164.7" r="4" fill="#2B1E16"/>
+<circle cx="320" cy="180" r="8" fill="#2B1E16"/>
+<circle cx="320" cy="180" r="6.5" fill="#E0A23B" stroke="#2B1E16" stroke-width="1"/>
+<circle cx="375.0" cy="275.3" r="7" fill="#2F5D50" stroke="#f6efe3" stroke-width="1.2"/>
+<circle cx="230.7" cy="147.5" r="7" fill="#E0A23B" stroke="#f6efe3" stroke-width="1.2"/>
+<circle cx="269.8" cy="209.0" r="7" fill="#2F5D50" stroke="#f6efe3" stroke-width="1.2"/>
+<circle cx="335.0" cy="154.0" r="7" fill="#E0A23B" stroke="#f6efe3" stroke-width="1.2"/>
+<circle cx="376.4" cy="200.5" r="7" fill="#E0A23B" stroke="#f6efe3" stroke-width="1.2"/>
+<circle cx="296.1" cy="114.2" r="7" fill="#2F5D50" stroke="#f6efe3" stroke-width="1.2"/>
+<circle cx="285.8" cy="274.0" r="7" fill="#E0A23B" stroke="#f6efe3" stroke-width="1.2"/>
+<circle cx="428.1" cy="140.7" r="7" fill="#2F5D50" stroke="#f6efe3" stroke-width="1.2"/>
+<circle cx="181.1" cy="204.5" r="7" fill="#2F5D50" stroke="#2B1E16" stroke-width="1" opacity=".85"/>
+<circle cx="179.5" cy="167.7" r="7" fill="#E0A23B" stroke="#2B1E16" stroke-width="1" opacity=".85"/>
+<circle cx="368.2" cy="47.5" r="7" fill="#2F5D50" stroke="#2B1E16" stroke-width="1" opacity=".85"/>
+<circle cx="442.1" cy="250.5" r="7" fill="#E0A23B" stroke="#2B1E16" stroke-width="1" opacity=".85"/>
+</svg>

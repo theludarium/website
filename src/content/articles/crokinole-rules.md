@@ -2,6 +2,7 @@
 title: "Crokinole Rules: How to Play the Flicking Game"
 description: "Crokinole rules in plain words: the board, how to shoot, the must-hit rule, fouls, how crokinole scoring works, singles vs doubles, a short history, and tips."
 pubDate: 2026-10-31
+updatedDate: 2026-11-05
 category: Game Guides
 tags: ["crokinole rules", "how to play crokinole", "crokinole board", "crokinole scoring", "dexterity games", "crokinole doubles"]
 draft: false
@@ -68,7 +69,7 @@ The official rules list a handful of fouls and what happens with each:
 - **Off the board:** a disc that touches or crosses the outer line is out of play. It goes into the ditch and stays there for the rest of the round.
 - **The spinning disc exception:** if a disc touches or crosses the outer line, hits nothing but the playing surface, and rolls back inside on its own, it stays in play.
 - **Damage stays:** if a disc goes out, bounces off the rim or the discs in the ditch, and comes back onto the board, it is removed. But any discs it knocked around stay where they ended up, and any 20 it caused still counts.
-- **Posture and contact:** lifting off your seat, leaning your chair, touching the board with anything but your shooting arm, or moving the board breaks the rules. In tournaments this can cost the shot, the round, or worse.
+- **Posture and contact:** lifting off your seat, leaning your chair, touching the board or table with anything but your shooting hand, wrist, and forearm, or moving the board breaks the rules. In tournaments this can cost a round, a game, or your place in the event.
 - **Distraction:** no touching the board or table, placing a disc, or making distracting noise or motion during the other player's turn.
 
 At a kitchen table, most groups simply remove a fouled shot and move on.
@@ -106,7 +107,7 @@ At home, play with whatever count your set allows. Just keep it even for both si
 
 Crokinole is a Canadian folk game. The earliest known board was made in 1876 by Eckhardt Wettlaufer in Perth County, Ontario, reportedly as a birthday present for his son. Boards were also being made in the United States by the late 1800s. It is related to finger-flicking games like carrom and pichenotte, and the name likely comes from the French *croquignole*, a word tied to the flick of a finger.
 
-Since 1999 the [World Crokinole Championship](https://worldcrokinole.com/thegame.html) has been held each June in Tavistock, Ontario, near where Wettlaufer lived. It now draws players from across Canada, the United States and overseas, with singles, doubles and cue divisions.
+Since 1999 the [World Crokinole Championship](https://worldcrokinole.com/thegame.html) has been held most Junes, with a pause during the pandemic, in Tavistock, Ontario, near where Wettlaufer lived. It now draws players from across Canada, the United States and overseas, with singles, doubles and cue divisions.
 
 ## Crokinole tips for new players
 

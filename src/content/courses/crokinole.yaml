@@ -1,0 +1,92 @@
+title: "Hit and Stick"
+game: "Crokinole"
+format: masterclass
+order: 355
+wave: "6"
+draft: false
+publisher: "Traditional game (no single publisher)"
+notice: "Unofficial. Not affiliated with the National Crokinole Association, the World Crokinole Championship, or any board maker. Crokinole is a traditional folk game with no single publisher."
+rulesEdition: "Official Rules of Crokinole, National Crokinole Association (ratified May 6, 2026), checked against the World Crokinole Championship rules (Tavistock, Ontario)"
+rulesSource: "https://nationalcrokinoleassociation.com/wp-content/uploads/2026/05/NCA-Official-Rules-of-Crokinole.docx.pdf"
+players: "2 or 4 (singles or doubles)"
+playTime: "10 to 20 minutes for a four-round game; races to 100 run longer"
+ages: "All ages; small kids can shoot from closer in"
+promise: "Learn crokinole and teach it in minutes, then build a real shot, read the board like a tactician, and follow a practice plan toward your first NCA Tour event."
+description: "A free crokinole course: the rules and must-hit rule, how to shoot, scoring, the takeout and the 20, doubles, choosing a board, house rules, and tournaments."
+audience:
+  - "Families who just got a board and want to play it the right way tonight."
+  - "Players who keep missing 20s or flying off the board and want a steady shot."
+  - "Hosts who settle rules arguments and want to know which rules are official and which are house rules."
+  - "Anyone curious about the NCA Tour or the World Crokinole Championship in Tavistock."
+levels:
+  - level: 0
+    name: "Flicker"
+    label: "Learn to play"
+    outcome: "Set up a board, play a full round under the tournament rules, and teach a new player in five minutes."
+  - level: 1
+    name: "Shooter"
+    label: "Beginner"
+    outcome: "Call every foul and line correctly, and shoot with a repeatable grip and stance instead of a hopeful flick."
+  - level: 2
+    name: "Sharpshooter"
+    label: "Intermediate"
+    outcome: "Score a round either way, count a lead at a glance, and choose between the takeout, the raise, the rebound, and the open 20."
+  - level: 3
+    name: "Tactician"
+    label: "Advanced"
+    outcome: "Play to the hammer, know when to hide and when to hit, and run a doubles team with a plan."
+  - level: 4
+    name: "Contender"
+    label: "Tournament ready"
+    outcome: "Choose a board, discs, and powder that play like a tournament board, and know every house rule your group uses by name."
+  - level: 5
+    name: "Champion"
+    label: "The championship path"
+    outcome: "Find an NCA Tour event or the World Crokinole Championship, enter the right division, and train with a weekly drill plan."
+afterLesson3: "Play a full round under NCA rules and call the must-hit rule, line touches, and out-of-play discs without looking anything up."
+afterLesson8: "Shoot with a steady technique, score both ways, choose your shot by the situation, and play doubles with a partner plan."
+faq:
+  - q: "Do you have to hit a disc in crokinole?"
+    a: "Yes, if any opposing disc is on the board, your shot must hit one, directly or by knocking one of your own discs into it. If none are on the board, your shot must leave a disc touching or inside the 15 line. A shot that fails is removed along with every disc it struck."
+  - q: "How many discs does each player get in crokinole?"
+    a: "Under NCA and World Crokinole Championship rules, each player shoots 8 discs in singles and 6 discs in doubles. Many home sets come with about a dozen per color, so casual singles games often shoot 12 each."
+  - q: "Does touching the 15 line count in crokinole?"
+    a: "On a shot with no opposing discs on the board, yes. The NCA rule says the disc must end touching or within the 15 line. For scoring, though, a disc touching the 15 line counts only 10, the lower of the two regions."
+  - q: "How do you score crokinole?"
+    a: "Total each side's discs: 20 for each disc in the center hole, then 15, 10, and 5 by ring. In tournaments the higher total wins the round for 2 points and a tie gives 1 each, over four rounds. Many homes score the difference instead and play to 100."
+  - q: "What size crokinole board should I buy?"
+    a: "Tournament boards have a playing surface about 26 inches across, a 20 hole about 1 3/8 inches wide, and discs about 1 1/4 inches. Smaller traditional boards are fine at home, but shots and discs do not carry over to tournament boards."
+teachSheet:
+  goal: "Score more than the other side each round by leaving discs near the center and knocking theirs off."
+  setup:
+    - "Two players sit across the board. Four players form two teams, partners across from each other."
+    - "Each side takes one color: 8 discs each in singles, 6 each in doubles."
+    - "Put a pinch of powder in the ditch. Players rub discs in it, not on the board."
+    - "Decide who shoots first. The start alternates every round."
+  turn:
+    - "Shoot one disc per turn, clockwise around the board."
+    - "Start it flat, touching the outer line in your own quarter."
+    - "Flick with a finger. Only your shooting hand, wrist, and forearm may touch the board."
+    - "If an opponent has a disc on the board, you must hit one, directly or by combination."
+    - "If none are on the board, a disc must end touching or inside the 15 line."
+    - "A failed shot: remove the shooter and every disc it struck."
+    - "A disc touching or crossing the outer line goes to the ditch."
+    - "Pull out any 20 right away and keep it in view."
+  scoring:
+    - "Center hole: 20. Inside the 15 line: 15. Then 10, then 5."
+    - "A disc touching a line scores the lower region."
+    - "Count before anyone touches a disc."
+    - "Tournament: round win 2 points, tie 1 each, four rounds per game."
+    - "Home: higher total scores the difference, first to 100 wins."
+  endGame: "A round ends when every disc is shot. A tournament game is four rounds; a home game usually runs until one side reaches 100."
+  tips:
+    - "Shoot softer than you think. A hit that stays on the board beats a hit that flies off."
+    - "Count shots left. The last shot of the round, the hammer, is a big edge."
+    - "With no target to hit, stop just touching the 15 line behind a peg. It counts, and it is hard to hit."
+diagramAlt: "A crokinole board seen from above. In the center is the 20 hole, ringed by the 15 line, labeled as the line where the eight pegs stand. Next is the 10 ring, then the wide 5 ring, split into four quarters by short lines. The ditch runs around the outside. Two players sit across from each other, each with a disc on the outer line of their own quarter and a stack of discs waiting at the table edge."
+games: [crokinole]
+related:
+  - "crokinole-rules"
+  - "themed-game-night-ideas"
+  - "game-night-calendar-year"
+  - "how-to-teach-a-board-game"
