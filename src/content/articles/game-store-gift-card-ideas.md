@@ -105,6 +105,8 @@ Usually, yes. Sleeves, inserts, playmats, and dice are good uses for a small lef
 
 List your games with player count, play time, and kind, then look for the nights you cannot cover. The Card Catalogue also helps you find games by how they feel to play.
 
+Shopping for more than one person? Our [holiday board game gift guide](/articles/holiday-board-game-gift-guide-2026/) lists every Ludarium gift guide by who you are buying for.
+
 ## More for your shelf
 
 The Ludarium newsletter sends short guides on building a game shelf your group will actually use, including the rest of this series. Sign up and we will help you make the next purchase count too.

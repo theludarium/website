@@ -11,7 +11,7 @@ oneIdea: "Arcs is a trick-taking card game wrapped around a space war. The card 
 tryThis: "For your first game, play the base game with no leaders or lore, and say each card play out loud: lead, Surpass, Copy, or Pivot, and how many actions it gives."
 nextTeaser: "Next, how to teach Arcs: a host script that gets the card play across in five minutes and saves battle for the first fight."
 ---
-Arcs is a space opera for two to four players, designed by Cole Wehrle, who also designed Root. You move ships, build cities, fight, and send agents to sway the powers of the Reach. Underneath it all sits a small trick-taking card game, and that card game is the key to everything.
+[Arcs](https://www.amazon.com/dp/B0D856FJ1J?tag=cubecommonw0a-20) is a space opera for two to four players, designed by Cole Wehrle, who also designed Root. You move ships, build cities, fight, and send agents to sway the powers of the Reach. Underneath it all sits a small trick-taking card game, and that card game is the key to everything.
 
 This lesson covers the base game, from the Leder Games rulebook dated April 11, 2024. Leder also hosts an official how-to-play video on its [How to Play Arcs page](https://ledergames.com/pages/how-to-play-arcs).
 

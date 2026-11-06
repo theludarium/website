@@ -50,17 +50,11 @@ Two-player games often turn decisive early, and the rulebook notes that concedin
 
 ## The expansions
 
-**Arcs** is the base game for two to four players: the map, four players' pieces, 28 action cards, the base Court of Guild and Vox cards, 18 dice, and 8 leaders and 14 lore cards for Leaders and Lore mode.
+**[Arcs](https://www.amazon.com/dp/B0D856FJ1J?tag=cubecommonw0a-20)** is the base game for two to four players: the map, four players' pieces, 28 action cards, the base Court of Guild and Vox cards, 18 dice, and 8 leaders and 14 lore cards for Leaders and Lore mode.
 
-<!-- AFFILIATE: Arcs (base game) -->
+**[Arcs: Leaders and Lore Pack](https://www.amazon.com/dp/B0D8S71F6Q?tag=cubecommonw0a-20)** adds 8 new leader cards and 14 new lore cards. It is the simplest way to add variety to the base game, and its lore also works in the campaign. It was known as the More to Explore pack during the original crowdfunding.
 
-**Arcs: Leaders and Lore Pack** adds 8 new leader cards and 14 new lore cards. It is the simplest way to add variety to the base game, and its lore also works in the campaign. It was known as the More to Explore pack during the original crowdfunding.
-
-<!-- AFFILIATE: Arcs: Leaders and Lore Pack -->
-
-**Arcs: The Blighted Reach** turns Arcs into a three-game campaign with 24 Fates, the Empire, the Blight, and a campaign Court. It needs the base game. The [next lesson](/academy/arcs/arcs-blighted-reach-campaign/) covers how it plays.
-
-<!-- AFFILIATE: Arcs: The Blighted Reach -->
+**[Arcs: The Blighted Reach](https://www.amazon.com/dp/B0D8RH22Q8?tag=cubecommonw0a-20)** turns Arcs into a three-game campaign with 24 Fates, the Empire, the Blight, and a campaign Court. It needs the base game. The [next lesson](/academy/arcs/arcs-blighted-reach-campaign/) covers how it plays.
 
 **Coming later: Beyond the Reach.** In spring 2026, Buried Giant Studios, the new studio of designer Cole Wehrle and artist Kyle Ferrin, crowdfunded three new expansions. Lost Vaults and Fated Leaders expands the base game, with pieces for a fifth player, a new 31-card Court deck, Fated Leaders with simpler powers, and randomized map elements. Beyond the Reach and Halls of Power expand the campaign. Check the campaign page for when they reach stores.
 

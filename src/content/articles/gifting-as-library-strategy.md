@@ -103,6 +103,8 @@ Pick one organizer. They put the game on the group wishlist, mark it claimed, co
 
 A new game is a guess about taste and might duplicate something the group already owns. An expansion adds to a game the group already plays, so every player at the table benefits from the gift. A $25 expansion given to the base-game owner becomes a shared asset that improves the next dozen game nights for everyone.
 
+Shopping for more than one person? Our [holiday board game gift guide](/articles/holiday-board-game-gift-guide-2026/) lists every Ludarium gift guide by who you are buying for.
+
 ## More from The Shared Shelf
 
 - [The One Copy Rule: Why Your Play Group Only Needs One Catan](/articles/one-copy-rule/)
