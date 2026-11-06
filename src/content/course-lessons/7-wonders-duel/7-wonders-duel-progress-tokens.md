@@ -1,18 +1,17 @@
 ---
-title: "Duel Track: Progress Tokens and the Science Pairs"
+title: "7 Wonders Duel Progress Tokens Explained: All Ten and the Science Pairs"
 description: "All ten 7 Wonders Duel Progress tokens and what each is worth, how science pairs earn them, and how to choose a token that fits your city and the game ahead."
-course: 7-wonders
-order: 10
+course: 7-wonders-duel
+order: 6
 level: 2
 emailSubject: "Ten tokens, five on the board, one choice"
 pubDate: 2026-10-25
+updatedDate: 2026-11-06
 draft: false
 oneIdea: "A Progress token is a reward you choose, so choose it for the game ahead: early tokens that keep paying beat flat points, and late tokens should be counted in points."
 tryThis: "At the start of your next Duel game, read the five Progress tokens on the board and rank them for your Wonders before Age I begins. Revisit the ranking at your first science pair."
-nextTeaser: "Next, the endgame and scoring math for both games: science squares and military swings in 7 Wonders, and closing out or stopping a sudden win in Duel."
+nextTeaser: "Level 3 starts with the layout itself: safe picks that open nothing, who takes the last card of an Age, and how a play-again Wonder flips the count."
 ---
-This is the **Duel track** lesson for Level 2. The lesson before it covered coins and trading in 7 Wonders.
-
 In Duel, science does two jobs. Six different symbols win the game outright. And every matching pair of symbols lets you take one Progress token from the board at once. The tokens are some of the strongest effects in the game, and only five of the ten are on the board in any game.
 
 Every effect below comes from the [7 Wonders Duel rulebook](https://cdn.svc.asmodee.net/production-rprod/storage/downloads/games/7wonders-duel/en/7du-rules-us-15990558193s5I6.pdf).
@@ -23,7 +22,7 @@ The game has 7 science symbols. They appear on green cards, and one appears on a
 
 With only five tokens on the board, the first pairs get the widest choice. The last pair of the game may find only weak tokens left, or none.
 
-<!-- VERIFY: count the green cards in all three Duel Ages and confirm that each of the six card symbols appears on exactly two green cards, so each symbol can make one pair at most. -->
+The rulebook's card list shows 12 green cards, four per Age, and each of the six card symbols is on exactly two of them. So each symbol can make one pair at most, and the base game has at most six pairs to earn.
 
 ## The ten tokens
 
@@ -66,12 +65,10 @@ When you take a token, you also take it away from your opponent. In the midgame,
 
 Sometimes the right pick is the token that would hurt you most in their hands, even if a different one is slightly better for you.
 
-<!-- AT OUR TABLE: one line on the Progress token Levi's group rates highest, or the one that has swung the most games. -->
-
 ## The Great Library
 
 The Great Library Wonder lets you draw 3 of the five tokens set aside at setup, keep one, and return the others. It is a Progress token without a science pair, drawn from a pool your opponent cannot reach. If the five tokens on the board are weak for you, the Library is a second chance.
 
 ## Pairs as a race
 
-Each pair is a decision your opponent can block. When a green card that matches one of your symbols becomes accessible, your opponent can take it, sell it, or tuck it under a Wonder to stop the pair. So can you, against them. The [Level 3 supremacy lesson](/academy/7-wonders/7-wonders-duel-supremacy/) counts that race to six in detail. For now, keep a simple habit: before each turn, check which green cards are accessible, and whose pair each one would make.
+Each pair is a decision your opponent can block. When a green card that matches one of your symbols becomes accessible, your opponent can take it, sell it, or tuck it under a Wonder to stop the pair. So can you, against them. The [Level 3 supremacy lesson](/academy/7-wonders-duel/7-wonders-duel-supremacy/) counts that race to six in detail. For now, keep a simple habit: before each turn, check which green cards are accessible, and whose pair each one would make.

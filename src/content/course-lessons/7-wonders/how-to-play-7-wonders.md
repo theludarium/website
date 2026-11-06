@@ -1,23 +1,24 @@
 ---
-title: "How to Play 7 Wonders and 7 Wonders Duel"
-description: "How to play 7 Wonders: setup, the pick-and-pass turn, buying from neighbors, military and science scoring, plus the full rules of 7 Wonders Duel for two."
+title: "How to Play 7 Wonders"
+description: "How to play 7 Wonders: setup, the pick-and-pass turn, building and Wonder stages, buying from neighbors, the battles each Age, and military and science scoring."
 course: 7-wonders
 order: 1
 level: 0
 emailSubject: "7 Wonders in one pick and one pass"
 pubDate: 2026-10-24
+updatedDate: 2026-11-06
 draft: false
-oneIdea: "7 Wonders is one move repeated: pick a card, play it, pass the rest. Duel keeps the cities and card colors but trades the passing for a shared layout that two players take from in turns."
+oneIdea: "7 Wonders is one move repeated: pick a card, play it, pass the rest. Everything else, from trading to war, happens between you and the two players beside you."
 tryThis: "In your first game of 7 Wonders, have players reveal and play their cards one at a time, as the rulebook suggests, so everyone sees how each action works."
-nextTeaser: "Next, the teach. You get a ten-minute host script for 7 Wonders, a five-minute one for Duel, and a printable teach sheet for both."
+nextTeaser: "Next, the teach: a ten-minute host script in the order you would say it, what to leave out, and a printable teach sheet."
 ---
-7 Wonders is a card game about building an ancient city over three Ages. Everyone picks a card at the same time, plays it, and passes the rest, so seven players finish about as fast as three. It plays 3 to 7 players in about 30 minutes. Its two-player sibling, 7 Wonders Duel, keeps the cities and card colors but trades the passing for a shared layout of cards.
+7 Wonders is a card game about building an ancient city over three Ages. Everyone picks a card at the same time, plays it, and passes the rest, so seven players finish about as fast as three. It plays 3 to 7 players in about 30 minutes.
 
-This lesson covers both, from the current Repos Production rulebooks: the [7 Wonders second edition rules](https://cdn.svc.asmodee.net/production-rprod/storage/downloads/games/7wonders/en/sev-en02-rules-1716388903zBEZx.pdf) and the [7 Wonders Duel rules](https://cdn.svc.asmodee.net/production-rprod/storage/downloads/games/7wonders-duel/en/7du-rules-us-15990558193s5I6.pdf). Learn the big game first. Duel will feel familiar after.
+This lesson covers the whole game from the current Repos Production rulebook, the [7 Wonders second edition rules](https://cdn.svc.asmodee.net/production-rprod/storage/downloads/games/7wonders/en/sev-en02-rules-1716388903zBEZx.pdf).
 
-**Prefer to watch first?** Watch It Played teaches the rules on video: <a href="https://www.youtube.com/watch?v=QVLUu7qkLWI" target="_blank" rel="noopener">7 Wonders (second edition)</a> and <a href="https://www.youtube.com/watch?v=SxQkMRUvCJ8" target="_blank" rel="noopener">7 Wonders Duel</a>. Watch them, then come back here for the rules in writing and the rest of the course.
+**Prefer to watch first?** Watch It Played teaches the <a href="https://www.youtube.com/watch?v=QVLUu7qkLWI" target="_blank" rel="noopener">7 Wonders second edition rules</a> on video. Watch it, then come back here for the rules in writing and the rest of the course.
 
-## 7 Wonders: setup
+## Setup
 
 ![A four-player 7 Wonders table: the three Age decks, discard space, coin reserve, and Conflict tokens in the middle, and each player's Wonder board with 3 coins](/academy/7-wonders/setup.svg)
 
@@ -29,7 +30,7 @@ This lesson covers both, from the current Repos Production rulebooks: the [7 Won
 
 Your **neighbors** are the players directly to your left and right. You trade with them, fight them, and pass them cards.
 
-## 7 Wonders: the seven colors
+## The seven colors
 
 - **Brown:** common resources (wood, stone, clay, ore).
 - **Grey:** rare resources (glass, papyrus, cloth).
@@ -39,7 +40,7 @@ Your **neighbors** are the players directly to your left and right. You trade wi
 - **Green:** science symbols.
 - **Purple:** guilds, which score by conditions, in Age III only.
 
-## 7 Wonders: a turn
+## A turn
 
 Each Age, deal 7 cards to every player, then play six turns, everyone at once.
 
@@ -55,7 +56,7 @@ Each Age, deal 7 cards to every player, then play six turns, everyone at once.
 
 On the sixth turn you receive just 2 cards. Play one and discard the other. That discard gives no coins.
 
-## 7 Wonders: paying for cards
+## Paying for cards
 
 Some cards are free. Some cost 1 coin, paid to the reserve. Most cost resources.
 
@@ -63,11 +64,11 @@ Some cards are free. Some cost 1 coin, paid to the reserve. Most cost resources.
 - **Buying.** Missing something? Buy it from a neighbor for 2 coins per resource, paid to them. You can buy what their brown cards, grey cards, and starting resource produce, not their yellow cards or Wonder stages. They cannot refuse.
 - **Chains.** From Age II on, some cards show a symbol from an earlier card. If you built that card, the new one is free. Build the Theater in Age I, for example, and the Gardens cost nothing in Age III.
 
-## 7 Wonders: war at the end of each Age
+## War at the end of each Age
 
 After the sixth turn, count your shields and compare with each neighbor separately. Higher takes a Victory token: 1 point in Age I, 3 in Age II, 5 in Age III. Lower takes a Defeat token, minus 1. A tie gives no tokens.
 
-## 7 Wonders: final scoring
+## Final scoring
 
 After the Age III battles, use the score pad:
 
@@ -78,28 +79,8 @@ After the Age III battles, use the score pad:
 
 Most points wins. Ties go to the most coins, then a shared win.
 
-## Duel: setup
+## Two players? Play 7 Wonders Duel
 
-1. Put the board between you, with the Conflict pawn on the middle space and the 4 Military tokens face up on their spaces.
-2. Shuffle the Progress tokens and place 5 face up on the board. The rest go back in the box.
-3. Each player takes 7 coins.
-4. Choose a first player. Deal 4 Wonders face up: the first player picks 1, the second picks 2, and the first takes the last. Deal 4 more; this time the second player picks first. For a first game, the rulebook gives fixed sets instead ([lesson 2](/academy/7-wonders/how-to-teach-7-wonders/) lists them).
-5. Return 3 cards from each Age deck to the box unseen. Add 3 random guilds to Age III.
+The second edition plays 3 to 7. For two, the publisher makes a separate game, 7 Wonders Duel, with its own cards, a shared layout instead of passing, and two ways to win before the end. It has [its own course](/academy/7-wonders-duel/), starting with [how to play 7 Wonders Duel](/academy/7-wonders-duel/how-to-play-7-wonders-duel/).
 
-## Duel: the layout and a turn
-
-Each Age, lay out 20 cards in that Age's shape, in rows that alternate face up and face down. Age I is a pyramid, 2 cards at the top and 6 at the bottom. Age II is the same shape upside down. Age III is taller. The back of the rulebook shows all three.
-
-On your turn, take one **accessible** card, one that no other card overlaps. Build it, sell it for 2 coins plus 1 per yellow card you own, or pay one of your Wonders' costs and tuck the card under it to build that Wonder. Then flip any face-down card you uncovered. Only seven Wonders can be built in a game; when the seventh goes up, the last unbuilt one returns to the box.
-
-You buy missing resources from the bank: 2 coins each, plus 1 for every matching symbol on your opponent's brown and grey cards. Chains work as in 7 Wonders.
-
-## Duel: three ways to win
-
-- **Military supremacy.** Each shield moves the Conflict pawn one space toward your opponent's capital. Entering a zone with a Military token costs your opponent 2 or 5 coins. Reach their capital and you win at once.
-- **Scientific supremacy.** Each pair of matching science symbols earns a Progress token. Collect 6 different symbols and you win at once.
-- **Civilian victory.** Otherwise, after Age III, score the pawn's position (0, 2, 5, or 10), cards, Wonders, Progress tokens, and 1 point per 3 coins. Ties go to the most blue-card points, then a shared win.
-
-Between Ages, the player whose side the pawn is on chooses who starts next. If it sits in the middle, whoever took the last card chooses.
-
-That is both games. If pick-and-pass is new to your table, our explainer on [card drafting](/articles/card-drafting-explained/) shows where 7 Wonders sits in that family.
+That is the whole game. If pick-and-pass is new to your table, our explainer on [card drafting](/articles/card-drafting-explained/) shows where 7 Wonders sits in that family.

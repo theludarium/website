@@ -1,0 +1,93 @@
+title: "Signals from the Stars"
+game: "SETI: Search for Extraterrestrial Intelligence"
+format: masterclass
+order: 392
+wave: "6"
+draft: false
+publisher: "Czech Games Edition"
+notice: "Unofficial. Not affiliated with Czech Games Edition or the SETI Institute. SETI: Search for Extraterrestrial Intelligence is a game by Tomáš Holek, published by Czech Games Edition."
+rulesEdition: "SETI rulebook, English (Czech Games Edition, October 2024), with the official FAQ and cards clarification (version BGG 11.2024)"
+rulesSource: "https://filemanager.czechgames.com/storage/files/seti-search-for-extraterrestrial-intelligence/rules/seti-rules-en.pdf"
+players: "1 to 4"
+playTime: "About 40 minutes per player"
+ages: "Ages 14 and up"
+promise: "Learn SETI and teach it in one sitting, then read the turning solar system, run an economy that lasts five rounds, and chase the gold tiles like an expert."
+description: "A free SETI board game course: learn and teach the rules, master the solar system rotation, probes, scanning, income, alien discovery, gold tiles, and solo."
+audience:
+  - "New players who want the eight main actions clear before the first probe leaves Earth."
+  - "Hosts teaching SETI to a table that has never seen the rotating board."
+  - "Players who finish games short on energy and credits and want to know why."
+  - "Solo players climbing the rival's difficulty levels."
+levels:
+  - level: 0
+    name: "Stargazer"
+    label: "Learn to play"
+    outcome: "Set up, teach, and finish a five-round game by the book, with every main and free action clear."
+  - level: 1
+    name: "Listener"
+    label: "Beginner"
+    outcome: "Dodge the rules slips that trip up most first games, and play all five rounds with a plan."
+  - level: 2
+    name: "Navigator"
+    label: "Intermediate"
+    outcome: "Predict the next rotation, ride it to cheap moves, and choose between launching, orbiting, and landing on purpose."
+  - level: 3
+    name: "Analyst"
+    label: "Advanced"
+    outcome: "Win sectors on purpose, keep your computer filling, and build an income that pays for your plan every round."
+  - level: 4
+    name: "Mission Lead"
+    label: "Expert"
+    outcome: "Race for discovery without spoiling the species, and claim the gold tiles that fit your engine."
+  - level: 5
+    name: "First Contact"
+    label: "Mastery"
+    outcome: "Beat the solo rival at higher difficulties, add the Space Agencies expansion, and practice with a plan."
+afterLesson3: "Teach and play a full game by the book, and avoid the common first-game rules slips."
+afterLesson8: "Plan five rounds, use the rotation, choose between orbit and landing, win sectors on purpose, and keep your income ahead of your spending."
+faq:
+  - q: "How many rounds are there in SETI?"
+    a: "Five. Each turn you take one main action plus any free actions, and you keep taking turns until you pass. When everyone has passed, the round ends, everyone collects income, and the starting player marker moves on. Final scoring follows round 5."
+  - q: "When does the solar system rotate in SETI?"
+    a: "Every time anyone researches a tech, from the Research action or a card, and when the first player passes in each round, including round 5. The top disc turns first, then the middle disc, then the bottom disc, and back to the top, always one sector counterclockwise."
+  - q: "How do you discover an alien species in SETI?"
+    a: "Each of the two face-down alien boards has three discovery spaces, one for each type of life trace. When all three are marked, the species is discovered at the end of that turn: flip the board, read its rule sheet, and reward the players who marked those spaces."
+  - q: "How do gold scoring tiles work in SETI?"
+    a: "When you reach or pass 25, 50, and 70 points, you mark one of the four gold tiles at the end of that turn. The first player on a tile takes its highest value. At the end, you score that value for each set the tile describes."
+  - q: "Can you play SETI solo?"
+    a: "Yes. You play against a rival institution run by an action deck, at one of five difficulty levels. From 2 stars up you also chase objectives; each one you leave unfinished feeds the rival progress or end-game points."
+teachSheet:
+  goal: "Score the most points in five rounds by exploring the solar system, scanning stars, analyzing data, and finding alien life."
+  setup:
+    - "Build the main board. Randomize the three discs and four sector boards so eight sectors line up."
+    - "Place 2 random alien boards face down. Fill every star's data slot with data tokens."
+    - "Deal a 3-card row. Put the 4 gold tiles out, random side up. Stack techs with a 2-point tile on each."
+    - "Make 4 end-of-round stacks of players plus 1 cards. Neutral markers at 20 and 30 if under 4 players."
+    - "Scores start at 1, 2, 3, 4 by seat. Everyone: 4 publicity, 4 credits, 3 energy, 5 cards."
+    - "Each player tucks 1 card under their income card and gains its resource now."
+  turn:
+    - "Take 1 main action: launch, orbit, land, scan, analyze, play a card, research a tech, or pass."
+    - "Free actions any time on your turn: move (1 energy each), place data, missions, trades, buy a card."
+    - "Launch 2 credits. Orbit 1 credit, 1 energy. Land 3 energy, or 2 if the planet has an orbiter."
+    - "Scan 1 credit, 2 energy. Analyze 1 energy with a full top row. Research a tech: 6 publicity."
+    - "Research a tech or be the first to pass: rotate the solar system first."
+    - "Passing: discard to 4 cards, then pick an end-of-round card in rounds 1 to 4."
+  scoring:
+    - "Points come during play: orbits, landings, sectors, techs, data, missions, and discovery."
+    - "At 25, 50, and 70 points, mark a gold tile. Earlier markers take bigger values."
+    - "Final scoring: end-of-game cards, then gold tiles. Some species add a step."
+  endGame: "The game ends after round 5. Score end-of-game cards and gold tiles; the most points wins, and ties are shared."
+  tips:
+    - "Tuck cards for income early. Every tuck pays again each round."
+    - "Before you research or pass first, check which disc turns next and where it pushes probes."
+    - "Read an alien species' rules only when it is discovered."
+diagramAlt: "An abstract SETI setup. The main board, built from the planetary board, the solar system board, and the tech board, sits in the middle. The solar system shows three rotating discs around the Sun, ringed by eight sectors, each with a nearby star and its data slot. Two face-down alien boards sit on the planetary board's edge. Around the board: the 3-card row, four gold scoring tiles, four end-of-round stacks, and a player board with its computer, data pool, and income card."
+games: [seti]
+related:
+  - "board-game-weight-explained"
+  - "engine-building-games"
+  - "euro-games-vs-ameritrash"
+  - "how-to-teach-a-board-game"
+  - "analysis-paralysis-board-games"
+  - "best-solo-board-games"
+  - "expansions-worth-it"

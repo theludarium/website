@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-labelledby="t d">
+  <title id="t">Marvel Champions setup for two players, in the abstract</title>
+  <desc id="d">The villain's area across the top: the villain card with its hit point dial, the main scheme with threat at 0, space for side schemes, the encounter deck and its discard pile, and the token pool with status cards. Below, two player areas, each with an identity card alter-ego side up and a hit point dial, a player deck, a discard pile, a hand of cards, and a row for allies, upgrades, and supports. The first player token sits by the left player.</desc>
+  <defs>
+    <g id="card"><rect width="34" height="48" rx="4" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/></g>
+    <g id="dial"><circle r="9" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.2"/><path d="M0 -9 V-4" stroke="#2B1E16" stroke-width="1.2"/></g>
+  </defs>
+  <rect width="480" height="320" fill="#F6EFE3"/>
+  <g font-family="system-ui, sans-serif" font-size="12" fill="#2B1E16">
+
+    <!-- Villain's area -->
+    <rect x="10" y="10" width="460" height="128" rx="12" fill="#2F5D50" fill-opacity="0.10" stroke="#B9AD9C" stroke-width="1.5"/>
+    <text x="22" y="28" font-size="13" font-weight="700">Villain's area</text>
+
+    <!-- Villain card, landscape stack -->
+    <rect x="22" y="40" width="70" height="50" rx="5" fill="#2F5D50" stroke="#2B1E16" stroke-width="1.2"/>
+    <rect x="26" y="44" width="62" height="42" rx="3" fill="none" stroke="#F6EFE3" stroke-width="1" stroke-dasharray="3 3"/>
+    <use href="#dial" x="57" y="108"/>
+    <text x="57" y="132" text-anchor="middle">Villain, HP dial</text>
+
+    <!-- Main scheme -->
+    <rect x="110" y="40" width="70" height="50" rx="5" fill="#E0A23B" fill-opacity="0.35" stroke="#2B1E16" stroke-width="1.2"/>
+    <circle cx="145" cy="65" r="10" fill="#E0A23B" stroke="#2B1E16" stroke-width="1.2"/>
+    <text x="145" y="69" text-anchor="middle" font-size="12" font-weight="700">0</text>
+    <text x="145" y="108" text-anchor="middle">Main scheme</text>
+    <text x="145" y="122" text-anchor="middle">(side 1B)</text>
+
+    <!-- Side scheme space -->
+    <rect x="196" y="40" width="58" height="50" rx="5" fill="none" stroke="#B9AD9C" stroke-width="1.5" stroke-dasharray="4 4"/>
+    <text x="225" y="108" text-anchor="middle">Side</text>
+    <text x="225" y="122" text-anchor="middle">schemes</text>
+
+    <!-- Encounter deck and discard -->
+    <rect x="276" y="46" width="34" height="48" rx="4" fill="#2B1E16"/>
+    <rect x="273" y="43" width="34" height="48" rx="4" fill="#2B1E16" stroke="#F6EFE3" stroke-width="1"/>
+    <rect x="330" y="43" width="34" height="48" rx="4" fill="none" stroke="#B9AD9C" stroke-width="1.5" stroke-dasharray="4 4"/>
+    <text x="287" y="108" text-anchor="middle">Encounter</text>
+    <text x="287" y="122" text-anchor="middle">deck</text>
+    <text x="347" y="108" text-anchor="middle">Discard</text>
+
+    <!-- Token pool -->
+    <circle cx="388" cy="52" r="6" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <circle cx="404" cy="52" r="6" fill="#E0A23B" stroke="#2B1E16" stroke-width="1"/>
+    <circle cx="420" cy="52" r="6" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="382" y="66" width="20" height="14" rx="2" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="406" y="66" width="20" height="14" rx="2" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="430" y="66" width="20" height="14" rx="2" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <text x="418" y="108" text-anchor="middle">Tokens and</text>
+    <text x="418" y="122" text-anchor="middle">status cards</text>
+
+    <!-- Player areas -->
+    <rect x="10" y="148" width="226" height="162" rx="12" fill="#B9AD9C" fill-opacity="0.18" stroke="#B9AD9C" stroke-width="1.5"/>
+    <rect x="244" y="148" width="226" height="162" rx="12" fill="#B9AD9C" fill-opacity="0.18" stroke="#B9AD9C" stroke-width="1.5"/>
+    <text x="22" y="166" font-size="13" font-weight="700">Player 1</text>
+    <text x="256" y="166" font-size="13" font-weight="700">Player 2</text>
+
+    <!-- First player token -->
+    <path d="M200 156 l7 4 v8 l-7 4 l-7 -4 v-8 z" fill="#E0A23B" stroke="#2B1E16" stroke-width="1.2"/>
+    <text x="190" y="166" text-anchor="end" font-size="12">First player</text>
+
+    <!-- Row for allies, upgrades, supports -->
+    <rect x="22" y="176" width="202" height="34" rx="6" fill="none" stroke="#2F5D50" stroke-width="1.2" stroke-dasharray="4 4"/>
+    <text x="123" y="197" text-anchor="middle" fill="#2F5D50">Allies, upgrades, supports</text>
+    <rect x="256" y="176" width="202" height="34" rx="6" fill="none" stroke="#2F5D50" stroke-width="1.2" stroke-dasharray="4 4"/>
+    <text x="357" y="197" text-anchor="middle" fill="#2F5D50">Allies, upgrades, supports</text>
+
+    <!-- Player 1 cards -->
+    <rect x="22" y="220" width="40" height="56" rx="4" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.5"/>
+    <text x="42" y="244" text-anchor="middle" font-size="12">Alter</text>
+    <text x="42" y="258" text-anchor="middle" font-size="12">ego</text>
+    <use href="#dial" x="76" y="236"/>
+    <text x="42" y="292" text-anchor="middle">Identity</text>
+    <text x="76" y="262" text-anchor="middle" font-size="12">HP</text>
+    <rect x="97" y="225" width="34" height="48" rx="4" fill="#2F5D50"/>
+    <rect x="94" y="222" width="34" height="48" rx="4" fill="#2F5D50" stroke="#2B1E16" stroke-width="1.2"/>
+    <text x="111" y="292" text-anchor="middle">Deck</text>
+    <rect x="138" y="222" width="34" height="48" rx="4" fill="none" stroke="#B9AD9C" stroke-width="1.5" stroke-dasharray="4 4"/>
+    <text x="155" y="292" text-anchor="middle">Discard</text>
+    <g transform="translate(184 230)">
+      <rect x="0" y="0" width="16" height="24" rx="2" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1" transform="rotate(-10)"/>
+      <rect x="10" y="0" width="16" height="24" rx="2" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+      <rect x="20" y="2" width="16" height="24" rx="2" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1" transform="rotate(10 28 14)"/>
+    </g>
+    <text x="203" y="292" text-anchor="middle">Hand</text>
+
+    <!-- Player 2 cards -->
+    <rect x="256" y="220" width="40" height="56" rx="4" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.5"/>
+    <text x="276" y="244" text-anchor="middle" font-size="12">Alter</text>
+    <text x="276" y="258" text-anchor="middle" font-size="12">ego</text>
+    <use href="#dial" x="310" y="236"/>
+    <text x="276" y="292" text-anchor="middle">Identity</text>
+    <text x="310" y="262" text-anchor="middle" font-size="12">HP</text>
+    <rect x="331" y="225" width="34" height="48" rx="4" fill="#2F5D50"/>
+    <rect x="328" y="222" width="34" height="48" rx="4" fill="#2F5D50" stroke="#2B1E16" stroke-width="1.2"/>
+    <text x="345" y="292" text-anchor="middle">Deck</text>
+    <rect x="372" y="222" width="34" height="48" rx="4" fill="none" stroke="#B9AD9C" stroke-width="1.5" stroke-dasharray="4 4"/>
+    <text x="389" y="292" text-anchor="middle">Discard</text>
+    <g transform="translate(418 230)">
+      <rect x="0" y="0" width="16" height="24" rx="2" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1" transform="rotate(-10)"/>
+      <rect x="10" y="0" width="16" height="24" rx="2" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+      <rect x="20" y="2" width="16" height="24" rx="2" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1" transform="rotate(10 28 14)"/>
+    </g>
+    <text x="437" y="292" text-anchor="middle">Hand</text>
+  </g>
+</svg>

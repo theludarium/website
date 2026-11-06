@@ -1,21 +1,22 @@
 ---
-title: "How to Score 7 Wonders and Duel by Hand"
-description: "How to score 7 Wonders with the score pad, one category at a time, plus the science math, tiebreaks, and a clean routine for counting a game of Duel at the end."
+title: "How to Score 7 Wonders by Hand"
+description: "How to score 7 Wonders with the score pad, one category at a time: Wonder, treasure, military, the card colors, the science math, guilds, and the tiebreak."
 course: 7-wonders
 order: 3
 level: 0
 emailSubject: "Score 7 Wonders without the groan"
 pubDate: 2026-10-25
+updatedDate: 2026-11-06
 draft: false
 oneIdea: "Score one category at a time, the whole table together, in the order the score pad lists them. Science is the only real math, and it is two small sums."
 tryThis: "At the end of your next game, have one person read each score pad row aloud while everyone counts that row at once. Do science last, and check it with a neighbor."
-nextTeaser: "Level 1 starts with your first three games: the rules slips and strategy traps nearly every new table falls into, in both games, and how to fix each one."
+nextTeaser: "Level 1 starts with your first three games: the rules slips and strategy traps nearly every new table falls into, and how to fix each one."
 ---
 The last Age ends, the battles are settled, and someone pulls out the score pad. This is where a new table can stall. Seven categories, a page of squares, and players counting different things at once.
 
-The fix is a routine. Score one row at a time, everyone together, and leave science for last. This lesson walks through both games from the current rulebooks: the [7 Wonders second edition rules](https://cdn.svc.asmodee.net/production-rprod/storage/downloads/games/7wonders/en/sev-en02-rules-1716388903zBEZx.pdf) and the [7 Wonders Duel rules](https://cdn.svc.asmodee.net/production-rprod/storage/downloads/games/7wonders-duel/en/7du-rules-us-15990558193s5I6.pdf).
+The fix is a routine. Score one row at a time, everyone together, and leave science for last. This lesson walks through it from the current [7 Wonders second edition rules](https://cdn.svc.asmodee.net/production-rprod/storage/downloads/games/7wonders/en/sev-en02-rules-1716388903zBEZx.pdf).
 
-## 7 Wonders: before you count
+## Before you count
 
 Two quick tidy-ups make scoring faster:
 
@@ -24,7 +25,7 @@ Two quick tidy-ups make scoring faster:
 
 Then pick one reader. They call out each row, and everyone writes their own number in their own column.
 
-## 7 Wonders: the seven rows
+## The seven rows
 
 The rulebook counts in this order. Read them aloud one at a time.
 
@@ -38,7 +39,7 @@ The rulebook counts in this order. Read them aloud one at a time.
 
 Most points wins. If players tie, the one with the most coins wins. If that ties too, they share the win.
 
-## 7 Wonders: science, step by step
+## Science, step by step
 
 Science is two sums added together. First, count your symbols of each type: compass, gear, and tablet. Include any on your Wonder stages.
 
@@ -73,24 +74,13 @@ Here is one made-up city, row by row:
 | Purple | One guild worth 6 | 6 |
 | **Total** | | **46** |
 
-Notice the green row. One compass and one gear score 1 plus 1. No set, because there is no tablet. That small number is why the [scoring lesson in Level 2](/academy/7-wonders/7-wonders-scoring/) spends so long on which science card to take.
+Notice the green row. One compass and one gear score 1 plus 1. No set, because there is no tablet. That small number is why the [scoring lesson in Level 3](/academy/7-wonders/7-wonders-scoring/) spends so long on which science card to take.
 
 <!-- AT OUR TABLE: one line on how Levi's group runs the score pad (who reads, who checks science), or the scoring slip he sees most at the end of a first game. -->
 
-## Duel: scoring when nobody won early
+## Playing Duel?
 
-Many Duel games end on the spot with military or science supremacy, and then there is nothing to count. If the game reaches the end of Age III, use the scorebook and add:
-
-1. **Military.** The Conflict pawn's position: 0, 2, 5, or 10 points to the player it sits toward. Only one player scores here.
-2. **Blue cards.** Their printed points.
-3. **Green cards.** Their printed points. Duel science does not square anything.
-4. **Yellow cards.** Any printed points.
-5. **Purple cards.** Each guild scores from the city with the most of something, which can be either city. Agree on which one before you write it down.
-6. **Wonders.** The points on each Wonder you built.
-7. **Progress tokens.** Points on Agriculture, Philosophy, and Mathematics, if you hold them.
-8. **Treasury.** One point per full set of 3 coins.
-
-If you tie, the player with more points on blue cards wins. If that ties as well, you share the win.
+7 Wonders Duel scores differently: no squared science, a single military row, and a blue-card tiebreak. The [Duel how to play lesson](/academy/7-wonders-duel/how-to-play-7-wonders-duel/) and the [Duel scoring lesson](/academy/7-wonders-duel/7-wonders-duel-scoring/) cover it.
 
 ## The habit that saves arguments
 

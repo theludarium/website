@@ -1,0 +1,97 @@
+title: "Two Cities, One Layout"
+game: "7 Wonders Duel"
+format: masterclass
+order: 397
+wave: "6"
+draft: false
+publisher: "Repos Production (Asmodee)"
+# No Repos Production fan content policy was found (the Asmodee North America IP policy does not list Repos), so this is the default pattern, as on the 7 Wonders course.
+notice: "Unofficial. Not affiliated with Repos Production or Asmodee. 7 Wonders Duel is a trademark of Repos Production."
+rulesEdition: "7 Wonders Duel rulebook (Repos Production, 2015; current English PDF) and the publisher's online FAQ"
+rulesSource: "https://cdn.svc.asmodee.net/production-rprod/storage/downloads/games/7wonders-duel/en/7du-rules-us-15990558193s5I6.pdf"
+players: "2"
+playTime: "About 30 minutes"
+ages: "Ages 10 and up"
+promise: "Learn 7 Wonders Duel and teach it in five minutes, then draft Wonders, read the layout, count both sudden wins, and play your first Duel tournament."
+description: "A free 7 Wonders Duel course: learn and teach it, avoid the rules slips, draft Wonders, pick Progress tokens, control the layout, and count supremacy to win."
+audience:
+  - "Couples and friends who want Duel clear before the first card is taken."
+  - "Players who know big 7 Wonders and want the two-player game's differences fast."
+  - "Regular opponents who keep losing to a sudden military or science win."
+  - "Anyone curious about Pantheon, Agora, online play, and the WBC Duel event."
+levels:
+  - level: 0
+    name: "Mason"
+    label: "Learn to play"
+    outcome: "Set up, teach, and finish a game of Duel, sudden wins and civilian scoring included, without opening the rulebook."
+  - level: 1
+    name: "Builder"
+    label: "Beginner"
+    outcome: "Play clean games with the bank, the layout, and the end of each Age right, and draft four Wonders that pull one way."
+  - level: 2
+    name: "Scholar"
+    label: "Intermediate"
+    outcome: "Run an economy that raises your opponent's prices, keep your coins working, and choose Progress tokens for the game ahead."
+  - level: 3
+    name: "Strategist"
+    label: "Advanced"
+    outcome: "Count safe picks, decide who opens each row, and see a military or science win two turns before it lands."
+  - level: 4
+    name: "Contender"
+    label: "Tournament ready"
+    outcome: "Count a civilian finish card by card, read the guilds, race for the seventh Wonder, and add Pantheon or Agora when you want more."
+  - level: 5
+    name: "Champion"
+    label: "The championship path"
+    outcome: "Know how the WBC Duel event runs, practice online with purpose, and follow a six-week plan into your first tournament."
+afterLesson3: "Teach and play a full game of Duel with the bank, the layout, and the end of each Age right."
+afterLesson8: "Draft Wonders with a plan, run an economy, choose Progress tokens, control the layout, and count both sudden wins."
+faq:
+  - q: "How do you win 7 Wonders Duel?"
+    a: "Three ways. Push the Conflict pawn into your opponent's capital for military supremacy, or collect 6 different science symbols for scientific supremacy, and you win at once. If neither happens, the player with the most victory points after Age III wins."
+  - q: "How much do resources cost in 7 Wonders Duel?"
+    a: "You buy missing resources from the bank for 2 coins each, plus 1 coin for every matching symbol on your opponent's brown and grey cards. The coins go to the bank, not your opponent. Some yellow cards fix a resource's price at 1 coin."
+  - q: "How do Progress tokens work in 7 Wonders Duel?"
+    a: "Five random Progress tokens sit on the board. Each time you collect a pair of identical science symbols, you take one of them at once and keep it for the game. The Law token also counts as a science symbol."
+  - q: "Who starts the next Age in 7 Wonders Duel?"
+    a: "The player with the weaker military, meaning the Conflict pawn is on their side of the board, chooses who starts. If the pawn is on the middle space, the player who took the last card of the Age chooses."
+  - q: "Can you play 7 Wonders Duel with the 7 Wonders expansions?"
+    a: "No. Duel is its own game with its own cards. Its two expansions are Pantheon, which adds Divinities and Grand Temples, and Agora, which adds Senators, a Senate board, and political supremacy. They can be played together."
+teachSheet:
+  goal: "Win at once by military or science supremacy, or have the most points after Age III."
+  setup:
+    - "Board to one side. Conflict pawn on the middle space, 4 Military tokens face up."
+    - "Place 5 random Progress tokens face up on the board. Box the rest."
+    - "Each player takes 7 coins."
+    - "Draft Wonders: 4 face up, first player takes 1, second takes 2, first takes the last."
+    - "Deal 4 more; this time the second player picks first. Each player ends with 4."
+    - "Box 3 unseen cards from each Age. Shuffle 3 random guilds into Age III."
+    - "Lay out Age I: 20 cards in a pyramid, rows alternating face up and face down."
+  turn:
+    - "Take 1 card that no other card covers."
+    - "Build it: pay its cost and add it to your city."
+    - "Or sell it: 2 coins plus 1 per yellow card you own."
+    - "Or tuck it under one of your Wonders and pay the Wonder's cost."
+    - "Missing resources? Buy from the bank: 2 coins plus 1 per matching symbol your opponent's brown and grey cards show."
+    - "Flip any face-down card your pick uncovered."
+    - "Shields move the pawn. Each science pair takes a Progress token."
+  scoring:
+    - "Pawn's zone: 0, 2, 5, or 10 points to the player it leans toward."
+    - "Points on blue, green, yellow, and purple cards and on Wonders."
+    - "Progress tokens with points. 1 point per full set of 3 coins."
+  endGame: "Instant win on reaching the enemy capital or 6 different science symbols. Otherwise after Age III: most points, then most blue-card points."
+  tips:
+    - "Before you take a card, check what it uncovers."
+    - "Each brown or grey card also raises your opponent's price."
+    - "Say the shield gap and both science counts every turn."
+diagramAlt: "7 Wonders Duel setup. Player 1 sits on the left and Player 2 on the right, each with 7 coins and a column of 4 Wonders. The board runs between them along the top: a Conflict track of 19 spaces with the pawn on the middle space, a capital at each end, two Military tokens on each side (2 coins nearer the middle, 5 coins nearer the capital), and 5 Progress tokens face up. In the middle of the table, the Age I layout of 20 cards in rows of 2, 3, 4, 5, and 6, alternating face up and face down. Below it, the discard pile, the bank, and the box for 3 unseen cards from each Age."
+games: [7-wonders-duel]
+related:
+  - "two-player-board-games-date-night"
+  - "board-games-for-couples"
+  - "card-drafting-explained"
+  - "7-wonders-strategy"
+  - "how-to-teach-a-board-game"
+  - "how-to-run-a-board-game-tournament"
+  - "expansions-worth-it"
+  - "board-game-weight-explained"

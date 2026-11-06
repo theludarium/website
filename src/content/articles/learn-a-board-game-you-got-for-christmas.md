@@ -87,7 +87,8 @@ If the gift was a popular game, The Ludarium Academy may already have a free cou
 | [Cascadia](https://link.amazon/B0g1HYFt4) | [Wild Corridors](/academy/cascadia/) |
 | [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) | [From Feeder to Flock](/academy/wingspan/) |
 | Everdell | [Four Seasons, Fifteen Spaces](/academy/everdell/) |
-| [7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20) or [7 Wonders Duel](https://www.amazon.com/dp/B014DMSTXK?tag=cubecommonw0a-20) | [Pick, Pass, and Duel](/academy/7-wonders/) |
+| [7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20) | [Pick, Pass, and Build](/academy/7-wonders/) |
+| [7 Wonders Duel](https://www.amazon.com/dp/B014DMSTXK?tag=cubecommonw0a-20) | [Two Cities, One Layout](/academy/7-wonders-duel/) |
 | [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) | [Shuffle by Shuffle](/academy/dominion/) |
 | [Heat: Pedal to the Metal](https://www.amazon.com/dp/B0BGXPZG4B?tag=cubecommonw0a-20) | [Hot Laps](/academy/heat/) |
 | [The Night Cage](https://www.amazon.com/dp/B08VC23895?tag=cubecommonw0a-20) | [Candles in the Dark](/academy/the-night-cage/) |

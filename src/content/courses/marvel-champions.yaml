@@ -1,0 +1,98 @@
+title: "Suit Up, Team Up"
+game: "Marvel Champions: The Card Game"
+format: masterclass
+order: 375
+wave: "6"
+draft: false
+publisher: "Fantasy Flight Games"
+notice: "Unofficial. Not affiliated with or endorsed by Fantasy Flight Games, Asmodee, or Marvel. Marvel Champions: The Card Game is published by Fantasy Flight Games under license from Marvel. Marvel and the names of all Marvel characters are trademarks of Marvel. Fantasy Flight Games is a trademark of Fantasy Flight Games."
+rulesEdition: "Marvel Champions Rules Reference, version 1.8 (Fantasy Flight Games, 2026), and the core set Learn to Play booklet"
+rulesSource: "https://www.fantasyflightgames.com/marvel-champions-rules"
+players: "1 to 4"
+playTime: "45 to 90 minutes"
+ages: "Ages 14 and up"
+promise: "Learn and teach Marvel Champions, flip between hero and alter-ego at the right time, keep threat in check, then build your own decks and take on expert mode and campaigns."
+description: "A free Marvel Champions course: learn and teach the rules, hero and alter-ego, the four aspects, threat, deckbuilding, the core villains, and expert mode."
+audience:
+  - "New players with a core set who want the rules right before the first villain phase."
+  - "Hosts teaching a friend who knows the movies but has never played a card game like this."
+  - "Players who keep losing to the main scheme and want to know why."
+  - "Fans ready to build their own decks, buy the next box, or try expert mode and campaigns."
+levels:
+  - level: 0
+    name: "Recruit"
+    label: "Learn to play"
+    outcome: "Set up, teach, and finish a game against Rhino with the player phase, the villain phase, and the boost cards played right."
+  - level: 1
+    name: "Sidekick"
+    label: "Beginner"
+    outcome: "Avoid the rules slips most new tables make, and choose hero or alter-ego form each turn on purpose."
+  - level: 2
+    name: "Vigilante"
+    label: "Intermediate"
+    outcome: "Play all five core set heroes with a plan, and beat Rhino, Klaw, and Ultron knowing what each one does to you."
+  - level: 3
+    name: "Hero"
+    label: "Advanced"
+    outcome: "Count threat a round ahead, pick which scheme to clear, and know what each aspect and the Basic cards do for a deck."
+  - level: 4
+    name: "Veteran"
+    label: "Expert"
+    outcome: "Build a legal 40-card deck of your own, and pick the next box or hero pack that adds the most to your collection."
+  - level: 5
+    name: "Legend"
+    label: "Mastery"
+    outcome: "Beat core villains on expert mode, run a full campaign, and use the fan deckbuilders and online tools to keep improving."
+afterLesson3: "Teach a first game and play it without the rules slips that trip up most new tables."
+afterLesson8: "Play every core hero with a plan, beat each core villain on standard, and manage threat a round ahead."
+faq:
+  - q: "How do you win Marvel Champions?"
+    a: "The players win together by defeating the final stage of the villain. The villain wins if threat on the final main scheme stage reaches its target, or if every hero is defeated."
+  - q: "Can you play Marvel Champions solo?"
+    a: "Yes. The core set supports 1 to 4 players, and one player can run one hero. Values marked with the per player icon, like the villain's hit points and the main scheme's target, scale to the number of players who started."
+  - q: "What is the difference between hero form and alter-ego form?"
+    a: "In hero form you can attack, thwart, and defend, and enemies attack you. In alter-ego form you can recover hit points and use your alter-ego's abilities, and enemies scheme instead of attacking. You can change form once per turn, during your own turn."
+  - q: "How many cards are in a Marvel Champions deck?"
+    a: "A deck has 40 to 50 cards, not counting the identity card or permanent cards. It includes every card from your hero's own set, plus cards from one aspect and the Basic cards."
+  - q: "Which Marvel Champions expansion should I buy first?"
+    a: "Most players start with a campaign expansion, since each one adds two heroes, several villains, and a story that links games together. A hero pack is the smaller step when you want one new hero and a ready deck."
+teachSheet:
+  goal: "Work together to defeat the villain's final stage before threat completes the final main scheme."
+  setup:
+    - "Each player picks a hero, alter-ego side up, and sets their hit point dial."
+    - "Pick a first player. Set aside each hero's obligation and nemesis set."
+    - "Shuffle each player deck. Make a pool of tokens and status cards."
+    - "Choose a villain. Set its hit points: the printed value times the number of players."
+    - "Shuffle the scenario's encounter sets with the obligations to make the encounter deck."
+    - "Follow side 1A of the main scheme, flip to 1B, and place its starting threat."
+    - "Draw up to your hand size. You may mulligan once."
+  turn:
+    - "Player phase: each player takes a full turn, in player order."
+    - "On your turn: play cards, use abilities, attack, thwart, and change form once."
+    - "Pay costs by discarding cards from hand for their resource icons."
+    - "End of player phase: discard or draw to hand size, then ready everything."
+    - "Villain phase: place threat on the main scheme, then the villain activates once per player."
+    - "Hero form: the villain attacks you. Alter-ego form: the villain schemes."
+    - "Each player is dealt an encounter card, revealed in player order."
+    - "Pass the first player token clockwise."
+  scoring:
+    - "Win: defeat the villain's final stage."
+    - "Lose: threat on the final main scheme stage reaches its target."
+    - "Lose: every player's identity is defeated."
+    - "Each villain activation gets one facedown boost card, flipped for extra ATK or SCH."
+  endGame: "The game ends the moment the final villain stage is defeated, the final main scheme is completed, or the last identity falls."
+  tips:
+    - "Teach the two forms first. Everything else hangs on hero or alter-ego."
+    - "Say out loud: one encounter card per player, every villain phase."
+    - "Watch the main scheme each round. Most first games are lost to threat, not damage."
+diagramAlt: "A schematic of a two-player Marvel Champions setup, not to scale. In the villain's area at the top: the villain card with its hit point dial, the main scheme with threat at 0, the encounter deck and its discard pile, and the token pool with stunned, confused, and tough status cards. Below, each player has an identity card alter-ego side up with a hit point dial, a player deck, a discard pile, and a hand of cards, with space marked for allies, upgrades, and supports. The first player token sits by one player."
+games: [marvel-champions]
+related:
+  - "best-co-op-card-games"
+  - "quarterback-problem-cooperative-games"
+  - "co-op-games-without-quarterback-problem"
+  - "best-solo-board-games"
+  - "deck-building-games-explained"
+  - "how-to-teach-a-board-game"
+  - "expansions-worth-it"
+  - "board-game-weight-explained"

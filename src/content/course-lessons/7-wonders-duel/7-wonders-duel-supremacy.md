@@ -1,18 +1,17 @@
 ---
-title: "Duel Track: Military and Science Supremacy, Counted"
+title: "7 Wonders Duel Military and Science Supremacy, Counted"
 description: "Advanced 7 Wonders Duel: how to track the shield gap to a capital, count science symbols to six, spot a sudden win two turns early, and block it in time."
-course: 7-wonders
-order: 15
+course: 7-wonders-duel
+order: 8
 level: 3
 emailSubject: "See the sudden win before it lands"
 pubDate: 2026-10-25
+updatedDate: 2026-11-06
 draft: false
 oneIdea: "Both sudden wins come down to one number each: the shield gap and the count of different science symbols. Keep both numbers for both players, and you will never be surprised."
 tryThis: "In your next three Duel games, say the shield gap and both science counts out loud at the start of every turn in Age II and Age III. Note the turn each game was decided."
-nextTeaser: "Level 4 begins with competitive play: the World Boardgaming Championships events for 7 Wonders and Duel, online play, and finding opponents near you."
+nextTeaser: "Level 4 begins with the games nobody wins early: civilian scoring counted card by card, the guilds, and the race for the seventh Wonder."
 ---
-This is the second **Duel track** lesson for Level 3, and the last lesson of the level.
-
 Duel can end on any turn. One red card and the pawn reaches a capital. One green card and a player holds six different symbols. A sudden win is often visible a turn or two before it lands, to a player who is counting. This lesson turns both wins into numbers you can track.
 
 Rules here come from the [7 Wonders Duel rulebook](https://cdn.svc.asmodee.net/production-rprod/storage/downloads/games/7wonders-duel/en/7du-rules-us-15990558193s5I6.pdf).
@@ -56,7 +55,18 @@ Not every green card is a threat. Ask, for each accessible or soon-accessible gr
 
 Then widen the view. The rulebook's card lists show every green card in each Age, so you know which symbols are still to come and in which Age. Each deck also loses 3 unseen cards at setup, so any one card might be missing. A player waiting on one specific symbol is never sure it is in the layout.
 
-<!-- VERIFY: from the card list, confirm how many green cards each Duel Age contains and which symbols each carries, then consider adding a short table of symbols by Age here. -->
+The card list has four green cards per Age, and each symbol is on two of them:
+
+| Symbol | Age I | Age II | Age III |
+| --- | --- | --- | --- |
+| Quill | Scriptorium | Library | |
+| Mortar | Pharmacist | Dispensary | |
+| Wheel | Apothecary | School | |
+| A-frame | Workshop | Laboratory | |
+| Sundial | | | Academy, Study |
+| Globe | | | University, Observatory |
+
+Two symbols appear only in Age III. From green cards alone, nobody can hold more than four different symbols before Age III, or five with the Law token. In the base game, a science win before the last Age is impossible.
 
 ## When to block
 
@@ -68,10 +78,8 @@ Blocking costs you a turn's value, so do it at the right time:
 
 A blocked card is not wasted. Selling gives coins, and tucking builds a Wonder.
 
-<!-- AT OUR TABLE: one line on how often Levi's games end in a sudden win, and which one, military or science, catches new players more. -->
-
 ## Using the threat
 
 The same numbers work for you. A pawn 6 or 7 spaces toward your opponent's capital forces them to spend picks on shields. A count of 4 different symbols makes them watch every green card. Even if you never finish, the threat bends their game, and each card they spend on defense is a card not spent on points.
 
-That is the end of Level 3 for both tracks: card memory and hate-drafting in 7 Wonders, layout control and supremacy counting in Duel. Level 4 takes all of it to the tournament table.
+That is the end of Level 3: layout control and supremacy counting. Level 4 covers the games that run the full distance, then the expansions.

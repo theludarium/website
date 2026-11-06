@@ -1,19 +1,20 @@
 ---
-title: "Your First Three Games of 7 Wonders and Duel"
-description: "7 Wonders beginner mistakes, from rules slips like buying from the wrong player to traps like chasing science alone, plus the Duel errors new players make most."
+title: "Your First Three Games of 7 Wonders"
+description: "7 Wonders beginner mistakes, from rules slips like buying from the wrong player or passing the wrong way to traps like chasing science alone, and their fixes."
 course: 7-wonders
 order: 4
 level: 1
 emailSubject: "The mistakes every new 7 Wonders table makes"
 pubDate: 2026-10-24
+updatedDate: 2026-11-06
 draft: false
-oneIdea: "Most first-game trouble in 7 Wonders comes from trading and passing rules played wrong. In Duel, it comes from taking a card without looking at what it uncovers."
-tryThis: "Before the first card of your next game, say one rule out loud: who you can buy from in 7 Wonders, or how the bank sets prices in Duel."
-nextTeaser: "Next, openings: what to take in Age I of 7 Wonders, and how to draft your Wonders and start Age I in Duel."
+oneIdea: "Most first-game trouble in 7 Wonders comes from trading and passing rules played wrong. Fix those, and the strategy traps are easier to see."
+tryThis: "Before the first card of your next game, say one rule out loud: who you can buy from, and that trading coins go to the neighbor, not the bank."
+nextTeaser: "Next, openings: what to take in Age I, how to read your Wonder board before the first pick, and why resources come first."
 ---
-Your first three games are where habits form. Some of them are rules quietly played wrong because nobody checked. Others are legal moves that cost a lot of points. This lesson covers both, for both games, checked against the current rulebooks and the publisher's FAQ.
+Your first three games are where habits form. Some of them are rules quietly played wrong because nobody checked. Others are legal moves that cost a lot of points. This lesson covers both, checked against the current second edition rulebook and the publisher's FAQ.
 
-## 7 Wonders: rules slips to catch early
+## Rules slips to catch early
 
 **Buying from the wrong player.** You can buy only from your two neighbors. The player across the table is not a shop.
 
@@ -39,7 +40,7 @@ Your first three games are where habits form. Some of them are rules quietly pla
 
 **Scoring science wrong.** Each symbol type scores its count squared, and each set of three different symbols adds 7. New tables often forget one of the two.
 
-## 7 Wonders: strategy traps
+## Strategy traps
 
 **No resources in Age I.** A player who skips brown and grey cards early spends Ages II and III paying neighbors or selling cards they cannot afford to build.
 
@@ -53,39 +54,10 @@ Your first three games are where habits form. Some of them are rules quietly pla
 
 <!-- AT OUR TABLE: one line on the 7 Wonders mistake Levi sees most from new players, and how he coaches it. -->
 
-## Duel: rules slips to catch early
-
-**Taking a covered card.** Only cards that nothing overlaps are accessible.
-
-**Forgetting to flip.** When your pick uncovers a face-down card, turn it face up right away.
-
-**Paying your opponent.** In Duel, all trading goes to the bank.
-
-**Pricing wrong.** Each missing resource costs 2 coins plus 1 per matching symbol on your opponent's brown and grey cards. Their yellow cards and Wonders do not raise your price.
-
-**Selling for 3.** In Duel, selling pays 2 coins plus 1 per yellow card in your city.
-
-**Building an eighth Wonder.** Only seven Wonders can be built in a game. When the seventh goes up, the last unbuilt Wonder leaves the game.
-
-**Wasting a play-again at the end of an Age.** If a Wonder gives you another turn but the layout is empty, the extra turn is lost.
-
-**Missing the instant wins.** Check the pawn and the science symbols after every card. Supremacy ends the game on the spot.
-
-**The wrong player starting the next Age.** The player with the weaker military, meaning the pawn is on their side, chooses who starts.
-
-## Duel: the big strategic mistake
-
-New Duel players look at what a card gives them. Strong players also look at what it uncovers.
-
-Every card you take can open one or two new cards for your opponent. Take a fine card that reveals their perfect one, and you just gave them a free pick. Before each turn, ask two questions:
-
-1. What becomes accessible if I take this?
-2. If it is face down, am I willing to gamble on what it might be?
-
-Sometimes the best move is the second-best card, because it leaves your opponent nothing good.
-
 ## A quick checklist for game three
 
-Before each pick in 7 Wonders: can I pay for it, and who gets what I pass? Before each pick in Duel: what does this uncover, and is anyone close to supremacy?
+Before each pick, ask three things. Can I pay for it, with my own resources or a neighbor's? Does it help a Wonder stage or a chain I am building? And who gets the cards I pass, and what will they do with them?
 
-If you play Duel as a couple, our list of [two-player games for date night](/articles/two-player-board-games-date-night/) has a few to rotate in when you want a lighter evening.
+That last question is the one most new players skip. Glance at the city of the neighbor you pass to before you choose. You do not need to read every card. Notice their colors: a row of green, a pile of red, a stage that needs ore. That habit is the start of everything in the next two levels.
+
+Learning the two-player game too? The [7 Wonders Duel rules mistakes lesson](/academy/7-wonders-duel/7-wonders-duel-rules-mistakes/) covers its own slips, many of which come from playing the big game first.

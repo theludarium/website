@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-labelledby="t d">
+  <title id="t">7 Wonders Duel setup</title>
+  <desc id="d">Player 1 sits on the left and Player 2 on the right, each with 7 coins and a column of 4 Wonders. The board runs between them along the top: a Conflict track of 19 spaces with the pawn on the middle space and a capital at each end, two Military tokens on each side (2 coins nearer the middle, 5 coins nearer the capital), and 5 Progress tokens face up. In the middle, the Age I layout: 20 cards in rows of 2, 3, 4, 5, and 6, alternating face up and face down. Below it, the discard pile, the bank, and the box that holds 3 unseen cards from each Age.</desc>
+  <rect width="480" height="320" fill="#F6EFE3"/>
+  <g font-family="system-ui, sans-serif" font-size="12" fill="#2B1E16">
+    <text x="16" y="20" font-size="13" font-weight="700">7 Wonders Duel setup</text>
+    <rect x="100" y="28" width="280" height="92" rx="8" fill="#FFFFFF" fill-opacity=".5" stroke="#2B1E16" stroke-width="1.2"/>
+    <text x="104" y="41">P1 capital</text>
+    <text x="376" y="41" text-anchor="end">P2 capital</text>
+    <text x="240" y="41" text-anchor="middle" fill="#2F5D50" font-weight="700">Pawn starts here</text>
+    <rect x="116" y="46" width="13" height="16" fill="#E0A23B" stroke="#B9AD9C" stroke-width="1"/>
+    <rect x="129" y="46" width="13" height="16" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1"/>
+    <rect x="142" y="46" width="13" height="16" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1"/>
+    <rect x="155" y="46" width="13" height="16" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1"/>
+    <rect x="168" y="46" width="13" height="16" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1"/>
+    <rect x="181" y="46" width="13" height="16" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1"/>
+    <rect x="194" y="46" width="13" height="16" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1"/>
+    <rect x="207" y="46" width="13" height="16" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1"/>
+    <rect x="220" y="46" width="13" height="16" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1"/>
+    <rect x="233" y="46" width="13" height="16" fill="#2F5D50" fill-opacity=".25" stroke="#B9AD9C" stroke-width="1"/>
+    <rect x="246" y="46" width="13" height="16" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1"/>
+    <rect x="259" y="46" width="13" height="16" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1"/>
+    <rect x="272" y="46" width="13" height="16" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1"/>
+    <rect x="285" y="46" width="13" height="16" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1"/>
+    <rect x="298" y="46" width="13" height="16" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1"/>
+    <rect x="311" y="46" width="13" height="16" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1"/>
+    <rect x="324" y="46" width="13" height="16" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1"/>
+    <rect x="337" y="46" width="13" height="16" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1"/>
+    <rect x="350" y="46" width="13" height="16" fill="#E0A23B" stroke="#B9AD9C" stroke-width="1"/>
+    <line x1="129" y1="44" x2="129" y2="64" stroke="#2B1E16" stroke-width="1.2" stroke-dasharray="2 2"/>
+    <line x1="168" y1="44" x2="168" y2="64" stroke="#2B1E16" stroke-width="1.2" stroke-dasharray="2 2"/>
+    <line x1="207" y1="44" x2="207" y2="64" stroke="#2B1E16" stroke-width="1.2" stroke-dasharray="2 2"/>
+    <line x1="233" y1="44" x2="233" y2="64" stroke="#2B1E16" stroke-width="1.2" stroke-dasharray="2 2"/>
+    <line x1="246" y1="44" x2="246" y2="64" stroke="#2B1E16" stroke-width="1.2" stroke-dasharray="2 2"/>
+    <line x1="272" y1="44" x2="272" y2="64" stroke="#2B1E16" stroke-width="1.2" stroke-dasharray="2 2"/>
+    <line x1="311" y1="44" x2="311" y2="64" stroke="#2B1E16" stroke-width="1.2" stroke-dasharray="2 2"/>
+    <line x1="350" y1="44" x2="350" y2="64" stroke="#2B1E16" stroke-width="1.2" stroke-dasharray="2 2"/>
+    <circle cx="239.5" cy="54" r="5" fill="#2B1E16"/>
+    <rect x="131.5" y="67" width="34" height="14" rx="3" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <text x="148.5" y="78" text-anchor="middle" font-weight="700">5</text>
+    <rect x="170.5" y="67" width="34" height="14" rx="3" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <text x="187.5" y="78" text-anchor="middle" font-weight="700">2</text>
+    <rect x="274.5" y="67" width="34" height="14" rx="3" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <text x="291.5" y="78" text-anchor="middle" font-weight="700">2</text>
+    <rect x="313.5" y="67" width="34" height="14" rx="3" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <text x="330.5" y="78" text-anchor="middle" font-weight="700">5</text>
+    <text x="112" y="110">Military tokens</text>
+    <circle cx="284" cy="94" r="7" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+    <circle cx="302" cy="94" r="7" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+    <circle cx="320" cy="94" r="7" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+    <circle cx="338" cy="94" r="7" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+    <circle cx="356" cy="94" r="7" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+    <text x="320" y="112" text-anchor="middle">5 Progress tokens</text>
+    <rect x="212.0" y="126" width="26" height="34" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="215.0" y="129" width="20" height="5" rx="1" fill="#2F5D50"/>
+    <rect x="242.0" y="126" width="26" height="34" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="245.0" y="129" width="20" height="5" rx="1" fill="#2F5D50"/>
+    <rect x="197.0" y="148" width="26" height="34" rx="3" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="227.0" y="148" width="26" height="34" rx="3" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="257.0" y="148" width="26" height="34" rx="3" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="182.0" y="170" width="26" height="34" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="185.0" y="173" width="20" height="5" rx="1" fill="#2F5D50"/>
+    <rect x="212.0" y="170" width="26" height="34" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="215.0" y="173" width="20" height="5" rx="1" fill="#2F5D50"/>
+    <rect x="242.0" y="170" width="26" height="34" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="245.0" y="173" width="20" height="5" rx="1" fill="#2F5D50"/>
+    <rect x="272.0" y="170" width="26" height="34" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="275.0" y="173" width="20" height="5" rx="1" fill="#2F5D50"/>
+    <rect x="167.0" y="192" width="26" height="34" rx="3" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="197.0" y="192" width="26" height="34" rx="3" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="227.0" y="192" width="26" height="34" rx="3" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="257.0" y="192" width="26" height="34" rx="3" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="287.0" y="192" width="26" height="34" rx="3" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="152.0" y="214" width="26" height="34" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="155.0" y="217" width="20" height="5" rx="1" fill="#2F5D50"/>
+    <rect x="182.0" y="214" width="26" height="34" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="185.0" y="217" width="20" height="5" rx="1" fill="#2F5D50"/>
+    <rect x="212.0" y="214" width="26" height="34" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="215.0" y="217" width="20" height="5" rx="1" fill="#2F5D50"/>
+    <rect x="242.0" y="214" width="26" height="34" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="245.0" y="217" width="20" height="5" rx="1" fill="#2F5D50"/>
+    <rect x="272.0" y="214" width="26" height="34" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="275.0" y="217" width="20" height="5" rx="1" fill="#2F5D50"/>
+    <rect x="302.0" y="214" width="26" height="34" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="305.0" y="217" width="20" height="5" rx="1" fill="#2F5D50"/>
+    <text x="240" y="263" text-anchor="middle" fill="#2F5D50" font-weight="700">Age I layout: 20 cards</text>
+    <rect x="110" y="272" width="24" height="32" rx="3" fill="none" stroke="#2B1E16" stroke-width="1" stroke-dasharray="3 3"/>
+    <text x="140" y="292">Discard</text>
+    <circle cx="200" cy="292" r="6" fill="#E0A23B" stroke="#2B1E16" stroke-width="1"/>
+    <circle cx="212" cy="292" r="6" fill="#E0A23B" stroke="#2B1E16" stroke-width="1"/>
+    <circle cx="206" cy="282" r="6" fill="#E0A23B" stroke="#2B1E16" stroke-width="1"/>
+    <text x="224" y="292">Bank</text>
+    <rect x="258" y="278" width="28" height="20" rx="3" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <text x="292" y="292">Box: 3 per Age</text>
+    <rect x="10" y="128" width="84" height="182" rx="10" fill="#2F5D50" fill-opacity=".08" stroke="#2F5D50" stroke-width="1.2"/>
+    <text x="52" y="146" text-anchor="middle" font-weight="700" fill="#2F5D50">Player 1</text>
+    <text x="52" y="164" text-anchor="middle">7 coins</text>
+    <circle cx="25" cy="176" r="4" fill="#E0A23B" stroke="#2B1E16" stroke-width=".8"/>
+    <circle cx="34" cy="176" r="4" fill="#E0A23B" stroke="#2B1E16" stroke-width=".8"/>
+    <circle cx="43" cy="176" r="4" fill="#E0A23B" stroke="#2B1E16" stroke-width=".8"/>
+    <circle cx="52" cy="176" r="4" fill="#E0A23B" stroke="#2B1E16" stroke-width=".8"/>
+    <circle cx="61" cy="176" r="4" fill="#E0A23B" stroke="#2B1E16" stroke-width=".8"/>
+    <circle cx="70" cy="176" r="4" fill="#E0A23B" stroke="#2B1E16" stroke-width=".8"/>
+    <circle cx="79" cy="176" r="4" fill="#E0A23B" stroke="#2B1E16" stroke-width=".8"/>
+    <text x="52" y="200" text-anchor="middle">4 Wonders</text>
+    <rect x="22" y="208" width="60" height="18" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="25" y="211" width="12" height="12" rx="2" fill="#E0A23B"/>
+    <rect x="22" y="232" width="60" height="18" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="25" y="235" width="12" height="12" rx="2" fill="#E0A23B"/>
+    <rect x="22" y="256" width="60" height="18" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="25" y="259" width="12" height="12" rx="2" fill="#E0A23B"/>
+    <rect x="22" y="280" width="60" height="18" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="25" y="283" width="12" height="12" rx="2" fill="#E0A23B"/>
+    <rect x="386" y="128" width="84" height="182" rx="10" fill="#2F5D50" fill-opacity=".08" stroke="#2F5D50" stroke-width="1.2"/>
+    <text x="428" y="146" text-anchor="middle" font-weight="700" fill="#2F5D50">Player 2</text>
+    <text x="428" y="164" text-anchor="middle">7 coins</text>
+    <circle cx="401" cy="176" r="4" fill="#E0A23B" stroke="#2B1E16" stroke-width=".8"/>
+    <circle cx="410" cy="176" r="4" fill="#E0A23B" stroke="#2B1E16" stroke-width=".8"/>
+    <circle cx="419" cy="176" r="4" fill="#E0A23B" stroke="#2B1E16" stroke-width=".8"/>
+    <circle cx="428" cy="176" r="4" fill="#E0A23B" stroke="#2B1E16" stroke-width=".8"/>
+    <circle cx="437" cy="176" r="4" fill="#E0A23B" stroke="#2B1E16" stroke-width=".8"/>
+    <circle cx="446" cy="176" r="4" fill="#E0A23B" stroke="#2B1E16" stroke-width=".8"/>
+    <circle cx="455" cy="176" r="4" fill="#E0A23B" stroke="#2B1E16" stroke-width=".8"/>
+    <text x="428" y="200" text-anchor="middle">4 Wonders</text>
+    <rect x="398" y="208" width="60" height="18" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="401" y="211" width="12" height="12" rx="2" fill="#E0A23B"/>
+    <rect x="398" y="232" width="60" height="18" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="401" y="235" width="12" height="12" rx="2" fill="#E0A23B"/>
+    <rect x="398" y="256" width="60" height="18" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="401" y="259" width="12" height="12" rx="2" fill="#E0A23B"/>
+    <rect x="398" y="280" width="60" height="18" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="401" y="283" width="12" height="12" rx="2" fill="#E0A23B"/>
+  </g>
+</svg>

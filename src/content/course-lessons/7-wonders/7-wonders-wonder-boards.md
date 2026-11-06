@@ -1,18 +1,17 @@
 ---
-title: "7 Wonders Track: Reading Your Wonder Board, Day and Night"
+title: "Reading Your 7 Wonders Wonder Board, Day and Night"
 description: "How to read any 7 Wonders Wonder board before the first pick: starting resource, stage costs, stage effects, Day and Night sides, and when to build each."
 course: 7-wonders
 order: 6
 level: 1
 emailSubject: "Your Wonder board is a plan. Read it."
 pubDate: 2026-10-25
+updatedDate: 2026-11-06
 draft: false
 oneIdea: "Your Wonder board tells you three things before a card is dealt: what you make, what you will need, and what kind of city it wants. Read it as a plan, and give every stage a target Age."
 tryThis: "At setup in your next game, write a target Age next to each of your stages (for example: stage 1 in Age I, stage 2 in Age II, stage 3 in Age III), then check after the game how close you came."
-nextTeaser: "Next, the Duel track: the twelve Wonders, what each one does, and how to pick four that work together in the draft."
+nextTeaser: "Level 2 opens with the midgame: reading your neighbors as the pass flips in Age II, chains coming due, trading income, and when to fight."
 ---
-This is the first lesson on the **7 Wonders track**. The Duel track picks up in the next lesson.
-
 Every player in 7 Wonders starts with something no one else has: a Wonder board. It sits in front of you from setup to scoring, and it is the only part of your city you know before the first hand is dealt. Players who win often read it like a plan. Players who lose often build a stage only when a hand has nothing else.
 
 The [openings lesson](/academy/7-wonders/7-wonders-strategy-openings/) said to look at your starting resource, stage costs, and stage effects. This lesson turns that look into a routine you can use on any board, Day or Night.

@@ -2,18 +2,19 @@
 title: "7 Wonders Player Count, Max Players, Variants, and Expansions"
 description: "7 Wonders plays 3 to 7 players, and 7 is still the max with every expansion. For two, play 7 Wonders Duel. How each count plays, the variants, and expansions."
 course: 7-wonders
-order: 12
-level: 2
+order: 11
+level: 4
 emailSubject: "Which 7 Wonders expansion first?"
 pubDate: 2026-10-24
+updatedDate: 2026-11-06
 draft: false
-oneIdea: "Learn each base game well, then add one expansion at a time. Each one adds a single new layer, and the base game is still underneath it."
+oneIdea: "Learn the base game well, then add one expansion at a time. Each one adds a single new layer, and the base game is still underneath it."
 tryThis: "Play your next 7 Wonders game on the Night sides of the Wonder boards. It is a free variant already in the box."
-nextTeaser: "Level 3 starts on the 7 Wonders track: card memory and hate-drafting, or how to know what is in every hand before it reaches you."
+nextTeaser: "Next, competitive 7 Wonders: how the World Boardgaming Championships event runs, where to play online, and how to find strong opponents near you."
 ---
 7 Wonders plays 3 to 7 players, and every expansion keeps that same range, so 7 is the most the box seats. For two players, the publisher makes a separate game, 7 Wonders Duel, and there is no official solo mode in the base game.
 
-7 Wonders and Duel both have a small, well-chosen set of expansions. That makes choosing easier than for games with dozens of boxes. This lesson starts with what changes at different player counts, then the free variants already in your box, then each expansion and spin-off worth knowing.
+7 Wonders has a small, well-chosen set of expansions. That makes choosing easier than for games with dozens of boxes. This lesson starts with what changes at different player counts, then the free variants already in your box, then each expansion and spin-off worth knowing.
 
 ## How many players
 
@@ -30,7 +31,7 @@ If your group likes planning and close rivalry, play at 3 or 4. If it likes a bi
 
 ## Two players? Play Duel
 
-The second edition rulebook covers 3 to 7 players only. For two, the publisher's answer is 7 Wonders Duel, a separate game with its own cards and board, built for exactly two. Everything in this course's Duel sections applies.
+The second edition rulebook covers 3 to 7 players only. For two, the publisher's answer is 7 Wonders Duel, a separate game with its own cards and board, built for exactly two. It has [its own course](/academy/7-wonders-duel/) here.
 
 **[7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20)** and **[7 Wonders Duel](https://www.amazon.com/dp/B014DMSTXK?tag=cubecommonw0a-20)** each stand alone, and owning both covers any count from 2 to 7.
 
@@ -38,7 +39,6 @@ The second edition rulebook covers 3 to 7 players only. For two, the publisher's
 
 - **Night sides.** Every Wonder board has a Night side with different stages. The rulebook suggests Day sides for your first few games, then mixing freely.
 - **Choose your Wonders.** The rulebook allows choosing boards instead of dealing them at random. It is a good way to let a newer player take a simpler board.
-- **Duel's Wonder draft.** If your first Duel games used the fixed Wonder sets, the 1-2-1 draft is the next step. It changes every game.
 
 The publisher's 7 Wonders page also posts rules for promo extras, such as additional guild cards and a Manneken Pis Wonder board.
 
@@ -60,11 +60,7 @@ One caution: the publisher's FAQ says not to mix components from the first and s
 
 ## Duel expansions
 
-Both are for 2 players, list about 30 minutes, and can be played together.
-
-**[Pantheon](https://www.amazon.com/dp/B01K9MNAOG?tag=cubecommonw0a-20)** adds Divinities from five mythologies, chosen in Age I and called on in Ages II and III, plus a Pantheon board, two Wonders, three Progress tokens, and Grand Temples that replace the guilds in Age III.
-
-**[Agora](https://www.amazon.com/dp/B08PQ17FG1?tag=cubecommonw0a-20)** adds Senators, a Senate board with six chambers, Conspiracy cards, two Wonders, two Progress tokens, and a fourth way to win, political supremacy.
+Duel has two expansions of its own, Pantheon and Agora, and they do not mix with the ones above. The [Duel expansions lesson](/academy/7-wonders-duel/7-wonders-duel-expansions/) compares them.
 
 ## Spin-offs
 
@@ -77,7 +73,7 @@ Both are for 2 players, list about 30 minutes, and can be played together.
 - **Your group plays at 3 to 7 and loves the base game:** Leaders.
 - **You want more fights between neighbors:** Cities.
 - **You want a bigger game with a new board to manage:** Armada.
-- **You play mostly as a couple:** Duel, then Pantheon or Agora.
+- **You play mostly as a couple:** Duel, then its own expansions.
 - **You have kids or new players:** Architects.
 
 Our piece on [whether expansions are worth it](/articles/expansions-worth-it/) has a broader way to decide, for this game and every other one on your shelf.

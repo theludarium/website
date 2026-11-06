@@ -1,18 +1,17 @@
 ---
-title: "7 Wonders Track: Card Memory and Hate-Drafting"
+title: "7 Wonders Card Memory and Hate-Drafting"
 description: "Advanced 7 Wonders drafting: which cards are in play at your count, which hands come back, what a missing card tells you, and when hate-drafting pays."
 course: 7-wonders
-order: 13
+order: 10
 level: 3
 emailSubject: "You have already seen the hand that is coming"
 pubDate: 2026-10-25
+updatedDate: 2026-11-06
 draft: false
 oneIdea: "7 Wonders hides less than it seems. At your player count every card in the Age is dealt, the hands come round in a known order, and every reveal tells you something. Remember it, and hate-draft only when the numbers say so."
 tryThis: "In a three or four player game, write down the cards in your first hand of Age I. When that hand comes back, name who took each missing card before you look at their cities."
-nextTeaser: "Next, the Duel track: controlling the layout, who opens each row, and how the count of cards left decides who gets the good ones."
+nextTeaser: "Level 4 begins with player counts, variants, and expansions: how each count plays, the free variants in the box, and which expansion to add first."
 ---
-Welcome to Level 3, and to the **7 Wonders track** lesson for this level. The two lessons after this one are on the Duel track.
-
 At Level 2 you learned to read your neighbors' cities. Now you read the cards themselves: what is in the Age, where it is, and where it is going. 7 Wonders feels like a game of surprises, but much less is hidden than it looks.
 
 ## Every card in the Age is dealt

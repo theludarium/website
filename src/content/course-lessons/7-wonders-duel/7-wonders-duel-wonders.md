@@ -1,19 +1,18 @@
 ---
-title: "Duel Track: The Twelve Wonders and How to Draft Them"
+title: "7 Wonders Duel Wonders: All Twelve and How to Draft Them"
 description: "The twelve Wonders of 7 Wonders Duel sorted by what they do: play-again, military, attacks, points, and tricks, plus how to draft four that work together."
-course: 7-wonders
-order: 7
+course: 7-wonders-duel
+order: 4
 level: 1
 emailSubject: "Twelve Wonders, four picks, one plan"
 pubDate: 2026-10-25
+updatedDate: 2026-11-06
 draft: false
 oneIdea: "Duel's twelve Wonders fall into a few families. Draft a set that pulls in one direction, and use your picks to leave your opponent a set that pulls in none."
 tryThis: "In your next Duel Wonder draft, before each pick, name the family of every Wonder still on offer, and say out loud which one you are leaving your opponent."
-nextTeaser: "Level 2 opens with the midgame: reading neighbors as the pass flips in 7 Wonders, and tempo, science pairs, and pressure in the Duel layout."
+nextTeaser: "Level 2 opens with the economy: how every brown and grey card raises your opponent's prices, when yellow cards pay back, and how to keep your coins working."
 ---
-This is the **Duel track** lesson for Level 1. The previous lesson covered Wonder boards in 7 Wonders.
-
-In 7 Wonders you are dealt one board. In Duel you draft four Wonders from twelve, and only seven of the eight in play will ever be built. The [openings lesson](/academy/7-wonders/7-wonders-strategy-openings/) introduced the draft. This lesson gives you the whole set, sorted so you can see at a glance what each Wonder is for.
+In 7 Wonders you are dealt one board. In Duel you draft four Wonders from twelve, and only seven of the eight in play will ever be built. The [how to play lesson](/academy/7-wonders-duel/how-to-play-7-wonders-duel/) introduced the draft. This lesson gives you the whole set, sorted so you can see at a glance what each Wonder is for.
 
 Every effect below comes from the symbols page of the [7 Wonders Duel rulebook](https://cdn.svc.asmodee.net/production-rprod/storage/downloads/games/7wonders-duel/en/7du-rules-us-15990558193s5I6.pdf). Costs are printed on each Wonder; check them at the table.
 
@@ -46,7 +45,7 @@ Every effect below comes from the symbols page of the [7 Wonders Duel rulebook](
 
 Three questions sort most choices.
 
-**1. Does it give a second turn?** A second turn is two cards in a row. You can take a card that uncovers something good and then take that card too, before your opponent can. The [midgame lesson](/academy/7-wonders/7-wonders-midgame-strategy/) shows how this shifts who opens each row.
+**1. Does it give a second turn?** A second turn is two cards in a row. You can take a card that uncovers something good and then take that card too, before your opponent can. The [layout control lesson](/academy/7-wonders-duel/7-wonders-duel-layout-control/) shows how this shifts who opens each row.
 
 **2. Does it hurt your opponent?** The Appian Way's lost coins, and the cards that Circus Maximus and the Statue of Zeus send to the discard, are damage as well as gain. A discarded brown or grey card also lowers your price for that resource at the bank, since prices count your opponent's brown and grey symbols.
 
@@ -62,8 +61,6 @@ The draft runs twice. Four Wonders are dealt face up: one player takes 1, the ot
 
 In the second round, look at the four Wonders your opponent already holds before you pick. If they have two shield Wonders, the Colossus is worth more to deny.
 
-<!-- AT OUR TABLE: one line on the Wonder Levi's group fights over most in the Duel draft, or the one new players underrate. -->
-
 ## The seventh Wonder rule
 
 Only seven Wonders can be built. When the seventh goes up, the last unbuilt Wonder returns to the box. That turns the end of the game into a small race: if both of you have unbuilt Wonders late in Age III, building yours first can wipe out your opponent's. Build the Wonders that matter most to you before the race starts.
@@ -73,7 +70,7 @@ Only seven Wonders can be built. When the seventh goes up, the last unbuilt Wond
 Start with these habits:
 
 1. Take at least one play-again Wonder in each round when you can.
-2. Do not leave your opponent two play-again Wonders and The Temple of Artemis if you can help it. That is a lot of tempo and coins in one set.
+2. Do not leave your opponent a set with two or more play-again Wonders plus The Temple of Artemis if you can help it. That is a lot of tempo and coins in one set.
 3. Before Age I begins, decide which of your four Wonders you most want built, and watch for cards that pay for it.
 
 Our list of [two-player games for date night](/articles/two-player-board-games-date-night/) has more games in this duel shape when you want to rotate.

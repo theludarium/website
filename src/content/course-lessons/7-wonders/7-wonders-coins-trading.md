@@ -1,18 +1,17 @@
 ---
-title: "7 Wonders Track: Coins, Trading, and Yellow Cards"
+title: "7 Wonders Coins, Trading, and Yellow Cards"
 description: "7 Wonders trading math: what a coin is worth, why each purchase swings coins between you and a neighbor, when yellow cards pay back, and when to sell."
 course: 7-wonders
-order: 9
+order: 8
 level: 2
 emailSubject: "Every coin you pay a neighbor counts twice"
 pubDate: 2026-10-25
+updatedDate: 2026-11-06
 draft: false
 oneIdea: "A coin you pay a neighbor is a coin you lose and a coin they gain. Count trades as swings, and cheap trading, steady income, and the right sale start to look like points."
 tryThis: "In your next 7 Wonders game, keep a tally of coins you pay each neighbor and coins they pay you. At the end, compare the totals with how you did against each one."
-nextTeaser: "Next, the Duel track: all ten Progress tokens, what each one is worth, and how to choose when a science pair gives you a pick."
+nextTeaser: "Level 3 starts with the endgame: science squares and sets, military swings, guilds, and coins, counted so the last picks stop being guesses."
 ---
-This is the **7 Wonders track** lesson for Level 2. Duel's own economy has a lesson of its own in the next one, through its Progress tokens.
-
 Coins in 7 Wonders look small. Three of them make one point, and nobody wins on their treasury. But coins are how you build the cards you cannot make yourself, and every coin you spend on trading goes to a player you are scoring against. This lesson puts numbers on that.
 
 All rules here come from the [second edition rulebook](https://cdn.svc.asmodee.net/production-rprod/storage/downloads/games/7wonders/en/sev-en02-rules-1716388903zBEZx.pdf).

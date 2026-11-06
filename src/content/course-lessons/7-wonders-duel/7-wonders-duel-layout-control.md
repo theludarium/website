@@ -1,19 +1,18 @@
 ---
-title: "Duel Track: Controlling the Layout"
+title: "Controlling the 7 Wonders Duel Layout: Safe Picks and the Last Card"
 description: "Advanced 7 Wonders Duel: safe picks that open nothing, who takes the last card of an Age, how play-again flips the count, and what hidden cards can be."
-course: 7-wonders
-order: 14
+course: 7-wonders-duel
+order: 7
 level: 3
 emailSubject: "Make your opponent open the next row"
 pubDate: 2026-10-25
+updatedDate: 2026-11-06
 draft: false
 oneIdea: "Every Duel pick either opens cards or does not. Count the safe picks left, track who takes the last card, and use play-again turns to flip the count your way."
 tryThis: "In your next Duel game, before each pick in Age II, count the accessible cards that would open nothing. If the count is odd and it is your turn, take one."
-nextTeaser: "Next, the Duel track again: military and science supremacy counted move by move, so you see a sudden win coming before it lands."
+nextTeaser: "Next, military and science supremacy counted move by move, so you see a sudden win coming before it lands."
 ---
-This is a **Duel track** lesson for Level 3. The lesson before it covered card memory in 7 Wonders.
-
-The [beginner lesson](/academy/7-wonders/7-wonders-beginner-mistakes/) taught one question: what does this card uncover? The [midgame lesson](/academy/7-wonders/7-wonders-midgame-strategy/) added tempo. This lesson turns both into counting. Duel's layout is a shared space, and the player who controls when rows open usually gets the best cards in them.
+The [rules mistakes lesson](/academy/7-wonders-duel/7-wonders-duel-rules-mistakes/) taught one question: what does this card uncover? The [strategy lesson](/academy/7-wonders-duel/7-wonders-duel-strategy/) added tempo. This lesson turns both into counting. Duel's layout is a shared space, and the player who controls when rows open usually gets the best cards in them.
 
 Rules here come from the [7 Wonders Duel rulebook](https://cdn.svc.asmodee.net/production-rprod/storage/downloads/games/7wonders-duel/en/7du-rules-us-15990558193s5I6.pdf).
 
@@ -36,8 +35,6 @@ Look at the layout and count the safe picks available. Then think of the turns a
 So, roughly, when it is your turn and the number of safe picks is odd, take one. You will take the last safe pick and your opponent opens. When the number is even, a safe pick only delays; consider an opening pick now, while you choose what to open.
 
 This is a rule of thumb, not a law. A card's value can outweigh the count, and opening picks often create new safe picks. But it gives you a reason for every pick beyond "this card is nice."
-
-<!-- AT OUR TABLE: one line on how Levi teaches the safe-pick idea, or the moment in Age II when his group first noticed it. -->
 
 ## Who takes the last card
 

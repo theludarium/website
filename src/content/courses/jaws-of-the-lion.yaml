@@ -1,0 +1,100 @@
+title: "Into the Jaws"
+game: "Gloomhaven: Jaws of the Lion"
+format: masterclass
+order: 365
+wave: "6"
+draft: false
+publisher: "Cephalofair Games"
+notice: "Unofficial. Not affiliated with or endorsed by Cephalofair Games. Gloomhaven and Gloomhaven: Jaws of the Lion are trademarks of Cephalofair Games."
+rulesEdition: "Gloomhaven: Jaws of the Lion Learn to Play Guide and Rules Glossary (Cephalofair Games, 2020)"
+rulesSource: "https://drive.google.com/file/d/1nhg_PpeXLq0vpN-1uQqsrAFzFIAlxQVX/view"
+players: "1 to 4"
+playTime: "60 to 120 minutes per scenario"
+ages: "Ages 14 and up"
+promise: "Learn and teach Jaws of the Lion, play each of the four characters with a plan, master cards, initiative, and monster focus, then run the campaign on hard and choose your next Haven game."
+description: "A free Jaws of the Lion course: learn and teach it, plan all four characters, master cards, initiative, and monster focus, play solo, and choose what is next."
+audience:
+  - "Groups opening the box who want the tutorial scenarios to go smoothly."
+  - "Players stuck on a scenario who want to know if a rule is being played wrong."
+  - "Solo players running two characters at once."
+  - "Finished campaigns wondering whether Gloomhaven, Frosthaven, or Buttons and Bugs comes next."
+levels:
+  - level: 0
+    name: "Recruit"
+    label: "Learn to play"
+    outcome: "Set up the first scenario, teach the round in four steps, and let the Learn to Play Guide carry the table through the tutorial."
+  - level: 1
+    name: "Sellsword"
+    label: "Beginner"
+    outcome: "Play the rules the way the guide and glossary write them, and pick a character with a clear plan for what it does each round."
+  - level: 2
+    name: "Mercenary"
+    label: "Intermediate"
+    outcome: "Count how many rounds your hand will last, rest on purpose, and choose initiative to act before or after the monsters on purpose."
+  - level: 3
+    name: "Veteran"
+    label: "Advanced"
+    outcome: "Predict where every monster will move and who it will attack, and steer the campaign through items, perks, battle goals, and levels."
+  - level: 4
+    name: "Captain"
+    label: "Expert"
+    outcome: "Set the difficulty and player count your group wants, and run two characters at once as a solo player."
+  - level: 5
+    name: "Legend"
+    label: "Mastery"
+    outcome: "Win scenarios on Hard and Very Hard with a practice plan, and choose the right Haven game after the campaign ends."
+afterLesson3: "Teach the tutorial scenarios and play them without the rules slips that make Jaws of the Lion harder or easier than it is."
+afterLesson8: "Count your rounds, pick your initiative, predict monster focus, and steer the campaign without spoilers."
+faq:
+  - q: "Is Jaws of the Lion good for beginners?"
+    a: "Yes. It is built as the way in. The first five scenarios are a tutorial that adds rules one scenario at a time, and the scenario book is the map, so setup is quick. Cephalofair calls it the best entry point into the Gloomhaven world."
+  - q: "How long is the Jaws of the Lion campaign?"
+    a: "The campaign has 25 scenarios, five of them the tutorial. Each scenario runs about one to two hours, and choices close some scenarios, so you will not play every one in a single campaign."
+  - q: "Can you play Jaws of the Lion solo?"
+    a: "Yes. The box plays 1 to 4. The Learn to Play Guide tells a solo player to control two characters, and warns that this is a more complex way to play."
+  - q: "Do I need to read the Rules Glossary before playing?"
+    a: "No. The Learn to Play Guide teaches the rules as you play the first five scenarios. Keep the glossary for questions and for the detailed monster behavior examples."
+  - q: "Can you replay scenarios in Jaws of the Lion?"
+    a: "The Learn to Play Guide says you cannot replay a scenario you have already completed. A failed scenario is set up again and replayed, and you keep the gold, experience, and treasure you earned in the failed attempt."
+  - q: "Are there spoilers in this course?"
+    a: "Only the four starting characters and the tutorial scenarios. The course never names later scenarios, enemies, or story events."
+teachSheet:
+  goal: "Work together to complete each scenario's goal before every character is exhausted, then grow your characters across the campaign."
+  setup:
+    - "Each player picks a character: Demolitionist, Hatchet, Red Guard, or Voidwarden."
+    - "Take the mat, figure, hit point dial, reference card, modifier deck, and the cards the guide names."
+    - "Set the dial's red side to your hit points, under level 1 on the mat."
+    - "Open the scenario book to the scenario. It is the map."
+    - "Place figures on starting hexes and monsters by the row for your character count."
+    - "Monster stat cards go in envelopes at the scenario level. Shuffle every modifier deck."
+  turn:
+    - "Card selection: everyone secretly picks two cards. Talk plans, but no numbers or card names."
+    - "Initiative: reveal. Lowest goes first. Monsters use their ability card's number."
+    - "Your turn: top half of one card and bottom half of the other, in either order."
+    - "Any card can be a basic Attack 2 on top or Move 2 on the bottom."
+    - "Monsters focus on the character they can attack with the least movement, then act."
+    - "End of round: shuffle a modifier deck that drew a 2x or a null. Elements wane."
+    - "Short rest at end of round, or long rest as your turn at initiative 99."
+  scoring:
+    - "Gold: 2 per money token at scenario levels 0 and 1."
+    - "Experience comes from icons on the actions you use, plus a scenario bonus."
+    - "Battle goals give check marks. Every three check marks earn a perk."
+    - "Reach 45 experience for level 2. Thresholds are on your character sheet."
+  endGame: "A scenario ends at the end of the round when its goal is met, or when every character is exhausted. The campaign runs through 25 branching scenarios."
+  tips:
+    - "Play as you read: the Learn to Play Guide teaches one scenario at a time."
+    - "Count your rounds. Every rest costs a card, and lost actions cost more."
+    - "Before you pick a card, ask which character each monster will focus on."
+diagramAlt: "An abstract setup of the first scenario: the scenario book lies open in the middle as a hex map, with four starting hexes on the left, normal and elite monsters on the right, and obstacle hexes between. On the left sit the city map board set aside, the monster stat card in its envelope, and the 20-card monster modifier deck. On the right are the token tray and the initiative order tokens. Along the bottom, each of four players has a character mat, a hit point dial, six level A cards, and an attack modifier deck."
+games: [gloomhaven-jaws-of-the-lion]
+related:
+  - "is-gloomhaven-worth-it"
+  - "gloomhaven-vs-frosthaven"
+  - "how-to-teach-a-board-game"
+  - "best-cooperative-board-games"
+  - "best-solo-board-games"
+  - "quarterback-problem-cooperative-games"
+  - "campaign-game-missed-session"
+  - "analysis-paralysis-board-games"
+  - "board-game-weight-explained"
+  - "legacy-board-games-explained"

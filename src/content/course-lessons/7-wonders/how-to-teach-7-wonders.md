@@ -1,19 +1,20 @@
 ---
-title: "How to Teach 7 Wonders and 7 Wonders Duel"
-description: "How to teach 7 Wonders in ten minutes and 7 Wonders Duel in five: host scripts in the order you say them, what to skip, and a printable teach sheet for both."
+title: "How to Teach 7 Wonders"
+description: "How to teach 7 Wonders in ten minutes: a host script in the order you say it, playing the first hand slowly, what to leave out, and a printable teach sheet."
 course: 7-wonders
 order: 2
 level: 0
 emailSubject: "Teach 7 Wonders before the pizza gets cold"
 pubDate: 2026-10-24
+updatedDate: 2026-11-06
 draft: false
 oneIdea: "Teach the loop, not the card list. Pick, play, pass is the whole of 7 Wonders; the colors and icons make sense once real cards are in hands."
 tryThis: "Deal the first hand before you start talking, and let everyone hold real cards while you explain the three ways to play one."
-nextTeaser: "Next, the last piece of Level 0: scoring both games by hand, category by category, so the final count is quick and right."
+nextTeaser: "Next, the last piece of Level 0: scoring 7 Wonders by hand, category by category, so the final count is quick and right."
 ---
-7 Wonders has a reputation for icons. A host picks up a card, starts explaining every symbol on it, and loses the table before the first pick. Duel has the same trap, with a layout of twenty cards to explain on top.
+7 Wonders has a reputation for icons. A host picks up a card, starts explaining every symbol on it, and loses the table before the first pick.
 
-The fix for both is to teach the loop, start playing, and let the cards explain themselves. Below are two scripts in the order you would say them. Print the [7 Wonders teach sheet](/academy/7-wonders/teach-sheet/) and set it in the middle of the table. It covers both games on one page.
+The fix is to teach the loop, start playing, and let the cards explain themselves. Below is a script in the order you would say it. Print the [7 Wonders teach sheet](/academy/7-wonders/teach-sheet/) and set it in the middle of the table.
 
 ## Before anyone sits down
 
@@ -66,22 +67,10 @@ The rulebook has a good suggestion for a first game: reveal and play cards one p
 
 At the start of Age II, say it again: "This Age, pass to the right." It is an easy rule to forget.
 
-## Teaching Duel in five minutes
-
-Set up first, layout and all. For a first game, skip the Wonder draft and use the rulebook's fixed sets: The Pyramids, The Great Lighthouse, The Temple of Artemis, and The Statue of Zeus for one player; Circus Maximus, Piraeus, The Appian Way, and The Colossus for the other. The box also has a helpsheet with every symbol on it.
-
-Then say:
-
-1. "This is 7 Wonders for two. Same card colors, same idea: build a city over three Ages."
-2. "We take turns. On your turn, take any card that nothing else is covering. Build it, sell it for coins, or use it to build one of your Wonders."
-3. "If you take a card and uncover a face-down one, flip it. Careful: whatever you uncover, I can take next."
-4. "Missing a resource? Buy it from the bank. It costs more if I make that resource."
-5. "There are three ways to win. Push this pawn into my capital with shields. Collect six different science symbols. Or have the most points after Age III."
-
-Stop there and start. Teach Progress tokens the first time someone makes a science pair, and the Military tokens the first time the pawn crosses a line.
-
 ## Coaching during the first game
 
 Help with costs and icons, not choices. "That card needs a glass; your neighbor makes one" is helpful. "Take the red card" is playing for them.
+
+Teaching a partner one on one? The two-player game, 7 Wonders Duel, has its own five-minute script in [how to teach 7 Wonders Duel](/academy/7-wonders-duel/how-to-teach-7-wonders-duel/).
 
 For bigger groups learning together, our guide to running a [learn-to-play event](/articles/learn-to-play-events/) covers teaching one game to a whole room.

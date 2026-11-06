@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-labelledby="t d">
+  <title id="t">Jaws of the Lion setup for the first scenario, in the abstract</title>
+  <desc id="d">The scenario book lies open in the middle of the table as the map: a grid of hexes with four starting hexes on the left, normal and elite monster hexes on the right, and obstacle hexes between. To the left sit the city map board set aside, the monster stat card in its envelope, and the 20-card monster attack modifier deck. To the right sit the token tray and the initiative order tokens. Along the bottom, each player has a character mat, hit point dial, six level A ability cards, an attack modifier deck, and a reference card.</desc>
+  <defs>
+    <g id="hx"><polygon points="0,-11 9.5,-5.5 9.5,5.5 0,11 -9.5,5.5 -9.5,-5.5" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1"/></g>
+    <g id="st"><polygon points="0,-11 9.5,-5.5 9.5,5.5 0,11 -9.5,5.5 -9.5,-5.5" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/></g>
+    <g id="ob"><polygon points="0,-11 9.5,-5.5 9.5,5.5 0,11 -9.5,5.5 -9.5,-5.5" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/></g>
+    <g id="mn"><polygon points="0,-11 9.5,-5.5 9.5,5.5 0,11 -9.5,5.5 -9.5,-5.5" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1"/><circle r="5.5" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.6"/></g>
+    <g id="me"><polygon points="0,-11 9.5,-5.5 9.5,5.5 0,11 -9.5,5.5 -9.5,-5.5" fill="#F6EFE3" stroke="#B9AD9C" stroke-width="1"/><circle r="5.5" fill="#E0A23B" stroke="#2B1E16" stroke-width="1.6"/></g>
+  </defs>
+  <rect width="480" height="320" fill="#F6EFE3"/>
+  <g font-family="system-ui, sans-serif" font-size="12" fill="#2B1E16">
+
+    <text x="240" y="22" font-size="14" font-weight="700" text-anchor="middle">Scenario 1 setup, in the abstract</text>
+
+    <!-- Scenario book: two open pages that are the map -->
+    <rect x="128" y="34" width="224" height="170" rx="10" fill="#2F5D50" fill-opacity="0.08" stroke="#B9AD9C" stroke-width="1.5"/>
+    <line x1="240" y1="38" x2="240" y2="200" stroke="#B9AD9C" stroke-width="1.5" stroke-dasharray="3 3"/>
+    <text x="240" y="50" font-size="13" font-weight="700" text-anchor="middle">Scenario book: the map</text>
+    <g>
+      <use href="#hx" x="148" y="70"/>
+      <use href="#hx" x="167" y="70"/>
+      <use href="#hx" x="186" y="70"/>
+      <use href="#hx" x="205" y="70"/>
+      <use href="#hx" x="224" y="70"/>
+      <use href="#hx" x="243" y="70"/>
+      <use href="#hx" x="262" y="70"/>
+      <use href="#hx" x="281" y="70"/>
+      <use href="#hx" x="300" y="70"/>
+      <use href="#hx" x="319" y="70"/>
+      <use href="#st" x="157.5" y="86.5"/>
+      <use href="#hx" x="176.5" y="86.5"/>
+      <use href="#hx" x="195.5" y="86.5"/>
+      <use href="#hx" x="214.5" y="86.5"/>
+      <use href="#hx" x="233.5" y="86.5"/>
+      <use href="#hx" x="252.5" y="86.5"/>
+      <use href="#hx" x="271.5" y="86.5"/>
+      <use href="#hx" x="290.5" y="86.5"/>
+      <use href="#mn" x="309.5" y="86.5"/>
+      <use href="#hx" x="328.5" y="86.5"/>
+      <use href="#st" x="148" y="103"/>
+      <use href="#hx" x="167" y="103"/>
+      <use href="#hx" x="186" y="103"/>
+      <use href="#ob" x="205" y="103"/>
+      <use href="#hx" x="224" y="103"/>
+      <use href="#hx" x="243" y="103"/>
+      <use href="#hx" x="262" y="103"/>
+      <use href="#hx" x="281" y="103"/>
+      <use href="#hx" x="300" y="103"/>
+      <use href="#me" x="319" y="103"/>
+      <use href="#st" x="157.5" y="119.5"/>
+      <use href="#hx" x="176.5" y="119.5"/>
+      <use href="#hx" x="195.5" y="119.5"/>
+      <use href="#hx" x="214.5" y="119.5"/>
+      <use href="#hx" x="233.5" y="119.5"/>
+      <use href="#ob" x="252.5" y="119.5"/>
+      <use href="#hx" x="271.5" y="119.5"/>
+      <use href="#hx" x="290.5" y="119.5"/>
+      <use href="#hx" x="309.5" y="119.5"/>
+      <use href="#hx" x="328.5" y="119.5"/>
+      <use href="#st" x="148" y="136"/>
+      <use href="#hx" x="167" y="136"/>
+      <use href="#hx" x="186" y="136"/>
+      <use href="#hx" x="205" y="136"/>
+      <use href="#hx" x="224" y="136"/>
+      <use href="#ob" x="243" y="136"/>
+      <use href="#hx" x="262" y="136"/>
+      <use href="#hx" x="281" y="136"/>
+      <use href="#hx" x="300" y="136"/>
+      <use href="#mn" x="319" y="136"/>
+      <use href="#hx" x="157.5" y="152.5"/>
+      <use href="#hx" x="176.5" y="152.5"/>
+      <use href="#hx" x="195.5" y="152.5"/>
+      <use href="#hx" x="214.5" y="152.5"/>
+      <use href="#hx" x="233.5" y="152.5"/>
+      <use href="#hx" x="252.5" y="152.5"/>
+      <use href="#hx" x="271.5" y="152.5"/>
+      <use href="#mn" x="290.5" y="152.5"/>
+      <use href="#hx" x="309.5" y="152.5"/>
+      <use href="#hx" x="328.5" y="152.5"/>
+      <use href="#hx" x="148" y="169"/>
+      <use href="#hx" x="167" y="169"/>
+      <use href="#hx" x="186" y="169"/>
+      <use href="#hx" x="205" y="169"/>
+      <use href="#hx" x="224" y="169"/>
+      <use href="#hx" x="243" y="169"/>
+      <use href="#hx" x="262" y="169"/>
+      <use href="#hx" x="281" y="169"/>
+      <use href="#hx" x="300" y="169"/>
+      <use href="#hx" x="319" y="169"/>
+    </g>
+    <!-- legend -->
+    <g transform="translate(136 192)">
+      <use href="#st" x="0" y="0" transform="scale(0.6)"/>
+      <text x="9" y="4">Start</text>
+      <use href="#ob" x="0" y="0" transform="translate(46 0) scale(0.6)"/>
+      <text x="55" y="4">Obstacle</text>
+      <circle cx="118" cy="0" r="4.5" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1.4"/>
+      <text x="126" y="4">Normal</text>
+      <circle cx="180" cy="0" r="4.5" fill="#E0A23B" stroke="#2B1E16" stroke-width="1.4"/>
+      <text x="188" y="4">Elite</text>
+    </g>
+
+    <!-- Left column: monster side and the city -->
+    <rect x="10" y="34" width="110" height="44" rx="8" fill="none" stroke="#B9AD9C" stroke-width="1.5" stroke-dasharray="4 3"/>
+    <text x="20" y="52" font-weight="700">City map board</text>
+    <text x="20" y="68">set aside for now</text>
+
+    <rect x="10" y="86" width="110" height="56" rx="8" fill="#2B1E16" fill-opacity="0.06" stroke="#2B1E16" stroke-width="1.2"/>
+    <text x="20" y="104" font-weight="700">Monster stat</text>
+    <text x="20" y="119">card in envelope,</text>
+    <text x="20" y="134">level 1 showing</text>
+
+    <rect x="10" y="150" width="110" height="54" rx="8" fill="#2B1E16" fill-opacity="0.06" stroke="#2B1E16" stroke-width="1.2"/>
+    <rect x="18" y="160" width="22" height="34" rx="3" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="22" y="156" width="22" height="34" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+    <text x="50" y="166" font-weight="700">Monster</text>
+    <text x="50" y="180">modifier</text>
+    <text x="50" y="194">deck (20)</text>
+
+    <!-- Right column: shared pieces -->
+    <rect x="360" y="34" width="110" height="64" rx="8" fill="#2B1E16" fill-opacity="0.06" stroke="#2B1E16" stroke-width="1.2"/>
+    <text x="370" y="52" font-weight="700">Token tray</text>
+    <circle cx="378" cy="76" r="7" fill="#E0A23B" stroke="#2B1E16" stroke-width="1"/>
+    <circle cx="398" cy="76" r="7" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+    <circle cx="418" cy="76" r="7" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+    <rect x="432" y="69" width="14" height="14" rx="3" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+
+    <rect x="360" y="106" width="110" height="98" rx="8" fill="#2B1E16" fill-opacity="0.06" stroke="#2B1E16" stroke-width="1.2"/>
+    <text x="370" y="124" font-weight="700">Initiative</text>
+    <text x="370" y="139">order tokens</text>
+    <rect x="370" y="148" width="90" height="10" rx="3" fill="#2F5D50"/>
+    <rect x="370" y="162" width="90" height="10" rx="3" fill="#2F5D50"/>
+    <rect x="370" y="176" width="90" height="10" rx="3" fill="#2B1E16"/>
+    <rect x="370" y="190" width="90" height="10" rx="3" fill="#2F5D50"/>
+
+    <!-- Bottom: four player areas -->
+    <text x="10" y="224" font-size="13" font-weight="700">Each player, in front of them</text>
+    <g id="pa">
+      <rect x="10" y="232" width="110" height="80" rx="8" fill="#2F5D50" fill-opacity="0.08" stroke="#2F5D50" stroke-width="1.4"/>
+      <rect x="18" y="240" width="26" height="36" rx="3" fill="#2F5D50" stroke="#2B1E16" stroke-width="1"/>
+      <rect x="50" y="250" width="30" height="14" rx="7" fill="#E0A23B" stroke="#2B1E16" stroke-width="1"/>
+      <rect x="86" y="240" width="12" height="18" rx="2" fill="#F6EFE3" stroke="#2B1E16" stroke-width="1"/>
+      <rect x="100" y="240" width="12" height="18" rx="2" fill="#B9AD9C" stroke="#2B1E16" stroke-width="1"/>
+      <text x="18" y="292">Mat, HP dial, six</text>
+      <text x="18" y="306">A cards, modifiers</text>
+    </g>
+    <use href="#pa" x="117"/>
+    <use href="#pa" x="234"/>
+    <use href="#pa" x="351"/>
+  </g>
+</svg>

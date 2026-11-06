@@ -1,0 +1,94 @@
+title: "Into the Chaos Bag"
+game: "Arkham Horror: The Card Game"
+format: masterclass
+order: 387
+wave: "6"
+draft: false
+publisher: "Fantasy Flight Games"
+notice: "Unofficial. Not affiliated with or endorsed by Fantasy Flight Games. Arkham Horror is a trademark of Fantasy Flight Games."
+rulesEdition: "Arkham Horror: The Card Game Core Set rulebook (2026, the start of Chapter Two) and the Arkham Grimoire v1.1 (Fantasy Flight Games, July 2026); the retired FAQ v2.5 (February 2026) for products released before 2026"
+rulesSource: "https://images-cdn.fantasyflightgames.com/filer_public/5c/c7/5cc79eb6-3d9c-4345-a5f1-27051251a6e4/arkham_grimoire_v11_web.pdf"
+players: "1 to 4"
+playTime: "About 1 to 2 hours per scenario"
+ages: "Ages 14 and up"
+promise: "Learn and teach Arkham Horror: The Card Game, read the chaos bag like a pro, play every class with a plan, then build decks, run campaigns, and climb to Expert."
+description: "A free Arkham Horror LCG course: learn and teach the rules, chaos bag odds, skill tests, all five classes, deckbuilding and XP, campaigns, solo, and Expert."
+audience:
+  - "New players opening the core set who want the rules right before the first scenario."
+  - "Hosts teaching a group that has never played a campaign card game."
+  - "Players who keep failing tests and want to know the odds before they pull a token."
+  - "Solo players and veterans ready for custom decks, Hard and Expert, and harder challenges."
+levels:
+  - level: 0
+    name: "Newcomer"
+    label: "Learn to play"
+    outcome: "Set up, teach, and finish a first scenario with the four phases, the actions, and skill tests played right."
+  - level: 1
+    name: "Inquirer"
+    label: "Beginner"
+    outcome: "Play without the rules slips most tables make, and commit cards to skill tests on purpose."
+  - level: 2
+    name: "Researcher"
+    label: "Intermediate"
+    outcome: "Know your odds before every chaos token, and play any of the five classes with a clear job at the table."
+  - level: 3
+    name: "Investigator"
+    label: "Advanced"
+    outcome: "Build legal custom decks, spend experience well, and carry a campaign log through trauma and resolutions."
+  - level: 4
+    name: "Occultist"
+    label: "Expert"
+    outcome: "Play solo with one or two investigators, and choose the right box to buy next for the way you play."
+  - level: 5
+    name: "Elder"
+    label: "Mastery"
+    outcome: "Play standalone scenarios, tune difficulty with Hard, Expert, and Ultimatums, and follow a plan to win on Expert."
+afterLesson3: "Teach a first scenario from the core set and play it without the rules slips that trip up most new tables."
+afterLesson8: "Build a legal deck, spend experience between scenarios, and keep a campaign log that carries trauma and choices forward."
+faq:
+  - q: "Which Arkham Horror: The Card Game core set should I buy?"
+    a: "Start with the 2026 core set, the start of what Fantasy Flight calls Chapter Two. It replaces the 2021 Revised Core Set as the evergreen starting point and supports 1 to 4 players. The Revised Core Set holds the Night of the Zealot campaign and the classic investigators."
+  - q: "How many players can play Arkham Horror: The Card Game?"
+    a: "One to four players can play with a single core set. Each player runs one investigator. Many solo players run two investigators at once."
+  - q: "Where is the Arkham Horror LCG Rules Reference?"
+    a: "For the 2026 core set and later, the full rules live in the Arkham Grimoire, a living rules document on Fantasy Flight's site. Products released before 2026 are covered by the older Rules Reference and the retired FAQ."
+  - q: "What is an attack of opportunity in Arkham Horror LCG?"
+    a: "If you are engaged with a ready enemy and spend an action on anything except Fight, Evade, Parley, or Resign, each of those enemies attacks you. The attack comes after you pay the action, before its effect resolves."
+  - q: "Is Arkham Horror: The Card Game a legacy game?"
+    a: "No. Nothing is destroyed. You track the campaign in a campaign log, and you can reset and replay any campaign with a fresh log."
+teachSheet:
+  goal: "Work together to advance the act deck through each scenario before the agenda deck runs out."
+  setup:
+    - "Each player picks a different investigator and shuffles their deck."
+    - "Choose a lead investigator. Set out damage, horror, clue/doom, and resource tokens."
+    - "Fill the chaos bag with the tokens your difficulty lists in the campaign guide."
+    - "Each investigator takes 5 resources and draws 5 cards. One mulligan each."
+    - "Follow the scenario setup: encounter deck, starting location, agenda and act decks."
+  turn:
+    - "Mythos: add 1 doom, check the agenda, each investigator draws an encounter card. Skip it in round 1."
+    - "Investigation: each investigator takes 3 actions, in any order the group picks."
+    - "Actions: draw, resource, play, activate, move, investigate, engage, fight, evade."
+    - "Enemy: hunter and patrol enemies move, then each ready engaged enemy attacks and exhausts."
+    - "Upkeep: ready everything, draw 1 card, gain 1 resource, discard down to 8."
+    - "Skill test: commit matching icons, pull one chaos token, meet or beat the difficulty."
+    - "Engaged with a ready enemy? Any action but Fight, Evade, Parley, or Resign provokes an attack."
+  scoring:
+    - "Spend the clues an act asks for, as a group, to advance it."
+    - "Defeated Victory cards go to the victory display and become experience."
+    - "Defeat by damage or horror ends your game and adds 1 trauma."
+  endGame: "A scenario ends when a resolution is reached, usually by advancing the final act or agenda, or when every investigator is defeated."
+  tips:
+    - "Teach the round order and attacks of opportunity first. They cause the most mistakes."
+    - "Say your plan out loud each round, but let each player decide their own actions."
+    - "Play the first scenario on Easy or Standard with the core starter decks."
+diagramAlt: "A schematic of an Arkham Horror: The Card Game table at setup for two players. Across the top sit the agenda deck, the act deck, the scenario reference card, the encounter deck, and its discard pile. In the middle is the starting location with both investigator tokens, beside the chaos bag, the token pool, and an out-of-play area for set-aside cards and the victory display. Along the bottom, each player has a play area with their investigator card, assets, deck, discard pile, and a threat area for engaged enemies."
+games: [arkham-horror-lcg]
+related:
+  - "best-co-op-card-games"
+  - "best-solo-board-games"
+  - "campaign-game-missed-session"
+  - "quarterback-problem-cooperative-games"
+  - "how-to-teach-a-board-game"
+  - "expansions-worth-it"
+  - "legacy-board-games-explained"
+  - "two-player-cooperative-board-games"
