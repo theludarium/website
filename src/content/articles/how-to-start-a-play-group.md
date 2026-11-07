@@ -171,7 +171,7 @@ Biweekly on a fixed weeknight works for most adult groups: frequent enough to be
 
 ### What games should a new board game group start with?
 
-Start with gateway games you can teach in five minutes: Codenames, Sushi Go!, Just One, Ticket to Ride, Azul, [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20). Play two or three short games in the first session instead of one long one. Add a slightly heavier game like Carcassonne or Pandemic by the third session once the group knows its pace.
+Start with gateway games you can teach in five minutes: Codenames, Sushi Go!, Just One, Ticket to Ride, Azul, [Love Letter](https://www.amazon.com/dp/B07PHHBWM9?tag=cubecommonw0a-20). Play two or three short games in the first session instead of one long one. Add a slightly heavier game like Carcassonne or Pandemic by the third session once the group knows its pace.
 
 ### Do I need to buy a lot of games to start a game group?
 

@@ -58,7 +58,7 @@ Fewer than you think. Here are some real decks for scale:
 | Game | Cards in the core deck |
 |---|---|
 | A Button Shy wallet game | 18 or fewer |
-| [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20) (original) | 16 |
+| [Love Letter](https://www.amazon.com/dp/B07PHHBWM9?tag=cubecommonw0a-20) (original) | 16 |
 | Love Letter (2019 edition) | 21 |
 | Standard playing cards | 52 |
 | The Mind | 100 number cards |

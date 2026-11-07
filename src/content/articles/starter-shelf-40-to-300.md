@@ -33,7 +33,7 @@ The gateway is your anchor, the game you teach to anyone. It fits your most comm
 
 ### Filler
 
-A filler plays in under 20 minutes, including the teach. It fills the gap while you wait for the last guest, closes the night after the main event, or saves an evening when nobody has the energy for a big box. [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20), and [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20) are fillers. A good filler gets more plays than anything else on the shelf, which is why it is the second role to buy, not the last.
+A filler plays in under 20 minutes, including the teach. It fills the gap while you wait for the last guest, closes the night after the main event, or saves an evening when nobody has the energy for a big box. [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), [Love Letter](https://www.amazon.com/dp/B07PHHBWM9?tag=cubecommonw0a-20), and [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20) are fillers. A good filler gets more plays than anything else on the shelf, which is why it is the second role to buy, not the last.
 
 ### 2-player
 

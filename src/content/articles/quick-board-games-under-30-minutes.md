@@ -30,7 +30,7 @@ The times below are for a table where at least one person has played before and 
 
 | Game | Players | Time | Why it works |
 |---|---|---|---|
-| [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20) | 2 to 4 | 15 min | Sixteen cards, deduction, instant rematch |
+| [Love Letter](https://www.amazon.com/dp/B07PHHBWM9?tag=cubecommonw0a-20) | 2 to 4 | 15 min | Sixteen cards, deduction, instant rematch |
 | [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) | 2 to 5 | 15 min | Card drafting with a tin and a smile |
 | [Skull](https://www.amazon.com/dp/B08R2BPLSN?tag=cubecommonw0a-20) | 3 to 6 | 15 to 30 min | Bluffing with four discs per player |
 | [No Thanks!](https://www.amazon.com/dp/B013FAC4FK?tag=cubecommonw0a-20) | 3 to 7 | 15 min | Take the card or pay a chip. That is the game |

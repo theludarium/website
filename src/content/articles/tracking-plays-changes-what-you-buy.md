@@ -59,7 +59,7 @@ Here is what three weeks of it looks like for an illustrative four-person group:
 | Oct 9 | [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) | 4 | 15 | Yes |
 | Oct 16 | [Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20) | 3 | 160 | No |
 | Oct 23 | [Pandemic](https://link.amazon/B0eHP5GCg) | 4 | 50 | Yes |
-| Oct 23 | [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20) | 4 | 15 | Yes |
+| Oct 23 | [Love Letter](https://www.amazon.com/dp/B07PHHBWM9?tag=cubecommonw0a-20) | 4 | 15 | Yes |
 
 Seven rows, and already you can see that the group plays something short every night, that its one heavy game ran well past the box time and nobody wants a rematch soon, and that party games only come out at six. None of that surprises the group. All of it is invisible to the person standing in a game store with forty dollars.
 

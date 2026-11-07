@@ -45,7 +45,7 @@ The shortest month, the coldest weather, and the fewest reasons to leave the hou
 
 ### March: Bracket Night
 
-March is when the rest of the country is filling out brackets, so borrow the energy. One fast game, single or double elimination, a small trophy. [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20), [Hive](https://www.amazon.com/dp/B000EN5ZLW?tag=cubecommonw0a-20), [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20). Our guide to [running a board game tournament](/articles/how-to-run-a-board-game-tournament/) covers formats; for most groups of twelve or more, Swiss is the right choice and the bracket is for the final four.
+March is when the rest of the country is filling out brackets, so borrow the energy. One fast game, single or double elimination, a small trophy. [Love Letter](https://www.amazon.com/dp/B07PHHBWM9?tag=cubecommonw0a-20), [Hive](https://www.amazon.com/dp/B000EN5ZLW?tag=cubecommonw0a-20), [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20). Our guide to [running a board game tournament](/articles/how-to-run-a-board-game-tournament/) covers formats; for most groups of twelve or more, Swiss is the right choice and the bracket is for the final four.
 
 ### April: Shelf of Shame
 

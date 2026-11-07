@@ -31,7 +31,7 @@ A good adult card game needs three things:
 | [Coup](https://www.amazon.com/dp/B00GDI4HX4?tag=cubecommonw0a-20) | 2 to 6 | 15 min | Lie about your role and dare them to call it |
 | [Monikers](https://www.amazon.com/dp/B00M07OQ1U?tag=cubecommonw0a-20) | 4 to 16 | 30 to 60 min | Celebrity with a curated deck and three rounds |
 | [The Crew](https://link.amazon/B099S9RKf) | 2 to 5 | 20 min | Cooperative trick-taking with silent teamwork |
-| [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20) | 2 to 4 | 15 min | Sixteen cards of pure deduction |
+| [Love Letter](https://www.amazon.com/dp/B07PHHBWM9?tag=cubecommonw0a-20) | 2 to 4 | 15 min | Sixteen cards of pure deduction |
 | [Decrypto](https://www.amazon.com/dp/B07BB4ND6J?tag=cubecommonw0a-20) | 3 to 8 | 30 min | Coded messages your opponents try to crack |
 | [Hanabi](https://www.amazon.com/dp/B01MXTGT21?tag=cubecommonw0a-20) | 2 to 5 | 25 min | Hold your cards backward and trust the table |
 | [Sushi Go Party!](https://www.amazon.com/dp/B01CETNKE2?tag=cubecommonw0a-20) | 2 to 8 | 20 min | Drafting for a bigger group |

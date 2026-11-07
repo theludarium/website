@@ -40,7 +40,7 @@ Every hobby gamer owns games they have never played. This night is for those box
 
 ### 4. Bracket Night
 
-Pick one fast game and run a tournament. [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20), [Hive](https://www.amazon.com/dp/B000EN5ZLW?tag=cubecommonw0a-20), or [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20) work because a match takes fifteen minutes. We wrote a full guide to [running a board game tournament](/articles/how-to-run-a-board-game-tournament/) with bracket formats and tiebreaks.
+Pick one fast game and run a tournament. [Love Letter](https://www.amazon.com/dp/B07PHHBWM9?tag=cubecommonw0a-20), [Hive](https://www.amazon.com/dp/B000EN5ZLW?tag=cubecommonw0a-20), or [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20) work because a match takes fifteen minutes. We wrote a full guide to [running a board game tournament](/articles/how-to-run-a-board-game-tournament/) with bracket formats and tiebreaks.
 
 **The rule:** the prize is small and slightly embarrassing. A plastic trophy from a party store outperforms a gift card every time.
 

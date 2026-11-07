@@ -39,7 +39,7 @@ If your friends already play board games, a mystery game gives you the whodunit 
 - **Deception: Murder in Hong Kong** is the best fit for a party. It plays 4 to 12 in about 20 minutes. One player, the Forensic Scientist, knows the truth and can only hint at it. One investigator is secretly the murderer. Read more about it in our list of [the best social deduction games](/articles/best-social-deduction-games/).
 - **Mysterium** is cooperative. One player is a ghost who cannot speak and sends illustrated dream cards to help the other 1 to 6 players find the killer, the place, and the weapon. It plays 2 to 7 in about 42 minutes, and it is lovely by candlelight.
 - **Sherlock Holmes Consulting Detective** is the puzzle lover's pick. Each box holds ten cases. You read the case, choose where to go in Victorian London, and read the leads you find, then compare your solution to Holmes's. It plays 1 to 8, with cases often taking about 90 minutes or more. Best with 2 to 4 who like to debate.
-- **[Chronicles of Crime](https://www.amazon.com/dp/B08CDHC8DT?tag=cubecommonw0a-20)** pairs a board with a companion app. You scan cards and locations with a phone to question suspects and examine evidence. It plays 1 to 4 in about 60 to 90 minutes.
+- **[Chronicles of Crime](https://www.amazon.com/dp/B07CN8TJDQ?tag=cubecommonw0a-20)** pairs a board with a companion app. You scan cards and locations with a phone to question suspects and examine evidence. It plays 1 to 4 in about 60 to 90 minutes.
 
 ### Write your own
 

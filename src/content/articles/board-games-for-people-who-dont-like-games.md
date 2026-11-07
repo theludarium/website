@@ -27,7 +27,7 @@ Each of these is a real and reasonable complaint about certain games. None of th
 | Rules | Wavelength, [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20), [Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20), [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) |
 | Losing | Just One, [The Crew](https://link.amazon/B099S9RKf), [Hanabi](https://www.amazon.com/dp/B01MXTGT21?tag=cubecommonw0a-20), Telestrations |
 | Being watched | Codenames (as guesser), [Azul](https://link.amazon/B0bGRYHex), [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), [Cascadia](https://link.amazon/B0g1HYFt4) |
-| Time | Sushi Go!, [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20), [Skull](https://www.amazon.com/dp/B08R2BPLSN?tag=cubecommonw0a-20), [No Thanks!](https://www.amazon.com/dp/B013FAC4FK?tag=cubecommonw0a-20) |
+| Time | Sushi Go!, [Love Letter](https://www.amazon.com/dp/B07PHHBWM9?tag=cubecommonw0a-20), [Skull](https://www.amazon.com/dp/B08R2BPLSN?tag=cubecommonw0a-20), [No Thanks!](https://www.amazon.com/dp/B013FAC4FK?tag=cubecommonw0a-20) |
 | Wanting to talk | Wavelength, Codenames, Just One, [Poetry for Neanderthals](https://www.amazon.com/dp/B089DTQDLR?tag=cubecommonw0a-20) |
 
 ## Which games need almost no rules?

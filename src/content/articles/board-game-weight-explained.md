@@ -24,7 +24,7 @@ The numbers below are approximate bands, placed from BoardGameGeek community rat
 
 | Weight | Label people use | What it feels like | Examples |
 |---|---|---|---|
-| 1.0 to 1.5 | Light | Rules in two minutes; decisions are obvious or fun rather than hard | [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20) |
+| 1.0 to 1.5 | Light | Rules in two minutes; decisions are obvious or fun rather than hard | [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), [Love Letter](https://www.amazon.com/dp/B07PHHBWM9?tag=cubecommonw0a-20) |
 | 1.5 to 2.0 | Light-medium | Rules in five to ten minutes; a few real choices per turn | [Ticket to Ride](https://link.amazon/B0jh8RB7f), [Azul](https://link.amazon/B0bGRYHex), [Kingdomino](https://link.amazon/B08l49zvA), [Carcassonne](https://link.amazon/B012Rr5ed) |
 | 2.0 to 2.5 | Medium-light | Rules in ten to fifteen minutes; strategy matters; a new player can still enjoy the first game | [Catan](https://link.amazon/B0h8BDGR2), [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), [Splendor](https://link.amazon/B0fEvY6Wg), [Pandemic](https://link.amazon/B0eHP5GCg) |
 | 2.5 to 3.0 | Medium | Rules in twenty minutes; planning two or three turns ahead; the first game is a learning game | [7 Wonders Duel](https://www.amazon.com/dp/B014DMSTXK?tag=cubecommonw0a-20), Everdell, [Scythe](https://www.amazon.com/dp/B01IPUGYK6?tag=cubecommonw0a-20), [Dune: Imperium](https://www.amazon.com/dp/B08JHB9V72?tag=cubecommonw0a-20) |

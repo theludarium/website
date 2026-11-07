@@ -49,7 +49,7 @@ If your group has opinions, let them vote. Our free [Game Night Madness](/game-n
 | 7 Wonders | 3 to 7 | 30 min | Strategy |
 | [Splendor](https://link.amazon/B0fEvY6Wg) | 2 to 4 | 30 min | Strategy |
 | Sushi Go! | 2 to 5 | 15 min | Quick filler |
-| [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20) | 2 to 6 | 20 min | Quick filler |
+| [Love Letter](https://www.amazon.com/dp/B07PHHBWM9?tag=cubecommonw0a-20) | 2 to 6 | 20 min | Quick filler |
 | [No Thanks!](https://www.amazon.com/dp/B013FAC4FK?tag=cubecommonw0a-20) | 3 to 7 | 20 min | Quick filler |
 
 Player counts are from the box. Some games play better in part of their range, noted below.

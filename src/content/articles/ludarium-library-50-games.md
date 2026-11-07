@@ -36,7 +36,7 @@ Games for a group that just sat down and wants to start now.
 | [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20) | 3 to 7 | 20 min | Cooperative, nobody looks bad |
 | [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) | 2 to 12 | 30 min | Arguments as entertainment |
 | [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) | 2 to 5 | 15 min | Teaches drafting in one pass |
-| [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20) | 2 to 6 | 15 to 20 min | A tiny deck, endless rematches |
+| [Love Letter](https://www.amazon.com/dp/B07PHHBWM9?tag=cubecommonw0a-20) | 2 to 6 | 15 to 20 min | A tiny deck, endless rematches |
 | [Skull](https://www.amazon.com/dp/B08R2BPLSN?tag=cubecommonw0a-20) | 3 to 6 | 15 to 30 min | Bluffing with a drink in hand |
 | [No Thanks!](https://www.amazon.com/dp/B013FAC4FK?tag=cubecommonw0a-20) | 3 to 7 | 15 min | Three rules, real agony |
 | [Coup](https://www.amazon.com/dp/B00GDI4HX4?tag=cubecommonw0a-20) | 2 to 6 | 15 min | Lie, get caught, play again |

@@ -6,7 +6,7 @@ category: Game Guides
 tags: ["clue rules", "how to play clue", "clue board game rules", "clue suggestion vs accusation", "clue secret passages", "clue strategy"]
 draft: false
 ---
-The [Clue](https://www.amazon.com/dp/B00DUB6RVW?tag=cubecommonw0a-20) rules come down to one question: who did it, with what, and where? Three cards, one suspect, one weapon and one room, are hidden in an envelope at the start. Everyone else's cards are dealt out. You move around the mansion, make suggestions to see which cards other players hold, and cross possibilities off your notes. When you are sure what is in the envelope, you make an accusation. Get all three right and you win.
+The [Clue](https://www.amazon.com/dp/B07BMJPPXV?tag=cubecommonw0a-20) rules come down to one question: who did it, with what, and where? Three cards, one suspect, one weapon and one room, are hidden in an envelope at the start. Everyone else's cards are dealt out. You move around the mansion, make suggestions to see which cards other players hold, and cross possibilities off your notes. When you are sure what is in the envelope, you make an accusation. Get all three right and you win.
 
 **The quick answer:** hide one suspect, one weapon and one room card in the case file envelope and deal the rest. On your turn, roll and move. When you enter a room, suggest a suspect and weapon in that room. Players to your left try to disprove it by secretly showing you one matching card. When you think you know the answer, accuse. Right wins; wrong puts you out.
 

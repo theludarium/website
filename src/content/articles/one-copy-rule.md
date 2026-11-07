@@ -98,7 +98,7 @@ Some groups have a game that gets pulled out every single session, often as the 
 
 ### Cheap fillers
 
-A $12 copy of [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20) or [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) is cheap enough that owning your own, so it is in your bag at all times, is defensible. The dollars at stake are small and the game shows up in more places. Just do not let "fillers are cheap" become a loophole for $40 games.
+A $12 copy of [Love Letter](https://www.amazon.com/dp/B07PHHBWM9?tag=cubecommonw0a-20) or [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) is cheap enough that owning your own, so it is in your bag at all times, is defensible. The dollars at stake are small and the game shows up in more places. Just do not let "fillers are cheap" become a loophole for $40 games.
 
 We go deeper on each of these, with a checklist, in [When a Second Copy of a Board Game Is Worth It](/articles/when-a-second-copy-is-worth-it/).
 

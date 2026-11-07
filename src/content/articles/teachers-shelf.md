@@ -22,7 +22,7 @@ Here is a working shelf. Eight games is more than enough; five is plenty.
 - **[Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20)**: two teams, one-word clues, find your spies before the other team finds theirs.
 - **[Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20)**: everyone writes a one-word clue, duplicates get erased, one player guesses.
 - **[Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20)**: pick a card, pass the hand, collect sets, three quick rounds.
-- **[Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20)**: one card in hand, draw one, play one, last player standing wins the round.
+- **[Love Letter](https://www.amazon.com/dp/B07PHHBWM9?tag=cubecommonw0a-20)**: one card in hand, draw one, play one, last player standing wins the round.
 - **The Crew**: a trick-taking co-op where the table has to win specific tricks together.
 - **[Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20)**: guess where a hidden target sits on a spectrum from a teammate's clue.
 - **[Azul](https://link.amazon/B0bGRYHex)**: draft tiles, fill rows, score your wall, avoid the penalty floor.

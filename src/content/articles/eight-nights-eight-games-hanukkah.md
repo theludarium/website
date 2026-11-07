@@ -94,7 +94,7 @@ Two to five players, 30 to 60 minutes, ages 8 and up. It won the Spiel des Jahre
 
 The full plan runs roughly $200 to $240. To trim it:
 
-- **Swap the big three.** Replace Azul, Cascadia, and Ticket to Ride with small card games under $20, like [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20), [Qwixx](https://www.amazon.com/dp/B00J57138C?tag=cubecommonw0a-20), or [Hanabi](https://www.amazon.com/dp/B01MXTGT21?tag=cubecommonw0a-20). Our list of [board games under $20](/articles/board-games-under-20-dollars/) has more.
+- **Swap the big three.** Replace Azul, Cascadia, and Ticket to Ride with small card games under $20, like [Love Letter](https://www.amazon.com/dp/B07PHHBWM9?tag=cubecommonw0a-20), [Qwixx](https://www.amazon.com/dp/B00J57138C?tag=cubecommonw0a-20), or [Hanabi](https://www.amazon.com/dp/B01MXTGT21?tag=cubecommonw0a-20). Our list of [board games under $20](/articles/board-games-under-20-dollars/) has more.
 - **Give one game, play it for several nights.** A single good family game played three or four nights in a row is a gift too. Kids often like a game more on the third play than the first.
 - **Use what you have.** A deck of cards, a dreidel, and a jar of chocolate coins can fill a night.
 

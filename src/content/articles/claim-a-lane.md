@@ -24,7 +24,7 @@ The lanes we use are:
 - **Co-op:** everyone on the same side. Pandemic, [The Crew](https://link.amazon/B099S9RKf), [Spirit Island](https://www.amazon.com/dp/B01MUHP51S?tag=cubecommonw0a-20).
 - **2-player:** for the night only two people show up. Patchwork, [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20), [Hive](https://www.amazon.com/dp/B000EN5ZLW?tag=cubecommonw0a-20).
 - **Campaign / legacy:** one game played across many sessions. [Gloomhaven](https://www.amazon.com/dp/B01LZXVN4P?tag=cubecommonw0a-20), [Sherlock Holmes Consulting Detective](https://www.amazon.com/dp/2370990074?tag=cubecommonw0a-20).
-- **Filler:** under twenty minutes, pulled out while people arrive or as a closer. [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20).
+- **Filler:** under twenty minutes, pulled out while people arrive or as a closer. [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), [Love Letter](https://www.amazon.com/dp/B07PHHBWM9?tag=cubecommonw0a-20).
 
 These lanes line up with the roles on a starter shelf: gateway, filler, two-player, party, co-op, stretch. The difference is that a starter shelf is one person covering all the roles with five or six games. Claim a Lane is four people covering all the roles with twenty.
 

@@ -69,7 +69,7 @@ Here are three made-up examples at different price points. None of these are rea
 
 | Illustration | Price | Plays | Players | Hours per play | Cost per player-hour |
 |---|---|---|---|---|---|
-| Light card game (think a [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) or [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20) type) | $15 | 40 | 5 | 0.33 | about $0.23 |
+| Light card game (think a [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) or [Love Letter](https://www.amazon.com/dp/B07PHHBWM9?tag=cubecommonw0a-20) type) | $15 | 40 | 5 | 0.33 | about $0.23 |
 | Mid-weight strategy game (think a [Ticket to Ride](https://link.amazon/B0jh8RB7f) or [Azul](https://link.amazon/B0bGRYHex) type) | $40 | 20 | 4 | 1 | $0.50 |
 | Big hobby game (think a [Spirit Island](https://www.amazon.com/dp/B01MUHP51S?tag=cubecommonw0a-20) or [Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20) type) | $80 | 8 | 3 | 2.5 | about $1.33 |
 

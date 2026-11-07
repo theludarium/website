@@ -92,7 +92,7 @@ Codenames. It is cheap, fits in a small box, plays on any surface, handles a cro
 
 ### What are the cheapest good board games?
 
-At the time of writing, [Coup](https://www.indieboardsandcards.com/index.php/our-games/coup/) and [The Crew](https://icv2.com/articles/news/view/44948/blast-off-into-space-the-crew-the-quest-planet-nine) list at about $15, [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20) and [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) at about $16 to $17, and [Skull](https://www.amazon.com/dp/B08R2BPLSN?tag=cubecommonw0a-20) at about $21; No Thanks! sits in the same range. All are good enough to play for years.
+At the time of writing, [Coup](https://www.indieboardsandcards.com/index.php/our-games/coup/) and [The Crew](https://icv2.com/articles/news/view/44948/blast-off-into-space-the-crew-the-quest-planet-nine) list at about $15, [Love Letter](https://www.amazon.com/dp/B07PHHBWM9?tag=cubecommonw0a-20) and [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) at about $16 to $17, and [Skull](https://www.amazon.com/dp/B08R2BPLSN?tag=cubecommonw0a-20) at about $21; No Thanks! sits in the same range. All are good enough to play for years.
 
 ### Are there board games that don't need a table?
 

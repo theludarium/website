@@ -73,7 +73,7 @@ Each pick lists its player count and roughly how long one game takes. We chose g
 
 #### 8. Love Letter (2 to 6 players, 20 minutes)
 
-[Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20) is a tiny card game of guessing and bluffing with just 21 cards. Each turn you draw one and play one, trying to be the last player in the round or to hold the highest card. Rounds take a few minutes, so it fits at the start or end of any night.
+[Love Letter](https://www.amazon.com/dp/B07PHHBWM9?tag=cubecommonw0a-20) is a tiny card game of guessing and bluffing with just 21 cards. Each turn you draw one and play one, trying to be the last player in the round or to hold the highest card. Rounds take a few minutes, so it fits at the start or end of any night.
 
 ### Light strategy games
 

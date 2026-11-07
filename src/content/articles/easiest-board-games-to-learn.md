@@ -27,7 +27,7 @@ Compare that to the usual approach: ten minutes of rules, every exception covere
 | [No Thanks!](https://www.amazon.com/dp/B013FAC4FK?tag=cubecommonw0a-20) | 3 to 7 | 15 min | Take the card or pay a chip |
 | [Kingdomino](https://link.amazon/B08l49zvA) | 2 to 4 | 15 to 20 min | Place dominoes to build a kingdom |
 | [Skull](https://www.amazon.com/dp/B08R2BPLSN?tag=cubecommonw0a-20) | 3 to 6 | 15 to 30 min | Stack coasters, bid on flowers, avoid skulls |
-| [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20) | 2 to 4 | 15 min | Draw one, play one, last one standing wins |
+| [Love Letter](https://www.amazon.com/dp/B07PHHBWM9?tag=cubecommonw0a-20) | 2 to 4 | 15 min | Draw one, play one, last one standing wins |
 | [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20) | 3 to 7 | 20 min | Write one clue, matching clues vanish |
 | [Cascadia](https://link.amazon/B0g1HYFt4) | 1 to 4 | 30 to 45 min | Take a tile and an animal, place both |
 | [Azul](https://link.amazon/B0bGRYHex) | 2 to 4 | 30 to 45 min | Take all of one color, fill a row |

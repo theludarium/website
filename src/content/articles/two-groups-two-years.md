@@ -37,7 +37,7 @@ The Maples play [Catan](https://link.amazon/B0h8BDGR2) at the first game night a
 | Maple 1 | Catan, Codenames, [Pandemic](https://link.amazon/B0eHP5GCg), [Ticket to Ride](https://link.amazon/B0jh8RB7f), [Azul](https://link.amazon/B0bGRYHex) |
 | Maple 2 | Catan, Codenames, [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), Azul, [Splendor](https://link.amazon/B0fEvY6Wg) |
 | Maple 3 | Catan, Pandemic, Ticket to Ride, Wingspan, [Carcassonne](https://link.amazon/B012Rr5ed) |
-| Maple 4 | Codenames, Azul, Splendor, [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20) |
+| Maple 4 | Codenames, Azul, Splendor, [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), [Love Letter](https://www.amazon.com/dp/B07PHHBWM9?tag=cubecommonw0a-20) |
 
 Twenty purchases. Count the distinct titles: Catan, Codenames, Pandemic, Ticket to Ride, Azul, Wingspan, Splendor, Carcassonne, Sushi Go!, Love Letter. Ten games. Ten duplicate copies.
 

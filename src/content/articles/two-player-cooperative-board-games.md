@@ -85,7 +85,7 @@ An escape-room-in-a-box series. One hour, one play, and entirely cooperative. No
 | [Horrified](https://www.amazon.com/dp/B07QQHTD4Q?tag=cubecommonw0a-20) | 45 min | Light-medium | Open | Theme lovers |
 | Pandemic Legacy | 45 min x 12 to 24 | Medium | Open | A shared project |
 | Jaws of the Lion | 90 min x 25 | Medium-heavy | Open | Tactical campaigns |
-| [Exit: The Game](https://www.amazon.com/dp/B01NAXV1G7?tag=cubecommonw0a-20) | 60 min | Light-medium | Open | Puzzle nights |
+| [Exit: The Game](https://www.amazon.com/dp/B06WP2G52Z?tag=cubecommonw0a-20) | 60 min | Light-medium | Open | Puzzle nights |
 
 Times are approximate, taken from the boxes and our own tables, and vary by edition and experience.
 

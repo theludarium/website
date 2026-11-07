@@ -56,7 +56,7 @@ Test result: passes only if missing the game means missing the play. If the grou
 
 ### Cheap fillers
 
-[Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20), [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20): games in the $12 to $20 range that fit in a coat pocket. Owning your own means it is in your bag at the café, on the trip, at the family dinner. The dollars at risk are small and the game shows up in more places.
+[Love Letter](https://www.amazon.com/dp/B07PHHBWM9?tag=cubecommonw0a-20), [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20): games in the $12 to $20 range that fit in a coat pocket. Owning your own means it is in your bag at the café, on the trip, at the family dinner. The dollars at risk are small and the game shows up in more places.
 
 Test result: usually passes on the strength of portability, but set a price ceiling. Fillers are cheap. A $45 game is not a filler, no matter how short it plays.
 

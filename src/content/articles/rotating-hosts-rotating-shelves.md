@@ -89,7 +89,7 @@ Here is what one eight-week stretch looks like for a four-person biweekly group 
 | Week 1 | Dana | Gateway and family | [Ticket to Ride](https://link.amazon/B0jh8RB7f), [Azul](https://link.amazon/B0bGRYHex) | Brings a filler, runs confirmations |
 | Week 3 | Marcus | Co-op | Pandemic, The Crew | Teaches The Crew, brings drinks |
 | Week 5 | Priya | Party (6+) | [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20), [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) | Orders the pizza |
-| Week 7 | Game store table (Jordan books) | Jordan's lane: two-player and card games | [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20), [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20), [Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20) | Books the table, teaches |
+| Week 7 | Game store table (Jordan books) | Jordan's lane: two-player and card games | [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20), [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20), [Love Letter](https://www.amazon.com/dp/B07PHHBWM9?tag=cubecommonw0a-20) | Books the table, teaches |
 
 Four sessions, four slices of the library, four different rooms, nobody hauling more than one box. Over a year, that rotation touches every game the group owns. Over two years, it tells you which lanes are thin and which games have earned a second look.
 

@@ -52,7 +52,7 @@ Two players is the most common table in the country and the most under-served by
 - **[Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20)**, a quilt-building puzzle for exactly two, with a 15-minute teach.
 - **[Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20)**, a quick trading duel that plays in about 20 minutes.
 - **[Hive](https://www.amazon.com/dp/B000EN5ZLW?tag=cubecommonw0a-20)**, an abstract with no board, portable enough for a coffee shop.
-- **[Love Letter](https://www.amazon.com/dp/B00AGJ4HC2?tag=cubecommonw0a-20)**, a tiny bluffing game that also stretches to four when company comes over.
+- **[Love Letter](https://www.amazon.com/dp/B07PHHBWM9?tag=cubecommonw0a-20)**, a tiny bluffing game that also stretches to four when company comes over.
 
 ### Families with kids
 
