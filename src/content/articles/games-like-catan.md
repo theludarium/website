@@ -189,4 +189,4 @@ The game is the reason. The people are the point.
 - [Lords of Waterdeep (Wikipedia, 2026)](https://en.wikipedia.org/wiki/Lords_of_Waterdeep)
 - [Concordia (PD-Verlag)](https://www.pd-verlag.de/concordia)
 - [Power Grid (Wikipedia, 2026)](https://en.wikipedia.org/wiki/Power_Grid)
-- [Brass: Birmingham (Roxley)](https://roxley.com/products/brass-birmingham)
+- [Brass: Birmingham (Wikipedia, 2026)](https://en.wikipedia.org/wiki/Brass:_Birmingham)
