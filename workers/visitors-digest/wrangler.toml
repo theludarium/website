@@ -1,0 +1,28 @@
+# Weekly visiting-companies digest. A small Worker with a cron trigger that
+# reads the same D1 database the site's middleware writes to and emails the
+# top companies to the site owner through the ludarium-notify Worker.
+#
+# Deploy:  npx wrangler deploy -c workers/visitors-digest/wrangler.toml
+# Preview: cd workers/visitors-digest && npm run dev, then open http://localhost:8787/
+name = "ludarium-visitors-digest"
+main = "src/index.ts"
+compatibility_date = "2026-08-01"
+# No public *.workers.dev URL: this Worker only runs on its schedule (and locally).
+workers_dev = false
+preview_urls = false
+
+# Cron triggers run in UTC. 12:00 UTC is 7am Eastern in winter and 8am in summer.
+[triggers]
+crons = ["0 12 * * 1"]
+
+# The site's one database (the same binding the Pages project uses).
+[[d1_databases]]
+binding = "DB"
+database_name = "ludarium-site"
+database_id = "085f2cab-09e9-40f8-9f4d-6ea08e830cfa"
+
+# Email goes out through ludarium-notify (workers/notify/), which only
+# delivers to the owner's verified Email Routing address. No secrets needed here.
+[[services]]
+binding = "NOTIFY"
+service = "ludarium-notify"
