@@ -43,7 +43,7 @@ Power Up! makes the Monsters feel different from each other, which is the main t
 
 The [Halloween expansion](https://www.amazon.com/dp/B073WL9RL9?tag=cubecommonw0a-20) adds two Monsters, Pumpkin Jack and Boogie Woogie, with their own Evolution cards, plus Costume cards, a new kind of Power card.
 
-<!-- VERIFY: Halloween contents and how Costume cards work on IELLO's page or rulebook; the page did not load during research and these details come from retailer listings and an encyclopedia entry. -->
+Each player starts with a Costume card, and you can steal Costumes from Monsters you hit hard enough by paying their cost.
 
 ## Monster Packs and single Monsters
 
@@ -51,17 +51,14 @@ Each Monster Pack adds one Monster with its own twist, and each works with both 
 
 - **[Cthulhu](https://www.amazon.com/dp/B01MT7TRXI?tag=cubecommonw0a-20)** (2017), the first pack.
 - **[King Kong](https://www.amazon.com/dp/B073WN3JK6?tag=cubecommonw0a-20)** (2017), which adds a Tokyo Tower for King of Tokyo.
-- **Anubis** and **[Cybertooth](https://www.amazon.com/dp/B07VJS8DVX?tag=cubecommonw0a-20)**, the third and fourth packs.
-
-<!-- VERIFY: IELLO product pages for the Anubis and Cybertooth Monster Packs, and a one-line description of each twist. -->
+- **Anubis**, the third pack, which adds Curse cards and a die of fate that brings each Curse's blessing or its harm.
+- **[Cybertooth](https://www.amazon.com/dp/B07VJS8DVX?tag=cubecommonw0a-20)**, the fourth pack, which adds a Berserk mode: a big attack roll sends you Berserk and adds a Berserk die to your rolls until you heal.
 
 **[Baby Gigazaur](https://www.amazon.com/dp/B0BZD11KCY?tag=cubecommonw0a-20)** (2023) is a single new Monster that also works with King of New York and King of Monster Island.
 
 ## The Monster Box
 
 If you know you want more than the base game, the [Monster Box](https://www.amazon.com/dp/B09FY921Z8?tag=cubecommonw0a-20) (December 2021) collects the base game with Power Up! and Halloween, plus Baby Gigazaur, some exclusive Power cards, and a dice tray.
-
-<!-- VERIFY: Monster Box contents on IELLO's page; it did not load during research. -->
 
 ## Standalone games in the family
 
@@ -73,8 +70,6 @@ None of these needs the base game.
 - **[King of Tokyo: Origins](https://www.amazon.com/dp/B0D8BY8BRB?tag=cubecommonw0a-20)** (2024) is a smaller, streamlined version for 2 to 4 players, with four new Monsters.
 - **[King of Monster Island](https://www.amazon.com/dp/B0B5DKMMW2?tag=cubecommonw0a-20)** (2022) is cooperative: the Monsters team up against a boss.
 - **[King of Tokyo Godzilla](https://www.amazon.com/dp/B0GTBGMYS3?tag=cubecommonw0a-20)** (listed by IELLO for spring 2026) brings Toho's kaiju in, adds Event cards that affect every Monster, and includes Evolution cards.
-
-<!-- VERIFY: IELLO product page URL for King of Tokyo: Duel, and the Origins player count and contents on IELLO's own product page. -->
 
 ## How to choose
 

@@ -13,7 +13,7 @@ nextTeaser: "Last, a practice plan: how to train your two-player game over the w
 ---
 The rules of Carcassonne do not change at a tournament. The procedures around them do. A clock runs. Tiles cannot be taken back. Your meeples sit where your opponent can see them. And at most events, you cannot write anything down.
 
-This lesson walks through the [World Championship tournament rules](https://carcassonne-meisterschaft.de/en/tournamentrules.htm), the procedures for the final itself, then the main differences at the World Boardgaming Championships. Always read the rules for your own event; organizers can and do vary them. <!-- VERIFY: check the current US National Carcassonne Championship rules on its Board Game Arena group for its timer and format, and add a line on how they differ. -->
+This lesson walks through the [World Championship tournament rules](https://carcassonne-meisterschaft.de/en/tournamentrules.htm), the procedures for the final itself, then the main differences at the World Boardgaming Championships. Always read the rules for your own event; organizers can and do vary them.
 
 ## The game itself
 

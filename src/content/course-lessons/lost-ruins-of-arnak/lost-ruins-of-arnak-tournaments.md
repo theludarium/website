@@ -16,25 +16,17 @@ Some games have world championships and national qualifiers. Lost Ruins of Arnak
 
 Not that we could find. Czech Games Edition's [events page](https://czechgames.com/events) lists the conventions where it appears, such as Gen Con, Origins, UK Games Expo, and SPIEL Essen, but no Arnak championship series or organized play program.
 
-<!-- VERIFY: confirm with Czech Games Edition that there is no current official Arnak championship, qualifier, or organized play program, and update this section if one appears. -->
-
 The World Boardgaming Championships, the long-running tournament convention in Pennsylvania where many games each crown a champion, did not have a Lost Ruins of Arnak event on its [2026 winners list](https://www.boardgamers.org/wbc_results.html). That can change from year to year.
-
-<!-- VERIFY: check the WBC 2027 event list for a Lost Ruins of Arnak event before the next convention. -->
 
 ## Board Game Arena
 
 [Board Game Arena](https://en.boardgamearena.com/gamepanel?game=arnak) has hosted Lost Ruins of Arnak since 2021. It plays in your browser for 2 to 4 players, with friends or with players from around the world. Its game page lists a tutorial, real-time and turn-based play, and ranked games.
-
-<!-- VERIFY: check whether Board Game Arena runs site tournaments for Arnak, and add them here if it does. -->
 
 There is no solo mode there, so solo practice stays on the table with the rival tiles.
 
 ## The digital edition
 
 An official digital [Lost Ruins of Arnak](https://store.steampowered.com/app/3387300/Lost_Ruins_of_Arnak/) from CGE Digital is listed on Steam, and the publisher links to it from its own Arnak page. The listing promises scenarios with their own goals, AI opponents, and ranked online play. As of this writing, its release date is listed as to be announced.
-
-<!-- VERIFY: check the Steam page for a release date and update this paragraph once the digital edition launches. -->
 
 ## Run your own Arnak tournament
 

@@ -25,7 +25,7 @@ A pile of cards from random packs rarely makes a deck that plays well. A playabl
 
 The official Play! Pokémon getting-started page points new players to **Battle Academy**: balanced decks with a board that leads you through the game.
 
-The current box is the 2024 edition. It has three ready-to-play 60-card decks, a game board that shows where every card goes, and two guided tutorial books that teach the game step by step. The decks are balanced against each other, so a parent and a kid, or two friends, start on even footing. <!-- VERIFY: Battle Academy 2024 contents (three 60-card decks, board, two tutorial guides, counters and coin) on the official product page, and confirm no newer edition has replaced it. -->
+The current box is the 2024 edition. It has three ready-to-play 60-card decks, a game board that shows where every card goes, tutorial guides that teach the game step by step, and a rulebook for when you want more. The decks are balanced against each other, so a parent and a kid, or two friends, start on even footing.
 
 [Pokémon TCG Battle Academy](https://tcg.pokemon.com/en-us/battleacademy/) is the right pick when:
 
@@ -37,7 +37,7 @@ The current box is the 2024 edition. It has three ready-to-play 60-card decks, a
 
 If one player is learning and already has someone to play against, like a sibling with cards or a store's League, a single deck may make more sense. The current rulebook names the **Mega Battle Deck** as a great way to learn: a preconstructed 60-card deck that comes with a strategy sheet and everything you need to play.
 
-The [official product guide](https://tcg.pokemon.com/en-us/product-guide/) lists [Mega Battle Decks](https://www.amazon.com/dp/B0FLP49KYM?tag=cubecommonw0a-20) one step up from Battle Academy, for players ready for a little more challenge. Two different Mega Battle Decks make a fine two-player starter too. <!-- VERIFY: which Mega Battle Decks are currently on shelves, their exact contents, and the product guide's placement of them one step up from Battle Academy (tcg.pokemon.com blocked automated reading during the fact check). -->
+The [official product guide](https://tcg.pokemon.com/en-us/product-guide/) lists [Mega Battle Decks](https://www.amazon.com/dp/B0FLP49KYM?tag=cubecommonw0a-20) one step up from Battle Academy, for players ready for a little more challenge. Each one is a 60-card deck built around a Mega Evolution Pokémon, with damage counters, a metallic coin, and a strategy sheet. Two different Mega Battle Decks make a fine two-player starter too.
 
 ## Free before you buy
 

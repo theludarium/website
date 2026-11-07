@@ -13,9 +13,7 @@ nextTeaser: "Next, the player mats: how the four sections pair actions, why cost
 ---
 Welcome to Level 2. Each base faction in Scythe has one faction ability and four mech abilities. Every faction's first mech ability is a version of Riverwalk, and every faction's fourth is Speed. The two in the middle are what make each faction distinct. This lesson covers all five, with the abilities in our own words from the rulebook, and a plan for each built on well-known community advice.
 
-Starting power and combat cards differ by faction: the factions with more power start with fewer cards. Crimea starts with 5 power and no cards, Nordic 4 and 1, Rusviet 3 and 2, Polania 2 and 3, and Saxony 1 and 4. Your faction mat shows yours.
-
-<!-- VERIFY: starting power and combat cards per faction, from a fan guide; check against the faction mats. -->
+Starting power and combat cards also differ by faction. Your faction mat shows yours, so check both before your first move: together they shape how soon you can afford a fight.
 
 ## The shared mechs
 

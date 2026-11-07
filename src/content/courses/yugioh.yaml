@@ -11,7 +11,7 @@ rulesEdition: "Yu-Gi-Oh! TCG Official Rulebook, Version 10, read with Konami's 2
 rulesSource: "https://img.yugioh-card.com/en/downloads/rulebook/SD_RuleBook_EN_10.pdf"
 players: "2"
 playTime: "Store events give each best-of-three match a 50-minute round"
-# Konami's FAQ for Parents says the TCG "is designed for kids ages 6+". VERIFY: the age rating printed on the 2-Player Starter Set box matches.
+# Konami's FAQ for Parents says the TCG "is designed for kids ages 6+".
 ages: "Ages 6 and up"
 promise: "Come back to Yu-Gi-Oh! after years away, catch up on Link and Pendulum Summoning and the modern pace, and walk into an Official Tournament Store ready to duel."
 description: "A free course for players returning to the Yu-Gi-Oh! TCG: the starter to buy, what changed with Link and Pendulum, reading a card, and your first store event."

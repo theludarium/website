@@ -67,9 +67,7 @@ The Imperium Row refills the moment you buy, so after one purchase you may buy t
 
 **Rounds 4 to 7:** buy for your plan. Swords if you are fighting the Conflict II and III cards, Faction cards for the track you are climbing.
 
-**The last rounds:** buy for now. Acquire boxes, cards that score on acquire, and The Spice Must Flow. A big card that you will never draw is wasted Persuasion.
-
-<!-- VERIFY: The Spice Must Flow's Persuasion cost (believed to be 9); confirm on the card before adding the number. -->
+**The last rounds:** buy for now. Acquire boxes, cards that score on acquire, and The Spice Must Flow, at 9 Persuasion. A big card that you will never draw is wasted Persuasion.
 
 ## Denial buys
 

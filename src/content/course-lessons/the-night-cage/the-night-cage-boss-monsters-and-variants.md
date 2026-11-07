@@ -28,7 +28,7 @@ The Pathless is placed like any tile and is triggered just like a Wax Eater. Two
 - **Nothing stops its attack.** Walls, gaps between tiles, and Pits do not block it. Its attack reaches every space along the row and the column it sits in.
 - **It hits hard.** A hit from The Pathless discards 5 tiles from the Draw Stack, and this attack cannot be Blocked with Nerve.
 
-<!-- VERIFY: whether movement anywhere in The Pathless's row or column triggers it, or only movement along a connected line as with a Wax Eater (the rules say only that it "is triggered just like a Wax Eater") -->
+The rules do not say whether movement anywhere in that row or column sets it off, or only movement in its line of sight, as with a Wax Eater. Agree on a reading before you play.
 
 ### Playing around The Pathless
 

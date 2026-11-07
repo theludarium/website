@@ -15,8 +15,6 @@ Welcome to Level 4. You know the game well. Now you are learning the event aroun
 
 Everything here comes from the manual posted on Bandai's rules page in January 2026 (the document itself says last updated October 17, 2025). Event pages can set their own details, so read your event's page too.
 
-<!-- VERIFY: check the rules page for a newer Tournament Rules Manual before an event; this lesson follows the January 16, 2026 posting. -->
-
 ## The clock
 
 The manual's standard structure for qualifying rounds is **best of one, 30 minutes, plus 5 minutes of extra time**. Top cut matches are **best of three, 60 minutes, plus 10**. The final match (top 2) of a Championship event has no time limit. Online events use 35 minutes. Event pages can set their own clock, and Bandai's pages for Store Tournaments and Treasure Cups set best of one with **35 minutes plus 5**, as the [store tournament lesson](/academy/one-piece-card-game/one-piece-card-game-store-tournament/) mentions. When an event page and the manual differ, the event page tells you that event's clock, and the organizer announces the time per round before round one.

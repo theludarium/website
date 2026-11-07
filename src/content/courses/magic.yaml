@@ -11,7 +11,7 @@ rulesEdition: "Magic: The Gathering Comprehensive Rules, effective September 25,
 rulesSource: "https://magic.wizards.com/en/rules"
 players: "2 (Commander: 3 to 5, usually 4)"
 playTime: "About 20 minutes a game; Commander about 20 minutes per player"
-# VERIFY: the age rating printed on the Foundations Beginner Box, then add an ages line.
+ages: "Ages 13 and up"
 promise: "Pick the right first box, learn how a turn works, read any card, and walk into your first Magic Academy, Commander night, prerelease, and draft ready to play, then climb as far toward the Pro Tour as you like."
 description: "A free beginner's course for Magic: The Gathering: your first box, how a turn works, reading a card, store nights, Commander, prereleases, and your first draft."
 audience:

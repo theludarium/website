@@ -60,7 +60,7 @@ The [World Boardgaming Championships](https://www.boardgamers.org/) in Pennsylva
 
 The [2026 winners list](https://www.boardgamers.org/wbc_results.html) names Richard Miller as Ark Nova champion. The [2025 report](https://www.boardgamers.org/yearbook25/akn.html) counted 113 players, and Jonathan Naylor won.
 
-<!-- VERIFY: check the WBC 2027 event list for the Ark Nova event's dates and format before the next convention. -->
+WBC 2027 runs July 24 to August 1. Formats can change from year to year, so check the new Ark Nova preview once WBC posts it.
 
 ## The 2027 world championship
 
@@ -70,7 +70,7 @@ Feuerland Spiele has announced an [Ark Nova world championship](https://www.feue
 - **The Ark Nova Digital Championship Series,** with four monthly qualifiers: October 29 to November 1, November 12 to 15, and December 10 to 13, 2026, then January 14 to 17, 2027. The four qualifier winners meet in a streamed final, and its champion goes to Berlin.
 - **Board Game Arena,** where the best players of Season 27 (October 2026 to January 2027) from the Western and Eastern Hemispheres are invited.
 
-<!-- VERIFY: check the Feuerland championship page for qualifier results, the Board Game Arena seat details, and any format news for the Berlin final. -->
+The page does not yet say how the best Board Game Arena players will be measured. Check it for qualifier results and details as the season goes on.
 
 ## Expansions and maps
 

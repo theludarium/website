@@ -15,13 +15,13 @@ A **prerelease** is a store event held before a new set reaches shelves. You get
 
 ## The current one: Mega Evolution: Delta Reign
 
-The official Pokémon TCG site lists **Mega Evolution: Delta Reign** for **November 6, 2026**. Its expansion page says Build & Battle Boxes are available at Play! Pokémon store prerelease events starting **October 24, 2026**. <!-- VERIFY: the November 6 release date and October 24 prerelease start were read on tcg.pokemon.com by the writer; the fact check could not open it (it blocks automated reading). Play! Pokémon's news page does confirm Delta Reign Build & Battle Boxes come early at prerelease events. -->
+The official Pokémon TCG site lists **Mega Evolution: Delta Reign** for **November 6, 2026**. Its expansion page says Build & Battle Boxes are available at Play! Pokémon store prerelease events starting **October 24, 2026**.
 
-Prerelease events run at individual stores on their own schedules and with their own entry fees. Find them on the official [Event Locator](https://events.pokemon.com/EventLocator/?locale=en-us), then call or check the store to sign up. They can fill up. <!-- VERIFY: Delta Reign prerelease window end date, if Levi wants a specific range. -->
+Prerelease events run at individual stores on their own schedules and with their own entry fees. Find them on the official [Event Locator](https://events.pokemon.com/EventLocator/?locale=en-us), then call or check the store to sign up. They can fill up.
 
 ## What is in the box?
 
-The prerelease product is the **Build & Battle Box**. The official product guide describes its core as a smaller 40-card deck you can customize for quick games, and recent expansion pages list it as a 40-card deck plus 4 booster packs of the new set. <!-- VERIFY: Delta Reign Build & Battle Box contents, including any promo card and Basic Energy. -->
+The prerelease product is the **Build & Battle Box**. The official product guide describes its core as a smaller 40-card deck you can customize for quick games, and recent expansion pages list it as a 40-card deck plus 4 booster packs of the new set. The Delta Reign page shows four different promo cards for its Build & Battle Boxes. The organizer supplies the Basic Energy you need.
 
 So at the event you have two piles: a ready-to-play deck, and four packs of fresh cards.
 
@@ -29,7 +29,7 @@ So at the event you have two piles: a ready-to-play deck, and four packs of fres
 
 A prerelease uses **Limited** rules: you play with only the cards from your box, plus Basic Energy. The decks are 40 cards, not 60. The basic turn is the same game you learned in [how a turn works](/academy/pokemon-tcg/how-to-play-pokemon-tcg/).
 
-The Play! Pokémon Tournament Rules Handbook sets Limited games at **4 Prize cards** instead of 6, which keeps them quick, and it drops the usual limit of 4 copies of a card, unless a card's own text sets a limit. The organizer will confirm the details at the start. <!-- VERIFY: Limited rules (40 cards, 4 Prize cards, no copy limit) were read in the December 2024 Tournament Rules Handbook; confirm in the current Play! Pokémon TCG rules document. -->
+The Play! Pokémon TCG Tournament Handbook sets Limited games at **4 Prize cards** instead of 6, which keeps them quick, and it drops the usual limit of 4 copies of a card, unless a card's own text sets a limit. The organizer will confirm the details at the start.
 
 ## Building your deck in under half an hour
 

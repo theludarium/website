@@ -21,9 +21,7 @@ Before choosing anything, check the format. The Tournament Rules define **Standa
 - Origins, Spiritforged, Unleashed, Vendetta,
 - and Radiance, released October 23, 2026.
 
-Riot also keeps a banned list on the [rules hub](https://playriftbound.com/en-us/rules-hub/), and Riot has said older sets will start rotating out of Standard no earlier than 2028. <!-- VERIFY: Riot's own post on the first Standard rotation and which sets leave. --> Legacy releases January 29, 2027, and new sets change the field quickly.
-
-<!-- VERIFY: when Legacy becomes legal in Standard for competitive events, and whether the February 2027 Regionals use Standard with Legacy included. -->
+Riot also keeps a banned list on the [rules hub](https://playriftbound.com/en-us/rules-hub/), which says Riot intends to start rotating older sets out of Standard in 2028. Legacy releases January 29, 2027, and new sets change the field quickly. Before a big event, check the event page for which sets are legal.
 
 ## Learn your local field
 
@@ -33,8 +31,6 @@ Big-event decklists tell you what strong players are building, but your store ha
 - **Ask.** Players at store nights love to talk about their decks. Ask what people are testing for the next event.
 - **Watch the top tables.** After your match, spend a minute watching the players at the top of the standings.
 - **Follow big events.** Riot's [organized play news](https://playriftbound.com/en-us/news/) covers premier events, and results from them shape what stores play a few weeks later.
-
-<!-- VERIFY: whether Riot or its event platform publishes top decklists from Regionals and Continentals, and link the page if so. -->
 
 ## Sort the field into plans
 

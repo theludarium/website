@@ -37,7 +37,7 @@ WBC drafts everything:
 - **Preludes:** dealt with the first 5 cards, then drafted keep 1 and pass until each player has 4. Then choose 2.
 - **Each generation from generation 2:** deal 4 and draft, keep 1 per pass.
 
-The 2026 preview is not consistent about which way the generation draft passes in odd and even generations. It is the kind of detail to confirm with the GM at the start of play. <!-- VERIFY: check the next WBC Terraforming Mars preview for the generation draft direction. -->
+The 2026 preview is not consistent about which way the generation draft passes in odd and even generations. It is the kind of detail to confirm with the GM at the start of play, and to check again in each year's new preview.
 
 ## Announce, show, then act
 

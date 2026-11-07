@@ -18,9 +18,7 @@ You can learn Kingdomino in fifteen minutes and keep finding new depth in it for
 
 Online play is the fastest way to build the habits from this course. You see dozens of drafts in an evening, and lesson 4's pricing and lesson 6's counting start to feel automatic. Try one focus per session: one evening for counting the rich dominoes, another for reading rivals' kingdoms.
 
-Blue Orange also lists a digital version of Kingdomino, separate from Board Game Arena.
-
-<!-- VERIFY: the current official Kingdomino app or video game (platforms and publisher) before naming it. -->
+There is also an official digital version, Kingdomino: The Board Game, made by Meeple Corp with Blue Orange. It came to iOS and Android in June 2025 and to Steam for Windows and Mac in November 2025.
 
 ## Official championships
 
@@ -30,13 +28,9 @@ Blue Orange has run official Kingdomino events in several forms:
 - **Online championships on Board Game Arena in 2023.** Blue Orange [ran zone tournaments](https://blog.blueorangegames.com/become-the-kingdomino-world-champion/) for the USA, Canada, Australia, and New Zealand. Zone winners were invited to a world championship on Board Game Arena on March 26, 2023, organized by Blue Orange Europe.
 - **A national championship in France,** run as a series of regional tournaments.
 
-These events come and go. Check the [Blue Orange blog](https://blog.blueorangegames.com/tag/kingdomino/) for current news before you plan around one.
+These events come and go. Check the [Blue Orange blog](https://blog.blueorangegames.com/tag/kingdomino/) for current news before you plan around one. As of November 2026, it lists no newer championship.
 
-<!-- VERIFY: whether Blue Orange has announced a 2026 or 2027 Kingdomino championship, online or in person. -->
-
-The Mind Sports Olympiad, a long-running games festival in the UK, has also listed Kingdomino among its events, played as two-player Mighty Duel games.
-
-<!-- VERIFY: the Mind Sports Olympiad Kingdomino event's current dates and format (two players per table, number of rounds, time per player). -->
+The Mind Sports Olympiad, a long-running games festival in London, has also included Kingdomino among its events. Check its schedule each year for dates and format.
 
 ## Find a public game night
 

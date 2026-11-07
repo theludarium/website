@@ -11,7 +11,7 @@ oneIdea: "In every multiplayer mode, only two players can fight at one battlefie
 tryThis: "Next time you have three or four players, play one free-for-all game and track who held which battlefield each round. Notice how often the leader was the player nobody was fighting."
 nextTeaser: "Next, Pre-Rift survival: opening a sealed kit at a new set's first event and building a deck from it in under an hour."
 ---
-Riftbound is not only a duel. The Core Rules list sanctioned modes for three and four players, and the store sets the format for its Nexus Nights, so ask yours about multiplayer nights. <!-- VERIFY: whether Riot's organized play materials name 2v2 or free-for-all as Nexus Night formats. --> Multiplayer games are some of the most social Riftbound you can play, and they ask for skills a duel never tests.
+Riftbound is not only a duel. The Core Rules list sanctioned modes for three and four players, and the store sets the format for its Nexus Nights, so ask yours about multiplayer nights. Multiplayer games are some of the most social Riftbound you can play, and they ask for skills a duel never tests.
 
 ## The modes at a glance
 

@@ -37,7 +37,7 @@ For the first game, a randomly chosen player decides who goes first. In playoffs
 
 Which should you pick? In its October 15, 2026 post on testing start-of-game rules, Riot said that going first currently wins more often than it would like, and it is testing changes aimed at a closer split. So under today's rules, going first is the sensible default. Consider going second only if your deck badly wants the extra rune on turn one, and test that choice in practice before relying on it.
 
-<!-- VERIFY: the outcome of Riot's start-of-game test, due with the Legacy patch notes, and update this section if turn order or the going-second bonus changes. -->
+Riot plans to announce the result of that test with the Legacy patch notes, so check them when they post.
 
 ## Sideboarding, by the rules
 

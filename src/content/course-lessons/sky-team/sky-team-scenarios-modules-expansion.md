@@ -62,15 +62,11 @@ The difficulty colors are a ladder, so use them that way. Fly every Routine Land
 
 ## Free scenarios from the publisher
 
-Le Scorpion Masqué's [Sky Team downloads page](https://www.scorpionmasque.com/Skyteam/?lang=en) offers Ready to Play scenarios that revisit airports in the box with new mixes, such as a winter return to Montreal with an Intern and icy brakes, and a London approach that starts at 5,000 feet. The same page has a Print and Play file. The publisher's [Sky Team page](https://www.scorpionmasque.com/en/sky-team) also lists a rebalancing for the Haneda track.
-
-<!-- VERIFY: what the Print and Play file contains, and what the Haneda (HND) rebalancing changes, before describing either in more detail. -->
+Le Scorpion Masqué's [Sky Team downloads page](https://www.scorpionmasque.com/Skyteam/?lang=en) offers Ready to Play scenarios that revisit airports in the box with new mixes, such as a winter return to Montreal with an Intern and icy brakes, and a London approach that starts at 5,000 feet. The same page has a Print and Play file of promotional airports to print and fly with your base game, including Bologna, Budapest, Lajes in the Azores, Paris Charles de Gaulle, Düsseldorf, and New York LaGuardia. The publisher's [Sky Team page](https://www.scorpionmasque.com/en/sky-team) also links a rebalancing for the Haneda track.
 
 ## The Turbulence expansion
 
-The first expansion, sold as [Sky Team: Turbulence](https://www.amazon.com/dp/B0DMKYVW45?tag=cubecommonw0a-20) (the publisher's page also calls it Alarms and Turbulences), adds 20 harder scenarios and new modules including Turbulence, Low Visibility, and Alarms. Its destinations include Beijing, Madrid, Warsaw, Sydney, Cape Town, Kyiv, and Saint Martin. The box has 10 new Approach Tracks, 2 Altitude Tracks, an Alarm board, and a handful of new tokens. It needs the base game, and its contents fit in the base box.
-
-<!-- VERIFY: the expansion's English retail name; the publisher's page uses both "Alarms and Turbulences" and "Turbulence", and retailers list "Sky Team: Turbulence". -->
+The first expansion, sold as [Sky Team: Turbulence](https://www.amazon.com/dp/B0DMKYVW45?tag=cubecommonw0a-20), adds 20 harder scenarios and new modules including Turbulence, Low Visibility, and Alarms. Its destinations include Beijing, Madrid, Warsaw, Sydney, Cape Town, Kyiv, and Saint Martin. The box has 10 new Approach Tracks, 2 Altitude Tracks, an Alarm board, and a handful of new tokens. It needs the base game, and its contents fit in the base box.
 
 Wait to buy it until the Flight Log's harder colors feel within reach. Its scenarios assume you know the base modules well.
 

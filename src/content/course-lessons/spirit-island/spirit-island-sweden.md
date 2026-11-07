@@ -25,16 +25,16 @@ Swayed by the Invaders can turn your allies into a building in one step. A land 
 
 Every level includes the ones below it. Difficulty comes from the core rulebook's chart; the rest from the adversary panel.
 
-| Level | Name | Difficulty | Fear Cards | What changes |
-| --- | --- | --- | --- | --- |
-| 1 | Heavy Mining | 2 | 3/3/3 | A Ravage dealing 6 or more Damage to the land adds an extra Blight. |
-| 2 | Population Pressure at Home | 3 | 3/4/3 | During setup, add 1 City to land 4 on each board. |
-| 3 | Fine Steel for Tools and Guns | 5 | 3/4/3 | Towns deal 3 Damage. Cities deal 5. |
-| 4 | Royal Backing | 6 | 3/4/4 | After setup, Accelerate the Invader Deck and add Towns. |
-| 5 | Mining Rush | 7 | 4/4/4 | A Ravage that adds Blight also adds a Town nearby. |
-| 6 | Prospecting Outpost | 8 | 4/4/5 | During setup, add 1 Town and 1 Blight to land 8 on each board. |
+| Level | Name | Difficulty | What changes |
+| --- | --- | --- | --- |
+| 1 | Heavy Mining | 2 | A Ravage dealing 6 or more Damage to the land adds an extra Blight. |
+| 2 | Population Pressure at Home | 3 | During setup, add 1 City to land 4 on each board. |
+| 3 | Fine Steel for Tools and Guns | 5 | Towns deal 3 Damage. Cities deal 5. |
+| 4 | Royal Backing | 6 | After setup, Accelerate the Invader Deck and add Towns. |
+| 5 | Mining Rush | 7 | A Ravage that adds Blight also adds a Town nearby. |
+| 6 | Prospecting Outpost | 8 | During setup, add 1 Town and 1 Blight to land 8 on each board. |
 
-<!-- VERIFY: check the level names, rules, and Fear Card splits against the physical Sweden panel; they come from a community transcription. The Difficulty numbers match the core rulebook's chart. -->
+Each level on the panel also sets how many Fear Cards to use and how to split them into the three groups, so read that off the panel during setup.
 
 ## The rules in play
 

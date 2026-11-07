@@ -11,7 +11,7 @@ oneIdea: "The base box already holds three ways to change the game: player count
 tryThis: "Play your next game on the Snake Temple side, or try a solo game against the rival at difficulty 2, before you decide whether you need an expansion."
 nextTeaser: "Next, the hardest opponent in the box: how the solo rival plays, and how to beat it with all five red tiles."
 ---
-Lost Ruins of Arnak plays 1 to 4 players, and the base box includes a solo mode against a rival expedition. The expansions keep that range; The Missing Expedition adds a campaign for one player or two working together. <!-- VERIFY: confirm on the CGE pages that Expedition Leaders and Twisted Paths list 1 to 4 players. -->
+Lost Ruins of Arnak plays 1 to 4 players, and the base box includes a solo mode against a rival expedition. The expansions keep that range; The Missing Expedition adds a campaign for one player or two working together.
 
 Welcome to Level 4. You have the core game down, so this level is about the hardest challenges Arnak offers. It starts with what changes it: player count, board side, the solo rival in the base box, and the expansions. Before you shop for expansions, it is worth knowing what you already own. For a general way to think about add-ons, our guide to [when expansions are worth it](/articles/expansions-worth-it/) has a simple test.
 
@@ -71,7 +71,7 @@ It is the pick for solo players and couples who want a story, more than for a re
 
 The [Adventure Chest](https://czechgames.com/games/lost-ruins-of-arnak-adventure-chest) is a limited-edition storage box with an insert that fits all the Arnak content released before it, and it includes Twisted Paths. It does not include the base game or the earlier expansions.
 
-<!-- VERIFY: Twisted Paths was listed as "available now in the EU store, coming soon to the US store," and the Adventure Chest page pointed to a reprint sign-up. The upgraded components were listed as coming soon in the US store. Check current availability before this lesson goes out. -->
+Stock of Twisted Paths and the Adventure Chest has differed between CGE's US and EU stores, so check the store for your region before you plan a purchase.
 
 ## Upgrades
 

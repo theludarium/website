@@ -56,8 +56,6 @@ Officials at Lorcana events are Lore Guides, and the Lead Lore Guide has the fin
 
 The Play Correction Guidelines list corrective actions from a caution and a warning up to a game loss, match loss, or disqualification. A missed trigger, for example, usually earns only a caution, though at Competitive events it becomes a warning when the missed effect would have hurt the player who missed it. At Competitive events, most other rules errors earn a warning, and a third warning for the same kind of rules error in one tournament becomes a game loss.
 
-<!-- VERIFY: the Play Correction Guidelines on the resources page are dated May 21, 2024. Check for a newer version before the next Set Championship season and update the penalty examples if they change. -->
-
 ## Conduct
 
 The rules forbid wagering on matches, collusion, harassment, and unsporting behavior. You may not offer anything in exchange for a concession or a draw, and you may not ask an opponent to concede.

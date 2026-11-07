@@ -14,9 +14,7 @@ You can learn Sushi Go! in five minutes and keep finding new things in it for ye
 
 ## Play online
 
-[Board Game Arena](https://boardgamearena.com/gamepanel?game=sushigo) has Sushi Go! in your browser, and it also has [Sushi Go Party!](https://boardgamearena.com/gamepanel?game=sushigoparty).
-
-<!-- VERIFY: the player range for each game on Board Game Arena, and whether either has ranked play. -->
+[Board Game Arena](https://boardgamearena.com/gamepanel?game=sushigo) has Sushi Go! in your browser for 2 to 5 players, and it also has [Sushi Go Party!](https://boardgamearena.com/gamepanel?game=sushigoparty) for 2 to 8.
 
 Online play is the fastest way to practice the skills from Levels 2 and 3. The game handles the scoring, so your attention goes to the picks. Try these drills:
 
@@ -27,8 +25,6 @@ Online play is the fastest way to practice the skills from Levels 2 and 3. The g
 ## Official organized play
 
 Gamewright does not list an official Sushi Go! tournament series or organized-play program on its site, and Sushi Go! has no event at the World Boardgaming Championships as of this writing.
-
-<!-- VERIFY: check gamewright.com and the WBC event list again for any official Sushi Go! tournament before publishing. -->
 
 That is fine. A light game like this lives at home tables, in classrooms, and at public game nights more than in tournament halls.
 

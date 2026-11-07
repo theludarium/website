@@ -4,9 +4,8 @@ format: masterclass
 order: 335
 wave: "6"
 draft: false
-publisher: "Leder Games"
-notice: "Unofficial. Not affiliated with or authorized by Leder Games or Buried Giant Studios. Arcs is a trademark of its owner."
-# VERIFY: Arcs moved to Buried Giant Studios when Cole Wehrle and Kyle Ferrin left Leder Games; confirm the current publisher and trademark owner for the notice and publisher fields.
+publisher: "Buried Giant Studios (first published by Leder Games)"
+notice: "Unofficial. Not affiliated with or authorized by Buried Giant Studios or Leder Games. Arcs is a trademark of its owner."
 rulesEdition: "Arcs rulebook dated April 11, 2024 (Leder Games), plus the Blighted Reach campaign rules for campaign play"
 rulesSource: "https://ledergames.com/pages/how-to-play-arcs"
 players: "2 to 4"

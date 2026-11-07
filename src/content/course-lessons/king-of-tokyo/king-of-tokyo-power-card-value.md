@@ -29,7 +29,7 @@ A card has to return more than that over the rest of the game to be worth it. En
 
 ## Discard cards: a fixed return
 
-A Discard card's value is easy to count because it happens once. Death from Above costs 5 Energy and gives 2 points plus Tokyo, according to the [rulebook](https://iellogames.com/wp-content/uploads/2021/10/KOT_Rules_EN_11-2023_Light.pdf). <!-- VERIFY: whether taking Tokyo with Death from Above also scores the usual 1 point for entering Tokyo. --> On our price table, 5 Energy is about 3.5 points, so the 2 points alone are a poor trade. The card earns its cost only when taking Tokyo is worth something extra: a seat you would hold for the next turn's 2 points, or a Monster you need to push out. Late in the game, when the points end it, the price stops mattering at all.
+A Discard card's value is easy to count because it happens once. Death from Above costs 5 Energy and gives 2 points plus Tokyo, according to the [rulebook](https://iellogames.com/wp-content/uploads/2021/10/KOT_Rules_EN_11-2023_Light.pdf). The rulebook does not say whether taking Tokyo this way also earns the usual 1 point for entering, so settle that with your table before you play. On our price table, 5 Energy is about 3.5 points, so the 2 points alone are a poor trade. The card earns its cost only when taking Tokyo is worth something extra: a seat you would hold for the next turn's 2 points, or a Monster you need to push out. Late in the game, when the points end it, the price stops mattering at all.
 
 ## Keep cards: count the turns
 

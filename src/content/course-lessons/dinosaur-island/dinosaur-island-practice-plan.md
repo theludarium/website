@@ -12,8 +12,6 @@ tryThis: "Start a score log tonight with five columns: final score, VPs lost to 
 ---
 Dinosaur Island has no tournament circuit. We could not find an official organized play program or a regular championship event for it, so this course's top level is about the hardest challenges instead: the solo game, the expansion, and high scores at every player count. This last lesson pulls the course together into a plan you can follow for your next ten games.
 
-<!-- VERIFY: recheck for any official Dinosaur Island tournament, convention event, or Pandasaurus organized play before publishing; none was found on 2026-10-25. -->
-
 ## Why measure
 
 Final scores alone are hard to learn from. They depend on the objectives, the plot twists, and the player count. The numbers that show what to fix are the leaks: points you could have kept.

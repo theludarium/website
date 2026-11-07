@@ -26,7 +26,7 @@ Farmers are scored the same way as in your home rules: for each field, the playe
 
 ## The Carcassonne World Championship
 
-The world championship final is held each autumn at the Spielezentrum in Herne, Germany. Its [official site](https://carcassonne-meisterschaft.de/en/tournament.htm) shows Hans im Glück among its partners. The 2025 final, the 19th, drew 52 players from 45 countries and was won by Xiangyu Qin of China. The 2026 final, the 20th, was held on Saturday, October 24, 2026, at the same venue.
+The world championship final is held each autumn at the Spielezentrum in Herne, Germany. Its [official site](https://carcassonne-meisterschaft.de/en/tournament.htm) shows Hans im Glück among its partners. The 2025 final, the 19th, drew 52 players from 45 countries and was won by Xiangyu Qin of China. The 2026 final, the 20th, was held on Saturday, October 24, 2026, at the same venue. Check its [Final 2026 page](https://carcassonne-meisterschaft.de/en/final-2026.htm) for results.
 
 The format, from the [tournament rules](https://carcassonne-meisterschaft.de/en/tournamentrules.htm):
 
@@ -35,8 +35,6 @@ The format, from the [tournament rules](https://carcassonne-meisterschaft.de/en/
 - Ties in the standings are broken by the strength of the opponents you faced.
 
 Spots in the final go to the reigning world champion, the national champion of each participating country, and the winners of several recognized online events.
-
-<!-- VERIFY: results of the 2026 final (held October 24, 2026), and update the paragraph above once they are posted. -->
 
 ## National championships
 
@@ -55,7 +53,7 @@ The WBC Carcassonne event has used a heats format. In 2025 there were three heat
 
 For 2026 the event changed shape. The [2026 event preview](https://www.boardgamers.org/wbc26/Previews/car.html) lists two-player games only, single elimination over six rounds, a semifinal, and a final, still with one-hour rounds and still marked as welcoming to beginners. That makes it much closer to the world championship format.
 
-<!-- VERIFY: check the WBC 2027 event list for the Carcassonne event's dates and format before the next convention. -->
+The format has changed from one year to the next, so read the current WBC Carcassonne preview before you go.
 
 ## Online play
 

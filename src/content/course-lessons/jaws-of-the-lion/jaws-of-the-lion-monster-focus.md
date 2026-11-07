@@ -26,7 +26,7 @@ Some details that settle most arguments:
 - **It does not need to arrive this turn.** If a path exists at all, even a long one, the monster focuses on that character (p. 11).
 - **Traps count as obstacles.** Unless a trap is the only way to reach anyone, the monster plans around traps. If it must cross them, it picks the path through the fewest (p. 17).
 - **Difficult terrain costs 2** when counting, just as it does for movement (p. 20).
-- **Ties.** If two characters take the same movement, the guide breaks the tie by initiative order: the one who acts earlier is the focus (p. 11). The full Gloomhaven rules add a step first: the character closer in range wins the tie, and only then does initiative decide. If your group moves on to Gloomhaven, play it that way. <!-- VERIFY: no official Rules Glossary PDF is online; confirm in the printed glossary whether proximity is checked before initiative, as in original Gloomhaven. -->
+- **Ties.** If two characters take the same movement, the guide breaks the tie by initiative order: the one who acts earlier is the focus (p. 11). The Rules Glossary says the same, with no extra step. The full Gloomhaven rules add a step first: the character closer in range wins the tie, and only then does initiative decide. If your group moves on to Gloomhaven, play it that way.
 - **No path, no focus.** If there is no hex the monster can reach to attack anyone, it does not move or attack (p. 11).
 
 ## Step 2: move

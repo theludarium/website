@@ -17,7 +17,7 @@ This lesson does not name today's top decks. They change with every list and eve
 
 ## Where to see what is winning
 
-- **Big event results.** Konami runs [event coverage](https://yugiohblog.konami.com/) for YCS weekends, with standings and updates. Top finishers' deck lists are often published after major events. <!-- VERIFY: whether Konami's YCS coverage currently publishes Top 8 deck lists, and where. -->
+- **Big event results.** Konami runs [event coverage](https://yugiohblog.konami.com/) for YCS weekends, with standings and updates. After each YCS, the same blog posts the Top 32 deck lists for the main events.
 - **Public deck recipes.** Konami's [card database](https://www.db.yugioh-card.com/yugiohdb/) lets players search publicly shared deck recipes, and you can search for decks that include any card from that card's page.
 - **Your own store.** For locals, this is the most useful source by far. Ten regulars playing the same few decks every week is a metagame of its own, and you can see it directly.
 

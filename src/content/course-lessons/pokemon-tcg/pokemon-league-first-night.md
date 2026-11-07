@@ -43,7 +43,7 @@ In Indianapolis, our guide to [family-friendly game cafes](/articles/family-frie
 
 ## Get a Player ID
 
-The official site says to make a **Play! Pokémon Player ID** a priority once you start attending League. It tracks your progress and you will need it to join local tournaments later. Your League can help you set one up, or you can do it yourself after an event. Parents of young players will set up the account. <!-- VERIFY: the current Player ID and parent account steps for children under 13. -->
+The official site says to make a **Play! Pokémon Player ID** a priority once you start attending League. It tracks your progress and you will need it to join local tournaments later. Your League can help you set one up, or you can do it yourself after an event. For a child under 13, a parent makes a Pokémon Trainer Central account, adds the child to it, and requests the Player ID from the child's profile.
 
 ## How a League night runs
 

@@ -42,8 +42,6 @@ Among the starters:
 
 Whatever you choose, use your Power Card draws to fill the gaps. A Spirit that destroys buildings should value a Minor that stops a Build. A defensive Spirit should value one that deals Damage.
 
-<!-- VERIFY: compare these solo notes with each starter's Play Style text on the back of its panel before publishing. -->
-
 ## Playing two Spirits
 
 Many solo players control two Spirits on a two-board Island. By the rules, that is simply a two-player game run by one person: two boards, 8 Fear markers, two Spirits, two hands. Our solo guide notes that one Spirit is a tight hour, while two make a full evening.

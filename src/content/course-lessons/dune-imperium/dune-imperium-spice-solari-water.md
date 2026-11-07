@@ -53,8 +53,6 @@ Most of the economy is converting one resource into another. Sell Melange is the
 | 4 | 10 | 2.5 |
 | 5 | 12 | 2.4 |
 
-<!-- VERIFY: the Sell Melange payouts (6, 8, 10, 12 Solari) are printed only on the board, not in the rulebook text; confirm on the board. -->
-
 Small sales are the most efficient per spice. Big sales get you the most in one Agent turn. Since Agent turns are scarcer than spice, selling 4 or 5 at once is often right, and 4 spice for 10 Solari pays for a Swordmaster with 2 to spare.
 
 Conspire is a different kind of trade. You give 4 spice and get 5 Solari, and also two troops, an Intrigue card, and a step on the Emperor track. That is half the Solari Sell Melange pays for the same 4 spice, but when you want the troops, the card, and the Influence, the extras are worth more than the difference.

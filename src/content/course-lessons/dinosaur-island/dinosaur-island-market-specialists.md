@@ -33,8 +33,6 @@ Two lab upgrades sit in their own stacks, always available until they run out:
 
 There are 4 of each, one per player in a 4 player game. These are among the most common early buys because they improve actions you use every round.
 
-<!-- VERIFY: the exact abilities printed on Dino Research II and DNA Refinement II tiles, before describing what each adds. -->
-
 ## Specialists: the worker supply
 
 The rulebook calls hiring specialists the primary way to gain more workers. Many come with a worker when hired, and most have an ongoing ability. You may have three at most. Hiring a fourth fires one, and you lose everything it gave you, extra workers included.

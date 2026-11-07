@@ -17,7 +17,7 @@ A constructed deck can use no more than two of the six inks. That rule shapes ev
 
 ## The six inks
 
-What follows are broad tendencies, the kind of thing you notice after looking through a few hundred cards. They are not rules, every ink has exceptions, and each new set shifts the picture a little. The card text always decides. <!-- VERIFY: compare these ink tendencies with Ravensburger's own ink descriptions (starter set boxes or the official site) and soften any that do not match. -->
+What follows are broad tendencies, the kind of thing you notice after looking through a few hundred cards. They are not rules, every ink has exceptions, and each new set shifts the picture a little. The card text always decides.
 
 **Amber.** Warm and supportive. You will often find songs and characters that sing them well, healing that removes damage, and characters that protect or help each other. Amber decks often like having many characters in play at once.
 

@@ -19,8 +19,6 @@ Set Championships are Core Constructed. Your deck must have at least 60 cards, n
 
 The July 2026 Tournament Rules list the rotation: with the release of Attack of the Vine!, Core allows Fabled and later sets, and the four sets before Fabled rotated out. New sets become legal in sanctioned constructed play on the day of their prerelease in hobby stores. The same rules list no banned cards in Core, and one banned card in Infinity.
 
-<!-- VERIFY: recheck the rotation and banned lists in the newest Tournament Rules before each Set Championship season; the July 14, 2026 version lists no Core bans. -->
-
 Rotation is also why timing matters. A new set changes the field the week it arrives. If your event falls soon after a prerelease, expect new cards and new decks.
 
 ## Step 2: read the field

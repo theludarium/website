@@ -14,8 +14,6 @@ The [tournaments lesson](/academy/cascadia/cascadia-tournaments/) covered where 
 
 The details below come from the [WBC 2026 Cascadia preview](https://www.boardgamers.org/wbc26/Previews/cas.html). Check the current year's preview before any event; formats change.
 
-<!-- VERIFY: recheck the WBC Cascadia preview for the next convention (format, round length, Hawk C rule, tiebreaks, and advancement) before relying on these details. -->
-
 ## Winners only changes everything
 
 The 2026 heats were played "Heats: Winners Only." Only the player who finishes first at a table advances from that heat. All heat winners go on to the quarterfinal, which takes the top 64 players who have won at least one game.

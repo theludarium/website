@@ -39,9 +39,7 @@ It is the right pick when:
 - You want to play at a kitchen table before you play at a store.
 - You want to know the modern turn before you spend money on singles.
 
-Konami lists it on the [2-Player Starter Set product page](https://www.yugioh-card.com/en/products/2-player-starter-set/). It launched in January 2024 at a list price of about $20.
-
-<!-- VERIFY: that the 2-Player Starter Set is still easy to find in stores in late 2026. In October 2026 it was still the newest product on Konami's Starter Decks page. -->
+Konami lists it on the [2-Player Starter Set product page](https://www.yugioh-card.com/en/products/2-player-starter-set/). It launched in January 2024.
 
 The comic covers Synchro and Xyz, but not Link or Pendulum. Lessons 2 and 3 fill that gap.
 

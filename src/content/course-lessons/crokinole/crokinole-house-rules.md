@@ -29,7 +29,7 @@ Even the board makers agree: [Tracey Boards' FAQ](https://traceyboards.com/faq/)
 
 **No must-hit.** Some homes drop the requirement to hit an opposing disc. This changes crokinole a great deal: players can simply hide in the 5 ring or shoot for 20 every turn.
 
-**Muskoka rules.** A known variant, usually described as dropping the No Hiding Rule, making contact with opposing discs optional, and giving the opponent one chance to knock a disc out of the 20 hole. <!-- VERIFY: find a primary source for Muskoka rules beyond the Wikipedia summary, and whether shots may start anywhere on the board --> If your group grew up on these, play them, and call them by name.
+**Muskoka rules.** A regional variant named for the Muskoka area of Ontario. Accounts of it differ, but most loosen the rules on hitting opposing discs. If your group grew up on these, play them, and call them by name.
 
 **Loose posture.** Many homes skip the one cheek rule and let players lean or stand. The NCA requires part of your seat on the chair, all four chair legs on the floor, and nothing but your feet touching the floor (rules 7k to 7m). If anyone at your table might play at a club someday, practice seated.
 

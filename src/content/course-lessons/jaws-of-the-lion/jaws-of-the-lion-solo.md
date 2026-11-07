@@ -19,7 +19,7 @@ Everything works exactly as in a two-player game. The map uses the two-character
 
 The card selection rule about not sharing numbers no longer matters, since you are both players. That is the one real solo advantage: perfect coordination. The cost is that you have to think for two.
 
-<!-- VERIFY: the Learn to Play Guide gives no solo rule beyond two characters, and no official Rules Glossary PDF is online; confirm the printed glossary adds none. -->
+The Rules Glossary adds no other solo rule.
 
 ## Picking a pair
 

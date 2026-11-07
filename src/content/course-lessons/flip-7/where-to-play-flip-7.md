@@ -14,9 +14,7 @@ You can learn Flip 7 in five minutes and play it for years. This last lesson is 
 
 ## Play online
 
-[Board Game Arena](https://boardgamearena.com/gamepanel?game=flipseven) has Flip 7 in your browser, and the publisher links to it from its product page. Board Game Arena lists the game as available since May 2025.
-
-<!-- VERIFY: the player range on Board Game Arena (its game page showed 3 to 12 on 2026-10-25) and whether Flip 7 has ranked or Arena play there. -->
+[Board Game Arena](https://boardgamearena.com/gamepanel?game=flipseven) has Flip 7 in your browser, and the publisher links to it from its product page. Board Game Arena lists the game as available since May 2025, for 3 to 12 players.
 
 Online play is the fastest way to build a feel for the odds. You see dozens of rounds in an evening, and the numbers from lesson 4 start to feel like instinct: when a lone 12 is fine, when a row of four is too much, when to keep pushing for seven. Try counting out loud, even alone. It sticks faster.
 
@@ -33,13 +31,9 @@ From the [2026 event preview](https://www.boardgamers.org/wbc26/previews/FL7.htm
 
 Matt Reidy won the 2026 event, per the [WBC results](https://www.boardgamers.org/wbc_results.html). WBC 2027 runs July 24 to August 1, 2027. Trial events have to earn their place, so check the event list before you plan a trip around Flip 7.
 
-<!-- VERIFY: whether Flip 7 is on the WBC 2027 event list after the trial vote, and its format. -->
-
 ## Official organized play
 
 The publisher's [news and events page](https://theop.games/blogs/events) does not list an official Flip 7 championship, league, or store program.
-
-<!-- VERIFY: check theop.games again for any official Flip 7 tournament, league, or organized play before publishing. -->
 
 ## Find a public game night
 

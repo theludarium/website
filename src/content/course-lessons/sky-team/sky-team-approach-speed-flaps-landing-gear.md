@@ -21,9 +21,7 @@ If the spaces left are more than the rounds left, you are behind and need some 2
 
 ## Traffic sets the speed limit
 
-You may not move forward while a plane sits in your Current Position. Planes further ahead block you only when you would fly through them: if you move 2 spaces and a plane sits in the next space, the move takes you into it.
-
-<!-- VERIFY: whether advancing 2 spaces past a plane in the next space (not the Current Position) is a collision under the Landing Procedure, or only the Current Position counts. -->
+You may not move forward while a plane sits in your Current Position. Planes further ahead block you only when you would fly through them. The track advances one space at a time, so if you move 2 spaces and a plane sits in the next space, it reaches your Current Position after the first step, and the second step is a collision.
 
 So the Radio is really a speed tool. Clear the plane in front of you, and you are free to move. A die of 1 on the Radio clears your own space, which is often the plane that matters most. The Co-Pilot has two Radio spaces and the Pilot has one, so traffic tends to be the Co-Pilot's job, and the briefing is the place to agree on which plane goes first.
 

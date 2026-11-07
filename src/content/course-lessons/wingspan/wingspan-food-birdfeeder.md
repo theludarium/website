@@ -16,7 +16,6 @@ Every bird costs food, so the birdfeeder sits at the center of most turns. New p
 ## What the dice show
 
 The birdfeeder holds 5 food dice. Each die has six faces: invertebrate, seed, fish, fruit, rodent, and one face showing invertebrate or seed. Taking that split face gives you one of the two, your choice, not both.
-<!-- VERIFY: confirm the six base-game die faces against a physical die or the rulebook's component list. -->
 
 That split face means invertebrates and seeds each show up on two faces out of six. Fish, fruit, and rodents each show on just one.
 

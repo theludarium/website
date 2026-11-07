@@ -11,7 +11,7 @@ oneIdea: "Grow the game in the order the rulebook hints at: base game first, the
 tryThis: "Play your next game with Corporate Era added, and the one after with the draft. Note which change your group asks to keep."
 nextTeaser: "Next, draft strategy: what to take, what to pass, when to deny a card, and how the cards you are passed tell you what your neighbors are building."
 ---
-Terraforming Mars plays 1 to 5 players, as printed on the box, and the base game includes its own solo mode. The expansions play in the same 1 to 5 range, so adding one does not change who can join. <!-- VERIFY: confirm on the FryxGames or Stronghold pages that every expansion lists 1 to 5 players (retail listings for Colonies and Turmoil do). -->
+Terraforming Mars plays 1 to 5 players, as printed on the box, and the base game includes its own solo mode. Adding an expansion does not add seats, so the base game's range is the one to plan around, and the Colonies rules even include their own solo setup.
 
 Terraforming Mars grows well. The base box already holds two variants, Corporate Era and the draft, and the expansions add maps, new phases, and whole new systems. The trick is adding them one at a time, so your group always knows which change made the game better.
 

@@ -19,8 +19,6 @@ The good news: Root's battle math is small enough to learn by heart. Two dice, o
 
 Each battle die has twelve faces, showing the numbers 0, 1, 2, and 3, three faces each. So each die is an even four-way split. Roll both. The attacker deals hits equal to the higher roll, and the defender deals hits equal to the lower roll.
 
-<!-- VERIFY: confirm on a physical die that each battle die shows 0, 1, 2, and 3 on three faces each (the Law calls them battle dice but does not list faces). -->
-
 That gives these chances for the two numbers:
 
 | Value | Higher roll (attacker) | Lower roll (defender) |

@@ -15,8 +15,6 @@ You know the rules, the math, the event policies, and how to pick a deck. The la
 
 Choose your target first. A Store Championship is the natural first competitive event, at Bandai's Level 2. A Regional, at Level 3, is a bigger day. Both appear on Bandai's [events page](https://en.onepiece-cardgame.com/events/), and store events also show up in [Bandai TCG+](https://lp.bandai-tcg-plus.com/en/).
 
-<!-- VERIFY: check whether a Store Championship season is announced for early 2027 and when, so this lesson can name it. -->
-
 ## The four parts of every week
 
 - **Volume.** Games with your event deck. Ten a week is a good target; more is better.

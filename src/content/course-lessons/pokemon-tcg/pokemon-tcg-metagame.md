@@ -64,7 +64,7 @@ These decks place damage across several of your Pokémon at once, often on the B
 
 **At big events.** Decklists from major tournaments are published after the event. The official Play! Pokémon site posts news from its Championship Series, and community sites such as [Limitless TCG](https://limitlesstcg.com/) collect results and decklists from many events. Look at which decks finish near the top, and which appear often.
 
-**When it changes.** New sets arrive several times a year. Once a year, usually in spring in recent seasons, the Standard format rotates out older regulation marks, and the meta resets. The weeks after a rotation or a new set are the best time to watch and learn. <!-- VERIFY: the next Standard rotation date after the 2026 to 2027 season. -->
+**When it changes.** New sets arrive several times a year. Once a year, usually in spring in recent seasons, the Standard format rotates out older regulation marks, and the meta resets. The weeks after a rotation or a new set are the best time to watch and learn. Play! Pokémon announces each rotation date ahead of time.
 
 ## Choosing a deck in a known meta
 

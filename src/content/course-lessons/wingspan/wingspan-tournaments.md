@@ -44,9 +44,7 @@ The 2026 format:
 
 The event asks players to bring a copy of the game so there are enough to go around.
 
-In the 2026 final, the top two players tied on 101 points, and the title went to Chad Martin on the unused food tiebreaker. The [event report](https://www.boardgamers.org/yearbook26/WSN.html) puts the average winning score at around 95, with a high of 126. Those numbers make a useful yardstick for your own four-player games.
-
-<!-- VERIFY: check the WBC 2027 event list for Wingspan's dates, GM, and format before the next convention. -->
+In the 2026 final, the top two players tied on 101 points, and the title went to Chad Martin on the unused food tiebreaker. The [event report](https://www.boardgamers.org/yearbook26/WSN.html) puts the average winning score at around 95, with a high of 126. Those numbers make a useful yardstick for your own four-player games. Dates and formats change each year, so read the current preview before you go.
 
 ## Online tournaments
 

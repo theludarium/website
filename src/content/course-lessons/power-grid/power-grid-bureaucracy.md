@@ -51,8 +51,6 @@ Two rules make this work:
 
 A worked example with five players in Step 1. The 5-player card adds 5 coal, 4 oil, 3 garbage, and 2 uranium. Say the players bought 7 coal this round, emptying the coal spaces priced 1 and 2 and one slot at 3. Refill fills the empty slot at 3 first, then three at 2, then one at 1. The cheapest coal is back to 1, but only one marker sits there. Now say they had bought 10 coal and the supply held only 4. Then only 4 go back, and the cheapest coal is now 3. The rulebook walks through a case like this one.
 
-<!-- VERIFY: the Step 2 and Step 3 columns of the 5-player refill card (read from the rulebook's card image as coal 7 and 5, oil 5 and 6, garbage 3 and 5, uranium 3 and 2) against a physical card before quoting them in later lessons. -->
-
 On the Germany side, once someone buys plant 39 in an auction, uranium stops refilling for the rest of the game.
 
 ## Job 3: update the plant market

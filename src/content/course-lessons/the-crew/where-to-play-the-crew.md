@@ -14,13 +14,11 @@ The Crew does not need a tournament scene to be worth mastering. Its best stage 
 
 ## Where to find players
 
-- **Your local game store.** Many run open game nights where you can bring your own game. Thames & Kosmos lists stores that carry its games on its [store locator](https://store.thamesandkosmos.com/pages/store-locator).
+- **Your local game store.** Many run open game nights where you can bring your own game. Thames & Kosmos lists stores that carry its games on its [store locator](https://thamesandkosmos.com/pages/store-locator).
 - **Libraries, cafes, and community centers.** Our guide to [finding a board game night near you](/articles/board-game-night-near-me/) covers where to look and what to expect, and it names The Crew as a great game to bring.
 - **Game cafes.** Many cafe libraries stock The Crew next to the other quick co-ops. Our guide to [the board game cafe library](/articles/board-game-cafe-library/) explains how those shelves are built.
 - **Work and school.** A lunch-hour mission or two fits a short break. See our guides to [starting a workplace game club](/articles/workplace-game-club/) and [board games for college students](/articles/board-games-for-college-students/).
 - **Indianapolis.** Our [weekly guide to public game nights in Indianapolis](/articles/indianapolis-game-nights/) lists where to play now. And join the [Indianapolis list](/lounges/indianapolis/) for first word on local learn-to-play nights as The Ludarium grows.
-
-<!-- VERIFY: that the Thames & Kosmos store locator link above loads and lists game stores (found in the site footer on 2026-10-27) -->
 
 ## Play online
 

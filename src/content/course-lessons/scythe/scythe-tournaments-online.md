@@ -26,13 +26,9 @@ Stonemaier's [suggested tournament guidelines](https://stonemaiergames.com/?p=10
 
 The page also describes a past multi-day Gen Con event with a seeding round, several elimination rounds, and a final table. It sets no time limits, though comments on it suggest timers for slow turns, and one says experienced players should finish in 90 to 120 minutes.
 
-<!-- VERIFY: whether Gen Con or another major convention has a Scythe tournament on its current event schedule. -->
-
 ## The World Boardgaming Championships
 
 The World Boardgaming Championships run a long list of tournament events each year. We could not confirm a Scythe event there. Check the current event list before you plan around it.
-
-<!-- VERIFY: whether the World Boardgaming Championships list a Scythe event for the coming year. -->
 
 ## Store and club events
 
@@ -51,8 +47,6 @@ Online play is the fastest way to get many competitive games in.
 - **Scythe: Digital Edition** is the official digital version, developed by The Knights of Unity with Stonemaier Games. It is available on Steam, iOS, and Android, with AI opponents and online play. Stonemaier notes that changes to online play are up to the developer and the digital publisher.
 - **Community events.** The Scythe Discord community has hosted Digital Edition tournaments open to anyone who signs up. A comment on Stonemaier's tournament page announced one.
 - **Virtual tabletops.** Stonemaier's Scythe digital page lists a Tabletopia version (also on Steam), where you move the pieces yourself with no rules automation.
-
-<!-- VERIFY: whether the Scythe Discord still runs regular Digital Edition events. -->
 
 A digital game enforces the rules for you, which makes it a good place to learn the timing of a strong opening. A tabletop event will expect you to know the rules yourself, so play both.
 

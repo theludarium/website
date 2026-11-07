@@ -58,10 +58,8 @@ If your group knows the original, start with the classic preset and change one c
 
 ## The rest of the family
 
-- **Sushi Roll** (Gamewright, 2019) turns the pick-and-pass idea into a dice game.
-- **[Sushi Go! Spin Some for Dim Sum](https://www.amazon.com/dp/B0CNKTN519?tag=cubecommonw0a-20)** (Gamewright, 2023) adds a spinning dim sum tray to the pick-and-pass idea.
-
-<!-- VERIFY: Sushi Roll is still in print, and the player count, designer, and current product page for Spin Some for Dim Sum. -->
+- **Sushi Roll** (Gamewright, 2019) turns the pick-and-pass idea into a dice game for 2 to 5 players. Gamewright now lists it as out of print.
+- **[Sushi Go! Spin Some for Dim Sum](https://www.amazon.com/dp/B0CNKTN519?tag=cubecommonw0a-20)** (Gamewright, 2023) adds a spinning dim sum tray to the pick-and-pass idea. It seats 2 to 6.
 
 ## Which one to buy
 

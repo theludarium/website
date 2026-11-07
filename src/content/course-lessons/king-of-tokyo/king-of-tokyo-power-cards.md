@@ -30,9 +30,9 @@ That one difference shapes almost every buying decision. A Keep card's value dep
 
 Most cards fall into one of these groups. Learn the groups and every new card is easier to judge.
 
-**1. Better dice.** Cards that add a die or an extra reroll. These help every single turn, whatever you are chasing. A sixth die becoming a seventh, or three rolls becoming four, is the closest thing King of Tokyo has to a sure investment. Extra Head, which adds a die, is the classic example. <!-- VERIFY: Extra Head's cost and text on the 2016 edition card; a third-party tier list gives 7 Energy and an extra die. -->
+**1. Better dice.** Cards that add a die or an extra reroll. These help every single turn, whatever you are chasing. A sixth die becoming a seventh, or three rolls becoming four, is the closest thing King of Tokyo has to a sure investment. A card that adds a die is the classic example.
 
-**2. Staying alive.** Cards that block damage or give Life where Heal results cannot. Armor Plating is one: a rules FAQ on Dized explains that you treat each source of damage on its own and ignore any that deals only 1. Others let you leave Tokyo safely or come back from elimination. <!-- VERIFY: that the 2016 edition deck still includes a card for Yielding without damage (Jets) and one for coming back from elimination (It Has a Child). --> These cards are what let you hold Tokyo longer than the dice alone allow. <!-- VERIFY: Armor Plating cost and text on the 2016 edition card. -->
+**2. Staying alive.** Cards that block damage or give Life where Heal results cannot. Armor Plating is one: a rules FAQ on Dized explains that you treat each source of damage on its own and ignore any that deals only 1. Others let you leave Tokyo safely or come back from elimination. These cards are what let you hold Tokyo longer than the dice alone allow.
 
 **3. More Energy.** Cards that pay you cubes for things you already do. They are slow, and they are best bought early, because each one needs many turns to pay back its cost.
 

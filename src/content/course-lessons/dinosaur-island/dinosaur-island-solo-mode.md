@@ -57,7 +57,7 @@ That means two things:
 - **Pick your 7 at setup with the order in mind.** You need an objective you can finish in round 1, another by round 2, and so on. Easy, early-reachable objectives are as valuable as hard ones, because the round decides the score.
 - **Bank completed objectives.** If you complete two in round 3, score one and plan to score the other in round 4. You check objectives in Cleanup, so make sure the one you hold back will still be met at the next check.
 
-<!-- VERIFY: whether a solo objective that was true when completed must still be true in the Cleanup Phase you score it, for objectives like "Make sure no patrons are eaten this round." -->
+The rules only say to check for completed objectives at the end of Cleanup, and they do not say whether a goal tied to one round, such as keeping every patron safe, can be held for later. The safe habit is to bank only objectives that stay true, like a count of dinosaurs or upgraded paddocks, and to score round-bound ones in the round you meet them.
 
 ## Choosing your seven
 

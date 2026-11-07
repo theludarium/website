@@ -34,7 +34,7 @@ For a first Cube, 360 is the classic choice. It drafts eight people exactly, and
 
 Do not design your first Cube from scratch. Copy a proven list, then change it over time.
 
-**CubeCobra** is the usual place to start. It is an open-source website for building, managing, and playtesting Cubes. Owners post their lists there, so you can browse them, export one as your shopping list, and start your own from it. It also lets you draft a Cube solo against computer drafters, and its analytics help you check your Cube's balance. <!-- VERIFY: that a CubeCobra account and list are free, and the current way to copy or clone another owner's list. -->
+**CubeCobra** is the usual place to start. It is an open-source website for building, managing, and playtesting Cubes. Owners post their lists there, so you can browse them, export one as your shopping list, and start your own from it. It also lets you draft a Cube solo against computer drafters, and its analytics help you check your Cube's balance.
 
 Look for a list that matches your budget and your group, with a primer and a long history of changes. A list that has been edited many times has usually been drafted many times. Then draft it against the bots a few times. You will learn more from two test drafts than from an evening of reading.
 

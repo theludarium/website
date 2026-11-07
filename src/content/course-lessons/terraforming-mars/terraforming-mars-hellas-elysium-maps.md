@@ -70,4 +70,4 @@ Keep the board's goals in view. With 6 milestones when Venus is in, and differen
 
 ## Practice
 
-Play your next few games on boards you know least. [Board Game Arena](https://boardgamearena.com/gamepanel?game=terraformingmars) offers Hellas, Elysium, and other maps, which makes it easy to see each one many times. <!-- VERIFY: confirm which maps Board Game Arena's Terraforming Mars offers. -->
+Play your next few games on boards you know least. [Board Game Arena](https://boardgamearena.com/gamepanel?game=terraformingmars) offers Hellas and Elysium, plus Amazonis Planitia and Vastitas Borealis, which makes it easy to see each one many times.

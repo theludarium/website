@@ -23,7 +23,7 @@ Find a prerelease near you on the [Ravensburger Play Hub](https://tcg.ravensburg
 
 ## What is in the box?
 
-Prereleases use special Prerelease Boxes, which stores order for the event. The official site promises exclusive keepsakes inside, and the Hyperia City store kit says the event's promo card comes in the box. For Sealed, that kit recommends six booster packs per player, which is also the minimum. <!-- VERIFY: exact Prerelease Box contents (packs, dice, promo, keepsakes) for Hyperia City and Into the Inkdark, and whether the entry fee covers the box. -->
+Prereleases use special Prerelease Boxes, which stores order for the event. The official site promises exclusive keepsakes inside, and the Hyperia City store kit says the event's promo card comes in the box. For Sealed, that kit recommends six booster packs per player, which is also the minimum. Each store sets its own entry, so ask yours what the event includes.
 
 ## Sealed or Pack Rush?
 

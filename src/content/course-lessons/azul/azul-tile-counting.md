@@ -66,7 +66,7 @@ So a color that everyone has been placing on their walls is scarce after the ref
 
 Every tile that goes to the lid passes in front of everyone, so you can follow its contents roughly as the game goes. A simple read works: which colors have mostly gone onto walls, and which have mostly been thrown away?
 
-<!-- VERIFY: whether the WBC or other tournament rules say anything about players looking into the box lid during play. -->
+The 2026 WBC Azul preview says nothing about looking into the lid. At any event, watching the tiles go in is fair, but ask the GM before you dig through the lid itself.
 
 ## Putting the count to work
 

@@ -47,8 +47,6 @@ The **World Championship** runs December 4 to 6, 2026. Stores can celebrate it w
 
 Ravensburger also supports community-run **Challenge Championship Qualifiers**, or CCQs. Under the official term sheet, each one has a player cap of at least 128, plays Core or Infinity Constructed, runs on the Ravensburger Play Hub, and awards its winner a Championship invite. All CCQs for the 2026 to 2027 season must finish by July 24, 2027. The Challenge page lists upcoming CCQs in North America and Europe.
 
-<!-- VERIFY: how many invites each Challenge event, Local Qualifier, and regional Championship awards for the 2026 to 2027 season, and the 2027 World Championship dates and location, once Ravensburger publishes them. -->
-
 ## What changes at a bigger event
 
 Level 4 covered this in detail: the [tournament rules](/academy/lorcana/lorcana-tournament-rules/), [best-of-three matches](/academy/lorcana/lorcana-best-of-three/), and [choosing a deck](/academy/lorcana/lorcana-tournament-deck/). In short: matches are best of three with the loser choosing play or draw, rounds run on a clock, plays cannot simply be undone, decks are registered, and notes are limited to lore totals.

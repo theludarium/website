@@ -11,7 +11,7 @@ oneIdea: "In most games, one player should be attacking and the other should be 
 tryThis: "At the start of each game in your next session, after seeing your opponent's first few plays, say \"I'm the beatdown\" or \"I'm the control\" to yourself. Check after the game whether you were right."
 nextTeaser: "Next, sideboarding and the metagame: what decks to expect, how to plan a 15-card sideboard, and what to change between games."
 ---
-Two decks sit down. Both have creatures, both have removal, both have a few big spells. Which one should be attacking? It sounds like a silly question. It is one of the most important in Magic, and players have been asking it by name since a famous 1999 article by Mike Flores called "Who's the Beatdown?" <!-- VERIFY: the year and publication of Mike Flores's "Who's the Beatdown?" article (widely cited as 1999). -->
+Two decks sit down. Both have creatures, both have removal, both have a few big spells. Which one should be attacking? It sounds like a silly question. It is one of the most important in Magic, and players have been asking it by name since a famous 1999 article by Mike Flores called "Who's the Beatdown?"
 
 The short version of the idea: in nearly every game, one player is the **beatdown**, who wins by dealing damage fast, and the other is the **control**, who wins by surviving and taking over late. The player who misjudges their role usually loses.
 

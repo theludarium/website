@@ -52,9 +52,7 @@ You may not look through your discard pile, but you can remember what you played
 
 ## Championship points math
 
-In a Championship season, each race pays points by finishing place, as shown in the Hall of Fame on the board: 9 for first, 6 for second, 4 for third, 3 for fourth, and 2 for fifth.
-
-<!-- VERIFY: the Hall of Fame points for 6th place and below (the Advanced booklet's illustration shows 9, 6, 4, 3, 2 and hides the rest). -->
+In a Championship season, each race pays points by finishing place, as shown in the Hall of Fame on the board. The top five places pay 9, 6, 4, 3, and 2 points; check your board for the places below that.
 
 That changes how you drive:
 

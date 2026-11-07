@@ -68,11 +68,9 @@ Legacy works best with the same group every session, once the base game feels co
 These play on their own, without the base game.
 
 - **[Pandemic: Iberia](https://www.amazon.com/dp/B09XZVFQNY?tag=cubecommonw0a-20)** moves the game to the Iberian Peninsula in the mid-1800s, with railroads to build and water to purify. It plays 2 to 5.
-- **[Pandemic: Fall of Rome](https://www.amazon.com/dp/B07HJFLL1J?tag=cubecommonw0a-20)** swaps diseases for barbarian invasions in 5th-century Rome, for 1 to 5 players. Z-Man's site listed it as currently unavailable in October 2026.
+- **[Pandemic: Fall of Rome](https://www.amazon.com/dp/B07HJFLL1J?tag=cubecommonw0a-20)** swaps diseases for barbarian invasions in 5th-century Rome, for 1 to 5 players. Z-Man's site listed it as currently unavailable in November 2026.
 - **[Pandemic: The Cure](https://www.amazon.com/dp/B00M4KGF5S?tag=cubecommonw0a-20)** is a dice version, about 30 minutes, for 2 to 5.
-- **[Hot Zone: North America](https://www.amazon.com/dp/B084ZZDSZY?tag=cubecommonw0a-20)** and **[Hot Zone: Europe](https://www.amazon.com/dp/B094DR378C?tag=cubecommonw0a-20)** are smaller, 30-minute versions with three diseases. Z-Man's site listed both as currently unavailable in October 2026.
-
-<!-- VERIFY: Fall of Rome and Hot Zone availability on Z-Man's site before publishing; all three pages said "Currently Unavailable" on 2026-10-24. -->
+- **[Hot Zone: North America](https://www.amazon.com/dp/B084ZZDSZY?tag=cubecommonw0a-20)** and **[Hot Zone: Europe](https://www.amazon.com/dp/B094DR378C?tag=cubecommonw0a-20)** are smaller, 30-minute versions with three diseases. Z-Man's site listed both as currently unavailable in November 2026.
 
 For younger kids, Forbidden Island is a lighter game by the same designer. Our [Pandemic vs Forbidden Island](/articles/pandemic-vs-forbidden-island/) comparison helps you choose.
 

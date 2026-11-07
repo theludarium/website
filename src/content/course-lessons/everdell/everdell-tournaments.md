@@ -17,8 +17,6 @@ Everdell looks like a cozy game, and it is one. It is also a game people play fo
 
 Not that we could find. The publisher's site lists the conventions where its team exhibits each year, but no organized play program, qualifiers, or championship series for Everdell. The main competitive event is run by players, at the World Boardgaming Championships.
 
-<!-- VERIFY: check tycoongames.com and Starling Games announcements for any official Everdell tournament or organized play program before publishing. -->
-
 ## The World Boardgaming Championships
 
 The [World Boardgaming Championships](https://www.boardgamers.org/) (WBC) is an annual tournament convention in Pennsylvania where many games each crown a champion. Everdell has had an event there since 2023. According to the [event history](https://www.boardgamers.org/eventhistory/evd.html), it drew 71 players in 2023, 68 in 2024, and 59 in 2025, and it was on the WBC's 2026 winners list.
@@ -30,7 +28,7 @@ The [2026 event preview](https://www.boardgamers.org/wbc26/previews/evd.html) la
 - **Two hours per round.** The preview asks players to keep a brisk pace, because many tables ran close to the limit the year before.
 - **Four players per table** when possible, with seating and seat order randomized.
 
-<!-- VERIFY: check the WBC 2027 event list for the Everdell event's dates, format, and game master before the next convention. -->
+Dates, format, and game master can change from year to year, so check the WBC event list for the current preview before you go.
 
 ## How a tournament game runs
 
@@ -54,8 +52,6 @@ The top 16 move on to the semifinal, and semifinal winners meet in a four-player
 ## Online play
 
 The digital edition of Everdell from Dire Wolf launched on Steam in 2022 and is also sold on the Apple App Store, Google Play, and the Nintendo eShop for Switch. It offers cross-platform online multiplayer, AI opponents, and solo challenges. It is the quickest way to play many games against new opponents, and it does the scoring for you.
-
-<!-- VERIFY: Steam and the Dire Wolf page list it as of 2026-10-24; confirm the app store and eShop listings are live and that online matchmaking is still active. -->
 
 ## Finding local play
 

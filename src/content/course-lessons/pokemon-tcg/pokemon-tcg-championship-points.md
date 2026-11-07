@@ -13,7 +13,7 @@ nextTeaser: "Last lesson: a six-week practice plan for your first Regional Champ
 ---
 Championship Points, or CP, are how the Play! Pokémon Championship Series keeps score across a season. They decide who earns an invitation to the World Championships, and they reward strong finishes at every level, from a League Challenge at your store to an International Championship.
 
-The numbers below are for the 2027 season, which runs from late summer 2026 to the World Championships in August 2027. Play! Pokémon can change them during a season, so check the official [Championship Series site](https://championships.pokemon.com/en-us/) before you plan around them. <!-- VERIFY: the CP values, kickers, and Best Finish Limits here come from a secondary summary (gamertagmythras.com, August 20, 2026) of the official 2027 pages, which blocked automated reading; confirm each on championships.pokemon.com. The invite counts and direct invites also match pokezentrum.de's summary of the 2027 announcement. -->
+The numbers below are for the 2027 season, which runs from late summer 2026 to the World Championships in August 2027. Play! Pokémon can change them during a season, so check the official [Championship Series site](https://championships.pokemon.com/en-us/) before you plan around them.
 
 ## How points are earned
 
@@ -50,9 +50,9 @@ Invitations to the World Championships are given in two ways.
 
 **From the CP leaderboard.** Each rating zone invites a set number of the top CP earners in each age division. For 2027 in the USA and Canada, that is the top 100 Juniors, the top 100 Seniors, and the top 140 Masters. There is no fixed point total that guarantees a spot; it depends on how everyone else does.
 
-**Directly.** Winning a Regional or Special Championship earns an invitation, as does a top 4 finish at an International Championship or at the previous World Championships.
+**Directly.** Winning a Regional or Special Championship earns an invitation, as does reaching the final four of your age division at an International Championship.
 
-The 2027 World Championships are scheduled for Singapore in August. <!-- VERIFY: exact dates; news reports of the August 30, 2026 announcement give August 13 to 15, 2027. -->
+The 2027 World Championships are scheduled for August 13 to 15, 2027, at the Singapore EXPO.
 
 ## Planning a season that fits your life
 

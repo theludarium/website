@@ -17,7 +17,7 @@ This script is built for a parent teaching a kid, an older sibling teaching a yo
 
 ## Before you sit down
 
-Set up both decks before you start talking. If you have Battle Academy, use its board and follow its first tutorial guide, which walks two new players through a game step by step. <!-- VERIFY: how the Battle Academy 2024 tutorial guides run the first game (for example, whether decks start in a set order). --> If you have two decks, pick simpler ones for the first game: fewer Abilities and fewer Trainer cards that need explaining.
+Set up both decks before you start talking. If you have Battle Academy, use its board and follow its tutorial guides, which walk new players through their first games. If you have two decks, pick simpler ones for the first game: fewer Abilities and fewer Trainer cards that need explaining.
 
 Lay out damage counters and a coin. Decide now that the first game is a practice game with both hands face up.
 

@@ -30,8 +30,6 @@ When a Blight Card flips, follow its Blighted Island side. Every Invader Phase b
 
 These effects hurt. The core rulebook shows one example card, Downward Spiral, whose Blighted side makes each Spirit destroy one of its own Presence at the start of every Invader Phase. A flipped card does not end the game, but it taxes every turn that follows.
 
-<!-- VERIFY: read both core Blight Cards and add the name and Healthy and Blighted Blight counts for each, plus the second card's Blighted Island effect. -->
-
 ## Count your budget
 
 At the start of each Invader Phase, two numbers matter:

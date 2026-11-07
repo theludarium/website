@@ -35,8 +35,6 @@ Stage II brings the first card that is not a terrain. The Coastal card Explores 
 
 Most Stage II cards carry the Escalation flag that triggers an adversary's Escalation. The Coastal card is the one without it, so with an adversary, you will see four Escalations if the Coastal card is the one left out, and three otherwise.
 
-<!-- VERIFY: confirm on the physical cards that the Stage II Coastal card is the only Stage II card without the Escalation flag. -->
-
 ## Stage III: the missing pair
 
 Stage III is where counting pays off most. Each terrain appears in exactly 3 of the 6 pairs. One pair is left out, so:

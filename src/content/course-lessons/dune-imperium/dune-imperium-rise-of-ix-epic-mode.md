@@ -41,8 +41,6 @@ Your Freighter climbs the Shipping track one step per Freighter icon. When you c
 
 Interstellar Shipping, which needs 2 Spacing Guild Influence, moves your Freighter twice, so it can climb and cash out in one visit. Smuggling gives 1 Solari and one move.
 
-<!-- VERIFY: Smuggling's reward and the Dreadnought space's cost and effects; the Rise of Ix rulebook has no board space guide, so confirm on the CHOAM board overlay. -->
-
 **Strategy:** the track rewards patience. A Freighter cashed at the top pays all three rewards at once. But troops recruited from the track can be deployed only if you are on a Combat space that turn, so plan where your Agent goes.
 
 ## Dreadnoughts
@@ -53,7 +51,7 @@ Dreadnoughts are the biggest change to Conflicts.
 - **Durable:** they do not return to your supply after Combat. If you lose, they go back to your garrison.
 - **Controlling:** if you win with a dreadnought in the Conflict, you must place one on Arrakeen, Carthag, or Imperial Basin, covering any Control marker there, until the end of the next Combat phase.
 
-You may have only two. The Dreadnought space costs 3 Solari and lets you commission one, acquire tech, or both.
+You may have only two. The Dreadnought space costs 3 Solari and lets you commission one and acquire tech.
 
 **Strategy:** a dreadnought is a troop that keeps coming back. Two dreadnoughts in your garrison are a standing threat of 6 strength on any Combat-space visit. At a four-player table, everyone's ceiling rises, so count dreadnoughts first when you read a Conflict.
 
@@ -78,7 +76,7 @@ So the first round is already a Conflict II fight, every player has troops and a
 
 The WBC preview applies a Family Atomics rule to every Heat and round, even when a table plays the base game alone. The Family Atomics token is described in the [Immortality rulebook](https://d19y2ttatozxjp.cloudfront.net/pdfs/DUNE_IMPERIUM_IMMORTALITY_Rulebook.pdf): once per game, on your turn, spend it to clear the whole Imperium Row and deal five new cards.
 
-<!-- VERIFY: the WBC preview calls Family Atomics a Rise of Ix rule, but the token appears in the Immortality rulebook. Confirm with the WBC GM how players use it at the table (tokens supplied, or tracked another way). -->
+The preview calls Family Atomics a Rise of Ix rule, but the token comes from the Immortality box. Ask the GM at the start of play how your table will track it.
 
 **Strategy:** a refresh is best used when the Row is full of cards that help your rivals and nothing that helps you, or late, when you have Persuasion and the Row offers no points.
 

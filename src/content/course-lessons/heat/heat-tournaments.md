@@ -49,21 +49,13 @@ The [2026 event preview](https://www.boardgamers.org/wbc26/Previews/het.html) se
 
 The [WBC page](https://www.boardgamers.org/wbcindex.html) lists WBC 2027 for July 24 to August 1, 2027. Trial events are chosen each year by a member vote, so check the 2027 event list before you plan a trip.
 
-<!-- VERIFY: whether Heat is on the WBC 2027 event list, its format, and the 2027 venue. -->
-
 ## Ring events and other conventions
 
-The World Series of Board Gaming awards rings to its event winners. In 2024 it held a Heat ring final, which The Dice Tower [streamed](https://dicetower.com/video/heat-ring-world-championship-world-series-board-gaming-2024).
-
-<!-- VERIFY: whether the World Series of Board Gaming has a Heat ring event on its 2027 schedule. -->
-
-<!-- VERIFY: UK Games Expo listed a Heat tournament run by the Mind Sports Olympiad for May 2026; the listing could not be opened. Confirm and add a line if it returns. -->
+The World Series of Board Gaming awards rings to its event winners. In 2024 it held a Heat ring final, which The Dice Tower [streamed](https://dicetower.com/video/heat-ring-world-championship-world-series-board-gaming-2024). Its schedule changes each year, so check for a current Heat event.
 
 ## Is there an official championship?
 
 The word "Championship" in Heat usually means the season mode in the box, not a tournament circuit. We could not find a current official championship series for Heat from Days of Wonder or Asmodee.
-
-<!-- VERIFY: whether Days of Wonder or Asmodee has announced an official Heat championship or organized-play program. -->
 
 ## Online play
 
@@ -77,8 +69,6 @@ You do not need a tournament to find good rivals.
 - **BoardGameGeek.** Its forums and local guilds list game groups near you.
 - **Your library or community center.** Many host board game meetups.
 - **Start your own.** Our guide on [how to start a play group](/articles/how-to-start-a-play-group/) walks through it. To run a small event, [how to run a board game tournament](/articles/how-to-run-a-board-game-tournament/) covers formats, seeding, and tiebreaks.
-
-<!-- VERIFY: no Days of Wonder store locator or organized-play finder was found; add a link here if one appears. -->
 
 If you are near Indianapolis, join the [Indianapolis list](/lounges/indianapolis/) for first word on local learn-to-play nights as The Ludarium grows.
 

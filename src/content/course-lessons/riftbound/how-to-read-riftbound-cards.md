@@ -71,7 +71,7 @@ The Core Rules open with a golden rule: card text beats rules text. If a card sa
 
 Starting with Legacy in January 2027, Riot is updating how cards are worded. Tokens will be "created" rather than "played," "When you play me" becomes "When I enter," a grey backing will mark targets, and an arrow will split a trigger from its effect.
 
-<!-- VERIFY: once the Legacy rules update publishes, check how older cards read under the new wording, and update this section and the mock card if the layout changes. -->
+Riot says the rules behind this change are already in place, so it is mostly a change in wording. Older cards keep working the same way.
 
 <!-- AT OUR TABLE: one line on the card-reading mix-up Levi sees most often with new players, such as forgetting the power cost. -->
 

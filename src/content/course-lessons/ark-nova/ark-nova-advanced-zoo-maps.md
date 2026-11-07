@@ -30,14 +30,12 @@ In broad strokes, the abilities push you in different directions:
 
 - **Observation Tower** pays appeal each time you fill a standard enclosure next to the tower.
 - **Outdoor Areas** treats enclosures next to its outdoor areas as larger than they are, so big animals fit in smaller, cheaper enclosures.
-- **Park Restaurant** pays money at breaks for buildings around the restaurant.
-- **Research Institute** lets you play animals while one condition short, once it is connected to your zoo.
+- **Park Restaurant** pays money at breaks for the spaces you fill around the restaurant.
+- **Research Institute** lets you ignore one condition when you play an animal, once you have built next to it. Enclosure needs and cost still apply.
 - **Ice Cream Parlors** rewards a kiosk-heavy map with extra break income.
 - **Hollywood Hills** turns building on its marked spaces into sponsor cards, and then makes sponsors cheaper.
 - **Silver Lake** has spaces that pay back much of what you spend building on them.
-- **Commercial Harbor** gives a way to turn spare cards into value each turn once connected.
-
-<!-- VERIFY: check each map's exact ability text and map number against the zoo maps in the box, and correct any summary above that is off. -->
+- **Commercial Harbor** lets you sell a spare card from your hand for money once per turn, once you have built next to the harbor.
 
 ## Choosing between two maps
 

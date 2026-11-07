@@ -11,8 +11,8 @@ notice: "Unofficial. Not affiliated with or endorsed by Ravensburger or Disney. 
 rulesEdition: "Disney Lorcana TCG Comprehensive Rules, version 2.3.0 (effective October 16, 2026, for Hyperia City)"
 rulesSource: "https://files.disneylorcana.com/CRUpdate_EN_Oct-2026.pdf"
 players: "2 (3 or more with the multiplayer rules)"
-# VERIFY: play time and age on the 2-Player Starter Set box.
-playTime: "About 20 to 30 minutes a game"
+# Checked 2026-11-07: Ravensburger distributor listings for the Hyperia City 2-Player Starter Set give ages 8+ and 15 to 30 minutes.
+playTime: "About 15 to 30 minutes a game"
 ages: "Ages 8 and up"
 promise: "Pick the right first product, learn how a turn works, read any card, and walk into your first weekly play night and prerelease ready to play."
 description: "A free beginner's course for the Disney Lorcana TCG: what to buy, how a turn works, reading cards, teaching a friend, upgrades, and your first store night."

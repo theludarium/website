@@ -27,9 +27,7 @@ For a demanding card, do not think in tokens. Think in finished shapes. You have
 
 ## Salmon C: runs of three to five
 
-**The rule:** only runs of three or more score, and the card's table tops out at five. A run of one or two scores nothing, and a run longer than five scores no more than a run of five.
-
-<!-- VERIFY: on a physical Salmon C card, that the top row reads 5+ (a run of six scores the same as five), as the rulebook's small card image suggests. -->
+**The rule:** only runs of three or more score, and the card's table tops out at five. A run of one or two scores nothing, and growing a run past five earns you nothing more.
 
 **The trap:** a long, happy run on autopilot. On this card, the sixth salmon adds nothing; it is a token that could have started your next run.
 

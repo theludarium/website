@@ -63,6 +63,4 @@ Otherwise, build, tax, and keep your ships fresh. Fresh ships hold control.
 
 With six cards each and no seizes, a chapter runs about six rounds. Each seize costs the seizer a card, so they will run out first. Near the end of a chapter, check who still holds cards. The last player with cards plays unopposed rounds and can grab a final tax or secure before scoring.
 
-<!-- VERIFY: confirm the card-number-to-ambition mapping (2 Tycoon, 3 Tyrant, 4 Warlord, 5 Keeper, 6 Empath) against the printed action cards. -->
-
 Our article on [area control games](/articles/area-control-board-games/) explains why Arcs rewards building before fighting, and how it differs from its sibling, [Root](/academy/root/).

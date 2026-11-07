@@ -35,7 +35,7 @@ There are three ambition markers, each with a first-place and a second-place num
 | Middle | 3 / 2 | 6 / 3 |
 | Lowest | 2 / 0 | 4 / 2 |
 
-<!-- VERIFY: the rulebook text does not print the six marker values. They fit the rulebook's Tycoon example (5/3 plus 2/0 gives 7 and 3) and a review photo showing a 10/5 pair (6/3 plus 4/2) and a 3/2 marker; confirm on the physical markers. -->
+<!-- VERIFY: the official rules text only says the markers start blue side up with lower numbers; it does not print the values. Look at the 3 ambition markers in a physical box and check both sides of each against this table (5/3 and 9/4, 3/2 and 6/3, 2/0 and 4/2). -->
 
 At the end of each chapter, after scoring, the lowest-value marker that has not been flipped turns to its higher side. So ambitions grow more valuable as the game goes on, and later chapters swing the Power race harder.
 

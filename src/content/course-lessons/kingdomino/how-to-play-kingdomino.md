@@ -82,6 +82,6 @@ The rulebook also offers two bonuses you can add from your first game: **Middle 
 
 ## Where the 2024 edition differs
 
-The 2024 Blue Orange Edition rulebook keeps the game the same with two changes. Three players lay out four dominoes a round and discard the one nobody took, so all 48 come out. And its two-player rule is the 7 by 7 Mighty Duel, which lesson 11 covers. <!-- VERIFY: which rulebook edition currently ships in the US retail box of Kingdomino. -->
+The 2024 Blue Orange Edition rulebook keeps the game the same with two changes. Three players lay out four dominoes a round and discard the one nobody took, so all 48 come out. And its two-player rule is the 7 by 7 Mighty Duel, which lesson 11 covers. Check which rulebook is in your box; this course works with either.
 
 That is everything you need for game one. If Kingdomino is your family's first step into modern board games, our list of [the easiest board games to learn](/articles/easiest-board-games-to-learn/) has good company for it.

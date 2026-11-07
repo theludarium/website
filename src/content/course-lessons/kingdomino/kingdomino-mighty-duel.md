@@ -24,9 +24,9 @@ Everything works as in the base game, with these changes:
 - **Build a 7 by 7 kingdom** instead of a 5 by 5. The castle is still one square, so each player places 24 dominoes: 48 squares plus the castle make 49.
 - **The game runs 12 rounds.**
 
-The 2024 rulebook adds a setup detail for the first line. One king is drawn at random. Its owner, player A, chooses one of the four dominoes. Then player B chooses two. Player A takes the last one. The original rulebook simply uses the normal random king draw. <!-- VERIFY: whether the 2016 English rulebook intends any special first-line order for the Mighty Duel; its text only says to use all dominoes for a 7 by 7. -->
+The 2024 rulebook adds a setup detail for the first line. One king is drawn at random. Its owner, player A, chooses one of the four dominoes. Then player B chooses two. Player A takes the last one. The original rulebook describes no special first line, so the normal random king draw works fine with it.
 
-Scoring is unchanged: squares times crowns, territory by territory, with the same tiebreakers. You may add Middle Kingdom (castle in the center of the 7 by 7) and Harmony (a complete 7 by 7 with no discards) just as in the base game. <!-- VERIFY: that the Middle Kingdom and Harmony bonuses keep their 10 and 5 point values in the Mighty Duel; neither rulebook says otherwise. -->
+Scoring is unchanged: squares times crowns, territory by territory, with the same tiebreakers. You may add Middle Kingdom (castle in the center of the 7 by 7) and Harmony (a complete 7 by 7 with no discards) just as in the base game. Neither rulebook changes their values for the Mighty Duel, so play them at the usual 10 and 5 points.
 
 ## Nothing is hidden but the order
 

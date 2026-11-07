@@ -23,9 +23,7 @@ Strong Power Grid players seem to know what everyone will do. They are not guess
 
 ## Money: open or hidden?
 
-The German Recharged rulebook does not say whether players' money must be hidden, so tables differ. Agree before the game. If money is open, ask. If it is hidden, estimate it. You can get close.
-
-<!-- VERIFY: whether Rio Grande's English Recharged rulebook says money is open or hidden; the 2F-Spiele German rulebook and the WBC 2026 preview do not say. -->
+Tables differ on whether players' money is open or hidden. Agree before the game. If money is open, ask. If it is hidden, estimate it. You can get close.
 
 ## Estimating a rival's cash
 

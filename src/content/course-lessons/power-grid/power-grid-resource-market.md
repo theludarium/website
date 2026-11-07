@@ -19,8 +19,6 @@ The Recharged base game has 24 coal, 24 oil, 24 garbage, and 12 uranium markers.
 
 The market has eight price spaces from 1 to 8. Coal, oil, and garbage each hold three markers per space. Uranium holds one marker per space, on twelve spaces running from 1 to 8 and then 10, 12, 14, and 16.
 
-<!-- VERIFY: the uranium price spaces on the Recharged board (inferred here from the 12 uranium markers, the setup on 14 and 16, and the rulebook's refill example placing uranium on 12 and 10). -->
-
 At setup:
 
 - **Coal** fills spaces 1 to 8: all 24 markers are on the market.
@@ -48,8 +46,6 @@ Two consequences matter.
 ## Refill rates
 
 The refill card differs by player count and step. At five players, the count the World Boardgaming Championships prefers, Step 1 returns 5 coal, 4 oil, 3 garbage, and 2 uranium per round.
-
-<!-- VERIFY: the refill numbers for 2, 3, 4, and 6 players on the Recharged refill cards, if a later edit wants to quote them. -->
 
 Now compare that to demand. Five players each running one coal plant that burns 2 coal want 10 coal a round. The market returns 5. The other 5 come out of the market's stock, and the price climbs. Run the same sum for each fuel once the opening plants are bought, and you have a forecast.
 

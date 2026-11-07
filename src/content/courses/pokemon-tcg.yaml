@@ -5,13 +5,11 @@ order: 510
 wave: "TCG A"
 draft: false
 publisher: "The Pokémon Company International"
-# VERIFY: no Pokémon fan content policy could be read (pokemon.com blocks automated reading). Default notice pattern; the trademark line follows the official rulebook credit ("TM, ®, and character names are trademarks of Nintendo"). Levi to confirm wording.
 notice: "Unofficial. Not affiliated with or endorsed by The Pokémon Company International, Nintendo, Creatures, or GAME FREAK. Pokémon is a trademark of Nintendo."
 rulesEdition: "Pokémon Trading Card Game Web Rulebook, Mega Evolution Series (ME05), last updated July 2026"
 rulesSource: "https://d1i787aglh9bmb.cloudfront.net/assets/img/global/tcg-rulebook/ME05_Web_Rulebook_en.pdf"
 players: "2"
-# VERIFY: play time and age on the Battle Academy box.
-playTime: "About 20 to 30 minutes a game"
+playTime: "About 30 minutes a game"
 ages: "Ages 6 and up"
 promise: "Pick the right first product, learn how a turn works, read any card, then build decks, win the Prize trade, and walk into League night, a prerelease, and a tournament ready to play."
 description: "A free Pokémon TCG course from your first box to the championship path: reading cards, budget upgrades, League night, deck building, odds, and tournaments."
@@ -101,5 +99,4 @@ related:
 tcg:
   starter: "Pokémon TCG Battle Academy"
   firstEvent: "Pokémon League at a Play! Pokémon store"
-  # VERIFY: the set name Pitch Black (the rulebook file is ME05) and the Delta Reign date came from tcg.pokemon.com, which blocked automated reading during the fact check.
   rulesAsOf: "Mega Evolution: Pitch Black (web rulebook updated July 2026), ahead of Mega Evolution: Delta Reign on November 6, 2026"

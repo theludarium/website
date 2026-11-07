@@ -93,11 +93,7 @@ The box says 3 or more, and past 18 players the rulebook recommends a second dec
 
 **Tournaments.** The [World Boardgaming Championships](https://www.boardgamers.org/) ran Flip 7 as a trial event in 2026, marked as welcoming to beginning players. Per the [2026 event preview](https://www.boardgamers.org/wbc26/previews/FL7.html), it was single elimination with one-hour rounds: an open first round at tables of five or six, then a semifinal and a final. Matt Reidy won, per the [WBC results](https://www.boardgamers.org/wbc_results.html). WBC 2027 runs July 24 to August 1, 2027, and members vote on its trial events, so check the event list before you plan a trip.
 
-<!-- VERIFY: whether Flip 7 is on the WBC 2027 event list after the trial vote, and its format. -->
-
 The publisher's [news and events page](https://theop.games/blogs/events) does not list an official Flip 7 championship or organized-play program.
-
-<!-- VERIFY: check theop.games for any official Flip 7 tournament or organized play before publishing. -->
 
 **Locally.** Many game stores run open game nights, and one deck of cards is easy to bring. The publisher's [where to buy page](https://theop.games/pages/where-to-buy-our-games) includes a store locator. If you are near Indianapolis, join the [Indianapolis list](/lounges/indianapolis/) for first word on local learn-to-play nights as The Ludarium grows.
 

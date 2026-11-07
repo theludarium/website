@@ -64,8 +64,6 @@ A few shifts stand out:
 - **Crafted items do more.** With Master Engravers, Murine Broker, and League of Adventurous Mice, crafting an item can pay twice. The item race heats up.
 - **Factions borrow each other's tricks.** Soup Kitchens makes the Alliance's sympathy or the Marquise's wood count for rule. Propaganda Bureau turns enemy warriors into yours. A faction you thought you understood may play differently with the right card.
 
-<!-- VERIFY: confirm the full Exiles and Partisans card list and counts (which cards appear twice) against the Leder card library or a physical deck before naming any further cards. -->
-
 ## Learning it before an event
 
 - **Read every card once.** It takes ten minutes, and nobody at a tournament table wants to explain a card mid-turn.

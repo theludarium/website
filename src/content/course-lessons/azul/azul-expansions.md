@@ -51,9 +51,7 @@ Next Move collects these on its [special editions page](https://www.nextmove-gam
 
 **[Azul Crystal Mosaic](https://www.amazon.com/dp/B081KW92PK?tag=cubecommonw0a-20)** needs the original Azul. It swaps in new double-sided player boards, with overlays that fit on top of them. It plays with the gray-side rule, so you choose where each tile goes in its row, and it changes the floor line values. One side adds spaces that double a tile's points. The other changes the end bonuses to 3 per row, 10 per column, and 12 per color.
 
-**The Azul Promo Collection** adds two special factory displays. The Rainbow Factory lets you take one tile of each color instead of all of one color. The Big Factory holds 6 tiles, and nobody may take from it while other displays still have tiles. It works with Azul, Stained Glass of Sintra, or Summer Pavilion. Next Move lists it as a promotional item.
-
-<!-- VERIFY: how the Promo Collection is sold or given away (retail, convention promo, or with a purchase) before pointing readers to buy it. -->
+**The Azul Promo Collection** adds two special factory displays. The Rainbow Factory lets you take one tile of each color instead of all of one color. The Big Factory holds 6 tiles, and nobody may take from it while other displays still have tiles. It works with Azul, Stained Glass of Sintra, or Summer Pavilion. Next Move lists it as a promotional item, and promos tend to come and go, so it may be hard to find.
 
 **[Azul Master Chocolatier](https://www.amazon.com/dp/B0BJ36B62D?tag=cubecommonw0a-20)** is a limited collector's edition of Azul with a chocolate theme. It is a complete game with its own boards, tiles, and bag, and the same rules, plus a Special Factories variant with five kinds of special displays.
 

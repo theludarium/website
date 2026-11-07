@@ -15,33 +15,30 @@ Dinosaur Island has grown into a small family of games. There is one expansion f
 
 ## Totally Liquid at a glance
 
-[Totally Liquid](https://www.amazon.com/dp/B07K73C8ZB?tag=cubecommonw0a-20) was funded on Kickstarter in 2018, in the same campaign as the X-treme Edition of the base game and Duelosaur Island. It needs the base game to play. The announced contents included a park board, lab board, 9 workers, and 3 scientists for a fifth player, plus 6 facility boards, 6 dice, 52 cards, 13 tiles, and more.
+[Totally Liquid](https://www.amazon.com/dp/B07K73C8ZB?tag=cubecommonw0a-20) was funded on Kickstarter in 2018, in the same campaign as the X-treme Edition of the base game and Duelosaur Island. It needs the base game to play. Its box includes a park board, a lab board, 9 workers, and 3 scientists for a fifth player, plus facility boards, new dice, cards, and tiles.
 
-Its modules, as described in Pandasaurus's announcement and in reviews:
+Its rulebook offers five modules you can add in any combination, plus a solo mode:
 
-- **A fifth player.** A new park and lab, so Dinosaur Island seats five.
-- **Water dinosaurs.** A new class of dinosaurs that live in water.
-- **Secret blueprints.** Hidden goals that award points.
-- **Executive workers.** Special workers with unique abilities for each company.
-- **New facilities.** Six facility boards, each with its own special rules.
-- **The Mega Rex.** An extra-dangerous dinosaur.
-- **More of everything.** New cards, tiles, and dice to mix into the base game.
-
-<!-- VERIFY: no current Pandasaurus product page for Totally Liquid was found on 2026-10-25; link one if it exists. Also read the Totally Liquid rulebook and confirm each module's rules, the five player setup, and how the extra dice are used before this lesson says more. -->
+- **A fifth player.** A full set of player pieces so Dinosaur Island seats five. A five player game uses 11 DNA dice, so you mix the expansion's 4 new dice into the base game's 10 and draw 11. The market also gets an extra row of pricier items.
+- **Marine creatures.** A new stack of dino recipes, each with its own scientist level printed on the tile.
+- **Park facilities and executives.** Each player drafts a facility board with its own special rules and an executive, a special worker with a unique ability. One facility lets you build the Mega Rex, an extra-dangerous dinosaur.
+- **PR events.** Each player holds two hidden cards and, at game end, reveals one that everyone scores.
+- **Blueprints.** A secret plan for how to build your park, which awards points.
+- **More of everything.** New DNA dice, lab upgrades, specialists, plot twists, and dino recipes that mix into any game.
 
 ## How to add Totally Liquid
 
 The expansion is modular, so treat it like a set of options:
 
 1. **The fifth player first, if you need it.** It is the only module that changes who can play. With five players, the shared phases get more crowded than the four player game in [the player counts lesson](/academy/dinosaur-island/dinosaur-island-player-counts-variants/).
-2. **New objectives, plot twists, and tiles next.** They mix into what you already know without new rules to teach.
-3. **One big module at a time.** Water dinosaurs, executives, blueprints, or facilities. Each adds rules and decisions, and each will make a game run longer.
+2. **New dice, specialists, plot twists, and recipes next.** They mix into what you already know without new rules to teach.
+3. **One big module at a time.** Marine creatures, facilities and executives, PR events, or blueprints. Each adds rules and decisions, and each will make a game run longer.
 
 Facilities and executives bring the most new rules text, so read their cards before the game, not during it.
 
 ## Strategy shifts to expect
 
-Without the full rules confirmed here, a few principles from the base game carry over:
+A few principles from the base game carry over:
 
 - **Anything that adds threat still needs security.** A more dangerous dinosaur is only worth it if you can secure it.
 - **Anything that adds workers is strong early.** Executive workers follow the same logic as specialists: buy engine early, points late.
@@ -60,8 +57,6 @@ Without the full rules confirmed here, a few principles from the base game carry
 ## Dinosaur World
 
 **[Dinosaur World](https://www.amazon.com/dp/B096TLR6H3?tag=cubecommonw0a-20)** is the sequel, from the same campaign as Rawr 'n Write. It keeps worker placement and park building, and adds tile laying and route building with jeeps. It is its own game, not an expansion.
-
-<!-- VERIFY: current Pandasaurus product pages for Duelosaur Island, Rawr 'n Write, and Dinosaur World; none were found on the publisher's store on 2026-10-25. Confirm Rawr 'n Write's player count before adding it. -->
 
 ## The X-treme Edition
 

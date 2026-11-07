@@ -56,7 +56,7 @@ Venus tags also have a requirement side. Many Venus cards need the Venus track h
 
 At a tournament table, Venus often comes with Prelude and Colonies; WBC's semifinal and final use all three. The World Government step plus faster Prelude engines can make the game short. Expect fewer generations than in a base game, and apply the math from [how to value a card](/academy/terraforming-mars/terraforming-mars-card-value/) with that in mind.
 
-<!-- VERIFY: check whether Board Game Arena or the Steam edition supports Venus Next before recommending it for online practice. -->
+For online practice, note that Board Game Arena's version does not list Venus Next among its options. The Steam edition offers Venus Next as add-on content, so that is the place to play it on a screen.
 
 <!-- AT OUR TABLE: one line on whether Levi's group plays with or without the World Government step, and why. -->
 

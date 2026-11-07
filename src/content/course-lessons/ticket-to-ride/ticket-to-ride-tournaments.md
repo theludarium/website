@@ -26,7 +26,7 @@ Rules vary by event. Here is how the World Boardgaming Championships runs it:
 
 ## The World Boardgaming Championships
 
-The [World Boardgaming Championships](https://www.boardgamers.org/) (WBC) is an annual tournament convention run by the Boardgame Players Association at Seven Springs Mountain Resort in Pennsylvania. WBC 2026 ran from July 24 to August 1. Many games crown a champion there, and Ticket to Ride is one of them, with more than 20 years of events behind it. Donte Saccenti won it in 2026, according to the [WBC winners list](https://www.boardgamers.org/wbc_results.html).
+The [World Boardgaming Championships](https://www.boardgamers.org/) (WBC) is an annual tournament convention run by the Boardgame Players Association at Seven Springs Mountain Resort in Pennsylvania. WBC 2026 ran from July 25 to August 2. Many games crown a champion there, and Ticket to Ride is one of them, with more than 20 years of events behind it. Donte Saccenti won it in 2026, according to the [WBC winners list](https://www.boardgamers.org/wbc_results.html).
 
 From the [2026 event preview](https://www.boardgamers.org/wbc26/previews/ttr.html):
 
@@ -37,7 +37,7 @@ From the [2026 event preview](https://www.boardgamers.org/wbc26/previews/ttr.htm
 
 If you have only played the base game, try the Mega Game at home a few times before you go.
 
-<!-- VERIFY: the WBC 2027 dates and the Ticket to Ride event's format once the 2027 preview is posted. -->
+WBC 2027 is scheduled for July 24 to August 1, 2027, according to the [WBC page](https://www.boardgamers.org/wbcindex.html). Formats can change from year to year, so read the 2027 preview once it is posted.
 
 ## The Train Gamers Association at Gen Con
 
@@ -50,15 +50,11 @@ Its 2026 Gen Con rules describe two Ticket to Ride competitions:
 
 The association also runs events at Origins in Columbus, Ohio, and at its own Railcon in Rosemont, Illinois.
 
-<!-- VERIFY: the Train Gamers Association's 2027 Gen Con schedule and Ticket to Ride rules once posted. -->
+Those are the 2026 rules. Check the association's Gen Con page each year for the current schedule and format.
 
 ## Is there an official championship?
 
-We could not find a current official championship or organized-play circuit from Days of Wonder or Asmodee. The big public events today are run by player groups like the two above.
-
-<!-- VERIFY: the writer cited a Days of Wonder world championship with a final in Paris in June 2010 for the game's fifth anniversary; no source was opened to confirm it, so it was cut. Restore it only with a source. -->
-
-<!-- VERIFY: whether Days of Wonder or Asmodee has announced a current official Ticket to Ride championship or organized-play program. -->
+Days of Wonder has run world championships from time to time. For the game's 20th anniversary, it held a [world tournament](https://www.daysofwonder.com/games-news-2/20th-anniversary-ticket-to-ride-world-tournament-relive-the-paris-finale/) that drew more than 3,600 players online on Board Game Arena, split into eight regional time zones. Eight finalists met in Paris, and the final was played on the original USA map on May 17, 2025. No regular circuit has been announced since, so the big public events today are run by player groups like the two above.
 
 ## Online play
 
@@ -79,8 +75,6 @@ You do not need a tournament to find good opponents.
 - **Start your own.** Our guide on [how to start a play group](/articles/how-to-start-a-play-group/) walks through it.
 
 If you are near Indianapolis, join the [Indianapolis list](/lounges/indianapolis/) for first word on local learn-to-play nights as The Ludarium grows.
-
-<!-- VERIFY: no Days of Wonder store locator was found; add a link here if one appears. -->
 
 ## How to practice like a competitor
 

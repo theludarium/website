@@ -46,15 +46,11 @@ The 2025 event was different in places: it was for experienced players only, ran
 
 Trial events at WBC are chosen each year by a vote of BPA members. WBC 2027 runs July 24 to August 1, 2027, according to the WBC index page. The WBC index page says the 2027 Trial ballot form for GMs opens November 1, 2026, and is due November 25, 2026.
 
-<!-- VERIFY: whether Root makes the WBC 2027 Trial ballot, its class, and its 2027 format, once the WBC 2027 event list is published. -->
-
 ## Root online
 
 Many competitive Root players play online between events. [Root digital](https://www.direwolfdigital.com/root/), by Dire Wolf, runs on PC through Steam, Nintendo Switch, iOS, and Android, with cross-platform online play and several expansions as add-ons. The [next lesson](/academy/root/root-online-practice/) covers how to practice there.
 
 Leder Games' official community Discord is called Woodland Warriors, and its card library links to it. Community-run Root tournaments and leagues have been organized there and elsewhere over the years.
-
-<!-- VERIFY: find a current community-run Root league or tournament with an official link (for example through the Woodland Warriors Discord) before naming one. -->
 
 ## Rules help
 

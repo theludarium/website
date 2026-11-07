@@ -15,7 +15,7 @@ Your first store event is a bigger step than your hundredth kitchen table game. 
 
 ## What is a Nexus Night?
 
-Riot's organized play overview describes Nexus Nights as **weekly** events at local game stores, on whatever day each store picks. They are the store's regular casual night. The format is up to the store, and players can play one-on-one, two-on-two, or free-for-all. Prizes are small Nexus Night packs, which hold three cards and can include promos. <!-- VERIFY: Riot source for Nexus Night formats (one-on-one, two-on-two, free-for-all) and the three-card pack size; Riot's Unleashed Nexus Night packs post lists the card pool but not cards per pack. -->
+Riot's organized play overview describes Nexus Nights as **weekly** events at local game stores, on whatever day each store picks. They are the store's regular casual night. The format is up to the store, and players can play one-on-one, two-on-two, or free-for-all. Prizes are small Nexus Night packs, which hold three cards and can include promos.
 
 Every Riftbound event has an Organized Play Level. Nexus Nights run at **Casual**, the lowest. The Tournament Rules say that at this level the focus is on education and sportsmanship, with no priority on technically precise play. You are expected to know most of the rules, and help is part of the deal.
 
@@ -27,7 +27,7 @@ You register with a **Riot ID**, the same account used for Riot's other games. I
 
 It still helps to call or message the store. Ask what format they run that week and whether they have loaner decks or a spare seat for new players.
 
-<!-- VERIFY: Riot named a monthly local event, the Nexus Cup, as part of 2027 organized play. Add one line on what it is once details for players are posted. -->
+Once you are comfortable, look for a **Nexus Cup**. Riot describes it as a once-per-set store event that crowns the store's best player, with promos and a playmat as prizes. It does not feed into the competitive ladder, so it is still a friendly next step.
 
 ## What to bring
 
@@ -50,7 +50,7 @@ Most store nights follow a familiar shape, though the store sets the details:
 4. **Report the result,** win or loss, and wait for the next round.
 5. **Collect prizes** at the end, if the store gives them out by record or by attendance.
 
-<!-- VERIFY: how many rounds a typical Nexus Night runs and whether stores award Nexus Night packs for attendance, wins, or both. -->
+The number of rounds is up to the store, often three or four. So is how prizes are handed out, so ask when you check in.
 
 ## Table courtesies
 

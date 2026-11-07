@@ -69,8 +69,6 @@ If you need extra basic runes for a second deck, bundle products are one source.
 
 <!-- AFFILIATE: Riftbound Gift of the Rift Bundle -->
 
-<!-- VERIFY: a price for the Radiance Vault Bundle, if Levi wants prices listed. Riot's October 22, 2026 drawings post lists Gift of the Rift at $109. -->
-
 ## When to build your own deck
 
 Once you have upgraded a deck a few times, you will have opinions: which champion you enjoy, which domains feel right, which cards you wish you had more of. That is the moment to build a deck from scratch. The [deck building lesson](/academy/riftbound/riftbound-deck-building/) in Level 2 walks through it step by step. Until then, upgrading teaches you the same lessons with less risk.

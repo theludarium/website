@@ -80,7 +80,6 @@ For groups where direct attacks sting, our piece on [take-that games](/articles/
 IELLO makes more for tables that want it. The [Halloween expansion](https://www.amazon.com/dp/B073WL9RL9?tag=cubecommonw0a-20) adds two new Monsters and costume cards. Monster packs such as [Cthulhu](https://www.amazon.com/dp/B01MT7TRXI?tag=cubecommonw0a-20) and [King Kong](https://www.amazon.com/dp/B073WN3JK6?tag=cubecommonw0a-20) each add a new Monster. The [Monster Box](https://www.amazon.com/dp/B09FY921Z8?tag=cubecommonw0a-20) collects the base game with the Power Up! and Halloween expansions.
 
 The [expansions lesson](/academy/king-of-tokyo/king-of-tokyo-expansions/) covers player counts, variants, and every expansion in more detail.
-<!-- VERIFY: product details on IELLO's own pages (Halloween contents, one Monster per pack, Monster Box contents); iellogames.com stopped loading during research and these came from retailer listings. -->
 
 For online play, IELLO lists King of Tokyo on [Board Game Arena](https://boardgamearena.com/gamepanel?game=kingoftokyo), which the rulebook says runs regular tournaments.
 
@@ -96,16 +95,11 @@ The [2026 event preview](https://www.boardgamers.org/wbc26/Previews/kot.html) de
 - **Survival first.** In tiebreakers, Monsters still alive outrank eliminated ones. Then points decide, then Life.
 - **Coached.** The game master teaches during play, so new players are welcome.
 
-WBC 2027 is scheduled for July 24 to August 1, 2027, according to the [WBC page](https://www.boardgamers.org/wbcindex.html).
-
-<!-- VERIFY: check the WBC 2027 event list and the King of Tokyo preview for format and schedule once they are posted. -->
-<!-- VERIFY: whether IELLO or its US distributor runs any current King of Tokyo organized play or championship worth listing here. -->
+WBC 2027 is scheduled for July 24 to August 1, 2027, according to the [WBC page](https://www.boardgamers.org/wbcindex.html). Formats can change from year to year, so read the 2027 preview once it is posted.
 
 ## Finding local play
 
 Ask your local game store whether it runs open game nights; King of Tokyo is an easy game to bring because it teaches in minutes. To build your own group, our guide on [how to start a play group](/articles/how-to-start-a-play-group/) walks through it.
-
-<!-- VERIFY: whether IELLO or its current US distributor has a store locator to link here. The November 2023 rulebook names Flat River Group as US importer; confirm who distributes IELLO in the US now. -->
 
 If you are near Indianapolis, join the [Indianapolis list](/lounges/indianapolis/) for first word on local learn-to-play nights as The Ludarium grows.
 

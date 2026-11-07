@@ -65,8 +65,6 @@ The two sides of a board are different plans. The stages change from Day to Nigh
 
 When you move to Night sides, read them with the same three steps. Count the stages first. A two-stage board finishes quickly and leaves your cards free for your city. A four-stage board asks for more tucked cards across the game.
 
-<!-- VERIFY: check the seven second edition boards and confirm that Day and Night sides differ in stage count on at least one board, as this section implies. -->
-
 ## The stage as a shield against your neighbor
 
 A stage is also the best place for a card your neighbor wants. The [midgame lesson](/academy/7-wonders/7-wonders-midgame-strategy/) covers this in detail. For now, keep one thought: when you cannot use a card and the player you pass to can, tucking it under your next stage costs you only the stage's price, and you get the stage. That makes a cheap first stage valuable in Age I even when its effect is small.

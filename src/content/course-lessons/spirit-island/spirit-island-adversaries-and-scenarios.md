@@ -24,8 +24,6 @@ Spirit Island has eight adversaries: three in the base game and five across the 
 | The Habsburg Mining Expedition | Nature Incarnate | 1 | 10 |
 | [The Kingdom of Sweden](/academy/spirit-island/spirit-island-sweden/) | Base game | 1 | 8 |
 
-<!-- VERIFY: base game rows, France level 0, and Mining Expedition level 6 are confirmed from rulebooks. The other cells match the fan reference at bfowle.github.io/spirit-island/adversaries/ (checked 2026-11-03); a final check against the printed panels would close this. -->
-
 Winning without an adversary is a milestone. It is also where Spirit Island starts to open up. The base game includes three adversaries and four scenarios, and both are optional. Add them when your group is ready for more, one step at a time.
 
 ## How an adversary works
@@ -70,8 +68,6 @@ You can play an adversary, a scenario, or both. Add their Difficulty numbers tog
 Scenarios change the situation the Spirits face, or what the Spirits can do. Some change the victory conditions or add requirements on top of the usual one. Each scenario panel shows its Difficulty in the upper right corner, on a scale from 0 for no change to 10 for very hard.
 
 A Difficulty 0 scenario is a good way to try new rules without making the game harder.
-
-<!-- VERIFY: read the four core scenario panels (Blitz, Guard the Isle's Heart, Rituals of Terror, Dahan Insurrection) and add one line each on what they change. -->
 
 ## The thematic map
 

@@ -47,21 +47,13 @@ Agree on any house rule before the first card is dealt.
 
 ## The base game
 
-The current base game is [Flip 7](https://www.amazon.com/dp/B0DWGVM7RY?tag=cubecommonw0a-20) from The Op, one deck of 94 cards. The publisher's store lists it as the 2nd Edition. This course follows the current rulebook, Ruleset Edition 3.1.
-
-<!-- VERIFY: what, if anything, changed between the first and 2nd editions of Flip 7 (cards, rules, or only packaging). -->
+The current base game is [Flip 7](https://www.amazon.com/dp/B0DWGVM7RY?tag=cubecommonw0a-20) from The Op, one deck of 94 cards. The publisher's store lists it as the 2nd Edition. This course follows the current rulebook, Ruleset Edition 3.1. If you own an older printing, follow the current rules on the publisher's page.
 
 Free extras live on the publisher's [Flip 7 page](https://theop.games/pages/flip-7): the rules, a printable scoresheet, and a scoring web app.
 
 ## Themed editions
 
-The Op also sells themed versions of Flip 7: [Hello Kitty and Friends](https://theop.games/products/flip-7-hello-kitty-and-friends), [Disney Tim Burton's The Nightmare Before Christmas](https://theop.games/products/flip-7-disney-tim-burtons-the-nightmare-before-christmas), [National Parks](https://theop.games/products/flip-7-national-parks), a [Grinch Edition](https://www.amazon.com/dp/B0GR1VQ8YN?tag=cubecommonw0a-20), and a [Liquid Death Edition](https://theop.games/products/flip-7-liquid-death). Pick the art your group will love.
-
-<!-- VERIFY: that each themed edition uses the same 94-card deck and rules as the base game, with no themed rule changes. -->
-
-Retailers also list a Flip 7 Deluxe Edition with foil cards, a scorepad, and a pencil.
-
-<!-- VERIFY: the Deluxe Edition on the publisher's own site (product page link, contents, and that it plays the standard rules); it was found only on retailer listings on 2026-10-25. -->
+The Op also makes themed versions of Flip 7: Hello Kitty and Friends, Disney Tim Burton's The Nightmare Before Christmas, National Parks, a [Grinch Edition](https://www.amazon.com/dp/B0GR1VQ8YN?tag=cubecommonw0a-20), and a Liquid Death Edition. Most of them play like the base game with new art. The Liquid Death Edition goes further and adds two new action cards, so read the product page for any edition before you buy. Pick the art your group will love.
 
 ## Flip 7: With a Vengeance
 

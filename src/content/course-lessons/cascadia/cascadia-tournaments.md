@@ -35,15 +35,11 @@ In 2026, Cascadia ran as a Century event, marked as welcoming to beginning playe
 - **Quarterfinal and semifinal.** The semifinal is four four-player games.
 - **Final.** The four semifinal winners play one game for the title.
 
-Thomas Tu is listed as the 2026 Cascadia champion on the [WBC winners list](https://www.boardgamers.org/wbc_results.html). The beginner-friendly label makes this one of the friendliest ways to try a real tournament.
-
-<!-- VERIFY: check the WBC 2027 event list for the Cascadia event's dates, format, and Century status before the next convention. -->
+Thomas Tu is listed as the 2026 Cascadia champion on the [WBC winners list](https://www.boardgamers.org/wbc_results.html). The beginner-friendly label makes this one of the friendliest ways to try a real tournament. Dates and formats change each year, so read the current preview before you go.
 
 ## Is there an official championship?
 
 AEG's and Flatout Games' Cascadia pages do not list an official championship, qualifier series, or organized play program. Some stores and cafes may run their own Cascadia tournaments, so ask at the places you already play.
-
-<!-- VERIFY: check whether AEG or Flatout Games has announced an official Cascadia championship or online qualifier, and add it here if so. -->
 
 ## Online play
 

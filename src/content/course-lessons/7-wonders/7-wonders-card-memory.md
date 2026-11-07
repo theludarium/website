@@ -20,8 +20,6 @@ The [second edition rulebook](https://cdn.svc.asmodee.net/production-rprod/stora
 
 So at your count, every card kept for that Age is dealt to someone. The List of cards and chains sheet in the box tells you which cards those are. Read it for your count, and you know every card that will appear in each Age, in some hand. The only unknown in Age III is which guilds were drawn, and those show up as the hands go round.
 
-<!-- VERIFY: confirm on the List of cards and chains sheet that each Age keeps exactly 7 cards per player at every count from 3 to 7 (Age III counting players plus 2 guilds), so no cards are left undealt. -->
-
 ## Which hands you will see
 
 Hands move one seat each turn, and there are six turns. That means:

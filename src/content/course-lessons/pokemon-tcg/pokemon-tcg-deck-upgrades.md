@@ -55,7 +55,7 @@ Cut the cards you never want to draw: the off-type Pokémon, the one-copy odditi
 
 Buy from people and stores you trust. If a card's price looks far too good to be true for a popular card, be careful.
 
-<!-- VERIFY: whether The Pokémon Company publishes official guidance on spotting counterfeit cards; link it here if so. -->
+The Pokémon Company's [support page on counterfeit cards](https://support.pokemon.com/hc/en-us/articles/360002068953-Did-I-purchase-fake-or-counterfeit-cards) notes that many fakes show up when you hold them to a bright light, and that packs priced far below normal are a strong warning sign.
 
 ## Check that cards are legal for store play
 
@@ -69,7 +69,7 @@ If you plan to play at League tournaments, check each card's **regulation mark**
 
 Two official products sit between a starter and a full custom deck:
 
-- The [Deck Crafter's Collection](https://www.amazon.com/dp/B0HDWX4J41?tag=cubecommonw0a-20), which the [official product guide](https://tcg.pokemon.com/en-us/product-guide/) describes as essential cards for building your first deck, with guidance on the role each kind of Pokémon plays. <!-- VERIFY: current Deck Crafter's Collection contents and its own product page URL. -->
+- The [Deck Crafter's Collection](https://www.amazon.com/dp/B0HDWX4J41?tag=cubecommonw0a-20), which the [official product guide](https://tcg.pokemon.com/en-us/product-guide/) describes as essential cards for building your first deck, with guidance on the role each kind of Pokémon plays.
 - A second [Mega Battle Deck](https://www.amazon.com/dp/B0FLP49KYM?tag=cubecommonw0a-20). Taking the best cards from two preconstructed decks is a classic way to build a first custom deck.
 
 ## Upgrade a few cards at a time

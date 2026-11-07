@@ -23,9 +23,7 @@ Released in 2021, Mission Deep Sea is a stand-alone sequel by the same designer,
 
 The big change is the tasks. Instead of task cards that each name one card to win, Deep Sea has 96 task cards with many kinds of goals. Some ask you to win certain cards. Others ask for things like winning a set number of tricks. Each task card has a difficulty rating, and the ratings differ by player count.
 
-Each mission in the logbook gives a total difficulty. You draw task cards until their ratings add up to that total. So one mission can bring a few hard tasks one time and several easy ones the next. The logbook has 32 missions in a campaign story about searching for the lost continent of Mu.
-
-<!-- VERIFY: the exact Mission Deep Sea task-drawing rule (for example, what to do when the next card would overshoot the mission's difficulty total) against the Mission Deep Sea rulebook -->
+Each mission in the logbook gives a total difficulty. You draw task cards until their ratings add up to exactly that total, setting aside any card that would push you past it. So one mission can bring a few hard tasks one time and several easy ones the next. The logbook has 32 missions in a campaign story about searching for the lost continent of Mu.
 
 What it means for your crew:
 
@@ -37,17 +35,13 @@ If your crew loved the campaign but wants more replay, Deep Sea is the natural n
 
 Our article on [which Crew to buy](/articles/the-crew-card-game/) compares the two side by side.
 
-## Newer games in the family
+## A family version
 
-The Crew has grown since Deep Sea. A family version, The Crew: Family Adventure, was released in 2024, and a third main game in the series followed in 2026. Both keep the cooperative trick-taking core.
-
-<!-- VERIFY: The Crew: Family Adventure (2024) and The Crew: Journey to the Ends of the Earth (2026): English availability, the North American publisher's product pages, player counts, and how their tasks differ, before adding product links -->
+The Crew has grown since Deep Sea. A family version, The Crew: Family Adventure, came out in 2024. Its English edition is subtitled Marooned in Paradise, and it plays 3 to 5. It keeps the cooperative trick-taking core with simpler missions for younger players.
 
 ## Play online for free
 
-Both The Quest for Planet Nine and Mission Deep Sea are on [Board Game Arena](https://boardgamearena.com/). The Quest for Planet Nine is free to play there and supports 2 to 5 players. Online play handles the dealing and task setup for you, which makes it a quick way to practice signals and counting between table sessions.
-
-<!-- VERIFY: whether Mission Deep Sea on Board Game Arena is free or needs a premium membership -->
+The Quest for Planet Nine and Mission Deep Sea are both on [Board Game Arena](https://boardgamearena.com/), free to play, for 2 to 5 players. Online play handles the dealing and task setup for you, which makes it a quick way to practice signals and counting between table sessions.
 
 ## Getting more out of the box you have
 

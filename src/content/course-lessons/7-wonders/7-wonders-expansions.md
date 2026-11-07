@@ -56,8 +56,6 @@ All four of these add to the base game, and each plays 3 to 7.
 
 One caution: the publisher's FAQ says not to mix components from the first and second editions. Check which edition you own before buying an expansion.
 
-<!-- VERIFY: confirm each 7 Wonders expansion product page sells the second-edition version, and whether Leaders, Cities, and Armada still have first-edition copies in stores that would not match a second-edition base game. -->
-
 ## Duel expansions
 
 Duel has two expansions of its own, Pantheon and Agora, and they do not mix with the ones above. The [Duel expansions lesson](/academy/7-wonders-duel/7-wonders-duel-expansions/) compares them.

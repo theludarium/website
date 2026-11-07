@@ -42,13 +42,9 @@ From the [2026 7 Wonders preview](https://www.boardgamers.org/wbc26/previews/7WS
 
 The preview also clarifies one rule for the event: you must have every resource, coins included, when you reveal a card to build it.
 
-<!-- VERIFY: check the WBC 2027 dates and the 7WS preview before the next convention; formats can change year to year. -->
-
 ## Official championships
 
 We could not find an official world championship or qualifier circuit from Repos Production for 7 Wonders. If one appears, it will likely be announced on the publisher's game pages.
-
-<!-- VERIFY: confirm whether Repos Production or Asmodee runs any official 7 Wonders championship, national qualifier, or online tournament series. -->
 
 ## Online play
 
@@ -58,7 +54,7 @@ We could not find an official world championship or qualifier circuit from Repos
 
 You do not need a tournament to find good opponents.
 
-- **Your local game store.** Many run open game nights, and a game that seats seven is an easy one to get to the table. Ask the staff. <!-- VERIFY: check whether Repos Production or Asmodee has a store locator or organized-play program for 7 Wonders, and link it here if so. -->
+- **Your local game store.** Many run open game nights, and a game that seats seven is an easy one to get to the table. Ask the staff.
 - **BoardGameGeek.** Its forums and local guilds list game groups near you.
 - **Your library or community center.** Many host board game meetups.
 - **Run your own event.** A 30-minute game fits several rounds into an evening. Our guide on [how to run a board game tournament](/articles/how-to-run-a-board-game-tournament/) covers brackets and seeding.

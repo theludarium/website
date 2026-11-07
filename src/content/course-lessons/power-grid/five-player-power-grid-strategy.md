@@ -58,7 +58,7 @@ So in a heat:
 - **Second still counts** if you play several heats. Two seconds have been enough to advance.
 - **Playing more heats helps,** since wins across all heats come first in the standings.
 
-<!-- VERIFY: the WBC 2027 Power Grid preview for any change to heat scoring and advancement before the 2027 event. -->
+This is how the 2026 event scored heats. Check the current preview before you go, since the format can change.
 
 ## Regions at a tournament table
 

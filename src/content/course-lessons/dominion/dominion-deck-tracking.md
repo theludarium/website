@@ -57,5 +57,3 @@ Writing things down is not covered by the rulebook, so groups decide for themsel
 Start small: points only. Once that is easy, add their Golds. Then their key Action cards. Within a few games it becomes background attention, and you will find yourself knowing, not guessing, what their next shuffle holds.
 
 If you play a digital version that shows a game log, use it to check your counts while you practice, then try to rely on it less.
-
-<!-- VERIFY: whether the Temple Gates app shows a game log or card counts during play; if so, name it here. -->

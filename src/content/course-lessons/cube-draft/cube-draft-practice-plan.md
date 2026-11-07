@@ -26,8 +26,8 @@ Learning one Cube deeply teaches skills that carry everywhere: which roles run o
 **1. Volume.** Draft often. Options:
 
 - **CubeCobra** lets you draft any posted Cube against computer drafters and review the result. It is the fastest way to practice, and it is available any hour. Its bots are not people, so treat their picks as rough signals at best.
-- **Draftmancer,** a browser-based multiplayer draft site, runs Cube drafts with friends and bots at a distance. It can load a Cube list from CubeCobra.<!-- VERIFY: Draftmancer still imports CubeCobra lists by Cube ID. -->
-- **Magic Online** runs the Vintage Cube in limited-time leagues, as our [MTGO Vintage Cube explainer](/articles/mtgo-vintage-cube-explained/) covers. **MTG Arena**, Wizards' digital game, has run Cube events at times. Both are on the publishers' sites: [Magic Online](https://www.mtgo.com/) and [MTG Arena](https://magic.wizards.com/en/mtgarena). <!-- VERIFY: whether MTG Arena is running a Cube event this season, and when. -->
+- **Draftmancer,** a browser-based multiplayer draft site, runs Cube drafts with friends and bots at a distance. CubeCobra's playtest pages offer it for drafting a posted Cube with other people online.
+- **Magic Online** runs the Vintage Cube in limited-time leagues, as our [MTGO Vintage Cube explainer](/articles/mtgo-vintage-cube-explained/) covers. **MTG Arena**, Wizards' digital game, has run Cube events at times. Both are on the publishers' sites: [Magic Online](https://www.mtgo.com/) and [MTG Arena](https://magic.wizards.com/en/mtgarena).
 
 Aim for three to five drafts a week, mixing bots and people.
 

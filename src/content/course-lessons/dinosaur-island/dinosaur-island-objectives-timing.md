@@ -13,8 +13,6 @@ nextTeaser: "Next, reading your rivals: what their parks tell you about the dice
 ---
 Dinosaur Island hands every player a lever on the game's length. The end triggers when only one objective is left unclaimed, and you choose which objectives you work toward and when you finish them.
 
-<!-- VERIFY: the Rulebook 2.0 says a player who fulfills an objective "claims" it by placing a corporation token, and does not say whether a player may decline or delay a claim. This lesson treats claiming as automatic and puts the choice in when you meet the objective; if Pandasaurus rules that claims are optional, add a line saying so. -->
-
 Level 2's endgame lesson covered spending down when the end arrives. This lesson is about deciding when it arrives.
 
 ## Objectives are points and a timer

@@ -17,7 +17,7 @@ Welcome to Level 3. At Level 2 you learned what to fight for. Now you learn how 
 
 Each attacking ship lets you collect one die of any type, and you can mix types. You may take fewer dice than ships, but never more than six of one type.
 
-<!-- VERIFY: the rulebook does not list die faces in text. These layouts match two independent fan sources (Void Companion and the wretched.computer dice analysis), and every table below was recomputed from them; confirm on the physical dice. -->
+<!-- VERIFY: the die faces are not printed in any official text online (rulebook, aid booklet, or the retired Leder rules library). Roll each of the three die types in a physical box and check the faces below: Skirmish 3 blank and 3 single hit; then the Assault and Raid layouts as listed. If any face differs, recompute the tables. -->
 
 **Skirmish:** three blank faces and three faces with one hit.
 

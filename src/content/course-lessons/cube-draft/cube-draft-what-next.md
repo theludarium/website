@@ -46,7 +46,7 @@ When you cannot gather a table, Cube still works on a screen:
 - **Magic Online** runs Vintage Cube in limited-time leagues. Our explainer on [MTGO Vintage Cube](/articles/mtgo-vintage-cube-explained/) covers what it is, and [When Is Vintage Cube on MTGO?](/articles/when-is-vintage-cube-on-mtgo/) tracks the current schedule.
 - **CubeCobra** lets you draft any posted Cube against computer drafters, and its playtesting includes drafting with other people online.
 - **SpellTable**, Wizards' webcam tool for playing paper Magic at a distance, is listed among the official ways to play Booster Draft.
-- **MTG Arena**, Wizards' digital game, is on that same list of official ways to play Booster Draft. <!-- VERIFY: whether MTG Arena is running a Cube event this season (Arena Cube or similar) and when. -->
+- **MTG Arena**, Wizards' digital game, is on that same list of official ways to play Booster Draft.
 
 ## Local play and the official path
 
@@ -55,7 +55,7 @@ For in-store play, the [Wizards Store and Event Locator](https://locator.wizards
 - **Magic Academy** is Wizards' beginner program at local stores, with events that teach the rules and deckbuilding. The official page says everything you need is provided.
 - **Friday Night Magic** is the Friday night store event, open to players of all levels, and Booster Draft is one of its formats. It is a store draft with packs rather than a Cube, but it is the same skill, and the table is full of people who might want to draft your Cube.
 
-If your aim is competitive play, a store's booster drafts are the place to start. Ask your store which events it runs and how they are structured. <!-- VERIFY: whether any current Wizards organized-play events use Cube, and the path from store play to Regional Championships this season. -->
+If your aim is competitive play, a store's booster drafts are the place to start. Ask your store which events it runs and how they are structured.
 
 ## In Indianapolis
 

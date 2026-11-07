@@ -77,4 +77,4 @@ Only 3 of 5 milestones can be claimed, and there are only two players to claim t
 
 ## Practicing the duel
 
-Two-player games are the easiest to set up and the fastest to play, which makes them good practice for everything at Level 3. Online, [Board Game Arena](https://boardgamearena.com/gamepanel?game=terraformingmars) supports the draft and Prelude, so you can play many duels in a short time. <!-- VERIFY: confirm Board Game Arena's Terraforming Mars options include the draft and Prelude. --> After each one, compare your score by category with your rival's. The category with the biggest gap is where the game was decided.
+Two-player games are the easiest to set up and the fastest to play, which makes them good practice for everything at Level 3. Online, [Board Game Arena](https://boardgamearena.com/gamepanel?game=terraformingmars) supports the draft and Prelude, so you can play many duels in a short time. After each one, compare your score by category with your rival's. The category with the biggest gap is where the game was decided.

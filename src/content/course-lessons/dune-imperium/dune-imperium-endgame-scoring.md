@@ -59,11 +59,9 @@ If either answer is yes, treat this round as the last. If you guess wrong, you l
 In the final round, almost nothing you hold has value afterward.
 
 - **Troops.** Garrisoned troops only matter as the fourth tiebreaker. Deploy every one you can.
-- **Cards.** Anything you acquire on the last Reveal turn is never played. The only buys that matter are ones that score when you acquire them, like The Spice Must Flow.
+- **Cards.** Anything you acquire on the last Reveal turn is never played. The only buys that matter are ones that score when you acquire them, like The Spice Must Flow, which costs 9 Persuasion.
 - **Combat Intrigue.** Play them. Saving them for a later round that will not come helps nobody.
 - **Endgame Intrigue.** These are played after the final round, before scores are compared. Read them early so you can set them up.
-
-<!-- VERIFY: The Spice Must Flow costs 9 Persuasion; confirm on the card and add the number here if useful. -->
 
 ## The tiebreakers
 

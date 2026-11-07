@@ -61,8 +61,6 @@ And save time on the rest. The middle rounds of a phase, when the depots are thi
 
 At home, put a timer on a phase, not a turn. Five rounds of a four-player game in about 30 minutes is a good pace. Online, timed games on [Board Game Arena](https://boardgamearena.com/gamepanel?game=castlesofburgundy) give you a clock without having to set one up.
 
-<!-- VERIFY: check the time options Board Game Arena offers for Castles of Burgundy tables (real-time speeds and turn-based) before naming specific settings. -->
-
 ## Be kind about time
 
 A clock can make a table tense. Gentle reminders work better than sighs. If a new player is slow, help them see their options rather than pressing them. Our guide to [analysis paralysis](/articles/analysis-paralysis-board-games/) has kind ways to do that, and they work at tournaments too.

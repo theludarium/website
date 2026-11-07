@@ -46,7 +46,7 @@ For players near Indianapolis, two recent dates stand out on Bandai's [Regionals
 - **Indianapolis** hosted a Regional at Gen Con on August 1, 2026, at the Indiana Convention Center.
 - **Peoria, Illinois** has a Regional and a Treasure Cup listed for December 6, 2026.
 
-<!-- VERIFY: check the Championship 27-28 schedule for any Indianapolis or Midwest Regionals before updating this section next year. -->
+New Regional dates are added through the season, so check the page for stops near you.
 
 ## What changes at bigger events
 

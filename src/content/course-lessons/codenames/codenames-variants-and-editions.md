@@ -29,8 +29,6 @@ Our guide to [party games for large groups](/articles/party-games-for-large-grou
 
 Earlier printings of the rulebook included variants for two and three players: one team plays together against a team with no players, and the spymaster covers one enemy word on each of the absent team's turns. The current rulebook drops these and points two-player tables to Duet.
 
-<!-- VERIFY: the two and three player variants are absent from the 2025 rulebook PDF (checked). Confirm their wording in the earlier rulebook, and whether CGE hosts them on codenamesgame.com. Also confirm how Duet's rulebook seats three or more players. -->
-
 ## Codenames: Duet
 
 [Codenames: Duet](https://www.amazon.com/dp/B0FJMNPGXM?tag=cubecommonw0a-20) is the cooperative version, built for two and playable by more. Each player sees one side of a shared key, and partners take turns giving clues. Together you try to find 15 agents within 9 turns, extendable to 11 for newer teams, without touching one of the assassins. Each side of the key has 9 agents and 3 assassins.
@@ -55,11 +53,7 @@ In 2026, Czech Games Edition added small expansion packs. [Sci-Fi](https://www.c
 
 [Codenames: Critical Role Adventures](https://www.amazon.com/dp/B0H7NQWVPL?tag=cubecommonw0a-20) is a fully cooperative take with heroes who level up. It was announced for the third quarter of 2026.
 
-<!-- VERIFY: whether Critical Role Adventures has shipped, and its player count. -->
-
 Over the years there have also been licensed editions from other publishers, built on other franchises. They play like the base game with themed words or pictures.
-
-<!-- VERIFY: which earlier licensed editions (Disney, Marvel, Harry Potter, The Simpsons, Deep Undercover) to name, who published them, and whether they are still in print. -->
 
 ## House rules worth agreeing on
 

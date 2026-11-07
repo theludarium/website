@@ -16,8 +16,6 @@ King of Tokyo is a party at the table, and that is reason enough to play it. It 
 
 The rulebook points players to [Board Game Arena](https://boardgamearena.com/gamepanel?game=kingoftokyo), which runs King of Tokyo in your browser with no download. Its game page lists the game as free to play for 2 to 6 players, and its rules section covers Power Up!, Halloween, the four Monster Packs, the Even More Wicked! micro expansion, the Mutant Evolutions variant, and the Origins and Dark versions. The rulebook also says Board Game Arena runs regular tournaments.
 
-<!-- VERIFY: which King of Tokyo expansions and options on Board Game Arena need a premium membership to start a table. -->
-
 Online play is the fastest way to see many games in a short time. Because the site handles every rule, it is also a good way to settle what a tricky Power card does.
 
 ## The World Boardgaming Championships
@@ -28,19 +26,15 @@ The [2026 event preview](https://www.boardgamers.org/wbc26/Previews/kot.html) de
 
 - **The base game.** Expansion Monsters are allowed, but no variant rules. Tokyo Bay is in, because every table has 5 or 6 players.
 - **One-hour rounds, single elimination.** Each table's winner moves on until six or fewer players meet in a final.
-- **Coached.** The event is listed in WBC's Coached class, so it is open to players without tournament experience. <!-- VERIFY: WBC's definition of a Coached (Class C) event on its Event Description page. -->
+- **Coached.** The event is in WBC's Coached class, where the game master teaches the game during play, so it is open to players without tournament experience.
 
 The tiebreakers are worth studying even if you never go. When a table needs a second place, Monsters still alive outrank eliminated ones, and Monsters eliminated later outrank those eliminated earlier. Only then do points decide, then Life. In other words, the tournament rewards the same thing the [endgame lesson](/academy/king-of-tokyo/king-of-tokyo-endgame/) does: survival first.
 
-WBC 2027 is scheduled for July 24 to August 1, 2027, according to the [WBC page](https://www.boardgamers.org/wbcindex.html).
-
-<!-- VERIFY: the WBC 2027 event list and King of Tokyo preview, for format and schedule, once they are posted. -->
+WBC 2027 is scheduled for July 24 to August 1, 2027, according to the [WBC page](https://www.boardgamers.org/wbcindex.html). Formats can change from year to year, so read the 2027 preview once it is posted.
 
 ## Publisher tournaments
 
 IELLO runs King of Tokyo tournaments at some conventions. In July 2026 it [reported](https://iellogames.com/%f0%9f%87%a9%f0%9f%87%aa-iello-at-berlin-con-%f0%9f%87%a9%f0%9f%87%aa/) organizing King of Tokyo and Unmatched tournaments at Berlin Con, and gathering 150 players.
-
-<!-- VERIFY: whether IELLO or its US distributor runs a current King of Tokyo organized play program, store tournament kit, or national championship worth listing here, and check the Berlin Con news link still loads. -->
 
 ## Run a tournament at home
 

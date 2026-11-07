@@ -17,7 +17,7 @@ Put one in the wrong spot, and your monk sits there all game.
 
 ## How rare are monasteries?
 
-The base game has 6 monastery tiles among the 71 you draw: 4 plain monasteries surrounded by fields, and 2 with a road running out of them. <!-- VERIFY: confirm 4 plain and 2 road monasteries in the 2021 box's tile overview. -->
+The base game has 6 monastery tiles among the 71 you draw: 4 plain monasteries surrounded by fields, and 2 with a road running out of them.
 
 That is not many. In a four-player game you draw about 18 tiles, so on average you will draw one or two monasteries yourself, and roughly one game in six you will draw none. In a two-player game you draw about 35, so you will usually draw around three.
 

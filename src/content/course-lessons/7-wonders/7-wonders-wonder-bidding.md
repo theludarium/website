@@ -14,8 +14,6 @@ nextTeaser: "Last, a practice plan: six weeks of games, drills, and reviews, end
 ---
 The [tournaments lesson](/academy/7-wonders/7-wonders-tournaments/) laid out how the World Boardgaming Championships (WBC) events run. This lesson zooms in on the rules that change your decisions at the table. Everything here comes from the [2026 7 Wonders event preview](https://www.boardgamers.org/wbc26/previews/7WS.html). Formats can change each year, so read the current preview before you go.
 
-<!-- VERIFY: check the WBC 2027 preview for 7WS and update the bidding and scoring details if they changed. -->
-
 ## How a heat is scored
 
 In the heats, you play two games per round. Players are ranked first by most wins across all heats. Ties are broken by placing points: 1,000 for first, 100 for second, 10 for third, and 1 for fourth, so a first, a second, and a fourth comes to 1,101. After that, the most in-game points scored, then a die roll.
@@ -35,7 +33,7 @@ In the semifinal and final, Wonders are not dealt. Four are drawn at random, and
 
 The preview adds a note about Babylon: do not throw it back; bid less on it, or more on the others.
 
-<!-- VERIFY: the 2026 preview does not spell out how tied bids are settled or how the winning bid is deducted from the final score. Confirm with the GM and update this section. -->
+The preview does not say how tied bids are settled, or exactly when your bid comes off your score. Ask the GM before the auction starts.
 
 ## Pricing a Wonder in points
 

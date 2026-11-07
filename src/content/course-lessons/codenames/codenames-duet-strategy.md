@@ -21,8 +21,6 @@ Each side shows 9 agents, and together the team needs 15. That means 3 words are
 
 That simple sum has a big consequence. **When you give a clue, you see only your half.** A word that looks like a bystander to you may be one of your partner's agents. A word that looks like an assassin to you may be safe, or even an agent, on the other side.
 
-<!-- VERIFY: the third assassin's mapping in the 2025 Duet rulebook. The rules say one of your three assassins is an assassin on both sides and one is an agent on the other side; the 2017 rules made the third a bystander on the other side. -->
-
 So two rules of thumb:
 
 - **As clue giver, avoid your assassins** exactly as in the base game. You cannot know which of them are safe for your partner.
@@ -51,8 +49,6 @@ Your partner reads your clues with the same grid in front of them, plus their ow
 ## Sudden death
 
 If the timer runs out with agents still hidden, the game goes to sudden death. No more clues. Players guess in any order, without taking turns, and any wrong guess, even a bystander, ends the game in a loss.
-
-<!-- VERIFY: sudden death wording against the printed 2025 Duet rulebook. -->
 
 Sudden death is where good notes pay. Every guess is still checked against your partner's key: the green words on your own key are the ones your partner has to find. Before the last token goes, both players should be clear on which leftovers from earlier clues are still out there. Then guess only the words you are sure of, surest first.
 

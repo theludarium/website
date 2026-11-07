@@ -57,7 +57,6 @@ Earlier in the game, the yardstick shifts toward growth. A bird that makes your 
 ## Growing the row
 
 Every bird you play covers a slot and pushes your next action in that row one slot to the right. On the base mat, the base amount in each row grows every second slot, and the slots in between offer a trade, such as a card for a food in the forest.
-<!-- VERIFY: check the base player mat's forest, grassland, and wetland slot values and which slots show the trade icons. -->
 
 That means a bird's place in the row has value of its own. The bird that lifts your forest from 2 food to 3 is worth more to you than the same bird somewhere you rarely go.
 

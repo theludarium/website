@@ -22,7 +22,7 @@ The base game has 10 nobles. Each is worth 3 points, and each asks for one of tw
 
 Only card bonuses count. Pieces never do.
 
-<!-- VERIFY: that the 10th anniversary edition keeps the same ten noble requirements as the original game. -->
+These shapes come from the original game. The 10th anniversary edition plays by the same rules with new noble art, so count the bonuses on your own nobles before you plan around them.
 
 ## The hidden wheel
 

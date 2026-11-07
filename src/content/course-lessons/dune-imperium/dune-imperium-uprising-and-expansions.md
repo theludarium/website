@@ -90,7 +90,7 @@ Both were built for the original, and Uprising's rules explain how to add them.
 
 **[Conspiracy](https://www.direwolfdigital.com/dune-imperium-conspiracy/)** is next, and Dire Wolf's page already takes pre-orders. It works with both games and adds Conspiracy cards, Raids, Imperial Edicts, and an Overthrow mode where one player is the Emperor against two or three others.
 
-<!-- VERIFY: Conspiracy's release date and its counts of new Leaders and Imperium cards; Dire Wolf's product page lists neither, and retail listings disagree. -->
+Dire Wolf's announcement says it adds six new Leaders and 46 new Imperium cards. It has not named a release date yet.
 
 ## Which box first?
 

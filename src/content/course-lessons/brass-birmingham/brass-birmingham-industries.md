@@ -13,7 +13,7 @@ nextTeaser: "Next, the Develop action: which tiles to skip, what it costs, and t
 ---
 Your player mat is a menu. Every slot shows a tile's cost, the coal or iron it needs, the VPs it scores when flipped, how far it moves your income, and the link icons it adds to its town. Reading that menu well is most of what separates an intermediate player from a beginner. This lesson reads it for you, industry by industry.
 
-The rulebook does not print these numbers; they live on the player mat, so trust your own mat if anything here differs. <!-- VERIFY: these tables were not checked against an official Roxley source (no official player aid is online). They match two independent fan implementations of the game; spot-check every row against a physical player mat, including which tiles are Rail Era only. -->
+The rulebook does not print these numbers; they live on the player mat, so trust your own mat if anything here differs. <!-- VERIFY: the numbers are printed only on the player mat; the Roxley rulebook PDF does not list them. Lay out one player mat and check every row of each table below (cost, coal, iron, VPs, income, links), and which tiles are marked Rail Era only. -->
 
 ## Two families of industry
 

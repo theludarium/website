@@ -17,7 +17,7 @@ The Pokémon Trading Card Game is a two-player card game. Each player brings a d
 
 It has been around a long time. It first came out in Japan in 1996 and reached the United States in early 1999, and today The Pokémon Company publishes it worldwide. That long history is why you may remember cards from your own childhood, and why there is so much product on the shelf.
 
-A game takes about 20 to 30 minutes once everyone knows the rules. <!-- VERIFY: play time on the Battle Academy box. -->
+Battle Academy, the official starter box, puts a game at about 30 minutes.
 
 ## Playing and collecting are two different hobbies
 
@@ -35,9 +35,7 @@ Plenty of kids do both. But the first purchase should match the first goal. If y
 
 ### Battle Academy: the best first box for most families
 
-[Pokémon TCG Battle Academy](https://tcg.pokemon.com/en-us/battleacademy/) is the product built for brand-new players. It plays like a board game: a game board shows where every card goes, ready-made decks are balanced against each other, and step-by-step guides walk two players through their first games. The current edition came out in March 2024.
-
-It runs about $25 to $30. <!-- VERIFY: current Battle Academy (2024) list price. --> <!-- VERIFY: Battle Academy 2024 contents (number of decks, board, guides, counters and coin) on the official product page, and confirm no newer edition has replaced it before the holidays. -->
+[Pokémon TCG Battle Academy](https://tcg.pokemon.com/en-us/battleacademy/) is the product built for brand-new players. It plays like a board game: a game board shows where every card goes, ready-made decks are balanced against each other, and step-by-step guides walk two players through their first games. The current edition came out in June 2024. The box holds three 60-card decks, the game board, tutorial guides for beginners, and a rulebook for when you are ready for more.
 
 Pick Battle Academy when:
 
@@ -49,26 +47,26 @@ Pick Battle Academy when:
 
 If your kid already plays with friends, has a sibling with cards, or wants to go to a store's League (more on that below), one ready-to-play deck may be a better fit. The current official rulebook points new players to the [Mega Battle Deck](https://tcg.pokemon.com/en-us/product-guide/): a ready-made 60-card deck that comes with a strategy sheet and everything you need to play.
 
-Each deck runs about $15 to $20. <!-- VERIFY: current Mega Battle Deck list price, which decks are on shelves this holiday, and their exact contents. --> Two different [Mega Battle Decks](https://www.amazon.com/dp/B0FLP49KYM?tag=cubecommonw0a-20) also make a fine two-player starter for siblings.
+The official product guide says each one also comes with damage counters and a metallic coin. Two different [Mega Battle Decks](https://www.amazon.com/dp/B0FLP49KYM?tag=cubecommonw0a-20) also make a fine two-player starter for siblings.
 
 ### Ways to try it first
 
 Not sure the game will stick? Try one of these before you spend much:
 
-- **Pokémon TCG Live.** The official free online version of the game, on phones, tablets, and computers, has a guided tutorial. Play it together for twenty minutes and you will know whether the rhythm clicks. <!-- VERIFY: Pokémon TCG Live is still free and still has a beginner tutorial (the official TCG Live page blocked automated reading). -->
+- **Pokémon TCG Live.** The official free online version of the game, on phones, tablets, and computers, has a guided tutorial. Play it together for twenty minutes and you will know whether the rhythm clicks.
 - **Pokémon League.** Many game stores run casual play nights where beginners are welcome, and the official parents' page says Leagues often have cards for beginners to try. Ask the store whether there is a cost. See where kids play, below.
 
 ## What to skip as a first purchase
 
 ### Loose booster packs
 
-Packs are fun to open, and they make great stocking stuffers for a kid who already plays. As a first purchase they do not work. Each pack holds a small, random handful of cards, so ten packs still do not add up to a deck that plays well. Open them for the surprise, not as a plan. A single pack runs about $5. <!-- VERIFY: current booster pack list price. -->
+Packs are fun to open, and they make great stocking stuffers for a kid who already plays. As a first purchase they do not work. Each pack holds a small, random handful of cards, so ten packs still do not add up to a deck that plays well. Open them for the surprise, not as a plan.
 
 A new set, Mega Evolution: Delta Reign, comes out November 6, 2026. New sets tend to sell fast around the holidays, so do not panic if packs look scarce. A starter box is the better gift anyway.
 
 ### Big collector boxes as a way to learn
 
-[Elite Trainer Boxes](https://www.amazon.com/dp/B0HG3MQDWP?tag=cubecommonw0a-20) are handsome. They hold packs, card sleeves, Energy cards, and a player's guide. They are a lovely gift for a kid who already plays. As a way to learn the game, they do less than the box suggests, because there is no ready-made deck inside. Expect about $50 to $60. <!-- VERIFY: current Elite Trainer Box list price and contents. -->
+[Elite Trainer Boxes](https://www.amazon.com/dp/B0HG3MQDWP?tag=cubecommonw0a-20) are handsome. They hold booster packs, promo cards, card sleeves, Energy cards, and a player's guide. They are a lovely gift for a kid who already plays. As a way to learn the game, they do less than the box suggests, because there is no ready-made deck inside.
 
 League Battle Decks can wait too. The official site describes them as a way to start playing with higher-power cards common in tournament play. They are a great second or third deck and a big step for a first one.
 
@@ -95,7 +93,7 @@ You do not need to be an expert. A few general checks catch most fakes.
 
 The easiest test: hold a suspect card next to one from a sealed box you bought from a trusted store. Differences jump out side by side. If your kid is trading with friends, a card that looks off probably is.
 
-<!-- VERIFY: whether The Pokémon Company publishes official guidance on spotting counterfeit cards; link it here if so. -->
+The Pokémon Company's own [support page on counterfeit cards](https://support.pokemon.com/hc/en-us/articles/360002068953-Did-I-purchase-fake-or-counterfeit-cards) adds two tips: many fakes show up when you hold them to a bright light, and packs priced far below normal are a strong warning sign.
 
 ## Where kids play: Pokémon League
 
@@ -105,12 +103,12 @@ A few things worth knowing:
 
 - **No experience is needed.** The official site says so, and adds that most players are eager to lend a helping hand.
 - **Leagues often have cards for beginners**, so a kid without a deck can still try it.
-- **Adults run it.** The official parents' page says League locations and Professors, the program's trained event staff, are subject to background checks, and local tournaments are split by age division. <!-- VERIFY: how Play! Pokémon itself describes the Professor role. -->
+- **Adults run it.** The official parents' page says League locations and Professors are subject to background checks, and local tournaments are split by age division. Professors are adults, at least 18, who pass an exam to organize and judge Play! Pokémon events.
 - **Many Leagues hand out small rewards for playing**, like promo cards, stickers, and coins, while supplies last. What you get varies by store.
 
 To find one, use the official [Play! Pokémon Event Locator](https://events.pokemon.com/EventLocator/?locale=en-us). Search near you, look for League events, and check the store's own page before you go, since times shift around holidays and new set releases.
 
-Once your kid attends regularly, they will want a **Play! Pokémon Player ID**, which they need for local tournaments later. Your local League can help you get one, or you can set it up online after a League event. <!-- VERIFY: the current Player ID and parent account steps for children under 13. -->
+Once your kid attends regularly, they will want a **Play! Pokémon Player ID**, which they need for local tournaments later. Your local League can help you get one. For a child under 13, a parent makes a Pokémon Trainer Central account, adds the child to it, and requests the Player ID from the child's profile.
 
 Stay for the first visit. Watch a game or two, meet whoever runs League, and decide together how often to come. Our course lesson on [your first League night](/academy/pokemon-tcg/pokemon-league-first-night/) covers what to bring, how a night runs, and the table manners that make a new player welcome.
 
@@ -118,7 +116,7 @@ In Indianapolis, our guides to [game stores](/articles/indianapolis-board-game-s
 
 ## What age is right for Pokémon cards?
 
-The game is rated for ages 6 and up. That is a fair floor. <!-- VERIFY: age marking on the Battle Academy and Mega Battle Deck boxes. -->
+Battle Academy is rated for ages 6 and up. That is a fair floor.
 
 What matters more than age is reading. Every card has a little text on it, and attacks do different things. A kid who reads comfortably can play on their own. A younger kid can play well with a grown-up or older sibling reading the cards aloud and asking, "Did you attach an Energy this turn?" Battle Academy's guided setup helps a lot here.
 

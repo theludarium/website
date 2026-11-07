@@ -11,7 +11,7 @@ rulesEdition: "Magic: The Gathering Comprehensive Rules effective September 25, 
 rulesSource: "https://media.wizards.com/2026/downloads/MagicCompRules%2020260925.pdf"
 players: "2 to 8"
 playTime: "About 3 hours for a draft and two rounds"
-# Ages left out on purpose: a Cube has no box rating. VERIFY: add an age line from a current Wizards product box if Levi wants one.
+# Ages left out on purpose: a Cube has no box rating. Wizards rates its Magic boxes 13 and up (Foundations Beginner Box), if an age line is ever wanted.
 promise: "Learn what a Cube is, draft and build a deck with confidence, host a night your friends ask to repeat, and start a Cube of your own."
 description: "A free course on Magic: The Gathering Cube draft: how a draft works, how to pick, building your deck, hosting a draft night, and building your own Cube."
 audience:

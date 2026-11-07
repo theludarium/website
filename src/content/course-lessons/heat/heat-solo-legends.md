@@ -65,8 +65,6 @@ With two or three players, the booklet suggests adding Legends, at least two if 
 
 ## Heat: Legends
 
-Days of Wonder also publishes an expansion called [Heat: Legends](https://www.amazon.com/dp/B0GTVG2L9Q?tag=cubecommonw0a-20), listed as adding smarter, tougher automated drivers that slipstream, draft, and clear corners, with new abilities and difficulty settings. It needs the base game.
-
-<!-- VERIFY: whether the Heat: Legends expansion replaces or adds to the base Legends deck, and its player count (its page lists 1 to 5). -->
+Days of Wonder also publishes an expansion called [Heat: Legends](https://www.amazon.com/dp/B0GTVG2L9Q?tag=cubecommonw0a-20), listed as adding six cars driven by smarter, tougher Legends that slipstream, draft, and clear corners, with new abilities and difficulty settings. It needs the base game.
 
 The base box's Legends are enough for everything in this lesson.

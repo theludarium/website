@@ -13,16 +13,12 @@ nextTeaser: "Level 4 begins with the endgame: counting your last actions, spendi
 ---
 Brass: Birmingham plays 2 to 4 players, as Roxley lists it, and the rulebook has setup rules for a two-player game on the same board. It plays well at every count, but it is not the same game at each. Four players fight over a crowded map. Two players share a quiet one. Knowing what changes helps you bring the right plan.
 
-<!-- VERIFY: the Roxley rulebook uses the full board at two players (no locations removed); only cards and merchant tiles change. -->
-
 ## What setup removes
 
 With fewer than 4 players, every card and merchant tile marked for a higher player count goes back in the box.
 
 - **Location cards.** The banner color of each town shows which cards are in the deck. With 3 players, the teal-banner towns' cards are out. With 2 players, the blue and teal towns' cards are out. You can still build in those towns: you just need a Wild Location, or an industry card and a town already in your network.
 - **Merchants.** With 3 players, Nottingham gets no merchant tiles. With 2, neither Nottingham nor Warrington does. Fewer merchants means fewer buyers, fewer barrels of merchant beer, and fewer bonuses.
-
-<!-- VERIFY: check whether the 2-player deck holds any cotton mill or manufacturer industry cards; our count suggests it holds none. -->
 
 ## Longer eras, more actions
 

@@ -31,9 +31,7 @@ The [2-Player Starter Set](https://www.amazon.com/dp/B0HFQBXVPD?tag=cubecommonw0
 - 13 tokens
 - A rulebook
 
-The two decks are built for people new to the game, and they play differently. One leans high-tech and flexible. The other is full of wizards and apprentices. That contrast is useful: each player learns a different style, and after a few games you can swap.
-
-<!-- VERIFY: confirm on the box or a Ravensburger page that this set ties to Hyperia City and released October 23, 2026, what the 13 tokens are (ink drops, damage, or both), and whether its decks are legal in Core Constructed. -->
+The two decks are built for people new to the game, and they play differently. Each has its own theme and style. That contrast is useful: each player learns a different style, and after a few games you can swap.
 
 Pick it when:
 

@@ -45,8 +45,6 @@ The short colors, mines and castles, are the natural races: three tiles each. Bu
 
 The six-space colors are middle races. Towns, at twelve spaces, usually go to a player who has made buildings the center of their game.
 
-<!-- VERIFY: duchy 1 color counts and region sizes were read from the duchy pictured on page 3 of the 2020 English rulebook (it matches the rulebook's own description of duchy 1's towns); confirm against a physical duchy 1 board. -->
-
 ## Reading the race
 
 For each color you care about, count each player's progress in two numbers:

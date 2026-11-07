@@ -19,7 +19,7 @@ Konami runs organized play through **Official Tournament Stores** (OTS). Find on
 
 Konami's new-player page suggests a gentle first step: drop in on a tournament night just to watch and see whether the store suits you. Most stores post their weekly schedule online or on a board by the register.
 
-**Learn to Play events.** Konami's Duel Day page invites new players to learn the game at listed store locations. If your store runs one, it makes a gentle first visit, because teaching is the point. If not, ask the staff whether a regular can walk you through a game before the tournament starts. <!-- VERIFY: the Duel Day locations list showed no stores in October 2026; check it, or ask Konami how Learn to Play events are scheduled now. -->
+**Learn to Play events.** Some stores run learn-to-play or demo events for new players, and Konami runs special events like Yu-Gi-Oh! Day at select stores. Ask your store whether it has one coming up. If it does, it makes a gentle first visit, because teaching is the point. If not, ask the staff whether a regular can walk you through a game before the tournament starts.
 
 ## Before you go: get a CARD GAME ID
 

@@ -78,6 +78,6 @@ One more way to score: if a player must draw from an empty Main Deck, they **bur
 
 When you are done, say so. End of turn effects happen, every unit heals, and "this turn" effects end. Then it is the next player's turn.
 
-<!-- VERIFY: Riot is testing a change to the going-second bonus at select events and plans to announce a decision with the Legacy patch notes. Recheck the first-turn rule when those notes publish. -->
+Riot is testing a change to the going-second bonus and plans to announce a decision with the Legacy patch notes, so this first-turn rule may change in early 2027.
 
 That is the whole skeleton. The rest of the game is in the cards, and the next lesson teaches you to read one.

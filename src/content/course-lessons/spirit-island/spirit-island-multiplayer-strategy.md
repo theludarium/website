@@ -78,8 +78,6 @@ Spirit Island is cooperative, so there is no tournament ladder in the usual sens
 
 Big events do exist. At Gen Con 2024, Greater Than Games ran three Spirit Island Mega events, where many tables each played their own Island against one shared Invader board. The [publisher's report](https://shop.greaterthangames.com/blogs/news/spirit-island-at-gen-con-more) says all three ended in victory.
 
-<!-- VERIFY: check whether Spirit Island Mega events ran at Gen Con 2025 or 2026, or are announced for 2027, and add dates if so. The publisher blog's newest post is from April 2025, and Spirit Island now sits with Flat River Group, not the relaunched Greater Than Games. -->
-
 **Online,** the [digital Spirit Island](https://www.handelabra.com/spiritisland) from Handelabra runs on Steam, iOS, and Android, with online multiplayer. It is a handy way to practice a Spirit between game nights.
 
 **Locally,** we could not find a store locator or organized play program on the publisher's site, so start with your local game store: ask whether anyone runs co-op nights. For rules questions, the publisher's Spirit Island page links the [Spirit Island Wiki](https://spiritislandwiki.com/index.php?title=Main_Page). Our guide on [how to start a play group](/articles/how-to-start-a-play-group/) walks through building your own table. If you are near Indianapolis, join the [Indianapolis list](/lounges/indianapolis/) for first word on local learn-to-play nights as The Ludarium grows.

@@ -54,23 +54,17 @@ A popular combination is Middle Kingdom with Harmony: 15 points for a centered, 
 
 [Age of Giants](https://www.amazon.com/dp/B07FHRW5QL?tag=cubecommonw0a-20) is an expansion for both Kingdomino and Queendomino, released in 2018. It adds giants, which cover crowns in a kingdom and cancel them until they are passed on, along with quest tiles that offer new ways to score. It also adds pieces for a fifth player.
 
-<!-- VERIFY: Age of Giants contents and rules summary (giants covering crowns, quest tiles, fifth-player pieces) against the Blue Orange rulebook, and the current product page URL. -->
-
 Choose it if your group plays the base game often and wants more interaction and more ways to score.
 
 ## Queendomino
 
-[Queendomino](https://www.amazon.com/dp/B076N3VQJG?tag=cubecommonw0a-20) is a standalone game from 2017 by the same designer. It keeps the domino draft and the kingdom building and adds coins, buildings to buy, knights that collect taxes, a dragon, and a queen. It is a heavier game, with more decisions per turn. Blue Orange describes rules for combining it with Kingdomino for larger games.
-
-<!-- VERIFY: the Queendomino and Kingdomino combined rules (player counts and kingdom size) and the current product page URL. -->
+[Queendomino](https://www.amazon.com/dp/B076N3VQJG?tag=cubecommonw0a-20) is a standalone game from 2017 by the same designer. It keeps the domino draft and the kingdom building and adds coins, buildings to buy, knights that collect taxes, a dragon, and a queen. It is a heavier game, with more decisions per turn. Combined with Kingdomino, it seats 3 or 4 players on 7 by 7 kingdoms, 5 or 6 players on 5 by 5 kingdoms, or 6 or 8 players in teams.
 
 Choose it if your group has outgrown the base game and wants more to manage in the same short frame.
 
 ## Kingdomino Origins
 
-[Kingdomino Origins](https://www.amazon.com/dp/B09GXXMVYN?tag=cubecommonw0a-20) is a standalone sequel from 2021, set in prehistoric times. It builds on the same system and comes with three ways to play that add new elements step by step, so a family can grow into it.
-
-<!-- VERIFY: the names and contents of Kingdomino Origins' three modes, and the current product page URL. -->
+[Kingdomino Origins](https://www.amazon.com/dp/B09GXXMVYN?tag=cubecommonw0a-20) is a standalone sequel from 2021, set in prehistoric times. It builds on the same system and comes with three ways to play that add new elements step by step, so a family can grow into it. The first adds fire and volcanoes, which make territories score. The second adds wooden resources. The third adds cavemen, which you bring in with those resources and which score by where they stand.
 
 Choose it if you want a fresh box with the same feel, with room to add more as the table gets comfortable.
 
@@ -82,17 +76,13 @@ Choose it for travel, or for a couple who wants a quick game without the full bo
 
 ## Dragomino
 
-[Dragomino](https://link.amazon/B09WKyU19) is the family's game for young children, built on the same tile-placing idea. It won the Kinderspiel des Jahres, Germany's children's game of the year award, in 2021.
-
-<!-- VERIFY: Dragomino's recommended age and player count from the Blue Orange product page. -->
+[Dragomino](https://link.amazon/B09WKyU19) is the family's game for young children, built on the same tile-placing idea. It won the Kinderspiel des Jahres, Germany's children's game of the year award, in 2021. Blue Orange lists it for 2 to 4 players, ages 5 and up.
 
 Choose it if your kids are too young for the base game. Our guide to [board games for 5-year-olds](/articles/board-games-for-5-year-olds/) has more picks for that age.
 
 ## The Court
 
-Blue Orange released The Court in 2020 as a free print-and-play expansion for the base game, which adds resources, buildings, and court characters to recruit.
-
-<!-- VERIFY: whether The Court is still available from Blue Orange, as print and play or as a retail expansion, and where to download or buy it. -->
+Blue Orange released The Court in 2020 as a free print-and-play expansion for the base game, which adds resources, buildings, and court characters to recruit. It works with Kingdomino or Queendomino. Check Blue Orange's site for how it is offered today.
 
 ## Which one first?
 

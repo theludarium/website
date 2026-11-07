@@ -25,16 +25,16 @@ Building Boom always feeds the biggest settlement on each board. Left alone for 
 
 Every level includes the ones below it. Difficulty comes from the core rulebook's chart; the rest from the adversary panel.
 
-| Level | Name | Difficulty | Fear Cards | What changes |
-| --- | --- | --- | --- | --- |
-| 1 | Indentured Servants Earn Land | 3 | 3/4/3 | Build cards also hit matching lands with no Invaders, if they touch at least 2 Towns or Cities. |
-| 2 | Criminals and Malcontents | 4 | 4/4/3 | During setup, add 1 City to land 1 and 1 Town to land 2 on each board. |
-| 3 | High Immigration (I) | 6 | 4/5/4 | An extra Build space joins the Invader board until a Stage II card reaches it. |
-| 4 | High Immigration (full) | 7 | 4/5/5 | The extra Build space stays all game. |
-| 5 | Local Autonomy | 9 | 4/5/5 | Towns and Cities have +1 Health. |
-| 6 | Independent Resolve | 10 | 4/5/4 | Extra Fear markers, and a double extra Build on turns with no Fear Cards. |
+| Level | Name | Difficulty | What changes |
+| --- | --- | --- | --- |
+| 1 | Indentured Servants Earn Land | 3 | Build cards also hit matching lands with no Invaders, if they touch at least 2 Towns or Cities. |
+| 2 | Criminals and Malcontents | 4 | During setup, add 1 City to land 1 and 1 Town to land 2 on each board. |
+| 3 | High Immigration (I) | 6 | An extra Build space joins the Invader board until a Stage II card reaches it. |
+| 4 | High Immigration (full) | 7 | The extra Build space stays all game. |
+| 5 | Local Autonomy | 9 | Towns and Cities have +1 Health. |
+| 6 | Independent Resolve | 10 | Extra Fear markers, and a double extra Build on turns with no Fear Cards. |
 
-<!-- VERIFY: check the names, rules, and Fear Card splits against the physical England panel; they come from a community transcription. That transcription lists level 6 at Difficulty 11, while the core rulebook's chart says 10. Check which a current printing uses. -->
+Each level on the panel also sets how many Fear Cards to use and how to split them into the three groups, so read that off the panel during setup.
 
 ## Level 1: Builds in empty lands
 
@@ -62,7 +62,7 @@ During setup, add one more Fear marker per player to the Fear Pool, so every Fea
 
 **Watch the capital.** At the start of each Invader Phase, find the land on each board with the most Towns and Cities. Building Boom and High Immigration both feed it. If it reaches 5 or 6, it is the top priority on the board.
 
-**Turn buildings into Fear.** England puts many Towns and Cities on the Island, and each one destroyed generates Fear. The Fear Deck is bigger from level 1 on, but a team that destroys buildings every turn can still reach Terror Level 3, where Towns no longer matter.
+**Turn buildings into Fear.** England puts many Towns and Cities on the Island, and each one destroyed generates Fear. The Fear Deck grows as the levels climb, but a team that destroys buildings every turn can still reach Terror Level 3, where Towns no longer matter.
 
 **Plan for the fourth space.** At levels 3 and 4, treat the High Immigration card like a second Build card. Fast Powers aimed at those lands stop a Build before the Ravage.
 

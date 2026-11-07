@@ -37,19 +37,19 @@ The 2025 format, from the [event preview](https://www.boardgamers.org/wbc25/Prev
 
 The event is marked for experienced players only. That is a fair warning: the field knows the cards and the expansions well. If you plan to enter, learn Prelude, Venus Next, Colonies, and the Hellas and Elysium maps first.
 
-<!-- VERIFY: check the WBC 2027 event list and the Terraforming Mars preview for the next event's format before the convention. -->
+WBC 2027 runs July 24 to August 1. Its event previews come out closer to the convention, so read the new Terraforming Mars preview for any format changes before you go.
 
 ## National circuits and qualifiers
 
 We could not find a world championship run by FryxGames or Stronghold Games. FryxGames does list a Swedish Championship for Terraforming Mars on its [events page](https://fryxgames.se/fryxcon/), set for October 2, 2027. Some countries run their own circuits. In France, a qualifier at the Playin store in Marseille on September 5, 2026, was [part of the French Championship qualification circuit](https://www.play-in.com/en/evenement/14017/terraforming-mars-tournament), with two spots at the national championship up for grabs if 16 players entered.
 
-<!-- VERIFY: check whether FryxGames or Stronghold Games now run an official championship or organized-play program, and add it here. -->
+In the United States, Gen Con's 2026 schedule listed a U.S. National Terraforming Mars Championship, with a preliminary round and a final round for qualified players. Check the Gen Con event list each year to see whether it returns.
 
 Many conventions also run one-off Terraforming Mars tournaments, each with its own house rules. Read the event page for player counts, expansions, and time limits before you sign up.
 
 ## Online play
 
-[Board Game Arena](https://boardgamearena.com/gamepanel?game=terraformingmars) has had Terraforming Mars since March 2024. You play in your browser, with options for Corporate Era, Prelude, Colonies, and several maps. <!-- VERIFY: confirm the Board Game Arena launch date and its current expansion options. --> The site tracks the rules and the bookkeeping for you, which makes it a good place to learn hundreds of cards without slowing a table down.
+[Board Game Arena](https://boardgamearena.com/gamepanel?game=terraformingmars) has had Terraforming Mars since March 2024. You play in your browser, with options for Corporate Era, Prelude, Colonies, and several maps. The site tracks the rules and the bookkeeping for you, which makes it a good place to learn hundreds of cards without slowing a table down.
 
 There is also a digital edition [on Steam](https://store.steampowered.com/app/800270/Terraforming_Mars/), with online multiplayer.
 

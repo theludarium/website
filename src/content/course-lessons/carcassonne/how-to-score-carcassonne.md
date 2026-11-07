@@ -81,7 +81,7 @@ One completed city can touch several fields. It adds 3 points to each of them, s
 - **Using an old rule for small cities.** Under the current rules a completed two-tile city scores 4 points. Some older editions scored it as 2, and players who learned on those boxes sometimes still do. The [World Championship rules page](https://carcassonne-meisterschaft.de/en/tournamentrules.htm) calls out the same difference.
 - **Counting a monastery's empty spaces.** Only tiles that are there count, plus the monastery itself.
 - **Forgetting the tie rule.** Tied players each score in full.
-- **Losing laps on the scoreboard.** Scores often run past the end of the track. Decide before the game how your table will mark a lap, so nobody loses 50 points at the end. <!-- VERIFY: check whether the 2021 Z-Man box includes 50/100 point tiles or a rule for laps on the scoreboard, and name it here if so. -->
+- **Losing laps on the scoreboard.** Scores often run past the end of the track. Decide before the game how your table will mark a lap, so nobody loses 50 points at the end.
 
 <!-- AT OUR TABLE: how Levi runs the final count at his own table, such as who reads the scores out and how the group checks the fields. -->
 

@@ -24,7 +24,7 @@ Before you change a card, know the limits for a constructed deck:
 
 ## Core, Infinity, and rotation
 
-Many store events use **Core Constructed**. Once a year, the four oldest sets rotate out of Core. Since Attack of the Vine!, Core allows only cards from Fabled and every set after it, Hyperia City included. A card from an older set is still legal if it was reprinted, unchanged, in Fabled or later. <!-- VERIFY: whether the 2-Player Starter Set decks are Core legal. -->
+Many store events use **Core Constructed**. Once a year, the four oldest sets rotate out of Core. Since Attack of the Vine!, Core allows only cards from Fabled and every set after it, Hyperia City included. A card from an older set is still legal if it was reprinted, unchanged, in Fabled or later. That goes for starter deck cards too, so check the set on each card before a Core event.
 
 **Infinity Constructed** allows cards from every set, with its own short banned list. Some stores run it on certain nights.
 

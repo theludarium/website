@@ -35,8 +35,6 @@ Every rotation is one sector counterclockwise. Advance the counter each time.
 
 So anything on disc 1 moves with every rotation, anything on disc 2 moves two times in three, and anything on disc 3 moves only once in three. That rhythm is worth learning: look at which disc a target sits on, and you know how often it drifts.
 
-<!-- VERIFY: confirm on a physical board which planets sit on each of the three discs before naming any. -->
-
 ## What happens to probes?
 
 Probes on the discs ride along with them. The discs also have cutouts, which creates two special cases:

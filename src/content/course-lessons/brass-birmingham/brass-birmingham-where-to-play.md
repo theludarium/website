@@ -19,18 +19,14 @@ For several years, the easiest way to play Brass: Birmingham online was its offi
 
 At the time of writing, we could not find a current official way to buy and play Brass: Birmingham online. Fan-made versions exist, but they are not official, so we do not link them here. Check [Roxley's page for the game](https://roxley.com/products/brass-birmingham) and the game's [BoardGameGeek page](https://boardgamegeek.com/boardgame/224517/brass-birmingham) for current options.
 
-<!-- VERIFY: check for a new official or licensed digital edition of Brass: Birmingham, and whether existing owners of the Steam version can still play it, then update this section. -->
-
 ## Local play
 
 - **Your local game store.** Many stores host open game nights. Ask whether anyone plays heavy economic games, and bring your copy. A Brass game needs three hours and a big table, so ask ahead.
 - **Roxley's fan community.** Roxley's site links to a [Brass fan group on Facebook](https://www.facebook.com/groups/brassfans/), a good place to ask about players near you.
-- **Conventions.** Board game conventions often run open gaming late into the night, and heavy games find players there. The [WBC](https://www.boardgamers.org/wbcindex.html) is the obvious one for Brass, and its open gaming runs alongside the tournaments.
+- **Conventions.** Board game conventions often run open gaming late into the night, and heavy games find players there. The [WBC](https://www.boardgamers.org/wbcindex.html) is the obvious one for Brass, and the BPA site has an open gaming page for the convention.
 - **Start your own.** Our guide on [how to start a play group](/articles/how-to-start-a-play-group/) walks through it, from the first invite to a regular night.
 
 If you are near Indianapolis, join the [Indianapolis list](/lounges/indianapolis/) for first word on local learn-to-play nights as The Ludarium grows.
-
-<!-- VERIFY: confirm that WBC open gaming runs alongside the scheduled events at the 2027 convention. -->
 
 ## Finding the right opponents
 

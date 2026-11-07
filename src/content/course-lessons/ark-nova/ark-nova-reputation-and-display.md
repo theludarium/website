@@ -36,15 +36,13 @@ So cards drift toward folder 1 over time. A card out of your range today may sli
 
 ## The wall at 9
 
-You cannot raise your reputation to 10 or higher until your Cards action is on side II. The board marks this with a reminder at space 10. Until then, your counter stops at 9, so reputation you gain there does nothing for your range. <!-- VERIFY: check the FAQ for whether reputation gained at 9 without Cards II is lost or converted. -->
+You cannot raise your reputation to 10 or higher until your Cards action is on side II. The board marks this with a reminder at space 10. Until then, your counter stops at 9, so reputation you gain there does nothing for your range. The rules only turn extra reputation into appeal at the top of the track, so reputation gained at 9 without the upgrade is simply lost.
 
 Reputation tops out at 15. Past that, each reputation you would gain becomes 1 appeal instead.
 
 ## Bonuses on the track
 
 Some spaces on the Reputation track show a bonus. Reach one and you take it at once, one time only. One of the game's four action card upgrades sits on this track, which makes it a real reason to climb even with side I actions.
-
-<!-- VERIFY: list the exact bonuses on the Reputation track and the spaces they sit on, from the game board, and add them here. -->
 
 ## Where reputation comes from
 

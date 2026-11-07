@@ -19,8 +19,6 @@ The [World Boardgaming Championships](https://www.boardgamers.org/) (WBC) is the
 
 The event's [history page](https://www.boardgamers.org/eventhistory/pgd.html) lists every winner. Steven LeWinter won in 2024 and 2025, and the 2025 event drew 74 players. Jim Savarick has won it five times and leads the event's all-time laurels. The [2026 results](https://www.boardgamers.org/wbc_results.html) list Edward Povilaitis as the Power Grid champion.
 
-<!-- VERIFY: the 2026 Power Grid player count from the WBC 2026 event report, once it is posted. -->
-
 ## How the WBC event runs
 
 From the [2026 event preview](https://www.boardgamers.org/wbc26/previews/pgd.html):
@@ -34,7 +32,7 @@ From the [2026 event preview](https://www.boardgamers.org/wbc26/previews/pgd.htm
 
 The event is listed for experienced players only, but the preview also offers a demo to learn the game. If you have played the base game a few times, you can get ready from there.
 
-<!-- VERIFY: the WBC 2027 Power Grid preview for its format, maps, and schedule once it is posted. -->
+That is the 2026 format. Read the 2027 preview once it is posted, since maps and schedules change each year.
 
 ## Table habits worth copying
 
@@ -51,13 +49,9 @@ The last habit alone saves arguments at any table. Route math is where most coun
 
 We could not find a publisher-run championship series or national qualifier for Power Grid. The WBC event, held every year since 2004 apart from a gap in 2020 and 2021, is the long-running tournament we could confirm. Conventions near you may run their own Power Grid events, so check their schedules.
 
-<!-- VERIFY: whether 2F-Spiele or Rio Grande Games runs or endorses any Power Grid championship, and whether any national championship exists, before publishing this section. -->
-
 ## Online play
 
-[BrettspielWelt](https://www.brettspielwelt.de/Spiele/Funkenschlag/), a German online board game site with an English option, offers Funkenschlag, the German name for Power Grid. Online games are a quick way to practice the counting without setting up the board.
-
-<!-- VERIFY: which edition of the rules BrettspielWelt's Funkenschlag uses (its game page describes the classic edition), whether play is free, and whether it runs in a browser or needs a download. -->
+[BrettspielWelt](https://www.brettspielwelt.de/Spiele/Funkenschlag/), a German online board game site with an English option, offers Funkenschlag, the German name for Power Grid. Check its rules page for which edition it follows. Online games are a quick way to practice the counting without setting up the board.
 
 ## Finding local play
 
@@ -66,8 +60,6 @@ You do not need a tournament to find good opponents.
 - **Your local game store.** Many run open game nights. Ask the staff whether anyone brings Power Grid.
 - **Board game meetups.** Libraries and community centers often host them. Our guide to [finding a public game night](/articles/board-game-night-near-me/) shows where to look.
 - **Start your own.** Our guide on [how to start a play group](/articles/how-to-start-a-play-group/) walks through it, and [how to run a board game tournament](/articles/how-to-run-a-board-game-tournament/) helps if you want heats of your own.
-
-<!-- VERIFY: whether Rio Grande Games runs a store locator or organized play program for Power Grid; link it here if so. -->
 
 If you are near Indianapolis, join the [Indianapolis list](/lounges/indianapolis/) for first word on local learn-to-play nights as The Ludarium grows.
 

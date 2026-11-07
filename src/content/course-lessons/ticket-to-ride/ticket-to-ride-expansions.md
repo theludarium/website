@@ -42,7 +42,7 @@ The 2025 edition of [Ticket to Ride](https://link.amazon/B0jh8RB7f) has refreshe
 
 The Mega Game is the version used in the later rounds of the World Boardgaming Championships, which tells you how well it holds up.
 
-<!-- VERIFY: whether the USA 1910 cards match the 2025 edition's card size and art, and whether Days of Wonder sells a refreshed 1910 box. -->
+If you own the 2025 edition, which has new card art, expect the 1910 cards to look different from yours. The rules work the same either way.
 
 ## Ticket to Ride: Europe
 
@@ -58,8 +58,6 @@ The Map Collection boxes are new boards with their own tickets and one or two ne
 - **[Japan and Italy](https://www.amazon.com/dp/B07YCWF42Y?tag=cubecommonw0a-20)** adds bullet trains on Japan and ferries on Italy, and **[Nederland](https://www.amazon.com/dp/B00G3HT1TA?tag=cubecommonw0a-20)** (2 to 5) brings money into the game with bridge tolls.
 
 The Map Collection page also lists The Heart of Africa, Poland, Asia, and Iberia.
-
-<!-- VERIFY: which Map Collection volumes are in print in the US right now, before the gift season links go live. -->
 
 ## For two or three players
 

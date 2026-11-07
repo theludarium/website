@@ -22,7 +22,7 @@ When you declare an attack, play moves from the Battle Step into the Damage Step
 
 A Trap that destroys an attacking monster, for example, is not something you can activate once the Damage Step has begun. Play it in the Battle Step, when the attack is declared. That timing is one of the most common rulings returning players miss.
 
-The rulebook points to a longer Damage Step guide on Konami's site for the finer cases. <!-- VERIFY: the Damage Step page linked in the Version 10 rulebook (yugioh-card.com/en/gameplay/damage_step/) returned an empty page in October 2026; link a current Konami page if one exists. -->
+For the finer cases, Konami's [Damage Step rules page](https://www.yugioh-card.com/eu/play/damage-step-rules/) walks through each part of the step in order.
 
 ## Attacking a face-down monster
 
@@ -70,7 +70,7 @@ A "When ... : You can" effect can only activate if the event that triggers it wa
 
 Most modern cards use "If" for exactly this reason. Older cards with "When" are where the ruling still bites.
 
-<!-- VERIFY: missing the timing is a long-standing Konami ruling but is not spelled out in the Version 10 rulebook text; link an official Konami ruling page if one exists. -->
+The rulebook itself does not spell out missing the timing. It comes from Konami's rulings, so if a "When" card matters in a game at a store, ask the judge.
 
 ## When the rulings get hard
 

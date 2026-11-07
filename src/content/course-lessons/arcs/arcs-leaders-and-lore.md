@@ -61,6 +61,4 @@ Many lore cards give a **new action** tied to a standard one, like Tool-Priests'
 
 For more chaos, deal one extra lore card per player into the row and draft until everyone has one leader and two lore. The rulebook says you can use as many lore cards as you like, with a warning that it can overwhelm the table. Try it once your group knows several leaders.
 
-<!-- VERIFY: if Levi wants per-leader notes, confirm each base and pack leader's text in the Leder card library at cards.ledergames.com before adding them. -->
-
 For how asymmetric powers shape a table in another Leder game, see the [Root factions](/academy/root/) course.

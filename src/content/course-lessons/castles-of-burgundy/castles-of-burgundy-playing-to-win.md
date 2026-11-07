@@ -24,8 +24,6 @@ The [2026 World Boardgaming Championships event preview](https://www.boardgamers
 
 In that system, wins are counted first, so one heat win outranks any number of second places. And in the semifinal and final, only first place counts at all.
 
-<!-- VERIFY: check the WBC 2027 preview for any change to the heat format or advancement numbers before the next convention. -->
-
 ## What that means at the table
 
 Most of your game, playing well and playing to win are the same thing. The difference shows up late, usually in phase D or E, when you can count the scores well enough to know where you stand.

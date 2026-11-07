@@ -20,7 +20,7 @@ A plan needs a date. The [competitive ladder lesson](/academy/riftbound/riftboun
 
 If a premier event is too far to travel, a closer competitive event works just as well as a target. The plan is the same.
 
-<!-- VERIFY: competitor badge prices, registration dates, and the format for the 2027 Regionals and the Dallas Continental, once Riot posts them. -->
+Riot posts badge sales, registration, and format details on each event page. Check yours before you lock in a deck.
 
 ## The four parts of every week
 

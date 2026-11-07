@@ -52,8 +52,6 @@ Green, red, and orange DNA are advanced, and many recipes need at least one. The
 
 Refining costs a worker and two basic DNA for each advanced DNA. If your recipe needs three advanced DNA, refining all of it takes three refinement actions and six basic DNA. Plan which source you will use before you take an expensive recipe. DNA Refinement II, $5 in the market, upgrades your refinement action.
 
-<!-- VERIFY: the conversions and slots printed on the DNA Refinement II tile, before adding refinement math to this lesson. DNA Refinement I (one worker slot, three conversions) was read from the lab board in the Rulebook 2.0 setup picture. -->
-
 ## When passing is the strongest move
 
 A pass turns a scientist into a worker for the Worker Phase. That extra worker can create a dinosaur, raise security, or collect money from Venture Capital. Pass when:

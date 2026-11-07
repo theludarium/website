@@ -63,7 +63,7 @@ You get four chances to flip a card to side II: reaching 2 on the Conservation t
 
 What each upgrade adds:
 
-- **Animals II:** play animals from the display within your reputation range, gain 1 reputation at strength 5, and play animals that require the upgrade. It also plays an animal from slot 1. <!-- VERIFY: check the Animals II table on the card for the number of animals at each strength, including slot 1 and slot 4. -->
+- **Animals II:** play animals from the display within your reputation range, gain 1 reputation at strength 5, and play animals that require the upgrade. It also plays more: 1 animal at strength 1 or 2, and 2 animals from strength 3 up, where side I plays none at strength 1 and a second animal only at 5.
 - **Cards II:** draw from the display within your reputation range, snap from strength 3, and push reputation to 10 and beyond.
 - **Build II:** several different buildings in one action, the Reptile House and Large Bird Aviary, and the spaces marked for upgraded builders.
 - **Association II:** several different tasks in one action up to the strength, one donation for conservation, and a third and fourth partner zoo.

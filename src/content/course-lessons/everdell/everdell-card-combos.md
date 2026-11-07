@@ -19,11 +19,9 @@ Every Critter names a Construction. Build the Construction, and the Critter come
 
 The rulebook's example is the Courthouse and the Judge. The Courthouse gives you a twig, resin, or pebble after each Construction you play. The Judge lets you swap one resource in any card's cost for another. Together, you build more often and you can almost always pay.
 
-Many pairs are named so you can guess them: the Castle hosts the King, the Palace the Queen, the Inn the Innkeeper, the Post Office the Postal Pigeon, the General Store the Shopkeeper, the Twig Barge the Barge Toad. The Ever Tree is special: it can host any one Critter for free.
+Many pairs share a theme, so the names often give them away. The Construction a Critter pairs with is printed in the top left corner of the Critter card, so check there before you plan around a pair. The Ever Tree is special: it can host any one Critter for free.
 
-<!-- VERIFY: confirm each named Construction and Critter pair against the printed cards before publishing. Only Courthouse and Judge, and the Ever Tree's any-Critter link, are confirmed in the rulebook text. Also confirm that Farm and Mine are Common Constructions. -->
-
-What makes a pair a real combo is when both halves help each other beyond the free play. Castle and King both score at the end. Inn and Innkeeper both make Critters cheaper in different ways. Look for pairs like that first.
+What makes a pair a real combo is when both halves help each other beyond the free play. Courthouse and Judge are the model: one pays you after each Construction, the other helps you pay for the next card. Look for pairs like that first, where both cards score at the end or both make your next card cheaper.
 
 ## Family 2: the Farm chain
 
@@ -72,7 +70,7 @@ With all three, every card you play gives you something back, and the Historian'
 
 A combo needs somewhere to land. Purple cards are the landing spots:
 
-- **Castle** counts Common Constructions, like Farms and Mines.
+- **Castle** counts Common Constructions, like Farms.
 - **School** counts Common Critters.
 - **Palace** and **Theater** count Unique Constructions and Unique Critters.
 - **Ever Tree** counts purple cards.

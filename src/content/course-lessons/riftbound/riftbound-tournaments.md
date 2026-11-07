@@ -36,19 +36,17 @@ Competitive Riftbound is mostly **constructed**: you bring a deck you built befo
 
 Riot is testing changes to the going-second bonus at a few events, aiming for closer win rates between going first and second. It plans to announce a decision with the Legacy patch notes.
 
-<!-- VERIFY: the result of the start-of-game test once the Legacy patch notes publish, and update the turn lesson and the best-of-three lesson if the rule changes. -->
-
 ## The ladder for 2027
 
 Riot reshaped the competitive path for 2027 in its August 2026 State of Play:
 
-- **Summoner Skirmish** events, the old store-level competitive tier, retire after Radiance. They are replaced by the **Riftbound Challenge Series**, a new on-ramp to competitive play, and the **Nexus Cup**, a monthly local event.
+- **Summoner Skirmish** events, the old store-level competitive tier, retire after Radiance. They are replaced by the **Riftbound Challenge Series**, a new on-ramp to competitive play, and the **Nexus Cup**, a once-per-set store event that crowns the store's best player and does not feed into the ladder.
 - **Showdown Series** events, run by third-party organizers, expand to more regions.
-- **Riftbound Regionals,** formerly Regional Qualifiers, run generally three to four times per set, and they qualify players for Continentals. <!-- VERIFY: whether Regionals need an invitation or are open entry. -->
+- **Riftbound Regionals,** formerly Regional Qualifiers, run generally three to four times per set, and they qualify players for Continentals. They need no invitation: anyone with a competitor badge can play the main event.
 - **Riftbound Continentals,** formerly Regional Championships, run four times a year, one per set. Day one is an open qualifier for players without an invitation.
 - **The Riftbound World Championship** caps the season. Riot has not yet posted a date or place.
 
-<!-- VERIFY: how to enter the Riftbound Challenge Series and the Nexus Cup once Riot posts player details. -->
+Challenge Series events run once per set at select stores in the Riftbound Gaming Network, and the winner earns a token for a free Regional competitor badge. Both the Challenge Series and the Nexus Cup are listed by stores on the event search, where you register.
 
 ## Dates on the calendar
 
@@ -60,7 +58,7 @@ Riot has announced the first premier events of the Legacy season:
 
 An Oceania Regional is also planned for the Legacy season. Regionals run three days. A competitor badge gets you into the main event on days two and three; an attendee badge covers side events and community activities. See Riot's [early 2027 events post](https://playriftbound.com/en-us/news/organizedplay/riftbound-premier-play-early-2027-events) for details.
 
-<!-- VERIFY: badge prices and registration dates for the 2027 Regionals and the Dallas Continental. -->
+Badge sales and registration dates are posted on each event page, so check there before you book travel.
 
 ## Is a big event right for you?
 

@@ -22,8 +22,6 @@ Do the whole setup from the [how to play lesson](/academy/ark-nova/how-to-play-a
 - **Map A for everyone.** The rulebook recommends it for a first game. All four copies are identical and generous, and each starts with a free 3-space enclosure next to the kiosk.
 - **The official starting decks.** Capstone's [Ark Nova page](https://capstone-games.com/products/ark-nova) offers suggested starting hands with tips for the first moves. They skip the hardest choice of the night: keeping 4 cards out of 8 before you know what any of them do.
 
-<!-- VERIFY: confirm the starting decks PDF is still linked from Capstone's Ark Nova product page, and update the link if it moved. -->
-
 If you are not using the starting decks, the rulebook's own advice is to keep 1 or 2 sponsors and 2 or 3 animals, avoid cards with conditions you cannot meet early, and favor icons that match the base conservation projects. Say that out loud while people choose.
 
 ## Minutes 1 and 2: the goal

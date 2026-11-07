@@ -62,9 +62,7 @@ Put the table next to the board and three habits follow.
 
 ## Tickets have odds too
 
-Ticket draws follow the same logic. In a fresh deck of 33, there are only 5 tickets worth 20 or more. Three random tickets contain at least one of them about 40% of the time. Most draws are made of medium and short tickets, so draw for the ones that fit your network, not for the big numbers.
-
-<!-- VERIFY: the 40% figure assumes all 33 tickets are in the deck with the values used in the ticket value lesson; recompute if the 2025 cards differ. -->
+Ticket draws follow the same logic. In a fresh deck of 33, only a handful of tickets, about one in seven, are worth 20 or more. So most draws of three contain none of them. Most draws are made of medium and short tickets, so draw for the ones that fit your network, not for the big numbers.
 
 ## The habit
 

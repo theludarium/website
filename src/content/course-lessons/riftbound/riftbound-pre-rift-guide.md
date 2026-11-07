@@ -17,7 +17,7 @@ It is also the best event for a new player. Nobody has seen the cards before, so
 
 ## What is in the kit?
 
-Kits change from set to set. For Radiance, Riot listed:
+Kits change from set to set, so check Riot's post for the newest set. For Radiance, Riot listed:
 
 - **Five Radiance booster packs.**
 - **A champion pack** themed around one of nine Legends, holding a Legend, a Rare champion, a battlefield, and supporting cards.
@@ -26,8 +26,6 @@ Kits change from set to set. For Radiance, Riot listed:
 That kit is Riot's Pre-Rift package, not the standard sealed pool. The Tournament Rules' default sealed format gives each player 6 booster packs, so a sealed event outside a Pre-Rift may hand out 6 boosters and no champion pack. The deck building rules below are the same either way.
 
 The organizer provides extra runes, and tokens can be anything handy. If you don't like your battlefields, you can use a facedown card as a blank battlefield with no text.
-
-<!-- VERIFY: the Legacy Pre-Rift kit contents once Riot posts them, and update this list for the newest set. -->
 
 ## The sealed deck rules
 
@@ -72,4 +70,4 @@ Draft already has rules. In the Tournament Rules, each player gets **three packs
 
 If draft is new to you, our explainer on [card drafting](/articles/card-drafting-explained/) covers how pick-and-pass works and how to read what your neighbors are taking. The [draft strategy lesson](/academy/riftbound/riftbound-draft-strategy/) in Level 3 goes deeper.
 
-<!-- VERIFY: whether stores run Legacy draft events at launch, and whether the Legacy Pre-Rift itself is sealed or draft. -->
+Ask your store whether its Legacy Pre-Rift is sealed or draft, since the store sets the format.

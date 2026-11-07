@@ -5,12 +5,10 @@ order: 310
 wave: "3"
 draft: false
 publisher: "Dire Wolf"
-# VERIFY: no Dire Wolf fan content or IP policy turned up in research. The base rulebook credits "DUNE © 2020 Legendary" and says the game is published under license from Gale Force Nine; the Uprising page says "DUNE © 2026 Legendary". No public trademark record tying "Dune" to Herbert Properties LLC was found, so the notice names the companies and uses "their respective owners". Confirm the wording with Dire Wolf if a stricter line is wanted.
 notice: "Unofficial. Not affiliated with or endorsed by Dire Wolf, Gale Force Nine, Legendary, or Herbert Properties LLC. Dune and Dune: Imperium are trademarks of their respective owners."
 rulesEdition: "Dune: Imperium rulebook (Dire Wolf, October 2020 file, current on the official rules page), Uprising main rulebook and Rules Supplements (October 2023), and the official Errata and FAQ (January 13, 2025)"
 rulesSource: "https://d19y2ttatozxjp.cloudfront.net/pdfs/DUNE_IMPERIUM_Rules_2020_10_26.pdf"
 players: "1 to 4 (Uprising: 1 to 6)"
-# VERIFY: play time and ages are not printed on the rulebooks or Dire Wolf's product pages; confirm against the box.
 playTime: "60 to 120 minutes"
 ages: "Ages 14 and up (Uprising: 13 and up)"
 promise: "Learn Dune: Imperium and Uprising, teach them in ten minutes, and play every card, Agent, and troop like it matters."

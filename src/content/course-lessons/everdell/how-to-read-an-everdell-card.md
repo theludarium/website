@@ -59,9 +59,7 @@ Small symbols stand in for twigs, resin, pebbles, berries, cards, and point toke
 
 ## The small number: cards in the deck
 
-Each card also prints how many copies of it are in the deck, in a small marker beside the type icon on the rulebook's diagram. This tells you whether a card you want is likely to turn up again. A card with many copies will come around; a card with one copy you see in the Meadow might be your only chance.
-
-<!-- VERIFY: check a physical card for where the "cards in deck" count sits and how it is drawn, and update this section if the 3rd edition layout differs from the rulebook's diagram. -->
+Each card also prints how many copies of it are in the deck. The rulebook's card diagram labels it "Cards in Deck", a small marker near the type icon. This tells you whether a card you want is likely to turn up again. A card with many copies will come around; a card with one copy you see in the Meadow might be your only chance.
 
 ## The bottom: the Critter a Construction hosts
 

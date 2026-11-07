@@ -47,7 +47,7 @@ How many players reach Day 2 depends on the event, so check its page. The Top 8 
 
 In the Advanced Main Event, finishing in the Top 32 earns an invite to your region's next World Championship Qualifier. If attendance reaches 2,049 or more, places 33 to 64 earn one too. The winner also gets travel and lodging to that WCQ, for winners from North, Central, and South America. Invites go to your home region's WCQ, wherever you earned them.
 
-The Genesys Main Event does not lead to a WCQ. Konami's YCS FAQ refers to a separate Genesys Championship and says more Genesys news is coming, so check the event page for what a Genesys finish earns. <!-- VERIFY: what a Top finish in a YCS Genesys Main Event earns, and any Genesys Championship dates. -->
+The Genesys Main Event does not lead to a WCQ. At recent YCS events, a Top 32 finish in it has earned an invite to the next Genesys Championship instead, and Konami says that championship is invite-only starting in 2027. Prizes vary by event, so check the event page.
 
 You do not need a Top 32 to have a great weekend. Many players go for the Public Events, the trading, and the room itself.
 

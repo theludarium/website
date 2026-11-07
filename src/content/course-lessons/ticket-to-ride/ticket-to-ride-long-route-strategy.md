@@ -34,7 +34,7 @@ The [ticket value lesson](/academy/ticket-to-ride/ticket-to-ride-destination-tic
 
 ## The long routes on the USA map
 
-The USA board has only 9 routes of 6 trains: Seattle to Helena, Portland to Salt Lake City, Los Angeles to El Paso, Calgary to Winnipeg, Helena to Duluth, Winnipeg to Sault Ste. Marie, Duluth to Toronto, El Paso to Houston, and New Orleans to Miami. Most run across the West, the North, or the Gulf Coast. Add the 10 routes of 5 trains and that is the whole list of high-efficiency claims. <!-- VERIFY: the list and count of 6-train and 5-train routes against the 2025 board. -->
+The USA board has only 9 routes of 6 trains: Seattle to Helena, Portland to Salt Lake City, Los Angeles to El Paso, Calgary to Winnipeg, Helena to Duluth, Winnipeg to Sault Ste. Marie, Duluth to Toronto, El Paso to Houston, and New Orleans to Miami. Most run across the West, the North, or the Gulf Coast. Add the 10 routes of 5 trains and that is the whole list of high-efficiency claims.
 
 None of the 6-train routes is a double route, so each one can be claimed exactly once a game.
 

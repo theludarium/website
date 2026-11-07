@@ -11,7 +11,7 @@ oneIdea: "With two players, every shared resource is a duel. Fewer open project 
 tryThis: "In your next two-player game, before each turn, name the one project level your rival is closest to. When you can take it first without hurting your own plan, do."
 nextTeaser: "Next, your Final Scoring card: how to choose which to keep, when to commit, and how to squeeze its last point."
 ---
-Ark Nova plays 1 to 4 players, with a solo mode in the base box. With two, the rules block one level on each base conservation project and three donation spaces, and the rest of the game plays as written. <!-- VERIFY: Capstone lists the Marine Worlds expansion as 2 to 4 players; check its rulebook for solo rules before saying anything about it. -->
+Ark Nova plays 1 to 4 players, with a solo mode in the base box. With two, the rules block one level on each base conservation project and three donation spaces, and the rest of the game plays as written.
 
 ## How many players
 
@@ -34,8 +34,6 @@ From the setup rules:
 - **Blocked levels.** Six tokens of an unused color cover the left level of the left base project, the middle level of the middle one, and the right level of the right one. Nobody can use those.
 - **Blocked donations.** The same tokens cover the three spaces in the left column of the donation area.
 - **A shorter project card row** above the association board. The row holds 2, 3, or 4 cards depending on player count, so at two a new project card pushes old ones off fastest.
-
-<!-- VERIFY: confirm that the two-player project card row above the association board holds 2 cards, from the setup diagram or board. -->
 
 Each base project now has only two open levels. That is the biggest change in the game.
 

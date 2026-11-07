@@ -30,7 +30,7 @@ When a Lights Out Prisoner moves, the rules are different from a lit move. You d
 
 So a blind step costs one tile from the Draw Stack, where a lit step can cost several. The catch is that you commit to the step before you know what is there, and the tile you draw might be a Monster.
 
-If you move onto a Monster tile, it attacks at once. You stay Lights Out, discard 3 tiles, and scramble onto an existing adjacent tile or a newly drawn one. The rules also say the attack can hit other Prisoners, so a blind step near friends can cost the group more than one penalty. <!-- VERIFY: who else a Monster hits when a Lights Out Prisoner moves onto it (Dized says "any other connected Prisoners") -->
+If you move onto a Monster tile, it attacks at once. You stay Lights Out, discard 3 tiles, and scramble onto an existing adjacent tile or a newly drawn one. The attack also hits any other Prisoners connected to you, so a blind step near friends can cost the group more than one penalty.
 
 Because a Lights Out Prisoner has to move every turn, think one step ahead for them. Ask which way leads toward a lit Prisoner, and which way only leads deeper into the dark.
 

@@ -15,9 +15,9 @@ At Level 1 you learned to keep tickets that point the same way. Now you can put 
 
 ## The rule: one point per train
 
-We traced the shortest path for all 33 tickets in the current box. For 28 of them, the ticket's value is exactly the number of trains on its shortest path. The other 5 are worth 1 or 2 points more than the shortest path, never less. <!-- VERIFY: these counts use the route list from the USA map lesson and the 30 original ticket values plus the 3 new ones; check against the 2025 cards, since the USA 1910 reprint lowered 4 original values and the 2025 deck may differ. -->
+We traced the shortest path for every ticket, using the values on the original cards. For the large majority, the ticket's value is exactly the number of trains on its shortest path. The rest are worth a point or two more.
 
-A few examples:
+A few examples from the original cards:
 
 | Ticket | Value | Shortest path in trains |
 | --- | --- | --- |

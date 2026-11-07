@@ -24,7 +24,7 @@ The WBC's [2026 Brass preview](https://www.boardgamers.org/wbc26/Previews/brs.ht
 
 The 2026 event was won by Josh Boley, according to the WBC's [2026 winners list](https://www.boardgamers.org/wbc_results.html). Earlier champions, back to Bruce Hodgins in 2010, are on the event's [winners page](https://www.boardgamers.org/winners/BRS.html).
 
-WBC 2027 is scheduled for July 24 to August 1, 2027, according to the [WBC page](https://www.boardgamers.org/wbcindex.html). <!-- VERIFY: check the 2027 venue, and the 2027 Brass preview for any change to version, format, or round length, once it is posted. -->
+WBC 2027 is scheduled for July 24 to August 1, 2027, according to the [WBC page](https://www.boardgamers.org/wbcindex.html). Version, format, and round length can change from year to year, so read the current Brass preview before you go.
 
 ## How the heats are scored
 

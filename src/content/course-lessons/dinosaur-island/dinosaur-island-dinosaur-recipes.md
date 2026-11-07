@@ -36,8 +36,6 @@ That means a large carnivore always costs your level 3 scientist, the one you wo
 
 **Carnivores** add 2 threat each, so every carnivore usually needs two security raises to stay safe. They often need advanced DNA. In return, they tend to bring more excitement per dinosaur and score more per exhibit.
 
-<!-- VERIFY: compare the excitement and VP values on herbivore and carnivore recipe tiles before stating how much more carnivores give. -->
-
 Neither is better in general. Herbivores fit a park short on workers or money. Carnivores fit a park with spare workers for security and a DNA supply that includes advanced types.
 
 ## Stack or spread?

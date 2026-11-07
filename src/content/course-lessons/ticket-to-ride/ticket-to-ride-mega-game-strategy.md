@@ -24,7 +24,7 @@ The Mega Game comes from the [USA 1910 expansion](https://www.amazon.com/dp/B000
 
 Everything else is the base game: 45 trains, the same cards, the same route scoring, and the same end trigger.
 
-<!-- VERIFY: how the USA 1910 rulebook settles a tie for the Globetrotter bonus, and whether WBC uses its own ruling. -->
+The 1910 rulebook does not say how to break a tie for the Globetrotter, and the 2026 WBC preview does not either. The simplest reading treats it like the longest path card, where every tied player scores the bonus. Agree on it before you start, or ask the game master at an event.
 
 ## Why it plays differently
 
@@ -67,7 +67,7 @@ Note how WBC breaks a tied game: first the longest train award, then most ticket
 
 WBC rounds are scheduled for 2 hours, and Mega Games with four players run long, because everyone has more tickets to think about. Practice playing at a steady pace. Plan during other players' turns, keep your hand sorted by color, and know your next claim before your turn comes.
 
-<!-- VERIFY: what WBC does if a Mega Game is unfinished when the 2-hour round ends; the 2026 preview lists only the round length. -->
+The preview does not say what happens if a game is still running when the slot ends, so ask the game master before you start.
 
 ## Practice the format
 

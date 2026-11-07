@@ -38,29 +38,21 @@ The [2026 event preview](https://www.boardgamers.org/wbc26/Previews/cob.html) la
 
 The preview also states the event's first rule: the main goal is to have fun.
 
-<!-- VERIFY: check the WBC 2027 event list for the Castles of Burgundy event's dates, boards, and format before the next convention. -->
-
 ## The World Series of Board Gaming
 
 The [World Series of Board Gaming](https://wsbgvegas.com/) (WSBG) is a five-day tournament in Las Vegas that aims to crown the best all-around board gamer. It runs 16 ring tournaments, one per game. Each ring winner moves on to the semifinals, and the overall champion wins $25,000. Its competitive events are for players 18 and up.
 
-The Castles of Burgundy had a ring event in 2025: the Dice Tower broadcast the [ring championship final](https://dicetower.com/video/castles-burgundy-ring-championship-world-series-board-gaming-2025). The 2027 event is set for September 24 to 28, 2027.
-
-<!-- VERIFY: check the 2027 WSBG ring games list to confirm The Castles of Burgundy is still one of the 16 ring games. -->
+The Castles of Burgundy had a ring event in 2025: the Dice Tower broadcast the [ring championship final](https://dicetower.com/video/castles-burgundy-ring-championship-world-series-board-gaming-2025). The 2027 event is set for September 24 to 28, 2027, and its schedule lists The Castles of Burgundy as a ring game on the first day.
 
 ## Is there an official championship?
 
 We could not find an official championship or qualifier circuit run by Ravensburger or alea for this game. The WBC and WSBG events are run by their own organizers.
-
-<!-- VERIFY: confirm Ravensburger or alea does not run an official Castles of Burgundy championship or store event program, and add it here if one exists. -->
 
 ## Online play
 
 [Board Game Arena](https://boardgamearena.com/gamepanel?game=castlesofburgundy) has The Castles of Burgundy in your browser for 2 to 4 players, free to play, with more than 4.5 million games played since it arrived in 2021. It also has ranked play.
 
 Check the settings before you play ranked games. Tables can use the first edition rules, which differ from your box on a few monastery tiles, or the 2019 edition rules. One setup option gives every player the same randomly chosen duchy. Identical duchies are good practice: everyone faces the same puzzle, so the scores compare cleanly.
-
-<!-- VERIFY: check the current BGA Arena season settings (edition, duchy setup) and whether seasons crown a champion before describing them. -->
 
 Online play is also the fastest way to get many games in, and the timer helps you think faster. Our guide to [playing with long-distance friends](/articles/playing-board-games-with-long-distance-friends/) covers setting up private games too.
 

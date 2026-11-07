@@ -10,6 +10,8 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import CourseForm from '@/components/CourseForm.astro';
 import CourseNotice from '@/components/CourseNotice.astro';
+import TeachCardsOffer from '@/components/TeachCardsOffer.astro';
+import { teachCardPack } from '@/lib/teach-cards';
 import {
   FORMAT_LABEL,
   courseLessonUrl,
@@ -85,6 +87,7 @@ const structuredData = [
     ],
   },
 ];
+const pack = teachCardPack(course.id);
 ---
 
 <BaseLayout title={pageTitle} description={d.description} noindex={d.draft} games={d.games}>
@@ -269,6 +272,8 @@ const structuredData = [
       </div>
     </div>
   </section>
+
+  {pack && <TeachCardsOffer pack={pack} />}
 
   {
     related.length > 0 && (

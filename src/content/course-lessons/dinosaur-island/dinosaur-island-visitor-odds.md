@@ -59,8 +59,6 @@ When you plan dinosaurs for the next few rounds, think in margins:
 
 This round is easier: the holding die is set aside at the end of Research, so you know it before the Worker Phase and can buy exactly the security you need. The margins matter for later rounds, for the money you set aside, and for the Chaos Threat Theory variant, which rerolls the holding die in the Park Phase.
 
-<!-- VERIFY: the threat pip faces on each DNA die, to add the odds that the leftover dice include a 3 pip face. -->
-
 ## What a loose dinosaur costs
 
 Patrons inside your park are eaten first. Each one costs the 1 VP penalty and the 1 VP it would have scored. So each point of threat over security usually costs about 2 VP.

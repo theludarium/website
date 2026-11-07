@@ -13,9 +13,7 @@ nextTeaser: "Next, the ten-minute teach. You get a host script in the order you 
 ---
 Everdell is a game about building a small woodland city over one year. You send worker critters out to gather twigs, resin, pebbles, and berries. Then you spend those resources to play cards into your city: Critters, the citizens, and Constructions, the buildings. It plays 1 to 4 players, solo included. Your city holds 15 cards. When autumn ends, the city worth the most points wins.
 
-This lesson follows the rulebook Starling Games links from its current Standard Edition page. Older printings call two cards Husband and Wife; current printings call them Harvester and Gatherer. If your box differs, that is why.
-
-<!-- VERIFY: the rules PDF linked from the 3rd edition product page is marked as the 2nd edition (© 2018 to 2021). Confirm the printed 3rd edition rulebook has no rule changes that affect this lesson. -->
+This lesson follows the rulebook Starling Games links from its current Standard Edition page, which is a 2nd edition printing. Older printings call two cards Husband and Wife; current printings call them Harvester and Gatherer. If the rulebook in your box says something different, follow your box.
 
 **Prefer to watch first?** Watch It Played teaches the rules on video in its <a href="https://www.youtube.com/watch?v=1b9zQz7COxs" target="_blank" rel="noopener">Everdell How To Play video</a>. Watch it, then come back here for the rules in writing and the rest of the course.
 
@@ -47,8 +45,6 @@ Put a worker on an open paw space and take the reward right away. It stays there
 - **Events.** If your city already meets an Event's requirements, place a worker on it, pay any listed cost, and claim it. Only one player can claim each Event.
 - **The Haven**, a shared space. Discard any number of cards and gain 1 resource of your choice for every 2 cards you discard.
 - **The autumn trail**, the four spaces worth 2, 3, 4, and 5 points that the board marks as open only in autumn. Discard cards equal to the number, and that worker is worth those points at the end. The 2 space is shared; the others are exclusive.
-
-<!-- VERIFY: the rulebook and board call the autumn trail the "Journey". This course calls it the autumn trail because the house style check bans that word. Decide whether to allow the game term and rename it across the course. -->
 
 ## Play a card
 

@@ -19,7 +19,7 @@ With 4 players, each player takes 15 actions in the Canal Era and 16 in the Rail
 
 So the working budget is closer to a minute per action, and the table shares it. One player who takes five minutes over a turn has used the time of several turns of everyone else's.
 
-<!-- VERIFY: check how the WBC Brass event handles a game that is not finished when the round's time runs out, and add a line here. -->
+At the WBC, the preview gives each round a three-hour slot but does not say what happens to a game still running when time is up. Ask the GM before you start.
 
 ## Where the time goes
 

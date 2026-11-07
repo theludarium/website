@@ -86,7 +86,7 @@ If your left neighbor leads maki by one icon over you and the hand you are passi
 
 With two, first place scores 6 and second scores 3, so the race is mostly a 3-point difference between the players. Maki matters less at two than at any other count. Take it when it is cheap, and do not give up a set to chase it.
 
-<!-- VERIFY: whether a player with no maki icons can score second place (for example, at two players when only one player took maki). The rules do not say directly. -->
+One gap: the rules do not say whether a player with no maki at all can take second place. At two, that matters when only one of you took maki, so settle it before you play.
 
 ## The habit
 

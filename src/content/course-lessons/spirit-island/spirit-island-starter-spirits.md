@@ -34,15 +34,11 @@ Lightning is speed and destruction. Its Special Rule lets it use some Slow Power
 
 The rulebook names Lightning as a Spirit good at wrecking Towns. Use that. Aim it at the buildings that are about to Ravage, and let a teammate handle the scattered Explorers. Watch your Energy: playing many cards is only useful if you can pay for them.
 
-<!-- VERIFY: check Lightning's Swift Strike's panel: the Special Rule (Slow Powers used as Fast, one per Air?). The Innate Power and the low Energy track were checked against the publisher's product photo of the panel. -->
-
 ## River Surges in Sunlight
 
 River is a Spirit of Wetlands and movement. Its Special Rule treats its Presence in Wetlands as Sacred Sites, so a single Presence in a Wetland can use Powers that need a Sacred Site. Its Innate Power, fueled by Sun and Water, Pushes Invaders out of a land and, at higher thresholds, Damages them too.
 
 Pushing is a quiet superpower. Push the lone Explorer out of a land before it Builds, and that land gets no Town. Move Dahan into a land that is about to Ravage, and they fight back, as in the rulebook's own Gather and Push example. River rewards players who like to think about where pieces should be, not just which ones to destroy.
-
-<!-- VERIFY: check River Surges in Sunlight's panel: the Special Rule (Presence in Wetlands counts as a Sacred Site?) and the Innate Power's Sun and Water thresholds and effects. -->
 
 ## Vital Strength of the Earth
 
@@ -50,15 +46,11 @@ Vital Strength is the Island's shield. Its Special Rule gives Defend 3 in every 
 
 The rulebook names it as a Spirit that can prevent Ravages, and for that reason calls Sweden easier for it. Build Sacred Sites in the lands the Ravage card is heading for, and keep Dahan alive there: Defend protects them too, and surviving Dahan fight back. A team with Vital Strength can afford to let its damage dealers grow.
 
-<!-- VERIFY: check Vital Strength of the Earth's panel: the Special Rule (Defend 3 in each land with its Sacred Site?) and the Innate Power (Repeat a Power Card by paying its cost again, with a cost limit set by Elements?). -->
-
 ## Shadows Flicker Like Flame
 
 Shadows is fear and trickery. Its Special Rule lets it pay Energy to reach any land with Dahan, however far away, so it can show up where nobody expects. Its Innate Power, fueled by Moon and Fire, picks off Explorers and generates Fear.
 
 The rulebook calls Shadows the trickiest starter and notes that it relies on moving and destroying Explorers to stop Invader Builds. That makes it great at keeping lands clean early, and the rulebook marks England, which builds relentlessly, as harder for it. Shadows also feeds the Fear race from the Fear lesson, so the whole team reaches higher Terror Levels sooner.
-
-<!-- VERIFY: check Shadows Flicker Like Flame's panel: the Special Rule (pay 1 Energy to target a land with Dahan regardless of Range?) and the Innate Power's Moon and Fire thresholds. -->
 
 ## Pairing them
 

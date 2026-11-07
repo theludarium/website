@@ -42,7 +42,7 @@ The preview also lists a few special procedures:
 
 The event is popular. Its [event history](https://www.boardgamers.org/eventhistory/azl.html) shows 190 players in 2022, 205 in 2023, 229 in 2024, and 220 in 2025.
 
-<!-- VERIFY: check the WBC 2027 event list for the Azul event's dates and format before the next convention. -->
+Dates and formats change each year, so read the current preview before you go.
 
 ## The Azul World Championship
 
@@ -54,7 +54,7 @@ In early 2024, Plan B Games, Asmodee, and Board Game Arena ran an Azul World Cha
 
 Each qualifier winner earned a trip to the final. It is a fitting home for the game: Azul's theme comes from the painted tiles of Portugal.
 
-<!-- VERIFY: whether Plan B Games or Asmodee has announced another Azul World Championship, and its dates and qualifier path, before publishing. -->
+We have not seen a later world championship announced. If another one comes, Board Game Arena and the publisher are the places it will likely show up first.
 
 ## Online play
 

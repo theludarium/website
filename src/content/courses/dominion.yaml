@@ -5,13 +5,11 @@ order: 360
 wave: "4"
 draft: false
 publisher: "Rio Grande Games"
-# VERIFY: no Rio Grande Games fan content or IP policy was found; this is the default notice pattern.
 notice: "Unofficial. Not affiliated with Rio Grande Games. Dominion is a trademark of Rio Grande Games."
 rulesEdition: "Dominion rulebook, second edition (Rio Grande Games, 2016)"
 # The official PDF, linked as the manual by the licensed Temple Gates digital edition. The copy on riograndegames.com could not be opened.
 rulesSource: "https://store.steampowered.com/manual/1131620"
 players: "2 to 4 (5 or 6 with the Base Cards set)"
-# VERIFY: play time and ages from the second edition box or the Rio Grande product page.
 playTime: "About 30 minutes"
 promise: "Learn Dominion, teach it in ten minutes, and turn seven Coppers and three Estates into a deck that buys Provinces on time."
 description: "A free Dominion course: learn the rules, teach them in ten minutes, then master openings, engines, Big Money, Province math, expansions, and tournament play."

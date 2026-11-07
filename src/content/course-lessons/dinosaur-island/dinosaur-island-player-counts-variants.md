@@ -13,8 +13,6 @@ nextTeaser: "Level 4 begins with the solo game: seven rounds, an AI deck that ta
 ---
 Dinosaur Island plays 1 to 4 players, with a solo mode in the base box. The Totally Liquid expansion adds pieces for a fifth player.
 
-<!-- VERIFY: Totally Liquid's 1 to 5 count comes from retailer listings; confirm on a Pandasaurus page or the Totally Liquid rulebook. -->
-
 The core rules stay the same at every count, but a handful of setup numbers change, and they change how crowded the shared phases feel. This lesson covers those differences, the plot twists that make each game feel new, and the two official variants.
 
 ## How many players
@@ -81,7 +79,7 @@ Play without plot twist cards. The rulebook offers this to keep the most long-te
 
 In the Park Phase, reroll the die in the holding area and use the new result instead of the original. Normally you know the holding die before the Worker Phase and can buy exactly the security you need. With Chaos Threat Theory, you cannot. You must choose a margin: base threat plus 3 is always safe; less is a gamble. [The visitor odds lesson](/academy/dinosaur-island/dinosaur-island-visitor-odds/) covers what each point of shortfall costs.
 
-<!-- VERIFY: under Chaos Threat Theory, whether a reroll is made when no die was set aside; the rule text assumes a die is in the holding area. -->
+The variant's rule assumes a die is waiting in the holding area. If a round ever ends Research with none set aside, agree as a table how to handle it before you play on.
 
 ## Choosing a setup for your group
 

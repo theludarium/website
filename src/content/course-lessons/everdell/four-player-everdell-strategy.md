@@ -36,8 +36,6 @@ The tournament randomizes seats, so plan for any of them.
 
 Read your seat as a plan. With 5 cards, the first placements often should draw cards. With 8, your hand already has options; your early placements can buy resources for them.
 
-<!-- VERIFY: the WBC preview says setup follows the rules except for choosing the start player but does not say how the start player is chosen; check with the GM or the event's posted rules before the next WBC. -->
-
 ## Reading three cities
 
 At two players you watch one city. At four, the skill is tracking three without slowing the game. Keep it simple and track only what decides races:
@@ -79,9 +77,7 @@ The full ranking format and game-level tiebreakers are in the tournaments lesson
 
 ## Tie at the table
 
-The rulebook breaks a tie by most Events, then most leftover resources. The WBC adds three more for the tournament: cards left in hand, then fewest cards in your city, then a die roll. In a close game, a spare card in hand at the end is worth keeping if you have no better use for it.
-
-<!-- VERIFY: the WBC preview lists "leftover cards in hand" as a tiebreaker without saying more or fewer wins; confirm with the GM that more cards wins. -->
+The rulebook breaks a tie by most Events, then most leftover resources. The WBC adds three more for the tournament: leftover cards in hand, then fewest cards in your city, then a die roll. The preview does not say whether more or fewer cards in hand wins that tiebreak, so ask the GM before your first game.
 
 <!-- AT OUR TABLE: one line on how Levi's four-player games changed once the group started tracking each other's Event colors. -->
 

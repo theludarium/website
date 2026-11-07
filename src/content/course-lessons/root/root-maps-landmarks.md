@@ -50,8 +50,6 @@ The central clearing holds the **Tower** and is called the pass. At the end of a
 
 The Homeland expansion adds two more. On the **Marsh** map, with one to four players, three flooding clearings are covered by flood markers and stop being clearings, leaving only paths through them. With five or more players, the three unsuited clearings hold the Mousehold, Foxburrow, and Rabbittown landmarks instead. On the **Gorge** map, the dam separates the forests beneath it, while the bridge and the gorge sides do not.
 
-<!-- VERIFY: check the Homeland rules for any further Marsh or Gorge setup details before adding strategy notes for these maps. -->
-
 ## Landmarks
 
 Landmarks are special pieces that sit on the map. Under the Law, they cannot be battled, moved, covered, or removed unless the landmark itself says so, and nobody owns them. Each one's rules are printed on its own card. Under Advanced Setup, the group may play with one or two: the last player in turn order places the first, and the second-to-last player places the second.
@@ -59,8 +57,6 @@ Landmarks are special pieces that sit on the map. Under the Law, they cannot be 
 The [Landmarks Pack](https://ledergames.com/products/root-landmark-pack) adds landmarks that work on any map, including the Black Market, Elder Treetop, Legendary Forge, and Lost City.
 
 Tournaments tie landmarks to maps. The 2026 WBC event used the Tower on the Mountain map, the Ferry on the Lake map, the Legendary Forge on the Winter map, and the Lost City on the Autumn map, with the Lost City added in the semifinal and final.
-
-<!-- VERIFY: read each landmark card in the Landmarks Pack before describing what the Black Market, Elder Treetop, Legendary Forge, and Lost City do. -->
 
 ## Practicing maps
 

@@ -27,7 +27,7 @@ A slip in either direction matters. Some make the game far harder, and some quie
 
 ## Monster behavior
 
-**Mistake: focusing on the closest character.** A monster focuses on the character it can attack using the least movement, not the one physically nearest. Walls and obstacles change the count. If two characters tie on movement, the guide breaks the tie by initiative order (p. 11); full Gloomhaven checks which one is closer in range first. <!-- VERIFY: no official Rules Glossary PDF is online; confirm in the printed glossary whether proximity is checked before initiative. -->
+**Mistake: focusing on the closest character.** A monster focuses on the character it can attack using the least movement, not the one physically nearest. Walls and obstacles change the count. If two characters tie on movement, the guide breaks the tie by initiative order (p. 11); the Rules Glossary agrees. Full Gloomhaven checks which one is closer in range first.
 
 **Mistake: thinking focus needs line of sight.** It does not. A monster focuses on any character it has a path to, even if it cannot reach them this turn (p. 11).
 
@@ -51,7 +51,7 @@ A slip in either direction matters. Some make the game far harder, and some quie
 
 **Mistake: short resting with one card.** You need at least two cards in your discard pile to short rest, and you do it at the end of the round (p. 12).
 
-**Mistake: long resting for free.** A long rest is your whole turn at initiative 99. You choose the card you lose, heal 2, and refresh spent items, but monsters still act before you get your cards back (p. 22). <!-- VERIFY: the guide is silent; confirm in the printed Rules Glossary whether a long rest needs at least two cards in the discard pile, as in original Gloomhaven. -->
+**Mistake: long resting for free.** A long rest is your whole turn at initiative 99. You choose the card you lose, heal 2, and refresh spent items, but monsters still act before you get your cards back (p. 22). And you can only declare one with at least two cards in your discard pile, as the Rules Glossary sets out.
 
 ## Loot, elements, and the end
 

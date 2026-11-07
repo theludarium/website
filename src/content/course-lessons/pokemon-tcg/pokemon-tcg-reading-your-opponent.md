@@ -22,7 +22,7 @@ Plenty of information is open to both players:
 - **The Stadium in play.**
 - **How many Prize cards each player has left.**
 - **How many cards are in each hand.** You can ask; your opponent should answer.
-- **The discard piles.** Cards there are face up, and they tell you what your opponent has already used. <!-- VERIFY: the current tournament rules on looking through an opponent's discard pile and asking for hand size. -->
+- **The discard piles.** Cards there are face up, and they tell you what your opponent has already used.
 
 When your opponent plays a card you do not know, ask to read it. That is normal and polite, and it is part of reading the game.
 

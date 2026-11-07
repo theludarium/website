@@ -74,7 +74,7 @@ If players tie, the rulebook breaks it in this order:
 2. If still tied, the player holding the longest path card.
 3. If still tied, they share the win.
 
-If the tied players also shared the longest path, the rulebook does not say which of them holds the card. Sharing the win is the simplest reading. <!-- VERIFY: whether Days of Wonder has an official answer for who holds the longest path card when the tied players also tied for longest path. -->
+If the tied players also shared the longest path, the rulebook does not say which of them holds the card. Sharing the win is the simplest reading.
 
 ## A worked example
 

@@ -7,6 +7,7 @@ import { MALAPHOR_BOOK as book } from '@/lib/books';
 import cover from '@/assets/books/malaphors-cover.jpg';
 import { getDemos } from '@/lib/rpg-demo-library';
 import type { ImageMetadata } from 'astro';
+import { TEACH_CARD_PACKS, TEACH_CARD_BUNDLE } from '@/lib/teach-cards';
 
 // Adventure PDFs: one per RPG Demo Library game whose store.js entry has a
 // Lemon Squeezy checkout link. Covers live in src/assets/rpg-pdfs/<demo slug>.jpg.
@@ -14,11 +15,18 @@ const covers = import.meta.glob<{ default: ImageMetadata }>('/src/assets/rpg-pdf
 const pdfs = getDemos()
   .filter((d) => d.product?.checkout)
   .map((d) => ({ ...d, product: d.product!, cover: covers[`/src/assets/rpg-pdfs/${d.slug}.jpg`]?.default }));
+
+// Teach-card packs: one per Academy course in src/lib/teach-cards.ts, plus the bundle.
+const cardImages = import.meta.glob<{ default: ImageMetadata }>('/src/assets/teach-cards/*.jpg', { eager: true });
+const cardPacks = [...TEACH_CARD_PACKS, TEACH_CARD_BUNDLE].map((p) => ({
+  ...p,
+  image: cardImages[`/src/assets/teach-cards/${p.slug}.jpg`]?.default,
+}));
 ---
 
 <BaseLayout
   title="Store"
-  description="Digital goods for your table from The Ludarium, including RPG Demo Library adventure PDFs. Checkout is handled securely by Lemon Squeezy."
+  description="Digital goods for your table from The Ludarium: printable teach cards and RPG Demo Library adventure PDFs. Checkout is handled securely by Lemon Squeezy."
 >
   <section class="store">
     <div class="container store__grid">
@@ -26,7 +34,8 @@ const pdfs = getDemos()
         <p class="eyebrow">The Ludarium store</p>
         <h1>Digital goods for your table.</h1>
         <p class="lede">
-          Adventure PDFs from the RPG Demo Library, and more tools for game night as we make them.
+          Printable teach cards, adventure PDFs from the RPG Demo Library, and more tools for game night as we make
+          them.
           Download instantly, play tonight.
         </p>
         {
@@ -63,6 +72,34 @@ const pdfs = getDemos()
           <h2>Supports the lounge</h2>
           <p>Every purchase helps fund The Ludarium Game Lounge in Indianapolis.</p>
         </li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="section store-pdfs" aria-labelledby="store-cards-title">
+    <div class="container">
+      <h2 id="store-cards-title">Teach cards</h2>
+      <p class="store-pdfs__lede">
+        Print-and-cut cards that put the rules in every player's hand, with a ten-minute teach script for the host.
+        Each pack pairs with a free <a href="/academy/">Academy</a> course.
+      </p>
+      <ul class="store-pdfs__grid">
+        {cardPacks.map((p) => (
+          <li class="card store-pdf store-card">
+            {p.image && <Image src={p.image} alt={p.slug === 'bundle' ? 'Teach card sheets for all four games' : `A sheet of ${p.game} teach cards`} widths={[200, 400]} sizes="200px" />}
+            <div class="store-pdf__body">
+              <p class="eyebrow">{p.game}</p>
+              <h3>{p.name}</h3>
+              <p class="store-pdf__meta">{p.blurb}</p>
+              <div class="store-pdf__actions">
+                <a class="button" href={p.checkout} rel="noopener">
+                  Buy the PDF, {p.price}
+                </a>
+                {p.slug !== 'bundle' && <a href={`/academy/${p.slug}/`}>Free course</a>}
+              </div>
+            </div>
+          </li>
+        ))}
       </ul>
     </div>
   </section>
@@ -226,6 +263,11 @@ const pdfs = getDemos()
 
   .store-pdf__actions a:not(.button) {
     font-size: var(--text-sm);
+  }
+
+  .store-card img {
+    width: 8rem;
+    box-shadow: none;
   }
 
   .store-books {

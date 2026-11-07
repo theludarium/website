@@ -36,7 +36,7 @@ Draft decks follow the limited rules, which differ from constructed:
 - **No Legend or champion?** That is legal. You draw an extra card at the start of your first Beginning phase.
 - **Runes from anywhere,** matching your domains, and blank battlefields if you need them.
 
-For Legacy, Riot says store rune kits will include a new unit card, the Minion. <!-- VERIFY: how the Minion card is used in draft once Riot posts the Legacy limited rules. -->
+For Legacy, Riot says store rune kits will include a new unit card, the Minion, so drafters can fill out their decks. Ask your store how it hands them out.
 
 ## What to take early
 
@@ -69,8 +69,6 @@ Use the same order as the [Pre-Rift lesson](/academy/riftbound/riftbound-pre-rif
 
 - **You have fewer cards.** A draft deck at or near 20 cards draws its best cards more often. Do not add weak cards just to reach a number.
 - **You know your pool's story.** You chose each card, so you already know the plan. Build the deck that the middle of your draft pointed to, not the one your first pick hoped for.
-
-<!-- VERIFY: whether stores run Legacy draft events at launch, and the Legacy booster contents once Riot publishes them. -->
 
 ## Between games
 

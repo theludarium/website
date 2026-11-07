@@ -13,8 +13,6 @@ nextTeaser: "Level 2 begins with the midgame: turning bonuses into points, readi
 ---
 Splendor plays 2 to 4 players, as printed on the box, and The Silk Road and The Sun Never Sets keep that same range. The base game has no solo mode; two players is a full official count, and Splendor Duel is a separate game built only for two.
 
-<!-- VERIFY: The Silk Road and The Sun Never Sets both list 2 to 4 players, and the base game has no solo mode, against the Space Cowboys product pages or rulebooks. -->
-
 Splendor is a small game that has grown a family: two expansion boxes, a two-player version, and a Marvel edition. Each is good. None replaces the original, and the original changes more than you might expect just by changing how many people sit down.
 
 ## How the game changes by player count
@@ -57,9 +55,7 @@ The Cities gives a familiar game a new finish line. The Trading Posts rewards pl
 
 The Orient adds variety without much rules weight. The Strongholds add direct conflict, which suits groups who like to get in each other's way.
 
-If you own an older copy, these four modules first came together in a single box, Cities of Splendor, released in 2017.
-
-<!-- VERIFY: whether the older Cities of Splendor box (2017) mixes cleanly with the 10th anniversary base game, given the new card art. -->
+If you own an older copy, these four modules first came together in a single box, Cities of Splendor, released in 2017. Its art matches the original edition, so if your base game is the 10th anniversary edition, the two newer boxes are the closer match.
 
 ## Splendor Duel
 

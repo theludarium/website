@@ -25,8 +25,6 @@ Most maps change one or two rules. The expansion boards come with their own rule
 
 The base board shows the pattern. On Germany, uranium stops refilling once plant 39 is bought. On the USA, coal can always be bought for 8 from a reserve. The [expansions lesson](/academy/power-grid/power-grid-expansions/) summarizes what several expansion maps change.
 
-<!-- VERIFY: the map-specific rules for each 2026 WBC map (South Africa, Bremen, United Kingdom, Middle East, Manhattan, Northern Europe, Brazil, Spain and Portugal) before adding any detail about them to this lesson. -->
-
 Ask: does this rule make one fuel scarcer, or cheaper? Does it change when steps arrive? Write the answer down.
 
 ## Minute 1: choose the regions

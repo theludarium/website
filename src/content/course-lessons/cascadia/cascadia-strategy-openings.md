@@ -55,7 +55,7 @@ A run is a group of salmon where each one touches no more than two other salmon.
 - **C:** only runs of three or more score, and the table tops out at five.
 - **D:** each run scores 1 point per salmon, plus 1 point for each animal token next to it, of any kind.
 
-<!-- VERIFY: Dire Wolf's salmon spotlight says Salmon D needs runs of at least three; the rulebook text gives no minimum. Check a physical Salmon D card. -->
+Dire Wolf's guide to the digital game says Salmon D runs, like C, need at least three salmon to score. The rulebook text does not give a minimum, so read the card in your box before you plan around short runs.
 
 Salmon A wants one long, snaking run. Salmon D wants runs surrounded by other animals, so it pairs well with cards that crowd animals together.
 

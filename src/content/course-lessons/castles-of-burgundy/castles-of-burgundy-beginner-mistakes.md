@@ -45,7 +45,7 @@ Your first three games of The Castles of Burgundy are where habits form. Some of
 
 The game came out in 2011, and the current edition renamed a few things. Older guides say estate for duchy, Silverlings for silver, and yellow tiles or knowledge tiles for monasteries. The current edition also changed monastery tiles 6, 15, and 26. If a guide or a friend describes those tiles differently, go by the rulebook in your box.
 
-Online, check the table options. [Board Game Arena](https://boardgamearena.com/gamepanel?game=castlesofburgundy) offers both the first edition and the 2019 edition rules, so check which one a table uses. <!-- VERIFY: which edition and duchy setup the current BGA ranked Arena season uses. -->
+Online, check the table options. [Board Game Arena](https://boardgamearena.com/gamepanel?game=castlesofburgundy) offers both the first edition and the 2019 edition rules, so check which one a table uses.
 
 ## The big planning mistake: too many open regions
 

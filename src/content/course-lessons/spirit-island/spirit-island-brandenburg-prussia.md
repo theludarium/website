@@ -1,6 +1,6 @@
 ---
 title: "Climbing Brandenburg-Prussia in Spirit Island"
-description: "Spirit Island's Brandenburg-Prussia, level by level: Land Rush, Fast Start, the reshaped Invader Deck, Fear Card counts, turn limits, and how to beat its tempo."
+description: "Spirit Island's Brandenburg-Prussia, level by level: Land Rush, Fast Start, the reshaped Invader Deck, a big Fear Deck, turn limits, and how to beat its pace."
 course: spirit-island
 order: 18
 level: 4
@@ -25,18 +25,18 @@ Land Rush puts a new Town on every board that has buildings, usually in a land y
 
 ## The levels
 
-Every level includes the ones below it. The Difficulty numbers come from the core rulebook's chart; the names, rules, and Fear Card splits come from the adversary panel.
+Every level includes the ones below it. The Difficulty numbers come from the core rulebook's chart; the names and rules come from the adversary panel.
 
-| Level | Name | Difficulty | Fear Cards | What changes |
-| --- | --- | --- | --- | --- |
-| 1 | Fast Start | 2 | 3/3/3 | During setup, add 1 Town to land 3 on each board. |
-| 2 | Surge of Colonists | 4 | 3/3/3 | Move 1 Stage III card between Stage I and Stage II. |
-| 3 | Efficient | 6 | 3/4/3 | Remove an extra Stage I card. |
-| 4 | Aggressive Timetable | 7 | 4/4/3 | Remove an extra Stage II card. |
-| 5 | Ruthlessly Efficient | 9 | 4/4/3 | Remove another Stage I card. |
-| 6 | Terrifyingly Efficient | 10 | 4/4/4 | Remove the last Stage I card. |
+| Level | Name | Difficulty | What changes |
+| --- | --- | --- | --- |
+| 1 | Fast Start | 2 | During setup, add 1 Town to land 3 on each board. |
+| 2 | Surge of Colonists | 4 | Move 1 Stage III card between Stage I and Stage II. |
+| 3 | Efficient | 6 | Remove an extra Stage I card. |
+| 4 | Aggressive Timetable | 7 | Remove an extra Stage II card. |
+| 5 | Ruthlessly Efficient | 9 | Remove another Stage I card. |
+| 6 | Terrifyingly Efficient | 10 | Remove the last Stage I card. |
 
-<!-- VERIFY: check the level names, rules, and Fear Card splits against the physical Brandenburg-Prussia panel. They come from a community transcription of the panel, and the Difficulty numbers match the core rulebook's chart. -->
+Each level on the panel also sets how many Fear Cards to use and how to split them into the three groups, so read that off the panel during setup.
 
 ## The deck, level by level
 
@@ -58,7 +58,7 @@ Two things jump out:
 - **The early Stage III card.** From level 2 on, a two-terrain card comes right after Stage I. At level 2 it is revealed on turn 3, Builds on turn 4, and Ravages on turn 5, in four lands per board at once.
 - **At level 6, the very first card is Stage III.** The setup Explore hits two terrains, they Build on turn 1 and Ravage on turn 2. There is no quiet opening at all.
 
-Meanwhile the Fear Deck grows. At level 6 the Fear Deck holds 12 cards, not 9, with 4 in each group instead of 3, so every Terror Level takes one more card to reach.
+Meanwhile the Fear Deck grows. At the top levels the Fear Deck holds more than the usual 9 cards, so Terror Levels take more cards to reach.
 
 ## How to beat it
 

@@ -53,8 +53,6 @@ A good way to check your shape is to lay out a preconstructed deck the same way.
 
 Units are the only cards that take and hold battlefields. Spells and gear help them do it. Count your units, and ask whether you can still contest both battlefields if your opponent removes two of them. For sealed decks, Riot's own Pre-Rift advice is at least 15 units. Constructed decks vary more, but a deck light on units needs a clear reason.
 
-<!-- VERIFY: whether Riot has published a recommended unit count or curve for 40-card constructed decks; if so, cite it here. -->
-
 ## Step 6: runes and battlefields
 
 **Runes.** Exactly 12, all from your Legend's domains. Split them in proportion to your power symbols, using the odds in the [runes lesson](/academy/riftbound/riftbound-runes-energy-power/).

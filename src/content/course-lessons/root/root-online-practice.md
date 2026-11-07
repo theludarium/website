@@ -32,8 +32,6 @@ Expansions are sold as add-ons, and Dire Wolf's page lists:
 
 As of November 2026, Dire Wolf's page does not list the Homeland expansion factions (the Lilypad Diaspora, the Twilight Council, and the Knaves of the Deepwood), so those are table-only for now. Neither Dire Wolf's page nor the Steam page lists a ranked mode.
 
-<!-- VERIFY: whether Root digital has a ranked or rated queue in its menus, and whether it supports Advanced Setup's faction draft; neither official page says. -->
-
 ## What digital practice is good for
 
 - **Faction reps.** Play every faction many times. Tournament drafts will hand you one you did not choose.

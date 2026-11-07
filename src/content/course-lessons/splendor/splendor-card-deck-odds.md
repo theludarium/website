@@ -15,7 +15,7 @@ Welcome to Level 3. At Level 2 you learned to read the table: what each player c
 
 The counts below come from a full card list of the base game, checked against the 40, 30, and 20 split in the rulebook.
 
-<!-- VERIFY: that the 10th anniversary edition keeps the same card costs and points as the original 2014 cards. -->
+The 10th anniversary edition plays by the same rules with refreshed art. If you own it, spot check a few cards against these counts.
 
 ## The same in every color
 

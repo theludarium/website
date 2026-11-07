@@ -38,15 +38,13 @@ The [2026 event page](https://www.boardgamers.org/wbc26/previews/SPD.html) lays 
 - **A tied game** goes to the player with the fewest development cards, as in the rulebook, then to the later seat.
 - **Beginning players welcome.** The event is marked that way, which makes it a friendly first tournament.
 
-Splendor Duel had its own WBC event in 2026 as well.
-
-<!-- VERIFY: check the WBC 2027 event list for the Splendor event's dates and format before the next convention. -->
+Splendor Duel had its own WBC event in 2026 as well. Formats change from year to year, so read the current event page before you go.
 
 ## The World Series of Board Gaming
 
 The [World Series of Board Gaming](https://www.wsbgvegas.com/) in Las Vegas runs championship "ring" tournaments, and Splendor has been one of them. The Dice Tower streamed its [2024 Splendor World Championship](https://dicetower.com/video/splendor-world-championship-world-series-board-gaming-2024) final. The 2027 event is set for September 24 to 28, 2027.
 
-<!-- VERIFY: whether Splendor is on the WSBG 2027 ring game list. -->
+It was a ring event in 2023, 2024, and 2025, but each year sets its own list, so check the 2027 games when they are posted.
 
 ## Online play
 

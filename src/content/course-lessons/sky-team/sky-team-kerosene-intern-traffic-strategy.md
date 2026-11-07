@@ -29,7 +29,7 @@ The cost is real. A 1 on Kerosene is a 1 that did not clear your Current Positio
 
 The Intern board holds face-up number tokens. On your turn you may place a die on your color's Intern space and take the first available token closest to your side. Then you place that token as if it were a die of its number, anywhere you could normally place one, except Concentration. Coffee cannot change it. The die you place must differ from the next token's number. If any tokens are left on the board when you land, you lose.
 
-<!-- VERIFY: how many Intern tokens and spaces the Intern board has, so the lesson can say how many trainings a flight needs. -->
+In the rulebook's picture the Intern board holds six tokens, so plan on six trainings between the two of you before you land.
 
 Two things make the Intern easier than it looks.
 

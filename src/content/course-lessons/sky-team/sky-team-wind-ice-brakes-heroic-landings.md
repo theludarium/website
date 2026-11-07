@@ -21,8 +21,6 @@ A blue Airplane token sits in a Wind ring beside the panel. Right after each Axi
 
 So a plane left two marks off center keeps turning the wind two spaces every round. A level plane keeps the wind where it is. That changes the Axis from "level by the end" to "level now."
 
-<!-- VERIFY: the full set of values on the Wind ring, including whether it has negative values that slow the plane, before saying which way to steer it. -->
-
 - **Match the Axis every round you can.** A matched pair leaves the plane where it was, and a level plane leaves the wind alone.
 - **Read the wind in every briefing.** It changes your Engines math: with +2 wind, a total that would move you 1 space may move you 2.
 - **Plan the landing with the wind in it.** In the final round, the wind is part of the speed your Brakes must beat.
@@ -31,7 +29,7 @@ So a plane left two marks off center keeps turning the wind two spaces every rou
 
 The Ice Brakes board covers the normal Brakes. Each step needs two dice of the same value, one in the space above the track and one in the space below, in the same round. A die that never gets its partner that round is lost, with no effect. Steps go in order, left to right, and you may take more than one step in a round. You must reach the end of the track to land, and your final speed must still be lower than the Brake marker.
 
-<!-- VERIFY: whether each Ice Brakes space is limited to one player's color, and how many steps the track has. -->
+The track has four steps, 2 through 5, and you land only once the marker is past the 5. The spaces above the track are blue, so only the Pilot fills them, while the spaces below are open to either of you. Every step needs both of you, or a Pilot willing to spend two dice on it.
 
 The odds matter here. If your partner leads one half of a step, you need that exact number: about 52% with four dice. One coffee on the board lets a neighbor number work too, about 94% for a middle value (80% for a 1 or a 6), and two coffees make it close to certain. Lead Ice Brakes early in the round, when your partner still holds the most dice, and keep coffee on the board for these rounds.
 

@@ -27,9 +27,7 @@ The base box plays 2 to 4. The setup counts change with the table:
 | 5 | 12 Estates, 12 Duchies, 15 Provinces | 40 | Provinces, or any 4 empty piles |
 | 6 | 12 Estates, 12 Duchies, 18 Provinces | 50 | Provinces, or any 4 empty piles |
 
-Five and six players need more Base cards: the rulebook points to the Base Cards product, or a second copy of Dominion.
-
-<!-- VERIFY: confirm in the 2nd edition base rulebook that it names the Base Cards set or a second copy for 5 or 6 players (retailer listings confirm Base Cards; the 'second copy' option is unconfirmed) -->
+Five and six players need more Base cards. Rio Grande sells them as the Dominion Base Cards set, and its page for that set gives the 5 and 6 player setup. It also warns that the bigger table means more waiting between turns, so it is not the count for new players.
 
 - **Two players:** the most strategic count. You can track one opponent's whole deck, and every Province is a clear swing.
 - **Three or four:** attacks hit more people, piles drain faster, and the game moves more between your turns. Militia and Witch get stronger.

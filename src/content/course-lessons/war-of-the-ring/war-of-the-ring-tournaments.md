@@ -45,7 +45,7 @@ The [2025 event report](https://www.boardgamers.org/yearbook25/wor.html) is wort
 
 ## Other events
 
-Ares Games has promoted War of the Ring events at the World Series of Board Gaming, held in Las Vegas. <!-- VERIFY: whether War of the Ring is on the 2026 or 2027 World Series of Board Gaming schedule, and its format --> Local conventions and game stores also run tournaments; the BoardGameGeek forums for the game are the best place to find them.
+Ares Games has promoted War of the Ring events at the World Series of Board Gaming, held in Las Vegas. The lineup changes from year to year, so check that year's schedule for whether War of the Ring is on it and how it runs. Local conventions and game stores also run tournaments; the BoardGameGeek forums for the game are the best place to find them.
 
 ## Online play
 

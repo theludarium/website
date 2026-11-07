@@ -55,8 +55,6 @@ New cards from a set become legal at casual store events on release day (or a st
 
 If you love your starter, a second copy of the same deck can be a simple upgrade. A starter runs several copies of most of its cards, so a second copy helps most with the ones it has only 1 or 2 of. Check the decklist in Bandai's card list first. It also leaves you with a full spare deck to lend a friend.
 
-<!-- VERIFY: ST-37 and ST-38 decklists once posted. The product pages list 16 different cards plus the Leader (2 Super Rare, 14 Common); confirm a second copy adds useful extra copies. -->
-
 ## The few accessories worth buying
 
 **Sleeves.** You need opaque sleeves for any store tournament, and they protect cards you paid for. Bandai sells its own, such as [Official Card Sleeves 17](https://en.onepiece-cardgame.com/products/sleeve047.html), 70 sleeves due in December. Other opaque sleeves work as long as all your deck sleeves match and none have reflective backs. Buy a few spare.

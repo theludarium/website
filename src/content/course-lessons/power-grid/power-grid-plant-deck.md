@@ -76,8 +76,6 @@ From there, at about 4 or 5 draws a round, the Step 3 card is two or three round
 
 Some plants left the box unseen at setup with 2, 3, or 4 players. A plant you are waiting for may not be in the game at all. At five or six players, every plant is in play, which makes tracking more reliable. The World Boardgaming Championships event keeps removed plants hidden in four-player games unless the whole table agrees to reveal them.
 
-<!-- VERIFY: confirm with Rio Grande's English rulebook that the plug and socket backs and the removal table match the 2F-Spiele German rulebook. -->
-
 ## A tracker habit
 
 You can keep this in your head with one number:

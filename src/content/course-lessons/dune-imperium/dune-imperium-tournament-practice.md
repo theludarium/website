@@ -21,7 +21,7 @@ A plan needs a date and a box list. The [tournaments lesson](/academy/dune-imper
 
 WBC 2027 runs July 24 to August 1, 2027, according to the [WBC page](https://www.boardgamers.org/wbcindex.html).
 
-<!-- VERIFY: the 2027 formats for both events, and the Gen Con 2027 qualifier dates, once they are announced. -->
+Both events post their formats closer to the date. Check the new WBC preview and Dire Wolf's news page before you settle on a plan.
 
 The two events use different games. Pick one and train for it. Practicing Uprising for a Rise of Ix event wastes half your weeks.
 
@@ -29,7 +29,7 @@ The two events use different games. Pick one and train for it. Practicing Uprisi
 
 **1. Volume.** Play many games. [Dune: Imperium Digital](https://www.direwolfdigital.com/dune-imperium-digital/) runs online games against people and AI, and Dire Wolf announced on June 9, 2026 that [Uprising was available](https://news.direwolfdigital.com/uprising-digital-is-now-available/) on Steam and mobile. Digital play handles the bookkeeping, so you see more decisions per hour. Aim for four to six games a week.
 
-<!-- VERIFY: which expansions Dune: Imperium Digital currently includes, so readers know whether it matches their event's box list. -->
+Check the box list before you practice. Dire Wolf's page for the original digital game lists Rise of Ix as its expansion, so it fits the WBC setup, while Uprising is its own digital release.
 
 **2. The right boxes.** At least once a week, play on the table with exactly your event's setup: the original with Rise of Ix for WBC, Uprising with the right expansions for Gen Con. Use four players when you can.
 

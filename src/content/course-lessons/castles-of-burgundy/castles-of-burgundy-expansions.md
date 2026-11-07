@@ -67,12 +67,6 @@ Our piece on [whether expansions are worth it](/articles/expansions-worth-it/) h
 
 The current edition is Ravensburger's [The Castles of Burgundy](https://www.amazon.com/dp/B07R5ZH6FQ?tag=cubecommonw0a-20), the reissue with the expansions above in the box.
 
-<!-- VERIFY: the ravensburger.us product link blocked automated checks; open it in a browser and confirm it loads. Item 26925 is confirmed on ravensburger.de (1 to 4 players, ages 12 and up, 90 to 120 minutes). -->
-
-A deluxe Special Edition, made by Ravensburger with Awaken Realms, came out in 2023 with new art and deluxe components. It is a premium box for groups who already love the game. <!-- VERIFY: the Special Edition year; its crowdfunding campaign and its retail release may fall in different years. -->
-
-<!-- VERIFY: find the publisher's own product page for the Special Edition (Ravensburger or Awaken Realms) and add a plain link, and confirm what that box includes. -->
+A deluxe [Special Edition](https://awakenrealms.com/games/awaken-realms/castles-of-burgundy), made by Ravensburger with Awaken Realms, redraws the art and layout, upgrades the components, and adds a new expansion by Stefan Feld, The Vineyards. It is a premium box for groups who already love the game.
 
 Two smaller spin-offs share the name: [The Castles of Burgundy: The Card Game](https://www.amazon.com/dp/B01CLVLN0Q?tag=cubecommonw0a-20) (2016) and [The Castles of Burgundy: The Dice Game](https://www.amazon.com/dp/B07559HC1K?tag=cubecommonw0a-20) (2017), a roll and write. Each is its own game, and neither needs the board game.
-
-<!-- VERIFY: confirm the card game and dice game are still in print in English, and link each to the publisher's product page if one exists. -->

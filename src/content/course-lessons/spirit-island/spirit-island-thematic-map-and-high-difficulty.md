@@ -42,8 +42,6 @@ You can play an adversary, a scenario, or both. When their rules disagree, the s
 
 A Difficulty 0 scenario is a way to change the game without making it harder. Adding one to an adversary you have already beaten gives a fresh puzzle at the same rough Difficulty, before you climb again.
 
-<!-- VERIFY: read the four core scenario panels and add one plain line each on what they change; the same check is open in the adversaries lesson. -->
-
 ## How the numbers stack
 
 Some examples, using the core rulebook's chart:

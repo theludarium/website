@@ -35,7 +35,7 @@ Each player count also has its own refill card, so fuel returns at a different p
 
 ## Two players: the rival company
 
-Recharged includes special two-player rules. Alongside the two of you, the rules run a large rival company. It has no money and cannot win. It exists to block you both.
+Recharged includes special two-player rules. Alongside the two of you, the rules run a large rival company, which the English rules call the Trust. It has no money and cannot win. It exists to block you both.
 
 - **Setup.** Play on 3 connected regions. The two players take turns placing 6 of the company's houses on 6 neighboring cities. Those cities are closed to you in Step 1.
 - **Turn order.** The company is always second.
@@ -45,8 +45,6 @@ Recharged includes special two-player rules. Alongside the two of you, the rules
 - **End.** The game ends when a player reaches 18 cities.
 
 The company never triggers Step 2. Its real job is to give you tools: the plant you leave in the market might be the one it takes away from your opponent.
-
-<!-- VERIFY: the English name Rio Grande's rulebook gives the two-player rival company, and the English names of the start city variant and the board specials. -->
 
 ## The two sides of the board
 
@@ -64,8 +62,6 @@ For experienced players, the rulebook offers a variant. After setup, each player
 ## The base game
 
 You need the base game for every expansion. 2F-Spiele publishes [Power Grid Recharged](https://www.amazon.com/dp/B07HM7WZT9?tag=cubecommonw0a-20) as [Funkenschlag (Recharged Version)](https://2f-games.com/2f-spiele/power-grid-game-family/power-grid-recharged-version/), and Rio Grande Games publishes the English edition.
-
-<!-- VERIFY: swap in Rio Grande Games' own English product page for Power Grid Recharged (riograndegames.com could not be opened in research), and confirm which expansions below are in print in English. Also confirm the English names of Bremen/Manhattan and The New Power Plants Set 2 (2F-Spiele lists both only on its German site, and labels Set 2 both Recharged and Classic). -->
 
 ## Expansion maps
 

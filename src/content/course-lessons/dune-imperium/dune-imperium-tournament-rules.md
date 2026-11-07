@@ -41,7 +41,7 @@ Players are ranked for those 16 places by, in order:
 - **Your Victory Points count even when you lose.** The third tiebreaker adds up your in-game score in every Heat, so a loss at 9 points is better than a loss at 5. Keep scoring in a game you cannot win.
 - **Play more Heats if you can.** Your score is a total, so a Heat you skip is a chance at a win you gave up.
 
-<!-- VERIFY: the WBC preview does not say what happens when a Heat reaches its time limit; check with the GM before the event. -->
+The preview lists 3-hour rounds but does not say what happens when a Heat reaches its time limit. Ask the GM before your first game.
 
 ## The North American Championship at Gen Con
 

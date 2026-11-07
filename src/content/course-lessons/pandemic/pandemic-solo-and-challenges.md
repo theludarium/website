@@ -16,13 +16,9 @@ Most game courses in the Academy end with a tournament lesson. Pandemic is diffe
 
 Not a big one, and it is worth being clear about that.
 
-The [World Boardgaming Championships](https://www.boardgamers.org/) (WBC), the long-running tournament convention in Pennsylvania, crowns champions in many games each year. Pandemic is not among the events on its [2026 winners list](https://www.boardgamers.org/wbc_results.html).
-
-<!-- VERIFY: check the WBC 2027 event list in case a Pandemic event is added. -->
+The [World Boardgaming Championships](https://www.boardgamers.org/) (WBC), the long-running tournament convention in Pennsylvania, crowns champions in many games each year. Pandemic is not among the events on its [2026 winners list](https://www.boardgamers.org/wbc_results.html). The event list changes each year, so check it again if you want to compete.
 
 Z-Man Games did once run a competitive format called **Pandemic Survival**. Teams of two raced each other at the same time, on identical setups: the same roles, the same infected cities, and the same Player cards in the same order. The first team to find all four cures, or the last team still standing, won. Regional events fed national finals and a world championship. Z-Man still posts the [Survival rules](https://cdn.svc.asmodee.net/production-zman/uploads/2024/09/Pandemic_Survival_Public_Rules.pdf) on its Pandemic page, but its site no longer lists a current season.
-
-<!-- VERIFY: whether Z-Man or Asmodee runs any current Pandemic Survival season or other organized Pandemic event. -->
 
 ## Run a Survival-style night at home
 

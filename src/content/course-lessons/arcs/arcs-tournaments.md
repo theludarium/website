@@ -47,13 +47,11 @@ If players are still tied, the GM's own tiebreak gives one extra point per heat 
 
 That math matches what the [ambitions lesson](/academy/arcs/arcs-ambitions-scoring/) teaches about play itself: when you cannot win a game, finishing second still matters. Play every heat to the end.
 
-<!-- VERIFY: check the next WBC Arcs preview before the event; format, round length, and advancement can change from year to year. -->
+Format, round length, and advancement can change from year to year, so read the current WBC Arcs preview before you go.
 
 ## Past winners
 
-The [WBC results page](https://www.boardgamers.org/wbc_results.html) lists Bailey Burdett as the 2026 Arcs winner. The BPA's event history page is the place to check earlier results as they are posted.
-
-<!-- VERIFY: add the 2025 WBC Arcs winner and player counts from the BPA event history page once Levi confirms them. -->
+The [WBC results page](https://www.boardgamers.org/wbc_results.html) lists Bailey Burdett as the 2026 Arcs winner. The BPA's [Arcs event history](https://www.boardgamers.org/eventhistory/ARC.html) lists the first WBC Arcs event in 2025, won by Dennis Mishler in a field of 38 players.
 
 ## Conventions and store events
 
@@ -63,9 +61,7 @@ For store play, Leder Games keeps a [store locator](https://ledergames.com/pages
 
 ## Online play
 
-Dire Wolf, the studio behind the digital edition of Root, announced a digital version of Arcs for PC. Reports at the announcement expected early access in 2026.
-
-<!-- VERIFY: confirm whether the Arcs digital edition is in early access, and on which platforms, before Levi publishes. -->
+Dire Wolf, the studio behind the digital edition of Root, [announced a digital version of Arcs](https://news.direwolfdigital.com/announcing-arcs-digital/), planned to start in Steam early access with mobile versions later. Check Dire Wolf's news page for where it stands.
 
 A digital edition is the fastest way to practice the card play, because it enforces the rules and keeps the pace up. Once it is available, it is the natural home for the volume of games a tournament asks for.
 

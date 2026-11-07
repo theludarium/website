@@ -18,7 +18,6 @@ This lesson builds on the [food lesson](/academy/wingspan/wingspan-food-birdfeed
 ## The dice
 
 Each of the 5 food dice has six faces: invertebrate, seed, fish, fruit, rodent, and one face showing invertebrate or seed.
-<!-- VERIFY: confirm the six base-game die faces against a physical die or the rulebook's component list. -->
 
 So on any single die:
 

@@ -40,7 +40,7 @@ The base game has 72 land tiles: the start tile and 71 that you draw. Grouped by
 | City on three sides with a road | 3 |
 | City on all four sides | 1 |
 
-Coats of arms appear on 10 of these tiles, spread across the city shapes. The counts come from the base game tile table on [Wikipedia](https://en.wikipedia.org/wiki/Carcassonne_(board_game)), which lists the same 72 tiles. <!-- VERIFY: check these counts against the tile overview in the 2021 Z-Man box. The 2021 rulebook mentions 84 land tiles and 12 river tiles but gives no count per shape. -->
+Coats of arms appear on 10 of these tiles, spread across the city shapes. The counts match the tile list in the [rulebook for the Hans im Glück Big Box](https://www.hans-im-glueck.de/wp-content/uploads/2023/06/cc_carcassonne_bigbox_regel_WEB.pdf) (in German), the publisher's own edition of the same 72-tile base game.
 
 A few totals are worth knowing:
 

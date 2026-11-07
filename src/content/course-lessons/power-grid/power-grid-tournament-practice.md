@@ -51,8 +51,6 @@ A mistake that shows up three times is the one to fix first.
 
 **Week 6: sharpen and rest.** One timed game early in the week and a handful of puzzles. Then ease off. Arrive rested, with the event's maps and rules fresh.
 
-<!-- VERIFY: the WBC 2027 Power Grid preview for its maps, rules, and schedule once it is posted, and update weeks 3 to 5 to match. -->
-
 ## What to measure
 
 Keep a few numbers from game to game:

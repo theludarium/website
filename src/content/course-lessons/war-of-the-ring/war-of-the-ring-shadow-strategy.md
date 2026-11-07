@@ -31,7 +31,7 @@ Each Minion adds one action die from the next turn on, so each pays you back eve
 
 - **Saruman** enters with a Muster die once Isengard is At War, placed in Orthanc. He never leaves the Orthanc region.
 - **The Witch-king** needs Sauron and at least one Free Peoples Nation At War. Use a Muster die to place him with a Shadow army that includes a Sauron unit. When he enters, **every Free Peoples Nation is activated.** That wakes every passive Nation at once, so time him for when that no longer hurts you.
-- **The Mouth of Sauron** comes late. He enters with a Muster die once the Fellowship is on the Mordor Track or every Free Peoples Nation is At War. <!-- VERIFY: the Mouth of Sauron's placement on his Character card (believed to be any Shadow Stronghold) -->
+- **The Mouth of Sauron** comes late. He enters with a Muster die once the Fellowship is on the Mordor Track or every Free Peoples Nation is At War. Check his Character card for where he is placed. Once in play, he can move up to three regions with a Character die.
 
 Saruman early is a common choice, because one Muster die puts Isengard At War and the extra die starts paying the turn after he arrives.
 

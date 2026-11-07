@@ -28,7 +28,7 @@ In the openings lesson you saw the shape of a year: 2 workers in winter, 3 in sp
 | 1 berry and a card | 1 berry, draw 1 | Exclusive |
 | 1 berry | 1 berry | Shared |
 
-<!-- VERIFY: confirm which basic locations are exclusive and which are shared against the board's paw symbols; the table follows a published review's reading of the board, not the rulebook text. -->
+Your board shows the difference too: the rulebook draws the exclusive and shared paw symbols side by side, so you can match each space on your board. If your board ever disagrees with this table, trust the board.
 
 The pattern: most exclusive spaces give more of one resource, and most shared spaces give a little less, plus a card. Pebbles and berries come one at a time from the basic spaces, which is why they feel scarce.
 

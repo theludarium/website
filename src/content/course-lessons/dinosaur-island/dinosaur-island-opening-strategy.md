@@ -35,8 +35,6 @@ You get three scientist placements. A sensible pattern:
 
 If a rare face shows up, an extra worker or a paddock upgrade, weigh it seriously. Both need your level 3 scientist, and an extra worker is permanent.
 
-<!-- VERIFY: whether most herbivore recipes need only basic DNA; check the recipe tiles before stating this more firmly. -->
-
 ## Round one market: workers and the right upgrade
 
 Two actions, in turn order. Good opening targets:

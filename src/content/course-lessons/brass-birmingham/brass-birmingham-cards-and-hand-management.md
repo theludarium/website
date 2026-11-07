@@ -36,7 +36,7 @@ At the end of the Canal Era, every discard pile is shuffled into a new deck, inc
 
 Early in an era, location cards open the map. Later, once your network is wide, industry cards become more flexible, because they work in any of your towns.
 
-Some towns appear on more cards than others. In a 4-player deck, a town with 3 cards gives you about a 1 in 3 chance of holding at least one of them in an opening hand of 8. A town with a single card gives you about 1 in 8. <!-- VERIFY: confirm the number of location cards per town in a 4-player deck (we count 3 each for Birmingham, Coventry, Coalbrookdale, Derby, and Stoke-on-Trent) against a physical deck. -->
+Some towns appear on more cards than others. In a 4-player deck, a town with 3 cards gives you about a 1 in 3 chance of holding at least one of them in an opening hand of 8. A town with a single card gives you about 1 in 8.
 
 ## Fuel and builds
 

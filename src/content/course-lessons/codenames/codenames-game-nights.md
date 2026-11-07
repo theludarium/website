@@ -36,17 +36,13 @@ Keep the rules of the night on the table: which house rules are on, whether expe
 
 Czech Games Edition does not appear to run an official tournament circuit or world championship for Codenames. Tournaments do happen at the community level. College game clubs and school board game clubs have run Codenames tournaments of their own, some with prize support arranged with the publisher.
 
-<!-- VERIFY: check for any official CGE Codenames tournament, a Codenames event at the World Boardgaming Championships, or a convention event to name before publishing. -->
-
 If you want a competitive night, the best path is local. Ask your game store, college club, or library whether they would host one.
 
 ## Play online with friends far away
 
 Czech Games Edition runs a free browser version at [codenames.game](https://codenames.game/). One person opens a room and shares the link, and nobody needs a download or an account. Pair it with a video call so you can hear the debate, which is half the fun.
 
-There is also a [Codenames app](https://www.czechgames.com/games/codenames-app) for phones, with asynchronous games against friends or matched opponents (up to 24 hours a turn), and daily solo challenges. CGE has also brought Codenames to Discord as an Activity, for playing inside a server.
-
-<!-- VERIFY: when the Codenames Discord Activity launched, from the CGE news post. -->
+There is also a [Codenames app](https://www.czechgames.com/games/codenames-app) for phones, with asynchronous games against friends or matched opponents (up to 24 hours a turn), and daily solo challenges. In September 2025, Codenames also came to Discord as a free Activity, for playing inside a server.
 
 Our article on [playing board games with long distance friends](/articles/playing-board-games-with-long-distance-friends/) has more ways to keep a group together across miles.
 

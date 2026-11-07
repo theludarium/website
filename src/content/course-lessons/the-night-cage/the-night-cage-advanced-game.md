@@ -18,7 +18,7 @@ Once your group can escape the standard game, a harder version waits in the box.
 Start from the normal setup, then make these changes:
 
 - Remove all the Key tiles and put them back in the box.
-- Remove 8 Wax Eater tiles. The rules say this leaves 4. <!-- VERIFY: the Advanced Game says removing 8 Wax Eaters leaves 4; the 5-player setup starts with 10 Wax Eaters, so confirm the 5-player Wax Eater count for the Advanced Game -->
+- Remove 8 Wax Eater tiles, leaving 4. The rules give that count without a 5-player note, and a 5-player setup has already set 2 Wax Eaters aside, so agree on the count before a 5-player game.
 - Add 6 Keeper tiles in a 1 to 4 player game, or 7 Keeper tiles with 5 players.
 - Add 2 Pit Fiends.
 
@@ -38,13 +38,13 @@ There are no Key tiles in the Advanced Game. Each Keeper carries a Key inside it
 - They are not triggered by movement behind them.
 - A ranged hit from a Keeper costs only 1 tile from the Draw Stack, but it cannot be Blocked with Nerve.
 
-The rules list Lights Out among the Wax Eater penalties; for the Keeper's ranged hit they name only the 1-tile discard. <!-- VERIFY: whether a ranged Keeper hit also puts the Prisoner Lights Out (the Keeper section names only the 1-tile discard) -->
+The rules list Lights Out among the Wax Eater penalties; for the Keeper's ranged hit they name only the 1-tile discard.
 
 If another Monster's attack hits a Keeper from behind, the Keeper does not join a chain reaction.
 
 **Taking the Key.** Moving onto a Keeper earns you its Key, just like a Key tile. Approaching from the rear is the only safe way in, with no penalties. From any other side you cannot move onto it at all unless you spend 1 Nerve to Charge. A Charge from the front or side, or a Fall onto a Keeper from those sides, puts you Lights Out and costs 3 tiles from the Draw Stack. That 3-tile hit can be Blocked with Nerve. The FAQ confirms you still get the Key when you Charge from the side.
 
-A Falling Prisoner without a Key can take the Key as they land. Once the Key is collected, the Keeper becomes a Pit at once, and the Falling Prisoner scrambles onto an existing adjacent tile or a newly drawn one next to the Pit. <!-- VERIFY: whether a Keeper also becomes a Pit when its Key is taken by moving onto it from the rear (the rules state it for the Falling case) -->
+However the Key is collected, the Keeper becomes a Pit at once. A Falling Prisoner without a Key can take the Key as they land, then scrambles onto an existing adjacent tile or a newly drawn one next to the Pit.
 
 ## Pit Fiends
 

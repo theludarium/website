@@ -74,8 +74,6 @@ In a three-player game, the dark green space of depot 6 holds a castle in phases
 
 Tracking still helps at lower counts, but it becomes about likelihood rather than certainty. Treat each tile as possibly the last of its kind.
 
-<!-- VERIFY: count the colors of the inner 12 depot spaces (2 players) and the "3" spaces (3 players) on the back of the board, and how many black depot spaces a three-player game uses, then add per-phase mixes for those counts. -->
-
 ## Use it to plan, not to stall
 
 Tile tracking is for big decisions: whether to chase a monastery, a color race, or a town plan. It is not something to recount every turn. Our guide to [analysis paralysis](/articles/analysis-paralysis-board-games/) is a good reminder that the table's time matters too.

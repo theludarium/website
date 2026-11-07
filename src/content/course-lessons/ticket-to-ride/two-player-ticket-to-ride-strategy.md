@@ -15,7 +15,7 @@ Two-player Ticket to Ride is one of the most popular ways to play, and it is not
 
 ## The board is roomier than it looks
 
-With 2 or 3 players, only one route of each double pair can be claimed. That closes 22 routes, about 53 train spaces of the board's 309, leaving about 256. <!-- VERIFY: space counts use the route list from the USA map lesson. -->
+With 2 or 3 players, only one route of each double pair can be claimed. That closes 22 routes, about 53 train spaces of the board's 309, leaving about 256.
 
 Now compare how much of the board the players can fill:
 

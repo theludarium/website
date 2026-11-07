@@ -19,7 +19,7 @@ A strong home group might play Ark Nova once or twice a month. A player chasing 
 
 **[Ark Nova Digital](https://direwolfdigital.com/ark-nova/),** from Dire Wolf, offers solo play against an AI, online games, and pass and play. Its Championship Series is another path to the world championship.
 
-<!-- VERIFY: check whether Board Game Arena requires a premium membership to start Ark Nova tables or to play ranked, and add a line if so. -->
+Board Game Arena is free to join, and some of its features are for Premium members. Check the Ark Nova game page for what your account can do before you plan a session.
 
 ## The championship seats online
 
@@ -30,7 +30,7 @@ Feuerland Spiele's [world championship page](https://www.feuerland-spiele.de/en/
 
 The page says the four qualifiers receive a flight to Berlin and hotel accommodation for the main event.
 
-<!-- VERIFY: check the Feuerland page and Board Game Arena for how "best players" in Season 27 is measured, and for qualifier results as they come in. -->
+The page does not yet define how "best players" in Season 27 is measured, so check it again as the season and the qualifiers play out.
 
 ## Real-time or turn-based?
 

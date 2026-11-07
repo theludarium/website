@@ -30,13 +30,11 @@ You do not need to build any of that yourself to start. A preconstructed deck co
 
 **[Proving Grounds](https://playriftbound.com/en-us/get-started/)** is the box Riot made for learning. It holds four preconstructed decks built around Annie, Master Yi, Lux, and Garen, plus a rulebook, playmats, and tokens, and it plays 2 to 4 people. One box gets a whole kitchen table playing, and the four decks feel different enough that everyone can find a favorite. <!-- AFFILIATE: Riftbound Proving Grounds -->
 
-<!-- VERIFY: a current US retail price for the first edition of Proving Grounds, and whether it is still easy to find in stores. -->
-
-**[Proving Grounds, 2nd Edition](https://playriftbound.com/en-us/news/announcements/products-and-sets-into-2027)** is due February 19, 2027, after the Legacy set. Riot lists it at $40, with four new decks built around Heimerdinger, Karma, Vladimir, and Illaoi, four oversized battlefields, four paper playmats, four score trackers, and a rulebook. Riot also says it holds no cards you cannot get from booster packs. <!-- AFFILIATE: Riftbound Proving Grounds, 2nd Edition -->
+**[Proving Grounds, 2nd Edition](https://playriftbound.com/en-us/news/announcements/products-and-sets-into-2027)** is due February 19, 2027, after the Legacy set. It holds four new decks built around Heimerdinger, Karma, Vladimir, and Illaoi, four oversized battlefields, four paper playmats, four score trackers, and a rulebook. Riot also says it holds no cards you cannot get from booster packs. <!-- AFFILIATE: Riftbound Proving Grounds, 2nd Edition -->
 
 So which one? If you want to play this month, buy the first edition. The rules are the same game either way. If you are shopping for a gift in early 2027, the 2nd Edition is the newer box. This course teaches the rules as they stand today.
 
-Both boxes work for store play too. The first edition's cards are legal in Standard, the main tournament format, and Riot has said older sets will start rotating out of Standard no earlier than 2028. <!-- VERIFY: Riot's own post on the first Standard rotation; the rules hub's Tournament Rules do not give a date. -->
+Both boxes work for store play too. The first edition's cards are legal in Standard, the main tournament format, and Riot's rules hub says it intends to start rotating older sets out of Standard in 2028.
 
 ## What if you only need one deck?
 

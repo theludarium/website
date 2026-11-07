@@ -86,6 +86,4 @@ Help with the puzzle, not the choices. "This card can be ink, that one can't" is
 
 Watch for two classic slips. A new player who inks nothing on turn one, and a new player who quests with everything and leaves the whole board exerted. One gentle question fixes both: "What can I challenge on my turn?"
 
-<!-- VERIFY: Lorcana League has awarded points for teaching a new player in past seasons. The Hyperia City organized play kit (September 30, 2026) describes Weekly Play with no League and no teaching points. Confirm whether the current season rewards teaching before adding a line that the teach sheet doubles as a League tool. -->
-
 When the game ends, play a second one straight away with hands hidden. The rules will stick far better on the second pass, and the person you just taught will start teaching you back.

@@ -38,7 +38,7 @@ From the [2026 event preview](https://www.boardgamers.org/wbc26/previews/DNI.htm
 
 That beginner welcome makes it one of the friendliest ways to try a real tournament. WBC 2027 runs July 24 to August 1, 2027, according to the [WBC page](https://www.boardgamers.org/wbcindex.html).
 
-<!-- VERIFY: the 2027 Dune Imperium event preview once WBC posts it; formats can change. -->
+Formats can change from year to year, so read the 2027 Dune: Imperium preview once WBC posts it.
 
 ## Dire Wolf's North American Championship
 
@@ -48,7 +48,7 @@ In 2025 Dire Wolf billed it as the Dune: Imperium Uprising North American Champi
 
 The [2026 championship](https://news.direwolfdigital.com/join-the-conspiracy-in-the-dune-imperium-championship-tournament-at-gen-con/) used open qualifier games at Gen Con, played in Uprising. The winner of each qualifier game moved on to a Top 64 played with Uprising and Bloodlines. The Top 16 and the final four then added a preview of the upcoming Conspiracy expansion.
 
-<!-- VERIFY: results of the 2026 North American Championship (Gen Con, July 30 to August 2, 2026), and the format and qualifier dates for 2027. -->
+Dire Wolf has not yet posted results from the 2026 championship or dates for 2027. Watch [its news page](https://news.direwolfdigital.com/) for both.
 
 The 2026 qualifiers were open rounds listed in the Gen Con event catalog, so you did not need an invitation to try. If you live near Indianapolis, the championship has been coming to your city.
 

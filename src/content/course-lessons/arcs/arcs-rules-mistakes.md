@@ -75,4 +75,4 @@ One rule about rules first. Cards beat the rulebook, but any rule that says **ca
 
 ## A table habit
 
-Discard played cards face down, as the rules ask, and never show your hand. When a question comes up, look it up in the rulebook's index rather than voting. Leder Games keeps an Arcs card library with official card FAQs and errata at cards.ledergames.com.
+Discard played cards face down, as the rules ask, and never show your hand. When a question comes up, look it up in the rulebook's index rather than voting. Leder's online card library dropped Arcs in 2026, after the game moved to Buried Giant Studios. For card rulings, the [Arcs forums on BoardGameGeek](https://boardgamegeek.com/boardgame/359871/arcs) are the best public place to ask.

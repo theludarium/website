@@ -71,9 +71,7 @@ The scenarios are the best practice in the box. They force you to play card sets
 
 ## Cascadia Junior
 
-[Cascadia Junior](https://www.amazon.com/dp/B0D7KCB845?tag=cubecommonw0a-20) is a standalone, simpler version for families with young children. It keeps the spatial puzzle and teaches pattern building, set collection, and simple addition.
-
-<!-- VERIFY: Cascadia Junior's player count, play time, and age range; AEG's page does not list them. -->
+[Cascadia Junior](https://www.amazon.com/dp/B0D7KCB845?tag=cubecommonw0a-20) is a standalone, simpler version for families with young children: 2 to 4 players, ages 6 and up, in about 15 to 30 minutes. It keeps the spatial puzzle and teaches pattern building, set collection, and simple addition.
 
 ## How to choose
 

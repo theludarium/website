@@ -26,7 +26,7 @@ Write down your event's exact setup: player count, expansions, boards, draft rul
 
 ## The four parts of every week
 
-**1. Volume.** Play two or three games a week. [Board Game Arena](https://boardgamearena.com/gamepanel?game=terraformingmars) is the easiest way to get them in. It supports the draft, Prelude, Colonies, Corporate Era, and several maps, which covers much of a typical tournament setup. <!-- VERIFY: confirm Board Game Arena's Terraforming Mars options (draft, Prelude, Colonies, Corporate Era, maps). --> Turn-based games let you play several at once around a busy week.
+**1. Volume.** Play two or three games a week. [Board Game Arena](https://boardgamearena.com/gamepanel?game=terraformingmars) is the easiest way to get them in. It supports the draft, Prelude, Colonies, Corporate Era, and several maps, which covers much of a typical tournament setup. Turn-based games let you play several at once around a busy week.
 
 **2. The event's setup.** At least one game a week should match your event as closely as you can: four players, the same expansions, the same draft, and a board from the event's list. If your event uses random milestones and awards, play with random ones.
 

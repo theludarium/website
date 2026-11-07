@@ -66,6 +66,4 @@ Both cards are worth the most on the first turns of a round and almost nothing o
 
 The rules do not spell out whether you can use chopsticks to take a wasabi and a nigiri on the same turn and put the nigiri on that new wasabi. Agree on a ruling before you play.
 
-<!-- VERIFY: Gamewright's ruling on taking a wasabi and a nigiri on the same turn with chopsticks, and whether the nigiri can go on the new wasabi. -->
-
 Used early and on purpose, wasabi and chopsticks turn ordinary hands into big rounds. Used late, they are the most common empty plates at the table.

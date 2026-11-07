@@ -43,7 +43,7 @@ Plenty of players go to a YCS for the crowd and the trading, not just the main e
 
 **World Championship Qualifiers** are invite-only. Duelists who earned invites at the earlier steps compete for a chance to represent their region at the **Yu-Gi-Oh! World Championship**. The 2026 North America WCQ was held at the Minneapolis Convention Center, July 10 to 12, 2026.
 
-<!-- VERIFY: dates and city for the 2027 North America WCQ once Konami posts them. -->
+Konami posts each year's WCQ dates and city on its [World Championship Qualifier page](https://www.yugioh-card.com/en/events/world-championship-qualifier/).
 
 ## Remote Duel: play from home
 

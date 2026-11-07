@@ -22,13 +22,9 @@ A rating is a useful measuring stick, with two cautions:
 - **It moves slowly and noisily.** Look at the trend over dozens of games, not the change after one.
 - **Settings matter.** Player count, edition, and duchy setup all change the game. For tournament practice, play four-player games under the 2019 edition rules, which match the current box.
 
-<!-- VERIFY: check the current BGA rating system and Arena season rules for Castles of Burgundy before naming levels, seasons, or rating numbers. -->
-
 ## Replays: the best free teacher
 
-Board Game Arena keeps a replay of finished games, so you can watch a game again move by move. You can open your own from your profile, and finished games of other players are reachable from their profiles and the game's results.
-
-<!-- VERIFY: confirm how replay controls currently work on BGA (stepping forward and back) and where finished games of other players are listed. -->
+Board Game Arena keeps a replay of finished games, so you can watch a game again move by move, your own or other players'.
 
 Use replays two ways.
 

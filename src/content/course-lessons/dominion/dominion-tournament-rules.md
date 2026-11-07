@@ -20,7 +20,7 @@ The rules of Dominion do not change at a tournament. The procedures around them 
 - **Class B:** the event welcomes beginning players.
 - **Bring a copy of the game.** The preview notes that players have been turned away from heats in past years for lack of copies.
 
-<!-- VERIFY: how many players sit at each WBC Dominion table, and what happens if a game is unfinished when the hour ends; the 2026 preview does not say. -->
+The preview does not give a table size or say what happens to a game still running when the hour ends, so ask the GM at the start of your heat.
 
 ## The card pool and the kingdom
 
@@ -43,7 +43,7 @@ How much is a seat worth? There is no fixed answer, and it depends on the kingdo
 
 ## Ending and ties
 
-The preview says buying out the Provinces or any three other Supply piles ends the game immediately. The rulebook ends the game at the end of that turn, so ask the GM which applies before you rely on a last-turn trick. <!-- VERIFY: whether WBC Dominion ends the game immediately or at the end of the turn, as the preview's wording differs from the rulebook. --> Most points wins, after bids. Ties go to the player with fewer turns. If still tied, both players win in a heat; in the quarterfinal and later, the player with the later starting seat wins.
+The preview says buying out the Provinces or any three other Supply piles ends the game immediately. The rulebook ends the game at the end of that turn, so ask the GM which applies before you rely on a last-turn trick. Most points wins, after bids. Ties go to the player with fewer turns. If still tied, both players win in a heat; in the quarterfinal and later, the player with the later starting seat wins.
 
 ## Playing well against the hour
 

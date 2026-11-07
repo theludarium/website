@@ -43,7 +43,7 @@ The format, from the [2026 event preview](https://www.boardgamers.org/wbc26/Prev
 
 The event is marked as welcoming beginning players. The preview also asks players to bring a copy of the game, so nobody is left out of a heat.
 
-<!-- VERIFY: WBC 2027 dates and the Dominion event format once the 2027 preview is posted. -->
+Dates and format can change from year to year, so read the current Dominion preview before you plan a trip.
 
 ## Online play
 
@@ -53,7 +53,7 @@ Online is the fastest way to get many games in, and to see kingdoms you would ne
 - **Dominion Online.** [Dominion Online](https://dominion.games/) has been the licensed way to play in a browser, and Shuffle iT, the team behind it, has hosted an annual official Dominion Online Championship. In 2021 it was a single-elimination event open to Gold subscribers that [started with 356 players](https://dominionstrategy.com/2021/10/28/dominion-online-2021-championship-final-8/).
 - **Community events.** The [Dominion Strategy](https://dominionstrategy.com/) site covers the online scene. Its reports include a team event, the Dominion World Cup, whose 2022 edition had [84 players from 17 countries](https://dominionstrategy.com/2022/03/08/germany-wins-dominion-world-cup-2022/) and was won by Team Germany A. The community also runs the Dominion League, which had reached at least its 47th season by 2021.
 
-<!-- VERIFY: whether the Dominion Online Championship, the Dominion World Cup, and the Dominion League still run in 2026, and on which platform. -->
+Community events come and go, so check Dominion Strategy for what is running now and where it is played.
 
 ## Finding local play
 
@@ -62,8 +62,6 @@ You do not need a tournament to find good opponents.
 - **Your local game store.** Many run open game nights, and Dominion is easy to bring because it fits in one box. Ask the staff.
 - **Your library or community center.** Many host board game meetups.
 - **Start your own.** Our guide on [how to start a play group](/articles/how-to-start-a-play-group/) walks through it, and our [league format guide](/articles/board-game-league-format/) shows how to run a season of one game, Dominion included.
-
-<!-- VERIFY: whether Rio Grande Games runs a store locator or organized play program for Dominion; link it here if so. -->
 
 If you are near Indianapolis, join the [Indianapolis list](/lounges/indianapolis/) for first word on local learn-to-play nights as The Ludarium grows.
 

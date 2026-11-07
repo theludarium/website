@@ -28,8 +28,6 @@ The rulebook names the four low-complexity Spirits as the ones to start with, an
 
 As with the starters, flip the panel first. The Play Style section on the back is the fastest summary of what a Spirit wants.
 
-<!-- VERIFY: A Spread of Rampant Green's complexity (Moderate) against its panel; the rulebook confirms the four Low Spirits, and a designer update confirms Thunderspeaker as Moderate and Bringer and Ocean as High. -->
-
 ## A Spread of Rampant Green
 
 **The rule it breaks: Invaders do what the land allows.** Its Special Rule, Choke the Land with Green, lets it stop a Ravage or a Build in a land with its Sacred Site by destroying one of its own Presence there. A second Special Rule, Steady Regeneration, lets it put destroyed Presence back on the Island when it Grows, freely while the Island is Healthy and at a cost of Energy once it is Blighted.
@@ -37,8 +35,6 @@ As with the starters, flip the panel first. The Play Style section on the back i
 Read together, those two rules mean Rampant Green spends Presence as a resource. It plants Sacred Sites in the lands about to Ravage or Build, cancels the Invader action, and grows the lost Presence back. Its Innate Powers add Defend and Damage to buildings when it has enough Plant with Water or Moon.
 
 The rulebook names it, with Vital Strength of the Earth, as a Spirit that can prevent Ravages, and calls Sweden easier for it as a result. Pair it with a Spirit that destroys buildings, so the lands it protects also get cleared.
-
-<!-- VERIFY: check A Spread of Rampant Green's panel for the exact wording of Steady Regeneration and Choke the Land with Green. -->
 
 ## Thunderspeaker
 
@@ -48,8 +44,6 @@ Its Innate Powers Gather or Push Dahan into position and, with enough Sun and Fi
 
 Teammates help most by keeping the Dahan alive: Defend in Thunderspeaker's lands, and fewer Ravages where its Dahan stand.
 
-<!-- VERIFY: check Thunderspeaker's panel for the exact wording of Ally of the Dahan and Sworn to Victory (within 1 land?). -->
-
 ## Bringer of Dreams and Nightmares
 
 **The rule it breaks: Damage destroys things.** Its Special Rule, To Dream a Thousand Deaths, means its Powers never deal real Damage and never destroy Invaders. When its Powers would destroy them, the Invaders are instead terrified: Explorers and Towns are Pushed away and Fear is generated in their place.
@@ -58,8 +52,6 @@ That makes Bringer a Fear engine. Its Innate Powers generate more Fear with Moon
 
 Pair Bringer with a Spirit that destroys Towns and Cities for real. Bringer moves the Invaders where its partner can reach them, and the Fear pours in from both. The [Fear lesson](/academy/spirit-island/spirit-island-fear-and-terror-levels/) is required reading for this Spirit.
 
-<!-- VERIFY: check Bringer of Dreams and Nightmares's panel for the exact wording of To Dream a Thousand Deaths, including the Fear generated per Explorer, Town, and City. -->
-
 ## Ocean's Hungry Grasp
 
 **The rule it breaks: the Ocean is not in play.** For every other Spirit, the Ocean is just scenery. Ocean's Special Rule, Ocean in Play, lets it place Presence in the Ocean but never Inland, and on boards where it has Presence, the Ocean counts as a Coastal Wetland for Powers. Invaders and Dahan moved into the Ocean are Drowned, and Ocean turns Drowned Invaders into Energy.
@@ -67,8 +59,6 @@ Pair Bringer with a Spirit that destroys Towns and Cities for real. Bringer move
 Ocean lives on the coast. Its Innate Powers generate Fear and Drown Towns and Cities, and its Powers pull Invaders into the sea. It is excellent at the coastal lands where the Invaders arrive, and nearly absent Inland.
 
 Pair Ocean with a Spirit that covers the Island's interior. Together they split the board by geography, which keeps planning simple.
-
-<!-- VERIFY: check Ocean's Hungry Grasp's panel for its setup instructions and the exact wording of Ocean in Play and Drowning. -->
 
 ## Choosing among eight
 

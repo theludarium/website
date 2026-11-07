@@ -30,7 +30,7 @@ Two forces pull in opposite directions:
 - **Center castle.** The Middle Kingdom variant pays 10 points for it. The castle is also wild, so in the center it touches up to four different territories and gives each of them a safe place to start.
 - **Edge or corner castle.** Leaves a larger open area on one side for one big territory, which lesson 4 says is where the points are.
 
-Without the Middle Kingdom bonus, many strong players let the castle drift toward an edge or corner and build their biggest territory across the open space. With the bonus in play, 10 points is a lot in a game where winning scores often sit in the 40s and 50s, so plan for the center from the first domino. <!-- VERIFY: typical winning score range for four-player Kingdomino with the base rules. -->
+Without the Middle Kingdom bonus, many strong players let the castle drift toward an edge or corner and build their biggest territory across the open space. With the bonus in play, 10 points is a big swing, often enough to decide a close game, so plan for the center from the first domino.
 
 ## The one square no domino can fill
 

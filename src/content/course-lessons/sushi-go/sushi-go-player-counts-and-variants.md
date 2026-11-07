@@ -48,9 +48,7 @@ The rules include a variant credited to Peter Kinsley that adds a third "dummy" 
 5. Your opponent now controls the dummy the same way. Keep alternating until all cards are played.
 6. Play three rounds and score as usual.
 
-The dummy scores like a player, which brings back the pudding penalty and a real second place in maki. It also gives each of you a way to dump cards the other wants: what you give the dummy is gone.
-
-<!-- VERIFY: in the two-player dummy variant, whether the dummy's score counts for pudding most and fewest and for maki placings, and whether the minus 6 applies with the dummy in play. The rules say to score "as per normal rules." -->
+The rules say only to score as normal. They do not say whether the dummy counts as a third player for maki and pudding, so agree on that before you start. If it counts, second place in maki matters again, and so may the pudding penalty. The dummy also gives each of you a way to dump cards the other wants: what you give the dummy is gone.
 
 ## Three players
 

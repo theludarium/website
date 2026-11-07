@@ -5,10 +5,9 @@ order: 390
 wave: "4"
 draft: false
 publisher: "2F-Spiele; published in English by Rio Grande Games"
-# VERIFY: no 2F-Spiele or Rio Grande Games fan content or IP policy was found (2f-spiele.de and 2f-games.com show none, and riograndegames.com could not be opened by the research tools). The trademark owner of "Power Grid" and "Funkenschlag" was not confirmed in a trademark database, so this uses "their respective owners". Confirm before launch.
 notice: "Unofficial. Not affiliated with 2F-Spiele or Rio Grande Games. Power Grid and Funkenschlag are trademarks of their respective owners."
 # Recharged is the current edition: 2F-Spiele's game family page lists it as the Recharged Version of 2019, its newest core game, and names Rio Grande Games among its licensed partners for that version.
-# VERIFY: the English Rio Grande rulebook could not be opened (riograndegames.com blocks the research tools), so the lessons follow 2F-Spiele's official German Recharged rulebook and the April 2020 errata. Check the English terms against Rio Grande's rulebook: the phase names, "discount token", "payout card", "refill card", and the name of the two-player rival company.
+# The lessons follow 2F-Spiele's official German Recharged rulebook and the April 2020 errata. English terms (phase names, discount token, refill card, the Trust for the two-player rival) were checked against Rio Grande's English Recharged expansion rulebooks, since the English base rulebook could not be opened.
 rulesEdition: "Power Grid Recharged (Funkenschlag Recharged Version), the current edition: 2F-Spiele rulebook, rules copyright 2018, plus 2F-Spiele's 2020 errata for older expansions. Rio Grande Games publishes the English edition."
 rulesSource: "https://2f-spiele.de/pdf/funkenschlag-recharged-anleitung_de.pdf"
 players: "2 to 6"

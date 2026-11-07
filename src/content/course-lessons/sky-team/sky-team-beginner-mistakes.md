@@ -39,7 +39,7 @@ Your first three flights of Sky Team are where a crew finds its habits. Some cra
 
 **Reading the speed rule as "equal is fine."** Your speed must be lower than the Brake marker. One brake only lets you land with two 1s on the Engines, the lowest speed there is. The booklet's own example lands at a speed of 3 with the 2 and 4 brakes built.
 
-<!-- VERIFY: where the red Brake marker sits after the first and third brakes (the booklet's example puts it between the 4 and the 5 after the second). -->
+The red marker starts left of the 2 and moves one space per brake: between the 2 and the 3 after the first, between the 4 and the 5 after the second, and past the 6 after the third. So one brake allows a speed of 2, two brakes up to 4, and all three up to 6.
 
 **Leaving a Switch red.** All three Landing Gear and all four Flaps must show green at the end. In the final round each of you has only two dice beyond the Axis and the Engines, so a player who arrives with three red Switches on their side cannot fix them all.
 

@@ -26,8 +26,6 @@ From your event's rules, write down five things:
 
 Then practice that format, not the home game.
 
-<!-- VERIFY: the format of the specific event Levi points readers to (WBC 2027 or another), and update the five-item example above if it changes. -->
-
 ## The race log
 
 Keep one line per race, on paper or in a phone note:

@@ -33,7 +33,7 @@ Three lessons for practice come out of that:
 2. **Advanced maps, drafted.** Practice choosing from a pool, not playing Map A.
 3. **Close finishes.** The final was decided by a point and a half, so your last turns and your Final Scoring card matter.
 
-<!-- VERIFY: check the WBC 2027 event preview for its heat format, map pool, and any change to seat bidding before using this plan for that event. -->
+WBC 2027 runs July 24 to August 1. Its event previews come out closer to the convention, so read the Ark Nova preview when it is posted and adjust this plan to its heat format, map pool, and seat rules.
 
 ## The four parts of every week
 

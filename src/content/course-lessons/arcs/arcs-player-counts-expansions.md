@@ -58,8 +58,6 @@ Two-player games often turn decisive early, and the rulebook notes that concedin
 
 **Coming later: Beyond the Reach.** In spring 2026, Buried Giant Studios, the new studio of designer Cole Wehrle and artist Kyle Ferrin, crowdfunded three new expansions. Lost Vaults and Fated Leaders expands the base game, with pieces for a fifth player, a new 31-card Court deck, Fated Leaders with simpler powers, and randomized map elements. Beyond the Reach and Halls of Power expand the campaign. Check the campaign page for when they reach stores.
 
-<!-- VERIFY: check the Beyond the Reach shipping estimate and retail plans on the Buried Giant Studios campaign page before naming a date. -->
-
 ## Which to buy first
 
 If your group plays the base game and likes it, the base box's own Leaders and Lore is the first step, and it costs nothing extra. The Leaders and Lore Pack comes next for groups who want more leaders. The Blighted Reach is for a group that will meet for three long sessions in a row. Our article on [whether expansions are worth it](/articles/expansions-worth-it/) has a general test, and our guide to [player counts](/articles/board-game-player-counts/) explains why some games shine at one number.

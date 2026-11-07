@@ -21,9 +21,9 @@ At home you can play any cards you both agree on. Sanctioned events use a **form
 - **Expanded** allows a much larger pool of older cards, with its own banned list. Fewer local events use it.
 - **Alternative formats**, such as Gym Leader Challenge, are described in the official Alternative Play Handbook. They are fan favorites for casual nights.
 
-Ask your store which regulation marks are legal right now. <!-- VERIFY: the regulation marks legal in Standard this season and the next rotation date. -->
+As of the September 2026 tournament handbook, Standard allows cards with regulation marks H, I, and J. Ask your store if that has changed.
 
-New sets join Standard a short time after release: the tournament rules make new cards legal on the second Friday after the set's US release. For **Mega Evolution: Delta Reign**, out November 6, 2026, that points to November 20, 2026. Check the official banned list whenever a set arrives. <!-- VERIFY: the Delta Reign legal date (November 20, 2026, worked out from the December 2024 rules handbook's second-Friday rule) and the writer's report that the Delta Reign rules announcement banned no new cards, on the official Play! Pokémon rules pages, which the fact check could not open. -->
+New sets join Standard a short time after release: the tournament rules make new cards legal on the second Friday after the set's US release. For **Mega Evolution: Delta Reign**, out November 6, 2026, that points to November 20, 2026. Play! Pokémon's Delta Reign rule changes announcement confirms November 20 and bans no new cards. Check the official banned list whenever a set arrives.
 
 ## Age divisions
 
@@ -49,7 +49,7 @@ Your division stays the same all season, and younger players face others near th
 
 **6. The Pokémon World Championships.** The season's final event. For 2027, a set number of top Championship Point earners in each region and age division get invitations. Winning a Regional or Special Championship, or finishing in the top 4 at an International, also earns one.
 
-The official [Championship Series site](https://championships.pokemon.com/en-us/) lists the events and the season's structure. <!-- VERIFY: League Challenge and League Cup match structure this season (best of one or best of three, round times). -->
+The official [Championship Series site](https://championships.pokemon.com/en-us/) lists the events and the season's structure. League Challenges and League Cups can be single games or best of three, and the store picks, so ask before round one. League Challenges are Swiss rounds only. League Cups add a top cut.
 
 ## What changes at a tournament
 

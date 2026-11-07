@@ -17,7 +17,7 @@ Welcome to Level 3. At Level 2 you learned to count cards. Now you count power. 
 
 Your opponent loses when their Leader takes damage while they have 0 Life cards. So the number of Leader hits you need is **their Life plus 1**. At 2 Life you need 3 hits. At 0 Life you need 1.
 
-Double Attack changes the count, with one catch. A Double Attack hit deals 2 damage, so at 2 or more Life it takes 2 Life cards and counts as 2 of your hits. But the rules check for the win only once, when the hit lands: if the defender has 0 Life at that moment, you win. At 1 Life, a Double Attack hit takes the last Life card and the game goes on, so you still need one more hit. Count Double Attack as 2 hits only while the defender has at least 2 Life left. <!-- VERIFY: the Comprehensive Rules (7-1-4-1-1-1 to 7-1-4-1-1-3) repeat only the add-a-Life-card step for the second damage; confirm in an official Q&A that a Double Attack hit at 1 Life does not win. -->
+Double Attack changes the count, with one catch. A Double Attack hit deals 2 damage, so at 2 or more Life it takes 2 Life cards and counts as 2 of your hits. But the rules check for the win only once, when the hit lands: if the defender has 0 Life at that moment, you win. At 1 Life, a Double Attack hit takes the last Life card and the game goes on, so you still need one more hit. Count Double Attack as 2 hits only while the defender has at least 2 Life left. Bandai's official rules Q&A confirms it: Double Attack cannot win the game when the defender has 1 Life card.
 
 ## Attacks available
 

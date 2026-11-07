@@ -26,7 +26,7 @@ The officially licensed digital edition is [Dominion by Temple Gates Games](http
 
 The app left early access and fully launched on February 1, 2024.
 
-There is also [Dominion Online](https://dominion.games/), the browser version from Shuffle iT that many long-time players learned on. <!-- VERIFY: whether dominion.games is still running in 2026, what it offers free, and whether it still hosts official championships. -->
+There is also [Dominion Online](https://dominion.games/), the browser version from Shuffle iT that many long-time players learned on. It is still online, so it is worth a look if you prefer to play in a browser.
 
 ## A path through the modes
 

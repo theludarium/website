@@ -11,9 +11,7 @@ oneIdea: "Every turn has three parts: draw a card, do any of six actions, then a
 tryThis: "In your next game, say the three parts of the turn out loud each time: draw, actions, attack. Stop before attacking and ask, is there anything else I want to do first?"
 nextTeaser: "Next, reading a card. We label every part of a Pokémon card, from HP and Stage to Weakness and Retreat Cost, on an original mock card."
 ---
-The Pokémon TCG looks busy, with cards everywhere and counters piling up. Underneath, each turn follows the same simple rhythm. This lesson walks through the Pokémon card game rules in the order the current official rulebook does, from the handshake to the last Prize card.
-
-<!-- VERIFY: the newest rulebook linked from pokemon.com (30c_rulebook_en.pdf) could not be opened; check this lesson against it in case anything changed after the ME05 rulebook of July 2026. -->
+The Pokémon TCG looks busy, with cards everywhere and counters piling up. Underneath, each turn follows the same simple rhythm. This lesson walks through the Pokémon card game rules in the order the official rulebook does, from the handshake to the last Prize card. Each new set comes with a fresh rulebook on the official site, so check it if a rule here ever seems out of step.
 
 ## How do you win?
 

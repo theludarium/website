@@ -22,8 +22,6 @@ A plan needs a date. The [tournaments lesson](/academy/castles-of-burgundy/castl
 - **The World Series of Board Gaming** in Las Vegas, if the game is on its ring list that year.
 - **A local or online tournament.** Game stores, clubs, and online communities run them too. Our guide to [running a board game tournament](/articles/how-to-run-a-board-game-tournament/) helps if you end up organizing one yourself.
 
-<!-- VERIFY: before publishing dates, check the WBC 2027 event list and the WSBG 2027 ring games for The Castles of Burgundy. -->
-
 Put the date on your calendar. Then count back six weeks.
 
 ## The four parts of every week

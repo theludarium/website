@@ -17,8 +17,6 @@ Welcome to Level 4. Tournaments add expansions as their rounds go on. WBC's 2025
 
 ## Colonies rules in brief
 
-<!-- VERIFY: this rules summary was checked against a RulesPal summary, not the official Colonies rulebook; confirm setup by player count, trade cost, and fleet rules against the rulebook. -->
-
 From the Colonies rulebook:
 
 **Setup.** Draw Colony Tiles equal to the number of players plus 2, or 5 tiles in a two-player game. Solo, draw 4 and keep 3 in play. Put a white marker on the highlighted second step of each track. Each player takes one trade fleet. Titan, Enceladus, and Miranda start with their marker on the moon itself, and only open once a card that can collect their resource is in play.
@@ -70,7 +68,7 @@ Pick the one that costs you the least, not the one that is easiest to count.
 
 ## Tournament rules to know
 
-Events can adjust Colonies. The [WBC 2025 event](https://www.boardgamers.org/wbc25/Previews/tfm.html), for example, allowed only one trade per turn, and let players build or trade at Titan, Miranda, or Enceladus even without a card to hold that resource. Read the event page before you play. <!-- VERIFY: check the next WBC Terraforming Mars preview for any changes to its Colonies rules. -->
+Events can adjust Colonies. The [WBC 2025 event](https://www.boardgamers.org/wbc25/Previews/tfm.html), for example, allowed only one trade per turn, and let players build or trade at Titan, Miranda, or Enceladus even without a card to hold that resource. Read the event page before you play, since these house rules can change from year to year.
 
 <!-- AT OUR TABLE: one line on how Colonies changed the feel of Levi's group's games, and which tile they fight over. -->
 

@@ -42,15 +42,13 @@ When the booklet is done, the publisher's [Sky Team downloads page](https://www.
 
 Sky Team is on [Board Game Arena](https://boardgamearena.com/gamepanel?game=skyteam), and the publisher links to it from its own Sky Team page. It runs in a browser, has a tutorial, and the silence takes care of itself, since there is no table to tap. It is a good way to keep flying with a co-pilot in another city, or to meet new ones.
 
-<!-- VERIFY: Board Game Arena lists Sky Team as a Premium game; check whether one player at the table needs a paid account, and whether the Turbulence scenarios are available there. -->
+Board Game Arena is free to join, and some of its features are for Premium members. Check the Sky Team game page for what your account can do, and whether it includes the Turbulence scenarios, before you plan a flight there.
 
 Online, the table chat is your briefing. Agree on the round's plan there before the roll, and keep to the same rule as at home: talk about the plane, never the dice.
 
 ## Is there competitive Sky Team?
 
 Not in the usual sense. You play against the game, together, and no official tournament circuit turned up in our research. Its recognition has come from awards instead: the Spiel des Jahres jury named it the 2024 Game of the Year.
-
-<!-- VERIFY: whether Le Scorpion Masqué, a convention, or Board Game Arena runs Sky Team challenge events or arena seasons worth listing here. No Sky Team event was found in the World Boardgaming Championships previews for 2024 to 2026. -->
 
 If you want a measure of skill, use the Flight Log. Landing Heroic scenarios on the first try, with the timer running, is about as hard as Sky Team gets.
 
@@ -62,8 +60,6 @@ Sky Team teaches in five minutes and plays in about 20, which makes it a strong 
 - **Your library or community center.** Many host board game meetups, and short games like this one fit between longer ones.
 - **Start your own.** Our guide on [how to start a play group](/articles/how-to-start-a-play-group/) walks through it.
 - **Date night.** Sky Team is a strong pick for couples; our [Indianapolis board game date night guide](/articles/board-game-date-night-indianapolis/) suggests it for established couples.
-
-<!-- VERIFY: whether Le Scorpion Masqué or its US distributor has a store locator to link here. -->
 
 If you are near Indianapolis, join the [Indianapolis list](/lounges/indianapolis/) for first word on local learn-to-play nights as The Ludarium grows.
 

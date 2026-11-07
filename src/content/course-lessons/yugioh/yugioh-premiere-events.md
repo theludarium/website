@@ -38,7 +38,7 @@ From Konami's booster list:
 - **[Glorious Victors](https://www.yugioh-card.com/en/products/glvi/)** launches December 4, 2026, with stores getting it December 2. It is a 60-card set, and each pack holds 7 cards: 1 foil and 6 Rares.
 - **[Immortal Phoenix](https://www.yugioh-card.com/en/products/imph/)** launches January 29, 2027, with stores getting it January 27. It is a 100-card set centered on Marik's monsters, with new "Sun God" cards.
 
-<!-- VERIFY: whether Konami lists Premiere! events for Glorious Victors or Immortal Phoenix, and their dates. -->
+Konami posts each Premiere! event on its [Premiere! event page](https://www.yugioh-card.com/en/events/core-booster-premiere/) closer to launch, so check there or ask your store whether it will host one for these sets.
 
 ## Sealed play: build from what you open
 

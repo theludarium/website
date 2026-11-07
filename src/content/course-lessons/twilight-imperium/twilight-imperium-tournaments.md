@@ -22,8 +22,6 @@ Formats vary by organizer, so always read the event's own rules. Common patterns
 - **A clock.** A full game in a fixed time slot is the main difference from a home game. Events often set a round or time limit and score the game as it stands when time runs out.
 - **A set rules package.** Organizers say in advance which expansions and Codex updates are in play, and whether the galaxy is drafted. Slice drafts like the Milty draft from lesson 10 are a common choice.
 
-<!-- VERIFY: if Levi plans to name a specific event, add its format and dates from the organizer's own page. -->
-
 The World Boardgaming Championships ran Twilight Imperium tournaments from 2009 to at least 2013, before this edition existed. Check the [Boardgame Players Association](https://www.boardgamers.org/) for the current event list.
 
 ## What changes under a clock

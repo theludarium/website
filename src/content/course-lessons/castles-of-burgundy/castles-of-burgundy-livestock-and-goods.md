@@ -77,5 +77,3 @@ So hold a single tile when you can, until a ship brings a match. Sell a single o
 ## Ships pay twice
 
 Remember the ship's other half: every ship moves you up the bridge. Duchy 1 has six blue spaces, two rivers of three, so a goods plan is also a turn order plan. The [midgame lesson](/academy/castles-of-burgundy/castles-of-burgundy-midgame-strategy/) shows how to use that.
-
-<!-- VERIFY: duchy 1 region sizes (pastures of 5 and 1, rivers of 3 and 3, six blue spaces) were read from the duchy pictured on page 3 of the 2020 English rulebook; confirm against a physical duchy 1 board. -->

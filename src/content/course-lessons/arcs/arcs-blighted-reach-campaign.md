@@ -67,4 +67,3 @@ In Act III, A and B Fates have two **grand ambitions** that are always active an
 - **Keep the same group.** Our article on [missed sessions in campaign games](/articles/campaign-game-missed-session/) has options if someone cannot come back.
 - **Talk deals out loud.** Summits reward negotiation. Our guide to [negotiation games](/articles/negotiation-board-games/) covers good table manners for it.
 
-<!-- VERIFY: add a typical Act length once confirmed from Leder Games or the campaign rules, rather than estimating. -->

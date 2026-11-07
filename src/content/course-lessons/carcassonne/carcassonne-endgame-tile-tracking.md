@@ -35,7 +35,7 @@ With 71 tiles to draw and no tile returned to the box, the last tile goes to:
 | 4 | The third player |
 | 5 | The first player |
 
-Each time a tile is returned to the box because it fits nowhere, the game is one placement shorter, and the last tile moves back one seat. So if one tile was returned in a two-player game, the second player places the last tile instead. Keep track of returned tiles for exactly this reason. <!-- VERIFY: the 71 drawable tiles assume the 2021 box has the same 72-tile base set as earlier editions; confirm against the box before publishing. -->
+Each time a tile is returned to the box because it fits nowhere, the game is one placement shorter, and the last tile moves back one seat. So if one tile was returned in a two-player game, the second player places the last tile instead. Keep track of returned tiles for exactly this reason.
 
 Why it matters: the player who places the last tile gets the last word. They can make a final merge into a field or city, and nobody can answer it. If that player is not you, your defense has to be in place before your own last turn.
 

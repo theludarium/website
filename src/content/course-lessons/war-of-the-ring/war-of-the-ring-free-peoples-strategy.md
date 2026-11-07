@@ -42,7 +42,7 @@ Keep a cheap Companion or two in the Fellowship for the road to Mordor. Once the
 
 ## Aragorn and Gandalf the White
 
-Aragorn needs Strider in Minas Tirith, Dol Amroth, or Pelargir, not under enemy control, and a Will of the West die. <!-- VERIFY: Aragorn's entry condition on the Aragorn, Heir to Isildur card --> Gandalf the White needs Gandalf the Grey eliminated or out of the Fellowship, and at least one Minion in play now or before. Then a Will of the West die places him in Fangorn or in a Free Peoples Elven Stronghold, or replaces Gandalf the Grey on the map. Each brings a fifth or sixth die from the next turn on. That is a big deal for a side that starts with four.
+Aragorn needs Strider out of the Fellowship, standing in one of the Gondor cities named on the Aragorn card, and a Will of the West die. Gandalf the White needs Gandalf the Grey eliminated or out of the Fellowship, and at least one Minion in play now or before. Then a Will of the West die places him in Fangorn or in a Free Peoples Elven Stronghold, or replaces Gandalf the Grey on the map. Each brings a fifth or sixth die from the next turn on. That is a big deal for a side that starts with four.
 
 ## Waking the Nations
 

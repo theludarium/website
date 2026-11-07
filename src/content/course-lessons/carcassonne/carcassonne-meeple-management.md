@@ -26,8 +26,6 @@ The base game has 71 land tiles to draw after the start tile. Each turn uses one
 | 4 | 18 or 17 |
 | 5 | 15 or 14 |
 
-<!-- VERIFY: the 71 drawable tiles assume the 2021 box has the same 72-tile base set as earlier editions; confirm against the tile overview in the box. -->
-
 Now compare that to your seven meeples. In a two-player game you have about five turns for every meeple. In a five-player game you have about two.
 
 That ratio is the heart of meeple management. **The more turns you have per meeple, the more each meeple has to cycle.** In a two-player game, a meeple that gets stuck early costs you many future placements. In a five-player game, you will rarely run out, but each of your few turns matters more, so a turn spent placing nothing hurts.

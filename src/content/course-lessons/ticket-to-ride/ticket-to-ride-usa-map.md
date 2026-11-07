@@ -13,7 +13,7 @@ nextTeaser: "Next, player counts, variants, and other maps: what changes at 2 pl
 ---
 Every game of Ticket to Ride on the USA map is different, because the tickets and cards are different. The board is not. The same cities sit at the same crossroads every game, and the same handful of routes get fought over again and again. Learning the map's shape is the cheapest skill in the game: you study it once and use it forever.
 
-The counts in this lesson come from the route list of the USA map and from our own shortest-path count across the 33 tickets in the current box. <!-- VERIFY: route counts, lengths, and colors against the 2025 board; our counts used a fan-made route list (100 routes, 22 double pairs, 36 cities) that matches the original map. Ticket counts assume the 2025 deck is the 30 original tickets plus Atlanta to Washington, Omaha to New Orleans, and San Francisco to Washington, per a review of the 2025 edition; confirm against the cards. -->
+The counts in this lesson come from the route list of the original USA map, which the 2025 edition keeps, and from our own shortest-path count across the 33 tickets in the current box: the 30 original tickets plus Atlanta to Washington, Omaha to New Orleans, and San Francisco to Washington.
 
 ## The shape of the board
 
