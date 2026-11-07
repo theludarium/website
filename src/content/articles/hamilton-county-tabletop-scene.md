@@ -16,7 +16,7 @@ Two stores and a library system.
 
 **[Hero's Emporium](https://www.visithamiltoncounty.com/listing/heros-emporium/5473/)** is a tabletop, card, and RPG store with Magic nights, Commander sessions, and free RPG days. The RPG days are the most beginner-friendly public table in the county.
 
-**[Next Level Games](https://www.visithamiltoncounty.com/listing/next-level-games/5751/)** stocks tabletop, cards, and RPGs and hosts Magic nights and game events.
+**[Next Level Games](https://www.nextlevelgames.store/events?location=carmel)** stocks tabletop, cards, and RPGs and hosts Magic nights and game events.
 
 The [Carmel Clay Public Library](https://carmelclaylibrary.org/events) is large and active; teen D&D and game programs are common at libraries of its size, and it is worth checking the calendar directly.
 
