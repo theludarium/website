@@ -1,0 +1,94 @@
+title: "Beyond the Shore"
+game: "CATAN: Seafarers"
+format: full
+order: 114
+wave: "catan-x"
+draft: false
+publisher: "Catan Studio"
+notice: "Unofficial. Not affiliated with CATAN GmbH or Catan Studio. CATAN is a trademark of CATAN GmbH."
+rulesEdition: "CATAN Seafarers rulebook, 6th edition (2025)"
+rulesSource: "https://www.catan.com/sites/default/files/2025-03/CN3083%20CATAN%E2%80%93Seafarers%20Rulebook%202025%20secured%20reduced.pdf"
+players: "3 to 4 (5 to 6 with the extension)"
+playTime: "60 to 120 minutes"
+ages: "Ages 10 and up"
+promise: "Learn Catan Seafarers, teach it in ten minutes, then read open sea, time every voyage, and solve each scenario like a new puzzle."
+description: "A free Catan Seafarers course: learn ships, gold fields, and the pirate, teach it in ten minutes, then solve every scenario and read random New World maps."
+audience:
+  - "Catan players who just opened Seafarers and want the new rules clear."
+  - "Hosts who teach Seafarers to a group that already knows base Catan."
+  - "Players who keep reaching the islands one turn too late and want to know why."
+  - "Groups working through the scenario campaign who want a plan for each map."
+levels:
+  - level: 0
+    name: "Deckhand"
+    label: "Learn to play"
+    outcome: "Set up a scenario, build and move ships, and play Heading for New Shores to the end without opening the rulebook."
+  - level: 1
+    name: "Sailor"
+    label: "Beginner"
+    outcome: "Skip the classic first-game slips, choose a ship or a road on purpose, and aim the pirate and the robber where they hurt most."
+  - level: 2
+    name: "Navigator"
+    label: "Intermediate"
+    outcome: "Open with the sea in mind, value gold fields correctly, time your voyages for island bonus points, and win Longest Route across water."
+  - level: 3
+    name: "Captain"
+    label: "Advanced"
+    outcome: "Play The Four Islands, The Fog Islands, Through the Desert, and The Forgotten Tribe with a plan built for each map."
+  - level: 4
+    name: "Commodore"
+    label: "Expert"
+    outcome: "Master the scenarios with their own extra rules: Cloth for Catan, The Pirate Islands, and The Wonders of Catan."
+  - level: 5
+    name: "Admiral"
+    label: "Mastery"
+    outcome: "Read any random New World map, play with 5 or 6 or alongside Cities & Knights, and run a fair Seafarers tournament for your own group."
+afterLesson3: "Set up and play Heading for New Shores, teach it to a table that knows base Catan, and use ships, gold fields, and the pirate correctly."
+afterLesson8: "Skip the first-game slips, pick ships or roads on purpose, aim the pirate, open with the sea in mind, and value a gold field correctly."
+faq:
+  - q: "How much does a ship cost in Catan Seafarers?"
+    a: "A ship costs 1 wood and 1 wool. A road still costs 1 brick and 1 wood. Each player has 15 ships."
+  - q: "Can you connect a ship to a road in Seafarers?"
+    a: "Not directly. A new ship must connect to one of your ships or to one of your settlements or cities, never to a road. Roads and ships only count as one route for Longest Route where they meet at one of your buildings."
+  - q: "How do gold fields work in Catan Seafarers?"
+    a: "When a gold field's number is rolled, each settlement on it takes 1 resource card of its owner's choice. Each city takes 2, in any combination of brick, wood, wool, wheat, or ore."
+  - q: "Can you move ships in Seafarers?"
+    a: "Yes, 1 ship per turn during your Action phase. It cannot be a ship you built this turn, it needs one open end, and it cannot sit in an unbroken line of ships between two of your buildings. You also cannot move a ship to or from an edge of the pirate's hex."
+  - q: "What does the pirate do in Catan Seafarers?"
+    a: "When you roll a 7 or play a Knight, you may move the pirate instead of the robber, to a new sea hex or to the frame. On a sea hex you steal 1 random card from a player with a ship on that hex. No one may build or move ships on the edges of the pirate's hex."
+  - q: "Can you play Seafarers with 5 or 6 players?"
+    a: "Yes, with the Seafarers 5 to 6 Player Extension, which also needs the base CATAN 5 to 6 extension. Its 2025 edition uses paired turns: a second player takes an Action phase after each player's turn, but cannot trade with other players."
+teachSheet:
+  goal: "Reach the scenario's victory point goal on your own turn. Heading for New Shores: 14 VP."
+  setup:
+    - "Flip the CATAN frame pieces to their plain side. Build the frame shown on the scenario map."
+    - "Lay out the hexes, number discs, and ports from the 3 or 4 player map."
+    - "Place the robber and the pirate where the map shows."
+    - "Each player adds 15 ships to the usual roads, settlements, and cities."
+    - "Place starting pieces as in base CATAN. A coastal settlement may take a ship instead of a road."
+    - "Heading for New Shores: both starting settlements go on the main island."
+  turn:
+    - "Roll for production, as in base CATAN."
+    - "Gold field: 1 resource of your choice per settlement, 2 per city."
+    - "On a 7 or a Knight, move the robber or the pirate. The pirate steals from a ship on its hex."
+    - "Trade and build as usual. A ship costs 1 wood and 1 wool."
+    - "A new ship joins your ship or building, never a road. None on the pirate's hex."
+    - "Move 1 ship with an open end. Not one you built this turn."
+    - "Road Building gives 2 roads, 2 ships, or 1 of each."
+  scoring:
+    - "Settlement 1 VP. City 2 VP. Victory Point cards 1 VP each."
+    - "Longest Route: 5 or more connected roads and ships, 2 VP."
+    - "Roads and ships join only at your own building."
+    - "Largest Army: 2 VP, as in base CATAN."
+    - "Heading for New Shores: your first settlement on each small island earns 2 VP tokens."
+  endGame: "The game ends the moment a player reaches the scenario's goal during their own turn. Heading for New Shores: 14 VP."
+  tips:
+    - "Settle on the coast. Ships can only start from a building or another ship."
+    - "Count the ships to the next island before you set sail."
+    - "Park the pirate beside a rival's lead ship to stop their voyage."
+diagramAlt: "A corner of a Seafarers board: a main island of land hexes with the robber, open sea with the pirate ship, a small island with a gold field, a settlement with a road on land and a ship on a sea edge, the sea frame along the bottom, and a supply of 15 ships per player, at 1 wood and 1 wool each."
+games: [catan]
+related:
+  - "best-catan-expansions"
+  - "how-to-win-at-catan"
+  - "games-like-catan"

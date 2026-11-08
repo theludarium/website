@@ -126,6 +126,8 @@ That is it. No ranking, no invitation, no club card. If you know the base game r
 
 CATAN Studio updates the program every season. Treat these details as current for 2026 to 2027, and check the [official U.S. page](https://catanevents.com/players/champ/us-regional/) before you plan around them.
 
+The championship ladder uses the base game only. Cities & Knights has its own, smaller events, such as casual tournaments at Gen Con, and our [Cities & Knights course](/academy/catan-cities-and-knights/) ends with a path to them.
+
 ## Try it this week
 
 Your drill: find the next three qualifiers within driving distance.

@@ -1,0 +1,94 @@
+title: "Hold the Line"
+game: "Catan: Cities & Knights"
+format: full
+order: 112
+wave: "catan-x"
+draft: false
+publisher: "Catan Studio"
+notice: "Unofficial. Not affiliated with CATAN GmbH or Catan Studio. CATAN is a trademark of CATAN GmbH."
+rulesEdition: "CATAN Cities & Knights rulebook, 6th edition (2025)"
+rulesSource: "https://www.catan.com/sites/default/files/2025-03/CN3087%20CATAN%E2%80%93Cities%26Knights_%20Rulebook.pdf"
+players: "3 to 4 (5 to 6 with the extension)"
+playTime: "90 to 120 minutes"
+ages: "Ages 12 and up"
+promise: "Learn Catan Cities and Knights, teach it in ten minutes, hold off the barbarians, and work up to playing and winning a Cities & Knights tournament."
+description: "A free Catan Cities and Knights course: learn the rules, teach them fast, beat the barbarians, master knights and metropolises, and get tournament ready."
+audience:
+  - "Catan players who know the base game well and want the deeper box."
+  - "Hosts who teach Cities & Knights to a group that already plays Catan."
+  - "Players who keep losing cities to the barbarians and want to know why."
+  - "Anyone aiming at a Cities & Knights tournament, at a convention or online."
+levels:
+  - level: 0
+    name: "Citizen"
+    label: "Learn to play"
+    outcome: "Set up, teach, and play a full game of Cities & Knights to 13 points, barbarians and all, without opening the rulebook."
+  - level: 1
+    name: "Craftsman"
+    label: "Beginner"
+    outcome: "Dodge the first-game traps, keep enough knights active for every attack, and turn commodities into city improvements on schedule."
+  - level: 2
+    name: "Knight"
+    label: "Intermediate"
+    outcome: "Open for ore, grain, and an early city, choose an improvement track for a reason, and time your progress cards and level 3 abilities."
+  - level: 3
+    name: "Baron"
+    label: "Advanced"
+    outcome: "Win metropolis races, use the merchant and your knights as weapons, count the barbarians, and adjust to player count and Seafarers."
+  - level: 4
+    name: "Contender"
+    label: "Tournament ready"
+    outcome: "Play to a tournament's scoring and clock, read threats and kingmaking at the table, and follow a practice plan that includes online play."
+  - level: 5
+    name: "Champion"
+    label: "The championship path"
+    outcome: "Find a Cities & Knights event, sign up and arrive ready, play each round with a plan, and review your games to come back stronger."
+afterLesson3: "Teach and play a full game of Cities & Knights, and explain what changes from base Catan and why it matters."
+afterLesson8: "Avoid the classic first-game traps, run your knights and city improvements, survive the barbarians, and open for ore, grain, and an early city."
+faq:
+  - q: "How many points do you need to win Cities and Knights?"
+    a: "13 victory points instead of the base game's 10. You win the moment you have 13 or more during your own turn. Metropolises, the merchant, Defender VP tokens, and two progress cards add points the base game does not have."
+  - q: "When does the robber come into play in Cities and Knights?"
+    a: "Only after the first barbarian attack. Until then the robber waits beside the barbarian track, and a 7 still makes players with too many cards discard half, but nobody moves the robber or steals. After the first attack, the robber goes to the desert and works as usual."
+  - q: "How do the barbarians work in Cities and Knights?"
+    a: "When the event die shows a ship, the barbarian ship moves one space. When it reaches the last space, it attacks with a strength equal to the number of cities on the board. If the total of all active knights is lower, the players who gave the least have a city reduced to a settlement."
+  - q: "Do you use development cards in Cities and Knights?"
+    a: "No. The development cards and the Largest Army tile stay in the base game box. Progress cards replace them, and you draw them through city improvements and the event die."
+  - q: "What do cities produce in Cities and Knights?"
+    a: "A city on forest takes 1 wood and 1 paper, on pasture 1 wool and 1 cloth, and on mountains 1 ore and 1 coin. A city on fields takes 2 grain and on hills 2 brick. Settlements produce as usual."
+teachSheet:
+  goal: "Be the first to reach 13 victory points on your turn, while helping hold off the barbarians."
+  setup:
+    - "Remove the development cards, Largest Army, and base sea frame 1-2. Use the barbarian track frame."
+    - "Ship on the track's start. Robber waits beside the track's last space."
+    - "Resources and commodities face up. Three progress decks shuffled, face down."
+    - "Each player: improvement board, a cube at the bottom of each track, knights, walls."
+    - "Round 1: settlement and road. Round 2, in reverse: a city and road."
+    - "Take 1 resource for each hex next to your city."
+  turn:
+    - "Roll all 3 dice. Resolve the event die first."
+    - "Ship: barbarians move 1 space. A gate: check your matching track for a progress card."
+    - "Produce. Cities on forest, pasture, and mountains take 1 resource and 1 commodity."
+    - "On a 7: discard half above 7 cards. No robber until the first attack."
+    - "Then trade, build, and play progress cards in any order."
+    - "Knights: recruit for wool and ore, promote for wool and ore, activate for grain."
+    - "Walls cost 2 brick. Improvements cost 1 to 5 paper, cloth, or coin."
+  scoring:
+    - "Settlement 1, city 2, metropolis 2 more."
+    - "Longest Route 2. Merchant 1."
+    - "Each Defender VP token 1. Each VP progress card 1."
+    - "Barbarians win: lowest knight total loses a city."
+    - "Knights win: top defender takes a VP token."
+  endGame: "The game ends the moment a player has 13 or more victory points on their own turn."
+  tips:
+    - "Keep enough knights active to match the cities on the board."
+    - "Build cities early. Commodities only come from cities."
+    - "Push one improvement track toward a metropolis."
+diagramAlt: "Cities and Knights setup: the Catan board in the sea frame with the barbarian track, the ship on its start and the robber beside its end; the event die and two dice, 3 metropolises, the merchant, and Longest Route beside the board; resource, commodity, and progress card stacks and VP tokens in the supply; and each player's city improvement board with cubes at the bottom, 6 knights, 3 city walls, and a player aid."
+games: [catan]
+related:
+  - "best-catan-expansions"
+  - "how-to-win-at-catan"
+  - "catan-tournament-qualifier"
+  - "games-like-catan"
+  - "catan-vs-ticket-to-ride"
