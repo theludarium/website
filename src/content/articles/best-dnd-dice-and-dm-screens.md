@@ -1,7 +1,7 @@
 ---
 title: "The Best D&D Dice Sets and DM Screens"
 description: "The best D&D dice and DM screens, sorted by what your table needs: readable dice, fancy dice, metal dice, official screens, and blank screens you fill yourself."
-pubDate: 2026-11-07
+pubDate: 2026-11-08
 category: Game Shelf
 tags: ["best dnd dice", "best dm screen", "dnd dice sets", "dungeon master screen", "polyhedral dice set", "gm screen", "metal dnd dice", "customizable dm screen"]
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: "The Best Board Games for 7- and 8-Year-Olds"
 description: "The best board games for 7 and 8 year olds: 12 picks for kids who can read a little, plan a turn ahead, and want to beat the grown-ups fair and square."
-pubDate: 2026-11-07
+pubDate: 2026-11-08
 category: Game Guides
 games: [kingdomino, sushi-go, azul, carcassonne, camel-up-2e]
 tags: ["best board games for 7 year olds", "best board games for 8 year olds", "board games for 7 and 8 year olds", "board games for second graders", "strategy games for kids", "family board games for kids"]

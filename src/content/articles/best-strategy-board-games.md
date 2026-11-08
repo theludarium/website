@@ -1,7 +1,7 @@
 ---
 title: "The Best Strategy Board Games for Every Table"
 description: "The best strategy board games sorted by weight: light picks to teach in minutes, medium games for regular groups, and heavy games for a long, deep evening."
-pubDate: 2026-11-07
+pubDate: 2026-11-08
 category: Game Shelf
 games: [ticket-to-ride, azul, splendor, carcassonne, 7-wonders-duel, wingspan, castles-of-burgundy, dune-imperium, terraforming-mars, root, brass-birmingham, ark-nova, spirit-island, twilight-imperium-4]
 tags: ["best strategy board games", "strategy board games", "strategy games for adults", "light strategy board games", "heavy strategy board games", "strategy board games for beginners", "deep board games"]

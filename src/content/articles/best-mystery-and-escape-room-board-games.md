@@ -1,7 +1,7 @@
 ---
 title: "The Best Mystery and Escape Room Board Games"
 description: "The best mystery and escape room board games: 13 picks across escape boxes, detective cases, and deduction games, with player counts, times, and where to start."
-pubDate: 2026-11-07
+pubDate: 2026-11-08
 category: Game Shelf
 games: [mysterium, betrayal-at-house-on-the-hill]
 tags: ["best mystery board games", "best escape room board games", "escape room games in a box", "detective board games", "murder mystery board games", "deduction board games", "cooperative mystery games"]

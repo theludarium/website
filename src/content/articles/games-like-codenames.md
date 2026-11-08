@@ -1,7 +1,7 @@
 ---
 title: "Games Like Codenames"
 description: "Games like Codenames, sorted by what you loved: the clue giving, the team rivalry, the mind reading, or the bluffing. 11 word and party games to play next."
-pubDate: 2026-11-07
+pubDate: 2026-11-08
 category: Game Shelf
 games: [codenames, just-one, wavelength, dixit]
 tags: ["games like codenames", "board games like codenames", "if you like codenames", "codenames alternatives", "word party games", "clue giving games", "what to play after codenames"]

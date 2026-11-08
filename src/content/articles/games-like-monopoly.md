@@ -1,7 +1,7 @@
 ---
 title: "Games Like Monopoly That Families Actually Finish"
 description: "Games like Monopoly that keep the property, the money, and the deals but end on time. 11 picks for families, from 15-minute card games to bigger evenings."
-pubDate: 2026-11-07
+pubDate: 2026-11-08
 category: Game Shelf
 games: [monopoly, catan, bohnanza, sheriff-of-nottingham, machi-koro, splendor, power-grid]
 tags: ["games like monopoly", "board games like monopoly", "monopoly alternatives", "property trading board games", "money board games", "family board games like monopoly", "what to play instead of monopoly"]

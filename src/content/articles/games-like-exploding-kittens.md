@@ -1,7 +1,7 @@
 ---
 title: "Games Like Exploding Kittens"
 description: "Games like Exploding Kittens: 13 quick, funny, small-box card games for teens and families, sorted by what you loved, from cartoon chaos to sneaky bluffing."
-pubDate: 2026-11-07
+pubDate: 2026-11-08
 category: Game Shelf
 games: [exploding-kittens, sushi-go, love-letter, coup, skull, flip-7, munchkin]
 tags: ["games like exploding kittens", "card games like exploding kittens", "exploding kittens alternatives", "funny card games", "card games for teens", "small box card games", "quick family card games"]

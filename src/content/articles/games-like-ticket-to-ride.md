@@ -1,7 +1,7 @@
 ---
 title: "Games Like Ticket to Ride"
 description: "Games like Ticket to Ride, sorted by what you loved: the routes, the card sets, the easy teach, or the step up. 10 picks with player counts and play times."
-pubDate: 2026-11-07
+pubDate: 2026-11-08
 category: Game Shelf
 games: [ticket-to-ride, ticket-to-ride-europe, carcassonne, splendor, azul, cascadia, lost-cities, power-grid, brass-birmingham]
 tags: ["games like ticket to ride", "board games like ticket to ride", "if you like ticket to ride", "ticket to ride alternatives", "train board games", "route building board games", "what to play after ticket to ride"]

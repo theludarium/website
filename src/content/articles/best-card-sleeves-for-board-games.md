@@ -2,7 +2,7 @@
 title: "The Best Card Sleeves for Board Games (and Which Games Need Them)"
 seoTitle: "Best Card Sleeves for Board Games, Sizes by Game"
 description: "The best card sleeves for board games, plus a size chart: which games use standard, Euro, mini Euro, and other sizes, how many you need, and when to skip them."
-pubDate: 2026-11-07
+pubDate: 2026-11-08
 category: Game Shelf
 games: [catan, ticket-to-ride, wingspan, 7-wonders, dominion, splendor, terraforming-mars, root, ark-nova, dune-imperium, gloomhaven-jaws-of-the-lion, arkham-horror-lcg, marvel-champions, sushi-go-party, codenames, lost-cities, power-grid, cascadia, the-crew-planet-nine]
 tags: ["best card sleeves", "card sleeves for board games", "board game sleeve sizes", "best board game sleeves", "do board games need sleeves", "mini euro sleeves", "matte card sleeves"]

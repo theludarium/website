@@ -1,7 +1,7 @@
 ---
 title: "The Best Travel Board Games"
 description: "The best travel board games for planes, trains, hotel rooms, and campsites: 13 small-box picks that play on a tray table, with player counts and play times."
-pubDate: 2026-11-07
+pubDate: 2026-11-08
 category: Game Shelf
 games: [hive, love-letter, jaipur, skull, hanabi, coup, cartographers, star-realms, lost-cities, sushi-go, the-crew-planet-nine]
 tags: ["best travel board games", "travel board games", "travel games for adults", "small box board games", "games to play on a plane", "portable board games", "card games for travel"]

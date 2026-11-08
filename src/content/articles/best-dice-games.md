@@ -2,7 +2,7 @@
 title: "The Best Dice Games: 12 Picks From Pocket Size to Game Night"
 seoTitle: "The Best Dice Games: 12 Picks for Every Table"
 description: "The best dice games, from small-box family fun like Qwixx and Zombie Dice to bigger dice-driven board games like Sagrada and Castles of Burgundy. 12 picks."
-pubDate: 2026-11-07
+pubDate: 2026-11-08
 category: Game Shelf
 games: [king-of-tokyo, sagrada, castles-of-burgundy]
 tags: ["best dice games", "dice games", "dice games for adults", "family dice games", "dice board games", "push your luck dice games", "dice drafting games"]

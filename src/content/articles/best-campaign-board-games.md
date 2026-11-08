@@ -1,7 +1,7 @@
 ---
 title: "The Best Campaign Board Games"
 description: "The best campaign board games, from short starter campaigns to year-long epics: co-op, legacy, card game, and competitive picks, with session counts for each."
-pubDate: 2026-11-07
+pubDate: 2026-11-08
 category: Game Shelf
 games: [gloomhaven-jaws-of-the-lion, pandemic-legacy-season-1, the-crew-planet-nine, arkham-horror-lcg, marvel-champions, ticket-to-ride-legacy, clank-legacy, arcs, gloomhaven, frosthaven]
 tags: ["best campaign board games", "campaign board games", "story board games", "legacy board games", "cooperative campaign games", "board games with a story", "campaign games for couples"]

@@ -1,7 +1,7 @@
 ---
 title: "Games Like Pandemic: Co-op Games to Play Next"
 description: "Games like Pandemic, sorted by what you loved: the designer, the spreading threat, the roles, or the teamwork. 11 co-op picks with player counts and times."
-pubDate: 2026-11-07
+pubDate: 2026-11-08
 category: Game Shelf
 games: [pandemic, forbidden-island, pandemic-legacy-season-1, spirit-island, hanabi, the-crew-mission-deep-sea, sky-team]
 tags: ["games like pandemic", "board games like pandemic", "if you like pandemic", "pandemic alternatives", "co-op games like pandemic", "what to play after pandemic", "matt leacock games"]

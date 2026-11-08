@@ -2,7 +2,7 @@
 title: "The Best Two-Player Card Games: 10 Small Boxes Worth Owning"
 seoTitle: "The Best Two-Player Card Games: 10 Picks"
 description: "The best two player card games for couples, friends, and rivals: 10 small-box picks from Jaipur to Radlands, with play times, the feel, and which to buy first."
-pubDate: 2026-11-07
+pubDate: 2026-11-08
 category: Game Shelf
 games: [jaipur, lost-cities, star-realms]
 tags: ["best 2 player card games", "two player card games", "card games for couples", "2 player card games for adults", "card games for two", "small box card games", "head to head card games"]

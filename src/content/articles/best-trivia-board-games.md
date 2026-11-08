@@ -1,7 +1,7 @@
 ---
 title: "The Best Trivia Board Games"
 description: "The best trivia board games for holiday family gatherings: 10 picks where grandparents, teens, and kids all have a shot, plus games for people who hate trivia."
-pubDate: 2026-11-07
+pubDate: 2026-11-08
 category: Game Shelf
 games: [codenames, just-one, wavelength]
 tags: ["best trivia board games", "trivia board games", "family trivia games", "trivia games for adults", "holiday trivia games", "trivia games for family gatherings", "party trivia games"]

@@ -2,7 +2,7 @@
 title: "The Best Board Games for Three Players: 12 Games That Love an Odd Number"
 seoTitle: "The Best Board Games for 3 Players: 12 Picks"
 description: "The best board games for 3 players, chosen for how they play at exactly three: 12 picks that avoid two against one, from Splendor and Azul to Root and Arcs."
-pubDate: 2026-11-07
+pubDate: 2026-11-08
 category: Game Shelf
 games: [splendor, azul, cascadia, wingspan, everdell, lost-ruins-of-arnak, terraforming-mars, pandemic, the-crew-planet-nine, dune-imperium, root, arcs]
 tags: ["best board games for 3 players", "3 player board games", "three player board games", "board games for three", "games for 3 adults", "3 player strategy games", "best player count"]

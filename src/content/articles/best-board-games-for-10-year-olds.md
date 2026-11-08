@@ -1,7 +1,7 @@
 ---
 title: "The Best Board Games for 10-Year-Olds"
 description: "The best board games for 10 year olds: 12 strategy, co-op, and party games kids can play with adults as equals, plus what changes at ten and what to buy first."
-pubDate: 2026-11-07
+pubDate: 2026-11-08
 category: Game Guides
 games: [catan, splendor, cascadia, takenoko, wingspan, 7-wonders, heat-pedal-to-the-metal, pandemic, forbidden-island, love-letter, hive]
 tags: ["best board games for 10 year olds", "board games for 10 year olds", "board games for 10 to 12 year olds", "strategy board games for kids", "board games for tweens", "family strategy games"]

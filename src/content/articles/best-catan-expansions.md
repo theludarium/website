@@ -1,7 +1,7 @@
 ---
 title: "The Best Catan Expansions, Ranked"
 description: "The best Catan expansions ranked: Seafarers, Cities & Knights, Traders & Barbarians, Explorers & Pirates, the 5-6 extension, and which boxes you need."
-pubDate: 2026-11-07
+pubDate: 2026-11-08
 category: Game Shelf
 games: [catan]
 tags: ["best catan expansion", "catan expansions ranked", "which catan expansion to buy", "catan seafarers", "catan cities and knights", "catan 5-6 player extension", "catan 6th edition expansions"]
