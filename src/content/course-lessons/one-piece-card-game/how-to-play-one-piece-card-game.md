@@ -58,7 +58,7 @@ There is no wrong first deck. Your second deck will be a better choice because o
 - **Premium collections and gift sets.** They are made for collectors. Enjoy them later if you like the art.
 - **A playmat.** The tournament rules say playmats are not required, and your starter's playsheet does the same job.
 
-One thing not to skip: **card sleeves**, once you plan to play at a store. The tournament rules require opaque sleeves on your deck.
+One thing not to skip: **card sleeves**, once you plan to play at a store. The tournament rules require opaque sleeves on your deck. One Piece cards are standard card game size, so any standard-size sleeve with solid backs fits, such as [Dragon Shield Matte](https://www.amazon.com/dp/B01G25NEW2?tag=cubecommonw0a-20).
 
 ## Learn it free first
 

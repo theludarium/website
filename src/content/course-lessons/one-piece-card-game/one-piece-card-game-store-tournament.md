@@ -38,7 +38,7 @@ TCG+ also shows your pairings and results on the day, so keep it on your phone.
 From Bandai's tournament rules, for a constructed event:
 
 - **A legal deck.** 1 Leader, a 50-card deck in your Leader's colors with no more than 4 of any card number, and a 10-card DON!! deck. A recent starter deck qualifies as it comes. Older ones can hold cards that have left the Standard format (see the [budget upgrades lesson](/academy/one-piece-card-game/one-piece-card-game-deck-upgrades/)).
-- **Opaque sleeves** on all 50 deck cards, all identical. Your Leader and DON!! cards must be sleeved or unsleeved so they look different from your deck.
+- **Opaque sleeves** on all 50 deck cards, all identical. Standard-size sleeves with solid backs, like [Dragon Shield Matte](https://www.amazon.com/dp/B01G25NEW2?tag=cubecommonw0a-20), fit. Your Leader and DON!! cards must be sleeved or unsleeved so they look different from your deck.
 - **Spare sleeves**, in case one splits.
 - **Dice or counters** if your deck needs them to track power or effects. Dice must be clearly marked and unweighted.
 - **Your TCG+ account** on your phone, any entry fee, and photo ID in case it is asked for.
