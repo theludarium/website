@@ -530,3 +530,6 @@ Levi's call: keep collecting emails, but stop sending automated emails to the pe
 ## 2026-11-03: Founder email is on theludarium.com
 
 - **The founder contact email is now `lwilson@theludarium.com`**, replacing `lwilson@ludarium.com` (2026-10-28). It shows on the About page and the press page, from `FOUNDER.email` in `src/lib/site.ts`. Levi's call.
+
+## 2026-11-10: Pinterest site claim
+Added the `p:domain_verify` meta tag to BaseLayout so Pinterest can confirm The Ludarium owns theludarium.com. That gives pin attribution, analytics for pins from the site, and rich pins. Removing it un-claims the site.
