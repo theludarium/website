@@ -11,7 +11,7 @@ oneIdea: "The Crew is the same game at every count, but the deal is not. Fewer p
 tryThis: "Play the same mission at two different player counts this month, and note one thing that got easier and one thing that got harder."
 nextTeaser: "Next, the campaign itself: the 50 missions, the logbook, the distress signal, and the commander missions that change who takes the tasks."
 ---
-The Crew: The Quest for Planet Nine is for 3 to 5 players, as Thames & Kosmos lists it, and the rulebook adds a two-player variant with a third, open-handed crew member called JARVIS. There is no solo mode.
+[The Crew: The Quest for Planet Nine](https://www.amazon.com/dp/B084GP7X3P?tag=cubecommonw0a-20) is for 3 to 5 players, as Thames & Kosmos lists it, and the rulebook adds a two-player variant with a third, open-handed crew member called JARVIS. There is no solo mode.
 
 The rules of The Crew barely change with the number of players. But the deal changes a lot. With 40 cards split among your crew, each extra player shrinks every hand, and smaller hands mean less control over who wins what. The rulebook says plainly that three players is the smallest challenge, and five the biggest.
 

@@ -11,7 +11,7 @@ oneIdea: "The Crew is a trick-taking game where everyone is on the same side. Th
 tryThis: "Before your first mission, deal four hands face up and play two practice tricks in the open. Say out loud who wins each one and why."
 nextTeaser: "Next, the five-minute teach: a host script in the order you would say it, the two rules to settle before anyone plays a card, and how to run a first session."
 ---
-The Crew: The Quest for Planet Nine is a card game about winning tricks, like Hearts or Spades, with one big change: you all win or lose together. Each mission says which cards must be won and by whom. The catch is that you cannot talk about what you hold. The game gives you one small, careful way to share a single fact about your hand, and that is it. It plays 3 to 5, and the rulebook includes a two-player variant.
+[The Crew: The Quest for Planet Nine](https://www.amazon.com/dp/B084GP7X3P?tag=cubecommonw0a-20) is a card game about winning tricks, like Hearts or Spades, with one big change: you all win or lose together. Each mission says which cards must be won and by whom. The catch is that you cannot talk about what you hold. The game gives you one small, careful way to share a single fact about your hand, and that is it. It plays 3 to 5, and the rulebook includes a two-player variant.
 
 This lesson walks the [The Crew teach sheet](/academy/the-crew/teach-sheet/) in order. It follows the English rulebook and logbook from Thames & Kosmos, the North American publisher for KOSMOS. Thomas Sing designed the game, and it won the Kennerspiel des Jahres, the German award for connoisseur games, in 2020.
 

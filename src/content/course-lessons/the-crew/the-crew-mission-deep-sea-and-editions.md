@@ -37,7 +37,7 @@ Our article on [which Crew to buy](/articles/the-crew-card-game/) compares the t
 
 ## A family version
 
-The Crew has grown since Deep Sea. A family version, The Crew: Family Adventure, came out in 2024. Its English edition is subtitled Marooned in Paradise, and it plays 3 to 5. It keeps the cooperative trick-taking core with simpler missions for younger players.
+The Crew has grown since Deep Sea. A family version, [The Crew: Family Adventure](https://www.amazon.com/dp/B0DSCM4HT5?tag=cubecommonw0a-20), came out in 2024. Its English edition is subtitled Marooned in Paradise, and it plays 3 to 5. It keeps the cooperative trick-taking core with simpler missions for younger players.
 
 ## Play online for free
 
