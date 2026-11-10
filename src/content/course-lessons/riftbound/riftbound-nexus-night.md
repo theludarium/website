@@ -32,7 +32,7 @@ Once you are comfortable, look for a **Nexus Cup**. Riot describes it as a once-
 ## What to bring
 
 - **Your deck, all of it.** Legend, Chosen Champion, Main Deck, Rune Deck, and your battlefields. If you play a preconstructed deck exactly as it came, it is legal at casual events even if it contains a card later banned in Standard.
-- **Sleeves.** The head judge can require them even at casual events. All sleeves in a deck must match and have opaque backs.
+- **Sleeves.** The head judge can require them even at casual events. All sleeves in a deck must match and have opaque backs. Standard-size sleeves fit, such as [Dragon Shield Matte](https://www.amazon.com/dp/B01G25NEW2?tag=cubecommonw0a-20).
 - **Something to track damage and buffs.** Dice, beads, or coins. Damage resets every turn, but you need to see it during a fight.
 - **Tokens.** Printed tokens are nice, but the rules allow anything you can clearly turn sideways and upright.
 - **A way to track score.** A die, a counter, or a score tracker.

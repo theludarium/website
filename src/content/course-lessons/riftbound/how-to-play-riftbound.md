@@ -28,7 +28,7 @@ You do not need to build any of that yourself to start. A preconstructed deck co
 
 ## Which box should you buy first?
 
-**[Proving Grounds](https://playriftbound.com/en-us/get-started/)** is the box Riot made for learning. It holds four preconstructed decks built around Annie, Master Yi, Lux, and Garen, plus a rulebook, playmats, and tokens, and it plays 2 to 4 people. One box gets a whole kitchen table playing, and the four decks feel different enough that everyone can find a favorite. <!-- AFFILIATE: Riftbound Proving Grounds -->
+**[Proving Grounds](https://www.amazon.com/dp/B0FP7HLL4T?tag=cubecommonw0a-20)** is the box Riot made for learning. It holds four preconstructed decks built around Annie, Master Yi, Lux, and Garen, plus a rulebook, playmats, and tokens, and it plays 2 to 4 people. One box gets a whole kitchen table playing, and the four decks feel different enough that everyone can find a favorite.
 
 **[Proving Grounds, 2nd Edition](https://playriftbound.com/en-us/news/announcements/products-and-sets-into-2027)** is due February 19, 2027, after the Legacy set. It holds four new decks built around Heimerdinger, Karma, Vladimir, and Illaoi, four oversized battlefields, four paper playmats, four score trackers, and a rulebook. Riot also says it holds no cards you cannot get from booster packs. <!-- AFFILIATE: Riftbound Proving Grounds, 2nd Edition -->
 
@@ -59,7 +59,7 @@ There is no wrong first deck. Your second deck will be a better choice because o
 - **Bundles and collector products.** They are made for people who already play and collect. Enjoy them later if you love the art.
 - **A paid playmat.** Proving Grounds includes playmats, and any table works.
 
-One thing not to skip once you plan to play at a store: **card sleeves**. The tournament rules say a store's head judge can require them at casual events, and they are required at competitive ones. All your sleeves in a deck must match and have opaque backs.
+One thing not to skip once you plan to play at a store: **card sleeves**. The tournament rules say a store's head judge can require them at casual events, and they are required at competitive ones. All your sleeves in a deck must match and have opaque backs. Riftbound cards are standard card game size, so any standard-size sleeve with solid backs fits, such as [Dragon Shield Matte](https://www.amazon.com/dp/B01G25NEW2?tag=cubecommonw0a-20).
 
 ## Learn the rules for free first
 

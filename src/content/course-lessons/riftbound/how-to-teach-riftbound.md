@@ -17,7 +17,7 @@ Here is a script in the order you would say it, with the moments to stop talking
 
 ## Before anyone sits down
 
-Set up both sides first, so the teach starts with the game ready. Use two preconstructed decks; a Proving Grounds box has four. Legend and Chosen Champion face up. Main Deck and Rune Deck shuffled. Each player's battlefield in the middle.
+Set up both sides first, so the teach starts with the game ready. Use two preconstructed decks; a [Proving Grounds](https://www.amazon.com/dp/B0FP7HLL4T?tag=cubecommonw0a-20) box has four. Legend and Chosen Champion face up. Main Deck and Rune Deck shuffled. Each player's battlefield in the middle.
 
 Hand your learner the more forgiving deck. A deck that plays lots of units teaches the board better than one built around tricky spells.
 

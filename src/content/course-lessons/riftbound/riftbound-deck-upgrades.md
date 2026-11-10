@@ -65,7 +65,7 @@ Your battlefields are the quiet part of deck building. In a single two-player ga
 
 ## Where to get more runes and cards in bulk
 
-If you need extra basic runes for a second deck, bundle products are one source. Riot's [Radiance overview](https://playriftbound.com/en-us/news/announcements/the-radiance-overview/) lists the Radiance Vault Bundle with six booster packs and 36 runes, and its [product announcement](https://playriftbound.com/en-us/news/announcements/products-and-sets-into-2027) lists the Gift of the Rift Bundle, due December 4, 2026, with 16 boosters and 36 basic runes. <!-- AFFILIATE: Riftbound Radiance Vault Bundle -->
+If you need extra basic runes for a second deck, bundle products are one source. Riot's [Radiance overview](https://playriftbound.com/en-us/news/announcements/the-radiance-overview/) lists the [Radiance Vault Bundle](https://www.amazon.com/dp/B0HP3XQJ2F?tag=cubecommonw0a-20) with six booster packs and 36 runes, and its [product announcement](https://playriftbound.com/en-us/news/announcements/products-and-sets-into-2027) lists the Gift of the Rift Bundle, due December 4, 2026, with 16 boosters and 36 basic runes.
 
 <!-- AFFILIATE: Riftbound Gift of the Rift Bundle -->
 

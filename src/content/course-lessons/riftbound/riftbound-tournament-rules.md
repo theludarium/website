@@ -37,7 +37,7 @@ Once the list is handed in, it can't change. A list with an illegal element, suc
 
 ## Sleeves, shuffling, and presenting
 
-- **Sleeves are required** at Competitive and Professional events for your Main Deck, Rune Deck, and battlefields. All sleeves in a deck must match, with opaque backs. At those levels, avoid highly reflective backs and holographic patterns.
+- **Sleeves are required** at Competitive and Professional events for your Main Deck, Rune Deck, and battlefields. All sleeves in a deck must match, with opaque backs. At those levels, avoid highly reflective backs and holographic patterns. Matte standard-size sleeves with solid backs, such as [Dragon Shield Matte](https://www.amazon.com/dp/B01G25NEW2?tag=cubecommonw0a-20) or [Ultra Pro Eclipse Matte](https://www.amazon.com/dp/B08WX4Y25G?tag=cubecommonw0a-20), meet all of this.
 - **Shuffle until random.** Pile shuffling can be used to count your deck, but not as your only shuffle.
 - **Present your decks.** After shuffling, you hand your Main Deck and Rune Deck to your opponent, who may shuffle them again.
 
