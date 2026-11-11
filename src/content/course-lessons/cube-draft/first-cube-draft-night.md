@@ -29,8 +29,8 @@ For most Cube nights, almost nothing:
 
 - **Yourself, on time.** A draft cannot start until every seat is filled. Being late holds up seven people.
 - **A pen**, if the group tracks results on paper.
-- **Dice** for counters and life totals, if you have them.
-- **A deck box or a rubber band**, to keep your 40 cards together between rounds.
+- **Dice** for counters and life totals, if you have them. A [block of small six-sided dice](https://www.amazon.com/dp/B0011WMA4K?tag=cubecommonw0a-20) is plenty.
+- **A deck box or a rubber band**, to keep your 40 cards together between rounds. Any deck box works, such as a [Boulder hard deck case](https://www.amazon.com/dp/B06XGT9R8S?tag=cubecommonw0a-20).
 
 You do not need cards, sleeves, or lands. The owner usually provides them. Ask before you bring snacks to the table itself; many hosts keep food and drinks off the play area to protect the cards.
 

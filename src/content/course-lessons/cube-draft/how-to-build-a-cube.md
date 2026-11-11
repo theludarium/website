@@ -52,10 +52,10 @@ Start with what you already own. Many players have half a Cube sitting in bulk b
 
 ## What else goes in the box
 
-- **Sleeves.** A Cube gets shuffled a lot. Matching sleeves protect the cards and keep any one card from standing out.
+- **Sleeves.** A Cube gets shuffled a lot. Matching sleeves protect the cards and keep any one card from standing out. Matte sleeves with solid backs hold up well, such as [Dragon Shield Matte](https://www.amazon.com/dp/B01G25NEW2?tag=cubecommonw0a-20) or [Ultra Pro Eclipse Matte](https://www.amazon.com/dp/B08WX4Y25G?tag=cubecommonw0a-20). Buy enough of one color for the whole Cube and the lands, plus spares.
 - **Basic lands.** Enough of each type for every drafter, sleeved to match.
-- **Tokens and counters**, for the cards that make them.
-- **A long box or a case** that fits it all.
+- **Tokens and counters**, for the cards that make them. A [block of small six-sided dice](https://www.amazon.com/dp/B0011WMA4K?tag=cubecommonw0a-20) covers most counters.
+- **A long box or a case** that fits it all. A plain cardboard card box, such as a [BCW 800-count storage box](https://www.amazon.com/dp/B000K3XQBC?tag=cubecommonw0a-20), is the low-cost way to start. Sleeved cards take more room than the count on the label, so check the fit for your Cube size.
 
 Keep the colors balanced as you go. Our guides to [Cube color balance](/articles/cube-color-balance/) and [Cube land count](/articles/cube-land-count/) give working numbers, and [Cube building mistakes](/articles/cube-building-mistakes/) lists the ten every first Cube makes.
 

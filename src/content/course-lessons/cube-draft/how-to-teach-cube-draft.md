@@ -21,7 +21,7 @@ Do the slow work early, so the teach starts with the draft ready.
 
 - Shuffle the Cube and deal three packs of 15, face down, for each seat.
 - Put basic lands, at least a stack of each type, where everyone can reach them.
-- Set out dice or counters for tokens and life totals.
+- Set out dice or counters for tokens and life totals. A [block of small six-sided dice](https://www.amazon.com/dp/B0011WMA4K?tag=cubecommonw0a-20) is enough for a full table.
 - Decide your house rules in advance: pairings, how many rounds, pick pace. Our guide to [Cube house rules](/articles/cube-house-rules/) lists the ones most groups end up needing.
 
 Seat new players next to someone patient, not next to each other. Our host's guide to [running a Cube draft](/articles/how-to-run-a-cube-draft/) has a full checklist and a timed schedule for the night.
