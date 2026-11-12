@@ -11,7 +11,7 @@ oneIdea: "Teach the candle first. Once the table sees tiles appear in front of a
 tryThis: "Run your next teach with one Prisoner on the board and do two practice moves before anyone else places a Start tile. Then reset the tiles and begin."
 nextTeaser: "Level 1 starts with the beginner mistakes: the crumbling, Staying, and Key slips that sink most new groups in their first three games."
 ---
-The Night Cage has fewer rules than it looks. Under the moody art is one idea: your candle shows you the next space, and the dark eats everything else. Teach that idea with tiles on the table and the rest takes a few sentences each. This script runs about ten minutes, and it follows the [The Night Cage teach sheet](/academy/the-night-cage/teach-sheet/), so print one and keep it in the middle.
+[The Night Cage](https://www.amazon.com/dp/B08VC23895?tag=cubecommonw0a-20) has fewer rules than it looks. Under the moody art is one idea: your candle shows you the next space, and the dark eats everything else. Teach that idea with tiles on the table and the rest takes a few sentences each. This script runs about ten minutes, and it follows the [The Night Cage teach sheet](/academy/the-night-cage/teach-sheet/), so print one and keep it in the middle.
 
 ## Before anyone sits down
 

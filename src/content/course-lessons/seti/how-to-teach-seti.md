@@ -11,7 +11,7 @@ oneIdea: "Teach SETI as three resources and eight actions, then show one probe's
 tryThis: "Set up before anyone sits down, then time your teach and stop at fifteen minutes. Answer everything else when it comes up in play."
 nextTeaser: "Level 1 starts with the rules new players get wrong: asteroids, rotation timing, the data pool cap, milestones, and who keeps a marker in a sector."
 ---
-SETI looks like a lot on the table. There is a solar system with three turning discs, eight stars ringed with data, a tech board with 12 stacks, two mystery boards, and cards covered in icons. A host who explains every icon before the first turn loses the room.
+[SETI](https://www.amazon.com/dp/B0CZBCRC3S?tag=cubecommonw0a-20) looks like a lot on the table. There is a solar system with three turning discs, eight stars ringed with data, a tech board with 12 stacks, two mystery boards, and cards covered in icons. A host who explains every icon before the first turn loses the room.
 
 The core loop is small, though: take one main action, pay its cost, and add free actions around it. This script teaches that loop first. Print the [SETI teach sheet](/academy/seti/teach-sheet/) and put it in the middle of the table, and keep the [how to play lesson](/academy/seti/how-to-play-seti/) nearby for the details.
 

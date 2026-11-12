@@ -11,7 +11,7 @@ oneIdea: "SETI is five rounds of one main action per turn, wrapped in free actio
 tryThis: "Before your first game, set up the board and walk one probe from Earth to a planet and into orbit, paying the real costs, so the table sees the whole loop once."
 nextTeaser: "Next, how to teach SETI: a host script in the order you would say it, and what to leave out until someone needs it."
 ---
-SETI: Search for Extraterrestrial Intelligence is a heavy euro from Czech Games Edition, designed by Tomáš Holek and released in 2024. Each player runs a research institution. You launch probes across a solar system that turns under your feet, point telescopes at nearby stars, analyze the data you collect, and race to find traces of alien life. It plays 1 to 4, at about 40 minutes per player.
+[SETI: Search for Extraterrestrial Intelligence](https://www.amazon.com/dp/B0CZBCRC3S?tag=cubecommonw0a-20) is a heavy euro from Czech Games Edition, designed by Tomáš Holek and released in 2024. Each player runs a research institution. You launch probes across a solar system that turns under your feet, point telescopes at nearby stars, analyze the data you collect, and race to find traces of alien life. It plays 1 to 4, at about 40 minutes per player.
 
 This lesson follows the English rulebook dated October 2024 and the official FAQ (version BGG 11.2024). Both are free on the [CGE SETI page](https://www.czechgames.com/games/seti-search-for-extraterrestrial-intelligence).
 

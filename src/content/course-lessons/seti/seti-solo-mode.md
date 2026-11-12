@@ -11,7 +11,7 @@ oneIdea: "The solo rival never runs out of money, so you cannot outspend it. You
 tryThis: "In your next solo game, write the round number beside your completed objectives pile at each round end, and check you have at least that many to spend before income."
 nextTeaser: "Last, the wider game: SETI at each player count, the Space Agencies expansion, promos, and a practice plan for the hardest challenges."
 ---
-SETI's solo game pits you against a rival research institution run by a small deck of action cards. It uses the full multiplayer rules for you and simple priority rules for the rival. This lesson follows the solo section of the English rulebook (October 2024) and the solo answers in the official FAQ.
+SETI's solo game pits you against a rival research institution run by a small deck of action cards. Everything it needs comes in the [base game box](https://www.amazon.com/dp/B0CZBCRC3S?tag=cubecommonw0a-20). It uses the full multiplayer rules for you and simple priority rules for the rival. This lesson follows the solo section of the English rulebook (October 2024) and the solo answers in the official FAQ.
 
 ## Setup
 

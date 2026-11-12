@@ -11,7 +11,7 @@ oneIdea: "In The Night Cage the board is made of candlelight. You only see the t
 tryThis: "Set up a two-Prisoner practice game alone and play six turns face up. Say out loud which tiles each move lights and which ones it throws away."
 nextTeaser: "Next, the ten-minute teach: a host script in the order you would say it, and the three rules to settle before anyone lights a candle."
 ---
-The Night Cage is a cooperative game about being lost in the dark with nothing but a candle. You and your fellow Prisoners crawl through a labyrinth that only exists where your light reaches. Step forward and new Passages appear. Step away and the old ones vanish for good. Somewhere out there are Keys, Gates, and Wax Eaters, monsters that hate the light. Everyone needs a Key, and everyone must reach the same Gate together. It plays 1 to 5, solo included.
+[The Night Cage](https://www.amazon.com/dp/B08VC23895?tag=cubecommonw0a-20) is a cooperative game about being lost in the dark with nothing but a candle. You and your fellow Prisoners crawl through a labyrinth that only exists where your light reaches. Step forward and new Passages appear. Step away and the old ones vanish for good. Somewhere out there are Keys, Gates, and Wax Eaters, monsters that hate the light. Everyone needs a Key, and everyone must reach the same Gate together. It plays 1 to 5, solo included.
 
 This lesson walks the [The Night Cage teach sheet](/academy/the-night-cage/teach-sheet/) in order. It follows the official rules on Dized, which the publisher maintains, and the official FAQ. Chris Chan, Chris McMahon, and Ross Saunders designed the game, and Smirk & Dagger Games published it in 2021 under its Smirk & Laughter imprint. It is for ages 14 and up and takes about 50 minutes.
 
