@@ -16,7 +16,7 @@ Game stores are the main public venue for [Dungeons & Dragons](https://www.amazo
 
 **[Hero's Emporium](https://www.visithamiltoncounty.com/listing/heros-emporium/5473/)**, Carmel. A tabletop, card, and RPG store at 12697 N Pennsylvania St with weekly Magic Commander play on Thursdays at 6 p.m. and Saturdays at 2 p.m. It lists no regular RPG night online, so ask at the counter about campaigns and open tables.
 
-**[Next Level Games](https://www.visithamiltoncounty.com/listing/next-level-games/5751/)**, Carmel. A family game store with tabletop, card, video, and RPG stock. It does not post an RPG schedule online, so ask the staff whether an open table is running; schedules vary by season.
+**[Next Level Games](https://www.nextlevelgames.store/events?location=carmel)**, Carmel. A family game store with tabletop, card, video, and RPG stock. It does not post an RPG schedule online, so ask the staff whether an open table is running; schedules vary by season.
 
 **[Gray Gauntlet Games](https://graygauntletgames.com/)**, northeast Indianapolis near Fishers (7998 Centerpoint Dr). Play space and an events calendar that leans toward Magic, Pokémon, and Lorcana. Worth checking for RPG one-shots, and a good place to ask about local groups even when no table is listed.
 
