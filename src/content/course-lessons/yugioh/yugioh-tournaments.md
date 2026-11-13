@@ -68,6 +68,6 @@ You do not need a tournament to find good opponents:
 
 - **Your local OTS.** Ask the staff which nights are casual and which are competitive.
 - **Master Duel,** Konami's free-to-play digital card game, for practice any time.
-- **Friends with old binders.** Lesson 4's teach script and the 2-Player Starter Set make it easy to bring a friend back with you.
+- **Friends with old binders.** Lesson 4's teach script and the [2-Player Starter Set](https://www.amazon.com/dp/B0CT18YSMJ?tag=cubecommonw0a-20) make it easy to bring a friend back with you.
 
 If you are near Indianapolis, our guides to [Indianapolis board game stores](/articles/indianapolis-board-game-stores/) and [running a tournament](/articles/how-to-run-a-board-game-tournament/) are good next reads, and the [Indianapolis list](/lounges/indianapolis/) gets first word on local learn-to-play nights as The Ludarium grows.

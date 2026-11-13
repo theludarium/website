@@ -13,7 +13,7 @@ nextTeaser: "Level 1 begins with your first ten Duels: the rules slips almost ev
 ---
 Returning players make great teachers. You remember what it felt like to learn, and you know the classic turn by heart. The trap is wanting to teach everything you just relearned, Link Arrows and Chains included, before the new player has drawn a card.
 
-This script keeps the first teach to ten minutes. It works best with the two decks from the 2-Player Starter Set, and it pairs with the printable [Yu-Gi-Oh! teach sheet](/academy/yugioh/teach-sheet/). For the general method behind it, see our guide on [how to teach a board game](/articles/how-to-teach-a-board-game/).
+This script keeps the first teach to ten minutes. It works best with the two decks from the [2-Player Starter Set](https://www.amazon.com/dp/B0CT18YSMJ?tag=cubecommonw0a-20), and it pairs with the printable [Yu-Gi-Oh! teach sheet](/academy/yugioh/teach-sheet/). For the general method behind it, see our guide on [how to teach a board game](/articles/how-to-teach-a-board-game/).
 
 ## Before you sit down
 

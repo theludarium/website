@@ -73,6 +73,6 @@ Some Official Tournament Stores now run **Genesys**, an official format with no 
 
 ## Sleeves and the rest
 
-Sleeve your deck. The rulebook says that if you use sleeves, they all have to match, so no card stands out. A sturdy deck box and a pad of paper for Life Points finish the kit.
+Sleeve your deck. The rulebook says that if you use sleeves, they all have to match, so no card stands out. Yu-Gi-Oh! cards are smaller than most trading cards, so buy the small size, often sold as Japanese size. Matte sleeves with solid backs hold up well, such as [Dragon Shield Japanese size Matte](https://www.amazon.com/dp/B06WP699BM?tag=cubecommonw0a-20) or [Ultra Pro Eclipse small size](https://www.amazon.com/dp/B06ZYJHKJW?tag=cubecommonw0a-20). A sturdy deck box, such as a [Boulder hard deck case](https://www.amazon.com/dp/B06XGT9R8S?tag=cubecommonw0a-20), and a pad of paper for Life Points finish the kit.
 
 If you have old cards that no longer fit your plans, our guide to [trading and selling games](/articles/trading-and-selling-games/) has tips on pricing and condition that work for cards too.

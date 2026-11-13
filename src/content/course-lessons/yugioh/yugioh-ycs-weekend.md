@@ -59,7 +59,7 @@ You do not need a Top 32 to have a great weekend. Many players go for the Public
 
 **Two weeks out: train the clock.** Play full Matches on a 50-minute timer. Practice going first and going second in equal numbers, as lesson 10 suggests. Track which side you lose on, and fix it.
 
-**One week out: freeze and prepare.** Stop changing the deck except for a new list update. Submit your deck list. Check sleeves for wear, and pack spares. Print or save the Tournament Policy. Book food and sleep as seriously as testing.
+**One week out: freeze and prepare.** Stop changing the deck except for a new list update. Submit your deck list. Check sleeves for wear, and pack spares. An unopened pack of the same sleeves, such as [Dragon Shield Japanese size Matte](https://www.amazon.com/dp/B06WP699BM?tag=cubecommonw0a-20) in the small size, is the safe spare. Print or save the Tournament Policy. Book food and sleep as seriously as testing.
 
 ## On the day
 

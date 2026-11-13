@@ -29,7 +29,7 @@ For Yu-Gi-Oh! Day, in-store registration also asked for a photo ID matching your
 
 ## What to bring
 
-- **Your deck,** in matching sleeves, in a deck box.
+- **Your deck,** in matching sleeves, in a deck box. Yu-Gi-Oh! cards take the small size, such as [Dragon Shield Japanese size Matte](https://www.amazon.com/dp/B06WP699BM?tag=cubecommonw0a-20) sleeves.
 - **Your Extra Deck and Side Deck.** The Side Deck holds up to 15 cards you can swap in between Duels.
 - **A way to track Life Points.** A notepad and pen are best. The rulebook suggests tracking LP on paper during important Duels, even if you also use a calculator or app.
 - **A coin, a die, and counters,** if any of your cards need them.
