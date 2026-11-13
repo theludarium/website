@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "allowImportingTsExtensions": true,
+    "verbatimModuleSyntax": true,
+    "strict": true,
+    "noEmit": true,
+    "skipLibCheck": true,
+    "lib": ["ESNext", "DOM"]
+  },
+  "include": ["src/**/*", "../../src/server/visitors/**/*", "../../src/server/notify.ts"]
+}
