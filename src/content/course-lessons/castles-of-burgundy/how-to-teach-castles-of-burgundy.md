@@ -11,7 +11,7 @@ oneIdea: "Teach the dice, not the tiles. Once the table knows what a die can do,
 tryThis: "Print the teach sheet, set up before anyone sits down, and narrate the first round out loud with every die face up."
 nextTeaser: "Next, the last piece of Level 0: one full round walked through turn by turn, so you can see how dice, workers, tiles, and the bridge fit together."
 ---
-The Castles of Burgundy has a reputation as a hard teach. It is not hard. It is wide. There are six tile colors, eight buildings, and a stack of monastery powers, and a host who explains all of them before the first roll loses the table by the second building.
+[The Castles of Burgundy](https://www.amazon.com/dp/B07R5ZH6FQ?tag=cubecommonw0a-20) has a reputation as a hard teach. It is not hard. It is wide. There are six tile colors, eight buildings, and a stack of monastery powers, and a host who explains all of them before the first roll loses the table by the second building.
 
 The fix is to teach what a die does, then let the overview boards carry the details. Here is a script in the order you would say it, with the moments to stop talking. Print the [Castles of Burgundy teach sheet](/academy/castles-of-burgundy/teach-sheet/) and put it where everyone can see it.
 

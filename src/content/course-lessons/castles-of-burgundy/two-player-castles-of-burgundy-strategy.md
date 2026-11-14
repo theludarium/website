@@ -11,7 +11,7 @@ oneIdea: "With two players, the depots are small and every choice is a swing: wh
 tryThis: "In your next two-player game, before each turn, look at your opponent's storage and empty spaces, and ask which tile in the depots they want most. Take it whenever it also helps you."
 nextTeaser: "Level 4 begins with reading a four-player table: what three rivals need, who is racing whom, and how to stay out of fights you cannot win."
 ---
-The Castles of Burgundy plays well at two, and some players like it best that way. The game is shorter, turns come faster, and the puzzle stays the same. But the scoring numbers change, and the depots shrink, and those changes shift what wins. This lesson covers what is different and how to play the duel.
+[The Castles of Burgundy](https://www.amazon.com/dp/B07R5ZH6FQ?tag=cubecommonw0a-20) plays well at two, and some players like it best that way. The game is shorter, turns come faster, and the puzzle stays the same. But the scoring numbers change, and the depots shrink, and those changes shift what wins. This lesson covers what is different and how to play the duel.
 
 ## What changes at two
 

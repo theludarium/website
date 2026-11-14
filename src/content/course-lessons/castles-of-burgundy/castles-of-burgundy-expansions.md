@@ -67,6 +67,6 @@ Our piece on [whether expansions are worth it](/articles/expansions-worth-it/) h
 
 The current edition is Ravensburger's [The Castles of Burgundy](https://www.amazon.com/dp/B07R5ZH6FQ?tag=cubecommonw0a-20), the reissue with the expansions above in the box.
 
-A deluxe [Special Edition](https://awakenrealms.com/games/awaken-realms/castles-of-burgundy), made by Ravensburger with Awaken Realms, redraws the art and layout, upgrades the components, and adds a new expansion by Stefan Feld, The Vineyards. It is a premium box for groups who already love the game.
+A deluxe [Special Edition](https://awakenrealms.com/games/awaken-realms/castles-of-burgundy), made by Ravensburger with Awaken Realms, redraws the art and layout, upgrades the components, and adds a new expansion by Stefan Feld, The Vineyards. It is a premium box for groups who already love the game. Amazon lists it as the [Castles of Burgundy Special Edition](https://www.amazon.com/dp/B0C6QPVX21?tag=cubecommonw0a-20).
 
 Two smaller spin-offs share the name: [The Castles of Burgundy: The Card Game](https://www.amazon.com/dp/B01CLVLN0Q?tag=cubecommonw0a-20) (2016) and [The Castles of Burgundy: The Dice Game](https://www.amazon.com/dp/B07559HC1K?tag=cubecommonw0a-20) (2017), a roll and write. Each is its own game, and neither needs the board game.

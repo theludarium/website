@@ -20,7 +20,7 @@ You know the rules, the strategy, and the tournament landscape. The championship
 A rating is a useful measuring stick, with two cautions:
 
 - **It moves slowly and noisily.** Look at the trend over dozens of games, not the change after one.
-- **Settings matter.** Player count, edition, and duchy setup all change the game. For tournament practice, play four-player games under the 2019 edition rules, which match the current box.
+- **Settings matter.** Player count, edition, and duchy setup all change the game. For tournament practice, play four-player games under the 2019 edition rules, which match the [current box](https://www.amazon.com/dp/B07R5ZH6FQ?tag=cubecommonw0a-20).
 
 ## Replays: the best free teacher
 
