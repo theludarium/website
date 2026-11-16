@@ -15,6 +15,8 @@ Carcassonne is one of the easiest games to teach badly. The rules are short, so 
 
 The fix is to teach the turn, play the turn, and let the game do the rest. Here is a script in the order you would say it, with the moments to stop talking. Print the [Carcassonne teach sheet](/academy/carcassonne/teach-sheet/) and set it where everyone can see it.
 
+Want a reference card at every seat too? Our [printable Carcassonne teach cards](https://theludarium.lemonsqueezy.com/checkout/buy/0ffa4aff-f88b-4058-8255-6631c424114f) put the turn and the scoring in each player's hand, with a ten-minute teach script for you.
+
 ## Before anyone sits down
 
 Set up first, so the teach starts with the game ready. Start tile in the middle. Face-down stacks around it. Seven meeples in front of each seat, the 8th on 0 on the scoreboard. River tiles and abbots back in the box.
