@@ -11,6 +11,12 @@ export const SITE = {
   locale: 'en_US',
 };
 
+// The Ludarium's own social profiles: footer links and Organization sameAs.
+export const SOCIAL = [
+  { name: 'LinkedIn', href: 'https://www.linkedin.com/company/the-ludarium/', icon: 'linkedin' },
+  { name: 'Pinterest', href: 'https://www.pinterest.com/theludarium/', icon: 'pinterest' },
+] as const;
+
 export const FOUNDER = {
   name: 'Levi JA Wilson',
   role: 'Founder',

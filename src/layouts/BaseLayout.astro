@@ -4,7 +4,7 @@ import '@/styles/global.css';
 import Header from '@/components/Header.astro';
 import Footer from '@/components/Footer.astro';
 import ConsentBanner from '@/components/ConsentBanner.astro';
-import { FOUNDER, SITE } from '@/lib/site';
+import { FOUNDER, SITE, SOCIAL } from '@/lib/site';
 import { searchSection } from '@/lib/search';
 
 interface Props {
@@ -54,6 +54,7 @@ const siteStructuredData = [
     logo: `${SITE.url}/brand/ludarium-logo.png`,
     slogan: SITE.tagline,
     description: SITE.description,
+    sameAs: SOCIAL.map((s) => s.href),
     founder: {
       '@type': 'Person',
       '@id': `${SITE.url}/about/#founder`,
