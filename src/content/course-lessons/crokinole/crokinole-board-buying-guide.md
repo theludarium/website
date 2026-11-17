@@ -11,7 +11,7 @@ oneIdea: "The board, the discs, and the powder are one system. A tournament-size
 tryThis: "Measure your board's playing surface and 20 hole, and one disc. If they do not match a set size, write the numbers on the box so nobody buys the wrong discs later."
 nextTeaser: "Next, house rules and kids' versions: the common ones by name, so your table can choose them on purpose."
 ---
-Welcome to Level 4. Crokinole skill is partly a feel for speed, and speed depends on the board, the discs, and the powder. A shot that is perfect on one board flies off another. If you want your practice to carry over to a club or tournament, play on equipment built to the same standard. This lesson explains what that standard is and what to check before you buy. It names no prices, since they change often.
+Welcome to Level 4. [Crokinole](https://www.amazon.com/dp/B07N5G1MK4?tag=cubecommonw0a-20) skill is partly a feel for speed, and speed depends on the board, the discs, and the powder. A shot that is perfect on one board flies off another. If you want your practice to carry over to a club or tournament, play on equipment built to the same standard. This lesson explains what that standard is and what to check before you buy. It names no prices, since they change often.
 
 ## Board size: tournament or traditional
 

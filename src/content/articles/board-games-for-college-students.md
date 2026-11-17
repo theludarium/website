@@ -39,7 +39,7 @@ Notes on the picks:
 
 **Codenames** is the one to buy first. It handles a crowded room, needs no table (lay the cards on the floor), and works with people who have never played a game in their lives. If you buy nothing else, buy this.
 
-**[The Crew: The Quest for Planet Nine](https://www.amazon.com/dp/B084GP7X3P?tag=cubecommonw0a-20)** is a cooperative trick-taking game in a deck-sized box. If your friends know Euchre, Spades, or Hearts, they already know how to play. It has fifty missions, so it lasts a semester.
+**[The Crew: The Quest for Planet Nine](https://www.amazon.com/dp/B084GP7X3P?tag=cubecommonw0a-20)** is a cooperative trick-taking game in a deck-sized box. If your friends know [Euchre](https://www.amazon.com/dp/B09D464QFY?tag=cubecommonw0a-20), Spades, or Hearts, they already know how to play. It has fifty missions, so it lasts a semester.
 
 **Love Letter** is a small deck of cards in a velvet bag. It is a bluffing and deduction game that plays in ten minutes and fits in a jacket pocket. Pocket games get played more than shelf games.
 

@@ -11,7 +11,7 @@ oneIdea: "Power in Terra Mystica is a cycle, not a stockpile. The skill is keepi
 tryThis: "In your next game, before each pass, count what is left in Bowl III and say what you could have bought with it. Aim for zero by round 3."
 nextTeaser: "Next, terraforming: what Spades really cost at each exchange rate, when Shipping beats digging, and how to choose where to grow."
 ---
-Welcome to Level 2. Terra Mystica's Power system confuses new players because the tokens never leave: they just move around three Bowls. Once you see it as a cycle with a fixed size, the decisions get much clearer.
+Welcome to Level 2. [Terra Mystica](https://www.amazon.com/dp/B00APPE4HK?tag=cubecommonw0a-20)'s Power system confuses new players because the tokens never leave: they just move around three Bowls. Once you see it as a cycle with a fixed size, the decisions get much clearer.
 
 All rules here come from the current English rulebook from Capstone Games.
 

@@ -7,7 +7,7 @@ category: Magic & Cube
 tags: ["mtg formats", "magic the gathering formats", "commander format", "how to play commander mtg", "mtg modern format", "magic constructed vs limited"]
 draft: false
 ---
-MTG formats are the different rule sets for building a Magic: The Gathering deck: which cards you may use, how many, and how many people sit at the table. The same cards play very differently in each. Most formats fall into two families. In **constructed** formats you build a deck at home and bring it. In **limited** formats you build a small deck on the spot from packs or a shared pool.
+MTG formats are the different rule sets for building a [Magic: The Gathering](https://www.amazon.com/dp/B0D9KXBNBB?tag=cubecommonw0a-20) deck: which cards you may use, how many, and how many people sit at the table. The same cards play very differently in each. Most formats fall into two families. In **constructed** formats you build a deck at home and bring it. In **limited** formats you build a small deck on the spot from packs or a shared pool.
 
 **The quick answer:** if you want to play with friends, start with Commander. If you want to learn the game fast and play at a store, start with booster draft. If you want Magic without buying cards at all, find a cube. Everything else can wait until you know what kind of player you are.
 

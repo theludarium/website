@@ -10,7 +10,7 @@ draft: false
 oneIdea: "Crokinole rewards repetition you can measure. Drill one shot at a time, count every result, and keep a log, so you know which shot to practice next."
 tryThis: "Start a practice log tonight: shoot 24 open 20s, write the date and the number made, and do it again in a week."
 ---
-Crokinole has a rare gift for anyone who wants to improve: you can practice alone. Every important shot can be set up on an empty board and repeated fifty times in a sitting. This lesson gives you six drills and a weekly plan that ties them together, so the skills from Levels 1 to 4 hold up under pressure.
+[Crokinole](https://www.amazon.com/dp/B07N5G1MK4?tag=cubecommonw0a-20) has a rare gift for anyone who wants to improve: you can practice alone. Every important shot can be set up on an empty board and repeated fifty times in a sitting. This lesson gives you six drills and a weekly plan that ties them together, so the skills from Levels 1 to 4 hold up under pressure.
 
 A word on targets. Top players are startlingly good. In one 2025 tournament final, Devon Fortino and Shawn Hagarty made a combined 85 of 90 open 20s, about 94 percent, according to the [World Crokinole Championship's 2026 report](https://worldcrokinole.com/headline%20news/winner2026.html). Nobody starts there. Your target is your own last week.
 

@@ -11,7 +11,7 @@ oneIdea: "Before every attack, ask one question: what is the most my opponent ca
 tryThis: "In your next game, before you attack each turn, say out loud the biggest attack your opponent could use next turn and which of your Pokémon it would Knock Out."
 nextTeaser: "Next, deck archetypes and the metagame: the main kinds of decks, and how to learn what you will face at your store."
 ---
-At Level 1 you learned to play your own turn well. At Level 3 you start playing your opponent's turn too, in your head, before it happens. The Pokémon TCG hides less than it seems. Most of what your opponent can do next turn is sitting face up on the table.
+At Level 1 you learned to play your own turn well. At Level 3 you start playing your opponent's turn too, in your head, before it happens. The [Pokémon TCG](https://www.amazon.com/dp/B0FLP49KYM?tag=cubecommonw0a-20) hides less than it seems. Most of what your opponent can do next turn is sitting face up on the table.
 
 ## What you can see
 

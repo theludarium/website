@@ -53,7 +53,7 @@ Spring cleaning, applied to games. Everyone brings one game they own and have ne
 
 ### May: Outdoor and Dexterity
 
-The first evenings warm enough to open the door. Move the tables to a patio, a yard, or a park shelter. Dexterity games that do not mind wind: Crokinole if anyone owns a board, [Klask](https://www.amazon.com/dp/B07PKJZQ9G?tag=cubecommonw0a-20), [Jenga](https://www.amazon.com/dp/B09TBG3G5L?tag=cubecommonw0a-20), [Rhino Hero](https://www.amazon.com/dp/B01M8LF7IA?tag=cubecommonw0a-20), [Mölkky](https://www.amazon.com/dp/B0BMKQ2KQT?tag=cubecommonw0a-20) or cornhole for the lawn. Card games stay inside this month.
+The first evenings warm enough to open the door. Move the tables to a patio, a yard, or a park shelter. Dexterity games that do not mind wind: [Crokinole](https://www.amazon.com/dp/B07N5G1MK4?tag=cubecommonw0a-20) if anyone owns a board, [Klask](https://www.amazon.com/dp/B07PKJZQ9G?tag=cubecommonw0a-20), [Jenga](https://www.amazon.com/dp/B09TBG3G5L?tag=cubecommonw0a-20), [Rhino Hero](https://www.amazon.com/dp/B01M8LF7IA?tag=cubecommonw0a-20), [Mölkky](https://www.amazon.com/dp/B0BMKQ2KQT?tag=cubecommonw0a-20) or cornhole for the lawn. Card games stay inside this month.
 
 ### June: Two-Player Night
 

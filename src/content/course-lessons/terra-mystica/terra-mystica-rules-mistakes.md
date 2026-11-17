@@ -11,7 +11,7 @@ oneIdea: "Most Terra Mystica rules errors come from a few small, exact rules: th
 tryThis: "Before your next game, read this list aloud and ask each player to name one rule they had been playing differently."
 nextTeaser: "Next, a first-game plan: how to read the six Scoring tiles, pick your early buildings, and choose Bonus cards on purpose."
 ---
-Terra Mystica has no hidden information and no dice, so a rules slip changes the game in a way nobody notices until the scores look strange. This lesson collects the common ones, each checked against the current English rulebook from Capstone Games.
+[Terra Mystica](https://www.amazon.com/dp/B00APPE4HK?tag=cubecommonw0a-20) has no hidden information and no dice, so a rules slip changes the game in a way nobody notices until the scores look strange. This lesson collects the common ones, each checked against the current English rulebook from Capstone Games.
 
 ## Income and Power
 

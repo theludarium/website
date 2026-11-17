@@ -11,7 +11,7 @@ oneIdea: "Every Dwelling in Terra Mystica has a hidden price: the Spades to make
 tryThis: "In your next game, before each Transform and build, say the full price out loud: Spades needed, Workers or Power spent on them, plus the Dwelling's own cost."
 nextTeaser: "Level 3 begins with all 14 base factions: what each one does, what its Stronghold changes, and a plan for each, with Feuerland's own balance table."
 ---
-Terraforming is what makes Terra Mystica different from other building games. You do not find land that suits you. You make it. This lesson puts numbers on that, using the current English rulebook from Capstone Games.
+Terraforming is what makes [Terra Mystica](https://www.amazon.com/dp/B00APPE4HK?tag=cubecommonw0a-20) different from other building games. You do not find land that suits you. You make it. This lesson puts numbers on that, using the current English rulebook from Capstone Games.
 
 ## The terrain ring
 

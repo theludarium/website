@@ -11,7 +11,7 @@ oneIdea: "Crokinole is taught with discs, not words. Say three sentences, shoot 
 tryThis: "Next time you teach, stop talking after the three opening sentences and hand someone a disc. Count how many rules you still need to explain once the round is over."
 nextTeaser: "Level 1 starts with the rules new players get wrong: line touches, the combination hit, discs that come back from the ditch, and what counts as a shot."
 ---
-Crokinole is one of the easiest games to teach, and one of the easiest to over-teach. A new player does not need the Spinning Disc Rule before their first flick. They need a seat, a disc, and a reason to aim. This lesson gives you a host script in the order you would say it, built from the NCA rules taught in [lesson 1](/academy/crokinole/how-to-play-crokinole/).
+[Crokinole](https://www.amazon.com/dp/B07N5G1MK4?tag=cubecommonw0a-20) is one of the easiest games to teach, and one of the easiest to over-teach. A new player does not need the Spinning Disc Rule before their first flick. They need a seat, a disc, and a reason to aim. This lesson gives you a host script in the order you would say it, built from the NCA rules taught in [lesson 1](/academy/crokinole/how-to-play-crokinole/).
 
 For the general craft of teaching any game, see our guide on [how to teach a board game](/articles/how-to-teach-a-board-game/). Print the [crokinole teach sheet](/academy/crokinole/teach-sheet/) and leave it next to the board.
 

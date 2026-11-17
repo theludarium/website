@@ -11,7 +11,7 @@ oneIdea: "Every turn is a choice between questing and challenging. Questing wins
 tryThis: "In your next game, say \"ready, set, draw\" out loud at the start of every turn, and ask yourself one question before each quest: what can challenge this character next turn?"
 nextTeaser: "Next, how to read a card: cost, ink type, Strength, Willpower, lore, keywords, and the small print at the bottom, on a made-up card drawn for this course."
 ---
-Disney Lorcana is a race. You and your opponent each lead a band of Disney characters, called glimmers, and send them on quests to gather lore. The first player to 20 lore wins. Along the way, characters can challenge each other, songs get sung, and the card you put in your inkwell today decides what you can play tomorrow.
+[Disney Lorcana](https://www.amazon.com/dp/B0CSZ553QK?tag=cubecommonw0a-20) is a race. You and your opponent each lead a band of Disney characters, called glimmers, and send them on quests to gather lore. The first player to 20 lore wins. Along the way, characters can challenge each other, songs get sung, and the card you put in your inkwell today decides what you can play tomorrow.
 
 This lesson covers the Lorcana rules as of Hyperia City, in our own words, checked against the official Comprehensive Rules.
 

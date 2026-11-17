@@ -11,7 +11,7 @@ oneIdea: "Buy something built for playing, not for opening. Two ready-made decks
 tryThis: "Before you buy anything, ask a nearby store whether it runs a Learn-to-Play event, or watch the official introductory videos together. Ten minutes shows whether the game clicks."
 nextTeaser: "Next, how a turn works: setup, the inkwell, questing for lore, challenging, and the one race to 20 that decides every game."
 ---
-The Disney Lorcana shelf is a beautiful place to get lost. Booster packs, gift boxes, trove boxes, collector portfolios, all with glowing art of characters you already love. Most of them are made for opening, not for learning. This lesson sorts the shelf into what helps a new player and what can wait.
+The [Disney Lorcana](https://www.amazon.com/dp/B0CSZ553QK?tag=cubecommonw0a-20) shelf is a beautiful place to get lost. Booster packs, gift boxes, trove boxes, collector portfolios, all with glowing art of characters you already love. Most of them are made for opening, not for learning. This lesson sorts the shelf into what helps a new player and what can wait.
 
 It is written for two readers at once: the person who wants to play, and the friend, partner, or parent who is about to learn alongside them.
 

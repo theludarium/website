@@ -33,7 +33,7 @@ Their biggest lesson: the model was never the bottleneck. The vocabulary was. A 
 
 Every game gets a call number, just like a library book. Ten shelves, numbered by the hundreds, group games by what you actually do when you play. Each shelf has subsections, and each card ends with a three-letter title code and the year.
 
-So [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) is **520 WIN 2019**: shelf 500 (Engines & Tableaus), subsection 520 (Tableau engines). Euchre, a Midwest kitchen-table classic, is **310 EUC**: Classic Cards, trick-taking. Classics have no year.
+So [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) is **520 WIN 2019**: shelf 500 (Engines & Tableaus), subsection 520 (Tableau engines). [Euchre](https://www.amazon.com/dp/B09D464QFY?tag=cubecommonw0a-20), a Midwest kitchen-table classic, is **310 EUC**: Classic Cards, trick-taking. Classics have no year.
 
 | Call no. | Shelf | Subsections | Example |
 | --- | --- | --- | --- |

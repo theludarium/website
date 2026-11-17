@@ -6,7 +6,7 @@ category: Magic & Cube
 tags: ["MTG cube", "cube draft", "what is cube in Magic", "Magic the Gathering cube", "how cube works", "cube format", "Magic: The Gathering and Cube"]
 draft: false
 ---
-An MTG cube is a curated collection of Magic: The Gathering cards, usually 360 to 540 of them, built by one person to be drafted over and over. Instead of opening sealed booster packs, players shuffle the cube, deal it into fifteen-card stacks, and draft from those. Nobody buys anything. The same cards come back to the table every time, and the fun comes from how differently they combine each night.
+An MTG cube is a curated collection of [Magic: The Gathering](https://www.amazon.com/dp/B0D9KXBNBB?tag=cubecommonw0a-20) cards, usually 360 to 540 of them, built by one person to be drafted over and over. Instead of opening sealed booster packs, players shuffle the cube, deal it into fifteen-card stacks, and draft from those. Nobody buys anything. The same cards come back to the table every time, and the fun comes from how differently they combine each night.
 
 If you have played Magic once at a kitchen table and bounced off the cost of keeping up, cube is the version of the game built for you. It is also, in my experience, the best thing that has happened to Magic as a social activity.
 

@@ -63,7 +63,7 @@ Set up Qwirkle at the kitchen table while they are having coffee. Play a few tur
 
 A few other approaches that work:
 
-- **Ask them to teach you their game.** Euchre, pinochle, cribbage, canasta, dominoes. Learn it properly. Then, a visit or two later, suggest Skull King "because it's a bit like euchre."
+- **Ask them to teach you their game.** [Euchre](https://www.amazon.com/dp/B09D464QFY?tag=cubecommonw0a-20), pinochle, cribbage, canasta, dominoes. Learn it properly. Then, a visit or two later, suggest Skull King "because it's a bit like euchre."
 - **Put them on a team.** In Codenames, pair the grandparent with a grandchild. Two heads, shared blame, and a built-in reason to talk.
 - **Give them a job.** Banker, scorekeeper, tile-drawer. A role at the table without the pressure of playing, which usually turns into playing.
 - **Keep the first game short.** Twenty minutes, then stop, even if it is going well. Especially then.

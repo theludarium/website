@@ -7,7 +7,7 @@ games: [magic-the-gathering]
 tags: ["Magic the Gathering benefits", "what Magic teaches", "skills from Magic the Gathering", "is Magic good for you", "Magic and critical thinking", "lessons from card games", "Magic: The Gathering and Cube"]
 draft: false
 ---
-Ask anyone who played Magic: The Gathering seriously for a few years what they got out of it, and the Magic the Gathering benefits they describe rarely involve cards. They talk about learning to build a system from parts. Learning to read a person across a table. Learning to lose forty times in a row and come back. The game has been around since [1993](https://en.wikipedia.org/wiki/Magic:_The_Gathering), more than three decades, and the people who grew up on it carry its lessons into rooms that have nothing to do with dragons.
+Ask anyone who played [Magic: The Gathering](https://www.amazon.com/dp/B0D9KXBNBB?tag=cubecommonw0a-20) seriously for a few years what they got out of it, and the Magic the Gathering benefits they describe rarely involve cards. They talk about learning to build a system from parts. Learning to read a person across a table. Learning to lose forty times in a row and come back. The game has been around since [1993](https://en.wikipedia.org/wiki/Magic:_The_Gathering), more than three decades, and the people who grew up on it carry its lessons into rooms that have nothing to do with dragons.
 
 I am one of them, and this article is an attempt to name those lessons plainly, for people who played and for people wondering what their kid, partner, or coworker sees in it.
 

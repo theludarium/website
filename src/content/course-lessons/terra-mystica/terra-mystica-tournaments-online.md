@@ -11,7 +11,7 @@ oneIdea: "Terra Mystica's competitive scene lives mostly online. A long-running 
 tryThis: "Make an account on one online platform this week and start one asynchronous four-player game with the base rules, so you have a game running between in-person sessions."
 nextTeaser: "The last lesson is a six-week practice plan: one faction at a time, game reviews, endgame counting drills, and your first league season."
 ---
-Welcome to Level 5. Terra Mystica has no official organized play program from its publishers, but it has a long-running online competitive scene. This lesson covers where it lives and how the formats work.
+Welcome to Level 5. [Terra Mystica](https://www.amazon.com/dp/B00APPE4HK?tag=cubecommonw0a-20) has no official organized play program from its publishers, but it has a long-running online competitive scene. This lesson covers where it lives and how the formats work.
 
 ## The Snellman site
 

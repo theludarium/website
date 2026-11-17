@@ -11,7 +11,7 @@ oneIdea: "Marvel Champions is a race between two clocks: your damage on the vill
 tryThis: "For your first game, play the Rhino scenario with two of the pre-built core set decks, and say the villain phase steps out loud each round until the table knows them."
 nextTeaser: "Next, how to teach Marvel Champions: a host script that gets a new player through the two forms, resources, and the villain phase in about ten minutes."
 ---
-Marvel Champions: The Card Game is a cooperative card game for 1 to 4 players from Fantasy Flight Games. Each player is one hero with their own deck, and the whole table works together against one villain run by the game itself. It is a Living Card Game: no random packs, just fixed boxes.
+[Marvel Champions: The Card Game](https://www.amazon.com/dp/B07W1BF6D5?tag=cubecommonw0a-20) is a cooperative card game for 1 to 4 players from Fantasy Flight Games. Each player is one hero with their own deck, and the whole table works together against one villain run by the game itself. It is a Living Card Game: no random packs, just fixed boxes.
 
 This lesson follows the Rules Reference, version 1.8 (2026), and the core set's Learn to Play booklet. When they disagree, the Rules Reference wins. Fantasy Flight Games posts the current Rules Reference at [fantasyflightgames.com/marvel-champions-rules](https://www.fantasyflightgames.com/marvel-champions-rules).
 

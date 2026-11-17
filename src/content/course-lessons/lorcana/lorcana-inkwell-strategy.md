@@ -11,7 +11,7 @@ oneIdea: "Every card is either a play or a resource. Each turn, ink the card you
 tryThis: "For your next three games, before you ink, say out loud why you chose that card over the others in your hand. If you cannot say why, pick again."
 nextTeaser: "Next, the big decision of every turn: quest or challenge. A simple way to choose, built on the two questions from your first ten games."
 ---
-In most card games, you get resources from special cards. In Disney Lorcana, almost any card can become a resource. That makes the inkwell the quietest decision on every turn, and one of the most important. A good choice keeps your best cards in hand. A careless one throws away the card that would have won the game.
+In most card games, you get resources from special cards. In [Disney Lorcana](https://www.amazon.com/dp/B0CSZ553QK?tag=cubecommonw0a-20), almost any card can become a resource. That makes the inkwell the quietest decision on every turn, and one of the most important. A good choice keeps your best cards in hand. A careless one throws away the card that would have won the game.
 
 ## Why ink every turn early
 

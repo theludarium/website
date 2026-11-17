@@ -17,7 +17,7 @@ It is written for two readers at once: the new player, and the parent standing i
 
 ## Collecting and playing are two different hobbies
 
-Many people meet the Pokémon TCG as a collecting hobby. Packs are fun to open, and a binder of favorites is its own reward. That is a great hobby. It is just not the same as learning the game.
+Many people meet the [Pokémon TCG](https://www.amazon.com/dp/B0FLP49KYM?tag=cubecommonw0a-20) as a collecting hobby. Packs are fun to open, and a binder of favorites is its own reward. That is a great hobby. It is just not the same as learning the game.
 
 A pile of cards from random packs rarely makes a deck that plays well. A playable deck needs the right mix of Pokémon, Trainer cards, and Energy, in the right numbers. So if the goal is to play, start with a product where that work is already done.
 

@@ -27,7 +27,7 @@ Small groups, Bible study groups, and young adult groups often meet in homes. Th
 - **[Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20)** is the single best game for this setting. Two teams, one-word clues, and the whole table talking. It handles eight well, and people who arrive late can join a team without any explanation. For a group that meets repeatedly, Codenames is nearly endlessly replayable.
 - **[Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20)** gives one player a hidden target on a spectrum (say, "hot" to "cold") and asks them to give a clue that lands their team on it. It runs entirely on opinions, which makes it a surprisingly good way to learn what people actually think.
 - **[Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20)** is cooperative. One player guesses a word; everyone else writes a one-word clue, but duplicate clues get removed. It is gentle, funny, and nobody loses alone.
-- **[The Crew](https://link.amazon/B099S9RKf)** suits a group that wants to sit down and concentrate for thirty minutes. It is a cooperative trick-taking game. If several people know Euchre or Spades, they will pick it up immediately.
+- **[The Crew](https://link.amazon/B099S9RKf)** suits a group that wants to sit down and concentrate for thirty minutes. It is a cooperative trick-taking game. If several people know [Euchre](https://www.amazon.com/dp/B09D464QFY?tag=cubecommonw0a-20) or Spades, they will pick it up immediately.
 
 For youth groups specifically, Codenames and Wavelength get the most mileage. Teenagers who are reluctant to talk in a discussion will shout a Wavelength answer without thinking about it.
 

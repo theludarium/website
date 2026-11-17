@@ -11,7 +11,7 @@ oneIdea: "Most crokinole arguments come from a few edge cases: lines, combinatio
 tryThis: "Before your next game, read the seven headings in this lesson aloud and ask the table which ones they had been playing differently."
 nextTeaser: "Next, how to shoot: the grip, the flick, and the stance that turn a lucky shot into a repeatable one."
 ---
-Welcome to Level 1. Crokinole has few rules, which is why the edge cases cause so many arguments. A disc rolls over the line and back. A shot hits your own disc, which hits theirs. A 20 drops on a shot that missed. This lesson settles each one with the [NCA Official Rules of Crokinole](https://nationalcrokinoleassociation.com/wp-content/uploads/2026/05/NCA-Official-Rules-of-Crokinole.docx.pdf), ratified May 6, 2026, with rule numbers so you can point at the page.
+Welcome to Level 1. [Crokinole](https://www.amazon.com/dp/B07N5G1MK4?tag=cubecommonw0a-20) has few rules, which is why the edge cases cause so many arguments. A disc rolls over the line and back. A shot hits your own disc, which hits theirs. A 20 drops on a shot that missed. This lesson settles each one with the [NCA Official Rules of Crokinole](https://nationalcrokinoleassociation.com/wp-content/uploads/2026/05/NCA-Official-Rules-of-Crokinole.docx.pdf), ratified May 6, 2026, with rule numbers so you can point at the page.
 
 ## 1. Touching a line
 

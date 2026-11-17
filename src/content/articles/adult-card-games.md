@@ -57,7 +57,7 @@ A better Celebrity, with a deck that mixes real people, fictional characters, an
 
 ### The Crew
 
-Cooperative trick-taking across a series of missions. You can barely communicate, and the whole table has to make specific players win specific tricks. If your group grew up on Euchre or Spades, this is the next step. We covered it in depth in [The Crew: the best teaching game](/articles/the-crew-card-game/).
+Cooperative trick-taking across a series of missions. You can barely communicate, and the whole table has to make specific players win specific tricks. If your group grew up on [Euchre](https://www.amazon.com/dp/B09D464QFY?tag=cubecommonw0a-20) or Spades, this is the next step. We covered it in depth in [The Crew: the best teaching game](/articles/the-crew-card-game/).
 
 ### Love Letter
 

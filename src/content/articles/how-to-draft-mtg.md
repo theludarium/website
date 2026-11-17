@@ -6,7 +6,7 @@ category: Magic & Cube
 tags: ["mtg how to draft", "how to draft mtg", "how to draft magic", "mtg draft for beginners", "booster draft", "play booster draft"]
 draft: false
 ---
-Learning how to draft in Magic: The Gathering takes one evening. Up to eight players sit around a table, open packs, take one card at a time, and pass the rest along. After three packs, everyone builds a 40-card deck from the cards they picked and plays a few rounds against the others. You do not need a collection, and you do not need to know the set. That is the whole point.
+Learning how to draft in [Magic: The Gathering](https://www.amazon.com/dp/B0D9KXBNBB?tag=cubecommonw0a-20) takes one evening. Up to eight players sit around a table, open packs, take one card at a time, and pass the rest along. After three packs, everyone builds a 40-card deck from the cards they picked and plays a few rounds against the others. You do not need a collection, and you do not need to know the set. That is the whole point.
 
 **The quick answer:** take the strongest card in each pack early, settle into two colors by the middle of pack two, then build 23 spells and 17 lands. Play your rounds, keep your cards, and come back next week.
 

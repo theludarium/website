@@ -49,7 +49,7 @@ For reluctant players, teach by starting. Do not explain the game and then play 
 Some people do not dislike games. They dislike losing, or more precisely, they dislike losing in front of people. Cooperative games fix this entirely: everyone wins or everyone loses, and nobody is singled out.
 
 - **Just One** is scored as a team. Thirteen words, how many did we get? The score is a shared story, not a ranking.
-- **The Crew** is a cooperative trick-taking game. If your family plays Euchre or Spades, it is immediately familiar, and nobody loses alone.
+- **The Crew** is a cooperative trick-taking game. If your family plays [Euchre](https://www.amazon.com/dp/B09D464QFY?tag=cubecommonw0a-20) or Spades, it is immediately familiar, and nobody loses alone.
 - **Hanabi** is a quiet cooperative card game where you hold your cards facing out. The team builds a fireworks display together.
 - **Telestrations** has a scoring system that nobody uses. Most tables skip it entirely. The game is the reveal, not the points.
 

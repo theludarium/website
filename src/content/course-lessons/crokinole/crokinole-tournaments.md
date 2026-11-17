@@ -11,7 +11,7 @@ oneIdea: "Competitive crokinole is open to anyone. The NCA Tour runs independent
 tryThis: "Open the NCA Tour schedule, find the event closest to you, and write its date on your calendar, even if you only go to watch."
 nextTeaser: "Last, a practice plan: weekly drills for open 20s, takeouts, and touch, built to get you ready for your first event."
 ---
-Welcome to Level 5. Crokinole has a real competitive scene, with a tour, rankings, and a world championship that has run since 1999. It is also one of the most open: no qualifying, recreational divisions, and organizers who want new players. This lesson covers where competitive crokinole happens and how to join in.
+Welcome to Level 5. [Crokinole](https://www.amazon.com/dp/B07N5G1MK4?tag=cubecommonw0a-20) has a real competitive scene, with a tour, rankings, and a world championship that has run since 1999. It is also one of the most open: no qualifying, recreational divisions, and organizers who want new players. This lesson covers where competitive crokinole happens and how to join in.
 
 ## The World Crokinole Championship
 

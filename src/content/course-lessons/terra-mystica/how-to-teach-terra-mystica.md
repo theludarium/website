@@ -11,7 +11,7 @@ oneIdea: "Teach Terra Mystica from the Faction board outward: what you build, wh
 tryThis: "Before your next teach, set up the introductory game in full and point at each player's own Faction board as you go, so every rule lands on something they can touch."
 nextTeaser: "Level 1 starts with the rules new players get wrong: leech costs, Spades you cannot save, Shipping versus Bridges, and the key you need for the top of a cult track."
 ---
-Terra Mystica looks like a wall of icons, and new players often brace for a long teach. The good news: almost everything a player needs is printed on their own Faction board. A good teach points at that board, explains the pattern once, and lets the board carry the details.
+[Terra Mystica](https://www.amazon.com/dp/B00APPE4HK?tag=cubecommonw0a-20) looks like a wall of icons, and new players often brace for a long teach. The good news: almost everything a player needs is printed on their own Faction board. A good teach points at that board, explains the pattern once, and lets the board carry the details.
 
 Plan on about twenty minutes. Set up the rulebook's introductory game first, so nobody has to choose a faction or a starting spot before they know what those choices mean. Print the [Terra Mystica teach sheet](/academy/terra-mystica/teach-sheet/) for the middle of the table.
 

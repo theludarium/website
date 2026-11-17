@@ -11,7 +11,7 @@ oneIdea: "House rules are fine when they are chosen on purpose. Name each one, s
 tryThis: "Write your table's house rules on a card and tape it under the board. List only where you differ from the NCA rules."
 nextTeaser: "Level 5 starts with tournaments: the NCA Tour, the World Crokinole Championship in Tavistock, and how to enter your first event."
 ---
-Crokinole was a family game for more than a century before it had a rulebook anyone agreed on. Every family has its own version, and many of those versions are good. The trouble starts when two families meet at one board. This lesson lists the common house rules by name, sets each against the [NCA Official Rules of Crokinole](https://nationalcrokinoleassociation.com/wp-content/uploads/2026/05/NCA-Official-Rules-of-Crokinole.docx.pdf), and suggests versions for young kids.
+[Crokinole](https://www.amazon.com/dp/B07N5G1MK4?tag=cubecommonw0a-20) was a family game for more than a century before it had a rulebook anyone agreed on. Every family has its own version, and many of those versions are good. The trouble starts when two families meet at one board. This lesson lists the common house rules by name, sets each against the [NCA Official Rules of Crokinole](https://nationalcrokinoleassociation.com/wp-content/uploads/2026/05/NCA-Official-Rules-of-Crokinole.docx.pdf), and suggests versions for young kids.
 
 Even the board makers agree: [Tracey Boards' FAQ](https://traceyboards.com/faq/) says it is a big believer in house rules, and that competitive play follows the NCA.
 
