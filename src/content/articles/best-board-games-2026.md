@@ -79,7 +79,7 @@ A 2026 game does not need to beat these. It needs to belong next to them.
 
 ### Flip 7: With a Vengeance
 
-[Flip 7: With a Vengeance](https://www.amazon.com/dp/B0GK9XK2N4?tag=cubecommonw0a-20) from The Op (a Walmart exclusive in the US) is a standalone follow-up to the push-your-luck hit, adding action cards that steal, force draws, and cut scores. It trades innocence for interaction, which is what groups who found Flip 7 too polite wanted. The teach is still under five minutes.
+[Flip 7: With a Vengeance](https://www.amazon.com/dp/B0GK9XK2N4?tag=cubecommonw0a-20) from The Op (a Walmart exclusive in the US) is a standalone follow-up to the push-your-luck hit, adding action cards that steal, force draws, and cut scores. It trades innocence for interaction, which is what groups who found [Flip 7](https://www.amazon.com/dp/B0DWGVM7RY?tag=cubecommonw0a-20) too polite wanted. The teach is still under five minutes.
 
 ### Wingspan Pocket
 
@@ -114,7 +114,7 @@ The same seven games, sorted by who is playing.
 A few patterns show up in what publishers are releasing and what groups are asking for.
 
 - Short cooperative games keep growing. The success of The Crew and Sky Team opened a lane for 20-minute co-ops, and more designers are using it.
-- Nature and landscape themes have not slowed. Wingspan, Cascadia, and Everdell proved the audience, and we expect more games about forests, oceans, and gardens. See our comparison of [Wingspan, Everdell, and Cascadia](/articles/wingspan-vs-everdell-vs-cascadia/).
+- Nature and landscape themes have not slowed. Wingspan, Cascadia, and [Everdell](https://www.amazon.com/dp/B09ZWQTTNR?tag=cubecommonw0a-20) proved the audience, and we expect more games about forests, oceans, and gardens. See our comparison of [Wingspan, Everdell, and Cascadia](/articles/wingspan-vs-everdell-vs-cascadia/).
 - Smaller boxes. Publishers are putting serious games in boxes that fit in a bag, partly because shelf space and shipping both cost more than they used to.
 - Roll-and-write and flip-and-write formats remain a reliable source of good fillers.
 - Heavier games are getting better at the teach. Designers are shipping tutorial scenarios and learn-as-you-play decks, which used to be rare.

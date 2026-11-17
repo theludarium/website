@@ -33,19 +33,19 @@ Their biggest lesson: the model was never the bottleneck. The vocabulary was. A 
 
 Every game gets a call number, just like a library book. Ten shelves, numbered by the hundreds, group games by what you actually do when you play. Each shelf has subsections, and each card ends with a three-letter title code and the year.
 
-So Wingspan is **520 WIN 2019**: shelf 500 (Engines & Tableaus), subsection 520 (Tableau engines). Euchre, a Midwest kitchen-table classic, is **310 EUC**: Classic Cards, trick-taking. Classics have no year.
+So [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) is **520 WIN 2019**: shelf 500 (Engines & Tableaus), subsection 520 (Tableau engines). Euchre, a Midwest kitchen-table classic, is **310 EUC**: Classic Cards, trick-taking. Classics have no year.
 
 | Call no. | Shelf | Subsections | Example |
 | --- | --- | --- | --- |
-| 000 | Party & Dexterity | 010 Word · 020 Guessing · 030 Drawing · 040 Storytelling · 050 Dexterity | Codenames |
-| 100 | Deduction & Hidden Roles | 110 Hidden roles · 120 Bluffing & clue-giving · 130 Logic · 140 Co-op deduction | The Resistance: Avalon |
-| 200 | Cooperative | 210 Crisis management · 220 Limited communication · 230 Heavy co-op · 240 Two-player co-op | Pandemic |
+| 000 | Party & Dexterity | 010 Word · 020 Guessing · 030 Drawing · 040 Storytelling · 050 Dexterity | [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) |
+| 100 | Deduction & Hidden Roles | 110 Hidden roles · 120 Bluffing & clue-giving · 130 Logic · 140 Co-op deduction | [The Resistance: Avalon](https://www.amazon.com/dp/B009SAAV0C?tag=cubecommonw0a-20) |
+| 200 | Cooperative | 210 Crisis management · 220 Limited communication · 230 Heavy co-op · 240 Two-player co-op | [Pandemic](https://link.amazon/B0eHP5GCg) |
 | 300 | Classic Cards | 310 Trick-taking · 320 Pegging & melding · 330 Shedding & climbing | Euchre |
-| 400 | Drafting & Collecting | 410 Card drafting · 420 Sets & routes | Ticket to Ride |
+| 400 | Drafting & Collecting | 410 Card drafting · 420 Sets & routes | [Ticket to Ride](https://link.amazon/B0jh8RB7f) |
 | 500 | Engines & Tableaus | 510 Deck-building · 520 Tableau · 530 Economic · 540 Worker placement | Wingspan |
-| 600 | Head-to-Head | 610 Dice brawls · 620 Asymmetric conflict · 630 Area control · 650 Racing | Root |
-| 700 | Trade & Negotiation | 710 Trading · 720 Negotiation & bribes · 730 Auctions | Catan |
-| 800 | Abstract & Puzzle | 810 Tile & pattern · 820 Spatial puzzles · 830 Classic abstracts | Azul |
+| 600 | Head-to-Head | 610 Dice brawls · 620 Asymmetric conflict · 630 Area control · 650 Racing | [Root](https://www.amazon.com/dp/B07F454YF3?tag=cubecommonw0a-20) |
+| 700 | Trade & Negotiation | 710 Trading · 720 Negotiation & bribes · 730 Auctions | [Catan](https://link.amazon/B0h8BDGR2) |
+| 800 | Abstract & Puzzle | 810 Tile & pattern · 820 Spatial puzzles · 830 Classic abstracts | [Azul](https://link.amazon/B0bGRYHex) |
 | 900 | Story & Campaign | 910 Dungeon campaigns · 920 Mystery & narrative · 930 Living card campaigns | Sherlock Holmes Consulting Detective |
 
 A game goes on one shelf only, chosen by its main activity. Ticket to Ride has a map, but most of your turns are collecting sets of cards, so it lives at 420.
