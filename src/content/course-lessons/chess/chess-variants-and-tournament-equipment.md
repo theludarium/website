@@ -63,9 +63,7 @@ The Ludarium earns a small commission on qualifying purchases through these link
 
 ## A scorebook
 
-Under both the FIDE and US Chess rules, you write down your moves in most slower games. A spiral scorebook keeps all your games in one place for review later, which matters a lot in Level 5. Any plain notation scoresheet pad will do.
-
-<!-- AFFILIATE: chess scorebook or scoresheet pad -->
+Under both the FIDE and US Chess rules, you write down your moves in most slower games. A scorebook keeps all your games in one place for review later, which matters a lot in Level 5. A hardcover [Chess Scorebook 100 Games](https://www.amazon.com/dp/B0BJN7H81S?tag=cubecommonw0a-20) holds a hundred games with room for long ones, though any plain notation scoresheet pad will do.
 
 ## Where this leads
 
