@@ -1,0 +1,93 @@
+title: "Sixty-Four Squares"
+game: "Chess"
+format: masterclass
+order: 105
+wave: "7"
+draft: false
+publisher: "Traditional game (no single publisher)"
+notice: "Unofficial. Not affiliated with FIDE, US Chess, or any chess site, app, or set maker. Chess is a traditional game with no single publisher."
+rulesEdition: "FIDE Laws of Chess, approved August 7, 2022 and in force from January 1, 2023 (FIDE Handbook E.01), checked against the US Chess Official Rules of Chess, 7th edition (free online chapters, 2026 update)"
+rulesSource: "https://handbook.fide.com/chapter/E012023"
+players: "2"
+playTime: "Set by the clock: a few minutes for blitz, an hour or more for a slow game"
+ages: "Ages 6 and up, younger with a patient teacher"
+promise: "Set up and teach chess in one evening, then climb from tactics and basic checkmates to plans, endgames, the clock, and your first rated tournament."
+description: "A free chess course: setup and every rule, how to teach it, openings, tactics, checkmates, pawn structure, endgames, clocks, ratings, and your first tournament."
+audience:
+  - "Adults and kids who know how the pieces move and want to stop losing to the same tricks."
+  - "Parents and hosts who want to teach chess to a child or a friend without the rules arguments."
+  - "Casual players ready to understand plans, endgames, and why a move is good."
+  - "Anyone curious about clocks, ratings, and what really happens at a first tournament."
+levels:
+  - level: 0
+    name: "Pawn"
+    label: "Learn to play"
+    outcome: "Set up the board correctly, know how every piece moves, and teach a first game to a child or an adult."
+  - level: 1
+    name: "Knight"
+    label: "Beginner"
+    outcome: "Play by the full rules, including castling, en passant, promotion, and stalemate, and open every game with a sound plan."
+  - level: 2
+    name: "Bishop"
+    label: "Intermediate"
+    outcome: "Spot forks, pins, skewers, and discovered attacks, and finish a won game with the basic checkmates."
+  - level: 3
+    name: "Rook"
+    label: "Advanced"
+    outcome: "Choose a plan from the pawn structure, and win or save the king and pawn and rook endgames every player meets."
+  - level: 4
+    name: "Queen"
+    label: "Tournament ready"
+    outcome: "Play Chess960 and bughouse, choose a tournament-standard set and clock, and manage your time in any time control."
+  - level: 5
+    name: "King"
+    label: "The championship path"
+    outcome: "Understand ratings, enter and play a rated tournament by the rules, and follow a weekly plan to keep improving."
+afterLesson3: "Play a full game by the official rules, including the special moves and the draw rules most casual players miss."
+afterLesson8: "Use tactics and basic checkmates, read the pawn structure for a plan, and play the key king and pawn and rook endgames."
+faq:
+  - q: "How do you set up a chess board?"
+    a: "Turn the board so each player has a light square in the near right corner. Pawns fill the second row. The back row runs rook, knight, bishop, queen, king, bishop, knight, rook, with each queen on her own color."
+  - q: "Is stalemate a win or a draw in chess?"
+    a: "A draw. Stalemate means the player to move has no legal move and is not in check. It is the most common way a winning player throws away a won game."
+  - q: "Can you castle out of check or through check?"
+    a: "No. The FIDE Laws forbid castling when the king is in check, when it would cross a square an enemy piece attacks, or when it would land in check. The rook may pass an attacked square."
+  - q: "What is the 50-move rule in chess?"
+    a: "If each player has made 50 moves in a row with no pawn move and no capture, the player to move can claim a draw. Under FIDE rules, at 75 moves each the game is drawn automatically."
+  - q: "What is a good chess rating for a beginner?"
+    a: "There is no single answer, because US Chess, FIDE, and online sites use different scales. Compare yourself only within one system, and judge progress by your own rating over months, not by one number."
+teachSheet:
+  goal: "Checkmate the other king: attack it so it has no legal way out."
+  setup:
+    - "Light square in each player's near right corner."
+    - "Pawns fill each player's second row."
+    - "Back row from the corners in: rook, knight, bishop."
+    - "Queen on her own color, king on the last square."
+    - "White moves first. Players alternate, one move each."
+  turn:
+    - "Move one piece. Capture by landing on an enemy piece."
+    - "Rook: straight lines. Bishop: diagonals. Queen: both."
+    - "King: one square any way. Never into check."
+    - "Knight: an L shape, jumping over pieces."
+    - "Pawn: forward one, or two on its first move. Captures diagonally."
+    - "Castling, en passant, and promotion are special moves. See lesson 3."
+    - "In check? Move the king, block, or capture the attacker."
+  scoring:
+    - "Checkmate wins at once. Resigning loses."
+    - "Running out of time loses, unless the other side cannot mate."
+    - "Stalemate is a draw: no legal move and not in check."
+    - "Draws: agreement, threefold repetition, 50-move rule, no mating material."
+  endGame: "The game ends at checkmate, resignation, a draw, or when a player runs out of time on the clock."
+  tips:
+    - "Before every move, ask what the last enemy move threatens."
+    - "Take the center, bring out knights and bishops, then castle."
+    - "When far ahead, leave the lone king a move so it is not stalemate."
+diagramAlt: "The chess starting position with White at the bottom. Files a to h run along the bottom and ranks 1 to 8 up the side. The near right corner, h1, is a light square. White's pawns fill rank 2 and Black's fill rank 7. Each back rank runs rook, knight, bishop, queen, king, bishop, knight, rook from the a file, so the white queen stands on the light square d1 and the black queen on the dark square d8, facing each other."
+games: [chess]
+related:
+  - "how-to-play-chess"
+  - "how-to-teach-a-board-game"
+  - "analysis-paralysis-board-games"
+  - "luck-vs-skill-board-games"
+  - "teaching-kids-to-lose-at-games"
+  - "two-player-board-games-date-night"
