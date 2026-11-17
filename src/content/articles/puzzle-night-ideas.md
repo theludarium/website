@@ -38,7 +38,7 @@ The simplest version. One large puzzle, one large table, an open-door window of 
 
 Escape room games in a box. Teams of three to five work through a sequence of puzzles against a loose clock. Unlike a jigsaw, this has an ending, which makes it a good fit for a group that wants an arc to the evening.
 
-**Which boxes.** Exit: The Game is the standard; the boxes are rated by difficulty on the lid, and the early ones (The Abandoned Cabin, The Secret Lab) are the right place to start. [Deckscape](https://www.amazon.com/dp/8890944749?tag=cubecommonw0a-20) is a card-only alternative that does not destroy its components, which some groups prefer. Both run roughly 60 to 90 minutes for a team.
+**Which boxes.** [Exit: The Game](https://www.amazon.com/dp/B06WP2G52Z?tag=cubecommonw0a-20) is the standard; the boxes are rated by difficulty on the lid, and the early ones (The Abandoned Cabin, The Secret Lab) are the right place to start. [Deckscape](https://www.amazon.com/dp/8890944749?tag=cubecommonw0a-20) is a card-only alternative that does not destroy its components, which some groups prefer. Both run roughly 60 to 90 minutes for a team.
 
 **Team setup.** One box per team of four. Three teams means three boxes, and ideally three different ones so teams can trade next time. Each team needs its own table, pencil, scratch paper, and enough room to lay out cards.
 

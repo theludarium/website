@@ -44,7 +44,7 @@ A trick-taking game where the team must win specific tricks in specific ways, mi
 
 ### 6. Codenames: Duet
 
-The two-player (or two-team) version of Codenames. Both sides give one-word clues to find agents on a shared grid before the time runs out. Excellent for couples, and it scales up with a house rule or two.
+The two-player (or two-team) version of [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20). Both sides give one-word clues to find agents on a shared grid before the time runs out. Excellent for couples, and it scales up with a house rule or two.
 
 ### 7. Pandemic
 

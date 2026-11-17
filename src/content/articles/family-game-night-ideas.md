@@ -46,7 +46,7 @@ Ask a grandparent to teach the game they played as a kid: rummy, dominoes, cribb
 
 ### 6. Floor picnic night
 
-Spread a blanket on the living room floor, eat dinner picnic style, and play a game on the floor. Dexterity games like Rhino Hero and Jenga work especially well down there.
+Spread a blanket on the living room floor, eat dinner picnic style, and play a game on the floor. Dexterity games like [Rhino Hero](https://www.amazon.com/dp/B01M8LF7IA?tag=cubecommonw0a-20) and [Jenga](https://www.amazon.com/dp/B09TBG3G5L?tag=cubecommonw0a-20) work especially well down there.
 
 ### 7. The game cafe menu
 
@@ -89,7 +89,7 @@ Our longer guide to [board games for all ages](/articles/multigenerational-board
 Kids under five can absolutely join, as long as the night is built around them.
 
 - **Keep it to 10 or 15 minutes.** Then switch to something else, or let them leave the table while the older kids play on.
-- **Play cooperative first games.** [First Orchard](https://www.amazon.com/dp/B004BW8TYC?tag=cubecommonw0a-20) (ages 2 and up) has the whole family pick fruit together before the raven reaches the orchard. Hoot Owl Hoot! (ages 4 and up) gets everyone's owls home before sunrise.
+- **Play cooperative first games.** [First Orchard](https://www.amazon.com/dp/B004BW8TYC?tag=cubecommonw0a-20) (ages 2 and up) has the whole family pick fruit together before the raven reaches the orchard. [Hoot Owl Hoot!](https://www.amazon.com/dp/B004HVKAAI?tag=cubecommonw0a-20) (ages 4 and up) gets everyone's owls home before sunrise.
 - **Make the pieces the fun part.** Big wooden pieces, stacking, and rolling a die are the game at this age. Winning barely matters.
 - **Give them a role in the big kids' game.** A toddler can roll the die for everyone or hand out cards.
 
@@ -101,8 +101,8 @@ These are good starting points. The ages are the publishers' suggested ages, and
 |---|---|---|
 | 2 to 4 | First Orchard, Hoot Owl Hoot! | Cooperative, short, big pieces |
 | 5 to 7 | [Outfoxed!](https://link.amazon/B0hYNduxd), [Dragomino](https://link.amazon/B09WKyU19), Rhino Hero, [Ticket to Ride: First Journey](https://link.amazon/B0fAA009A) | Real choices with little or no reading |
-| 8 to 10 | [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), Kingdomino, [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20), Azul | Quick turns, light strategy, nobody knocked out |
-| 10 and up | Ticket to Ride, [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20), Codenames: Pictures | Deeper play that still teaches in minutes |
+| 8 to 10 | [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), [Kingdomino](https://link.amazon/B08l49zvA), [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20), [Azul](https://link.amazon/B0bGRYHex) | Quick turns, light strategy, nobody knocked out |
+| 10 and up | [Ticket to Ride](https://link.amazon/B0jh8RB7f), [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20), [Codenames: Pictures](https://www.amazon.com/dp/B01HT9DERU?tag=cubecommonw0a-20) | Deeper play that still teaches in minutes |
 
 A few notes on the picks:
 

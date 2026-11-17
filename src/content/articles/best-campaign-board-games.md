@@ -58,7 +58,7 @@ Designed by Isaac Childres and published by Cephalofair Games in 2020, [Jaws of 
 
 Designed by Rob Daviau and Matt Leacock and published by Z-Man Games in 2015, [Pandemic Legacy: Season 1](https://www.amazon.com/dp/B00TQ0DXR2?tag=cubecommonw0a-20) plays 2 to 4 in about 60 minutes per game. The campaign runs through a twelve-month year, and you play one or two games per month depending on how you do, so 12 to 24 games in all.
 
-**Why it fits:** it is the game that made legacy campaigns famous. It starts as classic Pandemic, then surprises you with sealed boxes, new rules, and permanent changes. If you want a refresher on the base game, read [Pandemic explained](/articles/pandemic-board-game-explained/) or take the [Pandemic course](/academy/pandemic/). Finished it? [Pandemic Legacy: Season 0](https://www.amazon.com/dp/B08F73L5BM?tag=cubecommonw0a-20) is a 2020 prequel by the same designers, also run over a twelve-month campaign.
+**Why it fits:** it is the game that made legacy campaigns famous. It starts as classic [Pandemic](https://link.amazon/B0eHP5GCg), then surprises you with sealed boxes, new rules, and permanent changes. If you want a refresher on the base game, read [Pandemic explained](/articles/pandemic-board-game-explained/) or take the [Pandemic course](/academy/pandemic/). Finished it? [Pandemic Legacy: Season 0](https://www.amazon.com/dp/B08F73L5BM?tag=cubecommonw0a-20) is a 2020 prequel by the same designers, also run over a twelve-month campaign.
 
 ### The Crew: The Quest for Planet Nine
 
@@ -100,7 +100,7 @@ Designed by Alan R. Moon, Matt Leacock, and Rob Daviau and published by Days of 
 
 ### Clank! Legacy: Acquisitions Incorporated
 
-Designed by Andy Clautice and Paul Dennen and published by Dire Wolf in 2019, [Clank! Legacy](https://www.amazon.com/dp/B07QT5PVMK?tag=cubecommonw0a-20) plays 2 to 4 in 90 to 120 minutes. It takes the deck-building dungeon race of Clank! and adds a funny, changing story, a board you upgrade, and permanent changes across the campaign.
+Designed by Andy Clautice and Paul Dennen and published by Dire Wolf in 2019, [Clank! Legacy](https://www.amazon.com/dp/B07QT5PVMK?tag=cubecommonw0a-20) plays 2 to 4 in 90 to 120 minutes. It takes the deck-building dungeon race of [Clank!](https://www.amazon.com/dp/B01KAC6268?tag=cubecommonw0a-20) and adds a funny, changing story, a board you upgrade, and permanent changes across the campaign.
 
 **Why it fits:** it suits groups who like to compete and laugh. If deck building is new to your table, read [deck-building games explained](/articles/deck-building-games-explained/) first.
 
@@ -166,7 +166,7 @@ A campaign game carries results from one session to the next. A legacy game is a
 
 ### What is the best campaign board game for two players?
 
-Arkham Horror: The Card Game and Marvel Champions both play very well with two. Jaws of the Lion and Pandemic Legacy also work at two.
+Arkham Horror: The Card Game and Marvel Champions both play very well with two. Jaws of the Lion and [Pandemic Legacy](https://www.amazon.com/dp/B00TQ5SEAI?tag=cubecommonw0a-20) also work at two.
 
 ### Are there competitive campaign board games?
 

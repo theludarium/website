@@ -12,7 +12,7 @@ The best New Year's Eve party games are the ones that carry a room from the firs
 
 Below is a full evening plan from 8 p.m. to the countdown, games sorted by group size, and a homemade resolutions game that only works on this one night of the year.
 
-**The quick answer:** Warm up with Just One or Flip 7, move to team games like Codenames and Wavelength, and finish with Monikers, played in three rounds that land the last card right before midnight. For a big crowd of 10 or more, Telestrations and Wits & Wagers seat everyone.
+**The quick answer:** Warm up with Just One or Flip 7, move to team games like Codenames and Wavelength, and finish with Monikers, played in three rounds that land the last card right before midnight. For a big crowd of 10 or more, Telestrations and [Wits & Wagers](https://www.amazon.com/dp/B083LH3779?tag=cubecommonw0a-20) seat everyone.
 
 Prices are publisher store or list prices at the time of writing, and they move around the holidays. Read them as "about."
 

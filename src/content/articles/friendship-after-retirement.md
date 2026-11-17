@@ -97,7 +97,7 @@ Start with a regular activity rather than a conversation. A weekly card or board
 
 ### What are good games for a retired men's group?
 
-Euchre, cribbage, dominoes, and poker are classics that need no explanation. Ticket to Ride, Azul, and Codenames are modern games that teach in minutes and work well for four to six people.
+Euchre, cribbage, dominoes, and poker are classics that need no explanation. Ticket to Ride, Azul, and [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) are modern games that teach in minutes and work well for four to six people.
 
 ## Build the Tuesday before you need it
 

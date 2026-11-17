@@ -86,7 +86,7 @@ If the gift was a popular game, The Ludarium Academy may already have a free cou
 | [Pandemic](https://link.amazon/B0eHP5GCg) | [Four Actions, Four Cures](/academy/pandemic/) |
 | [Cascadia](https://link.amazon/B0g1HYFt4) | [Wild Corridors](/academy/cascadia/) |
 | [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) | [From Feeder to Flock](/academy/wingspan/) |
-| Everdell | [Four Seasons, Fifteen Spaces](/academy/everdell/) |
+| [Everdell](https://www.amazon.com/dp/B09ZWQTTNR?tag=cubecommonw0a-20) | [Four Seasons, Fifteen Spaces](/academy/everdell/) |
 | [7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20) | [Pick, Pass, and Build](/academy/7-wonders/) |
 | [7 Wonders Duel](https://www.amazon.com/dp/B014DMSTXK?tag=cubecommonw0a-20) | [Two Cities, One Layout](/academy/7-wonders-duel/) |
 | [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) | [Shuffle by Shuffle](/academy/dominion/) |

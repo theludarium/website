@@ -57,7 +57,7 @@ These two are the best picks for mixed ages, because a good guess or a smart bet
 
 ### Wits & Wagers Family
 
-Wits & Wagers is a party game by Dominic Crapuchettes and Nate Heasley, first published by North Star Games in 2005. The family edition plays 3 to 10 in about 25 minutes. In [Wits & Wagers Family](https://www.amazon.com/dp/B003BLQIQK?tag=cubecommonw0a-20), every question has a number for an answer. Everyone writes a guess, the guesses go in order on the table, and then you bet on which one is closest.
+[Wits & Wagers](https://www.amazon.com/dp/B083LH3779?tag=cubecommonw0a-20) is a party game by Dominic Crapuchettes and Nate Heasley, first published by North Star Games in 2005. The family edition plays 3 to 10 in about 25 minutes. In [Wits & Wagers Family](https://www.amazon.com/dp/B003BLQIQK?tag=cubecommonw0a-20), every question has a number for an answer. Everyone writes a guess, the guesses go in order on the table, and then you bet on which one is closest.
 
 **Why it fits:** nobody knows how many bones are in a giraffe's neck, and that is the point. The know-it-all can be beaten by a kid who bets on the right guess. The family edition has simpler rules and questions written for younger players. For a bigger crowd, our guide to [games for 30 people](/articles/games-for-30-people/) shows how to run a Wits & Wagers style round for a whole room.
 

@@ -131,7 +131,7 @@ Once the bag is empty, the 6-point bonus for playing your last tile can swing a 
 
 ## Why Qwirkle works at so many tables
 
-Qwirkle is one of the rare games that kids, grandparents, and serious hobby players can all enjoy together. The rules fit on a postcard, the tiles feel good in your hand, and there is real room for clever play. It sits in the same family as other [tile placement board games](/articles/tile-placement-board-games/), and it makes a natural stepping stone to games like Azul, which you can learn in our [Azul course](/academy/azul/).
+Qwirkle is one of the rare games that kids, grandparents, and serious hobby players can all enjoy together. The rules fit on a postcard, the tiles feel good in your hand, and there is real room for clever play. It sits in the same family as other [tile placement board games](/articles/tile-placement-board-games/), and it makes a natural stepping stone to games like [Azul](https://link.amazon/B0bGRYHex), which you can learn in our [Azul course](/academy/azul/).
 
 ## FAQ
 

@@ -85,7 +85,7 @@ A quick reference. Not exhaustive, but every pick here is one we would put on th
 
 **Four players.** Nearly everything. Catan, [Carcassonne](https://link.amazon/B012Rr5ed), Pandemic, Wingspan, Azul, Codenames (two teams of two is fine). Four is what most designers build around.
 
-**Five players.** Pandemic, 7 Wonders, Ticket to Ride, Sushi Go, The Crew, [Citadels](https://www.amazon.com/dp/B09CDSJMP5?tag=cubecommonw0a-20), Cockroach Poker. Watch out: many 2-to-5 games slow noticeably at five.
+**Five players.** Pandemic, 7 Wonders, Ticket to Ride, [Sushi Go](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), The Crew, [Citadels](https://www.amazon.com/dp/B09CDSJMP5?tag=cubecommonw0a-20), Cockroach Poker. Watch out: many 2-to-5 games slow noticeably at five.
 
 **Six players.** See the table above.
 

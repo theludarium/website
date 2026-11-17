@@ -21,7 +21,7 @@ A good mix for a room of forty:
 | Type | How many tables | Examples | Why |
 |---|---|---|---|
 | Party games, 6 to 10 players | 3 | [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20), [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20), [Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20) | Absorb a crowd fast, teach in two minutes |
-| Light strategy, 3 to 5 players | 4 | [Azul](https://link.amazon/B0bGRYHex), [Ticket to Ride](https://link.amazon/B0jh8RB7f), Sushi Go, [Kingdomino](https://link.amazon/B08l49zvA) | The middle of the room |
+| Light strategy, 3 to 5 players | 4 | [Azul](https://link.amazon/B0bGRYHex), [Ticket to Ride](https://link.amazon/B0jh8RB7f), [Sushi Go](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), [Kingdomino](https://link.amazon/B08l49zvA) | The middle of the room |
 | Dexterity or quick-fire | 2 | [Rhino Hero](https://www.amazon.com/dp/B01M8LF7IA?tag=cubecommonw0a-20), [Klask](https://www.amazon.com/dp/B07PKJZQ9G?tag=cubecommonw0a-20), [Jenga](https://www.amazon.com/dp/B09TBG3G5L?tag=cubecommonw0a-20) | Standing tables, no commitment |
 | One big-table game | 1 | [Werewolf](https://www.amazon.com/dp/B00HS7GG5G?tag=cubecommonw0a-20), Two Rooms and a Boom | A 15-to-20-person event in the second hour |
 

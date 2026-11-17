@@ -145,7 +145,7 @@ At a family table, bump the player who is winning, not the one who is behind. It
 
 Yes, and it comes in the same box. The classic rule sheet includes a variation where each player holds a hand of five cards and plays one per turn, drawing back up to five. It turns Sorry! from pure luck into a game of planning, and the sheet adds a points scoring system for adults. It also has a team variation where opposite colors play as partners.
 
-If your family has outgrown the luck and wants more decisions, the hand-of-five variant is the easiest upgrade. After that, games like Kingdomino and Ticket to Ride keep the friendly race feel with real choices on every turn. Our list of the [best family board games](/articles/best-family-board-games/) has more, and our guide to [take-that games](/articles/take-that-games/) explains why bumping a friend is so much fun.
+If your family has outgrown the luck and wants more decisions, the hand-of-five variant is the easiest upgrade. After that, games like [Kingdomino](https://link.amazon/B08l49zvA) and [Ticket to Ride](https://link.amazon/B0jh8RB7f) keep the friendly race feel with real choices on every turn. Our list of the [best family board games](/articles/best-family-board-games/) has more, and our guide to [take-that games](/articles/take-that-games/) explains why bumping a friend is so much fun.
 
 ## FAQ
 

@@ -25,7 +25,7 @@ The English-language story ran through Mayfair Games, which published Catan in N
 
 - **It was the gateway.** For a generation of American players, Catan was the first board game that was not Monopoly, Risk, or Scrabble. The board changes every game, nobody gets eliminated, and scores stay close, so new players stay engaged to the last roll ([NPR via KUOW](https://thankyou.kuow.org/stories/families-stuck-at-home-turn-to-board-game-catan-sending-sales-skyrocketing)). If you are deciding between the two big gateway games, our [Catan vs Ticket to Ride](/articles/catan-vs-ticket-to-ride/) comparison covers it.
 - **It proved a European-style strategy game could sell at mass scale.** Catan has sold more than 40 million copies in over 40 languages. U.S. sales grew from about 100,000 units by 2004 to more than 600,000 by 2008, right as game stores and board game cafés started to multiply.
-- **It turned one game into a franchise.** Seafarers, Cities & Knights, licensed editions, digital versions. Catan helped make the expansion line normal, and most Spiel des Jahres winners since have gone on to get expansions.
+- **It turned one game into a franchise.** Seafarers, [Cities & Knights](https://www.amazon.com/dp/B0DY87W8SS?tag=cubecommonw0a-20), licensed editions, digital versions. Catan helped make the expansion line normal, and most Spiel des Jahres winners since have gone on to get expansions.
 - **It made trading and table talk the heart of the game.** The best Catan moments happen between players, not on the board.
 
 The game turned 30 in 2025. To mark it, KOSMOS staged a record-setting game at SPIEL Essen with more than 1,100 people playing on one connected island.

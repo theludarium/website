@@ -46,7 +46,7 @@ A note on the mix: at least one person should already know at least one other pe
 
 Two games. Maybe three. Not six.
 
-The first should be short, easy to teach, and forgiving of mistakes. Think [Azul](https://link.amazon/B0bGRYHex), Sushi Go, or Codenames. It warms up the table and tells you how the group is feeling. The second is the main event: Ticket to Ride, [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), [Pandemic](https://link.amazon/B0eHP5GCg), or whatever your group has the appetite for. Keep a tiny closer in reserve, something like The Crew or a quick round of Wavelength, for when the main game ends early.
+The first should be short, easy to teach, and forgiving of mistakes. Think [Azul](https://link.amazon/B0bGRYHex), [Sushi Go](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), or Codenames. It warms up the table and tells you how the group is feeling. The second is the main event: Ticket to Ride, [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), [Pandemic](https://link.amazon/B0eHP5GCg), or whatever your group has the appetite for. Keep a tiny closer in reserve, something like The Crew or a quick round of Wavelength, for when the main game ends early.
 
 Rules for choosing:
 

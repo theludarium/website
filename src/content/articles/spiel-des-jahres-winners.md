@@ -41,7 +41,7 @@ Games are listed by their best-known English title, with the German title where 
 | Year | Winner | Designer(s) |
 |---|---|---|
 | 1979 | Hare and Tortoise | David Parlett |
-| 1980 | Rummikub | Ephraim Hertzano |
+| 1980 | [Rummikub](https://www.amazon.com/dp/B00000IZJB?tag=cubecommonw0a-20) | Ephraim Hertzano |
 | 1981 | Focus | Sid Sackson |
 | 1982 | Enchanted Forest (Sagaland) | Alex Randolph, Michel Matschoss |
 | 1983 | Scotland Yard | Manfred Burggraf, Dorothy Garrels, Wolf Hörmann, Fritz Ifland, Werner Scheerer, Werner Schlegel |
@@ -57,17 +57,17 @@ Games are listed by their best-known English title, with the German title where 
 | 1993 | Bluff (Liar's Dice) | Richard Borg |
 | 1994 | Manhattan | Andreas Seyfarth |
 | 1995 | The Settlers of Catan | Klaus Teuber |
-| 1996 | El Grande | Wolfgang Kramer, Richard Ulrich |
+| 1996 | [El Grande](https://www.amazon.com/dp/B00005UN1N?tag=cubecommonw0a-20) | Wolfgang Kramer, Richard Ulrich |
 | 1997 | Mississippi Queen | Werner Hodel |
 | 1998 | Elfenland | Alan R. Moon |
 | 1999 | Tikal | Wolfgang Kramer, Michael Kiesling |
 | 2000 | Torres | Wolfgang Kramer, Michael Kiesling |
 | 2001 | Carcassonne | Klaus-Jürgen Wrede |
 | 2002 | Villa Paletti | Bill Payne |
-| 2003 | Alhambra | Dirk Henn |
+| 2003 | [Alhambra](https://www.amazon.com/dp/B07Z575QLT?tag=cubecommonw0a-20) | Dirk Henn |
 | 2004 | Ticket to Ride | Alan R. Moon |
 | 2005 | Niagara | Thomas Liesching |
-| 2006 | Thurn and Taxis | Andreas Seyfarth, Karen Seyfarth |
+| 2006 | [Thurn and Taxis](https://www.amazon.com/dp/B000IXS4SY?tag=cubecommonw0a-20) | Andreas Seyfarth, Karen Seyfarth |
 | 2007 | Zooloretto | Michael Schacht |
 | 2008 | Keltis | Reiner Knizia |
 | 2009 | Dominion | Donald X. Vaccarino |
@@ -84,7 +84,7 @@ Games are listed by their best-known English title, with the German title where 
 | 2020 | Pictures | Daniela Stöhr, Christian Stöhr |
 | 2021 | MicroMacro: Crime City | Johannes Sich |
 | 2022 | Cascadia | Randy Flynn |
-| 2023 | Dorfromantik: The Board Game | Michael Palm, Lukas Zach |
+| 2023 | [Dorfromantik: The Board Game](https://www.amazon.com/dp/B0BQ3W9GRL?tag=cubecommonw0a-20) | Michael Palm, Lukas Zach |
 | 2024 | Sky Team | Luc Rémond |
 | 2025 | Bomb Busters | Hisashi Hayashi |
 | 2026 | JinxO (Dito!) | Martin Ang |
@@ -100,12 +100,12 @@ A few patterns jump out. Wolfgang Kramer won five times (once with Richard Ulric
 | 2013 | Legends of Andor | Michael Menzel |
 | 2014 | Istanbul | Rüdiger Dorn |
 | 2015 | Broom Service | Andreas Pelikan, Alexander Pfister |
-| 2016 | Isle of Skye: From Chieftain to King | Andreas Pelikan, Alexander Pfister |
+| 2016 | [Isle of Skye](https://www.amazon.com/dp/B012HND8S8?tag=cubecommonw0a-20): From Chieftain to King | Andreas Pelikan, Alexander Pfister |
 | 2017 | EXIT: The Game | Inka Brand, Markus Brand |
 | 2018 | The Quacks of Quedlinburg | Wolfgang Warsch |
 | 2019 | Wingspan | Elizabeth Hargrave |
-| 2020 | The Crew: The Quest for Planet Nine | Thomas Sing |
-| 2021 | Paleo | Peter Rustemeyer |
+| 2020 | [The Crew: The Quest for Planet Nine](https://www.amazon.com/dp/B084GP7X3P?tag=cubecommonw0a-20) | Thomas Sing |
+| 2021 | [Paleo](https://www.amazon.com/dp/B08KPRLNFY?tag=cubecommonw0a-20) | Peter Rustemeyer |
 | 2022 | Living Forest | Aske Christiansen |
 | 2023 | Challengers! | Johannes Krenner, Markus Slawitscheck |
 | 2024 | Daybreak (e-Mission) | Matt Leacock, Matteo Menapace |

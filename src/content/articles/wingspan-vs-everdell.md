@@ -7,7 +7,7 @@ games: [wingspan, everdell]
 tags: ["Wingspan vs Everdell", "best engine building board game", "Everdell or Wingspan", "Wingspan vs Everdell for couples", "medium weight board games", "beautiful board games for adults", "Comparisons"]
 draft: false
 ---
-[Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) vs Everdell is a comparison between two of the most popular medium-weight games of the last decade, and two of the best-looking. Both are engine builders: you spend the game assembling cards that make each later turn more productive than the last. Both have gorgeous art, a nature theme, and a reputation as the game that moved people from Catan into the deeper end of the hobby.
+[Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) vs [Everdell](https://www.amazon.com/dp/B09ZWQTTNR?tag=cubecommonw0a-20) is a comparison between two of the most popular medium-weight games of the last decade, and two of the best-looking. Both are engine builders: you spend the game assembling cards that make each later turn more productive than the last. Both have gorgeous art, a nature theme, and a reputation as the game that moved people from Catan into the deeper end of the hobby.
 
 They play differently. Wingspan is a card-tableau game with a dice tower and a gentle rhythm. Everdell is a worker-placement game with a cardboard tree and a sharper edge. Here is what that means at the table.
 
@@ -69,7 +69,7 @@ The practical difference: the Ever Tree needs a tall shelf and a wide table. Win
 
 ## Which one has a better expansion path?
 
-Both have deep lines. Wingspan has regional expansions (European, Oceania, Asia) that add birds and small rule tweaks, plus a Nesting Box to store it all. Everdell has several expansions (Pearlbrook, Spirecrest, Bellfaire, Newleaf, Mistwood) that add systems, which is more varied and more complex, and a Complete Collection that bundles everything.
+Both have deep lines. Wingspan has regional expansions (European, Oceania, Asia) that add birds and small rule tweaks, plus a Nesting Box to store it all. Everdell has several expansions ([Pearlbrook](https://www.amazon.com/dp/B09XX2PQ3B?tag=cubecommonw0a-20), [Spirecrest](https://www.amazon.com/dp/B09XWPH6FK?tag=cubecommonw0a-20), [Bellfaire](https://www.amazon.com/dp/B07YVMSCSV?tag=cubecommonw0a-20), [Newleaf](https://www.amazon.com/dp/B0BFZ3RPBQ?tag=cubecommonw0a-20), [Mistwood](https://www.amazon.com/dp/B096N452TR?tag=cubecommonw0a-20)) that add systems, which is more varied and more complex, and a Complete Collection that bundles everything.
 
 If you want more of the same, Wingspan's expansions are the easier buy. If you want the game to grow new limbs, Everdell's are more ambitious.
 

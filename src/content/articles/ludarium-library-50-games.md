@@ -73,7 +73,7 @@ Light strategy for a group ready to think for 30 to 60 minutes.
 | [King of Tokyo](https://link.amazon/B0goO6BQA) | 2 to 6 | 30 min | Yahtzee with monsters |
 | [Catan](https://link.amazon/B0h8BDGR2) | 3 to 4 | 60 to 90 min | Still the best trading teacher |
 | [Point Salad](https://www.amazon.com/dp/B07PGQKT5V?tag=cubecommonw0a-20) | 2 to 6 | 15 to 30 min | One decision, repeated, never dull |
-| Quacks of Quedlinburg | 2 to 4 | 45 min | Push-your-luck bag building |
+| [Quacks of Quedlinburg](https://www.amazon.com/dp/B08T21DYKV?tag=cubecommonw0a-20) | 2 to 4 | 45 min | Push-your-luck bag building |
 
 ### Shelf four: play together
 
@@ -108,7 +108,7 @@ Heavier games for a group that has an evening and wants to use it.
 | Game | Players | Time | Why it is here |
 |---|---|---|---|
 | [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) | 1 to 5 | 40 to 70 min | The bird engine everyone asks about |
-| Everdell | 1 to 4 | 40 to 80 min | Worker placement with a tree |
+| [Everdell](https://www.amazon.com/dp/B09ZWQTTNR?tag=cubecommonw0a-20) | 1 to 4 | 40 to 80 min | Worker placement with a tree |
 | [7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20) | 3 to 7 | 30 to 45 min | Drafting for a full table |
 | [Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20) | 1 to 5 | 2 to 3 hr | The heavy game people request by name |
 | [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) | 2 to 4 | 30 min | Where deck building started |
@@ -124,7 +124,7 @@ Heavier games for a group that has an evening and wants to use it.
 
 Some notable absences, with reasons.
 
-Gloomhaven and other campaign games. A campaign needs the same people at the same table week after week, and a public library cannot hold a box's state for one group. We may run campaigns as scheduled programs instead.
+[Gloomhaven](https://www.amazon.com/dp/B01LZXVN4P?tag=cubecommonw0a-20) and other campaign games. A campaign needs the same people at the same table week after week, and a public library cannot hold a box's state for one group. We may run campaigns as scheduled programs instead.
 
 Monopoly, Risk, and other long classics. A lounge library should offer what a living room does not.
 

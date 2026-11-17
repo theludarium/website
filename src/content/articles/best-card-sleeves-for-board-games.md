@@ -33,14 +33,14 @@ Card sizes below come from the Sleeve Kings card size chart, which lists the mea
 | Mini USA | 41 x 63 | A few small cards in Arkham Horror: The Card Game and Marvel Champions |
 | Mini Euro | 44 x 68 | Ticket to Ride, Gloomhaven: Jaws of the Lion, Codenames word cards, 7 Wonders Duel small cards |
 | Catan size | 54 x 80 | Catan (English editions since 2003, per the chart) |
-| Standard USA | 56 x 87 | Sushi Go!, Heat: Pedal to the Metal, Bohnanza, The Crew: The Quest for Planet Nine |
-| Chimera | 57.5 x 89 | Wingspan, Sushi Go Party!, Flip 7 |
-| Euro | 59 x 92 | Dominion (second edition), Concordia, The Mind |
-| Standard card game | 63.5 x 88 | Splendor, Terraforming Mars, Root, Ark Nova, Pandemic, Magic: The Gathering |
+| Standard USA | 56 x 87 | Sushi Go!, [Heat: Pedal to the Metal](https://www.amazon.com/dp/B0BGXPZG4B?tag=cubecommonw0a-20), Bohnanza, The Crew: The Quest for Planet Nine |
+| Chimera | 57.5 x 89 | [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), [Sushi Go Party!](https://www.amazon.com/dp/B01CETNKE2?tag=cubecommonw0a-20), Flip 7 |
+| Euro | 59 x 92 | [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) (second edition), [Concordia](https://www.amazon.com/dp/B00HFDSQP6?tag=cubecommonw0a-20), The Mind |
+| Standard card game | 63.5 x 88 | Splendor, Terraforming Mars, Root, [Ark Nova](https://www.amazon.com/dp/B09L6FCP9S?tag=cubecommonw0a-20), Pandemic, Magic: The Gathering |
 | 7 Wonders | 65 x 100 | 7 Wonders, 7 Wonders Duel wonder cards, Coup |
 | Small square | 70 x 70 | Power Grid, Codenames square cards |
 | Lost Cities | 70 x 110 | Lost Cities, Scythe's large cards |
-| Tarot | 70 x 120 | Cascadia, Harmonies |
+| Tarot | 70 x 120 | [Cascadia](https://link.amazon/B0g1HYFt4), [Harmonies](https://www.amazon.com/dp/B0CVNPHPZY?tag=cubecommonw0a-20) |
 
 A few games use several sizes in one box. Codenames uses three: small word cards, a few larger cards, and square key cards. Dune: Imperium has mini Euro, standard, and a few oversized cards. The Crew mixes mini Euro and standard USA. When a game needs more than one size, Mayday Games and Sleeve Kings both sell bundles sorted by game, which saves the math.
 

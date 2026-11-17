@@ -51,7 +51,7 @@ Two travelers on a tray table is the most common travel setup, and the best serv
 
 ### Hive Pocket
 
-Designed by John Yianni and published by Gen42 Games, Hive plays 2 in about 20 minutes. The [pocket edition](https://www.amazon.com/dp/B0079L0EKY?tag=cubecommonw0a-20) uses smaller versions of the original solid tiles, comes in a drawstring bag, and includes the Mosquito and Ladybug expansion pieces. Each tile is a bug that moves in its own way. Surround your opponent's queen bee to win.
+Designed by John Yianni and published by Gen42 Games, [Hive](https://www.amazon.com/dp/B000EN5ZLW?tag=cubecommonw0a-20) plays 2 in about 20 minutes. The [pocket edition](https://www.amazon.com/dp/B0079L0EKY?tag=cubecommonw0a-20) uses smaller versions of the original solid tiles, comes in a drawstring bag, and includes the Mosquito and Ladybug expansion pieces. Each tile is a bug that moves in its own way. Surround your opponent's queen bee to win.
 
 **Why it fits:** there is no board. The tiles are the board, so the game grows only as big as the pieces themselves, and it works on any flat surface, from a tray table to a picnic blanket. The pieces are heavy and nearly impossible to damage. Your opponent's queen is the only thing that gets hurt. If you are new to it, the rulebook suggests learning without the two expansion bugs first.
 

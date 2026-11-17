@@ -37,7 +37,7 @@ None of these will produce an argument. That is the point.
 
 Some couples want a real fight. Those pairs should look for games with direct interaction and visible skill, so the better player on the night actually wins and both people know why.
 
-- **7 Wonders Duel** is the two-player cousin of 7 Wonders. You draft cards from a pyramid layout, where taking one card reveals others. There are three ways to win, including two sudden-death conditions, so the game stays tense to the end.
+- **[7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20) Duel** is the two-player cousin of 7 Wonders. You draft cards from a pyramid layout, where taking one card reveals others. There are three ways to win, including two sudden-death conditions, so the game stays tense to the end.
 - **Hive** is an abstract game with no board. Bakelite tiles with insects on them form the playing surface as you place them. The goal is to surround the opposing queen bee. It plays like chess compressed into fifteen minutes.
 - **Star Realms** is a cheap, fast deck builder where you attack each other directly. Each game takes about twenty minutes, and the small box fits in a coat pocket.
 

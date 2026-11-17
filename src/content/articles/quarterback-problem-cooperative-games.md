@@ -58,7 +58,7 @@ If there is no time to deliberate, there is no time to be told what to do.
 
 Give players a reason not to follow orders.
 
-**Dead of Winter** gives each player a secret personal objective they must complete alongside the group goal, and there may be a traitor at the table. Suddenly a player who says "give me all your medicine" is a player worth watching. The traitor mechanic borrows directly from social deduction, and the reasons it works are the same ones we cover in [Why Social Deduction Games Work](/articles/why-social-deduction-games-work/).
+**[Dead of Winter](https://www.amazon.com/dp/B00HFKITJC?tag=cubecommonw0a-20)** gives each player a secret personal objective they must complete alongside the group goal, and there may be a traitor at the table. Suddenly a player who says "give me all your medicine" is a player worth watching. The traitor mechanic borrows directly from social deduction, and the reasons it works are the same ones we cover in [Why Social Deduction Games Work](/articles/why-social-deduction-games-work/).
 
 ### Asymmetric roles with private decision space
 

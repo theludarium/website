@@ -7,7 +7,7 @@ games: [gloomhaven, frosthaven, gloomhaven-jaws-of-the-lion]
 tags: ["Gloomhaven vs Frosthaven", "Jaws of the Lion vs Gloomhaven", "which Gloomhaven to buy first", "Frosthaven for beginners", "Gloomhaven second edition", "best campaign board game", "Comparisons"]
 draft: false
 ---
-Gloomhaven vs Frosthaven is a comparison between two of the biggest boxes in the hobby, and anyone asking it should add a third name: Jaws of the Lion. All three are Isaac Childres' tactical campaign games, published by Cephalofair, with the same core system of card-driven combat and a story that unfolds over dozens of sessions. They differ in size, price, difficulty, and how kindly they treat a new player.
+[Gloomhaven](https://www.amazon.com/dp/B01LZXVN4P?tag=cubecommonw0a-20) vs Frosthaven is a comparison between two of the biggest boxes in the hobby, and anyone asking it should add a third name: [Jaws of the Lion](https://www.amazon.com/dp/B088QSDB7S?tag=cubecommonw0a-20). All three are Isaac Childres' tactical campaign games, published by Cephalofair, with the same core system of card-driven combat and a story that unfolds over dozens of sessions. They differ in size, price, difficulty, and how kindly they treat a new player.
 
 The short answer is that almost everyone should start with Jaws of the Lion. The rest of this article explains why, when the bigger boxes are the right call, and what you are committing to with each.
 

@@ -38,7 +38,7 @@ The game has to fit the younger player, and it has to be one the older player ca
 
 Two notes on the ladder.
 
-Cribbage deserves special mention. It teaches arithmetic to a nine-year-old without anyone calling it math, it stays interesting for a lifetime, and the board itself becomes an heirloom. Many families have one that has crossed three generations.
+[Cribbage](https://www.amazon.com/dp/B000I5NW66?tag=cubecommonw0a-20) deserves special mention. It teaches arithmetic to a nine-year-old without anyone calling it math, it stays interesting for a lifetime, and the board itself becomes an heirloom. Many families have one that has crossed three generations.
 
 Euchre, in the Midwest, is the game that teenagers suddenly want to learn around sixteen, because it is what the adults play after dinner. A grandparent who teaches it has given the teen a seat at the adult table. That is a gift they understand.
 

@@ -49,7 +49,7 @@ A little more on each.
 
 **Mage Knight** is the game most often named as the best solo board game. You control a hero exploring a map, building a deck, and attacking cities. It is complex, long, and demanding. It is also exactly the kind of game that is hard to get to a table with other people, which is why it shines alone.
 
-**Gloomhaven: Jaws of the Lion** is the accessible entry to the Gloomhaven campaign system. Solo play means controlling two characters, which some people love and some find tiring. The scenarios teach the game as you go. We compared the Gloomhaven boxes in [is Gloomhaven worth it](/articles/is-gloomhaven-worth-it/).
+**[Gloomhaven](https://www.amazon.com/dp/B01LZXVN4P?tag=cubecommonw0a-20): Jaws of the Lion** is the accessible entry to the Gloomhaven campaign system. Solo play means controlling two characters, which some people love and some find tiring. The scenarios teach the game as you go. We compared the Gloomhaven boxes in [is Gloomhaven worth it](/articles/is-gloomhaven-worth-it/).
 
 **Sleeping Gods** is a storybook exploration game where you sail a ship through an open world, making choices that persist across sessions. It is built for one or two players and is one of the few campaign games that does not punish you for playing alone.
 
@@ -59,7 +59,7 @@ This distinction matters for buying. A game with a bolted-on solo mode (often an
 
 - **Built for solo:** Friday, Onirim, Mage Knight, Sleeping Gods, [Under Falling Skies](https://www.amazon.com/dp/B08HGS1QYT?tag=cubecommonw0a-20), [Coffee Roaster](https://www.amazon.com/dp/B07TNVYHWS?tag=cubecommonw0a-20).
 - **Excellent solo modes on multiplayer games:** Wingspan, Cascadia, Spirit Island, [Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20), [Ark Nova](https://www.amazon.com/dp/B09L6FCP9S?tag=cubecommonw0a-20), [Scythe](https://www.amazon.com/dp/B01IPUGYK6?tag=cubecommonw0a-20).
-- **Solo-friendly co-ops:** Any cooperative game can be played solo by controlling all players. Pandemic, [The Crew](https://link.amazon/B099S9RKf) (with the dummy hand rules), and Spirit Island all work this way.
+- **Solo-friendly co-ops:** Any cooperative game can be played solo by controlling all players. [Pandemic](https://link.amazon/B0eHP5GCg), [The Crew](https://link.amazon/B099S9RKf) (with the dummy hand rules), and Spirit Island all work this way.
 
 If you plan to mostly play alone, favor the first list. If you want a game that works for a solo Tuesday and a four-player Saturday, the second list is where the value is.
 

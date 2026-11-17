@@ -15,7 +15,7 @@ Every venue was checked against its own site or a current listing in October 202
 Not the same things that make it good for a Friday-night group of adults.
 
 - **Daytime hours.** Most game venues are built for evenings. Families need 11 a.m. to 5 p.m.
-- **A library with games for ages six and up.** Not just Catan and Wingspan; Outfoxed, [Dragomino](https://link.amazon/B09WKyU19), Sushi Go, and [Kingdomino](https://link.amazon/B08l49zvA).
+- **A library with games for ages six and up.** Not just Catan and Wingspan; Outfoxed, [Dragomino](https://link.amazon/B09WKyU19), [Sushi Go](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), and [Kingdomino](https://link.amazon/B08l49zvA).
 - **Food that a child will eat.** A cafe with a kitchen beats a bar with pretzels.
 - **Staff who teach.** A parent cannot read a rulebook and manage two kids at once. Someone pulling three options and explaining one is the whole service.
 - **Noise tolerance.** Children are loud. A room where that is fine matters more than any amenity.

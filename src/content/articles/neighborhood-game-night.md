@@ -67,7 +67,7 @@ The first night has one goal: that people leave wanting a second one. Everything
 
 1. **Start on time with whoever is there.** If three people show at seven, start Wavelength with three. Latecomers join a game already laughing, which is far better than walking into a quiet room of people waiting.
 2. **Name tags.** Yes, really. First names and house numbers or street. Nobody remembers names on the first night, and name tags remove the embarrassment of asking.
-3. **Two tables, if space allows.** One loud (Codenames, Telestrations), one quieter (Azul, Sushi Go). People sort themselves.
+3. **Two tables, if space allows.** One loud (Codenames, Telestrations), one quieter (Azul, [Sushi Go](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20)). People sort themselves.
 4. **Teach fast and badly.** Explain the goal, play one example round, start. Correct mistakes as they happen. A perfect teach is slower than a good enough one. See [how to teach a board game](/articles/how-to-teach-a-board-game/).
 5. **Food is optional, drinks are not.** A pitcher of water and a few sodas. If someone brings cookies, great. Do not cook.
 6. **End on time.** Say "we'll wrap at nine" and mean it. People with kids and early mornings will appreciate it, and ending while people still want more is how you get them back.

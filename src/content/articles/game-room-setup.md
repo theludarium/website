@@ -41,7 +41,7 @@ Here is what different tables handle.
 | Small square (36 in) | 2 to 3 | 4 | [Azul](https://link.amazon/B0bGRYHex), The Crew, [Splendor](https://link.amazon/B0fEvY6Wg) |
 | Standard dining (36 x 60) | 4 | 6 | [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), [7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20), [Ticket to Ride](https://link.amazon/B0jh8RB7f) |
 | Large dining (42 x 72) | 6 | 8 | [Catan](https://link.amazon/B0h8BDGR2) with expansion, Wingspan at 5 |
-| Round (48 in) | 4 | 5 | [Pandemic](https://link.amazon/B0eHP5GCg), Wavelength, [Carcassonne](https://link.amazon/B012Rr5ed) |
+| Round (48 in) | 4 | 5 | [Pandemic](https://link.amazon/B0eHP5GCg), [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20), [Carcassonne](https://link.amazon/B012Rr5ed) |
 | Round (60 in) | 6 | 7 | Most anything; everyone can reach center |
 
 Round tables are underrated. Everyone is equidistant from the center and from each other, nobody is at a "head," and conversation flows more evenly. The drawback is that square boards waste the edges.

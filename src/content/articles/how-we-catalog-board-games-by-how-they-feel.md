@@ -46,7 +46,7 @@ So [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) is **52
 | 600 | Head-to-Head | 610 Dice brawls · 620 Asymmetric conflict · 630 Area control · 650 Racing | [Root](https://www.amazon.com/dp/B07F454YF3?tag=cubecommonw0a-20) |
 | 700 | Trade & Negotiation | 710 Trading · 720 Negotiation & bribes · 730 Auctions | [Catan](https://link.amazon/B0h8BDGR2) |
 | 800 | Abstract & Puzzle | 810 Tile & pattern · 820 Spatial puzzles · 830 Classic abstracts | [Azul](https://link.amazon/B0bGRYHex) |
-| 900 | Story & Campaign | 910 Dungeon campaigns · 920 Mystery & narrative · 930 Living card campaigns | Sherlock Holmes Consulting Detective |
+| 900 | Story & Campaign | 910 Dungeon campaigns · 920 Mystery & narrative · 930 Living card campaigns | [Sherlock Holmes Consulting Detective](https://www.amazon.com/dp/2370990074?tag=cubecommonw0a-20) |
 
 A game goes on one shelf only, chosen by its main activity. Ticket to Ride has a map, but most of your turns are collecting sets of cards, so it lives at 420.
 
@@ -63,12 +63,12 @@ The shelf tells you what you'll do. The six dimensions tell you how it will feel
 | Tempo | How much brain does a turn take? | Light | Thoughtful | Intense |
 | Table Talk | How much talking and laughing does it create? | Quiet | Chatty | Raucous |
 
-**Why Table Talk matters most to us.** Two games can match on every other dimension and still create completely different evenings. Hanabi and Codenames are both easy to learn and both built on giving clues. One is played in near silence. The other has the whole table shouting. If your goal is togethering, how much a game gets people talking is the single most useful thing to know.
+**Why Table Talk matters most to us.** Two games can match on every other dimension and still create completely different evenings. [Hanabi](https://www.amazon.com/dp/B01MXTGT21?tag=cubecommonw0a-20) and Codenames are both easy to learn and both built on giving clues. One is played in near silence. The other has the whole table shouting. If your goal is togethering, how much a game gets people talking is the single most useful thing to know.
 
 A few notes on reading the levels:
 
 - **Interaction counts cooperation.** In a co-op game every decision changes your teammates' plans, so Pandemic rates Direct.
-- **Quiet isn't bad.** Sky Team is nearly silent by design, and that tension is the fun. Quiet games make great date nights.
+- **Quiet isn't bad.** [Sky Team](https://www.amazon.com/dp/B0CHD8RCSJ?tag=cubecommonw0a-20) is nearly silent by design, and that tension is the fun. Quiet games make great date nights.
 - **Levels describe the game, not quality.** A Heavy, Intense, Immersive game isn't better than a Light one. It's different, and right for a different night.
 
 ## Six ways we improved the system
@@ -103,7 +103,7 @@ Here's how each signal counts toward your profile:
 | Log a play and say probably not | −0.5 |
 | Mark it "Not for me" | Veto: never recommended |
 
-Each weight is added to the levels that game holds on all six dimensions. If you love Codenames, Wavelength and Just One, your profile lights up Chatty-to-Raucous on Table Talk and Intuitive on Learning. Picks then favor unplayed games that sit on those same levels. A game that misses your favorite level counts against itself, and Table Talk carries 1.5 times the weight of the other five dimensions, because it's the one most tied to whether people connect.
+Each weight is added to the levels that game holds on all six dimensions. If you love Codenames, [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) and Just One, your profile lights up Chatty-to-Raucous on Table Talk and Intuitive on Learning. Picks then favor unplayed games that sit on those same levels. A game that misses your favorite level counts against itself, and Table Talk carries 1.5 times the weight of the other five dimensions, because it's the one most tied to whether people connect.
 
 **Picking for a group.** When several people play together, each person's fit is scored separately and then combined with a geometric mean instead of an average. That way one unhappy player pulls a game down hard. Tabletop Library's example makes the case: three players at 0.9 and one at 0.2 average to 0.73, which looks fine. The geometric mean is about 0.62, which matches the fourth player's face.
 

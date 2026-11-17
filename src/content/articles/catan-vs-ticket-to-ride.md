@@ -121,7 +121,7 @@ Ticket to Ride, usually 30 to 60 minutes against Catan's 60 to 90. Catan can run
 
 ### Which has better expansions?
 
-Both have deep expansion lines. Catan's add players and new systems (Seafarers, Cities & Knights). Ticket to Ride's are mostly new maps, which refresh the base game more directly.
+Both have deep expansion lines. Catan's add players and new systems (Seafarers, [Cities & Knights](https://www.amazon.com/dp/B0DY87W8SS?tag=cubecommonw0a-20)). Ticket to Ride's are mostly new maps, which refresh the base game more directly.
 
 ## Get one game recommendation a week
 

@@ -50,7 +50,7 @@ Ages and player counts are the publishers' (game names link to the publisher's p
 | [Dragomino](https://www.blueorangegames.com/games/dragomino) | 5+ | 2 to 4 | 15 min | Kingdomino's younger sibling. Match terrain, hatch dragon eggs. |
 | [Codenames: Pictures](https://www.amazon.com/dp/B01HT9DERU?tag=cubecommonw0a-20) | 10+ | 4 to 8+ | 15 to 20 min | Team word-and-picture association. Works with big families. |
 | [Dixit](https://www.amazon.com/dp/2914849656?tag=cubecommonw0a-20) | 8+ | 3 to 8 | 30 min | Give a clue for a dreamlike picture card. Rewards imagination over strategy. |
-| [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20) | 10+ | 2 to 4 | 30 min | Cooperative treasure hunt on a sinking island. Pandemic's gentler cousin. |
+| [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20) | 10+ | 2 to 4 | 30 min | Cooperative treasure hunt on a sinking island. [Pandemic](https://link.amazon/B0eHP5GCg)'s gentler cousin. |
 | [Sleeping Queens](https://www.amazon.com/dp/B0009XBY3A?tag=cubecommonw0a-20) | 8+ | 2 to 5 | 20 min | A card game designed by a six-year-old. Wake queens, play knights, do a little addition. |
 
 *If this is useful, the newsletter sends more like it.*

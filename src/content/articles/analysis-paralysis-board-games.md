@@ -66,7 +66,7 @@ Game choice is the quiet fix. Some designs produce paralysis in almost anyone; o
 
 Games with low paralysis risk:
 
-- **Simultaneous action.** [7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20), Sushi Go, [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20). Everyone decides at once, so one person's thinking time does not become everyone's waiting time.
+- **Simultaneous action.** [7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20), [Sushi Go](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20). Everyone decides at once, so one person's thinking time does not become everyone's waiting time.
 - **Few options per turn.** [Azul](https://link.amazon/B0bGRYHex) (take one color from one display), [Splendor](https://link.amazon/B0fEvY6Wg) (take gems or buy a card), [Ticket to Ride](https://link.amazon/B0jh8RB7f) (three actions, pick one). Limited choices mean limited stalling.
 - **Hidden-information co-ops.** [The Crew](https://link.amazon/B099S9RKf). You cannot calculate the perfect play because you do not know the other hands. You just play.
 - **Real-time or timed.** [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) with a sand timer, [Magic Maze](https://www.amazon.com/dp/B08W9BV633?tag=cubecommonw0a-20), any game with a built-in clock.

@@ -78,7 +78,7 @@ Big Potato also sells a Christmas Expansion with 100 festive questions that shuf
 
 ### Flip 7: Grinch Edition
 
-Flip 7 is a push-your-luck card game. Flip cards one at a time and add them up, but flip a number you already have and you bust for the round. The Op sells a Grinch Edition that plays 3 or more, ages 8 and up, in about twenty minutes, with a list price of about $8. The Op sells through retailers, and holiday editions sell out, so check your local game store early. Our free [Flip 7 course](/academy/flip-7/) has a five-minute teach.
+[Flip 7](https://www.amazon.com/dp/B0DWGVM7RY?tag=cubecommonw0a-20) is a push-your-luck card game. Flip cards one at a time and add them up, but flip a number you already have and you bust for the round. The Op sells a Grinch Edition that plays 3 or more, ages 8 and up, in about twenty minutes, with a list price of about $8. The Op sells through retailers, and holiday editions sell out, so check your local game store early. Our free [Flip 7 course](/academy/flip-7/) has a five-minute teach.
 
 ## Which game fits your group size?
 

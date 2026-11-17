@@ -19,7 +19,7 @@ The pattern goes back to Mafia, a parlor game created in the 1980s by Dimitry Da
 A few shapes the genre takes:
 
 - **Elimination games.** Werewolf and Mafia. Players are voted out one by one, and the dead usually sit quietly until the round ends.
-- **Mission games.** The Resistance and Avalon. Nobody is eliminated. Teams go on missions, and the hidden traitors can secretly sabotage them.
+- **Mission games.** [The Resistance](https://www.amazon.com/dp/B01J16HNKS?tag=cubecommonw0a-20) and Avalon. Nobody is eliminated. Teams go on missions, and the hidden traitors can secretly sabotage them.
 - **One-round games.** One Night Ultimate Werewolf. The whole thing happens in a single night phase and a single vote, so a bad game costs you five minutes.
 - **Bluffing games.** [Coup](https://www.amazon.com/dp/B00GDI4HX4?tag=cubecommonw0a-20). Your role is hidden, but you can claim to be any role you like, and other players have to decide whether to call you on it.
 

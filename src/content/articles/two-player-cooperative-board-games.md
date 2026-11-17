@@ -83,8 +83,8 @@ An escape-room-in-a-box series. One hour, one play, and entirely cooperative. No
 | [Spirit Island](https://www.amazon.com/dp/B01MUHP51S?tag=cubecommonw0a-20) | 90+ min | Heavy | Open | Strategy couples |
 | Burgle Bros | 60 min | Medium | Open | Planners |
 | [Horrified](https://www.amazon.com/dp/B07QQHTD4Q?tag=cubecommonw0a-20) | 45 min | Light-medium | Open | Theme lovers |
-| Pandemic Legacy | 45 min x 12 to 24 | Medium | Open | A shared project |
-| Jaws of the Lion | 90 min x 25 | Medium-heavy | Open | Tactical campaigns |
+| [Pandemic Legacy](https://www.amazon.com/dp/B00TQ5SEAI?tag=cubecommonw0a-20) | 45 min x 12 to 24 | Medium | Open | A shared project |
+| [Jaws of the Lion](https://www.amazon.com/dp/B088QSDB7S?tag=cubecommonw0a-20) | 90 min x 25 | Medium-heavy | Open | Tactical campaigns |
 | [Exit: The Game](https://www.amazon.com/dp/B06WP2G52Z?tag=cubecommonw0a-20) | 60 min | Light-medium | Open | Puzzle nights |
 
 Times are approximate, taken from the boxes and our own tables, and vary by edition and experience.

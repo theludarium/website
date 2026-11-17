@@ -23,7 +23,7 @@ The Catan 5 to 6 player extension is the classic example. It adds nothing to the
 
 ### More content
 
-More cards, more tiles, more scenarios, more of the same. Dominion expansions add new kingdom cards; [Ticket to Ride](https://link.amazon/B0jh8RB7f) maps add new boards; [Carcassonne](https://link.amazon/B012Rr5ed) adds new tiles. The game plays the same way with more variety. This type is the most common and the most likely to sit unplayed, because the base game already had enough variety for most groups.
+More cards, more tiles, more scenarios, more of the same. [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) expansions add new kingdom cards; [Ticket to Ride](https://link.amazon/B0jh8RB7f) maps add new boards; [Carcassonne](https://link.amazon/B012Rr5ed) adds new tiles. The game plays the same way with more variety. This type is the most common and the most likely to sit unplayed, because the base game already had enough variety for most groups.
 
 ### New mechanics
 

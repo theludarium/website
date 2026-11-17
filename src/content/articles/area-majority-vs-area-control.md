@@ -49,7 +49,7 @@ The cleanest test is one question: can two players have pieces in the same regio
 - If no, it is area control.
 - If yes, it is area majority.
 
-Many games blur it. Blood Rage has combat (control) but scores provinces by presence (majority). Root is mostly control but scores some things by presence. Scythe has territories that one player holds (control) but almost no combat (so it plays like a positional game). The labels describe tendencies, not boxes.
+Many games blur it. Blood Rage has combat (control) but scores provinces by presence (majority). Root is mostly control but scores some things by presence. [Scythe](https://www.amazon.com/dp/B01IPUGYK6?tag=cubecommonw0a-20) has territories that one player holds (control) but almost no combat (so it plays like a positional game). The labels describe tendencies, not boxes.
 
 Here is how the two compare in play.
 

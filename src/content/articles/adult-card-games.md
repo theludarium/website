@@ -73,7 +73,7 @@ You hold your hand facing out, so everyone sees your cards but you. Teammates sp
 
 ### Sushi Go Party!
 
-The bigger-box version of Sushi Go!, playing up to eight. Pass cards, collect sets, and change the menu each game so it stays fresh. It is the gentlest game on this list and still has real decisions.
+The bigger-box version of [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), playing up to eight. Pass cards, collect sets, and change the menu each game so it stays fresh. It is the gentlest game on this list and still has real decisions.
 
 ### Cockroach Poker
 
@@ -101,7 +101,7 @@ If someone insists on CAH, play one round, then switch. One round is where it pe
 
 ## What about classic card games?
 
-A standard deck still holds up. Euchre, Hearts, Spades, Oh Hell, and Cribbage are all adult card games by any definition, and they cost nothing. The downside is that they need a table that already knows them, and teaching Bridge to a new player is an evening in itself.
+A standard deck still holds up. Euchre, Hearts, Spades, Oh Hell, and [Cribbage](https://www.amazon.com/dp/B000I5NW66?tag=cubecommonw0a-20) are all adult card games by any definition, and they cost nothing. The downside is that they need a table that already knows them, and teaching Bridge to a new player is an evening in itself.
 
 The games above take the ideas from the classics, trick-taking, bluffing, set collection, and package them so a new player can join in five minutes. That is the real innovation of the last twenty years of card design. Not new ideas. Faster doors.
 

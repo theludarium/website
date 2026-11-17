@@ -29,7 +29,7 @@ A good opener is:
 - **Forgiving.** New players should not be able to lose badly. Low stakes, high interaction.
 - **Social.** Something that prompts talking, not silent calculation.
 
-[Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20), Sushi Go, [Azul](https://link.amazon/B0bGRYHex), and [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) are classic openers. Each one gets the table laughing or leaning in before anyone has finished their first drink. For a smaller or quieter group, The Crew works beautifully: cooperative, quick, and it teaches people to communicate without words.
+[Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20), [Sushi Go](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), [Azul](https://link.amazon/B0bGRYHex), and [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) are classic openers. Each one gets the table laughing or leaning in before anyone has finished their first drink. For a smaller or quieter group, The Crew works beautifully: cooperative, quick, and it teaches people to communicate without words.
 
 The opener also tells you something. If the table is chatty and fast, you can go heavier for the main event. If it is slow and careful, pick a lighter main course. The opener is a diagnostic.
 
@@ -76,7 +76,7 @@ The closer is also your safety valve. If the main event runs long, you cut the c
 
 Then play the main event and skip the rest. A single 60-minute game with a warm welcome and a clean ending is a complete game night. Do not try to compress three games into 90 minutes. You will rush the teach, rush the play, and rush the goodbye.
 
-For a short night, lean toward the lighter end of main events: Azul, [Splendor](https://link.amazon/B0fEvY6Wg), Sushi Go Party, or The Crew. These scratch the itch without demanding the clock.
+For a short night, lean toward the lighter end of main events: Azul, [Splendor](https://link.amazon/B0fEvY6Wg), [Sushi Go Party](https://www.amazon.com/dp/B01CETNKE2?tag=cubecommonw0a-20), or The Crew. These scratch the itch without demanding the clock.
 
 ## How do you handle a group that wants to keep playing?
 

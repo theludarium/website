@@ -7,7 +7,7 @@ games: [gloomhaven]
 tags: ["is Gloomhaven worth it", "Gloomhaven review", "Gloomhaven vs Jaws of the Lion", "Gloomhaven time commitment", "Gloomhaven for beginners", "Frosthaven", "Cooperative and campaign games"]
 draft: false
 ---
-Is Gloomhaven worth it? For most busy adults, the answer is: the smaller version is, and the big one usually is not. Gloomhaven is a brilliant game that asks for a hundred-plus hours and a group that shows up every time. Jaws of the Lion gives you most of the experience in a quarter of the box and a fraction of the commitment.
+Is Gloomhaven worth it? For most busy adults, the answer is: the smaller version is, and the big one usually is not. Gloomhaven is a brilliant game that asks for a hundred-plus hours and a group that shows up every time. [Jaws of the Lion](https://www.amazon.com/dp/B088QSDB7S?tag=cubecommonw0a-20) gives you most of the experience in a quarter of the box and a fraction of the commitment.
 
 That is the short answer. The rest of this article explains how Gloomhaven works, what it costs in time and money, who it fits, and how to decide without buying a twenty-pound box first.
 
