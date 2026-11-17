@@ -51,13 +51,13 @@ These six are rated 6 or 7 and up. They give a seven-year-old real choices witho
 
 ### Ticket to Ride: First Journey
 
-[Ticket to Ride: First Journey](https://www.amazon.com/dp/B01MQ4IKQJ?tag=cubecommonw0a-20) is the kids' version of Alan R. Moon's Ticket to Ride from Days of Wonder. It plays 2 to 4, rated 6 and up, in 15 to 30 minutes. Collect colored train cards, spend them to claim short routes between cities, and complete your tickets. The first player to finish six tickets wins.
+[Ticket to Ride: First Journey](https://www.amazon.com/dp/B01MQ4IKQJ?tag=cubecommonw0a-20) is the kids' version of Alan R. Moon's [Ticket to Ride](https://link.amazon/B0jh8RB7f) from Days of Wonder. It plays 2 to 4, rated 6 and up, in 15 to 30 minutes. Collect colored train cards, spend them to claim short routes between cities, and complete your tickets. The first player to finish six tickets wins.
 
 **Why it fits:** it keeps the heart of Ticket to Ride, collecting cards and claiming routes, and drops the scoring math. A seven-year-old makes real decisions every turn, like whether to grab a route now or wait for one more card. It is also the cleanest path to the full game. When your child starts winning easily, move up to Ticket to Ride with our [Coast to Coast course](/academy/ticket-to-ride/).
 
 ### Catan Junior
 
-[Catan Junior](https://www.amazon.com/dp/B007N0KZ64?tag=cubecommonw0a-20) was designed by Klaus Teuber as the family version of Catan. It plays 2 to 4, rated 6 and up, in 30 to 40 minutes. Players are pirates building lairs on islands and ships to reach new ones. Islands produce resources like wood, wool, and molasses when the die rolls their number. The Ghost Captain blocks an island, but unlike Catan's robber, it never steals.
+[Catan Junior](https://www.amazon.com/dp/B007N0KZ64?tag=cubecommonw0a-20) was designed by Klaus Teuber as the family version of [Catan](https://link.amazon/B0h8BDGR2). It plays 2 to 4, rated 6 and up, in 30 to 40 minutes. Players are pirates building lairs on islands and ships to reach new ones. Islands produce resources like wood, wool, and molasses when the die rolls their number. The Ghost Captain blocks an island, but unlike Catan's robber, it never steals.
 
 **Why it fits:** it teaches trading, which is a wonderful skill for kids. "I'll give you wool for a cutlass" is real negotiation. Resources sit face up in front of each player instead of hiding in hands, so kids can see what everyone has. It is the step before the full game; when your child is ready, our [games like Catan](/articles/games-like-catan/) guide and the free [Catan course](/academy/catan/) are waiting.
 
@@ -160,7 +160,7 @@ Not on purpose. Kids this age can usually tell, and they want to win for real. P
 
 ### What should come before and after these games?
 
-Before, see our guides to the [best board games for 4-year-olds](/articles/best-board-games-for-4-year-olds/) and [board games for 5-year-olds](/articles/board-games-for-5-year-olds/). After, the [best board games for 10-year-olds](/articles/best-board-games-for-10-year-olds/) picks up with games like Catan and Wingspan. For gift shopping across ages, see our [board game gifts for kids by age](/articles/best-board-game-gifts-for-kids-by-age/).
+Before, see our guides to the [best board games for 4-year-olds](/articles/best-board-games-for-4-year-olds/) and [board games for 5-year-olds](/articles/board-games-for-5-year-olds/). After, the [best board games for 10-year-olds](/articles/best-board-games-for-10-year-olds/) picks up with games like Catan and [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20). For gift shopping across ages, see our [board game gifts for kids by age](/articles/best-board-game-gifts-for-kids-by-age/).
 
 ## The age of the real game
 

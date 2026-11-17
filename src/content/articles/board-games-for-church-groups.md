@@ -52,7 +52,7 @@ A whole-congregation game night is a different kind of event. The room is big, t
 
 **One big game.** Wavelength and Codenames can both be run for a whole room by projecting or by using a large board. Split the room into two teams and let the chaos happen. It is loud and it works.
 
-**Tournament of a simple game.** A bracket of a quick game like Qwirkle or Sushi Go gives the evening a shape and a finish. Keep the prize small and the trash talk kind.
+**Tournament of a simple game.** A bracket of a quick game like Qwirkle or [Sushi Go](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) gives the evening a shape and a finish. Keep the prize small and the trash talk kind.
 
 | Group size | Best format | Games to own |
 |---|---|---|

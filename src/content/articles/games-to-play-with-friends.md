@@ -46,7 +46,7 @@ If your group has opinions, let them vote. Our free [Game Night Madness](/game-n
 | [Hanabi](https://www.amazon.com/dp/B01MXTGT21?tag=cubecommonw0a-20) | 2 to 5 | 25 min | Cooperative |
 | [Sky Team](https://www.amazon.com/dp/B0CHD8RCSJ?tag=cubecommonw0a-20) | 2 | 15 to 20 min | Cooperative |
 | [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) | 1 to 5 | 40 to 70 min | Strategy |
-| 7 Wonders | 3 to 7 | 30 min | Strategy |
+| [7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20) | 3 to 7 | 30 min | Strategy |
 | [Splendor](https://link.amazon/B0fEvY6Wg) | 2 to 4 | 30 min | Strategy |
 | Sushi Go! | 2 to 5 | 15 min | Quick filler |
 | [Love Letter](https://www.amazon.com/dp/B07PHHBWM9?tag=cubecommonw0a-20) | 2 to 6 | 20 min | Quick filler |

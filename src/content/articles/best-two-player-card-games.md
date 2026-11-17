@@ -12,7 +12,7 @@ The best two-player card games fit in a coat pocket and still give you a real du
 
 **The quick answer:** if you buy one, buy **Jaipur**. It teaches in five minutes, plays in about half an hour, and is still fun after a hundred games. If you want something sharper and shorter, **Air, Land & Sea** fits a whole battle into about 20 minutes.
 
-This list is card games only: no boards to unfold, no miniatures, nothing bigger than a hand of cards and a few tokens. If you want two-player board games too, our guide to [two-player board games for date night](/articles/two-player-board-games-date-night/) covers Patchwork, Hive, and more. If you want to be on the same side, see our list of [two-player cooperative games](/articles/two-player-cooperative-board-games/).
+This list is card games only: no boards to unfold, no miniatures, nothing bigger than a hand of cards and a few tokens. If you want two-player board games too, our guide to [two-player board games for date night](/articles/two-player-board-games-date-night/) covers [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20), [Hive](https://www.amazon.com/dp/B000EN5ZLW?tag=cubecommonw0a-20), and more. If you want to be on the same side, see our list of [two-player cooperative games](/articles/two-player-cooperative-board-games/).
 
 ## What makes a great two-player card game?
 
@@ -76,7 +76,7 @@ If your history together includes spades, rummy, or euchre at the kitchen table,
 
 Designed by Joshua Buergel and published in 2017 by Foxtrot Games and Renegade Game Studios, The Fox in the Forest plays 2 in about 30 minutes. It is a trick-taking game, like hearts or spades, built for two. The odd-numbered cards have fairy-tale powers: a 3 lets you change the trump card, and a 5 lets you draw a card and then discard one.
 
-**Why it fits:** the twist is in the scoring. Win too many tricks and you score nothing, so sometimes the smart play is to lose on purpose. [The Fox in the Forest](https://www.amazon.com/dp/B06XP7ZDH1?tag=cubecommonw0a-20) is a gentle way to bring a classic card game habit into modern games. If you like it, The Fox in the Forest Duet is the cooperative version, covered in our [two-player co-op guide](/articles/two-player-cooperative-board-games/).
+**Why it fits:** the twist is in the scoring. Win too many tricks and you score nothing, so sometimes the smart play is to lose on purpose. [The Fox in the Forest](https://www.amazon.com/dp/B06XP7ZDH1?tag=cubecommonw0a-20) is a gentle way to bring a classic card game habit into modern games. If you like it, [The Fox in the Forest Duet](https://www.amazon.com/dp/B07TSY8L2K?tag=cubecommonw0a-20) is the cooperative version, covered in our [two-player co-op guide](/articles/two-player-cooperative-board-games/).
 
 ### Arboretum
 
@@ -92,7 +92,7 @@ These three are more direct. You attack, defend, and build an engine, all in und
 
 Designed by Rob Dougherty and Darwin Kastle and published in 2014, Star Realms plays 2 in about 20 minutes. Each player starts with a small deck and 50 points of authority. You buy ships and bases from a shared trade row, build a stronger deck, and use it to attack the other player until one of you hits zero.
 
-**Why it fits:** [Star Realms](https://www.amazon.com/dp/B00HRGMPIU?tag=cubecommonw0a-20) is the quickest way to learn deck-building, the idea behind games like Dominion. It plays fast and fits in a tiny box. Our explainer on [deck-building games](/articles/deck-building-games-explained/) covers how the system works and where to go next.
+**Why it fits:** [Star Realms](https://www.amazon.com/dp/B00HRGMPIU?tag=cubecommonw0a-20) is the quickest way to learn deck-building, the idea behind games like [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20). It plays fast and fits in a tiny box. Our explainer on [deck-building games](/articles/deck-building-games-explained/) covers how the system works and where to go next.
 
 ### Radlands
 

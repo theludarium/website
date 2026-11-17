@@ -171,7 +171,7 @@ Monopoly Deal ends when someone collects three property sets, so nobody is knock
 
 ### What should we play after Monopoly?
 
-Catan or Ticket to Ride are the usual next steps. Our list of [gateway board games](/articles/gateway-board-games/) has more first picks, and our [family game night ideas](/articles/family-game-night-ideas/) help you build an evening around them.
+Catan or [Ticket to Ride](https://link.amazon/B0jh8RB7f) are the usual next steps. Our list of [gateway board games](/articles/gateway-board-games/) has more first picks, and our [family game night ideas](/articles/family-game-night-ideas/) help you build an evening around them.
 
 ## Keep the money, lose the marathon
 

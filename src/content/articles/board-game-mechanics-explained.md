@@ -30,7 +30,7 @@ Here they are, from the most common on modern shelves to some favorites of the h
 
 **Good first game:** [Lords of Waterdeep](https://www.amazon.com/dp/0786959916?tag=cubecommonw0a-20). Clean, quick to teach, and every choice is easy to read.
 
-Our full guide to [worker placement board games](/articles/worker-placement-explained/) walks through Lords of Waterdeep turn by turn. Everdell also uses worker placement; see [how to play Everdell](/academy/everdell/how-to-play-everdell/).
+Our full guide to [worker placement board games](/articles/worker-placement-explained/) walks through Lords of Waterdeep turn by turn. [Everdell](https://www.amazon.com/dp/B09ZWQTTNR?tag=cubecommonw0a-20) also uses worker placement; see [how to play Everdell](/academy/everdell/how-to-play-everdell/).
 
 ### 2. Deck building
 
@@ -96,7 +96,7 @@ See [area control board games](/articles/area-control-board-games/) and [area ma
 
 **What it is:** you keep taking risks for a bigger reward, knowing one bad draw or roll can wipe out everything you gained this turn. The question is always "one more, or stop?"
 
-**Classic example:** Can't Stop, Sid Sackson's dice game from 1980.
+**Classic example:** [Can't Stop](https://www.amazon.com/dp/B005DBRDPG?tag=cubecommonw0a-20), Sid Sackson's dice game from 1980.
 
 **Good first game:** [Flip 7](https://www.amazon.com/dp/B0DWGVM7RY?tag=cubecommonw0a-20). Flip cards until you stop, or until you flip a number you already have.
 

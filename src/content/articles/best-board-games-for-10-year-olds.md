@@ -53,7 +53,7 @@ These four have short rules and deep play. A ten-year-old can learn any of them 
 
 [Catan](https://www.amazon.com/dp/B00U26V4VQ?tag=cubecommonw0a-20) was designed by Klaus Teuber, first published in Germany in 1995, and won the 1995 Spiel des Jahres. The current edition plays 3 to 4, rated 10 and up, in about 60 to 90 minutes. Dice hand out wood, brick, sheep, wheat, and ore, and players trade and spend them to build roads, settlements, and cities. First to 10 points wins.
 
-**Why it fits:** ten is right when Catan clicks. Kids can now track what they need, make deals, and plan where to build. The trading builds real negotiation skills; our lesson on [the art of the trade](/academy/catan/art-of-the-trade/) explains why it matters. The free [Catan course](/academy/catan/) goes from first settlement to strategy, and our guide to [how to win at Catan](/articles/how-to-win-at-catan/) is a good next step. If your child played Catan Junior at seven or eight, this is the natural graduation.
+**Why it fits:** ten is right when Catan clicks. Kids can now track what they need, make deals, and plan where to build. The trading builds real negotiation skills; our lesson on [the art of the trade](/academy/catan/art-of-the-trade/) explains why it matters. The free [Catan course](/academy/catan/) goes from first settlement to strategy, and our guide to [how to win at Catan](/articles/how-to-win-at-catan/) is a good next step. If your child played [Catan Junior](https://www.amazon.com/dp/B007N0KZ64?tag=cubecommonw0a-20) at seven or eight, this is the natural graduation.
 
 ### Splendor
 
@@ -87,7 +87,7 @@ These three have more going on. They suit a ten-year-old who already loves games
 
 [7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20) was designed by Antoine Bauza, published by Repos Production in 2010, and won the first Kennerspiel des Jahres in 2011. The current edition plays 3 to 7, rated 10 and up, in about 30 minutes. Everyone picks one card from a hand at the same time, plays it, and passes the rest. Over three ages, you build an ancient city through science, military, trade, and wonders.
 
-**Why it fits:** it plays seven in half an hour with almost no waiting, which is rare. That makes it the best pick for a big family or a group of cousins. If your child already loves Sushi Go!, this is the grown-up version. Learn it with [how to play 7 Wonders](/academy/7-wonders/how-to-play-7-wonders/).
+**Why it fits:** it plays seven in half an hour with almost no waiting, which is rare. That makes it the best pick for a big family or a group of cousins. If your child already loves [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), this is the grown-up version. Learn it with [how to play 7 Wonders](/academy/7-wonders/how-to-play-7-wonders/).
 
 ### Heat: Pedal to the Metal
 
@@ -123,7 +123,7 @@ These three are short, small, and great for a school night or a sleepover.
 
 ### Codenames: Pictures
 
-[Codenames: Pictures](https://www.amazon.com/dp/B01HT9DERU?tag=cubecommonw0a-20) is the picture version of Vlaada Chvátil's Codenames, published by Czech Games Edition in 2016. It is rated 10 and up and plays best with four or more, in about 15 minutes. Two teams each have a spymaster who gives one-word clues to point their team at the right pictures on a grid.
+[Codenames: Pictures](https://www.amazon.com/dp/B01HT9DERU?tag=cubecommonw0a-20) is the picture version of Vlaada Chvátil's [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), published by Czech Games Edition in 2016. It is rated 10 and up and plays best with four or more, in about 15 minutes. Two teams each have a spymaster who gives one-word clues to point their team at the right pictures on a grid.
 
 **Why it fits:** the pictures are odd and funny, so clues get creative fast, and kids can play on a team with adults. It is the best party pick here for sleepovers. Our [Codenames course](/academy/codenames/) covers the original word version too.
 
@@ -168,7 +168,7 @@ The same games work right up to twelve. For older kids, see our [board games for
 
 ### What if my 10-year-old is new to board games?
 
-Start one step down. Our list of the [best board games for 7- and 8-year-olds](/articles/best-board-games-for-7-and-8-year-olds/) has great short games like Kingdomino and Azul that adults enjoy too. If there is a younger sibling at the table, our [best board games for 4-year-olds](/articles/best-board-games-for-4-year-olds/) guide can help find something everyone can share.
+Start one step down. Our list of the [best board games for 7- and 8-year-olds](/articles/best-board-games-for-7-and-8-year-olds/) has great short games like [Kingdomino](https://link.amazon/B08l49zvA) and [Azul](https://link.amazon/B0bGRYHex) that adults enjoy too. If there is a younger sibling at the table, our [best board games for 4-year-olds](/articles/best-board-games-for-4-year-olds/) guide can help find something everyone can share.
 
 ## Equals at the table
 

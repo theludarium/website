@@ -86,7 +86,7 @@ What does not work is quietly resenting them while the campaign stalls. The camp
 
 If your group knows attendance will be uneven, pick accordingly.
 
-Games where the party is scaled per scenario, like Gloomhaven and Jaws of the Lion, handle a missing player well. Games with short, self-contained sessions, like Pandemic Legacy, are easy to pilot through. Games with persistent, personal story arcs for each character are the hardest; a missed session there means missed story.
+Games where the party is scaled per scenario, like Gloomhaven and [Jaws of the Lion](https://www.amazon.com/dp/B088QSDB7S?tag=cubecommonw0a-20), handle a missing player well. Games with short, self-contained sessions, like Pandemic Legacy, are easy to pilot through. Games with persistent, personal story arcs for each character are the hardest; a missed session there means missed story.
 
 Our [guide to legacy games](/articles/legacy-board-games-explained/) notes which titles have shorter arcs, and the general rule is: the lighter the campaign, the more forgiving it is. A group with four busy adults might be happier with a twelve-session legacy game than a two-year epic, and that is a fine choice.
 

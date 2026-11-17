@@ -145,7 +145,7 @@ Lost Cities is built for two. Carcassonne, Splendor, and Azul all play very well
 
 ### Is Ticket to Ride or Catan better for beginners?
 
-Ticket to Ride is easier to teach and plays up to five without an add-on. Catan has more table talk. We compared them in [Catan vs Ticket to Ride](/articles/catan-vs-ticket-to-ride/), and if Catan is your table's favorite, see our list of [games like Catan](/articles/games-like-catan/).
+Ticket to Ride is easier to teach and plays up to five without an add-on. [Catan](https://link.amazon/B0h8BDGR2) has more table talk. We compared them in [Catan vs Ticket to Ride](/articles/catan-vs-ticket-to-ride/), and if Catan is your table's favorite, see our list of [games like Catan](/articles/games-like-catan/).
 
 ### Are there train games heavier than Ticket to Ride?
 

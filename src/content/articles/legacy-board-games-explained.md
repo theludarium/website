@@ -50,9 +50,9 @@ A short, opinionated list. Every game here is real and widely available; descrip
 | [Clank! Legacy](https://www.amazon.com/dp/B07QT5PVMK?tag=cubecommonw0a-20) | Competitive | 10+ | 2 to 4 | Deck-building with humor and a story. |
 | [Machi Koro Legacy](https://www.amazon.com/dp/B07MJM6D6Z?tag=cubecommonw0a-20) | Competitive | 10 | 2 to 4 | Light, quick, good for families. |
 
-Session counts are approximate and depend on how often you win; Pandemic Legacy's [twelve-month campaign](https://en.wikipedia.org/wiki/Pandemic_Legacy) runs twelve to twenty-four games, and Risk Legacy's [changes stop after fifteen](https://www.shutupandsitdown.com/retrospective-risk-legacy).
+Session counts are approximate and depend on how often you win; [Pandemic Legacy](https://www.amazon.com/dp/B00TQ5SEAI?tag=cubecommonw0a-20)'s [twelve-month campaign](https://en.wikipedia.org/wiki/Pandemic_Legacy) runs twelve to twenty-four games, and Risk Legacy's [changes stop after fifteen](https://www.shutupandsitdown.com/retrospective-risk-legacy).
 
-If your group is four adults who already like Pandemic, buy Season 1 and stop reading. If your group includes children or you want something shorter, My City is a strong, cheap introduction to the format.
+If your group is four adults who already like [Pandemic](https://link.amazon/B0eHP5GCg), buy Season 1 and stop reading. If your group includes children or you want something shorter, My City is a strong, cheap introduction to the format.
 
 *If this is useful, the newsletter sends more like it.*
 

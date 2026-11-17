@@ -7,7 +7,7 @@ category: Game Culture
 tags: ["codenames party netflix", "codenames netflix", "codenames party", "how to play codenames", "netflix games", "party games"]
 draft: false
 ---
-Codenames Party on Netflix is a digital version of the word game Codenames that you play on your TV or in a web browser, with each player's phone as a controller. It arrived on Netflix on September 29, 2026, it was made with Czech Games Edition, the publisher of the board game, and it is included with a Netflix subscription. Up to ten people can play in one room, and nobody needs to download a separate game or own a console.
+[Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) Party on Netflix is a digital version of the word game Codenames that you play on your TV or in a web browser, with each player's phone as a controller. It arrived on Netflix on September 29, 2026, it was made with Czech Games Edition, the publisher of the board game, and it is included with a Netflix subscription. Up to ten people can play in one room, and nobody needs to download a separate game or own a console.
 
 **The quick answer:** open the Games row in the Netflix app on a supported TV (or play in Chrome or Edge on a computer), choose Codenames Party, and have everyone scan the QR code with their phone. Pick Classic for the Codenames you know, Case Studies to warm up, or the new Party mode, where everyone is a spymaster at once.
 

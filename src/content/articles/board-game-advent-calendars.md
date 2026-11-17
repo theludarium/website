@@ -80,7 +80,7 @@ Yes, and it may be the best version. A homemade calendar costs little, uses game
 
 Get 24 small envelopes or a cheap reusable calendar with pockets. In each one, put a card that names a game from your shelf and a tiny twist. Some ideas:
 
-- "Tonight: Uno. Winner picks dessert."
+- "Tonight: [Uno](https://www.amazon.com/dp/B07P6MZPK3?tag=cubecommonw0a-20). Winner picks dessert."
 - "Tonight: any game, but the youngest player teaches it."
 - "Tonight: a game nobody has played this year."
 - "Tonight: a cooperative game. Everyone wins or nobody does."

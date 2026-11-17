@@ -8,7 +8,7 @@ draft: false
 ---
 Worker placement board games give each player a handful of pieces, a shared board full of action spaces, and one hard rule: once a space is taken, nobody else can use it this round. That is the entire mechanic. Everything interesting about it comes from what that rule does to a table of people who all want the same thing at the same time.
 
-Rather than survey a dozen titles, this article walks through one game in detail. [Lords of Waterdeep](https://www.amazon.com/dp/0786959916?tag=cubecommonw0a-20) is the best teaching example because it is clean, popular, and does nothing fancy. Once you can see the machinery there, you will recognize it in [Agricola](https://www.amazon.com/dp/B07JZFN8WS?tag=cubecommonw0a-20), [Viticulture](https://www.amazon.com/dp/B018GRSLK4?tag=cubecommonw0a-20), Everdell, and most of the euro-game shelf.
+Rather than survey a dozen titles, this article walks through one game in detail. [Lords of Waterdeep](https://www.amazon.com/dp/0786959916?tag=cubecommonw0a-20) is the best teaching example because it is clean, popular, and does nothing fancy. Once you can see the machinery there, you will recognize it in [Agricola](https://www.amazon.com/dp/B07JZFN8WS?tag=cubecommonw0a-20), [Viticulture](https://www.amazon.com/dp/B018GRSLK4?tag=cubecommonw0a-20), [Everdell](https://www.amazon.com/dp/B09ZWQTTNR?tag=cubecommonw0a-20), and most of the euro-game shelf.
 
 ## What is worker placement, in plain terms?
 
@@ -22,7 +22,7 @@ Three things define the genre:
 2. Exclusive use. Taking a space blocks it for everyone else.
 3. Workers as a scarce currency. You never have enough to do everything you want.
 
-Point two is what separates worker placement from a simple action menu. In Wingspan, you can gain food on your turn no matter what your opponents did. In a worker placement game, the food space might be gone. That absence is the design.
+Point two is what separates worker placement from a simple action menu. In [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), you can gain food on your turn no matter what your opponents did. In a worker placement game, the food space might be gone. That absence is the design.
 
 ## How does Lords of Waterdeep actually work?
 

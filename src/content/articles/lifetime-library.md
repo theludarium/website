@@ -27,7 +27,7 @@ Not every great game is a lifetime game. Some of the best games on your shelf ar
 
 ### Durable
 
-Physically, first. A lifetime game survives spills, moves, toddlers, and a hundred teaches. Wooden pieces outlast plastic; thick tiles outlast thin cards; a game with few components has fewer to lose. Hive is close to indestructible. [Carcassonne](https://link.amazon/B012Rr5ed)'s tiles will still be fine in 2046.
+Physically, first. A lifetime game survives spills, moves, toddlers, and a hundred teaches. Wooden pieces outlast plastic; thick tiles outlast thin cards; a game with few components has fewer to lose. [Hive](https://www.amazon.com/dp/B000EN5ZLW?tag=cubecommonw0a-20) is close to indestructible. [Carcassonne](https://link.amazon/B012Rr5ed)'s tiles will still be fine in 2046.
 
 Durable also means durable in design. The game should not depend on a rules edition that gets revised every few years, a companion app, or components that go out of print. Simple rules that fit on one card are the most durable thing a game can have.
 
@@ -39,7 +39,7 @@ This matters because the people at a lifetime table change. The group of four wh
 
 ### Scales in player count
 
-Twenty years is a long time for a table to stay the same size. A lifetime game works at two on a quiet night and at six when everyone is home. [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) does this; it is as good with four as with a dozen. Dominion plays at two and at four without feeling like a different game. A game that is only good at exactly four will have long stretches of no plays as the household shifts around it.
+Twenty years is a long time for a table to stay the same size. A lifetime game works at two on a quiet night and at six when everyone is home. [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) does this; it is as good with four as with a dozen. [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) plays at two and at four without feeling like a different game. A game that is only good at exactly four will have long stretches of no plays as the household shifts around it.
 
 ### Evergreen
 

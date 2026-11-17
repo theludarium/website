@@ -33,7 +33,7 @@ Three design decisions did the work.
 
 **Roles create real asymmetry.** Everyone shares a goal, but nobody can do everything. The Medic needs the Researcher's cards. The Scientist needs someone to bring her to the right station. Players talk because they must.
 
-The Pandemic board game won a long list of awards and spawned a family of titles that share its core. [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20), [Forbidden Desert](https://www.amazon.com/dp/B00B4ECHJI?tag=cubecommonw0a-20), Pandemic Legacy, [Pandemic Iberia](https://www.amazon.com/dp/B09XZVFQNY?tag=cubecommonw0a-20), and many others use the same engine with different clothes.
+The Pandemic board game won a long list of awards and spawned a family of titles that share its core. [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20), [Forbidden Desert](https://www.amazon.com/dp/B00B4ECHJI?tag=cubecommonw0a-20), [Pandemic Legacy](https://www.amazon.com/dp/B00TQ5SEAI?tag=cubecommonw0a-20), [Pandemic Iberia](https://www.amazon.com/dp/B09XZVFQNY?tag=cubecommonw0a-20), and many others use the same engine with different clothes.
 
 ## What is the quarterback problem, and does Pandemic have it?
 
@@ -60,9 +60,9 @@ At five Epidemics, the normal setting, an experienced table in our experience wi
 | Version | What changes | Who it is for |
 |---|---|---|
 | Pandemic (base) | The standard game | Everyone; start here |
-| On the Brink | More roles, a fifth player, a Bio-Terrorist variant | Groups who want variety |
-| In the Lab | Lab-based cure puzzle, team mode | Veterans who want more steps |
-| State of Emergency | Emergency events, harder challenges | Groups who win too often |
+| [On the Brink](https://www.amazon.com/dp/B00CAG5LJ2?tag=cubecommonw0a-20) | More roles, a fifth player, a Bio-Terrorist variant | Groups who want variety |
+| [In the Lab](https://www.amazon.com/dp/B00CE3IA44?tag=cubecommonw0a-20) | Lab-based cure puzzle, team mode | Veterans who want more steps |
+| [State of Emergency](https://www.amazon.com/dp/B00SDUQ3LE?tag=cubecommonw0a-20) | Emergency events, harder challenges | Groups who win too often |
 | [Pandemic Legacy: Season 1](https://www.amazon.com/dp/B00TQ0DXR2?tag=cubecommonw0a-20) | A 12-month campaign that permanently changes the board | Committed groups of 2 to 4 |
 | Pandemic Iberia | 1848 Spain, railroads, no cures | People who want a fresh map |
 | Pandemic: Hot Zone | A smaller, faster version on one region | Travel, families, short nights |

@@ -104,7 +104,7 @@ When a four-year-old starts asking "who won?", these games bring in winning and 
 
 ### Spot It! Jr. Animals
 
-[Spot It! Jr. Animals](https://www.amazon.com/dp/B0075XNGGK?tag=cubecommonw0a-20) is the junior version of the matching game Spot It!. It plays 2 to 8, rated 4 and up, in about 15 minutes. Any two cards share exactly one animal. Spot it first, say its name, and grab the card.
+[Spot It! Jr. Animals](https://www.amazon.com/dp/B0075XNGGK?tag=cubecommonw0a-20) is the junior version of the matching game [Spot It!](https://link.amazon/B0dxD5DWE). It plays 2 to 8, rated 4 and up, in about 15 minutes. Any two cards share exactly one animal. Spot it first, say its name, and grab the card.
 
 **Why it fits:** it is a speed game, but four-year-olds are often faster than adults at spotting pictures. The cards show animals instead of abstract symbols, and there are several mini-games in the box. It travels in a small tin, which makes it the best pick here for restaurants and car trips.
 

@@ -16,7 +16,7 @@ Here is the short list, each with the game that teaches it best. The rest of the
 
 | Skill | Why school struggles with it | Game that teaches it | Ages |
 |---|---|---|---|
-| Probability in the gut | Taught as formulas, rarely felt | [Catan](https://link.amazon/B0h8BDGR2), Can't Stop, [Yahtzee](https://www.amazon.com/dp/B00TLEMRKM?tag=cubecommonw0a-20) | 8+ |
+| Probability in the gut | Taught as formulas, rarely felt | [Catan](https://link.amazon/B0h8BDGR2), [Can't Stop](https://www.amazon.com/dp/B005DBRDPG?tag=cubecommonw0a-20), [Yahtzee](https://www.amazon.com/dp/B00TLEMRKM?tag=cubecommonw0a-20) | 8+ |
 | Negotiation | Almost never practiced | Catan, [Chinatown](https://www.amazon.com/dp/B00IVF4ZH0?tag=cubecommonw0a-20), [Monopoly Deal](https://www.amazon.com/dp/B0CPXCDG65?tag=cubecommonw0a-20) | 8+ |
 | Reading people | Not on any test | [Coup](https://www.amazon.com/dp/B00GDI4HX4?tag=cubecommonw0a-20), [Skull](https://www.amazon.com/dp/B08R2BPLSN?tag=cubecommonw0a-20), [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) | 10+ |
 | Losing and recovering | Grades punish failure | Any short game, played often | 5+ |

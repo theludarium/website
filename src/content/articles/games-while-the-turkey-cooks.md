@@ -39,7 +39,7 @@ A word game for groups of three or more who like puzzles. One leader thinks of a
 
 ### Fishbowl
 
-A party game for big groups, with nothing but paper and a bowl. Everyone writes three to five names or nouns on slips and drops them in the bowl. Split into two teams. Over three rounds, players pull slips and get their team to guess them within a time limit: first with any words they like, then with just one word, then with charades only. The same slips come back each round, so the jokes build. It is the homemade version of Monikers.
+A party game for big groups, with nothing but paper and a bowl. Everyone writes three to five names or nouns on slips and drops them in the bowl. Split into two teams. Over three rounds, players pull slips and get their team to guess them within a time limit: first with any words they like, then with just one word, then with charades only. The same slips come back each round, so the jokes build. It is the homemade version of [Monikers](https://www.amazon.com/dp/B00M07OQ1U?tag=cubecommonw0a-20).
 
 ### Ghost
 

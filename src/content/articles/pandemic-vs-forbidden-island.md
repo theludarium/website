@@ -73,7 +73,7 @@ Pandemic works well with kids around ten and up, especially ones who already lik
 
 ## Which one lasts longer on the shelf?
 
-Pandemic. The base game alone has enough variety in role combinations and difficulty settings for many months of play. The expansion line (On the Brink, In the Lab, State of Emergency) adds more. And Pandemic Legacy, a campaign version that permanently changes the board over a dozen or more sessions, is one of the most praised board games ever made. It is its own purchase, but the base game is the on-ramp.
+Pandemic. The base game alone has enough variety in role combinations and difficulty settings for many months of play. The expansion line ([On the Brink](https://www.amazon.com/dp/B00CAG5LJ2?tag=cubecommonw0a-20), [In the Lab](https://www.amazon.com/dp/B00CE3IA44?tag=cubecommonw0a-20), [State of Emergency](https://www.amazon.com/dp/B00SDUQ3LE?tag=cubecommonw0a-20)) adds more. And [Pandemic Legacy](https://www.amazon.com/dp/B00TQ5SEAI?tag=cubecommonw0a-20), a campaign version that permanently changes the board over a dozen or more sessions, is one of the most praised board games ever made. It is its own purchase, but the base game is the on-ramp.
 
 Forbidden Island has no expansions. Its sequels, [Forbidden Desert](https://www.amazon.com/dp/B00B4ECHJI?tag=cubecommonw0a-20) and Forbidden Sky, are separate games with their own rules, and Forbidden Desert is a strong next step. But the island itself will get solved by a group that plays it often. That is fine. It costs less, and it has done its job by then.
 

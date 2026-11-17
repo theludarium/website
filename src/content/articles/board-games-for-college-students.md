@@ -79,7 +79,7 @@ A few practical rules for the hosting side:
 - **Start with Codenames or Wavelength.** Big, loud, forgiving. Save the quieter games for when the crowd thins.
 - **Keep snacks cheap and dry.** Pretzels, not pizza, if the cards are not sleeved.
 - **Let the door stay open.** Dorm game nights grow by people hearing laughing from the hall. Closed doors do not recruit.
-- **Have a two-player backup.** When it is midnight and down to you and one friend, Jaipur or Hive keeps the night going.
+- **Have a two-player backup.** When it is midnight and down to you and one friend, Jaipur or [Hive](https://www.amazon.com/dp/B000EN5ZLW?tag=cubecommonw0a-20) keeps the night going.
 - **Keep the games in one box.** A shoebox labeled "games" by the door. When people know where they are, they get pulled out without you.
 
 Playing games in college is also a cheap way to spend time with people that does not involve a bar or a screen. For students who have moved far from home, a weekly table can be the first real friend group. We have written more about that pattern in [making friends in a new city](/articles/make-friends-in-a-new-city-board-games/).

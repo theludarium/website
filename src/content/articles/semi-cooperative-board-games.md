@@ -14,7 +14,7 @@ Done well, it is the most dramatic thing that happens at a game table. Done badl
 
 Pure co-ops have one win condition for everyone. Competitive games have a winner and losers. Semi-co-ops sit between, and there are two distinct flavors.
 
-**Hidden traitor.** Most players are loyal; one or more are secretly against the group. The traitor wins if the team fails. [Shadows over Camelot](https://www.amazon.com/dp/0975277383?tag=cubecommonw0a-20), Battlestar Galactica, and Dead of Winter are the classics. Social deduction games like Werewolf and [The Resistance](https://www.amazon.com/dp/B01J16HNKS?tag=cubecommonw0a-20) are the stripped-down version of the same idea, and we wrote about [why social deduction works](/articles/why-social-deduction-games-work/) separately.
+**Hidden traitor.** Most players are loyal; one or more are secretly against the group. The traitor wins if the team fails. [Shadows over Camelot](https://www.amazon.com/dp/0975277383?tag=cubecommonw0a-20), Battlestar Galactica, and [Dead of Winter](https://www.amazon.com/dp/B00HFKITJC?tag=cubecommonw0a-20) are the classics. Social deduction games like Werewolf and [The Resistance](https://www.amazon.com/dp/B01J16HNKS?tag=cubecommonw0a-20) are the stripped-down version of the same idea, and we wrote about [why social deduction works](/articles/why-social-deduction-games-work/) separately.
 
 **Personal objectives.** Everyone is loyal, but each player has a secret goal they must also complete to win. The team can succeed while you personally fail. Dead of Winter does this too, which is why it is on both lists. Archipelago and [CO2](https://www.amazon.com/dp/B009XBA75K?tag=cubecommonw0a-20) use similar structures.
 

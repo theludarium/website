@@ -22,13 +22,13 @@ It also helps newcomers. Someone invited to "game night" does not know what to e
 
 ### 1. Co-op Night
 
-Everyone on one side, the game on the other. Pandemic, [The Crew](https://link.amazon/B099S9RKf), and [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20) cover three tables at three difficulty levels.
+Everyone on one side, the game on the other. [Pandemic](https://link.amazon/B0eHP5GCg), [The Crew](https://link.amazon/B099S9RKf), and [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20) cover three tables at three difficulty levels.
 
 **The rule:** at least one table must lose. If every table wins, the difficulty was too low. Announce this up front and watch people choose harder settings.
 
 ### 2. Gateway Night
 
-A night for the person someone keeps meaning to bring. Only games that teach in under ten minutes: [Ticket to Ride](https://link.amazon/B0jh8RB7f), [Azul](https://link.amazon/B0bGRYHex), [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), Sushi Go.
+A night for the person someone keeps meaning to bring. Only games that teach in under ten minutes: [Ticket to Ride](https://link.amazon/B0jh8RB7f), [Azul](https://link.amazon/B0bGRYHex), [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), [Sushi Go](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20).
 
 **The rule:** every regular brings one person who has never come. The regulars teach; they do not play their heavy games tonight.
 

@@ -44,7 +44,7 @@ A few practical rules:
 - **Count the regulars, not the chat.** If the chat has nine people and five show up on an average night, your count is five.
 - **Check the game's best count, not its range.** A game that says 2 to 5 often sings at 3 and limps at 5. Ask the person teaching it, or play it first at a game night.
 - **Have one game that scales to everyone.** A party lane game like [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20), Codenames, or [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) covers the night when all nine show up. That is the only "fantasy count" purchase a group needs.
-- **Have one game for two.** The night when only two show up is coming. Patchwork, [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20), or [Hive](https://www.amazon.com/dp/B000EN5ZLW?tag=cubecommonw0a-20) turns a cancelled night into a session.
+- **Have one game for two.** The night when only two show up is coming. [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20), [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20), or [Hive](https://www.amazon.com/dp/B000EN5ZLW?tag=cubecommonw0a-20) turns a cancelled night into a session.
 
 Player count is also why [claiming a lane](/articles/claim-a-lane/) matters. The person who collects two-player games is the insurance policy. The person who collects party games is the insurance for the big nights. Without those lanes, the group owns five games that all play best at four and nothing else.
 

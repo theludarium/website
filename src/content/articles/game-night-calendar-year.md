@@ -41,7 +41,7 @@ The year starts with the door open. Every regular brings one person who has neve
 
 ### February: Co-op Night
 
-The shortest month, the coldest weather, and the fewest reasons to leave the house. Everyone on one side: Pandemic, The Crew, [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20) for the newer players. Run it the week after Valentine's Day with the rule that at least one table has to lose. The groups who were a little tense in January are not by the end of this one.
+The shortest month, the coldest weather, and the fewest reasons to leave the house. Everyone on one side: [Pandemic](https://link.amazon/B0eHP5GCg), The Crew, [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20) for the newer players. Run it the week after Valentine's Day with the rule that at least one table has to lose. The groups who were a little tense in January are not by the end of this one.
 
 ### March: Bracket Night
 
@@ -57,7 +57,7 @@ The first evenings warm enough to open the door. Move the tables to a patio, a y
 
 ### June: Two-Player Night
 
-Wedding season, graduation season, and the month when attendance gets unpredictable. Two-player tables handle an odd count better than anything else: set up five of them, rotate opponents every game, and nobody plays the same person twice. Patchwork, [7 Wonders Duel](https://www.amazon.com/dp/B014DMSTXK?tag=cubecommonw0a-20), Hive, Jaipur.
+Wedding season, graduation season, and the month when attendance gets unpredictable. Two-player tables handle an odd count better than anything else: set up five of them, rotate opponents every game, and nobody plays the same person twice. [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20), [7 Wonders Duel](https://www.amazon.com/dp/B014DMSTXK?tag=cubecommonw0a-20), Hive, Jaipur.
 
 *If this is useful, the newsletter sends more like it.*
 

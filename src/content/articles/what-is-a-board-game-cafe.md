@@ -88,7 +88,7 @@ The Ludarium is building toward the third model in Indianapolis: a place you bel
 
 Yes to both, for the same reason. A game gives two strangers something to do with their hands and eyes besides stare at each other. It creates small moments of surprise, laughter, and mild competition, which are exactly the moments people bond over.
 
-For dates, pick two-player or short games: Patchwork, [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20), [Hive](https://www.amazon.com/dp/B000EN5ZLW?tag=cubecommonw0a-20), or a cooperative game like [The Crew](https://link.amazon/B099S9RKf) with two hands each. For work outings, a cafe solves the problem of "team building" that feels forced. Nobody has to do a trust fall. They just have to play Codenames and find out who on the team thinks "ocean" and "bank" are obviously connected.
+For dates, pick two-player or short games: [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20), [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20), [Hive](https://www.amazon.com/dp/B000EN5ZLW?tag=cubecommonw0a-20), or a cooperative game like [The Crew](https://link.amazon/B099S9RKf) with two hands each. For work outings, a cafe solves the problem of "team building" that feels forced. Nobody has to do a trust fall. They just have to play Codenames and find out who on the team thinks "ocean" and "bank" are obviously connected.
 
 ## FAQ
 

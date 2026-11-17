@@ -33,7 +33,7 @@ Fifteen picks, from the classics to newer favorites. Player counts are from the 
 
 ### 2. Mexican Train dominoes
 
-Usually 2 to 8 players. Each player builds their own train of dominoes from a central hub, and anyone can add to the shared "Mexican train." Dominoes are heavy and easy to grip, and the rules feel familiar. Sets with large, colored pips are easy to read.
+Usually 2 to 8 players. Each player builds their own train of dominoes from a central hub, and anyone can add to the shared "Mexican train." [Dominoes](https://www.amazon.com/dp/B0007OWJ62?tag=cubecommonw0a-20) are heavy and easy to grip, and the rules feel familiar. Sets with large, colored pips are easy to read.
 
 ### 3. Qwirkle
 
@@ -122,7 +122,7 @@ Card games are the easiest place to start, because most people already know at l
 - **Canasta:** a team game with a long history at senior centers and family tables.
 - **Hearts and euchre:** trick-taking games that reward partnership and table talk.
 - **Bridge:** deep, social, and a lifelong game for many players. Local bridge clubs are a great way to meet people.
-- **Cribbage:** quick, two-player, and a classic for a reason.
+- **[Cribbage](https://www.amazon.com/dp/B000I5NW66?tag=cubecommonw0a-20):** quick, two-player, and a classic for a reason.
 
 ## What games can seniors play with grandkids?
 
@@ -147,7 +147,7 @@ Rummikub is the most common favorite. The tiles stand in racks, the rules are fa
 
 ### What board games are good for elderly people with poor eyesight?
 
-Look for large-print or XXL editions, such as Rummikub Large Numbers or Codenames XXL, and games with chunky, high-contrast pieces like dominoes and Qwirkle. Good lighting and a plain tablecloth help just as much as the game.
+Look for large-print or XXL editions, such as Rummikub Large Numbers or [Codenames XXL](https://www.amazon.com/dp/B0FQJ7XV89?tag=cubecommonw0a-20), and games with chunky, high-contrast pieces like dominoes and Qwirkle. Good lighting and a plain tablecloth help just as much as the game.
 
 ### What are good card games for seniors?
 

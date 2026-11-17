@@ -76,7 +76,7 @@ Designed by Paul Abrahams, Luke Badger and Andy Richdale and published by Badger
 
 ### 6. Codenames: Duet
 
-[Codenames: Duet](https://www.amazon.com/dp/B0FJMNPGXM?tag=cubecommonw0a-20) is the cooperative two-player version of Codenames, by Scot Eaton and Vlaada Chvátil. Both players sit across from each other and look at a shared key card from opposite sides. Each of you sees which words your partner needs to find, and you take turns giving one-word clues to help each other find all fifteen agents before you run out of turns. Hit an assassin and you both lose.
+[Codenames: Duet](https://www.amazon.com/dp/B0FJMNPGXM?tag=cubecommonw0a-20) is the cooperative two-player version of [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), by Scot Eaton and Vlaada Chvátil. Both players sit across from each other and look at a shared key card from opposite sides. Each of you sees which words your partner needs to find, and you take turns giving one-word clues to help each other find all fifteen agents before you run out of turns. Hit an assassin and you both lose.
 
 It is our favorite co op card game for 2 when one or both of you love words. For tactics, the Academy lesson on [Codenames: Duet strategy](/academy/codenames/codenames-duet-strategy/) is a good next step.
 
@@ -96,7 +96,7 @@ Peter Rustemeyer designed it, Hans im Glück published it, and it won the Kenner
 
 [Aeon's End](https://www.amazon.com/dp/B072BG9Z9V?tag=cubecommonw0a-20) is a cooperative deck-builder. Each player is a mage defending the last city from a monstrous Nemesis. You buy spells, gems and relics to improve your deck over the game. Two twists make it special: you never shuffle your discard pile, so you can plan your next hand precisely, and a shuffled turn-order deck means you never know who acts next.
 
-Designed by Kevin Riley, Nick Little and Jenny Iglesias and first published in 2016 by Action Phase Games, it plays one to four in about an hour. If you enjoy Dominion but want everyone on one team, this is the one. Our guide to the [best deck-building games](/articles/best-deck-building-games/) covers more in the genre.
+Designed by Kevin Riley, Nick Little and Jenny Iglesias and first published in 2016 by Action Phase Games, it plays one to four in about an hour. If you enjoy [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) but want everyone on one team, this is the one. Our guide to the [best deck-building games](/articles/best-deck-building-games/) covers more in the genre.
 
 ### 10. Sentinels of the Multiverse
 

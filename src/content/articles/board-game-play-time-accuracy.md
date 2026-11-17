@@ -33,7 +33,7 @@ If you want an honest number, you have to count everything from "let's play" to 
 3. **The teach.** Reading the rules aloud or explaining from memory. Varies wildly with the teacher. We wrote a whole piece on doing this well in [The Five-Minute Teach](/articles/how-to-teach-a-board-game/).
 4. **The first-play tax.** New players take longer turns, make rules mistakes that need unwinding, and ask questions. A first play commonly runs 1.5 to 2 times the box number.
 5. **The game itself.** The number on the box, roughly, once everyone knows what they are doing.
-6. **Teardown.** Sorting components back into bags and inserts. Games with many small pieces, like Everdell or [Scythe](https://www.amazon.com/dp/B01IPUGYK6?tag=cubecommonw0a-20), take ten minutes to put away properly.
+6. **Teardown.** Sorting components back into bags and inserts. Games with many small pieces, like [Everdell](https://www.amazon.com/dp/B09ZWQTTNR?tag=cubecommonw0a-20) or [Scythe](https://www.amazon.com/dp/B01IPUGYK6?tag=cubecommonw0a-20), take ten minutes to put away properly.
 
 A rough rule for a first play with a new group: setup plus teach plus twice the box time plus teardown. For [Pandemic](https://link.amazon/B0eHP5GCg), a box that says 45 minutes, that lands near ninety minutes end to end. For Wingspan at 70 minutes on the box, expect two and a half hours the first time.
 

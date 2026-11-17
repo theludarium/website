@@ -137,7 +137,7 @@ The jury's reasoning, in short: the game brings a group together, and you succee
 
 A few things make the win stand out:
 
-- **It ended a run of cooperative winners.** The previous three Spiel des Jahres went to Dorfromantik, Sky Team, and Bomb Busters, all cooperative. JinxO is competitive, though gently.
+- **It ended a run of cooperative winners.** The previous three Spiel des Jahres went to [Dorfromantik](https://www.amazon.com/dp/B0BQ3W9GRL?tag=cubecommonw0a-20), [Sky Team](https://www.amazon.com/dp/B0CHD8RCSJ?tag=cubecommonw0a-20), and Bomb Busters, all cooperative. JinxO is competitive, though gently.
 - **Word games rarely win.** BoardGameWire counted JinxO as only the fourth word-focused winner, after Barbarossa, Codenames, and Just One.
 - **It came from outside the usual map.** A game first published in Indonesia beat entries from long-established European publishers, which says a lot about how strong the core idea is.
 

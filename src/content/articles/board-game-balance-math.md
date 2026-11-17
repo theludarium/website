@@ -38,7 +38,7 @@ A few principles.
 
 **Watch the tails.** The worst draws matter as much as the best. If it is possible to draw five dead cards in a row, someone will, and they will not enjoy it. Many designers put a floor on bad luck by guaranteeing a minimum of useful cards, or by letting players redraw.
 
-Dominion offers a clear example. The ten copies of each Kingdom card mean a strategy built around one card is possible but contested. Province cards are limited to eight in a two-player game, which caps the maximum score and creates the end-game race. Both numbers were chosen, and both shape every game.
+[Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) offers a clear example. The ten copies of each Kingdom card mean a strategy built around one card is possible but contested. Province cards are limited to eight in a two-player game, which caps the maximum score and creates the end-game race. Both numbers were chosen, and both shape every game.
 
 ## How much variance is right?
 

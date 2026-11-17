@@ -119,7 +119,7 @@ Created by Anthony E. Pratt and first published by Waddingtons in the UK in 1949
 
 Designed by Oleksandr Nevskiy and Oleg Sidorenko and published by Libellud in 2015, [Mysterium](https://www.amazon.com/dp/B0F4YNPYQM?tag=cubecommonw0a-20) plays up to 7 in about 45 minutes. One player is a ghost who cannot speak. The others are mediums. Each night the ghost hands out dreamlike picture cards as clues, and the mediums try to work out the suspect, the place, and the weapon from them.
 
-**Why it fits:** it turns a murder mystery into a creative guessing game, a bit like Clue crossed with Dixit. Everyone wins or loses together, which keeps the mood warm. The fun is in the reading of strange art cards and the chorus of "what did the ghost mean by the crows?" It suits groups who like talking more than math. Our list of the [best cooperative board games](/articles/best-cooperative-board-games/) has more games with that feeling.
+**Why it fits:** it turns a murder mystery into a creative guessing game, a bit like Clue crossed with [Dixit](https://www.amazon.com/dp/2914849656?tag=cubecommonw0a-20). Everyone wins or loses together, which keeps the mood warm. The fun is in the reading of strange art cards and the chorus of "what did the ghost mean by the crows?" It suits groups who like talking more than math. Our list of the [best cooperative board games](/articles/best-cooperative-board-games/) has more games with that feeling.
 
 ### Deception: Murder in Hong Kong
 

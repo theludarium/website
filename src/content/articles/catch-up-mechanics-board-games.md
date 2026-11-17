@@ -73,7 +73,7 @@ No single row is correct for every game. A party racing game can afford blunt ru
 
 Co-ops have the same problem in a different costume. Instead of one player running away with it, the whole table either snowballs toward victory or collapses toward defeat, often by the midpoint.
 
-Pandemic handles this with escalating pressure. The infection rate rises as the game goes on, and epidemic cards reshuffle the discard pile on top of the deck so recently infected cities get hit again. A table that is doing well faces a harder board. A table that is struggling still has a few turns to stabilize before the cascade. The game is tuned so that most sessions come down to the last few turns, which is what makes the win feel like a win.
+[Pandemic](https://link.amazon/B0eHP5GCg) handles this with escalating pressure. The infection rate rises as the game goes on, and epidemic cards reshuffle the discard pile on top of the deck so recently infected cities get hit again. A table that is doing well faces a harder board. A table that is struggling still has a few turns to stabilize before the cascade. The game is tuned so that most sessions come down to the last few turns, which is what makes the win feel like a win.
 
 [The Crew](https://link.amazon/B099S9RKf) does something quieter. Each mission is short, and failing one costs you only a replay. The comeback is not within the game but across the campaign. You lose, you talk about it, you try again. For many groups this is more satisfying than any in-game rubber band.
 
