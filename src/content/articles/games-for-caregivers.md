@@ -14,7 +14,7 @@ This article is about what to do with that hour, and why a game is often a bette
 
 Because the tiredness of caregiving is not mainly physical. It is the weight of constant vigilance, of being the one who notices, decides, and remembers everything. Lying down does not turn that off. Many caregivers describe trying to nap and spending the hour listening for sounds from the next room.
 
-A game turns it off for a while, for a specific reason: it takes your whole attention. You cannot plan tomorrow's medication schedule while deciding which Azul tiles to take. Psychologists call this absorption, and Mihaly Csikszentmihalyi's work on [flow](https://en.wikipedia.org/wiki/Flow_(psychology)) described it as arising when the challenge of a task is balanced against your skill; a [2025 study of more than 500 board game players](https://link.springer.com/10.1007/s10902-024-00846-4) found flow ran highest when both challenge and skill were high. A good game hits that balance almost by design. For an hour, you are a person playing a game, not a caregiver.
+A game turns it off for a while, for a specific reason: it takes your whole attention. You cannot plan tomorrow's medication schedule while deciding which [Azul](https://link.amazon/B0bGRYHex) tiles to take. Psychologists call this absorption, and Mihaly Csikszentmihalyi's work on [flow](https://en.wikipedia.org/wiki/Flow_(psychology)) described it as arising when the challenge of a task is balanced against your skill; a [2025 study of more than 500 board game players](https://link.springer.com/10.1007/s10902-024-00846-4) found flow ran highest when both challenge and skill were high. A good game hits that balance almost by design. For an hour, you are a person playing a game, not a caregiver.
 
 A game with other people adds a second thing: being treated as yourself. Caregivers often say that every conversation they have is about the person they care for. At a game table, nobody asks. You are the one who just blocked the red route.
 
@@ -27,8 +27,8 @@ Sometimes the hour arrives at 9 p.m. with nobody around. Solo games are good com
 | Patience or solitaire with real cards | 10 to 20 min | No setup, no rules to learn, hands busy |
 | Jigsaw puzzle, left out on a table | Any | Can be picked up and put down between interruptions |
 | Friday | 25 min | A solo card game that is absorbing without being heavy |
-| Cascadia solo mode | 30 min | Calm, pretty, puzzle-like |
-| Wingspan solo automa | 45 to 60 min | Deep enough to lose yourself in; only if the hour is real |
+| [Cascadia](https://link.amazon/B0g1HYFt4) solo mode | 30 min | Calm, pretty, puzzle-like |
+| [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) solo automa | 45 to 60 min | Deep enough to lose yourself in; only if the hour is real |
 | Crossword or sudoku | 10 to 30 min | Portable; works in a waiting room |
 | A phone app of a board game | 10 min | Fine, but a physical game is more of a break from screens |
 
@@ -42,11 +42,11 @@ If you want more options, [solo board games](/articles/best-solo-board-games/) g
 
 Sometimes the hour off is better spent changing the shape of the time together than escaping it. A game can turn an afternoon of managing into an afternoon of company.
 
-**If they are cognitively well but physically limited.** Card games with large-print decks and card holders, Rummikub with the large-number edition, dominoes, Yahtzee with a dice cup, Qwirkle. Good light on the table matters more than the game.
+**If they are cognitively well but physically limited.** Card games with large-print decks and card holders, Rummikub with the large-number edition, dominoes, [Yahtzee](https://www.amazon.com/dp/B00TLEMRKM?tag=cubecommonw0a-20) with a dice cup, [Qwirkle](https://www.amazon.com/dp/1933054395?tag=cubecommonw0a-20). Good light on the table matters more than the game.
 
 **If they have memory loss.** Play for the moment, not the score. Dominoes, matching games, sorting a deck by suit, large picture cards, balloon volleyball. Familiar old games often survive long after new rules cannot be learned; a lifelong euchre player may still play a passable hand with a little prompting. Expect the rules to drift and let them. If the game produces frustration, stop and do something else. The goal is a pleasant half hour, and a pleasant half hour is a success.
 
-**If they are a child with a serious illness.** Cooperative games remove the sting of losing on a bad day: Outfoxed!, Forbidden Island, The Crew for older kids. Short games are better than long ones, because energy can vanish mid-turn.
+**If they are a child with a serious illness.** Cooperative games remove the sting of losing on a bad day: [Outfoxed!](https://link.amazon/B0hYNduxd), [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20), The Crew for older kids. Short games are better than long ones, because energy can vanish mid-turn.
 
 In every case, let the game be shorter than you planned and stop while it is still good.
 

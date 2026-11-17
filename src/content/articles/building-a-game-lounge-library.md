@@ -24,14 +24,14 @@ By the job each game does at a table. Here is the working split, with examples o
 
 | Job | Rough count | Examples of the type |
 |---|---|---|
-| First-five-minutes games (teach in 2 minutes, play in 15) | 15 | Codenames, Just One, Sushi Go!, No Thanks!, Love Letter |
-| Gateway games (the second game of the night) | 20 | Ticket to Ride, Catan, Azul, Carcassonne, Splendor, Kingdomino |
-| Cooperative games | 12 | Pandemic, The Crew, Forbidden Island, Hanabi, Spirit Island |
-| Two-player games | 10 | Patchwork, 7 Wonders Duel, Jaipur, Hive, Lost Cities |
-| Big group and party games (6 or more players) | 12 | Wavelength, Telestrations, Decrypto, Blood on the Clocktower, Skull |
-| Kids and family games | 10 | Outfoxed!, Dragomino, My First Castle Panic, Ticket to Ride: First Journey |
-| Medium-weight strategy (the regulars' shelf) | 15 | Wingspan, 7 Wonders, Everdell, Terraforming Mars, Dominion, Concordia |
-| Heavy and long (reservation only) | 6 | Twilight Imperium, Gloomhaven: Jaws of the Lion, Brass: Birmingham, Dune: Imperium |
+| First-five-minutes games (teach in 2 minutes, play in 15) | 15 | [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), Just One, Sushi Go!, No Thanks!, Love Letter |
+| Gateway games (the second game of the night) | 20 | [Ticket to Ride](https://link.amazon/B0jh8RB7f), Catan, Azul, Carcassonne, Splendor, Kingdomino |
+| Cooperative games | 12 | [Pandemic](https://link.amazon/B0eHP5GCg), The Crew, Forbidden Island, Hanabi, Spirit Island |
+| Two-player games | 10 | [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20), 7 Wonders Duel, Jaipur, Hive, Lost Cities |
+| Big group and party games (6 or more players) | 12 | [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20), Telestrations, Decrypto, Blood on the Clocktower, Skull |
+| Kids and family games | 10 | [Outfoxed!](https://link.amazon/B0hYNduxd), Dragomino, My First Castle Panic, Ticket to Ride: First Journey |
+| Medium-weight strategy (the regulars' shelf) | 15 | [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), 7 Wonders, Everdell, Terraforming Mars, Dominion, Concordia |
+| Heavy and long (reservation only) | 6 | Twilight Imperium, Gloomhaven: Jaws of the Lion, [Brass: Birmingham](https://www.amazon.com/dp/1988884047?tag=cubecommonw0a-20), Dune: Imperium |
 
 Those numbers add to 100 and will drift. Notice what is heavy and what is light: a third of the library is games you can teach to anyone in under five minutes. That is deliberate. The first game of the night decides whether there is a second.
 
