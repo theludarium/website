@@ -27,7 +27,7 @@ Put the date on your calendar. Then count back six weeks.
 
 ## The four parts of every week
 
-**1. Volume.** Play two-player, base-game [Carcassonne](https://link.amazon/B012Rr5ed) online. [Board Game Arena](https://boardgamearena.com/gamepanel?game=carcassonne) is the obvious place, and it is where the All Other Countries qualifier is held. Aim for five to ten games a week. Track your score and your margin in each one.
+**1. Volume.** Play two-player, base-game [Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20) online. [Board Game Arena](https://boardgamearena.com/gamepanel?game=carcassonne) is the obvious place, and it is where the All Other Countries qualifier is held. Aim for five to ten games a week. Track your score and your margin in each one.
 
 **2. The clock.** At least one session a week, play across a real table with a chess clock or a chess clock app at 15 minutes each. Use the World Championship procedures from the [tournament rules lesson](/academy/carcassonne/carcassonne-tournament-rules/): choose your next tile during your opponent's turn, keep your supply visible, and treat a released tile as final.
 

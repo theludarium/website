@@ -18,7 +18,7 @@ The plan assumes about three to four hours a week. Scale it up or down, but keep
 
 A plan needs a date. The [tournaments lesson](/academy/ticket-to-ride/ticket-to-ride-tournaments/) lists the main options:
 
-- **The World Boardgaming Championships,** held each summer in Pennsylvania. Its [Ticket to Ride](https://link.amazon/B0jh8RB7f) event welcomes beginners, plays four-player tables, and uses the USA 1910 Mega Game by default.
+- **The World Boardgaming Championships,** held each summer in Pennsylvania. Its [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) event welcomes beginners, plays four-player tables, and uses the USA 1910 Mega Game by default.
 - **The Train Gamers Association at Gen Con** in Indianapolis, with its base-game USA tournament and its multi-map Game System Tournament. The association also runs events at Origins and at its own Railcon.
 - **Online play** on Board Game Arena, if a trip is not possible this year. It is also where most of your practice will happen.
 

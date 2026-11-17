@@ -11,7 +11,7 @@ oneIdea: "On the gray wall you choose every tile's space, so you can always chas
 tryThis: "Play one game on the gray side. Before each wall-tiling phase, check every pattern line in progress and name a legal space its tile can still reach."
 nextTeaser: "Last lesson: how to compete. The Azul event at the World Boardgaming Championships, the 2024 Azul World Championship, and where to find local and online play."
 ---
-Flip your board and [Azul](https://link.amazon/B0bGRYHex) becomes a harder game. The expansions lesson covered the rules of the gray side. This lesson is about playing it well. On the colored side, the board does half your planning for you. On the gray side, you do all of it, and the wall can punish you for a placement you made three rounds earlier.
+Flip your board and [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) becomes a harder game. The expansions lesson covered the rules of the gray side. This lesson is about playing it well. On the colored side, the board does half your planning for you. On the gray side, you do all of it, and the wall can punish you for a placement you made three rounds earlier.
 
 ## What changes, and what does not
 
@@ -66,4 +66,4 @@ A complete color still needs all five of its tiles, one in each row and each col
 
 ## Where to play it
 
-The gray side is in every copy of the original. Board Game Arena offers it as an option for online games, and Azul Crystal Mosaic builds on the same free-placement rule, as the expansions lesson describes.
+The gray side is in every copy of the original. Board Game Arena offers it as an option for online games, and [Azul Crystal Mosaic](https://www.amazon.com/dp/B081KW92PK?tag=cubecommonw0a-20) builds on the same free-placement rule, as the expansions lesson describes.

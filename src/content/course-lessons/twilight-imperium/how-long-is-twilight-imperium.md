@@ -11,7 +11,7 @@ oneIdea: "Twilight Imperium's length is mostly setup, teaching, and slow turns, 
 tryThis: "At your next game, put a sheet of paper by the speaker and write down the clock time at the start of each round. You will see exactly where the time goes."
 nextTeaser: "Level 2 starts with the eight strategy cards: what each one does, when it is worth taking, and how the pick order shapes the whole round."
 ---
-Ask anyone about Twilight Imperium and the first thing they mention is the length. Fantasy Flight lists 240 to 360 minutes on its product page, which is four to six hours. First games with new players usually run past that, because every rule is new and every decision is a first. Our article on [board game play time accuracy](/articles/board-game-play-time-accuracy/) explains why box times run short for heavy games in general.
+Ask anyone about [Twilight Imperium](https://www.amazon.com/dp/B074YPSTRP?tag=cubecommonw0a-20) and the first thing they mention is the length. Fantasy Flight lists 240 to 360 minutes on its product page, which is four to six hours. First games with new players usually run past that, because every rule is new and every decision is a first. Our article on [board game play time accuracy](/articles/board-game-play-time-accuracy/) explains why box times run short for heavy games in general.
 
 The good news is that a lot of the clock is spent outside the actual play, and you control most of it.
 

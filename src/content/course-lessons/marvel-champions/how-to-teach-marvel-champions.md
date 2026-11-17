@@ -11,7 +11,7 @@ oneIdea: "Teach Marvel Champions as two clocks and two forms, then let the first
 tryThis: "Before your next teach, set up Rhino with pre-built decks, and play one practice round with all cards face up, saying each villain phase step as you do it."
 nextTeaser: "Level 1 starts with the rules new players get wrong most: the form change, boost cards, defense, and the small timing rules that the Rules Reference settles."
 ---
-Marvel Champions teaches well because each player only has to learn one hero. The shared rules are short. The trouble spots are the villain phase, which new players have never seen, and paying for cards by discarding other cards, which feels wrong the first time.
+[Marvel Champions](https://www.amazon.com/dp/B07W1BF6D5?tag=cubecommonw0a-20) teaches well because each player only has to learn one hero. The shared rules are short. The trouble spots are the villain phase, which new players have never seen, and paying for cards by discarding other cards, which feels wrong the first time.
 
 This script takes about ten minutes. Print the [Marvel Champions teach sheet](/academy/marvel-champions/teach-sheet/) and put it in the middle of the table. For general teaching habits, see [how to teach a board game](/articles/how-to-teach-a-board-game/).
 

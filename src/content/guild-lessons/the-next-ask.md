@@ -57,7 +57,7 @@ So before anyone stands up, you say:
 
 Look at what that does. "You pick the birds" hands her a small decision that is hers, which tends to make people want to show up. The description is in plain words with no hobby terms. The reason ties straight back to what she said she liked. And the day is a real day.
 
-It also climbs exactly one rung. Carcassonne taught her to build something over a game. Wingspan keeps that and adds one new idea: what you build makes your later turns stronger.
+It also climbs exactly one rung. [Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20) taught her to build something over a game. [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) keeps that and adds one new idea: what you build makes your later turns stronger.
 
 ## When they hesitate
 

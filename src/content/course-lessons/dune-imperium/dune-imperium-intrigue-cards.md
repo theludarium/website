@@ -11,7 +11,7 @@ oneIdea: "An Intrigue card works twice: once as a threat while it sits face down
 tryThis: "In your next game, keep a running count of how many Intrigue cards each opponent holds. Before every Conflict, add 2 or 3 to the ceiling of anyone holding one."
 nextTeaser: "Next, Uprising in depth, plus player counts and expansions: spies, contracts, worms, six players, and which boxes to add."
 ---
-Welcome to Level 3. You can build a deck, fight for the right Conflicts, and race the tracks. Advanced play is about what the table cannot see. Intrigue cards are the biggest source of hidden information in Dune: Imperium, and handling them well is a mark of a strong player.
+Welcome to Level 3. You can build a deck, fight for the right Conflicts, and race the tracks. Advanced play is about what the table cannot see. Intrigue cards are the biggest source of hidden information in [Dune: Imperium](https://www.amazon.com/dp/B08JHB9V72?tag=cubecommonw0a-20), and handling them well is a mark of a strong player.
 
 ## The three timings
 

@@ -12,7 +12,7 @@ tryThis: "This week, play one game or a few rounds online and keep a log: the po
 ---
 This is the last lesson of the course. You can teach the game, finish it in a day, plan a route to 10, play any faction, fight with known odds, draft a fair galaxy, and work the council. The next step is playing against people who do the same.
 
-Twilight Imperium has no single official circuit. Its competitive scene is mostly community events, local store tournaments, and online play. This lesson covers how those events tend to run, where to find a game, and a plan to get ready.
+[Twilight Imperium](https://www.amazon.com/dp/B074YPSTRP?tag=cubecommonw0a-20) has no single official circuit. Its competitive scene is mostly community events, local store tournaments, and online play. This lesson covers how those events tend to run, where to find a game, and a plan to get ready.
 
 ## How events tend to run
 

@@ -12,13 +12,13 @@ Learning how to run a board game cafe mostly means learning what not to do, and 
 
 The games get you in the door. Hospitality keeps the lights on. Owners who come from the hobby often spend their first year curating the perfect library and their second year realizing that the dishwasher, the point-of-sale system, and the Friday night staffing schedule are the real job.
 
-Hire for warmth first and game knowledge second. You can teach a kind person [Catan](https://link.amazon/B0h8BDGR2) in an afternoon. You cannot teach a Catan expert to be kind to a nervous first-timer.
+Hire for warmth first and game knowledge second. You can teach a kind person [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) in an afternoon. You cannot teach a Catan expert to be kind to a nervous first-timer.
 
 ## Lesson 2: The teach is the product
 
 Anyone can buy a board game. What people cannot buy is a patient person who will explain it in five minutes and then leave them alone. That person is your product. Pay them well, schedule enough of them, and train them to teach the same way every time.
 
-A good teach covers the goal, the turn, and one example, in that order. It does not cover edge cases. If your staff cannot get a table playing [Ticket to Ride](https://link.amazon/B0jh8RB7f) in under five minutes, that is a training problem to fix before anything else.
+A good teach covers the goal, the turn, and one example, in that order. It does not cover edge cases. If your staff cannot get a table playing [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) in under five minutes, that is a training problem to fix before anything else.
 
 ## Lesson 3: Decide your pricing model early and defend it
 
@@ -79,7 +79,7 @@ Measure it. How many first-timers came, how many came back, how many joined some
 
 ## Lesson 11: Corporate events are the margin
 
-Daytime hours are usually quiet, and a team of twelve from a nearby office will pay more for a two-hour facilitated session than a full Saturday night of covers. Companies want team-building that does not feel like team-building, and a well-run game of [Pandemic](https://link.amazon/B0eHP5GCg) or a round of The Crew shows a manager more about how their team communicates than a quarter of meetings.
+Daytime hours are usually quiet, and a team of twelve from a nearby office will pay more for a two-hour facilitated session than a full Saturday night of covers. Companies want team-building that does not feel like team-building, and a well-run game of [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20) or a round of The Crew shows a manager more about how their team communicates than a quarter of meetings.
 
 Build a simple offer: a facilitator, three games matched to the group's goals, a room, and food. Price it per head. The Ludarium offers this as a standalone service in Indianapolis ahead of its lounge, because the demand is there and the margins support everything else.
 

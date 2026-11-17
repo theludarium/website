@@ -47,7 +47,7 @@ Ages and player counts are the publishers' (names link to the publisher where on
 | [The Crew: Mission Deep Sea](https://link.amazon/B099S9RKf) | 10+ | 2 to 5 | 20 min | A card game where you win tricks on purpose, together, with almost no talking. |
 | [Magic Maze](https://www.amazon.com/dp/B08W9BV633?tag=cubecommonw0a-20) | 8+ | 1 to 8 | 15 min | Everyone moves the same pieces, in real time, without speaking. Chaotic and hilarious. |
 | [Mysterium](https://www.amazon.com/dp/B0F4YNPYQM?tag=cubecommonw0a-20) | 10+ | 3 to 7 | 45 min | One player is a ghost giving picture clues. The rest solve a murder. |
-| [Pandemic](https://link.amazon/B0eHP5GCg) | 8+ | 2 to 4 | 45 to 60 min | Cure four diseases before they spread. The one that started the modern co-op wave. |
+| [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20) | 8+ | 2 to 4 | 45 to 60 min | Cure four diseases before they spread. The one that started the modern co-op wave. |
 
 For siblings under eight, start with Outfoxed! and My First Castle Panic. For eight to twelve, Forbidden Island and then The Crew. The Crew in particular is special: it forces kids to pay attention to what their sibling needs without being allowed to say it out loud, which is a skill most adults lack. We have a whole piece on [why The Crew is such a good teaching game](/articles/the-crew-card-game/).
 

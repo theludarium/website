@@ -43,7 +43,7 @@ Before you reach for the shelf, answer three questions about the person, not the
 
 Picture three newcomers in your life.
 
-**The crossword lover.** She does the puzzle every morning and enjoys the moment a clue finally gives up its word. Give her [Codenames](/academy/codenames/). It is a word game at heart: a clue giver offers one word and a number, and the team hunts the grid for the words it points to. Her daily habit becomes a social one, and she may turn out to be the best clue giver at the table. With only two of you, the cooperative version, Codenames: Duet, keeps the same pleasure.
+**The crossword lover.** She does the puzzle every morning and enjoys the moment a clue finally gives up its word. Give her [Codenames](/academy/codenames/). It is a word game at heart: a clue giver offers one word and a number, and the team hunts the grid for the words it points to. Her daily habit becomes a social one, and she may turn out to be the best clue giver at the table. With only two of you, the cooperative version, [Codenames: Duet](https://www.amazon.com/dp/B0FJMNPGXM?tag=cubecommonw0a-20), keeps the same pleasure.
 
 **The poker player.** He likes reading faces, and he likes the moment where he decides whether to push. Give him a bluffing game, where what you claim and what you hold are different things. Or give him [Flip 7](/academy/flip-7/), a push-your-luck card game where each turn asks one question: take another card, or stop and keep what you have. He already knows that feeling in his stomach. Flip 7 just gives it a new deck.
 

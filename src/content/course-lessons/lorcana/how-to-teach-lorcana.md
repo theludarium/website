@@ -17,7 +17,7 @@ The fix is to teach the turn, play the turn, and let the cards teach themselves.
 
 ## Before you sit down
 
-Use two ready-made decks, like the pair in the 2-Player Starter Set. Never teach with a deck you built from random packs; a clunky deck makes the game look clunky.
+Use two ready-made decks, like the pair in the [2-Player Starter Set](https://www.amazon.com/dp/B0HFQBXVPD?tag=cubecommonw0a-20). Never teach with a deck you built from random packs; a clunky deck makes the game look clunky.
 
 Set out each player's lore tracker at 0, and something to mark damage, such as dice or coins. Shuffle both decks. Do not deal yet.
 

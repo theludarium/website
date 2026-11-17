@@ -35,7 +35,7 @@ The times below are for a table where at least one person has played before and 
 | [Skull](https://www.amazon.com/dp/B08R2BPLSN?tag=cubecommonw0a-20) | 3 to 6 | 15 to 30 min | Bluffing with four discs per player |
 | [No Thanks!](https://www.amazon.com/dp/B013FAC4FK?tag=cubecommonw0a-20) | 3 to 7 | 15 min | Take the card or pay a chip. That is the game |
 | [Coup](https://www.amazon.com/dp/B00GDI4HX4?tag=cubecommonw0a-20) | 2 to 6 | 15 min | Bluff about your roles and call the liars |
-| [Kingdomino](https://link.amazon/B08l49zvA) | 2 to 4 | 15 to 20 min | Build a five-by-five kingdom from dominoes |
+| [Kingdomino](https://www.amazon.com/dp/B01N3A4070?tag=cubecommonw0a-20) | 2 to 4 | 15 to 20 min | Build a five-by-five kingdom from dominoes |
 | [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) | 4 to 8+ | 15 min | Team word clues, teaches in a minute |
 | The Crew | 2 to 5 | 20 min | Cooperative trick-taking, one mission at a time |
 | [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20) | 3 to 7 | 20 min | Cooperative one-word clues |
@@ -44,7 +44,7 @@ The times below are for a table where at least one person has played before and 
 | [6 nimmt!](https://www.amazon.com/dp/B0CYTGQG9J?tag=cubecommonw0a-20) | 2 to 10 | 20 to 30 min | Simultaneous card play, avoid the bull heads |
 | [For Sale](https://www.amazon.com/dp/B001PQLNY0?tag=cubecommonw0a-20) | 3 to 6 | 20 min | Buy houses, sell them, two tight auctions |
 | [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20) | 2 | 30 min | Two-player trading at its fastest |
-| [Azul](https://link.amazon/B0bGRYHex) | 2 to 4 | 30 min | Right at the limit, worth every minute |
+| [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) | 2 to 4 | 30 min | Right at the limit, worth every minute |
 
 ### Love Letter
 

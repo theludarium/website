@@ -19,7 +19,7 @@ Before buying anything, agree on which of these four you want most often. Most c
 | Quiet | Low talk, low stakes, 20 to 30 minutes | [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20), [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20), [Lost Cities](https://www.amazon.com/dp/B00T0GY9CK?tag=cubecommonw0a-20) |
 | Competitive | Real head-to-head, bragging rights | [7 Wonders Duel](https://www.amazon.com/dp/B014DMSTXK?tag=cubecommonw0a-20), [Star Realms](https://www.amazon.com/dp/B00HRGMPIU?tag=cubecommonw0a-20), [Hive](https://www.amazon.com/dp/B000EN5ZLW?tag=cubecommonw0a-20) |
 | Cooperative | Same side, shared win or loss | The Crew, [Codenames: Duet](https://www.amazon.com/dp/B0FJMNPGXM?tag=cubecommonw0a-20), [Sky Team](https://www.amazon.com/dp/B0CHD8RCSJ?tag=cubecommonw0a-20) |
-| Hosting | Works at two, better at four | [Azul](https://link.amazon/B0bGRYHex), [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), [Cascadia](https://link.amazon/B0g1HYFt4) |
+| Hosting | Works at two, better at four | [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20), [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), [Cascadia](https://www.amazon.com/dp/B093H8RGXX?tag=cubecommonw0a-20) |
 
 The table is a starting point. The sections below explain why each game fits its column and who it will not suit.
 

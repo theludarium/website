@@ -24,11 +24,11 @@ An expansion is useless without its base game. A [Wingspan](https://www.amazon.c
 
 That is the whole logic. On a Shared Shelf, the group's copy of a game lives with one owner. Any expansion for that game belongs with the same owner, so the box, the expansion, and the person who knows how to set it up all stay together. Splitting an expansion from its base game across two houses means the group needs both people present to play the full game. Keeping them together means one person brings one bag.
 
-This is also why [Claim a Lane](/articles/claim-a-lane/) matters for gifting. When each person owns a lane, it is obvious where every expansion goes. The co-op owner has [Pandemic](https://link.amazon/B0eHP5GCg), so Pandemic expansions go to the co-op owner. Nobody has to think about it.
+This is also why [Claim a Lane](/articles/claim-a-lane/) matters for gifting. When each person owns a lane, it is obvious where every expansion goes. The co-op owner has [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20), so Pandemic expansions go to the co-op owner. Nobody has to think about it.
 
 ## Why is a $25 expansion a group asset?
 
-Here is an illustration. Say the group's copy of [Carcassonne](https://link.amazon/B012Rr5ed) has been played thirty times. The owner paid about $32 (its typical price at major retailers at the time of writing), so by cost per play it has already earned its keep. Now a friend gives the owner a $25 expansion for their birthday.
+Here is an illustration. Say the group's copy of [Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20) has been played thirty times. The owner paid about $32 (its typical price at major retailers at the time of writing), so by cost per play it has already earned its keep. Now a friend gives the owner a $25 expansion for their birthday.
 
 Nothing about that gift stays private. The next ten plays of Carcassonne are the expanded version, and all four people at the table get it. The $25 was spent by one person, received by another, and enjoyed by four. Divided across the table, it is one of the cheapest ways to add new play to a game the group already loves.
 
@@ -71,7 +71,7 @@ Gifting into a shared library has a few rules that a normal gift does not. They 
 
 - **The gift is the recipient's.** An expansion you give to the co-op owner belongs to the co-op owner. It lives with the base game. If they leave the group, it leaves with them, same as in [The Shared Shelf Social Contract](/articles/shared-shelf-social-contract/). Give it freely or do not give it.
 - **Ask before gifting outside a lane.** If you want to give the party owner a heavy strategy game, check first. It may be a wonderful gift, but it may also sit unplayed because the group already reaches for the strategy owner's shelf for that kind of night.
-- **Do not gift duplicates.** Check the pooled shelf. Always. A gifted second copy of [Catan](https://link.amazon/B0h8BDGR2) is the most avoidable gift in the hobby.
+- **Do not gift duplicates.** Check the pooled shelf. Always. A gifted second copy of [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) is the most avoidable gift in the hobby.
 - **Group gifts need one organizer.** Someone collects the money, buys the game, and hands it over. Four separate Venmo threads is how a group gift turns into three gifts and an apology.
 - **A gifted expansion is not an obligation to play it.** The group decides what hits the table. If the expansion turns out to be a dud, say so kindly and move on. The base game is still great.
 - **Accessories are always welcome.** Sleeves, inserts, bags, a good timer. Few people buy these for themselves, most are glad to have them, and they make a shared game survive more hands.

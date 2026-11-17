@@ -11,7 +11,7 @@ oneIdea: "Teach the rhythm, not the rulebook. Show one turn, let people play, an
 tryThis: "Print the teach sheet, put it in the middle of the table, and keep your teach under ten minutes by stopping after the first example turn."
 nextTeaser: "Next, the last piece of Level 0: scoring a full game by hand, so the final count is calm, quick, and correct."
 ---
-[Carcassonne](https://link.amazon/B012Rr5ed) is one of the easiest games to teach badly. The rules are short, so hosts read them all out, farmers and final scoring included, before anyone has touched a tile. The table's eyes glaze over by the second coat of arms.
+[Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20) is one of the easiest games to teach badly. The rules are short, so hosts read them all out, farmers and final scoring included, before anyone has touched a tile. The table's eyes glaze over by the second coat of arms.
 
 The fix is to teach the turn, play the turn, and let the game do the rest. Here is a script in the order you would say it, with the moments to stop talking. Print the [Carcassonne teach sheet](/academy/carcassonne/teach-sheet/) and set it where everyone can see it.
 

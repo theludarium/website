@@ -6,7 +6,7 @@ category: Togethering
 tags: ["leadership assessment games", "Pandemic board game leadership", "identifying leaders on a team", "leadership potential signs", "cooperative games for leadership training", "informal leadership assessment", "Games for the workplace"]
 draft: false
 ---
-Leadership assessment games work because a cooperative board game creates a small, honest version of a crisis. In [Pandemic](https://link.amazon/B0eHP5GCg), four people share one goal, limited time, and incomplete information. Someone has to propose a plan. Someone has to disagree. Someone has to notice the thing everyone missed. Within forty-five minutes, you will have seen each of those moments, and you will know who did what.
+Leadership assessment games work because a cooperative board game creates a small, honest version of a crisis. In [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20), four people share one goal, limited time, and incomplete information. Someone has to propose a plan. Someone has to disagree. Someone has to notice the thing everyone missed. Within forty-five minutes, you will have seen each of those moments, and you will know who did what.
 
 This is a guide for managers and HR leads who want a better read on emerging leaders than a performance review provides. It is not a replacement for proper assessment. It is a lens that most organizations never think to use.
 

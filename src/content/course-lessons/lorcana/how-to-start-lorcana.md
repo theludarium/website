@@ -55,7 +55,7 @@ Three ways to try Lorcana before you spend much:
 
 **Booster packs as a way to build a deck.** Each pack is random. Open them for fun, not as a plan. The [upgrades lesson](/academy/lorcana/lorcana-deck-upgrades/) shows how to add cards on purpose.
 
-**Illumineer's Trove boxes.** The Hyperia City trove holds 8 booster packs and damage dice in a full art box. It makes a lovely gift for someone who already plays, and a good kit for a sealed game at home. It is not a first deck.
+**Illumineer's Trove boxes.** The [Hyperia City](https://www.amazon.com/dp/B0HFPF8CPH?tag=cubecommonw0a-20) trove holds 8 booster packs and damage dice in a full art box. It makes a lovely gift for someone who already plays, and a good kit for a sealed game at home. It is not a first deck.
 
 **The Collection Starter Set.** The edition on the official site holds a collector's portfolio, a guide, 4 booster packs, and a special edition promo card. That is a starter for collecting, and a fine one. It does not give you a deck to play.
 

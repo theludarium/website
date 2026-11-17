@@ -40,7 +40,7 @@ Card sizes below come from the Sleeve Kings card size chart, which lists the mea
 | 7 Wonders | 65 x 100 | 7 Wonders, 7 Wonders Duel wonder cards, Coup |
 | Small square | 70 x 70 | Power Grid, Codenames square cards |
 | Lost Cities | 70 x 110 | Lost Cities, Scythe's large cards |
-| Tarot | 70 x 120 | [Cascadia](https://link.amazon/B0g1HYFt4), [Harmonies](https://www.amazon.com/dp/B0CVNPHPZY?tag=cubecommonw0a-20) |
+| Tarot | 70 x 120 | [Cascadia](https://www.amazon.com/dp/B093H8RGXX?tag=cubecommonw0a-20), [Harmonies](https://www.amazon.com/dp/B0CVNPHPZY?tag=cubecommonw0a-20) |
 
 A few games use several sizes in one box. Codenames uses three: small word cards, a few larger cards, and square key cards. Dune: Imperium has mini Euro, standard, and a few oversized cards. The Crew mixes mini Euro and standard USA. When a game needs more than one size, Mayday Games and Sleeve Kings both sell bundles sorted by game, which saves the math.
 

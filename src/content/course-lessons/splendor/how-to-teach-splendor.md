@@ -11,7 +11,7 @@ oneIdea: "Teach the four actions, then show one discounted purchase with real pi
 tryThis: "Print the teach sheet, set it in the middle of the table, and do the discount demonstration with real cards before anyone takes a turn."
 nextTeaser: "Next, your first three games. We cover the mistakes almost every new table makes, so you can spot them before they cost anyone the race."
 ---
-[Splendor](https://link.amazon/B0fEvY6Wg) teaches fast because there are only four things you can do. The trap is teaching all four, then nobles, then the ten-piece limit, then the tiebreaker, before anyone has touched a gem. By the end, people have forgotten the beginning.
+[Splendor](https://www.amazon.com/dp/B00IZEUFIA?tag=cubecommonw0a-20) teaches fast because there are only four things you can do. The trap is teaching all four, then nobles, then the ten-piece limit, then the tiebreaker, before anyone has touched a gem. By the end, people have forgotten the beginning.
 
 Teach the four actions, show one purchase with a discount, and start. Here is a script in the order you would say it, with the moments to stop talking. Print the [Splendor teach sheet](/academy/splendor/teach-sheet/) and set it where everyone can see it.
 

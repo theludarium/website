@@ -7,7 +7,7 @@ games: [azul, sagrada]
 tags: ["Azul vs Sagrada", "best abstract board game", "Sagrada or Azul", "tile laying games", "dice drafting games", "pretty board games for couples", "Comparisons"]
 draft: false
 ---
-[Azul](https://link.amazon/B0bGRYHex) vs [Sagrada](https://www.amazon.com/dp/B0GL8V2VFD?tag=cubecommonw0a-20) comes up because the two games sit next to each other in every store, look like they belong in a museum gift shop, and arrived within a year of each other. Both are drafting games. Both end with a colorful pattern in front of you. Both play in under 45 minutes and both get bought as gifts for people who "like pretty things."
+[Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) vs [Sagrada](https://www.amazon.com/dp/B0GL8V2VFD?tag=cubecommonw0a-20) comes up because the two games sit next to each other in every store, look like they belong in a museum gift shop, and arrived within a year of each other. Both are drafting games. Both end with a colorful pattern in front of you. Both play in under 45 minutes and both get bought as gifts for people who "like pretty things."
 
 They are not the same game. Azul is a sharp, interactive puzzle where you can hurt the person next to you. Sagrada is a gentle, personal puzzle where the main opponent is your own earlier decisions. Here is how they differ and which one to buy.
 

@@ -120,11 +120,11 @@ An award is a snapshot of one year. Some winners from the 1980s are hard to find
 
 ### The gateway classics
 
-**[Ticket to Ride](https://link.amazon/B0jh8RB7f) (2004).** Collect colored train cards and claim routes across a map. 2 to 5 players, and the rules fit on one page. It is one of the most successful gateway games ever made. Learn it in our [Ticket to Ride course](/academy/ticket-to-ride/).
+**[Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) (2004).** Collect colored train cards and claim routes across a map. 2 to 5 players, and the rules fit on one page. It is one of the most successful gateway games ever made. Learn it in our [Ticket to Ride course](/academy/ticket-to-ride/).
 
-**[Carcassonne](https://link.amazon/B012Rr5ed) (2001).** Draw a tile, add it to the landscape, and place a meeple to claim a road, city, or field. 2 to 5 players, calm and endlessly replayable. Start with our [Carcassonne course](/academy/carcassonne/).
+**[Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20) (2001).** Draw a tile, add it to the landscape, and place a meeple to claim a road, city, or field. 2 to 5 players, calm and endlessly replayable. Start with our [Carcassonne course](/academy/carcassonne/).
 
-**[Catan](https://link.amazon/B0h8BDGR2) (1995).** The game that brought modern board games to the world. Trading and building still create more table talk than almost anything else. Our [Catan course](/academy/catan/) teaches it and its strategy.
+**[Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) (1995).** The game that brought modern board games to the world. Trading and building still create more table talk than almost anything else. Our [Catan course](/academy/catan/) teaches it and its strategy.
 
 ### The party picks
 
@@ -138,11 +138,11 @@ An award is a snapshot of one year. Some winners from the 1980s are hard to find
 
 ### The quiet puzzlers
 
-**[Azul](https://link.amazon/B0bGRYHex) (2018).** Draft colorful tiles to build a wall pattern, and try not to take too many. For 2 to 4, and gorgeous on a table. Our [Azul course](/academy/azul/) starts with the rules.
+**[Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) (2018).** Draft colorful tiles to build a wall pattern, and try not to take too many. For 2 to 4, and gorgeous on a table. Our [Azul course](/academy/azul/) starts with the rules.
 
-**[Kingdomino](https://link.amazon/B08l49zvA) (2017).** Build a small kingdom from domino tiles in about 15 minutes. One of the best family games ever made, and it plays across generations. See our [Kingdomino course](/academy/kingdomino/).
+**[Kingdomino](https://www.amazon.com/dp/B01N3A4070?tag=cubecommonw0a-20) (2017).** Build a small kingdom from domino tiles in about 15 minutes. One of the best family games ever made, and it plays across generations. See our [Kingdomino course](/academy/kingdomino/).
 
-**[Cascadia](https://link.amazon/B0g1HYFt4) (2022).** Place habitat tiles and wildlife tokens to build a Pacific Northwest landscape. For 1 to 4, relaxing yet clever. Our [Cascadia course](/academy/cascadia/) covers rules and scoring.
+**[Cascadia](https://www.amazon.com/dp/B093H8RGXX?tag=cubecommonw0a-20) (2022).** Place habitat tiles and wildlife tokens to build a Pacific Northwest landscape. For 1 to 4, relaxing yet clever. Our [Cascadia course](/academy/cascadia/) covers rules and scoring.
 
 **[Qwirkle](https://www.amazon.com/dp/1933054395?tag=cubecommonw0a-20) (2011).** Match lines of chunky wooden blocks by color or shape. No reading, simple rules, great with grandparents.
 

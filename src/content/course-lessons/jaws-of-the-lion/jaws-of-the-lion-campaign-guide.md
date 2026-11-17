@@ -11,7 +11,7 @@ oneIdea: "Between scenarios, Jaws of the Lion is a small engine of gold, items, 
 tryThis: "After your next scenario, have each player say aloud the one upgrade they are saving toward: an item, a perk, or a level."
 nextTeaser: "Level 4 opens with player counts and difficulty: how the scenario level works, and how to make the game easier or harder on purpose."
 ---
-Jaws of the Lion is a campaign, not a stack of one-off games. Each scenario changes the city map, your characters, and which scenarios come next. This lesson explains how that structure works, using only what the Learn to Play Guide shows in its first five scenarios. **No spoilers:** it names no later scenarios, enemies, or story events.
+[Jaws of the Lion](https://www.amazon.com/dp/B088QSDB7S?tag=cubecommonw0a-20) is a campaign, not a stack of one-off games. Each scenario changes the city map, your characters, and which scenarios come next. This lesson explains how that structure works, using only what the Learn to Play Guide shows in its first five scenarios. **No spoilers:** it names no later scenarios, enemies, or story events.
 
 ## The shape of the campaign
 

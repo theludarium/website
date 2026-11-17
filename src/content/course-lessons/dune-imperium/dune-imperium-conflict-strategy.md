@@ -11,7 +11,7 @@ oneIdea: "Every troop you send into a Conflict is spent, win or lose. Price the 
 tryThis: "Before you deploy in your next three games, say out loud the reward you are fighting for and how many troops you will spend. Afterward, check whether the trade was worth it."
 nextTeaser: "Next, Influence and Alliances: the four tracks, the 4 Influence bonuses, and how to win a race without overpaying."
 ---
-Conflicts are the loudest part of Dune: Imperium, and the easiest place to waste a game. The [midgame lesson](/academy/dune-imperium/dune-imperium-midgame-strategy/) showed how to read everyone's possible strength. This lesson is about the other half of the decision: whether a fight is worth what it costs you.
+Conflicts are the loudest part of [Dune: Imperium](https://www.amazon.com/dp/B08JHB9V72?tag=cubecommonw0a-20), and the easiest place to waste a game. The [midgame lesson](/academy/dune-imperium/dune-imperium-midgame-strategy/) showed how to read everyone's possible strength. This lesson is about the other half of the decision: whether a fight is worth what it costs you.
 
 ## The shape of the Conflict deck
 

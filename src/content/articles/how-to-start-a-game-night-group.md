@@ -12,7 +12,7 @@ That sounds too simple to be the whole answer. It nearly is. Most game nights di
 
 ## Why do most game nights fade out after three sessions?
 
-A first game night usually goes well. The host picks a crowd-pleaser like [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) or [Ticket to Ride](https://link.amazon/B0jh8RB7f), people laugh, someone says "we should do this more often." Then the second one takes three weeks of texting to schedule. The third one gets cancelled when two people drop out. There is no fourth.
+A first game night usually goes well. The host picks a crowd-pleaser like [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) or [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20), people laugh, someone says "we should do this more often." Then the second one takes three weeks of texting to schedule. The third one gets cancelled when two people drop out. There is no fourth.
 
 The problem is not interest. The problem is that every session requires a fresh decision from every person. Each decision is a chance to say no. Multiply that by six people and a dozen sessions, and the odds run out.
 
@@ -49,7 +49,7 @@ A small shelf covers most nights. Something like this:
 | Player count | Reliable picks | Teach time |
 |---|---|---|
 | 2 | [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20), Jaipur, 7 Wonders Duel | 5 min |
-| 3 to 4 | [Azul](https://link.amazon/B0bGRYHex), [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), The Crew, [Cascadia](https://link.amazon/B0g1HYFt4) | 5 to 15 min |
+| 3 to 4 | [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20), [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), The Crew, [Cascadia](https://www.amazon.com/dp/B093H8RGXX?tag=cubecommonw0a-20) | 5 to 15 min |
 | 5 to 6 | Codenames, [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20), [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20), Ticket to Ride | 5 min |
 | 7+ | Codenames, Wavelength, [Decrypto](https://www.amazon.com/dp/B07BB4ND6J?tag=cubecommonw0a-20), [Skull](https://www.amazon.com/dp/B08R2BPLSN?tag=cubecommonw0a-20) | 5 min |
 

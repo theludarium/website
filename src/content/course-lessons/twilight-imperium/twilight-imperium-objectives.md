@@ -11,7 +11,7 @@ oneIdea: "Twilight Imperium is a race, not a war. Every round, count the points 
 tryThis: "At the start of each action phase in your next game, write down the objectives you will score this round and what you still need for each. Check them off as you go."
 nextTeaser: "Level 3 starts with the factions: all 24, what each one wants, and a short list of the best ones to learn on."
 ---
-Many new players treat Twilight Imperium as a war game and spend the first rounds building fleets. Then someone quiet scores their way to 10 while everyone else fights. Points win the game, and almost all points come from objectives. This lesson shows how to read them and plan a route.
+Many new players treat [Twilight Imperium](https://www.amazon.com/dp/B074YPSTRP?tag=cubecommonw0a-20) as a war game and spend the first rounds building fleets. Then someone quiet scores their way to 10 while everyone else fights. Points win the game, and almost all points come from objectives. This lesson shows how to read them and plan a route.
 
 ## Where the points come from
 

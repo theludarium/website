@@ -23,7 +23,7 @@ The Catan 5 to 6 player extension is the classic example. It adds nothing to the
 
 ### More content
 
-More cards, more tiles, more scenarios, more of the same. [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) expansions add new kingdom cards; [Ticket to Ride](https://link.amazon/B0jh8RB7f) maps add new boards; [Carcassonne](https://link.amazon/B012Rr5ed) adds new tiles. The game plays the same way with more variety. This type is the most common and the most likely to sit unplayed, because the base game already had enough variety for most groups.
+More cards, more tiles, more scenarios, more of the same. [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) expansions add new kingdom cards; [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) maps add new boards; [Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20) adds new tiles. The game plays the same way with more variety. This type is the most common and the most likely to sit unplayed, because the base game already had enough variety for most groups.
 
 ### New mechanics
 
@@ -75,7 +75,7 @@ Expansions become traps in a few predictable ways.
 
 **Replacing variety with volume.** Some expansions add so much content that the thing you liked, a tight set of well-balanced options, disappears into a pile. More is not always better. Sometimes the base game was already the best version.
 
-**Buying an expansion for a game you play elsewhere.** If you only play [Pandemic](https://link.amazon/B0eHP5GCg) at a friend's house, buying its expansion for your own shelf makes no sense. You do not own the base game, and the expansion cannot be played without it. This happens more than you would think.
+**Buying an expansion for a game you play elsewhere.** If you only play [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20) at a friend's house, buying its expansion for your own shelf makes no sense. You do not own the base game, and the expansion cannot be played without it. This happens more than you would think.
 
 **Expansion-only exclusives.** A single promo card or a handful of alternate pieces sold at expansion prices. Ask whether you would notice the difference at the table.
 

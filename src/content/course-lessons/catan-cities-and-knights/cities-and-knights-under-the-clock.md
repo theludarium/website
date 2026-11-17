@@ -11,7 +11,7 @@ oneIdea: "A Cities & Knights turn has more steps than a base Catan turn, and the
 tryThis: "Time your next home game from first placement to the winning turn, and write down the number. Then play the next one with the routine in this lesson and compare."
 nextTeaser: "Next, table talk: reading who is really winning when the score is public, the catch-up cards that punish the leader, and what to do about kingmaking."
 ---
-A tournament runs on a schedule. The Mind Sports Olympiad's 2026 Cities & Knights event fit two rounds into one day session from 10:00 to 18:00, with the final in the evening. The organizers also re-rolled 7s until every player had taken two turns, and said why: without that rule, games run longer and the event overruns. When an organizer changes the rules to save time, that tells you how long this game can get.
+A tournament runs on a schedule. The Mind Sports Olympiad's 2026 [Cities & Knights](https://www.amazon.com/dp/B0DY87W8SS?tag=cubecommonw0a-20) event fit two rounds into one day session from 10:00 to 18:00, with the final in the evening. The organizers also re-rolled 7s until every player had taken two turns, and said why: without that rule, games run longer and the event overruns. When an organizer changes the rules to save time, that tells you how long this game can get.
 
 You cannot make the game shorter. You can make your share of it shorter, and you can stop the clock from deciding your close calls for you.
 

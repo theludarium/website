@@ -11,7 +11,7 @@ oneIdea: "A gold tile pays its value once for every set you make, and the first 
 tryThis: "At setup in your next game, read all four gold tile faces and pick the one your opening hand points toward. Check at 25 points whether it is still the right one."
 nextTeaser: "Level 5 begins with the solo game: how the rival works, what each difficulty adds, and how to beat the objective stack."
 ---
-SETI is a game of many small scores: 3 points here, 2 there, 5 for a discovery space. The gold tiles are where those habits turn into big end-game numbers. This lesson covers the scoring rules from the English rulebook (October 2024) and the official FAQ, then how to choose your tiles.
+[SETI](https://www.amazon.com/dp/B0CZBCRC3S?tag=cubecommonw0a-20) is a game of many small scores: 3 points here, 2 there, 5 for a discovery space. The gold tiles are where those habits turn into big end-game numbers. This lesson covers the scoring rules from the English rulebook (October 2024) and the official FAQ, then how to choose your tiles.
 
 ## Points during play
 

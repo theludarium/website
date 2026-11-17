@@ -11,7 +11,7 @@ oneIdea: "Competitive Cascadia is the same game you play at home, at a four-play
 tryThis: "Play five games this month with all five scoring cards drawn at random, as tournaments do, and track your average score from game to game."
 nextTeaser: "Last, tournament strategy: how a winners-only heat changes your goals, how to use the two-hour round, and a six-week plan to get ready."
 ---
-[Cascadia](https://link.amazon/B0g1HYFt4) looks like a gentle family game, and it is one. It also has a real tournament at the World Boardgaming Championships, and a digital version where you can play people around the world. You do not need to win anything to enjoy them. But knowing they exist changes how you look at the game at home.
+[Cascadia](https://www.amazon.com/dp/B093H8RGXX?tag=cubecommonw0a-20) looks like a gentle family game, and it is one. It also has a real tournament at the World Boardgaming Championships, and a digital version where you can play people around the world. You do not need to win anything to enjoy them. But knowing they exist changes how you look at the game at home.
 
 ## How tournament Cascadia differs from home play
 

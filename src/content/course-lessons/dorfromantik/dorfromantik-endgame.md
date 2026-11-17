@@ -11,7 +11,7 @@ oneIdea: "The last stretch of Dorfromantik is a different game. Stop growing, st
 tryThis: "When the Landscape stack drops to about 12 tiles, pause and say three things out loud: which Flags must close, which open tasks can still finish, and which ones you will give up."
 nextTeaser: "Next, the campaign, spoiler free: how the High Score List, the Advancement track, the boxes, and the Achievement cards fit together."
 ---
-Most of a game of Dorfromantik is about growing: bigger territories, longer lines, more tasks. The last stretch flips that. Every tile you still hold is a chance to finish something, and anything left open when the stack runs out scores less or nothing. This lesson is about that turn, and about the rule that can stretch the ending by several tiles.
+Most of a game of [Dorfromantik](https://www.amazon.com/dp/B0BQ3W9GRL?tag=cubecommonw0a-20) is about growing: bigger territories, longer lines, more tasks. The last stretch flips that. Every tile you still hold is a chance to finish something, and anything left open when the stack runs out scores less or nothing. This lesson is about that turn, and about the rule that can stretch the ending by several tiles.
 
 ## How the game ends, exactly
 

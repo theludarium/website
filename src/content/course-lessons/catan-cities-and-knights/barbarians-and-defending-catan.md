@@ -11,7 +11,7 @@ oneIdea: "The barbarian attack is a sum you can do before it happens: cities on 
 tryThis: "Every time the ship moves in your next game, say two numbers out loud: cities on the board, and active knight strength on the board."
 nextTeaser: "Next, commodities and city improvements: how the tracks work, what the progress card odds look like, and why level 3 changes your game."
 ---
-Every Cities & Knights game has a clock built into it: the barbarian ship. It moves when the event die shows a ship, and when it lands, the whole island is tested at once. This lesson covers the attack rules from the 6th edition rulebook, the odds of the ship moving, and how to make sure you are never the one who pays.
+Every [Cities & Knights](https://www.amazon.com/dp/B0DY87W8SS?tag=cubecommonw0a-20) game has a clock built into it: the barbarian ship. It moves when the event die shows a ship, and when it lands, the whole island is tested at once. This lesson covers the attack rules from the 6th edition rulebook, the odds of the ship moving, and how to make sure you are never the one who pays.
 
 ## How the ship moves
 

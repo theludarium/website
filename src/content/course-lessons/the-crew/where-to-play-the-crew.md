@@ -22,7 +22,7 @@ The Crew does not need a tournament scene to be worth mastering. Its best stage 
 
 ## Play online
 
-Board Game Arena has The Quest for Planet Nine, free to play for 2 to 5 players, and Mission Deep Sea too. Online tables are a good place to practice counting and signals, and to keep a campaign going with friends who live far away.
+Board Game Arena has The Quest for Planet Nine, free to play for 2 to 5 players, and [Mission Deep Sea](https://link.amazon/B099S9RKf) too. Online tables are a good place to practice counting and signals, and to keep a campaign going with friends who live far away.
 
 ## Bringing The Crew to a new group
 

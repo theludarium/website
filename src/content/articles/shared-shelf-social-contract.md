@@ -62,7 +62,7 @@ The contract should separate the two things people conflate here: hosting and co
 
 - **Own the portable lanes.** Fillers and two-player games travel. The non-host can be the one who always has three small games in a bag.
 - **Be the sweeper.** Arrive early to help set up, stay late to help sort pieces back into the right bags.
-- **Fund an expansion.** If the host owns the group's [Carcassonne](https://link.amazon/B012Rr5ed), the non-host buys the next expansion for it. This is the heart of [Gifting as Library Strategy](/articles/gifting-as-library-strategy/).
+- **Fund an expansion.** If the host owns the group's [Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20), the non-host buys the next expansion for it. This is the heart of [Gifting as Library Strategy](/articles/gifting-as-library-strategy/).
 - **Bring the snacks.** Not a joke. Hosting costs money and time, and groceries are a real contribution.
 
 Say this out loud so the non-host does not feel guilty and the host does not feel used. That conversation, once, saves months of quiet resentment.

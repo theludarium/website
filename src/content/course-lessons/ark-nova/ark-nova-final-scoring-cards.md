@@ -60,6 +60,6 @@ You cannot see a rival's Final Scoring card, but their zoo often gives it away. 
 
 ## Expansion note
 
-Ark Nova: Marine Worlds adds new Final Scoring cards. If you play with it, the same method works: count where you are, keep the fit, and steer the last step.
+[Ark Nova: Marine Worlds](https://www.amazon.com/dp/B0C82CNHDY?tag=cubecommonw0a-20) adds new Final Scoring cards. If you play with it, the same method works: count where you are, keep the fit, and steer the last step.
 
 <!-- AT OUR TABLE: one line on the Final Scoring card Levi's group finds easiest to steer, and the one they always discard. -->

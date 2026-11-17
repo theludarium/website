@@ -56,9 +56,9 @@ See [card drafting explained](/articles/card-drafting-explained/), plus [how to 
 
 **What it is:** you draw or choose a tile and add it to a shared map or your own personal area, matching edges or patterns. The board is built during play, so no two games look the same.
 
-**Classic example:** [Carcassonne](https://link.amazon/B012Rr5ed), by Klaus-Jürgen Wrede, where cities, roads, and fields grow tile by tile.
+**Classic example:** [Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20), by Klaus-Jürgen Wrede, where cities, roads, and fields grow tile by tile.
 
-**Good first game:** [Kingdomino](https://link.amazon/B08l49zvA). A short, friendly game of building a five-by-five kingdom.
+**Good first game:** [Kingdomino](https://www.amazon.com/dp/B01N3A4070?tag=cubecommonw0a-20). A short, friendly game of building a five-by-five kingdom.
 
 Our guide to [tile placement board games](/articles/tile-placement-board-games/) covers the family. Learn [how to play Carcassonne](/academy/carcassonne/how-to-play-carcassonne/), [Kingdomino](/academy/kingdomino/how-to-play-kingdomino/), or [Cascadia](/academy/cascadia/how-to-play-cascadia/).
 
@@ -68,7 +68,7 @@ Our guide to [tile placement board games](/articles/tile-placement-board-games/)
 
 **Classic example:** [Race for the Galaxy](https://www.amazon.com/dp/B000YLAOEW?tag=cubecommonw0a-20), a card game where your tableau of worlds and developments powers each round.
 
-**Good first game:** [Splendor](https://link.amazon/B0fEvY6Wg). Buy gem cards that make the next cards cheaper; the engine is easy to see.
+**Good first game:** [Splendor](https://www.amazon.com/dp/B00IZEUFIA?tag=cubecommonw0a-20). Buy gem cards that make the next cards cheaper; the engine is easy to see.
 
 Read [engine building games explained](/articles/engine-building-games/), then [how to play Splendor](/academy/splendor/how-to-play-splendor/) or [how to play Wingspan](/academy/wingspan/how-to-play-wingspan/).
 
@@ -90,7 +90,7 @@ See [area control board games](/articles/area-control-board-games/) and [area ma
 
 **Good first game:** [Point Salad](https://www.amazon.com/dp/B07PGQKT5V?tag=cubecommonw0a-20), a quick card game where every vegetable card can also be a scoring card.
 
-[Ticket to Ride](https://link.amazon/B0jh8RB7f) uses set collection too: you collect colored train cards to claim routes.
+[Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) uses set collection too: you collect colored train cards to claim routes.
 
 ### 8. Push your luck
 
@@ -126,7 +126,7 @@ Read [why The Crew is the best teaching game](/articles/the-crew-card-game/) and
 
 **What it is:** everyone plays on the same team against the game itself. You win or lose together.
 
-**Classic example:** [Pandemic](https://link.amazon/B0eHP5GCg), by Matt Leacock.
+**Classic example:** [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20), by Matt Leacock.
 
 **Good first game:** [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20), Leacock's lighter treasure hunt. For two players, [Sky Team](https://www.amazon.com/dp/B0CHD8RCSJ?tag=cubecommonw0a-20).
 
@@ -222,7 +222,7 @@ Lords of Waterdeep is a classic first worker placement game. Everdell adds a cha
 
 ### What are tile placement board games?
 
-Games where you lay tiles to build a shared map or your own area, often matching edges or patterns. Carcassonne, Kingdomino, and [Cascadia](https://link.amazon/B0g1HYFt4) are popular examples.
+Games where you lay tiles to build a shared map or your own area, often matching edges or patterns. Carcassonne, Kingdomino, and [Cascadia](https://www.amazon.com/dp/B093H8RGXX?tag=cubecommonw0a-20) are popular examples.
 
 ### Is luck a game mechanic?
 

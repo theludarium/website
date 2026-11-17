@@ -11,7 +11,7 @@ oneIdea: "Most first-game trouble comes from two places: small rules slips aroun
 tryThis: "In each of your next three games, say your Life total out loud every time you decide whether to Yield. Notice the number where you start wishing you had left."
 nextTeaser: "Next, openings: how to use your rerolls, when Energy beats points, and whether you want to be the first Monster in Tokyo."
 ---
-Welcome to Level 1. Your first three games of [King of Tokyo](https://link.amazon/B0goO6BQA) are loud, quick, and full of habits forming. Some of those habits are rules played wrong because nobody checked. Others are legal moves that quietly hand the game to someone else. This lesson covers both, checked against the current IELLO rulebook and its card clarifications.
+Welcome to Level 1. Your first three games of [King of Tokyo](https://www.amazon.com/dp/B01F46RPS4?tag=cubecommonw0a-20) are loud, quick, and full of habits forming. Some of those habits are rules played wrong because nobody checked. Others are legal moves that quietly hand the game to someone else. This lesson covers both, checked against the current IELLO rulebook and its card clarifications.
 
 ## Rules slips to catch early
 

@@ -11,7 +11,7 @@ oneIdea: "Before the first Epidemic, an ordinary infection cannot cause an outbr
 tryThis: "In your next game, before anyone moves, name the three 3-cube cities out loud and agree which player will deal with each one before the first Epidemic."
 nextTeaser: "Next, getting around: what each kind of move really costs, and where research stations save the team the most cards."
 ---
-[Pandemic](https://link.amazon/B0eHP5GCg) has no fixed opening. The cities, roles, and cards change every game. But the first few turns follow a pattern that the rules themselves create, and once you see it, your opening stops being a scramble.
+[Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20) has no fixed opening. The cities, roles, and cards change every game. But the first few turns follow a pattern that the rules themselves create, and once you see it, your opening stops being a scramble.
 
 ## Read the board before turn one
 

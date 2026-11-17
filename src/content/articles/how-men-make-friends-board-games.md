@@ -32,11 +32,11 @@ What is left needs to be cheap, indoors, available on a weeknight, and not depen
 
 A game night solves the specific problems men run into when trying to make friends. Here is how.
 
-**It gives you a reason to ask.** "Want to come over Thursday? A few of us are playing [Catan](https://link.amazon/B0h8BDGR2)" is an invitation to a thing, not a request for intimacy. The other person can say yes without either of you acknowledging that you are lonely.
+**It gives you a reason to ask.** "Want to come over Thursday? A few of us are playing [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20)" is an invitation to a thing, not a request for intimacy. The other person can say yes without either of you acknowledging that you are lonely.
 
-**It gives you somewhere to look.** Eye contact is hard. A board between you is a relief. You are studying the map in [Ticket to Ride](https://link.amazon/B0jh8RB7f), not each other's faces. Conversation that happens while your hands are busy feels safer.
+**It gives you somewhere to look.** Eye contact is hard. A board between you is a relief. You are studying the map in [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20), not each other's faces. Conversation that happens while your hands are busy feels safer.
 
-**It gives you a shared enemy.** Cooperative games like [Pandemic](https://link.amazon/B0eHP5GCg) or The Crew put everyone on one side against the game. Nothing bonds men faster than a common problem. You will remember the night you barely cured the fourth disease long after you forget what you talked about.
+**It gives you a shared enemy.** Cooperative games like [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20) or The Crew put everyone on one side against the game. Nothing bonds men faster than a common problem. You will remember the night you barely cured the fourth disease long after you forget what you talked about.
 
 **It makes repetition natural.** Friendship needs many hours, and [research by Jeffrey Hall at the University of Kansas](https://news.ku.edu/2018/03/06/study-reveals-number-hours-it-takes-make-friend) suggests it takes more than 200 hours of time together to turn an acquaintance into a close friend. A game night that recurs every other week banks those hours without anyone having to plan a new activity each time.
 

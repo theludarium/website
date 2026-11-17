@@ -24,7 +24,7 @@ levelCheck:
     explain: "The robber takes 1 random resource card from a player with a building on its new hex. Development cards are safe from the robber."
 nextTeaser: "Next, the finish line. Lesson 5 lays out every way to score, from settlements and cities to Longest Route, Largest Army, and hidden Victory Point cards."
 ---
-Every [Catan](https://link.amazon/B0h8BDGR2) table has felt it. Someone rolls, the dice show 7, and half the table groans. Nobody collects, somebody loses cards, and a small gray robber goes looking for a victim. This lesson explains exactly what happens on a 7, then covers the development cards, which are the other big source of surprises.
+Every [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) table has felt it. Someone rolls, the dice show 7, and half the table groans. Nobody collects, somebody loses cards, and a small gray robber goes looking for a victim. This lesson explains exactly what happens on a 7, then covers the development cards, which are the other big source of surprises.
 
 ## Why does 7 come up so often?
 

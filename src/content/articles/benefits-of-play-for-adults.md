@@ -14,9 +14,9 @@ The psychiatrist Stuart Brown, who founded the National Institute for Play, has 
 
 Play is any activity you do for its own sake, where the doing is the point and you lose track of time while doing it. Brown's working definition includes a few features: it is apparently purposeless, voluntary, attractive, free from the pressure of time, and it makes you want to keep going.
 
-By that measure, a lot of adult life has play in it already, just unlabeled. Pickup basketball. Cooking something ambitious on a Sunday with no guests. A long conversation that goes nowhere useful. A game of [Catan](https://link.amazon/B0h8BDGR2) that runs late.
+By that measure, a lot of adult life has play in it already, just unlabeled. Pickup basketball. Cooking something ambitious on a Sunday with no guests. A long conversation that goes nowhere useful. A game of [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) that runs late.
 
-What most adults lack is not the capacity but the permission. Board games are useful here because they come with permission built in. Nobody has to justify sitting down to [Azul](https://link.amazon/B0bGRYHex). The game supplies the reason, and the people supply the rest.
+What most adults lack is not the capacity but the permission. Board games are useful here because they come with permission built in. Nobody has to justify sitting down to [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20). The game supplies the reason, and the people supply the rest.
 
 ## What does the research suggest about the benefits of play for adults?
 
@@ -56,7 +56,7 @@ This distinction matters more than it sounds. Entertainment is something done to
 | Afterward | Often a little drained | Often a little lighter |
 | Example | Scrolling, streaming | A game of [The Crew](https://link.amazon/B099S9RKf), a pickup game |
 
-Both have a place. But a lot of adults think they are getting play when they are only getting entertainment, and then wonder why the evening didn't do what they hoped. An hour of [Ticket to Ride](https://link.amazon/B0jh8RB7f) with three people does something that an hour of television with the same three people doesn't, and most people can feel the difference by the end of the night.
+Both have a place. But a lot of adults think they are getting play when they are only getting entertainment, and then wonder why the evening didn't do what they hoped. An hour of [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) with three people does something that an hour of television with the same three people doesn't, and most people can feel the difference by the end of the night.
 
 ## How do you get more play into an adult life?
 
@@ -86,7 +86,7 @@ There is no established dose. A reasonable starting point is one protected sessi
 
 ### What if I feel silly playing games as an adult?
 
-That feeling is common and it fades fast. Most people find that a few plays in, the self-consciousness is gone and what's left is the fun. Starting with a cooperative game like [Pandemic](https://link.amazon/B0eHP5GCg) or The Crew removes the pressure of winning and losing.
+That feeling is common and it fades fast. Most people find that a few plays in, the self-consciousness is gone and what's left is the fun. Starting with a cooperative game like [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20) or The Crew removes the pressure of winning and losing.
 
 ## Make it a habit
 

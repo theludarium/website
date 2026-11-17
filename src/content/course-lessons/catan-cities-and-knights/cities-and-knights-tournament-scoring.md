@@ -17,7 +17,7 @@ So the first skill of a tournament player is boring and vital: find that paragra
 
 ## Two shapes of scoring
 
-Cities & Knights events are not part of the official Catan championship ladder the [base course describes](/academy/catan/how-catan-tournaments-work/). That ladder plays the base game, and its standings rank wins first, then points. Cities & Knights events are run by conventions and organizers, and each one sets its own format. Most fall into one of two shapes.
+[Cities & Knights](https://www.amazon.com/dp/B0DY87W8SS?tag=cubecommonw0a-20) events are not part of the official Catan championship ladder the [base course describes](/academy/catan/how-catan-tournaments-work/). That ladder plays the base game, and its standings rank wins first, then points. Cities & Knights events are run by conventions and organizers, and each one sets its own format. Most fall into one of two shapes.
 
 **Wins first.** Standings sort by games won, and points only break ties. This is how the base Catan ladder works, and the [play for points lesson](/academy/catan/play-for-points/) covers it in depth.
 

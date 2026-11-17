@@ -11,7 +11,7 @@ oneIdea: "A territory scores squares times crowns, so one more square is worth a
 tryThis: "Next game, before each placement, say the points it adds: the crowns of the territory you grow, or the squares of the territory that gains a crown. Pick the placement with the bigger number."
 nextTeaser: "Next, the draft: why the best domino in the line is not always the right pick, and what going first next round is worth."
 ---
-[Kingdomino](https://link.amazon/B08l49zvA) scoring is one multiplication per territory. That simplicity hides a useful tool. Once you see each territory as squares times crowns, you can price any domino in your head before you pick it. This lesson builds that habit with small, exact examples.
+[Kingdomino](https://www.amazon.com/dp/B01N3A4070?tag=cubecommonw0a-20) scoring is one multiplication per territory. That simplicity hides a useful tool. Once you see each territory as squares times crowns, you can price any domino in your head before you pick it. This lesson builds that habit with small, exact examples.
 
 ## The rule, restated
 

@@ -47,7 +47,7 @@ Board game designers have spent decades on the same problem, and some of their s
 
 | Game | Multiplayer problem | How it is handled |
 |---|---|---|
-| [Catan](https://link.amazon/B0h8BDGR2) | Who to trade with, who to block | Trading is mutual benefit; blocking is costly for the blocker |
+| [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) | Who to trade with, who to block | Trading is mutual benefit; blocking is costly for the blocker |
 | Risk | Pile-on and kingmaking | Not handled; Risk ends friendships for the same reasons Commander does |
 | [Cosmic Encounter](https://www.amazon.com/dp/1589944968?tag=cubecommonw0a-20) | Alliances and betrayal | Betrayal is the design; players expect it from turn one |
 | Diplomacy | Pure negotiation, binding lies | Same, and it is famous for ruining friendships |

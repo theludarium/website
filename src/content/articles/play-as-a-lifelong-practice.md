@@ -54,7 +54,7 @@ Treat it the way you would treat any habit you intend to keep for fifty years.
 
 1. **Pick a standing time.** Weekly is the floor. The same night with the same people is the whole engine. If you don't have a group, [how to start a game night group](/articles/how-to-start-a-game-night-group/) covers the steps.
 2. **Choose a form that scales down.** A practice has to survive your worst month. Keep a shelf of short games and a two-player option so a bad week shrinks the session instead of skipping it.
-3. **Let the game change with your life.** The game you play at 30 is not the game at 60 or 90. [Catan](https://link.amazon/B0h8BDGR2) gives way to cribbage. That is not decline. That is the practice continuing in a new form.
+3. **Let the game change with your life.** The game you play at 30 is not the game at 60 or 90. [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) gives way to cribbage. That is not decline. That is the practice continuing in a new form.
 4. **Keep an open chair.** Groups that admit new people survive moves, deaths, and divorces. Closed groups end when one person leaves.
 5. **Count it as health.** Put it on the same mental list as sleep and movement. When you are deciding whether to skip it because you're tired, remember that the tired weeks are when connection does the most good.
 6. **Start before you need it.** The people who do well through retirement, illness, or loss are the ones who already had a Thursday.

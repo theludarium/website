@@ -45,7 +45,7 @@ Here is a shortlist of options that have worked for real teams, grouped by that 
 
 ### For seeing the team under pressure
 
-- **Cooperative board games with a clock.** [Pandemic](https://link.amazon/B0eHP5GCg), [Forbidden Desert](https://www.amazon.com/dp/B00B4ECHJI?tag=cubecommonw0a-20), or [The Crew](https://link.amazon/B099S9RKf). Everyone is on the same side, the game pushes back, and roles sort themselves out in minutes. We go deeper in [how to spot a leader in 45 minutes of Pandemic](/articles/leadership-assessment-games/).
+- **Cooperative board games with a clock.** [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20), [Forbidden Desert](https://www.amazon.com/dp/B00B4ECHJI?tag=cubecommonw0a-20), or [The Crew](https://link.amazon/B099S9RKf). Everyone is on the same side, the game pushes back, and roles sort themselves out in minutes. We go deeper in [how to spot a leader in 45 minutes of Pandemic](/articles/leadership-assessment-games/).
 - **Escape rooms.** Good for small teams, less good for groups over eight, where half the room stands around. Pick one and treat it as one station among several, not the whole afternoon.
 - **A real-time cooperative game like [Magic Maze](https://www.amazon.com/dp/B08W9BV633?tag=cubecommonw0a-20).** Players move shared pieces in silence. Nothing exposes coordination habits faster.
 

@@ -36,7 +36,7 @@ It is a good final step: try it on scenarios you have already landed, so the onl
 
 ## Free scenarios and the expansion
 
-When the booklet is done, the publisher's [Sky Team downloads page](https://www.scorpionmasque.com/Skyteam/?lang=en) has Ready to Play scenarios that remix the airports in the box. The Turbulence expansion adds 20 more scenarios, and the [scenarios and modules lesson](/academy/sky-team/sky-team-scenarios-modules-expansion/) covers both.
+When the booklet is done, the publisher's [Sky Team downloads page](https://www.scorpionmasque.com/Skyteam/?lang=en) has Ready to Play scenarios that remix the airports in the box. The [Turbulence expansion](https://www.amazon.com/dp/B0DMKYVW45?tag=cubecommonw0a-20) adds 20 more scenarios, and the [scenarios and modules lesson](/academy/sky-team/sky-team-scenarios-modules-expansion/) covers both.
 
 ## Play online
 

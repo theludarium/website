@@ -7,7 +7,7 @@ games: [wingspan, everdell, cascadia]
 tags: ["Wingspan vs Everdell", "Cascadia vs Wingspan", "nature board games", "Everdell vs Cascadia", "best nature themed board games", "Wingspan review", "What to play"]
 draft: false
 ---
-Three of the most popular board games of the last decade are about birds, forest animals, and Pacific Northwest wildlife. The [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) vs [Everdell](https://www.amazon.com/dp/B09ZWQTTNR?tag=cubecommonw0a-20) question comes up constantly, and [Cascadia](https://link.amazon/B0g1HYFt4) belongs in the same conversation. All three are beautiful, all three are calm, and they are not the same game. One is an engine builder, one is a worker placement game with a story, and one is a tile puzzle you can teach in three minutes.
+Three of the most popular board games of the last decade are about birds, forest animals, and Pacific Northwest wildlife. The [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) vs [Everdell](https://www.amazon.com/dp/B09ZWQTTNR?tag=cubecommonw0a-20) question comes up constantly, and [Cascadia](https://www.amazon.com/dp/B093H8RGXX?tag=cubecommonw0a-20) belongs in the same conversation. All three are beautiful, all three are calm, and they are not the same game. One is an engine builder, one is a worker placement game with a story, and one is a tile puzzle you can teach in three minutes.
 
 This guide compares them on the things that matter for a real table: how long they take, how hard they are to learn, how much players interact, and who each one suits.
 
@@ -50,7 +50,7 @@ Cascadia's strength is accessibility. A table of five new players can be scoring
 It depends on who is sitting down.
 
 - New to modern games: Cascadia. It is the lightest, the shortest, and the easiest to teach. Nobody bounces off it.
-- Likes building something that grows: Wingspan. Players who enjoy [Splendor](https://link.amazon/B0fEvY6Wg) and want more will find Wingspan's engine deeply satisfying.
+- Likes building something that grows: Wingspan. Players who enjoy [Splendor](https://www.amazon.com/dp/B00IZEUFIA?tag=cubecommonw0a-20) and want more will find Wingspan's engine deeply satisfying.
 - Likes a world and a longer arc: Everdell. The best pick for a group that already plays worker placement and wants theme on top. Our [worker placement explainer](/articles/worker-placement-explained/) covers the format.
 - Plays mostly at two: Wingspan or Cascadia. Both are excellent at two. Everdell works at two but loses some of the tension over shared spaces.
 - Plays with kids under ten: Cascadia. Wingspan is possible with a patient twelve-year-old. Everdell is a stretch.

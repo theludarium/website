@@ -25,8 +25,8 @@ Here is a working shelf. Eight games is more than enough; five is plenty.
 - **[Love Letter](https://www.amazon.com/dp/B07PHHBWM9?tag=cubecommonw0a-20)**: one card in hand, draw one, play one, last player standing wins the round.
 - **The Crew**: a trick-taking co-op where the table has to win specific tricks together.
 - **[Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20)**: guess where a hidden target sits on a spectrum from a teammate's clue.
-- **[Azul](https://link.amazon/B0bGRYHex)**: draft tiles, fill rows, score your wall, avoid the penalty floor.
-- **[Ticket to Ride](https://link.amazon/B0jh8RB7f)**: collect colored cards, claim train routes, connect your cities.
+- **[Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20)**: draft tiles, fill rows, score your wall, avoid the penalty floor.
+- **[Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20)**: collect colored cards, claim train routes, connect your cities.
 
 Notice the spread. Two party games, two card fillers, one co-op, one team game, two light strategy games. That mirrors the roles on a starter shelf, scaled down to the five-minute teach. A Teacher's Shelf should let the group play at any count from two to ten without a second thought.
 

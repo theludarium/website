@@ -11,7 +11,7 @@ oneIdea: "A sector is won at the moment it fills, by whoever has the most marker
 tryThis: "Before each Scan in your next game, count the empty data spaces in every sector you could mark, and note which one your signals could complete this turn."
 nextTeaser: "Next, the engine under everything: income, publicity, techs, and how to keep your credits and energy ahead of your plans."
 ---
-Probes chase planets. Telescopes chase stars. Scanning is the half of SETI that never leaves Earth, and it feeds two things at once: sector wins, which pay rewards and points, and data, which you analyze into life traces. This lesson covers the rules from the English rulebook (October 2024) and the official FAQ, then how to scan with a purpose.
+Probes chase planets. Telescopes chase stars. Scanning is the half of [SETI](https://www.amazon.com/dp/B0CZBCRC3S?tag=cubecommonw0a-20) that never leaves Earth, and it feeds two things at once: sector wins, which pay rewards and points, and data, which you analyze into life traces. This lesson covers the rules from the English rulebook (October 2024) and the official FAQ, then how to scan with a purpose.
 
 ## The Scan action
 

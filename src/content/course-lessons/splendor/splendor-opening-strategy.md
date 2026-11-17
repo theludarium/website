@@ -11,7 +11,7 @@ oneIdea: "The opening is about bonuses, not points. Read the nobles and level 3 
 tryThis: "Before turn one of your next game, name your two target colors out loud based on the nobles and level 3 row. Then see how many cards in those colors you own by turn eight."
 nextTeaser: "Next, the fourth action: when a reserve is worth a whole turn, and how to spend Gold where it counts most."
 ---
-[Splendor](https://link.amazon/B0fEvY6Wg) has no fixed opening. The cards come out in a new order every game. But strong players treat the first turns the same way: read the setup, pick colors, and buy cards for their bonuses as fast as possible.
+[Splendor](https://www.amazon.com/dp/B00IZEUFIA?tag=cubecommonw0a-20) has no fixed opening. The cards come out in a new order every game. But strong players treat the first turns the same way: read the setup, pick colors, and buy cards for their bonuses as fast as possible.
 
 ## Why the opening is about bonuses
 

@@ -11,7 +11,7 @@ oneIdea: "Teach the two kinds of turns with a real card in your hand. Once the t
 tryThis: "Before your next teach, pick the one card you will use for your demo Agent turn and the one board space you will send it to, so the example is ready before anyone sits down."
 nextTeaser: "Next, reading the board: the seven Agent icons, every space by area, and what each one costs."
 ---
-Dune: Imperium has a reputation as a heavy game, and its board does look busy: four Factions, a Landsraad, a city, a desert, and a pile of tokens. Our [game weight guide](/articles/board-game-weight-explained/) puts it in the medium band, and that is the right frame for a teach. The rules are not long. They are just unfamiliar, because the game mixes a deck builder with worker placement.
+[Dune: Imperium](https://www.amazon.com/dp/B08JHB9V72?tag=cubecommonw0a-20) has a reputation as a heavy game, and its board does look busy: four Factions, a Landsraad, a city, a desert, and a pile of tokens. Our [game weight guide](/articles/board-game-weight-explained/) puts it in the medium band, and that is the right frame for a teach. The rules are not long. They are just unfamiliar, because the game mixes a deck builder with worker placement.
 
 The fix is to teach the two kinds of turns with a real card, then start. Here is a script in the order you would say it. Print the [Dune: Imperium teach sheet](/academy/dune-imperium/teach-sheet/) and put it where everyone can read it.
 

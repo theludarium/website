@@ -14,7 +14,7 @@ This article explains what an engine is in board game terms, how the curve works
 
 An engine is a set of game elements that produce value without being spent. The distinction between producing and spending is the key.
 
-In [Monopoly](https://www.amazon.com/dp/B00CV5PN2W?tag=cubecommonw0a-20), a property you own produces rent every time someone lands on it. You bought it once; it pays forever. That is an engine, a crude one. In [Catan](https://link.amazon/B0h8BDGR2), a settlement on a good hex produces resources on every matching roll. Also an engine.
+In [Monopoly](https://www.amazon.com/dp/B00CV5PN2W?tag=cubecommonw0a-20), a property you own produces rent every time someone lands on it. You bought it once; it pays forever. That is an engine, a crude one. In [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20), a settlement on a good hex produces resources on every matching roll. Also an engine.
 
 What modern engine building games add is interaction between the parts. In [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), a bird in your forest row might give you food every time you activate the row. A second bird in that row might let you cache food for points. A third might draw a card whenever you gain food. Now one action triggers three effects, and the three effects feed each other. That chain is the engine, and building it is the game.
 
@@ -29,7 +29,7 @@ The common signs of an engine builder:
 
 Almost every engine building game follows the same shape, and recognizing it is the first step to playing well.
 
-**Phase one: investment.** You have few resources and each turn does little. You buy the cheapest permanent things that produce something. In [Splendor](https://link.amazon/B0fEvY6Wg), that means picking up level-one cards for their gem bonuses, not their points. It feels slow. It is supposed to.
+**Phase one: investment.** You have few resources and each turn does little. You buy the cheapest permanent things that produce something. In [Splendor](https://www.amazon.com/dp/B00IZEUFIA?tag=cubecommonw0a-20), that means picking up level-one cards for their gem bonuses, not their points. It feels slow. It is supposed to.
 
 **Phase two: acceleration.** The early purchases start paying off. You can afford mid-tier things, and those produce more. In [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20), this is when your deck starts drawing extra cards and playing extra actions in the same turn. Turns get longer and more satisfying.
 

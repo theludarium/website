@@ -44,7 +44,7 @@ A remote team's problem is that people do not know how each other think. Games m
 
 Games also solve the initiation problem. Nobody at a remote-team meetup wants to walk up to a near-stranger and start a conversation. A table with a game on it hands everyone a reason to talk. The conversation about the game becomes a conversation about anything.
 
-And games produce the shared memory. The moment someone drew a catastrophically bad picture in [Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20), or the table lost [Pandemic](https://link.amazon/B0eHP5GCg) on the last turn, will come up in Slack for months. For a longer list of options, see [team-building board games that don't feel like team building](/articles/team-building-board-games/).
+And games produce the shared memory. The moment someone drew a catastrophically bad picture in [Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20), or the table lost [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20) on the last turn, will come up in Slack for months. For a longer list of options, see [team-building board games that don't feel like team building](/articles/team-building-board-games/).
 
 *If this is useful, the newsletter sends more like it.*
 
@@ -66,7 +66,7 @@ The constraint is time. Nobody should spend twenty minutes learning rules when t
 
 **For the evening (open):**
 
-- A shelf of games with a host who can teach them. [Azul](https://link.amazon/B0bGRYHex), [Ticket to Ride](https://link.amazon/B0jh8RB7f), The Crew, [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20). No obligation. The people who want to play will, and they will be the last to leave.
+- A shelf of games with a host who can teach them. [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20), [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20), The Crew, [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20). No obligation. The people who want to play will, and they will be the last to leave.
 
 Avoid long strategy games and anything with a steep teach. A remote team's day is too short for Gloomhaven.
 

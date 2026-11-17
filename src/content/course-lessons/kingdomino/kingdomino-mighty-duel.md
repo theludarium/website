@@ -11,7 +11,7 @@ oneIdea: "In the Mighty Duel every domino comes out and splits between two playe
 tryThis: "In your next Mighty Duel, keep a simple tally of the six mine dominoes and the eight dominoes numbered 41 to 48: yours, theirs, and still to come. Check it before every pick."
 nextTeaser: "Next, the variants and the rest of the family: Dynasty, the bonus rules, Age of Giants, Queendomino, Kingdomino Origins, and more."
 ---
-The original rulebook introduces the Mighty Duel as the game for real champions, after a practice game or two. The 2024 edition goes further and makes it the two-player rule. It is the deepest way to play [Kingdomino](https://link.amazon/B08l49zvA): two players, all 48 dominoes, and kingdoms of 7 by 7.
+The original rulebook introduces the Mighty Duel as the game for real champions, after a practice game or two. The 2024 edition goes further and makes it the two-player rule. It is the deepest way to play [Kingdomino](https://www.amazon.com/dp/B01N3A4070?tag=cubecommonw0a-20): two players, all 48 dominoes, and kingdoms of 7 by 7.
 
 ## The rules
 

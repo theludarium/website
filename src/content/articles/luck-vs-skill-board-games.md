@@ -14,7 +14,7 @@ The dial is the wrong picture. The games that stay on shelves for decades, that 
 
 Game designers have a pair of terms for this. They are worth learning because they cut through most of the arguing.
 
-**Input randomness** happens before you decide. The dice are rolled, the cards are dealt, the tiles are drawn, and then you choose what to do with the result. In [Catan](https://link.amazon/B0h8BDGR2), the dice decide which hexes produce this turn, and then every player decides how to spend what they got.
+**Input randomness** happens before you decide. The dice are rolled, the cards are dealt, the tiles are drawn, and then you choose what to do with the result. In [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20), the dice decide which hexes produce this turn, and then every player decides how to spend what they got.
 
 **Output randomness** happens after you decide. You choose an action, and then a random event determines whether it worked. In Risk, you choose to attack, and then the dice decide whether your armies live or die.
 
@@ -50,11 +50,11 @@ A few examples of the pattern in action.
 
 **Catan.** Dice determine which hexes produce. Nobody controls that. But where you built your settlements, what you traded for, and when you expanded all determine how much a given roll helps you. Two players with identical rolls can have wildly different outcomes. The dice set the problem.
 
-**[Ticket to Ride](https://link.amazon/B0jh8RB7f).** Your destination tickets are drawn at random. The train cards you draw are partly random. But which routes to claim, when to take the risk of drawing new tickets, and how to read what opponents are building are all decisions. Good players consistently finish higher.
+**[Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20).** Your destination tickets are drawn at random. The train cards you draw are partly random. But which routes to claim, when to take the risk of drawing new tickets, and how to read what opponents are building are all decisions. Good players consistently finish higher.
 
 **Wingspan.** The birds you draw are random, and so are the dice in the birdfeeder. Which birds to play, in which habitat, in what order, is a deep sequencing puzzle. A weak player can get a great draw and still lose to a strong player with a mediocre one.
 
-**[Azul](https://link.amazon/B0bGRYHex).** The tiles that appear in the factory displays are drawn blind from a bag. What you take, what you leave for the next player, and where you place it is a tight spatial puzzle with almost no luck once the tiles are revealed.
+**[Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20).** The tiles that appear in the factory displays are drawn blind from a bag. What you take, what you leave for the next player, and where you place it is a tight spatial puzzle with almost no luck once the tiles are revealed.
 
 **Backgammon.** Perhaps the cleanest example in history. Every roll is random. Every decision about which checkers to move is skill. Backgammon has been played for thousands of years, is a serious gambling and tournament game, and can still be enjoyed by a child, because a lucky night is always possible.
 

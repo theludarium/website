@@ -11,7 +11,7 @@ oneIdea: "Your meeples are a budget spread across a fixed number of turns. A mee
 tryThis: "In your next game, glance at your supply at the start of every turn and say the number to yourself. Aim never to hit zero before the last few tiles."
 nextTeaser: "Next, openings: where to put your first meeples, why small cities beat big ones, and how to keep the cycle moving from turn one."
 ---
-Every [Carcassonne](https://link.amazon/B012Rr5ed) player gets the same seven meeples. What changes from game to game is how well those seven get used. A strong player and a new player can draw similar tiles all game and finish thirty points apart, and most of that gap is meeples: where they went, how long they stayed, and how many were sitting in the supply at the end doing nothing.
+Every [Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20) player gets the same seven meeples. What changes from game to game is how well those seven get used. A strong player and a new player can draw similar tiles all game and finish thirty points apart, and most of that gap is meeples: where they went, how long they stayed, and how many were sitting in the supply at the end doing nothing.
 
 This lesson treats meeples as what they are: a budget.
 

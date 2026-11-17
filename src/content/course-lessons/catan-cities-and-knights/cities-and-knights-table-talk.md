@@ -11,7 +11,7 @@ oneIdea: "In Cities & Knights the score is public, so the real threat is speed: 
 tryThis: "Next game, each time the barbarian ship moves, say the count out loud: cities on the board against active knight strength. Watch how the table's defense changes when everyone hears the numbers."
 nextTeaser: "Next, a practice plan: eight weeks of home games, timed games, and online play that get you ready for a Cities & Knights event."
 ---
-The [table talk lesson](/academy/catan/table-talk-and-negotiation/) in the base course teaches the core skills: persuade with public facts, form short alliances, talk the robber away from you, and stay likable. All of that carries over. This lesson covers what is different at a Cities & Knights table, where the score is out in the open, a shared enemy sails toward the island, and a handful of cards punish whoever is ahead.
+The [table talk lesson](/academy/catan/table-talk-and-negotiation/) in the base course teaches the core skills: persuade with public facts, form short alliances, talk the robber away from you, and stay likable. All of that carries over. This lesson covers what is different at a [Cities & Knights](https://www.amazon.com/dp/B0DY87W8SS?tag=cubecommonw0a-20) table, where the score is out in the open, a shared enemy sails toward the island, and a handful of cards punish whoever is ahead.
 
 ## The score is public. The speed is not.
 

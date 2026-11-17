@@ -42,7 +42,7 @@ Sorted by what the room needs. Player counts and ages are the publishers' (names
 | [Dixit](https://www.amazon.com/dp/2914849656?tag=cubecommonw0a-20) | 3 to 8 | 8+ | 30 min | Low | Picture clues and storytelling. Kids and grandparents compete evenly. |
 | [Happy Salmon](https://www.amazon.com/dp/B09KKJMR4L?tag=cubecommonw0a-20) | 3 to 6 (12 with two sets) | 6+ | 2 min | Very high | A two-minute shouting match. Run it before dessert to wake everyone up. |
 | [Anomia](https://www.amazon.com/dp/B00363B5FC?tag=cubecommonw0a-20) | 3 to 6 | 10+ | 20 min | High | Fast category-naming. Loud, fast, funny. |
-| [Ticket to Ride](https://link.amazon/B0jh8RB7f) | 2 to 5 | 8+ | 60 min | Low | For the five who want a real game once the crowd thins. |
+| [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) | 2 to 5 | 8+ | 60 min | Low | For the five who want a real game once the crowd thins. |
 
 Codenames is the one to own if you own only one. It plays with almost any number, divides naturally into "kids and grandparents versus parents," and a single round takes fifteen minutes.
 

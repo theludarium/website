@@ -11,7 +11,7 @@ oneIdea: "Final scoring has three steps in a fixed order: check routes, reveal t
 tryThis: "At the end of your next game, before anyone reveals a ticket, add up each player's trains on the board by route length. If it does not match 45 minus their leftover trains, find the gap first."
 nextTeaser: "Level 1 starts with your first three games: the rules slips and strategy traps almost every new table runs into, and how to fix each one."
 ---
-The last five minutes of [Ticket to Ride](https://link.amazon/B0jh8RB7f) decide more games than any other five. Route points are already on the track, but tickets and the longest path can move a player 30 or 40 points in either direction. Done in a rush, that is where points get lost and friendly arguments start. Done in order, it takes a few minutes and everyone trusts the result.
+The last five minutes of [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) decide more games than any other five. Route points are already on the track, but tickets and the longest path can move a player 30 or 40 points in either direction. Done in a rush, that is where points get lost and friendly arguments start. Done in order, it takes a few minutes and everyone trusts the result.
 
 This lesson follows the scoring sequence in the current Days of Wonder rulebook and adds a few habits that keep the count clean.
 

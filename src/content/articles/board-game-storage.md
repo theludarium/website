@@ -71,7 +71,7 @@ Many boxes are mostly air. Downsizing is how a hundred games fit where sixty wou
 
 **Rehome card games.** A game that is one deck plus a rules sheet does not need a 10-inch box. Move the deck to a labeled small container and recycle the box. Keep the rules folded inside. [Sushi Go](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), [The Crew](https://link.amazon/B099S9RKf), and most small-box games shrink to a quarter of their footprint.
 
-**Consolidate expansions.** A base game and its expansions usually fit in the base box once you remove the inserts. [Ticket to Ride](https://link.amazon/B0jh8RB7f) with two map packs is one box, not three.
+**Consolidate expansions.** A base game and its expansions usually fit in the base box once you remove the inserts. [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) with two map packs is one box, not three.
 
 **Replace inserts with bags.** The plastic insert is often the biggest thing in the box. Pull it out, bag the components by type, and the lid closes flatter. Many boxes then stack tighter. Small zip bags and a few rubber bands do most of the work.
 

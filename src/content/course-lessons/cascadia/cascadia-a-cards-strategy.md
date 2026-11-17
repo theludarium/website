@@ -75,4 +75,4 @@ The other animals are not off limits. They are simply not worth a bad tile.
 4. Place stray tokens where they cannot break a main shape, or return them to the bag.
 5. By turn five, you should be able to point at the spot where each shape will grow next.
 
-If the people at your table have just learned what a modern game looks like, our guide to [gateway board games](/articles/gateway-board-games/) shows where [Cascadia](https://link.amazon/B0g1HYFt4) fits among them.
+If the people at your table have just learned what a modern game looks like, our guide to [gateway board games](/articles/gateway-board-games/) shows where [Cascadia](https://www.amazon.com/dp/B093H8RGXX?tag=cubecommonw0a-20) fits among them.

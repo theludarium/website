@@ -11,7 +11,7 @@ oneIdea: "Most first-game errors are about command tokens and scoring, not comba
 tryThis: "Before your next game, read this list aloud and ask each player to name one rule they had been playing differently."
 nextTeaser: "Next, the clock: how long Twilight Imperium really takes, and a game-day plan that finishes in one sitting."
 ---
-Welcome to Level 1. Twilight Imperium is long enough that a small rules slip in round one can bend the whole game. The good news: the slips cluster in a few places. This list checks each one against the Living Rules Reference, version 2.0, with the rule numbers so you can look them up.
+Welcome to Level 1. [Twilight Imperium](https://www.amazon.com/dp/B074YPSTRP?tag=cubecommonw0a-20) is long enough that a small rules slip in round one can bend the whole game. The good news: the slips cluster in a few places. This list checks each one against the Living Rules Reference, version 2.0, with the rule numbers so you can look them up.
 
 ## Command tokens and movement
 

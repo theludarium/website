@@ -30,7 +30,7 @@ That one difference shapes almost every buying decision. A Keep card's value dep
 
 Most cards fall into one of these groups. Learn the groups and every new card is easier to judge.
 
-**1. Better dice.** Cards that add a die or an extra reroll. These help every single turn, whatever you are chasing. A sixth die becoming a seventh, or three rolls becoming four, is the closest thing [King of Tokyo](https://link.amazon/B0goO6BQA) has to a sure investment. A card that adds a die is the classic example.
+**1. Better dice.** Cards that add a die or an extra reroll. These help every single turn, whatever you are chasing. A sixth die becoming a seventh, or three rolls becoming four, is the closest thing [King of Tokyo](https://www.amazon.com/dp/B01F46RPS4?tag=cubecommonw0a-20) has to a sure investment. A card that adds a die is the classic example.
 
 **2. Staying alive.** Cards that block damage or give Life where Heal results cannot. Armor Plating is one: a rules FAQ on Dized explains that you treat each source of damage on its own and ignore any that deals only 1. Others let you leave Tokyo safely or come back from elimination. These cards are what let you hold Tokyo longer than the dice alone allow.
 

@@ -25,7 +25,7 @@ levelCheck:
     explain: "There are 19 land hexes: 18 that produce resources plus 1 desert. That is why there are 18 number discs, one for every hex except the desert."
 nextTeaser: "Next, the game starts moving. Lesson 3 breaks a turn into roll, trade, and build, and gives you the four building costs you will use every game."
 ---
-A [Catan](https://link.amazon/B0h8BDGR2) board looks busy the first time you see it: hexes, numbers, ships, a robber, four colors of wood. Underneath, it is a simple system. By the end of this lesson you will be able to build a fresh island, place starting settlements, and hand out starting cards without opening the rulebook.
+A [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) board looks busy the first time you see it: hexes, numbers, ships, a robber, four colors of wood. Underneath, it is a simple system. By the end of this lesson you will be able to build a fresh island, place starting settlements, and hand out starting cards without opening the rulebook.
 
 **The quick answer:** connect the sea frame, lay the 19 land hexes inside it in rows of 3, 4, 5, 4, and 3, and spiral the number discs in letter order from one corner. Put the robber on the desert. Then each player places a settlement and a road in order 1, 2, 3, 4, and again in order 4, 3, 2, 1. Your second settlement pays your starting cards.
 

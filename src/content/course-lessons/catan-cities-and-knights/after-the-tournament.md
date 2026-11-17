@@ -12,7 +12,7 @@ tryThis: "Within a day of your next event, write the three line review for every
 ---
 The scores are signed. Maybe you won your table, maybe you made the final, maybe you lost a city to the last barbarian attack of the day and finished a point short. Whatever happened, the most useful hour of the tournament is still ahead of you: the one you spend looking back.
 
-This last lesson covers that review, what to log that is special to Cities & Knights, and how to plan the next event.
+This last lesson covers that review, what to log that is special to [Cities & Knights](https://www.amazon.com/dp/B0DY87W8SS?tag=cubecommonw0a-20), and how to plan the next event.
 
 ## Review that night
 

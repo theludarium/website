@@ -8,7 +8,7 @@ category: Game Night
 tags: ["best family board games", "family board games", "board games for kids and adults", "games like Monopoly but better", "family game night games", "board games for ages 8 and up", "Family and intergenerational play"]
 draft: false
 ---
-The best family board games share three traits Monopoly lacks: they end in under an hour, nobody gets eliminated, and the person who is losing still has something interesting to do on their turn. [Ticket to Ride](https://link.amazon/B0jh8RB7f), Sushi Go, [Kingdomino](https://link.amazon/B08l49zvA), and [Azul](https://link.amazon/B0bGRYHex) all pass that test. Monopoly fails all three, which is why so many family game nights end with one kid in tears and one parent quietly bankrupting themselves to make it stop.
+The best family board games share three traits Monopoly lacks: they end in under an hour, nobody gets eliminated, and the person who is losing still has something interesting to do on their turn. [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20), Sushi Go, [Kingdomino](https://www.amazon.com/dp/B01N3A4070?tag=cubecommonw0a-20), and [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) all pass that test. Monopoly fails all three, which is why so many family game nights end with one kid in tears and one parent quietly bankrupting themselves to make it stop.
 
 **The quick answer:** Ticket to Ride for ages 8 and up, Kingdomino if you want something cheaper and faster, Outfoxed! or [Dragomino](https://link.amazon/B09WKyU19) if your youngest is 5, and Azul or Catan once everyone is 10 or older. For a family that fights over games, start cooperative.
 
@@ -44,13 +44,13 @@ Ages and player counts are the publishers' (game names link to the publisher's p
 | [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) | 8+ | 2 to 5 | 15 min | Pass hands of cards, keep one each time. Set collection in a tiny box. |
 | [Kingdomino](https://en.wikipedia.org/wiki/Kingdomino) | 8+ | 2 to 4 | 15 to 20 min | Draft domino tiles and build a 5x5 kingdom. The 2017 Spiel des Jahres winner, and it plays in the time it takes to boil pasta. |
 | [Azul](https://en.wikipedia.org/wiki/Azul_(board_game)) | 8+ | 2 to 4 | 30 to 45 min | Draft tiles, fill rows, score patterns. Beautiful, tactile, and sneakily deep. |
-| [Carcassonne](https://link.amazon/B012Rr5ed) | 7+ | 2 to 5 | 30 to 45 min | Draw a tile, place it, maybe put a meeple on it. The map grows every game. |
-| [Catan Junior](https://www.amazon.com/dp/B007N0KZ64?tag=cubecommonw0a-20) / [Catan](https://link.amazon/B0h8BDGR2) | 6+ / 10+ | 2 to 4 / 3 to 4 | 30 / 60 to 90 min | Trading and building. Junior strips the math; full Catan is the next step. |
+| [Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20) | 7+ | 2 to 5 | 30 to 45 min | Draw a tile, place it, maybe put a meeple on it. The map grows every game. |
+| [Catan Junior](https://www.amazon.com/dp/B007N0KZ64?tag=cubecommonw0a-20) / [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) | 6+ / 10+ | 2 to 4 / 3 to 4 | 30 / 60 to 90 min | Trading and building. Junior strips the math; full Catan is the next step. |
 | [Outfoxed!](https://link.amazon/B0hYNduxd) | 5+ | 2 to 4 | 20 min | A cooperative whodunit. Everyone hunts the thief together. |
 | [Dragomino](https://www.blueorangegames.com/games/dragomino) | 5+ | 2 to 4 | 15 min | Kingdomino's younger sibling. Match terrain, hatch dragon eggs. |
 | [Codenames: Pictures](https://www.amazon.com/dp/B01HT9DERU?tag=cubecommonw0a-20) | 10+ | 4 to 8+ | 15 to 20 min | Team word-and-picture association. Works with big families. |
 | [Dixit](https://www.amazon.com/dp/2914849656?tag=cubecommonw0a-20) | 8+ | 3 to 8 | 30 min | Give a clue for a dreamlike picture card. Rewards imagination over strategy. |
-| [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20) | 10+ | 2 to 4 | 30 min | Cooperative treasure hunt on a sinking island. [Pandemic](https://link.amazon/B0eHP5GCg)'s gentler cousin. |
+| [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20) | 10+ | 2 to 4 | 30 min | Cooperative treasure hunt on a sinking island. [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20)'s gentler cousin. |
 | [Sleeping Queens](https://www.amazon.com/dp/B0009XBY3A?tag=cubecommonw0a-20) | 8+ | 2 to 5 | 20 min | A card game designed by a six-year-old. Wake queens, play knights, do a little addition. |
 
 *If this is useful, the newsletter sends more like it.*

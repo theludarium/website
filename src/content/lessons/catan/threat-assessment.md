@@ -24,7 +24,7 @@ levelCheck:
     explain: "Cards held for many turns without being played lean toward Victory Points, so Blue could be at 9. A hand of 8 can also turn into a build. Red's 8 is real, but Red has no hidden points and little to build with."
 nextTeaser: "Next, the softest skill in the game. Lesson 24 covers table talk: how to persuade, when to form a short alliance, and how to talk the robber off your best hex."
 ---
-Every [Catan](https://link.amazon/B0h8BDGR2) player has seen it. The table spends the whole game watching the loud player with Longest Route. Nobody trades with them. The robber lives on their hexes. Then the quiet player across the table builds a city, flips over two Victory Point cards, and says, "I think that's ten."
+Every [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) player has seen it. The table spends the whole game watching the loud player with Longest Route. Nobody trades with them. The robber lives on their hexes. Then the quiet player across the table builds a city, flips over two Victory Point cards, and says, "I think that's ten."
 
 The quiet player did not get lucky. They were winning for several turns, and nobody counted. This lesson is how you count.
 

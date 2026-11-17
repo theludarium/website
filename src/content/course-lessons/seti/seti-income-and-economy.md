@@ -11,7 +11,7 @@ oneIdea: "Every SETI action spends credits, energy, or publicity, and income is 
 tryThis: "At the end of each round in your next game, write down how much of each resource you spent and how much income came back. Tuck next round for whichever gap was bigger."
 nextTeaser: "Level 4 turns to the mystery boards: how alien discovery works, how to race for the discovery spaces, and how to stay spoiler-light while you learn."
 ---
-SETI is a game about running out. Sooner or later you will find the perfect move and be one energy short. The fix is not a better move. It is an economy built for the moves you plan to make. This lesson covers the rules from the English rulebook (October 2024) and the official FAQ, then how to shape your income.
+[SETI](https://www.amazon.com/dp/B0CZBCRC3S?tag=cubecommonw0a-20) is a game about running out. Sooner or later you will find the perfect move and be one energy short. The fix is not a better move. It is an economy built for the moves you plan to make. This lesson covers the rules from the English rulebook (October 2024) and the official FAQ, then how to shape your income.
 
 ## What each resource buys
 

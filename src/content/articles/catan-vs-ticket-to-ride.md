@@ -7,7 +7,7 @@ games: [catan, ticket-to-ride]
 tags: ["Catan vs Ticket to Ride", "best gateway board game", "Catan or Ticket to Ride", "Ticket to Ride vs Catan for families", "first board game to buy", "easy board games for adults", "Comparisons"]
 draft: false
 ---
-[Catan](https://link.amazon/B0h8BDGR2) vs [Ticket to Ride](https://link.amazon/B0jh8RB7f) is the first real decision most people make when they move past Monopoly. Both are gateway games. Both have sold in the tens of millions. Both will work. But they produce very different evenings, and the right pick depends less on which game is "better" and more on who is sitting at your table.
+[Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) vs [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) is the first real decision most people make when they move past Monopoly. Both are gateway games. Both have sold in the tens of millions. Both will work. But they produce very different evenings, and the right pick depends less on which game is "better" and more on who is sitting at your table.
 
 The short version: Ticket to Ride is easier to teach, plays more people, and almost never produces a bad feeling. Catan is longer, chattier, and more memorable, and it rewards the group that likes to talk and deal. The rest of this article explains why, with a side-by-side table and a verdict at the end.
 

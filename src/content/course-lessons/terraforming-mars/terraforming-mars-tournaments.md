@@ -35,7 +35,7 @@ The 2025 format, from the [event preview](https://www.boardgamers.org/wbc25/Prev
 - **Different boards each round.** The original map, then Hellas, Elysium, Hellas again, and a random board for the final.
 - **More expansions as rounds go on.** In the heats, expansions depend on what the players at each table ask for. The quarterfinal uses at least two, and the semifinal and final use every expansion except Turmoil, unless all players agree.
 
-The event is marked for experienced players only. That is a fair warning: the field knows the cards and the expansions well. If you plan to enter, learn Prelude, Venus Next, Colonies, and the Hellas and Elysium maps first.
+The event is marked for experienced players only. That is a fair warning: the field knows the cards and the expansions well. If you plan to enter, learn Prelude, [Venus Next](https://www.amazon.com/dp/B0777M969L?tag=cubecommonw0a-20), Colonies, and the Hellas and Elysium maps first.
 
 WBC 2027 runs July 24 to August 1. Its event previews come out closer to the convention, so read the new Terraforming Mars preview for any format changes before you go.
 

@@ -22,7 +22,7 @@ There is a longer-term reason to bother. The [CDC](https://www.cdc.gov/healthyyo
 
 Not every game will survive contact with a 15-year-old. The ones that do tend to share a few traits.
 
-**It is not a kids' game.** The fastest way to lose a teen is to pull out something they played at age eight. Candy Land is an insult. [Catan](https://link.amazon/B0h8BDGR2) is a peace offering.
+**It is not a kids' game.** The fastest way to lose a teen is to pull out something they played at age eight. Candy Land is an insult. [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) is a peace offering.
 
 **It has real decisions.** Teens are developing judgment and they want to use it. A game where their choices matter, where they can outthink you, is respectful in a way they will feel even if they never say so.
 
@@ -43,8 +43,8 @@ Here is a short list that reliably works across ages 13 to 18, grouped by what k
 | [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) | 2+ | 30 min | Learning how your teen actually thinks |
 | [Skull](https://www.amazon.com/dp/B08R2BPLSN?tag=cubecommonw0a-20) | 3 to 6 | 15 min | Bluffing, nerve, almost no rules |
 | Catan | 3 to 4 | 60 min | Negotiation, a little conflict |
-| [Azul](https://link.amazon/B0bGRYHex) | 2 to 4 | 30 min | Calm, pretty, surprisingly cutthroat |
-| [Pandemic](https://link.amazon/B0eHP5GCg) | 2 to 4 | 45 min | Shared stakes, a real challenge |
+| [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) | 2 to 4 | 30 min | Calm, pretty, surprisingly cutthroat |
+| [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20) | 2 to 4 | 45 min | Shared stakes, a real challenge |
 | [Coup](https://www.amazon.com/dp/B00GDI4HX4?tag=cubecommonw0a-20) | 3 to 6 | 15 min | Lying to each other and loving it |
 
 Wavelength deserves a special mention. The game asks a player to give a clue that places a concept between two extremes, like "hot to cold" or "overrated to underrated." You learn more about how your teenager sees the world in one round than in a month of dinners.

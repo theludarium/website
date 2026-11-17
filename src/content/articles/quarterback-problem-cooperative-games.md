@@ -14,7 +14,7 @@ Designers have spent the last fifteen years attacking this problem from every an
 
 The quarterback problem, also called the alpha player problem, occurs when a cooperative game gives every player full access to the same information. If everyone can see everything, then in principle one person can compute the best move for the whole team. The person most willing to do that computation out loud becomes the quarterback.
 
-Pandemic is the classic example, and that is not a criticism of [Pandemic](https://link.amazon/B0eHP5GCg). It is a well-made game. But every card, every cube, and every player's hand is public. Nothing stops an experienced player from saying "you fly to Cairo, treat twice, then pass me the yellow card." Nothing in the rules even discourages it. The game is a puzzle, and a puzzle with one solver is a solo game with an audience.
+Pandemic is the classic example, and that is not a criticism of [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20). It is a well-made game. But every card, every cube, and every player's hand is public. Nothing stops an experienced player from saying "you fly to Cairo, treat twice, then pass me the yellow card." Nothing in the rules even discourages it. The game is a puzzle, and a puzzle with one solver is a solo game with an audience.
 
 The important point is that the quarterback is usually not being rude. They are trying to help the team win, and the game has told them that winning is the goal. The design has created an incentive, and someone is responding to it. If you want different behavior, you have to change the incentive, not the person.
 

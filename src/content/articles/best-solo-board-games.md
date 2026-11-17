@@ -28,7 +28,7 @@ None of these are sad. A solo game is, in most cases, a hobby in the same catego
 |---|---|---|
 | 15 min | [Friday](https://www.amazon.com/dp/B006NCVC6A?tag=cubecommonw0a-20) | A deck-building game about keeping Robinson Crusoe alive |
 | 20 min | [Onirim](https://www.amazon.com/dp/B00KU1343E?tag=cubecommonw0a-20) | A card game about escaping a dream labyrinth |
-| 30 min | [Cascadia](https://link.amazon/B0g1HYFt4) (solo mode) | Habitat tile puzzle with a scoring target |
+| 30 min | [Cascadia](https://www.amazon.com/dp/B093H8RGXX?tag=cubecommonw0a-20) (solo mode) | Habitat tile puzzle with a scoring target |
 | 45 min | [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) (Automa) | Engine builder against a cardboard opponent |
 | 60 min | [Spirit Island](https://www.amazon.com/dp/B01MUHP51S?tag=cubecommonw0a-20) | Heavy co-op, excellent at one player |
 | 60 to 90 min | [Mage Knight](https://www.amazon.com/dp/B07BSM4SKL?tag=cubecommonw0a-20) | The famous brain-burner, best alone |
@@ -59,7 +59,7 @@ This distinction matters for buying. A game with a bolted-on solo mode (often an
 
 - **Built for solo:** Friday, Onirim, Mage Knight, Sleeping Gods, [Under Falling Skies](https://www.amazon.com/dp/B08HGS1QYT?tag=cubecommonw0a-20), [Coffee Roaster](https://www.amazon.com/dp/B07TNVYHWS?tag=cubecommonw0a-20).
 - **Excellent solo modes on multiplayer games:** Wingspan, Cascadia, Spirit Island, [Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20), [Ark Nova](https://www.amazon.com/dp/B09L6FCP9S?tag=cubecommonw0a-20), [Scythe](https://www.amazon.com/dp/B01IPUGYK6?tag=cubecommonw0a-20).
-- **Solo-friendly co-ops:** Any cooperative game can be played solo by controlling all players. [Pandemic](https://link.amazon/B0eHP5GCg), [The Crew](https://link.amazon/B099S9RKf) (with the dummy hand rules), and Spirit Island all work this way.
+- **Solo-friendly co-ops:** Any cooperative game can be played solo by controlling all players. [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20), [The Crew](https://link.amazon/B099S9RKf) (with the dummy hand rules), and Spirit Island all work this way.
 
 If you plan to mostly play alone, favor the first list. If you want a game that works for a solo Tuesday and a four-player Saturday, the second list is where the value is.
 

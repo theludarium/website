@@ -16,7 +16,7 @@ Because laughter is social before it is funny.
 
 Robert Provine, a neuroscientist who studied laughter for decades by simply watching people in public, [found](https://www.psychologytoday.com/us/articles/200011/the-science-of-laughter) that laughter was about 30 times more frequent in social settings than in solitary ones, and that only 10 to 20 percent of laughs followed anything resembling a joke; most followed ordinary remarks. Laughter, in his account, is a signal between people more than a response to comedy.
 
-That reframes what is happening at a game table. The laughter when someone's plan collapses in [Pandemic](https://link.amazon/B0eHP5GCg) is not a review of the comedy. It is the group saying, all at once, "we are in this together and it's fine." That is a remarkably useful thing for a group to be able to say without words.
+That reframes what is happening at a game table. The laughter when someone's plan collapses in [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20) is not a review of the comedy. It is the group saying, all at once, "we are in this together and it's fine." That is a remarkably useful thing for a group to be able to say without words.
 
 ## What does the research suggest laughter does to a group?
 
@@ -46,7 +46,7 @@ Because they manufacture the exact conditions that make people laugh: shared att
 | Safe failure | Failing in front of friends with no real cost | A disastrous Codenames clue |
 | Permission to be silly | The rules say you have to | Acting out a word in [Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20) |
 
-Different games hit different notes. Party games like Telestrations, Wavelength, and [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20) are built almost entirely to produce laughter, and they're the fastest way to get a stiff group loose. Cooperative games like The Crew and Pandemic produce the laughter of shared disaster, which bonds people faster than shared victory. Even quiet strategy games like [Azul](https://link.amazon/B0bGRYHex) and [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) produce it, usually when someone realizes three turns too late what they should have done.
+Different games hit different notes. Party games like Telestrations, Wavelength, and [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20) are built almost entirely to produce laughter, and they're the fastest way to get a stiff group loose. Cooperative games like The Crew and Pandemic produce the laughter of shared disaster, which bonds people faster than shared victory. Even quiet strategy games like [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) and [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) produce it, usually when someone realizes three turns too late what they should have done.
 
 Social deduction games, like [The Resistance](https://www.amazon.com/dp/B01J16HNKS?tag=cubecommonw0a-20) or [Blood on the Clocktower](https://www.amazon.com/dp/B0BRSTMP2V?tag=cubecommonw0a-20), produce a particular kind: the laughter of the reveal, when the person everyone trusted turns out to have been lying the whole time. Our piece on [why social deduction games work](/articles/why-social-deduction-games-work/) goes into why that moment is so satisfying.
 
@@ -58,7 +58,7 @@ Some of it you can set up.
 2. **Choose games where failure is funny, not humiliating.** Games that punish one player harshly produce silence. Games where the whole table fails together produce laughter. Cooperative games are reliable here.
 3. **Laugh at the situation, not the person.** The workplace research finds positive humor builds cohesion, and the people who study it warn that humor at someone's expense is a different animal. Good hosts model this. "That card hates you" lands better than "you're terrible at this."
 4. **Let the table talk.** Some groups play in near silence to focus. That's fine for a tournament. For a game night, the side conversation is where most of the laughter lives.
-5. **Keep the same people coming back.** Running jokes need a history. The fifth time the same friend gets the [Ticket to Ride](https://link.amazon/B0jh8RB7f) route that ruins everyone, it is funnier than the first. This is why standing game groups laugh more than one-off gatherings. See [why game night memories last](/articles/why-game-night-memories-last/) for more on that.
+5. **Keep the same people coming back.** Running jokes need a history. The fifth time the same friend gets the [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) route that ruins everyone, it is funnier than the first. This is why standing game groups laugh more than one-off gatherings. See [why game night memories last](/articles/why-game-night-memories-last/) for more on that.
 
 ## What does this mean for health?
 

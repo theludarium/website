@@ -16,7 +16,7 @@ That is the obvious cost. The hidden one is worse. Research on what psychologist
 
 The phone does not need to ring. Its presence signals that something elsewhere might be more interesting than the people here. Everyone at the table reads that signal, mostly without noticing.
 
-There is also a cognitive cost. [Adrian Ward's research at the University of Texas](https://news.utexas.edu/2017/06/26/the-mere-presence-of-your-smartphone-reduces-brain-power) suggests that a phone within reach drains attention even when face down and silenced, because part of your brain is working to ignore it. People whose phones were in another room did measurably better on cognitive tests than people whose phones were on the desk. That is attention you are not spending on the trade offer in [Catan](https://link.amazon/B0h8BDGR2) or the clue your partner just gave in [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20).
+There is also a cognitive cost. [Adrian Ward's research at the University of Texas](https://news.utexas.edu/2017/06/26/the-mere-presence-of-your-smartphone-reduces-brain-power) suggests that a phone within reach drains attention even when face down and silenced, because part of your brain is working to ignore it. People whose phones were in another room did measurably better on cognitive tests than people whose phones were on the desk. That is attention you are not spending on the trade offer in [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) or the clue your partner just gave in [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20).
 
 Games are built on attention. A distracted table plays worse and bonds less.
 
@@ -53,9 +53,9 @@ One exception worth naming out loud: anyone with a real reason to be reachable, 
 
 ## What actually changes at a phone-free table?
 
-The first thing people notice is that the games run faster. Turns do not stall. Nobody needs the last round explained. A game of [Ticket to Ride](https://link.amazon/B0jh8RB7f) that used to take 75 minutes takes 55.
+The first thing people notice is that the games run faster. Turns do not stall. Nobody needs the last round explained. A game of [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) that used to take 75 minutes takes 55.
 
-The second thing is that the gaps fill with talk. Setup, shuffling, waiting for someone to count their score in [Azul](https://link.amazon/B0bGRYHex): all of those used to be scroll breaks. Now they are conversation. This is where most of the real connection at a game night happens, in the margins around the game, and phones had been quietly eating those margins.
+The second thing is that the gaps fill with talk. Setup, shuffling, waiting for someone to count their score in [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20): all of those used to be scroll breaks. Now they are conversation. This is where most of the real connection at a game night happens, in the margins around the game, and phones had been quietly eating those margins.
 
 The third thing is harder to describe. The room feels different. People lean in. They watch each other's turns. They react. A good play in The Crew gets a cheer because everyone saw it. The table becomes a place where attention is shared, and shared attention is most of what friendship is made of.
 

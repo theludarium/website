@@ -14,7 +14,7 @@ This guide is for sales leaders and HR partners planning a kickoff, an offsite, 
 
 Role-play exercises have a known problem: everyone knows it is a role-play. The "buyer" is a colleague reading from a card. Nobody has anything at stake, so nobody negotiates the way they would with money on the table.
 
-A game fixes that. In [Catan](https://link.amazon/B0h8BDGR2), the person across from you wants to win. If you offer a bad trade, they refuse. If you fleece them, they remember, and the next three turns go badly for you. Stakes are small but real, and the feedback is immediate.
+A game fixes that. In [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20), the person across from you wants to win. If you offer a bad trade, they refuse. If you fleece them, they remember, and the next three turns go badly for you. Stakes are small but real, and the feedback is immediate.
 
 Games also compress time. A single round of [Chinatown](https://www.amazon.com/dp/B00IVF4ZH0?tag=cubecommonw0a-20) includes more negotiations than a week of sales calls, with results you can see in the score.
 

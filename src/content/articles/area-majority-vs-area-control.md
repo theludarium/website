@@ -33,7 +33,7 @@ In area majority, a region can hold pieces from every player at the same time. N
 
 Other well-known area majority games:
 
-- **[Carcassonne](https://link.amazon/B012Rr5ed)'s farms**, where several players' farmers can share a field and the one with the most takes all the points.
+- **[Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20)'s farms**, where several players' farmers can share a field and the one with the most takes all the points.
 - **Blood Rage's provinces** at Ragnarok, which combine combat with majority scoring.
 - **[Ethnos](https://www.amazon.com/dp/B0DNNCYGHK?tag=cubecommonw0a-20)**, where tribes placed in regions score by rank at the end of each age.
 - **[Inis](https://www.amazon.com/dp/B089Q26FL2?tag=cubecommonw0a-20)**, which uses presence and majority in territories for its win conditions.

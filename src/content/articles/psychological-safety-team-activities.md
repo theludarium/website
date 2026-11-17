@@ -46,7 +46,7 @@ Not all games do this equally. Competitive games with direct conflict can reduce
 | [So Clover!](https://www.amazon.com/dp/B0941TJHXX?tag=cubecommonw0a-20) | 3 to 6 | Explaining your reasoning after the fact |
 | [Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20) | 4 to 8 | Being bad at something in front of everyone |
 | [Magic Maze](https://www.amazon.com/dp/B08W9BV633?tag=cubecommonw0a-20) | 1 to 8 | Coordinating without being able to correct each other |
-| [Pandemic](https://link.amazon/B0eHP5GCg) | 2 to 4 | Disagreeing about a plan under pressure |
+| [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20) | 2 to 4 | Disagreeing about a plan under pressure |
 
 Hanabi deserves a special note. You hold your cards facing outward; you see everyone's hand except your own. Teammates give you limited hints. You must act on partial information and trust that the hints were well-intended. It is the most direct simulation of "trusting your team with incomplete information" that exists in a box, and it is humbling for everyone.
 

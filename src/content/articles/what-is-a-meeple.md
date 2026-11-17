@@ -8,7 +8,7 @@ category: Game Guides
 tags: ["what is a meeple", "meeple meaning", "meeple origin", "Carcassonne meeple", "wooden board game pieces", "meeple definition", "Glossary"]
 draft: false
 ---
-A meeple is a small wooden figure shaped like a simplified person, with a round head, stubby arms, and a solid base where the legs would be. It is the standard playing piece in [Carcassonne](https://link.amazon/B012Rr5ed) and has since spread to hundreds of other games. If you have ever asked "what is a meeple" after someone at the table used the word like everyone should know it, this is the answer, along with the story of how a joke became the most recognizable object in the hobby.
+A meeple is a small wooden figure shaped like a simplified person, with a round head, stubby arms, and a solid base where the legs would be. It is the standard playing piece in [Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20) and has since spread to hundreds of other games. If you have ever asked "what is a meeple" after someone at the table used the word like everyone should know it, this is the answer, along with the story of how a joke became the most recognizable object in the hobby.
 
 **The quick answer:** "meeple" is a blend of "my" and "people," coined at a game table in 2000. The shape came from the first edition of Carcassonne. Everything else is what happened when a lot of people decided they liked both.
 

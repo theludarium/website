@@ -11,7 +11,7 @@ oneIdea: "The map decides much of a game before the first turn. A slice draft tr
 tryThis: "For your next game, generate a Milty draft online with one more slice than players and three more factions than players, and run the draft at the table before setup."
 nextTeaser: "Level 5 starts with the agenda phase: votes, laws, riders, the speaker, and the deals that win politics."
 ---
-Every experienced Twilight Imperium player has seen it: a home system with two poor planets and an anomaly in front, next to a neighbor with a rich wormhole system. The official setup can produce that. This lesson covers the official rules for building the galaxy, then the community's favorite fix, the slice draft.
+Every experienced [Twilight Imperium](https://www.amazon.com/dp/B074YPSTRP?tag=cubecommonw0a-20) player has seen it: a home system with two poor planets and an anomaly in front, next to a neighbor with a rich wormhole system. The official setup can produce that. This lesson covers the official rules for building the galaxy, then the community's favorite fix, the slice draft.
 
 ## The official way
 
@@ -62,7 +62,7 @@ There is no single right first pick, and that is the point. Some patterns hold u
 
 ## Balance settings
 
-The generator lets you set minimum resources and influence per slice, require a spread of wormholes, and require legendary planets when you play with Prophecy of Kings. For a home group, the default settings are a fine start. Raise the minimums if players complain about weak slices.
+The generator lets you set minimum resources and influence per slice, require a spread of wormholes, and require legendary planets when you play with [Prophecy of Kings](https://www.amazon.com/dp/B08F5M99DR?tag=cubecommonw0a-20). For a home group, the default settings are a fine start. Raise the minimums if players complain about weak slices.
 
 ## Without a computer
 

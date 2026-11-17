@@ -11,7 +11,7 @@ oneIdea: "In the midgame, the best purchase does two jobs: it scores and it buil
 tryThis: "Before each turn in your next game, name one card each other player could buy right now. If one of them is the card you want, act on it this turn."
 nextTeaser: "Next, nobles in depth: the two shapes every noble comes in, the color wheel behind them, and how to pick a race you can win."
 ---
-By the middle of a [Splendor](https://link.amazon/B0fEvY6Wg) game, every player has a handful of cards and a direction. The opening was about your own engine. The midgame is about turning that engine into points, while watching everyone else's.
+By the middle of a [Splendor](https://www.amazon.com/dp/B00IZEUFIA?tag=cubecommonw0a-20) game, every player has a handful of cards and a direction. The opening was about your own engine. The midgame is about turning that engine into points, while watching everyone else's.
 
 ## From bonuses to points
 

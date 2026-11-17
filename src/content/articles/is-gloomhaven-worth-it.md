@@ -73,7 +73,7 @@ If you finish Jaws of the Lion and want more, buy Gloomhaven with confidence. Yo
 
 Plenty of games scratch the campaign itch with less weight.
 
-- **[Pandemic Legacy: Season 1](https://www.amazon.com/dp/B00TQ0DXR2?tag=cubecommonw0a-20)** is twelve to twenty-four sessions of about an hour each and tells a tighter story. We explain how it works in our [legacy games explainer](/articles/legacy-board-games-explained/).
+- **[Pandemic Legacy: Season 1](https://www.amazon.com/dp/B00TQ5SEAI?tag=cubecommonw0a-20)** is twelve to twenty-four sessions of about an hour each and tells a tighter story. We explain how it works in our [legacy games explainer](/articles/legacy-board-games-explained/).
 - **[Sleeping Gods](https://www.amazon.com/dp/B084GWHLGK?tag=cubecommonw0a-20)** is an open-world exploration campaign with lighter combat and a strong atlas-based map.
 - **[Forgotten Waters](https://www.amazon.com/dp/B08637FBDR?tag=cubecommonw0a-20)** is a pirate campaign with an app that narrates, and it is funny.
 - **Oathsworn** is heavier but has a shorter campaign, and **[Too Many Bones](https://www.amazon.com/dp/B077PNSDWC?tag=cubecommonw0a-20)** plays as one-off adventures.

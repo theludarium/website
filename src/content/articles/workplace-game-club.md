@@ -39,10 +39,10 @@ The constraints are strict: teach in under five minutes, play in under forty, su
 | [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) | 4 to 8+ | 15 min | Two or three rounds in an hour; absorbs latecomers |
 | Just One | 3 to 7 | 20 min | Cooperative, zero pressure, fits a shy crowd |
 | Sushi Go! | 2 to 5 | 15 min | Teaches in one sentence, plays while eating |
-| [Azul](https://link.amazon/B0bGRYHex) | 2 to 4 | 35 min | A real game that still ends on time |
+| [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) | 2 to 4 | 35 min | A real game that still ends on time |
 | [The Crew](https://link.amazon/B099S9RKf) | 2 to 5 | 20 min | Short missions; stop after any one |
 | [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) | 4 to 12 | 30 min | Scales up when the room gets crowded |
-| [Cascadia](https://link.amazon/B0g1HYFt4) | 1 to 4 | 40 min | Quiet and thoughtful for a calmer day |
+| [Cascadia](https://www.amazon.com/dp/B093H8RGXX?tag=cubecommonw0a-20) | 1 to 4 | 40 min | Quiet and thoughtful for a calmer day |
 | [Skull](https://www.amazon.com/dp/B08R2BPLSN?tag=cubecommonw0a-20) | 3 to 6 | 15 min | Bluffing in a tiny box; a reliable hit |
 
 Avoid games over forty-five minutes, games with long setups, and anything that needs a dedicated teacher who knows a sixty-page rulebook. Save [Gloomhaven](https://www.amazon.com/dp/B01LZXVN4P?tag=cubecommonw0a-20) for the weekend. For a broader list with more context, see [team-building board games that don't feel like team building](/articles/team-building-board-games/).

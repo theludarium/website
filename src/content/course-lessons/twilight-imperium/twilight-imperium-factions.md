@@ -11,7 +11,7 @@ oneIdea: "Every faction bends one rule of the game. Find the rule your faction b
 tryThis: "Before your next game, read your faction sheet and finish this sentence aloud to the table: my faction is better than everyone else at one thing, and it is this."
 nextTeaser: "Next, combat: how the dice work, what space cannon and anti-fighter barrage really do, and the odds behind every attack."
 ---
-Welcome to Level 3. You know the rules, the cards, and the race. Now the factions. The base game has 17, and Prophecy of Kings adds 7, for 24. Each faction sheet lists its abilities, and each one bends a rule of the shared game. Find that bend, and you have your plan.
+Welcome to Level 3. You know the rules, the cards, and the race. Now the factions. The base game has 17, and [Prophecy of Kings](https://www.amazon.com/dp/B08F5M99DR?tag=cubecommonw0a-20) adds 7, for 24. Each faction sheet lists its abilities, and each one bends a rule of the shared game. Find that bend, and you have your plan.
 
 The ability summaries below are in our own words. Your faction sheet is the final word.
 
@@ -68,4 +68,4 @@ Each faction sheet shows a commodity value. Commodities turn into trade goods on
 
 For a first game, the host can assign factions from the beginner list. Later, many groups deal each player two or three factions at random and let them choose one. Lesson 10 covers the faction and map draft that tournaments use.
 
-Thunder's Edge, released in 2025, adds five new factions, prints the Council Keleres, and gives every faction a breakthrough card. Lesson 9 covers it.
+[Thunder's Edge](https://www.amazon.com/dp/B0FSNZMNTF?tag=cubecommonw0a-20), released in 2025, adds five new factions, prints the Council Keleres, and gives every faction a breakthrough card. Lesson 9 covers it.

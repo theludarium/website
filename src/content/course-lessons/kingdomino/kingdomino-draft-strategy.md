@@ -11,7 +11,7 @@ oneIdea: "Every pick buys two things: a domino to place next round and a seat in
 tryThis: "Next game, before each pick, price the best domino in points, then ask what first choice of an unseen line is worth to you right now. Say both numbers out loud, then pick."
 nextTeaser: "Level 2 starts with counting: how many crowns each terrain has, where they hide in the numbers, and how to use that to plan your kingdom."
 ---
-The [Kingdomino](https://link.amazon/B08l49zvA) draft is the heart of the game, and it fits in one sentence: the domino you choose now is the one you place next round, and its number decides when you choose again. Beginners pick the best-looking tile. Better players pick the best trade between tile and timing.
+The [Kingdomino](https://www.amazon.com/dp/B01N3A4070?tag=cubecommonw0a-20) draft is the heart of the game, and it fits in one sentence: the domino you choose now is the one you place next round, and its number decides when you choose again. Beginners pick the best-looking tile. Better players pick the best trade between tile and timing.
 
 ## What the numbers tell you
 

@@ -41,7 +41,7 @@ There is also a licensed digital edition of Terra Mystica from DIGIDICED, on the
 
 ## The World Boardgaming Championships
 
-The World Boardgaming Championships (WBC) has run a Terra Mystica event, coded T_M. According to the WBC's own event reports, it debuted in 2017, its 2018 semifinal and final picked factions by bidding, and it returned in 2023 after three years away, with 28 players and a final of Dwarves, Darklings, Nomads, and Mermaids. The 2023 report said the GM hoped to run an Age of Innovation event the following year, but the WBC event reports for 2024 to 2026 list no Terra Mystica or Age of Innovation event. Check the current WBC event list before planning a trip around it.
+The World Boardgaming Championships (WBC) has run a Terra Mystica event, coded T_M. According to the WBC's own event reports, it debuted in 2017, its 2018 semifinal and final picked factions by bidding, and it returned in 2023 after three years away, with 28 players and a final of Dwarves, Darklings, Nomads, and Mermaids. The 2023 report said the GM hoped to run an [Age of Innovation](https://www.amazon.com/dp/B0C31K7XMD?tag=cubecommonw0a-20) event the following year, but the WBC event reports for 2024 to 2026 list no Terra Mystica or Age of Innovation event. Check the current WBC event list before planning a trip around it.
 
 ## Finding local play
 

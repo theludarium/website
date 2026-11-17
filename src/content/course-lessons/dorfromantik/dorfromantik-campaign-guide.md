@@ -13,7 +13,7 @@ nextTeaser: "Next, player counts, solo, variants, and the other Dorfromantik gam
 ---
 **This lesson is spoiler free.** It explains only what the rulebook explains before anything is opened: how the Campaign sheet works, how new content is earned, and how to pause or restart. It says nothing about what is inside any box or on the back of any card. If you have not opened a box yet, you can read this safely.
 
-Dorfromantik is a campaign game. Each game stands on its own, but your score feeds a Campaign sheet that adds new content to future games. The rulebook asks two questions at the end: how far can you push your high score, and how many games will it take to open everything? This lesson helps with the second.
+[Dorfromantik](https://www.amazon.com/dp/B0BQ3W9GRL?tag=cubecommonw0a-20) is a campaign game. Each game stands on its own, but your score feeds a Campaign sheet that adds new content to future games. The rulebook asks two questions at the end: how far can you push your high score, and how many games will it take to open everything? This lesson helps with the second.
 
 ## After every game
 

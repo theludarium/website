@@ -46,11 +46,11 @@ Sushi Go, [Dragomino](https://link.amazon/B09WKyU19), [Rhino Hero](https://www.a
 
 ### Stage 3: Games with hidden scores
 
-[Kingdomino](https://link.amazon/B08l49zvA), [Ticket to Ride](https://link.amazon/B0jh8RB7f), [Azul](https://link.amazon/B0bGRYHex). Nobody knows who is winning until the end, so there is no slow build of panic as the child watches themselves fall behind. The loss arrives all at once, briefly, and the game is over.
+[Kingdomino](https://www.amazon.com/dp/B01N3A4070?tag=cubecommonw0a-20), [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20), [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20). Nobody knows who is winning until the end, so there is no slow build of panic as the child watches themselves fall behind. The loss arrives all at once, briefly, and the game is over.
 
 ### Stage 4: Normal games
 
-[Catan](https://link.amazon/B0h8BDGR2), [Carcassonne](https://link.amazon/B012Rr5ed), whatever the family likes. By now the child has lost dozens of times in low-stakes settings and has a script for it. Some losses will still sting. That is fine. That is everybody.
+[Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20), [Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20), whatever the family likes. By now the child has lost dozens of times in low-stakes settings and has a script for it. Some losses will still sting. That is fine. That is everybody.
 
 *If this is useful, the newsletter sends more like it.*
 

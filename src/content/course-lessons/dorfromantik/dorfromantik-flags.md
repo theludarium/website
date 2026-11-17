@@ -11,7 +11,7 @@ oneIdea: "A Flag pays 1 point per tile, but only if its territory is fully close
 tryThis: "The turn a Flag comes out, agree as a group on a target size for its territory and say how many Landscape tiles you will allow before you start closing it."
 nextTeaser: "Next, tile placement: what perfect placement means in Dorfromantik, why matching edges matter even when they are optional, and how to leave room to grow."
 ---
-Three tiles in a fresh copy of Dorfromantik carry a Flag: a green one on a Forest, a yellow one on Grain, and a red one on a Village. Each can be the biggest single score in your game, or worth nothing at all. The difference is whether its territory is closed when the game ends.
+Three tiles in a fresh copy of [Dorfromantik](https://www.amazon.com/dp/B0BQ3W9GRL?tag=cubecommonw0a-20) carry a Flag: a green one on a Forest, a yellow one on Grain, and a red one on a Village. Each can be the biggest single score in your game, or worth nothing at all. The difference is whether its territory is closed when the game ends.
 
 ## How a Flag scores
 

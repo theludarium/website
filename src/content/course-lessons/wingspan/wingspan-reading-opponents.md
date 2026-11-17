@@ -70,7 +70,7 @@ At two players, everything above gets simpler and sharper.
 - **Denial is worth more.** Whatever your one rival loses is your margin. A tray bird that gives them a goal is worth taking more often than at four.
 - **Pink powers fire more reliably.** Your rival takes every other turn, so a pink power that triggers on a common action fires almost every round.
 
-Wingspan Asia adds a dedicated two-player Duet mode on a shared map, covered in the [expansions lesson](/academy/wingspan/wingspan-expansions/). Our guide to [board games for couples](/articles/board-games-for-couples/) also covers how Wingspan feels at two.
+[Wingspan Asia](https://www.amazon.com/dp/B0BH72GXZ5?tag=cubecommonw0a-20) adds a dedicated two-player Duet mode on a shared map, covered in the [expansions lesson](/academy/wingspan/wingspan-expansions/). Our guide to [board games for couples](/articles/board-games-for-couples/) also covers how Wingspan feels at two.
 
 <!-- AT OUR TABLE: one line on how much denial Levi's group considers fair at a friendly table, and how that changes at two. -->
 

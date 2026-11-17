@@ -97,7 +97,7 @@ As of October 2026, the date and location of the 2027 Nationals have not been an
 
 Three things, and only one of them is skill at the board.
 
-- **The strongest [Catan](https://link.amazon/B0h8BDGR2) you can play.** Every player at a semifinal table earned the seat. Reading threats ([Lesson 23](/academy/catan/threat-assessment/)), closing out games ([Lesson 25](/academy/catan/endgame/)), and steering the robber are the baseline, not an edge.
+- **The strongest [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) you can play.** Every player at a semifinal table earned the seat. Reading threats ([Lesson 23](/academy/catan/threat-assessment/)), closing out games ([Lesson 25](/academy/catan/endgame/)), and steering the robber are the baseline, not an edge.
 - **The right risk at the right time.** Steady play got you here. In a single game where second place does not advance, a bold move that gives you a real shot at 10 is often correct, especially late in the game when the leader is about to close.
 - **Calm.** Even a great player wins well under half of their four-player games. The dice will be unkind to someone at every table. Champions accept that before the first roll, then play each turn as well as they can.
 

@@ -22,7 +22,7 @@ The loop in almost every deck builder is the same five steps:
 
 Step five is where the magic lives. Because every purchase goes into the discard pile and comes back after a shuffle, the deck you have at minute forty is the sum of every decision you made in the first thirty-nine. Nothing is lost. Nothing is permanent either, since each card only shows up when the shuffle says so.
 
-Compare that to a game like [Ticket to Ride](https://link.amazon/B0jh8RB7f), where a card you draw is spent once and gone. In a deck builder, a card you buy is a promise to yourself about the future.
+Compare that to a game like [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20), where a card you draw is spent once and gone. In a deck builder, a card you buy is a promise to yourself about the future.
 
 ## Why was Dominion so important?
 

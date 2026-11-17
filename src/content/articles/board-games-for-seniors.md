@@ -8,7 +8,7 @@ draft: false
 ---
 The best board games for seniors share four traits: big, clear pieces; components that are easy to pick up; a length you can stretch or cut short; and plenty of talk around the table. Some are classics older adults already know, like [Rummikub](https://www.amazon.com/dp/B00000IZJB?tag=cubecommonw0a-20) and dominoes. Others are newer games that teach in five minutes and feel fresh. Below are fifteen picks, plus simple ways to adapt any game for vision, dexterity, and memory.
 
-**The quick answer:** start with Rummikub, [Mexican Train dominoes](https://www.amazon.com/dp/B010VLT93Q?tag=cubecommonw0a-20), or [Qwirkle](https://www.amazon.com/dp/1933054395?tag=cubecommonw0a-20) for a familiar feel. Add [Ticket to Ride](https://link.amazon/B0jh8RB7f) or [Azul](https://link.amazon/B0bGRYHex) when the group wants something new. Use large-print cards, good light, and a tray or turntable to make almost any game easier.
+**The quick answer:** start with Rummikub, [Mexican Train dominoes](https://www.amazon.com/dp/B010VLT93Q?tag=cubecommonw0a-20), or [Qwirkle](https://www.amazon.com/dp/1933054395?tag=cubecommonw0a-20) for a familiar feel. Add [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) or [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) when the group wants something new. Use large-print cards, good light, and a tray or turntable to make almost any game easier.
 
 ## What makes a good board game for older adults?
 
@@ -128,7 +128,7 @@ Card games are the easiest place to start, because most people already know at l
 
 Games bridge generations better than almost anything. Grandparents bring patience and experience; kids bring energy and fresh eyes. Look for games where young and old can play as equals.
 
-- **[Kingdomino](https://link.amazon/B08l49zvA) and Qwirkle:** simple enough for a 7-year-old, interesting for an adult.
+- **[Kingdomino](https://www.amazon.com/dp/B01N3A4070?tag=cubecommonw0a-20) and Qwirkle:** simple enough for a 7-year-old, interesting for an adult.
 - **[Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20) and Codenames:** play in mixed teams so grandparents and grandkids work together.
 - **Dominoes and card games:** teach a classic you grew up with, and pass it on.
 - **Ticket to Ride:** a long-time family favorite that kids pick up fast.

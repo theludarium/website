@@ -41,7 +41,7 @@ Once you track this for a few months, something shifts. You stop buying games th
 
 The core library is where you start buying with a name attached. Not a role, a person.
 
-**Your spouse or partner.** If the two-player role is your busiest, this is where a second and third two-player game belongs. But go by their taste log, not yours. If they lit up at [Azul](https://link.amazon/B0bGRYHex) and tolerated [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20), buy the next game that feels like Azul.
+**Your spouse or partner.** If the two-player role is your busiest, this is where a second and third two-player game belongs. But go by their taste log, not yours. If they lit up at [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) and tolerated [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20), buy the next game that feels like Azul.
 
 **Your kids.** Children age through a library faster than anything else. A game that was perfect at six is beneath them at nine. Buy the next step, not the current one, and keep the outgrown games; they come back for younger cousins and for your kids' own kids, which is the [lifetime library](/articles/lifetime-library/) thinking that this series ends on.
 

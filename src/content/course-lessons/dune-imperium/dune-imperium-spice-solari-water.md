@@ -11,7 +11,7 @@ oneIdea: "Each resource has a job. Water opens the desert, spice buys the big Fa
 tryThis: "In your next game, before each Agent turn, say which resource you will spend next and where. If you cannot name a place, you are probably gathering the wrong thing."
 nextTeaser: "Next, openings: the first three rounds, when to buy your third Agent, and what your first cards should do."
 ---
-Dune: Imperium has three resources, and new players often treat them as points. They are not. Spice, Solari, and water score nothing on their own, apart from breaking ties. Each one is a key to certain board spaces, and the skill is holding the right key when you reach the door.
+[Dune: Imperium](https://www.amazon.com/dp/B08JHB9V72?tag=cubecommonw0a-20) has three resources, and new players often treat them as points. They are not. Spice, Solari, and water score nothing on their own, apart from breaking ties. Each one is a key to certain board spaces, and the skill is holding the right key when you reach the door.
 
 Every number here comes from the [rulebook](https://d19y2ttatozxjp.cloudfront.net/pdfs/DUNE_IMPERIUM_Rules_2020_10_26.pdf) and Dire Wolf's [board space player aid](https://d19y2ttatozxjp.cloudfront.net/pdfs/DUNE_IMPERIUM_Player_Aid_Icons_and_Board_Spaces.pdf) for the original game. Uprising notes are at the end.
 

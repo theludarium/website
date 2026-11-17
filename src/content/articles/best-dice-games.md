@@ -96,7 +96,7 @@ In these, dice are the engine of a full board game. You still roll, but the deci
 
 Designed by Adrian Adamescu and Daryl Andrews and published by Floodgate Games in 2017, Sagrada plays 1 to 4 in 30 to 45 minutes. Each player builds a stained-glass window out of colored dice. Each round, dice are drawn and rolled, and players take turns drafting them into their window, following color and number rules on each square.
 
-**Why it fits:** [Sagrada](https://www.amazon.com/dp/B0GL8V2VFD?tag=cubecommonw0a-20) looks stunning on the table and plays like a puzzle. It is the pick for people who like Sudoku or [Azul](https://link.amazon/B0bGRYHex). We compared the two in [Azul vs Sagrada](/articles/azul-vs-sagrada/).
+**Why it fits:** [Sagrada](https://www.amazon.com/dp/B0GL8V2VFD?tag=cubecommonw0a-20) looks stunning on the table and plays like a puzzle. It is the pick for people who like Sudoku or [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20). We compared the two in [Azul vs Sagrada](/articles/azul-vs-sagrada/).
 
 ### Dice Forge
 
@@ -108,7 +108,7 @@ Designed by Régis Bonnessée and published by Libellud in 2017, Dice Forge play
 
 Designed by John D. Clair and published by AEG in 2018, Space Base plays 2 to 5 in about 60 minutes. On your turn you roll two dice and take a reward either from each die or from their sum. Then you can buy a new ship card for one of your twelve numbered sectors.
 
-**Why it fits:** the clever part is that every roll pays everyone. Cards you have deployed earn you rewards on other players' turns too, so you are always watching the dice. [Space Base](https://www.amazon.com/dp/B0793MT3Y6?tag=cubecommonw0a-20) suits groups who liked the dice in [Catan](https://link.amazon/B0h8BDGR2) and want more control. The first player to 40 points triggers the end.
+**Why it fits:** the clever part is that every roll pays everyone. Cards you have deployed earn you rewards on other players' turns too, so you are always watching the dice. [Space Base](https://www.amazon.com/dp/B0793MT3Y6?tag=cubecommonw0a-20) suits groups who liked the dice in [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) and want more control. The first player to 40 points triggers the end.
 
 ### Roll Player
 

@@ -65,7 +65,7 @@ Each player count asks for a slightly different focus, as covered in [the player
 - **Two players:** more room at the research center. Plan two rounds ahead and race the short objective clock.
 - **Three players:** turn order matters. Weigh how the score track sets who picks first.
 - **Four players:** a crowded research center and a fast market. Buy what you need when you see it, and deny when it is cheap.
-- **Five, with Totally Liquid:** everything above, more crowded still.
+- **Five, with [Totally Liquid](https://www.amazon.com/dp/B07K73C8ZB?tag=cubecommonw0a-20):** everything above, more crowded still.
 
 ## Raising your ceiling
 

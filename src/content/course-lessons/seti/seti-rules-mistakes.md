@@ -11,7 +11,7 @@ oneIdea: "Most first-game SETI errors are timing errors: when the system rotates
 tryThis: "Before your next game, read this list aloud and ask everyone to name one rule they had been playing differently."
 nextTeaser: "Next, a first-game plan for all five rounds: what to do with your opening hand, when to tuck, and when to pass."
 ---
-SETI's rulebook is clear, but it is dense, and a few rules hide in sidebars. This lesson collects the slips that come up most, each checked against the English rulebook (October 2024) and CGE's official FAQ (version BGG 11.2024). The rulebook's own Rules Reminders page lists several of them, which tells you how often they happen.
+[SETI](https://www.amazon.com/dp/B0CZBCRC3S?tag=cubecommonw0a-20)'s rulebook is clear, but it is dense, and a few rules hide in sidebars. This lesson collects the slips that come up most, each checked against the English rulebook (October 2024) and CGE's official FAQ (version BGG 11.2024). The rulebook's own Rules Reminders page lists several of them, which tells you how often they happen.
 
 ## Movement and probes
 

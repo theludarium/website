@@ -11,7 +11,7 @@ oneIdea: "The opening is about permanent upgrades. Anything that helps you every
 tryThis: "In your next game, write down the round you get your third Agent and the round you take your High Council seat, if you do. Compare them with the winner's."
 nextTeaser: "Level 2 starts next: building your deck, from judging a card in the Imperium Row to knowing when to trash."
 ---
-Dune: Imperium has no fixed opening. The Imperium Row is different every game, your Leader pulls you one way, and the first Conflict card changes what the round is worth. But the first three rounds still follow patterns, and they all come from one fact: the game lasts at most ten rounds, one per Conflict card. Anything that pays you every round is worth more the sooner you have it.
+[Dune: Imperium](https://www.amazon.com/dp/B08JHB9V72?tag=cubecommonw0a-20) has no fixed opening. The Imperium Row is different every game, your Leader pulls you one way, and the first Conflict card changes what the round is worth. But the first three rounds still follow patterns, and they all come from one fact: the game lasts at most ten rounds, one per Conflict card. Anything that pays you every round is worth more the sooner you have it.
 
 ## Your starting deck is weak on purpose
 

@@ -7,7 +7,7 @@ category: Game Night
 tags: ["best board games for 6 players", "board games for large groups", "games for 5 players", "games for 7 players", "player count board games", "how many players board game", "Hosting and game-night craft"]
 draft: false
 ---
-The best board games for 6 players are the ones built for six, not the ones that merely allow it. That distinction is the whole article. A box that says "2 to 6 players" is making a promise about the rules, not about the experience. [Catan](https://link.amazon/B0h8BDGR2) at six with the expansion is a legal game. It is also a two-and-a-half-hour wait for your turn.
+The best board games for 6 players are the ones built for six, not the ones that merely allow it. That distinction is the whole article. A box that says "2 to 6 players" is making a promise about the rules, not about the experience. [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) at six with the expansion is a legal game. It is also a two-and-a-half-hour wait for your turn.
 
 **The quick answer:** [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), [7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20), and [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) are the safest games for six. For families, add [Camel Up](https://www.amazon.com/dp/B09KWZMXLX?tag=cubecommonw0a-20) and [Sushi Go Party](https://www.amazon.com/dp/B01CETNKE2?tag=cubecommonw0a-20). For adults, add Heat and [Cockroach Poker](https://www.amazon.com/dp/B07JYLC3DK?tag=cubecommonw0a-20). For the easiest teach, play [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20).
 
@@ -40,7 +40,7 @@ Six is the hardest common headcount. Too many for most strategy games, too few f
 |---|---|---|
 | Codenames | Two teams of three; turns are simultaneous team discussion | 15 to 20 min |
 | 7 Wonders | Everyone picks cards at the same time; six plays as fast as three | 30 to 40 min |
-| [King of Tokyo](https://link.amazon/B0goO6BQA) | Dice-rolling monster brawl; turns are quick and every roll can hit you | 30 min |
+| [King of Tokyo](https://www.amazon.com/dp/B01F46RPS4?tag=cubecommonw0a-20) | Dice-rolling monster brawl; turns are quick and every roll can hit you | 30 min |
 | Wavelength | Team-based, zero downtime, scales to any even number | 30 min |
 | Sushi Go Party | Simultaneous drafting; built for 2 to 8 | 20 min |
 | Cockroach Poker | Bluffing game, fast rounds, six is ideal | 20 min |
@@ -49,7 +49,7 @@ Six is the hardest common headcount. Too many for most strategy games, too few f
 
 Notice what they have in common: simultaneous actions, teams, or very short turns. That is the recipe for any game that handles a big table well.
 
-Avoid at six: Catan, [Ticket to Ride](https://link.amazon/B0jh8RB7f) (five is the max and already long), [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), most worker-placement games, and anything with a long individual turn. They are great games. They are not six-player games.
+Avoid at six: Catan, [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) (five is the max and already long), [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), most worker-placement games, and anything with a long individual turn. They are great games. They are not six-player games.
 
 ### Best family board games for 6 players
 
@@ -81,9 +81,9 @@ If half the table is new to games, choose rules you can teach in under five minu
 
 A quick reference. Not exhaustive, but every pick here is one we would put on the table at that count without hesitation.
 
-**Three players.** [Azul](https://link.amazon/B0bGRYHex), Wingspan, Ticket to Ride, [Pandemic](https://link.amazon/B0eHP5GCg), [Splendor](https://link.amazon/B0fEvY6Wg), [The Crew](https://link.amazon/B099S9RKf). Three is a quietly excellent count. Most games designed for four are tighter and faster at three.
+**Three players.** [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20), Wingspan, Ticket to Ride, [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20), [Splendor](https://www.amazon.com/dp/B00IZEUFIA?tag=cubecommonw0a-20), [The Crew](https://link.amazon/B099S9RKf). Three is a quietly excellent count. Most games designed for four are tighter and faster at three.
 
-**Four players.** Nearly everything. Catan, [Carcassonne](https://link.amazon/B012Rr5ed), Pandemic, Wingspan, Azul, Codenames (two teams of two is fine). Four is what most designers build around.
+**Four players.** Nearly everything. Catan, [Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20), Pandemic, Wingspan, Azul, Codenames (two teams of two is fine). Four is what most designers build around.
 
 **Five players.** Pandemic, 7 Wonders, Ticket to Ride, [Sushi Go](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), The Crew, [Citadels](https://www.amazon.com/dp/B09CDSJMP5?tag=cubecommonw0a-20), Cockroach Poker. Watch out: many 2-to-5 games slow noticeably at five.
 

@@ -30,7 +30,7 @@ The back of each Island board shows the thematic map, the Island as its story im
 - **Some boards have more lands** and more starting Invaders.
 - **Terrains are harder to spot** in the more realistic art.
 
-The thematic boards have fixed places. One player uses Northeast. Two use West and East, touching on the side opposite the Ocean. Three add Northeast above East. Four use West, East, Northwest, and Northeast. Some lands spill slightly onto other boards; a land belongs to the board that shows its number and setup icons, and loose fragments are not in play. Ignore setup icons for Branch & Claw tokens if you only have the base game.
+The thematic boards have fixed places. One player uses Northeast. Two use West and East, touching on the side opposite the Ocean. Three add Northeast above East. Four use West, East, Northwest, and Northeast. Some lands spill slightly onto other boards; a land belongs to the board that shows its number and setup icons, and loose fragments are not in play. Ignore setup icons for [Branch & Claw](https://www.amazon.com/dp/B06VWBP1NS?tag=cubecommonw0a-20) tokens if you only have the base game.
 
 **Why clustering is harder:** on the balanced boards, each terrain is spread out, so one Invader card hits lands far apart. On the thematic map, the same card can hit a block of neighboring lands. Explorers then sit next to Towns, Builds feed Explores, and one Ravage can set up a cascade into the land next door.
 

@@ -8,7 +8,7 @@ draft: false
 ---
 Cooperative games with hidden information are the cure for the quarterback problem. When nobody can see everything, nobody can run everything. Each player holds a piece the others cannot, and the team only wins if every piece gets played well.
 
-This article is a list of twelve co-ops built that way, with a short explanation of the design tricks that make them work. If you have ever watched one person play [Pandemic](https://link.amazon/B0eHP5GCg) while three others moved pawns on command, this is the shelf you want.
+This article is a list of twelve co-ops built that way, with a short explanation of the design tricks that make them work. If you have ever watched one person play [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20) while three others moved pawns on command, this is the shelf you want.
 
 ## What is the quarterback problem, briefly?
 

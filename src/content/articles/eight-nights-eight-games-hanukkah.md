@@ -60,7 +60,7 @@ Two to five players, about 15 minutes, ages 8 and up. It is the best first strat
 
 ## Night 4: Kingdomino
 
-[Kingdomino](https://link.amazon/B08l49zvA) from Blue Orange uses domino-style tiles to build a small kingdom of fields, lakes, forests, and mines. The clever part is the draft: the better the tile you take this round, the later you pick next round.
+[Kingdomino](https://www.amazon.com/dp/B01N3A4070?tag=cubecommonw0a-20) from Blue Orange uses domino-style tiles to build a small kingdom of fields, lakes, forests, and mines. The clever part is the draft: the better the tile you take this round, the later you pick next round.
 
 Two to four players, about 15 minutes, ages 8 and up. About $20 at major retailers at the time of writing. It won the Spiel des Jahres, Germany's game of the year award, in 2017, and it is one of the easiest real strategy games to teach a mixed-age table.
 
@@ -74,19 +74,19 @@ Two to eight or more players, about 15 minutes, ages 14 and up. It scales to a f
 
 ## Night 6: Azul
 
-[Azul](https://link.amazon/B0bGRYHex) from Next Move Games is a beautiful tile-drafting game. Players take colored tiles from shared piles to decorate a palace wall, and every tile you cannot place costs you points. The chunky tiles are half the appeal.
+[Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) from Next Move Games is a beautiful tile-drafting game. Players take colored tiles from shared piles to decorate a palace wall, and every tile you cannot place costs you points. The chunky tiles are half the appeal.
 
 Two to four players, 30 to 45 minutes, ages 8 and up. About $32 to $40, with a $39.99 list price. It won the Spiel des Jahres in 2018. It suits a family where the kids are ready for a game with a bit more thinking in it.
 
 ## Night 7: Cascadia
 
-[Cascadia](https://link.amazon/B0g1HYFt4) from Flatout Games and AEG has you build a landscape of habitat tiles and fill it with bears, elk, salmon, hawks, and foxes, each scoring in its own pattern. It is calm, pretty, and rewarding for players who like puzzles.
+[Cascadia](https://www.amazon.com/dp/B093H8RGXX?tag=cubecommonw0a-20) from Flatout Games and AEG has you build a landscape of habitat tiles and fill it with bears, elk, salmon, hawks, and foxes, each scoring in its own pattern. It is calm, pretty, and rewarding for players who like puzzles.
 
 One to four players, 30 to 45 minutes, ages 10 and up. About $32 to $40 at the time of writing. It won the Spiel des Jahres in 2022. It also has a solo mode, so the person who unwraps it can play it alone on a quiet night.
 
 ## Night 8: Ticket to Ride
 
-Finish with the biggest box. [Ticket to Ride](https://link.amazon/B0jh8RB7f) from Days of Wonder has players collect colored train cards and claim railway routes across a map of North America, trying to connect the cities on their secret tickets.
+Finish with the biggest box. [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) from Days of Wonder has players collect colored train cards and claim railway routes across a map of North America, trying to connect the cities on their secret tickets.
 
 Two to five players, 30 to 60 minutes, ages 8 and up. It won the Spiel des Jahres in 2004 and is still one of the best first "big" board games for a family. Ending on it gives the last night a game long enough to linger over.
 

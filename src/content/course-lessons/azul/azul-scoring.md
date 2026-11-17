@@ -11,7 +11,7 @@ oneIdea: "The end bonuses decide close games, and each one has a price in tiles 
 tryThis: "At the start of each round in your next game, check every wall for a row with 4 tiles. If one exists, play that round as if it is the last."
 nextTeaser: "Level 3 opens with the two-player duel: judging picks by the gap, counting the picks left in a round, and steering the last forced pick to your opponent."
 ---
-[Azul](https://link.amazon/B0bGRYHex)'s final scoring is where games flip. A player who looked behind on the score track adds three column bonuses and a full color, and 31 points arrive at once. Nothing about it is hidden, though. You can count it rounds ahead, and play for it.
+[Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20)'s final scoring is where games flip. A player who looked behind on the score track adds three column bonuses and a full color, and 31 points arrive at once. Nothing about it is hidden, though. You can count it rounds ahead, and play for it.
 
 ## The bonuses, side by side
 

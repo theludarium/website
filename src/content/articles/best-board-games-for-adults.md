@@ -39,14 +39,14 @@ The last point matters most. Adults want to feel smart. A game that lets a first
 |---|---|---|---|
 | [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) | 4 to 8+ | 15 min | One-word clues, team play, instant laughter |
 | [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) | 2 to 12 | 30 min | Argue about where "a hot dog" sits on a sandwich scale |
-| [Azul](https://link.amazon/B0bGRYHex) | 2 to 4 | 30 to 45 min | Beautiful tiles, one simple rule, surprising depth |
-| [Ticket to Ride](https://link.amazon/B0jh8RB7f) | 2 to 5 | 45 to 60 min | Collect cards, build train routes, feel clever |
+| [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) | 2 to 4 | 30 to 45 min | Beautiful tiles, one simple rule, surprising depth |
+| [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) | 2 to 5 | 45 to 60 min | Collect cards, build train routes, feel clever |
 | [The Crew](https://link.amazon/B099S9RKf) | 2 to 5 | 20 min | A card game where you win or lose together |
 | [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20) | 3 to 7 | 20 min | Cooperative word game, no one looks bad |
-| [Splendor](https://link.amazon/B0fEvY6Wg) | 2 to 4 | 30 min | Gem chips and a satisfying engine |
+| [Splendor](https://www.amazon.com/dp/B00IZEUFIA?tag=cubecommonw0a-20) | 2 to 4 | 30 min | Gem chips and a satisfying engine |
 | [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) | 2 to 5 | 15 min | Pass cards, collect sets, done in a quarter hour |
 | [Skull](https://www.amazon.com/dp/B08R2BPLSN?tag=cubecommonw0a-20) | 3 to 6 | 15 to 30 min | Pure bluffing with four discs each |
-| [Cascadia](https://link.amazon/B0g1HYFt4) | 1 to 4 | 30 to 45 min | Calm tile placement, nature theme, no conflict |
+| [Cascadia](https://www.amazon.com/dp/B093H8RGXX?tag=cubecommonw0a-20) | 1 to 4 | 30 to 45 min | Calm tile placement, nature theme, no conflict |
 | [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20) | 2 | 20 to 30 min | A two-player quilt puzzle with real tension |
 | [Decrypto](https://www.amazon.com/dp/B07BB4ND6J?tag=cubecommonw0a-20) | 3 to 8 | 30 min | Codenames for people who want to think harder |
 
@@ -134,7 +134,7 @@ Under an hour, and ideally under 30 minutes for the first game. A short game let
 
 ### Are there good board games for adults that are not competitive?
 
-Yes. The Crew, Just One, and [Pandemic](https://link.amazon/B0eHP5GCg) are fully cooperative, and Cascadia and Azul are competitive but with almost no direct conflict between players.
+Yes. The Crew, Just One, and [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20) are fully cooperative, and Cascadia and Azul are competitive but with almost no direct conflict between players.
 
 ### What is the best board game for a dinner party?
 

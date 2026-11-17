@@ -11,7 +11,7 @@ oneIdea: "Most first-game trouble in Cities & Knights comes from two places: sma
 tryThis: "At the end of your next three games, write down how many cities each player lost to the barbarians. If anyone lost one, ask what it cost them in points and turns."
 nextTeaser: "Next, knights in full: recruiting, activating, promoting, and the three actions an active knight can take."
 ---
-Your first games of Cities & Knights will run long, and that is fine. The bigger risk is quietly playing a rule wrong and learning bad habits from it. This lesson covers the rules slips nearly every new table makes, checked against the 6th edition rulebook, and then the strategy traps that cost the most points.
+Your first games of [Cities & Knights](https://www.amazon.com/dp/B0DY87W8SS?tag=cubecommonw0a-20) will run long, and that is fine. The bigger risk is quietly playing a rule wrong and learning bad habits from it. This lesson covers the rules slips nearly every new table makes, checked against the 6th edition rulebook, and then the strategy traps that cost the most points.
 
 ## Rules slips to catch early
 

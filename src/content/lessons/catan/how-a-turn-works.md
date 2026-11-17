@@ -24,7 +24,7 @@ levelCheck:
     explain: "A 2:1 port only improves the resource shown on it. You give 2 of that resource and take 1 of any other."
 nextTeaser: "Next up is the roll everyone dreads. Lesson 4 covers the 7, the robber, and the 25 development cards that can swing a game."
 ---
-Once setup is done, [Catan](https://link.amazon/B0h8BDGR2) settles into a rhythm. Roll, trade, build, pass the dice. The same loop repeats until someone reaches 10 points. Learn the loop well and the game gets fast, which is good news for everyone at the table.
+Once setup is done, [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) settles into a rhythm. Roll, trade, build, pass the dice. The same loop repeats until someone reaches 10 points. Learn the loop well and the game gets fast, which is good news for everyone at the table.
 
 ## What happens on a Catan turn?
 

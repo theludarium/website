@@ -49,7 +49,7 @@ The games for a neighborhood night need to pass three tests: teachable in three 
 | [Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20) | 4 to 8 (12 with the big box) | Drawing badly is the fun; zero skill barrier |
 | [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20) | 3 to 7 | Cooperative, gentle, nobody loses |
 | [Sushi Go Party!](https://www.amazon.com/dp/B01CETNKE2?tag=cubecommonw0a-20) | 2 to 8 | Fast card game, cute, three-minute teach |
-| [Azul](https://link.amazon/B0bGRYHex) | 2 to 4 | For a quieter side table |
+| [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) | 2 to 4 | For a quieter side table |
 
 **Codenames** is the anchor. Put it on the main table and keep it running all night. It makes two teams out of strangers, and the arguments about whether "orange" connects to "fruit" and "Netherlands" are the conversations that turn neighbors into acquaintances.
 

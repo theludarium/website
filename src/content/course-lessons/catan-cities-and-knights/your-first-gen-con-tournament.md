@@ -11,7 +11,7 @@ oneIdea: "Getting into a Gen Con tournament is its own small game: a badge first
 tryThis: "Make a free Gen Con account now, and add the catalog release to your calendar. When the catalog opens, run the search in this lesson and save every Cities & Knights listing you find."
 nextTeaser: "Next, winning the event: how to play round one versus the final, when to protect points and when to push, and how to handle a table of strong players."
 ---
-Gen Con 2027 runs August 5 to 8 in Indianapolis. If the pattern of recent years holds, Catan will list a Cities & Knights tournament there, but no 2027 listing exists yet, and we could not confirm one for 2026. So this lesson does not promise an event. It teaches you how to find one, get a seat, and arrive ready.
+Gen Con 2027 runs August 5 to 8 in Indianapolis. If the pattern of recent years holds, Catan will list a [Cities & Knights](https://www.amazon.com/dp/B0DY87W8SS?tag=cubecommonw0a-20) tournament there, but no 2027 listing exists yet, and we could not confirm one for 2026. So this lesson does not promise an event. It teaches you how to find one, get a seat, and arrive ready.
 
 For the convention as a whole, our [first-timer's guide](/articles/gen-con-first-timer-guide/) covers badges, the halls, and the rhythm of the four days. This lesson stays on the tournament.
 

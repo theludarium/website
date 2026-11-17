@@ -11,7 +11,7 @@ oneIdea: "Most Jaws of the Lion arguments are about a handful of rules that the 
 tryThis: "Before your next scenario, read this list aloud and ask each player to name one rule they had been playing differently."
 nextTeaser: "Next: the four starting characters, with a plan for each, so every player knows their job before the first card is picked."
 ---
-Gloomhaven players argue about rules more than most groups, and Jaws of the Lion tables are no different. The good news is that the Learn to Play Guide answers most of the arguments in one sentence. This lesson collects the common slips, each checked against the guide. Page numbers refer to the guide.
+Gloomhaven players argue about rules more than most groups, and [Jaws of the Lion](https://www.amazon.com/dp/B088QSDB7S?tag=cubecommonw0a-20) tables are no different. The good news is that the Learn to Play Guide answers most of the arguments in one sentence. This lesson collects the common slips, each checked against the guide. Page numbers refer to the guide.
 
 A slip in either direction matters. Some make the game far harder, and some quietly make it easy.
 

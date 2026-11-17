@@ -81,4 +81,4 @@ Do not sweep with your last few cubes hoping for a miracle. Energy carries over 
 
 Energy cubes sit in front of each player, in plain view. A Monster with eight or more Energy can buy almost anything in the row. Before you end your turn with a strong card left face up, check who sits next and what they can afford.
 
-The midgame is where [King of Tokyo](https://link.amazon/B0goO6BQA) stops being pure dice. If your group is learning to enjoy that bite, our piece on [take-that games](/articles/take-that-games/) explains why attacks here land softer: they hit whoever holds a position, not a person.
+The midgame is where [King of Tokyo](https://www.amazon.com/dp/B01F46RPS4?tag=cubecommonw0a-20) stops being pure dice. If your group is learning to enjoy that bite, our piece on [take-that games](/articles/take-that-games/) explains why attacks here land softer: they hit whoever holds a position, not a person.

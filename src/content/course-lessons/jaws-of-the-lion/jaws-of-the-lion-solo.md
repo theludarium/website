@@ -11,7 +11,7 @@ oneIdea: "Solo Jaws of the Lion is the full game with two characters and one bra
 tryThis: "Set up your two characters side by side with a clear gap between them, and always pick cards for the front-line character first."
 nextTeaser: "Level 5 opens with the big question after the campaign: Gloomhaven, Frosthaven, or Buttons and Bugs, and which suits your group."
 ---
-Many players run Jaws of the Lion as a solo campaign, and the box supports it: the box says 1 to 4 players, and the scenario book makes setup quick enough for a weeknight. The Learn to Play Guide gives the solo rule in one line: if you play by yourself, you control two separate characters (p. 3). It also warns that this is more complex. This lesson makes it simpler.
+Many players run [Jaws of the Lion](https://www.amazon.com/dp/B088QSDB7S?tag=cubecommonw0a-20) as a solo campaign, and the box supports it: the box says 1 to 4 players, and the scenario book makes setup quick enough for a weeknight. The Learn to Play Guide gives the solo rule in one line: if you play by yourself, you control two separate characters (p. 3). It also warns that this is more complex. This lesson makes it simpler.
 
 ## The solo rules
 

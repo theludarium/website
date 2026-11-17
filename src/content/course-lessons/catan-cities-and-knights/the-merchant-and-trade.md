@@ -11,7 +11,7 @@ oneIdea: "The merchant is a 2:1 trade rate and a victory point that keeps changi
 tryThis: "Next game, before you place the merchant, name the resource you will have the most of over the next three rounds, and put the merchant on that hex."
 nextTeaser: "Next, knight tactics: chasing the robber, displacing rival knights, and using knights to block roads and building sites."
 ---
-In base Catan, trade happens with other players and with ports. Cities & Knights keeps all of that and adds two things: commodities, which trade by their own rules, and the merchant, a small wooden figure worth a victory point that moves every time someone plays a Merchant card. This lesson is about the economy around both.
+In base Catan, trade happens with other players and with ports. [Cities & Knights](https://www.amazon.com/dp/B0DY87W8SS?tag=cubecommonw0a-20) keeps all of that and adds two things: commodities, which trade by their own rules, and the merchant, a small wooden figure worth a victory point that moves every time someone plays a Merchant card. This lesson is about the economy around both.
 
 ## The trade rules for commodities
 

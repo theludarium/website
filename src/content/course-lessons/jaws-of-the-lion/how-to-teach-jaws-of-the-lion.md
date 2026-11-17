@@ -11,7 +11,7 @@ oneIdea: "Jaws of the Lion already has a teacher: the Learn to Play Guide. Your 
 tryThis: "Print the teach sheet, put it in the middle of the table, and point to the line you are on during the first two rounds."
 nextTeaser: "Level 1 starts with the rules new tables get wrong, from monster focus to rests, checked against the guide."
 ---
-Most heavy games ask the host to explain everything before the first turn. Jaws of the Lion does not. Its Learn to Play Guide is built to be read during play: it gives you the rules for Scenario 1, sends you off to play, and then adds new rules before Scenario 2, 3, 4, and 5. By the end of the fifth scenario, the guide says, you have the full system.
+Most heavy games ask the host to explain everything before the first turn. [Jaws of the Lion](https://www.amazon.com/dp/B088QSDB7S?tag=cubecommonw0a-20) does not. Its Learn to Play Guide is built to be read during play: it gives you the rules for Scenario 1, sends you off to play, and then adds new rules before Scenario 2, 3, 4, and 5. By the end of the fifth scenario, the guide says, you have the full system.
 
 That changes the host's job. You do not teach Gloomhaven. You teach one round, and then you read.
 

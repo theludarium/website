@@ -24,7 +24,7 @@ levelCheck:
     explain: "World Championship seats go mostly to national champions. A few other titles can earn one too, like the 2026 Americas Championship, but there is no open entry."
 nextTeaser: "Next, the rules themselves. Lesson 30 covers the official tournament rules that differ from kitchen-table Catan, starting with the big one: the robber is live on turn one."
 ---
-Welcome to Level 4. You can read a board, run a plan, track the table, and close out a game. Now comes a question plenty of [Catan](https://link.amazon/B0h8BDGR2) players never think to ask: is there somewhere to play this for real?
+Welcome to Level 4. You can read a board, run a plan, track the table, and close out a game. Now comes a question plenty of [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) players never think to ask: is there somewhere to play this for real?
 
 Yes. There is a whole ladder of official events, run in the U.S. by [CATAN](https://link.amazon/B0h8BDGR2) Studio. It starts at a game store near you and ends at a World Championship. This level has one goal: walk into an official qualifier knowing the format, the rules, and the clock. It starts with a map of the whole road.
 
@@ -126,7 +126,7 @@ That is it. No ranking, no invitation, no club card. If you know the base game r
 
 CATAN Studio updates the program every season. Treat these details as current for 2026 to 2027, and check the [official U.S. page](https://catanevents.com/players/champ/us-regional/) before you plan around them.
 
-The championship ladder uses the base game only. Cities & Knights has its own, smaller events, such as casual tournaments at Gen Con, and our [Cities & Knights course](/academy/catan-cities-and-knights/) ends with a path to them.
+The championship ladder uses the base game only. [Cities & Knights](https://www.amazon.com/dp/B0DY87W8SS?tag=cubecommonw0a-20) has its own, smaller events, such as casual tournaments at Gen Con, and our [Cities & Knights course](/academy/catan-cities-and-knights/) ends with a path to them.
 
 ## Try it this week
 

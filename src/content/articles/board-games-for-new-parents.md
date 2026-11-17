@@ -55,7 +55,7 @@ New parents do not stop having friends, but hosting changes. The visitor comes t
 
 - **Sushi Go!** handles two to five, plays in fifteen minutes, and teaches in one. It is the game to hand to a friend who has never played anything.
 - **[The Crew](https://link.amazon/B099S9RKf)** is cooperative trick-taking for three to five players. It is quiet by rule, since you cannot talk about your cards, and each mission is about five minutes. You can stop after any mission.
-- **[Azul](https://link.amazon/B0bGRYHex)** is a slight stretch on time (30 to 40 minutes) but the tiles are quiet on a cloth, the rules are simple, and it is the game most likely to make your friend say "we should do this more."
+- **[Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20)** is a slight stretch on time (30 to 40 minutes) but the tiles are quiet on a cloth, the rules are simple, and it is the game most likely to make your friend say "we should do this more."
 
 For more games that work at two and still scale up, see [board games for couples](/articles/board-games-for-couples/).
 

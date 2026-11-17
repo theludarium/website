@@ -11,7 +11,7 @@ oneIdea: "The base game changes more than you think when the player count change
 tryThis: "Play your next two games of Splendor at different player counts. Note which one your group asks for again before you buy anything new."
 nextTeaser: "Level 2 begins with the midgame: turning bonuses into points, reading what everyone else can buy, and denying without wasting turns."
 ---
-Splendor plays 2 to 4 players, as printed on the box, and The Silk Road and The Sun Never Sets keep that same range. The base game has no solo mode; two players is a full official count, and Splendor Duel is a separate game built only for two.
+[Splendor](https://www.amazon.com/dp/B00IZEUFIA?tag=cubecommonw0a-20) plays 2 to 4 players, as printed on the box, and The Silk Road and The Sun Never Sets keep that same range. The base game has no solo mode; two players is a full official count, and Splendor Duel is a separate game built only for two.
 
 Splendor is a small game that has grown a family: two expansion boxes, a two-player version, and a Marvel edition. Each is good. None replaces the original, and the original changes more than you might expect just by changing how many people sit down.
 

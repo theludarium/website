@@ -37,12 +37,12 @@ Different designs solve the problem different ways, and the solutions are worth 
 
 | Game | Count | How it scales | What it costs |
 |---|---|---|---|
-| [Catan](https://link.amazon/B0h8BDGR2) | 3 to 4 (5 to 6 with expansion) | Larger map and extra build phase for more players | Needs a separate product |
+| [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) | 3 to 4 (5 to 6 with expansion) | Larger map and extra build phase for more players | Needs a separate product |
 | [7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20) | 3 to 7 | Simultaneous drafting, so turns do not add time | Interaction limited to neighbors |
-| [Carcassonne](https://link.amazon/B012Rr5ed) | 2 to 5 | Same tiles, same rules; more players means fewer tiles each | Game gets more chaotic as count rises |
-| [Ticket to Ride](https://link.amazon/B0jh8RB7f) | 2 to 5 | Double routes are locked at 2 and 3 players | A single rule change does most of the work |
-| [Pandemic](https://link.amazon/B0eHP5GCg) | 2 to 4 | Fewer starting cards per player at higher counts | Difficulty shifts; some counts feel easier |
-| [Azul](https://link.amazon/B0bGRYHex) | 2 to 4 | Number of factory displays changes with player count | Clean; the scaling is almost invisible |
+| [Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20) | 2 to 5 | Same tiles, same rules; more players means fewer tiles each | Game gets more chaotic as count rises |
+| [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) | 2 to 5 | Double routes are locked at 2 and 3 players | A single rule change does most of the work |
+| [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20) | 2 to 4 | Fewer starting cards per player at higher counts | Difficulty shifts; some counts feel easier |
+| [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) | 2 to 4 | Number of factory displays changes with player count | Clean; the scaling is almost invisible |
 | [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) | 1 to 5 | Round structure fixed; solo uses an automa deck | Downtime grows noticeably at five |
 
 Three patterns stand out.

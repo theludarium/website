@@ -19,7 +19,7 @@ The game matters more than the format. A good tournament game has four propertie
 3. **A fixed player count.** Two-player games make brackets simple. Three- and four-player games work but need a scoring system rather than a knockout.
 4. **Low learning cost.** If half the field is learning the game in round one, round one is a demo, not a match.
 
-If you want a multiplayer game, pick one that plays in 30 to 45 minutes and scores points: [Azul](https://link.amazon/B0bGRYHex), [Splendor](https://link.amazon/B0fEvY6Wg), [Kingdomino](https://link.amazon/B08l49zvA), or [Ticket to Ride](https://link.amazon/B0jh8RB7f). Then use Swiss or round robin, not a knockout bracket.
+If you want a multiplayer game, pick one that plays in 30 to 45 minutes and scores points: [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20), [Splendor](https://www.amazon.com/dp/B00IZEUFIA?tag=cubecommonw0a-20), [Kingdomino](https://www.amazon.com/dp/B01N3A4070?tag=cubecommonw0a-20), or [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20). Then use Swiss or round robin, not a knockout bracket.
 
 ## What are the four tournament formats?
 

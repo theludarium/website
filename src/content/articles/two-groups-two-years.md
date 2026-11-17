@@ -30,13 +30,13 @@ In year one, both groups buy twenty games. Here is how it might play out.
 
 ### The Maples, year one
 
-The Maples play [Catan](https://link.amazon/B0h8BDGR2) at the first game night and it is a hit. Three of them buy it within a month. [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) goes the same way a few weeks later: two copies. Pandemic: two copies. Then each person rounds out their own shelf with a few picks that feel personal.
+The Maples play [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) at the first game night and it is a hit. Three of them buy it within a month. [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) goes the same way a few weeks later: two copies. Pandemic: two copies. Then each person rounds out their own shelf with a few picks that feel personal.
 
 | Member | Purchases (illustration) |
 |---|---|
-| Maple 1 | Catan, Codenames, [Pandemic](https://link.amazon/B0eHP5GCg), [Ticket to Ride](https://link.amazon/B0jh8RB7f), [Azul](https://link.amazon/B0bGRYHex) |
-| Maple 2 | Catan, Codenames, [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), Azul, [Splendor](https://link.amazon/B0fEvY6Wg) |
-| Maple 3 | Catan, Pandemic, Ticket to Ride, Wingspan, [Carcassonne](https://link.amazon/B012Rr5ed) |
+| Maple 1 | Catan, Codenames, [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20), [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20), [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) |
+| Maple 2 | Catan, Codenames, [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), Azul, [Splendor](https://www.amazon.com/dp/B00IZEUFIA?tag=cubecommonw0a-20) |
+| Maple 3 | Catan, Pandemic, Ticket to Ride, Wingspan, [Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20) |
 | Maple 4 | Codenames, Azul, Splendor, [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), [Love Letter](https://www.amazon.com/dp/B07PHHBWM9?tag=cubecommonw0a-20) |
 
 Twenty purchases. Count the distinct titles: Catan, Codenames, Pandemic, Ticket to Ride, Azul, Wingspan, Splendor, Carcassonne, Sushi Go!, Love Letter. Ten games. Ten duplicate copies.

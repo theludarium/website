@@ -24,7 +24,7 @@ levelCheck:
     explain: "One change at a time is how the three-line review works too. Try a single habit for a few games and check whether it helps before you add another."
 nextTeaser: "Next, the last lesson. Lesson 40, The Long Game: Masters, International Events, and Your Training Group, looks past one season: the Masters Invitational, the World Championship, and the group that keeps you sharp for years."
 ---
-Every [Catan](https://link.amazon/B0h8BDGR2) player has the same coach available, for free. It is the best players in the world, playing for a title, on camera. Most people watch a final the way they watch a sports highlight. They enjoy it, and they learn very little.
+Every [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) player has the same coach available, for free. It is the best players in the world, playing for a title, on camera. Most people watch a final the way they watch a sports highlight. They enjoy it, and they learn very little.
 
 This lesson shows you how to watch a final the way a coach would. Where to find one, how to predict each player's plan before they place, what to write down turn by turn, and how to turn one annotated final into better games of your own.
 

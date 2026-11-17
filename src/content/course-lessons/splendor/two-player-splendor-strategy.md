@@ -11,7 +11,7 @@ oneIdea: "With one opponent, every card and piece you take from them is a direct
 tryThis: "In your next two-player game, before each of your turns, write down the one card your opponent most likely buys next. Count how often you were right, and how often you stopped it."
 nextTeaser: "Level 3 opens with the decks themselves: what is in each level, the patterns in the costs, and the odds behind a blind reserve."
 ---
-Yes, [Splendor](https://link.amazon/B0fEvY6Wg) plays with 2 players. The box says 2 to 4, and at two the rules shrink the supply to 4 gems of each color, with 5 Gold and 3 nobles.
+Yes, [Splendor](https://www.amazon.com/dp/B00IZEUFIA?tag=cubecommonw0a-20) plays with 2 players. The box says 2 to 4, and at two the rules shrink the supply to 4 gems of each color, with 5 Gold and 3 nobles.
 
 Splendor at two uses the same rules as at four, but it plays like a different game. The supply is smaller, the nobles are fewer, and there is only one other player to watch. At Level 1 you saw how player count changes the feel. This lesson is about winning when it is just the two of you.
 

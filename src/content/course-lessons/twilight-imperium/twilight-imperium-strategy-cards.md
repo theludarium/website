@@ -13,7 +13,7 @@ nextTeaser: "Next, objectives: how to read the board, count your route to 10 poi
 ---
 Welcome to Level 2. At Level 1 you learned to play the rules right and finish the game. Now you start choosing on purpose, and the first choice of every round is the strategy card.
 
-Every card has an initiative number from 1 to 8. Lower numbers act first in the action phase and score first in the status phase. Every card has a primary ability for its owner and a secondary ability that each other player can use, usually by spending a token from their strategy pool. The text below follows the Living Rules Reference, version 2.0, including its errata to Diplomacy. Thunder's Edge replaces Construction and Warfare with revised versions, so if you play with it, read those two cards from its box.
+Every card has an initiative number from 1 to 8. Lower numbers act first in the action phase and score first in the status phase. Every card has a primary ability for its owner and a secondary ability that each other player can use, usually by spending a token from their strategy pool. The text below follows the Living Rules Reference, version 2.0, including its errata to Diplomacy. [Thunder's Edge](https://www.amazon.com/dp/B0FSNZMNTF?tag=cubecommonw0a-20) replaces Construction and Warfare with revised versions, so if you play with it, read those two cards from its box.
 
 ## The eight cards
 

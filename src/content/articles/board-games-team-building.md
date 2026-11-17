@@ -6,7 +6,7 @@ category: Togethering
 tags: ["board games for team building", "team building games for work", "corporate game night", "team offsite ideas", "leadership development activities", "cooperative games for teams", "Social benefits of playing in person"]
 draft: false
 ---
-Board games for team building work because they do the one thing most offsite activities cannot: they put real decisions, real pressure, and real disagreement on a table where everyone can see them. Nobody learns anything about their colleagues from a ropes course. Everyone learns something from watching how the VP of Sales handles a losing position in [Pandemic](https://link.amazon/B0eHP5GCg).
+Board games for team building work because they do the one thing most offsite activities cannot: they put real decisions, real pressure, and real disagreement on a table where everyone can see them. Nobody learns anything about their colleagues from a ropes course. Everyone learns something from watching how the VP of Sales handles a losing position in [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20).
 
 This is not a pitch for fun. Fun is a side effect. The case for a game table at your next offsite is that it is the cheapest, fastest, most honest diagnostic of how a team actually works that you can buy.
 
@@ -30,7 +30,7 @@ More than a quarter of one-on-ones. Here is what to watch for.
 
 **How people handle incomplete information.** [The Crew](https://link.amazon/B099S9RKf), a cooperative trick-taking game, bans most table talk. Players have to coordinate with almost no communication. It is a brutal and funny mirror of how a team works when the usual channels are jammed, which is most of the time.
 
-**How people handle losing.** Someone's plan fails. Watch what happens next. Do they blame the dice, go quiet, or ask what the team could do differently? You will learn more about a manager in the two minutes after a lost game of [Azul](https://link.amazon/B0bGRYHex) than in a year of status updates.
+**How people handle losing.** Someone's plan fails. Watch what happens next. Do they blame the dice, go quiet, or ask what the team could do differently? You will learn more about a manager in the two minutes after a lost game of [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) than in a year of status updates.
 
 **Where trust is thin.** In [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), a spymaster has to trust that teammates will interpret a one-word clue the way they intended. When trust is low, clues get conservative and the team loses slowly. That is also what happens to a product roadmap when nobody believes anyone else will follow through.
 
@@ -49,7 +49,7 @@ Not all of them. A game that takes forty minutes to teach or lets one person dom
 | [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20) | 3 to 7 | 20 min | Collaboration without duplication, humility |
 | [Captain Sonar](https://www.amazon.com/dp/B0BM5CQ192?tag=cubecommonw0a-20) | 8 | 45 min | Real-time roles, information flow between functions |
 | [Decrypto](https://www.amazon.com/dp/B07BB4ND6J?tag=cubecommonw0a-20) | 4 to 8 | 30 min | Encoding and decoding, communication clarity |
-| [Catan](https://link.amazon/B0h8BDGR2) or [Ticket to Ride](https://link.amazon/B0jh8RB7f) | 3 to 5 per copy | 60 to 90 min | Negotiation, competing for scarce resources |
+| [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) or [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) | 3 to 5 per copy | 60 to 90 min | Negotiation, competing for scarce resources |
 
 A practical note on structure. Cooperative games first, competitive games second. Starting with a game where colleagues beat each other can set an edge. Starting with one where they lose together to the game sets the opposite. Shared failure is one of the fastest known routes to trust, and losing a game of Pandemic as a group gets a team there in about an hour.
 

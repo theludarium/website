@@ -55,7 +55,7 @@ Short, teachable in minutes, and good across a wide age range. A starter shelf o
 | Game | Ages | Play time | Best for |
 |---|---|---|---|
 | [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) | 8+ | 15 min | The bad weeks. Fast, cheerful, fits in a pocket. |
-| [Dragomino](https://link.amazon/B09WKyU19) / [Kingdomino](https://link.amazon/B08l49zvA) | 5+ / 8+ | 15 to 20 min | The youngest picker. Real decisions, no reading. |
+| [Dragomino](https://link.amazon/B09WKyU19) / [Kingdomino](https://www.amazon.com/dp/B01N3A4070?tag=cubecommonw0a-20) | 5+ / 8+ | 15 to 20 min | The youngest picker. Real decisions, no reading. |
 | [Outfoxed!](https://link.amazon/B0hYNduxd) | 5+ | 20 min | Families where competition causes tears. Cooperative. |
 | [Ticket to Ride: First Journey](https://link.amazon/B0fAA009A) | 6+ | 20 to 30 min | The "we're a game family" moment. |
 | [Rhino Hero](https://www.amazon.com/dp/B01M8LF7IA?tag=cubecommonw0a-20) | 5+ | 10 to 15 min | Loud fun. Towers fall, everyone laughs. |

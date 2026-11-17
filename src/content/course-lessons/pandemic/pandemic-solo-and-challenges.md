@@ -10,7 +10,7 @@ draft: false
 oneIdea: "Pandemic has no big tournament circuit, because your opponent is the game. The way forward is harder settings, solo practice, and a steady group that keeps coming back."
 tryThis: "Play one game with Z-Man's official solo rules this month at your group's usual difficulty, and write down which losing condition you came closest to."
 ---
-Most game courses in the Academy end with a tournament lesson. [Pandemic](https://link.amazon/B0eHP5GCg) is different. Everyone at the table is on the same team, and the opponent is the game itself. So competition looks different here: harder settings, solo play, and the quiet pride of a group that finally beats Heroic. Here is what exists, and what does not.
+Most game courses in the Academy end with a tournament lesson. [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20) is different. Everyone at the table is on the same team, and the opponent is the game itself. So competition looks different here: harder settings, solo play, and the quiet pride of a group that finally beats Heroic. Here is what exists, and what does not.
 
 ## Is there a Pandemic tournament scene?
 
@@ -50,7 +50,7 @@ Without a circuit, you set your own goals. A ladder that works for most groups:
 3. Win at Heroic, 6 Epidemics.
 4. Solve Z-Man's ten free puzzles from the [Pandemic page](https://www.zmangames.com/game/pandemic/), using the method in the [puzzles lesson](/academy/pandemic/pandemic-puzzles-and-scenarios/).
 5. Play the free scenarios, starting with "Isolation."
-6. With On the Brink, add its challenges one at a time. The Bio-Terrorist puts one player against the team, the closest the family comes to head-to-head play.
+6. With [On the Brink](https://www.amazon.com/dp/B00CAG5LJ2?tag=cubecommonw0a-20), add its challenges one at a time. The Bio-Terrorist puts one player against the team, the closest the family comes to head-to-head play.
 
 Keep a short log: the date, players, roles, Epidemics, the result, and which losing condition came closest. After ten games, the pattern shows you what to work on.
 

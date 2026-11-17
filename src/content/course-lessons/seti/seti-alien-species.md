@@ -11,7 +11,7 @@ oneIdea: "Discovery is a race for six spaces. Every life trace you mark early is
 tryThis: "In your next game, aim to mark one discovery space under each alien board before the end of round 3, and see how it changes your score."
 nextTeaser: "Next, the scoring that decides close games: the four gold tiles, when to claim each, and how end-of-game cards fit in."
 ---
-Two alien species wait face down on every SETI board. Nobody knows which two they are until the players find enough traces of life. This lesson explains how discovery works, from the English rulebook (October 2024) and the official FAQ, and how to compete for it. It stays spoiler-light on purpose.
+Two alien species wait face down on every [SETI](https://www.amazon.com/dp/B0CZBCRC3S?tag=cubecommonw0a-20) board. Nobody knows which two they are until the players find enough traces of life. This lesson explains how discovery works, from the English rulebook (October 2024) and the official FAQ, and how to compete for it. It stays spoiler-light on purpose.
 
 ## A note on spoilers
 

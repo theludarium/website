@@ -70,7 +70,7 @@ Hold the winner to the same script as the loser. "Good game" goes both direction
 
 A simple house rule helps: the winner resets the game or puts it away. It gives them something to do with the energy and signals that winning comes with a small job, not a parade.
 
-And watch your own winning. If you cannot resist a little crow when you finally beat your kid at [Catan](https://link.amazon/B0h8BDGR2), they are learning from that too.
+And watch your own winning. If you cannot resist a little crow when you finally beat your kid at [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20), they are learning from that too.
 
 ## Which games make losing easier?
 
@@ -81,7 +81,7 @@ The right games do a lot of the work for you.
 | Child melts down at any loss | [Outfoxed!](https://link.amazon/B0hYNduxd), [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20), The Crew | Cooperative. Everyone wins or loses together, so the first losses are shared. |
 | Child needs a lot of practice losing | [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), Dragomino, [Zingo!](https://www.amazon.com/dp/B01DY818JG?tag=cubecommonw0a-20) | Ten to fifteen minutes. Four results an evening. |
 | Child only loses to adults | Rhino Hero, [Animal Upon Animal](https://www.amazon.com/dp/B073CD98D6?tag=cubecommonw0a-20), [Monza](https://www.amazon.com/dp/B0002HYHT6?tag=cubecommonw0a-20) | Enough luck and dexterity that the child wins a fair share without help. |
-| Child is fine losing, bad at winning | [Kingdomino](https://link.amazon/B08l49zvA), [Ticket to Ride](https://link.amazon/B0jh8RB7f) | Scores are close and hidden until the end, which keeps the gloating down. |
+| Child is fine losing, bad at winning | [Kingdomino](https://www.amazon.com/dp/B01N3A4070?tag=cubecommonw0a-20), [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) | Scores are close and hidden until the end, which keeps the gloating down. |
 | Siblings who fight | Any co-op, played as a team against the parents | Puts them on the same side. More on this in [cooperative games for siblings](/articles/cooperative-games-for-kids/). |
 
 Avoid games with player elimination and games where one player can target another directly. Being knocked out, or being picked on, is far harder to take than simply scoring fewer points.

@@ -12,7 +12,7 @@ oneIdea: "Duel's twelve Wonders fall into a few families. Draft a set that pulls
 tryThis: "In your next Duel Wonder draft, before each pick, name the family of every Wonder still on offer, and say out loud which one you are leaving your opponent."
 nextTeaser: "Level 2 opens with the economy: how every brown and grey card raises your opponent's prices, when yellow cards pay back, and how to keep your coins working."
 ---
-In 7 Wonders you are dealt one board. In Duel you draft four Wonders from twelve, and only seven of the eight in play will ever be built. The [how to play lesson](/academy/7-wonders-duel/how-to-play-7-wonders-duel/) introduced the draft. This lesson gives you the whole set, sorted so you can see at a glance what each Wonder is for.
+In [7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20) you are dealt one board. In Duel you draft four Wonders from twelve, and only seven of the eight in play will ever be built. The [how to play lesson](/academy/7-wonders-duel/how-to-play-7-wonders-duel/) introduced the draft. This lesson gives you the whole set, sorted so you can see at a glance what each Wonder is for.
 
 Every effect below comes from the symbols page of the [7 Wonders Duel rulebook](https://cdn.svc.asmodee.net/production-rprod/storage/downloads/games/7wonders-duel/en/7du-rules-us-15990558193s5I6.pdf). Costs are printed on each Wonder; check them at the table.
 

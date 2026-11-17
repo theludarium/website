@@ -11,7 +11,7 @@ oneIdea: "With one opponent, only the gap between you matters. Judge every pick 
 tryThis: "Play three two-player games and, before every pick, name the pair your opponent most wants. Take it whenever it costs you two points or less."
 nextTeaser: "Next, solo play and the fifteen scenarios: how the drifting display works, how to plan around it, and how to train for scores of 100 and up."
 ---
-[Cascadia](https://link.amazon/B0g1HYFt4) at two is a different game from Cascadia at four. The rules barely change, but the math under them does. The display moves slowly, the bonuses shrink, and every pair you pass goes to exactly one person. This lesson covers what changes and how to win it.
+[Cascadia](https://www.amazon.com/dp/B093H8RGXX?tag=cubecommonw0a-20) at two is a different game from Cascadia at four. The rules barely change, but the math under them does. The display moves slowly, the bonuses shrink, and every pair you pass goes to exactly one person. This lesson covers what changes and how to win it.
 
 ## What the rules change
 

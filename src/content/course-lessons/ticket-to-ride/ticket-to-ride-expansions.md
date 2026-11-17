@@ -30,7 +30,7 @@ If your group likes a calm, planning game, play with fewer. If it likes table ta
 
 ## Is my box the new edition?
 
-The 2025 edition of [Ticket to Ride](https://link.amazon/B0jh8RB7f) has refreshed art, 33 tickets instead of 30, and deals 4 starting tickets instead of 3. The rules are otherwise the same, so players from either box can sit down together. Use the ticket deal from the rulebook in your box.
+The 2025 edition of [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) has refreshed art, 33 tickets instead of 30, and deals 4 starting tickets instead of 3. The rules are otherwise the same, so players from either box can sit down together. Use the ticket deal from the rulebook in your box.
 
 ## USA 1910
 

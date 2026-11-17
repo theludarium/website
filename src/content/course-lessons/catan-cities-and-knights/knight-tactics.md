@@ -49,7 +49,7 @@ Because knights block like buildings, a knight is often the cheapest way to stop
 - **A road:** a knight on an intersection stops a rival from building past that point. Block the one path toward the open coast or the good port.
 - **The Longest Route:** a knight on an intersection along a rival's road splits it into two shorter routes. If you can reach an intersection their road passes through, one knight can drop their route below yours. The Longest Route is worth 2 points, and a basic knight costs 2 cards.
 
-[Expansion Planning](/academy/catan/expansion-planning/) from the base course teaches you to see which open site a rival is reaching for. In Cities & Knights you can answer it with a knight, not just a race.
+[Expansion Planning](/academy/catan/expansion-planning/) from the base course teaches you to see which open site a rival is reaching for. In [Cities & Knights](https://www.amazon.com/dp/B0DY87W8SS?tag=cubecommonw0a-20) you can answer it with a knight, not just a race.
 
 ## Keeping knights both busy and ready
 

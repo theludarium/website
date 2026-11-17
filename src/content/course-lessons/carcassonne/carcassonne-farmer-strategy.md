@@ -11,7 +11,7 @@ oneIdea: "A field is a feature like any other: it grows, it merges, and it can b
 tryThis: "In your next game, when you place your first farmer, say out loud which completed cities it touches and which open cities could join it. Recount every five turns."
 nextTeaser: "Next, tile counting: what is in the box, which shapes are rare, and how to tell whether the tile your feature needs still exists."
 ---
-Farmers are where [Carcassonne](https://link.amazon/B012Rr5ed) turns from a tile puzzle into a territory game. A single field can be worth more than any city on the board, and it is often decided by one well-timed meeple lying on its back. This lesson goes past the basics in the [first lesson](/academy/carcassonne/how-to-play-carcassonne/) and into how fields are won.
+Farmers are where [Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20) turns from a tile puzzle into a territory game. A single field can be worth more than any city on the board, and it is often decided by one well-timed meeple lying on its back. This lesson goes past the basics in the [first lesson](/academy/carcassonne/how-to-play-carcassonne/) and into how fields are won.
 
 ## A field has borders, and borders move
 

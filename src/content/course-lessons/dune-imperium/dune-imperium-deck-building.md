@@ -11,7 +11,7 @@ oneIdea: "A card is only as good as the number of times you will play it. Buy ea
 tryThis: "In your next game, before every purchase, say how many more times you expect to draw the card before the game ends. If the answer is zero or one, buy something that pays now."
 nextTeaser: "Next, the midgame: Agent order, blocking, when to reveal, and reading every garrison before a Conflict."
 ---
-Welcome to Level 2. At Level 1 you learned to plan a hand and run your economy. Now you shape the deck those hands come from. Dune: Imperium is a light deck builder next to games built only on decks, but the deck still decides what you can do each round. Our explainer on [deck-building games](/articles/deck-building-games-explained/) covers the general idea; this lesson is the Dune: Imperium version.
+Welcome to Level 2. At Level 1 you learned to plan a hand and run your economy. Now you shape the deck those hands come from. [Dune: Imperium](https://www.amazon.com/dp/B08JHB9V72?tag=cubecommonw0a-20) is a light deck builder next to games built only on decks, but the deck still decides what you can do each round. Our explainer on [deck-building games](/articles/deck-building-games-explained/) covers the general idea; this lesson is the Dune: Imperium version.
 
 ## How your deck cycles
 

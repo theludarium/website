@@ -42,7 +42,7 @@ Player counts are the publishers'. Play times are our estimates with a five-year
 | Game | Players | Play time | Type | What the adult gets out of it |
 |---|---|---|---|---|
 | [Outfoxed!](https://link.amazon/B0hYNduxd) | 2 to 4 | 20 min | Cooperative deduction | Real logic puzzle. You eliminate suspects by clues, like a gentle Clue. |
-| [Dragomino](https://www.blueorangegames.com/games/dragomino) | 2 to 4 | 15 min | Tile placement | Tile-matching with a push-your-luck twist. [Kingdomino](https://link.amazon/B08l49zvA) lite. |
+| [Dragomino](https://www.blueorangegames.com/games/dragomino) | 2 to 4 | 15 min | Tile placement | Tile-matching with a push-your-luck twist. [Kingdomino](https://www.amazon.com/dp/B01N3A4070?tag=cubecommonw0a-20) lite. |
 | Rhino Hero | 2 to 5 | 10 to 15 min | Dexterity, card stacking | Building a tower of cards that will fall. Tense for everyone. |
 | Animal Upon Animal | 2 to 4 | 15 min | Dexterity, stacking | Wooden animals, steady hands, real laughs when it collapses. |
 | My First Castle Panic | 1 to 4 | 20 min | Cooperative defense | Match color and shape to stop monsters. Teaches reading a shared board. |
@@ -60,7 +60,7 @@ If you buy only two, make them Outfoxed! and Dragomino. One is cooperative and o
 
 Between five and seven, most children start reading a little, add numbers in their heads, and can wait through a longer turn. That opens up a few step-up games that grow with them.
 
-- **[Ticket to Ride: First Journey](https://link.amazon/B0fAA009A)** (ages 6+). Collect colored train cards and claim routes. The full [Ticket to Ride](https://link.amazon/B0jh8RB7f), cut down to fit a younger child.
+- **[Ticket to Ride: First Journey](https://link.amazon/B0fAA009A)** (ages 6+). Collect colored train cards and claim routes. The full [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20), cut down to fit a younger child.
 - **Catan Junior** (ages 6+). Build pirate lairs and trade with the other players. Keeps the trading and drops the math.
 - **Outfoxed! and Dragomino.** Both keep working at seven. The decisions get sharper as the child does.
 

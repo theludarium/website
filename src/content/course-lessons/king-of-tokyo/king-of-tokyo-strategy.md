@@ -11,7 +11,7 @@ oneIdea: "The opening is when you have the most Life to spend. Use it to build: 
 tryThis: "In your next game, pick one goal before each roll and keep only dice that serve it. After three turns, compare your board to the player who kept a bit of everything."
 nextTeaser: "Next, the card row: what Keep and Discard cards do for you, which kinds of Power cards to buy first, and which to leave for later."
 ---
-[King of Tokyo](https://link.amazon/B0goO6BQA) has no fixed opening. The dice see to that. But the first few turns still follow a pattern. Every Monster starts at 10 Life and 0 points, the card row is fresh, and nobody is a threat yet. That makes the opening the best time to invest, and the worst time to play scared.
+[King of Tokyo](https://www.amazon.com/dp/B01F46RPS4?tag=cubecommonw0a-20) has no fixed opening. The dice see to that. But the first few turns still follow a pattern. Every Monster starts at 10 Life and 0 points, the card row is fresh, and nobody is a threat yet. That makes the opening the best time to invest, and the worst time to play scared.
 
 ## Pick a goal before you roll
 

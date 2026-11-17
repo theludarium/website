@@ -25,7 +25,7 @@ A game table solves the adult friendship problem almost by accident. Look at wha
 - **A reason to be there.** You are not at a bar hoping someone talks to you. You are at a table because the game needs a fourth player. The awkward part is already handled.
 - **A script.** Rules, turns, a goal. For two hours you know exactly what to do and say. Conversation happens in the gaps, which is where it happens best.
 - **Repetition built in.** Game stores run the same open night every week. Groups meet on a schedule. You get the repeated contact without arranging it.
-- **Low guard.** Something about a shared problem, whether it is a [Pandemic](https://link.amazon/B0eHP5GCg) outbreak or a bad [Catan](https://link.amazon/B0h8BDGR2) trade, drops the performance. People show you who they are when they lose a close one.
+- **Low guard.** Something about a shared problem, whether it is a [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20) outbreak or a bad [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) trade, drops the performance. People show you who they are when they lose a close one.
 - **A gentle filter.** The people at a game night self-selected for sitting in a room with strangers for two hours. They are, almost by definition, open to new people.
 
 Compare that to a networking event or a pickup basketball game. Those favor the loud and the skilled. A game table rewards showing up, paying attention, and being pleasant. Those are things anyone can do on their first week in town.
@@ -66,7 +66,7 @@ Not every game is a good first-contact game. You want short teaches, lots of tab
 |---|---|
 | Get a big group laughing fast | Codenames, [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20), [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20), [Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20) |
 | Learn how people think | [The Crew](https://link.amazon/B099S9RKf), Pandemic, [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20) (cooperative) |
-| Give quiet people a way in | [Azul](https://link.amazon/B0bGRYHex), [Cascadia](https://link.amazon/B0g1HYFt4), [Ticket to Ride](https://link.amazon/B0jh8RB7f) (low talk pressure, easy to learn) |
+| Give quiet people a way in | [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20), [Cascadia](https://www.amazon.com/dp/B093H8RGXX?tag=cubecommonw0a-20), [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) (low talk pressure, easy to learn) |
 | Signal you are a regular | Bring [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) or Catan, know the rules cold, offer to teach |
 
 Avoid bringing anything with a forty-minute rules explanation to an open night. Save [Gloomhaven](https://www.amazon.com/dp/B01LZXVN4P?tag=cubecommonw0a-20) for month four. Avoid pure social deduction games like Werewolf as your very first play, since lying to strangers before they know your name is a strange foundation. Codenames gets you the talk without the deceit.

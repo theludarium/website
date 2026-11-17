@@ -16,7 +16,7 @@ You know the rules, the strategy, the odds, and how events are scored. The last 
 
 A plan needs a date and a box list. The [tournaments lesson](/academy/dune-imperium/dune-imperium-tournaments/) covers the main options:
 
-- **The WBC Heats:** in 2026, the original game with Rise of Ix, three and four player tables, three-hour rounds, and Epic mode in the Final, per the [2026 preview](https://www.boardgamers.org/wbc26/previews/DNI.html).
+- **The WBC Heats:** in 2026, the original game with [Rise of Ix](https://www.amazon.com/dp/B09J37NRNB?tag=cubecommonw0a-20), three and four player tables, three-hour rounds, and Epic mode in the Final, per the [2026 preview](https://www.boardgamers.org/wbc26/previews/DNI.html).
 - **The North American Championship qualifiers at Gen Con:** in 2026, Uprising for the qualifiers and Uprising with Bloodlines for the Top 64, per [Dire Wolf's announcement](https://news.direwolfdigital.com/join-the-conspiracy-in-the-dune-imperium-championship-tournament-at-gen-con/).
 
 WBC 2027 runs July 24 to August 1, 2027, according to the [WBC page](https://www.boardgamers.org/wbcindex.html).

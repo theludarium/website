@@ -58,18 +58,18 @@ Two players is the most common table in the country and the most under-served by
 
 You want a game that an eight-year-old can play without a handicap and a parent can enjoy without pretending.
 
-- **[Ticket to Ride](https://link.amazon/B0jh8RB7f)**, route building that kids grasp in one round and adults keep thinking about.
+- **[Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20)**, route building that kids grasp in one round and adults keep thinking about.
 - **[Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20)**, card drafting in 15 minutes with pictures of sushi; a near-perfect first game.
-- **[Azul](https://link.amazon/B0bGRYHex)**, tile placement that is beautiful, quick, and scales from two to four.
-- **[Carcassonne](https://link.amazon/B012Rr5ed)**, tile laying where the map grows every turn, easy to teach and gentle on competitiveness.
+- **[Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20)**, tile placement that is beautiful, quick, and scales from two to four.
+- **[Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20)**, tile laying where the map grows every turn, easy to teach and gentle on competitiveness.
 
 ### A friend group of four or five
 
 This is the classic game night. You want tension, table talk, and a game that runs under 90 minutes so you can fit two in.
 
-- **[Catan](https://link.amazon/B0h8BDGR2)**, trading and building; still the standard gateway for good reason, and about $40.
+- **[Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20)**, trading and building; still the standard gateway for good reason, and about $40.
 - **Ticket to Ride**, also excellent here, with a little more edge at five.
-- **[Splendor](https://link.amazon/B0fEvY6Wg)**, chip-collecting engine building with a five-minute teach.
+- **[Splendor](https://www.amazon.com/dp/B00IZEUFIA?tag=cubecommonw0a-20)**, chip-collecting engine building with a five-minute teach.
 - **[Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20)**, deck building; endlessly replayable, and the base box is enough for years.
 
 ### Big parties of six or more

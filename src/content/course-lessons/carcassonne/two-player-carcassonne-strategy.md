@@ -11,7 +11,7 @@ oneIdea: "With one opponent, only the gap between you matters. Judge every place
 tryThis: "Play three two-player games, and before every placement say the swing out loud: what this tile gains you, minus what it gains your opponent."
 nextTeaser: "Next, reading your opponent: what their meeples, open features, and placements tell you about the tiles they need and the moves they are planning."
 ---
-[Carcassonne](https://link.amazon/B012Rr5ed) with two players is a different game from Carcassonne with four. The rules are identical, but the math underneath changes, and it is the version tournaments play. The [Carcassonne World Championship](https://carcassonne-meisterschaft.de/en/tournamentrules.htm) is played at two-player tables, and for 2026 the World Boardgaming Championships event switched to [two-player games only](https://www.boardgamers.org/wbc26/Previews/car.html).
+[Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20) with two players is a different game from Carcassonne with four. The rules are identical, but the math underneath changes, and it is the version tournaments play. The [Carcassonne World Championship](https://carcassonne-meisterschaft.de/en/tournamentrules.htm) is played at two-player tables, and for 2026 the World Boardgaming Championships event switched to [two-player games only](https://www.boardgamers.org/wbc26/Previews/car.html).
 
 If you want to compete, this is the game to learn.
 

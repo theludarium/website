@@ -68,4 +68,4 @@ That option is worth the most early and mid game, and it shrinks to exactly 1 po
 
 A wipe with a nature token replaces tokens before you pick, but the rest of the display stays for the next players. If you wipe a bear-heavy display because you need salmon, the player after you sees whatever comes out of the bag. Glance at the next player's environment before you wipe. If the fresh draw is likely to help them more than you, take a different line.
 
-For the wider idea behind choices that cost you now and pay later, our explainer on [board game weight](/articles/board-game-weight-explained/) shows how games like [Cascadia](https://link.amazon/B0g1HYFt4) hide depth in a few simple rules.
+For the wider idea behind choices that cost you now and pay later, our explainer on [board game weight](/articles/board-game-weight-explained/) shows how games like [Cascadia](https://www.amazon.com/dp/B093H8RGXX?tag=cubecommonw0a-20) hide depth in a few simple rules.

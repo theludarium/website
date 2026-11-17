@@ -92,4 +92,4 @@ Final scoring is where small errors creep in. The World Boardgaming Championship
 
 <!-- AT OUR TABLE: one line on the biggest final-scoring swing Levi has seen, and what caused it. -->
 
-Purple bonuses work a lot like end-of-game goals in other engine builders. If you play Wingspan too, our [Wingspan vs Everdell vs Cascadia guide](/articles/wingspan-vs-everdell-vs-cascadia/) compares how each game scores.
+Purple bonuses work a lot like end-of-game goals in other engine builders. If you play [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) too, our [Wingspan vs Everdell vs Cascadia guide](/articles/wingspan-vs-everdell-vs-cascadia/) compares how each game scores.

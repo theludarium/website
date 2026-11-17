@@ -11,7 +11,7 @@ oneIdea: "Solo Cascadia is a planning puzzle with perfect information about what
 tryThis: "Play scenario 1 (all A cards, pass at 80). When you pass it, move to the next scenario, and write down the card that cost you the most points each time."
 nextTeaser: "Level 4 begins with competitive Cascadia: the World Boardgaming Championships event, its rules and tiebreaks, and where to play online."
 ---
-[Cascadia](https://link.amazon/B0g1HYFt4)'s solo mode is one of the best ways to get better at the game, because nothing hides your mistakes. There is no rival to blame for taking the elk. The [variants lesson](/academy/cascadia/cascadia-expansions/) explained how solo works. This lesson is about playing it well.
+[Cascadia](https://www.amazon.com/dp/B093H8RGXX?tag=cubecommonw0a-20)'s solo mode is one of the best ways to get better at the game, because nothing hides your mistakes. There is no rival to blame for taking the elk. The [variants lesson](/academy/cascadia/cascadia-expansions/) explained how solo works. This lesson is about playing it well.
 
 ## How the solo display moves
 

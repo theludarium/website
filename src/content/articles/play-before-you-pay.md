@@ -53,7 +53,7 @@ Keep this in a notes app, a spreadsheet, or a pocket notebook. The format does n
 
 | Date | Game | Mechanic | Players | Real length | Played with | Rating | Why |
 |---|---|---|---|---|---|---|---|
-| Oct 3 | [Ticket to Ride](https://link.amazon/B0jh8RB7f) | Route building, set collection | 4 | 70 min | Beth, Sam, Rae | 4 | Easy teach, tense ending, Beth asked to play again |
+| Oct 3 | [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) | Route building, set collection | 4 | 70 min | Beth, Sam, Rae | 4 | Easy teach, tense ending, Beth asked to play again |
 | Oct 10 | [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) | Word association, teams | 8 | 25 min | Party at Sam's | 5 | Whole room laughing, works with new players |
 | Oct 17 | [Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20) | Engine building, card drafting | 3 | 3 hrs | Sam, Rae | 3 | Loved the engine, too long for a weeknight |
 | Oct 24 | [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20) | Set collection, push your luck | 2 | 20 min | Beth | 4 | Perfect after the kids are down |
@@ -72,7 +72,7 @@ The log also tells you which role a game would fill, which matters once you star
 
 ## When playing first means never buying at all
 
-This is the part that surprises people. If your taste log shows that you played [Catan](https://link.amazon/B0h8BDGR2) four times at Sam's house and loved it every time, the right move is often not to buy Catan. It is to keep playing at Sam's.
+This is the part that surprises people. If your taste log shows that you played [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) four times at Sam's house and loved it every time, the right move is often not to buy Catan. It is to keep playing at Sam's.
 
 That is the [One Copy Rule](/articles/one-copy-rule/) in action. Sam's copy already serves the group. A second copy would cost about $40 and create no new plays; you would still play at Sam's, because that is where the group meets. The [second-copy test](/articles/when-a-second-copy-is-worth-it/) asks one question: does the second copy create plays that would not otherwise happen? Usually the answer is no.
 
