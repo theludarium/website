@@ -11,7 +11,7 @@ oneIdea: "Your opening starts before your first turn. Keep a hand you can play r
 tryThis: "In your next game, aim to have three birds on your mat by the end of round one, and keep a tally of which row you used most."
 nextTeaser: "Next, food: how the birdfeeder dice really behave, when to reroll, and how to keep your pantry matched to your hand."
 ---
-Wingspan has no fixed opening. Your five birds are random, the tray is random, and the birdfeeder rolls fresh every few turns. But strong openings still look alike. They start with a hand that can be played, they spend round one growing, and they keep an eye on goals that will not score for an hour.
+[Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) has no fixed opening. Your five birds are random, the tray is random, and the birdfeeder rolls fresh every few turns. But strong openings still look alike. They start with a hand that can be played, they spend round one growing, and they keep an eye on goals that will not score for an hour.
 
 ## The five-card choice
 

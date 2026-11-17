@@ -11,7 +11,7 @@ oneIdea: "Most first-game trouble comes from two places: small rules slips that 
 tryThis: "At the end of each generation in your next game, count the cards left in your hand. If it keeps growing, you are buying faster than you can build."
 nextTeaser: "Next, openings. We look at choosing a corporation, keeping the right starting cards, and the first three generations."
 ---
-Terraforming Mars has a lot of small rules, and a new table plays some of them wrong without noticing. Others are legal moves that cost a lot of points. This lesson covers both, checked against the current FryxGames rulebook.
+[Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20) has a lot of small rules, and a new table plays some of them wrong without noticing. Others are legal moves that cost a lot of points. This lesson covers both, checked against the current FryxGames rulebook.
 
 ## Rules slips that cost TR
 

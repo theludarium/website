@@ -11,7 +11,7 @@ oneIdea: "Teach the Invaders first and the Spirits second. Once a table can see 
 tryThis: "Before game night, practice your teach out loud with the board set up, and stop yourself at the end of the first Invader Phase. That is where the teach ends and the game begins."
 nextTeaser: "Next, the last piece of Level 0: the rules most new tables play wrong, from Blight and cascades to Fear timing, and how to catch each one."
 ---
-Spirit Island has a reputation as a hard game to teach. Part of that is fair. Every player has a panel full of icons, the Invaders run on their own schedule, and there are three ways to lose. But most teaches go wrong for a simpler reason: the host explains the Spirits first, and nobody yet knows what the Spirits are fighting.
+[Spirit Island](https://www.amazon.com/dp/B01MUHP51S?tag=cubecommonw0a-20) has a reputation as a hard game to teach. Part of that is fair. Every player has a panel full of icons, the Invaders run on their own schedule, and there are three ways to lose. But most teaches go wrong for a simpler reason: the host explains the Spirits first, and nobody yet knows what the Spirits are fighting.
 
 Flip the order. Teach the threat, show it move once, then hand each player the tools to stop it. Print the [teach sheet](/academy/spirit-island/teach-sheet/) and put a copy where everyone can see it.
 

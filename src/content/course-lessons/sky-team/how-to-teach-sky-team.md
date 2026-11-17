@@ -11,7 +11,7 @@ oneIdea: "Teach the round and the silence, then let the plane teach the rest. A 
 tryThis: "Keep your teach under five minutes. After the flight, crash or landing, ask each other one question: which of my dice told you the most?"
 nextTeaser: "Next, your first three flights: the rules slips and strategy traps that crash new crews, and a three-question briefing that fixes most of them."
 ---
-Sky Team is easy to over-teach. The Control Panel has seven zones, and it is tempting to explain every one, plus the landing, before anyone rolls a die. Instead, teach the round and the two jobs that matter every round, then start flying and explain the rest when the plane needs it.
+[Sky Team](https://www.amazon.com/dp/B0CHD8RCSJ?tag=cubecommonw0a-20) is easy to over-teach. The Control Panel has seven zones, and it is tempting to explain every one, plus the landing, before anyone rolls a die. Instead, teach the round and the two jobs that matter every round, then start flying and explain the rest when the plane needs it.
 
 Print the [Sky Team teach sheet](/academy/sky-team/teach-sheet/) and set it between you. Need the rules first? Start with [how to play Sky Team](/academy/sky-team/how-to-play-sky-team/). Our guide on [how to teach a board game in five minutes](/articles/how-to-teach-a-board-game/) pairs well with this one.
 

@@ -11,7 +11,7 @@ oneIdea: "A dominance card trades a slow race to 30 for a board-control goal the
 tryThis: "In your next game, whenever any player has 10 or more points, count the clearings of each suit they rule. Say it aloud if anyone is one clearing away."
 nextTeaser: "Next, card tracking: counting the ambushes still out there, reading hand sizes, and using the discard pile, which anyone can search."
 ---
-Welcome to Level 3. Dominance cards are the most misunderstood cards in Root. New players ignore them, and then lose to one. This lesson covers the exact rules, which factions can use them well, and how the rest of the table stops them.
+Welcome to Level 3. Dominance cards are the most misunderstood cards in [Root](https://www.amazon.com/dp/B07F454YF3?tag=cubecommonw0a-20). New players ignore them, and then lose to one. This lesson covers the exact rules, which factions can use them well, and how the rest of the table stops them.
 
 ## The rules, exactly
 

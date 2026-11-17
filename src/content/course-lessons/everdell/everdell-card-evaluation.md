@@ -11,7 +11,7 @@ oneIdea: "A card is not worth its printed points. It is worth everything it adds
 tryThis: "After your next game, divide your final score by 15. That is what an average space earned. Then find the two cards that earned the least for their space and ask what could have gone there instead."
 nextTeaser: "Next, timing the seasons: when to prepare, when to hold back, and how the order players change seasons shapes who gets the best spaces."
 ---
-The card evaluation question in Everdell is never "is this a good card?" It is "is this the best use of one of my 15 spaces and one of my turns?" This lesson gives you a way to answer that with plain numbers.
+The card evaluation question in [Everdell](https://www.amazon.com/dp/B09ZWQTTNR?tag=cubecommonw0a-20) is never "is this a good card?" It is "is this the best use of one of my 15 spaces and one of my turns?" This lesson gives you a way to answer that with plain numbers.
 
 ## Start with the average space
 

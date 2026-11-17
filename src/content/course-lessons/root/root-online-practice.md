@@ -11,7 +11,7 @@ oneIdea: "Tournament skill in Root comes from volume across every faction, map, 
 tryThis: "Play three digital games this week with a faction you have never played, and write one sentence after each about what you would do differently."
 nextTeaser: "Last lesson: a six-week practice plan that puts the whole ladder together for your first Root tournament."
 ---
-You can play Root online in Root digital, the official edition by Dire Wolf, on Steam, Nintendo Switch, iOS, and Android. It has cross-platform online games against other players, single-player games against the computer, and most of the physical expansions as add-ons.
+You can play [Root](https://www.amazon.com/dp/B07F454YF3?tag=cubecommonw0a-20) online in Root digital, the official edition by Dire Wolf, on Steam, Nintendo Switch, iOS, and Android. It has cross-platform online games against other players, single-player games against the computer, and most of the physical expansions as add-ons.
 
 A full four-player game of Root at the table takes an evening. Getting good at every faction, on every map, with an unfamiliar deck, takes many evenings. That is why many competitive players do much of their practice online, where the game handles the setup, the upkeep, and the rules checks, and you can play far more games in a month.
 

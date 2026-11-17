@@ -55,7 +55,7 @@ Also practice finishing well when you cannot win. In the heat tiebreak points, s
 
 ## Reading your Rivals
 
-Across all six weeks, keep one eye on the other players. Arcs hides hands, but play reveals them:
+Across all six weeks, keep one eye on the other players. [Arcs](https://www.amazon.com/dp/B0D856FJ1J?tag=cubecommonw0a-20) hides hands, but play reveals them:
 
 - **Pivots show suits.** A player who Pivots twice in Aggression probably holds no Construction.
 - **Copies hide weak cards.** A player Copying often is likely saving a strong hand for later.

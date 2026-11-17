@@ -11,7 +11,7 @@ oneIdea: "Solo Spirit Island is the same game with nobody to cover your weak spo
 tryThis: "Play one solo game with a starter Spirit, then the same Spirit as one of two in a two-handed game. Note which jobs went undone in the solo game."
 nextTeaser: "Next, the last lesson of Level 3: your first adversary, how levels and Escalation work, the difficulty chart, and where scenarios and expansions fit."
 ---
-Spirit Island has one of the most loved solo modes in the hobby. Our [best solo board games](/articles/best-solo-board-games/) guide calls it excellent at one player. It is also the best practice there is: every decision is yours, and every mistake is easy to trace.
+[Spirit Island](https://www.amazon.com/dp/B01MUHP51S?tag=cubecommonw0a-20) has one of the most loved solo modes in the hobby. Our [best solo board games](/articles/best-solo-board-games/) guide calls it excellent at one player. It is also the best practice there is: every decision is yours, and every mistake is easy to trace.
 
 ## The solo rules
 

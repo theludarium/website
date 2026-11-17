@@ -11,7 +11,7 @@ oneIdea: "An animal's real price is its money cost plus the enclosure plus the a
 tryThis: "In your next game, for every animal you consider, say its full price out loud: card cost, enclosure cost, and how many actions it takes to play."
 nextTeaser: "Next, the advanced zoo maps: what changes when every zoo has its own ability, and how to choose between two maps at setup."
 ---
-Every animal in Ark Nova looks good on its own. The skill is comparing them: this 5-appeal animal for 13 money, or that 2-appeal one with a strong ability for 8? This lesson gives you a way to price any animal quickly, using the gap idea from the [scoring lesson](/academy/ark-nova/ark-nova-scoring/).
+Every animal in [Ark Nova](https://www.amazon.com/dp/B09L6FCP9S?tag=cubecommonw0a-20) looks good on its own. The skill is comparing them: this 5-appeal animal for 13 money, or that 2-appeal one with a strong ability for 8? This lesson gives you a way to price any animal quickly, using the gap idea from the [scoring lesson](/academy/ark-nova/ark-nova-scoring/).
 
 The numbers in the examples below are made up to show the method. Apply it to the real cards in your game.
 

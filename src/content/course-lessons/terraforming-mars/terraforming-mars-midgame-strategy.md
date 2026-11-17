@@ -11,7 +11,7 @@ oneIdea: "Terraforming is a shared clock. Every step anyone takes brings the end
 tryThis: "At the start of each generation in your next game, count the steps left on all three tracks. Use that count to decide whether a production card is still worth buying."
 nextTeaser: "Next, the endgame and scoring math: the last generation, what each standard project is worth in points, and how to count the final score."
 ---
-By the middle of a Terraforming Mars game, everyone has an engine of some kind. Income is up, blue cards are working, and the tracks are climbing. The opening asked what you could build. The midgame asks a harder question: how long do you have left to use it?
+By the middle of a [Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20) game, everyone has an engine of some kind. Income is up, blue cards are working, and the tracks are climbing. The opening asked what you could build. The midgame asks a harder question: how long do you have left to use it?
 
 ## Terraforming is a shared clock
 

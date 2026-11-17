@@ -42,7 +42,7 @@ Persistent effects are where crafting compounds. A few of the base deck's are wo
 - **Scouting Party:** as attacker, ambush cards do not affect you.
 - **Stand and Deliver!:** once in Birdsong, take a random card from an enemy, who scores a point.
 
-A persistent card crafted early pays every turn for the rest of the game. That is why the Walking Through Root booklet points the Marquise toward Command Warren and Cobbler: for a faction starved for actions, a free battle or move each turn is worth more than most items.
+A persistent card crafted early pays every turn for the rest of the game. That is why the Walking Through [Root](https://www.amazon.com/dp/B07F454YF3?tag=cubecommonw0a-20) booklet points the Marquise toward Command Warren and Cobbler: for a faction starved for actions, a free battle or move each turn is worth more than most items.
 
 Some cards are one-shot battle tools: **Armorers** (discard to ignore all rolled hits you take in one battle), **Sappers** (discard as defender for an extra hit), and **Brutal Tactics** (an extra hit as attacker, but the defender scores a point). **Royal Claim** can be discarded in Birdsong to score a point for each clearing you rule. And the three **Favor** cards each remove every enemy piece in clearings of one suit, a huge swing that is hard to afford.
 

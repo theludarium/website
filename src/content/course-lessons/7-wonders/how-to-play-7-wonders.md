@@ -12,7 +12,7 @@ oneIdea: "7 Wonders is one move repeated: pick a card, play it, pass the rest. E
 tryThis: "In your first game of 7 Wonders, have players reveal and play their cards one at a time, as the rulebook suggests, so everyone sees how each action works."
 nextTeaser: "Next, the teach: a ten-minute host script in the order you would say it, what to leave out, and a printable teach sheet."
 ---
-7 Wonders is a card game about building an ancient city over three Ages. Everyone picks a card at the same time, plays it, and passes the rest, so seven players finish about as fast as three. It plays 3 to 7 players in about 30 minutes.
+[7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20) is a card game about building an ancient city over three Ages. Everyone picks a card at the same time, plays it, and passes the rest, so seven players finish about as fast as three. It plays 3 to 7 players in about 30 minutes.
 
 This lesson covers the whole game from the current Repos Production rulebook, the [7 Wonders second edition rules](https://cdn.svc.asmodee.net/production-rprod/storage/downloads/games/7wonders/en/sev-en02-rules-1716388903zBEZx.pdf).
 

@@ -11,7 +11,7 @@ oneIdea: "With one opponent, only the gap between you matters. A card that gains
 tryThis: "Play three two-player games, and before every Victory card buy, say the score gap out loud and how many Provinces are left."
 nextTeaser: "Next, reading your opponent's deck: what is public, what you can track, and how to predict their next big turn."
 ---
-Welcome to Level 4. The rules of Dominion are the same at two players as at four. The game is not. With one opponent, the Supply is smaller, every attack hits your only rival, and every point either of you scores moves the one number that matters: the gap. Two-player games are also the fastest way to get many games in, especially online.
+Welcome to Level 4. The rules of [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) are the same at two players as at four. The game is not. With one opponent, the Supply is smaller, every attack hits your only rival, and every point either of you scores moves the one number that matters: the gap. Two-player games are also the fastest way to get many games in, especially online.
 
 ## The two-player Supply
 

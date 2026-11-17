@@ -11,7 +11,7 @@ oneIdea: "There is a Codenames for almost every table. Match the version to the 
 tryThis: "Before your next game, pick one house rule from this lesson, agree on it out loud, and play three games with it. Keep it only if everyone wants it back."
 nextTeaser: "Level 2 begins with the spymaster's toolbox: the kinds of links a clue can use, and which ones your team will read the way you meant."
 ---
-Codenames plays 4 to 8 or more players, split into two teams, each with a spymaster and at least one operative. For two players, Czech Games Edition's answer is Codenames: Duet, a cooperative version built for two that also takes more.
+[Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) plays 4 to 8 or more players, split into two teams, each with a spymaster and at least one operative. For two players, Czech Games Edition's answer is Codenames: Duet, a cooperative version built for two that also takes more.
 
 Codenames has grown into a family of games. Some are new ways to play, some are the same game in a new box, and some are expansion packs for the one you already own. This lesson sorts them out, starting with the base game at different player counts.
 

@@ -11,7 +11,7 @@ oneIdea: "Competitive Splendor is the same game you play at home, with three or 
 tryThis: "Play five games this month with a 45-minute clock and three or more players, and track how many turns you take to reach 15. It is the clearest measure of how your play is improving."
 nextTeaser: "Last, a practice plan: how to train for a clocked tournament game over a month, online and across the table, and what to write on your one sheet of notes."
 ---
-Splendor looks like a quiet family game, and it is one. It is also a tournament game, with an official event format from its publisher, a long-running championship at the World Boardgaming Championships, and a busy online scene. You do not need to enter any of them. But knowing how competitive play works sharpens how you play at home.
+[Splendor](https://link.amazon/B0fEvY6Wg) looks like a quiet family game, and it is one. It is also a tournament game, with an official event format from its publisher, a long-running championship at the World Boardgaming Championships, and a busy online scene. You do not need to enter any of them. But knowing how competitive play works sharpens how you play at home.
 
 ## How tournament Splendor differs from home play
 

@@ -11,7 +11,7 @@ oneIdea: "Final scoring is a routine, not a scramble: score one feature type at 
 tryThis: "At the end of your next game, have one player run the final count out loud in the order roads, cities, monasteries, fields, picking up each meeple as it scores."
 nextTeaser: "Level 1 starts with your first three games: the rules slips and strategy traps almost every new table falls into, and how to fix each one."
 ---
-The last tile goes down, everyone leans back, and then the table looks at a board covered in meeples and wonders where to start. Final scoring is the one part of Carcassonne that most rulebook readers rush. It is also where a careless count can hand the game to the wrong player.
+The last tile goes down, everyone leans back, and then the table looks at a board covered in meeples and wonders where to start. Final scoring is the one part of [Carcassonne](https://link.amazon/B012Rr5ed) that most rulebook readers rush. It is also where a careless count can hand the game to the wrong player.
 
 This lesson gives you a routine that works at every table and every player count.
 

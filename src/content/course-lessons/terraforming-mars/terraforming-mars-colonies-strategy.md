@@ -11,7 +11,7 @@ oneIdea: "Colonies is a timing game. Build early so every trade pays you a bonus
 tryThis: "In your next Colonies game, before each trade, check every Colony Tile's marker and note who has colonies there. Trade where your haul plus your own colony bonus is biggest."
 nextTeaser: "Next, Venus Next: the fourth track, Air Scrapping, the World Government step, and how to use TR that does not bring the end any closer."
 ---
-In Terraforming Mars: Colonies, you build a colony on a Colony Tile as a standard project for 17 M€, and you trade by sending your trade fleet to a tile for 9 M€, 3 energy, or 3 titanium. Every trade pays the trader and also pays each player with a colony on that tile.
+In [Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20): Colonies, you build a colony on a Colony Tile as a standard project for 17 M€, and you trade by sending your trade fleet to a tile for 9 M€, 3 energy, or 3 titanium. Every trade pays the trader and also pays each player with a colony on that tile.
 
 Welcome to Level 4. Tournaments add expansions as their rounds go on. WBC's 2025 and 2026 events used every expansion except Turmoil in the semifinal and final, unless all players agreed otherwise, so Colonies is part of the deep rounds. It adds a new action, a new standard project, and a lot of player interaction.
 

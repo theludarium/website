@@ -11,7 +11,7 @@ oneIdea: "Your hand is a plan for the next break, not a collection. Keep cards y
 tryThis: "At each break in your next game, count the cards you discard to the hand limit. Try to make that number zero by the following break."
 nextTeaser: "Level 3 opens with the opening: a plan for your first break, built from your starting hand and the base projects."
 ---
-Ark Nova deals you a lot of cards and lets you keep few of them. You choose 4 of 8 at the start, and at every break you discard down to 3, or 5 with one particular university. Between those moments, every Cards action spends a turn and pushes the Break token 2 spaces. Handled well, your hand is a short list of next moves. Handled badly, it is a pile of dreams you pay to throw away.
+[Ark Nova](https://www.amazon.com/dp/B09L6FCP9S?tag=cubecommonw0a-20) deals you a lot of cards and lets you keep few of them. You choose 4 of 8 at the start, and at every break you discard down to 3, or 5 with one particular university. Between those moments, every Cards action spends a turn and pushes the Break token 2 spaces. Handled well, your hand is a short list of next moves. Handled badly, it is a pile of dreams you pay to throw away.
 
 ## The opening keep: 4 of 8
 

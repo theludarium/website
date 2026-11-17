@@ -11,7 +11,7 @@ oneIdea: "Livestock and goods both reward stacking the same thing. A herd scores
 tryThis: "In your next game, place your highest-numbered animal tile first on any pasture where you plan a herd, and sell goods only in stacks of two or more unless the game is ending."
 nextTeaser: "Next, the endgame and scoring math: what each region is worth by phase, and how to spend every last worker, silver, and good."
 ---
-Most points in The Castles of Burgundy come from closing regions. Two other sources run alongside them all game: animals on your pastures and goods you sell. Both work the same way at heart. The more of one kind you gather, the more each new piece is worth. This lesson shows the math behind both, so you can run them on purpose.
+Most points in [The Castles of Burgundy](https://www.amazon.com/dp/B07R5ZH6FQ?tag=cubecommonw0a-20) come from closing regions. Two other sources run alongside them all game: animals on your pastures and goods you sell. Both work the same way at heart. The more of one kind you gather, the more each new piece is worth. This lesson shows the math behind both, so you can run them on purpose.
 
 ## How a herd scores
 

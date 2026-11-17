@@ -11,7 +11,7 @@ oneIdea: "Root ends the moment someone reaches 30, so the endgame is a race you 
 tryThis: "When any player passes 20 points, count turns-to-30 for every faction: points still needed divided by points they can score next turn. Say the shortest one aloud."
 nextTeaser: "Next, the expansion factions, from the Riverfolk Company to the Knaves of the Deepwood, and how the reach numbers keep a mixed table fair."
 ---
-Root has no last round. The game ends the instant one player reaches 30 points, even in the middle of their turn. That makes the endgame different from most games: there is no final scoring to plan for, only a race, and the race can be counted.
+[Root](https://www.amazon.com/dp/B07F454YF3?tag=cubecommonw0a-20) has no last round. The game ends the instant one player reaches 30 points, even in the middle of their turn. That makes the endgame different from most games: there is no final scoring to plan for, only a race, and the race can be counted.
 
 This lesson shows how to read each faction's speed and when to slow the leader down.
 

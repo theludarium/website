@@ -11,7 +11,7 @@ oneIdea: "Strong Everdell cities score mostly in one or two categories, chosen b
 tryThis: "After your next three games, write down your score in each of the five categories. Circle the biggest two. Over time you will see which paths you play well and which ones you leave half-built."
 nextTeaser: "Next, card evaluation: what one city space is worth, how to compare a cheap early card with a big late one, and when to clear a space."
 ---
-By Level 3 you know the cards, the combos, and the scoring. The next step is choosing, early, where most of your points will come from. Everdell scores in five categories: base points, point tokens, purple bonuses, the autumn trail, and Events. A city that tries to max all five usually finishes thin in each. A city that leans hard into two usually wins.
+By Level 3 you know the cards, the combos, and the scoring. The next step is choosing, early, where most of your points will come from. [Everdell](https://www.amazon.com/dp/B09ZWQTTNR?tag=cubecommonw0a-20) scores in five categories: base points, point tokens, purple bonuses, the autumn trail, and Events. A city that tries to max all five usually finishes thin in each. A city that leans hard into two usually wins.
 
 This lesson describes four paths that come up again and again in the base game, what feeds each one, and how to tell which one your cards are offering.
 

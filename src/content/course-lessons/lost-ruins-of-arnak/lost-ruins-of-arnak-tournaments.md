@@ -10,7 +10,7 @@ draft: false
 oneIdea: "Arnak's competitive scene lives mostly online, and the best practice is the same as at home: many games, a look at your score breakdown after each one, and a steady habit of research."
 tryThis: "Play five games online this month and write down your score by category after each: research, temple tiles, idols, guardians, cards, and Fear. Find the category that moves least, and work on it."
 ---
-Some games have world championships and national qualifiers. Lost Ruins of Arnak's competitive life is quieter. Most of it happens online, plus whatever you organize yourself. That is good news for a new player: the path from your kitchen table to strong opponents is a browser tab away.
+Some games have world championships and national qualifiers. [Lost Ruins of Arnak](https://www.amazon.com/dp/B08CD3JVQB?tag=cubecommonw0a-20)'s competitive life is quieter. Most of it happens online, plus whatever you organize yourself. That is good news for a new player: the path from your kitchen table to strong opponents is a browser tab away.
 
 ## Is there an official Arnak championship?
 

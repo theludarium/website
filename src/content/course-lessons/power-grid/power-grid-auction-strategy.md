@@ -11,7 +11,7 @@ oneIdea: "A plant has two prices: what it is worth to you, and what it is worth 
 tryThis: "In your next auction phase, before you open a plant, write down your top price for it and the top price you think each rival still in the auction would pay."
 nextTeaser: "Next, player counts, variants, and expansions: two-player rules with the rival company, the two map sides, and which expansion maps to try first."
 ---
-The auction is the one phase of Power Grid where you can spend money against other players directly. It is also where new players lose the most cash, by winning a plant they paid too much for, or by watching a rival get a great plant cheap. This lesson gives you a way to value a plant and a few moves that shape the phase.
+The auction is the one phase of [Power Grid](https://www.amazon.com/dp/B07HM7WZT9?tag=cubecommonw0a-20) where you can spend money against other players directly. It is also where new players lose the most cash, by winning a plant they paid too much for, or by watching a rival get a great plant cheap. This lesson gives you a way to value a plant and a few moves that shape the phase.
 
 ## The rules that shape every auction
 

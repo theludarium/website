@@ -11,7 +11,7 @@ oneIdea: "First-game trouble in Sushi Go! comes from two places: small rules sli
 tryThis: "In your next three games, before each pick, say one sentence to yourself: \"This card finishes something, starts something, or blocks someone.\" If it does none of those, look again."
 nextTeaser: "Next, what every card is really worth: a simple points-per-card chart, why a card's value changes with what is already in front of you, and the picks that look good but are not."
 ---
-Sushi Go! teaches in five minutes, so most tables start playing before every odd case has come up. Your first three games are where habits form. Some mistakes are rules slips nobody catches because the game moves so fast. Others are legal picks that quietly cost points. This lesson covers both, checked against the official Gamewright rules.
+[Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) teaches in five minutes, so most tables start playing before every odd case has come up. Your first three games are where habits form. Some mistakes are rules slips nobody catches because the game moves so fast. Others are legal picks that quietly cost points. This lesson covers both, checked against the official Gamewright rules.
 
 ## Rules slips
 

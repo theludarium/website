@@ -11,7 +11,7 @@ oneIdea: "In the endgame, the grid is small enough to count. Count what is left,
 tryThis: "In your next game, when ten or fewer cards are uncovered, count them out loud as a team: ours, theirs, bystanders, and whether the assassin is still there. Then decide how bold to be."
 nextTeaser: "Level 3 opens with the expert clues: how zero and unlimited clues work, when each one wins a turn, and how to practice with a timer."
 ---
-Early in a game of Codenames, the grid is a fog of 25 words. Late in the game, it is a short list. That changes how both spymasters and operatives should play. This lesson is about the last few turns: counting, risk, and knowing when to stop.
+Early in a game of [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), the grid is a fog of 25 words. Late in the game, it is a short list. That changes how both spymasters and operatives should play. This lesson is about the last few turns: counting, risk, and knowing when to stop.
 
 ## The grid adds up
 

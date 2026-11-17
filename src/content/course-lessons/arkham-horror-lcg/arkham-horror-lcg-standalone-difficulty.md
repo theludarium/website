@@ -11,7 +11,7 @@ oneIdea: "Difficulty in Arkham is a set of dials: the chaos bag, the side of the
 tryThis: "Pick one scenario you have beaten on Standard and replay it in standalone mode on Hard, with a 10-experience deck and one extra random basic weakness."
 nextTeaser: "The last lesson: what Expert and Mastery look like in a cooperative game, the online tools, and a six-week plan to win a campaign on Expert."
 ---
-Arkham Horror: The Card Game is cooperative, so you play against the game, not a ladder. Its challenge comes from the scenarios themselves, and the game gives you several ways to make them harder or easier. This lesson covers difficulty levels, standalone mode, and the optional rules in the Arkham Grimoire v1.1.
+[Arkham Horror: The Card Game](https://www.amazon.com/dp/B0GK349WJ7?tag=cubecommonw0a-20) is cooperative, so you play against the game, not a ladder. Its challenge comes from the scenarios themselves, and the game gives you several ways to make them harder or easier. This lesson covers difficulty levels, standalone mode, and the optional rules in the Arkham Grimoire v1.1.
 
 ## The four difficulty levels
 

@@ -11,7 +11,7 @@ oneIdea: "Events are points that never use one of your 15 city spaces, and each 
 tryThis: "At the start of your next game, pick one basic Event and one special Event to aim for. Write them down. At the end, check whether you claimed either one, and if not, who beat you to it and when."
 nextTeaser: "Level 2 begins with summer: making the middle of the game count with blue rewards and discounts, red Destinations, and a close watch on the Meadow."
 ---
-Every new Everdell player builds a city. Fewer build toward Events, and that is where a lot of games are won. An Event is points beside your city, not in it, so it never takes one of your 15 spaces. And only one player gets each one, so the timing is a race.
+Every new [Everdell](https://www.amazon.com/dp/B09ZWQTTNR?tag=cubecommonw0a-20) player builds a city. Fewer build toward Events, and that is where a lot of games are won. An Event is points beside your city, not in it, so it never takes one of your 15 spaces. And only one player gets each one, so the timing is a race.
 
 ## What an Event is
 

@@ -11,7 +11,7 @@ oneIdea: "A conservation project pays you twice: the points on the card and the 
 tryThis: "In your next game, support one base project at a low level before the first break, and note what the bonus you revealed earns you by the end."
 nextTeaser: "Next, sponsors and money: where cash comes from, which sponsors pay for themselves, and when to take money instead of a card."
 ---
-Conservation projects are where Ark Nova's two halves meet. Your animals supply the icons, your association workers do the work, and the project pays conservation points. Most new players treat projects as a finish line: collect five icons, then cash in. Stronger players treat them as an engine that starts paying in the first hour.
+Conservation projects are where [Ark Nova](https://www.amazon.com/dp/B09L6FCP9S?tag=cubecommonw0a-20)'s two halves meet. Your animals supply the icons, your association workers do the work, and the project pays conservation points. Most new players treat projects as a finish line: collect five icons, then cash in. Stronger players treat them as an engine that starts paying in the first hour.
 
 ## Two kinds of projects
 

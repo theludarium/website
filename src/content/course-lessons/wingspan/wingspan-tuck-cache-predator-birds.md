@@ -23,7 +23,7 @@ About 57 of the 116 brown birds in the base game tuck or cache in some way. They
 
 ## Tucking: three common shapes
 
-**Tuck from hand, then draw.** Nine base birds say: tuck 1 card from your hand behind this bird, and if you do, draw 1 card. Your hand size stays the same, you score 1 point, and you get a fresh look at the deck. That is about as close to a free point as Wingspan offers. The catch is that you need a card in hand to tuck, which most players have.
+**Tuck from hand, then draw.** Nine base birds say: tuck 1 card from your hand behind this bird, and if you do, draw 1 card. Your hand size stays the same, you score 1 point, and you get a fresh look at the deck. That is about as close to a free point as [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) offers. The catch is that you need a card in hand to tuck, which most players have.
 
 **Tuck from hand, plus a bonus.** Other birds tuck a card from hand and then lay an egg on themselves or gain a food. These cost you a card from hand each time, but give two things back. Good when your hand is large and full of birds you will never afford.
 

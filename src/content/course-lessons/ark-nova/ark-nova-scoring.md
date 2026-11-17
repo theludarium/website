@@ -11,7 +11,7 @@ oneIdea: "Appeal pays you at every break; conservation pays you at the end. Earl
 tryThis: "At every break in your next game, write down your appeal, your conservation, and how many appeal spaces still separate your two counters."
 nextTeaser: "Next, the last piece of Level 1: laying out your zoo map so enclosures, kiosks, and placement bonuses all pay you back."
 ---
-Ark Nova's scoring looks strange the first time: two tracks, running in opposite directions, around the same board. Once you see them as one number, the gap between your two counters, most decisions get easier. This lesson shows how the tracks fit, what each point is worth, and how to read your position at a glance.
+[Ark Nova](https://www.amazon.com/dp/B09L6FCP9S?tag=cubecommonw0a-20)'s scoring looks strange the first time: two tracks, running in opposite directions, around the same board. Once you see them as one number, the gap between your two counters, most decisions get easier. This lesson shows how the tracks fit, what each point is worth, and how to read your position at a glance.
 
 ## How do the two tracks fit together?
 

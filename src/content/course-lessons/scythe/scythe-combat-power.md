@@ -11,7 +11,7 @@ oneIdea: "Every Scythe fight is open information except two choices. Work out th
 tryThis: "Before every combat in your next game, say out loud your opponent's maximum possible total. If your guaranteed total matches it, you cannot lose."
 nextTeaser: "Next, scoring and endgame timing: the popularity tiers in coins, what each star is worth, and when to end the game."
 ---
-Welcome to Level 3. Combat in Scythe is rare, and that is why each fight matters. A win can mean a star, a territory, resources, and an opponent's units sent home. A loss can mean all of that in reverse. The good news is that Scythe combat has almost no luck once you understand what is public.
+Welcome to Level 3. Combat in [Scythe](https://www.amazon.com/dp/B01IPUGYK6?tag=cubecommonw0a-20) is rare, and that is why each fight matters. A win can mean a star, a territory, resources, and an opponent's units sent home. A loss can mean all of that in reverse. The good news is that Scythe combat has almost no luck once you understand what is public.
 
 ## How a combat works
 

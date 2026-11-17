@@ -11,7 +11,7 @@ oneIdea: "Every kingdom is face up, so every rival's needs are public. A pick th
 tryThis: "Next game, before each pick, name the domino in the line that each rival wants most. Then ask whether taking one of them costs you less than it costs them. Do it out loud if your table enjoys it."
 nextTeaser: "Next, the endgame: the last three rounds, when fit beats value and every square still empty is a decision."
 ---
-Kingdomino has no attacks, no stealing, and no way to touch another kingdom. Its only interaction is the draft. That makes the draft the place to read the table. Every kingdom sits face up in front of its owner, and every need shows. A player who looks only at their own kingdom is leaving half the game on the table.
+[Kingdomino](https://link.amazon/B08l49zvA) has no attacks, no stealing, and no way to touch another kingdom. Its only interaction is the draft. That makes the draft the place to read the table. Every kingdom sits face up in front of its owner, and every need shows. A player who looks only at their own kingdom is leaving half the game on the table.
 
 ## What to look for in a rival's kingdom
 

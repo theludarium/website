@@ -11,7 +11,7 @@ oneIdea: "A final score hides how it was made. Split it into links and industrie
 tryThis: "After your next game, fill in the four-number score split for every player at the table, and compare yours with the winner's line by line."
 nextTeaser: "Level 5 begins with competitive Brass: how the World Boardgaming Championships runs its event, how the heats are scored, and what that means for your play."
 ---
-Most games of Brass: Birmingham end with a winner, a groan, and the box going back on the shelf. That is a waste of the best teacher you have. A ten-minute review after the game shows where the points came from, and where they leaked away. Players who review get better faster than players who only play more.
+Most games of [Brass: Birmingham](https://www.amazon.com/dp/1988884047?tag=cubecommonw0a-20) end with a winner, a groan, and the box going back on the shelf. That is a waste of the best teacher you have. A ten-minute review after the game shows where the points came from, and where they leaked away. Players who review get better faster than players who only play more.
 
 ## Record the score as it happens
 

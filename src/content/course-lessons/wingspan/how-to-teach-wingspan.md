@@ -11,7 +11,7 @@ oneIdea: "Teach the player mat, not the rulebook. Once people see that each row 
 tryThis: "Print the teach sheet, set up before anyone sits down, and stop your teach after one example of each action. Teach the rest as it comes up."
 nextTeaser: "Next, the last piece of Level 0: how to read a bird card, corner by corner, so every icon on the table makes sense."
 ---
-Wingspan has a lot of small rules, and almost all of them are printed on the player mat. That is good news for a host. Hosts who read the rulebook front to back lose the table somewhere around the birdfeeder. Hosts who point at the mat and say "this row gets bigger" have the table playing in ten minutes.
+[Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) has a lot of small rules, and almost all of them are printed on the player mat. That is good news for a host. Hosts who read the rulebook front to back lose the table somewhere around the birdfeeder. Hosts who point at the mat and say "this row gets bigger" have the table playing in ten minutes.
 
 Here is a script in the order you would say it, with the moments to stop talking. Print the [Wingspan teach sheet](/academy/wingspan/teach-sheet/) and set it in the middle of the table.
 

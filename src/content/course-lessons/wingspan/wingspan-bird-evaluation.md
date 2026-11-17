@@ -44,7 +44,7 @@ Take a bird with a brown power that caches 1 seed from the supply, so each use o
 - **Played at the start of round 3,** it might fire three or four times.
 - **Played in round 4,** once or twice.
 
-Its printed points did not change. Its worth fell by more than half. That is the core of Wingspan tempo, now as arithmetic.
+Its printed points did not change. Its worth fell by more than half. That is the core of [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) tempo, now as arithmetic.
 
 ## The yardstick: an egg turn
 

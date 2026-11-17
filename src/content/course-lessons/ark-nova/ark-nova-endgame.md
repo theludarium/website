@@ -11,7 +11,7 @@ oneIdea: "Ark Nova ends on someone's crossing, not on a round count. Know who ca
 tryThis: "The first time any player gets close to crossing in your next game, write down your remaining turns and which card will sit in slot 5 for each one."
 nextTeaser: "Level 4 begins with the break: who it helps, when to push it, and how to arrive at every payday ready to spend."
 ---
-Ark Nova has no fixed number of rounds. The game ends when someone's appeal and conservation counters meet, and that moment can arrive sooner than the table expects. Players who plan for it finish with their best action loaded. Players who do not finish with a hand of animals they never played.
+[Ark Nova](https://www.amazon.com/dp/B09L6FCP9S?tag=cubecommonw0a-20) has no fixed number of rounds. The game ends when someone's appeal and conservation counters meet, and that moment can arrive sooner than the table expects. Players who plan for it finish with their best action loaded. Players who do not finish with a hand of animals they never played.
 
 ## The trigger, exactly
 

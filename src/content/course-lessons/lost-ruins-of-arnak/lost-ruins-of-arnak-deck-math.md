@@ -11,7 +11,7 @@ oneIdea: "Arnak shuffles only once a round, so your deck has a known top: undraw
 tryThis: "Before you pass in each round of your next game, count the cards still in your deck and the items you bought. Predict how many of next round's 5 cards you already know, then check when you draw."
 nextTeaser: "Next, the two-player duel: what the blocked spaces, smaller stacks, and alternating first turn change, and how to win the race head to head."
 ---
-Welcome to Level 3. At Level 2 you learned to judge a card by how many times you will use it. Now you can be exact about when you will draw it. Lost Ruins of Arnak has a quirk most deck builders do not: you never reshuffle your whole deck. That makes much of your next hand predictable, and a predictable hand is one you can plan around.
+Welcome to Level 3. At Level 2 you learned to judge a card by how many times you will use it. Now you can be exact about when you will draw it. [Lost Ruins of Arnak](https://www.amazon.com/dp/B08CD3JVQB?tag=cubecommonw0a-20) has a quirk most deck builders do not: you never reshuffle your whole deck. That makes much of your next hand predictable, and a predictable hand is one you can plan around.
 
 All rules here follow the current English rulebook from Czech Games Edition.
 

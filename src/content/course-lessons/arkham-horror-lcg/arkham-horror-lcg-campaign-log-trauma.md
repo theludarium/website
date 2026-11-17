@@ -11,7 +11,7 @@ oneIdea: "A campaign is a chain of scenarios held together by the campaign log. 
 tryThis: "Print or copy a fresh campaign log before your next campaign, and name one player the scribe who writes every record instruction word for word."
 nextTeaser: "Level 4 turns to solo play: one investigator or two, which to choose, and how the rules change when you are alone in Arkham."
 ---
-Arkham Horror: The Card Game is at its best as a campaign: a series of scenarios where choices, wins, and injuries carry forward. The campaign log is how the game remembers. This lesson covers the campaign rules from the 2026 core rulebook and the Arkham Grimoire v1.1. It is spoiler-free: no story outcomes, no specific resolutions.
+[Arkham Horror: The Card Game](https://www.amazon.com/dp/B0GK349WJ7?tag=cubecommonw0a-20) is at its best as a campaign: a series of scenarios where choices, wins, and injuries carry forward. The campaign log is how the game remembers. This lesson covers the campaign rules from the 2026 core rulebook and the Arkham Grimoire v1.1. It is spoiler-free: no story outcomes, no specific resolutions.
 
 ## The campaign log
 

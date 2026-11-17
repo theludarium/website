@@ -11,7 +11,7 @@ oneIdea: "Teach the dice and the hot seat, then start rolling. King of Tokyo exp
 tryThis: "Keep your next teach under five minutes. After the game, ask each player one question: when should you have left Tokyo?"
 nextTeaser: "Next, the last piece of Level 0: a first game played out turn by turn, so you can see every rule in motion before your own table sits down."
 ---
-King of Tokyo is easy to teach and easy to over-teach. Hosts read out every face, both card types, Tokyo Bay, and the edge cases before anyone touches a die, and nobody remembers any of it. Teach the turn, start playing, and explain the rest the moment it happens.
+[King of Tokyo](https://link.amazon/B0goO6BQA) is easy to teach and easy to over-teach. Hosts read out every face, both card types, Tokyo Bay, and the edge cases before anyone touches a die, and nobody remembers any of it. Teach the turn, start playing, and explain the rest the moment it happens.
 
 Print the [King of Tokyo teach sheet](/academy/king-of-tokyo/teach-sheet/) and put it in the middle of the table. For advice that works with any game, our guide on [how to teach a board game in five minutes](/articles/how-to-teach-a-board-game/) pairs well with this one.
 

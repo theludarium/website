@@ -11,7 +11,7 @@ oneIdea: "Teach the loop, not the rulebook: DNA becomes dinosaurs, dinosaurs bri
 tryThis: "Print the teach sheet, set up the recommended first game, and roll the first DNA dice by minute ten, even if someone still has a question."
 nextTeaser: "Next, the last piece of Level 0: threat, security, and the Park Phase worked through one example at a time, so every visitor lands where the rules say."
 ---
-Dinosaur Island has a lot of pieces on the table, and the temptation is to explain every board before anyone touches a die. Resist it. New players need one sentence of goal, the shape of a round, and the danger of loose dinosaurs. Everything else can wait for the moment it comes up.
+[Dinosaur Island](https://www.amazon.com/dp/B06Y3BS8YD?tag=cubecommonw0a-20) has a lot of pieces on the table, and the temptation is to explain every board before anyone touches a die. Resist it. New players need one sentence of goal, the shape of a round, and the danger of loose dinosaurs. Everything else can wait for the moment it comes up.
 
 Here is a script in the order you would say it, with the moments to stop talking. Print the [Dinosaur Island teach sheet](/academy/dinosaur-island/teach-sheet/) and put it where everyone can read it. For the general method behind this script, see [how to teach a board game in five minutes](/articles/how-to-teach-a-board-game/).
 

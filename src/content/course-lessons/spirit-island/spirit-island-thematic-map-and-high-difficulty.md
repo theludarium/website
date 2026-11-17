@@ -11,7 +11,7 @@ oneIdea: "The core box goes past its own chart. Add the thematic map, a scenario
 tryThis: "After your next win at the top of an adversary, play the same adversary and level on the thematic map, and compare the two scores."
 nextTeaser: "Next, a practice plan: how to log your games, read your losses, and climb toward the hardest challenges as a group."
 ---
-Welcome to Level 5, the top of the ladder. Spirit Island has no tournament circuit, so mastery here means something else: beating the hardest games your box can build, and building a table that can keep doing it. This lesson is about the hard games.
+Welcome to Level 5, the top of the ladder. [Spirit Island](https://www.amazon.com/dp/B01MUHP51S?tag=cubecommonw0a-20) has no tournament circuit, so mastery here means something else: beating the hardest games your box can build, and building a table that can keep doing it. This lesson is about the hard games.
 
 ## The difficulty chart, extended
 

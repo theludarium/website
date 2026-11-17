@@ -16,7 +16,7 @@ The plan assumes about three or four hours a week: one table game and a few digi
 
 ## Choose your event first
 
-A plan needs a date. The [tournaments lesson](/academy/root/root-tournaments/) covers the main option, the World Boardgaming Championships Root event, and where to look for community events. Read that event's current rules before week one: its deck, its draft, its maps, its landmarks, and whether coalitions or hirelings are allowed. Every practice game should use them.
+A plan needs a date. The [tournaments lesson](/academy/root/root-tournaments/) covers the main option, the World Boardgaming Championships [Root](https://www.amazon.com/dp/B07F454YF3?tag=cubecommonw0a-20) event, and where to look for community events. Read that event's current rules before week one: its deck, its draft, its maps, its landmarks, and whether coalitions or hirelings are allowed. Every practice game should use them.
 
 ## The four parts of every week
 

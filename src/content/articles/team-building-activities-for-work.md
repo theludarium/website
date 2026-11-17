@@ -97,7 +97,7 @@ For a full day plan, see [offsite activities for adults that beat the trust fall
 Small groups of three to eight are the easiest to serve. Everyone can sit at one table, hear every voice, and play a real game instead of a party format.
 
 - **Three to four people:** a cooperative board game, a two-against-two word game, or a short puzzle box.
-- **Five to eight people:** Codenames, a party word game, or a cooperative card game where everyone holds part of the information.
+- **Five to eight people:** [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), a party word game, or a cooperative card game where everyone holds part of the information.
 - **Mixed seniority:** cooperative games are safer than competitive ones, because the boss and the new hire are on the same side.
 
 For bigger rooms, the trick is to split into small groups anyway. Run the same game at several tables at once, then bring everyone back for one shared debrief. Our list of [20 team building games for work](/articles/team-building-board-games/) sorts picks by group size, from two players to twenty.

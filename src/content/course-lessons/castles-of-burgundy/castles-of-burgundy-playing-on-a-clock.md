@@ -11,7 +11,7 @@ oneIdea: "A three-hour tournament round leaves about 7 minutes per game round fo
 tryThis: "Time your next four-player game with a phone stopwatch per phase. Aim for each phase under 30 minutes, and note which phase ran longest."
 nextTeaser: "Next, playing to win: why tournament heats reward wins far more than second places, and how that changes your risks."
 ---
-At home, a long game of The Castles of Burgundy is fine. Ravensburger lists 90 to 120 minutes, and a thoughtful table can run past that. At a tournament, time is part of the game. A table that runs out of time does not get to finish the way it wants, and a slow player can be penalized. This lesson is about playing well and on time.
+At home, a long game of [The Castles of Burgundy](https://www.amazon.com/dp/B07R5ZH6FQ?tag=cubecommonw0a-20) is fine. Ravensburger lists 90 to 120 minutes, and a thoughtful table can run past that. At a tournament, time is part of the game. A table that runs out of time does not get to finish the way it wants, and a slow player can be penalized. This lesson is about playing well and on time.
 
 ## The time limit at the WBC
 

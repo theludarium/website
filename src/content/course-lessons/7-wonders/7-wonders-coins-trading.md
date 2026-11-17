@@ -12,7 +12,7 @@ oneIdea: "A coin you pay a neighbor is a coin you lose and a coin they gain. Cou
 tryThis: "In your next 7 Wonders game, keep a tally of coins you pay each neighbor and coins they pay you. At the end, compare the totals with how you did against each one."
 nextTeaser: "Level 3 starts with the endgame: science squares and sets, military swings, guilds, and coins, counted so the last picks stop being guesses."
 ---
-Coins in 7 Wonders look small. Three of them make one point, and nobody wins on their treasury. But coins are how you build the cards you cannot make yourself, and every coin you spend on trading goes to a player you are scoring against. This lesson puts numbers on that.
+Coins in [7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20) look small. Three of them make one point, and nobody wins on their treasury. But coins are how you build the cards you cannot make yourself, and every coin you spend on trading goes to a player you are scoring against. This lesson puts numbers on that.
 
 All rules here come from the [second edition rulebook](https://cdn.svc.asmodee.net/production-rprod/storage/downloads/games/7wonders/en/sev-en02-rules-1716388903zBEZx.pdf).
 

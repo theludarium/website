@@ -11,7 +11,7 @@ oneIdea: "Good operatives read the clue the way their spymaster meant it, not th
 tryThis: "Next game, keep a quiet list of every clue your spymaster gives and how many words each one found. Before your first guess each turn, check the list for a leftover."
 nextTeaser: "Next, the last lesson of Level 1: Codenames at every player count, Duet for two, Pictures, the newer editions and expansion packs, and house rules worth agreeing on."
 ---
-Codenames is often taught as a spymaster's game. It is not. Teams lose more games at the guessing end of the table than at the clue end, usually one hopeful touch at a time. This lesson is about the midgame from the operative's seat: reading clues, managing risk, and keeping your team's pace up.
+[Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) is often taught as a spymaster's game. It is not. Teams lose more games at the guessing end of the table than at the clue end, usually one hopeful touch at a time. This lesson is about the midgame from the operative's seat: reading clues, managing risk, and keeping your team's pace up.
 
 Our [Codenames clue tips](/articles/codenames-clue-tips/) include a short table of guessing habits. Here we go further into why they work.
 

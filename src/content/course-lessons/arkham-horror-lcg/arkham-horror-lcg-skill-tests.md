@@ -11,7 +11,7 @@ oneIdea: "Every card in your hand is two things at once: its effect, and the ski
 tryThis: "Next game, before each test, say your target margin out loud (for example, two over), then commit only enough to reach it."
 nextTeaser: "Level 2 starts with the chaos bag itself: what is in it, and your odds at each margin on every difficulty."
 ---
-Almost everything in Arkham Horror: The Card Game runs through a skill test: finding clues, fighting, evading, and most treacheries the encounter deck throws at you. Learning to play the test well is the first real skill step after learning the rules. This lesson uses the skill test timing from the 2026 core rulebook and the Arkham Grimoire v1.1.
+Almost everything in [Arkham Horror: The Card Game](https://www.amazon.com/dp/B0GK349WJ7?tag=cubecommonw0a-20) runs through a skill test: finding clues, fighting, evading, and most treacheries the encounter deck throws at you. Learning to play the test well is the first real skill step after learning the rules. This lesson uses the skill test timing from the 2026 core rulebook and the Arkham Grimoire v1.1.
 
 ## The eight steps
 

@@ -11,7 +11,7 @@ oneIdea: "The Park Phase is a short checklist: draw, get paid, place hooligans f
 tryThis: "In your next game, have each player say their threat, the holding die, and their security out loud before anyone removes a visitor."
 nextTeaser: "Level 1 begins with your first three games: the rules slips every new table makes, and the habits that cost the most points."
 ---
-The Park Phase is where Dinosaur Island pays out, and where it bites. It is also where new tables make the most small rules slips, because several steps happen in a row and each one feeds the next. This lesson walks through the whole phase in order, with worked examples, so every visitor ends up where the rules say.
+The Park Phase is where [Dinosaur Island](https://www.amazon.com/dp/B06Y3BS8YD?tag=cubecommonw0a-20) pays out, and where it bites. It is also where new tables make the most small rules slips, because several steps happen in a row and each one feeds the next. This lesson walks through the whole phase in order, with worked examples, so every visitor ends up where the rules say.
 
 ## Step 1: threat comes from two places
 

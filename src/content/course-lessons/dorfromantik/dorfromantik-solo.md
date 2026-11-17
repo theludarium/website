@@ -10,7 +10,7 @@ draft: false
 oneIdea: "Solo Dorfromantik is the same game with one voice. Without a table to catch mistakes, you need a routine: say the counts, check the edges, and review the game afterward. Done well, solo play is a quick way to get better."
 tryThis: "Play one solo game where you write down, every time a Task tile comes out, how many Landscape tiles are left. Afterward, look for the longest stretch with no Task tile and ask why."
 ---
-Dorfromantik: The Board Game is for 1 to 6 players, and solo is not a variant. The rules are the same at every count. You set up the same way, follow the same turn order rule for Task and Landscape tiles, score the same sheet, and mark the same Campaign sheet. The only thing missing is the conversation, and that is what this lesson replaces.
+[Dorfromantik: The Board Game](https://www.amazon.com/dp/B0BQ3W9GRL?tag=cubecommonw0a-20) is for 1 to 6 players, and solo is not a variant. The rules are the same at every count. You set up the same way, follow the same turn order rule for Task and Landscape tiles, score the same sheet, and mark the same Campaign sheet. The only thing missing is the conversation, and that is what this lesson replaces.
 
 ## Setting up alone
 

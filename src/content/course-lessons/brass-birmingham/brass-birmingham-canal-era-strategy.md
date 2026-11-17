@@ -11,7 +11,7 @@ oneIdea: "Most of what you place in the Canal Era leaves the board when it ends.
 tryThis: "In your next game, try to finish the Canal Era with at least one flipped level 2 or higher tile, and track what it scores across both eras."
 nextTeaser: "Next, the Rail Era: an empty map, a hunger for coal, double rails with beer, and the big tiles that decide the game."
 ---
-The Canal Era is the cheaper, quieter half of Brass: Birmingham. Canals cost £3. You may have only one industry tile in each town. Everyone opens with a single action. It is easy to treat it as a warm-up. It works better as the era where you build the base the Rail Era stands on.
+The Canal Era is the cheaper, quieter half of [Brass: Birmingham](https://www.amazon.com/dp/1988884047?tag=cubecommonw0a-20). Canals cost £3. You may have only one industry tile in each town. Everyone opens with a single action. It is easy to treat it as a warm-up. It works better as the era where you build the base the Rail Era stands on.
 
 ## What survives the end of the Canal Era?
 

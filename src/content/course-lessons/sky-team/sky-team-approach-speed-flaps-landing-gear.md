@@ -11,7 +11,7 @@ oneIdea: "The middle of the flight is a timing puzzle. The Landing Gear and Flap
 tryThis: "In your next briefing, before anyone rolls, count the spaces left to the airport and the rounds left on the Altitude Track, and say both numbers out loud."
 nextTeaser: "Next, the landing itself: the final round checklist, all four landing conditions, and how to recover from a round that went wrong."
 ---
-Somewhere around round 3 or 4, Sky Team changes. The early slack is gone. Planes sit in the spaces you are about to fly through, the airport is close enough to count to, and every system you have not built is a job still waiting for the final round. This lesson is about that middle stretch: the traffic, your speed, and the order you build your gear and flaps.
+Somewhere around round 3 or 4, [Sky Team](https://www.amazon.com/dp/B0CHD8RCSJ?tag=cubecommonw0a-20) changes. The early slack is gone. Planes sit in the spaces you are about to fly through, the airport is close enough to count to, and every system you have not built is a job still waiting for the final round. This lesson is about that middle stretch: the traffic, your speed, and the order you build your gear and flaps.
 
 ## Count spaces and rounds
 

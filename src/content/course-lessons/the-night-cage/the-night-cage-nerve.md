@@ -11,7 +11,7 @@ oneIdea: "Nerve turns one tile of wax now into a favor later. Staying pays a til
 tryThis: "At the start of each of your turns, say your Nerve count and one thing you are saving it for. If you cannot name a use, consider whether a Stay is worth its tile."
 nextTeaser: "Next, Lights Out: what changes when your candle goes dark, how to move blind without walking into trouble, and how to regroup so a friend relights you."
 ---
-Nerve is the only resource in The Night Cage you can spend. Apart from your Key, everything else lives on the board or in the Draw Stack. The rules describe it as a way to bend the rules in your favor, and that is a good way to think about it: each token is a small exception you can claim at the right moment. This lesson covers where Nerve comes from, what it costs, and when each use earns its place.
+Nerve is the only resource in [The Night Cage](https://www.amazon.com/dp/B08VC23895?tag=cubecommonw0a-20) you can spend. Apart from your Key, everything else lives on the board or in the Draw Stack. The rules describe it as a way to bend the rules in your favor, and that is a good way to think about it: each token is a small exception you can claim at the right moment. This lesson covers where Nerve comes from, what it costs, and when each use earns its place.
 
 ## Where Nerve comes from
 

@@ -67,4 +67,4 @@ It needs to be. When a base is removed, you discard every supporter of that suit
 
 Because the Alliance grows late, it is easy for other players to ignore until the revolts start. Leder Games puts it plainly: the Alliance's late surge works only if it can keep the other players in check. Expect pressure as soon as your sympathy track starts to empty. In one of its suggested three-player mixes, the Learning to Play guide notes the Vagabond has a natural friend in the Alliance.
 
-Our piece on [area control without the bloodbath](/articles/area-control-board-games/) looks at how Root's asymmetry changes who is worth attacking, the Alliance most of all.
+Our piece on [area control without the bloodbath](/articles/area-control-board-games/) looks at how [Root](https://www.amazon.com/dp/B07F454YF3?tag=cubecommonw0a-20)'s asymmetry changes who is worth attacking, the Alliance most of all.

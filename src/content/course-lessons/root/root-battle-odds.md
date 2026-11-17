@@ -11,7 +11,7 @@ oneIdea: "Root's dice give the attacker the higher roll, but your warriors cap w
 tryThis: "Before every attack in your next game, say out loud how many hits you can deal at most and how many you expect, using the tables in this lesson."
 nextTeaser: "Next, the shared deck: which cards to craft, which to hold for ambushes and actions, and why the item supply runs out sooner than you think."
 ---
-Welcome to Level 2. At Level 1 you learned what each faction wants. Now you start choosing fights on purpose, and that starts with knowing what Root's two dice actually do.
+Welcome to Level 2. At Level 1 you learned what each faction wants. Now you start choosing fights on purpose, and that starts with knowing what [Root](https://www.amazon.com/dp/B07F454YF3?tag=cubecommonw0a-20)'s two dice actually do.
 
 The good news: Root's battle math is small enough to learn by heart. Two dice, one simple rule about who gets which, and one cap.
 

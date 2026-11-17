@@ -10,7 +10,7 @@ draft: false
 oneIdea: "Codenames gets better the more people you play it with. The next step is not a harder rule. It is a new table: a game night, an online room, or a local group."
 tryThis: "Pick one way to play this month that you have not tried: host a best of three, open an online room for a faraway friend, or ask your local game store about its open game night."
 ---
-You can play, teach, give clues, guess, run the race, close out an endgame, use the expert clues, and beat Duet on a tight clock. The last step is the best one: finding more people to play with. Codenames is a game about how people think, and every new table teaches you something.
+You can play, teach, give clues, guess, run the race, close out an endgame, use the expert clues, and beat Duet on a tight clock. The last step is the best one: finding more people to play with. [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) is a game about how people think, and every new table teaches you something.
 
 ## Host a Codenames night
 

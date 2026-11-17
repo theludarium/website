@@ -11,7 +11,7 @@ oneIdea: "A strong opening is planned backward from the first break: decide what
 tryThis: "Before your first turn next game, write three goals for the first break: an appeal number, one project level, and one upgrade or worker. Check them when the break arrives."
 nextTeaser: "Next, pricing animals: how to judge any animal by the gap it closes per money and per action, so the display stops being a guessing game."
 ---
-The first break in Ark Nova is the first payday, and the first time the display clears and hands shrink. Everything you do before it either sets up that moment or wastes it. Strong players treat the opening as one plan, not a string of good-looking turns.
+The first break in [Ark Nova](https://www.amazon.com/dp/B09L6FCP9S?tag=cubecommonw0a-20) is the first payday, and the first time the display clears and hands shrink. Everything you do before it either sets up that moment or wastes it. Strong players treat the opening as one plan, not a string of good-looking turns.
 
 This lesson gives you a way to build that plan from what you can see at the start.
 

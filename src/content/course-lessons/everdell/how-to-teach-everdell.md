@@ -11,7 +11,7 @@ oneIdea: "Teach the three actions and the season changes, then let the cards exp
 tryThis: "Print the teach sheet, set it in the middle of the table, and stop talking after your example turn. Answer everything else the moment it comes up."
 nextTeaser: "Next, the last piece of Level 0: reading an Everdell card corner by corner, so every card in the Meadow makes sense at a glance."
 ---
-Everdell looks busy. There is a tree, a river, four piles of resources, eight cards in the Meadow, and Forest cards on both sides. Hosts see all that and feel they must explain every piece before anyone moves. They don't. The game has three actions and three season changes. Almost everything else is printed on a card.
+[Everdell](https://www.amazon.com/dp/B09ZWQTTNR?tag=cubecommonw0a-20) looks busy. There is a tree, a river, four piles of resources, eight cards in the Meadow, and Forest cards on both sides. Hosts see all that and feel they must explain every piece before anyone moves. They don't. The game has three actions and three season changes. Almost everything else is printed on a card.
 
 Here is a script in the order you would say it, with the moments to stop talking. Print the [Everdell teach sheet](/academy/everdell/teach-sheet/) and put it where everyone can see it.
 

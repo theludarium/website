@@ -11,7 +11,7 @@ oneIdea: "Teach three things before the first domino moves: connect by matching,
 tryThis: "Time your teach. Stop at five minutes, place the kings, and explain turn order the first time someone asks why they go first."
 nextTeaser: "Level 1 starts with your first three games: the rules slips almost every new table makes, from corner connections to scoring land with no crowns."
 ---
-Kingdomino is one of the friendliest teaches on any shelf. The danger is not hard rules. It is a host who explains the draft order, the 5 by 5 limit, and every tiebreaker before anyone has touched a domino. Teach the shape of a turn, show one scoring example, and let the first round do the rest.
+[Kingdomino](https://link.amazon/B08l49zvA) is one of the friendliest teaches on any shelf. The danger is not hard rules. It is a host who explains the draft order, the 5 by 5 limit, and every tiebreaker before anyone has touched a domino. Teach the shape of a turn, show one scoring example, and let the first round do the rest.
 
 Here is a script in the order you would say it, then the rules to settle live and a few notes for kids. Print the [Kingdomino teach sheet](/academy/kingdomino/teach-sheet/) for the middle of the table. Our method for [teaching any game in five minutes](/articles/how-to-teach-a-board-game/) fits this game well.
 

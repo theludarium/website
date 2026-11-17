@@ -11,7 +11,7 @@ oneIdea: "In the last generation, money and production stop mattering. Every Mâ‚
 tryThis: "When the three tracks have about five steps left between them, list every way you could score in the last generation and its cost per point. Spend in that order."
 nextTeaser: "Next, player counts, variants, and expansions: solo play, Corporate Era, the draft, and which expansion to add first."
 ---
-A Terraforming Mars game can feel like it ends without warning. One player maxes the last track, and suddenly everyone is scrambling to spend money that has nowhere to go. It does not have to feel that way. The end is visible from several generations out, and the last generation has its own math.
+A [Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20) game can feel like it ends without warning. One player maxes the last track, and suddenly everyone is scrambling to spend money that has nowhere to go. It does not have to feel that way. The end is visible from several generations out, and the last generation has its own math.
 
 ## Where the points come from
 

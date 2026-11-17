@@ -11,7 +11,7 @@ oneIdea: "Most first-game Root errors are about the shared rules, not the factio
 tryThis: "Before your next game, read this list aloud to the table and ask everyone to name one rule they had been playing differently."
 nextTeaser: "Level 1 starts with the Marquise de Cat: how her buildings score, how to stretch three actions, and how to survive as the early target."
 ---
-New Root tables rarely get a faction badly wrong, because each faction board spells out its turn. The slips happen in the shared rules, the ones everyone uses and nobody reads twice. This lesson collects the common ones, each checked against the Law of Root dated October 13, 2025.
+New [Root](https://www.amazon.com/dp/B07F454YF3?tag=cubecommonw0a-20) tables rarely get a faction badly wrong, because each faction board spells out its turn. The slips happen in the shared rules, the ones everyone uses and nobody reads twice. This lesson collects the common ones, each checked against the Law of Root dated October 13, 2025.
 
 The Law asks to be read literally. If a rule does not say something happens, it does not happen, and if a card disagrees with the Law, the card wins.
 

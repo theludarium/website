@@ -11,7 +11,7 @@ oneIdea: "Teach the two tracks and the action row, then let the cards explain th
 tryThis: "Set up with Map A and the official starting decks before anyone sits down, then time your teach and stop talking at fifteen minutes."
 nextTeaser: "Next, the last piece of Level 0: how to read an animal, sponsor, or project card at a glance, so the icons stop slowing your turns."
 ---
-Ark Nova has a reputation as a hard teach. The box holds 212 Zoo cards, a glossary, an icon overview, and five action cards with two sides each. A host who tries to explain all of it before the first turn loses the table in ten minutes.
+[Ark Nova](https://www.amazon.com/dp/B09L6FCP9S?tag=cubecommonw0a-20) has a reputation as a hard teach. The box holds 212 Zoo cards, a glossary, an icon overview, and five action cards with two sides each. A host who tries to explain all of it before the first turn loses the table in ten minutes.
 
 The good news is that the core loop is small: pick a card, use it at its strength, slide the row. Everything else hangs off that loop. Here is a script in the order you would say it. Print the [Ark Nova teach sheet](/academy/ark-nova/teach-sheet/) and put it in the middle of the table.
 

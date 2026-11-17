@@ -11,7 +11,7 @@ oneIdea: "A Root teach has two halves. Teach the shared skeleton to everyone in 
 tryThis: "Before your next teach, set up the whole map yourself and put each faction board face up at its seat, so the first thing new players see is their own board."
 nextTeaser: "Next, the rules slips almost every new Root table makes, from moving without rule to removing buildings before warriors, and how to catch each one."
 ---
-Root has a reputation as a hard game to teach, and it earns some of it. Four players are learning four different games at once. But the shared rules are short, and Leder Games built each faction board to answer most of its own questions. A good teach respects that split: one short talk for everybody, then quiet time with the boards.
+[Root](https://www.amazon.com/dp/B07F454YF3?tag=cubecommonw0a-20) has a reputation as a hard game to teach, and it earns some of it. Four players are learning four different games at once. But the shared rules are short, and Leder Games built each faction board to answer most of its own questions. A good teach respects that split: one short talk for everybody, then quiet time with the boards.
 
 This lesson gives you a host script, the scripted walkthrough route, and a plan for the first round. The [How to Play Root](/academy/root/how-to-play-root/) lesson has the rules themselves.
 

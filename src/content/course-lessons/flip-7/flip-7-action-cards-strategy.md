@@ -11,7 +11,7 @@ oneIdea: "An action card is only as good as its target. Freeze stops a row that 
 tryThis: "The next time you are dealt an action card, pause and say each active player's bust count out loud before you choose. Pick the target where the card does the most damage, or the most good for you."
 nextTeaser: "Next, counting the deck across rounds: how fast the deck runs out at your player count, what the set-aside pile tells you, and when tracking it pays."
 ---
-Hit and stay are your own business. Action cards are where Flip 7 becomes a table game. Three Freezes, three Flip Threes, and three Second Chances sit in the 94-card deck, and each time one turns up, someone has to choose a target. The same card can rescue one player and wreck another. This lesson is about telling which is which.
+Hit and stay are your own business. Action cards are where [Flip 7](https://www.amazon.com/dp/B0DWGVM7RY?tag=cubecommonw0a-20) becomes a table game. Three Freezes, three Flip Threes, and three Second Chances sit in the 94-card deck, and each time one turns up, someone has to choose a target. The same card can rescue one player and wreck another. This lesson is about telling which is which.
 
 ## Read the rows before you aim
 

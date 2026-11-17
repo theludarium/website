@@ -11,7 +11,7 @@ oneIdea: "A great Codenames clue is built from the danger words outward. Know wh
 tryThis: "Next time you are spymaster, say nothing for the first minute. Find the assassin and the other team's words on the grid, then sort your own words into pairs before you give the first clue."
 nextTeaser: "Next, the other side of the table. How operatives read a clue, use the plus one guess, and decide when a turn should end."
 ---
-The spymaster's chair is the hardest seat in Codenames, and the most fun once it clicks. This lesson is about the opening: the first look at the key and the first two or three clues. Get those right and the rest of the game flows from them.
+The spymaster's chair is the hardest seat in [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), and the most fun once it clicks. This lesson is about the opening: the first look at the key and the first two or three clues. Get those right and the rest of the game flows from them.
 
 Our article on [Codenames clue tips](/articles/codenames-clue-tips/) covers the safety check in detail. This lesson focuses on the craft around it.
 

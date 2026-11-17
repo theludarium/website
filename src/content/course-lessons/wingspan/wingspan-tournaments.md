@@ -11,7 +11,7 @@ oneIdea: "Competitive Wingspan is the same game you play at home, usually at fou
 tryThis: "Play three four-player games this month with the four birds the WBC sets aside removed, and record each player's score by category on the scorepad."
 nextTeaser: "Last, a practice plan: how to train for a four-player heat over the weeks before an event, online and across the table."
 ---
-Wingspan has a gentle reputation, and it earns it. It is also a game people compete at seriously, with a championship event that draws a couple of hundred players, online tournaments between conventions, and plenty of ways to play strangers from your couch. You do not need to enter any of them to enjoy them. But knowing how they work sharpens how you play at home.
+[Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) has a gentle reputation, and it earns it. It is also a game people compete at seriously, with a championship event that draws a couple of hundred players, online tournaments between conventions, and plenty of ways to play strangers from your couch. You do not need to enter any of them to enjoy them. But knowing how they work sharpens how you play at home.
 
 ## How tournament Wingspan differs from home play
 

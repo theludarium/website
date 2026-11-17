@@ -11,7 +11,7 @@ oneIdea: "The opening is about building a park that can make a dinosaur every ro
 tryThis: "Before the first dice roll, pick one recipe type you want by round two and say it out loud. Then make every early choice serve it."
 nextTeaser: "Next, the research center up close: which die to claim with which scientist, when cold storage beats DNA, and when passing is the strongest move."
 ---
-Dinosaur Island has no fixed opening. The dice, the face-up recipes, and the market change every game. But the first two rounds still have a shape, and players who follow it finish round two with a working park instead of a pile of DNA and nothing to spend it on.
+[Dinosaur Island](https://www.amazon.com/dp/B06Y3BS8YD?tag=cubecommonw0a-20) has no fixed opening. The dice, the face-up recipes, and the market change every game. But the first two rounds still have a shape, and players who follow it finish round two with a working park instead of a pile of DNA and nothing to spend it on.
 
 ## What you start with
 

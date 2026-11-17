@@ -11,7 +11,7 @@ oneIdea: "Every pick in Sushi Go! is revealed and every hand passes through you,
 tryThis: "Next game, track only one card type per round: squid in round one, sashimi in round two, pudding in round three. Before each pick, say where every copy of that card is. Add a second type once one feels easy."
 nextTeaser: "Next, Sushi Go Party! and the rest of the family: the menu system, the new cards worth knowing, and which version fits your table."
 ---
-Most card games hide information. Sushi Go! gives it away. Every card you take is revealed. Every hand passes through your seat. With a little memory, you can know the exact contents of every hand at the table by the middle of a round. This lesson shows how, and what to do with it.
+Most card games hide information. [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) gives it away. Every card you take is revealed. Every hand passes through your seat. With a little memory, you can know the exact contents of every hand at the table by the middle of a round. This lesson shows how, and what to do with it.
 
 ## Why everything becomes known
 

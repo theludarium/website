@@ -11,7 +11,7 @@ oneIdea: "In the midgame, every turn is a trade between building your hand and c
 tryThis: "For one whole game, note out loud (or in your head) every face-up color another player takes. By the midgame, try to name where each opponent is building."
 nextTeaser: "Next, ticket values: why the number on a ticket is close to the trains it needs, and how to judge a hand of tickets at a glance."
 ---
-By the middle of a Ticket to Ride game, the map has filled in. The obvious routes are gone, every player has a railroad taking shape, and the face-up row has become a window into everyone's plans. The opening was about your tickets. The midgame is about everyone's.
+By the middle of a [Ticket to Ride](https://link.amazon/B0jh8RB7f) game, the map has filled in. The obvious routes are gone, every player has a railroad taking shape, and the face-up row has become a window into everyone's plans. The opening was about your tickets. The midgame is about everyone's.
 
 ## Your hand is your engine
 

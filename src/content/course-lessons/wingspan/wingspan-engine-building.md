@@ -21,7 +21,7 @@ That count is your most useful midgame number. A brown power is worth roughly wh
 
 ## What a working engine looks like
 
-In Wingspan, an engine is a row where one action does several things. Take a forest with three birds in it. Your cube lands on the fourth slot: 2 food from the birdfeeder, with the option to discard a card for a third. Then the cube slides back across three birds, and any brown powers among them fire.
+In [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), an engine is a row where one action does several things. Take a forest with three birds in it. Your cube lands on the fourth slot: 2 food from the birdfeeder, with the option to discard a card for a third. Then the cube slides back across three birds, and any brown powers among them fire.
 
 You do not need all three rows to work like that. Many strong boards have one main engine row, a second row that supports it, and a third that mostly holds birds for points and eggs.
 

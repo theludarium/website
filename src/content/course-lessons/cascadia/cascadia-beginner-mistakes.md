@@ -11,7 +11,7 @@ oneIdea: "Most first-game trouble comes from two places: small rules slips about
 tryThis: "After each of your next three games, compare your wildlife total with your habitat total on the scorepad. If habitats are well under a third of your score, grow fewer, bigger corridors next time."
 nextTeaser: "Next, the A cards in depth: what each first-game card rewards, which two or three to build around, and how to plan the shapes from turn one."
 ---
-Welcome to Level 1. Your first three games of Cascadia are where habits form. Some of them are rules slips, quietly played wrong because nobody checked. Others are legal choices that cost a lot of points. This lesson covers both, checked against the current rulebook.
+Welcome to Level 1. Your first three games of [Cascadia](https://link.amazon/B0g1HYFt4) are where habits form. Some of them are rules slips, quietly played wrong because nobody checked. Others are legal choices that cost a lot of points. This lesson covers both, checked against the current rulebook.
 
 ## Rules slips to catch early
 

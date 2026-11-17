@@ -11,7 +11,7 @@ oneIdea: "From phase D on, every action has a price you can count: region points
 tryThis: "At the start of phase E, list every region you can still close and what each is worth. Then play the last five rounds from that list."
 nextTeaser: "Next, player counts, variants, and expansions: the 2 and 3 player boards, random duchies, solo play, and the expansions already in your box."
 ---
-The Castles of Burgundy rarely ends with a surprise. There are no hidden objectives and no secret cards. Almost every point is visible on the table, and the game tells you exactly how many rounds are left. That makes the endgame a counting puzzle, and the player who counts best usually wins it.
+[The Castles of Burgundy](https://www.amazon.com/dp/B07R5ZH6FQ?tag=cubecommonw0a-20) rarely ends with a surprise. There are no hidden objectives and no secret cards. Almost every point is visible on the table, and the game tells you exactly how many rounds are left. That makes the endgame a counting puzzle, and the player who counts best usually wins it.
 
 ## What a region is worth, by phase
 

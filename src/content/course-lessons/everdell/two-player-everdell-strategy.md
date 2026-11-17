@@ -11,7 +11,7 @@ oneIdea: "With one opponent, only the gap between your scores matters. A point y
 tryThis: "Play three two-player games. Before any move that helps your opponent, like visiting their Open card or giving them berries with a Monk, say the swing out loud: what you gain, minus what they gain."
 nextTeaser: "Level 4 begins with competitive Everdell: the World Boardgaming Championships event, its format and tiebreakers, digital play, and finding a table near you."
 ---
-Many Everdell games are played by two: couples, roommates, two friends on a weeknight. The rules barely change at two players, but the strategy does. This lesson covers what is different and how to win the duel.
+Many [Everdell](https://www.amazon.com/dp/B09ZWQTTNR?tag=cubecommonw0a-20) games are played by two: couples, roommates, two friends on a weeknight. The rules barely change at two players, but the strategy does. This lesson covers what is different and how to win the duel.
 
 ## What changes at two players
 

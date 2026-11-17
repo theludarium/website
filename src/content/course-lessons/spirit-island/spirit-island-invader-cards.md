@@ -11,7 +11,7 @@ oneIdea: "The Invader track is a forecast. Every land type walks the same path, 
 tryThis: "At the start of every Spirit Phase in your next game, have one player read the Ravage and Build cards out loud and point at every land that matches."
 nextTeaser: "Next, Fear and Terror Levels: how Fear Cards are earned, why the win condition gets easier, and when Fear is worth more than Damage."
 ---
-Welcome to Level 1. You can play the game; now you learn to see it coming. The Invaders in Spirit Island have no hidden hand and roll no dice. Their next two moves sit face up on the Invader board. That makes them predictable, and predictable enemies can be beaten. It pays to spend as much time reading the Invader cards as your own hand.
+Welcome to Level 1. You can play the game; now you learn to see it coming. The Invaders in [Spirit Island](https://www.amazon.com/dp/B01MUHP51S?tag=cubecommonw0a-20) have no hidden hand and roll no dice. Their next two moves sit face up on the Invader board. That makes them predictable, and predictable enemies can be beaten. It pays to spend as much time reading the Invader cards as your own hand.
 
 ## How the track moves
 

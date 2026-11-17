@@ -11,7 +11,7 @@ oneIdea: "In the last rounds, turn order loses its value and fit gains it. The f
 tryThis: "Three rounds before the end of your next game, list your empty squares and which dominoes could fill them. Then pick for that list, not for the prettiest tile in the line."
 nextTeaser: "Level 3 starts with player counts: how Kingdomino changes with two and three players, and what to do differently at each."
 ---
-Kingdomino ends fast. Twelve rounds with three or four players, six with two, and the last few go by in a blink. Many games are won or lost in those rounds, by players who keep drafting as if the game will go on. This lesson covers what changes at the end and how to squeeze the last points out of your kingdom.
+[Kingdomino](https://link.amazon/B08l49zvA) ends fast. Twelve rounds with three or four players, six with two, and the last few go by in a blink. Many games are won or lost in those rounds, by players who keep drafting as if the game will go on. This lesson covers what changes at the end and how to squeeze the last points out of your kingdom.
 
 ## How the ending works
 

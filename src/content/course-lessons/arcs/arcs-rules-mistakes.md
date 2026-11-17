@@ -11,7 +11,7 @@ oneIdea: "Most first-game Arcs errors come from a handful of short rules: what c
 tryThis: "Before your next game, read this list aloud and ask each player to name one rule they had been playing differently."
 nextTeaser: "Next, a plan for your first game: what to do with your opening hand, which ambition to aim for, and why a second city matters early."
 ---
-Welcome to Level 1. Arcs has a short rulebook, and that is part of the problem: each rule carries a lot of weight, and a small slip changes the whole game. This list collects the common ones, each checked against the rulebook dated April 11, 2024.
+Welcome to Level 1. [Arcs](https://www.amazon.com/dp/B0D856FJ1J?tag=cubecommonw0a-20) has a short rulebook, and that is part of the problem: each rule carries a lot of weight, and a small slip changes the whole game. This list collects the common ones, each checked against the rulebook dated April 11, 2024.
 
 One rule about rules first. Cards beat the rulebook, but any rule that says **cannot** is absolute unless a card says **ignore**.
 

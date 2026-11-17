@@ -11,7 +11,7 @@ oneIdea: "Dorfromantik plays the same at every count from 1 to 6; only the conve
 tryThis: "Play once with the most people your table can fit and once with two. Afterward, compare which game felt calmer and which scored higher, and why."
 nextTeaser: "Next, Level 3 starts with high scores: a game plan built from everything so far, and how to find the points a good group still leaves on the table."
 ---
-Dorfromantik: The Board Game says 1 to 6 players on the box, and it means it. There is no special setup for a big group or a solo game. This lesson covers how player count changes the feel, then the other games in the family and how they relate to the one you own.
+[Dorfromantik: The Board Game](https://www.amazon.com/dp/B0BQ3W9GRL?tag=cubecommonw0a-20) says 1 to 6 players on the box, and it means it. There is no special setup for a big group or a solo game. This lesson covers how player count changes the feel, then the other games in the family and how they relate to the one you own.
 
 ## How many players
 

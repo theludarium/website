@@ -11,7 +11,7 @@ oneIdea: "Your corporation and starting hand are one decision, not two. Pick the
 tryThis: "Before revealing your corporation in your next game, write down how much money you will have left after buying cards. If it is under 10 M€, put a card back."
 nextTeaser: "Next, the standard projects and conversions: the price list printed on the board, and what each one is really worth to you."
 ---
-Terraforming Mars has no fixed opening, because every game deals you different cards. But the first few generations follow patterns, and most of the important choices happen before anyone takes an action. This lesson is about those choices.
+[Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20) has no fixed opening, because every game deals you different cards. But the first few generations follow patterns, and most of the important choices happen before anyone takes an action. This lesson is about those choices.
 
 It assumes the standard game, so players who are not on a Beginner Corporation choose between two corporations and buy from ten starting cards.
 

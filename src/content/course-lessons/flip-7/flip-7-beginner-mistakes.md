@@ -11,7 +11,7 @@ oneIdea: "Most first-game trouble in Flip 7 comes from two places: small rules s
 tryThis: "In your next three games, say your bust count out loud before every hit: \"Eleven 12s and six 7s are out there, so 17 cards can bust me.\" It turns a gut call into a quick read."
 nextTeaser: "Next, the math of the next flip: how to count the cards that can bust you, a bust chance table by how many numbers you hold, and when the average says stay."
 ---
-Flip 7 teaches in five minutes, which means most tables start playing before the odd cases come up. Your first three games are where habits form. Some are rules slips that nobody catches because the game keeps moving. Others are legal choices that quietly cost points. This lesson covers both, checked against the current rulebook and the publisher's [official FAQ](https://theop.games/pages/flip-7-faqs).
+[Flip 7](https://www.amazon.com/dp/B0DWGVM7RY?tag=cubecommonw0a-20) teaches in five minutes, which means most tables start playing before the odd cases come up. Your first three games are where habits form. Some are rules slips that nobody catches because the game keeps moving. Others are legal choices that quietly cost points. This lesson covers both, checked against the current rulebook and the publisher's [official FAQ](https://theop.games/pages/flip-7-faqs).
 
 ## Rules slips to catch early
 

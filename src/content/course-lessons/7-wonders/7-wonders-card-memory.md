@@ -12,7 +12,7 @@ oneIdea: "7 Wonders hides less than it seems. At your player count every card in
 tryThis: "In a three or four player game, write down the cards in your first hand of Age I. When that hand comes back, name who took each missing card before you look at their cities."
 nextTeaser: "Level 4 begins with player counts, variants, and expansions: how each count plays, the free variants in the box, and which expansion to add first."
 ---
-At Level 2 you learned to read your neighbors' cities. Now you read the cards themselves: what is in the Age, where it is, and where it is going. 7 Wonders feels like a game of surprises, but much less is hidden than it looks.
+At Level 2 you learned to read your neighbors' cities. Now you read the cards themselves: what is in the Age, where it is, and where it is going. [7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20) feels like a game of surprises, but much less is hidden than it looks.
 
 ## Every card in the Age is dealt
 

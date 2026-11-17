@@ -17,7 +17,7 @@ This lesson walks through the expansion factions and shows how to pick a fair mi
 
 ## How do you pick a fair mix?
 
-The Law of Root gives each faction a **reach** value. To set up an interesting game, pick factions whose reach adds up to at least the total for your player count.
+The Law of [Root](https://www.amazon.com/dp/B07F454YF3?tag=cubecommonw0a-20) gives each faction a **reach** value. To set up an interesting game, pick factions whose reach adds up to at least the total for your player count.
 
 | Players | 2 | 3 | 4 | 5 | 6 |
 | --- | --- | --- | --- | --- | --- |

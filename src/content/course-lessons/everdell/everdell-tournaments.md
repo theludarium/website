@@ -11,7 +11,7 @@ oneIdea: "Competitive Everdell is the base game at four players, played briskly 
 tryThis: "Play your next four-player game inside two hours with a written score sheet, and have a second player check each category before any cards go back in the box."
 nextTeaser: "Next, four-player Everdell the way tournaments play it: seat order, the second Forest spaces, the race for Events, and why second place still scores."
 ---
-Everdell looks like a cozy game, and it is one. It is also a game people play for a title, with an annual tournament at the World Boardgaming Championships and a digital version for playing strangers online. You never need to enter either. But the way tournaments run tells you a lot about how to play well at home.
+[Everdell](https://www.amazon.com/dp/B09ZWQTTNR?tag=cubecommonw0a-20) looks like a cozy game, and it is one. It is also a game people play for a title, with an annual tournament at the World Boardgaming Championships and a digital version for playing strangers online. You never need to enter either. But the way tournaments run tells you a lot about how to play well at home.
 
 ## Is there an official Everdell circuit?
 

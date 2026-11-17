@@ -11,7 +11,7 @@ oneIdea: "Pandemic has no points, but it has numbers. Late in the game, count th
 tryThis: "When the Player deck drops to about a dozen cards, stop and count out loud: turns left, cards needed for each remaining cure, and outbreaks left before you lose."
 nextTeaser: "Next, Heroic: what six Epidemics change, what they do not, and how to plan a game that survives them."
 ---
-Pandemic does not keep score, so it is easy to think the endgame is all feel. It is not. Every way to win or lose is a number on the table, and every one can be counted. The teams that win close games are the ones that count before the last turn, not during it.
+[Pandemic](https://link.amazon/B0eHP5GCg) does not keep score, so it is easy to think the endgame is all feel. It is not. Every way to win or lose is a number on the table, and every one can be counted. The teams that win close games are the ones that count before the last turn, not during it.
 
 ## The Player deck is your clock
 

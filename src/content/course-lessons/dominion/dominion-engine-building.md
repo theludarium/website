@@ -62,4 +62,4 @@ The rulebook's Sleight of Hand kingdom shows off one of the base set's best pair
 
 An engine is slower to start than Big Money plus one card. In kingdoms without trashing, or without enough Villages and draw, or without +Buy, the engine often finishes building after the money player has taken four Provinces. Before committing, ask the question from the midgame lesson: when this deck draws itself, what does it do? If the answer is "buy one Province," play money.
 
-Our article on [engine building games](/articles/engine-building-games/) explains why the build-then-score curve feels so good, in Dominion and beyond.
+Our article on [engine building games](/articles/engine-building-games/) explains why the build-then-score curve feels so good, in [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) and beyond.

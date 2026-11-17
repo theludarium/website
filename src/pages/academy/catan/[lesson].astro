@@ -9,6 +9,7 @@ import LevelCheck from '@/components/LevelCheck.astro';
 import PreviewNote from '@/components/PreviewNote.astro';
 import TableOfContents from '@/components/TableOfContents.astro';
 import CourseNotice from '@/components/CourseNotice.astro';
+import AffiliateNotice from '@/components/mdx/AffiliateNotice.astro';
 import {
   courseBySlug,
   getAllLessons,
@@ -53,6 +54,8 @@ const total = all.length;
 const minutes = lessonMinutes(lesson);
 const showToc = headings.filter((h) => h.depth === 2).length >= 3;
 const outline = draft ? lessonOutline(lesson) : undefined;
+// Lessons with Amazon links get the affiliate disclosure, same as articles.
+const affiliate = /\]\(https:\/\/(www\.amazon\.com|link\.amazon|amzn\.to)\//.test(lesson.body ?? '');
 const courseUrl = `/academy/${course.slug}/`;
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 const slug = lessonSlug(lesson);
@@ -153,6 +156,7 @@ const structuredData = [
           )
         }
 
+        {affiliate && <AffiliateNotice />}
         <div class="prose-article">
           <Content />
         </div>

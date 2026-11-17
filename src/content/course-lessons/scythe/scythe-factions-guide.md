@@ -11,7 +11,7 @@ oneIdea: "Each Scythe faction bends one rule. Build your plan around that bent r
 tryThis: "Next game, before turn one, say your faction's bent rule in one sentence and name the mech you will deploy first and why."
 nextTeaser: "Next, the player mats: how the four sections pair actions, why costs and coins differ, and why two faction and mat pairs are banned."
 ---
-Welcome to Level 2. Each base faction in Scythe has one faction ability and four mech abilities. Every faction's first mech ability is a version of Riverwalk, and every faction's fourth is Speed. The two in the middle are what make each faction distinct. This lesson covers all five, with the abilities in our own words from the rulebook, and a plan for each built on well-known community advice.
+Welcome to Level 2. Each base faction in [Scythe](https://www.amazon.com/dp/B01IPUGYK6?tag=cubecommonw0a-20) has one faction ability and four mech abilities. Every faction's first mech ability is a version of Riverwalk, and every faction's fourth is Speed. The two in the middle are what make each faction distinct. This lesson covers all five, with the abilities in our own words from the rulebook, and a plan for each built on well-known community advice.
 
 Starting power and combat cards also differ by faction. Your faction mat shows yours, so check both before your first move: together they shape how soon you can afford a fight.
 

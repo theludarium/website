@@ -11,7 +11,7 @@ oneIdea: "An Everdell combo is two or more cards that make each other better. Th
 tryThis: "In your next game, before you play each card, name one card already in your city that it makes better, or one card you hope to add later that will make it better. If you cannot name either, look for a card that can."
 nextTeaser: "Next, the endgame and scoring math: autumn's six workers, purple bonuses, the autumn trail, and how to fill your last spaces."
 ---
-Most cards in Everdell are fine alone. The game rewards you when they are not alone. A Farm is a berry. A Farm next to a General Store, a Barge Toad, and a Harvester is a small economy. This lesson groups the combos in the base game into five families, so you can spot them in a fresh Meadow instead of memorizing lists. Every card effect here follows the rulebook's card index.
+Most cards in [Everdell](https://www.amazon.com/dp/B09ZWQTTNR?tag=cubecommonw0a-20) are fine alone. The game rewards you when they are not alone. A Farm is a berry. A Farm next to a General Store, a Barge Toad, and a Harvester is a small economy. This lesson groups the combos in the base game into five families, so you can spot them in a fresh Meadow instead of memorizing lists. Every card effect here follows the rulebook's card index.
 
 ## Family 1: the free Critter pair
 

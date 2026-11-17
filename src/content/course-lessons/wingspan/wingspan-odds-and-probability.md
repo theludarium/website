@@ -11,7 +11,7 @@ oneIdea: "Wingspan's luck comes from known parts: five six-sided dice and a deck
 tryThis: "In your next game, before each gain food or predator activation, guess the odds from this lesson's tables. Afterward, note which guesses changed a decision."
 nextTeaser: "Next, reading the table: what rivals need from the tray, the feeder, and the goals, and how to make choices that help you and cost them."
 ---
-Wingspan feels luckier than it is. The dice and the deck are random, but they are made of known parts. Once you know the parts, many choices that felt like hope become small, sensible bets.
+[Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) feels luckier than it is. The dice and the deck are random, but they are made of known parts. Once you know the parts, many choices that felt like hope become small, sensible bets.
 
 This lesson builds on the [food lesson](/academy/wingspan/wingspan-food-birdfeeder/) and the [scoring powers lesson](/academy/wingspan/wingspan-tuck-cache-predator-birds/). The numbers are our own calculations from the base-game dice and the 170 base-game birds.
 

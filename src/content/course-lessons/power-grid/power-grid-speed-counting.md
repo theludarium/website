@@ -11,7 +11,7 @@ oneIdea: "Power Grid runs long when players start thinking on their own turn. Do
 tryThis: "In your next game, put a phone timer in the middle of the table and note the time at the start of each round. Afterward, find the round that ran longest and why."
 nextTeaser: "Level 5 opens with competitive Power Grid: the World Boardgaming Championships event, its rules and table habits, past champions, and where to find strong games."
 ---
-The World Boardgaming Championships runs Power Grid in three-hour rounds. The 2026 preview expects most games to finish in under two and a half hours, and games still going at three hours are adjudicated, which the event wants to avoid. Five players, a new map, and every Elektro counted, in under two and a half hours. That takes a different kind of skill from playing well with no clock.
+The World Boardgaming Championships runs [Power Grid](https://www.amazon.com/dp/B07HM7WZT9?tag=cubecommonw0a-20) in three-hour rounds. The 2026 preview expects most games to finish in under two and a half hours, and games still going at three hours are adjudicated, which the event wants to avoid. Five players, a new map, and every Elektro counted, in under two and a half hours. That takes a different kind of skill from playing well with no clock.
 
 The good news: speed comes mostly from when you think, not how fast you think.
 

@@ -11,7 +11,7 @@ oneIdea: "Teach the loop, not the cards. Raise a parameter, gain TR, get paid mo
 tryThis: "Print the teach sheet, hand every new player a Beginner Corporation, and stop talking at the ten-minute mark, even if you have not covered awards."
 nextTeaser: "Next, reading a project card: cost, requirement, tags, colors, red borders, and victory points, so any of the 208 cards makes sense at a glance."
 ---
-Terraforming Mars has a reputation as a long teach. Our piece on [play time](/articles/board-game-play-time-accuracy/) notes that explaining it can take twenty-five minutes. Much of that time tends to go to cards nobody has drawn yet.
+[Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20) has a reputation as a long teach. Our piece on [play time](/articles/board-game-play-time-accuracy/) notes that explaining it can take twenty-five minutes. Much of that time tends to go to cards nobody has drawn yet.
 
 The rules themselves are a small loop. Teach the loop, start the game, and let the cards explain themselves as they show up. Here is a script in the order you would say it. Print the [Terraforming Mars teach sheet](/academy/terraforming-mars/teach-sheet/) and set it where everyone can see it.
 

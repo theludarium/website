@@ -11,7 +11,7 @@ oneIdea: "Most first-game trouble comes from two places: small timing slips in t
 tryThis: "After each of your next three games, spread out your deck and count three things: Action cards, Treasures, and Victory cards. Compare with the winner's deck."
 nextTeaser: "Next, Big Money: the plain Silver, Gold, Province plan that every clever deck has to beat, and how to use it as your yardstick."
 ---
-Your first three games of Dominion are where habits form. Some of those habits are rules played a little wrong because nobody checked. Others are legal choices that quietly lose. This lesson covers both, checked against the second edition rulebook.
+Your first three games of [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) are where habits form. Some of those habits are rules played a little wrong because nobody checked. Others are legal choices that quietly lose. This lesson covers both, checked against the second edition rulebook.
 
 ## Rules slips to catch early
 

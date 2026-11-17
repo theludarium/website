@@ -11,7 +11,7 @@ oneIdea: "The Marquise wins on tempo. Every action spent defending is an action 
 tryThis: "In your next Marquise game, note each turn where you did not build anything. When the game ends, look at what you did instead on those turns."
 nextTeaser: "Next, the Eyrie Dynasties: how to write a Decree that grows fast without collapsing into turmoil."
 ---
-The Marquise de Cat starts the game owning the Woodland. She has a warrior in eleven of the twelve clearings, three buildings, and a keep where no one else can place pieces. She also has more ways to spend an action than actions to spend. The Walking Through Root booklet says it plainly: of all the factions, she is the most starved for actions.
+The Marquise de Cat starts the game owning the Woodland. She has a warrior in eleven of the twelve clearings, three buildings, and a keep where no one else can place pieces. She also has more ways to spend an action than actions to spend. The Walking Through [Root](https://www.amazon.com/dp/B07F454YF3?tag=cubecommonw0a-20) booklet says it plainly: of all the factions, she is the most starved for actions.
 
 This lesson covers how she scores, how to stretch her turns, and how to stay standing when the whole table decides she is ahead.
 

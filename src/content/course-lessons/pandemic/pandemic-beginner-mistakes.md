@@ -11,7 +11,7 @@ oneIdea: "Most early trouble comes from two places: small rules slips that quiet
 tryThis: "After each of your next three games, say out loud which of the three losing conditions you were closest to. That answer tells you what to fix in the next game."
 nextTeaser: "Next, the seven roles: what each one changes, the turn where it shines, and the habit that wastes it."
 ---
-Your first three games of Pandemic are where your group's habits form. Some of those habits are rules slips, played wrong because nobody checked. They make the game easier or harder than it should be, and you never find out which. Others are legal choices that lose games. This lesson covers both, checked against the current rulebook, which has its own short box of commonly overlooked rules.
+Your first three games of [Pandemic](https://link.amazon/B0eHP5GCg) are where your group's habits form. Some of those habits are rules slips, played wrong because nobody checked. They make the game easier or harder than it should be, and you never find out which. Others are legal choices that lose games. This lesson covers both, checked against the current rulebook, which has its own short box of commonly overlooked rules.
 
 ## Rules slips to catch early
 

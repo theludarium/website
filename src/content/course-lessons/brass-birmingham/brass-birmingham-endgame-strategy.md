@@ -11,7 +11,7 @@ oneIdea: "Once the deck runs out, the end of the game is a countdown you can see
 tryThis: "When the draw deck runs out in your next Rail Era, write down your remaining actions and plan each one before you play it."
 nextTeaser: "Next, the clock: how to finish a four-player game inside a three-hour tournament round without rushing the turns that matter."
 ---
-The last rounds of Brass: Birmingham are the most predictable part of the game. The deck is gone, every hand is a number you can count, and most of the board is set. That makes them the best place to win points with planning instead of luck.
+The last rounds of [Brass: Birmingham](https://www.amazon.com/dp/1988884047?tag=cubecommonw0a-20) are the most predictable part of the game. The deck is gone, every hand is a number you can count, and most of the board is set. That makes them the best place to win points with planning instead of luck.
 
 ## Count your actions
 

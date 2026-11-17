@@ -11,7 +11,7 @@ oneIdea: "Every turn you pick one of three things: draw train cards, claim a rou
 tryThis: "In your first game, say your choice out loud before you act: draw, claim, or tickets. It keeps the table moving and makes the rules stick."
 nextTeaser: "Next, the ten-minute teach. You will get a host script in the order you would say it, so the whole table learns at once."
 ---
-Ticket to Ride is a game about building railroads across North America and quietly hoping nobody takes the one route you need. You collect colored train cards, spend them to claim routes between cities, and try to connect the cities on your secret tickets. It plays 2 to 5 people in about an hour, and the rules fit on a napkin.
+[Ticket to Ride](https://link.amazon/B0jh8RB7f) is a game about building railroads across North America and quietly hoping nobody takes the one route you need. You collect colored train cards, spend them to claim routes between cities, and try to connect the cities on your secret tickets. It plays 2 to 5 people in about an hour, and the rules fit on a napkin.
 
 This lesson teaches the Ticket to Ride rules from the current Days of Wonder rulebook, the 2025 edition of the original USA map. Older boxes differ in one setup detail, noted below.
 

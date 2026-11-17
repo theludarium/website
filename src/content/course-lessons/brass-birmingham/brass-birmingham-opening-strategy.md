@@ -11,7 +11,7 @@ oneIdea: "The first round gives you one action, £17, and a board with no links,
 tryThis: "In your next game, before round one, write down your round one action and the two actions you want in round two. After round two, check whether the plan held."
 nextTeaser: "Next, reading the table: forced coal, borrowed beer, blocked spaces, and what everyone else's mat and spending tell you about their next turn."
 ---
-Brass: Birmingham has no fixed openings. The merchants, the cards, and the turn order change every game. But the first round always starts from the same place, and that place has rules most players never notice. This lesson starts there.
+[Brass: Birmingham](https://www.amazon.com/dp/1988884047?tag=cubecommonw0a-20) has no fixed openings. The merchants, the cards, and the turn order change every game. But the first round always starts from the same place, and that place has rules most players never notice. This lesson starts there.
 
 ## What the first round looks like
 

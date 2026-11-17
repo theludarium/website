@@ -11,7 +11,7 @@ oneIdea: "A puzzle is one turn of Pandemic with the noise taken out. Solving set
 tryThis: "Download one puzzle from Z-Man's Pandemic page, set it up on your board, and solve it with the method in this lesson before you turn to the solution page."
 nextTeaser: "Last, solo play, challenge play, and how to find people to play with, including the competitive format Z-Man once ran."
 ---
-Most practice in Pandemic is just playing more games. That works, slowly. Each game has dozens of turns, and the turn that decided it is easy to miss. Puzzles fix that. They hand you one position and one goal, and ask whether you can see the line.
+Most practice in [Pandemic](https://link.amazon/B0eHP5GCg) is just playing more games. That works, slowly. Each game has dozens of turns, and the turn that decided it is easy to miss. Puzzles fix that. They hand you one position and one goal, and ask whether you can see the line.
 
 Z-Man Games posts ten free puzzles and two free scenarios on its [Pandemic page](https://www.zmangames.com/game/pandemic/), next to the rulebook and the solo rules. This lesson shows how to use them.
 

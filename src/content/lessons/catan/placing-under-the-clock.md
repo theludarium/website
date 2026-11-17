@@ -26,7 +26,7 @@ nextTeaser: "Next, the scoreboard. Lesson 33 shows how tournament tiebreakers wo
 ---
 At your kitchen table, setup takes as long as it takes. Someone stares at the board for five minutes, someone else goes to get chips, and nobody minds.
 
-At an official CATAN event, setup runs on a clock. You get two minutes to place each settlement and road, and three for a double placement. That sounds tight. It is less tight than it sounds, once you know where the real thinking time is. This lesson shows you where to find it, gives you a routine for your window, and ends with a drill that makes the clock feel calm.
+At an official [CATAN](https://link.amazon/B0h8BDGR2) event, setup runs on a clock. You get two minutes to place each settlement and road, and three for a double placement. That sounds tight. It is less tight than it sounds, once you know where the real thinking time is. This lesson shows you where to find it, gives you a routine for your window, and ends with a drill that makes the clock feel calm.
 
 ## What does the clock look like?
 

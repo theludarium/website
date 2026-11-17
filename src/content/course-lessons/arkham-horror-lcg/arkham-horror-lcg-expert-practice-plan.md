@@ -10,7 +10,7 @@ draft: false
 oneIdea: "In a cooperative game, mastery in Arkham means beating campaigns at higher difficulties with harder rules on, and learning from every loss. A plan and a log turn that into steady progress."
 tryThis: "Start a notebook today with three columns: scenario, difficulty, and the one decision that most changed the result. Fill a row after every game."
 ---
-Arkham Horror: The Card Game is cooperative: you play against the game, not other players. So the top of this course is not a championship. It is about winning harder games: full campaigns on Expert, with Ultimatums on, and a record of how you got there.
+[Arkham Horror: The Card Game](https://www.amazon.com/dp/B0GK349WJ7?tag=cubecommonw0a-20) is cooperative: you play against the game, not other players. So the top of this course is not a championship. It is about winning harder games: full campaigns on Expert, with Ultimatums on, and a record of how you got there.
 
 This lesson collects the challenges the rules offer, the tools players use, and a six-week plan.
 

@@ -11,7 +11,7 @@ oneIdea: "Every card your opponent gains, plays, and trashes happens in front of
 tryThis: "In your next two-player game, keep a silent count of your opponent's Golds, key Action cards, and Victory points. Check your counts against their deck at the end."
 nextTeaser: "Next, playing online: the official app, ranked games, practice against the computer, and how to learn fast from many games."
 ---
-Dominion has hidden information, but less than it seems. Your opponent's hand is secret, and so is the order of their deck. Almost everything else happens on the table: the cards they gain, the cards they play, and the cards they trash. A player who pays attention knows roughly what their opponent's deck holds and what it is likely to do next.
+[Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) has hidden information, but less than it seems. Your opponent's hand is secret, and so is the order of their deck. Almost everything else happens on the table: the cards they gain, the cards they play, and the cards they trash. A player who pays attention knows roughly what their opponent's deck holds and what it is likely to do next.
 
 ## What the rules make public
 

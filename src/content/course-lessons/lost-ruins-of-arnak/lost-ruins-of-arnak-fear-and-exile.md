@@ -11,7 +11,7 @@ oneIdea: "A Fear card costs you twice: a point at the end and a weak slot in a 5
 tryThis: "In your next game, count your Fear cards at the start of every round. Aim to end the game with fewer than the 2 you started with."
 nextTeaser: "Level 2 begins with the midgame: keeping your deck lean, timing your pass, and deciding each round what you are feeding."
 ---
-You start every game of Lost Ruins of Arnak already afraid. Two of the six cards in your starting deck are Fear. That is a third of your deck, and in round I you draw five of those six cards. This lesson is about that third: where more Fear comes from, what it really costs, and how to get rid of it.
+You start every game of [Lost Ruins of Arnak](https://www.amazon.com/dp/B08CD3JVQB?tag=cubecommonw0a-20) already afraid. Two of the six cards in your starting deck are Fear. That is a third of your deck, and in round I you draw five of those six cards. This lesson is about that third: where more Fear comes from, what it really costs, and how to get rid of it.
 
 ## What a Fear card does
 

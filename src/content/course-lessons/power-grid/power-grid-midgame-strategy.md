@@ -11,7 +11,7 @@ oneIdea: "In the midgame, every choice moves you on three dials at once: turn or
 tryThis: "Before each fuel purchase in your next game, count how many markers of your fuel the players ahead of you in buying order can store, and buy with that number in mind."
 nextTeaser: "Next, the resource market in depth: how many markers exist, how fast each fuel comes back, and when stockpiling pays."
 ---
-By the middle of a game of Power Grid, everyone has two or three plants, a small network, and opinions about coal. The opening was about your own company. The midgame is about everyone's, because every Elektro you save comes from a choice someone else made first.
+By the middle of a game of [Power Grid](https://www.amazon.com/dp/B07HM7WZT9?tag=cubecommonw0a-20), everyone has two or three plants, a small network, and opinions about coal. The opening was about your own company. The midgame is about everyone's, because every Elektro you save comes from a choice someone else made first.
 
 ## Turn order is something you spend
 

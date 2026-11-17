@@ -11,7 +11,7 @@ oneIdea: "Event cards are free, and they are strongest at one specific moment ea
 tryThis: "In your next game, when someone draws an Event, have them say out loud the moment they plan to play it. Hold them to it, or agree together on a better one."
 nextTeaser: "Next, planning as a team with hands closed: how to share what you know, propose plans, and keep every player's voice in the game."
 ---
-The Pandemic base game has five event cards, shuffled into the Player deck. Each one is free to play, works once, and then goes to the discard pile.
+The [Pandemic](https://link.amazon/B0eHP5GCg) base game has five event cards, shuffled into the Player deck. Each one is free to play, works once, and then goes to the discard pile.
 
 | Event | What it does |
 | --- | --- |

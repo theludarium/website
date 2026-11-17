@@ -11,7 +11,7 @@ oneIdea: "Competitive Power Grid is the same game you play at home, played at fi
 tryThis: "Set up a five-player game on a map you have never played, use the WBC table habits from this lesson, and aim to finish in two and a half hours."
 nextTeaser: "Next, final-round puzzles: three worked last rounds where one city or one Elektro decides the game, and how to make puzzles from your own games."
 ---
-Power Grid is a long game with a lot of arithmetic, which makes it a natural tournament game. Every number is on the table, and the best players are the ones who count it fastest and most carefully. You do not need to enter a tournament to enjoy that. But knowing how the serious tables play changes how you see your own.
+[Power Grid](https://www.amazon.com/dp/B07HM7WZT9?tag=cubecommonw0a-20) is a long game with a lot of arithmetic, which makes it a natural tournament game. Every number is on the table, and the best players are the ones who count it fastest and most carefully. You do not need to enter a tournament to enjoy that. But knowing how the serious tables play changes how you see your own.
 
 ## The World Boardgaming Championships
 

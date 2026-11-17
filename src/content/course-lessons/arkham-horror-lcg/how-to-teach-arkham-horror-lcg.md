@@ -11,7 +11,7 @@ oneIdea: "Teach the race between the act and agenda decks first, then the three 
 tryThis: "Before the group arrives, set up the first scenario fully, deal opening hands face down, and keep the rulebook's quick reference open on the table."
 nextTeaser: "Level 1 opens with the rules new tables get wrong most: attacks of opportunity, engagement, and the order of the mythos phase."
 ---
-Arkham Horror: The Card Game looks dense on the table: five card types, four skills, a bag of tokens, and a book of story text. The trick to teaching it is that new players only need about a third of it to take a first turn. The rest can arrive as the cards do.
+[Arkham Horror: The Card Game](https://www.amazon.com/dp/B0GK349WJ7?tag=cubecommonw0a-20) looks dense on the table: five card types, four skills, a bag of tokens, and a book of story text. The trick to teaching it is that new players only need about a third of it to take a first turn. The rest can arrive as the cards do.
 
 This script follows the 2026 core set and its rulebook. It takes about ten minutes, plus a first round played together. Print the [teach sheet](/academy/arkham-horror-lcg/teach-sheet/) and put a copy in front of each player.
 

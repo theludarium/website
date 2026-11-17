@@ -11,7 +11,7 @@ oneIdea: "Tournament Terraforming Mars is the game you know plus a procedure: sa
 tryThis: "Play your next game at home using the announce-and-show procedure from this lesson for every action. Note how long it adds, and how many mistakes it catches."
 nextTeaser: "Next, the last lesson: a practice plan that takes your game from the kitchen table to your first tournament."
 ---
-At home, a missed production cube gets fixed with a laugh. At a tournament, it is a ruling. The best-documented Terraforming Mars rules in the competitive scene come from the World Boardgaming Championships, whose game master posts a detailed event preview each year. This lesson walks through them, using the [2025 preview](https://www.boardgamers.org/wbc25/Previews/tfm.html) and the [2026 preview](https://www.boardgamers.org/wbc26/Previews/tfm.html).
+At home, a missed production cube gets fixed with a laugh. At a tournament, it is a ruling. The best-documented [Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20) rules in the competitive scene come from the World Boardgaming Championships, whose game master posts a detailed event preview each year. This lesson walks through them, using the [2025 preview](https://www.boardgamers.org/wbc25/Previews/tfm.html) and the [2026 preview](https://www.boardgamers.org/wbc26/Previews/tfm.html).
 
 Other events set their own rules. Read your event's page before you play.
 

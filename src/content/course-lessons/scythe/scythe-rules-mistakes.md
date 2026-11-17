@@ -11,7 +11,7 @@ oneIdea: "Most first-game Scythe errors are small rules about movement, combat, 
 tryThis: "Before your next game, read this list aloud and ask each player to name one rule they had been playing differently."
 nextTeaser: "Next, a first-game plan: how to pick which stars to chase from your mats, and how to take two actions on most turns."
 ---
-Welcome to Level 1. New Scythe tables rarely miss the big ideas. The slips are in the small rules, the ones that come up every few turns and quietly change the result. This lesson collects the common ones, checked against Stonemaier's rulebook and its official FAQ page.
+Welcome to Level 1. New [Scythe](https://www.amazon.com/dp/B01IPUGYK6?tag=cubecommonw0a-20) tables rarely miss the big ideas. The slips are in the small rules, the ones that come up every few turns and quietly change the result. This lesson collects the common ones, checked against Stonemaier's rulebook and its official FAQ page.
 
 ## The turn
 

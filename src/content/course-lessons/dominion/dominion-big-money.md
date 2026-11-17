@@ -11,7 +11,7 @@ oneIdea: "Big Money is the simplest plan in Dominion and a fast one. Before you 
 tryThis: "Play one game solo with the First Game kingdom using Big Money plus one Smithy, and write down the turn you buy your fourth Province."
 nextTeaser: "Next, openings: your first two buys come back together on turns 3 and 4, and a little counting tells you which pairs work best."
 ---
-Every strong Dominion player knows a plan so plain it sounds like a joke. Ignore the Kingdom cards. Buy Treasure. Buy Provinces when you can. It is called Big Money, and it beats most first attempts at a clever deck. That is exactly why it matters. It is the yardstick for every other plan in the game.
+Every strong [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) player knows a plan so plain it sounds like a joke. Ignore the Kingdom cards. Buy Treasure. Buy Provinces when you can. It is called Big Money, and it beats most first attempts at a clever deck. That is exactly why it matters. It is the yardstick for every other plan in the game.
 
 ## The buy rules
 

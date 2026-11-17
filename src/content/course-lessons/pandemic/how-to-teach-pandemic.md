@@ -11,7 +11,7 @@ oneIdea: "Teach the threat before the tools. Once the table sees how infection a
 tryThis: "Print the teach sheet, set up before anyone sits down, and have each player read their own role card aloud during the teach."
 nextTeaser: "Next, the last piece of Level 0: Epidemics, outbreaks, and chain reactions resolved step by step, so the scariest moments of the game run cleanly."
 ---
-Pandemic is a great game to host because the board shows the problem. Cubes pile up, everyone can see where, and the table starts talking without being asked. The teach goes wrong in two ways. The host reads out all eight actions and seven roles before anyone moves. Or the host knows the game best and ends up playing everyone's turns.
+[Pandemic](https://link.amazon/B0eHP5GCg) is a great game to host because the board shows the problem. Cubes pile up, everyone can see where, and the table starts talking without being asked. The teach goes wrong in two ways. The host reads out all eight actions and seven roles before anyone moves. Or the host knows the game best and ends up playing everyone's turns.
 
 This script fixes both. It runs about ten minutes, in the order you would say it. Print the [Pandemic teach sheet](/academy/pandemic/teach-sheet/) and set it where everyone can read it.
 

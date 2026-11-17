@@ -11,7 +11,7 @@ oneIdea: "Duel is one move repeated: take a card nothing covers, then build it, 
 tryThis: "For your first game, skip the Wonder draft and use the rulebook's fixed sets, so the first decisions you make are about cards in the layout."
 nextTeaser: "Next, how to teach Duel: a five-minute host script, what to leave out, and a printable teach sheet for the table."
 ---
-7 Wonders Duel is a two-player card game by Antoine Bauza and Bruno Cathala. Each of you builds an ancient city over three Ages, taking turns to choose cards from a shared layout. It plays in about 30 minutes, and it can end on any turn: push your army into the rival capital, or collect six different science symbols, and you win at once.
+[7 Wonders Duel](https://www.amazon.com/dp/B014DMSTXK?tag=cubecommonw0a-20) is a two-player card game by Antoine Bauza and Bruno Cathala. Each of you builds an ancient city over three Ages, taking turns to choose cards from a shared layout. It plays in about 30 minutes, and it can end on any turn: push your army into the rival capital, or collect six different science symbols, and you win at once.
 
 If you know the big 7 Wonders, the card colors will feel familiar. Almost everything else is new: there is no passing, no neighbors, and you buy resources from the bank. This lesson covers the whole game from the current [7 Wonders Duel rulebook](https://cdn.svc.asmodee.net/production-rprod/storage/downloads/games/7wonders-duel/en/7du-rules-us-15990558193s5I6.pdf), which Repos Production posts on its [Duel page](https://www.rprod.com/en/games/7-wonders-duel) with a helpsheet and an online FAQ.
 

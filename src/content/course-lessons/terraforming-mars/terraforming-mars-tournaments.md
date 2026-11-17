@@ -11,7 +11,7 @@ oneIdea: "Competitive Terraforming Mars is the game you know, played at four-pla
 tryThis: "Play your next three games with four players, Prelude, and the draft, and aim to finish each in under two hours. Write down your final score by category every time."
 nextTeaser: "Next, tournament rules and procedure: the clock, the end-of-time rule, announcing your actions, handling mistakes, and how ties are broken."
 ---
-Terraforming Mars is a long game, and that shapes its competitive scene. Tournaments run fewer rounds, give each game hours instead of minutes, and often add expansions. You do not need to play in one to enjoy the game. But knowing how they run is a good map for where your own play can go.
+[Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20) is a long game, and that shapes its competitive scene. Tournaments run fewer rounds, give each game hours instead of minutes, and often add expansions. You do not need to play in one to enjoy the game. But knowing how they run is a good map for where your own play can go.
 
 ## How tournament games differ from home play
 

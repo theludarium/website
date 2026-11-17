@@ -10,7 +10,7 @@ draft: false
 oneIdea: "Tournament skill comes from many four-player games played the way the event plays them, plus short drills and a review of every loss. Volume, clock, drills, review: every week."
 tryThis: "Pick one event or one goal score, put its date on your calendar, count back eight weeks, and start week one of this plan."
 ---
-You know the rules, the row, the tracks, the projects, the economy, the maps, the break, and the endgame. The last step is practice that matches what you will face. This lesson gives you an eight-week plan built around how Ark Nova tournaments actually run.
+You know the rules, the row, the tracks, the projects, the economy, the maps, the break, and the endgame. The last step is practice that matches what you will face. This lesson gives you an eight-week plan built around how [Ark Nova](https://www.amazon.com/dp/B09L6FCP9S?tag=cubecommonw0a-20) tournaments actually run.
 
 The plan assumes four to five hours a week. Ark Nova games are long, so scale the number of games to your time, but keep all four parts.
 

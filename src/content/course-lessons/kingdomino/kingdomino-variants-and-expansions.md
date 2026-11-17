@@ -11,7 +11,7 @@ oneIdea: "The base box already holds four variants that change how Kingdomino pl
 tryThis: "Play your next three games with one rulebook variant each: Middle Kingdom, Harmony, and then both together. Keep the one your table liked best as your house rule."
 nextTeaser: "Last, where to play: Kingdomino online, its official championships, local tables, and running your own tournament."
 ---
-Kingdomino plays 2 to 4 players, as printed on the box. The Age of Giants expansion raises that to 5, and for two players the rulebook offers the 7 by 7 Mighty Duel.
+[Kingdomino](https://link.amazon/B08l49zvA) plays 2 to 4 players, as printed on the box. The Age of Giants expansion raises that to 5, and for two players the rulebook offers the 7 by 7 Mighty Duel.
 
 Kingdomino has grown into a whole family: an expansion, two standalone sequels, a roll-and-write, and a children's game. Before any of them, though, the rulebook in the base box already offers four ways to change the game. Start there.
 

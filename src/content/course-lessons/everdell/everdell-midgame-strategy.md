@@ -30,7 +30,7 @@ Blue Governance cards come in two flavors.
 
 **Discounts.** Others make cards cheaper. The Crane can be discarded from your city to take 3 resources off a Construction. The Innkeeper does the same for a Critter's berries. The Judge lets you swap one resource in a cost for another. Crane and Innkeeper can't be combined with other card-playing abilities, so use each one on its own big play.
 
-A city with two or three reward cards turns every summer play into a small bonus. That is what an Everdell engine looks like.
+A city with two or three reward cards turns every summer play into a small bonus. That is what an [Everdell](https://www.amazon.com/dp/B09ZWQTTNR?tag=cubecommonw0a-20) engine looks like.
 
 ## Destinations: spaces only you control
 

@@ -11,7 +11,7 @@ oneIdea: "The solo rival never gains resources or Fear, but it takes spaces, bon
 tryThis: "Play the rival at one red tile above the level you last beat. Win twice in a row, then add another, until you are playing with all five."
 nextTeaser: "Last, competitive Arnak: where to find strong opponents online, what tournament play looks like, and how to practice like a competitor."
 ---
-Lost Ruins of Arnak has a full solo game in the base box: a rival expedition run by a small stack of action tiles. At its easiest it is a gentle practice partner. With all five red tiles, it is one of the toughest tests in the game. This lesson explains how the rival works, then how to beat it at full strength.
+[Lost Ruins of Arnak](https://www.amazon.com/dp/B08CD3JVQB?tag=cubecommonw0a-20) has a full solo game in the base box: a rival expedition run by a small stack of action tiles. At its easiest it is a gentle practice partner. With all five red tiles, it is one of the toughest tests in the game. This lesson explains how the rival works, then how to beat it at full strength.
 
 All rules here follow the solo variant in the current English rulebook from Czech Games Edition.
 

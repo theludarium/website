@@ -11,7 +11,7 @@ oneIdea: "In Arcs the attacker picks the risk. Skirmish dice are safe and slow, 
 tryThis: "Before each battle in your next game, say the job out loud (clear ships, hit a building, or steal) and pick dice using the tables in this lesson."
 nextTeaser: "Next, Leaders and Lore: how the draft works, what a leader changes, and how to pick a pair that fits your plan."
 ---
-Welcome to Level 3. At Level 2 you learned what to fight for. Now you learn how to fight. Arcs battle is unusual: only the attacker rolls, and the attacker chooses which dice to roll, one per attacking ship. So every battle starts with a question you answer before the dice leave your hand. What is this fight for?
+Welcome to Level 3. At Level 2 you learned what to fight for. Now you learn how to fight. [Arcs](https://www.amazon.com/dp/B0D856FJ1J?tag=cubecommonw0a-20) battle is unusual: only the attacker rolls, and the attacker chooses which dice to roll, one per attacking ship. So every battle starts with a question you answer before the dice leave your hand. What is this fight for?
 
 ## The three dice
 

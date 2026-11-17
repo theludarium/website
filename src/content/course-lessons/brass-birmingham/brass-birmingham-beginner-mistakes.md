@@ -11,7 +11,7 @@ oneIdea: "First games of Brass go wrong in two ways: small rules slips that nobo
 tryThis: "After each of your next three games, have every player name one tile they left unflipped at the end of an era and what it would have taken to flip it."
 nextTeaser: "Next, selling: how merchants work, which goods each one buys, how beer pays for a sale, and how to collect the merchant bonuses before anyone else does."
 ---
-Your first three games of Brass: Birmingham are where habits form. Some of those habits are rules played wrong because nobody checked. Others are legal moves that cost a game. This lesson covers both, checked against the current Roxley rulebook and its "Things to remember" list.
+Your first three games of [Brass: Birmingham](https://www.amazon.com/dp/1988884047?tag=cubecommonw0a-20) are where habits form. Some of those habits are rules played wrong because nobody checked. Others are legal moves that cost a game. This lesson covers both, checked against the current Roxley rulebook and its "Things to remember" list.
 
 ## Rules slips to catch early
 

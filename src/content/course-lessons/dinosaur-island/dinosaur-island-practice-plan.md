@@ -10,7 +10,7 @@ draft: false
 oneIdea: "Getting better at Dinosaur Island means measuring what your park lost as well as what it scored. Log a few numbers after every game, drill weak spots with solo play, and change one habit at a time."
 tryThis: "Start a score log tonight with five columns: final score, VPs lost to eaten visitors, empty exhibits, most workers in one round, and the round the game ended. Fill it in after each of your next ten games."
 ---
-Dinosaur Island has no tournament circuit. We could not find an official organized play program or a regular championship event for it, so this course's top level is about the hardest challenges instead: the solo game, the expansion, and high scores at every player count. This last lesson pulls the course together into a plan you can follow for your next ten games.
+[Dinosaur Island](https://www.amazon.com/dp/B06Y3BS8YD?tag=cubecommonw0a-20) has no tournament circuit. We could not find an official organized play program or a regular championship event for it, so this course's top level is about the hardest challenges instead: the solo game, the expansion, and high scores at every player count. This last lesson pulls the course together into a plan you can follow for your next ten games.
 
 ## Why measure
 

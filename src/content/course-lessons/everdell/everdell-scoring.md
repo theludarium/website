@@ -11,7 +11,7 @@ oneIdea: "Autumn is the biggest season and the last one. Every remaining worker,
 tryThis: "When you prepare for autumn, write down the score you expect in each category. After the game, compare it with your real score and find where the gap came from."
 nextTeaser: "Next, player counts, variants, and expansions: two players versus four, the solo game against Rugwort, and which expansion box to try first."
 ---
-Everdell's final count surprises new players. A city that looked modest turns out to hold three purple cards, two Events, and a worker on the 5-point space, and it wins by ten. None of that is hidden. You can count it before autumn ends and make your last turns count.
+[Everdell](https://www.amazon.com/dp/B09ZWQTTNR?tag=cubecommonw0a-20)'s final count surprises new players. A city that looked modest turns out to hold three purple cards, two Events, and a worker on the 5-point space, and it wins by ten. None of that is hidden. You can count it before autumn ends and make your last turns count.
 
 ## Where the points come from
 

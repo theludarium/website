@@ -11,7 +11,7 @@ oneIdea: "First-game trouble comes from two places: small rules slips that nobod
 tryThis: "After each of your next three games, write down three numbers: VPs lost to eaten visitors, VPs lost to empty exhibits, and the most workers you had in one round."
 nextTeaser: "Next, openings: what to do with your first three scientists, your first two market actions, and your first $15."
 ---
-Your first three games of Dinosaur Island are where habits form. Some are rules slips, quietly played wrong because nobody checked. Others are legal choices that cost a lot of points. This lesson covers both, checked against the Rulebook 2.0 and its "Easily Missed Rules" page.
+Your first three games of [Dinosaur Island](https://www.amazon.com/dp/B06Y3BS8YD?tag=cubecommonw0a-20) are where habits form. Some are rules slips, quietly played wrong because nobody checked. Others are legal choices that cost a lot of points. This lesson covers both, checked against the Rulebook 2.0 and its "Easily Missed Rules" page.
 
 ## Rules slips to catch early
 

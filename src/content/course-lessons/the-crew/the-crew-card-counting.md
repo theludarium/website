@@ -15,7 +15,7 @@ You cannot talk about your cards, but every card your teammates play is public. 
 
 ## Why counting matters in a co-op
 
-In a competitive card game, counting helps you beat the table. In The Crew, it helps you avoid failing your own crew. The two questions that decide most tricks are:
+In a competitive card game, counting helps you beat the table. In [The Crew](https://link.amazon/B099S9RKf), it helps you avoid failing your own crew. The two questions that decide most tricks are:
 
 - **Who can still follow this color?** If a teammate is out, they can drop any card, including a rocket.
 - **Which high cards are still out?** If the 9 and 8 are gone, your 7 may now be the top card, and it will win any trick of that color.

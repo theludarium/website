@@ -67,4 +67,4 @@ Before the first trick, if you hold rockets, ask:
 - Could my rocket be forced into a trick holding a teammate's task card?
 - Should I lead it early to get it out of the way?
 
-Our guide to [cooperative games and teamwork](/articles/cooperative-games-teamwork/) explains why this kind of shared planning makes The Crew such a strong team game.
+Our guide to [cooperative games and teamwork](/articles/cooperative-games-teamwork/) explains why this kind of shared planning makes [The Crew](https://link.amazon/B099S9RKf) such a strong team game.

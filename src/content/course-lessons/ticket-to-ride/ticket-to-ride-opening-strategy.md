@@ -11,7 +11,7 @@ oneIdea: "Your opening is decided before your first turn. Keep tickets that buil
 tryThis: "Before your first turn next game, trace your kept tickets on the board with a finger and name the one route on that path you most fear losing. Claim it first."
 nextTeaser: "Next, train cards: when to take a face-up card, when to draw blind, and when a locomotive is worth your whole turn."
 ---
-Ticket to Ride has no fixed opening the way chess does. Your tickets and cards are different every game. But strong openings follow the same pattern: keep tickets that work together, find the routes everyone will fight over, and get your trains onto those routes before anyone else.
+[Ticket to Ride](https://link.amazon/B0jh8RB7f) has no fixed opening the way chess does. Your tickets and cards are different every game. But strong openings follow the same pattern: keep tickets that work together, find the routes everyone will fight over, and get your trains onto those routes before anyone else.
 
 ## Choosing your starting tickets
 

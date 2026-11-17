@@ -11,7 +11,7 @@ oneIdea: "The solo game gives you a fixed number of turns and no one to blame. T
 tryThis: "Play one solo game at 20 appeal and write down every turn's action and strength. Afterward, mark the three turns that closed the least gap and plan a better choice for each."
 nextTeaser: "Level 5 begins with reading the table: every rival zoo at a four-player game, the interactive animals, and the tournament path from WBC to Berlin."
 ---
-Multiplayer Ark Nova has a lot of noise: rivals take your cards, push the break, and trigger the end. The solo game strips that away. You face a fixed clock and a fixed target, and every point you miss is a turn you could have used better. That is why competitive players use it as a drill.
+Multiplayer [Ark Nova](https://www.amazon.com/dp/B09L6FCP9S?tag=cubecommonw0a-20) has a lot of noise: rivals take your cards, push the break, and trigger the end. The solo game strips that away. You face a fixed clock and a fixed target, and every point you miss is a turn you could have used better. That is why competitive players use it as a drill.
 
 ## How solo changes the game
 

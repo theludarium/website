@@ -11,7 +11,7 @@ oneIdea: "The 90 cards follow a pattern. Each heavy color pays for the big level
 tryThis: "In your next game, keep a tally of the 5-point cards as they appear. Before any blind level 3 reserve, count how many are still unseen and divide by the cards left in that deck."
 nextTeaser: "Next, competitive Splendor: the official tournament format, the World Boardgaming Championships event, online ratings, and how to find local play."
 ---
-Welcome to Level 3. At Level 2 you learned to read the table: what each player can buy, which noble race you can win, and when to end the game. Now you look past the table at the decks themselves. Splendor shuffles its cards, but the cards follow a tight pattern. Know it, and the face-down decks stop being a mystery.
+Welcome to Level 3. At Level 2 you learned to read the table: what each player can buy, which noble race you can win, and when to end the game. Now you look past the table at the decks themselves. [Splendor](https://link.amazon/B0fEvY6Wg) shuffles its cards, but the cards follow a tight pattern. Know it, and the face-down decks stop being a mystery.
 
 The counts below come from a full card list of the base game, checked against the 40, 30, and 20 split in the rulebook.
 

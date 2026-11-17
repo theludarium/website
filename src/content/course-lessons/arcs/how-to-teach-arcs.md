@@ -11,7 +11,7 @@ oneIdea: "Teach Arcs from the cards outward. Once players understand lead, Surpa
 tryThis: "At your next teach, deal the hands before you explain anything, and have each player pick up a card and name its suit, number, pips, and ambition."
 nextTeaser: "Level 1 starts with the rules new players get wrong most: control, Catapult moves, the zero marker, and what happens when a city falls."
 ---
-Arcs has a reputation as a hard teach, and the reputation is half earned. The rules are short. The trouble is that the card play feels strange until you have done it, and everything else hangs on it. So teach the card play first, in your hands, before the map makes anyone nervous.
+[Arcs](https://www.amazon.com/dp/B0D856FJ1J?tag=cubecommonw0a-20) has a reputation as a hard teach, and the reputation is half earned. The rules are short. The trouble is that the card play feels strange until you have done it, and everything else hangs on it. So teach the card play first, in your hands, before the map makes anyone nervous.
 
 This script assumes a base game with no leaders or lore, as the rulebook asks for a first game. Print the [Arcs teach sheet](/academy/arcs/teach-sheet/) for the table, and set up before people sit down so the teach starts with cards, not cardboard.
 

@@ -28,7 +28,7 @@ This is the top of the U.S. ladder. Locals and Regionals got you here on wins an
 
 In 2026, the U.S. National Championship in Chicago was open to the public for the first time, and Andrew Scott pulled away from the rest of the final table to win the title. For the 2026 to 2027 season, the event grows. This lesson walks through the new format, how seats and play order are chosen, what the spectator side looks like, and what it takes to win.
 
-As always, CATAN Studio updates the program every season. Everything here matches the [official U.S. regional page](https://catanevents.com/players/champ/us-regional/) and the [tournament rules](https://catanevents.com/hosts/tournament-rules/) as of October 2026.
+As always, [CATAN](https://link.amazon/B0h8BDGR2) Studio updates the program every season. Everything here matches the [official U.S. regional page](https://catanevents.com/players/champ/us-regional/) and the [tournament rules](https://catanevents.com/hosts/tournament-rules/) as of October 2026.
 
 ## Who plays at Nationals in 2027?
 
@@ -97,7 +97,7 @@ As of October 2026, the date and location of the 2027 Nationals have not been an
 
 Three things, and only one of them is skill at the board.
 
-- **The strongest Catan you can play.** Every player at a semifinal table earned the seat. Reading threats ([Lesson 23](/academy/catan/threat-assessment/)), closing out games ([Lesson 25](/academy/catan/endgame/)), and steering the robber are the baseline, not an edge.
+- **The strongest [Catan](https://link.amazon/B0h8BDGR2) you can play.** Every player at a semifinal table earned the seat. Reading threats ([Lesson 23](/academy/catan/threat-assessment/)), closing out games ([Lesson 25](/academy/catan/endgame/)), and steering the robber are the baseline, not an edge.
 - **The right risk at the right time.** Steady play got you here. In a single game where second place does not advance, a bold move that gives you a real shot at 10 is often correct, especially late in the game when the leader is about to close.
 - **Calm.** Even a great player wins well under half of their four-player games. The dice will be unkind to someone at every table. Champions accept that before the first roll, then play each turn as well as they can.
 

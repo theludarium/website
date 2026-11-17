@@ -15,7 +15,7 @@ The rules limit what you may say. They do not limit what you may notice. Every c
 
 ## The line you must not cross
 
-First, the rule. You may not show, say, or hint at your cards. That includes pointed looks, sighs, hovering over a card, or slowing down on purpose to send a message. Reading the table means drawing honest conclusions from legal plays, not inventing a code. If your crew starts using table talk as a signal, the game stops being The Crew.
+First, the rule. You may not show, say, or hint at your cards. That includes pointed looks, sighs, hovering over a card, or slowing down on purpose to send a message. Reading the table means drawing honest conclusions from legal plays, not inventing a code. If your crew starts using table talk as a signal, the game stops being [The Crew](https://link.amazon/B099S9RKf).
 
 ## Silence is a signal
 

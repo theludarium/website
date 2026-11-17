@@ -11,7 +11,7 @@ oneIdea: "Pudding is a three-round race scored once, and the cheapest points in 
 tryThis: "Next game, write everyone's pudding count at the top of the score sheet after each round. Use it to decide, in round three, whether the next pudding is worth more than the best card in your hand."
 nextTeaser: "Level 3 starts with player counts: how Sushi Go! changes from two players to five, the official two-player variant with a dummy hand, and the pass-both-ways variant."
 ---
-Pudding is the slowest race in Sushi Go!. You collect it across all three rounds, it stays in front of you between rounds, and it scores only once, after the third round. That makes it easy to forget and decisive at the end. This lesson covers what pudding is worth, how ties work, and how to play the final round. Everything here follows the official rules.
+Pudding is the slowest race in [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20). You collect it across all three rounds, it stays in front of you between rounds, and it scores only once, after the third round. That makes it easy to forget and decisive at the end. This lesson covers what pudding is worth, how ties work, and how to play the final round. Everything here follows the official rules.
 
 ## The rules in short
 

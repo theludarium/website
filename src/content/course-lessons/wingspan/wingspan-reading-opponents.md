@@ -11,7 +11,7 @@ oneIdea: "Almost everything in Wingspan is face up. Read what each rival needs f
 tryThis: "Once per round in your next game, before your turn, say out loud what the player after you most needs. Then check whether your best move takes it from them for free."
 nextTeaser: "Next, the Automa: how the solo opponent thinks, how to beat it on every difficulty, and how to use it as a practice partner."
 ---
-Wingspan has a gentle reputation, and most turns are about your own mat. But Stonemaier's own FAQ lists the ways players touch each other: the dice you take and when you reroll, the birds you take from the tray, the ranked goals, and powers that give other players things. At Level 3, those touches start deciding close games.
+[Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) has a gentle reputation, and most turns are about your own mat. But Stonemaier's own FAQ lists the ways players touch each other: the dice you take and when you reroll, the birds you take from the tray, the ranked goals, and powers that give other players things. At Level 3, those touches start deciding close games.
 
 ## What you can see
 

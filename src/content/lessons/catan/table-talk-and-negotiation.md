@@ -26,7 +26,7 @@ nextTeaser: "Next, the finish line. Lesson 25, The Endgame, shows how to plan yo
 ---
 Two players sit at the same table with nearly the same cards. One gets every trade they ask for, and the robber never seems to visit. The other gets told "not this time" all night, and the robber lives on their best hex. The board did not decide that. The talking did.
 
-Catan is a game of open conversation. Every trade, every robber move, and every "who's winning?" happens out loud. This lesson is about using that talk on purpose, while staying the kind of player people are glad to sit with.
+[Catan](https://link.amazon/B0h8BDGR2) is a game of open conversation. Every trade, every robber move, and every "who's winning?" happens out loud. This lesson is about using that talk on purpose, while staying the kind of player people are glad to sit with.
 
 ## What is table talk actually for?
 

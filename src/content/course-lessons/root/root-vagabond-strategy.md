@@ -56,7 +56,7 @@ To **Aid**, exhaust any item and give a card matching your clearing to a player 
 
 Aid also improves your relationship with that faction. Each step on your Relationships chart takes a set number of aids in the same turn, and each step scores the points printed there. Reach **Allied** and every later aid to that faction scores 2 points. You may also move their warriors along with you, and when you attack, count their warriors in that clearing as your own.
 
-The walkthrough's advice: aid factions that are struggling. You can also give a player cards that make items, if they promise to craft those items for you. Promises in Root are not binding, so choose partners with care.
+The walkthrough's advice: aid factions that are struggling. You can also give a player cards that make items, if they promise to craft those items for you. Promises in [Root](https://www.amazon.com/dp/B07F454YF3?tag=cubecommonw0a-20) are not binding, so choose partners with care.
 
 ## Quests
 

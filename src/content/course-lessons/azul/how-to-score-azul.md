@@ -11,7 +11,7 @@ oneIdea: "Scoring is a routine, not a puzzle: one player at a time, one pattern 
 tryThis: "In your next game, score one player at a time while the table watches, and have the next player call out each tile's row and column count before the marker moves."
 nextTeaser: "Level 1 starts with your first three games: the rules slips and strategy traps almost every new table falls into, and how to fix each one."
 ---
-Azul's scoring rule fits in two sentences, yet it is where most first games go quietly wrong. Someone counts a tile twice, someone forgets the floor, and the final bonuses get added in a rush while people pack up. None of that is hard to fix. It just needs a routine.
+[Azul](https://link.amazon/B0bGRYHex)'s scoring rule fits in two sentences, yet it is where most first games go quietly wrong. Someone counts a tile twice, someone forgets the floor, and the final bonuses get added in a rush while people pack up. None of that is hard to fix. It just needs a routine.
 
 This lesson gives you that routine, with worked examples you can set up on a real board. To keep it simple, we name spaces by row and column: row 1 is the top of the wall, column 1 is the left edge. So (3,3) is the center space.
 

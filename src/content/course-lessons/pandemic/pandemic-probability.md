@@ -11,7 +11,7 @@ oneIdea: "Pandemic's decks are shuffled, but they are built in a known way. A fe
 tryThis: "In your next game, after each Epidemic, count the cards that were shuffled back on top. Then say each 3-cube city's chance of coming up in the next Infect step: the infection rate over that count."
 nextTeaser: "Next, the endgame count: turning the Player deck into a number of turns, and checking whether every cure is still possible."
 ---
-Welcome to Level 3. At Level 2 you learned to read the Infection discard pile and to plan a turn ahead. Now you put numbers on it. Pandemic hides its next cards, but it builds both decks in a fixed way, and that means you can work out real odds with nothing more than a fraction.
+Welcome to Level 3. At Level 2 you learned to read the Infection discard pile and to plan a turn ahead. Now you put numbers on it. [Pandemic](https://link.amazon/B0eHP5GCg) hides its next cards, but it builds both decks in a fixed way, and that means you can work out real odds with nothing more than a fraction.
 
 All the numbers here come from the setup rules in the current [rulebook](https://cdn.svc.asmodee.net/production-zman/uploads/2024/09/Pandemic_Rulebook.pdf) and our own arithmetic on them.
 

@@ -12,7 +12,7 @@ oneIdea: "Competitive 7 Wonders is mostly the base game, played many times again
 tryThis: "Play ten four-player games of 7 Wonders online this month, and after each one write down which score pad row gave you the most points."
 nextTeaser: "Next, the tournament rules that change how you play: how heats are scored, and bidding points for a Wonder in the semifinal and final."
 ---
-7 Wonders is easy to teach and quick to play, which makes it a good tournament game. You can play many rounds in a day, and skill shows up over many games even when the cards are random. You do not need to win anything to enjoy competing. But knowing how tournaments run changes how you look at the game at home.
+[7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20) is easy to teach and quick to play, which makes it a good tournament game. You can play many rounds in a day, and skill shows up over many games even when the cards are random. You do not need to win anything to enjoy competing. But knowing how tournaments run changes how you look at the game at home.
 
 ## How tournament play differs from home
 

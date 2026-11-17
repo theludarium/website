@@ -11,7 +11,7 @@ oneIdea: "Dinosaur Island scales by giving each extra player two more dice, one 
 tryThis: "Next game, read both plot twists aloud during setup and ask each player to name one way the twists change their opening. Then play the Predictable Systems variant once and compare."
 nextTeaser: "Level 4 begins with the solo game: seven rounds, an AI deck that takes things away, and objectives that lose value every round you wait."
 ---
-Dinosaur Island plays 1 to 4 players, with a solo mode in the base box. The Totally Liquid expansion adds pieces for a fifth player.
+[Dinosaur Island](https://www.amazon.com/dp/B06Y3BS8YD?tag=cubecommonw0a-20) plays 1 to 4 players, with a solo mode in the base box. The Totally Liquid expansion adds pieces for a fifth player.
 
 The core rules stay the same at every count, but a handful of setup numbers change, and they change how crowded the shared phases feel. This lesson covers those differences, the plot twists that make each game feel new, and the two official variants.
 

@@ -48,7 +48,7 @@ There is a second caution. "Brain training" apps once made strong claims about r
 
 Nobody knows which part of a game does the work, and the research suggests it may be the combination. Here is what a single round of a common game asks of a brain, compared with a crossword.
 
-| Demand | Crossword | Codenames | Bridge or euchre |
+| Demand | Crossword | [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) | Bridge or euchre |
 |---|---|---|---|
 | Language and recall | Yes | Yes | Some |
 | Working memory | Some | Yes | Yes |

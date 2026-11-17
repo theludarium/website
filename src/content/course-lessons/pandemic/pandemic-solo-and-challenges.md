@@ -10,7 +10,7 @@ draft: false
 oneIdea: "Pandemic has no big tournament circuit, because your opponent is the game. The way forward is harder settings, solo practice, and a steady group that keeps coming back."
 tryThis: "Play one game with Z-Man's official solo rules this month at your group's usual difficulty, and write down which losing condition you came closest to."
 ---
-Most game courses in the Academy end with a tournament lesson. Pandemic is different. Everyone at the table is on the same team, and the opponent is the game itself. So competition looks different here: harder settings, solo play, and the quiet pride of a group that finally beats Heroic. Here is what exists, and what does not.
+Most game courses in the Academy end with a tournament lesson. [Pandemic](https://link.amazon/B0eHP5GCg) is different. Everyone at the table is on the same team, and the opponent is the game itself. So competition looks different here: harder settings, solo play, and the quiet pride of a group that finally beats Heroic. Here is what exists, and what does not.
 
 ## Is there a Pandemic tournament scene?
 

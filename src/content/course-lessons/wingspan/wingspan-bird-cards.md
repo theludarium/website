@@ -11,7 +11,7 @@ oneIdea: "A bird card answers four questions in four places: what it costs, wher
 tryThis: "Before your next game, pull five random birds and read each one out loud in the same order: cost, habitat, points, nest and eggs, wingspan, power. Time how long the fifth one takes."
 nextTeaser: "Level 1 starts with your first three games: the rules slips and strategy traps almost every new table falls into, and how to fix each one."
 ---
-A Wingspan bird card holds a lot of small print. New players stare at it and see a painting with icons scattered around the edge. Experienced players glance at it for two seconds and know whether they want it. The difference is not memory. It is reading the card in the same order every time.
+A [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) bird card holds a lot of small print. New players stare at it and see a painting with icons scattered around the edge. Experienced players glance at it for two seconds and know whether they want it. The difference is not memory. It is reading the card in the same order every time.
 
 This lesson is the last piece of Level 0. It walks around a bird card corner by corner, using the base game's 170 birds as the examples, not counting the 10 Swift-Start birds in current printings. Counts in this lesson come from our tally of the base deck, checked against the community card database at [Wingsearch](https://navarog.github.io/wingsearch/), which Stonemaier links from its rules page.
 

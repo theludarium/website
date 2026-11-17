@@ -11,7 +11,7 @@ oneIdea: "Every travel cost in Arnak is paid the same way: cards spent for their
 tryThis: "In your next game, before you send an archaeologist, put the cards you are spending face up in a line and name what each one pays for. Do it until nobody at the table needs to."
 nextTeaser: "Level 1 starts with your first three games: the rules slips almost every new table makes, and the habits that keep a deck from filling up with Fear."
 ---
-Most rules questions in a first game of Lost Ruins of Arnak are about travel. Can this pay for that? What if the space needs two icons? Can I use my coins? This lesson answers all of them, so the last piece of Level 0 is a table where every payment is right the first time. It follows the current English rulebook from Czech Games Edition.
+Most rules questions in a first game of [Lost Ruins of Arnak](https://www.amazon.com/dp/B08CD3JVQB?tag=cubecommonw0a-20) are about travel. Can this pay for that? What if the space needs two icons? Can I use my coins? This lesson answers all of them, so the last piece of Level 0 is a table where every payment is right the first time. It follows the current English rulebook from Czech Games Edition.
 
 ## The four travel values
 

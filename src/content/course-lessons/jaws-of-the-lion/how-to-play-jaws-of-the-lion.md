@@ -11,7 +11,7 @@ oneIdea: "Every round is the same four steps: pick two cards, reveal initiative,
 tryThis: "Before the first card selection, say the four steps of a round out loud and point at the initiative tokens as you do it."
 nextTeaser: "Next: how to teach Jaws of the Lion, and why the best host lets the Learn to Play Guide do most of the talking."
 ---
-Gloomhaven: Jaws of the Lion is a cooperative campaign game from Cephalofair Games for 1 to 4 players. You play mercenaries fighting through a story of 25 scenarios, and you save the game between them. There are no dice. Every action comes from cards you choose, and the monsters follow a set of rules instead of a game master.
+[Gloomhaven: Jaws of the Lion](https://www.amazon.com/dp/B088QSDB7S?tag=cubecommonw0a-20) is a cooperative campaign game from Cephalofair Games for 1 to 4 players. You play mercenaries fighting through a story of 25 scenarios, and you save the game between them. There are no dice. Every action comes from cards you choose, and the monsters follow a set of rules instead of a game master.
 
 This lesson covers the core rules as the Learn to Play Guide teaches them in the first scenario. It is spoiler-free: nothing here goes past the starting characters and the tutorial.
 

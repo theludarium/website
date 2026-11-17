@@ -11,7 +11,7 @@ oneIdea: "Scythe's end is a decision, not a deadline. The player who places the 
 tryThis: "In your next game, when any player reaches four stars, do a quick count of everyone's score at their current popularity tier. Do it again at five."
 nextTeaser: "Level 4 starts with player counts and expansions: how Scythe changes from one to seven players, the Automa, and which expansion to add first."
 ---
-Scythe has no fixed number of rounds. The game ends the instant any player places their sixth star, and everyone scores at that moment. That makes the end of the game a weapon. This lesson does the scoring math, then shows how to use it.
+[Scythe](https://www.amazon.com/dp/B01IPUGYK6?tag=cubecommonw0a-20) has no fixed number of rounds. The game ends the instant any player places their sixth star, and everyone scores at that moment. That makes the end of the game a weapon. This lesson does the scoring math, then shows how to use it.
 
 ## The scoring table
 

@@ -11,7 +11,7 @@ oneIdea: "First-game trouble in Wingspan comes from two places: small rules slip
 tryThis: "After each of your next three games, note how many birds each player had on their mat at the end of round 2. Compare that number with the final scores."
 nextTeaser: "Next, openings: how to read your starting hand, what to keep from your first five cards, and how to spend the eight turns of round one."
 ---
-Your first three games of Wingspan are where habits form. Some of those habits are rules played wrong because nobody checked. Others are legal moves that quietly cost ten or fifteen points. This lesson covers both, checked against the rulebook, its appendix, and the official Rules and FAQ page.
+Your first three games of [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) are where habits form. Some of those habits are rules played wrong because nobody checked. Others are legal moves that quietly cost ten or fifteen points. This lesson covers both, checked against the rulebook, its appendix, and the official Rules and FAQ page.
 
 ## Rules slips to catch early
 

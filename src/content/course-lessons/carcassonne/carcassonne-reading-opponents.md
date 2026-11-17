@@ -11,7 +11,7 @@ oneIdea: "Almost everything in Carcassonne is on the table. Read your opponent's
 tryThis: "In your next two-player game, after each of your opponent's turns, name one thing their placement tells you about what they want next."
 nextTeaser: "Next, endgame tile tracking: how to know what is left in the last fifteen tiles, who places the final one, and which spaces are already dead."
 ---
-Carcassonne has very little hidden information. The map, every meeple, both supplies, and the score track are all in plain view. The only secret is the next tile. That means a careful player can know most of what an opponent wants, and much of what they are planning, before they do it.
+[Carcassonne](https://link.amazon/B012Rr5ed) has very little hidden information. The map, every meeple, both supplies, and the score track are all in plain view. The only secret is the next tile. That means a careful player can know most of what an opponent wants, and much of what they are planning, before they do it.
 
 This lesson is about reading the board through your opponent's eyes.
 

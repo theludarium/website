@@ -11,7 +11,7 @@ oneIdea: "Objectives are both points and a clock. Claiming one is worth 6 to 8 V
 tryThis: "Next game, before you take the action that completes an objective, ask one question first: if this pushes the game one round closer to the end, who benefits most? Finish it if the answer is you."
 nextTeaser: "Next, reading your rivals: what their parks tell you about the dice they want, the items they need, and the holding die they fear."
 ---
-Dinosaur Island hands every player a lever on the game's length. The end triggers when only one objective is left unclaimed, and you choose which objectives you work toward and when you finish them.
+[Dinosaur Island](https://www.amazon.com/dp/B06Y3BS8YD?tag=cubecommonw0a-20) hands every player a lever on the game's length. The end triggers when only one objective is left unclaimed, and you choose which objectives you work toward and when you finish them.
 
 Level 2's endgame lesson covered spending down when the end arrives. This lesson is about deciding when it arrives.
 

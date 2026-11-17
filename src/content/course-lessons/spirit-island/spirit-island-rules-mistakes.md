@@ -11,7 +11,7 @@ oneIdea: "Most Spirit Island misplays make the game harder, not easier. Fix the 
 tryThis: "Read this list out loud before your next game, then name one player as the rules checker for Blight and Fear. They speak up whenever either happens."
 nextTeaser: "Level 1 starts with the Invader cards in depth: how the Explore, Build, Ravage track shows you the future, and how to aim Fast and Slow Powers at it."
 ---
-Spirit Island has a lot of small rules, and new tables get some of them wrong. That is normal, and the rulebook's own advice is not to sweat it: note the right rule and keep going. But a few misplays change the game so much that groups decide it is too hard after one night. This lesson collects the common ones, grouped by where they happen, with the rule as the current core rulebook states it.
+[Spirit Island](https://www.amazon.com/dp/B01MUHP51S?tag=cubecommonw0a-20) has a lot of small rules, and new tables get some of them wrong. That is normal, and the rulebook's own advice is not to sweat it: note the right rule and keep going. But a few misplays change the game so much that groups decide it is too hard after one night. This lesson collects the common ones, grouped by where they happen, with the rule as the current core rulebook states it.
 
 ## Blight
 

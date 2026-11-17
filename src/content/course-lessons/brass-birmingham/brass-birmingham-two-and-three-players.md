@@ -11,7 +11,7 @@ oneIdea: "With fewer players, the board stays the same size while the deck, the 
 tryThis: "Play your next two-player game with one rule for yourself: count the merchants that buy each good at setup, and build no goods tile without a buyer you can reach by canal."
 nextTeaser: "Level 4 begins with the endgame: counting your last actions, spending every pound, and flipping everything that can still score."
 ---
-Brass: Birmingham plays 2 to 4 players, as Roxley lists it, and the rulebook has setup rules for a two-player game on the same board. It plays well at every count, but it is not the same game at each. Four players fight over a crowded map. Two players share a quiet one. Knowing what changes helps you bring the right plan.
+[Brass: Birmingham](https://www.amazon.com/dp/1988884047?tag=cubecommonw0a-20) plays 2 to 4 players, as Roxley lists it, and the rulebook has setup rules for a two-player game on the same board. It plays well at every count, but it is not the same game at each. Four players fight over a crowded map. Two players share a quiet one. Knowing what changes helps you bring the right plan.
 
 ## What setup removes
 

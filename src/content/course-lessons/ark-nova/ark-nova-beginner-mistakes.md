@@ -11,7 +11,7 @@ oneIdea: "Most first-game trouble in Ark Nova comes from a handful of rules slip
 tryThis: "Before your next game, read the rules slips list aloud to the table. After the game, check which of the three habits showed up in your zoo."
 nextTeaser: "Next, the action cards up close: how the row moves, what each slot buys you, and how to plan two turns ahead."
 ---
-The first game of Ark Nova is a learning game for everyone. The second and third are where habits form, good or bad. This lesson collects the rules people get wrong early and the strategy traps that keep scores low, with a fix for each.
+The first game of [Ark Nova](https://www.amazon.com/dp/B09L6FCP9S?tag=cubecommonw0a-20) is a learning game for everyone. The second and third are where habits form, good or bad. This lesson collects the rules people get wrong early and the strategy traps that keep scores low, with a fix for each.
 
 ## Rules slips
 

@@ -11,7 +11,7 @@ oneIdea: "Each resource has its own connection rule. Coal must be connected, iro
 tryThis: "In your next game, before each Build, Sell, or rail, say where every coal, iron, and beer is coming from. Fix any mistake on the spot."
 nextTeaser: "Level 1 starts with your first three games: the rules slips and strategy traps nearly every new table falls into, and how to fix each one."
 ---
-Most rules questions in Brass: Birmingham come down to where a cube or a barrel may come from. The answers are all in the rulebook, and they are short. This lesson puts them in one place, then shows how they shape the game.
+Most rules questions in [Brass: Birmingham](https://www.amazon.com/dp/1988884047?tag=cubecommonw0a-20) come down to where a cube or a barrel may come from. The answers are all in the rulebook, and they are short. This lesson puts them in one place, then shows how they shape the game.
 
 ## Network and connection are different things
 

@@ -12,7 +12,7 @@ oneIdea: "Teach the loop, not the card list. Pick, play, pass is the whole of 7 
 tryThis: "Deal the first hand before you start talking, and let everyone hold real cards while you explain the three ways to play one."
 nextTeaser: "Next, the last piece of Level 0: scoring 7 Wonders by hand, category by category, so the final count is quick and right."
 ---
-7 Wonders has a reputation for icons. A host picks up a card, starts explaining every symbol on it, and loses the table before the first pick.
+[7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20) has a reputation for icons. A host picks up a card, starts explaining every symbol on it, and loses the table before the first pick.
 
 The fix is to teach the loop, start playing, and let the cards explain themselves. Below is a script in the order you would say it. Print the [7 Wonders teach sheet](/academy/7-wonders/teach-sheet/) and set it in the middle of the table.
 

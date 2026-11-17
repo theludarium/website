@@ -11,7 +11,7 @@ oneIdea: "Each color is a race with two prizes and no third. Race the colors whe
 tryThis: "At the start of phase C in your next game, count each rival's empty spaces in the small colors. Name the one race you can still win, and the one you should abandon."
 nextTeaser: "Next, the two-player game: fewer tiles, cheaper goods, and why every tile you take is also one your opponent cannot."
 ---
-There are six bonus races in every game of The Castles of Burgundy, one per color. The first player to cover every space of a color takes the large bonus tile, and the second takes the small one. The third and fourth get nothing. These races decide close games, and they reward players who count.
+There are six bonus races in every game of [The Castles of Burgundy](https://www.amazon.com/dp/B07R5ZH6FQ?tag=cubecommonw0a-20), one per color. The first player to cover every space of a color takes the large bonus tile, and the second takes the small one. The third and fourth get nothing. These races decide close games, and they reward players who count.
 
 ## What a bonus tile is worth
 

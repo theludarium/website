@@ -42,7 +42,7 @@ Those are fresh hands. Every turn, other players pick nigiri too, and hands shri
 
 ## How chopsticks pay
 
-Once chopsticks are face up in front of you, on a later turn you pick a card, say "Sushi Go!", and take a second card. Then the chopsticks go back into your hand and get passed left.
+Once chopsticks are face up in front of you, on a later turn you pick a card, say "[Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20)", and take a second card. Then the chopsticks go back into your hand and get passed left.
 
 Here is the trade in plain terms: you spend one pick on chopsticks, a zero-point card, and later you get one extra pick from a single hand. You end the round with the same number of cards. Chopsticks pay off when one hand holds two cards that are each worth more than what you would have taken instead.
 

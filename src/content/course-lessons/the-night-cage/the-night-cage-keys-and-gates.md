@@ -11,7 +11,7 @@ oneIdea: "Winning takes one Key per Prisoner and one Gate everyone can reach. Ke
 tryThis: "Keep a running count out loud: Keys still needed, Keys still unseen, and Gates still unseen. Update it every time a Key or Gate lands on the Discard Board."
 nextTeaser: "Next, Nerve: when Staying is worth a tile, and how Move Again, Block, Charge, and Sustain each earn their place in a hard game."
 ---
-Every game of The Night Cage comes down to two kinds of tile. To win, each Prisoner must collect a Key. Then the whole group must gather on a single Gate, together, with their Keys in hand. This lesson looks at how Keys and Gates behave and how to keep track of them.
+Every game of [The Night Cage](https://www.amazon.com/dp/B08VC23895?tag=cubecommonw0a-20) comes down to two kinds of tile. To win, each Prisoner must collect a Key. Then the whole group must gather on a single Gate, together, with their Keys in hand. This lesson looks at how Keys and Gates behave and how to keep track of them.
 
 ## Claiming a Key
 

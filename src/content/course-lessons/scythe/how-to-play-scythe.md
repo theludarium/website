@@ -11,7 +11,7 @@ oneIdea: "Scythe is an economy game wearing a war game's clothes. Every turn you
 tryThis: "In your first game, say your section out loud each turn and name both actions in it before you take them. You will rarely skip a bottom action by accident."
 nextTeaser: "Next, how to teach Scythe: a host script in the order you would say it, and how to get every player taking two actions a turn by round three."
 ---
-Scythe looks like a war game, with giant mechs and a mysterious Factory in the middle of the map. But mostly you build an economy: produce resources, spend them on upgrades and buildings, and turn that engine into stars and coins. Fights happen, but they are rare and expensive.
+[Scythe](https://www.amazon.com/dp/B01IPUGYK6?tag=cubecommonw0a-20) looks like a war game, with giant mechs and a mysterious Factory in the middle of the map. But mostly you build an economy: produce resources, spend them on upgrades and buildings, and turn that engine into stars and coins. Fights happen, but they are rare and expensive.
 
 This lesson walks the rules in our own words, from Stonemaier's rulebook and FAQ. The [official rules page](https://stonemaiergames.com/games/scythe/rules/) has the rulebook, quick reference guides, and a link to a free Dized tutorial.
 

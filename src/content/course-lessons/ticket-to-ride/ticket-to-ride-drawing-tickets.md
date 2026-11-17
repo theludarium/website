@@ -11,7 +11,7 @@ oneIdea: "A mid-game ticket draw is worth it when your railroad already touches 
 tryThis: "The next time you draw tickets, before you look, list the cities your railroad already reaches. Then score each new ticket by the trains it would add, and keep the cheapest."
 nextTeaser: "Next, the endgame and scoring math: counting trains, timing the final round, and deciding when a ticket is worth the risk."
 ---
-Drawing tickets is the boldest move in Ticket to Ride. It costs a whole turn, it forces you to keep at least one new goal, and it can swing your score by 20 points either way. Strong players draw tickets more than new players expect, and at better moments. This lesson is about those moments.
+Drawing tickets is the boldest move in [Ticket to Ride](https://link.amazon/B0jh8RB7f). It costs a whole turn, it forces you to keep at least one new goal, and it can swing your score by 20 points either way. Strong players draw tickets more than new players expect, and at better moments. This lesson is about those moments.
 
 ## The rule, exactly
 

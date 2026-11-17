@@ -10,7 +10,7 @@ draft: false
 oneIdea: "Practice Scythe one skill at a time. A week each on the engine, the factions, combat math, the endgame, the auction, and tournament conditions will do more than six weeks of casual games."
 tryThis: "Pick a start date for week one and the event you are aiming at, and write both at the top of a score log before your next game."
 ---
-Playing a lot of Scythe makes you better slowly. Practicing it makes you better quickly. The difference is focus: each game has one skill you are working on, and you check afterward whether you did it. This plan uses six weeks, one skill each, building on every level of this course. It assumes two or three games a week, some of them solo against the Automa or online.
+Playing a lot of [Scythe](https://www.amazon.com/dp/B01IPUGYK6?tag=cubecommonw0a-20) makes you better slowly. Practicing it makes you better quickly. The difference is focus: each game has one skill you are working on, and you check afterward whether you did it. This plan uses six weeks, one skill each, building on every level of this course. It assumes two or three games a week, some of them solo against the Automa or online.
 
 ## Before you start: the score log
 

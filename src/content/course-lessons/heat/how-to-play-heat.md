@@ -11,7 +11,7 @@ oneIdea: "Your gear sets how many cards you play, your cards set your Speed, and
 tryThis: "Race your first game on the USA track for a single lap, as the rulebook suggests, and call out each step number as the cars move until nobody needs it."
 nextTeaser: "Next, the ten-minute teach. You get a host script in the order you would say it, so the whole table is racing before the snacks run out."
 ---
-Heat: Pedal to the Metal is a racing game where your car is a deck of cards. Each round you pick a gear, play that many cards, and move your car the total. Straights reward speed. Corners punish it, unless you are willing to burn Heat from your engine to get through faster. Push past what your engine can pay and you spin out. Heat plays 1 to 6, solo included.
+[Heat: Pedal to the Metal](https://www.amazon.com/dp/B0BGXPZG4B?tag=cubecommonw0a-20) is a racing game where your car is a deck of cards. Each round you pick a gear, play that many cards, and move your car the total. Straights reward speed. Corners punish it, unless you are willing to burn Heat from your engine to get through faster. Push past what your engine can pay and you spin out. Heat plays 1 to 6, solo included.
 
 A race takes about an hour. This lesson follows the core Rules booklet in the box (version 1.1). The second booklet, with the advanced modules and the Championship, is covered in [the modules lesson](/academy/heat/heat-expansions/) at Level 1.
 

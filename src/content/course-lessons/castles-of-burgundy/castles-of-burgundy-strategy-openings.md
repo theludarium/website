@@ -11,7 +11,7 @@ oneIdea: "Phase A pays the most for every region you close and pays longest for 
 tryThis: "Before your next game, find every region of one or two spaces within reach of your castle, and aim to close two of them in phase A."
 nextTeaser: "Next, the eight buildings: what each one does for you, when it is worth a die, and how to fill a town without a clash."
 ---
-The Castles of Burgundy has no fixed opening. The tiles in the depots and the dice change every game. But the first phase still follows patterns, because the rules make phase A the richest phase of the game. Every region closed now earns the biggest bonus, and every source of income placed now pays out the most times.
+[The Castles of Burgundy](https://www.amazon.com/dp/B07R5ZH6FQ?tag=cubecommonw0a-20) has no fixed opening. The tiles in the depots and the dice change every game. But the first phase still follows patterns, because the rules make phase A the richest phase of the game. Every region closed now earns the biggest bonus, and every source of income placed now pays out the most times.
 
 ## Read your duchy before the first roll
 

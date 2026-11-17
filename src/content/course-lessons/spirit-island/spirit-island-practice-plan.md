@@ -76,4 +76,4 @@ Celebrate milestones. A first win against an adversary, a first level 6, a first
 
 ## The long game
 
-The flywheel of a good Spirit Island group is simple. Play often, write it down, climb a step, and bring in new players at the bottom of the ladder while the veterans push the top. Our guide on [how to start a play group](/articles/how-to-start-a-play-group/) covers finding and keeping the people. The last lesson covers playing together once they are at the table.
+The flywheel of a good [Spirit Island](https://www.amazon.com/dp/B01MUHP51S?tag=cubecommonw0a-20) group is simple. Play often, write it down, climb a step, and bring in new players at the bottom of the ladder while the veterans push the top. Our guide on [how to start a play group](/articles/how-to-start-a-play-group/) covers finding and keeping the people. The last lesson covers playing together once they are at the table.

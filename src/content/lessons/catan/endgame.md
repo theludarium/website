@@ -24,7 +24,7 @@ levelCheck:
     explain: "Once you look close to winning, the table plays against you. At 7 you still have room to choose your points, their order, and how much of it anyone sees."
 nextTeaser: "Next, the deck under the table. Lesson 26, Development Card Math, shows how the odds shift as cards leave the deck, and when a Monopoly pays the most."
 ---
-At 7 points, Catan changes. The early game was about income. The middle was about growth. Now the table starts counting your points, and every card you hold matters. Plenty of games are lost right here, by players who reach 7 first and then drift.
+At 7 points, [Catan](https://link.amazon/B0h8BDGR2) changes. The early game was about income. The middle was about growth. Now the table starts counting your points, and every card you hold matters. Plenty of games are lost right here, by players who reach 7 first and then drift.
 
 This lesson is about the last three points. How to plan them, which builds get you there fastest, and how to finish before the table can stop you.
 

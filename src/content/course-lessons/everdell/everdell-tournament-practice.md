@@ -16,7 +16,7 @@ The plan assumes about three to four hours a week. Scale it up or down, but keep
 
 ## Choose your event first
 
-A plan needs a date. The main in-person event is the Everdell tournament at the [World Boardgaming Championships](https://www.boardgamers.org/), covered in the [tournaments lesson](/academy/everdell/everdell-tournaments/). It welcomes beginners, plays the base game at four-player tables, and runs two heats, a semifinal, and a final. Check the next year's event list for its dates and rules, because formats can change from year to year.
+A plan needs a date. The main in-person event is the [Everdell](https://www.amazon.com/dp/B09ZWQTTNR?tag=cubecommonw0a-20) tournament at the [World Boardgaming Championships](https://www.boardgamers.org/), covered in the [tournaments lesson](/academy/everdell/everdell-tournaments/). It welcomes beginners, plays the base game at four-player tables, and runs two heats, a semifinal, and a final. Check the next year's event list for its dates and rules, because formats can change from year to year.
 
 If WBC is not in reach, a local store's tournament or a group of friends playing a short series under the same rules works just as well as a target.
 

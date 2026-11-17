@@ -11,7 +11,7 @@ oneIdea: "Every Zoo card follows the same map: what it needs on the left, what i
 tryThis: "In your next game, before you play any card, say its three parts out loud: what it needs, what it costs, and what icons it adds to your zoo."
 nextTeaser: "Level 1 starts with your first three games: the slips and traps almost every new zoo falls into, and how to fix each one."
 ---
-Ark Nova's deck has 212 Zoo cards: 128 animals, 64 sponsors, and 20 conservation projects, plus 12 base projects. You will never memorize them, and you do not need to. Each card type puts the same information in the same place, so the skill to build is reading the layout, not the text.
+[Ark Nova](https://www.amazon.com/dp/B09L6FCP9S?tag=cubecommonw0a-20)'s deck has 212 Zoo cards: 128 animals, 64 sponsors, and 20 conservation projects, plus 12 base projects. You will never memorize them, and you do not need to. Each card type puts the same information in the same place, so the skill to build is reading the layout, not the text.
 
 This lesson walks the corners of each card type, following the rulebook's own card layout pages.
 
