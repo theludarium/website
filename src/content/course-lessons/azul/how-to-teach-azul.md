@@ -15,6 +15,8 @@ Azul is a gift game. It gets unwrapped, admired, and set up on the table while s
 
 The fix is to teach the pick, play the pick, and save scoring for the moment the first tiles move to the wall. Here is a host script in the order you would say it. Print the [Azul teach sheet](/academy/azul/teach-sheet/) and set it where everyone can read it.
 
+Want a reference at every seat too? Our [printable Azul teach cards](https://theludarium.lemonsqueezy.com/checkout/buy/e02f017c-c70f-45e6-8246-588d070ac35d) put two reference cards in each player's hand, with a ten-minute teach script and worked tile-scoring examples.
+
 ## Before anyone sits down
 
 Set up first, so the teach starts with the game ready. Boards colored wall side up, score markers on 0. The right number of factory displays in a circle: 5 for two players, 7 for three, 9 for four. Tiles in the bag, displays filled with 4 tiles each.
