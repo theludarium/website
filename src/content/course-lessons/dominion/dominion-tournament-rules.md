@@ -11,7 +11,7 @@ oneIdea: "Tournament Dominion is the rulebook game plus a few procedures: a rand
 tryThis: "Play three games with a one-hour limit that includes randomizing the kingdom and setup. Before each, have every player bid in half points for their seat."
 nextTeaser: "Next, reviewing your own games: a short routine that finds the turn you lost, so practice turns into improvement."
 ---
-The rules of Dominion do not change at a tournament. The procedures around them do. This lesson uses the World Boardgaming Championships event, because it is the best-documented face-to-face Dominion tournament, and its [2026 event preview](https://www.boardgamers.org/wbc26/Previews/dom.html) spells the procedures out. Other events, and later years, may differ, so always read the current rules for your event.
+The rules of [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) do not change at a tournament. The procedures around them do. This lesson uses the World Boardgaming Championships event, because it is the best-documented face-to-face Dominion tournament, and its [2026 event preview](https://www.boardgamers.org/wbc26/Previews/dom.html) spells the procedures out. Other events, and later years, may differ, so always read the current rules for your event.
 
 ## The structure
 

@@ -12,7 +12,7 @@ oneIdea: "Your Wonder board tells you three things before a card is dealt: what 
 tryThis: "At setup in your next game, write a target Age next to each of your stages (for example: stage 1 in Age I, stage 2 in Age II, stage 3 in Age III), then check after the game how close you came."
 nextTeaser: "Level 2 opens with the midgame: reading your neighbors as the pass flips in Age II, chains coming due, trading income, and when to fight."
 ---
-Every player in 7 Wonders starts with something no one else has: a Wonder board. It sits in front of you from setup to scoring, and it is the only part of your city you know before the first hand is dealt. Players who win often read it like a plan. Players who lose often build a stage only when a hand has nothing else.
+Every player in [7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20) starts with something no one else has: a Wonder board. It sits in front of you from setup to scoring, and it is the only part of your city you know before the first hand is dealt. Players who win often read it like a plan. Players who lose often build a stage only when a hand has nothing else.
 
 The [openings lesson](/academy/7-wonders/7-wonders-strategy-openings/) said to look at your starting resource, stage costs, and stage effects. This lesson turns that look into a routine you can use on any board, Day or Night.
 

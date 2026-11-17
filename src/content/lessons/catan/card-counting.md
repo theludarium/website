@@ -26,7 +26,7 @@ nextTeaser: "Next, you put that knowledge to work. Lesson 22 covers robber tacti
 ---
 Welcome to Level 3. Levels 1 and 2 taught you to play the board: the pips, the openings, the trades, the bonuses. This level is about the other players. What they hold, what they need, and how close they are to winning.
 
-It starts with a skill that sounds like a casino trick but is really just paying attention. In Catan, almost every card moves in plain sight. If you watch, you can know most of what each opponent is holding.
+It starts with a skill that sounds like a casino trick but is really just paying attention. In [Catan](https://link.amazon/B0h8BDGR2), almost every card moves in plain sight. If you watch, you can know most of what each opponent is holding.
 
 ## Why bother tracking hands?
 
@@ -98,7 +98,7 @@ For everyone else, the count alone tells a story. A hand of 9 is a target and a 
 
 At home, that is up to your group. Ask before the game. Most tables will shrug and say yes, and a few will tease you about it.
 
-At official events, the rule is clear. The current [CATAN tournament rules](https://catanevents.com/hosts/tournament-rules/) let players keep track of game events or dice rolls, but only in the open. You have to announce it publicly at the table and let the organizers know. As of this writing, that is rule 2.0.7, in the section on player responsibilities. When anyone keeps records, the rules also have organizers swap the dice between games. CATAN Studio updates these rules each season, so read the current page before any event.
+At official events, the rule is clear. The current [CATAN tournament rules](https://catanevents.com/hosts/tournament-rules/) let players keep track of game events or dice rolls, but only in the open. You have to announce it publicly at the table and let the organizers know. As of this writing, that is rule 2.0.7, in the section on player responsibilities. When anyone keeps records, the rules also have organizers swap the dice between games. [CATAN](https://link.amazon/B0h8BDGR2) Studio updates these rules each season, so read the current page before any event.
 
 A few other rules on that page shape how counting works at a tournament:
 

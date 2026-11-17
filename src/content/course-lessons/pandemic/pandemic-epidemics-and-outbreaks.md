@@ -11,7 +11,7 @@ oneIdea: "Epidemics and outbreaks follow a short, strict order. Run them slowly,
 tryThis: "The next time an Epidemic comes up, have the player who drew it read each step off the card and resolve it before reading the next, with the rest of the table checking."
 nextTeaser: "Level 1 starts with your first three games: the rules slips almost every new table makes, and the habits that lose games early."
 ---
-Most of a Pandemic turn is calm: move, treat, draw, flip a couple of cards. Then an Epidemic comes up, or a city tips over into an outbreak, and the table gets loud. That is exactly when rules slip. Someone shuffles the wrong pile, or a cube lands on a city that should have been skipped.
+Most of a [Pandemic](https://link.amazon/B0eHP5GCg) turn is calm: move, treat, draw, flip a couple of cards. Then an Epidemic comes up, or a city tips over into an outbreak, and the table gets loud. That is exactly when rules slip. Someone shuffles the wrong pile, or a cube lands on a city that should have been skipped.
 
 This lesson finishes Level 0 by walking through the game's three big events in order, checked against the current [rulebook](https://cdn.svc.asmodee.net/production-zman/uploads/2024/09/Pandemic_Rulebook.pdf). Once these run cleanly, you know the whole game.
 

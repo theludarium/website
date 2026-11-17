@@ -11,7 +11,7 @@ oneIdea: "The endgame is a race you can count. Know how many Provinces are left,
 tryThis: "In your next game, once 4 Provinces are left, say the score gap out loud before every buy, then decide between Province, Duchy, and Gold."
 nextTeaser: "Level 3 opens with odds: the chance your key card shows up, the chance two terminals collide, and how often your deck hits $8."
 ---
-Dominion games are often decided in the last four or five turns. One player buys a Duchy where another bought a Gold. Someone ends the game on three piles while everyone else watched the Provinces. None of this is luck. The endgame runs on numbers you can see.
+[Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) games are often decided in the last four or five turns. One player buys a Duchy where another bought a Gold. Someone ends the game on three piles while everyone else watched the Provinces. None of this is luck. The endgame runs on numbers you can see.
 
 ## The values, side by side
 

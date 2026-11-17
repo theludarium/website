@@ -11,7 +11,7 @@ oneIdea: "Three numbers decide whether an open feature will close: tiles that fi
 tryThis: "Once this game, when you are deciding whether to add to a big open feature, work out the three numbers and use the table here before you place."
 nextTeaser: "Next, the two-player duel: the format tournaments play, why sharing means something different with one opponent, and how to win the swing."
 ---
-Welcome to Level 3. At Level 2 you learned to count how many tiles fit a space. Now you put that count to work. Carcassonne is a game of hidden draws, but the draws come from a known set, and that means you can put real odds on the question every strong player asks: will this close?
+Welcome to Level 3. At Level 2 you learned to count how many tiles fit a space. Now you put that count to work. [Carcassonne](https://link.amazon/B012Rr5ed) is a game of hidden draws, but the draws come from a known set, and that means you can put real odds on the question every strong player asks: will this close?
 
 You do not need a calculator. You need three numbers and a feel for one table.
 

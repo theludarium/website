@@ -11,7 +11,7 @@ oneIdea: "Money is worth nothing at the end except to break ties, so its only jo
 tryThis: "In your next game, note the round of every loan you take. Afterward, check whether each one paid for something that scored more than the income it cost."
 nextTeaser: "Next, the scoring math of links: how to count a link before you place it, and why a rival's factory can pay for your canal."
 ---
-Brass: Birmingham is an economic game, but money is not the score. Leftover money only breaks ties, and only after income. The rulebook's first beginner tip says exactly this: do not be afraid of loans, because your final income level is worth no VPs. This lesson turns that tip into numbers.
+[Brass: Birmingham](https://www.amazon.com/dp/1988884047?tag=cubecommonw0a-20) is an economic game, but money is not the score. Leftover money only breaks ties, and only after income. The rulebook's first beginner tip says exactly this: do not be afraid of loans, because your final income level is worth no VPs. This lesson turns that tip into numbers.
 
 ## How the income track works
 

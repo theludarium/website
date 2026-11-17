@@ -11,7 +11,7 @@ oneIdea: "Teach the turn in one breath, then teach the scoring cards one animal 
 tryThis: "Print the teach sheet, set the five A cards in a row facing the newest player, and finish before minute ten by saving overpopulation and keystones for when they come up."
 nextTeaser: "Next, the last piece of Level 0: scoring a full game by hand with the scorepad, so the final count is calm, quick, and correct."
 ---
-Cascadia's turn takes about thirty seconds to explain. The teach goes long somewhere else: at the five scoring cards, where hosts read every card in full, then the habitat bonuses, then the tie rules, while new players stare at a pile of hexes and wonder what any of it looks like.
+[Cascadia](https://link.amazon/B0g1HYFt4)'s turn takes about thirty seconds to explain. The teach goes long somewhere else: at the five scoring cards, where hosts read every card in full, then the habitat bonuses, then the tie rules, while new players stare at a pile of hexes and wonder what any of it looks like.
 
 The fix is to teach the turn fast, then spend most of your ten minutes on the cards, with tiles and tokens in your hands. Here is a script in the order you would say it. Print the [Cascadia teach sheet](/academy/cascadia/teach-sheet/) and set it where everyone can see it.
 

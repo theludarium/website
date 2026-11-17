@@ -24,7 +24,7 @@ levelCheck:
     explain: "A 2:1 port is only as good as the cards you feed it. Plenty of wheat means someone can turn a big wheat income into any card they need, two for one."
 nextTeaser: "Next, you turn your board read into a plan. Lesson 14 lays out the four core strategies, from the city rush to the road race, and how the board tells you which lane to pick."
 ---
-Every Catan board is telling you something. One map is short on brick. Another is drowning in wheat. The players who notice first place with a plan, while everyone else places on instinct.
+Every [Catan](https://link.amazon/B0h8BDGR2) board is telling you something. One map is short on brick. Another is drowning in wheat. The players who notice first place with a plan, while everyone else places on instinct.
 
 In Level 1, you learned to count the pips on a single corner. This lesson zooms out to the whole island. Four questions, about 15 seconds each, and you will know what this map rewards before anyone places a settlement.
 

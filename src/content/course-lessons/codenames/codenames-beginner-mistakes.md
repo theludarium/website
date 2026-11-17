@@ -11,7 +11,7 @@ oneIdea: "Most first-game trouble in Codenames comes from two places: small rule
 tryThis: "After each of your next three games, ask both teams one question: which clue went wrong, and why? Write the answers down. The same few mistakes will show up again and again."
 nextTeaser: "Next, the spymaster's chair. How to read the key before you speak, build a clue your team will get, and give an opening clue for two that sets up the whole game."
 ---
-Your first three games of Codenames are where a table's habits form. Some of those habits are rules slips, quietly played wrong because nobody checked. Others are legal choices that lose games. This lesson covers both, checked against the current 2025 rulebook from Czech Games Edition.
+Your first three games of [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) are where a table's habits form. Some of those habits are rules slips, quietly played wrong because nobody checked. Others are legal choices that lose games. This lesson covers both, checked against the current 2025 rulebook from Czech Games Edition.
 
 If you need a refresher on the rules first, start with [how to play Codenames](/academy/codenames/how-to-play-codenames/).
 

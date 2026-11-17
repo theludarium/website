@@ -11,7 +11,7 @@ oneIdea: "With two players, every point is a swing against one rival. Awards hav
 tryThis: "In your next two-player drafted game, write down the three cards you know your rival drafted each generation. See how many of them they play."
 nextTeaser: "Next, Level 4 begins with Colonies: building colonies, when to trade, and how the trade track rewards good timing."
 ---
-Terraforming Mars plays 1 to 5 players, and it works well with two. A two-player game uses the standard rules with one change: awards have no second place.
+[Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20) plays 1 to 5 players, and it works well with two. A two-player game uses the standard rules with one change: awards have no second place.
 
 That is the only rule change, but it is a different game. Having one rival instead of three or four changes how you value almost everything.
 

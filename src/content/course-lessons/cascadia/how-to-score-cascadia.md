@@ -11,7 +11,7 @@ oneIdea: "Final scoring is a routine, not a scramble: one row at a time, every p
 tryThis: "At the end of your next game, have one player read the scorepad rows out loud in order while everyone counts their own environment. Write every corridor before anyone works out a bonus."
 nextTeaser: "Level 1 starts with your first three games: the rules slips and strategy traps almost every new table falls into, and how to fix each one."
 ---
-The twentieth turn ends, everyone sits back, and the table looks at four colorful patchworks of hexes. Now what? Cascadia's scoring has more rows than its turn has steps, and it is where new tables most often slip. The fix is a fixed order and one simple rule: count your own environment, out loud, one row at a time.
+The twentieth turn ends, everyone sits back, and the table looks at four colorful patchworks of hexes. Now what? [Cascadia](https://link.amazon/B0g1HYFt4)'s scoring has more rows than its turn has steps, and it is where new tables most often slip. The fix is a fixed order and one simple rule: count your own environment, out loud, one row at a time.
 
 This lesson follows the scorepad and the End Game and Scoring section of the current rulebook.
 

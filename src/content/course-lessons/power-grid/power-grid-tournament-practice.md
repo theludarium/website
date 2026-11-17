@@ -16,7 +16,7 @@ It assumes one full game a week plus a few short sessions. Scale it to your life
 
 ## Choose your event
 
-The long-running event we could confirm is the Power Grid tournament at the [World Boardgaming Championships](https://www.boardgamers.org/), held each summer in Pennsylvania. WBC 2027 is scheduled for July 24 to August 1, 2027. The [competitive play lesson](/academy/power-grid/power-grid-tournaments/) covers how it runs. Conventions near you may run their own Power Grid events, so check their schedules too.
+The long-running event we could confirm is the [Power Grid](https://www.amazon.com/dp/B07HM7WZT9?tag=cubecommonw0a-20) tournament at the [World Boardgaming Championships](https://www.boardgamers.org/), held each summer in Pennsylvania. WBC 2027 is scheduled for July 24 to August 1, 2027. The [competitive play lesson](/academy/power-grid/power-grid-tournaments/) covers how it runs. Conventions near you may run their own Power Grid events, so check their schedules too.
 
 Pick one. Put its date on your calendar. Count back six weeks.
 

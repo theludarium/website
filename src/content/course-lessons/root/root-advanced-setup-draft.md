@@ -11,7 +11,7 @@ oneIdea: "Advanced Setup turns faction choice into a draft. The last player pick
 tryThis: "Run one Advanced Setup draft at home this month, and before each pick say aloud which faction you expect the next player to take."
 nextTeaser: "Next, the maps: Winter, Lake, and Mountain, random clearing suits, and the landmarks that tournaments add to each one."
 ---
-Reach is the number the Law of Root gives each faction for how much of the map it can fight over. Add up the reach of every faction at the table: the Law recommends a total of at least 17 for two players, 18 for three, 21 for four, 25 for five, and 28 for six.
+Reach is the number the Law of [Root](https://www.amazon.com/dp/B07F454YF3?tag=cubecommonw0a-20) gives each faction for how much of the map it can fight over. Add up the reach of every faction at the table: the Law recommends a total of at least 17 for two players, 18 for three, 21 for four, 25 for five, and 28 for six.
 
 Welcome to Level 4. Everything below this level assumed someone picked the factions. Competitive Root does not work that way. Tournaments, including the World Boardgaming Championships Root event, use the **Advanced Setup** in Appendix A of the Law, where players draft factions and set them up one at a time. It changes the game before the first turn.
 

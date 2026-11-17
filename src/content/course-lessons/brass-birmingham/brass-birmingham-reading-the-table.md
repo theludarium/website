@@ -11,7 +11,7 @@ oneIdea: "Almost everything in Brass: Birmingham is public: mats, income, VPs, s
 tryThis: "In your next game, before each of your turns, name one thing the player after you is likely to do. Keep a tally of how often you were right."
 nextTeaser: "Next, player counts: how two and three players change the deck, the merchants, the map, and the plans that work best."
 ---
-Brass: Birmingham hides only one thing: the cards in each hand. Everything else sits face up. Each player's mat shows the next tile they can build in every industry. The progress track shows every income level and score. The character tiles show what everyone has spent this round. Good players read all of it.
+[Brass: Birmingham](https://www.amazon.com/dp/1988884047?tag=cubecommonw0a-20) hides only one thing: the cards in each hand. Everything else sits face up. Each player's mat shows the next tile they can build in every industry. The progress track shows every income level and score. The character tiles show what everyone has spent this round. Good players read all of it.
 
 ## Read the mats
 

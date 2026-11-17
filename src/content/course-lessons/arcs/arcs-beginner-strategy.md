@@ -11,7 +11,7 @@ oneIdea: "Your first chapters in Arcs reward a simple plan: grow your economy wi
 tryThis: "In your next game, before you play a card, say which ambition you are trying to win this chapter and who is in second place for it."
 nextTeaser: "Level 2 opens with the card play itself: when to lead, Surpass, Copy, or Pivot, and what the initiative is worth."
 ---
-Arcs gives you a lot of freedom from the first turn, which is exactly why first games stall. Everyone has six cards, a few ships, and no idea what matters. This lesson gives you a plan that works in a base game without leaders or lore. It will not win every game, but it will keep you in the Power race and teach you what the game is asking for.
+[Arcs](https://www.amazon.com/dp/B0D856FJ1J?tag=cubecommonw0a-20) gives you a lot of freedom from the first turn, which is exactly why first games stall. Everyone has six cards, a few ships, and no idea what matters. This lesson gives you a plan that works in a base game without leaders or lore. It will not win every game, but it will keep you in the Power race and teach you what the game is asking for.
 
 ## Read your hand before turn one
 

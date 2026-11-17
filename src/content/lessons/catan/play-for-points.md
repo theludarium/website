@@ -84,7 +84,7 @@ Three-player tables get a fix so they are not unfairly easy. The rules add a dum
 
 ## When should you switch from winning to scoring?
 
-Play to win first. A win is worth more than any number of points, and players come back in Catan more often than you would think. [Lesson 27](/academy/catan/recovering-from-a-bad-start/) showed how.
+Play to win first. A win is worth more than any number of points, and players come back in [Catan](https://link.amazon/B0h8BDGR2) more often than you would think. [Lesson 27](/academy/catan/recovering-from-a-bad-start/) showed how.
 
 But some games end without you. Look for these signs:
 

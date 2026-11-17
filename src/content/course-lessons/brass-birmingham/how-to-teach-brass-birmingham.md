@@ -11,7 +11,7 @@ oneIdea: "Brass: Birmingham is one system played twice, so teach it twice. Teach
 tryThis: "At your next teach, stop after the Canal Era rules and start play. Write the five Rail Era changes on a card and read them out at the break."
 nextTeaser: "Next, the last piece of Level 0: every rule for coal, iron, and beer in one place, including the connection rules that are easiest to get wrong."
 ---
-Brass: Birmingham has a reputation as a hard teach. Part of that is earned: six actions, three resources, two eras, and a scoring rule that counts other people's tiles. Most of it comes from hosts who teach everything up front, Rail Era included, to people who have never placed a tile.
+[Brass: Birmingham](https://www.amazon.com/dp/1988884047?tag=cubecommonw0a-20) has a reputation as a hard teach. Part of that is earned: six actions, three resources, two eras, and a scoring rule that counts other people's tiles. Most of it comes from hosts who teach everything up front, Rail Era included, to people who have never placed a tile.
 
 This lesson is a host script, in the order you would say it. It assumes you know the rules from the [how to play lesson](/academy/brass-birmingham/how-to-play-brass-birmingham/). Print the [teach sheet](/academy/brass-birmingham/teach-sheet/) and put it where everyone can reach it.
 

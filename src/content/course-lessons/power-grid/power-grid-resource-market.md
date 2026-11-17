@@ -11,7 +11,7 @@ oneIdea: "Each fuel has a fixed number of markers and its own refill rate. Compa
 tryThis: "In your next game, at the start of round 3, add up how many markers of each fuel the table's plants burn per round, and compare each total to the refill card."
 nextTeaser: "Next, auctions in depth: what a plant is worth to you, what it is worth to everyone else, and when to open a plant you do not want."
 ---
-The midgame lesson asked you to read the fuel market like a forecast. This lesson gives you the numbers behind the forecast. Fuel in Power Grid is not an endless shop. It is a small pool of wooden markers moving in a loop, and the loop runs at a different speed for each fuel.
+The midgame lesson asked you to read the fuel market like a forecast. This lesson gives you the numbers behind the forecast. Fuel in [Power Grid](https://www.amazon.com/dp/B07HM7WZT9?tag=cubecommonw0a-20) is not an endless shop. It is a small pool of wooden markers moving in a loop, and the loop runs at a different speed for each fuel.
 
 ## What is in the box
 

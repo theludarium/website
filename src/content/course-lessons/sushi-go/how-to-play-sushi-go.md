@@ -11,7 +11,7 @@ oneIdea: "Sushi Go! is one move repeated: pick one card from your hand, reveal i
 tryThis: "Before your next game, read the scoring section below out loud once, then deal a practice hand and score it together. Ten minutes of that, and nobody at the table needs the rulebook."
 nextTeaser: "Next, how to teach it: a five-minute host script that gets cards moving before anyone's attention drifts, with each special card explained the moment it shows up."
 ---
-Sushi Go! is a card game about a sushi conveyor belt. Hands of cards travel around the table like plates on a belt, and each turn you grab one dish before the rest roll on to the next player. It plays in about 15 minutes with 2 to 5 players, and it is one of the cleanest introductions to card drafting there is. Everything below comes from the official Gamewright rules.
+[Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) is a card game about a sushi conveyor belt. Hands of cards travel around the table like plates on a belt, and each turn you grab one dish before the rest roll on to the next player. It plays in about 15 minutes with 2 to 5 players, and it is one of the cleanest introductions to card drafting there is. Everything below comes from the official Gamewright rules.
 
 ![Sushi Go! setup for four players: a draw pile in the middle, a secret hand of 8 cards for each player, and hands passed to the left.](/academy/sushi-go/setup.svg)
 

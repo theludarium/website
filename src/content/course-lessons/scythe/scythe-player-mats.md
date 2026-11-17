@@ -11,7 +11,7 @@ oneIdea: "Your player mat decides which actions come together, what the bottom r
 tryThis: "Next game, find the one section you expect to use most, and plan your first two upgrades and first structure around it."
 nextTeaser: "Level 3 starts with combat: the power dial, the combat card math, the special mech abilities, and when a fight is worth it."
 ---
-In Scythe, your faction is only half of your setup. The other half is the player mat, dealt at random, and it shapes your game just as much. Two players with the same faction and different mats will play very different games. This lesson shows how to read a mat and why Stonemaier bans two pairings.
+In [Scythe](https://www.amazon.com/dp/B01IPUGYK6?tag=cubecommonw0a-20), your faction is only half of your setup. The other half is the player mat, dealt at random, and it shapes your game just as much. Two players with the same faction and different mats will play very different games. This lesson shows how to read a mat and why Stonemaier bans two pairings.
 
 ## What a player mat sets
 

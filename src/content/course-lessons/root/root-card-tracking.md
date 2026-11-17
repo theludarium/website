@@ -11,7 +11,7 @@ oneIdea: "Root hides your hand but shows almost everything else: hand sizes, the
 tryThis: "In your next game, keep a running count of which ambush cards have been played or discarded. Before each attack, check which ones could still match the clearing."
 nextTeaser: "Next, the endgame: counting each faction's points per turn, spotting who reaches 30 first, and choosing the turn to hit the leader."
 ---
-Root is a game of hidden hands, but the Law makes far more public than most players use. Hand sizes are public. The discard pile can be searched. Dominance cards sit beside the map when spent. Every ambush that gets played is gone from someone's hand. A player who tracks these attacks with better odds and defends with better bluffs.
+[Root](https://www.amazon.com/dp/B07F454YF3?tag=cubecommonw0a-20) is a game of hidden hands, but the Law makes far more public than most players use. Hand sizes are public. The discard pile can be searched. Dominance cards sit beside the map when spent. Every ambush that gets played is gone from someone's hand. A player who tracks these attacks with better odds and defends with better bluffs.
 
 ## What the Law makes public
 

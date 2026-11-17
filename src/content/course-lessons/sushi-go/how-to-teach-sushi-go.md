@@ -11,7 +11,7 @@ oneIdea: "Teach pick, reveal, pass, then deal. Point at the scoring on each card
 tryThis: "Time your next teach. Stop talking at five minutes, deal, and keep the teach sheet face up in the middle so new players can check scoring on their own."
 nextTeaser: "Level 1 starts with your first three games: the rules slips almost every new table makes, from wasabi timing to discarding pudding by mistake, and the habits that quietly cost points."
 ---
-Sushi Go! is a gift to anyone who hosts. The core rule fits in one breath, everyone plays at once so no one waits, and a whole game is done before a heavier game would finish its setup. The risk is a host who reads every scoring rule before anyone has touched a card. Teach the move, deal, and let the cards do the rest.
+[Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) is a gift to anyone who hosts. The core rule fits in one breath, everyone plays at once so no one waits, and a whole game is done before a heavier game would finish its setup. The risk is a host who reads every scoring rule before anyone has touched a card. Teach the move, deal, and let the cards do the rest.
 
 Here is a script in the order you would say it. Print the [Sushi Go! teach sheet](/academy/sushi-go/teach-sheet/) and put it in the middle of the table. Our general method for [teaching any game in five minutes](/articles/how-to-teach-a-board-game/) fits this game well.
 

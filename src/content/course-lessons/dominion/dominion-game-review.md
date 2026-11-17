@@ -11,7 +11,7 @@ oneIdea: "Most Dominion losses come down to one or two decisions, and they are u
 tryThis: "After your next three losses, spend five minutes on the review questions here, and write down one decision you would change. Look for a pattern across the three."
 nextTeaser: "Last, a six-week practice plan that puts every level of this course to work before your first championship heat."
 ---
-Losing a Dominion game feels like bad luck in the moment. Your opponent hit $8 three turns in a row; your Witch missed the shuffle. Sometimes it is luck. More often there is a decision behind the luck, and it is usually several turns before the game ended. Strong players find it. This lesson gives you a short routine to do the same.
+Losing a [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) game feels like bad luck in the moment. Your opponent hit $8 three turns in a row; your Witch missed the shuffle. Sometimes it is luck. More often there is a decision behind the luck, and it is usually several turns before the game ended. Strong players find it. This lesson gives you a short routine to do the same.
 
 ## Spread out both decks
 

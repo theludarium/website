@@ -11,7 +11,7 @@ oneIdea: "Judge a pick by the points it adds to what you already have, not by th
 tryThis: "Next game, before each pick, say the points that card adds right now, out loud or in your head: \"This second tempura is 5. That first sashimi is 0 unless two more come.\" Pick the highest real number unless you have a reason not to."
 nextTeaser: "Next, the two cards that score nothing on their own: how to time wasabi and chopsticks so they turn into the biggest picks of the round."
 ---
-Every card in Sushi Go! prints a score, but the printed score can mislead you. Sashimi says 10. Pudding says 6. Tempura says 5. None of those is what one card adds to your total. This lesson turns the rules into a simple chart of points per card, then shows why the real value of a card depends on what is already in front of you.
+Every card in [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) prints a score, but the printed score can mislead you. Sashimi says 10. Pudding says 6. Tempura says 5. None of those is what one card adds to your total. This lesson turns the rules into a simple chart of points per card, then shows why the real value of a card depends on what is already in front of you.
 
 ## Points per card, when it all works out
 

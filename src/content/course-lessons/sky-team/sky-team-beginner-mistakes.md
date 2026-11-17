@@ -11,7 +11,7 @@ oneIdea: "Most early crashes come from two places: small rules slips that nobody
 tryThis: "After each of your next three flights, crash or landing, name the round where things went wrong and the one die that could have saved it. Write both down."
 nextTeaser: "Next, the first rounds: how to place dice without talking, keep the Axis calm, make coffee count, and plan the approach from the very first briefing."
 ---
-Your first three flights of Sky Team are where a crew finds its habits. Some crashes come from rules played slightly wrong, because nobody had the booklet open. Others come from legal choices that cost you the landing three rounds later. This lesson covers both, checked against the Landing Procedure booklet. If you need the rules first, start with [how to play Sky Team](/academy/sky-team/how-to-play-sky-team/).
+Your first three flights of [Sky Team](https://www.amazon.com/dp/B0CHD8RCSJ?tag=cubecommonw0a-20) are where a crew finds its habits. Some crashes come from rules played slightly wrong, because nobody had the booklet open. Others come from legal choices that cost you the landing three rounds later. This lesson covers both, checked against the Landing Procedure booklet. If you need the rules first, start with [how to play Sky Team](/academy/sky-team/how-to-play-sky-team/).
 
 ## Rules slips to catch early
 

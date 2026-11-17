@@ -11,7 +11,7 @@ oneIdea: "Competitive Arcs is mostly four-player Leaders and Lore games scored a
 tryThis: "Read the current WBC Arcs event preview from start to finish, then play one home game under every rule it lists, including Leaders and Lore and a four-hour time limit."
 nextTeaser: "Last, a six-week practice plan: the drills, game counts, and habits that turn a good Arcs player into a ready one."
 ---
-Welcome to Level 5. Arcs is young, but it already has a tournament path, and the best-known event is open to beginners. This lesson covers where Arcs is played for a title, how the main event runs, and how to find games to practice.
+Welcome to Level 5. [Arcs](https://www.amazon.com/dp/B0D856FJ1J?tag=cubecommonw0a-20) is young, but it already has a tournament path, and the best-known event is open to beginners. This lesson covers where Arcs is played for a title, how the main event runs, and how to find games to practice.
 
 ## The World Boardgaming Championships
 

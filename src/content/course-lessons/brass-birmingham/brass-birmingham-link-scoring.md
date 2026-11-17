@@ -11,7 +11,7 @@ oneIdea: "A link scores the link icons in the two locations it touches when the 
 tryThis: "Before each link in your next game, say its value out loud: the icons it touches now, plus the flips you expect before the era ends."
 nextTeaser: "Next, the six industries tile by tile: what each level costs, what it pays, and which ones earn their place in each era."
 ---
-There are only two ways to score in Brass: Birmingham. Industries score what you built. Links score what everyone built at the ends of your routes. The second one is easy to undercount, and it rewards players who do the arithmetic before they place a link.
+There are only two ways to score in [Brass: Birmingham](https://www.amazon.com/dp/1988884047?tag=cubecommonw0a-20). Industries score what you built. Links score what everyone built at the ends of your routes. The second one is easy to undercount, and it rewards players who do the arithmetic before they place a link.
 
 ## The rule in one sentence
 

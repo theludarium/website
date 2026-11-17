@@ -11,7 +11,7 @@ oneIdea: "Online play gives you volume: many games, many kingdoms, no setup. Vol
 tryThis: "This week, play five online games against the computer at its hardest level with random base set kingdoms, then three unranked games against people."
 nextTeaser: "Level 5 begins with competitive Dominion: the World Boardgaming Championships event, online championships, and where to find strong local play."
 ---
-The fastest way to get better at Dominion is to play a lot of it, and the fastest way to play a lot of it is online. The computer shuffles, counts, and sets up every kingdom in a second. A game that takes half an hour at the table goes much faster on a screen. This lesson covers where to play and how to turn those games into skill.
+The fastest way to get better at [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) is to play a lot of it, and the fastest way to play a lot of it is online. The computer shuffles, counts, and sets up every kingdom in a second. A game that takes half an hour at the table goes much faster on a screen. This lesson covers where to play and how to turn those games into skill.
 
 ## The official app
 

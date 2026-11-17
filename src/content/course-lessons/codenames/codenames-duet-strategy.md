@@ -56,7 +56,7 @@ Sudden death is where good notes pay. Every guess is still checked against your 
 
 Once you win at nine turns most of the time, Duet has room to grow:
 
-- **Tighter clocks.** Play with fewer timer tokens or allow fewer mistakes. The free Codenames Companion app has a mission map for Duet, with harder missions that open up after the standard game.
+- **Tighter clocks.** Play with fewer timer tokens or allow fewer mistakes. The free [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) Companion app has a mission map for Duet, with harder missions that open up after the standard game.
 - **More players.** Duet works with two groups, each seeing one side of the key. It plays like a team game, with all the table talk that brings.
 - **Mixed decks.** Shuffle Duet's 400 words with the base game's for a deck neither of you knows by heart.
 

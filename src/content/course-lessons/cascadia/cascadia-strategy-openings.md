@@ -11,7 +11,7 @@ oneIdea: "Your opening starts before turn one, when you read the five scoring ca
 tryThis: "Before your next game, sort the five cards into forgiving and demanding, and pick your two main animals before anyone takes a tile."
 nextTeaser: "Next, tile placement: how to lay tiles as landing spots for the shapes you want, and how to keep your best spots open until the right token comes."
 ---
-Welcome to Level 2. At Level 1 you learned the A cards. Cascadia has four scoring cards for each of its five animals, lettered A to D. One of each goes on the table, so there are 1,024 possible card sets. That is why no two games open the same way. The tiles change, but more than that, the shapes worth building change.
+Welcome to Level 2. At Level 1 you learned the A cards. [Cascadia](https://link.amazon/B0g1HYFt4) has four scoring cards for each of its five animals, lettered A to D. One of each goes on the table, so there are 1,024 possible card sets. That is why no two games open the same way. The tiles change, but more than that, the shapes worth building change.
 
 This lesson reads all twenty cards, in the rulebook's own terms, then turns them into a plan for your first five turns. The exact point tables are printed on the cards; where the rulebook's scoring example gives a number, we use it.
 

@@ -12,7 +12,7 @@ oneIdea: "The midgame is about the people next to you. Read what your neighbors 
 tryThis: "In Age II of your next 7 Wonders game, before each pick, look at the city of the neighbor you pass to and name one card in your hand they want."
 nextTeaser: "Next, coins, trading, and yellow cards, and how to turn your neighbors into a source of income."
 ---
-By Age II, every city has a shape. You can see who is collecting shields, who has three green cards, and who is sitting on a pile of coins. The opening was about your own economy. The midgame is about reading everyone else's, and 7 Wonders rewards the player who looks up from their own cards.
+By Age II, every city has a shape. You can see who is collecting shields, who has three green cards, and who is sitting on a pile of coins. The opening was about your own economy. The midgame is about reading everyone else's, and [7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20) rewards the player who looks up from their own cards.
 
 ## The pass flips
 

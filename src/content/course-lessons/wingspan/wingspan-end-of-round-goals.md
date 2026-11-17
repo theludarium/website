@@ -11,7 +11,7 @@ oneIdea: "The four round goals are public from setup and grow in value each roun
 tryThis: "At setup in your next game, write down one bird or nest type that would help two of the four goals. Check at the end how many goal points it earned you."
 nextTeaser: "Level 2 begins with the midgame: how to tell when your engine is big enough, and when to switch from building to scoring."
 ---
-Every game of Wingspan shows you four goals before anyone keeps a card. Most beginners read each one when its round ends. That is like reading the exam questions after handing in the paper. This lesson closes out Level 1 with the goals: what they count, how they pay, and how to plan for them without bending your whole game around them.
+Every game of [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) shows you four goals before anyone keeps a card. Most beginners read each one when its round ends. That is like reading the exam questions after handing in the paper. This lesson closes out Level 1 with the goals: what they count, how they pay, and how to plan for them without bending your whole game around them.
 
 ## What the goals count
 

@@ -11,7 +11,7 @@ oneIdea: "Each powered city adds less income than the one before, from 12 Elektr
 tryThis: "Before you build in your next game, look up what one more powered city adds to your income on the payout card, and compare it to the full cost of that city plus its fuel."
 nextTeaser: "Level 2 opens with the midgame: turn order as a resource, reading the fuel market, timing Step 2, and claiming the map."
 ---
-Power Grid hands every player the same small card, and most players only use it to look up a number in bureaucracy. Read it as a curve instead, and it explains when to build, when to save, and why the game feels so tight.
+[Power Grid](https://www.amazon.com/dp/B07HM7WZT9?tag=cubecommonw0a-20) hands every player the same small card, and most players only use it to look up a number in bureaucracy. Read it as a curve instead, and it explains when to build, when to save, and why the game feels so tight.
 
 ## The shape of the curve
 

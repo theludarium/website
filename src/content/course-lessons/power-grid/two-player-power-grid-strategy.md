@@ -11,7 +11,7 @@ oneIdea: "The rival company follows fixed rules, so every move it makes is predi
 tryThis: "In your next two-player game, before every auction, say which plant the company will take if nobody changes the market, and decide whether you want that to happen."
 nextTeaser: "Next, reading your opponents: what their plants, fuel, cities, and spending tell you about the moves they will make this round."
 ---
-Power Grid with two players used to be a different, looser game. Recharged fixes that with a third company run by the rules: it has no money, cannot win, and takes plants, fuel, and city spaces for free. The [player counts lesson](/academy/power-grid/power-grid-expansions/) covers the setup. This lesson is about using it.
+[Power Grid](https://www.amazon.com/dp/B07HM7WZT9?tag=cubecommonw0a-20) with two players used to be a different, looser game. Recharged fixes that with a third company run by the rules: it has no money, cannot win, and takes plants, fuel, and city spaces for free. The [player counts lesson](/academy/power-grid/power-grid-expansions/) covers the setup. This lesson is about using it.
 
 The rules below come from the Recharged rulebook's two-player section.
 

@@ -10,7 +10,7 @@ draft: false
 oneIdea: "Sky Team has no leaderboard and needs none. Your progress is the Flight Log: a booklet of circles to check off, from a gentle Montreal morning to Paro on a clear day, with a timer waiting at the end for crews who want more."
 tryThis: "Set yourselves a goal for the month: check off every Routine Landing in the Flight Log, then swap seats and fly them again."
 ---
-You have learned the cockpit, taught it, and landed. The question now is how to keep Sky Team fresh. A cooperative game for two has no rankings to climb, so its challenge comes from the game itself, from new seats, and from new co-pilots.
+You have learned the cockpit, taught it, and landed. The question now is how to keep [Sky Team](https://www.amazon.com/dp/B0CHD8RCSJ?tag=cubecommonw0a-20) fresh. A cooperative game for two has no rankings to climb, so its challenge comes from the game itself, from new seats, and from new co-pilots.
 
 ## Fly the Flight Log as a campaign
 

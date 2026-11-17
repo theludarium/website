@@ -11,7 +11,7 @@ oneIdea: "Maki is a race with only two prizes, 6 and 3, decided against the tabl
 tryThis: "Next game, before each maki pick, count every player's roll icons out loud or in your head. Take maki only if it moves you up a place or protects the place you have."
 nextTeaser: "Next, pudding and the endgame: the race that lasts all three rounds, how much one pudding is worth, and how to play the final round when the scores are close."
 ---
-Maki rolls are the only round-by-round race in Sushi Go!. The player with the most roll icons scores 6, second most scores 3, and everyone else scores nothing. That makes maki very different from every other card. A tempura is worth the same whatever your neighbors do. A maki is worth exactly what it changes in the standings.
+Maki rolls are the only round-by-round race in [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20). The player with the most roll icons scores 6, second most scores 3, and everyone else scores nothing. That makes maki very different from every other card. A tempura is worth the same whatever your neighbors do. A maki is worth exactly what it changes in the standings.
 
 ## The race in numbers
 

@@ -29,7 +29,7 @@ Here is the honest truth about the top of the ladder: very few players win a tit
 
 ## What is the Masters Invitational?
 
-The [Masters Invitational](https://catanevents.com/players/masters/) is a yearly, invite-only event for players who placed in the top 16 at a past U.S. National Championship. Canada and the UK take part too, with their own rewards. CATAN Studio sends invitations in ranked order, and if someone does not answer in time, the seat goes to the next player down.
+The [Masters Invitational](https://catanevents.com/players/masters/) is a yearly, invite-only event for players who placed in the top 16 at a past U.S. National Championship. Canada and the UK take part too, with their own rewards. [CATAN](https://link.amazon/B0h8BDGR2) Studio sends invitations in ranked order, and if someone does not answer in time, the seat goes to the next player down.
 
 It matters because it is a second road into Nationals:
 
@@ -117,7 +117,7 @@ Whether you ever play for a title or not, you now play a better game. Your turns
 
 ## What comes next?
 
-The Ludarium is starting a Catan practice league for players who want to train together. It isn't running yet. Subscribers will be the first to hear when it opens. If that sounds like you, [join the newsletter](/newsletter/).
+The Ludarium is starting a [Catan](https://link.amazon/B0h8BDGR2) practice league for players who want to train together. It isn't running yet. Subscribers will be the first to hear when it opens. If that sounds like you, [join the newsletter](/newsletter/).
 
 And the course is not going anywhere. Come back to [any of the 40 lessons](/academy/catan/) before a big event. The story of how this course began is in [I Came to Cube. I'm Staying for Catan.](/articles/catan-tournament-qualifier/)
 

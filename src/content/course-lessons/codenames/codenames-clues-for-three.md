@@ -11,7 +11,7 @@ oneIdea: "A clue for three is safe when it reaches exactly three words on the wh
 tryThis: "Next time you are spymaster, run the fit count before every clue for three: list every word on the grid the clue could reach. If the list is longer than your number, or holds anything that is not yours, make it a two."
 nextTeaser: "Next, the race: why the second team wins a clean race of clues for two, what each kind of wrong guess costs, and when the odds say to push."
 ---
-Clues for two are the backbone of Codenames, and Level 1 told you to give them most of the time. That advice still holds. But a team that never gives a three leaves a word on the table, and the [next lesson](/academy/codenames/codenames-odds-and-tempo/) shows why the starting team almost always needs at least one bigger clue to win the race.
+Clues for two are the backbone of [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), and Level 1 told you to give them most of the time. That advice still holds. But a team that never gives a three leaves a word on the table, and the [next lesson](/academy/codenames/codenames-odds-and-tempo/) shows why the starting team almost always needs at least one bigger clue to win the race.
 
 This lesson is about how to give that clue without losing the game for it.
 

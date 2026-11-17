@@ -11,7 +11,7 @@ oneIdea: "Most first-game trouble in Arnak comes from two places: small rules sl
 tryThis: "After each of your next three games, write down two numbers for everyone: Fear cards in their deck, and how far their magnifying glass climbed. Compare them to the final scores."
 nextTeaser: "Next, openings. We look at rounds I and II: what your seat gives you, where your first archaeologists go, and what to buy first."
 ---
-Welcome to Level 1. Your first three games of Lost Ruins of Arnak are where habits form. Some of those habits are rules played wrong because nobody checked. Others are legal choices that quietly cost a lot of points. This lesson covers both, checked against the current rulebook and its "Don't Forget" and FAQ sections.
+Welcome to Level 1. Your first three games of [Lost Ruins of Arnak](https://www.amazon.com/dp/B08CD3JVQB?tag=cubecommonw0a-20) are where habits form. Some of those habits are rules played wrong because nobody checked. Others are legal choices that quietly cost a lot of points. This lesson covers both, checked against the current rulebook and its "Don't Forget" and FAQ sections.
 
 ## Rules slips to catch early
 

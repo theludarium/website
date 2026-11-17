@@ -69,4 +69,4 @@ Some Power Cards have thresholds too. They work the same way: if you have the El
 
 <!-- AT OUR TABLE: one line on the Innate Power Levi's table most often forgets to use, and the habit that fixed it. -->
 
-Elements are the most engine-like part of Spirit Island. Our guide to [engine building games](/articles/engine-building-games/) shows the same idea across other games: small choices early that make every later turn stronger.
+Elements are the most engine-like part of [Spirit Island](https://www.amazon.com/dp/B01MUHP51S?tag=cubecommonw0a-20). Our guide to [engine building games](/articles/engine-building-games/) shows the same idea across other games: small choices early that make every later turn stronger.

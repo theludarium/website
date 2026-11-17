@@ -11,7 +11,7 @@ oneIdea: "A great first game of Codenames is decided before the first clue: who 
 tryThis: "Before the first clue, have both spymasters agree out loud on names, abbreviations, and two-word clues. After each game, swap spymasters so someone new gets the key."
 nextTeaser: "Level 1 starts with your first three games: the rules slips and beginner habits that cost new tables the most, and how to fix each one."
 ---
-Codenames teaches in minutes, which makes it easy to under-prepare. First games tend to go wrong in the same few ways: a spymaster frozen for five minutes, one loud operative making every guess, and an argument over whether a clue was allowed. A little planning prevents all three.
+[Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) teaches in minutes, which makes it easy to under-prepare. First games tend to go wrong in the same few ways: a spymaster frozen for five minutes, one loud operative making every guess, and an argument over whether a clue was allowed. A little planning prevents all three.
 
 Keep the [Codenames teach sheet](/academy/codenames/teach-sheet/) on the table. If you need the rules first, start with [how to play Codenames](/academy/codenames/how-to-play-codenames/).
 

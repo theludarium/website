@@ -11,7 +11,7 @@ oneIdea: "With two dice, you hit any one number about 31% of the time. One worke
 tryThis: "Start your next game aiming to keep at least one worker in hand at the start of every turn, and notice how many turns that one worker rescues."
 nextTeaser: "Next, openings: how to read your duchy before the first roll, and how to make phase A, the richest phase, count."
 ---
-Welcome to Level 1. At Level 0 you learned what a die can do. Now you learn what a die is likely to do, and how much control the game really gives you. The answer surprises most new players: a lot. The Castles of Burgundy uses dice, but it hands you the tools to steer them, and a few plain numbers show how far those tools go.
+Welcome to Level 1. At Level 0 you learned what a die can do. Now you learn what a die is likely to do, and how much control the game really gives you. The answer surprises most new players: a lot. [The Castles of Burgundy](https://www.amazon.com/dp/B07R5ZH6FQ?tag=cubecommonw0a-20) uses dice, but it hands you the tools to steer them, and a few plain numbers show how far those tools go.
 
 Every figure here comes from counting the 36 ways two dice can land, using the rulebook's worker rule: each worker changes a die by 1, up or down, and 1 and 6 wrap around.
 

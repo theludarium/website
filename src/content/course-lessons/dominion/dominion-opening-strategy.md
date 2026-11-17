@@ -11,7 +11,7 @@ oneIdea: "Your first two turns always add up to $7, and the two cards you buy co
 tryThis: "Before your next game starts, decide what you will buy with $4 and $3, and with $5 and $2, so your opening turns take seconds instead of minutes."
 nextTeaser: "Next, attacks: Militia, Witch, Bandit, and Bureaucrat, what each one costs you, and how to defend."
 ---
-Dominion openings are the closest thing the game has to chess theory. Every player starts with the same ten cards, so the first two turns follow patterns you can learn once and use forever. The kingdom changes every game, but the math of the opening does not.
+[Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) openings are the closest thing the game has to chess theory. Every player starts with the same ten cards, so the first two turns follow patterns you can learn once and use forever. The kingdom changes every game, but the math of the opening does not.
 
 ## Why your first two turns add to $7
 

@@ -11,7 +11,7 @@ oneIdea: "Every hand travels the whole table and comes back to you. Remember wha
 tryThis: "Next game, on turn one, pick a card from your first hand that you hope will come back to you. Say it to yourself, then watch whether it survives the trip around the table."
 nextTeaser: "Next, the set odds by player count: how often tempura, sashimi, and dumplings actually reach you, and when starting a set is a good bet."
 ---
-New players pick from the hand in front of them. Good players pick from the whole table. In Sushi Go!, every hand goes around in a circle, every pick is revealed face up, and nothing is hidden for long. That makes the game far more readable than it first looks. This lesson covers the three things worth tracking.
+New players pick from the hand in front of them. Good players pick from the whole table. In [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), every hand goes around in a circle, every pick is revealed face up, and nothing is hidden for long. That makes the game far more readable than it first looks. This lesson covers the three things worth tracking.
 
 ## The hand you pass comes back
 

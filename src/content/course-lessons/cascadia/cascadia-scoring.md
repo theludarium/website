@@ -11,7 +11,7 @@ oneIdea: "Every point in Cascadia is countable before the last turn. In the fina
 tryThis: "With five turns left in your next game, jot down your score for each animal and each habitat. On each remaining turn, take the pair that adds the most."
 nextTeaser: "Next, Level 3 opens with the bag: how many of each animal are left, the real odds of overpopulation, and how to tell if the token you need will come."
 ---
-Cascadia games are often close. In the rulebook's own three-player scoring example, the final scores are 98, 97, and 95. Games that tight are decided by a habitat bonus, a single nature token, or one token placed in the right spot on the last turn. The good news is that nothing is hidden. You can count all of it before the end.
+[Cascadia](https://link.amazon/B0g1HYFt4) games are often close. In the rulebook's own three-player scoring example, the final scores are 98, 97, and 95. Games that tight are decided by a habitat bonus, a single nature token, or one token placed in the right spot on the last turn. The good news is that nothing is hidden. You can count all of it before the end.
 
 ## Where the points come from
 

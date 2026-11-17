@@ -11,7 +11,7 @@ oneIdea: "Find your best player count first, then add one thing at a time. For m
 tryThis: "Play your next game at a different player count than usual, with Tokyo Bay if you can reach five. Note how long the Monster in Tokyo lasts."
 nextTeaser: "Last lesson: playing more. Online play, the tournament at the World Boardgaming Championships, and how to find or start a regular game."
 ---
-King of Tokyo plays 2 to 6 players, per IELLO. At 2 the rulebook suggests an optional Energy rule, and at 5 or 6 a second spot, Tokyo Bay, opens. There is no solo mode; King of Tokyo: Duel is a separate game for two.
+[King of Tokyo](https://link.amazon/B0goO6BQA) plays 2 to 6 players, per IELLO. At 2 the rulebook suggests an optional Energy rule, and at 5 or 6 a second spot, Tokyo Bay, opens. There is no solo mode; King of Tokyo: Duel is a separate game for two.
 
 King of Tokyo is a different game at 3 players than at 6, and the family of boxes around it has grown for over a decade. This lesson starts with player counts and the official variants, then walks through the expansions and the standalone games, so you can choose what fits your table.
 

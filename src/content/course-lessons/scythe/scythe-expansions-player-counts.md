@@ -11,7 +11,7 @@ oneIdea: "Scythe's expansions each solve a different problem: more players, a di
 tryThis: "Before buying an expansion, write down the one thing your group would change about Scythe. Then match it to the box in this lesson that changes that thing."
 nextTeaser: "Next, the faction and mat auction: how tournament players bid for their setup, and how to price a pairing in coins."
 ---
-Welcome to Level 4. Scythe's base game covers one to five players and already has a solo mode. Stonemaier then added three main expansions and several smaller add-ons. This lesson covers how the game changes with player count and what each box adds, so you can pick the one that fits your group.
+Welcome to Level 4. [Scythe](https://www.amazon.com/dp/B01IPUGYK6?tag=cubecommonw0a-20)'s base game covers one to five players and already has a solo mode. Stonemaier then added three main expansions and several smaller add-ons. This lesson covers how the game changes with player count and what each box adds, so you can pick the one that fits your group.
 
 ## Player counts in the base game
 

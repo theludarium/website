@@ -15,7 +15,7 @@ Lesson 4 gave you the bust count: add up each number in your row, minus one per 
 
 ## The six modifiers
 
-The 94-card deck holds one each of +2, +4, +6, +8, +10, and x2, per the rulebook. They are not number cards, so they never count toward Flip 7 and you can never bust on one. They go above your row, and they score like this:
+The 94-card deck holds one each of +2, +4, +6, +8, +10, and x2, per the rulebook. They are not number cards, so they never count toward [Flip 7](https://www.amazon.com/dp/B0DWGVM7RY?tag=cubecommonw0a-20) and you can never bust on one. They go above your row, and they score like this:
 
 1. Add your number cards.
 2. If you have the x2, double that total.

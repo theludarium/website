@@ -11,7 +11,7 @@ oneIdea: "A Dominion deck is a known set of cards in a random order. Count the c
 tryThis: "Once this game, before you buy a second terminal, count your deck and look up the collision odds in the table here. Then decide."
 nextTeaser: "Next, reading any kingdom in two minutes: a fixed order of questions that turns ten new cards into a plan."
 ---
-Welcome to Level 3. At Level 2 you learned to build: money, trashing, and engines. Now you put numbers on it. Dominion feels like a game of lucky shuffles, but your deck is a set of cards you chose. You know exactly what is in it. That means you can work out the odds of the hands it will deal you.
+Welcome to Level 3. At Level 2 you learned to build: money, trashing, and engines. Now you put numbers on it. [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) feels like a game of lucky shuffles, but your deck is a set of cards you chose. You know exactly what is in it. That means you can work out the odds of the hands it will deal you.
 
 Every number in this lesson is our own calculation from the card counts, using standard counting for a well-shuffled deck. You do not need to redo the math. You need a feel for a few tables.
 

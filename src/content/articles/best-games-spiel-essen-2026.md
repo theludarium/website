@@ -62,7 +62,7 @@ The praise was for the art, the production, and how well the puzzle fits the the
 
 ### Greenwood
 
-Greenwood is the big autumn game from Feuerland, the publisher of Ark Nova. Christos Giannakoulas and Manolis Zachariadis designed it: you play primordial spirits freeing creatures held by druids, and you can activate your own companions and your opponents'. It plays 1 to 4 at roughly 40 minutes per player, ages 14 and up. It sold out every day of the fair, even with fresh stock each morning.
+Greenwood is the big autumn game from Feuerland, the publisher of [Ark Nova](https://www.amazon.com/dp/B09L6FCP9S?tag=cubecommonw0a-20). Christos Giannakoulas and Manolis Zachariadis designed it: you play primordial spirits freeing creatures held by druids, and you can activate your own companions and your opponents'. It plays 1 to 4 at roughly 40 minutes per player, ages 14 and up. It sold out every day of the fair, even with fresh stock each morning.
 
 **Who it's for:** groups who already enjoy heavy euros. **US timing:** Capstone Games is publishing it in North America, listed for the fourth quarter of 2026.
 
@@ -74,7 +74,7 @@ Greenwood is the big autumn game from Feuerland, the publisher of Ark Nova. Chri
 
 ### Kingdom Come: Deliverance, The Board Game
 
-Czech Games Edition's adaptation of the video game comes from Tomáš Holek, designer of SETI, and Vlaada Chvátil, the designer of Codenames. You play a poor commoner in 15th-century Bohemia rather than a hero, with more than 500 cards in the box. It plays 1 to 4 at about 90 minutes per player. It is a premium, big-box game.
+Czech Games Edition's adaptation of the video game comes from Tomáš Holek, designer of [SETI](https://www.amazon.com/dp/B0CZBCRC3S?tag=cubecommonw0a-20), and Vlaada Chvátil, the designer of [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20). You play a poor commoner in 15th-century Bohemia rather than a hero, with more than 500 cards in the box. It plays 1 to 4 at about 90 minutes per player. It is a premium, big-box game.
 
 **Who it's for:** groups who want one long game night with a story. **US timing:** the English edition launched at the fair, and CGE said US preorders ship in the first quarter of 2027.
 

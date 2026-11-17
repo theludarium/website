@@ -24,9 +24,9 @@ levelCheck:
     explain: "World Championship seats go mostly to national champions. A few other titles can earn one too, like the 2026 Americas Championship, but there is no open entry."
 nextTeaser: "Next, the rules themselves. Lesson 30 covers the official tournament rules that differ from kitchen-table Catan, starting with the big one: the robber is live on turn one."
 ---
-Welcome to Level 4. You can read a board, run a plan, track the table, and close out a game. Now comes a question plenty of Catan players never think to ask: is there somewhere to play this for real?
+Welcome to Level 4. You can read a board, run a plan, track the table, and close out a game. Now comes a question plenty of [Catan](https://link.amazon/B0h8BDGR2) players never think to ask: is there somewhere to play this for real?
 
-Yes. There is a whole ladder of official events, run in the U.S. by CATAN Studio. It starts at a game store near you and ends at a World Championship. This level has one goal: walk into an official qualifier knowing the format, the rules, and the clock. It starts with a map of the whole road.
+Yes. There is a whole ladder of official events, run in the U.S. by [CATAN](https://link.amazon/B0h8BDGR2) Studio. It starts at a game store near you and ends at a World Championship. This level has one goal: walk into an official qualifier knowing the format, the rules, and the clock. It starts with a map of the whole road.
 
 ## Is there really a Catan World Championship?
 

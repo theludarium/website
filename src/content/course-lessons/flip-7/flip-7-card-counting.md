@@ -11,7 +11,7 @@ oneIdea: "The Flip 7 deck is not reshuffled between rounds, so every round chang
 tryThis: "For one whole deck, keep a tiny tally on the scoresheet margin: one mark for each 12 and each 11 that leaves play. Before each hit late in the deck, use the tally instead of the fresh-deck count."
 nextTeaser: "Next, the Flip 7 bonus: how likely seven numbers really are from any row, the six-card moment when the bonus pays, and the one row where it never does."
 ---
-Most card games reshuffle every hand. Flip 7 does not. The rulebook says to set every card from a round to the side and pass the rest of the deck to the next dealer. Only when the deck runs out do the set-aside cards get shuffled into a new one. It even asks players to "keep the card count in mind."
+Most card games reshuffle every hand. [Flip 7](https://www.amazon.com/dp/B0DWGVM7RY?tag=cubecommonw0a-20) does not. The rulebook says to set every card from a round to the side and pass the rest of the deck to the next dealer. Only when the deck runs out do the set-aside cards get shuffled into a new one. It even asks players to "keep the card count in mind."
 
 That rule gives Flip 7 a memory. Lesson 4 used the cards on the table for a single moment; this lesson stretches the idea across rounds.
 

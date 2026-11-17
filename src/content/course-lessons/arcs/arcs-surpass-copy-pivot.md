@@ -11,7 +11,7 @@ oneIdea: "Every Arcs card play is a trade between actions now and the initiative
 tryThis: "In your next game, before each card you play, say out loud what you gain this turn and who will lead next round as a result."
 nextTeaser: "Next, ambitions and scoring: how the markers pay out, when to declare, and how to read who is winning before the chapter ends."
 ---
-Welcome to Level 2. At Level 1 you learned a plan. Now you learn the engine under the plan: the action cards. Arcs borrows from trick-taking games like Hearts or Spades. A suit is led, others follow or break suit, and the highest card in the led suit takes control. But here, every card you play is also your turn's actions.
+Welcome to Level 2. At Level 1 you learned a plan. Now you learn the engine under the plan: the action cards. [Arcs](https://www.amazon.com/dp/B0D856FJ1J?tag=cubecommonw0a-20) borrows from trick-taking games like Hearts or Spades. A suit is led, others follow or break suit, and the highest card in the led suit takes control. But here, every card you play is also your turn's actions.
 
 ## What is the initiative worth?
 

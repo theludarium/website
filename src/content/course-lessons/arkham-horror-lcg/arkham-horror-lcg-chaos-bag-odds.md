@@ -11,7 +11,7 @@ oneIdea: "Your odds on any test are just a count: how many tokens in the bag wou
 tryThis: "Write your campaign's bag on a sticky note next to the agenda, and before each important test say the token count you can survive, such as 9 of 16."
 nextTeaser: "Next, the five classes: what Guardians, Seekers, Rogues, Mystics, and Survivors each do best, and a plan for each core investigator."
 ---
-Arkham Horror: The Card Game uses a bag of tokens instead of dice. That makes the odds easy to work out, because you can see every token that could come out. This lesson uses the chaos bags listed in the Brethren of Ash campaign guide from the 2026 core set. The numbers below are general and spoiler-free.
+[Arkham Horror: The Card Game](https://www.amazon.com/dp/B0GK349WJ7?tag=cubecommonw0a-20) uses a bag of tokens instead of dice. That makes the odds easy to work out, because you can see every token that could come out. This lesson uses the chaos bags listed in the Brethren of Ash campaign guide from the 2026 core set. The numbers below are general and spoiler-free.
 
 ## What is in the bag?
 

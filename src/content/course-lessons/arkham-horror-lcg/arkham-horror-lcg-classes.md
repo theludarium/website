@@ -11,7 +11,7 @@ oneIdea: "Each class is a job on the team. A group wins when someone handles ene
 tryThis: "Before your next scenario, have each player say in one sentence what their investigator does for the team, and who covers the job nobody has."
 nextTeaser: "Level 3 starts with deckbuilding: the rules for a legal deck, how experience buys upgrades, and how to build your first custom deck."
 ---
-Every player card in Arkham Horror: The Card Game belongs to one of five classes, or is neutral. Each investigator draws mainly from their own class and borrows from others as the back of their investigator card allows. The class tells you what your deck is good at and what it will struggle with.
+Every player card in [Arkham Horror: The Card Game](https://www.amazon.com/dp/B0GK349WJ7?tag=cubecommonw0a-20) belongs to one of five classes, or is neutral. Each investigator draws mainly from their own class and borrows from others as the back of their investigator card allows. The class tells you what your deck is good at and what it will struggle with.
 
 This lesson uses the class overviews and starter decks in the 2026 core rulebook. Skill values are listed in the order printed on the cards: willpower, intellect, combat, agility.
 

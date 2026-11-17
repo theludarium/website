@@ -11,7 +11,7 @@ oneIdea: "Codenames is a race counted in turns, not words. Know how many turns e
 tryThis: "At the start of your next game, both spymasters work out how many turns their team needs at two words a turn. Check after each round whether you are ahead of that pace or behind it."
 nextTeaser: "Next, the endgame: how to count what is left on the grid, weigh the assassin, and decide when one more guess is worth it."
 ---
-Most Codenames advice is about single clues. This lesson steps back to the whole game. Two teams race to cover their words, taking turns, and the team that finishes first wins. That makes turns the real currency. Every number in this lesson comes from the grid itself: 9 words for the starting team, 8 for the other, 7 bystanders, and 1 assassin, as set out in the [how to play lesson](/academy/codenames/how-to-play-codenames/).
+Most [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) advice is about single clues. This lesson steps back to the whole game. Two teams race to cover their words, taking turns, and the team that finishes first wins. That makes turns the real currency. Every number in this lesson comes from the grid itself: 9 words for the starting team, 8 for the other, 7 bystanders, and 1 assassin, as set out in the [how to play lesson](/academy/codenames/how-to-play-codenames/).
 
 ## The clean race of twos
 

@@ -11,7 +11,7 @@ oneIdea: "Every new city costs its open space plus the cheapest chain of connect
 tryThis: "Before your next build phase, price your two cheapest possible cities out loud, then price the pair built together in both orders, and build the cheaper plan."
 nextTeaser: "Next, openings: what the first auction does to turn order, when the discount plant pays, and how to stretch your first 50 Elektro."
 ---
-Building is where most Power Grid money goes, and where most counting mistakes happen. The rules are short. The habits that keep the arithmetic honest take a little practice. This lesson covers the rules, a method for pricing a turn, and the small tricks that save Elektro every round.
+Building is where most [Power Grid](https://www.amazon.com/dp/B07HM7WZT9?tag=cubecommonw0a-20) money goes, and where most counting mistakes happen. The rules are short. The habits that keep the arithmetic honest take a little practice. This lesson covers the rules, a method for pricing a turn, and the small tricks that save Elektro every round.
 
 ## The cost of one city
 

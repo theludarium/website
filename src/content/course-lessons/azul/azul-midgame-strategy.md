@@ -11,7 +11,7 @@ oneIdea: "In the midgame, every pick does two things: it gives you tiles, and it
 tryThis: "Before each pick in your next game, name one thing the next player wants. Then check whether your pick gives it to them."
 nextTeaser: "Next, tile counting: what a fresh display usually holds, when the bag runs out, and why the refill is short on the colors everyone has been placing."
 ---
-By the middle of a game of Azul, every wall has a shape and every board has a plan. The opening was about your own wall. The midgame is about the whole table. This is where Azul stops being a quiet puzzle and starts being a contest, even if nobody raises their voice.
+By the middle of a game of [Azul](https://link.amazon/B0bGRYHex), every wall has a shape and every board has a plan. The opening was about your own wall. The midgame is about the whole table. This is where Azul stops being a quiet puzzle and starts being a contest, even if nobody raises their voice.
 
 ## Read every board first
 

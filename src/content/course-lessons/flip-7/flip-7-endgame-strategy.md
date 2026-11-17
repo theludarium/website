@@ -11,7 +11,7 @@ oneIdea: "Near the end, stop playing for the best average round and start playin
 tryThis: "In your next game, once anyone passes 150, have the scorekeeper read every total aloud before each round. Then each player names the round score they need. Watch how differently people play."
 nextTeaser: "Level 3 begins with player counts, variants, and editions: what changes at 3 players versus 12, the official two-player challenge, and how With a Vengeance compares to the original."
 ---
-For most of a Flip 7 game, the math from lesson 4 is your guide: stay when your row is big and risky, hit when it is small and safe. Near the end, that math changes. The game is not about the best average round anymore. It is a race, and races are won on the gap between you and the leader.
+For most of a [Flip 7](https://www.amazon.com/dp/B0DWGVM7RY?tag=cubecommonw0a-20) game, the math from lesson 4 is your guide: stay when your row is big and risky, hit when it is small and safe. Near the end, that math changes. The game is not about the best average round anymore. It is a race, and races are won on the gap between you and the leader.
 
 ## How the game really ends
 

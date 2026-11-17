@@ -11,7 +11,7 @@ oneIdea: "Cotton mills, manufacturers, and potteries only score once they sell. 
 tryThis: "At setup in your next game, name each merchant out loud with what it buys and its bonus. Then build no goods tile without saying which merchant it will sell to."
 nextTeaser: "Next, the Canal Era in depth: what survives into the Rail Era, why level 2 tiles can score twice, and how to spend a short, cheap era well."
 ---
-Half the industries in Brass: Birmingham never flip on their own. Cotton mills, manufacturers, and potteries sit on the board scoring nothing until you take a Sell action. That makes the merchants around the edge of the board some of the most important spaces in the game, and they change every time you play.
+Half the industries in [Brass: Birmingham](https://www.amazon.com/dp/1988884047?tag=cubecommonw0a-20) never flip on their own. Cotton mills, manufacturers, and potteries sit on the board scoring nothing until you take a Sell action. That makes the merchants around the edge of the board some of the most important spaces in the game, and they change every time you play.
 
 ## The merchants change every game
 

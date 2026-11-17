@@ -11,7 +11,7 @@ oneIdea: "Most of your cards are fuel. Only Build cares which card you play, so 
 tryThis: "At the start of each era in your next game, sort your hand into two piles: builds you plan to make and fuel. Spend fuel first, and keep at least one flexible build card as long as you can."
 nextTeaser: "Next, openings: what to do with your single action in the first round, what the markets pay on turn one, and how to set up the second round."
 ---
-Brass: Birmingham deals you 8 cards and lets you do almost anything with them. That freedom hides a puzzle. The cards decide where you can build, and the deck decides when each era ends. Players who understand the deck stop fighting their hand and start planning around it.
+[Brass: Birmingham](https://www.amazon.com/dp/1988884047?tag=cubecommonw0a-20) deals you 8 cards and lets you do almost anything with them. That freedom hides a puzzle. The cards decide where you can build, and the deck decides when each era ends. Players who understand the deck stop fighting their hand and start planning around it.
 
 ## The deck by player count
 

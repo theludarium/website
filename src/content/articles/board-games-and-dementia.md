@@ -30,7 +30,7 @@ Dementia develops slowly, often over many years before diagnosis. A person in th
 
 Researchers try to handle this by excluding anyone diagnosed within the first few years of a study, or by using childhood test scores as a baseline, as the Lothian team did. That strengthens the case. It does not close it. The honest summary from most of the field is that regular mental and social engagement is associated with better cognitive aging, and that board games are one good form of that engagement.
 
-There is also the question of what, exactly, is doing the work. A game of Codenames involves language, memory, inference, reading other people, and laughter. Which part helps? Nobody knows. The research suggests it may be the combination.
+There is also the question of what, exactly, is doing the work. A game of [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) involves language, memory, inference, reading other people, and laughter. Which part helps? Nobody knows. The research suggests it may be the combination.
 
 *If this is useful, the newsletter sends more like it.*
 
@@ -78,7 +78,7 @@ No. No activity has been shown to prevent dementia. Several long-term studies ha
 
 ### Which games are best for brain health?
 
-The research doesn't single out specific titles. Studies have mostly looked at broad categories like cards, chess, and board games. Games that combine thinking with other people, like Codenames, Wingspan, or a standing card game, cover the most ground.
+The research doesn't single out specific titles. Studies have mostly looked at broad categories like cards, chess, and board games. Games that combine thinking with other people, like Codenames, [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), or a standing card game, cover the most ground.
 
 ### Is it better to play alone or with others?
 

@@ -11,7 +11,7 @@ oneIdea: "The final score is one number: cities you can power that last round. C
 tryThis: "When someone is within four cities of the end trigger, write down each player's cities, plant capacity, and a guess at their cash. Update it every round until the game ends."
 nextTeaser: "Next, the plant deck: what is in it at each player count, how fast it shrinks, and how to see the Step 3 card coming."
 ---
-Power Grid's ending looks sudden. Someone builds a pile of cities, the trigger is crossed, and the game is over. But nothing about it is hidden. Plants are face up, cities are on the board, and fuel sits on everyone's plants. You can count the finish a round or two ahead, and plan for it.
+[Power Grid](https://www.amazon.com/dp/B07HM7WZT9?tag=cubecommonw0a-20)'s ending looks sudden. Someone builds a pile of cities, the trigger is crossed, and the game is over. But nothing about it is hidden. Plants are face up, cities are on the board, and fuel sits on everyone's plants. You can count the finish a round or two ahead, and plan for it.
 
 ## How Step 3 arrives
 

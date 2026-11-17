@@ -11,7 +11,7 @@ oneIdea: "In round four, every action has a point value you can count. Count eac
 tryThis: "In round four of your next game, before each turn, say how many points each of your four actions would score right now. Then take the biggest."
 nextTeaser: "Next, player counts, variants, and expansions: what changes from solo to five players, and which box to add first."
 ---
-Wingspan's final scoring rarely holds a surprise for the player who counted. Everything is face up: birds, eggs, goals, even most of the food. In the last round you have only five turns, and each one has a price you can work out. This lesson is that arithmetic.
+[Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20)'s final scoring rarely holds a surprise for the player who counted. Everything is face up: birds, eggs, goals, even most of the food. In the last round you have only five turns, and each one has a price you can work out. This lesson is that arithmetic.
 
 ## Where the points come from
 

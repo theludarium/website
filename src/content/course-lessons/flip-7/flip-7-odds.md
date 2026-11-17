@@ -11,7 +11,7 @@ oneIdea: "Your bust count is simple: each number in your row has one fewer copy 
 tryThis: "Next game, before each hit, add up your bust count and multiply your points by the rough bust chance. If that number is above about 5, lean stay. Keep a tally of how often you were right."
 nextTeaser: "Next, the last piece of Level 1: the plus cards and the x2, and why one of them should make you stop sooner while the other barely changes your stop at all."
 ---
-Flip 7 feels like pure nerve, but there is real math under every flip, and it is friendly math. You do not need a calculator. You need one counting trick, a sense of how the odds climb as your row grows, and one rough rule for when to stop. Every number in this lesson comes from the real 94-card deck: 79 number cards, 6 modifiers, and 9 action cards.
+[Flip 7](https://www.amazon.com/dp/B0DWGVM7RY?tag=cubecommonw0a-20) feels like pure nerve, but there is real math under every flip, and it is friendly math. You do not need a calculator. You need one counting trick, a sense of how the odds climb as your row grows, and one rough rule for when to stop. Every number in this lesson comes from the real 94-card deck: 79 number cards, 6 modifiers, and 9 action cards.
 
 ## Count the cards that can bust you
 

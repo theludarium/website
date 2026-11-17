@@ -84,4 +84,4 @@ Before each buy, ask:
 2. Does this card raise my money per card, or help my deck draw itself?
 3. How many shuffles are left before the game ends?
 
-Our piece on [engine building games](/articles/engine-building-games/) explains why that build-then-score curve feels so good, in Dominion and beyond.
+Our piece on [engine building games](/articles/engine-building-games/) explains why that build-then-score curve feels so good, in [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) and beyond.

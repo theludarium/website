@@ -11,7 +11,7 @@ oneIdea: "The USA map is not even. A few middle cities sit on the path of many t
 tryThis: "Before your next game, find Kansas City, Pittsburgh, and Miami on the board and count the routes into each. Then watch, during the game, how many players build through each one."
 nextTeaser: "Next, player counts, variants, and other maps: what changes at 2 players, what the USA 1910 expansion adds, and which map to try after this one."
 ---
-Every game of Ticket to Ride on the USA map is different, because the tickets and cards are different. The board is not. The same cities sit at the same crossroads every game, and the same handful of routes get fought over again and again. Learning the map's shape is the cheapest skill in the game: you study it once and use it forever.
+Every game of [Ticket to Ride](https://link.amazon/B0jh8RB7f) on the USA map is different, because the tickets and cards are different. The board is not. The same cities sit at the same crossroads every game, and the same handful of routes get fought over again and again. Learning the map's shape is the cheapest skill in the game: you study it once and use it forever.
 
 The counts in this lesson come from the route list of the original USA map, which the 2025 edition keeps, and from our own shortest-path count across the 33 tickets in the current box: the 30 original tickets plus Atlanta to Washington, Omaha to New Orleans, and San Francisco to Washington.
 

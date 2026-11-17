@@ -11,7 +11,7 @@ oneIdea: "Adversaries and scenarios are a difficulty dial with personality. Each
 tryThis: "After your next win without an adversary, play the Kingdom of Brandenburg-Prussia at its base level, and use the rulebook's scoring to compare the two games."
 nextTeaser: "Level 4 begins with Brandenburg-Prussia in depth: every level from Fast Start to the top, how each one reshapes the Invader Deck, and how to stay ahead of it."
 ---
-Spirit Island has eight adversaries: three in the base game and five across the expansions. Each runs from its base level (level 0) up to level 6, and the table below ranks them by how hard they get at the top.
+[Spirit Island](https://www.amazon.com/dp/B01MUHP51S?tag=cubecommonw0a-20) has eight adversaries: three in the base game and five across the expansions. Each runs from its base level (level 0) up to level 6, and the table below ranks them by how hard they get at the top.
 
 | Adversary | Box | Level 0 | Level 6 |
 | --- | --- | --- | --- |

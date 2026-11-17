@@ -26,7 +26,7 @@ nextTeaser: "Next, the bank. Lesson 9 covers when a 4:1 or port trade is the rig
 ---
 On your fourth turn, you would trade almost anything for one brick. By your twentieth, you might be holding three bricks that nobody at the table wants. Same card, different game.
 
-That shift is one of the most useful patterns in Catan. Once you see it, you can plan your settlements, your trades, and even your setup around it.
+That shift is one of the most useful patterns in [Catan](https://link.amazon/B0h8BDGR2). Once you see it, you can plan your settlements, your trades, and even your setup around it.
 
 ## Why does a card's value change during a game?
 

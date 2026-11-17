@@ -11,7 +11,7 @@ oneIdea: "With two players, the board has room for both railroads, so the game b
 tryThis: "In your next two-player game, keep a running margin in your head: your score minus your rival's, including the tickets you can guess. Make every choice the one that grows the margin most."
 nextTeaser: "Next, reading opponents: what the face-up row, ticket draws, and train counts tell you, and when a block is worth a turn."
 ---
-Two-player Ticket to Ride is one of the most popular ways to play, and it is not the same game as a full table. Strategies that win at four or five players can lose at two, and a few moves that are rarely right in a crowd become strong when there is only one rival. This lesson is about those differences.
+Two-player [Ticket to Ride](https://link.amazon/B0jh8RB7f) is one of the most popular ways to play, and it is not the same game as a full table. Strategies that win at four or five players can lose at two, and a few moves that are rarely right in a crowd become strong when there is only one rival. This lesson is about those differences.
 
 ## The board is roomier than it looks
 

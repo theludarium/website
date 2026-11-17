@@ -11,7 +11,7 @@ oneIdea: "At five or six, Tokyo has two seats, eliminations come fast, and the B
 tryThis: "In your next game at five or six, track one number for the whole game: how many Monsters are outside Tokyo at the start of each of your turns. Let it decide whether you stay."
 nextTeaser: "Next, pricing the card row: what one Energy cube is worth in points, how long a Keep card takes to pay back, and when to buy a card just so nobody else gets it."
 ---
-Welcome to Level 3. Everything at Level 2 still holds, but the big table bends it. At five or six players, King of Tokyo is louder, more political, and more dangerous. It is also the count the World Boardgaming Championships uses for every table, as the [tournament lesson](/academy/king-of-tokyo/king-of-tokyo-tournaments/) explains, so it is where an expert's game is tested.
+Welcome to Level 3. Everything at Level 2 still holds, but the big table bends it. At five or six players, [King of Tokyo](https://link.amazon/B0goO6BQA) is louder, more political, and more dangerous. It is also the count the World Boardgaming Championships uses for every table, as the [tournament lesson](/academy/king-of-tokyo/king-of-tokyo-tournaments/) explains, so it is where an expert's game is tested.
 
 ## What the rules change
 

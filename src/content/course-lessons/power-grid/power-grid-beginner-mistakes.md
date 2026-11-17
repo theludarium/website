@@ -11,7 +11,7 @@ oneIdea: "Most first-game trouble comes from two places: small rules slips in th
 tryThis: "At the end of each round in your next game, compare three numbers for every player: cities connected, cities their plants can power, and fuel on hand."
 nextTeaser: "Next, route math: how connection costs add up, why the order you build in matters, and how to price a whole build phase before you pay."
 ---
-Your first three games of Power Grid are where habits form. Some habits are rules played wrong because nobody checked. Others are legal moves that leave you short of money at the worst moment. This lesson covers both, checked against the current Recharged rulebook.
+Your first three games of [Power Grid](https://www.amazon.com/dp/B07HM7WZT9?tag=cubecommonw0a-20) are where habits form. Some habits are rules played wrong because nobody checked. Others are legal moves that leave you short of money at the worst moment. This lesson covers both, checked against the current Recharged rulebook.
 
 ## Rules slips in the markets
 

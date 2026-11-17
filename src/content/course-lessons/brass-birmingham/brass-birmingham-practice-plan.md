@@ -10,7 +10,7 @@ draft: false
 oneIdea: "Getting better at Brass is not about playing more games. It is about playing the right games, drilling the few skills that decide them, and reviewing each one for the leak that cost the most."
 tryThis: "Pick one drill from this lesson and run it in every game for the next two weeks. Write down one sentence after each game about what it showed you."
 ---
-Brass: Birmingham rewards preparation more than most games. The rules are fixed, the deck is fixed by player count, and the decisions that win games repeat. This plan turns the earlier lessons of the course into six weeks of practice. Use it before a tournament, or simply when you want to climb a level.
+[Brass: Birmingham](https://www.amazon.com/dp/1988884047?tag=cubecommonw0a-20) rewards preparation more than most games. The rules are fixed, the deck is fixed by player count, and the decisions that win games repeat. This plan turns the earlier lessons of the course into six weeks of practice. Use it before a tournament, or simply when you want to climb a level.
 
 ## What to practice
 

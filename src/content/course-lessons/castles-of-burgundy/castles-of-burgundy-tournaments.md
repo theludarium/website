@@ -11,7 +11,7 @@ oneIdea: "Competitive Castles of Burgundy is the game you already know, played a
 tryThis: "Play five online games this month with identical random duchies, and after each one compare your score with the winner's. The gap is the clearest measure of how your play is improving."
 nextTeaser: "Next, studying the game online: ranked play, replays, and how to learn from the games of stronger players."
 ---
-The Castles of Burgundy looks like a quiet game of building your own board, and it is one. It is also a game people travel to compete in, with a long-running championship at the World Boardgaming Championships, a ring event at the World Series of Board Gaming, and a busy ranked scene online. You do not need to enter any of them. But knowing how competitive play works sharpens how you play at home.
+[The Castles of Burgundy](https://www.amazon.com/dp/B07R5ZH6FQ?tag=cubecommonw0a-20) looks like a quiet game of building your own board, and it is one. It is also a game people travel to compete in, with a long-running championship at the World Boardgaming Championships, a ring event at the World Series of Board Gaming, and a busy ranked scene online. You do not need to enter any of them. But knowing how competitive play works sharpens how you play at home.
 
 ## How tournament play differs from home play
 

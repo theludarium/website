@@ -11,7 +11,7 @@ oneIdea: "Most Arkham rules errors come from three places: what provokes attacks
 tryThis: "At the start of your next game, read this lesson's three headline sections aloud, then name one player as the round-order keeper who calls out each phase."
 nextTeaser: "Next, skill tests in depth: when to commit cards, when to hold them, and how to help a friend's test."
 ---
-Arkham Horror: The Card Game is a game where small rules errors add up. Skip one attack of opportunity a round and the scenario is much easier than it should be. Forget that doom on enemies counts, and the agenda never seems to move. This lesson collects the slips that show up most, checked against the 2026 core rulebook, its "Easily Missed Rules" list, and the Arkham Grimoire v1.1.
+[Arkham Horror: The Card Game](https://www.amazon.com/dp/B0GK349WJ7?tag=cubecommonw0a-20) is a game where small rules errors add up. Skip one attack of opportunity a round and the scenario is much easier than it should be. Forget that doom on enemies counts, and the agenda never seems to move. This lesson collects the slips that show up most, checked against the 2026 core rulebook, its "Easily Missed Rules" list, and the Arkham Grimoire v1.1.
 
 ## Attacks of opportunity
 

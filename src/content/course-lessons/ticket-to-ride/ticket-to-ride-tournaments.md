@@ -11,7 +11,7 @@ oneIdea: "Competitive Ticket to Ride is the game you already play, with four pla
 tryThis: "Play three four-player games this month and keep score sheets. Note your ticket score and whether you had the longest path in each. Those two numbers show where your game is growing."
 nextTeaser: "Next, the USA 1910 Mega Game: the format WBC plays in its later rounds, and how more tickets change what you keep and when you draw."
 ---
-Ticket to Ride looks like a family game, and it is one. It is also a serious tournament game, with a long-running event at the World Boardgaming Championships, a full weekend of events at Gen Con in Indianapolis, and a busy online scene. You do not need to win any of them to enjoy them. But knowing they exist changes how you look at the game at home.
+[Ticket to Ride](https://link.amazon/B0jh8RB7f) looks like a family game, and it is one. It is also a serious tournament game, with a long-running event at the World Boardgaming Championships, a full weekend of events at Gen Con in Indianapolis, and a busy online scene. You do not need to win any of them to enjoy them. But knowing they exist changes how you look at the game at home.
 
 ## How tournament Ticket to Ride differs from home play
 

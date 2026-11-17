@@ -11,7 +11,7 @@ oneIdea: "The landing is won in round 6. Arrive at the final round with the sky 
 tryThis: "In the briefing before round 6, read the four landing conditions out loud and name which ones are already true. Whatever is not true is the plan for the next two rounds."
 nextTeaser: "Next, Level 2 opens with the numbers: what four dice can and cannot do, and how one coffee changes the odds."
 ---
-Every round of Sky Team leads to one moment: the final round, when the airport shows in the position screen and the airplane picture shows in the altitude screen at the same time. The rulebook calls it great timing. It is also where most first landings slip away, usually because of something left undone two rounds earlier.
+Every round of [Sky Team](https://www.amazon.com/dp/B0CHD8RCSJ?tag=cubecommonw0a-20) leads to one moment: the final round, when the airport shows in the position screen and the airplane picture shows in the altitude screen at the same time. The rulebook calls it great timing. It is also where most first landings slip away, usually because of something left undone two rounds earlier.
 
 ## What changes in the final round
 

@@ -11,7 +11,7 @@ oneIdea: "The visitor bag is predictable on average: about 1 visitor in 8 is a h
 tryThis: "For your next three games, note each Park Phase's excitement and hooligans drawn. Compare your hooligan total with your total visitors divided by 8."
 nextTeaser: "Next, player counts, plot twists, and variants: how Dinosaur Island changes from two players to four, and the rule cards that change every game."
 ---
-Dinosaur Island has two random elements you live with every round: the visitors you draw from the bag, and the DNA dice, including the one that lands in the holding area. You cannot control either. You can know what to expect, and build a park that does well across the likely outcomes. This lesson puts numbers on both.
+[Dinosaur Island](https://www.amazon.com/dp/B06Y3BS8YD?tag=cubecommonw0a-20) has two random elements you live with every round: the visitors you draw from the bag, and the DNA dice, including the one that lands in the holding area. You cannot control either. You can know what to expect, and build a park that does well across the likely outcomes. This lesson puts numbers on both.
 
 ## The bag at a glance
 

@@ -24,7 +24,7 @@ levelCheck:
     explain: "Roads built for Longest Route score nothing once you stop chasing it, and your settlements still produce for the old plan. Switching is sometimes right, but it always has a cost."
 nextTeaser: "Next, where you sit. Lesson 15 shows how first, second, third, and fourth pick change which lane you can get, and why fourth pick is not a curse."
 ---
-Ask a few strong Catan players how they won their last game, and you will hear a few different stories. One rushed cities. One built roads everywhere and took Longest Route. One sat on a wheat port and traded with the supply all game. One took a little of everything and adapted.
+Ask a few strong [Catan](https://link.amazon/B0h8BDGR2) players how they won their last game, and you will hear a few different stories. One rushed cities. One built roads everywhere and took Longest Route. One sat on a wheat port and traded with the supply all game. One took a little of everything and adapted.
 
 They are not making it up as they go. These are the four core strategies, and nearly every winning game follows one of them. This lesson lays out all four, what each one needs, and how to choose yours. The short version: pick one early, and stick with it unless the board forces a change.
 

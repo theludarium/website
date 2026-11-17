@@ -11,7 +11,7 @@ oneIdea: "Every placement is evidence, and so is every space your partner chose 
 tryThis: "In your next flight, before your last die of each round, say silently to yourself what your partner's remaining dice probably are. Check behind their screen at the end of the round."
 nextTeaser: "Next, the Heroic Landings: Wind, Ice Brakes, the Kerosene Leak, the 60-second clock, and the Special Ability cards that help you survive them."
 ---
-Welcome to Level 3. You can budget a flight, put odds on your dice, and fly the first modules. What separates an expert crew is quieter: each player knows roughly what the other is holding before the round is half over. Sky Team gives you everything you need to work it out. The Landing Procedure's tips call a die both an action and information for your teammate. This lesson is about reading that information on purpose.
+Welcome to Level 3. You can budget a flight, put odds on your dice, and fly the first modules. What separates an expert crew is quieter: each player knows roughly what the other is holding before the round is half over. [Sky Team](https://www.amazon.com/dp/B0CHD8RCSJ?tag=cubecommonw0a-20) gives you everything you need to work it out. The Landing Procedure's tips call a die both an action and information for your teammate. This lesson is about reading that information on purpose.
 
 ## Three kinds of evidence
 

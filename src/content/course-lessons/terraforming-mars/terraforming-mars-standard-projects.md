@@ -11,7 +11,7 @@ oneIdea: "The standard projects are the board's price list. They are always open
 tryThis: "In your next game, before you play any card, compare it with the standard project that does the closest thing. Say out loud which one is cheaper."
 nextTeaser: "Next, the map: placement bonuses, ocean money, where cities belong, and why your first tiles decide where your greeneries can go."
 ---
-Terraforming Mars has six standard projects printed on the board: Sell Patents (1 M€ per card you discard), Power Plant (11 M€), Asteroid (14 M€), Aquifer (18 M€), Greenery (23 M€), and City (25 M€). Any player can use them on their turn, as an action, with no card needed.
+[Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20) has six standard projects printed on the board: Sell Patents (1 M€ per card you discard), Power Plant (11 M€), Asteroid (14 M€), Aquifer (18 M€), Greenery (23 M€), and City (25 M€). Any player can use them on their turn, as an action, with no card needed.
 
 Welcome to Level 1. At Level 0 you learned the rules. Now you start learning what things are worth, and the best place to begin is that strip of six projects. They never change, and each one may be used several times in the same generation. That makes them a price list for the whole game.
 

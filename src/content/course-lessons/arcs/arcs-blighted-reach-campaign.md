@@ -11,7 +11,7 @@ oneIdea: "The Blighted Reach turns Arcs into three linked games. Your Fate gives
 tryThis: "Before Act I, have each player read both of their A Fate cards aloud after choosing, and agree as a table to explain every new card that enters the rules booklet."
 nextTeaser: "Level 5 opens with competitive Arcs: the WBC event, how heats and points work, and where to find tournament games."
 ---
-The Blighted Reach is the campaign expansion for Arcs. It needs the base game, and its rules are firm about one thing: play at least one single-session game first, and make sure everyone is comfortable with the base rules. Otherwise, it warns, expect a long and tedious first game. With that done, the campaign is the biggest version of Arcs there is.
+The Blighted Reach is the campaign expansion for [Arcs](https://www.amazon.com/dp/B0D856FJ1J?tag=cubecommonw0a-20). It needs the base game, and its rules are firm about one thing: play at least one single-session game first, and make sure everyone is comfortable with the base rules. Otherwise, it warns, expect a long and tedious first game. With that done, the campaign is the biggest version of Arcs there is.
 
 ## Three Acts
 

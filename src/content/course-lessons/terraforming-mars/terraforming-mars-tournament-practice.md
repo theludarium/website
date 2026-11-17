@@ -10,7 +10,7 @@ draft: false
 oneIdea: "Tournament skill comes from playing the event's setup many times, on a clock, and reviewing every game by category. Volume, setup, time, review: every week."
 tryThis: "Pick one event from the tournaments lesson, put its date on your calendar, and count back eight weeks. Start week one with a single game under that event's setup."
 ---
-You know the rules, the strategy paths, the draft, the expansions, and the tournament procedure. The last step is practice that matches what you will face: four players, a draft, the event's expansions, unfamiliar boards, and a clock. Terraforming Mars games are long, so the plan is built around fewer, fuller games, with short drills in between.
+You know the rules, the strategy paths, the draft, the expansions, and the tournament procedure. The last step is practice that matches what you will face: four players, a draft, the event's expansions, unfamiliar boards, and a clock. [Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20) games are long, so the plan is built around fewer, fuller games, with short drills in between.
 
 The plan assumes about four to six hours a week. Scale it to your life, but keep all four parts.
 

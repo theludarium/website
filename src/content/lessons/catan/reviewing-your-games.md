@@ -94,7 +94,7 @@ One review is a story. Twenty are data. Every couple of weeks, read back through
 Reviews need games, and a weekly table only gives you a few. Online play gets you many more. Two options, as of October 2026:
 
 - **[Colonist](https://colonist.io/)** runs in a web browser and has apps for iOS and Android. It is free to play, with practice games against bots, games with friends, and ranked modes with leaderboards. A paid membership unlocks all of its maps and expansions.
-- **[CATAN Universe](https://www.catanuniverse.com/en/)** is the official digital CATAN, a free download for Android, iOS, Mac, and Windows. Free play covers base game matches against two other players. The full base game and the expansions are in-app purchases. One account works across your devices, and seasons have their own leaderboards.
+- **[CATAN Universe](https://www.catanuniverse.com/en/)** is the official digital [CATAN](https://link.amazon/B0h8BDGR2), a free download for Android, iOS, Mac, and Windows. Free play covers base game matches against two other players. The full base game and the expansions are in-app purchases. One account works across your devices, and seasons have their own leaderboards.
 
 Online games are quicker, which is the point. You can play and review several in the time one takes at a table. Two cautions. Online trading moves fast with little talk, so table talk ([Lesson 24](/academy/catan/table-talk-and-negotiation/)) still needs real tables. And apps change their modes and prices, so check what is current before you count on a feature.
 

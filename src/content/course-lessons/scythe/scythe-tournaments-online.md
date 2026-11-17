@@ -11,7 +11,7 @@ oneIdea: "Competitive Scythe has no official circuit. It lives in convention and
 tryThis: "This week, find one Scythe event or online group near your level, read its rules on mat pairing and time, and play one practice game under those rules."
 nextTeaser: "Last, a six-week practice plan that uses solo games, the auction, and timed turns to get you ready for your first event."
 ---
-Welcome to Level 5. Scythe is a competitive game with a loyal following, but it is not run like a card game with a ranked ladder. Stonemaier says so plainly on its tournament guidelines page: there is no official Scythe tournament organization. Competitive Scythe is run by fans, stores, clubs, and conventions. This lesson shows what those events look like and where to find them.
+Welcome to Level 5. [Scythe](https://www.amazon.com/dp/B01IPUGYK6?tag=cubecommonw0a-20) is a competitive game with a loyal following, but it is not run like a card game with a ranked ladder. Stonemaier says so plainly on its tournament guidelines page: there is no official Scythe tournament organization. Competitive Scythe is run by fans, stores, clubs, and conventions. This lesson shows what those events look like and where to find them.
 
 ## How a Scythe tournament usually runs
 

@@ -11,7 +11,7 @@ oneIdea: "An auction turns Scythe's small setup imbalances into a price. Bid wha
 tryThis: "Work out your coins per turn from your last two games (final score divided by your turns). Use that number to price the next pairing you bid on."
 nextTeaser: "Level 5 starts with competitive Scythe: where tournaments and online events happen, and how to find a game at your level."
 ---
-Random setup is part of Scythe's charm, and the rulebook says the higher-numbered mats get slightly better starting tracks to balance turn order. But serious players want a fair start, and a random deal will now and then hand one player a pairing everyone else would have chosen. The answer in competitive Scythe is an auction. This lesson covers what Stonemaier's guidelines say, then how to price a pairing.
+Random setup is part of [Scythe](https://www.amazon.com/dp/B01IPUGYK6?tag=cubecommonw0a-20)'s charm, and the rulebook says the higher-numbered mats get slightly better starting tracks to balance turn order. But serious players want a fair start, and a random deal will now and then hand one player a pairing everyone else would have chosen. The answer in competitive Scythe is an auction. This lesson covers what Stonemaier's guidelines say, then how to price a pairing.
 
 ## What the tournament guidelines say
 

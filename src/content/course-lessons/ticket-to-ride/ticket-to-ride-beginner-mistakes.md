@@ -11,7 +11,7 @@ oneIdea: "Most first-game trouble comes from two places: small rules slips aroun
 tryThis: "After each of your next three games, write down every player's ticket score, completed minus failed. Whoever lost the fewest points to failed tickets usually learned the most."
 nextTeaser: "Next, openings. We look at which tickets to keep, what to do with your first few turns, and which routes to claim before anyone else does."
 ---
-Your first three games of Ticket to Ride are where habits form. Some are rules slips, quietly played wrong because nobody checked. Others are legal moves that cost a lot of points. This lesson covers both, checked against the current Days of Wonder rulebook.
+Your first three games of [Ticket to Ride](https://link.amazon/B0jh8RB7f) are where habits form. Some are rules slips, quietly played wrong because nobody checked. Others are legal moves that cost a lot of points. This lesson covers both, checked against the current Days of Wonder rulebook.
 
 ## Rules slips to catch early
 

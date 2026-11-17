@@ -26,7 +26,7 @@ nextTeaser: "Next, the last lesson of Level 3. Lesson 28, How to Review Your Own
 ---
 Every player gets bad starts. You picked fourth and the best corners vanished. Your 6 never rolls. The robber moved in on turn two. Ten minutes in, the leader is pulling away and you have a hand full of wool.
 
-A bad start is not a lost game. Catan gives a trailing player real ways back, and the table often helps without meaning to. This lesson covers what to build, which trades help, the two catch-up paths, and how to stay close enough to strike.
+A bad start is not a lost game. [Catan](https://link.amazon/B0h8BDGR2) gives a trailing player real ways back, and the table often helps without meaning to. This lesson covers what to build, which trades help, the two catch-up paths, and how to stay close enough to strike.
 
 ## How bad is your start, really?
 

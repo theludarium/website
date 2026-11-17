@@ -11,7 +11,7 @@ oneIdea: "Fear is your second road to victory. Every Fear Card you earn moves yo
 tryThis: "In your next game, say the Fear count out loud whenever a Fear Card is earned, and before each Spirit Phase work out how much more Fear the next Terror Level needs."
 nextTeaser: "Next, Growth and Energy: how to choose a Growth option, which Presence Track to empty first, and when a Major Power is worth what it costs."
 ---
-New players often try to win Spirit Island by destroying everything. At Terror Level 1 that is the only way: the Island needs to be clear of every Invader. But the game gives you a second lever. Frighten the Invaders enough and they start to give up, and the bar for victory drops.
+New players often try to win [Spirit Island](https://www.amazon.com/dp/B01MUHP51S?tag=cubecommonw0a-20) by destroying everything. At Terror Level 1 that is the only way: the Island needs to be clear of every Invader. But the game gives you a second lever. Frighten the Invaders enough and they start to give up, and the bar for victory drops.
 
 ## Where Fear comes from
 

@@ -11,7 +11,7 @@ oneIdea: "Every tile has three kinds of value: what the space gives you now, wha
 tryThis: "Before you place your first city in your next game, count the open, non-ocean spaces around it. Aim for a spot with at least three that could hold a greenery."
 nextTeaser: "Next, Level 2 begins with strategy paths: plants, heat, cities, space, and science, and how to tell which one your cards are pointing you toward."
 ---
-The map in Terraforming Mars looks like decoration at first. It is a scoring engine of its own. Greeneries and cities score each other, oceans pay their neighbors, and the printed bonuses on each space can be worth a card or more. This lesson is about reading the board before you put anything on it.
+The map in [Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20) looks like decoration at first. It is a scoring engine of its own. Greeneries and cities score each other, oceans pay their neighbors, and the printed bonuses on each space can be worth a card or more. This lesson is about reading the board before you put anything on it.
 
 All of it uses the Tharsis map from the base game and the current FryxGames rulebook.
 

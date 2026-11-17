@@ -11,7 +11,7 @@ oneIdea: "Most first-game trouble comes from two places: small rules slips about
 tryThis: "After each of your next three games, count how many meeples each player had left on unfinished features. Whoever stranded the fewest usually learned the most."
 nextTeaser: "Next, the meeple economy: how many turns you get, how many meeples you have, and why the ratio decides most games."
 ---
-Your first three games of Carcassonne are where habits form. Some are rules mistakes, quietly played wrong because nobody checked. Others are legal moves that cost a lot of points. This lesson covers both, checked against the current rulebook and supplemental rulesheet.
+Your first three games of [Carcassonne](https://link.amazon/B012Rr5ed) are where habits form. Some are rules mistakes, quietly played wrong because nobody checked. Others are legal moves that cost a lot of points. This lesson covers both, checked against the current rulebook and supplemental rulesheet.
 
 ## Rules slips to catch early
 

@@ -11,7 +11,7 @@ oneIdea: "Every scenario is a race between two decks: the act deck you push forw
 tryThis: "For your first game, play the opening scenario of the core campaign on Easy or Standard with the starter decks, and read each new keyword aloud the first time it appears."
 nextTeaser: "Next, how to teach it: a host script that gets a new table through setup and its first round in about ten minutes."
 ---
-Arkham Horror: The Card Game is a cooperative card game for 1 to 4 players from Fantasy Flight Games. Each player is one investigator with their own deck, and together you work through scenarios in a horror story set in and around the town of Arkham.
+[Arkham Horror: The Card Game](https://www.amazon.com/dp/B0GK349WJ7?tag=cubecommonw0a-20) is a cooperative card game for 1 to 4 players from Fantasy Flight Games. Each player is one investigator with their own deck, and together you work through scenarios in a horror story set in and around the town of Arkham.
 
 This lesson follows the 2026 core set, the one Fantasy Flight calls the start of Chapter Two, and its living rules document, the Arkham Grimoire v1.1. The rules are the same game players have known since 2016, with a few updates noted in the rulebook. It stays spoiler-free: nothing here goes past the setup of the first scenario.
 

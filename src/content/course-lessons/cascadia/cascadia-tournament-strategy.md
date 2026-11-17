@@ -10,7 +10,7 @@ draft: false
 oneIdea: "In a winners-only heat, second place and last place are the same result. Play to finish first at your table, watch the leader as closely as your own environment, and practice the way the event plays."
 tryThis: "Pick one event, such as the next WBC Cascadia event, and put its date on your calendar. Count back six weeks and start week one of the plan here."
 ---
-The [tournaments lesson](/academy/cascadia/cascadia-tournaments/) covered where competitive Cascadia happens and how the World Boardgaming Championships event runs. This lesson turns that format into a way of playing, then gives you six weeks of practice to get ready.
+The [tournaments lesson](/academy/cascadia/cascadia-tournaments/) covered where competitive [Cascadia](https://link.amazon/B0g1HYFt4) happens and how the World Boardgaming Championships event runs. This lesson turns that format into a way of playing, then gives you six weeks of practice to get ready.
 
 The details below come from the [WBC 2026 Cascadia preview](https://www.boardgamers.org/wbc26/Previews/cas.html). Check the current year's preview before any event; formats change.
 

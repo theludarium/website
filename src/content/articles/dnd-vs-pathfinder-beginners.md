@@ -29,7 +29,7 @@ Both games can tell the same stories. The difference is in how much the rules sa
 | Teach time for a new GM | Hours of reading; many video guides | More reading; the rules answer more questions for you |
 | Character options | Moderate; choices mostly at creation and a few levels | Very many; a meaningful choice at almost every level |
 | Free rules | Basic rules free online | Complete rules free online |
-| Starter product | Heroes of the Borderlands Starter Set | Pathfinder Beginner Box |
+| Starter product | Heroes of the Borderlands Starter Set | [Pathfinder Beginner Box](https://www.amazon.com/dp/1640787852?tag=cubecommonw0a-20) |
 | What it's best at | Getting a new group playing fast, with the most support material in the hobby | Tactical combat, character building, and rules that stay consistent at high level |
 
 Player counts and session lengths are typical practice, not publisher rules.

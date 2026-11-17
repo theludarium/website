@@ -11,7 +11,7 @@ oneIdea: "In round 1, the plant you buy also buys your seat in turn order. A big
 tryThis: "In your next first auction, before you bid, say which seat you want for round 1's fuel and building phases, and bid to land there."
 nextTeaser: "Next, the payout card read as a curve: when a new city pays for itself, why capacity beats cities, and how to plan cash a round ahead."
 ---
-Power Grid has no fixed opening. The starting market is a random 8 plants from 03 to 15, and the play area changes every game. But the first three rounds follow patterns, and the players who handle them well treat them the same way: buy a seat, not just a plant, start where the map is quiet, and keep enough money to fuel what they own.
+[Power Grid](https://www.amazon.com/dp/B07HM7WZT9?tag=cubecommonw0a-20) has no fixed opening. The starting market is a random 8 plants from 03 to 15, and the play area changes every game. But the first three rounds follow patterns, and the players who handle them well treat them the same way: buy a seat, not just a plant, start where the map is quiet, and keep enough money to fuel what they own.
 
 ## Round 1 is a seating auction
 

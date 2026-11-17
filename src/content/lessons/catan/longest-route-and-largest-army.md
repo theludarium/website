@@ -24,7 +24,7 @@ levelCheck:
     explain: "You need 6 Knights to beat 5. With Knights at 14 of 25 cards, 5 more takes about 5 / 0.56, or 9 cards, and 27 resources you do not produce. Spend those turns on points you can reach."
 nextTeaser: "Next, the last lesson of Level 2. Lesson 20, Ports as an Engine, shows how to turn one 2:1 port and the resource that feeds it into your own private bank."
 ---
-Most points in Catan stay put. Once you build a settlement, it is yours for good. Two points are different. Longest Route and Largest Army can be taken from you, and you can take them from someone else.
+Most points in [Catan](https://link.amazon/B0h8BDGR2) stay put. Once you build a settlement, it is yours for good. Two points are different. Longest Route and Largest Army can be taken from you, and you can take them from someone else.
 
 That makes them the most dramatic points in the game. This lesson is about when they are worth your cards, when to fight for them, and when to shrug and build something else.
 

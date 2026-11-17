@@ -11,7 +11,7 @@ oneIdea: "The Provinces are not the only clock. A player who can empty three pil
 tryThis: "Set up the rulebook's Size Distortion kingdom with two players. One plays Workshop and Gardens, the other plays Witch and money. Swap and play again."
 nextTeaser: "Next, player counts, variants, and expansions: how the game changes from 2 to 6 players, and which expansion to add first."
 ---
-Most Dominion plans try to build a good deck. A rush does the opposite. It builds a big, clumsy deck on purpose, scores points by size, and ends the game on piles before the other players are ready. In the base set, the rush is Workshop and Gardens, and it is worth knowing from both sides of the table.
+Most [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) plans try to build a good deck. A rush does the opposite. It builds a big, clumsy deck on purpose, scores points by size, and ends the game on piles before the other players are ready. In the base set, the rush is Workshop and Gardens, and it is worth knowing from both sides of the table.
 
 ## How Gardens scores
 

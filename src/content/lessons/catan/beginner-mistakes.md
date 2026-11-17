@@ -24,7 +24,7 @@ levelCheck:
     explain: "Roads score nothing on their own, so each one needs a job. Reaching a named spot or blocking a contested corner is a job. Spare cards are not."
 nextTeaser: "Next, Level 2: Trader begins. Lesson 13, Read Any Catan Board in 60 Seconds, gives you four quick questions that tell you what any map rewards before anyone places a settlement."
 ---
-Most Catan games are not lost to bad dice. They are lost to a handful of habits that show up game after game. The good news is that habits are easier to fix than dice.
+Most [Catan](https://link.amazon/B0h8BDGR2) games are not lost to bad dice. They are lost to a handful of habits that show up game after game. The good news is that habits are easier to fix than dice.
 
 Here are the seven we see most, with a fix for each. A few of them are quick recaps of earlier Level 1 lessons. That is on purpose. This lesson is your checklist for the whole level.
 

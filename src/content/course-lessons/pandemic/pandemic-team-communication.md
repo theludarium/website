@@ -13,7 +13,7 @@ nextTeaser: "Level 3 opens with odds: how likely the next Epidemic is on any dra
 ---
 The Introductory game has everyone play with cards face up. Standard and Heroic do not. The [rulebook](https://cdn.svc.asmodee.net/production-zman/uploads/2024/09/Pandemic_Rulebook.pdf) says to keep your cards private in those games, so that everyone has information to contribute. Experienced groups may choose open hands, but the default is closed.
 
-That one change is the start of Level 2's last idea. Closed hands do not make Pandemic a game of secrets. They make it a game of conversation, and conversation can be done well or badly.
+That one change is the start of Level 2's last idea. Closed hands do not make [Pandemic](https://link.amazon/B0eHP5GCg) a game of secrets. They make it a game of conversation, and conversation can be done well or badly.
 
 ## What closed hands change
 

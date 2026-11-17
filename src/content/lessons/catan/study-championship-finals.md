@@ -24,13 +24,13 @@ levelCheck:
     explain: "One change at a time is how the three-line review works too. Try a single habit for a few games and check whether it helps before you add another."
 nextTeaser: "Next, the last lesson. Lesson 40, The Long Game: Masters, International Events, and Your Training Group, looks past one season: the Masters Invitational, the World Championship, and the group that keeps you sharp for years."
 ---
-Every Catan player has the same coach available, for free. It is the best players in the world, playing for a title, on camera. Most people watch a final the way they watch a sports highlight. They enjoy it, and they learn very little.
+Every [Catan](https://link.amazon/B0h8BDGR2) player has the same coach available, for free. It is the best players in the world, playing for a title, on camera. Most people watch a final the way they watch a sports highlight. They enjoy it, and they learn very little.
 
 This lesson shows you how to watch a final the way a coach would. Where to find one, how to predict each player's plan before they place, what to write down turn by turn, and how to turn one annotated final into better games of your own.
 
 ## Where can you watch championship finals?
 
-On CATAN's official YouTube channel, [youtube.com/@catancommunity](https://www.youtube.com/@catancommunity). As of October 2026, it has streams and videos from several championship events, including:
+On [CATAN](https://link.amazon/B0h8BDGR2)'s official YouTube channel, [youtube.com/@catancommunity](https://www.youtube.com/@catancommunity). As of October 2026, it has streams and videos from several championship events, including:
 
 - [CATAN US National Championship Finals 2026](https://www.youtube.com/watch?v=Bqoe8y4awR0), streamed from Chicago in September 2026. It runs about six hours, so skip ahead to the final table.
 - [The 2023 U.S. National Championship final](https://www.youtube.com/watch?v=XIb2iapTrcw), about two and a half hours.

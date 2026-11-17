@@ -11,7 +11,7 @@ oneIdea: "The 48 dominoes are a fixed set: 39 crowns across six terrains, spread
 tryThis: "Next game, track only the eight richest dominoes, numbers 41 to 48. Tick each one off as it appears in a line. By the last few rounds, you will know exactly which big crowns are still in the box."
 nextTeaser: "Next, the shape of your kingdom: where to put the castle, how to keep lanes open, and how to finish a full 5 by 5 without a single discard."
 ---
-Kingdomino looks like a game of luck: four dominoes come out, and you take one. But the dominoes are not a random mix. The box holds the same 48 every time, and the crowns are spread across them in a very particular way. Learn the set and the luck shrinks.
+[Kingdomino](https://link.amazon/B08l49zvA) looks like a game of luck: four dominoes come out, and you take one. But the dominoes are not a random mix. The box holds the same 48 every time, and the crowns are spread across them in a very particular way. Learn the set and the luck shrinks.
 
 Every number below comes from counting the real tiles and checking the total against the tally printed on the back of the rulebook.
 

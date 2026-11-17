@@ -71,4 +71,4 @@ Roosts are buildings, so every roost an enemy removes scores them a point and co
 
 Against the Marquise, the Learning to Play guide says the Eyrie must grow explosively to keep the Marquise in check. Fast roosts mean fast points and fewer clearings for her wood. Against the Vagabond, the guide adds a warning: build a Decree that can survive his quick strikes, because one removed warrior can leave a Move or Battle order impossible.
 
-The Eyrie show how Root builds a faction's rules around its character, a theme our piece on [theme versus mechanics](/articles/theme-vs-mechanics/) explores.
+The Eyrie show how [Root](https://www.amazon.com/dp/B07F454YF3?tag=cubecommonw0a-20) builds a faction's rules around its character, a theme our piece on [theme versus mechanics](/articles/theme-vs-mechanics/) explores.

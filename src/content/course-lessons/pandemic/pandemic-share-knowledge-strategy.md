@@ -11,7 +11,7 @@ oneIdea: "A shared card can only change hands in the city it names. Plan every s
 tryThis: "In your next game, when a player needs one more card for a cure, name the city on that card and plan, out loud, the fastest way to get both pawns there."
 nextTeaser: "Next, Event cards: what each of the five does best, the exact moments you can play them, and why holding them too long loses games."
 ---
-Most cures in Pandemic are not drawn. They are built, one shared card at a time. Teams that lose to the Player deck usually had the cards. The cards were just in the wrong hands, in the wrong cities, at the wrong time. This lesson is about fixing that.
+Most cures in [Pandemic](https://link.amazon/B0eHP5GCg) are not drawn. They are built, one shared card at a time. Teams that lose to the Player deck usually had the cards. The cards were just in the wrong hands, in the wrong cities, at the wrong time. This lesson is about fixing that.
 
 ## The rule that shapes everything
 

@@ -11,7 +11,7 @@ oneIdea: "Almost everything a rival must do this round is visible: their plants,
 tryThis: "Before each auction in your next game, write one line per rival: cities, capacity, fuel short, and a cash guess. Check your cash guesses whenever money changes hands."
 nextTeaser: "Level 4 begins with five-player Power Grid: the tournament table, why it is the tightest map in the game, and how to play it."
 ---
-Strong Power Grid players seem to know what everyone will do. They are not guessing. Power Grid puts almost all of a company on display, and the few hidden things can be estimated. This lesson is a routine for reading the table, and the moves it opens up.
+Strong [Power Grid](https://www.amazon.com/dp/B07HM7WZT9?tag=cubecommonw0a-20) players seem to know what everyone will do. They are not guessing. Power Grid puts almost all of a company on display, and the few hidden things can be estimated. This lesson is a routine for reading the table, and the moves it opens up.
 
 ## What is public
 

@@ -11,7 +11,7 @@ oneIdea: "Tournament Carcassonne is the base game plus a handful of procedures: 
 tryThis: "Play three games against a friend on a chess clock app at 15 minutes each, using the World Championship procedures here, including showing your next tile before you place it."
 nextTeaser: "Last, a practice plan: how to train your two-player game over the weeks before a qualifier, online and across the table."
 ---
-The rules of Carcassonne do not change at a tournament. The procedures around them do. A clock runs. Tiles cannot be taken back. Your meeples sit where your opponent can see them. And at most events, you cannot write anything down.
+The rules of [Carcassonne](https://link.amazon/B012Rr5ed) do not change at a tournament. The procedures around them do. A clock runs. Tiles cannot be taken back. Your meeples sit where your opponent can see them. And at most events, you cannot write anything down.
 
 This lesson walks through the [World Championship tournament rules](https://carcassonne-meisterschaft.de/en/tournamentrules.htm), the procedures for the final itself, then the main differences at the World Boardgaming Championships. Always read the rules for your own event; organizers can and do vary them.
 

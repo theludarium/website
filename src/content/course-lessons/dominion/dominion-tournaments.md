@@ -11,7 +11,7 @@ oneIdea: "Competitive Dominion is the game you already know, played with random 
 nextTeaser: "Next, the tournament rules in detail: the one-hour round, randomizing the kingdom, bidding for your seat, and how ties break."
 tryThis: "Play five two-player games with random kingdoms this month. Before each one, give yourself two minutes to name your opening and your plan, then check how it went."
 ---
-Dominion looks like a quiet card game, and it is one. It also has a long competitive life: a championship event at the World Boardgaming Championships since 2009, official online championships, team events between countries, and ranked ladders you can join tonight. You do not need to win any of them to enjoy them. Knowing how they work changes how you play at home.
+[Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) looks like a quiet card game, and it is one. It also has a long competitive life: a championship event at the World Boardgaming Championships since 2009, official online championships, team events between countries, and ranked ladders you can join tonight. You do not need to win any of them to enjoy them. Knowing how they work changes how you play at home.
 
 ## How tournament Dominion differs from home play
 

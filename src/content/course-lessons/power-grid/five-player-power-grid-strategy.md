@@ -11,7 +11,7 @@ oneIdea: "At five players, the play area holds exactly seven cities per player i
 tryThis: "In your next five-player game, after round 2, count the empty Step 1 cities left in the play area and divide by the number of players. Use that number to decide how fast to build."
 nextTeaser: "Next, reading a new map: a five-minute scan for any Power Grid board, so a map you have never played does not cost you the opening."
 ---
-Welcome to Level 4. You have the rules, the economy, and the reading habits. Now you play the game the way tournaments play it. The World Boardgaming Championships event prefers five-player tables and uses four only when it has to. Five is also the count where Power Grid's limits all press at once.
+Welcome to Level 4. You have the rules, the economy, and the reading habits. Now you play the game the way tournaments play it. The World Boardgaming Championships event prefers five-player tables and uses four only when it has to. Five is also the count where [Power Grid](https://www.amazon.com/dp/B07HM7WZT9?tag=cubecommonw0a-20)'s limits all press at once.
 
 ## The map is exactly full
 

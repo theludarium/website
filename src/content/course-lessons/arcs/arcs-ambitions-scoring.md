@@ -11,7 +11,7 @@ oneIdea: "Ambitions are the only scoring in Arcs, so every declaration is a bet.
 tryThis: "At the start of each chapter in your next game, write down the five ambitions and who leads each one. Update it every round and declare only from that list."
 nextTeaser: "Level 3 opens with the battle dice: what assault, skirmish, and raid dice really do, and how to build a pool for the job."
 ---
-Every point of Power in a base game of Arcs comes from ambitions. There are no points for ships, cities, or cards on their own. They matter only because they help you place in a declared ambition. Once that clicks, every choice in the game has a measuring stick.
+Every point of Power in a base game of [Arcs](https://www.amazon.com/dp/B0D856FJ1J?tag=cubecommonw0a-20) comes from ambitions. There are no points for ships, cities, or cards on their own. They matter only because they help you place in a declared ambition. Once that clicks, every choice in the game has a measuring stick.
 
 ## The five ambitions
 

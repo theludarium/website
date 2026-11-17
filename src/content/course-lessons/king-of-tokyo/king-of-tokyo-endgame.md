@@ -11,7 +11,7 @@ oneIdea: "Near the end, count before you roll. Know how many points you need, ho
 tryThis: "In your next game, once anyone reaches 15 points, say out loud before each roll what you need to win this turn, and what the leader needs on theirs."
 nextTeaser: "Level 3 begins with the big table: five and six players, two Monsters in Tokyo at once, and the politics of who gets hit."
 ---
-King of Tokyo has two finish lines, and the endgame is about choosing which one to run for. You win by reaching 20 points or by being the last Monster standing. The game ends at the end of a turn when either happens. Every turn near the end, you should know which finish is closer, for you and for everyone else.
+[King of Tokyo](https://link.amazon/B0goO6BQA) has two finish lines, and the endgame is about choosing which one to run for. You win by reaching 20 points or by being the last Monster standing. The game ends at the end of a turn when either happens. Every turn near the end, you should know which finish is closer, for you and for everyone else.
 
 ## Two ways to win, one rule that overrides both
 

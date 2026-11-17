@@ -11,7 +11,7 @@ oneIdea: "Terraforming Mars has more interaction than it looks. Attacks, the map
 tryThis: "Before each of your turns in your next game, name the player in the lead and one thing you could do this turn that slows them down. Do it only if it costs you little."
 nextTeaser: "Next, the two-player game: how the duel changes awards, the draft, attacks, and the race to end the game."
 ---
-Terraforming Mars has a reputation as a game where everyone builds their own engine and the others are scenery. Our [engine building explainer](/articles/engine-building-games/) says as much. That is fair for a first game. At Level 3, it is no longer true. There are at least five ways your turn touches someone else's, and using them well wins close games.
+[Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20) has a reputation as a game where everyone builds their own engine and the others are scenery. Our [engine building explainer](/articles/engine-building-games/) says as much. That is fair for a first game. At Level 3, it is no longer true. There are at least five ways your turn touches someone else's, and using them well wins close games.
 
 ## 1. Red-bordered attacks
 

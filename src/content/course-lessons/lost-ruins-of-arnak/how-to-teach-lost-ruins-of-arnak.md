@@ -11,7 +11,7 @@ oneIdea: "Teach the shape of a round and the travel rule, then let the board tea
 tryThis: "Print the teach sheet, deal everyone's starting hand before you start talking, and stop your teach the moment you finish one example turn."
 nextTeaser: "Next, the last piece of Level 0: travel costs and icons in detail, so every payment at the table is right the first time."
 ---
-Lost Ruins of Arnak has a lot of pieces on the table, and that tempts hosts to explain every one of them before anyone moves. Assistants, idol slots, guardian boons, temple tiles: by the time the host reaches the research track, half the table has stopped listening.
+[Lost Ruins of Arnak](https://www.amazon.com/dp/B08CD3JVQB?tag=cubecommonw0a-20) has a lot of pieces on the table, and that tempts hosts to explain every one of them before anyone moves. Assistants, idol slots, guardian boons, temple tiles: by the time the host reaches the research track, half the table has stopped listening.
 
 The fix is to teach the round, teach the travel rule, show one turn, and play. The board and the cards carry most of the detail on their own. Here is a script in the order you would say it. Print the [Lost Ruins of Arnak teach sheet](/academy/lost-ruins-of-arnak/teach-sheet/) and put it where everyone can see it. Czech Games Edition also offers a free player aid in the Downloads section of its [Lost Ruins of Arnak page](https://czechgames.com/games/lost-ruins-of-arnak), and the box includes a quick reference sheet with the travel icons on it.
 

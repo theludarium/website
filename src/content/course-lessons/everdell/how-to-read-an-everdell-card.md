@@ -11,7 +11,7 @@ oneIdea: "Every Everdell card answers the same five questions in the same places
 tryThis: "Before your next game, pick any four cards from the Meadow and say, for each one, its cost, its color, Common or Unique, its points, and its link. It takes a minute, and it is the fastest way to learn the deck."
 nextTeaser: "Level 1 starts with your first three games: the rules slips and strategy traps nearly every new table falls into, and how to fix each one."
 ---
-Everdell has 128 Critter and Construction cards, and new players often feel they must learn them all. They don't. Every card is laid out the same way, so once you know where to look, any card in the Meadow reads in a few seconds. This lesson walks around a card the way the rulebook labels it, then covers the one rule about what happens, in order, when a card is played.
+[Everdell](https://www.amazon.com/dp/B09ZWQTTNR?tag=cubecommonw0a-20) has 128 Critter and Construction cards, and new players often feel they must learn them all. They don't. Every card is laid out the same way, so once you know where to look, any card in the Meadow reads in a few seconds. This lesson walks around a card the way the rulebook labels it, then covers the one rule about what happens, in order, when a card is played.
 
 ## The top left: what it costs
 

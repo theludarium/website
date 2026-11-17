@@ -11,7 +11,7 @@ oneIdea: "Money in Ark Nova arrives in waves at each break. Spend before the wav
 tryThis: "Before each break in your next game, count the money you expect from appeal, kiosks, and income icons, and spend down toward zero before it arrives."
 nextTeaser: "Next, reputation and the display: how your reputation decides which cards you can reach, what universities add, and why 9 is a wall."
 ---
-A common first-game wall in Ark Nova: a hand full of great animals and 4 money. The animals are the exciting part, but money decides how many of them you can actually play. This lesson is about the economy behind the zoo: where money comes from, where it goes, and how sponsor cards turn into engines.
+A common first-game wall in [Ark Nova](https://www.amazon.com/dp/B09L6FCP9S?tag=cubecommonw0a-20): a hand full of great animals and 4 money. The animals are the exciting part, but money decides how many of them you can actually play. This lesson is about the economy behind the zoo: where money comes from, where it goes, and how sponsor cards turn into engines.
 
 ## Where does money come from?
 

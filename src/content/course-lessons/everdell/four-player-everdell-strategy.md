@@ -11,7 +11,7 @@ oneIdea: "Four-player Everdell is faster, more crowded, and more about reading t
 tryThis: "In your next four-player game, keep a running tally on paper of each opponent's card colors and open city spaces. Update it after every card they play, and see how often it changes your move."
 nextTeaser: "Last, a practice plan: six weeks of four-player games, timed sessions, scoring drills, and honest reviews before your first event."
 ---
-The World Boardgaming Championships Everdell event plays four players to a table where possible, with seats assigned at random, base game only, and two hours per round, according to its [2026 preview](https://www.boardgamers.org/wbc26/previews/evd.html). If you want to compete, this is the game to learn. It is the same game you play at home, but four players changes its rhythm.
+The World Boardgaming Championships [Everdell](https://www.amazon.com/dp/B09ZWQTTNR?tag=cubecommonw0a-20) event plays four players to a table where possible, with seats assigned at random, base game only, and two hours per round, according to its [2026 preview](https://www.boardgamers.org/wbc26/previews/evd.html). If you want to compete, this is the game to learn. It is the same game you play at home, but four players changes its rhythm.
 
 ## What changes at four
 

@@ -11,7 +11,7 @@ oneIdea: "With two players, almost everything you take is something your opponen
 tryThis: "Play three two-player games in a row. Before each of your moves, name one thing it denies your opponent: a space, a card, a bonus tile, or a temple tile."
 nextTeaser: "Next, the race to the Lost Temple: counting the steps, planning the resources, and timing your arrival so the best spaces and tiles are yours."
 ---
-Lost Ruins of Arnak plays 1 to 4 players, and two is a full game with its own setup: each of the 5 starting sites holds one archaeologist, and every temple stack has 2 tiles.
+[Lost Ruins of Arnak](https://www.amazon.com/dp/B08CD3JVQB?tag=cubecommonw0a-20) plays 1 to 4 players, and two is a full game with its own setup: each of the 5 starting sites holds one archaeologist, and every temple stack has 2 tiles.
 
 ## How many players
 

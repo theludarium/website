@@ -11,7 +11,7 @@ oneIdea: "With two players, every shared resource is a duel. Fewer open project 
 tryThis: "In your next two-player game, before each turn, name the one project level your rival is closest to. When you can take it first without hurting your own plan, do."
 nextTeaser: "Next, your Final Scoring card: how to choose which to keep, when to commit, and how to squeeze its last point."
 ---
-Ark Nova plays 1 to 4 players, with a solo mode in the base box. With two, the rules block one level on each base conservation project and three donation spaces, and the rest of the game plays as written.
+[Ark Nova](https://www.amazon.com/dp/B09L6FCP9S?tag=cubecommonw0a-20) plays 1 to 4 players, with a solo mode in the base box. With two, the rules block one level on each base conservation project and three donation spaces, and the rest of the game plays as written.
 
 ## How many players
 

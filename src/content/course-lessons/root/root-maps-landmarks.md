@@ -11,7 +11,7 @@ oneIdea: "Every Root map changes which clearings matter. Before the draft, read 
 tryThis: "Before your next game on a new map, spend two minutes naming the three clearings you would most want to rule and why, then compare answers after the game."
 nextTeaser: "Next, the Exiles and Partisans deck: the shared deck tournaments use, what it keeps from the base deck, and the new powers it adds."
 ---
-The Autumn map is where everyone learns Root, and many groups never leave it. Tournaments do. The 2026 World Boardgaming Championships Root event played its first heat on the Autumn map, then used a random map for later rounds. A tournament-ready player needs to read any Woodland at a glance.
+The Autumn map is where everyone learns [Root](https://www.amazon.com/dp/B07F454YF3?tag=cubecommonw0a-20), and many groups never leave it. Tournaments do. The 2026 World Boardgaming Championships Root event played its first heat on the Autumn map, then used a random map for later rounds. A tournament-ready player needs to read any Woodland at a glance.
 
 This lesson covers the maps in the base game and the expansions, their special rules from the Law, and where landmarks come in.
 

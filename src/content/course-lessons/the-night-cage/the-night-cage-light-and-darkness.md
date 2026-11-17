@@ -11,7 +11,7 @@ oneIdea: "The Draw Stack is the only clock in The Night Cage. Every tile drawn, 
 tryThis: "Before each Move, say out loud how many new tiles it will draw. If another Move does the same job for fewer tiles, take that one instead."
 nextTeaser: "Next, Wax Eaters: how their line of sight works, why the board's wrapping edges matter, and how to step out of an attack before it lands."
 ---
-The Night Cage has no round track, no timer, and no countdown cards. It has a stack of tiles sitting in a candle-shaped Tile Holder. The rules call those tiles the Draw Stack and say they represent the remaining candlelight and any hope of escape. Their advice is short: conserve their use. This lesson is about what that means in practice.
+[The Night Cage](https://www.amazon.com/dp/B08VC23895?tag=cubecommonw0a-20) has no round track, no timer, and no countdown cards. It has a stack of tiles sitting in a candle-shaped Tile Holder. The rules call those tiles the Draw Stack and say they represent the remaining candlelight and any hope of escape. Their advice is short: conserve their use. This lesson is about what that means in practice.
 
 ## The Draw Stack is your clock
 

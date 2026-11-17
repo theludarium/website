@@ -38,7 +38,7 @@ The U.S. season runs from one Nationals to the next. Right now it is the 2026 to
 | Regional Preliminary | Local listings promised "summer 2026," with the date and place announced later | Finish in the top 13 |
 | National Championship | Chicago, late September 2026 | Win it all |
 
-Two honest notes. First, as of October 2026, the 2027 dates and locations for the Regional Preliminaries and Nationals have not been announced. Second, CATAN Studio reviews the program every year and has said more changes are coming. So write your plan in pencil, and check the [official U.S. regional page](https://catanevents.com/players/champ/us-regional/) every month or so.
+Two honest notes. First, as of October 2026, the 2027 dates and locations for the Regional Preliminaries and Nationals have not been announced. Second, [CATAN](https://link.amazon/B0h8BDGR2) Studio reviews the program every year and has said more changes are coming. So write your plan in pencil, and check the [official U.S. regional page](https://catanevents.com/players/champ/us-regional/) every month or so.
 
 ## How many locals should you enter?
 

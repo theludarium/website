@@ -11,7 +11,7 @@ oneIdea: "Online play gives you the volume no home table can, and two of the fou
 tryThis: "This week, play three four-player Ark Nova games online at a real-time pace, and after each one write down the single turn that cost you the most."
 nextTeaser: "Last, a practice plan: eight weeks to turn everything in this course into results at WBC, a qualifier, or your own best score."
 ---
-A strong home group might play Ark Nova once or twice a month. A player chasing the top can play that many in a day online. Volume is not everything, but it is where patterns become instinct. And for the 2026 to 2027 season, online play is also a direct path to the world championship.
+A strong home group might play [Ark Nova](https://www.amazon.com/dp/B09L6FCP9S?tag=cubecommonw0a-20) once or twice a month. A player chasing the top can play that many in a day online. Volume is not everything, but it is where patterns become instinct. And for the 2026 to 2027 season, online play is also a direct path to the world championship.
 
 ## The two main platforms
 

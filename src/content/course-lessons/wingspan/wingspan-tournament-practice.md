@@ -10,7 +10,7 @@ draft: false
 oneIdea: "Tournament Wingspan rewards wins, not good seconds. Practice under the event's rules, at four players, on a clock, and review each game by scorepad row so every week fixes one weakness."
 tryThis: "This week, play two four-player games under World Boardgaming Championships rules, finish each inside two hours including setup, and circle your weakest scorepad row."
 ---
-The [tournaments lesson](/academy/wingspan/wingspan-tournaments/) showed where competitive Wingspan happens. This last lesson is about getting ready for it: a plan you can follow over about six weeks, built on the skills from every level of this course.
+The [tournaments lesson](/academy/wingspan/wingspan-tournaments/) showed where competitive [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) happens. This last lesson is about getting ready for it: a plan you can follow over about six weeks, built on the skills from every level of this course.
 
 Rules and format details below come from the World Boardgaming Championships (WBC) [2026 event preview](https://www.boardgamers.org/wbc26/previews/wsn.html). Always check the current event page before you go.
 

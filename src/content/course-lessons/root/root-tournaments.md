@@ -11,7 +11,7 @@ oneIdea: "Competitive Root is mostly four-player Root under Advanced Setup, with
 tryThis: "Read the most recent WBC Root event preview from start to finish, then play one home game under every rule it lists."
 nextTeaser: "Next, practicing online: how to use Root's digital edition and its bots to get the volume of games a tournament asks for."
 ---
-Welcome to Level 5. Root is a game of table talk and shifting alliances, which makes it an unusual tournament game. It is played competitively anyway, and the best-known event welcomes newcomers. This lesson covers where Root is played for a title, how the events run, and how to find a game near you.
+Welcome to Level 5. [Root](https://www.amazon.com/dp/B07F454YF3?tag=cubecommonw0a-20) is a game of table talk and shifting alliances, which makes it an unusual tournament game. It is played competitively anyway, and the best-known event welcomes newcomers. This lesson covers where Root is played for a title, how the events run, and how to find a game near you.
 
 ## The World Boardgaming Championships
 

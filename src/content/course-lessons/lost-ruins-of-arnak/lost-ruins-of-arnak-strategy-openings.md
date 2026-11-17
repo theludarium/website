@@ -11,7 +11,7 @@ oneIdea: "Rounds I and II are about building capacity, not points. Every card, a
 tryThis: "Before your first turn of round I, plan both archaeologist moves and one research step, then check which cards in your hand will pay for them."
 nextTeaser: "Next, the research track up close: how the glass and notebook climb, what the rows give you, and why assistants pay best when recruited early."
 ---
-Lost Ruins of Arnak has no fixed opening. The card row, the idols, and the site tiles change every game. But the first two rounds still follow patterns. The idea under all of them is simple: anything you gain early gets used again later. An item bought in round I can be drawn in rounds II through V. An assistant recruited in round I can be used once in every round from then on. A point scored in round I is just a point.
+[Lost Ruins of Arnak](https://www.amazon.com/dp/B08CD3JVQB?tag=cubecommonw0a-20) has no fixed opening. The card row, the idols, and the site tiles change every game. But the first two rounds still follow patterns. The idea under all of them is simple: anything you gain early gets used again later. An item bought in round I can be drawn in rounds II through V. An assistant recruited in round I can be used once in every round from then on. A point scored in round I is just a point.
 
 ## Read your seat
 

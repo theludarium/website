@@ -10,7 +10,7 @@ draft: false
 oneIdea: "Flip 7 gets better the more rounds you play and the more people you play with. Online play builds your feel for the odds; a public game night or a home bracket brings the crowd the game was made for."
 tryThis: "Play ten quick games online this month and keep one note per game: the round score you most often stayed on. Then bring that number to your next in-person game and see if it holds up."
 ---
-You can learn Flip 7 in five minutes and play it for years. This last lesson is about getting more games in: online when no one is around, in a real tournament if you want one, and at public game nights and home brackets, where a game built for a crowd is at its best.
+You can learn [Flip 7](https://www.amazon.com/dp/B0DWGVM7RY?tag=cubecommonw0a-20) in five minutes and play it for years. This last lesson is about getting more games in: online when no one is around, in a real tournament if you want one, and at public game nights and home brackets, where a game built for a crowd is at its best.
 
 ## Play online
 

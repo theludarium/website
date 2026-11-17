@@ -12,7 +12,7 @@ oneIdea: "Age I builds the economy everything else runs on. Read your Wonder boa
 tryThis: "Before your next first pick, name the two resources your Wonder stages need most, and decide how you will get each one: build it, or buy it from a neighbor."
 nextTeaser: "Next, how to read any Wonder board, Day or Night, and turn its stages into a plan for all three Ages."
 ---
-7 Wonders has no fixed opening the way chess does. The cards come out in a different order every time. But the first Age follows patterns, and players who win often treat it the same way: build the economy first, and let the points come later.
+[7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20) has no fixed opening the way chess does. The cards come out in a different order every time. But the first Age follows patterns, and players who win often treat it the same way: build the economy first, and let the points come later.
 
 ## Read your board before your first pick
 

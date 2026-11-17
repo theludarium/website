@@ -11,7 +11,7 @@ oneIdea: "Zero and unlimited clues are not about the clue word. They are about t
 tryThis: "Agree as a table to play three games with the expert rules on. Each spymaster must give at least one zero or unlimited clue per game, and the team says afterward whether it read it right."
 nextTeaser: "Next, Codenames: Duet at its hardest: how the shared key works, how to spend your timer tokens, and how to survive sudden death."
 ---
-Welcome to Level 3. You can build clues of every kind, play the race, and count the endgame. The expert rules in the Codenames rulebook add two more tools. Most tables never use them, or use them once and forget. This lesson shows what they are for.
+Welcome to Level 3. You can build clues of every kind, play the race, and count the endgame. The expert rules in the [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) rulebook add two more tools. Most tables never use them, or use them once and forget. This lesson shows what they are for.
 
 Both are covered in the current rulebook from Czech Games Edition. Agree before the game that the expert rules are on.
 

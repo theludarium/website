@@ -11,7 +11,7 @@ oneIdea: "In Everdell, early cards are worth more than late ones, because green 
 tryThis: "In your next game, play at least one green Production card before you prepare for spring, and count how many times it pays out by the end."
 nextTeaser: "Next, where your workers go: the basic locations, the Forest cards, and the Haven, and how to make every placement pay for a card."
 ---
-Everdell has no fixed opening. Your starting hand, the Meadow, and the Forest cards change every game. But the first two seasons still follow patterns, and they all come from one fact: a card played early works for you longer than a card played late.
+[Everdell](https://www.amazon.com/dp/B09ZWQTTNR?tag=cubecommonw0a-20) has no fixed opening. Your starting hand, the Meadow, and the Forest cards change every game. But the first two seasons still follow patterns, and they all come from one fact: a card played early works for you longer than a card played late.
 
 ## The shape of a year
 

@@ -11,7 +11,7 @@ oneIdea: "A leader and a lore card give you a plan before the first card is play
 tryThis: "In your next Leaders and Lore game, before you pick, say which two ambitions your leader wants and check that your lore card helps at least one of them."
 nextTeaser: "Level 4 opens with player counts and expansions: how Arcs changes at two, three, and four, and what each box adds."
 ---
-After a game or two, the rulebook says you are ready for Leaders and Lore. It also warns, plainly, not to play your first game with them. They give every player wild, unique powers, which is the fun of Arcs at its best and a lot to track while you are still learning the card play.
+After a game or two, the rulebook says you are ready for Leaders and Lore. It also warns, plainly, not to play your first game with them. They give every player wild, unique powers, which is the fun of [Arcs](https://www.amazon.com/dp/B0D856FJ1J?tag=cubecommonw0a-20) at its best and a lot to track while you are still learning the card play.
 
 The base game box includes 8 leader cards and 14 lore cards. The separate Leaders and Lore Pack adds 8 more leaders and 14 more lore. Leaders and Lore is also the standard competitive format: the WBC Arcs event uses it in every game.
 

@@ -11,7 +11,7 @@ oneIdea: "Many early losses in The Night Cage come from a handful of misread rul
 tryThis: "Before your next game, read the section headings of this lesson aloud during setup and ask one player to be the rules watcher for the first three rounds."
 nextTeaser: "Next, light and darkness: why the Draw Stack is your only clock, how every Move spends wax, and how standing near a friend saves tiles."
 ---
-The Night Cage is hard on purpose. The official rules say it is intended to be difficult to win, so a loss in your first game is normal. Still, a loss is more useful when the rules were right. A short list of rules trips up many new groups. Here they are, with the official answer for each.
+[The Night Cage](https://www.amazon.com/dp/B08VC23895?tag=cubecommonw0a-20) is hard on purpose. The official rules say it is intended to be difficult to win, so a loss in your first game is normal. Still, a loss is more useful when the rules were right. A short list of rules trips up many new groups. Here they are, with the official answer for each.
 
 ## Crumbling tiles give way on the next turn
 

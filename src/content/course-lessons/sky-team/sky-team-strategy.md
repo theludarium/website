@@ -11,7 +11,7 @@ oneIdea: "In the first rounds, every die does two jobs: it acts on the cockpit, 
 tryThis: "In your next flight, have the first player of each round place an Axis or Engines die as their first move, every round. Afterward, ask whether it made the silence easier."
 nextTeaser: "Next, the middle of the approach: traffic, speed against distance, and when to lower the landing gear and flaps."
 ---
-The first two or three rounds of Sky Team feel calm. The plane is high, the airport is far, and nothing is about to crash. That calm is the best time to set up the landing. A crew that builds coffee, keeps the Axis close to level, and reads the whole Approach Track early arrives at round 7 with choices. A crew that drifts arrives with problems.
+The first two or three rounds of [Sky Team](https://www.amazon.com/dp/B0CHD8RCSJ?tag=cubecommonw0a-20) feel calm. The plane is high, the airport is far, and nothing is about to crash. That calm is the best time to set up the landing. A crew that builds coffee, keeps the Axis close to level, and reads the whole Approach Track early arrives at round 7 with choices. A crew that drifts arrives with problems.
 
 ## The briefing is your only conversation
 

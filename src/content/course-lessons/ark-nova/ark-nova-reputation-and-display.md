@@ -11,7 +11,7 @@ oneIdea: "Reputation is reach. With upgraded actions, every point of reputation 
 tryThis: "In your next game, each time you could gain reputation, first count how many display cards it would add to your range, and whether any of them is a card you want."
 nextTeaser: "Next, hand management: which 4 cards to keep at the start, how to draw without waste, and how to arrive at each break with a hand you can play."
 ---
-Of Ark Nova's three tracks, reputation is the one new players forget. It does not score at the end. But it decides how much of the shared display you can use, it opens up some sponsors, and it holds bonuses of its own. Once your actions are upgraded, it becomes one of the most useful numbers on the board.
+Of [Ark Nova](https://www.amazon.com/dp/B09L6FCP9S?tag=cubecommonw0a-20)'s three tracks, reputation is the one new players forget. It does not score at the end. But it decides how much of the shared display you can use, it opens up some sponsors, and it holds bonuses of its own. Once your actions are upgraded, it becomes one of the most useful numbers on the board.
 
 ## How the display and range work
 

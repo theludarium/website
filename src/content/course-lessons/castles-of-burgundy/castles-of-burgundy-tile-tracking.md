@@ -11,7 +11,7 @@ oneIdea: "In a four-player game, the depots show almost every tile in the box, i
 tryThis: "In your next four-player game, track one thing all game: the castles. Two per phase in the numbered depots, two black ones in all. Know how many are left before you plan around one."
 nextTeaser: "Next, the color bonus races: which colors are worth chasing, how to read who is ahead, and what a bonus tile is really worth."
 ---
-The Castles of Burgundy draws its tiles at random, but not from nowhere. The depots have a fixed number of spaces of each color, and the box has a fixed number of each tile. Put those two facts together and a four-player game turns out to be far more predictable than it looks.
+[The Castles of Burgundy](https://www.amazon.com/dp/B07R5ZH6FQ?tag=cubecommonw0a-20) draws its tiles at random, but not from nowhere. The depots have a fixed number of spaces of each color, and the box has a fixed number of each tile. Put those two facts together and a four-player game turns out to be far more predictable than it looks.
 
 The numbers below come from the component list in the current rulebook and the depot spaces printed on the four-player side of the board.
 

@@ -13,7 +13,7 @@ nextTeaser: "Next, how to value a card: turning cost, production, TR, and points
 ---
 Welcome to Level 2. At Level 1 you learned the price of things: the standard projects, the map, a hand you can afford. Now you put those prices together into a plan.
 
-Terraforming Mars deals you different cards every game, so there is no single best strategy. There are, though, a handful of paths the cards keep pointing toward. Each one has its own way of earning TR and points, and its own weak spot. Knowing them helps you see which way your cards lean before generation 3 is over.
+[Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20) deals you different cards every game, so there is no single best strategy. There are, though, a handful of paths the cards keep pointing toward. Each one has its own way of earning TR and points, and its own weak spot. Knowing them helps you see which way your cards lean before generation 3 is over.
 
 ## Plants and greeneries
 

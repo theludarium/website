@@ -11,7 +11,7 @@ oneIdea: "The Night Cage has a dial, not a single difficulty. Boss Monsters, til
 tryThis: "Pick one change for your next game, either one Boss Monster or one tile tweak, and play it at least twice before you add another."
 nextTeaser: "Last, The Night Cage at every table: running four Prisoners solo, sharing a Prisoner at three, the 7x7 board for five, and a first look at the Shrieking Hollow expansion."
 ---
-The Night Cage is meant to be hard to win, and the rules hand you ways to make it easier or harder still. This lesson covers the two Boss Monsters, The Pathless and The Dirge, and the simple difficulty tweaks in the Variants section, including a communication rule that changes how a co-op table talks.
+[The Night Cage](https://www.amazon.com/dp/B08VC23895?tag=cubecommonw0a-20) is meant to be hard to win, and the rules hand you ways to make it easier or harder still. This lesson covers the two Boss Monsters, The Pathless and The Dirge, and the simple difficulty tweaks in the Variants section, including a communication rule that changes how a co-op table talks.
 
 ## Boss Monsters
 

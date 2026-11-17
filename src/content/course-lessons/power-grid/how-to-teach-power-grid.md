@@ -11,7 +11,7 @@ oneIdea: "Teach the loop first: plants make power, fuel runs plants, cities pay 
 tryThis: "Print the teach sheet, run the bank and the markets yourself in the first game, and let everyone else think only about their own company."
 nextTeaser: "Next, the last piece of Level 0: running bureaucracy, so payouts, fuel refills, and the plant market work the way the rules intend."
 ---
-Power Grid has a reputation as a heavy game, and a slow teach makes it feel heavier. Hosts read every step of bureaucracy and every Step 3 edge case before anyone has bid on a plant. By the time the auction starts, the table has forgotten why it wants plants at all.
+[Power Grid](https://www.amazon.com/dp/B07HM7WZT9?tag=cubecommonw0a-20) has a reputation as a heavy game, and a slow teach makes it feel heavier. Hosts read every step of bureaucracy and every Step 3 edge case before anyone has bid on a plant. By the time the auction starts, the table has forgotten why it wants plants at all.
 
 The fix is to teach the loop, run one round together, and handle the bookkeeping yourself. Here is a script in the order you would say it. Print the [Power Grid teach sheet](/academy/power-grid/teach-sheet/) and put it where everyone can see it.
 

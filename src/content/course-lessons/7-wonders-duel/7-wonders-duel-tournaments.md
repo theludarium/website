@@ -22,7 +22,7 @@ Duel is a good tournament game. It plays in about 30 minutes, every game has a c
 
 ## The World Boardgaming Championships
 
-The [World Boardgaming Championships](https://www.boardgamers.org/) (WBC) is an annual tournament convention run by the Boardgame Players Association, where many games crown a champion. 7 Wonders Duel has its own event, marked **Class B, beginning players welcome**, which makes it a friendly first tournament.
+The [World Boardgaming Championships](https://www.boardgamers.org/) (WBC) is an annual tournament convention run by the Boardgame Players Association, where many games crown a champion. [7 Wonders Duel](https://www.amazon.com/dp/B014DMSTXK?tag=cubecommonw0a-20) has its own event, marked **Class B, beginning players welcome**, which makes it a friendly first tournament.
 
 Everything below comes from the [2026 Duel event preview](https://www.boardgamers.org/wbc26/previews/7WD.html). Formats can change each year, so read the current preview before you go.
 

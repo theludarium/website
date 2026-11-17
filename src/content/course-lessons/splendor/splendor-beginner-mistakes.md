@@ -11,7 +11,7 @@ oneIdea: "Most first-game trouble comes from two places: small rules slips about
 tryThis: "After each of your next three games, count how many turns each player spent taking gems versus buying cards. Then check whether the winner bought more often."
 nextTeaser: "Level 1 starts with openings. We look at how to read the setup before turn one, pick your colors, and get your first cards on the table fast."
 ---
-Your first three games of Splendor are where habits form. Some are rules slips, played wrong for months because nobody checked. Others are legal moves that quietly cost you the race. This lesson covers both, checked against the current rulebook.
+Your first three games of [Splendor](https://link.amazon/B0fEvY6Wg) are where habits form. Some are rules slips, played wrong for months because nobody checked. Others are legal moves that quietly cost you the race. This lesson covers both, checked against the current rulebook.
 
 ## Rules slips to catch early
 

@@ -11,7 +11,7 @@ oneIdea: "Preparing for season is a turn like any other, and when you take it ch
 tryThis: "In your next game, before each prepare, say one sentence about why now: the space you want back, the Meadow cards you will draw, or the autumn trail space you want first. If you cannot say why, play a card instead."
 nextTeaser: "Next, two-player Everdell: three Forest cards, one rival for every space and Event, and why every point your opponent gains counts against you."
 ---
-Every Everdell player prepares for season three times. Strong players take those three turns at chosen moments. Because players change seasons on their own clocks, the timing of your prepare affects which spaces are free, which Meadow cards you get, and who reaches autumn's best spaces first.
+Every [Everdell](https://www.amazon.com/dp/B09ZWQTTNR?tag=cubecommonw0a-20) player prepares for season three times. Strong players take those three turns at chosen moments. Because players change seasons on their own clocks, the timing of your prepare affects which spaces are free, which Meadow cards you get, and who reaches autumn's best spaces first.
 
 ## What a prepare does, and what it costs
 

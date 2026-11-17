@@ -11,7 +11,7 @@ oneIdea: "Four dice hold any one exact number about half the time, any of two nu
 tryThis: "In your next flight, before each placement, ask one question: how many numbers would work for my partner here? Lead with dice that leave them two or three."
 nextTeaser: "Next, the dice budget: count every die of a flight in the first briefing, and plan the jobs round by round before you take off."
 ---
-Welcome to Level 2. At Level 1 you learned to brief, steer the Axis, time the gear and flaps, and land. Now you put numbers under those habits. Sky Team hides your partner's dice, but it does not hide how dice behave. A handful of odds, learned once, will change how you lead, what you save, and when you spend coffee.
+Welcome to Level 2. At Level 1 you learned to brief, steer the Axis, time the gear and flaps, and land. Now you put numbers under those habits. [Sky Team](https://www.amazon.com/dp/B0CHD8RCSJ?tag=cubecommonw0a-20) hides your partner's dice, but it does not hide how dice behave. A handful of odds, learned once, will change how you lead, what you save, and when you spend coffee.
 
 You need one table and three rules of thumb. All the numbers below come from a plain count of six-sided dice; check any of them with a pencil.
 

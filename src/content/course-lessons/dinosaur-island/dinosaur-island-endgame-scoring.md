@@ -11,7 +11,7 @@ oneIdea: "When the last round arrives, every dollar, worker, and DNA should turn
 tryThis: "When only two objectives are left unclaimed, pause and add up your projected final score. Then find the single action that adds the most to it."
 nextTeaser: "Level 3 begins with objectives and timing: choosing when the game ends, and racing or blocking the last few claims."
 ---
-Dinosaur Island does not end on a fixed round. It ends when only one objective is left unclaimed, and the round finishes from there. That means the last round can arrive faster than you expect, and anything you have not turned into points by then is mostly wasted. This lesson covers spotting the end, what everything is worth, and how to spend down.
+[Dinosaur Island](https://www.amazon.com/dp/B06Y3BS8YD?tag=cubecommonw0a-20) does not end on a fixed round. It ends when only one objective is left unclaimed, and the round finishes from there. That means the last round can arrive faster than you expect, and anything you have not turned into points by then is mostly wasted. This lesson covers spotting the end, what everything is worth, and how to spend down.
 
 ## When the end triggers
 

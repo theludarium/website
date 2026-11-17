@@ -11,7 +11,7 @@ oneIdea: "The last third of Ticket to Ride is a countdown you can measure. Count
 tryThis: "When the first player drops below 15 trains, stop and count: your trains, the trains your unfinished tickets need, and the longest path for you and your nearest rival."
 nextTeaser: "Level 3 opens with odds: how likely the cards you need are to come, worked out from the 110 cards in the deck."
 ---
-Ticket to Ride's final scoring is where games flip. A player who led the scoring track all game reveals two failed tickets and drops to third. Another flips over a pile of finished tickets and takes the longest path bonus too. None of it has to be a surprise. You can count most of it before the last turn.
+[Ticket to Ride](https://link.amazon/B0jh8RB7f)'s final scoring is where games flip. A player who led the scoring track all game reveals two failed tickets and drops to third. Another flips over a pile of finished tickets and takes the longest path bonus too. None of it has to be a surprise. You can count most of it before the last turn.
 
 ## How the end works
 

@@ -10,7 +10,7 @@ draft: false
 oneIdea: "A Spirit Island team wins by sharing objectives, not every detail. Agree on which threats each Spirit owns this turn, then let each player solve their own puzzle."
 tryThis: "At the start of each Spirit Phase in your next multiplayer game, take thirty seconds to name the two biggest threats on the Invader track and which Spirit takes each one."
 ---
-Spirit Island plays 1 to 4 players, with solo rules in the core rulebook. The Jagged Earth expansion adds Island boards that take it up to 6.
+[Spirit Island](https://www.amazon.com/dp/B01MUHP51S?tag=cubecommonw0a-20) plays 1 to 4 players, with solo rules in the core rulebook. The Jagged Earth expansion adds Island boards that take it up to 6.
 
 It works solo, but it is built for a team: every Spirit shares one Island, one Invader board, and one fate. This lesson covers what changes with the count, then how to turn a table of separate engines into one plan.
 

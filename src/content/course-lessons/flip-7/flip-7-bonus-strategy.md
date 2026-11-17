@@ -17,7 +17,7 @@ Lesson 3 warned against chasing seven every round. That still holds, but the bon
 
 Flip seven different number cards and the round ends at once, for everyone, and you add 15 points after your numbers, your x2, and your plus cards. The 0 counts as one of the seven.
 
-The cheapest possible Flip 7 row is 0 through 6, which totals 21. Add the bonus and even the smallest Flip 7 scores 36. Most score more. So a Flip 7 is always a big round.
+The cheapest possible [Flip 7](https://www.amazon.com/dp/B0DWGVM7RY?tag=cubecommonw0a-20) row is 0 through 6, which totals 21. Add the bonus and even the smallest Flip 7 scores 36. Most score more. So a Flip 7 is always a big round.
 
 ## The odds from scratch
 

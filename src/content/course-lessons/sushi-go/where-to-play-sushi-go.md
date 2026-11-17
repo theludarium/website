@@ -10,7 +10,7 @@ draft: false
 oneIdea: "Sushi Go! gets better with more games and more people. Play online to build your card sense fast, then bring the game to public tables and new players, where a five-minute teach and a fifteen-minute game open the door for everyone."
 tryThis: "This month, play five games online and one in person with someone who has never played. Teach it with the script from lesson 2, and see which lessons from this course you notice yourself using."
 ---
-You can learn Sushi Go! in five minutes and keep finding new things in it for years. This last lesson is about getting more games in: online when nobody is around, at public game nights, in a small tournament of your own, and as the game that starts every evening.
+You can learn [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) in five minutes and keep finding new things in it for years. This last lesson is about getting more games in: online when nobody is around, at public game nights, in a small tournament of your own, and as the game that starts every evening.
 
 ## Play online
 

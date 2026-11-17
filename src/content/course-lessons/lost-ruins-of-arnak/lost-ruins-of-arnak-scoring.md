@@ -11,7 +11,7 @@ oneIdea: "Leftover resources score nothing, and a card bought in round V is most
 tryThis: "At the start of round V, list every resource you hold and decide where each one becomes points. Then play the round to that list."
 nextTeaser: "Level 3 opens with deck math: which cards you are sure to draw next round, and the odds on the rest."
 ---
-Lost Ruins of Arnak ends after round V, and the scoring is easy to see coming. Almost every point sits on the table where everyone can see it, and the cards in each deck were bought in plain view. If you count before the last round, the final tally holds no surprises, and you can make round V your best round.
+[Lost Ruins of Arnak](https://www.amazon.com/dp/B08CD3JVQB?tag=cubecommonw0a-20) ends after round V, and the scoring is easy to see coming. Almost every point sits on the table where everyone can see it, and the cards in each deck were bought in plain view. If you count before the last round, the final tally holds no surprises, and you can make round V your best round.
 
 ## Where the points come from
 

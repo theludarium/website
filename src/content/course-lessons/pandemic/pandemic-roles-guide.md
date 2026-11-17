@@ -11,7 +11,7 @@ oneIdea: "Each role breaks one rule of the game. Find the rule your role breaks,
 tryThis: "At the start of your next game, have each player finish this sentence out loud: My role breaks the rule that says... Then plan your first turn around that answer."
 nextTeaser: "Next, openings: what to read on the board before turn one, and why the first Epidemic is the moment your whole opening plans for."
 ---
-The Pandemic board game has seven roles: Medic, Scientist, Researcher, Dispatcher, Operations Expert, Quarantine Specialist, and Contingency Planner. Each player takes one at random, and it changes what that player can do every turn.
+The [Pandemic](https://link.amazon/B0eHP5GCg) board game has seven roles: Medic, Scientist, Researcher, Dispatcher, Operations Expert, Quarantine Specialist, and Contingency Planner. Each player takes one at random, and it changes what that player can do every turn.
 
 New players often treat their role card as a small bonus on top of a normal turn. It is closer to a job description. Every role in the base game breaks one rule, and the team that leans on those broken rules wins far more often than the team that plays four ordinary turns.
 

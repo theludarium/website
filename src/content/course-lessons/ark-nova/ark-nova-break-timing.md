@@ -11,7 +11,7 @@ oneIdea: "Every break helps some players and hurts others. Before you move the B
 tryThis: "In your next game, before each action that moves the Break token, say who the next break helps most. Keep score of how often it was you."
 nextTeaser: "Next, two-player Ark Nova: blocked levels, a shorter project row, and a race where every shared resource is a duel."
 ---
-Ark Nova has no rounds. Its rhythm comes from breaks, and breaks come when players push the Break token to the end of its track. That makes the timing of every break a choice someone at the table is making. Strong players make it on purpose.
+[Ark Nova](https://www.amazon.com/dp/B09L6FCP9S?tag=cubecommonw0a-20) has no rounds. Its rhythm comes from breaks, and breaks come when players push the Break token to the end of its track. That makes the timing of every break a choice someone at the table is making. Strong players make it on purpose.
 
 ## What moves the Break token
 

@@ -12,7 +12,7 @@ oneIdea: "By the last Age, every card has a point value you can count. Count it 
 tryThis: "In Age III of your next 7 Wonders game, before each pick, add up what your top two cards are worth to you and to the neighbor you pass to."
 nextTeaser: "Next, card memory and hate-drafting: how to know what is in every hand before it reaches you, and when denying a card pays."
 ---
-Age III is where 7 Wonders scores get decided. The cards are bigger, the guilds arrive, and a military win is worth 5. None of it is hidden, though. With a little arithmetic you can know, pick by pick, which card is worth the most to you and which one hurts you most to pass.
+Age III is where [7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20) scores get decided. The cards are bigger, the guilds arrive, and a military win is worth 5. None of it is hidden, though. With a little arithmetic you can know, pick by pick, which card is worth the most to you and which one hurts you most to pass.
 
 ## Science, counted
 

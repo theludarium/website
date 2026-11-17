@@ -11,7 +11,7 @@ oneIdea: "Every attack takes something specific from you: cards in hand, points,
 tryThis: "In your next kingdom with an attack, decide before turn 1 which answer you will use: your own copy, a block, or a card that recovers what the attack takes."
 nextTeaser: "Level 2 opens with the midgame: money density, the parts of an engine, and how to tell which plan the kingdom wants."
 ---
-Dominion is mostly a race, with everyone building their own deck. Attacks are where the race turns into a fight. The base set has four of them: Militia, Witch, Bandit, and Bureaucrat. Each one takes something different, and the right answer depends on what it takes.
+[Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) is mostly a race, with everyone building their own deck. Attacks are where the race turns into a fight. The base set has four of them: Militia, Witch, Bandit, and Bureaucrat. Each one takes something different, and the right answer depends on what it takes.
 
 ## What each attack takes
 

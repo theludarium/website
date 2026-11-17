@@ -11,7 +11,7 @@ oneIdea: "In the midgame, the display is shared and the bag is finite. Read what
 tryThis: "On each turn of your next game, before you pick, name the pair the next player most wants. Take it whenever it is nearly as good for you as your first choice."
 nextTeaser: "Next, nature tokens in depth: how to earn them on purpose, what each one is worth, and the turns when spending one pays you back."
 ---
-Cascadia looks like five people doing five separate puzzles. In the opening, that is mostly true. By the midgame, around turns 7 to 14, the puzzles start pulling on the same four pairs in the middle of the table. This is where good players turn a pleasant solo puzzle into a quiet contest.
+[Cascadia](https://link.amazon/B0g1HYFt4) looks like five people doing five separate puzzles. In the opening, that is mostly true. By the midgame, around turns 7 to 14, the puzzles start pulling on the same four pairs in the middle of the table. This is where good players turn a pleasant solo puzzle into a quiet contest.
 
 ## Count your turns
 

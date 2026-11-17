@@ -11,7 +11,7 @@ oneIdea: "Each of the remaining base game Spirits breaks one normal rule of the 
 tryThis: "For your next game, give one experienced player one of these four Spirits, and have them read its Special Rules out loud to the table before setup."
 nextTeaser: "Level 3 begins with Blight in depth: the Blight Card, the Blighted Island, cascade control, and how to decide which land takes the hit when you cannot save them all."
 ---
-The Spirit Island base game comes with eight Spirits. The expansions add more: 2 in Branch & Claw, 10 in Jagged Earth, 4 in Feather and Flame, and 8 in Nature Incarnate.
+The [Spirit Island](https://www.amazon.com/dp/B01MUHP51S?tag=cubecommonw0a-20) base game comes with eight Spirits. The expansions add more: 2 in Branch & Claw, 10 in Jagged Earth, 4 in Feather and Flame, and 8 in Nature Incarnate.
 
 | Spirit | Complexity |
 | --- | --- |

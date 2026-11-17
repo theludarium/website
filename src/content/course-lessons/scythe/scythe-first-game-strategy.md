@@ -11,7 +11,7 @@ oneIdea: "A good first Scythe game picks three or four star goals from what your
 tryThis: "Before your first turn, write down the four stars you plan to earn and the bottom-row action each one depends on. Check the list every five turns."
 nextTeaser: "Level 2 starts with the five base factions: what each one does best, what its mechs add, and a plan for each."
 ---
-Scythe rewards a plan more than a clever turn. The player who knows which six stars they want, and which actions get them there, usually beats the player who reacts to the board. This lesson gives a first-game plan that works with any faction and any player mat, using only the rules and simple counting.
+[Scythe](https://www.amazon.com/dp/B01IPUGYK6?tag=cubecommonw0a-20) rewards a plan more than a clever turn. The player who knows which six stars they want, and which actions get them there, usually beats the player who reacts to the board. This lesson gives a first-game plan that works with any faction and any player mat, using only the rules and simple counting.
 
 ## Pick your stars before your first turn
 

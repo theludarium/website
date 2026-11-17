@@ -11,7 +11,7 @@ oneIdea: "Teach the loop, not the cards. Once people see a card go from the Supp
 tryThis: "Print the teach sheet, set up the First Game kingdom before anyone sits down, and play one demo turn from a real hand before you explain a single Kingdom card."
 nextTeaser: "Next, the last piece of Level 0: the ten First Game cards one by one, what each does, and the rulings that trip up new tables."
 ---
-Dominion has a reputation as a game with a lot of reading. It is not. Most of the reading is on the cards, and the cards stay on the table where everyone can see them. The rules underneath are short: draw five, play, buy one, discard, draw five.
+[Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) has a reputation as a game with a lot of reading. It is not. Most of the reading is on the cards, and the cards stay on the table where everyone can see them. The rules underneath are short: draw five, play, buy one, discard, draw five.
 
 The trap for hosts is explaining all ten Kingdom cards before anyone has taken a turn. Do not do that. Teach the loop, show one turn, and let the cards come up as people want them. Here is a script in the order you would say it. Print the [Dominion teach sheet](/academy/dominion/teach-sheet/) and set it where everyone can see it.
 

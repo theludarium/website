@@ -11,7 +11,7 @@ oneIdea: "Solo Arkham comes in two styles: one investigator who must do everythi
 tryThis: "Play the first core scenario twice this week: once true solo with Joe Diamond, once two-handed with Joe and Daniela, and note which one felt better."
 nextTeaser: "Next, which box to buy: the 2026 core set, the investigator decks, campaign expansions, scenario packs, and where Chapter One fits."
 ---
-Arkham Horror: The Card Game plays well alone. The box says 1 to 4 players, and the rules do not change for solo play. The game simply scales: clue values and many act and enemy values are printed per investigator, so one investigator faces a smaller version of the same scenario.
+[Arkham Horror: The Card Game](https://www.amazon.com/dp/B0GK349WJ7?tag=cubecommonw0a-20) plays well alone. The box says 1 to 4 players, and the rules do not change for solo play. The game simply scales: clue values and many act and enemy values are printed per investigator, so one investigator faces a smaller version of the same scenario.
 
 There are two ways to play by yourself, and they feel quite different.
 

@@ -11,7 +11,7 @@ oneIdea: "A smaller deck plays its best cards more often. Trashing your weak sta
 tryThis: "In your next kingdom with Chapel, open Chapel and Silver, trash at least three cards whenever Chapel comes up, and note the turn of your first Gold."
 nextTeaser: "Next, your first engine: how Villages, draw, and a payoff fit together, and how to build them in the right order."
 ---
-Every Dominion deck starts with 7 Coppers and 3 Estates. In the [midgame lesson](/academy/dominion/dominion-midgame-strategy/) you saw that you can make a deck better by adding good cards. The other way is to take bad cards out. That is trashing, and in the right kingdom it is the strongest thing you can do.
+Every [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) deck starts with 7 Coppers and 3 Estates. In the [midgame lesson](/academy/dominion/dominion-midgame-strategy/) you saw that you can make a deck better by adding good cards. The other way is to take bad cards out. That is trashing, and in the right kingdom it is the strongest thing you can do.
 
 ## Why fewer cards is better
 

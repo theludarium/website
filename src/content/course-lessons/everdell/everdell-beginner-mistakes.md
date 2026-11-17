@@ -11,7 +11,7 @@ oneIdea: "Most first-game trouble comes from the seasons: what happens at each p
 tryThis: "After each of your next three games, write down how many empty spaces were left in your city and how many resources you still held. Both numbers should shrink every game."
 nextTeaser: "Next, openings: how to spend winter and spring, and why the first green card you play can pay you three times."
 ---
-Your first three games of Everdell are where habits form. Some of them are rules mistakes, played wrong because nobody checked. Others are legal moves that quietly cost a lot of points. This lesson covers both, checked against the current rulebook and the consolidated rules from the Complete Collection.
+Your first three games of [Everdell](https://www.amazon.com/dp/B09ZWQTTNR?tag=cubecommonw0a-20) are where habits form. Some of them are rules mistakes, played wrong because nobody checked. Others are legal moves that quietly cost a lot of points. This lesson covers both, checked against the current rulebook and the consolidated rules from the Complete Collection.
 
 ## Rules slips about the seasons
 

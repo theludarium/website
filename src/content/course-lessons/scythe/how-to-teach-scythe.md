@@ -11,7 +11,7 @@ oneIdea: "Scythe is taught from the player mat outward. Teach the turn on the ma
 tryThis: "At your next teach, stop after the first player places a star and run a sample scoring round, so everyone sees what popularity does to their coins."
 nextTeaser: "Level 1 starts with the rules new Scythe tables get wrong, from repeating a section to moving workers where they cannot go."
 ---
-Scythe has a lot of pieces, and new players often expect a long war game. The good news for a host is that one turn is small: pick a section, take one or two actions. A good teach makes that turn clear in the first five minutes and lets the rest arrive when it is needed.
+[Scythe](https://www.amazon.com/dp/B01IPUGYK6?tag=cubecommonw0a-20) has a lot of pieces, and new players often expect a long war game. The good news for a host is that one turn is small: pick a section, take one or two actions. A good teach makes that turn clear in the first five minutes and lets the rest arrive when it is needed.
 
 This lesson gives you a host script, the order to say it in, and a plan for the first few turns. The [How to Play Scythe](/academy/scythe/how-to-play-scythe/) lesson has the rules themselves.
 

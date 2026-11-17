@@ -11,7 +11,7 @@ oneIdea: "Every Power Grid map asks the same questions: where is the cheap groun
 tryThis: "Before your next game on a map you have not played, spend five minutes on the scan in this lesson and write down your top two start areas."
 nextTeaser: "Next, playing on a clock: counting fast, pricing builds during other players' turns, and finishing a five-player game in two and a half hours."
 ---
-Tournament Power Grid rotates maps. The 2026 World Boardgaming Championships preview offered South Africa or Bremen, the United Kingdom or the Middle East, and Manhattan or Northern Europe for the three heats, Brazil for the semifinal, and Spain and Portugal for the final. A player who only knows Germany has to learn a map in the first round of a game that counts.
+Tournament [Power Grid](https://www.amazon.com/dp/B07HM7WZT9?tag=cubecommonw0a-20) rotates maps. The 2026 World Boardgaming Championships preview offered South Africa or Bremen, the United Kingdom or the Middle East, and Manhattan or Northern Europe for the three heats, Brazil for the semifinal, and Spain and Portugal for the final. A player who only knows Germany has to learn a map in the first round of a game that counts.
 
 You can get most of the way with a short routine. This lesson gives you one.
 

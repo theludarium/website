@@ -17,7 +17,7 @@ One of the best-known homes for competitive Brass in the United States is the Wo
 
 The WBC's [2026 Brass preview](https://www.boardgamers.org/wbc26/Previews/brs.html) set out the format:
 
-- **Version.** Brass: Birmingham as the default version of the game.
+- **Version.** [Brass: Birmingham](https://www.amazon.com/dp/1988884047?tag=cubecommonw0a-20) as the default version of the game.
 - **Class.** Beginning players welcome.
 - **Rounds.** Three heats, a semifinal, and a final, each with a three-hour time slot.
 - **Advancement.** The top 16 from the heats move to the semifinal. The semifinal winners play a four-player final.

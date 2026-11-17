@@ -11,7 +11,7 @@ oneIdea: "The rulebook's solo challenge is the best practice tool in Flip 7: eve
 tryThis: "Play ten solo runs to 200 this month. Log the rounds each run took and every bust with the row you busted on. Your average over ten runs is your number to beat."
 nextTeaser: "Next, the hardest version of the game: Flip 7: With a Vengeance, where staying does not keep you safe and every card can be turned against you."
 ---
-Flip 7 is a game for three or more. But the rulebook has a line for smaller parties: with two or fewer, how many rounds does it take you to reach 200? It looks like a filler mode, but it is the cleanest way to practice everything in Levels 1 and 2, and with a few benchmarks it becomes a real test.
+[Flip 7](https://www.amazon.com/dp/B0DWGVM7RY?tag=cubecommonw0a-20) is a game for three or more. But the rulebook has a line for smaller parties: with two or fewer, how many rounds does it take you to reach 200? It looks like a filler mode, but it is the cleanest way to practice everything in Levels 1 and 2, and with a few benchmarks it becomes a real test.
 
 ## How the solo challenge plays
 
