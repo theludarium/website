@@ -11,7 +11,7 @@ oneIdea: "Every turn runs through the same five phases in the same order. Learn 
 tryThis: "In your next game, say each phase out loud on your turn: untap, upkeep, draw, main, combat, main, end. Stop once nobody at the table needs the reminder."
 nextTeaser: "Next, reading a card: every part of a Magic card, labeled on a card we made up for this course."
 ---
-Magic: The Gathering looks complicated from the outside because there are tens of thousands of different cards. The structure underneath them is small. Two players, 20 life each, and a turn that runs the same way every time. Cards bend those rules in specific ways, and each card tells you how.
+[Magic: The Gathering](https://www.amazon.com/dp/B0D9KXBNBB?tag=cubecommonw0a-20) looks complicated from the outside because there are tens of thousands of different cards. The structure underneath them is small. Two players, 20 life each, and a turn that runs the same way every time. Cards bend those rules in specific ways, and each card tells you how.
 
 This lesson shows how to play MTG in a two-player game, checked against the Comprehensive Rules effective September 25, 2026. Commander changes a few numbers, and the [store night lesson](/academy/magic/first-friday-night-magic/) covers those.
 

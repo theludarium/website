@@ -11,7 +11,7 @@ oneIdea: "Terra Mystica's final scoring is public and countable. Strong players 
 tryThis: "At the start of round 6 in your next game, write down every player's current place on area and each cult track, and plan your last actions around the places you can change."
 nextTeaser: "Level 5 starts with where to play competitively: the long-running online league on the Snellman site, Board Game Arena, the World Boardgaming Championships, and local play."
 ---
-A close Terra Mystica game is often decided after the last action, in the final scoring. All of that scoring is open information. This lesson walks through each part, using the current English rulebook from Capstone Games, then turns it into a round 6 checklist.
+A close [Terra Mystica](https://www.amazon.com/dp/B00APPE4HK?tag=cubecommonw0a-20) game is often decided after the last action, in the final scoring. All of that scoring is open information. This lesson walks through each part, using the current English rulebook from Capstone Games, then turns it into a round 6 checklist.
 
 ## The four parts of final scoring
 

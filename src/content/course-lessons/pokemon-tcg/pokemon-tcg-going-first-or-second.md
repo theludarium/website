@@ -11,7 +11,7 @@ oneIdea: "Going first buys setup time and the first evolution; going second buys
 tryThis: "Play four games with the same deck against the same opponent: two going first, two going second. Note which turn your main attacker first attacked each time."
 nextTeaser: "Next, prerelease survival: how a prerelease works, what is in the Build & Battle Box, and how to build a 40-card deck in under half an hour."
 ---
-In the Pokémon TCG, the player who goes first cannot attack or play a Supporter card on their first turn. In return, they set up first and evolve first, so choose to go first if your deck needs time to evolve, and second if it needs a turn-one Supporter or has a cheap attack.
+In the [Pokémon TCG](https://www.amazon.com/dp/B0FLP49KYM?tag=cubecommonw0a-20), the player who goes first cannot attack or play a Supporter card on their first turn. In return, they set up first and evolve first, so choose to go first if your deck needs time to evolve, and second if it needs a turn-one Supporter or has a cheap attack.
 
 Every game starts with a coin flip, and the winner of the flip chooses who goes first. In a best-of-three match, the official tournament rules hand that choice to the loser of the previous game instead. Either way, it is a real decision, and choosing well starts with knowing exactly what each side gets.
 

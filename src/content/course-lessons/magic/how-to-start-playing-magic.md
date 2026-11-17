@@ -11,7 +11,7 @@ oneIdea: "Buy one thing built to teach, play ten games with it, and only then de
 tryThis: "Before you buy anything past a starter, play the Beginner Box tutorial game and five more games with the theme decks. Write down the two decks you liked most."
 nextTeaser: "Next, how a turn works: the play area, the phases in order, lands and mana, and what happens when creatures fight."
 ---
-Magic: The Gathering has been in print since 1993, and the shelf at a game store shows it. Play Boosters, Collector Boosters, Bundles, Commander decks, Jumpstart packs, and a new set every few months. For a new player, the hardest part is often not the rules. It is knowing what to buy first.
+[Magic: The Gathering](https://www.amazon.com/dp/B0D9KXBNBB?tag=cubecommonw0a-20) has been in print since 1993, and the shelf at a game store shows it. Play Boosters, Collector Boosters, Bundles, Commander decks, Jumpstart packs, and a new set every few months. For a new player, the hardest part is often not the rules. It is knowing what to buy first.
 
 This is an unofficial beginner's course for Magic. It runs from your first box to your first Commander night, your first draft, and on up the ladder to competitive play. Lesson one is light on rules and heavy on one decision: where to start.
 

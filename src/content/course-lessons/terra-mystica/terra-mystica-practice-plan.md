@@ -16,7 +16,7 @@ This is the last lesson. By now you know the rules, the Power cycle, the costs o
 
 **Play one faction until it is boring.** Every faction bends a different rule. If you switch every game, you relearn the bend each time. Two weeks with one faction teaches you its rhythm: when its Stronghold should land, what its Power cycle looks like, and which Scoring tiles it loves.
 
-**Review every game.** Asynchronous games on the Snellman site keep a full log, so you can step through your game afterward. Look for the round where your score fell behind the leaders' pace, then look for the cause one or two rounds earlier. Most mistakes in Terra Mystica are made before they show up on the score track.
+**Review every game.** Asynchronous games on the Snellman site keep a full log, so you can step through your game afterward. Look for the round where your score fell behind the leaders' pace, then look for the cause one or two rounds earlier. Most mistakes in [Terra Mystica](https://www.amazon.com/dp/B00APPE4HK?tag=cubecommonw0a-20) are made before they show up on the score track.
 
 **Study strong players.** Find a recent game from a top division of the league, pick one player, and follow only their turns. Ask why each action came in that order. It is slow at first and becomes a fast way to learn openings.
 

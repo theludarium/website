@@ -7,7 +7,7 @@ category: Game Guides
 tags: ["crokinole rules", "how to play crokinole", "crokinole board", "crokinole scoring", "dexterity games", "crokinole doubles"]
 draft: false
 ---
-Crokinole rules fit on an index card. Players sit around a round wooden board and take turns flicking small discs toward the center. Every shot must hit an opponent's disc if one is on the board, and if none are, it must land near the middle. A disc that drops into the center hole scores 20. Knock your rivals off the board, stay on it yourself, and score the most points when everyone's discs are gone. That is the whole game, and it is one of the best things you can put on a table.
+[Crokinole](https://www.amazon.com/dp/B07N5G1MK4?tag=cubecommonw0a-20) rules fit on an index card. Players sit around a round wooden board and take turns flicking small discs toward the center. Every shot must hit an opponent's disc if one is on the board, and if none are, it must land near the middle. A disc that drops into the center hole scores 20. Knock your rivals off the board, stay on it yourself, and score the most points when everyone's discs are gone. That is the whole game, and it is one of the best things you can put on a table.
 
 **The quick answer:** take turns flicking one disc from your quarter of the board. If the other side has discs in play, you must hit one; if not, your disc must end touching or inside the 15 line. Shots that break the rule are removed. After all discs are played, score 20, 15, 10 or 5 per disc by where it sits, and compare totals.
 

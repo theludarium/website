@@ -11,7 +11,7 @@ oneIdea: "A crokinole round is decided by its last few shots. Know who has the h
 tryThis: "In your next game, before each of your last three shots, say who has the hammer and how many shots each side has left. Then pick the shot that leaves your opponent the hardest last shot."
 nextTeaser: "Next, doubles: how partners split the work, why hiding is harder with four seats, and how to talk between shots."
 ---
-Welcome to Level 3. At Levels 1 and 2 you learned to make shots. Now the question is which shot the round needs. Crokinole strategy is mostly about the end of the round: who shoots last, what the board will look like then, and how to leave the other side with nothing good to do.
+Welcome to Level 3. At Levels 1 and 2 you learned to make shots. Now the question is which shot the round needs. [Crokinole](https://www.amazon.com/dp/B07N5G1MK4?tag=cubecommonw0a-20) strategy is mostly about the end of the round: who shoots last, what the board will look like then, and how to leave the other side with nothing good to do.
 
 ## The hammer
 

@@ -11,7 +11,7 @@ oneIdea: "A 60-card deck is a known set of cards, so your opening hand, your mul
 tryThis: "Take your current deck and count its Basic Pokémon. Find your mulligan rate in the table here, then decide whether one more Basic is worth a slot."
 nextTeaser: "Next, reading your opponent: what is public, what you can work out, and the one question to ask before every attack."
 ---
-Welcome to Level 3. At Level 2 you built a deck on purpose and learned to count Knock Outs. Now you put numbers on luck. The Pokémon TCG has plenty of it, but the luck comes from a deck you chose, card by card. That means you can know the odds before the game starts.
+Welcome to Level 3. At Level 2 you built a deck on purpose and learned to count Knock Outs. Now you put numbers on luck. The [Pokémon TCG](https://www.amazon.com/dp/B0FLP49KYM?tag=cubecommonw0a-20) has plenty of it, but the luck comes from a deck you chose, card by card. That means you can know the odds before the game starts.
 
 Every number in this lesson is worked out from a 60-card deck, an opening hand of 7, and 6 Prize cards, as the official rules set them. You do not need to do the math yourself. You need a feel for the tables.
 

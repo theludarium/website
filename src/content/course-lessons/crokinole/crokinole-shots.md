@@ -11,7 +11,7 @@ oneIdea: "Every crokinole shot is a choice between two goals: remove their disc,
 tryThis: "In your next game, name the shot out loud before you take it. After the round, count how many did what you named."
 nextTeaser: "Level 3 starts with strategy: playing to the hammer, hiding behind pegs, and when the safe shot beats the brave one."
 ---
-Once your shot is repeatable, the question changes from "can I hit it?" to "which shot is this?" Crokinole players use a small set of names for the shots that come up again and again. This lesson walks through them, with the rule that limits each one.
+Once your shot is repeatable, the question changes from "can I hit it?" to "which shot is this?" [Crokinole](https://www.amazon.com/dp/B07N5G1MK4?tag=cubecommonw0a-20) players use a small set of names for the shots that come up again and again. This lesson walks through them, with the rule that limits each one.
 
 The rule behind all of them is the valid-shot rule from the [NCA Official Rules of Crokinole](https://nationalcrokinoleassociation.com/wp-content/uploads/2026/05/NCA-Official-Rules-of-Crokinole.docx.pdf), rule 3: with an opposing disc in play, your shot must hit one, directly or through your own disc. With none in play, a disc must end touching or inside the 15 line. Every shot below has to pass that test, or it comes off.
 

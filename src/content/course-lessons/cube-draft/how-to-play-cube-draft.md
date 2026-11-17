@@ -11,7 +11,7 @@ oneIdea: "A Cube is one shared box of hand-picked cards that a group drafts agai
 tryThis: "Ask the Magic players you know whether anyone owns a Cube. If someone does, ask when their next draft is and whether there is a seat for you."
 nextTeaser: "Next, how a draft works: eight seats, three packs, and the left, right, left pattern that decides which cards reach you."
 ---
-Most ways to play Magic: The Gathering ask each player to bring something. A deck, a collection, a budget for packs. A Cube asks for nothing. One person owns a box of cards, everyone sits down around it, and for one night the whole box belongs to the table.
+Most ways to play [Magic: The Gathering](https://www.amazon.com/dp/B0D9KXBNBB?tag=cubecommonw0a-20) ask each player to bring something. A deck, a collection, a budget for packs. A Cube asks for nothing. One person owns a box of cards, everyone sits down around it, and for one night the whole box belongs to the table.
 
 This course is an unofficial guide to Cube drafting, built as a ladder of six levels. It starts with how a draft works, how to read a card, and how to host a night. It climbs through deckbuilding, signals, mana, and archetypes, and ends with building, curating, and running a Cube of your own, then giving it an identity and sharpening your drafting with a practice plan. Every lesson is free and public.
 

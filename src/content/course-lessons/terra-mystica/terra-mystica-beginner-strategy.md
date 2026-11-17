@@ -11,7 +11,7 @@ oneIdea: "A Terra Mystica plan starts from the six Scoring tiles. Decide which r
 tryThis: "At setup, write the six Scoring tiles on a scrap of paper as a row (for example D, TH, SH/SA, Spade, Town, D), and mark which round you plan to build your Stronghold."
 nextTeaser: "Level 2 opens with the Power bowls: how the cycle really flows, what a leech is worth in points, and when sacrificing a token pays off."
 ---
-New Terra Mystica players often play the turn in front of them: build what is affordable, take what is offered, and pass when the money runs out. That plays a full game, but it scores far below what the same faction can do with a plan. The plan does not need to be clever. It needs to come from the Scoring tiles.
+New [Terra Mystica](https://www.amazon.com/dp/B00APPE4HK?tag=cubecommonw0a-20) players often play the turn in front of them: build what is affordable, take what is offered, and pass when the money runs out. That plays a full game, but it scores far below what the same faction can do with a plan. The plan does not need to be clever. It needs to come from the Scoring tiles.
 
 ## Step 1: read all six Scoring tiles
 

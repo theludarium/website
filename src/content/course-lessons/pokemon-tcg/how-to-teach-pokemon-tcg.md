@@ -11,7 +11,7 @@ oneIdea: "Teach the turn, not the card pool. Play the first game with hands face
 tryThis: "Play your next teaching game with both hands face up on the table, and stop after each attack to ask the learner what they think the other player will do next."
 nextTeaser: "Level 1 begins next: the mistakes almost every new player makes in their first ten games, and the one habit that fixes each."
 ---
-The Pokémon TCG has a reputation for being complicated. Part of that is the card pool: thousands of cards, each with its own text. But you never teach the card pool. You teach a turn, and the turn is short.
+The [Pokémon TCG](https://www.amazon.com/dp/B0FLP49KYM?tag=cubecommonw0a-20) has a reputation for being complicated. Part of that is the card pool: thousands of cards, each with its own text. But you never teach the card pool. You teach a turn, and the turn is short.
 
 This script is built for a parent teaching a kid, an older sibling teaching a younger one, or one friend teaching another. Print the [Pokémon TCG teach sheet](/academy/pokemon-tcg/teach-sheet/) and put it on the table between you. For the general craft of teaching any game, our guide on [how to teach a board game](/articles/how-to-teach-a-board-game/) pairs well with this one.
 

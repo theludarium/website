@@ -12,7 +12,7 @@ We think it is the best teaching game ever made, and not just for teaching card 
 
 ## How does The Crew work?
 
-If you have played Hearts, Spades, or Euchre, you know the bones. Cards are dealt out. One player leads a card; everyone else must follow suit if they can; the highest card of the led suit wins the trick, unless a trump card was played. In The Crew, the trump suit is a small set of rocket cards (or submarine cards, in Mission Deep Sea).
+If you have played Hearts, Spades, or [Euchre](https://www.amazon.com/dp/B09D464QFY?tag=cubecommonw0a-20), you know the bones. Cards are dealt out. One player leads a card; everyone else must follow suit if they can; the highest card of the led suit wins the trick, unless a trump card was played. In The Crew, the trump suit is a small set of rocket cards (or submarine cards, in Mission Deep Sea).
 
 The cooperative twist is the mission. Before play, task cards are dealt out, and each one says a specific player must win the trick containing a specific card. Mission one might be "someone must win the green 4." Mission twenty might be "these three cards must be won in this order by these three players, and nobody may win more tricks than the captain."
 

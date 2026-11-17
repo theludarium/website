@@ -11,7 +11,7 @@ oneIdea: "Build the skeleton before the stars. Decide the jobs a deck needs done
 tryThis: "Write your next deck on paper in four groups: attackers, support Pokémon, Trainers, Energy. Total each group before you buy or pull a single card."
 nextTeaser: "Next, the Prize trade: why the player who takes six Prize cards first is not always the one who Knocks Out the most Pokémon."
 ---
-Welcome to Level 2. At Level 1 you made a starter deck better, a few cards at a time. Now you build one from nothing. It is the part of the Pokémon TCG many players love most, and it is where a lot of good intentions turn into 60 cards that never quite work.
+Welcome to Level 2. At Level 1 you made a starter deck better, a few cards at a time. Now you build one from nothing. It is the part of the [Pokémon TCG](https://www.amazon.com/dp/B0FLP49KYM?tag=cubecommonw0a-20) many players love most, and it is where a lot of good intentions turn into 60 cards that never quite work.
 
 The fix is to build in the right order: rules first, then a skeleton, then the stars.
 

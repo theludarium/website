@@ -32,7 +32,7 @@ The games that last share three properties. They are familiar or very quick to l
 | [Dominoes](https://www.amazon.com/dp/B0007OWJ62?tag=cubecommonw0a-20) | Everyone knows it; tactile | Jumbo tiles with color-coded dots |
 | Skip-Bo or [Uno](https://www.amazon.com/dp/B07P6MZPK3?tag=cubecommonw0a-20) | Simple sequencing, lots of turns | Large-print decks; card holders |
 | [Cribbage](https://www.amazon.com/dp/B000I5NW66?tag=cubecommonw0a-20) | Deep enough to stay interesting for decades | Large-print cards; oversized board pegs |
-| Euchre, hearts, bridge | Lifelong card players already carry the rules | Card shufflers; card holders; good light |
+| [Euchre](https://www.amazon.com/dp/B09D464QFY?tag=cubecommonw0a-20), hearts, bridge | Lifelong card players already carry the rules | Card shufflers; card holders; good light |
 | Yahtzee | Dice, one sheet, five minutes to teach | Dice cup; large-print scorecards; one person as scribe |
 | [Qwirkle](https://www.amazon.com/dp/1933054395?tag=cubecommonw0a-20) | Shapes and colors, no text at all | Good light; color-blind-friendly edition if available |
 | Bingo | Social, low effort, large groups | Large-print cards and chips; a caller who repeats |

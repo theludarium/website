@@ -10,7 +10,7 @@ draft: false
 
 If you want to see the One Copy Rule taken to its limit, watch a Magic Cube draft. One person brings one box. Eight people sit down, build decks from it, play for three hours, and put every card back. Nobody buys anything. The same box comes out next week for a different eight people, and the week after that. One copy, unlimited players, unlimited plays.
 
-This is the seventh article in The Shared Shelf series from The Ludarium. You do not need to know anything about Magic: The Gathering to follow it. We will explain what a Cube is in plain terms, show why it is the purest example of a shared library we know of, and pull out three lessons any board game group can borrow, whether or not they ever touch a Magic card.
+This is the seventh article in The Shared Shelf series from The Ludarium. You do not need to know anything about [Magic: The Gathering](https://www.amazon.com/dp/B0D9KXBNBB?tag=cubecommonw0a-20) to follow it. We will explain what a Cube is in plain terms, show why it is the purest example of a shared library we know of, and pull out three lessons any board game group can borrow, whether or not they ever touch a Magic card.
 
 If you are new to the series, the rule the Cube proves is laid out in [The One Copy Rule](/articles/one-copy-rule/).
 

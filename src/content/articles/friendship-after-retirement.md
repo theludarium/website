@@ -64,7 +64,7 @@ The Blue Zones research by Dan Buettner [describes](https://danbuettner.com/2022
 
 Start smaller than you think and more regular than you think.
 
-1. **Pick one game you can teach in five minutes.** Euchre, cribbage, dominoes, or a modern game like [Azul](https://link.amazon/B0bGRYHex) or [Ticket to Ride](https://link.amazon/B0jh8RB7f). The game matters less than the regularity, but it should be easy to join.
+1. **Pick one game you can teach in five minutes.** [Euchre](https://www.amazon.com/dp/B09D464QFY?tag=cubecommonw0a-20), cribbage, dominoes, or a modern game like [Azul](https://link.amazon/B0bGRYHex) or [Ticket to Ride](https://link.amazon/B0jh8RB7f). The game matters less than the regularity, but it should be easy to join.
 2. **Invite two people, not ten.** A former colleague, a neighbor, a brother-in-law. Three regulars and an open chair is the right shape. It survives absences and grows on its own.
 3. **Pick a weekly time and don't move it.** Tuesday at two. Thursday at seven. The whole value is that nobody has to decide whether to go. It's just Tuesday.
 4. **Choose a place with no host burden.** A kitchen table works. So does a library, a senior center, a coffee shop, or a game lounge. The host should not have to clean or cook, or the thing dies in a month.

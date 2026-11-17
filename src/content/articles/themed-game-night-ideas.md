@@ -52,7 +52,7 @@ Pairs only. Set up four or five two-player tables and rotate opponents every gam
 
 ### 6. Dexterity Night
 
-Flicking, stacking, balancing. Crokinole if anyone owns a board, [Junk Art](https://www.amazon.com/dp/B07PXN8MKR?tag=cubecommonw0a-20), [Klask](https://www.amazon.com/dp/B07PKJZQ9G?tag=cubecommonw0a-20), [Rhino Hero](https://www.amazon.com/dp/B01M8LF7IA?tag=cubecommonw0a-20), [Jenga](https://www.amazon.com/dp/B09TBG3G5L?tag=cubecommonw0a-20).
+Flicking, stacking, balancing. [Crokinole](https://www.amazon.com/dp/B07N5G1MK4?tag=cubecommonw0a-20) if anyone owns a board, [Junk Art](https://www.amazon.com/dp/B07PXN8MKR?tag=cubecommonw0a-20), [Klask](https://www.amazon.com/dp/B07PKJZQ9G?tag=cubecommonw0a-20), [Rhino Hero](https://www.amazon.com/dp/B01M8LF7IA?tag=cubecommonw0a-20), [Jenga](https://www.amazon.com/dp/B09TBG3G5L?tag=cubecommonw0a-20).
 
 **The rule:** standing is allowed. Move the chairs out. This theme works for groups with wide age ranges because skill at reading rulebooks does not help.
 
@@ -88,7 +88,7 @@ Every game must be playable without speaking. [The Mind](https://www.amazon.com/
 
 ### 12. One Game, All Night
 
-Choose a single game with legs and play it three or four times in a row. [Catan](https://link.amazon/B0h8BDGR2), [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20), [Race for the Galaxy](https://www.amazon.com/dp/B000YLAOEW?tag=cubecommonw0a-20), or Cube drafts of Magic: The Gathering if your group plays Magic.
+Choose a single game with legs and play it three or four times in a row. [Catan](https://link.amazon/B0h8BDGR2), [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20), [Race for the Galaxy](https://www.amazon.com/dp/B000YLAOEW?tag=cubecommonw0a-20), or Cube drafts of [Magic: The Gathering](https://www.amazon.com/dp/B0D9KXBNBB?tag=cubecommonw0a-20) if your group plays Magic.
 
 **The rule:** between games, two minutes of open talk about what worked. Repetition is how people get good, and getting good at a game together is a bond.
 

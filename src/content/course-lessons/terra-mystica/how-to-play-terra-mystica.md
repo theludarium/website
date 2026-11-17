@@ -11,7 +11,7 @@ oneIdea: "Terra Mystica is a six-round race to grow one people across a map of s
 tryThis: "For your first game, use the rulebook's introductory setup with its fixed factions, Scoring tiles, and Bonus cards, so the table learns the rules before anyone learns to draft."
 nextTeaser: "Next, how to teach Terra Mystica: a host script that gets four people taking good actions in round one, in about twenty minutes."
 ---
-Terra Mystica is a game about fourteen magical peoples who reshape the land to suit themselves. Each faction builds only on its own Home terrain, so it transforms the land around it. There is no luck once the game starts, and everything is open information.
+[Terra Mystica](https://www.amazon.com/dp/B00APPE4HK?tag=cubecommonw0a-20) is a game about fourteen magical peoples who reshape the land to suit themselves. Each faction builds only on its own Home terrain, so it transforms the land around it. There is no luck once the game starts, and everything is open information.
 
 This lesson follows the current English rulebook from Capstone Games and uses its terms.
 

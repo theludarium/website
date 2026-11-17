@@ -11,7 +11,7 @@ oneIdea: "Crokinole is one rule with two halves: if your opponent has a disc on 
 tryThis: "Play one full round with 8 discs each and say the two halves of the valid-shot rule out loud before every shot until nobody needs the reminder."
 nextTeaser: "Next, how to teach crokinole: a five-minute host script, the first-round habits to model, and how to start kids and grandparents at the same board."
 ---
-Crokinole is a flicking game on a round wooden board. You flick small discs toward the center, knock your opponent's discs off, and try to leave yours near the middle when the last disc stops. It plays two (singles) or four (doubles), takes minutes to learn, and rewards years of practice.
+[Crokinole](https://www.amazon.com/dp/B07N5G1MK4?tag=cubecommonw0a-20) is a flicking game on a round wooden board. You flick small discs toward the center, knock your opponent's discs off, and try to leave yours near the middle when the last disc stops. It plays two (singles) or four (doubles), takes minutes to learn, and rewards years of practice.
 
 This lesson teaches the game the way tournaments play it, from the [Official Rules of Crokinole](https://nationalcrokinoleassociation.com/wp-content/uploads/2026/05/NCA-Official-Rules-of-Crokinole.docx.pdf) ratified by the National Crokinole Association (NCA) on May 6, 2026, checked against the [World Crokinole Championship rules](https://worldcrokinole.com/thegame.html). Where home games often differ, this lesson says so. For a shorter read with a little history, see our article on [crokinole rules](/articles/crokinole-rules/).
 

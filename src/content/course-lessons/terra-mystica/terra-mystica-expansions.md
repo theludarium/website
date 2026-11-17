@@ -56,7 +56,7 @@ If you are unsure an expansion is worth it at all, the Ludarium's article on [wh
 
 ## The sister games
 
-**[Gaia Project](https://www.amazon.com/dp/B08JCCV2VM?tag=cubecommonw0a-20)** moves the system into space. Terraforming becomes planet types, the cults become research tracks, and the factions and maps are variable. It is a full game, not an expansion, and many players find it a longer, heavier step up from Terra Mystica.
+**[Gaia Project](https://www.amazon.com/dp/B08JCCV2VM?tag=cubecommonw0a-20)** moves the system into space. Terraforming becomes planet types, the cults become research tracks, and the factions and maps are variable. It is a full game, not an expansion, and many players find it a longer, heavier step up from [Terra Mystica](https://www.amazon.com/dp/B00APPE4HK?tag=cubecommonw0a-20).
 
 **[Age of Innovation](https://www.amazon.com/dp/B0C31K7XMD?tag=cubecommonw0a-20)** is a standalone game in the Terra Mystica world, published in English by Capstone Games. It keeps terraforming and the Power bowls and adds more variable setup, such as palace abilities and innovations.
 
