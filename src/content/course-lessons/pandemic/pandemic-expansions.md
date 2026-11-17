@@ -13,7 +13,7 @@ nextTeaser: "Next, the free puzzles and scenarios: set positions with one goal a
 ---
 Pandemic plays 2 to 4 players out of the box, and the On the Brink expansion raises that to 5. Z-Man also posts free official solo rules, and all three Pandemic Legacy seasons play 2 to 4.
 
-[Pandemic](https://link.amazon/B0eHP5GCg) is a family of games, not just one box. There are expansions, Legacy campaigns, standalone versions, and free extras on the publisher's site. That is a lot to choose from. The good news: the base game has plenty of room to grow before you spend anything.
+[Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20) is a family of games, not just one box. There are expansions, Legacy campaigns, standalone versions, and free extras on the publisher's site. That is a lot to choose from. The good news: the base game has plenty of room to grow before you spend anything.
 
 ## How many players
 
@@ -57,7 +57,7 @@ All three need the base game.
 
 ## Pandemic Legacy
 
-**[Pandemic Legacy: Season 1](https://www.amazon.com/dp/B00TQ0DXR2?tag=cubecommonw0a-20)** turns the game into a campaign. You play through an in-game year, starting in January, and your decisions carry over: characters gain scars, cities panic, diseases mutate, and sealed packets add new rules as the story moves on. It plays 2 to 4, about an hour a game, with Z-Man listing ages 13 and up.
+**[Pandemic Legacy: Season 1](https://www.amazon.com/dp/B00TQ5SEAI?tag=cubecommonw0a-20)** turns the game into a campaign. You play through an in-game year, starting in January, and your decisions carry over: characters gain scars, cities panic, diseases mutate, and sealed packets add new rules as the story moves on. It plays 2 to 4, about an hour a game, with Z-Man listing ages 13 and up.
 
 **[Season 2](https://www.amazon.com/dp/B071HG6MPR?tag=cubecommonw0a-20)** is a standalone follow-up set in a changed world. **[Season 0](https://www.amazon.com/dp/B08F73L5BM?tag=cubecommonw0a-20)** is a prequel set in 1962, with a Cold War spy story. Each is its own complete campaign.
 
@@ -72,7 +72,7 @@ These play on their own, without the base game.
 - **[Pandemic: The Cure](https://www.amazon.com/dp/B00M4KGF5S?tag=cubecommonw0a-20)** is a dice version, about 30 minutes, for 2 to 5.
 - **[Hot Zone: North America](https://www.amazon.com/dp/B084ZZDSZY?tag=cubecommonw0a-20)** and **[Hot Zone: Europe](https://www.amazon.com/dp/B094DR378C?tag=cubecommonw0a-20)** are smaller, 30-minute versions with three diseases. Z-Man's site listed both as currently unavailable in November 2026.
 
-For younger kids, Forbidden Island is a lighter game by the same designer. Our [Pandemic vs Forbidden Island](/articles/pandemic-vs-forbidden-island/) comparison helps you choose.
+For younger kids, [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20) is a lighter game by the same designer. Our [Pandemic vs Forbidden Island](/articles/pandemic-vs-forbidden-island/) comparison helps you choose.
 
 ## How to choose
 

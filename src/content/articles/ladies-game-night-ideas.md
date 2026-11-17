@@ -79,15 +79,15 @@ Each pick lists its player count and roughly how long one game takes. We chose g
 
 #### 9. Azul (2 to 4 players, 30 to 45 minutes)
 
-[Azul](https://link.amazon/B0bGRYHex) is a beautiful tile-drafting game about decorating a palace wall. Turns are quick, the pieces feel like candy, and there is just enough strategy to make you groan when a friend takes the tiles you needed. Learn it with our free [how to play Azul](/academy/azul/how-to-play-azul/) lesson.
+[Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) is a beautiful tile-drafting game about decorating a palace wall. Turns are quick, the pieces feel like candy, and there is just enough strategy to make you groan when a friend takes the tiles you needed. Learn it with our free [how to play Azul](/academy/azul/how-to-play-azul/) lesson.
 
 #### 10. Cascadia (1 to 4 players, 30 to 45 minutes)
 
-[Cascadia](https://link.amazon/B0g1HYFt4) has you build a landscape of habitat tiles and wildlife tokens in the Pacific Northwest. It is calm, pretty, and easy to talk over, since you mostly build your own area.
+[Cascadia](https://www.amazon.com/dp/B093H8RGXX?tag=cubecommonw0a-20) has you build a landscape of habitat tiles and wildlife tokens in the Pacific Northwest. It is calm, pretty, and easy to talk over, since you mostly build your own area.
 
 #### 11. Ticket to Ride (2 to 5 players, 30 to 60 minutes)
 
-[Ticket to Ride](https://link.amazon/B0jh8RB7f) is the classic gateway game. Collect colored train cards and claim railway routes across a map. It is easy to teach and has a satisfying tension when someone takes the route you were saving for.
+[Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) is the classic gateway game. Collect colored train cards and claim railway routes across a map. It is easy to teach and has a satisfying tension when someone takes the route you were saving for.
 
 #### 12. Wingspan (1 to 5 players, 40 to 70 minutes)
 

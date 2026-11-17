@@ -117,7 +117,7 @@ Whether you ever play for a title or not, you now play a better game. Your turns
 
 ## What comes next?
 
-The Ludarium is starting a [Catan](https://link.amazon/B0h8BDGR2) practice league for players who want to train together. It isn't running yet. Subscribers will be the first to hear when it opens. If that sounds like you, [join the newsletter](/newsletter/).
+The Ludarium is starting a [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) practice league for players who want to train together. It isn't running yet. Subscribers will be the first to hear when it opens. If that sounds like you, [join the newsletter](/newsletter/).
 
 And the course is not going anywhere. Come back to [any of the 40 lessons](/academy/catan/) before a big event. The story of how this course began is in [I Came to Cube. I'm Staying for Catan.](/articles/catan-tournament-qualifier/)
 

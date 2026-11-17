@@ -7,7 +7,7 @@ games: [pandemic]
 tags: ["Pandemic board game", "how to play Pandemic", "Pandemic board game rules", "Pandemic co-op", "Pandemic board game review", "Pandemic expansions", "Cooperative and campaign games"]
 draft: false
 ---
-The [Pandemic](https://link.amazon/B0eHP5GCg) board game puts two to four players on one team against four spreading diseases. You win by curing all four. You lose if outbreaks pile up, the deck runs out, or the disease cubes do. It came out in 2008, and nearly two decades later it is still the game most people mean when they say "a co-op."
+The [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20) board game puts two to four players on one team against four spreading diseases. You win by curing all four. You lose if outbreaks pile up, the deck runs out, or the disease cubes do. It came out in 2008, and nearly two decades later it is still the game most people mean when they say "a co-op."
 
 This is an explainer, not a review. If you have heard of Pandemic and wondered what the fuss is about, or you own it and want to understand why it works so you can teach it better, this is for you.
 
@@ -63,7 +63,7 @@ At five Epidemics, the normal setting, an experienced table in our experience wi
 | [On the Brink](https://www.amazon.com/dp/B00CAG5LJ2?tag=cubecommonw0a-20) | More roles, a fifth player, a Bio-Terrorist variant | Groups who want variety |
 | [In the Lab](https://www.amazon.com/dp/B00CE3IA44?tag=cubecommonw0a-20) | Lab-based cure puzzle, team mode | Veterans who want more steps |
 | [State of Emergency](https://www.amazon.com/dp/B00SDUQ3LE?tag=cubecommonw0a-20) | Emergency events, harder challenges | Groups who win too often |
-| [Pandemic Legacy: Season 1](https://www.amazon.com/dp/B00TQ0DXR2?tag=cubecommonw0a-20) | A 12-month campaign that permanently changes the board | Committed groups of 2 to 4 |
+| [Pandemic Legacy: Season 1](https://www.amazon.com/dp/B00TQ5SEAI?tag=cubecommonw0a-20) | A 12-month campaign that permanently changes the board | Committed groups of 2 to 4 |
 | Pandemic Iberia | 1848 Spain, railroads, no cures | People who want a fresh map |
 | Pandemic: Hot Zone | A smaller, faster version on one region | Travel, families, short nights |
 

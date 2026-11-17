@@ -11,7 +11,7 @@ oneIdea: "At one or two players, a deck of House Hagal cards plays the extra hou
 tryThis: "In your next two-player or solo game, keep a tally of which spaces House Hagal sends Agents to. After a game or two you will know which spaces to take early."
 nextTeaser: "Level 4 starts next: reading a full four-player table, the setting most tournaments use."
 ---
-Dune: Imperium plays one to four, and Uprising one to six. At one or two players, an automated opponent driven by House Hagal cards fills the board, so spaces still get blocked and Conflicts still have a fight. This lesson covers how those opponents work in each version and how to play against them. Our article on [two-player board games](/articles/two-player-board-games-date-night/) and our [solo games guide](/articles/best-solo-board-games/) have the wider view.
+[Dune: Imperium](https://www.amazon.com/dp/B08JHB9V72?tag=cubecommonw0a-20) plays one to four, and Uprising one to six. At one or two players, an automated opponent driven by House Hagal cards fills the board, so spaces still get blocked and Conflicts still have a fight. This lesson covers how those opponents work in each version and how to play against them. Our article on [two-player board games](/articles/two-player-board-games-date-night/) and our [solo games guide](/articles/best-solo-board-games/) have the wider view.
 
 ## The original: House Hagal at two players
 

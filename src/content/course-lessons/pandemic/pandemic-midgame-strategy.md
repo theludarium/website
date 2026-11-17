@@ -11,7 +11,7 @@ oneIdea: "The Infection discard pile is a map of the future. After each Epidemic
 tryThis: "At the next Epidemic in your game, have one player read the Infection discard pile aloud before the shuffle. Then treat or guard any city on that list with 3 cubes."
 nextTeaser: "Next, card flow: how to plan Share Knowledge a turn ahead, pick a collector for each color, and stop the hand limit from eating your cures."
 ---
-After the first Epidemic, [Pandemic](https://link.amazon/B0eHP5GCg) changes. The opening was about defusing the setup cities. The midgame is about tempo: every action either buys time or moves the team toward a cure, and you never have enough of either. The teams that win are the ones that know which cities are coming next.
+After the first Epidemic, [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20) changes. The opening was about defusing the setup cities. The midgame is about tempo: every action either buys time or moves the team toward a cure, and you never have enough of either. The teams that win are the ones that know which cities are coming next.
 
 ## The discard pile is the future
 

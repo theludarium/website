@@ -42,11 +42,11 @@ The table below uses the "Best" result from each game's BGG poll as of November 
 | [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20)  | 2 to 8+ | 6 | Two teams of three is the sweet spot. For two, play [Codenames: Duet](https://www.amazon.com/dp/B0FJMNPGXM?tag=cubecommonw0a-20) . [Course](/academy/codenames/) |
 | [7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20)  | 3 to 7 | 4 | Everyone picks at once, so seven plays nearly as fast as three. [How to play](/academy/7-wonders/how-to-play-7-wonders/) |
 | [7 Wonders Duel](https://www.amazon.com/dp/B014DMSTXK?tag=cubecommonw0a-20)  | 2 | 2 | The two-player answer to 7 Wonders. |
-| [Azul](https://link.amazon/B0bGRYHex)  | 2 to 4 | 2 | More control and more spite at two. [Two-player strategy](/academy/azul/two-player-azul-strategy/) |
-| [Carcassonne](https://link.amazon/B012Rr5ed)  | 2 to 5 | 2 | The duel is the tournament format. [Two-player strategy](/academy/carcassonne/two-player-carcassonne-strategy/) |
-| [Cascadia](https://link.amazon/B0g1HYFt4)  | 1 to 4 | 2 | Quick and calm at two; four adds more scramble for tiles. [Two-player strategy](/academy/cascadia/two-player-cascadia-strategy/) |
-| [Catan](https://link.amazon/B0h8BDGR2)  | 3 to 4 | 4 | Three leaves too much open land. [A 5 to 6 player extension](https://www.amazon.com/dp/B0DYK1LYDT?tag=cubecommonw0a-20)  exists. [Course](/academy/catan/) |
-| [Ticket to Ride](https://link.amazon/B0jh8RB7f)  | 2 to 5 | 4 | At 2 or 3, double routes close after one is claimed. [Two-player strategy](/academy/ticket-to-ride/two-player-ticket-to-ride-strategy/) |
+| [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20)  | 2 to 4 | 2 | More control and more spite at two. [Two-player strategy](/academy/azul/two-player-azul-strategy/) |
+| [Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20)  | 2 to 5 | 2 | The duel is the tournament format. [Two-player strategy](/academy/carcassonne/two-player-carcassonne-strategy/) |
+| [Cascadia](https://www.amazon.com/dp/B093H8RGXX?tag=cubecommonw0a-20)  | 1 to 4 | 2 | Quick and calm at two; four adds more scramble for tiles. [Two-player strategy](/academy/cascadia/two-player-cascadia-strategy/) |
+| [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20)  | 3 to 4 | 4 | Three leaves too much open land. [A 5 to 6 player extension](https://www.amazon.com/dp/B0DYK1LYDT?tag=cubecommonw0a-20)  exists. [Course](/academy/catan/) |
+| [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20)  | 2 to 5 | 4 | At 2 or 3, double routes close after one is claimed. [Two-player strategy](/academy/ticket-to-ride/two-player-ticket-to-ride-strategy/) |
 | [Dune: Imperium](https://www.amazon.com/dp/B08JHB9V72?tag=cubecommonw0a-20)  | 1 to 4 | 3 | Three edges out four in the poll. [Two-player rules](/academy/dune-imperium/two-player-dune-imperium/) |
 | [Dune: Imperium Uprising](https://www.amazon.com/dp/B0CF3MVMKH?tag=cubecommonw0a-20)  | 1 to 6 | 4 | Six players play as two teams of three. [Uprising guide](/academy/dune-imperium/dune-imperium-uprising-and-expansions/) |
 | [The Castles of Burgundy](https://www.amazon.com/dp/B07R5ZH6FQ?tag=cubecommonw0a-20)  | 2 to 4 | 2 | The 2019 edition adds solo. [Two-player strategy](/academy/castles-of-burgundy/two-player-castles-of-burgundy-strategy/) |
@@ -56,13 +56,13 @@ The table below uses the "Best" result from each game's BGG poll as of November 
 | [Everdell](https://www.amazon.com/dp/B09ZWQTTNR?tag=cubecommonw0a-20)  | 1 to 4 | 3 | Two is quieter; four crowds the worker spots. [Two-player strategy](/academy/everdell/two-player-everdell-strategy/) |
 | [Ark Nova](https://www.amazon.com/dp/B09L6FCP9S?tag=cubecommonw0a-20)  | 1 to 4 | 2 | Long at four. [Two-player strategy](/academy/ark-nova/two-player-ark-nova-strategy/) |
 | [Brass: Birmingham](https://www.amazon.com/dp/1988884047?tag=cubecommonw0a-20)  | 2 to 4 | 4 | The board gets tight and the networks tangle. [Course](/academy/brass-birmingham/) |
-| [Splendor](https://link.amazon/B0fEvY6Wg)  | 2 to 4 | 3 | Fewer gems at two; more racing at four. [Two-player strategy](/academy/splendor/two-player-splendor-strategy/) |
-| [Kingdomino](https://link.amazon/B08l49zvA)  | 2 to 4 | 2 | The two-player Mighty Duel builds 7 by 7 kingdoms. [Variants](/academy/kingdomino/kingdomino-variants-and-expansions/) |
-| [Pandemic](https://link.amazon/B0eHP5GCg)  | 2 to 4 | 4 | Four roles, four sets of hands, a tougher deck to manage. [Course](/academy/pandemic/) |
+| [Splendor](https://www.amazon.com/dp/B00IZEUFIA?tag=cubecommonw0a-20)  | 2 to 4 | 3 | Fewer gems at two; more racing at four. [Two-player strategy](/academy/splendor/two-player-splendor-strategy/) |
+| [Kingdomino](https://www.amazon.com/dp/B01N3A4070?tag=cubecommonw0a-20)  | 2 to 4 | 2 | The two-player Mighty Duel builds 7 by 7 kingdoms. [Variants](/academy/kingdomino/kingdomino-variants-and-expansions/) |
+| [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20)  | 2 to 4 | 4 | Four roles, four sets of hands, a tougher deck to manage. [Course](/academy/pandemic/) |
 | [Sky Team](https://www.amazon.com/dp/B0CHD8RCSJ?tag=cubecommonw0a-20)  | 2 | 2 | A two-player co-op by design. [Course](/academy/sky-team/) |
 | [The Crew: The Quest for Planet Nine](https://www.amazon.com/dp/B084GP7X3P?tag=cubecommonw0a-20)  | 2 to 5 | 4 | Two players use a variant. [Player counts](/academy/the-crew/the-crew-player-counts/) |
 | [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20)  | 2 to 5 | 4 | Two works, but the draft feels thin; fans add a dummy hand. [Player counts](/academy/sushi-go/sushi-go-player-counts-and-variants/) |
-| [King of Tokyo](https://link.amazon/B0goO6BQA)  | 2 to 6 | 4 | Five or six opens Tokyo Bay, a second spot in the city. [Course](/academy/king-of-tokyo/) |
+| [King of Tokyo](https://www.amazon.com/dp/B01F46RPS4?tag=cubecommonw0a-20)  | 2 to 6 | 4 | Five or six opens Tokyo Bay, a second spot in the city. [Course](/academy/king-of-tokyo/) |
 | [Lost Ruins of Arnak](https://www.amazon.com/dp/B08CD3JVQB?tag=cubecommonw0a-20)  | 1 to 4 | 3 | Solo plays against an automated rival. [Two-player strategy](/academy/lost-ruins-of-arnak/two-player-lost-ruins-of-arnak-strategy/) |
 | [Heat: Pedal to the Metal](https://www.amazon.com/dp/B0BGXPZG4B?tag=cubecommonw0a-20)  | 1 to 6 | 6 | More cars, more slipstreams, more chaos in the corners. [Course](/academy/heat/) |
 | [Power Grid](https://www.amazon.com/dp/B07HM7WZT9?tag=cubecommonw0a-20)  | 2 to 6 | 4 | The number of map regions in play scales with the player count. [Two-player strategy](/academy/power-grid/two-player-power-grid-strategy/) |

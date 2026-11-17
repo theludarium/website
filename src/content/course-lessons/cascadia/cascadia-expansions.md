@@ -11,7 +11,7 @@ oneIdea: "The base box already holds several games: the standard game, solo mode
 tryThis: "Play solo scenario 1 this week. If you pass it, try scenario 2 with the B cards, and note which animal gave you the most trouble."
 nextTeaser: "Next, Level 2 begins with openings: all twenty scoring cards, what each one rewards, and how the five on the table should shape your first turns."
 ---
-Cascadia plays 1 to 4 players, per AEG, and the base box includes a solo mode. The Landmarks expansion adds the pieces for a fifth and sixth player, so the full range is 1 to 6.
+[Cascadia](https://www.amazon.com/dp/B093H8RGXX?tag=cubecommonw0a-20) plays 1 to 4 players, per AEG, and the base box includes a solo mode. The Landmarks expansion adds the pieces for a fifth and sixth player, so the full range is 1 to 6.
 
 Cascadia stays fresh longer than most games its size, because the scoring cards change what you are building every game. Before reaching for an expansion, it is worth knowing how much is already in the [base game](https://link.amazon/B0g1HYFt4): a solo mode, two simpler variants for families, and a whole achievement system with scenarios. This lesson covers all of it, then the products in the wider Cascadia family.
 

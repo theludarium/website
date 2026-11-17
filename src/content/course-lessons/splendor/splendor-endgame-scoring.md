@@ -11,7 +11,7 @@ oneIdea: "The end of Splendor is a counting problem. Know who gets another turn,
 tryThis: "When any player reaches 10 points in your next game, count how many turns you need to reach 15 and how many turns everyone else needs. Then play to that count."
 nextTeaser: "Next, the two-player duel: a tighter supply, three nobles, and one opponent whose every move you can track."
 ---
-[Splendor](https://link.amazon/B0fEvY6Wg) ends faster than people expect. One turn, everyone is building. The next, someone is at 12 and two cards from the finish. The players who win close games are the ones who counted before that moment arrived.
+[Splendor](https://www.amazon.com/dp/B00IZEUFIA?tag=cubecommonw0a-20) ends faster than people expect. One turn, everyone is building. The next, someone is at 12 and two cards from the finish. The players who win close games are the ones who counted before that moment arrived.
 
 ## How the end works
 

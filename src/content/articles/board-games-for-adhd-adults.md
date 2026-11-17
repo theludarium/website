@@ -43,7 +43,7 @@ The games that work tend to have short turns, constant involvement, and visible 
 
 With that in mind, some reliable picks:
 
-**[Azul](https://link.amazon/B0bGRYHex).** Turns take seconds, the tiles are satisfying to handle, and progress is visible on your board. It is also quiet enough not to overwhelm.
+**[Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20).** Turns take seconds, the tiles are satisfying to handle, and progress is visible on your board. It is also quiet enough not to overwhelm.
 
 **[Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20).** Everyone is involved every moment, whether giving the clue or arguing about it. There is no "waiting for your turn" because there are no individual turns.
 
@@ -55,7 +55,7 @@ With that in mind, some reliable picks:
 
 **Dice games and roll-and-writes.** Games like [Qwixx](https://www.amazon.com/dp/B00J57138C?tag=cubecommonw0a-20) or Ganz Schön Clever involve every player on every roll and give constant small decisions. Many people with ADHD find the pace exactly right.
 
-**[Pandemic](https://link.amazon/B0eHP5GCg), with a caveat.** Cooperative, visible progress, and a shared puzzle. But watch out for a dominant player taking over, which removes the involvement that makes it work. See [co-op games without a quarterback problem](/articles/co-op-games-without-quarterback-problem/) for alternatives.
+**[Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20), with a caveat.** Cooperative, visible progress, and a shared puzzle. But watch out for a dominant player taking over, which removes the involvement that makes it work. See [co-op games without a quarterback problem](/articles/co-op-games-without-quarterback-problem/) for alternatives.
 
 Games to approach carefully: anything with long, heavy turns and little to do while waiting. Some people with ADHD love Gloomhaven. Many bounce off it in session two.
 

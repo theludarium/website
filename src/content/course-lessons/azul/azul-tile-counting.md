@@ -11,7 +11,7 @@ oneIdea: "The bag is not a mystery. It holds 100 known tiles, it empties on a sc
 tryThis: "In your next game, at the start of every round, count how many tiles of one color you care about are on the displays and write it down. Before the bag empties, work out how many of that color are still inside."
 nextTeaser: "Next, the endgame and scoring math: what the bonuses cost to build, who controls the end, and how to play a last round with nothing wasted."
 ---
-The midgame lesson asked you to count the colors on walls and in pattern lines. This lesson goes one step further, into the bag itself. [Azul](https://link.amazon/B0bGRYHex) hides its next tiles in a cloth bag, but the bag holds a known set, it empties at a predictable moment, and it refills from a pile everyone watched being made. That is a lot of information for a game that looks like luck.
+The midgame lesson asked you to count the colors on walls and in pattern lines. This lesson goes one step further, into the bag itself. [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) hides its next tiles in a cloth bag, but the bag holds a known set, it empties at a predictable moment, and it refills from a pile everyone watched being made. That is a lot of information for a game that looks like luck.
 
 The numbers here are worked out from the real component counts: 100 tiles, 20 of each color, 4 tiles per factory display.
 

@@ -57,7 +57,7 @@ Start small. When a new person joins your table, ask the former newcomer to teac
 
 Picture a friend who learned [Codenames](/academy/codenames/) at your table a few months ago. Since then it has been a regular at your game nights, and she has had a turn as spymaster several times.
 
-One night she mentions her team at work has a long lunch on Fridays. You say, "You should bring Codenames. You could teach it in five minutes." She is unsure, so you hand her the [teach sheet](/academy/codenames/teach-sheet/) and run through the order once with her: two teams, the spymaster's one word and one number, guessing until you miss or stop, and the one word that loses you the game on the spot.
+One night she mentions her team at work has a long lunch on Fridays. You say, "You should bring [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20). You could teach it in five minutes." She is unsure, so you hand her the [teach sheet](/academy/codenames/teach-sheet/) and run through the order once with her: two teams, the spymaster's one word and one number, guessing until you miss or stop, and the one word that loses you the game on the spot.
 
 Two weeks later she tells you that her team plays every Friday now, and that someone in accounting has turned out to be a fearsome spymaster.
 

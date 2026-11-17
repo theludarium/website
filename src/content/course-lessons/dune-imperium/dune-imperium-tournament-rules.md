@@ -11,7 +11,7 @@ oneIdea: "Every event's scoring tells you how to play. At both big United States
 tryThis: "Pick the event you would most like to play. Read its current rules page start to finish, then play your next game as if only first place counts."
 nextTeaser: "Level 5 starts next: the events themselves, the World Boardgaming Championships and the North American Championship at Gen Con, and how to find local and online play."
 ---
-A tournament game of Dune: Imperium has the same rules as a game at home. What changes is the frame around it: how results are scored, how ties between players across games are broken, and how long you have. This lesson covers the two main events in the United States as they ran in 2026. Our guide to [running a board game tournament](/articles/how-to-run-a-board-game-tournament/) explains the formats from the organizer's side.
+A tournament game of [Dune: Imperium](https://www.amazon.com/dp/B08JHB9V72?tag=cubecommonw0a-20) has the same rules as a game at home. What changes is the frame around it: how results are scored, how ties between players across games are broken, and how long you have. This lesson covers the two main events in the United States as they ran in 2026. Our guide to [running a board game tournament](/articles/how-to-run-a-board-game-tournament/) explains the formats from the organizer's side.
 
 Formats change from year to year. Always read the current rules for your event.
 

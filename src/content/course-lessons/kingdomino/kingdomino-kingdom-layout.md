@@ -11,7 +11,7 @@ oneIdea: "Your kingdom has a fixed size but a floating frame. Decide early where
 tryThis: "Next game, after each placement, trace the 5 by 5 frame your kingdom will end up in with your finger. If you cannot trace one yet, you still have choices; once you can, protect every empty square inside it."
 nextTeaser: "Next, reading the table: how to see what each rival needs, and when taking their domino is worth more than taking yours."
 ---
-Most discards in [Kingdomino](https://link.amazon/B08l49zvA) are not bad luck. They come from a layout that boxed itself in three rounds earlier. A good kingdom is planned like a garden: big beds in the open, paths left clear, and no corner you cannot reach. This lesson covers the shape of the kingdom, from the castle to the last square.
+Most discards in [Kingdomino](https://www.amazon.com/dp/B01N3A4070?tag=cubecommonw0a-20) are not bad luck. They come from a layout that boxed itself in three rounds earlier. A good kingdom is planned like a garden: big beds in the open, paths left clear, and no corner you cannot reach. This lesson covers the shape of the kingdom, from the castle to the last square.
 
 ## The floating frame
 

@@ -111,4 +111,4 @@ Because a city in the infection discard pile reached three cubes before the next
 
 ## New guides first, to subscribers
 
-We think [Pandemic](https://link.amazon/B0eHP5GCg) is the best teaching game for groups who want to learn to plan together, and we will have it on the table at the Indianapolis lounge the day we open. The Ludarium newsletter sends new pieces on games and the people who play them. [Subscribe](/newsletter) if you want the next strategy guide before it goes on the site.
+We think [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20) is the best teaching game for groups who want to learn to plan together, and we will have it on the table at the Indianapolis lounge the day we open. The Ludarium newsletter sends new pieces on games and the people who play them. [Subscribe](/newsletter) if you want the next strategy guide before it goes on the site.

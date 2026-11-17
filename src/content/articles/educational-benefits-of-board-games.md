@@ -16,13 +16,13 @@ Here is the short list, each with the game that teaches it best. The rest of the
 
 | Skill | Why school struggles with it | Game that teaches it | Ages |
 |---|---|---|---|
-| Probability in the gut | Taught as formulas, rarely felt | [Catan](https://link.amazon/B0h8BDGR2), [Can't Stop](https://www.amazon.com/dp/B005DBRDPG?tag=cubecommonw0a-20), [Yahtzee](https://www.amazon.com/dp/B00TLEMRKM?tag=cubecommonw0a-20) | 8+ |
+| Probability in the gut | Taught as formulas, rarely felt | [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20), [Can't Stop](https://www.amazon.com/dp/B005DBRDPG?tag=cubecommonw0a-20), [Yahtzee](https://www.amazon.com/dp/B00TLEMRKM?tag=cubecommonw0a-20) | 8+ |
 | Negotiation | Almost never practiced | Catan, [Chinatown](https://www.amazon.com/dp/B00IVF4ZH0?tag=cubecommonw0a-20), [Monopoly Deal](https://www.amazon.com/dp/B0CPXCDG65?tag=cubecommonw0a-20) | 8+ |
 | Reading people | Not on any test | [Coup](https://www.amazon.com/dp/B00GDI4HX4?tag=cubecommonw0a-20), [Skull](https://www.amazon.com/dp/B08R2BPLSN?tag=cubecommonw0a-20), [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) | 10+ |
 | Losing and recovering | Grades punish failure | Any short game, played often | 5+ |
-| Planning under uncertainty | Assignments have fixed inputs | [Ticket to Ride](https://link.amazon/B0jh8RB7f), [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), [Pandemic](https://link.amazon/B0eHP5GCg) | 8+ |
-| Resource trade-offs | Rarely made concrete | [Splendor](https://link.amazon/B0fEvY6Wg), [Century: Spice Road](https://www.amazon.com/dp/B071DXCT5L?tag=cubecommonw0a-20), Catan | 8+ |
-| Spatial reasoning | Limited to geometry units | [Blokus](https://www.amazon.com/dp/B07PYDK18P?tag=cubecommonw0a-20), [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20), [Carcassonne](https://link.amazon/B012Rr5ed) | 6+ |
+| Planning under uncertainty | Assignments have fixed inputs | [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20), [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20) | 8+ |
+| Resource trade-offs | Rarely made concrete | [Splendor](https://www.amazon.com/dp/B00IZEUFIA?tag=cubecommonw0a-20), [Century: Spice Road](https://www.amazon.com/dp/B071DXCT5L?tag=cubecommonw0a-20), Catan | 8+ |
+| Spatial reasoning | Limited to geometry units | [Blokus](https://www.amazon.com/dp/B07PYDK18P?tag=cubecommonw0a-20), [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20), [Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20) | 6+ |
 | Explaining your thinking | Mostly in writing, alone | Any cooperative game, [Hanabi](https://www.amazon.com/dp/B01MXTGT21?tag=cubecommonw0a-20), The Crew | 8+ |
 | Rules as a shared agreement | Rules are imposed, not negotiated | Any game with a rules dispute | 6+ |
 
@@ -54,7 +54,7 @@ Codenames teaches a gentler version: thinking about what another person will thi
 
 ## How do games teach kids to fail?
 
-By making failure frequent, cheap, and followed by another try. A grade is a verdict. A lost game of [Kingdomino](https://link.amazon/B08l49zvA) is a data point, and the next game starts in ninety seconds.
+By making failure frequent, cheap, and followed by another try. A grade is a verdict. A lost game of [Kingdomino](https://www.amazon.com/dp/B01N3A4070?tag=cubecommonw0a-20) is a data point, and the next game starts in ninety seconds.
 
 This may be the most important thing on the list. A lot of children arrive at adulthood having been protected from failing at anything that mattered, and then fail at something that does and fall apart. A child who has lost three hundred board games by age twelve has a different relationship with losing. They know it is survivable. They know what to do next.
 
@@ -70,7 +70,7 @@ Hanabi and The Crew add a twist: limited communication. In Hanabi you hold your 
 
 It is real, and it is a bonus rather than the point.
 
-- **Arithmetic:** Scoring in almost any game. Ticket to Ride, [Azul](https://link.amazon/B0bGRYHex), and Wingspan all have end-game math a child will happily do because the number is theirs.
+- **Arithmetic:** Scoring in almost any game. Ticket to Ride, [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20), and Wingspan all have end-game math a child will happily do because the number is theirs.
 - **Reading:** Card text in games like Wingspan and Pandemic gives reluctant readers a reason to read. The motivation is the difference.
 - **Memory:** Memory-matching games for little kids, then Hanabi and Codenames for working memory in older ones.
 - **Fine motor skills:** Stacking games like [Rhino Hero](https://www.amazon.com/dp/B01M8LF7IA?tag=cubecommonw0a-20) and [Animal Upon Animal](https://www.amazon.com/dp/B073CD98D6?tag=cubecommonw0a-20) for the under-sevens.

@@ -11,7 +11,7 @@ oneIdea: "The ship moves on half of all rolls, so its distance tells you the odd
 tryThis: "At the end of each turn next game, say the ship's distance out loud and check it against the table here. Activate only when the table says the attack is likely before you can act again."
 nextTeaser: "The last Level 3 lesson covers player counts: three, four, and five to six with the extension, plus how Cities & Knights plays with Seafarers."
 ---
-The barbarian ship is the clock of Cities & Knights. New players watch it with dread; strong players watch it with numbers.
+The barbarian ship is the clock of [Cities & Knights](https://www.amazon.com/dp/B0DY87W8SS?tag=cubecommonw0a-20). New players watch it with dread; strong players watch it with numbers.
 
 ## How fast the ship moves
 

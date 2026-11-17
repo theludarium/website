@@ -11,7 +11,7 @@ oneIdea: "The fewer the players, the more the draft is a duel. With two players 
 tryThis: "Play the same week at two different player counts, and after each game note one thing you did differently. The list becomes your own player-count guide."
 nextTeaser: "Next, the Mighty Duel: the 7 by 7 two-player game with all 48 dominoes, where every domino in the box is yours or your rival's."
 ---
-[Kingdomino](https://link.amazon/B08l49zvA) plays 2 to 4 players, and both 2 and 3 are official counts. At 2, each player takes two kings (or you play the 7 by 7 Mighty Duel); at 3, each player has one king and the setup depends on your rulebook edition.
+[Kingdomino](https://www.amazon.com/dp/B01N3A4070?tag=cubecommonw0a-20) plays 2 to 4 players, and both 2 and 3 are official counts. At 2, each player takes two kings (or you play the 7 by 7 Mighty Duel); at 3, each player has one king and the setup depends on your rulebook edition.
 
 It is a different game at each count. With four players, it is a lively scramble where you control one pick in four. With two, it is a tight duel where you control half of every line. This lesson covers the rules for two and three players in both editions of the rulebook, and what to change in your play.
 

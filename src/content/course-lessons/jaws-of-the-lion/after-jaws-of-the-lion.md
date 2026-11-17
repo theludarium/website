@@ -11,7 +11,7 @@ oneIdea: "Jaws of the Lion teaches the system every Haven game shares. The next 
 tryThis: "Before you buy anything, ask your group two questions: how many more months of weekly play do we want, and how many of us will be there?"
 nextTeaser: "The last lesson: Hard and Very Hard, with a practice plan for winning Jaws of the Lion at its toughest."
 ---
-Finishing Jaws of the Lion leaves most groups with the same question: what next? Cephalofair makes three other games on the same core system, and each answers that question differently. This lesson compares them using the publisher's own product pages, with no spoilers for any of them.
+Finishing [Jaws of the Lion](https://www.amazon.com/dp/B088QSDB7S?tag=cubecommonw0a-20) leaves most groups with the same question: what next? Cephalofair makes three other games on the same core system, and each answers that question differently. This lesson compares them using the publisher's own product pages, with no spoilers for any of them.
 
 What carries over is the part you have spent this whole course learning: the two-card turn, initiative, the attack modifier deck, resting and exhaustion, elements, and monster focus. Those transfer directly, and they are the hard part of learning any Haven game.
 

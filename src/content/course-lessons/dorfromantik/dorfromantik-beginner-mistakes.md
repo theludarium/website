@@ -11,7 +11,7 @@ oneIdea: "Low early scores come from two places: small rules slips nobody caught
 tryThis: "After each of your next three games, find one Task marker you lost and name the tile that lost it. Then find one Flag that scored nothing and the turn you could have closed it."
 nextTeaser: "Next, Level 1 starts with scoring: how Task markers add up, how to stack a 4, a 5, and a 6 in one territory, and where most of your points come from."
 ---
-Your first three games of Dorfromantik are where a group finds its habits. Some points slip away because a rule was played a little wrong. Others slip away through legal choices that close doors ten tiles later. This lesson covers both, checked against the English rulebook. If you need the rules first, start with [how to play Dorfromantik: The Board Game](/academy/dorfromantik/how-to-play-dorfromantik/).
+Your first three games of [Dorfromantik](https://www.amazon.com/dp/B0BQ3W9GRL?tag=cubecommonw0a-20) are where a group finds its habits. Some points slip away because a rule was played a little wrong. Others slip away through legal choices that close doors ten tiles later. This lesson covers both, checked against the English rulebook. If you need the rules first, start with [how to play Dorfromantik: The Board Game](/academy/dorfromantik/how-to-play-dorfromantik/).
 
 ## Rules slips to catch early
 

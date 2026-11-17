@@ -24,7 +24,7 @@ levelCheck:
     explain: "Your count is public and you must give it when asked. Your cards are not. Showing them earns a warning, then a penalty."
 nextTeaser: "Next, the five minutes before anyone places. Lesson 31 turns your 60-second board read into a full map study checklist, with a time budget for every step."
 ---
-Here is the good news first. Official tournaments play [Catan](https://link.amazon/B0h8BDGR2), the same game you have played all along. The official rules say games follow the current [CATAN](https://link.amazon/B0h8BDGR2) 6th Edition English rules, and the cards, the costs, and the 10 points are all unchanged.
+Here is the good news first. Official tournaments play [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20), the same game you have played all along. The official rules say games follow the current [CATAN](https://link.amazon/B0h8BDGR2) 6th Edition English rules, and the cards, the costs, and the 10 points are all unchanged.
 
 What changes is the table around the game. A shared map, a clock, a live robber, and firm lines on trading. None of these are hard. They just reward different habits than a relaxed game night does. This lesson walks through each rule that differs from most kitchen tables, and what it changes in how you play.
 

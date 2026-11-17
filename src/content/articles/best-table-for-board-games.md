@@ -56,7 +56,7 @@ What works:
 4. **Put it on a dimmer.** Brighter for teaching and setup, softer once everyone knows the rules.
 5. **Watch the glare.** Glossy cards under a bare bulb are unreadable from certain angles. A shade or diffuser fixes it.
 
-The best test is a color-heavy game. Set up [Azul](https://link.amazon/B0bGRYHex) or [Sagrada](https://www.amazon.com/dp/B0GL8V2VFD?tag=cubecommonw0a-20) under your lights and see whether blue and black tiles are easy to tell apart from across the table. If not, the light is the problem.
+The best test is a color-heavy game. Set up [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) or [Sagrada](https://www.amazon.com/dp/B0GL8V2VFD?tag=cubecommonw0a-20) under your lights and see whether blue and black tiles are easy to tell apart from across the table. If not, the light is the problem.
 
 ## What about chairs?
 

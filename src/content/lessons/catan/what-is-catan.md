@@ -24,7 +24,7 @@ levelCheck:
     explain: "Catan keeps everyone at the table busy and in the hunt. Trading, a changing board, and close scores make it a friendly first step past the classic family games."
 nextTeaser: "Next, you build the island. Lesson 2 walks through the 19 hexes, the 18 number discs, and the 9 ports, then shows you how to set up a fresh board in about 10 minutes."
 ---
-Maybe you played [Catan](https://link.amazon/B0h8BDGR2) once at a friend's house. Someone handed you a pile of sheep, the rules came out in pieces between bites of pizza, and by the end you were hooked and a little lost at the same time. That is exactly where this course starts.
+Maybe you played [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) once at a friend's house. Someone handed you a pile of sheep, the rules came out in pieces between bites of pizza, and by the end you were hooked and a little lost at the same time. That is exactly where this course starts.
 
 Road to the Catan Championship is 40 free lessons, in six levels, that take you from opening the box to understanding what it takes to win a National Championship. Level 0 has one goal: set up and finish a game without reaching for the rulebook. This first lesson is the map. What the game is, where it came from, and the single goal every game shares.
 

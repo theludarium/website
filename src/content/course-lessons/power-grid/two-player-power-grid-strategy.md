@@ -66,7 +66,7 @@ Being start player means you open the auction first, then buy fuel and build las
 
 ## The Robots as a next step
 
-If you play mostly with two and want more variety, The Robots expansion adds robot companies with their own behavior. The [expansions lesson](/academy/power-grid/power-grid-expansions/) has the details.
+If you play mostly with two and want more variety, [The Robots](https://www.amazon.com/dp/B006VWVLIQ?tag=cubecommonw0a-20) expansion adds robot companies with their own behavior. The [expansions lesson](/academy/power-grid/power-grid-expansions/) has the details.
 
 <!-- AT OUR TABLE: one line on how two-player games of Power Grid go at Levi's table, such as which company setup or plant choice decides most of them. -->
 

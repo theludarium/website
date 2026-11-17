@@ -30,7 +30,7 @@ These costs and effects come from the base game rules, also on the [Dized rules 
 
 Each one also triggers the normal tile rules. An Aquifer, Greenery, or City placed next to oceans collects 2 M€ for each one, and printed bonuses on the space are yours too.
 
-**Expansions add two more.** Venus Next adds **Air Scrapping**: 15 M€ to raise the Venus track 1 step, which gives 1 TR. Colonies adds **Build Colony**: 17 M€ to place a colony on a Colony Tile and take its placement bonus. The [Colonies lesson](/academy/terraforming-mars/terraforming-mars-colonies-strategy/) covers that one in full.
+**Expansions add two more.** [Venus Next](https://www.amazon.com/dp/B0777M969L?tag=cubecommonw0a-20) adds **Air Scrapping**: 15 M€ to raise the Venus track 1 step, which gives 1 TR. Colonies adds **Build Colony**: 17 M€ to place a colony on a Colony Tile and take its placement bonus. The [Colonies lesson](/academy/terraforming-mars/terraforming-mars-colonies-strategy/) covers that one in full.
 
 ## The two free conversions
 

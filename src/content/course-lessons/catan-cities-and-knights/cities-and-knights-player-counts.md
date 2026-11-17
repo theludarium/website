@@ -11,7 +11,7 @@ oneIdea: "Player count changes the clock, not the rules: more players means more
 tryThis: "Before your next game, count the rolls between your chances to act at this player count, and use that number, not four, when you read the barbarian table."
 nextTeaser: "Level 4 begins with tournaments: how Cities & Knights events score their games, and how that scoring changes the way you play every table."
 ---
-Cities & Knights plays three or four out of the box. With the 5 to 6 extension it plays up to six, and it combines with Seafarers for a bigger map. The rules barely change between these setups. What changes is how fast everything moves around you, and that is what this lesson is about.
+[Cities & Knights](https://www.amazon.com/dp/B0DY87W8SS?tag=cubecommonw0a-20) plays three or four out of the box. With the 5 to 6 extension it plays up to six, and it combines with Seafarers for a bigger map. The rules barely change between these setups. What changes is how fast everything moves around you, and that is what this lesson is about.
 
 ## Three players versus four
 

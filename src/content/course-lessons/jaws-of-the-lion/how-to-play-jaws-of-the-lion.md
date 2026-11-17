@@ -59,4 +59,4 @@ If your hit points reach 0, or you cannot play two cards at the start of a round
 
 ## Winning a scenario
 
-Each scenario has a goal, such as killing all enemies. The scenario ends at the end of the round when the goal is met. Read the conclusion, take the rewards, and you are one step further into the campaign. For a wider view of whether the full Gloomhaven family suits your group, see [Is Gloomhaven worth it?](/articles/is-gloomhaven-worth-it/)
+Each scenario has a goal, such as killing all enemies. The scenario ends at the end of the round when the goal is met. Read the conclusion, take the rewards, and you are one step further into the campaign. For a wider view of whether the full [Gloomhaven](https://www.amazon.com/dp/B01LZXVN4P?tag=cubecommonw0a-20) family suits your group, see [Is Gloomhaven worth it?](/articles/is-gloomhaven-worth-it/)

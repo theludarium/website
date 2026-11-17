@@ -24,7 +24,7 @@ levelCheck:
     explain: "You have 5 settlements and 4 cities. With all 4 cities and 5 more settlements on the board, that is 8 plus 5, or 13 points."
 nextTeaser: "Next, Level 1 begins with the dots under every number. Lesson 6 turns Catan's dice odds into plain English, and shows why a 6 pays about five times as often as a 2."
 ---
-You know how to set up, how a turn works, and what a 7 does. The last piece of Level 0 is the finish line. [Catan](https://link.amazon/B0h8BDGR2) ends the moment one player reaches 10 victory points on their own turn, and there are only five ways to earn them. Learn all five and you will never again be surprised by someone flipping over cards and announcing they won.
+You know how to set up, how a turn works, and what a 7 does. The last piece of Level 0 is the finish line. [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) ends the moment one player reaches 10 victory points on their own turn, and there are only five ways to earn them. Learn all five and you will never again be surprised by someone flipping over cards and announcing they won.
 
 ## Where do victory points come from?
 

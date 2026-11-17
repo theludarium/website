@@ -11,7 +11,7 @@ oneIdea: "Teach the turn, the two placement rules, and how a Task marker counts.
 tryThis: "Keep your teach under ten minutes, then hand the first Task tile to the newest player and let the table talk them through it."
 nextTeaser: "Next, your first three games: the rules slips and placement habits that cost new groups their tasks, and how to fix each one."
 ---
-Dorfromantik is gentle to learn and easy to over-teach. The rules fit on a page, but there are enough little cases (closed territories, cancelled markers, the ending) that a host can talk for twenty minutes before anyone touches a tile. Do not. Teach what the first turn needs, then teach the rest when the map asks for it.
+[Dorfromantik](https://www.amazon.com/dp/B0BQ3W9GRL?tag=cubecommonw0a-20) is gentle to learn and easy to over-teach. The rules fit on a page, but there are enough little cases (closed territories, cancelled markers, the ending) that a host can talk for twenty minutes before anyone touches a tile. Do not. Teach what the first turn needs, then teach the rest when the map asks for it.
 
 Print the [Dorfromantik teach sheet](/academy/dorfromantik/teach-sheet/) and set it where everyone can read it. Need the rules yourself first? Start with [how to play Dorfromantik: The Board Game](/academy/dorfromantik/how-to-play-dorfromantik/). Our guide on [how to teach a board game](/articles/how-to-teach-a-board-game/) pairs well with this one.
 

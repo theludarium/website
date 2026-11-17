@@ -101,8 +101,8 @@ These are good starting points. The ages are the publishers' suggested ages, and
 |---|---|---|
 | 2 to 4 | First Orchard, Hoot Owl Hoot! | Cooperative, short, big pieces |
 | 5 to 7 | [Outfoxed!](https://link.amazon/B0hYNduxd), [Dragomino](https://link.amazon/B09WKyU19), Rhino Hero, [Ticket to Ride: First Journey](https://link.amazon/B0fAA009A) | Real choices with little or no reading |
-| 8 to 10 | [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), [Kingdomino](https://link.amazon/B08l49zvA), [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20), [Azul](https://link.amazon/B0bGRYHex) | Quick turns, light strategy, nobody knocked out |
-| 10 and up | [Ticket to Ride](https://link.amazon/B0jh8RB7f), [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20), [Codenames: Pictures](https://www.amazon.com/dp/B01HT9DERU?tag=cubecommonw0a-20) | Deeper play that still teaches in minutes |
+| 8 to 10 | [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), [Kingdomino](https://www.amazon.com/dp/B01N3A4070?tag=cubecommonw0a-20), [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20), [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) | Quick turns, light strategy, nobody knocked out |
+| 10 and up | [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20), [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20), [Codenames: Pictures](https://www.amazon.com/dp/B01HT9DERU?tag=cubecommonw0a-20) | Deeper play that still teaches in minutes |
 
 A few notes on the picks:
 

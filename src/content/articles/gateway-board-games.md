@@ -20,21 +20,21 @@ The word gets thrown around loosely, so here is a working definition. A gateway 
 - Rewards the new player with at least one moment of feeling clever.
 - Points toward a deeper game that uses the same ideas.
 
-[Catan](https://link.amazon/B0h8BDGR2) is the classic example. Its trading and building taught a generation that games could be social and strategic at once, and it led millions of people to everything that came after. But Catan is twenty years older than most of the games below, and the newer ones do the job faster.
+[Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) is the classic example. Its trading and building taught a generation that games could be social and strategic at once, and it led millions of people to everything that came after. But Catan is twenty years older than most of the games below, and the newer ones do the job faster.
 
 ## The 10 best gateway board games
 
 | Game | Players | Time | Why it works |
 |---|---|---|---|
-| [Ticket to Ride](https://link.amazon/B0jh8RB7f) | 2 to 5 | 45 to 60 min | Collect, claim, connect. Instantly clear |
+| [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) | 2 to 5 | 45 to 60 min | Collect, claim, connect. Instantly clear |
 | [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) | 4 to 8+ | 15 min | Word clues, team play, zero setup |
-| [Azul](https://link.amazon/B0bGRYHex) | 2 to 4 | 30 to 45 min | One rule, gorgeous tiles, real decisions |
-| [Carcassonne](https://link.amazon/B012Rr5ed) | 2 to 5 | 35 to 45 min | Place a tile, place a [meeple](/articles/what-is-a-meeple/), build France |
-| [Splendor](https://link.amazon/B0fEvY6Wg) | 2 to 4 | 30 min | A first taste of engine building |
+| [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) | 2 to 4 | 30 to 45 min | One rule, gorgeous tiles, real decisions |
+| [Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20) | 2 to 5 | 35 to 45 min | Place a tile, place a [meeple](/articles/what-is-a-meeple/), build France |
+| [Splendor](https://www.amazon.com/dp/B00IZEUFIA?tag=cubecommonw0a-20) | 2 to 4 | 30 min | A first taste of engine building |
 | [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) | 2 to 5 | 15 min | Card drafting in a quarter hour |
-| [Kingdomino](https://link.amazon/B08l49zvA) | 2 to 4 | 15 to 20 min | Dominoes meets kingdom building |
-| [Pandemic](https://link.amazon/B0eHP5GCg) | 2 to 4 | 45 min | The cooperative game everyone should try once |
-| [King of Tokyo](https://link.amazon/B0goO6BQA) | 2 to 6 | 30 min | Yahtzee with monsters |
+| [Kingdomino](https://www.amazon.com/dp/B01N3A4070?tag=cubecommonw0a-20) | 2 to 4 | 15 to 20 min | Dominoes meets kingdom building |
+| [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20) | 2 to 4 | 45 min | The cooperative game everyone should try once |
+| [King of Tokyo](https://www.amazon.com/dp/B01F46RPS4?tag=cubecommonw0a-20) | 2 to 6 | 30 min | Yahtzee with monsters |
 | Catan | 3 to 4 | 60 to 90 min | The original, still the best at trading |
 
 ### Ticket to Ride
@@ -53,7 +53,7 @@ Leads to: [Decrypto](https://www.amazon.com/dp/B07BB4ND6J?tag=cubecommonw0a-20),
 
 Draft tiles from the center, lay them on your board, score rows and patterns. The components are heavy and pleasant. The one penalty rule, that tiles you cannot place cost points, teaches planning without a lecture.
 
-Leads to: abstract strategy and tile-laying games. Players who like Azul often pick up [Sagrada](https://www.amazon.com/dp/B0GL8V2VFD?tag=cubecommonw0a-20) or [Cascadia](https://link.amazon/B0g1HYFt4) next.
+Leads to: abstract strategy and tile-laying games. Players who like Azul often pick up [Sagrada](https://www.amazon.com/dp/B0GL8V2VFD?tag=cubecommonw0a-20) or [Cascadia](https://www.amazon.com/dp/B093H8RGXX?tag=cubecommonw0a-20) next.
 
 ### Carcassonne
 

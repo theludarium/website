@@ -11,7 +11,7 @@ oneIdea: "The board is a map of seven Agent icons. Learn which spaces each icon 
 tryThis: "Before your next game, pick up each card in your starting deck and name every space it can reach. Do it once and the board stops looking busy."
 nextTeaser: "Level 1 starts next: your first three games, and the troop, card, and Alliance slips that trip up almost every new table."
 ---
-The Dune: Imperium board looks crowded the first time it hits the table. It is not as big as it looks. The original game has 22 board spaces, and every one of them belongs to one of seven Agent icons. Once you can see the board as seven neighborhoods, every card in your hand tells you exactly where it can go.
+The [Dune: Imperium](https://www.amazon.com/dp/B08JHB9V72?tag=cubecommonw0a-20) board looks crowded the first time it hits the table. It is not as big as it looks. The original game has 22 board spaces, and every one of them belongs to one of seven Agent icons. Once you can see the board as seven neighborhoods, every card in your hand tells you exactly where it can go.
 
 This lesson walks the board area by area, using the [rulebook](https://d19y2ttatozxjp.cloudfront.net/pdfs/DUNE_IMPERIUM_Rules_2020_10_26.pdf) and Dire Wolf's [board space player aid](https://d19y2ttatozxjp.cloudfront.net/pdfs/DUNE_IMPERIUM_Player_Aid_Icons_and_Board_Spaces.pdf).
 

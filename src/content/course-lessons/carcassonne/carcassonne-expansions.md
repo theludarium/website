@@ -13,7 +13,7 @@ nextTeaser: "Next, Level 2 begins with the midgame: merging into cities, blockin
 ---
 Carcassonne plays 2 to 5 players out of the box. The Inns & Cathedrals expansion adds pieces for a sixth player, and Z-Man publishes an official solo variant that uses only the base game.
 
-[Carcassonne](https://link.amazon/B012Rr5ed) has more expansions than almost any game on the shelf. That is a gift and a trap. Add too much at once and the clean three-step turn disappears under special pieces. Add one thing at a time and the game can grow with your group for years.
+[Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20) has more expansions than almost any game on the shelf. That is a gift and a trap. Add too much at once and the clean three-step turn disappears under special pieces. Add one thing at a time and the game can grow with your group for years.
 
 This lesson starts with what changes at different player counts, then the two small expansions already in the base box, then the expansion boxes worth knowing.
 

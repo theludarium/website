@@ -13,7 +13,7 @@ nextTeaser: "Next, the big decision of the midgame: trade, politics, or science.
 ---
 Welcome to Level 2. You know the pieces now: knights, the barbarian ship, commodities, and the three improvement tracks. This level is about turning that knowledge into a plan, and every plan starts at placement.
 
-Cities & Knights changes setup in one way that matters more than any other. Your second placement is a city, not a settlement. That city pays double from the very first roll, and it is the only kind of building that makes commodities. Pick it well and your whole game is easier.
+[Cities & Knights](https://www.amazon.com/dp/B0DY87W8SS?tag=cubecommonw0a-20) changes setup in one way that matters more than any other. Your second placement is a city, not a settlement. That city pays double from the very first roll, and it is the only kind of building that makes commodities. Pick it well and your whole game is easier.
 
 ## The city spot is the real first pick
 

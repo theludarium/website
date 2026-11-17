@@ -26,7 +26,7 @@ nextTeaser: "Next, you put that knowledge to work. Lesson 22 covers robber tacti
 ---
 Welcome to Level 3. Levels 1 and 2 taught you to play the board: the pips, the openings, the trades, the bonuses. This level is about the other players. What they hold, what they need, and how close they are to winning.
 
-It starts with a skill that sounds like a casino trick but is really just paying attention. In [Catan](https://link.amazon/B0h8BDGR2), almost every card moves in plain sight. If you watch, you can know most of what each opponent is holding.
+It starts with a skill that sounds like a casino trick but is really just paying attention. In [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20), almost every card moves in plain sight. If you watch, you can know most of what each opponent is holding.
 
 ## Why bother tracking hands?
 

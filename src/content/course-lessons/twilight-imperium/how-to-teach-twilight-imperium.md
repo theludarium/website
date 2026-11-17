@@ -11,7 +11,7 @@ oneIdea: "Teach the round and the three actions, then start playing. Combat, age
 tryThis: "Send every player their faction and a link to this course's first lesson a few days before game night, and ask them to read their faction sheet once."
 nextTeaser: "Level 1 starts with the rules new players get wrong: the movement, scoring, and command token slips that quietly change a whole game."
 ---
-The classic Twilight Imperium mistake is a ninety-minute teach followed by a nine-hour game. Nobody remembers a rule they heard two hours before they needed it. A better teach is short and ordered: the goal, the round, the three actions, then play. Everything else waits until it happens.
+The classic [Twilight Imperium](https://www.amazon.com/dp/B074YPSTRP?tag=cubecommonw0a-20) mistake is a ninety-minute teach followed by a nine-hour game. Nobody remembers a rule they heard two hours before they needed it. A better teach is short and ordered: the goal, the round, the three actions, then play. Everything else waits until it happens.
 
 This script runs about 30 minutes for a table of new players. The general method behind it is in [how to teach a board game](/articles/how-to-teach-a-board-game/).
 

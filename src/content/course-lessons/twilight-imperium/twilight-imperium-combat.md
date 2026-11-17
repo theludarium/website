@@ -11,7 +11,7 @@ oneIdea: "Every combat roll is a single d10 that hits on its unit's combat value
 tryThis: "Before every attack in your next game, say the expected hits for both sides out loud, using the table in this lesson, and decide whether the trade is worth it."
 nextTeaser: "Level 4 starts with player counts and expansions: Prophecy of Kings, Thunder's Edge, the free Codex updates, and what each changes at the table."
 ---
-Combat in Twilight Imperium looks like a pile of dice, and it is. But each die follows one rule: roll a ten-sided die, and it hits if the result is equal to or higher than the unit's combat value (18.1). The 0 counts as 10. So a unit with combat value C hits with a chance of (11 minus C) in 10.
+Combat in [Twilight Imperium](https://www.amazon.com/dp/B074YPSTRP?tag=cubecommonw0a-20) looks like a pile of dice, and it is. But each die follows one rule: roll a ten-sided die, and it hits if the result is equal to or higher than the unit's combat value (18.1). The 0 counts as 10. So a unit with combat value C hits with a chance of (11 minus C) in 10.
 
 That one formula, plus the order of steps, is most of what you need. Values below are the standard units from the faction sheets. Your faction may have special units, so check your sheet.
 

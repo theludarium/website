@@ -75,4 +75,4 @@ At turns 5, 10, and 15, count your two or three main corridors and glance at eve
 
 That count takes thirty seconds, and it turns tiles from packaging into points. The [endgame lesson](/academy/cascadia/cascadia-scoring/) at Level 2 takes the same count into the last five turns.
 
-If your group likes this kind of quiet spatial puzzle, our guide to [board game weight](/articles/board-game-weight-explained/) explains why [Cascadia](https://link.amazon/B0g1HYFt4) feels light to learn but rewards this kind of planning.
+If your group likes this kind of quiet spatial puzzle, our guide to [board game weight](/articles/board-game-weight-explained/) explains why [Cascadia](https://www.amazon.com/dp/B093H8RGXX?tag=cubecommonw0a-20) feels light to learn but rewards this kind of planning.

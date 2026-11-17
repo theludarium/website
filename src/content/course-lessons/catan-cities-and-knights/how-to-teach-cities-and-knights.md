@@ -11,7 +11,7 @@ oneIdea: "Teach Cities & Knights as base Catan plus one shared threat. Start wit
 tryThis: "Before your next teach, print the teach sheet and hand one copy to the player on your left. Have them run the event die for the first two rounds."
 nextTeaser: "Next, what actually changes from base Catan, and what each change does to the way you should play."
 ---
-Cities & Knights has a reputation as a long teach. It does not need to be one. Your players already know how to settle, roll, trade, and build. You only teach what is new, and you teach it in the order the game will throw it at them.
+[Cities & Knights](https://www.amazon.com/dp/B0DY87W8SS?tag=cubecommonw0a-20) has a reputation as a long teach. It does not need to be one. Your players already know how to settle, roll, trade, and build. You only teach what is new, and you teach it in the order the game will throw it at them.
 
 This script runs about ten minutes with the board already set up. Keep the [Cities & Knights teach sheet](/academy/catan-cities-and-knights/teach-sheet/) on the table so nobody has to remember costs. If anyone at the table has never played Catan, teach the base game first; our [Catan course](/academy/catan/) has you covered.
 

@@ -11,7 +11,7 @@ oneIdea: "Monsters in Jaws of the Lion are predictable. Find the character each 
 tryThis: "Before card selection each round, point at every monster and say who it will focus on. Check yourself when it acts."
 nextTeaser: "Next: the campaign, spoiler-free. How the city map, items, perks, battle goals, and levels fit together over 25 scenarios."
 ---
-There is no game master in Jaws of the Lion. The monsters run on a short set of rules, and once you can run those rules in your head, the game changes. You stop reacting to monsters and start placing them. This lesson walks through the rules in the order a monster uses them, citing the Learn to Play Guide by page.
+There is no game master in [Jaws of the Lion](https://www.amazon.com/dp/B088QSDB7S?tag=cubecommonw0a-20). The monsters run on a short set of rules, and once you can run those rules in your head, the game changes. You stop reacting to monsters and start placing them. This lesson walks through the rules in the order a monster uses them, citing the Learn to Play Guide by page.
 
 ## Step 1: find the focus
 

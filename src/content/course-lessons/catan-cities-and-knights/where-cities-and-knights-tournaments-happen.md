@@ -11,7 +11,7 @@ oneIdea: "Cities & Knights tournaments live at big conventions and mind sports f
 tryThis: "Pick one event from this lesson, find its current listing yourself, and write down three things: the date, how to register, and the scoring format. If the listing does not say, write the question you will ask."
 nextTeaser: "Next, your first Gen Con event: finding a Cities & Knights listing in the catalog, badges and tickets, generic tickets, and what to bring to the table."
 ---
-Welcome to Level 5, the championship path. Base Catan has an official ladder from local qualifiers to a World Championship, and the base course walks it in [How Catan Tournaments Work](/academy/catan/how-catan-tournaments-work/). Cities & Knights does not. Catan's championship pages describe national and international tournaments for the base game, and say nothing about a Cities & Knights circuit.
+Welcome to Level 5, the championship path. Base Catan has an official ladder from local qualifiers to a World Championship, and the base course walks it in [How Catan Tournaments Work](/academy/catan/how-catan-tournaments-work/). [Cities & Knights](https://www.amazon.com/dp/B0DY87W8SS?tag=cubecommonw0a-20) does not. Catan's championship pages describe national and international tournaments for the base game, and say nothing about a Cities & Knights circuit.
 
 What it has instead is a set of events at large conventions and festivals, several of them listed on Catan's own event pages. This lesson covers the ones we could confirm from their own pages, and then how to find the next one yourself.
 

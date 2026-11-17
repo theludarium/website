@@ -11,7 +11,7 @@ oneIdea: "The form you end your turn in decides what the villain does to you. He
 tryThis: "At the end of each of your turns next game, say out loud which form you are ending in and what you expect the villain to do because of it."
 nextTeaser: "Level 2 starts with the five core set heroes: what each one wants, which form they live in, and a plan for each."
 ---
-Every identity card in Marvel Champions has two sides. The hero side is the costumed character. The alter-ego side is the person behind the mask. You start the game as the alter-ego, and once per round, on your own turn, you may flip.
+Every identity card in [Marvel Champions](https://www.amazon.com/dp/B07W1BF6D5?tag=cubecommonw0a-20) has two sides. The hero side is the costumed character. The alter-ego side is the person behind the mask. You start the game as the alter-ego, and once per round, on your own turn, you may flip.
 
 That flip is the most important decision in the game, and new players often make it by habit. This lesson is about making it on purpose.
 

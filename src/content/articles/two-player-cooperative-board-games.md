@@ -42,7 +42,7 @@ Still fine at two. Each player takes a role; some couples take two roles each fo
 
 ### 6. Forbidden Island / Forbidden Desert
 
-Lighter and shorter than [Pandemic](https://link.amazon/B0eHP5GCg), and both play well at two. [Forbidden Desert](https://www.amazon.com/dp/B00B4ECHJI?tag=cubecommonw0a-20)'s shifting sandstorm is a little more interesting at low counts.
+Lighter and shorter than [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20), and both play well at two. [Forbidden Desert](https://www.amazon.com/dp/B00B4ECHJI?tag=cubecommonw0a-20)'s shifting sandstorm is a little more interesting at low counts.
 
 ### 7. Spirit Island
 
@@ -124,7 +124,7 @@ Codenames: Duet and Sky Team both fit, and a single mission of The Crew (with th
 
 ### What is a good two-player campaign game for couples?
 
-[Pandemic Legacy: Season 1](https://www.amazon.com/dp/B00TQ0DXR2?tag=cubecommonw0a-20) for a story-driven campaign, and Jaws of the Lion for a tactical one. Both play well at two and finish in a few months.
+[Pandemic Legacy: Season 1](https://www.amazon.com/dp/B00TQ5SEAI?tag=cubecommonw0a-20) for a story-driven campaign, and Jaws of the Lion for a tactical one. Both play well at two and finish in a few months.
 
 ## One table, new side, one ideas
 

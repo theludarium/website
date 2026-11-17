@@ -7,7 +7,7 @@ category: Game Shelf
 tags: ["games like wingspan", "board games like wingspan", "if you like wingspan", "nature board games", "engine building games", "wingspan alternatives"]
 draft: false
 ---
-The best games like [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) depend on what hooked you. If it was the birds and the calm, play [Cascadia](https://link.amazon/B0g1HYFt4) or [Harmonies](https://www.amazon.com/dp/B0CVNPHPZY?tag=cubecommonw0a-20). If it was the engine that hums by round three, play [Earth](https://www.amazon.com/dp/B0BWS9R9TZ?tag=cubecommonw0a-20), [Everdell](https://www.amazon.com/dp/B09ZWQTTNR?tag=cubecommonw0a-20), or [Wyrmspan](https://www.amazon.com/dp/B0CJXNW71N?tag=cubecommonw0a-20). If you want Wingspan with a fresh coat of paint, play [Finspan](https://www.amazon.com/dp/B0DPJK3PRF?tag=cubecommonw0a-20) or [Wingspan Asia](https://www.amazon.com/dp/B0BH72GXZ5?tag=cubecommonw0a-20). And if you finished your last game wishing it were harder, [Ark Nova](https://www.amazon.com/dp/B09L6FCP9S?tag=cubecommonw0a-20) and [Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20) are waiting.
+The best games like [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) depend on what hooked you. If it was the birds and the calm, play [Cascadia](https://www.amazon.com/dp/B093H8RGXX?tag=cubecommonw0a-20) or [Harmonies](https://www.amazon.com/dp/B0CVNPHPZY?tag=cubecommonw0a-20). If it was the engine that hums by round three, play [Earth](https://www.amazon.com/dp/B0BWS9R9TZ?tag=cubecommonw0a-20), [Everdell](https://www.amazon.com/dp/B09ZWQTTNR?tag=cubecommonw0a-20), or [Wyrmspan](https://www.amazon.com/dp/B0CJXNW71N?tag=cubecommonw0a-20). If you want Wingspan with a fresh coat of paint, play [Finspan](https://www.amazon.com/dp/B0DPJK3PRF?tag=cubecommonw0a-20) or [Wingspan Asia](https://www.amazon.com/dp/B0BH72GXZ5?tag=cubecommonw0a-20). And if you finished your last game wishing it were harder, [Ark Nova](https://www.amazon.com/dp/B09L6FCP9S?tag=cubecommonw0a-20) and [Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20) are waiting.
 
 **The quick answer:** for most tables, start with **Cascadia** (lighter, faster, just as pretty) or **Everdell** (a bit heavier, with a city that grows like your aviary). For a group that already plays Wingspan every week, **Wyrmspan** is the natural next box. For the hobbyist who wants a long, crunchy evening, **Ark Nova** is the big sibling Wingspan fans keep reaching for.
 
@@ -37,7 +37,7 @@ No game on this list hits all four exactly the way Wingspan does. That is the po
 | [Parks](https://www.amazon.com/dp/B0F1XYNQ48?tag=cubecommonw0a-20) | Henry Audubon | 1 to 5 | 40 to 60 min | 2019 | National park art, low conflict |
 | Earth | Maxime Tardif | 1 to 5 | 45 to 90 min | 2023 | Nature tableau that turns into an engine |
 | Everdell | James A. Wilson | 1 to 4 | 40 to 80 min | 2018 | A card engine with animal art |
-| [Splendor](https://link.amazon/B0fEvY6Wg) | Marc André | 2 to 4 | 30 min | 2014 | The purest small engine there is |
+| [Splendor](https://www.amazon.com/dp/B00IZEUFIA?tag=cubecommonw0a-20) | Marc André | 2 to 4 | 30 min | 2014 | The purest small engine there is |
 | Ark Nova | Mathias Wigge | 1 to 4 | 90 to 150 min | 2021 | Animals, habitats, a much deeper engine |
 | Terraforming Mars | Jacob Fryxelius | 1 to 5 | About 2 hours | 2016 | Card engine, science theme, long arc |
 

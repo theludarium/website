@@ -11,7 +11,7 @@ oneIdea: "Most first-game trouble comes from two places: small rules slips about
 tryThis: "After each of your next three games, add up how many points each player lost on the floor line across the whole game. Whoever lost the fewest usually learned the most."
 nextTeaser: "Next, openings. We look at the first two rounds, where your first tiles should land on the wall, and when the starting player marker is worth a point."
 ---
-Your first three games of [Azul](https://link.amazon/B0bGRYHex) are where habits form. Some of those habits are rules mistakes, quietly played wrong because nobody checked the book. Others are legal moves that cost a lot of points. This lesson covers both, checked against the current Next Move Games rulebook.
+Your first three games of [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) are where habits form. Some of those habits are rules mistakes, quietly played wrong because nobody checked the book. Others are legal moves that cost a lot of points. This lesson covers both, checked against the current Next Move Games rulebook.
 
 ## Rules slips to catch early
 

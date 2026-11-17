@@ -48,7 +48,7 @@ A practical note: with teenagers, the first ten minutes decide the night. Start 
 
 A whole-congregation game night is a different kind of event. The room is big, the ages run from kids to grandparents, and you need structure or it turns into a potluck with unused games on a side table. A few formats that work:
 
-**Station rotation.** Set up five or six tables, each with one simple game and one person who knows it. Groups rotate every 25 minutes. Good station games: [Azul](https://link.amazon/B0bGRYHex), [Ticket to Ride](https://link.amazon/B0jh8RB7f), [Qwirkle](https://www.amazon.com/dp/1933054395?tag=cubecommonw0a-20), Sushi Go Party!, Codenames, Telestrations. This format lets a grandparent and a grandchild sit at the same table, and it gives shy people a reason to move around.
+**Station rotation.** Set up five or six tables, each with one simple game and one person who knows it. Groups rotate every 25 minutes. Good station games: [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20), [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20), [Qwirkle](https://www.amazon.com/dp/1933054395?tag=cubecommonw0a-20), Sushi Go Party!, Codenames, Telestrations. This format lets a grandparent and a grandchild sit at the same table, and it gives shy people a reason to move around.
 
 **One big game.** Wavelength and Codenames can both be run for a whole room by projecting or by using a large board. Split the room into two teams and let the chaos happen. It is loud and it works.
 

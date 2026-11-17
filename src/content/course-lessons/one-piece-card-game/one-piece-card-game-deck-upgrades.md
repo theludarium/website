@@ -61,7 +61,7 @@ If you love your starter, a second copy of the same deck can be a simple upgrade
 
 **A few packs, for fun.** If you want to open something, small products like the [Double Pack Set Vol. 13](https://en.onepiece-cardgame.com/products/dp13.html) give you packs and a little extra at a set price. Treat them as a treat, not a plan.
 
-**A deck box.** Anything sturdy that fits a sleeved deck, a Leader, and 10 DON!!. Dragon Shield sleeves come in a box that works as a deck box to start.
+**A deck box.** Anything sturdy that fits a sleeved deck, a Leader, and 10 DON!!. [Dragon Shield sleeves](https://www.amazon.com/dp/B00WX57O7M?tag=cubecommonw0a-20) come in a box that works as a deck box to start.
 
 ## A budget habit that lasts
 

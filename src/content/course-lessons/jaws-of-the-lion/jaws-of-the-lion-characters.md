@@ -11,7 +11,7 @@ oneIdea: "Each Jaws of the Lion character has one job it does better than anyone
 tryThis: "At the start of your next scenario, say your character's job in one sentence to the table, and ask each other player to do the same."
 nextTeaser: "Level 2 opens with card management: how many rounds your hand will last, and how to rest so you never run dry early."
 ---
-Jaws of the Lion comes with four characters, and the campaign is built around them. That makes the choice feel big, but the guide lets anyone switch after Scenario 1 (p. 13), and the game plays well with any combination.
+[Jaws of the Lion](https://www.amazon.com/dp/B088QSDB7S?tag=cubecommonw0a-20) comes with four characters, and the campaign is built around them. That makes the choice feel big, but the guide lets anyone switch after Scenario 1 (p. 13), and the game plays well with any combination.
 
 This lesson gives each character's job, the facts that shape how it plays, and a plan for the first few scenarios. Card names come from the Learn to Play Guide and Cephalofair's own character descriptions. Nothing here goes beyond what the box shows you at the start.
 

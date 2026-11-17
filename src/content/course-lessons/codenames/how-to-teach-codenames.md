@@ -79,7 +79,7 @@ Before the rematch, ask the operatives one question: "What did you think that cl
 
 ## Where the course goes next
 
-The rest of this course climbs level by level: the mistakes new tables make, how spymasters build clues, how operatives guess, the kinds of links that land, the race math, the endgame, and the expert clues. Playing with two? The [lesson on versions and editions](/academy/codenames/codenames-variants-and-editions/) introduces Codenames: Duet, and [Duet strategy](/academy/codenames/codenames-duet-strategy/) comes at the top level. Friends far away? The [final lesson](/academy/codenames/codenames-game-nights/) covers free online play. For a harder word game, see [Codenames vs Decrypto](/articles/codenames-vs-decrypto/).
+The rest of this course climbs level by level: the mistakes new tables make, how spymasters build clues, how operatives guess, the kinds of links that land, the race math, the endgame, and the expert clues. Playing with two? The [lesson on versions and editions](/academy/codenames/codenames-variants-and-editions/) introduces [Codenames: Duet](https://www.amazon.com/dp/B0FJMNPGXM?tag=cubecommonw0a-20), and [Duet strategy](/academy/codenames/codenames-duet-strategy/) comes at the top level. Friends far away? The [final lesson](/academy/codenames/codenames-game-nights/) covers free online play. For a harder word game, see [Codenames vs Decrypto](/articles/codenames-vs-decrypto/).
 
 For local play, ask your game store about open game nights. Near Indianapolis? Join the [Indianapolis list](/lounges/indianapolis/) for first word on local learn-to-play nights as The Ludarium grows.
 

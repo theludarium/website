@@ -17,7 +17,7 @@ You have the rules, the strategy, and now the tournament shape: [scoring](/acade
 
 Online games give you volume, and volume is how the routine from the clock lesson becomes automatic. Three places to look:
 
-- **CATAN Universe,** the official digital edition, lists Cities & Knights among its expansions. You can play other people or computer opponents.
+- **CATAN Universe,** the official digital edition, lists [Cities & Knights](https://www.amazon.com/dp/B0DY87W8SS?tag=cubecommonw0a-20) among its expansions. You can play other people or computer opponents.
 - **Board Game Arena.** Catan's own site describes a one to one adaptation of Catan and the Cities & Knights expansion there, and lists access to tournaments among the Premium perks.
 - **Colonist,** a popular fan alternative, offers a Cities & Knights mode with its own rules page.
 

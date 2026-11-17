@@ -28,7 +28,7 @@ Other examples across the weight spectrum:
 - **Sorry! and Ludo**: landing on a piece sends it home.
 - **Fluxx**: rule changes and steals pointed at whoever is winning.
 - **[Smash Up](https://www.amazon.com/dp/B00875JE0C?tag=cubecommonw0a-20)**: minion destruction and base-stealing aimed at specific players.
-- **[King of Tokyo](https://link.amazon/B0goO6BQA)**: attacking everyone in or out of Tokyo, which is take-that against a position rather than a person.
+- **[King of Tokyo](https://www.amazon.com/dp/B01F46RPS4?tag=cubecommonw0a-20)**: attacking everyone in or out of Tokyo, which is take-that against a position rather than a person.
 - **[Cosmic Encounter](https://www.amazon.com/dp/1589944968?tag=cubecommonw0a-20)**: full-contact alliances and betrayals, though the system's richness lifts it above most of the genre.
 
 ## How is take-that different from other conflict?
@@ -38,8 +38,8 @@ It helps to put it on a spectrum.
 | Kind of conflict | What it looks like | Example |
 |---|---|---|
 | None | Players never affect each other | Most roll-and-writes, solo modes |
-| Indirect | Competing for shared resources or spaces | [Ticket to Ride](https://link.amazon/B0jh8RB7f), [Azul](https://link.amazon/B0bGRYHex), [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) |
-| Positional | Taking territory or blocking on a shared board | [Carcassonne](https://link.amazon/B012Rr5ed) farms, [Catan](https://link.amazon/B0h8BDGR2)'s robber, area majority games |
+| Indirect | Competing for shared resources or spaces | [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20), [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20), [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) |
+| Positional | Taking territory or blocking on a shared board | [Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20) farms, [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20)'s robber, area majority games |
 | Take-that | Targeted cards or actions that hurt a chosen player | Munchkin, Uno, Exploding Kittens |
 | Open warfare | Sustained attacks with armies or combat systems | [Risk](https://www.amazon.com/dp/B01HEQHKNM?tag=cubecommonw0a-20), [Twilight Imperium](https://www.amazon.com/dp/B074YPSTRP?tag=cubecommonw0a-20), [Root](https://www.amazon.com/dp/B07F454YF3?tag=cubecommonw0a-20) |
 

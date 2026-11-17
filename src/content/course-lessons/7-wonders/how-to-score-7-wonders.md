@@ -80,7 +80,7 @@ Notice the green row. One compass and one gear score 1 plus 1. No set, because t
 
 ## Playing Duel?
 
-7 Wonders Duel scores differently: no squared science, a single military row, and a blue-card tiebreak. The [Duel how to play lesson](/academy/7-wonders-duel/how-to-play-7-wonders-duel/) and the [Duel scoring lesson](/academy/7-wonders-duel/7-wonders-duel-scoring/) cover it.
+[7 Wonders Duel](https://www.amazon.com/dp/B014DMSTXK?tag=cubecommonw0a-20) scores differently: no squared science, a single military row, and a blue-card tiebreak. The [Duel how to play lesson](/academy/7-wonders-duel/how-to-play-7-wonders-duel/) and the [Duel scoring lesson](/academy/7-wonders-duel/7-wonders-duel-scoring/) cover it.
 
 ## The habit that saves arguments
 

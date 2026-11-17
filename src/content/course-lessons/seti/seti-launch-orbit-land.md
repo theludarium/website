@@ -11,7 +11,7 @@ oneIdea: "Orbiting builds your game and landing scores it. An orbiter is cheap a
 tryThis: "Next game, before each probe reaches a planet, add up the full cost of orbiting and of landing there, including what the planet pays, and pick the one with the better return per resource."
 nextTeaser: "Level 3 starts at the telescopes: how signals and sectors work, how to win a sector you want, and how to keep your computer filling."
 ---
-Every probe in SETI ends its trip the same way: it leaves the solar system board and becomes an orbiter or a lander on the planetary board. That choice, made a dozen times a game, shapes your whole economy. This lesson lays out the costs from the English rulebook (October 2024) and the official FAQ, then the reasoning behind each choice.
+Every probe in [SETI](https://www.amazon.com/dp/B0CZBCRC3S?tag=cubecommonw0a-20) ends its trip the same way: it leaves the solar system board and becomes an orbiter or a lander on the planetary board. That choice, made a dozen times a game, shapes your whole economy. This lesson lays out the costs from the English rulebook (October 2024) and the official FAQ, then the reasoning behind each choice.
 
 ## Launching
 

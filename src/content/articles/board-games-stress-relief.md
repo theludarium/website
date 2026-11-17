@@ -6,7 +6,7 @@ category: Togethering
 tags: ["board games stress relief", "games to relieve stress", "flow state games", "relaxing board games", "puzzle games for anxiety", "how to unwind without screens", "Play and health"]
 draft: false
 ---
-It sounds backwards. You come home wound tight from work, and the thing that settles you is a difficult game of [Azul](https://link.amazon/B0bGRYHex), not a nap. But people who use board games for stress relief report this over and over: the harder the puzzle, within reason, the quieter the mind afterward. There is a reasonable explanation for why, and it has to do with where your attention goes.
+It sounds backwards. You come home wound tight from work, and the thing that settles you is a difficult game of [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20), not a nap. But people who use board games for stress relief report this over and over: the harder the puzzle, within reason, the quieter the mind afterward. There is a reasonable explanation for why, and it has to do with where your attention goes.
 
 This article covers what the research suggests about absorption and stress, why a game works differently from a screen, and which games tend to do the job best. It is not a substitute for anything a doctor or therapist would tell you. It is an explanation of something a lot of people have already noticed.
 
@@ -56,7 +56,7 @@ Not every game calms. Some are designed to produce tension, and that is their ap
 
 **Azul.** You draft tiles and place them on a personal board. The decisions are tight but the conflict is indirect. The tiles are heavy and click when they land. Many people describe it as the most relaxing game they own despite it being quite demanding.
 
-**[Cascadia](https://link.amazon/B0g1HYFt4).** Tile-laying with wildlife tokens, no conflict with other players, and a gentle puzzle about habitats. It plays in 30 to 45 minutes and almost never produces an argument.
+**[Cascadia](https://www.amazon.com/dp/B093H8RGXX?tag=cubecommonw0a-20).** Tile-laying with wildlife tokens, no conflict with other players, and a gentle puzzle about habitats. It plays in 30 to 45 minutes and almost never produces an argument.
 
 **Wingspan.** Longer and more involved, but the engine-building has a rhythm that absorbs people completely. Bird cards, egg tokens, and a slow accumulation of points. Good for an evening when you want to disappear into something for 90 minutes.
 

@@ -11,7 +11,7 @@ oneIdea: "Your deck is not random between shuffles. Track what you have drawn an
 tryThis: "In your next game, after each reshuffle, note how many cards are in your deck. Each round, count what is left and predict your next hand before you draw it."
 nextTeaser: "Next, two players and solo: how House Hagal and Uprising's Rivals play, and how to beat them."
 ---
-Dune: Imperium has two decks you can reason about: your own, and the Conflict deck. Neither is as random as it feels. This lesson puts numbers on both, using the real component counts from the rulebooks and checked arithmetic for the odds. You do not need a calculator at the table; you need a feel for a few numbers.
+[Dune: Imperium](https://www.amazon.com/dp/B08JHB9V72?tag=cubecommonw0a-20) has two decks you can reason about: your own, and the Conflict deck. Neither is as random as it feels. This lesson puts numbers on both, using the real component counts from the rulebooks and checked arithmetic for the odds. You do not need a calculator at the table; you need a feel for a few numbers.
 
 ## Your deck between shuffles
 

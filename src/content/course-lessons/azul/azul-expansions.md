@@ -41,7 +41,7 @@ Everyone must use the same side. The gray side turns your wall into a second puz
 
 ## The original, and the travel size
 
-If you are buying a copy for someone else this season, the original **[Azul](https://link.amazon/B0bGRYHex)** is still the one to start with.
+If you are buying a copy for someone else this season, the original **[Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20)** is still the one to start with.
 
 **[Azul Mini](https://www.amazon.com/dp/B0C382GMPC?tag=cubecommonw0a-20)** is a smaller format of the same game. It still has 100 resin tiles, 4 player boards, and 9 factory displays, plus plastic trays. Its rulebook keeps the same rules as the original. Each board slides into its tray, and you track your score with point sliders instead of a marker. It suits travel and small tables.
 

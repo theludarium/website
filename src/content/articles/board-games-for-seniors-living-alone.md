@@ -39,8 +39,8 @@ These picks are sorted by how much they ask of the player. Start at the top and 
 | [Qwirkle](https://www.amazon.com/dp/1933054395?tag=cubecommonw0a-20) | 2 to 4 | 30 to 45 min | Big wooden tiles, match colors and shapes, no reading |
 | [Rummikub](https://www.amazon.com/dp/B00000IZJB?tag=cubecommonw0a-20) | 2 to 4 | 45 min | Familiar rummy logic with chunky tiles |
 | [Sequence](https://www.amazon.com/dp/B09FSGVW4X?tag=cubecommonw0a-20) | 2 to 12 | 30 min | Cards plus a board, plays with a crowd |
-| [Azul](https://link.amazon/B0bGRYHex) | 2 to 4 | 30 to 45 min | Beautiful tiles, simple rules, surprising depth |
-| [Ticket to Ride](https://link.amazon/B0jh8RB7f) | 2 to 5 | 45 to 60 min | Collect cards, claim routes, a clear map |
+| [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) | 2 to 4 | 30 to 45 min | Beautiful tiles, simple rules, surprising depth |
+| [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) | 2 to 5 | 45 to 60 min | Collect cards, claim routes, a clear map |
 | [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) | 4 to 8 | 15 to 30 min | Word association, all talking, no components to handle |
 | [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) | 2 to 12 | 30 min | A guessing game that runs on opinions and stories |
 

@@ -14,7 +14,7 @@ This article is about what to do with that hour, and why a game is often a bette
 
 Because the tiredness of caregiving is not mainly physical. It is the weight of constant vigilance, of being the one who notices, decides, and remembers everything. Lying down does not turn that off. Many caregivers describe trying to nap and spending the hour listening for sounds from the next room.
 
-A game turns it off for a while, for a specific reason: it takes your whole attention. You cannot plan tomorrow's medication schedule while deciding which [Azul](https://link.amazon/B0bGRYHex) tiles to take. Psychologists call this absorption, and Mihaly Csikszentmihalyi's work on [flow](https://en.wikipedia.org/wiki/Flow_(psychology)) described it as arising when the challenge of a task is balanced against your skill; a [2025 study of more than 500 board game players](https://link.springer.com/10.1007/s10902-024-00846-4) found flow ran highest when both challenge and skill were high. A good game hits that balance almost by design. For an hour, you are a person playing a game, not a caregiver.
+A game turns it off for a while, for a specific reason: it takes your whole attention. You cannot plan tomorrow's medication schedule while deciding which [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) tiles to take. Psychologists call this absorption, and Mihaly Csikszentmihalyi's work on [flow](https://en.wikipedia.org/wiki/Flow_(psychology)) described it as arising when the challenge of a task is balanced against your skill; a [2025 study of more than 500 board game players](https://link.springer.com/10.1007/s10902-024-00846-4) found flow ran highest when both challenge and skill were high. A good game hits that balance almost by design. For an hour, you are a person playing a game, not a caregiver.
 
 A game with other people adds a second thing: being treated as yourself. Caregivers often say that every conversation they have is about the person they care for. At a game table, nobody asks. You are the one who just blocked the red route.
 
@@ -27,7 +27,7 @@ Sometimes the hour arrives at 9 p.m. with nobody around. Solo games are good com
 | Patience or solitaire with real cards | 10 to 20 min | No setup, no rules to learn, hands busy |
 | Jigsaw puzzle, left out on a table | Any | Can be picked up and put down between interruptions |
 | Friday | 25 min | A solo card game that is absorbing without being heavy |
-| [Cascadia](https://link.amazon/B0g1HYFt4) solo mode | 30 min | Calm, pretty, puzzle-like |
+| [Cascadia](https://www.amazon.com/dp/B093H8RGXX?tag=cubecommonw0a-20) solo mode | 30 min | Calm, pretty, puzzle-like |
 | [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) solo automa | 45 to 60 min | Deep enough to lose yourself in; only if the hour is real |
 | Crossword or sudoku | 10 to 30 min | Portable; works in a waiting room |
 | A phone app of a board game | 10 min | Fine, but a physical game is more of a break from screens |

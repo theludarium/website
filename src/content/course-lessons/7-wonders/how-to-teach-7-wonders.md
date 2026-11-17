@@ -71,6 +71,6 @@ At the start of Age II, say it again: "This Age, pass to the right." It is an ea
 
 Help with costs and icons, not choices. "That card needs a glass; your neighbor makes one" is helpful. "Take the red card" is playing for them.
 
-Teaching a partner one on one? The two-player game, 7 Wonders Duel, has its own five-minute script in [how to teach 7 Wonders Duel](/academy/7-wonders-duel/how-to-teach-7-wonders-duel/).
+Teaching a partner one on one? The two-player game, [7 Wonders Duel](https://www.amazon.com/dp/B014DMSTXK?tag=cubecommonw0a-20), has its own five-minute script in [how to teach 7 Wonders Duel](/academy/7-wonders-duel/how-to-teach-7-wonders-duel/).
 
 For bigger groups learning together, our guide to running a [learn-to-play event](/articles/learn-to-play-events/) covers teaching one game to a whole room.

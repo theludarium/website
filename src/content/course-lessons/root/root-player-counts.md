@@ -11,7 +11,7 @@ oneIdea: "Root changes shape with fewer players. Pick a mix where every faction 
 tryThis: "Next time you have two or three players, add up the reach of your planned mix before you set up. If it falls short of the Law's total, swap one faction."
 nextTeaser: "Level 3 starts with dominance cards: when to trade your score for a new goal, and how to stop someone else's."
 ---
-The [Root](https://www.amazon.com/dp/B07F454YF3?tag=cubecommonw0a-20) base game plays 2 to 4 players. The Riverfolk Expansion raises that to 6 and adds bots for solo and cooperative play. At 3 players, the guide's default is Marquise, Eyrie, and Alliance; at 2, it is Marquise against Eyrie.
+The [Root](https://www.amazon.com/dp/B07F454YF3?tag=cubecommonw0a-20) base game plays 2 to 4 players. [The Riverfolk Expansion](https://www.amazon.com/dp/B07GJWQP7S?tag=cubecommonw0a-20) raises that to 6 and adds bots for solo and cooperative play. At 3 players, the guide's default is Marquise, Eyrie, and Alliance; at 2, it is Marquise against Eyrie.
 
 Many groups learn Root with four. But a lot of game nights have two or three people, and Root still works there if you choose the mix with care. The Learning to Play guide gives recommended mixes, and the Law gives a number to check them against.
 

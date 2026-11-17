@@ -39,12 +39,12 @@ Not all games are equal here. The best ones for an anxious first-timer share a p
 
 | Game | Why it is a gentle start |
 |---|---|
-| [Azul](https://link.amazon/B0bGRYHex) | Quiet, everyone looks at the tiles, mistakes are minor |
-| [Ticket to Ride](https://link.amazon/B0jh8RB7f) | Long turns of looking at a map, little direct talk needed |
-| [Carcassonne](https://link.amazon/B012Rr5ed) | Place a tile, done; conversation is optional |
+| [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) | Quiet, everyone looks at the tiles, mistakes are minor |
+| [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) | Long turns of looking at a map, little direct talk needed |
+| [Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20) | Place a tile, done; conversation is optional |
 | [The Crew](https://link.amazon/B099S9RKf) | Cooperative, talking is restricted by rule, nobody is singled out |
 | [Hanabi](https://www.amazon.com/dp/B01MXTGT21?tag=cubecommonw0a-20) | Cooperative, structured clues, team wins or loses together |
-| [Cascadia](https://link.amazon/B0g1HYFt4) | Solitaire-feeling puzzle at a shared table |
+| [Cascadia](https://www.amazon.com/dp/B093H8RGXX?tag=cubecommonw0a-20) | Solitaire-feeling puzzle at a shared table |
 | [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20) | Two players, calm, almost no interaction |
 
 **Azul** is the most common recommendation and for good reason. It is beautiful enough that everyone looks at the board instead of each other, the rules take five minutes, and a bad move costs a few points rather than the game.

@@ -11,7 +11,7 @@ oneIdea: "Your hand of cards is a clock. Every rest and every lost action takes 
 tryThis: "Next scenario, write your maximum round count on a scrap of paper, then cross off rounds each time you lose a card. Check how close you finish to zero."
 nextTeaser: "Next: initiative, and how picking the right number lets you act before a monster hits you, or after it walks into your trap."
 ---
-In Jaws of the Lion you do not lose because a monster rolled well. You lose because you ran out of cards. Hit points matter, but most exhausted characters in a careful group run dry on cards first. This lesson treats your hand as a clock and shows how to read it.
+In [Jaws of the Lion](https://www.amazon.com/dp/B088QSDB7S?tag=cubecommonw0a-20) you do not lose because a monster rolled well. You lose because you ran out of cards. Hit points matter, but most exhausted characters in a careful group run dry on cards first. This lesson treats your hand as a clock and shows how to read it.
 
 ## How a hand runs down
 

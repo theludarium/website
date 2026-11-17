@@ -11,7 +11,7 @@ oneIdea: "A knight is a board piece with two lives: standing up, it defends the 
 tryThis: "Next game, put your first knight on the intersection an opponent's road is heading toward. Then count how many turns it buys you."
 nextTeaser: "Next, the barbarian ship: how the attack is scored, who loses a city, and how to make sure it is never you."
 ---
-Knights are the most flexible pieces in Cities & Knights. They defend the island, they block, they fight each other, and they chase the robber. They also cost wool, ore, and grain that you could spend on cities. This lesson covers every knight rule in the 6th edition, then what each one means at the table.
+Knights are the most flexible pieces in [Cities & Knights](https://www.amazon.com/dp/B0DY87W8SS?tag=cubecommonw0a-20). They defend the island, they block, they fight each other, and they chase the robber. They also cost wool, ore, and grain that you could spend on cities. This lesson covers every knight rule in the 6th edition, then what each one means at the table.
 
 ## The pieces
 

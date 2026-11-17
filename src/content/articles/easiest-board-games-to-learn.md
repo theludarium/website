@@ -25,15 +25,15 @@ Compare that to the usual approach: ten minutes of rules, every exception covere
 | [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) | 4 to 8+ | 15 min | One word, one number, guess your team's words |
 | [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) | 2 to 5 | 15 min | Pick a card, pass the rest |
 | [No Thanks!](https://www.amazon.com/dp/B013FAC4FK?tag=cubecommonw0a-20) | 3 to 7 | 15 min | Take the card or pay a chip |
-| [Kingdomino](https://link.amazon/B08l49zvA) | 2 to 4 | 15 to 20 min | Place dominoes to build a kingdom |
+| [Kingdomino](https://www.amazon.com/dp/B01N3A4070?tag=cubecommonw0a-20) | 2 to 4 | 15 to 20 min | Place dominoes to build a kingdom |
 | [Skull](https://www.amazon.com/dp/B08R2BPLSN?tag=cubecommonw0a-20) | 3 to 6 | 15 to 30 min | Stack coasters, bid on flowers, avoid skulls |
 | [Love Letter](https://www.amazon.com/dp/B07PHHBWM9?tag=cubecommonw0a-20) | 2 to 4 | 15 min | Draw one, play one, last one standing wins |
 | [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20) | 3 to 7 | 20 min | Write one clue, matching clues vanish |
-| [Cascadia](https://link.amazon/B0g1HYFt4) | 1 to 4 | 30 to 45 min | Take a tile and an animal, place both |
-| [Azul](https://link.amazon/B0bGRYHex) | 2 to 4 | 30 to 45 min | Take all of one color, fill a row |
-| [Ticket to Ride](https://link.amazon/B0jh8RB7f) | 2 to 5 | 45 to 60 min | Collect colors, claim routes, connect cities |
+| [Cascadia](https://www.amazon.com/dp/B093H8RGXX?tag=cubecommonw0a-20) | 1 to 4 | 30 to 45 min | Take a tile and an animal, place both |
+| [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) | 2 to 4 | 30 to 45 min | Take all of one color, fill a row |
+| [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) | 2 to 5 | 45 to 60 min | Collect colors, claim routes, connect cities |
 | [Hive](https://www.amazon.com/dp/B000EN5ZLW?tag=cubecommonw0a-20) | 2 | 20 min | Surround the other queen bee |
-| [Carcassonne](https://link.amazon/B012Rr5ed) | 2 to 5 | 35 to 45 min | Draw a tile, add it to the map, maybe place a meeple |
+| [Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20) | 2 to 5 | 35 to 45 min | Draw a tile, add it to the map, maybe place a meeple |
 | [6 nimmt!](https://www.amazon.com/dp/B0CYTGQG9J?tag=cubecommonw0a-20) | 2 to 10 | 20 to 30 min | Play a card, avoid being sixth in a row |
 | [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) | 2 to 12 | 30 min | Give a clue, the team guesses where it sits on the dial |
 

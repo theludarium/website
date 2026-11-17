@@ -53,7 +53,7 @@ The classic snow day project. Set a 500 to 1,000 piece puzzle on a card table or
 
 A cooperative game lets the whole house play on one team against the board. Two good ones:
 
-- **[Pandemic](https://link.amazon/B0eHP5GCg)** from Z-Man Games. Players are disease specialists racing to cure four outbreaks around the world. Two to four players, about 45 minutes, ages 8 and up. Play two or three games in a row, raising the difficulty each time, and it fills an afternoon.
+- **[Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20)** from Z-Man Games. Players are disease specialists racing to cure four outbreaks around the world. Two to four players, about 45 minutes, ages 8 and up. Play two or three games in a row, raising the difficulty each time, and it fills an afternoon.
 - **[Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20)** from Gamewright. Players collect four treasures from a sinking island and escape before it floods. Two to four players, about 30 minutes, ages 10 and up per Gamewright. About $20 to $26 at the time of writing. It is an easier first co-op than Pandemic, and younger kids can play on a team with a grown-up.
 
 Our comparison of [Pandemic and Forbidden Island](/articles/pandemic-vs-forbidden-island/) goes into which suits your house.

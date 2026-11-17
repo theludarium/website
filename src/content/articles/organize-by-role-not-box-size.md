@@ -29,12 +29,12 @@ Libraries solved this a long time ago. Nobody shelves books by height. They shel
 
 We use seven roles. The first six come from our [starter shelf](/articles/starter-shelf-40-to-300/) framework, where the rule is that no two games fill the same role. The seventh covers games that span many sessions.
 
-1. **Gateway.** The game you hand to someone who has never played a modern board game. Teachable in five minutes, forgiving, fun on the first play. [Ticket to Ride](https://link.amazon/B0jh8RB7f) and [Carcassonne](https://link.amazon/B012Rr5ed) live here.
+1. **Gateway.** The game you hand to someone who has never played a modern board game. Teachable in five minutes, forgiving, fun on the first play. [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) and [Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20) live here.
 2. **Filler.** Under 20 minutes. Played while you wait for the last person to arrive, or as a closer when there is not time for anything else. [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), [Love Letter](https://www.amazon.com/dp/B07PHHBWM9?tag=cubecommonw0a-20), and [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20) are classic fillers.
 3. **2-player.** Games that are built for exactly two, or are at their best at two. Patchwork, [Hive](https://www.amazon.com/dp/B000EN5ZLW?tag=cubecommonw0a-20), Jaipur again. The role matters because two-person nights happen far more often than most shelves are ready for.
 4. **Party.** Six or more players, low rules overhead, lots of talking. Codenames, [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20), [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20).
 5. **Co-op.** Everyone on the same side. Pandemic, [The Crew](https://link.amazon/B099S9RKf), [Spirit Island](https://www.amazon.com/dp/B01MUHP51S?tag=cubecommonw0a-20). This is the role that rescues a night when someone at the table hates losing.
-6. **Stretch.** One step up in complexity from your group's comfort zone. The game that makes the group better. [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) or [Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20) for a group that has outgrown [Catan](https://link.amazon/B0h8BDGR2).
+6. **Stretch.** One step up in complexity from your group's comfort zone. The game that makes the group better. [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) or [Terraforming Mars](https://www.amazon.com/dp/B01GSYA4K2?tag=cubecommonw0a-20) for a group that has outgrown [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20).
 7. **Campaign.** Games that continue across sessions: [Gloomhaven](https://www.amazon.com/dp/B01LZXVN4P?tag=cubecommonw0a-20), a [Sherlock Holmes Consulting Detective](https://www.amazon.com/dp/2370990074?tag=cubecommonw0a-20) casebook, a long-running Magic Cube. These need their own space because a half-finished campaign is a different object from a game you can pull down on any night.
 
 A game can qualify for more than one role. Jaipur is a filler and a 2-player game. The Crew is a co-op and a filler. That is fine. You shelve it under the role your group actually uses it for, and you note the second role on the label.
@@ -49,7 +49,7 @@ Yes, everything. Sorting in place does not work because the box sizes keep pulli
 
 ### Step 2: Assign one primary role per game
 
-Sort into seven stacks, one per role, based on your group's real behavior rather than the box copy. If your group only ever plays [Azul](https://link.amazon/B0bGRYHex) as a closer after a long game, it is a filler for you even though the side of the box says 30 to 45 minutes. If you are unsure, ask: when do we reach for this?
+Sort into seven stacks, one per role, based on your group's real behavior rather than the box copy. If your group only ever plays [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) as a closer after a long game, it is a filler for you even though the side of the box says 30 to 45 minutes. If you are unsure, ask: when do we reach for this?
 
 Expect friction in two places. Some games will not fit any role cleanly, which usually means you do not play them. And some roles will have a stack three times taller than the others. Both are information.
 
@@ -104,7 +104,7 @@ Here is a layout for a typical single-bookcase collection of around 20 games, wh
 | Top (eye level) | Gateway | 2-3 | Ticket to Ride, Carcassonne, Catan | GATEWAY / teach in 5 |
 | Second | Party | 2-3 | Codenames, Just One, Wavelength | PARTY / 6+ players |
 | Second | 2-player | 2-3 | [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20), Hive, Jaipur | TWO / for two |
-| Third | Co-op | 2 | [Pandemic](https://link.amazon/B0eHP5GCg), Spirit Island | CO-OP / same side |
+| Third | Co-op | 2 | [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20), Spirit Island | CO-OP / same side |
 | Third | Stretch | 2-3 | Wingspan, Terraforming Mars, [Root](https://www.amazon.com/dp/B07F454YF3?tag=cubecommonw0a-20) | STRETCH / 90+ min |
 | Bottom or closet | Campaign | 1-2 | Gloomhaven, a Cube | CAMPAIGN / in progress |
 

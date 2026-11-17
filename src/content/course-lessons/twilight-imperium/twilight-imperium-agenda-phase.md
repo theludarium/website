@@ -11,7 +11,7 @@ oneIdea: "Agenda votes are paid with influence that readies again right after, s
 tryThis: "In your next agenda phase, before the first vote, count every player's ready influence aloud. Then decide which outcome you can actually swing, and offer a deal for it."
 nextTeaser: "Last, the competitive path: where to find tournaments and online play, and a six-week practice plan to get ready."
 ---
-Welcome to Level 5, the championship path. At the top of Twilight Imperium, games are won as often at the council table as on the map. The agenda phase is where the galaxy writes its own rules, and a player who reads the room can gain points, lock rivals out, or rewrite a law that was about to hurt them.
+Welcome to Level 5, the championship path. At the top of [Twilight Imperium](https://www.amazon.com/dp/B074YPSTRP?tag=cubecommonw0a-20), games are won as often at the council table as on the map. The agenda phase is where the galaxy writes its own rules, and a player who reads the room can gain points, lock rivals out, or rewrite a law that was about to hurt them.
 
 Everything below follows the Living Rules Reference, version 2.0, sections 7, 8, 28, and 94.
 

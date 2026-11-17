@@ -11,7 +11,7 @@ oneIdea: "In the opening, choosing a pattern line is choosing a spot on your wal
 tryThis: "In your next game, before each pick in round one, point to the wall space where that tile will land. Aim to end the round with at least two wall tiles touching."
 nextTeaser: "Next, wall planning: why rows grow slowly and columns grow fast, how to price every pattern line, and how to grow one block that scores more each round."
 ---
-[Azul](https://link.amazon/B0bGRYHex) has no fixed opening the way chess does. The bag deals out different tiles every game. But the first two rounds still follow patterns, and strong players tend to treat them the same way: fill lines exactly, place tiles where they will connect, and keep the floor clean.
+[Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) has no fixed opening the way chess does. The bag deals out different tiles every game. But the first two rounds still follow patterns, and strong players tend to treat them the same way: fill lines exactly, place tiles where they will connect, and keep the floor clean.
 
 ## Your choice of line is a choice of spot
 

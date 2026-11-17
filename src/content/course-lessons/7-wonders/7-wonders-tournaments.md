@@ -25,7 +25,7 @@ Competitive play tends to share a few habits:
 
 ## The World Boardgaming Championships
 
-The [World Boardgaming Championships](https://www.boardgamers.org/) (WBC) is an annual tournament convention run by the Boardgame Players Association, held each summer at Seven Springs Mountain Resort in Pennsylvania. Many games crown a champion there, and 7 Wonders has its own event, marked **Class B, Beginning Players Welcome**, which makes it a friendly first tournament. (7 Wonders Duel has a separate event, covered in the [Duel tournaments lesson](/academy/7-wonders-duel/7-wonders-duel-tournaments/).)
+The [World Boardgaming Championships](https://www.boardgamers.org/) (WBC) is an annual tournament convention run by the Boardgame Players Association, held each summer at Seven Springs Mountain Resort in Pennsylvania. Many games crown a champion there, and 7 Wonders has its own event, marked **Class B, Beginning Players Welcome**, which makes it a friendly first tournament. ([7 Wonders Duel](https://www.amazon.com/dp/B014DMSTXK?tag=cubecommonw0a-20) has a separate event, covered in the [Duel tournaments lesson](/academy/7-wonders-duel/7-wonders-duel-tournaments/).)
 
 The details below come from the 2026 event preview.
 

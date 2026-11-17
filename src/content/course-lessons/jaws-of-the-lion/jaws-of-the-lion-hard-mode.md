@@ -10,7 +10,7 @@ draft: false
 oneIdea: "Jaws of the Lion has no tournament scene. Its top level is a harder game: Hard and Very Hard, where every lost card and every focus mistake shows. Mastery is winning there on purpose, not by luck."
 tryThis: "Play your next scenario one level above Normal, and after it, each player names the single round where the party lost the most cards."
 ---
-Cooperative campaign games do not have championships, and Jaws of the Lion is no exception. There is no official tournament or organized play for it that we could find. So this course ends where the game's own challenge does: at the top of the difficulty dial. This lesson covers what Hard and Very Hard change, the habits that win there, and a practice plan.
+Cooperative campaign games do not have championships, and [Jaws of the Lion](https://www.amazon.com/dp/B088QSDB7S?tag=cubecommonw0a-20) is no exception. There is no official tournament or organized play for it that we could find. So this course ends where the game's own challenge does: at the top of the difficulty dial. This lesson covers what Hard and Very Hard change, the habits that win there, and a practice plan.
 
 ## What changes on Hard and Very Hard
 

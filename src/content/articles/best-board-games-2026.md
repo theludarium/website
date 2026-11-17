@@ -8,7 +8,7 @@ category: Game Guides
 tags: ["best board games 2026", "new board games 2026", "top board games this year", "best new board games", "board game releases 2026", "board games worth buying 2026", "What to play"]
 draft: false
 ---
-A list of the best board games of 2026 should answer one question: which new releases are worth a place on a table that already has [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), and [Ticket to Ride](https://link.amazon/B0jh8RB7f) on it? The bar is high. Hundreds of games come out every year, and most of them are fine. A handful change what a game night looks like.
+A list of the best board games of 2026 should answer one question: which new releases are worth a place on a table that already has [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), and [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) on it? The bar is high. Hundreds of games come out every year, and most of them are fine. A handful change what a game night looks like.
 
 **The quick answer:** [Cozy Stickerville](https://www.amazon.com/dp/B0GBCW56V8?tag=cubecommonw0a-20) for families, JinxO for a party of adults, Dino Racer for a mixed table that wants ten loud minutes, and Duel of Meloch for two players who want strategy.
 
@@ -38,7 +38,7 @@ To make the standard concrete, here are games from the last few years that passe
 
 | Game | Players | Time | Why it set the bar |
 |---|---|---|---|
-| [Cascadia](https://link.amazon/B0g1HYFt4) | 1 to 4 | 30 to 45 min | Three-minute teach, deep puzzle, no conflict |
+| [Cascadia](https://www.amazon.com/dp/B093H8RGXX?tag=cubecommonw0a-20) | 1 to 4 | 30 to 45 min | Three-minute teach, deep puzzle, no conflict |
 | [The Crew](https://link.amazon/B099S9RKf) | 2 to 5 | 20 min | Cooperative trick-taking that teaches itself |
 | [Sky Team](https://www.amazon.com/dp/B0CHD8RCSJ?tag=cubecommonw0a-20) | 2 | 15 to 20 min | Two players land a plane, barely speaking |
 | [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) | 2 to 12 | 30 min | A party game adults argue about for an hour |
@@ -143,7 +143,7 @@ BoardGameGeek's database grew from [about 80,000 entries in 2019 to more than 15
 
 ### Should I buy new board games or classics?
 
-Classics first. A shelf with Codenames, Ticket to Ride, [Pandemic](https://link.amazon/B0eHP5GCg), and [Azul](https://link.amazon/B0bGRYHex) covers most groups. Add new releases once the classics are getting regular play.
+Classics first. A shelf with Codenames, Ticket to Ride, [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20), and [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) covers most groups. Add new releases once the classics are getting regular play.
 
 ### How do you judge the best board games of 2026?
 

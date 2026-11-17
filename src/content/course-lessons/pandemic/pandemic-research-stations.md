@@ -11,7 +11,7 @@ oneIdea: "Every move costs actions, cards, or both, and cards are cures. A few w
 tryThis: "In your next game, before anyone flies, ask two questions out loud: could we get there by driving or shuttling instead, and is this card part of anyone's cure?"
 nextTeaser: "Level 2 opens with the midgame: reading the Infection discard pile, timing the next Epidemic, and spending each turn where it counts."
 ---
-[Pandemic](https://link.amazon/B0eHP5GCg)'s map is large and your turn is short. Four actions do not go far, so every game becomes a quiet argument about how to get where the trouble is. This last Level 1 lesson settles that argument with a simple idea: each way of moving has a price, and research stations are how the team stops paying it.
+[Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20)'s map is large and your turn is short. Four actions do not go far, so every game becomes a quiet argument about how to get where the trouble is. This last Level 1 lesson settles that argument with a simple idea: each way of moving has a price, and research stations are how the team stops paying it.
 
 ## The price of each move
 

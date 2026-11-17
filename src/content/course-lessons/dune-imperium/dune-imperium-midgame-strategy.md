@@ -11,7 +11,7 @@ oneIdea: "In the midgame, information is power. The player who places Agents in 
 tryThis: "Before you deploy troops in your next game, count each opponent's possible strength out loud or in your head: troops in the Conflict, troops in the garrison, and Agents left."
 nextTeaser: "Next, Conflicts in depth: what a troop really costs, which prize to chase, and when to sit out."
 ---
-The middle rounds of Dune: Imperium are where the Conflict II cards arrive, the Imperium Row gets expensive, and every Faction track has a race on it. The opening was about building your own engine. The midgame is about everyone else's: what they need, what they can still do this round, and what you can take from them.
+The middle rounds of [Dune: Imperium](https://www.amazon.com/dp/B08JHB9V72?tag=cubecommonw0a-20) are where the Conflict II cards arrive, the Imperium Row gets expensive, and every Faction track has a race on it. The opening was about building your own engine. The midgame is about everyone else's: what they need, what they can still do this round, and what you can take from them.
 
 ## Your deck is an engine; tune it
 

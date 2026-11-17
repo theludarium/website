@@ -10,7 +10,7 @@ draft: false
 oneIdea: "Competitive Azul is the same game you unwrapped, played on the colored side, often four to a table, with a time limit and every score written down. The step from your kitchen table to a tournament is smaller than it looks."
 tryThis: "Play five games this month with a scoresheet, writing every player's score after each round. Compare your floor line losses from the first game to the fifth."
 ---
-[Azul](https://link.amazon/B0bGRYHex) looks like a gentle family game, and it is one. It is also a serious competitive game, with a long-running event at the World Boardgaming Championships, a world championship run with its publisher, and a busy online scene. You do not need to win any of them to enjoy them. But knowing they exist changes how you look at the game at home.
+[Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) looks like a gentle family game, and it is one. It is also a serious competitive game, with a long-running event at the World Boardgaming Championships, a world championship run with its publisher, and a busy online scene. You do not need to win any of them to enjoy them. But knowing they exist changes how you look at the game at home.
 
 ## How tournament Azul differs from home play
 

@@ -47,7 +47,7 @@ Across all ages, the program's numbers still apply: a short teach, a good move e
 
 ## A worked example: two kids, two games
 
-**A first game with a six-year-old.** [Carcassonne](/academy/carcassonne/) says 7 and up on the box, so for a six-year-old, start a step lower. Z-Man Games makes a version called My First Carcassonne, for ages 4 and up, which drops the point counting: players race to place all their pieces instead. It keeps the best part of the full game, matching tiles to build a map together, and leaves out the scoring arithmetic.
+**A first game with a six-year-old.** [Carcassonne](/academy/carcassonne/) says 7 and up on the box, so for a six-year-old, start a step lower. Z-Man Games makes a version called [My First Carcassonne](https://www.amazon.com/dp/B00JM5GT7W?tag=cubecommonw0a-20), for ages 4 and up, which drops the point counting: players race to place all their pieces instead. It keeps the best part of the full game, matching tiles to build a map together, and leaves out the scoring arithmetic.
 
 Teach it in under a minute: "We take turns adding a tile. It has to match. Can you find where yours fits?" Let the child hold the stack and draw for everyone. If they lose interest before the end, stop and call it a great map. When they are ready, move up to the full game, and play the first one without farmers, as the rulebook suggests for new players.
 

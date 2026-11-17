@@ -11,7 +11,7 @@ oneIdea: "In Cities & Knights, cities are the engine, not the finish line. Most 
 tryThis: "Before placing your starting city, ask one question: which commodity will this city make? A city with no forest, pasture, or mountain hex next to it makes none."
 nextTeaser: "Next, Level 1 begins with your first three games: the rules slips and strategy traps nearly every new Cities & Knights table falls into."
 ---
-If you have played a lot of base Catan, you bring good habits into Cities & Knights: count pips, guard your ports, trade with purpose. Some of your instincts, though, now point the wrong way. This lesson walks through each big change and what it does to strategy, using only the 6th edition rules and some simple counting.
+If you have played a lot of base Catan, you bring good habits into [Cities & Knights](https://www.amazon.com/dp/B0DY87W8SS?tag=cubecommonw0a-20): count pips, guard your ports, trade with purpose. Some of your instincts, though, now point the wrong way. This lesson walks through each big change and what it does to strategy, using only the 6th edition rules and some simple counting.
 
 ## Change 1: 13 points instead of 10
 

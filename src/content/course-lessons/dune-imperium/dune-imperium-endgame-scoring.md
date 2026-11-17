@@ -11,7 +11,7 @@ oneIdea: "The game ends at the end of a round, not the moment someone reaches 10
 tryThis: "At the start of each round in your next game, say how many Conflict cards are left and who could reach 10 this round. When the answer is yes, play that round as the last."
 nextTeaser: "Level 3 starts next: Intrigue cards, the hidden information that decides close Conflicts."
 ---
-Dune: Imperium scores are small. Ten points ends the game, and most points come one at a time. That makes every point visible, and most of them countable before the last round starts. This lesson lists where points come from, which ones can be taken away, and how to spend the round that decides the game.
+[Dune: Imperium](https://www.amazon.com/dp/B08JHB9V72?tag=cubecommonw0a-20) scores are small. Ten points ends the game, and most points come one at a time. That makes every point visible, and most of them countable before the last round starts. This lesson lists where points come from, which ones can be taken away, and how to spend the round that decides the game.
 
 ## Where the points come from
 

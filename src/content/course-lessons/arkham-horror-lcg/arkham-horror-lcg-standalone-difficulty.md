@@ -37,7 +37,7 @@ Any scenario can be played as a one-off game, outside its campaign. The Grimoire
 
 Killed, insane, and defeated all mean the same thing in a standalone game. As an optional variant, you can write down your resolution and experience as a score and try to beat it next time.
 
-Standalone mode is how scenario packs like Film Fatale and Traces to Nowhere are usually played. It is also the best way to practice a hard scenario without risking a campaign.
+Standalone mode is how scenario packs like [Film Fatale](https://www.amazon.com/dp/B0FKKBK146?tag=cubecommonw0a-20) and [Traces to Nowhere](https://www.amazon.com/dp/B0HK2CZCDX?tag=cubecommonw0a-20) are usually played. It is also the best way to practice a hard scenario without risking a campaign.
 
 ## Ultimatums and Boons
 

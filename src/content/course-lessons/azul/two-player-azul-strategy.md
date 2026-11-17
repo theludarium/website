@@ -11,7 +11,7 @@ oneIdea: "With one opponent, the round is a countable sequence of picks. Count t
 tryThis: "In your next two-player game, when two displays are left, count the picks remaining before you choose. Say out loud who will take the last one, and check whether you were right."
 nextTeaser: "Next, the gray wall: the variant on the back of your board, where you choose every tile's space, and the traps that send a full line to the floor."
 ---
-[Azul](https://link.amazon/B0bGRYHex) plays 2 to 4 players, and the base game has no solo mode. With two, the only setup change is fewer factory displays: 5, holding 20 tiles each round.
+[Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) plays 2 to 4 players, and the base game has no solo mode. With two, the only setup change is fewer factory displays: 5, holding 20 tiles each round.
 
 ## How many players
 

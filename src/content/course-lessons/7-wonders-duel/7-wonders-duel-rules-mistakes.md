@@ -11,7 +11,7 @@ oneIdea: "Most Duel rules slips are about money: who you pay, how much, and when
 tryThis: "Before your next game, read this list aloud and ask your opponent to name one rule either of you had been playing differently."
 nextTeaser: "Next, the twelve Wonders: what each one does, which families they fall into, and how to draft four that work together."
 ---
-New Duel players rarely get the big ideas wrong. They take cards, build cities, and push the pawn. The slips happen in the small rules, the ones that come from playing big 7 Wonders first or from teaching from memory. Each one below is checked against the [7 Wonders Duel rulebook](https://cdn.svc.asmodee.net/production-rprod/storage/downloads/games/7wonders-duel/en/7du-rules-us-15990558193s5I6.pdf) and the publisher's [online FAQ](https://www.rprod.com/en/7-wonders-duel/faq).
+New Duel players rarely get the big ideas wrong. They take cards, build cities, and push the pawn. The slips happen in the small rules, the ones that come from playing big [7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20) first or from teaching from memory. Each one below is checked against the [7 Wonders Duel rulebook](https://cdn.svc.asmodee.net/production-rprod/storage/downloads/games/7wonders-duel/en/7du-rules-us-15990558193s5I6.pdf) and the publisher's [online FAQ](https://www.rprod.com/en/7-wonders-duel/faq).
 
 ## Money and trading
 

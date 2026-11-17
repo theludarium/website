@@ -81,6 +81,6 @@ Most points wins. Ties go to the most coins, then a shared win.
 
 ## Two players? Play 7 Wonders Duel
 
-The second edition plays 3 to 7. For two, the publisher makes a separate game, 7 Wonders Duel, with its own cards, a shared layout instead of passing, and two ways to win before the end. It has [its own course](/academy/7-wonders-duel/), starting with [how to play 7 Wonders Duel](/academy/7-wonders-duel/how-to-play-7-wonders-duel/).
+The second edition plays 3 to 7. For two, the publisher makes a separate game, [7 Wonders Duel](https://www.amazon.com/dp/B014DMSTXK?tag=cubecommonw0a-20), with its own cards, a shared layout instead of passing, and two ways to win before the end. It has [its own course](/academy/7-wonders-duel/), starting with [how to play 7 Wonders Duel](/academy/7-wonders-duel/how-to-play-7-wonders-duel/).
 
 That is the whole game. If pick-and-pass is new to your table, our explainer on [card drafting](/articles/card-drafting-explained/) shows where 7 Wonders sits in that family.

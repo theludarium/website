@@ -37,11 +37,11 @@ If you want the longer list of themes to draw from, our [themed game night ideas
 
 ### January: Gateway Night
 
-The year starts with the door open. Every regular brings one person who has never come, and the games are only the ones that teach in five minutes: [Ticket to Ride](https://link.amazon/B0jh8RB7f), [Azul](https://link.amazon/B0bGRYHex), [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20). January is when people are looking for something new to do, and a game night that is built for newcomers catches them. Some of these guests become regulars by March.
+The year starts with the door open. Every regular brings one person who has never come, and the games are only the ones that teach in five minutes: [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20), [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20), [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20). January is when people are looking for something new to do, and a game night that is built for newcomers catches them. Some of these guests become regulars by March.
 
 ### February: Co-op Night
 
-The shortest month, the coldest weather, and the fewest reasons to leave the house. Everyone on one side: [Pandemic](https://link.amazon/B0eHP5GCg), The Crew, [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20) for the newer players. Run it the week after Valentine's Day with the rule that at least one table has to lose. The groups who were a little tense in January are not by the end of this one.
+The shortest month, the coldest weather, and the fewest reasons to leave the house. Everyone on one side: [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20), The Crew, [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20) for the newer players. Run it the week after Valentine's Day with the rule that at least one table has to lose. The groups who were a little tense in January are not by the end of this one.
 
 ### March: Bracket Night
 
@@ -79,11 +79,11 @@ Bluffing, hidden roles, and lying to your friends have a month, and it is this o
 
 ### November: Family Table
 
-Thanksgiving week is not the time for a heavy strategy game or an elimination bracket. It is the time for a table that a grandparent, a teenager, and a brother-in-law can all sit at. Multigenerational games that forgive everything: Ticket to Ride, [Kingdomino](https://link.amazon/B08l49zvA), Telestrations, Sushi Go!. The league final lands the week before, so the standings are settled and the room is relaxed.
+Thanksgiving week is not the time for a heavy strategy game or an elimination bracket. It is the time for a table that a grandparent, a teenager, and a brother-in-law can all sit at. Multigenerational games that forgive everything: Ticket to Ride, [Kingdomino](https://www.amazon.com/dp/B01N3A4070?tag=cubecommonw0a-20), Telestrations, Sushi Go!. The league final lands the week before, so the standings are settled and the room is relaxed.
 
 ### December: One Game, All Night
 
-End the year the way a group ends a good dinner: warm, familiar, unhurried. One game the group loves, played three or four times in a row, with a few minutes of talk between games. [Catan](https://link.amazon/B0h8BDGR2), [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20), or whatever the year's Shelf of Shame discovery turned out to be. Schedule it early in the month, before the calendar fills.
+End the year the way a group ends a good dinner: warm, familiar, unhurried. One game the group loves, played three or four times in a row, with a few minutes of talk between games. [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20), [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20), or whatever the year's Shelf of Shame discovery turned out to be. Schedule it early in the month, before the calendar fills.
 
 ## How do regular nights fit around the featured ones?
 

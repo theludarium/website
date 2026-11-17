@@ -24,7 +24,7 @@ It is a facilitated session, usually two to three hours, where a team plays care
 
 That last part is what separates it from "we brought some games to the office." A good session does three things:
 
-1. **Picks the right games for the goal.** Communication problems get cooperative games like [The Crew](https://link.amazon/B099S9RKf) or [Pandemic](https://link.amazon/B0eHP5GCg), where the quarterback problem shows up fast and visibly. Trust and candor get social deduction. Negotiation gets [Catan](https://link.amazon/B0h8BDGR2) or a trading game.
+1. **Picks the right games for the goal.** Communication problems get cooperative games like [The Crew](https://link.amazon/B099S9RKf) or [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20), where the quarterback problem shows up fast and visibly. Trust and candor get social deduction. Negotiation gets [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) or a trading game.
 2. **Hosts, not just explains.** The facilitator teaches fast, keeps the energy up, and watches. Who takes over. Who goes quiet. Who recovers well from a bad turn.
 3. **Debriefs.** Fifteen minutes at the end where the host names what happened and the team talks about it. This is where the training is. Without it, it was a fun afternoon. With it, people learn something about each other they could not have gotten from a slide deck.
 

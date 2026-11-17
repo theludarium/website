@@ -10,7 +10,7 @@ draft: false
 oneIdea: "King of Tokyo gets better the more you play it with different people. Online games build your instincts fast, and a tournament table of six shows you how strong players hold and yield Tokyo."
 tryThis: "Play five online games this month at five or six players, and after each one write down the turn you should have left Tokyo, or the turn you should have gone in."
 ---
-[King of Tokyo](https://link.amazon/B0goO6BQA) is a party at the table, and that is reason enough to play it. It also has a quiet competitive side: an annual championship event, publisher tournaments at conventions, and a large online community. You do not need any of them to enjoy the game. Knowing they exist can still change how you play at home.
+[King of Tokyo](https://www.amazon.com/dp/B01F46RPS4?tag=cubecommonw0a-20) is a party at the table, and that is reason enough to play it. It also has a quiet competitive side: an annual championship event, publisher tournaments at conventions, and a large online community. You do not need any of them to enjoy the game. Knowing they exist can still change how you play at home.
 
 ## Online play
 

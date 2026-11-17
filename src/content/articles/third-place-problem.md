@@ -60,7 +60,7 @@ A game gives a third place structure without an agenda. Go down Oldenburg's list
 | Oldenburg's trait | How a game table delivers it |
 |---|---|
 | Neutral ground | The cafe or lounge is nobody's living room |
-| Leveler | A surgeon and a line cook have the same odds in [Azul](https://link.amazon/B0bGRYHex) |
+| Leveler | A surgeon and a line cook have the same odds in [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) |
 | Conversation is the main activity | Table talk, bluffing, and teaching are the game |
 | Accessible | You can join a public table alone and be welcomed |
 | Regulars | Weekly game nights build a known cast fast |

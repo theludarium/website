@@ -11,11 +11,11 @@ oneIdea: "Each role breaks one rule of the game. Find the rule your role breaks,
 tryThis: "At the start of your next game, have each player finish this sentence out loud: My role breaks the rule that says... Then plan your first turn around that answer."
 nextTeaser: "Next, openings: what to read on the board before turn one, and why the first Epidemic is the moment your whole opening plans for."
 ---
-The [Pandemic](https://link.amazon/B0eHP5GCg) board game has seven roles: Medic, Scientist, Researcher, Dispatcher, Operations Expert, Quarantine Specialist, and Contingency Planner. Each player takes one at random, and it changes what that player can do every turn.
+The [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20) board game has seven roles: Medic, Scientist, Researcher, Dispatcher, Operations Expert, Quarantine Specialist, and Contingency Planner. Each player takes one at random, and it changes what that player can do every turn.
 
 New players often treat their role card as a small bonus on top of a normal turn. It is closer to a job description. Every role in the base game breaks one rule, and the team that leans on those broken rules wins far more often than the team that plays four ordinary turns.
 
-The rules for each role below come from the role cards and the role notes in the current [rulebook](https://cdn.svc.asmodee.net/production-zman/uploads/2024/09/Pandemic_Rulebook.pdf). The base game has seven. With 2 to 4 players, some always stay in the box, so the team you get changes every game. The On the Brink expansion adds more roles; this lesson covers the seven in the base game.
+The rules for each role below come from the role cards and the role notes in the current [rulebook](https://cdn.svc.asmodee.net/production-zman/uploads/2024/09/Pandemic_Rulebook.pdf). The base game has seven. With 2 to 4 players, some always stay in the box, so the team you get changes every game. The [On the Brink](https://www.amazon.com/dp/B00CAG5LJ2?tag=cubecommonw0a-20) expansion adds more roles; this lesson covers the seven in the base game.
 
 ## The seven Pandemic roles
 

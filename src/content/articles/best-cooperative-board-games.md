@@ -16,7 +16,7 @@ Three things, in our experience.
 
 1. **A real chance of losing.** A co-op you always beat is a group activity, not a game. The good ones win maybe half the time at a fair difficulty.
 2. **Decisions that belong to individuals.** If one experienced player can dictate every move, the rest are spectators. The best designs give each person information or cards nobody else can see.
-3. **A clear story of why you lost.** "The outbreak chain in [Pandemic](https://link.amazon/B0eHP5GCg) got us" is a story you tell on the drive home. "We ran out of points" is not.
+3. **A clear story of why you lost.** "The outbreak chain in [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20) got us" is a story you tell on the drive home. "We ran out of points" is not.
 
 If you want to understand the second point in depth, we wrote about the [quarterback problem in cooperative games](/articles/quarterback-problem-cooperative-games/) and why designers work so hard to avoid it.
 

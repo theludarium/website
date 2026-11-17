@@ -11,7 +11,7 @@ oneIdea: "Initiative is a choice, not a speed stat. Go before the monsters when 
 tryThis: "Each round of your next scenario, decide before you look at your cards whether you want to act before or after the monsters. Then pick the card that gets you there."
 nextTeaser: "Level 3 opens with monster focus: exactly how a monster picks its target, and how to make it pick the one you want."
 ---
-Every Jaws of the Lion card has a number in the middle. Pick it as your initiative card, and that number decides when you act this round. Lower goes first. That sounds like "faster is better," but it is not. Initiative is a choice about timing, and good players swing between low and high on purpose.
+Every [Jaws of the Lion](https://www.amazon.com/dp/B088QSDB7S?tag=cubecommonw0a-20) card has a number in the middle. Pick it as your initiative card, and that number decides when you act this round. Lower goes first. That sounds like "faster is better," but it is not. Initiative is a choice about timing, and good players swing between low and high on purpose.
 
 ## How initiative works
 

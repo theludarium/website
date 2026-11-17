@@ -12,7 +12,7 @@ This article explains what kingmaking is, why it is almost unavoidable in games 
 
 ## What is kingmaking, exactly?
 
-Picture a three-player game of [Catan](https://link.amazon/B0h8BDGR2) in its last turns. Anna has nine points. Ben has nine points. Carlos has five and is out of the running. On Carlos's turn he rolls a seven and must move the robber. He can block Anna's best hex or Ben's. Whoever he blocks almost certainly loses.
+Picture a three-player game of [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) in its last turns. Anna has nine points. Ben has nine points. Carlos has five and is out of the running. On Carlos's turn he rolls a seven and must move the robber. He can block Anna's best hex or Ben's. Whoever he blocks almost certainly loses.
 
 Carlos is the kingmaker. His decision matters enormously, and nothing in the game gives him a reason to choose one way or the other. So he decides on something outside the game: who he likes more, who beat him last week, who said something annoying an hour ago, or simple whim.
 

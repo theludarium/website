@@ -73,7 +73,7 @@ There is no official price guide, and prices vary by title, condition, and how b
 | Missing minor components, otherwise fine | 20 to 35% of retail |
 | Out of print and in demand | Anything, including above retail |
 
-So a game that sells new for about $40, like a copy of [Catan](https://link.amazon/B0h8BDGR2), is a fair used buy somewhere around $20 to $25 if it is complete and clean. A big hobby box that retails at $80 or more should be meaningfully cheaper used, because the people who want it at full price already own it.
+So a game that sells new for about $40, like a copy of [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20), is a fair used buy somewhere around $20 to $25 if it is complete and clean. A big hobby box that retails at $80 or more should be meaningfully cheaper used, because the people who want it at full price already own it.
 
 A few other rules of thumb:
 
@@ -103,8 +103,8 @@ Not every game is a good secondhand candidate. Here is how to sort them.
 
 ### Safe bets
 
-- **Games with few, sturdy components.** [Hive](https://www.amazon.com/dp/B000EN5ZLW?tag=cubecommonw0a-20), [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20), [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20), [Azul](https://link.amazon/B0bGRYHex). Hard to lose pieces, easy to count, hard to damage.
-- **Classic gateway games.** Catan, [Ticket to Ride](https://link.amazon/B0jh8RB7f), [Carcassonne](https://link.amazon/B012Rr5ed), [Pandemic](https://link.amazon/B0eHP5GCg). Printed in huge numbers, cheap used, and replacement parts are usually easy to get.
+- **Games with few, sturdy components.** [Hive](https://www.amazon.com/dp/B000EN5ZLW?tag=cubecommonw0a-20), [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20), [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20), [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20). Hard to lose pieces, easy to count, hard to damage.
+- **Classic gateway games.** Catan, [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20), [Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20), [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20). Printed in huge numbers, cheap used, and replacement parts are usually easy to get.
 - **Games with no hidden state in the components.** If every piece is public and nothing is consumed, use does not change the game.
 - **Games in shrink.** Someone bought it, never played it, and now wants it gone. You get a new game at a used price. The [Shelf of Shame](/articles/shelf-of-shame-infinite-cost/) is your friend here.
 

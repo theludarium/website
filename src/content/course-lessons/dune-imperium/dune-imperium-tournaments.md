@@ -11,7 +11,7 @@ oneIdea: "Competitive Dune: Imperium is the game you already know, played at fou
 tryThis: "Play three four-player games this month and time each one. Tournament rounds run about three hours, so learn what pace your group plays at."
 nextTeaser: "Last, a six-week practice plan: the right boxes, digital volume, timed games, drills, and how to review a loss."
 ---
-Dune: Imperium has a real competitive scene in the United States. It has an event at the World Boardgaming Championships, and Dire Wolf runs its own North American Championship at Gen Con in Indianapolis. You do not need to win either to enjoy them. But knowing how they run changes how you look at your games at home.
+[Dune: Imperium](https://www.amazon.com/dp/B08JHB9V72?tag=cubecommonw0a-20) has a real competitive scene in the United States. It has an event at the World Boardgaming Championships, and Dire Wolf runs its own North American Championship at Gen Con in Indianapolis. You do not need to win either to enjoy them. But knowing how they run changes how you look at your games at home.
 
 ## How tournament play differs from home
 

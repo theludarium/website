@@ -12,7 +12,7 @@ Winter break means the kids are home for a week or two, the days are short, and 
 
 This is a plan, not just a list. Pick one game for each type of day, and you have the whole break covered with four or five boxes.
 
-**The quick answer:** Sushi Go! or Qwixx for quick filler days, The Crew: Family Adventure or Zombie Kidz Evolution as the long co-op you work through all break, Rush Hour or Gravity Maze for kids who want to play alone, and a mancala or [Kingdomino](https://link.amazon/B08l49zvA) bracket for family tournament night.
+**The quick answer:** Sushi Go! or Qwixx for quick filler days, The Crew: Family Adventure or Zombie Kidz Evolution as the long co-op you work through all break, Rush Hour or Gravity Maze for kids who want to play alone, and a mancala or [Kingdomino](https://www.amazon.com/dp/B01N3A4070?tag=cubecommonw0a-20) bracket for family tournament night.
 
 Prices below are list or publisher store prices at the time of writing. Holiday sales move them a lot, so read them as "about."
 

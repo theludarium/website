@@ -11,7 +11,7 @@ oneIdea: "A face-up card is a sure thing everyone can see. A blind card is a gam
 tryThis: "Next game, before each draw, decide which two colors you are collecting and say them to yourself. Take a face-up card only if it is one of them; otherwise draw blind."
 nextTeaser: "Next, the USA map itself: which cities have only two or three ways in, which routes sit on the most tickets, and where the fights happen."
 ---
-Most turns in [Ticket to Ride](https://link.amazon/B0jh8RB7f) are draw turns. You will spend far more of the game picking up cards than placing trains, so small edges in how you draw add up. This lesson covers the three choices you face every time: take a card from the face-up row, draw blind from the deck, or spend your whole draw on a face-up locomotive.
+Most turns in [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) are draw turns. You will spend far more of the game picking up cards than placing trains, so small edges in how you draw add up. This lesson covers the three choices you face every time: take a card from the face-up row, draw blind from the deck, or spend your whole draw on a face-up locomotive.
 
 ## What is in the deck
 

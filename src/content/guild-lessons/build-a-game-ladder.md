@@ -44,9 +44,9 @@ Three more rules keep the ladder steady:
 
 ## A worked example: four rungs to Wingspan
 
-Picture a partner who has never played a modern board game, and a goal: one day, a quiet evening of Wingspan for two. Here is one ladder.
+Picture a partner who has never played a modern board game, and a goal: one day, a quiet evening of [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) for two. Here is one ladder.
 
-**Rung one: [Flip 7](/academy/flip-7/).** The new idea: one choice, over and over. Each turn you take another card or stop and keep what you have, and a duplicate number busts you. It plays in about twenty minutes. The card game is the whole lesson: a turn is a decision, and decisions have risk. Flip 7 plays best with three or more, so this rung is a good one for a night with friends.
+**Rung one: [Flip 7](/academy/flip-7/).** The new idea: one choice, over and over. Each turn you take another card or stop and keep what you have, and a duplicate number busts you. It plays in about twenty minutes. The card game is the whole lesson: a turn is a decision, and decisions have risk. [Flip 7](https://www.amazon.com/dp/B0DWGVM7RY?tag=cubecommonw0a-20) plays best with three or more, so this rung is a good one for a night with friends.
 
 **Rung two: [Ticket to Ride](/academy/ticket-to-ride/).** The new idea: a goal you plan toward across many turns. Each turn is still one choice, now between three things. What is new is the secret tickets, which ask you to think ahead and connect two cities over the whole game. The board is new, but you read it like a map, which everyone already knows how to do.
 

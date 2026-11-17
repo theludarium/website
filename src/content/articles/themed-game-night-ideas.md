@@ -22,13 +22,13 @@ It also helps newcomers. Someone invited to "game night" does not know what to e
 
 ### 1. Co-op Night
 
-Everyone on one side, the game on the other. [Pandemic](https://link.amazon/B0eHP5GCg), [The Crew](https://link.amazon/B099S9RKf), and [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20) cover three tables at three difficulty levels.
+Everyone on one side, the game on the other. [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20), [The Crew](https://link.amazon/B099S9RKf), and [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20) cover three tables at three difficulty levels.
 
 **The rule:** at least one table must lose. If every table wins, the difficulty was too low. Announce this up front and watch people choose harder settings.
 
 ### 2. Gateway Night
 
-A night for the person someone keeps meaning to bring. Only games that teach in under ten minutes: [Ticket to Ride](https://link.amazon/B0jh8RB7f), [Azul](https://link.amazon/B0bGRYHex), [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), [Sushi Go](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20).
+A night for the person someone keeps meaning to bring. Only games that teach in under ten minutes: [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20), [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20), [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), [Sushi Go](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20).
 
 **The rule:** every regular brings one person who has never come. The regulars teach; they do not play their heavy games tonight.
 
@@ -88,7 +88,7 @@ Every game must be playable without speaking. [The Mind](https://www.amazon.com/
 
 ### 12. One Game, All Night
 
-Choose a single game with legs and play it three or four times in a row. [Catan](https://link.amazon/B0h8BDGR2), [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20), [Race for the Galaxy](https://www.amazon.com/dp/B000YLAOEW?tag=cubecommonw0a-20), or Cube drafts of [Magic: The Gathering](https://www.amazon.com/dp/B0D9KXBNBB?tag=cubecommonw0a-20) if your group plays Magic.
+Choose a single game with legs and play it three or four times in a row. [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20), [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20), [Race for the Galaxy](https://www.amazon.com/dp/B000YLAOEW?tag=cubecommonw0a-20), or Cube drafts of [Magic: The Gathering](https://www.amazon.com/dp/B0D9KXBNBB?tag=cubecommonw0a-20) if your group plays Magic.
 
 **The rule:** between games, two minutes of open talk about what worked. Repetition is how people get good, and getting good at a game together is a bond.
 

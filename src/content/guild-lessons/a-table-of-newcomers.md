@@ -65,6 +65,6 @@ Then teach it short: two teams; the spymasters know which words are ours; a clue
 
 During the first game, watch for your second teacher. On the other team, someone will start explaining the plus one rule to their teammates before you do. That is your helper. In game two, when you pass the key along, ask them to keep an eye on their side.
 
-A Codenames game takes about fifteen minutes, so a best of three fits a lunch. By game three, the table runs itself, and you are just one more player. That is the goal.
+A [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) game takes about fifteen minutes, so a best of three fits a lunch. By game three, the table runs itself, and you are just one more player. That is the goal.
 
 <!-- AT OUR TABLE: one line from Levi on a newcomers-only table and who turned out to be his second teacher -->

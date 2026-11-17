@@ -12,7 +12,7 @@ Most rules disputes can be settled in under two minutes with a process everyone 
 
 ## Why do rules arguments feel so personal?
 
-Because they are rarely about the rule. They are about being right, being fair, and being heard. A disagreement over whether you can trade on another player's turn in [Catan](https://link.amazon/B0h8BDGR2) is, underneath, a question of whether the table trusts each other.
+Because they are rarely about the rule. They are about being right, being fair, and being heard. A disagreement over whether you can trade on another player's turn in [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) is, underneath, a question of whether the table trusts each other.
 
 Add a competitive game, a close score, and a little fatigue, and a small rules question becomes a referendum on someone's character. That is why the fix is procedural. A clear process takes the personal weight off the moment and puts it on a shared agreement.
 
@@ -73,7 +73,7 @@ For new players, grant even more grace. A first-timer who misplays a rule in [Wi
 
 Most disputes trace back to a rushed or incomplete teach. A few habits upstream save a lot of friction downstream.
 
-- **Teach the common edge cases.** Every game has two or three rules that trip people up. Catan: no trading on other turns. [Ticket to Ride](https://link.amazon/B0jh8RB7f): you can only draw a wild from the face-up row as your whole turn. Say them during the teach.
+- **Teach the common edge cases.** Every game has two or three rules that trip people up. Catan: no trading on other turns. [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20): you can only draw a wild from the face-up row as your whole turn. Say them during the teach.
 - **Keep the rulebook on the table.** Not in the box, not on a shelf. If a question takes five seconds to answer, it does not become an argument.
 - **Name the authority before the first turn.** "If we hit a rules question, I'll check the book, and if it's not there I'll make a call and we'll look it up after." Thirty seconds, enormous payoff.
 - **Agree on house rules out loud.** If your group plays Catan with a robber variant or [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) with a timer, say so before the game, every time a new player is present.

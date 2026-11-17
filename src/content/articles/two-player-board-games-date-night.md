@@ -37,7 +37,7 @@ One more thing. If one of you is far more competitive than the other, that will 
 | [Sky Team](https://www.amazon.com/dp/B0CHD8RCSJ?tag=cubecommonw0a-20) | 2 | 15 to 20 min | Land a plane together, barely talking |
 | [Targi](https://www.amazon.com/dp/B00YNJCSMM?tag=cubecommonw0a-20) | 2 | 60 min | Worker placement for two, clever and tight |
 | [Fog of Love](https://www.amazon.com/dp/B0788BY3QV?tag=cubecommonw0a-20) | 2 | 60 to 120 min | A romantic comedy you play through |
-| [Azul](https://link.amazon/B0bGRYHex) | 2 to 4 | 30 min | Excellent at two, calm and tactile |
+| [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) | 2 to 4 | 30 min | Excellent at two, calm and tactile |
 
 ### Patchwork
 
@@ -123,7 +123,7 @@ Patchwork for a first game, Jaipur for a fast rematch, and 7 Wonders Duel once y
 
 ### Are there cooperative two player board games?
 
-Yes. Codenames: Duet, Sky Team, and [The Crew](https://link.amazon/B099S9RKf) all play well at two, and [Pandemic](https://link.amazon/B0eHP5GCg) has a solid two-player mode.
+Yes. Codenames: Duet, Sky Team, and [The Crew](https://link.amazon/B099S9RKf) all play well at two, and [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20) has a solid two-player mode.
 
 ### How long should a date night board game last?
 
@@ -131,7 +131,7 @@ Twenty to forty minutes is the sweet spot. It leaves room to play twice, or to s
 
 ### Can four-player games work for two?
 
-Some can. Azul, [Splendor](https://link.amazon/B0fEvY6Wg), and [Carcassonne](https://link.amazon/B012Rr5ed) are good at two. Most party games and negotiation games are not.
+Some can. Azul, [Splendor](https://www.amazon.com/dp/B00IZEUFIA?tag=cubecommonw0a-20), and [Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20) are good at two. Most party games and negotiation games are not.
 
 ## One game for two, every week
 

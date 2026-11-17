@@ -11,7 +11,7 @@ oneIdea: "Every round has the same shape: everyone takes tiles until the table i
 tryThis: "In your first game, score every wall tile out loud, row first and then column, until everyone at the table can do it without help."
 nextTeaser: "Next, the ten-minute teach. You will get a host script in the order you would say it, so the whole table learns at once."
 ---
-If [Azul](https://link.amazon/B0bGRYHex) just came out of its wrapping paper, you are holding one of the best-looking games on any shelf. The good news: the Azul rules are as tidy as the box. You can learn them tonight and play before the coffee gets cold.
+If [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) just came out of its wrapping paper, you are holding one of the best-looking games on any shelf. The good news: the Azul rules are as tidy as the box. You can learn them tonight and play before the coffee gets cold.
 
 You are a tile artist decorating a palace wall in Portugal. Each round you take colored tiles from shared displays, line them up on your board, and move finished lines onto your wall. Tiles that touch other tiles score more. Tiles you take but cannot use fall on the floor and cost you points. Azul plays 2 to 4 players.
 

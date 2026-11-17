@@ -29,7 +29,7 @@ Here is what each role covers and what it needs to do.
 
 ### Gateway
 
-The gateway is your anchor, the game you teach to anyone. It fits your most common player count, teaches in ten minutes, and holds up across dozens of plays. [Catan](https://link.amazon/B0h8BDGR2), [Ticket to Ride](https://link.amazon/B0jh8RB7f), and [Carcassonne](https://link.amazon/B012Rr5ed) are the classic examples; [Azul](https://link.amazon/B0bGRYHex) and [Splendor](https://link.amazon/B0fEvY6Wg) fill the role for groups that like something quicker. If you followed the [first $40 article](/articles/your-first-40-dollars/), you already own this one.
+The gateway is your anchor, the game you teach to anyone. It fits your most common player count, teaches in ten minutes, and holds up across dozens of plays. [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20), [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20), and [Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20) are the classic examples; [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) and [Splendor](https://www.amazon.com/dp/B00IZEUFIA?tag=cubecommonw0a-20) fill the role for groups that like something quicker. If you followed the [first $40 article](/articles/your-first-40-dollars/), you already own this one.
 
 ### Filler
 
@@ -69,7 +69,7 @@ The table below is an illustration, not a shopping list. Prices are typical US r
 | Filler | Sushi Go! | $12 to $20 | 2 to 5 | 15 min |
 | 2-player | [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20) | $25 to $35 | 2 | 20 to 30 min |
 | Party (6+) | Codenames | $15 to $25 | 4 to 8+ | 15 to 30 min |
-| Co-op | [Pandemic](https://link.amazon/B0eHP5GCg) | $35 to $45 | 2 to 4 | 45 to 60 min |
+| Co-op | [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20) | $35 to $45 | 2 to 4 | 45 to 60 min |
 | Stretch | Wingspan | $55 to $65 | 1 to 5 | 60 to 90 min |
 | **Total** | | **About $180 to $230** | | |
 

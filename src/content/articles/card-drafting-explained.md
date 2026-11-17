@@ -40,7 +40,7 @@ Pick-and-pass is the most common, but it is not the only way to let players choo
 | Format | How it works | Example |
 |---|---|---|
 | Pick and pass | Take one, pass the hand to a neighbor | 7 Wonders, [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), Magic booster draft |
-| Open draft (market row) | Cards face up in a row; take one on your turn, row refills | [Ticket to Ride](https://link.amazon/B0jh8RB7f)'s train cards, [Splendor](https://link.amazon/B0fEvY6Wg), [Century: Spice Road](https://www.amazon.com/dp/B071DXCT5L?tag=cubecommonw0a-20) |
+| Open draft (market row) | Cards face up in a row; take one on your turn, row refills | [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20)'s train cards, [Splendor](https://www.amazon.com/dp/B00IZEUFIA?tag=cubecommonw0a-20), [Century: Spice Road](https://www.amazon.com/dp/B071DXCT5L?tag=cubecommonw0a-20) |
 | Rochester draft | All cards face up; players pick in snake order | Some Magic formats, [Agricola](https://www.amazon.com/dp/B07JZFN8WS?tag=cubecommonw0a-20)'s occupation draft variant |
 | Winston draft | Two players take turns choosing from small face-down piles that grow until someone takes them | Two-player Magic |
 | Dice drafting | Same as cards, but with rolled dice | [Sagrada](https://www.amazon.com/dp/B0GL8V2VFD?tag=cubecommonw0a-20), [Grand Austria Hotel](https://www.amazon.com/dp/B017IWP33Q?tag=cubecommonw0a-20) |

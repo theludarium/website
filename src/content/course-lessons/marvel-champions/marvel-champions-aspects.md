@@ -11,7 +11,7 @@ oneIdea: "An aspect is a plan for the half of your deck your hero does not cover
 tryThis: "Play the same hero against the same villain twice, once in its pre-built aspect and once in another, and note which clock felt safer each time."
 nextTeaser: "Level 4 puts it together: the deckbuilding rules and a first 40-card deck you build yourself."
 ---
-Every Marvel Champions deck has two halves. One half is your hero's own cards, the identity-specific set that always comes along. The other half is yours to choose, and it comes from one aspect plus the Basic cards.
+Every [Marvel Champions](https://www.amazon.com/dp/B07W1BF6D5?tag=cubecommonw0a-20) deck has two halves. One half is your hero's own cards, the identity-specific set that always comes along. The other half is yours to choose, and it comes from one aspect plus the Basic cards.
 
 The four aspects are Aggression, Justice, Leadership, and Protection. Each one is a style of play with its own color: red for Aggression, yellow for Justice, blue for Leadership, and green for Protection. Basic cards are not part of any aspect and fit in any deck.
 

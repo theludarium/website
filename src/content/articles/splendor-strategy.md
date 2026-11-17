@@ -97,7 +97,7 @@ Things that gain tempo:
 
 The end trigger deserves a note. The round finishes after fifteen is reached, so if you are the first player and you hit fifteen, everyone else gets one more turn. If an opponent can reach sixteen on that turn, you lose. Count their points, their bonuses, and the cards on display before you trigger. Sometimes buying a two-point card to reach fourteen and waiting a turn is the winning play.
 
-Splendor is a game we put in front of people who think they do not like strategy games, because it is quiet, quick, and makes everyone feel smart by the third play. For the vocabulary underneath it, see our explainers on [engine building games](/articles/engine-building-games/) and what a [tableau](/articles/tableau-board-games/) is, since [Splendor](https://link.amazon/B0fEvY6Wg) is the cleanest example of both. If your table wants a gentler planning game next, our [Azul guide](/articles/azul-strategy/) is a natural pairing.
+Splendor is a game we put in front of people who think they do not like strategy games, because it is quiet, quick, and makes everyone feel smart by the third play. For the vocabulary underneath it, see our explainers on [engine building games](/articles/engine-building-games/) and what a [tableau](/articles/tableau-board-games/) is, since [Splendor](https://www.amazon.com/dp/B00IZEUFIA?tag=cubecommonw0a-20) is the cleanest example of both. If your table wants a gentler planning game next, our [Azul guide](/articles/azul-strategy/) is a natural pairing.
 
 The game is the reason. The people are the point.
 

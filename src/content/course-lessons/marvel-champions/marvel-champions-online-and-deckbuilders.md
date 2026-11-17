@@ -10,7 +10,7 @@ draft: false
 oneIdea: "Marvel Champions has no tournament ladder, so mastery means a ladder you set yourself. Fan tools make deckbuilding fast, and a written plan turns games into practice."
 tryThis: "Make a MarvelCDB account, save your current deck there, and write the date and result of every game you play with it in the deck's description."
 ---
-Marvel Champions is cooperative, so the game is not built around tournaments. The top of the game is not a trophy. It is beating every villain you own on expert, then on heroic, then through a full expert campaign. This lesson covers the tools that help and a plan to get there.
+[Marvel Champions](https://www.amazon.com/dp/B07W1BF6D5?tag=cubecommonw0a-20) is cooperative, so the game is not built around tournaments. The top of the game is not a trophy. It is beating every villain you own on expert, then on heroic, then through a full expert campaign. This lesson covers the tools that help and a plan to get there.
 
 ## MarvelCDB: the fan card database
 

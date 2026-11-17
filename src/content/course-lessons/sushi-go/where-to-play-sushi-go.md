@@ -63,6 +63,6 @@ The best thing you can do with a course like this is pass it on. Teach a friend,
 
 ## What you can do now
 
-Look back at the four levels. You can teach and score a full game, value every card, time wasabi and chopsticks, read the hands coming your way, play the set and maki odds, win the pudding race, track every card in a round, and adjust for every player count and for Sushi Go Party!. That is a lot of depth for a game in a small tin.
+Look back at the four levels. You can teach and score a full game, value every card, time wasabi and chopsticks, read the hands coming your way, play the set and maki odds, win the pudding race, track every card in a round, and adjust for every player count and for [Sushi Go Party!](https://www.amazon.com/dp/B01CETNKE2?tag=cubecommonw0a-20). That is a lot of depth for a game in a small tin.
 
 The game is the reason. The people around the table are the point.

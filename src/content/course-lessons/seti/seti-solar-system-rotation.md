@@ -11,7 +11,7 @@ oneIdea: "Rotation in SETI is never random. The rotation counter tells everyone 
 tryThis: "Before every Research action or first pass in your next game, say aloud which disc will turn and where each probe and planet on it will end up."
 nextTeaser: "Next, the probe decision itself: when to launch, when to orbit, when to land, and how the first orbiter and first lander bonuses change the math."
 ---
-The rotating solar system is the first thing anyone notices about SETI, and the first thing new players treat as weather: something that happens to them. It is closer to a clock. It turns at known moments, in a known order, by a known amount. This lesson explains the rules from the English rulebook (October 2024), then how to use them.
+The rotating solar system is the first thing anyone notices about [SETI](https://www.amazon.com/dp/B0CZBCRC3S?tag=cubecommonw0a-20), and the first thing new players treat as weather: something that happens to them. It is closer to a clock. It turns at known moments, in a known order, by a known amount. This lesson explains the rules from the English rulebook (October 2024), then how to use them.
 
 ## What triggers a rotation?
 

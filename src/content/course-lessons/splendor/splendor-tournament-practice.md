@@ -10,7 +10,7 @@ draft: false
 oneIdea: "Tournament Splendor rewards speed twice: fewer turns to 15, and fewer seconds per turn. Train both, and play every losing game for points."
 tryThis: "This week, log turns to 15 for every game you play, win or lose. That one number is the baseline the rest of this plan improves."
 ---
-The previous lesson showed where competitive [Splendor](https://link.amazon/B0fEvY6Wg) happens and how events are scored. This one turns that into a plan. Four weeks is enough to walk into a first event, a store tournament, or a convention heat, and play your real game instead of a nervous one.
+The previous lesson showed where competitive [Splendor](https://www.amazon.com/dp/B00IZEUFIA?tag=cubecommonw0a-20) happens and how events are scored. This one turns that into a plan. Four weeks is enough to walk into a first event, a store tournament, or a convention heat, and play your real game instead of a nervous one.
 
 ## Know what you are training for
 

@@ -7,7 +7,7 @@ games: [catan]
 tags: ["Catan tournament", "Catan qualifier", "Catan World Championship", "CATAN Championship rules", "Catan Nationals", "Noblesville", "Competitive play"]
 draft: false
 ---
-I opened [Moonshot Games](https://moonshotgamestore.com/)' event calendar this week to book a table for a Cube Commonwealth session in Noblesville on Saturday. The table was taken. Moonshot is hosting an official [Catan](https://link.amazon/B0h8BDGR2) tournament that day, a CATAN Championship qualifier, and my first reaction was mild annoyance: no cube on Saturday.
+I opened [Moonshot Games](https://moonshotgamestore.com/)' event calendar this week to book a table for a Cube Commonwealth session in Noblesville on Saturday. The table was taken. Moonshot is hosting an official [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) tournament that day, a CATAN Championship qualifier, and my first reaction was mild annoyance: no cube on Saturday.
 
 My second reaction was curiosity. I have played Catan a handful of times, always casually, always with a snack bowl within reach. It is a fun game. And the entry fee is $10. For the price of a sandwich, I get a seat at a table full of people who take sheep and brick seriously, and a front-row look at what "good" means in a game most of us learned at a friend's kitchen table.
 

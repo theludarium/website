@@ -11,7 +11,7 @@ oneIdea: "The opening is about tempo, not size. Claim features that finish fast,
 tryThis: "In your next game, aim to score at least two completed features in your first five turns, and note how many meeples you hold at turn ten."
 nextTeaser: "Next, monasteries: the six tiles that let the whole table do your building for you, if you place them at the right time."
 ---
-[Carcassonne](https://link.amazon/B012Rr5ed) has no fixed opening the way chess does. The tiles come out in a different order every game. But the first ten turns still follow patterns, and the players who win most often treat them the same way: score early, keep meeples moving, and build a position for the fights to come.
+[Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20) has no fixed opening the way chess does. The tiles come out in a different order every game. But the first ten turns still follow patterns, and the players who win most often treat them the same way: score early, keep meeples moving, and build a position for the fights to come.
 
 ## Why tempo matters more than size
 

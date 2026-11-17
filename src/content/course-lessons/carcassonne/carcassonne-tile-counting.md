@@ -11,7 +11,7 @@ oneIdea: "You cannot predict the next tile, but you can know how many tiles coul
 tryThis: "Pick one open space next to your most important feature. Count how many tile types fit it, using the table here, and how many of those are already on the table."
 nextTeaser: "Next, the endgame and scoring math: how to count farms, when to finish and when to abandon, and how to spend your last meeples."
 ---
-Every open feature in [Carcassonne](https://link.amazon/B012Rr5ed) is waiting on a tile. Sometimes many tiles in the stack would do. Sometimes only a handful exist in the whole game, and some of those are already on the table. Players who know the tile mix stop pouring meeples into features that cannot close.
+Every open feature in [Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20) is waiting on a tile. Sometimes many tiles in the stack would do. Sometimes only a handful exist in the whole game, and some of those are already on the table. Players who know the tile mix stop pouring meeples into features that cannot close.
 
 You do not need to memorize every tile. You need a feel for the common shapes, a short list of rare ones, and a way to count what fits a space.
 

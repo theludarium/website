@@ -11,7 +11,7 @@ oneIdea: "In the midgame, the map is shared. Every tile you place either helps y
 tryThis: "Before placing each tile in your next game, name out loud (or in your head) which open feature on the board each other player most wants to finish."
 nextTeaser: "Next, farming in depth: how fields join and split, when a farmer pays, and how to win the biggest field on the board."
 ---
-By the middle of a [Carcassonne](https://link.amazon/B012Rr5ed) game, the map is crowded with half-built cities, roads that wander, and monasteries with gaps around them. The opening was about your own tempo. The midgame is about everyone's. This is where Carcassonne turns from a puzzle into a contest.
+By the middle of a [Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20) game, the map is crowded with half-built cities, roads that wander, and monasteries with gaps around them. The opening was about your own tempo. The midgame is about everyone's. This is where Carcassonne turns from a puzzle into a contest.
 
 ## Read the table first
 

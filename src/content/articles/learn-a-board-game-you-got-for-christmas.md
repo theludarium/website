@@ -71,20 +71,20 @@ If the gift was a popular game, The Ludarium Academy may already have a free cou
 
 | If you got | Take this free course |
 |---|---|
-| [Catan](https://link.amazon/B0h8BDGR2) | [Catan](/academy/catan/) |
-| [Ticket to Ride](https://link.amazon/B0jh8RB7f) | [Coast to Coast](/academy/ticket-to-ride/) |
+| [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) | [Catan](/academy/catan/) |
+| [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) | [Coast to Coast](/academy/ticket-to-ride/) |
 | [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) | [One Word, One Number](/academy/codenames/) |
 | [Flip 7](https://www.amazon.com/dp/B0DWGVM7RY?tag=cubecommonw0a-20) | [One More Card](/academy/flip-7/) |
 | [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) | [Pick and Pass](/academy/sushi-go/) |
-| [Azul](https://link.amazon/B0bGRYHex) | [Wall to Wall](/academy/azul/) |
-| [Kingdomino](https://link.amazon/B08l49zvA) | [Every Crown Counts](/academy/kingdomino/) |
-| [Carcassonne](https://link.amazon/B012Rr5ed) | [Tile by Tile](/academy/carcassonne/) |
-| [Splendor](https://link.amazon/B0fEvY6Wg) | [Gem by Gem](/academy/splendor/) |
-| [King of Tokyo](https://link.amazon/B0goO6BQA) | [Who Holds Tokyo](/academy/king-of-tokyo/) |
+| [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) | [Wall to Wall](/academy/azul/) |
+| [Kingdomino](https://www.amazon.com/dp/B01N3A4070?tag=cubecommonw0a-20) | [Every Crown Counts](/academy/kingdomino/) |
+| [Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20) | [Tile by Tile](/academy/carcassonne/) |
+| [Splendor](https://www.amazon.com/dp/B00IZEUFIA?tag=cubecommonw0a-20) | [Gem by Gem](/academy/splendor/) |
+| [King of Tokyo](https://www.amazon.com/dp/B01F46RPS4?tag=cubecommonw0a-20) | [Who Holds Tokyo](/academy/king-of-tokyo/) |
 | [Sky Team](https://www.amazon.com/dp/B0CHD8RCSJ?tag=cubecommonw0a-20) | [Cleared to Land](/academy/sky-team/) |
 | [The Crew](https://link.amazon/B099S9RKf) | [The Right Trick](/academy/the-crew/) |
-| [Pandemic](https://link.amazon/B0eHP5GCg) | [Four Actions, Four Cures](/academy/pandemic/) |
-| [Cascadia](https://link.amazon/B0g1HYFt4) | [Wild Corridors](/academy/cascadia/) |
+| [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20) | [Four Actions, Four Cures](/academy/pandemic/) |
+| [Cascadia](https://www.amazon.com/dp/B093H8RGXX?tag=cubecommonw0a-20) | [Wild Corridors](/academy/cascadia/) |
 | [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) | [From Feeder to Flock](/academy/wingspan/) |
 | [Everdell](https://www.amazon.com/dp/B09ZWQTTNR?tag=cubecommonw0a-20) | [Four Seasons, Fifteen Spaces](/academy/everdell/) |
 | [7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20) | [Pick, Pass, and Build](/academy/7-wonders/) |

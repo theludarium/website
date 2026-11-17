@@ -11,7 +11,7 @@ oneIdea: "Teach the three choices and the tickets, then start. Everything else i
 tryThis: "Print the teach sheet, set it by the board, and start the game the moment everyone has chosen their tickets, even if you skipped something."
 nextTeaser: "Next, the last piece of Level 0: scoring a full game by hand, so the ticket reveal and the longest path count are calm, quick, and correct."
 ---
-[Ticket to Ride](https://link.amazon/B0jh8RB7f) is one of the best games to teach, and one of the easiest to over-teach. The rules are short, so hosts read them all out, double routes and tie-breakers included, while new players stare at a map full of cities they have not found yet.
+[Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) is one of the best games to teach, and one of the easiest to over-teach. The rules are short, so hosts read them all out, double routes and tie-breakers included, while new players stare at a map full of cities they have not found yet.
 
 The fix is to teach the three choices, deal the tickets, and let the map do the rest. Here is a script in the order you would say it, with the places to stop talking. Print the [Ticket to Ride teach sheet](/academy/ticket-to-ride/teach-sheet/) and set it where everyone can read it.
 

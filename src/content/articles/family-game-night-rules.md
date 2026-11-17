@@ -85,9 +85,9 @@ If it is persistent, let that child be the rules-reader for a few weeks. Give th
 
 ## Should parents play to win?
 
-Yes, with judgment. Playing at full strength against a five-year-old at a pure skill game is pointless. Playing to win at [Kingdomino](https://link.amazon/B08l49zvA) against a nine-year-old is respect. Children know when they are being handed a game, and it devalues the win.
+Yes, with judgment. Playing at full strength against a five-year-old at a pure skill game is pointless. Playing to win at [Kingdomino](https://www.amazon.com/dp/B01N3A4070?tag=cubecommonw0a-20) against a nine-year-old is respect. Children know when they are being handed a game, and it devalues the win.
 
-The adjustment is in the game choice, not the effort. Pick games with enough luck that the kids win a real share. Then play properly. The day your kid beats you fair and square at [Ticket to Ride](https://link.amazon/B0jh8RB7f) is a day they will remember, and it only means something if you were trying.
+The adjustment is in the game choice, not the effort. Pick games with enough luck that the kids win a real share. Then play properly. The day your kid beats you fair and square at [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) is a day they will remember, and it only means something if you were trying.
 
 ## What if the rules themselves cause a fight?
 

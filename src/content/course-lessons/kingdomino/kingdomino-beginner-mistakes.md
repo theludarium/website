@@ -11,7 +11,7 @@ oneIdea: "First-game trouble comes from two places: small rules slips about wher
 tryThis: "After each of your next three games, count how many squares in your kingdom scored nothing: crownless land, discards, and empty spaces. Try to cut that number each game."
 nextTeaser: "Next, the scoring math. Once you see a territory as squares times crowns, you will know which domino adds the most points before you pick it."
 ---
-Your first three games of [Kingdomino](https://link.amazon/B08l49zvA) are where habits form. Some of those habits are rules played wrong because nobody checked. Others are legal choices that cost a lot of points. This lesson covers both, checked against the Blue Orange rulebook.
+Your first three games of [Kingdomino](https://www.amazon.com/dp/B01N3A4070?tag=cubecommonw0a-20) are where habits form. Some of those habits are rules played wrong because nobody checked. Others are legal choices that cost a lot of points. This lesson covers both, checked against the Blue Orange rulebook.
 
 ## Rules slips to catch early
 

@@ -11,7 +11,7 @@ oneIdea: "In the last third of the game, every meeple and every tile has a price
 tryThis: "When about ten tiles remain, count each field's value and who controls it. Then make your last meeple placements based on those numbers."
 nextTeaser: "Next, Level 3 opens with odds: how likely you are to draw the tile that closes your feature, worked out with a few plain numbers."
 ---
-[Carcassonne](https://link.amazon/B012Rr5ed)'s final scoring is where games flip. A player who looked behind on the scoreboard turns out to own the big field, and fifteen points arrive at once. Nothing about it is hidden, though. You can count it before the last tile, and adjust.
+[Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20)'s final scoring is where games flip. A player who looked behind on the scoreboard turns out to own the big field, and fifteen points arrive at once. Nothing about it is hidden, though. You can count it before the last tile, and adjust.
 
 ## The values, side by side
 

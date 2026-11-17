@@ -11,7 +11,7 @@ oneIdea: "The bag holds a known mix: 20 of each animal. Count what has left it, 
 tryThis: "Once in your next game, before you wipe tokens, count how many of your animal are on all the environments and in the display. Use the table here to decide whether the wipe is worth it."
 nextTeaser: "Next, the hardest cards in the box: Bears B, Salmon C, the hawk pairs and lines, and the fox pairs, and how to score them without wrecking your game."
 ---
-Welcome to Level 3. At Level 2 you learned to lay landing spots and read the display. Now you put numbers on the part of [Cascadia](https://link.amazon/B0g1HYFt4) that feels like luck: the cloth bag.
+Welcome to Level 3. At Level 2 you learned to lay landing spots and read the display. Now you put numbers on the part of [Cascadia](https://www.amazon.com/dp/B093H8RGXX?tag=cubecommonw0a-20) that feels like luck: the cloth bag.
 
 The bag is not a mystery. It starts with exactly 100 wildlife tokens, 20 of each animal. Tokens that land on environments leave it for good. Tokens that are wiped or returned go back in. That means anyone at the table can work out, roughly, what is left. All the odds below are worked out from those real counts.
 

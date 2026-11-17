@@ -11,7 +11,7 @@ oneIdea: "Teach the pick, not the scoring. Get tiles into hands fast, then score
 tryThis: "Print the teach sheet, keep your teach under ten minutes, and at the end of round one have every player score their own wall out loud while the table checks."
 nextTeaser: "Next, the last piece of Level 0: scoring a full game by hand, so every wall, floor, and final bonus adds up."
 ---
-[Azul](https://link.amazon/B0bGRYHex) is a gift game. It gets unwrapped, admired, and set up on the table while someone reads the rulebook aloud. Then the teach drifts into scoring examples before anyone has touched a tile, and the room goes quiet in the wrong way.
+[Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) is a gift game. It gets unwrapped, admired, and set up on the table while someone reads the rulebook aloud. Then the teach drifts into scoring examples before anyone has touched a tile, and the room goes quiet in the wrong way.
 
 The fix is to teach the pick, play the pick, and save scoring for the moment the first tiles move to the wall. Here is a host script in the order you would say it. Print the [Azul teach sheet](/academy/azul/teach-sheet/) and set it where everyone can read it.
 

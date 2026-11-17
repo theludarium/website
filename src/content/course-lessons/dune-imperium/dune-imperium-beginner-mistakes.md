@@ -11,7 +11,7 @@ oneIdea: "Most first-game trouble comes from the Conflict: troops deployed from 
 tryThis: "For your next three games, have each player say out loud where every deployed troop came from: recruited this turn, or one of their two from the garrison."
 nextTeaser: "Next, planning a hand: which cards send Agents, which stay for your Reveal, and when to reveal early."
 ---
-Your first three games of Dune: Imperium are where habits form. Some are rules slips, played wrong because nobody checked. Others are legal plays that quietly cost points. This lesson covers both, checked against the rulebook and Dire Wolf's [official FAQ](https://d19y2ttatozxjp.cloudfront.net/pdfs/DUNE_IMPERIUM_FAQ_25-1-13.pdf), with an Uprising section at the end.
+Your first three games of [Dune: Imperium](https://www.amazon.com/dp/B08JHB9V72?tag=cubecommonw0a-20) are where habits form. Some are rules slips, played wrong because nobody checked. Others are legal plays that quietly cost points. This lesson covers both, checked against the rulebook and Dire Wolf's [official FAQ](https://d19y2ttatozxjp.cloudfront.net/pdfs/DUNE_IMPERIUM_FAQ_25-1-13.pdf), with an Uprising section at the end.
 
 ## Troop slips
 

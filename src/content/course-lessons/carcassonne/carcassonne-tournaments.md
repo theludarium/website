@@ -11,7 +11,7 @@ oneIdea: "Competitive Carcassonne is the same game you play at home, played with
 nextTeaser: "Next, the official tournament rules: the 15-minute clock, when a tile counts as placed, what happens on a tie, and what you may not write down."
 tryThis: "Play five two-player games online this month with the base tiles only, and track your average score. It is the clearest measure of how your play is improving."
 ---
-[Carcassonne](https://link.amazon/B012Rr5ed) looks like a family game, and it is one. It is also a serious competitive game, with a world championship, national qualifiers, a long-running event at the World Boardgaming Championships, and a busy online scene. You do not need to win any of them to enjoy them. But knowing they exist changes how you look at the game at home.
+[Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20) looks like a family game, and it is one. It is also a serious competitive game, with a world championship, national qualifiers, a long-running event at the World Boardgaming Championships, and a busy online scene. You do not need to win any of them to enjoy them. But knowing they exist changes how you look at the game at home.
 
 ## How tournament Carcassonne differs from home play
 

@@ -27,7 +27,7 @@ Then it won't, and that is information, not a problem to solve.
 
 Some groups love the moment a new rulebook opens. Most do not. Most groups tolerate about ten minutes of teaching before attention drifts, and they would rather play a game they know well than learn one they might love. This is not laziness. It is what people want from an evening with friends after work.
 
-If your group is a light group, go deep instead of heavy. A light game played thirty times, with house variants and running jokes and a standings sheet on the fridge, gives more togethering than a heavy game played once. [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), [Ticket to Ride](https://link.amazon/B0jh8RB7f), and [Azul](https://link.amazon/B0bGRYHex) all reward repeated play, and none asks anyone to study.
+If your group is a light group, go deep instead of heavy. A light game played thirty times, with house variants and running jokes and a standings sheet on the fridge, gives more togethering than a heavy game played once. [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20), and [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) all reward repeated play, and none asks anyone to study.
 
 If you personally want heavy games, find a second table for them. Many hobbyists keep one group for the long games and one for the friends. A game store's open play night exists partly for this: it is where you find the three other people who also want to play the big box. Just do not buy the big box for the group that has told you, by its behavior, that it does not want it.
 
@@ -103,7 +103,7 @@ Buy for the group's real player count, real session length, and real appetite fo
 
 ### What board games are best for casual gamers?
 
-Games that teach in five to ten minutes and reward repeat play: Codenames, Ticket to Ride, Azul, [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), Just One, [Carcassonne](https://link.amazon/B012Rr5ed). A casual group gets more out of a light game played thirty times than a heavy game played once, so favor depth through familiarity over complexity on the box.
+Games that teach in five to ten minutes and reward repeat play: Codenames, Ticket to Ride, Azul, [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), Just One, [Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20). A casual group gets more out of a light game played thirty times than a heavy game played once, so favor depth through familiarity over complexity on the box.
 
 ### What if my game group won't play heavy games?
 

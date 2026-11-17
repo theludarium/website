@@ -12,7 +12,7 @@ This checklist walks through the week before, the day of, and the first ten minu
 
 ## What makes a game night work?
 
-Three things, in order of importance: the people, the pace, and the games. Most first-time hosts invert that list. They spend hours deciding between [Catan](https://link.amazon/B0h8BDGR2) and [Ticket to Ride](https://link.amazon/B0jh8RB7f) and five minutes thinking about who will be sitting across from whom.
+Three things, in order of importance: the people, the pace, and the games. Most first-time hosts invert that list. They spend hours deciding between [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) and [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) and five minutes thinking about who will be sitting across from whom.
 
 A good game night has a clear start, one or two games that fit the group, and an end that arrives before anyone is tired. The host's job is to make decisions so guests do not have to. Decide the games. Decide the seats. Decide when it ends.
 
@@ -46,7 +46,7 @@ A note on the mix: at least one person should already know at least one other pe
 
 Two games. Maybe three. Not six.
 
-The first should be short, easy to teach, and forgiving of mistakes. Think [Azul](https://link.amazon/B0bGRYHex), [Sushi Go](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), or Codenames. It warms up the table and tells you how the group is feeling. The second is the main event: Ticket to Ride, [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), [Pandemic](https://link.amazon/B0eHP5GCg), or whatever your group has the appetite for. Keep a tiny closer in reserve, something like The Crew or a quick round of Wavelength, for when the main game ends early.
+The first should be short, easy to teach, and forgiving of mistakes. Think [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20), [Sushi Go](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20), or Codenames. It warms up the table and tells you how the group is feeling. The second is the main event: Ticket to Ride, [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20), or whatever your group has the appetite for. Keep a tiny closer in reserve, something like The Crew or a quick round of Wavelength, for when the main game ends early.
 
 Rules for choosing:
 

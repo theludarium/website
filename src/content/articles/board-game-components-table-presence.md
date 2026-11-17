@@ -16,8 +16,8 @@ Table presence is the visual and physical impression a game makes while it is be
 
 Three things build it:
 
-- **Silhouette.** The overall shape on the table. A spreading hex map ([Catan](https://link.amazon/B0h8BDGR2)), a growing tableau of cards ([Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20)), a shared central board with player boards around it ([Scythe](https://www.amazon.com/dp/B01IPUGYK6?tag=cubecommonw0a-20)).
-- **Color and contrast.** Does the game read from six feet away? [Azul](https://link.amazon/B0bGRYHex)'s tiles do. A pile of beige cards with small text does not.
+- **Silhouette.** The overall shape on the table. A spreading hex map ([Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20)), a growing tableau of cards ([Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20)), a shared central board with player boards around it ([Scythe](https://www.amazon.com/dp/B01IPUGYK6?tag=cubecommonw0a-20)).
+- **Color and contrast.** Does the game read from six feet away? [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20)'s tiles do. A pile of beige cards with small text does not.
 - **Touch.** Components people want to pick up. Thick tiles, weighted tokens, wooden pieces with a shape that means something.
 
 The test is simple. Set the game up and walk to the other side of the room. If a friend who has never seen it says "what is that," it has table presence.
@@ -30,13 +30,13 @@ Some component choices show up again and again in the games people stop to look 
 
 **Wooden pieces with a shape.** Catan's little wooden roads and settlements. [Agricola](https://www.amazon.com/dp/B07JZFN8WS?tag=cubecommonw0a-20)'s animeeples. Wingspan's pastel eggs, which serve no mechanical purpose beyond being counters and are the component everyone remembers. A shaped piece tells a story a cube cannot.
 
-**A board that grows.** [Carcassonne](https://link.amazon/B012Rr5ed) starts as one tile and ends as a sprawling landscape. Catan's hex island changes every game. A board that is different at the end than at the beginning is a board that draws people over to see what happened.
+**A board that grows.** [Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20) starts as one tile and ends as a sprawling landscape. Catan's hex island changes every game. A board that is different at the end than at the beginning is a board that draws people over to see what happened.
 
 **Miniatures and terrain.** [Gloomhaven](https://www.amazon.com/dp/B01LZXVN4P?tag=cubecommonw0a-20)'s standees and map tiles, Scythe's mechs, anything from a large Kickstarter campaign. Miniatures are the most expensive route to presence and the most divisive, because they are striking from across the room and often unpainted gray plastic up close.
 
 **A single signature object.** Wingspan's birdhouse dice tower. [Photosynthesis](https://www.amazon.com/dp/B074K5W5N5?tag=cubecommonw0a-20)'s cardboard trees that actually stand up. [The Quacks of Quedlinburg](https://www.amazon.com/dp/B08T21DYKV?tag=cubecommonw0a-20)'s cloth bags. One memorable object can carry the whole table.
 
-**Color that means something.** [Ticket to Ride](https://link.amazon/B0jh8RB7f)'s train cars in eight bright colors, laid across a map of North America. From the next table over, you can see who is winning. That is presence and readability at once.
+**Color that means something.** [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20)'s train cars in eight bright colors, laid across a map of North America. From the next table over, you can see who is winning. That is presence and readability at once.
 
 ## Why do components work as marketing?
 

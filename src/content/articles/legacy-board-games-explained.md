@@ -21,7 +21,7 @@ The defining features are:
 - **Sealed content.** Boxes, envelopes, or decks are opened at scripted moments, introducing new rules and components you did not know existed.
 - **A finite life.** When the campaign ends, so does that copy, more or less. Some games include a way to keep playing the final state.
 
-[Pandemic Legacy: Season 1](https://www.amazon.com/dp/B00TQ0DXR2?tag=cubecommonw0a-20), released in 2015, took the format mainstream. It paired the legacy idea with the most popular co-op of the previous decade and turned a forty-five-minute game into a year-long story.
+[Pandemic Legacy: Season 1](https://www.amazon.com/dp/B00TQ5SEAI?tag=cubecommonw0a-20), released in 2015, took the format mainstream. It paired the legacy idea with the most popular co-op of the previous decade and turned a forty-five-minute game into a year-long story.
 
 ## Why would anyone destroy a board game?
 
@@ -52,7 +52,7 @@ A short, opinionated list. Every game here is real and widely available; descrip
 
 Session counts are approximate and depend on how often you win; [Pandemic Legacy](https://www.amazon.com/dp/B00TQ5SEAI?tag=cubecommonw0a-20)'s [twelve-month campaign](https://en.wikipedia.org/wiki/Pandemic_Legacy) runs twelve to twenty-four games, and Risk Legacy's [changes stop after fifteen](https://www.shutupandsitdown.com/retrospective-risk-legacy).
 
-If your group is four adults who already like [Pandemic](https://link.amazon/B0eHP5GCg), buy Season 1 and stop reading. If your group includes children or you want something shorter, My City is a strong, cheap introduction to the format.
+If your group is four adults who already like [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20), buy Season 1 and stop reading. If your group includes children or you want something shorter, My City is a strong, cheap introduction to the format.
 
 *If this is useful, the newsletter sends more like it.*
 

@@ -11,7 +11,7 @@ oneIdea: "City improvements turn commodities into a permanent stream of progress
 tryThis: "At the start of your next game, count the pips on each commodity your cities touch. That number tells you which track you can climb fastest."
 nextTeaser: "Next, Level 2 opens with openings: why ore, grain, and an early city matter so much, and how to place for them."
 ---
-Commodities are the new currency of Cities & Knights. They come only from cities, they buy only a few things, and what they buy lasts all game. This lesson covers how commodities work, what each improvement costs and gives you, and the odds behind the progress cards, all from the 6th edition rules.
+Commodities are the new currency of [Cities & Knights](https://www.amazon.com/dp/B0DY87W8SS?tag=cubecommonw0a-20). They come only from cities, they buy only a few things, and what they buy lasts all game. This lesson covers how commodities work, what each improvement costs and gives you, and the odds behind the progress cards, all from the 6th edition rules.
 
 ## Where commodities come from
 

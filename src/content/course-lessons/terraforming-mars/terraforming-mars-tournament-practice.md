@@ -59,7 +59,7 @@ Ten minutes, a few times a week:
 
 **Weeks 1 and 2: the base of it.** Four-player drafted games with Prelude, on the original board. Focus on your openings and your switch from engine to points.
 
-**Weeks 3 and 4: expansions.** Add Colonies and, if your event uses it, Venus Next. Spend a drill session each week on the [Colonies](/academy/terraforming-mars/terraforming-mars-colonies-strategy/) and [Venus](/academy/terraforming-mars/terraforming-mars-venus-next-strategy/) lessons.
+**Weeks 3 and 4: expansions.** Add Colonies and, if your event uses it, [Venus Next](https://www.amazon.com/dp/B0777M969L?tag=cubecommonw0a-20). Spend a drill session each week on the [Colonies](/academy/terraforming-mars/terraforming-mars-colonies-strategy/) and [Venus](/academy/terraforming-mars/terraforming-mars-venus-next-strategy/) lessons.
 
 **Weeks 5 and 6: boards and the clock.** Rotate through Hellas, Elysium, and random milestones and awards. Play your first full timed game at a table.
 

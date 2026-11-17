@@ -8,7 +8,7 @@ draft: false
 ---
 The best games to play with friends are the ones that fit the night you are actually having: who showed up, how long you have, and whether the group wants to laugh, think, or work together. A great strategy game falls flat at a loud party, and a party game can feel thin when two friends want a real challenge. So this list is sorted by situation, not by rank.
 
-**The quick answer:** for two friends, try [7 Wonders Duel](https://www.amazon.com/dp/B014DMSTXK?tag=cubecommonw0a-20). For three or four, [Ticket to Ride](https://link.amazon/B0jh8RB7f). For six or more, [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20). For a party, [Monikers](https://www.amazon.com/dp/B00M07OQ1U?tag=cubecommonw0a-20) or Avalon. For a group that hates losing to each other, [Pandemic](https://link.amazon/B0eHP5GCg) or The Crew. Short on time? [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) plays in fifteen minutes.
+**The quick answer:** for two friends, try [7 Wonders Duel](https://www.amazon.com/dp/B014DMSTXK?tag=cubecommonw0a-20). For three or four, [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20). For six or more, [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20). For a party, [Monikers](https://www.amazon.com/dp/B00M07OQ1U?tag=cubecommonw0a-20) or Avalon. For a group that hates losing to each other, [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20) or The Crew. Short on time? [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) plays in fifteen minutes.
 
 Below are 25 picks across seven situations, each with player counts and box play times, plus how to choose for your group.
 
@@ -30,9 +30,9 @@ If your group has opinions, let them vote. Our free [Game Night Madness](/game-n
 | [Patchwork](https://www.amazon.com/dp/B0FPXTLZ21?tag=cubecommonw0a-20) | 2 | 15 to 30 min | Two players |
 | [Jaipur](https://www.amazon.com/dp/B07SRMXRZB?tag=cubecommonw0a-20) | 2 | 30 min | Two players |
 | Ticket to Ride | 2 to 5 | 30 to 60 min | Small group |
-| [Catan](https://link.amazon/B0h8BDGR2) | 3 to 4 | 60 to 120 min | Small group |
-| [Azul](https://link.amazon/B0bGRYHex) | 2 to 4 | 30 to 45 min | Small group |
-| [Cascadia](https://link.amazon/B0g1HYFt4) | 1 to 4 | 30 to 45 min | Small group |
+| [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) | 3 to 4 | 60 to 120 min | Small group |
+| [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) | 2 to 4 | 30 to 45 min | Small group |
+| [Cascadia](https://www.amazon.com/dp/B093H8RGXX?tag=cubecommonw0a-20) | 1 to 4 | 30 to 45 min | Small group |
 | Codenames | 2 to 8+ | 15 min | Big group |
 | [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) | 2 to 12 | 30 to 45 min | Big group |
 | [Just One](https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20) | 3 to 7 | 20 min | Big group |
@@ -47,7 +47,7 @@ If your group has opinions, let them vote. Our free [Game Night Madness](/game-n
 | [Sky Team](https://www.amazon.com/dp/B0CHD8RCSJ?tag=cubecommonw0a-20) | 2 | 15 to 20 min | Cooperative |
 | [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) | 1 to 5 | 40 to 70 min | Strategy |
 | [7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20) | 3 to 7 | 30 min | Strategy |
-| [Splendor](https://link.amazon/B0fEvY6Wg) | 2 to 4 | 30 min | Strategy |
+| [Splendor](https://www.amazon.com/dp/B00IZEUFIA?tag=cubecommonw0a-20) | 2 to 4 | 30 min | Strategy |
 | Sushi Go! | 2 to 5 | 15 min | Quick filler |
 | [Love Letter](https://www.amazon.com/dp/B07PHHBWM9?tag=cubecommonw0a-20) | 2 to 6 | 20 min | Quick filler |
 | [No Thanks!](https://www.amazon.com/dp/B013FAC4FK?tag=cubecommonw0a-20) | 3 to 7 | 20 min | Quick filler |

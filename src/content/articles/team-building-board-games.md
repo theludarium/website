@@ -37,7 +37,7 @@ These are openers. They work with mixed seniority and with people who have never
 
 Cooperative games put everyone on the same side against the box. They surface how a group handles pressure, shares information, and makes decisions. For a deeper look at why that matters, see [what co-op games teach about teamwork](/articles/cooperative-games-teamwork/).
 
-7. **[Pandemic](https://link.amazon/B0eHP5GCg)** (2 to 4). The classic. Four roles, a spreading disease, and a clock. Watch who takes charge and who gets talked over.
+7. **[Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20)** (2 to 4). The classic. Four roles, a spreading disease, and a clock. Watch who takes charge and who gets talked over.
 8. **[The Crew: Mission Deep Sea](https://link.amazon/B099S9RKf)** (2 to 5). A trick-taking card game where you cannot discuss your hand. Teams learn to communicate with almost nothing, which is a lesson that transfers directly to cross-functional work.
 9. **[Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20)** (2 to 4). Pandemic's simpler cousin. Thirty minutes, bright tiles, and the same decision-making dynamics in a smaller package.
 10. **[Hanabi](https://www.amazon.com/dp/B01MXTGT21?tag=cubecommonw0a-20)** (2 to 5). You hold your cards facing away from yourself. Everyone else can see them; you cannot. The entire game is about giving useful information with limited words.
@@ -57,10 +57,10 @@ Large groups need either a party-scale game or something that splits into tables
 
 Some teams want a real game, not a party. These are heavier but still teach quickly.
 
-17. **[Ticket to Ride](https://link.amazon/B0jh8RB7f)** (2 to 5). Collect cards, build train routes. Mild competition, clear goals, and a good way to spot who plans ahead and who adapts.
-18. **[Azul](https://link.amazon/B0bGRYHex)** (2 to 4). Draft tiles, fill a wall, avoid waste. Calm, beautiful, and over in forty minutes. Good for a leadership team that wants to think rather than shout.
-19. **[Catan](https://link.amazon/B0h8BDGR2)** (3 to 4). Trading is the heart of it. Who negotiates well, who hoards, who gets left out of deals. For sales teams, there are better options in [negotiation games for sales teams](/articles/negotiation-board-games/), but Catan is still the one everyone has heard of.
-20. **[Cascadia](https://link.amazon/B0g1HYFt4)** (1 to 4). Build a habitat from tiles and wildlife tokens. Low conflict, gentle, and ideal for a group that includes people who flinch at competition.
+17. **[Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20)** (2 to 5). Collect cards, build train routes. Mild competition, clear goals, and a good way to spot who plans ahead and who adapts.
+18. **[Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20)** (2 to 4). Draft tiles, fill a wall, avoid waste. Calm, beautiful, and over in forty minutes. Good for a leadership team that wants to think rather than shout.
+19. **[Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20)** (3 to 4). Trading is the heart of it. Who negotiates well, who hoards, who gets left out of deals. For sales teams, there are better options in [negotiation games for sales teams](/articles/negotiation-board-games/), but Catan is still the one everyone has heard of.
+20. **[Cascadia](https://www.amazon.com/dp/B093H8RGXX?tag=cubecommonw0a-20)** (1 to 4). Build a habitat from tiles and wildlife tokens. Low conflict, gentle, and ideal for a group that includes people who flinch at competition.
 
 ## Team building games for work at a glance
 

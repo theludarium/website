@@ -26,13 +26,13 @@ The record shows every possible starting point.
 
 | Game | What came first | How the other half followed |
 |---|---|---|
-| [Pandemic](https://link.amazon/B0eHP5GCg) | Theme: a cooperative game about fighting disease | Cubes spreading across a map followed from the story |
-| [Azul](https://link.amazon/B0bGRYHex) | A mechanism: drafting tiles from shared factories | Portuguese azulejo tiles were chosen afterward for beauty |
+| [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20) | Theme: a cooperative game about fighting disease | Cubes spreading across a map followed from the story |
+| [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) | A mechanism: drafting tiles from shared factories | Portuguese azulejo tiles were chosen afterward for beauty |
 | [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) | A mechanism: a deck that builds itself | The medieval kingdom theme was added and is lightly held |
 | [Root](https://www.amazon.com/dp/B07F454YF3?tag=cubecommonw0a-20) | A feeling: asymmetric factions at war in one forest | Each faction's rules were built to express its character |
 | [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) | Theme: the designer's love of birds | Engine-building was chosen because it suited the subject |
 | [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) | A mechanism: one-word clues linking several targets | Spies and agents arrived as a thin layer for flavor |
-| [Ticket to Ride](https://link.amazon/B0jh8RB7f) | A mechanism and a constraint: a simple train game anyone could learn | The route map gave the mechanism its tension |
+| [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) | A mechanism and a constraint: a simple train game anyone could learn | The route map gave the mechanism its tension |
 
 Note the range. Azul and Dominion are lightly themed and nobody cares, because their mechanisms are so clean. Pandemic and Root are deeply themed and the theme is load-bearing. Both approaches produced classics.
 

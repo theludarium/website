@@ -11,7 +11,7 @@ oneIdea: "Not every step on an Influence track is worth the same. The steps to 2
 tryThis: "In your next game, before every Influence step, say what the step is worth: a point, an Alliance, a setup, or nothing. Skip the steps worth nothing."
 nextTeaser: "Next, the endgame and scoring math: every source of points, the 10-point trigger, and how to spend the last round."
 ---
-Four Faction tracks hold up to 8 Victory Points in Dune: Imperium: one for reaching 2 Influence on each track, and one for each of the four Alliance tokens. In a game that ends at 10, that is most of a win. This lesson is about reading the tracks as races and spending your Agents on the steps that matter.
+Four Faction tracks hold up to 8 Victory Points in [Dune: Imperium](https://www.amazon.com/dp/B08JHB9V72?tag=cubecommonw0a-20): one for reaching 2 Influence on each track, and one for each of the four Alliance tokens. In a game that ends at 10, that is most of a win. This lesson is about reading the tracks as races and spending your Agents on the steps that matter.
 
 ## The track, step by step
 

@@ -11,7 +11,7 @@ oneIdea: "Each round asks a different question. Early rounds reward a high floor
 tryThis: "At your next mock event, update a standings sheet after every game and write one line before the next: what do I need from this round, and how much risk does that justify?"
 nextTeaser: "Last, after the tournament: how to review your games while they are fresh, what to log that is special to Cities & Knights, and how to plan your next event."
 ---
-By now you know how events score, how to play under a clock, and how to talk at the table. This lesson puts it together across a whole day. The examples use the format the Mind Sports Olympiad published for its 2026 Cities & Knights event: four players a table, two rounds, then a final for qualifiers, with victory points up to 13 counting toward your total and two bonus points for each table win. Swap in your own event's format; the method is the same.
+By now you know how events score, how to play under a clock, and how to talk at the table. This lesson puts it together across a whole day. The examples use the format the Mind Sports Olympiad published for its 2026 [Cities & Knights](https://www.amazon.com/dp/B0DY87W8SS?tag=cubecommonw0a-20) event: four players a table, two rounds, then a final for qualifiers, with victory points up to 13 counting toward your total and two bonus points for each table win. Swap in your own event's format; the method is the same.
 
 ## Keep your own standings
 

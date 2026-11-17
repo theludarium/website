@@ -11,7 +11,7 @@ oneIdea: "Every keep decision is a bet with known odds. A pair of 3s after your 
 tryThis: "For your next three games, after each first roll, say aloud which face you are chasing and roughly what your odds are from the tables here. Then roll."
 nextTeaser: "Next, the midgame: holding Tokyo, choosing when to Yield, reading everyone's Life, and getting the most out of the card row."
 ---
-Welcome to Level 2. At Level 1 you learned to pick a goal before you roll and to buy cards that keep paying. Now you put numbers on the dice. [King of Tokyo](https://link.amazon/B0goO6BQA) is a dice game, but every die is fair and every face is known, so the odds can be worked out exactly. You do not need to memorize them. A few landmarks will change what you keep.
+Welcome to Level 2. At Level 1 you learned to pick a goal before you roll and to buy cards that keep paying. Now you put numbers on the dice. [King of Tokyo](https://www.amazon.com/dp/B01F46RPS4?tag=cubecommonw0a-20) is a dice game, but every die is fair and every face is known, so the odds can be worked out exactly. You do not need to memorize them. A few landmarks will change what you keep.
 
 All the numbers here are our own calculations for the base game: 6 black dice, three rolls, and each die showing each of its six faces one time in six.
 

@@ -70,7 +70,7 @@ A one-page summary is the most-used page in the box. It should contain:
 - Scoring, including end-of-game bonuses.
 - The icon glossary.
 
-Ganz Schön Clever fits its entire scoring summary onto the score sheet itself, which is why it is so easy to return to. [Azul](https://link.amazon/B0bGRYHex)'s summary fits on the back of the rulebook. Both are models of how little space a reference needs when it is well made.
+Ganz Schön Clever fits its entire scoring summary onto the score sheet itself, which is why it is so easy to return to. [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20)'s summary fits on the back of the rulebook. Both are models of how little space a reference needs when it is well made.
 
 For games with many cards, a separate card-clarification appendix is worth the page count. Keep it alphabetical and keep it out of the main teach.
 

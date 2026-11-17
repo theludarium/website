@@ -14,7 +14,7 @@ This article is about what specifically a team learns at a game table, with exam
 
 Three properties of a good co-op do the work.
 
-**The loop is short.** In [Pandemic](https://link.amazon/B0eHP5GCg), a decision about where to send the Medic is tested within two rounds. In [The Crew](https://link.amazon/B099S9RKf), a misread signal fails the mission in minutes. Fast feedback is how people learn anything, and meetings almost never provide it.
+**The loop is short.** In [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20), a decision about where to send the Medic is tested within two rounds. In [The Crew](https://link.amazon/B099S9RKf), a misread signal fails the mission in minutes. Fast feedback is how people learn anything, and meetings almost never provide it.
 
 **Failure is free.** Losing a game costs nothing but pride, and not much of that. People take risks, admit uncertainty, and say "I don't know what to do" in ways they would never do in a conference room. That candor is the raw material of a team learning about itself.
 

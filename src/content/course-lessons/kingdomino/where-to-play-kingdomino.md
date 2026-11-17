@@ -10,7 +10,7 @@ draft: false
 oneIdea: "Kingdomino rewards volume: short games, many of them. Online play builds your counting and pricing fast, and a small Dynasty tournament at home brings the same sharpness to the table."
 tryThis: "Play ten games online this month at one player count, and keep one note per game: your biggest territory's size and crowns. Look for the pattern in your wins."
 ---
-You can learn [Kingdomino](https://link.amazon/B08l49zvA) in fifteen minutes and keep finding new depth in it for years. This last lesson is about getting more games in: online when your table is empty, in official events when they run, and at public game nights and home tournaments, where a fifteen-minute game is perfect.
+You can learn [Kingdomino](https://www.amazon.com/dp/B01N3A4070?tag=cubecommonw0a-20) in fifteen minutes and keep finding new depth in it for years. This last lesson is about getting more games in: online when your table is empty, in official events when they run, and at public game nights and home tournaments, where a fifteen-minute game is perfect.
 
 ## Play online
 

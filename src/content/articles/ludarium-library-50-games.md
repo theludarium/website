@@ -64,14 +64,14 @@ Light strategy for a group ready to think for 30 to 60 minutes.
 
 | Game | Players | Time | Why it is here |
 |---|---|---|---|
-| [Ticket to Ride](https://link.amazon/B0jh8RB7f) | 2 to 5 | 45 to 60 min | The most reliable converter in the hobby |
-| [Azul](https://link.amazon/B0bGRYHex) | 2 to 4 | 30 to 45 min | Beautiful, tactile, one hard rule |
-| [Carcassonne](https://link.amazon/B012Rr5ed) | 2 to 5 | 35 to 45 min | Build a map together |
-| [Splendor](https://link.amazon/B0fEvY6Wg) | 2 to 4 | 30 min | Gentle engine building |
-| [Kingdomino](https://link.amazon/B08l49zvA) | 2 to 4 | 15 to 20 min | Works for kids and adults at once |
-| [Cascadia](https://link.amazon/B0g1HYFt4) | 1 to 4 | 30 to 45 min | Calm puzzle, no conflict |
-| [King of Tokyo](https://link.amazon/B0goO6BQA) | 2 to 6 | 30 min | Yahtzee with monsters |
-| [Catan](https://link.amazon/B0h8BDGR2) | 3 to 4 | 60 to 90 min | Still the best trading teacher |
+| [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) | 2 to 5 | 45 to 60 min | The most reliable converter in the hobby |
+| [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) | 2 to 4 | 30 to 45 min | Beautiful, tactile, one hard rule |
+| [Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20) | 2 to 5 | 35 to 45 min | Build a map together |
+| [Splendor](https://www.amazon.com/dp/B00IZEUFIA?tag=cubecommonw0a-20) | 2 to 4 | 30 min | Gentle engine building |
+| [Kingdomino](https://www.amazon.com/dp/B01N3A4070?tag=cubecommonw0a-20) | 2 to 4 | 15 to 20 min | Works for kids and adults at once |
+| [Cascadia](https://www.amazon.com/dp/B093H8RGXX?tag=cubecommonw0a-20) | 1 to 4 | 30 to 45 min | Calm puzzle, no conflict |
+| [King of Tokyo](https://www.amazon.com/dp/B01F46RPS4?tag=cubecommonw0a-20) | 2 to 6 | 30 min | Yahtzee with monsters |
+| [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) | 3 to 4 | 60 to 90 min | Still the best trading teacher |
 | [Point Salad](https://www.amazon.com/dp/B07PGQKT5V?tag=cubecommonw0a-20) | 2 to 6 | 15 to 30 min | One decision, repeated, never dull |
 | [Quacks of Quedlinburg](https://www.amazon.com/dp/B08T21DYKV?tag=cubecommonw0a-20) | 2 to 4 | 45 min | Push-your-luck bag building |
 
@@ -81,7 +81,7 @@ Cooperative games for groups who would rather not compete.
 
 | Game | Players | Time | Why it is here |
 |---|---|---|---|
-| [Pandemic](https://link.amazon/B0eHP5GCg) | 2 to 4 | 45 min | The cooperative standard |
+| [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20) | 2 to 4 | 45 min | The cooperative standard |
 | [The Crew](https://link.amazon/B099S9RKf) | 2 to 5 | 20 min | Trick-taking as a team sport |
 | [Hanabi](https://www.amazon.com/dp/B01MXTGT21?tag=cubecommonw0a-20) | 2 to 5 | 25 min | Trust the table with your own hand |
 | [Forbidden Island](https://www.amazon.com/dp/B003D7F4YY?tag=cubecommonw0a-20) | 2 to 4 | 30 min | Pandemic's lighter cousin |

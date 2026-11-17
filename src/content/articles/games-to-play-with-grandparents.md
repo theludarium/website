@@ -6,7 +6,7 @@ category: Game Night
 tags: ["games to play with grandparents", "board games for seniors and grandchildren", "games for grandparents and kids", "multigenerational games", "card games for older adults", "games for elderly parents", "Family and intergenerational play"]
 draft: false
 ---
-The best games to play with grandparents who "don't play games" are the ones that look like something they already do. [Rummikub](https://www.amazon.com/dp/B00000IZJB?tag=cubecommonw0a-20) looks like gin rummy with tiles. [Qwirkle](https://www.amazon.com/dp/1933054395?tag=cubecommonw0a-20) looks like dominoes. Codenames looks like a word puzzle. [Ticket to Ride](https://link.amazon/B0jh8RB7f) looks like a map. Almost every grandparent who claims not to play games played cards, dominoes, or Scrabble for decades. They do not dislike games. They dislike learning new rules in front of grandchildren.
+The best games to play with grandparents who "don't play games" are the ones that look like something they already do. [Rummikub](https://www.amazon.com/dp/B00000IZJB?tag=cubecommonw0a-20) looks like gin rummy with tiles. [Qwirkle](https://www.amazon.com/dp/1933054395?tag=cubecommonw0a-20) looks like dominoes. Codenames looks like a word puzzle. [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) looks like a map. Almost every grandparent who claims not to play games played cards, dominoes, or Scrabble for decades. They do not dislike games. They dislike learning new rules in front of grandchildren.
 
 Once you see it that way, the job changes. You are not converting someone. You are finding the modern game that sits closest to the one they already know.
 
@@ -27,7 +27,7 @@ Every one of these has a fix, and most of the fixes are about choosing the game,
 Five things, roughly in order of importance.
 
 1. **A familiar hook.** Cards, tiles, words, or a map. Something they can look at and say "oh, it's like..."
-2. **Big pieces and readable text.** Rummikub tiles, Qwirkle blocks, and [Azul](https://link.amazon/B0bGRYHex) tiles are all large and high contrast. Avoid games with small cards full of icons.
+2. **Big pieces and readable text.** Rummikub tiles, Qwirkle blocks, and [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) tiles are all large and high contrast. Avoid games with small cards full of icons.
 3. **Short turns, no clock.** Nothing timed, nothing that punishes thinking. Codenames has a timer in the box. Leave it there.
 4. **Talking allowed.** The best grandparent games have gaps for conversation. Rummikub and Qwirkle run fine with a story going on across the table.
 5. **No one gets eliminated.** Sitting out is lonely. Everyone plays to the end.
