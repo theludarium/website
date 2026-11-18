@@ -1,9 +1,9 @@
 ---
 title: "Best Family Board Games Kids and Adults Both Enjoy"
-seoTitle: "12 Family Board Games Better Than Monopoly, by Age"
-description: "Ticket to Ride for ages 8 and up, Kingdomino for quick games, Outfoxed! for a 5-year-old, and the best cooperative board games for families that tend to argue."
+seoTitle: "Best Family Board Games 2026: Picks for Every Age"
+description: "The best family board games of 2026, sorted by age and group: quick games for young kids, co-ops for families that argue, and picks teens and adults both enjoy."
 pubDate: 2026-10-20
-updatedDate: 2026-10-29
+updatedDate: 2026-11-17
 category: Game Night
 tags: ["best family board games", "family board games", "board games for kids and adults", "games like Monopoly but better", "family game night games", "board games for ages 8 and up", "Family and intergenerational play"]
 draft: false

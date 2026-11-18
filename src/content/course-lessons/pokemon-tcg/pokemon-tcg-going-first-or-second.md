@@ -1,5 +1,5 @@
 ---
-title: "Going First or Second in Pokémon TCG and Your First Two Turns"
+title: "Should You Go First or Second in Pokémon TCG?"
 description: "In the Pokémon TCG, whoever goes first cannot attack or play a Supporter on turn one. Go first to evolve sooner, or second to attack first. How to choose."
 course: pokemon-tcg
 order: 11

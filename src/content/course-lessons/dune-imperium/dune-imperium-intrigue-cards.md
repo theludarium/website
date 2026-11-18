@@ -1,5 +1,5 @@
 ---
-title: "Dune: Imperium Intrigue Cards: Timing, Threats, and Tells"
+title: "Dune: Imperium Intrigue Cards: When to Play Them"
 description: "Dune: Imperium Intrigue strategy: the three timings, where to draw them, the Secrets limit, playing Combat Intrigue in order, and reading what rivals hold."
 course: dune-imperium
 order: 13

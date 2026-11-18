@@ -1,6 +1,7 @@
 ---
 title: "Board Games for New Parents: 20 Minutes, No Brain"
-description: "Board games for new parents with 20 minutes, no energy, and a baby who might wake up. Short, quiet, interruptible games that still feel like a night out."
+seoTitle: "Board Games for New and Expecting Parents"
+description: "Board games for new and expecting parents: short, quiet, easy-to-pause games for the 20 minutes after the baby is down that still feel like a real night out."
 pubDate: 2026-10-22
 category: Game Night
 tags: ["board games for new parents", "games for tired parents", "quick two player games", "games to play after baby sleeps", "couples games with a newborn", "interruptible board games", "Who it's for"]

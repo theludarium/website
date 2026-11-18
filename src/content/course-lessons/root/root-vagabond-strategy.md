@@ -1,6 +1,6 @@
 ---
-title: "Root Vagabond Strategy: Items, Aid, Quests, and Hostility"
-description: "Root Vagabond strategy: picking a character, managing items, aiding factions toward alliance, completing quests, and deciding when to turn a faction Hostile."
+title: "Root Vagabond Strategy: Items, Quests and Aid"
+description: "How to play the Vagabond in Root: which character to pick, managing items, when to aid a faction for an alliance, how quests score, and when to go Hostile."
 course: root
 order: 7
 level: 1

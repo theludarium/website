@@ -1,6 +1,6 @@
 ---
-title: "Root Woodland Alliance Guide: Sympathy, Outrage, Revolt"
-description: "Root Woodland Alliance strategy: how sympathy scores, how Outrage fills your supporters, when you can revolt, and why unguarded sympathy is easy to remove."
+title: "Root Woodland Alliance Strategy: How to Win"
+description: "How to win as the Woodland Alliance in Root: where to spread sympathy, how Outrage builds supporters, when to revolt, and how to keep sympathy on the map."
 course: root
 order: 6
 level: 1
