@@ -15,6 +15,8 @@ nextTeaser: "Next, the last piece of Level 0: how to read a bird card, corner by
 
 Here is a script in the order you would say it, with the moments to stop talking. Print the [Wingspan teach sheet](/academy/wingspan/teach-sheet/) and set it in the middle of the table.
 
+Want a reference at every seat too? Our [printable Wingspan teach cards](https://theludarium.lemonsqueezy.com/checkout/buy/929f2cfd-c491-4913-9b33-d82e825ae279) put the four actions in every hand, with a ten-minute teach script and cards for round goals and the final count.
+
 ## Before anyone sits down
 
 Set up the shared area first, so the teach starts with the game ready: bird deck and tray, birdfeeder, goal board, goal tiles, bonus deck, and the supply.
