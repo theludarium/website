@@ -27,12 +27,11 @@ const tools = [
     cta: 'Start a bracket',
   },
   {
-    href: 'https://the-ljaw.github.io/head-judge-arbiter/',
+    href: '/head-judge-arbiter/',
     name: 'Head Judge Arbiter',
     status: 'Live',
     blurb: 'A Magic: The Gathering rules judge for your phone. Ask a question mid-game and get a plain-English ruling, checked against current card text and the Comprehensive Rules.',
     cta: 'Ask the judge',
-    external: true,
     more: { href: '/academy/magic/', label: 'Learn Magic' },
   },
 ];
@@ -54,11 +53,11 @@ const tools = [
           <div>
             <p class:list={['play-tool__status', { 'is-live': t.status === 'Live' }]}>{t.status}</p>
             <h2>
-              <a href={t.href} rel={t.external ? 'noopener' : undefined}>{t.name}</a>
+              <a href={t.href}>{t.name}</a>
             </h2>
             <p>{t.blurb}</p>
             <p class="play-tool__links">
-              <a class="text-link" href={t.href} rel={t.external ? 'noopener' : undefined}>
+              <a class="text-link" href={t.href}>
                 {t.cta}
               </a>
               {t.more && <a href={t.more.href}>{t.more.label}</a>}

@@ -533,3 +533,12 @@ Levi's call: keep collecting emails, but stop sending automated emails to the pe
 
 ## 2026-11-10: Pinterest site claim
 Added the `p:domain_verify` meta tag to BaseLayout so Pinterest can confirm The Ludarium owns theludarium.com. That gives pin attribution, analytics for pins from the site, and rich pins. Removing it un-claims the site.
+
+## 2026-11-18: Head Judge Arbiter moves to The Ludarium
+
+- Levi's Magic rules judge moved from The-LJAW to the `theludarium` org and is served at `/head-judge-arbiter/`, the same way as Game Night Madness: a submodule (`vendor/head-judge-arbiter`), copied in after the Astro build by `scripts/head-judge-arbiter.mjs` with a canonical URL, share tags, the site's analytics, and the slim Ludarium bar. It has a card on `/play/` (linked to the Magic course) and a Play menu entry.
+- It keeps its own dark felt-and-gold look for now; recoloring it in the site palette, as Game Night Madness was, is Levi's call.
+- Its AI runs through its own Cloudflare Worker (`head-judge-arbiter`, Levi's account, Gemini free tier). `ALLOWED_ORIGINS` now lists theludarium.com plus the old github.io address. Preview builds on pages.dev cannot reach the judge; the rulebook still works there.
+- The repo refreshes `data/rules.json` every Monday. Each site build pulls the newest rules from `main` (only if they parse and are not older), so rule updates go live without a submodule bump.
+- The privacy page now says questions go to Google's Gemini on its free tier, which Google may use to improve its products, and that card lookups go to Scryfall.
+- The app is unofficial Fan Content under Wizards' Fan Content Policy, so it stays free, with no affiliate links or paid features.

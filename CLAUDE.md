@@ -113,6 +113,7 @@ Keep it simple. No CMS, database, or user accounts. Add a dependency only when i
 | `/card-catalogue/` | Card Catalogue | Find games by feel; Play Profile and group picks, stored on the visitor's device |
 | `/rpg-demo-library/` | RPG Demo Library | Play intro adventures of pen-and-paper RPGs before buying |
 | `/game-night-madness/` | Game Night Madness | Tabletop game bracket app |
+| `/head-judge-arbiter/` | Head Judge Arbiter | Magic: The Gathering rules judge |
 | `/academy/` | Academy | What the Academy is, the course catalog, membership pitch, waitlist or join link |
 | `/academy/[course]/` | Course | One game course from `src/content/courses/` (Catan and the Game Shelf have their own pages): outcomes, lessons, teach sheet, signup, FAQ, unofficial notice. Plan and writer's guide: `docs/academy/COURSES.md` |
 | `/academy/guild/` | Guild of Game Guides | The Academy's skills program on teaching board games: 35 lessons in `src/content/guild-lessons/`, a toolkit at `/academy/guild/toolkit/`, and a capstone reviewed by hand for the Expert Game Guide certificate. Guide: `docs/academy/GUILD.md` |
@@ -219,6 +220,12 @@ Two tools already exist as separate projects. They should feel like part of The 
 - Add each tool repo as a git submodule (or pull it in a build script).
 - During the site build, build each tool with its base path set to its URL path (for example `/rpg-demo-library/`) and copy the output into the matching folder of the final site.
 - One Cloudflare Pages deploy then serves the whole domain. A change to a tool goes live by updating its submodule here (automate with a GitHub Action later if useful).
+
+**Head Judge Arbiter (moved 2026-11-18)**
+- Levi's Magic: The Gathering rules judge: ask a question mid-game and it checks current Oracle text (Scryfall) and the Comprehensive Rules before ruling
+- Repo `theludarium/head-judge-arbiter` (moved from Levi's personal account 2026-11-18), included as the submodule `vendor/head-judge-arbiter` and copied in at build by `scripts/head-judge-arbiter.mjs`, which also pulls the newest `data/rules.json`. Served at `theludarium.com/head-judge-arbiter/`; the old `the-ljaw.github.io/head-judge-arbiter/` forwards here
+- AI calls go through its own Worker (`head-judge-arbiter`, in Levi's Cloudflare account, Gemini free tier), which only answers the sites in its `ALLOWED_ORIGINS`
+- Unofficial Fan Content under Wizards' Fan Content Policy: keep it free, with no affiliate links or paid features
 
 **Card Catalog (new, 2026-10-17)**
 - A library-style catalog of board games (call-number shelves plus six feel dimensions, including The Ludarium's own Table Talk) and a tracker where subscribers log plays, build a Play Profile, and get picks for a whole table

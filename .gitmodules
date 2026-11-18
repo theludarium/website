@@ -4,3 +4,6 @@
 [submodule "vendor/game-night-madness"]
 	path = vendor/game-night-madness
 	url = https://github.com/theludarium/game-night-madness.git
+[submodule "vendor/head-judge-arbiter"]
+	path = vendor/head-judge-arbiter
+	url = https://github.com/theludarium/head-judge-arbiter.git
