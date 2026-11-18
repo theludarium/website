@@ -7,6 +7,7 @@ import AffiliateNotice from '@/components/mdx/AffiliateNotice.astro';
 import NewsletterForm from '@/components/NewsletterForm.astro';
 import PreviewNote from '@/components/PreviewNote.astro';
 import TableOfContents from '@/components/TableOfContents.astro';
+import TopPicks from '@/components/TopPicks.astro';
 import { KIT_LETTERS_FORMS, KIT_OFFER_FORMS } from '@/lib/config';
 import {
   categoryByName,
@@ -126,6 +127,8 @@ const structuredData = [
         <span aria-hidden="true">&middot;</span>
         <span>{minutes} min read</span>
       </p>
+      {/* Above the table of contents, so phones see it without scrolling past the contents list. */}
+      {article.data.topPicks && <TopPicks picks={article.data.topPicks} heading={article.data.topPicksHeading} />}
     </header>
 
     {

@@ -7,6 +7,17 @@ updatedDate: 2026-11-17
 category: Game Guides
 tags: ["best board games 2026", "new board games 2026", "top board games this year", "best new board games", "board game releases 2026", "board games worth buying 2026", "What to play"]
 draft: false
+topPicksHeading: "Top picks from 2026"
+topPicks:
+  - name: "Cozy Stickerville"
+    who: "For families and couples. A cooperative village built with stickers over ten sessions."
+    href: "https://www.amazon.com/dp/B0GBCW56V8?tag=cubecommonw0a-20"
+  - name: "Duel of Meloch"
+    who: "For two players who want a real head-to-head fight."
+    href: "https://www.amazon.com/dp/B0H7TF38VP?tag=cubecommonw0a-20"
+  - name: "Wingspan Pocket"
+    who: "For a calm half hour. Wingspan ideas in a small box."
+    href: "https://www.amazon.com/dp/B0H7YNXCYG?tag=cubecommonw0a-20"
 ---
 A list of the best board games of 2026 should answer one question: which new releases are worth a place on a table that already has [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20), [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20), and [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) on it? The bar is high. Hundreds of games come out every year, and most of them are fine. A handful change what a game night looks like.
 

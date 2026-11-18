@@ -1,0 +1,95 @@
+---
+// The "top picks" box at the top of a buying guide: up to three games, who
+// each one suits, and a button to its Amazon listing. Set it from an article's
+// `topPicks` frontmatter; the article page places it above the body. Clicks
+// count as affiliate_click with link position "top-box" (see /ott.js).
+import type { TopPick } from '@/lib/top-picks';
+
+interface Props {
+  picks: TopPick[];
+  heading?: string;
+}
+const { picks, heading = 'Our top picks' } = Astro.props;
+---
+
+<aside class="top-picks" aria-labelledby="top-picks-title" data-pagefind-ignore>
+  <h2 id="top-picks-title" class="top-picks__title">{heading}</h2>
+  <ol class="top-picks__list">
+    {
+      picks.map((p) => (
+        <li class="top-picks__item">
+          <p class="top-picks__name">{p.name}</p>
+          <p class="top-picks__who">{p.who}</p>
+          <a
+            class="button button--ghost top-picks__button"
+            href={p.href}
+            rel="sponsored noopener"
+            target="_blank"
+            data-ott-event="affiliate_click"
+            data-ott-game={p.game}
+            data-ott-pos="top-box"
+          >
+            See it on Amazon<span class="visually-hidden">: {p.name}</span>
+          </a>
+        </li>
+      ))
+    }
+  </ol>
+  <p class="top-picks__note">
+    Affiliate links: The Ludarium may earn a small commission at no extra cost to you.{' '}
+    <a href="/affiliate-disclosure/">How it works</a>.
+  </p>
+</aside>
+
+<style>
+  .top-picks {
+    margin-block: var(--space-5) 0;
+    padding: var(--space-5);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-card);
+    background: var(--color-surface);
+  }
+
+  .top-picks__title {
+    margin: 0 0 var(--space-4);
+    font-size: var(--text-lg, 1.25rem);
+  }
+
+  .top-picks__list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 12rem), 1fr));
+    gap: var(--space-4);
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .top-picks__item {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-2);
+  }
+
+  .top-picks__name {
+    margin: 0;
+    font-weight: 700;
+  }
+
+  .top-picks__who {
+    margin: 0;
+    flex: 1;
+    color: var(--color-text-muted);
+    font-size: var(--text-sm);
+  }
+
+  .top-picks__button {
+    align-self: flex-start;
+    font-size: var(--text-sm);
+  }
+
+  .top-picks__note {
+    margin: var(--space-4) 0 0;
+    color: var(--color-text-muted);
+    font-size: var(--text-sm);
+  }
+</style>

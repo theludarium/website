@@ -7,6 +7,16 @@ updatedDate: 2026-11-17
 category: Game Night
 tags: ["board games for 5 year olds", "best board games for preschoolers", "kindergarten board games", "first board games for kids", "games for 5 year olds and parents", "HABA games", "Family and intergenerational play"]
 draft: false
+topPicks:
+  - name: "Outfoxed!"
+    who: "The safest first game. Cooperative, so nobody loses alone."
+    href: "https://link.amazon/B0hYNduxd"
+  - name: "Dragomino"
+    who: "For a child who wants to compete. Match tiles, hatch dragons."
+    href: "https://link.amazon/B09WKyU19"
+  - name: "Rhino Hero"
+    who: "For laughs. Build a tower of cards and wait for it to fall."
+    href: "https://www.amazon.com/dp/B01M8LF7IA?tag=cubecommonw0a-20"
 ---
 The best board games for 5 year olds give the child a real decision every turn and give the adult something to think about besides waiting. Outfoxed!, [Dragomino](https://link.amazon/B09WKyU19), [Rhino Hero](https://www.amazon.com/dp/B01M8LF7IA?tag=cubecommonw0a-20), [My First Castle Panic](https://www.amazon.com/dp/B07KMLHPMK?tag=cubecommonw0a-20), and [Animal Upon Animal](https://www.amazon.com/dp/B073CD98D6?tag=cubecommonw0a-20) all do that. They play in fifteen to twenty minutes, nobody needs to read, and a parent on the third play of the evening is still choosing rather than going through the motions.
 
