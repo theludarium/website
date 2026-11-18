@@ -106,10 +106,30 @@ function gameNightMadnessRecord() {
   };
 }
 
+/** Head Judge Arbiter is a vendor app served whole; one record, written for search. */
+function headJudgeArbiterRecord() {
+  const file = path.join(DIST, 'head-judge-arbiter', 'index.html');
+  if (!fs.existsSync(file)) return null;
+  const description = pick(fs.readFileSync(file, 'utf8'), /<meta name="description" content="([^"]*)"/);
+  return {
+    url: '/head-judge-arbiter/',
+    content: [
+      'Head Judge Arbiter: a Magic: The Gathering rules judge for your phone.',
+      description,
+      'Ask a rules question mid-game. The judge reads current Oracle text and rulings for every card you name, checks the Comprehensive Rules, and gives a plain-English ruling with rule numbers. Includes a searchable rulebook. Free to use.',
+    ]
+      .filter(Boolean)
+      .join(' '),
+    language: 'en',
+    meta: { title: 'Head Judge Arbiter', description, section: 'Play', category: 'Game tool' },
+    filters: { section: ['Play'], category: ['Game tool'] },
+  };
+}
+
 const { index, errors } = await pagefind.createIndex();
 if (!index) throw new Error(`Pagefind could not start: ${errors?.join('; ')}`);
 const { page_count: pages } = await index.addDirectory({ path: DIST });
-const extra = [...demoRecords(), gameNightMadnessRecord()].filter(Boolean);
+const extra = [...demoRecords(), gameNightMadnessRecord(), headJudgeArbiterRecord()].filter(Boolean);
 for (const record of extra) {
   const { errors: recordErrors } = await index.addCustomRecord(record);
   if (recordErrors?.length) throw new Error(`Search record for ${record.url}: ${recordErrors.join('; ')}`);

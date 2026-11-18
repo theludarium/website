@@ -1,5 +1,5 @@
 // Shared pieces for tools that live in their own repos and are copied into the
-// site after the build (RPG Demo Library, Game Night Madness): a slim Ludarium
+// site after the build (RPG Demo Library, Game Night Madness, Head Judge Arbiter): a slim Ludarium
 // bar that links home, and the site's own analytics snippet.
 import fs from 'node:fs';
 

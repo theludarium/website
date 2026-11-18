@@ -15,7 +15,7 @@ const missing = [!LEGAL_NAME && 'legal business name', !CONTACT_EMAIL && 'contac
   title="Privacy Policy"
   description="What The Ludarium collects when you join the newsletter, send an inquiry, or buy from the store, why we collect it, who helps us, and how to reach us."
   lede="What we collect, why, who helps us handle it, and how to reach us. No legalese where we can avoid it."
-  updated="October 27, 2026"
+  updated="November 18, 2026"
 >
   {
     missing && (
@@ -62,6 +62,15 @@ const missing = [!LEGAL_NAME && 'legal business name', !CONTACT_EMAIL && 'contac
     Your ratings, logged plays, shelves, and guests are stored only in your own browser on your
     device. We never receive them. A table code you choose to share contains your feel profile and game
     lists, never your notes or ratings, and goes only to the people you send it to.
+  </p>
+  <h3>When you use Head Judge Arbiter</h3>
+  <p>
+    Head Judge Arbiter is our Magic: The Gathering rules judge. The questions you type go through our
+    server to Google's Gemini AI, which writes the ruling. We do not store your questions, and we do not
+    send your name, email, or anything else about you with them. Google offers Gemini to us on its free
+    tier, and Google may use what is sent to it to improve its products, so do not type anything
+    personal into the judge. Card lookups go straight from your browser to Scryfall, a public Magic card
+    database. Your past rulings are saved only in your own browser on your device.
   </p>
   <h3>When you use Where We Play</h3>
   <p>
@@ -165,10 +174,12 @@ const missing = [!LEGAL_NAME && 'legal business name', !CONTACT_EMAIL && 'contac
     <li><strong>Lemon Squeezy</strong> handles store checkout, payments, and sales tax.</li>
     <li><strong>Cloudflare</strong> hosts the site, runs our cookieless game counts, stores Where We Play entries, and delivers inquiry notices to our inbox.</li>
     <li><strong>OpenStreetMap (Nominatim) and OSRM</strong> turn Where We Play addresses into map points and drive times.</li>
+    <li><strong>Google Gemini</strong> writes Head Judge Arbiter's rulings from the questions you type, as described above.</li>
+    <li><strong>Scryfall</strong> answers Head Judge Arbiter's card lookups from your browser.</li>
     <li><strong>Google Analytics</strong> measures how the site is used, as described above.</li>
   </ul>
   <p>
-    They only use your information to provide their service to us. <strong>We never sell your personal
+    Except for Gemini's free tier, as noted above, they only use your information to provide their service to us. <strong>We never sell your personal
     information</strong>, and we never share it for advertising.
   </p>
 
