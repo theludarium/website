@@ -1,5 +1,5 @@
 ---
-title: "Reading the Dune: Imperium Board: Spaces, Icons, and Costs"
+title: "Dune: Imperium Board Spaces and Icons Explained"
 description: "A guide to the Dune: Imperium board: the seven Agent icons, every board space by area, costs and requirements, Combat spaces, and what changes in Uprising."
 course: dune-imperium
 order: 3

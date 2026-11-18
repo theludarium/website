@@ -1,5 +1,5 @@
 ---
-title: "Pokémon TCG Prerelease Survival Guide"
+title: "Pokémon TCG Prerelease Guide for New Players"
 description: "Pokémon TCG prerelease guide for new players: what the Build & Battle Box holds, how to build a 40-card deck from it, the Limited rules, and what to bring."
 course: pokemon-tcg
 order: 12

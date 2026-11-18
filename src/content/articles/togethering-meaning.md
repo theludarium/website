@@ -1,6 +1,7 @@
 ---
 title: "Togethering Meaning: Why We Needed a New Word"
-description: "Togethering meaning, explained by those who put the word on everything: people coming together in person to share life, with a game as the reason to gather."
+seoTitle: "Togethering: What It Means and Why It Matters"
+description: "What does togethering mean? People coming together, usually in person, to share life, with a game as the reason to gather. Why we needed a new word for it."
 pubDate: 2026-10-19
 category: Game Culture
 tags: ["togethering meaning", "what is togethering", "togethering definition", "in-person connection", "third place", "The Ludarium mission", "Building The Ludarium"]

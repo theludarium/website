@@ -1,6 +1,6 @@
 ---
-title: "Kinds of Codenames Clues: Links Your Team Will Read"
-description: "Codenames clue types compared: category, trait, phrase partner, use, name, and double meaning clues, which ones your team reads right, and which ones leak."
+title: "Good Codenames Clues: The Clue Types That Work"
+description: "Good Codenames clues, by type: category, trait, phrase partner, use, name and double meaning. Which ones your team reads right, and which ones lead it astray."
 course: codenames
 order: 7
 level: 2

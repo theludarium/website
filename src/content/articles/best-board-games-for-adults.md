@@ -1,6 +1,7 @@
 ---
 title: "Best Board Games for Adults Who Don't Like Board Games"
-description: "The best board games for adults who think they hate board games. Twelve picks that fix the real complaints, with player counts, times, and why each works."
+seoTitle: "Best Board Games for Adults (Even Skeptical Ones)"
+description: "The best board games for adults, picked for people who think they hate board games: twelve games that fix the usual complaints, with player counts and times."
 pubDate: 2026-10-19
 category: Game Guides
 tags: ["best board games for adults", "board games for adults who don't like board games", "fun board games for adults", "board games for new players", "adult game night games", "modern board games", "What to play"]
