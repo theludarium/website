@@ -1,18 +1,18 @@
 ---
 title: "Best Party Games for Large Groups of 8 to 20 People"
-seoTitle: "12 Party Games for Large Groups of 8 to 20 People"
-description: "Party games for 10, 12 or 20 people: Codenames and Wavelength for 8 to 12, Monikers and Telestrations for a bigger crowd, and no-equipment games for any size."
+seoTitle: "Party Games for Large Groups: Best for 8, 10, 12 or 20"
+description: "The best party games for 8, 10, 12 or 20 people, with picks for each group size, games that need no equipment, and tips for hosting a big group without chaos."
 pubDate: 2026-10-19
-updatedDate: 2026-10-29
+updatedDate: 2026-11-17
 category: Game Guides
-tags: ["party games for large groups", "board games for 8 players", "party games for 10 people", "games for big groups of adults", "large group games", "games for a crowd", "What to play"]
+tags: ["party games for large groups", "board games for 8 players", "party games for 8 people", "party games for 10 people", "party games for 12 people", "games for groups of 10 or more", "games for big groups of adults", "large group games", "games for a crowd", "What to play"]
 draft: false
 ---
 Most board games stop at four or five players. That leaves a lot of hosts stuck when ten people show up. The best party games for large groups are built for a crowd: they teach in a minute, run in rounds, and keep everyone involved without waiting twenty minutes for a turn.
 
 **The quick answer:** for 8 to 12 people, play [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) or [Wavelength](https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20) in two teams. For 12 to 20, play [Monikers](https://www.amazon.com/dp/B00M07OQ1U?tag=cubecommonw0a-20) or [Telestrations](https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20) with the Party Pack. For 20 or more, play Two Rooms and a Boom, or split into tables. No box at all? Play Fishbowl with paper and a bowl.
 
-This guide covers twelve games, a quick pick for each group size, a few that need no equipment, and how to run a big table so it stays fun rather than loud.
+This guide covers twelve games, the best picks for 8, 10, 12 and 20 or more people, a few that need no equipment, and how to run a big table so it stays fun rather than loud.
 
 ## What makes a party game work for a large group?
 
@@ -65,7 +65,7 @@ A deck of famous and infamous names, played in three rounds: describe freely, th
 
 ### Werewolf and One Night Ultimate Werewolf
 
-Villagers hunt hidden werewolves through accusation and vote. Classic Werewolf needs a moderator and eliminates players, which is fine at a long party. One Night [Ultimate Werewolf](https://www.amazon.com/dp/B00MHX7JPW?tag=cubecommonw0a-20) fixes both: no moderator, no elimination, ten-minute rounds. For why these games grip a room, see [why social deduction games work](/articles/why-social-deduction-games-work/).
+Villagers hunt hidden werewolves through accusation and vote. Classic Werewolf needs a moderator and eliminates players, which is fine at a long party. One Night Ultimate Werewolf fixes both: no moderator, no elimination, ten-minute rounds. For why these games grip a room, see [why social deduction games work](/articles/why-social-deduction-games-work/).
 
 ### The Resistance and Avalon
 
@@ -89,17 +89,50 @@ Everyone gets the same location card except the spy, who gets nothing. Players a
 
 *If this is useful, the newsletter sends more like it.*
 
-## What is the best game for your group size?
+## Best party games by group size
 
-The table above covers the range. Here is the short pick for the headcount you actually have.
+A box lists a player count, but the real question is how a game plays at the headcount you have. Here are the best picks for each size, and why.
 
-**8 people.** Codenames in two teams of four, or Decrypto. Both are built for exactly this size. Spyfall and Just One also hit their best at eight.
+### Party games for 8 people
 
-**10 people.** Wavelength or The Resistance. The Resistance tops out at ten, and ten is when it is at its best: more suspects, more arguing. One Night Ultimate Werewolf also plays ten in a single box.
+Eight is the sweet spot. It is the top of many box counts and the bottom of the true crowd games, so you have the most choice.
 
-**12 people.** Telestrations with the 12-player Party Pack, or Wavelength, which is rated up to twelve. Codenames works too if you split into three teams of four and rotate.
+- **Codenames.** Two teams of four, one spymaster each. Every guess gets debated, so nobody sits out.
+- **Decrypto.** Two teams of four is the size it was designed for. Past eight, team discussions drag.
+- **Spyfall.** Eight is the box maximum and the best count: more questions, and more places for the spy to hide.
+- **Just One.** Seven by the rules, eight with no trouble. Everyone writes a clue every round.
+- **Telestrations.** The base box holds eight, so you need no expansion.
 
-**20 people or more.** Two Rooms and a Boom is the one game here that wants a crowd that big. Otherwise, play Monikers or Wits & Wagers in teams, or split into two or three tables and swap games every few rounds.
+### Party games for 10 people
+
+Ten is where most boxes stop working. Pick a team game, or a hidden-role game that tops out at ten.
+
+- **The Resistance or Avalon.** Ten is the maximum and the best count. Four spies hiding among ten players makes every vote tense.
+- **Wavelength.** Two teams of five. More people means more arguing over the dial, and the arguing is the fun.
+- **One Night Ultimate Werewolf.** Ten players from one box, and a round takes ten minutes.
+- **Codenames.** Two teams of five still works well. The spymasters do the hard part; everyone else debates.
+
+### Party games for 12 people
+
+At twelve, choose a game with teams or one that hands everyone something to do at once.
+
+- **Telestrations with the Party Pack.** Twelve sketchbooks, so everyone draws and guesses every round.
+- **Wavelength.** Rated up to twelve. Two teams of six.
+- **Monikers.** Two teams of six. Bigger teams mean someone usually knows the obscure names.
+- **Codenames.** Three teams of four, with the losing team sitting out the next game.
+
+### Party games for 15 to 20 people
+
+Few boxes go this high. Teams are the answer: one game, a few big sides.
+
+- **Monikers.** Two teams of eight or more. The three rounds still work, and the reveals get louder.
+- **Wits & Wagers.** Play in teams of three or four, with each team writing one guess.
+- **Fishbowl.** Two teams of any size and no box at all. See the no-equipment games below.
+- **Two Rooms and a Boom.** Built for a crowd, and it gets better as the group grows.
+
+### Party games for 20 or more people
+
+Two Rooms and a Boom handles up to thirty in one game. Mafia also works for twenty or more with a confident moderator. Past that, split into two or three tables and swap games every few rounds, so the room stays one party rather than one long wait. For 30, 50, or 100 people, see our guide to [games for large groups](/articles/games-for-30-people/).
 
 ## Games for large groups with no equipment
 
@@ -135,13 +168,19 @@ And one judgment call: Cards Against Humanity. It handles the player count, but 
 
 If your crowd loves bluffing, see [the best social deduction games](/articles/best-social-deduction-games/). For smaller nights, our list of [games to play with friends](/articles/games-to-play-with-friends/) covers every group size.
 
-Hosting 30, 50, or 100 people? See our guide to [games for large groups](/articles/games-for-30-people/).
-
 ## FAQ
+
+### What are the best party games for 8 people?
+
+Codenames, Decrypto, and Spyfall. Codenames and Decrypto split eight into two teams of four, and eight is Spyfall's best count.
 
 ### What is the best party game for 10 people?
 
 Codenames or Wavelength. Both split into teams of any size, teach in under two minutes, and get better with more opinions in the room.
+
+### What party games work for 12 people?
+
+Telestrations with the 12-player Party Pack, Wavelength, and Monikers in two teams of six. Codenames also works in three teams of four.
 
 ### What party games work for 20 or more people?
 
