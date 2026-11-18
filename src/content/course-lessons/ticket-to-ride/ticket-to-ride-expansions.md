@@ -1,6 +1,6 @@
 ---
-title: "Ticket to Ride Player Count, Variants, Maps, and 6 Players"
-description: "Ticket to Ride plays 2 to 5 players, and the Old West map in the France and Old West box seats 6. How each count plays, USA 1910 variants, and which map next."
+title: "How Many Players Is Ticket to Ride? Player Count and Maps"
+description: "How many players is Ticket to Ride? 2 to 5, Europe too, and the Old West map seats 6. How each count plays, the USA 1910 variants, and which map to get next."
 course: ticket-to-ride
 order: 8
 level: 1
@@ -11,11 +11,11 @@ oneIdea: "Play the USA map until your group knows it well, then change one thing
 tryThis: "Before you buy anything new, play one game at a player count you rarely use. Two players on the USA map feels like a different game."
 nextTeaser: "Next, Level 2 begins with the midgame: managing your hand, choosing when to claim, and reading what every other player is building."
 ---
-Ticket to Ride plays 2 to 5 players, and there is no official solo mode. For a sixth player, the Old West map in the France and Old West expansion is designed for 2 to 6, and it adds a sixth set of trains.
+Ticket to Ride plays 2 to 5 players, and so does Ticket to Ride: Europe. There is no official solo mode. For a sixth player, the Old West map in the France and Old West expansion is designed for 2 to 6, and it adds a sixth set of trains.
 
 Ticket to Ride has grown into a whole family: new tickets for the original map, new maps with their own twists, standalone editions, a legacy campaign, and kids' versions. That is a gift and a trap. Add too much at once and the clean three-choice turn gets buried. Change one thing at a time and the game grows with your group for years.
 
-## How many players
+## How many players is Ticket to Ride?
 
 The base game plays 2 to 5. The one rule that changes is the double routes.
 
