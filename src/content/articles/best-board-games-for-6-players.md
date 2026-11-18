@@ -1,8 +1,9 @@
 ---
 title: "Best Board Games for 6 Players: Family, Adult, and Easy Picks"
-description: "The best board games for 6 players: family picks, games for adults, and easy ones to teach, plus what to play at 3, 4, 5, 7, and 8 so nobody waits for a turn."
+seoTitle: "Best Board Games for 6 Players: Family and Adult Picks"
+description: "The best 6 player board games: family picks, games for adults, easy ones to teach, and what to play at 5, 7, or 8, so nobody at the table waits long for a turn."
 pubDate: 2026-10-19
-updatedDate: 2026-10-29
+updatedDate: 2026-11-17
 category: Game Night
 tags: ["best board games for 6 players", "board games for large groups", "games for 5 players", "games for 7 players", "player count board games", "how many players board game", "Hosting and game-night craft"]
 draft: false
@@ -60,6 +61,7 @@ For a family of six, or a holiday table with kids and grandparents, pick games w
 - **King of Tokyo:** roll dice, smash monsters, take Tokyo. Loud, quick, and easy for kids to read.
 - **Just One:** everyone works together to help one guesser find a word. Nobody loses alone.
 - **[Flip 7](https://www.amazon.com/dp/B0DWGVM7RY?tag=cubecommonw0a-20):** a push-your-luck card game for three or more that only gets better as the table grows.
+- **Telestrations:** write, draw, pass, guess. No reading speed or strategy needed, so a seven-year-old and a grandparent are on equal footing.
 
 For more family picks at any count, see our [best family board games](/articles/best-family-board-games/).
 
@@ -72,6 +74,11 @@ For six adults, look for games with real decisions that still keep everyone invo
 - **Wavelength:** two teams argue about where an answer sits on a scale. Great with a glass of wine.
 - **Cockroach Poker:** pass a face-down card and lie about what it is. Six is the top count and the best one.
 - **[The Resistance](https://www.amazon.com/dp/B01J16HNKS?tag=cubecommonw0a-20) or Avalon:** hidden-role games for 5 to 10 that need at least five to work, so six is a natural fit.
+- **[Skull](https://www.amazon.com/dp/B08R2BPLSN?tag=cubecommonw0a-20):** coasters, bids, and bluffs. Six is the box maximum, and the more faces to read, the better it gets.
+
+### Best board games for 5 to 6 players
+
+If your group swings between five and six, pick a game that plays the same at both. 7 Wonders, King of Tokyo, Camel Up, Skull, and Cockroach Poker all do. So do Codenames and Wavelength, which only care how many teams you have.
 
 ### Easy board games for 6 players
 
@@ -131,7 +138,11 @@ Codenames, 7 Wonders, and Wavelength are the safest picks. Each uses teams or si
 
 ### What are good family board games for 6 players?
 
-Camel Up, Sushi Go Party, King of Tokyo, Just One, and Flip 7. Each keeps every player involved on every turn and is simple enough for kids to follow.
+Camel Up, Sushi Go Party, King of Tokyo, Just One, Flip 7, and Telestrations. Each keeps every player involved on every turn and is simple enough for kids to follow.
+
+### What are the best board games for 6 adults?
+
+7 Wonders, Heat, Wavelength, Cockroach Poker, Skull, and The Resistance. Each gives adults real decisions while keeping everyone involved between turns.
 
 ### What is an easy board game for 6 players?
 

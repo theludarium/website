@@ -1,6 +1,6 @@
 ---
-title: "Wingspan Player Count, Expansions, and Variants"
-description: "Wingspan plays 1 to 5 players, and Wingspan Asia adds 6 or 7 with Flock mode. Every expansion compared, which to get first, plus solo, Duet, and variants."
+title: "How Many Players Is Wingspan? Player Count and Expansions"
+description: "How many players is Wingspan? 1 to 5 in the base game, and 6 or 7 with Wingspan Asia's Flock mode. How each count plays, every expansion, which to buy first."
 course: wingspan
 order: 12
 level: 2
@@ -17,7 +17,9 @@ Wingspan has grown into a whole aviary: four expansions, a standalone small-box 
 
 This lesson starts with what changes at different player counts, then the official variants, then each of the Wingspan expansions worth knowing and which one to get first.
 
-## How many players
+## How many players is Wingspan?
+
+The base game plays 1 to 5. Wingspan Asia plays 1 or 2 on its own, and 6 or 7 when combined with the base game. Wingspan Pocket, the small-box game, also plays 1 to 5.
 
 The round structure is the same at every count: 8, 7, 6, and 5 turns. The rules only change at 1 player and at 6 or 7.
 
