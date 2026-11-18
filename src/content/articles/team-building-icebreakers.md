@@ -5,6 +5,17 @@ pubDate: 2026-10-31
 category: Togethering
 tags: ["team building ice breakers", "team ice breakers", "workplace icebreakers", "5 minute team building activities", "icebreaker games for work", "team building games for work"]
 draft: false
+topPicksHeading: "Want the boxed versions?"
+topPicks:
+  - name: "Just One"
+    who: "The game behind One-Clue Guess. Cooperative, and great for a mixed team."
+    href: "https://www.amazon.com/dp/B07GJ7NDZQ?tag=cubecommonw0a-20"
+  - name: "Wavelength"
+    who: "The game behind the Spectrum Line. Teams argue over where an answer lands."
+    href: "https://www.amazon.com/dp/B07T446163?tag=cubecommonw0a-20"
+  - name: "Telestrations"
+    who: "The game behind Telephone Pictures. Write, draw, pass, and laugh at the reveal."
+    href: "https://www.amazon.com/dp/B0F699VTB2?tag=cubecommonw0a-20"
 ---
 The best team building icebreakers are tiny games. A game gives people a job, a goal, and a reason to talk, so nobody has to stand up and share a fun fact while everyone stares. The twelve below take 5 to 15 minutes, need little or no equipment, are safe for any workplace, and never single anyone out.
 

@@ -38,7 +38,7 @@ const anyAffiliate = items.some((i) => i.affiliate && i.href);
           {i.course && <a href={i.course}>Free course</a>}
           {i.href &&
             (i.affiliate ? (
-              <AffiliateLink href={i.href}>Buy {i.name}</AffiliateLink>
+              <AffiliateLink href={i.href} position="buy-block">Buy {i.name}</AffiliateLink>
             ) : (
               <a href={i.href} rel="noopener">
                 {i.name} from the publisher

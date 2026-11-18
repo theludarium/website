@@ -1,3 +1,4 @@
+import { topPickSchema } from './lib/top-picks';
 import { defineCollection } from 'astro:content';
 import { glob } from 'astro/loaders';
 import { z } from 'astro/zod';
@@ -44,6 +45,10 @@ const articles = defineCollection({
         // Optional shorter title for the browser tab and search results (the site
         // name is appended, so aim for 55 characters or fewer). The H1 stays `title`.
         seoTitle: z.string().max(60).optional(),
+        // Optional top picks box above the body (src/components/TopPicks.astro):
+        // up to three games with who each suits and an Amazon button.
+        topPicks: z.array(topPickSchema).min(1).max(3).optional(),
+        topPicksHeading: z.string().max(60).optional(),
       })
       .refine((data) => !data.heroImage || (data.heroAlt && data.heroAlt.length > 0), {
         message: 'heroAlt is required when heroImage is set.',

@@ -8,6 +8,16 @@ category: Game Guides
 tags: ["best board games for adults", "board games for adults who don't like board games", "fun board games for adults", "board games for new players", "adult game night games", "modern board games", "What to play"]
 games: [codenames, wavelength, azul, ticket-to-ride, just-one, splendor, sushi-go, skull, cascadia]
 draft: false
+topPicks:
+  - name: "Codenames"
+    who: "For a group of four or more. Two teams, one-word clues."
+    href: "https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20"
+  - name: "Azul"
+    who: "For two to four people who want something quieter."
+    href: "https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20"
+  - name: "Sushi Go!"
+    who: "For anyone who doubts they have the patience. Twenty minutes, no downtime."
+    href: "https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20"
 ---
 **The short answer:** the three best board games for adults are [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) for a group of four or more, [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) for two to four people who want something quieter, and [Sushi Go!](https://www.amazon.com/dp/B00J57VU44?tag=cubecommonw0a-20) for anyone who doubts they have the patience. All three teach in a few minutes and none runs past 45.
 

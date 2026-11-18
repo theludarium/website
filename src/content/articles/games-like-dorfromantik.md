@@ -7,6 +7,16 @@ category: Game Shelf
 tags: ["games like dorfromantik", "board games like dorfromantik", "if you like dorfromantik", "hex tile games", "cozy board games", "dorfromantik alternatives"]
 draft: false
 games: ["cascadia", "harmonies", "kingdomino", "carcassonne", "the-crew-planet-nine", "sky-team", "hanabi", "cartographers"]
+topPicks:
+  - name: "Cascadia"
+    who: "For most tables. Hex tiles and wildlife, about 45 minutes."
+    href: "https://www.amazon.com/dp/B093H8RGXX?tag=cubecommonw0a-20"
+  - name: "Kingdomino"
+    who: "For the quickest teach. A tile-laying kingdom in fifteen minutes."
+    href: "https://www.amazon.com/dp/B01N3A4070?tag=cubecommonw0a-20"
+  - name: "Dorfromantik: The Duel"
+    who: "For two players who want more Dorfromantik, with a winner."
+    href: "https://www.amazon.com/dp/B0CQ6WS3VP?tag=cubecommonw0a-20"
 ---
 The best games like [Dorfromantik](https://www.amazon.com/dp/B0BQ3W9GRL?tag=cubecommonw0a-20) depend on what hooked you. If it was the hex tiles and the click of a perfect fit, play [Cascadia](https://www.amazon.com/dp/B093H8RGXX?tag=cubecommonw0a-20), [Calico](https://www.amazon.com/dp/B08B53WGWX?tag=cubecommonw0a-20), or [Akropolis](https://www.amazon.com/dp/B0B124J1JG?tag=cubecommonw0a-20). If it was the quiet landscape growing in front of you, play [Harmonies](https://www.amazon.com/dp/B0CVNPHPZY?tag=cubecommonw0a-20), [Kingdomino](https://www.amazon.com/dp/B01N3A4070?tag=cubecommonw0a-20), or [Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20). If you loved a campaign that changes the box as you play, try [My City](https://www.amazon.com/dp/B08626RMSL?tag=cubecommonw0a-20) or [My Island](https://www.amazon.com/dp/B0C1P9H81D?tag=cubecommonw0a-20). And if the best part was the whole table on one team, [Sky Team](https://www.amazon.com/dp/B0CHD8RCSJ?tag=cubecommonw0a-20), [The Crew](https://www.amazon.com/dp/B084GP7X3P?tag=cubecommonw0a-20), and [Hanabi](https://www.amazon.com/dp/B01MXTGT21?tag=cubecommonw0a-20) are waiting.
 

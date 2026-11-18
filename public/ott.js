@@ -12,6 +12,7 @@
     if (!e) return;
     var p = { link_url: a.href };
     if (a.getAttribute('data-ott-game')) p.game = a.getAttribute('data-ott-game');
+    if (a.getAttribute('data-ott-pos')) p.link_position = a.getAttribute('data-ott-pos');
     w.gtag('event', e, p);
   };
   d.addEventListener('click', ga, true);
