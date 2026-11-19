@@ -13,6 +13,8 @@ import onePagerBundle from '@/assets/one-pagers/bundle.jpg';
 import onePagerKit from '@/assets/one-pagers/kit.jpg';
 import { BOARD_GAME_PRODUCTS } from '@/lib/board-games';
 import deepCut from '@/assets/board-games/deep-cut.jpg';
+import { SHOP_URL } from '@/lib/merch';
+import teesImage from '@/assets/merch/tees.jpg';
 const boardGameImages: Record<string, ImageMetadata> = { 'deep-cut': deepCut };
 
 const onePagerImages: Record<string, ImageMetadata> = { bundle: onePagerBundle, kit: onePagerKit };
@@ -34,7 +36,7 @@ const cardPacks = [...TEACH_CARD_PACKS, TEACH_CARD_BUNDLE].map((p) => ({
 
 <BaseLayout
   title="Store"
-  description="Digital goods for your table from The Ludarium: print-and-play board games, one-page RPGs, printable teach cards and RPG Demo Library adventure PDFs. Checkout is handled securely by Lemon Squeezy."
+  description="Digital goods for your table from The Ludarium: print-and-play board games, one-page RPGs, teach cards, RPG Demo Library adventure PDFs, plus tees and hoodies with inside jokes from the table."
 >
   <section class="store">
     <div class="container store__grid">
@@ -62,8 +64,8 @@ const cardPacks = [...TEACH_CARD_PACKS, TEACH_CARD_BUNDLE].map((p) => ({
           )
         }
         <p class="store__fine">
-          Checkout is handled by Lemon Squeezy, which processes payments and sales tax securely. Everything
-          is digital.
+          Digital goods check out through Lemon Squeezy, which processes payments and sales tax securely.
+          Tees and hoodies are printed to order and shipped by Fourthwall.
         </p>
       </div>
 
@@ -197,6 +199,26 @@ const cardPacks = [...TEACH_CARD_PACKS, TEACH_CARD_BUNDLE].map((p) => ({
       </section>
     )
   }
+
+  <section class="section store-pdfs" id="tees" aria-labelledby="store-tees-title">
+    <div class="container">
+      <h2 id="store-tees-title">Tees and hoodies</h2>
+      <p class="store-pdfs__lede">Inside jokes from the table, for the people who get them. Printed to order and shipped to your door.</p>
+      <ul class="store-pdfs__grid">
+        <li class="card store-pdf store-card">
+          <Image src={teesImage} alt="A brown tee printed with a small bird, a lightning bolt and the words Always bolt the bird" widths={[200, 400]} sizes="200px" />
+          <div class="store-pdf__body">
+            <p class="eyebrow">The Ludarium shop</p>
+            <h3>25 designs, tees and hoodies</h3>
+            <p class="store-pdf__meta">Tees $25, hoodies $45. Inspired by the games we teach in the Academy.</p>
+            <div class="store-pdf__actions">
+              <a class="button" href={SHOP_URL} rel="noopener">Shop tees and hoodies</a>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </section>
 
   <section class="section store-books" aria-labelledby="store-books-title">
     <div class="container">
