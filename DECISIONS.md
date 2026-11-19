@@ -551,3 +551,10 @@ Added the `p:domain_verify` meta tag to BaseLayout so Pinterest can confirm The 
 - **IP rules for every design:** no game names, logos, art, character names, or copied icons; no Disney, Marvel or Pokémon anything; card names only when they are plain words; no "meeple" in listings (Hans im Glück has sent cease-and-desist letters over it).
 - **No merch links on Game Night Madness or Head Judge Arbiter,** to protect the BGG non-commercial approval and the Fan Content Policy.
 - **Timing:** the operating plan's new-product pause runs to 2027-01-08; launch date is Levi's call.
+
+## 2026-11-19: One-page RPG products
+
+- **Game Night One-Pagers**, ten original one-page RPGs about game night, sold as one 13-page PDF on Lemon Squeezy (product 1533967, $12). **Make Your Own One-Page RPG**, an 11-page design workbook (product 1533969, $7). Both within the $5 to $15 standing price range. Sources and the PDF build: `revenue-ops/products/one-pagers/` and `products/one-pager-kit/`.
+- **Under the Couch** is free: the newsletter offer on the one-page RPGs guide (Kit form 10213314, incentive download) and a solo browser demo in the RPG Demo Library.
+- **Demo Library adds two outside one-pagers** only where the license is clear: Everyone Is John (CC BY 4.0) and Roll for Shoes (CC0). Grant Howitt's games state no license, and One Page Left forbids AI-assisted derivatives, so neither is used. Check: `revenue-ops/products/one-pagers/demo-licenses.md`.
+- The games and kit are unplaytested at a real table; their odds were checked by math and simulation.

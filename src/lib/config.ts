@@ -73,6 +73,13 @@ export const KIT_OFFER_FORMS = {
     lede: 'A printable, real-size cassette insert for the winning tape. Join The Ludarium newsletter and it arrives when you confirm your email.',
     buttonLabel: 'Send me the free J-card',
   },
+  'under-the-couch': {
+    // Kit form "Offer: Under the Couch" (10213314): double opt-in, incentive download under-the-couch.pdf.
+    action: 'https://app.kit.com/forms/10213314/subscriptions',
+    heading: 'Get Under the Couch, a free one-page RPG.',
+    lede: 'Tiny wooden pawns race back into the game box before the lid closes. Ages 8 and up, about an hour. Join The Ludarium newsletter and the printable page arrives when you confirm your email.',
+    buttonLabel: 'Send me the free game',
+  },
   'game-shelf': {
     // Kit form "Offer: Game Shelf series" (10089038). Its rule tags game-shelf and
     // game-shelf-shared-shelf (which starts the six chained sequences) and adds Welcome.

@@ -7,6 +7,7 @@ updatedDate: 2026-11-19
 category: Game Guides
 tags: ["one page rpg", "one page rpgs", "rules light rpg", "simple rpg", "minimalist rpg", "free rpgs", "solo rpg", "rpgs for kids"]
 draft: false
+offer: under-the-couch
 ---
 A one page RPG is a complete tabletop roleplaying game whose rules fit on a single sheet of paper. You get a premise, a way to make a character in a minute or two, one dice mechanic, and usually a table or two that spins up an adventure. Most are free or pay what you want. Print the page, grab a few six-sided dice, and a group of friends can be playing inside fifteen minutes.
 
@@ -101,7 +102,7 @@ Howitt has written about one hundred one-page RPGs. If your group loves these th
 
 Michael Sullivan wrote this in 2002, and it is still one of the strangest and funniest RPGs ever made. John is an unstable man. Each player is a voice in his head with a secret obsession, a couple of skills, and a pool of Willpower. Voices bid Willpower to take control of John, and the GM (who plays "everyone else") reacts as John's day goes off the rails. When every voice runs out of Willpower, John falls asleep and the game ends. The voice that fulfilled its obsession most, weighted by how hard it was, wins.
 
-The rules are free on Sullivan's website under a Creative Commons license. They run about two to three printed pages, but you will hold the whole game in your head after one read.
+The rules are free on Sullivan's website under a Creative Commons license. They run about two to three printed pages, but you will hold the whole game in your head after one read. To try it before you gather a group, play [John's Big Tuesday](/rpg-demo-library/games/everyone-is-john/), our free solo demo where you are one Voice bidding against two others.
 
 ### Tunnel Goons
 
@@ -191,6 +192,12 @@ There are thousands. A few places do most of the curating for you.
 - **Designer catalogs.** Grant Howitt's one-pagers are collected on itch.io and through Rowan, Rook and Decard, which also sells printed collections. John Harper's itch.io page has Lasers & Feelings and his other short games.
 - **Hacks of a favorite.** Search "Lasers & Feelings hack" or "24XX" on itch.io. If your group loved one system, its hacks give you new settings with nothing new to learn.
 
+## Our own one-pagers
+
+We write them too. **Under the Couch** is our free one-page RPG for ages 8 and up: the players are tiny wooden pawns who bounced off the game table, and they have to get back into the box before somebody puts the lid on. You can [play it solo in your browser](/rpg-demo-library/games/under-the-couch/), or get the printable page free by signing up at the end of this guide.
+
+It is one of ten games in [Game Night One-Pagers](/store/#one-pagers), our collection of tiny RPGs about the night you play: a board game café's last night, the goblins who live in the dice bag, a game night stuck in a time loop, and a solo journaling game about an old box from a thrift store.
+
 ## What comes after a one-page RPG?
 
 When your group wants characters that grow over several sessions, step up gently rather than jumping to a 300-page book.
@@ -233,6 +240,8 @@ Hand the page to friends and watch them play without your help. Every question t
 
 Upload a PDF to itch.io as pay what you want, or enter it in the next One-Page RPG Jam. A jam gives you a deadline and an audience on day one.
 
+
+Want the long version? Our [Make Your Own One-Page RPG](/store/#one-pagers) kit turns these six steps into a weekend workbook, with a premise spark table, a dice menu with the odds worked out, a word budget, and a playtest script.
 ## FAQ
 
 ### What is the best one page RPG for beginners?
