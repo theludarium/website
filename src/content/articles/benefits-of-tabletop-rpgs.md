@@ -30,7 +30,7 @@ Consider what a session asks of each person at the table:
 - **Tolerate failure in public.** The dice will humiliate you in front of friends. The group will laugh. You will laugh. Nothing bad happens.
 - **Create something that did not exist.** By the end of the night there is a story nobody wrote, and everyone at the table owns a piece of it.
 
-No single one of those is unique to RPGs. Doing all five at once, for three hours, with your phone face down, is close to unique. If you want the mechanics of how it works, [our tabletop RPG explainer](/articles/what-is-a-tabletop-rpg/) covers the basics.
+No single one of those is unique to RPGs. Doing all five at once, for three hours, with your phone face down, is close to unique. If you want the mechanics of how it works, [our tabletop RPG explainer](/articles/what-is-a-tabletop-rpg/) covers the basics, and a [one page RPG](/articles/one-page-rpgs/) is the quickest way to try it.
 
 ## What does the research say?
 

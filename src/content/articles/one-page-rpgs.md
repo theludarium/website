@@ -3,8 +3,9 @@ title: "One-Page RPGs: Complete Tabletop Games on a Single Sheet"
 seoTitle: "One-Page RPGs: Full Tabletop Games on a Single Sheet"
 description: "A one page RPG is a complete roleplaying game on a single sheet. The best free ones, how to run one tonight, where to find more, and how to write your own."
 pubDate: 2026-11-01
+updatedDate: 2026-11-19
 category: Game Guides
-tags: ["one page rpg", "one page rpgs", "rules light rpg", "simple rpg", "minimalist rpg", "free rpgs"]
+tags: ["one page rpg", "one page rpgs", "rules light rpg", "simple rpg", "minimalist rpg", "free rpgs", "solo rpg", "rpgs for kids"]
 draft: false
 ---
 A one page RPG is a complete tabletop roleplaying game whose rules fit on a single sheet of paper. You get a premise, a way to make a character in a minute or two, one dice mechanic, and usually a table or two that spins up an adventure. Most are free or pay what you want. Print the page, grab a few six-sided dice, and a group of friends can be playing inside fifteen minutes.
@@ -41,17 +42,36 @@ How does this compare with other simple systems? Our guide to [easy tabletop RPG
 
 ## The best one page RPGs to start with
 
-Every game below is a complete, playable RPG with very short rules, free or pay what you want from its designer. Player counts assume one game master (GM) plus players unless noted.
+Every game below is a complete, playable RPG with very short rules, sold by its designer. Most are free or pay what you want; Precious Things, Magical Pets, Numbskulls, and Polyhedral Garden ask a small minimum. Most fit on one page. Everyone Is John runs two to three pages, Magical Pets two, and the 2400 games use both sides of a sheet.
 
-| Game | Designer | Premise | Dice | Length |
+| Game | Designer | Premise | Who plays | Best for |
 |---|---|---|---|---|
-| Lasers & Feelings | John Harper | Space crew on a scout ship | d6 | 1 page |
-| Honey Heist | Grant Howitt | Bears rob a honey convention | d6 | 1 page |
-| Crash Pandas | Grant Howitt | Raccoons share one car | d6 | 1 page |
-| The Witch Is Dead | Grant Howitt | Woodland familiars avenge their witch | d6 | 1 page |
-| Everyone Is John | Michael Sullivan | Players are voices in one man's head | d6 | About 2 to 3 pages |
-| Tunnel Goons | Nate Treme | Dungeon crawl in any genre | 2d6 | 1 page |
-| 2400 series | Jason Tocci | Lo-fi sci-fi, one setting per sheet | d4 to d12 | 2 sides of a sheet |
+| Lasers & Feelings | John Harper | Space crew on a scout ship | GM and a group | Your first RPG |
+| Honey Heist | Grant Howitt | Bears rob a honey convention | GM and a group | A silly first game |
+| Crash Pandas | Grant Howitt | Raccoons share one car | GM and a group | Pure chaos |
+| The Witch Is Dead | Grant Howitt | Woodland familiars avenge their witch | GM and a group | Halloween, adults only |
+| Everyone Is John | Michael Sullivan | Players are voices in one man's head | GM and a group | Comedy with old friends |
+| Tunnel Goons | Nate Treme | Dungeon crawl in any genre | GM and a group | Classic fantasy |
+| 2400 series | Jason Tocci | Lo-fi sci-fi, one setting per sheet | GM and a group | A step toward campaigns |
+| Adventure Skeletons | Grant Howitt | A skeleton quits guarding a dungeon | GM and about four | Light spooky fun |
+| Super Cool Monster Hunting Club | Grant Howitt | Kids fight monsters with household gear | GM and a group | Playing with kids |
+| Precious Things | Lucas Zellers | Tiny dragons build cozy hoards | GM and 2 to 5 | A cozy family night |
+| Magical Pets | Plotbunny Games | Pets at a magic school | GM and 2 to 6 | A gentle Lasers & Feelings hack |
+| Numbskulls | K-Ramstack | Skeletons try to pass as human | GM and 2 or more | Spooky comedy |
+| One Page Left | M. Kirin | Escape a killer's mansion | Solo | Solo horror |
+| Last Tea Shop Classic | Spring Villager | Tea for the newly dead | Solo or 2 | A quiet evening |
+| Over the Mountain | marchcrow | Life in a mountain town of spirits | Solo | Solo journaling |
+| Polyhedral Garden | Junk Food Games | Grow a garden of dice | Solo | A few minutes a day |
+
+## Which one page RPG should you pick?
+
+- **Your first RPG ever:** Lasers & Feelings. One number, a few six-sided dice, and the whole idea of roleplaying in one sheet.
+- **A group that wants to laugh:** Honey Heist or Crash Pandas.
+- **Kids at the table:** Super Cool Monster Hunting Club, or Precious Things for a calmer, cozier game.
+- **A spooky night:** The Witch Is Dead for adults; Numbskulls or Adventure Skeletons for something lighter.
+- **Playing alone:** One Page Left for horror, Last Tea Shop for something quiet, Over the Mountain for journaling.
+- **Two players:** Last Tea Shop Classic, which includes a two-player version.
+- **A group that may want a campaign later:** any 2400 game.
 
 ### Lasers & Feelings
 
@@ -90,6 +110,38 @@ Nate Treme's Tunnel Goons is a tiny dungeon crawler built on a light 2d6 roll. T
 ### The 2400 series and other 24XX games
 
 Jason Tocci's 2400 series packs a complete game, usually science fiction, onto the two sides of one letter-size sheet. Each game is its own setting: space truckers, cyberpunk freelancers, a casino heist in the clouds of Venus. They all share one system, called 24XX, built around a single skill die. Two of them, the Emergency Rules and Inner System Blues, are free demo downloads. Our full guide to [what 24XX is and how it works](/articles/what-is-24xx-rpg/) covers the system and the hundreds of games built on it, and our [24XX browser demo](/rpg-demo-library/games/24xx/) lets you play a short rescue mission under the ice.
+
+## More one page RPGs worth printing
+
+The seven classics have their own write-ups above. These newer and lesser-known one-pagers fill the gaps: games for kids, spooky nights, and playing alone.
+
+### For kids and families
+
+**Super Cool Monster Hunting Club** is another Grant Howitt one-pager. The players are adventurous kids battling monsters nobody else can see, using whatever they find around the house; a saucepan counts as a helmet. Read it first, as with any Howitt game, but its dress-up premise makes it an easy fit for a family table.
+
+**Precious Things** by Lucas Zellers, from Graftbound Press, casts the players as tiny dragons building magical hoards out of household treasures. It is made for a GM and two to five players, runs about an hour and a half, and folds into a small accordion booklet if you print it.
+
+**Magical Pets** from Plotbunny Games is a Lasers & Feelings hack on two pages. You play the pets of students and staff at a magic school, cleaning up problems while your humans are busy. It uses three six-sided dice and plays with a GM and two to six players.
+
+### For spooky nights
+
+**Adventure Skeletons** by Grant Howitt follows a skeleton who gets bored of guarding a wizard's dungeon and sets off on an adventure, while humans keep hitting him and bits of him keep falling off. It is built for a GM and about four players.
+
+**Numbskulls** by K-Ramstack makes you skeleton minions who must pass as human in public while carrying out a necromancer's orders. It runs on 2d6, needs a GM and two or more players, and its designer puts a session at one and a half to three hours.
+
+### To play alone
+
+Solo one-pagers swap the game master for prompts and dice. You read a result, then write or imagine what happens.
+
+**One Page Left** by M. Kirin is a solo horror game inspired by slasher films. A killer is loose, you are trapped in a strange mansion, and you play the whole game on one sheet of paper with a d6, a black pen, and a red pen. A run takes thirty minutes to an hour.
+
+**Last Tea Shop Classic** by Spring Villager is a quiet game about running a tea shop on the border between the living and the dead. The recently departed stop in for one last cup, and you journal their stories. It needs one or two d6, plays in about an hour, and includes a two-player version. Its designer says the Classic edition will always be free.
+
+**Over the Mountain** by marchcrow is a solo rural fantasy journaling game. You live in a small mountain town, meet human and spirit neighbors, collect odd items, and clear the occasional dungeon.
+
+**Polyhedral Garden** by Junk Food Games is the smallest game here: a solo game about growing a garden of dice, a few minutes a day. There is no winning, just a garden.
+
+If you want a tool rather than a game, the free **Juice Oracle** by thunder9861 packs a yes-or-no oracle, random events, and generator tables into a printable pocket fold for any solo RPG. Our guides to [solo RPGs](/articles/solo-rpg/) and [solo journaling RPGs](/articles/solo-journaling-rpg/) go deeper.
 
 ## How do you run a one page RPG tonight?
 
@@ -203,6 +255,22 @@ Some are built for it, and many one-pagers in the One-Page RPG Jam are solo or j
 
 Most run one session of two to three hours, including about ten minutes to make characters. Many are designed as one-shots, so the story ends the same night.
 
+### What dice do you need for a one page RPG?
+
+Usually a few ordinary six-sided dice, the kind in any board game box. Lasers & Feelings, Honey Heist, and most Grant Howitt games use only d6s. Tunnel Goons uses 2d6. The 2400 games and Polyhedral Garden use a polyhedral set (d4 through d12).
+
+### Are there one page RPGs for kids?
+
+Yes. Super Cool Monster Hunting Club, Precious Things, and Magical Pets all have gentle premises: kids fighting monsters with household gear, tiny dragons collecting treasure, and pets at a magic school. Skip The Witch Is Dead, which its publisher marks for strong language and gore.
+
+### Can two people play a one page RPG?
+
+Yes. One person runs the game and the other plays, and most group one-pagers work fine that way. Last Tea Shop Classic includes a two-player version built for it. Solo games like One Page Left also work as a shared activity if you take turns reading prompts.
+
+### What is the One-Page RPG Jam?
+
+An annual, unranked design event on itch.io where every entry must fit on one sheet of paper. It has produced more than 3,000 games since it began, and the 2026 jam was its seventh year. Its entry pages are one of the best places to find new one-pagers.
+
 ## Print one tonight
 
 A one page RPG is the shortest path from "I've always wanted to try that" to a table full of people telling a story together. Print Lasers & Feelings, find some dice, and invite three friends. If you want a lighter-than-light start, the [RPG Demo Library](/rpg-demo-library/) lets you play a scene in your browser first. Ludarium Letters, below, sends more guides like this one.
@@ -222,6 +290,16 @@ The game is the reason. The people are the point.
 - [Tunnel Goons (Nate Treme, itch.io)](https://natetreme.itch.io/tunnelgoons)
 - [2400 (Jason Tocci, itch.io)](https://jasontocci.itch.io/2400)
 - [Knave (Questing Beast, itch.io)](https://questingbeast.itch.io/knave)
+- [Adventure Skeletons (Grant Howitt, itch.io)](https://gshowitt.itch.io/adventure-skeletons)
+- [Super Cool Monster Hunting Club (Grant Howitt, itch.io)](https://gshowitt.itch.io/super-cool-monster-hunting-club)
+- [Precious Things (Graftbound Press, itch.io)](https://graftbound.itch.io/preciousthings)
+- [Magical Pets (Plotbunny Games, itch.io)](https://plotbunnygames.itch.io/magical-pets)
+- [Numbskulls (K-Ramstack, itch.io)](https://k-ramstack.itch.io/numbskulls)
+- [One Page Left (M. Kirin, itch.io)](https://mkirin.itch.io/one-page-left)
+- [Last Tea Shop Classic (Spring Villager, itch.io)](https://springvillager.itch.io/last-tea-shop)
+- [Over the Mountain (marchcrow, itch.io)](https://marchcrow.itch.io/over-the-mountain)
+- [Polyhedral Garden (Junk Food Games, itch.io)](https://junkfoodgames.itch.io/polyhedral-garden)
+- [Juice Oracle (thunder9861, itch.io)](https://thunder9861.itch.io/juice-oracle)
 - [One-Page RPG Jam 2025 (itch.io)](https://itch.io/jam/one-page-rpg-jam-2025)
 - [The Biggest Tabletop RPG Game Jam Returns for 2026 (Rascal News, 2026)](https://www.rascal.news/the-biggest-tabletop-rpg-game-jam-returns-for-2026/)
 - [Make your own one-page RPG, Part 2: Exploring one-page RPGs (Skeleton Code Machine, 2024)](https://www.skeletoncodemachine.com/p/exploring-one-page-rpgs)
