@@ -5,6 +5,8 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import { Image } from 'astro:assets';
 import { SITE } from '@/lib/site';
 import { BOARD_GAME_PRODUCTS } from '@/lib/board-games';
+import AffiliateLink from '@/components/mdx/AffiliateLink.astro';
+import AffiliateNotice from '@/components/mdx/AffiliateNotice.astro';
 import storeImage from '@/assets/board-games/deep-cut.jpg';
 import cover from '@/assets/board-games/deep-cut/page-1.jpg';
 import investigators from '@/assets/board-games/deep-cut/page-12.jpg';
@@ -42,6 +44,33 @@ const contents = [
   '18 Items, 16 Hunches, 3 Seals and 12 Party Madness cards for tables that want to act it out',
   '20 Omen tokens, clue and horror tokens, investigator pieces and the Clock',
   'A game log to record every night under Arkham',
+];
+
+// Optional gear for printing and storing a copy. Amazon only, tag cubecommonw0a-20; ASINs found 2026-11-19.
+const AMZ = (asin: string) => `https://www.amazon.com/dp/${asin}?tag=cubecommonw0a-20`;
+const gear = [
+  {
+    group: 'Print and cut',
+    items: [
+      { name: 'Hammermill 110 lb white cardstock', href: AMZ('B08DCF5B4P'), why: 'Heavy enough for cards and tiles, light enough for a home printer. One pack covers a full copy with plenty left over.' },
+      { name: 'A 12-inch paper trimmer with a corner rounder', href: AMZ('B0C2HDCTWN'), why: 'Straight cuts on 19 card sheets go much faster than scissors, and rounded corners make the cards feel finished.' },
+    ],
+  },
+  {
+    group: 'Protect the cards',
+    items: [
+      { name: 'Dragon Shield Perfect Fit sleeves, 100 count', href: AMZ('B07ZPGFCL5'), why: 'The snuggest fit for Deep Cut cards, which are a touch under poker size. You need two packs for every card and place tile.' },
+      { name: 'Gamegenic Double Deck Holder 200+ XL', href: AMZ('B0HNY5HW6J'), why: 'Two removable trays hold all the sleeved cards, one for the decks you use every game and one for the Old Ones and extras.' },
+    ],
+  },
+  {
+    group: 'Hold everything else',
+    items: [
+      { name: 'Small drawstring bags, 3 by 4 inches', href: AMZ('B0G25FT83V'), why: 'One becomes your Omen Bag. The rest keep clues, horrors and investigator pieces apart.' },
+      { name: 'Mini 8-grid organizer boxes', href: AMZ('B07HKWNB93'), why: 'A pocket-sized box sorts every token type, so setup takes a minute instead of ten.' },
+      { name: 'JAM Paper clear snap envelopes, letter booklet size', href: AMZ('B003S84IU4'), why: 'Keeps the rulebook, quick reference, investigator sheets and Old One sheets flat and together, with room for the game log.' },
+    ],
+  },
 ];
 
 const faqs = [
@@ -227,8 +256,34 @@ const faqLd = {
             <li>A cup or small bag for the Omen tokens</li>
             <li>A penny for the Clock</li>
           </ul>
-          <p class="dc-small">The cards are a touch under poker size and fit standard card sleeves.</p>
+          <p class="dc-small">The cards are a touch under poker size and fit standard card sleeves. Want a copy that lasts? See <a href="#build-your-copy">what we would use to build and store it</a>.</p>
         </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section dc-gear" id="build-your-copy" aria-labelledby="dc-gear-title">
+    <div class="container">
+      <h2 id="dc-gear-title">Build and store your copy</h2>
+      <p class="dc-get__lede">
+        Deep Cut plays fine with plain paper, scissors and a cup. If you want a copy that lasts, here is what we would
+        pick to print it, protect it and keep it together.
+      </p>
+      <AffiliateNotice />
+      <div class="dc-gear__grid">
+        {gear.map((g) => (
+          <div class="card">
+            <h3>{g.group}</h3>
+            <ul class="dc-gear__list">
+              {g.items.map((it) => (
+                <li>
+                  <AffiliateLink href={it.href} position="buy-block">{it.name}</AffiliateLink>
+                  <p>{it.why}</p>
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))}
       </div>
     </div>
   </section>
@@ -363,6 +418,7 @@ const faqLd = {
   .dc-how,
   .dc-get,
   .dc-why,
+  .dc-gear,
   .dc-faq,
   .dc-final {
     padding-top: 0;
@@ -448,6 +504,42 @@ const faqLd = {
 
   .dc-list li + li {
     margin-top: var(--space-2);
+  }
+
+  .dc-gear .affiliate-notice {
+    max-width: 40rem;
+    margin: 0 0 var(--space-6);
+  }
+
+  .dc-gear__grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr));
+    gap: var(--space-4);
+  }
+
+  .dc-gear__grid h3 {
+    margin: 0 0 var(--space-3);
+    font-size: var(--text-lg);
+  }
+
+  .dc-gear__list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .dc-gear__list li + li {
+    margin-top: var(--space-4);
+  }
+
+  .dc-gear__list a {
+    font-weight: 650;
+  }
+
+  .dc-gear__list p {
+    margin: var(--space-1) 0 0;
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
   }
 
   .dc-faq__item {
