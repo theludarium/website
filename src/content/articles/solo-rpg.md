@@ -131,7 +131,7 @@ As long as you want. Thirty minutes to an hour is common, and most solo games ar
 
 ## Start with one small story
 
-If you want the gentlest start, try a free demo in the [RPG Demo Library](/rpg-demo-library/), or read [easy tabletop RPGs for beginners](/articles/easy-tabletop-rpgs-for-beginners/) for group games to bring friends into later. Ludarium Letters, below, sends new guides and demos as they come out.
+If you want the gentlest start, try a free demo in the [RPG Demo Library](/rpg-demo-library/), or read [easy tabletop RPGs for beginners](/articles/easy-tabletop-rpgs-for-beginners/) for group games to bring friends into later. For something you can print and play in half an hour, our guide to [one page RPGs](/articles/one-page-rpgs/) lists several solo games on a single sheet. Ludarium Letters, below, sends new guides and demos as they come out.
 
 The game is the reason. The people are the point.
 

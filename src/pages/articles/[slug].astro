@@ -59,7 +59,22 @@ const showToc = headings.filter((h) => h.depth === 2).length >= 3;
 const related = relatedArticles(article, all);
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 
-const structuredData = [
+// An article's "## FAQ" section (### question, then answer paragraphs) also
+// becomes FAQPage structured data, so search engines and AI assistants can
+// read the questions and answers directly.
+const plain = (md: string) =>
+  md
+    .replace(/!\[[^\]]*\]\([^)]*\)/g, '')
+    .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')
+    .replace(/[*_`]/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+const faqSection = body.match(/^## (?:FAQ|Frequently asked questions)\s*$([\s\S]*?)(?=^## |(?![\s\S]))/im)?.[1] ?? '';
+const faq = [...faqSection.matchAll(/^### (.+)$([\s\S]*?)(?=^### |(?![\s\S]))/gm)]
+  .map(([, q, a]) => ({ q: plain(q), a: plain(a) }))
+  .filter((f) => f.q && f.a);
+
+const structuredData: Record<string, unknown>[] = [
   {
     '@context': 'https://schema.org',
     '@type': 'Article',
@@ -85,6 +100,13 @@ const structuredData = [
     ],
   },
 ];
+if (faq.length >= 2) {
+  structuredData.push({
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+  });
+}
 ---
 
 <BaseLayout

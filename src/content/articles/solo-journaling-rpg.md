@@ -121,7 +121,7 @@ It looks like one, but the content comes from a game. You are writing a characte
 
 ## Write your first page
 
-Journaling games are a quiet, creative way to play, and a lovely first step if group RPGs feel daunting. When you are ready for the table, our explainer on [what a tabletop RPG is](/articles/what-is-a-tabletop-rpg/) and our look at the [benefits of tabletop RPGs](/articles/benefits-of-tabletop-rpgs/) are good next reads. Ludarium Letters, just below, sends new guides as they are published.
+Journaling games are a quiet, creative way to play, and a lovely first step if group RPGs feel daunting. When you are ready for the table, our explainer on [what a tabletop RPG is](/articles/what-is-a-tabletop-rpg/) and our look at the [benefits of tabletop RPGs](/articles/benefits-of-tabletop-rpgs/) are good next reads. Many journaling games fit on one sheet of paper; our guide to [one page RPGs](/articles/one-page-rpgs/) has a few to start with. Ludarium Letters, just below, sends new guides as they are published.
 
 The game is the reason. The people are the point.
 
