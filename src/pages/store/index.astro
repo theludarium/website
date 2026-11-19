@@ -11,6 +11,9 @@ import { TEACH_CARD_PACKS, TEACH_CARD_BUNDLE } from '@/lib/teach-cards';
 import { ONE_PAGER_PRODUCTS } from '@/lib/one-pagers';
 import onePagerBundle from '@/assets/one-pagers/bundle.jpg';
 import onePagerKit from '@/assets/one-pagers/kit.jpg';
+import { BOARD_GAME_PRODUCTS } from '@/lib/board-games';
+import deepCut from '@/assets/board-games/deep-cut.jpg';
+const boardGameImages: Record<string, ImageMetadata> = { 'deep-cut': deepCut };
 
 const onePagerImages: Record<string, ImageMetadata> = { bundle: onePagerBundle, kit: onePagerKit };
 
@@ -31,7 +34,7 @@ const cardPacks = [...TEACH_CARD_PACKS, TEACH_CARD_BUNDLE].map((p) => ({
 
 <BaseLayout
   title="Store"
-  description="Digital goods for your table from The Ludarium: one-page RPGs, printable teach cards and RPG Demo Library adventure PDFs. Checkout is handled securely by Lemon Squeezy."
+  description="Digital goods for your table from The Ludarium: print-and-play board games, one-page RPGs, printable teach cards and RPG Demo Library adventure PDFs. Checkout is handled securely by Lemon Squeezy."
 >
   <section class="store">
     <div class="container store__grid">
@@ -60,7 +63,7 @@ const cardPacks = [...TEACH_CARD_PACKS, TEACH_CARD_BUNDLE].map((p) => ({
         }
         <p class="store__fine">
           Checkout is handled by Lemon Squeezy, which processes payments and sales tax securely. Everything
-          is digital. We do not sell physical games.
+          is digital.
         </p>
       </div>
 
@@ -77,6 +80,30 @@ const cardPacks = [...TEACH_CARD_PACKS, TEACH_CARD_BUNDLE].map((p) => ({
           <h2>Supports the lounge</h2>
           <p>Every purchase helps fund The Ludarium Game Lounge in Indianapolis.</p>
         </li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="section store-pdfs" id="board-games" aria-labelledby="store-boardgames-title">
+    <div class="container">
+      <h2 id="store-boardgames-title">Board games</h2>
+      <p class="store-pdfs__lede">Our own games, ready to print at home: a PDF with the rules, every card and every token.</p>
+      <ul class="store-pdfs__grid">
+        {BOARD_GAME_PRODUCTS.map((p) => (
+          <li class="card store-pdf store-card">
+            <Image src={boardGameImages[p.slug]} alt={p.alt} widths={[200, 400]} sizes="200px" />
+            <div class="store-pdf__body">
+              <p class="eyebrow">{p.eyebrow}</p>
+              <h3>{p.name}</h3>
+              <p class="store-pdf__meta">{p.blurb}</p>
+              <div class="store-pdf__actions">
+                <a class="button" href={p.checkout} rel="noopener">
+                  Buy the PDF, {p.price}
+                </a>
+              </div>
+            </div>
+          </li>
+        ))}
       </ul>
     </div>
   </section>

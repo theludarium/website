@@ -558,3 +558,9 @@ Added the `p:domain_verify` meta tag to BaseLayout so Pinterest can confirm The 
 - **Under the Couch** is free: the newsletter offer on the one-page RPGs guide (Kit form 10213314, incentive download) and a solo browser demo in the RPG Demo Library.
 - **Demo Library adds two outside one-pagers** only where the license is clear: Everyone Is John (CC BY 4.0) and Roll for Shoes (CC0). Grant Howitt's games state no license, and One Page Left forbids AI-assisted derivatives, so neither is used. Check: `revenue-ops/products/one-pagers/demo-licenses.md`.
 - The games and kit are unplaytested at a real table; their odds were checked by math and simulation.
+
+## 2026-11-19: Deep Cut goes on sale
+
+- **Deep Cut v1.0**, The Ludarium's original cooperative print-and-play game, sells on Lemon Squeezy (product 1534068) at $12. Levi playtested it and approved the price. Plan: test $15 after about a month (inside the standing $5 to $15 range).
+- **v1.0 changes from v0.3:** playtest form replaced by an About page with a game log; "Prototype, not for sale" removed; the push rule settled to match the simulation (the failed token goes back in the bag before the redraw). Source and build: `ludarium-ops/research/deep-cut/v1/`.
+- The 25 MB PDF went to Lemon Squeezy through a local relay page, because the browser upload tool caps files at 10 MB.
