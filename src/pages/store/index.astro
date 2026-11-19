@@ -49,7 +49,7 @@ const GROUPS = [
 
 // "New at the table": the three newest things. Change these as new products land.
 const NEW_PICKS = [
-  { href: '#board-games', image: deepCut, alt: 'The Deep Cut cover and game sheets fanned out', eyebrow: 'Board game', name: 'Deep Cut', line: 'A cooperative print-and-play game set in Arkham.' },
+  { href: '/store/deep-cut/', image: deepCut, alt: 'The Deep Cut cover and game sheets fanned out', eyebrow: 'Board game', name: 'Deep Cut', line: 'A cooperative print-and-play game set in Arkham.' },
   { href: '#one-pagers', image: onePagerBundle, alt: 'Pages from Game Night One-Pagers fanned out', eyebrow: 'One-page RPGs', name: 'Game Night One-Pagers', line: 'Ten tiny RPGs about the night you play.' },
   { href: '#tees', image: teesImage, alt: 'A brown tee printed with a small bird and a lightning bolt', eyebrow: 'Tees and hoodies', name: 'The Ludarium shop', line: '25 designs other players will recognize.' },
 ];
@@ -111,6 +111,7 @@ const NEW_PICKS = [
                 <p class="store-pdf__meta">{p.blurb}</p>
                 <div class="store-pdf__actions">
                   <a class="button" href={p.checkout} rel="noopener">Buy the PDF, {p.price}</a>
+                  <a href={`/store/${p.slug}/`}>More about the game</a>
                 </div>
               </div>
             </li>
