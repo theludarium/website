@@ -23,6 +23,7 @@ export const FOUNDER = {
   city: 'Indianapolis, Indiana',
   email: 'lwilson@theludarium.com',
   linkedin: 'https://www.linkedin.com/in/levijawilson/',
+  website: 'https://leviwilson.me/',
   photo: '/images/about/levi-wilson.webp',
 };
 
