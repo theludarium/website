@@ -25,6 +25,7 @@ Write copy that points toward this scale and warmth without overpromising what e
 - Articles and the newsletter build awareness and an email list
 - Game tools (RPG Demo Library, Game Night Madness, more to come) attract and engage players
 - Digital products sold through the Lemon Squeezy store, such as the RPG Demo Library PDFs and future tools
+- Print-on-demand tees and hoodies built on each game's inside references, sold through a separate hosted store (Fourthwall is the front runner), linked out. No inventory. Plan: `ludarium-ops/research/tees/PLAN.md` (decided 2026-11-18)
 - The Ludarium Academy: courses in Game Design and Game Strategy for a specific set of games. Free lessons live on the site; a paid monthly membership that unlocks all courses runs on a hosted course platform
 - Affiliate links to games, publishers and platforms where they genuinely help the reader
 - No tip jar or Patreon (decided 2026-10-23). People who want to back The Ludarium do it by buying something real: a PDF, an Academy membership, and later a lounge membership
@@ -37,7 +38,7 @@ Write copy that points toward this scale and warmth without overpromising what e
 **Phase 2: The Ludarium Game Lounge, Indianapolis**
 - A membership game lounge, like a coworking space where members come to play and spend time together instead of work
 - A community center for every kind of tabletop group: clubs, leagues, store communities, and designers hold their meetups, events, and seminars there
-- Members pay for what they actually want: the community and the space. Groups and clubs can be members too. The Ludarium does not sell physical games or products.
+- Members pay for what they actually want: the community and the space. Groups and clubs can be members too. The Ludarium does not sell or stock games. Print-on-demand merch is the one physical product.
 - Like a great local game store's events and community, minus the retail. Game stores are natural partners: they sell, The Ludarium hosts.
 - Funded by Phase 1 revenue, not built first
 
@@ -67,7 +68,7 @@ Success, in order:
 
 ### Ruled out
 
-Physical product or game sales, display advertising, donation or Patreon-style asks, and paywalled community content. Do not build toward any of these. (Paid Academy courses are allowed; they are structured lessons, not community. Community stays free.)
+Game sales, stocked inventory or retail, display advertising, donation or Patreon-style asks, and paywalled community content. Do not build toward any of these. (Paid Academy courses are allowed; they are structured lessons, not community. Community stays free. Print-on-demand merch is allowed: no inventory, printed per order.)
 
 ## Brand
 
@@ -97,6 +98,7 @@ Physical product or game sales, display advertising, donation or Patreon-style a
 - **Domain:** theludarium.com, attached to the Cloudflare Pages project as a custom domain (apex plus `www`, with `www` redirecting to the apex)
 - **Newsletter:** Kit (formerly ConvertKit) form embed
 - **Store:** Lemon Squeezy store named The Ludarium, linked out (not embedded checkout)
+- **Merch:** a print-on-demand store (Fourthwall front runner, ideally on `shop.theludarium.com`), linked out. Lemon Squeezy does not allow physical goods
 - **Academy courses:** a hosted course platform (to be chosen; Podia and Teachable are the front runners), linked out, ideally on `academy.theludarium.com`. The platform handles logins, billing, and the course player so this site stays static.
 
 Keep it simple. No CMS, database, or user accounts. Add a dependency only when it clearly earns its place, and say why.
@@ -159,6 +161,7 @@ Each article page needs: reading time, a table of contents for long pieces, rela
 - **Corporate event inquiries:** a form asking for name, company, role, email, team size, goals, and timing, which emails Levi. Use a Cloudflare Pages Function or a simple form service; propose the option and ask before choosing.
 - **Affiliate links:** mark them `rel="sponsored noopener"`, keep a reusable component for them, and link the disclosure page wherever they appear.
 - **Store:** link out to Lemon Squeezy. Product cards on the site can link to individual products.
+- **Merch designs:** no game names, logos, art, character names, or copied icons; plain-word card names only; never "meeple" in a listing. Keep merch links off Game Night Madness, Head Judge Arbiter, and any page pairing a Wizards, Disney, Marvel or Pokémon name with a buy button.
 - **Academy:** free lessons are site content (a content collection, like articles) and cross-link with related articles and tools. Paid lessons never live in this repo; enroll buttons link out to the course platform.
 - **Teaching published games:** strategy and design commentary is fine. Publishers' art, rulebook text, and logos need permission.
 

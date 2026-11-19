@@ -542,3 +542,12 @@ Added the `p:domain_verify` meta tag to BaseLayout so Pinterest can confirm The 
 - The repo refreshes `data/rules.json` every Monday. Each site build pulls the newest rules from `main` (only if they parse and are not older), so rule updates go live without a submodule bump.
 - The privacy page now says questions go to Google's Gemini on its free tier, which Google may use to improve its products, and that card lookups go to Scryfall.
 - The app is unofficial Fan Content under Wizards' Fan Content Policy, so it stays free, with no affiliate links or paid features.
+
+## 2026-11-18: Print-on-demand tees and hoodies
+
+- **Physical product rule loosened.** Levi approved selling print-on-demand tees and hoodies. Games and stocked inventory stay ruled out; merch is printed per order, so there is no inventory, retail, or warehouse.
+- **Separate store, linked out.** Lemon Squeezy does not allow physical goods. Fourthwall is the front runner: free plan, custom subdomain, no platform fee on physical products. Not set up yet; the account is Levi's to create.
+- **Designs come from research.** About 650 inside references across the 52 Academy games, with a 24-design launch list. Files: `ludarium-ops/research/tees/`.
+- **IP rules for every design:** no game names, logos, art, character names, or copied icons; no Disney, Marvel or Pokémon anything; card names only when they are plain words; no "meeple" in listings (Hans im Glück has sent cease-and-desist letters over it).
+- **No merch links on Game Night Madness or Head Judge Arbiter,** to protect the BGG non-commercial approval and the Fan Content Policy.
+- **Timing:** the operating plan's new-product pause runs to 2027-01-08; launch date is Levi's call.
