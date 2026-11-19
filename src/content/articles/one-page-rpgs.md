@@ -47,22 +47,22 @@ Every game below is a complete, playable RPG with very short rules, sold by its 
 
 | Game | Designer | Premise | Who plays | Best for |
 |---|---|---|---|---|
-| Lasers & Feelings | John Harper | Space crew on a scout ship | GM and a group | Your first RPG |
-| Honey Heist | Grant Howitt | Bears rob a honey convention | GM and a group | A silly first game |
-| Crash Pandas | Grant Howitt | Raccoons share one car | GM and a group | Pure chaos |
-| The Witch Is Dead | Grant Howitt | Woodland familiars avenge their witch | GM and a group | Halloween, adults only |
-| Everyone Is John | Michael Sullivan | Players are voices in one man's head | GM and a group | Comedy with old friends |
-| Tunnel Goons | Nate Treme | Dungeon crawl in any genre | GM and a group | Classic fantasy |
-| 2400 series | Jason Tocci | Lo-fi sci-fi, one setting per sheet | GM and a group | A step toward campaigns |
-| Adventure Skeletons | Grant Howitt | A skeleton quits guarding a dungeon | GM and about four | Light spooky fun |
-| Super Cool Monster Hunting Club | Grant Howitt | Kids fight monsters with household gear | GM and a group | Playing with kids |
-| Precious Things | Lucas Zellers | Tiny dragons build cozy hoards | GM and 2 to 5 | A cozy family night |
-| Magical Pets | Plotbunny Games | Pets at a magic school | GM and 2 to 6 | A gentle Lasers & Feelings hack |
-| Numbskulls | K-Ramstack | Skeletons try to pass as human | GM and 2 or more | Spooky comedy |
-| One Page Left | M. Kirin | Escape a killer's mansion | Solo | Solo horror |
-| Last Tea Shop Classic | Spring Villager | Tea for the newly dead | Solo or 2 | A quiet evening |
-| Over the Mountain | marchcrow | Life in a mountain town of spirits | Solo | Solo journaling |
-| Polyhedral Garden | Junk Food Games | Grow a garden of dice | Solo | A few minutes a day |
+| [Lasers & Feelings](https://johnharper.itch.io/lasers-feelings) | John Harper | Space crew on a scout ship | GM and a group | Your first RPG |
+| [Honey Heist](https://gshowitt.itch.io/honey-heist) | Grant Howitt | Bears rob a honey convention | GM and a group | A silly first game |
+| [Crash Pandas](https://gshowitt.itch.io/crash-pandas) | Grant Howitt | Raccoons share one car | GM and a group | Pure chaos |
+| [The Witch Is Dead](https://gshowitt.itch.io/the-witch-is-dead) | Grant Howitt | Woodland familiars avenge their witch | GM and a group | Halloween, adults only |
+| [Everyone Is John](https://overlycommonname.github.io/john.html) | Michael Sullivan | Players are voices in one man's head | GM and a group | Comedy with old friends |
+| [Tunnel Goons](https://natetreme.itch.io/tunnelgoons) | Nate Treme | Dungeon crawl in any genre | GM and a group | Classic fantasy |
+| [2400 series](https://jasontocci.itch.io/2400) | Jason Tocci | Lo-fi sci-fi, one setting per sheet | GM and a group | A step toward campaigns |
+| [Adventure Skeletons](https://gshowitt.itch.io/adventure-skeletons) | Grant Howitt | A skeleton quits guarding a dungeon | GM and about four | Light spooky fun |
+| [Super Cool Monster Hunting Club](https://gshowitt.itch.io/super-cool-monster-hunting-club) | Grant Howitt | Kids fight monsters with household gear | GM and a group | Playing with kids |
+| [Precious Things](https://graftbound.itch.io/preciousthings) | Lucas Zellers | Tiny dragons build cozy hoards | GM and 2 to 5 | A cozy family night |
+| [Magical Pets](https://plotbunnygames.itch.io/magical-pets) | Plotbunny Games | Pets at a magic school | GM and 2 to 6 | A gentle Lasers & Feelings hack |
+| [Numbskulls](https://k-ramstack.itch.io/numbskulls) | K-Ramstack | Skeletons try to pass as human | GM and 2 or more | Spooky comedy |
+| [One Page Left](https://mkirin.itch.io/one-page-left) | M. Kirin | Escape a killer's mansion | Solo | Solo horror |
+| [Last Tea Shop Classic](https://springvillager.itch.io/last-tea-shop) | Spring Villager | Tea for the newly dead | Solo or 2 | A quiet evening |
+| [Over the Mountain](https://marchcrow.itch.io/over-the-mountain) | marchcrow | Life in a mountain town of spirits | Solo | Solo journaling |
+| [Polyhedral Garden](https://junkfoodgames.itch.io/polyhedral-garden) | Junk Food Games | Grow a garden of dice | Solo | A few minutes a day |
 
 ## Which one page RPG should you pick?
 
@@ -76,7 +76,7 @@ Every game below is a complete, playable RPG with very short rules, sold by its 
 
 ### Lasers & Feelings
 
-The one-pager that started a thousand hacks. You are the crew of a scout ship, and each character has a single number from 2 to 5. A high number means you are good at Lasers (science, logic, calm action). A low number means you are good at Feelings (intuition, passion, wild action). Roll one d6, plus an extra die if you are prepared and another if you are an expert. For Lasers you want dice under your number; for Feelings, over it. Count the successes. Roll your number exactly and you get a flash of insight, which lets you ask the GM a question and get an honest answer.
+[Lasers & Feelings](https://johnharper.itch.io/lasers-feelings) is the one-pager that started a thousand hacks. You are the crew of a scout ship, and each character has a single number from 2 to 5. A high number means you are good at Lasers (science, logic, calm action). A low number means you are good at Feelings (intuition, passion, wild action). Roll one d6, plus an extra die if you are prepared and another if you are an expert. For Lasers you want dice under your number; for Feelings, over it. Count the successes. Roll your number exactly and you get a flash of insight, which lets you ask the GM a question and get an honest answer.
 
 That tension between two kinds of action is the whole game, and it is brilliant. John Harper released it under a Creative Commons license, which is why you can find versions for wizards, pirates, detectives, and nearly anything else on itch.io.
 
@@ -84,33 +84,33 @@ You can try it before you print it. Our [Lasers & Feelings demo](/rpg-demo-libra
 
 ### Honey Heist
 
-Grant Howitt wrote Honey Heist in 2017, adapting the Lasers & Feelings engine. You are bears in disguise, robbing a honey convention. Each bear has two scores, Bear and Criminal, starting at 3. Success shifts a point toward Criminal; failure shifts it toward Bear. If either hits 6, the heist falls apart: a bear at 6 Bear goes berserk, and a bear at 6 Criminal betrays the gang.
+Grant Howitt wrote [Honey Heist](https://gshowitt.itch.io/honey-heist) in 2017, adapting the Lasers & Feelings engine. You are bears in disguise, robbing a honey convention. Each bear has two scores, Bear and Criminal, starting at 3. Success shifts a point toward Criminal; failure shifts it toward Bear. If either hits 6, the heist falls apart: a bear at 6 Bear goes berserk, and a bear at 6 Criminal betrays the gang.
 
 It became famous after the cast of Critical Role played it on stream. It remains the best "let's just try one right now" game we know.
 
 ### Crash Pandas
 
-Also by Grant Howitt. The players are raccoons in the street-racing scene, and all of them are trying to drive the same souped-up car at the same time. The chaos of a shared steering wheel is the game. It is pay what you want from the publisher Howitt co-founded, Rowan, Rook and Decard.
+[Crash Pandas](https://gshowitt.itch.io/crash-pandas) is also by Grant Howitt. The players are raccoons in the street-racing scene, and all of them are trying to drive the same souped-up car at the same time. The chaos of a shared steering wheel is the game. It is pay what you want from the publisher Howitt co-founded, Rowan, Rook and Decard.
 
 ### The Witch Is Dead
 
-You are a woodland creature, your witch has been killed by a witch-hunter, and you want revenge. One page holds the rules, a short spell list, and tables for plots and enemies. It is a perfect Halloween one-shot. Fair warning: the publisher notes very strong language and some gore, so it is not one for kids.
+In [The Witch Is Dead](https://gshowitt.itch.io/the-witch-is-dead), you are a woodland creature, your witch has been killed by a witch-hunter, and you want revenge. One page holds the rules, a short spell list, and tables for plots and enemies. It is a perfect Halloween one-shot. Fair warning: the publisher notes very strong language and some gore, so it is not one for kids.
 
 Howitt has written about one hundred one-page RPGs. If your group loves these three, his catalog alone could fill a year of game nights.
 
 ### Everyone Is John
 
-Michael Sullivan wrote this in 2002, and it is still one of the strangest and funniest RPGs ever made. John is an unstable man. Each player is a voice in his head with a secret obsession, a couple of skills, and a pool of Willpower. Voices bid Willpower to take control of John, and the GM (who plays "everyone else") reacts as John's day goes off the rails. When every voice runs out of Willpower, John falls asleep and the game ends. The voice that fulfilled its obsession most, weighted by how hard it was, wins.
+Michael Sullivan wrote [Everyone Is John](https://overlycommonname.github.io/john.html) in 2002, and it is still one of the strangest and funniest RPGs ever made. John is an unstable man. Each player is a voice in his head with a secret obsession, a couple of skills, and a pool of Willpower. Voices bid Willpower to take control of John, and the GM (who plays "everyone else") reacts as John's day goes off the rails. When every voice runs out of Willpower, John falls asleep and the game ends. The voice that fulfilled its obsession most, weighted by how hard it was, wins.
 
 The rules are free on Sullivan's website under a Creative Commons license. They run about two to three printed pages, but you will hold the whole game in your head after one read. To try it before you gather a group, play [John's Big Tuesday](/rpg-demo-library/games/everyone-is-john/), our free solo demo where you are one Voice bidding against two others.
 
 ### Tunnel Goons
 
-Nate Treme's Tunnel Goons is a tiny dungeon crawler built on a light 2d6 roll. The whole game fits on one side of a letter-size sheet, and its Creative Commons license has spawned dozens of hacks. It is a good fit for a group that wants classic fantasy without a big book.
+Nate Treme's [Tunnel Goons](https://natetreme.itch.io/tunnelgoons) is a tiny dungeon crawler built on a light 2d6 roll. The whole game fits on one side of a letter-size sheet, and its Creative Commons license has spawned dozens of hacks. It is a good fit for a group that wants classic fantasy without a big book.
 
 ### The 2400 series and other 24XX games
 
-Jason Tocci's 2400 series packs a complete game, usually science fiction, onto the two sides of one letter-size sheet. Each game is its own setting: space truckers, cyberpunk freelancers, a casino heist in the clouds of Venus. They all share one system, called 24XX, built around a single skill die. Two of them, the Emergency Rules and Inner System Blues, are free demo downloads. Our full guide to [what 24XX is and how it works](/articles/what-is-24xx-rpg/) covers the system and the hundreds of games built on it, and our [24XX browser demo](/rpg-demo-library/games/24xx/) lets you play a short rescue mission under the ice.
+Jason Tocci's [2400 series](https://jasontocci.itch.io/2400) packs a complete game, usually science fiction, onto the two sides of one letter-size sheet. Each game is its own setting: space truckers, cyberpunk freelancers, a casino heist in the clouds of Venus. They all share one system, called 24XX, built around a single skill die. Two of them, the Emergency Rules and Inner System Blues, are free demo downloads. Our full guide to [what 24XX is and how it works](/articles/what-is-24xx-rpg/) covers the system and the hundreds of games built on it, and our [24XX browser demo](/rpg-demo-library/games/24xx/) lets you play a short rescue mission under the ice.
 
 ## More one page RPGs worth printing
 
@@ -118,31 +118,31 @@ The seven classics have their own write-ups above. These newer and lesser-known 
 
 ### For kids and families
 
-**Super Cool Monster Hunting Club** is another Grant Howitt one-pager. The players are adventurous kids battling monsters nobody else can see, using whatever they find around the house; a saucepan counts as a helmet. Read it first, as with any Howitt game, but its dress-up premise makes it an easy fit for a family table.
+**[Super Cool Monster Hunting Club](https://gshowitt.itch.io/super-cool-monster-hunting-club)** is another Grant Howitt one-pager. The players are adventurous kids battling monsters nobody else can see, using whatever they find around the house; a saucepan counts as a helmet. Read it first, as with any Howitt game, but its dress-up premise makes it an easy fit for a family table.
 
-**Precious Things** by Lucas Zellers, from Graftbound Press, casts the players as tiny dragons building magical hoards out of household treasures. It is made for a GM and two to five players, runs about an hour and a half, and folds into a small accordion booklet if you print it.
+**[Precious Things](https://graftbound.itch.io/preciousthings)** by Lucas Zellers, from Graftbound Press, casts the players as tiny dragons building magical hoards out of household treasures. It is made for a GM and two to five players, runs about an hour and a half, and folds into a small accordion booklet if you print it.
 
-**Magical Pets** from Plotbunny Games is a Lasers & Feelings hack on two pages. You play the pets of students and staff at a magic school, cleaning up problems while your humans are busy. It uses three six-sided dice and plays with a GM and two to six players.
+**[Magical Pets](https://plotbunnygames.itch.io/magical-pets)** from Plotbunny Games is a Lasers & Feelings hack on two pages. You play the pets of students and staff at a magic school, cleaning up problems while your humans are busy. It uses three six-sided dice and plays with a GM and two to six players.
 
 ### For spooky nights
 
-**Adventure Skeletons** by Grant Howitt follows a skeleton who gets bored of guarding a wizard's dungeon and sets off on an adventure, while humans keep hitting him and bits of him keep falling off. It is built for a GM and about four players.
+**[Adventure Skeletons](https://gshowitt.itch.io/adventure-skeletons)** by Grant Howitt follows a skeleton who gets bored of guarding a wizard's dungeon and sets off on an adventure, while humans keep hitting him and bits of him keep falling off. It is built for a GM and about four players.
 
-**Numbskulls** by K-Ramstack makes you skeleton minions who must pass as human in public while carrying out a necromancer's orders. It runs on 2d6, needs a GM and two or more players, and its designer puts a session at one and a half to three hours.
+**[Numbskulls](https://k-ramstack.itch.io/numbskulls)** by K-Ramstack makes you skeleton minions who must pass as human in public while carrying out a necromancer's orders. It runs on 2d6, needs a GM and two or more players, and its designer puts a session at one and a half to three hours.
 
 ### To play alone
 
 Solo one-pagers swap the game master for prompts and dice. You read a result, then write or imagine what happens.
 
-**One Page Left** by M. Kirin is a solo horror game inspired by slasher films. A killer is loose, you are trapped in a strange mansion, and you play the whole game on one sheet of paper with a d6, a black pen, and a red pen. A run takes thirty minutes to an hour.
+**[One Page Left](https://mkirin.itch.io/one-page-left)** by M. Kirin is a solo horror game inspired by slasher films. A killer is loose, you are trapped in a strange mansion, and you play the whole game on one sheet of paper with a d6, a black pen, and a red pen. A run takes thirty minutes to an hour.
 
-**Last Tea Shop Classic** by Spring Villager is a quiet game about running a tea shop on the border between the living and the dead. The recently departed stop in for one last cup, and you journal their stories. It needs one or two d6, plays in about an hour, and includes a two-player version. Its designer says the Classic edition will always be free.
+**[Last Tea Shop Classic](https://springvillager.itch.io/last-tea-shop)** by Spring Villager is a quiet game about running a tea shop on the border between the living and the dead. The recently departed stop in for one last cup, and you journal their stories. It needs one or two d6, plays in about an hour, and includes a two-player version. Its designer says the Classic edition will always be free.
 
-**Over the Mountain** by marchcrow is a solo rural fantasy journaling game. You live in a small mountain town, meet human and spirit neighbors, collect odd items, and clear the occasional dungeon.
+**[Over the Mountain](https://marchcrow.itch.io/over-the-mountain)** by marchcrow is a solo rural fantasy journaling game. You live in a small mountain town, meet human and spirit neighbors, collect odd items, and clear the occasional dungeon.
 
-**Polyhedral Garden** by Junk Food Games is the smallest game here: a solo game about growing a garden of dice, a few minutes a day. There is no winning, just a garden.
+**[Polyhedral Garden](https://junkfoodgames.itch.io/polyhedral-garden)** by Junk Food Games is the smallest game here: a solo game about growing a garden of dice, a few minutes a day. There is no winning, just a garden.
 
-If you want a tool rather than a game, the free **Juice Oracle** by thunder9861 packs a yes-or-no oracle, random events, and generator tables into a printable pocket fold for any solo RPG. Our guides to [solo RPGs](/articles/solo-rpg/) and [solo journaling RPGs](/articles/solo-journaling-rpg/) go deeper.
+If you want a tool rather than a game, the free **[Juice Oracle](https://thunder9861.itch.io/juice-oracle)** by thunder9861 packs a yes-or-no oracle, random events, and generator tables into a printable pocket fold for any solo RPG. Our guides to [solo RPGs](/articles/solo-rpg/) and [solo journaling RPGs](/articles/solo-journaling-rpg/) go deeper.
 
 ## How do you run a one page RPG tonight?
 
