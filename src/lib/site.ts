@@ -27,7 +27,8 @@ export const FOUNDER = {
   photo: '/images/about/levi-wilson.webp',
 };
 
-export type NavLink = { href: string; label: string; description?: string };
+/** group: a small heading drawn above the first link of each group in a menu. */
+export type NavLink = { href: string; label: string; description?: string; group?: string };
 /** topLink: the label itself links to href, and a separate chevron opens the menu. */
 export type NavItem = NavLink & { children?: NavLink[]; topLink?: boolean };
 
@@ -115,21 +116,26 @@ export const MAIN_NAV: NavItem[] = [
     href: '/play/',
     label: 'Play',
     children: [
-      { href: '/play/', label: 'All tools', description: 'Free tools for players and game nights.' },
-      { href: '/card-catalogue/', label: 'Card Catalogue', description: 'Find games by how they feel. Picks for your whole table.' },
-      { href: '/rpg-demo-library/', label: 'RPG Demo Library', description: 'Try a role-playing game before you buy it.' },
-      { href: '/game-night-madness/', label: 'Game Night Madness', description: 'Let a bracket pick tonight’s game.' },
-      { href: '/head-judge-arbiter/', label: 'Head Judge Arbiter', description: 'Settle a Magic rules question mid-game.' },
-      { href: '/store/', label: 'Store', description: 'PDFs and digital goods for your table.' },
+      { group: 'Play online', href: '/play/', label: 'All tools', description: 'Free tools for players and game nights.' },
+      { group: 'Play online', href: '/card-catalogue/', label: 'Card Catalogue', description: 'Find games by how they feel. Picks for your whole table.' },
+      { group: 'Play online', href: '/rpg-demo-library/', label: 'RPG Demo Library', description: 'Try a role-playing game before you buy it.' },
+      { group: 'Play online', href: '/game-night-madness/', label: 'Game Night Madness', description: 'Let a bracket pick tonight’s game.' },
+      { group: 'Play online', href: '/head-judge-arbiter/', label: 'Head Judge Arbiter', description: 'Settle a Magic rules question mid-game.' },
+      { group: 'Play in person', href: '/lounges/', label: 'The Lounges', description: 'A membership home for players, city by city.' },
+      { group: 'Play in person', href: '/lounges/indianapolis/', label: 'Indianapolis', description: 'Lounge No. 001. Join the waitlist.' },
     ],
   },
   { href: '/academy/', label: 'Academy' },
   {
-    href: '/lounges/',
-    label: 'Lounges',
+    href: '/store/',
+    label: 'Store',
+    topLink: true,
     children: [
-      { href: '/lounges/', label: 'The Lounges', description: 'A membership home for players, city by city.' },
-      { href: '/lounges/indianapolis/', label: 'Indianapolis', description: 'Lounge No. 001. Join the waitlist.' },
+      { href: '/store/', label: 'The whole store', description: 'Everything we make for your table.' },
+      { href: '/store/#games', label: 'Games to play', description: 'Print-and-play board games, one-page RPGs and adventures.' },
+      { href: '/store/#teach', label: 'Teach and host', description: 'Teach cards and kits for whoever runs game night.' },
+      { href: '/store/#wear', label: 'Tees and hoodies', description: 'Inside jokes from the table, printed to order.' },
+      { href: '/store/#read', label: 'Books', description: 'Our books, in paperback and Kindle.' },
     ],
   },
   {
