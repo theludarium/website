@@ -8,6 +8,11 @@ import cover from '@/assets/books/malaphors-cover.jpg';
 import { getDemos } from '@/lib/rpg-demo-library';
 import type { ImageMetadata } from 'astro';
 import { TEACH_CARD_PACKS, TEACH_CARD_BUNDLE } from '@/lib/teach-cards';
+import { ONE_PAGER_PRODUCTS } from '@/lib/one-pagers';
+import onePagerBundle from '@/assets/one-pagers/bundle.jpg';
+import onePagerKit from '@/assets/one-pagers/kit.jpg';
+
+const onePagerImages: Record<string, ImageMetadata> = { bundle: onePagerBundle, kit: onePagerKit };
 
 // Adventure PDFs: one per RPG Demo Library game whose store.js entry has a
 // Lemon Squeezy checkout link. Covers live in src/assets/rpg-pdfs/<demo slug>.jpg.
@@ -26,7 +31,7 @@ const cardPacks = [...TEACH_CARD_PACKS, TEACH_CARD_BUNDLE].map((p) => ({
 
 <BaseLayout
   title="Store"
-  description="Digital goods for your table from The Ludarium: printable teach cards and RPG Demo Library adventure PDFs. Checkout is handled securely by Lemon Squeezy."
+  description="Digital goods for your table from The Ludarium: one-page RPGs, printable teach cards and RPG Demo Library adventure PDFs. Checkout is handled securely by Lemon Squeezy."
 >
   <section class="store">
     <div class="container store__grid">
@@ -72,6 +77,32 @@ const cardPacks = [...TEACH_CARD_PACKS, TEACH_CARD_BUNDLE].map((p) => ({
           <h2>Supports the lounge</h2>
           <p>Every purchase helps fund The Ludarium Game Lounge in Indianapolis.</p>
         </li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="section store-pdfs" id="one-pagers" aria-labelledby="store-onepagers-title">
+    <div class="container">
+      <h2 id="store-onepagers-title">One-page RPGs</h2>
+      <p class="store-pdfs__lede">
+        Complete tabletop roleplaying games on a single printable sheet. Start with <a href="/rpg-demo-library/games/under-the-couch/">Under the Couch</a>, free in your browser, and read our <a href="/articles/one-page-rpgs/">guide to one-page RPGs</a> if you are new to them.
+      </p>
+      <ul class="store-pdfs__grid">
+        {ONE_PAGER_PRODUCTS.map((p) => (
+          <li class="card store-pdf store-card">
+            <Image src={onePagerImages[p.slug]} alt={p.alt} widths={[200, 400]} sizes="200px" />
+            <div class="store-pdf__body">
+              <p class="eyebrow">{p.eyebrow}</p>
+              <h3>{p.name}</h3>
+              <p class="store-pdf__meta">{p.blurb}</p>
+              <div class="store-pdf__actions">
+                <a class="button" href={p.checkout} rel="noopener">
+                  Buy the PDF, {p.price}
+                </a>
+              </div>
+            </div>
+          </li>
+        ))}
       </ul>
     </div>
   </section>
