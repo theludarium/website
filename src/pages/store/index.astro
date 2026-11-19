@@ -1,6 +1,5 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
-import PreviewNote from '@/components/PreviewNote.astro';
 import { STORE_URL } from '@/lib/config';
 import { Image } from 'astro:assets';
 import { MALAPHOR_BOOK as book } from '@/lib/books';
@@ -32,184 +31,211 @@ const cardPacks = [...TEACH_CARD_PACKS, TEACH_CARD_BUNDLE].map((p) => ({
   ...p,
   image: cardImages[`/src/assets/teach-cards/${p.slug}.jpg`]?.default,
 }));
+
+// The design kit sells next to the one-pagers but belongs with the hosting tools.
+const onePagerGames = ONE_PAGER_PRODUCTS.filter((p) => p.slug !== 'kit');
+const designKit = ONE_PAGER_PRODUCTS.find((p) => p.slug === 'kit')!;
+
+// Adventure PDFs: show a few, fold the rest behind "Show all".
+const PDFS_SHOWN = 4;
+
+// The four groups, in page order. The Store menu in src/lib/site.ts links to these anchors.
+const GROUPS = [
+  { id: 'games', label: 'Games to play' },
+  { id: 'teach', label: 'Teach and host' },
+  { id: 'wear', label: 'Tees and hoodies' },
+  { id: 'read', label: 'Books' },
+];
+
+// "New at the table": the three newest things. Change these as new products land.
+const NEW_PICKS = [
+  { href: '#board-games', image: deepCut, alt: 'The Deep Cut cover and game sheets fanned out', eyebrow: 'Board game', name: 'Deep Cut', line: 'A cooperative print-and-play game set in Arkham.' },
+  { href: '#one-pagers', image: onePagerBundle, alt: 'Pages from Game Night One-Pagers fanned out', eyebrow: 'One-page RPGs', name: 'Game Night One-Pagers', line: 'Ten tiny RPGs about the night you play.' },
+  { href: '#tees', image: teesImage, alt: 'A brown tee printed with a small bird and a lightning bolt', eyebrow: 'Tees and hoodies', name: 'The Ludarium shop', line: '25 designs with inside jokes from the table.' },
+];
 ---
 
 <BaseLayout
   title="Store"
-  description="Digital goods for your table from The Ludarium: print-and-play board games, one-page RPGs, teach cards, RPG Demo Library adventure PDFs, plus tees and hoodies with inside jokes from the table."
+  description="Things for your table from The Ludarium: print-and-play board games, one-page RPGs, adventure PDFs, teach cards, books, and tees and hoodies with inside jokes from the table."
 >
   <section class="store">
-    <div class="container store__grid">
-      <div>
-        <p class="eyebrow">The Ludarium store</p>
-        <h1>Digital goods for your table.</h1>
-        <p class="lede">
-          Printable teach cards, adventure PDFs from the RPG Demo Library, and more tools for game night as we make
-          them.
-          Download instantly, play tonight.
-        </p>
-        {
-          STORE_URL ? (
-            <a class="button store__cta" href={STORE_URL} rel="noopener">
-              Visit the store
+    <div class="container">
+      <p class="eyebrow">The Ludarium store</p>
+      <h1>Made for your table.</h1>
+      <p class="lede">
+        Games to print and play tonight, cards that make teaching easy, and shirts with the inside jokes.
+      </p>
+      <p class="store__promise">Try free first, play tonight, and every purchase helps build the Indianapolis lounge.</p>
+      <nav class="store__jump" aria-label="Store sections">
+        {GROUPS.map((g) => <a class="store__chip" href={`#${g.id}`}>{g.label}</a>)}
+      </nav>
+    </div>
+  </section>
+
+  <section class="section store-new" aria-labelledby="store-new-title">
+    <div class="container">
+      <h2 id="store-new-title">New at the table</h2>
+      <ul class="store-new__grid">
+        {NEW_PICKS.map((n) => (
+          <li>
+            <a class="card store-new__card" href={n.href}>
+              <Image src={n.image} alt={n.alt} widths={[160, 320]} sizes="160px" />
+              <div>
+                <p class="eyebrow">{n.eyebrow}</p>
+                <h3>{n.name}</h3>
+                <p>{n.line}</p>
+              </div>
             </a>
-          ) : (
-            <>
-              <p class="store__soon">The store opens soon. Join the newsletter to hear first.</p>
-              <a class="button store__cta" href="/newsletter/">Join the newsletter</a>
-              <PreviewNote>
-                No store link yet. Send Claude your Lemon Squeezy store URL to add the button.
-              </PreviewNote>
-            </>
-          )
-        }
-        <p class="store__fine">
-          Digital goods check out through Lemon Squeezy, which processes payments and sales tax securely.
-          Tees and hoodies are printed to order and shipped by Fourthwall.
-        </p>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <section class="section store-group" id="games" aria-labelledby="store-games-title">
+    <div class="container">
+      <h2 class="store-group__title" id="store-games-title">Games to play</h2>
+      <p class="store-group__lede">Complete games to print at home and play tonight.</p>
+
+      <div class="store-sub" id="board-games">
+        <h3 class="store-sub__title">Board games</h3>
+        <p class="store-sub__lede">Our own games: a PDF with the rules, every card and every token.</p>
+        <ul class="store-pdfs__grid">
+          {BOARD_GAME_PRODUCTS.map((p) => (
+            <li class="card store-pdf store-card">
+              <Image src={boardGameImages[p.slug]} alt={p.alt} widths={[200, 400]} sizes="200px" />
+              <div class="store-pdf__body">
+                <p class="eyebrow">{p.eyebrow}</p>
+                <h4>{p.name}</h4>
+                <p class="store-pdf__meta">{p.blurb}</p>
+                <div class="store-pdf__actions">
+                  <a class="button" href={p.checkout} rel="noopener">Buy the PDF, {p.price}</a>
+                </div>
+              </div>
+            </li>
+          ))}
+        </ul>
       </div>
 
-      <ul class="store__points">
-        <li class="card">
-          <h2>Try before you buy</h2>
-          <p>Play a free intro adventure in the <a href="/rpg-demo-library/">RPG Demo Library</a>, then grab the full PDF if you love it.</p>
-        </li>
-        <li class="card">
-          <h2>Open-license games</h2>
-          <p>We publish adventures for open-license role-playing games, made to share at any table.</p>
-        </li>
-        <li class="card">
-          <h2>Supports the lounge</h2>
-          <p>Every purchase helps fund The Ludarium Game Lounge in Indianapolis.</p>
-        </li>
-      </ul>
-    </div>
-  </section>
-
-  <section class="section store-pdfs" id="board-games" aria-labelledby="store-boardgames-title">
-    <div class="container">
-      <h2 id="store-boardgames-title">Board games</h2>
-      <p class="store-pdfs__lede">Our own games, ready to print at home: a PDF with the rules, every card and every token.</p>
-      <ul class="store-pdfs__grid">
-        {BOARD_GAME_PRODUCTS.map((p) => (
-          <li class="card store-pdf store-card">
-            <Image src={boardGameImages[p.slug]} alt={p.alt} widths={[200, 400]} sizes="200px" />
-            <div class="store-pdf__body">
-              <p class="eyebrow">{p.eyebrow}</p>
-              <h3>{p.name}</h3>
-              <p class="store-pdf__meta">{p.blurb}</p>
-              <div class="store-pdf__actions">
-                <a class="button" href={p.checkout} rel="noopener">
-                  Buy the PDF, {p.price}
-                </a>
-              </div>
-            </div>
-          </li>
-        ))}
-      </ul>
-    </div>
-  </section>
-
-  <section class="section store-pdfs" id="one-pagers" aria-labelledby="store-onepagers-title">
-    <div class="container">
-      <h2 id="store-onepagers-title">One-page RPGs</h2>
-      <p class="store-pdfs__lede">
-        Complete tabletop roleplaying games on a single printable sheet. Start with <a href="/rpg-demo-library/games/under-the-couch/">Under the Couch</a>, free in your browser, and read our <a href="/articles/one-page-rpgs/">guide to one-page RPGs</a> if you are new to them.
-      </p>
-      <ul class="store-pdfs__grid">
-        {ONE_PAGER_PRODUCTS.map((p) => (
-          <li class="card store-pdf store-card">
-            <Image src={onePagerImages[p.slug]} alt={p.alt} widths={[200, 400]} sizes="200px" />
-            <div class="store-pdf__body">
-              <p class="eyebrow">{p.eyebrow}</p>
-              <h3>{p.name}</h3>
-              <p class="store-pdf__meta">{p.blurb}</p>
-              <div class="store-pdf__actions">
-                <a class="button" href={p.checkout} rel="noopener">
-                  Buy the PDF, {p.price}
-                </a>
-              </div>
-            </div>
-          </li>
-        ))}
-      </ul>
-    </div>
-  </section>
-
-  <section class="section store-pdfs" aria-labelledby="store-cards-title">
-    <div class="container">
-      <h2 id="store-cards-title">Teach cards</h2>
-      <p class="store-pdfs__lede">
-        Print-and-cut cards that put the rules in every player's hand, with a ten-minute teach script for the host.
-        Each pack pairs with a free <a href="/academy/">Academy</a> course.
-      </p>
-      <ul class="store-pdfs__grid">
-        {cardPacks.map((p) => (
-          <li class="card store-pdf store-card">
-            {p.image && <Image src={p.image} alt={p.slug === 'bundle' ? 'Teach card sheets for all four games' : `A sheet of ${p.game} teach cards`} widths={[200, 400]} sizes="200px" />}
-            <div class="store-pdf__body">
-              <p class="eyebrow">{p.game}</p>
-              <h3>{p.name}</h3>
-              <p class="store-pdf__meta">{p.blurb}</p>
-              <div class="store-pdf__actions">
-                <a class="button" href={p.checkout} rel="noopener">
-                  Buy the PDF, {p.price}
-                </a>
-                {p.slug !== 'bundle' && <a href={`/academy/${p.slug}/`}>Free course</a>}
-              </div>
-            </div>
-          </li>
-        ))}
-      </ul>
-    </div>
-  </section>
-
-  {
-    pdfs.length > 0 && (
-      <section class="section store-pdfs" aria-labelledby="store-pdfs-title">
-        <div class="container">
-          <h2 id="store-pdfs-title">Adventure PDFs</h2>
-          <p class="store-pdfs__lede">
-            Each one is a complete solo adventure plus the rules you need to play it. Play Act One free first, then
-            keep going.
-          </p>
-          <ul class="store-pdfs__grid">
-            {pdfs.map((d) => (
-              <li class="card store-pdf">
-                {d.cover && (
-                  <Image src={d.cover} alt={`Cover of ${d.product.name}`} widths={[200, 400]} sizes="200px" />
-                )}
-                <div class="store-pdf__body">
-                  <p class="eyebrow">{d.product.game}</p>
-                  <h3>{d.product.name}</h3>
-                  <p class="store-pdf__meta">
-                    PDF{d.product.pages ? `, ${d.product.pages} pages` : ''}
-                  </p>
-                  <div class="store-pdf__actions">
-                    <a class="button" href={d.product.checkout} rel="noopener">
-                      Buy the PDF, {d.product.price}
-                    </a>
-                    <a href={d.href}>Play Act One free</a>
-                  </div>
+      <div class="store-sub" id="one-pagers">
+        <h3 class="store-sub__title">One-page RPGs</h3>
+        <p class="store-sub__lede">
+          Complete roleplaying games on a single printable sheet. Start with <a href="/rpg-demo-library/games/under-the-couch/">Under the Couch</a>, free in your browser, and read our <a href="/articles/one-page-rpgs/">guide to one-page RPGs</a> if you are new to them.
+        </p>
+        <ul class="store-pdfs__grid">
+          {onePagerGames.map((p) => (
+            <li class="card store-pdf store-card">
+              <Image src={onePagerImages[p.slug]} alt={p.alt} widths={[200, 400]} sizes="200px" />
+              <div class="store-pdf__body">
+                <p class="eyebrow">{p.eyebrow}</p>
+                <h4>{p.name}</h4>
+                <p class="store-pdf__meta">{p.blurb}</p>
+                <div class="store-pdf__actions">
+                  <a class="button" href={p.checkout} rel="noopener">Buy the PDF, {p.price}</a>
                 </div>
-              </li>
-            ))}
-          </ul>
-        </div>
-      </section>
-    )
-  }
+              </div>
+            </li>
+          ))}
+        </ul>
+      </div>
 
-  <section class="section store-pdfs" id="tees" aria-labelledby="store-tees-title">
+      {
+        pdfs.length > 0 && (
+          <div class="store-sub" id="adventures">
+            <h3 class="store-sub__title">Adventure PDFs</h3>
+            <p class="store-sub__lede">
+              Each one is a complete solo adventure plus the rules you need to play it. Play Act One free in the <a href="/rpg-demo-library/">RPG Demo Library</a> first, then keep going.
+            </p>
+            {[pdfs.slice(0, PDFS_SHOWN), pdfs.slice(PDFS_SHOWN)].map((list, k) => {
+              const items = (
+                <ul class="store-pdfs__grid">
+                  {list.map((d) => (
+                    <li class="card store-pdf">
+                      {d.cover && <Image src={d.cover} alt={`Cover of ${d.product.name}`} widths={[200, 400]} sizes="200px" />}
+                      <div class="store-pdf__body">
+                        <p class="eyebrow">{d.product.game}</p>
+                        <h4>{d.product.name}</h4>
+                        <p class="store-pdf__meta">PDF{d.product.pages ? `, ${d.product.pages} pages` : ''}</p>
+                        <div class="store-pdf__actions">
+                          <a class="button" href={d.product.checkout} rel="noopener">Buy the PDF, {d.product.price}</a>
+                          <a href={d.href}>Play Act One free</a>
+                        </div>
+                      </div>
+                    </li>
+                  ))}
+                </ul>
+              );
+              return k === 0 ? items : list.length > 0 && (
+                <details class="store-more">
+                  <summary class="button button--ghost">Show all {pdfs.length} adventures</summary>
+                  {items}
+                </details>
+              );
+            })}
+          </div>
+        )
+      }
+    </div>
+  </section>
+
+  <section class="section store-group" id="teach" aria-labelledby="store-teach-title">
     <div class="container">
-      <h2 id="store-tees-title">Tees and hoodies</h2>
-      <p class="store-pdfs__lede">Inside jokes from the table, for the people who get them. Printed to order and shipped to your door.</p>
-      <ul class="store-pdfs__grid">
+      <h2 class="store-group__title" id="store-teach-title">Teach and host</h2>
+      <p class="store-group__lede">
+        For whoever runs game night. Each teach card pack pairs with a free <a href="/academy/">Academy</a> course.
+      </p>
+
+      <div class="store-sub" id="teach-cards">
+        <h3 class="store-sub__title">Teach cards</h3>
+        <p class="store-sub__lede">Print-and-cut cards that put the rules in every player's hand, with a ten-minute teach script for the host.</p>
+        <ul class="store-pdfs__grid">
+          {cardPacks.map((p) => (
+            <li class="card store-pdf store-card">
+              {p.image && <Image src={p.image} alt={p.slug === 'bundle' ? 'Teach card sheets for all four games' : `A sheet of ${p.game} teach cards`} widths={[200, 400]} sizes="200px" />}
+              <div class="store-pdf__body">
+                <p class="eyebrow">{p.game}</p>
+                <h4>{p.name}</h4>
+                <p class="store-pdf__meta">{p.blurb}</p>
+                <div class="store-pdf__actions">
+                  <a class="button" href={p.checkout} rel="noopener">Buy the PDF, {p.price}</a>
+                  {p.slug !== 'bundle' && <a href={`/academy/${p.slug}/`}>Free course</a>}
+                </div>
+              </div>
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      <div class="store-sub" id="design-kit">
+        <h3 class="store-sub__title">Design kits</h3>
+        <ul class="store-pdfs__grid">
+          <li class="card store-pdf store-card">
+            <Image src={onePagerImages[designKit.slug]} alt={designKit.alt} widths={[200, 400]} sizes="200px" />
+            <div class="store-pdf__body">
+              <p class="eyebrow">{designKit.eyebrow}</p>
+              <h4>{designKit.name}</h4>
+              <p class="store-pdf__meta">{designKit.blurb}</p>
+              <div class="store-pdf__actions">
+                <a class="button" href={designKit.checkout} rel="noopener">Buy the PDF, {designKit.price}</a>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="section store-group" id="wear" aria-labelledby="store-wear-title">
+    <div class="container">
+      <h2 class="store-group__title" id="store-wear-title">Tees and hoodies</h2>
+      <p class="store-group__lede">Inside jokes from the table, for the people who get them. Printed to order and shipped to your door.</p>
+      <ul class="store-pdfs__grid" id="tees">
         <li class="card store-pdf store-card">
           <Image src={teesImage} alt="A brown tee printed with a small bird, a lightning bolt and the words Always bolt the bird" widths={[200, 400]} sizes="200px" />
           <div class="store-pdf__body">
             <p class="eyebrow">The Ludarium shop</p>
-            <h3>25 designs, tees and hoodies</h3>
+            <h4>25 designs, tees and hoodies</h4>
             <p class="store-pdf__meta">Tees $25, hoodies $45. Inspired by the games we teach in the Academy.</p>
             <div class="store-pdf__actions">
               <a class="button" href={SHOP_URL} rel="noopener">Shop tees and hoodies</a>
@@ -220,9 +246,9 @@ const cardPacks = [...TEACH_CARD_PACKS, TEACH_CARD_BUNDLE].map((p) => ({
     </div>
   </section>
 
-  <section class="section store-books" aria-labelledby="store-books-title">
+  <section class="section store-group" id="read" aria-labelledby="store-read-title">
     <div class="container">
-      <h2 id="store-books-title">Books</h2>
+      <h2 class="store-group__title" id="store-read-title">Books</h2>
       <a class="card store-book" href={`/books/${book.slug}/`}>
         <Image src={cover} alt={`Cover of ${book.title}`} widths={[160, 320]} sizes="160px" />
         <div>
@@ -233,6 +259,14 @@ const cardPacks = [...TEACH_CARD_PACKS, TEACH_CARD_BUNDLE].map((p) => ({
       </a>
     </div>
   </section>
+
+  <section class="section store-fine">
+    <div class="container">
+      <p>
+        Digital goods check out through Lemon Squeezy, which processes payments and sales tax securely{STORE_URL ? <>. You can also <a href={STORE_URL} rel="noopener">browse the whole Lemon Squeezy store</a>.</> : '.'} Tees and hoodies are printed to order and shipped by Fourthwall. Books are sold on Amazon.
+      </p>
+    </div>
+  </section>
 </BaseLayout>
 
 <style>
@@ -240,11 +274,140 @@ const cardPacks = [...TEACH_CARD_PACKS, TEACH_CARD_BUNDLE].map((p) => ({
     padding-block: var(--space-9) var(--space-8);
   }
 
-  .store__grid {
+
+  .store__promise {
+    margin-top: var(--space-4);
+    font-weight: 600;
+  }
+
+  .store__jump {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+    margin-top: var(--space-6);
+  }
+
+  .store__chip {
+    padding: var(--space-2) var(--space-4);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-pill);
+    background: var(--color-surface);
+    color: var(--color-text);
+    font-weight: 600;
+    font-size: var(--text-sm);
+    text-decoration: none;
+  }
+
+  .store__chip:hover {
+    border-color: var(--color-primary);
+    color: var(--color-primary);
+  }
+
+  .store-new,
+  .store-group,
+  .store-fine {
+    padding-top: 0;
+  }
+
+  .store-new h2,
+  .store-group__title {
+    margin: 0 0 var(--space-2);
+    font-size: var(--text-3xl);
+  }
+
+  .store-new h2 {
+    margin-bottom: var(--space-5);
+    font-size: var(--text-2xl);
+  }
+
+  .store-new__grid {
     display: grid;
-    grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr);
-    gap: var(--space-8);
-    align-items: start;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 17rem), 1fr));
+    gap: var(--space-4);
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .store-new__card {
+    flex-direction: row;
+    align-items: center;
+    gap: var(--space-4);
+    height: 100%;
+    color: var(--color-text);
+    text-decoration: none;
+  }
+
+  .store-new__card img {
+    flex: none;
+    width: 5rem;
+    height: 5rem;
+    object-fit: cover;
+    border-radius: var(--radius-sm);
+  }
+
+  .store-new__card h3 {
+    margin: 0;
+    font-size: var(--text-lg);
+  }
+
+  .store-new__card p {
+    margin: 0;
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+
+  .store-new__card .eyebrow {
+    margin-bottom: var(--space-1);
+  }
+
+  .store-group {
+    scroll-margin-top: 5.5rem;
+  }
+
+  .store-group__lede {
+    max-width: 40rem;
+    margin: 0 0 var(--space-7);
+    color: var(--color-text-muted);
+  }
+
+  .store-sub {
+    margin-bottom: var(--space-8);
+    scroll-margin-top: 5.5rem;
+  }
+
+  .store-sub__title {
+    margin: 0 0 var(--space-2);
+    font-size: var(--text-xl);
+  }
+
+  .store-sub__lede {
+    max-width: 40rem;
+    margin: 0 0 var(--space-5);
+    color: var(--color-text-muted);
+  }
+
+  .store-more {
+    margin-top: var(--space-5);
+  }
+
+  .store-more summary {
+    list-style: none;
+    cursor: pointer;
+  }
+
+  .store-more summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .store-more[open] summary {
+    display: none;
+  }
+
+  .store-fine p {
+    max-width: 40rem;
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
   }
 
   .store h1 {
@@ -252,34 +415,10 @@ const cardPacks = [...TEACH_CARD_PACKS, TEACH_CARD_BUNDLE].map((p) => ({
     font-size: var(--text-4xl);
   }
 
-  .store__cta {
-    margin-top: var(--space-5);
-  }
 
-  .store__soon {
-    margin-top: var(--space-5);
-    font-weight: 600;
-  }
 
-  .store__fine {
-    max-width: 30rem;
-    margin-top: var(--space-6);
-    font-size: var(--text-sm);
-    color: var(--color-text-muted);
-  }
 
-  .store__points {
-    display: grid;
-    gap: var(--space-4);
-    list-style: none;
-    margin: 0;
-    padding: 0;
-  }
 
-  .store__points h2 {
-    margin: 0 0 var(--space-2);
-    font-size: var(--text-lg);
-  }
 
   .store-pdfs {
     padding-top: 0;
@@ -319,7 +458,7 @@ const cardPacks = [...TEACH_CARD_PACKS, TEACH_CARD_BUNDLE].map((p) => ({
     box-shadow: var(--shadow-md);
   }
 
-  .store-pdf h3 {
+  .store-pdf h4 {
     margin: 0;
     font-size: var(--text-lg);
   }
@@ -374,11 +513,6 @@ const cardPacks = [...TEACH_CARD_PACKS, TEACH_CARD_BUNDLE].map((p) => ({
     box-shadow: var(--shadow-md);
   }
 
-  @media (max-width: 52rem) {
-    .store__grid {
-      grid-template-columns: 1fr;
-    }
-  }
 
   @media (max-width: 36rem) {
     .store-book {

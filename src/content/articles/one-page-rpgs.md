@@ -241,7 +241,7 @@ Hand the page to friends and watch them play without your help. Every question t
 Upload a PDF to itch.io as pay what you want, or enter it in the next One-Page RPG Jam. A jam gives you a deadline and an audience on day one.
 
 
-Want the long version? Our [Make Your Own One-Page RPG](/store/#one-pagers) kit turns these six steps into a weekend workbook, with a premise spark table, a dice menu with the odds worked out, a word budget, and a playtest script.
+Want the long version? Our [Make Your Own One-Page RPG](/store/#design-kit) kit turns these six steps into a weekend workbook, with a premise spark table, a dice menu with the odds worked out, a word budget, and a playtest script.
 ## FAQ
 
 ### What is the best one page RPG for beginners?
