@@ -51,20 +51,20 @@ const GROUPS = [
 const NEW_PICKS = [
   { href: '#board-games', image: deepCut, alt: 'The Deep Cut cover and game sheets fanned out', eyebrow: 'Board game', name: 'Deep Cut', line: 'A cooperative print-and-play game set in Arkham.' },
   { href: '#one-pagers', image: onePagerBundle, alt: 'Pages from Game Night One-Pagers fanned out', eyebrow: 'One-page RPGs', name: 'Game Night One-Pagers', line: 'Ten tiny RPGs about the night you play.' },
-  { href: '#tees', image: teesImage, alt: 'A brown tee printed with a small bird and a lightning bolt', eyebrow: 'Tees and hoodies', name: 'The Ludarium shop', line: '25 designs with inside jokes from the table.' },
+  { href: '#tees', image: teesImage, alt: 'A brown tee printed with a small bird and a lightning bolt', eyebrow: 'Tees and hoodies', name: 'The Ludarium shop', line: '25 designs other players will recognize.' },
 ];
 ---
 
 <BaseLayout
   title="Store"
-  description="Things for your table from The Ludarium: print-and-play board games, one-page RPGs, adventure PDFs, teach cards, books, and tees and hoodies with inside jokes from the table."
+  description="Things for your table from The Ludarium: print-and-play board games, one-page RPGs, adventure PDFs, teach cards, books, and tees and hoodies other players will recognize."
 >
   <section class="store">
     <div class="container">
       <p class="eyebrow">The Ludarium store</p>
       <h1>Made for your table.</h1>
       <p class="lede">
-        Games to print and play tonight, cards that make teaching easy, and shirts with the inside jokes.
+        Games to print and play tonight, cards that make teaching easy, and shirts other players will recognize.
       </p>
       <p class="store__promise">Try free first, play tonight, and every purchase helps build the Indianapolis lounge.</p>
       <nav class="store__jump" aria-label="Store sections">
@@ -229,7 +229,7 @@ const NEW_PICKS = [
   <section class="section store-group" id="wear" aria-labelledby="store-wear-title">
     <div class="container">
       <h2 class="store-group__title" id="store-wear-title">Tees and hoodies</h2>
-      <p class="store-group__lede">Inside jokes from the table, for the people who get them. Printed to order and shipped to your door.</p>
+      <p class="store-group__lede">Each design is a nod to a moment every player of that game knows. If you know, you know. Printed to order and shipped to your door.</p>
       <ul class="store-pdfs__grid" id="tees">
         <li class="card store-pdf store-card">
           <Image src={teesImage} alt="A brown tee printed with a small bird, a lightning bolt and the words Always bolt the bird" widths={[200, 400]} sizes="200px" />
