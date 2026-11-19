@@ -15,6 +15,8 @@ nextTeaser: "Next, the last piece of Level 0: scoring a full game by hand, so th
 
 The fix is to teach the three choices, deal the tickets, and let the map do the rest. Here is a script in the order you would say it, with the places to stop talking. Print the [Ticket to Ride teach sheet](/academy/ticket-to-ride/teach-sheet/) and set it where everyone can read it.
 
+Want a reference at every seat too? Our [printable Ticket to Ride teach cards](https://theludarium.lemonsqueezy.com/checkout/buy/5ae13b67-b0ea-4743-82e5-e0242cd4dca9) put the turn in every hand, with a ten-minute teach script and cards for a clean ticket reveal and the longest path count.
+
 ## Before anyone sits down
 
 Set up everything except the tickets. Board in the middle, every scoring marker on 0. Count out 45 trains per player; there are spares in the box, and an extra train or two changes the ending. Deal 4 train cards to each seat and turn 5 face up.
