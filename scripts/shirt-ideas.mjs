@@ -1,4 +1,4 @@
-// Lists the shirt ideas people sent from /store/#suggest-a-shirt (D1 table shirt_ideas).
+// Lists the shirt ideas people sent from /store/suggest-a-shirt/ (D1 table shirt_ideas).
 //   node scripts/shirt-ideas.mjs            newest first, every status
 //   node scripts/shirt-ideas.mjs new        only one status: new, maybe, made, passed
 //   node scripts/shirt-ideas.mjs --mark 12 made    set idea 12's status

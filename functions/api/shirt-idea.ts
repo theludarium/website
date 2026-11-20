@@ -1,6 +1,6 @@
 // Shirt ideas: POST /api/shirt-idea
 //
-// A visitor suggests a tee or hoodie design from the form at /store/#suggest-a-shirt.
+// A visitor suggests a tee or hoodie design from the form at /store/suggest-a-shirt/.
 // 1. Drops obvious bots (hidden honeypot field) and checks Cloudflare Turnstile.
 // 2. Validates the fields and limits each visitor to 5 ideas an hour.
 // 3. Saves the idea to D1 (table shirt_ideas, migrations/0004_shirt_ideas.sql).
@@ -109,7 +109,7 @@ async function sha256Hex(text: string): Promise<string> {
 }
 
 const redirect = (request: Request, path: string) => Response.redirect(new URL(path, request.url).toString(), 303);
-const back = (request: Request, error: string) => redirect(request, `/store/?idea_error=${error}#suggest-a-shirt`);
+const back = (request: Request, error: string) => redirect(request, `/store/suggest-a-shirt/?idea_error=${error}#form`);
 
 export async function onRequestPost({ request, env }: Context): Promise<Response> {
   let form: FormData;
@@ -120,7 +120,7 @@ export async function onRequestPost({ request, env }: Context): Promise<Response
   }
 
   // Honeypot: people never see this field; bots tend to fill it. Pretend it worked.
-  if (field(form, 'website')) return redirect(request, '/store/?idea=sent#suggest-a-shirt');
+  if (field(form, 'website')) return redirect(request, '/store/suggest-a-shirt/?idea=sent#form');
 
   if (!env.DB || !env.TURNSTILE_SECRET_KEY) {
     console.error('Shirt idea form is missing the DB binding or TURNSTILE_SECRET_KEY');
@@ -162,5 +162,5 @@ export async function onRequestPost({ request, env }: Context): Promise<Response
     text: emailText(idea, id),
   });
 
-  return redirect(request, '/store/?idea=sent#suggest-a-shirt');
+  return redirect(request, '/store/suggest-a-shirt/?idea=sent#form');
 }
