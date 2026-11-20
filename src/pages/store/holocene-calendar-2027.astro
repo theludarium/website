@@ -143,14 +143,16 @@ const faqLd = {
           <span class="hc-buy__note">Instant download. Print at home and hang it by the game shelf.</span>
         </div>
       </div>
-      <Image
-        class="hc-hero__image"
-        src={storeImage}
-        alt="Pages from the 12,000 Years of Play calendar: the cover, October and June"
-        widths={[480, 800, 1200]}
-        sizes="(max-width: 52rem) 100vw, 36rem"
-        loading="eager"
-      />
+      <a class="hc-hero__link" href={cal.checkout} rel="noopener" aria-label={`${buyLabel} on Lemon Squeezy`}>
+        <Image
+          class="hc-hero__image"
+          src={storeImage}
+          alt="Pages from the 12,000 Years of Play calendar: the cover, October and June"
+          widths={[480, 800, 1200]}
+          sizes="(max-width: 52rem) 100vw, 36rem"
+          loading="eager"
+        />
+      </a>
     </div>
     <div class="container">
       <dl class="hc-facts">
@@ -365,6 +367,27 @@ const faqLd = {
 
   .hc-hero .eyebrow a {
     color: inherit;
+  }
+
+  .hc-hero__link {
+    display: block;
+    border-radius: var(--radius-lg);
+    transition: transform 160ms ease;
+  }
+
+  .hc-hero__link:hover {
+    transform: translateY(-2px);
+  }
+
+  .hc-hero__link:focus-visible {
+    outline: 3px solid var(--color-primary);
+    outline-offset: 4px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .hc-hero__link {
+      transition: none;
+    }
   }
 
   .hc-hero__image {
