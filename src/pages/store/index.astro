@@ -15,7 +15,6 @@ import { CALENDAR_PRODUCTS } from '@/lib/calendars';
 import holoceneImage from '@/assets/calendars/holocene-2027.jpg';
 import deepCut from '@/assets/board-games/deep-cut.jpg';
 import { SHOP_URL } from '@/lib/merch';
-import ShirtIdeaForm from '@/components/ShirtIdeaForm.astro';
 import teesImage from '@/assets/merch/tees.jpg';
 const boardGameImages: Record<string, ImageMetadata> = { 'deep-cut': deepCut };
 const calendarImages: Record<string, ImageMetadata> = { 'holocene-2027': holoceneImage };
@@ -249,14 +248,9 @@ const NEW_PICKS = [
         </li>
       </ul>
 
-      <div class="store-sub" id="suggest-a-shirt">
-        <h3 class="store-sub__title">Suggest a shirt</h3>
-        <p class="store-sub__lede">
-          Know a line or a moment that every player of your game would recognize? Tell us. We read every idea, and the
-          best ones become new designs, with credit if you want it.
-        </p>
-        <ShirtIdeaForm />
-      </div>
+      <p class="store-suggest" id="suggest-a-shirt">
+        Know a line every player of your game would recognize? <a href="/store/suggest-a-shirt/">Suggest a shirt</a>, and the best ideas become new designs.
+      </p>
     </div>
   </section>
 
@@ -441,6 +435,11 @@ const NEW_PICKS = [
 
   .store-more[open] summary {
     display: none;
+  }
+
+  .store-suggest {
+    margin: var(--space-5) 0 0;
+    color: var(--color-text-muted);
   }
 
   .store-fine p {
