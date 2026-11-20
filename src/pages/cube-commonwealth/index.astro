@@ -22,7 +22,7 @@ import { CUBE_DISCORD_URL, CUBE_VALUES, CQC_STAMPS, CQC_CITIES } from '@/lib/cub
         </p>
         <div class="cc-actions">
           <a class="button" href={CUBE_DISCORD_URL} rel="noopener">Join the Discord</a>
-          <a class="button button--ghost" href="#cqc">The Cube Quarterly Celebration</a>
+          <a class="button button--ghost" href="#cube-newsletter">Join the Cube Newsletter</a>
         </div>
       </div>
       <dl class="cc-stats card">
@@ -161,12 +161,12 @@ import { CUBE_DISCORD_URL, CUBE_VALUES, CQC_STAMPS, CQC_CITIES } from '@/lib/cub
         </ul>
       </div>
 
-      <div class="cc-signup card">
+      <div class="cc-signup card" id="cube-newsletter">
         <div>
-          <h3>Get the CQC dates first</h3>
-          <p>The Cube letter brings CQC news, Cube Commonwealth updates, and draft guides. Free, and you can leave anytime.</p>
+          <h3>Join the Cube Newsletter</h3>
+          <p>Get the CQC dates first, plus Cube Commonwealth news and draft guides. Free, and you can leave anytime.</p>
         </div>
-        <NewsletterForm id="cc-signup" letters="cube" buttonLabel="Send me CQC dates" />
+        <NewsletterForm id="cc-signup" letters="cube" buttonLabel="Join the Cube Newsletter" />
       </div>
     </div>
   </section>
@@ -455,6 +455,7 @@ import { CUBE_DISCORD_URL, CUBE_VALUES, CQC_STAMPS, CQC_CITIES } from '@/lib/cub
   }
 
   .cc-signup {
+    scroll-margin-top: 6rem;
     display: grid;
     grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
     gap: var(--space-6);
