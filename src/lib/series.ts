@@ -43,6 +43,17 @@ const TAG_SERIES: Series[] = [
   { slug: 'cube-design-philosophy', tag: 'cube design philosophy', name: 'Cube design philosophy', blurb: 'The questions behind every card in a cube.', category: 'Magic & Cube' },
 ];
 
+// Books and fiction that tabletop players love, read in a set order.
+const BOOK_SERIES: Series[] = [
+  {
+    slug: 'dungeon-crawler-carl',
+    name: 'Dungeon Crawler Carl',
+    blurb: 'The novels that read like a tabletop campaign, the official RPG, and how to run the dungeon at your own table.',
+    category: 'Game Culture',
+    order: ['dungeon-crawler-carl-for-rpg-players', 'dungeon-crawler-carl-books-in-order', 'dungeon-crawler-carl-rpg', 'run-a-dungeon-crawler-carl-game'],
+  },
+];
+
 const SHELF_SERIES: Series[] = GAME_SHELF_SERIES.map((s) => ({
   slug: s.slug,
   name: s.name,
@@ -51,7 +62,7 @@ const SHELF_SERIES: Series[] = GAME_SHELF_SERIES.map((s) => ({
   order: s.articles.map((a) => a.slug),
 }));
 
-export const SERIES: Series[] = [...TAG_SERIES, ...SHELF_SERIES];
+export const SERIES: Series[] = [...TAG_SERIES, ...BOOK_SERIES, ...SHELF_SERIES];
 
 const slugOf = (a: Article) => a.id.replace(/\.(md|mdx)$/, '');
 

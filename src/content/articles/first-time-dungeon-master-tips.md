@@ -92,6 +92,8 @@ Ask one question: "What was your favorite moment?" Each answer tells you what to
 
 Write three lines of notes while it is fresh: what happened, what the players seemed to want, and what you would do differently. That is the entire post-session workload. You are now a Dungeon Master, which is a title you earn by doing it once and keep by doing it again.
 
+**Looking for a book that reads like a campaign?** [Dungeon Crawler Carl](/articles/dungeon-crawler-carl-for-rpg-players/) is a novel series built from everything RPG players know: levels, loot, a party, and a game master who enjoys the chaos.
+
 ## FAQ
 
 ### How long should a first-time DM prepare for a session?

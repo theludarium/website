@@ -580,3 +580,9 @@ Added the `p:domain_verify` meta tag to BaseLayout so Pinterest can confirm The 
 - **Not on the corporate events page.** That page is a landing page with one job, the inquiry form, so an Amazon link there would compete with it.
 - Plan and rates: the Amazon Affiliate Revenue Plan doc (Nov 20, 2026), from Amazon's US Standard Commission Income Statement.
 
+## 2026-11-20: Dungeon Crawler Carl series (Levi's request, ahead of the new-page pause)
+
+- **Four articles, one series** (`dungeon-crawler-carl` in `src/lib/series.ts`, Game Culture): why RPG players love the books, the books in order, the official Renegade RPG, and how to run a DCC style game in any RPG. Levi asked for them directly, so they go ahead of the Jan 8 pause.
+- **Built for the Audible bounty**: each links the book 1 audiobook (B08V8B2CGV), which offers new listeners the Audible free trial, plus Kindle and paperback. The RPG article links the Starter Set (B0GRW5H3RD); the Core Rulebook has no confirmed Amazon listing yet, so it points to Renegade and game stores.
+- **No spoilers past book 1's setup**, no prices, and facts only from publisher and retailer listings (book list, Jeff Hays narration, RPG contents and the Nov 23, 2026 core book date).
+

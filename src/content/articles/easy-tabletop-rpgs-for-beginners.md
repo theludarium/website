@@ -140,6 +140,8 @@ No group yet? [Solo RPGs](/articles/solo-rpg/) let you learn the hobby by yourse
 
 For more games this small, see our guide to [one page RPGs](/articles/one-page-rpgs/). Our [24XX explainer](/articles/what-is-24xx-rpg/) covers the system and how to hack it.
 
+**Looking for a book that reads like a campaign?** [Dungeon Crawler Carl](/articles/dungeon-crawler-carl-for-rpg-players/) is a novel series built from everything RPG players know: levels, loot, a party, and a game master who enjoys the chaos.
+
 ## FAQ
 
 ### What is the easiest tabletop RPG to learn?

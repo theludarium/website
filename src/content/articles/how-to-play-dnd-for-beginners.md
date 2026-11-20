@@ -89,6 +89,8 @@ Then try a one-shot before committing to a campaign. A one-shot is a complete ad
 
 It also helps to know what D&D is not. It is not improv theater with a grade at the end. It is not a math exam. It is not a decades-long commitment the moment you roll a die. It is a few friends around a table making up a story and laughing when the dice embarrass someone. The game is the reason. The people are the point.
 
+**Looking for a book that reads like a campaign?** [Dungeon Crawler Carl](/articles/dungeon-crawler-carl-for-rpg-players/) is a novel series built from everything RPG players know: levels, loot, a party, and a game master who enjoys the chaos.
+
 ## FAQ
 
 ### Do I need to read the Player's Handbook before my first game?
