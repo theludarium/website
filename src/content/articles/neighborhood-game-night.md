@@ -10,6 +10,8 @@ A neighborhood game night is the lowest-stakes way to turn the people on your st
 
 The case for doing it at all is simple. Most people say they would like to know their neighbors better and almost nobody makes the first move. A [2025 Pew Research Center survey](https://www.pewresearch.org/short-reads/2025/05/08/how-connected-do-americans-feel-to-their-neighbors/) found that only about a quarter of Americans know all or most of their neighbors, down slightly from 2018. Someone has to go first. It might as well be the person with a folding table and a copy of [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20).
 
+**The quick answer:** invite about twenty-five households with a short flyer and a knock on the nearest doors. Play forgiving games like Codenames, Wavelength, and Just One. Start on time, end on time, and announce the next date before people leave; monthly is the right cadence.
+
 ## Why a game night and not a block party?
 
 Block parties are great and hard. They need permits, grills, a committee, and a weekend. A game night needs a Tuesday.

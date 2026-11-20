@@ -10,6 +10,8 @@ The best themed game night ideas do one job: they make the decision for people. 
 
 Below are twelve themes we have run or watched work. Each one lists the games that fit, the setup that matters, and the single rule that keeps the theme from collapsing into a normal Tuesday. Pick one a month and your group will have a year.
 
+**The quick answer:** pick one theme a month and announce it a week out. Try Gateway Night or Potluck and Party to bring in new people, Co-op Night for a tense group, and Social Deduction or Dexterity Night for a quiet one. Give each theme one rule, and run any single theme no more than once a quarter.
+
 ## Why does a theme fix a stale game night?
 
 A game night goes stale in a predictable way. The first few months are exciting because everything is new. Then the group finds its comfortable games and plays them until nobody suggests anything else. Attendance drifts, because "same thing as last time" is easy to skip.

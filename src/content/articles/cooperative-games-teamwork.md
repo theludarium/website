@@ -10,6 +10,8 @@ Cooperative games teach teamwork by making the team fail, quickly and cheaply, a
 
 This article is about what specifically a team learns at a game table, with examples from real games, and why that learning transfers back to work and home more readily than most training does.
 
+**The quick answer:** co-ops teach teamwork because the team fails fast and cheaply, then tries again. Play The Crew for communication, Pandemic for planning, and Hanabi for trust. If you can only run one, start with The Crew.
+
 ## Why do cooperative games teach teamwork faster than meetings?
 
 Three properties of a good co-op do the work.

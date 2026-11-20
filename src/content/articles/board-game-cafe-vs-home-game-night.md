@@ -10,6 +10,8 @@ Board game cafe vs home is a question most groups answer by habit rather than by
 
 This is an unusual comparison for us to write, since we are building a game lounge in Indianapolis. So we will be clear about the home game night's advantages, which are real and which no venue can fully replace. Then we will be clear about what a good lounge or cafe adds, and when it is worth the trip.
 
+**The quick answer:** stay home for long or campaign games, small close groups, and tight budgets. Go out to try games you do not own, to seat more than six people, or when nobody wants to host. The groups that last do both.
+
 ## What counts as a board game cafe?
 
 The term covers a range. At one end is a coffee shop with a shelf of games and no cover charge. In the middle is the classic board game cafe: a library of several hundred games, a small table fee or minimum spend, food and drink, and staff who can teach. At the far end are membership lounges, including the one we are building, where a monthly fee replaces per-visit charges and the space is designed for regulars rather than walk-ins.

@@ -10,6 +10,8 @@ A board game lounge library is not a collection. A collection is what you love. 
 
 Fifty is deliberate. It is small enough that staff can teach every game and large enough to cover every group that walks in. A bigger library mostly adds dust. We wrote about that trade-off in [the library problem](/articles/board-game-cafe-library/).
 
+**The quick answer:** fifty well-chosen games, sorted by the job each does, cover almost every group. The five that handle most tables are Codenames, Ticket to Ride, Azul, Pandemic, and a two-player game like Patchwork. Every pick should teach in under ten minutes and earn a second play.
+
 ## How do you choose games for a lounge library?
 
 Every game on this list had to do a job, and we sorted the shelves by job rather than genre, because that is how people ask. Nobody says "I want a mid-weight Euro." They say "there are six of us and we have an hour."

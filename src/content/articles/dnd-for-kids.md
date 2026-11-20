@@ -10,6 +10,8 @@ D&D for kids works, and it works earlier than most parents expect, as long as th
 
 This is a guide for the parent, aunt, teacher, or older sibling who has been asked, or has decided, to run a game for children. It covers what ages work, what to change, which systems fit, and the handful of table rules that keep the evening from falling apart.
 
+**The quick answer:** under about 8, play a game built for kids, like No Thank You, Evil!, Hero Kids, or Amazing Tales. Simplified D&D works from about 8, and the standard rules suit most kids from about 11. Keep sessions to sixty to ninety minutes, use fewer numbers, and let the kids drive.
+
 ## What age can kids start playing D&D?
 
 There is no hard floor, but a rough map helps.

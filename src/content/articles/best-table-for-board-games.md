@@ -8,6 +8,8 @@ draft: false
 ---
 The best table for board games is not the most expensive one. It is the one that lets four to six adults sit for three hours with their elbows down, their cards hidden, the board in reach, and enough light to tell a blue cube from a purple one. Most dining tables fail at least one of those tests. This article covers what matters in a game table, with numbers where numbers help, whether you are picking one for your dining room or specifying forty for a lounge.
 
+**The quick answer:** for four players, aim for at least 36 by 60 inches (42 by 72 is better) at standard dining height, with about a foot between seat and surface. Add a matte surface like a playmat, bright warm light directly over the table, and padded chairs. Round suits conversation; rectangular holds big boards.
+
 ## How big should a board game table be?
 
 Start with space per player, not total size. Each person needs room for a hand of cards, a player board, a drink, and their forearms. As a practical rule, give each player about two feet of table edge and a foot and a half of depth in front of them before the shared area begins.

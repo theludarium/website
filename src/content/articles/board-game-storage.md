@@ -10,6 +10,8 @@ Board game storage in a small home comes down to three decisions: what to keep, 
 
 This is a practical guide. No custom cabinetry, no garage. Just a system that works in a one-bedroom and scales as the collection grows.
 
+**The quick answer:** cull first, then store boxes flat with the lid up on a deep, sturdy, adjustable shelf, 13 to 16 inches deep. Shrink card games into small containers, move expansions into their base boxes, and keep the games you play most on a reach shelf at eye level.
+
 ## How much space do 100 board games take?
 
 More than you expect, less than you fear. A standard large box, [the Ticket to Ride size](https://en.wikipedia.org/wiki/Ticket_to_Ride_(board_game)), is 30 by 30 by 8 centimeters, roughly 12 by 12 by 3 inches, and that footprint became the industry's default. A hundred of those stacked flat would run about 26 feet tall. Nobody has that.

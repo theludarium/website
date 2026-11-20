@@ -10,6 +10,8 @@ Spend an evening at any game table and you will notice that most of the laughter
 
 This article covers what laughter seems to do to a group, why it matters for health and connection, and why games produce so much of it. The health claims around laughter are often oversold, so we will stick to what the research supports.
 
+**The quick answer:** shared laughter is associated with stronger bonding, higher trust, more personal disclosure, and better group cohesion. Its direct effect on stress looks modest; the bigger benefit is the social connection it builds. Games produce so much of it because they offer shared attention, mild stakes, surprise, and safe failure.
+
 ## Why do people laugh together more than alone?
 
 Because laughter is social before it is funny.

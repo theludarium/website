@@ -11,6 +11,8 @@ draft: false
 
 But they produce different rooms. Codenames is a party game that happens to be clever. Decrypto is a deduction game that happens to be played with words. The right one for you depends on whether you want a loose, loud table or a quiet, leaning-in one.
 
+**The quick answer:** buy Codenames for parties, mixed groups, and anything from four players to a dozen. Buy Decrypto for a regular group of four to six who like puzzles and want everyone working every round. Codenames is the opener; Decrypto is for the people who stayed.
+
 ## How does each game work?
 
 **Codenames** lays out a 5-by-5 grid of 25 word cards. Two teams each have a spymaster who can see a key card showing which words belong to which team, which are neutral, and which single word is the assassin. Each turn, the spymaster gives a one-word clue and a number, such as "ocean, 3", meaning three of the team's words relate to ocean. The team discusses and touches words one at a time; a correct guess lets them continue, a wrong one ends the turn. Touching the assassin loses the game immediately. First team to find all its words wins. Publisher specs list 4 to 8+ players, ages 10 and up, about 15 minutes (Czech Games Edition).

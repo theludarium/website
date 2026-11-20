@@ -10,6 +10,8 @@ The best cooperative board games solve a problem that competitive games create. 
 
 This list is for that table. Fifteen games, sorted roughly from lightest to heaviest, with a note on who each one fits. Every game here is real, widely available, and has been played by thousands of groups. Rules are described at a general level; check the box for exact player counts and times.
 
+**The quick answer:** Forbidden Island is the best first co-op for families and Pandemic for adults. For a competitive group, start lighter with Just One or Forbidden Island, then move to Hanabi or The Crew. For two players, try Sky Team or Codenames: Duet.
+
 ## What makes a cooperative board game good?
 
 Three things, in our experience.

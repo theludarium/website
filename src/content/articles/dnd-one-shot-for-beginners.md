@@ -10,6 +10,8 @@ A D&D one shot for beginners is a complete adventure that starts and finishes in
 
 If the main thing standing between you and trying a tabletop RPG is the fear that it is a lifestyle, this is the format built for you. It is also the format behind our free RPG Demo Library, for the same reason.
 
+**The quick answer:** a one-shot is a complete adventure that starts and finishes in one sitting, usually three to four hours, with pre-made characters. It is the lowest-risk way to try an RPG. Join a learn-to-play one-shot at a store, convention, or online, or run a published adventure for friends.
+
 ## What is a one-shot, exactly?
 
 The term comes from the contrast with a campaign. A campaign is an ongoing story told across many sessions, where the same characters grow over months. A one-shot is a single session, usually three to four hours, that tells a self-contained story.

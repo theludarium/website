@@ -13,6 +13,8 @@ Picture a four-person group that has been meeting every other Thursday for about
 
 At about $40 a copy, that is roughly $120 of games that nobody opened. It could have been three more games on the table. Nobody did anything wrong. Each person saw a game they loved, had the money, and bought it. Nobody told them there was another way.
 
+**The quick answer:** a play group needs one copy of a game, not one copy per person. Extra copies add cost without adding plays. Buy a second copy only when it creates plays that would not otherwise happen, such as for a second group, a home copy, or a cheap filler for your bag.
+
 This article lays out the One Copy Rule, the first idea in our series called The Shared Shelf. You will get the rule itself, the handful of exceptions that matter, and a plan you can start this week with the group you already have.
 
 ## Why does every play group end up with duplicate games?

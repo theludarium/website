@@ -10,6 +10,8 @@ A learn to play event does one thing a regular game night cannot: it gets twenty
 
 This guide covers choosing the game, teaching it once to everyone instead of five times to five tables, staffing, and the small design choice that sends people home able to teach it themselves. That last part is the point. A learn-to-play night that produces twenty players is good. One that produces twenty teachers is how a game spreads.
 
+**The quick answer:** pick a medium-weight game people have heard of, like Wingspan or Catan, with one copy per table of four. Teach it once from the front, play two guided rounds together, and keep one helper per two tables. Send everyone home with a one-page teach sheet so they can teach it next.
+
 ## Which games work for a learn-to-play night?
 
 Not every game. The right game has three properties.

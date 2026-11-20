@@ -11,6 +11,8 @@ draft: false
 
 Most play groups have never seen their own library. Each person knows their own shelf, and maybe the three games their friends always bring, but nobody has written the whole thing down in one place. The fastest way to start a Shared Shelf is to audit your group's game shelf once, in one evening, with one table.
 
+**The quick answer:** put every game the group owns into one shared table with its owner, lane, rough price, and plays. Add up the price of every duplicate copy, list the empty lanes, and assign each lane to whoever already owns the most of it. Then agree on the One Copy Rule.
+
 This is the eighth and final article in The Shared Shelf series from The Ludarium, and it is the practical one. You will get a step-by-step audit, a markdown template you can paste into a doc or a group chat, a way to count how much money is tied up in duplicates, and a short process for assigning lanes with the games you already own.
 
 If you want the reasoning behind all this, [The One Copy Rule](/articles/one-copy-rule/) is the place to start. If you just want to do the thing, keep reading.

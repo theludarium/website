@@ -8,6 +8,8 @@ draft: false
 ---
 Board game weight is a one-to-five rating of how complex a game is, as judged by the people who have played it. The scale comes from BoardGameGeek, where users rate each game's complexity and the site averages the votes. A 1.0 is Candy Land. A 5.0 is a multi-day wargame with a rulebook the size of a phone book. Most games people actually play fall between 1.5 and 3.5, and the difference between a 2.0 and a 3.0 is the difference between a good night and a frustrated one.
 
+**The quick answer:** weight is BoardGameGeek's one-to-five community rating of how complex a game is. A 2.5, like Catan, Wingspan, or Pandemic, sits at the center of the hobby: a quarter hour to teach, a muddled first game, a good second one. Beginners do best around 1.5 to 2.3.
+
 This article explains what the weight rating measures and what it does not, what each band feels like at the table, why the numbers drift, and how to use weight to pick a game for the people you are actually playing with.
 
 ## Where does the weight number come from?

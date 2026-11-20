@@ -11,6 +11,8 @@ draft: false
 
 If the game you have been eyeing seems to cost more than it did a year or two ago, you are not imagining it. Board game prices in the US have moved up, and a lot of hobbyists want to know why board games cost more now and whether there is anything to do about it. There is, and most of it is the kind of thing a well-run play group was already doing.
 
+**The quick answer:** most board game components, especially plastic pieces, are made in China, and US tariffs on goods from China have raised prices since 2025. To keep your cost per hour low, play before you pay, buy used, share one copy per group, favor card games, and wait for reprints.
+
 This is the final article in The Math of Game Night, a Ludarium series about what game night really costs. The earlier articles covered [cost per play](/articles/cost-per-play-explained/), unplayed games, and annual budgets. This one is about the price tag itself: where it comes from, why it has risen, and how to keep your cost per hour low while it does.
 
 ## Where board games are made

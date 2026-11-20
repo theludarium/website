@@ -11,6 +11,8 @@ draft: false
 
 The best way to see what a shared board game library does is to watch two groups spend the same money for the same two years and compare what ends up on the table. So this article follows two fictional four-person groups, the Maples and the Oaks. Both groups love games. Both spend about $200 per person per year. The Maples buy the way most people buy. The Oaks follow the One Copy Rule.
 
+**The quick answer:** coordination doubles the library. In this illustration, each group spends about $1,600 over two years. The group that buys without coordinating ends with about 17 distinct games and 16 duplicates; the group that follows the One Copy Rule and assigns lanes ends with about 34 games and none.
+
 This is the sixth article in The Shared Shelf series from The Ludarium. Everything below is an illustration: made-up groups, rounded prices, and purchase lists chosen to show the pattern, not to predict any real group's shelf. The pattern is what matters. If you want the rule the Oaks are following, start with [The One Copy Rule](/articles/one-copy-rule/).
 
 ## The setup: same people, same budget, different habits

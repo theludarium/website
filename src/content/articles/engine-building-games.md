@@ -8,6 +8,8 @@ draft: false
 ---
 Engine building games are games where the things you acquire early make everything you do later cheaper, faster, or more rewarding. You start weak. You spend your first turns building capacity rather than scoring. Then, somewhere past the midpoint, the pieces start feeding each other and a turn that once produced one resource produces six. That moment of acceleration is the whole appeal.
 
+**The quick answer:** in an engine building game, the cards, birds, or buildings you acquire early keep producing value, so late turns are far stronger than early ones. Start with Splendor, the purest version, or Wingspan for a mixed group. The key skill is timing the switch from building to scoring.
+
 This article explains what an engine is in board game terms, how the curve works, why the feeling is so compelling, where the style came from, and which games to try if you want to feel it for yourself.
 
 ## What is an "engine" in a board game?

@@ -13,6 +13,8 @@ Walk into most gaming homes and you will find the same shelf. Big boxes on the b
 
 If you want to organize board games in a way that changes how often you play, stop sorting by the box and start sorting by the job. Every game on your shelf plays a role on game night: it opens the evening, fills a gap, serves a couple, handles a crowd, or anchors a long Saturday. A shelf arranged by those roles answers the only question that matters at 7 p.m. with four people in the living room: "what do we have for tonight?"
 
+**The quick answer:** sort games by the job they do on game night, not by box size. Use seven roles (gateway, filler, 2-player, party, co-op, stretch, campaign), give each a labeled shelf zone, and put fillers and gateways at eye level. Add a spine label with your real player count and play time.
+
 This article is the pillar of our Library Science for Gamers series, where we borrow a few ideas from how libraries think about books and apply them to the shelf in your living room. It builds on the habit at the center of everything we write, [The One Copy Rule](/articles/one-copy-rule/): a play group needs one copy of a game, not one per person. Organizing by role is how you see what that one copy is for.
 
 ## Why organizing board games by box size hides what you own

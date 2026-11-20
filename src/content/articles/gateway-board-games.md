@@ -10,6 +10,8 @@ Gateway games are the board games you hand to someone who has never played anyth
 
 This list has ten of them. Each entry says who it is for, how long it takes, and what it leads to. That last part matters. A gateway is only a gateway if there is somewhere on the other side.
 
+**The quick answer:** Ticket to Ride is the best gateway game for most groups. It teaches in three minutes and plays in under an hour. A host who owns Codenames, Pandemic, and Ticket to Ride covers almost every group.
+
 ## What makes a game a gateway game?
 
 The word gets thrown around loosely, so here is a working definition. A gateway game:

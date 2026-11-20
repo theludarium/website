@@ -11,6 +11,8 @@ Good [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20)
 
 This guide covers the base game on the USA map, which is what most people own. The same thinking applies to the Europe map and most of the others, with small adjustments.
 
+**The quick answer:** keep starting tickets that overlap, favor long routes, and claim contested chokepoints before safe ones. Draw new tickets only when you have at least fifteen trains and the leader has ten or more. Block only when the route is short and clearly the opponent's only path, and trigger the end only when your tickets are done.
+
 ## How does scoring actually work in Ticket to Ride?
 
 You need the arithmetic before the strategy makes sense. Claiming a route scores points by length, and the scale is not linear.

@@ -13,6 +13,8 @@ Choosing board games for your group is easy if you are honest about who the grou
 
 Every hobbyist has done this. You read about a sprawling, brilliant, four-hour game. You picture your friends leaning over the map, deep in strategy. You buy it. Two years later it has been played once, by three of you, and one of them left at the halfway point. The game was fine. The group was never going to be that group.
 
+**The quick answer:** buy for your group's real player count, real session length, and real appetite for rules. Before any purchase, name who will teach the game and which session it will hit the table. Keep one party game that scales to everyone and one two-player game for small nights.
+
 ## Why should you buy for reality, not fantasy?
 
 Because a game's value is created at the table, not on the shelf. A play group runs on [The One Copy Rule](/articles/one-copy-rule/): one copy of each game across the whole group. That rule only saves money if the one copy gets played. An unplayed copy is a Shelf of Shame entry, and the cost per hour of an unplayed game is infinite. It does not matter how good it is.

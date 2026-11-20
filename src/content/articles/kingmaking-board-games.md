@@ -8,6 +8,8 @@ draft: false
 ---
 Kingmaking happens when a player who has no chance of winning makes a move that decides which of the other players does. The kingmaker cannot be king. They can only crown one. It is one of the most common sources of hard feelings at a game table, because the winner feels their victory was handed to them and the runner-up feels it was stolen.
 
+**The quick answer:** kingmaking is when a player who cannot win makes the move that decides who does. It is common in games with three or more players and direct attacks, trading, or area majority. The best fix is a norm agreed in advance: if you cannot win, play for your own best score anyway.
+
 This article explains what kingmaking is, why it is almost unavoidable in games with three or more players, which kinds of games invite it, what designers do to limit it, and what you can do about it when it shows up on a Tuesday night.
 
 ## What is kingmaking, exactly?

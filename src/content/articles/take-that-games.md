@@ -10,6 +10,8 @@ Take that board games are games where players can directly hurt each other with 
 
 This article explains what "take that" means, how it differs from other kinds of conflict, why it provokes such strong reactions, what designers do to soften it, and how to choose for a group that contains both camps.
 
+**The quick answer:** take-that games let you directly hurt one chosen player with a card or action, as in Munchkin, Exploding Kittens, and Uno's draw-four. They divide tables because some players want drama and others want control. For a mixed group, ask first and lead with softened picks like King of Tokyo, Sushi Go!, or The Quacks of Quedlinburg.
+
 ## What counts as a take-that mechanic?
 
 Three things define it.

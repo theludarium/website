@@ -10,6 +10,8 @@ A campaign board game missed session is the most common way a campaign dies. Not
 
 This article is a policy, not a pep talk. Decide these things before the first session and a missed night becomes an inconvenience instead of an ending.
 
+**The quick answer:** before session one, agree on a quorum, a default of playing, and who runs the missing character. If quorum is met, play on. In Gloomhaven, let the absent character rest; in Pandemic Legacy, someone can pilot them conservatively.
+
 ## Why do campaign games die from absence?
 
 Three reasons, and they compound.

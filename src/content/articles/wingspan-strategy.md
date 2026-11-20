@@ -11,6 +11,8 @@ Most [Wingspan](https://www.amazon.com/dp/B07YQ641NQ?tag=cubecommonw0a-20) strat
 
 This guide is for the player who understands the rules, enjoys the game, and would like to stop finishing second to the same person. The fix is mostly about tempo.
 
+**The quick answer:** build your engine early and score late. Play birds in rounds one and two, forest first and wetland second, and save round four for laying eggs. Pick the bonus card you can reliably reach, and aim to win two of the four round goals outright.
+
 Rules are described in general terms for the base game. The expansions add birds and some new mechanics, but the shape of a winning game is the same.
 
 ## How does Wingspan actually score?

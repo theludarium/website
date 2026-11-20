@@ -9,6 +9,8 @@ draft: false
 ---
 If you want to know how to win at [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20), start with the uncomfortable truth: most games are decided in the first five minutes, before anyone rolls. Your two starting settlements set your income for the whole game. Everything after that, trading, building, and development cards, is about making the most of what those first placements gave you. If you need the rules for that first part, our lesson on [how to set up Catan](/academy/catan/catan-setup/) covers the board, the number order, and the snake draft.
 
+**The quick answer:** place your first settlement on three different resources with high-pip numbers, and use your second to fill the gap. Trade with the player in last, not the leader, and lean on the bank and ports. Put the robber on the leader's best hex, and hold your last point quietly.
+
 This guide covers the three skills that separate players who win a third of the time from players who win once a year. None of it requires memorizing anything. It requires looking at the board a little longer than everyone else.
 
 Rules are described in general terms for the standard four-player base game. Your edition may differ in small ways.

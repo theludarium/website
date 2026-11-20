@@ -10,6 +10,8 @@ Good family game night rules are not about the games. They are about the five mi
 
 Treat them as a starting draft. The best house rules are the ones your family writes together, and the writing is half the value.
 
+**The quick answer:** rotate who picks, youngest first, and put every phone in a basket in another room. Keep the teach under five minutes, treat a new game's first play as practice, settle rules disputes with thirty seconds and a coin, say "good game" both ways, and end at a set time.
+
 ## Why does family game night need rules at all?
 
 Because a game already has rules, and the fights are never about those. They are about everything around the game. Who got to pick last time. Whether Dad was looking at his phone. Whether the youngest gets a do-over. Whether "one more game" means one more game.

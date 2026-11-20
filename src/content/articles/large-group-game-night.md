@@ -10,6 +10,8 @@ A large group game night is not a regular game night with more chairs. At eight 
 
 This is the plan. It covers the room, the game mix, the people you need, and a schedule that fills three hours without a lull. It is written for a church hall, an office, a community room, or a very large living room.
 
+**The quick answer:** for 40 people, set up ten tables with about fifteen games, none longer than 45 minutes or harder than five minutes to teach. Mix party games like Codenames, light strategy like Azul, dexterity games, and one big game like Werewolf in the middle. Staff it with a floor host, four or five teachers, and a clock.
+
 ## How many tables and games do you need for 40 people?
 
 Plan for every person to be seated and playing at the same time, with slack. Forty people at an average of five per table is eight tables. Set up ten, so two are always open when a game ends and a group is looking for the next one.
