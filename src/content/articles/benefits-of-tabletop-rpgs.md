@@ -2,7 +2,7 @@
 title: "Benefits of Tabletop RPGs: Why Adults Play Pretend"
 description: "The benefits of tabletop RPGs for adults: what shared imagination does for focus, empathy, friendship, and stress, and why more grown-ups are joining the hobby."
 pubDate: 2026-10-20
-category: Game Guides
+category: How to Play
 tags: ["benefits of tabletop RPGs", "why adults play D&D", "tabletop RPGs mental health", "D&D and social skills", "role-playing games and empathy", "why play pretend as an adult", "Tabletop RPGs for beginners"]
 draft: false
 ---

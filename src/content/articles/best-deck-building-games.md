@@ -2,7 +2,7 @@
 title: "Best Deck Building Games: 11 Picks for Every Table"
 description: "The best deck building games for every table: classics, cooperative deck builders, deck building games for 2 players, and big hybrids, with counts and times."
 pubDate: 2026-10-31
-category: Game Guides
+category: What to Play
 tags: ["best deck building games", "deck building board games", "cooperative deck building games", "deck building games for 2 players", "deck builders", "dominion"]
 draft: false
 ---

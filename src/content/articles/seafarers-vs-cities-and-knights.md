@@ -3,7 +3,7 @@ title: "Seafarers or Cities & Knights: Which Catan Expansion First?"
 seoTitle: "Seafarers vs Cities & Knights: Which Catan First?"
 description: "Seafarers or Cities & Knights? What each Catan expansion adds, how hard each is, play time, player counts, a pick for every group, and how to combine them."
 pubDate: 2026-11-08
-category: Game Guides
+category: What to Play
 games: [catan]
 tags: ["seafarers vs cities and knights", "seafarers or cities and knights", "seafarers and cities and knights", "which catan expansion first", "catan seafarers", "catan cities and knights", "combine seafarers and cities and knights"]
 draft: false

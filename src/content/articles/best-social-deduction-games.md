@@ -2,7 +2,7 @@
 title: "The Best Social Deduction Games for Your Group"
 description: "The best social deduction board game picks for 3 to 30 players: Avalon, Blood on the Clocktower, Coup and more, with player counts, times, and hosting tips."
 pubDate: 2026-10-31
-category: Game Guides
+category: What to Play
 tags: ["social deduction board game", "social deduction games", "best social deduction games", "hidden role games", "party board games", "games for big groups"]
 draft: false
 ---

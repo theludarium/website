@@ -2,7 +2,7 @@
 title: "Semi-Cooperative Board Games: When One of You Is Lying"
 description: "Semi-cooperative board games put a traitor or a selfish goal inside the team. How they work, why they can wreck a table, and the ones that get it right."
 pubDate: 2026-10-20
-category: Game Guides
+category: What to Play
 tags: ["semi-cooperative board games", "hidden traitor board games", "Dead of Winter", "Battlestar Galactica board game", "co-op games with a traitor", "semi co-op games", "Cooperative and campaign games"]
 draft: false
 ---

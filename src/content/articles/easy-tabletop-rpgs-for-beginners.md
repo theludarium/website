@@ -4,7 +4,7 @@ seoTitle: "8 Simple Tabletop RPGs for Beginners, Easier Than D&D"
 updatedDate: 2026-10-29
 description: "Simple tabletop RPGs to learn in an hour or less: Lasers & Feelings and Honey Heist fit on one page, Dread uses a block tower, and Fiasco needs no game master."
 pubDate: 2026-10-20
-category: Game Guides
+category: What to Play
 tags: ["easy tabletop RPGs for beginners", "RPGs that aren't D&D", "rules-light RPGs", "simple roleplaying games", "best beginner TTRPG", "one-page RPGs", "Tabletop RPGs for beginners"]
 draft: false
 ---

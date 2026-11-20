@@ -2,7 +2,7 @@
 title: "Sorry Board Game Rules: Cards, Slides, and How to Win"
 description: "Sorry board game rules in plain words: setup, starting a pawn, what every card does, slides, the safety zone, exact count home, how to win, and smart tips."
 pubDate: 2026-10-31
-category: Game Guides
+category: How to Play
 tags: ["sorry board game rules", "how to play sorry", "sorry card meanings", "sorry slides", "safety zone", "family board games"]
 draft: false
 ---

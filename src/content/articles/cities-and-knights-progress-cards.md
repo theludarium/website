@@ -2,7 +2,7 @@
 title: "Every Cities & Knights Progress Card, Explained"
 description: "All 54 Cities & Knights progress cards in the 6th edition: what each trade, politics, and science card does, how many are in each deck, and when to play it."
 pubDate: 2026-11-08
-category: Game Guides
+category: How to Play
 games: [catan]
 tags: ["cities and knights progress cards", "catan progress cards", "cities and knights cards", "cities and knights card list", "catan cities and knights strategy", "catan progress card list"]
 draft: false

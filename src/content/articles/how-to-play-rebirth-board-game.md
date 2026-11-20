@@ -3,7 +3,7 @@ title: "Rebirth Board Game: How to Play Reiner Knizia's 2026 Kennerspiel Winner"
 seoTitle: "Rebirth Board Game: How to Play the 2026 Kennerspiel"
 description: "The Rebirth board game explained: how to play Reiner Knizia's 2026 Kennerspiel des Jahres winner, from farms and settlements to castles, missions and strategy."
 pubDate: 2026-11-01
-category: Game Guides
+category: How to Play
 tags: ["rebirth board game", "how to play rebirth", "kennerspiel des jahres 2026", "reiner knizia", "tile placement games", "area majority"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "The Ludarium Library: 50 Games for Every Game Lounge"
 description: "The Ludarium library: 50 games we would put in any board game lounge, sorted by the job each does, with player counts, play times, and how we chose each one."
 pubDate: 2026-10-22
-category: Game Guides
+category: What to Play
 tags: ["board game lounge library", "board game cafe game list", "essential board games", "best board games for a cafe", "must have board games", "board game collection list", "What to play"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "10 Gateway Games for Friends Who Don't Play Yet"
 description: "The 10 best gateway games for friends who don't play yet, with player counts, times, and what each one leads to next. A guide for hosts teaching new players."
 pubDate: 2026-10-19
-category: Game Guides
+category: What to Play
 tags: ["gateway games", "gateway board games", "best gateway games", "board games for beginners", "entry level board games", "first board games for adults", "games for new players", "What to play"]
 draft: false
 ---

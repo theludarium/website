@@ -2,7 +2,7 @@
 title: "Quick Board Games That Play in Under 30 Minutes"
 description: "Fifteen quick board games that play in under 30 minutes, with real times, player counts, and when to use each. Fillers, openers, and closers for any night."
 pubDate: 2026-10-19
-category: Game Guides
+category: What to Play
 tags: ["quick board games", "short board games", "filler games", "board games under 30 minutes", "fast board games for adults", "15 minute board games", "What to play"]
 draft: false
 ---

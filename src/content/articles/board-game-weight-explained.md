@@ -2,7 +2,7 @@
 title: "Board Game Weight Explained: What a 2.5 Means"
 description: "Board game weight explained. What the BoardGameGeek complexity rating measures, what a 1.5 or 3.5 feels like at the table, and how to use it to pick games."
 pubDate: 2026-10-20
-category: Game Guides
+category: How to Play
 tags: ["board game weight", "BoardGameGeek weight rating", "board game complexity rating", "what is game weight", "light vs heavy board games", "board game difficulty scale", "Glossary"]
 draft: false
 ---

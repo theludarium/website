@@ -2,7 +2,7 @@
 title: "Campaign Board Game Missed Session: How to Keep Going"
 description: "A campaign board game missed session does not have to stall your group. Rules for playing without someone, catching them up, and keeping the story alive."
 pubDate: 2026-10-20
-category: Game Guides
+category: How to Play
 tags: ["campaign board game missed session", "campaign board games scheduling", "playing Gloomhaven with a missing player", "legacy game absent player", "keep a game group going", "campaign game attendance", "Cooperative and campaign games"]
 draft: false
 ---

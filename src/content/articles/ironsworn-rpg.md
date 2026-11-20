@@ -2,7 +2,7 @@
 title: "Ironsworn: How to Play the Free Solo RPG"
 description: "Ironsworn is a free fantasy RPG you can play solo, co-op, or with a GM. How vows, moves, and oracles work, what is free versus paid, and a free demo to try."
 pubDate: 2026-10-31
-category: Game Guides
+category: How to Play
 tags: ["ironsworn", "ironsworn rpg", "ironsworn solo rpg", "how to play ironsworn", "solo rpg", "free rpg"]
 draft: false
 ---

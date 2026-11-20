@@ -3,7 +3,7 @@ title: "Crokinole Rules: How to Play the Flicking Game"
 description: "Crokinole rules in plain words: the board, how to shoot, the must-hit rule, fouls, how crokinole scoring works, singles vs doubles, a short history, and tips."
 pubDate: 2026-10-31
 updatedDate: 2026-11-05
-category: Game Guides
+category: How to Play
 tags: ["crokinole rules", "how to play crokinole", "crokinole board", "crokinole scoring", "dexterity games", "crokinole doubles"]
 draft: false
 ---

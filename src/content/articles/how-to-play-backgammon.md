@@ -3,7 +3,7 @@ title: "How to Play Backgammon: Rules, Setup, and First Strategy"
 seoTitle: "How to Play Backgammon: Rules, Setup and Strategy"
 description: "How to play backgammon from the first roll: the 2-5-3-5 setup, moving, hitting, the bar, bearing off, gammons, the doubling cube, and six tips for beginners."
 pubDate: 2026-10-31
-category: Game Guides
+category: How to Play
 tags: ["how to play backgammon", "backgammon rules", "backgammon setup", "backgammon strategy for beginners", "doubling cube", "two player board games"]
 draft: false
 ---

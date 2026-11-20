@@ -2,7 +2,7 @@
 title: "How to Play D&D for Beginners: No Homework Required"
 description: "How to play D&D for beginners in one evening, no homework needed. What happens at the table, what you need, and four things to know before your first session."
 pubDate: 2026-10-20
-category: Game Guides
+category: How to Play
 tags: ["how to play D&D for beginners", "first D&D session", "Dungeons and Dragons for beginners", "what to expect at a D&D game", "D&D basics", "learn D&D without reading the rulebook", "Tabletop RPGs for beginners"]
 draft: false
 ---

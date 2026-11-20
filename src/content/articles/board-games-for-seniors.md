@@ -2,7 +2,7 @@
 title: "The Best Board Games for Seniors"
 description: "The best board games for seniors are easy to see, handle and stop. Fifteen picks, how to adapt any game for eyes, hands and memory, and games for grandkids."
 pubDate: 2026-10-31
-category: Game Guides
+category: What to Play
 tags: ["board games for seniors", "board games for older adults", "board games for elderly", "card games for seniors", "best board games for seniors", "large print games"]
 draft: false
 ---

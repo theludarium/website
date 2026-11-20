@@ -2,7 +2,7 @@
 title: "What Is a Tableau in Board Games? A Plain Explainer"
 description: "Tableau board game term explained. What a tableau is, how it differs from a hand or deck, why tableau builders feel good, and which games to learn it from."
 pubDate: 2026-10-20
-category: Game Guides
+category: How to Play
 tags: ["tableau board game", "tableau building games", "what is a tableau", "tableau meaning board games", "tableau vs hand", "Race for the Galaxy tableau", "Glossary"]
 draft: false
 ---

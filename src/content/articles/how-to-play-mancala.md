@@ -2,7 +2,7 @@
 title: "How to Play Mancala: Rules, Strategy, and History"
 description: "How to play mancala, step by step: setup, sowing, extra turns, captures, and the endgame, plus beginner strategy and a look at Oware and Bao from Africa."
 pubDate: 2026-10-29
-category: Game Guides
+category: How to Play
 tags: ["how to play mancala", "mancala rules", "mancala strategy", "Kalah rules", "Oware", "Bao game"]
 draft: false
 ---

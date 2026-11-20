@@ -2,7 +2,7 @@
 title: "Solo RPGs: How to Play a Tabletop RPG by Yourself"
 description: "A solo RPG lets you play a tabletop roleplaying game alone, using oracles and dice in place of a game master. How it works, solo D&D options, where to start."
 pubDate: 2026-10-31
-category: Game Guides
+category: How to Play
 tags: ["solo rpg", "solo ttrpg", "solo role playing games", "solo dnd", "best solo rpg", "ironsworn"]
 draft: false
 ---

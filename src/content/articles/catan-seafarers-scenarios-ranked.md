@@ -2,7 +2,7 @@
 title: "The Catan: Seafarers Scenarios, Ranked"
 description: "All eight Catan: Seafarers scenarios plus the New World variant, ranked for groups: the best first map, the most strategic, the best at three, and what to skip."
 pubDate: 2026-11-08
-category: Game Guides
+category: What to Play
 games: [catan]
 tags: ["catan seafarers scenarios", "catan scenarios", "catan seafarers maps", "best seafarers scenario", "seafarers scenarios ranked", "catan seafarers 6th edition", "seafarers new world"]
 draft: false

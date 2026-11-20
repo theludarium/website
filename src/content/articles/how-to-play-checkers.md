@@ -2,7 +2,7 @@
 title: "How to Play Checkers: Rules, Setup, Kings, and Strategy"
 description: "How to play checkers the official way: setup on dark squares, moves, jumps, forced capture, kinging, how to win, draws, and five strategy tips for beginners."
 pubDate: 2026-10-31
-category: Game Guides
+category: How to Play
 tags: ["how to play checkers", "checkers rules", "how to set up checkers", "can you jump backwards in checkers", "kinging", "forced capture", "two player board games"]
 draft: false
 ---

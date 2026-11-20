@@ -4,7 +4,7 @@ seoTitle: "One-Page RPGs: Full Tabletop Games on a Single Sheet"
 description: "A one page RPG is a complete roleplaying game on a single sheet. The best free ones, how to run one tonight, where to find more, and how to write your own."
 pubDate: 2026-11-01
 updatedDate: 2026-11-19
-category: Game Guides
+category: What to Play
 tags: ["one page rpg", "one page rpgs", "rules light rpg", "simple rpg", "minimalist rpg", "free rpgs", "solo rpg", "rpgs for kids"]
 draft: false
 offer: under-the-couch

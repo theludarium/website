@@ -2,7 +2,7 @@
 title: "First Time Dungeon Master Tips: You Got Volunteered"
 description: "First time Dungeon Master tips for anyone who got volunteered: what to prepare, what to skip, and five friendly habits that help your first session go well."
 pubDate: 2026-10-19
-category: Game Guides
+category: How to Play
 tags: ["first time dungeon master tips", "how to DM for the first time", "new dungeon master guide", "running your first D&D game", "DM prep for beginners", "game master tips", "Tabletop RPGs for beginners"]
 draft: false
 ---

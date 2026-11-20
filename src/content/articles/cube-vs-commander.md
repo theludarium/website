@@ -2,7 +2,7 @@
 title: "Cube vs Commander: Which Magic Format Fits Your Group?"
 description: "Cube vs Commander, compared on players, time, cost, and teach time, plus what each Magic format does best. A clear verdict for groups deciding how to play."
 pubDate: 2026-10-21
-category: Game Guides
+category: What to Play
 tags: ["Cube vs Commander", "Magic the Gathering formats for groups", "Cube draft explained", "Commander vs draft", "best MTG format for casual play", "how to play Cube", "Comparisons"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "How to Play Chess: A Beginner's Guide to the Rules"
 description: "How to play chess from scratch: board setup, how each piece moves, castling, en passant, check vs checkmate vs stalemate, draws, and simple opening principles."
 pubDate: 2026-10-31
-category: Game Guides
+category: How to Play
 tags: ["how to play chess", "chess rules for beginners", "how chess pieces move", "castling", "en passant", "checkmate vs stalemate", "two player board games"]
 draft: false
 ---

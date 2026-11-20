@@ -2,7 +2,7 @@
 title: "Easiest Board Games to Learn: Teach Them in One Sentence"
 description: "The easiest board games to learn, each teachable in a single sentence. Fourteen picks with that sentence, player counts, play times, and when to use each."
 pubDate: 2026-10-19
-category: Game Guides
+category: What to Play
 tags: ["easiest board games to learn", "simple board games for adults", "easy board games", "board games with simple rules", "one minute to learn board games", "easy games to teach", "What to play"]
 draft: false
 ---

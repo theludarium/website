@@ -2,7 +2,7 @@
 title: "Roleplaying Tips for Beginners: When You Freeze Up"
 description: "Roleplaying tips for beginners who freeze when the GM turns to them: six moves that always work, how to build a character you can play, and what to skip."
 pubDate: 2026-10-20
-category: Game Guides
+category: How to Play
 tags: ["roleplaying tips for beginners", "how to roleplay in D&D", "getting into character RPG", "shy player D&D tips", "what to do on your turn D&D", "roleplaying for introverts", "Tabletop RPGs for beginners"]
 draft: false
 ---

@@ -3,7 +3,7 @@ title: "Board Games for Winter Break With Kids Home All Week"
 seoTitle: "Winter Break Board Games for Kids: A Plan for Every Day"
 description: "Board games for winter break with kids home all week: quick fillers, a co-op to finish over the break, games kids can play alone, and a family tournament night."
 pubDate: 2026-10-29
-category: Game Guides
+category: What to Play
 tags: ["winter break board games", "board games for kids", "winter break activities for kids", "games for kids home from school", "family game night ideas", "cooperative games for kids"]
 games: [sushi-go, flip-7, the-crew-mission-deep-sea, forbidden-island, kingdomino]
 draft: false

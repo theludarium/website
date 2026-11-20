@@ -3,7 +3,7 @@ title: "Root Factions Explained: Which One Should You Play First?"
 seoTitle: "Root Factions Explained: Which to Play First"
 description: "Root factions explained: all 13 from the base game to Homeland, how each one scores, reach values, the honest truth about tier lists, and which to play first."
 pubDate: 2026-11-01
-category: Game Guides
+category: How to Play
 tags: ["root factions", "root factions explained", "root faction tier list", "best root faction for beginners", "root vagabond", "woodland alliance"]
 draft: false
 ---

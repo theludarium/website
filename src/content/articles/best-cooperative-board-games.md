@@ -2,7 +2,7 @@
 title: "15 Best Cooperative Board Games for Groups Who Hate Losing"
 description: "The best cooperative board games for groups who hate losing to each other. 15 picks from Pandemic to The Crew, sorted by player count, length, and difficulty."
 pubDate: 2026-10-19
-category: Game Guides
+category: What to Play
 tags: ["best cooperative board games", "co-op board games", "cooperative games for adults", "team board games", "best co-op games for families", "cooperative games for game night", "Cooperative and campaign games"]
 draft: false
 ---

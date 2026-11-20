@@ -2,7 +2,7 @@
 title: "D&D vs Pathfinder for Beginners: Which to Start With"
 description: "D&D vs Pathfinder for beginners, compared on learning curve, starter sets, cost, finding a group, and what each does best. A clear verdict for new players."
 pubDate: 2026-10-22
-category: Game Guides
+category: What to Play
 tags: ["D&D vs Pathfinder", "Pathfinder 2e vs D&D 5e", "best RPG for beginners", "D&D starter set vs Pathfinder Beginner Box", "Pathfinder for new players", "tabletop RPG for beginners", "Comparisons"]
 draft: false
 ---

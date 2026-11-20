@@ -2,7 +2,7 @@
 title: "D&D One Shot for Beginners: Try an RPG in One Evening"
 description: "A D&D one shot for beginners is the lowest-risk way to try a tabletop RPG. What a one-shot is, how to run or join one, and how to fit it in a single night."
 pubDate: 2026-10-22
-category: Game Guides
+category: How to Play
 tags: ["D&D one shot for beginners", "what is a D&D one shot", "one shot adventure", "single session RPG", "try D&D without a campaign", "beginner RPG session", "Tabletop RPGs for beginners"]
 draft: false
 ---

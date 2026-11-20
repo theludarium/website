@@ -2,7 +2,7 @@
 title: "What Is 24XX? The Tiny RPG System, Explained"
 description: "What is the 24XX RPG? Jason Tocci's tiny, free system: the one-die roll, how a two-page game is built, games to try, and how to hack your own with the 24XX SRD."
 pubDate: 2026-11-01
-category: Game Guides
+category: How to Play
 tags: ["24xx rpg", "24xx", "24xx srd", "24xx games", "jason tocci", "one page rpgs"]
 draft: false
 ---

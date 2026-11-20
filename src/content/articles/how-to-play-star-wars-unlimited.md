@@ -3,7 +3,7 @@ title: "How to Play Star Wars: Unlimited: Rules, Turns and Your First Deck"
 seoTitle: "How to Play Star Wars Unlimited: Rules and First Deck"
 description: "How to play Star Wars: Unlimited, step by step: leaders, bases, ground and space arenas, resources, initiative, a full round, formats, and what to buy first."
 pubDate: 2026-11-01
-category: Game Guides
+category: How to Play
 tags: ["how to play star wars unlimited", "star wars unlimited rules", "star wars unlimited starter deck", "swu", "star wars card game", "trading card games"]
 draft: false
 ---

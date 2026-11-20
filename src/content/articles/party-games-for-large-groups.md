@@ -4,7 +4,7 @@ seoTitle: "Party Games for Large Groups: Best for 8, 10, 12 or 20"
 description: "The best party games for 8, 10, 12 or 20 people, with picks for each group size, games that need no equipment, and tips for hosting a big group without chaos."
 pubDate: 2026-10-19
 updatedDate: 2026-11-17
-category: Game Guides
+category: What to Play
 tags: ["party games for large groups", "board games for 8 players", "party games for 8 people", "party games for 10 people", "party games for 12 people", "games for groups of 10 or more", "games for big groups of adults", "large group games", "games for a crowd", "What to play"]
 draft: false
 ---
