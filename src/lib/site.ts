@@ -129,6 +129,7 @@ export const MAIN_NAV: NavItem[] = [
       { group: 'Play online', href: '/game-night-madness/', label: 'Game Night Madness', description: 'Let a bracket pick tonight’s game.' },
       { group: 'Play online', href: '/head-judge-arbiter/', label: 'Head Judge Arbiter', description: 'Settle a Magic rules question mid-game.' },
       { group: 'Play in person', href: '/lounges/', label: 'The Lounges', description: 'A membership home for players, city by city.' },
+      { group: 'Play in person', href: '/cube-commonwealth/', label: 'Cube Commonwealth', description: 'Our Magic Cube community: weekly drafts and the CQC.' },
       { group: 'Play in person', href: '/lounges/indianapolis/', label: 'Indianapolis', description: 'Lounge No. 001. Join the waitlist.' },
     ],
   },

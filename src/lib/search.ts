@@ -9,7 +9,7 @@ export type SearchSection = (typeof SEARCH_SECTIONS)[number];
 export function searchSection(pathname: string): SearchSection {
   if (pathname.startsWith('/articles/')) return 'Articles';
   if (pathname.startsWith('/academy/')) return 'Academy';
-  if (/^\/(play|card-catalogue|rpg-demo-library|game-night-madness)\//.test(pathname)) return 'Play';
+  if (/^\/(play|card-catalogue|rpg-demo-library|game-night-madness|cube-commonwealth)\//.test(pathname)) return 'Play';
   if (pathname.startsWith('/lounges/')) return 'Lounges';
   if (/^\/(services|corporate-events)\//.test(pathname)) return 'Services';
   if (pathname.startsWith('/store/')) return 'Store';
