@@ -1,8 +1,8 @@
 // The Cube Commonwealth: The Ludarium's community for Magic: The Gathering Cube players.
 // Home page: /cube-commonwealth/. Tools under it: /cube-commonwealth/where-we-play/.
 
-/** Public invite to the Cube Commonwealth - Indianapolis Discord (from Levi, 2026-11-20). */
-export const CUBE_DISCORD_URL = 'https://discord.gg/sqzrDZraU';
+/** Permanent invite (does not expire) to the Cube Commonwealth - Indianapolis Discord (from Levi, 2026-11-20). */
+export const CUBE_DISCORD_URL = 'https://discord.gg/Pw7tSexZXM';
 
 /** The values from the original cubecommonwealth.com, kept in plain words. */
 export const CUBE_VALUES = [
