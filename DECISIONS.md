@@ -586,3 +586,14 @@ Added the `p:domain_verify` meta tag to BaseLayout so Pinterest can confirm The 
 - **Built for the Audible bounty**: each links the book 1 audiobook (B08V8B2CGV), which offers new listeners the Audible free trial, plus Kindle and paperback. The RPG article links the Starter Set (B0GRW5H3RD); the Core Rulebook has no confirmed Amazon listing yet, so it points to Renegade and game stores.
 - **No spoilers past book 1's setup**, no prices, and facts only from publisher and retailer listings (book list, Jeff Hays narration, RPG contents and the Nov 23, 2026 core book date).
 
+## 2026-11-20: Cube Commonwealth home page (/cube-commonwealth/)
+
+- **Levi's request; a new page ahead of the Jan 8 pause.** Hub for the Cube community: story, values, weekly play, the CQC and its Passport, Cube content, services to come, and a Cube Commonwealth at every Ludarium. Data in `src/lib/cube-commonwealth.ts`.
+- **Branding: "The Ludarium: Cube Commonwealth"** as the eyebrow, per Levi's plan to move the name under The Ludarium.
+- **CQC is now the Cube Quarterly Celebration**: a party, not a tournament. Passport stamps replace season points: show up, lend a Cube, volunteer, go 3-0 (Levi's), plus bring a first-timer and take a road trip (Claude's suggestions). Rewards for a full Passport and the 2027 cities and dates (Indianapolis, Cincinnati, Louisville, Chicago hoped for) are stated as not yet set.
+- **Mission and values come from the original cubecommonwealth.com** (read from the Internet Archive): connect and thrive together one Cube at a time; joy of the journey, growth, lift up the builders.
+- **No venue named for the weekly draft.** The night and place move, so the page points to the Discord for the current one.
+- **No photo.** Only stock card photos exist, and none show Cube; the hero uses community numbers instead.
+- **Services (coaching, Cube design help) say "On the way"** with no prices or dates. Interest goes to the Discord.
+- Added to the Play menu under Play in person, and to the Play search section.
+
