@@ -10,6 +10,8 @@ Choosing games for people who don't like games starts with a question most hosts
 
 This article names the five most common objections and matches each with games that sidestep it. Then it covers how to make the invitation, because the game is only half the problem.
 
+**The quick answer:** find out what they dislike and pick around it. Wavelength is the best single pick; Just One and Telestrations need almost no rules, The Crew removes the losing, and Sushi Go! or Love Letter respect the clock. Start a round without asking, and stop after one.
+
 ## What do people who "don't like games" actually dislike?
 
 When someone says "I don't like games," listen for what comes next. It is usually one of these:

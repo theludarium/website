@@ -11,6 +11,8 @@ draft: false
 
 Every gamer has one. Maybe it is a single box, still in shrink wrap, that seemed like a great idea at the convention. Maybe it is an entire bookcase. The shelf of shame is the collection of board games you own and have never played, and in the arithmetic of this hobby it is the most expensive thing in your house.
 
+**The quick answer:** a game with zero plays has an infinite cost per hour, so it costs more than any game you play. Games usually sit because they are too heavy, the wrong player count, bought on hype, or nobody will teach them. For each one, schedule it, trade or sell it, or admit you will keep it unplayed.
+
 This article is part of The Math of Game Night, a Ludarium series on what game night really costs. The whole series rests on one formula, [cost per play](/articles/cost-per-play-explained/): price ÷ plays ÷ players ÷ hours. The shelf of shame is what happens when the second number is zero.
 
 ## Why is an unplayed game's cost per hour infinite?

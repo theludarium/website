@@ -10,6 +10,8 @@ The screen free family activities that last are the ones with a fixed time, a lo
 
 This is not an anti-screen article. Screens are fine. The problem is that screens are frictionless and everything else is not, so without a standing appointment, the default wins every Saturday. The habit below is designed to give the alternative a fighting chance.
 
+**The quick answer:** pick a weekly time that is already a lull, like Saturday mid-morning, and keep it to one hour of games under thirty minutes. Put the phones in another room, rotate who picks, and play one short game on bad weeks rather than skip. Start with games like Outfoxed!, Sushi Go!, and Kingdomino.
+
 ## Why is a weekly game habit easier than a game night?
 
 Because "we should play more games" is a wish and "Saturday at ten we play" is a plan. Most families who try game night do it twice, hit a busy month, and never restart. The ones who keep it treat it like soccer practice. It is on the calendar, it has a start time, and you do not need to feel like it.

@@ -11,6 +11,8 @@ draft: false
 
 They are not the same game. Azul is a sharp, interactive puzzle where you can hurt the person next to you. Sagrada is a gentle, personal puzzle where the main opponent is your own earlier decisions. Here is how they differ and which one to buy.
 
+**The quick answer:** buy Azul if your group likes interaction, a faster teach, and sharp two-player duels. Buy Sagrada if you want a calm, personal puzzle where nobody attacks anyone, plus a solo mode in the box. Buy both if you host different moods.
+
 ## How does each game work?
 
 **Azul** puts a ring of factory displays in the middle of the table, each holding four tiles in five colors. On your turn you pick one color from one factory, take every tile of that color there, and push the rest into the center pool. Then you place the tiles you took into one of five rows on your board; each row holds only one color and a fixed number of tiles. Tiles you cannot fit go to your floor line and cost points. When all tiles are drafted, each full row moves one tile to your wall, scoring points for adjacent tiles. The first player to complete a horizontal row on the wall triggers the end. Publisher specs list 2 to 4 players, ages 8 and up, 30 to 45 minutes ([Next Move Games](https://www.nextmove-games.com/en/azul/azul-game/)).

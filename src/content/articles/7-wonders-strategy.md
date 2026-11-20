@@ -9,6 +9,8 @@ draft: false
 ---
 Most [7 Wonders](https://www.amazon.com/dp/B08F65MX4L?tag=cubecommonw0a-20) strategy advice begins with the card types. It should begin with the two people sitting next to you. In a seven-player game, you only ever interact with your left and right neighbors: you buy resources from them, you fight wars with them, and you pass them the cards you did not take. The other four players might as well be at a different table.
 
+**The quick answer:** draft resources in age one, then blue civic buildings in ages two and three. Take one or two military cards when a neighbor has none, and win by one shield, not five. Do not plan science; take it only when it falls to you, and pivot when neighbors cut you off.
+
 This guide covers the base game, first or second edition. The second edition changed some card art and a few balance points but the shape of the game is the same.
 
 ## How does 7 Wonders work in one paragraph?

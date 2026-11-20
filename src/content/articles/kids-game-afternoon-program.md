@@ -10,6 +10,8 @@ A kids board game event is one of the easiest things to get wrong and one of the
 
 It covers the age bands that matter, the games that hold a table of eight-year-olds, how many adults you need, and the two rules that keep a room of twenty children from becoming noise. It is written for a library, a church, a community room, or a parent who said yes to hosting the class game day.
 
+**The quick answer:** pick one age band (7 to 9 is easiest) and run ninety minutes. Play Outfoxed! or Hoot Owl Hoot! with ages 4 to 6 and Sushi Go!, Kingdomino, or Zombie Kidz Evolution with 7 to 9. Hold two rules: games stay at their table, and every game ends when it ends.
+
 ## What ages should a kids game afternoon serve?
 
 Not all of them at once. A five-year-old and an eleven-year-old do not want the same afternoon, and a game that works for one bores or defeats the other. Pick a band, or run two rooms.

@@ -9,6 +9,8 @@ draft: false
 ---
 [Azul](https://www.amazon.com/dp/B077MZ2MPW?tag=cubecommonw0a-20) strategy has a reputation for being gentle, because the tiles are pretty and nobody attacks you. The reputation is wrong. Azul is a game of forcing other people to take tiles they do not want, and the player who understands that wins most of the time against players who are just making a nice wall.
 
+**The quick answer:** build columns from the middle of your wall, since a column is worth seven points and a row only two. Take exact tile counts, accept a floor penalty when it buys the first pick or completes a line, and deny opponents the colors they need, especially at two players.
+
 This guide covers the original Azul. The sequels (Stained Glass of Sintra, Summer Pavilion, Queen's Garden) share the drafting but score differently.
 
 ## How does Azul scoring work?

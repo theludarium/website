@@ -10,6 +10,8 @@ D&D vs Pathfinder is the question almost every new tabletop roleplayer asks with
 
 The short version: Dungeons & Dragons is easier to start, easier to find a group for, and has far more beginner material. Pathfinder Second Edition is more detailed, more consistent, and more generous with its rules, and it rewards players who like building characters as much as playing them. Most people should start with D&D. Some people should not.
 
+**The quick answer:** most beginners should start with D&D. It is easier to learn, easier to find a group for, and has far more beginner material. Start with Pathfinder Second Edition if you love building characters, enjoy tactical combat, or want the complete rules free online.
+
 ## What is the actual difference between D&D and Pathfinder?
 
 **Dungeons & Dragons** is published by Wizards of the Coast. The current rules are the 2024 revision of fifth edition, sometimes called 5.5e by players, though the publisher just calls it D&D. Its design goal since 2014 has been accessibility: fewer numbers to track, a bounded range of bonuses, and a system called advantage and disadvantage (roll two dice, take the better or worse) that replaces most situational math. The core free rules are published online by the publisher ([D&D Beyond Basic Rules](https://www.dndbeyond.com/sources/dnd/free-rules)).

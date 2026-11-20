@@ -10,6 +10,8 @@ The best board games for couples are not always the ones with "2 players" printe
 
 Most "two-player" lists hand you the same five titles. Those titles are good. But a couple is not a player count. It is two specific people with different tolerances for losing, different attention spans at 9 p.m., and a shared calendar that rarely has three free hours in it. Start there.
 
+**The quick answer:** pick by the evening you want: Patchwork, Jaipur, or Lost Cities for quiet nights; 7 Wonders Duel, Star Realms, or Hive to compete; The Crew, Codenames: Duet, or Sky Team to cooperate; and Azul, Wingspan, or Cascadia for hosting. Couples new to games can start with Patchwork or Codenames: Duet.
+
 ## What kind of evening are you trying to have?
 
 Before buying anything, agree on which of these four you want most often. Most couples who play regularly end up with one game in each column.

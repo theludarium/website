@@ -10,6 +10,8 @@ A tableau in a board game is the set of cards or tiles a player has placed face 
 
 This article explains what a tableau is, how it differs from the other places a card can be, why so many designers use it, and which games show it off best.
 
+**The quick answer:** a tableau is the face-up, permanent, personal set of cards or tiles in front of you that keeps affecting the game. Race for the Galaxy is the tableau builder most hobbyists name first. For beginners, Wingspan is the most approachable, and 7 Wonders is the fastest to teach a large group.
+
 ## Where does the word come from?
 
 "Tableau" is French for picture or scene, and English borrowed it long ago for a staged, frozen arrangement of people or objects. Card players picked it up for solitaire, where the [tableau](https://en.wikipedia.org/wiki/Glossary_of_patience_terms) is the main layout of columns you build on. Modern board gaming took it from there.

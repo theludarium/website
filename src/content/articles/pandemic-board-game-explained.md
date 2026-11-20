@@ -11,6 +11,8 @@ The [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20) board 
 
 This is an explainer, not a review. If you have heard of Pandemic and wondered what the fuss is about, or you own it and want to understand why it works so you can teach it better, this is for you.
 
+**The quick answer:** Pandemic is a co-op for two to four players who work as one team to cure four diseases before outbreaks, the deck, or the cubes run out. It still holds up in 2026 as the best general-purpose co-op for four adults with forty-five minutes. New groups should start with four Epidemic cards.
+
 ## How does Pandemic actually play?
 
 The board is a world map of cities connected by lines. Each city belongs to one of four colored regions, and each color is a disease. At setup, a handful of cities start with disease cubes on them.

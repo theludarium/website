@@ -11,6 +11,8 @@ draft: false
 
 The short version: Ticket to Ride is easier to teach, plays more people, and almost never produces a bad feeling. Catan is longer, chattier, and more memorable, and it rewards the group that likes to talk and deal. The rest of this article explains why, with a side-by-side table and a verdict at the end.
 
+**The quick answer:** buy Ticket to Ride for two players, groups of up to five, new players, kids, or a weeknight under an hour. Buy Catan for a regular group of three or four who enjoy talking, trading, and a bit of friendly spite.
+
 ## What are Catan and Ticket to Ride, in one paragraph each?
 
 **Catan** puts three or four players on an island of hexes that produce five resources: brick, lumber, wool, grain, and ore. You place settlements at the corners of hexes, roll dice each turn to see which hexes pay out, and spend resources to build roads, settlements, cities, and development cards. Trading with other players is allowed on your turn and is the heart of the game. First to ten victory points wins. Publisher specs list it at 3 to 4 players, ages 10 and up, 60 to 90 minutes (Catan Studio).

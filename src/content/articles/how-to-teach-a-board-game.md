@@ -12,6 +12,8 @@ The person who teaches the game has more power over the night than the person wh
 
 You do not need to be a rules expert. You need a plan.
 
+**The quick answer:** learn the game before your guests arrive. Then teach in this order: the theme in one sentence, how you win, one turn with real pieces, and the big gotcha. Start playing, save rare rules for when they happen, and play the first round open.
+
 > **This is the five-minute version.** The full training is free: [The Ludarium Guild of Game Guides](/academy/guild/) takes you from picking the right game to running a first game newcomers love, in 35 short lessons. Finish the capstone and earn the title Expert Game Guide.
 
 ## Know it before they arrive

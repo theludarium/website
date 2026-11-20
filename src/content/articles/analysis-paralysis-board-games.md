@@ -10,6 +10,8 @@ Analysis paralysis in board games is what happens when a player has too many opt
 
 The slow player is rarely trying to be slow. Understanding why it happens is the first step to fixing it without turning game night into a confrontation.
 
+**The quick answer:** fix the structure before the person. Ask everyone to plan during other turns, use a soft timer, narrow the choice for new players, and give permission to be wrong. Choose games with low paralysis risk, like 7 Wonders, Sushi Go, Azul, or The Crew, and talk privately only if it persists.
+
 ## What causes analysis paralysis in board games?
 
 Three things, usually in combination.

@@ -10,6 +10,8 @@ A game night for introverts is not a quieter version of a regular game night. It
 
 This is for the person who wants people in their life, likes games, and has noticed that hosting usually costs them the next day. The fix is mostly design.
 
+**The quick answer:** invite three or four people, including you, and pick games that do the social work, like Azul, The Crew, Pandemic, Carcassonne, or Cascadia. Set a firm end time in the invite, have the first game set up before anyone arrives, and keep it to two games.
+
 ## Why is a game night easier for introverts than a party?
 
 Because a game gives everyone something to do. At a party, the host is responsible for the energy in the room. Conversation has to be started, kept going, and rescued when it stalls. That is the part that drains.

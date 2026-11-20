@@ -11,6 +11,8 @@ draft: false
 
 They play differently. Wingspan is a card-tableau game with a dice tower and a gentle rhythm. Everdell is a worker-placement game with a cardboard tree and a sharper edge. Here is what that means at the table.
 
+**The quick answer:** buy Wingspan for a relaxed table, a shorter teach, play at five, or solo. Buy Everdell if you like worker placement, big combo turns, and a bit more competition with up to four players. Wingspan is the easier first game.
+
 ## How does each game work?
 
 **Wingspan** gives each player a board with three habitats: forest, grassland, and wetland. On your turn you take one of four actions: play a bird card into a habitat by paying its food cost, gain food from a dice tower, lay eggs on your birds, or draw bird cards. Each action activates the row of birds in that habitat from right to left, triggering their powers. The more birds in a row, the more the action does, but each new bird costs eggs as well as food. Four rounds, with fewer turns each round, and an end-of-round goal that changes each game. Points come from birds, eggs, cached food, tucked cards, bonus cards, and round goals. Publisher specs list 1 to 5 players and 40 to 70 minutes (Stonemaier Games).

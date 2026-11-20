@@ -11,6 +11,8 @@ draft: false
 
 Somewhere past $1,000, a collection stops being something you build and becomes something you manage. The shelf is full. Every new box displaces an old one, or it goes on the floor. Managing a board game collection at this stage is less about what to buy and more about what to keep, and the people who do it well think like curators rather than collectors.
 
+**The quick answer:** set a shelf cap, often 30 to 50 games, and enforce it with one in, one out. Look for a used copy first for any game over $40, sell, trade, or gift what goes unplayed, and review the whole shelf once a year with your play log open.
+
 This is the fifth article in Building Your Library on Purpose, our series from $0 to a lifetime library. If you arrived here from search with a shelf already overflowing, the system below works on any collection. If you are earlier in the journey, the [starter shelf](/articles/starter-shelf-40-to-300/) is where the series begins.
 
 ## Why managing a board game collection needs a cap

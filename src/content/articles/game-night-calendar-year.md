@@ -10,6 +10,8 @@ A game night calendar does for a group what a syllabus does for a class: it tell
 
 This is the calendar we plan to run. One featured night per month, matched to the season, with regular nights in between. Each entry has the theme, the games, and the reason it lands in that month and not another. Use it as written or swap months to fit your group.
 
+**The quick answer:** set one featured night per month, matched to the season, with regular nights in between. Run Gateway Night in January, Co-op Night in February, a league from September, Social Deduction in October, Family Table in November, and One Game, All Night in December. Pick all twelve dates once, in December or early January.
+
 ## Why match game nights to the season?
 
 Because the season is already doing half the work. People's energy, schedule, and appetite for company change across the year in predictable ways. January is full of resolutions and empty evenings. July is hot and people are traveling. November is tense with family plans. A calendar that ignores this fights the current; one that uses it coasts.

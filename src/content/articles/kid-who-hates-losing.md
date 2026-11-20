@@ -10,6 +10,8 @@ A kid who hates losing does not need fewer games. They need more games, chosen s
 
 This is a specific situation, different from a child who occasionally cries over a loss. This is the kid who flips the board, who cheats openly, who cannot let a game end without winning, and whose reaction is big enough that the family has quietly stopped playing. That last part is the real cost, and it is the thing to fix.
 
+**The quick answer:** do not let them win, and do not stop playing. Shrink the stakes: start with cooperative games like Outfoxed! or Forbidden Island, then short luck-heavy games like Sushi Go or Dragomino, then games with hidden scores like Kingdomino, and only then normal games. Expect it to take a few months.
+
 ## Why does a child need to win so badly?
 
 Usually one of a few things, and often more than one.

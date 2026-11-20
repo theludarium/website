@@ -10,6 +10,8 @@ The easiest board games to learn share a trick: the whole game fits in one sente
 
 This list has fourteen games that pass the one-sentence test. For each, here is the sentence, then what you add after the first round starts.
 
+**The quick answer:** Codenames and Sushi Go! are the easiest to learn for adults. Both teach in one sentence and play in fifteen minutes. For a mixed table of kids and adults, try Kingdomino, Sushi Go!, or Cascadia.
+
 ## What is the one-sentence test?
 
 A game passes if you can state the goal and the core action in a single plain sentence, and a new player can take a reasonable first turn from that alone. The sentence does not have to cover everything. Edge cases, scoring details, and special powers can wait until they matter.

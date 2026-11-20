@@ -10,6 +10,8 @@ Here is how to play D&D for beginners, in one sentence: you show up, someone han
 
 You do not need to read a rulebook. You do not need to own dice. You do not need to know what a "saving throw" is before you sit down. This article covers what you will see at your first session so none of it surprises you, and then stops.
 
+**The quick answer:** show up, take the pre-made character you are handed, and say what your character does when the DM describes a situation. When the result is uncertain, roll the twenty-sided die and add a bonus from your sheet; high is good. You need no rulebook and no dice of your own.
+
 ## What actually happens at a D&D table?
 
 Dungeons & Dragons is a conversation with rules. One player, the Dungeon Master (usually shortened to DM), describes the world and plays every character in it who is not you. The rest of the group each play a single character: a fighter, a wizard, a sneaky rogue, a healer.

@@ -10,6 +10,8 @@ A board game league is a game night with memory. Each week's results carry forwa
 
 This is the league format we use, built to survive both. It runs eight to twelve weeks, handles absences without drama, and ends with a night that feels like a final.
 
+**The quick answer:** run eight to twelve weeks with the full schedule set on day one. Award 5, 3, 2, and 1 points by finish at each table, and count only each player's best two-thirds of weeks, so a missed week does not end anyone's season. Seat tables loosely by standings and end with a final night.
+
 ## What makes a league different from a tournament?
 
 A tournament happens in one evening and produces one winner. A league happens across weeks and produces a table of standings. That changes three things.

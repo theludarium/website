@@ -11,6 +11,8 @@ draft: false
 
 Once six games cover six roles, the question changes. You no longer ask "what am I missing?" You ask "where do we actually play?" To grow your board game collection from $300 to $1,000 well, you go deeper in the places your group already lives and resist the pull to go wider everywhere else. This is the core library stage, and it is where most collections either sharpen or sprawl.
 
+**The quick answer:** put about 70 percent of your spending into the two roles your play log says you play most. Buy a first expansion once a game has about 15 plays, start tracking cost per play, buy with specific people in mind, and go deep in one lane for your group.
+
 This article is the fourth in Building Your Library on Purpose. It assumes a finished [starter shelf](/articles/starter-shelf-40-to-300/): gateway, filler, 2-player, party, co-op, stretch. If you are still filling those roles, finish that first. Everything here depends on having data from real plays.
 
 ## Grow your board game collection where your group plays

@@ -11,6 +11,8 @@ draft: false
 
 The best first purchase for a board game collection is nothing. Play before you pay: spend your first few months at other people's tables, at game cafés, and at the library, and buy a game only after you already know you like it. This is the $0 tier, and it is where every good library starts.
 
+**The quick answer:** spend your first few months playing at friends' tables, game cafés, libraries, and game stores, and keep a taste log of the mechanic, length, player count, and who you played with. Hold out for ten to fifteen logged plays. If a friend already owns a game you love, you may never need to buy it.
+
 This article opens our series, Building Your Library on Purpose, which walks from $0 to a shelf you will still pull from in 20 years. The whole path is mapped in [The Starter Shelf](/articles/starter-shelf-40-to-300/), but the first step costs no money at all. It costs a little attention.
 
 ## Why play before you pay beats buying first

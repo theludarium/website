@@ -10,6 +10,8 @@ The most useful roleplaying tips for beginners address a single moment: the GM t
 
 This happens to every new player, and to plenty of experienced ones. It is not a sign that you are bad at this. It is a sign that nobody told you the small set of moves that always work. Here they are.
 
+**The quick answer:** when you freeze, use one of six moves: ask a question about the scene, react to what just happened, do the obvious thing, help someone, say what your character feels, or ask another character a question. You do not need a voice. A decision in plain words is complete roleplaying.
+
 ## Why does the blank moment happen?
 
 Because "anything" is a bad menu. A board game gives you three or four legal moves, and choosing among them is easy. A tabletop RPG gives you infinite options, and infinity is paralyzing.

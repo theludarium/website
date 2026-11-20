@@ -10,6 +10,8 @@ The hardest part of how to find a D&D group as an adult is not that groups are r
 
 So here is the practical version: where groups actually form, what to say when you show up, and how to tell within one session whether a table is worth your Thursdays.
 
+**The quick answer:** start with organized play at a game store, a game lounge, or the public library, where drop-in sessions are built for people without a group. When you sign up, give your experience level, availability, and what you want. If you find two curious people, you can start your own.
+
 ## Why is it harder to find a group after 25?
 
 In school, groups form by accident. Someone in your dorm owns the books, and that is that. After 25, three things change.

@@ -10,6 +10,8 @@ Here is D&D dice explained in two sentences. The twenty-sided die decides whethe
 
 Dice are the most visible part of the hobby and the most intimidating to someone who has only ever rolled a pair of sixes in Monopoly. There are seven shapes in a standard set. They have a notation. Experienced players shout about "nat 20s" and "rolling with advantage." None of this is hard; it is just unexplained.
 
+**The quick answer:** a standard set has seven dice: d4, d6, d8, d10, d12, d20, and a percentile d10. The d20 decides whether something works; the other dice decide how much. Advantage means rolling two d20s and keeping the higher; disadvantage means keeping the lower.
+
 ## What are the seven dice, and what is each one for?
 
 A standard polyhedral set has seven dice, named for the number of faces. The notation "d" plus a number means "a die with that many sides," and a number in front means "roll that many of them." So 2d6 means roll two six-sided dice and add them.

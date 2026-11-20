@@ -10,6 +10,8 @@ The Crew card game is a cooperative trick-taking game for three to five players 
 
 We think it is the best teaching game ever made, and not just for teaching card games. It teaches how a group learns to work together, in twenty-minute lessons, with nobody lecturing. Here is why.
 
+**The quick answer:** The Crew is a cooperative trick-taking game for three to five players where you cannot talk about your cards, so everyone has to read the table and nobody can quarterback. If you buy one version, buy Mission Deep Sea. It plays best at four.
+
 ## How does The Crew work?
 
 If you have played Hearts, Spades, or [Euchre](https://www.amazon.com/dp/B09D464QFY?tag=cubecommonw0a-20), you know the bones. Cards are dealt out. One player leads a card; everyone else must follow suit if they can; the highest card of the led suit wins the trick, unless a trump card was played. In The Crew, the trump suit is a small set of rocket cards (or submarine cards, in Mission Deep Sea).

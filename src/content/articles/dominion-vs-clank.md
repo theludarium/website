@@ -11,6 +11,8 @@ Dominion vs Clank! is a comparison between the game that invented deck building 
 
 The difference is what the deck is for. In [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20), the deck is the game. In Clank!, the deck is how you move a little figure through a dragon's dungeon, and the dungeon is the game. One is a clean, abstract puzzle of efficiency. The other is a push-your-luck adventure with cards attached.
 
+**The quick answer:** buy Dominion for the purest deck builder, quiet efficient play, and an excellent game at two. Buy Clank! for theme, push-your-luck tension, a dragon, and newer players who learn better from a board. Buy both if your shelf has room for one abstract and one adventure.
+
 ## How does each game work?
 
 **Dominion** gives each player a deck of seven Copper and three Estate cards. Each turn you draw five, play one Action card (more if your cards grant extra actions), then spend the money in your hand to buy one card (more with extra buys) from a shared supply of ten Kingdom card piles plus treasure and victory cards. Everything goes to your discard pile and reshuffles into your deck when it runs out. Victory cards score at the end but clog your hand during the game, which is the central tension. The game ends when the Province pile or any three supply piles are empty. Publisher specs list 2 to 4 players and 20 to 30 minutes (Rio Grande Games).

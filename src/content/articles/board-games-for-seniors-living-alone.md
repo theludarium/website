@@ -10,6 +10,8 @@ The best board games for seniors who live alone are the ones that get played, wh
 
 If you are reading this for a parent, a neighbor, or yourself, the advice is the same. Start smaller than you think. Pick games that respect the person. And treat the first few sessions as practice, not as a test of whether they "like games."
 
+**The quick answer:** start with Qwirkle: large tiles, no reading, and it plays well at two. Rummikub is a close second, Azul is the step up, and Codenames or Wavelength suit groups. Bring the game to them, set a fixed day and time, and keep the first session under an hour.
+
 ## Why does living alone make games matter more?
 
 [Roughly a quarter of Americans 65 and older live alone](https://www.pewresearch.org/short-reads/2025/12/04/a-smaller-share-of-older-us-adults-live-alone-today-than-in-1990/), and the share rises to nearly four in ten past 85. That is not a problem by itself. Many people who live alone have full social lives. But living alone removes the default contact that a shared household provides, so social time has to be scheduled on purpose. When nothing is scheduled, days can go by without a real conversation.

@@ -11,6 +11,8 @@ draft: false
 
 A starter board game collection does not need to be big. It needs to be complete. Six games, each filling a different role, will cover nearly every night you host for years, and you can build the whole shelf for somewhere between $40 and $300. This is the starter shelf, and it is the center of our series, Building Your Library on Purpose.
 
+**The quick answer:** buy six games, one per role: a gateway like Catan, a filler like Sushi Go!, a 2-player game like Patchwork, a party game like Codenames, a co-op like Pandemic, and a stretch like Wingspan. No two games fill the same role.
+
 The idea is borrowed from how good libraries work. A library does not buy twelve copies of the same bestseller; it buys one of each thing a reader might need. Your shelf should do the same. One gateway, one filler, one two-player game, one party game, one cooperative game, and one stretch. No two games fill the same role.
 
 If you have not already, read [Play Before You Pay](/articles/play-before-you-pay/) and [Your First $40](/articles/your-first-40-dollars/). The starter shelf assumes you have a taste log and an anchor. If you skipped those, the shelf will still work, but you will be guessing where you could be choosing.

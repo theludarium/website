@@ -11,6 +11,8 @@ draft: false
 
 A shared board game collection runs on trust, and trust runs better with a few things said out loud. Once your group adopts the One Copy Rule, your games stop being four private collections and become one library in several homes. That library needs a short, plain social contract so that a spilled drink or a cross-country move does not turn into a grudge.
 
+**The quick answer:** write down a few plain agreements. Big games live at the usual host's place, but the buyer still owns them. Lost pieces are a group cost, real damage gets an offer to replace, everyone contributes something, and games leave with their owner if someone moves.
+
 This is the fourth article in The Shared Shelf series from The Ludarium. It covers the awkward questions groups avoid until they have to answer them: who stores the big game, what happens to lost pieces, who pays for the ruined board, what to do about the friend who never hosts or the one who always buys, and how to handle it when someone leaves. At the end there is a sample charter you can copy.
 
 If you are new to the idea, [The One Copy Rule](/articles/one-copy-rule/) explains why a group only needs one copy of each game. This article assumes you are already sharing.

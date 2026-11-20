@@ -11,6 +11,8 @@ Splendor strategy is almost entirely about tempo. The game has no dice, no hidde
 
 Splendor is small enough that the whole thing fits in your head, and that is what makes it worth studying.
 
+**The quick answer:** win Splendor on tempo. Skip points for the first five turns and buy cheap tier one cards in the two or three colors that the tier three cards and nobles reward. Reserve only to deny a card, grab a gold token, or lock in a buy, and aim for one noble.
+
 ## How does Splendor work?
 
 On your turn you do one of three things: take gem tokens (three different colors, or two of the same color if at least four of that color remain), reserve a development card (take it into your hand plus one gold token, which is a wild), or buy a development card from the table or from your reserved cards.

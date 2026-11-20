@@ -10,6 +10,8 @@ People who look for board games for social anxiety are usually looking for somet
 
 A note before anything else. Social anxiety is a real condition, and this is not a treatment article. Games are not therapy. If social situations cause you distress that gets in the way of your life, a therapist or doctor can help, and the approaches they use are well studied. What follows is about why many people, anxious or not, find a game table easier than a party, and how to use that.
 
+**The quick answer:** a game table gives you a set topic, turn order, somewhere to look, and a clear ending, which many people find easier than a party. Start with quiet games like Azul, The Crew, Hanabi, or Ticket to Ride, and skip social deduction and performance games at first. Games are not therapy.
+
 ## Why is a game table easier than a party?
 
 A party asks you to generate the interaction yourself. Who do I talk to? What do I say? When do I leave this conversation? Is it my turn to speak? Each of those is a small decision under observation, and for someone whose mind treats observation as threat, the decisions pile up.

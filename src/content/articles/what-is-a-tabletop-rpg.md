@@ -10,6 +10,8 @@ So, what is a tabletop RPG? It is a game where a group of people sit around a ta
 
 If your only exposure is the kids in the basement in Stranger Things, you already have the shape of it right: a group of friends, a table, a lot of yelling, and a monster called a Demogorgon that one of them is narrating. This article fills in the rest.
 
+**The quick answer:** a tabletop RPG is a game where one person runs the world and everyone else plays one character, with dice settling the moments in doubt. Nobody wins; the point is the story you tell together. To start, you need three to five people, a system, dice, paper, a one-shot adventure, and about three hours.
+
 ## What does "tabletop RPG" actually stand for?
 
 RPG means role-playing game. "Tabletop" distinguishes it from video game RPGs like Skyrim or Final Fantasy, which borrowed the term from the table and not the other way around. You will also see TTRPG, "pen-and-paper RPG," or just "roleplaying game." They all mean the same thing.

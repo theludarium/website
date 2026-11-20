@@ -10,6 +10,8 @@ Teaching kids to lose at games works best when losing is frequent, small, and fo
 
 The flip side gets less attention and matters just as much. A child who gloats when they win is learning the same lesson as one who cries when they lose: that the result is about them. The goal is a kid who can say "good game" from either side of the table and mean it.
 
+**The quick answer:** play short, lucky games like Sushi Go!, Dragomino, and Rhino Hero many times in a row, and lose cheerfully in front of your child. Teach the "good game" script, name the feeling instead of scolding the behavior, and hold the winner to the same script. Use cooperative games like Outfoxed! when any loss brings tears.
+
 ## Why is losing so hard for kids?
 
 Because for a child, losing feels like information about who they are. Adults have lost enough times to know a game result is a game result. A six-year-old has not. Each loss lands as "I'm bad at this," and sometimes "I'm bad."

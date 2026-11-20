@@ -10,6 +10,8 @@ draft: false
 
 The first board game to buy is not the best game you have ever played. It is the one your people will actually sit down to most often. We call it the anchor: one game, about $40, chosen to fit the table you really have rather than the table you imagine. Get this one right and everything you add later has something to attach to.
 
+**The quick answer:** buy one anchor game, about $40, that fits your most common player count, teaches in 10 minutes, survives repeat plays, and that nobody in your group owns. Catan or Ticket to Ride suit a group of four or five, Patchwork or Jaipur suit couples, and Codenames suits parties.
+
 This is the second article in Building Your Library on Purpose, our series on growing a collection from $0 to a lifetime library. If you have not spent your [$0 months playing first](/articles/play-before-you-pay/), start there. The anchor is chosen from a taste log, not a wish list. The full shelf plan lives in [The Starter Shelf](/articles/starter-shelf-40-to-300/).
 
 ## What makes a board game a good anchor?

@@ -10,6 +10,8 @@ draft: false
 
 Are board games an expensive hobby? Ask someone who just paid $80 for a big box and they will say yes. Ask them again a year later, after that box has carried a dozen game nights, and they will give you a different answer. The honest way to settle it is to measure board game cost per hour the same way you would measure any other evening out, and then put the numbers next to each other.
 
+**The quick answer:** board games are among the cheapest in-person, social entertainment per hour. A $40 game played 20 times by three people costs about $0.67 per person per hour, against about $15 for a family ballgame. The catch: the low number only holds if the game actually gets played.
+
 This is the third article in The Math of Game Night, a Ludarium series built on one formula: [cost per play](/articles/cost-per-play-explained/), which is price ÷ plays ÷ players ÷ hours. Here we take that formula out of the game room and point it at everything else you might do on a Saturday night.
 
 ## How much does a ballgame cost per hour?

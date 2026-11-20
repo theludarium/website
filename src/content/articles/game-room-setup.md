@@ -10,6 +10,8 @@ A good game room setup comes down to three things most hosts never think about: 
 
 None of this requires a dedicated room. It requires paying attention to a dining table for twenty minutes before guests arrive.
 
+**The quick answer:** light the table directly, evenly, and from above. Seat about four at a standard 36-by-60-inch table, on chairs with backs at matching heights, and keep music low with the TV off. Clear the table and put food and drinks on a separate surface.
+
 ## Why does the room matter at a game night?
 
 Because discomfort is cumulative and invisible. Nobody says "the light is bad." They squint, lean, lose their place, and get a little short with the person next to them. Nobody says "this chair hurts." They shift, stand up early, and decide not to play the second game.

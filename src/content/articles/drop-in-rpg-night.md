@@ -10,6 +10,8 @@ Drop in D&D is the format that gets people who have always wanted to try a table
 
 This guide is for the person organizing the night and the game masters running the tables. It covers what changes when the players are strangers who may never return, how to build a one-shot that lands in two hours, and the handful of rules that keep an open table safe and fun.
 
+**The quick answer:** seat four or five players per table, hand out pregenerated characters, and run a two-hour one-shot with a ten-minute break. Start in the action, keep to one location, one problem, and one villain, and build a climax that can happen at the ninety-minute mark. Use safety tools at every table.
+
 ## What makes a drop-in night different from a campaign?
 
 Everything the GM is used to relying on is gone.

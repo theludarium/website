@@ -10,6 +10,8 @@ A good game night lineup has three parts. An opener that gets everyone talking w
 
 Most hosts pick games one at a time, based on what they feel like playing. The result is a night that peaks early or never quite gets going. Think of the evening as a set list instead, and the choices get easier.
 
+**The quick answer:** play three games in order. Open with something short and social like Codenames or Just One, make Ticket to Ride or Wingspan the 60 to 90 minute main event, and close with something fast and funny like Cockroach Poker or Wavelength.
+
 ## Why does the order of games matter?
 
 Because energy follows a curve, and the games should follow it too. People arrive a little stiff. They warm up. They hit a stretch of real focus. Then they get tired, and the last thing they do before leaving is what they remember.

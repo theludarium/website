@@ -11,6 +11,8 @@ draft: false
 
 Nobody talks about the number. You will hear gamers debate rules, rank publishers, and argue about whether a game is better at three or four players, but ask how much they spend on board games per year and the room goes quiet. That silence is a problem, because the number is the single most useful thing to know before you buy your next game.
 
+**The quick answer:** survey data shows only about 6% of board gamers spend under $100 a year and about 22% spend over $1,000, with most in between. Set your own number from your hours, not your wishlist. About $1 spent per hour played is a common benchmark.
+
 This is the fourth article in The Math of Game Night, a Ludarium series about what game night really costs. The series pillar, [Cost Per Play, Explained](/articles/cost-per-play-explained/), covers the formula for a single game. This one zooms out to the whole year and asks the question most people never answer: what are you actually spending, and is it the right amount?
 
 ## What the survey spread looks like

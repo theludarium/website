@@ -10,6 +10,8 @@ The best games to play with grandparents who "don't play games" are the ones tha
 
 Once you see it that way, the job changes. You are not converting someone. You are finding the modern game that sits closest to the one they already know.
 
+**The quick answer:** start with Rummikub, which looks like gin rummy with big tiles, or Qwirkle if they have never played anything. Codenames, Ticket to Ride, Azul, and Skull King also work because each looks like something they already know. Start playing near them instead of asking, and keep the first game short.
+
 ## Why do grandparents say they don't play games?
 
 Ask a few and the real reasons come out. Almost none of them are about games.

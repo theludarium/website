@@ -9,6 +9,8 @@ draft: false
 ---
 [Carcassonne](https://www.amazon.com/dp/B00NX627HW?tag=cubecommonw0a-20) strategy divides into before you understand farmers and after. Before, the game is a pleasant tile-laying puzzle that the luckiest drawer wins. After, it is a game of territory, timing, and meeple economy, and the same player wins most of the time. This guide is about getting you to the second kind of game.
 
+**The quick answer:** place no farmers early, one around the midpoint on the farm touching the most completed cities, and every spare meeple as a farmer in the last few tiles. Steal big cities by merging a separate city into them. Place monasteries early, in gaps that will fill in.
+
 It covers the base game with the standard rules for farms (the scoring in the current edition, where each completed city touching a farm scores three points for the farm's majority holder). Older editions scored farms differently, and the River and Abbot additions in newer boxes do not change the strategy much.
 
 ## How does Carcassonne scoring work?

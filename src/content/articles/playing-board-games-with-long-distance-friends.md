@@ -10,6 +10,8 @@ Playing board games with long distance friends is now easy enough that distance 
 
 The underlying claim is that a game group is one of the best structures for keeping adult friendships alive across distance, because it gives you a reason to show up that is not "catching up." Catching up runs out. A game does not.
 
+**The quick answer:** start with Board Game Arena plus a video call, and use the free online versions of Codenames and Wavelength for party games. Keep a standing night that never moves, run a turn-based game between sessions, and meet in person at least once a year.
+
 ## Why do game groups survive distance better than other friendships?
 
 Most adult friendships fade for a simple reason: nothing requires them to continue. When you lived in the same city, you saw each other because you were there. When one of you moves, the friendship has to be scheduled, and scheduled friendships compete with everything else.

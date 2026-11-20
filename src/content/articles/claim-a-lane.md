@@ -11,6 +11,8 @@ draft: false
 
 Once a play group agrees on the One Copy Rule, a new question shows up: if we are only buying one copy of each game, who buys what? Claim a Lane is the answer. Each person in the group collects a different genre or role, so four people buying in four directions cover far more ground than four people chasing the same hits.
 
+**The quick answer:** each person in the group collects one lane: strategy, party, co-op, two-player, campaign, or filler. Assign lanes by taste first, then by hosting, with the most frequent host taking the big boxes. Four friends buying five games each can build a library of more than twenty games with no duplicates.
+
 This is the third article in The Shared Shelf series from The Ludarium. It takes the idea from [The One Copy Rule](/articles/one-copy-rule/) and turns it into a buying plan. By the end you will have six lanes, a worked example of four friends covering more than twenty games, and a way to assign and rebalance lanes without anyone feeling boxed in.
 
 ## What is Claim a Lane?

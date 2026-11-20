@@ -10,6 +10,8 @@ draft: false
 
 The One Copy Rule is simple: a play group needs one copy of a game, not one per person. But every simple rule has edges, and this is where people get stuck. Is a second copy of a board game ever worth buying? Yes. Sometimes it is the smartest purchase on your list.
 
+**The quick answer:** a second copy is worth it only when it creates plays that would not otherwise happen. That usually means a second play group, a home or family copy, a game that improves with two sets like Dominion, an anchor whose absence cancels a play, or a cheap filler for your bag.
+
 This article is part of The Shared Shelf series from The Ludarium, and it exists to draw the line clearly. We will walk through the one test that decides every case, apply it to each common exception, give you a checklist, and then be just as clear about when a second copy is a mistake dressed up as a reason.
 
 If you have not read the pillar yet, start with [The One Copy Rule](/articles/one-copy-rule/). This piece assumes you buy the basic idea and want to know where it bends.

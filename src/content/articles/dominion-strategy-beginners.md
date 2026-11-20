@@ -9,6 +9,8 @@ draft: false
 ---
 The first [Dominion](https://www.amazon.com/dp/B01LYLIS2U?tag=cubecommonw0a-20) strategy every new player should learn is the one that feels like cheating: buy Silver, buy Gold, buy Provinces, and ignore almost everything else. It is called Big Money, and it beats most people's first ten attempts at building a clever deck. Once you understand why, you understand the game.
 
+**The quick answer:** play Big Money with one strong Action card, usually Smithy or Militia. Buy Silver and Gold, buy a Province whenever you have eight coins, and start buying Duchies when four or fewer Provinces remain. Build an engine only when the kingdom offers trashing, draw plus actions, and a payoff.
+
 This guide covers the base game of Dominion, which is what most people own. The dozens of expansions add new cards but the thinking is the same.
 
 ## How does Dominion work?

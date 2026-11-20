@@ -11,6 +11,8 @@ Pandemic board game strategy changes completely between four epidemic cards and 
 
 This guide assumes you know the rules and have beaten the game at the standard setting. It is written for the group that keeps losing on Heroic and wants to know what they are doing wrong.
 
+**The quick answer:** on Heroic, stop chasing cubes and control the infection discard pile. Keep every city in that pile at two cubes or fewer, park the Quarantine Specialist on the danger cluster, save Resilient Population for right after an epidemic, and cure whatever color your cards give you.
+
 Rules are described generally for the base game, second edition. The number of epidemic cards for each difficulty is printed in the [Z-Man rulebook](https://aadl.org/files/catalog_guides/Pandemic_Rules.pdf): four for Introductory, five for Standard, six for Heroic.
 
 ## Why is Heroic difficulty so much harder?

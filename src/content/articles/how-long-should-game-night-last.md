@@ -10,6 +10,8 @@ How long should game night last? For most groups, about three hours, with a star
 
 Ending on time is the most underrated hosting skill. It is also the one most hosts avoid, because it feels unkind. It is the opposite.
 
+**The quick answer:** about three hours for a weekend evening with adults, two to two and a half on a weeknight, and 60 to 90 minutes for families with young kids. Put the end time in the invite, announce the last game 30 minutes out, and stand up as it wraps.
+
 ## Why does ending on time matter so much?
 
 Because the end of the night is what people remember, and because the end determines whether they come back.

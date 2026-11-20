@@ -13,6 +13,8 @@ Every play group needs a small set of board games you can teach in five minutes 
 
 The Teacher's Shelf is not a beginner's shelf. Experienced groups use it more than new ones, because they know the first fifteen minutes of a session set the tone for the next three hours.
 
+**The quick answer:** Codenames, Just One, Sushi Go!, Love Letter, The Crew, Wavelength, Azul, and Ticket to Ride all teach in five minutes or less. Teach the goal first, then the turn, then one example turn, then start playing. One person in the group owns the shelf and brings it to every session.
+
 ## What belongs on a Teacher's Shelf?
 
 The test is strict: can you explain the goal, the turn, and one example in under five minutes, to someone who has never played a modern board game, and have them playing competently by the second round? If any of those fails, the game is a gateway game, which is fine, but it is not a Teacher's Shelf game.
