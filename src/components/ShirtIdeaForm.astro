@@ -1,0 +1,166 @@
+---
+// "Suggest a shirt" form on /store/#suggest-a-shirt. Posts to functions/api/shirt-idea.ts,
+// which saves the idea to D1 and emails it to Levi. Only the game and the idea are required.
+import { TURNSTILE_SITE_KEY } from '@/lib/config';
+import { LIMITS } from '../../functions/api/shirt-idea.ts';
+
+const siteKey = TURNSTILE_SITE_KEY;
+---
+
+<form class="idea" method="post" action="/api/shirt-idea" data-idea-form>
+  <p class="idea__status idea__status--ok" data-idea-ok hidden role="status">
+    Got it, thank you. We read every idea. If yours becomes a shirt and you asked to hear, we will write to you.
+  </p>
+  <p class="idea__status idea__status--error" data-idea-error hidden role="alert"></p>
+
+  <div class="idea__row">
+    <label>
+      Which game? <span class="idea__req">Required</span>
+      <input name="game" required maxlength={LIMITS.game} placeholder="The game the joke comes from" autocomplete="off" />
+    </label>
+    <label>
+      The line or the moment <span class="idea__req">Required</span>
+      <input name="idea" required maxlength={LIMITS.idea} placeholder="What should the shirt say or show?" autocomplete="off" />
+    </label>
+  </div>
+  <label>
+    What it means <span class="idea__opt">Optional</span>
+    <textarea name="meaning" rows="3" maxlength={LIMITS.meaning} placeholder="Why do players of that game get it?"></textarea>
+  </label>
+  <div class="idea__row">
+    <label>
+      Your name, if we use it <span class="idea__opt">Optional</span>
+      <input name="credit_name" maxlength={LIMITS.creditName} placeholder="For a &quot;suggested by&quot; credit" autocomplete="given-name" />
+    </label>
+    <label>
+      Email <span class="idea__opt">Optional</span>
+      <input name="email" type="email" maxlength={LIMITS.email} placeholder="you@example.com" autocomplete="email" />
+    </label>
+  </div>
+  <label class="idea__check">
+    <input type="checkbox" name="notify_if_made" value="yes" />
+    Email me if this one becomes a shirt
+  </label>
+
+  <div class="idea__trap" aria-hidden="true">
+    <label>Leave this empty <input name="website" tabindex="-1" autocomplete="off" /></label>
+  </div>
+
+  {siteKey && <div class="cf-turnstile" data-sitekey={siteKey} data-theme="auto"></div>}
+
+  <div class="idea__actions">
+    <button class="button" type="submit">Send my idea</button>
+    <p class="idea__fine">
+      We only use your email to tell you about your idea. Nothing is added to a mailing list. <a href="/privacy/">Privacy</a>
+    </p>
+  </div>
+</form>
+
+{siteKey && <script is:inline src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>}
+
+<style>
+  .idea {
+    display: grid;
+    gap: var(--space-4);
+    max-width: 44rem;
+  }
+
+  .idea label {
+    display: grid;
+    gap: var(--space-1);
+    font-weight: 600;
+    font-size: var(--text-sm);
+  }
+
+  .idea input:not([type='checkbox']),
+  .idea textarea {
+    width: 100%;
+    padding: 0.7em 0.9em;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-md);
+    background: var(--color-surface);
+    color: var(--color-text);
+    font: inherit;
+    font-weight: 400;
+  }
+
+  .idea input:focus-visible,
+  .idea textarea:focus-visible {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 2px;
+  }
+
+  .idea__row {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 16rem), 1fr));
+    gap: var(--space-4);
+  }
+
+  .idea__req,
+  .idea__opt {
+    font-weight: 400;
+    font-size: var(--text-xs);
+    color: var(--color-text-muted);
+  }
+
+  .idea .idea__check {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+    font-weight: 400;
+  }
+
+  .idea__trap {
+    position: absolute;
+    left: -9999px;
+  }
+
+  .idea__actions {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--space-3) var(--space-5);
+  }
+
+  .idea__fine {
+    margin: 0;
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+
+  .idea__status {
+    margin: 0;
+    padding: var(--space-3) var(--space-4);
+    border-radius: var(--radius-md);
+    font-weight: 600;
+  }
+
+  .idea__status--ok {
+    background: var(--color-accent-soft);
+  }
+
+  .idea__status--error {
+    border: 1px solid var(--color-border);
+    background: var(--color-surface);
+  }
+</style>
+
+<script>
+  const MESSAGES: Record<string, string> = {
+    missing: 'Please tell us the game and the idea.',
+    email: 'Please check your email address. We need one to tell you if your shirt gets made.',
+    long: 'One of your answers is a little long. Please shorten it.',
+    verify: 'We could not confirm you are human. Please try again.',
+    slow: 'That is a lot of ideas in one hour. Please try again a little later.',
+    unavailable: 'Sorry, the form is not working right now. Please try again later.',
+  };
+  const params = new URLSearchParams(location.search);
+  const ok = document.querySelector<HTMLElement>('[data-idea-ok]');
+  const error = document.querySelector<HTMLElement>('[data-idea-error]');
+  if (ok && params.get('idea') === 'sent') ok.hidden = false;
+  const code = params.get('idea_error');
+  if (error && code) {
+    error.textContent = MESSAGES[code] ?? MESSAGES.unavailable;
+    error.hidden = false;
+  }
+</script>
