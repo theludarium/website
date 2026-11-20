@@ -92,6 +92,8 @@ The measure is not whether people had fun, though they will. The measure is whet
 
 A game night will not fix a bad onboarding process. It will make a decent one feel human, and that is often the difference between a hire who stays and one who starts looking at six months. The game is the reason. The people are the point.
 
+**Buying games for the office?** An [Amazon Business account](https://www.amazon.com/business?tag=cubecommonw0a-20) is free to open and is built for team purchases, with business pricing and invoices for your records.
+
 ## FAQ
 
 ### What are good onboarding activities for new hires beyond the welcome lunch?

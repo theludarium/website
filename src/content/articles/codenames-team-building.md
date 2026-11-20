@@ -94,6 +94,8 @@ They think about the listener before they speak. They accept that a misunderstan
 
 None of that requires a leadership course. It requires a few rounds where the feedback is immediate and nobody's job is on the line. The game is the reason. The people are the point.
 
+**Buying games for the office?** An [Amazon Business account](https://www.amazon.com/business?tag=cubecommonw0a-20) is free to open and is built for team purchases, with business pricing and invoices for your records.
+
 ## FAQ
 
 ### How many people can play Codenames at once?

@@ -87,6 +87,8 @@ Edmondson's point has always been that safety is built from evidence. A game tab
 
 Games will not fix a team where people are punished for speaking up. They will show a team that is ready to be safer how it feels, and that experience is hard to forget. The game is the reason. The people are the point.
 
+**Buying games for the office?** An [Amazon Business account](https://www.amazon.com/business?tag=cubecommonw0a-20) is free to open and is built for team purchases, with business pricing and invoices for your records.
+
 ## FAQ
 
 ### What activities build psychological safety on a team?

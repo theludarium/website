@@ -573,3 +573,10 @@ Added the `p:domain_verify` meta tag to BaseLayout so Pinterest can confirm The 
 - **Keep reading ranks the same game first**, then the same series, then the same category, and shows six. Articles in a series get a "Next in this series" box.
 - **Later (after the new-page pause ends 2027-01-08):** topic pages per series, game pages per game, and a tag cleanup (2,682 tags, almost all used once).
 
+## 2026-11-20: Amazon bounty lines (affiliate plan, step 1)
+
+- **Prime free trial line ($12 bounty) in 22 gift guides**, just before each FAQ: "Need it by the holidays?" It is seasonal: remove every paragraph that starts `**Need it by the holidays?**` after Dec 20.
+- **Amazon Business line ($15 bounty) in 15 workplace and team-building articles**: "Buying games for the office?" It stays year round.
+- **Not on the corporate events page.** That page is a landing page with one job, the inquiry form, so an Amazon link there would compete with it.
+- Plan and rates: the Amazon Affiliate Revenue Plan doc (Nov 20, 2026), from Amazon's US Standard Commission Income Statement.
+

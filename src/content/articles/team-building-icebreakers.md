@@ -156,6 +156,8 @@ For longer activities, from 30 minutes to a half day, see [team building activit
 
 Planning the end-of-year party instead? Our [office holiday party games](/articles/office-holiday-party-games/) work for a whole room, and [party games for large groups](/articles/party-games-for-large-groups/) covers boxed games for 8 or more. For a team gift exchange, the [holiday board game gift guide](/articles/holiday-board-game-gift-guide-2026/) sorts picks by who you are buying for.
 
+**Buying games for the office?** An [Amazon Business account](https://www.amazon.com/business?tag=cubecommonw0a-20) is free to open and is built for team purchases, with business pricing and invoices for your records.
+
 ## FAQ
 
 ### What is a good 5 minute icebreaker for work?

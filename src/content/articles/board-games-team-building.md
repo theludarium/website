@@ -88,6 +88,8 @@ No, and it should not try. Strategy sessions, planning, and the dinner all still
 
 If a full offsite is not on the calendar, a recurring version works too. A monthly lunch game hour, run with the same structure as a [standing game night](/articles/how-to-start-a-game-night-group/), does most of the same work at a fraction of the planning.
 
+**Buying games for the office?** An [Amazon Business account](https://www.amazon.com/business?tag=cubecommonw0a-20) is free to open and is built for team purchases, with business pricing and invoices for your records.
+
 ## FAQ
 
 ### What are the best board games for team building?

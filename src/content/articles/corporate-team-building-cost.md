@@ -114,6 +114,8 @@ A good vendor will quote within a day and will tell you if your headcount or goa
 
 Spend less on the activity and more on the host. The games themselves are cheap. What you are paying for is a room where nobody is confused, nobody is left out, and the conversation starts without anyone forcing it. The game is the reason. The people are the point.
 
+**Buying games for the office?** An [Amazon Business account](https://www.amazon.com/business?tag=cubecommonw0a-20) is free to open and is built for team purchases, with business pricing and invoices for your records.
+
 ## FAQ
 
 ### How much should a company budget for team building per person?

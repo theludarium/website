@@ -131,6 +131,8 @@ The last question matters most. One concrete habit, named by the team, is worth 
 
 Bring people together in person when you can, because the table is the point. If you are planning a gathering for a team that rarely shares a room, see our guide to [in-person team building for remote teams](/articles/in-person-team-building-remote-teams/). For a broader menu of games beyond escape puzzles, our list of [team building games for work](/articles/team-building-board-games/) has twenty picks sorted by group size.
 
+**Buying games for the office?** An [Amazon Business account](https://www.amazon.com/business?tag=cubecommonw0a-20) is free to open and is built for team purchases, with business pricing and invoices for your records.
+
 ## FAQ
 
 ### Is an escape room good for team building?

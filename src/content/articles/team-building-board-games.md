@@ -111,6 +111,8 @@ Need something shorter or more structured? Try one of these [team building icebr
 
 Want ideas beyond games, sorted by how much time you have? See [team building activities for work](/articles/team-building-activities-for-work/).
 
+**Buying games for the office?** An [Amazon Business account](https://www.amazon.com/business?tag=cubecommonw0a-20) is free to open and is built for team purchases, with business pricing and invoices for your records.
+
 ## FAQ
 
 ### What is the best team building board game for a large group?
