@@ -2,7 +2,7 @@
 title: How We Catalog Board Games by How They Feel
 description: Box categories never tell you how a game night will feel. Here is how The Ludarium catalogs board games by shelf and six dimensions of feel, Table Talk too.
 pubDate: 2026-10-17
-category: Game Guides
+category: What to Play
 tags: [card catalogue, choosing games, game night, table talk]
 draft: false
 ---

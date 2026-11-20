@@ -2,7 +2,7 @@
 title: "The Rondel Mechanic: Every Turn a Timing Puzzle"
 description: "The rondel mechanic explained. How the action wheel in Antike, Imperial and Navegador works, why every turn becomes a timing puzzle, and games that use it."
 pubDate: 2026-10-20
-category: Game Guides
+category: How to Play
 tags: ["rondel mechanic", "what is a rondel", "rondel board games", "Mac Gerdts rondel", "action selection wheel", "Imperial board game rondel", "Glossary"]
 draft: false
 ---

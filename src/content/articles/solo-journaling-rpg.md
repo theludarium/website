@@ -2,7 +2,7 @@
 title: "Solo Journaling RPGs: Where to Start"
 description: "A solo journaling RPG is a game you play alone by writing: prompts, dice or cards, and a notebook. How a session goes and the best solo journaling RPGs to try."
 pubDate: 2026-10-31
-category: Game Guides
+category: How to Play
 tags: ["solo journaling rpg", "journaling rpg", "solo rpg journal", "best solo journaling rpg", "solo rpg", "thousand year old vampire"]
 draft: false
 ---

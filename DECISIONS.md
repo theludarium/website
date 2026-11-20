@@ -564,3 +564,12 @@ Added the `p:domain_verify` meta tag to BaseLayout so Pinterest can confirm The 
 - **Deep Cut v1.0**, The Ludarium's original cooperative print-and-play game, sells on Lemon Squeezy (product 1534068) at $12. Levi playtested it and approved the price. Plan: test $15 after about a month (inside the standing $5 to $15 range).
 - **v1.0 changes from v0.3:** playtest form replaced by an About page with a game log; "Prototype, not for sale" removed; the push rule settled to match the simulation (the failed token goes back in the bag before the redraw). Source and build: `ludarium-ops/research/deep-cut/v1/`.
 - The 25 MB PDF went to Lemon Squeezy through a local relay page, because the browser upload tool caps files at 10 MB.
+
+## 2026-11-19: Articles organized for finding deeper reads
+
+- **Game Guides split into What to Play (60) and How to Play (60).** It mixed buying lists with rules and strategy. Article URLs do not include the category, so only `/articles/category/game-guides/` moved; it redirects to What to Play.
+- **`/articles/` is a hub, not a feed.** Search, six reader paths by what someone came to do, one tile per category with three first reads, the newest six, then every article. Before, 449 articles sat in one newest-first list.
+- **Series from existing tags.** About 20 tags were already used as series (around 10 articles each); `src/lib/series.ts` names them and gives each category page a Start here row and numbered reading lists. Game Shelf keeps its own six series from `game-shelf.ts`.
+- **Keep reading ranks the same game first**, then the same series, then the same category, and shows six. Articles in a series get a "Next in this series" box.
+- **Later (after the new-page pause ends 2027-01-08):** topic pages per series, game pages per game, and a tag cleanup (2,682 tags, almost all used once).
+

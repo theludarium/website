@@ -2,7 +2,7 @@
 title: "Card Drafting Explained: Pick, Pass, and Signal"
 description: "Card drafting explained in plain terms: how pick-and-pass works, why 7 Wonders and Magic use it, the other drafting formats, and how to read the signals."
 pubDate: 2026-10-20
-category: Game Guides
+category: How to Play
 tags: ["card drafting", "pick and pass drafting", "drafting mechanic board games", "7 Wonders drafting", "booster draft explained", "how to draft cards", "Glossary"]
 draft: false
 ---

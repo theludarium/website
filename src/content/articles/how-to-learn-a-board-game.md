@@ -3,7 +3,7 @@ title: "Board Game Rules: How to Learn Any Game From the Rulebook"
 seoTitle: "Board Game Rules: How to Learn Any Game Fast"
 description: "Board game rules made easy: a seven-step method to learn any game from the rulebook, find answers to rules questions, and teach it back to your table tonight."
 pubDate: 2026-10-31
-category: Game Guides
+category: How to Play
 tags: ["board game rules", "board game rulebook", "how to play board games", "how to learn a new board game fast", "learning board games", "teaching board games"]
 draft: false
 ---

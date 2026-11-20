@@ -2,7 +2,7 @@
 title: "The Crew Card Game: The Best Teaching Game Ever Made"
 description: "The Crew card game is a cooperative trick-taker with almost no talking. Here is how it plays, why it teaches teamwork so well, and which version to buy."
 pubDate: 2026-10-22
-category: Game Guides
+category: How to Play
 tags: ["The Crew card game", "The Crew Mission Deep Sea", "cooperative trick-taking game", "how to play The Crew", "The Crew Quest for Planet Nine", "best co-op card games", "Cooperative and campaign games"]
 draft: false
 ---

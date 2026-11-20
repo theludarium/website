@@ -2,7 +2,7 @@
 title: "Starforged: A Beginner's Guide to the Solo Sci-Fi RPG"
 description: "Starforged is a sci-fi RPG you can play solo, co-op, or with a guide. How its moves, oracles, and progress tracks work, what you need, and how to try it free."
 pubDate: 2026-10-31
-category: Game Guides
+category: How to Play
 tags: ["starforged", "ironsworn starforged", "starforged solo", "how to play starforged", "solo rpg", "sci-fi rpg"]
 draft: false
 ---

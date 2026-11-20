@@ -9,24 +9,31 @@ interface Props {
   articles: Article[];
   /** Slug of the category being shown, or undefined for all articles. */
   current?: string;
+  /** Show the newest article large at the top (default). Off when another section already features new ones. */
+  feature?: boolean;
+  /** Heading level for the cards: h2 when the list is the page's main content, h3 under a section heading. */
+  cardHeading?: 'h2' | 'h3';
 }
 
-const { articles, current } = Astro.props;
-const [featured, ...rest] = articles;
+const { articles, current, feature = true, cardHeading = 'h2' } = Astro.props;
+const featured = feature ? articles[0] : undefined;
+const rest = feature ? articles.slice(1) : articles;
 ---
 
 <CategoryFilters current={current} />
 
 {
-  featured ? (
+  articles.length > 0 ? (
     <>
-      <div class="featured" data-pagefind-ignore>
-        <ArticleCard article={featured} variant="featured" headingLevel="h2" />
-      </div>
+      {featured && (
+        <div class="featured" data-pagefind-ignore>
+          <ArticleCard article={featured} variant="featured" headingLevel={cardHeading} />
+        </div>
+      )}
       {rest.length > 0 && (
         <div class="article-grid" data-pagefind-ignore>
           {rest.map((article) => (
-            <ArticleCard article={article} headingLevel="h2" />
+            <ArticleCard article={article} headingLevel={cardHeading} />
           ))}
         </div>
       )}

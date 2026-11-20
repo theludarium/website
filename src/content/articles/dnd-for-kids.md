@@ -2,7 +2,7 @@
 title: "D&D for Kids: Rules That Keep the Table Fun"
 description: "D&D for kids works with a few small changes. Which ages it suits, how to simplify the rules, which systems fit young players, and table rules that keep it fun."
 pubDate: 2026-10-20
-category: Game Guides
+category: How to Play
 tags: ["D&D for kids", "running D&D for children", "tabletop RPG for kids", "best RPG for kids", "D&D age appropriate", "family D&D", "Tabletop RPGs for beginners"]
 draft: false
 ---

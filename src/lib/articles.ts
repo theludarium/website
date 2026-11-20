@@ -1,6 +1,7 @@
 import { getCollection, type CollectionEntry } from 'astro:content';
 import { CATEGORIES } from '@/lib/site';
 import { IS_PREVIEW } from '@/lib/env';
+import { SERIES } from '@/lib/series';
 
 export type Article = CollectionEntry<'articles'>;
 export type Category = (typeof CATEGORIES)[number];
@@ -54,15 +55,23 @@ export function formatDate(date: Date): string {
   });
 }
 
-/** Up to `limit` related articles: same category scores highest, then shared tags. */
-export function relatedArticles(article: Article, all: Article[], limit = 3): Article[] {
+const SERIES_TAGS = new Set(SERIES.filter((s) => s.tag).map((s) => s.tag!.toLowerCase()));
+
+/**
+ * Up to `limit` related articles. The same game counts most, then the same series,
+ * then the same category, then any other shared tag. Ties go to the newer article.
+ */
+export function relatedArticles(article: Article, all: Article[], limit = 6, exclude: string[] = []): Article[] {
   const tags = new Set(article.data.tags.map((t) => t.toLowerCase()));
+  const games = new Set(article.data.games ?? []);
   return all
-    .filter((other) => other.id !== article.id)
+    .filter((other) => other.id !== article.id && !exclude.includes(other.id))
     .map((other) => {
-      const sameCategory = other.data.category === article.data.category ? 3 : 0;
-      const sharedTags = other.data.tags.filter((t) => tags.has(t.toLowerCase())).length;
-      return { other, score: sameCategory + sharedTags };
+      const sharedGames = (other.data.games ?? []).filter((g) => games.has(g)).length;
+      const shared = other.data.tags.map((t) => t.toLowerCase()).filter((t) => tags.has(t));
+      const sharedSeries = shared.filter((t) => SERIES_TAGS.has(t)).length;
+      const sameCategory = other.data.category === article.data.category ? 2 : 0;
+      return { other, score: sharedGames * 5 + sharedSeries * 3 + sameCategory + (shared.length - sharedSeries) };
     })
     .sort((a, b) => b.score - a.score || b.other.data.pubDate.valueOf() - a.other.data.pubDate.valueOf())
     .slice(0, limit)

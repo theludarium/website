@@ -2,18 +2,26 @@
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import PageIntro from '@/components/PageIntro.astro';
 import ArticleList from '@/components/ArticleList.astro';
+import ArticleCard from '@/components/ArticleCard.astro';
+import SeriesShelf from '@/components/SeriesShelf.astro';
 import { getArticles } from '@/lib/articles';
 import { CATEGORIES } from '@/lib/site';
+import { SERIES, START_HERE, bySlugs, seriesArticles } from '@/lib/series';
 
 export async function getStaticPaths() {
   const articles = await getArticles();
   return CATEGORIES.map((category) => ({
     params: { category: category.slug },
-    props: { category, articles: articles.filter((a) => a.data.category === category.name) },
+    props: { category, all: articles, articles: articles.filter((a) => a.data.category === category.name) },
   }));
 }
 
-const { category, articles } = Astro.props;
+const { category, articles, all } = Astro.props;
+// Hand-picked first reads, then this category's series in reading order, then everything.
+const startHere = bySlugs(START_HERE[category.slug] ?? [], all);
+const groups = SERIES.filter((s) => s.category === category.name)
+  .map((series) => ({ series, articles: seriesArticles(series, all) }))
+  .filter((g) => g.articles.length > 1);
 ---
 
 <BaseLayout
@@ -36,8 +44,32 @@ const { category, articles } = Astro.props;
       </section>
     )
   }
-  <section class="container list-section">
-    <ArticleList articles={articles} current={category.slug} />
+  {
+    startHere.length > 0 && (
+      <section class="container cat-block" aria-labelledby="start-here-title">
+        <h2 id="start-here-title" class="cat-block__title">Start here</h2>
+        <p class="cat-block__lede">If you read only a few {category.name} articles, make it these.</p>
+        <div class="start-grid" data-pagefind-ignore>
+          {startHere.map((a) => (
+            <ArticleCard article={a} />
+          ))}
+        </div>
+      </section>
+    )
+  }
+  {
+    groups.length > 0 && (
+      <section class="container cat-block" aria-labelledby="series-title">
+        <h2 id="series-title" class="cat-block__title">Read a series</h2>
+        <p class="cat-block__lede">Articles that build on each other, in reading order.</p>
+        <SeriesShelf groups={groups} />
+      </section>
+    )
+  }
+  <section class="container list-section" aria-labelledby="all-title">
+    <h2 id="all-title" class="cat-block__title">Every {category.name} article</h2>
+    <p class="cat-block__lede">{articles.length} articles, newest first.</p>
+    <ArticleList articles={articles} current={category.slug} feature={false} cardHeading="h3" />
   </section>
 </BaseLayout>
 
@@ -61,6 +93,26 @@ const { category, articles } = Astro.props;
 
   .course-band .button {
     flex: none;
+  }
+
+  .cat-block {
+    margin-bottom: var(--space-8);
+  }
+
+  .cat-block__title {
+    margin: 0 0 var(--space-1);
+    font-size: var(--text-2xl);
+  }
+
+  .cat-block__lede {
+    margin: 0 0 var(--space-5);
+    color: var(--color-text-muted);
+  }
+
+  .start-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 18rem), 1fr));
+    gap: var(--space-5);
   }
 
   .list-section {

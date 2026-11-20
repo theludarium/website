@@ -2,7 +2,7 @@
 title: "Euro Games vs Ameritrash: What the Labels Mean"
 description: "Eurogame vs Ameritrash, explained without the arguments. What each label means, where they came from, which games fit, and why most new games are both."
 pubDate: 2026-10-20
-category: Game Guides
+category: How to Play
 tags: ["eurogame vs ameritrash", "what is a eurogame", "Ameritrash meaning", "German style board games", "thematic board games", "hybrid board games", "Glossary"]
 draft: false
 ---

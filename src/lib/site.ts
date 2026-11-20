@@ -50,11 +50,18 @@ export interface ArticleCategory {
 
 export const CATEGORIES: ArticleCategory[] = [
   {
-    slug: 'game-guides',
+    slug: 'what-to-play',
     letters: 'tabletop',
-    name: 'Game Guides',
-    description: 'How to play, how to teach, and how to win (sometimes).',
+    name: 'What to Play',
+    description: 'Picks, comparisons, and gift guides for finding the right game for your table.',
     tint: 'var(--brand-felt)',
+  },
+  {
+    slug: 'how-to-play',
+    letters: 'tabletop',
+    name: 'How to Play',
+    description: 'Rules, strategy, and the words players use, explained plainly. How to play, how to teach, and how to win (sometimes).',
+    tint: '#4f7a8c',
   },
   {
     slug: 'game-night',

@@ -2,7 +2,7 @@
 title: "Area Majority vs Area Control: The Difference"
 description: "Area majority vs area control, explained simply. Why El Grande and Risk feel nothing alike, how majority scoring works, and how it changes the way you play."
 pubDate: 2026-10-20
-category: Game Guides
+category: How to Play
 tags: ["area majority", "area majority vs area control", "area influence games", "El Grande area majority", "area control mechanic", "majority scoring board games", "Glossary"]
 draft: false
 ---

@@ -3,7 +3,7 @@ title: "How to Play JinxO (Dito!): Rules for the 2026 Spiel des Jahres Winner"
 seoTitle: "How to Play JinxO: Rules for the 2026 Game of the Year"
 description: "How to play JinxO, the 2026 Spiel des Jahres winner sold as Dito! in Germany: setup, matching, Jinx scoring, bonuses, strategy, and who the party game suits."
 pubDate: 2026-11-01
-category: Game Guides
+category: How to Play
 tags: ["how to play jinxo", "jinxo rules", "dito game", "spiel des jahres 2026", "party game", "word games"]
 draft: false
 ---

@@ -2,7 +2,7 @@
 title: "Engine Building Games: What the Term Means"
 description: "Engine building games explained. What an engine is, why Wingspan, Splendor and Dominion feel so good, the curve every engine follows, and where to start."
 pubDate: 2026-10-20
-category: Game Guides
+category: How to Play
 tags: ["engine building games", "what is engine building", "engine builder board game", "Wingspan engine", "Splendor engine", "best engine building games", "Glossary"]
 draft: false
 ---

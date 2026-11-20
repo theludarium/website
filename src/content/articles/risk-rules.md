@@ -2,7 +2,7 @@
 title: "Risk Rules: How to Play, Dice, Armies, and Strategy"
 description: "Risk rules in plain words: starting armies by player count, reinforcements, continent bonuses, card trade-ins, dice rules, fortifying, and beginner strategy."
 pubDate: 2026-10-31
-category: Game Guides
+category: How to Play
 tags: ["risk rules", "how to play risk", "risk board game rules", "risk dice rules", "how many armies to start with in risk", "risk strategy"]
 draft: false
 ---

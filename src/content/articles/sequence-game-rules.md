@@ -3,7 +3,7 @@ title: "Sequence Game Rules: How to Play, Jacks, Teams, and Winning"
 seoTitle: "Sequence Game Rules: Jacks, Teams and How to Win"
 description: "Sequence game rules: the board, cards dealt by player count, turns, dead cards, one-eyed and two-eyed jacks, corners, how many sequences to win, and tips."
 pubDate: 2026-10-31
-category: Game Guides
+category: How to Play
 tags: ["sequence game rules", "how to play sequence", "sequence rules for 2 players", "sequence one-eyed and two-eyed jacks", "how many sequences to win", "sequence teams"]
 draft: false
 ---

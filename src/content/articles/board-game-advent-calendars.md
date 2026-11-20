@@ -2,7 +2,7 @@
 title: "Are Board Game Advent Calendars Worth It? 2026 Picks"
 description: "Are board game advent calendars worth it? The game and dice calendars on sale for 2026, what they cost, a simple test for deciding, and a homemade version."
 pubDate: 2026-10-29
-category: Game Guides
+category: What to Play
 tags: ["board game advent calendar", "EXIT advent calendar", "dice advent calendar", "game advent calendar for adults", "escape room advent calendar", "Gift guides"]
 draft: false
 ---

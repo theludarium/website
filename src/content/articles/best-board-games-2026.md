@@ -4,7 +4,7 @@ seoTitle: "Best Board Games of 2026 for Adults and Families"
 description: "The best new board games of 2026 for adults, families and kids, and who each one suits: Cozy Stickerville, JinxO, Dino Racer, Duel of Meloch and more."
 pubDate: 2026-10-22
 updatedDate: 2026-11-17
-category: Game Guides
+category: What to Play
 tags: ["best board games 2026", "new board games 2026", "top board games this year", "best new board games", "board game releases 2026", "board games worth buying 2026", "What to play"]
 draft: false
 topPicksHeading: "Top picks from 2026"

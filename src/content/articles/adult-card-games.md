@@ -4,7 +4,7 @@ seoTitle: "12 Card Games Like Cards Against Humanity, but Better"
 description: "Card games like Cards Against Humanity that stay funny past round three: twelve adult card games, plus the closest match for every kind of group and table."
 pubDate: 2026-10-19
 updatedDate: 2026-11-17
-category: Game Guides
+category: What to Play
 tags: ["adult card games", "card games for adults", "games like Cards Against Humanity", "party card games", "card games for a group", "fun card games for adults", "What to play"]
 draft: false
 ---

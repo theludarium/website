@@ -2,7 +2,7 @@
 title: "Qwirkle Rules: How to Play, Score, and Win"
 description: "Qwirkle rules in plain words: the 108 tiles, setup, placing or trading, line rules, Qwirkle scoring with the 6-point bonus, the end-game bonus, and tips."
 pubDate: 2026-10-31
-category: Game Guides
+category: How to Play
 tags: ["qwirkle rules", "how to play qwirkle", "qwirkle scoring", "what is a qwirkle", "qwirkle strategy", "tile placement games"]
 draft: false
 ---

@@ -133,7 +133,7 @@ Keep it simple. No CMS, database, or user accounts. Add a dependency only when i
 | `/privacy/` | Privacy | Privacy policy covering email signups and forms |
 | `/terms/` | Terms | Terms of use |
 
-Starting article categories (adjust once articles exist): Game Guides, Game Night, Togethering, Game Culture.
+Article categories live in `CATEGORIES` in `src/lib/site.ts` (What to Play, How to Play, Game Night, Togethering, Game Shelf, Game Culture, Game Design, Magic & Cube). Series, each category's Start here picks, and the reader paths on `/articles/` live in `src/lib/series.ts`; a new series is one entry there plus a shared tag on its articles.
 
 ## Article content model
 

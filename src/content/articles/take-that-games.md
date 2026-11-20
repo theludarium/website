@@ -2,7 +2,7 @@
 title: "Take-That Games: Direct Attacks and Why They Divide"
 description: "Take that board games explained. What the term means, why Munchkin and Exploding Kittens split tables, how designers soften it, and how to choose well."
 pubDate: 2026-10-20
-category: Game Guides
+category: How to Play
 tags: ["take that board games", "what is take that mechanic", "take that card games", "direct conflict board games", "Munchkin take that", "games with player attacks", "Glossary"]
 draft: false
 ---

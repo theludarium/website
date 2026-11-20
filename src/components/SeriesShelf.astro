@@ -1,0 +1,85 @@
+---
+// The series in one category, each as a numbered reading list. Each series has an
+// anchor (#series-<slug>) so article pages and the hub can link straight to it.
+import { articleUrl, readingMinutes, type Article } from '@/lib/articles';
+import type { Series } from '@/lib/series';
+
+interface Props {
+  groups: { series: Series; articles: Article[] }[];
+}
+
+const { groups } = Astro.props;
+---
+
+<div class="series-grid" data-pagefind-ignore>
+  {
+    groups.map(({ series, articles }) => (
+      <section class="series card" id={`series-${series.slug}`} aria-labelledby={`series-${series.slug}-title`}>
+        <h3 id={`series-${series.slug}-title`}>{series.name}</h3>
+        <p class="series__blurb">
+          {series.blurb} <span class="series__count">{articles.length} articles</span>
+        </p>
+        <ol class="series__list">
+          {articles.map((a) => (
+            <li>
+              <a href={articleUrl(a)}>{a.data.title}</a>
+              <span class="series__min">{readingMinutes(a)} min</span>
+            </li>
+          ))}
+        </ol>
+      </section>
+    ))
+  }
+</div>
+
+<style>
+  .series-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 26rem), 1fr));
+    gap: var(--space-5);
+    align-items: start;
+  }
+
+  .series {
+    scroll-margin-top: 6rem;
+  }
+
+  .series h3 {
+    margin: 0 0 var(--space-1);
+    font-size: var(--text-xl);
+  }
+
+  .series__blurb {
+    margin: 0 0 var(--space-4);
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+
+  .series__count {
+    white-space: nowrap;
+    font-weight: 600;
+  }
+
+  .series__list {
+    display: grid;
+    gap: var(--space-2);
+    margin: 0;
+    padding-left: 1.4em;
+  }
+
+  .series__list li::marker {
+    color: var(--color-text-muted);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .series__list a {
+    font-weight: 600;
+  }
+
+  .series__min {
+    margin-left: var(--space-2);
+    font-size: var(--text-xs);
+    color: var(--color-text-muted);
+    white-space: nowrap;
+  }
+</style>

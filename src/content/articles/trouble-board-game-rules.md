@@ -3,7 +3,7 @@ title: "Trouble Board Game Rules: How to Play With the Pop-O-Matic"
 seoTitle: "Trouble Board Game Rules: How to Play Trouble"
 description: "Trouble board game rules made simple: setup, the Pop-O-Matic, why you need a 6 to get out, extra pops, bumping opponents, the finish line, and how to win."
 pubDate: 2026-10-31
-category: Game Guides
+category: How to Play
 tags: ["trouble board game rules", "how to play trouble", "pop-o-matic", "what does a 6 do in trouble", "how to get out of home in trouble", "family board games"]
 draft: false
 ---

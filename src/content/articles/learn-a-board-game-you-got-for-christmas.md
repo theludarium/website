@@ -3,7 +3,7 @@ title: "Got a Board Game for Christmas? How to Learn It Fast"
 seoTitle: "Got a Board Game for Christmas? Learn It Before Dinner"
 description: "Got a board game for Christmas? Learn it fast: read the rules once for the goal, play an open-handed practice round, then use a video, an app, or a free course."
 pubDate: 2026-10-29
-category: Game Guides
+category: How to Play
 tags: ["learn a new board game", "how to learn board game rules", "new board game for christmas", "board game rules video", "board game tutorial", "Christmas board games"]
 draft: false
 ---

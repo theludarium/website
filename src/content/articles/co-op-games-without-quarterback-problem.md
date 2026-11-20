@@ -2,7 +2,7 @@
 title: "Co-op Games Without a Quarterback Problem: 12 Picks"
 description: "Cooperative games with hidden information stop one player from running the table. Twelve co-ops where everyone has to think, and why the design works."
 pubDate: 2026-10-20
-category: Game Guides
+category: What to Play
 tags: ["cooperative games hidden information", "quarterback problem board games", "alpha player co-op", "best co-op games no alpha player", "cooperative games limited communication", "co-op games everyone participates", "Cooperative and campaign games"]
 draft: false
 ---

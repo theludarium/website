@@ -3,7 +3,7 @@ title: "A Parent's Guide to the Pokémon Trading Card Game"
 seoTitle: "Pokémon TCG Parent's Guide: What to Buy First"
 description: "A parent's guide to the Pokémon Trading Card Game: what it is, what to buy first, what to skip, how to spot fake cards, where kids play, and what age to start."
 pubDate: 2026-10-24
-category: Game Guides
+category: How to Play
 tags: ["Pokémon TCG for parents", "Pokémon cards for kids", "best Pokémon TCG starter", "Pokémon Battle Academy", "how to spot fake Pokémon cards", "Pokémon League", "Gift guides"]
 draft: false
 ---

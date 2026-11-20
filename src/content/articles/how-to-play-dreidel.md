@@ -2,7 +2,7 @@
 title: "How to Play Dreidel: Rules, Letters, and Better Scoring"
 description: "How to play dreidel: what nun, gimel, hei, and shin mean, a turn step by step, house rules that keep it moving, and quick fixes for a game that runs too long."
 pubDate: 2026-10-29
-category: Game Guides
+category: How to Play
 tags: ["how to play dreidel", "dreidel rules", "dreidel letters meaning", "nun gimel hei shin", "Hanukkah games", "dreidel game for kids"]
 draft: false
 ---

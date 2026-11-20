@@ -2,7 +2,7 @@
 title: "Kingmaking in Board Games: Why Losers Pick the Winner"
 description: "Kingmaking in board games is when a player who can't win decides who does. Why it happens, which games invite it, and calm ways to handle it at your table."
 pubDate: 2026-10-20
-category: Game Guides
+category: How to Play
 tags: ["kingmaking", "kingmaker problem", "kingmaking board games", "player who can't win", "board game etiquette", "multiplayer game design", "Glossary"]
 draft: false
 ---

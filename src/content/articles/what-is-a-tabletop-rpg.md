@@ -2,7 +2,7 @@
 title: "What Is a Tabletop RPG? A Plain-English Explainer"
 description: "What is a tabletop RPG? A plain-English explainer for anyone who has only seen one on Stranger Things: how it works, what you need, and why adults love it."
 pubDate: 2026-10-19
-category: Game Guides
+category: How to Play
 tags: ["what is a tabletop RPG", "tabletop role-playing game explained", "TTRPG meaning", "how do tabletop RPGs work", "D&D explained", "pen and paper RPG", "Tabletop RPGs for beginners"]
 draft: false
 ---

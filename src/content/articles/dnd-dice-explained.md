@@ -2,7 +2,7 @@
 title: "D&D Dice Explained: d20, d6, and Advantage"
 description: "D&D dice explained for new players: what each of the seven dice is for, how a d20 roll works, what advantage means, and why the math feels the way it does."
 pubDate: 2026-10-20
-category: Game Guides
+category: How to Play
 tags: ["D&D dice explained", "what dice do you need for D&D", "d20 system explained", "advantage and disadvantage", "polyhedral dice set", "how to read D&D dice", "Tabletop RPGs for beginners"]
 draft: false
 ---

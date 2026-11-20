@@ -3,7 +3,7 @@ title: "Tile Placement Board Games: How They Work and What to Play"
 seoTitle: "Tile Placement Board Games: How They Work, What to Play"
 description: "Tile placement board games explained: shared maps, personal tableaus, tile drafting and pattern building, plus ten great tile laying games to try next at home."
 pubDate: 2026-10-31
-category: Game Guides
+category: How to Play
 tags: ["tile placement board games", "tile laying games", "best tile placement games", "tile drafting games", "board game mechanics explained", "family board games"]
 draft: false
 ---

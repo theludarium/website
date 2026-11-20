@@ -2,7 +2,7 @@
 title: "Clue Rules: How to Play the Classic Murder Mystery Game"
 description: "Clue rules in plain words: the case file setup, moving, rooms, secret passages, suggestion vs accusation, how to win, and a simple note-taking strategy."
 pubDate: 2026-10-31
-category: Game Guides
+category: How to Play
 tags: ["clue rules", "how to play clue", "clue board game rules", "clue suggestion vs accusation", "clue secret passages", "clue strategy"]
 draft: false
 ---

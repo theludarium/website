@@ -2,7 +2,7 @@
 title: "Two Player Cooperative Board Games for Couples: 12 Picks"
 description: "Two player cooperative board games that keep couples on the same side. Twelve picks from 15-minute card games to long campaigns, and who each one fits."
 pubDate: 2026-10-20
-category: Game Guides
+category: What to Play
 tags: ["two player cooperative board games", "co-op games for couples", "2 player co-op board games", "best two player games for couples", "cooperative games for two", "date night board games", "Cooperative and campaign games"]
 draft: false
 ---

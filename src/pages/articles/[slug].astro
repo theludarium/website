@@ -11,6 +11,7 @@ import TopPicks from '@/components/TopPicks.astro';
 import { KIT_LETTERS_FORMS, KIT_OFFER_FORMS } from '@/lib/config';
 import {
   categoryByName,
+  articleUrl,
   categoryUrl,
   formatDate,
   getArticles,
@@ -20,6 +21,7 @@ import {
   type Article,
 } from '@/lib/articles';
 import { SITE } from '@/lib/site';
+import { nextInSeries } from '@/lib/series';
 import '@/styles/prose.css';
 import '@/styles/reading.css';
 
@@ -56,7 +58,9 @@ const autoNotice = /\]\(https:\/\/(www\.amazon\.com|link\.amazon|amzn\.to)\//.te
 
 const minutes = readingMinutes(article);
 const showToc = headings.filter((h) => h.depth === 2).length >= 3;
-const related = relatedArticles(article, all);
+// The next article in this one's series, if any, gets its own link; Keep reading skips it.
+const next = nextInSeries(article, all);
+const related = relatedArticles(article, all, 6, next ? [next.next.id] : []);
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 
 // An article's "## FAQ" section (### question, then answer paragraphs) also
@@ -182,6 +186,23 @@ if (faq.length >= 2) {
                 <li>{tag}</li>
               ))}
             </ul>
+          )
+        }
+
+        {
+          next && (
+            <aside class="article__next" aria-labelledby="article-next-title" data-pagefind-ignore>
+              <p class="eyebrow">
+                Next in {next.series.name} · {next.position + 1} of {next.total}
+              </p>
+              <h2 id="article-next-title">
+                <a href={articleUrl(next.next)}>{next.next.data.title}</a>
+              </h2>
+              <p>{next.next.data.description}</p>
+              <a class="text-link" href={`${categoryUrl(next.series.category)}#series-${next.series.slug}`}>
+                See the whole series
+              </a>
+            </aside>
           )
         }
 

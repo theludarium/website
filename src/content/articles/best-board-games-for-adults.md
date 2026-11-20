@@ -4,7 +4,7 @@ seoTitle: "Best Board Games for Adults (Even Skeptical Ones)"
 description: "The best board games for adults, picked for people who think they hate board games: twelve games that fix the usual complaints, with player counts and times."
 pubDate: 2026-10-19
 updatedDate: 2026-11-18
-category: Game Guides
+category: What to Play
 tags: ["best board games for adults", "board games for adults who don't like board games", "fun board games for adults", "board games for new players", "adult game night games", "modern board games", "What to play"]
 games: [codenames, wavelength, azul, ticket-to-ride, just-one, splendor, sushi-go, skull, cascadia]
 draft: false

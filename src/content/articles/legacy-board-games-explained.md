@@ -2,7 +2,7 @@
 title: "Legacy Board Games Explained: Games That Change Forever"
 description: "Legacy board games explained: what happens when you tear up cards and sticker the board, which legacy games are worth it, and how to keep a group together."
 pubDate: 2026-10-20
-category: Game Guides
+category: How to Play
 tags: ["legacy board games", "what is a legacy board game", "Pandemic Legacy", "Risk Legacy", "best legacy board games", "campaign board games", "Cooperative and campaign games"]
 draft: false
 ---
