@@ -11,6 +11,8 @@ draft: false
 
 Board game expansions are the easiest purchase in the hobby to justify and the easiest one to regret. You already love the base game, the expansion costs less than a new game, and the box promises more of what you like. Sometimes that is exactly what you get. Other times you end up with a $30 box of components that makes a game you played every month into one you set up twice a year.
 
+**The quick answer:** an expansion is worth it once your group has seen the edges of the base game, roughly ten plays for a medium-weight game, and is asking for more. It is not worth it when the base game still feels fresh or when you are buying to complete a set. In a group, the base-game owner should own it.
+
 This article is part of our Smart Buying series, alongside the pillar on [how to buy used board games](/articles/how-to-buy-used-board-games/). The goal is a simple test you can run before buying any expansion, plus a rule for who in your play group should own it.
 
 ## What kinds of board game expansions are there?

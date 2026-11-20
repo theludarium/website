@@ -9,6 +9,8 @@ draft: false
 ---
 The best [Codenames](https://www.amazon.com/dp/B014Q1XX9S?tag=cubecommonw0a-20) tips are not about being clever. They are about being safe. A spymaster who gives careful two-word clues all game will beat one who swings for a brilliant four nearly every time, because the brilliant four hits the assassin once in five games and that is the game.
 
+**The quick answer:** give two-word clues by default, three when it is tight, and four only when nothing else fits. Check the assassin and the other team's words before your own. Operatives should touch the most certain word first and stop when unsure.
+
 This guide covers both roles: the spymaster who gives clues and the field operatives who guess. Most tables have one person who is good at one and nobody who is good at the other.
 
 ## How does Codenames work, briefly?

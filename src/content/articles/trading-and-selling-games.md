@@ -10,6 +10,8 @@ draft: false
 
 Selling board games you do not play is the half of smart buying that most people skip. Everyone has a system for acquiring games. Almost nobody has a system for letting them go, which is how a shelf that was carefully chosen at $300 becomes a wall of boxes at $1,000 that nobody can find anything on.
 
+**The quick answer:** sell or trade games not played in a year, or whose best player count does not fit your group. Offer them to your own play group first, then local trade groups and math trades. A complete, played copy usually sells for about 40 to 60 percent of the current new price.
+
 This article is part of our Smart Buying series, which opens with [how to buy used board games](/articles/how-to-buy-used-board-games/). Think of this as the same market from the other side of the table. Every used game someone buys is a game someone else decided to move, and learning to be that someone keeps your collection alive instead of merely large.
 
 ## How do you decide which board games to sell?

@@ -11,6 +11,8 @@ draft: false
 
 A rotating host game night is the single structural decision that keeps a play group from becoming one person's hobby with an audience. When the host rotates, the games rotate, the food rotates, the drive rotates, and the group stops depending on any single living room. This article, part of our Running a Play Group series, gives you the schedule and the rules to make it painless.
 
+**The quick answer:** list the regulars in a fixed order and go down the list, one host per session, with the next three dates pinned in the group chat. The host provides the table, one simple food item, and a game from their own lane. Anyone who cannot host takes a different standing role.
+
 If you have not read the series pillar, [How to Start a Board Game Play Group](/articles/how-to-start-a-play-group/), it covers the first month. This one is for the group that has survived that month and wants to last a year.
 
 ## Why does rotating the host rotate the shelf?

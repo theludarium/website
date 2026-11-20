@@ -10,6 +10,8 @@ Learning how to host trivia night is mostly learning how to write questions, bec
 
 This guide covers the structure that works, how to write and balance questions, how to score without arguments, and what the host actually does for two hours. It applies to a living room with three teams or a hall with twenty.
 
+**The quick answer:** run six rounds of eight to ten questions with a break after round three, about two hours in all. Write questions that roughly half the teams get, check every answer twice, ban phones during rounds, and keep a season leaderboard so teams come back.
+
 ## What is the right format for a trivia night?
 
 Six rounds of eight to ten questions, with a break after round three. That is about two hours including scoring, which is the length a weeknight can hold.

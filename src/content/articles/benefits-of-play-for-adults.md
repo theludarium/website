@@ -10,6 +10,8 @@ Most adults stop playing somewhere in their twenties and never notice. Work fill
 
 The psychiatrist Stuart Brown, who founded the National Institute for Play, has a line that frames the whole topic: the opposite of play is not work, it is depression. He meant it as an observation from decades of interviews, not a diagnosis. But it points at something true. Play is not a break from a serious life. It is part of what makes a life feel like one.
 
+**The quick answer:** the research suggests play is associated with lower stress, better mood, stronger social ties, more flexible thinking, and slower cognitive decline in later life. These are associations, not guarantees. The practical fix is a container: a weekly slot, the same people, and a short game.
+
 ## What counts as play for an adult?
 
 Play is any activity you do for its own sake, where the doing is the point and you lose track of time while doing it. Brown's working definition includes a few features: it is apparently purposeless, voluntary, attractive, free from the pressure of time, and it makes you want to keep going.

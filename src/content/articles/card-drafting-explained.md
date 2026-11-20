@@ -8,6 +8,8 @@ draft: false
 ---
 Card drafting is a way of dealing out cards where every player chooses what they get instead of taking what they are dealt. In the most common form, each player holds a hand, picks one card to keep, and passes the rest to a neighbor. Repeat until the cards run out. Everyone ends with a set they chose, built one decision at a time from hands that other people were also picking from.
 
+**The quick answer:** in card drafting, each player picks one card from a hand and passes the rest to a neighbor until the cards run out. 7 Wonders is the cleanest board game example and Sushi Go! the easiest to learn. The skill is reading what each hand you receive says about your neighbors' picks.
+
 This article explains how card drafting works, where it came from, the main variations you will meet, and the skill that separates a good drafter from a lucky one: reading what the people around you are taking.
 
 ## How does pick-and-pass drafting work?

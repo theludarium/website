@@ -10,6 +10,8 @@ The best board games for college students meet three constraints that most game 
 
 This is not a list of the deepest games. It is a list of games that will actually get played between 10 p.m. and 1 a.m. by people who did not plan to play a game.
 
+**The quick answer:** buy Codenames first. It is cheap, small, plays on the floor, and handles a crowd. Add The Crew, Love Letter, Skull, or Hanabi for small boxes, Wavelength for the whole floor, and Jaipur or Hive Pocket for nights with one roommate.
+
 ## What makes a game right for a dorm?
 
 A dorm is a specific environment. Small space, no table, inconsistent group size, a budget that tops out around $25, and friends who drop by unannounced. A game that does well in a dorm has these traits:

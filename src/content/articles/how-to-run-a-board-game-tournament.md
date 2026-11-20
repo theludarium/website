@@ -10,6 +10,8 @@ A board game tournament is the easiest way to turn a casual group into an event.
 
 This guide covers the four formats that work for tabletop, when each fits, how to seed, how to break ties, and how to keep the whole thing from running two hours over. And if the hard part is agreeing on which game to play, [Game Night Madness](/game-night-madness/), The Ludarium's free bracket app, lets the group vote its way down to one.
 
+**The quick answer:** pick a short game with a clear winner, like Love Letter, Hive, or Jaipur, and run Swiss for most events. Use single elimination only when you have far more players than time. Set the tiebreak order and a round clock before round one.
+
 ## Which game should you run a tournament for?
 
 The game matters more than the format. A good tournament game has four properties.

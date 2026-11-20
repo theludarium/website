@@ -13,6 +13,8 @@ If you want to know how to start a board game play group, here is the whole reci
 
 This is the pillar of our Running a Play Group series, and it leans on an idea from our Shared Shelf series: a group needs one copy of each game, not one per person. We call that [The One Copy Rule](/articles/one-copy-rule/), and if you start the group with that habit in place, you will save money and arguments from the first session.
 
+**The quick answer:** pick a fixed night (biweekly on a weeknight is a safe default) and invite four to six people directly. Start with gateway games like Codenames, Sushi Go!, Just One, Ticket to Ride, or Azul, set start and end times, and hold the night whenever three people can come.
+
 ## What do you actually need to start a board game play group?
 
 Three things. Not a collection, not a dedicated game room, not a spreadsheet.

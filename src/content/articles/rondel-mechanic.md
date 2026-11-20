@@ -10,6 +10,8 @@ The rondel mechanic is an action-selection system where the available actions ar
 
 This article explains how a rondel works, who invented it, why it produces such a distinctive feel, which games use it, and how to think about it when you sit down to play one.
 
+**The quick answer:** a rondel is a wheel of actions: you move your marker clockwise one, two, or three spaces for free, pay for each extra space, and take the action where you stop. Mac Gerdts introduced it in Antike (2005). Navegador is the most approachable rondel game to start with, and Imperial is the deepest.
+
 ## How does a rondel work?
 
 Picture a circle divided into eight wedges, like a pizza. Each wedge names an action: Produce, Trade, Build, Move, Tax, and so on. Each player has a marker that sits on one wedge.

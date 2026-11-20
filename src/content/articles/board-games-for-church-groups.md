@@ -10,6 +10,8 @@ Good board games for church groups solve a specific problem: a room of people wh
 
 Two assumptions run through this guide. First, the games should be ones anyone can join mid-evening without a long teach. Second, the content should be comfortable for a mixed-age room, which rules out some popular party games without making the list dull.
 
+**The quick answer:** for 6 to 10 people, play Codenames (the best single pick), Wavelength, or Just One. For 15 to 25, run parallel tables of Sushi Go Party!, Telestrations, or Werewolf. For 30 to 40 or more, use a station rotation and add Azul, Ticket to Ride, and Qwirkle.
+
 ## What does a church game night need that a regular one doesn't?
 
 Most game-night advice assumes a group of friends with similar ages and a host who owns the games. Church and youth groups are different in a few ways that change which games work.

@@ -11,6 +11,8 @@ draft: false
 
 Convention board game buying is a different sport from buying at a store. There are hundreds of booths, every game is being demoed by someone enthusiastic, the exclusives will be gone by Sunday, and your friends are all buying things. It is the single best environment ever designed for coming home with a game you will play once.
 
+**The quick answer:** audit your shelf before you go, list the roles you are missing, and set a budget as a number. Demo every game before you buy it, wait 24 hours on anything over about $60, and coordinate with your group so only one of you buys each game.
+
 This article is part of our Smart Buying series, which starts with [how to buy used board games](/articles/how-to-buy-used-board-games/). The plan below is not about buying less. It is about buying games that actually hit your table, and doing it with your group so the shared shelf gets better instead of just bigger.
 
 ## Before you go: audit the shelf and make a list

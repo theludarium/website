@@ -10,6 +10,8 @@ Two player cooperative board games solve the oldest problem in couples' game nig
 
 This is a list of twelve co-ops that play well at exactly two. Some are built for two; others scale down cleanly. Every game here is real and widely available, and rules are described at a general level.
 
+**The quick answer:** Sky Team is the best pick for most couples: short, tense, and built for exactly two. Codenames: Duet is the quick, repeatable option. For a campaign, play Pandemic Legacy: Season 1 for story or Jaws of the Lion for tactics.
+
 ## What makes a co-op work at two players?
 
 Many co-ops say "2 to 4" on the box and mean "best at 4." A good two-player co-op needs three things.

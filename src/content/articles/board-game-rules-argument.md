@@ -10,6 +10,8 @@ A board game rules argument has a predictable shape. Two people are certain. The
 
 Most rules disputes can be settled in under two minutes with a process everyone agrees to before they start. This is that process, plus the habits that keep arguments from starting at all.
 
+**The quick answer:** pause the game, state the question in one sentence, and give one person 60 seconds with the rulebook. If the answer is not found, the host or teacher rules for tonight. Write the question down and look it up properly after the game.
+
 ## Why do rules arguments feel so personal?
 
 Because they are rarely about the rule. They are about being right, being fair, and being heard. A disagreement over whether you can trade on another player's turn in [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) is, underneath, a question of whether the table trusts each other.

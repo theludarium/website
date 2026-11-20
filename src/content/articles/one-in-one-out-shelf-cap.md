@@ -10,6 +10,8 @@ draft: false
 
 A board game shelf cap is the simplest collecting rule there is: pick a number of games, and never own more than that. When a new game comes in, one goes out. That is the whole system. It is also the single change most likely to turn a collection you manage into a collection you play.
 
+**The quick answer:** pick a cap a little above the number of distinct games you play in a year. Before any new game comes in, name the game that leaves; the new one must beat the weakest game on the shelf. Move outgoing games within a month, and cull once a year.
+
 This is the last article in our Smart Buying series, which began with [how to buy used board games](/articles/how-to-buy-used-board-games/). Everything before it was about buying well. This one is about the constraint that makes buying well automatic, because once the shelf is full, every purchase has to answer a harder question than "do I want this?"
 
 ## Why does a cap make a board game collection better?

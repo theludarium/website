@@ -10,6 +10,8 @@ Quick board games are the ones that fill the gap: the twenty minutes before the 
 
 This list has fifteen that finish in under 30 minutes on a real table with real people, not just on the box. Each entry says how long it takes, how many it seats, and what job it does on a game night.
 
+**The quick answer:** Love Letter and No Thanks! finish in about fifteen minutes and teach in under a minute. For big groups, 6 nimmt! plays up to ten in under 30 minutes. Open with Codenames, 6 nimmt!, or Sushi Go!, and close with Love Letter or Coup.
+
 ## Why do short games matter so much?
 
 Most game nights are won or lost in the margins. A great two-hour centerpiece can still leave a bad taste if the hour around it was dead air. Short games fix that in three ways:

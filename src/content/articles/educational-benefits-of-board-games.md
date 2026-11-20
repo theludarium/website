@@ -10,6 +10,8 @@ The educational benefits of board games are usually sold as math and reading pra
 
 This is not an argument against school. It is an argument for the kitchen table as a second classroom with a different curriculum.
 
+**The quick answer:** board games teach what worksheets cannot: probability you feel, negotiation, reading people, planning under uncertainty, and losing and recovering. Catan is the most educational single pick for ages eight and up. The math and reading practice is real, but it is a bonus rather than the point.
+
 ## What do board games teach that worksheets can't?
 
 Here is the short list, each with the game that teaches it best. The rest of the article goes deeper on the ones parents ask about most.

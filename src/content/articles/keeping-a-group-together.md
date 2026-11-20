@@ -13,6 +13,8 @@ Starting a game group takes a month. Keeping a board game group together takes a
 
 If your group is under a year old, start with the series pillar, [How to Start a Board Game Play Group](/articles/how-to-start-a-play-group/). This one is for the group that has noticed the gaps between sessions getting wider.
 
+**The quick answer:** fix the night and play whenever three people can come. Rotate hosting and teaching, give each member a lane of the shared shelf so their presence matters, and build a few rituals, like a standing opening game and naming the next date out loud. When life changes, adjust one thing at a time.
+
 ## Why do rituals keep a board game group together?
 
 Because rituals turn a plan into a habit, and habits survive the weeks when nobody feels like planning.

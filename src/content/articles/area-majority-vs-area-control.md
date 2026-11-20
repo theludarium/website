@@ -8,6 +8,8 @@ draft: false
 ---
 Area majority is a scoring system where several players can have pieces in the same region at once, and the player with the most pieces there scores the most, often with smaller rewards for second and third place. Area control, in the strict sense, means one player holds a region outright and nobody else is in it. The two terms get used interchangeably, and the games they describe can look alike on the table. But the way you play them is almost opposite, and knowing which one you are sitting down to saves you from a long, confused first game.
 
+**The quick answer:** in area control, one player owns a region and others must remove them to take it, as in Risk. In area majority, several players share a region and score by who has the most pieces there, often with points for second and third, as in El Grande.
+
 This article explains both terms, where the line between them falls, what each one asks of you, and which games teach each best.
 
 ## What is area control?

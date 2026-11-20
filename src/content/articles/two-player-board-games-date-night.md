@@ -10,6 +10,8 @@ The best two player board games for a date night do one thing well: they give tw
 
 Every pick here is built for two, not a four-player game that happens to allow two. That distinction matters more than anything else on the list.
 
+**The quick answer:** start with Patchwork for a first game, Jaipur for a fast rematch, and 7 Wonders Duel once you both want more strategy. If you would rather be on the same side, play Codenames: Duet or Sky Team.
+
 ## What makes a board game good for two people?
 
 Plenty of games say "2 to 4 players" on the box and are dull at two. The games that work for a couple share a few traits:

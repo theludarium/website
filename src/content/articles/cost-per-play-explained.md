@@ -11,6 +11,8 @@ draft: false
 
 Every board game has two prices. The first is printed on the shelf tag. The second is what the game actually costs you, and it depends on how many times it hits the table, how many people sit around it, and how long each session runs. That second number is cost per play, and once you learn to see it, the shelf tag stops meaning much on its own.
 
+**The quick answer:** cost per play is price ÷ plays ÷ players ÷ hours. A $40 game played 20 times by 4 players for an hour each works out to about $0.50 per player per hour. Plays are the lever, and dividing by players is why a group needs only one copy of each game.
+
 This is the pillar article for The Math of Game Night, a Ludarium series on what game night really costs and how to make every dollar do more. You do not need a spreadsheet for any of it. You need one formula and the habit of asking it a few questions before you buy.
 
 Here is the formula:

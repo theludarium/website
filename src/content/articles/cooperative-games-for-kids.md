@@ -10,6 +10,8 @@ Cooperative games for kids work on fighting siblings because they change the que
 
 That does not end sibling rivalry. Nothing ends sibling rivalry. But it gives two kids who mostly compete a regular, structured reason to collaborate, and the habit shows up outside the game sooner than you would expect.
 
+**The quick answer:** for siblings under eight, start with Outfoxed! and My First Castle Panic. For eight to twelve, play Forbidden Island and then The Crew. To stop one kid taking over, pick games that limit talking and let the player whose turn it is decide.
+
 ## Why do competitive games make sibling fights worse?
 
 Because they take a relationship that already has a running score and add an official one. Siblings compare constantly: who is taller, who got the bigger piece, who Mom likes more. A competitive game turns that into a public result with a winner and a loser, usually with the older sibling winning because they are older.

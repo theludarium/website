@@ -10,6 +10,8 @@ Cube vs Commander is the choice that decides what a [Magic: The Gathering](https
 
 We have a stake in this one. The Ludarium's founder started Cube Commonwealth, a Cube community that met weekly for about three years and is relaunching as part of The Ludarium. So we will say up front: we love Cube. We will also be fair to Commander, because it is the format most Magic players actually play, and for good reasons.
 
+**The quick answer:** play Commander if your group wants to drop in week to week with its own decks and enjoys politics and big plays. Play Cube if four to eight people can commit to the same night, value fairness, and have one person willing to build the Cube. Many groups play both.
+
 ## What is Commander?
 
 **Commander** is a multiplayer format, usually four players, where each player brings a 100-card deck built around a single legendary creature, the commander. Every other card in the deck must be a different card (singleton) and must match the commander's colors. Players start at 40 life instead of 20. The commander sits in a special zone, can be cast from there, and can return there when it dies or is exiled, at a rising cost. Games are free-for-all: last player standing wins, with the social politics that implies.

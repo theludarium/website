@@ -11,6 +11,8 @@ draft: false
 
 Kickstarter board games are the most exciting purchase in the hobby and the one most likely to arrive a year late to a shelf that has moved on without them. Crowdfunding has produced some of the best games of the past decade. It has also produced a great many boxes of miniatures that were opened once, admired, and never played.
 
+**The quick answer:** sometimes. Back a game only if you would buy it at retail with the reviews in, and usually take the base pledge, not the deluxe. In a play group, pick one backer per campaign so the group gets one copy, not several.
+
 This article is part of our Smart Buying series, which starts with [how to buy used board games](/articles/how-to-buy-used-board-games/). The question here is narrower: when a campaign page is open in front of you and the timer is ticking, how do you decide? Two tests do most of the work, and one group rule keeps the damage contained.
 
 ## Why back board games on Kickstarter at all?

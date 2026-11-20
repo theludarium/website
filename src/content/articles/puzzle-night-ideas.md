@@ -10,6 +10,8 @@ A puzzle night solves the problem that a board game night cannot. Some groups ar
 
 This guide covers three kinds of puzzle night, how to set each one up, and what to buy. It also explains why this format, which looks like nothing is happening, is one of the stickiest evenings a group can run.
 
+**The quick answer:** pick one of three formats. Run a jigsaw table with a thousand-piece puzzle for a wide age range, an escape box night with Exit: The Game for teams of four, or a paper puzzle hunt for a large group on a low budget. Nobody loses, and mixing formats also works.
+
 ## Why does a puzzle night work when a game night doesn't?
 
 Three reasons, and they all come down to pressure.

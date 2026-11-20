@@ -10,6 +10,8 @@ Semi-cooperative board games put everyone on the same team, mostly. Either one p
 
 Done well, it is the most dramatic thing that happens at a game table. Done badly, it is a mess of hurt feelings and a game nobody wanted to finish. This article explains the two kinds of semi-co-op, which games handle each well, and how to run one so the table stays friends.
 
+**The quick answer:** if you want one, play Dead of Winter, which combines a possible traitor with personal objectives. For beginners, start with The Resistance or Saboteur for short sessions. Before the first card is dealt, say out loud that lying is part of the game.
+
 ## What makes a game semi-cooperative?
 
 Pure co-ops have one win condition for everyone. Competitive games have a winner and losers. Semi-co-ops sit between, and there are two distinct flavors.

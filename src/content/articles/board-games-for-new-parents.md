@@ -11,6 +11,8 @@ The best board games for new parents are short, quiet, easy to pause, and forgiv
 
 Nobody is going to learn Gloomhaven with a newborn in the house. But the evening after the baby finally goes down is one of the few moments in early parenthood that belongs to the adults, and spending it on separate screens is a small loss repeated nightly. A short game is a better use of it.
 
+**The quick answer:** start with Patchwork: quiet, two-player, twenty minutes, and it pauses when the baby wakes. Jaipur, Lost Cities, The Fox in the Forest, Sprawlopolis, and Onirim also fit the window. When a friend comes over, play Sushi Go! or The Crew.
+
 ## What does a game need to survive a newborn?
 
 The constraints are specific and brutal. A game for new parents should be:

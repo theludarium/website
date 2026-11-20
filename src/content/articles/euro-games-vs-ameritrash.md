@@ -8,6 +8,8 @@ draft: false
 ---
 The eurogame vs Ameritrash debate is the oldest argument in modern board gaming, and also the least useful. A eurogame is, roughly, a game built around efficient decisions, indirect competition, and low luck: think [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20), [Agricola](https://www.amazon.com/dp/B07JZFN8WS?tag=cubecommonw0a-20), or [Puerto Rico](https://www.amazon.com/dp/B00008URUT?tag=cubecommonw0a-20). "Ameritrash" is the tongue-in-cheek label for games built around theme, direct conflict, dice, and drama: think [Risk](https://www.amazon.com/dp/B01HEQHKNM?tag=cubecommonw0a-20), [Arkham Horror](https://www.amazon.com/dp/B07G3Y95R9?tag=cubecommonw0a-20), or [Twilight Imperium](https://www.amazon.com/dp/B074YPSTRP?tag=cubecommonw0a-20). Most games released today sit somewhere between the two.
 
+**The quick answer:** a eurogame favors efficient decisions, indirect competition, and low luck, like Catan or Agricola. Ameritrash favors theme, direct conflict, dice, and drama, like Risk or Twilight Imperium. Most games released today are hybrids, such as Scythe, Blood Rage, and Root.
+
 This article explains what each label means, where the words came from, how to spot the traits at the table, and why the distinction matters less every year while still being worth knowing.
 
 ## What is a eurogame?

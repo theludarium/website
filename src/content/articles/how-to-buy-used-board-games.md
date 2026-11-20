@@ -10,6 +10,8 @@ draft: false
 
 Most of the board games on a healthy shelf have been played a few dozen times. A game that has been played a few dozen times by someone else looks almost exactly the same as a game you have played a few dozen times yourself. That is the whole case for learning to buy used board games: you get the same plays for less money, and the only skill you need is knowing what to check before the cash changes hands.
 
+**The quick answer:** look first in local trade groups, your own play group, and game stores with a used shelf. Count components against the rulebook list, check for water damage and smoke smell, and expect to pay about 40 to 60 percent of the new price for a complete, played copy. Skip legacy games and anything with consumables.
+
 This is the pillar article for our Smart Buying series, which covers used games, expansions, crowdfunding, trading, convention shopping, and shelf caps. Everything in the series rests on the same idea that runs through [The One Copy Rule](/articles/one-copy-rule/): a play group needs one copy of a game, not one copy per person. Buying used is how you get that one copy for the price of a couple of lunches.
 
 ## Why buy used board games at all?

@@ -10,6 +10,8 @@ The most useful first time Dungeon Master tips are the ones about what not to do
 
 This is the article for the person who said "I guess I could run it" and is now mildly panicking. Here is what to prepare, what to ignore, and how the night actually goes.
 
+**The quick answer:** run a published beginner adventure with pre-made characters, and learn only three rules: basic checks, combat turns, and hit points. At the table, say yes and ask for a roll, fail forward, make fast rulings, and pull your punches so nobody's character dies on night one.
+
 ## What does a Dungeon Master actually do?
 
 Three jobs, in rough order of how much of the evening they take.

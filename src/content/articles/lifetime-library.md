@@ -11,6 +11,8 @@ draft: false
 
 Every stage of building a collection has been about this year's table. A lifetime board game library is about the table in 20 years: your kids grown, your friends older, a Thanksgiving where someone pulls a worn box off the shelf and says "we have to play this one." Most games you buy will not be in that scene. A few will. The lifetime library is the practice of noticing which, and keeping them.
 
+**The quick answer:** the games that last are durable, teachable across ages, playable at two and at six, and as good on the fiftieth play as the fifth. Carcassonne, Catan, Ticket to Ride, Codenames, and Pandemic have shown those qualities. Most lifetime libraries settle at eight to twelve games.
+
 This is the last article in Building Your Library on Purpose, which began with [playing for free](/articles/play-before-you-pay/) and built through the [starter shelf](/articles/starter-shelf-40-to-300/), the core library, and the curator stage. If you are new to the series, start at the starter shelf. If you have been curating for years, this is where the system was always pointing.
 
 ## What a lifetime board game library is for

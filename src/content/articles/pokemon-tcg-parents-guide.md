@@ -11,6 +11,8 @@ Your kid wants Pokémon cards for the holidays. You walk into a store and find a
 
 You do not need to know the rules to buy well. You need to know what kind of fan you are buying for.
 
+**The quick answer:** buy Battle Academy for two new players, or a Mega Battle Deck for a kid who already has someone to play. Collectors want packs, a tin, or an Elite Trainer Box from a store you trust. Skip loose packs as a first purchase, expensive singles, and too-cheap bundles.
+
 ## What is the Pokémon Trading Card Game?
 
 The Pokémon Trading Card Game is a two-player card game. Each player brings a deck of 60 cards. You send out Pokémon, power them up with Energy cards, and attack your opponent's Pokémon. Knock one out and you take a Prize card. Take all six of your Prize cards and you win.

@@ -13,6 +13,8 @@ Ask any gamer their favorite games and you will get a confident list. Ask what t
 
 Tracking board game plays closes that gap. It takes about fifteen seconds per game night, and after three months it hands you something no review can: a record of what your table actually does. This is the third article in our Library Science for Gamers series, which started with [organizing your shelf by role](/articles/organize-by-role-not-box-size/) and builds toward a shared library that follows [The One Copy Rule](/articles/one-copy-rule/). Libraries take circulation data seriously because it decides what gets bought next. So should you.
 
+**The quick answer:** log five fields for every play: game, date, players, real length, and whether the table would play it again. A notebook on the shelf works. After three months, the log shows your real favorites, play time, and player count, so your next purchase fills a gap instead of a fantasy.
+
 ## Why a play log reveals real taste instead of imagined taste
 
 Everyone carries two collections in their head. The first is the collection they think they have: the games they would name at a party, the ones that say something about who they are as a player. The second is the collection they play: the games that come down on a Thursday when four people are tired and one has to leave by ten.

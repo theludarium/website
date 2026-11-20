@@ -10,6 +10,8 @@ If you want to know how to host a game night, here is the short version: pick a 
 
 This checklist walks through the week before, the day of, and the first ten minutes after the door opens. It assumes you have never done this, or that you have and it went slightly sideways.
 
+**The quick answer:** invite four to six people a week ahead with a start and end time, pick two games you can teach, and clear and light the table. Have the first game set up before guests arrive, keep food dry and off the play surface, and end at the time you promised.
+
 ## What makes a game night work?
 
 Three things, in order of importance: the people, the pace, and the games. Most first-time hosts invert that list. They spend hours deciding between [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) and [Ticket to Ride](https://www.amazon.com/dp/0975277324?tag=cubecommonw0a-20) and five minutes thinking about who will be sitting across from whom.

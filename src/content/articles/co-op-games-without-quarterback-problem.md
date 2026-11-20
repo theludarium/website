@@ -10,6 +10,8 @@ Cooperative games with hidden information are the cure for the quarterback probl
 
 This article is a list of twelve co-ops built that way, with a short explanation of the design tricks that make them work. If you have ever watched one person play [Pandemic](https://www.amazon.com/dp/B00A2HD40E?tag=cubecommonw0a-20) while three others moved pawns on command, this is the shelf you want.
 
+**The quick answer:** pick a co-op with hidden information, so nobody can see enough to run the table. The Crew: Mission Deep Sea is the top pick for most groups. Choose Hanabi if your group prefers something quieter and more deductive.
+
 ## What is the quarterback problem, briefly?
 
 In a co-op with fully open information, the most experienced or most confident player can calculate the best move for everyone. The others become hands. The game is still cooperative in name, but one person is playing it.

@@ -11,6 +11,8 @@ Three of the most popular board games of the last decade are about birds, forest
 
 This guide compares them on the things that matter for a real table: how long they take, how hard they are to learn, how much players interact, and who each one suits.
 
+**The quick answer:** buy Cascadia if you are new to modern games or play with kids under ten. If you want one game to anchor a shelf, Wingspan is the safest bet. Choose Everdell for a group that already plays worker placement and wants a world with a longer arc.
+
 ## What do these three games have in common?
 
 They share a look and a mood. Each has artwork you would frame, a theme that does not involve war or trade routes, and a pace that invites conversation. None of them has direct attacks. You cannot burn down someone's forest or steal their eggs.

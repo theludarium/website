@@ -10,6 +10,8 @@ Good game night snacks pass a simple test: can you eat them with one hand, witho
 
 This is a guide to feeding a table of people who are also trying to play Wingspan. The goal is food that people enjoy and forget about, so the game and the conversation stay in the center.
 
+**The quick answer:** serve dry, one-handed, low-crumb snacks with no powder: pretzels, grapes, cheese cubes with toothpicks, cut vegetables, shelled nuts, and wrapped chocolate. Skip cheese puffs and wings, eat dinner before the game, and keep food and drinks off the game table.
+
 ## Why does food matter so much at a game night?
 
 Because the two things people remember about an evening are how they felt and what they ate. Snacks set the tone before the first card is dealt. A bowl of something good on the counter says "stay a while."
