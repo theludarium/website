@@ -11,10 +11,13 @@ import { ONE_PAGER_PRODUCTS } from '@/lib/one-pagers';
 import onePagerBundle from '@/assets/one-pagers/bundle.jpg';
 import onePagerKit from '@/assets/one-pagers/kit.jpg';
 import { BOARD_GAME_PRODUCTS } from '@/lib/board-games';
+import { CALENDAR_PRODUCTS } from '@/lib/calendars';
+import holoceneImage from '@/assets/calendars/holocene-2027.jpg';
 import deepCut from '@/assets/board-games/deep-cut.jpg';
 import { SHOP_URL } from '@/lib/merch';
 import teesImage from '@/assets/merch/tees.jpg';
 const boardGameImages: Record<string, ImageMetadata> = { 'deep-cut': deepCut };
+const calendarImages: Record<string, ImageMetadata> = { 'holocene-2027': holoceneImage };
 
 const onePagerImages: Record<string, ImageMetadata> = { bundle: onePagerBundle, kit: onePagerKit };
 
@@ -44,20 +47,20 @@ const GROUPS = [
   { id: 'games', label: 'Games to play' },
   { id: 'teach', label: 'Teach and host' },
   { id: 'wear', label: 'Tees and hoodies' },
-  { id: 'read', label: 'Books' },
+  { id: 'read', label: 'Books and calendars' },
 ];
 
 // "New at the table": the three newest things. Change these as new products land.
 const NEW_PICKS = [
   { href: '/store/deep-cut/', image: deepCut, alt: 'The Deep Cut cover and game sheets fanned out', eyebrow: 'Board game', name: 'Deep Cut', line: 'A cooperative print-and-play game set in Arkham.' },
-  { href: '#one-pagers', image: onePagerBundle, alt: 'Pages from Game Night One-Pagers fanned out', eyebrow: 'One-page RPGs', name: 'Game Night One-Pagers', line: 'Ten tiny RPGs about the night you play.' },
+  { href: '#calendars', image: holoceneImage, alt: 'Pages from the 12,000 Years of Play calendar', eyebrow: 'Calendar', name: '12,000 Years of Play', line: 'A 2027 calendar of the games that shaped play.' },
   { href: '#tees', image: teesImage, alt: 'A brown tee printed with a small bird and a lightning bolt', eyebrow: 'Tees and hoodies', name: 'The Ludarium shop', line: '25 designs other players will recognize.' },
 ];
 ---
 
 <BaseLayout
   title="Store"
-  description="Things for your table from The Ludarium: print-and-play board games, one-page RPGs, adventure PDFs, teach cards, books, and tees and hoodies other players will recognize."
+  description="Things for your table from The Ludarium: print-and-play games, one-page RPGs, teach cards, a game history calendar, books, and tees and hoodies."
 >
   <section class="store">
     <div class="container">
@@ -249,15 +252,39 @@ const NEW_PICKS = [
 
   <section class="section store-group" id="read" aria-labelledby="store-read-title">
     <div class="container">
-      <h2 class="store-group__title" id="store-read-title">Books</h2>
-      <a class="card store-book" href={`/books/${book.slug}/`}>
-        <Image src={cover} alt={`Cover of ${book.title}`} widths={[160, 320]} sizes="160px" />
-        <div>
-          <h3>{book.title}</h3>
-          <p>{book.blurb}</p>
-          <span class="card__more">Paperback and Kindle on Amazon</span>
-        </div>
-      </a>
+      <h2 class="store-group__title" id="store-read-title">Books and calendars</h2>
+      <p class="store-group__lede">Something to read between games, and something to hang by the game shelf.</p>
+
+      <div class="store-sub" id="calendars">
+        <h3 class="store-sub__title">Calendars</h3>
+        <ul class="store-pdfs__grid">
+          {CALENDAR_PRODUCTS.map((p) => (
+            <li class="card store-pdf store-card">
+              <Image src={calendarImages[p.slug]} alt={p.alt} widths={[200, 400]} sizes="200px" />
+              <div class="store-pdf__body">
+                <p class="eyebrow">{p.eyebrow}</p>
+                <h4>{p.name}</h4>
+                <p class="store-pdf__meta">{p.blurb}</p>
+                <div class="store-pdf__actions">
+                  <a class="button" href={p.checkout} rel="noopener">Buy the PDF, {p.price}</a>
+                </div>
+              </div>
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      <div class="store-sub" id="books">
+        <h3 class="store-sub__title">Books</h3>
+        <a class="card store-book" href={`/books/${book.slug}/`}>
+          <Image src={cover} alt={`Cover of ${book.title}`} widths={[160, 320]} sizes="160px" />
+          <div>
+            <h4>{book.title}</h4>
+            <p>{book.blurb}</p>
+            <span class="card__more">Paperback and Kindle on Amazon</span>
+          </div>
+        </a>
+      </div>
     </div>
   </section>
 
@@ -497,6 +524,11 @@ const NEW_PICKS = [
   .store-books h2 {
     margin: 0 0 var(--space-5);
     font-size: var(--text-2xl);
+  }
+
+  .store-book h4 {
+    margin: 0;
+    font-size: var(--text-lg);
   }
 
   .store-book {

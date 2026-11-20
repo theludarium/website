@@ -135,7 +135,7 @@ export const MAIN_NAV: NavItem[] = [
       { href: '/store/#games', label: 'Games to play', description: 'Print-and-play board games, one-page RPGs and adventures.' },
       { href: '/store/#teach', label: 'Teach and host', description: 'Teach cards and kits for whoever runs game night.' },
       { href: '/store/#wear', label: 'Tees and hoodies', description: 'Shirts other players will recognize, printed to order.' },
-      { href: '/store/#read', label: 'Books', description: 'Our books, in paperback and Kindle.' },
+      { href: '/store/#read', label: 'Books and calendars', description: 'Our books, and a calendar of 12,000 years of play.' },
     ],
   },
   {
