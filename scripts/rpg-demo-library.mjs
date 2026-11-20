@@ -64,6 +64,8 @@ function copyLibrary() {
       `<meta property="og:image" content="${SITE}/og/default.png">`,
       '<meta name="twitter:card" content="summary_large_image">',
       analytics,
+      // ott.js sends the store_click event when the Buy button's checkout link is clicked.
+      '<script defer src="/ott.js"></script>',
       BAR_CSS,
     ].join('\n');
     html = html.replace('</head>', `${head}\n</head>`).replace(/<body([^>]*)>/, `<body$1>\n${nav}`);
