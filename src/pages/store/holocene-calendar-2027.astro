@@ -1,0 +1,653 @@
+---
+// Product page for 12,000 Years of Play, the Holocene calendar of tabletop games for 12,027 HE (2027).
+// Product data: src/lib/calendars.ts. Source PDF: revenue-ops/products/holocene-calendar/.
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import { Image } from 'astro:assets';
+import { SITE } from '@/lib/site';
+import { CALENDAR_PRODUCTS } from '@/lib/calendars';
+import storeImage from '@/assets/calendars/holocene-2027.jpg';
+import cover from '@/assets/calendars/holocene-2027/page-1.jpg';
+import why from '@/assets/calendars/holocene-2027/page-2.jpg';
+import january from '@/assets/calendars/holocene-2027/page-3.jpg';
+import june from '@/assets/calendars/holocene-2027/page-8.jpg';
+import october from '@/assets/calendars/holocene-2027/page-12.jpg';
+import glance from '@/assets/calendars/holocene-2027/page-15.jpg';
+
+const cal = CALENDAR_PRODUCTS.find((p) => p.slug === 'holocene-2027')!;
+const buyLabel = `Buy the PDF, ${cal.price}`;
+
+const facts = [
+  ['Year', '12,027 HE, which is 2027 CE'],
+  ['Format', '15-page printable PDF'],
+  ['Paper', 'US Letter, landscape'],
+  ['Inside', '12 illustrated months'],
+];
+
+// Game of the month, as printed in the calendar. HE = CE + 10,000; a BCE year X is 10,001 minus X.
+const months = [
+  ['January', 'Senet', 'c. 6,900 HE', 'c. 3100 BCE', 'Ancient Egypt'],
+  ['February', 'The Royal Game of Ur', 'c. 7,400 HE', 'c. 2600 BCE', 'Mesopotamia'],
+  ['March', 'Go', 'c. 9,600 HE', 'c. 400 BCE', 'China'],
+  ['April', 'Chaturanga', 'c. 10,600 HE', 'c. 600 CE', 'India'],
+  ['May', 'Playing cards', '10,868 HE', '868 CE', 'Tang China'],
+  ['June', 'Modern chess', 'c. 11,475 HE', 'c. 1475 CE', 'Spain and Italy'],
+  ['July', 'Kriegsspiel', '11,824 HE', '1824 CE', 'Prussia'],
+  ['August', 'The Landlord’s Game', '11,904 HE', '1904 CE', 'United States'],
+  ['September', 'Scrabble', '11,938 HE', '1938 CE', 'United States'],
+  ['October', 'Dungeons & Dragons', '11,974 HE', '1974 CE', 'Lake Geneva, Wisconsin'],
+  ['November', 'Magic: The Gathering', '11,993 HE', '1993 CE', 'United States'],
+  ['December', 'Catan', '11,995 HE', '1995 CE', 'Germany'],
+];
+
+const pages = [
+  { image: cover, alt: 'The calendar cover: a tower of game pieces beside 12,027 HE', caption: 'The cover.' },
+  { image: why, alt: 'The Why 12,027 page with a timeline of twelve games from Senet to Catan', caption: 'Why 12,027: how the count works, and a timeline of every game in the year.' },
+  { image: january, alt: 'The January page: Senet, with a month grid and dates', caption: 'January: Senet, one of the oldest board games we know.' },
+  { image: june, alt: 'The June page: a chess queen on a board, with a month grid and convention dates', caption: 'June: modern chess, with the month’s conventions marked.' },
+  { image: october, alt: 'The October page: Dungeons & Dragons, with a month grid', caption: 'October: Dungeons & Dragons, and the week The Ludarium turns one.' },
+  { image: glance, alt: 'The year at a glance: all twelve months and a list of conventions', caption: 'The year at a glance, with every convention and championship.' },
+];
+
+const reasons = [
+  {
+    title: 'Time runs one way',
+    body: 'Every year is a positive number, and a bigger number is always later. No more remembering that 2500 BCE comes before 2000 BCE.',
+  },
+  {
+    title: 'No missing year',
+    body: 'The usual count jumps from 1 BCE straight to 1 CE, so any span that crosses the line comes out one year off. In the Holocene count you just subtract.',
+  },
+  {
+    title: 'A starting line that belongs to everyone',
+    body: 'Year one sits near the first farms and villages, something people did all over the world. It is not tied to any one faith, empire or ruler.',
+  },
+  {
+    title: 'Nothing to relearn',
+    body: 'Put a 1 in front of this year and you are done. Months, weeks and days stay exactly where they are, so it works beside every other calendar you use.',
+  },
+  {
+    title: 'History at its real size',
+    body: 'With BCE and CE, most of civilization hides on the backward side of zero. Count from the first farms, and Senet, the pyramids and your own birthday all sit on one line that runs forward.',
+  },
+];
+
+const faqs = [
+  {
+    q: 'Will the days match my phone and my other calendars?',
+    a: 'Yes. Every month, weekday and date is the normal 2027 calendar. Only the year number is different: 12,027 instead of 2027.',
+  },
+  {
+    q: 'Is the Holocene calendar official?',
+    a: 'No. It is a proposal, made by the geologist Cesare Emiliani in 1993, and it is used by fans of history and science rather than by governments. Its year one is also an approximation, since the Holocene and the first farms did not start on a single date. We think that is part of its charm: it is a way of seeing, not a rule.',
+  },
+  {
+    q: 'How do I convert a year?',
+    a: 'For any CE year, add 10,000, so 2027 becomes 12,027. For a BCE year, subtract it from 10,001, so 3100 BCE becomes 6,901 HE. The calendar prints this rule on its second page.',
+  },
+  {
+    q: 'Are the convention dates certain?',
+    a: 'They are the dates organizers had announced in November 2026, and a few are marked as expected or projected. Always confirm with the event before you book travel.',
+  },
+  {
+    q: 'How should I print it?',
+    a: 'Print the PDF on US Letter paper in landscape. Heavy matte paper or light cardstock looks best. Punch two holes at the top to hang it, clip it to a board, or have a local print shop bind it.',
+  },
+  {
+    q: 'Can I print more than one copy?',
+    a: 'Yes, print as many copies as your own home needs. If a friend wants one, please send them to this page so we can keep making things like it.',
+  },
+];
+
+const productLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Product',
+  name: '12,000 Years of Play: A Holocene Calendar of Tabletop Games 2027',
+  description: 'A printable 2027 calendar in the Holocene count (12,027 HE), with twelve illustrated months of tabletop game history and the year’s game conventions.',
+  image: new URL(storeImage.src, SITE.url).href,
+  brand: { '@type': 'Brand', name: SITE.name },
+  offers: {
+    '@type': 'Offer',
+    price: cal.price.replace('$', ''),
+    priceCurrency: 'USD',
+    availability: 'https://schema.org/InStock',
+    url: new URL('/store/holocene-calendar-2027/', SITE.url).href,
+  },
+};
+const faqLd = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+};
+---
+
+<BaseLayout
+  title="12,000 Years of Play: A Holocene Calendar of Tabletop Games for 2027"
+  description="A printable 2027 calendar that counts from the dawn of civilization: 12,027 HE. Twelve illustrated months of game history, from Senet to Catan."
+  image={storeImage.src}
+  imageAlt="Pages from the 12,000 Years of Play calendar: the cover, October and June"
+>
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify(productLd)} />
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify(faqLd)} />
+
+  <section class="hc-hero">
+    <div class="container hc-hero__grid">
+      <div>
+        <p class="eyebrow"><a href="/store/#calendars">Store</a> / Calendar</p>
+        <h1>Next year is 12,027.</h1>
+        <p class="lede">
+          A printable calendar that counts the years from the first farms and villages, not from the middle of history.
+          Twelve months, twelve games, and 12,000 years of people gathering around a table to play.
+        </p>
+        <div class="hc-buy">
+          <a class="button" href={cal.checkout} rel="noopener">{buyLabel}</a>
+          <span class="hc-buy__note">Instant download. Print at home and hang it by the game shelf.</span>
+        </div>
+      </div>
+      <Image
+        class="hc-hero__image"
+        src={storeImage}
+        alt="Pages from the 12,000 Years of Play calendar: the cover, October and June"
+        widths={[480, 800, 1200]}
+        sizes="(max-width: 52rem) 100vw, 36rem"
+        loading="eager"
+      />
+    </div>
+    <div class="container">
+      <dl class="hc-facts">
+        {facts.map(([k, v]) => (
+          <div>
+            <dt>{k}</dt>
+            <dd>{v}</dd>
+          </div>
+        ))}
+      </dl>
+    </div>
+  </section>
+
+  <section class="section hc-why" aria-labelledby="hc-why-title">
+    <div class="container hc-narrow">
+      <h2 id="hc-why-title">Why 12,027?</h2>
+      <p>
+        The Holocene calendar, also called the Human Era, was proposed in 1993 by the geologist Cesare Emiliani in a letter
+        to the journal <em>Nature</em>. His idea was simple: add 10,000 to the year.
+      </p>
+      <p>
+        That one change moves year one back to roughly the start of the Holocene, the warm stretch after the last ice age
+        when people began to plant crops, keep animals and build the first permanent villages. In other words, it starts
+        the count near the beginning of civilization itself. Every date in human history becomes one positive number on a
+        single line, and this year becomes 12,027.
+      </p>
+      <div class="hc-rule card">
+        <p class="hc-rule__title">The whole conversion</p>
+        <p><strong>CE year + 10,000</strong>. 2027 CE is 12,027 HE.</p>
+        <p><strong>10,001 minus a BCE year</strong>. 3100 BCE is 6,901 HE.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section hc-history" aria-labelledby="hc-history-title">
+    <div class="container hc-narrow">
+      <h2 id="hc-history-title">Where our year numbers came from</h2>
+      <p>
+        The count most of the world uses today began as a monk’s spreadsheet. In 525, Dionysius Exiguus was building a
+        table of future dates for Easter, and he numbered the years from his estimate of the birth of Jesus: anno Domini,
+        the year of the Lord. It stayed a niche system for two centuries. Then the English historian Bede used it in his
+        history of the English church, finished in 731, and the habit spread across Europe.
+      </p>
+      <p>
+        Counting backward for the years before that starting point came even later, and caught on slowly. Today many
+        writers say BCE and CE, Before Common Era and Common Era, instead of BC and AD. The names changed, but the count did
+        not. Year one is still a guess at one birth, placed in the middle of human history.
+      </p>
+      <p>
+        People have always counted years from an event that mattered to them. Romans counted from the founding of Rome.
+        Some traditions count from the creation of the world. The Islamic calendar counts from the Prophet’s journey to
+        Medina in 622 CE, and Japan names its years by imperial eras. Every one of those starting lines
+        belongs to one people. The Holocene calendar picks a starting line that belongs to everyone: the moment our
+        ancestors settled down and started building the world we live in.
+      </p>
+    </div>
+  </section>
+
+  <section class="section hc-reasons" aria-labelledby="hc-reasons-title">
+    <div class="container">
+      <h2 id="hc-reasons-title">Five reasons to count from the first farms</h2>
+      <ul class="hc-reasons__grid">
+        {reasons.map((r) => (
+          <li class="card">
+            <h3>{r.title}</h3>
+            <p>{r.body}</p>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <section class="section hc-long" aria-labelledby="hc-long-title">
+    <div class="container hc-narrow">
+      <h2 id="hc-long-title">The value of a longer view</h2>
+      <p>
+        Our usual calendar quietly tells us that history is about 2,000 years long. It is closer to 12,000. Writing
+        appears around 6,800 HE. The pyramids at Giza go up around 7,440 HE. Everything we call the modern world fits in
+        the last few hundred years of the line.
+      </p>
+      <p>
+        Seen at that scale, a few things come into focus. Our problems are new, but our habits are old. The people who
+        built the first villages were not primitive versions of us; they were us, with fewer tools. And the things that
+        have lasted the longest are the things people did together: eating, telling stories, making music, and playing
+        games.
+      </p>
+      <p>
+        That last one is the reason for this calendar. People were racing pieces across a Senet board about 5,000 years
+        ago. The modern board game boom, from Catan on, takes up only the last 30 years of the line. A longer calendar is a
+        small daily reminder that sitting down at a table with other people is one of the oldest things humans do. We
+        think it is one of the best, too.
+      </p>
+    </div>
+  </section>
+
+  <section class="section hc-months" aria-labelledby="hc-months-title">
+    <div class="container">
+      <h2 id="hc-months-title">Twelve months, twelve games</h2>
+      <p class="hc-lede">
+        Each month features one game that changed how people play, placed on the long timeline. Here they are in both counts.
+      </p>
+      <div class="hc-table-wrap">
+        <table class="hc-table">
+          <thead>
+            <tr>
+              <th scope="col" class="hc-col-wide">Month</th>
+              <th scope="col">Game</th>
+              <th scope="col">Holocene year</th>
+              <th scope="col">Usual year</th>
+              <th scope="col" class="hc-col-wide">Where</th>
+            </tr>
+          </thead>
+          <tbody>
+            {months.map(([m, g, he, ce, where]) => (
+              <tr>
+                <td class="hc-col-wide">{m}</td>
+                <th scope="row"><span class="hc-month-sm">{m}</span>{g}</th>
+                <td class="hc-num">{he}</td>
+                <td class="hc-num">{ce}</td>
+                <td class="hc-col-wide">{where}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="hc-small">Dates marked c. are scholarly estimates.</p>
+    </div>
+  </section>
+
+  <section class="section hc-get" aria-labelledby="hc-get-title">
+    <div class="container">
+      <h2 id="hc-get-title">What you get</h2>
+      <p class="hc-lede">One 15-page PDF, ready to print. A few of the pages:</p>
+      <ul class="hc-pages">
+        {pages.map((p) => (
+          <li>
+            <figure>
+              <Image src={p.image} alt={p.alt} widths={[400, 800]} sizes="(max-width: 36rem) 100vw, 22rem" />
+              <figcaption>{p.caption}</figcaption>
+            </figure>
+          </li>
+        ))}
+      </ul>
+      <div class="hc-get__cols">
+        <div>
+          <h3>Inside the PDF</h3>
+          <ul class="hc-list">
+            <li>A cover and a one-page guide to the Holocene count, with a timeline of all twelve games</li>
+            <li>12 month pages, each with a full-page illustration, the game of the month and its story, and a date grid</li>
+            <li>Game history anniversaries and the year’s conventions, fairs and championships marked on the grid</li>
+            <li>Lined space for notes on every month</li>
+            <li>A year-at-a-glance page with every event in one place</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Good to know</h3>
+          <ul class="hc-list">
+            <li>Every date is the normal 2027 calendar; only the year number changes</li>
+            <li>US Letter, landscape, made for home printers</li>
+            <li>Heavy matte paper or light cardstock looks best</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section hc-faq" aria-labelledby="hc-faq-title">
+    <div class="container hc-narrow">
+      <h2 id="hc-faq-title">Questions</h2>
+      {faqs.map((f) => (
+        <details class="hc-faq__item">
+          <summary>{f.q}</summary>
+          <p>{f.a}</p>
+        </details>
+      ))}
+    </div>
+  </section>
+
+  <section class="section hc-final">
+    <div class="container">
+      <div class="card hc-final__card">
+        <div>
+          <h2>Start 12,027 on the right page.</h2>
+          <p>Download the calendar, print it tonight, and see your year on a 12,000-year line.</p>
+        </div>
+        <div class="hc-buy">
+          <a class="button" href={cal.checkout} rel="noopener">{buyLabel}</a>
+          <span class="hc-buy__note">Checkout by Lemon Squeezy. Instant download.</span>
+        </div>
+      </div>
+      <p class="hc-small hc-final__more">Looking for more? <a href="/store/">See everything in the store</a>.</p>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .hc-hero {
+    padding-block: var(--space-9) var(--space-7);
+  }
+
+  .hc-hero__grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1.1fr);
+    gap: var(--space-8);
+    align-items: center;
+  }
+
+  .hc-hero h1 {
+    max-width: 12ch;
+    font-size: var(--text-4xl);
+  }
+
+  .hc-hero .eyebrow a {
+    color: inherit;
+  }
+
+  .hc-hero__image {
+    width: 100%;
+    height: auto;
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-lg);
+  }
+
+  .hc-buy {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--space-3) var(--space-4);
+    margin-top: var(--space-6);
+  }
+
+  .hc-buy__note,
+  .hc-small {
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+
+  .hc-facts {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+    gap: var(--space-3);
+    margin: var(--space-8) 0 0;
+    padding: var(--space-5);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    background: var(--color-surface);
+  }
+
+  .hc-facts dt {
+    font-size: var(--text-xs);
+    font-weight: 650;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+  }
+
+  .hc-facts dd {
+    margin: var(--space-1) 0 0;
+    font-weight: 600;
+  }
+
+  .hc-narrow {
+    max-width: 42rem;
+  }
+
+  .hc-why,
+  .hc-history,
+  .hc-reasons,
+  .hc-long,
+  .hc-months,
+  .hc-get,
+  .hc-faq,
+  .hc-final {
+    padding-top: 0;
+  }
+
+  .section h2 {
+    margin: 0 0 var(--space-5);
+    font-size: var(--text-3xl);
+  }
+
+  .hc-narrow p {
+    font-size: var(--text-lg);
+  }
+
+  .hc-rule {
+    margin-top: var(--space-6);
+    padding: var(--space-5) var(--space-6);
+  }
+
+  .hc-rule p {
+    margin: 0;
+    font-size: var(--text-base);
+  }
+
+  .hc-rule p + p {
+    margin-top: var(--space-2);
+  }
+
+  .hc-rule__title {
+    font-size: var(--text-xs) !important;
+    font-weight: 650;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+  }
+
+  .hc-reasons__grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 17rem), 1fr));
+    gap: var(--space-4);
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  .hc-reasons__grid h3 {
+    margin: 0 0 var(--space-2);
+    font-size: var(--text-lg);
+  }
+
+  .hc-reasons__grid p {
+    margin: 0;
+    color: var(--color-text-muted);
+  }
+
+  .hc-lede {
+    max-width: 40rem;
+    margin: 0 0 var(--space-6);
+    color: var(--color-text-muted);
+  }
+
+  .hc-table-wrap {
+    overflow-x: auto;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    background: var(--color-surface);
+  }
+
+  .hc-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: var(--text-sm);
+  }
+
+  .hc-table th,
+  .hc-table td {
+    padding: var(--space-3) var(--space-4);
+    text-align: left;
+    border-bottom: 1px solid var(--color-border);
+    white-space: nowrap;
+  }
+
+  .hc-table tbody tr:last-child > * {
+    border-bottom: 0;
+  }
+
+  .hc-table thead th {
+    font-size: var(--text-xs);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+  }
+
+  .hc-table tbody th {
+    font-weight: 650;
+  }
+
+  .hc-num {
+    font-variant-numeric: tabular-nums;
+  }
+
+  .hc-months .hc-small {
+    margin-top: var(--space-3);
+  }
+
+  .hc-pages {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 19rem), 1fr));
+    gap: var(--space-5);
+    list-style: none;
+    margin: 0 0 var(--space-8);
+    padding: 0;
+  }
+
+  .hc-pages figure {
+    margin: 0;
+  }
+
+  .hc-pages img {
+    width: 100%;
+    height: auto;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-sm);
+    box-shadow: var(--shadow-md);
+    background: #fff;
+  }
+
+  .hc-pages figcaption {
+    margin-top: var(--space-2);
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+
+  .hc-get__cols {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 20rem), 1fr));
+    gap: var(--space-7);
+  }
+
+  .hc-get__cols h3 {
+    margin: 0 0 var(--space-3);
+    font-size: var(--text-xl);
+  }
+
+  .hc-list {
+    margin: 0;
+    padding-left: 1.2em;
+  }
+
+  .hc-list li + li {
+    margin-top: var(--space-2);
+  }
+
+  .hc-faq__item {
+    border-bottom: 1px solid var(--color-border);
+    padding-block: var(--space-4);
+  }
+
+  .hc-faq__item summary {
+    font-weight: 650;
+    cursor: pointer;
+  }
+
+  .hc-faq__item p {
+    margin: var(--space-3) 0 0;
+    font-size: var(--text-base);
+    color: var(--color-text-muted);
+  }
+
+  .hc-final__card {
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-5);
+    padding: var(--space-7);
+  }
+
+  .hc-final__card h2 {
+    margin-bottom: var(--space-2);
+    font-size: var(--text-2xl);
+  }
+
+  .hc-final__card p {
+    margin: 0;
+    color: var(--color-text-muted);
+  }
+
+  .hc-final__card .hc-buy {
+    margin-top: 0;
+  }
+
+  .hc-final__more {
+    margin-top: var(--space-5);
+  }
+
+  .hc-month-sm {
+    display: none;
+  }
+
+  @media (max-width: 40rem) {
+    .hc-col-wide {
+      display: none;
+    }
+
+    .hc-month-sm {
+      display: block;
+      font-size: var(--text-xs);
+      font-weight: 500;
+      color: var(--color-text-muted);
+    }
+
+    .hc-table th,
+    .hc-table td {
+      padding-inline: var(--space-3);
+      white-space: normal;
+    }
+
+    .hc-table .hc-num {
+      white-space: nowrap;
+    }
+  }
+
+  @media (max-width: 52rem) {
+    .hc-hero__grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
