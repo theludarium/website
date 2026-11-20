@@ -37,7 +37,7 @@ Start with book one. It sets up the dungeon's rules, the game show, and Carl and
 
 ## Why so many fans listen instead of read
 
-The audiobooks are Audible exclusives, produced by Jeff Hays's company, Soundbooth Theater, and performed by Hays himself. The books are full of game announcements, alien hosts, and system messages, and hearing them performed is a big part of the fun. Some later books add guest narrators.
+The audiobooks are Audible exclusives, produced by Jeff Hays's company, Soundbooth Theater, and performed by Hays himself. The books are full of game announcements, alien hosts, and system messages, and hearing them performed is a big part of the fun. Some later books add guest narrators. We cover the performance in detail in [why the Dungeon Crawler Carl audiobook is so good](/articles/dungeon-crawler-carl-audiobook/).
 
 A practical reason too: the books are long. Listening on a commute, while painting miniatures, or while setting up a game is how many fans get through all eight.
 

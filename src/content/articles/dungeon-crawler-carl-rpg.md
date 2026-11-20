@@ -43,7 +43,7 @@ Renegade sells it directly, and most game stores can order it. If your local sto
 
 ## Haven't read the books?
 
-You can play without them, but the game is built for fans. The jokes, the hosts, and the rules all land better if someone at the table knows the series. Our guide to [why RPG players love Dungeon Crawler Carl](/articles/dungeon-crawler-carl-for-rpg-players/) explains the appeal, and the [books in order](/articles/dungeon-crawler-carl-books-in-order/) show where to start. Most fans recommend the [audiobook](https://www.amazon.com/dp/B08V8B2CGV?tag=cubecommonw0a-20), which comes with an Audible free trial for new listeners.
+You can play without them, but the game is built for fans. The jokes, the hosts, and the rules all land better if someone at the table knows the series. Our guide to [why RPG players love Dungeon Crawler Carl](/articles/dungeon-crawler-carl-for-rpg-players/) explains the appeal, and the [books in order](/articles/dungeon-crawler-carl-books-in-order/) show where to start. Most fans recommend the [audiobook](https://www.amazon.com/dp/B08V8B2CGV?tag=cubecommonw0a-20), which comes with an Audible free trial for new listeners. Here is [why the audiobook is so good](/articles/dungeon-crawler-carl-audiobook/).
 
 ## Want the feel without a new system?
 

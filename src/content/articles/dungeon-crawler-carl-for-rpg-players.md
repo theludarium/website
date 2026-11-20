@@ -37,7 +37,7 @@ No. The humor is loud, and some of it is crude, so it is a book for adults. Unde
 
 ## Should you read it or listen to it?
 
-Listen, if you can. The audiobooks are Audible exclusives narrated by Jeff Hays, whose company, Soundbooth Theater, produces them. Fans often say the narration is part of the experience: the system messages, the alien hosts, and Donut's voice all land better out loud. Later books add guest voices.
+Listen, if you can. The audiobooks are Audible exclusives narrated by Jeff Hays, whose company, Soundbooth Theater, produces them. Fans often say the narration is part of the experience: the system messages, the alien hosts, and Donut's voice all land better out loud. Later books add guest voices. Here is more on [why the Dungeon Crawler Carl audiobook is so good](/articles/dungeon-crawler-carl-audiobook/).
 
 If you prefer to read, the Kindle edition and the print books are easy to find.
 
