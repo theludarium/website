@@ -149,14 +149,16 @@ const faqLd = {
           <span class="dc-buy__note">Instant download. Print at home and play tonight.</span>
         </div>
       </div>
-      <Image
-        class="dc-hero__image"
-        src={storeImage}
-        alt="The Deep Cut cover and game sheets fanned out"
-        widths={[480, 800, 1200]}
-        sizes="(max-width: 52rem) 100vw, 36rem"
-        loading="eager"
-      />
+      <a class="dc-hero__link" href={game.checkout} rel="noopener" aria-label={`${buyLabel} on Lemon Squeezy`}>
+        <Image
+          class="dc-hero__image"
+          src={storeImage}
+          alt="The Deep Cut cover and game sheets fanned out"
+          widths={[480, 800, 1200]}
+          sizes="(max-width: 52rem) 100vw, 36rem"
+          loading="eager"
+        />
+      </a>
     </div>
     <div class="container">
       <dl class="dc-facts">
@@ -363,6 +365,27 @@ const faqLd = {
 
   .dc-hero .eyebrow a {
     color: inherit;
+  }
+
+  .dc-hero__link {
+    display: block;
+    border-radius: var(--radius-lg);
+    transition: transform 160ms ease;
+  }
+
+  .dc-hero__link:hover {
+    transform: translateY(-2px);
+  }
+
+  .dc-hero__link:focus-visible {
+    outline: 3px solid var(--color-primary);
+    outline-offset: 4px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .dc-hero__link {
+      transition: none;
+    }
   }
 
   .dc-hero__image {
