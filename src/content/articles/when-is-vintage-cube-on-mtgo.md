@@ -3,7 +3,7 @@ title: "When Is Vintage Cube on MTGO? 2026 Schedule"
 description: "When is Vintage Cube on MTGO? Every 2026 league date so far, the current run from Oct 7 to Nov 4, entry costs, and how to find out when the next one starts."
 pubDate: 2026-10-22
 category: Magic & Cube
-tags: ["Vintage Cube schedule", "Vintage Cube MTGO dates", "Vintage Cube league 2026", "when does Vintage Cube return", "MTGO cube entry cost", "Vintage Supreme Draft", "Cube Commonwealth"]
+tags: ["Vintage Cube schedule", "Vintage Cube MTGO dates", "Vintage Cube league 2026", "when does Vintage Cube return", "MTGO Cube entry cost", "Vintage Supreme Draft", "Cube Commonwealth"]
 draft: false
 ---
 As of this writing, the Vintage Cube schedule on Magic Online has a league running now, from October 7 until the November 4, 2026 downtime, per the [October 13, 2026 weekly announcements](https://www.mtgo.com/news/mtgo101326). Beyond that, the next run has not been announced. In 2026 the pattern has been one Vintage Cube league per major set release, each lasting about four weeks, with a single-elimination queue available in between.
@@ -52,7 +52,7 @@ The old rhythm, documented on the [MTG Wiki](https://mtg.wiki/page/Vintage_Cube)
 1. **A new set releases on MTGO.** Lorwyn Eclipsed, TMNT, Secrets of Strixhaven, Marvel Super Heroes, The Hobbit, Reality Fracture.
 2. **About five days before, the curator posts an update article.** Swap list, reasons, go-live date.
 3. **The league runs about four weeks**, ending at the next scheduled downtime.
-4. **Gap weeks** get a Vintage Supreme Draft, a themed cube, or nothing but the single-elimination queue.
+4. **Gap weeks** get a Vintage Supreme Draft, a themed Cube, or nothing but the single-elimination queue.
 
 Because each league is tied to a set, the simplest way to predict the next Vintage Cube is to watch for the next MTGO set release. In 2026 each league began between one day and about two weeks after one, with the update article about five days before the league. We are not going to name that date here because no post has, and release calendars move.
 
@@ -68,15 +68,15 @@ Leagues are Phantom, so you keep nothing you draft. That is the trade for drafti
 
 ## Is Legacy Cube still on MTGO?
 
-We could not confirm a Legacy Cube run in 2025 or 2026. None of the 2026 weekly announcements we read mention it, and the most recent dated run we found in press coverage was a two-week league starting August 25, 2021, per [Star City Games](https://articles.starcitygames.com/magic-the-gathering/select/everything-i-know-about-legacy-cubes-return-to-magic-online-2/). The alternative cubes that do appear in recent posts are the Vintage Supreme Draft, a Halloween Cube, a Creator Cube and a CubeCon Cube (all listed for October and November 2025 in the [September 26, 2025 post](https://www.mtgo.com/news/om1-vintage-cube-update)), and the Supreme Innistrad Remastered Draft this month.
+We could not confirm a Legacy Cube run in 2025 or 2026. None of the 2026 weekly announcements we read mention it, and the most recent dated run we found in press coverage was a two-week league starting August 25, 2021, per [Star City Games](https://articles.starcitygames.com/magic-the-gathering/select/everything-i-know-about-legacy-cubes-return-to-magic-online-2/). The alternative Cubes that do appear in recent posts are the Vintage Supreme Draft, a Halloween Cube, a Creator Cube and a CubeCon Cube (all listed for October and November 2025 in the [September 26, 2025 post](https://www.mtgo.com/news/om1-vintage-cube-update)), and the Supreme Innistrad Remastered Draft this month.
 
-If you want the Legacy Cube's design philosophy without waiting for a run, our piece on [cube power levels](/articles/cube-power-levels-explained/) explains where it sits relative to Vintage.
+If you want the Legacy Cube's design philosophy without waiting for a run, our piece on [Cube power levels](/articles/cube-power-levels-explained/) explains where it sits relative to Vintage.
 
 ## How do you find out when the next Vintage Cube starts?
 
 Three sources, in order of reliability:
 
-- **The weekly announcements on mtgo.com**, posted Tuesdays. Each one has an events section listing current and upcoming cubes with dates. The October 20 post is the current one.
+- **The weekly announcements on mtgo.com**, posted Tuesdays. Each one has an events section listing current and upcoming Cubes with dates. The October 20 post is the current one.
 - **The Vintage Cube card list page** at [mtgo.com/vintage-cube-cardlist](https://www.mtgo.com/vintage-cube-cardlist). Its header shows the effective date of the current list and changes when a new update is staged.
 - **The curator's update article**, which appears about five days before each league. Our guide to [how the updates work](/articles/how-mtgo-vintage-cube-updates-work/) explains what to read in it.
 
@@ -100,4 +100,4 @@ Yes. The 2026 announcements list it as Phantom, so drafted cards are not added t
 
 ## Check the announcements
 
-The Tuesday announcements on mtgo.com are the place to watch for the next run. The game is the reason. The people are the point. Subscribe to The Ludarium newsletter for new cube pieces. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.
+The Tuesday announcements on mtgo.com are the place to watch for the next run. The game is the reason. The people are the point. Subscribe to The Ludarium newsletter for new Cube pieces. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

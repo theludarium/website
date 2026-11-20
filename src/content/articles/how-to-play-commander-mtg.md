@@ -19,7 +19,7 @@ Commander is Magic's most popular way to play with friends. It began as a fan fo
 
 It is built for a table, not a duel. Games are free-for-all, so you are playing against everyone at once. Decks are long and varied because of the one-copy rule, so no two games play out the same. And because the format starts at 40 life, games last long enough for big, memorable plays. A four-player game often runs an hour or more.
 
-If you are deciding between Commander and other ways to play, our [guide to MTG formats](/articles/mtg-formats/) compares them, and [cube vs Commander](/articles/cube-vs-commander/) covers the choice for a group that plays together often.
+If you are deciding between Commander and other ways to play, our [guide to MTG formats](/articles/mtg-formats/) compares them, and [Cube vs Commander](/articles/cube-vs-commander/) covers the choice for a group that plays together often.
 
 ## What are the Commander rules for building a deck?
 
@@ -176,7 +176,7 @@ Two recent lines stand out:
 
 Play the precon as is for at least ten games before you change anything. Then upgrade one weakness at a time: usually more lands, more ramp, or more ways to draw cards. Our [Commander land count](/articles/commander-land-count/) guide is a good first upgrade check, and our [MTG starter kit guide](/articles/mtg-starter-kit/) compares precons with other first products.
 
-Want to play with a group that owns no decks yet? A [Commander cube](/articles/commander-cube/) lets everyone draft a multiplayer deck from one shared collection.
+Want to play with a group that owns no decks yet? A [Commander Cube](/articles/commander-cube/) lets everyone draft a multiplayer deck from one shared collection.
 
 ## FAQ
 

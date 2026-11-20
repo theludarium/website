@@ -68,4 +68,4 @@ When you do play around a card, play around the one that would lose you the game
 
 Roles shape a deck from the first pick. A deck built to be the beatdown wants more 2-drops, fewer 6s, and creatures that attack well. A deck built to be the control wants removal, card draw, and a few cards that win once it is safe. Most limited decks sit in between, which is why reading your role game by game matters so much.
 
-In cube, where the decks are stronger and more varied, roles get even sharper. Our [cube draft strategy](/articles/cube-draft-strategy/) piece puts the same thinking to work at the draft table.
+In Cube, where the decks are stronger and more varied, roles get even sharper. Our [Cube draft strategy](/articles/cube-draft-strategy/) piece puts the same thinking to work at the draft table.

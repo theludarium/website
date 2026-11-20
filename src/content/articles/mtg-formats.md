@@ -1,7 +1,7 @@
 ---
 title: "MTG Formats Explained: Commander, Standard, Draft, and More"
 seoTitle: "MTG Formats Explained: Commander, Standard, Draft"
-description: "MTG formats explained: Commander, Standard, Modern, Pauper, draft, cube and more, with deck sizes, card pools, cost, and the best first format for each player."
+description: "MTG formats explained: Commander, Standard, Modern, Pauper, draft, Cube and more, with deck sizes, card pools, cost, and the best first format for each player."
 pubDate: 2026-10-31
 category: Magic & Cube
 tags: ["mtg formats", "magic the gathering formats", "commander format", "how to play commander mtg", "mtg modern format", "magic constructed vs limited"]
@@ -9,7 +9,7 @@ draft: false
 ---
 MTG formats are the different rule sets for building a [Magic: The Gathering](https://www.amazon.com/dp/B0D9KXBNBB?tag=cubecommonw0a-20) deck: which cards you may use, how many, and how many people sit at the table. The same cards play very differently in each. Most formats fall into two families. In **constructed** formats you build a deck at home and bring it. In **limited** formats you build a small deck on the spot from packs or a shared pool.
 
-**The quick answer:** if you want to play with friends, start with Commander. If you want to learn the game fast and play at a store, start with booster draft. If you want Magic without buying cards at all, find a cube. Everything else can wait until you know what kind of player you are.
+**The quick answer:** if you want to play with friends, start with Commander. If you want to learn the game fast and play at a store, start with booster draft. If you want Magic without buying cards at all, find a Cube. Everything else can wait until you know what kind of player you are.
 
 Below: every major format, a comparison table, and a pick for each kind of player, checked against Wizards of the Coast's [format pages](https://magic.wizards.com/en/formats) in October 2026.
 
@@ -17,7 +17,7 @@ Below: every major format, a comparison table, and a pick for each kind of playe
 
 **Constructed** means you assemble a deck ahead of time from cards you own. Most constructed formats need at least 60 cards, allow up to four copies of a card, and allow a 15-card sideboard for swapping between games. The big question in each is the **card pool**: which sets are allowed. A small pool keeps things fresh and affordable. A huge pool lets almost every card ever printed come back.
 
-**Limited** means everyone builds from cards they get at the event: packs opened in a draft or sealed event, or a cube. Decks are at least 40 cards, and the event gives you all the basic lands you need.
+**Limited** means everyone builds from cards they get at the event: packs opened in a draft or sealed event, or a Cube. Decks are at least 40 cards, and the event gives you all the basic lands you need.
 
 Commander is constructed, but it plays by its own rules, so it gets its own section.
 
@@ -78,7 +78,7 @@ Modern is a non-rotating format built from cards printed from **2003 forward**, 
 
 **Who they suit:** players who love Magic history and the most powerful interactions in the game.
 
-**Cost:** very high in paper, because the key cards are scarce. Many players get a taste through a cube, where one shared copy of each card serves the whole table.
+**Cost:** very high in paper, because the key cards are scarce. Many players get a taste through a Cube, where one shared copy of each card serves the whole table.
 
 ## Pauper: commons only
 
@@ -86,7 +86,7 @@ Pauper uses only cards released at **common** rarity. Per the [Pauper page](http
 
 **Who it suits:** players who want deep, skill-testing Magic with a big card pool and small spending.
 
-**Cost:** low. Commons are the cheapest cards in the game, though a few in-demand ones cost more than you would guess. The [pauper cube guide](/articles/pauper-cube-guide/) shows the same idea as a draft.
+**Cost:** low. Commons are the cheapest cards in the game, though a few in-demand ones cost more than you would guess. The [pauper Cube guide](/articles/pauper-cube-guide/) shows the same idea as a draft.
 
 ## Brawl: one-on-one Commander on Arena
 
@@ -116,11 +116,11 @@ Sealed skips the drafting. You open six packs and build a 40-card deck from what
 
 ## Cube: the shared-collection draft
 
-A cube is a curated set of cards, often 360 to 540, that one person owns and the group drafts again and again. It plays like a booster draft, but the cards are hand-picked, and nobody buys packs. Wizards does not run cube as a formal format; it belongs to the community. Our explainer on [what an MTG cube is](/articles/what-is-a-magic-cube/) covers how it works, and [cube vs Commander](/articles/cube-vs-commander/) compares the two most popular ways to play with the same group every week.
+A Cube is a curated set of cards, often 360 to 540, that one person owns and the group drafts again and again. It plays like a booster draft, but the cards are hand-picked, and nobody buys packs. Wizards does not run Cube as a formal format; it belongs to the community. Our explainer on [what an MTG Cube is](/articles/what-is-a-magic-cube/) covers how it works, and [Cube vs Commander](/articles/cube-vs-commander/) compares the two most popular ways to play with the same group every week.
 
 **Who it suits:** groups who love drafting, and players who want Magic without a buying habit.
 
-**Cost:** free for drafters. The cube owner pays once, and the cube lasts for years. The Academy's [Cube Draft course](/academy/cube-draft/) teaches the format.
+**Cost:** free for drafters. The Cube owner pays once, and the Cube lasts for years. The Academy's [Cube Draft course](/academy/cube-draft/) teaches the format.
 
 ## MTG formats compared
 
@@ -143,12 +143,12 @@ Arena also has digital-only formats, such as Alchemy, Historic, and Timeless.
 
 ## Which MTG format should you play first?
 
-- **You have a group of friends who want to play together:** Commander. Buy preconstructed decks and play. Or, if one person in the group will build it, a cube.
+- **You have a group of friends who want to play together:** Commander. Buy preconstructed decks and play. Or, if one person in the group will build it, a Cube.
 - **You want to learn the game properly:** booster draft. Every draft is a lesson in card evaluation and deckbuilding, and the course's [how to play Magic](/academy/magic/how-to-play-magic/) lesson gets you ready for it.
 - **You want to play online, today:** Standard or Brawl on MTG Arena.
 - **You want competitive Magic that holds its value:** Pioneer or Modern, after a few months in the game.
 - **You want depth on a budget:** Pauper.
-- **You never want to buy a pack:** cube.
+- **You never want to buy a pack:** Cube.
 
 The free [Magic course](/academy/magic/) runs from your first box to your first Commander night and draft, in that order, if you want a path to follow.
 
@@ -178,7 +178,7 @@ In draft you pick cards one at a time from packs passed around the table. In sea
 
 ## Pick one and play
 
-The best format is the one your friends already play. If you are still deciding, start with [how to draft in Magic](/articles/how-to-draft-mtg/), or read about [cube](/articles/what-is-a-magic-cube/) if you want the whole game without the buying. Ludarium Letters, just below, sends new Magic and cube guides as they publish.
+The best format is the one your friends already play. If you are still deciding, start with [how to draft in Magic](/articles/how-to-draft-mtg/), or read about [Cube](/articles/what-is-a-magic-cube/) if you want the whole game without the buying. Ludarium Letters, just below, sends new Magic and Cube guides as they publish.
 
 The game is the reason. The people are the point.
 

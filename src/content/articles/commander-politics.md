@@ -82,9 +82,9 @@ Yes, and it is worth knowing about.
 
 Two-headed giant pairs players into teams, which turns politics into partnership. Star and emperor formats give fixed enemies and allies. All of these take the "who do I attack" question off the table.
 
-And cube draft, our favorite format, solves it by returning to one-on-one games. The social layer moves out of the game and into the draft, where the stakes are a card instead of a betrayal. Eight people spend forty-five minutes together passing packs, then play clean two-player matches where the only political question is whether you hate-drafted that dragon. [What a Magic cube is](/articles/what-is-a-magic-cube/) explains why that structure keeps a group together, and [how to run a cube night](/articles/how-to-run-a-cube-draft/) covers the hosting.
+And Cube draft, our favorite format, solves it by returning to one-on-one games. The social layer moves out of the game and into the draft, where the stakes are a card instead of a betrayal. Eight people spend forty-five minutes together passing packs, then play clean two-player matches where the only political question is whether you hate-drafted that dragon. [What a Magic Cube is](/articles/what-is-a-magic-cube/) explains why that structure keeps a group together, and [how to run a Cube night](/articles/how-to-run-a-cube-draft/) covers the hosting.
 
-Commander is not worse than cube. It is more social, which means it is more dependent on the people being good at being social. When the pod is, it is the best thing in Magic. When it is not, the format offers no help.
+Commander is not worse than Cube. It is more social, which means it is more dependent on the people being good at being social. When the pod is, it is the best thing in Magic. When it is not, the format offers no help.
 
 If you are still learning the format itself, start with [how to play Commander](/articles/how-to-play-commander-mtg/).
 
@@ -108,6 +108,6 @@ Ask the table why. If it is because your deck is much stronger than theirs, play
 
 ## Keep the pod together
 
-Every Commander player has a story about a game that went sour. The point is to have more stories about the games that did not. The Ludarium newsletter sends new pieces on playing games with people you want to keep, Magic included. If you ever want a break from four-player politics, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, is relaunching as part of The Ludarium: eight-player drafts, no deals to break. Subscribe to hear when the first night is set.
+Every Commander player has a story about a game that went sour. The point is to have more stories about the games that did not. The Ludarium newsletter sends new pieces on playing games with people you want to keep, Magic included. If you ever want a break from four-player politics, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis Cube group, is relaunching as part of The Ludarium: eight-player drafts, no deals to break. Subscribe to hear when the first night is set.
 
 The game is the reason. The people are the point.

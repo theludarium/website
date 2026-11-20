@@ -3,10 +3,10 @@ title: "Cube Draft Attendance: How to Get Eight Players Weekly"
 description: "Cube draft attendance is the whole problem. How Cube Commonwealth went from five-player nights to 12 to 16 every week for three years, and what we would copy."
 pubDate: 2026-10-18
 category: Magic & Cube
-tags: ["cube draft attendance", "how to get eight players for a draft", "weekly cube night", "Magic draft group turnout", "cube group size", "game night attendance", "Cube Commonwealth"]
+tags: ["Cube draft attendance", "how to get eight players for a draft", "weekly Cube night", "Magic draft group turnout", "Cube group size", "game night attendance", "Cube Commonwealth"]
 draft: true
 ---
-Cube draft attendance is the one problem every cube owner has and almost nobody writes about. The cube can be perfect. If five people show up, you are playing a Winston draft and apologizing to the three who drove over for a pod. For about three years, Cube Commonwealth seated 12 to 16 players every week in Indianapolis, from a Discord of roughly 300 mostly local members. We did not start there. We started with "whoever answers the text," and some weeks that was four.
+Cube draft attendance is the one problem every Cube owner has and almost nobody writes about. The Cube can be perfect. If five people show up, you are playing a Winston draft and apologizing to the three who drove over for a pod. For about three years, Cube Commonwealth seated 12 to 16 players every week in Indianapolis, from a Discord of roughly 300 mostly local members. We did not start there. We started with "whoever answers the text," and some weeks that was four.
 
 This is what moved us from four to a reliable two pods, in the order we would do it again.
 
@@ -18,13 +18,13 @@ So the goal is not "a big group." The goal is a group whose worst week still pro
 
 ## What actually moved our attendance?
 
-Looking back, five decisions did most of the work. None of them were about the cube.
+Looking back, five decisions did most of the work. None of them were about the Cube.
 
 ### 1. We fixed the night and never moved it
 
 For the first stretch we scheduled around availability. "Can everyone do Thursday this week?" produced a group chat of twenty messages and a night of five players. The fix was to pick one night and hold it whether or not it was convenient for any particular person, including the host.
 
-A fixed night does something a flexible one cannot: it lets people build their week around it. Partners know. Work knows. Within a couple of months, the question changed from "is there cube this week?" to "I can't make cube this week," which is a different relationship with the event. <!-- EDITOR: add detail (our night) -->
+A fixed night does something a flexible one cannot: it lets people build their week around it. Partners know. Work knows. Within a couple of months, the question changed from "is there Cube this week?" to "I can't make Cube this week," which is a different relationship with the event. <!-- EDITOR: add detail (our night) -->
 
 ### 2. We ran the night even when it was thin
 
@@ -53,7 +53,7 @@ If you have three true regulars, your real job is to turn three into six. Everyt
 The long tail becomes the core one person at a time, and the pattern was consistent enough that we can describe it.
 
 - **The second visit is the one that counts.** First visits are curiosity. Second visits are habit forming. We made a point of messaging first-timers before the next week, personally, not in the channel.
-- **Seat them next to someone kind.** A new player's first draft is confusing. Put a patient veteran on their right and tell the veteran what you are doing. We wrote up the whole approach in [new-player cube night](/articles/cube-for-new-magic-players/).
+- **Seat them next to someone kind.** A new player's first draft is confusing. Put a patient veteran on their right and tell the veteran what you are doing. We wrote up the whole approach in [new-player Cube night](/articles/cube-for-new-magic-players/).
 - **Give them a role.** The person who brings the playmats, the person who tracks records, the person who runs the second pod. A role is a reason to come that survives a bad draft.
 - **Learn what they drafted.** "You took the red deck again" is a small thing. It tells someone they are part of a story, not a headcount.
 - **Never make them feel like filler.** If someone only comes when you are at seven, they will eventually notice. Invite people when you are at ten too.
@@ -84,17 +84,17 @@ None of this takes more than an hour a week. All of it compounds.
 
 ## What about when the host cannot make it?
 
-This is the question that decides whether you have a group or a hobby. For most of our three years, the night depended on one person and one cube, and when that person had a rough season, the night went quiet. We paused. We are now relaunching as a branch of The Ludarium, and the first thing we changed was that the night no longer depends on one person's calendar. How we did that is its own article: [relaunching a game community](/articles/relaunching-a-game-community/).
+This is the question that decides whether you have a group or a hobby. For most of our three years, the night depended on one person and one Cube, and when that person had a rough season, the night went quiet. We paused. We are now relaunching as a branch of The Ludarium, and the first thing we changed was that the night no longer depends on one person's calendar. How we did that is its own article: [relaunching a game community](/articles/relaunching-a-game-community/).
 
-The short version: name a second host early, give them a key or a cube, and let them run a night while you are still around to help. Do it before you need it.
+The short version: name a second host early, give them a key or a Cube, and let them run a night while you are still around to help. Do it before you need it.
 
 ## FAQ
 
-### How many players do you need for a cube draft?
+### How many players do you need for a Cube draft?
 
 Eight is ideal for a booster draft. Six or seven works. With four or five, switch to a two-player or small-group format such as Winston or grid draft rather than cancelling.
 
-### How often should a cube group meet?
+### How often should a Cube group meet?
 
 Weekly, on a fixed night, if you can sustain it. A fixed weekly night becomes a habit; a floating schedule becomes a negotiation every week.
 
@@ -102,7 +102,7 @@ Weekly, on a fixed night, if you can sustain it. A fixed weekly night becomes a 
 
 No. Play something smaller. Cancelling teaches the group that the night is conditional, and attendance drops further the following week.
 
-### How big should a cube group's Discord be?
+### How big should a Cube group's Discord be?
 
 Size matters less than the core. A reliable six regulars plus a trustworthy weekly headcount produces eight more often than a large, passive server does.
 

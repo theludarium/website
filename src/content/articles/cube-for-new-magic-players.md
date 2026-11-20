@@ -1,18 +1,18 @@
 ---
 title: "Learn Magic With a Cube: Our New-Player Night"
-description: "You can learn Magic with a cube faster than with any starter product. How Cube Commonwealth runs new-player night, what we slow down, and what we skip."
+description: "You can learn Magic with a Cube faster than with any starter product. How Cube Commonwealth runs new-player night, what we slow down, and what we skip."
 pubDate: 2026-10-18
 category: Magic & Cube
-tags: ["learn Magic with cube", "new player cube night", "teaching Magic with a cube", "beginner cube draft", "first Magic draft", "Magic for beginners cube", "Cube Commonwealth"]
+tags: ["learn Magic with Cube", "new player Cube night", "teaching Magic with a Cube", "beginner Cube draft", "first Magic draft", "Magic for beginners Cube", "Cube Commonwealth"]
 draft: true
 ---
-The fastest way we have found for an adult to learn Magic is with a cube. Not a starter deck, not an app, not a friend's Commander deck. A curated pile of cards, a draft, and a patient table. Over three years of weekly nights in Indianapolis, Cube Commonwealth taught a steady stream of first-timers this way, enough that we eventually built a specific version of the night for them. This is how new-player night works, what we slow down, and what we cut entirely.
+The fastest way we have found for an adult to learn Magic is with a Cube. Not a starter deck, not an app, not a friend's Commander deck. A curated pile of cards, a draft, and a patient table. Over three years of weekly nights in Indianapolis, Cube Commonwealth taught a steady stream of first-timers this way, enough that we eventually built a specific version of the night for them. This is how new-player night works, what we slow down, and what we cut entirely.
 
-If you want the argument for why cube is a good teaching tool, read [how to teach Magic: The Gathering](/articles/how-to-teach-magic-the-gathering/) first. This article is the operating manual.
+If you want the argument for why Cube is a good teaching tool, read [how to teach Magic: The Gathering](/articles/how-to-teach-magic-the-gathering/) first. This article is the operating manual.
 
-## Why is a cube better than a starter deck for learning?
+## Why is a Cube better than a starter deck for learning?
 
-A starter deck teaches you one deck. A cube teaches you the game.
+A starter deck teaches you one deck. A Cube teaches you the game.
 
 Three things happen in a draft that do not happen with a precon. First, the new player chooses every card, so they have to think about what each one does. Second, they see about 135 cards go past them in a draft, which is a guided tour of the game's vocabulary. Third, they build their own deck and immediately find out whether their choices worked, which is the feedback loop that makes the rules stick.
 
@@ -24,7 +24,7 @@ The honest answer is that most of the night is the same, which is the point. We 
 
 | Regular night | New-player night |
 |---|---|
-| Full cube, full power | Same cube, with a short list of the most confusing cards pulled for the evening <!-- EDITOR: add detail --> |
+| Full Cube, full power | Same Cube, with a short list of the most confusing cards pulled for the evening <!-- EDITOR: add detail --> |
 | Pick clock from pack one | No clock in pack one; gentle clock in packs two and three |
 | Random seating | Each new player seated with a veteran on their right |
 | Round one random | Round one pairs each new player with a designated teacher |
@@ -33,7 +33,7 @@ The honest answer is that most of the night is the same, which is the point. We 
 
 That is the whole list. Everything else runs as it would on any other week, including the start time and the end time.
 
-## What do we pull from the cube for beginners?
+## What do we pull from the Cube for beginners?
 
 Not power. Complexity. A big, dumb dragon is a fine first card. A card with three modes, a replacement effect, and a reminder-text paragraph is not. Before a new-player night we pull a small set of cards that reliably produced ten-minute rules conversations, and we put them back the following week.
 
@@ -43,7 +43,7 @@ The categories we pull:
 - **Cards that change how other cards work.** Static effects that rewrite a rule the new player just learned.
 - **Heavy symmetrical effects.** Cards that punish a player for not knowing what is coming.
 
-We leave in removal, creatures, counterspells, and combat tricks. A new player should learn that spells get countered and creatures get killed. Those are lessons, not traps. What goes in a cube in the first place is a separate question, and the answer for new-player night is: whatever was already there, minus the traps.
+We leave in removal, creatures, counterspells, and combat tricks. A new player should learn that spells get countered and creatures get killed. Those are lessons, not traps. What goes in a Cube in the first place is a separate question, and the answer for new-player night is: whatever was already there, minus the traps.
 
 ## How do we run the draft itself?
 
@@ -55,7 +55,7 @@ Slowly in pack one, then at nearly normal speed.
 
 **Packs two and three.** A gentle clock. New players have usually found their lane by now and the table can move. We have also found that new players who were slow in pack one are often average by pack three, because the vocabulary has started landing.
 
-**Deck building.** Twenty minutes instead of fifteen, and the guide helps with exactly one thing: the mana base. "You have 23 spells, 12 of them red, 11 white, so 9 Mountains and 8 Plains." The new player builds the rest. Our mana-fixing article, [mana fixing in cube](/articles/cube-mana-fixing/), has the details on why this matters so much.
+**Deck building.** Twenty minutes instead of fifteen, and the guide helps with exactly one thing: the mana base. "You have 23 spells, 12 of them red, 11 white, so 9 Mountains and 8 Plains." The new player builds the rest. Our mana-fixing article, [mana fixing in Cube](/articles/cube-mana-fixing/), has the details on why this matters so much.
 
 *If this is useful, the newsletter sends more like it.*
 
@@ -91,25 +91,25 @@ A few, and they were all the same mistake: too much, too early.
 
 ## How often should you run a new-player night?
 
-For us, about once a month, and only when the weekly post has drawn at least three people who have never played. We never scheduled it on the calendar in advance. We announced it when the headcount justified it, usually two or three days out. The regulars came anyway, because the regulars liked teaching. Some of them were taught the same way, at the same table, a year or two earlier. That is the thing about a cube community that a store cannot easily copy: the teachers remember being students.
+For us, about once a month, and only when the weekly post has drawn at least three people who have never played. We never scheduled it on the calendar in advance. We announced it when the headcount justified it, usually two or three days out. The regulars came anyway, because the regulars liked teaching. Some of them were taught the same way, at the same table, a year or two earlier. That is the thing about a Cube community that a store cannot easily copy: the teachers remember being students.
 
 ## FAQ
 
-### Can you learn Magic by drafting a cube?
+### Can you learn Magic by drafting a Cube?
 
 Yes, and for most adults it is the fastest way. A draft walks you through about 135 cards, you build your own deck, and you find out immediately what worked.
 
-### What should you remove from a cube for new players?
+### What should you remove from a Cube for new players?
 
 Complexity, not power. Pull the handful of cards that reliably cause long rules conversations and leave in basic removal, creatures, and counterspells.
 
-### How long does a first cube draft take for a beginner?
+### How long does a first Cube draft take for a beginner?
 
 Plan on an hour for the draft with no clock in pack one, twenty minutes to build, and three rounds of play. The whole night runs about three and a half hours.
 
-### Do I need my own Magic cards to join a cube night?
+### Do I need my own Magic cards to join a Cube night?
 
-No. The cube is the collection. You arrive with nothing and draft from the shared pool.
+No. The Cube is the collection. You arrive with nothing and draft from the shared pool.
 
 ## Pull up a chair
 

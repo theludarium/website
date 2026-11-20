@@ -33,7 +33,7 @@ In card games, the format was popularized by [Magic: The Gathering](https://www.
 
 Board game designers borrowed the format once they saw how much decision it packed into a small space. [Fairy Tale](https://en.wikipedia.org/wiki/Fairy_Tale_(game)) (2005) is an early example, and [7 Wonders](https://en.wikipedia.org/wiki/7_Wonders_(board_game)) (2010) took it mainstream. Since then, drafting has shown up as a phase or a core engine in dozens of games.
 
-Our article on [what a Magic cube is](/articles/what-is-a-magic-cube/) covers the drafting format that many hobbyists consider its purest form.
+Our article on [what a Magic Cube is](/articles/what-is-a-magic-cube/) covers the drafting format that many hobbyists consider its purest form.
 
 ## What are the other kinds of drafting?
 

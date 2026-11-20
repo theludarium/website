@@ -1,12 +1,12 @@
 ---
 title: "Cube Set Review Method: Slot, Test, Keep or Cut"
-description: "A cube set review method for every new Magic release: name the slot, test it against the incumbents, then keep or cut. Copy the template for your own cube."
+description: "A Cube set review method for every new Magic release: name the slot, test it against the incumbents, then keep or cut. Copy the template for your own Cube."
 pubDate: 2026-10-21
 category: Magic & Cube
-tags: ["cube set review", "cube review template", "cube testing process", "cube changelog", "new set cube cards", "cube update", "Cube Commonwealth"]
+tags: ["Cube set review", "Cube review template", "Cube testing process", "Cube changelog", "new set Cube cards", "Cube update", "Cube Commonwealth"]
 draft: false
 ---
-A cube set review is not a ranking. Rankings are for people who have to pick one card from a pack. A cube owner has to decide, for each candidate, whether it beats a specific card already in the list, and then prove it at the table. So our reviews follow one form for every card: name the slot, name the incumbent, call it pass, test, or keep, and log what happened. This article is that form, with the reasoning behind each field, so you can copy it.
+A Cube set review is not a ranking. Rankings are for people who have to pick one card from a pack. A Cube owner has to decide, for each candidate, whether it beats a specific card already in the list, and then prove it at the table. So our reviews follow one form for every card: name the slot, name the incumbent, call it pass, test, or keep, and log what happened. This article is that form, with the reasoning behind each field, so you can copy it.
 
 If you have not read [how we evaluate new cards](/articles/how-to-evaluate-new-cards-for-cube/), start there. This is the paperwork that follows it.
 
@@ -20,7 +20,7 @@ Every card we review gets the same five lines. Here is the template, followed by
 - **Slot:** color / mana value / role
 - **Competes with:** two to four incumbents in that slot
 - **Call:** pass, test, or keep, with one sentence of reasoning
-- **Tier:** which cube power tiers this is a candidate for
+- **Tier:** which Cube power tiers this is a candidate for
 
 **Example**
 
@@ -50,25 +50,25 @@ Use exactly three calls. More categories sound precise but produce arguments abo
 | Test | Might beat an incumbent; needs table evidence | Proxied, swapped in for a named card, drafted two or three times. |
 | Keep | Clearly beats an incumbent on paper | Added at release. Still logged and watched for a month. |
 
-Two rules keep this honest. First, a test always names the card it replaces. "Test it" without a cut is how cubes grow from 540 to 600 without anyone deciding to. Second, a keep is rare. In most sets we call two or three keeps and five to ten tests. If you find yourself calling eight keeps, re-read the slot comparisons.
+Two rules keep this honest. First, a test always names the card it replaces. "Test it" without a cut is how Cubes grow from 540 to 600 without anyone deciding to. Second, a keep is rare. In most sets we call two or three keeps and five to ten tests. If you find yourself calling eight keeps, re-read the slot comparisons.
 
 *If this is useful, the newsletter sends more like it.*
 
 ## How do you run the test?
 
-Testing a cube card is simple, and the simplicity is the point.
+Testing a Cube card is simple, and the simplicity is the point.
 
 1. **Proxy it.** A printed proxy in a sleeve is fine for testing. Do not buy a card until it has survived a test. Whatever your group thinks of proxies in general, for testing, nobody objects.
-2. **Swap, do not add.** The test card goes in, the named incumbent comes out. The cube stays the same size, so the draft stays comparable.
+2. **Swap, do not add.** The test card goes in, the named incumbent comes out. The Cube stays the same size, so the draft stays comparable.
 3. **Run two or three drafts.** One draft is noise. Three drafts give you a card that has been seen by 24 drafters and probably played in two or three decks.
 4. **Watch two things.** Where was it picked, and what did it do when cast? A card that goes in the first five picks and does nothing when played is a trap. A card that wheels and then wins a game is worth a longer look.
-5. **Ask the table.** Drafters who played the card will tell you whether it felt like a cube card. They are usually right.
+5. **Ask the table.** Drafters who played the card will tell you whether it felt like a Cube card. They are usually right.
 
 Then decide. Keep means the proxy becomes a real card and the incumbent leaves. Cut means the incumbent returns. Extend means one more round of drafts, which we allow once. A card that needs a third round is a card you want to like more than the table does, and it should be cut.
 
 ## What goes in the log?
 
-Keep the log as a spreadsheet with one row per card you ever considered. The columns are: set, card, slot, call, replaced, date, result, note. It is the most useful thing a cube owner can maintain, because it answers the question "didn't we already look at this?" instantly.
+Keep the log as a spreadsheet with one row per card you ever considered. The columns are: set, card, slot, call, replaced, date, result, note. It is the most useful thing a Cube owner can maintain, because it answers the question "didn't we already look at this?" instantly.
 
 Two habits make the log worth keeping. Write the row the day you make the call, not after the draft. And write the note in plain language a stranger could read: "picked 3rd and 5th, cast four times, won two games on its own, keep" is a note. "Good" is not.
 
@@ -76,7 +76,7 @@ The log also feeds the changelog that drafters see. How we publish that is cover
 
 ## How do you review a whole set in order?
 
-Go through a set by color, white through green, then gold, then colorless, then lands. Within a color, go by mana value. That order matches how most cube spreadsheets are laid out, so the incumbents are already in front of you.
+Go through a set by color, white through green, then gold, then colorless, then lands. Within a color, go by mana value. That order matches how most Cube spreadsheets are laid out, so the incumbents are already in front of you.
 
 For each color, we write a two-sentence summary before the card entries: what the set gave that color, and whether it moved anything. Most of the time the honest summary is "two test candidates in the two-drop slot, nothing else." Readers can skip a color that has nothing for them.
 
@@ -84,34 +84,34 @@ At the end of the review, we write three lists:
 
 - **Keeps:** cards added at release, with the card each replaced.
 - **Tests:** cards going into the next three drafts, with the card each displaces.
-- **Watching:** cards that failed the slot test today but could matter if the cube changes, such as a payoff for an archetype we are considering adding.
+- **Watching:** cards that failed the slot test today but could matter if the Cube changes, such as a payoff for an archetype we are considering adding.
 
 The watching list is the one people forget, and it is the one that pays off a year later when you decide to add an artifact theme and already have the candidates written down.
 
-## What makes a review useful to someone with a different cube?
+## What makes a review useful to someone with a different Cube?
 
-Most readers of a set review do not own your cube. They own a 360 at a different power level with a different archetype list. The review helps them only if the reasoning is visible.
+Most readers of a set review do not own your Cube. They own a 360 at a different power level with a different archetype list. The review helps them only if the reasoning is visible.
 
-So we always state the slot and the incumbents, even when they are obvious. A reader whose cube has different incumbents can rerun the comparison in their head. We state the power tier the card belongs in, because a pass for a Vintage cube can be a keep for a Peasant cube. And we say when a call depends on a house preference. "We do not run two-mana discard, so pass" is more useful than "pass," because the reader can decide whether they share the preference.
+So we always state the slot and the incumbents, even when they are obvious. A reader whose Cube has different incumbents can rerun the comparison in their head. We state the power tier the card belongs in, because a pass for a Vintage Cube can be a keep for a Peasant Cube. And we say when a call depends on a house preference. "We do not run two-mana discard, so pass" is more useful than "pass," because the reader can decide whether they share the preference.
 
 ## FAQ
 
-### How long should a cube set review take to write?
+### How long should a Cube set review take to write?
 
 About three hours for a 280-card set, in our experience, once the first pass is done: one hour sorting into pass and candidate, one hour writing entries, one hour on the summary lists. The testing comes after and takes two or three draft nights.
 
 ### Should every card in a set get an entry?
 
-No. Cards that do not name a slot you run get no entry at all. A review that lists every card is a Limited review wearing a cube hat.
+No. Cards that do not name a slot you run get no entry at all. A review that lists every card is a Limited review wearing a Cube hat.
 
 ### What if a test card is good but the incumbent is better?
 
 Then the incumbent stays, and the card goes on the watching list. The method exists precisely so that "good" is not enough. The card has to be better at a specific job.
 
-### How many test slots can a cube run at once?
+### How many test slots can a Cube run at once?
 
 Four or five per draft round is the most we recommend. More than that and you cannot tell which change produced which result.
 
 ## Keep the template, send us your calls
 
-The newsletter is where our set reviews land first. Subscribe to get them, and if you cube in Indianapolis, you will hear first when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, sets its first night as part of The Ludarium. The game is the reason. The people are the point.
+The newsletter is where our set reviews land first. Subscribe to get them, and if you Cube in Indianapolis, you will hear first when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Cube group, sets its first night as part of The Ludarium. The game is the reason. The people are the point.

@@ -1,31 +1,31 @@
 ---
 title: "TMNT Cube Review: Sneak, Super Shredder, Casey Jones"
-description: "Teenage Mutant Ninja Turtles cube review: sneak creatures, Super Shredder, Casey Jones, Cool but Rude, and Krang, each rated by slot for every tier of cube."
+description: "Teenage Mutant Ninja Turtles Cube review: sneak creatures, Super Shredder, Casey Jones, Cool but Rude, and Krang, each rated by slot for every tier of Cube."
 pubDate: 2026-10-22
 category: Magic & Cube
-tags: ["Teenage Mutant Ninja Turtles cube", "TMNT MTG cube", "sneak mechanic cube", "Super Shredder cube", "Krang Utrom Warlord cube", "Universes Beyond cube", "Cube Commonwealth"]
+tags: ["Teenage Mutant Ninja Turtles Cube", "TMNT MTG Cube", "sneak mechanic Cube", "Super Shredder Cube", "Krang Utrom Warlord Cube", "Universes Beyond Cube", "Cube Commonwealth"]
 draft: false
 ---
-Magic: The Gathering | Teenage Mutant Ninja Turtles released on March 6, 2026, and the Teenage Mutant Ninja Turtles cube question has a clear answer: a small set with a few sharp cards and a mechanic, sneak, that cubes with ninja-style tempo decks will like. It is a shorter review than most because the set is smaller, 190 cards in the draftable main set per [Beckett's checklist](https://www.beckett.com/news/magic-the-gathering-teenage-mutant-ninja-turtles-tcg-checklist-and-set-details/), and because most of its legends are built for Commander. Calls below follow [the slot method](/articles/how-to-evaluate-new-cards-for-cube/).
+Magic: The Gathering | Teenage Mutant Ninja Turtles released on March 6, 2026, and the Teenage Mutant Ninja Turtles Cube question has a clear answer: a small set with a few sharp cards and a mechanic, sneak, that Cubes with ninja-style tempo decks will like. It is a shorter review than most because the set is smaller, 190 cards in the draftable main set per [Beckett's checklist](https://www.beckett.com/news/magic-the-gathering-teenage-mutant-ninja-turtles-tcg-checklist-and-set-details/), and because most of its legends are built for Commander. Calls below follow [the slot method](/articles/how-to-evaluate-new-cards-for-cube/).
 
 Set code TMT, tabletop release March 6, 2026, legal in Standard, Pioneer, Modern, Legacy and Vintage, per the [Wizards collecting article](https://magic.wizards.com/en/news/feature/collecting-teenage-mutant-ninja-turtles). Card text is paraphrased from Card Kingdom and mtg.wtf listings.
 
 ## What does the set do, in one paragraph?
 
-**Sneak** is ninjutsu cast as a spell: during the declare blockers step, return an unblocked attacker to hand and cast the sneak card for its sneak cost. A creature enters tapped and attacking. **Mutagen** tokens are artifacts that sacrifice for a +1/+1 counter. **Classes** return as leveling enchantments. Several legends care about artifacts and +1/+1 counters. For cube, sneak is the mechanic that travels, because it slots into existing tempo lanes, and the artifact-matters cards travel if you have an artifact theme.
+**Sneak** is ninjutsu cast as a spell: during the declare blockers step, return an unblocked attacker to hand and cast the sneak card for its sneak cost. A creature enters tapped and attacking. **Mutagen** tokens are artifacts that sacrifice for a +1/+1 counter. **Classes** return as leveling enchantments. Several legends care about artifacts and +1/+1 counters. For Cube, sneak is the mechanic that travels, because it slots into existing tempo lanes, and the artifact-matters cards travel if you have an artifact theme.
 
-## Which sneak creatures are cube cards?
+## Which sneak creatures are Cube cards?
 
-The four turtles each have a sneak version. They are compared with Ninja of the Deep Hours, Fallen Shinobi and the other ninjutsu cards cubes already run.
+The four turtles each have a sneak version. They are compared with Ninja of the Deep Hours, Fallen Shinobi and the other ninjutsu cards Cubes already run.
 
 - **Leonardo, Cutting Edge** ({1}{W}, 1/1 lifelink; sneak {W}; a +1/+1 counter whenever you gain life). **Slot:** white / 2 / aggro. **Call: pass.** The body is small and the sneak cost is nice, but white two-drops are deep.
 - **Leonardo, Sewer Samurai** ({3}{W}, 3/3 double strike; sneak {2}{W}{W}; on your turn, cast creature spells with power or toughness 1 or less from your graveyard, entering with a finality counter). **Slot:** white / 4 / threat. **Call: test.** A four-mana 3/3 double strike is a fine attacker, and the graveyard recursion feeds white weenie decks that trade one-drops early.
-- **Donatello, Gadget Master** ({2}{U}, 3/2; sneak {1}{U}; on combat damage, copy an artifact you control as a token). **Call: test** in artifact cubes, pass elsewhere.
+- **Donatello, Gadget Master** ({2}{U}, 3/2; sneak {1}{U}; on combat damage, copy an artifact you control as a token). **Call: test** in artifact Cubes, pass elsewhere.
 - **Donatello, Mutant Mechanic** ({3}{U}, 3/5; tap to put three counters on an artifact, animating it; moves counters when it dies). **Call: pass.**
 - **Raphael, the Nightwatcher** ({2}{R}{R}, 2/3; sneak {1}{R}{R}; your attacking creatures have double strike). **Slot:** red / 4 / aggro payoff. **Call: test.** Sneak this in behind two unblocked attackers and the game usually ends. The 2/3 body is poor when it has to be cast.
 - **Raphael, Ninja Destroyer** ({2}{R}{R}, 4/4; must be blocked if able; enrage adds red mana that lasts the turn). **Call: pass.**
 - **Michelangelo, Improviser** ({3}{G}, 4/4; sneak {2}{G}{G}; on combat damage, put a creature and a land from hand onto the battlefield). **Slot:** green / 4 / value. **Call: test.** Four mana for a 4/4 that cheats a creature in on each connect. In green, that is Rogue-style tempo with a bigger body than the ninjas have.
-- **Michelangelo, Weirdness to 11** ({1}{G}, 1/1; makes a Mutagen on entering; your +1/+1 counters come with one extra). **Call: pass** except in counters cubes.
+- **Michelangelo, Weirdness to 11** ({1}{G}, 1/1; makes a Mutagen on entering; your +1/+1 counters come with one extra). **Call: pass** except in counters Cubes.
 - **Dark Leo & Shredder** ({W}{B}, 1/3; sneak {W}{B}; attacking Ninjas have deathtouch; makes a Ninja on combat damage; halves a player's life at five Ninjas). **Call: pass.** Gold, tribal, slow.
 
 *If this is useful, the newsletter sends more like it.*
@@ -35,22 +35,22 @@ The four turtles each have a sneak version. They are compared with Ninja of the 
 - **Super Shredder** ({1}{B}, 1/1 menace; a +1/+1 counter whenever another permanent leaves the battlefield). **Slot:** black / 2 / aggro. **Competes with:** Kitesail Freebooter, Bloodghast, Dauthi Voidwalker (adjacent). **Call: test.** It counts every permanent leaving: your sacrificed tokens, their dead blockers, bounced lands, fetched lands. In a sacrifice deck it is a 4/4 menace by turn four. [MTGGoldfish](https://www.mtggoldfish.com/price/Teenage+Mutant+Ninja+Turtles/Super+Shredder) showed it around $18 (TCGplayer mid) and $21 at Card Kingdom as of October 17, 2026, which tells you Standard likes it too.
 - **Casey Jones, Vigilante** ({1}{R}{R}, 4/3; draw three when it enters; discard three at random at your next upkeep). **Slot:** red / 3 / aggro threat. **Call: test.** A three-mana 4/3 that draws three is above rate; the random discard is a real cost. In a low-curve red deck you will have cast two of the three cards before the discard happens.
 - **April O'Neil, Hacktivist** ({3}{U}, 1/5; at your end step, draw a card for each card type among spells you cast this turn). **Call: pass.** A four-mana 1/5 that draws one or two a turn is a control card that blue has better versions of.
-- **Krang, Utrom Warlord** ({9}, 9/9 flying trample indestructible haste artifact creature; your other artifact creatures share those keywords). **Call: pass** for most cubes; test as a Tinker or reanimation target if your cube cheats on mana. Nine mana is not castable.
+- **Krang, Utrom Warlord** ({9}, 9/9 flying trample indestructible haste artifact creature; your other artifact creatures share those keywords). **Call: pass** for most Cubes; test as a Tinker or reanimation target if your Cube cheats on mana. Nine mana is not castable.
 - **Technodrome** ({2}, 3/3 reach trample artifact creature; can't attack or block unless power is 6 or more; tap and sacrifice another artifact to draw and grow). **Call: pass.**
 - **Mondo Gecko** ({1}{U}{U}, 2/3; discard to change color and gain hexproof from it; draws per color among your permanents on combat damage). **Call: pass.**
 - **Leatherhead, Swamp Stalker** ({2}{G}{G}, 5/4 trample; enters with a hexproof counter; remove it on combat damage to destroy an artifact or enchantment). **Slot:** green / 4 / beater. **Call: test** at Modern power and below. A four-mana 5/4 trample with one-shot hexproof is a solid body, and the removal is a bonus.
 - **Mutagen Man, Living Ooze** ({X}{G}{G}, 2/3 trample; makes X Mutagen tokens; your artifact tokens' abilities cost {1} less). **Call: pass.**
 - **Raph & Mikey, Troublemakers** ({5}{R/G}{R/G}, 7/7 trample haste; on attack, reveal until a creature and put it in attacking). **Call: pass** except as a reanimation target. Hybrid cost helps; seven mana does not.
 - **South Wind Avatar** ({3}{B}, 3/4 deathtouch; gain life equal to toughness when another creature of yours dies; opponents lose 1 when you gain life). **Call: test** in aristocrats lanes.
-- **North Wind Avatar** ({2}{U}{U}{R}, 5/5 flying; fetch a card from outside the game when cast). **Call: pass.** Wishes do nothing in cube unless you allow sideboards; see [cube sideboard rules](/articles/cube-sideboard-rules/).
+- **North Wind Avatar** ({2}{U}{U}{R}, 5/5 flying; fetch a card from outside the game when cast). **Call: pass.** Wishes do nothing in Cube unless you allow sideboards; see [Cube sideboard rules](/articles/cube-sideboard-rules/).
 
 ## Which non-creature cards get a look?
 
 - **Cool but Rude** ({1}{R}, Class; level 1: discard to draw on attack; level 2 for {1}{R}: 2 damage to each opponent per discard; level 3 for {1}{R}: tutor then discard at random). **Slot:** red / 2 / aggro engine. **Call: test.** A two-mana enchantment that filters every attack and later turns each discard into a Shock. Red decks with Faithless Looting effects want this.
-- **Ninja Teen** ({2}{B}, Class; drain 1 when your creature leaves; level 2 for {1}{B}: +1/+0 and menace; level 3 for {B}: creature cards in your graveyard have sneak {3}{B}). **Call: pass** for most cubes; test in black aristocrats.
+- **Ninja Teen** ({2}{B}, Class; drain 1 when your creature leaves; level 2 for {1}{B}: +1/+0 and menace; level 3 for {B}: creature cards in your graveyard have sneak {3}{B}). **Call: pass** for most Cubes; test in black aristocrats.
 - **Splinter's Technique** ({3}{B}, sorcery; sneak {1}{B}; search your library for a card). **Slot:** black / 4 / tutor. **Call: test.** A four-mana Demonic Tutor, or a two-mana one when you have an unblocked attacker to return. The cheap mode is often available in a tempo deck.
 - **The Ooze** ({2}, legendary artifact; makes Mutagen tokens when your creature with +1/+1 counters leaves; tap to exile a card from a graveyard and make a Mutagen). **Call: pass.** The graveyard hate mode is slow.
-- **Improvised Arsenal** ({1}{R}, Equipment: +1/+0 per artifact you control; equip {R}; {4}{R} copies itself). **Call:** test in artifact cubes, pass elsewhere.
+- **Improvised Arsenal** ({1}{R}, Equipment: +1/+0 per artifact you control; equip {R}; {4}{R} copies itself). **Call:** test in artifact Cubes, pass elsewhere.
 - **Ravenous Robots** ({1}{R}, 2/1 artifact creature; makes a 1/1 Robot when you cast an artifact; {R}, tap: your tokens gain haste). **Call: test** in artifact aggro lanes.
 - **Turtles in Time** ({5}{U}{U}, sorcery: bounce all creatures, each player may shuffle hand and graveyard into library and draw seven). **Call: pass.** Timetwister with a seven-mana price.
 - **The Last Ronin** ({4}{B}{G} Saga: wrath, then mill and recur, then a buff for a lone attacker). **Call: pass.** Six-mana gold.
@@ -62,7 +62,7 @@ The four turtles each have a sneak version. They are compared with Ninja of the 
 |---|---|---|---|
 | Super Shredder | B / 2 / aggro | Test | Legacy, Modern |
 | Casey Jones, Vigilante | R / 3 / aggro | Test | Legacy, Modern |
-| Cool but Rude | R / 2 / engine | Test | Spells and aggro cubes |
+| Cool but Rude | R / 2 / engine | Test | Spells and aggro Cubes |
 | Raphael, the Nightwatcher | R / 4 / aggro payoff | Test | Modern, Legacy |
 | Michelangelo, Improviser | G / 4 / tempo value | Test | Modern, Legacy |
 | Leonardo, Sewer Samurai | W / 4 / threat | Test | Modern |
@@ -74,22 +74,22 @@ No keeps, eight tests. That matches our expectation for a small crossover set: n
 
 ## FAQ
 
-### Is the TMNT set good for cube?
+### Is the TMNT set good for Cube?
 
 It is a modest set with two or three real candidates. Super Shredder, Casey Jones and Cool but Rude are the cards we would test first. Most of the legends are Commander cards.
 
-### Does sneak work in cube?
+### Does sneak work in Cube?
 
-Yes, if your cube already supports tempo decks with evasive one- and two-drops. Sneak is ninjutsu with a new name, so it slots into the same lane as Ninja of the Deep Hours.
+Yes, if your Cube already supports tempo decks with evasive one- and two-drops. Sneak is ninjutsu with a new name, so it slots into the same lane as Ninja of the Deep Hours.
 
-### Is Krang playable in cube?
+### Is Krang playable in Cube?
 
-Only as a cheat target. Nine mana is not a cost cube decks pay. If your cube runs Sneak Attack or Reanimate effects, Krang is a reasonable colorless target that any deck can pick up.
+Only as a cheat target. Nine mana is not a cost Cube decks pay. If your Cube runs Sneak Attack or Reanimate effects, Krang is a reasonable colorless target that any deck can pick up.
 
-### Which TMNT cards fit a Pauper cube?
+### Which TMNT cards fit a Pauper Cube?
 
 We focused on rares and mythics, but a few commons stand out. Manhole Missile ({1}{R} instant: 3 damage to a creature, plus an optional rummage) is efficient removal. Anchovy & Banana Pizza ({2}{B}{B} artifact: destroy a creature on entry, later gain 3) is removal that leaves a Food. Buzz Bots ({1}{U} flying, vigilance artifact creature that draws when it dies) is an evasive two-drop that replaces itself. Frog Butler ({1}{G} deathtouch dork that taps for any color) fixes and blocks.
 
 ## Test them at the table
 
-If your group allows Universes Beyond cards, Super Shredder, Casey Jones and Cool but Rude are the three to try first, proxied for a few drafts before you buy. Subscribe to The Ludarium newsletter for new set reviews, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, sets its first night as part of The Ludarium. The game is the reason. The people are the point.
+If your group allows Universes Beyond cards, Super Shredder, Casey Jones and Cool but Rude are the three to try first, proxied for a few drafts before you buy. Subscribe to The Ludarium newsletter for new set reviews, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis Cube group, sets its first night as part of The Ludarium. The game is the reason. The people are the point.

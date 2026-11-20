@@ -34,7 +34,7 @@ The next step after a ready-to-play deck is building your own, and the [Commande
 - **One copy of each card**, except basic lands, for exactly 100 cards including your commander.
 - **Color identity.** Every color in a card's mana symbols, in its cost or its rules text, must also be one of your commander's colors, counted the same way. Colorless cards with no colored mana symbols are always allowed.
 
-Wizards' [Commander format page](https://magic.wizards.com/en/formats/commander) has the full rules, the bracket guide, and the Game Changers list. Commander also reaches into drafting: our piece on a [Commander cube](/articles/commander-cube/) shows how groups draft multiplayer decks, and our comparison of [Cube and Commander](/articles/cube-vs-commander/) helps if your group is choosing between them.
+Wizards' [Commander format page](https://magic.wizards.com/en/formats/commander) has the full rules, the bracket guide, and the Game Changers list. Commander also reaches into drafting: our piece on a [Commander Cube](/articles/commander-cube/) shows how groups draft multiplayer decks, and our comparison of [Cube and Commander](/articles/cube-vs-commander/) helps if your group is choosing between them.
 
 ## The new-set calendar
 
@@ -52,9 +52,9 @@ You do not need to follow every set. Many players pick one or two prereleases a 
 
 If the best part was the draft, Cube may be the most fun you can have with Magic cards.
 
-A cube is a hand-picked collection of cards, usually a few hundred, that a group drafts from again and again. Nobody buys packs. Every draft is different, every deck is built on the spot, and the cards are chosen to make the games interesting. It takes everything you learned in the [prerelease](/academy/magic/magic-prerelease-guide/) and [draft strategy](/academy/magic/magic-draft-strategy/) lessons and makes it the whole evening.
+A Cube is a hand-picked collection of cards, usually a few hundred, that a group drafts from again and again. Nobody buys packs. Every draft is different, every deck is built on the spot, and the cards are chosen to make the games interesting. It takes everything you learned in the [prerelease](/academy/magic/magic-prerelease-guide/) and [draft strategy](/academy/magic/magic-draft-strategy/) lessons and makes it the whole evening.
 
-This is where this course hands off. The Ludarium Academy's [Cube course](/academy/cube-draft/) picks up from your first draft and teaches Cube from the ground up. Our [Magic and Cube articles](/articles/category/magic-and-cube/) go deeper, starting with [what a Magic cube is](/articles/what-is-a-magic-cube/) and [how to run a cube draft](/articles/how-to-run-a-cube-draft/).
+This is where this course hands off. The Ludarium Academy's [Cube course](/academy/cube-draft/) picks up from your first draft and teaches Cube from the ground up. Our [Magic and Cube articles](/articles/category/magic-and-cube/) go deeper, starting with [what a Magic Cube is](/articles/what-is-a-magic-cube/) and [how to run a Cube draft](/articles/how-to-run-a-cube-draft/).
 
 ## Finding your people
 

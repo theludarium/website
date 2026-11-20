@@ -1,16 +1,16 @@
 ---
 title: "Cube League Format That Doesn't Punish Missing a Week"
-description: "A cube league gives a weekly draft a season arc without turning it into a tournament. The Cube Commonwealth format, where missing a week costs nothing."
+description: "A Cube league gives a weekly draft a season arc without turning it into a tournament. The Cube Commonwealth format, where missing a week costs nothing."
 pubDate: 2026-10-18
 category: Magic & Cube
-tags: ["cube league", "cube league format", "casual Magic league", "draft league scoring", "season format for game night", "drop-in league rules", "Cube Commonwealth"]
+tags: ["Cube league", "Cube league format", "casual Magic league", "draft league scoring", "season format for game night", "drop-in league rules", "Cube Commonwealth"]
 draft: true
 ---
-A cube league is what you add when a weekly draft is healthy and you want it to have a shape longer than one night. The danger is obvious. Most league formats are tournaments stretched over weeks, and a tournament rewards the person who never misses. In a group of adults with jobs and kids, that person is the one with the fewest other commitments, and a league that crowns them every season is a league the rest of the room quietly stops caring about.
+A Cube league is what you add when a weekly draft is healthy and you want it to have a shape longer than one night. The danger is obvious. Most league formats are tournaments stretched over weeks, and a tournament rewards the person who never misses. In a group of adults with jobs and kids, that person is the one with the fewest other commitments, and a league that crowns them every season is a league the rest of the room quietly stops caring about.
 
 Cube Commonwealth ran weekly for about three years in Indianapolis with 12 to 16 players, and we tried a few league structures along the way. This is the one that worked, written as rules you can copy, and the reasoning behind each rule.
 
-## What should a cube league do, and not do?
+## What should a Cube league do, and not do?
 
 Do:
 
@@ -65,7 +65,7 @@ Best-N-of-M sits in the right place. There is a reason to come (more nights, mor
 
 A little, and mostly in the right direction, as long as the points are small.
 
-What we saw: regulars thought about the cube more between nights, which fed the change log in [the community cube](/articles/community-owned-cube/). People tried archetypes they had been avoiding, because one bad night was cheap and a surprising 3-0 was worth three. The deck-of-the-night bonus pulled people toward interesting decks instead of safe ones.
+What we saw: regulars thought about the Cube more between nights, which fed the change log in [the community Cube](/articles/community-owned-cube/). People tried archetypes they had been avoiding, because one bad night was cheap and a surprising 3-0 was worth three. The deck-of-the-night bonus pulled people toward interesting decks instead of safe ones.
 
 What we watched for: anyone treating a round-three match as a must-win. If a league ever produces an argument over a rules call that would not have happened on a normal night, the points are too large. Our answer was to leave the scoring alone and make the prize smaller. The prize for a season should be something you would laugh about, not something you would drive across town for.
 
@@ -89,7 +89,7 @@ When we relaunch Cube Commonwealth under The Ludarium, the league comes back in 
 
 ## FAQ
 
-### How does a casual cube league work?
+### How does a casual Cube league work?
 
 Every draft night earns points based on your record, your season total is your best five nights out of eight, and standings are posted once a week after the night, never during it.
 
@@ -97,11 +97,11 @@ Every draft night earns points based on your record, your season total is your b
 
 Count only each player's best N nights out of M. A player who misses several weeks loses nothing as long as they attend enough nights to fill their best-N slots.
 
-### Should a cube league have prizes?
+### Should a Cube league have prizes?
 
 Small and silly. One for the top score and an equal one for most nights attended, so the season rewards both drafting well and showing up.
 
-### Do new players count in a cube league?
+### Do new players count in a Cube league?
 
 Their results count for their opponents from night one, but their own ranking stays hidden until their third visit.
 

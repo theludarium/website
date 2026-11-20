@@ -11,7 +11,7 @@ oneIdea: "A set is designed around a handful of two-color decks. Learn what they
 tryThis: "Before your next draft, find the set's ten gold uncommons and write one line on what each two-color pair wants to do. Bring that list in your head, not on paper."
 nextTeaser: "Next, building your own Commander deck from scratch: choosing a commander, the shape of a 100-card list, and how to keep it at the right power for your table."
 ---
-Your first draft, back in the prerelease lesson, was about surviving: take good cards, settle into two colors, add 17 lands. This lesson is about drafting with a plan. It covers set drafts, the kind your store runs with packs of a new release. A cube draft uses the same skills with a different card pool, and the Academy's [Cube course](/academy/cube-draft/) teaches that format on its own.
+Your first draft, back in the prerelease lesson, was about surviving: take good cards, settle into two colors, add 17 lands. This lesson is about drafting with a plan. It covers set drafts, the kind your store runs with packs of a new release. A Cube draft uses the same skills with a different card pool, and the Academy's [Cube course](/academy/cube-draft/) teaches that format on its own.
 
 ## Learn the archetypes before you sit down
 
@@ -63,6 +63,6 @@ Public data helps here. Sites that collect results from MTG Arena drafts publish
 
 ## After the draft
 
-Build, then look at your sideboard one more time. The card you wish you had in game one is often already sitting there. Our [card drafting explainer](/articles/card-drafting-explained/) has more on signals, and once you are drafting a set well, a cube night will feel like a new game with the same muscles.
+Build, then look at your sideboard one more time. The card you wish you had in game one is often already sitting there. Our [card drafting explainer](/articles/card-drafting-explained/) has more on signals, and once you are drafting a set well, a Cube night will feel like a new game with the same muscles.
 
 Draft nights at home work well with Wizards' Pick-Two Draft rules and a Draft Night box for four players, listed on each recent set's [product page](https://magic.wizards.com/en/products).

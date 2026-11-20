@@ -6,7 +6,7 @@ category: Magic & Cube
 tags: ["Discord game group", "Discord server for board game group", "Discord setup for Magic group", "game night Discord channels", "weekly game night post", "Discord roles for a club", "Cube Commonwealth"]
 draft: true
 ---
-A Discord game group lives or dies on new posts. Everything else in the server exists to make that post land. Cube Commonwealth ran a roughly 300-member, mostly local Discord in Indianapolis for about three years, and it turned a cube and a Thursday into 12 to 16 players a week. Most of the server was clutter. A small part of it did all the work. This is the small part, written so you can copy it in an afternoon.
+A Discord game group lives or dies on new posts. Everything else in the server exists to make that post land. Cube Commonwealth ran a roughly 300-member, mostly local Discord in Indianapolis for about three years, and it turned a Cube and a Thursday into 12 to 16 players a week. Most of the server was clutter. A small part of it did all the work. This is the small part, written so you can copy it in an afternoon.
 
 ## What is a Discord server for, in a game group?
 
@@ -61,7 +61,7 @@ Roles in Discord do two things: permissions and pings. You want very few of each
 - **@regular.** Anyone who has come three times. Can post in #results and create threads. Mostly it is a small badge that says "you belong here."
 - **@host.** The people who can run a night: deal packs, run pairings, make a ruling. Two or three people, never one. We wrote about why one is dangerous in [relaunching a game community](/articles/relaunching-a-game-community/).
 - **@new.** Assigned on join, removed after the first visit. Lets veterans see who in #general has not been to a night yet and say hello.
-- **@cube-pings.** Opt-in. The only role the weekly post mentions. People who want a notification get one; people who do not, do not. Pinging @everyone once a week is how you train people to mute the server.
+- **@Cube-pings.** Opt-in. The only role the weekly post mentions. People who want a notification get one; people who do not, do not. Pinging @everyone once a week is how you train people to mute the server.
 
 We did not have moderator roles beyond the hosts, because a 300-member local server with a clear purpose rarely needs them. In three years we removed a handful of people, all for the same reason, which was being unkind at the table rather than anything they typed.
 
@@ -71,15 +71,15 @@ We did not have moderator roles beyond the hosts, because a 300-member local ser
 
 The pinned #start-here post. It answers, in this order, the five things every new person wants to know and is slightly embarrassed to ask:
 
-1. What is this? One sentence. "A weekly Magic cube draft in Indianapolis. One shared cube, no cards needed."
+1. What is this? One sentence. "A weekly Magic Cube draft in Indianapolis. One shared Cube, no cards needed."
 2. When and where? The fixed night, the venue, parking if it matters. <!-- EDITOR: add detail -->
 3. What does it cost? The real answer, including the drink you should buy if the venue is a bar.
 4. What should I bring? Nothing. Maybe a playmat.
 5. How do I say I'm coming? "React to the post in #this-week."
 
-Then a link to our piece on what a cube is, and a line that says the host's name and that they will message you before your first night. That last line matters more than the rest combined. A stranger is more likely to walk into a room if one person in it is expecting them.
+Then a link to our piece on what a Cube is, and a line that says the host's name and that they will message you before your first night. That last line matters more than the rest combined. A stranger is more likely to walk into a room if one person in it is expecting them.
 
-For a longer version of how we handle first-timers at the table, see [new-player cube night](/articles/cube-for-new-magic-players/).
+For a longer version of how we handle first-timers at the table, see [new-player Cube night](/articles/cube-for-new-magic-players/).
 
 ## What did we get wrong with the server?
 
@@ -97,11 +97,11 @@ For a longer version of how we handle first-timers at the table, see [new-player
 
 A few things earned their place.
 
-- **A reaction-role bot** for the opt-in @cube-pings role. Set it up once.
+- **A reaction-role bot** for the opt-in @Cube-pings role. Set it up once.
 - **A pinned pairing sheet or a free pairing app** on two-pod nights, with each pod's pairings posted in its own thread so nobody has to find the host to learn who they play.
 - **A scheduled event** in Discord's own events feature, duplicating the weekly post. Some people live by the events tab. It costs nothing.
 
-Things we tried and dropped: an attendance-tracking bot (a spreadsheet did it better), a card-price bot (nobody is buying cards in a cube group), and a leveling bot (it rewarded people for typing, and we wanted to reward people for showing up).
+Things we tried and dropped: an attendance-tracking bot (a spreadsheet did it better), a card-price bot (nobody is buying cards in a Cube group), and a leveling bot (it rewarded people for typing, and we wanted to reward people for showing up).
 
 ## FAQ
 

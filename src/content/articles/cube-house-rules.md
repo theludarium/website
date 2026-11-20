@@ -3,18 +3,18 @@ title: "Cube House Rules Worth Writing Down"
 description: "Cube house rules worth writing down: which ones belong in your primer, how to word each so the arguments stop, and the ten rules most groups end up needing."
 pubDate: 2026-10-21
 category: Magic & Cube
-tags: ["cube house rules", "cube draft house rules", "cube rules primer", "cube table rules", "cube draft etiquette", "cube night rules", "Cube Commonwealth"]
+tags: ["Cube house rules", "Cube draft house rules", "Cube rules primer", "Cube table rules", "Cube draft etiquette", "Cube night rules", "Cube Commonwealth"]
 draft: false
 ---
-Every cube group has house rules. Most of them live in one person's head, which is fine until that person misses a week and the table spends fifteen minutes arguing about whether you can take a basic land from the box during deckbuilding. Cube house rules belong in the primer, written as one sentence of what and one of why, so the question is closed before it is asked.
+Every Cube group has house rules. Most of them live in one person's head, which is fine until that person misses a week and the table spends fifteen minutes arguing about whether you can take a basic land from the box during deckbuilding. Cube house rules belong in the primer, written as one sentence of what and one of why, so the question is closed before it is asked.
 
-This article is about which rules earn a line, how to word them, and the ten that nearly every group ends up writing. It does not cover the rules of Magic, which the Comprehensive Rules already handle, or draft formats, which get their own pages. For a tour of specific rules from cubes we admire, there is a companion piece: [twelve house rules from cubes we admire](/articles/cube-house-rules-examples/).
+This article is about which rules earn a line, how to word them, and the ten that nearly every group ends up writing. It does not cover the rules of Magic, which the Comprehensive Rules already handle, or draft formats, which get their own pages. For a tour of specific rules from Cubes we admire, there is a companion piece: [twelve house rules from Cubes we admire](/articles/cube-house-rules-examples/).
 
 ## What makes a rule worth writing down?
 
 A rule goes in the primer if it changes a decision a drafter makes, or if it has been argued at the table more than once. Everything else is hosting, and hosting does not need a document.
 
-The test is simple. Imagine a competent Magic player who has drafted other cubes but never yours. What will they do wrong, or hesitate over, in their first night? That list is your house rules. It is usually shorter than owners expect: five to ten items. A primer with twenty-five house rules is telling the reader the owner enjoys rules more than drafting.
+The test is simple. Imagine a competent Magic player who has drafted other Cubes but never yours. What will they do wrong, or hesitate over, in their first night? That list is your house rules. It is usually shorter than owners expect: five to ten items. A primer with twenty-five house rules is telling the reader the owner enjoys rules more than drafting.
 
 ## How should each rule be worded?
 
@@ -26,15 +26,15 @@ Avoid passive voice and avoid "should." "Players should try to keep picks under 
 
 ## The ten rules most groups end up needing
 
-These are the ones that come up at nearly every cube table we have sat at. Your wording will differ; the questions will not.
+These are the ones that come up at nearly every Cube table we have sat at. Your wording will differ; the questions will not.
 
-1. **Basic lands.** Provided and unlimited, or drafted, or brought by players. Nearly every cube provides them. Say so, and say whether snow basics or special printings count as basics for your table.
+1. **Basic lands.** Provided and unlimited, or drafted, or brought by players. Nearly every Cube provides them. Say so, and say whether snow basics or special printings count as basics for your table.
 2. **Deck size.** Forty cards minimum is the draft standard, but say it. Some groups allow thirty-six for a faster night; if you do, every drafter must know before pick one.
-3. **Sideboarding.** Whether your drafted pool is your sideboard, whether you may add basics between games, and whether you may rebuild between rounds. The full argument is in [sideboarding in cube](/articles/cube-sideboard-rules/); the primer only needs the answer.
+3. **Sideboarding.** Whether your drafted pool is your sideboard, whether you may add basics between games, and whether you may rebuild between rounds. The full argument is in [sideboarding in Cube](/articles/cube-sideboard-rules/); the primer only needs the answer.
 4. **Pick timing.** Whether there is a timer, how long, and who calls it. "No timer, but the host may start one if a pack takes more than two minutes" is a common and honest version.
-5. **Table talk during the draft.** Silent, open, or somewhere between. Most cubes ban talking about picks and allow everything else. Say which.
+5. **Table talk during the draft.** Silent, open, or somewhere between. Most Cubes ban talking about picks and allow everything else. Say which.
 6. **Looking at picks.** Whether you may review your pile mid-pack. Standard draft rules allow it between picks; some groups restrict it to keep pace. Say which.
-7. **Duplicates and proxies.** Whether the cube contains proxies, how they are marked, and whether any card is a duplicate on purpose. If you run a duplicate voucher, link to how it works.
+7. **Duplicates and proxies.** Whether the Cube contains proxies, how they are marked, and whether any card is a duplicate on purpose. If you run a duplicate voucher, link to how it works.
 8. **Rounds and match format.** How many rounds, best-of-one or best-of-three, time per round, and what happens to a game in progress when time is called.
 9. **Card handling.** Sleeves stay on, no food on the table, damaged cards reported to the host. This one feels petty until a foil gets bent.
 10. **Who wins the night.** Whether records are tracked, whether there is a prize, and what the prize is. "Nothing, we play for the pairing" is a fine answer; so is "the traveling trophy of no value."
@@ -47,7 +47,7 @@ Most groups add two or three of their own on top. The rest of the list is rarely
 
 Three kinds.
 
-**Rules of Magic.** If a card in your cube has an interaction people get wrong, that is one FAQ line, not a house rule. Do not reprint the layer system.
+**Rules of Magic.** If a card in your Cube has an interaction people get wrong, that is one FAQ line, not a house rule. Do not reprint the layer system.
 
 **Hosting logistics.** Who brings the playmats, when the venue closes, how to find parking. These belong in the weekly post, where they can change, not the primer, where they go stale.
 
@@ -59,11 +59,11 @@ Write down the current rule, note that it is under discussion, and set a date to
 
 When the decision is made, change the rule, log it in the changelog with the reason, and move on. Groups that cannot close a rules question usually have a host who does not want to be the one to close it. The primer is the host's tool for doing that without it being personal.
 
-## How do house rules differ for new-player nights and themed cubes?
+## How do house rules differ for new-player nights and themed Cubes?
 
 For a new-player night, add two rules and remove the timer. The two: a regular sits with each first-timer during deckbuilding, and takebacks are allowed in game one of each match. Say both in the primer so the regulars know in advance that the night will run differently.
 
-For a themed or restricted cube, the restriction itself is the first house rule and the most important. A Pauper cube's "every card has been printed at common" or a set cube's "only cards from these three sets" shapes every draft decision and belongs at the top of the list, with the why. The themed-cube primer article in this series goes further on that.
+For a themed or restricted Cube, the restriction itself is the first house rule and the most important. A Pauper Cube's "every card has been printed at common" or a set Cube's "only cards from these three sets" shapes every draft decision and belongs at the top of the list, with the why. The themed-cube primer article in this series goes further on that.
 
 ## A table for the three rules that get argued most
 
@@ -77,11 +77,11 @@ Neither version is the right one. What matters is that it is written.
 
 ## FAQ
 
-### How many house rules should a cube primer have?
+### How many house rules should a Cube primer have?
 
 Five to ten, as a house guideline. Each should change a decision a drafter makes or settle a question the table has argued more than once.
 
-### Do cube house rules override the rules of Magic?
+### Do Cube house rules override the rules of Magic?
 
 Only where they explicitly say so, such as allowing a thirty-six-card deck or a takeback. Everything else follows the normal rules, and the primer should say that in one line.
 
@@ -97,4 +97,4 @@ In the house rules section of the primer, one or two sentences each, with a link
 
 The best house-rules sections are short, each line has a reason, and nobody at the table has read them in months because nobody has needed to. That is the goal. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for the rest of this series on cube primers. If you are near Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.
+Subscribe to The Ludarium newsletter for the rest of this series on Cube primers. If you are near Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

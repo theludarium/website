@@ -3,7 +3,7 @@ title: "Vintage Cube Changes, October 2026: All 35 Swaps"
 description: "The October 7, 2026 Vintage Cube changes explained: 35 swaps, madness out, landfall and Bomberman in, and a red prowess package. Every card, with reasons."
 pubDate: 2026-10-21
 category: Magic & Cube
-tags: ["Vintage Cube changes", "Reality Fracture Vintage Cube", "Vintage Cube October 2026", "Auriok Salvagers cube", "Vintage Cube changelist", "MTGO cube update", "Cube Commonwealth"]
+tags: ["Vintage Cube changes", "Reality Fracture Vintage Cube", "Vintage Cube October 2026", "Auriok Salvagers Cube", "Vintage Cube changelist", "MTGO Cube update", "Cube Commonwealth"]
 draft: false
 ---
 The most recent Vintage Cube changes went live on Magic Online on October 7, 2026, a week after Reality Fracture launched on MTGO. The update swaps 35 cards: the madness package leaves, landfall returns with real support, two infinite-mana combos come in, and red gets a prowess and spellslinger push. The curator's article is [Magic Online Vintage Cube | Reality Fracture Update](https://www.mtgo.com/news/fra-vintage-cube-update), posted October 2, 2026, and the full list is at [mtgo.com/vintage-cube-cardlist](https://www.mtgo.com/vintage-cube-cardlist).
@@ -12,9 +12,9 @@ This piece walks through the four themes and every swap. Dates and card names ar
 
 ## What are the four themes of the October 2026 update?
 
-**Ending the Madness.** Madness ran as a supported archetype from the December 2025 Avatar update until this one. The October post says niche strategies deserve space but the cube needs shake-ups to keep novelty real, so madness is rested "for now," with the curator expecting it back eventually. Blazing Rootwalla and Basking Rootwalla had already left in August.
+**Ending the Madness.** Madness ran as a supported archetype from the December 2025 Avatar update until this one. The October post says niche strategies deserve space but the Cube needs shake-ups to keep novelty real, so madness is rested "for now," with the curator expecting it back eventually. Blazing Rootwalla and Basking Rootwalla had already left in August.
 
-**Making Landfall.** The post calls landfall a classic, nearly forgotten cube archetype, revived by Mole Man, Moloid Master (added July 2026). Quirion Ranger keeps triggers going when Moxen replace lands. Carnivorous Cultivator plus a fetch land gives a steady stream of lands, and with Strip Mine can lock an opponent out. Avatar of Burgeoning Echoes and Escape to the Wilds keep cards flowing.
+**Making Landfall.** The post calls landfall a classic, nearly forgotten Cube archetype, revived by Mole Man, Moloid Master (added July 2026). Quirion Ranger keeps triggers going when Moxen replace lands. Carnivorous Cultivator plus a fetch land gives a steady stream of lands, and with Strip Mine can lock an opponent out. Avatar of Burgeoning Echoes and Escape to the Wilds keep cards flowing.
 
 **Devotion to Combo.** The headline is Auriok Salvagers plus Lion's Eye Diamond or Black Lotus, the "Bomberman" combo, with Pyrite Spellbomb as the finisher. The post says the loops were too slow to finish on MTGO, which kept the combo out until now, and that the client's recently introduced automation tools now make it feasible. Those tools were announced in [Combo Play Improvements, August 5, 2026](https://www.mtgo.com/news/combo-play-improvements); the August 4 weekly post quoted Bomberman at six clicks per loop. Devoted Druid plus Swift Reconfiguration returns as a second infinite-mana line. Enlightened Tutor returns to find Painter's Servant and Grindstone, which came in during August. Selesnya gets Brightglass Gearhulk, which can tutor Zuran Orb, Fastbond, LED, Grindstone, or Swift Reconfiguration, and Marwyn, the Preserver plus Six for infinite mana with LED or Lotus.
 
@@ -69,19 +69,19 @@ The post groups rows by color. Pairs in the same row are not necessarily direct 
 Our read, not the curator's:
 
 - **Bazaar of Baghdad and Survival of the Fittest** leaving together is the clearest signal. Both are graveyard engines, and the August post had already said the madness and self-mill package "does currently take up quite a bit of space." With the Rootwallas, Vengevine, and Anje's Ravager gone in August and madness closed in October, there was nothing left for them to do.
-- **Time Warp** out is a power-level statement. Blue extra-turn cards used to be automatic in a powered cube. The post calls it "past its prime," which matches a cube where games are decided by turn four.
+- **Time Warp** out is a power-level statement. Blue extra-turn cards used to be automatic in a powered Cube. The post calls it "past its prime," which matches a Cube where games are decided by turn four.
 - **Channel** has now left twice in fourteen months. It went out in August 2025 for a frustrating play pattern, came back in October 2025 to pair with The Endstone, and leaves again now. Expect it to stay out.
-- **Eternal Witness** out with Emeritus of Abundance (added May 2026) named as its replacement is a small example of a big trend: an old staple replaced by a newer card the curators called "new and improved." Our piece on [power creep and cube](/articles/power-creep-and-cube/) covers that pattern.
+- **Eternal Witness** out with Emeritus of Abundance (added May 2026) named as its replacement is a small example of a big trend: an old staple replaced by a newer card the curators called "new and improved." Our piece on [power creep and Cube](/articles/power-creep-and-cube/) covers that pattern.
 
 ## Which additions matter most?
 
-- **Auriok Salvagers plus Pyrite Spellbomb** is the first time the regular Vintage Cube has supported Bomberman; it had only appeared in the one-week No Holds Barred version. The curator's stated reason is the client, not the cards. That is worth noticing: a card's cube-worthiness on MTGO depends on clicks, and paper owners do not share the constraint.
+- **Auriok Salvagers plus Pyrite Spellbomb** is the first time the regular Vintage Cube has supported Bomberman; it had only appeared in the one-week No Holds Barred version. The curator's stated reason is the client, not the cards. That is worth noticing: a card's Cube-worthiness on MTGO depends on clicks, and paper owners do not share the constraint.
 - **The prowess package** is ten cards: nine red plus Mutagenic Growth. Monastery Swiftspear, Soul-Scar Mage, Slickshot Show-Off, Stingcaster Mage, Pompous Battlemage, Lava Dart, Mutagenic Growth, Flashback, Gandalf, and Dead // Gone are a full lane, not a hint. Note that Slickshot Show-Off left in December 2025 and Mutagenic Growth in January 2026, and both return now, so the team is confident about the pieces and was only waiting on a home.
 - **Devoted Druid plus Swift Reconfiguration** needs two cards and three mana and wins the game, which is as cheap as combo gets. Watch whether it survives the next update.
 
 ## What should a paper owner do with this list?
 
-Nothing yet. The league runs until November 4, and MTGO has not announced the next update. The next post will show whether landfall was drafted, whether Bomberman was played or just admired, and whether red prowess took games from Boros. We cover the copy-or-skip question in [which Vintage Cube changes belong in your paper cube](/articles/vintage-cube-changes-for-paper/).
+Nothing yet. The league runs until November 4, and MTGO has not announced the next update. The next post will show whether landfall was drafted, whether Bomberman was played or just admired, and whether red prowess took games from Boros. We cover the copy-or-skip question in [which Vintage Cube changes belong in your paper Cube](/articles/vintage-cube-changes-for-paper/).
 
 ## FAQ
 
@@ -103,4 +103,4 @@ The post credits MTGO's new combo automation, announced August 5, 2026, for maki
 
 ## Stay on top of the next one
 
-The game is the reason. The people are the point. Subscribe to The Ludarium newsletter for new cube pieces, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, sets its first night as part of The Ludarium.
+The game is the reason. The people are the point. Subscribe to The Ludarium newsletter for new Cube pieces, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis Cube group, sets its first night as part of The Ludarium.

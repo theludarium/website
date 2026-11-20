@@ -3,10 +3,10 @@ title: "Cube Building Mistakes: Ten Every First Cube Makes"
 description: "Cube building mistakes nearly every first list makes, from top-heavy curves to pet cards. Ten errors, the fix for each, and how to spot them at the table."
 pubDate: 2026-10-21
 category: Magic & Cube
-tags: ["cube building mistakes", "first cube mistakes", "cube design errors", "why my cube drafts badly", "cube pitfalls", "fixing a cube", "Cube Commonwealth"]
+tags: ["Cube building mistakes", "first Cube mistakes", "Cube design errors", "why my Cube drafts badly", "Cube pitfalls", "fixing a Cube", "Cube Commonwealth"]
 draft: false
 ---
-The cube building mistakes in this list are not embarrassing. They are the default. Most first cubes make several of the ten, and plenty make more than half. They happen because the instincts that make someone a good deckbuilder, favoring powerful cards and personal favorites, are the wrong instincts for building a draft environment.
+The Cube building mistakes in this list are not embarrassing. They are the default. Most first Cubes make several of the ten, and plenty make more than half. They happen because the instincts that make someone a good deckbuilder, favoring powerful cards and personal favorites, are the wrong instincts for building a draft environment.
 
 Each entry below names the mistake, how it shows up at the table, and the fix. None of the fixes requires spending money.
 
@@ -16,7 +16,7 @@ Each entry below names the mistake, how it shows up at the table, and the fix. N
 
 **Why it happens:** exciting cards are expensive cards. Rares skew toward four mana and up, and a list built from "cards I want to see" drifts upward.
 
-**The fix:** cap each color at three or four cards costing six or more, and fill 45 percent of each color at two mana or less. The target counts are in [the cube mana curve](/articles/cube-mana-curve/).
+**The fix:** cap each color at three or four cards costing six or more, and fill 45 percent of each color at two mana or less. The target counts are in [the Cube mana curve](/articles/cube-mana-curve/).
 
 ## 2. There is not enough fixing
 
@@ -24,7 +24,7 @@ Each entry below names the mistake, how it shows up at the table, and the fix. N
 
 **Why it happens:** lands are boring to buy and dual lands feel like a luxury.
 
-**The fix:** at least four fixing lands per color pair in a 360 cube, plus eight to ten mana rocks. Tapped duals are fine for a first cube; untapped ones are the first upgrade. No other change improves a first cube as much.
+**The fix:** at least four fixing lands per color pair in a 360 Cube, plus eight to ten mana rocks. Tapped duals are fine for a first Cube; untapped ones are the first upgrade. No other change improves a first Cube as much.
 
 ## 3. Aggro has nothing to draft
 
@@ -32,7 +32,7 @@ Each entry below names the mistake, how it shows up at the table, and the fix. N
 
 **Why it happens:** one-drops look like bad cards on a spreadsheet, and the owner cuts them first when space is tight.
 
-**The fix:** white and red each need ten or more one- and two-mana creatures that attack well, plus a few burn spells and a piece of equipment. The reasons are in [why aggro dies in most cubes](/articles/aggro-in-cube/).
+**The fix:** white and red each need ten or more one- and two-mana creatures that attack well, plus a few burn spells and a piece of equipment. The reasons are in [why aggro dies in most Cubes](/articles/aggro-in-cube/).
 
 ## 4. Removal is all the same kind
 
@@ -46,7 +46,7 @@ Each entry below names the mistake, how it shows up at the table, and the fix. N
 
 **How it shows up:** cards that wheel every draft and never make a main deck, and an owner who defends them.
 
-**Why it happens:** the cube is personal, and a card from your first deck feels like it belongs.
+**Why it happens:** the Cube is personal, and a card from your first deck feels like it belongs.
 
 **The fix:** allow yourself five pet slots, label them in the primer as pet slots, and hold everything else to the standard of "would a drafter be happy to pick this at pick six." When a pet card wheels three drafts in a row, it goes back in the binder, pet slot or not.
 
@@ -54,7 +54,7 @@ Each entry below names the mistake, how it shows up at the table, and the fix. N
 
 ## 6. The archetypes exist only in the owner's head
 
-**How it shows up:** drafters cannot tell what the cube wants them to do, stay open too long, and build generic good-stuff piles. The clever graveyard deck you designed never gets drafted.
+**How it shows up:** drafters cannot tell what the Cube wants them to do, stay open too long, and build generic good-stuff piles. The clever graveyard deck you designed never gets drafted.
 
 **Why it happens:** the owner knows the plan and assumes it is visible.
 
@@ -66,11 +66,11 @@ Each entry below names the mistake, how it shows up at the table, and the fix. N
 
 **Why it happens:** nobody is neutral. A blue player builds a deeper blue section without noticing.
 
-**The fix:** count, do not feel. Track color pairs drafted and wins by color over five drafts. Ask a friend who prefers a different color to review the list. The checks are in color balance in a cube.
+**The fix:** count, do not feel. Track color pairs drafted and wins by color over five drafts. Ask a friend who prefers a different color to review the list. The checks are in color balance in a Cube.
 
-## 8. The cube changes too much after each draft
+## 8. The Cube changes too much after each draft
 
-**How it shows up:** forty-card swaps after the first night, a different cube every week, and no way to tell whether a change helped.
+**How it shows up:** forty-card swaps after the first night, a different Cube every week, and no way to tell whether a change helped.
 
 **Why it happens:** feedback feels urgent, and the loudest drafter's opinion is fresh.
 
@@ -78,19 +78,19 @@ Each entry below names the mistake, how it shows up at the table, and the fix. N
 
 ## 9. The power level is uneven
 
-**How it shows up:** a peasant cube with eight rares that win the game alone, or a rare cube with twenty commons that are strictly worse than everything around them. Drafts feel like lotteries for the top cards.
+**How it shows up:** a peasant Cube with eight rares that win the game alone, or a rare Cube with twenty commons that are strictly worse than everything around them. Drafts feel like lotteries for the top cards.
 
-**Why it happens:** the owner adds a few favorites from above the cube's band and a few fillers from below it.
+**Why it happens:** the owner adds a few favorites from above the Cube's band and a few fillers from below it.
 
 **The fix:** decide the band and stay inside it. A card above the band gets cut even if it is fun; a card below it gets cut even if it fills a slot. Flat power levels make picks interesting, because the choice is about role and archetype rather than raw strength.
 
 ## 10. There is no plan for the first draft
 
-**How it shows up:** the owner drafts, plays, has a good time, and learns nothing. Three months later the cube is unchanged and attendance has dropped.
+**How it shows up:** the owner drafts, plays, has a good time, and learns nothing. Three months later the Cube is unchanged and attendance has dropped.
 
-**Why it happens:** a cube feels finished the day the last card is sleeved.
+**Why it happens:** a Cube feels finished the day the last card is sleeved.
 
-**The fix:** treat the first several drafts as tests. Sit out if you can, watch picks and deckbuilding, tally what decided each game, and write a short change list the next morning. The checklist is in your cube's first draft.
+**The fix:** treat the first several drafts as tests. Sit out if you can, watch picks and deckbuilding, tally what decided each game, and write a short change list the next morning. The checklist is in your Cube's first draft.
 
 ## Which mistakes matter most?
 
@@ -103,11 +103,11 @@ Each entry below names the mistake, how it shows up at the table, and the fix. N
 | Uneven power | Turns drafts into lotteries | A hard look at the list |
 | The other five | Slow erosion | Habits, not swaps |
 
-If you fix only the first three, your cube is already better than most first cubes.
+If you fix only the first three, your Cube is already better than most first Cubes.
 
 ## FAQ
 
-### What is the most common mistake in a first cube?
+### What is the most common mistake in a first Cube?
 
 Too little mana fixing. It shows up as long deckbuilding, awkward splashes, and games lost to color screw, and it hides every other problem until it is fixed.
 
@@ -115,16 +115,16 @@ Too little mana fixing. It shows up as long deckbuilding, awkward splashes, and 
 
 Five to ten, with a written reason for each. Structural problems like fixing get fixed immediately; individual card complaints go on a watch list until they repeat.
 
-### Should a cube have pet cards?
+### Should a Cube have pet cards?
 
-A few, labeled as such. Five pet slots in a 360-card cube is reasonable. When a pet card wheels three drafts in a row, it comes out anyway.
+A few, labeled as such. Five pet slots in a 360-card Cube is reasonable. When a pet card wheels three drafts in a row, it comes out anyway.
 
 ### Why does nobody draft the archetype I designed?
 
-Usually because the cube does not signal it. Each color pair needs two or three gold cards that state the plan, enough mono-colored support to make it draftable, and a sentence in the primer.
+Usually because the Cube does not signal it. Each color pair needs two or three gold cards that state the plan, enough mono-colored support to make it draftable, and a sentence in the primer.
 
 ## Make the default mistakes faster
 
 Every owner makes these. The good ones make them in the first month, count the results, and fix them. The game is the reason. The people are the point.
 
-The Ludarium newsletter sends new cube pieces. Subscribe, and if you are in Indianapolis, you will hear first when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, sets its first night as part of The Ludarium.
+The Ludarium newsletter sends new Cube pieces. Subscribe, and if you are in Indianapolis, you will hear first when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Cube group, sets its first night as part of The Ludarium.

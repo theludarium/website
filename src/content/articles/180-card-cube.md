@@ -1,26 +1,26 @@
 ---
 title: "180 Card Cube: Drafting With Four Players"
-description: "A 180 card cube is the right size for a four-player table. Here is the structure, the counts per color, which formats it supports, and what to leave out."
+description: "A 180 card Cube is the right size for a four-player table. Here is the structure, the counts per color, which formats it supports, and what to leave out."
 pubDate: 2026-10-18
 category: Magic & Cube
-tags: ["180 card cube", "mini cube", "four player cube", "small cube", "cube for 4 players", "180 cube list", "Cube Commonwealth"]
+tags: ["180 card Cube", "mini Cube", "four player Cube", "small Cube", "Cube for 4 players", "180 Cube list", "Cube Commonwealth"]
 draft: true
 ---
-A 180 card cube is a full draft for four people with nothing left in the box: four drafters, three packs of fifteen, 180 cards. It is the right size for the most common Magic table in the world, which is not eight friends at a store but four friends at a kitchen table. It is also the fastest cube to build, the cheapest to buy, the easiest to carry, and the one most likely to get played on a weeknight.
+A 180 card Cube is a full draft for four people with nothing left in the box: four drafters, three packs of fifteen, 180 cards. It is the right size for the most common Magic table in the world, which is not eight friends at a store but four friends at a kitchen table. It is also the fastest Cube to build, the cheapest to buy, the easiest to carry, and the one most likely to get played on a weeknight.
 
 This is how to build one that drafts well rather than one that feels like a cut-down 360.
 
-## Why 180 and not just "a smaller cube"?
+## Why 180 and not just "a smaller Cube"?
 
-The number matters for the same reason 360 does. Four players times 45 picks is 180, so every card is opened every time. The cube is fully visible to the drafters, which means every card you include is a promise: it will be in the draft tonight.
+The number matters for the same reason 360 does. Four players times 45 picks is 180, so every card is opened every time. The Cube is fully visible to the drafters, which means every card you include is a promise: it will be in the draft tonight.
 
-That promise changes design. In a 540 cube a marginal card is a one-in-three surprise. In a 180 it is a guaranteed pick someone has to take or pass. There is no room for a card that is "fine when it shows up." Everything shows up.
+That promise changes design. In a 540 Cube a marginal card is a one-in-three surprise. In a 180 it is a guaranteed pick someone has to take or pass. There is no room for a card that is "fine when it shows up." Everything shows up.
 
 Other small sizes exist. Some people run 160 for four players with twelve-card packs, or 225 for five. We stick to 180 because fifteen-card packs keep the draft feeling like a draft, and because 180 divides cleanly into a structure you can hold in your head.
 
-## What is the structure of a 180-card cube?
+## What is the structure of a 180-card Cube?
 
-Here is a house template we use. It is a guideline, not a standard, and it assumes a two-color cube with light fixing. Adjust it if your cube has a different shape.
+Here is a house template we use. It is a guideline, not a standard, and it assumes a two-color Cube with light fixing. Adjust it if your Cube has a different shape.
 
 | Section | Count | Notes |
 |---|---|---|
@@ -46,7 +46,7 @@ In an eight-player draft a pack goes around once, more or less. In a four-player
 
 **Decks are stronger.** Each drafter sees 180 cards and picks 45. Compared with an eight-player draft where you see 360 but much of it is already picked over, four-player drafters end up with more of what they want. Expect more coherent decks and tighter curves.
 
-**Cutting a color works.** With only three opponents, one drafter can effectively cut a color from the player downstream. Experienced groups treat this as a feature. New groups sometimes find it harsh. If you want to soften it, switch to Rochester or grid draft, both covered in our guide to [two-player and small-pod cube formats](/articles/two-player-cube-formats/).
+**Cutting a color works.** With only three opponents, one drafter can effectively cut a color from the player downstream. Experienced groups treat this as a feature. New groups sometimes find it harsh. If you want to soften it, switch to Rochester or grid draft, both covered in our guide to [two-player and small-pod Cube formats](/articles/two-player-cube-formats/).
 
 **Hate drafting is cheap.** Late in each pack you will see cards nobody at the table can use. Taking the one card that would help your left-hand neighbor costs you nothing. Expect it.
 
@@ -69,7 +69,7 @@ A shape that has worked for us:
 - **Blue-red spells** (prowess, cheap cantrips, a few burn spells)
 - **Mono-green ramp and mono-red aggro** as fallbacks that need no gold
 
-The other five color pairs are drafted, just not supported. A blue-green deck in this cube is "the good blue cards and the good green cards," and that is fine. Make each lane's two gold cards obvious signposts so drafters can find it by pick three.
+The other five color pairs are drafted, just not supported. A blue-green deck in this Cube is "the good blue cards and the good green cards," and that is fine. Make each lane's two gold cards obvious signposts so drafters can find it by pick three.
 
 ## What should you leave out of a 180?
 
@@ -77,7 +77,7 @@ The cuts are what make the size work. Each of these is a card type that earns it
 
 **Narrow build-arounds.** A card that needs five specific other cards to work needs those five to be in the draft every time, and in a 180 you cannot afford to give five slots to one card's support.
 
-**The third copy of an effect.** Three Wrath of God variants is fine in a 540. In a 180, one board wipe in white is plenty, maybe two in the whole cube.
+**The third copy of an effect.** Three Wrath of God variants is fine in a 540. In a 180, one board wipe in white is plenty, maybe two in the whole Cube.
 
 **Mana sinks and utility lands beyond a handful.** Decks are 40 cards and the drafts are short. Keep the handful that do real work (a creature land or two, a Rogue's Passage) and cut the rest.
 
@@ -89,37 +89,37 @@ The cuts are what make the size work. Each of these is a card type that earns it
 
 The standard four-player draft is the default and it is good. Three others are worth trying with the same cards.
 
-1. **Two pods of two (Winston or grid).** Split the cube in half, 90 cards each, and run two two-player drafts side by side. Winners play winners.
+1. **Two pods of two (Winston or grid).** Split the Cube in half, 90 cards each, and run two two-player drafts side by side. Winners play winners.
 2. **Rochester with four.** All fifteen cards face up, snake pick around the table. Slow, social, full information. Good for teaching.
-3. **Sealed.** Each player gets 45 random cards from the 180 and builds. Twenty minutes to a game. Surprisingly fair in a tight cube because the card quality is flat.
+3. **Sealed.** Each player gets 45 random cards from the 180 and builds. Twenty minutes to a game. Surprisingly fair in a tight Cube because the card quality is flat.
 4. **Three-player with twelve-card packs.** 180 ÷ 3 = 60 cards each, so three packs of fifteen plus a fourth pack is awkward. Run three packs of twelve and leave 72 in the box, or five packs of twelve and open everything.
 
-A 180 is also the best size for a cube you keep in the car. Ours lives in a single 200-count box with 30 of each basic in a second box. <!-- EDITOR: confirm --> It has been to breweries, a hospital waiting room, and a lake house without a table.
+A 180 is also the best size for a Cube you keep in the car. Ours lives in a single 200-count box with 30 of each basic in a second box. <!-- EDITOR: confirm --> It has been to breweries, a hospital waiting room, and a lake house without a table.
 
 ## When to grow out of it
 
-The signal is simple: the four of you have drafted it ten or fifteen times and the picks are automatic. That is not failure. It means the cube did its job and the group learned it. At that point, either rotate 40 to 60 cards to refresh the lanes, or grow toward 360 and invite four more people. Our guide to [expanding a cube](/articles/expanding-a-cube/) covers how to add without turning a sharp 180 into a vague 270.
+The signal is simple: the four of you have drafted it ten or fifteen times and the picks are automatic. That is not failure. It means the Cube did its job and the group learned it. At that point, either rotate 40 to 60 cards to refresh the lanes, or grow toward 360 and invite four more people. Our guide to [expanding a Cube](/articles/expanding-a-cube/) covers how to add without turning a sharp 180 into a vague 270.
 
 The game is the reason. The people are the point. Four is enough people.
 
 ## FAQ
 
-### How many cards do you need for a 4-player cube?
+### How many cards do you need for a 4-player Cube?
 
 180 cards: four players, three packs of fifteen each. You can run as few as 160 with twelve-card packs, but 180 keeps the standard draft shape.
 
-### Can you draft a cube with 4 players?
+### Can you draft a Cube with 4 players?
 
 Yes. Four-player drafts are common and produce strong, coherent decks because each pack returns to every drafter three times. Signals are easier to read than in an eight-player pod.
 
-### How many colors should a small cube support?
+### How many colors should a small Cube support?
 
-All five colors, but fewer archetypes. A 180-card cube plays best with five or six supported two-color lanes rather than all ten, with the remaining pairs drafted as good-stuff decks.
+All five colors, but fewer archetypes. A 180-card Cube plays best with five or six supported two-color lanes rather than all ten, with the remaining pairs drafted as good-stuff decks.
 
-### Is a 180-card cube good for beginners?
+### Is a 180-card Cube good for beginners?
 
 Very. It is cheap, builds in a weekend, every card is seen every draft, and there are few enough cards that a new player can learn the whole list in a handful of sessions.
 
 ## One more thing
 
-The newsletter is where we post the current Commonwealth 180 list and the changes we make to it after each weeknight draft. Subscribe for new cube pieces. And if you are near Indianapolis and want to try a four-player draft before building your own, [Cube Commonwealth](/articles/cube-draft-indianapolis/) runs small tables as well as big ones.
+The newsletter is where we post the current Commonwealth 180 list and the changes we make to it after each weeknight draft. Subscribe for new Cube pieces. And if you are near Indianapolis and want to try a four-player draft before building your own, [Cube Commonwealth](/articles/cube-draft-indianapolis/) runs small tables as well as big ones.

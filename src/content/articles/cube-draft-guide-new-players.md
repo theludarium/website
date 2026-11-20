@@ -1,14 +1,14 @@
 ---
 title: "Cube Draft Guide: A One-Page Guide for First-Timers"
-description: "A one-page cube draft guide to hand a first-timer: how a draft works, what to take, how many lands to play, and the five mistakes every new drafter makes once."
+description: "A one-page Cube draft guide to hand a first-timer: how a draft works, what to take, how many lands to play, and the five mistakes every new drafter makes once."
 pubDate: 2026-10-19
 category: Magic & Cube
-tags: ["cube draft guide", "cube draft for beginners", "first cube draft tips", "how to draft a cube", "cube draft new players", "cube deckbuilding basics", "Cube Commonwealth"]
+tags: ["Cube draft guide", "Cube draft for beginners", "first Cube draft tips", "how to draft a Cube", "Cube draft new players", "Cube deckbuilding basics", "Cube Commonwealth"]
 draft: false
 ---
-Every cube primer needs a cube draft guide for the person who has never drafted. Not a strategy essay; a single page they can read in the car, with the five things that get a first-timer to a playable deck and a good night. The regulars will skip it. The new drafter will read it three times.
+Every Cube primer needs a Cube draft guide for the person who has never drafted. Not a strategy essay; a single page they can read in the car, with the five things that get a first-timer to a playable deck and a good night. The regulars will skip it. The new drafter will read it three times.
 
-This article gives you the page, section by section, with the reasoning behind each line so you can adapt it to your cube. The version at the end is ready to copy. It is written for a standard eight-player booster draft of three fifteen-card packs; adjust the numbers if your table does something else. Deeper strategy, for the drafter who wants more, is in [cube draft strategy](/articles/cube-draft-strategy/).
+This article gives you the page, section by section, with the reasoning behind each line so you can adapt it to your Cube. The version at the end is ready to copy. It is written for a standard eight-player booster draft of three fifteen-card packs; adjust the numbers if your table does something else. Deeper strategy, for the drafter who wants more, is in [Cube draft strategy](/articles/cube-draft-strategy/).
 
 ## What does a first-timer need to know before pick one?
 
@@ -39,7 +39,7 @@ The number that matters most on the page is seventeen. Seventeen lands, twenty-t
 
 The building method that fits on one line: lay out all the cards in your two colors sorted by mana cost, cut from the top until twenty-three remain, and add seventeen basic lands split by how many cards of each color you have. If you have no one- or two-mana cards, go back to your pile and find some, even if they are weak. A deck with no early plays does not get to cast its late ones.
 
-For the cube's own archetypes, the guide should name three that are easy for a first-timer and say so: usually a two-color aggro deck, a two-color midrange deck with removal, and whatever the cube's most forgiving control lane is. Combo and graveyard decks are for the third draft. The primer's archetype section describes all the lanes; the first-timer page should just point at the easy three.
+For the Cube's own archetypes, the guide should name three that are easy for a first-timer and say so: usually a two-color aggro deck, a two-color midrange deck with removal, and whatever the Cube's most forgiving control lane is. Combo and graveyard decks are for the third draft. The primer's archetype section describes all the lanes; the first-timer page should just point at the easy three.
 
 *If this is useful, the newsletter sends more like it.*
 
@@ -57,13 +57,13 @@ List them on the page. Naming them does not prevent them, but it shortens the ti
 
 Two lines on etiquette, because a first-timer is more worried about looking foolish than about losing.
 
-Nobody minds a slow pick in your first draft. Nobody minds a rules question; ask the regular next to you or the host. Everyone at the table was a first-timer once at some cube, and most of them remember it. If your table seats first-timers next to a regular during deckbuilding, say so on the page. Our own new-player night does, and the structure is in [learn Magic with a cube](/articles/cube-for-new-magic-players/).
+Nobody minds a slow pick in your first draft. Nobody minds a rules question; ask the regular next to you or the host. Everyone at the table was a first-timer once at some Cube, and most of them remember it. If your table seats first-timers next to a regular during deckbuilding, say so on the page. Our own new-player night does, and the structure is in [learn Magic with a Cube](/articles/cube-for-new-magic-players/).
 
 ## The one-page version
 
-Here is the page, ready to adapt. Replace the bracketed parts with your cube's details.
+Here is the page, ready to adapt. Replace the bracketed parts with your Cube's details.
 
-> **Drafting [cube name] for the first time**
+> **Drafting [Cube name] for the first time**
 >
 > **How it works.** Open a pack of 15, take one card, pass the rest. Three packs: pass left, then right, then left. You end with 45 cards. Build a 40-card deck: 17 basic lands (provided) and 23 spells. Then three rounds of games.
 >
@@ -81,23 +81,23 @@ Here is the page, ready to adapt. Replace the bracketed parts with your cube's d
 >
 > Full primer and card list: [link]
 
-It is about two hundred words. It fits on one side of a sheet with room for the cube's name in large type at the top.
+It is about two hundred words. It fits on one side of a sheet with room for the Cube's name in large type at the top.
 
-## How does the page change for different cubes?
+## How does the page change for different Cubes?
 
-A Pauper cube's page should say that every card has been printed at common, so there are no bombs to take over removal; the pick rule becomes "removal, then cheap creatures, then everything else." A powered cube's page should name the handful of cards a first-timer should always take and should warn that three-color decks are more viable but still not for a first draft. A themed cube's page should put the theme in the first line, because it changes what "a card that wins by itself" means.
+A Pauper Cube's page should say that every card has been printed at common, so there are no bombs to take over removal; the pick rule becomes "removal, then cheap creatures, then everything else." A powered Cube's page should name the handful of cards a first-timer should always take and should warn that three-color decks are more viable but still not for a first draft. A themed Cube's page should put the theme in the first line, because it changes what "a card that wins by itself" means.
 
 ## FAQ
 
-### How many lands should a first-time cube drafter play?
+### How many lands should a first-time Cube drafter play?
 
 Seventeen in a forty-card deck. Sixteen only if the deck's most expensive card costs three.
 
-### How many colors should a beginner draft in cube?
+### How many colors should a beginner draft in Cube?
 
 Two. A main color and a support color. Three-color decks need fixing and experience a first-timer does not have yet.
 
-### What should a beginner take first in a cube draft?
+### What should a beginner take first in a Cube draft?
 
 For the first five or six picks, the card most likely to win a game by itself, usually a cheap removal spell or a strong creature. After that, the best card in your two colors.
 
@@ -109,4 +109,4 @@ One page, about two hundred words. Anything longer will not be read in the car o
 
 A first-timer who follows this page will build a real deck, win a game, and come back. That is all the page is for, and it is worth more than any other page in the primer. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for the rest of this series on cube primers. If you have never drafted and you are near Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium, and first-timers will be welcome. Subscribers hear first when the first night is set.
+Subscribe to The Ludarium newsletter for the rest of this series on Cube primers. If you have never drafted and you are near Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Cube group, is relaunching as part of The Ludarium, and first-timers will be welcome. Subscribers hear first when the first night is set.

@@ -1,66 +1,66 @@
 ---
 title: "What Is Your Cube For? The Question Before Every Card"
-description: "Cube design philosophy starts with one question: what is this cube for? How purpose decides power level, archetypes, and which cards get cut from the list."
+description: "Cube design philosophy starts with one question: what is this Cube for? How purpose decides power level, archetypes, and which cards get cut from the list."
 pubDate: 2026-10-21
 category: Magic & Cube
-tags: ["cube design philosophy", "cube design goals", "what makes a good cube", "cube purpose", "cube owner decisions", "how to design a cube", "Cube Commonwealth"]
+tags: ["Cube design philosophy", "Cube design goals", "what makes a good Cube", "Cube purpose", "Cube owner decisions", "how to design a Cube", "Cube Commonwealth"]
 draft: false
 ---
-Every cube design philosophy fits in one sentence, and the sentence is an answer to a question: what is this cube for? Not "what power level" or "which archetypes," those come later. The first question is who sits down to draft it, how often, and what you want them to feel when they shuffle up. Answer that and most card decisions answer themselves. Skip it and you end up with a list of good cards and no idea why Mana Leak beats Counterspell for the slot.
+Every Cube design philosophy fits in one sentence, and the sentence is an answer to a question: what is this Cube for? Not "what power level" or "which archetypes," those come later. The first question is who sits down to draft it, how often, and what you want them to feel when they shuffle up. Answer that and most card decisions answer themselves. Skip it and you end up with a list of good cards and no idea why Mana Leak beats Counterspell for the slot.
 
 This piece is about that first question. It is the one worth asking before any swap, and it is the one most first-time builders never ask out loud.
 
-## Why does a cube need a purpose?
+## Why does a Cube need a purpose?
 
-Because a cube cannot do everything. A 540-card list sounds enormous until you divide it by ten two-color pairs, five colors, a gold section, artifacts, and lands. Each color gets around 60 to 70 cards. Each two-color lane gets maybe 25 cards that are truly for it. There is no room for a cube that supports storm, reanimator, mono-red aggro, five-color control, and tribal elves equally well. Something has to be the priority.
+Because a Cube cannot do everything. A 540-card list sounds enormous until you divide it by ten two-color pairs, five colors, a gold section, artifacts, and lands. Each color gets around 60 to 70 cards. Each two-color lane gets maybe 25 cards that are truly for it. There is no room for a Cube that supports storm, reanimator, mono-red aggro, five-color control, and tribal elves equally well. Something has to be the priority.
 
-The purpose is how you decide what the priority is. Consider three cubes that could each contain Lightning Bolt:
+The purpose is how you decide what the priority is. Consider three Cubes that could each contain Lightning Bolt:
 
-- A cube for eight experienced players who draft every Thursday and want to be tested.
-- A cube for a rotating cast of friends, some of whom last played during Innistrad.
-- A cube for two people who draft Winston on a couch and want long, swingy games.
+- A Cube for eight experienced players who draft every Thursday and want to be tested.
+- A Cube for a rotating cast of friends, some of whom last played during Innistrad.
+- A Cube for two people who draft Winston on a couch and want long, swingy games.
 
-The first cube wants Bolt because it kills Ragavan and finishes planeswalkers. The second wants it because it is simple and famous. The third might not want it at all, because one-mana removal shortens the games the owners came for. Same card, three different reasons, and in one case the reason points to a cut.
+The first Cube wants Bolt because it kills Ragavan and finishes planeswalkers. The second wants it because it is simple and famous. The third might not want it at all, because one-mana removal shortens the games the owners came for. Same card, three different reasons, and in one case the reason points to a cut.
 
 ## What are the common answers?
 
-Most cubes land on one of a handful of purposes. Naming yours helps, even if the name is a little reductive.
+Most Cubes land on one of a handful of purposes. Naming yours helps, even if the name is a little reductive.
 
-**The proving ground.** The cube is a test of skill. Power is high, lanes are sharp, and the best drafter should win most of the time. The MTGO Vintage Cube is the public model: Black Lotus, Sol Ring, Oko, Thief of Crowns, and a storm deck that is real. Cards are chosen because they are strong and because they reward knowing the format.
+**The proving ground.** The Cube is a test of skill. Power is high, lanes are sharp, and the best drafter should win most of the time. The MTGO Vintage Cube is the public model: Black Lotus, Sol Ring, Oko, Thief of Crowns, and a storm deck that is real. Cards are chosen because they are strong and because they reward knowing the format.
 
-**The reunion.** The cube exists to get people in a room. Power level matters less than recognition. Cards like Shivan Dragon, Serra Angel, and Wrath of God are in because the people who show up twice a year will smile when they see them. The purpose is the evening, and the list serves the evening.
+**The reunion.** The Cube exists to get people in a room. Power level matters less than recognition. Cards like Shivan Dragon, Serra Angel, and Wrath of God are in because the people who show up twice a year will smile when they see them. The purpose is the evening, and the list serves the evening.
 
-**The teaching tool.** The cube introduces people to drafting or to Magic. Lanes are obvious, text is short, and nothing does anything a new player cannot read and understand. Pauper cubes often fill this role, and so do set cubes built from a beloved draft format. Our new-player night runs on one.
+**The teaching tool.** The Cube introduces people to drafting or to Magic. Lanes are obvious, text is short, and nothing does anything a new player cannot read and understand. Pauper Cubes often fill this role, and so do set Cubes built from a beloved draft format. Our new-player night runs on one.
 
-**The art project.** The cube says something. A cube of only cards printed before 1998. A cube where every creature is a Human. A cube with no removal at all, to see what happens. The purpose is the idea, and whether it is good Magic is a secondary question the owner has chosen to accept.
+**The art project.** The Cube says something. A Cube of only cards printed before 1998. A Cube where every creature is a Human. A Cube with no removal at all, to see what happens. The purpose is the idea, and whether it is good Magic is a secondary question the owner has chosen to accept.
 
-**The weekly engine.** The cube is the thing a community runs on. It needs to be fair enough that regulars keep coming, fresh enough that they do not get bored, and forgiving enough that a new face can sit down. This is the hardest purpose because it has to balance the other four.
+**The weekly engine.** The Cube is the thing a community runs on. It needs to be fair enough that regulars keep coming, fresh enough that they do not get bored, and forgiving enough that a new face can sit down. This is the hardest purpose because it has to balance the other four.
 
-Most real cubes are two of these. Pick the primary one and let it break ties.
+Most real Cubes are two of these. Pick the primary one and let it break ties.
 
 ## How does the purpose decide power level?
 
-Power level is the loudest decision in cube design, and it is almost never the first one. It falls out of the purpose.
+Power level is the loudest decision in Cube design, and it is almost never the first one. It falls out of the purpose.
 
-If the cube is a proving ground, power should be as high as your group can afford or proxy, because the point is the test. If it is a reunion, power should be wherever the group's memory sits, which for many people is somewhere around 2005 Standard plus a few greatest hits. If it is a teaching tool, power should be low enough that a bad pick is survivable, which usually means no free spells, no fast mana, and few cards that read as "win the game."
+If the Cube is a proving ground, power should be as high as your group can afford or proxy, because the point is the test. If it is a reunion, power should be wherever the group's memory sits, which for many people is somewhere around 2005 Standard plus a few greatest hits. If it is a teaching tool, power should be low enough that a bad pick is survivable, which usually means no free spells, no fast mana, and few cards that read as "win the game."
 
 The mistake is choosing power first. A builder decides on "unpowered Legacy" because that is what the famous lists are, then wonders why the cousins who come twice a year keep getting run over by a turn-two Ancient Tomb into Wurmcoil Engine. The power was never the problem. The power was answering a question nobody asked.
 
-We go deeper on the bands themselves in [cube card selection](/articles/cube-card-selection/), including a scoring method that only works once the purpose is set.
+We go deeper on the bands themselves in [Cube card selection](/articles/cube-card-selection/), including a scoring method that only works once the purpose is set.
 
 ## How does the purpose decide the archetypes?
 
-The second loudest decision is which decks the cube supports. Again, purpose first.
+The second loudest decision is which decks the Cube supports. Again, purpose first.
 
-A proving ground wants archetypes with skill gaps: Reanimator, which rewards knowing when to go for it; Izzet spells, which rewards sequencing; and a real control deck, which rewards patience. A teaching tool wants archetypes a drafter can see coming: white weenie, green stompy, blue-black flyers, red-green beef. A reunion cube wants the archetypes people remember, which usually means the two-color pairs as they were defined around Ravnica block, and nothing as fiddly as a Lurrus deck.
+A proving ground wants archetypes with skill gaps: Reanimator, which rewards knowing when to go for it; Izzet spells, which rewards sequencing; and a real control deck, which rewards patience. A teaching tool wants archetypes a drafter can see coming: white weenie, green stompy, blue-black flyers, red-green beef. A reunion Cube wants the archetypes people remember, which usually means the two-color pairs as they were defined around Ravnica block, and nothing as fiddly as a Lurrus deck.
 
-The number of lanes also follows. A cube for eight sharp drafters can support ten tight two-color lanes plus a few three-color or theme decks stacked on top. A cube for a shifting group of six should probably have fewer, broader lanes, so that any two colors played together make a deck. We treat this in detail in [archetype density](/articles/archetype-density/).
+The number of lanes also follows. A Cube for eight sharp drafters can support ten tight two-color lanes plus a few three-color or theme decks stacked on top. A Cube for a shifting group of six should probably have fewer, broader lanes, so that any two colors played together make a deck. We treat this in detail in [archetype density](/articles/archetype-density/).
 
 *If this is useful, the newsletter sends more like it.*
 
 ## How does the purpose decide individual cards?
 
-This is where the question earns its keep. Here are a few cards that pass or fail depending entirely on what the cube is for.
+This is where the question earns its keep. Here are a few cards that pass or fail depending entirely on what the Cube is for.
 
 | Card | Proving ground | Reunion | Teaching tool |
 |---|---|---|---|
@@ -71,27 +71,27 @@ This is where the question earns its keep. Here are a few cards that pass or fai
 | Shivan Dragon | Out, outclassed by Glorybringer | In, non-negotiable | In, a clean six-drop |
 | Mana Leak | In, cheap and tempo-positive | In, famous | In, simple |
 
-Notice that none of these judgments is about whether the card is good. They are about whether the card does the job the cube exists to do. A cube owner who can fill in this table for any candidate in ten seconds has a philosophy. One who cannot has a pile.
+Notice that none of these judgments is about whether the card is good. They are about whether the card does the job the Cube exists to do. A Cube owner who can fill in this table for any candidate in ten seconds has a philosophy. One who cannot has a pile.
 
 ## What happens when the purpose changes?
 
-It will. A proving ground for eight friends becomes a weekly engine when the group grows to twenty. A reunion cube becomes a teaching tool when someone brings their kids. The signs are easy to spot: cards that used to get picked early are now wheeling, or the same two players win every week, or the new people do not come back.
+It will. A proving ground for eight friends becomes a weekly engine when the group grows to twenty. A reunion Cube becomes a teaching tool when someone brings their kids. The signs are easy to spot: cards that used to get picked early are now wheeling, or the same two players win every week, or the new people do not come back.
 
-When that happens, do not patch the list. Ask the question again, out loud, and write the new answer down. Then make the changes the new answer requires, even if it means cutting a card you love. The cube that refuses to change its purpose becomes the cube nobody drafts.
+When that happens, do not patch the list. Ask the question again, out loud, and write the new answer down. Then make the changes the new answer requires, even if it means cutting a card you love. The Cube that refuses to change its purpose becomes the Cube nobody drafts.
 
-A group cube's purpose shifts as the group changes, and the cards have to follow. The list is downstream of the people. Change the people, and the list has to change. The mechanics of the swap are a separate problem; the decision to swap comes from here.
+A group Cube's purpose shifts as the group changes, and the cards have to follow. The list is downstream of the people. Change the people, and the list has to change. The mechanics of the swap are a separate problem; the decision to swap comes from here.
 
 ## FAQ
 
-### What is the most important decision in cube design?
+### What is the most important decision in Cube design?
 
-Deciding who the cube is for and what you want them to feel. Power level, size, and archetypes all follow from that answer.
+Deciding who the Cube is for and what you want them to feel. Power level, size, and archetypes all follow from that answer.
 
-### Can a cube serve more than one purpose?
+### Can a Cube serve more than one purpose?
 
 Yes, and most do. Pick a primary purpose that breaks ties, and accept that the secondary one will sometimes lose a card decision.
 
-### How do I know if my cube's purpose is unclear?
+### How do I know if my Cube's purpose is unclear?
 
 Look at your last five swaps. If you cannot say in one sentence why each new card is better for your drafters than the card it replaced, the purpose is unclear.
 
@@ -101,6 +101,6 @@ Yes. One or two sentences at the top of the primer. It keeps the owner honest an
 
 ## The list is an answer
 
-A cube is the longest answer anyone gives to a short question. Decide what the cube is for, say it plainly, and let every card earn its slot against that sentence. The game is the reason. The people are the point.
+A Cube is the longest answer anyone gives to a short question. Decide what the Cube is for, say it plainly, and let every card earn its slot against that sentence. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for new pieces on cube design and the groups that play it. If you are near Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.
+Subscribe to The Ludarium newsletter for new pieces on Cube design and the groups that play it. If you are near Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

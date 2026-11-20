@@ -1,20 +1,20 @@
 ---
 title: "Lorwyn Eclipsed Cube Review: Bloom Tender, Oko, Shocks"
-description: "Lorwyn Eclipsed cube review: Bloom Tender, Bitterbloom Bearer, Hexing Squelcher, Oko, the evoke Incarnations and the shock land reprints rated by slot."
+description: "Lorwyn Eclipsed Cube review: Bloom Tender, Bitterbloom Bearer, Hexing Squelcher, Oko, the evoke Incarnations and the shock land reprints rated by slot."
 pubDate: 2026-10-22
 category: Magic & Cube
-tags: ["Lorwyn Eclipsed cube", "Lorwyn Eclipsed cube review", "Bloom Tender cube", "Bitterbloom Bearer cube", "evoke Incarnations cube", "ECL cube cards", "Cube Commonwealth"]
+tags: ["Lorwyn Eclipsed Cube", "Lorwyn Eclipsed Cube review", "Bloom Tender Cube", "Bitterbloom Bearer Cube", "evoke Incarnations Cube", "ECL Cube cards", "Cube Commonwealth"]
 draft: false
 ---
-Lorwyn Eclipsed released on January 23, 2026, and the Lorwyn Eclipsed cube question is the one we were asked most during spoiler season: are the new Incarnations as good as the originals? Mostly no, with one exception, and the set's best cube cards are elsewhere: a Bitterblossom on a body, a returning Bloom Tender, a two-mana red creature that turns off counterspells, and five shock land reprints that lower the price of fixing. Calls below follow [the slot method](/articles/how-to-evaluate-new-cards-for-cube/).
+Lorwyn Eclipsed released on January 23, 2026, and the Lorwyn Eclipsed Cube question is the one we were asked most during spoiler season: are the new Incarnations as good as the originals? Mostly no, with one exception, and the set's best Cube cards are elsewhere: a Bitterblossom on a body, a returning Bloom Tender, a two-mana red creature that turns off counterspells, and five shock land reprints that lower the price of fixing. Calls below follow [the slot method](/articles/how-to-evaluate-new-cards-for-cube/).
 
 Set facts from the [MTG Wiki](https://mtg.wiki/page/Lorwyn_Eclipsed): tabletop release January 23, 2026, set code ECL, 283 regular cards including 15 basics, with a separate 20-card Special Guests sheet. Card text is paraphrased from Card Kingdom and mtg.wtf listings.
 
 ## What does the set do, in one paragraph?
 
-Lorwyn's original tribal frame returns with a twist: many cards say "choose a creature type" and reward the count, **convoke** is back, and **evoke** returns on a cycle of hybrid-cost Incarnations whose enter-the-battlefield effects depend on which color mana you spent. **Vivid** counts colors among your permanents. **Blight** puts −1/−1 counters on your own creatures as a cost. Several legends transform each turn by paying a mana of their other color. For cube, the "choose a type" cards are blank and the convoke cards too expensive. The Incarnations, the cheap legends and the fixing are what matter.
+Lorwyn's original tribal frame returns with a twist: many cards say "choose a creature type" and reward the count, **convoke** is back, and **evoke** returns on a cycle of hybrid-cost Incarnations whose enter-the-battlefield effects depend on which color mana you spent. **Vivid** counts colors among your permanents. **Blight** puts −1/−1 counters on your own creatures as a cost. Several legends transform each turn by paying a mana of their other color. For Cube, the "choose a type" cards are blank and the convoke cards too expensive. The Incarnations, the cheap legends and the fixing are what matter.
 
-## Are the new Incarnations cube cards?
+## Are the new Incarnations Cube cards?
 
 Each costs {3} or {4} plus two hybrid mana, has evoke for the two hybrid mana, and does one or two things depending on which colors you spent.
 
@@ -30,7 +30,7 @@ The comparison is Solitude, Grief, Fury, Subtlety and Endurance, and these are d
 
 ## Which cheap cards are the real pickups?
 
-- **Bitterbloom Bearer** ({B}{B}, 1/1 flash flying Faerie; at each of your upkeeps, lose 1 life and make a 1/1 blue-black flying Faerie). **Slot:** black / 2 / token engine. **Competes with:** Bitterblossom. **Call: keep** at Legacy and Modern power, **test** at Vintage. Bitterblossom with a body. The body blocks, carries Equipment and is a Faerie; it also dies to Lightning Bolt, which Bitterblossom never did. It is the second copy of a card most cubes wished they could run twice.
+- **Bitterbloom Bearer** ({B}{B}, 1/1 flash flying Faerie; at each of your upkeeps, lose 1 life and make a 1/1 blue-black flying Faerie). **Slot:** black / 2 / token engine. **Competes with:** Bitterblossom. **Call: keep** at Legacy and Modern power, **test** at Vintage. Bitterblossom with a body. The body blocks, carries Equipment and is a Faerie; it also dies to Lightning Bolt, which Bitterblossom never did. It is the second copy of a card most Cubes wished they could run twice.
 - **Bloom Tender** ({1}{G}, 1/1; tap: add one mana of each color among your permanents). A reprint, still one of green's best two-mana dorks in multicolor decks. **Call: keep** where you do not already run it.
 - **Hexing Squelcher** ({1}{R}, 2/2 Goblin; can't be countered; ward (pay 2 life); your spells can't be countered; your other creatures have ward (pay 2 life)). **Slot:** red / 2 / disruption. **Call: test.** A bear that makes your deck uncounterable and taxes every removal spell. [MTGGoldfish](https://www.mtggoldfish.com/price/Lorwyn+Eclipsed/Hexing+Squelcher) showed it around $20 (TCGplayer mid) and $30 at Card Kingdom as of October 17, 2026, so proxy it for testing.
 - **Glen Elendra Guardian** ({2}{U}, 3/4 flash flying; enters with a −1/−1 counter; {1}{U}, remove a counter: counter a noncreature spell, its controller draws). **Slot:** blue / 3 / tempo. **Call: test.** A flash 2/3 flier carrying one Negate. It only counters once.
@@ -47,7 +47,7 @@ The comparison is Solitude, Grief, Fury, Subtlety and Endurance, and these are d
 
 - **Oko, Lorwyn Liege // Oko, Shadowmoor Scion** ({2}{U}, loyalty 3; front: +2 grants all creature types, +1 gives −2/−0 until your next turn; pay {G} to transform; back: −1 mills three and takes a permanent, −3 makes two 3/3 Elk, −6 emblem). **Slot:** blue (and green) / 3 / walker. **Call: test.** Nothing like Thief of Crowns. The front face protects itself by shrinking an attacker; the back face makes Elks. A three-mana Simic walker that is castable with only blue is interesting; the power is medium.
 - **Ajani, Outland Chaperone** ({1}{W}{W}, loyalty 3; +1 makes a 1/1 Kithkin; −2 deals 4 to a tapped creature; −8 cheats permanents into play). **Slot:** white / 3 / walker. **Call: test.** It makes a chump blocker every turn and kills an attacker. Compare Gideon of the Trials; this is more defensive and a little stronger.
-- **Eirdu, Carrier of Dawn // Isilu, Carrier of Twilight** ({3}{W}{W}, 5/5 flying lifelink; your creature spells have convoke; the back face gives your creatures persist). **Call: test** as a white five-drop finisher. A 5/5 lifelink flier for five is on rate for cube and the convoke is a free discount in token decks.
+- **Eirdu, Carrier of Dawn // Isilu, Carrier of Twilight** ({3}{W}{W}, 5/5 flying lifelink; your creature spells have convoke; the back face gives your creatures persist). **Call: test** as a white five-drop finisher. A 5/5 lifelink flier for five is on rate for Cube and the convoke is a free discount in token decks.
 - **Soul Immolation** ({3}{R}{R}, sorcery: blight X, up to your greatest toughness; X damage to each opponent and each of their creatures). **Call: pass.** A one-sided sweeper that needs a big creature of yours to carry the counters.
 - **Glen Elendra's Answer** ({2}{U}{U} uncounterable: counter all opposing spells and abilities). **Call: pass.** Four-mana counterspells do not draft.
 - **Curious Colossus** ({5}{W}{W}, 7/7; an opponent's creatures become 1/1s with no abilities). **Call: pass.** Seven mana.
@@ -55,7 +55,7 @@ The comparison is Solitude, Grief, Fury, Subtlety and Endurance, and these are d
 
 ## Which reprints matter?
 
-Five shock lands: Steam Vents, Overgrown Tomb, Blood Crypt, Hallowed Fountain and Temple Garden, which the [Wizards collecting article](https://magic.wizards.com/en/news/feature/collecting-lorwyn-eclipsed) confirms complete the cycle started in Edge of Eternities. If your cube runs shocks, the reprint lowers the cost of half the cycle. Spell Snare and Springleaf Drum also appear at uncommon, per [MTGGoldfish's set index](https://www.mtggoldfish.com/index/ECL-main_set). Spell Snare is a reasonable test as blue's cheapest counter in cubes with many two-drops; Springleaf Drum is a pass without an artifact-aggro lane.
+Five shock lands: Steam Vents, Overgrown Tomb, Blood Crypt, Hallowed Fountain and Temple Garden, which the [Wizards collecting article](https://magic.wizards.com/en/news/feature/collecting-lorwyn-eclipsed) confirms complete the cycle started in Edge of Eternities. If your Cube runs shocks, the reprint lowers the cost of half the cycle. Spell Snare and Springleaf Drum also appear at uncommon, per [MTGGoldfish's set index](https://www.mtggoldfish.com/index/ECL-main_set). Spell Snare is a reasonable test as blue's cheapest counter in Cubes with many two-drops; Springleaf Drum is a pass without an artifact-aggro lane.
 
 ## Summary
 
@@ -70,29 +70,29 @@ Five shock lands: Steam Vents, Overgrown Tomb, Blood Crypt, Hallowed Fountain an
 | Oko, Lorwyn Liege | U / 3 / walker | Test | Legacy, Modern |
 | Emptiness | WB hybrid / 6 (evoke 2) / removal | Test | Modern |
 | Scuzzback Scrounger | R / 2 / aggro | Test | Modern, Peasant-plus |
-| Moonshadow | B / 1 / graveyard threat | Test | Graveyard cubes |
+| Moonshadow | B / 1 / graveyard threat | Test | Graveyard Cubes |
 | Curious Colossus, Sunderflock, Soul Immolation | various | Pass | None |
 
 Two keeps and a handful of tests. A strong opening to the year, mostly on the back of the two-drop slot.
 
 ## FAQ
 
-### Is Bitterbloom Bearer better than Bitterblossom in cube?
+### Is Bitterbloom Bearer better than Bitterblossom in Cube?
 
 Different. Bitterblossom is an enchantment, so creature removal cannot touch it; Bitterbloom Bearer is a creature with flash that blocks and attacks but dies to Bolt. Run both if you can. If you can only run one, Bitterblossom is still the stronger engine.
 
 ### Are the Lorwyn Eclipsed Incarnations as good as Solitude and Grief?
 
-No, and they are not meant to be. Evoking costs two colored mana, not a card, so no turn-one plays, and the effects are smaller. Deceit is the only one we would test in a Legacy-power cube.
+No, and they are not meant to be. Evoking costs two colored mana, not a card, so no turn-one plays, and the effects are smaller. Deceit is the only one we would test in a Legacy-power Cube.
 
-### Is Hexing Squelcher a cube card?
+### Is Hexing Squelcher a Cube card?
 
-Worth testing in cubes where blue control is strong. It turns off counterspells for your whole deck and taxes removal on your other creatures; against little blue it is just a bear.
+Worth testing in Cubes where blue control is strong. It turns off counterspells for your whole deck and taxes removal on your other creatures; against little blue it is just a bear.
 
-### Which Lorwyn Eclipsed cards fit a Pauper cube?
+### Which Lorwyn Eclipsed cards fit a Pauper Cube?
 
 We confirmed rares and mythics for this review plus a few uncommons. Spell Snare is uncommon, so it is a Peasant card, not a Pauper one. The commons worth a look: Bogslither's Embrace ({1}{B} sorcery: exile a creature, plus blight 1 or pay {3}), cheap black removal. Blight Rot ({2}{B} instant: four −1/−1 counters), which kills almost anything. Great Forest Druid ({1}{G} dork that taps for any color), Pauper fixing on a body. Glamermite ({2}{U} flash flier that taps or untaps a creature), a tempo two-for-one.
 
 ## Test the keeps
 
-If you test only two cards from this set, make them Bitterbloom Bearer and Bloom Tender. How the year's new cards held up is in [the best new cube cards of the year](/articles/best-new-cube-cards-of-the-year/). Subscribe to The Ludarium newsletter for new set reviews, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, sets its first night as part of The Ludarium. The game is the reason. The people are the point.
+If you test only two cards from this set, make them Bitterbloom Bearer and Bloom Tender. How the year's new cards held up is in [the best new Cube cards of the year](/articles/best-new-cube-cards-of-the-year/). Subscribe to The Ludarium newsletter for new set reviews, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis Cube group, sets its first night as part of The Ludarium. The game is the reason. The people are the point.

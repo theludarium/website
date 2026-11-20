@@ -3,16 +3,16 @@ title: "How MTGO Vintage Cube Updates Work (2026 Cadence)"
 description: "How MTGO Vintage Cube updates work in 2026: who curates the list, how often it changes, how big a swap list is, and where to find the official card list."
 pubDate: 2026-10-22
 category: Magic & Cube
-tags: ["Vintage Cube update", "MTGO Vintage Cube changelist", "Vintage Cube curator", "Vintage Cube card list", "Chris Wolf Vintage Cube", "Magic Online cube", "Cube Commonwealth"]
+tags: ["Vintage Cube update", "MTGO Vintage Cube changelist", "Vintage Cube curator", "Vintage Cube card list", "Chris Wolf Vintage Cube", "Magic Online Cube", "Cube Commonwealth"]
 draft: false
 ---
 A Vintage Cube update on Magic Online is a set-timed swap list. A week or a few after a new Magic set arrives on MTGO, the Cube curator posts an article on mtgo.com with the cards coming in, the cards going out, and a short reason for each. The new list goes live when the next Vintage Cube League starts, usually the following Wednesday.
 
-That is the whole mechanism. The details are worth knowing, though, because the cadence has changed a lot since 2023, and the way the team talks about its own changes tells you how a 540-card cube is actually managed.
+That is the whole mechanism. The details are worth knowing, though, because the cadence has changed a lot since 2023, and the way the team talks about its own changes tells you how a 540-card Cube is actually managed.
 
 ## Who curates the Vintage Cube?
 
-Magic Online has been operated by Daybreak Game Company since the [October 18, 2022 transition](https://mtgo.com/news/mtgo-transitiondetails-10112022). The first big Vintage Cube overhaul under Daybreak came in August 2023, when Ryan Spain, then Creative Director of Magic Online, posted a 108-card changelist he called the biggest in the cube's history. He credited Chris Wolf, the reigning Vintage Cube trophy champion, with suggestions, and said the two went back and forth on the changes. A [December 14, 2023 post](https://www.mtgo.com/news/mtgo-futureofvintagecube-12142023) named Wolf a Cube Design Consultant. Source: [The Vintage Cube Returns, mtgo.com, August 15, 2023](https://www.mtgo.com/news/mtgo-vintagecubeaugust23).
+Magic Online has been operated by Daybreak Game Company since the [October 18, 2022 transition](https://mtgo.com/news/mtgo-transitiondetails-10112022). The first big Vintage Cube overhaul under Daybreak came in August 2023, when Ryan Spain, then Creative Director of Magic Online, posted a 108-card changelist he called the biggest in the Cube's history. He credited Chris Wolf, the reigning Vintage Cube trophy champion, with suggestions, and said the two went back and forth on the changes. A [December 14, 2023 post](https://www.mtgo.com/news/mtgo-futureofvintagecube-12142023) named Wolf a Cube Design Consultant. Source: [The Vintage Cube Returns, mtgo.com, August 15, 2023](https://www.mtgo.com/news/mtgo-vintagecubeaugust23).
 
 By the [October 2023 polish pass](https://www.mtgo.com/news/vintage-cube-oct2023), Spain wrote that Wolf had done most of the work. In 2026 the update articles carry Chris Wolf's byline, and the [Secrets of Strixhaven update of May 1, 2026](https://www.mtgo.com/news/sos-vintage-cube-update) and the [official card list page](https://www.mtgo.com/vintage-cube-cardlist) call him Cube Curator. Weekly announcement posts refer to "Chris Wolf's article" when they point to the latest list.
 
@@ -20,7 +20,7 @@ So the answer in practice: one named curator, posting under the MTGO banner, wit
 
 ## How often does the Vintage Cube update?
 
-The old pattern, documented on the [MTG Wiki](https://mtg.wiki/page/Vintage_Cube), was a December holiday run and a summer run, with an occasional spring window. The cube was renamed from Holiday Cube to Vintage Cube in December 2015.
+The old pattern, documented on the [MTG Wiki](https://mtg.wiki/page/Vintage_Cube), was a December holiday run and a summer run, with an occasional spring window. The Cube was renamed from Holiday Cube to Vintage Cube in December 2015.
 
 The 2026 pattern is different. Nearly every major set release has brought a Vintage Cube update and a league that usually runs four weeks (three to five in practice). Here is the year as the mtgo.com posts describe it:
 
@@ -52,17 +52,17 @@ The reasoning column is the part worth reading slowly. The team uses a consisten
 
 ## Why did the cadence change?
 
-The August 2023 article stated the philosophy plainly: the Vintage Cube "is not a card museum, it is a premium play experience." Under that framing, a card earns its slot by producing good games now, not by being iconic. That is also why a cube with Black Lotus can cut Bazaar of Baghdad, Survival of the Fittest, and Time Warp in a single October 2026 update and not consider it strange.
+The August 2023 article stated the philosophy plainly: the Vintage Cube "is not a card museum, it is a premium play experience." Under that framing, a card earns its slot by producing good games now, not by being iconic. That is also why a Cube with Black Lotus can cut Bazaar of Baghdad, Survival of the Fittest, and Time Warp in a single October 2026 update and not consider it strange.
 
 Three practical reasons follow from the set-release timing:
 
 - **New cards are the draw.** Each set gives the league a hook, and players who want to try Reality Fracture cards in a powered environment show up the week they land.
 - **Packages rotate.** Since the December 2023 winter update, the team has moved themed clusters of cards in and out together. Ryan Overturf called that run the first for the "packages" concept in a [January 31, 2024 review](https://articles.starcitygames.com/magic-the-gathering/mtgo-vintage-cube-what-worked-what-didnt-and-next-steps/). In 2026 that meant Aristocrats in January, the charm cycle and five-color piles in May, the Goblin Welder shop in July and August, and landfall plus prowess in October.
-- **Data arrives fast.** A four-week league on MTGO produces more drafts than most paper cubes see in a decade, so the team can see within one run whether a package is drafted and whether it wins. The [Through the Omenpaths update of September 26, 2025](https://www.mtgo.com/news/om1-vintage-cube-update) said pump spells went late in drafts but their win rates "significantly outperformed their popularity," which is why the theme stayed.
+- **Data arrives fast.** A four-week league on MTGO produces more drafts than most paper Cubes see in a decade, so the team can see within one run whether a package is drafted and whether it wins. The [Through the Omenpaths update of September 26, 2025](https://www.mtgo.com/news/om1-vintage-cube-update) said pump spells went late in drafts but their win rates "significantly outperformed their popularity," which is why the theme stayed.
 
-## How is this different from how a paper cube updates?
+## How is this different from how a paper Cube updates?
 
-A paper cube owner changes cards when they feel like it and when the mail arrives. The MTGO cube changes on a calendar, in public, with reasons. That transparency is the useful part to copy. If you keep a changelog with one sentence per swap, you are already doing the thing that makes the Vintage Cube posts readable. Our guide to [updating a cube without breaking it](/articles/how-to-update-a-cube/) covers the paper side.
+A paper Cube owner changes cards when they feel like it and when the mail arrives. The MTGO Cube changes on a calendar, in public, with reasons. That transparency is the useful part to copy. If you keep a changelog with one sentence per swap, you are already doing the thing that makes the Vintage Cube posts readable. Our guide to [updating a Cube without breaking it](/articles/how-to-update-a-cube/) covers the paper side.
 
 The other difference is reversibility. Wolf brings cards back constantly. Dark Depths left in January 2026 and returned in August. Paradoxical Outcome left in January and returned in July. Leovold, Emissary of Trest left in March, returned in May, and left again in October. On MTGO a cut costs nothing. In paper, a cut means a card in a binder, which is why paper owners hesitate and online curators do not.
 
@@ -86,4 +86,4 @@ It has. During the May 2023 run the team swapped seven cards after the first wee
 
 ## Follow along with us
 
-We track every Vintage Cube update because it is the most-played cube in the world and the closest thing cube has to a public lab. The game is the reason. The people are the point. Subscribe to The Ludarium newsletter for new cube pieces, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, sets its first night as part of The Ludarium.
+We track every Vintage Cube update because it is the most-played Cube in the world and the closest thing Cube has to a public lab. The game is the reason. The people are the point. Subscribe to The Ludarium newsletter for new Cube pieces, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis Cube group, sets its first night as part of The Ludarium.

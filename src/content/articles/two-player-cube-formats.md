@@ -1,20 +1,20 @@
 ---
 title: "Winston Draft, Grid, and Winchester: Two-Player Cube"
-description: "Winston draft, Grid draft, and Winchester draft explained step by step: card counts, how picks work, and which two-player cube format fits your night."
+description: "Winston draft, Grid draft, and Winchester draft explained step by step: card counts, how picks work, and which two-player Cube format fits your night."
 pubDate: 2026-10-21
 category: Magic & Cube
-tags: ["Winston draft", "grid draft", "Winchester draft", "two-player cube", "2 player draft MTG", "cube with two players", "Cube Commonwealth"]
+tags: ["Winston draft", "grid draft", "Winchester draft", "two-player Cube", "2 player draft MTG", "Cube with two players", "Cube Commonwealth"]
 draft: false
 ---
-Winston draft is the oldest and best-known way to draft a cube with two people: a shared stack of cards, three small face-down piles, and a series of take-it-or-pass decisions that turn into a forty-card deck. Grid draft and Winchester draft solve the same problem differently, with open information and fewer blind picks. All three turn a cube built for eight into a great evening for two.
+Winston draft is the oldest and best-known way to draft a Cube with two people: a shared stack of cards, three small face-down piles, and a series of take-it-or-pass decisions that turn into a forty-card deck. Grid draft and Winchester draft solve the same problem differently, with open information and fewer blind picks. All three turn a Cube built for eight into a great evening for two.
 
-Most weeks a cube group draws a full pod. Some weeks it is you and one friend and the box. This article explains the three formats step by step, with the card counts that work, and says which one fits which kind of night. It assumes you already know [how a cube works](/articles/what-is-a-magic-cube/).
+Most weeks a Cube group draws a full pod. Some weeks it is you and one friend and the box. This article explains the three formats step by step, with the card counts that work, and says which one fits which kind of night. It assumes you already know [how a Cube works](/articles/what-is-a-magic-cube/).
 
 ## How does Winston draft work?
 
-[Winston draft](https://mtg.wiki/page/Winston_Draft) was developed by Richard Garfield and is the format most cube owners learn first for two players.
+[Winston draft](https://mtg.wiki/page/Winston_Draft) was developed by Richard Garfield and is the format most Cube owners learn first for two players.
 
-**Setup.** Shuffle the cube and pull a stack of 90 cards, which is the equivalent of six fifteen-card packs. Set the rest of the cube aside. Deal three cards from the stack face down in a row next to it. Those are the three piles. Flip a coin for who picks first.
+**Setup.** Shuffle the Cube and pull a stack of 90 cards, which is the equivalent of six fifteen-card packs. Set the rest of the Cube aside. Deal three cards from the stack face down in a row next to it. Those are the three piles. Flip a coin for who picks first.
 
 **A turn.** The active player looks at pile one, keeping it hidden from the opponent. Two options:
 
@@ -33,7 +33,7 @@ The same choice repeats at pile two and pile three. If the active player passes 
 
 Grid draft is fully open information. There are no hidden piles and no blind picks, which makes it the easiest two-player format to teach and to argue about.
 
-**Setup.** Shuffle the cube and set aside 18 stacks of 9 cards, 162 cards total. Flip for who picks first in grid one.
+**Setup.** Shuffle the Cube and set aside 18 stacks of 9 cards, 162 cards total. Flip for who picks first in grid one.
 
 **A grid.** Lay 9 cards face up in a three-by-three grid. The first player takes an entire row or an entire column, three cards. The second player then takes any remaining complete row or column. Because the first pick removed a line, the second player's line will have either three cards or two, depending on whether it crosses the first player's pick.
 
@@ -51,7 +51,7 @@ The remaining cards, three or four of them, go to a discard pile and are out of 
 
 [Winchester draft](https://mtg.wiki/page/Winchester_Draft), introduced on Wizards' site in 2011, is the middle ground: open information like Grid, growing piles like Winston.
 
-**Setup.** Shuffle the cube and pull a 90-card stack. Deal four cards face up in a row. Those are the four piles. Flip for first pick.
+**Setup.** Shuffle the Cube and pull a 90-card stack. Deal four cards face up in a row. Those are the four piles. Flip for first pick.
 
 **A turn.** The active player takes one of the four piles, all of it. Then deal one new card face up onto each of the four pile positions, so the taken pile is replaced with one card and the other three piles each grow by one.
 
@@ -61,7 +61,7 @@ The remaining cards, three or four of them, go to a discard pile and are out of 
 
 **Common tweaks.** Some groups deal the new cards face down and reveal all four piles at the start of each turn; the standard version is face up throughout.
 
-## Which two-player cube format should you use?
+## Which two-player Cube format should you use?
 
 | | Winston | Grid | Winchester |
 |---|---|---|---|
@@ -74,7 +74,7 @@ The remaining cards, three or four of them, go to a discard pile and are out of 
 
 A few recommendations from running all three:
 
-- **New to cube, or one player is new to Magic:** Grid. Everything is visible, nobody gets a surprise pile, and the puzzle of rows and columns is fun on its own. It pairs well with the approach in [how to teach Magic](/articles/how-to-teach-magic-the-gathering/).
+- **New to Cube, or one player is new to Magic:** Grid. Everything is visible, nobody gets a surprise pile, and the puzzle of rows and columns is fun on its own. It pairs well with the approach in [how to teach Magic](/articles/how-to-teach-magic-the-gathering/).
 - **Two experienced players with an hour:** Winston. The hidden information makes the draft itself the game, and good players find it deeper than it looks.
 - **Thirty minutes and you want to play more than draft:** Grid or Winchester. Both are quick, and the face-up cards mean no agonizing over invisible ones.
 
@@ -84,21 +84,21 @@ All three produce decks that are a little weaker and a little less coherent than
 
 Two players with two decks is a match, not a round. The usual approach is best of three with sideboarding, then swap decks and play again. Playing your opponent's deck against your own is the fastest way to learn what you drafted wrong and is half the fun of a two-player night.
 
-If the cube is big enough, draft twice. A 540-card cube has enough cards for two Winston drafts from fresh stacks, and the second draft always goes faster because both players have seen the format's rhythm.
+If the Cube is big enough, draft twice. A 540-card Cube has enough cards for two Winston drafts from fresh stacks, and the second draft always goes faster because both players have seen the format's rhythm.
 
 ## FAQ
 
 ### How many cards do you need for a Winston draft?
 
-90 cards from the cube, the equivalent of six fifteen-card packs. Some groups use 120 for more deck choices.
+90 cards from the Cube, the equivalent of six fifteen-card packs. Some groups use 120 for more deck choices.
 
 ### Is Grid draft better than Winston draft?
 
 Neither is better. Grid is fully open information and easier to teach. Winston has hidden piles and rewards reading your opponent. Winchester sits between them.
 
-### Can you do a two-player draft without a cube?
+### Can you do a two-player draft without a Cube?
 
-Yes. Winston and Winchester both work with six booster packs opened and shuffled together. Grid needs 162 cards, which is about eleven packs, so it is mostly a cube format.
+Yes. Winston and Winchester both work with six booster packs opened and shuffled together. Grid needs 162 cards, which is about eleven packs, so it is mostly a Cube format.
 
 ### Does CubeCobra support two-player draft formats?
 
@@ -106,6 +106,6 @@ CubeCobra's playtest page offers Grid draft directly. For Winston and Winchester
 
 ## Two people and a box is enough
 
-A cube does not need a full table to earn its keep. Some of the best evenings we have had were two players, one of these formats, and three matches with the decks swapped halfway. The game is the reason. The people are the point.
+A Cube does not need a full table to earn its keep. Some of the best evenings we have had were two players, one of these formats, and three matches with the decks swapped halfway. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for new pieces on cube, draft formats, and the people who play them. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.
+Subscribe to The Ludarium newsletter for new pieces on Cube, draft formats, and the people who play them. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

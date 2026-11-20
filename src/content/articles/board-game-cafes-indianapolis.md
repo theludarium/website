@@ -99,7 +99,7 @@ Good starter games to ask for: [Ticket to Ride](https://www.amazon.com/dp/097527
 
 Game stores, mostly. Friendly local game stores run the city's recurring Dungeons & Dragons tables, Magic: The Gathering drafts, and Commander nights. Downtown, [Good Games](https://meetup.com/goodgames) runs a free Casual Commander night on Sundays, a Lorcana league on Wednesdays, and Pokémon League on Saturdays. In Noblesville, Moonshot Games runs Friday Night Magic, and Hero's Emporium in Carmel carries tabletop, card, and RPG games and runs weekly Commander play. Elf 'N Moon in Fountain Square runs beginner RPG learn-to-play sessions; check its calendar for the night.
 
-If you want Magic without buying packs, look for a cube draft. [Cube Commonwealth](/articles/cube-draft-indianapolis/), The Ludarium's own cube group, is relaunching, and subscribers hear first when the first night is set; here is [what a Magic cube is](/articles/what-is-a-magic-cube/) if the format is new to you.
+If you want Magic without buying packs, look for a Cube draft. [Cube Commonwealth](/articles/cube-draft-indianapolis/), The Ludarium's own Cube group, is relaunching, and subscribers hear first when the first night is set; here is [what a Magic Cube is](/articles/what-is-a-magic-cube/) if the format is new to you.
 
 
 ## What is The Ludarium building in Indianapolis?

@@ -98,7 +98,7 @@ Designed by Rob Dougherty and Darwin Kastle and published in 2014, Star Realms p
 
 Designed by Daniel Piechnick and published by Roxley, Radlands plays 2 in 20 to 40 minutes. Each player protects three camps in a post-apocalyptic wasteland, spending water to play people and events and to use their abilities. Destroy all three of the other player's camps and you win.
 
-**Why it fits:** [Radlands](https://www.amazon.com/dp/1988884136?tag=cubecommonw0a-20) is the most aggressive game on this list, and the most tactical. Every card can be played for its full effect or thrown away for a quick bonus, so even a bad hand has options. It suits pairs who like a real fight. If one of you plays Magic, it will feel like home. For Magic players, our guide to [two-player cube formats](/articles/two-player-cube-formats/) is the next step.
+**Why it fits:** [Radlands](https://www.amazon.com/dp/1988884136?tag=cubecommonw0a-20) is the most aggressive game on this list, and the most tactical. Every card can be played for its full effect or thrown away for a quick bonus, so even a bad hand has options. It suits pairs who like a real fight. If one of you plays Magic, it will feel like home. For Magic players, our guide to [two-player Cube formats](/articles/two-player-cube-formats/) is the next step.
 
 ### Res Arcana
 

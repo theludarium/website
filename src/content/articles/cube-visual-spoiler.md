@@ -1,28 +1,28 @@
 ---
 title: "Cube Visual Spoiler: Showing Your Cube at a Glance"
-description: "A cube visual spoiler shows the whole list as card images, sorted the way drafters think. How to build one on CubeCobra, sort it, and when to print it."
+description: "A Cube visual spoiler shows the whole list as card images, sorted the way drafters think. How to build one on CubeCobra, sort it, and when to print it."
 pubDate: 2026-10-22
 category: Magic & Cube
-tags: ["cube visual spoiler", "cube spoiler view", "CubeCobra visual spoiler", "cube list images", "cube overview image", "cube card grid", "Cube Commonwealth"]
+tags: ["Cube visual spoiler", "Cube spoiler view", "CubeCobra visual spoiler", "Cube list images", "Cube overview image", "Cube card grid", "Cube Commonwealth"]
 draft: false
 ---
-A cube visual spoiler is the whole list laid out as card images, sorted by color and cost, on one scrolling page. For a drafter it is worth more than the primer and the changelog combined, because Magic players read card frames faster than they read card names. Ten seconds over a visual spoiler tells you how aggressive the red section is, how many planeswalkers blue has, and whether the gold cards are signposts or good-stuff.
+A Cube visual spoiler is the whole list laid out as card images, sorted by color and cost, on one scrolling page. For a drafter it is worth more than the primer and the changelog combined, because Magic players read card frames faster than they read card names. Ten seconds over a visual spoiler tells you how aggressive the red section is, how many planeswalkers blue has, and whether the gold cards are signposts or good-stuff.
 
-This article covers what a visual spoiler is for, how to sort it so it answers the right questions, how CubeCobra builds one from your list, and the cases where a printed version earns its paper. It sits in the middle of a series on cube primers; the primer links to the spoiler, and the spoiler is where most readers end up.
+This article covers what a visual spoiler is for, how to sort it so it answers the right questions, how CubeCobra builds one from your list, and the cases where a printed version earns its paper. It sits in the middle of a series on Cube primers; the primer links to the spoiler, and the spoiler is where most readers end up.
 
 ## Why does a visual spoiler matter more than the text list?
 
-Because it shows shape. A text list of 540 names, sorted alphabetically, tells a reader almost nothing about the cube. The same 540 cards as images in color columns, stacked by mana value, tell the reader the curve of every color, the creature-to-spell ratio, and where the cube is thin, before they have read a single card.
+Because it shows shape. A text list of 540 names, sorted alphabetically, tells a reader almost nothing about the Cube. The same 540 cards as images in color columns, stacked by mana value, tell the reader the curve of every color, the creature-to-spell ratio, and where the Cube is thin, before they have read a single card.
 
 Three questions a visual spoiler answers at a glance that no text list can:
 
-1. **How fast is this cube?** Count the one- and two-mana creatures in each color column by eye. A red column with twelve cheap creatures is an aggro cube. A red column with four is not.
+1. **How fast is this Cube?** Count the one- and two-mana creatures in each color column by eye. A red column with twelve cheap creatures is an aggro Cube. A red column with four is not.
 2. **How many gold cards, and what kind?** A gold section of forty obvious signposts reads differently from a gold section of twenty staples.
-3. **What is the power level?** Players recognize frames and art. Scanning a column for Moxen, dual lands, and the two or three cards that define a tier takes seconds. For what those tiers mean, see [cube power levels explained](/articles/cube-power-levels-explained/).
+3. **What is the power level?** Players recognize frames and art. Scanning a column for Moxen, dual lands, and the two or three cards that define a tier takes seconds. For what those tiers mean, see [Cube power levels explained](/articles/cube-power-levels-explained/).
 
 ## How should a visual spoiler be sorted?
 
-The default on most tools is color, then mana value, then name, and that is right for most cubes. Columns for each color in WUBRG order, then multicolor, then colorless, then lands. Within a column, cards stack from cheapest to most expensive. This is how drafters think about a pack, so it is how they should see the cube.
+The default on most tools is color, then mana value, then name, and that is right for most Cubes. Columns for each color in WUBRG order, then multicolor, then colorless, then lands. Within a column, cards stack from cheapest to most expensive. This is how drafters think about a pack, so it is how they should see the Cube.
 
 Two refinements worth making:
 
@@ -33,11 +33,11 @@ What not to do: sort by set, rarity, or price. Those are collector views. Nobody
 
 ## How do you build one on CubeCobra?
 
-Your cube page on CubeCobra has a visual spoiler view as one of the ways to display the list, alongside the Table, Curve, and Stacks views. It renders every card as an image in one grid, in your sort order, with 1 to 12 cards per row. The Display panel has four sorts: primary, secondary, tertiary, and a final ordered sort. The default, Color Category, then Types-Multicolor, then Mana Value, already gives the order described above. For color columns, use the Stacks view. For creatures split from spells by mana value in each color, use the Curve view. Anyone who can see the cube can see the view. Add `?display=spoiler` to the list URL so the link opens straight to it, and put that link in the primer.
+Your Cube page on CubeCobra has a visual spoiler view as one of the ways to display the list, alongside the Table, Curve, and Stacks views. It renders every card as an image in one grid, in your sort order, with 1 to 12 cards per row. The Display panel has four sorts: primary, secondary, tertiary, and a final ordered sort. The default, Color Category, then Types-Multicolor, then Mana Value, already gives the order described above. For color columns, use the Stacks view. For creatures split from spells by mana value in each color, use the Curve view. Anyone who can see the Cube can see the view. Add `?display=spoiler` to the list URL so the link opens straight to it, and put that link in the primer.
 
-Visitors see the cube's saved default sort. Set your sorts, click Save as Default Sort, and leave it. Sorting you do while browsing is not saved for anyone else.
+Visitors see the Cube's saved default sort. Set your sorts, click Save as Default Sort, and leave it. Sorting you do while browsing is not saved for anyone else.
 
-For a cube that is not on CubeCobra, a spreadsheet with image formulas works but is slow to load and awkward to share. The general CubeCobra setup, including importing a list, is in the [CubeCobra guide](/articles/cubecobra-guide/).
+For a Cube that is not on CubeCobra, a spreadsheet with image formulas works but is slow to load and awkward to share. The general CubeCobra setup, including importing a list, is in the [CubeCobra guide](/articles/cubecobra-guide/).
 
 *If this is useful, the newsletter sends more like it.*
 
@@ -45,19 +45,19 @@ For a cube that is not on CubeCobra, a spreadsheet with image formulas works but
 
 Three cases.
 
-**New-player nights.** A first-timer who has never seen the cube cannot evaluate a pack of fifteen unknown cards in forty-five seconds. A printed spoiler at the table, folded open to the color they are in, lets them see what else exists and what the archetypes look like. It does more for a new drafter than any verbal explanation.
+**New-player nights.** A first-timer who has never seen the Cube cannot evaluate a pack of fifteen unknown cards in forty-five seconds. A printed spoiler at the table, folded open to the color they are in, lets them see what else exists and what the archetypes look like. It does more for a new drafter than any verbal explanation.
 
 **Venues without good signal.** A back room at a brewery or a library meeting room may not have phone coverage. If the drafters cannot load the list, a printed copy is the list.
 
-**The cube's own identity.** Some owners keep a printed spoiler in the box as a kind of manifest, updated at each change. It is not practical, exactly, but it makes the cube feel like a designed object, and that is not nothing.
+**The Cube's own identity.** Some owners keep a printed spoiler in the box as a kind of manifest, updated at each change. It is not practical, exactly, but it makes the Cube feel like a designed object, and that is not nothing.
 
-For printing, a six-by-five grid of thirty reduced card images per letter-size page is a workable size in our experience; at that density a 540-card cube is eighteen pages and a 360 is twelve, plus a page or two if you break sections onto fresh pages. Print in color, single-sided, and bind with a clip so the pages can be swapped when the cube changes. A screenshot of each color section from the web view, printed at full width, is the fastest method.
+For printing, a six-by-five grid of thirty reduced card images per letter-size page is a workable size in our experience; at that density a 540-card Cube is eighteen pages and a 360 is twelve, plus a page or two if you break sections onto fresh pages. Print in color, single-sided, and bind with a clip so the pages can be swapped when the Cube changes. A screenshot of each color section from the web view, printed at full width, is the fastest method.
 
 ## What goes on the one-page version?
 
-Most primers need both the full spoiler and a one-page summary image. The one-pager is not the whole cube; it is the twenty to thirty cards that define it, in a grid, with the cube's name and one-line description at the top.
+Most primers need both the full spoiler and a one-page summary image. The one-pager is not the whole Cube; it is the twenty to thirty cards that define it, in a grid, with the Cube's name and one-line description at the top.
 
-Choose the cards by archetype: the two best signposts from each of the ten or twelve lanes, plus the handful of cards that set the power level. This image is what you post in Discord when inviting people, what you pin in the channel, and what a first-timer looks at in the car. It is also the fastest way to show a stranger what kind of cube it is, which is why cube spotlights and set reviews use the same device.
+Choose the cards by archetype: the two best signposts from each of the ten or twelve lanes, plus the handful of cards that set the power level. This image is what you post in Discord when inviting people, what you pin in the channel, and what a first-timer looks at in the car. It is also the fastest way to show a stranger what kind of Cube it is, which is why Cube spotlights and set reviews use the same device.
 
 Keep it current. A one-pager that shows three cards you cut last spring tells the reader the owner has stopped paying attention.
 
@@ -75,31 +75,31 @@ The last row is useful for the week after an update: sort by date added and the 
 
 ## What are the common mistakes?
 
-- **Hiding the spoiler behind a login.** If the cube is public, the spoiler should be reachable from the primer with one click and no account.
+- **Hiding the spoiler behind a login.** If the Cube is public, the spoiler should be reachable from the primer with one click and no account.
 - **Mixing printings in the images.** A list that shows one card as a 1995 frame and the next as a modern one is harder to scan. Choose a default printing style, or at least a consistent one per section.
 - **Saving a collector sort.** If an owner clicks Save as Default Sort while sorted by price, every visitor sees a collector's list.
 - **No link from the primer.** The spoiler is the most useful page you have. Link to it in the first paragraph, not the footer.
 
 ## FAQ
 
-### What is a cube visual spoiler?
+### What is a Cube visual spoiler?
 
-The whole cube list shown as card images in columns, usually sorted by color and mana value, so a drafter can see the cube's shape at a glance.
+The whole Cube list shown as card images in columns, usually sorted by color and mana value, so a drafter can see the Cube's shape at a glance.
 
 ### How do I make a visual spoiler on CubeCobra?
 
-Open your cube's list, switch the display to Visual Spoiler, and keep the default sort: Color Category, then Types-Multicolor, then Mana Value. Anyone who can see the cube can see the view.
+Open your Cube's list, switch the display to Visual Spoiler, and keep the default sort: Color Category, then Types-Multicolor, then Mana Value. Anyone who can see the Cube can see the view.
 
-### Should I print a visual spoiler for my cube?
+### Should I print a visual spoiler for my Cube?
 
-For new-player nights and venues without phone signal, yes. At thirty images per page, a 540-card cube prints to eighteen to twenty color pages.
+For new-player nights and venues without phone signal, yes. At thirty images per page, a 540-card Cube prints to eighteen to twenty color pages.
 
 ### How should a visual spoiler be sorted?
 
 Color in WUBRG order, then multicolor, colorless, and lands; within each color, creatures separate from spells and both stacked by mana value.
 
-## The cube you can see
+## The Cube you can see
 
-A good visual spoiler lets a new drafter understand your cube before they have read a word of the primer, and that is the kind of document that gets people to the table. The game is the reason. The people are the point.
+A good visual spoiler lets a new drafter understand your Cube before they have read a word of the primer, and that is the kind of document that gets people to the table. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for the rest of this series on cube primers, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, sets its first night as part of The Ludarium.
+Subscribe to The Ludarium newsletter for the rest of this series on Cube primers, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis Cube group, sets its first night as part of The Ludarium.

@@ -55,7 +55,7 @@ For four players, Wizards' [Pick-Two Draft](https://magic.wizards.com/en/formats
 - **Settle into two colors during pack two.** After that, a playable card in your colors is worth more than a great card you will not play.
 - **Do not forget creatures and cheap spells.** The most common first-draft deck has great cards and no way to survive the early turns.
 
-Our [card drafting explainer](/articles/card-drafting-explained/) covers signals in more depth, and the [one-page cube guide](/articles/cube-draft-guide-new-players/) works for a set draft too, since the skills are the same.
+Our [card drafting explainer](/articles/card-drafting-explained/) covers signals in more depth, and the [one-page Cube guide](/articles/cube-draft-guide-new-players/) works for a set draft too, since the skills are the same.
 
 ## During the games
 

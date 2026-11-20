@@ -1,22 +1,22 @@
 ---
 title: "The Cube Commonwealth Primer"
-description: "The primer for the Cube Commonwealth cube in Indianapolis: what the cube is, how a night runs, the archetypes, the house rules, and how to join a draft."
+description: "The primer for the Cube Commonwealth Cube in Indianapolis: what the Cube is, how a night runs, the archetypes, the house rules, and how to join a draft."
 pubDate: 2026-10-18
 category: Magic & Cube
-tags: ["Cube Commonwealth cube", "Cube Commonwealth primer", "Indianapolis cube list", "Cube Commonwealth archetypes", "Cube Commonwealth house rules", "Indianapolis cube draft", "Cube Commonwealth"]
+tags: ["Cube Commonwealth Cube", "Cube Commonwealth primer", "Indianapolis Cube list", "Cube Commonwealth archetypes", "Cube Commonwealth house rules", "Indianapolis Cube draft", "Cube Commonwealth"]
 draft: true
 ---
-This is the primer for the Cube Commonwealth cube, the one box that an Indianapolis Magic community has drafted weekly for about three years and is drafting again as a branch of The Ludarium. It is written to the plan laid out in [how to write a cube primer](/articles/how-to-write-a-cube-primer/): the short parts first, for the person reading in the car; the reasons last, for the person who wants them.
+This is the primer for the Cube Commonwealth Cube, the one box that an Indianapolis Magic community has drafted weekly for about three years and is drafting again as a branch of The Ludarium. It is written to the plan laid out in [how to write a Cube primer](/articles/how-to-write-a-cube-primer/): the short parts first, for the person reading in the car; the reasons last, for the person who wants them.
 
 **Last updated:** <!-- EDITOR: date of last primer edit -->
 
-**In one line:** <!-- EDITOR: one sentence: size, power tier, and the one design choice, e.g. "A 540-card unpowered cube that plays like a strong Legacy format, with aggro kept honest and combo kept out." -->
+**In one line:** <!-- EDITOR: one sentence: size, power tier, and the one design choice, e.g. "A 540-card unpowered Cube that plays like a strong Legacy format, with aggro kept honest and combo kept out." -->
 
-## What is this cube?
+## What is this Cube?
 
-The Cube Commonwealth cube is a <!-- EDITOR: card count --> card cube at roughly <!-- EDITOR: power tier: Vintage / Legacy / Modern / Peasant / Pauper --> power. <!-- EDITOR: one sentence on the design choice that makes it ours; do not list three. -->
+The Cube Commonwealth Cube is a <!-- EDITOR: card count --> card Cube at roughly <!-- EDITOR: power tier: Vintage / Legacy / Modern / Peasant / Pauper --> power. <!-- EDITOR: one sentence on the design choice that makes it ours; do not list three. -->
 
-It is one cube, owned by the community it is named for, which started at a kitchen table with a budget list and grew into a weeknight that seated 12 to 16 players across two pods most weeks, with a Discord of roughly 300 mostly local members. The list has changed hundreds of times since then. <!-- EDITOR: confirm --> The night paused when it depended on one person's calendar; it is back with more than one host. The longer story is in [Cube Commonwealth: a community around one cube](/articles/cube-commonwealth/).
+It is one Cube, owned by the community it is named for, which started at a kitchen table with a budget list and grew into a weeknight that seated 12 to 16 players across two pods most weeks, with a Discord of roughly 300 mostly local members. The list has changed hundreds of times since then. <!-- EDITOR: confirm --> The night paused when it depended on one person's calendar; it is back with more than one host. The longer story is in [Cube Commonwealth: a community around one Cube](/articles/cube-commonwealth/).
 
 You do not need cards, experience, or money for packs. You need to show up.
 
@@ -54,7 +54,7 @@ Each rule is one sentence of what and one of why. If a rule is under discussion,
 - **Pick timing.** <!-- EDITOR: timer or none, how long, who calls it. -->
 - **Table talk.** <!-- EDITOR: what is allowed during the draft. -->
 - **Reviewing picks.** <!-- EDITOR: allowed between picks, or restricted. -->
-- **Proxies.** <!-- EDITOR: whether the cube contains proxies, which, and how they are marked. -->
+- **Proxies.** <!-- EDITOR: whether the Cube contains proxies, which, and how they are marked. -->
 - **Match format and time.** <!-- EDITOR: rounds, best-of, time limit, and what happens to a game in progress when time is called. -->
 - **Card handling.** Sleeves stay on, nothing to eat on the draft table, damaged cards reported to the host that night. One bent foil taught us this.
 - **Records.** The night's results go in the Discord. <!-- EDITOR: confirm whether a league or season record is kept; link to the format if so. -->
@@ -66,23 +66,23 @@ The rules of Magic apply everywhere these do not say otherwise.
 
 ## What is the power level, and what is not here?
 
-<!-- EDITOR: one paragraph. Name the tier. State plainly whether the cube runs power, fast mana, free spells, and dedicated combo, and give the one-line reason for each that is excluded. If a famous card is asked about every week, name it and the reason here. -->
+<!-- EDITOR: one paragraph. Name the tier. State plainly whether the Cube runs power, fast mana, free spells, and dedicated combo, and give the one-line reason for each that is excluded. If a famous card is asked about every week, name it and the reason here. -->
 
-## What is this cube for?
+## What is this Cube for?
 
 Three paragraphs on why the list looks the way it does, kept at the bottom on purpose.
 
-**The games we want.** <!-- EDITOR: one paragraph. What a good game of this cube looks like: how long, how interactive, how often the aggro deck wins, how often the game is decided by one card. -->
+**The games we want.** <!-- EDITOR: one paragraph. What a good game of this Cube looks like: how long, how interactive, how often the aggro deck wins, how often the game is decided by one card. -->
 
-**What we gave up to get them.** <!-- EDITOR: one paragraph. The cards and strategies that would make the cube stronger and were left out, and what the table gets in return. -->
+**What we gave up to get them.** <!-- EDITOR: one paragraph. The cards and strategies that would make the Cube stronger and were left out, and what the table gets in return. -->
 
-**What we will never add.** <!-- EDITOR: one paragraph. The short list of cards or categories the cube refuses, with the reason, so the question has an answer before it is asked. -->
+**What we will never add.** <!-- EDITOR: one paragraph. The short list of cards or categories the Cube refuses, with the reason, so the question has an answer before it is asked. -->
 
-The part that is not a placeholder: this cube exists so that a dozen or more people have a reason to be in the same room on the same night every week. Every card decision is downstream of that. A card that produces better Magic and worse evenings comes out, and the changelog says why.
+The part that is not a placeholder: this Cube exists so that a dozen or more people have a reason to be in the same room on the same night every week. Every card decision is downstream of that. A card that produces better Magic and worse evenings comes out, and the changelog says why.
 
 ## What changed recently?
 
-The full changelog lives as the cube's blog on CubeCobra and is mirrored in the Discord's cube channel, where it gets argued about. The last three entries:
+The full changelog lives as the Cube's blog on CubeCobra and is mirrored in the Discord's Cube channel, where it gets argued about. The last three entries:
 
 - <!-- EDITOR: date, OUT card, IN card, one-line reason -->
 - <!-- EDITOR: date, OUT card, IN card, one-line reason -->
@@ -110,11 +110,11 @@ Printed and in the box; here for the car.
 
 ## FAQ
 
-### How big and how strong is the Cube Commonwealth cube?
+### How big and how strong is the Cube Commonwealth Cube?
 
 <!-- EDITOR: card count --> cards at roughly <!-- EDITOR: tier --> power. The one-line description at the top says the rest.
 
-### Does the Cube Commonwealth cube have power, fast mana, or combo?
+### Does the Cube Commonwealth Cube have power, fast mana, or combo?
 
 <!-- EDITOR: yes or no for each, one line. -->
 
@@ -126,7 +126,7 @@ Two pods at twelve or more. Between nine and eleven, <!-- EDITOR: the fallback -
 
 Yes. Say so in the Discord thread and sit behind a regular. If a seat opens, it is yours.
 
-### Why isn't <!-- EDITOR: the card asked about most --> in the cube?
+### Why isn't <!-- EDITOR: the card asked about most --> in the Cube?
 
 <!-- EDITOR: one or two sentences, the same answer the changelog gives. -->
 
@@ -135,10 +135,10 @@ Yes. Say so in the Discord thread and sit behind a regular. If a seat opens, it 
 - Full list and visual spoiler: <!-- EDITOR: CubeCobra link -->
 - Changelog: <!-- EDITOR: CubeCobra blog link -->
 - Discord: <!-- EDITOR: invite link -->
-- How to join, where we meet, and what to bring: [cube draft in Indianapolis](/articles/cube-draft-indianapolis/)
+- How to join, where we meet, and what to bring: [Cube draft in Indianapolis](/articles/cube-draft-indianapolis/)
 
 ## Why this document exists
 
-A primer is the cube's standing invitation: it tells a stranger what they are walking into and tells a regular the list is still being thought about. Ours is short on purpose and will be edited the same day the cube is. The game is the reason. The people are the point.
+A primer is the Cube's standing invitation: it tells a stranger what they are walking into and tells a regular the list is still being thought about. Ours is short on purpose and will be edited the same day the Cube is. The game is the reason. The people are the point.
 
-If you want to know when the list changes, when seats open, and when The Ludarium's lounge in Indianapolis gives this cube a permanent table, subscribe to the newsletter. Short emails. Then join the Discord, react to the weekly post, and come draft with us.
+If you want to know when the list changes, when seats open, and when The Ludarium's lounge in Indianapolis gives this Cube a permanent table, subscribe to the newsletter. Short emails. Then join the Discord, react to the weekly post, and come draft with us.

@@ -1,18 +1,18 @@
 ---
 title: "Fast Mana in Cube: Moxen, Rituals, and the Line"
-description: "Fast mana in cube, card by card: Moxen, Sol Ring, rituals, Signets, and Elves. What each one does to game speed, and four sensible places to draw your own line."
+description: "Fast mana in Cube, card by card: Moxen, Sol Ring, rituals, Signets, and Elves. What each one does to game speed, and four sensible places to draw your own line."
 pubDate: 2026-10-21
 category: Magic & Cube
-tags: ["fast mana cube", "Moxen in cube", "Sol Ring cube", "rituals in cube", "mana rocks cube", "cube acceleration", "Cube Commonwealth"]
+tags: ["fast mana Cube", "Moxen in Cube", "Sol Ring Cube", "rituals in Cube", "mana rocks Cube", "Cube acceleration", "Cube Commonwealth"]
 draft: false
 ---
-Fast mana in a cube is any card that gives you more mana this turn than it cost. The decision about how much of it to include is the single biggest lever on how fast your games end and how much the draft rewards the player who opened the right pack. This article lists the fast mana by tier, says what each tier does to a table, and gives four defensible places to stop.
+Fast mana in a Cube is any card that gives you more mana this turn than it cost. The decision about how much of it to include is the single biggest lever on how fast your games end and how much the draft rewards the player who opened the right pack. This article lists the fast mana by tier, says what each tier does to a table, and gives four defensible places to stop.
 
 A quick definition first. A land is not fast mana; it is your one drop per turn. A Signet is barely fast mana; it costs two and gives one back the same turn, netting zero, and only accelerates from turn three. A Mox is fast mana in its purest form: zero in, one out, every turn, forever.
 
-## Why does fast mana matter more in cube than in constructed?
+## Why does fast mana matter more in Cube than in constructed?
 
-In a constructed deck you choose to play four copies of a mana rock and build around it. In a cube, fast mana is a draft pick that one player at the table gets and seven do not. The question is not "is Sol Ring good" but "is it fair that the Sol Ring deck is a turn ahead in every game it draws it, and nobody else at the table had that option."
+In a constructed deck you choose to play four copies of a mana rock and build around it. In a Cube, fast mana is a draft pick that one player at the table gets and seven do not. The question is not "is Sol Ring good" but "is it fair that the Sol Ring deck is a turn ahead in every game it draws it, and nobody else at the table had that option."
 
 That is the real design question. Fast mana is a variance dial. More of it means more games decided by who drew the accelerant. Less means more games decided by play. Neither is wrong. [Variance is a dial, not a flaw](/articles/variance-in-cube-design/), and this is the dial.
 
@@ -27,7 +27,7 @@ These cards cost zero or one and tap for mana every turn. They are the Power-lev
 - **Mox Diamond**: zero mana, but you discard a land as it enters or it goes to the graveyard; taps for any color.
 - **Chrome Mox**: zero mana, exile a nonland card from hand as it enters, taps for that card's colors.
 
-Every one of these is in the current 540-card MTGO Vintage Cube ([card list](https://www.mtgo.com/vintage-cube-cardlist)). A cube that includes tier one is a Vintage cube, whatever else it does. The turn-one play of Mox into Sol Ring into a three-drop is the format's signature.
+Every one of these is in the current 540-card MTGO Vintage Cube ([card list](https://www.mtgo.com/vintage-cube-cardlist)). A Cube that includes tier one is a Vintage Cube, whatever else it does. The turn-one play of Mox into Sol Ring into a three-drop is the format's signature.
 
 ## Tier two: the big one-shot and the tapped rocks
 
@@ -45,7 +45,7 @@ Tier two is where most of the Legacy-band arguments happen. The rituals are the 
 
 ## Tier three: the two-mana rocks and the mana creatures
 
-This is the acceleration that an unpowered cube can run freely.
+This is the acceleration that an unpowered Cube can run freely.
 
 - **The ten Signets**: two mana for an artifact that, for one mana, taps for the two colors of its guild. Net zero on the turn it enters, plus one from turn three.
 - **The Talismans**: two mana, tap for colorless, or for one of two colors at the cost of one life. Same curve as Signets, no activation cost.
@@ -54,7 +54,7 @@ This is the acceleration that an unpowered cube can run freely.
 - **Llanowar Elves, Elvish Mystic, Fyndhorn Elves, Noble Hierarch, Birds of Paradise, Deathrite Shaman**: one mana for a creature that taps for one. Turn-one Elf into turn-two three-drop is the green plan, and it dies to a Shock.
 - **Lotus Cobra**: two mana, each landfall adds one mana. Explosive with fetchlands.
 
-Tier three is the floor of acceleration a cube needs. Without it, ramp decks and five-mana planeswalkers are not playable, and the format collapses to two-drops and removal. Most Legacy-band cubes run all ten Signets or all ten Talismans plus six to eight mana creatures. That is a house guideline, and it scales with cube size.
+Tier three is the floor of acceleration a Cube needs. Without it, ramp decks and five-mana planeswalkers are not playable, and the format collapses to two-drops and removal. Most Legacy-band Cubes run all ten Signets or all ten Talismans plus six to eight mana creatures. That is a house guideline, and it scales with Cube size.
 
 ## What does each tier do to game speed?
 
@@ -65,15 +65,15 @@ Tier three is the floor of acceleration a cube needs. Without it, ramp decks and
 | Two | Mana Vault turn 1 | Turn 2 | Combo and big artifacts |
 | One | Mox, Sol Ring turn 1 | Turn 1 or 2 | Whoever opened it |
 
-The table is a simplification, but it points at the real effect. Each tier you add moves the game a turn faster for the player who drew it, and leaves everyone else where they were. [Aggro in cube](/articles/aggro-in-cube/) is the archetype that pays the price, because aggro wins by being faster than fair decks and fast mana makes unfair decks faster than aggro.
+The table is a simplification, but it points at the real effect. Each tier you add moves the game a turn faster for the player who drew it, and leaves everyone else where they were. [Aggro in Cube](/articles/aggro-in-cube/) is the archetype that pays the price, because aggro wins by being faster than fair decks and fast mana makes unfair decks faster than aggro.
 
 ## Four places to draw the line
 
-**Line A: Full power.** All three tiers. This is the MTGO Vintage Cube. You accept the lottery because the famous cards are the point. In a 540-card cube with eight drafters, about two-thirds of the cards get opened, so most of the tier-one cards are in someone's pool every draft.
+**Line A: Full power.** All three tiers. This is the MTGO Vintage Cube. You accept the lottery because the famous cards are the point. In a 540-card Cube with eight drafters, about two-thirds of the cards get opened, so most of the tier-one cards are in someone's pool every draft.
 
-**Line B: No Power, keep Sol Ring and Vault.** The "Legacy plus" line. Games are a turn slower than Vintage and the one Sol Ring in the cube is a first pick in any seat. This line is coherent only if you also keep the payoffs: big artifacts, six-drop planeswalkers.
+**Line B: No Power, keep Sol Ring and Vault.** The "Legacy plus" line. Games are a turn slower than Vintage and the one Sol Ring in the Cube is a first pick in any seat. This line is coherent only if you also keep the payoffs: big artifacts, six-drop planeswalkers.
 
-**Line C: No tier one, no tier two except Dark Ritual.** The common Legacy or unpowered line. Signets, Talismans, Elves and Ritual stay. This is what we recommend for a weekly cube with mixed experience levels. Ritual survives because black aggro and reanimator both want it and neither is oppressive without Necropotence.
+**Line C: No tier one, no tier two except Dark Ritual.** The common Legacy or unpowered line. Signets, Talismans, Elves and Ritual stay. This is what we recommend for a weekly Cube with mixed experience levels. Ritual survives because black aggro and reanimator both want it and neither is oppressive without Necropotence.
 
 **Line D: Tier three only, no rituals.** The Modern and Pauper line. Nothing nets mana the turn it enters. Mana creatures and two-mana rocks are the whole acceleration suite. Games are decided on the board.
 
@@ -87,16 +87,16 @@ Both, and that is the problem. It costs one and taps for two, so it nets one on 
 
 ### Are Signets fast mana?
 
-Barely. A Signet costs two and gives one back the same turn, so it does not accelerate until turn three. Most cube owners treat Signets as the fair baseline rather than as fast mana.
+Barely. A Signet costs two and gives one back the same turn, so it does not accelerate until turn three. Most Cube owners treat Signets as the fair baseline rather than as fast mana.
 
-### How many mana rocks should an unpowered 540-card cube run?
+### How many mana rocks should an unpowered 540-card Cube run?
 
-A common house guideline is ten Signets or Talismans plus three to five colorless rocks, with six to eight mana creatures in green. That is roughly 20 to 25 acceleration slots, about four percent of the cube.
+A common house guideline is ten Signets or Talismans plus three to five colorless rocks, with six to eight mana creatures in green. That is roughly 20 to 25 acceleration slots, about four percent of the Cube.
 
-### Should Dark Ritual be in a Pauper cube?
+### Should Dark Ritual be in a Pauper Cube?
 
-Dark Ritual has a common printing and many Pauper cubes include it. With no Necropotence-style payoff at common, it is a fair card that makes a turn-one three-drop possible.
+Dark Ritual has a common printing and many Pauper Cubes include it. With no Necropotence-style payoff at common, it is a fair card that makes a turn-one three-drop possible.
 
 ## See the lines at a table
 
-The argument about where to draw the line is better had across a table than in a comment thread. Subscribe to The Ludarium newsletter for new cube pieces, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, sets its first night as part of The Ludarium. The game is the reason. The people are the point.
+The argument about where to draw the line is better had across a table than in a comment thread. Subscribe to The Ludarium newsletter for new Cube pieces, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis Cube group, sets its first night as part of The Ludarium. The game is the reason. The people are the point.

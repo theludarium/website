@@ -15,7 +15,7 @@ Memberships vary by venue, but the core bundle looks similar wherever the model 
 - **Unlimited table time** during open hours, with no per-visit cover.
 - **Library access**, usually a few hundred curated games with staff who teach them.
 - **Reservations** for tables, including the big ones, ahead of non-members.
-- **Member events**: league nights, campaign tables, learn-to-play sessions, cube drafts.
+- **Member events**: league nights, campaign tables, learn-to-play sessions, Cube drafts.
 - **Guest passes**, so you can bring a friend without charging them.
 - **Discounts** on food, drink, and retail if the venue sells games.
 - **Storage** for your own campaign box or deck, in the higher tiers.

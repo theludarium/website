@@ -1,14 +1,14 @@
 ---
 title: "Battle Box Magic: No Deckbuilding, Just Play"
-description: "Battle box Magic means no deckbuilding, just play. Shared-library rules, the ten-land setup, and how to build a 150-card box that plays better than most cubes."
+description: "Battle box Magic means no deckbuilding, just play. Shared-library rules, the ten-land setup, and how to build a 150-card box that plays better than most Cubes."
 pubDate: 2026-10-18
 category: Magic & Cube
 tags: ["battle box", "danger room magic", "battle box rules", "shared library format", "battle box card list", "two player magic format", "Cube Commonwealth"]
 draft: true
 ---
-A battle box is a single shuffled stack of spells that two players both draw from, plus a set of lands that sits outside the game. There is no draft and no deck. You sit down, each take your ten lands, draw four cards from the shared pile, and play. Setup is under a minute, which makes battle box the fastest Magic format there is and one of the most underrated things a cube owner can build.
+A battle box is a single shuffled stack of spells that two players both draw from, plus a set of lands that sits outside the game. There is no draft and no deck. You sit down, each take your ten lands, draw four cards from the shared pile, and play. Setup is under a minute, which makes battle box the fastest Magic format there is and one of the most underrated things a Cube owner can build.
 
-The format's best-known champion is Brian DeMars, who named his own box the Danger Room and wrote about it for [Star City Games in June 2014](https://articles.starcitygames.com/articles/the-danger-room/), noting that Hall of Famer Ben Stark had praised the format and said he preferred it to cube drafting. Those articles are still the starting point. This one covers the rules, then the construction decisions that separate a box that gets played for years from one that gets played twice.
+The format's best-known champion is Brian DeMars, who named his own box the Danger Room and wrote about it for [Star City Games in June 2014](https://articles.starcitygames.com/articles/the-danger-room/), noting that Hall of Famer Ben Stark had praised the format and said he preferred it to Cube drafting. Those articles are still the starting point. This one covers the rules, then the construction decisions that separate a box that gets played for years from one that gets played twice.
 
 ## How does a battle box work?
 
@@ -25,7 +25,7 @@ The [Draftsim overview](https://draftsim.com/battle-box-mtg/) collects several p
 
 ## What makes a card good in a battle box?
 
-The format changes card evaluation more than any cube does, because of two facts: every player has perfect mana, and every card you draw was chosen for the whole pool rather than for a deck.
+The format changes card evaluation more than any Cube does, because of two facts: every player has perfect mana, and every card you draw was chosen for the whole pool rather than for a deck.
 
 **Perfect mana rewards the five-color card.** A player always has access to five colors by turn five, with the tapped duals and basics in the stack. That makes off-color kicker cards (the Invasion Battlemages, Agonizing Demise with its red kicker) and modal spells (the Commands, the Charms, split cards like Fire // Ice) the best cards in the box. They are never dead, and the decision of which mode to pick is the game.
 
@@ -33,7 +33,7 @@ The format changes card evaluation more than any cube does, because of two facts
 
 **Shared library breaks several mechanics.** Tutors find a card for you from a pile that is also your opponent's deck, which is strange but mostly fine. Mill is pointless. Scry and surveil, in quantity, let one player sculpt both players' draws. Land search finds nothing. Most boxes cut all of it and keep perhaps one or two scry effects at low density.
 
-DeMars's stated target is that most cards sit at the power of an uncommon you would happily first-pick in a booster draft. A box built out of your cube's strongest 150 cards will be a worse battle box than one built from the uncommon layer of a peasant cube.
+DeMars's stated target is that most cards sit at the power of an uncommon you would happily first-pick in a booster draft. A box built out of your Cube's strongest 150 cards will be a worse battle box than one built from the uncommon layer of a peasant Cube.
 
 ## How do you build a 150-card battle box?
 
@@ -67,17 +67,17 @@ The battle box community has converged on a list of things that make games worse
 - **Bombs that end the game alone.** One Grave Titan in 150 cards means one game in forty is decided by who drew it. A box with none is more fun than a box with four.
 - **Tutors, mill, scry, and surveil.** All interact badly with the shared library.
 
-The opposite instinct, "put in only fair cards," has a failure mode too: a box of vanilla creatures and Shocks is boring in a week. The fix is decisions, not power. A card like Fire // Ice is weak by cube standards and one of the best cards in any battle box.
+The opposite instinct, "put in only fair cards," has a failure mode too: a box of vanilla creatures and Shocks is boring in a week. The fix is decisions, not power. A card like Fire // Ice is weak by Cube standards and one of the best cards in any battle box.
 
-## How is a battle box different from a cube?
+## How is a battle box different from a Cube?
 
-A cube is a draft environment; the drafting and the building are most of the game. A battle box deletes both and keeps only the play. That is a trade, and for some nights it is the right one:
+A Cube is a draft environment; the drafting and the building are most of the game. A battle box deletes both and keeps only the play. That is a trade, and for some nights it is the right one:
 
 - Two players, twenty minutes, no table space for a draft: battle box.
 - A new player who can follow combat but not a 45-card pick sequence: battle box.
-- Eight friends with an evening: cube, and we have written about [running one](/articles/how-to-run-a-cube-draft/).
+- Eight friends with an evening: Cube, and we have written about [running one](/articles/how-to-run-a-cube-draft/).
 
-The two can live in the same box. A 150-card battle box pulls easily from the commons and uncommons a cube cut last year, and a Winston draft of a battle box works fine when two players want a little deckbuilding back.
+The two can live in the same box. A 150-card battle box pulls easily from the commons and uncommons a Cube cut last year, and a Winston draft of a battle box works fine when two players want a little deckbuilding back.
 
 ## FAQ
 
@@ -99,6 +99,6 @@ It is one of the best ways to teach Magic, because mana problems are gone and ev
 
 ## One pile, one minute, play
 
-A battle box is a cube owner's second box: the one that lives in a backpack and comes out when the draft falls through. The game is the reason. The people are the point.
+A battle box is a Cube owner's second box: the one that lives in a backpack and comes out when the draft falls through. The game is the reason. The people are the point.
 
 Subscribe to the Ludarium newsletter for new format or build ideas, and if you are in Indianapolis, bring your box to a [Cube Commonwealth](/articles/cube-draft-indianapolis/) night; there is always a side table.
