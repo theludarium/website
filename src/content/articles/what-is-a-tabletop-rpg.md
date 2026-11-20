@@ -98,6 +98,8 @@ You can also play some RPGs alone. Our guide to [solo RPGs](/articles/solo-rpg/)
 
 The cheapest way in is a [one page RPG](/articles/one-page-rpgs/): print a sheet, grab some dice, and play tonight.
 
+**Looking for a book that reads like a campaign?** [Dungeon Crawler Carl](/articles/dungeon-crawler-carl-for-rpg-players/) is a novel series built from everything RPG players know: levels, loot, a party, and a game master who enjoys the chaos.
+
 ## FAQ
 
 ### Is D&D the same thing as a tabletop RPG?
