@@ -69,6 +69,6 @@ Play the deck at least five times before you change it. Keep a list of cards tha
 
 Many playgroups allow clearly marked stand-in cards so a player can test a card before buying it. That is a table agreement, not a rule, and store events have their own policies. Our article on [proxy ethics and etiquette](/articles/mtg-proxies-ethics/) covers the norms. Ask first, every time.
 
-If you would rather draft your Commander deck than build it, a [Commander cube](/articles/commander-cube/) lets a group draft multiplayer decks from one shared box. And when your table starts talking more than playing, our piece on [Commander politics](/articles/commander-politics/) is worth a read.
+If you would rather draft your Commander deck than build it, a [Commander Cube](/articles/commander-cube/) lets a group draft multiplayer decks from one shared box. And when your table starts talking more than playing, our piece on [Commander politics](/articles/commander-politics/) is worth a read.
 
 If you want a starting point to build from instead of a blank page, any of the [Foundations Commander decks](https://www.amazon.com/dp/B0GXCBW828?tag=cubecommonw0a-20) from the first lesson makes a good base, and the [decklists are on the Magic site](https://magic.wizards.com/en/news/announcements/foundations-commander-decklists).

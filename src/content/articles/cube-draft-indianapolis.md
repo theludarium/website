@@ -1,20 +1,20 @@
 ---
 title: "Cube Draft Indianapolis: Cube Commonwealth and How to Join"
-description: "Looking for a cube draft in Indianapolis? Cube Commonwealth is a weekly Magic cube community relaunching now. How to join us, plus other local Magic venues."
+description: "Looking for a Cube draft in Indianapolis? Cube Commonwealth is a weekly Magic Cube community relaunching now. How to join us, plus other local Magic venues."
 pubDate: 2026-10-18
 category: Magic & Cube
-tags: ["cube draft Indianapolis", "Magic cube Indianapolis", "Cube Commonwealth Indianapolis", "cube night Indy", "Magic draft group Indianapolis", "where to play cube Indianapolis", "Cube Commonwealth"]
+tags: ["Cube draft Indianapolis", "Magic Cube Indianapolis", "Cube Commonwealth Indianapolis", "Cube night Indy", "Magic draft group Indianapolis", "where to play Cube Indianapolis", "Cube Commonwealth"]
 draft: true
 ---
-If you are looking for a cube draft in Indianapolis, there is one, and it is open. Cube Commonwealth is a Magic: The Gathering cube community that met weekly for about three years, seating 12 to 16 players a night from a Discord of roughly 300 mostly local members. After a pause, we are relaunching as a branch of The Ludarium. You need no cards, no experience, and no money for packs. You need to show up.
+If you are looking for a Cube draft in Indianapolis, there is one, and it is open. Cube Commonwealth is a Magic: The Gathering Cube community that met weekly for about three years, seating 12 to 16 players a night from a Discord of roughly 300 mostly local members. After a pause, we are relaunching as a branch of The Ludarium. You need no cards, no experience, and no money for packs. You need to show up.
 
 This page covers what the night is, how to join, what to expect your first time, and where else in the metro to play Magic on the nights we are not drafting.
 
 ## What is Cube Commonwealth?
 
-A cube is a curated set of a few hundred Magic cards that a group drafts over and over, with no packs to buy. One person owns the box; everyone drafts from it. Cube Commonwealth is the group that formed around one such cube in Indianapolis, and then around each other.
+A Cube is a curated set of a few hundred Magic cards that a group drafts over and over, with no packs to buy. One person owns the box; everyone drafts from it. Cube Commonwealth is the group that formed around one such Cube in Indianapolis, and then around each other.
 
-The short history: a kitchen table, a budget cube, and a weeknight that kept happening. Then a public venue, two pods most weeks, a change log people argued about, a traveling trophy of no value, and a Discord that grew to about 300. Then a stretch where the night depended on one person's calendar, and the calendar won. We paused. We are back, with more than one host this time. The long version is in [Cube Commonwealth: a community around one cube](/articles/cube-commonwealth/), and the relaunch plan is in [relaunching a game community](/articles/relaunching-a-game-community/).
+The short history: a kitchen table, a budget Cube, and a weeknight that kept happening. Then a public venue, two pods most weeks, a change log people argued about, a traveling trophy of no value, and a Discord that grew to about 300. Then a stretch where the night depended on one person's calendar, and the calendar won. We paused. We are back, with more than one host this time. The long version is in [Cube Commonwealth: a community around one Cube](/articles/cube-commonwealth/), and the relaunch plan is in [relaunching a game community](/articles/relaunching-a-game-community/).
 
 ## When and where does Cube Commonwealth meet?
 
@@ -45,11 +45,11 @@ There is no application, no tryout, and no card requirement. If you have never p
 
 Bring nothing. A playmat if you own one. Something to track life with, though someone will lend you dice. If the venue sells food or drink, buy something; that is how we keep the table. <!-- EDITOR: confirm cost norm -->
 
-The cube itself: <!-- EDITOR: add detail (cube size, power level, CubeCobra link) -->
+The Cube itself: <!-- EDITOR: add detail (Cube size, power level, CubeCobra link) -->
 
 ## Is there a cost?
 
-<!-- EDITOR: confirm --> There is no entry fee for the draft. The cube is provided. If we are in a venue that serves food or drink, the norm is that everyone buys something, because sixteen people at a table for three hours is a cost to the venue and we want to be invited back.
+<!-- EDITOR: confirm --> There is no entry fee for the draft. The Cube is provided. If we are in a venue that serves food or drink, the norm is that everyone buys something, because sixteen people at a table for three hours is a cost to the venue and we want to be invited back.
 
 *If this is useful, the newsletter sends more like it.*
 
@@ -74,13 +74,13 @@ Cube Commonwealth is one night a week. For the other six, Indianapolis has a sto
 
 - **[The Game Preserve](https://www.gamepreserve.com/)**, Greenwood. Tournaments and league nights, with a second location near the Fashion Mall.
 
-None of these stores runs a regular cube night that we know of, which is the gap Cube Commonwealth fills. Stores schedule what sells product, and a cube sells nothing. That is also why we care about venues the way we do.
+None of these stores runs a regular Cube night that we know of, which is the gap Cube Commonwealth fills. Stores schedule what sells product, and a Cube sells nothing. That is also why we care about venues the way we do.
 
 ## How does Cube Commonwealth fit into The Ludarium?
 
 The Ludarium is a game lounge venture starting in Indianapolis: membership-based spaces for adults to play tabletop games together, regularly, the way coworking gave remote workers a place to work together. Cube Commonwealth is where that idea was tested before it had a name. One shared object, a fixed night, a host who cares about the people more than the matches, and rituals that make the evening belong to everyone.
 
-When the lounge opens, the cube will have a shelf and the night will have a permanent table. Until then, Cube Commonwealth is a Ludarium branch running in a borrowed room, which is how most good things start.
+When the lounge opens, the Cube will have a shelf and the night will have a permanent table. Until then, Cube Commonwealth is a Ludarium branch running in a borrowed room, which is how most good things start.
 
 ## What if you are visiting, not local?
 
@@ -88,15 +88,15 @@ Come anyway. Gen Con brings tens of thousands of tabletop players to downtown In
 
 ## FAQ
 
-### Is there a cube draft in Indianapolis?
+### Is there a Cube draft in Indianapolis?
 
-Yes. Cube Commonwealth is a weekly Magic cube community in Indianapolis, relaunching now as a branch of The Ludarium. Join its Discord to see the weekly post.
+Yes. Cube Commonwealth is a weekly Magic Cube community in Indianapolis, relaunching now as a branch of The Ludarium. Join its Discord to see the weekly post.
 
 ### Do I need my own Magic cards to join Cube Commonwealth?
 
-No. The cube is the collection. You draft from the shared pool and leave with nothing but a record and an opinion about what should get cut.
+No. The Cube is the collection. You draft from the shared pool and leave with nothing but a record and an opinion about what should get cut.
 
-### Can a beginner join an Indianapolis cube draft?
+### Can a beginner join an Indianapolis Cube draft?
 
 Yes. Cube Commonwealth seats new players next to a regular who helps, and runs a dedicated new-player night when enough first-timers sign up.
 
@@ -106,4 +106,4 @@ Good Games downtown, Paradigm Games on N Meridian, Moonshot Games in Noblesville
 
 ## Pull up a chair
 
-The cube is back on the table. Join the Cube Commonwealth Discord <!-- EDITOR: add Discord invite link -->, react to the weekly post, and come draft with us. If you want the night's news, the open-seat announcements, and first word on The Ludarium's lounge in Indianapolis, subscribe to the newsletter. Short emails. The game is the reason. The people are the point.
+The Cube is back on the table. Join the Cube Commonwealth Discord <!-- EDITOR: add Discord invite link -->, react to the weekly post, and come draft with us. If you want the night's news, the open-seat announcements, and first word on The Ludarium's lounge in Indianapolis, subscribe to the newsletter. Short emails. The game is the reason. The people are the point.

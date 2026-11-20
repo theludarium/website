@@ -55,7 +55,7 @@ A few categories are out on purpose.
 
 **Games that only one of us loves.** This is the hardest rule. Every one of us has a favorite nobody else wants to play. Those stay at home. The library is for the members.
 
-**Trading card games as library stock.** Members can and will bring their own decks and run cube drafts, and we will give them tables and a cabinet. But we are not stocking retail product, which brings us to a rule that matters more than any title: we do not sell games. That gets its own article in [why we won't sell games](/articles/why-game-lounges-dont-sell-games/).
+**Trading card games as library stock.** Members can and will bring their own decks and run Cube drafts, and we will give them tables and a cabinet. But we are not stocking retail product, which brings us to a rule that matters more than any title: we do not sell games. That gets its own article in [why we won't sell games](/articles/why-game-lounges-dont-sell-games/).
 
 ## How do we decide what goes on the shelf and what gets cut?
 

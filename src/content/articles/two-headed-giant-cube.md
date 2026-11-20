@@ -1,22 +1,22 @@
 ---
 title: "Two-Headed Giant Cube Draft: Rules and Procedure"
-description: "Two-Headed Giant cube draft from start to finish: two cards a pick, the shared pool, 30 life, the first-turn draw rule, and what to change in your cube to fit."
+description: "Two-Headed Giant Cube draft from start to finish: two cards a pick, the shared pool, 30 life, the first-turn draw rule, and what to change in your Cube to fit."
 pubDate: 2026-10-21
 category: Magic & Cube
-tags: ["two headed giant cube", "Two-Headed Giant draft", "2HG cube", "team cube draft", "shared life total Magic", "Two-Headed Giant rules", "Cube Commonwealth"]
+tags: ["two headed giant Cube", "Two-Headed Giant draft", "2HG Cube", "team Cube draft", "shared life total Magic", "Two-Headed Giant rules", "Cube Commonwealth"]
 draft: false
 ---
-A two headed giant cube draft seats four teams of two around the table, has each team take two cards from every pack, and ends with each pair building two decks from one shared pool. The games are played two against two with a shared 30-life total and simultaneous turns. It is the format that lets a veteran and a newcomer sit on the same side.
+A two headed giant Cube draft seats four teams of two around the table, has each team take two cards from every pack, and ends with each pair building two decks from one shared pool. The games are played two against two with a shared 30-life total and simultaneous turns. It is the format that lets a veteran and a newcomer sit on the same side.
 
-This article gives the official draft procedure, the game rules that most often trip people up, and the adjustments a cube needs so that two-player teams produce good games. For the general family of team formats, see [cube sealed, rotisserie, and team formats](/articles/cube-sealed-rotisserie/).
+This article gives the official draft procedure, the game rules that most often trip people up, and the adjustments a Cube needs so that two-player teams produce good games. For the general family of team formats, see [Cube sealed, rotisserie, and team formats](/articles/cube-sealed-rotisserie/).
 
 ## How does a Two-Headed Giant draft work?
 
-The procedure below follows the Two-Headed Giant tournament rules as summarized on the [MTG Wiki](https://mtg.wiki/page/2hg_play-draw_rule) and the [Magic Judges 2HG FAQ](https://blogs.magicjudges.org/2hg/faq/). The tournament rules recommend six boosters per team; for a cube, use the same count.
+The procedure below follows the Two-Headed Giant tournament rules as summarized on the [MTG Wiki](https://mtg.wiki/page/2hg_play-draw_rule) and the [Magic Judges 2HG FAQ](https://blogs.magicjudges.org/2hg/faq/). The tournament rules recommend six boosters per team; for a Cube, use the same count.
 
 **Setup**
 
-1. Shuffle the cube and deal 24 face-down packs of 15. That is 360 cards.
+1. Shuffle the Cube and deal 24 face-down packs of 15. That is 360 cards.
 2. Form four teams of two. Teammates sit next to each other. The pod is made of teams, not individuals.
 3. Give each team six packs. Each team opens its first pack together.
 
@@ -39,7 +39,7 @@ Recommended build time at tournaments is 40 minutes, which is longer than the us
 
 ## What game rules do people get wrong?
 
-Two-Headed Giant has its own rules in the Comprehensive Rules, section 810. The [MTG Wiki's Two-Headed Giant page](https://mtg.wiki/page/Two-Headed_Giant) covers them. The ones that matter at a cube table:
+Two-Headed Giant has its own rules in the Comprehensive Rules, section 810. The [MTG Wiki's Two-Headed Giant page](https://mtg.wiki/page/Two-Headed_Giant) covers them. The ones that matter at a Cube table:
 
 - **Shared life total of 30.** Damage and life gain happen to the individual player but apply to the team total. A team at 0 or less loses.
 - **Shared turns.** Both teammates take their untap, draw, main phases, and combat at the same time. Each player draws their own card and plays their own land.
@@ -50,11 +50,11 @@ Two-Headed Giant has its own rules in the Comprehensive Rules, section 810. The 
 - **Open hands.** Teammates may look at each other's hands at any time and discuss anything. They may not touch each other's cards.
 - **Single game per match.** Tournament 2HG matches are one game, not best of three. For a casual night, best of three with the shared sideboard is fine and gives new players a second try.
 
-## What has to change in the cube?
+## What has to change in the Cube?
 
-A cube built for one-on-one games mostly works in 2HG, but a few categories play very differently. Nothing here requires a second cube; it requires knowing which cards will swing.
+A Cube built for one-on-one games mostly works in 2HG, but a few categories play very differently. Nothing here requires a second Cube; it requires knowing which cards will swing.
 
-| Category | In 1v1 cube | In 2HG | Example |
+| Category | In 1v1 Cube | In 2HG | Example |
 |---|---|---|---|
 | "Each opponent" drain | Fine | Doubled | Gray Merchant of Asphodel |
 | Symmetrical sweepers | Strong | Very strong; hits two boards | Wrath of God |
@@ -81,7 +81,7 @@ The format exists to put a strong player next to a weak one, so pair them that w
 2. Put couples and friends who asked to play together on the same team regardless of rating. The social goal outranks balance.
 3. Seat the two strongest teams across the table from each other so they are not passing to each other.
 
-The veteran drafts and the newcomer watches for the first pack. By pack two most newcomers are suggesting picks. That shift, happening in the open, is what the format is for. Our longer treatment of onboarding new players is in [learn Magic with a cube](/articles/cube-for-new-magic-players/).
+The veteran drafts and the newcomer watches for the first pack. By pack two most newcomers are suggesting picks. That shift, happening in the open, is what the format is for. Our longer treatment of onboarding new players is in [learn Magic with a Cube](/articles/cube-for-new-magic-players/).
 
 ## How long does it take?
 
@@ -107,12 +107,12 @@ Yes. Tournament rules allow teammates to communicate freely during the draft and
 
 No. The team that plays first skips the draw step on its first turn, for both players.
 
-### How many cards does a Two-Headed Giant cube draft need?
+### How many cards does a Two-Headed Giant Cube draft need?
 
 360 for four teams: 24 packs of 15, six per team. Each team ends with about 90 cards and builds two 40-card decks.
 
 ## Two heads, one table
 
-Two-Headed Giant is the one cube format where the person next to you is on your side. For a group that wants to bring in partners, friends, and first-timers without feeding them to the sharks, nothing else works as well. The game is the reason. The people are the point.
+Two-Headed Giant is the one Cube format where the person next to you is on your side. For a group that wants to bring in partners, friends, and first-timers without feeding them to the sharks, nothing else works as well. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for new pieces on formats and the groups that run them. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.
+Subscribe to The Ludarium newsletter for new pieces on formats and the groups that run them. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

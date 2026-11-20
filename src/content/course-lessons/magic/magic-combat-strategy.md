@@ -72,4 +72,4 @@ Two rules of thumb:
 - **Do not block just because you can.** Life is a resource. At 18 life, taking 3 to keep a creature that wins the race later is often right.
 - **Block to survive when the race is lost.** Chump blocking buys turns. Spend them on drawing the answer.
 
-The skills here carry straight into [draft and sealed](/academy/magic/magic-prerelease-guide/), and they matter even more in a cube, where every creature is strong. Our article on [aggro in cube](/articles/aggro-in-cube/) shows how racing shapes a whole format.
+The skills here carry straight into [draft and sealed](/academy/magic/magic-prerelease-guide/), and they matter even more in a Cube, where every creature is strong. Our article on [aggro in Cube](/articles/aggro-in-cube/) shows how racing shapes a whole format.

@@ -3,7 +3,7 @@ title: "Draft Pod Logistics: 16 Players, Two Pods, One Host"
 description: "Draft pod logistics for the night 12 to 16 people show up. How Cube Commonwealth split pods, ran two drafts with one host, and kept the whole room on time."
 pubDate: 2026-10-18
 category: Magic & Cube
-tags: ["draft pod logistics", "two draft pods", "16 player cube draft", "how to split a draft pod", "running a large cube night", "cube night host checklist", "Cube Commonwealth"]
+tags: ["draft pod logistics", "two draft pods", "16 player Cube draft", "how to split a draft pod", "running a large Cube night", "Cube night host checklist", "Cube Commonwealth"]
 draft: true
 ---
 Draft pod logistics are the problem you get as a reward for solving attendance. For most of Cube Commonwealth's three years as a weekly night in Indianapolis, we seated 12 to 16 players, which meant two pods nearly every week, usually with one host who was also trying to draft. It is doable. It is also the night where a sloppy process costs you an hour, and an hour on a weeknight is the difference between people coming back and people drifting.
@@ -35,7 +35,7 @@ Set a cutoff time for the split, announce it in the weekly post, and hold it. Ou
 Three methods, in rough order of how often we used them.
 
 1. **Random, by draw.** Names from a cup. Fast, fair, and it breaks up the same four friends who would otherwise always draft together. Our default.
-2. **New players together, with one veteran each.** On nights with several first-timers, we put them in one pod with two patient regulars and ran that pod a little slower. The other pod could play at full speed. More on that in [new-player cube night](/articles/cube-for-new-magic-players/).
+2. **New players together, with one veteran each.** On nights with several first-timers, we put them in one pod with two patient regulars and ran that pod a little slower. The other pod could play at full speed. More on that in [new-player Cube night](/articles/cube-for-new-magic-players/).
 3. **By preference, rarely.** Sometimes two people want to draft a specific matchup, or a couple arrived together and wants the same table. We honored it when asked and never advertised it, because once it becomes the norm, the draw stops being random.
 
 Whichever you use, do it once, out loud, and do not renegotiate. "Can I swap with him?" is a five-minute delay times sixteen people.
@@ -44,7 +44,7 @@ Whichever you use, do it once, out loud, and do not renegotiate. "Can I swap wit
 
 The host cannot be in two places, so the goal is a process that runs without the host for stretches of fifteen minutes.
 
-**Before anyone arrives.** Packs are dealt and stacked by pod. Two colors of basic-land boxes, two sets of pairing sheets or a phone app set up for two events, a timer per table. If you own one cube, you need enough cards for sixteen players: 45 picks times 16 is 720 cards, so a 540-card cube does not seat two full pods. Our answer was two cubes. <!-- EDITOR: add detail (our cube list and sizes) --> The alternative is one 720-card cube or a 540 for one pod and a borrowed cube for the other.
+**Before anyone arrives.** Packs are dealt and stacked by pod. Two colors of basic-land boxes, two sets of pairing sheets or a phone app set up for two events, a timer per table. If you own one Cube, you need enough cards for sixteen players: 45 picks times 16 is 720 cards, so a 540-card Cube does not seat two full pods. Our answer was two Cubes. <!-- EDITOR: add detail (our Cube list and sizes) --> The alternative is one 720-card Cube or a 540 for one pod and a borrowed Cube for the other.
 
 **Opening.** One announcement for the whole room: the split, the pick clock, when round one starts, when the night ends. Then both pods open pack one at the same word.
 
@@ -73,9 +73,9 @@ A few recurring failures and their fixes.
 
 **Someone leaves after the draft.** It happens. Life, a kid, a bad night. The pod drops to seven, round-robin pairings get a bye. Say "thanks for coming" and mean it. A group that punishes leaving early is a group people hesitate to join.
 
-**A rules dispute in the pod you are not in.** Name a second judge before the night starts, ideally the most trusted rules player in the other pod. Most disputes in cube are settled by reading the card aloud. For the rest, a quick ruling and a note to look it up later beats a ten-minute debate.
+**A rules dispute in the pod you are not in.** Name a second judge before the night starts, ideally the most trusted rules player in the other pod. Most disputes in Cube are settled by reading the card aloud. For the rest, a quick ruling and a note to look it up later beats a ten-minute debate.
 
-**Decks mixed between cubes.** If you run two cubes, use different sleeve colors. We learned this one the hard way, with a sorting session at midnight.
+**Decks mixed between Cubes.** If you run two Cubes, use different sleeve colors. We learned this one the hard way, with a sorting session at midnight.
 
 **An odd number in both pods.** Combine the byes. The two players sitting out can play each other in a cross-pod exhibition match that does not count. Everyone prefers playing to sitting.
 
@@ -87,7 +87,7 @@ We talk about why that matters for a community's survival in [relaunching a game
 
 ## FAQ
 
-### How many players can one person host at a cube draft?
+### How many players can one person host at a Cube draft?
 
 Sixteen, in two pods, with preparation and a visible clock. Beyond that, you need a second host.
 
@@ -95,11 +95,11 @@ Sixteen, in two pods, with preparation and a visible clock. Beyond that, you nee
 
 Two pods of six, drawn at random. Six-player pods have thinner signals than eight, but two tables finish faster and play better than one table of twelve.
 
-### How many cards do you need for two cube pods?
+### How many cards do you need for two Cube pods?
 
-Each player takes 45 picks, so sixteen players need at least 720 cards. Use a 720-card cube, two separate cubes, or one cube per pod.
+Each player takes 45 picks, so sixteen players need at least 720 cards. Use a 720-card Cube, two separate Cubes, or one Cube per pod.
 
-### How long should a 16-player cube night take?
+### How long should a 16-player Cube night take?
 
 About three and a half hours: 45 minutes to draft, 20 to build, and three 50-minute rounds. Announce a hard end time and keep it.
 

@@ -172,7 +172,7 @@ One warning: the most common Commander mistake is cutting lands to fit one more 
 | Commander | 100 | 36 to 38 plus ramp | 36 to 38% |
 | Cube draft | 40 | 16 to 17 | 40 to 43% |
 
-If you also play cube, our [cube land count](/articles/cube-land-count/) guide covers how a cube's land section changes what drafters can build. And our [guide to MTG formats](/articles/mtg-formats/) explains how each format above is built and played.
+If you also play Cube, our [Cube land count](/articles/cube-land-count/) guide covers how a Cube's land section changes what drafters can build. And our [guide to MTG formats](/articles/mtg-formats/) explains how each format above is built and played.
 
 ## FAQ
 

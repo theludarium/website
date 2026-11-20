@@ -87,6 +87,7 @@ Game sales, stocked inventory or retail, display advertising, donation or Patreo
   - Lamplight and Stone are too light for text on Parchment. In light mode use the deeper tints in `src/styles/tokens.css` for small text; never set body text in Lamplight or Stone on Parchment.
 - **Tone:** warm, smart, a little playful. Inviting to newcomers, credible to hobbyists. Never gatekeepy.
 - **Writing rules:** no em dashes anywhere (copy, headings, metadata, alt text). Plain words, short sentences.
+- **Cube is capitalized** when it means the Magic: The Gathering format, everywhere: Cube, Cubes, Cuber, Cubers, Cubing ("a Cube draft", "powered Cube"). Keep it lowercase for game pieces (Pandemic disease cubes, wooden cubes), cheese cubes, the backgammon doubling cube, shelf cube organizers, and in URLs and slugs.
 
 ## Tech stack
 

@@ -1,12 +1,12 @@
 ---
 title: "3v3 Team Draft for Cube: Rules, Seating, and Scoring"
-description: "3v3 team draft for cube: alternating seats, 270 cards, how the nine matches work, scoring to five, and why every pass to an opponent changes the picks."
+description: "3v3 team draft for Cube: alternating seats, 270 cards, how the nine matches work, scoring to five, and why every pass to an opponent changes the picks."
 pubDate: 2026-10-21
 category: Magic & Cube
-tags: ["team draft", "3v3 team draft", "team draft rules", "cube team draft", "six player cube draft", "team draft scoring", "Cube Commonwealth"]
+tags: ["team draft", "3v3 team draft", "team draft rules", "Cube team draft", "six player Cube draft", "team draft scoring", "Cube Commonwealth"]
 draft: false
 ---
-Team draft seats two teams of three in alternating chairs, so every pack you pass goes to an opponent. After the draft, each player plays each of the three opponents, nine matches in all, and the first team to five match wins takes the night. It is the format where a cube group stops being eight individuals and becomes two sides.
+Team draft seats two teams of three in alternating chairs, so every pack you pass goes to an opponent. After the draft, each player plays each of the three opponents, nine matches in all, and the first team to five match wins takes the night. It is the format where a Cube group stops being eight individuals and becomes two sides.
 
 Six players is the sweet spot for a lot of groups, and team draft is the best thing to do with six. This article gives the procedure, the scoring, and what changes about picks when the person to your left wants you to lose.
 
@@ -22,7 +22,7 @@ The format survived at kitchen tables after the pros moved on because it needs e
 
 1. Form two teams of three. Call them A and B.
 2. Seat them alternating around the table: A1, B1, A2, B2, A3, B3. Every player has an opponent on each side.
-3. Shuffle the cube and deal 18 face-down packs of 15, three per player. That is 270 cards.
+3. Shuffle the Cube and deal 18 face-down packs of 15, three per player. That is 270 cards.
 
 **Drafting**
 
@@ -32,7 +32,7 @@ The format survived at kitchen tables after the pros moved on because it needs e
 
 **Building**
 
-Each player builds a 40-card deck from their own picks plus basic lands. Teammates may help each other build and may look at each other's pools. They may not swap cards. Tournament guidance allows 40 minutes for team draft building; 30 is enough for a cube table that knows the cards.
+Each player builds a 40-card deck from their own picks plus basic lands. Teammates may help each other build and may look at each other's pools. They may not swap cards. Tournament guidance allows 40 minutes for team draft building; 30 is enough for a Cube table that knows the cards.
 
 **Playing**
 
@@ -55,17 +55,17 @@ In a normal eight-player draft, the players on either side of you are rivals for
 
 **Signals lie.** In a normal draft, a late good card is a signal that the color is open. In team draft it might be a trap: an opponent passing you a strong red card so you move into red and fight your own teammate for it. Veterans read signals from the opposing team with suspicion.
 
-**Pool quality is lower.** Six drafters from 270 cards see less of the cube than eight from 360 do, and everyone is hate-drafting, so playables run short. Expect 40-card decks with 17 lands and a 23rd card you are not proud of. That is the format working.
+**Pool quality is lower.** Six drafters from 270 cards see less of the Cube than eight from 360 do, and everyone is hate-drafting, so playables run short. Expect 40-card decks with 17 lands and a 23rd card you are not proud of. That is the format working.
 
 *If this is useful, the newsletter sends more like it.*
 
 ## How do you keep the rivalry friendly?
 
-Team draft is louder than any other cube format, and the volume is the point. A few things keep it on the right side of fun:
+Team draft is louder than any other Cube format, and the volume is the point. A few things keep it on the right side of fun:
 
 - **Fixed teams for a season, then reshuffle.** Three months of the same three against the same three builds a real rivalry. Longer than that and it hardens. Reshuffle quarterly, and announce it as a rule in advance.
 - **Captains pick.** Two captains alternate choosing players. It takes two minutes and gives the night a draft-within-a-draft.
-- **A standing record.** A whiteboard or a pinned Discord message with the running team score. Our approach to tracking results without a tournament feel is in [cube draft pairings and records](/articles/draft-pairings-and-records/).
+- **A standing record.** A whiteboard or a pinned Discord message with the running team score. Our approach to tracking results without a tournament feel is in [Cube draft pairings and records](/articles/draft-pairings-and-records/).
 - **Teammates watch, not coach.** Once a match starts, teammates whose matches have finished may watch but not advise. The rule from sanctioned play is that a teammate who may have gained hidden information stops communicating. Casually: stand behind your own player, say nothing about the opponent's hand.
 - **Decide trash-talk rules out loud.** Some groups want silence. Most want noise. Say which before the draft.
 
@@ -80,7 +80,7 @@ Team draft is louder than any other cube format, and the volume is the point. A 
 
 Four-on-four with the full 16 matches is a long night. The common fix is three rounds, so each player faces three of the four opponents, and the first team to seven wins out of twelve.
 
-With seven, the seventh player drafts normally and plays one match against each side's weakest record as a tiebreaker, or sits out the matches and runs the night. Two-player teams across the table from each other are the structure in [Two-Headed Giant cube draft](/articles/two-headed-giant-cube/); it suits a group that wants teams but would rather share a board than pass to an enemy.
+With seven, the seventh player drafts normally and plays one match against each side's weakest record as a tiebreaker, or sits out the matches and runs the night. Two-player teams across the table from each other are the structure in [Two-Headed Giant Cube draft](/articles/two-headed-giant-cube/); it suits a group that wants teams but would rather share a board than pass to an enemy.
 
 ## FAQ
 
@@ -102,6 +102,6 @@ Not during the draft. Teammates may talk freely during deck-building and between
 
 ## Three on three, one evening
 
-Team draft takes the quietest part of cube night, the draft itself, and turns it into the loudest. Every pass is a small act against someone you will play in an hour. The game is the reason. The people are the point.
+Team draft takes the quietest part of Cube night, the draft itself, and turns it into the loudest. Every pass is a small act against someone you will play in an hour. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for new formats and house rules you can run from the page. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.
+Subscribe to The Ludarium newsletter for new formats and house rules you can run from the page. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

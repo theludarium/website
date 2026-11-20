@@ -67,7 +67,7 @@ Soft materials matter more than square footage. Curtains, rugs, fabric panels, a
 
 ## Lesson 9: Weeknights are won by regulars, not walk-ins
 
-Friday and Saturday fill themselves. Tuesday does not. The owners who make rent have a reason to come on every weeknight: a league, a campaign table, a learn-to-play session, a cube draft, a trivia night that uses games as rounds.
+Friday and Saturday fill themselves. Tuesday does not. The owners who make rent have a reason to come on every weeknight: a league, a campaign table, a learn-to-play session, a Cube draft, a trivia night that uses games as rounds.
 
 Give each night a name and a host. The host's job is to be there every week, remember names, and welcome the person who came alone. That one person, reliably present, builds more loyalty than any marketing budget.
 

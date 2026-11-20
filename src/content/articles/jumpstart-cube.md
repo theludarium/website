@@ -1,28 +1,28 @@
 ---
 title: "Jumpstart Cube: Pre-Built Packs, 15-Minute Setup"
-description: "How to build a Jumpstart cube: 20 themed 20-card packs, the pack formula, converting an existing cube, and why it is the fastest Magic setup there is."
+description: "How to build a Jumpstart Cube: 20 themed 20-card packs, the pack formula, converting an existing Cube, and why it is the fastest Magic setup there is."
 pubDate: 2026-10-21
 category: Magic & Cube
-tags: ["Jumpstart cube", "jumpstart pack formula", "jumpstart cube themes", "convert cube to jumpstart", "quick magic format", "two-pack decks", "Cube Commonwealth"]
+tags: ["Jumpstart Cube", "jumpstart pack formula", "jumpstart Cube themes", "convert Cube to jumpstart", "quick magic format", "two-pack decks", "Cube Commonwealth"]
 draft: false
 ---
-A Jumpstart cube is a box of themed 20-card half-decks. Each player grabs two, shuffles them together, and has a 40-card deck in the time it takes to find dice. No draft, no deckbuilding, no forty-five minutes of picks before anyone casts a spell. For a weeknight when two people show up late and one has to leave early, a Jumpstart cube is the format that still gets played.
+A Jumpstart Cube is a box of themed 20-card half-decks. Each player grabs two, shuffles them together, and has a 40-card deck in the time it takes to find dice. No draft, no deckbuilding, no forty-five minutes of picks before anyone casts a spell. For a weeknight when two people show up late and one has to leave early, a Jumpstart Cube is the format that still gets played.
 
-This article is about building one: how many packs, what goes in each, how to convert a cube you already own, and the mistakes that make Jumpstart decks feel like piles instead of decks. If you want the general case for constrained cubes, [our themed cube overview](/articles/themed-cube-ideas/) covers it. This is the specific one.
+This article is about building one: how many packs, what goes in each, how to convert a Cube you already own, and the mistakes that make Jumpstart decks feel like piles instead of decks. If you want the general case for constrained Cubes, [our themed Cube overview](/articles/themed-cube-ideas/) covers it. This is the specific one.
 
-## What is a Jumpstart cube, exactly?
+## What is a Jumpstart Cube, exactly?
 
-Wizards [released Jumpstart in July 2020](https://magic.wizards.com/en/news/announcements/introducing-jumpstart-new-way-play-magic-2020-02-20) as a retail product: 20-card boosters with a theme on the front, meant to be paired two at a time. The cube version takes that idea and makes it singleton, curated, and yours. Instead of a random booster from a box, every pack in the cube is a pack you built.
+Wizards [released Jumpstart in July 2020](https://magic.wizards.com/en/news/announcements/introducing-jumpstart-new-way-play-magic-2020-02-20) as a retail product: 20-card boosters with a theme on the front, meant to be paired two at a time. The Cube version takes that idea and makes it singleton, curated, and yours. Instead of a random booster from a box, every pack in the Cube is a pack you built.
 
 The format at the table is simple. Deal each player three packs face down, they look at the names (or the whole packs, depending on your house rule) and keep one. Deal three more, keep one. Shuffle the two together. Play. The [CubeCobra Jumpstart guide](https://cubecobra.com/content/article/605821e6099bcd10491f3eec) by michael921 is the most thorough community writeup and that three-then-three selection is its default.
 
 Each pack is monocolored. Two packs make a two-color deck, or a mono-color deck when a player takes two of the same color. That is the whole structural idea, and nearly every design decision follows from it.
 
-## How many packs does a Jumpstart cube need?
+## How many packs does a Jumpstart Cube need?
 
-Twenty is the standard starting number: four themes per color, five colors. Twenty packs produce 190 distinct two-pack pairings (20 choose 2), which is enough variety that the same pairing rarely comes up. Twenty packs of twenty cards is 400 cards, which is a normal cube's worth of sleeves.
+Twenty is the standard starting number: four themes per color, five colors. Twenty packs produce 190 distinct two-pack pairings (20 choose 2), which is enough variety that the same pairing rarely comes up. Twenty packs of twenty cards is 400 cards, which is a normal Cube's worth of sleeves.
 
-The CubeCobra guide's practical ceiling is six or seven packs per color, so 30 to 35 total. Past that the overlap design (below) stops being manageable and the pack-selection step slows down. If you want more variety than 35 packs, build a second Jumpstart cube with a different power level rather than a bigger one.
+The CubeCobra guide's practical ceiling is six or seven packs per color, so 30 to 35 total. Past that the overlap design (below) stops being manageable and the pack-selection step slows down. If you want more variety than 35 packs, build a second Jumpstart Cube with a different power level rather than a bigger one.
 
 Four players need eight packs in play at once. With 20 in the box, the three-then-three selection works for up to four players if you shuffle unpicked packs back in before the second choice. For six or eight players, offer two packs per choice instead of three, or grow the box to 30.
 
@@ -38,7 +38,7 @@ The baseline formula from the CubeCobra guide is:
 - 7 basic lands
 - 1 dual land (a Thriving land is the common choice, since it adapts to whichever second pack shows up)
 
-That is 12 spells and 8 lands. Two packs together give 24 spells and 16 lands, which is one land light of a standard 40-card limited deck. Most Jumpstart cubes accept that and run slightly lower curves, or swap one flex slot for a ninth land in packs that top out at five or six mana.
+That is 12 spells and 8 lands. Two packs together give 24 spells and 16 lands, which is one land light of a standard 40-card limited deck. Most Jumpstart Cubes accept that and run slightly lower curves, or swap one flex slot for a ninth land in packs that top out at five or six mana.
 
 Three rules keep packs honest:
 
@@ -56,25 +56,25 @@ Now any two white packs overlap on purpose, and most cross-color pairs find at l
 
 *If this is useful, the newsletter sends more like it.*
 
-## Can you convert a normal cube into a Jumpstart cube?
+## Can you convert a normal Cube into a Jumpstart Cube?
 
-Yes, and it is the fastest path if you already own a 360 or 540. A 360-card cube split five ways gives you about 72 cards per color, which is enough for four 12-spell packs per color with change left over. Archetype cubes convert most cleanly because the two-color archetypes already imply mono-color halves: your Boros aggro lane splits into a red "Haste" pack and a white "Weenie" pack.
+Yes, and it is the fastest path if you already own a 360 or 540. A 360-card Cube split five ways gives you about 72 cards per color, which is enough for four 12-spell packs per color with change left over. Archetype Cubes convert most cleanly because the two-color archetypes already imply mono-color halves: your Boros aggro lane splits into a red "Haste" pack and a white "Weenie" pack.
 
 The conversion steps:
 
 1. Sort by color. Set gold cards aside; most do not fit a monocolored pack. The best use for them is as the eleventh or twelfth spell in a pack where the second color is the pack's most natural partner, but keep that rare.
 2. Within each color, group cards by what they want to do. Four groups per color becomes four pack themes.
 3. Move artifacts and colorless cards into the packs that want them. Mana rocks go in ramp packs, Equipment into aggro packs.
-4. Add 7 basics and one dual to each pack. Buy the duals; your cube's fetchlands and shocklands are wasted here.
+4. Add 7 basics and one dual to each pack. Buy the duals; your Cube's fetchlands and shocklands are wasted here.
 5. Name every pack. The guide suggests pack names with about three nouns for every non-noun word, and names that say what the pack does ("Sneaky Beef" is its favorite).
 
-A converted cube will have leftover rares and bombs that no pack wants. Leave them out. A Jumpstart pack should have at most one or two cards that decide a game by themselves.
+A converted Cube will have leftover rares and bombs that no pack wants. Leave them out. A Jumpstart pack should have at most one or two cards that decide a game by themselves.
 
-## How does the power level compare to a draft cube?
+## How does the power level compare to a draft Cube?
 
-Lower, and that is correct. In a draft, players self-select into decks that can use a powerful card. In Jumpstart, a pack with Grave Titan in it gets paired with whatever the player picked second, and the player did not choose to be a reanimator deck. The CubeCobra guide's retail option notes that official packs run at a lower power level than most cubes, and a flatter power level makes for more even games.
+Lower, and that is correct. In a draft, players self-select into decks that can use a powerful card. In Jumpstart, a pack with Grave Titan in it gets paired with whatever the player picked second, and the player did not choose to be a reanimator deck. The CubeCobra guide's retail option notes that official packs run at a lower power level than most Cubes, and a flatter power level makes for more even games.
 
-A workable house guideline: each 20-card pack carries at most one rare that would be a first-pick in a normal cube. The other eleven spells should be the kind of uncommons and commons that a pauper or peasant cube would run. If you already own a peasant cube, you are most of the way to a Jumpstart cube.
+A workable house guideline: each 20-card pack carries at most one rare that would be a first-pick in a normal Cube. The other eleven spells should be the kind of uncommons and commons that a pauper or peasant Cube would run. If you already own a peasant Cube, you are most of the way to a Jumpstart Cube.
 
 | Decision | Baseline | Why |
 |---|---|---|
@@ -97,24 +97,24 @@ A workable house guideline: each 20-card pack carries at most one rare that woul
 
 ## FAQ
 
-### How many cards are in a Jumpstart cube?
+### How many cards are in a Jumpstart Cube?
 
-The standard build is 20 packs of 20 cards, or 400 cards including lands. Some cubes run 30 or more packs; past about 35, pack selection and design both get unwieldy.
+The standard build is 20 packs of 20 cards, or 400 cards including lands. Some Cubes run 30 or more packs; past about 35, pack selection and design both get unwieldy.
 
-### Do Jumpstart cube packs have to be one color?
+### Do Jumpstart Cube packs have to be one color?
 
 They do not have to be, but monocolored packs are the convention because any two combine into a playable two-color deck. Gold or two-color packs limit which pairings work.
 
-### Can I use the retail Jumpstart boosters as a cube?
+### Can I use the retail Jumpstart boosters as a Cube?
 
-Yes. Twenty unique retail packs make a complete Jumpstart cube with no building required, though the power level is low and the cost per pack is higher than building your own from a collection.
+Yes. Twenty unique retail packs make a complete Jumpstart Cube with no building required, though the power level is low and the cost per pack is higher than building your own from a collection.
 
-### How long does a Jumpstart cube session take?
+### How long does a Jumpstart Cube session take?
 
 Pack selection takes a few minutes and games run 15 to 25 minutes. Three rounds fits comfortably in a 90-minute evening with four players.
 
 ## Fifteen minutes from box to first spell
 
-A Jumpstart cube is the format we reach for when the night is short, the table is uneven, or someone new wants to play Magic without learning to draft first. The game is the reason. The people are the point.
+A Jumpstart Cube is the format we reach for when the night is short, the table is uneven, or someone new wants to play Magic without learning to draft first. The game is the reason. The people are the point.
 
-If you want new cube-building ideas like this, subscribe to the Ludarium newsletter. And if you are in Indianapolis, you will hear first when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, sets its first night as part of The Ludarium.
+If you want new Cube-building ideas like this, subscribe to the Ludarium newsletter. And if you are in Indianapolis, you will hear first when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Cube group, sets its first night as part of The Ludarium.

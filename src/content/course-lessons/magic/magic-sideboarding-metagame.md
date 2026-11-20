@@ -72,4 +72,4 @@ Prereleases are a great place to practice, because every opponent's deck is new 
 
 Before an event, write a short guide for each expected matchup: what comes in, what goes out, and whether you want to play or draw. At most events you may look at brief notes made before the match between games, but not during them, and not in the middle of a draft. A sheet or two at most. The [tournament rules lesson](/academy/magic/magic-tournament-rules/) covers the details.
 
-Cube, where every deck is different, needs a looser approach. Our article on [cube sideboard rules](/articles/cube-sideboard-rules/) covers the house rules many cubes use.
+Cube, where every deck is different, needs a looser approach. Our article on [Cube sideboard rules](/articles/cube-sideboard-rules/) covers the house rules many Cubes use.

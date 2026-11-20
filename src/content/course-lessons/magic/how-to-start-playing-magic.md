@@ -67,4 +67,4 @@ Each box holds a 100-card deck, a foil commander, ten double-sided tokens, a ref
 3. A Commander deck if your store runs Commander, or a seat at a draft night if it runs drafts.
 4. Single cards, once you know which deck you want to improve.
 
-That order keeps your money following your interest, instead of the other way around. If someone hands you a cube before any of this, even better: our piece on [teaching Magic with a cube](/articles/how-to-teach-magic-the-gathering/) explains why that works so well. And if you want the case for why Magic is worth the time at all, read [what Magic teaches](/articles/magic-the-gathering-benefits/).
+That order keeps your money following your interest, instead of the other way around. If someone hands you a Cube before any of this, even better: our piece on [teaching Magic with a Cube](/articles/how-to-teach-magic-the-gathering/) explains why that works so well. And if you want the case for why Magic is worth the time at all, read [what Magic teaches](/articles/magic-the-gathering-benefits/).

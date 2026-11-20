@@ -100,7 +100,7 @@ Each box holds a 100-card deck with a foil borderless commander, ten double-side
 
 **The catch:** they do not teach, and the decks vary. The Beginner Box is, in effect, ten Jumpstart decks plus a tutorial, which is why we would start there instead.
 
-For a group that wants to reuse the same packs, our [Jumpstart cube](/articles/jumpstart-cube/) guide shows how to build a reusable set of half-decks.
+For a group that wants to reuse the same packs, our [Jumpstart Cube](/articles/jumpstart-cube/) guide shows how to build a reusable set of half-decks.
 
 ## Draft Night: a starter for a group of four
 
@@ -120,9 +120,9 @@ MTG Arena is Wizards' digital Magic, free on desktop and mobile. It has a tutori
 
 Local game stores run free Magic Academy events. Wizards describes two kinds: learn-to-play sessions with simple decks, and deck-building sessions for your first deck. The store provides the cards. Find one with the [Wizards store locator](https://locator.wizards.com/).
 
-### A friend's cube
+### A friend's Cube
 
-If a friend owns a cube, a shared collection built for drafting, you can play without owning a card. Our piece on [teaching Magic with a cube](/articles/how-to-teach-magic-the-gathering/) explains why that may be the best start of all.
+If a friend owns a Cube, a shared collection built for drafting, you can play without owning a card. Our piece on [teaching Magic with a Cube](/articles/how-to-teach-magic-the-gathering/) explains why that may be the best start of all.
 
 ## What is the best way to start Magic for your situation?
 

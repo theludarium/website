@@ -58,4 +58,4 @@ Many cards have been printed several times, with different art, frames, or foil.
 
 Standard decks hold at least 60 cards from recent sets, with up to four copies of a card. Building a competitive Standard deck from scratch costs much more than upgrading a Commander deck, so most new players try it last. If Standard is your goal, borrow a deck for a store night first, or start with draft and sealed, where everyone builds from fresh packs on the night.
 
-Magic can be played on almost any budget, and our piece on [precon versus cube](/articles/precon-vs-cube/) compares a few low-cost ways for a group to play.
+Magic can be played on almost any budget, and our piece on [precon versus Cube](/articles/precon-vs-cube/) compares a few low-cost ways for a group to play.

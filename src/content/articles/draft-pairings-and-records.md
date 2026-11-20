@@ -3,12 +3,12 @@ title: "Cube Draft Pairings and Records Without the Tournament Feel"
 description: "Cube draft pairings, records, and prizes for a weekly group: what Cube Commonwealth tracked, what we dropped, and how to keep draft night friendly and relaxed."
 pubDate: 2026-10-18
 category: Magic & Cube
-tags: ["cube draft pairings", "draft pairings", "Swiss pairings for cube", "cube night records", "cube draft prizes", "casual draft structure", "Cube Commonwealth"]
+tags: ["Cube draft pairings", "draft pairings", "Swiss pairings for Cube", "Cube night records", "Cube draft prizes", "casual draft structure", "Cube Commonwealth"]
 draft: true
 ---
 Cube draft pairings sound like a small administrative detail. They are the thing that decides what kind of night you are running. Pair like a tournament and you get a tournament: quiet tables, people checking standings, the best player winning most weeks. Pair carelessly and you get the same two friends playing each other every round. Over three years of weekly drafts with 12 to 16 players, Cube Commonwealth tried most of the options. This is what we kept, what we dropped, and why.
 
-## What is the goal of pairings in a casual cube night?
+## What is the goal of pairings in a casual Cube night?
 
 Not fairness in the tournament sense. The goal is that everyone plays three good matches, meets more than one opponent, and leaves wanting to come back. A pairing system serves that goal or it gets replaced.
 
@@ -35,7 +35,7 @@ The blend worked because it kept the one thing Swiss does well, which is putting
 
 Round one was never truly random. Before drawing, the host pulled aside the names of first-timers and paired each with a regular who had been asked to play open-handed if the new player wanted it. The rest of the pod drew at random. Nobody announced the adjustment, and nobody minded when they figured it out.
 
-The regular's job in that match is not to lose. It is to narrate: why they are attacking, why they are holding a card, what the new player might be missing. A first draft is overwhelming. A first match that doubles as a lesson is the best use of round one we found. The full approach is in [new-player cube night](/articles/cube-for-new-magic-players/).
+The regular's job in that match is not to lose. It is to narrate: why they are attacking, why they are holding a card, what the new player might be missing. A first draft is overwhelming. A first match that doubles as a lesson is the best use of round one we found. The full approach is in [new-player Cube night](/articles/cube-for-new-magic-players/).
 
 ## What records did we keep, and what did we stop keeping?
 
@@ -45,7 +45,7 @@ We kept less over time, and the night got better as we did.
 
 - **Match results per night.** Posted in Discord the next day with one line per pod. "Pod A: Sam 3-0 on blue-white fliers." This is less a record than a story, and it is the post that makes people who missed the night want to come next week.
 - **A running count of nights attended.** Not wins. Attendance. The person who has drafted a hundred times with us is someone we want to recognize, whether they win or not.
-- **Archetype notes.** Which color pairs went 3-0 and which went 0-3. This is cube maintenance data, not player data, and it fed the change log every month. This is the data that members argue over when the list changes.
+- **Archetype notes.** Which color pairs went 3-0 and which went 0-3. This is Cube maintenance data, not player data, and it fed the change log every month. This is the data that members argue over when the list changes.
 
 **What we stopped keeping:**
 
@@ -55,7 +55,7 @@ We kept less over time, and the night got better as we did.
 
 *If this is useful, the newsletter sends more like it.*
 
-## Should a cube night have prizes?
+## Should a Cube night have prizes?
 
 Our answer after trying it both ways: small, silly, and not tied to winning.
 
@@ -67,7 +67,7 @@ What we replaced it with:
 - **A "deck of the night" chosen by the room.** Not the winning deck. The one people talked about. The five-color pile that went 1-2 but cast the dragon wins this more often than the 3-0 aggro deck.
 - **Recognition for attendance milestones.** Your 50th night gets a mention and a handshake. Your 100th gets whatever the group decides, and the group decides.
 
-If you want a longer arc than one night, a season structure can do that without a scoreboard in the room. We wrote ours up in [a cube league that does not punish missing a week](/articles/cube-league-format/).
+If you want a longer arc than one night, a season structure can do that without a scoreboard in the room. We wrote ours up in [a Cube league that does not punish missing a week](/articles/cube-league-format/).
 
 ## How do you post pairings on a two-pod night?
 
@@ -81,23 +81,23 @@ The reason to keep pairings off a central whiteboard is the same reason to keep 
 
 **Drops.** Someone has to leave after round one. Their remaining opponents get a bye, which counts as a win for the quiet standings. Say thank you. Never make leaving feel like a problem.
 
-**Disputes.** Read the card aloud. Most cube disputes end there. If not, the host or the night's named second judge makes a call, the game continues, and someone looks it up afterward and posts the correct ruling in the channel for everyone to learn from. The point is not to be right in the moment. It is to keep the match moving and the mood intact.
+**Disputes.** Read the card aloud. Most Cube disputes end there. If not, the host or the night's named second judge makes a call, the game continues, and someone looks it up afterward and posts the correct ruling in the channel for everyone to learn from. The point is not to be right in the moment. It is to keep the match moving and the mood intact.
 
 ## FAQ
 
-### How do you pair a casual cube draft?
+### How do you pair a casual Cube draft?
 
 Draw round one at random, then pair winners against winners for rounds two and three, and keep standings private until the end. You get good late matches without a scoreboard in the room.
 
-### Should a weekly cube night track win records?
+### Should a weekly Cube night track win records?
 
 Track results for the night and attendance over time. Skip lifetime win percentages and head-to-head records; they add pressure and nothing else.
 
-### Should you give prizes at a cube draft?
+### Should you give prizes at a Cube draft?
 
 Small, non-competitive recognition works better than prizes for winning. A traveling trophy and a "deck of the night" vote keep the table friendly.
 
-### What happens if a cube draft match runs out of time?
+### What happens if a Cube draft match runs out of time?
 
 Finish the current turn plus one more. If nobody has won, call it a draw and move on.
 

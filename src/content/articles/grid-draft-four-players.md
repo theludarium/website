@@ -3,22 +3,22 @@ title: "Grid Draft for Three and Four Players: Full Procedure"
 description: "Grid draft for three and four players: pack sizes, the refill rule, what the last player gets, how many cards you need, and how to pace eighteen grids."
 pubDate: 2026-10-21
 category: Magic & Cube
-tags: ["grid draft", "grid draft 4 players", "grid draft 3 players", "three by three draft", "four player cube draft", "grid draft rules", "Cube Commonwealth"]
+tags: ["grid draft", "grid draft 4 players", "grid draft 3 players", "three by three draft", "four player Cube draft", "grid draft rules", "Cube Commonwealth"]
 draft: false
 ---
 Grid draft lays nine cards face up in a three-by-three square and lets each player take a full row or column. The two-player version is well known. The three- and four-player versions add one rule, refilling the grid between picks, and that single change makes Grid the best open-information format for a small table.
 
-This article covers the three- and four-player procedure in full, with the pack sizes and pool counts, then the decisions the format rewards. The two-player version, along with Winston and Winchester, is in [two-player cube formats](/articles/two-player-cube-formats/); this piece does not repeat it.
+This article covers the three- and four-player procedure in full, with the pack sizes and pool counts, then the decisions the format rewards. The two-player version, along with Winston and Winchester, is in [two-player Cube formats](/articles/two-player-cube-formats/); this piece does not repeat it.
 
 ## What does the Grid draft procedure look like with more than two players?
 
 The procedure below follows the [MTG Wiki's Grid Draft page](https://mtg.wiki/page/Grid_Draft), which gives pack sizes by player count and the refill rule. Where the wiki leaves a choice open, we say which option we recommend.
 
-**Pack sizes.** Build packs from the cube sized to the player count: 9 cards for two players, 12 for three, 15 for four. The 9 cards beyond the first nine are the refill reserve.
+**Pack sizes.** Build packs from the Cube sized to the player count: 9 cards for two players, 12 for three, 15 for four. The 9 cards beyond the first nine are the refill reserve.
 
 **Setup for four players**
 
-1. Shuffle the cube and deal 18 face-down packs of 15. That is 270 cards.
+1. Shuffle the Cube and deal 18 face-down packs of 15. That is 270 cards.
 2. Seat four players. Number them 1 through 4. Player 1 picks first in grid one; the first pick rotates one seat each grid.
 3. Open pack one. Lay 9 cards face up in a three-by-three grid. Keep the other 6 face down as the reserve.
 
@@ -43,15 +43,15 @@ After 18 grids, each player has between 45 and 54 cards, depending on how many t
 
 ## How many cards does Grid draft use?
 
-| Players | Pack size | Packs | Cards from cube | Pool per player |
+| Players | Pack size | Packs | Cards from Cube | Pool per player |
 |---|---|---|---|---|
 | 2 | 9 | 18 | 162 | 45 to 54 |
 | 3 | 12 | 18 | 216 | 45 to 54 |
 | 4 | 15 | 18 | 270 | 45 to 54 |
 
-A 360 cube covers all three counts. A 540 covers four players twice. If you want to use fewer cards, run 15 grids instead of 18 and accept pools around 40, which still builds a deck with 17 lands.
+A 360 Cube covers all three counts. A 540 covers four players twice. If you want to use fewer cards, run 15 grids instead of 18 and accept pools around 40, which still builds a deck with 17 lands.
 
-The wiki also describes **discard grids**: shuffle the leftover cards and draft them as additional grids using the same rules. It reduces the number of fresh packs you need and gives late picks a second look at cards nobody wanted. It is handy when the cube is a 360 and two groups are drafting from it at once.
+The wiki also describes **discard grids**: shuffle the leftover cards and draft them as additional grids using the same rules. It reduces the number of fresh packs you need and gives late picks a second look at cards nobody wanted. It is handy when the Cube is a 360 and two groups are drafting from it at once.
 
 *If this is useful, the newsletter sends more like it.*
 
@@ -94,18 +94,18 @@ Two to four. The MTG Wiki gives pack sizes of 9, 12, and 15 cards for two, three
 
 ### What happens to the leftover cards in a Grid draft?
 
-They are discarded from the draft. Some groups shuffle them into extra "discard grids" and draft those too, which stretches a smaller cube.
+They are discarded from the draft. Some groups shuffle them into extra "discard grids" and draft those too, which stretches a smaller Cube.
 
 ### How many cards does each player end with?
 
 Between 45 and 54 across 18 grids, depending on how often they picked last and had to take a two-card line.
 
-### Can you run Grid draft with booster packs instead of a cube?
+### Can you run Grid draft with booster packs instead of a Cube?
 
 Yes. The wiki suggests removing the basic land and one other card from a play booster to leave 12, which is the three-player size: 9 for the grid and 3 for refills.
 
 ## Nine cards and a small table
 
-Grid draft with four players is the most open conversation a cube can host. Nobody hides a pack. Everybody sees the choice. The game is the reason. The people are the point.
+Grid draft with four players is the most open conversation a Cube can host. Nobody hides a pack. Everybody sees the choice. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for new formats, house rules, and cube ideas. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.
+Subscribe to The Ludarium newsletter for new formats, house rules, and Cube ideas. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

@@ -64,4 +64,4 @@ Necessary trades are fine. The point is to notice them. If you are often spendin
 
 <!-- AT OUR TABLE: one line on a type of trade Levi finds new players undervalue, such as removal on a holding unit versus one at base. -->
 
-The general idea of card advantage is older than Riftbound, and our article on [card advantage in Magic cube](/articles/card-advantage-in-cube/) explores it in another game. The Riftbound twist is that the scoreboard counts places, so every card you weigh should be weighed against the battlefields.
+The general idea of card advantage is older than Riftbound, and our article on [card advantage in Magic Cube](/articles/card-advantage-in-cube/) explores it in another game. The Riftbound twist is that the scoreboard counts places, so every card you weigh should be weighed against the battlefields.

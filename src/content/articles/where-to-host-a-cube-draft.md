@@ -1,16 +1,16 @@
 ---
 title: "Where to Host a Draft: Stores, Breweries, Libraries, Homes"
-description: "Where to host a draft when the game store won't run cube. Stores, breweries, libraries, and homes compared on cost, hours, and whether people come back."
+description: "Where to host a draft when the game store won't run Cube. Stores, breweries, libraries, and homes compared on cost, hours, and whether people come back."
 pubDate: 2026-10-18
 category: Magic & Cube
-tags: ["where to host a draft", "cube draft venue", "host a Magic draft at a brewery", "library game night room", "game night venue", "cube night location", "Cube Commonwealth"]
+tags: ["where to host a draft", "Cube draft venue", "host a Magic draft at a brewery", "library game night room", "game night venue", "Cube night location", "Cube Commonwealth"]
 draft: true
 ---
-Where to host a draft is the question that sinks more cube groups than the cube does. A cube sells nothing, so most game stores will not schedule it. A home fits eight and not sixteen. A bar is loud. A library closes at eight. Cube Commonwealth drafted weekly in Indianapolis for about three years with 12 to 16 players, and we moved more than once. Each venue type taught us something, and the lessons generalize to any group that needs a table every week.
+Where to host a draft is the question that sinks more Cube groups than the Cube does. A Cube sells nothing, so most game stores will not schedule it. A home fits eight and not sixteen. A bar is loud. A library closes at eight. Cube Commonwealth drafted weekly in Indianapolis for about three years with 12 to 16 players, and we moved more than once. Each venue type taught us something, and the lessons generalize to any group that needs a table every week.
 
 Here is each option, what it costs, and what it does to the group.
 
-## What does a cube night need from a venue?
+## What does a Cube night need from a venue?
 
 Before comparing places, be clear about the requirements, because they are more specific than "a room."
 
@@ -20,9 +20,9 @@ Before comparing places, be clear about the requirements, because they are more 
 - **Light and quiet enough to read cards and talk across a table.** Not silence. A conversation level.
 - **A reason for the venue to want you back.** This is the one people forget. Sixteen people for three hours costs the venue something. If they get nothing, you are a guest, and guests get asked to leave eventually.
 
-## How do game stores work for a cube group?
+## How do game stores work for a Cube group?
 
-Stores are the obvious choice and the least likely to say yes. A store's event calendar exists to sell product: packs for draft, singles for Commander. A cube night brings in sixteen people who buy nothing. Some owners understand that those sixteen people buy sleeves, drinks, and the occasional booster box over a year. Many do not.
+Stores are the obvious choice and the least likely to say yes. A store's event calendar exists to sell product: packs for draft, singles for Commander. A Cube night brings in sixteen people who buy nothing. Some owners understand that those sixteen people buy sleeves, drinks, and the occasional booster box over a year. Many do not.
 
 **When it works:** a store with a large play space and an off night. Monday or Tuesday, when the room sits empty. Offer the store something concrete: a flat table fee per player, a norm that everyone buys something, or a promise to run the store's own draft once a month. <!-- EDITOR: add detail -->
 
@@ -30,7 +30,7 @@ Stores are the obvious choice and the least likely to say yes. A store's event c
 
 **What it does to the group:** store crowds are Magic crowds. You will pick up walk-ins who already play, which is good for numbers and less good for the first-timer who was promised a gentle table.
 
-In Indianapolis, the stores that run Magic are listed in our guide to [where to play Magic in Indianapolis](/articles/where-to-play-magic-indianapolis/). Almost none run cube, which is the gap we exist in.
+In Indianapolis, the stores that run Magic are listed in our guide to [where to play Magic in Indianapolis](/articles/where-to-play-magic-indianapolis/). Almost none run Cube, which is the gap we exist in.
 
 ## How do breweries and bars work?
 
@@ -50,9 +50,9 @@ The failure mode is the venue getting busier. The slow Tuesday you were offered 
 
 Underrated, and the right answer for a group that wants to be open to everyone, including kids and people who do not drink.
 
-**When it works:** a branch library with a bookable meeting room, or a community center, church hall, or coworking space with evening availability. Many library systems let a community group reserve a room at no charge on a recurring basis. Some require a short application; some ask that the event be open to the public, which for a cube night is a feature.
+**When it works:** a branch library with a bookable meeting room, or a community center, church hall, or coworking space with evening availability. Many library systems let a community group reserve a room at no charge on a recurring basis. Some require a short application; some ask that the event be open to the public, which for a Cube night is a feature.
 
-**What it costs:** usually nothing, sometimes a small deposit. The real cost is hours. Libraries close early, often by eight or nine, and a cube night that starts at six and must be out by nine runs two rounds, not three. Weekend afternoons solve that if your group can do weekends.
+**What it costs:** usually nothing, sometimes a small deposit. The real cost is hours. Libraries close early, often by eight or nine, and a Cube night that starts at six and must be out by nine runs two rounds, not three. Weekend afternoons solve that if your group can do weekends.
 
 **What it does to the group:** it signals that this is a community thing, not a bar thing. Parents come. Teenagers come with a parent's blessing. New players who were nervous about a store or a bar find a library easy to walk into. The energy is quieter, which some groups love and some find flat.
 
@@ -60,7 +60,7 @@ Bring everything. There is no food, often no vending, and the room is a room. Pl
 
 ## How does hosting at home work?
 
-Where almost every cube group starts, and where ours did.
+Where almost every Cube group starts, and where ours did.
 
 **When it works:** eight players or fewer, a host who likes hosting, and a group that already knows each other. A dining table seats a pod. The kitchen is right there. Nobody is watching the clock on the room.
 
@@ -88,11 +88,11 @@ If you are starting, start at home. If you have a core of six and want to grow, 
 - **Give the venue a point of contact who is not the whole group.** One person who the manager can text.
 - **Tell the venue what you are.** A weekly group of sixteen regulars, three years running, is an asset. Say so. Most places have never been told.
 
-We think a lot about this because The Ludarium exists to be the answer: a membership lounge in Indianapolis where a cube night has a permanent table and the venue's reason to want you back is built in. Until that opens, the options above are what we have, and they work. For the rest of the operating system, see [relaunching a game community](/articles/relaunching-a-game-community/).
+We think a lot about this because The Ludarium exists to be the answer: a membership lounge in Indianapolis where a Cube night has a permanent table and the venue's reason to want you back is built in. Until that opens, the options above are what we have, and they work. For the rest of the operating system, see [relaunching a game community](/articles/relaunching-a-game-community/).
 
 ## FAQ
 
-### Can you host a cube draft at a game store?
+### Can you host a Cube draft at a game store?
 
 Sometimes. Stores prefer events that sell product, so offer something concrete: an off night, a small table fee, or a norm that everyone buys something.
 

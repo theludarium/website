@@ -3,10 +3,10 @@ title: "Vintage Cube Changes Worth Copying in Paper"
 description: "Vintage Cube changes worth copying in paper: a simple filter for the 2026 MTGO swap lists, the cards that translate to a table, and the ones to leave online."
 pubDate: 2026-10-18
 category: Magic & Cube
-tags: ["Vintage Cube paper", "copy Vintage Cube changes", "Vintage Cube for paper cube", "MTGO cube vs paper cube", "cube update ideas", "powered cube paper", "Cube Commonwealth"]
+tags: ["Vintage Cube paper", "copy Vintage Cube changes", "Vintage Cube for paper Cube", "MTGO Cube vs paper Cube", "Cube update ideas", "powered Cube paper", "Cube Commonwealth"]
 draft: true
 ---
-The MTGO Vintage Cube is the best-tested cube list in the world, and most of its changes should not go into your paper cube. Both things are true. Taking a Vintage Cube paper list from mtgo.com and copying it card for card gets you a cube built for a different client, a different player pool, and a four-week shelf life. Reading the changelists with a filter gets you the actual value: tested card evaluations, finished archetype packages, and an early warning on which old staples have stopped earning their slot.
+The MTGO Vintage Cube is the best-tested Cube list in the world, and most of its changes should not go into your paper Cube. Both things are true. Taking a Vintage Cube paper list from mtgo.com and copying it card for card gets you a Cube built for a different client, a different player pool, and a four-week shelf life. Reading the changelists with a filter gets you the actual value: tested card evaluations, finished archetype packages, and an early warning on which old staples have stopped earning their slot.
 
 This article is that filter, applied to the six 2026 updates posted between January 23 and October 2, 2026.
 
@@ -22,9 +22,9 @@ Three structural differences, before any card is named.
 
 ## What translates well from the Vintage Cube to paper?
 
-**Single-card verdicts on old staples.** When the curator benches a card everyone owns, that is free testing. In 2026 the posts cut Tarmogoyf (March, "has lost power"), Grave Titan (January, "has declined"), Wrath of God (October, resting behind Damn and Sunfall), Time Warp (October, "past its prime"), Eternal Witness (October, superseded by Emeritus of Abundance), and Craterhoof Behemoth (August 2025, benched while ramp is out). If one of those is in your cube on reputation, you now have a reason to look at it.
+**Single-card verdicts on old staples.** When the curator benches a card everyone owns, that is free testing. In 2026 the posts cut Tarmogoyf (March, "has lost power"), Grave Titan (January, "has declined"), Wrath of God (October, resting behind Damn and Sunfall), Time Warp (October, "past its prime"), Eternal Witness (October, superseded by Emeritus of Abundance), and Craterhoof Behemoth (August 2025, benched while ramp is out). If one of those is in your Cube on reputation, you now have a reason to look at it.
 
-**Cheap interaction that is new.** Sear (January 2026) and Erode (May 2026) are the kinds of additions that are good in every cube with a reasonable curve. Bloodchief's Thirst has gone in and out three times since August 2025, which tells you it is always close to the line and fine either way.
+**Cheap interaction that is new.** Sear (January 2026) and Erode (May 2026) are the kinds of additions that are good in every Cube with a reasonable curve. Bloodchief's Thirst has gone in and out three times since August 2025, which tells you it is always close to the line and fine either way.
 
 **Complete archetype packages.** The Vintage Cube does not add one landfall card; it adds eight and a reason. The October 2026 landfall package (Quirion Ranger, Carnivorous Cultivator, Elvish Reclaimer, Marwyn, Escape to the Wilds, Avatar of Burgeoning Echoes, Absorbing Man, with Mole Man already in) is a finished lane with enablers, payoffs, and a tutor. If you want landfall, that is a shopping list. Our guide to [archetype density](/articles/archetype-density/) covers how many such lanes a 540 can hold.
 
@@ -42,7 +42,7 @@ Three structural differences, before any card is named.
 | Cards bought for their restricted status | The Fantasticar (Aug), added partly because it is restricted in Vintage | Flavor of the format, not a design need |
 | Mid-run reversals | Leovold (out Mar, in May, out Oct); Paradoxical Outcome (out Jan, in Jul) | The team is calibrating; wait until a card stays put for two updates |
 
-The Universes Beyond row deserves a word. The MTGO cube has every card at no marginal cost and a mandate to feature new sets, so Marvel, TMNT, and Hobbit cards go in the week they release. That is a promotional constraint. Of the twenty Marvel Super Heroes additions in July 2026, Together as One, Krang, and Shadowspear were already out by August. A paper owner who bought in would have been left holding them.
+The Universes Beyond row deserves a word. The MTGO Cube has every card at no marginal cost and a mandate to feature new sets, so Marvel, TMNT, and Hobbit cards go in the week they release. That is a promotional constraint. Of the twenty Marvel Super Heroes additions in July 2026, Together as One, Krang, and Shadowspear were already out by August. A paper owner who bought in would have been left holding them.
 
 ## A simple rule for reading each changelist
 
@@ -63,7 +63,7 @@ For honesty's sake, the changes we took into the Cube Commonwealth list from the
 - Sear and Erode as cheap removal.
 - The vocabulary. Our changelog now says "resting" and "on trial" because the MTGO posts made those distinctions useful.
 
-What we did not take: any Marvel or TMNT card, the Devoted Druid combo, or the full red prowess package. We run an unpowered list, and mono-red prowess in a cube without Moxen is a different deck with different needs. The fast-mana question changes everything downstream.
+What we did not take: any Marvel or TMNT card, the Devoted Druid combo, or the full red prowess package. We run an unpowered list, and mono-red prowess in a Cube without Moxen is a different deck with different needs. The fast-mana question changes everything downstream.
 
 ## FAQ
 
@@ -77,7 +77,7 @@ Watch for a card surviving two consecutive updates. The Hobbit (August 2026) and
 
 ### Are Universes Beyond cards required to keep up with the Vintage Cube?
 
-No. The MTGO cube adds them because it promotes each set release. Several 2026 UB additions were cut within one or two updates.
+No. The MTGO Cube adds them because it promotes each set release. Several 2026 UB additions were cut within one or two updates.
 
 ### Where do I read the changelists?
 
@@ -85,4 +85,4 @@ Each update article on mtgo.com has a changelist table and a link to the full li
 
 ## One list a month, filtered
 
-We read every Vintage Cube post and send subscribers the three or four rows that matter for a paper cube, with the questions above already answered. The game is the reason. The people are the point. Subscribe to The Ludarium newsletter, and if you are in Indianapolis, join [Cube Commonwealth](/articles/cube-draft-indianapolis/) and tell us which cut we got wrong.
+We read every Vintage Cube post and send subscribers the three or four rows that matter for a paper Cube, with the questions above already answered. The game is the reason. The people are the point. Subscribe to The Ludarium newsletter, and if you are in Indianapolis, join [Cube Commonwealth](/articles/cube-draft-indianapolis/) and tell us which cut we got wrong.

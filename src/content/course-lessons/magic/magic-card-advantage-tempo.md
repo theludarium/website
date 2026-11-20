@@ -69,4 +69,4 @@ Go through your deck and mark each card with one of three letters:
 
 A deck with only Ns is fair but flat. A deck with a few Cs wins long games, and a few Ts win races. Most good limited decks want some of each.
 
-Cube drafts make these ideas loud, because every card is strong. Our piece on [card advantage in cube](/articles/card-advantage-in-cube/) shows how one color's card draw can tilt a whole table, and our [interaction density article](/articles/interaction-in-cube/) explains why cheap answers feel so good to play.
+Cube drafts make these ideas loud, because every card is strong. Our piece on [card advantage in Cube](/articles/card-advantage-in-cube/) shows how one color's card draw can tilt a whole table, and our [interaction density article](/articles/interaction-in-cube/) explains why cheap answers feel so good to play.

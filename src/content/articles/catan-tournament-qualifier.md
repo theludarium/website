@@ -7,7 +7,7 @@ games: [catan]
 tags: ["Catan tournament", "Catan qualifier", "Catan World Championship", "CATAN Championship rules", "Catan Nationals", "Noblesville", "Competitive play"]
 draft: false
 ---
-I opened [Moonshot Games](https://moonshotgamestore.com/)' event calendar this week to book a table for a Cube Commonwealth session in Noblesville on Saturday. The table was taken. Moonshot is hosting an official [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) tournament that day, a CATAN Championship qualifier, and my first reaction was mild annoyance: no cube on Saturday.
+I opened [Moonshot Games](https://moonshotgamestore.com/)' event calendar this week to book a table for a Cube Commonwealth session in Noblesville on Saturday. The table was taken. Moonshot is hosting an official [Catan](https://www.amazon.com/dp/B0DYK1ZH2D?tag=cubecommonw0a-20) tournament that day, a CATAN Championship qualifier, and my first reaction was mild annoyance: no Cube on Saturday.
 
 My second reaction was curiosity. I have played Catan a handful of times, always casually, always with a snack bowl within reach. It is a fun game. And the entry fee is $10. For the price of a sandwich, I get a seat at a table full of people who take sheep and brick seriously, and a front-row look at what "good" means in a game most of us learned at a friend's kitchen table.
 
@@ -96,7 +96,7 @@ If you want a refresher on openings and trading before a tournament, start with 
 
 ## Why I'm signing up anyway
 
-I am not going to win on Saturday. The people across the table will have studied opening placements the way cube drafters study pick orders. That is the point. Ten dollars buys me three or four games against players who think about this game far harder than I do, and there is no faster way to find out what you do not know.
+I am not going to win on Saturday. The people across the table will have studied opening placements the way Cube drafters study pick orders. That is the point. Ten dollars buys me three or four games against players who think about this game far harder than I do, and there is no faster way to find out what you do not know.
 
 It also scratches the same itch that built [Cube Commonwealth](/articles/cube-draft-indianapolis/): a room full of people who love a game enough to show up on a Saturday and play it seriously, together. A qualifier is togethering with a scoresheet. The game is the reason. The people are the point.
 

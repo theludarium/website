@@ -1,16 +1,16 @@
 ---
 title: "How to Run a Cube Draft: 8 Players, 3 Hours, Done Right"
-description: "A host's guide to how to run a cube draft that ends on time and brings people back. Timing, seating, pairings, lands, and the small rituals that matter."
+description: "A host's guide to how to run a Cube draft that ends on time and brings people back. Timing, seating, pairings, lands, and the small rituals that matter."
 pubDate: 2026-10-21
 category: Magic & Cube
-tags: ["how to run a cube draft", "cube night", "hosting a cube draft", "cube draft timing", "cube draft pairings", "Magic draft night", "Magic: The Gathering and Cube"]
+tags: ["how to run a Cube draft", "Cube night", "hosting a Cube draft", "Cube draft timing", "Cube draft pairings", "Magic draft night", "Magic: The Gathering and Cube"]
 draft: false
 ---
-Knowing how to run a cube draft well is mostly knowing how to manage time and people. The cards take care of themselves. A good cube night fits eight players into about three hours: forty-five minutes to draft, twenty to build, and three rounds of fifty minutes with a little slack. The host's job is to keep that schedule without anyone feeling rushed, and to make the evening feel like something people want to repeat.
+Knowing how to run a Cube draft well is mostly knowing how to manage time and people. The cards take care of themselves. A good Cube night fits eight players into about three hours: forty-five minutes to draft, twenty to build, and three rounds of fifty minutes with a little slack. The host's job is to keep that schedule without anyone feeling rushed, and to make the evening feel like something people want to repeat.
 
-I have hosted cube nights that ran until one in the morning and cube nights that ended at ten with everyone asking about next week. The difference was never the card list. It was the hosting.
+I have hosted Cube nights that ran until one in the morning and Cube nights that ended at ten with everyone asking about next week. The difference was never the card list. It was the hosting.
 
-## How much time does a cube night need?
+## How much time does a Cube night need?
 
 Plan for three hours and tell people three hours. Here is a schedule that holds up.
 
@@ -30,7 +30,7 @@ If you want the whole thing shorter, best-of-one matches cut each round to twent
 
 ## What should be ready before anyone arrives?
 
-The single biggest time-saver is dealing the packs in advance. Shuffle the cube, deal twenty-four piles of fifteen, and stack them in three sets of eight. When players sit down, pack one is already in front of them.
+The single biggest time-saver is dealing the packs in advance. Shuffle the Cube, deal twenty-four piles of fifteen, and stack them in three sets of eight. When players sit down, pack one is already in front of them.
 
 The rest of the checklist:
 
@@ -42,7 +42,7 @@ The rest of the checklist:
 - **Table space.** Eight drafters need a long table or two square ones pushed together. Playing needs four two-person spaces. Our piece on [what makes a great game table](/articles/best-table-for-board-games/) applies here too.
 - **Food that does not touch cards.** Dry snacks, lids on drinks, napkins everywhere.
 
-If you are still building the cube itself, [how to build your first cube](/articles/how-to-build-a-cube-mtg/) comes first.
+If you are still building the Cube itself, [how to build your first Cube](/articles/how-to-build-a-cube-mtg/) comes first.
 
 ## How do you seat the table?
 
@@ -62,7 +62,7 @@ Set a norm for slow pickers. A draft where one person takes two minutes per pick
 
 Enforce the direction change. Pack one passes left, pack two right, pack three left. Someone always forgets. Say it at the start of each pack.
 
-Do not allow talking about picks during the draft. Table talk about what is in the packs ruins the signaling that makes drafting interesting. Talking about anything else is fine and encouraged. If your group is new to all of this, [cube draft strategy](/articles/cube-draft-strategy/) will give them something to think about between picks.
+Do not allow talking about picks during the draft. Table talk about what is in the packs ruins the signaling that makes drafting interesting. Talking about anything else is fine and encouraged. If your group is new to all of this, [Cube draft strategy](/articles/cube-draft-strategy/) will give them something to think about between picks.
 
 *If this is useful, the newsletter sends more like it.*
 
@@ -82,12 +82,12 @@ Should there be prizes? For most groups, no. A prize changes the mood from "let'
 
 ## What rituals make people come back?
 
-A regular cube night is a habit, and habits need anchors.
+A regular Cube night is a habit, and habits need anchors.
 
 - **Same night, same time.** Second and fourth Thursdays, seven o'clock. People plan around a fixed point. "Whenever we can get eight" never gets eight.
-- **A standing invitation.** Make it clear that showing up with no cards and no experience is fine. The cube is the collection. Nobody needs their own.
-- **A post-draft debrief.** Five minutes at the end where people say what they drafted and what they would do differently. It builds shared memory of the cube.
-- **The change log.** Announce card swaps before each draft. "Out: the green giant nobody picks. In: a two-mana elf." People love watching the cube evolve.
+- **A standing invitation.** Make it clear that showing up with no cards and no experience is fine. The Cube is the collection. Nobody needs their own.
+- **A post-draft debrief.** Five minutes at the end where people say what they drafted and what they would do differently. It builds shared memory of the Cube.
+- **The change log.** Announce card swaps before each draft. "Out: the green giant nobody picks. In: a two-mana elf." People love watching the Cube evolve.
 - **End on time.** Call the last round when you said you would. The night people remember fondly is the one that ended while they still wanted more.
 
 ## What goes wrong, and how do you handle it?
@@ -102,28 +102,28 @@ A regular cube night is a habit, and habits need anchors.
 
 **Someone is salty.** It happens. Acknowledge the bad beat, move on, make sure they get a good game next round. Salt that lingers past one round is a culture problem, and the host sets the culture.
 
-**A rules dispute.** The cube owner is the judge. Decide quickly, note it for later if unsure, and keep playing. Our guide to [settling board game rules arguments](/articles/board-game-rules-argument/) applies word for word.
+**A rules dispute.** The Cube owner is the judge. Decide quickly, note it for later if unsure, and keep playing. Our guide to [settling board game rules arguments](/articles/board-game-rules-argument/) applies word for word.
 
 ## FAQ
 
-### How long does a cube draft take?
+### How long does a Cube draft take?
 
 The draft itself takes about forty-five minutes for eight players. A full night with deck building and three rounds runs about three and a half hours.
 
-### How many players do you need for a cube draft?
+### How many players do you need for a Cube draft?
 
 Eight is standard. Four to seven works with adjusted pack sizes, and two players can draft using Winston or grid draft.
 
-### Should a cube night have prizes?
+### Should a Cube night have prizes?
 
 Most casual groups do better without them. Prizes shift the mood toward winning and away from playing.
 
-### How do you pair players for cube draft rounds?
+### How do you pair players for Cube draft rounds?
 
 Random pairings are simplest. Swiss pairings, where winners play winners, give closer matches and a clear finish.
 
 ## Host one, then host it again
 
-The first cube night is logistics. The tenth is a tradition. If you are starting one, the Ludarium newsletter sends new pieces on hosting tables people return to, and we are always glad to hear how a new group is going. In Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium, and it will need hosts as well as players.
+The first Cube night is logistics. The tenth is a tradition. If you are starting one, the Ludarium newsletter sends new pieces on hosting tables people return to, and we are always glad to hear how a new group is going. In Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Cube group, is relaunching as part of The Ludarium, and it will need hosts as well as players.
 
 The game is the reason. The people are the point.

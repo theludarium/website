@@ -3,24 +3,24 @@ title: "Cube Draft Strategy: Picks, Signals, and the Table"
 description: "Cube draft strategy for players who keep ending up with 46 playables in five colors. Learn a clear pick order, how to spot signals, and how to read the table."
 pubDate: 2026-10-21
 category: Magic & Cube
-tags: ["cube draft strategy", "how to draft a cube", "reading signals in draft", "cube pick order", "draft signals", "cube drafting tips", "Magic: The Gathering and Cube"]
+tags: ["Cube draft strategy", "how to draft a Cube", "reading signals in draft", "Cube pick order", "draft signals", "Cube drafting tips", "Magic: The Gathering and Cube"]
 draft: false
 ---
-Good cube draft strategy comes down to three habits: take powerful, flexible cards early, pay attention to what is and is not being passed to you, and commit to two colors by the middle of the first pack. Everything else is detail. This article explains the detail, because the gap between a player who knows those three habits and one who truly applies them is about two match wins a night.
+Good Cube draft strategy comes down to three habits: take powerful, flexible cards early, pay attention to what is and is not being passed to you, and commit to two colors by the middle of the first pack. Everything else is detail. This article explains the detail, because the gap between a player who knows those three habits and one who truly applies them is about two match wins a night.
 
 Cube rewards drafting more than booster draft does. The card pool is fixed, every pack is strong, and the seven people around you are making real decisions. Learning to read them is most of the game.
 
-## What makes cube draft different from booster draft?
+## What makes Cube draft different from booster draft?
 
-In a booster draft, the first pick is often easy because one card in the pack is clearly better than the rest. In a cube, every pack has five or six cards you would be happy to first-pick. The decision is harder and it matters more.
+In a booster draft, the first pick is often easy because one card in the pack is clearly better than the rest. In a Cube, every pack has five or six cards you would be happy to first-pick. The decision is harder and it matters more.
 
 Three structural differences follow from that.
 
 **Every pick is contested.** Nobody is taking a card because it is the only playable. People are taking cards they want. That means signals are louder: if a great red card reaches you sixth, red is open.
 
-**Archetypes are designed, not emergent.** The cube owner built specific decks into the pool. Your job is partly to figure out which deck the owner intended and whether anyone else at the table is in it.
+**Archetypes are designed, not emergent.** The Cube owner built specific decks into the pool. Your job is partly to figure out which deck the owner intended and whether anyone else at the table is in it.
 
-**The pool repeats.** After a few drafts of the same cube, you know what is in it. You know whether the card you want in pack three exists at all. Players who draft the same cube ten times develop a shared history, which is one reason [cube makes Magic a better social game](/articles/what-is-a-magic-cube/).
+**The pool repeats.** After a few drafts of the same Cube, you know what is in it. You know whether the card you want in pack three exists at all. Players who draft the same Cube ten times develop a shared history, which is one reason [Cube makes Magic a better social game](/articles/what-is-a-magic-cube/).
 
 ## How should you pick in the first five picks?
 
@@ -73,39 +73,39 @@ Committing earlier than that throws away signals. Committing later wastes picks.
 - **Pack 2:** Lock your pair. Draft the deck, not the cards. Count your creatures and your removal.
 - **Pack 3:** Fill holes. You know what you need. Take the two-drop over the splashy five-mana spell.
 
-A deck in cube needs about twenty-three nonland cards, so forty-five picks give you plenty of room to abandon your first few if the table forces it. The real cost of a wrong early commitment is not the cards you took. It is the cards you passed while you were taking them.
+A deck in Cube needs about twenty-three nonland cards, so forty-five picks give you plenty of room to abandon your first few if the table forces it. The real cost of a wrong early commitment is not the cards you took. It is the cards you passed while you were taking them.
 
 ## How do you draft a deck instead of a pile?
 
-The most common failure in cube is ending the draft with thirty-five playables and no deck. All the cards are good. None of them work together.
+The most common failure in Cube is ending the draft with thirty-five playables and no deck. All the cards are good. None of them work together.
 
 Three checks during pack two fix most of it.
 
 **The curve.** An aggressive deck wants a lot of creatures at one and two mana, more than feels comfortable. A control deck wants fewer early creatures but more removal and card draw. If your pile has twelve four-mana cards and three two-mana cards, you have a problem no amount of power fixes.
 
-**The plan.** Can you describe your deck in one sentence? "Flyers and tempo." "Big green creatures and ramp." "Sacrifice creatures for value." If you cannot, you are drafting a pile. The cube owner put the archetypes in. Pick one.
+**The plan.** Can you describe your deck in one sentence? "Flyers and tempo." "Big green creatures and ramp." "Sacrifice creatures for value." If you cannot, you are drafting a pile. The Cube owner put the archetypes in. Pick one.
 
 **The count.** Our rule of thumb: around sixteen creatures for aggressive decks, closer to ten for control, and a handful of removal spells for either. Count them in pack three and take whichever you are short on.
 
-## What are the most common cube draft mistakes?
+## What are the most common Cube draft mistakes?
 
 Having run a lot of drafts, I see the same five every time.
 
 1. **First-picking gold cards.** Covered above. Flexibility is worth more than power in pick one.
 2. **Ignoring the players on the right.** They pass to you twice. Fight the left neighbor, cooperate with the right.
 3. **Splashing a third color without fixing.** A three-color deck with no dual lands loses to its own mana.
-4. **Drafting lands last.** Nonbasic lands in a cube are often the difference between a two-color deck that works and one that stumbles. Take them around pick six to nine when the power cards are gone.
+4. **Drafting lands last.** Nonbasic lands in a Cube are often the difference between a two-color deck that works and one that stumbles. Take them around pick six to nine when the power cards are gone.
 5. **Hate-drafting too early.** Taking a card so an opponent cannot have it makes sense at pick twelve when your pack has nothing you need. It does not make sense at pick three.
 
-If you are new to Magic entirely, do not worry about any of this yet. Our piece on [why cube is the best way to learn Magic](/articles/how-to-teach-magic-the-gathering/) explains how to start without a pick order in your head.
+If you are new to Magic entirely, do not worry about any of this yet. Our piece on [why Cube is the best way to learn Magic](/articles/how-to-teach-magic-the-gathering/) explains how to start without a pick order in your head.
 
 ## FAQ
 
-### What should you first-pick in a cube draft?
+### What should you first-pick in a Cube draft?
 
 Take the most powerful card that goes in the most decks. Colorless artifacts and premium removal are the safest first picks because they keep your options open.
 
-### How many creatures should a cube deck have?
+### How many creatures should a Cube deck have?
 
 As a rule of thumb, an aggressive deck wants around sixteen creatures in a forty-card deck, and a control deck can run as few as ten with more removal and card draw.
 
@@ -113,12 +113,12 @@ As a rule of thumb, an aggressive deck wants around sixteen creatures in a forty
 
 It means noticing which colors keep arriving late in your packs, which tells you what the players passing to you are not drafting.
 
-### When should you commit to colors in a cube draft?
+### When should you commit to colors in a Cube draft?
 
 Have one main color by the end of pack one and a settled two-color pair by the middle of pack two.
 
 ## Draft better, then draft together
 
-Drafting is a skill that grows fastest at a regular table with the same cube and the same faces. The Ludarium newsletter sends new pieces on games that build those tables, and if you want a regular table in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium. Subscribe to hear when the first night is set.
+Drafting is a skill that grows fastest at a regular table with the same Cube and the same faces. The Ludarium newsletter sends new pieces on games that build those tables, and if you want a regular table in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Cube group, is relaunching as part of The Ludarium. Subscribe to hear when the first night is set.
 
 The game is the reason. The people are the point.

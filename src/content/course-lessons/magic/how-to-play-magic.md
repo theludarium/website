@@ -88,4 +88,4 @@ You lose if:
 
 You can also concede at any time. The last player standing wins.
 
-That is the whole shape of a turn. The cards bring the variety, and the next lesson shows you how to read them. If you would rather learn by drafting your first deck instead of borrowing one, our piece on [what a Magic cube is](/articles/what-is-a-magic-cube/) shows another way in.
+That is the whole shape of a turn. The cards bring the variety, and the next lesson shows you how to read them. If you would rather learn by drafting your first deck instead of borrowing one, our piece on [what a Magic Cube is](/articles/what-is-a-magic-cube/) shows another way in.

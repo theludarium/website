@@ -1,14 +1,14 @@
 ---
 title: "Conspiracy Cards in Cube: Cogwork Librarian and Friends"
-description: "Conspiracy cube guide: how Cogwork Librarian, conspiracies, and hidden agendas work in a draft, which ones to include, and how to run them without stalls."
+description: "Conspiracy Cube guide: how Cogwork Librarian, conspiracies, and hidden agendas work in a draft, which ones to include, and how to run them without stalls."
 pubDate: 2026-10-22
 category: Magic & Cube
-tags: ["Conspiracy cube", "draft matters cards", "Cogwork Librarian cube", "conspiracy cards cube", "hidden agenda cube", "chaos draft cube", "Cube Commonwealth"]
+tags: ["Conspiracy Cube", "draft matters cards", "Cogwork Librarian Cube", "conspiracy cards Cube", "hidden agenda Cube", "chaos draft Cube", "Cube Commonwealth"]
 draft: false
 ---
-A Conspiracy cube adds cards that do something during the draft itself: a creature that lets you take two cards from one pack, a land whose colors are chosen by your neighbors, a card that starts the game in the command zone. Only two sets ever printed these, Conspiracy in 2014 and Conspiracy: Take the Crown in 2016, and most of what they do works in any cube.
+A Conspiracy Cube adds cards that do something during the draft itself: a creature that lets you take two cards from one pack, a land whose colors are chosen by your neighbors, a card that starts the game in the command zone. Only two sets ever printed these, Conspiracy in 2014 and Conspiracy: Take the Crown in 2016, and most of what they do works in any Cube.
 
-This article explains how the cards work, which belong in a normal cube, how to run them without stalls, and where chaos fits. It assumes you know [how a cube is built](/articles/cube-card-selection/).
+This article explains how the cards work, which belong in a normal Cube, how to run them without stalls, and where chaos fits. It assumes you know [how a Cube is built](/articles/cube-card-selection/).
 
 ## What are draft-matters cards?
 
@@ -37,7 +37,7 @@ The texts below are from the [Conspiracy release notes](https://magic.wizards.co
 | Lurking Automaton | 5, 0/0 | Reveal it and note how many cards you have drafted this pack round. Enters with that many +1/+1 counters. |
 | Paliano, the High City | legendary land | Reveal it. Right neighbor picks a color, you pick a second, left neighbor picks a third. Taps for any of those. |
 
-The second set added colored versions at common through rare. Regicide, Leovold's Operative, Noble Banneret, Smuggler Captain, Animus of Predation, and Archdemon of Paliano are among the [draft-affecting cards](https://articles.starcitygames.com/articles/ask-a-judge-conspiracy-take-the-crown-edition/) that come up most for cube. Leovold's Operative is a Librarian variant: take an extra card, then skip the next pack passed to you.
+The second set added colored versions at common through rare. Regicide, Leovold's Operative, Noble Banneret, Smuggler Captain, Animus of Predation, and Archdemon of Paliano are among the [draft-affecting cards](https://articles.starcitygames.com/articles/ask-a-judge-conspiracy-take-the-crown-edition/) that come up most for Cube. Leovold's Operative is a Librarian variant: take an extra card, then skip the next pack passed to you.
 
 ## What are conspiracies and hidden agendas?
 
@@ -47,27 +47,27 @@ Examples from the first set: Advantageous Proclamation lowers your minimum deck 
 
 **Hidden agenda** conspiracies start face down. You secretly write a card name and keep it with the conspiracy; at any time you have priority, you may turn it face up to reveal the name and the bonus. Brago's Favor makes spells with the chosen name cost one less. Double Stroke copies instants and sorceries with that name. Immediate Action gives creatures with that name haste. Take the Crown added [**double agenda**](https://mtg.wiki/page/Hidden_agenda), which names two cards.
 
-In a singleton cube a hidden agenda applies to one card, which is weak. Most Conspiracy cube builders skip them or run them as a fun-first slot.
+In a singleton Cube a hidden agenda applies to one card, which is weak. Most Conspiracy Cube builders skip them or run them as a fun-first slot.
 
 *If this is useful, the newsletter sends more like it.*
 
-## Which draft-matters cards belong in a regular cube?
+## Which draft-matters cards belong in a regular Cube?
 
 Not many, and the ones that do are a style choice. Our view, card by card:
 
-**Cogwork Librarian: yes.** It is the one card from the set that has found a home in ordinary cubes. It costs a pick, it is a 3/3 for four that nobody wants in their deck, and it gives one player a single two-for-one pick later in the draft. Because the Librarian goes back into the pack when used, it circulates: three or four players may each use it once over a draft. It creates stories without warping anything.
+**Cogwork Librarian: yes.** It is the one card from the set that has found a home in ordinary Cubes. It costs a pick, it is a 3/3 for four that nobody wants in their deck, and it gives one player a single two-for-one pick later in the draft. Because the Librarian goes back into the pack when used, it circulates: three or four players may each use it once over a draft. It creates stories without warping anything.
 
-**Paliano, the High City: yes, in a cube with a gold section.** A land that taps for three colors chosen partly by your neighbors is fixing with a twist. Neighbors will choose colors you are not in, so it is best early in a draft before your lane is known.
+**Paliano, the High City: yes, in a Cube with a gold section.** A land that taps for three colors chosen partly by your neighbors is fixing with a twist. Neighbors will choose colors you are not in, so it is best early in a draft before your lane is known.
 
 **Deal Broker: maybe.** A post-draft trade window is fun, takes five minutes, and works best with a table that knows each other.
 
-**Lore Seeker: no.** You must supply the extra pack, which in a cube means pulling 15 more cards from the box mid-draft. Pools end up unequal, since the extra pack's picks do not split evenly. Skip it unless you are running a deliberately uneven chaos night.
+**Lore Seeker: no.** You must supply the extra pack, which in a Cube means pulling 15 more cards from the box mid-draft. Pools end up unequal, since the extra pack's picks do not split evenly. Skip it unless you are running a deliberately uneven chaos night.
 
 **Agent of Acquisitions: no.** Taking an entire pack and skipping the rest of the round is a wild swing that mostly produces a bad deck for one player and short packs for everyone else.
 
-**Canal Dredger: no.** In a cube, the last card in every pack is filler. Collecting 24 of them is a joke that costs a pick.
+**Canal Dredger: no.** In a Cube, the last card in every pack is filler. Collecting 24 of them is a joke that costs a pick.
 
-**Cogwork Grinder, Lurking Automaton, Aether Searcher: situational.** Flavorful in a themed cube, dead cards in most decks.
+**Cogwork Grinder, Lurking Automaton, Aether Searcher: situational.** Flavorful in a themed Cube, dead cards in most decks.
 
 The test: if the card is interesting for what it does to the draft and harmless in the game, it is fine. If it breaks the draft's fairness, leave it out.
 
@@ -77,34 +77,34 @@ The test: if the card is interesting for what it does to the draft and harmless 
 - **Pen and paper at every seat.** Noting is part of the format, and noted information is public, so an index card in front of each player is enough.
 - **Face-up cards stay visible.** A face-up card belongs in front of the player, not in the pile. If it goes back into a pack, as the Librarian does, the player says so.
 - **Keep packs in step.** The release notes say this directly. When one player is using a draft ability, the rest of the table waits for that pack rather than running ahead.
-- **Online, use Draftmancer.** It runs most draft-matters cards, including Cogwork Librarian, Lore Seeker, Canal Dredger, and Paliano. Agent of Acquisitions and Deal Broker work only in part, and Cogwork Spy and Whispergear Sneak are not supported. CubeCobra's own practice draft does not run draft abilities; its Multiplayer Draft button opens the cube in Draftmancer.
+- **Online, use Draftmancer.** It runs most draft-matters cards, including Cogwork Librarian, Lore Seeker, Canal Dredger, and Paliano. Agent of Acquisitions and Deal Broker work only in part, and Cogwork Spy and Whispergear Sneak are not supported. CubeCobra's own practice draft does not run draft abilities; its Multiplayer Draft button opens the Cube in Draftmancer.
 
 ## Where does chaos fit?
 
-Chaos draft, per the [MTG Wiki](https://mtg.wiki/page/Chaos_Draft), is booster draft with every pack from a different set. For a cube, "chaos" means something adjacent: a cube built or drafted so that surprise is the point rather than balance. Lore Seeker belongs in that cube. So do a mystery pack or two, a Conspiracy conspiracy slot, and a rule that the first pick of pack three is taken face down and blind.
+Chaos draft, per the [MTG Wiki](https://mtg.wiki/page/Chaos_Draft), is booster draft with every pack from a different set. For a Cube, "chaos" means something adjacent: a Cube built or drafted so that surprise is the point rather than balance. Lore Seeker belongs in that Cube. So do a mystery pack or two, a Conspiracy conspiracy slot, and a rule that the first pick of pack three is taken face down and blind.
 
-That is a different project from adding a Librarian to a tuned 540, and it has its own article in [chaos cube](/articles/chaos-cube/). The boundary: draft-matters cards add decisions to a draft; chaos removes them. Know which one you are doing on a given night.
+That is a different project from adding a Librarian to a tuned 540, and it has its own article in [chaos Cube](/articles/chaos-cube/). The boundary: draft-matters cards add decisions to a draft; chaos removes them. Know which one you are doing on a given night.
 
 ## FAQ
 
-### What does Cogwork Librarian do in a cube draft?
+### What does Cogwork Librarian do in a Cube draft?
 
 You draft it face up. Later, when you take a card from a pack, you may take a second card and put the Librarian into that pack in its place. The next player can then draft the Librarian and do the same.
 
-### Can you put conspiracies in a cube?
+### Can you put conspiracies in a Cube?
 
-Yes. They start the game in the command zone, do not count toward the 40-card deck, and are drafted like any other card. Hidden agendas are weak in singleton cubes because they name one card.
+Yes. They start the game in the command zone, do not count toward the 40-card deck, and are drafted like any other card. Hidden agendas are weak in singleton Cubes because they name one card.
 
 ### Do draft-matters cards work on Magic Online or Arena?
 
 Arena does not support them. Neither set was released on Magic Online, [the original](https://mtg.wiki/page/Conspiracy) or [Take the Crown](https://mtg.wiki/page/Conspiracy:_Take_the_Crown), so these drafts happen in paper.
 
-### How many Conspiracy cards should a normal cube include?
+### How many Conspiracy cards should a normal Cube include?
 
 One to three. Cogwork Librarian is the usual pick. Paliano, the High City and Deal Broker are the next two. More than that and the draft starts to be about the gimmicks.
 
 ## The draft becomes a game
 
-Draft-matters cards take the part of cube night that usually happens in silence and give it rules, bluffs, and a few surprises. One Librarian in a box changes more conversations than ten new rares. The game is the reason. The people are the point.
+Draft-matters cards take the part of Cube night that usually happens in silence and give it rules, bluffs, and a few surprises. One Librarian in a box changes more conversations than ten new rares. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for new pieces on cube design and the formats around it. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.
+Subscribe to The Ludarium newsletter for new pieces on Cube design and the formats around it. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

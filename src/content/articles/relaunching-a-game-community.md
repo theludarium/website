@@ -14,7 +14,7 @@ We are relaunching now as a branch of The Ludarium. This is the playbook we are 
 
 Almost never because people stopped liking the game. The causes are structural.
 
-- **Single point of failure.** One host, one cube, one calendar. When that calendar fills, the night stops. This was ours.
+- **Single point of failure.** One host, one Cube, one calendar. When that calendar fills, the night stops. This was ours.
 - **Venue loss.** The brewery got busy, the store changed policy, the host moved. The night floats, then sinks.
 - **Unannounced drift.** Three weeks become five. Nobody says "we're pausing," so nobody knows whether to wait or leave.
 - **The core thins at once.** Two of the six regulars move away in the same summer, and the floor of eight becomes a floor of five.
@@ -40,7 +40,7 @@ Other common fixes, matched to causes:
 
 | Cause | Fix before relaunch |
 |---|---|
-| Single host | Name and train two more; give each a key, a cube, or both |
+| Single host | Name and train two more; give each a key, a Cube, or both |
 | Venue loss | Lock a standing reservation; keep a second venue warm |
 | Unannounced drift | Write a rule: the night runs even at four players, and a pause gets announced the day it starts |
 | Thinned core | Relaunch with a smaller target and a plan to seat first-timers well |
@@ -101,15 +101,15 @@ After eight weeks, bring back the layers, each one at a time, each given a month
 1. **The second pod,** once the first pod has been at eight or more for four straight weeks.
 2. **New-player night,** once there are enough regulars who like teaching.
 3. **The league,** in season two, not season one.
-4. **The change log and the community cube,** which can restart earlier because they cost nothing and give the regulars something to argue about between nights.
+4. **The change log and the community Cube,** which can restart earlier because they cost nothing and give the regulars something to argue about between nights.
 
 Adding everything back at once recreates the load that broke the first version.
 
 ## What is different about relaunching under The Ludarium?
 
-For us, the relaunch is also a change of ownership in spirit. Cube Commonwealth was one person's night. It is becoming a branch of a venture whose purpose is places for adults to play together, regularly, in person. The night is now part of something larger, with more than one person responsible for it, and eventually a lounge in Indianapolis where the cube has a permanent shelf.
+For us, the relaunch is also a change of ownership in spirit. Cube Commonwealth was one person's night. It is becoming a branch of a venture whose purpose is places for adults to play together, regularly, in person. The night is now part of something larger, with more than one person responsible for it, and eventually a lounge in Indianapolis where the Cube has a permanent shelf.
 
-We do not know yet whether that structure holds better. We think it will, because the failure we hit was a single calendar, and a branch has several. We will write about it either way. The earlier version of this story, before the pause, is in [Cube Commonwealth: a community around one cube](/articles/cube-commonwealth/).
+We do not know yet whether that structure holds better. We think it will, because the failure we hit was a single calendar, and a branch has several. We will write about it either way. The earlier version of this story, before the pause, is in [Cube Commonwealth: a community around one Cube](/articles/cube-commonwealth/).
 
 ## The checklist
 

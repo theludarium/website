@@ -23,7 +23,7 @@ A Magic deck is sixty cards chosen from thousands, and it has to do something co
 
 **Plans meet opponents.** A deck that is perfect in a vacuum loses to the deck that was built to beat it. Deckbuilding teaches you to design for an environment, not an ideal. Anyone who has launched a product into a market knows how rare that instinct is.
 
-The format we love most, cube, takes this a step further by making you build the deck live, from a pack you did not choose, in forty-five minutes. [Cube draft strategy](/articles/cube-draft-strategy/) is deckbuilding under time pressure with incomplete information, which is the version of the skill that pays.
+The format we love most, Cube, takes this a step further by making you build the deck live, from a pack you did not choose, in forty-five minutes. [Cube draft strategy](/articles/cube-draft-strategy/) is deckbuilding under time pressure with incomplete information, which is the version of the skill that pays.
 
 ## What does playing teach about reading people?
 
@@ -66,7 +66,7 @@ Some of the most durable lessons are side effects.
 | Teaching | Explaining the stack to a friend for the tenth time | Mentoring, onboarding, parenting |
 | Running an event | Organizing a draft for eight people | Project management, hosting, every meeting ever |
 
-The last one is underrated. Thousands of adults learned to run a tournament, handle a dispute, and keep eight people on schedule because they were the one with the cards. [How to run a cube night](/articles/how-to-run-a-cube-draft/) is a hosting guide first and a Magic guide second, and that is not an accident.
+The last one is underrated. Thousands of adults learned to run a tournament, handle a dispute, and keep eight people on schedule because they were the one with the cards. [How to run a Cube night](/articles/how-to-run-a-cube-draft/) is a hosting guide first and a Magic guide second, and that is not an accident.
 
 ## Is any of this good for you, or is it just a hobby?
 
@@ -90,7 +90,7 @@ It is mentally demanding and, played in person, socially engaged. Research on ga
 
 ### Is Magic a good game for kids?
 
-For most kids ten and up, yes. It teaches reading, math, patience, and losing gracefully. The cost can be managed by playing cube or draft instead of collecting.
+For most kids ten and up, yes. It teaches reading, math, patience, and losing gracefully. The cost can be managed by playing Cube or draft instead of collecting.
 
 ### Why do adults still play Magic?
 
@@ -98,7 +98,7 @@ Because the game is deep enough to reward decades of play, and because the table
 
 ## Keep the lessons, keep the table
 
-If Magic taught you something that stuck, we would like to hear it. The Ludarium newsletter sends new pieces on what games teach and why playing together matters, If you are a former player who wants back in, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, is relaunching as part of The Ludarium. Subscribe to hear when the first night is set.
+If Magic taught you something that stuck, we would like to hear it. The Ludarium newsletter sends new pieces on what games teach and why playing together matters, If you are a former player who wants back in, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis Cube group, is relaunching as part of The Ludarium. Subscribe to hear when the first night is set.
 
 The game is the reason. The people are the point.
 

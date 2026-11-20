@@ -147,7 +147,7 @@ Yes, two ways.
 
 ## Cube draft: the no-cost alternative
 
-If buying packs every week does not appeal to you, try a cube. A cube is a hand-picked collection of cards, usually 360 to 540 of them, that a friend or store owns and the group drafts again and again. The draft works the same way, but nobody opens new packs, so drafting is free. Our guide to [what an MTG cube is](/articles/what-is-a-magic-cube/) explains how it works, and the [cube draft guide for new players](/articles/cube-draft-guide-new-players/) is a one-page cheat sheet for your first cube night. The Academy's [Cube Draft course](/academy/cube-draft/) goes deeper.
+If buying packs every week does not appeal to you, try a Cube. A Cube is a hand-picked collection of cards, usually 360 to 540 of them, that a friend or store owns and the group drafts again and again. The draft works the same way, but nobody opens new packs, so drafting is free. Our guide to [what an MTG Cube is](/articles/what-is-a-magic-cube/) explains how it works, and the [Cube draft guide for new players](/articles/cube-draft-guide-new-players/) is a one-page cheat sheet for your first Cube night. The Academy's [Cube Draft course](/academy/cube-draft/) goes deeper.
 
 ## FAQ
 
@@ -165,15 +165,15 @@ Yes. Everyone starts even, the store supplies the cards, and the format teaches 
 
 ### Do you keep the cards after a Magic draft?
 
-At a store or kitchen-table draft, yes. The cards you draft are yours. In a cube draft the cards go back to the cube's owner.
+At a store or kitchen-table draft, yes. The cards you draft are yours. In a Cube draft the cards go back to the Cube's owner.
 
 ### Can you draft Magic with fewer than eight players?
 
-Yes. Wizards lists booster draft for 2 to 8 players, and Pick-Two Draft is built for four. With two players, try one of the [two-player cube formats](/articles/two-player-cube-formats/).
+Yes. Wizards lists booster draft for 2 to 8 players, and Pick-Two Draft is built for four. With two players, try one of the [two-player Cube formats](/articles/two-player-cube-formats/).
 
 ## Your next draft
 
-Your first draft is about finishing with a playable deck. Your second is about noticing signals. When you want more, go to the [draft strategy lesson](/academy/magic/magic-draft-strategy/) in the free [Magic course](/academy/magic/). Ludarium Letters, just below, sends new Magic and cube guides as they publish.
+Your first draft is about finishing with a playable deck. Your second is about noticing signals. When you want more, go to the [draft strategy lesson](/academy/magic/magic-draft-strategy/) in the free [Magic course](/academy/magic/). Ludarium Letters, just below, sends new Magic and Cube guides as they publish.
 
 The game is the reason. The people are the point.
 

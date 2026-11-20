@@ -39,8 +39,8 @@ const TAG_SERIES: Series[] = [
   { slug: 'indianapolis', tag: 'Indianapolis', name: 'Playing in Indianapolis', blurb: 'Stores, cafes, and game nights in our home city.', category: 'Game Culture' },
   { slug: 'building-the-ludarium', tag: 'Building The Ludarium', name: 'Building The Ludarium', blurb: 'How and why we are building a game lounge.', category: 'Game Culture' },
   { slug: 'design', tag: 'Tabletop game design', name: 'Designing a board game', blurb: 'From an idea to a prototype, a playtest, and a pitch.', category: 'Game Design' },
-  { slug: 'magic-and-cube-basics', tag: 'Magic: The Gathering and Cube', name: 'Magic and Cube, explained', blurb: 'What a cube is, how to draft one, and how to teach Magic with it.', category: 'Magic & Cube' },
-  { slug: 'cube-design-philosophy', tag: 'cube design philosophy', name: 'Cube design philosophy', blurb: 'The questions behind every card in a cube.', category: 'Magic & Cube' },
+  { slug: 'magic-and-cube-basics', tag: 'Magic: The Gathering and Cube', name: 'Magic and Cube, explained', blurb: 'What a Cube is, how to draft one, and how to teach Magic with it.', category: 'Magic & Cube' },
+  { slug: 'cube-design-philosophy', tag: 'Cube design philosophy', name: 'Cube design philosophy', blurb: 'The questions behind every card in a Cube.', category: 'Magic & Cube' },
 ];
 
 // Books and fiction that tabletop players love, read in a set order.

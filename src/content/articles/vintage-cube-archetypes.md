@@ -3,7 +3,7 @@ title: "Vintage Cube Archetypes Right Now (October 2026)"
 description: "Vintage Cube archetypes in the October 7, 2026 MTGO list: Boros, Welder artifacts, Bomberman, landfall, red prowess, and Reanimator, with key cards for each."
 pubDate: 2026-10-18
 category: Magic & Cube
-tags: ["Vintage Cube archetypes", "MTGO Vintage Cube decks", "Vintage Cube Boros", "Goblin Welder cube", "Vintage Cube combo", "what to draft in Vintage Cube", "Cube Commonwealth"]
+tags: ["Vintage Cube archetypes", "MTGO Vintage Cube decks", "Vintage Cube Boros", "Goblin Welder Cube", "Vintage Cube combo", "what to draft in Vintage Cube", "Cube Commonwealth"]
 draft: true
 ---
 The Vintage Cube archetypes that matter in October 2026 are, by the curator's own account, Boros aggro at the top, then a layer of combo (Welder artifacts, Bomberman, Painter's Servant, Devoted Druid, Dark Depths), the blue power decks, Reanimator and Sneak, and two new lanes on trial: landfall and red prowess. This is a snapshot of the list effective October 7, 2026, built from the [Reality Fracture update post](https://www.mtgo.com/news/fra-vintage-cube-update) of October 2, 2026 and the [full card list](https://www.mtgo.com/vintage-cube-cardlist).
@@ -16,7 +16,7 @@ Boros. The October 2026 post says it directly: "Boros remains the strongest arch
 
 What is still there: Mother of Runes, Giver of Runes, Ocelot Pride, Adeline, Resplendent Cathar, Luminarch Aspirant, Elite Spellbinder, Ragavan, Nimble Pilferer, Gut, True Soul Zealot, Headliner Scarlett, Screaming Nemesis, Figure of Destiny, Phlage, Titan of Fire's Fury, Forth Eorlingas!, Smuggler's Copter, Umezawa's Jitte, Kaldra Compleat, plus Chain Lightning, Lightning Bolt, Burst Lightning, Galvanic Discharge, and Unholy Heat for removal. The gold section for Boros is small (Figure of Destiny, Forth Eorlingas!, Otharri, Phlage, Zirda) but the mono-colored halves are deep.
 
-If you want to understand why aggro works in a powered cube at all, our piece on [aggro in cube](/articles/aggro-in-cube/) covers the general case. The short version here: Moxen make everyone's turn two faster, and the deck with the cheapest threats benefits most.
+If you want to understand why aggro works in a powered Cube at all, our piece on [aggro in Cube](/articles/aggro-in-cube/) covers the general case. The short version here: Moxen make everyone's turn two faster, and the deck with the cheapest threats benefits most.
 
 ## What combo decks does the Vintage Cube support?
 
@@ -45,9 +45,9 @@ Blue combo in the old sense is thinner. Time Vault is not on the [October 7 list
 
 Three overlapping shells.
 
-**Power blue.** Ancestral Recall, Time Walk, Timetwister, the Moxen, Sol Ring, Mana Crypt, Mana Vault, Tinker into Blightsteel Colossus or Portal to Phyrexia, Tolarian Academy, Upheaval, Time Spiral, Echo of Eons. Jace, the Mind Sculptor and Narset, Parter of Veils for control. This deck has existed as long as the cube has and the only question each update is which finisher is in. Right now Triplicate Titan is out again (October) and Ginger, Queen of Sweets is the secondary Tinker target.
+**Power blue.** Ancestral Recall, Time Walk, Timetwister, the Moxen, Sol Ring, Mana Crypt, Mana Vault, Tinker into Blightsteel Colossus or Portal to Phyrexia, Tolarian Academy, Upheaval, Time Spiral, Echo of Eons. Jace, the Mind Sculptor and Narset, Parter of Veils for control. This deck has existed as long as the Cube has and the only question each update is which finisher is in. Right now Triplicate Titan is out again (October) and Ginger, Queen of Sweets is the secondary Tinker target.
 
-**Izzet spellslinger.** Vivi Ornitier, Cori-Steel Cutter, Third Path Iconoclast, Thundertrap Trainer, Stormchaser's Talent, Flame of Anor, Expressive Iteration, Fable of the Mirror-Breaker, and the cantrips. The August 2025 post called this the cube's expanding "noncreature matters" space. In October 2026 it also gets the red prowess additions as crossover.
+**Izzet spellslinger.** Vivi Ornitier, Cori-Steel Cutter, Third Path Iconoclast, Thundertrap Trainer, Stormchaser's Talent, Flame of Anor, Expressive Iteration, Fable of the Mirror-Breaker, and the cantrips. The August 2025 post called this the Cube's expanding "noncreature matters" space. In October 2026 it also gets the red prowess additions as crossover.
 
 **Tempo.** Brazen Borrower, Ledger Shredder, The Wondrous Wasp, Fallen Shinobi, Psychic Frog, Kaito, Bane of Nightmares, Daze, Spell Pierce, Memory Lapse, Stern Scolding, Boomerang Basics. Dimir has the deepest gold section for this.
 
@@ -65,9 +65,9 @@ Everything else graveyard has been trimmed. The madness package that ran January
 
 **Selesnya combo.** Brightglass Gearhulk, Marwyn, Six, Figure of Fable, Knight of the Reliquary, Torsten, Okoye. The post says Selesnya has historically been "unexciting, not weak," and the fix is tutors and an infinite.
 
-## How does this compare to the archetype map of a normal cube?
+## How does this compare to the archetype map of a normal Cube?
 
-A normal 540 supports ten two-color lanes and a few overlays, as our [cube archetypes explained](/articles/cube-archetypes-explained/) piece lays out. The Vintage Cube is not organized that way anymore. It is organized around four or five mono-colored or colorless engines (Boros aggro, blue power, Welder, Reanimator, green ramp into Natural Order and Oath of Druids) with gold sections that mostly carry fixing and one or two signposts each. Rakdos has ten gold cards and seven of them are lands.
+A normal 540 supports ten two-color lanes and a few overlays, as our [Cube archetypes explained](/articles/cube-archetypes-explained/) piece lays out. The Vintage Cube is not organized that way anymore. It is organized around four or five mono-colored or colorless engines (Boros aggro, blue power, Welder, Reanimator, green ramp into Natural Order and Oath of Druids) with gold sections that mostly carry fixing and one or two signposts each. Rakdos has ten gold cards and seven of them are lands.
 
 That is a design choice, and a 2026 one. If you draft it expecting a Gruul deck to exist because there is a Gruul section, you will end up with Wrenn and Six and fourteen lands.
 
@@ -91,4 +91,4 @@ Our experience, not the curator's data: two blue decks, one Boros, one Reanimato
 
 ## One snapshot a month
 
-We redo this map after every Vintage Cube update. The game is the reason. The people are the point. Subscribe to The Ludarium newsletter for the November version the week it posts, and come draft powered cube with [Cube Commonwealth](/articles/cube-draft-indianapolis/) in Indianapolis to find out which of these decks you actually like.
+We redo this map after every Vintage Cube update. The game is the reason. The people are the point. Subscribe to The Ludarium newsletter for the November version the week it posts, and come draft powered Cube with [Cube Commonwealth](/articles/cube-draft-indianapolis/) in Indianapolis to find out which of these decks you actually like.

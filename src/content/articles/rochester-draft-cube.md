@@ -1,14 +1,14 @@
 ---
 title: "Rochester Draft for Cube: The Open-Information Format"
-description: "Rochester draft for cube, step by step: how to lay out each pack, the snake pick order, who opens next, and how long eight players need to finish the draft."
+description: "Rochester draft for Cube, step by step: how to lay out each pack, the snake pick order, who opens next, and how long eight players need to finish the draft."
 pubDate: 2026-10-21
 category: Magic & Cube
-tags: ["Rochester draft", "Rochester draft rules", "open information draft", "cube draft formats", "how to Rochester draft", "draft with face-up packs", "Cube Commonwealth"]
+tags: ["Rochester draft", "Rochester draft rules", "open information draft", "Cube draft formats", "how to Rochester draft", "draft with face-up packs", "Cube Commonwealth"]
 draft: false
 ---
 Rochester draft opens one pack at a time, face up, in the middle of the table. Players take one card each in a snaking order until the pack is gone, then the next player opens the next pack. Nothing is hidden. You see every card your neighbors take, and they see yours.
 
-It is the slowest of the pack-based formats and the most social. For a cube, it turns a quiet 45-minute pick session into an hour of open negotiation, visible lanes, and public hate-drafts. This article gives the procedure precisely enough to run it tonight, then says when it is worth the time.
+It is the slowest of the pack-based formats and the most social. For a Cube, it turns a quiet 45-minute pick session into an hour of open negotiation, visible lanes, and public hate-drafts. This article gives the procedure precisely enough to run it tonight, then says when it is worth the time.
 
 ## Where did Rochester draft come from?
 
@@ -18,11 +18,11 @@ That length is the trade. In exchange you get a draft where every pick is a stat
 
 ## How does Rochester draft work?
 
-The setup assumes eight players and a 360-card cube split into 24 packs of 15. The procedure below follows the tournament rules for Rochester as written in the [Magic Tournament Rules, section 8.5](https://blogs.magicjudges.org/rules/mtr8-5/), simplified for a single table of individuals rather than teams.
+The setup assumes eight players and a 360-card Cube split into 24 packs of 15. The procedure below follows the tournament rules for Rochester as written in the [Magic Tournament Rules, section 8.5](https://blogs.magicjudges.org/rules/mtr8-5/), simplified for a single table of individuals rather than teams.
 
 **Setup**
 
-1. Shuffle the cube and deal 24 face-down packs of 15. Give each player three packs. Do not open them.
+1. Shuffle the Cube and deal 24 face-down packs of 15. Give each player three packs. Do not open them.
 2. Seat eight players around one table. Number the seats 1 through 8 clockwise.
 3. Seat 1 is the first "opener." Choose it by die roll.
 
@@ -49,7 +49,7 @@ Build 40-card decks as usual. Deck-building takes less time than normal because 
 
 At tournament pace, the MTR allows 20 seconds of review and 5 seconds per pick, which works out to about a minute and a half per pack and roughly 40 minutes for 24 packs. No casual table plays that fast.
 
-Budget 60 to 90 minutes for a cube Rochester with eight experienced players. Groups that let the table talk between picks, which is most of the fun, run closer to 90. If your night has a hard stop, plan for the draft to take twice as long as your usual one.
+Budget 60 to 90 minutes for a Cube Rochester with eight experienced players. Groups that let the table talk between picks, which is most of the fun, run closer to 90. If your night has a hard stop, plan for the draft to take twice as long as your usual one.
 
 | | Standard booster-style draft | Rochester draft |
 |---|---|---|
@@ -71,7 +71,7 @@ Three things, and they are the whole reason to run it.
 
 **Hate-drafting is correct.** When you are the last player to take a card from a pack and there is nothing for your deck, taking the best card for the deck you will face is free. In a normal draft that card would have wheeled to a stranger. Here you know exactly whose it would have been.
 
-The flip side: the format is harder on new players. There is no quiet pack to learn in, and every hesitation is watched. If you have a first-timer at the table, seat them next to a patient veteran and allow table talk. Our first-timer approach is in [cube for new Magic players](/articles/cube-for-new-magic-players/).
+The flip side: the format is harder on new players. There is no quiet pack to learn in, and every hesitation is watched. If you have a first-timer at the table, seat them next to a patient veteran and allow table talk. Our first-timer approach is in [Cube for new Magic players](/articles/cube-for-new-magic-players/).
 
 ## What house rules make Rochester run better?
 
@@ -85,7 +85,7 @@ The flip side: the format is harder on new players. There is no quiet pack to le
 
 Run it when the group wants a draft that is also a conversation, and when the draft itself is the evening rather than a preamble to games. It is the best format we know for a rivalry pod: six or eight regulars who have drafted together for years and want to see each other's choices.
 
-Skip it when time is short, when half the table is new, or when you have more than eight players, because a nine-player table turns 90 minutes into two hours. For a fully open draft with less table time, the rotisserie format in [cube sealed and rotisserie](/articles/cube-sealed-rotisserie/) is slower per pick but easier to run online over a week, and Grid draft covers two to four players.
+Skip it when time is short, when half the table is new, or when you have more than eight players, because a nine-player table turns 90 minutes into two hours. For a fully open draft with less table time, the rotisserie format in [Cube sealed and rotisserie](/articles/cube-sealed-rotisserie/) is slower per pick but easier to run online over a week, and Grid draft covers two to four players.
 
 ## FAQ
 
@@ -109,4 +109,4 @@ Rarely. The MTR still documents the [team version](https://blogs.magicjudges.org
 
 Rochester takes twice as long and produces half the surprises. In exchange it gives you an hour where eight people watch each other think. The game is the reason. The people are the point.
 
-Subscribe to The Ludarium newsletter for new draft formats and house rules, written to be run from the page. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.
+Subscribe to The Ludarium newsletter for new draft formats and house rules, written to be run from the page. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

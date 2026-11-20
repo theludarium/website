@@ -131,7 +131,7 @@ The Ludarium Academy has a free how-to-play lesson for each of its game courses.
 
 ### Trading card games
 
-- [How to play Magic: The Gathering](/academy/magic/how-to-play-magic/), and [how a cube draft works](/academy/cube-draft/how-to-play-cube-draft/)
+- [How to play Magic: The Gathering](/academy/magic/how-to-play-magic/), and [how a Cube draft works](/academy/cube-draft/how-to-play-cube-draft/)
 - [How to play Disney Lorcana](/academy/lorcana/how-to-play-lorcana/)
 - [How to play the Pokémon TCG](/academy/pokemon-tcg/how-to-play-pokemon-tcg/)
 - [How to start playing the One Piece Card Game](/academy/one-piece-card-game/how-to-play-one-piece-card-game/)

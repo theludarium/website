@@ -1,13 +1,13 @@
 ---
 title: "Magic: The Gathering in Indianapolis: Where to Play"
-description: "Where to play Magic: The Gathering in Indianapolis: stores with Friday Night Magic and Commander nights, sorted by area, plus how to find a local cube draft."
+description: "Where to play Magic: The Gathering in Indianapolis: stores with Friday Night Magic and Commander nights, sorted by area, plus how to find a local Cube draft."
 pubDate: 2026-10-21
 category: Game Culture
 games: [magic-the-gathering]
-tags: ["Magic the Gathering Indianapolis", "Friday Night Magic Indianapolis", "Commander night Indianapolis", "MTG stores Indianapolis", "Magic Carmel Fishers Noblesville", "cube draft Indianapolis", "Indianapolis"]
+tags: ["Magic the Gathering Indianapolis", "Friday Night Magic Indianapolis", "Commander night Indianapolis", "MTG stores Indianapolis", "Magic Carmel Fishers Noblesville", "Cube draft Indianapolis", "Indianapolis"]
 draft: false
 ---
-If you want to play [Magic: The Gathering](https://www.amazon.com/dp/B0D9KXBNBB?tag=cubecommonw0a-20) in Indianapolis, you are in a good city for it. Nearly every game store in the metro runs weekly Magic events, Commander night is the most common public game night in town, and Gen Con, North America's largest tabletop convention, comes to the convention center each summer. This guide lists the confirmed places to play by area, explains the formats you will find at each, and covers the one format most stores do not run: cube.
+If you want to play [Magic: The Gathering](https://www.amazon.com/dp/B0D9KXBNBB?tag=cubecommonw0a-20) in Indianapolis, you are in a good city for it. Nearly every game store in the metro runs weekly Magic events, Commander night is the most common public game night in town, and Gen Con, North America's largest tabletop convention, comes to the convention center each summer. This guide lists the confirmed places to play by area, explains the formats you will find at each, and covers the one format most stores do not run: Cube.
 
 Store schedules shift. Each venue below was checked against its own site or a current listing in October 2026; confirm the night before you drive.
 
@@ -43,11 +43,11 @@ Commander is the right first night for most people because the format is casual 
 
 *If this is useful, the newsletter sends more like it.*
 
-## Where can you play cube draft in Indianapolis?
+## Where can you play Cube draft in Indianapolis?
 
-Rarely in public, which is the gap that matters most to us. Gray Gauntlet Games in Fishers runs an occasional cube draft. A cube is a curated set of cards, usually a few hundred, that a group drafts over and over without buying packs. It is the best way to play Magic cheaply and the best way to draft with the same friends for years. Stores rarely run it because nothing is sold.
+Rarely in public, which is the gap that matters most to us. Gray Gauntlet Games in Fishers runs an occasional Cube draft. A Cube is a curated set of cards, usually a few hundred, that a group drafts over and over without buying packs. It is the best way to play Magic cheaply and the best way to draft with the same friends for years. Stores rarely run it because nothing is sold.
 
-[Cube Commonwealth](/articles/cube-draft-indianapolis/), The Ludarium's cube group, is relaunching as part of The Ludarium. If you want in, the newsletter is where the first night will be announced. For background, start with [what a Magic cube is](/articles/what-is-a-magic-cube/).
+[Cube Commonwealth](/articles/cube-draft-indianapolis/), The Ludarium's Cube group, is relaunching as part of The Ludarium. If you want in, the newsletter is where the first night will be announced. For background, start with [what a Magic Cube is](/articles/what-is-a-magic-cube/).
 
 ## How do you get into an Indianapolis Magic community, not just a store?
 
@@ -89,6 +89,6 @@ Yes, especially Commander. Tell the staff you are new; most stores will seat you
 
 ## Shuffle up
 
-Indianapolis has a Magic table for almost every night of the week, and a cube community for the nights the stores do not cover. The game is the reason. The people are the point.
+Indianapolis has a Magic table for almost every night of the week, and a Cube community for the nights the stores do not cover. The game is the reason. The people are the point.
 
 For first word on Cube Commonwealth nights and The Ludarium's lounge in Indianapolis, subscribe to the newsletter. Short emails.

@@ -1,20 +1,20 @@
 ---
 title: "Cube Spotlight Template: Profile a Member's Cube"
-description: "A reusable cube spotlight template for profiling a member's cube: the questions to ask, the numbers to collect, the structure, and the mistakes to avoid."
+description: "A reusable Cube spotlight template for profiling a member's Cube: the questions to ask, the numbers to collect, the structure, and the mistakes to avoid."
 pubDate: 2026-10-18
 category: Magic & Cube
-tags: ["cube spotlight", "member cube profile", "cube interview template", "feature a cube", "cube community content", "cube primer interview", "Cube Commonwealth"]
+tags: ["Cube spotlight", "member Cube profile", "Cube interview template", "feature a Cube", "Cube community content", "Cube primer interview", "Cube Commonwealth"]
 draft: true
 ---
-A cube spotlight is a short profile of one person's cube, written for the rest of the group. Done well it does three things: it makes the owner feel seen, it teaches everyone else something about design, and it gives new members a reason to show up on the night that cube is on the table. This is the template Cube Commonwealth uses. Copy it, fill in the placeholders, and publish one a month.
+A Cube spotlight is a short profile of one person's Cube, written for the rest of the group. Done well it does three things: it makes the owner feel seen, it teaches everyone else something about design, and it gives new members a reason to show up on the night that Cube is on the table. This is the template Cube Commonwealth uses. Copy it, fill in the placeholders, and publish one a month.
 
 Every specific below is a placeholder marked `<!-- EDITOR: ... -->`. Nothing in this template should be published with a placeholder left in, and nothing should be attributed to a member that they did not say. Quotes come from the interview, verbatim, with the member's approval.
 
 ## Before you write: the interview
 
-Sit down with the owner for thirty minutes, ideally with the cube on the table. Ask these in order and write down the answers. The longer list in [twenty questions to ask a cube designer](/articles/cube-designer-interview-questions/) is for a full interview; these twelve are enough for a spotlight.
+Sit down with the owner for thirty minutes, ideally with the Cube on the table. Ask these in order and write down the answers. The longer list in [twenty questions to ask a Cube designer](/articles/cube-designer-interview-questions/) is for a full interview; these twelve are enough for a spotlight.
 
-1. What is the cube called, and why?
+1. What is the Cube called, and why?
 2. When did you start it, and what was the first version?
 3. How many cards is it now, and what power level would you call it?
 4. What is it for? Who do you picture drafting it?
@@ -35,9 +35,9 @@ Copy from here down.
 
 ---
 
-## <!-- EDITOR: cube name -->: <!-- EDITOR: owner's first name -->'s Cube
+## <!-- EDITOR: Cube name -->: <!-- EDITOR: owner's first name -->'s Cube
 
-<!-- EDITOR: one-sentence hook: what makes this cube different from the others in the group, in the owner's words or yours. Example shape: "A 450-card unpowered cube where every deck has a graveyard plan, built by someone who hates being told to play fair." -->
+<!-- EDITOR: one-sentence hook: what makes this Cube different from the others in the group, in the owner's words or yours. Example shape: "A 450-card unpowered Cube where every deck has a graveyard plan, built by someone who hates being told to play fair." -->
 
 **Owner:** <!-- EDITOR: first name, or handle if preferred -->
 **Size:** <!-- EDITOR: N cards -->
@@ -71,7 +71,7 @@ Copy from here down.
 
 ## Three cards that stay
 
-<!-- EDITOR: the answers to question 5, one short paragraph each: the card, why the owner keeps it, what it does for the cube. -->
+<!-- EDITOR: the answers to question 5, one short paragraph each: the card, why the owner keeps it, what it does for the Cube. -->
 
 ## The one that got away
 
@@ -89,7 +89,7 @@ Copy from here down.
 
 ## If it is your first time
 
-<!-- EDITOR: the answer to question 10, written as advice to a new drafter in two to four sentences. What to draft, what to avoid, what the cube rewards. -->
+<!-- EDITOR: the answer to question 10, written as advice to a new drafter in two to four sentences. What to draft, what to avoid, what the Cube rewards. -->
 
 ## What is next
 
@@ -97,7 +97,7 @@ Copy from here down.
 
 ## Draft it
 
-<!-- EDITOR: when this cube is next on the table at Cube Commonwealth, and how to claim a seat. -->
+<!-- EDITOR: when this Cube is next on the table at Cube Commonwealth, and how to claim a seat. -->
 
 ---
 
@@ -111,40 +111,40 @@ A few rules we follow so the spotlights stay honest and worth reading.
 
 **Quotes are real or absent.** If the owner said something good, use it in quotation marks, exactly as said, and show them the draft before it goes out. If they did not, paraphrase without quotation marks. Never write a quote and ask them to approve it after; that is a ghostwritten quote, and readers can tell.
 
-**Say what does not work.** Every cube has a lane the owner is still fighting with. Including it makes the rest of the piece credible, and owners almost always prefer honesty to flattery about their own work.
+**Say what does not work.** Every Cube has a lane the owner is still fighting with. Including it makes the rest of the piece credible, and owners almost always prefer honesty to flattery about their own work.
 
-**Keep it under 1,500 words.** A spotlight is a profile, not a primer. If the owner has a primer, link it. If they do not, this piece may become the seed of one, and [how to write a cube primer](/articles/how-to-write-a-cube-primer/) is where to point them.
+**Keep it under 1,500 words.** A spotlight is a profile, not a primer. If the owner has a primer, link it. If they do not, this piece may become the seed of one, and [how to write a Cube primer](/articles/how-to-write-a-cube-primer/) is where to point them.
 
-**One table, one photo.** The section-count table is the table. The photo is the cube on the table at the venue, with the owner if they are willing. <!-- EDITOR: add photo guidelines for the site -->
+**One table, one photo.** The section-count table is the table. The photo is the Cube on the table at the venue, with the owner if they are willing. <!-- EDITOR: add photo guidelines for the site -->
 
-**Publish on a schedule.** One spotlight a month, the week before that cube is next drafted, so the piece doubles as the invitation.
+**Publish on a schedule.** One spotlight a month, the week before that Cube is next drafted, so the piece doubles as the invitation.
 
-## Why spotlights matter to a cube group
+## Why spotlights matter to a Cube group
 
-A group with one cube has one owner. A group with twelve cubes has twelve people who each have a reason to come, a thing to be proud of, and a night that is theirs. Spotlights make that visible. They also quietly raise the design standard: once a member has read five profiles that count sections and name lanes, their own cube starts getting counted and named.
+A group with one Cube has one owner. A group with twelve Cubes has twelve people who each have a reason to come, a thing to be proud of, and a night that is theirs. Spotlights make that visible. They also quietly raise the design standard: once a member has read five profiles that count sections and name lanes, their own Cube starts getting counted and named.
 
-The Ludarium's interest here is the same as everywhere else. The cubes are the medium. The profiles are about the people who built them, and the point of publishing is that twelve people feel known by the room.
+The Ludarium's interest here is the same as everywhere else. The Cubes are the medium. The profiles are about the people who built them, and the point of publishing is that twelve people feel known by the room.
 
 ## FAQ
 
-### What is a cube spotlight?
+### What is a Cube spotlight?
 
-A short written profile of one person's cube, covering its origin, structure, archetypes and house rules, published for the rest of a cube group.
+A short written profile of one person's Cube, covering its origin, structure, archetypes and house rules, published for the rest of a Cube group.
 
-### How long should a cube spotlight be?
+### How long should a Cube spotlight be?
 
 Under 1,500 words, with one section-count table. A spotlight is a profile, not a full primer.
 
-### Can I use quotes from the cube owner?
+### Can I use quotes from the Cube owner?
 
 Yes, if they are verbatim from the interview and the owner has seen the draft. Never write a quote for someone and ask them to approve it afterward.
 
-### How often should a cube group publish spotlights?
+### How often should a Cube group publish spotlights?
 
-One a month works well, timed the week before that cube is next on the table so the profile doubles as an invitation.
+One a month works well, timed the week before that Cube is next on the table so the profile doubles as an invitation.
 
 ## Get spotlighted
 
-If you are a Cube Commonwealth member with a cube, you are on the list; if you are not a member yet, [here is how to join in Indianapolis](/articles/cube-draft-indianapolis/). Subscribe to The Ludarium newsletter and every member spotlight lands in your inbox the week it publishes.
+If you are a Cube Commonwealth member with a Cube, you are on the list; if you are not a member yet, [here is how to join in Indianapolis](/articles/cube-draft-indianapolis/). Subscribe to The Ludarium newsletter and every member spotlight lands in your inbox the week it publishes.
 
 The game is the reason. The people are the point.

@@ -90,4 +90,4 @@ Play the first game with both hands face up on the table. You can then point out
 
 If they lose, offer a rematch with the decks swapped. Playing your deck shows them what it was trying to do.
 
-Some groups skip starter decks entirely and teach with a cube draft, where everyone builds a deck from the same shared pool. Our article on [teaching Magic with a cube](/articles/how-to-teach-magic-the-gathering/) makes that case, and it pairs well with the [one-page cube guide for first-timers](/articles/cube-draft-guide-new-players/).
+Some groups skip starter decks entirely and teach with a Cube draft, where everyone builds a deck from the same shared pool. Our article on [teaching Magic with a Cube](/articles/how-to-teach-magic-the-gathering/) makes that case, and it pairs well with the [one-page Cube guide for first-timers](/articles/cube-draft-guide-new-players/).

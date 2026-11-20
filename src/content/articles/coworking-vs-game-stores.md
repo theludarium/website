@@ -75,7 +75,7 @@ Coworking's biggest failures were about scale and leases, not about the idea. Th
 Take the membership idea, apply the space standards, keep the hobby shop's generosity, and you get something like this.
 
 - **Daytime:** quiet, coffee, a few two-player tables, remote workers who break for a game at lunch. Close to coworking in feel.
-- **Evening:** the room fills. Public game night on one side, a reserved campaign table on the other, a cube draft in the back room.
+- **Evening:** the room fills. Public game night on one side, a reserved campaign table on the other, a Cube draft in the back room.
 - **Weekends:** families in the morning, groups in the afternoon, a louder crowd at night.
 - **Revenue:** memberships first, then food and drink, then events, then a small, curated retail shelf of games the staff love and will teach.
 - **Staff:** at least one person on every shift whose only job is to teach games and remember names.

@@ -1,26 +1,26 @@
 ---
 title: "Cube Slot Design: Sections and the Spreadsheet"
-description: "Cube slot design turns a pile of good cards into a format. How to break a cube into sections and named slots, plus the columns your spreadsheet needs."
+description: "Cube slot design turns a pile of good cards into a format. How to break a Cube into sections and named slots, plus the columns your spreadsheet needs."
 pubDate: 2026-10-21
 category: Magic & Cube
-tags: ["cube slot design", "cube spreadsheet", "cube sections", "cube slots", "cube list structure", "how to organize a cube", "Cube Commonwealth"]
+tags: ["Cube slot design", "Cube spreadsheet", "Cube sections", "Cube slots", "Cube list structure", "how to organize a Cube", "Cube Commonwealth"]
 draft: false
 ---
-Cube slot design is the habit of deciding what a card is for before deciding which card it is. A cube with 540 good cards and no structure plays like a pile. A cube with 540 named slots, each filled by the best card for that job, plays like a format. The difference is not the cards. It is the spreadsheet behind them.
+Cube slot design is the habit of deciding what a card is for before deciding which card it is. A Cube with 540 good cards and no structure plays like a pile. A Cube with 540 named slots, each filled by the best card for that job, plays like a format. The difference is not the cards. It is the spreadsheet behind them.
 
-This article covers how to break a cube into sections, how to turn sections into slots, and what columns your list needs so that every future update is a decision instead of a guess.
+This article covers how to break a Cube into sections, how to turn sections into slots, and what columns your list needs so that every future update is a decision instead of a guess.
 
 ## What is the difference between a section and a slot?
 
-A **section** is a top-level bucket: white, blue, black, red, green, gold, colorless, lands. Every cube has them, and most owners can recite their section counts from memory. A 540 might be 70 per color, 60 gold, 40 colorless, 90 lands. Sections tell you how big each color is. They do not tell you what is in it.
+A **section** is a top-level bucket: white, blue, black, red, green, gold, colorless, lands. Every Cube has them, and most owners can recite their section counts from memory. A 540 might be 70 per color, 60 gold, 40 colorless, 90 lands. Sections tell you how big each color is. They do not tell you what is in it.
 
 A **slot** is a job inside a section. "White, one-drop creature, aggro" is a slot. "Black, unconditional removal, two mana" is a slot. "Gold, blue-red, spells signpost" is a slot. A section of 70 white cards is really 70 slots, and when you write them down you discover that about 55 are obvious and 15 are open to argument. Those 15 are where the design lives.
 
-The reason to think in slots is that cards are replaceable and jobs are not. When a new set prints a better two-mana black removal spell, you swap it into that slot and the cube's shape does not move. When you add a card because it is good, with no slot in mind, the cube's shape moves a little every time, and after two years you cannot say why aggro stopped working.
+The reason to think in slots is that cards are replaceable and jobs are not. When a new set prints a better two-mana black removal spell, you swap it into that slot and the Cube's shape does not move. When you add a card because it is good, with no slot in mind, the Cube's shape moves a little every time, and after two years you cannot say why aggro stopped working.
 
 ## How do you break a color into slots?
 
-Start with roles, then with mana values, then with the specific card. Here is a worked example for white in a 540 unpowered cube with 70 white slots. The counts are house guidelines; the method is the point.
+Start with roles, then with mana values, then with the specific card. Here is a worked example for white in a 540 unpowered Cube with 70 white slots. The counts are house guidelines; the method is the point.
 
 | Role | Count | Mana value spread |
 |---|---|---|
@@ -31,7 +31,7 @@ Start with roles, then with mana values, then with the specific card. Here is a 
 | Equipment and auras | 3 | |
 | Card advantage and recursion | 5 | |
 | Hate and utility | 4 | Graveyard, artifact, and tax effects |
-| Flex | 6 | Whatever the cube needs this season |
+| Flex | 6 | Whatever the Cube needs this season |
 | **Total** | **70** | |
 
 Three things to notice.
@@ -75,7 +75,7 @@ Most owners start with one column: the card name. Here is the minimum that makes
 9. **Replaces.** For any card added in the last year, which card left for it. This is your change log in miniature.
 10. **Notes.** Why it is here. Future you will not remember.
 
-With these columns a pivot table answers every structural question in seconds: how many one-drops per color, how many removal spells at two mana, how many cards does the blue-red lane actually have, how many "on notice" cards are there in green. Without them, you answer those questions by laying out the cube on a table, which people do, once, and then never update.
+With these columns a pivot table answers every structural question in seconds: how many one-drops per color, how many removal spells at two mana, how many cards does the blue-red lane actually have, how many "on notice" cards are there in green. Without them, you answer those questions by laying out the Cube on a table, which people do, once, and then never update.
 
 CubeCobra's tags, notes and status field cover most of this inside the site, it records each card's date added, and its analysis tab shows curves and type counts per color without any spreadsheet at all ([cubecobra.com](https://cubecobra.com)). We still keep a sheet because tags are faster to query in bulk, but either works.
 
@@ -83,13 +83,13 @@ CubeCobra's tags, notes and status field cover most of this inside the site, it 
 
 Three ways, all for the better.
 
-**Every change is a swap, not an add.** The question is never "should this be in the cube" but "which slot does it take, and is it better than the card in it." If no slot fits, the card does not go in, however good it is. This single rule prevents most cube bloat.
+**Every change is a swap, not an add.** The question is never "should this be in the Cube" but "which slot does it take, and is it better than the card in it." If no slot fits, the card does not go in, however good it is. This single rule prevents most Cube bloat.
 
 **You can see structural drift.** If your sheet shows that the last fifteen white adds were all three- and four-drops, you know why white aggro is dying before a drafter complains. Set a count per slot and the sheet shows you when you break it.
 
 **Cuts stop being painful.** Cutting a card you like is hard. Replacing the weakest card in a named slot is a chore. Naming the slot turns the first into the second.
 
-The one danger is rigidity. A slot list is a model of the cube you want, not a law. When a card appears that does something your slots did not anticipate, the right move is sometimes to change the slot list. Do it on purpose and write it down. The sheet should describe the cube you have, with a column for the cube you are moving toward.
+The one danger is rigidity. A slot list is a model of the Cube you want, not a law. When a card appears that does something your slots did not anticipate, the right move is sometimes to change the slot list. Do it on purpose and write it down. The sheet should describe the Cube you have, with a column for the Cube you are moving toward.
 
 ## A starting slot list for a 540
 
@@ -106,22 +106,22 @@ The game is the reason. The people are the point. The spreadsheet is just how yo
 
 ## FAQ
 
-### What sections should a cube have?
+### What sections should a Cube have?
 
 The five colors, gold (multicolor), colorless, and lands. Most owners also split each color by role and mana value, which is where slot design begins.
 
-### How do I organize a cube list?
+### How do I organize a Cube list?
 
 Track at least name, section, mana value, role, lane, and creature or non-creature for every card. Use a spreadsheet or CubeCobra tags, and query counts per role before every update.
 
 ### How many cards per color should be creatures?
 
-House guidelines range from 50 to 65 percent in a typical unpowered cube, higher in green and white, lower in blue. The ratio matters more than the raw count, and it should be a slot decision, not an accident.
+House guidelines range from 50 to 65 percent in a typical unpowered Cube, higher in green and white, lower in blue. The ratio matters more than the raw count, and it should be a slot decision, not an accident.
 
-### What are flex slots in a cube?
+### What are flex slots in a Cube?
 
 Slots deliberately left without a fixed role so the owner can test new cards or shore up a weak lane without disturbing the core structure. Four to eight per color is common.
 
 ## Keep building
 
-The newsletter sends new cube design pieces. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.
+The newsletter sends new Cube design pieces. If you are in Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Cube group, is relaunching as part of The Ludarium; subscribers hear first when the first night is set.

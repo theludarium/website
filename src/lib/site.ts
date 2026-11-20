@@ -100,7 +100,7 @@ export const CATEGORIES: ArticleCategory[] = [
     slug: 'magic-and-cube',
     letters: 'cube',
     name: 'Magic & Cube',
-    description: 'Cube drafting, cube building, and the Cube Commonwealth community.',
+    description: 'Cube drafting, Cube building, and the Cube Commonwealth community.',
     tint: '#7d6a92',
   },
 ] as const;

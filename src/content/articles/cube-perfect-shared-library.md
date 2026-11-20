@@ -3,7 +3,7 @@ title: "Why a Magic Cube Is the Perfect Shared Library"
 description: "A Magic Cube is one person's curated card pool that eight players draft from. Here is why it is the purest shared library and what any group can learn."
 pubDate: 2026-10-23
 category: Magic & Cube
-tags: ["magic cube", "what is a magic cube draft", "shared board game library", "one copy rule"]
+tags: ["magic Cube", "what is a magic Cube draft", "shared board game library", "one copy rule"]
 offer: game-shelf
 draft: false
 ---

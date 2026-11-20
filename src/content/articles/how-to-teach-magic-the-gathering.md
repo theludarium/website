@@ -1,13 +1,13 @@
 ---
 title: "How to Teach Magic the Gathering: Start With a Cube"
-description: "Wondering how to teach Magic the Gathering to a friend? Skip the starter decks and the rulebook. A cube draft teaches the game faster, and here's why."
+description: "Wondering how to teach Magic the Gathering to a friend? Skip the starter decks and the rulebook. A Cube draft teaches the game faster, and here's why."
 pubDate: 2026-10-21
 category: Magic & Cube
 games: [magic-the-gathering]
-tags: ["how to teach Magic the Gathering", "learn Magic the Gathering", "teaching Magic to beginners", "best way to learn MTG", "Magic for new players", "cube for beginners", "Magic: The Gathering and Cube"]
+tags: ["how to teach Magic the Gathering", "learn Magic the Gathering", "teaching Magic to beginners", "best way to learn MTG", "Magic for new players", "Cube for beginners", "Magic: The Gathering and Cube"]
 draft: false
 ---
-If you are trying to work out how to teach Magic the Gathering to a friend, the answer that works most often is not a starter deck or a rules walkthrough. It is a cube draft, run at a slow pace, with a patient table. Cube teaches the three things a new player most needs, which are what cards do, how decks fit together, and why the choices matter, and it does them in one evening instead of a month.
+If you are trying to work out how to teach Magic the Gathering to a friend, the answer that works most often is not a starter deck or a rules walkthrough. It is a Cube draft, run at a slow pace, with a patient table. Cube teaches the three things a new player most needs, which are what cards do, how decks fit together, and why the choices matter, and it does them in one evening instead of a month.
 
 I have taught Magic the wrong way many times. Two starter decks across a kitchen table, me explaining the stack while their eyes glazed. Cube fixed it, and this is why.
 
@@ -23,9 +23,9 @@ Magic has a reputation as a hard game to learn. The rules are part of that, but 
 
 Cube solves all three at once, which is why it has become the teaching format of choice for many groups.
 
-## What does a cube draft teach that a starter deck cannot?
+## What does a Cube draft teach that a starter deck cannot?
 
-A cube is a fixed set of cards, usually 360, that players draft from and then play with. If that is new to you, [what a Magic cube is](/articles/what-is-a-magic-cube/) covers the basics. For teaching, four properties matter.
+A Cube is a fixed set of cards, usually 360, that players draft from and then play with. If that is new to you, [what a Magic Cube is](/articles/what-is-a-magic-cube/) covers the basics. For teaching, four properties matter.
 
 **The student builds their own deck.** From pick one, they are choosing. The picks are small, concrete decisions: this creature or that spell. By the end they have forty cards they chose, and they understand each one because they chose it.
 
@@ -35,13 +35,13 @@ A cube is a fixed set of cards, usually 360, that players draft from and then pl
 
 **The teacher sits next to them.** During a draft the experienced players can look over the new player's shoulder, ask "why that one?", and explain without stopping the game. Nobody is waiting. The explaining is the activity.
 
-## How do you run a cube draft for beginners?
+## How do you run a Cube draft for beginners?
 
 The format needs a few adjustments when half the table is new.
 
-### Choose the right cube
+### Choose the right Cube
 
-A pauper or peasant cube is far better for teaching than a powered one. Commons and uncommons do simple things. A card that says "destroy target creature" teaches the game. A card with four paragraphs of text and a delayed trigger does not. The comparison of [pauper cube versus vintage cube](/articles/pauper-cube-vs-vintage-cube/) covers why the cheap cube is often the better one.
+A pauper or peasant Cube is far better for teaching than a powered one. Commons and uncommons do simple things. A card that says "destroy target creature" teaches the game. A card with four paragraphs of text and a delayed trigger does not. The comparison of [pauper Cube versus vintage Cube](/articles/pauper-cube-vs-vintage-cube/) covers why the cheap Cube is often the better one.
 
 ### Slow the draft down
 
@@ -53,7 +53,7 @@ Seat a veteran to the right of each beginner, since the right-hand neighbor pass
 
 ### Explain archetypes before the draft
 
-Spend five minutes on the two-color pairs the cube supports. "Red-white is fast creatures. Blue-black is removal and card draw. Green is big creatures." Give each new player a one-sentence plan to aim at. It turns forty-five picks from overwhelming to directed.
+Spend five minutes on the two-color pairs the Cube supports. "Red-white is fast creatures. Blue-black is removal and card draw. Green is big creatures." Give each new player a one-sentence plan to aim at. It turns forty-five picks from overwhelming to directed.
 
 ### Build decks together
 
@@ -92,17 +92,17 @@ A few patterns that undo an otherwise good session.
 
 ## Why does teaching this way build a group?
 
-Teaching Magic with a cube is not just efficient. It changes who the game is for.
+Teaching Magic with a Cube is not just efficient. It changes who the game is for.
 
-Someone who learns from starter decks learns alone and needs to buy cards to keep playing. Someone who learns from a cube learns at a table, in front of seven people who now know their name, and needs nothing to come back next week except an invitation. The cube is a shared object. Learning on it makes you part of the group that shares it.
+Someone who learns from starter decks learns alone and needs to buy cards to keep playing. Someone who learns from a Cube learns at a table, in front of seven people who now know their name, and needs nothing to come back next week except an invitation. The Cube is a shared object. Learning on it makes you part of the group that shares it.
 
-That is why the groups that teach well tend to grow and the groups that teach badly tend to shrink to the same six people. If you are building a regular table, the guide on [how to run a cube night](/articles/how-to-run-a-cube-draft/) covers the hosting side of keeping newcomers around.
+That is why the groups that teach well tend to grow and the groups that teach badly tend to shrink to the same six people. If you are building a regular table, the guide on [how to run a Cube night](/articles/how-to-run-a-cube-draft/) covers the hosting side of keeping newcomers around.
 
 ## FAQ
 
 ### What is the easiest way to learn Magic the Gathering?
 
-Draft a low-power cube with a patient group. You learn the cards by choosing them and the rules by playing them, with experienced players beside you to answer questions.
+Draft a low-power Cube with a patient group. You learn the cards by choosing them and the rules by playing them, with experienced players beside you to answer questions.
 
 ### How long does it take to learn Magic?
 
@@ -114,10 +114,10 @@ One-on-one games are easier to learn from because there is less happening at onc
 
 ### Do you need to buy cards to learn Magic?
 
-No. If someone you know owns a cube, you can learn and keep playing without buying a single card.
+No. If someone you know owns a Cube, you can learn and keep playing without buying a single card.
 
 ## Bring someone new to the table
 
-The best Magic night I ever ran was the one where three people played their first game. If you want to teach someone, the Ludarium newsletter sends new pieces on games that bring people together, including cube and teaching tips. In Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our cube group, is relaunching as part of The Ludarium, and new players and the friends who teach them will be welcome.
+The best Magic night I ever ran was the one where three people played their first game. If you want to teach someone, the Ludarium newsletter sends new pieces on games that bring people together, including Cube and teaching tips. In Indianapolis, [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Cube group, is relaunching as part of The Ludarium, and new players and the friends who teach them will be welcome.
 
 The game is the reason. The people are the point.

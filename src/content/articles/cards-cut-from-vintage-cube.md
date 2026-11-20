@@ -6,7 +6,7 @@ category: Magic & Cube
 tags: ["Vintage Cube cuts", "cards removed from Vintage Cube", "Vintage Cube Tarmogoyf", "Vintage Cube Bazaar of Baghdad", "Vintage Cube Time Warp", "Vintage Cube benched cards", "Cube Commonwealth"]
 draft: false
 ---
-The most interesting Vintage Cube cuts are not the weak cards. They are the famous ones: Tarmogoyf, Grave Titan, Wrath of God, Time Warp, Bazaar of Baghdad, Survival of the Fittest, Craterhoof Behemoth, Eternal Witness, Channel. Each left the MTGO Vintage Cube between August 2025 and October 2026, each with a one-line reason in the changelist, and each tells you something about what a powered cube looks like now.
+The most interesting Vintage Cube cuts are not the weak cards. They are the famous ones: Tarmogoyf, Grave Titan, Wrath of God, Time Warp, Bazaar of Baghdad, Survival of the Fittest, Craterhoof Behemoth, Eternal Witness, Channel. Each left the MTGO Vintage Cube between August 2025 and October 2026, each with a one-line reason in the changelist, and each tells you something about what a powered Cube looks like now.
 
 This article takes the notable cuts from the six 2026 update posts (plus the three late-2025 ones that set them up), gives the curator's stated reason, and adds our verdict. Dates are the update's go-live date. Sources are the mtgo.com posts linked in each section. The current list is at [mtgo.com/vintage-cube-cardlist](https://www.mtgo.com/vintage-cube-cardlist), effective October 7, 2026, and none of the cards below are on it unless noted.
 
@@ -41,15 +41,15 @@ Sources: [Edge of Eternities update, Aug 15, 2025](https://www.mtgo.com/news/eoe
 
 These two are the cleanest cases. Tarmogoyf was a two-mana 4/5 in a format with fetch lands and cheap spells. It still is. What changed is that a two-mana vanilla body, however large, does nothing on the turn it enters, and the 2026 Vintage Cube is built on cards that do. Caustic Bronco, Ledger Shredder and Psychic Frog all cost two and all generate something. The March 2026 note, "has lost a step," is shorthand for "does not generate advantage." (Goyf had already left once, in October 2025, and come back in December.)
 
-Grave Titan is the same story at six mana. It was the reanimation target of choice for a decade. In January 2026 it left for Alpha Deathclaw, a reanimation target of the same size that green can also fetch with Natural Order, and the list already had Griselbrand, Archon of Cruelty and Atraxa as the targets that end games on entry. Our general piece on [power creep and cube](/articles/power-creep-and-cube/) covers why this pattern is accelerating.
+Grave Titan is the same story at six mana. It was the reanimation target of choice for a decade. In January 2026 it left for Alpha Deathclaw, a reanimation target of the same size that green can also fetch with Natural Order, and the list already had Griselbrand, Archon of Cruelty and Atraxa as the targets that end games on entry. Our general piece on [power creep and Cube](/articles/power-creep-and-cube/) covers why this pattern is accelerating.
 
-Verdict on both: deserved. If you still run either in a powered cube, test whether they win games or just fill a curve slot.
+Verdict on both: deserved. If you still run either in a powered Cube, test whether they win games or just fill a curve slot.
 
 ## Wrath of God and Time Warp: the end of two blue-white traditions
 
 Wrath of God leaving on October 7, 2026 got attention because it is the original sweeper. The curator's note is that it is "resting" and white still has Damn and Sunfall. Damn kills one creature for two black mana or overloads into a white sweeper. Sunfall exiles and leaves a body. Wrath is now the third-best version of itself. Deserved, and the "resting" label means it may come back when the count needs it.
 
-Time Warp is the bigger statement. For most of the cube's life, blue extra-turn spells were automatic. The note "past its prime" means a five-mana sorcery that does nothing to the board is too slow for a format where Boros kills on turn four. Time Walk, at two mana, stays. Deserved, and we would expect Temporal Manipulation-type cards never to return.
+Time Warp is the bigger statement. For most of the Cube's life, blue extra-turn spells were automatic. The note "past its prime" means a five-mana sorcery that does nothing to the board is too slow for a format where Boros kills on turn four. Time Walk, at two mana, stays. Deserved, and we would expect Temporal Manipulation-type cards never to return.
 
 *If this is useful, the newsletter sends more like it.*
 
@@ -67,7 +67,7 @@ Some cards have now left twice in fourteen months, and the pattern tells you mor
 - **Leovold, Emissary of Trest:** out March 2026 (low on the punisher list for draw-sevens), back May 2026 (multicolor support), out October 2026 for Engineered Explosives. Three-color cards need a reason to exist beyond rate, and the five-color theme that brought it back lasted one update. Deserved.
 - **Triplicate Titan:** out September 2025 (fell short in its strategies), back July 2026 to join Welder, out October 2026 for Ginger, Queen of Sweets as a castable Tinker target. Deserved; a nine-mana artifact only works when the cheat density is high, and that density keeps changing.
 
-The lesson for paper owners is in [our piece on which changes to copy](/articles/vintage-cube-changes-for-paper/): a card that has been cut twice should not be in your cube on the strength of one return.
+The lesson for paper owners is in [our piece on which changes to copy](/articles/vintage-cube-changes-for-paper/): a card that has been cut twice should not be in your Cube on the strength of one return.
 
 ## Which cuts were reversed?
 
@@ -109,4 +109,4 @@ Often. Dark Depths, Paradoxical Outcome, Brightglass Gearhulk, Leovold and Chann
 
 ## Keep score with us
 
-Cuts are not permanent, and plenty of these cards will come back. The game is the reason. The people are the point. Subscribe to The Ludarium newsletter for new cube pieces, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis cube group, sets its first night as part of The Ludarium.
+Cuts are not permanent, and plenty of these cards will come back. The game is the reason. The people are the point. Subscribe to The Ludarium newsletter for new Cube pieces, and to hear when [Cube Commonwealth](/articles/cube-draft-indianapolis/), our Indianapolis Cube group, sets its first night as part of The Ludarium.
