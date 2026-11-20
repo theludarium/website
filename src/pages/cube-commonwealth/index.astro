@@ -18,7 +18,7 @@ import { CUBE_DISCORD_URL, CUBE_VALUES, CQC_STAMPS, CQC_CITIES } from '@/lib/cub
         <h1>Cube is better together.</h1>
         <p class="lede">
           The Cube Commonwealth is a community of Magic: The Gathering Cube players. It started in Indianapolis, it
-          meets every week, and it is growing toward a home in every city with a Ludarium.
+          meets every week, and it is growing toward a local Cube Commonwealth in every city with a Ludarium.
         </p>
         <div class="cc-actions">
           <a class="button" href={CUBE_DISCORD_URL} rel="noopener">Join the Discord</a>
@@ -84,16 +84,43 @@ import { CUBE_DISCORD_URL, CUBE_VALUES, CQC_STAMPS, CQC_CITIES } from '@/lib/cub
           <a class="text-link" href={CUBE_DISCORD_URL} rel="noopener">See this week's draft</a>
         </li>
         <li class="card">
-          <h3>Help pick our next home</h3>
-          <p>Share where you drive from, privately, and we find the stores, libraries, and pubs with the shortest drive for the most players.</p>
-          <a class="text-link" href="/cube-commonwealth/where-we-play/">Where We Play</a>
-        </li>
-        <li class="card">
           <h3>New to Cube?</h3>
           <p>A Cube is a curated set of Magic cards made for drafting. Nobody buys packs, and everyone plays with the same pool.</p>
           <a class="text-link" href="/articles/what-is-a-magic-cube/">What is a Magic Cube?</a>
         </li>
       </ul>
+
+      <article class="card cc-wwp" aria-labelledby="cc-wwp-title">
+        <div class="cc-wwp__intro">
+          <p class="eyebrow">Where We Play</p>
+          <h3 id="cc-wwp-title">Help us pick where we play</h3>
+          <p>
+            Where We Play is a small tool The Ludarium built for the Cube Commonwealth. Members share where they drive
+            from, privately, and it ranks game stores, libraries, and pubs by the shortest drive for the most people. The
+            more Cubers who share, the better the pick, and the closer the next draft lands to you.
+          </p>
+          <a class="button" href="/cube-commonwealth/where-we-play/">Share where you drive from</a>
+          <p class="cc-wwp__fine">Takes a minute. A zip code is enough.</p>
+        </div>
+        <ol class="cc-wwp__steps">
+          <li>
+            <span class="cc-wwp__step">Share your starting point</span>
+            <span>A zip code works. A street address makes your drive times exact instead of a guess from the middle of your zip.</span>
+          </li>
+          <li>
+            <span class="cc-wwp__step">Say when you can play</span>
+            <span>Your availability helps set the night, not just the place.</span>
+          </li>
+          <li>
+            <span class="cc-wwp__step">See the venues ranked</span>
+            <span>Know a good spot? Suggest it, and the admin checks it out.</span>
+          </li>
+          <li>
+            <span class="cc-wwp__step">Your address stays private</span>
+            <span>Only the admin sees it, to work out drive times. Everyone else sees summaries like "a median 14 minute drive for 40 members."</span>
+          </li>
+        </ol>
+      </article>
     </div>
   </section>
 
@@ -297,6 +324,64 @@ import { CUBE_DISCORD_URL, CUBE_VALUES, CQC_STAMPS, CQC_CITIES } from '@/lib/cub
 
   .cc-grid .text-link + .text-link {
     margin-top: var(--space-1);
+  }
+
+  .cc-wwp {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    gap: var(--space-7);
+    margin-top: var(--space-5);
+    padding: var(--space-6);
+  }
+
+  .cc-wwp h3 {
+    margin: 0 0 var(--space-3);
+    font-size: var(--text-xl);
+  }
+
+  .cc-wwp__intro p {
+    color: var(--color-text-muted);
+  }
+
+  .cc-wwp__intro .eyebrow {
+    margin: 0 0 var(--space-2);
+    color: var(--color-primary);
+  }
+
+  .cc-wwp__fine {
+    margin: var(--space-2) 0 0;
+    font-size: var(--text-sm);
+  }
+
+  .cc-wwp__steps {
+    display: grid;
+    gap: var(--space-4);
+    margin: 0;
+    padding-left: 1.4em;
+  }
+
+  .cc-wwp__steps li {
+    display: grid;
+    gap: var(--space-1);
+    color: var(--color-text-muted);
+    font-size: var(--text-sm);
+  }
+
+  .cc-wwp__steps li::marker {
+    font-weight: 700;
+    color: var(--color-primary);
+  }
+
+  .cc-wwp__step {
+    font-weight: 650;
+    font-size: var(--text-base);
+    color: var(--color-text);
+  }
+
+  @media (max-width: 52rem) {
+    .cc-wwp {
+      grid-template-columns: 1fr;
+    }
   }
 
   .cc-cqc {
