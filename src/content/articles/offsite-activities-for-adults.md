@@ -99,6 +99,8 @@ A good game gives adults permission to be fully engaged in something that does n
 
 The point is not the game. The point is the thirty minutes afterward when two people who have emailed for three years finally talk. The game is the reason. The people are the point.
 
+**Buying games for the office?** An [Amazon Business account](https://www.amazon.com/business?tag=cubecommonw0a-20) is free to open and is built for team purchases, with business pricing and invoices for your records.
+
 ## FAQ
 
 ### What is a good offsite activity for a team of 50?

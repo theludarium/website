@@ -134,6 +134,8 @@ Most people who dread team building are not against their coworkers. They are ag
 - **Always debrief.** Ten minutes, three questions: What happened? What surprised you? What would you do the same at work?
 - **Repeat it.** One event is a nice afternoon. A monthly habit changes how a team talks.
 
+**Buying games for the office?** An [Amazon Business account](https://www.amazon.com/business?tag=cubecommonw0a-20) is free to open and is built for team purchases, with business pricing and invoices for your records.
+
 ## FAQ
 
 ### What are some quick team building activities for work?

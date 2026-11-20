@@ -109,6 +109,8 @@ The point is not the stuff. It is that every day in December has a small reason 
 
 The best thing about any advent calendar is the habit it builds: a few minutes a day, at the same table, with the same people, doing something small together. You can buy that habit in a box, or make it from envelopes and the games already on your shelf. Either way, the doors are just the excuse. The game is the reason. The people are the point.
 
+**Need it by the holidays?** A [Prime free trial](https://www.amazon.com/amazonprime?tag=cubecommonw0a-20) includes fast, free shipping on eligible items, so a game ordered late can still arrive in time.
+
 ## FAQ
 
 ### Are board game advent calendars worth the money?

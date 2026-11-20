@@ -106,6 +106,8 @@ The same things that make any game a good gift. It should teach fast, finish bef
 
 Mostly, it should get people to stay. The candles burn for a while, and a game is a good way to spend that time together. The game is the reason. The people are the point.
 
+**Need it by the holidays?** A [Prime free trial](https://www.amazon.com/amazonprime?tag=cubecommonw0a-20) includes fast, free shipping on eligible items, so a game ordered late can still arrive in time.
+
 ## FAQ
 
 ### What is a good Hanukkah gift for a family?

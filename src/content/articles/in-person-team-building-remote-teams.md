@@ -96,6 +96,8 @@ People are tired and do not want to leave. Someone proposes "one more game." Two
 
 That is what the flights were for. The strategy doc could have been shared. The people could not. The game is the reason. The people are the point.
 
+**Buying games for the office?** An [Amazon Business account](https://www.amazon.com/business?tag=cubecommonw0a-20) is free to open and is built for team purchases, with business pricing and invoices for your records.
+
 ## FAQ
 
 ### How much of a remote team's in-person day should be team building?
