@@ -597,3 +597,7 @@ Added the `p:domain_verify` meta tag to BaseLayout so Pinterest can confirm The 
 - **Services (coaching, Cube design help) say "On the way"** with no prices or dates. Interest goes to the Discord.
 - Added to the Play menu under Play in person, and to the Play search section.
 
+
+## 2026-11-20: On the Table Phase 3, the Lemon Squeezy webhook
+
+- **`functions/api/ott/ls.ts` passes Lemon Squeezy order webhooks to the On the Table Worker** through the existing `OTT` service binding, like the beacon. It checks and stores nothing itself: the Worker verifies the `X-Signature` HMAC, drops customer details and keeps only daily counts per game (repo theludarium/on-the-table, `src/lemonsqueezy.ts`). Unlike the beacon it waits for the Worker and returns its status, so Lemon Squeezy retries a failed delivery. Previews have no binding and answer 503.
