@@ -53,7 +53,7 @@ const GROUPS = [
 // "New at the table": the three newest things. Change these as new products land.
 const NEW_PICKS = [
   { href: '/store/deep-cut/', image: deepCut, alt: 'The Deep Cut cover and game sheets fanned out', eyebrow: 'Board game', name: 'Deep Cut', line: 'A cooperative print-and-play game set in Arkham.' },
-  { href: '#calendars', image: holoceneImage, alt: 'Pages from the 12,000 Years of Play calendar', eyebrow: 'Calendar', name: '12,000 Years of Play', line: 'A 2027 calendar of the games that shaped play.' },
+  { href: '/store/holocene-calendar-2027/', image: holoceneImage, alt: 'Pages from the 12,000 Years of Play calendar', eyebrow: 'Calendar', name: '12,000 Years of Play', line: 'A 2027 calendar of the games that shaped play.' },
   { href: '#tees', image: teesImage, alt: 'A brown tee printed with a small bird and a lightning bolt', eyebrow: 'Tees and hoodies', name: 'The Ludarium shop', line: '25 designs other players will recognize.' },
 ];
 ---
@@ -267,6 +267,7 @@ const NEW_PICKS = [
                 <p class="store-pdf__meta">{p.blurb}</p>
                 <div class="store-pdf__actions">
                   <a class="button" href={p.checkout} rel="noopener">Buy the PDF, {p.price}</a>
+                  <a href={`/store/${p.slug === 'holocene-2027' ? 'holocene-calendar-2027' : p.slug}/`}>More about the calendar</a>
                 </div>
               </div>
             </li>
