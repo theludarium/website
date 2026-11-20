@@ -33,6 +33,28 @@ const rdlPages = fs.existsSync(RDL_GAMES)
 // Game Night Madness is copied in the same way (scripts/game-night-madness.mjs).
 const gnmPages = fs.existsSync('vendor/game-night-madness/index.html') ? ['https://theludarium.com/game-night-madness/'] : [];
 
+// lastmod for the sitemap: an article's or lesson's updatedDate, else its pubDate, so crawlers
+// and AI assistants can see what is fresh. Read straight from the frontmatter.
+const LASTMOD = new Map();
+/** @param {string} file */
+const dateOf = (file) => {
+  const fm = fs.readFileSync(file, 'utf8').split('---')[1] ?? '';
+  const pick = (/** @type {string} */ key) => fm.match(new RegExp(`^${key}:\\s*["']?(\\d{4}-\\d{2}-\\d{2})`, 'm'))?.[1];
+  return pick('updatedDate') ?? pick('pubDate');
+};
+for (const f of fs.readdirSync('src/content/articles')) {
+  const d = dateOf(`src/content/articles/${f}`);
+  if (d) LASTMOD.set(`/articles/${f.replace(/\.mdx?$/, '')}/`, d);
+}
+for (const course of fs.readdirSync('src/content/course-lessons')) {
+  const dir = `src/content/course-lessons/${course}`;
+  if (!fs.statSync(dir).isDirectory()) continue;
+  for (const f of fs.readdirSync(dir)) {
+    const d = dateOf(`${dir}/${f}`);
+    if (d) LASTMOD.set(`/academy/${course}/${f.replace(/\.mdx?$/, '')}/`, d);
+  }
+}
+
 export default defineConfig({
   site: 'https://theludarium.com',
   output: 'static',
@@ -44,6 +66,11 @@ export default defineConfig({
     mdx(),
     sitemap({
       customPages: [...rdlPages, ...gnmPages],
+      serialize: (item) => {
+        const d = LASTMOD.get(new URL(item.url).pathname);
+        if (d) item.lastmod = d;
+        return item;
+      },
       filter: (page) => {
         const path = new URL(page).pathname;
         // Every game course's signup pages (/academy/<course>/thanks/ and /confirmed/) stay out too.
