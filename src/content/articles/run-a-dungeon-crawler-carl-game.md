@@ -52,7 +52,7 @@ The books are crude and violent, and also warm. Decide as a group how much of ea
 
 ## Read the source
 
-The best preparation is the first book. Most fans recommend the [audiobook](https://www.amazon.com/dp/B08V8B2CGV?tag=cubecommonw0a-20), narrated by Jeff Hays, which comes with an Audible free trial for new listeners. You can also read it on [Kindle](https://www.amazon.com/dp/B08BKGYQXW?tag=cubecommonw0a-20). See the [books in order](/articles/dungeon-crawler-carl-books-in-order/) for the rest, and [why RPG players love the series](/articles/dungeon-crawler-carl-for-rpg-players/) if you are deciding whether to start.
+The best preparation is the first book. Most fans recommend the [audiobook](https://www.amazon.com/dp/B08V8B2CGV?tag=cubecommonw0a-20), narrated by Jeff Hays, which comes with an Audible free trial for new listeners ([here is why](/articles/dungeon-crawler-carl-audiobook/)). You can also read it on [Kindle](https://www.amazon.com/dp/B08BKGYQXW?tag=cubecommonw0a-20). See the [books in order](/articles/dungeon-crawler-carl-books-in-order/) for the rest, and [why RPG players love the series](/articles/dungeon-crawler-carl-for-rpg-players/) if you are deciding whether to start.
 
 New to running games? Our [first time Dungeon Master tips](/articles/first-time-dungeon-master-tips/) cover the basics, and a [one-shot](/articles/dnd-one-shot-for-beginners/) is a good way to test these ideas before a campaign.
 

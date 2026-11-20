@@ -50,7 +50,7 @@ const BOOK_SERIES: Series[] = [
     name: 'Dungeon Crawler Carl',
     blurb: 'The novels that read like a tabletop campaign, the official RPG, and how to run the dungeon at your own table.',
     category: 'Game Culture',
-    order: ['dungeon-crawler-carl-for-rpg-players', 'dungeon-crawler-carl-books-in-order', 'dungeon-crawler-carl-rpg', 'run-a-dungeon-crawler-carl-game'],
+    order: ['dungeon-crawler-carl-for-rpg-players', 'dungeon-crawler-carl-books-in-order', 'dungeon-crawler-carl-audiobook', 'dungeon-crawler-carl-rpg', 'run-a-dungeon-crawler-carl-game'],
   },
 ];
 
