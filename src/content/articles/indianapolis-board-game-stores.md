@@ -34,7 +34,7 @@ If a store near you does all three, it is worth the drive even when the price is
 
 **[Elf 'N Moon](https://elfnmoon.com/)**, Fountain Square (1354 Shelby St). A game store with free first-come tables and a free library, open into the evening seven days a week, with beer for 21+. The easiest place near downtown to sit down and play.
 
-**Saltire Toys & Games**, Lawrence (11135 Pendleton Pike). The east side's store, a Wizards Play Network shop that sells games and hosts play; check its listings for the current schedule.
+**[Saltire Toys & Games](https://saltiregames.com/)**, Lawrence (11135 Pendleton Pike). The east side's store, a Wizards Play Network shop that sells games and hosts play; check its listings for the current schedule.
 
 ## Which stores serve Carmel, Fishers, and Noblesville?
 
