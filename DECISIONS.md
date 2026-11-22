@@ -597,3 +597,6 @@ Added the `p:domain_verify` meta tag to BaseLayout so Pinterest can confirm The 
 - **Services (coaching, Cube design help) say "On the way"** with no prices or dates. Interest goes to the Discord.
 - Added to the Play menu under Play in person, and to the Play search section.
 
+## 2026-11-22: The Cube Library
+
+Public list at `/cube-commonwealth/cubes/`, seeded from Levi's spreadsheet, with submissions held in D1 until Levi approves them. The page shows first names or handles only because this repo is public. No Cube images, since Cube Cobra art is publisher card art. The queue sits under the Where We Play admin path so the existing Cloudflare Access policy protects it.

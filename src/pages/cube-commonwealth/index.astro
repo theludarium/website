@@ -90,6 +90,15 @@ import { CUBE_DISCORD_URL, CUBE_VALUES, CQC_STAMPS, CQC_CITIES } from '@/lib/cub
         </li>
       </ul>
 
+      <article class="card cc-library" aria-labelledby="cc-library-title">
+        <div>
+          <p class="eyebrow">The Cube Library</p>
+          <h3 id="cc-library-title">Find a Cube to draft</h3>
+          <p>Browse the Cubes our players own, by city, with each list, style, and size. Own one? Add it to the library.</p>
+        </div>
+        <a class="button" href="/cube-commonwealth/cubes/">Browse the Cube Library</a>
+      </article>
+
       <article class="card cc-wwp" aria-labelledby="cc-wwp-title">
         <div class="cc-wwp__intro">
           <p class="eyebrow">Where We Play</p>
@@ -324,6 +333,24 @@ import { CUBE_DISCORD_URL, CUBE_VALUES, CQC_STAMPS, CQC_CITIES } from '@/lib/cub
 
   .cc-grid .text-link + .text-link {
     margin-top: var(--space-1);
+  }
+
+  .cc-library {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-4);
+    margin-top: var(--space-5);
+  }
+
+  .cc-library h3,
+  .cc-library p {
+    margin-block: 0 var(--space-2);
+  }
+
+  .cc-library > div {
+    flex: 1 1 22rem;
   }
 
   .cc-wwp {

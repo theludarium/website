@@ -1,0 +1,175 @@
+---
+// Add a Cube: a three-step form that posts to functions/api/cubes/index.ts.
+// Without JavaScript all three steps simply show at once.
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import seed from '@/data/cube-library.json';
+import { TURNSTILE_SITE_KEY } from '@/lib/config';
+import { CUBES_API, CUBES_BASE, FORMATS, LENDING, LIMITS, STYLES, locationsOf, type PublicCube } from '@/lib/cube-library';
+
+const places = locationsOf(seed as PublicCube[]).map((p) => p.name);
+const siteKey = TURNSTILE_SITE_KEY;
+---
+
+<BaseLayout
+  title="Add Your Cube to the Cube Library"
+  description="Own a Magic: The Gathering Cube? Add it to the Cube Library so players in your city can find it. Paste your list link and we will review it."
+>
+  <div class="container add">
+    <header>
+      <p class="eyebrow"><a href={CUBES_BASE}>The Cube Library</a></p>
+      <h1>Add your Cube</h1>
+      <p class="add__lede">Paste your list and tell us where it lives. Once it is approved, players near you can find it.</p>
+    </header>
+
+    <form class="card add__form" id="form" method="post" action={CUBES_API} data-cube-form>
+      <p class="add__status add__status--ok" data-ok hidden role="status">Thank you! Your Cube is in the queue. It will appear in the library once it is approved.</p>
+      <p class="add__status" data-error hidden role="alert"></p>
+      <p class="add__step" data-step-label aria-live="polite" hidden></p>
+
+      <fieldset data-step>
+        <legend>Your Cube</legend>
+        <label>List link <span>Required</span>
+          <input name="list_url" required maxlength={LIMITS.listUrl} inputmode="url" placeholder="https://cubecobra.com/cube/overview/your-cube" autocomplete="off" />
+          <small>With a Cube Cobra link, we fill in the name, card count, and description for you.</small>
+        </label>
+        <label>Cube name <span>Required if the list is not on Cube Cobra</span>
+          <input name="name" maxlength={LIMITS.name} autocomplete="off" />
+        </label>
+        <label>Style <span>Optional</span>
+          <select name="style"><option value="">Choose for me</option>{STYLES.map((s) => <option value={s}>{s}</option>)}</select>
+        </label>
+      </fieldset>
+
+      <fieldset data-step>
+        <legend>Where it lives and who owns it</legend>
+        <label>City <span>Required</span>
+          <input name="location" required maxlength={LIMITS.location} list="cube-places" placeholder="Indianapolis" autocomplete="address-level2" />
+          <datalist id="cube-places">{places.map((p) => <option value={p} />)}</datalist>
+        </label>
+        <label>Owner name to show <span>Required, and public</span>
+          <input name="owner" required maxlength={LIMITS.owner} placeholder="A first name or handle is fine" autocomplete="off" />
+        </label>
+        <label>Discord handle <span>Optional, and public</span>
+          <input name="discord" maxlength={LIMITS.discord} autocomplete="off" />
+        </label>
+        <label>Email <span>Optional, never public</span>
+          <input name="email" type="email" maxlength={LIMITS.email} placeholder="you@example.com" autocomplete="email" />
+          <small>Only so we can ask you about this Cube. It is not added to a mailing list.</small>
+        </label>
+      </fieldset>
+
+      <fieldset data-step>
+        <legend>How people can play it</legend>
+        <label>Can others borrow it? <span>Optional</span>
+          <select name="lending"><option value="">Prefer not to say</option>{Object.entries(LENDING).map(([v, l]) => <option value={v}>{l}</option>)}</select>
+        </label>
+        <label>Format <span>Optional</span>
+          <select name="format"><option value="">Prefer not to say</option>{Object.entries(FORMATS).map(([v, l]) => <option value={v}>{l}</option>)}</select>
+        </label>
+        <label>Description <span>Optional</span>
+          <textarea name="description" rows="3" maxlength={LIMITS.description} placeholder="Leave blank to use your Cube Cobra description"></textarea>
+        </label>
+        <label>Owner's note <span>Optional</span>
+          <textarea name="note" rows="2" maxlength={LIMITS.note} placeholder="What makes it fun to draft?"></textarea>
+        </label>
+      </fieldset>
+
+      <div class="add__trap" aria-hidden="true"><label>Leave this empty <input name="website" tabindex="-1" autocomplete="off" /></label></div>
+
+      {siteKey && <div class="cf-turnstile" data-sitekey={siteKey} data-theme="auto"></div>}
+
+      <div class="add__actions">
+        <button class="button button--ghost" type="button" data-back hidden>Back</button>
+        <button class="button" type="button" data-next hidden>Next</button>
+        <button class="button" type="submit" data-submit>Send my Cube for review</button>
+      </div>
+      <p class="add__fine">We review every Cube before it goes up. <a href="/privacy/">Privacy</a> and <a href="/terms/">Terms</a></p>
+    </form>
+  </div>
+</BaseLayout>
+
+{siteKey && <script is:inline src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>}
+
+<script>
+  const MESSAGES: Record<string, string> = {
+    missing: 'Please add your list link, city, and owner name.',
+    link: 'That list link does not look right. Please paste the full link to your list.',
+    name: 'Please add a Cube name, since this list is not on Cube Cobra.',
+    cobra: 'We could not read that Cube on Cube Cobra. Please check the link or type the Cube name.',
+    email: 'Please check your email address.',
+    long: 'One of your answers is a little long. Please shorten it.',
+    verify: 'We could not confirm you are human. Please try again.',
+    slow: 'That is a lot of Cubes in one hour. Please try again a little later.',
+    duplicate: 'This Cube is already in the library or waiting for review.',
+    unavailable: 'Sorry, the form is not working right now. Please try again later.',
+  };
+  const form = document.querySelector<HTMLFormElement>('[data-cube-form]')!;
+  const params = new URLSearchParams(location.search);
+  const ok = form.querySelector<HTMLElement>('[data-ok]')!;
+  const error = form.querySelector<HTMLElement>('[data-error]')!;
+  if (params.get('cube') === 'sent') ok.hidden = false;
+  const code = params.get('cube_error');
+  if (code) {
+    error.textContent = MESSAGES[code] ?? MESSAGES.unavailable;
+    error.hidden = false;
+  }
+
+  const steps = [...form.querySelectorAll<HTMLFieldSetElement>('[data-step]')];
+  const label = form.querySelector<HTMLElement>('[data-step-label]')!;
+  const back = form.querySelector<HTMLButtonElement>('[data-back]')!;
+  const next = form.querySelector<HTMLButtonElement>('[data-next]')!;
+  const submit = form.querySelector<HTMLButtonElement>('[data-submit]')!;
+  let at = 0;
+  const show = () => {
+    steps.forEach((s, i) => (s.hidden = i !== at));
+    label.hidden = false;
+    label.textContent = `Step ${at + 1} of ${steps.length}`;
+    back.hidden = at === 0;
+    next.hidden = at === steps.length - 1;
+    submit.hidden = at !== steps.length - 1;
+  };
+  next.addEventListener('click', () => {
+    const fields = [...steps[at].querySelectorAll<HTMLInputElement>('input, select, textarea')];
+    if (fields.every((f) => f.reportValidity())) {
+      at += 1;
+      show();
+    }
+  });
+  // Enter moves to the next step instead of submitting a half-filled form.
+  form.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter' && at < steps.length - 1 && (e.target as HTMLElement).tagName === 'INPUT') {
+      e.preventDefault();
+      next.click();
+    }
+  });
+  back.addEventListener('click', () => {
+    at -= 1;
+    show();
+  });
+  show();
+</script>
+
+<style>
+  .add { max-width: 44rem; padding-block: var(--space-7, 3rem); }
+  .add h1 { margin-block: var(--space-1) var(--space-3); }
+  .add__lede { font-size: var(--text-lg); margin-bottom: var(--space-5); }
+  .add__form { display: grid; gap: var(--space-4); }
+  fieldset { border: 0; padding: 0; margin: 0; display: grid; gap: var(--space-4); min-width: 0; }
+  fieldset[hidden] { display: none; }
+  legend { font-family: var(--font-display, inherit); font-size: var(--text-xl); font-weight: 600; padding: 0; margin-bottom: var(--space-3); }
+  label { display: grid; gap: var(--space-1); font-weight: 600; font-size: var(--text-sm); }
+  label span { font-weight: 400; font-size: var(--text-xs); color: var(--color-text-muted); }
+  small { font-weight: 400; color: var(--color-text-muted); }
+  input, select, textarea {
+    width: 100%; padding: 0.7em 0.9em; border: 1px solid var(--color-border); border-radius: var(--radius-md);
+    background: var(--color-surface); color: var(--color-text); font: inherit; font-weight: 400;
+  }
+  input:focus-visible, select:focus-visible, textarea:focus-visible { outline: 2px solid var(--color-primary); outline-offset: 2px; }
+  .add__step { margin: 0; font-size: var(--text-sm); color: var(--color-text-muted); }
+  .add__trap { position: absolute; left: -9999px; }
+  .add__actions { display: flex; flex-wrap: wrap; gap: var(--space-3); }
+  .add__actions [hidden] { display: none; }
+  .add__fine { margin: 0; font-size: var(--text-sm); color: var(--color-text-muted); }
+  .add__status { margin: 0; padding: var(--space-3) var(--space-4); border: 1px solid var(--color-border); border-radius: var(--radius-md); font-weight: 600; }
+  .add__status--ok { background: var(--color-accent-soft); }
+</style>
