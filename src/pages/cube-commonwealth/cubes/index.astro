@@ -1,0 +1,99 @@
+---
+// The Cube Library: every approved Cube, with location tabs, search, and a style filter.
+// The build renders src/data/cube-library.json so the list is in the HTML for readers and
+// search engines. src/scripts/cube-library.ts then refreshes it from /api/cubes, so a newly
+// approved Cube appears without a rebuild.
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import seed from '@/data/cube-library.json';
+import { CUBES_API, CUBES_BASE, STYLES, cubeCard, locationsOf, type PublicCube } from '@/lib/cube-library';
+
+const cubes = seed as PublicCube[];
+const places = locationsOf(cubes);
+---
+
+<BaseLayout
+  title="The Cube Library: Magic Cubes to Draft Near You"
+  description="Browse Magic: The Gathering Cubes owned by Cube Commonwealth players, by city. See each list, style, size, and owner, or add your own Cube to the library."
+>
+  <div class="container lib" data-cube-library data-api={CUBES_API}>
+    <header class="lib__head">
+      <p class="eyebrow"><a href="/cube-commonwealth/">Cube Commonwealth</a></p>
+      <h1>The Cube Library</h1>
+      <p class="lib__lede">Find a Cube to draft. These are real Cubes owned by players in our community, sorted by city.</p>
+      <a class="button" href={`${CUBES_BASE}add/`}>Add your Cube</a>
+    </header>
+
+    <div class="lib__tabs" role="group" aria-label="Filter by location" data-tabs>
+      <button type="button" aria-pressed="true" data-location="">All <span>{cubes.length}</span></button>
+      {places.map((p) => <button type="button" aria-pressed="false" data-location={p.name}>{p.name} <span>{p.count}</span></button>)}
+    </div>
+
+    <div class="lib__filters">
+      <label>
+        <span class="visually-hidden">Search Cubes</span>
+        <input type="search" placeholder="Search by name, owner, or theme" data-search />
+      </label>
+      <label>
+        <span class="visually-hidden">Filter by style</span>
+        <select data-style>
+          <option value="">All styles</option>
+          {STYLES.map((s) => <option value={s}>{s}</option>)}
+        </select>
+      </label>
+    </div>
+
+    <p class="lib__count" role="status" data-count>{cubes.length} Cubes</p>
+    <ul class="lib__grid" data-grid set:html={cubes.map(cubeCard).join('')} />
+    <p class="lib__empty" data-empty hidden>No Cubes match that yet. <a href={`${CUBES_BASE}add/`}>Add yours</a> and be the first.</p>
+
+    <aside class="card lib__cta">
+      <div>
+        <h2>Own a Cube?</h2>
+        <p>Add it to the library so players near you can find it. Every Cube is reviewed before it goes up.</p>
+      </div>
+      <a class="button" href={`${CUBES_BASE}add/`}>Add your Cube</a>
+    </aside>
+  </div>
+</BaseLayout>
+
+<script>
+  import '@/scripts/cube-library';
+</script>
+
+<style is:global>
+  .lib { padding-block: var(--space-7, 3rem); }
+  .lib__head { max-width: 42rem; margin-bottom: var(--space-6, 2rem); }
+  .lib__head h1 { margin-block: var(--space-1) var(--space-3); }
+  .lib__lede { font-size: var(--text-lg); margin-bottom: var(--space-4); }
+  .lib__tabs { display: flex; flex-wrap: wrap; gap: var(--space-2); margin-bottom: var(--space-4); }
+  .lib__tabs button {
+    padding: 0.45em 1em; border: 1px solid var(--color-border); border-radius: 999px;
+    background: var(--color-surface); color: var(--color-text); font: inherit; font-size: var(--text-sm); font-weight: 600; cursor: pointer;
+  }
+  .lib__tabs button span { font-weight: 400; color: var(--color-text-muted); margin-left: 0.25em; }
+  .lib__tabs button[aria-pressed='true'] { background: var(--color-primary); border-color: var(--color-primary); color: var(--color-on-primary, #f6efe3); }
+  .lib__tabs button[aria-pressed='true'] span { color: inherit; }
+  .lib__filters { display: grid; grid-template-columns: minmax(0, 1fr) minmax(9rem, 13rem); gap: var(--space-3); margin-bottom: var(--space-3); }
+  .lib__filters input, .lib__filters select {
+    width: 100%; padding: 0.65em 0.9em; border: 1px solid var(--color-border); border-radius: var(--radius-md);
+    background: var(--color-surface); color: var(--color-text); font: inherit;
+  }
+  .lib__count { font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-3); }
+  .lib__grid { list-style: none; padding: 0; margin: 0 0 var(--space-6, 2rem); display: grid; gap: var(--space-4); grid-template-columns: repeat(auto-fill, minmax(min(100%, 19rem), 1fr)); }
+  .cube { display: flex; flex-direction: column; gap: var(--space-2); }
+  .cube p { margin: 0; }
+  .cube__place { font-size: var(--text-xs); font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; color: var(--color-text-muted); }
+  .cube__name { margin: 0; font-size: var(--text-lg); overflow-wrap: anywhere; }
+  .cube__owner { font-size: var(--text-sm); color: var(--color-text-muted); overflow-wrap: anywhere; }
+  .cube__facts { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: var(--space-1); }
+  .cube__facts li { padding: 0.15em 0.65em; border-radius: 999px; background: var(--color-accent-soft); font-size: var(--text-xs); font-weight: 600; }
+  .cube__text { font-size: var(--text-sm); overflow-wrap: anywhere; }
+  .cube__note, .cube__lend { font-size: var(--text-sm); color: var(--color-text-muted); overflow-wrap: anywhere; }
+  .cube__foot { margin-top: auto !important; padding-top: var(--space-2); display: flex; flex-wrap: wrap; justify-content: space-between; gap: var(--space-2); font-size: var(--text-sm); }
+  .cube__date { color: var(--color-text-muted); font-size: var(--text-xs); align-self: center; }
+  .lib__empty { padding: var(--space-5) 0; }
+  .lib__cta { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: var(--space-4); }
+  .lib__cta h2 { margin: 0 0 var(--space-1); font-size: var(--text-xl); }
+  .lib__cta p { margin: 0; }
+  @media (max-width: 480px) { .lib__filters { grid-template-columns: 1fr; } }
+</style>

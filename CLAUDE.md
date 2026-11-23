@@ -130,6 +130,7 @@ Keep it simple. No CMS, database, or user accounts. Add a dependency only when i
 | `/store/` | Store | Short intro, then a link to the Lemon Squeezy store |
 | `/search/` | Search | Site search on Pagefind, built from the finished site at build time (`src/lib/search.ts` sets each page's section); search analytics later |
 | `/malaphors/` | Malaphors | Submission page printed in the malaphor field guide; Kit form tagged `malaphors` |
+| `/cube-commonwealth/cubes/` | Cube Library | Community Cube list with location tabs; `/add/` takes submissions, which wait in the queue at `/cube-commonwealth/where-we-play/admin/cubes/` until Levi approves them. Code: `src/lib/cube-library.ts`, table `cubes` |
 | `/affiliate-disclosure/` | Disclosure | Plain-language affiliate disclosure |
 | `/privacy/` | Privacy | Privacy policy covering email signups and forms |
 | `/terms/` | Terms | Terms of use |

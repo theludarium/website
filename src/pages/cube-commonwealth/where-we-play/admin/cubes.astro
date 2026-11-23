@@ -1,0 +1,44 @@
+---
+// The Cube Library approval queue. It sits under the Where We Play admin path, so the
+// same Cloudflare Access policy protects it. The script fills it from the admin API.
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import { FORMATS, LENDING, STYLES } from '@/lib/cube-library';
+---
+
+<BaseLayout title="Cube Library queue" description="Approve, edit, or reject Cubes submitted to the Cube Library." noindex>
+  <div class="container q" data-cube-admin data-styles={JSON.stringify(STYLES)} data-lending={JSON.stringify(LENDING)} data-formats={JSON.stringify(FORMATS)} data-pagefind-ignore>
+    <p class="eyebrow"><a href="/cube-commonwealth/where-we-play/admin/">Where We Play admin</a></p>
+    <h1>Cube Library queue</h1>
+    <p class="q__msg" role="status" data-msg hidden></p>
+    <form class="q__auth" data-auth hidden>
+      <p>This is a preview, so enter the preview token.</p>
+      <input type="password" name="token" autocomplete="off" placeholder="Preview token" required />
+      <button class="button" type="submit">Open</button>
+    </form>
+    <div class="q__tabs" role="group" aria-label="Status" data-tabs></div>
+    <div class="q__list" data-list></div>
+  </div>
+</BaseLayout>
+
+<script>
+  import '@/scripts/cube-admin';
+</script>
+
+<style is:global>
+  .q { padding-block: var(--space-6, 2rem); max-width: 56rem; }
+  .q__msg { padding: var(--space-3) var(--space-4); border-radius: var(--radius-md); background: var(--color-accent-soft); font-weight: 600; }
+  .q__auth { display: flex; flex-wrap: wrap; gap: var(--space-2); align-items: center; }
+  .q__auth[hidden] { display: none; }
+  .q__auth p { flex-basis: 100%; margin: 0; }
+  .q__tabs { display: flex; flex-wrap: wrap; gap: var(--space-2); margin-block: var(--space-4); }
+  .q__tabs button { padding: 0.4em 1em; border: 1px solid var(--color-border); border-radius: 999px; background: var(--color-surface); color: var(--color-text); font: inherit; font-weight: 600; cursor: pointer; }
+  .q__tabs button[aria-pressed='true'] { background: var(--color-primary); border-color: var(--color-primary); color: var(--color-on-primary, #f6efe3); }
+  .q__list { display: grid; gap: var(--space-4); }
+  .q-item { display: grid; gap: var(--space-3); }
+  .q-item h2 { margin: 0; font-size: var(--text-lg); overflow-wrap: anywhere; }
+  .q-item__meta { margin: 0; font-size: var(--text-sm); color: var(--color-text-muted); overflow-wrap: anywhere; }
+  .q-item__grid { display: grid; gap: var(--space-3); grid-template-columns: repeat(auto-fit, minmax(min(100%, 14rem), 1fr)); }
+  .q-item label { display: grid; gap: var(--space-1); font-size: var(--text-sm); font-weight: 600; }
+  .q-item input, .q-item select, .q-item textarea { width: 100%; padding: 0.5em 0.7em; border: 1px solid var(--color-border); border-radius: var(--radius-md); background: var(--color-surface); color: var(--color-text); font: inherit; font-weight: 400; }
+  .q-item__actions { display: flex; flex-wrap: wrap; gap: var(--space-2); }
+</style>
