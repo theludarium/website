@@ -1,5 +1,5 @@
 // The public Cube Library: location tabs, search, and style filter, plus a refresh from the API.
-import { cubeCard, locationsOf, matches, type PublicCube } from '@/lib/cube-library';
+import { cubeCard, cubeTable, locationsOf, matches, sortCubes, type PublicCube, type SortKey } from '@/lib/cube-library';
 import seed from '@/data/cube-library.json';
 
 const root = document.querySelector<HTMLElement>('[data-cube-library]');
@@ -10,9 +10,24 @@ if (root) {
   const style = root.querySelector<HTMLSelectElement>('[data-style]')!;
   const count = root.querySelector<HTMLElement>('[data-count]')!;
   const empty = root.querySelector<HTMLElement>('[data-empty]')!;
+  const table = root.querySelector<HTMLElement>('[data-table]')!;
+  const views = root.querySelector<HTMLElement>('[data-views]')!;
 
   let cubes = seed as PublicCube[];
-  let location = new URLSearchParams(window.location.search).get('location') ?? '';
+  const params = new URLSearchParams(window.location.search);
+  let location = params.get('location') ?? '';
+  let view: 'cards' | 'table' = params.get('view') === 'table' ? 'table' : 'cards';
+  let sortKey: SortKey = 'name';
+  let sortDir: 1 | -1 = 1;
+
+  const syncUrl = () => {
+    const url = new URL(window.location.href);
+    if (location) url.searchParams.set('location', location);
+    else url.searchParams.delete('location');
+    if (view === 'table') url.searchParams.set('view', 'table');
+    else url.searchParams.delete('view');
+    history.replaceState(null, '', url);
+  };
 
   const drawTabs = () => {
     const places = locationsOf(cubes);
@@ -34,7 +49,12 @@ if (root) {
 
   const drawList = () => {
     const shown = cubes.filter((c) => matches(c, location, style.value, search.value));
-    grid.innerHTML = shown.map(cubeCard).join('');
+    const asTable = view === 'table';
+    grid.hidden = asTable || shown.length === 0;
+    table.hidden = !asTable || shown.length === 0;
+    if (asTable) table.innerHTML = cubeTable(sortCubes(shown, sortKey, sortDir), sortKey, sortDir);
+    else grid.innerHTML = shown.map(cubeCard).join('');
+    views.querySelectorAll('button').forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.view === view)));
     count.textContent = `${shown.length} ${shown.length === 1 ? 'Cube' : 'Cubes'}${location ? ` in ${location}` : ''}`;
     empty.hidden = shown.length > 0;
   };
@@ -43,15 +63,29 @@ if (root) {
     const b = (e.target as HTMLElement).closest<HTMLButtonElement>('button');
     if (!b) return;
     location = b.dataset.location ?? '';
-    const url = new URL(window.location.href);
-    if (location) url.searchParams.set('location', location);
-    else url.searchParams.delete('location');
-    history.replaceState(null, '', url);
+    syncUrl();
     drawTabs();
     drawList();
   });
   search.addEventListener('input', drawList);
   style.addEventListener('change', drawList);
+  views.addEventListener('click', (e) => {
+    const b = (e.target as HTMLElement).closest<HTMLButtonElement>('[data-view]');
+    if (!b) return;
+    view = b.dataset.view === 'table' ? 'table' : 'cards';
+    syncUrl();
+    drawList();
+  });
+  table.addEventListener('click', (e) => {
+    const b = (e.target as HTMLElement).closest<HTMLButtonElement>('[data-sort]');
+    if (!b) return;
+    const key = b.dataset.sort as SortKey;
+    sortDir = key === sortKey ? (sortDir === 1 ? -1 : 1) : 1;
+    sortKey = key;
+    drawList();
+    table.querySelector<HTMLButtonElement>(`[data-sort="${key}"]`)?.focus();
+  });
+  views.hidden = false;
 
   drawTabs();
   drawList();
