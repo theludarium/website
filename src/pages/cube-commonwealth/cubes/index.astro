@@ -5,7 +5,6 @@
 // approved Cube appears without a rebuild.
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import seed from '@/data/cube-library.json';
-import images from '@/data/cube-images.json';
 import { CUBES_API, CUBES_BASE, DEFAULT_SORT, STYLES, cubeCard, locationsOf, sortCubes, type PublicCube } from '@/lib/cube-library';
 
 const cubes = sortCubes(seed as PublicCube[], DEFAULT_SORT.key, DEFAULT_SORT.dir);
@@ -50,7 +49,7 @@ const places = locationsOf(cubes);
         <button type="button" data-view="table" aria-pressed="false">Table</button>
       </div>
     </div>
-    <ul class="lib__grid" data-grid set:html={cubes.map((c) => cubeCard(c, images)).join('')} />
+    <ul class="lib__grid" data-grid set:html={cubes.map((c) => cubeCard(c)).join('')} />
     <div class="lib__table" data-table role="region" aria-label="Cubes table" tabindex="0" hidden></div>
     <p class="lib__empty" data-empty hidden>No Cubes match that yet. <a href={`${CUBES_BASE}add/`}>Add yours</a> and be the first.</p>
 

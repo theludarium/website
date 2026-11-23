@@ -125,8 +125,12 @@ test('the library opens newest first, with undated Cubes last', () => {
 
 test('card images come only from Cube Cobra and credit the artist', () => {
   const c = (seed as PublicCube[])[0];
-  const good = cubeCard(c, { [c.listUrl]: { src: 'https://assets.cubecobra.com/cardimages/x/art_crop.webp', artist: 'A <b>Artist' } });
+  const good = cubeCard({ ...c, imageUrl: 'https://assets.cubecobra.com/cardimages/x/art_crop.webp', imageArtist: 'A <b>Artist' });
   assert.ok(good.includes('<img') && good.includes('Art by A &lt;b&gt;Artist'));
-  const bad = cubeCard(c, { [c.listUrl]: { src: 'https://evil.example/x.png', artist: null } });
+  const bad = cubeCard({ ...c, imageUrl: 'https://evil.example/x.png', imageArtist: null });
   assert.ok(!bad.includes('<img') && bad.includes('cube__art--blank'));
+  const d = parseCobraPrefix('{"name":"T","image":{"uri":"https://assets.cubecobra.com/a.webp","artist":"Ann"},"cards":{');
+  assert.equal(d?.imageUrl, 'https://assets.cubecobra.com/a.webp');
+  assert.equal(d?.imageArtist, 'Ann');
+  assert.equal(parseCobraPrefix('{"name":"T","image":{"uri":"https://evil.example/a.webp","artist":"Ann"},"cards":{')?.imageUrl, null);
 });

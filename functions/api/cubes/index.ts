@@ -6,7 +6,7 @@
 import { notify, type NotifyBinding } from '../../../src/server/notify.ts';
 import type { D1, WwpEnv } from '../../../src/server/where-we-play/env.ts';
 import { clientIp, field, json, redirect, sha256Hex, verifyTurnstile } from '../../../src/server/where-we-play/http.ts';
-import { CUBES_ADMIN, guessStyle, parseSubmission, primerExcerpt, type CubeSubmission, type PublicCube } from '../../../src/lib/cube-library.ts';
+import { CUBES_ADMIN, cleanImageUrl, guessStyle, parseSubmission, primerExcerpt, type CubeSubmission, type PublicCube } from '../../../src/lib/cube-library.ts';
 
 interface Env extends WwpEnv {
   DB?: D1;
@@ -22,7 +22,7 @@ const PER_HOUR = 5;
 const MAX_PREFIX = 256 * 1024;
 
 export const PUBLIC_COLUMNS =
-  'id, name, list_url AS listUrl, owner, location, description, note, style, card_count AS cardCount, list_updated_at AS updatedAt, lending, format, discord';
+  'id, name, list_url AS listUrl, owner, location, description, note, style, card_count AS cardCount, list_updated_at AS updatedAt, lending, format, discord, image_url AS imageUrl, image_artist AS imageArtist';
 
 export async function onRequestGet({ env }: Context): Promise<Response> {
   if (!env.DB) return json({ error: 'unavailable' }, 503);
@@ -30,7 +30,7 @@ export async function onRequestGet({ env }: Context): Promise<Response> {
   return json({ cubes: results }, 200, { 'Cache-Control': 'public, max-age=60' });
 }
 
-export type CobraDetails = { name: string | null; cardCount: number | null; updatedAt: string | null; description: string | null; style: string };
+export type CobraDetails = { name: string | null; cardCount: number | null; updatedAt: string | null; description: string | null; style: string; imageUrl?: string | null; imageArtist?: string | null };
 
 /** Pulls the metadata out of the start of a cubeJSON body, before the long card list. */
 export function parseCobraPrefix(text: string): CobraDetails | null {
@@ -44,6 +44,7 @@ export function parseCobraPrefix(text: string): CobraDetails | null {
       categoryOverride?: string | null;
       categoryPrefixes?: string[];
       primerTabs?: { content?: string }[];
+      image?: { uri?: string; artist?: string };
     };
     return {
       name: d.name ? d.name.slice(0, 100) : null,
@@ -51,6 +52,8 @@ export function parseCobraPrefix(text: string): CobraDetails | null {
       updatedAt: d.dateLastUpdated ? new Date(d.dateLastUpdated).toISOString().slice(0, 10) : null,
       description: primerExcerpt(d.primerTabs?.[0]?.content),
       style: guessStyle(d.categoryOverride, d.categoryPrefixes ?? []),
+      imageUrl: cleanImageUrl(d.image?.uri),
+      imageArtist: cleanImageUrl(d.image?.uri) && d.image?.artist ? d.image.artist.slice(0, 100) : null,
     };
   } catch {
     return null;
@@ -155,10 +158,10 @@ export async function onRequestPost({ request, env }: Context): Promise<Response
   let id: number | null = null;
   try {
     const row = await env.DB.prepare(
-      `INSERT INTO cubes (name, list_url, owner, location, description, note, style, card_count, list_updated_at, lending, format, discord, email, status, ip_hash, created_at)
-       VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 'pending', ?, ?) RETURNING id`,
+      `INSERT INTO cubes (name, list_url, owner, location, description, note, style, card_count, list_updated_at, lending, format, discord, email, image_url, image_artist, status, ip_hash, created_at)
+       VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 'pending', ?, ?) RETURNING id`,
     )
-      .bind(full.name, full.listUrl, full.owner, full.location, full.description, full.note, full.style, cobra?.cardCount ?? null, cobra?.updatedAt ?? null, full.lending, full.format, full.discord, full.email, ipHash, now.toISOString())
+      .bind(full.name, full.listUrl, full.owner, full.location, full.description, full.note, full.style, cobra?.cardCount ?? null, cobra?.updatedAt ?? null, full.lending, full.format, full.discord, full.email, cobra?.imageUrl ?? null, cobra?.imageArtist ?? null, ipHash, now.toISOString())
       .first<{ id: number }>();
     id = row?.id ?? null;
   } catch (err) {

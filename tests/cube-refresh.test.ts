@@ -24,10 +24,10 @@ test('only changed counts and dates are written, and a failed Cube is left alone
     },
     batch: async (list: { sql: string; values: unknown[] }[]) => { writes.push(...list); return []; },
   };
-  const answers: Record<string, ReturnType<typeof fresh> | null> = { changed: fresh(380, '2026-11-20'), same: fresh(450, '2026-02-02'), gone: null };
+  const answers: Record<string, (ReturnType<typeof fresh> & { imageUrl?: string; imageArtist?: string }) | null> = { changed: { ...fresh(380, '2026-11-20'), imageUrl: 'https://assets.cubecobra.com/new.webp', imageArtist: 'Ann' }, same: fresh(450, '2026-02-02'), gone: null };
   const summary = await refreshCubes({ DB } as never, 0, async (id) => answers[id]);
   assert.deepEqual(summary, { checked: 3, changed: 1, failed: 1 });
   assert.equal(writes.length, 1);
-  assert.deepEqual(writes[0].values, [380, '2026-11-20', 4]);
+  assert.deepEqual(writes[0].values, [380, '2026-11-20', 'https://assets.cubecobra.com/new.webp', 'Ann', 4]);
   assert.ok(!writes[0].sql.includes('description') && !writes[0].sql.includes('name'));
 });
