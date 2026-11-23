@@ -122,3 +122,11 @@ test('the library opens newest first, with undated Cubes last', () => {
   assert.equal(firstSortDir('updatedAt'), -1);
   assert.equal(firstSortDir('name'), 1);
 });
+
+test('card images come only from Cube Cobra and credit the artist', () => {
+  const c = (seed as PublicCube[])[0];
+  const good = cubeCard(c, { [c.listUrl]: { src: 'https://assets.cubecobra.com/cardimages/x/art_crop.webp', artist: 'A <b>Artist' } });
+  assert.ok(good.includes('<img') && good.includes('Art by A &lt;b&gt;Artist'));
+  const bad = cubeCard(c, { [c.listUrl]: { src: 'https://evil.example/x.png', artist: null } });
+  assert.ok(!bad.includes('<img') && bad.includes('cube__art--blank'));
+});

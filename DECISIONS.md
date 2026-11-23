@@ -600,3 +600,7 @@ Added the `p:domain_verify` meta tag to BaseLayout so Pinterest can confirm The 
 ## 2026-11-22: The Cube Library
 
 Public list at `/cube-commonwealth/cubes/`, seeded from Levi's spreadsheet, with submissions held in D1 until Levi approves them. The page shows first names or handles only because this repo is public. No Cube images, since Cube Cobra art is publisher card art. The queue sits under the Where We Play admin path so the existing Cloudflare Access policy protects it.
+
+## 2026-11-23: Cube Library images and daily refresh
+
+Levi chose to show each Cube's Cube Cobra image on its card, as an exception to the rule that publishers' art needs permission. Images load from Cube Cobra rather than being copied here, each credits its artist, and the page carries a short ownership notice. The `ludarium-cube-refresh` Worker updates card counts and dates once a day per Cube. It leaves descriptions alone so edits are kept.
