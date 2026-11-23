@@ -1,4 +1,4 @@
-# ludarium-cube-refresh: keeps the Cube Library's card counts and "Updated" dates
+# ludarium-cube-refresh: keeps the Cube Library's card counts, images, and "Updated" dates
 # current from Cube Cobra. It runs every 6 hours and checks a quarter of the Cubes
 # each time, so every Cube is checked once a day. It has no public URL.
 #

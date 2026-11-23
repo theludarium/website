@@ -1,7 +1,6 @@
 // The public Cube Library: location tabs, search, and style filter, plus a refresh from the API.
 import { DEFAULT_SORT, cubeCard, cubeTable, firstSortDir, locationsOf, matches, sortCubes, type PublicCube, type SortKey } from '@/lib/cube-library';
 import seed from '@/data/cube-library.json';
-import images from '@/data/cube-images.json';
 
 const root = document.querySelector<HTMLElement>('[data-cube-library]');
 if (root) {
@@ -54,7 +53,7 @@ if (root) {
     grid.hidden = asTable || shown.length === 0;
     table.hidden = !asTable || shown.length === 0;
     if (asTable) table.innerHTML = cubeTable(shown, sortKey, sortDir);
-    else grid.innerHTML = shown.map((c) => cubeCard(c, images)).join('');
+    else grid.innerHTML = shown.map((c) => cubeCard(c)).join('');
     views.querySelectorAll('button').forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.view === view)));
     count.textContent = `${shown.length} ${shown.length === 1 ? 'Cube' : 'Cubes'}${location ? ` in ${location}` : ''}`;
     empty.hidden = shown.length > 0;

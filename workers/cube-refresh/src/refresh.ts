@@ -1,4 +1,4 @@
-// Refreshes card counts and last-updated dates for approved Cubes. It never touches
+// Refreshes card counts, last-updated dates, and images for approved Cubes. It never touches
 // names, owners, or descriptions, so Levi's edits stay put. If Cube Cobra does not
 // answer for a Cube, that Cube keeps its current values until the next day.
 import { fetchCobra, type CobraDetails } from '../../../functions/api/cubes/index.ts';
@@ -8,7 +8,7 @@ import type { D1 } from '../../../src/server/where-we-play/env.ts';
 export interface Env {
   DB: D1;
 }
-type Row = { id: number; listUrl: string; cardCount: number | null; updatedAt: string | null };
+type Row = { id: number; listUrl: string; cardCount: number | null; updatedAt: string | null; imageUrl?: string | null; imageArtist?: string | null };
 
 export const SLOTS = 4;
 
@@ -17,7 +17,7 @@ export const slotFor = (ms: number) => Math.floor(new Date(ms).getUTCHours() / 6
 
 export async function refreshCubes(env: Env, slot: number, details: (id: string) => Promise<CobraDetails | null> = fetchCobra) {
   const { results } = await env.DB.prepare(
-    "SELECT id, list_url AS listUrl, card_count AS cardCount, list_updated_at AS updatedAt FROM cubes WHERE status = 'approved' AND id % ? = ?",
+    "SELECT id, list_url AS listUrl, card_count AS cardCount, list_updated_at AS updatedAt, image_url AS imageUrl, image_artist AS imageArtist FROM cubes WHERE status = 'approved' AND id % ? = ?",
   )
     .bind(SLOTS, slot)
     .all<Row>();
@@ -35,9 +35,12 @@ export async function refreshCubes(env: Env, slot: number, details: (id: string)
     }
     const cardCount = fresh.cardCount ?? row.cardCount;
     const updatedAt = fresh.updatedAt ?? row.updatedAt;
-    if (cardCount === row.cardCount && updatedAt === row.updatedAt) continue;
+    // A Cube Cobra answer with no image keeps the one on file.
+    const imageUrl = fresh.imageUrl ?? row.imageUrl ?? null;
+    const imageArtist = fresh.imageUrl ? (fresh.imageArtist ?? null) : (row.imageArtist ?? null);
+    if (cardCount === row.cardCount && updatedAt === row.updatedAt && imageUrl === (row.imageUrl ?? null) && imageArtist === (row.imageArtist ?? null)) continue;
     summary.changed += 1;
-    updates.push(env.DB.prepare('UPDATE cubes SET card_count = ?, list_updated_at = ? WHERE id = ?').bind(cardCount, updatedAt, row.id));
+    updates.push(env.DB.prepare('UPDATE cubes SET card_count = ?, list_updated_at = ?, image_url = ?, image_artist = ? WHERE id = ?').bind(cardCount, updatedAt, imageUrl, imageArtist, row.id));
   }
   if (updates.length) await env.DB.batch(updates);
   return summary;
