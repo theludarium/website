@@ -1,0 +1,1087 @@
+/* The event view inside the calendar's day dialog: details, who is going, and
+   the Cube vote. Global, because src/scripts/calendar-event.ts builds the HTML
+   at runtime; every selector starts with .cev, so nothing leaks out and the
+   styles of the dialog around it do not leak in. The view sits in a panel from
+   about 300 to 620px wide, so it sizes itself by its own width (container
+   queries on the root), never by the viewport. Spec: docs/calendar/SPEC.md, section 7. */
+
+.cev {
+  container: cev / inline-size;
+  display: grid;
+  gap: var(--space-5);
+  min-width: 0;
+  color: var(--color-text);
+  /* Fields need an edge people can see: about 3 to 1 against the panel, in both modes. */
+  --cev-edge: color-mix(in srgb, var(--color-text-muted) 75%, var(--color-surface));
+  --cev-tint: color-mix(in srgb, var(--color-primary) 11%, transparent);
+  --cev-kind: var(--color-primary);
+}
+
+/* The view starts from a clean slate, whatever the dialog around it styles. A selector this strong outranks
+   a rule like `.card p`, and :where() adds no more weight, so the rules below can still say otherwise. */
+.cev [data-part] :where(h3, h4, h5, p, ul, ol, dl, dd, figure) {
+  margin: 0;
+}
+
+.cev [data-part] :where(ul, ol) {
+  padding: 0;
+  list-style: none;
+}
+
+.cev [data-part] :where(p) {
+  color: inherit;
+}
+
+.cev [data-part] {
+  display: grid;
+  gap: var(--space-4);
+  min-width: 0;
+}
+
+.cev [data-part]:empty {
+  display: none;
+}
+
+/* Headings and status lines take focus only from the script, to keep a keyboard user's place. They need no ring. */
+.cev [tabindex='-1']:focus {
+  outline: none;
+}
+
+/* When focus or an error line scrolls into view, it lands clear of the dialog's heading bar. */
+.cev :is(input, [tabindex='-1'], .cev-alert) {
+  scroll-margin-block: var(--space-8);
+}
+
+.cev[aria-busy='true'] {
+  cursor: progress;
+}
+
+.cev .cev-icon {
+  flex: none;
+  width: 1.25rem;
+  height: 1.25rem;
+}
+
+/* A link that opens the Cube's list somewhere else carries a small arrow. The padding widens the place to tap
+   without moving the text: an inline box's padding takes no room in its line. */
+.cev .cev-out {
+  padding-block: 0.75em;
+  text-decoration-color: color-mix(in srgb, currentColor 40%, transparent);
+}
+
+.cev .cev-out .cev-icon {
+  display: inline-block;
+  width: 0.95em;
+  height: 0.95em;
+  margin-left: 0.15em;
+  vertical-align: -0.1em;
+}
+
+/* ---------- Head: tags, title, facts, description ---------- */
+
+.cev [data-part='head'] {
+  gap: var(--space-3);
+}
+
+.cev .cev-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+}
+
+/* The same colors the calendar gives each kind of event. The kind is always named in words too. */
+.cev .cev-tags[data-kind='class'] { --cev-kind: var(--chart-3); }
+.cev .cev-tags[data-kind='meetup'] { --cev-kind: var(--color-stone); }
+.cev .cev-tags[data-kind='celebration'] { --cev-kind: var(--color-cta); }
+.cev .cev-tags[data-kind='other'] { --cev-kind: var(--color-text-muted); }
+
+.cev .cev-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  padding: 0.25em 0.8em;
+  border-radius: var(--radius-pill);
+  background: var(--color-surface-alt);
+  font-size: var(--text-xs);
+  font-weight: 650;
+  line-height: 1.4;
+}
+
+.cev .cev-tag--sample {
+  background: none;
+  box-shadow: inset 0 0 0 1px var(--color-stone);
+  color: var(--color-text-muted);
+}
+
+.cev .cev-tag--cancelled {
+  background: var(--color-text);
+  color: var(--color-surface);
+}
+
+.cev .cev-cubelet {
+  flex: none;
+  width: 1.05em;
+  height: 1.05em;
+}
+
+.cev .cev-cubelet__top { fill: color-mix(in srgb, var(--cev-kind) 45%, var(--color-surface)); }
+.cev .cev-cubelet__left { fill: var(--cev-kind); }
+.cev .cev-cubelet__right { fill: color-mix(in srgb, var(--cev-kind) 68%, var(--color-text)); }
+
+.cev .cev-title {
+  font-size: clamp(1.5rem, 1.15rem + 2.6cqi, 2rem);
+  overflow-wrap: anywhere;
+}
+
+.cev .cev-notice {
+  padding: var(--space-2) var(--space-4);
+  border-radius: var(--radius-md);
+  background: var(--color-surface-alt);
+  font-weight: 650;
+}
+
+.cev .cev-facts {
+  display: grid;
+  gap: var(--space-2);
+  margin-top: var(--space-1);
+}
+
+.cev .cev-fact {
+  display: grid;
+  grid-template-columns: 1.25rem minmax(0, 1fr);
+  gap: var(--space-3);
+  align-items: start;
+}
+
+.cev .cev-fact dt {
+  padding-top: 0.2em;
+  color: var(--color-text-muted);
+}
+
+.cev .cev-fact dd {
+  display: grid;
+  justify-items: start;
+  overflow-wrap: anywhere;
+}
+
+.cev .cev-address {
+  color: var(--color-text-muted);
+  font-size: var(--text-sm);
+}
+
+/* A cancelled event keeps its date and time on show, crossed out. The tag and the notice say it in words. */
+.cev .cev-facts--off .cev-fact:nth-child(-n + 2) dd {
+  color: var(--color-text-muted);
+  text-decoration: line-through;
+}
+
+.cev .cev-map {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+  margin-bottom: calc(var(--space-2) * -1);
+  font-size: var(--text-sm);
+  font-weight: 650;
+}
+
+.cev .cev-description {
+  display: grid;
+  gap: var(--space-3);
+  max-width: 34rem;
+  margin-top: var(--space-2);
+  overflow-wrap: anywhere;
+}
+
+/* ---------- Shared pieces ---------- */
+
+.cev .cev-section {
+  display: grid;
+  gap: var(--space-3);
+  min-width: 0;
+  padding-top: var(--space-5);
+  border-top: 1px solid var(--color-border);
+}
+
+.cev .cev-h {
+  font-size: var(--text-lg);
+}
+
+.cev .cev-sub {
+  font-family: var(--font-body);
+  font-size: var(--text-xs);
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--color-accent);
+}
+
+.cev .cev-lede,
+.cev .cev-count,
+.cev .cev-empty,
+.cev .cev-invite {
+  color: var(--color-text-muted);
+  font-size: var(--text-sm);
+}
+
+.cev .cev-hint,
+.cev .cev-caption {
+  color: var(--color-text-muted);
+  font-size: var(--text-xs);
+}
+
+.cev .cev-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-1) var(--space-4);
+}
+
+.cev .button {
+  min-height: 2.75rem;
+}
+
+/* Switched off while a request is out. The control in use keeps focus, so it is only marked aria-disabled. */
+.cev button:disabled,
+.cev input:disabled,
+.cev [aria-disabled='true'] {
+  opacity: 0.55;
+  cursor: default;
+}
+
+.cev[aria-busy='true'] button {
+  cursor: progress;
+}
+
+/* The control that was pressed shows the wait: a small ring after its words. */
+.cev [data-working]::after {
+  content: '';
+  flex: none;
+  width: 0.85em;
+  height: 0.85em;
+  margin-left: 0.5em;
+  border: 2px solid currentColor;
+  border-right-color: transparent;
+  border-radius: 50%;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .cev [data-working]::after {
+    animation: cev-spin 0.8s linear infinite;
+  }
+}
+
+@keyframes cev-spin {
+  to { transform: rotate(360deg); }
+}
+
+/* A quiet text button or link: no box, but still a full-size tap target. */
+.cev .cev-quiet {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+  padding: 0 var(--space-2);
+  margin-inline: calc(var(--space-2) * -1);
+  border: 0;
+  border-radius: var(--radius-sm);
+  background: none;
+  color: var(--color-primary);
+  font: inherit;
+  font-size: var(--text-sm);
+  font-weight: 650;
+  text-align: left;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.cev .cev-quiet:hover {
+  color: var(--color-primary-hover);
+  text-decoration: underline;
+}
+
+/* A button that reads as part of a sentence. */
+.cev .cev-inline {
+  padding: 0.7em 0;
+  margin-block: -0.7em;
+  border: 0;
+  background: none;
+  color: var(--color-primary);
+  font: inherit;
+  font-weight: 650;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+  cursor: pointer;
+}
+
+.cev .cev-inline:hover {
+  color: var(--color-primary-hover);
+  text-decoration-thickness: 2px;
+}
+
+.cev .cev-label {
+  font-size: var(--text-sm);
+  font-weight: 650;
+}
+
+.cev .cev-input {
+  width: 100%;
+  min-height: 3rem;
+  padding: 0.55em 0.9em;
+  border: 1px solid var(--cev-edge);
+  border-radius: var(--radius-md);
+  background: var(--color-surface);
+  color: var(--color-text);
+  font: inherit;
+}
+
+.cev .cev-input:focus-visible {
+  outline: 2px solid var(--color-focus);
+  outline-offset: 2px;
+}
+
+.cev .cev-input[aria-invalid='true'] {
+  border-color: var(--color-accent);
+  box-shadow: inset 0 0 0 1px var(--color-accent);
+}
+
+/* The search field's own clear button, redrawn as a plain X in the site's colors. */
+.cev .cev-input::placeholder {
+  color: var(--color-text-muted);
+  opacity: 1;
+}
+
+.cev .cev-input::-webkit-search-cancel-button {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 0.9rem;
+  height: 0.9rem;
+  margin-left: var(--space-2);
+  background:
+    linear-gradient(45deg, transparent calc(50% - 1px), var(--color-text-muted) calc(50% - 1px) calc(50% + 1px), transparent calc(50% + 1px)),
+    linear-gradient(-45deg, transparent calc(50% - 1px), var(--color-text-muted) calc(50% - 1px) calc(50% + 1px), transparent calc(50% + 1px));
+  cursor: pointer;
+}
+
+/* The site's focus ring squares off corners. These controls keep their own shape while focused,
+   whichever stylesheet loads last. */
+.cev .cev-quiet:focus-visible,
+.cev .cev-inline:focus-visible,
+.cev .cev-fold > summary:focus-visible {
+  border-radius: var(--radius-sm);
+}
+
+.cev .cev-tool:focus-visible {
+  border-radius: 50%;
+}
+
+.cev .cev-input:focus-visible,
+.cev .cev-add:focus-visible,
+.cev .cev-option:focus-visible {
+  border-radius: var(--radius-md);
+}
+
+.cev .cev-alert {
+  padding: var(--space-3) var(--space-4);
+  border: 1px solid var(--color-accent);
+  border-radius: var(--radius-md);
+  background: var(--color-accent-soft);
+  font-size: var(--text-sm);
+  font-weight: 600;
+}
+
+/* A <details> with its own arrow, so the summary can be a full-size tap target. */
+.cev .cev-fold > summary {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  min-height: 2.75rem;
+  padding: 0 var(--space-2);
+  margin-inline: calc(var(--space-2) * -1);
+  color: var(--color-primary);
+  font-size: var(--text-sm);
+  font-weight: 650;
+  list-style: none;
+  cursor: pointer;
+}
+
+.cev .cev-fold > summary::-webkit-details-marker {
+  display: none;
+}
+
+.cev .cev-fold > summary::before {
+  content: '';
+  width: 0.45em;
+  height: 0.45em;
+  margin-inline: 0.15em 0.1em;
+  border-right: 2px solid currentColor;
+  border-bottom: 2px solid currentColor;
+  transform: rotate(-45deg);
+  transition: transform var(--transition);
+}
+
+.cev .cev-fold[open] > summary::before {
+  transform: rotate(45deg);
+}
+
+/* A fold whose label says which way it goes. */
+.cev .cev-fold[open] .cev-fold__more,
+.cev .cev-fold:not([open]) .cev-fold__less {
+  display: none;
+}
+
+/* ---------- Loading and problems ---------- */
+
+.cev .cev-loading {
+  color: var(--color-text-muted);
+  font-size: var(--text-sm);
+}
+
+.cev .cev-skeleton {
+  display: grid;
+  gap: var(--space-3);
+}
+
+.cev .cev-skeleton span {
+  height: 0.9rem;
+  border-radius: var(--radius-pill);
+  background: var(--color-surface-alt);
+}
+
+.cev .cev-skeleton span:nth-child(2) { width: 82%; }
+.cev .cev-skeleton span:nth-child(3) { width: 56%; }
+
+@media (prefers-reduced-motion: no-preference) {
+  .cev .cev-skeleton span {
+    animation: cev-pulse 1.4s ease-in-out infinite alternate;
+  }
+}
+
+@keyframes cev-pulse {
+  from { opacity: 1; }
+  to { opacity: 0.45; }
+}
+
+.cev .cev-problem {
+  display: grid;
+  justify-items: start;
+  gap: var(--space-3);
+}
+
+/* ---------- Who is going ---------- */
+
+.cev .cev-names {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+}
+
+.cev .cev-name {
+  padding: 0.25em 0.85em;
+  /* A pill on one line, a soft box when a long name wraps. */
+  border-radius: 1.15rem;
+  background: var(--color-surface-alt);
+  font-size: var(--text-sm);
+  overflow-wrap: anywhere;
+}
+
+.cev .cev-name--me {
+  background: var(--cev-tint);
+  box-shadow: inset 0 0 0 1px var(--color-primary);
+  font-weight: 650;
+}
+
+.cev .cev-name__you {
+  font-weight: 400;
+}
+
+.cev .cev-fold > .cev-names {
+  margin-top: var(--space-1);
+}
+
+/* The one Lamplight button: wide and easy to hit on a phone, its natural size in a wider panel. */
+.cev .cev-cta {
+  width: 100%;
+  min-height: 3.25rem;
+  margin-top: var(--space-1);
+}
+
+.cev .cev-form {
+  display: grid;
+  gap: var(--space-2);
+  margin-top: var(--space-1);
+}
+
+.cev .cev-form .cev-row {
+  margin-top: var(--space-2);
+  gap: var(--space-2) var(--space-5);
+}
+
+.cev .cev-form .cev-cta {
+  flex: 1 1 12rem;
+  width: auto;
+  margin-top: 0;
+}
+
+@container cev (min-width: 27rem) {
+  .cev .cev-cta {
+    width: auto;
+    min-width: 13rem;
+    justify-self: start;
+  }
+
+  .cev .cev-form .cev-cta {
+    flex: 0 1 auto;
+  }
+}
+
+.cev .cev-turnstile:empty {
+  display: none;
+}
+
+.cev .cev-me {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0 var(--space-4);
+  margin-top: var(--space-1);
+  padding: var(--space-2) var(--space-4);
+  border-radius: var(--radius-md);
+  background: var(--cev-tint);
+}
+
+.cev .cev-me__line {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  min-height: 2.75rem;
+  overflow-wrap: anywhere;
+}
+
+.cev .cev-me__line .cev-icon,
+.cev .cev-bring .cev-icon,
+.cev .cev-sug__bring .cev-icon {
+  color: var(--color-primary);
+}
+
+.cev .cev-confirm {
+  display: grid;
+  gap: var(--space-2);
+  margin-top: var(--space-1);
+  padding: var(--space-3) var(--space-4);
+  border-radius: var(--radius-md);
+  background: var(--color-surface-alt);
+}
+
+.cev .cev-confirm__q {
+  font-weight: 600;
+}
+
+/* ---------- Which Cube ---------- */
+
+.cev .cev-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-1);
+}
+
+.cev .cev-chips li {
+  padding: 0.1em 0.7em;
+  border-radius: var(--radius-pill);
+  background: var(--color-accent-soft);
+  font-size: var(--text-xs);
+  font-weight: 600;
+}
+
+.cev .cev-owner {
+  color: var(--color-text-muted);
+  font-size: var(--text-sm);
+  overflow-wrap: anywhere;
+}
+
+/* The Cube the host picked or confirmed. */
+.cev .cev-pick {
+  display: grid;
+  gap: var(--space-3);
+  padding: var(--space-3);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+}
+
+.cev .cev-pick__text {
+  display: grid;
+  align-content: center;
+  gap: var(--space-2);
+  padding: var(--space-1) var(--space-2);
+  min-width: 0;
+}
+
+.cev .cev-pick__name {
+  font-family: var(--font-display);
+  font-size: var(--text-lg);
+  font-weight: 600;
+  line-height: var(--leading-snug);
+  overflow-wrap: anywhere;
+}
+
+.cev .cev-art {
+  display: grid;
+  gap: var(--space-1);
+}
+
+.cev .cev-art img {
+  width: 100%;
+  aspect-ratio: 2 / 1;
+  object-fit: cover;
+  border-radius: var(--radius-md);
+  background: var(--color-accent-soft);
+}
+
+.cev .cev-art figcaption {
+  padding-inline: var(--space-2);
+  color: var(--color-text-muted);
+  font-size: var(--text-xs);
+}
+
+@container cev (min-width: 27rem) {
+  .cev .cev-pick--art {
+    grid-template-columns: minmax(0, 11rem) minmax(0, 1fr);
+    align-items: start;
+  }
+
+  .cev .cev-pick--art .cev-art img {
+    aspect-ratio: 3 / 2;
+  }
+}
+
+.cev .cev-bring {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0 var(--space-4);
+  font-size: var(--text-sm);
+}
+
+.cev .cev-bring p,
+.cev .cev-sug__bring {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+}
+
+.cev .cev-verdict strong,
+.cev .cev-leader strong {
+  font-family: var(--font-display);
+  font-size: var(--text-lg);
+  font-weight: 600;
+}
+
+/* The suggested Cubes: one soft rounded card each. */
+.cev .cev-cubes {
+  display: grid;
+  gap: var(--space-2);
+}
+
+.cev .cev-sug {
+  display: grid;
+  gap: var(--space-1);
+  padding: var(--space-3) var(--space-4);
+  border-radius: var(--radius-md);
+  background: var(--color-bg);
+  min-width: 0;
+}
+
+.cev .cev-sug--picked {
+  box-shadow: inset 0 0 0 1px var(--color-primary);
+}
+
+.cev .cev-sug__name {
+  font-weight: 650;
+  overflow-wrap: anywhere;
+}
+
+.cev .cev-sug__tag {
+  display: inline-block;
+  margin-left: var(--space-1);
+  padding: 0.05em 0.6em;
+  border-radius: var(--radius-pill);
+  background: var(--color-primary);
+  color: var(--color-on-primary);
+  font-size: var(--text-xs);
+  font-weight: 650;
+  vertical-align: 0.1em;
+}
+
+/* Facts on one quiet line, with a dot between them. */
+.cev .cev-dots {
+  --cev-dot: 1.1em;
+  display: flex;
+  flex-wrap: wrap;
+  /* Every fact starts with a dot. The ones that start a line are pushed out of view, so a wrapped line never begins or ends with one. */
+  margin-left: calc(var(--cev-dot) * -1);
+  clip-path: inset(0 0 0 var(--cev-dot));
+  color: var(--color-text-muted);
+  font-size: var(--text-sm);
+  overflow-wrap: anywhere;
+}
+
+.cev .cev-dots li::before {
+  content: '\00b7';
+  display: inline-block;
+  width: var(--cev-dot);
+  color: var(--color-stone);
+  text-align: center;
+}
+
+.cev .cev-sug__meta {
+  gap: 0 var(--space-4);
+  margin-top: 0.15rem;
+}
+
+.cev .cev-sug__by,
+.cev .cev-sug__bring {
+  color: var(--color-text-muted);
+  font-size: var(--text-xs);
+}
+
+.cev .cev-sug__bring {
+  color: var(--color-text);
+  font-weight: 600;
+}
+
+.cev .cev-sug__bring .cev-icon {
+  width: 1rem;
+  height: 1rem;
+}
+
+.cev .cev-sug__acts {
+  margin-bottom: calc(var(--space-2) * -1);
+}
+
+.cev .cev-suggest {
+  justify-self: start;
+}
+
+/* The suggest picker opens in place, under the list. */
+.cev .cev-picker,
+.cev .cev-ballot,
+.cev .cev-result {
+  display: grid;
+  gap: var(--space-2);
+  min-width: 0;
+}
+
+.cev .cev-picker {
+  padding: var(--space-4);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+}
+
+.cev .cev-check {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  min-height: 2.75rem;
+  font-size: var(--text-sm);
+  cursor: pointer;
+}
+
+.cev .cev-check input {
+  flex: none;
+  width: 1.3rem;
+  height: 1.3rem;
+  margin: 0;
+  accent-color: var(--color-primary);
+}
+
+.cev .cev-picker__results {
+  display: grid;
+  gap: var(--space-2);
+}
+
+.cev .cev-options {
+  display: grid;
+  gap: var(--space-1);
+}
+
+.cev .cev-option,
+.cev .cev-add {
+  display: grid;
+  width: 100%;
+  min-height: 3rem;
+  border: 0;
+  border-radius: var(--radius-md);
+  background: var(--color-bg);
+  color: var(--color-text);
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+  transition: background var(--transition);
+}
+
+.cev .cev-option {
+  position: relative;
+  gap: 0.1rem;
+  padding: var(--space-2) var(--space-3);
+}
+
+/* In a picker row the ring sits at the right edge, clear of the two lines of text. */
+.cev .cev-option[data-working]::after {
+  position: absolute;
+  top: calc(50% - 0.45em);
+  right: var(--space-3);
+  margin: 0;
+}
+
+.cev .cev-option:hover:not(:disabled),
+.cev .cev-add:hover {
+  background: var(--color-surface-alt);
+}
+
+.cev .cev-option__name {
+  font-weight: 650;
+  overflow-wrap: anywhere;
+}
+
+.cev .cev-option__facts,
+.cev .cev-option__note {
+  color: var(--color-text-muted);
+  font-size: var(--text-xs);
+  overflow-wrap: anywhere;
+}
+
+.cev .cev-option__note {
+  font-weight: 650;
+}
+
+.cev .cev-options__foot,
+.cev .cev-picker__foot {
+  justify-content: space-between;
+}
+
+/* Your ranking: ranked Cubes first, then the ones still waiting. */
+.cev .cev-ballot,
+.cev .cev-result {
+  margin-top: var(--space-3);
+}
+
+.cev .cev-rankedlist,
+.cev .cev-pool {
+  display: grid;
+  gap: var(--space-1);
+}
+
+.cev .cev-ranked,
+.cev .cev-add {
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  align-items: center;
+  gap: var(--space-2);
+  padding: var(--space-1) 0 var(--space-1) var(--space-2);
+}
+
+.cev .cev-ranked {
+  display: grid;
+  min-height: 3.25rem;
+  border-radius: var(--radius-md);
+  background: var(--cev-tint);
+}
+
+.cev .cev-add {
+  padding-block: var(--space-2);
+  padding-right: var(--space-3);
+  background: none;
+  box-shadow: inset 0 0 0 1px var(--color-border);
+}
+
+/* On a phone the three tools leave the name a narrow column, so it runs a size smaller there. */
+.cev .cev-ranked__name,
+.cev .cev-add__name {
+  font-size: var(--text-sm);
+  font-weight: 650;
+  line-height: 1.3;
+  overflow-wrap: anywhere;
+}
+
+/* The place number sits on a hex: the outline of a Cube seen from its corner. */
+.cev .cev-rank {
+  display: grid;
+  place-items: center;
+  width: 1.75rem;
+  height: 2rem;
+  background: var(--color-primary);
+  color: var(--color-on-primary);
+  font-size: var(--text-sm);
+  font-weight: 700;
+  line-height: 1;
+  clip-path: polygon(50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%, 0 25%);
+}
+
+.cev .cev-rank--open {
+  background: color-mix(in srgb, var(--color-primary) 18%, transparent);
+  color: var(--color-primary);
+}
+
+.cev .cev-rank--open .cev-icon {
+  width: 0.95rem;
+  height: 0.95rem;
+}
+
+.cev .cev-ranked__tools {
+  display: flex;
+}
+
+.cev .cev-tool {
+  display: grid;
+  place-items: center;
+  width: 2.75rem;
+  height: 2.75rem;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: none;
+  color: var(--color-text);
+  cursor: pointer;
+  transition: background var(--transition);
+}
+
+.cev .cev-tool:hover:not(:disabled) {
+  background: color-mix(in srgb, var(--color-primary) 16%, transparent);
+}
+
+/* An arrow with nowhere to go: the top Cube cannot move up. */
+.cev .cev-tool:disabled {
+  opacity: 0.3;
+}
+
+.cev .cev-ballot__foot {
+  min-height: 2.75rem;
+  margin-top: var(--space-1);
+  gap: var(--space-1) var(--space-4);
+}
+
+.cev .cev-ballot__status {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  color: var(--color-text-muted);
+  font-size: var(--text-sm);
+}
+
+.cev .cev-ballot__status .cev-icon {
+  width: 1.1rem;
+  height: 1.1rem;
+  color: var(--color-primary);
+}
+
+.cev .cev-ballot__status--dirty {
+  color: var(--color-accent);
+  font-weight: 650;
+}
+
+@container cev (min-width: 27rem) {
+  .cev .cev-ranked,
+  .cev .cev-add {
+    gap: var(--space-3);
+    padding-left: var(--space-3);
+  }
+
+  .cev .cev-ranked {
+    padding-right: var(--space-1);
+  }
+
+  .cev .cev-ranked__name,
+  .cev .cev-add__name {
+    font-size: var(--text-base);
+  }
+}
+
+/* Result so far: first choices as bars. */
+.cev .cev-bars {
+  display: grid;
+  gap: var(--space-2);
+  margin-top: var(--space-1);
+}
+
+.cev .cev-bar {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 0.15rem var(--space-3);
+  font-size: var(--text-sm);
+}
+
+.cev .cev-bar__name {
+  grid-column: 1 / -1;
+  overflow-wrap: anywhere;
+}
+
+.cev .cev-bar__svg {
+  display: block;
+  width: 100%;
+  height: 8px;
+}
+
+.cev .cev-bar__track { fill: var(--chart-grid); }
+.cev .cev-bar__fill { fill: var(--color-primary); }
+
+.cev .cev-bar__votes {
+  min-width: 1.5ch;
+  font-weight: 650;
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+}
+
+@container cev (min-width: 27rem) {
+  .cev .cev-bar {
+    grid-template-columns: minmax(0, 12rem) minmax(0, 1fr) auto;
+  }
+
+  .cev .cev-bar__name {
+    grid-column: auto;
+  }
+}
+
+.cev .cev-how__body {
+  display: grid;
+  gap: var(--space-2);
+  padding-bottom: var(--space-2);
+  color: var(--color-text-muted);
+  font-size: var(--text-sm);
+}
+
+.cev .cev-rounds {
+  display: grid;
+  gap: var(--space-1);
+  color: var(--color-text);
+}
+
+/* ---------- Save and share ---------- */
+
+.cev .cev-actions {
+  display: grid;
+  gap: var(--space-3);
+  padding-top: var(--space-5);
+  border-top: 1px solid var(--color-border);
+}
+
+.cev .cev-actions .cev-row {
+  gap: var(--space-2) var(--space-5);
+}
+
+.cev .cev-link {
+  display: grid;
+  gap: var(--space-1);
+}
+
+/* With larger text on a narrow phone, the move buttons drop under the Cube's name so the name stays readable. */
+@container cev (max-width: 18rem) {
+  .cev .cev-ranked {
+    grid-template-columns: auto minmax(0, 1fr);
+  }
+
+  .cev .cev-ranked__tools {
+    grid-column: 1 / -1;
+    justify-content: flex-end;
+  }
+}

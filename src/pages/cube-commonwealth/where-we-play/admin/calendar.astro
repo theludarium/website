@@ -1,0 +1,666 @@
+---
+// The events calendar admin. It sits under the Where We Play admin path, so the
+// same Cloudflare Access policy protects it. The page holds only the heading, the
+// message line, and the preview token form. src/scripts/calendar-admin.ts builds
+// every section inside [data-body] from the admin API.
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import { CAL_ADMIN_API, CAL_BASE } from '@/lib/calendar/shared';
+import { CUBES_ADMIN, CUBES_API } from '@/lib/cube-library';
+---
+
+<BaseLayout title="Events calendar admin" description="Add, edit, and approve events for the Cube Commonwealth calendar." noindex>
+  <div class="container cadm" data-cal-admin data-api={CAL_ADMIN_API} data-cubes-api={CUBES_API} data-pagefind-ignore>
+    <p class="eyebrow cadm-crumbs">
+      <a href="/cube-commonwealth/where-we-play/admin/">Where We Play admin</a>
+      <a href={CUBES_ADMIN}>Cube queue</a>
+      <a href={CAL_BASE}>The calendar</a>
+    </p>
+    <h1>Events calendar</h1>
+    <p class="cadm-msg" role="status" data-msg></p>
+    <form class="cadm-auth" data-auth hidden>
+      <p>This is a preview, so enter the preview token.</p>
+      <input type="password" name="token" autocomplete="off" placeholder="Preview token" aria-label="Preview token" required />
+      <button class="button" type="submit">Open</button>
+    </form>
+    <div data-body></div>
+    <noscript><p>This page needs JavaScript.</p></noscript>
+  </div>
+</BaseLayout>
+
+<script>
+  import '@/scripts/calendar-admin';
+</script>
+
+<style is:global>
+  /* The events calendar admin is built by its script, so its styles are global under .cadm. */
+  .cadm {
+    /* Rust for things that cannot be undone. Mixed with the text color so it reads in both modes. */
+    --cadm-danger: color-mix(in srgb, #b5543a 70%, var(--color-text));
+    --cadm-danger-soft: color-mix(in srgb, #b5543a 14%, var(--color-surface));
+    max-width: 62rem;
+    padding-block: var(--space-6) var(--space-9);
+    /* Titles, names, and email addresses come from visitors, so a long one wraps instead of pushing the page wide. */
+    overflow-wrap: anywhere;
+  }
+
+  /* Labels and rows set their own display, which would otherwise beat the hidden attribute. */
+  .cadm [hidden] {
+    display: none !important;
+  }
+
+  .cadm h1 {
+    margin-bottom: var(--space-2);
+    font-size: var(--text-3xl);
+  }
+
+  .cadm h2 {
+    margin: 0;
+    font-size: var(--text-2xl);
+  }
+
+  /* "Add an event" takes focus after Duplicate so a screen reader lands there. It is not a control, so no ring. */
+  .cadm h2:focus {
+    outline: none;
+  }
+
+  .cadm h3 {
+    margin: 0;
+    font-size: var(--text-lg);
+  }
+
+  .cadm h4 {
+    margin: 0 0 var(--space-2);
+    font-family: var(--font-body);
+    font-size: var(--text-base);
+    font-weight: 700;
+    letter-spacing: 0;
+  }
+
+  .cadm-crumbs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-1) var(--space-4);
+  }
+
+  .cadm-quiet {
+    margin: 0;
+    font-size: var(--text-sm);
+    font-weight: 400;
+    color: var(--color-text-muted);
+  }
+
+  /* The one message line. It keeps its slot while empty so the page never jumps.
+     While it is news it floats in view under the site header as the page scrolls. */
+  .cadm-msg {
+    min-height: 3rem;
+    margin: 0 0 var(--space-2);
+    padding: var(--space-3) var(--space-4);
+    border: 1px solid transparent;
+    border-radius: var(--radius-md);
+    font-weight: 600;
+  }
+
+  .cadm-msg:not(:empty) {
+    border-color: var(--color-cta);
+    background: var(--color-accent-soft);
+  }
+
+  .cadm-msg.is-news:not(:empty) {
+    position: sticky;
+    top: calc(4.5rem + var(--space-2));
+    z-index: 5;
+    box-shadow: var(--shadow-md);
+  }
+
+  .cadm-msg.is-error:not(:empty) {
+    border-color: var(--cadm-danger);
+    background: var(--cadm-danger-soft);
+  }
+
+  .cadm-auth {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--space-2);
+    margin-bottom: var(--space-5);
+  }
+
+  .cadm-auth p {
+    flex-basis: 100%;
+    margin: 0;
+  }
+
+  .cadm-auth input {
+    flex: 1 1 12rem;
+    max-width: 22rem;
+  }
+
+  /* Fields */
+  .cadm label {
+    display: grid;
+    align-content: start;
+    gap: var(--space-1);
+    font-size: var(--text-sm);
+    font-weight: 600;
+  }
+
+  .cadm input,
+  .cadm select,
+  .cadm textarea {
+    width: 100%;
+    min-width: 0;
+    min-height: 2.75rem;
+    padding: 0.5em 0.7em;
+    border: 1px solid var(--color-stone);
+    border-radius: var(--radius-md);
+    background: var(--color-bg);
+    color: var(--color-text);
+    font: inherit;
+    font-size: var(--text-base);
+    font-weight: 400;
+  }
+
+  .cadm textarea {
+    resize: vertical;
+  }
+
+  .cadm-form {
+    display: grid;
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+    align-items: start;
+    gap: var(--space-3) var(--space-4);
+  }
+
+  .cadm-third { grid-column: span 2; }
+  .cadm-half { grid-column: span 3; }
+  .cadm-wide { grid-column: span 4; }
+  .cadm-full { grid-column: 1 / -1; }
+
+  .cadm-hint {
+    margin: 0;
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+
+  .cadm-hint:empty {
+    display: none;
+  }
+
+  /* Buttons. Lamplight is for adding and approving; saving and confirming use Felt Green. */
+  .cadm-actions {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--space-2);
+    margin: 0;
+  }
+
+  .cadm .cadm-solid {
+    border-color: var(--color-primary);
+    background: var(--color-primary);
+    color: var(--color-on-primary);
+  }
+
+  .cadm .cadm-solid:hover {
+    border-color: var(--color-primary-hover);
+    background: var(--color-primary-hover);
+  }
+
+  .cadm .cadm-danger {
+    border-color: var(--cadm-danger);
+    background: transparent;
+    color: var(--cadm-danger);
+  }
+
+  .cadm .cadm-danger:hover,
+  .cadm .cadm-danger--sure {
+    border-color: var(--cadm-danger);
+    background: var(--cadm-danger);
+    color: var(--color-bg);
+  }
+
+  /* Small buttons may carry an event title, so they wrap instead of running off a phone. */
+  .cadm .cadm-mini {
+    padding: 0.35em 0.9em;
+    border-width: 1px;
+    font-size: var(--text-sm);
+    text-align: left;
+    white-space: normal;
+  }
+
+  /* While a change is on its way no button takes a second tap. They only dim if the server is slow. */
+  .cadm.is-busy button {
+    opacity: 0.55;
+    pointer-events: none;
+    transition: opacity 150ms ease 200ms;
+  }
+
+  /* "Are you sure?" with Confirm and Keep, shown in place of the button that was pressed. */
+  .cadm-ask {
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--space-2);
+    padding: var(--space-2) var(--space-3);
+    border-radius: var(--radius-md);
+    background: var(--cadm-danger-soft);
+    font-size: var(--text-sm);
+    font-weight: 600;
+  }
+
+  /* Sections */
+  .cadm-jump {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+  }
+
+  .cadm-jump a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45em;
+    min-height: 2.75rem;
+    padding: 0.3em 1em;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-pill);
+    background: var(--color-surface);
+    color: var(--color-text);
+    font-size: var(--text-sm);
+    font-weight: 600;
+    text-decoration: none;
+  }
+
+  .cadm-jump a:hover {
+    border-color: var(--color-primary);
+  }
+
+  .cadm-count {
+    display: inline-block;
+    min-width: 1.7em;
+    padding: 0 0.45em;
+    border-radius: var(--radius-pill);
+    background: var(--color-surface-alt);
+    font-family: var(--font-body);
+    font-size: var(--text-xs);
+    font-weight: 700;
+    line-height: 1.7;
+    text-align: center;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .cadm-count--hot {
+    background: var(--color-cta);
+    color: var(--color-on-cta);
+  }
+
+  .cadm-section {
+    margin-top: var(--space-7);
+    scroll-margin-top: 9rem;
+  }
+
+  .cadm-head {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-2) var(--space-4);
+    margin-bottom: var(--space-4);
+  }
+
+  .cadm-card {
+    padding: var(--space-5);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-card);
+    background: var(--color-surface);
+  }
+
+  /* Waiting for approval */
+  .cadm-cards {
+    display: grid;
+    gap: var(--space-4);
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .cadm-pending {
+    display: grid;
+    gap: var(--space-3);
+    border-color: var(--color-cta);
+  }
+
+  .cadm-facts {
+    display: grid;
+    gap: var(--space-1);
+    margin: 0;
+    font-size: var(--text-sm);
+  }
+
+  .cadm-facts div {
+    display: grid;
+    grid-template-columns: 5rem minmax(0, 1fr);
+    gap: var(--space-3);
+  }
+
+  .cadm-facts dt {
+    font-weight: 600;
+    color: var(--color-text-muted);
+  }
+
+  .cadm-facts dd {
+    margin: 0;
+  }
+
+  .cadm-pre {
+    white-space: pre-line;
+  }
+
+  /* Event lists */
+  .cadm .cadm-month {
+    display: flex;
+    align-items: baseline;
+    gap: var(--space-3);
+    margin: var(--space-5) 0 var(--space-2);
+  }
+
+  .cadm-month span {
+    font-family: var(--font-body);
+    letter-spacing: 0;
+  }
+
+  .cadm-list {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    background: var(--color-surface);
+    list-style: none;
+  }
+
+  .cadm-list > li + li {
+    border-top: 1px solid var(--color-border);
+  }
+
+  .cadm-row {
+    display: grid;
+    grid-template-areas: 'when what tags turn';
+    grid-template-columns: 10.5rem minmax(0, 1fr) auto auto;
+    align-items: center;
+    gap: var(--space-1) var(--space-4);
+    width: 100%;
+    min-height: 3.5rem;
+    padding: var(--space-3) var(--space-4);
+    border: 0;
+    background: none;
+    color: inherit;
+    font: inherit;
+    text-align: left;
+    cursor: pointer;
+    scroll-margin-top: 9rem;
+  }
+
+  .cadm-row:hover,
+  .cadm-row[aria-expanded='true'] {
+    background: var(--color-surface-alt);
+  }
+
+  /* The list clips its corners, so the focus ring sits inside the row. */
+  .cadm-row:focus-visible {
+    outline-offset: -3px;
+    border-radius: var(--radius-md);
+  }
+
+  .cadm-row__when,
+  .cadm-row__what {
+    display: grid;
+    min-width: 0;
+  }
+
+  .cadm-row__when { grid-area: when; }
+  .cadm-row__what { grid-area: what; }
+
+  .cadm-row__when span,
+  .cadm-row__what span {
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+
+  .is-off > .cadm-row .cadm-row__what strong {
+    color: var(--color-text-muted);
+    text-decoration: line-through;
+  }
+
+  .cadm-row__tags {
+    display: flex;
+    flex-wrap: wrap;
+    grid-area: tags;
+    align-items: center;
+    justify-content: flex-end;
+    gap: var(--space-1);
+  }
+
+  .cadm-row__tags:empty {
+    display: none;
+  }
+
+  /* The arrow that shows a row opens. It points up while the row is open. */
+  .cadm-row::after {
+    content: '';
+    grid-area: turn;
+    width: 0.55em;
+    height: 0.55em;
+    margin: 0 0.3em 0.25em;
+    border-right: 2px solid var(--color-text-muted);
+    border-bottom: 2px solid var(--color-text-muted);
+    transform: rotate(45deg);
+  }
+
+  .cadm-row[aria-expanded='true']::after {
+    margin-bottom: -0.25em;
+    transform: rotate(-135deg);
+  }
+
+  .cadm-tag {
+    display: inline-block;
+    padding: 0.05em 0.6em;
+    border: 1px solid var(--color-stone);
+    border-radius: var(--radius-pill);
+    font-size: var(--text-xs);
+    font-weight: 700;
+    line-height: 1.5;
+    white-space: nowrap;
+    color: var(--color-text-muted);
+  }
+
+  .cadm-tag--hot {
+    border-color: var(--color-cta);
+    background: var(--color-cta);
+    color: var(--color-on-cta);
+  }
+
+  .cadm-tag--off {
+    border-color: var(--cadm-danger);
+    color: var(--cadm-danger);
+  }
+
+  /* An opened event */
+  .cadm-panel {
+    display: grid;
+    gap: var(--space-5);
+    padding: var(--space-4);
+    border-top: 1px solid var(--color-border);
+  }
+
+  .cadm-pending .cadm-panel {
+    padding: var(--space-3) 0 0;
+  }
+
+  .cadm-people,
+  .cadm-cubes {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .cadm-people {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 16rem), 1fr));
+    gap: 0 var(--space-5);
+  }
+
+  .cadm-people li,
+  .cadm-cubes li {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-2);
+    min-height: 3rem;
+    padding-block: var(--space-2);
+    border-top: 1px solid var(--color-border);
+  }
+
+  .cadm-cube {
+    display: grid;
+    flex: 1 1 14rem;
+    min-width: 0;
+  }
+
+  .cadm-tally {
+    display: grid;
+    gap: var(--space-2);
+    margin-top: var(--space-3);
+    padding-top: var(--space-3);
+    border-top: 1px solid var(--color-border);
+  }
+
+  .cadm-rounds {
+    margin: 0;
+    padding: 0;
+    font-size: var(--text-sm);
+    list-style: none;
+  }
+
+  .cadm-confirm,
+  .cadm-tally + .cadm-actions {
+    margin-top: var(--space-3);
+  }
+
+  .cadm-confirm {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: end;
+    gap: var(--space-2) var(--space-3);
+  }
+
+  .cadm-confirm label {
+    flex: 1 1 16rem;
+    max-width: 28rem;
+  }
+
+  .cadm-confirm p {
+    flex-basis: 100%;
+  }
+
+  .cadm-more {
+    margin: var(--space-3) 0 0;
+  }
+
+  /* Folded lists: past events and sample events. The button opens and closes the list under it. */
+  .cadm-fold {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-2);
+    min-height: 2.75rem;
+    padding: 0;
+    border: 0;
+    background: none;
+    color: var(--color-primary);
+    font: inherit;
+    font-weight: 650;
+    text-align: left;
+    cursor: pointer;
+  }
+
+  .cadm-fold::before {
+    content: '';
+    flex: none;
+    width: 0.5em;
+    height: 0.5em;
+    margin-inline: 0.25em 0.35em;
+    border-right: 2px solid currentcolor;
+    border-bottom: 2px solid currentcolor;
+    transform: rotate(-45deg);
+  }
+
+  .cadm-fold[aria-expanded='true']::before {
+    transform: rotate(45deg);
+  }
+
+  .cadm h2 .cadm-fold {
+    color: inherit;
+    font-weight: inherit;
+    letter-spacing: inherit;
+  }
+
+  .cadm h2 .cadm-fold::before {
+    width: 0.3em;
+    height: 0.3em;
+    margin-inline: 0.15em 0.2em;
+  }
+
+  .cadm-fold:hover {
+    color: var(--color-primary-hover);
+  }
+
+  @media (max-width: 40rem) {
+    .cadm-card {
+      padding: var(--space-4);
+      border-radius: var(--radius-lg);
+    }
+
+    .cadm-form {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .cadm-third,
+    .cadm-half,
+    .cadm-wide {
+      grid-column: 1 / -1;
+    }
+
+    .cadm-pair {
+      grid-column: span 1;
+    }
+
+    /* On a phone a row stacks: the day and time, the event, then its tags. */
+    .cadm-row {
+      grid-template-areas: 'when turn' 'what turn' 'tags turn';
+      grid-template-columns: minmax(0, 1fr) auto;
+    }
+
+    .cadm-row__when {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: baseline;
+      gap: 0 var(--space-2);
+    }
+
+    .cadm-row__tags {
+      justify-content: flex-start;
+      margin-top: var(--space-1);
+    }
+
+    /* Small buttons still get a full tap target on a phone. */
+    .cadm .cadm-mini {
+      min-height: 2.75rem;
+    }
+
+    /* Three buttons fit on one line at 360px. */
+    .cadm-actions .button {
+      padding-inline: 1em;
+    }
+  }
+</style>

@@ -99,6 +99,15 @@ import { CUBE_DISCORD_URL, CUBE_VALUES, CQC_STAMPS, CQC_CITIES } from '@/lib/cub
         <a class="button" href="/cube-commonwealth/cubes/">Browse the Cube Library</a>
       </article>
 
+      <article class="card cc-events" aria-labelledby="cc-events-title">
+        <div>
+          <p class="eyebrow">Events</p>
+          <h3 id="cc-events-title">Find your next draft</h3>
+          <p>Drafts, classes, and meetups, all on one calendar. Say you are going, then help pick the Cube we draft.</p>
+        </div>
+        <a class="button button--ghost" href="/cube-commonwealth/events/">See the calendar</a>
+      </article>
+
       <article class="card cc-wwp" aria-labelledby="cc-wwp-title">
         <div class="cc-wwp__intro">
           <p class="eyebrow">Where We Play</p>
@@ -335,8 +344,11 @@ import { CUBE_DISCORD_URL, CUBE_VALUES, CQC_STAMPS, CQC_CITIES } from '@/lib/cub
     margin-top: var(--space-1);
   }
 
-  .cc-library {
+  /* A row: words on the left, button on the right. The global .card is a column, so say so. */
+  .cc-library,
+  .cc-events {
     display: flex;
+    flex-direction: row;
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
@@ -345,12 +357,29 @@ import { CUBE_DISCORD_URL, CUBE_VALUES, CQC_STAMPS, CQC_CITIES } from '@/lib/cub
   }
 
   .cc-library h3,
-  .cc-library p {
+  .cc-library p,
+  .cc-events h3,
+  .cc-events p {
     margin-block: 0 var(--space-2);
   }
 
-  .cc-library > div {
+  .cc-library > div,
+  .cc-events > div {
     flex: 1 1 22rem;
+  }
+
+  /* The two cards stack at the same width, so they always match. */
+  @media (max-width: 48rem) {
+    .cc-library,
+    .cc-events {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .cc-library > div,
+    .cc-events > div {
+      flex-basis: auto;
+    }
   }
 
   .cc-wwp {

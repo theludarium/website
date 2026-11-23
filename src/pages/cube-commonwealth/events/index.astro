@@ -1,0 +1,80 @@
+---
+// The Cube Commonwealth events calendar. The page holds the words around the
+// calendar; src/scripts/calendar.ts fills the calendar root from /api/events:
+// the month grid, "Coming up", and the day dialog that opens through the day
+// Cube (src/scripts/calendar-cube.ts). The event view inside the dialog is
+// src/scripts/calendar-event.ts. Styles are global (src/styles/calendar.css)
+// because the HTML is built at runtime and the dialog lives on <body>.
+// Spec: docs/calendar/SPEC.md, section 5, and docs/calendar/DAY-CUBE.md.
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import NewsletterForm from '@/components/NewsletterForm.astro';
+import { TURNSTILE_SITE_KEY } from '@/lib/config';
+import { IS_PREVIEW } from '@/lib/env';
+import { CUBES_API } from '@/lib/cube-library';
+import { CUBE_DISCORD_URL } from '@/lib/cube-commonwealth';
+import { CAL_API, CAL_SUGGEST, CAL_TZ } from '@/lib/calendar/shared';
+import '@/styles/calendar.css';
+import '@/styles/calendar-event.css';
+
+// Previews and local dev use Cloudflare's always-pass test key, as Where We Play does.
+const TEST_SITE_KEY = '1x00000000000000000000AA';
+const siteKey = IS_PREVIEW ? TEST_SITE_KEY : TURNSTILE_SITE_KEY;
+
+const steps = [
+  { name: 'Open a day', line: 'Pick any day on the calendar. It opens to show every event that day.' },
+  { name: 'Say you are going', line: 'Open an event and add your name or Discord handle. No account needed.' },
+  { name: 'Rank the Cubes', line: 'For a draft, the people going suggest Cubes from the Cube Library and rank them. The vote picks the Cube.' },
+];
+---
+
+<BaseLayout
+  title="Cube Commonwealth Events: Drafts, Classes, and Meetups"
+  description="See every Cube Commonwealth event in Indianapolis on one calendar: Magic Cube drafts, classes, and meetups. Say you are going and help pick the Cube we draft."
+>
+  <div class="container cal-page">
+    <header class="cal-head">
+      <p class="eyebrow cal-head__eyebrow"><a href="/cube-commonwealth/">Cube Commonwealth</a></p>
+      <h1 class="cal-head__title">Events</h1>
+      <a class="button button--ghost cal-head__cta" href={CAL_SUGGEST}>Suggest an event</a>
+      <p class="cal-head__lede">Pick a day to see the Cube drafts, classes, and meetups coming up in Indianapolis.</p>
+    </header>
+
+    <div class="cal" data-calendar data-api={CAL_API} data-cubes-api={CUBES_API} data-suggest={CAL_SUGGEST} data-tz={CAL_TZ} data-site-key={siteKey}>
+      <noscript data-pagefind-ignore>
+        <p class="cal-noscript">The calendar needs JavaScript. Until then, <a href={CUBE_DISCORD_URL} rel="noopener">our Discord</a> has every event.</p>
+      </noscript>
+    </div>
+  </div>
+
+  <section class="container cal-how" aria-labelledby="cal-how-title">
+    <h2 id="cal-how-title">How it works</h2>
+    <ol class="cal-how__steps" role="list">
+      {
+        steps.map((step, i) => (
+          <li>
+            <span class="cal-how__n" aria-hidden="true">{i + 1}</span>
+            <h3>{step.name}</h3>
+            <p>{step.line}</p>
+          </li>
+        ))
+      }
+    </ol>
+  </section>
+
+  <section class="container cal-signup-wrap" aria-labelledby="cal-signup-title">
+    <div class="card cal-signup">
+      <div class="cal-signup__text">
+        <h2 id="cal-signup-title">Get events by email</h2>
+        <p>New drafts and meetups, sent when they are added.</p>
+      </div>
+      <NewsletterForm id="cal-signup" letters="cube" />
+    </div>
+  </section>
+</BaseLayout>
+
+{/* Loaded once for the "I'm going" form. The event view draws the check itself when it needs it. */}
+{siteKey && <script is:inline src="https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit" async defer></script>}
+
+<script>
+  import '@/scripts/calendar';
+</script>
