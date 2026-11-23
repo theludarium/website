@@ -5,6 +5,7 @@
 // approved Cube appears without a rebuild.
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import seed from '@/data/cube-library.json';
+import images from '@/data/cube-images.json';
 import { CUBES_API, CUBES_BASE, DEFAULT_SORT, STYLES, cubeCard, locationsOf, sortCubes, type PublicCube } from '@/lib/cube-library';
 
 const cubes = sortCubes(seed as PublicCube[], DEFAULT_SORT.key, DEFAULT_SORT.dir);
@@ -49,9 +50,11 @@ const places = locationsOf(cubes);
         <button type="button" data-view="table" aria-pressed="false">Table</button>
       </div>
     </div>
-    <ul class="lib__grid" data-grid set:html={cubes.map(cubeCard).join('')} />
+    <ul class="lib__grid" data-grid set:html={cubes.map((c) => cubeCard(c, images)).join('')} />
     <div class="lib__table" data-table role="region" aria-label="Cubes table" tabindex="0" hidden></div>
     <p class="lib__empty" data-empty hidden>No Cubes match that yet. <a href={`${CUBES_BASE}add/`}>Add yours</a> and be the first.</p>
+
+    <p class="lib__legal">Card art belongs to Wizards of the Coast and the credited artists, and images load from Cube Cobra. The Ludarium is not affiliated with either.</p>
 
     <aside class="card lib__cta">
       <div>
@@ -106,6 +109,12 @@ const places = locationsOf(cubes);
   .lib__grid { list-style: none; padding: 0; margin: 0 0 var(--space-6, 2rem); display: grid; gap: var(--space-4); grid-template-columns: repeat(auto-fill, minmax(min(100%, 19rem), 1fr)); }
   .cube { display: flex; flex-direction: column; gap: var(--space-2); }
   .cube p { margin: 0; }
+  .cube__figure { margin: 0; display: grid; gap: var(--space-1); }
+  .cube__figure figcaption { font-size: var(--text-xs); color: var(--color-text-muted); }
+  .cube__art { aspect-ratio: 16 / 9; overflow: hidden; border-radius: var(--radius-md); background: var(--color-accent-soft); }
+  .cube__art img { display: block; width: 100%; height: 100%; object-fit: cover; }
+  .cube__art--blank { background: var(--color-primary); opacity: 0.85; }
+  .lib__legal { font-size: var(--text-xs); color: var(--color-text-muted); margin-bottom: var(--space-5); }
   .cube__place { font-size: var(--text-xs); font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; color: var(--color-text-muted); }
   .cube__name { margin: 0; font-size: var(--text-lg); overflow-wrap: anywhere; }
   .cube__owner { font-size: var(--text-sm); color: var(--color-text-muted); overflow-wrap: anywhere; }

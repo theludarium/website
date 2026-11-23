@@ -58,7 +58,7 @@ export function parseCobraPrefix(text: string): CobraDetails | null {
 }
 
 /** Reads only the start of the response: full lists run past a megabyte. Never throws. */
-async function fetchCobra(id: string): Promise<CobraDetails | null> {
+export async function fetchCobra(id: string): Promise<CobraDetails | null> {
   try {
     const res = await fetch(`https://cubecobra.com/cube/api/cubeJSON/${encodeURIComponent(id)}`, {
       headers: { 'User-Agent': 'Mozilla/5.0 (compatible; TheLudarium/1.0)', Accept: 'application/json' },

@@ -218,7 +218,17 @@ export function matches(c: PublicCube, location: string, style: string, query: s
   return [c.name, c.owner, c.description, c.note, c.style, c.location].some((v) => v?.toLowerCase().includes(q));
 }
 
-export function cubeCard(c: PublicCube): string {
+export type CubeImages = Record<string, { src: string; artist: string | null }>;
+
+/** The Cube's image and artist credit. Only Cube Cobra's image host is allowed. */
+function cubeArt(c: PublicCube, images: CubeImages): string {
+  const art = images[c.listUrl];
+  if (!art || !art.src.startsWith('https://assets.cubecobra.com/')) return '<div class="cube__art cube__art--blank" aria-hidden="true"></div>';
+  const credit = art.artist ? `<figcaption>Art by ${escapeHtml(art.artist)}</figcaption>` : '';
+  return `<figure class="cube__figure"><div class="cube__art"><img src="${escapeHtml(art.src)}" alt="" width="626" height="457" loading="lazy" decoding="async" referrerpolicy="no-referrer" /></div>${credit}</figure>`;
+}
+
+export function cubeCard(c: PublicCube, images: CubeImages = {}): string {
   const facts = [c.style, c.cardCount ? `${c.cardCount} cards` : null, c.format ? FORMATS[c.format as keyof typeof FORMATS] : null]
     .filter(Boolean)
     .map((f) => `<li>${escapeHtml(String(f))}</li>`)
@@ -228,6 +238,7 @@ export function cubeCard(c: PublicCube): string {
   const lending = c.lending ? LENDING[c.lending as keyof typeof LENDING] : null;
   const updated = formatMonth(c.updatedAt);
   return `<li class="card cube">
+  ${cubeArt(c, images)}
   <p class="cube__place">${escapeHtml(c.location)}</p>
   <h3 class="cube__name">${escapeHtml(c.name)}</h3>
   <p class="cube__owner">Owned by ${escapeHtml(c.owner)}${c.discord ? ` <span>(@${escapeHtml(c.discord)} on Discord)</span>` : ''}</p>
