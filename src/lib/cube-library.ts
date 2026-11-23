@@ -165,10 +165,29 @@ export function parseSubmission(form: FormData): CubeSubmission | { error: strin
   };
 }
 
+export const REQUEST_LIMITS = { name: 60, email: 200, details: 800 };
+export type OwnerRequest = { cubeId: number; kind: 'change' | 'remove'; name: string; email: string; details: string | null };
+
+/** Returns the cleaned owner request, or the code of the first problem. */
+export function parseOwnerRequest(form: FormData): OwnerRequest | { error: string } {
+  const get = (key: string) => String(form.get(key) ?? '').trim();
+  const cubeId = Number(get('cube_id'));
+  const kind = get('kind');
+  const name = oneLine(get('name'));
+  const email = oneLine(get('email'));
+  const details = noDashes(get('details'));
+  if (!Number.isInteger(cubeId) || cubeId < 1 || (kind !== 'change' && kind !== 'remove') || !name || !email) return { error: 'missing' };
+  if (!EMAIL_PATTERN.test(email)) return { error: 'email' };
+  if (kind === 'change' && !details) return { error: 'details' };
+  if (name.length > REQUEST_LIMITS.name || email.length > REQUEST_LIMITS.email || details.length > REQUEST_LIMITS.details) return { error: 'long' };
+  return { cubeId, kind, name, email, details: details || null };
+}
+
 export const escapeHtml = (v: string) =>
   v.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#39;');
 
 const safeHref = (url: string) => (/^https:\/\//i.test(url) ? escapeHtml(url) : '#');
+const requestHref = (c: PublicCube) => `${CUBES_BASE}request/${c.id ? `?cube=${c.id}` : ''}`;
 
 /** Where the list lives, for the link label. */
 export function listLabel(url: string): string {
@@ -217,5 +236,51 @@ export function cubeCard(c: PublicCube): string {
   ${extra}
   ${lending ? `<p class="cube__lend">${escapeHtml(lending)}</p>` : ''}
   <p class="cube__foot"><a class="text-link" href="${safeHref(c.listUrl)}" target="_blank" rel="noopener">${listLabel(c.listUrl)}<span class="visually-hidden">: ${escapeHtml(c.name)}</span></a>${updated ? `<span class="cube__date">Updated ${updated}</span>` : ''}</p>
+  <p class="cube__request"><a href="${requestHref(c)}">Your Cube? Request a change or removal<span class="visually-hidden">: ${escapeHtml(c.name)}</span></a></p>
 </li>`;
+}
+
+export const TABLE_COLUMNS = [
+  { key: 'name', label: 'Cube' },
+  { key: 'owner', label: 'Owner' },
+  { key: 'location', label: 'City' },
+  { key: 'style', label: 'Style' },
+  { key: 'cardCount', label: 'Cards' },
+  { key: 'updatedAt', label: 'Updated' },
+] as const;
+export type SortKey = (typeof TABLE_COLUMNS)[number]['key'];
+
+/** A sorted copy. Blank values stay last in either direction; ties go by name. */
+export function sortCubes<T extends PublicCube>(cubes: T[], key: SortKey, dir: 1 | -1): T[] {
+  const byName = (a: T, b: T) => a.name.localeCompare(b.name, 'en', { sensitivity: 'base' });
+  return [...cubes].sort((a, b) => {
+    const x = a[key];
+    const y = b[key];
+    if (x == null || y == null) return x == null && y == null ? byName(a, b) : x == null ? 1 : -1;
+    const order = typeof x === 'number' && typeof y === 'number' ? x - y : String(x).localeCompare(String(y), 'en', { sensitivity: 'base' });
+    return order ? order * dir : byName(a, b);
+  });
+}
+
+export function cubeTable(cubes: PublicCube[], key: SortKey, dir: 1 | -1): string {
+  const head = TABLE_COLUMNS.map((col) => {
+    const on = col.key === key;
+    const sort = on ? ` aria-sort="${dir === 1 ? 'ascending' : 'descending'}"` : '';
+    const mark = on ? (dir === 1 ? '\u2191' : '\u2193') : '';
+    return `<th scope="col"${sort}${col.key === 'cardCount' ? ' class="is-num"' : ''}><button type="button" data-sort="${col.key}">${col.label}<span aria-hidden="true">${mark}</span></button></th>`;
+  }).join('');
+  const rows = cubes
+    .map(
+      (c) => `<tr>
+  <th scope="row"><a href="${safeHref(c.listUrl)}" target="_blank" rel="noopener">${escapeHtml(c.name)}</a></th>
+  <td>${escapeHtml(c.owner)}</td>
+  <td>${escapeHtml(c.location)}</td>
+  <td>${escapeHtml(c.style)}</td>
+  <td class="is-num">${c.cardCount ?? ''}</td>
+  <td>${formatMonth(c.updatedAt) ?? ''}</td>
+  <td><a href="${requestHref(c)}">Request<span class="visually-hidden"> a change or removal: ${escapeHtml(c.name)}</span></a></td>
+</tr>`,
+    )
+    .join('');
+  return `<table><caption class="visually-hidden">Cubes in the library. Column buttons sort the table.</caption><thead><tr>${head}<th scope="col" class="is-plain">Your Cube?</th></tr></thead><tbody>${rows}</tbody></table>`;
 }

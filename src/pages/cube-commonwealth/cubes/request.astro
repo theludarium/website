@@ -1,0 +1,138 @@
+---
+// An owner asks to change or remove their Cube. Posts to functions/api/cubes/request.ts,
+// which emails Levi. The Cube menu is filled from /api/cubes.
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import { TURNSTILE_SITE_KEY } from '@/lib/config';
+import { CUBES_API, CUBES_BASE, REQUEST_LIMITS } from '@/lib/cube-library';
+
+const siteKey = TURNSTILE_SITE_KEY;
+---
+
+<BaseLayout
+  title="Change or Remove Your Cube"
+  description="Own a Cube in the Cube Library? Ask us to update its listing or take it down. We check every request with the owner in mind before changing anything."
+  noindex
+>
+  <div class="container req">
+    <header>
+      <p class="eyebrow"><a href={CUBES_BASE}>The Cube Library</a></p>
+      <h1>Change or remove your Cube</h1>
+      <p class="req__lede">Tell us what you need. We will review it and update the library.</p>
+    </header>
+
+    <form class="card req__form" id="form" method="post" action={`${CUBES_API}/request`} data-request-form data-api={CUBES_API}>
+      <p class="req__status req__status--ok" data-ok hidden role="status">Thank you. Your request is on its way, and we will write to you if we have a question.</p>
+      <p class="req__status" data-error hidden role="alert"></p>
+
+      <label>Which Cube? <span>Required</span>
+        <select name="cube_id" required data-cube><option value="">Loading Cubes...</option></select>
+      </label>
+
+      <fieldset>
+        <legend>What do you need?</legend>
+        <label class="req__radio"><input type="radio" name="kind" value="change" required checked /> Change my listing</label>
+        <label class="req__radio"><input type="radio" name="kind" value="remove" /> Remove my Cube</label>
+      </fieldset>
+
+      <label>Your name or handle <span>Required</span>
+        <input name="name" required maxlength={REQUEST_LIMITS.name} autocomplete="name" />
+      </label>
+      <label>Email <span>Required, never public</span>
+        <input name="email" type="email" required maxlength={REQUEST_LIMITS.email} placeholder="you@example.com" autocomplete="email" />
+        <small>So we can confirm the Cube is yours. It is not added to a mailing list.</small>
+      </label>
+      <label>Details <span data-details-hint>Required for a change</span>
+        <textarea name="details" rows="4" maxlength={REQUEST_LIMITS.details} placeholder="What should we update?" data-details required></textarea>
+      </label>
+
+      <div class="req__trap" aria-hidden="true"><label>Leave this empty <input name="website" tabindex="-1" autocomplete="off" /></label></div>
+      {siteKey && <div class="cf-turnstile" data-sitekey={siteKey} data-theme="auto"></div>}
+
+      <button class="button" type="submit">Send my request</button>
+      <p class="req__fine"><a href="/privacy/">Privacy</a> and <a href="/terms/">Terms</a></p>
+    </form>
+  </div>
+</BaseLayout>
+
+{siteKey && <script is:inline src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>}
+
+<script>
+  const MESSAGES: Record<string, string> = {
+    missing: 'Please choose a Cube and add your name and email.',
+    details: 'Please tell us what should change.',
+    email: 'Please check your email address.',
+    long: 'One of your answers is a little long. Please shorten it.',
+    cube: 'We could not find that Cube in the library.',
+    verify: 'We could not confirm you are human. Please try again.',
+    unavailable: 'Sorry, your request did not go through. Please try again later.',
+  };
+  const form = document.querySelector<HTMLFormElement>('[data-request-form]')!;
+  const params = new URLSearchParams(location.search);
+  const ok = form.querySelector<HTMLElement>('[data-ok]')!;
+  const error = form.querySelector<HTMLElement>('[data-error]')!;
+  if (params.get('request') === 'sent') ok.hidden = false;
+  const code = params.get('request_error');
+  if (code) {
+    error.textContent = MESSAGES[code] ?? MESSAGES.unavailable;
+    error.hidden = false;
+  }
+
+  const details = form.querySelector<HTMLTextAreaElement>('[data-details]')!;
+  const hint = form.querySelector<HTMLElement>('[data-details-hint]')!;
+  const syncKind = () => {
+    const removing = new FormData(form).get('kind') === 'remove';
+    details.required = !removing;
+    details.placeholder = removing ? 'Anything we should know?' : 'What should we update?';
+    hint.textContent = removing ? 'Optional' : 'Required for a change';
+  };
+  form.addEventListener('change', syncKind);
+  if (params.get('kind') === 'remove') form.querySelector<HTMLInputElement>('input[value="remove"]')!.checked = true;
+  syncKind();
+
+  const select = form.querySelector<HTMLSelectElement>('[data-cube]')!;
+  const placeholder = (text: string) => {
+    const o = document.createElement('option');
+    o.value = '';
+    o.textContent = text;
+    return o;
+  };
+  fetch(form.dataset.api!)
+    .then((r) => (r.ok ? r.json() : Promise.reject()))
+    .then((data: { cubes: { id: number; name: string; owner: string }[] }) => {
+      select.replaceChildren(
+        placeholder('Choose your Cube'),
+        ...data.cubes.map((c) => {
+          const o = document.createElement('option');
+          o.value = String(c.id);
+          o.textContent = `${c.name} (${c.owner})`;
+          return o;
+        }),
+      );
+      const wanted = params.get('cube');
+      if (wanted && data.cubes.some((c) => String(c.id) === wanted)) select.value = wanted;
+    })
+    .catch(() => select.replaceChildren(placeholder('Could not load the Cubes. Please refresh.')));
+</script>
+
+<style>
+  .req { max-width: 40rem; padding-block: var(--space-7, 3rem); }
+  .req h1 { margin-block: var(--space-1) var(--space-3); }
+  .req__lede { font-size: var(--text-lg); margin-bottom: var(--space-5); }
+  .req__form { display: grid; gap: var(--space-4); }
+  fieldset { border: 0; padding: 0; margin: 0; display: grid; gap: var(--space-2); min-width: 0; }
+  legend { font-weight: 600; font-size: var(--text-sm); padding: 0; margin-bottom: var(--space-2); }
+  label { display: grid; gap: var(--space-1); font-weight: 600; font-size: var(--text-sm); min-width: 0; }
+  label span { font-weight: 400; font-size: var(--text-xs); color: var(--color-text-muted); }
+  small { font-weight: 400; color: var(--color-text-muted); }
+  .req__radio { display: flex; align-items: center; gap: var(--space-2); font-weight: 400; font-size: var(--text-base, 1rem); }
+  input:not([type='radio']), select, textarea {
+    width: 100%; padding: 0.7em 0.9em; border: 1px solid var(--color-border); border-radius: var(--radius-md);
+    background: var(--color-surface); color: var(--color-text); font: inherit; font-weight: 400;
+  }
+  input:focus-visible, select:focus-visible, textarea:focus-visible { outline: 2px solid var(--color-primary); outline-offset: 2px; }
+  .req__form .button { justify-self: start; }
+  .req__trap { position: absolute; left: -9999px; }
+  .req__fine { margin: 0; font-size: var(--text-sm); color: var(--color-text-muted); }
+  .req__status { margin: 0; padding: var(--space-3) var(--space-4); border: 1px solid var(--color-border); border-radius: var(--radius-md); font-weight: 600; }
+  .req__status--ok { background: var(--color-accent-soft); }
+</style>
