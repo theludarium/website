@@ -42,8 +42,15 @@ const places = locationsOf(cubes);
       </label>
     </div>
 
-    <p class="lib__count" role="status" data-count>{cubes.length} Cubes</p>
+    <div class="lib__bar">
+      <p class="lib__count" role="status" data-count>{cubes.length} Cubes</p>
+      <div class="lib__views" role="group" aria-label="View" data-views hidden>
+        <button type="button" data-view="cards" aria-pressed="true">Cards</button>
+        <button type="button" data-view="table" aria-pressed="false">Table</button>
+      </div>
+    </div>
     <ul class="lib__grid" data-grid set:html={cubes.map(cubeCard).join('')} />
+    <div class="lib__table" data-table role="region" aria-label="Cubes table" tabindex="0" hidden></div>
     <p class="lib__empty" data-empty hidden>No Cubes match that yet. <a href={`${CUBES_BASE}add/`}>Add yours</a> and be the first.</p>
 
     <aside class="card lib__cta">
@@ -78,7 +85,24 @@ const places = locationsOf(cubes);
     width: 100%; padding: 0.65em 0.9em; border: 1px solid var(--color-border); border-radius: var(--radius-md);
     background: var(--color-surface); color: var(--color-text); font: inherit;
   }
-  .lib__count { font-size: var(--text-sm); color: var(--color-text-muted); margin-bottom: var(--space-3); }
+  .lib__bar { display: flex; align-items: center; justify-content: space-between; gap: var(--space-3); margin-bottom: var(--space-3); }
+  .lib__count { font-size: var(--text-sm); color: var(--color-text-muted); margin: 0; }
+  .lib__views { display: inline-flex; padding: 3px; border: 1px solid var(--color-border); border-radius: 999px; background: var(--color-surface); }
+  .lib__views[hidden], .lib__grid[hidden], .lib__table[hidden] { display: none; }
+  .lib__views button { padding: 0.3em 0.95em; border: 0; border-radius: 999px; background: transparent; color: var(--color-text); font: inherit; font-size: var(--text-sm); font-weight: 600; cursor: pointer; }
+  .lib__views button[aria-pressed='true'] { background: var(--color-primary); color: var(--color-on-primary); }
+  .lib__table { position: relative; overflow-x: auto; margin-bottom: var(--space-6, 2rem); border: 1px solid var(--color-border); border-radius: var(--radius-lg, 1rem); background: var(--color-surface); }
+  .lib__table:focus-visible, .lib__table button:focus-visible { outline: 2px solid var(--color-primary); outline-offset: 2px; }
+  .lib__table table { width: 100%; min-width: 52rem; border-collapse: collapse; font-size: var(--text-sm); }
+  .lib__table th, .lib__table td { padding: 0.7em 1em; border-bottom: 1px solid var(--color-border); text-align: left; vertical-align: top; }
+  .lib__table tbody tr:last-child > * { border-bottom: 0; }
+  .lib__table tbody th { font-weight: 600; min-width: min(15rem, 42vw); }
+  .lib__table tr > :first-child { position: sticky; left: 0; z-index: 1; background: var(--color-surface); box-shadow: 1px 0 0 var(--color-border); }
+  .lib__table thead th { padding: 0; white-space: nowrap; }
+  .lib__table thead button { display: inline-flex; gap: 0.3em; width: 100%; padding: 0.75em 1em; border: 0; background: transparent; color: var(--color-text); font: inherit; font-weight: 600; cursor: pointer; }
+  .lib__table thead button span { min-width: 0.7em; }
+  .lib__table .is-num { text-align: right; font-variant-numeric: tabular-nums; }
+  .lib__table thead .is-num button { justify-content: flex-end; }
   .lib__grid { list-style: none; padding: 0; margin: 0 0 var(--space-6, 2rem); display: grid; gap: var(--space-4); grid-template-columns: repeat(auto-fill, minmax(min(100%, 19rem), 1fr)); }
   .cube { display: flex; flex-direction: column; gap: var(--space-2); }
   .cube p { margin: 0; }
@@ -91,6 +115,9 @@ const places = locationsOf(cubes);
   .cube__note, .cube__lend { font-size: var(--text-sm); color: var(--color-text-muted); overflow-wrap: anywhere; }
   .cube__foot { margin-top: auto !important; padding-top: var(--space-2); display: flex; flex-wrap: wrap; justify-content: space-between; gap: var(--space-2); font-size: var(--text-sm); }
   .cube__date { color: var(--color-text-muted); font-size: var(--text-xs); align-self: center; }
+  .cube__request { font-size: var(--text-xs); color: var(--color-text-muted); }
+  .cube__request a { color: inherit; }
+  .lib__table thead .is-plain { padding: 0.75em 1em; }
   .lib__empty { padding: var(--space-5) 0; }
   .lib__cta { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: var(--space-4); }
   .lib__cta h2 { margin: 0 0 var(--space-1); font-size: var(--text-xl); }

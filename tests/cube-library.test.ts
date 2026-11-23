@@ -1,9 +1,10 @@
 // Tests for the Cube Library's shared code and API helpers. Run: npm test
 import assert from 'node:assert/strict';
 import { test } from 'node:test';
-import { cleanListUrl, cleanLocation, cobraId, cubeCard, locationsOf, matches, parseSubmission, primerExcerpt, type PublicCube } from '../src/lib/cube-library.ts';
+import { cleanListUrl, cleanLocation, cobraId, cubeCard, cubeTable, sortCubes, parseOwnerRequest, locationsOf, matches, parseSubmission, primerExcerpt, type PublicCube } from '../src/lib/cube-library.ts';
 import { emailText, parseCobraPrefix } from '../functions/api/cubes/index.ts';
 import { cubeUpdates } from '../functions/api/where-we-play/admin/cubes/[id].ts';
+import { onRequestPost as sendRequest } from '../functions/api/cubes/request.ts';
 import seed from '../src/data/cube-library.json' with { type: 'json' };
 
 const form = (v: Record<string, string>) => {
@@ -80,4 +81,35 @@ test('the email to Levi has the details and the queue link', () => {
   assert.ok(!('error' in s));
   const t = emailText({ ...s, name: 'Mono Blue' }, 7, 360, true, 'https://theludarium.com/q/');
   for (const part of ['Mono Blue', 'Sam', 'Kansas City', '360', 'https://theludarium.com/q/']) assert.ok(t.includes(part), part);
+});
+
+test('the table sorts with blanks last and escapes what people type', () => {
+  const make = (name: string, cardCount: number | null): PublicCube => ({ name, listUrl: 'https://example.com/x', owner: 'o', location: 'Indy', description: null, note: null, style: 'Other', cardCount, updatedAt: null, lending: null, format: null, discord: null });
+  const cubes = [make('B', 360), make('A', null), make('<i>C', 540)];
+  assert.deepEqual(sortCubes(cubes, 'cardCount', 1).map((c) => c.cardCount), [360, 540, null]);
+  assert.deepEqual(sortCubes(cubes, 'cardCount', -1).map((c) => c.cardCount), [540, 360, null]);
+  const html = cubeTable(cubes, 'name', 1);
+  assert.ok(html.includes('aria-sort="ascending"') && !html.includes('<i>'));
+});
+
+test('owner requests need a reason for a change but not for a removal', () => {
+  const base = { cube_id: '7', name: 'Sam', email: 'sam@example.com' };
+  assert.deepEqual(parseOwnerRequest(form({ ...base, kind: 'change' })), { error: 'details' });
+  assert.ok(!('error' in parseOwnerRequest(form({ ...base, kind: 'remove' }))));
+  assert.deepEqual(parseOwnerRequest(form({ ...base, cube_id: 'x', kind: 'remove' })), { error: 'missing' });
+});
+
+test('an owner request emails Levi, changes nothing, and reports a failed send', async (t) => {
+  t.mock.method(globalThis, 'fetch', async () => new Response(JSON.stringify({ success: true })));
+  const sql: string[] = [];
+  const DB = { prepare(q: string) { sql.push(q); const st = { bind: () => st, first: async () => ({ name: 'Mono Blue', listUrl: 'https://cubecobra.com/cube/overview/mono-blue', owner: 'Levi Wilson', location: 'Indianapolis' }) }; return st; } };
+  const sentMail: { subject: string; text: string; replyTo: string }[] = [];
+  let works = true;
+  const NOTIFY = { fetch: async (_: string, init?: RequestInit) => { sentMail.push(JSON.parse(String(init?.body))); return new Response('', { status: works ? 200 : 500 }); } };
+  const post = () => sendRequest({ env: { DB, NOTIFY, TURNSTILE_SECRET_KEY: 'x' } as never, request: new Request('https://theludarium.com/api/cubes/request', { method: 'POST', body: form({ cube_id: '7', kind: 'remove', name: 'Sam', email: 'sam@example.com', 'cf-turnstile-response': 't' }) }) });
+  assert.ok((await post()).headers.get('location')?.includes('request=sent'));
+  assert.ok(sentMail[0].subject.includes('removal') && sentMail[0].text.includes('Mono Blue') && sentMail[0].replyTo === 'sam@example.com');
+  assert.ok(sql.every((q) => q.trim().startsWith('SELECT')));
+  works = false;
+  assert.ok((await post()).headers.get('location')?.includes('request_error=unavailable'));
 });
