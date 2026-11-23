@@ -250,6 +250,11 @@ export const TABLE_COLUMNS = [
 ] as const;
 export type SortKey = (typeof TABLE_COLUMNS)[number]['key'];
 
+/** The library opens with the most recently updated Cubes first. */
+export const DEFAULT_SORT: { key: SortKey; dir: 1 | -1 } = { key: 'updatedAt', dir: -1 };
+/** Dates and counts read best biggest first the first time they are clicked. */
+export const firstSortDir = (key: SortKey): 1 | -1 => (key === 'updatedAt' || key === 'cardCount' ? -1 : 1);
+
 /** A sorted copy. Blank values stay last in either direction; ties go by name. */
 export function sortCubes<T extends PublicCube>(cubes: T[], key: SortKey, dir: 1 | -1): T[] {
   const byName = (a: T, b: T) => a.name.localeCompare(b.name, 'en', { sensitivity: 'base' });

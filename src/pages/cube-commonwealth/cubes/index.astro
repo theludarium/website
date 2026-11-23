@@ -5,9 +5,9 @@
 // approved Cube appears without a rebuild.
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import seed from '@/data/cube-library.json';
-import { CUBES_API, CUBES_BASE, STYLES, cubeCard, locationsOf, type PublicCube } from '@/lib/cube-library';
+import { CUBES_API, CUBES_BASE, DEFAULT_SORT, STYLES, cubeCard, locationsOf, sortCubes, type PublicCube } from '@/lib/cube-library';
 
-const cubes = seed as PublicCube[];
+const cubes = sortCubes(seed as PublicCube[], DEFAULT_SORT.key, DEFAULT_SORT.dir);
 const places = locationsOf(cubes);
 ---
 
