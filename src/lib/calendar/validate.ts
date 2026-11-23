@@ -40,7 +40,8 @@ const multiLine = (v: unknown) =>
 
 /** A name or Discord handle for the "who is going" list, or null when it is unusable. */
 export function cleanAttendeeName(raw: unknown): string | null {
-  const name = oneLine(raw);
+  // Invisible characters would let a second "Sam" through the one-name rule, or reverse the text.
+  const name = oneLine(typeof raw === 'string' ? raw.replace(/\p{Default_Ignorable_Code_Point}/gu, '') : raw);
   if (!name || name.length > CAL_LIMITS.attendeeName || !/[\p{L}\p{N}]/u.test(name)) return null;
   return name;
 }
@@ -172,9 +173,6 @@ export function parseEventSuggestion(form: FormData, today: string): EventSugges
   const email = oneLine(get('email'));
 
   if (!title || !date || !startTime || !endTime || !submitterName) return { error: 'missing' };
-  if (!isIsoDate(date) || date < today || date > addDays(today, SUGGEST_MAX_DAYS_AHEAD)) return { error: 'date' };
-  if (!isTime(startTime) || !isTime(endTime) || startTime === endTime) return { error: 'time' };
-  if (email && !EMAIL_PATTERN.test(email)) return { error: 'email' };
   if (
     title.length > CAL_LIMITS.title ||
     locationName.length > CAL_LIMITS.locationName ||
@@ -185,7 +183,9 @@ export function parseEventSuggestion(form: FormData, today: string): EventSugges
   ) {
     return { error: 'long' };
   }
-
+  if (!isIsoDate(date) || date < today || date > addDays(today, SUGGEST_MAX_DAYS_AHEAD)) return { error: 'date' };
+  if (!isTime(startTime) || !isTime(endTime) || startTime === endTime) return { error: 'time' };
+  if (email && !EMAIL_PATTERN.test(email)) return { error: 'email' };
   const kind: EventKind = EVENT_KIND_KEYS.includes(kindRaw as EventKind) ? (kindRaw as EventKind) : 'other';
   return {
     title,

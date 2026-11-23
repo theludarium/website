@@ -15,7 +15,7 @@ export type CalendarEntry = {
 /** 2026-11-22T18:00:00.000Z becomes 20261122T180000Z. */
 const stamp = (iso: string) => new Date(iso).toISOString().replace(/[-:]/g, '').replace(/\.\d{3}Z$/, 'Z');
 
-const escapeText = (text: string) => text.replace(/\\/g, '\\\\').replace(/;/g, '\\;').replace(/,/g, '\\,').replace(/\r?\n/g, '\\n');
+const escapeText = (text: string) => text.replace(/\\/g, '\\\\').replace(/;/g, '\\;').replace(/,/g, '\\,').replace(/\r\n?|\n/g, '\\n');
 
 /** Lines longer than 75 octets continue on the next line after a space (RFC 5545). */
 function fold(line: string): string {

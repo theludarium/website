@@ -1,1 +1,1704 @@
-/* The events calendar: month grid, day dialog, and day Cube. Class prefix cal-. Spec: docs/calendar/SPEC.md. STUB: the Calendar builder fills this in. */
+/* The events calendar: the page head, the month grid, "Coming up", the day
+   dialog, and the day Cube. Global, because src/scripts/calendar.ts builds the
+   HTML at runtime and the dialog lives on <body>; every selector starts with
+   .cal, so nothing leaks out. Ported from the reference prototype named in
+   docs/calendar/DAY-CUBE.md. The motion is in src/scripts/calendar-cube.ts,
+   which only ever writes transform and opacity; this file gives each part its
+   resting look. Spec: docs/calendar/SPEC.md, section 5. */
+
+/* ---------- Colors the calendar adds to the site's tokens ---------- */
+
+.cal,
+.cal-stage,
+.cal-dlg {
+  /* One color for each kind of event. The kind is always named in words too. */
+  --cal-draft: var(--color-primary);
+  --cal-class: var(--chart-3);
+  --cal-meetup: var(--color-stone);
+  --cal-celebration: var(--color-cta);
+  --cal-other: var(--color-text);
+  --cal-gap: 3px;
+  --cal-day-radius: 9px;
+  /* Shadows and shading: Walnut, deepened. */
+  --cal-dark: color-mix(in srgb, var(--brand-walnut) 45%, black);
+  --cal-scrim: color-mix(in srgb, var(--brand-walnut) 44%, transparent);
+  --cal-shade: color-mix(in srgb, var(--brand-walnut) 100%, black);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) :is(.cal-stage, .cal-dlg) {
+    --cal-scrim: color-mix(in srgb, black 58%, transparent);
+    --cal-shade: color-mix(in srgb, var(--brand-walnut) 0%, black);
+  }
+}
+
+:root[data-theme='dark'] :is(.cal-stage, .cal-dlg) {
+  --cal-scrim: color-mix(in srgb, black 58%, transparent);
+  --cal-shade: color-mix(in srgb, var(--brand-walnut) 0%, black);
+}
+
+/* Each kind: one hue, three tones for the faces of its mini-Cube. */
+.cal-k-draft { --k: var(--cal-draft); }
+.cal-k-class { --k: var(--cal-class); }
+.cal-k-meetup { --k: var(--cal-meetup); }
+.cal-k-celebration { --k: var(--cal-celebration); }
+.cal-k-other { --k: var(--cal-other); }
+
+.cal-k-draft,
+.cal-k-class,
+.cal-k-meetup,
+.cal-k-celebration,
+.cal-k-other {
+  --k-top: color-mix(in oklab, var(--k) 64%, white);
+  --k-dark: color-mix(in oklab, var(--k) 76%, black);
+  --k-deep: color-mix(in oklab, var(--k) 56%, black);
+}
+
+/* The flat mini-Cube (month grid, legend, "Coming up", the date face). */
+.cal-iso {
+  flex: none;
+  width: 10px;
+  height: 11px;
+  max-width: none;
+  overflow: visible;
+}
+
+.cal-iso__t { fill: var(--k-top); }
+.cal-iso__l { fill: var(--k); }
+.cal-iso__r { fill: var(--k-dark); }
+
+/* A cancelled event's mini-Cube is an outline: off the table, but still on the page. */
+.cal-iso.is-off polygon {
+  fill: none;
+  stroke: var(--color-text-muted);
+  stroke-width: 1;
+  stroke-linejoin: round;
+}
+
+/* ---------- The page head ---------- */
+
+.cal-page {
+  padding-block: clamp(1.25rem, 1.1rem + 0.6vw, 1.5rem) var(--space-7);
+}
+
+/* Title on the left, the suggest button on the right. Where they cannot share a line, the button drops under the title. */
+.cal-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-1) var(--space-3);
+}
+
+.cal-head__eyebrow {
+  flex: 0 0 100%;
+  margin: 0 0 var(--space-1);
+}
+
+/* The padding makes the small link a full-size place to tap without moving the words. */
+.cal-head__eyebrow a {
+  display: inline-block;
+  margin-block: -14px;
+  padding-block: 14px;
+  color: inherit;
+  text-decoration: none;
+}
+
+.cal-head__eyebrow a:hover {
+  text-decoration: underline;
+}
+
+.cal-head__title {
+  margin: 0;
+  font-size: clamp(2.5rem, 2.2rem + 1.3vw, 3rem);
+}
+
+.cal-head__cta {
+  min-height: 44px;
+  padding-inline: 1em;
+  font-size: var(--text-sm);
+}
+
+.cal-head__lede {
+  flex: 0 0 100%;
+  max-width: 33rem;
+  margin: var(--space-1) 0 0;
+  color: var(--color-text-muted);
+  font-size: 1.1875rem;
+  line-height: 1.45;
+}
+
+.cal-noscript {
+  margin: var(--space-5) 0 0;
+}
+
+/* ---------- Toolbar ---------- */
+
+.cal-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-2);
+  margin-top: var(--space-4);
+}
+
+.cal-bar__month {
+  margin: 0;
+  font-size: 1.25rem;
+  white-space: nowrap;
+}
+
+.cal-nav {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}
+
+.cal-iconbtn {
+  flex: none;
+  display: grid;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  margin: 0;
+  padding: 0;
+  border: 1px solid var(--color-border);
+  border-radius: 50%;
+  background: var(--color-surface);
+  color: var(--color-text);
+  font: inherit;
+  cursor: pointer;
+  transition: border-color var(--transition), color var(--transition), background var(--transition);
+}
+
+.cal-iconbtn:hover {
+  border-color: var(--color-primary);
+  color: var(--color-primary);
+}
+
+.cal-pillbtn {
+  height: 44px;
+  margin: 0;
+  padding: 0 0.5em;
+  border: 2px solid transparent;
+  border-radius: var(--radius-pill);
+  background: transparent;
+  color: var(--color-primary);
+  font: inherit;
+  font-size: var(--text-sm);
+  font-weight: 650;
+  cursor: pointer;
+  transition: background var(--transition), color var(--transition);
+}
+
+.cal-pillbtn:hover {
+  background: var(--color-primary);
+  color: var(--color-on-primary);
+}
+
+/* The site's focus ring squares off corners. These controls keep their own shape while focused,
+   whichever stylesheet loads last. */
+.cal-iconbtn:focus-visible { border-radius: 50%; }
+
+.cal-pillbtn:focus-visible,
+.cal-backbtn:focus-visible,
+.cal-head__cta:focus-visible {
+  border-radius: var(--radius-pill);
+}
+
+/* ---------- Lines around the grid ---------- */
+
+.cal-banner,
+.cal-note {
+  margin: var(--space-4) 0 0;
+  padding: var(--space-2) var(--space-4);
+  border: 1px dashed var(--color-stone);
+  border-radius: var(--radius-md);
+  color: var(--color-text-muted);
+  font-size: var(--text-sm);
+}
+
+.cal-note {
+  border-style: solid;
+  border-color: var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-text);
+}
+
+/* The two status lines stay in the page while they are empty, taking no room, so a screen reader hears
+   them the moment they have something to say. */
+.cal-note:empty,
+.cal-status:empty {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* Until the script draws the calendar its place is held, so what is below never jumps on load. */
+.cal:not(.is-ready) {
+  display: block;
+  grid-column: 1 / -1;
+  min-height: 100vh;
+  min-height: 100svh;
+}
+
+.cal-day.is-waiting {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 1px;
+}
+
+/* Every control answers a tap in its own quiet way, with no blue square from the browser. */
+.cal :is(button, a),
+.cal-dlg :is(button, a),
+.cal-page a {
+  -webkit-tap-highlight-color: transparent;
+}
+
+:is(.cal-iconbtn, .cal-pillbtn, .cal-backbtn):active {
+  border-color: var(--color-primary);
+}
+
+.cal-banner a {
+  display: inline-block;
+  margin-block: -0.7em;
+  padding-block: 0.7em;
+  font-weight: 650;
+}
+
+/* ---------- Month grid ---------- */
+
+.cal-month {
+  margin-top: var(--space-4);
+}
+
+.cal-grid {
+  display: grid;
+  gap: var(--cal-gap);
+}
+
+.cal-dow,
+.cal-week {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  gap: var(--cal-gap);
+}
+
+.cal-dow {
+  margin-bottom: calc(var(--space-2) - var(--cal-gap));
+  color: var(--color-text-muted);
+  font-size: 0.6875rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.cal-dow__full {
+  display: none;
+}
+
+.cal-cell {
+  display: flex;
+  min-width: 0;
+}
+
+.cal-day {
+  position: relative;
+  flex: 1;
+  display: flex;
+  min-width: 0;
+  min-height: 62px;
+  margin: 0;
+  padding: 0;
+  border: 1px solid var(--color-border);
+  border-radius: var(--cal-day-radius);
+  background: var(--color-surface);
+  color: var(--color-text);
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  transition: border-color var(--transition), box-shadow var(--transition), transform var(--transition);
+}
+
+.cal-day__in {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+  min-width: 0;
+  padding: 6px 2px 5px;
+}
+
+.cal-day__top {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+  min-width: 0;
+}
+
+.cal-day__num {
+  display: grid;
+  place-items: center;
+  min-width: 1.75em;
+  height: 1.75em;
+  padding: 0 0.3em;
+  border-radius: var(--radius-pill);
+  font-size: 0.875rem;
+  font-weight: 650;
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+}
+
+.cal-day__today {
+  display: none;
+}
+
+.cal-day__marks {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+  max-width: 34px;
+}
+
+/* Four mini-Cubes sit two over two on a phone. */
+.cal-day__marks[data-n='4'] {
+  max-width: 24px;
+}
+
+.cal-day__plus {
+  color: var(--color-text-muted);
+  font-size: 0.625rem;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.cal-day__lines {
+  display: none;
+}
+
+.cal-day.is-today {
+  border-color: var(--color-primary);
+  box-shadow: inset 0 0 0 1px var(--color-primary);
+}
+
+.cal-day.is-today .cal-day__num {
+  background: var(--color-primary);
+  color: var(--color-on-primary);
+}
+
+/* Past days step back, but stay readable: quieter ink, and never a fade that would take the words or
+   the mini-Cubes below contrast. */
+.cal-day.is-past {
+  color: var(--color-text-muted);
+}
+
+.cal-day--out {
+  border-color: transparent;
+  background: transparent;
+  color: var(--color-text-muted);
+  cursor: default;
+  opacity: 0.42;
+}
+
+@media (hover: hover) {
+  button.cal-day:hover {
+    border-color: var(--color-primary);
+    box-shadow: var(--shadow-md);
+    transform: translateY(-2px);
+  }
+
+  button.cal-day.is-today:hover {
+    box-shadow: inset 0 0 0 1px var(--color-primary), var(--shadow-md);
+  }
+}
+
+button.cal-day:focus-visible {
+  z-index: 1;
+  border-radius: var(--cal-day-radius);
+  outline-offset: 1px;
+}
+
+/* The empty well a day leaves behind while its Cube is out. The same look is drawn twice: on the day
+   square itself while the dialog is open, and on the stage while the Cube is in flight (.cal-well), where
+   it can fade in under the lifting square. */
+.cal-day.is-out,
+button.cal-day.is-out:hover,
+.cal-well {
+  border: 1px solid transparent;
+  border-radius: var(--cal-day-radius);
+  background: color-mix(in srgb, var(--color-surface-alt) 62%, transparent);
+  box-shadow: inset 0 1px 3px color-mix(in srgb, var(--cal-dark) 14%, transparent);
+}
+
+.cal-day.is-out,
+button.cal-day.is-out:hover {
+  transform: none;
+  transition: none;
+}
+
+.cal-day.is-out .cal-day__in {
+  visibility: hidden;
+}
+
+/* In flight the stage draws the well and the copy of the square, so the square itself steps aside. */
+.cal-day.is-out.is-aloft {
+  visibility: hidden;
+}
+
+.cal-well {
+  position: absolute;
+  opacity: 0;
+}
+
+/* While a month loads, each day holds a quiet place for its mini-Cubes. It waits a moment before
+   showing, so a quick answer never flashes. */
+.cal-grid[aria-busy='true'] button.cal-day .cal-day__top::after {
+  content: '';
+  width: 22px;
+  height: 7px;
+  border-radius: var(--radius-pill);
+  background: var(--color-surface-alt);
+  opacity: 0;
+  animation: cal-wait 0.2s ease 0.35s forwards;
+}
+
+@keyframes cal-wait {
+  to { opacity: 1; }
+}
+
+.cal-status {
+  margin: var(--space-3) 0 0;
+  font-size: var(--text-sm);
+}
+
+.cal-status a,
+.cal-up__line a {
+  margin-block: -11px;
+  padding-block: 11px;
+}
+
+/* A link that leads on, with an arrow after its words. The arrow is a picture hidden from screen
+   readers, so it is never read as part of the link's name. */
+.cal-more {
+  display: inline-block;
+  font-weight: 650;
+  text-decoration: none;
+}
+
+.cal-more:hover {
+  text-decoration: underline;
+}
+
+.cal-more__arrow {
+  display: inline-block;
+  width: 0.85em;
+  height: 0.85em;
+  margin-left: 0.3em;
+  vertical-align: -0.08em;
+}
+
+.cal-problem {
+  display: grid;
+  justify-items: center;
+  gap: var(--space-2);
+  padding: var(--space-7) var(--space-5);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-card);
+  background: var(--color-surface);
+  text-align: center;
+}
+
+.cal-problem p {
+  margin: 0;
+  color: var(--color-text-muted);
+}
+
+.cal-problem .cal-problem__title {
+  color: var(--color-text);
+  font-family: var(--font-display);
+  font-size: var(--text-xl);
+  font-weight: 600;
+}
+
+.cal-problem .button {
+  min-height: 44px;
+  margin-top: var(--space-3);
+}
+
+.cal-foot {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0 var(--space-5);
+  margin-top: var(--space-3);
+  font-size: var(--text-xs);
+}
+
+.cal-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2) var(--space-4);
+  margin: 0;
+  padding: 0;
+  color: var(--color-text-muted);
+  list-style: none;
+}
+
+.cal-legend li {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.cal-legend .cal-iso {
+  width: 12px;
+  height: 13px;
+}
+
+/* ---------- Event rows: the day list and "Coming up" ---------- */
+
+.cal-ev {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  min-height: 76px;
+  margin: 0;
+  padding: 10px 12px 10px 10px;
+  border: 0;
+  border-radius: 18px;
+  background: none;
+  color: var(--color-text);
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.cal-ev:focus-visible {
+  border-radius: 18px;
+}
+
+.cal-ev__frame {
+  position: absolute;
+  inset: 0;
+  border: 1px solid var(--color-border);
+  border-radius: inherit;
+  transition: border-color var(--transition), background var(--transition);
+}
+
+.cal .cal-ev:hover .cal-ev__frame,
+.cal-dlg.is-moved .cal-ev:hover .cal-ev__frame {
+  border-color: var(--color-primary);
+  background: color-mix(in srgb, var(--color-surface-alt) 50%, transparent);
+}
+
+.cal-ev__cube {
+  position: relative;
+  flex: none;
+  display: grid;
+  place-items: center;
+  width: 50px;
+  height: 54px;
+  --mc: 28px;
+}
+
+.cal-ev__cube--flat .cal-iso {
+  width: 24px;
+  height: 26px;
+}
+
+.cal-ev__lift {
+  display: block;
+}
+
+.cal-ev__text {
+  position: relative;
+  flex: 1;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 3px;
+  min-width: 0;
+}
+
+.cal-ev__when {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 0.6em;
+  color: var(--color-text-muted);
+  font-size: var(--text-xs);
+  font-variant-numeric: tabular-nums;
+  line-height: 1.3;
+}
+
+.cal-ev__date {
+  color: var(--color-text);
+  font-weight: 650;
+}
+
+.cal-ev__time {
+  white-space: nowrap;
+}
+
+.cal-ev__title {
+  font-family: var(--font-display);
+  font-size: 1.1875rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  line-height: 1.2;
+  overflow-wrap: anywhere;
+}
+
+.cal-ev__place {
+  overflow: hidden;
+  color: var(--color-text-muted);
+  font-size: var(--text-xs);
+  line-height: 1.35;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.cal-ev__facts {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px 10px;
+  margin-top: 3px;
+  color: var(--color-text-muted);
+  font-size: var(--text-xs);
+  line-height: 1.3;
+}
+
+.cal-ev__tags {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+.cal-tag {
+  padding: 1px 7px;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-pill);
+  color: var(--color-text);
+  font-size: 0.6875rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.cal-tag--sample {
+  border-style: dashed;
+  border-color: var(--color-stone);
+  color: var(--color-text-muted);
+}
+
+.cal-tag--off {
+  border-color: var(--color-text);
+  background: var(--color-text);
+  color: var(--color-surface);
+}
+
+.cal-ev__mine {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  color: var(--color-primary);
+  font-weight: 650;
+  white-space: nowrap;
+}
+
+.cal-check {
+  flex: none;
+}
+
+.cal-ev__going {
+  position: relative;
+  flex: none;
+  display: none;
+  color: var(--color-text-muted);
+  font-size: var(--text-xs);
+  white-space: nowrap;
+}
+
+.cal-ev__chev {
+  position: relative;
+  flex: none;
+  color: var(--color-text-muted);
+  transition: transform var(--transition), color var(--transition);
+}
+
+.cal-ev:hover .cal-ev__chev {
+  color: var(--color-primary);
+  transform: translateX(2px);
+}
+
+/* A cancelled event: muted Cube, title struck through. The tag says it in words. */
+.cal-ev.is-off {
+  --k: var(--color-stone);
+}
+
+.cal-ev.is-off .cal-ev__title,
+.cal-ev.is-off .cal-ev__time {
+  color: var(--color-text-muted);
+  text-decoration: line-through;
+}
+
+/* The fade sits on the wrapper: opacity on the turning element itself would flatten its six faces into one. */
+.cal-ev.is-off .cal-mcw {
+  --k: var(--color-stone);
+  opacity: 0.6;
+}
+
+.cal-dlg .cal-evs .cal-ev.is-off :is(.cal-mc, .cal-mcy) {
+  animation: none;
+}
+
+/* The true 3D mini-Cube: six faces, three visible tones. Nothing here moves for ever: it makes one slow
+   turn when it lands and then rests, and turns again only while its row is hovered or focused.
+   Four boxes, one job each: the view, the tilt toward the visitor, the hover turn, and the Cube itself
+   with its resting angle. */
+.cal-mcw {
+  position: relative;
+  display: block;
+  width: var(--mc);
+  height: var(--mc);
+  perspective: 320px;
+}
+
+.cal-mcx,
+.cal-mcy,
+.cal-mc {
+  position: absolute;
+  inset: 0;
+  display: block;
+  transform-style: preserve-3d;
+}
+
+.cal-mcx {
+  transform: rotateX(-26deg);
+}
+
+/* Paused wherever it happens to be, so leaving a row never snaps its Cube back. */
+.cal-mcy {
+  animation: cal-spin 6s linear 1 paused;
+}
+
+@media (hover: hover) {
+  .cal-dlg.is-moved .cal-ev:hover .cal-mcy {
+    animation-play-state: running;
+  }
+}
+
+.cal-ev:focus-visible .cal-mcy {
+  animation-play-state: running;
+}
+
+.cal-mc {
+  transform: rotateY(var(--rest, -38deg));
+}
+
+/* The one slow turn, once the panel is at rest. Each row starts a beat after the one above. */
+.cal-dlg:not(.is-flying) .cal-evs .cal-mc {
+  animation: cal-turn 4.5s cubic-bezier(0.3, 0, 0.2, 1) var(--wait, 0.15s) both;
+}
+
+.cal-mc i {
+  position: absolute;
+  inset: 0;
+  border-radius: 2px;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+.cal-mc i:nth-child(1) { transform: translateZ(calc(var(--mc) / 2)); background: var(--k); }
+.cal-mc i:nth-child(2) { transform: rotateY(90deg) translateZ(calc(var(--mc) / 2)); background: var(--k-dark); }
+.cal-mc i:nth-child(3) { transform: rotateY(180deg) translateZ(calc(var(--mc) / 2)); background: var(--k); }
+.cal-mc i:nth-child(4) { transform: rotateY(-90deg) translateZ(calc(var(--mc) / 2)); background: var(--k-dark); }
+.cal-mc i:nth-child(5) { transform: rotateX(90deg) translateZ(calc(var(--mc) / 2)); background: var(--k-top); }
+.cal-mc i:nth-child(6) { transform: rotateX(-90deg) translateZ(calc(var(--mc) / 2)); background: var(--k-deep); }
+
+/* Each row rests at its own three-quarter view. */
+.cal-evs li:nth-child(4n + 2) .cal-mc { --rest: -128deg; --wait: 0.3s; }
+.cal-evs li:nth-child(4n + 3) .cal-mc { --rest: -52deg; --wait: 0.45s; }
+.cal-evs li:nth-child(4n + 4) .cal-mc { --rest: -142deg; --wait: 0.6s; }
+
+.cal-mcs {
+  position: absolute;
+  left: 50%;
+  bottom: -3px;
+  width: 44px;
+  height: 12px;
+  margin-left: -22px;
+  border-radius: 50%;
+  background: radial-gradient(closest-side, color-mix(in srgb, var(--cal-dark) 30%, transparent), color-mix(in srgb, var(--cal-dark) 0%, transparent));
+}
+
+@keyframes cal-spin {
+  to { transform: rotateY(-360deg); }
+}
+
+@keyframes cal-turn {
+  from { transform: rotateY(var(--rest, -38deg)); }
+  to { transform: rotateY(calc(var(--rest, -38deg) - 360deg)); }
+}
+
+/* ---------- Coming up ---------- */
+
+.cal-up {
+  margin-top: var(--space-7);
+}
+
+.cal-up__title {
+  margin: 0 0 var(--space-4);
+  font-size: var(--text-2xl);
+}
+
+.cal-up__list {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 10px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.cal-up__list li {
+  display: flex;
+  min-width: 0;
+}
+
+.cal-up .cal-ev {
+  background: var(--color-surface);
+}
+
+.cal-up .cal-ev__cube {
+  width: 40px;
+  height: 44px;
+}
+
+.cal-up__line {
+  margin: 0;
+  color: var(--color-text-muted);
+}
+
+.cal-up__line--wait {
+  opacity: 0;
+  animation: cal-wait 0.2s ease 0.35s forwards;
+}
+
+.cal-linkbtn {
+  margin: -11px 0 -11px 0.35em;
+  padding: 11px 0;
+  border: 0;
+  background: none;
+  color: var(--color-primary);
+  font: inherit;
+  font-weight: 650;
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+  cursor: pointer;
+}
+
+/* ---------- The stage: scrim, soft shadow, and the paper Cube (decorative) ---------- */
+
+.cal-stage {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  overflow: hidden;
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.cal-stage.is-on {
+  visibility: visible;
+}
+
+.cal-scrim {
+  position: absolute;
+  inset: 0;
+  background: var(--cal-scrim);
+  opacity: 0;
+  touch-action: none;
+}
+
+.cal-stage.is-on .cal-scrim {
+  pointer-events: auto;
+}
+
+.cal-cshadow {
+  position: absolute;
+  left: -50px;
+  top: -50px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: radial-gradient(
+    closest-side,
+    color-mix(in srgb, var(--cal-dark) 50%, transparent),
+    color-mix(in srgb, var(--cal-dark) 24%, transparent) 52%,
+    color-mix(in srgb, var(--cal-dark) 0%, transparent)
+  );
+  opacity: 0;
+}
+
+/* The Cube is drawn at its full size (--S) around the center of the face that ends up in the middle
+   of the net. All of its motion is transform and opacity, set by render(p). */
+.cal-cube {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 0;
+  height: 0;
+  transform-style: preserve-3d;
+}
+
+.cal-face {
+  position: absolute;
+  left: calc(var(--S) / -2);
+  top: calc(var(--S) / -2);
+  width: var(--S);
+  height: var(--S);
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+.cal-face {
+  background: var(--color-surface);
+}
+
+.cal-face i,
+.cal-cube__date {
+  position: absolute;
+  inset: 0;
+}
+
+.cal-face i {
+  opacity: 0;
+}
+
+.cal-face .sh { background: var(--cal-shade); }
+.cal-face .hl { background: color-mix(in srgb, white 100%, transparent); }
+
+.cal-face .ed {
+  border: 1px solid color-mix(in srgb, var(--color-text) 22%, transparent);
+  opacity: 1;
+}
+
+/* The day square as it sat in the grid: a copy at its natural size, laid exactly over the square (the
+   script gives it the square's own box), so the first frame matches the closed calendar. It rides the
+   face that starts toward the visitor and fades as the Cube takes shape. */
+.cal-ghost {
+  position: absolute;
+  display: flex;
+}
+
+.cal-ghost .cal-day {
+  box-shadow: none;
+  cursor: default;
+  transition: none;
+}
+
+.cal-ghost .cal-day.is-today {
+  box-shadow: inset 0 0 0 1px var(--color-primary);
+}
+
+/* The date block on the face that turns toward the visitor. */
+.cal-cd {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: calc(var(--S) * 0.045);
+  width: 100%;
+  height: 100%;
+  color: var(--color-text);
+}
+
+.cal-cd__dow {
+  color: var(--color-accent);
+  font-size: calc(var(--S) * 0.082);
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  line-height: 1;
+  text-indent: 0.16em;
+  text-transform: uppercase;
+}
+
+.cal-cd__num {
+  font-family: var(--font-display);
+  font-size: calc(var(--S) * 0.46);
+  font-weight: 600;
+  font-variant-numeric: lining-nums;
+  letter-spacing: -0.02em;
+  line-height: 0.86;
+}
+
+.cal-cd__marks {
+  display: flex;
+  align-items: center;
+  gap: calc(var(--S) * 0.028);
+  margin-top: calc(var(--S) * 0.02);
+}
+
+.cal-cd__marks .cal-iso {
+  width: calc(var(--S) * 0.095);
+  height: calc(var(--S) * 0.102);
+}
+
+.cal-cd__plus {
+  color: var(--color-text-muted);
+  font-size: calc(var(--S) * 0.075);
+  font-weight: 700;
+  line-height: 1;
+}
+
+/* ---------- The dialog: two cards (the day, one event) that share a place ---------- */
+
+/* The one column is minmax(0, 1fr) here and in the panel, so the dialog's width never follows its
+   content: a long word or a long link wraps inside it and cannot push Close off the screen. */
+.cal-dlg {
+  position: fixed;
+  inset: 0;
+  z-index: 110;
+  overflow: hidden;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  place-items: center;
+  padding: 12px;
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.cal-dlg.is-on {
+  visibility: visible;
+}
+
+.cal-dlg__panel {
+  position: relative;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  place-items: center;
+  width: min(40rem, 100%);
+  min-width: 0;
+  outline: none;
+}
+
+.cal-card {
+  position: relative;
+  grid-area: 1 / 1;
+  width: min(34rem, 100%);
+  min-width: 0;
+  pointer-events: auto;
+}
+
+.cal-card--detail {
+  /* Pinned to the top, so Back and Close stay put when the details arrive and the card grows. */
+  align-self: start;
+  width: 100%;
+}
+
+.cal-card.is-turning {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  pointer-events: none;
+}
+
+.cal-card[hidden] {
+  display: none;
+}
+
+.cal-card__bg {
+  position: absolute;
+  inset: 0;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-card);
+  background: var(--color-surface);
+  box-shadow: var(--shadow-lg);
+}
+
+/* The scrolling inside of a card. It sits one pixel inside the paper, so nothing that scrolls ever
+   paints over the card's border. */
+.cal-card__in {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  max-height: calc(100vh - 26px);
+  max-height: calc(100dvh - 26px);
+  margin: 1px;
+  padding: 19px 17px 17px;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  border-radius: calc(var(--radius-card) - 1px);
+  color: var(--color-text);
+}
+
+.cal-card--list .cal-card__in {
+  min-height: min(428px, calc(100vh - 26px));
+  min-height: min(428px, calc(100dvh - 26px));
+}
+
+/* Over everything in the card, the sticky bar included, so the whole face darkens as it turns away. */
+.cal-card__shade {
+  position: absolute;
+  inset: 0;
+  z-index: 3;
+  border-radius: var(--radius-card);
+  background: var(--cal-dark);
+  opacity: 0;
+  pointer-events: none;
+}
+
+/* While the Cube is in flight the paper is the net itself, and the words ride on it from a little way
+   off. The sticky bars drop their own paper backing until the panel is at rest. */
+.cal-dlg.is-flying :is(.cal-lhead, .cal-dtop) {
+  background: none;
+}
+
+/* A second click of a double click must not land on something that was not there for the first. The
+   cards take no clicks while the Cube is in flight, or in the first moments after the dialog opens. */
+.cal-dlg:is(.is-flying, .is-fresh) .cal-card {
+  pointer-events: none;
+}
+
+/* With no travel (reduced motion, or a day opened by its link), the scrim and the panel fade. */
+.cal-fade {
+  transition: opacity 150ms ease;
+}
+
+/* The page behind the dialog holds still. The script pads the root by the scrollbar's width. */
+html.cal-locked {
+  overflow: hidden;
+}
+
+/* Day card. The date and Close stay in reach when a long day scrolls. Like the bar over an event card,
+   the head carries the card's top padding, so rows slide away under it. */
+.cal-card--list .cal-card__in {
+  padding-top: 0;
+}
+
+.cal-lhead {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--space-4);
+  margin-bottom: var(--space-3);
+  padding: 19px 0 var(--space-3);
+  background: var(--color-surface);
+}
+
+/* A soft edge below the solid heading, so rows fade out under it instead of being sliced. */
+.cal-lhead::after,
+.cal-dtop::after {
+  position: absolute;
+  inset: 100% 0 auto;
+  height: 14px;
+  background: linear-gradient(to bottom, var(--color-surface), transparent);
+  content: '';
+  pointer-events: none;
+}
+
+.cal-dlg.is-flying :is(.cal-lhead, .cal-dtop)::after {
+  display: none;
+}
+
+/* Keyboard focus lands clear of the sticky headings. */
+.cal-card--list .cal-card__in {
+  scroll-padding-top: 8rem;
+}
+
+.cal-lhead__title:focus {
+  outline: none;
+}
+
+.cal-lhead__count {
+  margin: 0 0 6px;
+  color: var(--color-accent);
+  font-size: var(--text-xs);
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.cal-lhead > div {
+  min-width: 0;
+}
+
+.cal-lhead__title {
+  margin: 0;
+  font-size: clamp(1.5rem, 1.25rem + 1.2vw, 2rem);
+  outline: none;
+  overflow-wrap: anywhere;
+}
+
+.cal-evs {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 10px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.cal-lfoot {
+  margin-top: auto;
+  padding-top: var(--space-3);
+  font-size: var(--text-sm);
+}
+
+.cal-lfoot a,
+.cal-empty a {
+  display: inline-block;
+  padding-block: 11px;
+}
+
+.cal-empty {
+  display: grid;
+  justify-items: center;
+  gap: var(--space-2);
+  margin: auto 0;
+  padding: var(--space-5) 0;
+  text-align: center;
+}
+
+.cal-empty__cube {
+  width: 46px;
+  height: 50px;
+  max-width: none;
+}
+
+.cal-empty__cube polygon {
+  fill: none;
+  stroke: var(--color-stone);
+  stroke-width: 0.7;
+  stroke-dasharray: 1.6 1.4;
+  stroke-linejoin: round;
+}
+
+.cal-empty__line {
+  margin: 0;
+  font-family: var(--font-display);
+  font-size: var(--text-xl);
+  font-weight: 600;
+}
+
+.cal-empty .button {
+  min-height: 44px;
+}
+
+/* Event card. Back and Close stay in reach when a long event scrolls. The bar carries the card's top
+   padding, so the event slides away under it. */
+.cal-card--detail .cal-card__in {
+  padding-top: 0;
+  /* The event view brings focus and error lines into view with a margin of its own. This adds the rest of the bar's height. */
+  scroll-padding-block: 3.5rem var(--space-5);
+}
+
+.cal-dtop {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-4);
+  margin-bottom: var(--space-2);
+  padding: 19px 0 var(--space-2);
+  background: var(--color-surface);
+}
+
+.cal-backbtn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  min-height: 44px;
+  margin: 0;
+  padding: 0 1em 0 0.7em;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-pill);
+  background: var(--color-surface);
+  color: var(--color-text);
+  font: inherit;
+  font-size: var(--text-sm);
+  font-weight: 650;
+  cursor: pointer;
+  transition: border-color var(--transition), color var(--transition);
+}
+
+.cal-backbtn:hover {
+  border-color: var(--color-primary);
+  color: var(--color-primary);
+}
+
+/* The event view sizes itself by its own width, so its box must be a plain block as wide as the card. */
+.cal-event {
+  display: block;
+  min-width: 0;
+  padding-bottom: var(--space-2);
+}
+
+/* ---------- How it works, and the signup card ---------- */
+
+.cal-how {
+  padding-block: var(--space-6) var(--space-7);
+}
+
+.cal-how h2 {
+  margin: 0 0 var(--space-5);
+}
+
+.cal-how__steps {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr));
+  gap: var(--space-4);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.cal-how__steps li {
+  padding: var(--space-5);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-card);
+  background: var(--color-surface);
+}
+
+.cal-how__n {
+  display: grid;
+  place-items: center;
+  width: 2rem;
+  height: 2rem;
+  margin-bottom: var(--space-3);
+  border: 1.5px solid var(--color-primary);
+  border-radius: 9px;
+  color: var(--color-primary);
+  font-family: var(--font-display);
+  font-weight: 600;
+  line-height: 1;
+}
+
+.cal-how__steps h3 {
+  margin: 0 0 var(--space-2);
+  font-size: var(--text-lg);
+}
+
+.cal-how__steps p {
+  margin: 0;
+  color: var(--color-text-muted);
+  font-size: var(--text-sm);
+}
+
+.cal-signup-wrap {
+  padding-bottom: var(--space-8);
+}
+
+.cal-signup {
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-4) var(--space-6);
+}
+
+.cal-signup__text {
+  flex: 1 1 16rem;
+}
+
+.cal-signup h2 {
+  margin: 0 0 var(--space-2);
+  font-size: var(--text-xl);
+}
+
+.cal-signup form {
+  flex: 1 1 22rem;
+}
+
+/* ---------- Wider screens ---------- */
+
+@media (min-width: 400px) {
+  .cal-bar__month { font-size: 1.375rem; }
+  .cal-nav { gap: 4px; }
+}
+
+@media (min-width: 600px) {
+  .cal { --cal-gap: 6px; }
+
+  .cal,
+  .cal-stage {
+    --cal-day-radius: 11px;
+  }
+
+  .cal-head__cta {
+    padding-inline: 1.25em;
+    font-size: inherit;
+  }
+
+  .cal-bar { gap: var(--space-2) var(--space-4); }
+  .cal-bar__month { font-size: var(--text-2xl); }
+  .cal-nav { gap: var(--space-2); }
+
+  .cal-pillbtn {
+    padding: 0 1.15em;
+    border-color: var(--color-primary);
+    font-size: inherit;
+  }
+
+  .cal-dow { font-size: 0.75rem; }
+
+  .cal-day { min-height: 78px; }
+
+  .cal-day__in {
+    gap: 7px;
+    padding: 8px 4px;
+  }
+
+  .cal-day__marks,
+  .cal-day__marks[data-n='4'] {
+    gap: 3px;
+    max-width: none;
+  }
+
+  .cal-iso {
+    width: 12px;
+    height: 13px;
+  }
+
+  .cal-dlg { padding: 24px; }
+
+  .cal-card__in {
+    max-height: calc(100vh - 50px);
+    max-height: calc(100dvh - 50px);
+    padding: 27px 27px 23px;
+  }
+
+  .cal-dtop,
+  .cal-lhead {
+    padding-top: 27px;
+  }
+
+  .cal-card--list .cal-card__in {
+    min-height: min(438px, calc(100vh - 50px));
+    min-height: min(438px, calc(100dvh - 50px));
+  }
+
+  .cal-ev {
+    gap: 14px;
+    min-height: 80px;
+    padding: 12px 16px 12px 12px;
+  }
+
+  .cal-ev__cube {
+    width: 56px;
+    height: 56px;
+    --mc: 30px;
+  }
+
+  /* Room for the count at the end of the row, and for the tags beside the time. */
+  .cal-ev__going { display: block; }
+  .cal-ev__count { display: none; }
+  .cal-ev__title { font-size: 1.3125rem; }
+
+  .cal-ev__text {
+    grid-template-columns: auto minmax(0, 1fr);
+    align-items: center;
+    column-gap: 8px;
+  }
+
+  .cal-ev__facts { display: contents; }
+  .cal-ev__when { grid-area: 1 / 1; }
+  .cal-ev__tags { grid-area: 1 / 2; }
+  .cal-ev__title { grid-area: 2 / 1 / 3 / -1; }
+  .cal-ev__place { grid-area: 3 / 1 / 4 / -1; }
+
+  .cal-ev__mine {
+    grid-area: 4 / 1 / 5 / -1;
+    color: var(--color-primary);
+    font-size: var(--text-xs);
+    line-height: 1.3;
+  }
+}
+
+@media (min-width: 900px) {
+  .cal { --cal-gap: 8px; }
+
+  .cal,
+  .cal-stage {
+    --cal-day-radius: var(--radius-md);
+  }
+
+  /* The head and the toolbar share two lines: title and button, then lede and month. The calendar root
+     gives up its own box so its toolbar can sit in the head's second line. */
+  .cal-page {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    align-items: end;
+    column-gap: var(--space-5);
+  }
+
+  .cal-head,
+  .cal.is-ready {
+    display: contents;
+  }
+
+  .cal-head__eyebrow {
+    grid-area: 1 / 1 / 2 / -1;
+    margin-bottom: var(--space-2);
+  }
+
+  .cal-head__title { grid-area: 2 / 1; }
+
+  .cal-head__cta {
+    grid-area: 2 / 2;
+    align-self: center;
+    justify-self: end;
+  }
+
+  .cal-head__lede {
+    grid-area: 3 / 1;
+    margin-top: var(--space-2);
+  }
+
+  .cal-bar {
+    grid-area: 3 / 2;
+    gap: var(--space-5);
+    margin-top: 0;
+  }
+
+  .cal-banner { grid-area: 4 / 1 / 5 / -1; }
+  .cal-note { grid-area: 5 / 1 / 6 / -1; }
+
+  .cal-month {
+    grid-area: 6 / 1 / 7 / -1;
+    margin-top: 1.125rem;
+  }
+
+  .cal-up { grid-area: 7 / 1 / 8 / -1; }
+  .cal > noscript { grid-area: 4 / 1 / 5 / -1; }
+
+  .cal-dow { text-align: left; }
+  .cal-dow__cell { padding-left: 12px; }
+  .cal-dow__short { display: none; }
+  .cal-dow__full { display: inline; }
+
+  .cal-day { min-height: 93px; }
+
+  .cal-day__in {
+    align-items: stretch;
+    gap: 4px;
+    padding: 7px 9px 6px;
+  }
+
+  .cal-day__top {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 6px;
+  }
+
+  .cal-day__num {
+    min-width: 1.6em;
+    height: 1.6em;
+    font-size: 0.9375rem;
+  }
+
+  .cal-day__today {
+    display: block;
+    margin-right: auto;
+    color: var(--color-primary);
+    font-size: 0.6875rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .cal-day__lines {
+    display: grid;
+    gap: 1px;
+    min-width: 0;
+  }
+
+  .cal-day__line {
+    display: block;
+    min-width: 0;
+    padding-left: 7px;
+    overflow: hidden;
+    border-left: 3px solid var(--k);
+    font-size: 0.75rem;
+    line-height: 1.38;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .cal-day__line b {
+    margin-right: 0.3em;
+    color: var(--color-text-muted);
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .cal-day__line.is-off {
+    border-left-style: dotted;
+    color: var(--color-text-muted);
+    text-decoration: line-through;
+  }
+
+  .cal-day__more {
+    padding-left: 10px;
+    color: var(--color-text-muted);
+    font-size: 0.75rem;
+    font-weight: 600;
+    line-height: 1.38;
+  }
+
+  .cal-grid[aria-busy='true'] button.cal-day .cal-day__top::after { margin-left: auto; }
+
+  .cal-up__list { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+
+/* ---------- Reduced motion: no travel, no spin, no hover lift ---------- */
+
+@media (prefers-reduced-motion: reduce) {
+  .cal-mc,
+  .cal-mcy,
+  .cal-dlg:not(.is-flying) .cal-evs .cal-mc {
+    animation: none;
+  }
+
+  .cal-day,
+  .cal-ev__chev {
+    transition: none;
+  }
+
+  button.cal-day:hover { transform: none; }
+  .cal-ev:hover .cal-ev__chev { transform: none; }
+}
+
+/* On a phone the count keeps one place at the end of the tag line, so every row is the same height. */
+@media (max-width: 599.98px) {
+  .cal-ev__facts {
+    flex-wrap: nowrap;
+  }
+
+  .cal-ev__tags {
+    flex-wrap: nowrap;
+    min-width: 0;
+    overflow: hidden;
+  }
+
+  .cal-ev__count {
+    flex: none;
+    margin-left: auto;
+  }
+}

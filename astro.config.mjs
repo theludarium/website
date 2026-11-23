@@ -19,7 +19,9 @@ const NOT_IN_SITEMAP = ['/search/', '/newsletter/thanks/', '/newsletter/confirme
   '/academy/guild/kit/', '/academy/guild/certificate/', '/academy/guild/capstone/thanks/',
   '/academy/guild/toolkit/teach-script/', '/academy/guild/toolkit/game-ladder/', '/academy/guild/toolkit/pre-flight-checklist/',
   '/academy/guild/toolkit/feedback-card/', '/academy/guild/toolkit/self-assessment/',
-  '/cube-commonwealth/where-we-play/thanks/', '/cube-commonwealth/where-we-play/edit/', '/cube-commonwealth/where-we-play/admin/'];
+  '/cube-commonwealth/where-we-play/thanks/', '/cube-commonwealth/where-we-play/edit/', '/cube-commonwealth/where-we-play/admin/',
+  // The other admin pages (events calendar, Cube queue) and the owner's change or remove form for a Cube.
+  '/cube-commonwealth/where-we-play/admin/calendar/', '/cube-commonwealth/where-we-play/admin/cubes/', '/cube-commonwealth/cubes/request/'];
 
 // The Guild register stays out of search until it lists someone (see src/pages/academy/guild/register.astro).
 if (JSON.parse(fs.readFileSync('src/data/guild-register.json', 'utf8')).length === 0) NOT_IN_SITEMAP.push('/academy/guild/register/');

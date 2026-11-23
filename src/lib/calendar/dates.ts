@@ -138,9 +138,11 @@ export function zonedToUtc(date: string, time: string, tz: string): string {
   const [hh, mm] = time.split(':').map(Number);
   const wall = Date.UTC(y, m - 1, d, hh, mm);
   // Two passes settle the hours around a daylight saving change.
-  let utc = wall - offsetMinutes(wall, tz) * 60_000;
-  utc = wall - offsetMinutes(utc, tz) * 60_000;
-  return new Date(utc).toISOString();
+  const first = offsetMinutes(wall, tz);
+  const second = offsetMinutes(wall - first * 60_000, tz);
+  const utc = wall - second * 60_000;
+  // A time the spring change skips (2:30 am) moves forward an hour, as clocks do.
+  return new Date(offsetMinutes(utc, tz) === second ? utc : wall - Math.min(first, second) * 60_000).toISOString();
 }
 
 /** Start and end instants of an event. An end time at or before the start means it ends the next day. */

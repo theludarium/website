@@ -10,7 +10,7 @@ Levi asked for an events calendar on theludarium.com (2026-11-23). Version 1 ser
 - **Which Cube to draft**: for events where attendees choose, people who are going can suggest Cubes from the Cube Library (`/cube-commonwealth/cubes/`), say "I can bring it", and rank the suggested Cubes. The site counts the ballots by ranked choice (instant runoff). Voting closes a set number of hours before the start (default 24). The host can also set the Cube up front, or confirm or override the result.
 - **Suggest an event**: any visitor can fill in a form. It is saved as pending and emailed to Levi, who approves, edits, or rejects it.
 - **Admin** at `/cube-commonwealth/where-we-play/admin/calendar/` (behind the existing Cloudflare Access policy): create events (with "repeat weekly"), edit, cancel, delete, approve suggestions, remove attendees or suggested Cubes, confirm a Cube, delete the sample events.
-- **Sample events**: placeholder events (at least two per day) flagged `is_sample`. They are returned only when the page URL has `?samples=1`, so Levi can see a full calendar without the public seeing made-up events.
+- **Sample events**: placeholder events (at least two per day) flagged `is_sample`. They answer only with `?samples=1`, in lists and by id, so Levi can see a full calendar without the public seeing made-up events.
 
 ### Decisions already made (do not reopen)
 
@@ -23,20 +23,18 @@ Levi asked for an events calendar on theludarium.com (2026-11-23). Version 1 ser
 
 ## 2. Files and who owns them
 
-Five builders work at the same time in one checkout. **Edit only the files in your own list.** Do not edit another builder's files, and do not edit the foundation files; if the contract is missing something, add what you need inside your own files and say so in your final report.
+The build was split five ways. The table shows where each part lives.
 
-**Foundation (already written, read-only for everyone):**
+**Foundation:**
 `src/lib/calendar/shared.ts` (types, constants, messages), `src/lib/calendar/dates.ts`, `src/lib/calendar/tally.ts`, `src/lib/calendar/validate.ts`, `src/lib/calendar/ics.ts`, `tests/calendar/lib.test.ts`, `tests/calendar/d1.ts` (a real-SQL stand-in for D1 in tests), this spec.
 
-| Builder | Owns |
+| Part | Files |
 | --- | --- |
 | **Server** | `migrations/0008_calendar.sql`, `src/server/calendar/**`, `functions/api/events/**`, `functions/api/where-we-play/admin/calendar/**`, `tests/calendar/server.test.ts` |
 | **Calendar** | `src/pages/cube-commonwealth/events/index.astro`, `src/scripts/calendar.ts`, `src/scripts/calendar-cube.ts`, `src/lib/calendar/render.ts`, `src/styles/calendar.css`, `tests/calendar/render.test.ts` |
 | **Event view** | `src/scripts/calendar-event.ts`, `src/lib/calendar/event-render.ts`, `src/styles/calendar-event.css`, `tests/calendar/event-render.test.ts` |
 | **Admin** | `src/pages/cube-commonwealth/where-we-play/admin/calendar.astro`, `src/scripts/calendar-admin.ts`, the one-line nav links in `src/pages/cube-commonwealth/where-we-play/admin.astro` and `src/pages/cube-commonwealth/where-we-play/admin/cubes.astro` |
 | **Pages** | `src/pages/cube-commonwealth/events/suggest.astro`, the Events card in `src/pages/cube-commonwealth/index.astro`, `scripts/calendar-samples.ts`, `migrations/0009_calendar_samples.sql`, `tests/calendar/samples.test.ts`, `astro.config.mjs` (sitemap list only), `CLAUDE.md`, `DECISIONS.md`, `README.md` |
-
-Stub files exist for the modules other builders import (`src/scripts/calendar-event.ts`, `src/styles/calendar.css`, `src/styles/calendar-event.css`), so imports resolve while everyone works.
 
 ## 3. Data model: `migrations/0008_calendar.sql`
 
@@ -64,7 +62,7 @@ CREATE TABLE cal_events (
   is_sample         INTEGER NOT NULL DEFAULT 0,
   submitter_name    TEXT,                                  -- private: who suggested it
   submitter_email   TEXT,                                  -- private
-  ip_hash           TEXT,
+  closed_tally      TEXT,                                  -- JSON Tally, frozen once someone leaves after voting closes
   created_at        TEXT    NOT NULL,
   updated_at        TEXT    NOT NULL
 );
@@ -76,7 +74,6 @@ CREATE TABLE cal_attendees (
   event_id    INTEGER NOT NULL REFERENCES cal_events(id) ON DELETE CASCADE,
   name        TEXT    NOT NULL,
   token_hash  TEXT    NOT NULL,                            -- sha256 of the private attendee token
-  ip_hash     TEXT    NOT NULL,
   created_at  TEXT    NOT NULL
 );
 CREATE UNIQUE INDEX cal_attendees_name ON cal_attendees (event_id, name COLLATE NOCASE);
@@ -95,7 +92,7 @@ CREATE UNIQUE INDEX cal_cube_suggestions_once ON cal_cube_suggestions (event_id,
 CREATE TABLE cal_ballots (
   event_id     INTEGER NOT NULL REFERENCES cal_events(id) ON DELETE CASCADE,
   attendee_id  INTEGER NOT NULL REFERENCES cal_attendees(id) ON DELETE CASCADE,
-  ranking      TEXT    NOT NULL,                           -- JSON array of cube ids, first choice first
+  ranking      TEXT    NOT NULL,                           -- JSON array of Cube ids, first choice first
   updated_at   TEXT    NOT NULL,
   PRIMARY KEY (event_id, attendee_id)
 );
@@ -109,13 +106,14 @@ Reuse the helpers in `src/server/where-we-play/`: `http.ts` (`json`, `fail`, `fi
 
 Put queries and rules in `src/server/calendar/` (for example `db.ts`, `actions.ts`, `view.ts`) so the route files stay thin and the logic is testable. Every handler takes `now` from one place (`new Date()` at the top of the request) and passes it down, so tests can fix the clock.
 
-- Attendee token: `newToken()`; store `sha256Hex('cal-attendee:' + token)`. Read it from the `X-Attendee-Token` header (`ATTENDEE_HEADER`). A token only counts for the event whose attendee row it matches.
-- IP hash: `sha256Hex(`${env.WWP_HASH_SALT ?? 'wwp'}:cal:${ip}`)`. Rate limits with `allowSubmission` using separate keys: `...:cal-attend:` 20 an hour, `...:cal-act:` 240 an hour (all other actions), `...:cal-suggest:` 5 an hour.
+- Attendee token: the browser makes it (32 random bytes, base64url) and sends it in the `X-Attendee-Token` header (`ATTENDEE_HEADER`), so a retried `attend` after a lost answer finds the same sign-up. Store `sha256Hex('cal-attendee:' + token)`. A token only counts for the event whose attendee row it matches.
+- Rate limits with `allowSubmission`, under a salted hash that is not kept with any name or event: sign-ups 40 an hour per address (a whole room on one Wi-Fi shares one), event suggestions 5 an hour per address, and every other action 120 an hour per attendee.
+- Preview addresses (`*.pages.dev`) can read the calendar but refuse writes with `unavailable`, because they share the production database and use an always-pass human check.
 - Turnstile follows the Where We Play pattern exactly: `if (env.TURNSTILE_SECRET_KEY && !(token && (await verifyTurnstile(token, env.TURNSTILE_SECRET_KEY, ip || null))))` then refuse with `verify`. With no secret set (local dev) the check is skipped.
 - Instants: on every create and on any edit of date, times, or tz, recompute `starts_at` and `ends_at` with `eventInstants()` from `dates.ts`. `voteClosesAt = voteCloseInstant(startsAt, vote_close_hours)`.
 - `rsvpOpen` = status approved and now is before `ends_at`. `votingOpen` = status approved, `cube_mode = 'vote'`, `cube_id` is null, and now is before `voteClosesAt`.
-- The tally: candidates are this event's suggestions whose Cube is still approved, in `id` order (earliest suggestion first); ballots are every attendee's ranking; call `tallyRankedChoice`. The `tally` in a payload is always computed fresh.
-- Never return `submitter_*`, `ip_hash`, `token_hash`, or pending and rejected events from a public route.
+- The tally: candidates are this event's suggestions whose Cube is still approved, in `id` order (earliest suggestion first); ballots are every attendee's ranking; call `tallyRankedChoice`. The `tally` is computed fresh until voting has closed and someone leaves; then the count at that moment is kept in `closed_tally`, so a late dropout cannot change the result. Any admin edit, or the admin removing a person or a Cube, lets go of it.
+- Never return `submitter_*`, `closed_tally`, `token_hash`, or pending and rejected events from a public route.
 - All JSON routes answer `Cache-Control: no-store` except the list, which may use `public, max-age=20`.
 
 ### Public routes
@@ -133,11 +131,11 @@ Answer: `EventPayload`, or 404 `{ error: 'gone' }` for unknown, pending, or reje
 | `attend` | Event approved and `rsvpOpen`. Name through `cleanAttendeeName`. Turnstile. Rate limit. Under `CAL_CAPS.attendeesPerEvent`. The name is unique within the event, ignoring case. | 400 `name`, 403 `verify`, 429 `slow`, 409 `rsvp-closed`, 409 `full`, 409 `name-taken` |
 | `leave` | Valid token. Deletes the attendee (their ballot goes with them; their suggestions stay with `suggested_by` and `bringer_id` cleared by the foreign keys). Answers the payload with `me: null`. | 401 `not-attending` |
 | `suggest` | Valid token. `votingOpen`. The Cube exists and is approved. Not already suggested for this event. The attendee has fewer than 3 suggestions here and the event has fewer than 12. `canBring: true` makes the attendee the bringer. | 401 `not-attending`, 409 `vote-closed`, 400 `cube`, 409 `duplicate`, 409 `limit` |
-| `withdraw` | Valid token. `votingOpen`. The suggestion belongs to this event and this attendee suggested it. Deletes it. | 401 `not-attending`, 409 `vote-closed`, 404 `bad`, 403 `not-yours` |
+| `withdraw` | Valid token. `votingOpen`. The suggestion belongs to this event, and this attendee suggested it or its suggester has left. Deletes it. | 401 `not-attending`, 409 `vote-closed`, 404 `bad`, 403 `not-yours` |
 | `bring` | Valid token. `rsvpOpen` (people can offer to bring a Cube even after voting closes). `bring: true` sets the caller as bringer if nobody is, or keeps them if they already are; someone else already bringing it is 409 `taken`. `bring: false` clears it only if the caller is the bringer. | 401 `not-attending`, 409 `rsvp-closed`, 404 `bad`, 409 `taken` |
-| `vote` | Valid token. `votingOpen`. `cleanRanking(ranking, suggested cube ids)`; null is 400 `ranking`. An empty list deletes the ballot; otherwise upsert it. | 401 `not-attending`, 409 `vote-closed`, 400 `ranking` |
+| `vote` | Valid token. `votingOpen`. `cleanRanking(ranking, suggested Cube ids)`; null is 400 `ranking`. An empty list deletes the ballot; otherwise upsert it. | 401 `not-attending`, 409 `vote-closed`, 400 `ranking` |
 
-Unknown event: 404 `gone`. Cancelled events refuse every action with 409 `rsvp-closed`. A body that is not JSON or has no known action: 400 `bad`. Missing `DB` binding or a thrown error: 503 `unavailable` (log the error).
+Unknown event: 404 `gone`. Cancelled events refuse every action except `leave` with 409 `rsvp-closed`. Sample events answer 404 `gone` unless the request has `?samples=1`. A body that is not JSON or has no known action: 400 `bad`. Missing `DB` binding or a thrown error: 503 `unavailable` (log the error).
 
 **`POST /api/events/suggest`** (`functions/api/events/suggest.ts`): a plain form post from the suggest page, same shape as `functions/api/cubes/index.ts` `onRequestPost`. Honeypot field `website` (pretend success). Needs `DB` (else `unavailable`). Turnstile as above (field `cf-turnstile-response`). Rate limit 5 an hour (`slow`). `parseEventSuggestion(form, todayIn(CAL_TZ, now))`. Insert with `status = 'pending'`, `vote_close_hours = 24`, the submitter fields, and the instants. Email Levi with `notify(env.NOTIFY, { subject: 'Event to approve: <title> (<Sun, Nov 29>)', text, replyTo: submitter email if given })`; the text lists every field in aligned lines (see `emailText` in `functions/api/cubes/index.ts`) and ends with the admin link built from `CAL_ADMIN`. Then redirect (303) to `CAL_SUGGEST + '?event=sent#form'`; on a problem redirect to `CAL_SUGGEST + '?event_error=<code>#form'` with the codes in `SUGGEST_MESSAGES`. The event is saved even if the email fails.
 
@@ -169,17 +167,17 @@ Page file: `src/pages/cube-commonwealth/events/index.astro`, in `BaseLayout`. Ti
 Everything inside the root is built by `src/scripts/calendar.ts`:
 
 - **Toolbar**: previous month, next month, "Today", and the month name as an `h2` (announced politely when it changes).
-- **Month grid**: weekday header (full names on wide screens, single letters with full `aria-label` on phones), then the weeks from `monthGrid()`. Every in-month day is a `<button>` with a full accessible name ("Sunday, November 22, 3 events"). Filler days from neighboring months are dimmed and inert. Today is marked. Past days are slightly dimmed but still open.
+- **Month grid**: weekday header (full names from 900px, three letters below, with the full name for screen readers), then the weeks from `monthGrid()`. Every in-month day is a `<button>` with a full accessible name ("Sunday, November 22, 3 events"). Filler days from neighboring months are dimmed and inert. Today is marked. Past days are slightly dimmed but still open.
   - Each day shows its number and one flat isometric SVG mini-Cube per event, colored by kind, at most 4, then "+2".
   - From about 900px wide, each day also shows up to 2 event lines (start time and title, one line each, truncated), then "+1 more".
   - At 360px wide: number and mini-Cubes only, no horizontal scrolling.
   - Cancelled events show struck through and muted.
 - **Legend**: the five kinds with their mini-Cube colors, in words.
 - **Coming up**: the next 6 events from today (its own request, 90 days ahead), each a button row (mini-Cube, date, time, title, place, "8 going") that opens that event directly.
-- **Samples**: with `?samples=1` in the page URL, pass `samples=1` to every list request and show a quiet banner: "Showing sample events. They are not real." with a "Hide samples" link. Sample events carry a small "Sample" tag wherever they appear.
+- **Samples**: with `?samples=1` in the page URL, pass `samples=1` to every list request and show a quiet banner: "Showing sample events. They are not real." with a "Hide samples" link. Sample events carry a small "Sample" tag in the day list, "Coming up", and the event card; in the grid the banner above it says so.
 - **States**: a loading state (skeleton or "Loading events"), an error state with a "Try again" button, and an empty month ("Nothing on the calendar this month yet." plus the suggest link).
 - **URL**: `?month=YYYY-MM`, `?day=YYYY-MM-DD` (opens that day), `?event=<id>` (opens that event: fetch its detail, jump to its month, open its day, show it). Keep the URL in step with `history.replaceState` so the address bar is always a shareable link. `?freeze=<0..1>` (with `day`) holds the opening animation at that progress, for screenshots.
-- **Kind colors** (CSS custom properties on the root): draft `var(--color-primary)`, class `var(--chart-3)`, meetup `var(--color-stone)`, celebration `var(--color-cta)`, other `var(--color-text-muted)`. Color is never the only signal: the kind is named in the day list and the details.
+- **Kind colors** (CSS custom properties on the root): draft `var(--color-primary)`, class `var(--chart-3)`, meetup `var(--color-stone)`, celebration `var(--color-cta)`, other `var(--color-text)`. Color is never the only signal: the kind is named in the day list and the details.
 
 ### The day dialog
 
@@ -215,14 +213,14 @@ export function mountEventView(container: HTMLElement, eventId: number, preview:
 2. The description, as paragraphs (escaped, line breaks kept).
 3. **Who is going**: the count and the names. If the visitor is not going and `rsvpOpen`: a Lamplight button "I'm going" that reveals a one-field form ("Your name or Discord handle", prefilled from `NAME_STORAGE_KEY`, note "Your name shows on this event. No account needed.") with the Turnstile widget rendered on demand (`window.turnstile.render(el, { sitekey, appearance: 'interaction-only', callback })`; if `siteKey` is empty or Turnstile never loads within 4 seconds, send without a token). On success store `{ id, name, token }` under `attendeeStorageKey(eventId)` and the name under `NAME_STORAGE_KEY` (wrap storage in try and catch; fall back to memory). If the visitor is going: "You are going as Sam." with a quiet "I can't make it" button (`leave`, after a confirm step in the page, not a browser dialog).
 4. **Which Cube** (skip when `cubeMode` is `none`):
-   - `set`, or a vote with a confirmed Cube: "Cube to draft" and the Cube (name linked to its list, owner, style, card count, its image if it has one, with the artist credit), plus "Picked by the host." or "Confirmed by the host."
+   - `set`, or a vote with a confirmed Cube: "Cube to draft" and the Cube (name linked to its list, owner, style, card count, its image if it has one, with the artist credit), plus "Picked by the organizer." or "Confirmed by the organizer."
    - A vote that is open: the suggested Cubes, each with name (link), owner, style and card count, the lending label from `LENDING`, "Suggested by Ann", and either "Ben can bring it" or, for someone going, an "I can bring it" button (and "I can no longer bring it" for the bringer). The suggester sees "Withdraw". Someone going also gets:
-     - "Suggest a Cube": opens a picker with a search box over the Cube Library (name, owner, style), each result a button; a checkbox "I can bring this Cube"; and a link "Browse the Cube Library" (new tab). Hidden once the caps are reached.
+     - "Suggest a Cube": opens a picker with a search box over the Cube Library (name, owner, style), each result a button; a checkbox "I can bring this Cube"; and a link "Browse the Cube Library" (new tab). Once a cap is reached, a line says so in place of the button.
      - **Ranking**: "Rank the Cubes you would like to draft." Tap a suggested Cube to add it to your ranking; ranked Cubes show their place (1, 2, 3) with move up, move down, and remove buttons. No drag and drop needed. "Save my ranking" sends `vote`; a status line confirms it ("Saved."). "Clear my ranking" sends an empty list.
-     - **Result so far**: "Leading now: Mono Blue" with each Cube's first-round votes as small bars, the number of ballots, and a `<details>` "How the count works" that explains ranked choice in two sentences and lists the rounds ("Round 1: Mono Blue 3, MTGO Vintage Cube 2, Abecedarian Cube 1. Abecedarian Cube is dropped."). If `tally.tied`: "A tie was broken by first choices, then by which Cube was suggested first."
+     - **Result so far**: "Leading now: Mono Blue" with each Cube's first-round votes as small bars, the number of ballots, and a `<details>` "How the count works" that explains ranked choice in two sentences and lists the rounds ("Round 1: Mono Blue (3), MTGO Vintage Cube (2), Abecedarian Cube (1). Abecedarian Cube is dropped."). If `tally.tied`: "A tie was broken by first choices, then by which Cube was suggested first."
      - When voting closes: "Voting closes Saturday, November 28 at 1:00 pm." (the event's local time: compute from `startTime`, `date`, and the hours difference between `voteClosesAt` and `startsAt`).
      - Not going: the list is read-only with "Say you are going to suggest and rank Cubes."
-   - A vote that has closed without a confirmed Cube: "The vote picked: Mono Blue" (from `tally.winner`) with the rounds, or "No votes came in. The host will pick the Cube." People going can still use "I can bring it".
+   - A vote that has closed without a confirmed Cube: "The vote picked: Mono Blue" (from `tally.winner`) with the rounds, or "No votes came in. The organizer will pick the Cube." People going can still use "I can bring it".
 5. Actions: "Add to my calendar" (downloads the `.ics` from `eventIcs`, file name from the title), "Google Calendar" (`googleCalendarUrl`), and "Copy link" (`pageUrl + '?event=<id>'`, keeping `samples=1` when the event is a sample).
 
 Errors from actions show in one `role="alert"` line using `ACTION_MESSAGES`. After any action, re-render from the payload the server returned. If the stored token is rejected (`not-attending`), forget it and show the not-going state. Buttons are disabled while a request is in flight. Everything works with the keyboard and at 360px wide. Class prefix `cev-`. Put the pure HTML builders in `src/lib/calendar/event-render.ts` (strings in, strings out, everything escaped with `escapeHtml` from `src/lib/cube-library.ts`) and test them.
@@ -251,7 +249,7 @@ Model it on `src/pages/cube-commonwealth/cubes/add.astro` (a stepped form that s
 
 ## 10. Sample events (`scripts/calendar-samples.ts` and `migrations/0009_calendar_samples.sql`)
 
-A small script (`node scripts/calendar-samples.ts`, like `scripts/where-we-play-seed.ts`) that writes the migration. Deterministic (seeded), no network. From 2026-11-01 through 2027-01-31: at least two events every day, more on weekends, kinds mixed so the mini-Cube colors vary, a "Sunday Cube Draft" at 1:00 pm every Sunday, and one "Cube Quarterly Celebration" on Saturday 2026-12-05. Titles must fit their time of day ("Lunch" at noon, "Night" in the evening). Every row has `is_sample = 1`, `status = 'approved'`, `location_name = 'Sample venue, Indianapolis'`, and a description that starts "Sample event. " so nobody mistakes it for a real one. Compute `starts_at` and `ends_at` with `eventInstants()`. About two thirds of the drafts use `cube_mode 'vote'`; the rest use `'set'` with `cube_id` looked up by name with a subquery over Levi's own Cubes only (`'Mono Blue'`, `'MTGO Vintage Cube'`, `'Abecedarian Cube - 1st Draft for New Mages'`, `'Levi''s Commander Cube #1'`), falling back to `'vote'` if the subquery finds nothing (use `COALESCE` and a `CASE`, or insert as vote then `UPDATE`). Give every sample event a few sample attendees ("Sample Ann", "Sample Ben", and so on; `token_hash` values that can never match a real token, `ip_hash 'sample'`), and for the vote events on the next four Sundays add three suggested Cubes (same lookup) and ballots, so the vote looks alive. The migration must be safe to run once on a database that has the real `cubes` rows, and must not fail if a named Cube is missing. A reference generator with fitting titles exists at `/private/tmp/claude-501/-Users-leviwilson-Developer-theludarium/c6402540-ba92-49d2-b085-c62b863939cb/scratchpad/cal/tools/samples.py`; port its idea, not its exact output. `tests/calendar/samples.test.ts` uses `testDb({ samples: true })` and checks: at least two events on every day in the range, every one flagged sample, no em dashes, instants match the local times, every Sunday has its draft, and deleting where `is_sample = 1` leaves no attendees, suggestions, or ballots behind.
+A small script (`node scripts/calendar-samples.ts`, like `scripts/where-we-play-seed.ts`) that writes the migration. Deterministic (seeded), no network. From 2026-11-01 through 2027-01-31: at least two events every day, more on weekends, kinds mixed so the mini-Cube colors vary, a "Sunday Cube Draft" at 1:00 pm every Sunday, and one "Cube Quarterly Celebration" on Saturday 2026-12-05. Titles must fit their time of day ("Lunch" at noon, "Night" in the evening). Every row has `is_sample = 1`, `status = 'approved'`, `location_name = 'Sample venue, Indianapolis'`, and a description that starts "Sample event. " so nobody mistakes it for a real one. Compute `starts_at` and `ends_at` with `eventInstants()`. About two thirds of the drafts use `cube_mode 'vote'`; the rest use `'set'` with `cube_id` looked up by name with a subquery over Levi's own Cubes only (`'Mono Blue'`, `'MTGO Vintage Cube'`, `'Abecedarian Cube - 1st Draft for New Mages'`, `'Levi''s Commander Cube #1'`), falling back to `'vote'` if the subquery finds nothing (use `COALESCE` and a `CASE`, or insert as vote then `UPDATE`). Give every sample event a few sample attendees ("Sample Ann", "Sample Ben", and so on; `token_hash` values that can never match a real token, `ip_hash 'sample'`), and for the vote events on the next four Sundays add three suggested Cubes (same lookup) and ballots, so the vote looks alive. The migration must be safe to run once on a database that has the real `cubes` rows, and must not fail if a named Cube is missing.
 
 ## 11. Conventions
 
@@ -261,9 +259,4 @@ A small script (`node scripts/calendar-samples.ts`, like `scripts/where-we-play-
 - **Code:** TypeScript, strict. Match the style of the files named as models: small pure functions, a short comment at the top of each file saying what it is, comments that explain why. Escape everything that reaches `innerHTML` with `escapeHtml`. No `alert()` or `confirm()`. No top-level `await` in browser scripts. No new npm packages.
 - **Imports:** browser scripts and pages use the `@/` alias without extensions (`@/lib/calendar/shared`); Pages Functions and tests use relative paths with `.ts` (`../../src/lib/calendar/shared.ts`), like the existing functions do.
 - **Tests:** `node --test tests/calendar/<your file>.test.ts` (Node 22 runs TypeScript directly). Tests import with relative `.ts` paths.
-- **Tools** (in `/private/tmp/claude-501/-Users-leviwilson-Developer-theludarium/c6402540-ba92-49d2-b085-c62b863939cb/scratchpad/cal/tools/`):
-  - `check.sh /abs/file.ts ...` type-checks just your TypeScript files with the site's settings. Run it often. It cannot read `.astro` files.
-  - `harness.sh <harness-dir> <entry.ts> [css...]` bundles a browser script with the real site styles and a stand-in server (`mock-api.ts`, which follows the contract; fixed "now" of Monday 2026-11-23, 10:00 am Indianapolis; real-looking events 101 and 102, a cancelled 103, pending 104 and 105, and 227 sample events) into a static page. You write `<harness-dir>/body.html` (the markup inside `<main>`) and optionally `steps.js` (plain JS that clicks through the page after it loads).
-  - `shoot.sh <page.html> "<query>" <width> <height> <out.png> [wait-ms]` screenshots a static page with headless Chrome at an exact size. Read the PNG to see your work. Use 360x740 and 1280x800, light and `theme=dark`.
-  - Make your harness directory under `/private/tmp/claude-501/-Users-leviwilson-Developer-theludarium/c6402540-ba92-49d2-b085-c62b863939cb/scratchpad/cal/harness/<your-name>/`.
-- **Do not** start dev servers, run `npm run build`, run `npx astro check` more than you must (others are mid-edit, so it will show their errors; trust `check.sh` for your own files), touch git, or touch any database outside your tests.
+- **Tools:** `npm run check` for types, `node --test 'tests/calendar/*.test.ts'` for the tests, and the local setup in `README.md` under "Events calendar".

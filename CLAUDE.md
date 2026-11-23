@@ -131,6 +131,8 @@ Keep it simple. No CMS, database, or user accounts. Add a dependency only when i
 | `/search/` | Search | Site search on Pagefind, built from the finished site at build time (`src/lib/search.ts` sets each page's section); search analytics later |
 | `/malaphors/` | Malaphors | Submission page printed in the malaphor field guide; Kit form tagged `malaphors` |
 | `/cube-commonwealth/cubes/` | Cube Library | Community Cube list with location tabs; `/add/` takes submissions, which wait in the queue at `/cube-commonwealth/where-we-play/admin/cubes/` until Levi approves them. Code: `src/lib/cube-library.ts`, table `cubes` |
+| `/cube-commonwealth/events/` | Events calendar | The Cube Commonwealth calendar: a month view where each day opens as a 3D Cube, "I'm going" by name with no account, and a ranked-choice vote on which Cube to draft. Code: `src/lib/calendar/`, `src/scripts/calendar*.ts`, tables `cal_*`. Spec: `docs/calendar/SPEC.md` |
+| `/cube-commonwealth/events/suggest/` | Suggest an event | Visitors suggest events, which wait as pending until Levi approves them at `/cube-commonwealth/where-we-play/admin/calendar/` |
 | `/affiliate-disclosure/` | Disclosure | Plain-language affiliate disclosure |
 | `/privacy/` | Privacy | Privacy policy covering email signups and forms |
 | `/terms/` | Terms | Terms of use |
@@ -244,7 +246,7 @@ If a tool cannot run under a sub-path cleanly, stop and propose alternatives (su
 
 ## Out of scope for now
 
-On-site payments, user accounts, membership sign-up and billing, lounge booking, and a public events calendar. These belong to Phase 2; structure the site so they can be added later without a rebuild. Academy logins and billing are handled by the course platform, not this site.
+On-site payments, user accounts, membership sign-up and billing, and lounge booking. These belong to Phase 2; structure the site so they can be added later without a rebuild. Academy logins and billing are handled by the course platform, not this site. The Cube Commonwealth events calendar exists as of 2026-11-23, at Levi's request, with no accounts and no billing; a sitewide calendar for other communities can grow from the same tables.
 
 ## Working with Levi
 

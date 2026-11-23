@@ -15,6 +15,23 @@ interface Jwk {
   alg?: string;
 }
 
+/**
+ * True for a write another site tried to send with the admin's sign-in. Browsers
+ * label where a request came from; without that label, compare the Origin.
+ */
+export function isCrossSiteWrite(request: Request): boolean {
+  if (request.method === 'GET' || request.method === 'HEAD') return false;
+  const site = request.headers.get('Sec-Fetch-Site');
+  if (site) return site !== 'same-origin' && site !== 'none';
+  const origin = request.headers.get('Origin');
+  if (!origin) return false;
+  try {
+    return new URL(origin).host !== new URL(request.url).host;
+  } catch {
+    return true;
+  }
+}
+
 const certCache = new Map<string, { keys: Jwk[]; fetchedAt: number }>();
 const CERT_TTL_MS = 60 * 60 * 1000;
 

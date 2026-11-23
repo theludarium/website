@@ -98,8 +98,9 @@ export function emailText(c: CubeSubmission, id: number | null, cardCount: numbe
     `Format:    ${c.format ?? '(not given)'}`,
     `Discord:   ${c.discord ?? '(not given)'}`,
     `Email:     ${c.email ?? '(not given)'}`,
-    `About:     ${c.description ?? '(none)'}`,
-    `Note:      ${c.note ?? '(none)'}`,
+    // Every line is fenced, so a visitor's words cannot pass for the real approve link below.
+    `About:     ${(c.description ?? '(none)').replace(/\n/g, '\n         | ')}`,
+    `Note:      ${(c.note ?? '(none)').replace(/\n/g, '\n         | ')}`,
     c.listUrl.includes('cubecobra.com') && !foundOnCobra ? '\nCube Cobra did not answer for this link. Check it before approving.' : '',
     '',
     `Approve, edit, or reject it here${id ? ` (Cube #${id})` : ''}:`,

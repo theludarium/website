@@ -131,7 +131,7 @@ test('ranked choice: repeats and withdrawn Cubes on a ballot are ignored', () =>
 test('attendee names are tidied and junk is refused', () => {
   assert.equal(cleanAttendeeName('  Sam   W. '), 'Sam W.');
   assert.equal(cleanAttendeeName('@cube_fan'), '@cube_fan');
-  assert.equal(cleanAttendeeName('Ann — Marie'), 'Ann, Marie');
+  assert.equal(cleanAttendeeName('Ann \u2014 Marie'), 'Ann, Marie');
   for (const bad of ['', '   ', '...', 'x'.repeat(CAL_LIMITS.attendeeName + 1), null, 42]) assert.equal(cleanAttendeeName(bad), null, String(bad));
 });
 
@@ -176,7 +176,7 @@ test('an edit checks only what it carries, and "no Cube" clears the Cube', () =>
   assert.deepEqual(parseEventInput({ status: 'cancelled' }, { partial: true }), { value: { status: 'cancelled' } });
   assert.deepEqual(parseEventInput({ cubeMode: 'none' }, { partial: true }), { value: { cubeMode: 'none', cubeId: null } });
   assert.deepEqual(parseEventInput({ cubeId: 5 }, { partial: true }), { value: { cubeId: 5 } });
-  assert.deepEqual(parseEventInput({ description: 'Line one\r\n\r\n\r\n\r\nLine  two – done' }, { partial: true }), { value: { description: 'Line one\n\nLine two, done' } });
+  assert.deepEqual(parseEventInput({ description: 'Line one\r\n\r\n\r\n\r\nLine  two \u2013 done' }, { partial: true }), { value: { description: 'Line one\n\nLine two, done' } });
   assert.deepEqual(parseEventInput({}, { partial: true }), { error: 'Nothing to change.' });
   assert.deepEqual(parseEventInput({ status: 'live' }, { partial: true }), { error: 'Check the status.' });
 });
@@ -230,5 +230,15 @@ test('the Google Calendar link carries the same details', () => {
 
 test('public copy has no em dashes or en dashes', () => {
   const copy = JSON.stringify([ACTION_MESSAGES, SUGGEST_MESSAGES, EVENT_KINDS]);
-  assert.ok(!/[—–]/.test(copy));
+  assert.ok(!/[\u2014\u2013]/.test(copy));
+});
+
+test('times around a clock change land on the right instant', () => {
+  assert.equal(zonedToUtc('2026-11-01', '03:00', TZ), '2026-11-01T08:00:00.000Z');
+  assert.equal(zonedToUtc('2027-03-14', '01:30', TZ), '2027-03-14T06:30:00.000Z');
+  assert.equal(zonedToUtc('2027-03-14', '03:30', TZ), '2027-03-14T07:30:00.000Z');
+  // 2:30 does not exist that night, so it moves forward, and an event across the gap still ends after it starts.
+  assert.equal(zonedToUtc('2027-03-14', '02:30', TZ), '2027-03-14T07:30:00.000Z');
+  const { startsAt, endsAt } = eventInstants('2027-03-14', '01:45', '02:15', TZ);
+  assert.ok(Date.parse(endsAt) > Date.parse(startsAt));
 });
