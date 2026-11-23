@@ -1,5 +1,5 @@
 // The public Cube Library: location tabs, search, and style filter, plus a refresh from the API.
-import { cubeCard, cubeTable, locationsOf, matches, sortCubes, type PublicCube, type SortKey } from '@/lib/cube-library';
+import { DEFAULT_SORT, cubeCard, cubeTable, firstSortDir, locationsOf, matches, sortCubes, type PublicCube, type SortKey } from '@/lib/cube-library';
 import seed from '@/data/cube-library.json';
 
 const root = document.querySelector<HTMLElement>('[data-cube-library]');
@@ -17,8 +17,8 @@ if (root) {
   const params = new URLSearchParams(window.location.search);
   let location = params.get('location') ?? '';
   let view: 'cards' | 'table' = params.get('view') === 'table' ? 'table' : 'cards';
-  let sortKey: SortKey = 'name';
-  let sortDir: 1 | -1 = 1;
+  let sortKey: SortKey = DEFAULT_SORT.key;
+  let sortDir: 1 | -1 = DEFAULT_SORT.dir;
 
   const syncUrl = () => {
     const url = new URL(window.location.href);
@@ -48,11 +48,11 @@ if (root) {
   };
 
   const drawList = () => {
-    const shown = cubes.filter((c) => matches(c, location, style.value, search.value));
+    const shown = sortCubes(cubes.filter((c) => matches(c, location, style.value, search.value)), sortKey, sortDir);
     const asTable = view === 'table';
     grid.hidden = asTable || shown.length === 0;
     table.hidden = !asTable || shown.length === 0;
-    if (asTable) table.innerHTML = cubeTable(sortCubes(shown, sortKey, sortDir), sortKey, sortDir);
+    if (asTable) table.innerHTML = cubeTable(shown, sortKey, sortDir);
     else grid.innerHTML = shown.map(cubeCard).join('');
     views.querySelectorAll('button').forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.view === view)));
     count.textContent = `${shown.length} ${shown.length === 1 ? 'Cube' : 'Cubes'}${location ? ` in ${location}` : ''}`;
@@ -80,7 +80,7 @@ if (root) {
     const b = (e.target as HTMLElement).closest<HTMLButtonElement>('[data-sort]');
     if (!b) return;
     const key = b.dataset.sort as SortKey;
-    sortDir = key === sortKey ? (sortDir === 1 ? -1 : 1) : 1;
+    sortDir = key === sortKey ? (sortDir === 1 ? -1 : 1) : firstSortDir(key);
     sortKey = key;
     drawList();
     table.querySelector<HTMLButtonElement>(`[data-sort="${key}"]`)?.focus();

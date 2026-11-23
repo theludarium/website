@@ -1,7 +1,7 @@
 // Tests for the Cube Library's shared code and API helpers. Run: npm test
 import assert from 'node:assert/strict';
 import { test } from 'node:test';
-import { cleanListUrl, cleanLocation, cobraId, cubeCard, cubeTable, sortCubes, parseOwnerRequest, locationsOf, matches, parseSubmission, primerExcerpt, type PublicCube } from '../src/lib/cube-library.ts';
+import { cleanListUrl, cleanLocation, cobraId, cubeCard, cubeTable, sortCubes, DEFAULT_SORT, firstSortDir, parseOwnerRequest, locationsOf, matches, parseSubmission, primerExcerpt, type PublicCube } from '../src/lib/cube-library.ts';
 import { emailText, parseCobraPrefix } from '../functions/api/cubes/index.ts';
 import { cubeUpdates } from '../functions/api/where-we-play/admin/cubes/[id].ts';
 import { onRequestPost as sendRequest } from '../functions/api/cubes/request.ts';
@@ -112,4 +112,13 @@ test('an owner request emails Levi, changes nothing, and reports a failed send',
   assert.ok(sql.every((q) => q.trim().startsWith('SELECT')));
   works = false;
   assert.ok((await post()).headers.get('location')?.includes('request_error=unavailable'));
+});
+
+test('the library opens newest first, with undated Cubes last', () => {
+  const sorted = sortCubes(seed as PublicCube[], DEFAULT_SORT.key, DEFAULT_SORT.dir);
+  const dates = sorted.map((c) => c.updatedAt).filter((d): d is string => Boolean(d));
+  assert.deepEqual(dates, [...dates].sort().reverse());
+  assert.equal(sorted.at(-1)?.updatedAt, null);
+  assert.equal(firstSortDir('updatedAt'), -1);
+  assert.equal(firstSortDir('name'), 1);
 });
