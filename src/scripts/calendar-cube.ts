@@ -10,7 +10,7 @@
 // 3D stage is hidden and the panel is plain DOM with no transform.
 // Ported from the reference prototype named in docs/calendar/DAY-CUBE.md.
 
-const OPEN_MS = 900;
+const OPEN_MS = 1200;
 const CLOSE_MS = 420;
 const TURN_MS = 520;
 const FADE_MS = 150;

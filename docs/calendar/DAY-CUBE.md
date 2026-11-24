@@ -16,7 +16,7 @@ It was run in a real browser at 120 frames a second with no frame longer than 9 
 
 ### The motion, as built
 
-One function, `render(p)`, draws any moment of the opening: `p = 0` is the day square in the grid and `p = 1` is the flat open panel. Opening takes 900 ms, closing 420 ms (the same timeline backward), and the turn between the day card and the event card takes 520 ms. The beats overlap:
+One function, `render(p)`, draws any moment of the opening: `p = 0` is the day square in the grid and `p = 1` is the flat open panel. Opening takes 1,200 ms, closing 420 ms (the same timeline backward), and the turn between the day card and the event card takes 520 ms. The beats overlap:
 
 | Progress | What happens |
 | --- | --- |
