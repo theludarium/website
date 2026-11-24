@@ -36,7 +36,7 @@ const MODES: [CubeMode, string][] = [
   ['none', 'No Cube'],
 ];
 /** The fields of the event form. A save compares them with the stored event, so only real changes are sent. */
-const FIELDS = ['title', 'kind', 'date', 'startTime', 'endTime', 'locationName', 'locationAddress', 'description', 'cubeMode', 'cubeId', 'voteCloseHours'] as const;
+const FIELDS = ['title', 'kind', 'date', 'startTime', 'endTime', 'locationName', 'locationAddress', 'description', 'cubeMode', 'cubeId', 'voteCloseHours', 'announce'] as const;
 
 type Cube = PublicCube & { id: number };
 type Field = HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement;
@@ -230,6 +230,7 @@ function admin(root: HTMLElement) {
     cubeMode: 'vote',
     cubeId: null,
     voteCloseHours: DEFAULT_VOTE_CLOSE_HOURS,
+    announce: true,
   });
 
   /** The most recent real draft on the calendar, the model for the "Same as last time" button. */
@@ -257,7 +258,8 @@ function admin(root: HTMLElement) {
     <label class="cadm-full">Description<textarea name="description" rows="4" maxlength="${CAL_LIMITS.description}">${e(v.description ?? '')}</textarea></label>
     <label class="cadm-half">How the Cube is chosen<select name="cubeMode">${MODES.map(([key, label]) => option(key, label, v.cubeMode)).join('')}</select></label>
     <label class="cadm-half" data-when="set">Cube<select name="cubeId">${cubeOptions(v.cubeId, chosenCubeName)}</select></label>
-    <label class="cadm-half" data-when="vote">Voting closes<select name="voteCloseHours">${VOTE_CLOSE_HOURS.map((h) => option(h, h === 0 ? 'When it starts' : `${h} hours before`, v.voteCloseHours)).join('')}</select></label>`;
+    <label class="cadm-half" data-when="vote">Voting closes<select name="voteCloseHours">${VOTE_CLOSE_HOURS.map((h) => option(h, h === 0 ? 'When it starts' : `${h} hours before`, v.voteCloseHours)).join('')}</select></label>
+    <label class="cadm-half">Announce in Discord<select name="announce">${option('yes', 'Yes, a week before it starts', v.announce ? 'yes' : 'no')}${option('no', 'No', v.announce ? 'yes' : 'no')}</select></label>`;
 
   /** Shows the fields that fit the chosen Cube mode, and says the date back in plain words so a wrong day stands out. */
   function tidy(form: HTMLFormElement) {
@@ -297,6 +299,7 @@ function admin(root: HTMLElement) {
       cubeMode,
       cubeId: cubeMode === 'set' ? Number(text('cubeId')) || null : kept,
       voteCloseHours: Number(text('voteCloseHours')),
+      announce: text('announce') !== 'no',
     };
   }
 
@@ -489,6 +492,7 @@ function admin(root: HTMLElement) {
   function panel(ev: AdminEvent, readOnly: boolean): string {
     const lists = ev.status === 'pending' ? '' : `<div data-people>${peopleHtml(ev, readOnly)}</div><div data-cube>${cubeHtml(ev, readOnly)}</div>`;
     const duplicate = turn(ev, 'duplicate', 'Duplicate');
+    const posted = ev.announcedAt ? `<p class="cadm-quiet">Announced in Discord ${formatDate(todayIn(CAL_TZ, new Date(ev.announcedAt)), 'short')}.</p>` : '';
     const sender = ev.status !== 'pending' && ev.submitterName ? `<p class="cadm-quiet">Suggested by <strong>${e(ev.submitterName)}</strong>${ev.submitterEmail ? `, <a href="mailto:${encodeURIComponent(ev.submitterEmail).replace(/%40/g, '@')}">${e(ev.submitterEmail)}</a> (private)` : ''}</p>` : '';
     const saveButton = (look: string) => `<button type="submit" class="button ${look}">Save changes</button>`;
     // "Save changes" is the only submit button, so Enter in a field never approves or cancels anything.
@@ -500,7 +504,7 @@ function admin(root: HTMLElement) {
     }[ev.status];
     const going = ev.going ? ` ${count(ev.going, 'person', 'people')} going and their votes go with it.` : '';
     const view = ev.status === 'approved' || ev.status === 'cancelled' ? `<a href="${CAL_BASE}?event=${ev.id}${ev.isSample ? '&amp;samples=1' : ''}" target="_blank" rel="noopener">See it on the calendar</a>` : '';
-    return `<div class="cadm-panel">${sender}${lists}
+    return `<div class="cadm-panel">${sender}${posted}${lists}
       <form class="cadm-form" data-form="edit:${ev.id}">
         ${ev.status === 'pending' ? '' : '<h4 class="cadm-full">Details</h4>'}
         ${fields(ev, ev.cubeName)}

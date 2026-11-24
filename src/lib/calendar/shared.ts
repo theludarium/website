@@ -254,6 +254,8 @@ export type AdminEventInput = {
   cubeId: number | null;
   voteCloseHours: number;
   status: EventStatus;
+  /** Post it in the Cube Commonwealth Discord a week before it starts. */
+  announce: boolean;
 };
 
 /** POST body: the event plus how many more weeks to repeat it (0 to CAL_CAPS.repeatWeeks). */
@@ -276,6 +278,9 @@ export type AdminEvent = Omit<EventSummary, 'status'> & {
   suggestions: number;
   ballots: number;
   createdAt: string;
+  announce: boolean;
+  /** When the Discord post went out, or null. */
+  announcedAt: string | null;
 };
 
 export type AdminListResponse = { events: AdminEvent[] };

@@ -65,6 +65,7 @@ const inputOf = (row: AdminEventRow): AdminEventInput => ({
   cubeId: row.cube_id,
   voteCloseHours: row.vote_close_hours,
   status: row.status,
+  announce: row.announce === 1,
 });
 
 /** Changes any subset of an event's fields. */

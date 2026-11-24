@@ -1,0 +1,26 @@
+# ludarium-calendar-discord: posts the Cube Commonwealth events calendar to the
+# Discord events channel. Every 15 minutes it posts any approved event that starts
+# within a week, the Cube the vote picked once voting closes, and a note when an
+# announced event is cancelled. Each is posted once. Sample events are never posted.
+# It has no public URL.
+#
+# The Discord webhook address is a secret (only Levi enters it):
+#   npx wrangler secret put DISCORD_EVENTS_WEBHOOK -c workers/calendar-discord/wrangler.toml
+# Deploy:
+#   npx wrangler deploy -c workers/calendar-discord/wrangler.toml
+name = "ludarium-calendar-discord"
+main = "src/index.ts"
+compatibility_date = "2026-10-01"
+workers_dev = false
+preview_urls = false
+
+[vars]
+SITE_URL = "https://theludarium.com"
+
+[triggers]
+crons = ["*/15 * * * *"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "ludarium-site"
+database_id = "085f2cab-09e9-40f8-9f4d-6ea08e830cfa"

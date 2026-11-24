@@ -1007,7 +1007,7 @@ test('admin create: an event gets its defaults, its instants, and no private fie
   assert.deepEqual(row(w, 'SELECT * FROM cal_events WHERE id = 1'), {
     id: 1, community: 'cube-commonwealth', title: 'Sunday Cube Draft', kind: 'draft', date: '2026-11-29', start_time: '13:00', end_time: '16:30', tz: TZ,
     starts_at: '2026-11-29T18:00:00.000Z', ends_at: '2026-11-29T21:30:00.000Z', description: null, location_name: null, location_address: null,
-    cube_mode: 'vote', cube_id: null, vote_close_hours: 24, status: 'approved', is_sample: 0, submitter_name: null, submitter_email: null, closed_tally: null,
+    cube_mode: 'vote', cube_id: null, vote_close_hours: 24, status: 'approved', is_sample: 0, submitter_name: null, submitter_email: null, closed_tally: null, announce: 1, announced_at: null, result_posted_at: null, cancel_posted_at: null,
     created_at: NOW.toISOString(), updated_at: NOW.toISOString(),
   });
 
@@ -1064,7 +1064,7 @@ test('admin create: a problem is a sentence, and nothing is saved', async (t) =>
 
 test('a repeating event lands whole or not at all', async (t) => {
   const w = world(t);
-  const event = { ...DRAFT, kind: 'draft' as const, tz: TZ, ...eventInstants(DRAFT.date, DRAFT.startTime, DRAFT.endTime, TZ), description: null, locationName: null, locationAddress: null, cubeMode: 'vote' as const, cubeId: null, voteCloseHours: 24, status: 'approved' as const };
+  const event = { ...DRAFT, kind: 'draft' as const, tz: TZ, ...eventInstants(DRAFT.date, DRAFT.startTime, DRAFT.endTime, TZ), description: null, locationName: null, locationAddress: null, cubeMode: 'vote' as const, cubeId: null, voteCloseHours: 24, status: 'approved' as const , announce: true };
   // The third week names a Cube that does not exist, so the database refuses it.
   await assert.rejects(() => insertEvents(w.db, [event, event, { ...event, cubeId: 9999 }], NOW), /FOREIGN KEY/);
   assert.equal(count(w, 'cal_events'), 0);
@@ -1099,7 +1099,7 @@ test('admin list: every event of every status, samples included, with the privat
     id: pending, title: 'Pauper Night', kind: 'draft', date: '2026-12-05', startTime: '13:00', endTime: '16:30', locationName: null, status: 'pending', going: 0,
     cubeMode: 'vote', cubeName: null, isSample: false, community: 'cube-commonwealth', description: null, locationAddress: null, tz: TZ,
     startsAt: '2026-12-05T18:00:00.000Z', endsAt: '2026-12-05T21:30:00.000Z', cubeId: null, voteCloseHours: 24,
-    submitterName: 'Sam W.', submitterEmail: 'sam@example.com', suggestions: 0, ballots: 0, createdAt: NOW.toISOString(),
+    submitterName: 'Sam W.', submitterEmail: 'sam@example.com', suggestions: 0, ballots: 0, createdAt: NOW.toISOString(), announce: true, announcedAt: null,
   });
   const busy = res.body.events.find((e) => e.id === approved)!;
   assert.deepEqual([busy.going, busy.suggestions, busy.ballots, busy.submitterName, busy.submitterEmail], [2, 2, 1, null, null]);
@@ -1379,7 +1379,7 @@ test('suggest form: the event is saved as pending and Levi gets an email', async
     id: 1, community: 'cube-commonwealth', title: 'Pauper Cube Night', kind: 'draft', date: '2026-12-05', start_time: '18:00', end_time: '21:30', tz: TZ,
     starts_at: '2026-12-05T23:00:00.000Z', ends_at: '2026-12-06T02:30:00.000Z', description: 'Bring a deck box.\nSnacks welcome.', location_name: 'Sam’s place',
     location_address: '12 Elm St, Carmel, IN', cube_mode: 'vote', cube_id: null, vote_close_hours: 24, status: 'pending', is_sample: 0,
-    submitter_name: 'Sam W.', submitter_email: 'sam@example.com', closed_tally: null, created_at: NOW.toISOString(), updated_at: NOW.toISOString(),
+    submitter_name: 'Sam W.', submitter_email: 'sam@example.com', closed_tally: null, announce: 1, announced_at: null, result_posted_at: null, cancel_posted_at: null, created_at: NOW.toISOString(), updated_at: NOW.toISOString(),
   });
 
   assert.equal(w.mail.length, 1);

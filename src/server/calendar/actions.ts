@@ -245,6 +245,7 @@ export async function saveSuggestedEvent(db: D1, s: EventSuggestion, now: Date):
         cubeId: null,
         voteCloseHours: DEFAULT_VOTE_CLOSE_HOURS,
         status: 'pending',
+        announce: true,
         submitterName: s.submitterName,
         submitterEmail: s.submitterEmail,
       },

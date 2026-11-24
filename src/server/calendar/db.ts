@@ -55,6 +55,8 @@ export type EventRow = MaybeCube & {
   created_at: string;
   /** The count as it stood when voting closed (JSON), once someone has left after the close. */
   closed_tally: string | null;
+  announce: number;
+  announced_at: string | null;
   /** How many people said they are going. */
   going: number;
 };
@@ -67,7 +69,7 @@ export type AdminEventRow = EventRow & {
 };
 
 const EVENT_COLUMNS = `e.id, e.community, e.title, e.kind, e.date, e.start_time, e.end_time, e.tz, e.starts_at, e.ends_at,
-  e.description, e.location_name, e.location_address, e.cube_mode, e.cube_id, e.vote_close_hours, e.status, e.is_sample, e.created_at, e.closed_tally,
+  e.description, e.location_name, e.location_address, e.cube_mode, e.cube_id, e.vote_close_hours, e.status, e.is_sample, e.created_at, e.closed_tally, e.announce, e.announced_at,
   (SELECT COUNT(*) FROM cal_attendees a WHERE a.event_id = e.id) AS going, ${CUBE_COLUMNS}`;
 
 const ADMIN_COLUMNS = `${EVENT_COLUMNS}, e.submitter_name, e.submitter_email,
@@ -127,6 +129,7 @@ export interface EventFields {
   cubeId: number | null;
   voteCloseHours: number;
   status: EventStatus;
+  announce: boolean;
 }
 
 export interface NewEvent extends EventFields {
@@ -141,8 +144,8 @@ export async function insertEvents(db: D1, events: NewEvent[], now: Date): Promi
   const at = now.toISOString();
   const insert = db.prepare(
     `INSERT INTO cal_events (community, title, kind, date, start_time, end_time, tz, starts_at, ends_at, description, location_name,
-       location_address, cube_mode, cube_id, vote_close_hours, status, submitter_name, submitter_email, created_at, updated_at)
-     VALUES (?1, ?2, ?3, ?4, ?5, ?6, ?7, ?8, ?9, ?10, ?11, ?12, ?13, ?14, ?15, ?16, ?17, ?18, ?19, ?19)`,
+       location_address, cube_mode, cube_id, vote_close_hours, status, submitter_name, submitter_email, announce, created_at, updated_at)
+     VALUES (?1, ?2, ?3, ?4, ?5, ?6, ?7, ?8, ?9, ?10, ?11, ?12, ?13, ?14, ?15, ?16, ?17, ?18, ?19, ?20, ?20)`,
   );
   const results = (await db.batch(
     events.map((e) =>
@@ -165,6 +168,7 @@ export async function insertEvents(db: D1, events: NewEvent[], now: Date): Promi
         e.status,
         e.submitterName ?? null,
         e.submitterEmail ?? null,
+        e.announce ? 1 : 0,
         at,
       ),
     ),
@@ -178,10 +182,10 @@ export async function updateEvent(db: D1, id: number, e: EventFields, now: Date)
     .prepare(
       `UPDATE cal_events SET title = ?2, kind = ?3, date = ?4, start_time = ?5, end_time = ?6, starts_at = ?7, ends_at = ?8,
          description = ?9, location_name = ?10, location_address = ?11, cube_mode = ?12, cube_id = ?13, vote_close_hours = ?14,
-         status = ?15, closed_tally = NULL, updated_at = ?16
+         status = ?15, announce = ?17, closed_tally = NULL, updated_at = ?16
        WHERE id = ?1`,
     )
-    .bind(id, e.title, e.kind, e.date, e.startTime, e.endTime, e.startsAt, e.endsAt, e.description, e.locationName, e.locationAddress, e.cubeMode, e.cubeId, e.voteCloseHours, e.status, now.toISOString())
+    .bind(id, e.title, e.kind, e.date, e.startTime, e.endTime, e.startsAt, e.endsAt, e.description, e.locationName, e.locationAddress, e.cubeMode, e.cubeId, e.voteCloseHours, e.status, now.toISOString(), e.announce ? 1 : 0)
     .run();
 }
 

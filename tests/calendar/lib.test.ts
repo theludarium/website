@@ -156,7 +156,7 @@ test('a new event gets sensible defaults', () => {
   assert.ok('value' in parsed);
   assert.deepEqual(parsed.value, {
     title: 'Sunday Cube Draft', kind: 'draft', date: '2026-11-29', startTime: '13:00', endTime: '16:30',
-    description: null, locationName: null, locationAddress: null, cubeMode: 'vote', cubeId: null, voteCloseHours: 24, status: 'approved',
+    description: null, locationName: null, locationAddress: null, cubeMode: 'vote', cubeId: null, voteCloseHours: 24, status: 'approved', announce: true,
   });
   const cls = parseEventInput({ ...event, kind: 'class' });
   assert.ok('value' in cls && cls.value.cubeMode === 'none');
