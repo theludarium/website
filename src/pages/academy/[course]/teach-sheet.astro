@@ -20,6 +20,14 @@ interface Props {
 const { course } = Astro.props;
 const d = course.data;
 const s = d.teachSheet;
+// Headings, unless the course names its own (a roleplaying game has no turns or score).
+const label = {
+  setup: s.labels?.setup ?? 'Setup',
+  turn: s.labels?.turn ?? 'On your turn',
+  scoring: s.labels?.scoring ?? 'Scoring',
+  endGame: s.labels?.endGame ?? 'Game end',
+  tips: s.labels?.tips ?? 'Three tips for your first game',
+};
 const home = courseUrl(course);
 // "Cheat sheet" is what people search for; "teach sheet" is our name for it.
 const pageTitle = [`${d.game} Cheat Sheet: Printable One-Page Teach Sheet`, `${d.game} Cheat Sheet: One-Page Teach Sheet`, `${d.game} Cheat Sheet`, `${d.game} Teach Sheet`].find((t) => t.length <= 55) ?? `${d.game} Teach Sheet`;
@@ -58,23 +66,23 @@ const pageTitle = [`${d.game} Cheat Sheet: Printable One-Page Teach Sheet`, `${d
           <img src={setupDiagramUrl(course)} alt={d.diagramAlt} width="480" height="320" />
         </figure>
         <section>
-          <h2>On your turn</h2>
+          <h2>{label.turn}</h2>
           <ol>{s.turn.map((step) => <li>{step}</li>)}</ol>
         </section>
         <section class="sheet__tips">
-          <h2>Three tips for your first game</h2>
+          <h2>{label.tips}</h2>
           <ol>{s.tips.map((tip) => <li>{tip}</li>)}</ol>
         </section>
       </div>
       <div class="sheet__col">
         <section>
-          <h2>Setup</h2>
+          <h2>{label.setup}</h2>
           <ol>{s.setup.map((step) => <li>{step}</li>)}</ol>
         </section>
         <section>
-          <h2>Scoring</h2>
+          <h2>{label.scoring}</h2>
           <ul>{s.scoring.map((line) => <li>{line}</li>)}</ul>
-          <p class="sheet__end"><strong>Game end:</strong> {s.endGame}</p>
+          <p class="sheet__end"><strong>{label.endGame}:</strong> {s.endGame}</p>
         </section>
       </div>
     </div>

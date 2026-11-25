@@ -52,6 +52,7 @@ Check a course before handing it in: `node scripts/check-course.mjs <slug>`. Zer
 title: "Tile by Tile"                      # our own course title; the game is named in `game`
 game: "Carcassonne"
 format: full                               # full | masterclass | teach-tonight | tcg
+group: "Roleplaying games"                 # optional catalog group; leave out for board games (TCG courses group by format)
 order: 110                                 # catalog order: biggest audience first (see Catalog order below)
 wave: "1"
 draft: false
@@ -78,6 +79,8 @@ teachSheet:
   scoring: ["1 to 8 lines"]
   endGame: "When and how the game ends."
   tips: ["exactly", "three", "tips"]
+  labels:                                  # optional section headings, for games where the defaults do not fit (an RPG)
+    turn: "When you act"                   # default "On your turn"; also setup, scoring, endGame, tips
 diagramAlt: "What the setup diagram shows, for screen readers."
 related: ["article-slug"]                 # existing articles in src/content/articles about this game
 games: [carcassonne]                      # On the Table slugs (theludarium/on-the-table data/games_seed.csv); leave out games not in that list
@@ -171,3 +174,7 @@ The `afterLesson3` and `afterLesson8` fields stay (the schema needs them) but th
 ## Catalog order (October 25, 2026)
 
 The Academy page is ordered for reach, not by when a course was written. Within each group, the course `order` puts the games with the biggest audiences first, then the strong and growing ones, then the hobby favorites: the first cards on a long page get most of the clicks, and newcomers are the readers most likely to sign up. A new course slots in by audience size. A "Start here" row above the groups shows six picks (`START_HERE` in `src/pages/academy/index.astro`), including the two biggest card games, so they are not buried under the board games. Once On the Table has a few months of views and signups per game, let those numbers set the order instead of this estimate.
+
+## Roleplaying game courses (November 25, 2026)
+
+Slugblaster (`src/content/courses/slugblaster.yaml`) is the first RPG course and the model for the next. RPG courses set `group: "Roleplaying games"`, use the masterclass shape with a six-level ladder (top labels "Expert" and "Mastery", since RPGs have no tournaments), and give the teach sheet its own headings with `teachSheet.labels`. The lessons run from playing (Levels 0 to 3) to running the game (Levels 4 and 5). Check the game's own license before writing: many RPGs publish a third-party or community license with a required credit line, which then becomes the course `notice`.

@@ -11,10 +11,12 @@ const starters = STARTERS.map((s) => courses.find((c) => c.id === s)).filter((c)
 const rest = courses.filter((c) => !STARTERS.includes(c.id));
 const boardGames = rest.filter((c) => courseTrack(c) === 'Board games');
 const cardGames = rest.filter((c) => courseTrack(c) === 'Trading card games');
+const rpgs = rest.filter((c) => courseTrack(c) === 'Roleplaying games');
 const shelves = [
   { name: 'Start with these ten', note: 'Gateway games most people can learn in five minutes.', courses: starters },
   { name: 'More board games', note: 'For newcomers who have played a few games already.', courses: boardGames },
   { name: 'Trading card games', note: 'Teach sheets for the starter decks and a first game.', courses: cardGames },
+  { name: 'Roleplaying games', note: 'The core rules and a first session, for the person running the game.', courses: rpgs },
 ].filter((s) => s.courses.length);
 ---
 

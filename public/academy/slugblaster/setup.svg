@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-labelledby="t">
+<title id="t">A Slugblaster table from above: the GM with the GM sheet, bite, and tracks; three players with personality and signature sheets and dice; the shared crew sheet and rules sheet in the middle</title>
+<rect width="480" height="320" fill="#F6EFE3"/>
+<rect x="28" y="40" width="424" height="236" rx="28" fill="#2F5D50"/>
+<g font-family="system-ui, sans-serif" fill="#2B1E16">
+  <!-- GM -->
+  <rect x="160" y="8" width="160" height="22" rx="11" fill="#2B1E16"/>
+  <text x="240" y="23" font-size="12" text-anchor="middle" fill="#F6EFE3" font-weight="700">GM</text>
+  <rect x="176" y="50" width="80" height="44" rx="6" fill="#F6EFE3"/>
+  <text x="216" y="68" font-size="12" text-anchor="middle">GM sheet</text>
+  <text x="216" y="84" font-size="11" text-anchor="middle">bite: 3</text>
+  <g fill="#E0A23B" stroke="#2B1E16" stroke-width="1">
+    <circle cx="190" cy="104" r="5"/><circle cx="203" cy="104" r="5"/><circle cx="216" cy="104" r="5"/>
+  </g>
+  <rect x="266" y="50" width="82" height="58" rx="6" fill="#F6EFE3"/>
+  <text x="307" y="66" font-size="12" text-anchor="middle">Tracks</text>
+  <g stroke="#2B1E16" stroke-width="1.5" fill="#F6EFE3">
+    <circle cx="286" cy="88" r="11"/><circle cx="328" cy="88" r="11"/>
+  </g>
+  <path d="M286,88 L286,77 A11,11 0 0 1 297,88 Z" fill="#2F5D50"/>
+  <path d="M328,88 L328,77 A11,11 0 0 1 339,88 A11,11 0 0 1 328,99 Z" fill="#E0A23B"/>
+  <text x="286" y="105" font-size="8" text-anchor="middle">progress</text>
+  <text x="328" y="105" font-size="8" text-anchor="middle">danger</text>
+
+  <!-- Crew sheet in the middle -->
+  <rect x="172" y="124" width="136" height="70" rx="6" fill="#F6EFE3" stroke="#E0A23B" stroke-width="2.5"/>
+  <text x="240" y="140" font-size="12" text-anchor="middle" font-weight="700">Crew sheet</text>
+  <text x="208" y="156" font-size="9" text-anchor="middle">hype, style</text>
+  <text x="208" y="168" font-size="9" text-anchor="middle">fame tiers</text>
+  <text x="208" y="180" font-size="9" text-anchor="middle">fractures</text>
+  <g fill="none" stroke="#2B1E16" stroke-width="1.2">
+    <path d="M258,148 L272,142 L278,156 L266,164 L256,158 Z"/><path d="M272,142 L292,146 L294,160 L278,156 Z"/><path d="M266,164 L278,156 L294,160 L290,176 L270,178 Z"/>
+    <path d="M266,153 Q276,146 284,152" stroke="#E0A23B" stroke-width="1.6"/>
+  </g>
+  <text x="278" y="190" font-size="8" text-anchor="middle">portal map</text>
+  <rect x="320" y="132" width="62" height="54" rx="6" fill="#B9AD9C"/>
+  <text x="351" y="155" font-size="11" text-anchor="middle">Rules</text>
+  <text x="351" y="169" font-size="11" text-anchor="middle">sheet</text>
+
+  <!-- Player left -->
+  <rect x="42" y="96" width="62" height="44" rx="5" fill="#F6EFE3"/>
+  <text x="73" y="114" font-size="10" text-anchor="middle">Personality</text>
+  <text x="73" y="128" font-size="9" text-anchor="middle">The Grit</text>
+  <rect x="42" y="146" width="62" height="40" rx="5" fill="#F6EFE3"/>
+  <text x="73" y="164" font-size="10" text-anchor="middle">Signature</text>
+  <text x="73" y="177" font-size="9" text-anchor="middle">device</text>
+  <rect x="112" y="150" width="14" height="14" rx="3" fill="#F6EFE3" stroke="#2B1E16"/>
+  <rect x="112" y="168" width="14" height="14" rx="3" fill="#F6EFE3" stroke="#2B1E16"/>
+  <rect x="2" y="128" width="22" height="66" rx="11" fill="#2B1E16"/>
+  <text x="13" y="161" font-size="11" text-anchor="middle" fill="#F6EFE3" font-weight="700" transform="rotate(-90 13 161)">Player</text>
+
+  <!-- Player right -->
+  <rect x="376" y="96" width="62" height="44" rx="5" fill="#F6EFE3"/>
+  <text x="407" y="114" font-size="10" text-anchor="middle">Personality</text>
+  <text x="407" y="128" font-size="9" text-anchor="middle">The Smarts</text>
+  <rect x="376" y="200" width="62" height="40" rx="5" fill="#F6EFE3"/>
+  <text x="407" y="218" font-size="10" text-anchor="middle">Signature</text>
+  <text x="407" y="231" font-size="9" text-anchor="middle">device</text>
+  <rect x="354" y="210" width="14" height="14" rx="3" fill="#F6EFE3" stroke="#2B1E16"/>
+  <rect x="456" y="128" width="22" height="66" rx="11" fill="#2B1E16"/>
+  <text x="467" y="161" font-size="11" text-anchor="middle" fill="#F6EFE3" font-weight="700" transform="rotate(90 467 161)">Player</text>
+
+  <!-- Player bottom -->
+  <rect x="150" y="212" width="74" height="50" rx="5" fill="#F6EFE3"/>
+  <text x="187" y="230" font-size="10" text-anchor="middle">Personality</text>
+  <text x="187" y="244" font-size="9" text-anchor="middle">trouble, style,</text>
+  <text x="187" y="255" font-size="9" text-anchor="middle">slams</text>
+  <rect x="232" y="212" width="74" height="50" rx="5" fill="#F6EFE3"/>
+  <text x="269" y="230" font-size="10" text-anchor="middle">Signature</text>
+  <text x="269" y="244" font-size="9" text-anchor="middle">turbo, mods,</text>
+  <text x="269" y="255" font-size="9" text-anchor="middle">components</text>
+  <rect x="314" y="226" width="14" height="14" rx="3" fill="#F6EFE3" stroke="#2B1E16"/>
+  <rect x="332" y="226" width="14" height="14" rx="3" fill="#F6EFE3" stroke="#2B1E16"/>
+  <text x="330" y="256" font-size="9" text-anchor="middle" fill="#F6EFE3">d6s</text>
+  <rect x="160" y="290" width="160" height="22" rx="11" fill="#2B1E16"/>
+  <text x="240" y="305" font-size="12" text-anchor="middle" fill="#F6EFE3" font-weight="700">Player</text>
+</g>
+</svg>
