@@ -150,6 +150,12 @@ export function parseEventInput(
     value.status = status as EventStatus;
   }
 
+  if (has(body, 'announce') || !partial) {
+    const announce = has(body, 'announce') ? body.announce : true;
+    if (typeof announce !== 'boolean') return { error: 'Check whether to announce it in Discord.' };
+    value.announce = announce;
+  }
+
   if (partial && Object.keys(value).length === 0) return { error: 'Nothing to change.' };
   return { value };
 }

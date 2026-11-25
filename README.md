@@ -115,6 +115,33 @@ node --test 'tests/calendar/*.test.ts'
 
 They run against real SQL: Node's built-in SQLite, loaded with the same migration files as production. `npm test` runs them with the rest.
 
+### Discord announcements
+
+A small Worker, `ludarium-calendar-discord` (`workers/calendar-discord/`), posts the calendar to the Cube Commonwealth Discord events channel through a webhook. Every 15 minutes it posts:
+
+- each approved event, a week before it starts (or right away when it is added or approved inside that week)
+- when voting closes, the Cube to draft
+- a note when an announced event is cancelled
+
+Each post goes out once. Sample events are never posted. The admin form's "Announce in Discord" setting turns it off for one event. Posts can never ping anyone (`allowed_mentions` is empty).
+
+Setup, once:
+
+1. In Discord: Server Settings > Integrations > Webhooks > New Webhook. Pick the events channel, name it "The Ludarium", and copy its URL.
+2. Store it as the Worker's secret (paste when asked):
+
+```bash
+npx wrangler secret put DISCORD_EVENTS_WEBHOOK -c workers/calendar-discord/wrangler.toml
+```
+
+3. Deploy:
+
+```bash
+npx wrangler deploy -c workers/calendar-discord/wrangler.toml
+```
+
+Migration `0010_calendar_discord.sql` adds the columns it needs. Apply it by hand like the other calendar migrations.
+
 ## Form notices
 
 The corporate inquiry form and the Guild capstone form email each submission to the site owner. Pages Functions cannot send email, so they call a small Worker, `ludarium-notify` (`workers/notify/`), through the `NOTIFY` service binding. The Worker sends through Cloudflare Email Routing, which only delivers to verified destination addresses, so it can only ever reach the owner's inbox. It has no public URL.

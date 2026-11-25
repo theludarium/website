@@ -89,6 +89,8 @@ export function toAdminEvent(row: AdminEventRow): AdminEvent {
     suggestions: row.suggestions,
     ballots: row.ballots,
     createdAt: row.created_at,
+    announce: row.announce === 1,
+    announcedAt: row.announced_at,
   };
 }
 
