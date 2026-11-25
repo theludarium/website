@@ -18,8 +18,10 @@ export const FORMAT_LABEL: Record<CourseFormat, string> = {
   tcg: 'Trading card game course',
 };
 
-export function courseTrack(course: GameCourse): 'Board games' | 'Trading card games' {
-  return course.data.format === 'tcg' ? 'Trading card games' : 'Board games';
+export type CourseGroup = 'Board games' | 'Trading card games' | 'Roleplaying games';
+
+export function courseTrack(course: GameCourse): CourseGroup {
+  return course.data.group ?? (course.data.format === 'tcg' ? 'Trading card games' : 'Board games');
 }
 
 /** Courses that get pages on this build, in catalog order. */

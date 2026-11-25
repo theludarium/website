@@ -1,0 +1,103 @@
+title: "Check It"
+game: "Slugblaster"
+format: masterclass
+group: "Roleplaying games"
+order: 900
+wave: "7"
+draft: false
+publisher: "Mythworks"
+notice: "Unofficial. Not affiliated with Mikey Hamm or Mythworks. Slugblaster is copyright © Mikey Hamm. Used with permission. Check It, a Ludarium Academy course, is an independent work and not an official Slugblaster product."
+rulesEdition: "Slugblaster: Kickflip Over a Quantum Centipede, version 1.31 PDF (Mikey Hamm, published by Mythworks, 2024), with the 1.33 playsheets"
+rulesSource: "https://slugblaster.com/"
+players: "A GM and 2 to 4"
+playTime: "2 to 4 hours per episode"
+promise: "Learn Slugblaster, run a first session your friends will talk about, then master tricks, trouble, downtime, and danger all the way to a season's epilogue."
+description: "A free Slugblaster course: learn the rules, run session zero, land tricks for style, manage trouble and disaster rolls, then GM chases, downtime, and seasons."
+audience:
+  - "Groups who picked up Slugblaster and want to play tonight without reading all 176 pages first."
+  - "First-time GMs who want a calm plan for session zero and the first run."
+  - "Blades in the Dark and D&D players who want to know what works differently here."
+  - "Anyone curious about a roleplaying game built on tricks, teenage drama, and slime."
+levels:
+  - level: 0
+    name: "Grom"
+    label: "Learn to play"
+    outcome: "Explain the game in five minutes, make characters and a crew, and play a first run from start to downtime."
+  - level: 1
+    name: "Rider"
+    label: "Beginner"
+    outcome: "Play every roll by the book and pick a personality and signature device that fit the way you want to play."
+  - level: 2
+    name: "Ripper"
+    label: "Intermediate"
+    outcome: "Land tricks for style, build your crew's fame, and spend trouble with an eye on the disaster roll waiting at the end."
+  - level: 3
+    name: "Headliner"
+    label: "Advanced"
+    outcome: "Turn downtime into the best scenes of the night and grow your signature device with mods between runs."
+  - level: 4
+    name: "Pro"
+    label: "Expert"
+    outcome: "GM with confidence: spend bite fairly, choose snags or slams, and run chases and fights with tracks."
+  - level: 5
+    name: "Icon"
+    label: "Mastery"
+    outcome: "Carry a crew through a whole season to its epilogue, play solo, and tune the rules to fit your table."
+afterLesson3: "Explain Slugblaster, run session zero and a first run, and play every roll without the rules slips most new tables make."
+afterLesson8: "Make the right personality and device for your play style, land tricks for style, manage trouble, and turn downtime into great scenes."
+faq:
+  - q: "How many players do you need for Slugblaster?"
+    a: "The standard table is a game moderator (GM) plus 2 to 4 players. The book also has solo rules, where one person plays a Loner and chases achievements instead of crew fame."
+  - q: "What dice does Slugblaster use?"
+    a: "Only ordinary six-sided dice. Every action roll starts with one die, adds a die for each boost, and keeps the single highest result. A handful of d6s per player is plenty."
+  - q: "Is Slugblaster based on Blades in the Dark?"
+    a: "Yes. Its rules build on Blades in the Dark by John Harper, used under a Creative Commons license, then strip things down and add tricks, style, fame, and downtime beats. There are no action ratings, and slams carry no penalties."
+  - q: "Can characters die in Slugblaster?"
+    a: "Not by the dice. Players decide whether their character gets hurt: say nope to a slam, describe how you avoid it, and mark 2 trouble. The book also advises GMs to keep the teens alive and use peelback as the way out of impossible spots."
+  - q: "How long is a Slugblaster campaign?"
+    a: "One episode, a run plus downtime, takes about 2 to 4 hours. A full season is about 5 to 10 episodes, and it ends with the epilogue rules."
+  - q: "Where do I get Slugblaster character sheets?"
+    a: "The printable playsheets are free on slugblaster.com, along with an online character keeper. You get five personality sheets, a crew sheet, a sheet for each signature device, and reference sheets."
+teachSheet:
+  labels:
+    setup: "Session zero"
+    turn: "When you act"
+    scoring: "What you track"
+    endGame: "End of a run"
+    tips: "Three tips for your first session"
+  goal: "Play a crew of teenage slugblasters who sneak into other worlds, land tricks, and try to get famous without getting grounded."
+  setup:
+    - "One GM, 2 to 4 players, pencils, six-sided dice, and the free sheets from slugblaster.com."
+    - "Talk about tone first: more Stranger Things, Into the Spider-Verse, or Adventure Time?"
+    - "Each player picks a personality: The Grit, The Guts, The Smarts, The Heart, or The Chill."
+    - "Choose a look, two family details, a bond with another teen, vibes, and one starting trait."
+    - "Pick a signature device and one starting mod that costs 2 components. Add two pieces of gear."
+    - "As a crew, pick brands, hangouts, a starting perk, factions, and a few portals on the map."
+    - "Name the crew now, or let a run or two decide it."
+  turn:
+    - "Say what you try, then roll 1d6. Rolling more dice? Keep only the highest."
+    - "6: you do it. 4 or 5: you do it, but there is a problem. 1 to 3: you fail, and there is a problem."
+    - "Before you roll, mark boost for +1d6 or kick for more impact. Kick stays spent even on a fail."
+    - "One dare per roll: +1d6, +1 kick, or clear 1 trouble, in exchange for bite, a problem, or trouble."
+    - "Say 'check it' before rolling to do a trick: problems get worse, but success marks 1 style."
+    - "Problems are snags or slams. Refuse a slam by saying 'nope', showing how you dodge it, and marking 2 trouble."
+    - "Help a friend with your boost, kick, or a dare, or take a slam for them."
+  scoring:
+    - "Style: from tricks and bonuses. Spend it on downtime beats and your crew's fame."
+    - "Trouble: from dares and nopes. Marking the eighth box means disaster strikes."
+    - "Slams: written in boxes. No penalties. They clear at the end of the run."
+    - "Doom and legacy: scars and triumphs that shape your epilogue."
+    - "Crew fame: six tiers from Nobodies to Legends, bought with crew style."
+  endGame: "Near the end of every run, each player rolls 1d6 per empty trouble box and keeps the highest: 6 marks 1 style, 4 or 5 marks 1 trouble, 1 to 3 is a disaster and marks doom. Then clear slams, take style bonuses, and spend style and trouble on downtime beats."
+  tips:
+    - "Start the first session mid-run, right in front of the first obstacle."
+    - "A 4 or 5 is still a success. Problems are where the story comes from."
+    - "When in doubt, run. The best sessions end in a chase to the portal."
+diagramAlt: "A Slugblaster table seen from above. The GM sits at one end behind the GM reference sheet with a bite pool and a few drawn progress and danger tracks. Three players sit around the table, each with a personality sheet showing attitude, traits, trouble and style, and a signature device sheet showing turbo and mods, plus a few six-sided dice. The shared crew sheet lies in the middle with hype, crew style, fame tiers, fractures, and the multiverse map where the crew draws its portals, next to the players' rules reference sheet."
+related:
+  - "what-is-a-tabletop-rpg"
+  - "easy-tabletop-rpgs-for-beginners"
+  - "roleplaying-tips-for-beginners"
+  - "solo-rpg"
+  - "benefits-of-tabletop-rpgs"
+  - "drop-in-rpg-night"

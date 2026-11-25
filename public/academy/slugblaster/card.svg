@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="t">
+<title id="t">An original illustration: a hoverboard rider mid-trick, leaping from a flat prairie town through a glowing portal toward a bright alien world of crystal hills, with a trail of sparks behind the board</title>
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2B1E16"/><stop offset="1" stop-color="#2F5D50"/></linearGradient>
+  <radialGradient id="glow" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#F6EFE3"/><stop offset="0.45" stop-color="#E0A23B"/><stop offset="1" stop-color="#E0A23B" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="640" height="360" fill="url(#sky)"/>
+<g fill="#F6EFE3" opacity="0.7"><circle cx="60" cy="40" r="1.6"/><circle cx="140" cy="72" r="1.2"/><circle cx="230" cy="30" r="1.4"/><circle cx="520" cy="50" r="1.6"/><circle cx="590" cy="96" r="1.2"/><circle cx="470" cy="22" r="1.1"/></g>
+<!-- the plain town on the left -->
+<rect x="0" y="282" width="640" height="78" fill="#B9AD9C"/>
+<g fill="#8f8473">
+  <rect x="24" y="250" width="34" height="32"/><path d="M20,252 l21,-16 21,16 z"/>
+  <rect x="74" y="258" width="28" height="24"/><path d="M70,260 l18,-13 18,13 z"/>
+  <rect x="118" y="232" width="14" height="50"/><rect x="112" y="226" width="26" height="8"/>
+</g>
+<!-- the portal -->
+<circle cx="430" cy="168" r="122" fill="url(#glow)" opacity="0.55"/>
+<ellipse cx="430" cy="168" rx="92" ry="108" fill="#2B1E16" stroke="#E0A23B" stroke-width="6"/>
+<clipPath id="p"><ellipse cx="430" cy="168" rx="88" ry="104"/></clipPath>
+<g clip-path="url(#p)">
+  <rect x="338" y="60" width="184" height="220" fill="#7b5ea7"/>
+  <circle cx="470" cy="112" r="22" fill="#F6EFE3" opacity="0.85"/>
+  <path d="M338,240 l34,-62 26,40 30,-74 32,58 24,-36 38,74 v40 h-184 z" fill="#2F5D50"/>
+  <path d="M372,178 l10,40 h-20 z M428,144 l12,52 h-24 z M484,182 l9,38 h-18 z" fill="#E0A23B"/>
+</g>
+<!-- spark trail -->
+<path d="M120,250 C190,236 236,206 286,172" fill="none" stroke="#E0A23B" stroke-width="4" stroke-linecap="round" stroke-dasharray="2 12"/>
+<g fill="#E0A23B"><circle cx="160" cy="246" r="3"/><circle cx="214" cy="226" r="2.4"/><circle cx="250" cy="200" r="2"/></g>
+<!-- rider and board, mid-flip -->
+<g transform="translate(300 150) rotate(-18)">
+  <rect x="-44" y="22" width="88" height="12" rx="6" fill="#F6EFE3" stroke="#2B1E16" stroke-width="2"/>
+  <circle cx="-28" cy="38" r="4" fill="#E0A23B"/><circle cx="28" cy="38" r="4" fill="#E0A23B"/>
+  <path d="M-12,22 L-4,-6 L8,-6 L16,22" fill="none" stroke="#2B1E16" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="-12" y="-36" width="24" height="34" rx="9" fill="#E0A23B"/>
+  <path d="M12,-28 L34,-44" stroke="#2B1E16" stroke-width="6" stroke-linecap="round"/>
+  <path d="M-12,-26 L-30,-10" stroke="#2B1E16" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="0" cy="-48" r="12" fill="#B9AD9C"/>
+  <path d="M-12,-52 a12,12 0 0 1 24,0 z" fill="#2F5D50"/>
+</g>
+</svg>

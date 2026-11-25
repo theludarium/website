@@ -126,6 +126,8 @@ const courses = defineCollection({
     game: z.string().min(1),
     /** full: 8 lessons. masterclass: 7. teach-tonight: a teach sheet and 2 lessons. tcg: 8 public lessons. */
     format: z.enum(['full', 'masterclass', 'teach-tonight', 'tcg']),
+    /** Catalog group. Leave it out for board games; TCG courses fall under Trading card games by format. */
+    group: z.enum(['Board games', 'Trading card games', 'Roleplaying games']).optional(),
     /** Sort order in the Academy catalog, lowest first. */
     order: z.number().int(),
     wave: z.string(),
@@ -151,6 +153,16 @@ const courses = defineCollection({
       scoring: z.array(z.string()).min(1).max(8),
       endGame: z.string(),
       tips: z.array(z.string()).length(3),
+      /** Section headings, for games where "On your turn" or "Scoring" do not fit (a roleplaying game). */
+      labels: z
+        .object({
+          setup: z.string().optional(),
+          turn: z.string().optional(),
+          scoring: z.string().optional(),
+          endGame: z.string().optional(),
+          tips: z.string().optional(),
+        })
+        .optional(),
     }),
     /** Alt text for the original setup diagram at public/academy/<slug>/setup.svg. */
     diagramAlt: z.string().min(1),
