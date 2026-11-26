@@ -6,6 +6,8 @@
 import { render } from 'astro:content';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import CourseForm from '@/components/CourseForm.astro';
+import NewsletterForm from '@/components/NewsletterForm.astro';
+import { KIT_OFFER_FORMS } from '@/lib/config';
 import CourseNotice from '@/components/CourseNotice.astro';
 import AffiliateNotice from '@/components/mdx/AffiliateNotice.astro';
 import TableOfContents from '@/components/TableOfContents.astro';
@@ -187,11 +189,21 @@ const structuredData = [
             )
           }
         </nav>
-        <section class="article__signup lesson__signup" aria-labelledby="lesson-signup-title" data-pagefind-ignore>
-          <h2 id="lesson-signup-title">{d.format === 'tcg' ? 'Want the course by email?' : 'Get every lesson by email.'}</h2>
-          <p>{d.promise} Free, one short lesson at a time.</p>
-          <CourseForm course={course.id} id="lesson-signup" buttonLabel={d.format === 'tcg' ? 'Send me the course' : 'Send me the lessons'} />
-        </section>
+        {
+          d.offer ? (
+            <section class="article__signup lesson__signup" aria-labelledby="lesson-signup-title" data-pagefind-ignore>
+              <h2 id="lesson-signup-title">{KIT_OFFER_FORMS[d.offer].heading}</h2>
+              <p>{KIT_OFFER_FORMS[d.offer].lede}</p>
+              <NewsletterForm id="lesson-signup" buttonLabel={KIT_OFFER_FORMS[d.offer].buttonLabel} formAction={KIT_OFFER_FORMS[d.offer].action} />
+            </section>
+          ) : (
+            <section class="article__signup lesson__signup" aria-labelledby="lesson-signup-title" data-pagefind-ignore>
+              <h2 id="lesson-signup-title">{d.format === 'tcg' ? 'Want the course by email?' : 'Get every lesson by email.'}</h2>
+              <p>{d.promise} Free, one short lesson at a time.</p>
+              <CourseForm course={course.id} id="lesson-signup" buttonLabel={d.format === 'tcg' ? 'Send me the course' : 'Send me the lessons'} />
+            </section>
+          )
+        }
         <CourseNotice text={d.notice} />
       </div>
     </div>

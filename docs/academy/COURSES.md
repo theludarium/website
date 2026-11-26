@@ -178,3 +178,10 @@ The Academy page is ordered for reach, not by when a course was written. Within 
 ## Roleplaying game courses (November 25, 2026)
 
 Slugblaster (`src/content/courses/slugblaster.yaml`) is the first RPG course and the model for the next. RPG courses set `group: "Roleplaying games"`, use the masterclass shape with a six-level ladder (top labels "Expert" and "Mastery", since RPGs have no tournaments), and give the teach sheet its own headings with `teachSheet.labels`. The lessons run from playing (Levels 0 to 3) to running the game (Levels 4 and 5). Check the game's own license before writing: many RPGs publish a third-party or community license with a required credit line, which then becomes the course `notice`.
+
+## Free downloads behind a form (November 26, 2026)
+
+A course can give away a file, such as a print-and-play board, behind a Kit form. Set `offer:` in the course YAML to a key of `KIT_OFFER_FORMS` in `src/lib/config.ts`, and `offerImageAlt:` for its preview picture at `public/academy/<slug>/print-and-play.svg`. The course page then shows the offer box under the hero (anchor `#course-offer`), and each lesson's end signup becomes the offer. The file itself never goes in `public/`: it is the Kit form's incentive download, sent when someone confirms their email. Build the offer form by duplicating an existing offer form in Kit (such as "Offer: Under the Couch"), then replace the file, the confirmation email text, and the name.
+
+Ludus Latrunculorum (`src/content/courses/ludus-latrunculorum.yaml`) is the first: the print-and-play PDF is built by `tools/print-and-play/ludus-latrunculorum/build.mjs` (words in `rules.mjs`, course art in `art.mjs`), and the research behind the course is `docs/academy/ludus-latrunculorum-research.md`. It is also the first ancient game course: no rulebook survives, so the course teaches a labelled reconstruction and says plainly which parts are ancient and which are modern choices.
+

@@ -171,6 +171,13 @@ const courses = defineCollection({
     /** The games the course teaches, as On the Table slugs; every course page, lesson and teach sheet carries them. */
     games,
     /**
+     * Optional free download behind a Kit form (a key of KIT_OFFER_FORMS in src/lib/config.ts), such as a
+     * print-and-play board. The course page shows it below the hero and each lesson's end signup becomes it.
+     */
+    offer: z.enum(KIT_OFFER_KEYS).optional(),
+    /** Alt text for the offer's preview picture at public/academy/<slug>/print-and-play.svg. */
+    offerImageAlt: z.string().optional(),
+    /**
      * The course's level ladder, like Catan's: Level 0 (learn to play) up to at most
      * Level 5 (the championship path). Light games stop earlier. Each lesson names its level.
      */
