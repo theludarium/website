@@ -1,0 +1,92 @@
+title: "Glass Soldiers"
+game: "Ludus Latrunculorum"
+format: full
+order: 107
+wave: "7"
+draft: false
+publisher: "Traditional game of ancient Rome (no publisher)"
+notice: "Unofficial. Ludus Latrunculorum is an ancient Roman game that no one owns. No complete Roman rulebook survives, so the rules taught here are a modern reconstruction built on Ulrich Schädler's Locus Ludi project. Not affiliated with the University of Fribourg, Locus Ludi, or any museum."
+rulesEdition: "The Ludarium table rules (2026): the Locus Ludi 'Piso variant' (Locus Ludi project led by Ulrich Schädler, University of Fribourg, English rules PDF, 2022), played with 16 pieces a side, plus a modern 30-turn endgame rule adapted from R. C. Bell (1960)"
+rulesSource: "https://locusludi.ch/wp-content/uploads/2022/08/LUDUS-LATRUNCULORUM_rules_GB.pdf"
+players: "2"
+playTime: "About 30 minutes"
+ages: "Ages 8 and up"
+promise: "Learn the soldiers' game of ancient Rome in one sitting, teach it to anyone, and climb from your first sandwich capture to the poets' tactics, the evidence, and the variants."
+description: "A free Ludus Latrunculorum course: how to play the Roman game of glass soldiers, how to teach it, tactics, the endgame, what is ancient, and the variants."
+audience:
+  - "Families and friends who want a quick, deep two-player game they can play on any chessboard."
+  - "Teachers of history, Latin, and the classics who want a hands-on Roman lesson that holds up to the evidence."
+  - "Abstract game players curious about an ancient capture game and how scholars rebuilt its rules."
+  - "Anyone who enjoys a good story about soldiers, poets, and a condemned man who counted his pieces."
+levels:
+  - level: 0
+    name: "Tiro"
+    label: "Learn to play"
+    outcome: "Set up, play, and teach a full game by the table rules, and say which parts are Roman and which are modern."
+  - level: 1
+    name: "Miles"
+    label: "Beginner"
+    outcome: "Place your 16 pieces with a plan, see every capture pattern from pairs to corners, and tell the stories of who played the game."
+  - level: 2
+    name: "Centurio"
+    label: "Intermediate"
+    outcome: "Turn the tactics the Roman poets describe into real moves, close out a game under the 30-turn rule, and sort the evidence from the myths."
+  - level: 3
+    name: "Imperator"
+    label: "Expert"
+    outcome: "Play the slide, bound capture, 7x8, and dux variants, make a Roman-style set, run the game for a class or group, and find related games and places to play online."
+afterLesson3: "Play and teach a full game by the table rules, avoid the common rules mistakes, and explain which parts are ancient and which are modern."
+afterLesson8: "Place with a plan, capture with pairs, corners, and double captures, use the poets' tactics, and finish a game cleanly under the 30-turn rule."
+faq:
+  - q: "How do you play Ludus Latrunculorum?"
+    a: "Two players take turns placing 16 pieces each on an empty 8x8 board. Then they take turns moving one piece one square forward, back, or sideways. Trap an enemy piece between two of yours in a row or column and it is captured. The player who captures more pieces wins."
+  - q: "What are the original rules of Ludus Latrunculorum?"
+    a: "No complete Roman rulebook survives. Roman writers confirm a grid board, two colours of pieces, straight moves, and the capture of a piece caught between two enemies. Every full ruleset played today, including this course's, is a modern reconstruction built on that evidence."
+  - q: "Is Ludus Latrunculorum like chess or checkers?"
+    a: "Not really. It is played on a grid like a chessboard, but every piece is the same and you capture by trapping a piece between two of yours, not by jumping or landing on it. It plays most like other sandwich-capture games, such as Seega and hasami shogi."
+  - q: "What size board does Ludus Latrunculorum use?"
+    a: "Roman boards came in many sizes. A 2024 survey counted 25 intact Roman boards. Nine are 8x8, the most common size, and several others are 6x7, 7x8, or 8x9. This course uses 8x8, so any chessboard works, and offers 7x8 as a bonus board."
+  - q: "Did Ludus Latrunculorum have a king piece?"
+    a: "No ancient source mentions one. The king piece often called the dux was added by R. C. Bell in his 1960 book on board games. This course teaches the game without it and offers Bell's dux as a clearly modern variant."
+  - q: "How many pieces does each player get in Ludus Latrunculorum?"
+    a: "The ancient sources do not say. Modern reconstructions differ: Ulrich Schädler allows 16 to 24 a side, the Locus Ludi rules use 20, and others use fewer or more. This course uses 16 each, which plays fast and fits a chessboard with a set of checkers."
+teachSheet:
+  goal: "Capture more enemy pieces than your opponent captures of yours."
+  setup:
+    - "An empty 8x8 board. 16 pieces each, light and dark."
+    - "Choose who is Light by any fair method. Light places first."
+    - "Take turns placing one piece on any empty square."
+    - "Keep going until all 32 pieces are down. No captures while placing."
+    - "Turns keep alternating, so Light makes the first move."
+  turn:
+    - "Move one of your pieces one square: forward, back, left, or right."
+    - "Never diagonally. Never jump. The square must be empty."
+    - "You may not move a piece straight back to the square it just left on your next turn."
+  scoring:
+    - "Trap an enemy piece between the piece you moved and another of yours, in a row or column."
+    - "Remove the trapped piece. One move can capture on more than one side."
+    - "Corner piece: captured by enemies on its two neighbouring squares."
+    - "Only one piece at a time. Two enemies in a row between yours are safe."
+    - "Only the moving player captures. Stepping between two enemies is safe."
+  endGame: "The game ends when a player has one piece left or cannot move on their turn. Most captures wins. After 30 turns in a row with no capture, stop: more pieces on the board wins. A tie is a draw."
+  tips:
+    - "Move in pairs. A piece with a friend beside it cannot be sandwiched along that line."
+    - "Before the last placements, find every piece of yours that one enemy step could trap."
+    - "Your own move can never lose a piece. Ask what your opponent's next move can close."
+  labels:
+    setup: "Setup and placing"
+    turn: "Moving"
+    scoring: "Capturing"
+    endGame: "How it ends"
+diagramAlt: "An empty 8x8 board, as every game begins, with a side panel. The panel shows the placement turn order: Light places one piece, then Dark places one, alternating until all 32 pieces are down. Below it are three small diagrams. First, a sandwich capture in a row: a light piece steps in so that a dark piece sits between two light pieces, and the dark piece is removed. Second, a corner capture: a dark piece in the corner is taken by light pieces on its two neighbouring squares. Third, safe entry: a dark piece steps into the gap between two light pieces and is not captured."
+offer: "ludus-latrunculorum"
+offerImageAlt: "A printed 8x8 Ludus Latrunculorum board with light and dark square pieces set out on it mid-game, and a strip of cut-out pieces lying beside the board."
+games: []
+related:
+  - "how-to-play-chess"
+  - "how-to-play-checkers"
+  - "how-to-teach-a-board-game"
+  - "print-and-play-board-games"
+  - "how-to-run-a-board-game-tournament"
+  - "luck-vs-skill-board-games"
+  - "two-player-board-games-date-night"

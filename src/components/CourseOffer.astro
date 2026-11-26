@@ -1,0 +1,74 @@
+---
+// A free download behind a Kit form (KIT_OFFER_FORMS in src/lib/config.ts), shown on an
+// Academy course page when the course YAML sets `offer`. Kit's double opt-in email
+// delivers the file, so the download itself never sits in public/.
+import NewsletterForm from '@/components/NewsletterForm.astro';
+import { IS_PREVIEW } from '@/lib/env';
+import { KIT_OFFER_FORMS, type KitOfferKey } from '@/lib/config';
+
+interface Props {
+  offer: KitOfferKey;
+  /** Preview picture of the download, from public/. */
+  image?: string;
+  imageAlt?: string;
+  id?: string;
+}
+
+const { offer: key, image, imageAlt = '', id = 'course-offer' } = Astro.props;
+const offer = KIT_OFFER_FORMS[key];
+---
+
+<section class="section course-offer" aria-labelledby={`${id}-title`} data-pagefind-ignore>
+  <div class="container">
+    <div class="card course-offer__card">
+      {image && <img src={image} alt={imageAlt} width="640" height="480" loading="lazy" />}
+      <div>
+        <p class="eyebrow">Free print and play</p>
+        <h2 id={`${id}-title`}>{offer.heading}</h2>
+        <p>{offer.lede}</p>
+        <NewsletterForm id={id} buttonLabel={offer.buttonLabel} formAction={offer.action} />
+        {
+          IS_PREVIEW && !offer.action && (
+            <p class="course-offer__fine">Preview note: the {key} Kit form is not set yet, so this posts to the general newsletter form.</p>
+          )
+        }
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .course-offer {
+    padding-top: 0;
+  }
+
+  .course-offer__card {
+    display: grid;
+    grid-template-columns: minmax(0, 22rem) minmax(0, 1fr);
+    gap: var(--space-6);
+    align-items: center;
+  }
+
+  .course-offer__card img {
+    width: 100%;
+    height: auto;
+    border-radius: var(--radius-sm);
+  }
+
+  .course-offer h2 {
+    margin: 0 0 var(--space-3);
+    font-size: var(--text-2xl);
+  }
+
+  .course-offer__fine {
+    margin: var(--space-3) 0 0;
+    font-size: var(--text-sm);
+    color: var(--color-text-muted);
+  }
+
+  @media (max-width: 48rem) {
+    .course-offer__card {
+      grid-template-columns: minmax(0, 1fr);
+    }
+  }
+</style>

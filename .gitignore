@@ -13,3 +13,4 @@ dist/
 # Local Cloudflare state (wrangler pages dev, local D1)
 .dev.vars
 .wrangler/
+tools/print-and-play/*/print.html

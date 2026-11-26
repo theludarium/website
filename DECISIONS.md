@@ -616,3 +616,8 @@ Levi asked for a calendar at `/cube-commonwealth/events/`, so it goes ahead of t
 - **A new catalog group, "Roleplaying games."** Course YAML can now set `group`; without it, courses fall into Board games or Trading card games as before. The Teach Library lists the group too.
 - **RPG teach sheet headings.** `teachSheet.labels` can rename the sheet's sections ("When you act" instead of "On your turn", "What you track" instead of "Scoring"), since an RPG has no turns or score.
 - One Amazon link, the hardcover rulebook (1736877518). Free resources (playsheets, Turbo X, the Quantum Kickflip actual play) link to slugblaster.com. Not tagged in On the Table, which has no RPGs yet.
+
+## 2026-11-26: Ludus Latrunculorum course with a free print-and-play kit
+
+Levi asked for an Academy course on the Roman game Ludus Latrunculorum, with a printable board and pieces as a download behind a form. No Roman rulebook survives, so the course teaches "The Ludarium table rules", built on the Locus Ludi "Piso variant" (Ulrich Schädler's project at the University of Fribourg): an 8x8 board (the most common surviving Roman size), 16 pieces a side placed on an empty board, one-step orthogonal moves, sandwich capture, corner capture by two, safe entry, and most captures wins, with a 30-turn no-capture stop adapted from R. C. Bell. The dux is taught only as Bell's 1960 invention. The PDF is delivered by a new Kit form, "Offer: Ludus Latrunculorum print and play" (10248035), so it never sits in `public/`. Courses gained an optional `offer` field for this.
+

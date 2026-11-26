@@ -88,6 +88,15 @@ export const KIT_OFFER_FORMS = {
     lede: 'All six series, two short emails a week, each one a quick read that links to the full article. Join The Ludarium newsletter and the first one arrives the next Tuesday or Friday morning.',
     buttonLabel: 'Send me the series',
   },
+  'ludus-latrunculorum': {
+    // Kit form "Offer: Ludus Latrunculorum print and play" (10248035, duplicated from Under the Couch):
+    // double opt-in, incentive download ludus-latrunculorum-print-and-play.pdf
+    // (built by tools/print-and-play/ludus-latrunculorum/build.mjs; upload it again after a rebuild).
+    action: 'https://app.kit.com/forms/10248035/subscriptions',
+    heading: 'Print the board and play tonight.',
+    lede: 'A free print-and-play kit: an 8 by 8 board, a bonus 7 by 8 board, 32 pieces to cut out, and the rules on one page. Confirm your email and the PDF downloads right away.',
+    buttonLabel: 'Send me the board',
+  },
 } satisfies Record<string, { action: string; heading: string; lede: string; buttonLabel: string }>;
 
 export type KitOfferKey = keyof typeof KIT_OFFER_FORMS;
