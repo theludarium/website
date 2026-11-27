@@ -7,7 +7,7 @@
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import LinkSnippet from '@/components/LinkSnippet.astro';
 import CourseForm from '@/components/CourseForm.astro';
-import { courseUrl, getGameCourses, setupDiagramUrl, teachSheetPdfUrl, teachSheetUrl, type GameCourse } from '@/lib/courses';
+import { courseUrl, getGameCourses, isSkillsCourse, setupDiagramUrl, teachSheetPdfUrl, teachSheetUrl, type GameCourse } from '@/lib/courses';
 
 export async function getStaticPaths() {
   return (await getGameCourses()).map((course) => ({ params: { course: course.id }, props: { course } }));
@@ -29,13 +29,14 @@ const label = {
   tips: s.labels?.tips ?? 'Three tips for your first game',
 };
 const home = courseUrl(course);
+const isSkills = isSkillsCourse(course);
 // "Cheat sheet" is what people search for; "teach sheet" is our name for it.
-const pageTitle = [`${d.game} Cheat Sheet: Printable One-Page Teach Sheet`, `${d.game} Cheat Sheet: One-Page Teach Sheet`, `${d.game} Cheat Sheet`, `${d.game} Teach Sheet`].find((t) => t.length <= 55) ?? `${d.game} Teach Sheet`;
+const pageTitle = isSkills ? `${d.game} Cheat Sheet: Every Core Idea on One Page` : [`${d.game} Cheat Sheet: Printable One-Page Teach Sheet`, `${d.game} Cheat Sheet: One-Page Teach Sheet`, `${d.game} Cheat Sheet`, `${d.game} Teach Sheet`].find((t) => t.length <= 55) ?? `${d.game} Teach Sheet`;
 ---
 
 <BaseLayout
   title={pageTitle}
-  description={`A free printable ${d.game} cheat sheet: setup, a turn, scoring, and three tips on one page. Teach the game in ten minutes and keep it on the table.`.slice(0, 160)}
+  description={(isSkills ? `A free printable ${d.game.toLowerCase()} cheat sheet for tabletop players: the core ideas, the tools, and the patterns to spot, on one page.` : `A free printable ${d.game} cheat sheet: setup, a turn, scoring, and three tips on one page. Teach the game in ten minutes and keep it on the table.`).slice(0, 160)}
   noindex={d.draft}
   games={d.games}
 >
@@ -52,9 +53,9 @@ const pageTitle = [`${d.game} Cheat Sheet: Printable One-Page Teach Sheet`, `${d
   <article class="sheet" aria-labelledby="sheet-title">
     <header class="sheet__head">
       <div>
-        <p class="sheet__eyebrow">The Ludarium &middot; Teach sheet</p>
-        <h1 id="sheet-title">Teach {d.game} in ten minutes</h1>
-        <p class="sheet__facts">{d.players} players &middot; {d.playTime}{d.ages ? ` · ${d.ages}` : ''}</p>
+        <p class="sheet__eyebrow">The Ludarium &middot; {isSkills ? 'Cheat sheet' : 'Teach sheet'}</p>
+        <h1 id="sheet-title">{isSkills ? `${d.game} on one page` : `Teach ${d.game} in ten minutes`}</h1>
+        <p class="sheet__facts">{isSkills ? `Practice with ${d.players.toLowerCase()} · ${d.playTime}` : `${d.players} players · ${d.playTime}${d.ages ? ` · ${d.ages}` : ''}`}</p>
       </div>
     </header>
 
@@ -89,12 +90,12 @@ const pageTitle = [`${d.game} Cheat Sheet: Printable One-Page Teach Sheet`, `${d
 
     <footer class="sheet__foot">
       <p>Free to print and share. Free course: theludarium.com{home}</p>
-      <p>{d.notice} Rules as of the {d.rulesEdition}.</p>
+      <p>{d.notice} {isSkills ? `Built on ${d.rulesEdition}.` : `Rules as of the ${d.rulesEdition}.`}</p>
     </footer>
   </article>
 
   <div class="container sheet-share">
-    <LinkSnippet path={teachSheetUrl(course)} label={`${d.game} teach sheet`} title="Print it, share it, link to it">
+    <LinkSnippet path={teachSheetUrl(course)} label={`${d.game} ${isSkills ? "cheat" : "teach"} sheet`} title="Print it, share it, link to it">
       <p>
         Running a demo night, a club, a classroom, or a store event? Print as many copies as you like. If you
         mention the sheet on your site or newsletter, this link takes people straight to it.

@@ -1,4 +1,4 @@
-// Corporate event inquiries: POST /api/inquiry
+// Corporate inquiries (team events and game theory workshops): POST /api/inquiry
 //
 // A Cloudflare Pages Function. It runs on Cloudflare, not in the browser.
 // 1. Drops obvious bots (hidden honeypot field) and checks Cloudflare Turnstile.
@@ -22,6 +22,15 @@ interface Context {
   env: Env;
 }
 
+// Which service the inquiry is about. The hidden `service` field picks one; a missing or
+// unknown value counts as a team event, so the original form keeps working unchanged.
+// Every service shares /corporate-events/thanks/, which GA4 counts as corporate_inquiry.
+export const INQUIRY_SERVICES = {
+  team: { label: 'Corporate event', page: '/corporate-events/' },
+  'game-theory': { label: 'Game theory workshop', page: '/game-theory-workshops/' },
+} as const;
+export type InquiryService = keyof typeof INQUIRY_SERVICES;
+
 export const TEAM_SIZES = ['Under 10', '10 to 25', '26 to 50', '51 to 100', 'More than 100'];
 export const TIMINGS = ['Within a month', '1 to 3 months', '3 to 6 months', 'Just exploring'];
 
@@ -29,6 +38,7 @@ const LIMITS = { name: 100, email: 200, company: 150, role: 100, goals: 3000 };
 const EMAIL_PATTERN = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
 export type Inquiry = {
+  service: InquiryService;
   name: string;
   email: string;
   company: string;
@@ -41,9 +51,15 @@ export type Inquiry = {
 const field = (form: FormData, key: string) => String(form.get(key) ?? '').trim();
 const oneLine = (value: string) => value.replace(/[\r\n]+/g, ' ');
 
+export function serviceOf(form: FormData): InquiryService {
+  const value = field(form, 'service');
+  return value in INQUIRY_SERVICES ? (value as InquiryService) : 'team';
+}
+
 /** Returns the cleaned inquiry, or the name of the first problem. */
 export function parseInquiry(form: FormData): Inquiry | { error: string } {
   const inquiry: Inquiry = {
+    service: serviceOf(form),
     name: oneLine(field(form, 'name')),
     email: oneLine(field(form, 'email')),
     company: oneLine(field(form, 'company')),
@@ -72,7 +88,7 @@ export function parseInquiry(form: FormData): Inquiry | { error: string } {
 
 export function emailText(inquiry: Inquiry): string {
   return [
-    'New corporate event inquiry from theludarium.com',
+    `New ${INQUIRY_SERVICES[inquiry.service].label.toLowerCase()} inquiry from theludarium.com`,
     '',
     `Name:       ${inquiry.name}`,
     `Email:      ${inquiry.email}`,
@@ -102,7 +118,8 @@ async function verifyTurnstile(token: string, secret: string, ip: string | null)
 const redirect = (request: Request, path: string) =>
   Response.redirect(new URL(path, request.url).toString(), 303);
 
-const back = (request: Request, error: string) => redirect(request, `/corporate-events/?error=${error}#inquire`);
+const back = (request: Request, error: string, service: InquiryService = 'team') =>
+  redirect(request, `${INQUIRY_SERVICES[service].page}?error=${error}#inquire`);
 
 export async function onRequestPost({ request, env }: Context): Promise<Response> {
   let form: FormData;
@@ -115,24 +132,25 @@ export async function onRequestPost({ request, env }: Context): Promise<Response
   // Honeypot: people never see this field; bots tend to fill it. Pretend it worked.
   if (field(form, 'website')) return redirect(request, '/corporate-events/thanks/');
 
+  const service = serviceOf(form);
   if (!env.NOTIFY || !env.TURNSTILE_SECRET_KEY) {
     console.error('Inquiry form is missing the NOTIFY binding or TURNSTILE_SECRET_KEY');
-    return back(request, 'unavailable');
+    return back(request, 'unavailable', service);
   }
 
   const token = field(form, 'cf-turnstile-response');
   const human = token && (await verifyTurnstile(token, env.TURNSTILE_SECRET_KEY, request.headers.get('CF-Connecting-IP')));
-  if (!human) return back(request, 'verify');
+  if (!human) return back(request, 'verify', service);
 
   const inquiry = parseInquiry(form);
-  if ('error' in inquiry) return back(request, inquiry.error);
+  if ('error' in inquiry) return back(request, inquiry.error, service);
 
   const sent = await notify(env.NOTIFY, {
     replyTo: inquiry.email,
-    subject: `Corporate event inquiry: ${inquiry.company} (${inquiry.teamSize})`,
+    subject: `${INQUIRY_SERVICES[inquiry.service].label} inquiry: ${inquiry.company} (${inquiry.teamSize})`,
     text: emailText(inquiry),
   });
-  if (!sent) return back(request, 'unavailable');
+  if (!sent) return back(request, 'unavailable', service);
 
   return redirect(request, '/corporate-events/thanks/');
 }

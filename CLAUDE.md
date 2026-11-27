@@ -123,6 +123,7 @@ Keep it simple. No CMS, database, or user accounts. Add a dependency only when i
 | `/academy/[course]/teach-sheet/` | Teach sheet | One-page printable for each game course; `scripts/teach-sheets.mjs` prints the PDFs |
 | `/services/` | Services | Hub for everything The Ludarium sells as a service; one card per entry in `src/lib/services.ts`, which also fills the Services menu |
 | `/corporate-events/` | Corporate Events | Leadership and team training through tabletop games; inquiry form |
+| `/game-theory-workshops/` | Game Theory Workshops | Strategy, negotiation, and incentive workshops for companies, built on the Read the Table course; same inquiry form tagged `service=game-theory`. Plan: `docs/corporate/GAME-THEORY-WORKSHOPS.md` |
 | `/lounges/` | The Lounges | The membership lounge vision and the network idea |
 | `/lounges/indianapolis/` | Indianapolis | The first lounge: what it will be, plus a waitlist signup |
 | `/about/` | About | Togethering, the mission, the story |

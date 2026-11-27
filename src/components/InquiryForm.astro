@@ -4,13 +4,27 @@
 // (the landing page rules split forms over five fields); one long form without it.
 import { TURNSTILE_SITE_KEY } from '@/lib/config';
 import { IS_PREVIEW } from '@/lib/env';
-import { TEAM_SIZES, TIMINGS } from '../../functions/api/inquiry';
+import { TEAM_SIZES, TIMINGS, type InquiryService } from '../../functions/api/inquiry';
+
+interface Props {
+  /** Which service the inquiry is about (functions/api/inquiry.ts INQUIRY_SERVICES). */
+  service?: InquiryService;
+  goalsLabel?: string;
+  goalsPlaceholder?: string;
+}
+
+const {
+  service = 'team',
+  goalsLabel = 'What do you want your team to get better at?',
+  goalsPlaceholder = 'Communication across departments, decisions under pressure, trust in a new team...',
+} = Astro.props;
 
 const TEST_SITE_KEY = '1x00000000000000000000AA'; // Cloudflare's always-pass test key
 const siteKey = IS_PREVIEW ? TEST_SITE_KEY : TURNSTILE_SITE_KEY;
 ---
 
 <form class="inquiry" action="/api/inquiry" method="post" data-inquiry novalidate>
+  <input type="hidden" name="service" value={service} />
   <p class="inquiry__error" role="alert" data-inquiry-error hidden></p>
 
   <fieldset class="inquiry__step" data-step="1">
@@ -57,8 +71,8 @@ const siteKey = IS_PREVIEW ? TEST_SITE_KEY : TURNSTILE_SITE_KEY;
       </label>
     </div>
     <label>
-      What do you want your team to get better at?
-      <textarea name="goals" rows="4" maxlength="3000" required placeholder="Communication across departments, decisions under pressure, trust in a new team..."></textarea>
+      {goalsLabel}
+      <textarea name="goals" rows="4" maxlength="3000" required placeholder={goalsPlaceholder}></textarea>
     </label>
 
     <div class="inquiry__trap" aria-hidden="true">

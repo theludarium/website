@@ -185,3 +185,9 @@ A course can give away a file, such as a print-and-play board, behind a Kit form
 
 Ludus Latrunculorum (`src/content/courses/ludus-latrunculorum.yaml`) is the first: the print-and-play PDF is built by `tools/print-and-play/ludus-latrunculorum/build.mjs` (words in `rules.mjs`, course art in `art.mjs`), and the research behind the course is `docs/academy/ludus-latrunculorum-research.md`. It is also the first ancient game course: no rulebook survives, so the course teaches a labelled reconstruction and says plainly which parts are ancient and which are modern choices.
 
+## Skills courses (November 27, 2026)
+
+A skills course teaches a way of thinking rather than one game. Set `group: "Skills"` in the YAML. The course system stays the same (levels, lessons, teach sheet, checks), but the pages change their words: the hero says "A game theory course for tabletop players" instead of "An unofficial ... course", the teach sheet is called a cheat sheet ("Game Theory on one page"), the facts box shows "Practice with" and "Time" in place of players and play time and drops "Rules as of", and the footer says "Built on" the sources in `rulesEdition` with `rulesSource` as "where to read more". `isSkillsCourse()` in `src/lib/courses.ts` is the switch. Skills courses sit in their own "Skills" group at the top of the Academy catalog and stay out of the Guild's Teach Library.
+
+Read the Table (`src/content/courses/game-theory.yaml`, plan in `docs/academy/GAME-THEORY-PLAN.md`) is the first. Every lesson ends with "At the table" and "At work" sections, because the course is also the foundation of the corporate Game Theory Workshops (`/game-theory-workshops/`, plan in `docs/corporate/GAME-THEORY-WORKSHOPS.md`).
+
