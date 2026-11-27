@@ -1,0 +1,96 @@
+title: "Read the Table"
+game: "Game Theory"
+format: full
+group: "Skills"
+order: 50
+wave: "8"
+draft: false
+publisher: "An independent course by The Ludarium"
+notice: "Game theory is a field of study that belongs to everyone. Read the Table is an independent introduction by The Ludarium, written for tabletop players. Board games named here are examples only; the course is not affiliated with their publishers."
+rulesEdition: "the classic works of game theory, from von Neumann and Morgenstern (1944) and John Nash (1950) to Thomas Schelling (1960) and Robert Axelrod (1984)"
+rulesSource: "https://plato.stanford.edu/entries/game-theory/"
+players: "Any game you already play"
+playTime: "About 10 minutes a lesson"
+promise: "Turn the instincts you build at the game table into a real toolkit, then use it to win more games and to think like a strategist at work."
+description: "A free game theory course for board gamers: payoffs, Nash equilibrium, bluffing, auctions, negotiation, and how to use it all at the table and at work."
+audience:
+  - "Players who love the moment a strategy clicks and want to know why it works."
+  - "Anyone who has said \"if I do this, they will do that\" across a table and wants a sharper way to think it through."
+  - "People who want to bring game-night thinking to their job: negotiations, meetings, promotions, and competitors."
+  - "Managers and team leads who want a shared language for incentives and strategy."
+levels:
+  - level: 0
+    name: "Player"
+    label: "Learn to play"
+    outcome: "Explain what game theory is, see it in the games you already play, and map any game by its players, choices, payoffs, and information."
+  - level: 1
+    name: "Tactician"
+    label: "Beginner"
+    outcome: "Spot dominant strategies, find a Nash equilibrium, think ahead with backward induction, and tell zero-sum games from games where everyone can win."
+  - level: 2
+    name: "Strategist"
+    label: "Intermediate"
+    outcome: "Mix your play so you cannot be read, play the prisoner's dilemma well over many rounds, use and read signals, and bid without overpaying."
+  - level: 3
+    name: "Negotiator"
+    label: "Expert"
+    outcome: "Bargain from strength, make threats and promises others believe, handle coalitions and kingmaking, and build a reputation that pays."
+  - level: 4
+    name: "Architect"
+    label: "Mastery"
+    outcome: "Design rules and incentives that bring out good play, and use game theory at work: your role, your team, and your company's strategy."
+afterLesson3: "Map any game, or any situation, as players, choices, payoffs, and information, and use that map to make a better move."
+afterLesson8: "Use dominant strategies, Nash equilibrium, backward induction, and mixed strategies at the table, and know when a game is zero-sum."
+faq:
+  - q: "What is game theory, in plain words?"
+    a: "Game theory is the study of decisions when the result depends on what other people choose too. It asks what each person wants, what each can do, and what each knows, then looks for the moves that make sense once everyone is thinking ahead."
+  - q: "Is game theory about board games?"
+    a: "Not only. It covers any situation where people's choices affect each other: business, politics, sports, biology, and everyday life. Board games are a great way to learn it, because the rules and the payoffs are written down and you get to practice every week."
+  - q: "Do I need math to learn game theory?"
+    a: "No. This course uses small tables and simple trees, the kind you could sketch on a score pad. Arithmetic helps in a few places, but every idea is explained in words and shown with games first."
+  - q: "Who invented game theory?"
+    a: "John von Neumann and Oskar Morgenstern founded the modern field with their 1944 book Theory of Games and Economic Behavior. John Nash added the equilibrium idea in 1950, and the field has won several Nobel prizes in economics since."
+  - q: "Will game theory make me better at board games?"
+    a: "It gives you questions to ask on every turn: what does each player want, what are their best replies, and what happens if everyone sees it coming. Most strong players ask these already. The course gives you the names and tools so you can do it on purpose."
+  - q: "How does game theory help at work?"
+    a: "Work is full of games: negotiating a raise, sharing credit on a project, pricing against a competitor. Seeing the players, their payoffs, and the equilibrium helps you choose better moves and design better incentives for your team."
+teachSheet:
+  goal: "Choose your best move by thinking about what everyone else wants, can do, and knows."
+  labels:
+    setup: "Map the game"
+    turn: "Tools for your turn"
+    scoring: "Patterns to spot"
+    endGame: "Take it to work"
+    tips: "Three habits to start tonight"
+  setup:
+    - "Players: who decides? Include anyone who can change the result."
+    - "Choices: what can each player do, and when?"
+    - "Payoffs: what does each player really want?"
+    - "Information: who knows what, and when do they learn it?"
+  turn:
+    - "Dominant strategy: a move that is best whatever others do. Play it."
+    - "Best reply: if they do X, what is my best move?"
+    - "Nash equilibrium: no one gains by changing alone."
+    - "Backward induction: start from the end and work back."
+    - "Mixed strategy: be unpredictable when being read would cost you."
+  scoring:
+    - "Zero-sum or not: can we both win, or only one of us?"
+    - "Prisoner's dilemma: each gains by defecting, yet both do worse if both do."
+    - "Repeated games: the future keeps people honest."
+    - "Signals: costly ones are believable, and cheap talk works only when interests line up."
+    - "Winner's curse: the top bid often overpays."
+  endGame: "At work, list the players, their payoffs, and what each knows before any big decision. Ask what happens if everyone sees your move coming, and design incentives so the best move for each person is the best move for the team."
+  tips:
+    - "Before you move, name the best reply each opponent has."
+    - "Ask what the last round of the game rewards, and plan back from it."
+    - "After the game, find one moment where a different payoff would have changed your choice."
+diagramAlt: "A two by two payoff table for the prisoner's dilemma. Rows are your choices, Cooperate and Defect; columns are theirs. Both cooperate: 3 points each. Both defect: 1 point each. One defects while the other cooperates: 5 points for the defector and 0 for the other. The box where both defect is circled as the Nash equilibrium. Beside it, a small game tree shows a choice now and a reply later, with arrows working back from the end."
+games: []
+related:
+  - "luck-vs-skill-board-games"
+  - "negotiation-board-games"
+  - "kingmaking-board-games"
+  - "best-social-deduction-games"
+  - "semi-cooperative-board-games"
+  - "how-to-win-at-catan"
+  - "analysis-paralysis-board-games"

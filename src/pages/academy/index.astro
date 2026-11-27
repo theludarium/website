@@ -18,7 +18,7 @@ interface CatalogCard {
   /** The game's name, for the Start here cards. */
   game: string;
   /** Catalog section the card sits in. */
-  group: 'Board games' | 'Trading card games' | 'Roleplaying games' | 'Game library';
+  group: 'Skills' | 'Board games' | 'Trading card games' | 'Roleplaying games' | 'Game library';
   track: string;
   title: string;
   href: string;
@@ -91,7 +91,7 @@ const gameCourses: CatalogCard[] = await Promise.all(
         d.format === 'teach-tonight'
           ? 'A printable teach sheet and two short emails.'
           : d.levels
-            ? `${lessons.length} lessons in ${['zero', 'one', 'two', 'three', 'four', 'five', 'six'][d.levels.length]} levels, and a printable teach sheet.`
+            ? `${lessons.length} lessons in ${['zero', 'one', 'two', 'three', 'four', 'five', 'six'][d.levels.length]} levels, and a printable ${d.group === 'Skills' ? 'cheat' : 'teach'} sheet.`
             : `${lessons.length} lessons and a printable teach sheet.`,
       first: first && lessonHasPage(first) ? { label: 'Read lesson one', href: courseLessonUrl(first) } : undefined,
       image: cardArt(course.id),
@@ -105,7 +105,7 @@ const catalog = [...lessonCourses, ...gameCourses, shelfCourse];
 // largest card games, so newcomers see them first. Each still appears in its group.
 const START_HERE = ['catan', 'ticket-to-ride', 'wingspan', 'codenames', 'pokemon-tcg', 'magic'];
 const startHere = START_HERE.map((slug) => catalog.find((c) => c.slug === slug)).filter((c): c is CatalogCard => Boolean(c));
-const groups = (['Board games', 'Trading card games', 'Roleplaying games', 'Game library'] as const)
+const groups = (['Skills', 'Board games', 'Trading card games', 'Roleplaying games', 'Game library'] as const)
   .map((name) => ({ name, cards: catalog.filter((c) => c.group === name) }))
   .filter((g) => g.cards.length > 0);
 

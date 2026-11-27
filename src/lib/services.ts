@@ -22,4 +22,13 @@ export const SERVICES: Service[] = [
       'Hands-on workshops where your people practice communication, decisions, and leadership at the table, then connect it straight back to their work. Run at your office.',
     cta: 'Plan your team’s workshop',
   },
+  {
+    href: '/game-theory-workshops/',
+    name: 'Game Theory Workshops',
+    menuLine: 'Strategy, negotiation, and incentives, practiced at the table.',
+    audience: 'For leaders and teams',
+    blurb:
+      'Your people play short, sharp games, then map the real decisions in front of them the same way: who the players are, what each wants, and the move that wins for everyone. Run at your office.',
+    cta: 'Plan your strategy workshop',
+  },
 ];

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="t">
+<title id="t">An original illustration of a game table seen from above under a warm lamp: two players' hands of cards face each other across the felt, with a glowing two by two payoff table drawn between them</title>
+<defs>
+<radialGradient id="felt" cx="50%" cy="45%" r="75%"><stop offset="0" stop-color="#3a6e60"/><stop offset="1" stop-color="#24493f"/></radialGradient>
+<radialGradient id="lamp" cx="50%" cy="48%" r="45%"><stop offset="0" stop-color="#e0a23b" stop-opacity=".32"/><stop offset="1" stop-color="#e0a23b" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="640" height="360" fill="url(#felt)"/>
+<rect width="640" height="360" fill="url(#lamp)"/>
+<!-- payoff table -->
+<g transform="translate(250 110)">
+  <rect width="140" height="140" rx="12" fill="#F6EFE3" stroke="#2B1E16" stroke-width="3"/>
+  <line x1="70" y1="0" x2="70" y2="140" stroke="#2B1E16" stroke-width="2"/>
+  <line x1="0" y1="70" x2="140" y2="70" stroke="#2B1E16" stroke-width="2"/>
+  <rect x="2" y="2" width="67" height="67" rx="10" fill="#2F5D50" opacity=".14"/>
+  <g font-family="Georgia, serif" font-size="21" font-weight="700" fill="#2B1E16" text-anchor="middle">
+    <text x="35" y="43">3, 3</text><text x="105" y="43">0, 5</text><text x="35" y="113">5, 0</text><text x="105" y="113">1, 1</text>
+  </g>
+  <ellipse cx="105" cy="106" rx="29" ry="23" fill="none" stroke="#E0A23B" stroke-width="4"/>
+</g>
+<!-- your hand, bottom -->
+<g transform="translate(268 318) rotate(-12)"><rect x="-30" y="-43" width="60" height="86" rx="8" fill="#F6EFE3" stroke="#2B1E16" stroke-width="2"/><circle cx="0" cy="0" r="13" fill="#2F5D50"/></g><g transform="translate(320 310) rotate(0)"><rect x="-30" y="-43" width="60" height="86" rx="8" fill="#F6EFE3" stroke="#2B1E16" stroke-width="2"/><rect x="-12" y="-13" width="24" height="26" rx="4" fill="#E0A23B"/></g><g transform="translate(372 318) rotate(12)"><rect x="-30" y="-43" width="60" height="86" rx="8" fill="#F6EFE3" stroke="#2B1E16" stroke-width="2"/><path d="M0 -15 L14 13 L-14 13 Z" fill="#2B1E16"/></g>
+<!-- their hand, top, face down -->
+<g transform="translate(268 42) rotate(192)"><rect x="-30" y="-43" width="60" height="86" rx="8" fill="#2B1E16" stroke="#F6EFE3" stroke-width="2"/><rect x="-20" y="-33" width="40" height="66" rx="5" fill="none" stroke="#B9AD9C" stroke-width="1.5"/></g><g transform="translate(320 50) rotate(180)"><rect x="-30" y="-43" width="60" height="86" rx="8" fill="#2B1E16" stroke="#F6EFE3" stroke-width="2"/><rect x="-20" y="-33" width="40" height="66" rx="5" fill="none" stroke="#B9AD9C" stroke-width="1.5"/></g><g transform="translate(372 42) rotate(168)"><rect x="-30" y="-43" width="60" height="86" rx="8" fill="#2B1E16" stroke="#F6EFE3" stroke-width="2"/><rect x="-20" y="-33" width="40" height="66" rx="5" fill="none" stroke="#B9AD9C" stroke-width="1.5"/></g>
+<!-- tokens -->
+<circle cx="120" cy="120" r="16" fill="#E0A23B" stroke="#2B1E16" stroke-width="2"/>
+<circle cx="150" cy="140" r="16" fill="#E0A23B" stroke="#2B1E16" stroke-width="2"/>
+<circle cx="510" cy="230" r="16" fill="#F6EFE3" stroke="#2B1E16" stroke-width="2"/>
+<circle cx="540" cy="250" r="16" fill="#F6EFE3" stroke="#2B1E16" stroke-width="2"/>
+<circle cx="492" cy="262" r="16" fill="#F6EFE3" stroke="#2B1E16" stroke-width="2"/>
+</svg>

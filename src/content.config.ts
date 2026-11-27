@@ -127,7 +127,7 @@ const courses = defineCollection({
     /** full: 8 lessons. masterclass: 7. teach-tonight: a teach sheet and 2 lessons. tcg: 8 public lessons. */
     format: z.enum(['full', 'masterclass', 'teach-tonight', 'tcg']),
     /** Catalog group. Leave it out for board games; TCG courses fall under Trading card games by format. */
-    group: z.enum(['Board games', 'Trading card games', 'Roleplaying games']).optional(),
+    group: z.enum(['Board games', 'Trading card games', 'Roleplaying games', 'Skills']).optional(),
     /** Sort order in the Academy catalog, lowest first. */
     order: z.number().int(),
     wave: z.string(),

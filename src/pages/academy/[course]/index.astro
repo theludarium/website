@@ -18,6 +18,7 @@ import {
   courseLessonUrl,
   getCourseLessons,
   getGameCourses,
+  isSkillsCourse,
   lessonHasPage,
   setupDiagramUrl,
   teachSheetPdfUrl,
@@ -43,6 +44,7 @@ interface Props {
 const { course, lessons } = Astro.props;
 const d = course.data;
 const isTcg = d.format === 'tcg';
+const isSkills = isSkillsCourse(course);
 const first = lessons.find((l) => l.data.order === 1);
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
 const articles = await getCollection('articles', ({ data }) => !data.draft);
@@ -100,7 +102,7 @@ const pack = teachCardPack(course.id);
         <p class="eyebrow">The Ludarium Academy &middot; {FORMAT_LABEL[d.format]} &middot; Free</p>
         {d.draft && <p><span class="draft-badge">Draft</span> Only visible on previews.</p>}
         <h1>{d.title}</h1>
-        <p class="course-hero__game">An unofficial {d.game} course{isTcg ? ' for beginners' : ''}</p>
+        <p class="course-hero__game">{isSkills ? `A ${d.game.toLowerCase()} course for tabletop players` : `An unofficial ${d.game} course${isTcg ? ' for beginners' : ''}`}</p>
         <p class="course-hero__sub">{d.promise}</p>
         <CourseForm
           course={course.id}
@@ -112,8 +114,8 @@ const pack = teachCardPack(course.id);
       <a class="course-sheet" href={teachSheetUrl(course)}>
         <img src={setupDiagramUrl(course)} alt={d.diagramAlt} width="480" height="320" loading="eager" />
         <span class="course-sheet__label">
-          <strong>Free printable teach sheet</strong>
-          <span>Setup, a turn, scoring, and three tips on one page.</span>
+          <strong>{isSkills ? 'Free printable cheat sheet' : 'Free printable teach sheet'}</strong>
+          <span>{isSkills ? 'Every core idea and tool on one page.' : 'Setup, a turn, scoring, and three tips on one page.'}</span>
         </span>
       </a>
     </div>
@@ -228,10 +230,10 @@ const pack = teachCardPack(course.id);
         </ul>
       </div>
       <dl class="course-facts">
-        <div><dt>Players</dt><dd>{d.players}</dd></div>
-        <div><dt>Play time</dt><dd>{d.playTime}</dd></div>
+        <div><dt>{isSkills ? 'Practice with' : 'Players'}</dt><dd>{d.players}</dd></div>
+        <div><dt>{isSkills ? 'Time' : 'Play time'}</dt><dd>{d.playTime}</dd></div>
         {d.ages && <div><dt>Ages</dt><dd>{d.ages}</dd></div>}
-        <div><dt>Rules as of</dt><dd>{d.tcg?.rulesAsOf ?? d.rulesEdition}</dd></div>
+        {!isSkills && <div><dt>Rules as of</dt><dd>{d.tcg?.rulesAsOf ?? d.rulesEdition}</dd></div>}
         {d.tcg && <div><dt>Start with</dt><dd>{d.tcg.starter}</dd></div>}
         {d.tcg && <div><dt>First store event</dt><dd>{d.tcg.firstEvent}</dd></div>}
       </dl>
@@ -297,9 +299,15 @@ const pack = teachCardPack(course.id);
 
   <section class="container course-notice-wrap">
     <p class="course-sheet-links">
-      <a href={teachSheetUrl(course)}>Teach sheet</a> &middot;{' '}
-      <a href={pdf} download data-ott-event="download" data-ott-game={d.games.join(',') || undefined}>PDF</a> &middot; Rules as described in
-      the {d.rulesEdition}; <a href={d.rulesSource} rel="noopener">official rules</a>.
+      <a href={teachSheetUrl(course)}>{isSkills ? 'Cheat sheet' : 'Teach sheet'}</a> &middot;{' '}
+      <a href={pdf} download data-ott-event="download" data-ott-game={d.games.join(',') || undefined}>PDF</a> &middot;{' '}
+      {
+        isSkills ? (
+          <>Built on {d.rulesEdition}; <a href={d.rulesSource} rel="noopener">where to read more</a>.</>
+        ) : (
+          <>Rules as described in the {d.rulesEdition}; <a href={d.rulesSource} rel="noopener">official rules</a>.</>
+        )
+      }
     </p>
     <CourseNotice text={d.notice} />
   </section>

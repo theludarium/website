@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" role="img" aria-labelledby="t d">
+  <title id="t">The prisoner's dilemma payoff table and a small game tree</title>
+  <desc id="d">A two by two payoff table. Rows are your choices, Cooperate and Defect; columns are theirs. Both cooperate: 3 points each. Both defect: 1 point each. One defects while the other cooperates: 5 points for the defector and 0 for the other. The box where both defect is circled as the Nash equilibrium. Beside it, a small game tree shows a choice now and a reply later, with arrows working back from the end.</desc>
+  <rect width="480" height="320" fill="#F6EFE3"/>
+  <g font-family="system-ui, sans-serif" fill="#2B1E16">
+    <text x="24" y="30" font-size="14" font-weight="700">The payoff table</text>
+    <text x="24" y="47" font-size="11">Your points first, theirs second</text>
+    <!-- column header -->
+    <text x="146" y="66" font-size="12" font-weight="700" text-anchor="middle">They</text>
+    <text x="146" y="80" font-size="12" font-weight="700" text-anchor="middle">cooperate</text>
+    <text x="230" y="66" font-size="12" font-weight="700" text-anchor="middle">They</text>
+    <text x="230" y="80" font-size="12" font-weight="700" text-anchor="middle">defect</text>
+    <!-- row headers -->
+    <text x="92" y="122" font-size="12" font-weight="700" text-anchor="end">You</text>
+    <text x="92" y="137" font-size="12" font-weight="700" text-anchor="end">cooperate</text>
+    <text x="92" y="196" font-size="12" font-weight="700" text-anchor="end">You</text>
+    <text x="92" y="211" font-size="12" font-weight="700" text-anchor="end">defect</text>
+    <!-- grid -->
+    <rect x="104" y="88" width="168" height="148" rx="10" fill="#FBF7EF" stroke="#2B1E16" stroke-width="2"/>
+    <line x1="188" y1="88" x2="188" y2="236" stroke="#2B1E16" stroke-width="1.5"/>
+    <line x1="104" y1="162" x2="272" y2="162" stroke="#2B1E16" stroke-width="1.5"/>
+    <rect x="104" y="88" width="84" height="74" rx="10" fill="#2F5D50" opacity="0.12"/>
+    <text x="146" y="132" font-size="20" font-weight="700" text-anchor="middle">3, 3</text>
+    <text x="230" y="132" font-size="20" font-weight="700" text-anchor="middle">0, 5</text>
+    <text x="146" y="206" font-size="20" font-weight="700" text-anchor="middle">5, 0</text>
+    <text x="230" y="206" font-size="20" font-weight="700" text-anchor="middle">1, 1</text>
+    <ellipse cx="230" cy="199" rx="34" ry="26" fill="none" stroke="#E0A23B" stroke-width="3"/>
+    <text x="104" y="258" font-size="11">Green: best together.</text>
+    <text x="104" y="273" font-size="11">Gold ring: the Nash equilibrium.</text>
+    <text x="104" y="288" font-size="11">Neither player gains by changing alone.</text>
+    <!-- game tree -->
+    <text x="312" y="30" font-size="14" font-weight="700">The game tree</text>
+    <text x="312" y="47" font-size="11">Think from the end back</text>
+    <circle cx="390" cy="86" r="11" fill="#2F5D50"/>
+    <text x="390" y="90" font-size="10" font-weight="700" fill="#F6EFE3" text-anchor="middle">You</text>
+    <line x1="382" y1="95" x2="344" y2="146" stroke="#2B1E16" stroke-width="1.5"/>
+    <line x1="398" y1="95" x2="436" y2="146" stroke="#2B1E16" stroke-width="1.5"/>
+    <text x="348" y="118" font-size="10" text-anchor="end">A</text>
+    <text x="432" y="118" font-size="10">B</text>
+    <circle cx="340" cy="156" r="11" fill="#B9AD9C"/>
+    <circle cx="440" cy="156" r="11" fill="#B9AD9C"/>
+    <text x="340" y="160" font-size="9" font-weight="700" text-anchor="middle">Them</text>
+    <text x="440" y="160" font-size="9" font-weight="700" text-anchor="middle">Them</text>
+    <line x1="334" y1="166" x2="316" y2="212" stroke="#2B1E16" stroke-width="1.5"/>
+    <line x1="346" y1="166" x2="364" y2="212" stroke="#2B1E16" stroke-width="1.5"/>
+    <line x1="434" y1="166" x2="416" y2="212" stroke="#2B1E16" stroke-width="1.5"/>
+    <line x1="446" y1="166" x2="464" y2="212" stroke="#2B1E16" stroke-width="1.5"/>
+    <text x="316" y="228" font-size="11" text-anchor="middle">2, 1</text>
+    <text x="364" y="228" font-size="11" text-anchor="middle">0, 0</text>
+    <text x="416" y="228" font-size="11" text-anchor="middle">3, 0</text>
+    <text x="464" y="228" font-size="11" text-anchor="middle">1, 2</text>
+    <!-- backward induction arrows: they pick 2,1 under A and 1,2 under B; you pick A -->
+    <path d="M316 214 L334 168" fill="none" stroke="#E0A23B" stroke-width="3" stroke-linecap="round"/>
+    <path d="M464 214 L446 168" fill="none" stroke="#E0A23B" stroke-width="3" stroke-linecap="round"/>
+    <path d="M340 144 L382 94" fill="none" stroke="#E0A23B" stroke-width="3" stroke-linecap="round"/>
+    <text x="312" y="258" font-size="11">They reply with their best move.</text>
+    <text x="312" y="273" font-size="11">Knowing that, A gets you 2</text>
+    <text x="312" y="288" font-size="11">and B only 1. Choose A.</text>
+  </g>
+</svg>

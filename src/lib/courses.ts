@@ -18,10 +18,15 @@ export const FORMAT_LABEL: Record<CourseFormat, string> = {
   tcg: 'Trading card game course',
 };
 
-export type CourseGroup = 'Board games' | 'Trading card games' | 'Roleplaying games';
+export type CourseGroup = 'Board games' | 'Trading card games' | 'Roleplaying games' | 'Skills';
 
 export function courseTrack(course: GameCourse): CourseGroup {
   return course.data.group ?? (course.data.format === 'tcg' ? 'Trading card games' : 'Board games');
+}
+
+/** A skills course (Game Theory) teaches a way of thinking, not one game: its pages say "cheat sheet" and drop the game facts. */
+export function isSkillsCourse(course: GameCourse): boolean {
+  return course.data.group === 'Skills';
 }
 
 /** Courses that get pages on this build, in catalog order. */
