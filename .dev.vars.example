@@ -7,3 +7,22 @@ WWP_ADMIN_PREVIEW_TOKEN=local-admin
 
 # Optional: salt for the submission rate limit's hashed IPs.
 WWP_HASH_SALT=
+
+# Visiting companies (the corporate events tracker)
+
+# IPinfo token (free Lite plan works): https://ipinfo.io/account/token
+IPINFO_TOKEN=
+
+# "lite" (default) or "core" if you upgrade.
+IPINFO_PLAN=lite
+
+# Any long random string. Changing it breaks the link between old and new visits.
+#   openssl rand -hex 32
+VISITOR_HASH_SALT=
+
+# Your own IPs, separated by commas or spaces, so your visits are not logged.
+VISITOR_IGNORE_IPS=
+
+# Local only: pretend every request came from this IP, to exercise the lookup.
+# Never set this in production.
+VISITOR_TEST_IP=
