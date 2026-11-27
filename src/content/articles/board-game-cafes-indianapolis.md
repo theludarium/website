@@ -35,7 +35,7 @@ Here is where to start, each checked against its own site or a current listing i
 - [Moonshot Games](https://moonshotgamestore.com/), downtown Noblesville (50 N 9th St). Board games, D&D, room rentals, and events including Friday Night Magic.
 - [Gray Gauntlet Games](https://graygauntletgames.com/), northeast Indianapolis near Fishers (7998 Centerpoint Dr). A play space and an events calendar for Magic, Pokémon, and Lorcana.
 - [The Game Preserve](https://www.gamepreserve.com/), the south side near Greenwood (1551 E Stop 12 Rd) and at Fashion Mall Commons (8487 Union Chapel Rd). A long-running shop for board games, card games, and RPGs.
-- [Hero's Emporium](https://heroslgs.com/) and [Next Level Games](https://www.visithamiltoncounty.com/listing/next-level-games/5751/), both in Carmel. Stores for board games, card games, and RPGs.
+- [Hero's Emporium](https://heroslgs.com/) and [Next Level Games](https://www.nextlevelgames.store/events?location=carmel), both in Carmel. Stores for board games, card games, and RPGs.
 
 **Free public game nights**
 
